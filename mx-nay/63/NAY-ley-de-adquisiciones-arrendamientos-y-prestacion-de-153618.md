@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-adquisiciones-arrendamientos-y-prestacion-de-153618"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-28"
-last_updated: "2021-12-28"
+last_updated: "2023-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2023.
 
 Ley publicada en la Sección Décima Octava al Número 121 del Periódico Oficial del Estado de Nayarit, el martes 28 de diciembre de 2021.
 
@@ -107,7 +107,9 @@ En el caso de personas jurídicas colectivas, el local en donde se encuentra la 
 
 En todos los casos en que la presente Ley haga referencia a las adquisiciones, arrendamientos y servicios se entenderá que se trata, respectivamente, de adquisiciones y arrendamientos de bienes muebles, y de prestación de servicios relacionados con dichos bienes, salvo mención expresa en contrario;
 
-XV. Entes públicos: Los Poderes Ejecutivo, Legislativo y Judicial; Municipios del Estado; Órganos Autónomos por disposición constitucional; organismos descentralizados estatales y municipales; empresas de participación estatal o municipal mayoritaria, así como los fideicomisos en los que cualquiera de los antes mencionados tenga el carácter de fideicomitente;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+XV. Entes públicos: Los Poderes Ejecutivo, Legislativo y Judicial; Municipios del Estado; Órganos Autónomos por disposición constitucional; empresas de participación estatal o municipal mayoritaria, organismos descentralizados municipales, así como los fideicomisos en los que cualquiera de los antes mencionados tenga el carácter de fideicomitente;
 
 XVI. Entes: Los referentes a Fondos, Patronatos, Comités y Comisiones;
 
@@ -189,9 +191,13 @@ Los actos y contratos descritos en las fracciones que preceden, deberán llevars
 
 Sin perjuicio de lo que esta Ley establece, el gasto de las adquisiciones, los arrendamientos y los servicios se sujetarán a lo previsto en la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit y su Reglamento, así como al Presupuesto de Egresos del Estado, en lo que corresponda.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
 ###### Artículo 6.
 
-Los entes públicos podrán convocar, adjudicar o llevar a cabo adquisiciones, arrendamientos y contratar prestación de servicios, bajo las modalidades que se contemplan en la presente Ley, cuando se ajusten a la disponibilidad de las partidas correspondientes en su presupuesto autorizado. En caso contrario, se abstendrán de formalizar o modificar pedidos y contratos en las materias que regula esta Ley.
+Los entes públicos podrán convocar, adjudicar o llevar a cabo adquisiciones, arrendamientos y contratar prestación de servicios, bajo las modalidades que se contemplan en la presente Ley; tratándose del ente público del Poder Ejecutivo será el Instituto quien lleve a cabo estas modalidades.
+
+Lo señalado en el párrafo que antecede se llevará a cabo únicamente cuando se ajusten a la disponibilidad de las partidas correspondientes en su presupuesto autorizado. En caso contrario, se abstendrán de formalizar o modificar pedidos y contratos en las materias que regula esta Ley.
 
 ###### Artículo 7.
 
@@ -459,7 +465,9 @@ IV. Aprobar la organización administrativa del Instituto;
 
 V. Aprobar los estados financieros del Instituto y autorizar la publicación de ellos;
 
-VI. Aprobar, a propuesta del Comité Técnico de Adquisiciones, las políticas, bases y programas generales que regulen los Convenios, Contratos, Pedidos o Acuerdos que deba celebrar el Instituto con terceros en materia de obras públicas, adquisiciones, arrendamientos y prestaciones de servicios;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+VI. Aprobar, a propuesta del Comité Técnico de Adquisiciones, las políticas, bases y programas generales que regulen los Convenios, Contratos, Pedidos o Acuerdos que deba celebrar el Instituto con terceros en materia de adquisiciones, arrendamientos y prestaciones de servicios;
 
 VII. Expedir las normas y bases generales con arreglo a las cuales, cuando fuere necesario la persona titular de la Dirección General pueda disponer de los activos fijos en el Instituto;
 
@@ -501,11 +509,17 @@ Para ser designado como persona titular de la Dirección General del Instituto, 
 
 I. Ser ciudadana o ciudadano mexicano;
 
-II. Tener cuando menos 30 años al día de la designación;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-III. Poseer, cuando menos, título a nivel licenciatura con un mínimo de cinco años de antigüedad en las carreras de contaduría, administración de empresas, derecho o alguna equivalente, y
+II. Tener cuando menos 25 años al día de la designación;
 
-IV. Contar con experiencia en la administración pública.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+III. Poseer, cuando menos, título a nivel licenciatura en las carreras de contaduría, administración de empresas, derecho o alguna equivalente, y
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+IV. Contar con experiencia mínima de cinco años en la administración pública.
 
 ###### Artículo 40.
 
@@ -589,15 +603,23 @@ I. Elaborar y someter a su aprobación ante el Comité Técnico su manual de int
 
 II. Establecer los lineamientos que les correspondan en materia de adquisiciones, arrendamientos y prestación de servicios;
 
-III. Revisar los documentos de cada área requirente, a fin de corroborar que la información presentada sea la necesaria para iniciar el proceso de licitación;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-IV. Analizar la documentación del área requirente de las adquisiciones, arrendamientos o prestación de servicios que servirán de elementos para la justificación y elaboración de la convocatoria respectiva;
+III. Revisar los documentos de cada área requirente, a fin de corroborar que la información presentada sea la necesaria para que el Instituto inicie el proceso de licitación;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+IV. Analizar la documentación del área requirente de las adquisiciones, arrendamientos o prestación de servicios que servirán de elementos para la justificación y elaboración del proyecto de la convocatoria respectiva;
 
 V. Elaborar su agenda para sus procesos de adquisiciones conforme a sus programas anuales y sus actualizaciones, los cuales serán sometidos al comité Técnico;
 
-VI. Elaborar el proyecto de convocatoria del procedimiento de compras a efectuar para presentarlo ante el comité de adquisiciones;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-VII. Realizar los procesos de adjudicación establecidos en esta ley siempre y cuando no rebase los montos establecidos por la Junta de Gobierno del Instituto;
+VI. Elaborar el proyecto de convocatoria del procedimiento de compras a efectuar para presentarlo ante el Instituto;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+VII. Realizar los procesos de adjudicación establecidos en esta Ley, siempre y cuando no rebase los montos señalados en este ordenamiento;
 
 VIII. Aplicar, difundir, vigilar y coadyuvar al debido cumplimiento de esta Ley, su Reglamento y demás disposiciones aplicables, y
 
@@ -683,9 +705,15 @@ c. Copia fotostática del alta ante la Secretaría de Hacienda y Crédito Públi
 
 III. En ambos casos:
 
-a. Domicilio fiscal, teléfono y dirección de correo electrónico para su localización, anexando copia fotostática de los comprobantes respectivos;
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
 
-b. Domicilio para oír y recibir notificaciones dentro del territorio del Estado con una antigüedad mínima de seis meses;
+a. Domicilio fiscal y teléfono para su localización, anexando copia fotostática de los comprobantes respectivos;
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
+b. Domicilio con una antigüedad mínima de seis meses, y correo electrónico para efecto de oír y recibir todo tipo de notificaciones y documentos.
+
+Las notificaciones realizadas por correo electrónico se llevarán a cabo de conformidad con la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit;
 
 c. Opinión o documento que acredite el cumplimiento de obligaciones fiscales, y
 
@@ -797,9 +825,7 @@ Iniciado el acto de presentación y apertura de propuestas, las ya presentadas n
 
 ###### Artículo 67.
 
-Los entes públicos podrán utilizar el abastecimiento simultáneo a efecto de distribuir entre dos o más personas proveedoras las partidas de bienes o servicios, cuando así lo hayan establecido en la convocatoria y en las bases de la licitación, siempre que con ello no restrinjan la libre participación.
-
-En este caso, los precios de los bienes o servicios contenidos en una misma partida y distribuidos entre dos o más personas proveedoras, no podrán exceder del margen previsto por la convocante en la convocatoria y en las bases de la licitación, el cual no podrá ser superior al diez por ciento respecto de la propuesta solvente más baja.
+(DEROGADO, P.O. 24 DE MAYO DE 2023)
 
 ###### Artículo 68.
 
@@ -807,19 +833,17 @@ El trámite del procedimiento de adquisiciones, arrendamientos y prestación de 
 
 ###### Artículo 69.
 
-Los entes públicos podrán utilizar el abastecimiento simultáneo a efecto de distribuir entre dos o más proveedores las partidas de bienes o servicios, cuando así lo hayan establecido en la convocatoria y en las bases de la licitación, siempre que con ello no restrinjan la libre participación.
-
-En este caso, los precios de los bienes o servicios contenidos en una misma partida y distribuidos entre dos o más personas proveedoras, no podrán exceder del margen previsto por la convocante y en las bases de la licitación, el cual no podrá ser superior al diez por ciento respecto de la propuesta solvente más baja.
+(DEROGADO, P.O. 24 DE MAYO DE 2023)
 
 ###### Artículo 70.
 
-Tratándose de los procedimientos de adjudicación directa, y en atención a la necesidad de celeridad en este procedimiento, bastará que las dependencias, órganos, entidades y entes de la administración pública cuenten con la autorización del director general del Instituto que deberá dar respuesta a la solicitud dentro de los tres días hábiles siguientes a la solicitud de aprobación.
+(DEROGADO, P.O. 24 DE MAYO DE 2023)
 
-Las y los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones que resulten aplicables de esta ley, la Ley General de Responsabilidades Administrativas y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 71.
 
-Para contratar adquisiciones, arrendamientos y prestación de servicios mediante los procedimientos que establece el (sic) esta Ley, los entes públicos, deberán observar los criterios y directrices que determine el Comité Técnico de Adquisiciones o sus propios Comités, dentro del ámbito de su competencia y de conformidad con la normatividad aplicable.
+Para contratar adquisiciones, arrendamientos y prestación de servicios mediante los procedimientos que establece esta Ley, los entes públicos, deberán observar los criterios y directrices que determine el Comité Técnico de Adquisiciones o sus propios Comités, dentro del ámbito de su competencia y de conformidad con la normatividad aplicable.
 
 ###### Artículo 72.
 
@@ -843,11 +867,25 @@ Las personas físicas o jurídicas que provean y arrienden bienes o presten serv
 
 I. La seriedad de las propuestas en los procedimientos de adjudicación, que se hará con la entrega de un cheque no negociable con la leyenda "para abono en cuenta del beneficiario", a nombre de la Secretaría de Administración y Finanzas del Gobierno del Estado de Nayarit, con un mínimo del cinco por ciento del total de la oferta económica;
 
-II. La correcta aplicación de los anticipos que reciban, cuando éstos procedan, en ningún caso podrán ser superiores al cincuenta por ciento del monto total del Contrato, y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-III. El cumplimiento del contrato, con un mínimo del veinte por ciento del importe total del documento.
+II. La correcta aplicación de los anticipos que reciban, cuando éstos procedan, en ningún caso podrán ser superiores al cincuenta por ciento del monto total del Contrato;
 
-Las garantías a que hace referencia este artículo en sus fracciones II y III, deberán incluir el Impuesto al Valor Agregado, mismas que se constituirán a través de garantías que en forma enunciativa más no limitativa, pueden ser: cheque certificado no negociable con la leyenda “para abono en cuenta del beneficiario”, a nombre de la Secretaría de Administración y Finanzas del Gobierno del Estado de Nayarit; fianzas expedidas por afianzadoras de cobertura nacional legalmente constituidas, para lo cual deberá estarse a lo establecido en el Reglamento de esta Ley y demás normatividad aplicable; seguro de caución conforme a la Ley de Instituciones de Seguros y de Fianzas vigente y demás normatividad aplicable; así como cualquier otra garantía, siempre que sea de fácil ejecución.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+III. El cumplimiento del contrato, por el diez por ciento del importe total del contrato, y
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2023)</small>
+
+IV. El saneamiento para el caso de evicción, vicios ocultos, daños y perjuicios y calidad de los servicios, por el diez por ciento del importe total del contrato sin incluir el IVA.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
+Las garantías a que hace referencia este artículo en sus fracciones II y III, deberán incluir el Impuesto al Valor Agregado, y la fracción IV no incluye Impuesto al Valor Agregado, mismas que se constituirán a través de garantías que en forma enunciativa más no limitativa, pueden ser: cheque no negociable con la leyenda “para abono en cuenta del beneficiario”, Cheque de caja, cheque certificado, depósito en garantía, fianza o carta de crédito irrevocable a nombre de la Secretaría de Administración y Finanzas del Gobierno del Estado de Nayarit; fianzas expedidas por afianzadoras de cobertura nacional legalmente constituidas, para lo cual deberá sujetarse a lo establecido en el Reglamento de esta Ley y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2023)</small>
+
+Las garantías señaladas en el párrafo anterior se sujetarán a lo establecido por el párrafo segundo del artículo 118 de esta Ley.
 
 ###### Artículo 75.
 
@@ -857,7 +895,9 @@ I. Los cheques dados en garantía, que se otorguen como sostenimiento de la ofer
 
 II. Tratándose de anticipo, la garantía se constituirá, previo a su otorgamiento, en un plazo que no excederá de diez días naturales, contados a partir de la fecha de suscripción del contrato, y
 
-III. Tratándose de cumplimiento a contratos, la garantía se constituirá dentro de un plazo que no excederá de diez días naturales, contados a partir de la fecha de suscripción del contrato.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+III. Tratándose de cumplimiento a contratos, la garantía se constituirá dentro de un plazo que no excederá de diez días hábiles, contados a partir de la fecha de suscripción del contrato.
 
 Tratándose de los demás entes, las garantías a que se refiere el artículo anterior se constituirán por la o el proveedor en favor de los propios entes públicos.
 
@@ -873,11 +913,15 @@ Las y los participantes en los procedimientos de adquisiciones, deberán atender
 
 I. Las empresas deberán acompañar los registros, de al menos dos años anteriores, ante el Servicio de Administración Tributaria, el Instituto Mexicano del Seguro Social, pago del servicio de agua potable y alcantarillado, y del servicio de suministro de energía eléctrica, así como cualquier otro comprobante relacionado, a nombre de la empresa o del representante legal;
 
-II. Deberán notificar respecto a cualquier relación jurídica o por afinidad con personas servidoras públicas de primer y segundo nivel, o de aquellas con quien tenga una relación o injerencia en los procesos de adquisición o licitación;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-III. Deberán acreditar sus activos, su capacidad material y los recursos humanos con los que cuenta, los cuales deberán ser suficientes para dar cumplimiento al contrato sujeto a licitación, y
+II. Deberán notificar respecto a cualquier relación jurídica o por afinidad con personas servidoras públicas de primer y segundo nivel, o de aquellas con quien tenga una relación o injerencia en los procesos de adquisición o licitación, y
 
-IV. Deberán acreditar su condición como empresa socialmente responsable conforme a los términos establecidos en el Reglamento de esta Ley.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+III. Deberán acreditar sus activos, su capacidad material y los recursos humanos con los que cuenta, los cuales deberán ser suficientes para dar cumplimiento al contrato sujeto a licitación.
+
+IV. (DEROGADA, P.O. 24 DE MAYO DE 2023)
 
 ###### Artículo 77.
 
@@ -931,7 +975,9 @@ I. El nombre, denominación o razón social de la dependencia o entidad convocan
 
 II. El número de convocatoria y el objeto de la licitación;
 
-III. La indicación de si la licitación es estatal o nacional, de acuerdo a los montos que para tal efecto expida el Congreso del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+III. La indicación de si la licitación es estatal, nacional o internacional;
 
 IV. La descripción genérica, cantidad y unidad de medida de los bienes o servicios objeto de la licitación, así como la descripción específica de por lo menos tres de los productos o servicios de mayor monto, de ser el caso;
 
@@ -985,7 +1031,9 @@ II. La descripción completa de los bienes o servicios, incluyendo presentación
 
 III. El lugar, plazo y demás condiciones de entrega;
 
-IV. Las condiciones de pago, así como la indicación si se otorgará o no anticipo, en cuyo caso, deberá señalarse el porcentaje respectivo, el cual no podrá exceder del cuarenta por ciento del importe total del contrato. Las ofertas deberán formularse en moneda nacional;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+IV. Las condiciones de pago, así como la indicación si se otorgará o no anticipo, en cuyo caso, deberá señalarse el porcentaje respectivo, el cual no podrá exceder del cincuenta por ciento del importe total del contrato. Las ofertas deberán formularse en moneda nacional;
 
 V. En los casos en que se determine que las propuestas deberán presentarse en moneda extranjera, el pago se efectuará en moneda nacional en los términos que establece la Ley Monetaria de los Estados Unidos Mexicanos;
 
@@ -1199,7 +1247,9 @@ En los casos en que no existan proveedoras o proveedores nacionales, en las pol�
 
 Cuando se declare desierta una licitación o alguna partida y persista la necesidad de contratar con el carácter y requisitos solicitados en la primera licitación, los entes públicos deberán emitir una segunda convocatoria.
 
-Si realizada la segunda convocatoria se declara desierta la licitación, previa dictaminación el ente público a través de su comité de adquisiciones o del comité técnico en su caso, podrá adjudicarse directamente el contrato al oferente que reúna el mayor número de requisitos solicitados, entre los participantes.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
+Si realizada la segunda convocatoria se declara desierta la licitación, previa dictaminación el ente público a través de su comité de adquisiciones o del comité técnico en su caso, podrá adjudicarse directamente el contrato al licitante que reúna el mayor número de requisitos solicitados, entre los participantes.
 
 Tratándose de licitaciones en la que una o varias partidas se declaren desiertas, por no haberse recibido propuestas satisfactorias se podrá proceder a celebrar una nueva licitación sólo respecto a esas partidas, o bien, un procedimiento de invitación a cuando menos tres oferentes o adjudicación directa, según corresponda.
 
@@ -1213,9 +1263,11 @@ Salvo en las cancelaciones por caso fortuito y fuerza mayor, los entes públicos
 
 ### CAPÍTULO TERCERO. DE LAS COMPRAS CONSOLIDADAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2023)</small>
+
 ###### Artículo 99.
 
-Los entes públicos, previa autorización de su comité o del comité Técnico, según corresponda, podrán utilizar el abastecimiento simultáneo a efecto de distribuir entre dos o más proveedoras o proveedores las partidas de bienes, servicios o arrendamientos, cuando así lo hayan establecido en el procedimiento que corresponda de los señalados (sic) las bases de licitación respectivas.
+Los entes públicos, previa autorización de su comité o del comité Técnico, según corresponda, podrán utilizar el abastecimiento simultáneo a efecto de distribuir entre dos o más proveedoras o proveedores las partidas de bienes, servicios o arrendamientos, cuando así lo hayan establecido en el procedimiento que corresponda de los señalados en la convocatoria y bases de licitación respectivas.
 
 Las propuestas que gocen de este beneficio serán en todo caso, aquellas que se encuentren en un rango del cinco por ciento respecto de la propuesta solvente más baja, misma que servirá como precio base de los bienes o servicios que se adjudiquen.
 
@@ -1281,7 +1333,9 @@ VI. No quedan comprendidos en este supuesto los requerimientos administrativos q
 
 VII. Se haya rescindido un contrato adjudicado a través de licitación pública, en cuyo caso se podrá adjudicar a la persona licitante que haya obtenido el segundo, tercero o ulteriores lugares sucesivamente, siempre que la diferencia en precio con respecto a la propuesta inicialmente adjudicada no sea superior a un margen del cinco por ciento;
 
-VIII. Tratándose de contrataciones en las que la evaluación se haya realizado mediante puntos y porcentajes o consto (sic) beneficio, se podrá adjudicar al segundo o ulterior lugar sucesivamente, dentro del referido margen;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+VIII. Tratándose de contrataciones en las que la evaluación se haya realizado mediante puntos y porcentajes o costo beneficio, se podrá adjudicar al segundo o ulterior lugar sucesivamente, dentro del referido margen.
 
 IX. Se haya declarado desierta una licitación pública, siempre que se mantengan los mismos requisitos establecidos en las convocatorias cuyo incumplimiento haya sido considerado como causa de desechamiento porque afecta directamente la solvencia de las propuestas;
 
@@ -1291,13 +1345,23 @@ XI. Se trate de bienes usados o reconstruidos en los que el precio no podrá ser
 
 XII. Se trate de los servicios prestados por una persona física, siempre que estos sean realizados por ella misma, sin requerir de la utilización de más de una persona especialista o con conocimientos técnicos;
 
-XIII. Se trate de servicios de mantenimiento correctivo de bienes en los que sea posible precisar su alcance, establecer las cantidades de trabajo o determinar las especificaciones correspondientes;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+XIII. Se trate de servicios de mantenimiento correctivo de bienes en los que no sea posible precisar su alcance, establecer las cantidades de trabajo o determinar las especificaciones correspondientes;
 
 XIV. Se trate de la suscripción de contratos específicos que deriven de un contrato marco;
 
-XV. Los servicios relacionados a gasto de ceremonial, congresos, convenciones y exposiciones, o
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-XVI. Los servicios contratos directamente con la persona que posee la titularidad o el licenciamiento exclusivo de patentes vigentes, derechos de autoría, u otros derechos exclusivos, o por tratarse de obras de arte.
+XV. Los servicios relacionados a gasto de ceremonial, congresos, convenciones y exposiciones;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+XVI. Los servicios contratos directamente con la persona que posee la titularidad o el licenciamiento exclusivo de patentes vigentes, derechos de autoría, u otros derechos exclusivos, o por tratarse de obras de arte, o
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2023)</small>
+
+XVII. Cuando existan razones justificadas para la adquisición o prestación de servicios específicos con persona determinada o marca específica.
 
 No quedarán comprendidos en los supuestos a que se refiere este artículo los requerimientos administrativos que tengan los entes públicos, conforme a lo dispuesto por el Reglamento de esta Ley.
 
@@ -1467,7 +1531,9 @@ Los derechos y obligaciones que se deriven de los contratos no podrán ser trans
 
 Los entes públicos podrán celebrar contratos abiertos conforme a lo siguiente:
 
-I. Se establecerá la cantidad mínima y máxima de bienes por adquirir o arrendar, o bien, el presupuesto mínimo y máximo que podrá ejercerse en la adquisición o el arrendamiento. En el caso de servicios, se establecerá el plazo mínimo y máximo para la prestación, o bien, el presupuesto mínimo y máximo que podrá ejercerse. La cantidad, presupuesto o plazo mínimo no podrá ser inferior al cuarenta por ciento de la cantidad, presupuesto o plazo máximo;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+I. Se establecerá la cantidad mínima y máxima de bienes por adquirir o arrendar, o bien, el presupuesto mínimo y máximo que podrá ejercerse en la adquisición o el arrendamiento. En el caso de servicios, se establecerá el plazo mínimo y máximo para la prestación, o bien, el presupuesto mínimo y máximo que podrá ejercerse. La cantidad, presupuesto o plazo mínimo no podrá ser inferior al sesenta por ciento de la cantidad, presupuesto o plazo máximo;
 
 II. En casos de bienes que se fabriquen en forma exclusiva para los entes públicos, la cantidad o presupuesto mínimo que se requiera no podrá ser inferior al sesenta por ciento de la cantidad o presupuesto máximo establecido. Se entenderá por bienes de fabricación exclusiva, los que requieren un proceso de fabricación especial determinado por el ente público.
 
@@ -1485,7 +1551,9 @@ II. El cumplimiento de los contratos, y
 
 III. El saneamiento para el caso de evicción, vicios ocultos, daños y perjuicios y calidad de los servicios.
 
-Para los efectos de este artículo, las personas titulares de los entes públicos fijarán los criterios, forma y porcentajes a los que deberán sujetarse las garantías que deban constituirse, considerando los antecedentes de cumplimiento de las o los proveedores en los contratos celebrados con el ente público, a efecto de determinar montos menores para estos, de acuerdo a los lineamientos que al efecto emita la Secretaría.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
+Para los efectos de las fracciones II y III, de este artículo los entes públicos fijarán los criterios, forma y porcentajes a los que deberán sujetarse las garantías que deban constituirse.
 
 La garantía de cumplimiento del contrato deberá presentarse en el plazo o fecha previstos en la convocatoria y en las bases de la licitación; en su defecto, a más tardar dentro de los diez días hábiles siguientes a la firma del contrato, salvo que la entrega de los bienes o la prestación de los servicios se realice dentro del citado plazo.
 
@@ -2021,15 +2089,21 @@ SEGUNDO. Se abroga la Ley de Adquisiciones, Arrendamientos y Prestación de Serv
 
 TERCERO. Los trámites y disposiciones inherentes a los procesos de Licitación Pública, iniciados con anterioridad a la entrada en vigor de la presente norma, se substanciarán y resolverán hasta su conclusión, de conformidad con la normativa interna vigente, establecida en las dependencias, órganos y entidades de la administración pública.
 
-CUARTO. Se crea el Organismo Público Descentralizado denominado Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit (INAPS), con personalidad jurídica, patrimonio propio, no sectorizado, con domicilio en la ciudad de Tepic Nayarit, el cual tendrá por objeto la coordinación, la operación y la validación de los procedimientos de las adquisiciones, arrendamientos y servicios dentro de las diferentes áreas de la administración pública centralizada y paraestatal del Gobierno del Estado de Nayarit en los términos que señala la presente Ley.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
 
-QUINTO. La Junta de Gobierno del Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit (INAPS), se instalará por el titular del Poder Ejecutivo a más tardar sesenta días posteriores contados a partir de la entrada en vigor del presente Decreto.
+CUARTO. Se crea el Organismo Público Descentralizado denominado Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit (INAAPS), con personalidad jurídica, patrimonio propio, no sectorizado, con domicilio en la ciudad de Tepic Nayarit, el cual tendrá por objeto la coordinación, la operación y la validación de los procedimientos de las adquisiciones, arrendamientos y servicios dentro de las diferentes áreas de la administración pública centralizada y paraestatal del Gobierno del Estado de Nayarit en los términos que señala la presente Ley.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
+QUINTO. La Junta de Gobierno del Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit (INAAPS), se instalará por el titular del Poder Ejecutivo a más tardar sesenta días posteriores contados a partir de la entrada en vigor del presente Decreto.
 
 SEXTO. La Junta de Gobierno aprobará y expedirá el Estatuto Orgánico del Instituto en un plazo no mayor de treinta días hábiles, contados a partir de la fecha de su instalación.
 
 SÉPTIMO. El Reglamento Interior del Instituto deberá expedirse en un término de treinta días contado a partir de la Instalación de la Junta de Gobierno.
 
-OCTAVO. El Organismo Público Descentralizado al que hace alusión esta Ley, denominado Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit (INAPS), se integrará con la estructura orgánica, recursos humanos, financieros y materiales que previamente autorice su Junta de Gobierno.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
+OCTAVO. El Organismo Público Descentralizado al que hace alusión esta Ley, denominado Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit (INAAPS), se integrará con la estructura orgánica, recursos humanos, financieros y materiales que previamente autorice su Junta de Gobierno.
 
 NOVENO. Se faculta a la Secretaría de Administración y Finanzas del Gobierno del Estado de Nayarit, para que en un plazo de sesenta días contados a partir de la entrada en vigor del presente decreto lleve a cabo las acciones necesarias presupuestarias para su cumplimiento.
 
@@ -2047,7 +2121,9 @@ A.- Los bienes muebles, propiedad del estado que ya no le resulten útiles, podr
 
 B.- Los bienes inmuebles que pertenezcan en pleno dominio al Gobierno del Estado, podrán ser desincorporados previa aprobación que realice el Congreso del Estado, por el titular del Poder Ejecutivo, mediante decreto que deberá ser publicado en el Periódico Oficial, Órgano del Gobierno del Estado. Para la desincorporación de los bienes inmuebles se atenderá al tipo de figura jurídica que se refiera a cualquier forma de transmisión prevista en el Código Civil del Estado de Nayarit.
 
-DÉCIMO CUARTO. El diseño del Sistema Electrónico, deberá estar concluido en un plazo no mayor a ciento ochenta días, contados a partir de la fecha de entrada en vigor de este Decreto.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
+DÉCIMO CUARTO. El diseño del Sistema Electrónico, deberá estar concluido en un plazo no mayor a veinticuatro meses, contados a partir de la fecha de entrada en vigor de este Decreto.
 
 DÉCIMO QUINTO. Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
 
@@ -2056,3 +2132,17 @@ DADO en la Sala de Sesiones “Lic. Benito Juárez García” Recinto Oficial de
 Dip. Alba Cristal Espinoza Peña, Presidenta.- Rúbrica.- Dip. Juana Nataly Tizcareño Lara, Secretaria.- Rúbrica.- Dip. Alejandro Regalado Curiel, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintiocho días del mes de diciembre de dos mil veintiuno.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Lic. Juan Antonio Echeagaray Becerra, Secretario General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto del Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios (INAPS, de la cual se reforman sus siglas en virtud del presente Decreto, deberán entenderse referidas a INAAPS.
+
+Todos los documentos públicos o privados que se hayan expedido previamente a la entrada en vigor del presente Decreto y que hagan referencia al INAPS, deberán entenderse hechas a INAAPS, por lo tanto, seguirán teniendo plena validez. Aquellos que se deban emitir posteriormente a la entrada en vigor del presente Decreto, deberán referirse expresamente a INAAPS.
+
+TERCERO. En virtud de las disposiciones que se reforman, adicionan y derogan a través del presente Decreto, a partir de su entrada en vigor, se establece un plazo de ciento veinte días hábiles, para que se realicen las adecuaciones al Reglamento de la presente Ley, así como a la demás normativa interna aplicable en la materia.
