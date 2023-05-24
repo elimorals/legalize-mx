@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-mejora-regulatoria-y-gestion-empresarial-para-el-139257"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-28"
-last_updated: "2023-05-10"
+last_updated: "2023-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE MEJORA REGULATORIA Y GESTIÓN EMPRESARIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el jueves 28 de noviembre de 2019.
 
@@ -133,11 +133,13 @@ III. Armonizar el marco normativo de la mejora regulatoria del Estado de Aguasca
 
 IV. Establecer la organización y el funcionamiento del Sistema Estatal de Mejora Regulatoria;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-V. Establecer los instrumentos, herramientas, acciones y procedimientos de mejora regulatoria, así como las responsabilidades de los sujetos obligados para facilitar los trámites y la obtención de servicios, incluyendo el uso de tecnologías de la información; e
+V. Establecer los instrumentos, herramientas, acciones y procedimientos de mejora regulatoria, así como las responsabilidades de los sujetos obligados para facilitar los trámites y la obtención de servicios, incluyendo el uso de tecnologías de la información;
 
-VI. (DEROGADA, P.O. 10 DE MAYO DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2023)</small>
+
+VI. Establecer la creación y el funcionamiento del Catálogo Estatal de Regulaciones, Trámites y Servicios de conformidad con la Ley General y los lineamientos que para tal efecto emita la Comisión Nacional de Mejora Regulatoria; e
 
 VII. Incorporar el uso de medios electrónicos, magnéticos o de cualquier tecnología de la información con la finalidad de hacer más eficiente la implementación de las herramientas de mejora regulatoria y acciones de gestión empresarial.
 
@@ -155,7 +157,9 @@ II. Análisis de Impacto Regulatorio: Herramienta prevista en el Título Tercero
 
 III. Autoridad de Mejora Regulatoria: La Secretaría de Innovación y Gobierno Digital para el ámbito estatal, y la instancia que se determine en el ámbito municipal, cuyo titular debe designarse conforme a lo previsto en el artículo 12 de la Ley General;
 
-IV. (DEROGADA, P.O. 10 DE MAYO DE 2023)
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2023)</small>
+
+IV. Catálogo: El Catálogo Estatal de Regulaciones, Trámites y Servicios;
 
 V. Consejo Estatal: El Consejo Estatal de Mejora Regulatoria;
 
@@ -185,13 +189,17 @@ XIV. (DEROGADA, P.O. 10 DE MAYO DE 2023)
 
 XV. Propuesta regulatoria: Los anteproyectos de leyes o regulaciones que pretendan expedir los sujetos obligados, en el ámbito de su competencia, y que se presenten a consideración de las Autoridades de Mejora Regulatoria para su respectivo dictamen;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-XVI. Protesta Ciudadana: La herramienta que forma parte del Catálogo Nacional de Regulaciones, Trámites y Servicios, y que se refiere en los artículos 61 a 63 de la Ley General;
+XVI. Protesta Ciudadana: La herramienta por medio de la cual el solicitante puede presentar una acción u omisión contra los servidores públicos de los sujetos obligados, encargados de algún trámite o servicio que, sin causa justificada, altere o incumpla lo previsto en la presente Ley;
 
-XVII. (DEROGADA, P.O. 10 DE MAYO DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2023)</small>
 
-XVIII. (DEROGADA, P.O. 10 DE MAYO DE 2023)
+XVII. Registro Estatal: Al Registro Estatal de Trámites y Servicios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2023)</small>
+
+XVIII. Registro de Regulaciones: A la recopilación de la normatividad aplicable vigente;
 
 XIX. Regulación o regulaciones: Cualquier normativa de carácter general que puede ser denominada ley, reglamento, decreto, acuerdo o demás normas de naturaleza jurídica que expida cualquier sujeto obligado;
 
@@ -251,7 +259,9 @@ Los sujetos obligados, en la expedición de las regulaciones, trámites y servic
 
 La política de mejora regulatoria se orientará por los siguientes principios:
 
-I. Mayores beneficios que costos y el máximo beneficio social;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+I. Procurar que las regulaciones que se expidan generen beneficios superiores a los costos y produzcan el máximo bienestar para la sociedad;
 
 II. Simplificación, mejora y no duplicidad en la emisión de regulaciones, trámites y servicios;
 
@@ -301,7 +311,9 @@ X. Facilitar y mejorar el ambiente para hacer negocios;
 
 XI. Facilitar a la sociedad, el conocimiento y entendimiento de la regulación, trámites y servicios, mediante la accesibilidad y el uso de lenguaje sencillo y claro;
 
-XII. Procurar que las regulaciones no impongan barreras al comercio, a la libre concurrencia y a la competencia económica;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+XII. Procurar que las regulaciones no impongan barreras al comercio internacional, a la libre concurrencia, a la competencia económica y al empleo;
 
 XIII. Favorecer la coordinación permanente entre los sujetos obligados y los sectores social y privado, en las tareas de mejora regulatoria y eficiencia gubernamental;
 
@@ -355,15 +367,15 @@ III. Las Autoridades de Mejora Regulatoria; y
 
 IV. Los sujetos obligados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 14.
 
-Las herramientas referidas en el artículo 11 de la Ley General, serán aplicables al Sistema Estatal conforme a lo que establezca la Ley en cita. Dichas herramientas son:
+Son herramientas del Sistema Estatal:
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-I. El Catálogo Nacional de Regulaciones, Trámites y Servicios;
+I. El Catálogo;
 
 II. La Agenda Regulatoria;
 
@@ -379,47 +391,73 @@ V. Las Encuestas, Información Estadística y Evaluación en Materia de Mejora R
 
 El Consejo Estatal es la instancia responsable de coordinar la política de mejora regulatoria, integrado por:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-I. El Gobernador del Estado, quien lo presidirá, mismo que en caso de ausencia, será suplido por el Secretario de Innovación y Gobierno Digital;
+I. La persona titular del Gobierno del Estado, quien lo presidirá, mismo que en caso de ausencia, será suplido por el Secretario de Innovación y Gobierno Digital;
 
-II. El Secretario de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+II. La persona titular de la Secretaría General de Gobierno;
 
-III. El Secretario de Planeación del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-IV. El Secretario de Finanzas;
+III. La persona titular de la Secretaría de Innovación y Gobierno Digital;
 
-V. El Secretario de Administración;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-VI. El Contralor del Estado;
+IV. La persona titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
-VII. El Coordinador General de Gabinete;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-VIII. El Coordinador General de Planeación y Proyectos;
+V. La persona titular de la Secretaría de Planeación, Participación y Desarrollo;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-IX. Los Presidentes Municipales de los cuatro municipios que preferentemente registren el mayor número de Unidades Económicas, según el Instituto Nacional de Estadística y Geografía o conforme a la designación prevista en el Reglamento Interior del Consejo,
+VI. La persona titular de la Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-X. Dos representantes del sector empresarial;
+VII. La persona titular de la Secretaría de Administración;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-XI. Un representante de instituciones de Educación Superior en el Estado, y
+VIII. La persona titular de la Contraloría del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-XII. Un representante de organizaciones no gubernamentales en el Estado.
+IX. La persona titular de la Coordinación General Ejecutiva de Gabinete;
 
-Los integrantes descritos en las fracciones X, XI y XII del presente artículo serán designados por el Presidente del Consejo Estatal.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-Los integrantes del Consejo Estatal podrán designar a sus respectivos suplentes, quienes deberán tener el nivel jerárquico inmediato inferior o equivalente y tendrán las mismas atribuciones, con excepción de aquellos designados por el Presidente del Consejo, cuyo suplente podrá ser nombrado también por éste.
+X. La persona titular de la Consejería Jurídica del Estado;
 
-Los integrantes del Consejo tendrán derecho a voz y voto en las sesiones.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+XI. Las personas titulares de las Presidencias Municipales de los cuatro municipios que preferentemente registren el mayor número de Unidades Económicas, según el Instituto Nacional de Estadística y Geografía o conforme a la designación prevista en el Reglamento Interior del Consejo;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+XII. Dos personas representantes del sector empresarial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2023)</small>
+
+XIII. Una persona representante de instituciones de Educación Superior en el Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2023)</small>
+
+XIV. Una persona representante de organizaciones no gubernamentales en el Estado.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
+Las personas integrantes descritas en las fracciones XII, XIII y XIV del presente artículo serán designados por la persona que presida el Consejo Estatal.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
+Las personas integrantes del Consejo Estatal podrán designar a sus respectivos suplentes, quienes deberán tener el nivel jerárquico inmediato inferior o equivalente y tendrán las mismas atribuciones, con excepción de aquellos designados por la persona que presida el Consejo Estatal, cuyo suplente podrá ser nombrado también por éste.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
+Las personas integrantes del Consejo Estatal tendrán derecho a voz y voto en las sesiones.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -471,9 +509,15 @@ XI. Conocer, analizar y emitir recomendaciones derivadas de las propuestas que e
 
 XII. Conformar grupos de trabajo especializados para la consecución de los objetivos de esta Ley;
 
-XIII. Aprobar su Reglamento Interior; y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-XIV. Las demás que establezcan esta Ley u otras disposiciones normativas aplicables.
+XIII. Aprobar su Reglamento Interior;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2023)</small>
+
+XIV. Notificar al Consejo Nacional de las designaciones de la autoridad de mejora regulatoria en el estado; el informe anual de actividades del Consejo, que deberá contener al menos un reporte de la implementación de la Estrategia Nacional de Mejora Regulatoria; así como los mecanismos de coordinación establecidos entre el Consejo estatal con los municipios del Estado; y
+
+XV. Las demás que establezcan esta Ley u otras disposiciones normativas aplicables.
 
 ###### Artículo 18.
 
@@ -543,7 +587,9 @@ VIII. Las metodologías para el diagnóstico periódico del acervo regulatorio;
 
 IX. Las políticas y acciones específicas para atender la problemática regulatoria de materias, sectores o regiones del Estado;
 
-X. (DEROGADA, P.O. 10 DE MAYO DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2023)</small>
+
+X. Las directrices, mecanismos y lineamientos técnicos para integrar, actualizar y operar el Catálogo, incluyendo procedimientos, formatos y plazos para que los sujetos obligados ingresen la información correspondiente;
 
 XI. Los lineamientos generales para la aplicación del Análisis de Impacto Regulatorio;
 
@@ -599,7 +645,9 @@ VII. Promover la evaluación de regulaciones existentes a través del Análisis 
 
 VIII. Proponer, coordinar, publicar, monitorear, opinar y evaluar los programas de mejora regulatoria de los sujetos obligados de la Administración Pública Estatal, así como emitir los Lineamientos para su operación;
 
-IX. (DEROGADA, P.O. 10 DE MAYO DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2023)</small>
+
+IX. Administrar el Catálogo y supervisar que los sujetos obligados de la administración pública estatal tengan actualizada la parte que les corresponde del Catálogo Nacional/Estatal de Regulaciones, Trámites y Servicios, así como mantener actualizado el segmento de las regulaciones; de conformidad con la Ley General y los lineamientos que para tal efecto emita la Comisión Nacional de Mejora Regulatoria;
 
 X. Establecer acuerdos y convenios de colaboración, concertación y coordinación que contribuyan al cumplimiento de los objetivos de la mejora regulatoria;
 
@@ -633,9 +681,15 @@ XXIII. Convocar y organizar foros, conferencias, coloquios, diplomados, seminari
 
 XXIV. Crear, desarrollar, proponer y promover programas específicos de simplificación y mejora regulatoria;
 
-XXV. Procurar que las acciones y programas de mejora regulatoria de los sujetos obligados se rijan por los mismos estándares de operación; y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
 
-XXVI. Las demás atribuciones que establezcan esta Ley y otras disposiciones jurídicas aplicables.
+XXV. Procurar que las acciones y programas de mejora regulatoria de los sujetos obligados se rijan por los mismos estándares de operación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2023)</small>
+
+XXVI. Sistematizar y dar seguimiento a la Estrategia Nacional de Mejora Regulatoria en el ámbito de la administración pública estatal; y
+
+XXVII. Las demás atribuciones que establezcan esta Ley y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 24.
 
@@ -697,6 +751,12 @@ Para la coordinación e implementación de la política de la mejora regulatoria
 
 La coordinación y comunicación entre el sujeto obligado y la Autoridad de Mejora Regulatoria correspondiente, se llevará a cabo a través del Enlace de Mejora Regulatoria.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2023)</small>
+
+###### Artículo 29 Bis.
+
+Los Sujetos Obligados deberán asegurase de que las Regulaciones vigentes que apliquen estén debidamente inscritas en el Registro Estatal de Regulaciones. En caso de que la Autoridad de Mejora Regulatoria identifique errores u omisiones en la información inscrita, efectuará un apercibimiento al Sujeto Obligado para que éste subsane la información en un plazo que no deberá exceder de diez días.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2023)</small>
 
 ###### Artículo 30.
@@ -755,111 +815,287 @@ Lo previsto en el párrafo anterior no será aplicable para procesos jurisdiccio
 
 ## TÍTULO TERCERO. HERRAMIENTAS DE MEJORA REGULATORIA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MAYO DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2023)</small>
 
-### CAPÍTULO I. Catálogo Nacional de Regulaciones, Trámites y Servicios
+### CAPÍTULO I. Catálogo Estatal de Regulaciones, Trámites y Servicios
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 32.
 
-El Catálogo Nacional de Regulaciones, Trámites y Servicios, es la herramienta tecnológica regulada en el Título Tercero, Capítulo I de la Ley General, que compila las regulaciones, los trámites y los servicios de los sujetos obligados, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como fomentar el uso de tecnologías de la información. Dicha herramienta tiene carácter público y su información es vinculante para los sujetos obligados, en el ámbito de sus competencias.
+El Catálogo Estatal de Regulaciones, Trámites y Servicios es la herramienta tecnológica que compila las regulaciones, los trámites y los servicios de los sujetos obligados, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como fomentar el uso de tecnologías de la información. Dicha herramienta tiene carácter público y su información es vinculante para los sujetos obligados, en el ámbito de sus competencias.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 33.
 
-Conforme al artículo 39 de la Ley General, el Catálogo Nacional de Regulaciones, Trámites y Servicios se integra por:
+El Catálogo estará integrado por:
 
-I. El Registro Nacional de Regulaciones;
+I. El Registro Estatal;
 
-II. Los registros de Trámites y Servicios;
+II. El Registro de Regulaciones
 
 III. El Expediente para Trámites y Servicios;
 
-IV. El Registro Nacional de Visitas Domiciliarias; y
+IV. El Registro de Visitas Domiciliarias, Inspecciones y Verificaciones; y
 
 V. La Protesta Ciudadana.
 
-El funcionamiento y uso de esos instrumentos, se regirá por lo establecido en la Ley General.
-
 #### Sección Primera. Registro Estatal de Trámites y Servicios
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 34.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+El Registro Estatal es la herramienta tecnológica, con carácter público, que compila los trámites y servicios de los sujetos obligados, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como fomentar el uso de tecnologías de la información.
+
+La inscripción y actualización del Registro Estatal es de carácter permanente y obligatorio para los sujetos obligados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 35.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+La Secretaría será la responsable de administrar y operar el Registro Estatal; sin embargo, es responsabilidad de los sujetos obligados, ingresar y actualizar los registros de sus trámites y servicios. La legalidad y el contenido de la información que inscriban los sujetos obligados son de su estricta responsabilidad.
+
+Si la Secretaría identifica errores y omisiones en la información ingresada al Registro Estatal, deberá notificarlas al sujeto obligado dentro de un plazo de cinco días hábiles, a partir de que identificó el error, dichas observaciones deberán ser atendidas por los sujetos obligados en un plazo de cinco días a partir del día siguiente a que reciban la notificación. Una vez agotado el procedimiento anterior y habiéndose solventado las observaciones, el sujeto obligado publicará dentro del término de cinco días la información en el Registro Estatal.
+
+La omisión o la falsedad de la información que los sujetos obligados inscriban en el Registro Estatal será sancionada en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+La Secretaría deberá publicar el Registro Estatal en el portal de internet institucional con el objetivo de facilitar la búsqueda e interacción de los solicitantes.
+
+La normatividad aplicable a los registros de trámites y servicios se ajustará a lo previsto en esta Ley y sus disposiciones reglamentarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 36.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+Los sujetos obligados deberán inscribir y mantener actualizada al menos la siguiente información y documentación de sus trámites y servicios:
+
+I. Nombre y descripción del trámite o servicio;
+
+II. Modalidad;
+
+III. Fundamento jurídico de la existencia del trámite o servicio;
+
+IV. Descripción con lenguaje claro, sencillo y conciso de los casos en que debe o puede realizarse el trámite o servicio, y los pasos que debe llevar a cabo el particular para su realización;
+
+V. Enumerar y detallar los requisitos. En caso que existan requisitos que necesiten alguna firma, validación, certificación, autorización o visto bueno de un tercero, se deberá señalar la persona o empresa que lo emita. En caso de que el trámite o servicio que se esté inscribiendo incluya como requisitos la realización de trámites o servicios adicionales, deberá de identificar plenamente los mismos, señalando además el sujeto obligado ante quien se realiza;
+
+VI. Especificar si el trámite o servicio debe presentarse mediante formato, escrito libre, ambos o puede solicitarse por otros medios;
+
+VII. El formato correspondiente y la última fecha de publicación en el Periódico Oficial del Estado de Aguascalientes;
+
+VIII. En caso de requerir inspección o verificación, señalar el objetivo de la misma;
+
+IX. Datos de contacto oficial del sujeto obligado responsable del trámite o servicio;
+
+X. Plazo que tiene el sujeto obligado para resolver el trámite o servicio y, en su caso, si aplica la afirmativa o la negativa ficta;
+
+XI. El plazo con el que cuenta el sujeto obligado para prevenir al solicitante y el plazo con el que cuenta el solicitante para cumplir con la prevención;
+
+XII. Monto de los derechos o aprovechamientos aplicables, en su caso, o la forma de determinar dicho monto, así como las alternativas para realizar el pago;
+
+XIII. Vigencia de los avisos, permisos, licencias, autorizaciones, registros y demás resoluciones que se emitan;
+
+XIV. Criterios de resolución del trámite o servicio, en su caso;
+
+XV. Todas las unidades administrativas ante las que se puede presentar el trámite o solicitar el servicio, incluyendo su domicilio;
+
+XVI. Horarios de atención al público;
+
+XVII. Números de teléfono y medios electrónicos de comunicación, así como el domicilio y demás datos relativos a cualquier otro medio que permita el envío de consultas, documentos y quejas;
+
+XVIII. La información que deberá conservar para fines de acreditación, inspección y verificación con motivo del trámite o servicio; y
+
+XIX. La demás información que se prevea en la Estrategia Estatal.
+
+El Registro Estatal deberá contar con formatos homogéneos que permitan la clara y sencilla identificación de todo lo que se requiere a los solicitantes.
+
+Tratándose de las fracciones V, VI, VIII, X, XI, XII, XIII, XIV y XVIII los sujetos obligados deberán establecer el fundamento jurídico aplicable, relacionándolo con la regulación inscrita en los Registros Nacional y Estatal de Regulaciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 37.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+Los sujetos obligados deberán inscribir en el Registro Estatal la información a que se refiere el artículo anterior y la Secretaría deberá efectuar la publicación sin cambio alguno, dentro de los cinco días hábiles siguientes, siempre que la disposición que dé fundamento a la actualización de la información contenida en el Catálogo se encuentre vigente. En caso contrario, la Secretaría no podrá efectuar la publicación correspondiente sino hasta la entrada en vigor de la disposición que fundamente tal modificación.
+
+Los sujetos obligados deberán inscribir, modificar o eliminar trámites y servicios del Registro Estatal dentro de los diez días hábiles siguientes a que se publique en el Periódico Oficial del Estado de Aguascalientes la disposición que lo fundamente.
+
+Los sujetos obligados que apliquen trámites y servicios deberán tener a disposición del público la información que al respecto esté inscrita en el Catálogo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 38.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+Los sujetos obligados no deberán aplicar trámites y servicios adicionales a los establecidos en el Registro Estatal, ni podrán exigir requisitos adicionales o en forma distinta a como se inscriban en el mismo, salvo que:
+
+I. La existencia del trámite o servicio sea por única ocasión y no exceda los sesenta días; o
+
+II. Respecto de los cuales se pueda causar perjuicio a terceros con interés jurídico.
+
+En tales supuestos, los sujetos obligados deberán dar aviso previo a la Secretaría.
+
+En caso de incumplimiento del artículo anterior, la Secretaría dará aviso a la autoridad competente para que realice la investigación y, en su caso, aplique la sanción que corresponda de acuerdo con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 #### Sección Segunda. Registro de Regulaciones
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
+
 ###### Artículo 39.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+El Registro de Regulaciones es una herramienta tecnológica que compila las regulaciones aplicables a los sujetos obligados.
+
+La Secretaría General de Gobierno en coordinación con la Secretaría, deberá publicar y administrar el Registro de Regulaciones de conformidad con la normatividad aplicable.
+
+Los sujetos obligados serán los responsables de inscribir y actualizar permanentemente la información que les corresponde, y deberán asegurarse de que las regulaciones vigentes que les apliquen se encuentren contenidas en el Registro de Regulaciones.
+
+Cuando exista una regulación cuya aplicación no se atribuya a algún sujeto obligado, corresponderá a la Secretaría su registro y actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 40.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+El Registro de Regulaciones deberá contemplar, de conformidad con lo establecido en la Ley General, lo siguiente:
+
+I. Nombre de la regulación;
+
+II. Fecha de expedición, publicación, o en su caso, vigencia de la regulación;
+
+III. Autoridad o autoridades que la emiten;
+
+IV. Autoridad o autoridades que la aplican;
+
+V. Ámbito de aplicación;
+
+VI. Fechas en que ha sido actualizada;
+
+VII. Tipo de ordenamiento jurídico;
+
+VIII. Índice de la regulación;
+
+IX. Objeto de la regulación;
+
+X. Materias reguladas;
+
+XI. Sectores regulados;
+
+XII. Sujetos regulados;
+
+XIII. Otras regulaciones vinculadas o derivadas de esta regulación;
+
+XIV. Trámites y servicios relacionados con la regulación;
+
+XV. Fundamento jurídico para la realización de inspecciones, verificaciones y visitas domiciliarias; y
+
+XVI. La demás información que se prevea en las disposiciones normativas aplicables.
 
 #### Sección Tercera. Expediente para Trámites y Servicios
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
+
 ###### Artículo 41.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+El Expediente para Trámites y Servicios operará conforme a los lineamientos que aprueben el Consejo Nacional y el Consejo Estatal, considerando mecanismos confiables de seguridad, disponibilidad, integridad, autenticidad, confidencialidad y custodia.
+
+Los sujetos obligados, en el ámbito de su competencia, incluirán en sus programas de mejora regulatoria las acciones para facilitar a otros sujetos obligados, a través del Expediente para Trámites y Servicios, el acceso, consulta y transferencia de manera segura de las actuaciones electrónicas que se generen con motivo de un trámite o servicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 42.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+Los sujetos obligados no podrán solicitar información que ya consté en el Expediente para Trámites y Servicios, ni podrán requerir documentación que tengan en su poder, por lo que sólo podrán solicitar aquella información y documentación particular o adicional, que esté prevista en el Catálogo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 43.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+Los documentos electrónicos que integren los sujetos obligados al Expediente para Trámites y Servicios conforme a lo dispuesto por esta Ley, producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 44.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+Los sujetos obligados integrarán al Expediente para Trámites y Servicios los documentos firmados autógrafamente cuando se encuentre en su poder el documento original y se cumpla con lo siguiente:
+
+I. Que la migración a una forma digital haya sido realizada o supervisada por un servidor público que cuente con facultades de certificación de documentos en términos de las disposiciones aplicables;
+
+II. Que la información contenida en el documento electrónico se mantenga íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y sea accesible para su ulterior consulta;
+
+III. Que el documento electrónico permita conservar el formato del documento impreso y reproducirlo con exactitud; y
+
+IV. Que cuente con la firma electrónica avanzada del servidor público al que se refiere la fracción I de este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 45.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+Para efectos de esta Ley, tratándose de procedimientos administrativos relacionados con la apertura y operación de las empresas, el Expediente Electrónico Empresarial hará las veces del Expediente para Trámites y Servicios.
 
 #### Sección Cuarta. Registro de Visitas Domiciliarias, Inspecciones y Verificaciones
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
+
 ###### Artículo 46.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+El Registro de Visitas Domiciliarias, Inspecciones y Verificaciones estará integrado por:
+
+I. El Padrón;
+
+II. El listado de inspecciones, verificaciones y visitas domiciliarias que pueden realizar los sujetos obligados;
+
+III. Los números telefónicos de los órganos internos de control del sujeto obligado al que pertenezcan los inspectores, verificadores y visitadores respectivos para presentar quejas y/o denuncias;
+
+IV. Los números telefónicos de las autoridades competentes encargadas de ordenar inspecciones, verificaciones y visitas domiciliarias, con la finalidad de que las personas puedan cerciorarse de la veracidad de las mismas; y
+
+V. La información que se determine en los lineamientos que al efecto expidan el Consejo Nacional y el Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2023)</small>
+
+###### Artículo 46 Bis.
+
+Lo dispuesto en el artículo anterior no será aplicable a aquellas inspecciones, verificaciones o visitas domiciliarias requeridas para atender una situación de emergencia.
+
+Para tales efectos, dentro de un plazo de cinco días posteriores a la emergencia, el Sujeto Obligado deberá inscribir al registro las inspecciones o inspectores correspondientes, así mismo deberá informar y justificar a la Autoridad de Mejora Regulatoria las razones para habilitar a nuevos inspectores, verificadores, ejecutores, visitadores o supervisores requeridos para atender la situación de emergencia, o en su caso, las inspecciones, verificaciones y visitas domiciliarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 47.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+El Padrón contendrá la lista de servidores públicos autorizados para realizar las visitas domiciliarias, inspecciones y verificaciones en el ámbito administrativo.
+
+En caso de visitas domiciliarias, inspecciones y verificaciones requeridas para atender situaciones de emergencia, los sujetos obligados podrán habilitar a nuevos inspectores o verificadores, siempre y cuando dentro de un plazo máximo cinco días hábiles se informe y justifique la razón ante la Autoridad de Mejora Regulatoria correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 48.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+La Secretaría será la responsable de administrar y publicar la información del Padrón.
+
+Las Autoridades de Mejora Regulatoria serán las responsables de supervisar y coordinar el Padrón en el ámbito de sus competencias.
+
+Los sujetos obligados serán los responsables de ingresar y actualizar la información al Padrón de los servidores públicos a que se (sic) hace referencia el artículo anterior, incluyendo información estadística sobre inspecciones, verificaciones y visitas domiciliarias realizadas en el periodo a reportar y la demás información que se prevea en la Estrategia Estatal, misma que determinará la periodicidad para su actualización.
+
+En caso de que la Secretaría identifique errores u omisiones en la información proporcionada, lo comunicará al sujeto obligado en un plazo de cinco días.
+
+Estas observaciones tendrán carácter vinculante para el sujeto obligado, quien contará con un plazo de cinco días para solventar las observaciones o expresar la justificación por la cual no son atendibles dichas observaciones. Una vez agotado el procedimiento anterior y habiéndose solventado las observaciones, la Secretaría publicará dentro del término de cinco días la información en el Padrón.
 
 #### Sección Quinta. Protesta Ciudadana
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
+
 ###### Artículo 49.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+El solicitante podrá presentar una Protesta Ciudadana cuando con acciones u omisiones el servidor público encargado del trámite o servicio, sin causa justificada, niegue la gestión, o altere o incumpla lo previsto en los artículos 36 fracciones V, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII y XVIII, y 38 de la Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 50.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2023)
+Las Autoridades de Mejora Regulatoria dispondrán lo necesario para que las personas puedan presentar la Protesta Ciudadana tanto de manera presencial como electrónica. Recibida la Protesta, la Autoridad de Mejora Regulatoria emitirá su opinión en un plazo de cinco días, dando contestación al ciudadano que la presentó, dará vista de la misma al sujeto obligado y, en su caso, al órgano competente en materia de responsabilidades.
+
+El procedimiento de la Protesta Ciudadana se regulará conforme a los lineamientos que emita el Consejo Estatal, los que deberán estar conforme a los que emita el Consejo Nacional.
+
+Las Autoridades de Mejora Regulatoria darán seguimiento a la atención que los sujetos obligados y los órganos competentes en materia de responsabilidades den a la Protesta Ciudadana, lo que informarán anualmente al Consejo Estatal.
 
 ### CAPÍTULO II. Agenda Regulatoria
 
@@ -1322,3 +1558,11 @@ P.O. 10 DE MAYO DE 2023.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 371.- REFORMA A LA LEY DE MEJORA REGULATORIA Y GESTIÓN EMPRESARIAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
