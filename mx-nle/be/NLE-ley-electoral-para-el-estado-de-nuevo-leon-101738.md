@@ -4,7 +4,7 @@ identifier: "NLE-ley-electoral-para-el-estado-de-nuevo-leon-101738"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-08"
-last_updated: "2022-03-04"
+last_updated: "2023-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 8 de julio de 2014.
 
@@ -2205,17 +2205,15 @@ Las entidades políticas deberán presentar ante la Comisión Estatal Electoral,
 
 En caso de que la postulación de las candidaturas a las que refiere este artículo se realice a través de una coalición, se tendrá por cumplida la obligación para los partidos políticos integrantes de dicha coalición.
 
-(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE MAYO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+Artículo 144 bis 1. Cada partido político o coalición, en su caso, deberá postular cuando menos una fórmula de candidaturas a Diputaciones al Congreso del Estado de Nuevo León, integrada por personas propietarias y suplente que se autodescriben como indígenas.
 
-Artículo 144 bis 1. Cada partido político, y coalición deberá postular cuando menos una fórmula de candidaturas a Diputaciones al Congreso del Estado de Nuevo León, integrada por personas propietaria y suplente que se autoadscriban como indígenas.
+Los partidos políticos, coaliciones y candidaturas independientes, en su caso, deberán postular en los municipios cuya población autoadscrita como indígena represente un porcentaje suficiente en relación con la integración total de la planilla del Ayuntamiento en cuestión, al menos en un número entero del total de la integración. Por cada entero, corresponderá una fórmula adicional.
 
-Los partidos políticos, coaliciones y candidaturas independientes deberán postular en los municipios cuya población autoadscrita como indígena represente un porcentaje suficiente en relación con la integración total de la planilla del Ayuntamiento en cuestión, al menos en un número entero del total de la integración. Por cada entero, corresponderá una fórmula adicional.
+Los números anteriores se obtendrán del resultado de multiplicar el porcentaje de población indígena por el número de integrantes del ayuntamiento; cuyo resultado se dividirá entre cien, a fin de obtener un porcentaje de representación objetivo.
 
-Lo anterior se obtendrá del resultado de multiplicar el porcentaje de población indígena por el número de integrantes del ayuntamiento; cuyo resultado se dividirá entre cien, a fin de obtener un porcentaje de representación objetivo.
-
-La Comisión Estatal Electoral deberá realizar el cálculo que refiere este artículo a más tardar en el mes de septiembre del año en el que inicia el proceso electoral
+La Comisión Estatal Electoral deberá realizar el cálculo que refiere este artículo a más tardar en las primeras dos semanas del mes de septiembre del año en el que inicia el proceso electoral.
 
 Los partidos políticos y en su caso, candidaturas independientes, deberán demostrar mediante medios de prueba idóneos, el vínculo de la persona postulada con la comunidad indígena asentada en el estado de Nuevo León a la que pertenece.
 
@@ -5350,3 +5348,11 @@ P.O. 4 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 097. SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 36, 41, EL PRIMER PÁRRAFO Y EL DIECISEISAVO PÁRRAFO DEL ARTÍCULO 42, PRIMER PÁRRAFO DEL ARTÍCULO 43, PRIMER Y TERCER PÁRRAFO DEL 44, FRACCIONES VI, VII Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 48, LA FRACCIÓN IV DEL ARTÍCULO 122, Y SE ADICIONA UNA FRACCIÓN VIII EN EL ARTÍCULO 48, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, ADEMÁS SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3, FRACCIONES III Y IV DEL ARTÍCULO 6,9,10, LA FRACCIÓN V DEL ARTÍCULO 35, LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 40, PRIMER PÁRRAFO DE LA FRACCIÓN I, INCISO A Y B DE LA FRACCIÓN I DEL ARTÍCULO 44, 73, SEGUNDO PÁRRAFO DEL ARTÍCULO 74, FRACCIÓN VII Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 79, 81 BIS, 81 BIS 1, 81 BIS 2, 81 BIS 3, 81 BIS 4, 81 BIS 5, 81 BIS 6, 81 BIS 7, LA FRACCIÓN X DEL ARTÍCULO 103, EL PRIMERO (SIC) PÁRRAFO DEL ARTÍCULO 128, LAS FRACCIONES I Y II DEL ARTÍCULO 132, EL SEXTO PÁRRAFO DEL ARTÍCULO 136, 143, 144, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 146, EL PRIMER PÁRRAFO DEL ARTÍCULO 147, EL PRIMER PÁRRAFO DEL ARTÍCULO 162, EL PRIMER PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 188, EL PRIMER PÁRRAFO Y FRACCIÓN VI DEL ARTÍCULO 204, LA FRACCIÓN III DEL ARTÍCULO 207, LA FRACCIÓN XI DEL ARTÍCULO 218, LA FRACCIÓN II DEL ARTÍCULO 239, LA FRACCIÓN PRIMERA DEL ARTÍCULO 266, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 288, EL PRIMER PÁRRAFO DEL ARTÍCULO 348, LAS FRACCIONES VIII Y IX DEL 352, LA FRACCIÓN I Y II DEL ARTÍCULO 358, LAS FRACCIONES II Y III DEL ARTÍCULO 370; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 6, UN QUINTO PÁRRAFO DEL ARTÍCULO 31, LAS FRACCIONES XXIII, XXIV, XXV, XXVI, XXVII, XXVIII AL ARTÍCULO 40, SÉPTIMO Y OCTAVO PÁRRAFO AL ARTÍCULO 136, ARTÍCULO 143 BIS, 143 BIS 1, 144 BIS 1, 144 BIS 2, 144 BIS 3, 146 BIS, 146 BIS 1, 146 BIS 2, ÚLTIMO PÁRRAFO AL ARTÍCULO 230, SEGUNDO, TERCERO Y CUARTO PÁRRAFO AL ARTÍCULO 264, 271 BIS, TERCER PÁRRAFO DEL ARTÍCULO 288, SEGUNDO PÁRRAFO AL ARTÍCULO 333, 333 BIS, FRACCIONES VI Y VII AL ARTÍCULO 348, 348 BIS, FRACCIÓN X AL ARTÍCULO 352,LA FRACCIÓN I Y II DEL ARTÍCULO 358, EL PRIMER PÁRRAFO DEL ARTÍCULO 369 FRACCIÓN IV Y ÚLTIMO PÁRRAFO AL ARTÍCULO 370, 374 BIS, 377 Y 378; SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 132, LA FRACCIÓN III DEL ARTÍCULO 358, TODOS DE LA LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 398. SE ADICIONA UN ARTÍCULO 144 BIS1 A LA LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Envíese a la Suprema Corte de Justicia de la Nación para dar cumplimiento con el resolutivo Sexto de la Acción de Inconstitucionalidad 55/2022, en donde se vincula al Congreso del Estado de Nuevo León, para que antes de que se verifique el plazo exigido constitucionalmente para emitir las reglas en materia electoral aplicables para el proceso electoral 2023-2024 en la entidad, previo desarrollo de las respectivas consultas indígena y afromexicana, legisle respecto de sus derechos políticos, en particular, a las candidaturas a diputaciones y Ayuntamientos.
