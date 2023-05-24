@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2023-01-20"
+last_updated: "2023-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -1681,6 +1681,10 @@ V. Violencia patrimonial, es todo acto u omisión que ocasionen daño directo o 
 
 Ante cualquier indicio de violencia, cualquier integrante de la familia podrá solicitar al Estado las medidas de protección que se mencionan en el Título Cuarto de la Ley de Acceso a las Mujeres a una Vida Libre de Violencia para el Estado, y/o en el Capítulo VIII de la Ley para la Prevención y Atención de la Violencia Familiar del Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2023)</small>
+
+En caso de niñas, niños y adolescentes, también se podrán solicitar las medidas de protección establecidas en el artículo 100 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa y demás disposiciones aplicables.
+
 ### Capítulo II. De la Reparación del Daño
 
 ###### Artículo 233.
@@ -1961,11 +1965,11 @@ II. Proveer transitoriamente la guarda y custodia de la persona menor expósita,
 
 III. Presentar al menor ante el oficial del registro civil, con los documentos que se hubieran encontrado y los resultados de las investigaciones, así como de la averiguación previa, para realizar el registro de su nacimiento.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
 
 ###### Artículo 281.
 
-Una vez transcurridos los noventa días establecidos para realizar las investigaciones necesarias y la averiguación previa correspondiente, y no habiendo encontrado quien pudiere ejercer la patria potestad del menor de edad, la Procuraduría de Protección de Niñas, Niños y Adolescentes o el Ministerio Público; de conocerse quiénes son los padres, promoverán ante el juez de la competencia, la pérdida de patria potestad. De no encontrarse, se procederá como lo dispone la fracción III del artículo 280.
+Una vez transcurridos los sesenta días naturales establecidos para realizar las investigaciones necesarias y la averiguación previa o investigación correspondiente, y no habiendo encontrado quien pudiere ejercer la patria potestad de la niña, niño o adolescente, la Procuraduría de Protección de Niñas, Niños y Adolescentes o el Ministerio Público; de conocerse quiénes son los padres, promoverán ante el juez de la competencia, la pérdida de patria potestad. De no encontrarse, se procederá como lo dispone la fracción III del artículo 280.
 
 ### Capítulo V. De la Reproducción Humana Asistida y la Gestación Subrogada
 
@@ -2213,9 +2217,11 @@ VI. Declarar su origen étnico, religión, historia médica, salvo el caso de ex
 
 VII. Haber sido aprobadas las cuentas de la tutela, si se tratare de adoptar a un pupilo.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
 ###### Artículo 316.
 
-El estudio para justificar las fracciones I, II, III y IV, del artículo 315, podrá ser realizado por el Sistema para el Desarrollo Integral de la Familia, o las instituciones que a juicio del juez sean suficientes.
+El estudio para justificar las fracciones I, II, III y IV, del artículo 315, podrá ser realizado por el Sistema para el Desarrollo Integral de la Familia, la Procuraduría de Protección de Niñas, Niños y Adolescentes, o las instituciones que a juicio del juez sean suficientes.
 
 ###### Artículo 317.
 
@@ -2317,7 +2323,9 @@ I. No haya quien ejerza la patria potestad o tutela sobre los mismos;
 
 II. Habiendo quien debiera ejercer la patria potestad, haya sido declarada su pérdida mediante sentencia ejecutoriada; y,
 
-III. Se trate de menores de edad expósitos o abandonados por más de tres meses consecutivos.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+III. Se trate de niñas, niños o adolescentes expósitos o abandonados por más de sesenta días naturales, salvo que la Procuraduría de Protección de Niñas, Niños y Adolescentes no cuente con los elementos suficientes que den certeza sobre la situación de expósito o abandono de las niñas, niños o adolescentes, según corresponda. En este caso, podrá extender el plazo hasta por sesentas (sic) días naturales más.
 
 ### Capítulo III. De la Custodia Familiar Preadoptiva
 
@@ -2327,9 +2335,11 @@ Por custodia familiar preadoptiva se entiende al período previo de convivencia 
 
 Lo mismo se aplicará en cuanto a las personas acogidas por un matrimonio o concubinato.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
 ###### Artículo 337.
 
-La casa de asistencia social pública o privada que tenga acogido a un menor de edad por su estado de desamparo más de tres meses y ha elevado la solicitud judicial de pérdida de la patria potestad o de adopción, lo podrá dar en custodia familiar preadoptiva, que se formalizará ante el juez a petición de quien acogió al infante, siempre que los acogedores reúnan los requisitos necesarios para adoptar, excepto el consentimiento de los que ejercen la patria potestad, y hayan sido seleccionados mirando el interés superior del niño.
+La casa de asistencia social pública o privada que tenga acogido a una niña, niño o adolescente por su estado de desamparo más de sesenta días naturales y ha elevado la solicitud judicial de pérdida de la patria potestad o de adopción, lo podrá dar en custodia familiar preadoptiva, que se formalizará ante el juez a petición de quien acogió al infante, siempre que los acogedores reúnan los requisitos necesarios para adoptar, excepto el consentimiento de los que ejercen la patria potestad, y hayan sido seleccionados mirando el interés superior del niño.
 
 ###### Artículo 338.
 
@@ -2456,6 +2466,14 @@ Cuando llegue a conocimiento de los Consejos Locales de Tutela o de cualquier au
 Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores de edad bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
 
 La facultad de corregir, no implica infligir al menor de edad actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por los artículos 231 y 232 de este Código.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2023)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2023)</small>
+
+Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante, según lo dispuesto por la fracción VIII del artículo 42 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado, como forma de corrección o disciplina de niñas, niños o adolescentes.
 
 ###### Artículo 360.
 
@@ -2587,7 +2605,9 @@ I. Cuando el que la ejerce sea condenado expresamente a la pérdida de ese derec
 
 II. Cuando el que la ejerce incurra en conducta de violencia familiar previstas en los artículos 231 y 232 de este Código, en contra de las personas sobre las cuales la ejerza;
 
-III. Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de tres meses. Cuando el hijo se encuentre acogido en una institución de asistencia social, sea pública o privada, bastará que hayan transcurrido más de cuatro meses;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+
+III. Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de sesenta días naturales. Cuando el hijo se encuentre acogido en una institución de asistencia social, sea pública o privada, aplicará el mismo término.
 
 IV. Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor;
 
@@ -2897,7 +2917,9 @@ El tutor del incapacitado que tenga hijos menores de edad bajo su patria potesta
 
 La ley coloca a los expósitos y abandonados bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones previstas para los demás tutores.
 
-Se considera expósito al menor de edad que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a la custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor de edad cuyo origen se conoce, se considerará abandonado.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+
+Se considerará expósito a la niña, niño o adolescente que se encuentre en los supuestos establecidos en el artículo 30 Bis 1 de la Ley General de los Derechos de Niñas, Niños y Adolescentes y 27 Bis 1 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa.
 
 Los responsables de las casas de asistencia, ya sean públicas o privadas, al recibir expósitos o abandonados, darán vista al Ministerio Público, desempeñando la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos de la institución. En este caso, no es necesario el discernimiento del cargo.
 
@@ -7580,3 +7602,17 @@ P.O. 20 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 379 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA Y DE LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 434 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES Y DEL CÓDIGO FAMILIAR, AMBOS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Poder Ejecutivo del Estado realizará las adecuaciones reglamentarias correspondientes, en un plazo que no excederá de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto. No obstante, los procesos administrativos y judiciales de adopción se ajustarán al presente Decreto a partir de su entrada en vigor.
+
+TERCERO. Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este decreto en todo aquello que beneficie al interés superior de la niñez.
+
+CUARTO. Niñas, niños y adolescentes que actualmente se encuentren acogidos en instituciones públicas o privadas, respecto de los cuales el Sistema Estatal DIF o la Procuraduría de Protección, pueda dar constancia de su condición de expósito o abandonado conforme a lo dispuesto en el artículo 27 Bis 1, serán sujetos de adopción a partir de la entrada en vigor de este Decreto.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
