@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-juventud-del-estado-de-campeche-82686"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-13"
-last_updated: "2022-05-30"
+last_updated: "2023-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2023.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el miércoles 13 de julio de 2011.
 
@@ -155,9 +155,23 @@ V. Las actividades de los jóvenes en su primera experiencia laboral se realizar
 
 VI. Las pasantías tendrán el objetivo de garantizar a los jóvenes realizar su primera experiencia laboral en instituciones públicas o privadas, o empresas relacionadas con su proceso de formación técnica o profesional, otorgándoles estímulos económicos.
 
-#### Sección Tercera. Del derecho a la salud
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE MAYO DE 2023)</small>
 
-#### Sección Cuarta. Del derecho a la cultura y a la práctica del deporte
+#### Sección Segunda Bis. Derecho a la Dignidad
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2023)</small>
+
+###### Artículo 6 Bis.
+
+Las y los jóvenes en el Estado de Campeche, son inviolables en su dignidad, por lo que tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y vivienda.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2023)</small>
+
+###### Artículo 6 Ter.
+
+El Instituto promoverá con las diferentes instancias gubernamentales la generación de políticas, programas o acciones que tiendan a mejorar las necesidades de la juventud.
+
+#### Sección Tercera. Del derecho a la salud
 
 ###### Artículo 7.
 
@@ -175,7 +189,7 @@ El Instituto coadyuvará con las autoridades competentes en la divulgación de i
 
 El Instituto es responsable de coadyuvar con la difusión de los derechos sexuales, reproductivos y de planificación familiar de los jóvenes, así como para establecer los mecanismos que permitan el acceso expedito de la juventud a los servicios de información y atención, relacionados con el ejercicio de sus derechos sexuales y reproductivos, teniendo como objetivo la prevención del embarazo en adolescentes, difundiendo ampliamente información oportuna, eficaz y completa entre los jóvenes sobre los riesgos para la vida y la salud.
 
-#### Sección Quinta. Del fortalecimiento de las identidades juveniles
+#### Sección Cuarta. Del derecho a la cultura y a la práctica del deporte
 
 ###### Artículo 10.
 
@@ -203,7 +217,7 @@ El Instituto en coordinación con el Instituto del Deporte de Campeche brindará
 
 El Instituto instrumentará mecanismos para que el joven discapacitado pueda ser autosuficiente en lo cultural y/o deportivo, teniendo como fin su participación activa en la sociedad.
 
-#### Sección Sexta. Derecho a la No Discriminación
+#### Sección Quinta. Del fortalecimiento de las identidades juveniles
 
 ###### Artículo 16.
 
@@ -221,7 +235,7 @@ El Instituto promoverá la investigación, estudio y sistematización de las dif
 
 El Instituto promoverá acciones de beneficio colectivo, social y político dentro de los espacios de identidad que los jóvenes construyan, así como su libre participación.
 
-#### Sección Séptima. De los derechos de los Jóvenes con discapacidad
+#### Sección Sexta. Derecho a la No Discriminación
 
 ###### Artículo 20.
 
@@ -235,7 +249,7 @@ El Instituto promoverá en todo momento acciones para garantizar a la juventud u
 
 Las dependencia; y entidades de la administración pública estatal y municipal, así como los poderes legislativo y judicial, y organismos públicos autónomos, brindarán las facilidades necesarias a los jóvenes en los trámites ante dichas instancias.
 
-#### Sección Octava. Derecho de los jóvenes en desventaja social
+#### Sección Séptima. De los derechos de los Jóvenes con discapacidad
 
 ###### Artículo 23.
 
@@ -253,7 +267,7 @@ A través del Programa se dispondrá de los recursos y medios que permitan asegu
 
 El Gobierno del Estado deberá establecer estímulos y beneficios fiscales a fin de promover que las empresas contraten a jóvenes con discapacidad.
 
-#### Sección Primera. En relación a su autocuidado
+#### Sección Octava. Derecho de los jóvenes en desventaja social
 
 ###### Artículo 27.
 
@@ -265,7 +279,7 @@ El Programa deberá contemplar acciones efectivas que permitan la reinserción i
 
 ### Capítulo II. De los Deberes
 
-#### Sección Segunda. En relación a su Familia
+#### Sección Primera. En relación a su autocuidado
 
 ###### Artículo 28.
 
@@ -285,7 +299,7 @@ VI. A cumplir con las disposiciones normativas y reglamentarias de los programas
 
 VII. Los demás que le impongan otras leyes, reglamentos o disposiciones normativas.
 
-#### Sección Tercera. En relación con la Sociedad
+#### Sección Segunda. En relación a su Familia
 
 ###### Artículo 29.
 
@@ -305,7 +319,7 @@ VI. No inducir ni forzar a ningún miembro de la familia a realizar actos de men
 
 VII. Atender las recomendaciones de sus padres cuando éstas sean para su beneficio y no atenten contra su dignidad e integridad personal.
 
-#### Sección Cuarta. En relación con el Estado
+#### Sección Tercera. En relación con la Sociedad
 
 ###### Artículo 30.
 
@@ -325,7 +339,7 @@ VI. Respetar los derechos de terceros; y
 
 VII. Participar en forma solidaria en las actividades que emprendan las instituciones en las que realizan sus estudios, que tengan como finalidad el mejoramiento y desarrollo.
 
-#### Sección Primera. Del Día y del Premio Estatal de la Juventud
+#### Sección Cuarta. En relación con el Estado
 
 ###### Artículo 31.
 
@@ -343,7 +357,7 @@ IV. Mantener dentro y fuera del territorio del Estado actitudes que dignifiquen 
 
 ### Capítulo III. Del Día, Premio Estatal, Fomento a Proyectos Juveniles y Parlamento de la Juventud Campechana
 
-#### Sección Segunda. Del Fomento a Proyectos Juveniles
+#### Sección Primera. Del Día y del Premio Estatal de la Juventud
 
 ###### Artículo 32.
 
@@ -353,9 +367,7 @@ El Instituto deberá emitir y publicar la convocatoria del Premio Estatal de la 
 
 La integración del Comité de Premiación, así como las bases para su funcionamiento se determinarán en el reglamento de la presente ley.
 
-#### Sección Tercera. Del Parlamento de la Juventud Campechana
-
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2022)</small>
+#### Sección Segunda. Del Fomento a Proyectos Juveniles
 
 ###### Artículo 33.
 
@@ -375,7 +387,9 @@ El Reglamento de esta ley, deberá prever el funcionamiento y la operación de l
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2022)</small>
 
-#### Sección Primera. De la Junta de Gobierno
+#### Sección Tercera. Del Parlamento de la Juventud Campechana
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2022)</small>
 
 ###### Artículo 36 Bis.
 
@@ -627,7 +641,7 @@ XXVII. Las demás que le otorgue la presente ley y otros ordenamientos legales.
 
 ### Capítulo II. Órganos de Gobierno y sus Atribuciones
 
-#### Sección Segunda. Del Director General
+#### Sección Primera. De la Junta de Gobierno
 
 ###### Artículo 45.
 
@@ -715,7 +729,7 @@ XIII. Cumplir y hacer cumplir las disposiciones contenidas en este ordenamiento;
 
 XIV. Las demás que señale este ordenamiento, su Reglamento y demás disposiciones aplicables.
 
-#### Sección Tercera. Del Patrimonio del Instituto
+#### Sección Segunda. Del Director General
 
 ###### Artículo 52.
 
@@ -759,7 +773,7 @@ XII. Presentar a consideración y, en su caso, aprobación de la Junta, el estat
 
 XIII. Las demás que le confieran esta ley, su Reglamento Interior y demás disposiciones jurídicas aplicables.
 
-#### Sección Cuarta. De las Relaciones Laborales
+#### Sección Tercera. Del Patrimonio del Instituto
 
 ###### Artículo 54.
 
@@ -778,6 +792,8 @@ V. Las donaciones, herencias, legados y aportaciones, que le otorguen los partic
 VI. Los que adquiera por otros conceptos.
 
 Dichos bienes y derechos deberán tener como destino facilitar el cumplimiento de las atribuciones del Instituto.
+
+#### Sección Cuarta. De las Relaciones Laborales
 
 ###### Artículo 55.
 
@@ -922,3 +938,11 @@ Artículo Primero. El presente decreto entrará en vigor tres días después de 
 Artículo Segundo. Las acciones que se deban realizar con motivo del cumplimiento del presente decreto, se sujetarán a la disponibilidad presupuestaria destinada para tal fin.
 
 Artículo Tercero. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 25 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 230 POR EL QUE "SE ADICIONA UNA SECCIÓN SEGUNDA BIS DENOMINADA "DERECHO A LA DIGNIDAD", CON LOS ARTÍCULOS 6 BIS Y 6 TER AL CAPÍTULO I DENOMINADO "DE LOS DERECHOS", DEL TÍTULO SEGUNDO DENOMINADO "DE LOS DERECHOS Y DEBERES DE LA JUVENTUD Y DEL FOMENTO A SUS PROYECTOS", DE LA LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE".
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se deroga cualquier disposición de igual o menor jerarquía que contravenga el presente decreto.
