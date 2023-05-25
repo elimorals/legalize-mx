@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-fiscalia-general-de-justicia-de-la-139605"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-24"
-last_updated: "2023-05-17"
+last_updated: "2023-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139605&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-12-23"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE MAYO DE 2023.
 
 Ley publicada en el Número 248 Bis de la Gaceta Oficial de la Ciudad de México, el martes 24 de diciembre de 2019.
 
@@ -1034,9 +1034,17 @@ XXII. Órgano Interno de Control;
 
 XXIII. Unidad de Investigación de delitos de personas servidoras públicas, y
 
-> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXIII], G.O. 28 DE JULIO DE 2020)</small>
+> <small>(ADICIONADA, G.O. 25 DE MAYO DE 2023)</small>
 
-XXIV. Los demás órganos o unidades operativas, de investigación, acusación, de protección a víctimas y administrativas que determinen otras disposiciones jurídicas y las que la persona titular de la Fiscalía General establezca en el ejercicio de la autonomía constitucional en el Reglamento de esta Ley o mediante Acuerdo.
+XXIV. Coordinación General de Acusación, Procedimiento y Enjuiciamiento;
+
+> <small>(ADICIONADA, G.O. 25 DE MAYO DE 2023)</small>
+
+XXV. Unidad de Asuntos Internos, y
+
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2023)</small>
+
+XXVI. Los demás órganos o unidades administrativas de investigación, de acusación, de protección a víctimas o administrativas que determinen otras disposiciones aplicables y las que la persona titular de la Fiscalía General establezca en el ejercicio de la autonomía constitucional en el Reglamento de esta Ley o mediante Acuerdo.
 
 ###### Artículo 49.
 
@@ -1119,6 +1127,14 @@ XII. Proponer un gobierno por procesos, en donde participen todas las áreas que
 XIII. Fijar los lineamientos generales para el desarrollo de las capacidades institucionales, que deberán ser reflejadas en los programas de capacitación del Instituto de Formación Profesional y Estudios Superiores;
 
 XIV. Las demás que se señalen en el Reglamento de la Ley.
+
+> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2023)</small>
+
+###### Artículo 53 Bis.
+
+Unidad de Implementación.
+
+La Unidad de Implementación es la encargada de coordinar, implementar, ejecutar y llevar a cabo la evolución del Plan de Transición de la Fiscalía General.
 
 ###### Artículo 54.
 
@@ -1322,9 +1338,9 @@ Artículos 61. Coordinación General de Investigación de Delitos de Género y A
 
 La Coordinación General de Investigación de Delitos de Género y Atención a Víctimas, en el ámbito de su competencia tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, G.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2023)</small>
 
-I. Realizar investigaciones de los delitos de violencia de género contra las mujeres y niñas, violencia familiar, delitos sexuales, delitos contra niñas, niños y adolescentes, delitos cometidos contra la población de la diversidad sexual, trata de personas, delitos contra personas adultas mayores, personas integrantes de comunidades indígenas, desaparición forzada de personas, desaparición cometida por particulares y feminicidio, así como ejercer las funciones en materia de justicia penal para adolescentes y de cualquier otro grupo de atención prioritaria.
+I. Realizar investigaciones de los delitos de violencia de género contra las mujeres y niñas, violencia familiar, delitos sexuales, delitos contra niñas, niños y adolescentes, delitos cometidos contra la población de la diversidad sexual, trata de personas, delitos contra personas adultas mayores, personas integrantes de comunidades indígenas y feminicidio, así como ejercer las funciones en materia de justicia penal para adolescentes y de cualquier otro grupo de atención prioritaria;
 
 > <small>(REFORMADA, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -1348,7 +1364,9 @@ X. Garantizar que las personas que solicitan el ingreso en el Registro Nacional 
 
 XI. Solicitar la intervención de expertos independientes locales, nacionales e internacionales, a fin de que colaboren con las autoridades competentes en investigación de los hechos y la realización de peritajes, en los casos que impliquen graves violaciones a los Derechos Humanos y violencia de género con la realización de peritajes, dictámenes o impresiones diagnosticas especializadas, para estos últimos;
 
-XII. Establecer una eficaz e inmediata coordinación con la Comisión de Búsqueda de personas de la Ciudad de México, que permita mantener una comunicación continua y permanente en el diseño y ejecución de las acciones de búsqueda y localización;
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2023)</small>
+
+XII. Establecer coordinación inmediata con la Comisión Ejecutiva de Atención a Víctimas, con la Comisión Ejecutiva de Atención a Víctimas de la Ciudad de México, así como los órganos públicos necesarios para el desempeño y ejecución de acciones e investigaciones de los delitos que sean de su competencia;
 
 XIII. Establecer y Promover mecanismos de coordinación, colaboración, y concertación con instituciones públicas y privadas, locales, nacionales e internacionales, para la efectiva protección, ayuda, asistencia, atención y reparación integral a las víctimas de los delitos previstos en normatividad nacional e internacional de acuerdo con los estándares internacionales en la materia, en especial de derechos humanos de mujeres y niñas;
 
@@ -1356,9 +1374,11 @@ XIV. Coordinar acciones en materia de asesoría jurídica penal y asistencia vic
 
 XV. Las demás que señalen otras disposiciones legales aplicables en la materia.
 
+> <small>(REFORMADO SU EPÍGRAFE, G.O. 25 DE MAYO DE 2023)</small>
+
 ###### Artículo 62.
 
-Coordinación General Jurídica y de Derechos Humanos
+Coordinación General Jurídica y de Derechos Humanos.
 
 La Coordinación General Jurídica y de Derechos Humanos tendrá las atribuciones siguientes:
 
@@ -1384,7 +1404,9 @@ X. Promover, gestionar y vigilar el trámite y procedimiento de extradición y a
 
 XI. Gestionar las solicitudes de colaboración entre Fiscalías u órganos de procuración de justicia, que sean solicitadas por los Agentes del Ministerio Público de esta dependencia y las que sean requeridas por otras entidades federativas; y
 
-XII. Fungir como Secretario Ejecutivo del Consejo de Asuntos Internos de la Fiscalía General;
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2023)</small>
+
+XII. Coordinar y supervisar al Órgano de Gestión Administrativa de Casos No Penales y a la Supervisión General de Justicia Alternativa, y
 
 XIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende y delegue la persona Titular de la Fiscalía General.
 
@@ -1426,7 +1448,9 @@ IX. Las demás que señalen otras disposiciones jurídicas aplicables;
 
 Coordinación General de Investigación de Delitos de Alto impacto.
 
-La Coordinación General de Investigación de Delitos de Alto Impacto tendrá a su cargo la investigación de los siguientes delitos: secuestro, extorsión, narcomenudeo y cualquier otro que por su relevancia social, peligrosidad o reiteración, deba ser atraído a su competencia, previa autorización de la persona titular de la Fiscalía.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2023)</small>
+
+La Coordinación General de Investigación de Delitos de Alto Impacto tiene a su cargo la investigación de los siguientes delitos: secuestro, extorsión, narcomenudeo, desaparición forzada de personas y desaparición cometidas por particulares, así como cualquier otro que, por su relevancia social, peligrosidad o reiteración, deba ser retraído a su competencia, previa autorización de la persona Titular de la Fiscalía General, y tiene las siguientes facultades:
 
 Tendrá las siguientes facultades:
 
@@ -1452,7 +1476,9 @@ X. Sistematizar la información obtenida a través de las distintas investigacio
 
 XI. Solicitar información a las compañías proveedoras de telefonía móvil y fija, con los requisitos que señale la ley;
 
-XII. Conocer de las investigaciones realizadas en cualquier otra Coordinación General o Unidad o Agencia del Ministerio Público que tengan conexidad con los delitos considerados de alto impacto o relevancia social; previa autorización de la persona Titular de la Fiscalía, y
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2023)</small>
+
+XII. Establecer coordinación inmediata con la Comisión Nacional de Búsqueda de personas, con la Comisión de Búsqueda de Personas de la Ciudad de México u homólogas de las Entidades Federativas, así como con órganos públicos necesarios para el desempeño y ejecución de las acciones de búsqueda y localización de personas desaparecidas y demás que sean de su competencia, y
 
 XIII. Las demás que señalen otras disposiciones jurídicas aplicables.
 
@@ -1556,13 +1582,57 @@ XXIII. Las demás que le asigne de manera directa la persona Fiscal General.
 
 ### Capítulo Segundo. Órganos auxiliares
 
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
-
 ###### Artículo 66.
 
-Unidad de Implementación.
+(DEROGADO, G.O. 25 DE MAYO DE 2023)
 
-La Unidad tendrá como objeto la coordinación, implementación, ejecución y evaluación del Plan de Transición.
+> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2023)</small>
+
+###### Artículo 66 Bis.
+
+Coordinación General de Acusación, Procedimiento y Enjuiciamiento.
+
+La Coordinación General de Acusación, Procedimiento y Enjuiciamiento tiene las facultades siguientes:
+
+I. Establecer un control de los registros de las audiencias celebradas por el Ministerio Público antes las autoridades jurisdiccionales;
+
+II. Coordinar a las Fiscalías y Unidades Operativas a su cargo, para intervenir en los procesos que se lleven ante los Jueces de Control, Tribunal de Enjuiciamiento, Jueces de Ejecución Penal y Tribunal de Alzada, presentando oportunamente las acusaciones correspondientes, aportando las pruebas tendientes a comprobar la responsabilidad penal de las personas imputadas y acreditar la reparación del daño, conforme a la normatividad aplicable; requerir la imposición de penas o medidas de seguridad que correspondan al ejercer la acción penal;
+
+III. Supervisar que las personas Titulares de Fiscalías a su cargo, instruyan al personal ministerial que corresponda, para que éste acuda a las diligencias o audiencias que se practiquen ante las autoridades jurisdiccionales y desahoguen las vistas correspondientes;
+
+IV. Proponer criterios de actuación para el personal ministerial de las Fiscalías y Unidades Operativas a su cargo, para actos que tengan por resultado el sobreseimiento del proceso o la libertad absoluta de la persona imputada;
+
+V. Autorizar, previa propuesta y aprobación de las personas Titulares de las Fiscalías de su adscripción, la reducción de pena en los procedimientos abreviados;
+
+VI. Supervisar que las personas Titulares de Fiscalías a su cargo, instruyan a su personal ministerial para que los procesos se sigan con regularidad y, en su caso se interpongan los recursos o acciones legales procedentes;
+
+VII. Coordinar la elaboración y presentación, ante los órganos jurisdiccionales competentes, de agravios, contestaciones, apelaciones adhesivas y la intervención que corresponda como tercero interesado en los juicios de amparo y demás asuntos de su competencia;
+
+VIII. Supervisar que la Fiscalía de Procesos en Juzgados Civiles, presten los servicios correspondientes a la representación social en juicios del orden civil;
+
+IX. Solicitar ante los órganos jurisdiccionales competentes y a través de la Fiscalía Especializada en la materia, la acción de extinción de dominio y en su caso aprobar la propuesta del Ministerio Público sobre la improcedencia o desistimiento de la acción;
+
+X. Coordinar a través del área de gestión y análisis procesal, el registro correspondiente de las carpetas de investigación recibidas; coordinar, en tanto subsista el Sistema Mixto, la recepción de las averiguaciones previas, en las que se proponga el ejercicio de la acción penal, y se turnen a la Dirección de consignaciones del Poder Judicial de la Ciudad de México; así como la recepción de Carpetas de Investigación remitidas por el personal ministerial investigador, previo acuerdo de cierre de investigación complementaria, para su remisión a la Fiscalía de Acusación y Enjuiciamiento correspondiente;
+
+XI. Supervisar que el área de Gestión y Análisis Procesal, reciba y notifique al Poder Judicial de la Ciudad de México, las audiencias solicitadas por el personal ministerial;
+
+XII. Coordinar a las Fiscalías y Unidades Operativas del Sistema Mixto a su cargo, para que intervengan conforme a derecho en los procesos ante las autoridades jurisdiccionales, aportando las pruebas tendientes a comprobar la responsabilidad penal de los indiciados y exigir la reparación integral del daño, conforme a la normatividad aplicable;
+
+XIII. Supervisar la gestión de requerimientos que realice la autoridad judicial por demoras, excesos o faltas del personal ministerial a las audiencias;
+
+XIV. Coordinar el enlace entre la Unidad de Supervisión de Medidas Cautelares (USMECA) del Poder Judicial de la Ciudad de México y las Unidades Administrativas de la Fiscalía General;
+
+XV. Supervisar que en las carpetas de investigación en las que haya concluido el plazo de investigación complementaria, se solicite la terminación anticipada del proceso;
+
+XVI. Supervisar la remisión de Carpetas Judiciales en las que el órgano jurisdiccional determine la declinación competencia, para la continuación de la secuela procesal en la Unidad de Gestión Judicial que corresponda;
+
+XVII. Proponer criterios orientadores relacionados con las resoluciones que se recurran ante el Poder Judicial de la Ciudad de México;
+
+XVIII. Supervisar el registro de altas, control y seguimiento de las Órdenes Judiciales hasta su cumplimiento o cancelación;
+
+XIX. Desarrollar con la Jefatura General de la Policía de Investigación, programas para la ejecución de órdenes judiciales, de conformidad con los términos de prescripción, cancelación o suspensión que las vuelvan inejecutables, y
+
+XX. Las demás que la persona Titular de la Fiscalía General y la normatividad aplicable determinen.
 
 ###### Artículo 67.
 
@@ -1700,19 +1770,49 @@ La Fiscalía, contará con un Consejo de Profesionalización del Servicio de Car
 
 ### Capítulo Primero. Generalidades
 
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2023)</small>
+
 ###### Artículo 75.
 
-Relaciones Laborales
+Relaciones con las personas servidoras públicas.
 
-Las relaciones laborales entre la Fiscalía General y sus trabajadores, se regirán por lo dispuesto en el artículo 10, Apartado C de la Constitución Política de la Ciudad de México y el artículo 123, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos, salvo las excepciones previstas en dicho precepto.
+Las relaciones administrativas entre la Fiscalía General y el personal sustantivo se regirán por lo dispuesto en el artículo 123, Apartado B, fracción XIII de la Constitución Federal, la presente Ley y demás disposiciones aplicables.
 
-La Fiscalía General brindará al personal que labora en ella las condiciones para que desarrolle sus actividades profesionales en un ambiente libre de discriminación y violencia. Buscando la conciliación de la vida laboral con la familiar.
+La Fiscalía General brindará a todas las personas servidoras públicas de su adscripción, las condiciones para que desarrolle sus actividades profesionales en un ambiente libre de discriminación y violencia, buscando la conciliación de la vida laboral con la familiar.
+
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2023)</small>
 
 ###### Artículo 76.
 
-Régimen de Responsabilidades
+Régimen de Responsabilidades de las personas servidoras públicas.
 
-Las personas servidoras públicas de la Fiscalía General, estarán sujetas a lo determinado por la Ley General del Sistema Nacional de Seguridad Pública, Ley de Responsabilidades Administrativas de la Ciudad de México y de manera supletoria, la Ley General de Responsabilidades Administrativas, y por las disposiciones de esta ley y de su Reglamento.
+Las personas servidoras públicas de la Fiscalía General, estarán sujetas a lo previsto en la Ley General del Sistema Nacional de Seguridad Pública, Ley del Sistema de Seguridad Ciudadana de la Ciudad de México, Ley de Responsabilidades Administrativas de la Ciudad de México, así como a las disposiciones establecidas en esta Ley, su Reglamento y demás normatividad aplicable.
+
+Son obligaciones de las personas servidoras públicas de la Fiscalía General:
+
+I. Combatir la impunidad;
+
+II. Evitar la infiltración de conductas delictivas o de corrupción en las Unidades administrativas;
+
+III. Promover la eficiencia y eficacia de la gestión pública;
+
+IV. Abstenerse de prácticas de Acoso y Hostigamiento Sexual de cualquier índole al interior de la Fiscalía General, de conformidad con la normatividad aplicable;
+
+V. Favorecer un clima laboral sin violencia de ningún tipo entre las personas servidoras públicas;
+
+VI. Garantizar la debida aplicación de los Protocolos de investigación y atención que se emitan para el buen desempeño de la Fiscalía General;
+
+VII. Favorecer que las víctimas del delito sean atendidas y se garantice la reparación integral del daño;
+
+VIII. Garantizar el sigilo de las investigaciones, y evitar filtraciones a personas no autorizadas;
+
+IX. Promover el uso eficiente y responsable y la gestión competente de los recursos de la Fiscalía General;
+
+X. Denunciar ante las autoridades competentes hechos de corrupción con apariencia de delito;
+
+XI. Cumplir con el Código de Ética de la Fiscalía General, y
+
+XII. Las que señale el Reglamento de esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 77.
 
@@ -1746,91 +1846,97 @@ La persona Titular de la Fiscalía General deberá dotar a esta Unidad interna d
 
 El reglamento de la presente ley establecerá el funcionamiento de esta unidad interna.
 
-### Capítulo Tercero. Del Consejo de Asuntos Internos
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2023)</small>
+
+### Capítulo Tercero. De la Unidad de Asuntos Internos y del Consejo de Asuntos Internos
+
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2023)</small>
 
 ###### Artículo 79.
 
-Consejo de Asuntos Internos
+Unidad de Asuntos Internos.
 
-Es el Órgano Colegiado de la Fiscalía General encargado de que la actuación del personal sustantivo, se ajuste a lo que establece la normatividad que rige a la Fiscalía, así como al respeto irrestricto a los Derechos Humanos y sus resoluciones serán inatacables y definitivas.
+La Unidad de Asuntos Internos cuenta con las siguientes facultades:
 
-No obstante el procedimiento que se prevea en el Reglamento, respetará la garantía de audiencia y legalidad respectiva y sólo preverá el recurso de reconsideración.
+La Unidad de Asuntos Internos tendrá el carácter de Secretaría Ejecutiva del Consejo y estará adscrita a la Oficina de la persona titular de la Fiscalía General.
 
-El Consejo Buscará:
+La Unidad de Asuntos Internos cuenta con las siguientes facultades:
 
-I. Coordinar con el Órgano de Control Interno, la implementación de estrategias de prevención de actos de corrupción y el fomento de buenas prácticas en materia de rendición de cuentas;
+I. Investigar el incumplimiento de las obligaciones del personal ministerial, pericial de estructura y administrativo, previstas en la normatividad aplicable;
 
-II. Contar con un Código de ética del personal sustantivo de la Fiscalía General.
+II. Instrumentar, de conformidad con la normatividad aplicable, el procedimiento de investigación de oficio o por queja, en contra del personal ministerial y pericial de la Fiscalía General, por incumplimiento de las disposiciones jurídicas aplicables al ejercicio de sus funciones; así como substanciar el procedimiento disciplinario correspondiente y dar vista al Órgano Interno de la Fiscalía General; al Consejo de Honor de la Policía de Investigación; a la Fiscalía Especializada en Combate a la Corrupción de la Ciudad de México y demás autoridades competentes;
 
-III. Generar políticas y programas con enfoque preventivo para evitar la infiltración de conductas delictivas o de corrupción en las Unidades administrativas.
+III. Emitir y aplicar, en cualquier momento de la investigación o procedimiento, medidas cautelares o precautorias cuando se incumpla cualquiera de las obligaciones previstas en el Reglamento del Régimen Disciplinario del Personal Sustantivo de la Fiscalía General de Justicia de la Ciudad de México;
+
+IV. Conocer de las quejas que presenten las personas usuarias por probables irregularidades del personal ministerial y pericial de la Fiscalía General y, en su caso, iniciar el procedimiento correspondiente;
+
+V. Establecer mecanismos de vigilancia de la función del personal ministerial y pericial, conforme a la normatividad que emita la persona titular de la Fiscalía General;
+
+VI. Hacer del conocimiento a la autoridad competente, aquellos hechos que no sean materia de la Unidad de Asuntos Internos, advertidos en el ejercicio de sus funciones o con motivo de ellas;
+
+VII. Emitir recomendaciones relacionadas con el desempeño del personal adscrito a las Unidades Administrativas de la Fiscalía General y con mecanismos para prevenir el incumplimiento de las obligaciones del personal ministerial y pericial que establezca la normatividad aplicable;
+
+VIII. Llevar a cabo, en el ámbito de su competencia, las recomendaciones y acuerdos que emita el Consejo Ciudadano de la Fiscalía General;
+
+IX. Definir lineamientos de supervisión y vigilancia de las Unidades Administrativas y Órganos Operativos de la Fiscalía de Justicia;
+
+X. Supervisar y vigilar a través de visitas, estudios monitoreo y medios electrónicos, el cumplimiento de la normatividad aplicable;
+
+XI. Elaborar Actas necesarias en las que se haga constar hechos, circunstancias, situaciones o probables conductas irregulares de las personas servidoras públicas de la Fiscalía General, en términos de las disposiciones que para tal efecto se admitan, y
+
+XII. Las demás que señale el Reglamento de esta Ley y demás disposiciones aplicables.
+
+El procedimiento disciplinario que sustancie la Unidad de Asuntos Internos deberá respetar en todo momento, la garantía de audiencia y legalidad respectiva y sólo preverá el Recurso de Reconsideración.
+
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2023)</small>
 
 ###### Artículo 80.
 
-Competencia
+Consejo de Asuntos Internos.
 
-El Consejo de Asuntos Internos, será competente para conocer respecto al personal sustantivo de la Fiscalía que omita o no de cumplimiento sobre:
+El Consejo de Asuntos Internos es el órgano colegiado de la Fiscalía General encargado de resolver si la actuación del personal ministerial y pericial se ajustó a lo establecido en la normatividad aplicable, y al respeto irrestricto a los Derechos Humanos.
 
-I. Combatir la impunidad en materia de responsabilidades administrativas;
+El procedimiento disciplinario que sustancie el Consejo de Asuntos Internos deberá respetar en todo momento, la garantía de audiencia y de legalidad respectiva.
 
-II. Evitar la infiltración de conductas delictivas o de corrupción en las Unidades administrativas;
+El Consejo de Asuntos Internos cuenta con las facultades siguientes:
 
-III. Promover la eficiencia y eficacia de la gestión pública;
+I. Emitir las resoluciones del Procedimiento Disciplinario por incumplimiento de las obligaciones del personal ministerial y pericial, de conformidad con la normatividad aplicable. Sus resoluciones serán inatacables y definitivas.
 
-IV. Abstenerse de prácticas de Acoso y Hostigamiento Sexual al interior de la Fiscalía, de conformidad con el Protocolo conducente;
+En términos del artículo 123, Apartado B, Fracción XIII de la Constitución Federal será improcedente la reinstalación del personal ministerial y pericial destituido, cualquiera que sea el resultado del juicio o medio de defensa que hubiere promovido, y en su caso, sólo procederá su indemnización. Cuando los órganos jurisdiccionales condenen al pago de haberes dejados de percibir o remuneración ordinaria, éstos se cubrirán hasta por un máximo de doce meses, con base en el tabulador vigente de la fecha en que para tal efecto se exhiba.
 
-V. Favorecer un clima laboral sin violencia de ningún tipo entre las y los servidores públicos;
+II. Coordinar con las Unidades Administrativas competentes, la implementación de estrategias de prevención de actos de corrupción y el fomento de buenas prácticas en materia de rendición de cuentas;
 
-VI. Garantizar la debida aplicación de los Protocolos de investigación y atención que se emitan para el buen desempeño de la Fiscalía;
+III. Promover el cumplimiento del Código de Ética de la Fiscalía General, y
 
-VII. Favorecer que las víctimas del delito sean atendidas y se garantice la reparación integral del daño;
+IV. Generar políticas y programas con enfoque preventivo para evitar la infiltración de conductas delictivas o de corrupción en las Unidades Administrativas.
 
-VIII. Garantizar el sigilo de las investigaciones, y evitar filtraciones a personas no autorizadas;
-
-IX. Promover el uso eficiente y responsable y la gestión competente de los recursos de la Fiscalía General;
-
-X. Denunciar ante las autoridades competentes hechos de corrupción con apariencia de delito;
-
-XI. Las demás que señale el Reglamento de esta Ley.
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2023)</small>
 
 ###### Artículo 81.
 
 Intervención.
 
-El Consejo de asuntos internos, intervendrá en los casos del personal sustantivo que le sean sometidos a su consideración, no obstante, si existiera una notoria conducta que investigar, la persona Secretaria Ejecutiva de dicho Consejo, determinará la suspensión temporal de la persona servidora pública, como medida precautoria teniendo para ello, un plazo de hasta 5 días naturales, contados a partir de la fecha en que se tuvo conocimiento del hecho, para que se pueda efectuar la debida investigación, lo anterior sin menoscabo de las atribuciones del Órgano de Control.
+El Consejo de Asuntos Internos intervendrá en los casos del personal ministerial y pericial, sometidos a su consideración por parte de la Unidad de Asuntos Internos, con independencia de cualquier tipo de responsabilidad en que pudiera incurrir dicho personal, de conformidad con la normatividad aplicable.
 
-La Unidad de Asuntos Internos tendrá el carácter de Secretaría Ejecutiva del Consejo y estará adscrita a la Oficina de la persona titular de la Fiscalía General.
-
-Tendrá las facultades siguientes:
-
-I. Instrumentar procedimientos, de oficio o por queja, en contra del personal de estructura, sustantivo y de confianza de la Fiscalía General, por incumplimiento de las disposiciones jurídicas aplicables al ejercicio de sus funciones y conforme al procedimiento que señale el Reglamento de esta Ley;
-
-II. Conocer de las quejas de las personas usuarias por probables irregularidades de las personas servidoras públicas de la Fiscalía General y, en su caso, iniciar el procedimiento correspondiente;
-
-III. Establecer mecanismos de vigilancia de la función del Ministerio Público, conforme a la normatividad que emita la persona titular de la Fiscalía General;
-
-IV. Hacer del conocimiento de otras instancias de control o vigilancia, aquellos hechos posiblemente constitutivos de responsabilidad, que no sean competencia del Consejo de Asuntos Internos, pero que sean advertidos en el ejercicio de sus funciones o con motivo de ellas;
-
-V. Emitir recomendaciones a las Unidades Administrativas de la Fiscalía General, sobre el desempeño de su personal y sobre mecanismos de prevención de infracciones administrativas;
-
-VI. Instrumentar, en el ámbito de su competencia, las recomendaciones y acuerdos que emita el Consejo Ciudadano de la Fiscalía General, y
-
-VII. Las demás que señale el Reglamento de esta ley.
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2023)</small>
 
 ###### Artículo 82.
 
-Integración.
+Integración
 
-El Consejo, se integrará por los siguientes titulares, no pudiendo existir al respecto suplencias, salvo en el caso de la Fiscal General.
+El Consejo de Asuntos Internos se integrará por las personas titulares que se señalan a continuación, no pudiendo existir al respecto suplencias, salvo en el caso de la Fiscal General.
 
-I. La persona Fiscal General;
+I. La persona titular de la Fiscalía General, en su calidad de persona titular de la Presidencia;
 
-II. Fiscal especializado en combate a la corrupción;
+II. La persona titular de la Unidad de Asuntos Internos, en su calidad de persona titular de la Secretaría Ejecutiva;
 
-III. Los coordinadores Generales previstos en esta ley.
+III. Las personas titulares de la Fiscalía Especializada en Combate a la Corrupción y de la Fiscalía Especializada para la Atención de Delitos Electorales;
 
-Todo lo referente a su operación, sesiones y aplicación de medidas se establecerá en el Reglamento de la Ley, considerando que en caso de empate en las votaciones la persona Fiscal General tendrá voto de calidad.
+IV. Las personas titulares de las Coordinaciones Generales previstas en esta Ley y su Reglamento, y
+
+V. Las demás personas servidoras públicas de la Fiscalía General que apruebe el Consejo de Asuntos Internos.
+
+Todo lo referente a la operación y funcionamiento del Consejo de Asuntos Internos se establecerán en la normatividad aplicable. En caso de empate en las votaciones, la persona titular de la Fiscalía General tendrá voto de calidad.
 
 ###### Artículo 83.
 
@@ -1876,7 +1982,13 @@ III. Celebrada la audiencia de desahogo de pruebas y alegatos, se cerrará la in
 
 IV. La resolución definitiva será notificada al Elemento de manera personal y se agregará al expediente personal del elemento policial.
 
-El Reglamento de esta ley señalará el procedimiento para el recurso de reconsideración.
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2023)</small>
+
+Las resoluciones que emita el Consejo de Honor y Justicia serán inatacables y definitivas.
+
+> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2023)</small>
+
+En términos del artículo 123, Apartado B, fracción XIII de la Constitución Federal, será improcedente la reinstalación del personal policial destituido, cualquiera que sea el resultado del juicio o medio de defensa que hubiere promovido, y en su caso, sólo procederá la indemnización. Cuando los órganos jurisdiccionales condenen al pago de haberes dejados de percibir o remuneración ordinaria, éstos serán cubiertos hasta por un periodo máximo de doce meses, con base en el tabulador vigente de la fecha en la que para tal efecto se exhiba.
 
 ## TÍTULO SEPTIMO. DE LA EVALUACION Y SEGUIMIENTO
 
@@ -2225,3 +2337,21 @@ PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su pr
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. - La emisión y modificación de las Reglas Operativas y de funcionamiento, se llevarán a cabo por los Presidentes del Consejo Ciudadano y Judicial respectivamente, con la aprobación de la mayoría de sus integrantes.
+
+G.O. 25 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGAN EL ARTÍCULO 66; ÚLTIMO PÁRRAFO DEL ARTÍCULO 82; SE REFORMAN LOS ARTÍCULOS 75; 76; 79; 80 Y 81; SE ADICIONAN LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 48 Y SE RECORRE LA SUBSECUENTE; ARTÍCULO 53 BIS; 66 BIS, LOS ÚLTIMOS DOS PÁRRAFOS DEL ARTÍCULO 82; SE MODIFICAN LA FRACCIÓN XXIV DEL ARTÍCULO 48; FRACCIONES I Y XII DEL ARTÍCULO 61; FRACCIÓN XII DEL ARTÍCULO 62; PRIMER PÁRRAFO Y FRACCIÓN XII DEL ARTÍCULO 63 BIS; ÚLTIMO PÁRRAFO DEL ARTÍCULO 84, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]E
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Los asuntos que se encontraban en trámite en la Subprocuraduría de Procesos, hasta antes de la entrada en vigor del presente Decreto, serán atendidos y resueltos por la Coordinación General de Acusación, Procedimiento y Enjuiciamiento.
+
+Los recursos humanos, financieros, materiales y tecnológicos con los que contaban las Subprocuraduría de Procesos serán transferidos a la Coordinación General de Acusación, Procedimiento y Enjuiciamiento.
+
+Las menciones y referencias normativas hechas a la Subprocuraduría de Procesos, así como las facultades y participaciones institucionales de esta o de su persona Titular, se entenderán hechas a la Coordinación General de Acusación, Procedimiento y Enjuiciamiento, cuando sean asuntos de su competencia.
+
+En su caso, la Coordinación General Jurídica y de Derechos Humanos emitirá opinión jurídica respecto a la Unidad Administrativa que deba de continuar con la atención de los asuntos de la entonces Subprocuraduría de Procesos.
+
+TERCERO. Las facultades de la Unidad de Implementación previstas en la presente Ley y en el Reglamento serán transferidas al Órgano de Política Criminal, una vez concluido el Proceso de Transición de la Fiscalía General.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
