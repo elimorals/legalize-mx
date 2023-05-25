@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-administracion-enajenacion-y-destino-de-bienes-1442
 country: "mx"
 rank: "ley"
 publication_date: "2020-09-18"
-last_updated: "2020-09-18"
+last_updated: "2023-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY PARA LA ADMINISTRACIÓN, ENAJENACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS, DECOMISADOS Y EXTINTOS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2023.
 
 Ley publicada en la Quinta Sección al Número 13 del Periódico Oficial del Estado de Puebla, el viernes 18 de septiembre de 2020.
 
@@ -961,9 +961,11 @@ A la propuesta de pago a que se refiere la fracción VI de este artículo, se le
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO DE ASIGNACIÓN
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 95.
 
-De conformidad con el artículo 52 de la presente Ley, la Junta de Gobierno realizará el procedimiento de asignación, el cual consistirá en asignar gratuitamente los Bienes objeto de esta Ley a favor de las dependencias y entidades de la Administración Pública Estatal y Federal, así como de los entes públicos del Estado de Puebla, los gobiernos de los municipios del Estado y de las demás entidades federativas y municipios, para que los utilicen en los servicios públicos locales, en programas sociales de prevención social del delito, programas para el fortalecimiento de las instituciones de seguridad pública y procuración de justicia, en fines educativos o de asistencia social, u otras políticas públicas prioritarias, que lo requieran para el desarrollo de sus actividades, de conformidad con los lineamientos que al efecto emita la junta de Gobierno.
+De conformidad con el artículo 52 de la presente Ley, la Junta de Gobierno realizará el procedimiento de asignación, el cual consistirá en asignar gratuitamente los Bienes objeto de esta Ley a favor de las dependencias y entidades de la Administración Pública Estatal y Federal, así como de los entes públicos del Estado de Puebla, los gobiernos de los municipios del Estado y de las demás entidades federativas y municipios, para que los utilicen en los servicios públicos locales, en programas sociales de prevención social del delito, programas para el fortalecimiento de las instituciones de seguridad pública y procuración de justicia, en fines educativos, de asistencia social, para acciones de reforestación, restauración de suelo y energías limpias, u otras políticas públicas prioritarias, que lo requieran para el desarrollo de sus actividades, de conformidad con los lineamientos que al efecto emita la junta de Gobierno.
 
 ### CAPÍTULO IV. DE LA DESTRUCCIÓN DE BIENES
 
@@ -1216,3 +1218,13 @@ SÉPTIMO. Se abroga la Ley de Extinción de Dominio para el Estado de Puebla, pu
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de marzo de dos mil veinte. Diputada Presidenta. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputado Secretario. URIVIEL GONZÁLEZ VIEYRA. Rúbrica. Diputada Secretaria. BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecisiete días del mes de marzo de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. La Secretaria de Planeación y Finanzas. CIUDADANA MARÍA TERESA CASTRO CORRO. Rúbrica. La Secretaria de Administración. CIUDADANA ROSA DE LA PAZ URTUZUÁSTEGUI CARRILLO. Rúbrica. La Secretaria de la Función Pública. CIUDADANA LAURA OLIVIA VILLASEÑOR ROSALES. Rúbrica. El Secretario de Infraestructura. CIUDADANO JUAN DANIEL GÁMEZ MURILLO. Rúbrica. La Secretaria de Bienestar. CIUDADANA LIZETH SÁNCHEZ GARCÍA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 95 DE LA LEY PARA LA ADMINISTRACIÓN, ENAJENACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS, DECOMISADOS Y EXTINTOS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
