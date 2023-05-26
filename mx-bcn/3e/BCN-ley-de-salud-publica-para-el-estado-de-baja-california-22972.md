@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2023-03-03"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -115,9 +115,9 @@ V.- La salud visual;
 
 VI.- La salud auditiva;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-VII.- La vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, como coadyuvante del departamento de profesiones;
+VII.- La vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, como coadyuvante del departamento de profesiones del Estado;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -603,6 +603,28 @@ Los cargos en la Comisión serán de carácter honorífico, por lo que no percib
 
 El funcionamiento de la Comisión de Vigilancia de Servicios de Salud Pública se regirá por los lineamientos que al efecto se emitan.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
+
+ARTÍCULO 19 QUINQUIES.- En los edificios públicos y privados donde se concentren personas, se procurará instalar desfibriladores externos automáticos, necesarios y autorizados por la Autoridad Sanitaria competente, con el objeto de brindar auxilio inmediato para atender la ocurrencia de una eventual emergencia como infarto agudo al miocardio, arritmias y muerte súbita, sujetándose a las siguientes bases:
+
+I. En todo edificio público y privado que genere concentración de al menos trescientas personas en concurrencia, se procurará contar por lo menos con un desfibrilador externo automático;
+
+II. El desfibrilador externo automático será instalado en un lugar de fácil acceso cuya ubicación, operación y funcionamiento deberá estar claramente señalizada;
+
+III. Las personas propietarias y responsables de los establecimientos a que se refiere la fracción I, en caso de contar con desfibrilador externo automático deberán contar con personal capacitado en técnica de uso de este tipo de instrumento. En la capacitación, se privilegiará al personal del establecimiento que se ofrezca como persona voluntaria para ello.
+
+El uso del desfibrilador externo automático es preventivo, por ningún motivo sustituye o suspende la atención prehospitalaria o de servicios de urgencias a que se refiere la presente Ley.
+
+Ante el eventual uso del desfibrilador, se deberá solicitar el apoyo de los cuerpos de emergencia y proceder en términos del artículo 55 de la Ley General de Salud.
+
+IV. La Secretaría de Salud del Estado, en el ámbito de su competencia, deberá:
+
+a) Establecer programas de capacitación en el uso de desfibriladores externos automáticos;
+
+b) Dictar las disposiciones administrativas correspondientes para su correcta instalación y funcionamiento conforme a las Normas Oficiales Mexicanas; y,
+
+c) Vigilar y hacer cumplir las disposiciones contenidas en la presente Ley.
+
 #### SECCION II. DE LA ATENCION MEDICA
 
 ###### ARTÍCULO 20.
@@ -637,19 +659,25 @@ IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vi
 
 La atención materno infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+I.- La atención de la mujer y persona gestante durante el embarazo, el parto y el puerperio en razón de la condición de vulnerabilidad en que se encuentra la mujer y la persona gestante, y el producto;
 
-II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y su salud visual;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+II.- La atención de niñas y niños, la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas y su salud visual, incluyendo en esta última la aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera y su tratamiento, en todos sus grados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2023)</small>
+
+II BIS.- La aplicación del tamiz neonatal para la detección de cardiopatías congénitas graves o críticas, se realizará antes del alta hospitalaria;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
 III.- La detección temprana de la sordera y su tratamiento, en todos sus grados, desde los primeros días del nacimiento;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-IV.- Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en las escuelas públicas y privadas;
+IV.- Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de las niñas y niños en las escuelas públicas y privadas;
 
 > <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -675,9 +703,9 @@ VI.- La realización del tamiz neonatal ampliado; y
 
 VII.- La atención de los menores de 6 años, para que reciban la adecuada estimulación temprana de acuerdo con las normas técnicas que para tal efecto expida la Autoridad Federal competente.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-En una situación de urgencia médica, las Instituciones Públicas de Salud prestarán de manera inmediata los servicios sanitarios y la atención médica necesaria a las mujeres en estado de gravidez, cualquiera que sea la etapa de la gestación, y que por su estado grave de salud se encuentre en riesgo su vida y la del producto de la concepción; esto sin discernir o distinguir la calidad de la usuaria; es decir, sea (sic) o no usuarias de servicios a población general, derecho habientes, aseguradas o beneficiarias, o que estén o no bajo el Sistema de Protección Social en Salud.
+En una situación de urgencia médica, las Instituciones Públicas de Salud prestarán de manera inmediata los servicios sanitarios y la atención médica necesaria a las mujeres y personas gestantes en estado de gravidez, cualquiera que sea la etapa de la gestación, y que por su estado grave de salud se encuentre en riesgo su vida y la del producto de la concepción; esto sin discernir o distinguir la calidad de la persona usuaria; es decir, sean o no personas usuarias de servicios a población general, derecho habientes, personas aseguradas o beneficiarias, o que estén o no bajo el Sistema de Protección Social en Salud.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2015)</small>
 
@@ -803,9 +831,9 @@ IV.- El apoyo y fomento de la investigación en materia de anticoncepción, infe
 
 V.- La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar; y
 
-(REFORMADA [N. DE E. ADICIONADA), P.O. 1 DE FEBRERO DE 2019)
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-VI.- La implementación de programas y campañas de prevención del Embarazo en adolescentes, en los Centros Escolares en coordinación con la Secretaría de Educación y Bienestar Social.
+VI.- La implementación de programas y campañas de prevención del Embarazo en adolescentes, en los Centros Escolares en coordinación con la Secretaría de Educación.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
@@ -901,13 +929,19 @@ El internamiento involuntario, se presenta en el caso de usuarios con trastornos
 
 Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las Autoridades Educativas estatales y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales; para tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
-ARTÍCULO 33 BIS.- Para efectos del Artículo anterior, la Secretaría de Educación y Bienestar Social, fomentará la coordinación con la Secretaría de Salud Pública del Estado, para la implementación de acciones en los centros escolares de educación básica y media superior en el Sistema Estatal, que tengan como objeto:
+ARTÍCULO 33 BIS.- Para efectos del Artículo anterior, la Secretaría de Educación, fomentará la coordinación con la Secretaría de Salud del Estado, para la implementación de acciones en los centros escolares de educación básica y media superior en el Sistema Estatal, que tengan como objeto:
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 a).- Facilitar el acceso a los servicios médicos de salud mental y bienestar social de los educandos que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 b).- Capacitar al personal especializado en psicología para la rápida y oportuna atención de los educandos en materia de la identificación de posible trastorno mental que presenten los educandos, para en su caso sean canalizados para la instancia que corresponda, su atención, y
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 c).- Divulgar material informativo básico en materia de salud a los padres de familia o tutores con la finalidad de identificar algún tipo de trastorno en los alumnos y aplicar las medidas preventivas al respecto.
 
@@ -1111,9 +1145,9 @@ ARTÍCULO 50 BIS 3.- Se establece la Cartilla Estatal de Salud Bucal, como el do
 
 ARTÍCULO 50 BIS 4.- La prevención y control de la salud bucal de los menores es una responsabilidad que comparten los padres, los tutores o quienes ejerzan la patria potestad sobre ellos, los sectores de salud y educativo del Estado.
 
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-ARTÍCULO 50 BIS 5.- La Secretaría de Educación y Bienestar Social del Estado en el ámbito de su competencia, coadyuvará con la Secretaría de Salud en la observancia y aplicación de los programas de salud bucal que se instrumenten a la población preescolar, de conformidad con las bases de coordinación que se establezcan entre ambas autoridades.
+ARTÍCULO 50 BIS 5.- La Secretaría de Educación en el ámbito de su competencia, coadyuvará con la Secretaría de Salud en la observancia y aplicación de los programas de salud bucal que se instrumenten a la población preescolar, de conformidad con las bases de coordinación que se establezcan entre ambas autoridades.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -1359,15 +1393,19 @@ Para el ejercicio de actividades profesionales en el campo de la salud, especial
 
 Las certificaciones y recertificaciones necesarias para el ejercicio de actividades profesionales en el campo de la salud, se estará a lo que establezca la Ley General de la materia y demás disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+Las y los profesionistas de la salud de otras entidades federativas del país que pretendan ejercer en el Estado, aun de manera transitoria para la atención de casos específicos, deberán estar inscritos en el Registro Estatal de Profesiones y contar con un registro profesional estatal de conformidad con la Ley de Ejercicio de las Profesiones para el Estado de Baja California.
+
 ###### ARTÍCULO 53.
 
 Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la salud o ramas de la medicina, se requiere que los diplomas, constancias o reconocimientos, hayan sido legalmente expedidos o autorizados por las instituciones educativas y registrados ante la Secretaría de Salud del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 54.
 
-La Secretaría de Educación del Poder Ejecutivo del Estado, por conducto de su Departamento de Profesiones, proporcionará a las Autoridades Sanitarias del Estado cuando así lo soliciten, relación de aquellas personas que tengan registro de cédulas profesionales, especialidades, certificaciones o recertificaciones o títulos que acrediten sus estudios de medicina.
+La Secretaría de Educación por conducto de su Departamento de Profesiones, proporcionará a las Autoridades Sanitarias del Estado cuando así lo soliciten, relación de aquellas personas que tengan registro de cédulas profesionales, especialidades, certificaciones o recertificaciones o títulos que acrediten sus estudios de medicina.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
 
@@ -1381,15 +1419,27 @@ La lista a que se refiere el párrafo anterior, deberá actualizarse de manera p
 
 Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud del Estado un directorio electrónico con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado o recertificación de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas que avalen su ejercicio profesional.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+Las instituciones hospitalarias públicas y privadas deberán poner a disposición del público un directorio que incluya el currículum, cédula, registro y en su caso certificación vigente de la rama de salud correspondiente, que avale el ejercicio profesional del personal médico que bajo cualquier modalidad preste sus servicios en ellas. Además, deberán comprobar a la Secretaría de Salud del Estado, haber informado en forma previa a su atención a los pacientes a través de los formatos que corresponda la acreditación profesional a que se refiere este párrafo respecto de quienes le brindaron atención médica o quirúrgica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 55.
 
-Quienes ejerzan en el servicio de salud privado, actividades profesionales, técnicas y auxiliares, así como las especialidades a que se refiere este Capítulo, deberán poner a la vista del público en los establecimientos correspondientes, un anuncio que indique la institución que les expidió el diploma, certificado, título o cédula profesional y su correspondiente número de registro ante las Autoridades Educativas y de Salud.
+Quienes ejerzan en el servicio de salud privado, actividades profesionales, técnicas y auxiliares, así como las especialidades a que se refiere este Capítulo, deberán poner a la vista del público en los establecimientos correspondientes, la documentación que acredite la formación profesional que ostenta y que indique la institución que les expidió el diploma, certificado, título o cédula profesional y su correspondiente número de registro ante las Autoridades Educativas y de Salud.
 
 El número de registro deberá consignarse en los documentos y papelería utilizada en el ejercicio de sus actividades.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+Asimismo, la oferta de los servicios que se haga a través de anuncios, denominación y/o nomenclatura, ya sean impresos, electrónicos u otros, por profesionistas que ejerzan en materia de salud, así como los establecimientos o unidades médicas en que se presten dichos servicios deberán prever y contener con claridad en su publicidad exterior los requisitos establecidos en la Ley General de Salud.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 56.
 
-La Secretaría de Salud del Estado coadyuvará con el Departamento de Profesiones de la Secretaría de Educación y Bienestar Social, en la vigilancia del ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
+La Secretaría de Salud del Estado coadyuvará con el Departamento de Profesiones de la Secretaría de Educación, en la vigilancia del ejercicio de las y los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
 
 #### SECCION II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
@@ -2419,25 +2469,29 @@ ARTÍCULO 144 TER.- Los establecimientos señalados en el artículo anterior, ti
 
 #### SECCIÓN IX BIS. EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 ARTÍCULO 144 QUÁTER.- Para la realización de cualquier procedimiento médico quirúrgico de especialidad, los profesionales que lo ejerzan requieren, además de lo previsto en el artículo 52 de esta Ley, lo siguiente:
 
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
 I. Cédula de especialista legalmente expedida por la autoridad educativa competente.
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 II. Certificado vigente de especialista que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en la materia, expedido por el Consejo de la especialidad, según corresponda, de conformidad con el artículo 272 BIS de la Ley General de Salud.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-Para acreditar capacidad y experiencia en la práctica de los procedimientos y técnicas el Consejo podrá considerar entre los elementos a evaluar, estudios de Posgrado de instituciones de educación superior que cuenten con el reconocimiento de las autoridades educativas competentes de validez oficial de estudios de sus planes y programas del tipo superior.
+Cuando las y los médicos especialistas realicen publicidad en medios de comunicación respecto de los servicios que ofrecen, deberán acreditar tal carácter con los requisitos descritos antes en este artículo, ajustándose a lo dispuesto en el artículo 55 de esta ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-Los médicos especialistas podrán pertenecer a una agrupación médica cuyas bases de organización y funcionamiento estarán a cargo de las asociaciones, sociedades, colegios o federaciones de profesionales de su especialidad. Tales agrupaciones se encargarán de garantizar el profesionalismo y ética de los expertos en esta práctica de la Medicina.
+Las y los médicos especialistas podrán pertenecer a una agrupación médica cuyas bases de organización y funcionamiento estarán a cargo de las asociaciones, sociedades, colegios o federaciones de profesionales de su especialidad. Tales agrupaciones se encargarán de garantizar el profesionalismo y ética de los expertos en esta práctica de la Medicina.
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-ARTÍCULO 144 QUINQUIES.- Para la expedición de la cédula de médico especialista, la Secretaría de Educación y Bienestar Social solicitará la opinión del Comité Estatal Interinstitucional para la Formación y Capacitación de Recursos Humanos e Investigación en Salud, órgano consultivo de la Administración Pública Estatal, creado por Decreto publicado en el Periódico Oficial de fecha 12 de julio de 2013.
+ARTÍCULO 144 QUINQUIES.- Para la expedición de la cédula de médico especialista, la Secretaría de Educación solicitará la opinión del Comité Estatal Interinstitucional para la Formación y Capacitación de Recursos Humanos e Investigación en Salud, órgano consultivo de la Administración Pública Estatal, creado por Decreto publicado en el Periódico Oficial de fecha 12 de julio de 2013.
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
 
@@ -2451,15 +2505,19 @@ Dicha obligación también la tienen quienes administren clínicas privadas cuya
 
 Esta información servirá de base para que la Secretaría de Salud del Estado integre y actualice su propio Registro de profesionistas con especialidad en cirugía que operen en el Estado.
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-ARTÍCULO 144 OCTIES.- El incumplimiento a lo previsto en el artículo anterior, así como a lo previsto en el artículo 144 QUATER, dará lugar a que (sic) Secretaría de Salud del Estado aplique medidas de seguridad y/o sanciones a que refiere esta Ley.
+ARTÍCULO 144 OCTIES.- El incumplimiento a lo previsto en los artículos 54, 55, 144 QUÁTER, 144 SEXIES y 144 SEPTIES, dará lugar a que la Secretaría de Salud aplique las medidas de seguridad y/o sanciones a que refiere esta Ley.
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
 
 ARTÍCULO 144 NOVIES.- Las instituciones públicas que forman parte del Sistema Estatal de Salud podrán integrar la cirugía bariátrica como tratamiento de la obesidad mórbida y sus comorbilidades, de conformidad con las disposiciones jurídicas aplicables. Los candidatos a cirugía bariátrica deberán cumplir con los criterios de selección, de acuerdo a las normas y protocolos de salud en la materia.
 
 Las instituciones de salud pública y privada, así como los establecimientos autorizados que practiquen la cirugía bariátrica, procurarán contar con la infraestructura multidisciplinaria adecuada para dichos procedimientos de alta complejidad, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+ARTÍCULO 144 DECIES.- La oferta de servicios médicos a través de medios informativos por parte de profesionistas, establecimientos, o unidades médicas especializados en cirugía plástica, estética o reconstructiva, deberá estarse a lo dispuesto en el artículo 55 de esta ley.
 
 #### SECCION X. DE LOS TRANSPORTES DE CARGA
 
@@ -2943,9 +3001,11 @@ La resolución de revocación surtirá efectos, en su caso, de clausura definiti
 
 Para los efectos de esta Ley, se entiende por certificado la constancia expedida en los términos que establezcan las Autoridades Sanitarias del Estado, para la comprobación o información de determinados hechos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 165.
 
-Para fines sanitarios, sólo los médicos debidamente registrados ante el Departamento de Profesiones de la Secretaría de Educación y Bienestar Social, extenderán los siguientes certificados:
+Para fines sanitarios, sólo los médicos debidamente registrados ante el Departamento de Profesiones de la Secretaría de Educación, extenderán los siguientes certificados:
 
 I.- De salud;
 
@@ -3988,3 +4048,25 @@ P.O. 3 DE MARZO DE 2023.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las erogaciones que deban efectuar las Instituciones de Salud Pública, para la realización de cirugías bariátricas, se sujetarán a los recursos presupuestales que el Congreso del Estado apruebe para esos fines, así como al cumplimiento de las condiciones previstas en las disposiciones normativas, lineamientos, acuerdos y políticas que determine la autoridad federal de salud en esa materia.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 227 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 22 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La aplicación del presente Decreto estará sujeta a la disponibilidad presupuestaria.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 228 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 19 QUINQUIES A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado, contará con un plazo de 120 días naturales para emitir las disposiciones jurídicas reglamentarias que se deriven del presente Decreto.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 229 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4, 27, 33 BIS, 50 BIS 5, 52, 54, 55, 56, 144 QUÁTER, 144 QUINQUIES, 144 OCTIES, 144 DECIES Y 165 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
