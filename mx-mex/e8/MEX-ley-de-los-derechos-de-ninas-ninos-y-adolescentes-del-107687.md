@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2023-05-11"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -257,7 +257,9 @@ Es obligación de toda persona que tenga conocimiento de casos de niñas, niños
 
 Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-I. Derecho a la vida, a la supervivencia y al desarrollo.
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
+
+I. Derecho a la vida, a la supervivencia, al desarrollo y a la paz.
 
 II. Derecho de prioridad.
 
@@ -305,9 +307,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 ### Capítulo Primero. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 11.
 
-Niñas, niños y adolescentes tienen derecho intrínseco a la vida de conformidad con la Constitución Estatal y la Convención, a la supervivencia y al desarrollo, quienes deberán vivir en condiciones que sean acordes a su dignidad y que garanticen su desarrollo integral.
+Niñas, niños y adolescentes tienen derecho intrínseco a la vida de conformidad con la Constitución Estatal y la Convención, a la supervivencia, al desarrollo y a la paz, quienes deberán vivir en condiciones que sean acordes a su dignidad y que garanticen su desarrollo integral.
 
 Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia ni ser utilizados en conflictos armados o violentos o en la comisión de conductas delictivas.
 
@@ -751,7 +755,9 @@ IX. Establecer acciones afirmativas para garantizar el derecho a la educación d
 
 X. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes.
 
-XI. Fomentar la convivencia escolar armónica y libre de violencia, así como la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos, inculcando el respeto por las personas.
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
+
+XI. Fomentar la educación para una cultura de paz, la convivencia escolar armónica y libre de violencia, así como la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos, inculcando el respeto por las personas.
 
 XII. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria para abatir el ausentismo, abandono y deserción escolar.
 
@@ -793,7 +799,9 @@ II. Desarrollar las aptitudes y las potencialidades de niñas, niños y adolesce
 
 III. Inculcar a niñas, niños y adolescentes sentimientos de identidad y pertenencia a su escuela, comunidad y nación, así como su participación activa en el proceso educativo y actividades cívicas en términos de las disposiciones jurídicas aplicables.
 
-IV. Apoyar y desarrollar programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia o tutores respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y respeto a sus maestros.
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
+
+IV. Apoyar y desarrollar programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia o tutores respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la cultura de paz y prevención de la violencia escolar desde el hogar y respeto a sus maestros.
 
 V. Orientar a los adolescentes respecto a la formación profesional, las oportunidades de empleo y las posibilidades de carrera.
 
@@ -821,9 +829,13 @@ Para efectos del párrafo anterior, las autoridades estatales y municipales, en 
 
 I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia.
 
-II. Desarrollar actividades de capacitación para servidores públicos y para el personal administrativo y docente.
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
 
-III. Fortalecer y promover los cursos y programas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos y fortalezcan el valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros.
+II. Desarrollar actividades de capacitación y sensibilización en (sic) cultura de paz y no violencia para servidores públicos, personal administrativo y docente.
+
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
+
+III. Fortalecer y promover los cursos y programas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos y fortalezcan el valor de la igualdad y solidaridad entre las hijas e hijos, la cultura de paz y prevención de la violencia escolar desde el hogar y el respeto a sus maestros.
 
 IV. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar.
 
@@ -2354,3 +2366,11 @@ SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan
 TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
 
 Para ejercicios presupuestales posteriores, las dependencias del Gobierno Estatal asignarán la cantidad de recursos que consideren necesarios con base en sus estadísticas, para continuar la aplicación de la presente reforma, debiendo establecer en el Presupuesto de Egresos, un apartado específico de recurso y el destino de estos.
+
+G.G. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 172.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 11, LA FRACCIÓN XI DEL ARTÍCULO 41, LA FRACCIÓN IV DEL ARTÍCULO 42 Y LAS FRACCIONES II Y III DEL ARTÍCULO 43 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
