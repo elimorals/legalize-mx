@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2022-02-04"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 4 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 26 DE MAYO DE 2023.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -631,9 +631,17 @@ a). Unidad de Asuntos Jurídicos;
 
 b). Unidad de Contraloría Interna;
 
-c). Unidad de Transparencia; y
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-d). Unidad de Comunicación Social.
+c). Unidad de Transparencia;
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+d). Unidad de Comunicación Social; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+e). Unidad de Igualdad de Género.
 
 El Poder Legislativo del Estado por mayoría calificada del Pleno y a solicitud de la Junta de Coordinación Política, podrá modificar su estructura orgánica cuando ello sea necesario para apoyar el cumplimiento de las atribuciones del Congreso del Estado, y bajo los términos y condiciones previstas en la Constitución Local.
 
@@ -1677,19 +1685,49 @@ La Unidad de Transparencia es el área operativa encargada de verificar que los 
 
 El desempeño de las atribuciones de la Unidad de Transparencia estará bajo la vigilancia y control del Comité de Transparencia.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE MAYO DE 2023)</small>
+
+#### SECCIÓN X. DE LA UNIDAD DE IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
+
+ARTICULO 85 BIS.- La Unidad de Igualdad de Género es el área técnica de naturaleza consultiva encargada de analizar y promover las acciones tendientes a institucionalizar y transversalizar la perspectiva de género en todas las áreas del Congreso del Estado, así como en su ejercicio legislativo.
+
+El desempeño de las atribuciones de la Unidad de Igualdad de Género estará bajo la vigilancia y control de la Junta de Coordinación Política, misma que deberá aprobar su nombramiento.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
+
+ARTICULO 85 BIS 1.- Corresponderá a la Unidad de Igualdad de Género, las atribuciones siguientes:
+
+I. Promover acciones para institucionalizar y transversalizar la perspectiva de género en todos los órganos y espacios del Congreso del Estado;
+
+II. Coordinar esfuerzos con la Comisión de Igualdad de Género y Juventudes, para auxiliar a ésta en sus funciones y atribuciones;
+
+III. Informar trimestralmente a la Comisión de Igualdad de Género y Juventudes las acciones, políticas y programas efectuados para alcanzar los objetivos trazados;
+
+IV. Impulsar acciones y estrategias encaminadas a institucionalizar un lenguaje inclusivo no sexista, como parte del trabajo cotidiano en las áreas del Congreso del Estado;
+
+V. Cuando así lo soliciten las Comisiones, emitir opinión fundada, imparcial y objetiva, respecto a iniciativas o decretos en materia de igualdad de género;
+
+VI. Gestionar la incorporación y transversalidad de la perspectiva de género en el Congreso;
+
+VII. Generar estudios técnicos y estadísticos que permitan tomar decisiones en materia de igualdad de género, mediante un sistema informativo, de registro, seguimiento y evaluación de la situación de igualdad entre mujeres y hombres;
+
+VIII. Divulgar al interior del Congreso la información relacionada con la perspectiva de género; y,
+
+IX. Promover acciones para contar con espacios laborales libres de cualquier tipo de violencia.
+
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2011)</small>
-
-#### SECCION I
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
 
 ### CAPITULO IV. DE LA COMISION PERMANENTE
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
 
-#### SECCION II
+#### SECCION I
 
-#### SECCION I. DEL CEREMONIAL DE LAS SESIONES
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
+
+#### SECCION II
 
 ###### ARTICULO 86.
 
@@ -1839,7 +1877,7 @@ Sólo por acuerdo del Pleno del Congreso en votación económica por mayoría si
 
 En caso necesario, se destinarán las primeras filas de la butaquería a los Ministros de la Suprema Corte de Justicia de la Nación, a los Gobernadores de otras Entidades Federativas, delegaciones parlamentarias del Congreso de la Unión, de las legislaturas de otras Entidades Federativas, de la Asamblea de Representantes del Distrito Federal, de otras Naciones, a los Magistrados del Tribunal Superior de Justicia, a los Munícipes de los Ayuntamientos del Estado; y, demás servidores públicos de los tres niveles de gobierno.
 
-#### SECCION II. DE LA FORMA Y PERIODICIDAD DE LAS SESIONES
+#### SECCION I. DEL CEREMONIAL DE LAS SESIONES
 
 ###### ARTICULO 100.
 
@@ -1878,6 +1916,8 @@ VI. Cumplido con lo dispuesto en las fracciones que anteceden, el Presidente del
 ###### ARTICULO 102.
 
 Una vez recibido el Informe General al que se hace alusión en el artículo que antecede, el Pleno del Congreso del Estado en la siguiente sesión ordinaria procederá a citar a los funcionarios dependientes del Poder Ejecutivo a fin de que comparezcan ante esta Soberanía para el desahogo de la Glosa correspondiente, mediante el procedimiento establecido en el reglamento.
+
+#### SECCION II. DE LA FORMA Y PERIODICIDAD DE LAS SESIONES
 
 ###### ARTICULO 103.
 
@@ -3162,3 +3202,11 @@ PRIMERO. La presente reforma entrará en vigor al momento de su aprobación por 
 SEGUNDO. Todas las referencias que se hagan a la Comisión de Desarrollo Social y Asuntos Indígenas, en su normatividad interna del Poder Legislativo y en la legislación estatal, se entenderán hecha a la Comisión de Asuntos Indígenas y Bienestar Social.
 
 TERCERO. Publíquese la presente reforma en el Periódico Oficial del Estado, para los efectos legales conducentes.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 226 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 40; ASÍ COMO LA ADICIÓN DE UNA SECCIÓN X DENOMINADA DE LA UNIDAD DE IGUALDAD DE GÉNERO, EN EL TÍTULO SEXTO, CAPÍTULO III, ASÍ COMO LA ADICIÓN DE LOS ARTÍCULOS DE NUEVA CREACIÓN 85 BIS Y 85 BIS 1 A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. Las presentes reformas entrarán en vigor al momento de su aprobación por el Pleno del Congreso.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Estado de Baja California.
