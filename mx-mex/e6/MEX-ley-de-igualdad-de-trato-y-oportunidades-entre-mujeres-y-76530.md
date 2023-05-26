@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-igualdad-de-trato-y-oportunidades-entre-mujeres-y-76530"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2022-05-06"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,23 @@ state: "MEX"
 ---
 # LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MEXICO
 
-REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
+LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2023.
 
-Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el miércoles 28 de junio de 2006.
+Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+PODER EJECUTIVO DEL ESTADO
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que al Ejecutivo Federal confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 31 y 37 de la Ley Orgánica de la Administración Pública Federal, he tenido a bien expedir el siguiente
+ENRIQUE PEÑA NIETO, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-## TÍTULO PRIMERO. Disposiciones Generales
+DECRETO NÚMERO 145
+
+LA H. "LVII" LEGISLATURA DEL ESTADO DE MÉXICO
+
+DECRETA:
 
 ###### ARTÍCULO PRIMERO.
 
@@ -41,1777 +45,511 @@ Se expide la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres de
 
 LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
 
-### CAPÍTULO I. De las Definiciones, Interpretación y Plazos
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-El presente ordenamiento tiene por objeto reglamentar la Ley Federal de Presupuesto y Responsabilidad Hacendaria en las materias de programación, presupuesto, aprobación, ejercicio, contabilidad, control y evaluación de los ingresos y egresos públicos federales.
+Esta Ley es de orden público, interés social y de observancia general en el Estado de México, tiene por objeto regular, proteger y garantizar la igualdad de trato y oportunidades entre mujeres y hombres, mediante la eliminación de la discriminación, sea cual fuere su circunstancia o condición, en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres, con el propósito de alcanzar una sociedad más democrática, justa, equitativa y solidaria.
 
 ###### Artículo 2.
 
-Las definiciones previstas en el artículo 2 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria serán aplicables en el presente Reglamento. Adicionalmente, de conformidad con el último párrafo de dicho artículo, se entenderá por:
+La aplicación de esta Ley corresponde a las autoridades estatales y municipales, de conformidad con sus respectivas competencias debiendo tomar las medidas presupuestales y administrativas para garantizar la igualdad de trato y oportunidades entre mujeres y hombres.
 
-I. Análisis costo y beneficio: la evaluación de los programas y proyectos de inversión a que se refiere el artículo 34, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y que considera los costos y beneficios directos e indirectos que los programas y proyectos generan para la sociedad;
-
-II. Aportaciones federales: los recursos transferidos a las entidades federativas y municipios a través de los fondos a que se refiere el artículo 25 de la Ley de Coordinación Fiscal;
-
-III. Áreas centrales de contabilidad: las unidades responsables en las dependencias y entidades con atribuciones para llevar la contabilidad y emitir los informes contables y presupuestarios que reflejen la situación financiera de la dependencia o entidad a la que pertenecen;
-
-IV. Balance financiero: la diferencia entre los ingresos y el gasto neto total, incluyendo el costo financiero de la deuda pública del Gobierno Federal y de las entidades de control directo;
-
-V. Balance primario: la diferencia entre los ingresos y el gasto neto total, excluyendo el costo financiero de la deuda pública del Gobierno Federal y de las entidades de control directo;
-
-VI. Cartera: los Programas y Proyectos de Inversión de conformidad con lo establecido en los artículos 34, fracción III, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 46 de este Reglamento;
-
-VII. Clave presupuestaria: la agrupación de los componentes de las clasificaciones a que se refiere el artículo 28 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que identifica, ordena y consolida en un registro, la información de dichas clasificaciones y vincula las asignaciones que se determinan durante la programación, integración y aprobación del Presupuesto de Egresos, con las etapas de control, y las de ejecución y seguimiento del ejercicio del gasto;
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-VIII. Comisión: la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación;
-
-IX. Cuenta por liquidar certificada: el medio por el cual se realizan cargos al Presupuesto de Egresos para efectos de registro y pago;
-
-X. Disponibilidades financieras: los recursos financieros que las entidades mantienen en caja, depósitos o inversiones hasta en tanto son aplicados a cubrir su flujo de operación o gasto;
-
-XI. Entidades apoyadas: las entidades a que se refiere el artículo 2, fracción XVI de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que reciben transferencias y subsidios con cargo al Presupuesto de Egresos;
-
-XII. Entidades no apoyadas: las entidades a que se refiere el artículo 2, fracción XVI de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que no reciben transferencias ni subsidios con cargo al Presupuesto de Egresos;
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-XIII. Estructura ocupacional: el conjunto de puestos con funciones definidas, delimitadas y concretas que permiten el cumplimiento de los objetivos de las unidades administrativas con base en los registros y autorizaciones, en los términos de las disposiciones aplicables, la cual se vincula a la estructura orgánica cuando identifica al superior jerárquico de cada uno de esos puestos, y a la estructura salarial cuando identifica el nivel tabular de los mismos;
-
-XIV. (DEROGADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)
-
-XV. Instituciones financieras internacionales: las instituciones internacionales públicas o privadas, cuya función es otorgar o garantizar crédito externo a corto o largo plazo, que no constituyen un organismo financiero internacional;
-
-XVI. Ley: la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
-
-XVII. Organismos financieros internacionales: las instituciones multilaterales Banco Internacional de Reconstrucción y Fomento o Banco Mundial, Banco Interamericano de Desarrollo y Fondo Internacional de Desarrollo Agrícola, así como los fondos u organismos similares o filiales que involucran el otorgamiento de financiamiento, que tienen como objetivo fundamental promover el progreso económico, social y la protección ambiental de sus países miembros, a través del otorgamiento de donativos, cooperaciones técnicas y préstamos a los gobiernos de dichos países;
-
-XVIII. Pasivo circulante del Gobierno Federal: los adeudos de ejercicios fiscales anteriores de las dependencias por concepto de gastos devengados y no pagados al último día de cada ejercicio fiscal, derivados del ejercicio del Presupuesto de Egresos, incluido el gasto devengado de las dependencias cuya cuenta por liquidar correspondiente está pendiente de presentarse a la Tesorería, así como las cuentas por liquidar presentadas a ésta que quedaron pendientes de pago;
-
-XIX. Plaza: la posición presupuestaria que respalda un puesto en la estructura ocupacional o plantilla, que sólo puede ser ocupada por un servidor público y que tiene una adscripción determinada;
-
-XX. Presupuesto aprobado: las asignaciones presupuestarias anuales comprendidas en el Presupuesto de Egresos a nivel de clave presupuestaria en el caso de los ramos autónomos, administrativos y generales, y a nivel de los rubros de gasto que aparecen en las carátulas de flujo de efectivo para las entidades;
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-XXI. Presupuesto comprometido: las provisiones de recursos que constituyen las dependencias y entidades con cargo a su presupuesto aprobado o modificado autorizado para atender los compromisos derivados de las reglas de operación de los programas; cualquier acto jurídico, otorgamiento de subsidios, aportaciones a fideicomisos u otro concepto que signifique una obligación, compromiso o potestad de realizar una erogación.
-
-Las dependencias y entidades podrán constituir el presupuesto precomprometido con base en las provisiones de recursos con cargo a su presupuesto aprobado o modificado autorizado y con base en el calendario de presupuesto, con el objeto de garantizar la suficiencia presupuestaria para llevar a cabo los procedimientos de contratación de adquisiciones, arrendamientos, prestación de servicios, obras públicas y servicios relacionados con las mismas, en términos de las disposiciones aplicables;
-
-XXII. Presupuesto disponible: el saldo que resulta de restar al presupuesto aprobado o modificado autorizado de las dependencias y entidades, el ejercido, el comprometido y, en su caso, las reservas por motivos de control presupuestario, más los reintegros al presupuesto del ejercicio en curso;
-
-XXIII. Presupuesto modificado autorizado: la asignación presupuestaria para cada uno de los ramos autónomos, administrativos y generales, así como para las entidades, a una fecha determinada, que resulta de incorporar, en su caso, las adecuaciones presupuestarias que se tramiten o informen conforme a lo dispuesto por el artículo 92 de este Reglamento y demás disposiciones aplicables, al presupuesto aprobado, y que se expresa a nivel de clave presupuestaria para los ramos, y de flujo de efectivo para las entidades;
-
-XXIV. Presupuesto no regularizable: las erogaciones con cargo al Presupuesto de Egresos que no implican un gasto permanente en subsecuentes ejercicios fiscales para el mismo rubro de gasto;
-
-XXV. Presupuesto regularizable: las erogaciones que con cargo al presupuesto modificado autorizado implican un gasto permanente en subsecuentes ejercicios fiscales para el mismo rubro de gasto, incluyendo, en materia de servicios personales, las percepciones ordinarias, prestaciones económicas, repercusiones por concepto de seguridad social, contribuciones y demás asignaciones derivadas de compromisos laborales, correspondientes a servidores públicos de las dependencias y entidades;
-
-XXVI. Puesto: La unidad impersonal establecida en el Catálogo General de Puestos de la Administración Pública Federal que implica deberes específicos y delimita jerarquías y capacidades para su desempeño;
-
-XXVII. Tesorería: la Tesorería de la Federación, y
-
-XXVIII. Transparencia: las acciones que permiten garantizar el acceso de toda persona, del Congreso de la Unión y de las instancias fiscalizadoras competentes sobre las materias que son objeto del presente Reglamento, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 3.
 
-La interpretación de este Reglamento, para efectos administrativos, corresponde a la Secretaría y a la Función Pública, en el ámbito de sus respectivas competencias.
+La rectoría y operación de la política en materia de igualdad en el Estado estará a cargo del Ejecutivo Estatal, quien la ejercerá a través de la Secretaría de las Mujeres, en términos de las disposiciones de esta Ley y sin perjuicio de las competencias que tengan atribuidas otras dependencias.
 
 ###### Artículo 4.
 
-Los plazos que establece este Reglamento para dar respuesta a las solicitudes y consultas de las dependencias y entidades correrán a partir del día hábil siguiente a aquél en que éstas cumplan con los requisitos correspondientes previstos en este ordenamiento. En caso de que la Secretaría requiera información adicional al solicitante, en términos del presente Reglamento, volverá a iniciar el plazo correspondiente para que ésta emita su respuesta.
+Los principios rectores de esta Ley son:
+
+I. La igualdad de trato y oportunidades entre mujeres y hombres;
+
+II. La equidad de género;
+
+III. El respeto a la dignidad humana;
+
+IV. La no discriminación;
+
+V. El empoderamiento de la mujer;
+
+VI. La transversalidad; y
+
+VII. Los establecidos en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales ratificados por el Estado Mexicano, la legislación federal, la Constitución Política del Estado Libre y Soberano de México.
 
 ###### Artículo 5.
 
-Transcurridos los plazos que señala este Reglamento en que la Secretaría deba resolver solicitudes de autorización en las materias presupuestarias siguientes sin que hubiere emitido respuesta, éstas se entenderán resueltas en sentido afirmativo:
+En lo no previsto en esta Ley se aplicarán en forma supletoria las disposiciones contenidas en:
 
-I. (DEROGADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)
+I. La Ley General para la Igualdad entre Mujeres y Hombres;
 
-II. Fondo rotatorio o revolvente;
+II. La Ley para Prevenir, Combatir y Eliminar Actos de Discriminación en el Estado de México;
 
-III. Autorización especial para convocar, adjudicar y formalizar compromisos que iniciarán o continuarán en el siguiente ejercicio fiscal;
+III. La Ley de la Comisión de Derechos Humanos del Estado de México;
 
-IV. Contratos plurianuales;
+IV. La Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México;
 
-V. (DEROGADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)
+V. Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México; y
 
-VI. Las demás que señale la Secretaría mediante disposiciones generales.
+VI. Los demás ordenamientos aplicables en la materia.
 
 ###### Artículo 6.
 
-Las dependencias coordinadoras de sector, para la orientación y coordinación de la planeación, programación, presupuesto, ejercicio, control y evaluación del gasto público de las entidades ubicadas bajo su coordinación, deberán:
+Para los efectos de esta Ley se entenderá por:
 
-I. Establecer procedimientos técnicos administrativos, acordes con las necesidades y características del respectivo sector, atendiendo a lo dispuesto por la Ley, el presente Reglamento y las disposiciones generales que expidan la Secretaría y la Función Pública en el ámbito de sus respectivas competencias;
+I. Acciones Afirmativas: Al conjunto de medidas especiales de carácter temporal, correctivo, compensatorio y de promoción, encaminadas a acelerar la igualdad de trato y oportunidades entre mujeres y hombres;
 
-II. Vigilar que las entidades cumplan con lo dispuesto en la Ley, este Reglamento y las disposiciones generales que establezcan la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, así como las que expida en su carácter de coordinadora de sector, y
+II. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-III. Analizar, integrar, en su caso validar, y remitir a la Secretaría y a la Función Pública, en el ámbito de sus respectivas competencias, en los términos que éstas establezcan mediante disposiciones generales, la información de las entidades ubicadas bajo su coordinación así como la documentación que les fuere solicitada.
+III. Conciliación entre vida familiar y laboral: A la implementación de esquemas y mecanismos que permitan a trabajadores y patrones, convenir horarios y espacios laborales de tal forma que se incrementen las probabilidades de compatibilidad entre las exigencias laborales y las familiares;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+IV. Discriminación: A cualquier forma de preferencia, distinción, exclusión, repudio, desprecio, incomprensión, rechazo o restricción que, basada en el origen étnico o nacional, sexo, género, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, predilecciones de cualquier índole, estado civil o alguna otra, que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos fundamentales en condiciones de equidad e igualdad de oportunidades y de trato de las personas, tales como:
 
-### CAPÍTULO II. De las Reglas Generales y de los Ejecutores del Gasto
+Discriminación directa por razón de sexo: Es la originada por disposiciones, criterios o prácticas que pone a personas de un sexo en desventaja particular con respecto a personas del otro. Se exceptúan de esta las disposiciones, criterios o prácticas que se justifiquen objetivamente con una finalidad legítima, como en el caso de las acciones afirmativas.
 
-#### SECCIÓN I. De las obligaciones de dependencias y entidades
+Discriminación indirecta por razón de sexo: Es aquella en la que se establecen condiciones formalmente neutras respecto al sexo pero que resultan desfavorables para algunos de los sujetos de esta Ley; y además carecen de una causa suficiente, objetiva, razonable y justificada.
+
+Discriminación por embarazo o maternidad: modalidad de la discriminación por razón de sexo, que se constituye como un trato desfavorable a las mujeres relacionado con el embarazo como hecho biológico o la maternidad como hecho cultural, que trae como consecuencia un trato desigual que limita su acceso al pleno goce y ejercicio de sus derechos fundamentales;
+
+V. Ejecutivo Estatal: Al Titular del Poder Ejecutivo del Estado de México;
+
+VI. Empoderamiento: Al proceso por medio del cual, las personas, transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión, a un estado de conciencia, autodeterminación y autonomía;
+
+VII. Equidad de Género: Al reconocimiento de condiciones y aspiraciones diferenciadas para lograr el ejercicio de iguales derechos y oportunidades para mujeres y hombres; asimismo, a la implementación de mecanismos de justicia distributiva, tales como las acciones afirmativas que aseguran el acceso y disfrute igualitario a bienes, recursos y decisiones;
+
+VIII. Estereotipo: A las características y funciones que se asignan a cada sexo en base a roles e identidades socialmente asignados por prejuicios a las mujeres y hombres;
+
+IX. Gobierno Estatal: Al Gobierno del Estado de México, que se integra con los poderes Ejecutivo, Legislativo y Judicial;
+
+X. Igualdad de trato y oportunidades entre mujeres y hombres: A la eliminación de toda forma de discriminación en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo;
+
+XI. Lenguaje no sexista: Aquél que evita estereotipos, usos y expresiones que refuercen actitudes de desigualdad entre mujeres y hombres;
+
+XII. Ley: A la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres del Estado de México;
+
+XIII. Perspectiva de Género: A la visión científica, analítica y política sobre las mujeres y los hombres, en que se propone la eliminación de las causas de opresión de género como la desigualdad, injusticia y jerarquización de las personas basada en el género; promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres, contribuye a construir una sociedad en la cual, las mujeres y los hombres tengan el mismo valor, igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+XIV. Programa Integral: Al Programa Integral para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+XV. Responsabilidad Compartida: A la distribución equilibrada en el seno del hogar de las tareas domésticas, el cuidado de personas dependientes, los espacios de educación y trabajo, permitiendo a sus miembros el libre y pleno desarrollo de opciones e intereses;
+
+XVI. Sistema Estatal: Al Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+XVII. Sistema Municipal: Al Sistema Municipal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+XVIII Transversalidad: Al proceso que permite garantizar la incorporación de la perspectiva de género, con el objetivo de valorar las implicaciones que tiene para las mujeres y hombres, cualquier acción que se programe, tratándose de legislación, políticas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas; y
+
+XIX. Organismos autónomos: A los órganos u organismos previstos con ese carácter, por la Constitución Política del Estado Libre y Soberano de México.
+
+### CAPÍTULO SEGUNDO. DE LA POLÍTICA ESTATAL EN MATERIA DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES
 
 ###### Artículo 7.
 
-El Oficial Mayor o su equivalente en cada dependencia, por conducto de su Dirección General de Programación, Organización y Presupuesto o equivalente o, en su caso, a través de la unidad administrativa que se establezca en los reglamentos interiores, será responsable de:
+Serán objetivos de la Política Estatal en materia de igualdad de trato y oportunidades entre mujeres y hombres, que desarrollen las autoridades estatales y municipales, los siguientes:
 
-I. Coordinar las actividades de planeación, programación, presupuesto, ejercicio, control y evaluación, respecto del gasto público, y
+I. Aplicar el principio de igualdad de trato y oportunidades en la interpretación y aplicación de las normas jurídicas, así como en las políticas públicas;
 
-II. Fungir como instancia administrativa única para tramitar ante la Secretaría las solicitudes y consultas en materia presupuestaria y contable, y ante la Función Pública en materia organizacional y de administración de personal de la dependencia, de sus órganos administrativos desconcentrados y entidades coordinadas, siempre que se encuentren debidamente fundadas, motivadas y opinadas por dicha Oficialía Mayor o equivalente.
+II. Fomentar la igualdad de trato y oportunidades entre mujeres y hombres en los ámbitos público y privado;
+
+III. Garantizar que en la planeación presupuestal se incorpore la perspectiva de género, se apoye la transversalidad y se prevea el cumplimiento de los programas, proyectos, acciones y convenios para la igualdad de trato y oportunidades entre mujeres y hombres;
+
+IV. Impulsar el uso de un lenguaje no sexista en los ámbitos público y privado;
+
+V. Implementar acciones de prevención y atención de prácticas que fomenten la desigualdad entre mujeres y hombres;
+
+VI. Implementar acciones afirmativas en el ámbito público y privado para garantizar la igualdad de trato y oportunidades entre mujeres y hombres;
+
+VII. Promover la eliminación de estereotipos establecidos en función del sexo;
+
+VIII. Diseñar e introducir los indicadores y mecanismos necesarios que permitan el conocimiento de los roles, situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres para la generación de políticas públicas en materia de igualdad de trato y oportunidades;
+
+IX. Promover la igualdad de género y la flexibilidad para el desarrollo de todas las actividades de las personas que dividen su tiempo entre la educación, el empleo remunerado y las responsabilidades familiares; y
+
+X. Los demás que sean necesarios para el cumplimiento de su objeto.
 
 ###### Artículo 8.
 
-Las dependencias y entidades de conformidad con lo establecido en la Ley, el presente Reglamento y demás disposiciones generales, deberán:
+Son instrumentos de la Política Estatal en materia de igualdad entre mujeres y hombres, los siguientes:
 
-l. Desarrollar procedimientos y emitir instrucciones específicas respecto de gasto público;
+I. El Sistema Estatal;
 
-II. Establecer los procedimientos administrativos que les permitan contar oportunamente con los recursos humanos, materiales y financieros, de conformidad con los calendarios de presupuesto aprobados;
+II. Los Sistemas Municipales;
 
-III. Proporcionar la información en la forma y plazos que determinen la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, y
+III. El Programa Integral; y
 
-IV. Realizar las demás actividades que determine este Reglamento.
+IV. El Modelo de Equidad de Género del Estado.
 
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+### CAPÍTULO TERCERO
 
-Artículo 8 A. Las unidades administrativas de programación y presupuesto sectoriales serán la ventanilla única de la Secretaría para atender las consultas y solicitudes presentadas por las dependencias y entidades en materia presupuestaria y, en el ámbito de su competencia, emitirán las autorizaciones u opiniones correspondientes en coordinación con las demás unidades administrativas de la Secretaría, salvo en los siguientes casos:
-
-I. Consultas formuladas a la unidad administrativa responsable de la inversión pública en materia de lineamientos sobre programas y proyectos de inversión, e incorporación de programas y proyectos de inversión al Presupuesto de Egresos;
-
-II. Solicitudes y consultas en materia de contabilidad gubernamental, las cuales serán atendidas por la unidad administrativa responsable de la contabilidad gubernamental, y
-
-III. Solicitudes y consultas en materia presupuestaria que efectúen las unidades responsables que tengan a su cargo la administración y ejercicio de los recursos asignados a los ramos generales serán atendidas por la unidad administrativa responsable de la política y del control presupuestario.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Artículo 8 B. La autorización a que se refiere el artículo 8 de la Ley se emitirá para efectos de la suficiencia o disponibilidad presupuestaria. Dicha autorización podrá aplicarse únicamente en el ejercicio fiscal en la que se haya emitido.
-
-La coordinadora de sector o la unidad responsable informarán a la Tesorería de la aplicación de la autorización. Las unidades administrativas de programación y presupuesto sectoriales de la Secretaría, remitirán a la Tesorería, para los efectos conducentes, el expediente que se integre en términos de los artículos 8 C y 8 D de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Artículo 8 C. Para la obtención de la autorización a que se refiere el artículo anterior, respecto a la creación de empresas de participación estatal mayoritaria o sociedades y asociaciones, civiles o mercantiles, las dependencias y entidades presentarán a la Secretaría un informe respecto del régimen jurídico para la constitución de la empresa, sociedad o asociación de que se trate; la viabilidad económica o financiera de la participación estatal y la procedencia jurídica de dicha participación; asimismo, indicarán en su solicitud el monto y fuente de recursos con cargo a los cuales se realizará la participación estatal.
-
-El trámite para la obtención de la autorización deberá realizarse ante la Secretaría por conducto de la Oficialía Mayor o equivalente en el caso de las dependencias, y por conducto de la unidad o área de la dependencia o entidad que realice las funciones de coordinación sectorial, en el caso de las entidades, quienes si no tuvieren objeción lo continuarán ante la Secretaría.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Artículo 8 D. Las dependencias o entidades que tramiten la autorización a que se refiere el artículo 8 B de este Reglamento, para la participación estatal en el aumento del capital o patrimonio de empresas, sociedades y asociaciones, civiles o mercantiles, o en la adquisición de todo o parte de dicho capital o patrimonio, deberán cumplir con lo dispuesto en el artículo anterior, excepto por lo que se refiere al régimen jurídico de la constitución de la empresa, sociedad o asociación de que se trate.
-
-Asimismo se deberá indicar, de ser el caso, si la participación estatal en el aumento del capital o patrimonio o en la adquisición de todo o parte de éstos tendrá como consecuencia la actualización de la hipótesis correspondiente para que las sociedades o asociaciones, civiles o mercantiles, sean consideradas entidades, supuesto en el cual será obligación de la unidad responsable con cargo a cuyo presupuesto se realice la participación estatal o que realizará las funciones de coordinadora de sector, llevar a cabo los trámites o actos conducentes, con la intervención que corresponda a dichas sociedades o asociaciones, a fin de que se ajusten al marco normativo aplicable a las entidades.
-
-Para efectos de la autorización a que se refiere este artículo la Secretaría podrá solicitar la opinión de la Comisión cuando así lo estime conveniente.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Artículo 8 E. En el caso de las autorizaciones que impliquen la realización de aportaciones económicas preponderantes a sociedades o asociaciones civiles, el efecto de dichas aportaciones tendrá por consecuencia que las sociedades o asociaciones que las reciban se sujeten a la Ley, a este Reglamento y a las demás disposiciones aplicables en materia de gasto público federal.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 8 F. Cualquier recurso público que las dependencias y entidades otorguen a particulares con cargo al Presupuesto de Egresos, no deberá ser afectado por éstos a la constitución o aportación de fideicomisos, mandatos o contratos análogos, salvo que se cuente con la previa autorización de la propia dependencia o entidad y siempre que en el instrumento jurídico que al efecto suscriban, el particular convenga que instruirá al fiduciario, mandatario o análogo a éstos, para que proporcione a las instancias fiscalizadoras federales la información que permita la vigilancia y fiscalización de los recursos públicos, así como las facilidades para realizar las auditorías y visitas de inspección respecto del ejercicio de dichos recursos, o asuma el compromiso de responsabilizarse de la comprobación de los recursos públicos que aporte a un fideicomiso, mandato o análogo, cuando éstos no hayan sido constituidos por el particular.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 8 G. En caso de que las dependencias reciban recursos por concepto de donativos del exterior o de particulares, para que por su conducto se canalicen directamente a los terceros beneficiarios de los mismos, la unidad administrativa encargada de la política y del control presupuestario de la Secretaría emitirá el mecanismo presupuestario respectivo, para registrar las erogaciones en las partidas específicas del Clasificador por objeto del gasto.
-
-#### SECCIÓN II. De los sistemas electrónicos
-
-### CAPÍTULO I. De los Mecanismos de Estabilización
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 9.
 
-Las dependencias y entidades podrán realizar a través de sistemas electrónicos trámites presupuestarios y, en su caso, obtener las autorizaciones correspondientes.
-
-En las disposiciones generales que emita la Secretaría, en términos del artículo 13 de la Ley, se observarán las siguientes bases:
-
-I. Los trámites presupuestarios que podrán llevarse a cabo y las autorizaciones correspondientes que, en su caso, podrán emitirse a través de sistemas electrónicos serán aquéllos relacionados, entre otros, con los sistemas de control presupuestario referidos en el artículo 10 de este Reglamento;
-
-II. Los medios de identificación electrónica que hagan constar la validez de los trámites y, en su caso, de las autorizaciones a través de sistemas electrónicos, podrán ser:
-
-a) Firma electrónica avanzada, con base en los lineamientos que se establezcan en la materia por las autoridades competentes;
-
-b) Número de identificación personal de acceso a los sistemas electrónicos y clave de usuario;
-
-c) El medio de identificación y autenticación que en forma específica registren las unidades responsables correspondientes que determinen las dependencias y entidades ante la Secretaría.
-
-Para hacer uso de los medios de identificación electrónica, el servidor público autorizado deberá contar con la certificación o validación de registro de usuarios, emitidas por las unidades administrativas competentes;
-
-III. La Secretaría fungirá como unidad responsable del registro y emisión del certificado de identificación electrónica o comunicación del registro de usuarios;
-
-IV. Los Oficiales Mayores o sus equivalentes en las dependencias y entidades, de forma indelegable y conforme a los requisitos que se establezcan en las disposiciones generales de operación de sistemas electrónicos, deberán:
-
-a) Designar a los servidores públicos que, conforme a su ámbito de competencia, estarán autorizados para realizar trámites presupuestarios, los cuales contarán con certificado de identificación electrónica o validación del registro de usuarios. Dichos servidores públicos deberán tener un puesto de plaza presupuestaria equivalente a Subdirector de Área como mínimo;
-
-b) Designar a los servidores públicos que tengan acceso a los sistemas electrónicos exclusivamente para realizar consultas, los cuales no contarán con validación del registro de usuarios;
-
-c) Solicitar a la Secretaría el registro de los datos de los servidores públicos a que se refieren los incisos anteriores, y la expedición del certificado o registro de identificación electrónica a favor de los servidores públicos autorizados para realizar trámites presupuestarios;
-
-d) Otorgar las claves y contraseñas a los servidores públicos autorizados como usuarios de sistemas electrónicos, previo registro de sus datos ante la Secretaría;
-
-e) Mantener actualizado el registro de servidores públicos autorizados, para lo cual deberán solicitar de inmediato a la Secretaría la baja del registro del servidor público en los casos de renuncia, separación del encargo, cambio de adscripción o de funciones, o cualquier otra situación por la que se deba cancelar el acceso a los sistemas electrónicos;
-
-V. Los servidores públicos autorizados como usuarios de sistemas electrónicos serán responsables de:
-
-a) El uso y ejercicio de sus medios de identificación electrónica a partir de la fecha en que los reciban, los cuales deberán ser utilizados de manera personal e intransferible;
-
-b) Notificar de inmediato a las unidades administrativas de su adscripción sobre su renuncia, separación del encargo, cambio de adscripción o de funciones, o cualquier otra situación por la que el servidor público dejará de tener acceso a sistemas electrónicos;
-
-c) Sujetarse a las disposiciones generales para la operación de los sistemas electrónicos;
-
-d) Resarcir los daños y perjuicios que, en su caso, ocasionen por negligencia, mala fe o dolo, en los términos de las disposiciones aplicables, sin perjuicio de las responsabilidades administrativas o penales en que pudieran incurrir;
-
-VI. Los documentos generados electrónicamente para su transmisión con base en las claves autorizadas mediante certificado de identificación electrónica o validación de registro de usuarios, se entenderá que se transmiten sólo por el servidor público autorizado, por lo que éste será responsable del uso de su clave de identificación electrónica;
-
-VII. Los documentos generados electrónicamente, así como los respectivos acuses de recibo electrónico serán archivados en los sistemas electrónicos. La Secretaría, con la periodicidad y especificaciones técnicas informáticas requeridas, compilará, respaldará y resguardará los archivos electrónicos transmitidos a través de los sistemas electrónicos, así como la documentación adicional relativa o aquélla que juzgue pertinente, y
-
-VIII. Los servidores públicos autorizados como usuarios de los sistemas podrán tener acceso a consultar dicha información conforme al perfil de acceso que determine la propia dependencia o entidad, y estarán obligados a guardar estricta reserva respecto de la información que, en los términos de las disposiciones aplicables, se considere de carácter reservado o confidencial.
-
-La transmisión de solicitudes, consultas e informes presupuestarios deberá realizarse dentro de los términos y plazos establecidos en este Reglamento.
-
-La Función Pública emitirá las disposiciones generales para el funcionamiento y operación del sistema de administración de recursos humanos, el cual comprenderá los trámites, autorizaciones y consultas relacionadas con la planeación, administración, desarrollo y registro de recursos humanos.
+El Sistema Estatal es el órgano de planeación, seguimiento, evaluación y monitoreo de las acciones afirmativas y políticas públicas en materia de igualdad de trato y oportunidades entre mujeres y hombres.
 
 ###### Artículo 10.
 
-La programación, presupuesto, control, ejercicio y evaluación del gasto público se sujetará a sistemas de control presupuestario, los cuales serán de aplicación y observancia obligatoria para las dependencias y entidades, conforme a lo dispuesto en el artículo 45 cuarto párrafo de la Ley. Dichos sistemas se orientarán a la administración de los recursos públicos federales con base en los criterios establecidos en el artículo 1 de la Ley.
+El Sistema Estatal tendrá las siguientes atribuciones:
 
-El desarrollo e implantación de los sistemas de control presupuestario se realizará bajo un enfoque integral del proceso presupuestario, y comprenderá los siguientes:
+I. Vigilar el cumplimiento de esta Ley;
 
-I. Sistema del proceso integral de programación y presupuesto;
+II. Velar por la igualdad de trato y oportunidad entre mujeres y hombres, en los ámbitos público, social y privado;
 
-II. Sistema de control presupuestario de los servicios personales;
+III. Fomentar la igualdad de trato y oportunidades entre mujeres y hombres para contribuir al abatimiento de todo tipo de discriminación;
 
-III. Sistema de programas y proyectos de inversión;
+IV. Contribuir al empoderamiento de las mujeres;
 
-IV. Sistemas globales de control presupuestario:
+V. Promover el desarrollo de acciones y programas que fomenten la igualdad de trato y oportunidades entre mujeres y hombres;
 
-a) Sistema del ramo general de control presupuestario, de provisiones salariales y económicas;
+VI. Proponer acciones afirmativas para garantizar un estado de igualdad de trato y oportunidades entre mujeres y hombres;
 
-b) Sistema de control de adecuaciones presupuestarias;
+VII. Coadyuvar a la modificación de estereotipos que discriminen y fomenten la violencia de género;
 
-c) Sistema de seguimiento del estado del ejercicio presupuestario;
+VIII. Realizar el seguimiento y evaluación de la aplicación en el Estado y sus municipios, de la Ley, en armonización con los instrumentos internacionales en la materia;
 
-d) Sistema de adeudos de ejercicios fiscales anteriores;
+IX. Impulsar la capacitación en materia de igualdad de trato y oportunidades entre mujeres y hombres, a las autoridades encargadas de la procuración y administración de justicia;
 
-e) Sistema de control y transparencia de fideicomisos;
+X. Establecer mecanismos para la cooperación y los intercambios de información sobre los derechos humanos y de igualdad entre hombres y mujeres, con organizaciones e instituciones nacionales o internacionales;
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+XI. Impulsar las reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar la desigualdad de trato y oportunidades entre mujeres y hombres, en los ámbitos público y privado;
 
-f) Sistema de administración y seguimiento de los contratos plurianuales y de las erogaciones plurianuales para proyectos de inversión en infraestructura;
+XII. Promover la aplicación de los instrumentos internacionales, leyes federales y estatales, vinculadas con la igualdad de trato y oportunidades entre mujeres y hombres;
 
-V. Sistema de administración financiera federal;
+XIII. Recibir información sobre medidas y actividades que ponga en marcha la administración pública estatal y municipal, en materia de igualdad de trato y oportunidades entre mujeres y hombres;
 
-VI. Sistema integral de información de los ingresos y gasto público;
+XIV. Evaluar el impacto en la sociedad, de las políticas y acciones en materia de igualdad de trato y oportunidades entre mujeres y hombres;
 
-VII. Sistema de contabilidad gubernamental;
+XV. Proponer la realización de estudios, informes técnicos y diagnósticos sobre la igualdad de trato y oportunidades entre mujeres y hombres en la Entidad;
 
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+XVI. Expedir las disposiciones reglamentarias relativas a su funcionamiento;
 
-VIII. Sistema de evaluación del desempeño;
+XVII. Difundir información sobre los diversos aspectos relacionados con la igualdad de trato y oportunidades entre mujeres y hombres;
 
-> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+XVIII. Proponer los lineamientos generales en materia de igualdad al Ejecutivo, para la elaboración del Plan Estatal de Desarrollo; y
 
-IX. Sistema de control y seguimiento del Programa de Mediano Plazo;
-
-> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-X. Sistema del presupuesto comprometido;
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-XI. Sistema del presupuesto devengado;
-
-> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-XII. Sistema de Información sobre la Aplicación y Resultados del Gasto Federalizado, y
-
-XIII. Los demás sistemas de control que se requieran en el proceso presupuestario.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Los sistemas de control presupuestario referidos en las fracciones anteriores serán coordinados por la Secretaría. Las dependencias y entidades deberán establecer, en forma obligatoria, sus sistemas de control correspondientes en congruencia con lo dispuesto en este artículo y conforme a las normas operativas y metodologías que emita la Secretaría.
-
-Las dependencias y entidades deberán promover, en función de sus prioridades y disponibilidades presupuestarias, el establecimiento de sistemas de control presupuestario compatibles tecnológicamente con los de la Secretaría, observando un enfoque integral.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La Secretaría y la Función Pública acordarán la forma y términos en que ésta tendrá acceso a la información contenida en dichos sistemas, a efecto de facilitar el uso de esa información para el ejercicio de sus atribuciones y evitar duplicidad de requerimientos de información.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Las dependencias serán responsables de conciliar la información registrada en los sistemas electrónicos que corresponda, respecto de las operaciones del ejercicio del gasto.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 10 A. El registro de las operaciones del ejercicio del gasto, de ingreso y egreso, en los sistemas electrónicos a cargo de la Tesorería, podrán soportarse con documentos digitales que contengan los requisitos de seguridad que garanticen la confiabilidad de la información, de acuerdo con las disposiciones generales que al efecto emita, tomando en cuenta, en su caso, las que emita la Función Pública y la Auditoría para fines de fiscalización.
-
-Para efectos de lo dispuesto en el párrafo anterior, se entenderán por documentos digitales, todo mensaje de datos que contenga información o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología, en términos de las disposiciones aplicables.
-
-## TÍTULO SEGUNDO. Del Equilibrio Presupuestario y de los Principios de Responsabilidad Hacendaria
+XIX. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 ###### Artículo 11.
 
-El déficit presupuestario, sin considerar el gasto de inversión de Petróleos Mexicanos y sus organismos subsidiarios, deberá ser igual a cero. Excepcionalmente se podrá prever un déficit presupuestario distinto de cero, por las siguientes razones:
+El Sistema Estatal se integrará por los representantes de las instancias siguientes:
 
-I. La previsión de un aumento en el costo financiero del sector público, derivado de un incremento en las tasas de interés, que exceda el equivalente al 25 por ciento del costo financiero aprobado en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior;
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
-II. El costo de la reconstrucción provocada por desastres naturales, una vez agotados los recursos del Fondo de Desastres Naturales del ejercicio fiscal anterior, que exceda el equivalente al 2.0 por ciento del gasto programable aprobado en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior;
+I. La Secretaría de las Mujeres, que fungirá como Presidenta;
 
-III. La previsión de un costo mayor al 2 por ciento del gasto programable aprobado en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior que origine la implantación o modificaciones de ordenamientos jurídicos o medidas de política fiscal que en ejercicios fiscales posteriores contribuyan a mejorar ampliamente el déficit presupuestario ya sea porque generen mayores ingresos o menores gastos permanentes; es decir, que el valor presente neto del beneficio fiscal de dicha medida supere ampliamente el costo de la misma en el ejercicio fiscal que se implemente;
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
-IV. La previsión del pago de pasivos correspondientes a ejercicios fiscales anteriores que superen el 2 por ciento del gasto programable aprobado en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior, o
+II. La Secretaría Ejecutiva del Sistema, a cargo de quien designe la persona titular de la Secretaría de las Mujeres;
 
-V. La previsión de una caída de los ingresos tributarios no petroleros que exceda el 2.5 por ciento real del monto aprobado en la Ley de Ingresos del ejercicio fiscal inmediato anterior que resulte de una previsión de un débil desempeño de la economía que se refleje en una estimación del Producto Interno Bruto que lo sitúe por debajo del Producto Interno Bruto potencial estimado.
+III. Todas las dependencias de la administración pública estatal;
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+IV. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-En este caso, la trayectoria de balance público que se proyecte en cumplimiento de lo dispuesto en los artículos 17 y 42 de la Ley deberá ser congruente con las metas de balance público basadas en el ciclo económico que se determinen conforme al artículo 11 B de este Reglamento.
+V. El Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México;
 
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-Cuando para el ejercicio fiscal se apruebe un déficit presupuestario, en los casos señalados en las fracciones I y V anteriores, el otorgamiento de ingresos excedentes hasta por el monto equivalente a dicho déficit se considerará que afecta negativamente el equilibrio presupuestario, en términos del penúltimo párrafo del artículo 19 de la Ley. Asimismo, los ahorros presupuestarios y las economías que resulten por concepto de un costo financiero de la deuda pública menor al presupuestado deberán aplicarse, en su caso, a disminuir el déficit presupuestario o a mejorar el balance primario.
+VI. Secretaría de Seguridad;
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+VII. El Instituto Mexiquense de la Juventud;
 
-En su caso, en la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos deberán preverse las medidas necesarias para que el resultado del ejercicio correspondiente contribuya a que el incremento como proporción del Producto Interno Bruto del saldo histórico de los requerimientos financieros del sector público durante un ciclo económico sea revertido en los primeros tres años del siguiente ciclo económico. Para efectos de lo dispuesto en este párrafo no se considera en el saldo histórico de los requerimientos financieros del sector público las operaciones asociadas a la implantación o modificaciones de ordenamientos jurídicos o medidas de política fiscal para las cuales el valor presente neto del beneficio fiscal de dicha medida supere ampliamente el costo de la misma en el ejercicio fiscal que se implemente.
+VIII. El Instituto Mexiquense contra las Adicciones;
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+IX. El Instituto Mexiquense del Emprendedor;
 
-Para efectos de lo dispuesto en el párrafo anterior se considerará como un ciclo económico el periodo durante el cual el Producto Interno Bruto partiendo de su nivel de tendencia permanece durante algún tiempo por arriba de su nivel de tendencia, revirtiéndose dicha posición relativa durante otro lapso concluyendo cuando el Producto Interno Bruto alcanza nuevamente su nivel de tendencia e iniciándose un nuevo ciclo.
+X. El Poder Judicial;
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
 
-El gasto de inversión de Petróleos Mexicanos y sus organismos subsidiarios aprobado en el Presupuesto de Egresos podrá incrementarse de conformidad con las disposiciones aplicables, hasta en un 15 por ciento por el efecto sobre los proyectos aprobados de variaciones en los supuestos utilizados para la aprobación de su presupuesto en términos de tipo de cambio o costos de insumos capitalizables. Petróleos Mexicanos deberá enviar a la Secretaría un informe detallado, la cual podrá solicitar información adicional, sobre dicho ajuste para que ésta a su vez informe a la Cámara de Diputados en los informes trimestrales.
+XI. La Legislatura a través de las Presidencias de las Comisiones Legislativas Para la Igualdad de Género y Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres por Feminicidio y Desaparición;
 
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+XII. Los organismos autónomos;
 
-Se considerará que el gasto neto total ejercido durante el año fiscal correspondiente contribuyó a cumplir la meta de balance presupuestario aprobada en la Ley de Ingresos cuando el valor absoluto de la diferencia entre el balance público observado y el aprobado sea menor al 1.0 por ciento del gasto neto total aprobado en el Presupuesto de Egresos. La Secretaría deberá aplicar las medidas correctivas necesarias para evitar que, de manera sostenida, las desviaciones sean en un mismo sentido.
+XIII. La Universidad Autónoma del Estado de México;
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+XIV. Dos mujeres representantes de organizaciones civiles especializadas en los Derechos Humanos de las Mujeres; y
 
-Artículo 11 A. La Secretaría elaborará el proyecto de Presupuesto de Egresos y la iniciativa de Ley de Ingresos de forma que el saldo histórico de los requerimientos financieros del sector público, expresado como proporción del Producto Interno Bruto, muestre una trayectoria que no ponga en riesgo la solvencia del sector público para el periodo de proyección en su conjunto. Si para un año en específico se prevé que dicho saldo aumentará como proporción del Producto Interno Bruto con respecto al del año anterior, en los Criterios Generales de Política Económica correspondientes deberán explicarse las causas de dicho aumento y la manera en que se revertirá durante el resto del periodo proyectado.
+XV. Dos mujeres representantes de instituciones de investigación especializadas en equidad de género.
 
-Para efecto de lo indicado en el párrafo anterior se considerará:
-
-I. El escenario indicativo de las metas de balance financiero de Petróleos Mexicanos a que hace referencia el artículo 49, fracción I, de la Ley de Petróleos Mexicanos que se tenga disponible al 15 de julio de cada ejercicio fiscal, y
-
-II. Las inversiones a realizar por Petróleos Mexicanos con base en el Plan a que hace referencia el artículo 19, fracción III, de la Ley de Petróleos Mexicanos.
-
-Es responsabilidad de la Secretaría verificar que la propuesta de gasto de inversión del proyecto de presupuesto de Petróleos Mexicanos, así como el escenario indicativo de metas de balance financiero, sean congruentes con la capacidad global de financiamiento del sector público, y con una evolución ordenada de los requerimientos financieros del sector público y de su saldo histórico. De no ser así, la Secretaría comunicará a Petróleos Mexicanos, a más tardar el 15 de agosto de cada ejercicio fiscal, los ajustes correspondientes para que se cumpla con lo establecido en el artículo 17 de la Ley. Dicha entidad deberá enviar a la Secretaría los ajustes a más tardar el 25 de agosto del ejercicio correspondiente.
-
-En el año en que el Ejecutivo Federal termine su encargo, los plazos previstos en el párrafo anterior se ajustarán por la Secretaría en términos del artículo 43 de la Ley.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 11 B. Para cada año se determinará una meta de balance público congruente con la evolución esperada del ciclo económico, cuyos determinantes principales serán:
-
-I. La desviación del Producto Interno Bruto respecto a su nivel estimado de tendencia, expresada como porcentaje de este último. Este término considerará el signo positivo o negativo de la desviación, y
-
-II. Los ingresos no petroleros del sector público.
-
-La determinación del nivel estimado de tendencia del Producto Interno Bruto deberá considerar como mínimo, su evolución durante los 8 años previos. En los Criterios Generales de Política Económica se describirá la metodología empleada para la determinación del nivel estimado de tendencia del Producto Interno Bruto.
-
-Para el cómputo del balance público y los ingresos no petroleros del sector público, se aplicarán los conceptos del documento metodológico que para la elaboración de los indicadores fiscales prepare la Secretaría, la cual deberá actualizar dicho documento a más tardar el 30 de abril de cada año y divulgar en su página de Internet.
-
-Los Criterios Generales de Política Económica incluirán el cálculo de las metas de balance público basado en el ciclo económico para el periodo que corresponda.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+Las instituciones que gocen de autonomía por mandato constitucional, participarán en estricto apego a las disposiciones legales que las rijan.
 
 ###### Artículo 12.
 
-A cuenta del monto anual de los ingresos excedentes correspondientes a las aportaciones a los fondos de Estabilización de los Ingresos de las Entidades Federativas, de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos y de Estabilización de los Ingresos Petroleros, a que se refiere el artículo 19, fracción IV, incisos a), b) y c), de la Ley, se realizará un anticipo el primer semestre del año, con base en una proyección de las finanzas públicas para el año que elabore la Secretaría, dentro de los 20 días hábiles siguientes a la entrega de los informes trimestrales correspondientes al segundo trimestre y un anticipo a más tardar el último día hábil del año, una vez que la Secretaría con base en las cifras preliminares al mes de noviembre y la estimación del cierre anual de las finanzas públicas, calcule los recursos excedentes anuales.
+El Sistema Estatal sesionará de manera ordinaria por lo menos una vez cada cuatro meses.
 
-En caso de que el anticipo correspondiente al primer semestre genere un saldo a favor de la Federación, el fiduciario de cada uno de los fondos señalados en el párrafo anterior, por instrucciones del Comité Técnico, enterará al Gobierno Federal los recursos determinados bajo el concepto de reintegro al Presupuesto de Egresos. Para la determinación de este reintegro no se considerarán actualizaciones ni rendimientos financieros. Dicho reintegro se realizará a más tardar a los 10 días hábiles posteriores a la determinación del saldo a favor.
-
-Una vez presentado el informe correspondiente al cuarto trimestre, la Secretaría realizará el cálculo anual definitivo de las aportaciones mencionadas en el primer párrafo de este artículo y determinará la diferencia que, en su caso, resulte entre el monto anual definitivo y los anticipos cubiertos.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-En caso de determinarse un saldo a favor de los fondos, la Secretaría realizará los depósitos correspondientes con cargo al ramo de adeudos de ejercicios fiscales anteriores dentro de los siguientes 10 días hábiles a la presentación del cuarto informe trimestral.
-
-En caso de determinarse un saldo a favor de la Federación en algunos de los fondos, éstos deberán enterar los recursos a la Tesorería y afectar la Ley de Ingresos del ejercicio fiscal correspondiente como un aprovechamiento, cuyo destino específico de las erogaciones adicionales será determinado por la Secretaría, en términos del artículo 19, fracción II de la Ley. El fiduciario de cada fondo, por instrucciones del Comité Técnico, deberá realizar el entero a más tardar 10 días hábiles posteriores a la determinación del saldo a favor de la Federación.
-
-A cuenta del monto anual de los ingresos excedentes a que se refiere el artículo 19, fracción IV, inciso d) de la Ley, la Secretaría transferirá a las entidades federativas para gastos en programas y proyectos de inversión en infraestructura y equipamiento, conforme a la estructura porcentual que se derive de la distribución del Fondo General de Participaciones reportado en la Cuenta Pública más reciente, anticipos cada trimestre dentro de los 10 días hábiles siguientes a la entrega de los informes trimestrales, conforme a lo siguiente:
-
-I. El anticipo correspondiente al primer trimestre será por el equivalente al 75 por ciento de la cantidad que corresponda del monto total determinado para dicho periodo;
-
-II. El anticipo correspondiente al segundo trimestre será por el equivalente al 75 por ciento de la cantidad que corresponda del monto total determinado para dicho periodo, descontando el anticipo correspondiente al primer trimestre;
-
-III. El anticipo correspondiente al tercer trimestre será por el equivalente al 75 por ciento de la cantidad que corresponda del monto total determinado para dicho periodo, descontando los anticipos correspondientes en las fracciones I y II anteriores, y
-
-IV. El pago correspondiente al cierre anual será por el equivalente al 100 por ciento de la cantidad que corresponda del monto total determinado para dicho periodo, descontando los anticipos correspondientes a las fracciones I, II y III anteriores y observando lo dispuesto en los siguientes párrafos.
-
-A más tardar el 26 de diciembre, la Secretaría, con base en las cifras preliminares al mes de noviembre y la estimación del cierre anual de las finanzas públicas, calculará los recursos excedentes anuales, los cuales se transferirán a los citados fondos a más tardar el último día hábil del año. La estimación del cierre anual de las finanzas públicas se calculará sobre la base de flujo de efectivo.
-
-El Ejecutivo Federal, por conducto de la Secretaría, establecerá convenios con las entidades federativas para definir los mecanismos que permitan ajustar las diferencias que, en su caso, resulten entre los anticipos trimestrales y las cantidades correspondientes al monto anual definitivo presentado en el informe correspondiente al cuarto trimestre del ejercicio fiscal de que se trate.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Los ingresos excedentes a que se refieren los artículos 256 y 257 de la Ley Federal de Derechos se aportarán en el Fondo de Estabilización de los Ingresos de las Entidades Federativas y el Fondo de Estabilización de los Ingresos Petroleros, respectivamente, conforme se cubran efectivamente los pagos en flujo de efectivo del derecho extraordinario sobre la exportación de petróleo crudo y del derecho sobre hidrocarburos para el fondo de estabilización en abril, julio y octubre del ejercicio de que se trate, y enero del ejercicio fiscal siguiente, a más tardar a los 10 días hábiles posteriores a la realización de dichos pagos. Los ingresos a que se refiere el artículo 257 Bis de la Ley Federal de Derechos, o cualquier otra contribución que por disposición general distinta de la Ley tenga como destino el Fondo de Estabilización de los Ingresos Petroleros, se aportarán en el Fondo en las mismas fechas en que deba realizarse la aportación del derecho a que se refiere el artículo 256 de la Ley Federal de Derechos.
-
-A cuenta del monto anual, se aportarán en el fondo que corresponda los anticipos conforme a los pagos provisionales del derecho extraordinario sobre la exportación de petróleo crudo y del derecho sobre hidrocarburos para los Fondos de Estabilización que se cubran en abril, julio y octubre del ejercicio de que se trate y enero del siguiente año, a más tardar a los 10 días hábiles posteriores a la realización de dichos pagos.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Para el derecho sobre extracción de hidrocarburos, el anticipo se realizará en la misma fecha que se deba realizar el del derecho sobre hidrocarburos para el fondo de estabilización.
-
-En caso de que los pagos provisionales del derecho extraordinario sobre la exportación de petróleo crudo y del derecho sobre hidrocarburos para los Fondos de Estabilización que se efectúen en julio y octubre generen un saldo a favor de PEMEX Exploración y Producción, el fiduciario, por instrucciones del Comité Técnico del fideicomiso de cada fondo, deberá enterar al Gobierno Federal los recursos por el monto del saldo a favor del mencionado organismo público descentralizado, como un reintegro al Presupuesto de Egresos sin considerar actualizaciones ni rendimientos financieros. El reintegro se deberá realizar a más tardar a los 10 días hábiles posteriores a la determinación del saldo a favor de PEMEX Exploración y Producción.
-
-> <small>(DEROGADO DÉCIMO SEGUNDO PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-> <small>(DEROGADO DÉCIMO TERCER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La reserva de cada uno de los fondos de Estabilización de los Ingresos de las Entidades Federativas, de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos y de Estabilización de los Ingresos Petroleros, a que se refiere el artículo 19, fracción IV de la Ley, estará constituida con los recursos provenientes de las aportaciones que realice el Gobierno Federal por los conceptos y contribuciones que señale la Ley o disposiciones generales distintas a ésta y aquéllos que se determinen expresamente en las reglas de operación de cada fondo para integrar la reserva.
-
-No se considerarán dentro de la reserva de cada uno de los fondos de Estabilización de los Ingresos de las Entidades Federativas, de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos y de Estabilización de los Ingresos Petroleros, a que se refiere el artículo 19, fracción IV de la Ley, los rendimientos financieros que generen los recursos depositados en el fondo, ni aquéllos provenientes de la operación propia del fondo.
-
-Tratándose del Fondo de Estabilización de los Ingresos Petroleros y del Fondo de Estabilización de los Ingresos de las Entidades Federativas, cuando el conjunto de aportaciones provenientes, por un lado, de los ingresos excedentes a que se refiere el artículo 19, fracción IV de la Ley y, por otro, del derecho sobre hidrocarburos para el fondo de estabilización y del derecho extraordinario sobre la exportación de petróleo crudo, en cada caso, implique que se rebase el límite de la reserva que señala el artículo 19, fracción IV de la Ley, el monto a depositar de cada una de las aportaciones corresponderá a la proporción que cada una de éstas represente en el total de recursos disponibles para aportar al fondo respectivo.
-
-Cuando alguno de los fondos a que se refiere el artículo 19, fracción IV de la Ley alcance el monto máximo de su reserva, los ingresos excedentes que le correspondan se destinarán a los fines establecidos en la fracción V del mismo artículo, para ello se realizará un anticipo el primer semestre del año, con base en una proyección de las finanzas públicas para el año que elabore la Secretaría, dentro de los 20 días hábiles siguientes a la entrega de los informes trimestrales correspondientes al segundo trimestre y un pago anual a más tardar el último día hábil del año, una vez que la Secretaría con base en las cifras preliminares al mes de noviembre y la estimación del cierre anual de las finanzas públicas, calcule los recursos excedentes anuales. El pago anual tendrá el carácter de definitivo. Los montos que durante el ejercicio se determinen para dichos destinos se depositarán en la Tesorería hasta que se determine su aplicación definitiva a los destinos mencionados.
-
-Cuando el cálculo del límite de la reserva señalada en el artículo 19, fracción IV de la Ley indique un nivel inferior al correspondiente en el ejercicio fiscal inmediato anterior, prevalecerá el de este último.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Para los cálculos de la distribución de los ingresos excedentes se podrá utilizar la información preliminar observada en la misma unidad de valor expresada en las cifras estimadas que se presenten en la Ley de Ingresos.
-
-Petróleos Mexicanos definirá el concepto de plataforma de hidrocarburos líquidos a que se refiere el artículo 19 de la Ley. Asimismo, informará a la Secretaría sobre la estimación para el siguiente año de la misma plataforma, a más tardar el último día hábil del mes de julio, a efecto de que el cálculo de la reserva para cada uno de los fondos a que se refiere el artículo 19 de la Ley se presente en los Criterios Generales de Política Económica.
-
-Para dicho cálculo, el tipo de cambio del dólar de los Estados Unidos de América con respecto al peso esperado para el ejercicio será el que se presente en los Criterios Generales de Política Económica del año correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Si el tipo de cambio del dólar de los Estados Unidos de América con respecto al peso que se haya utilizado para la estimación de la Ley de Ingresos es distinto al previsto en los Criterios Generales de Política Económica, la Secretaría revisará el cálculo de la reserva para cada uno de los fondos a que se refiere el artículo 19 de la Ley y publicará los nuevos resultados en el Diario Oficial de la Federación a más tardar el último día hábil de enero del año correspondiente.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La Secretaría publicará las reglas de operación de dichos fondos y sus modificaciones en el Diario Oficial de la Federación.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 12 A. La disminución de los ingresos a que se refiere el artículo 21, fracción II, de la Ley se considerará en términos anuales con relación a los estimados para la Ley de Ingresos.
-
-Asimismo, la compensación de la recaudación de los ingresos a que se refiere el mismo artículo, con los recursos del Fondo de Estabilización de los Ingresos Petroleros, del Fondo de Estabilización de los Ingresos de las Entidades Federativas y del Fondo de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos, respectivamente, deberá ser también en términos anuales. Para ello, dichos fondos deberán contar con el mecanismo que permita garantizar reintegros en caso de que al final del ejercicio se determine saldo a favor de los mismos.
-
-En el transcurso del ejercicio fiscal se podrán realizar las compensaciones señaladas con los recursos de los fondos a que se refiere el artículo 21 de la Ley cuando con base en una proyección de las finanzas públicas para el año que elabore la Secretaría, se determine una disminución de los ingresos asociada a las causas señaladas en la Ley.
-
-Las compensaciones se realizarán con base en la información preliminar que se presente en los informes trimestrales conforme a lo siguiente:
-
-I. La compensación correspondiente al primer trimestre será hasta por el equivalente al 75 por ciento de la disminución que corresponda del monto total determinado para dicho periodo;
-
-II. La compensación correspondiente al segundo trimestre será hasta por el equivalente al 75 por ciento de la disminución que corresponda del monto total determinado para dicho periodo, descontando la compensación correspondiente al primer trimestre;
-
-III. La compensación correspondiente al tercer trimestre será hasta por el equivalente al 75 por ciento de la disminución que corresponda del monto total determinado para dicho periodo, descontando las compensaciones correspondientes en las fracciones I y II anteriores, y
-
-IV. La compensación correspondiente al cierre anual será hasta por el equivalente al 100 por ciento de la disminución que corresponda del monto total determinado para dicho periodo, descontando las compensaciones correspondientes a las fracciones I, II y III anteriores y observando lo dispuesto en los siguientes párrafos.
-
-A más tardar el 26 de diciembre, la Secretaría, con base en las cifras preliminares al mes de noviembre y la estimación del cierre anual de las finanzas públicas, calculará los ingresos faltantes anuales, y podrán compensarse hasta el monto que se determine con los recursos disponibles en los términos establecidos en el artículo 21 de la Ley, a más tardar el último día hábil del año.
-
-Las compensaciones que se determinen con los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas y del Fondo de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos se podrán realizar, en primera instancia, con los recursos de los fondos distintos de su reserva y, en segunda instancia, con los recursos de la reserva hasta por el monto establecido en las reglas de operación de cada fondo.
-
-La compensación que se determine con los recursos del Fondo de Estabilización de los Ingresos Petroleros se podrá realizar, en primera instancia con los recursos de la reserva hasta por el monto establecido en las reglas de operación del mismo y, en segunda instancia, con los recursos distintos de la reserva. Una vez realizada la compensación en caso de que se determinen remanentes en los recursos del Fondo distintos de la reserva, éstos se podrán utilizar para compensar la disminución de ingresos presupuestarios respecto a la Ley de Ingresos.
-
-La disminución de ingresos distintos a aquéllos que se cubren con recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas y del Fondo de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos, se podrá compensar directamente mediante el mecanismo previsto en el artículo 21, fracción III, de la Ley.
-
-Para los cálculos de las compensaciones de la disminución de los ingresos se podrá utilizar la información preliminar observada en la misma unidad de valor expresada en las cifras estimadas que se presenten en la Ley de Ingresos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+El Sistema Estatal podrá sesionar de manera extraordinaria cuando sea necesario, a petición de cualquiera de los integrantes del mismo, previa aprobación del Presidente y convocatoria que emita la Secretaría Ejecutiva.
 
 ###### Artículo 13.
 
-Para el establecimiento de sus metas de balances de operación, primario y financiero, las entidades de control directo deberán:
+Las convocatorias a las sesiones ordinarias se notificarán a los integrantes del Sistema Estatal cuando menos con cinco días hábiles de anticipación a la fecha programada, mediante convocatoria por escrito que deberá de especificar la sede, fecha y hora de la Sesión, debiendo acompañarse el Orden del Día y, en su caso, la documentación correspondiente.
 
-I. Comprometer sus respectivas metas con base mensual y trimestral;
-
-II. Enviar, a más tardar el último día hábil de febrero, sus respectivas metas para dictamen de la Secretaría y la Función Pública, en el ámbito de su competencia, las cuales remitirán su análisis conjunto y las metas a la Comisión dentro de los 15 días naturales siguientes, a efecto de que ésta emita las recomendaciones correspondientes, y
-
-III. Evaluar trimestralmente el cumplimiento de sus metas, las cuales serán enviadas a la Secretaría y a la Función Pública dentro de los 25 días naturales siguientes a la terminación de cada trimestre, a efecto de que realicen un análisis conjunto de las mismas y lo presenten con las evaluaciones aludidas a la Comisión dentro de los 10 días naturales siguientes, con la finalidad de que, en su caso, dicha Comisión emita las recomendaciones correspondientes.
-
-Para los efectos de este artículo, el Instituto Mexicano del Seguro Social se sujetará a lo dispuesto por la Ley que lo rige.
-
-En los casos que determine la Secretaría, las entidades de control indirecto se sujetarán a lo dispuesto en este artículo.
-
-Los titulares y los servidores públicos competentes de las entidades deberán cumplir con sus metas de balances de operación, primario y financiero, así como con sus presupuestos autorizados.
+En los mismos términos se notificarán las convocatorias para las sesiones extraordinarias, con al menos cuarenta y ocho horas de anticipación a su celebración.
 
 ###### Artículo 14.
 
-(DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)
+Por cada miembro propietario, se nombrará un suplente quien suplirá al propietario en caso de ausencia. Los integrantes del Sistema Estatal contarán con voz y voto en los asuntos que se sometan a la consideración del mismo, a excepción de la Secretaría Ejecutiva que sólo contará con voz.
 
 ###### Artículo 15.
 
-El cómputo del precio de referencia de la mezcla de petróleo mexicano se realizará un mes antes de la fecha en que el documento que lo contenga deba ser entregado al Congreso de la Unión, conforme a lo siguiente:
+El Sistema Estatal podrá sesionar cuando asista el cincuenta por ciento más uno de sus integrantes y se cuente con la presencia del Presidente o quien lo supla y la Secretaría Ejecutiva.
 
-I. Para el cálculo del componente descrito en el artículo 31, fracción I, inciso a) de la Ley, se emplearán los precios promedio mensuales para la mezcla de petróleo mexicano reportados por Petróleos Mexicanos;
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-II. Para el cálculo de los componentes descritos en el artículo 31, fracción I, inciso b) y fracción II, inciso a), de la Ley, se empleará el promedio de las cotizaciones diarias de la última transacción registrada en el Mercado de Intercambio Mercantil de Nueva York para un periodo entre dos y cuatro meses anteriores a la fecha a la que se realizó el cálculo;
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-III. Para el cálculo del componente descrito en el artículo 31, fracción I, inciso b) de la Ley, se emplearán los precios de los futuros del crudo denominado de Calidad Media del Oeste de Texas con fecha de entrega a partir del mes de diciembre del tercer año posterior al que se está presupuestando. Los futuros a considerar en el cómputo de este componente deberán tener fecha de entrega en el mismo mes de los distintos años;
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-IV. Para el cálculo del componente descrito en el artículo 31, fracción II, inciso a) de la Ley, se emplearán los precios de los futuros del crudo denominado de Calidad Media del Oeste de Texas con fecha de entrega entre el mes de diciembre anterior y el mes de noviembre del año que se está presupuestando, y
-
-V. El diferencial esperado promedio de cada componente será igual al producto de:
-
-a) El promedio observado del cociente de la diferencia del precio del crudo denominado de Calidad Media del Oeste de Texas y el precio de la mezcla de petróleo mexicano, dividida entre el precio del crudo denominado de Calidad Media del Oeste de Texas;
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-b) El precio promedio del o los futuros que se consideren en el cómputo de cada componente. Para el cómputo de este promedio se emplearán las cotizaciones diarias para el mismo periodo que el que cubren las cotizaciones de futuros empleadas.
+Los acuerdos del Sistema Estatal serán tomados por unanimidad o mayoría de votos de sus integrantes. En caso de empate el Presidente tendrá voto de calidad.
 
 ###### Artículo 16.
 
-Las estimaciones sobre las principales variables macroeconómicas para el siguiente año a que se refiere el artículo 42, fracción I, inciso b) de la Ley, podrán referirse a dos o más escenarios globales, o bien, a un escenario general y un estudio de sensibilidad al cambio de algunas variables macroeconómicas relevantes.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+En caso que las sesiones ordinarias o extraordinarias no se lleven a cabo el día y hora señalados por falta de quórum, se tendrá por emitida la segunda convocatoria para su desahogo, a los treinta minutos posteriores a la hora programada en la primera convocatoria.
 
 ###### Artículo 17.
 
-Los requerimientos financieros del sector público agrupan, entre otros, al balance presupuestario más el balance de las entidades de control indirecto, a los requerimientos financieros de la banca de desarrollo y los fondos de fomento, a los requerimientos financieros del Instituto de Protección al Ahorro Bancario, una vez descontadas las transferencias del Gobierno Federal, a los proyectos de infraestructura productiva de largo plazo de inversión directa y otros proyectos de inversión en infraestructura con impacto económico cuyo registro presupuestario se difiera en el tiempo.
-
-La Secretaría deberá entregar a las Comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública de la Cámara de Diputados y a la Comisión de Hacienda y Crédito Público de la Cámara de Senadores y publicar en su página de Internet a más tardar el 30 de abril de cada ejercicio fiscal, la metodología para el cálculo de los requerimientos financieros del sector público.
+En cada sesión del Sistema Estatal, la Secretaría Ejecutiva levantará un acta, que será firmada por los integrantes asistentes, en la cual se hará constar el lugar, fecha, inicio y clausura de la sesión, nombre de los asistentes, así como una narración ordenada y sucinta de la reunión y de los acuerdos tomados.
 
 ###### Artículo 18.
 
-Las dependencias y entidades deberán contar con un dictamen de la Secretaría sobre el impacto presupuestario de los siguientes proyectos que propongan someter a consideración del Presidente de la República:
+De conformidad con la presente Ley, cada Ayuntamiento de la Entidad deberá constituir su respectivo Sistema Municipal; dichos sistemas se integrarán con el número de miembros de acuerdo a las circunstancias de cada Municipio, debiendo participar el Presidente Municipal.
 
-I. Iniciativas de leyes y decretos que deban enviarse al Congreso de la Unión;
-
-II. Reglamentos de leyes;
-
-III. Reglamentos interiores, decretos y demás ordenamientos que impliquen la creación o la modificación de las estructuras orgánicas y ocupacionales de las dependencias y entidades;
-
-IV. Decretos y acuerdos, cuando consideren que tienen un impacto presupuestario, y
-
-V. Los demás proyectos que determine la Consejería Jurídica del Ejecutivo Federal.
-
-Adicionalmente, los proyectos a que se refiere la fracción III de este artículo deberán contar con el dictamen sobre la estructura orgánica u ocupacional de la dependencia o entidad de que se trate, que emita la Función Pública en términos de las disposiciones aplicables.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+Los acuerdos tomados en sesiones ordinarias o extraordinarias de los Sistemas Municipales, se harán del conocimiento de la Secretaría Ejecutiva del Sistema Estatal para su registro y seguimiento.
 
 ###### Artículo 19.
 
-Las dependencias y entidades que tramiten proyectos en términos del artículo anterior, realizarán una evaluación sobre su impacto presupuestario en los términos que establezca la Secretaría.
+Los Sistemas Municipales deberán coordinarse con el Sistema Estatal, con la finalidad de definir las bases para el seguimiento y evaluación del Programa Integral.
 
-La evaluación del impacto presupuestario considerará cuando menos los siguientes aspectos:
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-I. Impacto en el gasto de las dependencias y entidades por la creación o modificación de unidades administrativas y plazas o, en su caso, creación de nuevas instituciones;
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-II. Impacto presupuestario en los programas aprobados de las dependencias y entidades;
-
-III. Establecimiento de destinos específicos de gasto público. En este caso, solamente podrán preverse destinos específicos en leyes fiscales;
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-IV. Establecimiento de nuevas atribuciones y actividades que deberán realizar las dependencias y entidades que requieran de mayores asignaciones presupuestarias para llevarlas a cabo, y
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-V. Inclusión de disposiciones generales que incidan en la regulación en materia presupuestaria.
-
-Las dependencias y entidades deberán estimar el costo total del proyecto respectivo con base en los aspectos señalados en las fracciones anteriores, para lo cual podrán tomar como referencia el costo que hayan tenido reformas similares. En caso de que el proyecto tenga un impacto en el presupuesto, las dependencias o entidades deberán señalar la posible fuente de financiamiento de los nuevos gastos en términos del artículo 18 de la Ley.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-### CAPÍTULO II. Del Impacto Presupuestario
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO CUARTO. DEL PROGRAMA INTEGRAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
 ###### Artículo 20.
 
-La Secretaría, a través de la Subsecretaría de Egresos, dictaminará el impacto presupuestario de los proyectos a que se refiere el artículo anterior.
+El Programa Integral, es el mecanismo que contiene las acciones que en forma planeada y coordinada deberán realizar los integrantes del Sistema Estatal, en el corto, mediano y largo plazo, tomando en cuenta las necesidades y particularidades específicas de la desigualdad en los ámbitos público y privado, así como en las zonas rurales y urbanas con el propósito de erradicarla.
 
-Para tal efecto, las dependencias y entidades presentarán a la Secretaría por conducto de su unidad jurídica, la solicitud acompañada del proyecto y de la evaluación de impacto presupuestario respectiva suscrita por los servidores públicos competentes de la Oficialía Mayor o su equivalente.
-
-Cuando algún proyecto tenga impacto presupuestario en dos o más dependencias o entidades, o en una distinta de la responsable de su elaboración, las evaluaciones de impacto correspondientes deberán estar suscritas por los servidores públicos competentes de cada dependencia o entidad involucrada; el responsable de la elaboración del proyecto será el encargado de integrar las distintas evaluaciones. Lo anterior, con excepción de los proyectos que establezcan regulación aplicable para la Administración Pública Federal, caso en el cual la dependencia competente para elaborar dicho proyecto será la responsable de presentar y suscribir la evaluación de impacto correspondiente.
-
-La Secretaría emitirá su dictamen en un plazo que no excederá de 20 días hábiles contados a partir del día siguiente a la presentación de la documentación señalada en los párrafos anteriores ante la unidad jurídica de la Secretaría.
-
-Cuando la Secretaría reciba una solicitud que no reúna los requisitos a que se refiere el artículo 19 de este Reglamento o los párrafos anteriores, podrá solicitar a la dependencia o entidad que presente la información faltante, en cuyo caso se suspenderá el plazo a que se refiere el párrafo anterior.
-
-La Secretaría emitirá recomendaciones sobre las disposiciones jurídicas del ordenamiento sujeto a dictamen que incidan en el ámbito presupuestario, cuando así lo considere.
-
-Tanto la evaluación como el dictamen correspondiente se anexarán a la iniciativa de ley o decreto que se presente al Congreso de la Unión o, en su caso, a los reglamentos, decretos y demás ordenamientos a que se refiere el artículo 18 del presente Reglamento que se sometan a firma del Presidente de la República.
-
-La tramitación del dictamen presupuestario no impedirá a la dependencia o entidad a que realice los demás trámites para la presentación del proyecto ante la Consejería Jurídica del Ejecutivo Federal; siempre y cuando el solicitante haya sometido el proyecto final para efectos del impacto presupuestario.
-
-## TÍTULO TERCERO. De la Programación, Presupuesto y Aprobación
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 21.
 
-Los programas presupuestarios anuales se regirán por los objetivos nacionales, estrategias y prioridades del desarrollo integral y sustentable del país contenidos en el Plan Nacional de Desarrollo y los programas que derivan del mismo.
+El Programa Integral deberá ser elaborado por el Sistema Estatal y coordinado por el Ejecutivo Estatal, a través de la Secretaría de las Mujeres, señalando los objetivos y estrategias para alcanzar la igualdad de trato y oportunidades entre mujeres y hombres, en términos de lo previsto por esta Ley, por lo que deberá:
 
-#### SECCIÓN I. Del calendario de actividades de la programación y presupuesto
+I. Establecer las líneas de acción prioritarias y metas para lograr la igualdad de trato y oportunidades entre mujeres y hombres; y
+
+II. Promover la inclusión del principio de transversalidad en los programas sectoriales, regionales, municipales y en su caso, especiales.
 
 ###### Artículo 22.
 
-Las actividades de programación y presupuesto se realizarán conforme al siguiente calendario:
-
-I. De enero a marzo: formulación de escenarios de gasto y de programas prioritarios;
-
-II. De enero a junio: etapa de programación;
-
-III. De abril al 15 de junio: integración del informe del avance físico y financiero de los programas presupuestarios del Presupuesto de Egresos;
-
-IV. De junio a julio: etapa de presupuesto;
-
-V. De junio a agosto: elaboración e integración del proyecto de Presupuesto de Egresos y elaboración de la exposición de motivos, proyecto de decreto, anexos, tomos y apartados específicos establecidos en la Ley, así como del proyecto de Ley de Ingresos y de los Criterios Generales de Política Económica;
-
-VI. A más tardar el 8 de septiembre: envío del Ejecutivo Federal a la Cámara de Diputados del proyecto de Presupuesto de Egresos conforme al artículo 42, fracción III de la Ley, así como de los Criterios Generales de Política Económica, la iniciativa de Ley de Ingresos y, en su caso, las iniciativas de reformas legales relativas a las fuentes de ingresos para el siguiente ejercicio fiscal, salvo en el año en que inicie su encargo el Ejecutivo Federal, en que deberá presentarse conforme a lo dispuesto por el artículo 74 fracción IV de la Constitución Política de los Estados Unidos Mexicanos;
-
-VII. A partir de la fecha de aprobación del Presupuesto de Egresos por la Cámara de Diputados, conforme al artículo 42, fracción VI de la Ley, durante los 20 días naturales siguientes, la publicación del Decreto de Presupuesto de Egresos y sus anexos en el Diario Oficial de la Federación;
-
-VIII. A partir de la fecha de publicación del Decreto de Presupuesto de Egresos:
-
-a) Dentro de los 10 días hábiles posteriores:
-
-i) Elaboración y envío por parte de las dependencias y entidades de sus proyectos de calendarios de presupuesto, en los términos del artículo 61 de este Reglamento;
-
-ii) Comunicación de la Secretaría a las dependencias y entidades de los calendarios de presupuesto autorizados;
-
-iii) Publicación en el Diario Oficial de la Federación por parte de la Secretaría, de los calendarios de presupuesto autorizados por ramo y entidades de control directo que integran el gasto neto total;
-
-iv) Comunicación de la Secretaría a las dependencias y entidades de la distribución de sus presupuestos aprobados por unidad responsable, conforme al nivel de desagregación en términos de los artículos 29 y 30 de este Reglamento;
-
-b) Durante los 20 días naturales posteriores, la Secretaría integrará el presupuesto aprobado conforme a lo siguiente:
-
-i) Envío de los tomos del Presupuesto de Egresos a la Cámara de Diputados;
-
-ii) Divulgación al público de los tomos del Presupuesto de Egresos a través de medios de comunicación electrónica, en apego a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
-
-c) Dentro de los 15 días hábiles posteriores, publicación en el Diario Oficial de la Federación, por parte de la Secretaría, del monto y la calendarización del gasto federalizado;
-
-IX. Dentro de los 5 días hábiles después de recibir de la Secretaría la comunicación de los calendarios de presupuesto autorizados:
-
-a) Comunicación por parte de la dependencia coordinadora de sector a sus unidades responsables de los calendarios de presupuesto autorizados;
-
-b) Publicación en el Diario Oficial de la Federación por parte de las dependencias y entidades, en su caso a través de la dependencia coordinadora de sector, de los calendarios de presupuesto autorizados por unidad responsable y, en su caso, por programa, y
-
-X. Dentro de los 20 días naturales posteriores a la comunicación de los calendarios de presupuesto autorizados a los ejecutores de gasto, acciones y actividades para el comienzo del ejercicio presupuestario del gasto público.
-
-La Secretaría establecerá para cada proceso de programación y presupuesto anual la forma, términos y plazos que aplicarán dentro de los periodos señalados en las fracciones de este artículo que faciliten el cumplimiento de las fechas expresamente establecidas en la Ley.
-
-En el año en que el Ejecutivo Federal termine su encargo, los periodos previstos en el calendario de actividades de este artículo se ajustarán por la Secretaría en términos del artículo 43 de la Ley.
-
-#### SECCIÓN II. De la clasificación administrativa
+El Sistema Estatal revisará y evaluará el Programa Integral y de ser necesario, formulará las modificaciones respectivas.
 
 ###### Artículo 23.
 
-La estructura de los programas presupuestarios se organizará de acuerdo con la clasificación administrativa que identifica a los ejecutores del gasto público federal en la forma siguiente:
-
-I. Gasto neto total:
-
-a) Ramos autónomos, que agrupan a los Poderes Legislativo y Judicial, y entes autónomos, los cuales se integrarán por las unidades responsables que se constituyan en términos de las disposiciones aplicables;
-
-b) Ramos administrativos, que agrupan a las dependencias y, en su caso, entidades, integradas por las unidades administrativas cuyas asignaciones de recursos corresponden al gasto de las dependencias y los subsidios y transferencias que se destinen a las entidades;
-
-c) Ramos generales, que agrupan los mecanismos de control presupuestario que se determinan para atender obligaciones del Gobierno Federal cuyas asignaciones de recursos no corresponden al gasto directo de las dependencias y, en su caso, de las entidades. Su ejercicio se realizará por las unidades responsables que se determinen conforme a las disposiciones aplicables en las materias, entre otras, de:
-
-i) Asignaciones para cubrir el costo financiero de la deuda pública del Gobierno Federal, erogaciones para las operaciones y programas de saneamiento financiero, así como de asunción de pasivos;
-
-ii) Adeudos de ejercicios fiscales anteriores;
-
-iii) Provisiones salariales y económicas;
-
-iv) Aportaciones de seguridad social;
-
-v) Aportaciones federales;
-
-vi) Participaciones de ingresos federales a las entidades federativas y municipios;
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-vii) Otras asignaciones.
-
-La Secretaría determinará la constitución de los ramos generales y la definición de las unidades responsables correspondientes. Los titulares de las unidades responsables fungirán como titulares de los ramos generales y a éstos les corresponderá realizar y autorizar los actos administrativos que se requieran para la operación de los ramos generales a su cargo, sin perjuicio de que el titular de la dependencia en la que se encuentre el ramo general de que se trate, ejerza directamente dichas funciones;
-
-d) Entidades de control directo, que se determinan anualmente en el proceso presupuestario y forman parte de la Ley de Ingresos y del gasto neto total;
-
-II. La agrupación de las entidades en:
-
-a) De control presupuestario:
-
-i) Directo, que forman parte de la integración del gasto neto total y del balance presupuestario, en correlación con el proyecto de la Ley de Ingresos y, en su momento, de su aprobación;
-
-ii) Indirecto, cuyos ingresos propios no están comprendidos en el proyecto o aprobación de la Ley de Ingresos, y pueden recibir subsidios o transferencias, cuyo control se realiza en términos del balance público;
-
-b) Conforme a la fuente de recursos:
-
-i) Apoyadas, que elaboran sus presupuestos considerando total o parcialmente recursos fiscales por concepto de subsidios y transferencias;
-
-ii) No apoyadas, que elaboran sus presupuestos sin considerar ingresos por concepto de subsidios y transferencias;
-
-Para la mejor organización y clasificación presupuestaria de los grupos de entidades, la Secretaría podrá determinar agrupaciones específicas, tomando en cuenta su objeto, naturaleza administrativa y características económicas o financieras, entre otras;
-
-III. La agrupación por sectores:
-
-a) Coordinados por las dependencias, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal;
-
-b) Coordinados por la Secretaría, respecto de las entidades no agrupadas en un sector determinado, en términos del artículo 7 de la Ley;
-
-c) Coordinados por entidades, por disposición de ley.
-
-Para la mejor agrupación y clasificación presupuestaria de aquellas sociedades o asociaciones civiles asimiladas a las empresas de participación estatal mayoritaria, de acuerdo con el artículo 46 de la Ley Orgánica de la Administración Pública Federal, la Secretaría determinará su ubicación en alguno de los incisos anteriores, y
-
-IV. Unidad responsable, constituye el elemento programático identificado con las áreas administrativas de los ejecutores de gasto responsables de proporcionar a la unidad de administración los insumos para la programación y presupuesto, y del ejercicio de recursos humanos, materiales y financieros para contribuir al cumplimiento de los objetivos de los programas presupuestarios autorizados al ramo o entidad, conforme a lo siguiente:
-
-a) De los ramos autónomos, que se constituyen a partir de las unidades o áreas administrativas determinadas por los Poderes Legislativo y Judicial, así como entes autónomos, en términos de las disposiciones aplicables;
-
-b) De los ramos administrativos, que constituyen las dependencias, incluidos sus órganos administrativos desconcentrados, con base en las unidades administrativas establecidas en el reglamento interior u ordenamiento legal correspondiente, así como las que correspondan a las entidades apoyadas comprendidas en la fracción II, inciso b), subinciso i) anterior;
-
-c) De los ramos generales, que se definen en términos de la fracción I, inciso c) de este artículo;
-
-d) De las entidades, que se identifican con la denominación de la entidad o, en su caso, área administrativa conforme a su ley o decreto de creación, incluidas las entidades a que se refiere el artículo 46 último párrafo de la Ley Orgánica de la Administración Pública Federal.
-
-#### SECCIÓN III. De la clasificación funcional y programática
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+El Presidente del Sistema Estatal deberá rendir un informe anual ante los miembros del mismo, que contendrá el estado que guarda la ejecución del Programa Integral, así como las demás acciones relativas al cumplimiento de lo establecido en la Ley.
 
 ###### Artículo 24.
 
-La estructura programática, conforme a la clasificación funcional y programática, se compone de las categorías siguientes:
+Para efectos de dar cumplimiento al artículo anterior, los integrantes del Sistema Estatal coadyuvarán en la realización de dicho informe.
 
-I. Función y subfunción, que identifican y organizan las actividades que realizan los ejecutores de gasto en la consecución de los fines y objetivos contenidos en la Constitución Política de los Estados Unidos Mexicanos.
-
-La Secretaría emitirá el catálogo de las funciones y subfunciones que regirán para el ámbito de aplicación de las dependencias y entidades, e incorporará las que propongan los Poderes Legislativo y Judicial y los entes autónomos. La organización de las funciones considerará, cuando menos, los grupos de gestión gubernamental, desarrollo social y desarrollo económico que faciliten la vinculación con las estructuras administrativas y programáticas; asimismo, permitirá la asociación funcional y programática de las materias y obligaciones sustento de los ramos generales;
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-II. Programa, para efectos presupuestarios, identifica los programas que establecen las dependencias y entidades para el cumplimiento de sus funciones, políticas y objetivos institucionales, conforme a sus atribuciones.
-
-Al emitir el catálogo de los programas, la Secretaría podrá establecer agrupamientos y modalidades de éstos, así como las articulaciones con otras categorías programáticas;
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-III. Actividad Institucional, identifica las acciones de los ejecutores de gasto, vinculando éstas con las atribuciones legales respectivas, en congruencia con las categorías de las funciones y los programas que les corresponden.
-
-La Secretaría, a través del catálogo que emita, orientará la selección y determinación de actividades institucionales por dependencia y entidad, observando criterios de permanencia de mediano plazo y de adecuado equilibrio de calidad y cantidad en términos de la representatividad y relevancia de los objetivos de los programas, y
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-IV. Proyecto, que establece las acciones que implican asignaciones presupuestarias para programas y proyectos de inversión registrados en la Cartera.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La Secretaría podrá establecer, para efectos programáticos, clasificaciones por tipo de programas y proyectos de inversión.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Las dependencias y entidades al llevar a cabo las acciones relativas al proceso integral de programación y presupuesto, se sujetarán a las normas operativas y metodologías que emita la Secretaría.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-### CAPÍTULO I. De la Programación y Presupuesto del Gasto Público
+### CAPÍTULO QUINTO. DE LAS AUTORIDADES ESTATALES
 
 ###### Artículo 25.
 
-La estructura programática, conforme a la clasificación funcional y programática, se compone de los elementos siguientes:
+Son atribuciones del Ejecutivo Estatal, las siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+I. Formular, conducir, implementar y evaluar la Política Estatal en materia de Igualdad de trato y oportunidades entre mujeres y hombres;
 
-I. Misión, incluye los propósitos fundamentales que justifican la existencia de la dependencia o entidad y, para efectos programáticos, se formula mediante una visión integral de las atribuciones contenidas en la ley orgánica u ordenamiento jurídico aplicable.
+II. Implementar programas, proyectos, acciones e instrumentos que garanticen la adopción de acciones afirmativas en materia de Igualdad de trato y oportunidades entre mujeres y hombres;
 
-Corresponderá a la dependencia coordinadora de sector, a través de su unidad de administración, supervisar el establecimiento de la misión a nivel del ramo. Las entidades, por conducto de sus unidades de administración, establecerán su correspondiente misión.
+III. Incorporar en el Presupuesto de Egresos del Estado, la asignación de recursos para el cumplimiento de la política estatal en materia de igualdad de trato y oportunidades entre mujeres y hombres;
 
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+IV. Promover la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas y acciones de la Política Estatal en materia de Igualdad de trato y oportunidades entre mujeres y hombres; y
 
-La Secretaría determinará los criterios de vinculación de la misión con los programas presupuestarios;
+V. Las demás necesarias para el cumplimiento del objeto de la Ley y las que le confieran otras disposiciones.
 
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-II. Objetivo, se refiere al resultado o alcance esperado asociado a un programa, en congruencia con el Plan Nacional de Desarrollo y los programas que de éste deriven.
-
-En la formulación de los objetivos de los programas a su cargo, las dependencias y entidades deberán considerar la vinculación de éstos con sus objetivos estratégicos y con los objetivos expresamente señalados en el Plan Nacional de Desarrollo y los programas que de éste deriven;
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-III. Meta, es la expresión cuantitativa del nivel de cumplimiento esperado del objetivo en un periodo determinado, y debe expresarse de manera clara, medible y precisa;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-IV. Indicador de desempeño, es la expresión de una relación de variables determinadas que permite identificar, a través de la medición y valoración de los resultados o alcances esperados, el nivel de avance hacia el logro de los objetivos del programa, tomando como referencia la meta establecida. Dicho indicador podrá ser expresado en términos de lo previsto en el artículo 27 de la Ley, reflejando al menos lo siguiente:
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-a) Eficacia, que mide la relación entre los bienes y servicios producidos y el impacto que generan. Mide el grado de cumplimiento de los objetivos;
-
-b) Eficiencia, que mide la relación entre la cantidad de los bienes y servicios generados y los insumos o recursos utilizados para su producción;
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-c) Economía, que mide la capacidad para generar y movilizar adecuadamente los recursos financieros;
-
-d) Calidad, que mide los atributos, propiedades o características que deben tener los bienes y servicios públicos generados en la atención de la población objetivo, vinculándose con la satisfacción del usuario o beneficiario;
-
-e) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La Secretaría podrá establecer metodologías para alinear indicadores a objetivos que describan los fines, propósitos, componentes y actividades de los programas, y
-
-V. Unidad responsable, el cual, como elemento programático, identifica a las unidades que realizan el seguimiento, evaluación y rendición de cuentas de los indicadores de desempeño a nivel de dependencia o entidad.
-
-#### SECCIÓN IV. De la clasificación económica
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 26.
 
-La estructura de los programas presupuestarios conforme a la clasificación económica identifica el tipo de gasto a partir de los componentes siguientes:
+Son atribuciones de la Secretaría de las Mujeres, las siguientes:
 
-I. Objeto del gasto, con base en los capítulos, conceptos y partidas del Clasificador por objeto del gasto, de conformidad con los niveles de desagregación previstos en los artículos 29 y 30 de este Reglamento;
+I. Coordinar, instrumentar y fomentar las acciones afirmativas que posibiliten la no discriminación, la Igualdad de trato y oportunidades entre mujeres y hombres y la transversalidad de la perspectiva de género en los ámbitos público, social y privado;
 
-II. Naturaleza económica, que identifica las asignaciones conforme a su naturaleza, en erogaciones corrientes o de capital, y
+II. Promover, coordinar y realizar la revisión de programas y servicios en materia de Igualdad de trato y oportunidades entre mujeres y hombres;
 
-III. Fuente de recursos, que identifica las asignaciones conforme al origen de su financiamiento, en recursos fiscales, propios, o provenientes de crédito externo o donativo del exterior.
+III. Fomentar instrumentos de colaboración entre autoridades estatales, autoridades municipales, organizaciones no gubernamentales y empresas privadas, para la implementación efectiva de la Igualdad de trato y oportunidades entre mujeres y hombres que consagra esta Ley;
 
-#### SECCIÓN V. De la clasificación geográfica
+IV. Coordinar la elaboración y aplicación del Programa Integral;
 
-### CAPÍTULO II. De la Aprobación
+V. Impulsar la participación de la sociedad civil en la promoción de la igualdad de trato y oportunidades entre mujeres y hombres;
 
-###### Artículo 62.
+VI. Integrar y mantener actualizado un sistema de información para conocer la situación que guarda la igualdad de trato y oportunidades entre hombres y mujeres en la Entidad, y el efecto de las políticas públicas aplicadas en esta materia;
 
-Una vez que se hayan presentado la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos, cuando se estime necesario, la Secretaría, en coordinación con la Secretaría de Gobernación, podrán acordar reuniones de trabajo con las dependencias y entidades para determinar la conveniencia de integrar documentación o información que facilite el avance en el proceso de discusión y aprobación por parte del Congreso de la Unión.
+VII. Difundir el contenido de la Ley, así como traducirla en las lenguas indígenas habladas en el Estado, con la participación de las instancias competentes;
 
-De conformidad con lo dispuesto en la Ley y por la Ley del Servicio de Administración Tributaria, cualquier dato o información que, en relación con la iniciativa de Ley de Ingresos, el proyecto de Presupuesto de Egresos y las iniciativas de reformas a las leyes fiscales, se solicite por el Congreso de la Unión, grupos parlamentarios o legisladores federales, será proporcionada por conducto de la Secretaría, la que se coordinará con la Secretaría de Gobernación para que la citada información se entregue a los solicitantes.
+VIII. Elaborar y presentar ante el Sistema Estatal, en cada sesión ordinaria, un informe de las actividades realizadas relacionadas con el Programa Integral; y
 
-Para tal efecto, las dependencias y entidades deberán remitir oportunamente a la Secretaría la información solicitada.
+IX. Las demás que sean necesarias para cumplir el objeto de esta Ley y las que le confieran otros ordenamientos jurídicos.
 
-###### Artículo 63.
-
-Los servidores públicos de las dependencias y entidades sólo podrán asistir a reuniones de trabajo que se celebren con legisladores o con cualquier servidor público del Congreso de la Unión para analizar la iniciativa de Ley de Ingresos, el proyecto de Presupuesto de Egresos y las iniciativas de reformas a las leyes fiscales con la participación de representantes de la Secretaría de Gobernación, cuando así lo considere, y de la Secretaría, a la que corresponderá la coordinación de la Administración Pública Federal en materia presupuestaria, de financiamiento del gasto público, y de política tributaria.
-
-En cualesquiera otras iniciativas de ley o decreto, que se encuentren en discusión en el Congreso de la Unión y que tengan algún impacto presupuestario, las dependencias y entidades requerirán la participación de representantes de la Secretaría cuando las disposiciones de carácter presupuestario de la iniciativa de que se trate pudieran ser objeto de modificaciones.
-
-La Secretaría de Gobernación y la Secretaría mantendrán la coordinación necesaria a efecto de lograr una adecuada conducción de las relaciones entre el Poder Ejecutivo Federal y el Congreso de la Unión durante el proceso de aprobación de los instrumentos a que se refiere el primer párrafo de este artículo.
-
-En caso de que la Secretaría o la Secretaría de Gobernación detecten que alguna dependencia o entidad realiza trámites, gestiones o actividades de cabildeo en relación con los documentos señalados en el artículo anterior, directamente o a través de terceros ante el Congreso de la Unión, grupos parlamentarios o legisladores federales, o asiste a reuniones sin atender lo señalado en el presente artículo, inmediatamente lo harán del conocimiento de la Función Pública para los efectos correspondientes.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 63 A. La Secretaría, a través de la unidad administrativa responsable de la política y del control presupuestario, establecerá el mecanismo presupuestario y las reglas para la operación del fondo específico a que se refiere el artículo 43, segundo párrafo, de la Ley.
-
-El mecanismo presupuestario deberá considerar las características específicas, temporalidad y naturaleza de las erogaciones, que se realizan durante el periodo de transición.
-
-Los recursos del fondo se destinarán para los trabajos y actividades del Presidente Electo y su equipo de asesores, durante el periodo de transición en temas relacionados con la elaboración y presentación de los proyectos de la Ley de Ingresos y Presupuesto de Egresos; programas gubernamentales; seguridad pública y nacional; trabajos de enlace con la administración saliente; difusión, y actividades preparatorias que permitan crear las condiciones propicias para el inicio de su encargo, entre otras.
-
-La información de dicho fondo deberá ponerse a disposición del público en general, en términos de lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
-
-Lo anterior sin perjuicio de la información que se deba proporcionar a las autoridades competentes en materia de control, vigilancia y fiscalización de los recursos federales previstos en el fondo.
-
-Asimismo, la unidad administrativa que coordine la operación del fondo deberá reportar trimestralmente a la Secretaría la información de dicho fondo en los términos previstos en el artículo 107, fracción I, de la Ley y en el mecanismo presupuestario a que se refiere el primer párrafo de este artículo.
-
-## TÍTULO CUARTO. Del Ejercicio del Gasto Público Federal
+### CAPÍTULO SEXTO. DEL PODER LEGISLATIVO
 
 ###### Artículo 27.
 
-En términos de los artículos 28, fracción IV y 84 de la Ley, la estructura conforme a la clasificación geográfica ubicará las asignaciones de los programas presupuestarios por entidad federativa y, en su caso, por regiones o municipios.
+En materia de Igualdad de trato y oportunidades entre mujeres y hombres, el Poder Legislativo deberá:
 
-#### SECCIÓN VI. De la clave presupuestaria
+I. Expedir las disposiciones legales necesarias para promover los principios, políticas y objetivos que establece esta Ley;
 
-### CAPÍTULO I. Del Registro y Pago de Obligaciones Presupuestarias
+II. Propiciar reformas a las disposiciones legales cuyas disposiciones constituyan discriminación, así como para abatir usos y prácticas discriminatorias, buscando que los sectores públicos, social y privado actúen de conformidad con los principios de la Ley;
 
-#### SECCIÓN I. Del registro y pago
+III. Institucionalizar la perspectiva de género para favorecer las prácticas igualitarias; y
 
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+IV. Las demás que sean necesarias para cumplir el objeto de esta Ley y las que le confieran otros ordenamientos jurídicos.
 
-###### Artículo 64.
-
-Las dependencias y entidades deberán efectuar las erogaciones y los registros de las afectaciones de pago sujetándose a sus presupuestos autorizados, observando para ello que se realicen:
-
-l. Con cargo a los programas presupuestarios y unidades responsables señalados en sus presupuestos, y
-
-II. Con base en los capítulos, conceptos y partidas del Clasificador por objeto del gasto, previstos en sus analíticos presupuestarios autorizados.
-
-###### Artículo 65.
-
-Las dependencias y entidades, al contraer compromisos deberán observar lo siguiente:
-
-I. Que se cumpla lo dispuesto en las disposiciones legales aplicables;
-
-II. Que se realicen de acuerdo con los calendarios de presupuesto autorizados;
-
-III. Que no impliquen obligaciones anteriores a la fecha en que se suscriban, y
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-IV. Cuando impliquen obligaciones con cargo a presupuestos de ejercicios posteriores, se cumpla con lo dispuesto en los artículos 38, 53 A a 53 E, 147 y 148 de este Reglamento, según corresponda.
-
-###### Artículo 66.
-
-Las dependencias y entidades serán responsables de que los pagos efectuados con cargo a sus presupuestos se realicen con sujeción a los siguientes requisitos:
-
-I. Que correspondan a compromisos efectivamente devengados, con excepción de los anticipos previstos en las disposiciones aplicables;
-
-II. Que se efectúen dentro de los límites de los calendarios de presupuesto autorizados, y
-
-III. Que se encuentren debidamente justificados y comprobados con los documentos originales respectivos, entendiéndose por justificantes las disposiciones y documentos legales que determinen la obligación de hacer un pago y, por comprobantes, los documentos que demuestren la entrega de las sumas de dinero correspondientes.
-
-Los registros de las erogaciones que no constituyan pagos se ajustarán en lo que resulte compatible con lo dispuesto en esta Sección, conforme lo determine la Secretaría.
-
-###### Artículo 67.
-
-Los pagos que afecten el presupuesto de las dependencias y entidades sólo podrán hacerse efectivos en tanto no prescriba la acción para exigir su pago. La prescripción se regirá conforme a lo previsto en la Ley del Servicio de Tesorería de la Federación y su Reglamento.
-
-###### Artículo 68.
-
-Los pagos con cargo al Presupuesto de Egresos se realizarán por las dependencias a través de la Tesorería. Los pagos que realicen las entidades se efectuarán por conducto de sus propias tesorerías, llevando los registros presupuestarios correspondientes en sus respectivos flujos de efectivo.
-
-Las dependencias, en el ejercicio de sus erogaciones, adicionalmente deberán:
-
-I. Informar a la Tesorería la relación de servidores públicos en quienes se delegue la autorización para tramitar las altas y bajas de usuarios del sistema de administración financiera federal, y para el registro y firma de documentos presupuestarios;
-
-II. Establecer los mecanismos que permitan llevar el control en la numeración y secuencia de las cuentas por liquidar certificadas, incluyendo las que se emitan para pagar o enterar los descuentos y retenciones a favor de terceros, así como de los avisos de reintegro y las rectificaciones de cuentas por liquidar certificadas que se emitan;
-
-III. Mantener actualizados en el sistema de administración financiera federal los datos del Catálogo de Beneficiarios y Cuentas Bancarias a que se refiere el artículo 74 de este Reglamento, tanto los que se registran directamente por las dependencias, como los que se registran ante la Tesorería. En este último caso, se deberán utilizar los formatos establecidos para tales efectos, y presentarlos ante la Tesorería con al menos 3 días hábiles de anticipación a la fecha en que se emita la cuenta por liquidar certificada, y
-
-IV. Conservar y resguardar, conforme a las disposiciones aplicables, la documentación original utilizada para el registro de las operaciones en el sistema de administración financiera federal.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 69.
-
-Cuando los capítulos, conceptos o partidas del Clasificador por objeto del gasto no satisfagan los requerimientos de registro presupuestario de las entidades, éstas podrán, conforme a las funciones y requerimientos específicos, identificar sus erogaciones con una apertura y desagregación mayor a la prevista en dicho Clasificador, conforme a lo siguiente:
-
-I. Las partidas del Clasificador por objeto del gasto podrán desagregarse en subpartidas siempre que sean aprobadas por los órganos de gobierno y correspondan con la estructura y contenido genérico de los capítulos y conceptos de gasto del mismo;
-
-II. La apertura en subpartidas sólo podrá efectuarse con base en las partidas de gasto previstas en sus analíticos presupuestarios autorizados, y
-
-III. Previo al ejercicio y registro de las erogaciones con cargo a las subpartidas aprobadas por el órgano de gobierno, deberán informar al órgano interno de control y a través de la dependencia coordinadora de sector, a la Secretaría, la definición de éstas en un plazo no mayor a 15 días hábiles posteriores a su aprobación.
-
-#### SECCIÓN II. Del comisionado habilitado
-
-###### Artículo 70.
-
-El comisionado habilitado es el instrumento presupuestario a través del cual las unidades responsables de gasto de las dependencias designan a uno o más servidores públicos para realizar funciones de manejo y custodia de recursos federales con el objeto de cubrir compromisos que únicamente sea posible pagar en efectivo o de carácter urgente.
-
-Los pagos a través de comisionado habilitado se sujetarán a las disposiciones aplicables y se realizarán conforme a lo siguiente:
-
-I. Sólo se podrán afectar los conceptos y partidas presupuestarias que al efecto establezca la Secretaría, y
-
-II. En caso de que las dependencias requieran partidas adicionales para realizar pagos en zonas donde no existe infraestructura bancaria, la Secretaría podrá autorizar su ejercicio, previa justificación, avalada por el Oficial Mayor o su equivalente, de manera indelegable.
-
-###### Artículo 71.
-
-Las cuentas por liquidar certificadas que cobre el comisionado habilitado deberán cubrir los requisitos a que se refiere el artículo 75 de este Reglamento.
-
-Los servidores públicos autorizados para emitir cuentas por liquidar certificadas serán responsables de verificar que de las erogaciones efectuadas por el comisionado habilitado se tenga la documentación comprobatoria de los pagos con cargo al presupuesto aprobado o modificado autorizado, en un plazo no mayor a 30 días hábiles a partir del retiro de los recursos, conforme a las disposiciones aplicables.
-
-Los servidores públicos autorizados para firmar cuentas por liquidar certificadas no podrán realizar funciones de comisionado habilitado.
-
-###### Artículo 72.
-
-Para cubrir obligaciones de pago a través de comisionado habilitado, las dependencias podrán abrir cuentas bancarias, conforme a las disposiciones aplicables, a favor del área administrativa autorizada con firmas mancomunadas de por lo menos tres servidores públicos o, en su caso, del servidor público que corresponda. El importe total de los rendimientos que, en su caso, se generen deberá enterarse mensualmente a la Tesorería en un plazo no mayor a 10 días naturales posteriores al cierre del mes que corresponda. El pago de comisiones por servicios bancarios se cubrirá con cargo al presupuesto aprobado o modificado autorizado de la dependencia dentro de la partida correspondiente del Clasificador por objeto del gasto.
-
-#### SECCIÓN III. De las cuentas por liquidar certificadas
-
-###### Artículo 73.
-
-Para cubrir sus obligaciones, realizar las ministraciones de fondos, o regularizar erogaciones con cargo a su presupuesto aprobado o modificado autorizado, las dependencias deberán emitir las cuentas por liquidar certificadas a favor de:
-
-I. Los beneficiarios directos de los pagos, tales como proveedores, contratistas, prestadores de servicios, entidades federativas o personas físicas o morales beneficiarias de participaciones, subsidios, aportaciones, donativos o ayudas extraordinarias; así como las personas físicas o morales beneficiarias de descuentos o retenciones y, en su caso, a favor del apoderado legal acreditado de los beneficiarios;
-
-II. Las unidades responsables o servidores públicos, cuando éstos tengan encomendada la tarea de administración y custodia de recursos presupuestarios para efectos del pago en los casos siguientes:
-
-a) Ministración de recursos por concepto de subsidios y transferencias a favor de los órganos administrativos desconcentrados o entidades apoyadas;
-
-b) Pagos a través de comisionado habilitado;
-
-c) Restitución de gastos realizados con cargo a fondos rotatorios, que permitan la revolvencia de los recursos durante el ejercicio, y su regularización ante la Tesorería en los plazos establecidos;
-
-d) Ministración de recursos por concepto de subsidios y transferencias a favor de las unidades administrativas de las dependencias que tengan a su cargo la canalización de los subsidios a la población objetivo;
-
-e) Pago de nóminas;
-
-III. La Tesorería, cuando deriven de la regularización de operaciones presupuestarias o del cumplimiento de obligaciones fiscales, y
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-IV. Los intermediarios o instituciones financieras nacionales o internacionales o, en su caso, los agentes financieros con los cuales se establezcan cartas de crédito comercial irrevocables.
-
-El pago de las cuentas por liquidar certificadas a los beneficiarios se realizará en los términos del artículo 75 de este Reglamento.
-
-###### Artículo 74.
-
-El Catálogo de Beneficiarios y Cuentas Bancarias es la información asociada a cada dependencia que se encuentra conformada por los datos bancarios de los beneficiarios de los pagos.
-
-La información que se incorpore al Catálogo será de la estricta responsabilidad de la dependencia que la registre.
-
-Para constatar la veracidad de la información, la dependencia integrará y mantendrá dentro de sus archivos un expediente con los documentos que acrediten la personalidad del beneficiario de la cuenta bancaria.
-
-La dependencia podrá exceptuar la presentación de la documentación sólo en el caso de los pagos cuyo beneficiario de la cuenta bancaria se refiera a personas adscritas a la misma.
-
-###### Artículo 75.
-
-El pago del importe total consignado en las cuentas por liquidar certificadas que se hayan registrado satisfactoriamente en el sistema de administración financiera federal se realizará por la Tesorería mediante abono a las cuentas bancarias de los beneficiarios, siempre que se cuente con el registro previo de éstas en el Catálogo de Beneficiarios y Cuentas Bancarias a que se refiere el artículo anterior.
-
-La Tesorería programará y gestionará el pago de las cuentas por liquidar certificadas cuando las dependencias cumplan los requisitos que ésta establezca.
-
-Las cuentas por liquidar certificadas que regularicen el registro presupuestario de operaciones devengadas y pagadas al 31 de diciembre de cada ejercicio, referidas al pago de compromisos de la deuda pública que conforme a las disposiciones generales procedan, así como para la ministración de recursos a las entidades federativas derivadas de las participaciones de ingresos federales, se podrán presentar hasta el 28 de febrero del próximo ejercicio y, ante la Tesorería para su registro, a más tardar el último día hábil de marzo.
-
-###### Artículo 76.
-
-Sin perjuicio de lo dispuesto en el artículo anterior, cuando algún pago implique efectuar descuentos y retenciones a favor de terceros, como los señalados en el artículo siguiente, las dependencias deberán expedir las cuentas por liquidar certificadas a favor del proveedor del bien o servicio de que se trate que afecten su presupuesto por el importe neto del pago.
-
-Independientemente de que se realice la emisión de las cuentas por liquidar certificadas a que se refiere el párrafo anterior, las dependencias deberán expedir en términos de las disposiciones aplicables, las cuentas por liquidar certificadas a favor de los acreedores de dichos descuentos y retenciones por el monto que resulte de la diferencia entre el importe total y el importe neto que se haya pagado dentro del periodo en el que se debe efectuar el entero de las retenciones y descuentos.
-
-###### Artículo 77.
-
-Las dependencias serán directamente responsables de calcular y efectuar los descuentos y las retenciones a que dé lugar el pago de remuneraciones, obras públicas y, en su caso, adquisiciones y servicios derivados de relaciones laborales o contractuales en términos de las disposiciones aplicables.
-
-Los enteros y, en su caso, los pagos que deban cubrirse, se deberán afectar y registrar conforme a los artículos 75 y 76 de este Reglamento, para su liquidación en las fechas y plazos establecidos en las disposiciones aplicables y las de carácter contractual o a más tardar a los 15 días naturales siguientes a la fecha de pago de las remuneraciones y obras públicas de que se deriven.
-
-Cuando las dependencias hayan emitido cuentas por liquidar certificadas para el pago y entero de retenciones o descuentos por importes mayores a los que efectivamente se hayan devengado, se podrá compensar en los siguientes pagos, siendo responsabilidad de las dependencias que el monto que se cubra sea congruente con la plantilla efectivamente ocupada.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Artículo 77 A. Para el establecimiento de cartas de crédito comercial irrevocable, la Tesorería respecto a su pago, se limitará a solicitar al Banco de México la reserva de los recursos en dólares de los Estados Unidos de América, con base en la cuenta por liquidar certificada que al efecto reciba. Asimismo, en caso de que se haga efectiva la carta de crédito comercial irrevocable, la intervención de la Tesorería se reducirá a la aplicación de los recursos reservados en atención a la solicitud del agente financiero.
-
-###### Artículo 78.
-
-Cuando se trate de compromisos contratados en moneda extranjera, las cuentas por liquidar certificadas consignarán el tipo de cambio estimado al momento de su expedición.
-
-En caso de que los compromisos de pago en moneda extranjera se realicen mediante mecanismos de reserva de divisas en el Banco de México, o se trate del pago de la deuda pública, las cuentas por liquidar certificadas consignarán el importe de la divisa extranjera con la que se efectuará el pago, con el fin de que la Tesorería aplique la conversión al tipo de cambio que corresponda.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Los saldos que resulten por diferencias en el tipo de cambio se deberán regularizar dentro de los 7 días hábiles posteriores a la fecha en que se realizó el pago.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Artículo 78 A. Las dependencias serán responsables de cancelar en el sistema de administración financiera federal las cuentas por liquidar certificadas cuando así lo requieran, o cuando les sean devueltas por la Tesorería.
-
-El importe de las cuentas por liquidar certificadas canceladas permanecerá como presupuesto disponible en las líneas globales y claves presupuestarias correspondientes.
-
-Las dependencias serán responsables de realizar las conciliaciones de la información registrada en el sistema de administración financiera federal y, en su caso, de efectuar las aclaraciones correspondientes por las diferencias que se observen.
-
-Cuando las unidades responsables de las dependencias detecten errores en las claves presupuestarias o en los datos contenidos en las cuentas por liquidar certificadas registradas, contabilizadas y pagadas, podrán realizar su corrección, mediante la rectificación de la cuenta por liquidar certificada que se registre en el sistema de administración financiera federal, siempre y cuando la modificación sea congruente con el gasto realizado.
-
-#### SECCIÓN IV. De las garantías
-
-###### Artículo 79.
-
-Sin perjuicio de las disposiciones generales que expida la Tesorería en términos del artículo 55, primer párrafo de la Ley, las garantías que deban constituirse a favor de las dependencias y entidades por actos y contratos que celebren, deberán sujetarse a lo siguiente:
-
-l. Satisfacer los requisitos legales establecidos, según el objeto o concepto que les dé origen, y que su importe cubra suficientemente el acto u obligación que deba garantizarse;
-
-II. Las garantías que deban otorgarse a favor de la Tesorería en razón de actos y contratos que celebren las dependencias se sujetarán a lo previsto en la Ley del Servicio de Tesorería de la Federación y su Reglamento;
-
-III. La forma de otorgamiento de las garantías podrá ser mediante:
-
-a) Depósito de dinero constituido a través de certificado o billete de depósito expedido por institución de crédito autorizada;
-
-b) Fianza otorgada por institución autorizada;
-
-c) Depósito de dinero constituido ante la Tesorería o tesorería de la entidad, según corresponda;
-
-d) Carta de crédito irrevocable, expedida por institución de crédito autorizada;
-
-e) Cheque certificado o de caja expedido a favor de la Tesorería o la tesorería de la entidad, según corresponda, o
-
-f) Cualquier otra que, en su caso, autorice la Tesorería.
-
-En el caso de reestructuras de créditos distintos a los fiscales ante la Tesorería, se estará a lo dispuesto por el artículo 137 del Reglamento de la Ley del Servicio de Tesorería de la Federación;
-
-IV. Tratándose de las garantías que deban otorgarse con base en las leyes de Obras Públicas y Servicios Relacionados con las Mismas, y de Adquisiciones, Arrendamientos y Servicios del Sector Público, en razón de actos y contratos regulados por éstas, se sujetarán a las disposiciones que les sean aplicables. Los titulares de las dependencias o los órganos de gobierno de las entidades, dentro de las políticas, bases y lineamientos que conforme a las referidas leyes deban expedir, fijarán la forma y porcentajes a los que deberán sujetarse las garantías que se constituyan con motivo de los actos o contratos que celebren, y
-
-V. Cuando las garantías se otorguen a favor de la Tesorería, las dependencias, en su carácter de auxiliares de ésta, conservarán la documentación respectiva en tanto deban ejercerse los derechos que correspondan, en cuyo caso, deberán remitirla para tales efectos a la Tesorería, quien la conservará hasta la conclusión de las acciones inherentes a la efectividad de las garantías respectivas.
-
-#### SECCIÓN V. De la compensación de adeudos
-
-###### Artículo 80.
-
-Las operaciones entre dependencias y los adeudos de éstas con entidades o entre éstas se deberán pagar y registrar en los mismos términos que cualquier otro adeudo y con cargo a su presupuesto aprobado o modificado autorizado, para lo cual se deberá observar lo siguiente:
-
-I. La Tesorería aplicará el importe indicado en la cuenta por liquidar certificada en el sistema de compensación, y
-
-II. Los adeudos entre entidades se liquidarán mediante la compensación correspondiente dentro del sistema de compensación.
-
-La Tesorería reportará a la Secretaría aquellos retrasos que excedan de 30 días naturales en sus cuentas deudoras.
-
-Los adeudos con vencimientos mayores a 90 días naturales serán cubiertos a través de una cuenta por liquidar certificada especial que, en su caso, expedirá la Secretaría por conducto del área encargada el control presupuestario global con base en los reportes que para tales efectos emita la Tesorería.
-
-En el caso de operaciones de compensación de créditos distintas a las del sistema de compensación, las dependencias y entidades deberán llevar estados de cuenta de todos los servicios que se prestan, incluyendo aquéllos que no sean remunerados.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Para identificar los niveles de liquidez, así como para operar la compensación de créditos o adeudos a que se refiere el párrafo anterior, las dependencias y entidades informarán a la Secretaría de sus depósitos en dinero o valores u otro tipo de operaciones financieras y bancarias, a través del sistema integral de información de los ingresos y gasto público.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-La Secretaría podrá autorizar compensaciones para el pago de obligaciones fiscales de ejercicios anteriores y sus accesorios, siempre que las mismas se realicen durante el ejercicio fiscal que se encuentre vigente.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Los ingresos que se perciban por las operaciones a que se refiere este artículo no se considerarán para efecto del cálculo de los ingresos a que se refiere el artículo 19 de la Ley.
+### CAPÍTULO SÉPTIMO. DEL PODER JUDICIAL
 
 ###### Artículo 28.
 
-La clave presupuestaria constituirá el instrumento para la integración, el registro y control de las afectaciones presupuestarias al Presupuesto de Egresos, y que comprenden el ejercicio, los compromisos, el devengado, los pagos, las ministraciones de fondos, los reintegros, las operaciones que signifiquen cargos y abonos a los presupuestos sin que exista erogación material de fondos, así como las adecuaciones presupuestarias y, en general, todas las afectaciones a los presupuestos autorizados.
+El Poder Judicial aplicará los principios y lineamientos que contempla la Ley y procurará:
 
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
+I. Que sus resoluciones se apeguen al contenido de los instrumentos internacionales suscritos y ratificados por el Estado Mexicano, en materia de igualdad de trato y oportunidades entre mujeres y hombres; y
 
-La clave presupuestaria reflejará los componentes a que se refieren los artículos 4; 25, último párrafo; 27, y 28 de la Ley. Dicha clave será de observancia obligatoria para las dependencias y entidades y servirá de base para los registros de todas las etapas del proceso presupuestario y de los registros contables.
+II. Que se institucionalice al interior del Poder Judicial la perspectiva de género para favorecer las prácticas igualitarias.
 
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Para homogeneizar y sistematizar el registro de los componentes que integran la clave presupuestaria, la Secretaría por conducto de la unidad administrativa responsable de la política y del control presupuestario, emitirá las disposiciones correspondientes durante el proceso de programación y presupuestación observando los componentes siguientes:
-
-I. Administrativos: comprende a los ejecutores de gasto en términos de ramos presupuestarios y unidades responsables, con base en lo dispuesto en el artículo 23 de este Reglamento;
-
-II. Programáticos: comprende la función, subfunción, programa, actividad institucional, proyecto y entidad federativa y demás categorías que faciliten el examen del Presupuesto de Egresos, y
-
-III. Económicos: comprende el objeto de gasto conforme al Clasificador por objeto del gasto; la naturaleza económica y su identificación con la fuente de recursos, y las demás que se establezcan para efectos de su registro e integración contable.
-
-#### SECCIÓN VII. Del nivel de desagregación del proceso presupuestario
-
-### CAPÍTULO II. De la Ministración, Concentración y Reintegro de Recursos
-
-#### SECCIÓN I. De la ministración y reintegro
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 81.
-
-Los acuerdos de ministración se emitirán por la Secretaría para atender:
-
-I. Contingencias;
-
-II. Gastos urgentes de operación, y
-
-III. Actividades que correspondan al ejercicio de las atribuciones de las dependencias y entidades o a su quehacer institucional, a fin de cubrir los respectivos compromisos de pago.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-En el caso del ramo general provisiones salariales y económicas, en el marco del control presupuestario, los recursos del acuerdo de ministración se podrán destinar a cubrir sus compromisos de pago o de otros ejecutores de gasto para el cumplimiento de los programas presupuestarios.
-
-La Secretaría determinará la procedencia de la solicitud y el monto máximo susceptible de otorgamiento.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Los recursos se otorgarán a favor del Oficial Mayor o su equivalente de la dependencia con base en el acuerdo de ministración firmado por el Subsecretario de Egresos.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Los recursos del acuerdo de ministración se mantendrán preferentemente en la Tesorería, para su aplicación conforme a las necesidades de pago de los ejecutores de gasto.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Cuando los recursos se encuentren en la Tesorería, los ejecutores de gasto instruirán a ésta para que realice el pago directo a los beneficiarios o, en casos justificados, entregue el recurso al propio ejecutor de gasto para el cumplimiento de sus funciones.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-En el caso de los ramos generales, el acuerdo de ministración se otorgará a favor de los titulares de las unidades responsables que administren los recursos de dichos ramos.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La Secretaría autorizará la regularización del monto aprobado hasta por un plazo de 120 días naturales a partir de su otorgamiento; en casos justificados, podrá autorizar, por conducto de las unidades administrativas de programación y presupuesto sectoriales, la prórroga de dicha regularización hasta por plazos iguales dentro del ejercicio fiscal de que se trate, precisando en el acuerdo de ministración si será con cargo al presupuesto aprobado o modificado autorizado de la dependencia a la que se haya otorgado.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-En el caso de recursos no ejercidos por causas justificadas no imputables a los ejecutores de gasto, éstos deberán ser concentrados a la Tesorería, sin emitir cuentas por liquidar certificadas.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-En caso de que los acuerdos de ministración, no se hubiesen regularizado totalmente en la fecha establecida, la Secretaría, con base en el reporte que envíe la Tesorería, podrá emitir una cuenta por liquidar certificada especial después de transcurridos 5 días hábiles de la fecha de la comunicación por parte de la Secretaría informando del vencimiento, afectando el presupuesto de la dependencia que corresponda, considerando el monto total del adeudo no regularizado.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 82.
-
-Las entidades que durante el ejercicio fiscal requieran recursos presupuestarios para atender contingencias o gastos urgentes de operación, derivados de la ejecución de sus funciones y programas autorizados, podrán solicitar a la Secretaría a través de su dependencia coordinadora de sector la autorización de un acuerdo de ministración conforme al artículo anterior. Para regularizar el acuerdo que se autorice, las entidades deberán devolver los recursos a la Tesorería por el importe correspondiente con cargo a su presupuesto autorizado, dentro de los plazos que la Secretaría determine para dicho acuerdo de ministración.
-
-Para los requerimientos de recursos a favor de los órganos administrativos desconcentrados y las entidades apoyadas, los acuerdos de ministración se otorgarán a favor del Oficial Mayor de la dependencia coordinadora de sector o el servidor público equivalente en la misma que, conforme a sus atribuciones, sea responsable de autorizar la ministración de recursos, cuando se trate del presupuesto de transferencias salvo que por disposiciones de ley específica, decreto de creación o reglamento interior de la dependencia, corresponda a los propios órganos administrativos desconcentrados o entidades apoyadas la administración de los recursos asignados a su favor en el presupuesto autorizado del ramo administrativo, en cuyo caso éstos serán los deudores diversos.
-
-###### Artículo 83.
-
-El Ejecutivo Federal, por conducto de la Secretaría, podrá suspender, diferir o determinar reducciones a las ministraciones de recursos a las dependencias y entidades y, en su caso, solicitar el reintegro de las mismas cuando se presente alguno de los siguientes supuestos:
-
-I. No envíen en tiempo y forma la información que les sea requerida en relación con el ejercicio de sus programas y presupuestos;
-
-II. Cuando las entidades no cumplan con las metas de los programas aprobados o bien se detecten desviaciones en la ejecución o en la aplicación de los recursos correspondientes;
-
-III. Las entidades no remitan la cuenta comprobada a más tardar el día 15 del mes siguiente al del ejercicio de dichos recursos, no cumplan al cierre del ejercicio o término del plazo establecido con las metas de los programas aprobados, o bien se detecten desviaciones en la ejecución o aplicación de los recursos correspondientes, lo que motivará la inmediata suspensión de las subsecuentes ministraciones de recursos que por el mismo concepto se hubieren autorizado, así como el reintegro a la dependencia coordinadora de sector de los que se hayan suministrado;
-
-IV. Las entidades no cumplan con las disposiciones aplicables en el manejo de sus disponibilidades financieras;
-
-V. No restituyan los recursos que correspondan a los programas que, en su caso, se establezcan para cubrir una compensación económica a los servidores públicos que decidan voluntariamente concluir en definitiva sus servicios en la Administración Pública Federal;
-
-VI. No cumplan con la entrega de información en los términos que establezca el sistema integral de información de los ingresos y gasto público, y
-
-VII. En general, no ejerzan sus presupuestos de conformidad con lo previsto en la Ley, este Reglamento y en las demás disposiciones aplicables.
-
-###### Artículo 84.
-
-Los reintegros se deberán realizar dentro de los 3 días hábiles siguientes a que se hayan recibido los recursos como devolución o realizado el pago de las nóminas para las cuales fueron entregados. En el caso de excedentes de servicios personales enviados al interior de la República o fuera del país, el reintegro deberá efectuarse en un plazo que no exceda de 10 días hábiles después de realizado el pago respectivo.
-
-Para el registro y restitución de los recursos al Presupuesto de Egresos, la dependencia emitirá un aviso de reintegro.
-
-###### Artículo 85.
-
-El reintegro de recursos por parte de las dependencias y entidades, éstas últimas respecto de los subsidios y transferencias que reciban, deberá realizarse en conjunto con los rendimientos que se hubieren obtenido. Para efectos de lo anterior, no se considerará que se causa daño a la hacienda pública por el reintegro extemporáneo de recursos a la Tesorería, siempre y cuando los fondos hayan estado depositados en todo momento en cuentas bancarias o de inversión de la dependencia o entidad correspondiente.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-El incumplimiento en el reintegro oportuno generará, sin exceder los presupuestos autorizados correspondientes, la obligación de las dependencias y entidades de cubrir cargas financieras a la Tesorería, las cuales serán determinadas por ésta en términos de las disposiciones que emita para tal efecto.
-
-Lo dispuesto en los párrafos anteriores, sin perjuicio de las sanciones a que se hagan acreedores los servidores públicos obligados al reintegro, por su realización extemporánea, en términos de las disposiciones aplicables.
-
-#### SECCIÓN II. Del fondo rotatorio
-
-###### Artículo 86.
-
-El fondo rotatorio o revolvente es el mecanismo presupuestario que la Secretaría autoriza expresamente a cada una de las dependencias para que cubran compromisos derivados del ejercicio de sus funciones, programas y presupuestos autorizados.
-
-Las solicitudes de las dependencias para la autorización de fondo rotatorio o revolvente deberán observar lo siguiente:
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-I. El fondo que se autorice para cubrir gastos urgentes de operación, preferentemente no deberá ser mayor al importe autorizado en el ejercicio inmediato anterior y, en caso de ser mayor, no deberá rebasar el 8 por ciento del monto promedio mensual de los dos ejercicios inmediatos anteriores correspondiente al presupuesto ejercido en los capítulos de materiales y suministros, y servicios generales del Clasificador por objeto del gasto, y
-
-II. Se deberán justificar ante la Secretaría los montos solicitados.
-
-La Secretaría podrá autorizar el uso de fondos rotatorios o revolvente para atender otros compromisos, siempre y cuando dichas erogaciones se justifiquen.
-
-La Secretaría resolverá en un plazo de 10 días hábiles a partir de la recepción de las solicitudes de fondo rotatorio o revolvente, siempre que se trate de recursos que se ejercerán y regularizarán con cargo al presupuesto modificado autorizado del mismo ejercicio fiscal para el que se haya solicitado.
-
-Transcurrido el plazo a que se refiere el párrafo anterior sin que la Secretaría emita comunicación alguna, en términos del artículo 5 de este Reglamento, las solicitudes se tendrán por autorizadas y ésta deberá informarlo por escrito a petición de la dependencia correspondiente dentro de un plazo de 5 días hábiles.
-
-Los recursos del fondo rotatorio o revolvente serán entregados por la Tesorería a la Oficialía Mayor de las dependencias o su equivalente con base en el acuerdo de ministración que emita la Secretaría. Los acuerdos se regularizarán en los términos del artículo 81 de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 86 A. Las dependencias podrán solicitar autorización a la Secretaría para la creación del fondo rotatorio ajustándose al porcentaje y términos previstos en la fracción I del artículo anterior, con cargo a los recursos de su presupuesto autorizado, sin requerir de un acuerdo de ministración.
-
-El importe del fondo rotatorio que se autorice con cargo al presupuesto se gestionará a través de cuentas por liquidar certificadas afectando la partida establecida para estos efectos en el Clasificador por objeto del gasto. Dicha partida, quedará afectada temporalmente y se considerará como gastos a comprobar, en tanto se efectúan las regularizaciones correspondientes a través de las partidas específicas de gasto, observando las disposiciones que para tal efecto emita la unidad administrativa responsable de la política y del control presupuestario.
-
-#### SECCIÓN III. De las disponibilidades financieras
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 87.
-
-La inversión del saldo de las disponibilidades financieras deberá hacerse conforme a lo señalado en esta Sección y, en su caso, a las disposiciones generales que al efecto emita la Secretaría. La inversión de dicho saldo deberá realizarse únicamente a través de los intermediarios financieros autorizados por las autoridades competentes, en términos de las disposiciones aplicables.
-
-###### Artículo 88.
-
-Las entidades sólo podrán realizar, con cargo a sus disponibilidades financieras, inversiones en los títulos u operaciones siguientes, siempre que estén denominados en moneda nacional o en unidades de inversión:
-
-I. Valores gubernamentales;
-
-II. Operaciones financieras a cargo del Gobierno Federal;
-
-III. Depósitos a la vista en instituciones de banca múltiple, sin que el saldo de éstos exceda el 10 por ciento del saldo de las disponibilidades financieras;
-
-IV. Depósitos en la Tesorería, y
-
-V. Acciones representativas del capital social de las sociedades de inversión a que se refiere el siguiente artículo.
-
-El saldo de las disponibilidades financieras deberá invertirse de conformidad con la estrategia financiera diseñada y aprobada por las instancias competentes de las entidades, tomando en consideración los requerimientos de las disponibilidades financieras a lo largo del tiempo.
-
-Las entidades no podrán celebrar acto jurídico alguno que involucre disponibilidades financieras y que tenga como consecuencia la pérdida del control directo de aquéllas por parte de la propia entidad.
-
-###### Artículo 89.
-
-Las sociedades de inversión podrán ser aquellas en cuyo régimen de inversión tengan como activos objeto de inversión valores gubernamentales.
-
-Las entidades que no tengan contratada a una institución financiera como custodio de sus disponibilidades financieras deberán invertir la totalidad del saldo en acciones representativas del capital social de las sociedades de inversión.
-
-La inversión de una misma entidad en acciones representativas del capital social de una sociedad de inversión no podrá exceder el 30 por ciento de los activos totales de esa sociedad de inversión.
-
-###### Artículo 90.
-
-Las operaciones de reporto con valores gubernamentales que realicen las entidades, se sujetarán a lo siguiente:
-
-I. Sólo podrán actuar como reportadores en las operaciones respectivas;
-
-II. Las contrapartes deberán cumplir con las calificaciones mínimas que establezca la Secretaría;
-
-III. En caso de que las entidades tengan contratada una institución financiera como custodio de sus disponibilidades financieras, éstas deberán informar a dicha institución todas las operaciones de reporto el mismo día en que las realicen. En el caso de reportos con plazos mayores a 3 días, la custodia de los valores gubernamentales objeto de la operación deberá quedar a cargo de la institución financiera que actúe como custodio.
-
-###### Artículo 91.
-
-En caso de que a juicio de las entidades el volumen de operaciones y el monto del saldo de las disponibilidades financieras lo justifiquen, la liquidación de todas las operaciones realizadas con esas disponibilidades financieras, así como la custodia de todos los valores gubernamentales en las que aquéllas se inviertan, podrán quedar a cargo de una institución financiera que preste dichos servicios.
-
-A las sociedades nacionales de crédito, la Financiera Rural y los Fideicomisos Instituidos en Relación con la Agricultura que administra el Banco de México, así como a las empresas de participación estatal minoritaria, no les será aplicable lo dispuesto en esta Sección.
+### CAPÍTULO OCTAVO. DE AYUNTAMIENTOS
 
 ###### Artículo 29.
 
-Para efectos de la clasificación económica, la Secretaría podrá determinar distintos niveles de desagregación basados en los capítulos, conceptos y partidas del Clasificador por objeto del gasto, en las etapas de programación, presupuesto, control y ejercicio.
+Corresponde a los Ayuntamientos, el ejercicio de las atribuciones siguientes:
 
-En la determinación de los niveles de desagregación aplicables a los ramos, cuando menos se deberán observar las premisas siguientes:
+I. Diseñar, implementar y evaluar políticas municipales en materia de Igualdad de trato y oportunidades entre mujeres y hombres, en concordancia con la Política Estatal y Nacional;
 
-I. En la formulación, integración y presentación del proyecto de Presupuesto de Egresos, en los términos establecidos en el artículo 41, fracción III, inciso b) de la Ley;
+II. Coadyuvar con el Ejecutivo Estatal, en la consolidación de los programas en materia de Igualdad de trato y oportunidades entre mujeres y hombres;
 
-II. En la comunicación que realice la Secretaría respecto de la distribución de los presupuestos aprobados de los ramos a que se refiere el artículo 44, párrafo primero de la Ley, el nivel de desagregación se determinará conforme al presupuesto aprobado;
+III. Elaborar el Presupuesto de Egresos de los Ayuntamientos con enfoque de género, incorporando la asignación de recursos para el cumplimiento en el ámbito de su competencia, de las políticas de Igualdad de trato y oportunidades entre mujeres y hombres;
 
-III. En las adecuaciones presupuestarias, la desagregación se determinará a nivel de capítulo o concepto y, en su caso, partidas específicas que determine la Secretaría por motivos de control presupuestario, y
+IV. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo que promuevan la Igualdad de trato y oportunidades entre mujeres y hombres;
 
-IV. En el ejercicio presupuestario, la desagregación será a nivel de partida de gasto para garantizar la transparencia en el pago y la efectiva rendición de cuentas.
+V. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad de trato y oportunidades entre mujeres y hombres, tanto en las áreas urbanas como en las rurales; y
 
-Los niveles de desagregación que se determinen conforme a las disposiciones generales que emita la Secretaría constituirán la base para el registro de las operaciones presupuestarias en los sistemas de control que administra y aquéllos que son responsabilidad de las dependencias y entidades.
+VI. Las demás que sean necesarias para cumplir el objeto de esta Ley y las que le confieran otros ordenamientos jurídicos.
 
-### CAPÍTULO III. De las Adecuaciones Presupuestarias
-
-###### Artículo 92.
-
-Las adecuaciones presupuestarias externas requerirán autorización de la Secretaría, y las internas se realizarán bajo la responsabilidad de las dependencias y entidades; ambas se tramitarán o informarán, respectivamente, ante la Secretaría a través de la dependencia coordinadora de sector, cuando corresponda, en los términos y plazos establecidos en los artículos 96 y 99 de este Reglamento.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-En caso de que las adecuaciones presupuestarias impliquen variaciones a las metas aprobadas, la dependencia o entidad deberá informar sobre dichas variaciones a través de los sistemas que para el efecto determine la Secretaría, quedando bajo la responsabilidad de la dependencia o entidad la explicación correspondiente sobre dichas variaciones en la Cuenta Pública, en el Informe de Avance de Gestión Financiera, y en los informes trimestrales.
-
-Las dependencias y entidades podrán utilizar los ahorros presupuestarios durante el ejercicio fiscal en que se generen para aplicarlos a programas y proyectos prioritarios. Adicionalmente, se podrán utilizar para cubrir obligaciones de pago previstas en leyes o derivadas del cumplimiento de laudos.
-
-La aprobación de la Secretaría para utilizar los ahorros presupuestarios se otorgará mediante las adecuaciones presupuestarias externas previstas en este Reglamento, y conforme a lo que establezca el Presupuesto de Egresos.
-
-#### SECCIÓN I. De las adecuaciones presupuestarias para dependencias
-
-###### Artículo 93.
-
-Las adecuaciones presupuestarias externas de las dependencias son las siguientes:
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-I. Traspasos de recursos derivados de modificaciones a la estructura administrativa, cuando se realicen de un ramo a otro ramo, previo acuerdo suscrito por los Oficiales Mayores o equivalentes respectivos que justifiquen las causas.
-
-Se exceptúan de lo anterior las adecuaciones presupuestarias entre ramos generales, las cuales deberán realizarse con la autorización de los titulares de las unidades responsables encargadas de la administración de dichos ramos;
-
-II. Traspasos de recursos derivados de modificaciones a las categorías de la estructura funcional y programática cuando:
-
-a) Se incrementen las asignaciones del grupo de las funciones de gobierno;
-
-b) Se reduzcan las asignaciones del grupo de las funciones de desarrollo social;
-
-c) Se trate de modificaciones a las asignaciones de los programas sujetos a reglas de operación, dentro de la categoría programática que corresponda;
-
-III. Traspasos de recursos derivados de modificaciones a la estructura económica, cuando se realicen:
-
-a) De gasto de capital a gasto corriente;
-
-b) Por incrementos al presupuesto regularizable de servicios personales y otras medidas contingentes derivados de la aplicación de las previsiones salariales y económicas;
-
-c) De servicios personales a otros capítulos de gasto y viceversa, sin incrementar la asignación global de servicios personales, o se trate de movimientos compensados en servicios personales entre ramos administrativos y generales;
-
-d) Variaciones en las asignaciones de subsidios, salvo las excepciones previstas en las disposiciones aplicables;
-
-e) Afectaciones en las asignaciones de recursos a las entidades federativas, salvo las excepciones previstas en las disposiciones aplicables;
-
-f) Por incrementos o disminuciones a los conceptos de gasto de inversión financiera, previsiones económicas, ayudas, pensiones y jubilaciones, así como sus equivalentes para transferencias. Tratándose de las erogaciones por concepto de donativos, en ningún caso podrá incrementarse la asignación original aprobada en el Presupuesto de Egresos;
-
-g) Afectaciones en las asignaciones de los programas y proyectos financiados con crédito externo;
-
-h) Afectaciones en las asignaciones destinadas para servicios de comunicación social, en términos de las disposiciones generales aplicables;
-
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2014)</small>
-
-i) Afectaciones en las asignaciones destinadas a los programas y proyectos de inversión, en los términos de las disposiciones que emita la Secretaría;
-
-IV. Modificaciones a los calendarios de presupuesto no compensadas y, en su caso, las compensadas que establezca la Secretaría;
-
-V. Ampliaciones líquidas al Presupuesto de Egresos derivadas de la generación o captación de ingresos excedentes, así como las reducciones líquidas al Presupuesto de Egresos, en los términos del artículo 108 de este Reglamento, y
-
-VI. Los movimientos a través del ramo general relativo a provisiones salariales y económicas por motivos de control presupuestario, en los términos de los artículos 105 y 106 de este Reglamento.
-
-En adición a lo previsto en este artículo, las adecuaciones presupuestarias y movimientos en servicios personales se sujetarán a lo dispuesto por la Sección III de este Capítulo.
-
-###### Artículo 94.
-
-La autorización de las adecuaciones presupuestarias externas a que se refiere el artículo anterior se tendrá por otorgada una vez afectado el presupuesto modificado autorizado en el sistema de control de adecuaciones presupuestarias que administra la Secretaría por haber cumplido los requisitos establecidos para ello, o bien cuando se emitan las autorizaciones en forma expresa, en los casos que ésta determine.
-
-Las dependencias podrán gestionar, a través del sistema a que se refiere el párrafo anterior, las solicitudes de adecuaciones presupuestarias externas ante la Secretaría dentro del periodo comprendido entre el primer día hábil de enero y el 20 de diciembre, con excepción de las que ésta determine mediante disposiciones generales.
-
-###### Artículo 95.
-
-El procedimiento para las adecuaciones presupuestarias externas de las dependencias es el siguiente:
-
-I. El trámite ante la Secretaría se realizará por conducto de la Oficialía Mayor o equivalente de la dependencia;
-
-II. La solicitud deberá justificarse identificando cada una de las modificaciones en el presupuesto, así como el calendario respectivo;
-
-III. Tratándose de ingresos excedentes, se requerirá el dictamen o validación de la notificación de la Secretaría sobre los ingresos excedentes obtenidos;
-
-IV. La Secretaría, a través del sistema para el control de las adecuaciones presupuestarias, establecerá los mecanismos que permitan resolver las solicitudes de las adecuaciones presupuestarias en los términos y plazos que se determinen en las disposiciones aplicables;
-
-V. Cuando las solicitudes de adecuaciones presupuestarias necesiten datos complementarios para su resolución, la Secretaría podrá requerir información adicional a la dependencia de que se trate, lo cual volverá a iniciar el trámite correspondiente, y
-
-VI. La Secretaría emitirá las disposiciones generales que observarán las dependencias para las operaciones relativas a la deuda pública flotante o pasivo circulante, así como las que se realicen con motivo del cierre del ejercicio fiscal que corresponda.
-
-###### Artículo 96.
-
-La Secretaría comunicará a través del sistema de control de adecuaciones presupuestarias la resolución de las adecuaciones presupuestarias externas a las dependencias una vez recibidas y registradas en dicho sistema durante el periodo de vigencia del ejercicio fiscal que corresponda, y a más tardar el último día hábil de diciembre, dentro de los 12 días hábiles posteriores a la recepción de la solicitud, salvo en el supuesto del artículo 93, fracción V de este Reglamento, referente a ampliaciones líquidas, en cuyo caso se observarán los plazos establecidos en materia de ingresos excedentes previstos en el artículo 112 del mismo, así como los casos en que el cómputo de los días implique rebasar el último día hábil de diciembre de cada ejercicio.
-
-Las adecuaciones presupuestarias externas que resulten improcedentes se turnarán a las dependencias dentro de los plazos señalados en este artículo a través del sistema de control de las adecuaciones presupuestarias.
-
-###### Artículo 97.
-
-Las adecuaciones presupuestarias internas no requieren la autorización de la Secretaría.
-
-El Oficial Mayor o su equivalente, por conducto de la Dirección General de Programación, Organización y Presupuesto o su equivalente de cada dependencia, autorizará bajo su responsabilidad las adecuaciones presupuestarias internas. Las adecuaciones presupuestarias internas de los ramos generales serán autorizadas por las unidades responsables que los administren.
-
-Las dependencias, durante el ejercicio fiscal de que se trate, registrarán en el módulo correspondiente del sistema de control de las adecuaciones presupuestarias sus adecuaciones presupuestarias internas. Excepcionalmente, las adecuaciones presupuestarias correspondientes al mes de diciembre, incluidas las de regularización al cierre del ejercicio, se podrán registrar en dicho sistema a más tardar el último día hábil de febrero del siguiente ejercicio fiscal.
-
-#### SECCIÓN II. De las adecuaciones presupuestarias para entidades
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 98.
-
-Las adecuaciones presupuestarias de flujo de efectivo de las entidades, serán con el nivel de desagregación que solicite la Secretaría a través de los sistemas de control presupuestario.
-
-I. (DEROGADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)
-
-II. (DEROGADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)
-
-III. (DEROGADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)
-
-IV. (DEROGADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)
-
-V. (DEROGADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)
-
-VI. (DEROGADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)
-
-###### Artículo 99.
-
-El procedimiento general para las adecuaciones presupuestarias externas de las entidades es el siguiente:
-
-I. El trámite ante la Secretaría se realizará por conducto de la dependencia coordinadora de sector;
-
-II. La solicitud deberá justificarse, identificando cada una de las modificaciones en el presupuesto, así como el calendario respectivo;
-
-III. Tratándose de ingresos excedentes, se requerirá el previo dictamen correspondiente de la Secretaría, o informar a ésta sobre la obtención de los mismos, y se podrán autorizar como erogaciones adicionales considerando la relación entre ingreso y gasto para efectos del cumplimiento del balance presupuestario;
-
-IV. En los rubros de endeudamiento o de intermediación financiera se requerirá la previa opinión o autorización de las áreas competentes de la Secretaría;
-
-V. Las modificaciones al balance financiero de las entidades deberán considerar además de las políticas de gasto, el principio de compensación o el marco del cumplimiento del balance público, y
-
-VI. Las modificaciones que impliquen incrementos al presupuesto total regularizable de servicios personales se sujetarán a lo previsto en el artículo 103 de este Reglamento.
-
-La Secretaría, con base en las solicitudes de las entidades y considerando la opinión de la dependencia coordinadora de sector que corresponda, determinará la procedencia de las adecuaciones presupuestarias externas, y comunicará, a través del sistema de control de adecuaciones presupuestarias, su resolución durante la vigencia del ejercicio, a más tardar el último día hábil de diciembre, en un plazo no mayor a 10 días hábiles posteriores a la recepción de la solicitud.
-
-La Secretaría podrá requerir información adicional a la entidad de que se trate cuando las solicitudes de adecuaciones presupuestarias necesiten datos complementarios para su resolución, lo cual volverá a iniciar el trámite correspondiente.
-
-Las solicitudes de adecuaciones presupuestarias externas correspondientes a la regularización de operaciones presupuestarias devengadas, excepcionalmente se podrán presentar por las entidades a la Secretaría, a través de su dependencia coordinadora de sector, a más tardar el último día hábil de enero del siguiente ejercicio fiscal, para su resolución dentro de los 12 días hábiles siguientes a la presentación de las solicitudes, cuando correspondan a situaciones supervenientes, exclusivamente para cargos por diferencias cambiarias, variaciones en tasas de interés, atención de siniestros, indemnizaciones por daños causados a la población o al medio ambiente, así como obligaciones derivadas de ley, siempre que se trate de operaciones que se hayan realizado, contabilizado y consignado en los registros internos de su flujo de efectivo al 31 de diciembre del ejercicio fiscal que corresponda.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-A fin de contar con los plazos necesarios para gestionar ante la Secretaría las autorizaciones correspondientes, los titulares de las entidades podrán solicitar la autorización global del órgano de gobierno respecto de las modificaciones a sus presupuestos en flujo de efectivo que deban realizarse de manera regular, esto, sin perjuicio de que el propio órgano de gobierno determine los casos que requieran de la autorización específica para continuar con el trámite.
-
-Los flujos de efectivo que, en su caso, resulten modificados en los términos de este artículo se considerarán para la integración de la información de la Cuenta Pública.
-
-###### Artículo 100.
-
-Las adecuaciones presupuestarias no comprendidas en el artículo 59 de la Ley se considerarán adecuaciones internas.
-
-Las entidades informarán sus adecuaciones presupuestarias internas a la Secretaría, a través de los medios que ésta determine, a nivel de los rubros de la carátula de flujo de efectivo a partir del primer día hábil de enero y hasta el último día hábil de diciembre. Aquéllas correspondientes al mes de diciembre, se podrán informar a más tardar el último día hábil de enero del siguiente ejercicio fiscal.
-
-#### SECCIÓN III. De las adecuaciones presupuestarias y movimientos en servicios personales
-
-###### Artículo 101.
-
-Las dependencias y las entidades apoyadas, adicionalmente a las disposiciones anteriores en materia de adecuaciones presupuestarias externas, deberán sujetarse a lo siguiente para realizar traspasos de recursos de las medidas salariales y económicas, contando con la autorización previa de la Secretaría y, en su caso, de sus órganos de gobierno:
-
-I. Los montos determinados para cada una de las medidas salariales y económicas no podrán destinarse para cubrir los fines previstos en las otras, salvo cuando se trate de sufragar medidas de carácter contingente, económico y laboral, y
-
-II. Las previsiones salariales y económicas no podrán ser traspasadas a otros ramos, con excepción de traspasos al ramo general de control presupuestario de provisiones salariales y económicas.
-
-###### Artículo 102.
-
-Las entidades no apoyadas, siempre que cuenten con la previa autorización de la Secretaría, podrán traspasar recursos del capítulo de servicios personales a otros capítulos de gasto, en los siguientes casos:
-
-I. Cuando se trate de medidas permanentes, siempre que se cancelen las plazas presupuestarias correspondientes y los recursos se destinen a incrementar la eficiencia de los programas aprobados en el Presupuesto de Egresos, y
-
-II. Cuando se trate de medidas contingentes de carácter temporal, no recurrentes, siempre que los recursos se destinen a gasto de inversión.
-
-#### SECCIÓN IV. De los movimientos a las estructuras ocupacionales
-
-###### Artículo 103.
-
-Los movimientos por creación, modificación, cancelación o cualquier afectación a las plazas, remuneraciones o al presupuesto de servicios personales, se realizarán a través de los sistemas que se determinen.
-
-La Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, atenderán las solicitudes de las dependencias y entidades conforme a:
-
-I. La Secretaría al emitir la resolución de viabilidad presupuestaria deberá verificar que la propuesta se encuentre compensada dentro del presupuesto de servicios personales y que no incremente el regularizable del ejercicio fiscal inmediato siguiente, salvo que se trate de la creación de plazas prevista para esos efectos en el Presupuesto de Egresos del ejercicio fiscal corriente y evaluará el efecto general en el esquema de remuneraciones de la Administración Pública Federal, y
-
-II. La Función Pública atenderá las solicitudes relativas a la estructura ocupacional y emitirá el dictamen organizacional correspondiente, previo dictamen presupuestario favorable emitido por la Secretaría. La Función Pública procederá a la aprobación y registro de la estructura ocupacional.
-
-Las dependencias y entidades gestionarán las adecuaciones presupuestarias que, en su caso, requiera la propuesta respectiva, a fin de contar con la viabilidad presupuestaria. La operación del movimiento propuesto podrá realizarse una vez que se cuente con la autorización de la Secretaría y se haya realizado la adecuación presupuestaria que corresponda, en los términos de las fracciones anteriores y de conformidad con las disposiciones aplicables.
-
-#### SECCIÓN V. De las modificaciones al inventario de plazas y plantillas de personal
-
-###### Artículo 104.
-
-Los movimientos a las estructuras orgánicas, ocupacionales y salariales que afecten al inventario de plazas o a las plantillas de personal se deberán realizar de conformidad con las disposiciones generales que emitan la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, a través de los medios o sistemas respectivos, observando la secuencia siguiente:
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-I. La dependencia o entidad deberá presentar ante la Secretaría la información presupuestaria, y en los casos de cambio de grupo o de grado o creación de puestos se acompañará el dictamen de validación emitido por el correspondiente sistema de valuación de puestos autorizado por la Función Pública, a efecto de que se emita, en su caso, el dictamen presupuestario respectivo;
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-II. La Secretaría comunicará a la dependencia o entidad, así como a la Función Pública el resultado de su dictamen presupuestario. De ser favorable dicho dictamen, la dependencia o entidad deberá tramitar, en su caso, las adecuaciones presupuestarias correspondientes;
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-III. Las dependencias y entidades presentarán ante la Función Pública, en los medios que ésta determine, la solicitud que contenga la justificación y la información soporte para el análisis organizacional, acompañada del dictamen presupuestario que corresponda y, en su caso, de las adecuaciones presupuestarias respectivas, y
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-IV. La Función Pública, con base en el análisis organizacional que realice y en el dictamen presupuestario emitido por la Secretaría, en su caso, aprobará y registrará la estructura correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Cuando los movimientos a las estructuras orgánicas u ocupacionales impliquen únicamente modificaciones a los elementos de los puestos, referentes a la descripción y perfil, por los cuales no se afecte el inventario de plazas o plantillas de personal, sólo se requerirá informar a la Secretaría y a la Función Pública, para efectos de su registro en los sistemas correspondientes, en términos de las disposiciones aplicables.
-
-Tratándose de entidades apoyadas, cuando las reducciones de recursos que determine procedentes la Secretaría correspondan a transferencias, la operación se reflejará como una reducción al ramo del que provengan los recursos, así como una disminución por el mismo importe tanto en los ingresos como en los egresos en el flujo de efectivo.
-
-Cuando la reducción corresponda a recursos propios, la operación se reflejará en la carátula de flujo de efectivo respectiva como una disminución al gasto autorizado y como un aumento en las disponibilidades de la entidad.
-
-Las dependencias y entidades sólo podrán realizar los nombramientos que correspondan, así como el ejercicio y pago que se derive de dichos movimientos cuando cuenten con las autorizaciones y registros previstos en este artículo.
+### CAPÍTULO NOVENO. DE LA IGUALDAD EN LOS DIVERSOS ÁMBITOS
 
 ###### Artículo 30.
 
-Los niveles de desagregación aplicables a las entidades que servirán para comunicar el presupuesto aprobado a que se refiere el artículo 44, párrafo primero de la Ley observarán lo siguiente:
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deberán garantizar la igualdad de trato y oportunidades entre mujeres y hombres en la vida económica y laboral, vigilando que las personas físicas y jurídicas colectivas, generadoras de empleo den cumplimiento a la Ley, para lo cual adoptarán medidas dirigidas a erradicar cualquier tipo de discriminación laboral entre mujeres y hombres, desarrollando las siguientes acciones:
 
-I. Los flujos de efectivo deberán tener al menos una combinación entre naturaleza económica, capítulo de gasto o, en su caso, rubro general o específico, en la forma siguiente:
+I. Impulsar liderazgos igualitarios;
 
-a) Gasto corriente:
+II. Promover políticas públicas de empleo que tengan como objetivo prioritario aumentar la participación de las mujeres en el mercado laboral y avanzar en la igualdad de trato y oportunidades entre mujeres y hombres, para ello, se deberán implementar acciones afirmativas para mejorar las oportunidades a las mujeres, así como su permanencia, potenciando su nivel formativo y su adaptación a los requerimientos del mercado de trabajo;
 
-i) Servicios personales, a nivel de capítulo;
+III. Promover el uso de un lenguaje no sexista en anuncios de vacantes u ofertas de trabajo, libres de cualquier tipo de expresión discriminatoria;
 
-ii) De operación, que integra los capítulos de materiales y suministros y servicios generales;
+IV. Fomentar la integración de políticas públicas con perspectiva de género en materia económica;
 
-iii) Subsidios, que integra los conceptos de gasto correspondientes;
+V. Implementar acciones afirmativas para reducir los factores que relegan la incorporación de las personas al ámbito laboral, en razón de su sexo a fin de erradicarlos;
 
-iv) Costo financiero, que comprende los intereses, comisiones y gastos de la deuda pública;
+VI. Fomentar el acceso al trabajo de las personas que en razón de su sexo están relegadas de puestos directivos y generar los mecanismos necesarios para su capacitación;
 
-v) Otras erogaciones corrientes, que integra los capítulos distintos a los subincisos anteriores;
+VII. Garantizar que en su Programa Operativo Anual se especifique una partida presupuestaria para el debido cumplimiento de la Ley;
 
-b) Gasto de capital:
+VIII. Crear mecanismos de coordinación con la iniciativa privada, a efecto de fomentar la igualdad de trato y oportunidades entre hombres y mujeres que laboran en ese sector;
 
-i) Inversión física, que integra los capítulos de bienes muebles e inmuebles y de obras públicas;
+IX. Evitar la segregación de las personas por razón de su sexo, del mercado de trabajo y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico;
 
-ii) Inversión financiera, que integra los conceptos de gasto correspondientes;
+X. Realizar campañas que fomenten la contratación de mujeres para hacer efectiva la igualdad de trato y oportunidades entre mujeres y hombres en los ámbitos público, social y privado;
 
-iii) Subsidios para inversión, que integra los conceptos de gasto correspondientes;
+XI. Implementar en coordinación con las autoridades competentes medidas destinadas a abatir cualquier tipo de discriminación, violencia, hostigamiento o acoso por razón de sexo;
 
-iv) Otras erogaciones de capital, que integra los capítulos distintos a los subincisos anteriores;
+XII. Promover investigaciones con perspectiva de género en materia de salud y de seguridad en el trabajo;
 
-c) Operaciones ajenas:
+XIII. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en sus procesos de selección, contratación y ascensos;
 
-En las adecuaciones presupuestarias que se realizarán a nivel de flujo de efectivo conforme a esta fracción, el nivel de desagregación se determinará en función del grado de control que requiera la Secretaría, y
+XIV. Proponer en el ámbito de su competencia, el otorgamiento de estímulos de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas que incorporen medidas innovadoras para propiciar la igualdad de trato y oportunidades en sus organizaciones y que proporcionen servicios que faciliten la conciliación de la vida familiar y laboral del personal a su cargo;
 
-II. En la perspectiva programática, el nivel de desagregación aplicable estará orientado a identificar las asignaciones de los programas presupuestarios de las entidades en la forma siguiente:
+XV. Garantizar medidas de apoyo para lograr la inserción laboral de personas en situación de exclusión social, que sufran violencia de género, que tengan alguna enfermedad grave, incurable y mortal, cuenten con alguna discapacidad, hayan ejercido la prostitución, sean inmigrantes, indígenas, adultos mayores, que hayan sido condenadas por la comisión de un delito o en general, aquellas que han sido objeto de discriminación;
 
-a) La desagregación se determinará a nivel de capítulo o concepto y, en su caso, partidas específicas que determine la Secretaría por motivos de control presupuestario;
+XVI. Promover que al interior de los ámbitos público y privado, se apliquen instrumentos de medición de diversos tópicos en materia de igualdad, para conocer el grado de satisfacción de los empleados en su respectivo espacio laboral; y
 
-b) En el ejercicio presupuestario, la desagregación será a nivel de partida de gasto para garantizar la transparencia en el pago y la efectiva rendición de cuentas.
-
-La Secretaría determinará, conforme a las características operativas y financieras, los contenidos específicos o informativos de los flujos de efectivo de las entidades.
-
-#### SECCIÓN VIII. De la integración del presupuesto de servicios personales
+XVII. Mejorar los sistemas estatales de inspección del trabajo, en lo que se refiere a las normas de igualdad de retribución.
 
 ###### Artículo 31.
 
-El presupuesto correspondiente a las remuneraciones de los servidores públicos de las dependencias y entidades se integrará conforme a los tipos de personal siguientes:
+La autoridades estatales y municipales propondrán los mecanismos de operación adecuados para la participación equitativa entre mujeres y hombres en la vida política estatal, desarrollando las acciones siguientes:
 
-I. Civiles, que se agrupan en personal de base y confianza de las dependencias y entidades, en los términos siguientes:
+I. Vigilar el cumplimiento de las leyes que tengan por objeto la participación de las mujeres en la vida política estatal;
 
-a) Personal operativo, que comprende al personal que realiza labores de apoyo técnicas o administrativas;
+II. Promover la participación justa y equitativa de mujeres y hombres en el Gobierno Estatal y Municipal para que ocupen cargos de nivel directivo, en razón de sus capacidades, actitudes y aptitudes;
 
-b) Personal de categorías creadas por rama de especialidad y que para efectos programáticos se organizan y clasifican en las siguientes funciones administrativas:
+III. Desarrollar y actualizar estadísticas desagregadas por sexo, que informen sobre la ocupación de puestos decisorios o cargos directivos en el sector público de hombres y mujeres, con la finalidad de impulsar la igualdad de oportunidades;
 
-i) Servicio Exterior Mexicano: personal de carrera y asimilado;
+IV. Fomentar la elaboración de programas de formación y capacitación para apoyar el surgimiento y consolidación de las organizaciones de mujeres y promover su participación activa en organizaciones sociales, políticas, empresariales y estudiantiles;
 
-ii) Educación: personal de investigación, académico, docente, de apoyo y asistencia, y directivo de educación básica, media superior y superior;
+V. Promover la colaboración de mujeres en las instancias de participación estatal y municipal incluyéndolas en la búsqueda de soluciones a los problemas e intereses del Estado de México;
 
-iii) Salud: personal de las ramas médica, paramédica y grupos afines;
+VI. Impulsar campañas de difusión, estrategias, programas, proyectos, actividades de sensibilización y capacitación que fortalezcan una democracia donde la participación política igualitaria entre mujeres y hombres sea el fundamento del desarrollo sostenible y de la paz social; y
 
-iv) Investigación científica y desarrollo tecnológico: personal investigador;
-
-v) Seguridad pública: personal para instituciones policiales, para la prevención y readaptación social, y para el tutelaje de menores;
-
-vi) Procuración de justicia: agentes del Ministerio Público de la Federación y de la policía federal investigadora;
-
-vii) Gobernación: personal de investigación en seguridad nacional, de inspección y control migratorio;
-
-viii) Hacienda: personal de seguridad fiscal y aduanera;
-
-ix) Las demás categorías que se establezcan conforme a las disposiciones aplicables;
-
-c) Personal de mando, que comprende los grupos de servidores públicos de confianza con puestos de:
-
-i) Mando: de nivel Secretario a Jefe de Departamento, homólogos o equivalentes;
-
-ii) Enlace: personal que depende de los puestos de mando y realiza funciones o actividades de coordinación o de mando dentro de la estructura ocupacional. Incluye los puestos homologados a los enlaces, y
-
-II. Militares: conforme a los cargos del servicio militar establecidos en las leyes orgánicas del Ejército y Fuerza Aérea Mexicanos y de la Armada de México.
+VII. Promover que al interior de las dependencias se modifiquen sus lineamientos para facilitar el ascenso de las mujeres a puestos de liderazgo y toma de decisiones.
 
 ###### Artículo 32.
 
-Las remuneraciones del personal civil, se integrarán por:
+Para lograr la igualdad entre mujeres y hombres en el acceso a los derechos sociales y el pleno disfrute de ellos, las autoridades estatales y municipales desarrollarán las acciones siguientes:
 
-I. Percepciones ordinarias:
+I. Difundir en la sociedad el conocimiento de sus derechos sociales y los mecanismos para su exigibilidad;
 
-a) Sueldos y salarios: corresponde al sueldo base tabular y, en su caso, al esquema de compensaciones que determinen las disposiciones aplicables, que se aplique a las plazas presupuestarias de carácter permanente o eventual.
+II. Realizar investigaciones multidisciplinarias con perspectiva de género sobre la igualdad de trato y oportunidades de mujeres y hombres, en el acceso y disfrute de los derechos sociales;
 
-Las contrataciones se realizarán conforme al carácter del nombramiento en términos de las disposiciones aplicables, sea definitivo, interino, provisional y, en su caso, de carácter eventual.
+III. Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombres al disfrute de los derechos sociales;
 
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+IV. Diseñar políticas y programas de desarrollo social y de reducción de la pobreza con perspectiva de género, para lograr la igualdad de trato y oportunidades;
 
-Las percepciones ordinarias por concepto de sueldos y salarios de los servidores públicos eventuales se determinarán de acuerdo con la naturaleza de las actividades o funciones a desempeñar y de acuerdo con la valuación del puesto que realice la dependencia o entidad, conforme a las disposiciones que emitan la Secretaría y la Función Pública.
+V. Fomentar la corresponsabilidad social igualitaria, de mujeres y hombres; y
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Dichas percepciones se sujetarán a los tabuladores autorizados, de conformidad con las disposiciones aplicables.
-
-La Secretaría y la Función Pública emitirán las disposiciones generales a que se sujetarán las contrataciones de servidores públicos eventuales para mantener acordes el pago y las actividades o funciones a realizar;
-
-b) Prestaciones conforme a los regímenes laborales y las disposiciones aplicables que correspondan:
-
-i) Prestaciones por mandato de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, que corresponden a la prima quinquenal, prima vacacional y aguinaldo, entre otras, aplicables al personal de base;
-
-ii) Prestaciones por mandato de la Ley Federal del Trabajo, que corresponden a la prima de antigüedad, prima vacacional y aguinaldo, entre otras, aplicables al personal de base;
-
-iii) Prestaciones por mandato de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B) del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, que corresponden a la compensación de antigüedad, prima vacacional y aguinaldo, entre otras;
-
-iv) Prestaciones por mandato de la Ley del Servicio Exterior Mexicano y su reglamento;
-
-v) Prestaciones que derivan de la aplicación de las leyes que regulan el régimen laboral, a través de las condiciones generales de trabajo, contratos colectivos de trabajo u otros instrumentos legales;
-
-vi) Prestaciones por disposición del Ejecutivo Federal de carácter complementario;
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-vii) Prestaciones destinadas a fomentar las actividades culturales y deportivas en favor de los trabajadores que se establezcan, a través de las asociaciones o de la central de representantes sindicales, cuya aplicación determine la Secretaría en términos de las disposiciones aplicables;
-
-viii) Las prestaciones al personal de mando y enlace, en los términos del manual de percepciones de los servidores públicos de las dependencias y entidades, y
-
-II. Percepciones extraordinarias:
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-a) Estímulos, reconocimientos, recompensas, incentivos y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación, en los términos de las leyes de Premios, Estímulos y Recompensas Civiles, de Planeación y del Servicio Profesional de Carrera en la Administración Pública Federal y demás disposiciones aplicables;
-
-b) Pago de horas de trabajo extraordinarias;
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-c) Otras percepciones de carácter extraordinario autorizadas en los términos de la legislación laboral, así como por la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, de acuerdo con las disposiciones aplicables.
-
-Será responsabilidad de las dependencias y entidades aprobar las remuneraciones que correspondan con sujeción al esquema señalado en este artículo y las autorizaciones de la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, observando las disposiciones relativas a los regímenes laborales, de seguridad social y, en su caso, del Servicio Profesional de Carrera que les sean aplicables.
-
-Las prestaciones que correspondan al personal civil de las entidades bajo ninguna circunstancia podrán ser superiores a las autorizadas en el manual de percepciones de los servidores públicos de la Administración Pública Federal.
+VI. Promover investigaciones con perspectiva de género en materia de salud.
 
 ###### Artículo 33.
 
-Las remuneraciones del personal militar comprenden las percepciones de los servidores públicos militares en las secretarías de la Defensa Nacional y de Marina por concepto de haberes, sobrehaberes, asignaciones y demás remuneraciones del personal militar en los términos de las disposiciones aplicables.
+Con el fin de promover y procurar la igualdad de trato y oportunidades de mujeres y hombres en el ámbito civil, las autoridades estatales y municipales desarrollarán las siguientes acciones:
+
+I. Proponer reformas a la legislación civil la igualdad de trato y oportunidades entre mujeres y hombres;
+
+II. Difundir los derechos de las mujeres;
+
+III. Erradicar las distintas modalidades de violencia de género;
+
+IV. Promover la participación ciudadana y generar interlocución entre los ciudadanos respecto a la legislación sobre la igualdad para las mujeres y los hombres;
+
+V. Generar mecanismos institucionales que fomenten el reparto equilibrado de las responsabilidades familiares; y
+
+VI. Promover la utilización de un lenguaje con perspectiva de igualdad entre géneros.
 
 ###### Artículo 34.
 
-Las dependencias y entidades tendrán la obligación de asegurar la integración completa de las asignaciones presupuestarias de los servicios personales en la elaboración de sus anteproyectos. Para tales efectos, deberán considerar lo siguiente:
+Para lograr la igualdad de trato y oportunidades entre mujeres y hombres en el ámbito educativo, las autoridades estatales y municipales deberán:
 
-I. Las previsiones totales de recursos para cubrir las percepciones ordinarias de los servidores públicos;
+I. Integrar el principio de igualdad de trato y oportunidades en los programas y políticas educativas, eliminando los estereotipos que produzcan desigualdad;
 
-II. La estimación de las percepciones extraordinarias;
+II. Desarrollar proyectos y programas dirigidos a fomentar el conocimiento, difusión y respeto del principio de igualdad que esta Ley tutela;
 
-III. Los recursos necesarios para cubrir las aportaciones de seguridad social y las obligaciones de carácter fiscal que genere el gasto en servicios personales;
+III. Impartir cursos de formación docente, para educar en el principio de igualdad de trato y oportunidades entre mujeres y hombres regulado por esta Ley;
 
-IV. La estimación de recursos que se prevean para dar cumplimiento a las leyes laborales y las que prevean el establecimiento y la operación de servicios profesionales de carrera, así como para atender otras medidas económicas de índole laboral;
+IV. Establecer medidas y materiales educativos destinados al reconocimiento y ejercicio de la igualdad de trato y oportunidades entre mujeres y hombres en los espacios educativos;
 
-V. Previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral;
+V. Garantizar una educación y capacitación para el trabajo sustentadas en el principio de igualdad de trato y oportunidades entre mujeres y hombres que establece esta Ley;
 
-VI. Los recursos para contrataciones eventuales adicionales para proyectos productivos, entre otros, incorporadas en la asignación de servicios personales que se determine para la formulación de sus anteproyectos, y
+VI. Incentivar la investigación en todo lo concerniente a la igualdad entre mujeres y hombres;
 
-VII. Las asignaciones para la contratación de servicios profesionales por honorarios, para lo cual deberán incorporar las previsiones que, en su caso, correspondan para la operación y supervisión de los programas sujetos a reglas de operación, para los programas y proyectos financiados con crédito externo y demás asignaciones que se requieran por concepto de honorarios.
+VII. Garantizar en el ámbito de su competencia, el derecho a la educación igualitaria, plural y libre de estereotipos de género;
 
-#### SECCIÓN IX. De los proyectos para prestación de servicios
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO IV. De las Operaciones Presupuestarias de Control y Cierre
+Las alumnas en situación de embarazo, maternidad o estudiante lactante tienen los mismos derechos que los demás alumnos y alumnas en relación a su ingreso y permanencia en las instituciones o establecimientos educacionales, no pudiendo ser objeto de ningún tipo de discriminación, en especial el cambio de establecimiento o expulsión, la cancelación de matrícula, la negación de matrícula, la suspensión u otra similar;
 
-#### SECCIÓN I. De las adecuaciones presupuestarias de control presupuestario
+VIII. Promover la eliminación y el rechazo de los comportamientos, contenidos sexistas y estereotipos que impliquen discriminación entre mujeres y hombres, con especial consideración en los libros de texto y materiales educativos;
 
-###### Artículo 105.
+IX. Promover el concepto de responsabilidad compartida dentro de la vida escolar;
 
-Las operaciones que autorice la Secretaría a través del ramo general correspondiente a provisiones salariales y económicas derivadas del control presupuestario comprenden:
+X. Fomentar la incorporación a la educación de las personas que en razón de su sexo están relegadas; y
 
-I. El cumplimiento del balance presupuestario;
+XI. Establecer medidas educativas destinadas al reconocimiento y enseñanzas del papel de las mujeres en la historia.
 
-II. Las ampliaciones y reducciones líquidas al presupuesto aprobado, incluyendo las erogaciones adicionales con cargo a ingresos excedentes;
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 10 DE MAYO DE 2018)</small>
 
-III. Las reasignaciones para los ramos y entidades;
+### CAPÍTULO NOVENO BIS. DE LAS UNIDADES DE IGUALDAD DE GÉNERO Y ERRADICACIÓN DE LA VIOLENCIA
 
-IV. Las operaciones para efectos del cierre presupuestario, y
-
-V. El cumplimiento de disposiciones legales aplicables o programas autorizados en dicho ramo general.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 106.
-
-Las adecuaciones presupuestarias que deriven de operaciones de control presupuestario se aplicarán conforme a lo siguiente:
-
-I. Podrán traspasarse recursos de otros ramos y entidades al ramo general correspondiente a provisiones salariales y económicas, con el fin de apoyar el cumplimiento de los objetivos de los programas autorizados en el Presupuesto de Egresos;
-
-II. Los recursos del ramo general correspondiente a provisiones salariales y económicas podrán ser traspasados a otros ramos, conforme a los propósitos de cada uno de los programas en él contenidos y las disposiciones aplicables;
-
-III. Las erogaciones adicionales con cargo a ingresos excedentes de los ramos se podrán autorizar a través del ramo general correspondiente a provisiones salariales y económicas;
-
-IV. Las operaciones que se realicen con motivo de cierre presupuestario, incluyendo aquéllas que sustenten la fuente de financiamiento para programas especiales conforme a las disposiciones aplicables, así como las adecuaciones presupuestarias requeridas para la presentación de la Cuenta Pública, podrán ser autorizadas por la Secretaría, y
-
-V. Las adecuaciones presupuestarias de reserva o liberación que realice la Secretaría directamente o, en su caso, a solicitud de las dependencias y entidades afectando las disponibilidades presupuestarias en los ramos presupuestarios correspondientes podrán canalizarse al ramo general relativo a provisiones salariales y económicas. Tratándose de las entidades apoyadas, la Secretaría podrá determinar que los recursos reservados se enteren a la Tesorería, para lo cual se realizarán las adecuaciones presupuestarias que correspondan en el presupuesto de flujo de efectivo.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-La Secretaría por conducto de la unidad administrativa responsable de la política y del control presupuestario podrá determinar el fin específico al que deban destinarse los recursos provenientes de las adecuaciones presupuestarias de reserva a que se refiere la fracción V de este artículo.
-
-#### SECCIÓN II. De las afectaciones presupuestarias inherentes al cierre presupuestario
-
-###### Artículo 107.
-
-Los sistemas de control que administra la Secretaría se mantendrán abiertos después del 31 de diciembre de cada ejercicio fiscal para efectos del registro de las afectaciones presupuestarias que se ubiquen en los siguientes casos:
-
-I. Operaciones derivadas de la aplicación del pasivo circulante constituido al 31 de diciembre;
-
-II. Movimientos de servicios personales que cuenten con el dictamen presupuestario de la Secretaría y, en su caso, de la Función Pública, siempre que se emitan a más tardar el 31 de diciembre y los movimientos no impliquen salida de recursos;
-
-III. Adecuaciones que se deriven de ley o decreto;
-
-IV. Adecuaciones relacionadas con pagos efectuados al 31 de diciembre derivadas de situaciones de carácter superveniente;
-
-V. Adecuaciones relacionadas con la regularización de acuerdos de ministración;
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-VI. Los traspasos que regularicen el pago de compromisos de los ramos generales correspondientes a gasto no programable, y
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-VII. Las operaciones que se realicen por control presupuestario conforme a los artículos 105 y 106 de este Reglamento.
-
-VIII. (DEROGADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La Secretaría, por conducto de la unidad administrativa responsable de la política y del control presupuestario, determinará la fecha límite para el registro de operaciones presupuestarias que deberán ser integradas a la Cuenta Pública.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 107 A. La Secretaría por conducto de la unidad administrativa responsable de la política y del control presupuestario podrá solicitar recursos mediante acuerdo de ministración, sin afectar la meta de balance presupuestario, hasta por el importe que permita cubrir compromisos devengados de las dependencias y entidades que estén consideradas dentro de las operaciones de cierre presupuestario a que se refiere el artículo 105 de este Reglamento. Los recursos respectivos podrán permanecer en la Tesorería de acuerdo con lo que determine dicha unidad.
-
-Una vez que la unidad administrativa responsable de la política y del control presupuestario determine los importes que podrán ser cubiertos conforme al párrafo anterior, el ejecutor de gasto podrá solicitar a la Tesorería la liberación parcial o total de los recursos.
-
-La regularización del acuerdo de ministración se realizará en términos del artículo 46 de la Ley.
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2018)</small>
 
 ###### Artículo 34 Bis.
 
@@ -1835,3025 +573,95 @@ V. Informar periódicamente, en el marco del Sistema Estatal, los resultados de 
 
 VI. Ser el primer punto de contacto para los casos de acoso y hostigamiento sexual; y
 
-VII. Las demás que se establezcan en otras disposiciones jurídicas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE MAYO DE 2023)</small>
 
-### CAPÍTULO V. De los Ingresos Excedentes
+VII. Brindar asesoramiento especializado, en la materia que le corresponde, al enlace designado ante el mecanismo interinstitucional de seguimiento de las medidas de seguridad, prevención y justicia, para atender y erradicar la violencia contra las niñas, adolescentes y mujeres, previsto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, así como coadyuvar con aquél en las responsabilidades que se le encomienden para el cumplimiento de las acciones y acuerdos que se determinen en sus sesiones, y
 
-#### SECCIÓN I. De los ingresos excedentes de las dependencias
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 26 DE MAYO DE 2023)</small>
 
-###### Artículo 108.
+VIII. Las demás que se establezcan en otras disposiciones jurídicas.
 
-Las dependencias que obtengan ingresos excedentes deberán concentrarlos invariablemente en la Tesorería en los términos de las disposiciones aplicables.
+### CAPÍTULO DÉCIMO. EL MODELO DE EQUIDAD Y GÉNERO
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Los ingresos excedentes se determinarán considerando la diferencia positiva que resulte de disminuir los ingresos acumulados de la dependencia estimados conforme a la Ley de Ingresos, a los enteros acumulados efectuados por dicha dependencia a la Tesorería, en el periodo que corresponda, de conformidad con lo establecido en dicho ordenamiento.
-
-Para tales efectos, se analizará la totalidad de los rubros de ingresos obtenidos durante el periodo en análisis por la dependencia y se compararán con los que se hubieran programado para el mismo periodo de acuerdo con el calendario mensual correspondiente al monto de ingresos estimados.
-
-> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 109.
-
-Las dependencias que generen ingresos excedentes, una vez que los hayan concentrado en la Tesorería se sujetarán a lo siguiente:
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-I. En el caso de ingresos excedentes que tengan destino específico por disposición expresa de leyes o decretos de carácter fiscal, o que conforme a éstas cuenten con autorización de la Secretaría, así como los ingresos de carácter excepcional, deberán presentar a la Secretaría la solicitud de validación de la notificación, considerando como fecha límite el 18 de diciembre, sobre los ingresos obtenidos, y
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-II. En el caso de ingresos excedentes que requieran autorización de la Secretaría para su utilización en un fin específico, previamente deberán presentar a ésta la solicitud de dictamen considerando como fecha límite el 15 de diciembre, conforme a lo siguiente:
-
-a) Que los ingresos obtenidos son excedentes a aquéllos previstos en la Ley de Ingresos, identificando los mismos en el concepto correspondiente del artículo 1 de dicha ley;
-
-b) Conforme a la lista de clasificación de ingresos excedentes emitida en los términos de la Ley de Ingresos, su identificación en alguna de las siguientes categorías:
-
-i) Ingresos excedentes inherentes a las funciones de la dependencia;
-
-ii) Ingresos excedentes no inherentes a las funciones de la dependencia;
-
-iii) Ingresos excedentes de carácter excepcional.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 110.
-
-Para que el dictamen a que se refiere la fracción II del artículo anterior sea favorable, será necesario que se cumplan las siguientes condiciones:
-
-I. Que los ingresos totales de la dependencia obtenidos en el periodo en análisis sean superiores a la estimación para el mismo lapso, y
-
-II. Que la suma de los ingresos acumulados que no hayan sido dictaminados hasta el periodo por el cual se solicita el dictamen sean mayores al total de ingresos estimados acumulados en dicho periodo.
-
-Si se cumplen estas condiciones, se podrán dictaminar ingresos excedentes hasta por el monto que resulte menor entre los correspondientes a las fracciones I y II anteriores.
-
-###### Artículo 111.
-
-Las dependencias podrán presentar a la Secretaría solicitudes para realizar erogaciones adicionales con cargo a ingresos excedentes considerando como fecha límite el 20 de diciembre de cada ejercicio, con base en lo siguiente:
-
-I. Las solicitudes relacionadas con ingresos excedentes inherentes a las funciones de la dependencia deberán incluir:
-
-a) El dictamen emitido por la Secretaría a que se refiere el artículo 109 fracción II de este Reglamento;
-
-b) Los documentos que amparen el costo adicional en el que se incurrió para obtener los ingresos excedentes;
-
-c) La justificación del gasto adicional, indicando montos, programas y metas, así como la situación del avance real físico y financiero de los programas que se van a complementar;
-
-II. Las solicitudes relacionadas con ingresos excedentes no inherentes a las funciones de la dependencia deberán cumplir con lo dispuesto en los incisos a) y c) de la fracción anterior, y
-
-III. Las solicitudes relacionadas con ingresos excedentes de carácter excepcional, así como con los ingresos excedentes a que se refiere el artículo 109, fracción I de este Reglamento deberán incluir la validación de la notificación de ingresos, y la justificación a que se refiere la fracción I, inciso c) de este artículo.
-
-Las solicitudes para realizar erogaciones adicionales con cargo a ingresos excedentes de carácter excepcional, tales como la recuperación de seguros, los donativos en dinero y la enajenación de bienes muebles podrán presentarse durante todo el mes de diciembre.
-
-###### Artículo 112.
-
-Una vez verificados los requisitos señalados en el artículo anterior, la Secretaría resolverá sobre las solicitudes de erogaciones adicionales con cargo a ingresos excedentes, conforme a lo siguiente:
-
-I. En el caso de ingresos excedentes con destino específico a que se refiere el artículo 109, fracción I de este Reglamento, las solicitudes deberán autorizarse:
-
-a) En un plazo máximo de 6 días hábiles;
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-b) Por el monto que determinen las leyes de carácter fiscal o, en su caso, la Secretaría.
-
-Transcurrido el plazo anterior sin que la Secretaría emita resolución alguna, en términos del artículo 5 de este Reglamento, las solicitudes se tendrán por autorizadas y ésta deberá informarlo por escrito a petición de la dependencia correspondiente dentro de un plazo de 5 días hábiles;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-II. En el caso de ingresos excedentes a que se refiere el artículo 109, fracción II de este Reglamento:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-a) Cuando se trate de ingresos excedentes derivados de la enajenación de bienes inmuebles, las erogaciones adicionales se podrán otorgar:
-
-i) En un plazo máximo de 12 días hábiles;
-
-ii) Hasta por el 80 por ciento para gasto de inversión para el mejoramiento de las áreas en las que se prestan servicios a la ciudadanía de las dependencias que tenían destinados a su servicio dichos bienes, en términos de la Ley General de Bienes Nacionales;
-
-iii) Tratándose de los productos por concepto de las enajenaciones de bienes inmuebles que realice el Instituto de Administración y Avalúos de Bienes Nacionales en los términos de la Ley General de Bienes Nacionales, podrán destinarse en su totalidad a cubrir los gastos de mantenimiento, obra pública y de administración en general, así como los pagos por concepto de contribuciones y demás erogaciones relacionadas con los bienes inmuebles a cargo de dicho Instituto;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-b) Cuando se trate de ingresos inherentes a las funciones de la dependencia, las solicitudes podrán autorizarse conforme a lo siguiente:
-
-i) La resolución deberá emitirse en un plazo máximo de 12 días hábiles, salvo que dicho plazo rebase la vigencia del ejercicio fiscal correspondiente, en cuyo caso la resolución deberá emitirse a más tardar el último día hábil del mismo;
-
-ii) Las autorizaciones podrán otorgarse hasta por el costo adicional en que haya incurrido la dependencia para generar los ingresos excedentes;
-
-iii) Para determinar la procedencia de la solicitud y el monto aplicable, deberá tomarse en consideración el comportamiento esperado en el balance económico del sector público, y que la propuesta no afecte los objetivos fiscales y macroeconómicos que se pretende lograr, así como la situación de las finanzas públicas;
-
-c) En el caso de ingresos no inherentes a las funciones de la dependencia, las solicitudes podrán autorizarse conforme a los siguientes requisitos:
-
-i) La resolución deberá emitirse en un plazo máximo de 12 días hábiles, salvo que dicho plazo rebase la vigencia del ejercicio fiscal correspondiente, en cuyo caso la resolución deberá emitirse a más tardar el último día hábil del mismo;
-
-ii) Las autorizaciones podrán otorgarse hasta por el monto total de los ingresos excedentes;
-
-iii) Deberá tomarse en consideración lo previsto en el inciso b), subinciso iii) anterior;
-
-d) En el caso de ingresos de carácter excepcional, las solicitudes deberán autorizarse conforme a lo siguiente:
-
-i) En un plazo máximo de 6 días hábiles;
-
-ii) Hasta por la totalidad de los ingresos excedentes generados.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Las autorizaciones a que se refiere la presente fracción se realizarán en los plazos señalados, siempre y cuando la Secretaría, a través de la unidad administrativa responsable de la política y del control presupuestario, determine que no afectan negativamente el equilibrio presupuestario o, en su caso, no aumenten el déficit presupuestario.
-
-Cuando, conforme a lo establecido en las leyes de carácter fiscal, la Secretaría establezca un destino específico para los ingresos excedentes que generen las secretarías de la Defensa Nacional y de Marina, así como la Presidencia de la República por lo que se refiere al Estado Mayor Presidencial, serán considerados ingresos excepcionales.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-La Secretaría registrará la ampliación líquida autorizada a más tardar el último día hábil de diciembre de cada ejercicio fiscal.
-
-La Secretaría definirá el calendario de presupuesto para la aplicación de los ingresos excedentes. En su caso, podrá autorizar el adelanto de calendario en los términos del artículo siguiente.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Las ampliaciones líquidas derivadas de ingresos excedentes, autorizadas en los términos de esta Sección, deberán devengarse dentro del ejercicio presupuestario en el que se concentren.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-La Secretaría a través de la unidad administrativa responsable de la política y del control presupuestario, considerando el comportamiento del balance económico del sector público y siempre que la autorización no afecte negativamente el equilibrio presupuestario o, en su caso, no aumente el déficit presupuestario, podrá autorizar el fin específico de los ingresos excedentes, previa opinión de las unidades administrativas de programación y presupuesto sectoriales respecto a tal fin.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 113.
-
-Las dependencias podrán solicitar autorización de adelanto de calendario de su presupuesto aprobado o modificado autorizado, condicionada a la obtención de los ingresos excedentes a que se refiere el artículo 109 de este Reglamento, dentro de los 3 días hábiles siguientes a la terminación de cada mes y a más tardar el 5 de septiembre de cada ejercicio fiscal, de conformidad con las disposiciones aplicables.
-
-La autorización se otorgará en los plazos previstos en el artículo 96 de este Reglamento, hasta por un monto máximo equivalente al 80 por ciento del importe total estimado de mayor captación.
-
-En caso de que las dependencias no cumplan con la meta de obtención de mayores ingresos, la Secretaría, con base en el reporte a que se refiere el siguiente párrafo, realizará los ajustes correspondientes en las ministraciones del último trimestre del presupuesto aprobado o modificado autorizado, y conforme a este antecedente, en lo sucesivo ya no se podrán autorizar adelantos de calendario bajo este concepto.
-
-Las dependencias informarán mensualmente a la Secretaría el avance sobre la obtención de ingresos, a fin de regularizar el adelanto de calendario de presupuesto, mediante las ampliaciones líquidas correspondientes.
-
-#### SECCIÓN II. De los ingresos excedentes de entidades
-
-###### Artículo 114.
-
-Las entidades que obtengan ingresos en exceso a los previstos en sus presupuestos deberán enterarlos en sus respectivas tesorerías. En el caso de las entidades de control directo, deberán además registrar ante la Secretaría los ingresos excedentes en los conceptos correspondientes del artículo 1 de la Ley de Ingresos.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Las entidades serán responsables de la veracidad de la información que se presente en términos de esta Sección.
-
-Los ingresos excedentes sólo se aplicarán dentro del ejercicio presupuestario en que se obtengan, con base en la autorización que otorgue la Secretaría.
-
-La Secretaría podrá autorizar el adelanto de calendario aplicando en lo conducente lo dispuesto en el artículo 113 de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-En el caso de los ingresos excedentes que tengan destino específico por disposición expresa de leyes o decretos de carácter fiscal o que conforme a éstas requieran autorización de la Secretaría para su utilización en un fin específico, previamente deberán presentar a ésta la solicitud de validación de la notificación, considerando como fecha límite el 18 de diciembre, sobre los ingresos obtenidos.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Las ampliaciones que procedan a los presupuestos de las entidades se sujetarán, a lo previsto en los artículos 116 y 117 de este Reglamento, según se trate de entidades de control directo o indirecto.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-La Secretaría a través de la unidad administrativa responsable de la política y del control presupuestario, considerando el comportamiento del balance económico del sector público y siempre que la autorización no afecte negativamente el equilibrio presupuestario o, en su caso, no aumente el déficit presupuestario, podrá autorizar el fin específico de los ingresos excedentes, previa opinión de las unidades administrativas de programación y presupuesto sectoriales respecto a tal fin.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 115.
-
-Para realizar erogaciones adicionales con cargo a ingresos excedentes, las entidades de control directo deberán solicitar el dictamen de la Secretaría conforme a las disposiciones que ésta emita y anexando la propuesta de modificación en el rubro de ingresos de su flujo de efectivo por la obtención de ingresos excedentes, determinada por el titular de la entidad y avalada por el órgano de gobierno, y la especificación de los conceptos o actividades por los cuales se generaron los ingresos excedentes, considerando como fecha límite el 18 de diciembre, a efecto de que la Secretaría determine que los ingresos obtenidos son excedentes a aquéllos previstos en la Ley de Ingresos, identificando los mismos en el concepto correspondiente del artículo 1 de dicha ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 116.
-
-Las solicitudes para modificar el rubro de gasto del flujo de efectivo de las entidades de control directo deberán considerar como fecha límite el 20 de diciembre y lo siguiente:
-
-I. Copia del dictamen emitido por la Secretaría;
-
-II. La justificación del gasto adicional avalada por el órgano de gobierno, indicando montos, programas y metas, así como la situación del avance real, físico y financiero de los programas que se van a complementar, y
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-III. La propuesta de modificación en el rubro de gasto de su flujo de efectivo determinada por el titular de la entidad y avalada por el órgano de gobierno.
-
-Las solicitudes para realizar erogaciones adicionales con cargo a ingresos excedentes provenientes de la recuperación de seguros y donativos también podrán presentarse durante todo el mes de diciembre.
-
-La Secretaría resolverá sobre las solicitudes de erogaciones adicionales con cargo a ingresos excedentes durante el periodo de vigencia del ejercicio fiscal que corresponda y a más tardar el último día hábil de diciembre, en un plazo máximo de 4 días hábiles contados a partir del día de la presentación de la solicitud respectiva que reúna la documentación prevista en este artículo. En el caso de ingresos excedentes provenientes de la recuperación de seguros y donativos, la Secretaría deberá resolver en un plazo máximo de 3 días hábiles contados a partir del día de la presentación de la solicitud respectiva que reúna la documentación prevista en este artículo.
-
-Transcurridos los plazos a que se refiere el párrafo anterior sin que la Secretaría emita comunicación alguna, en términos del artículo 5 de este Reglamento, las solicitudes se tendrán por autorizadas y ésta deberá informarlo por escrito a petición de la entidad correspondiente dentro de un plazo de 5 días hábiles.
-
-###### Artículo 117.
-
-Las entidades de control indirecto se sujetarán al siguiente procedimiento para realizar erogaciones adicionales con cargo a los excedentes de ingresos propios que generen:
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-I. El titular de la entidad será responsable de determinar el monto de los ingresos propios obtenidos en exceso a los previstos en el respectivo flujo de efectivo aprobado, así como de registrarlos contablemente. El órgano de gobierno de la entidad deberá autorizar la respectiva modificación en el rubro de ingresos de su flujo de efectivo;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-II. El titular de la entidad deberá informar a la Secretaría sobre los ingresos excedentes obtenidos por la entidad, considerando como fecha límite el 18 de diciembre, anexando la autorización del órgano de gobierno sobre la modificación en el rubro de ingresos al flujo de efectivo de la entidad y la especificación de los conceptos o actividades por los cuales se generaron los ingresos propios excedentes, conforme a lo dispuesto por la Secretaría.
-
-(REPUBLICADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)
-
-La información a que se refiere esta fracción deberá estar avalada por la dependencia coordinadora de sector correspondiente.
-
-(REPUBLICADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)
-
-La Secretaría emitirá un oficio de acuse de recibo a más tardar en 5 días hábiles contados a partir de la presentación de la solicitud que incluya los requisitos establecidos en esta fracción;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-III. Deberán presentar sus solicitudes a la Secretaría para modificar los respectivos rubros de gasto en sus flujos de efectivo, considerando como fecha límite el 20 de diciembre de cada ejercicio, anexando lo siguiente:
-
-a) La justificación del gasto adicional avalada por el órgano de gobierno, indicando montos, programas y metas, así como la situación del avance real físico y financiero de los programas que se van a complementar;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-b) La propuesta de modificación al rubro de gasto del flujo de efectivo determinada por el titular de la entidad y avalada por el órgano de gobierno.
-
-Las solicitudes para realizar erogaciones adicionales con cargo a ingresos excedentes provenientes de la recuperación de seguros y donativos podrán presentarse durante todo el mes de diciembre.
-
-Las modificaciones presupuestarias que involucren ingresos adicionales derivados de las operaciones de intermediación financiera de las instituciones de banca de desarrollo que no afecten el presupuesto de gasto programable, podrán ser registradas conforme a la autorización de sus órganos de gobierno con el visto bueno de la Secretaría, y
-
-IV. La Secretaría resolverá sobre las solicitudes de erogaciones adicionales con cargo a ingresos excedentes durante el periodo de vigencia del ejercicio fiscal que corresponda y a más tardar el último día hábil de diciembre en un plazo máximo de 4 días hábiles contados a partir del día de la presentación de la solicitud respectiva que reúna la documentación prevista en este artículo. En el caso de ingresos excedentes provenientes de la recuperación de seguros y donativos, la Secretaría deberá resolver en un plazo máximo de 3 días hábiles contados a partir del día de la presentación de la solicitud respectiva que reúna la documentación prevista en este artículo.
-
-Para determinar la procedencia de la solicitud y el monto aplicable, la Secretaría tomará en consideración las prioridades sectoriales y el destino propuesto para las erogaciones adicionales.
-
-Transcurrido el plazo a que se refiere esta fracción sin que la Secretaría emita comunicación alguna, en términos del artículo 5 de este Reglamento, las solicitudes se tendrán por autorizadas y ésta deberá informarlo por escrito a petición de la entidad correspondiente dentro de un plazo de 5 días hábiles.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 35.
 
-(DEROGADO POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
+Será la Secretaría de las Mujeres la que propondrá el modelo que contenga los mecanismos de ejecución para impulsar la certificación, para lo que deberá:
 
-### CAPÍTULO VI. De los Convenios y Bases de Desempeño
+I. Definir los lineamientos de gestión con perspectiva de género; y
 
-###### Artículo 118.
+II. Establecer las bases para el asesoramiento, adecuación y capacitación por parte de las instancias externas a la administración pública que en su caso validen los conocimientos con perspectiva de género.
 
-La Secretaría y la Función Pública, podrán determinar la celebración de convenios o bases de desempeño conforme a lo siguiente:
-
-I. Las entidades, dependencias y órganos administrativos desconcentrados que soliciten suscribir convenios o bases de desempeño deberán enviar a la Secretaría, por conducto de las dependencias coordinadoras de sector o de aquéllas a las que estén jerárquicamente subordinadas, entre el primer día hábil de enero y el último día hábil de marzo sus propuestas de convenios o bases de desempeño, conforme a los modelos de dichos instrumentos;
-
-II. La Secretaría presentará a la Comisión las propuestas para la celebración de convenios y bases de desempeño entre el primer día hábil de febrero y el último día hábil de abril, y
-
-III. La formalización de los convenios y bases deberá realizarse a más tardar el último día hábil de junio.
-
-En las disposiciones generales que emita la Secretaría se especificarán los términos y procedimientos para llevar a cabo los procesos de suscripción, seguimiento y evaluación de dichos convenios o bases, así como los compromisos y medidas presupuestarias que sirvan para su celebración.
+### CAPITULO DÉCIMO PRIMERO. DE LA VIGILANCIA
 
 ###### Artículo 36.
 
-(DEROGADO POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
+En el ámbito de su respectiva competencia, la Comisión de Derechos Humanos del Estado de México es la encargada de realizar la vigilancia, seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad de trato y oportunidades entre mujeres y hombres.
 
 ###### Artículo 37.
 
-(DEROGADO POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
+La Comisión de Derechos Humanos del Estado de México, podrá recibir quejas, formular recomendaciones y presentar informes especiales en la materia objeto de esta Ley.
 
-### CAPÍTULO VII. Del Pasivo Circulante de las Dependencias
-
-###### Artículo 119.
-
-El pasivo circulante se constituye con los adeudos de ejercicios fiscales anteriores para cubrir las obligaciones de pago derivadas de los compromisos devengados y no pagados al 31 de diciembre, con base en el presupuesto autorizado de los ramos en el ejercicio fiscal anterior, y con cargo al presupuesto autorizado del ramo general correspondiente a adeudos de ejercicios fiscales anteriores.
-
-Las obligaciones de pago que no puedan ser cubiertas por el ramo general correspondiente a adeudos de ejercicios fiscales anteriores se cubrirán por los ramos con cargo a su presupuesto autorizado del ejercicio fiscal en curso; para tales efectos, dicha responsabilidad no se condicionará a ampliaciones presupuestarias ni a la previa autorización de la Secretaría; en su caso, se facilitarán las operaciones presupuestarias en los términos de las disposiciones aplicables.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-El pasivo circulante podrá incluir las obligaciones de pago que correspondan a bienes adquiridos por la dependencia, cuya recepción en recinto fiscal, almacén del proveedor, almacén de la dependencia o en el sitio de asignación final, se acredite a más tardar el 31 de diciembre de cada año mediante documento o nota de aceptación de los bienes, expedido por el área receptora.
-
-###### Artículo 120.
-
-Para constituir el pasivo circulante con cargo al ramo general correspondiente a adeudos de ejercicios fiscales anteriores, los ramos deberán cumplir con lo dispuesto en los artículos 53 y 54 de la Ley, las disposiciones generales que al efecto emita la Secretaría y lo siguiente:
-
-I. Con base en el presupuesto autorizado del ejercicio fiscal anterior, contar con disponibilidad de recursos en el presupuesto comprometido de los programas presupuestarios, en los cuales quedan comprendidas las obligaciones de pago;
-
-II. En su caso, verificar que se hayan realizado las operaciones de cierre o de control presupuestario a que se refieren los artículos 105 a 107 de este Reglamento, y
-
-III. Tramitar la autorización de las cuentas por liquidar certificadas que permitan efectuar los pagos respectivos, con cargo al ramo general correspondiente a adeudos de ejercicios fiscales anteriores, en términos de las disposiciones aplicables.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Artículo 120 A. La Secretaría, con base en el pasivo circulante autorizado y los saldos presupuestarios disponibles, determinará las cuentas por liquidar certificadas susceptibles de pagarse por la Tesorería durante el periodo de adeudos de ejercicios fiscales anteriores, mismas que deberán registrarse en el sistema de administración financiera federal en los plazos y términos que determine la Secretaría, en congruencia con lo establecido en el artículo 107, fracción VIII de este Reglamento.
-
-### CAPÍTULO VIII. Del Pasivo Circulante de las Entidades
-
-###### Artículo 121.
-
-Constituye el pasivo circulante de las entidades, las obligaciones de pago contraídas por concepto de adquisiciones, arrendamientos, servicios y obras públicas contratadas y que al 31 de diciembre de cada ejercicio se encuentren debidamente contabilizadas, devengadas y pendientes de pago.
-
-###### Artículo 122.
-
-Las entidades serán responsables de cubrir los compromisos pendientes de pago generados durante cada ejercicio fiscal a través de sus tesorerías con cargo a su presupuesto modificado autorizado del año en que se efectúe el pago, incluyendo aquellos compromisos pendientes de pago generados durante el ejercicio inmediato anterior, para lo cual deberán incluir en su flujo de efectivo las previsiones correspondientes.
-
-Las erogaciones de las entidades por concepto de presupuesto devengado y no pagado al 31 de diciembre de cada ejercicio se deberán registrar presupuestariamente con cargo al siguiente ejercicio fiscal dentro de su flujo de efectivo.
-
-Estas operaciones presupuestarias deberán reflejarse en el informe a que se refiere el siguiente artículo.
-
-Las entidades apoyadas se sujetarán a lo dispuesto en el artículo 84 de este Reglamento y demás disposiciones generales aplicables en lo que concierne a los reintegros al Presupuesto de Egresos de los saldos de los recursos que hayan recibido por concepto de subsidios y transferencias no devengados.
-
-###### Artículo 123.
-
-Las entidades serán responsables de presentar a la Secretaría el informe de pasivo circulante antes del último día hábil de febrero de cada ejercicio. Las entidades coordinadas presentarán su información por conducto de las dependencias coordinadoras de sector.
-
-### CAPÍTULO IX. Del Ejercicio y Pago en Servicios Personales
-
-#### SECCIÓN I. De las disposiciones generales del ejercicio y pago en servicios personales
-
-###### Artículo 124.
-
-Para que las dependencias y entidades lleven a cabo la contratación o nombramiento del personal, deberán cumplir con los siguientes requisitos en materia presupuestaria:
-
-I. Ajustarse al número de plazas autorizadas en sus presupuestos aprobados;
-
-II. Tratándose de personal que desempeñe otro o más cargos en las dependencias y entidades, verificar que éstos sean compatibles observando lo dispuesto en el artículo 138 de este Reglamento;
-
-III. Que la correspondiente asignación de remuneraciones se sujete en su caso a los catálogos, tabuladores y otros instrumentos que expidan la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, y
-
-IV. Llevar un registro del personal con base en el nombramiento, filiación y las normas que dicten la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, de conformidad con el artículo 70 de la Ley.
-
-###### Artículo 125.
-
-Para efectuar el pago de las remuneraciones al personal civil, las dependencias y entidades deberán observar lo siguiente:
-
-I. Elaborar para cada periodo de pago las nóminas que consignen a todo el personal y los pagos que se realizarán con cargo a los presupuestos, así como las retenciones respectivas;
-
-II. Los pagos correspondientes al personal se realizarán bajo la responsabilidad de cada dependencia o entidad con base en las nóminas que se elaboren de conformidad con las disposiciones aplicables. Los pagos deberán hacerse por las cantidades líquidas que le correspondan a cada empleado, considerando las cantidades devengadas en el periodo de pago correspondiente;
-
-III. Calcular y cubrir, con base en las nóminas los pagos que correspondan a los beneficiarios de las retenciones efectuadas y los que por ley deban aportar a las dependencias y entidades por concepto de seguridad social;
-
-IV. Para efectos de la comprobación de las erogaciones, las nóminas se acompañarán, en su caso, de los recibos, pólizas y demás documentos que demuestren la entrega de las percepciones, las retenciones a terceros y demás pagos que sean procedentes. Cuando los pagos de nómina se depositen en cuentas bancarias de los beneficiarios, los registros en medios electrónicos podrán servir como comprobantes de la entrega de los recursos;
-
-V. Cumplir con lo que establezcan la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, sobre la compatibilidad del pago de percepciones con el pago de viáticos, pasajes, capacitación y demás gastos que se cubran al personal en el desempeño de sus funciones;
-
-VI. Los pagos de las indemnizaciones que se determinen con base en los laudos o resoluciones emitidos por autoridad competente o los que deriven de convenios que, en su caso, se suscriban en términos de la legislación laboral aplicable, los que deberán incluir los conceptos específicamente señalados en los mismos, así como las indemnizaciones que correspondan en los términos de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y conforme a las disposiciones aplicables, y
-
-VII. Cumplir con las demás disposiciones aplicables.
-
-###### Artículo 126.
-
-La Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, dictaminarán sobre la procedencia de las estructuras ocupacionales y salariales, así como de sus modificaciones.
-
-Las dependencias y entidades que al realizar las modificaciones a que se refiere este artículo requieran adecuaciones presupuestarias externas deberán observar lo dispuesto en los artículos 103 y 104 de este Reglamento y en las disposiciones generales que al efecto emitan la Secretaría y la Función Pública.
-
-###### Artículo 127.
-
-Las dependencias y entidades deberán mantener actualizados sus registros internos de plazas, compromisos y pagos respectivos, así como de los servidores públicos que reciban capacitación con cargo a recursos presupuestarios.
-
-Para tales efectos, se sujetarán a las disposiciones generales que expidan la Secretaría y la Función Pública en el ámbito de sus respectivas competencias.
-
-###### Artículo 128.
-
-La Secretaría, contando con la opinión de la Función Pública, podrá determinar la aplicación de medidas que permitan cubrir una compensación económica a los servidores públicos que decidan voluntariamente concluir en definitiva la prestación de sus servicios en la Administración Pública Federal, para lo cual emitirá disposiciones específicas, sujetándose a las disposiciones que para estos efectos prevea, en su caso, el Presupuesto de Egresos.
-
-La Secretaría emitirá las reglas que deban observar las dependencias y entidades en la instrumentación de las medidas referidas, especificando el procedimiento para la cancelación de plazas que se deriven de las mismas, así como los plazos y condiciones para las restituciones por el monto de las compensaciones económicas que se cubran a los trabajadores.
-
-###### Artículo 129.
-
-El impuesto local al pago de nóminas se cubrirá directamente por las dependencias y entidades con cargo a su presupuesto en favor de las tesorerías estatales o del Distrito Federal, según corresponda, de conformidad con lo establecido en las disposiciones locales respectivas.
-
-###### Artículo 130.
-
-La Secretaría, por lo que respecta a las dependencias, así como las entidades, para realizar la contratación de seguros en favor de los servidores públicos como el colectivo de retiro, de vida institucional, de separación individualizado y el de gastos médicos mayores, entre otros, comprendidos dentro de las prestaciones establecidas en el manual de percepciones de los servidores públicos de las dependencias y entidades y que se encuentren autorizados por la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, deberán sujetarse a lo previsto en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-En materia de seguros a favor de los servidores públicos de las dependencias y entidades a que se refiere el artículo 64, fracción III de la Ley, incluido el seguro de vida de los pensionados, la Secretaría implementará procedimientos de contratación consolidada en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y celebrará los contratos correspondientes. Las entidades, los Poderes Legislativo y Judicial, los entes autónomos y las entidades federativas, sin perjuicio de su autonomía, podrán solicitar su incorporación a las contrataciones que se realicen para las dependencias, siempre y cuando no impliquen dualidad de beneficios para los servidores públicos.
-
-En el caso de los seguros colectivos del personal militar, se atenderá a lo establecido en las disposiciones generales aplicables.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 130 A. Los sistemas complementarios de seguridad social que, en términos de las disposiciones aplicables, establezcan las instancias competentes para el personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes, se sujetarán a la viabilidad presupuestaria, así como al esquema presupuestario que emita la Secretaría, por conducto de la unidad administrativa responsable de la política y del control presupuestario.
-
-#### SECCIÓN II. De los honorarios con cargo al presupuesto de servicios personales
-
-###### Artículo 131.
-
-Cuando se trate de realizar actividades o funciones equivalentes a las que desempeñe el personal que ocupe una plaza presupuestaria, las dependencias y entidades podrán contratar servicios profesionales por honorarios con personas físicas con cargo al presupuesto de servicios personales, en los casos siguientes:
-
-I. Para atender temporalmente el incremento en la demanda de servicios públicos en las funciones programáticas de desarrollo social y de regulación y supervisión en el ámbito financiero;
-
-II. Para la realización de funciones y actividades con impacto general en la Administración Pública Federal;
-
-III. Para programas y proyectos asociados a la obtención de mayores ingresos;
-
-IV. Para la supervisión y operación de los programas sujetos a reglas de operación. En este caso el pago mensual bruto de honorarios no podrá rebasar el máximo correspondiente al grupo jerárquico de Jefe de Departamento;
-
-V. Para programas o proyectos financiados con donativos provenientes del exterior o con crédito externo;
-
-VI. Para la ejecución de programas relacionados con la recaudación y los servicios aduaneros;
-
-VII. Para la prevención y atención de desastres naturales o circunstancias que impliquen riesgos sanitarios;
-
-VIII. Para los programas o proyectos relacionados con el equilibrio ecológico, protección al ambiente, y conservación de áreas naturales protegidas;
-
-IX. Cuando involucren desarrollos tecnológicos o de modernización que eleven la eficiencia del gasto;
-
-X. Por actividades y funciones que se realizan por obra o producto determinado cuando no sea posible atenderlos directamente con plaza presupuestaria, y
-
-XI. Aquéllos que se deriven de la aplicación de las leyes, reglamentos y los decretos del Ejecutivo Federal, previa autorización de la Secretaría y de la Función Pública, en el ámbito de sus respectivas competencias.
-
-Las personas contratadas bajo las anteriores excepciones contarán con las facilidades necesarias para el cumplimiento de sus actividades o funciones, incluyendo las relativas a los gastos o expensas cuando para el cumplimiento del objeto del contrato así se requiera.
-
-En todos los casos, excepto para programas sujetos a reglas de operación y para proyectos financiados con crédito externo, las dependencias y entidades deberán justificar ante la Función Pública la no existencia de vacantes que pudieran permitir la contratación respectiva; de lo contrario, la temporalidad del contrato de honorarios no podrá ser superior a 6 meses.
-
-#### SECCIÓN III. Del ejercicio y pago en dependencias
-
-###### Artículo 132.
-
-Las dependencias deberán efectuar el pago de remuneraciones al personal con base en el documento que sustente su procedencia de conformidad con las disposiciones aplicables, y de acuerdo con los tabuladores de percepciones emitidos y autorizados por la Función Pública y la Secretaría, en el ámbito de sus respectivas competencias, y conforme a las estructuras ocupacionales y organizacionales autorizadas y registradas.
-
-Cuando los pagos se efectúen a través de las instituciones bancarias, las dependencias deberán realizar las acciones conducentes a fin de que la operación de los recursos mediante depósito en cuenta bancaria sea sin cargo alguno para el personal.
-
-###### Artículo 133.
-
-Las dependencias deberán establecer los mecanismos necesarios para garantizar la recuperación de los pagos en exceso, ocasionados por cambios o bajas del personal, errores u omisiones. En su caso, los recursos que las dependencias recuperen deberán reintegrarse a la Tesorería en términos del artículo 84 de este Reglamento.
-
-Independientemente de la forma de pago, la dependencia deberá asegurarse de entregar a cada servidor público, directamente o por medios electrónicos, el comprobante de pago donde se especifiquen los conceptos y cantidades que correspondan a sus percepciones y descuentos. Asimismo, deberá conservar los documentos que emitan las instituciones bancarias de los abonos efectuados a las cuentas de los servidores públicos, lo que comprobará que efectivamente se efectuó el pago.
-
-#### SECCIÓN IV. Del ejercicio y pago en entidades
-
-###### Artículo 134.
-
-Las entidades apoyadas en materia de servicios personales se sujetarán en lo conducente a lo previsto en los artículos 132 y 133 de este Reglamento y en general a las disposiciones que emitan la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, en materia de estructuras organizacionales, ocupacionales y salariales, de servicios personales y de planeación y administración de personal.
-
-Las entidades no apoyadas deberán observar la política del Ejecutivo Federal en materia salarial y de servicios personales. El órgano de gobierno correspondiente instrumentará lo conducente y atenderá lo dispuesto por el Presupuesto de Egresos, evitando deteriorar su balance primario.
-
-Las entidades que pretendan realizar traspasos que afecten su presupuesto aprobado en materia de servicios personales deberán sujetarse a lo establecido en los artículos 99 y 101 a 104 de este Reglamento.
-
-#### SECCIÓN V. Del sistema para el control presupuestario de los servicios personales
-
-###### Artículo 135.
-
-El sistema de control presupuestario de los servicios personales comprende la programación, presupuesto, registro, seguimiento y evaluación de las remuneraciones de los servidores públicos. Para tal efecto considerará, cuando menos, lo siguiente:
-
-I. Catálogo general de puestos del Gobierno Federal, que es el instrumento que permite clasificar los puestos de los servidores públicos y que para efectos del proceso presupuestario comprenderá la clasificación y registro de los puestos del personal civil y militar de las dependencias y entidades;
-
-II. Tabuladores, conforme a los grupos de personal operativo, categorías y de mando y enlace para las remuneraciones siguientes:
-
-a) Percepciones ordinarias, que considera el sueldo base tabular y, en su caso, el esquema de compensaciones que corresponda;
-
-b) Prestaciones;
-
-c) En su caso, las percepciones extraordinarias que correspondan;
-
-III. Estructura ocupacional, que comprende el conjunto de puestos con actividades definidas, delimitadas y concretas que permiten el cumplimiento de una función, y que constituyen la base para la determinación del presupuesto de servicios personales, mediante los instrumentos siguientes:
-
-a) Inventario de plazas, el registro de las plazas por puesto por unidad responsable de las dependencias;
-
-b) Plantillas de personal, el registro de las plazas por puesto por entidad;
-
-IV. Movimientos a las estructuras ocupacionales, que comprende las modificaciones al inventario de plazas y a las plantillas de personal que realizan las dependencias y entidades para el mejor cumplimiento de los objetivos de los programas presupuestarios derivados de la creación, cancelación, conversión o reubicación de plazas, previo dictamen de viabilidad presupuestaria de la Secretaría, para su autorización y registro conforme a las disposiciones aplicables, y
-
-V. Determinación del costo de plazas, el cual comprenderá la aplicación de los tabuladores de los sueldos y salarios y las prestaciones conforme a los factores fijos y variables que correspondan para obtener el valor presupuestario de las plazas de la estructura ocupacional.
-
-#### SECCIÓN VI. Del desempeño de dos o más empleos, cargos o comisiones
-
-###### Artículo 136.
-
-Cuando alguna persona pretenda ingresar a prestar sus servicios en cualquier dependencia o entidad deberá manifestar, bajo protesta de decir verdad, si se encuentra o no desempeñando otro empleo, cargo, o comisión, o si está prestando servicios profesionales por honorarios dentro de cualquier dependencia o entidad. En caso afirmativo, la dependencia o entidad deberá abstenerse de designarlo o contratarlo, hasta en tanto se determine la compatibilidad correspondiente, en términos de las disposiciones generales que al efecto emita la Función Pública.
-
-###### Artículo 137.
-
-Para percibir remuneraciones con cargo al presupuesto por el desempeño de dos o más empleos, cargos o comisiones, o la prestación de servicios por honorarios en las dependencias y entidades, se requerirá la autorización de la compatibilidad correspondiente emitida por la dependencia o entidad contratante, conforme a las disposiciones que expida la Función Pública.
-
-Para el otorgamiento de la autorización antes señalada, cuando el solicitante tenga ya empleo, cargo o comisión, o preste sus servicios profesionales por honorarios en cualquier dependencia o entidad, deberán considerarse las circunstancias en que se realice dicho empleo, cargo o comisión, o se preste el servicio contratado, a efecto de que se cumpla con los horarios establecidos y el ejercicio de las funciones o actividades respectivas.
-
-###### Artículo 138.
-
-Será compatible el desempeño de dos o más empleos, cargos o comisiones, o la prestación de servicios profesionales por honorarios en distintas dependencias y/o entidades, siempre y cuando el horario fijado para los mismos no interfiera entre sí, ni se genere conflicto de intereses en términos de las disposiciones aplicables.
-
-No será compatible el desempeño de dos o más plazas en una misma dependencia, entidad o unidad administrativa, excepto en aquellos casos relativos a plazas del sector educativo por horas o tiempo parcial u otras que se señalen en las disposiciones aplicables.
-
-La Función Pública expedirá las disposiciones que deberán observarse para aceptar el desempeño de dos o más empleos, cargos o comisiones, o la prestación de servicios profesionales por honorarios en las dependencias y entidades, y será la competente para determinar los casos en que proceda la compatibilidad y para aclarar los casos de duda que al respecto se presenten.
-
-###### Artículo 139.
-
-Las dependencias y entidades serán responsables de comprobar que el personal que ingrese a prestar sus servicios en las mismas y hubiere manifestado estar desempeñando otro empleo, cargo o comisión, o prestando servicios profesionales por honorarios, en cualquiera otra, cuente con la autorización de compatibilidad respectiva.
-
-###### Artículo 140.
-
-Los órganos internos de control de las dependencias y entidades podrán verificar en todo tiempo que los interesados estén cumpliendo con las funciones y/o actividades encomendadas, en los horarios y jornadas establecidos y, en su caso, promoverán la cancelación de alguna autorización ya emitida cuando verifiquen que el interesado no desempeña alguno o algunos de los empleos, cargos o comisiones, o preste los servicios profesionales por honorarios señalados en su solicitud, o que los horarios indicados en dicho documento no son compatibles.
-
-#### SECCIÓN VII. De la información y registros
-
-###### Artículo 141.
-
-De conformidad con las disposiciones generales que al efecto emita la Función Pública, las dependencias y entidades deberán registrar ante ésta y publicar en su respectiva página de Internet, la información relativa a los contratos de servicios profesionales por honorarios celebrados, la cual deberá mantenerse actualizada.
-
-###### Artículo 142.
-
-Las dependencias y entidades deberán mantener actualizado sus registros de plazas, nombramientos, compromisos, pagos, percepciones, prestaciones, licencias con y sin goce de sueldo, personas comisionadas, así como de los servidores públicos que disfruten de becas otorgadas por ellas y los pagos correspondientes.
-
-Para tales efectos, se sujetarán a las normas que en cada caso expida la Función Pública y deberán informar a ésta sobre el particular en los términos y plazos que determine.
-
-#### SECCIÓN VIII. De las remuneraciones del personal militar
-
-###### Artículo 143.
-
-El pago de las remuneraciones a los agregados navales o militares deberá estar sustentado conforme al acuerdo de designación del Ejecutivo Federal.
-
-Para el ejercicio y pago de las remuneraciones al personal militar se deberá observar lo siguiente:
-
-I. El pago se realizará con base en las plantillas orgánicas que al efecto elaboren las secretarías de la Defensa Nacional y de Marina, según corresponda. Dichas plantillas se remitirán a la Secretaría, así como sus modificaciones, en los plazos que ésta determine;
-
-II. Las modificaciones al importe de haberes, sobrehaberes y asignaciones correspondientes a los miembros de las fuerzas armadas, salvo disposición expresa del Presidente de la República, requerirán de la conformidad de la Secretaría;
-
-III. Al dejar una zona insalubre o de vida cara con motivo del desempeño de una comisión, sólo se pagarán sobrehaberes durante 30 días como máximo. Después de este lapso, si continúa la comisión se suspenderá dicho pago;
-
-IV. Las asignaciones de mando, de técnico, de técnico especial, de vuelo, de comisión y especiales, serán concedidas a los integrantes de las fuerzas armadas que satisfagan los requisitos que prevean las secretarías de la Defensa Nacional y de Marina según corresponda, de acuerdo con las tarifas y cuotas que al respecto haya establecido la Secretaría;
-
-V. Las secretarías de la Defensa Nacional y de Marina cubrirán los haberes correspondientes de su personal que se encuentre sujeto a proceso, en los términos que para tal efecto dé a conocer la Secretaría, y
-
-VI. Será incompatible percibir remuneraciones en forma simultánea por concepto de asignaciones de técnico y de vuelo; y la percepción acumulada de haberes con las asignaciones de mando y de vuelo sólo será compatible con una de las asignaciones de alimentación de personas o viáticos.
-
-La compatibilidad entre los empleos civiles y militares queda sujeta a las mismas reglas señaladas para la compatibilidad de empleos y comisiones de carácter civil.
-
-#### SECCIÓN IX. Del pago de remuneraciones en moneda extranjera
-
-###### Artículo 144.
-
-El pago de las remuneraciones al personal del servicio exterior mexicano y asimilado a éste, así como el del personal temporal, eventual o al contratado, en términos de las disposiciones aplicables, en apoyo a las funciones de las oficinas de carácter permanente establecidas en el extranjero, se realizará conforme a los tabuladores en moneda extranjera que la Secretaría autorice en términos de las disposiciones aplicables. En su caso, se podrá determinar una compensación en función de las variaciones del tipo de cambio, conforme a las disposiciones generales que para tal efecto emita la Secretaría.
-
-#### SECCIÓN X. De los gastos por defunción
-
-###### Artículo 145.
-
-Los pagos de los gastos de defunción a que se refiere el artículo 73 de la Ley, que se otorguen a los beneficiarios con motivo del fallecimiento del personal civil federal, militar o pensionistas directos con cargo al Erario Federal, se sujetarán a las modalidades que se establezcan en las disposiciones generales que emitan para tal efecto la Secretaría y la Función Pública.
-
-Los gastos de defunción de los miembros del servicio exterior mexicano, incluido el personal de carrera y asimilado, temporal o eventual que fallezca fuera del país, se efectuarán conforme lo dispuesto por la Ley del Servicio Exterior Mexicano.
-
-### CAPÍTULO X. De las Adquisiciones, Arrendamientos, Obras Públicas y Servicios
-
-#### SECCIÓN I. De las adquisiciones, arrendamientos, obras públicas y servicios
-
-###### Artículo 146.
-
-Para efectos de lo dispuesto en el artículo 35 de la Ley, las dependencias y entidades podrán convocar, adjudicar y formalizar adquisiciones, arrendamientos, obras públicas y servicios que ejercerán en el siguiente ejercicio fiscal con la previa autorización especial de la Secretaría, independientemente del origen de los recursos, conforme a lo siguiente:
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-I. Solicitar la autorización, siempre que se justifique que por la importancia y características de las adquisiciones, arrendamientos, servicios y obras deban comenzar a partir del ejercicio fiscal siguiente, o bien que generarán mayores beneficios.
-
-Para efectos de los programas y proyectos de inversión, además se deberá observar lo dispuesto en el artículo 156, fracción I, de este Reglamento, y
-
-II. La Secretaría emitirá la resolución a las solicitudes presentadas en los términos de la fracción anterior, en un plazo máximo de 10 días hábiles a partir de su presentación.
-
-Transcurrido el plazo anterior sin que la Secretaría emita comunicación alguna, en términos del artículo 5 de este Reglamento, las solicitudes se tendrán por autorizadas y ésta deberá informarlo por escrito a petición de la dependencia o entidad correspondiente dentro de un plazo de 5 días hábiles.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Las modificaciones en monto o vigencia de contratos celebrados bajo el ámbito de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, que requieran la continuidad una vez concluido un ejercicio fiscal, no necesitarán la autorización de la Secretaría, siempre y cuando se trate de arrendamiento de bienes o servicios cuya vigencia de contratación no exceda el primer trimestre del ejercicio fiscal siguiente y resulte indispensable para no interrumpir la operación regular de la dependencia o entidad, quedando sujetos el ejercicio y pago de dichas contrataciones a la disponibilidad presupuestaria del ejercicio fiscal siguiente.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Artículo 146 A. El pago de los contratos de bienes, obras públicas y servicios celebrados en el extranjero, se realizarán conforme a las siguientes modalidades:
-
-I. Cuando las contrataciones estén financiadas con recursos otorgados por organismos financieros internacionales, el pago directo a proveedores se hará con cargo a las divisas provenientes del crédito externo;
-
-II. El establecimiento de cartas de crédito comercial irrevocable con las instituciones financieras nacionales o internacionales, a través del agente financiero, cuyo pago se autorice con recursos fiscales que la Tesorería reserve en el Banco de México en dólares de los Estados Unidos de América, o
-
-III. A través de la contratación de crédito bilateral otorgado por las instituciones financieras internacionales, por conducto de los agentes financieros que autorice la Secretaría.
-
-Las dependencias que realicen contrataciones en el exterior con recursos provenientes de organismos financieros internacionales, no podrán utilizar crédito bilateral, ni establecer las cartas de crédito comercial irrevocable a que se refieren las fracciones II y III de este artículo para sustituir dichos recursos.
-
-#### SECCIÓN II. De los contratos plurianuales
-
-###### Artículo 147.
-
-Las dependencias que pretendan celebrar contratos plurianuales a que se refiere el artículo 50 de la Ley se sujetarán a lo siguiente:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-I. Deberán solicitar la autorización de la Secretaría dentro del periodo comprendido entre el primer día hábil de enero y el último día hábil de agosto, anexando los siguientes documentos:
-
-a) La especificación de las obras, adquisiciones, arrendamientos o servicios, señalando si corresponden a inversión o gasto corriente;
-
-b) La justificación de que la celebración de dichos compromisos representa ventajas económicas o que sus términos y condiciones son más favorables respecto a la celebración de dichos contratos por un solo ejercicio fiscal;
-
-c) La justificación del plazo de la contratación y de que el mismo no afectará negativamente la competencia económica del sector de que se trate;
-
-d) El desglose del gasto que debe consignarse a precios del año, tanto para el ejercicio fiscal como para los subsecuentes, así como, en el caso de obra pública, los avances físicos esperados. Los montos deberán presentarse en moneda nacional y, en su caso, en la moneda prevista para su contratación.
-
-Las dependencias y entidades deberán presupuestar el gasto para los ejercicios subsecuentes conforme al inciso d) anterior.
-
-La Secretaría emitirá su resolución en un plazo máximo de 10 días hábiles a partir de la presentación de la solicitud.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Transcurrido el plazo anterior sin que la Secretaría emita resolución alguna, en términos del artículo 5 de este Reglamento, las solicitudes se tendrán por autorizadas y ésta deberá informarlo por escrito a petición de la dependencia correspondiente dentro de un plazo de 5 días hábiles.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Las dependencias podrán presentar solicitudes con posterioridad al plazo a que se refiere la presente fracción, las cuales serán analizadas y, en su caso, autorizadas siempre que se trate de gastos administrativos o de apoyo al desempeño de las funciones de la dependencia, y
-
-II. Las dependencias que requieran actualizar los montos plurianuales autorizados que sirvieron de base para celebrar originalmente los contratos derivados de la variación de costos o montos deberán presentar a la Secretaría la justificación correspondiente, así como el avance financiero y, en el caso de obra pública, además el avance físico. Para dicha actualización no requerirán la autorización de la Secretaría en los siguientes casos:
-
-a) El monto total actualizado de las adquisiciones o arrendamientos no rebase el 20 por ciento de los montos plurianuales autorizados, ni el techo del presupuesto modificado autorizado para el año en el concepto correspondiente;
-
-b) El monto total actualizado de las obras no rebase el 25 por ciento de los montos plurianuales autorizados, ni el techo del presupuesto modificado autorizado para el año en el concepto correspondiente.
-
-Las dependencias deberán informar a la Secretaría sobre las actualizaciones a que se refiere esta fracción en un plazo máximo de 10 días hábiles.
-
-En caso de que se rebasen los porcentajes establecidos en los incisos anteriores, se solicitará la autorización de la Secretaría, en los términos de la fracción I de este artículo, anexando la justificación correspondiente.
-
-Las dependencias no contraerán compromisos plurianuales que impliquen riesgos de incumplimiento de sus obligaciones o que restrinjan la flexibilidad requerida para el adecuado ejercicio del gasto. Para ello, el monto total de este tipo de contratos, sin incluir aquellos derivados de proyectos para prestación de servicios para cualquier año de su vigencia, no rebasará el 20 por ciento del gasto total aprobado para el año en que se celebren en las partidas de gasto correspondientes. En casos excepcionales y debidamente justificados, la Secretaría podrá autorizar un porcentaje mayor.
-
-Cuando el monto autorizado originalmente resulte insuficiente para llevar a cabo la contratación, se elaborará la justificación correspondiente y se solicitará una nueva autorización de conformidad con la fracción I de este artículo.
-
-> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Aquellos proyectos de naturaleza plurianual a que se refieren los artículos 35 a 41, 53 A a 53 E, y 149 de este Reglamento, se sujetarán a las autorizaciones previstas en los mismos y a las disposiciones aplicables, por lo que no requerirán de la autorización a que se refiere el presente artículo, salvo que por circunstancias supervenientes cambien las condiciones originalmente autorizadas.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 148.
-
-Las entidades que pretendan celebrar contratos plurianuales se sujetarán a la autorización de su titular, de conformidad con las disposiciones que al efecto aprueben sus respectivos órganos de gobierno, las cuales deberán considerar como mínimo lo dispuesto en los incisos a) a d) de la fracción I del artículo anterior, así como evitar contraer compromisos contractuales plurianuales que impliquen riesgos de incumplimiento de sus obligaciones o que restrinjan su disponibilidad presupuestaria necesaria para la operación.
-
-En el caso de las entidades de control directo, previo a la autorización del titular de la entidad, solicitar la opinión de la Secretaría para la celebración de contratos plurianuales cuyo monto en alguno de los años de vigencia del contrato represente un 5 por ciento o más del gasto de inversión o de operación de la entidad previsto para cada año, sin incluir en ambos casos las previsiones de gasto de los proyectos de infraestructura productiva de largo plazo y de servicios personales.
-
-La Secretaría emitirá la opinión correspondiente en un plazo máximo de 10 días hábiles, contados a partir de la presentación de la solicitud.
-
-#### SECCIÓN III. Del arrendamiento financiero
-
-###### Artículo 149.
-
-En la celebración de contratos de arrendamiento financiero, las dependencias y entidades deberán cumplir los requisitos establecidos en las disposiciones generales que emita la Secretaría y obtener la autorización presupuestaria correspondiente.
-
-En casos excepcionales y tratándose de arrendamiento financiero de inmuebles que sustituirían arrendamiento simple o de bienes muebles cuyo monto sea mayor a $300´000,000.00 de pesos, y que se utilicen exclusivamente en la operación sustantiva de la dependencia o entidad, la Secretaría podrá autorizar que se prevean únicamente en el capítulo de inversión física las erogaciones que tengan lugar en cada ejercicio fiscal. En dichos casos, las erogaciones por concepto de arrendamiento financiero deberán representar un ahorro en comparación con los recursos que se emplearían para pagar, en su caso, un arrendamiento simple, incluyendo los gastos y costos asociados, de conformidad con las disposiciones generales que al efecto emita la Secretaría.
-
-El tratamiento presupuestario establecido en este artículo se aplicará sin perjuicio de la observancia de las demás disposiciones aplicables en materia de arrendamiento financiero.
-
-#### SECCIÓN IV. De los proyectos para prestación de servicios
-
-###### Artículo 150.
-
-(DEROGADO POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
-
-###### Artículo 151.
-
-(DEROGADO POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
-
-###### Artículo 152.
-
-(DEROGADO POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
-
-###### Artículo 153.
-
-(DEROGADO POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
-
-###### Artículo 154.
-
-(DEROGADO POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
-
-###### Artículo 155.
-
-(DEROGADO POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
-
-### CAPÍTULO XI. Del Ejercicio de la Inversión Física
-
-#### SECCIÓN I. De la autorización para la inversión física
-
-###### Artículo 156.
-
-El gasto de inversión física que requiera registro en Cartera, así como el gasto relativo a los proyectos de infraestructura productiva de largo plazo, se autorizan mediante los documentos presupuestarios siguientes:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-I. El oficio de autorización especial de inversión se emitirá por la Secretaría, a solicitud de las dependencias y entidades, con base en las estimaciones de los anteproyectos de presupuesto o, en su caso, en las asignaciones aprobadas en el Presupuesto de Egresos del ejercicio fiscal siguiente, a más tardar el último día hábil de noviembre anterior al ejercicio fiscal en el que se ejecutarán los programas y proyectos de inversión conforme al artículo 146 de este Reglamento considerando que la presentación de las solicitudes por las dependencias y entidades ante la Secretaría se deberá realizar con 10 días hábiles de anticipación a la fecha de emisión de las autorizaciones.
-
-(REPUBLICADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)
-
-A partir de la autorización a que se refiere el párrafo anterior, las dependencias y entidades podrán convocar, adjudicar y formalizar compromisos que les permitan iniciar o continuar, a partir del 1 de enero del ejercicio siguiente, aquellos programas y proyectos de inversión que por su importancia y características así lo requieran.
-
-(REPUBLICADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)
-
-Las erogaciones derivadas del oficio de autorización especial de inversión sólo podrán ejercerse una vez emitido el oficio de liberación de inversión a que se refiere la fracción siguiente;
-
-II. El oficio de liberación de inversión se emitirá por el Oficial Mayor de la dependencia o su equivalente, en su caso, por el titular de la entidad, o por el servidor público que designe el titular de la dependencia o entidad para ejercer los recursos de programas y proyectos de inversión.
-
-Cuando se trate del oficio de liberación de inversión de los órganos administrativos desconcentrados, su emisión será responsabilidad conjunta del Oficial Mayor de la dependencia o del servidor público que designe el titular de la dependencia y del titular del órgano administrativo desconcentrado o, en su caso, del servidor público que éste designe, y
-
-III. El oficio de inversión financiada se emitirá en forma indelegable por el servidor público que designe el titular de la dependencia coordinadora de sector, con base en el apartado especial del Presupuesto de Egresos a que se refiere el artículo 197 de este Reglamento, para iniciar el procedimiento de contratación y formalizar los compromisos de ejecución y, en su caso, financiamiento de los proyectos de infraestructura productiva de largo plazo previstos en dicho Presupuesto de Egresos, de conformidad con los artículos 189 al 209 de este Reglamento.
-
-El oficio a que se refiere esta fracción será emitido por cada proyecto de infraestructura productiva de largo plazo que se lleve a cabo con el fin de que se inicie el procedimiento de contratación respectivo.
-
-Antes de la emisión de los oficios de inversión se deberá contar con el registro en la Cartera y, en su caso, con el dictamen favorable a que hace referencia el artículo 53 de este Reglamento.
-
-En el ejercicio de los gastos de seguridad pública y nacional a que se refiere el artículo 210 de este Reglamento, relativo a adquisición de equipo de seguridad pública y nacional, se exceptúa la emisión del oficio de liberación de inversión a que se refiere la fracción II de este artículo, en cuyo caso las adquisiciones de bienes de inversión que se contraten tanto con proveedores nacionales como extranjeros, se sujetarán a lo señalado en la fracción II del artículo 210 de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Artículo 156 A. Los servidores públicos que emitan los oficios de liberación de inversión y de inversión financiada a que se refieren las fracciones II y III del artículo 156 de este Reglamento, respectivamente, serán responsables de que dichos oficios contengan la información siguiente:
-
-I. El nombre del programa o proyecto de inversión, la clave presupuestaria y la clave del registro correspondiente en la Cartera;
-
-II. Los calendarios de presupuesto autorizados;
-
-III. La unidad responsable que ejecuta el programa y proyecto de inversión;
-
-IV. La descripción de los bienes por adquirir y/o las obras por ejecutar, cantidad e importe total;
-
-V. Las fuentes de financiamiento y, en su caso, el porcentaje correspondiente;
-
-VI. El monto total del programa y proyecto de inversión, el desglose del gasto para el año fiscal que corresponda, así como para los subsecuentes ejercicios cuando se trate de programas y proyectos de inversión que abarquen varios ejercicios fiscales; asimismo, tratándose de obra pública, las metas y los avances físicos de la ejecución;
-
-VII. La localización geográfica, y
-
-VIII. Las categorías de inversión cuando se trate de programas y proyectos de inversión financiados con crédito externo.
-
-###### Artículo 157.
-
-Entre el primer día hábil de enero y el 20 de diciembre, el Oficial Mayor, su equivalente, en su caso, el titular de la entidad, o el servidor público que designe el titular de la dependencia o entidad, deberá informar a la Secretaría sobre los oficios de liberación de inversión y de inversión financiada a que se refieren las fracciones II y III del artículo anterior y/o sus modificaciones, dentro de los 5 días hábiles siguientes a su autorización. Dichos informes deberán presentarse en forma previa al procedimiento de contratación respectivo o ejercicio de los recursos correspondientes.
-
-En el caso de cualquier modificación a lo autorizado en el oficio de inversión, se deberá emitir un nuevo oficio de inversión que sustituya al emitido originalmente.
-
-###### Artículo 158.
-
-La Secretaría, en coordinación con las dependencias y entidades, podrá determinar el diferimiento o cancelación de los programas y proyectos de inversión en ejecución, cuando las condiciones presupuestarias lo ameriten.
-
-#### SECCIÓN II. De los programas y proyectos financiados con crédito externo para dependencias
-
-###### Artículo 159.
-
-Los programas y proyectos financiados con crédito externo requerirán la aprobación de la Secretaría.
-
-Las dependencias deberán observar los requisitos y procedimientos de elegibilidad convenidos con los organismos e instituciones financieros internacionales, ya que de existir diferencias por gastos que no resulten elegibles y que impliquen un menor desembolso del crédito externo por subejercicio del gasto presupuestado financiado con recursos provenientes de organismos e instituciones financieras internacionales, se cubrirán con cargo al presupuesto modificado autorizado de la dependencia mediante las adecuaciones presupuestarias correspondientes.
-
-Los recursos que se prevea ejercer con cargo a crédito externo deberán aplicarse a los programas y proyectos para los cuales fueron contratados y sólo podrán traspasarse a otros programas y proyectos, siempre y cuando se haya dado cumplimiento a las metas de los programas y proyectos respectivos, existan cancelaciones de créditos, o éstos no se formalicen y en consecuencia se difiera su ejecución, y bajo la condición de que los programas y proyectos objeto del traspaso sean susceptibles de financiamiento externo conforme a la autorización de la Secretaría en el marco de los programas de préstamo contratados.
-
-Los programas y proyectos presupuestados con recursos fiscales, que por sus características durante el ejercicio se incorporen a los financiamientos otorgados por los organismos e instituciones financieras internacionales, se deberán especificar en la Cuenta Pública con base en la documentación comprobatoria de los montos desembolsados para su identificación como programas y proyectos financiados con crédito externo.
-
-Cuando la dependencia no ejerza con oportunidad los recursos comprometidos, o no cumpla con los objetivos y metas establecidos en los programas y proyectos financiados con crédito externo, la Secretaría podrá realizar el traspaso de recursos de la dependencia o entidad correspondiente para cubrir el pago de las comisiones que se generen por el diferimiento en la operación, modificación o cancelación de dichos programas y proyectos.
-
-#### SECCIÓN III. De los programas y proyectos financiados con crédito externo para entidades
-
-###### Artículo 160.
-
-Las entidades que tengan previsto realizar adquisiciones en el exterior con recursos propios o crédito interno procurarán sustituir dichas fuentes de financiamiento por aquéllas que ofrezcan los países y proveedores del exterior mediante líneas de crédito externo disponibles en las instituciones financieras internacionales o en las instituciones de crédito nacionales, con el fin de coadyuvar a la racionalización en el uso de las divisas, excepto cuando las adquisiciones ya cuenten con otras fuentes de financiamiento. Para ello, someterán a la consideración y, en su caso, autorización de la Secretaría, los términos y condiciones financieras del crédito y le solicitarán la modificación a la estructura financiera en el oficio de liberación de inversión y la correspondiente adecuación presupuestaria en los términos del artículo 99 de este Reglamento.
-
-Las entidades realizarán los pagos de las adquisiciones provenientes del exterior con cargo a sus presupuestos mediante los esquemas de prepago establecidos con las instituciones de crédito para la utilización de las líneas de crédito externo.
-
-El oficio de liberación de inversión señalará que la adquisición será pagada a través del sistema de prepago e indicará la institución de crédito con la que se opere este mecanismo.
-
-###### Artículo 161.
-
-Para el ejercicio de las erogaciones asignadas a los programas y proyectos financiados por organismos e instituciones financieros internacionales las entidades enviarán la documentación comprobatoria de las erogaciones efectuadas utilizando sus propios sistemas de pago, a fin de que conforme a los criterios de elegibilidad establecidos por los organismos e instituciones financieros internacionales se tramite el desembolso correspondiente a favor de la entidad ejecutora.
-
-Las entidades apoyadas que requieran contratar financiamiento de los organismos financieros internacionales deberán realizar su ejercicio, de conformidad con lo dispuesto en los artículos 167 y 168 de este Reglamento.
-
-En los créditos externos que contraten las entidades conforme a las disposiciones aplicables, éstas quedarán obligadas a cubrir con recursos propios el servicio de la deuda que los créditos generen.
-
-Previo a la negociación con los organismos e instituciones financieros internacionales que otorgan el crédito, las entidades deberán contar con la autorización de la Secretaría. En caso de que el crédito externo no pueda ser contratado directamente por la entidad, la Secretaría evaluará la posibilidad de asignar un agente financiero para la contratación y administración del préstamo, o recomendará medidas alternativas.
-
-Cuando la entidad no ejerza con oportunidad los recursos comprometidos, o no cumpla con los objetivos y metas establecidos en los programas y proyectos financiados con crédito externo, resultará aplicable lo dispuesto en el último párrafo del artículo 159 de este Reglamento.
-
-#### SECCIÓN IV. Del financiamiento con crédito multilateral
-
-###### Artículo 162.
-
-Las dependencias, con base en su presupuesto aprobado o modificado autorizado, a través del agente financiero, podrán utilizar el sistema de desembolsos establecido con los organismos financieros internacionales conforme a lo que determine la Secretaría.
-
-Las dependencias deberán emitir cuentas por liquidar certificadas que no impliquen salida de recursos para registrar presupuestariamente las erogaciones realizadas con base en la documentación comprobatoria de respaldo para la continuación de los programas y proyectos.
-
-###### Artículo 163.
-
-La dependencia registrará en el sistema de administración financiera federal la cuenta por liquidar certificada, afectando su presupuesto disponible hasta por los importes que resulten, de acuerdo con la divisa extranjera al tipo de cambio que fije el Banco de México respecto del dólar de los Estados Unidos de América vigente en la fecha de pago.
-
-En caso de que las diferencias en el tipo de cambio rebasen las previsiones del presupuesto aprobado o modificado autorizado no se autorizarán ampliaciones para su pago, por lo que se cubrirán con cargo al presupuesto disponible de la dependencia, para lo que deberán realizar las adecuaciones presupuestarias correspondientes en los términos de los artículos 93 al 97 de este Reglamento.
-
-###### Artículo 164.
-
-Las dependencias solicitarán a los agentes financieros tramitar los desembolsos del crédito externo con la información comprobatoria de los pagos realizados, a fin de que éstos verifiquen que el desembolso solicitado corresponde a componentes elegibles de financiamiento y que las contrataciones de bienes, obras y servicios cumplen con los requisitos exigidos por los organismos financieros internacionales para considerarlos elegibles de desembolso del crédito externo.
-
-Los agentes financieros, una vez que cuenten con la información comprobatoria de los pagos realizados que presenten las dependencias, deberán preparar las solicitudes y efectuarán los desembolsos de los créditos externos conforme a los procedimientos convenidos con los organismos financieros internacionales.
-
-###### Artículo 165.
-
-Los agentes financieros remitirán trimestralmente a la Secretaría un reporte que refleje el ejercicio de los recursos de los programas y proyectos financiados total o parcialmente con crédito externo, incluidos los montos desembolsados por programa o proyecto, categoría de inversión y ejecutor.
-
-Las dependencias deberán informar a la Secretaría, dentro de los 15 primeros días naturales de los meses de marzo y julio, el ejercicio de los recursos de los programas y proyectos financiados total o parcialmente con crédito externo conforme a las claves presupuestarias y estructura programática aprobadas.
-
-#### SECCIÓN V. Del financiamiento con crédito bilateral
-
-###### Artículo 166.
-
-Para que las dependencias puedan tener acceso a líneas de crédito bilateral deberán tener presupuestadas las adquisiciones que pretendan realizar.
-
-En los programas y proyectos en los que se requiera efectuar adquisiciones en el exterior, las dependencias deberán acudir a las instituciones de banca de desarrollo, a fin de identificar al agente financiero más adecuado para utilizar las líneas de crédito bilateral, con excepción de las adquisiciones que ya cuenten con otras fuentes de financiamiento externo.
-
-Las dependencias solicitarán a por lo menos dos instituciones de la banca de desarrollo, quienes deberán responder en un plazo no mayor a 10 días hábiles, una carta oferta en donde se indiquen los términos y condiciones del crédito externo bilateral susceptible de aprovecharse, mismos que deberán ser sometidos posteriormente a autorización de la Secretaría.
-
-El oficio de liberación de inversión deberá señalar que la operación comercial será pagada total o parcialmente a través de crédito externo.
-
-###### Artículo 167.
-
-Para la designación de agente financiero, las dependencias solicitarán la autorización de la Secretaría, la cual autorizará, en su caso, los términos y condiciones financieras definitivas que aplicarán al crédito bilateral a utilizarse.
-
-Las dependencias deberán incluir e indicar en las bases de licitación y en los contratos comerciales que las adquisiciones serán pagadas al proveedor con recursos provenientes de crédito externo.
-
-###### Artículo 168.
-
-La Tesorería, al recibir por el sistema de administración financiera federal las cuentas por liquidar certificadas, emitirá el formulario múltiple de pagos a nombre de la institución de crédito correspondiente, anotando en el cuerpo de éste el número y la fecha de autorización, así como el número de la cuenta por liquidar certificada.
-
-El costo financiero por el uso del crédito bilateral se cubrirá con cargo al ramo general correspondiente a deuda pública, siempre y cuando se cuente con la autorización previa de la Secretaría; de lo contrario, los gastos adicionales derivados de los servicios bancarios se cubrirán con cargo al presupuesto de la dependencia.
-
-###### Artículo 169.
-
-Cuando el crédito bilateral no se ejerza, las dependencias solicitarán a la Tesorería la cancelación de los recursos consignados en la cuenta por liquidar certificada mediante la emisión del aviso de reintegro, anexando a éste el oficio de cancelación expedido por el agente financiero y el formulario múltiple de pagos referido en el artículo anterior, a efecto de que se reintegren los recursos a las líneas globales por los importes no ejercidos.
-
-En caso de que el reintegro exceda las fechas de cierre presupuestario, las dependencias deberán efectuar las rectificaciones que correspondan, conforme a las disposiciones generales que emita la Secretaría.
-
-### CAPÍTULO XII. De los Subsidios, las Transferencias y los Programas Sujetos a Reglas de Operación
-
-#### SECCIÓN I. De la operación de subsidios y transferencias
-
-###### Artículo 170.
-
-Las dependencias o las coordinadoras de sector deberán incluir en sus presupuestos los subsidios y transferencias que otorguen directamente a las entidades apoyadas y a los órganos administrativos desconcentrados, según corresponda.
-
-Las previsiones para inversión financiera, pago de intereses, comisiones y gastos, y amortización de pasivos, se autorizarán excepcionalmente, siempre y cuando se presente la solicitud a la Secretaría, quien determinará la procedencia de este tipo de erogaciones.
-
-###### Artículo 171.
-
-Las entidades apoyadas y los órganos administrativos desconcentrados solicitarán a su dependencia coordinadora de sector o a la dependencia a la que estén jerárquicamente subordinados, respectivamente, los recursos presupuestarios autorizados a través de subsidios y transferencias.
-
-#### SECCIÓN II. De las transferencias
-
-###### Artículo 172.
-
-Los recursos por concepto de transferencias se deberán ejercer y registrar presupuestariamente por los órganos administrativos desconcentrados y las entidades apoyadas, con base en las partidas de los capítulos y conceptos del Clasificador por objeto del gasto, observando que los recursos autorizados y ministrados para apoyo de programas se identifiquen en los conceptos o partidas equivalentes de cada capítulo de gasto que determine la Secretaría.
-
-El manejo financiero de los recursos recibidos por concepto de transferencias deberá ser congruente con los objetivos y metas de los programas a cargo de las entidades, debiendo éstas destinar dichos recursos para cubrir precisamente obligaciones para las cuales fueron autorizados.
-
-En caso de transferencias por concepto de inversiones financieras, pagos de pasivos, y el costo financiero de éstos, se deberá llevar a cabo la identificación de los conceptos o partidas equivalentes conforme lo determine la Secretaría.
-
-No se deberán prever recursos para apoyo de programas cuyo fin consista en cubrir gastos de las unidades responsables de las dependencias, ni para erogaciones contingentes o especiales que tengan por objeto cubrir gastos de las entidades apoyadas y, en su caso, de los órganos administrativos desconcentrados que reciban transferencias.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Las entidades apoyadas presupuestariamente y los órganos administrativos desconcentrados sólo deberán solicitar ministraciones de recursos respecto de compromisos que se encuentren efectivamente devengados y que su dispersión para pago ocurra dentro de los 10 días hábiles posteriores a la recepción de la ministración. Lo anterior, salvo lo que determine la unidad administrativa responsable de la política y del control presupuestario con base en lo dispuesto en las leyes, decretos y demás disposiciones aplicables.
-
-###### Artículo 173.
-
-Las dependencias coordinadoras de sector y, en su caso, la Secretaría, para el otorgamiento de recursos por concepto de transferencias a las entidades, deberán:
-
-I. Analizar los estados financieros para determinar los niveles de liquidez y otras razones de tipo financiero que hagan procedente el monto de la transferencia correspondiente en el momento en que se otorgue de conformidad con los calendarios de presupuesto autorizados;
-
-II. Verificar que la ministración de las transferencias corresponda a la programación de los pagos del proyecto u obra que se financie y a los compromisos que se vayan a devengar durante el periodo para el que se otorgue la ministración correspondiente, y
-
-III. Observar los demás requisitos que al efecto señale la Secretaría.
-
-#### SECCIÓN III. De los subsidios
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 174.
-
-Las variaciones a los subsidios no deberán implicar su traspaso a otros programas presupuestarios de las dependencias, entidades apoyadas y órganos administrativos desconcentrados, con excepción de los casos autorizados por la Secretaría.
-
-###### Artículo 175.
-
-Los subsidios se considerarán devengados una vez que se haya constituido la obligación de entregar el recurso al beneficiario por haberse acreditado su elegibilidad antes del 31 de diciembre de cada ejercicio fiscal. Los subsidios cuyos beneficiarios sean los gobiernos de las entidades federativas y, en su caso, de los municipios, se considerarán devengados a partir de la entrega de los recursos a dichos órdenes de gobierno.
-
-#### SECCIÓN IV. De los programas sujetos a reglas de operación
-
-###### Artículo 176.
-
-Las dependencias y entidades deberán prever en las reglas de operación de los programas sujetos a éstas conforme a lo previsto en el Presupuesto de Egresos o en los instrumentos jurídicos a través de los cuales se canalicen recursos, la obligación de reintegrar a la Tesorería los recursos que no se destinen a los fines autorizados y aquéllos que al cierre del ejercicio no se hayan devengado.
-
-Los recursos de programas sujetos a reglas de operación cuyos beneficiarios sean personas físicas o, en su caso, personas morales distintas a entidades federativas y municipios, se considerarán devengados una vez que se haya constituido la obligación de entregar el recurso al beneficiario por haberse acreditado su elegibilidad antes del 31 de diciembre de cada ejercicio fiscal, con independencia de la fecha en la que dichos recursos se pongan a disposición para el cobro correspondiente a través de los mecanismos previstos en sus reglas de operación y en las demás disposiciones aplicables.
-
-###### Artículo 177.
-
-Las reglas de operación de los programas a través de los cuales se otorguen subsidios para fortalecer a los intermediarios que participan en el sector de ahorro y crédito popular, otros intermediarios financieros, y de los programas en los que, por conducto de dichas instituciones, se otorguen subsidios a la población de menores ingresos, deberán prever lo siguiente:
-
-I. Que en la operación de dichos programas, las instituciones de ahorro y crédito popular se sujetarán a las disposiciones de la Ley de Ahorro y Crédito Popular;
-
-II. La integración, en términos de las disposiciones generales aplicables, de un padrón de beneficiarios directos, y uno de intermediarios financieros y no financieros que participen como mecanismos de distribución de apoyos o, en su caso, sean beneficiarios directos de éstos;
-
-III. La obligación de enviar los referidos padrones y sus respectivas actualizaciones a la Función Pública en los términos de las disposiciones aplicables, y de integrarlos en los informes trimestrales.
-
-Conforme a las disposiciones establecidas por la Función Pública, los padrones deberán identificar a las personas físicas con la Clave Única de Registro de Población y, en el caso de personas morales, con la clave de Registro Federal de Contribuyentes;
-
-IV. La aplicación de criterios de regulación prudencial básica y normas de contabilidad por parte de los intermediarios financieros no regulados por la Comisión Nacional Bancaria y de Valores a que se refiere la fracción II de este artículo;
-
-V. La generación de información que posibilite la evaluación de la operación de los intermediarios que participan en el sector de ahorro y crédito popular desde una óptica financiera en función de los objetivos de disciplina fiscal y de bancarización de la población de bajos ingresos;
-
-VI. Las dependencias y entidades a cargo de dichos programas vigilarán que los intermediarios observen la aplicación de los criterios de regulación prudencial básica y normas de contabilidad establecidas en sus respectivas reglas de operación. La información relativa a la situación que guarde el cumplimiento de dicha aplicación se incluirá en sus informes trimestrales, y
-
-VII. Las dependencias y entidades a cargo de dichos programas proporcionarán en los informes trimestrales la información relativa a la ejecución del gasto, los padrones de beneficiarios directos y, en su caso, los intermediarios financieros y no financieros, la distribución territorial de los recursos por municipio y los avances en las metas anuales de los programas registrados durante ese periodo.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Los informes a que se refieren las fracciones III, VI y VII, deberán remitirse por las dependencias y entidades directamente al Congreso de la Unión, por conducto de las Comisiones correspondientes, a más tardar a los 30 días naturales de concluido el trimestre de que se trate.
-
-###### Artículo 178.
-
-Con el objeto de coadyuvar a una visión integral de los programas sujetos a reglas de operación, las dependencias y entidades que participen en los mismos, promoverán la celebración de convenios o acuerdos interinstitucionales con el fin de fortalecer la coordinación, evitar duplicidad en la consecución de los objetivos de los programas y dar cumplimiento a los criterios establecidos en el artículo 75 de la Ley. Las dependencias y entidades participantes, una vez suscritos los convenios o acuerdos interinstitucionales, deberán publicarlos en el Diario Oficial de la Federación dentro de un plazo de 15 días naturales posteriores a la celebración de los mismos y enviarlos a las comisiones correspondientes de la Cámara de Diputados.
-
-Las dependencias y entidades podrán celebrar convenios con personas morales sin fines de lucro, consideradas organizaciones de la sociedad civil, incluyendo aquéllas que promuevan las causas de mujeres, jóvenes, adultos mayores, indígenas, productores rurales y migrantes mexicanos, para su participación en la ejecución de los programas sujetos a reglas de operación. Para estos fines, los modelos de convenio, previo a su formalización, deberán ser publicados en el Diario Oficial de la Federación, señalando de manera precisa la forma en que se dará seguimiento al ejercicio de los recursos. Para la formalización de estos convenios, las dependencias y entidades deberán escuchar la opinión de los respectivos titulares del Poder Ejecutivo de las entidades federativas cuando así corresponda.
-
-Las personas morales sin fines de lucro, consideradas organizaciones de la sociedad civil que reciban recursos públicos federales en los términos del presente artículo, deberán destinar los mismos, incluyendo los rendimientos financieros que por cualquier concepto generen dichos recursos, exclusivamente a los fines del programa respectivo y ejercer dichos recursos con apego a los criterios y procedimientos contenidos en las reglas de operación del programa correspondiente. La Auditoría fiscalizará a dichas organizaciones en los términos de la Ley de Fiscalización Superior de la Federación.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 179.
-
-Para emitir la autorización a que se refiere el artículo 77, fracción I, de la Ley, relativa a los proyectos de reglas de operación de los programas previstos en el Presupuesto de Egresos, la Secretaría revisará exclusivamente que el programa no se contraponga, afecte, o presente duplicidades con otros programas y acciones del Gobierno Federal en cuanto a su diseño, beneficios, apoyos otorgados y población objetivo, así como que se cumplan las disposiciones aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 180.
-
-El costo de la evaluación a que se refiere el artículo 78 de la Ley deberá cubrirse con cargo al presupuesto de la dependencia o entidad correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Las evaluaciones deberán cumplir con lo señalado en los programas anuales de evaluación a que se refiere el artículo 110 de la Ley, en los términos de las disposiciones generales emitidas por la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias.
-
-En la designación y contratación de las instituciones académicas y de investigación u organismos especializados de carácter nacional o internacional que elaboren la evaluación de resultados de los programas sujetos a reglas de operación, se deberán observar las disposiciones que establezca la Secretaría, atendiendo la normativa aplicable, incluyendo aquéllas sobre los requisitos que dichos evaluadores deberán cumplir.
-
-Las dependencias y entidades, en los términos del artículo 50 de la Ley, podrán realizar contrataciones para que las evaluaciones a que se refiere el párrafo anterior abarquen varios ejercicios fiscales.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Las evaluaciones distintas a la materia de desarrollo social previstas en los programas anuales de evaluación, serán coordinadas por la Secretaría y la Función Pública en el ámbito de sus respectivas competencias, en los términos de las disposiciones aplicables.
-
-Las dependencias y entidades deberán informar a la Cámara de Diputados, por conducto de la Comisión de Presupuesto y Cuenta Pública, sobre las instituciones que llevarán a cabo las evaluaciones a más tardar el último día hábil de abril. Asimismo, deberán difundir dichas evaluaciones a través de sus respectivas páginas de Internet.
-
-###### Artículo 181.
-
-Las dependencias y las entidades a través de su dependencia coordinadora de sector, deberán enviar trimestralmente a la Cámara de Diputados, por conducto de las comisiones correspondientes, turnando copia a la Secretaría y a la Función Pública, informes sobre el presupuesto ejercido entregado a los beneficiarios a nivel de capítulo y concepto de gasto, así como informes sobre el cumplimiento de las metas y objetivos con base en indicadores de desempeño previstos en las reglas de operación, incluidos los correspondientes a los convenios formalizados con las organizaciones a que se refiere el artículo 178 de este Reglamento. Dichos informes se deberán presentar a más tardar a los 15 días hábiles posteriores a la terminación de cada trimestre, salvo en el caso de programas que operen en zonas rurales aisladas y de difícil acceso, que cuenten con las autorizaciones de las Comisiones para remitir la información en un plazo distinto.
-
-Aquellas dependencias y entidades que utilicen fideicomisos, mandatos o análogos para apoyar la entrega a los beneficiarios de los recursos de los programas sujetos a reglas de operación, de conformidad con lo establecido en las disposiciones aplicables, tendrán que incorporar en los informes previstos en el presente artículo, el avance en el cumplimiento de la misión y fines conforme a lo dispuesto en las reglas de operación del programa, y a lo siguiente:
-
-I. Ingresos del periodo;
-
-II. Rendimientos financieros del periodo;
-
-III. Egresos del periodo y su destino;
-
-IV. Disponibilidades o saldo del periodo, y
-
-V. Listado de beneficiarios.
-
-### CAPÍTULO XIII. De los Donativos
-
-###### Artículo 182.
-
-Las dependencias y entidades que reciban donativos deberán destinarlos a los fines específicos para los que les fueron otorgados; asimismo, deberán registrar los donativos en sus respectivos presupuestos y contabilizarlos previamente a su ejecución de acuerdo con las disposiciones aplicables. Tratándose de las entidades, además se sujetarán a lo determinado por su órgano de gobierno.
-
-Tratándose de donaciones en especie, las dependencias y entidades deberán realizar el registro contable que refleje el correspondiente movimiento en el activo y se sujetarán a las disposiciones contables aplicables.
-
-###### Artículo 183.
-
-Las dependencias y entidades, en términos de los artículos 10 y 80 de la Ley, podrán otorgar donativos en dinero, siempre y cuando cumplan con lo siguiente:
-
-I. Las dependencias y entidades apoyadas no podrán incrementar la asignación original aprobada en sus presupuestos dentro del ramo, en el rubro de donativos, y
-
-II. Las entidades no apoyadas deberán contar con recursos para dichos fines en sus respectivos presupuestos autorizados.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-> <small>(DEROGADO TERCERO PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 183 A. Las dependencias y entidades deberán prever que el proyecto a que se refiere el artículo 80, fracción III, segundo párrafo, de la Ley incluya lo siguiente:
-
-I. Los objetivos específicos que se pretendan realizar con el donativo;
-
-II. Los plazos que se deberán observar para la aplicación de los recursos, así como para el cumplimiento de los objetivos previstos, y
-
-III. El esquema que se utilizará para comprobar las actividades realizadas.
-
-Una vez determinado el otorgamiento de los donativos en los términos de las disposiciones aplicables, las dependencias o entidades deberán formalizar el instrumento jurídico que corresponda, con base en el modelo y reglas emitidos por la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 183 B. Las dependencias y entidades serán responsables de que en el instrumento jurídico que formalicen con cualesquiera de los beneficiarios a que se refiere el artículo 184 de este Reglamento, se acuerde que éstos se comprometan a:
-
-I. Aplicar los recursos federales otorgados como donativo de la Federación en el cumplimiento de los objetivos a realizar con esos recursos;
-
-II. Abrir y mantener una cuenta o subcuenta bancaria específica, según corresponda, en la que se identifiquen y manejen los recursos provenientes del donativo hasta en tanto se apliquen;
-
-III. Informar al menos trimestralmente el saldo de la cuenta bancaria específica, incluyendo los rendimientos obtenidos y los egresos efectuados, y el avance de los objetivos comprometidos para el cual se otorgó el donativo;
-
-IV. Proporcionar la información que para efectos de control, vigilancia y fiscalización de los recursos federales otorgados requieran la Secretaría y la Función Pública, así como cualquier otra autoridad competente en materia de fiscalización del ejercicio de recursos presupuestarios federales, y
-
-V. Restituir los recursos recibidos como donativo y sus rendimientos obtenidos, en el supuesto de que la dependencia o entidad donante lo requiera por haberse determinado que no se cuenta con la documentación que acredite su aplicación en los objetivos específicos.
-
-Las dependencias y entidades deberán poner a disposición del público en general a través de sus respectivas páginas de Internet, la relación de los beneficiarios de los donativos, los montos otorgados y las actividades a las cuales se destinaron.
-
-Las dependencias y entidades que otorguen donativos a los beneficiarios a que se refiere el artículo 184, fracción I, de este Reglamento y a los fideicomisos constituidos por particulares a que se refiere la fracción II de dicho artículo, deberán verificar que en el instrumento correspondiente el donatario se comprometa a facilitar la realización de auditorías por parte de la Función Pública y el órgano interno de control correspondiente, respecto de la aplicación de los recursos federales otorgados como donativos, así como a designar a un responsable interno solidario de la aplicación de dichos recursos, el cual será considerado como particular que maneja o aplica recursos públicos, en los términos de las disposiciones aplicables.
-
-En el caso de que se requiera la restitución de los recursos a que se refiere la fracción V anterior, éstos deberán concentrarse en la Tesorería o, en su caso, en la tesorería de la entidad.
-
-###### Artículo 184.
-
-En términos de lo dispuesto por la Ley, se podrán otorgar donativos en dinero de la Federación a los siguientes beneficiarios:
-
-I. Asociaciones no lucrativas que demuestren estar al corriente en sus respectivas obligaciones fiscales y que sus principales ingresos no provengan del Presupuesto de Egresos, salvo los casos que permitan expresamente las leyes;
-
-II. Fideicomisos constituidos por las entidades federativas o particulares;
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-III. Entidades federativas o sus municipios, y
-
-IV. Organismos e instituciones internacionales, en el marco de los tratados o acuerdos internacionales que suscriba el Gobierno Federal.
-
-Tratándose de asociaciones no lucrativas y fideicomisos constituidos por particulares, invariablemente deberán sujetarse a los requisitos previstos en el artículo 80, fracciones III y IV de la Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 185.
-
-La Función Pública llevará el registro único de los beneficiarios de los donativos de la Federación, para lo cual, establecerá las disposiciones generales para que las dependencias y entidades proporcionen la información de las instituciones beneficiarias de donativos y del cumplimiento a los contratos correspondientes, e integrará y actualizará dicho registro.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 186.
-
-En el caso de recursos correspondientes a donativos del exterior a que se refiere el artículo 81 de la Ley, las dependencias y entidades los ejercerán cuando estén incluidos y autorizados en su presupuesto.
-
-Cuando los donativos a que se refiere este artículo no estén previstos en el presupuesto de la dependencia o entidad que los pretenda ejercer, éstas, en su caso, a través del agente financiero, deberán enterarlos, previamente a su ejercicio o aplicación, a la Tesorería o, en su caso, a la tesorería de la entidad a más tardar el décimo día natural del mes siguiente a aquél en el que obtuvo el ingreso para su registro contable, y solicitar a la Secretaría la ampliación líquida correspondiente a que se refieren los artículos 111, 112, 116 y 117 de este Reglamento para que se incluyan dentro de su presupuesto modificado autorizado. Se podrá hacer uso, en su caso, del fondo rotatorio de acuerdo con los términos establecidos en el artículo 117, fracción II de este Reglamento.
-
-###### Artículo 187.
-
-Las dependencias y entidades que pretendan solicitar donativos provenientes de organismos e instituciones financieros internacionales deberán sujetarse a lo siguiente:
-
-I. Solicitar la opinión previa de la Secretaría sobre la factibilidad de financiar el programa o proyecto a través de estos donativos, a fin de que ésta determine, conjuntamente con el organismo o institución financiero internacional, los montos y condiciones de los mismos. La Secretaría determinará la conveniencia o no de asignar un agente financiero para la administración del donativo;
-
-II. En la formalización de los donativos a través de los contratos de donación participarán, de conformidad con las disposiciones aplicables, la Secretaría, como representante del Gobierno Federal, el donante, la dependencia o entidad y, en su caso, el agente financiero, y
-
-III. Cuando exista participación del agente financiero, la dependencia o entidad beneficiaria del donativo deberá suscribir con éste un contrato de apoyo financiero en el cual se establecerán las responsabilidades de la dependencia o entidad en relación con el uso de los recursos y la ejecución del programa o proyecto, y las obligaciones del agente financiero en la administración del donativo y de la cuenta especial para el anticipo a que se refiere el artículo 188, fracción II, inciso d) de este Reglamento.
-
-En caso de que no se cuente con la figura de agente financiero, la dependencia o entidad deberá presentar evidencia a la Secretaría de que cuenta con las facultades y capacidad institucional para la administración del donativo, incluyendo el manejo de la cuenta especial, y para ejecutar el proyecto propuesto.
-
-Este artículo no resultará aplicable cuando el donante sea distinto a los organismos e instituciones financieras internacionales, en cuyo caso la propia dependencia o entidad que pretenda ejercer el donativo actuará como representante del Gobierno Federal para la recepción del mismo y acordará con el donante los términos y condiciones para el ejercicio de los recursos, sujetándose a lo dispuesto en el artículo 186 de este Reglamento.
-
-###### Artículo 188.
-
-Las dependencias y entidades, al ejercer los recursos correspondientes a donativos que reciban del exterior, deberán sujetarse a lo siguiente:
-
-I. En caso de que los donativos sean entregados sin el requisito de la previa comprobación de gastos y las dependencias o entidades cuenten con la disponibilidad inmediata de los recursos dentro de su presupuesto aprobado o modificado autorizado, podrán ejercerlos conforme a lo siguiente:
-
-a) Enterar los desembolsos a la Tesorería, o a la tesorería de la entidad a más tardar el décimo día natural del mes siguiente a aquél en el que se obtuvo el ingreso.
-
-Los anticipos de recursos de los donativos provenientes de organismos e instituciones financieras internacionales deberán sujetarse a lo indicado en la fracción II de este artículo;
-
-b) Adoptar las medidas administrativas correspondientes a fin de que los gastos que no sean elegibles de desembolso, incluyendo el pago de impuestos, se cubran con cargo al presupuesto de las dependencias y entidades beneficiarias, y
-
-II. En caso de que el desembolso de los recursos del donativo se realice previa comprobación de gastos y la dependencia o entidad beneficiaria no cuente con recursos en su presupuesto modificado autorizado para financiar el programa o proyecto, se podrá solicitar el establecimiento de un fondo rotatorio hasta por el importe total de los recursos que pretenda ejercer durante el ejercicio fiscal que corresponda en los términos del artículo 81 de este Reglamento, conforme a lo siguiente:
-
-a) Los recursos autorizados en el acuerdo de ministración se depositarán en un fondo rotatorio a nombre de la dependencia o entidad;
-
-b) La Oficialía Mayor de la dependencia, o equivalente en ésta o en la entidad beneficiaria designará, en su caso, a la unidad responsable de la administración de los recursos del acuerdo de ministración, que podrá ser el área responsable de la ejecución del programa o proyecto;
-
-c) Con base en el monto de los recursos del acuerdo de ministración, la dependencia o entidad beneficiaria procederá a efectuar los pagos previstos, de conformidad con el contrato de donación;
-
-d) Los anticipos de recursos de los donativos provenientes del exterior podrán ser depositados en una cuenta especial, bajo un esquema acorde con los mecanismos establecidos por los organismos e instituciones financieros internacionales en los contratos de donación. Los recursos de la cuenta especial deberán enterarse a la Tesorería o a la tesorería de la entidad conforme se comprueben los gastos correspondientes;
-
-e) La dependencia o entidad, en su caso, a través del agente financiero, con base en los gastos comprobados, presentará la solicitud de desembolso al organismo o institución financiera internacional. Estos desembolsos deberán concentrarse en la Tesorería o a la tesorería de la entidad;
-
-f) Cuando los gastos efectuados se descuenten del anticipo o de la cuenta especial establecida con el agente financiero para tales efectos, éste tramitará la reposición de los recursos desembolsados ante el organismo o institución financiera internacional;
-
-g) La regularización presupuestaria, previa autorización de la ampliación líquida correspondiente, se realizará mediante la emisión de la cuenta por liquidar certificada, que no implica salida de recursos, y podrá llevarse a cabo cada vez que se entere un desembolso, o al final del ejercicio por el total de los desembolsos enterados en términos del artículo 81 de este Reglamento;
-
-h) Los rendimientos financieros de los recursos del fondo rotatorio serán enterados mensualmente a la Tesorería o a la tesorería de la entidad de conformidad con las disposiciones generales emitidas para tales efectos;
-
-i) Los rendimientos financieros de la cuenta especial a que se refiere el inciso d) de esta fracción serán reinvertidos en la misma cuenta, a fin de que estos recursos sean utilizados para financiar el programa o proyecto correspondiente, de conformidad con lo establecido en el contrato de donación;
-
-j) Las dependencias y entidades deberán adoptar las medidas administrativas correspondientes a fin de que los gastos que no sean elegibles de desembolso, incluyendo el pago de impuestos y la variación cambiaria, en su caso, sean cubiertos con cargo a su presupuesto modificado autorizado.
-
-### CAPÍTULO XIV. De los Proyectos de Infraestructura Productiva de Largo Plazo
-
-#### SECCIÓN I. Disposiciones generales
-
-###### Artículo 189.
-
-En el caso de los proyectos de infraestructura productiva de largo plazo a que se refiere el párrafo segundo del artículo 32 de la Ley, las entidades, por conducto de la dependencia coordinadora de sector, deberán presentar a la Secretaría una solicitud para recabar, en su caso, la autorización correspondiente. Esta solicitud se deberá presentar tanto para el caso de nuevos proyectos de infraestructura productiva de largo plazo como para aquellos ya autorizados que presenten cambio de alcance, en los términos del artículo 47 de este Reglamento.
-
-La Secretaría sólo podrá autorizar nuevos proyectos y cambios de alcance, en que los riesgos de contratación y operación que las entidades asuman sean congruentes con los términos financieros propuestos para los proyectos, considerando las condiciones imperantes para operaciones semejantes en los mercados financieros internacionales.
-
-#### SECCIÓN II. De la determinación de montos máximos y de la autorización
-
-###### Artículo 190.
-
-Los compromisos futuros que originen los proyectos de infraestructura productiva de largo plazo que se prevé iniciar, acumulados a aquellos de los proyectos que ya hubieran iniciado algún procedimiento de contratación o que ya estuvieran operando, serán acordes con las posibilidades agregadas de gasto y de financiamiento del sector público federal.
-
-La Secretaría, con base en las proyecciones macroeconómicas utilizadas en la programación del Gobierno Federal, determinará y presentará a la Comisión a más tardar el 15 de mayo una estimación preliminar de los montos máximos anuales de inversión financiada para proyectos de infraestructura productiva de largo plazo de inversión directa para los siguientes 4 años, a fin de atender la inversión requerida tanto de los nuevos proyectos que pretendan iniciar las entidades durante el siguiente ejercicio fiscal, como de aquéllos ya autorizados, incluyendo, en su caso, las actualizaciones de estos últimos.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Los montos máximos anuales de inversión financiada a que se refiere el párrafo anterior se obtendrán mediante la metodología que determine la Secretaría y con base en las proyecciones macroeconómicas utilizadas para la determinación de los requerimientos financieros del sector público, el riesgo asociado a los proyectos, y la amortización prevista de la deuda conforme al mecanismo que, en su caso, se haya constituido en los términos de lo establecido en el segundo párrafo del artículo 203 de este Reglamento.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-A más tardar el 12 de agosto, la Secretaría informará a la Comisión y a la dependencia coordinadora de sector la estimación definitiva de los montos máximos anuales a que se refiere este artículo y a más tardar el 15 de agosto, la dependencia coordinadora de sector presentará conforme al artículo 194, fracción VI de este Reglamento la propuesta de distribución de dichos montos entre los proyectos presentados por sus entidades coordinadas. Los montos totales anuales de inversión financiada para proyectos de infraestructura productiva de largo plazo de inversión directa propuestos por la dependencia coordinadora de sector no deberán rebasar la estimación definitiva.
-
-###### Artículo 191.
-
-Las entidades deberán presentar a la Secretaría el análisis costo y beneficio de los nuevos proyectos de infraestructura productiva de largo plazo, así como de los cambios de alcance de proyectos ya autorizados, en términos de las disposiciones en materia de programas y proyectos de inversión que les sean aplicables de conformidad con este Reglamento.
-
-Todos los proyectos de infraestructura productiva de largo plazo, incluyendo sus cambios de alcance, deberán registrarse en la Cartera y requerirán contar con un administrador, en términos del artículo 43 de este Reglamento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 192.
-
-Para incluir en el proyecto de Presupuesto de Egresos proyectos de infraestructura productiva de largo plazo nuevos, actualizaciones de los proyectos ya autorizados, y aquéllos que cambien su alcance, las entidades deberán entregar a la coordinadora de sector, a más tardar el último día hábil de mayo, un documento que contenga los elementos siguientes:
-
-I. Los nuevos proyectos que se pretendan iniciar durante el siguiente ejercicio fiscal;
-
-II. Los proyectos autorizados por contratar, en proceso de licitación, adjudicados o en construcción;
-
-III. El monto total de inversión financiada y el calendario de ejecución para cada proyecto;
-
-IV. En el caso de los proyectos que presenten cambio de alcance, la justificación correspondiente;
-
-V. Los principales parámetros y supuestos empleados para la elaboración de los análisis costo y beneficio de los proyectos nuevos y cambios de alcance, así como para otras actualizaciones de los proyectos ya autorizados;
-
-VI. Una manifestación del impacto esperado de los proyectos en el desarrollo del sector correspondiente y, en su caso, una evaluación del impacto observado de los proyectos en operación aprobados en ejercicios anteriores, y
-
-VII. Cualquier información adicional que las entidades consideren pertinente presentar sobre los proyectos.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La dependencia coordinadora de sector deberá enviar a la Secretaría, por los medios que ésta determine, a más tardar el último día hábil del mes de junio, el documento a que se refiere el párrafo anterior acompañado de una propuesta de distribución de la estimación preliminar de los montos máximos anuales a que se refiere el artículo 190 de este Reglamento entre los proyectos presentados por sus entidades coordinadas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 193.
-
-Adicionalmente a lo señalado en el artículo anterior, para cada nuevo proyecto de infraestructura productiva de largo plazo o cambio de alcance de proyectos ya autorizados en ejercicios fiscales anteriores, las entidades deberán entregar a la coordinadora de sector, a más tardar el último día hábil de mayo, lo siguiente:
-
-I. Un resumen ejecutivo del proyecto que contenga la descripción de sus principales componentes; los fines y metas que se pretendan alcanzar con su desarrollo; los indicadores de rentabilidad del análisis costo y beneficio correspondiente; el monto total de inversión y los demás gastos asociados; el calendario de ejecución; las fuentes de financiamiento que se prevea utilizar, y los principales riesgos asociados;
-
-II. La descripción general del esquema e instrumentos financieros que especifique las fuentes de financiamiento, términos y condiciones financieras, así como los costos directos e indirectos que se hayan considerado para el diseño, ejecución y pago del proyecto;
-
-III. La descripción general de los instrumentos jurídicos que se utilizarían para la concreción de los financiamientos correspondientes, así como cualquier otro acto o hecho asociado que pudiera representar obligaciones de cualquier tipo, directas y contingentes o cualquier otro riesgo financiero para el Gobierno Federal o para cualquier dependencia o entidad;
-
-IV. El análisis de las fuentes alternativas de financiamiento que el proyecto pudiera tener y la justificación de que al momento de evaluar el proyecto la alternativa presentada ofrece ventajas financieras respecto de otras opciones de financiamiento;
-
-V. El detalle de los flujos netos de ingresos que el proyecto podrá generar, su monto y periodicidad, así como la forma en que se dará cumplimiento a las obligaciones que el proyecto implique y el calendario de pagos que al efecto se prevea establecer;
-
-VI. La solicitud de registro en la Cartera, acompañada del análisis costo y beneficio correspondiente;
-
-VII. (DEROGADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)
-
-VIII. La información adicional necesaria para una mejor comprensión y dimensionamiento del proyecto, sus efectos, implicaciones o riesgos de cualquier índole.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 193 A. Para cada proyecto de infraestructura productiva de largo plazo, nuevo o con cambio de alcance, la dependencia coordinadora de sector deberá remitir a la Secretaría, a más tardar el último día hábil del mes de junio y por los medios que ésta determine, una solicitud de autorización para su incorporación al proyecto de Presupuesto de Egresos que contenga la información indicada en los artículos 192 y 193, así como su dictamen favorable de que el proyecto cumple con lo siguiente:
-
-> <small>(ADICIONADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-I. Se considera estratégico o prioritario, conforme a los programas sectoriales e institucionales que corresponda a la entidad solicitante, de acuerdo con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
-
-> <small>(ADICIONADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-II. Tiene viabilidad técnica, económica, jurídica y ambiental de acuerdo con la información proporcionada por la entidad solicitante;
-
-> <small>(ADICIONADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-III. Generará el suficiente flujo de recursos para cubrir las erogaciones derivadas de su realización, y
-
-> <small>(ADICIONADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-IV. Ha sido evaluado con base en supuestos y parámetros actualizados y homogéneos, los cuales son congruentes con las premisas de planeación del sector para los años futuros.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-La solicitud de autorización deberá presentarse a la Secretaría directamente por las entidades que no estén coordinadas dentro de un sector.
-
-###### Artículo 194.
-
-Una vez presentada la solicitud en los términos del artículo anterior, los nuevos proyectos de infraestructura productiva de largo plazo y los cambios de alcance de proyectos autorizados previamente deberán contar con el dictamen favorable de la Comisión, el cual considerará lo siguiente:
-
-I. El documento a que se refiere el artículo 192 de este Reglamento;
-
-II. El resumen ejecutivo a que se refiere el artículo 193, fracción I de este Reglamento;
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-III. El dictamen de la coordinadora de sector a que se refiere el artículo 193 A de este Reglamento;
-
-IV. Los dictámenes favorables de la Secretaría respecto de:
-
-a) El impacto futuro del gasto sobre las finanzas del sector público federal;
-
-b) Lo establecido en el artículo 193, fracciones II, III y IV de este Reglamento, tratándose de los proyectos de inversión directa;
-
-V. Que se cuente con el registro vigente del proyecto en la Cartera, y
-
-VI. La propuesta que presente la dependencia coordinadora de sector para la distribución de la estimación definitiva de los montos máximos anuales a que se refiere el artículo 190 de este Reglamento.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-La información señalada en las fracciones I a V de este artículo deberá presentarse a la Comisión a más tardar el 16 de agosto y la información correspondiente a la fracción VI, a más tardar el 15 de agosto. El dictamen de la Comisión deberá emitirse a más tardar el 22 de agosto. En dicho dictamen la Comisión podrá establecer las condiciones que considere convenientes para el desarrollo de cada proyecto.
-
-La Secretaría, previo dictamen favorable de la Comisión, podrá otorgar la autorización correspondiente y establecer condiciones específicas adicionales con base en su competencia.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 195.
-
-En casos excepcionales, y siempre que se cumpla con lo establecido en los artículos 192, 193 y 193 A de este Reglamento, la Secretaría podrá autorizar la inclusión en el proyecto de Presupuesto de Egresos de aquellos proyectos que hasta los cinco primeros años posteriores a la entrega de la obra de infraestructura no generen el suficiente flujo de recursos para el pago de los intereses, la amortización de capital y otros gastos asociados, siempre y cuando la entidad responsable, por conducto de su dependencia coordinadora de sector, se comprometa ante la Secretaría a que durante estos cinco primeros años cubrirá con cargo a su presupuesto el déficit mencionado.
-
-Estos casos deberán ser manifestados explícitamente por la dependencia coordinadora de sector en la solicitud a que se refiere el artículo 193 A de este Reglamento, señalando los años en los que se presentará dicho déficit.
-
-###### Artículo 196.
-
-De manera excepcional, se podrá considerar como fuente de generación de recursos de un proyecto, los subsidios que de acuerdo al Presupuesto de Egresos se hubieran otorgado para el desarrollo de actividades prioritarias, que permitan proporcionar a los consumidores bienes y servicios básicos a precios y tarifas por debajo de los del mercado, o de los costos de producción.
-
-En este caso, la Secretaría establecerá la forma en que deberá distribuirse en el tiempo el monto de los subsidios otorgados, a efecto de dar congruencia y equilibrio presupuestario al servicio de las obligaciones de pago que correspondan a un proyecto, en el conjunto de los que bajo tales esquemas autorice.
-
-###### Artículo 197.
-
-De conformidad con lo establecido en el artículo 41, fracción II, inciso h) de la Ley, el Presupuesto de Egresos comprenderá un apartado especial en el que se presenten los nuevos proyectos de infraestructura productiva de largo plazo y aquéllos que hayan sido autorizados con anterioridad.
-
-En dicho apartado se presentará información actualizada para cada proyecto sobre:
-
-I. Los compromisos asumidos y por asumir, incluyendo los relacionados con aquellos bienes materia de los contratos que ya hubieren sido entregados a la entidad;
-
-II. El monto total de inversión financiada y la inversión presupuestaria asociada;
-
-III. El calendario de amortizaciones y pago de intereses;
-
-IV. Las previsiones de gasto presupuestario necesarias para cubrir la operación y mantenimiento de los activos y cualquier otra obligación y gastos asociados;
-
-V. Los ingresos anuales generados o que se prevé generará el proyecto, y
-
-VI. El flujo neto anual, esto es, la diferencia entre los ingresos generados y las erogaciones derivadas de la realización del proyecto.
-
-Esta información se deberá presentar para los años anteriores, para el ejercicio fiscal correspondiente y para los años subsecuentes durante el lapso que dure el financiamiento de cada proyecto.
-
-#### SECCIÓN III. De la contratación
-
-###### Artículo 198.
-
-Las entidades no podrán realizar más proyectos de infraestructura productiva de largo plazo que los que se encuentren autorizados en el apartado especial del Presupuesto de Egresos a que se refiere el artículo 197 de este Reglamento.
-
-Las entidades tramitarán el oficio de inversión financiada respectivo ante la dependencia coordinadora de sector en los términos del artículo 156, fracción III de este Reglamento.
-
-Asimismo, tratándose de los proyectos de infraestructura productiva de largo plazo de inversión directa, en su caso, deberán presentar a la Secretaría el esquema financiero que se utilizaría para la ejecución del proyecto, el cual deberá ser congruente con los montos autorizados en el Presupuesto de Egresos.
-
-El oficio de inversión financiada deberá establecer el compromiso por el tiempo de ejecución del proyecto, el monto total de la inversión, los flujos anuales estimados de inversión y el plazo de construcción.
-
-###### Artículo 199.
-
-Las entidades no podrán celebrar contratos para la realización de proyectos de infraestructura productiva de largo plazo si en éstos no se establece de forma específica la inversión correspondiente y, en su caso, los términos y condiciones de las cargas financieras que se causen.
-
-En ningún caso podrán establecerse compromisos de pago de anticipos por cualquier concepto antes de la entrega del bien materia del contrato, ni tampoco podrán negociarse sus obligaciones. La entidad no podrá transmitir sus obligaciones después de que reciba a su satisfacción los bienes materia del contrato.
-
-Una vez celebrados los contratos relativos a los proyectos de infraestructura productiva de largo plazo, las dependencias coordinadoras de sector deberán remitir a la Secretaría la información correspondiente a los términos en que se hubieran celebrado dichos contratos, haciendo especial mención del monto total de inversión, fechas de inicio y término de construcción de las obras y, en su caso, fecha de inicio del contrato de adquisición o servicio que corresponda a cada proyecto, así como una proyección del flujo de ingresos y egresos atribuibles al proyecto, considerando gastos de operación, mantenimiento, intereses, amortizaciones y demás gastos asociados.
-
-#### SECCIÓN IV. De la ejecución
-
-###### Artículo 200.
-
-Las entidades sólo podrán realizar pagos una vez que reciban a su satisfacción el bien materia del contrato y éste se encuentre en condiciones de generar los ingresos que permitan cumplir con las obligaciones pactadas y los gastos asociados, conforme a lo dispuesto en la Ley y en este Reglamento.
-
-En el caso de los proyectos de inversión condicionada cuando se encuentren en los supuestos de incumplimiento a que se refiere el artículo 32, fracción II de la Ley, la Secretaría autorizará las fuentes y condiciones de los financiamientos que las entidades requieran para el pago del proyecto.
-
-Asimismo, los pagos que las entidades deban efectuar por causas de incumplimiento contractual diferentes a las establecidas en dicha fracción no podrán tener el tratamiento de proyecto de infraestructura productiva de largo plazo y deberán ser cubiertos con cargo a sus respectivos presupuestos.
-
-###### Artículo 201.
-
-Al recibir a su entera satisfacción los bienes materia del contrato en condiciones de generar ingresos para cubrir sus obligaciones, la entidad deberá:
-
-I. Solicitar a la Secretaría, conforme a las disposiciones generales que ésta emita, la autorización de la fuente y condiciones financieras para el pago de los bienes respectivos, manifestando que los montos y términos corresponden con los autorizados en el Presupuesto de Egresos, y
-
-II. Emitir el oficio de liberación de inversión, en los términos del artículo 156, fracción II, de este Reglamento, una vez obtenida la autorización a que se refiere la fracción anterior para registrar presupuestaria y contablemente el gasto de capital correspondiente y el financiamiento del ejercicio fiscal corriente.
-
-###### Artículo 202.
-
-Los ingresos que genere cada proyecto de infraestructura productiva de largo plazo se destinarán al pago de:
-
-I. Los gastos anuales de operación y mantenimiento, la inversión presupuestaria asociada y los demás gastos asociados al proyecto una vez que entre en operación;
-
-II. Las obligaciones fiscales atribuibles al proyecto del ejercicio fiscal correspondiente, y
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-III. El servicio de la deuda asociada al proyecto en términos de los artículos 18 de la Ley General de Deuda Pública y 32 de la Ley, para lo cual se podrán instrumentar mecanismos financieros alternos a los que hace referencia el segundo párrafo del artículo 203 de este Reglamento.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 203.
-
-Cuando las condiciones del mercado lo ameriten, las entidades podrán presentar a la Secretaría una solicitud para refinanciar los compromisos financieros de los proyectos de infraestructura productiva de largo plazo, con objeto de atenuar su impacto sobre las finanzas públicas. La Secretaría sólo podrá autorizar dichas solicitudes si las entidades acreditan a satisfacción de ésta, que el flujo de recursos que los proyectos generen es suficiente para cubrir la totalidad de las obligaciones que se asuman y todos los demás compromisos que deriven del propio proyecto, debiéndose ajustar a las disposiciones generales que, en su caso, emita aquélla.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Sin perjuicio de lo anterior, la Secretaría podrá determinar mecanismos financieros alternos para atenuar dicho impacto sobre las finanzas públicas y garantizar el cumplimiento de las obligaciones asociadas a los proyectos en los términos señalados en la Ley General de Deuda Pública.
-
-#### SECCIÓN V. Del seguimiento
-
-###### Artículo 204.
-
-La Secretaría deberá llevar el seguimiento presupuestario y sobre la rentabilidad de los proyectos de infraestructura productiva de largo plazo, debiendo verificar que se apeguen a los términos y condiciones autorizados en el Presupuesto de Egresos. Para estos efectos, la entidad deberá presentar la información correspondiente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 205.
-
-Las entidades, por conducto de las dependencias coordinadoras de sector, deberán informar a la Secretaría sobre el desarrollo de los proyectos de infraestructura productiva de largo plazo, incluyendo su avance físico y financiero, la fecha de entrega y de entrada en operación de los proyectos, la evolución de los compromisos y los flujos de ingresos y gastos de cada proyecto. En particular, la información contable a que hace referencia el artículo 107 de la Ley deberá identificar para cada proyecto:
-
-I. Los ingresos asociados;
-
-II. Las amortizaciones y cargos financieros;
-
-III. La inversión presupuestaria asociada;
-
-IV. Los gastos de operación y mantenimiento;
-
-V. Los demás gastos y obligaciones asociadas;
-
-VI. Las obligaciones fiscales correspondientes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-VII. El flujo neto, esto es, la diferencia entre los ingresos asociados y los conceptos señalados en las fracciones II a V anteriores;
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-VIII. El valor presente neto considerando el horizonte de evaluación y tomando en cuenta el flujo neto a que se refiere la fracción anterior, y
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-IX. El valor presente de las obligaciones fiscales asociadas.
-
-Esta información deberá presentarse trimestralmente a partir del año para el cual los proyectos hayan sido autorizados en el Presupuesto de Egresos y mensualmente a partir de la recepción del bien o servicio de que se trate, en los términos que determine la Secretaría.
-
-Adicionalmente, la Secretaría solicitará a las instancias correspondientes los informes necesarios para integrarlos en la Cuenta Pública.
-
-###### Artículo 206.
-
-Las entidades, por conducto de la dependencia coordinadora de sector, deberán remitir a la Comisión un informe semestral sobre la evolución de los proyectos de infraestructura productiva de largo plazo, dentro de los 45 días naturales posteriores al término del semestre que corresponda, sobre el cual la Comisión podrá emitir las recomendaciones que considere pertinentes.
-
-#### SECCIÓN VI. Del registro contable
-
-###### Artículo 207.
-
-Los registros contables y presupuestarios de los proyectos de infraestructura productiva de largo plazo autorizados se realizarán en los términos que determine la Secretaría.
-
-###### Artículo 208.
-
-En términos presupuestarios, la inversión financiada no tendrá efecto en el balance primario durante la etapa de construcción, por lo que el registro, seguimiento y reporte del establecimiento de compromisos contingentes se realizará utilizando las cuentas de orden de la entidad que determine la Secretaría.
-
-###### Artículo 209.
-
-El año corriente y el siguiente, posteriores a que se hagan exigibles las obligaciones derivadas del contrato correspondiente, las amortizaciones de capital respectivas a esos años y los intereses que correspondan se registrarán como pasivo directo y el resto del financiamiento como pasivo contingente hasta el pago total del mismo conforme a lo que determine la Secretaría. Para efectos del registro presupuestario se deberán afectar los renglones de gasto de inversión, intereses y otros gastos financieros, en los términos y plazos que establezca la Secretaría.
-
-Los registros deberán identificar dentro de la contabilidad de cada proyecto los ingresos asociados, todos los egresos atribuibles al mismo; es decir, inversión física y costo financiero, gastos de operación y mantenimiento, y demás gastos asociados, así como el flujo neto anual y las obligaciones fiscales.
-
-Para el registro de las operaciones correspondientes a los proyectos de infraestructura productiva de largo plazo, las entidades deberán presentar, tanto en las etapas de programación y presupuesto, como en su reporte de cuenta pública, el estado de cuenta relativo a cada una de ellas, así como de los pasivos directos y contingentes que al efecto se hayan contraído y la proyección de sus pagos hasta su total terminación.
-
-### CAPÍTULO XV. Del Ejercicio de los Gastos de Seguridad Pública y Nacional
-
-###### Artículo 210.
-
-El ejercicio de las partidas para gastos de seguridad pública y nacional del Clasificador por objeto del gasto, con base en las cuales se realizan actividades oficiales en materia de seguridad pública y nacional, incluidas las relacionadas con investigaciones especiales y acciones policiales especiales, se apegarán a lo siguiente:
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-I. Se requiere la autorización de la Secretaría, con base en lo establecido en la fracción III de este artículo;
-
-II. El responsable del ejercicio de los recursos a que se refiere este artículo es el titular de la dependencia de que se trate, por conducto del Oficial Mayor, o su equivalente, o, en su caso, de los servidores públicos en quienes el titular de la dependencia delegue la facultad respectiva.
-
-Las erogaciones específicas sólo procederán cuando se cuente con la autorización previa y por escrito del Oficial Mayor, o su equivalente, o, en su caso, de los servidores públicos en quienes el titular de la dependencia, delegue la facultad respectiva, debiéndose llevar un registro preciso de las entradas y salidas de recursos;
-
-III. Será responsabilidad del titular de la dependencia, establecer la normativa relativa a los procedimientos y controles administrativos internos necesarios para el cumplimiento de las disposiciones previstas en la Ley y en este Reglamento, así como definir en sus procedimientos de manera específica y detallada el universo de tipos de gastos y las actividades que se podrán cubrir. El universo de tipos de gastos incluirá únicamente erogaciones especiales que corresponden a dichas partidas para la realización de actividades y acciones que implican invariablemente riesgo, urgencia o confidencialidad.
-
-La normativa y procedimientos a que se refiere el párrafo anterior deberán contar con la autorización de la Secretaría y de la Función Pública, en el ámbito de sus respectivas competencias, respecto de su congruencia con las disposiciones generales aplicables, a efecto de que se puedan realizar erogaciones con cargo a dichas partidas;
-
-IV. Exclusivamente se podrán efectuar las erogaciones especiales por concepto de seguridad pública y nacional a que se refiere este Capítulo con cargo a las partidas correspondientes para gastos de seguridad pública y nacional del Clasificador por objeto del gasto, de acuerdo con el universo de tipos de gastos y actividades a que se refiere la fracción anterior, cuya realización implique invariablemente riesgo, urgencia o confidencialidad en cumplimiento de funciones y actividades oficiales. Estos recursos en ningún caso se podrán traspasar a otras partidas del Clasificador por objeto del gasto;
-
-V. Será responsabilidad del Oficial Mayor o su equivalente, o del servidor público en quien el titular de la dependencia delegue la facultad respectiva recabar y custodiar la documentación comprobatoria y los informes relativos a las erogaciones cubiertas o, en su defecto, acreditarlas mediante acta circunstanciada ante la presencia de dos testigos, en donde se señalen los motivos y el monto de la erogación. En los órganos administrativos desconcentrados, la responsabilidad recaerá en el servidor público responsable de la administración de los recursos o en el funcionario que designe el titular de la dependencia, y
-
-VI. Las dependencias que cuenten con autorización para efectuar estas erogaciones reportarán su ejercicio dentro de los informes que se presenten a la Secretaría para la integración de los informes trimestrales que se entregan a la Cámara de Diputados conforme al Título Sexto de la Ley.
-
-###### Artículo 211.
-
-Los recursos previstos en las partidas correspondientes para gastos de seguridad pública y nacional del Clasificador por objeto del gasto deberán administrarse a través de cuentas bancarias productivas, invariablemente a nombre de la dependencia correspondiente y no a favor de persona física alguna. Las cuentas bancarias se abrirán con firmas mancomunadas del Oficial Mayor, o su equivalente, y de aquellos servidores públicos responsables de administrar recursos conforme a sus reglamentos interiores, o bien, que designe expresamente el titular de la dependencia.
-
-Los rendimientos financieros de las cuentas productivas deberán enterarse a la Tesorería, a más tardar el día hábil siguiente a aquél en que se obtengan, o bien, en el plazo que, en su caso, y previa justificación, autorice la Tesorería de conformidad con las disposiciones aplicables. Asimismo, los remanentes presupuestarios no devengados al cierre del ejercicio fiscal deberán concentrarse en la Tesorería, en los términos de lo dispuesto por el artículo 84 de este Reglamento. Cuando se trate de cuentas productivas establecidas en el exterior los rendimientos financieros se concentrarán conforme al procedimiento específico que establezca la dependencia en los términos del artículo 210 de este Reglamento, y a más tardar el día hábil siguiente a aquél en que se obtengan, o bien, en el plazo que, en su caso, y previa justificación, autorice la Tesorería de conformidad con las disposiciones aplicables.
-
-###### Artículo 212.
-
-Para efectos del registro presupuestario al cierre del ejercicio, las adquisiciones de bienes y servicios previstas en el Presupuesto de Egresos que se realicen con cargo a las partidas correspondientes para gastos de seguridad pública y nacional que en forma específica contenga el Clasificador por objeto del gasto, se entenderán por devengados en el momento en el que se contraiga el compromiso de pago correspondiente.
-
-Para ejercer las adquisiciones a que se refiere este artículo, las dependencias podrán establecer cuentas productivas en los términos del artículo anterior.
-
-Las dependencias en tanto reciban los bienes y liquiden el contrato mantendrán los recursos en cuentas productivas con sus respectivas subcuentas por cada uno de los compromisos debidamente formalizados. Si algún compromiso no se concretara, se cancelará la cuenta o, en su caso, la subcuenta correspondiente, y los recursos disponibles se reintegrarán a la Tesorería.
-
-### CAPÍTULO XVI. De los Fideicomisos y Mandatos
-
-#### SECCIÓN I. De los fideicomisos
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 213.
-
-Las dependencias por conducto de la Secretaría, en su carácter de fideicomitente única de la Administración Pública Centralizada, y las entidades, sólo podrán constituir los fideicomisos públicos sin estructura orgánica a que se refiere el artículo 9 de la Ley o, aquéllos que se determinen por ley o decreto.
-
-El propósito de los fideicomisos señalados en el párrafo anterior, deberá relacionarse invariablemente con alguna de las áreas prioritarias o estratégicas indicadas en la Constitución Política de los Estados Unidos Mexicanos, en las leyes federales, o decretos, o bien con las áreas prioritarias que se establezcan en el Plan Nacional de Desarrollo, en los programas que deriven del mismo, en las previstas en las disposiciones de carácter general emitidas por el Ejecutivo Federal, o las tendientes a la satisfacción de los intereses nacionales y necesidades populares.
-
-Las dependencias en cuyo sector se coordine la operación de los fideicomisos o que con cargo a su presupuesto se hubieran aportado recursos, serán las responsables de cumplir con las obligaciones establecidas en los artículos 215, 217 a 219 y 221 de este Reglamento, de los actos que conlleve la realización de los fines, así como del resultado de los mismos.
-
-Los fideicomisos públicos considerados entidades se regirán por los ordenamientos aplicables a las mismas, y únicamente por lo que se refiere a la elaboración y formalización del contrato constitutivo, su modificación y extinción, se sujetarán a lo dispuesto en los artículos 215, salvo lo previsto en su fracción II, incisos c) y e); 219, primer párrafo, y 221, fracciones I y II, de este Reglamento. La autorización a que se refiere el artículo 9, párrafo segundo de la Ley, se emitirá para los efectos presupuestarios correspondientes en cuanto a la suficiencia o disponibilidad de recursos.
-
-#### SECCIÓN II. Del otorgamiento de recursos presupuestarios
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 214.
-
-Las dependencias y entidades sólo podrán otorgar recursos presupuestarios a fideicomisos, mandatos y análogos, observando lo siguiente:
-
-I. Con autorización indelegable de su titular;
-
-II. Previo informe a la Secretaría, conjuntamente con la autorización de la adecuación presupuestaria correspondiente, mediante los sistemas electrónicos establecidos para ello, cuando los recursos no estén incluidos en las partidas correspondientes del presupuesto aprobado.
-
-Quedan exceptuados del informe y autorización a que se refiere el párrafo anterior, las entidades no apoyadas que hayan constituido fideicomisos o celebrado mandatos o análogos, así como los fondos a que se refiere la Ley de Ciencia y Tecnología; sin embargo, deberán reportar las aportaciones de recursos públicos presupuestarios que lleven a cabo, así como también la información requerida para la rendición de cuentas y transparencia, en los términos de las disposiciones aplicables a través del sistema de control y transparencia de fideicomisos, y
-
-III. A través de las partidas específicas del Clasificador por objeto del gasto.
-
-Las dependencias y entidades que coordinen fideicomisos, mandatos o análogos, o que con cargo a su presupuesto les aporten recursos presupuestarios, y tengan por objeto realizar o financiar programas y proyectos de inversión, serán responsables de elaborar el análisis costo y beneficio para dichos programas y proyectos, obtener su registro en la Cartera y, en su caso, recabar el dictamen del experto independiente correspondiente, de conformidad con los lineamientos que al efecto emita la Secretaría.
-
-Las dependencias o entidades deberán informar a través del sistema de control y transparencia de fideicomisos que los recursos presupuestarios no rebasan el 50 por ciento del saldo del patrimonio neto de fideicomisos constituidos por los particulares y, en el caso de fideicomisos constituidos por entidades federativas, deberán anexar en dicho sistema la autorización de su titular para la aportación de recursos que sean mayores al 50 por ciento del saldo del patrimonio neto.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Las dependencias y entidades que hayan otorgado recursos presupuestarios a fideicomisos constituidos por entidades federativas o particulares deberán asegurarse de que, en su caso, los remanentes de dichos recursos en la subcuenta correspondiente sean concentrados en la Tesorería o a la tesorería de la entidad.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Las dependencias y entidades, a través de los servidores públicos competentes para ejercer recursos presupuestarios y los titulares de las unidades administrativas que hayan gestionado el otorgamiento de los recursos, serán responsables de llevar el seguimiento del ejercicio y destino de las aportaciones, subsidios y donativos otorgados a fideicomisos, mandatos y análogos, por lo que la Secretaría sólo dará el seguimiento de los recursos presupuestarios hasta su aportación a dichos instrumentos. Lo anterior, sin perjuicio de la vigilancia y fiscalización que realice la Función Pública, al ejercicio de los recursos presupuestarios otorgados, con el apoyo del sistema de control y transparencia de fideicomisos.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Los recursos presupuestarios de los fideicomisos, mandatos y análogos que canalicen subsidios y recursos de programas sujetos a reglas de operación, se considerarán devengados al momento de constituirse la obligación de entregar el recurso al beneficiario que acredite su elegibilidad. De lo contrario, deberán concentrarse en los términos de las disposiciones aplicables, salvo que por disposición expresa de leyes, decretos y demás ordenamientos deban permanecer en el fideicomiso, mandato o análogo.
-
-Queda prohibido constituir o participar en fideicomisos, mandatos o análogos, con ahorros, economías o subejercicios del Presupuesto de Egresos, que tengan por objeto evitar la concentración de recursos en la Tesorería al final del ejercicio correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La Secretaría, en los casos en que actúa como fideicomitente única de la Administración Pública Centralizada, podrá instrumentar mecanismos para que los recursos disponibles de los fideicomisos sin estructura orgánica análoga a entidades paraestatales, mandatos o análogos, se utilicen para contribuir al equilibrio presupuestario. Lo anterior, siempre que contractualmente sea factible; no se afecte el cumplimiento de sus fines, y no se contravenga una ley o decreto, que establezcan el destino de los recursos o la permanencia en los mismos.
-
-#### SECCIÓN III. De la celebración de contratos
-
-###### Artículo 215.
-
-Las dependencias y entidades que requieran constituir fideicomisos o análogos a éstos, deberán:
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-I. Asegurarse de que los miembros con derecho a voto del Comité Técnico con que, en su caso, cuente el fideicomiso sean en su mayoría servidores públicos de la Administración Pública Federal, cuyas facultades estén relacionadas con el objeto de éste y se prevean en el contrato. Asimismo, los integrantes del Comité Técnico que no sean servidores públicos serán considerados como particulares que manejan o aplican recursos públicos en los términos de las disposiciones aplicables.
-
-La participación en el Comité Técnico será de carácter honorífico. La unidad administrativa de la dependencia o entidad que coordine la operación del fideicomiso deberá manifestar que los asuntos que se sometan a la consideración del Comité Técnico se ajustan a las disposiciones aplicables;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-II. Elaborar el proyecto de contrato, conforme al modelo establecido y difundido en la página de Internet de la Secretaría, a través del área jurídica que corresponda a la unidad responsable con cargo a cuyo presupuesto se aporten los recursos presupuestarios o que coordine su operación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Los proyectos de contrato deberán contener como mínimo:
-
-a) El monto y composición del patrimonio;
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-b) El plazo de vigencia determinado en congruencia con sus fines;
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-c) La unidad responsable de la dependencia o entidad con cargo a cuyo presupuesto se vayan a aportar los recursos presupuestarios, o que coordine su operación, la cual tendrá la obligación de verificar que los recursos fideicomitidos se apliquen a los fines para los cuales fue constituido.
-
-Dicha unidad resolverá cualquier situación, de hecho o de derecho, que se presente durante la operación y el proceso y formalización de la extinción del fideicomiso, siempre que el Comité Técnico o el fiduciario no cuenten con facultades para ello, supuesto en el cual realizará los actos que resulten necesarios, entre otros, por lo que se refiere a los activos y pasivos con que cuente el fideicomiso;
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-d) La declaración de que no se duplicarán funciones, fines y estructuras orgánicas existentes en la Administración Pública Federal;
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-e) La instrucción del fideicomitente al fiduciario para que transparente y rinda cuentas sobre el manejo de los recursos presupuestarios que se hubieren aportado al fideicomiso, o análogo; proporcione los informes que permitan su vigilancia y fiscalización, así como las facilidades para realizar auditorías y visitas de inspección por parte de las instancias fiscalizadoras federales. Asimismo, que el titular de la unidad administrativa encargada de coordinar la operación, o con cargo a cuyo presupuesto se hayan otorgado los recursos será responsable de facilitar dicha fiscalización;
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-f) La declaración de que el propósito del fideicomiso cumple con lo dispuesto en el artículo 9 de la Ley;
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-g) La facultad expresa del fideicomitente para revocar el fideicomiso, sin perjuicio de los derechos que correspondan, en su caso, a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de Ley, por Decreto o que la naturaleza de sus fines no lo permitan;
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-h) La previsión expresa de que la institución fiduciaria llevará a cabo la defensa del patrimonio del fideicomiso; asimismo, que en el supuesto de que las instituciones fiduciarias requieran, de forma excepcional, la contratación de terceros para dicha defensa, se harán responsables de ésta y se preverá que lleven a cabo el seguimiento de la actuación de los apoderados y, en su caso, recomienden acciones para realizar. El Comité Técnico o a falta de éste la unidad responsable, deberá autorizar los honorarios correspondientes;
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-i) La manifestación de que el personal que el fiduciario utilice directa o exclusivamente en el cumplimiento de los fines del fideicomiso, no formará parte de aquél ni del fideicomiso, y la obligación del fiduciario de responder ante cualquier autoridad competente en la materia, en términos de las disposiciones aplicables.
-
-En su caso, en los contratos de fideicomiso que constituyan las dependencias por conducto de la Secretaría, en su carácter de fideicomitente única de la Administración Pública Centralizada, se establecerán los supuestos en los cuales los recursos presupuestarios que conforman su patrimonio se inviertan en la Tesorería, en términos de las disposiciones aplicables;
-
-III. Contar con la opinión favorable del fiduciario respecto al proyecto de contrato antes de someterlo a la autorización presupuestaria y opinión jurídica de la Secretaría;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-IV. Obtener la autorización presupuestaria de la Secretaría. La solicitud deberá acompañarse de lo siguiente:
-
-a) El requerimiento presupuestario autorizado en su presupuesto para el ejercicio fiscal en curso y las estimaciones para los subsecuentes ejercicios fiscales. En su caso, éstas deberán estar previstas por las dependencias y entidades en sus respectivos anteproyectos de presupuesto, así como su fuente de financiamiento;
-
-b) El proyecto de contrato;
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-c) La justificación de la unidad responsable de la dependencia o entidad con cargo a cuyo presupuesto se aporten los recursos presupuestarios al fideicomiso o que coordine su operación, relativa a que el propósito del fideicomiso que se pretenda constituir cumple con lo dispuesto en el artículo 9 de la Ley, y de que no duplica funciones, fines y estructuras orgánicas existentes en la Administración Pública Federal;
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La autorización a que se refiere la presente fracción se emitirá para efectos de suficiencia o disponibilidad presupuestaria;
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-V. En el caso de los fideicomisos que involucren recursos otorgados por organismos financieros internacionales, su esquema financiero deberá contar con la autorización de la Secretaría por conducto de la Subsecretaría de Hacienda y Crédito Público. Asimismo, se deberá especificar en el proyecto de contrato respectivo el monto total del programa y distinguir en el patrimonio fideicomitido los recursos provenientes de crédito externo o donativo del exterior, de los que correspondan a las aportaciones que se realicen como contraparte nacional, y
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-VI. Obtener la opinión jurídica de la Secretaría. La solicitud deberá acompañarse de la documentación a que se refieren las fracciones anteriores.
-
-Las entidades no apoyadas que constituyan fideicomisos, mandatos, o celebren análogos, no requerirán las autorizaciones a que se refieren las fracciones IV y VI de este artículo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 216.
-
-Las dependencias o entidades apoyadas que celebren mandatos o análogos a éstos con recursos presupuestarios deberán sujetarse a lo establecido en las fracciones II, incisos c) y e), IV y V del artículo anterior, así como a la inscripción y renovación de la clave de registro a que se refieren los artículos 217 y 218 de este Reglamento, respectivamente.
-
-Los recursos presupuestarios remanentes de los mandatos y análogos al cierre del ejercicio fiscal, deberán ser concentrados en los términos de las disposiciones aplicables, salvo que se haya acordado un destino diferente en el contrato, o que la Secretaría renueve la clave de registro en los mandatos que no administren subsidios y recursos de programas sujetos a reglas de operación.
-
-> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-En aquellos fideicomisos o análogos constituidos por las entidades federativas o los particulares, las dependencias y entidades que les aporten recursos presupuestarios deberán cerciorarse que en el contrato respectivo se prevea la instrucción a que se refiere el artículo 215, fracción II, inciso e) de este Reglamento.
-
-#### SECCIÓN IV. Del registro
-
-###### Artículo 217.
-
-La Secretaría pondrá a disposición de las dependencias y entidades un registro de fideicomisos, mandatos y análogos, mediante un sistema de control y transparencia de fideicomisos, a efecto de que:
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-I. La Secretaría identifique las aportaciones de recursos presupuestarios a los mismos, y
-
-II. La unidad administrativa responsable que coordine su operación en las dependencias o entidades o que les aporte recursos presupuestarios dé seguimiento al ejercicio de dichos recursos para el control, rendición de cuentas, transparencia y fiscalización, previstos en el 218 de este Reglamento.
-
-Las dependencias y entidades que coordinan fideicomisos, mandatos y análogos, que involucren recursos presupuestarios deberán informar respecto de su celebración y solicitar su registro en el sistema de control y transparencia de fideicomisos, a más tardar a los 20 días naturales posteriores a su formalización, o de realizada la primera aportación a cargo del Gobierno Federal en aquéllos constituidos por las entidades federativas o por particulares.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Para efecto de que el registro se pueda llevar a cabo, la dependencia o entidad en cuyo sector se coordine la operación de los fideicomisos, mandatos y análogos, o con cargo a cuyo presupuesto se hayan otorgado los recursos presupuestarios, deberá remitir a la Secretaría un original o copia certificada del contrato firmado por todas las partes, así como un ejemplar en medio electrónico a través del sistema de control y transparencia de fideicomisos, señalando el monto de los recursos presupuestarios otorgados, en los términos de lo dispuesto por la Secretaría, excepto en los mandatos o fideicomisos en los que ésta no participe como mandante o fideicomitente única de la Administración Pública Centralizada, en cuyo caso no será necesario remitir el contrato en original o copia certificada.
-
-En el caso de recursos presupuestarios otorgados a fideicomisos constituidos por las entidades federativas o por particulares, las dependencias y entidades que con cargo a su presupuesto les hayan otorgado dichos recursos, deberán proporcionar sólo los datos de la subcuenta específica que distinga a los recursos presupuestarios del resto de las aportaciones y permita su identificación, a través del sistema de control y transparencia de fideicomisos.
-
-Las dependencias y entidades que celebren mandatos que involucren recursos presupuestarios deberán informar a la Secretaría, a través del sistema de control y transparencia de fideicomisos, el monto de los mismos, conforme a lo establecido en este Reglamento.
-
-En caso de que las dependencias o entidades que coordinan los fideicomisos, mandatos o análogos, o que con cargo a su presupuesto se aportaron los recursos presupuestarios, incumplan con el plazo señalado en el segundo párrafo de este artículo, sin perjuicio de las responsabilidades que, en su caso, determinen los órganos internos de control respectivos, solicitarán invariablemente su registro a la Secretaría.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-En caso de que los fideicomisos cuenten con reglas de operación o equivalentes aprobadas por el Comité Técnico, deberán remitirse a través del sistema de control y transparencia de fideicomisos a la Secretaría, en los términos del tercer párrafo de este artículo.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-No se sujetarán a lo dispuesto por este artículo los contratos de mandato celebrados por la Secretaría con los agentes financieros y las dependencias o entidades que tengan por objeto encomendar en ellos la responsabilidad en la administración de los recursos provenientes de crédito externo o donativos del exterior para la ejecución de un programa o proyecto financiado por organismos e instituciones financieras internacionales. Por esta administración deberá entenderse, entre otros, el trámite de los desembolsos, así como la intermediación para el pago de las obligaciones contraídas.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Asimismo, no se sujetarán a lo dispuesto por este Capítulo los fideicomisos, mandatos y análogos, cuyo patrimonio se encuentre compuesto únicamente por títulos que representen la participación accionaria del Gobierno Federal en sociedades y que tengan por objeto exclusivamente su administración, la administración y enajenación de activos, así como la recuperación de cartera a favor del Gobierno Federal, ni los constituidos por los Poderes Legislativo y Judicial, y los entes autónomos, sin perjuicio de la vigilancia y fiscalización que realicen la Función Pública y la Auditoría, en el ámbito de sus respectivas competencias.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Los fideicomisos, mandatos o análogos que se utilicen para canalizar subsidios a los beneficiarios de programas sujetos a reglas de operación, de conformidad con lo previsto en el Presupuesto de Egresos, no se sujetarán a lo dispuesto por este artículo; únicamente obtendrán el registro los programas sujetos a reglas de operación en un apartado específico del sistema de control y transparencia de fideicomisos, e incorporarán sus modificaciones, continuidad anual y baja.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-En estos casos, será responsabilidad de la dependencia o entidad que coordine el fideicomiso, mandato o análogo, o que con cargo a su presupuesto se hubieren otorgado recursos presupuestarios, suscribir los convenios específicos con las personas físicas o morales a las que se les canalizarán los recursos con la finalidad de que garanticen que los recursos del programa y sus rendimientos serán aplicados en su totalidad a los fines del programa y con estricto apego a los criterios y procedimientos contenidos en las reglas de operación correspondientes, así como que los recursos que no estén debidamente devengados al 31 de diciembre a nivel del beneficiario último, o que se hayan destinado a fines distintos a los previstos en las reglas de operación, deberán enterarse a la Tesorería.
-
-#### SECCIÓN V. De la renovación de la clave
-
-###### Artículo 218.
-
-Las dependencias o entidades en cuyo sector se coordine la operación de los fideicomisos, mandatos o análogos, o que con cargo a su presupuesto se aporten recursos presupuestarios, deberán tramitar la renovación de la clave de registro ante la Secretaría, a través del sistema de control y transparencia de fideicomisos, dentro del periodo comprendido entre el primer día hábil del ejercicio y a más tardar el último día hábil del mes de marzo, remitiendo lo siguiente:
-
-I. Un reporte financiero actualizado al cierre del ejercicio fiscal inmediato anterior, identificando el saldo o disponibilidad de los recursos presupuestarios fideicomitidos, aportados al mandato o a los análogos y los rendimientos que, en su caso, se hayan generado. El reporte financiero deberá reflejar:
-
-a) Activos;
-
-b) Pasivos;
-
-c) Patrimonio total;
-
-II. Un reporte de las aportaciones realizadas durante el ejercicio inmediato anterior con cargo al presupuesto de las dependencias o entidades, así como el destino de dichas aportaciones, y
-
-III. Un reporte de las metas alcanzadas en el ejercicio anterior, así como las metas de resultado del cumplimiento de la misión y fines, en lo posible cuantificables, previstas para el ejercicio fiscal correspondiente que justifiquen la necesidad de continuar con el fideicomiso, mandato o análogo. En caso de que aquéllas no sean cuantificables, deberá remitirse la justificación correspondiente.
-
-Quedan exceptuados de lo dispuesto por este artículo, los fideicomisos constituidos por entidades federativas o particulares a que se refiere el artículo 10 de la Ley. Sin embargo, y para actualizar su información, las dependencias y entidades que les aporten recursos deberán reportar a la Secretaría a través del sistema de control y transparencia de fideicomisos, el saldo disponible de la subcuenta específica.
-
-Asimismo, quedan exceptuados de lo dispuesto por este artículo, los fideicomisos, mandatos y análogos que se utilicen para canalizar subsidios y que al cierre del ejercicio cuenten con saldo cero en su patrimonio.
-
-En caso de que las dependencias o entidades que coordinen la operación de los fideicomisos, mandatos o análogos, o con cargo a su presupuesto se hayan otorgado recursos presupuestarios, incumplan con el plazo para la renovación, sin perjuicio de las responsabilidades que pudieren determinar los órganos internos de control respectivos, aquéllas deberán suspender las aportaciones de recursos subsecuentes hasta en tanto se regularice su registro.
-
-La Secretaría proveerá que en el sistema de control y transparencia de fideicomisos se identifiquen aquellos instrumentos que no cumplieron con la renovación, con el propósito de facilitar a las instancias de fiscalización el inicio de los procedimientos preventivos y de responsabilidades correspondientes en las dependencias y entidades que los coordinen.
-
-Cuando derivado de las observaciones realizadas por dichas instancias de fiscalización, la dependencia o entidad que coordine la operación del mismo, o que con cargo a su presupuesto se hubieren aportado los recursos presupuestarios determine que es necesaria la extinción o terminación del fideicomiso, mandato o análogo, deberá enterar los remanentes en la Tesorería, la tesorería de la entidad o, proceder conforme a lo previsto en el contrato respectivo.
-
-Las entidades no apoyadas que hayan constituido fideicomisos o celebrado mandatos o análogos que involucren recursos presupuestarios, así como los fondos a que se refiere la Ley de Ciencia y Tecnología no requieren renovar la clave de registro; sin embargo, deberán actualizar y enviar a la Secretaría, a través del sistema de control y transparencia de fideicomisos, en el plazo previsto en el primer párrafo de este artículo, por conducto de la dependencia coordinadora de sector, el reporte financiero en los términos de la fracción I anterior.
-
-No será necesario que las dependencias o entidades que coordinen la operación de los fideicomisos, mandatos o análogos, o con cargo a su presupuesto se hubieren aportado recursos presupuestarios, renueven su clave de registro cuando se encuentren en proceso de extinción y cuenten con saldo cero en su patrimonio.
-
-#### SECCIÓN VI. De la modificación de contratos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 219.
-
-Las modificaciones a los contratos de fideicomisos, mandatos o análogos que involucren recursos presupuestarios se realizarán a través de un convenio modificatorio en los términos de las disposiciones aplicables, el cual deberá elaborarse reuniendo los requisitos que establecen los artículos 215, salvo lo dispuesto en su fracción IV, inciso c) relativo a la justificación de que el propósito del fideicomiso cumple con lo dispuesto en el artículo 9 de la Ley y 216 de este Reglamento, según corresponda, bajo el procedimiento descrito en dichos preceptos.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Formalizado el convenio modificatorio, el fideicomitente, mandante o su equivalente, por conducto de la dependencia o entidad en cuyo sector se coordine la operación de los mismos, o que con cargo a su presupuesto se hayan otorgado los recursos presupuestarios, deberá enviar a la Secretaría un ejemplar, dentro de los 20 días naturales posteriores a su formalización, a través del sistema de control y transparencia de fideicomisos, con el objeto de actualizar su clave de registro.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Adicionalmente, en caso de que la Secretaría, en su carácter de fideicomitente única de la Administración Pública Centralizada, o de mandante participe en la celebración del convenio modificatorio, deberá remitirse a aquélla, un original o copia certificada de dicho instrumento, dentro del plazo a que se refiere el párrafo anterior.
-
-#### SECCIÓN VII. De la suspensión de aportaciones, extinción y terminación de contratos
-
-###### Artículo 220.
-
-Cuando las dependencias y entidades que coordinen fideicomisos, participen en mandatos o análogos, o con cargo a su presupuesto hayan otorgado recursos presupuestarios a los mismos, no cuenten con la autorización, registro o renovación de la clave, en los términos de los artículos 215 al 218 de este Reglamento, deberán suspender las aportaciones subsecuentes.
-
-Las dependencias y entidades que coordinen fideicomisos, o con cargo a sus presupuestos se hayan aportado recursos presupuestarios, con la participación que corresponda al fideicomitente, excepto en aquéllos constituidos por las entidades federativas o los particulares, promoverán la extinción de los fideicomisos que hayan alcanzado sus fines, o que éstos sean imposibles de alcanzar, así como de aquéllos que en el ejercicio fiscal anterior no hayan realizado acción alguna tendiente a alcanzar los fines para los que fueron constituidos, salvo que en este último caso se justifique su vigencia.
-
-Lo anterior, sin perjuicio de la revisión que, en su caso, realicen los órganos internos de control en las dependencias y entidades coordinadoras, sobre la aplicación de los recursos presupuestarios aportados.
-
-###### Artículo 221.
-
-La extinción de fideicomisos y análogos se sujetará a lo siguiente:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-I. La dependencia que coordine la operación del fideicomiso o que con cargo a su presupuesto se hubieren aportado recursos presupuestarios, será la responsable, al término de la vigencia del contrato o al determinarse su extinción, de realizar todos los actos necesarios que permitan llevar a cabo la extinción del fideicomiso, entre otros por lo que se refiere a los activos y pasivos con los que cuente, a efecto de que posteriormente solicite a la Secretaría, en su carácter de fideicomitente única de la Administración Pública Centralizada, que:
-
-a) Instruya a la fiduciaria para que elabore el convenio de extinción, previo pago de los honorarios fiduciarios que se adeuden;
-
-b) Haga del conocimiento de la fiduciaria el documento elaborado por la dependencia que coordine la operación del fideicomiso o que con cargo a su presupuesto se hubieren aportado recursos presupuestarios, en el que se acredite que ha terminado su vigencia.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Cuando la Secretaría, en su carácter de fideicomitente única de la Administración Pública Centralizada, haga uso de la facultad prevista en el contrato para revocar el fideicomiso, lo hará del conocimiento de la fiduciaria para proceder a su extinción, de igual manera lo informará a la dependencia que coordine la operación del fideicomiso o que con cargo a su presupuesto se hubieren aportado recursos presupuestarios.
-
-En el caso de las entidades, éstas solicitarán a la fiduciaria la elaboración del convenio respectivo;
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-II. Se formalizará mediante:
-
-a) La firma del convenio de extinción correspondiente;
-
-b) El documento elaborado por la dependencia que coordine la operación del fideicomiso o que con cargo a su presupuesto se hubieren aportado recursos presupuestarios, en el que se acredite que ha terminado su vigencia, o
-
-c) El documento por el que la Secretaría, en su carácter de fideicomitente única de la Administración Pública Centralizada, revoque el fideicomiso;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-III. La dependencia que coordine la operación del fideicomiso o análogo, o que con cargo a su presupuesto se hubieren aportado recursos presupuestarios, entregará a la Secretaría dentro de los 15 días naturales siguientes a la fecha de formalización del instrumento respectivo, original o copia certificada del convenio de extinción o, en su caso copia de los documentos a que se refieren los incisos b) y c) de la fracción anterior; así como un ejemplar a través del sistema de control y transparencia de fideicomisos, anexando copia del documento que acredite la concentración de los recursos remanentes a la Tesorería, salvo que se haya acordado un destino diferente en el contrato.
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-En aquellos fideicomisos o análogos constituidos por las entidades, una vez realizada la concentración de los remanentes en su tesorería, salvo que se haya acordado un destino diferente en el contrato, y previo pago de los honorarios fiduciarios que en su caso se adeuden, sólo deberán enviar a la Secretaría, dentro del plazo previsto en el párrafo anterior, un ejemplar a través del sistema de control y transparencia de fideicomisos, debidamente formalizado por las partes, anexando copia del documento que acredite la concentración de los recursos remanentes a su tesorería, salvo que se haya acordado un destino diferente en el contrato. De concentrarse en su tesorería, deberán solicitar a la Secretaría la actualización de la modificación correspondiente al flujo de efectivo, y
-
-IV. Una vez remitida la información descrita en la fracción anterior, las dependencias y entidades que coordinen la operación del fideicomiso, o análogo, o que con cargo a su presupuesto se hubieren aportado recursos presupuestarios solicitarán a la Secretaría, a través del sistema de control y transparencia de fideicomisos, la baja de la clave de registro.
-
-En caso de que los fideicomisos constituidos por entidades federativas o particulares se extingan o no existan recursos presupuestarios remanentes en su patrimonio, las dependencias y entidades que con cargo a su presupuesto hayan otorgado recursos presupuestarios deberán solicitar la baja de la clave de registro de la subcuenta a la Secretaría, a través del sistema de control y transparencia de fideicomisos, adjuntando copia de la manifestación de que no existen recursos presupuestarios remanentes en su patrimonio.
-
-###### Artículo 222.
-
-Para la terminación de mandatos y análogos, las dependencias o entidades en cuyo sector se coordine la operación de los mismos o que con cargo a su presupuesto hayan aportado recursos presupuestarios, deberán observar lo siguiente:
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-I. En su caso, elaborar el convenio de terminación o documento mediante el cual ésta se comunique, según corresponda en términos de ley;
-
-II. Concentrar los recursos remanentes en la Tesorería o, en caso de entidades no apoyadas, en su tesorería, previo pago de los honorarios que se adeuden por el encargo encomendado, salvo que se haya acordado un destino diferente en el contrato. En caso de concentración de recursos en la tesorería de la entidad, ésta solicitará a la Secretaría la actualización de la modificación correspondiente al flujo de efectivo, y
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-III. Dentro de los 15 días naturales siguientes a la terminación del contrato, tramitar ante la Secretaría la baja de la clave de registro, para lo cual anexará, en caso de que ésta hubiera sido la mandante, un original o copia certificada del convenio o, en su caso, del documento que acredite la terminación a que se refiere la fracción I anterior, así como un ejemplar a través del sistema de control y transparencia de fideicomisos y, en su caso, del documento que acredite la concentración de los recursos remanentes. En aquellos mandatos en los que la Secretaría no hubiera sido la mandante, únicamente se requerirá enviar un ejemplar a través de dicho sistema, así como en su caso, del documento que acredite la concentración de los recursos remanentes.
-
-## TÍTULO QUINTO. Del Gasto Federal en las Entidades Federativas
-
-### CAPÍTULO I. De los Recursos Transferidos a las Entidades Federativas
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 223.
-
-Las dependencias y, en su caso entidades, deberán cuidar que en los programas federales en los que concurran recursos de las mismas con aquéllos de las entidades federativas, a estas últimas no se les condicione el monto ni el ejercicio de los recursos federales a la aportación de recursos locales, más allá de lo establecido en las reglas de operación o en los convenios correspondientes.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Lo anterior, sin perjuicio de que se deberá atender lo acordado en los convenios en materia de seguridad pública, así como lo dispuesto en las reglas de operación de los fondos de Desastres Naturales y para la Prevención de Desastres Naturales.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Los ejecutores de gasto responsables de la entrega de recursos públicos federales a las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal, vigilarán que dichos recursos no permanezcan ociosos y que se destinen para los fines autorizados.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-En caso de que las dependencias y entidades detecten que los recursos permanecen ociosos; que las entidades federativas, municipios o, en su caso, las demarcaciones territoriales del Distrito Federal no han cumplido las obligaciones que les correspondan después de otorgados, o bien que fueron desviados para propósitos distintos a los autorizados, ejercerán las acciones correspondientes para que dichos recursos sean reintegrados al erario federal.
-
-En caso de que no se observe lo dispuesto en el artículo 82 de la Ley, este Reglamento y las demás disposiciones aplicables, las dependencias y entidades podrán suspender o cancelar la ministración de recursos públicos federales a las entidades federativas, informando de inmediato a la Secretaría, a la Función Pública y a la Auditoría.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 224.
-
-De conformidad con lo dispuesto en el artículo 82 de la Ley, las dependencias y entidades que suscriban convenios de coordinación para transferir recursos de sus presupuestos a las entidades federativas con el propósito de descentralizar o reasignar la ejecución de funciones, programas o proyectos federales y, en su caso, recursos humanos y materiales deberán:
-
-I. Una vez autorizada la aplicación de recursos y formalizado el convenio, ministrar los recursos conforme a los términos y el calendario previstos en el mismo, con cargo a sus presupuestos y de acuerdo con las disposiciones aplicables;
-
-II. En su caso, tratándose de convenios de descentralización, llevar a cabo la transferencia de recursos humanos y materiales en los términos de las disposiciones aplicables;
-
-III. Entregar y calendarizar los recursos, garantizando su aplicación oportuna, con base en la disponibilidad de recursos y en la programación de metas y objetivos establecida en sus presupuestos, atendiendo los requerimientos de las entidades federativas;
-
-IV. Precisar los objetivos y metas, con base en indicadores de desempeño, que se prevé alcanzar mediante la aplicación de los recursos públicos federales convenidos. Los objetivos y metas deberán ser congruentes con los programas autorizados en el Presupuesto de Egresos;
-
-V. Establecer en los convenios que los recursos transferidos se destinen exclusivamente a los destinos previstos en los respectivos convenios de coordinación en materia de descentralización o reasignación, conforme a las disposiciones aplicables, y
-
-VI. Establecer en los convenios el compromiso de las entidades federativas de entregar la documentación comprobatoria y la información adicional que sea requerida por la Secretaría y la Función Pública en el ámbito de sus respectivas competencias. Dicha documentación deberá ser identificada con un sello que indique el nombre del programa, origen del recurso y el ejercicio correspondiente. Asimismo, deberán verificar que en los convenios se establezca el compromiso de las entidades federativas de registrar en su contabilidad los recursos federales que reciban, de acuerdo con los principios de la contabilidad gubernamental, y aquella información relativa a la rendición de informes y Cuenta Pública ante los congresos locales.
-
-Las dependencias y entidades podrán convenir con las entidades federativas que del monto total de los recursos presupuestarios federales que reciban mediante convenio de coordinación en materia de reasignación de recursos, se destine al órgano de control del Ejecutivo estatal una cantidad equivalente al uno al millar, para que dicho órgano realice la vigilancia, inspección, control y evaluación de las obras y acciones ejecutadas por administración directa con esos recursos.
-
-Lo previsto en las fracciones I, III, IV y VI de este artículo resultará aplicable a los convenios de coordinación en materia de descentralización, únicamente respecto de la transferencia de recursos que realicen con cargo a sus presupuestos las dependencias o entidades a las entidades federativas.
-
-Las dependencias y entidades sólo podrán transferir recursos convenidos a las entidades federativas a través de las tesorerías de estas últimas, por lo que deberán establecer cuentas bancarias específicas por programa que permitan la identificación de los recursos y sus rendimientos financieros hasta su total aplicación, para efectos de comprobación de su ejercicio y fiscalización, en los términos de las disposiciones aplicables.
-
-Las dependencias y entidades serán responsables de dar seguimiento al cumplimiento de los objetivos y metas previstos en los convenios de coordinación en materia de reasignación, así como de evaluar los avances que se registren, conforme al modelo de convenio que emitan la Secretaría y la Función Pública.
-
-Los recursos transferidos a las entidades federativas en el marco de los convenios de coordinación en materia de reasignación y, en su caso, los rendimientos financieros generados, que por cualquier motivo no hayan sido devengados al 31 de diciembre, deberán ser reintegrados a la Tesorería dentro de los 15 días naturales siguientes al cierre del ejercicio fiscal conforme a las disposiciones aplicables.
-
-Las dependencias y entidades deberán publicar los convenios en el Diario Oficial de la Federación dentro de los 15 días hábiles posteriores a su formalización y, en su caso, las modificaciones a éstos en un plazo equivalente.
-
-###### Artículo 225.
-
-Dentro de los procesos que impliquen la transferencia de recursos humanos a las entidades federativas no se podrán crear nuevas plazas o categorías, por lo que los traspasos se realizarán con las plazas ya existentes y los recursos asignados a sus unidades responsables y programas, observando en lo que corresponda las disposiciones en materia del Servicio Profesional de Carrera en la Administración Pública Federal. Una vez que se transfieran las plazas, éstas se regirán en los términos en que se convino, sin que les sea aplicable lo dispuesto en materia de servicios personales.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 226.
-
-Para efectos de la transparencia y rendición de cuentas, las dependencias y entidades deberán incluir en la Cuenta Pública y en los demás informes sobre el ejercicio del gasto público, la información relativa a la aplicación de los recursos transferidos a las entidades federativas en el marco de los convenios de coordinación en materia de descentralización o reasignación.
-
-Las dependencias y entidades deberán publicar toda la información relativa a la aplicación y ejercicio de los recursos presupuestarios transferidos a través de convenios de coordinación en materia de reasignación, incluyendo los avances y resultados físicos y financieros, en su página de Internet, de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
-
-Las dependencias y entidades que suscriban convenios de coordinación en materia de descentralización o reasignación promoverán que las entidades federativas, conforme a sus propias disposiciones, informen a los congresos locales o equivalente en el Distrito Federal y a la sociedad, sobre la aplicación, ejercicio y resultados de los recursos federales transferidos mediante dichos convenios.
-
-Las dependencias que realicen aportaciones federales conforme a lo dispuesto en el Capítulo V de la Ley de Coordinación Fiscal, promoverán que las entidades federativas establezcan disposiciones correspondientes para que en la administración y ejercicio de dichas aportaciones se garantice su aplicación a los fines establecidos en cada uno de los fondos previstos en ese ordenamiento y que la información correspondiente sea homogénea con la federal.
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-### CAPÍTULO II. Del Programa de Apoyos para el Fortalecimiento de las Entidades Federativas
-
-###### Artículo 227.
-
-(DEROGADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)
-
-###### Artículo 228.
-
-(DEROGADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)
-
-###### Artículo 229.
-
-(DEROGADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)
-
-###### Artículo 230.
-
-(DEROGADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)
-
-## TÍTULO SEXTO. De la Contabilidad Gubernamental
-
-### CAPÍTULO I. De la Valuación del Patrimonio del Estado
-
-###### Artículo 231.
-
-El sistema de contabilidad gubernamental será definido, desarrollado y supervisado por la Secretaría, atendiendo las aportaciones técnicas de la Auditoría y de la Función Pública, con base en el modelo contable y los postulados de contabilidad gubernamental. Dicho sistema deberá adaptar, a través de un manual del sistema de contabilidad gubernamental, las normas y procedimientos emitidos por otras instituciones nacionales e internacionales de contabilidad.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 232.
-
-La contabilidad deberá operarse para facilitar el registro, análisis y fiscalización de las cuentas de balance, de resultados y de orden, de los presupuestos de ingresos y egresos del Gobierno Federal, y otras que permitan la toma de decisiones, así como proporcionar información sobre el ejercicio del gasto para que, en su caso, apoye la evaluación del desempeño.
-
-###### Artículo 233.
-
-El manual del sistema de contabilidad gubernamental contendrá como mínimo:
-
-I. Objeto;
-
-II. Marco técnico y jurídico;
-
-III. Normativa contable, y
-
-IV. Catálogo de cuentas que se integra por la lista de cuentas, los instructivos de manejo de cuentas, la guía contabilizadora y casos prácticos de las operaciones más representativas.
-
-Las entidades deberán elaborar sus sistemas contables con base en las disposiciones generales que emita la Secretaría, mismos que permitirán determinar los costos incurridos, identificar los ingresos y gastos, facilitar el control y la fiscalización del ejercicio de sus presupuestos, así como la evaluación de sus programas.
-
-###### Artículo 234.
-
-El registro de las operaciones y la preparación de informes contables y presupuestarios en las áreas centrales de contabilidad de las dependencias y entidades deberá llevarse a cabo de acuerdo con los postulados de contabilidad gubernamental, las disposiciones generales que emita la Secretaría y supletoriamente, con las normas de información financiera y de contabilidad nacionales e internacionales del sector público, previa autorización de ésta.
-
-###### Artículo 235.
-
-La contabilidad deberá llevarse con base acumulativa, entendiéndose por esto el registro de las operaciones devengadas. La contabilización de las transacciones de gasto se hará conforme a la fecha de su realización, independientemente de la de su pago, y la de ingreso se registrará cuando éste se realice efectivamente o exista jurídicamente el derecho de cobro.
-
-###### Artículo 236.
-
-En caso de que los presupuestos presenten movimientos compensados, la Secretaría podrá, para efectos de presentación, incluir en la Cuenta Pública informes que expliquen las cifras en términos netos.
-
-Las dependencias y entidades que presenten información adicional en estos términos estarán obligadas a explicar las cifras netas y su justificación.
-
-###### Artículo 237.
-
-El sistema de contabilidad gubernamental, la integración y elaboración de la Cuenta Pública y demás informes derivados de la contabilidad gubernamental, serán revisados periódicamente por la Secretaría, tomando en consideración las propuestas que para efectos de fiscalización emitan la Auditoría y la Función Pública.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 238.
-
-La Secretaría emitirá disposiciones generales en materia de archivo contable gubernamental.
-
-###### Artículo 239.
-
-(DEROGADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)
-
-###### Artículo 240.
-
-Los Poderes Legislativo y Judicial y entes autónomos, en el marco de los convenios de colaboración respectivos, comunicarán por escrito a la Secretaría, en el mes de octubre del año anterior al ejercicio que se aplique, su conformidad u observaciones con el modelo contable gubernamental, el sistema contable único, el catálogo de cuentas, las normas generales, específicas y de archivo contable gubernamental.
-
-###### Artículo 241.
-
-La contabilización de las operaciones contables presupuestarias y patrimoniales que lleven a cabo las áreas centrales de contabilidad de las dependencias y entidades deberá estar respaldada por los documentos originales comprobatorios, justificativos y de soporte, para verificar las operaciones de ingreso, gasto, o de ingreso y gasto públicos, y otras que afecten el patrimonio o la hacienda pública, así como por documentos autorizados por la Secretaría en casos excepcionales para efectos contables.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-El registro contable de las operaciones relacionadas con el movimiento de los fondos y valores de la propiedad o al cuidado del Gobierno Federal, que se realicen en el subsistema de contabilidad de fondos federales a cargo de la Tesorería podrán soportarse con documentos digitales que contengan los requisitos de seguridad que garanticen la confiabilidad de la información, de acuerdo con las disposiciones generales que al efecto emita la Secretaría, tomando en cuenta, en su caso, las que emita la Auditoría para fines de fiscalización y auditoría.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Para los efectos de lo dispuesto en el párrafo anterior, se entenderán por documentos digitales, todo mensaje de datos que contenga información o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología.
-
-###### Artículo 242.
-
-Será responsabilidad de cada dependencia y entidad la confiabilidad de las cifras consignadas en su contabilidad, la conciliación de las operaciones que se vinculan con otra u otras áreas centrales de contabilidad de las dependencias y entidades, así como la representatividad de los saldos de las cuentas de balance, en función de los activos, pasivos, patrimonio y cuentas complementarias.
-
-###### Artículo 243.
-
-Las áreas centrales de contabilidad de las dependencias y entidades estarán obligadas a adecuar sus sistemas contables, desarrollar y emitir procedimientos e instrucciones específicas, en concordancia con lo dispuesto por la Secretaría y las dependencias coordinadoras de sector.
-
-###### Artículo 244.
-
-Los bienes patrimoniales que las dependencias y entidades adquieran para el desarrollo de sus actividades deberán registrarse contablemente de acuerdo con las disposiciones generales que al efecto emita la Secretaría.
-
-Las dependencias y entidades estarán obligadas a contar con un control administrativo que permita el manejo contable adecuado de los inventarios.
-
-###### Artículo 245.
-
-El sistema de registro informático que establezcan las áreas centrales de contabilidad de las dependencias y entidades deberá ser diseñado y operado para reflejar en la contabilidad, ya sea de forma individual o global, la vinculación de los registros patrimoniales presupuestarios, de conformidad con las disposiciones generales que al efecto establezca la Secretaría.
-
-###### Artículo 246.
-
-El sistema contable diferenciará las operaciones derivadas del ejercicio de los presupuestos de ingreso y egreso, de aquéllas que se produzcan por otros procesos administrativos y cuyo efecto deberá quedar revelado en la posición financiera, los resultados y el patrimonio público. Para este propósito, se deberán establecer cuentas específicas de erario que reflejen las operaciones presupuestarias y las de administración, cuya finalidad consiste en mostrar los registros no presupuestarios.
-
-###### Artículo 247.
-
-Las dependencias y entidades comunicarán por escrito a la Secretaría las modificaciones que representen cambios parciales o totales en su contabilidad y rendición de informes.
-
-Las entidades de nueva creación deberán solicitar las autorizaciones a la Secretaría del uso del sistema de registro contable, catálogo de cuentas y libros principales de contabilidad, conforme a las disposiciones aplicables.
-
-### CAPÍTULO II. De los Catálogos de Cuentas y del Registro Contable de las Operaciones
-
-#### SECCIÓN I. De los catálogos de cuentas
-
-###### Artículo 248.
-
-La Secretaría emitirá y autorizará los catálogos de cuentas a los que deberán ajustarse las dependencias y entidades, respectivamente, para el registro de sus operaciones contables y presupuestarias. Dichos catálogos manejarán los grupos de cuentas que aquélla determine, y estarán integrados por:
-
-I. La lista de cuentas;
-
-II. Los instructivos de manejo de cuentas, y
-
-III. Las guías contabilizadoras.
-
-La Secretaría, previo a su emisión, remitirá para opinión de la Auditoría, el catálogo de cuentas de la Administración Pública Centralizada.
-
-Cada entidad, previo a la solicitud de autorización de la Secretaría, enviará para opinión de la Auditoría, su catálogo de cuentas o modificaciones al mismo.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 249.
-
-Las entidades solicitarán a la Secretaría la autorización de sus catálogos o de sus modificaciones a nivel de cuenta de mayor en el ejercicio fiscal en curso, previa opinión a que se refiere el artículo anterior, conforme a las disposiciones aplicables.
-
-La Secretaría, en su caso, los autorizará dentro de los 40 días hábiles posteriores a la fecha de su recepción.
-
-###### Artículo 250.
-
-Será responsabilidad de las áreas centrales de contabilidad de las dependencias y entidades, la desagregación de las cuentas en subcuentas, subsubcuentas y demás registros complementarios que permitan el suministro de información interna para la toma de decisiones y el control de la ejecución de las acciones.
-
-###### Artículo 251.
-
-La Secretaría podrá modificar el modelo contable, el sistema de contabilidad gubernamental, el catálogo de cuentas, así como las disposiciones contables generales a que deben sujetarse las áreas centrales de contabilidad de las dependencias y entidades.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 252.
-
-Derivado de la revisión a la información financiera que remiten las dependencias y entidades, la Secretaría podrá solicitar información sobre los procesos de registro contable y, en su caso, determinar las observaciones correspondientes. Lo anterior, sin perjuicio de que la Función Pública realice las verificaciones correspondientes en las áreas centrales de contabilidad de las dependencias y entidades sobre sus procesos administrativos de registro y emisión de información financiera, a fin de asegurar el apego a las disposiciones.
-
-Para los fines del párrafo anterior, la Secretaría informará a los órganos internos de control sobre las observaciones planteadas, con la finalidad de que se incorporen a su programa de revisiones.
-
-###### Artículo 253.
-
-Las áreas centrales de contabilidad de las dependencias y entidades contabilizarán, en orden cronológico, las operaciones contables presupuestarias y patrimoniales en sus libros principales de contabilidad, que serán los denominados Diario, Mayor, e Inventarios y Balances.
-
-###### Artículo 254.
-
-Adicionalmente a los requerimientos señalados en el artículo 102 de la Ley, en el Presupuesto de Egresos y en la Cuenta Pública, se deberá presentar además del flujo de efectivo de la entidad, el flujo de efectivo de la entidad sin considerar las operaciones derivadas de la inversión financiada, el flujo de efectivo de la inversión financiada, así como el detalle de las entradas y salidas asociadas a cada uno de los proyectos de inversión financiada en el ejercicio fiscal, el monto del capital pagado anticipadamente y las reservas constituidas.
-
-#### SECCIÓN II. Del registro contable de las operaciones
-
-###### Artículo 255.
-
-Las áreas centrales de contabilidad de las dependencias y entidades deberán obtener de la Secretaría la autorización por escrito para utilizar sistemas de registro electrónico de contabilidad o modificaciones al ya autorizado, sujetándose a lo que ésta determine, y comunicando por escrito, dentro de los 30 días hábiles anteriores a la fecha en que se adopte el registro electrónico, las características y especificaciones del sistema.
-
-###### Artículo 256.
-
-Las dependencias y entidades estarán obligadas a identificar los procesos administrativos que den origen a la contabilidad, y vincularlos con los procesos para el registro de las operaciones financieras, a efecto de proporcionarlos a las áreas responsables de recursos humanos, materiales y financieros que se requieran.
-
-Las áreas centrales de contabilidad de las dependencias serán responsables de los registros contables presupuestarios y patrimoniales, independientemente de que desconcentren dichas funciones.
-
-###### Artículo 257.
-
-Las áreas centrales de contabilidad de las dependencias y entidades remitirán para su autorización los libros principales de contabilidad, sujetándose a las disposiciones generales que emita la Secretaría, y a lo siguiente:
-
-I. Los libros de Diario, de Mayor y el de Inventarios y Balances deberán presentarse foliados, dentro de los 90 días posteriores a la fecha de cierre contable o, en su caso, en medio magnético;
-
-II. Deberán coincidir con su catálogo de cuentas autorizado, y
-
-III. Las cifras reflejadas en los libros principales deberán ser iguales a las del expediente de cierre de la Cuenta Pública del ejercicio de que se trate, y a las dictaminadas, en su caso, por firma de auditores externos.
-
-Los Poderes Legislativo y Judicial y entes autónomos, cuando así lo convengan, remitirán a la Secretaría sus libros principales de contabilidad.
-
-###### Artículo 258.
-
-La contabilidad de las dependencias y entidades deberá contener registros auxiliares, presupuestarios y contables, que permitan evaluar la ejecución del ingreso y el ejercicio del gasto público.
-
-###### Artículo 259.
-
-Las operaciones patrimoniales que se originen directamente por el ejercicio de los presupuestos deberán ser registradas mediante asientos contables que muestren el avance presupuestario de las operaciones en cuentas de orden y su efecto financiero.
-
-###### Artículo 260.
-
-Las dependencias serán responsables de conciliar la información registrada en los sistemas electrónicos de la Secretaría, respecto de las operaciones del ejercicio del gasto presupuestario y, en su caso, de efectuar las aclaraciones correspondientes por las diferencias que se observen.
-
-Tratándose de las operaciones de pago de ejercicios fiscales anteriores, las dependencias registrarán las cuentas por liquidar certificadas incluidas en los reportes autorizados por la Secretaría.
-
-###### Artículo 261.
-
-Las dependencias y entidades estarán obligadas a conservar en su poder y a disposición de la Secretaría y de otras autoridades competentes, por los plazos que se establezcan en los ordenamientos legales aplicables, los libros, registros auxiliares e información correspondiente, así como los documentos justificativos, comprobatorios y de soporte de sus operaciones financieras.
-
-La Secretaría, en casos excepcionales, podrá otorgar autorizaciones que sustituyan a los documentos justificativos o comprobatorios de gasto o ingreso público, para efectos de contabilización de las operaciones que amparen.
-
-Las solicitudes que con tal motivo formulen las dependencias y entidades, deberán consignar, entre otros datos, la causa de falta de los documentos, importes, fechas de las operaciones que amparen y conformidad del titular de la unidad responsable facultada para ello. La pérdida o destrucción de los documentos deberá ampararse con el documento público correspondiente.
-
-###### Artículo 262.
-
-La Función Pública verificará que la revisión de los estados financieros de las entidades por firma de auditores externos, se realice con base en el marco técnico de la contabilidad gubernamental.
-
-Para los fines del párrafo anterior, la Función Pública deberá establecer los mecanismos para normar y controlar el desempeño de las firmas de auditores externos que opinen sobre los estados financieros de las entidades.
-
-###### Artículo 263.
-
-Las dependencias y entidades deberán identificar en sus libros principales de contabilidad y sus registros auxiliares, los saldos al cierre del ejercicio, los cuales deberán coincidir con los de inicio de apertura del ejercicio siguiente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 264.
-
-Las dependencias y entidades para la valuación de los inventarios deberán sujetarse a las disposiciones que emita la Secretaría.
-
-Asimismo, estarán obligadas a realizar por lo menos una vez al año el inventario físico completo de sus bienes, el cual deberá coincidir con los saldos de las cuentas de activo fijo respectivas.
-
-###### Artículo 265.
-
-Las entidades deberán integrar en el libro de inventarios y balances, en forma anual y al cierre de cada ejercicio contable, el estado de situación financiera, el estado de resultados o de ingresos y egresos y los inventarios físicos finales correspondientes.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 266.
-
-La observancia de este Reglamento no exime a las dependencias y entidades, en materia de contabilidad, de cumplir con lo dispuesto en las disposiciones aplicables.
-
-### CAPÍTULO III. De la Formulación de Estados Financieros y Otros Informes
-
-###### Artículo 267.
-
-La Secretaría integrará y elaborará la Cuenta Pública y los demás informes derivados de la contabilidad gubernamental.
-
-La contabilidad gubernamental, el registro de las operaciones y la elaboración y presentación de estados financieros, se sustentarán en los postulados legales y técnicos que establezca la Secretaría al efecto, notificándolos a la Función Pública con el propósito de que se consideren dichos postulados técnicos en las revisiones que lleve a cabo.
-
-###### Artículo 268.
-
-Las dependencias y entidades deberán proporcionar a la Secretaría la hoja de trabajo o balanza de comprobación, el estado del ejercicio del presupuesto, y el analítico de ingresos, en la forma y plazos que la misma determine.
-
-###### Artículo 269.
-
-Las dependencias y entidades responsables de la canalización de subsidios y aportaciones otorgados con cargo al Presupuesto de Egresos deberán rendir cuenta detallada de la aplicación de los fondos a la Secretaría, así como la información y justificación correspondiente en la forma y plazos que ésta lo requiera. Las entidades deberán proporcionar la cuenta y demás información a que se refiere este artículo por conducto y con la aprobación de la dependencia coordinadora de sector que corresponda.
-
-El incumplimiento en la rendición de la cuenta comprobada motivará, en su caso, la inmediata suspensión de las subsecuentes ministraciones de fondos que por el mismo concepto se hubieren autorizado, así como el reintegro de lo que se suministró.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 270.
-
-La Secretaría hará del conocimiento de las dependencias coordinadoras de sector sus requerimientos de información en la forma y plazos que ésta determine.
-
-Corresponderá a las dependencias coordinadoras de sector captar, validar y, en su caso, integrar la información que sus entidades coordinadas y órganos administrativos desconcentrados a que se refiere el artículo 5, fracción III de la Ley deban remitir a la Secretaría. Asimismo, en caso de detectar irregularidades, determinarán sus posibles causas, proponiendo las medidas correctivas necesarias.
-
-###### Artículo 271.
-
-Las dependencias coordinadoras de sector darán a conocer a sus entidades coordinadas, y a los órganos administrativos desconcentrados a que se refiere el artículo 5, fracción III de la Ley, la forma, términos y periodicidad conforme a los cuales deberán proporcionarle información contable, presupuestaria, programática y económica, tanto para efectos de integración sectorial, como para otros fines específicos.
-
-Las dependencias coordinadoras de sector formularán integraciones sectoriales de la información contable, presupuestaria, programática y económica, de acuerdo con sus necesidades y para satisfacer los requerimientos de la Secretaría, cuidando que la información sectorial integrada que proporcionen a ésta cumpla con las disposiciones aplicables.
-
-###### Artículo 272.
-
-La Secretaría determinará las fechas de las actividades relacionadas con el cierre contable en las dependencias y entidades, y las dará a conocer a más tardar el último día hábil del mes de octubre del ejercicio fiscal correspondiente, así como las instrucciones y requerimientos para obtener de éstas, la información necesaria para la elaboración de la Cuenta Pública.
-
-###### Artículo 273.
-
-Las dependencias deberán proporcionar a la Secretaría, para la formulación de la Cuenta Pública, la información en la forma y términos en que ésta lo solicite en el catálogo de requerimientos correspondiente, considerando al menos lo siguiente:
-
-I. Hoja de trabajo;
-
-II. Estado del ejercicio del presupuesto;
-
-III. Estado analítico de ingresos;
-
-IV. Análisis de cuentas de erario;
-
-V. Estado de la deuda del Gobierno Federal;
-
-VI. Rectificaciones al ejercicio del presupuesto;
-
-VII. Rectificaciones a la Ley de Ingresos, y
-
-VIII. Principales variaciones a las cuentas de balance y resultados.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas áreas de administración, una vez recibido el catálogo de requerimientos, comunicarán por escrito a la Secretaría dentro de los 10 días siguientes su conformidad u observaciones.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-La Secretaría integrará la información.
-
-###### Artículo 274.
-
-Las entidades deberán proporcionar a la Secretaría, por conducto de la dependencia coordinadora de sector respectiva, sin perjuicio de que pudieran hacerlo directamente a solicitud de aquélla, la información para la formulación de la Cuenta Pública en la forma y términos que la misma indique, considerando al menos lo siguiente:
-
-I. Balance general o estado de situación financiera;
-
-II. Estado de resultados;
-
-III. Analítico de ingresos en flujo de efectivo;
-
-IV. Estado de origen y aplicación de recursos;
-
-V. Flujo de efectivo;
-
-VI. Estado del ejercicio del presupuesto, y
-
-VII. Estado analítico integral de la deuda interna y externa.
-
-###### Artículo 275.
-
-La Secretaría emitirá y dará a conocer a las entidades que deban rendir información para efectos de la integración de la Cuenta Pública el catálogo para reclasificar sus cuentas a más tardar el día 30 de octubre de cada ejercicio fiscal.
-
-###### Artículo 276.
-
-La información que para efectos de formulación de la Cuenta Pública proporcionen las entidades a la Secretaría, deberá estar reclasificada de conformidad con los catálogos que para tal fin ésta emita. Asimismo, los ajustes que el auditor externo proponga, sólo podrán incorporarse cuando se hayan registrado previamente a la fecha de cierre contable del ejercicio, y tengan como finalidad atender las disposiciones contables gubernamentales. Dicha información deberá estar respaldada por el dictamen que elabore el auditor externo con base en las disposiciones contables gubernamentales.
-
-###### Artículo 277.
-
-Las entidades presentarán, para fines de integración de la Cuenta Pública, las cifras dictaminadas de sus estados financieros, mismas que deberán corresponder con estricto apego a los libros principales de contabilidad.
-
-###### Artículo 278.
-
-Las entidades deberán proporcionar a la firma de auditores externos designada por la Función Pública, la información preliminar durante el ejercicio fiscal correspondiente, con el objeto de que avance en el proceso de revisión.
-
-La entidad deberá proporcionar al auditor externo la información a dictaminar con cifras al 31 de diciembre, a más tardar el 15 de febrero del año siguiente, con el propósito de que emita el dictamen a los estados financieros a más tardar 30 días naturales antes de la entrega de la Cuenta Pública.
-
-###### Artículo 279.
-
-La Secretaría determinará la forma y plazos en los cuales las dependencias y entidades proporcionarán la información contable presupuestaria, patrimonial y programática requerida por ésta para la elaboración de la Cuenta Pública.
-
-Los Poderes Legislativo y Judicial y los entes autónomos observarán lo dispuesto en el párrafo anterior, siempre y cuando hayan comunicado por escrito a la Secretaría, su conformidad con las disposiciones generales emitidas por ésta.
-
-###### Artículo 280.
-
-Corresponderá a la Secretaría reclasificar, acumular y, en su caso, realizar eliminaciones o las acciones para determinar los montos netos sobre la información que le proporcionen las dependencias y entidades, para fines de integración y presentación de la Cuenta Pública, así como en otros documentos oficiales, incorporando las notas justificativas correspondientes.
-
-###### Artículo 281.
-
-La Función Pública proporcionará a la Secretaría los dictámenes de estados financieros de las entidades en tomos agrupados por sector, para su inclusión como anexos de la Cuenta Pública. Lo anterior, en un plazo de 15 días naturales antes de su presentación a la Cámara de Diputados.
-
-###### Artículo 282.
-
-Cuando las dependencias y entidades no remitan la información que les requiera la Secretaría, o las mismas no cumplan con las disposiciones generales en materia contable, ésta lo hará del conocimiento de las áreas fiscalizadoras para las acciones procedentes.
-
-Las dependencias y entidades deberán remitir a la Secretaría los documentos que ésta requiera como anexos de la Cuenta Pública, así como cualquier otro informe de carácter contable que soliciten las instancias fiscalizadoras.
-
-## TÍTULO SÉPTIMO. De la Información, Transparencia y Evaluación
-
-### CAPÍTULO I. De la Información y la Transparencia
-
-#### SECCIÓN I. De los informes
-
-###### Artículo 283.
-
-Para la integración de los informes a que se refieren los artículos 107, 110 y 111 de la Ley, las dependencias, entidades y órganos autónomos a los que se refiere el artículo 5, fracciones II y III de la Ley, se sujetarán a lo siguiente:
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-I. Enviarán a la Secretaría la información necesaria a través de los sistemas disponibles, a más tardar 15 días naturales después de concluido el trimestre, o mes que se reporte, según corresponda;
-
-II. Enviarán a la Función Pública la información complementaria que determine en apoyo a sus funciones de control y evaluación;
-
-III. Serán responsables de la calidad y oportunidad de la información reportada a la Secretaría y a la Función Pública, y
-
-IV. Los principales indicadores de la postura fiscal, de ingreso y de gasto públicos, deberán ser calculados conforme a la metodología que para la elaboración de las estadísticas de finanzas públicas dé a conocer la Secretaría.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 283 A. Para efectos de consolidación del gasto público y la preparación de informes, en el caso de registros presupuestarios que impliquen una duplicación de los mismos, la Secretaría podrá reflejar montos netos en los conceptos correspondientes, así como el monto neto por concepto de intereses derivados del costo financiero de la deuda pública.
-
-###### Artículo 284.
-
-El Ejecutivo Federal, por conducto de la Secretaría, entregará al Congreso de la Unión un reporte del estado que guardan la economía y las finanzas públicas, a través de los informes trimestrales, a más tardar a los 30 días naturales después de terminado el trimestre de que se trate. Dicho reporte contará con datos desagregados por mes y acumulados al trimestre o, en su caso, promedio o de fin de periodo, de acuerdo con la naturaleza de la información.
-
-###### Artículo 285.
-
-La información que las dependencias y entidades entreguen a la Secretaría, para la integración de los informes trimestrales, será la establecida en el Presupuesto de Egresos aprobado, en la Ley de Ingresos del ejercicio fiscal que corresponda, en su caso, y en la Ley.
-
-Adicionalmente, en el caso de requerimientos específicos de información trimestral establecidos en el Presupuesto de Egresos o en la Ley de Ingresos de cada ejercicio fiscal, incluyendo los previstos en los artículos 69, 75 y 78 de la Ley, las dependencias y entidades remitirán directamente la información al Congreso de la Unión, por conducto de la comisión correspondiente, en los términos que determine la Secretaría.
-
-En estos casos, para efectos de la integración de los informes trimestrales, se dará por cumplida la obligación de las dependencias y entidades con el envío correspondiente y su publicación en sus respectivas páginas de Internet.
-
-###### Artículo 286.
-
-La Secretaría establecerá los términos que observarán las dependencias y entidades sobre los requerimientos de la información que se incorporará a los informes trimestrales, previstos en el artículo 107 de la Ley, así como los términos de la información que se enviará al Congreso de la Unión en forma directa cuando así corresponda.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 287.
-
-Las dependencias y entidades serán las responsables de la información que remitan para la integración de los informes trimestrales y de la que, para los mismos efectos, remitan a través de los sistemas que disponga la Secretaría, por lo que, en su caso, deberán presentar ante las instancias competentes las aclaraciones que les sean requeridas. Los datos entregados se considerarán preliminares para efectos de Cuenta Pública.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 288.
-
-La información que no sea entregada en los términos y dentro de los plazos establecidos por la Secretaría, no será incorporada a los informes trimestrales, así como tampoco en el informe previsto en el artículo 42, fracción II, de la Ley, y la dependencia o entidad atenderá directamente lo necesario ante la autoridad competente.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 289.
-
-La información que reporten las dependencias y entidades para la integración de los informes trimestrales, así como la que envíen directamente al Congreso de la Unión, en los términos descritos en el artículo 283 de este Reglamento y en el Informe previsto en el artículo 42, fracción II, de la Ley, será de acceso público conforme a lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, por lo que deberán difundirla a través de sus respectivas páginas de Internet, en los términos de las disposiciones aplicables.
-
-###### Artículo 290.
-
-Las dependencias y entidades deberán proporcionar a la Secretaría, en los términos y plazos que ésta establezca, la información complementaria que se requiera para la mejor comprensión de temas específicos en materia de finanzas públicas, así como para atender las solicitudes que, en su caso, presente el Congreso de la Unión.
-
-###### Artículo 291.
-
-La Secretaría deberá entregar a las Comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública de la Cámara de Diputados y a la Comisión de Hacienda y Crédito Público de la Cámara de Senadores y publicar a través de su página de Internet, a más tardar el 1 de abril de cada año, las metodologías para el cálculo del déficit presupuestario y del déficit del sector público no financiero, considerando la cobertura institucional, la base de registro, la clasificación de las operaciones por ingreso, gasto y financiamiento, así como las prácticas de consolidación.
-
-Asimismo, la Secretaría deberá entregar a las Comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública de la Cámara de Diputados y a la Comisión de Hacienda y Crédito Público de la Cámara de Senadores y publicar a través de su página de Internet, a más tardar el 1 de abril de cada año, las metodologías para el cálculo de los requerimientos financieros del sector público.
-
-###### Artículo 292.
-
-Los Poderes Legislativo y Judicial y los entes autónomos, proporcionarán a la Secretaría, para efectos de integración de los informes trimestrales y en los plazos que ésta establezca, la información a que se refieren los artículos 5, fracción I, inciso f); 20, fracción II; 21, último párrafo, y 60 de la Ley. Adicionalmente, las instancias referidas en el presente artículo entregarán a la Secretaría la información que se defina en el Presupuesto de Egresos y en la Ley de Ingresos del ejercicio fiscal correspondiente.
-
-###### Artículo 293.
-
-La información de los principales indicadores sobre los resultados y avances de los programas y proyectos en el cumplimiento de los objetivos y metas y de su impacto social, a que se refiere el artículo 107, fracción I, de la Ley, se incluirá en los informes trimestrales con desglose mensual, de acuerdo con los datos reportados por las dependencias y entidades a través de los sistemas que ponga a disposición la Secretaría.
-
-Los indicadores a reportar serán principalmente los autorizados en el Presupuesto aprobado y, en su caso, aquéllos que por su impacto económico y social, deban ser incluidos en los informes trimestrales. Estos informes serán entregados por las dependencias y entidades en los plazos y términos que establezca la Secretaría, conforme a lo establecido en el artículo 283 de este Reglamento.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 294.
-
-El Ejecutivo Federal, por conducto de la Secretaría, remitirá a la Cámara de Diputados, con desglose mensual, los informes trimestrales para la evaluación económica de los ingresos y egresos en función de los calendarios y presupuestos de las dependencias y entidades, y de las metas de los programas aprobados. La Secretaría y la Cámara de Diputados, por conducto de las Comisiones Ordinarias, realizarán las evaluaciones correspondientes, en los términos del primer párrafo del artículo 110 de la Ley.
-
-Los informes trimestrales, con base en la información que las dependencias y entidades reporten a través de los distintos sistemas de información disponibles, serán entregados a la Cámara de Diputados a más tardar a los 30 días naturales del mes posterior al trimestre que se reporte.
-
-###### Artículo 295.
-
-Los informes a que se refiere el artículo 110 de la Ley incluirán para cada uno de los programas aprobados en el Presupuesto de Egresos, el monto de los recursos erogados cada mes para el logro de sus objetivos, el porcentaje que éstos representan del total aprobado para el año, el porcentaje que representa del monto acumulado al mes correspondiente en el calendario aprobado, las metas aprobadas para el año, así como el porcentaje de avance en el cumplimiento de dichas metas.
-
-En el caso de los ingresos, se presentarán con desglose mensual el monto recaudado en el ejercicio fiscal, el porcentaje que representa del monto acumulado al mes correspondiente en el calendario aprobado, y el porcentaje de avance respecto de las estimaciones contenidas en la Ley de Ingresos para el ejercicio fiscal correspondiente.
-
-###### Artículo 296.
-
-Las dependencias y entidades que coordinen fideicomisos, mandatos o análogos, o que con cargo a su presupuesto se otorguen recursos presupuestarios, entregarán a la Secretaría la información que solicite, a través del sistema de control y transparencia de fideicomisos.
-
-Las dependencias, entidades apoyadas y entidades no apoyadas, que en su sector se coordine la operación de fideicomisos, mandatos o análogos, o con cargo a su presupuesto se aporten recursos presupuestarios, así como las instituciones que hayan constituido fideicomisos o celebrado mandatos o análogos que involucren recursos presupuestarios a que se refiere la Ley de Ciencia y Tecnología, deberán informar dentro de los 15 días naturales posteriores al cierre de cada trimestre a la Secretaría, a través del sistema de control y transparencia de fideicomisos, el cumplimiento de la misión, fines y resultados alcanzados; recursos presupuestarios otorgados a dichos actos jurídicos en el periodo, incluyendo rendimientos financieros; egresos realizados en el periodo y su destino; así como el saldo o disponibilidad, a efecto de consolidar los informes trimestrales para el Congreso de la Unión, conforme a lo previsto en las disposiciones aplicables.
-
-###### Artículo 297.
-
-Para fines de seguimiento presupuestario, la base de registro del balance público y los ingresos se presentará en términos pagados, mientras que el gasto se medirá en una base de registro devengada y pagada.
-
-La Secretaría precisará en la Cuenta Pública el momento de registro del proceso de recaudación y gasto para la medición, así como las fuentes de información correspondientes.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Artículo 297 A. Los subsidios, donativos y demás recursos otorgados bajo cualquier concepto con cargo al Presupuesto de Egresos, serán vigilados, auditados y fiscalizados por la Función Pública y la Auditoría, en el ámbito de sus respectivas competencias.
-
-#### SECCIÓN II. Del sistema integral de información de los ingresos y gasto público
-
-###### Artículo 298.
-
-La Comisión, por conducto del Comité Técnico de Información, operará el sistema integral de información de los ingresos y gasto público.
-
-Las disposiciones generales para el funcionamiento del sistema, así como las modificaciones a éstas, se publicarán en el Diario Oficial de la Federación dentro de los 30 días naturales siguientes a su emisión o modificación.
-
-El Comité Técnico de Información, conjuntamente con la Secretaría y la Función Pública, hará compatibles los requerimientos de información que demande el sistema, racionalizando los flujos de información. No se podrá solicitar por otro medio la información que ya se encuentre en el sistema integral de información de los ingresos y gasto público.
-
-La información que se requiera a dependencias y entidades se sujetará a los plazos de entrega que se establezcan en el sistema.
-
-Las dependencias y entidades serán responsables del envío oportuno de la información y de que sea completa, veraz y congruente, atendiendo a las disposiciones de información y transparencia establecidas en el artículo 108 de la Ley. La información que reporten las dependencias y entidades deberá ser congruente con la que se difunda en los distintos foros de análisis, evaluación y control del presupuesto, tales como las reuniones del Comité Técnico de Apoyo a la Gestión; de los Órganos de Gobierno, y de los Comités de Control y Auditoría.
-
-La Secretaría deberá informar al Comité Técnico de Información sobre la creación de dependencias, órganos administrativos desconcentrados o entidades que deban ser incorporadas al sistema integral de información de los ingresos y gasto público, así como los cambios en la denominación o claves de las que ya se encuentren en dicho sistema, dentro de los primeros 15 días naturales siguientes en que ocurra la creación o modificación.
-
-En caso de que las dependencias, órganos administrativos desconcentrados o entidades incumplan los lineamientos del sistema, el Comité Técnico de Información lo hará del conocimiento del órgano interno de control respectivo, para los efectos administrativos a que haya lugar.
-
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-###### Artículo 299.
-
-Las dependencias y entidades efectuarán la revisión de la información correspondiente al ejercicio presupuestario inmediato anterior y enviarán los requerimientos del sistema integral de información de los ingresos y gasto público con la información definitiva a más tardar 10 días hábiles después de la fecha límite para entregar la información a la Secretaría para la elaboración de la Cuenta Pública. Si en el transcurso de la integración de dicho informe la información proporcionada sufre modificaciones, éstas deberán reflejarse también en la información del sistema de tal manera que ésta sea congruente con los resultados que se presenten en la Cuenta Pública.
-
-A más tardar 5 días hábiles posteriores a la entrega en el sistema de la información definitiva, las dependencias y entidades enviarán al Comité Técnico de Información la relación de los requerimientos, indicando clave y periodo que se hayan modificado como resultado de la revisión a que se refiere el párrafo anterior, o bien, confirmarán oficialmente que la información que se encuentra en el sistema integral de información de los ingresos y gasto público es congruente con los resultados que se presentaron en la Cuenta Pública.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La información correspondiente al primer semestre del ejercicio que envíen las dependencias y entidades al sistema deberá ser congruente con los resultados que se presenten en el Informe de Avance de Gestión Financiera. Si en el transcurso de la integración de dicho informe la información proporcionada sufre modificaciones, las dependencias y entidades podrán transmitir una versión con la información corregida a más tardar el día 25 de julio o, en caso de que éste sea inhábil, el día hábil anterior.
-
-Las modificaciones a la información derivadas de las revisiones a que se refiere este artículo, se apegarán a la fecha real en que se hayan efectuado las operaciones.
-
-###### Artículo 300.
-
-A partir del inicio de la vigencia de los contratos de servicios de largo plazo, las dependencias y entidades deberán reportar, a través del sistema integral de información de los ingresos y gasto público, la información que especifique la Secretaría, a fin de evaluar el cumplimiento de los objetivos y metas que se hayan establecido cuando se solicitó la autorización de realizar el proyecto para prestación de servicios correspondiente.
-
-###### Artículo 301.
-
-(DEROGADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)
-
-###### Artículo 302.
-
-La Secretaría mantendrá actualizado el Registro de Cuentas de Depósito e Inversión de las dependencias y entidades. Para ello, las dependencias y entidades deberán notificar a la Secretaría a través del sistema integral de información de los ingresos y gasto público la apertura, modificación y cancelación de cuentas, para cada uno de los depósitos o inversiones que hayan realizado, incluyendo las cuentas de los fideicomisos públicos, mandatos y análogos no considerados entidades paraestatales. Asimismo, también informarán sobre el estado que guardan de acuerdo a los formatos e instructivos que se establezcan en el sistema integral de información de los ingresos y gasto público.
-
-### CAPÍTULO II. De la Evaluación
-
-###### Artículo 303.
-
-El Sistema de Evaluación del Desempeño es el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos.
-
-Los indicadores del desempeño referidos en el artículo 25, fracción IV de este Reglamento, son la base del funcionamiento del Sistema de Evaluación del Desempeño y deberán estar expresados en los elementos de la clasificación funcional programática.
-
-El Sistema de Evaluación del Desempeño será obligatorio para los ejecutores del gasto, los cuales lo aplicarán con base en este Reglamento y las disposiciones que emitan la Secretaría y la Función Pública en el ámbito de sus respectivas competencias.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Los indicadores serán de dos tipos, estratégicos y de gestión, y serán expresados en términos de eficacia, eficiencia, economía y calidad.
-
-Las dependencias coordinadoras de sector tomarán las medidas necesarias, una vez realizada la evaluación y verificación de los avances en la ejecución de los programas, con base en los indicadores del desempeño, en las entidades ubicadas en su sector.
-
-###### Artículo 304.
-
-La fiscalización, el seguimiento y la medición se realizarán en la forma siguiente:
-
-l. En reuniones entre la Secretaría y la Función Pública en el ámbito de sus respectivas competencias, y las dependencias coordinadoras de sector y, en su caso, las entidades coordinadas y entre la Secretaría y la Función Pública en el ámbito de sus respectivas competencias, y entidades no coordinadas en plazos que no sean mayores a un bimestre;
-
-II. En reuniones entre las dependencias coordinadoras de sector y entidades coordinadas, en los mismos términos de la fracción anterior;
-
-III. Mediante visitas y auditorías que se efectúen en los términos del Capítulo III del presente Título, y
-
-IV. Por medio de los sistemas de seguimiento de realizaciones financieras y de metas que determinen la Secretaría y la Función Pública en el ámbito de sus respectivas competencias.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 304 A. La Secretaría y la Función Pública se coordinarán, en términos de la Ley Orgánica de la Administración Pública Federal, en un grupo de trabajo permanente en materia de evaluación y seguimiento al desempeño presupuestario, así como de los resultados del mismo, que facilite la definición de:
-
-I. Las políticas y metodologías necesarias para la determinación de los instrumentos de la evaluación y su seguimiento;
-
-II. La forma y términos para la concertación y validación de los indicadores para la evaluación del desempeño;
-
-III. Los mecanismos de coordinación y cooperación que se requieran para atender las consultas en materia de evaluación que realicen las dependencias y entidades; las entidades federativas, por conducto de éstas, los municipios y demarcaciones territoriales del Distrito Federal;
-
-IV. Los procedimientos que se requieran para el mejoramiento de los instrumentos diseñados para la evaluación y el seguimiento al desempeño, y
-
-V. Las demás acciones que sean necesarias para los propósitos a que se refiere el presente artículo.
-
-En dicho grupo podrán participar las dependencias y entidades cuando así se considere conveniente por virtud de los asuntos a tratar, e invariablemente con el carácter de invitados permanentes la Oficina de la Presidencia de la República y el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
-
-### CAPÍTULO III. De las Auditorías
-
-###### Artículo 305.
-
-La Función Pública, por sí o a través de los órganos internos de control, de conformidad con el artículo 6 de la Ley y con objeto de inspeccionar y vigilar el adecuado cumplimiento de la misma, y demás disposiciones que de ella emanen, podrá realizar auditorías y visitas a las dependencias y entidades.
-
-Las auditorías al gasto público federal serán un mecanismo coadyuvante para controlar y evaluar las operaciones que realicen las dependencias y entidades.
-
-###### Artículo 306.
-
-Las auditorías al gasto público federal tendrán por objeto examinar las operaciones, cualesquiera que sea su naturaleza, de las dependencias y entidades con el propósito de verificar si los estados financieros presentan razonablemente la situación financiera; si la utilización de los recursos se ha realizado en forma eficiente; si los objetivos y metas se lograron de manera eficaz y congruente, y si en el desarrollo de las actividades se han cumplido las disposiciones aplicables.
-
-###### Artículo 307.
-
-Las auditorías al gasto público federal podrán ser de tipo financiero, operacional, de resultado de programas y de legalidad, las cuales podrán ser efectuadas por la Función Pública, por sí o a través de los órganos internos de control y por los auditores que ésta designe.
-
-Estas auditorías se realizarán de conformidad con lo dispuesto por la Función Pública.
-
-###### Artículo 308.
-
-Los programas mínimos de auditoría que en su caso fije la Función Pública, en los términos de la Ley se harán del conocimiento de las dependencias y entidades dentro de los primeros 90 días del ejercicio fiscal y establecerán las revisiones que los órganos internos de control realizarán de los aspectos prioritarios que a nivel global, sectorial e institucional apruebe el Ejecutivo Federal.
-
-###### Artículo 309.
-
-Los órganos internos de control realizarán las revisiones y auditorías correspondientes de acuerdo con la normatividad, políticas, guías y procedimientos que en materia de auditoría emita la Función Pública.
-
-###### Artículo 310.
-
-Las dependencias y entidades deberán proporcionar en los plazos en que les sean solicitados, los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar la Función Pública, por sí o a través de los órganos internos de control, o a solicitud de la Secretaría o de la dependencia coordinadora de sector respectiva.
-
-###### Artículo 311.
-
-Para la realización de las auditorías y visitas se deberán observar las siguientes reglas:
-
-I. Se practicarán mediante mandamiento escrito emitido por autoridad competente, el cual contendrá:
-
-a) El nombre de la dependencia o entidad a la que se le practicará la auditoría o visita, así como el domicilio donde habrá de efectuarse;
-
-b) El nombre del servidor público con quien se entenderá la auditoría o visita;
-
-c) El nombre de la persona o personas que la practicarán, las que podrán ser sustituidas haciendo, en su caso, del conocimiento de esta situación al servidor público de la dependencia o entidad respectiva. Dicha sustitución se hará constar en el acta o en el informe correspondiente;
-
-II. Antes de realizarse la auditoría o visita, la orden para su ejecución se entregará a la persona referida en la fracción anterior, inciso b) o a quien lo supla en su ausencia, recabándose el acuse de recibo correspondiente, previa identificación de la persona o personas que la practicarán;
-
-III. Se especificarán en la orden los aspectos que deberá cubrir la auditoría o visita, tales como el objeto y el periodo que se revisará;
-
-IV. Se levantará acta de inicio en la que se harán constar los hechos;
-
-V. Se formulará acta o informe en el que se harán constar los hechos, omisiones y observaciones que resulten con motivo de la auditoría o visita para que, en su caso, se acuerde la adopción de medidas tendientes a mejorar la gestión y el control interno del auditado, así como a corregir las desviaciones y deficiencias que se hubieren encontrado, y
-
-VI. Las observaciones resultantes deberán solventarse por las dependencias y entidades en un plazo de 45 días hábiles.
-
-Las personas que practiquen la visita o auditoría, al levantar el acta respectiva, deberán recabar las firmas de las personas que en ella intervinieron y entregarán un ejemplar de la misma al servidor público con quien entendieron la visita o auditoría. Si se negaren a firmar, se hará constar en el acta, sin que esta circunstancia afecte el valor probatorio del documento.
-
-Si como resultado de las auditorías se detectan irregularidades que afecten a la Hacienda Pública Federal o al patrimonio de las entidades, se procederá en los términos de las disposiciones aplicables.
-
-###### Artículo 312.
-
-Los órganos internos de control de las dependencias y entidades elaborarán un programa anual de trabajo de auditoría que enviarán a la Función Pública, para su aprobación, dentro del plazo que ésta determine, el cual contendrá:
-
-I. Los tipos de auditoría a practicar;
-
-II. Las unidades, programas y actividades a examinar;
-
-III. Los periodos estimados de realización, y
-
-IV. Los días hombre a utilizar.
-
-## TRANSITORIOS
-
-PRIMERO. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Se abroga el Reglamento de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, publicado en el Diario Oficial de la Federación el día 18 de noviembre de 1981.
-
-TERCERO. Todos aquellos procesos, trámites, autorizaciones y actos iniciados con base en el Reglamento que se abroga deberán concluirse conforme a lo previsto en él y en las demás disposiciones que resulten aplicables.
-
-CUARTO. Quedan sin efectos todas aquellas disposiciones que contravengan lo dispuesto por el presente Reglamento.
-
-QUINTO. Quedan sin efectos todas aquellas disposiciones del Acuerdo por el que se expide el Manual de Normas Presupuestarias para la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2004 que contravengan o dupliquen lo dispuesto en el presente Reglamento y, en lo que continúe vigente, éste deberá actualizarse por las áreas competentes de la Secretaría mediante la emisión de las disposiciones correspondientes.
-
-SEXTO. El procedimiento establecido en los artículos 108 a 117 para realizar adecuaciones relativas a erogaciones adicionales con cargo a ingresos excedentes, entrará en vigor el 1 de enero de 2007. Las adecuaciones presupuestarias en dicha materia que se lleven a cabo durante el ejercicio fiscal 2006, se continuarán realizando conforme a lo previsto en la Ley de Ingresos de la Federación para el ejercicio fiscal 2006, el Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2006 y de acuerdo con lo previsto en el procedimiento para el dictamen, notificación o constancia de registro, por los ingresos excedentes obtenidos durante el ejercicio por las dependencias y entidades, así como por los Poderes Legislativo y Judicial y los Órganos Constitucionalmente Autónomos, publicado en el Diario Oficial de la Federación el 30 de enero de 2006.
-
-SÉPTIMO. La Secretaría, por conducto de la Unidad de Política y Control Presupuestario, en coordinación con la Dirección General Jurídica de Egresos, determinará en un plazo que no excederá de 45 días hábiles contados a partir de la publicación del presente Reglamento, qué unidades administrativas son coordinadoras de los fideicomisos, mandatos y análogos que conforme al Título Cuarto, Capítulo XVI de este instrumento se encuentren inscritos en el sistema de control y transparencia de fideicomisos que no tengan actualizada su información al respecto. Asimismo, en un plazo de 90 días hábiles, contados a partir de la publicación de este ordenamiento, las dependencias y entidades coordinadoras deberán solicitar, acreditar y realizar las gestiones ante la Secretaría, por conducto de dichas unidades administrativas, en términos de las disposiciones aplicables, a fin de que ésta opere la baja en dicho sistema de aquellos instrumentos registrados que conforme a las disposiciones aplicables ya no deban estarlo.
-
-Los casos que no sean gestionados en los términos y plazos establecidos en este transitorio por las dependencias y entidades coordinadoras o que hayan aportado recursos presupuestarios serán reportados por la Secretaría ante la Función Pública para los efectos conducentes.
-
-OCTAVO. La Secretaría contará con 10 días hábiles a partir de la publicación del presente Reglamento en el Diario Oficial de la Federación, para expedir los formatos oficiales a que se refiere el artículo 301 de este Reglamento.
-
-La Comisión Nacional Bancaria y de Valores contará con 90 días hábiles a partir de que se expidan los formatos oficiales a que se refiere el artículo 301 del presente Reglamento, para habilitarlos en el sistema interinstitucional de transferencia de información, para los efectos indicados en el mismo artículo.
-
-El titular o los titulares de las cuentas de depósito o inversión contarán con un plazo de 30 días naturales a partir de la publicación del presente reglamento en el Diario Oficial de la Federación, para cumplir con el artículo 301, fracciones I y III de este Reglamento.
-
-NOVENO. Conforme a las características de coordinación sectorial que representa el Ramo Administrativo 06, la Secretaría emitirá los lineamientos que permitan la coordinación sectorial de los órganos administrativos desconcentrados y entidades agrupadas en ésta, así como de las entidades no coordinadas.
-
-DÉCIMO. Las disposiciones administrativas emitidas por la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, en las materias ya previstas en el presente Reglamento deberán ser actualizadas por éstas.
-
-DÉCIMO PRIMERO. La Secretaría, en los términos de los artículos transitorios Quinto, Séptimo y Octavo de la Ley, informará a los Poderes Legislativo y Judicial y a los entes autónomos, las características de los sistemas y registros a que se refieren los artículos 13, 14, 70, 94, 95 y 98 de la Ley y realizará los ajustes que acuerde con aquéllos mediante convenios o las comunicaciones correspondientes, con el objeto de facilitar la coordinación para efectos exclusivamente de consolidación de la información establecida en los referidos artículos.
-
-DÉCIMO SEGUNDO. Las solicitudes relativas a movimientos por creación, modificación, cancelación o cualquier afectación a la estructura ocupacional respecto del personal operativo, de categoría y de confianza, distinto de los de mando y de enlaces, se atenderán y registrarán ante la Secretaría hasta en tanto la Secretaría y la Función Pública expidan las disposiciones generales a que se refiere el artículo 104 de este Reglamento.
-
-DÉCIMO TERCERO. Los sistemas de control presupuestario que administra la Secretaría y los correspondientes a las dependencias y entidades deberán considerar la infraestructura para la aplicación integral de los componentes de las clasificaciones presupuestarias a fin de que se incluya la categoría entidad federativa de la estructura programática en los términos del artículo 27 de la Ley, a más tardar en el ejercicio fiscal de 2008.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de la Función Pública, Eduardo Romero Ramos.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
-
-D.O.F. 5 DE SEPTIEMBRE DE 2007
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Se abroga el Acuerdo por el que se expide el Manual de Normas Presupuestarias para la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2004 y se derogan aquéllas disposiciones que contravengan lo dispuesto por el presente Reglamento.
-
-TERCERO. Se abroga el Acuerdo que establece los lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal para el control, la rendición de cuentas e informes y la comprobación del manejo transparente de los recursos públicos federales otorgados a fideicomisos, mandatos o contratos análogos, publicado en el Diario Oficial de la Federación el 6 de septiembre de 2004.
-
-CUARTO. Las dependencias o entidades que requieran tramitar la autorización a que se refiere el artículo 8 D de este Reglamento y que con anterioridad hayan participado en la creación de empresas, sociedades o asociaciones, civiles o mercantiles, o en el aumento de su capital o patrimonio o en la adquisición de todo o parte de éstos, sin haber obtenido la autorización del Ejecutivo Federal prevista en el artículo 8o de la abrogada Ley de Presupuesto, Contabilidad y Gasto Público Federal, o en el artículo 8 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, deberán previo a la realización de dicho trámite, presentar a la Secretaría de Hacienda y Crédito Público el informe a que se refiere el artículo 8 C de este Reglamento, para el efecto de que la Secretaría únicamente tome conocimiento de la participación estatal que se hubiere realizado.
-
-Las empresas de participación estatal mayoritaria y las sociedades y asociaciones, civiles o mercantiles, que por primera ocasión tramiten una autorización de acuerdo con el artículo 8 D de este Reglamento, deberán incluir en su informe, lo relativo al régimen jurídico de su constitución, salvo que para ésta se hubiera obtenido la autorización correspondiente en los términos del artículo 8 C del mismo.
-
-QUINTO. Hasta en tanto la Secretaría emite los términos a que hace referencia el segundo párrafo del artículo 47 del presente Reglamento, se considera que un programa o proyecto de inversión modifica su alcance, cuando el monto total de inversión del mismo varíe en más de 25 por ciento en términos reales, respecto al monto previsto en el último análisis costo y beneficio presentado para registrar el programa o proyecto, o actualizar su registro en la Cartera.
-
-SEXTO. Para los efectos del Título Cuarto, Capítulo II, Sección III de este Reglamento, y en tanto la Secretaría emite nuevas disposiciones en la materia, continuará aplicando lo dispuesto en el Acuerdo por el que se expiden los lineamientos para el manejo de las disponibilidades financieras de las entidades paraestatales de la Administración Pública Federal, publicado el 28 de junio de 2006 en el Diario Oficial de la Federación.
-
-SÉPTIMO. El modelo a que se refiere el artículo 215, fracción II de este Reglamento se dará a conocer en el portal de Internet de la Secretaría a más tardar dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
-
-OCTAVO. En aquellos fideicomisos, o análogos que a la entrada en vigor del presente Decreto se encuentren en proceso de extinción o cuya vigencia haya concluido y no se haya formalizado el convenio de extinción respectivo, en ambos casos por virtud de cualquier situación de hecho o de derecho originada durante su operación o extinción, corresponderá a la unidad responsable de la dependencia con cargo a cuyo presupuesto se hayan aportado los recursos presupuestarios, o que coordine su operación, resolver dicha situación y realizar los actos necesarios que permitan llevar a cabo la formalización de su extinción.
-
-D.O.F. 4 DE SEPTIEMBRE DE 2009.
-
-PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. En tanto se expidan las normas contables correspondientes por parte del Consejo Nacional de Armonización Contable, se continuará aplicando lo dispuesto en los artículos 231 a 282 de este Reglamento, en lo que no se opongan a lo previsto en la Ley General de Contabilidad Gubernamental.
-
-TERCERO. Se abrogan los Criterios para incluir las erogaciones plurianuales para proyectos de inversión en infraestructura, en el proyecto de Presupuesto de Egresos de la Federación, publicados en el Diario Oficial de la Federación el 4 de septiembre de 2008.
-
-CUARTO. Cuando la Secretaría emita la opinión sobre los lineamientos a que hace referencia el artículo Cuarto transitorio del Decreto por el que se adicionan y reforman diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 13 de noviembre de 2008, dará elementos al Comité de Estrategia e Inversiones de Petróleos Mexicanos para:
-
-I. La previsión de que sólo sean aprobados aquellos proyectos que incrementen el valor patrimonial total de Petróleos Mexicanos y sus organismos subsidiarios;
-
-II. Que se cuente con el análisis costo y beneficio socioeconómico de los programas y proyectos de inversión, mismo que deberá realizarse bajo supuestos razonables y que considere los costos y beneficios asociados al proyecto, tanto directos como indirectos, así como sus externalidades;
-
-III. Que se cuente con el análisis costo y beneficio financiero para los proyectos que sean financiados con recursos provenientes de obligaciones que sean constitutivas de deuda pública, mismo que deberá mostrar que el programa o proyecto de inversión es capaz de generar el suficiente flujo de recursos para el pago de todas las obligaciones asociadas;
-
-IV. La previsión de las fuentes de financiamiento que se prevean utilizar, así como cualquier otro acto o hecho asociado que pudiera representar obligaciones financieras de cualquier tipo, directas y contingentes, y
-
-V. La información adicional necesaria para una mejor comprensión del proyecto, sus efectos, implicaciones o riesgos de cualquier índole.
-
-Los elementos para los análisis a que hacen referencia las fracciones II y III de este artículo, deberán contener para los proyectos de infraestructura información detallada sobre costos unitarios de las principales obras o activos que se pretendan construir, y parámetros de eficiencia en la ejecución y operación del proyecto, así como referencias internacionales de proyectos similares.
-
-QUINTO. Para efectos de lo dispuesto en el artículo 221 del presente Reglamento, así como de lo previsto en el transitorio octavo del Decreto que reforma, adiciona y deroga diversas disposiciones del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 5 de septiembre de 2007, las acciones que correspondan a la Secretaría se realizarán a través del área competente a la cual pertenezca o haya pertenecido la unidad administrativa que celebró el fideicomiso o análogo correspondiente.
-
-D.O.F. 5 DE NOVIEMBRE DE 2012.
-
-PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- La Secretaría de Hacienda y Crédito Público contará con un plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Reglamento, para iniciar el registro para efectos estadísticos a que se refiere el artículo 14, párrafo tercero, de la Ley.
-
-TERCERO.- Las adecuaciones al sistema CompraNet que permitan la incorporación de la información relativa a los proyectos de asociación público-privada, deberán quedar concluidas en un plazo no mayor a un año, contado a partir de la fecha de entrada en vigor del presente Reglamento.
-
-Para tales efectos, la Función Pública y la Secretaría llevarán a cabo las acciones de coordinación necesarias para que CompraNet cuente con las funcionalidades requeridas dentro del plazo establecido en el párrafo anterior.
-
-CUARTO.- Los proyectos equiparables a los de asociaciones público privadas, como los Proyectos de Prestación de Servicios denominados como PPS, así como los contratos especiales de prestación de servicios conocidos como CPS, respecto de los cuales ya se haya iniciado el procedimiento de contratación, su ejecución o desarrollo, a la fecha de entrada en vigor del presente Reglamento, continuarán rigiéndose por las disposiciones aplicables con anterioridad a dicha fecha.
-
-A partir de la entrada en vigor del presente Reglamento, no procederá el inicio y trámite de procedimientos de contratación de nuevos proyectos bajo los esquemas jurídicos mencionados en el párrafo anterior, por parte de las dependencias y entidades federales.
-
-QUINTO.- Los proyectos vigentes mencionados en el artículo cuarto transitorio inmediato anterior podrán documentarse bajo el esquema de asociación público privadas regulado en la Ley, en cuyo caso deberá cumplirse con todos los requisitos de un nuevo proyecto, así como celebrarse el convenio modificatorio correspondiente.
-
-SEXTO.- Se derogan los artículos 35 a 41; 46, fracción III; y 150 a 155 del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
-
-SÉPTIMO.- Quedan abrogados con la entrada en vigor del presente Reglamento:
-
-I. El Acuerdo por el que se establecen las Reglas para la realización de proyectos para prestación de servicios, publicado en el Diario Oficial de la Federación de 9 de abril de 2004;
-
-II. Los Lineamientos para la elaboración del análisis costo y beneficio de los proyectos para prestación de servicios a cargo de las dependencias y entidades de la Administración Pública Federal, publicados en el Diario Oficial de la Federación de 4 de agosto de 2009;
-
-III. La Metodología para la comparación de ofertas económicas en los procedimientos de contratación de los proyectos para prestación de servicios a cargo de las dependencias y entidades de la Administración Pública Federal, publicada en el Diario Oficial de la Federación de 4 de agosto de 2009, y
-
-IV. Todas las demás disposiciones administrativas y criterios generales relativos a los Proyectos de Prestación de Servicios (PPS) y contratos especiales de prestación de servicios (CPS).
-
-OCTAVO.- Las disposiciones a que se refieren los artículos sexto y séptimo transitorios anteriores sólo continuarán aplicándose en relación con los proyectos mencionados en el primer párrafo del artículo cuarto transitorio de este decreto.
-
-NOVENO.- La Secretaría expedirá los lineamientos previstos en el artículo 26 del Reglamento, en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor de este Reglamento.
-
-D.O.F. 24 DE ABRIL DE 2014.
-
-ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+### CAPÍTULO DÉCIMO SEGUNDO. DE LAS RESPONSABILIDADES
 
 ###### Artículo 38.
 
-(DEROGADO POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
+La violación de las disposiciones de esta Ley que realicen los servidores públicos estatales y municipales, será sancionada en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios; lo anterior, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal del Estado de México.
 
-###### Artículo 39.
+T R A N S I T O R I O S
 
-(DEROGADO POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-###### Artículo 40.
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-(DEROGADO POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
+TERCERO.- El Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres y los Sistemas Municipales, referidos en esta Ley, se integrarán dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley.
 
-###### Artículo 41.
+CUARTO.- El Programa Integral a que se refiere la presente Ley, deberá expedirse dentro de los noventa días hábiles posteriores a la instalación del Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
-(DEROGADO POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
+QUINTO.- Los recursos para llevar a cabo los programas y la implementación de las acciones que se deriven de la presente Ley, se cubrirán con cargo al presupuesto autorizado a las dependencias, entidades y organismos auxiliares de los Poderes Ejecutivo, Legislativo y Judicial, municipios, órganos autónomos y la Universidad Autónoma del Estado de México.
 
-#### SECCIÓN X. Programas y proyectos de inversión
+> <small>(F. DE E., G.G. 12 DE NOVIEMBRE DE 2010)</small>
 
-###### Artículo 42.
+SEXTO.- El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres seguirá funcionando de conformidad con las disposiciones anteriores al presente Decreto, en tanto se da cumplimiento al artículo Tercero Transitorio de este Decreto.
 
-Los titulares de las dependencias y entidades, así como los servidores públicos autorizados para ejercer gasto de inversión de las mismas, serán responsables de:
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-I. Identificar los programas y proyectos de inversión que contribuyan al cumplimiento de las metas asignadas, considerando el gasto de capital, el gasto de operación y mantenimiento, y otros gastos asociados;
+Dado en el Palacio Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintiséis días del mes de agosto del año dos mil diez.- Presidente.- Dip. Félix Adrián Fuentes Villalobos.- Secretarios.- Dip. Francisco Javier Veladiz Meza.- Dip. Eynar de los Cobos Carmona.- Dip. Horacio Enrique Jiménez López.- Rúbricas.
 
-II. Promover una mayor capacitación de los servidores públicos que intervengan en la planeación, desarrollo y ejecución de programas y proyectos de inversión en materia de evaluación de los beneficios y costos para la sociedad de dichos programas y proyectos;
+Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
-III. Otorgar prioridad a la realización de los programas y proyectos de inversión que generen mayores beneficios netos para la sociedad;
+Toluca de Lerdo, Méx., a 6 de septiembre de 2010.
 
-IV. Estimular y promover la participación de los sectores social y privado y de los distintos órdenes de gobierno en los programas y proyectos de inversión que impulsa el sector público, procurando incrementar con ello los beneficios netos para la sociedad de dichos programas y proyectos, y
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
 
-V. Reportar a la Secretaría la información sobre el seguimiento y desarrollo de los programas y proyectos de inversión en los términos de las disposiciones generales que ésta emita.
+LIC. ENRIQUE PEÑA NIETO
 
-###### Artículo 43.
+(RUBRICA).
 
-Los titulares de las dependencias y entidades serán responsables de designar al servidor público que fungirá como administrador de cada uno de los programas y proyectos de inversión en los términos que la Secretaría determine, pudiendo un administrador ser designado para hacerse cargo de uno o más programas y proyectos de inversión. El administrador deberá tener como mínimo el nivel de Director de Área o su equivalente en la dependencia o entidad correspondiente y será responsable de:
+EL SECRETARIO GENERAL DE GOBIERNO
 
-I. Que se realicen los análisis costo y beneficio de los programas y proyectos de inversión para los que haya sido designado, en los términos de este Reglamento y los lineamientos que emita la Secretaría, identificando con base en supuestos y parámetros razonables la mejor alternativa de inversión;
+LIC. LUIS ENRIQUE MIRANDA NAVA
 
-II. Autorizar los análisis costo y beneficio, cuando de dicho análisis se desprenda razonablemente que los programas y proyectos de inversión generarán beneficios netos para la sociedad;
+(RUBRICA).
 
-III. Que la ejecución de los programas y proyectos de inversión se sujete a los montos, términos y condiciones autorizados, y
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-IV. Dar seguimiento a los programas y proyectos de inversión en ejecución y en operación, en los términos que determine la Secretaría.
+G.G. 9 DE MAYO DE 2014.
 
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-###### Artículo 44.
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-Las dependencias y entidades deberán elaborar y enviar anualmente a la Secretaría, a más tardar el último día hábil de mayo, el mecanismo de planeación de las inversiones señalado en el artículo 34, fracción I, de la Ley, en el que se identifiquen los programas y proyectos de inversión en proceso y aquéllos a realizarse en los siguientes 6 ejercicios fiscales. Lo anterior, conforme a los lineamientos que al efecto emita la propia Secretaría.
+TERCERO.- Se entenderá por Secretaría de Seguridad Ciudadana cualquier referencia que se haga, en los ordenamientos jurídicos estatales, a la Agencia de Seguridad Estatal.
 
-En el mecanismo de planeación de las inversiones se deberá justificar que dichos programas y proyectos de inversión guardan congruencia con los objetivos nacionales, estrategias y prioridades contenidas en el Plan Nacional de Desarrollo, así como en los programas sectoriales, institucionales, regionales y especiales que de él se desprendan, y que los mismos se apegan a las disposiciones aplicables.
+G.G. 16 DE DICIEMBRE DE 2014.
 
-###### Artículo 45.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-Los programas y proyectos de inversión deberán contar con un análisis costo y beneficio, elaborado conforme a los lineamientos que emita la Secretaría, que considere las alternativas que se hayan identificado para atender una necesidad específica o solucionar la problemática de que se trate, y deberá mostrar que dichos programas y proyectos son susceptibles de generar por sí mismos beneficios netos para la sociedad bajo supuestos y parámetros razonables, independientemente de cuál sea la fuente de los recursos con los que se financien.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 46.
-
-La Cartera se integrará con los conceptos señalados en las fracciones de este artículo que cuenten con el análisis costo y beneficio correspondiente, presentado por las dependencias y entidades a través del sistema de programas y proyectos de inversión, conforme a los distintos niveles de evaluación que se prevean en los lineamientos que al efecto emita la Secretaría.
-
-Se deberá solicitar el registro en la Cartera de:
-
-I. Los programas y proyectos de inversión que ejecuten las dependencias y entidades;
-
-II. Los proyectos de infraestructura productiva de largo plazo a los que se refiere el artículo 32 de la Ley;
-
-III. (DEROGADA POR EL TRANSITORIO SEXTO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS, D.O.F. 5 DE NOVIEMBRE DE 2012)
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-IV. Los programas y proyectos de inversión apoyados a través de fideicomisos públicos o mandatos cuyo objeto principal sea realizar o financiar dichos programas y proyectos;
-
-V. El gasto de inversión que determine la Secretaría mediante disposiciones generales, y
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-VI. Los proyectos de infraestructura que impliquen inversión a largo plazo y amortización programada, en los cuales el contratista se obliga a la ejecución de la obra, su puesta en marcha, así como al mantenimiento y operación de la misma.
-
-###### Artículo 47.
-
-Las dependencias y entidades deberán mantener actualizada la información contenida en la Cartera; para ello solicitarán a la Secretaría en cualquier momento y a través del sistema de programas y proyectos de inversión, la actualización de la Cartera, para incluir nuevos programas y proyectos de inversión, así como para modificar o cancelar los ya registrados. Las dependencias y entidades deberán enviar la solicitud de actualización con base en los lineamientos que emita la Secretaría y demás disposiciones aplicables. En el caso de los nuevos programas y proyectos de inversión, así como de aquéllos cuyo alcance se modifique, la solicitud a que se refiere este párrafo deberá acompañarse del análisis costo y beneficio correspondiente.
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Se considera que un programa o proyecto de inversión ha modificado su alcance, cuando se presenten variaciones en el monto total de inversión en términos reales, respecto al último análisis costo y beneficio registrado en la Cartera, en la modalidad de financiamiento, o en el tipo de programas y proyectos de inversión, en los términos que establezca la Secretaría en los lineamientos a que se refiere el párrafo anterior.
-
-###### Artículo 48.
-
-No se podrán emitir los oficios de inversión a que se refiere el artículo 156 de este Reglamento para autorizar programas y proyectos de inversión que, debiendo registrarse en la Cartera, no hayan obtenido la clave de registro correspondiente, ésta no se encuentre vigente o no se haya actualizado el registro en Cartera habiéndose modificado el alcance del programa o proyecto.
-
-En los casos de programas y proyectos de inversión para cuya realización no se requiera la emisión de un oficio de inversión, deberá contarse con el registro en la Cartera previamente al inicio del procedimiento de contratación correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 48 A. Una vez registrados en la Cartera los programas y proyectos de inversión a que se refiere el artículo 46 de este Reglamento, salvo los de Petróleos Mexicanos, serán analizados por la Comisión para determinar la prelación para su inclusión en el proyecto de Presupuesto de Egresos, así como el orden de ejecución.
-
-Para la determinación de la prelación anterior, las dependencias y entidades deberán presentar a la Comisión la información que requiera para su análisis en los términos que la misma determine, de forma tal que permita acreditar fehacientemente, entre otros aspectos, la congruencia y conformidad de los proyectos con los objetivos y prioridades del sistema nacional de planeación democrática y los programas aplicables; su temporalidad y orden; los criterios a que se refiere el artículo 34, fracción IV, de la Ley; con el propósito de uniformar la presentación de documentos e información de los programas y proyectos de inversión de que se trate.
-
-Previo a que los proyectos se sometan a la consideración de la Comisión, las dependencias y entidades:
-
-I. De conformidad a las características específicas de cada sector, las condiciones técnicas, económicas y sociales; así como la importancia para alcanzar los objetivos establecidos en el Plan Nacional de Desarrollo y los programas sectoriales, regionales y especiales vigentes, propondrán la prelación y orden de ejecución entre los programas y proyectos de inversión;
-
-II. Podrán proponer a la Comisión, para su análisis, criterios adicionales a los previstos en el artículo 34, fracción IV, de la Ley, de conformidad con las particularidades, importancia y demás elementos del sector económico al que pertenezcan;
-
-III. En términos del artículo 44 de este Reglamento, utilizarán los elementos del mecanismo de planeación para sugerir el establecimiento de prioridades y orden de prelación de los programas y proyectos de inversión, y
-
-IV. Podrán utilizar, cuando proceda, los lineamientos y criterios que sobre reducción de la pobreza extrema y desarrollo regional emita la Secretaría de Desarrollo Social en términos de la Ley General de Desarrollo Social, para apoyar el análisis que realice la Comisión.
-
-La información anterior se hará llegar a la Comisión por conducto de la dependencia que ejerza las funciones de coordinadora de sector, o bien directamente por las entidades no coordinadas, a través de la unidad administrativa responsable de la inversión pública de la Secretaría.
-
-###### Artículo 49.
-
-Con la finalidad de incluir en el proyecto de Presupuesto de Egresos los programas y proyectos de inversión, las dependencias y entidades deberán solicitar, a más tardar el 15 de julio, su registro en la Cartera, así como la actualización de aquéllos ya registrados en los que se prevea erogar recursos en el siguiente ejercicio fiscal.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-En casos excepcionales y debidamente justificados, la Secretaría podrá ampliar el plazo mencionado en el párrafo anterior haciéndolo del conocimiento de las dependencias y entidades.
-
-Sólo se podrán incluir en el proyecto de Presupuesto de Egresos los programas y proyectos de inversión que cuenten con registro en la Cartera.
-
-Los nuevos proyectos de inversión que como resultado de su aprobación en el Presupuesto de Egresos no se hubieran registrado previamente, así como los derivados de adecuaciones presupuestarias autorizadas conforme a la Ley y este Reglamento, y aquéllos cuyo alcance se modifique, deberán contar con el registro en la Cartera antes de la emisión del oficio de inversión correspondiente o en caso de no requerir dicho oficio, antes del inicio del procedimiento de contratación respectivo.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-La Secretaría podrá requerir mayor información respecto de las especificaciones económicas, técnicas y sociales, a fin de garantizar la adecuada ejecución de los programas y proyectos de inversión.
-
-###### Artículo 50.
-
-Una vez presentada la solicitud de registro de los programas y proyectos de inversión, o de modificación al alcance de los ya registrados, la Secretaría, a través del sistema de programas y proyectos de inversión, en un plazo máximo de 20 días hábiles, resolverá:
-
-I. Registrar los programas y proyectos de inversión mediante la asignación de la clave respectiva o, en el caso de modificación al alcance, la actualización de la información;
-
-II. Solicitar a las dependencias y entidades información adicional y, en su caso, que se precise la que se recibió sobre los programas y proyectos de inversión a registrar en la Cartera o cuyo alcance se pretenda modificar, o
-
-III. Rechazar la solicitud de registro del programa o proyecto de inversión en la Cartera o de modificación al programa o proyecto correspondiente.
-
-###### Artículo 51.
-
-Las dependencias y entidades deberán informar a la Secretaría, con base en los lineamientos que ésta emita, sobre el desarrollo de los programas y proyectos de inversión, incluyendo la comparación de los beneficios netos considerados en el último análisis costo y beneficio presentado para registrar el programa o proyecto, o actualizar su registro en la Cartera con aquéllos efectivamente generados, así como sus avances físicos y financieros.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Tratándose de los proyectos de inversión de Petróleos Mexicanos y sus organismos subsidiarios, relacionados con actividades sustantivas de carácter productivo que impliquen un esquema de financiamiento, se deberá informar a la Secretaría, por conducto de la coordinadora de sector, además de lo establecido en el párrafo anterior, lo siguiente:
-
-I. Los ingresos asociados;
-
-II. La inversión presupuestaria;
-
-III. Los gastos de operación y mantenimiento;
-
-IV. Los demás gastos y obligaciones asociadas;
-
-V. Las obligaciones fiscales correspondientes;
-
-VI. La diferencia entre los ingresos asociados y los conceptos señalados en las fracciones II a V anteriores, y
-
-VII. El valor presente neto considerando el horizonte de evaluación y la diferencia a que se refiere la fracción anterior.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La información a que hace referencia este artículo deberá presentarse cada mes a partir de la entrada en operación del proyecto, ya sea de forma total o parcial, y se deberá comparar con las proyecciones presentadas en el último análisis costo y beneficio registrado en la Cartera.
-
-###### Artículo 52.
-
-La Secretaría podrá requerir en cualquier momento información sobre programas y proyectos de inversión y, en su caso, podrá suspender temporalmente o cancelar el registro en la Cartera si no se cumple con los lineamientos aplicables en la materia.
-
-En caso de suspensión temporal del registro las dependencias y entidades no podrán comprometer recursos relacionados con el programa o proyecto de inversión correspondiente. En su caso, la Secretaría podrá establecer condiciones para el ejercicio de recursos del programa o proyecto de que se trate evaluando los costos y beneficios de dicha medida.
-
-De conformidad con los lineamientos que emita la Secretaría, el registro en la Cartera tendrá una vigencia de 3 años contados a partir del otorgamiento de la clave correspondiente o, en su caso, a partir de la actualización del registro con la presentación de un nuevo análisis costo y beneficio.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-La clave se renovará automáticamente siempre y cuando los programas y proyectos de inversión se encuentren en etapa de ejecución y, en su caso, de operación.
-
-###### Artículo 53.
-
-Los programas y proyectos de inversión señalados en este artículo deberán contar con el dictamen favorable a que se refiere el artículo 34, fracción II de la Ley, sobre el análisis de factibilidad técnica, económica y ambiental y, en su caso, sobre el proyecto ejecutivo de obra pública. Este dictamen se deberá obtener antes de la emisión de los oficios de inversión correspondientes, o en los casos en que éstos no se requieran, antes de iniciar el procedimiento de contratación de que se trate, en los términos que establezca la Secretaría.
-
-Los programas y proyectos de inversión sujetos a esta obligación son:
-
-I. Los nuevos proyectos de infraestructura productiva de largo plazo;
-
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-II. Los nuevos programas y proyectos de inversión presupuestaria en infraestructura eléctrica, hidráulica y de transporte, incluyendo carreteras, cuyo monto total de inversión sea superior al que determine la Secretaría, y
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-III. Las modificaciones al alcance tanto de proyectos de infraestructura productiva de largo plazo como de inversión presupuestaria cuyo monto total y tipo de infraestructura correspondan a lo señalado en la fracción anterior.
-
-En la designación y contratación de los expertos que elaboren cada uno de los dictámenes de los programas y proyectos de inversión sujetos a este requerimiento, se deberán observar las disposiciones que establezca la Secretaría, atendiendo la normativa aplicable, incluyendo aquéllas sobre los requisitos que dichos expertos deberán cumplir. Los gastos que se deriven de la realización de los contratos en los términos que establezca la Secretaría, se harán con cargo a los presupuestos de las dependencias y entidades.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-#### SECCIÓN X BIS. De las erogaciones plurianuales para proyectos de inversión en infraestructura
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 53 A. Las erogaciones plurianuales para proyectos de inversión en infraestructura a que se refiere el último párrafo del artículo 32 de la Ley, que las dependencias y entidades pretendan que la Secretaría incluya en un apartado específico del proyecto de Presupuesto de Egresos, deberán:
-
-I. Contar con registro en la Cartera;
-
-II. No rebasar el monto anual que como porcentaje total del gasto de inversión presupuestaria proponga el Ejecutivo Federal por conducto de la Secretaría;
-
-III. Tener un monto mínimo de inversión total establecido por la Secretaría;
-
-IV. Tener un calendario de inversión de por lo menos 24 meses;
-
-V. Contribuir a la consecución de los objetivos y estrategias establecidos en el Plan Nacional de Desarrollo, y
-
-VI. Tener un impacto regional.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 53 B. La solicitud para la inclusión en el proyecto de Presupuesto de Egresos de las erogaciones a que se refiere el artículo anterior, que presenten las dependencias y entidades deberá contener:
-
-I. La manifestación de que el proyecto no tendrá impacto presupuestario adicional en las finanzas del sector público durante el ciclo plurianual correspondiente, debido a que los flujos señalados en su calendario de inversión estarán previstos e incluidos en los presupuestos de las dependencias o entidades de los ejercicios fiscales siguientes;
-
-II. La acreditación por parte de sus unidades administrativas internas, de que el proyecto cuenta con la viabilidad técnica, económica, jurídica, ambiental y con los demás elementos aplicables a la naturaleza del proyecto de inversión necesarios para permitir su correcto desarrollo y ejecución en tiempo y costos;
-
-III. Las razones que justifican que la ejecución del proyecto representa ventajas económicas o sociales, o que sus términos o condiciones son más favorables respecto de la celebración de contratos sin ese tipo de erogaciones;
-
-IV. Un resumen ejecutivo que contenga la descripción de sus principales componentes; los fines y metas que se pretendan alcanzar con su desarrollo; el monto total de inversión, los costos directos e indirectos y demás gastos asociados que se requieran para la ejecución del proyecto, la descripción de los riesgos de cualquier índole, su distribución y la previsión de seguros o cualquier otro instrumento necesario para mitigarlos, y
-
-V. En su caso, la información adicional que estimen necesaria para una mejor comprensión y dimensión del proyecto.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 53 C. Las dependencias y entidades deberán observar el siguiente procedimiento para la inclusión de los proyectos a que se refiere el artículo 53 A de este Reglamento en el proyecto de Presupuesto de Egresos:
-
-I. Presentar ante la Secretaría las solicitudes de las erogaciones plurianuales para proyectos de inversión en infraestructura, anexando la documentación que acredite que el proyecto es elegible en términos del artículo anterior.
-
-En el caso de entidades sectorizadas, la solicitud deberá ser presentada por la dependencia coordinadora de sector y, en el caso de las entidades no sectorizadas, la solicitud deberá presentarse directamente por éstas a la Secretaría;
-
-II. En caso de que no se cumpla con alguno de los requisitos señalados en el artículo anterior, la Secretaría deberá requerir por escrito a la dependencia o entidad solicitante, que presente la información faltante o haga las aclaraciones pertinentes dentro de los 5 días hábiles siguientes;
-
-III. En caso de que la dependencia o entidad solicitante no cumpla con la presentación de la información faltante o no realice las aclaraciones requeridas, la solicitud se tendrá por no presentada;
-
-IV. Cuando las solicitudes presentadas cuenten con los requisitos previstos en el artículo anterior, la Secretaría procederá a emitir la opinión correspondiente y remitirá la totalidad de las solicitudes de los proyectos a la Comisión, a efecto de que ésta emita su opinión, y
-
-V. Una vez que se cuente con la opinión favorable de la Comisión, la Secretaría determinará la inclusión de los proyectos en el apartado correspondiente del proyecto de Presupuesto de Egresos.
-
-Las dependencias y entidades deberán agotar el procedimiento anterior a más tardar el 20 de agosto, observando lo establecido por el artículo 22 de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 53 D. Las dependencias o entidades, sin necesidad de presentar un nuevo análisis costo y beneficio, podrán modificar el calendario de inversión de los proyectos de inversión en infraestructura autorizados para un determinado ejercicio fiscal, así como cualquier otra modificación que no implique un cambio de alcance al proyecto autorizado, una adecuación presupuestaria externa o un subejercicio de gasto, de conformidad con las disposiciones aplicables.
-
-Lo anterior, a través del sistema del proceso integral de programación y presupuesto.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 53 E. Los compromisos futuros que originen los proyectos que se prevean iniciar, acumulados a aquéllos de los ya autorizados que se encuentren en etapa de ejecución, deberán ser acordes con el monto que como porcentaje total del gasto de inversión presupuestaria anual determine la Secretaría.
-
-A efecto de garantizar la suficiencia presupuestaria de los proyectos, será responsabilidad de las dependencias y entidades que el monto total de inversión constituya un compromiso sostenible en los ejercicios fiscales subsecuentes que comprendan la vigencia de los proyectos respectivos.
-
-Si durante la ejecución del proyecto autorizado ocurren circunstancias de orden económico no previstas, que determinen un aumento en los costos de los trabajos pendientes para concluirlo, éstos serán reconocidos por la dependencia o entidad hasta el porcentaje que resulte procedente en términos de la normativa aplicable. En estos casos, los montos anuales para cada proyecto se deberán ajustar y conciliar ante la Secretaría.
-
-Los supuestos establecidos en este artículo no implicarán aumento en el techo presupuestario de las dependencias y entidades en los ejercicios fiscales subsecuentes.
-
-#### SECCIÓN XI. Inversiones financiadas con crédito externo
-
-###### Artículo 54.
-
-Las dependencias y entidades serán responsables de proponer y gestionar ante la Secretaría los programas y proyectos que serán financiados con crédito externo, quien determinará la viabilidad del financiamiento y, en su caso, el monto y la fuente del mismo y, cuando corresponda, las condiciones financieras del crédito.
-
-A fin de determinar la conveniencia para la realización de las negociaciones del crédito externo o para su contratación, la Secretaría podrá solicitar a la dependencia o entidad ejecutora la confirmación escrita de su Oficial Mayor o equivalente de que al programa o proyecto aprobado le ha sido asignado un presupuesto suficiente para su ejecución. Con base en esta confirmación, la Secretaría podrá realizar las modificaciones que considere convenientes a las condiciones y a los montos de los créditos contratados o a ser contratados.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Cuando en el marco del comité de crédito externo se detecte que la dependencia no está ejerciendo con oportunidad los recursos comprometidos, o no está cumpliendo con los objetivos y metas establecidos en los programas y proyectos financiados con crédito externo, la Secretaría podrá proponer el traspaso de recursos de la dependencia correspondiente para cubrir el pago de las comisiones que se generen por el diferimiento en la operación, modificación o cancelación de dichos programas y proyectos.
-
-###### Artículo 55.
-
-El comité de crédito externo a que se refiere el artículo 36 de la Ley analizará el avance en el ejercicio de los programas y proyectos en ejecución, así como en los niveles de desembolso; las propuestas de las dependencias y entidades sobre programas y proyectos que se pretendan financiar con crédito externo y, en el caso de créditos que financien programas y proyectos cuyo desembolso no sea satisfactorio, se propondrán medidas de solución o, en su caso, se analizará su redimensionamiento, así como la viabilidad de la cancelación total o parcial, conforme al artículo 158 de este Reglamento. En su caso, la Secretaría determinará la cancelación total o parcial tanto del financiamiento como de dichos programas y proyectos.
-
-#### SECCIÓN XII. De la elaboración de los anteproyectos de presupuesto
-
-###### Artículo 56.
-
-Las dependencias y entidades deberán elaborar sus anteproyectos con sujeción al calendario establecido en el artículo 22 de este Reglamento y a lo siguiente:
-
-I. Los programas presupuestarios que contengan los objetivos y metas con base en indicadores de desempeño;
-
-II. Los techos siguientes, en función del gasto neto total:
-
-a) Total por ramo y entidad de control directo que comunique la Secretaría;
-
-b) Del presupuesto regularizable de servicios personales de las dependencias y entidades que corresponda, conforme a las disposiciones aplicables;
-
-c) De la asignación global de los servicios personales de los ramos y entidades de control directo, para efectos de control presupuestario y para su presentación en el proyecto de Presupuesto de Egresos en una sección específica;
-
-III. Los techos siguientes de las entidades de control indirecto:
-
-a) Del nivel de balance financiero y, en su caso, del nivel de intermediación financiera, que determine la Secretaría;
-
-b) De las previsiones de la asignación global de servicios personales en los términos que determine la Secretaría;
-
-IV. El presupuesto de los anteproyectos se deberá realizar considerando la perspectiva del destino de gasto, conforme a lo siguiente:
-
-a) Gastos obligatorios;
-
-b) Asignaciones con cargo al presupuesto de servicios personales, correspondientes a las percepciones extraordinarias y las que derivan de contratos de prestación de servicios profesionales por honorarios con personas físicas, así como previsiones de gasto requeridas para la implementación y operación de los servicios profesionales de carrera;
-
-c) Previsiones salariales y económicas de los servidores públicos para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral y, en su caso, las que correspondan a las aportaciones federales;
-
-d) Recursos a las entidades federativas, que comprenden los recursos que las dependencias y entidades, con cargo a sus presupuestos y por medio de convenios de coordinación, entregan a las entidades federativas;
-
-e) Subsidios a los sectores social y privado;
-
-f) Programas y proyectos de inversión;
-
-g) Aportaciones de recursos presupuestarios a fideicomisos públicos, subsidios o donativos a fideicomisos estatales y privados; ayudas extraordinarias, y donativos otorgados por la Federación, entre otros;
-
-V. La evaluación de los avances logrados en la ejecución en el ejercicio fiscal en curso de sus programas presupuestarios, y
-
-VI. La Secretaría y las dependencias coordinadoras de sector que correspondan deberán identificar e integrar, en la elaboración de los anteproyectos las asignaciones federales de gasto, con enfoque de sistema nacional, en los rubros siguientes:
-
-a) Atención de la población indígena, incluyendo los recursos transferidos a las entidades federativas, así como las asignaciones de las entidades, para efectos de la integración que corresponda en términos del artículo 41, fracción II, inciso j) de la Ley y demás disposiciones aplicables;
-
-b) Gasto social, incluyendo los recursos transferidos a las entidades federativas, así como las asignaciones de las entidades, para efectos de la integración que corresponda en términos de la Ley General de Desarrollo Social y demás disposiciones aplicables;
-
-c) Educación, incluyendo los recursos transferidos a las entidades federativas, así como las asignaciones de las entidades, para efectos de la integración que corresponda en términos de la Ley General de Educación, en su caso, de la Ley de Coordinación Fiscal y demás disposiciones aplicables;
-
-d) Prevención y eliminación de la discriminación en los términos del artículo 3 de la Ley Federal para Prevenir y Eliminar la Discriminación;
-
-e) Investigación científica y desarrollo tecnológico, para efectos de la integración que corresponda en los términos de la Ley de Ciencia y Tecnología y demás disposiciones aplicables;
-
-f) (DEROGADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)
-
-g) Programa Especial Concurrente, en términos del artículo 126 de la Ley General de Desarrollo Rural Sustentable.
-
-###### Artículo 57.
-
-Para efectos del artículo 41, fracción II, inciso f) de la Ley, se entenderán por gastos obligatorios los siguientes:
-
-I. Gasto regularizable en servicios personales, el cual comprende las percepciones ordinarias de los servidores públicos, así como las erogaciones de seguridad social y fiscales inherentes a dichas percepciones;
-
-II. Las previsiones de gasto que correspondan a la atención de la población indígena, en los términos del artículo 2, apartado B de la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-III. Las asignaciones para entidades federativas y municipios, consistentes en participaciones por ingresos federales y aportaciones federales derivadas de la Ley de Coordinación Fiscal;
-
-IV. Obligaciones contractuales plurianuales cuya suspensión implique costos adicionales, incluyendo las correspondientes a la inversión pública;
-
-V. Pago de la deuda pública y los adeudos del ejercicio fiscal anterior;
-
-VI. Gasto corriente aprobado para el año anterior hasta por el equivalente a un 20 por ciento con base mensual;
-
-VII. Erogaciones para cubrir indemnizaciones y obligaciones que se deriven de resoluciones definitivas emitidas por autoridad competente hasta por el monto que corresponda ejercer en dicho año, que se determine conforme al artículo 47 de la Ley;
-
-VIII. Erogaciones por concepto de responsabilidad patrimonial del Estado, en términos del artículo 113 de la Constitución Política de los Estados Unidos Mexicanos;
-
-IX. Previsiones para el Fondo para la Prevención de Desastres, el Fondo de Desastres y el Fondo para Atender a la Población Rural Afectada por Contingencias Climatológicas a que se refiere el artículo 37 de la Ley, y
-
-X. Otras erogaciones determinadas en cantidad específica en las leyes.
-
-#### SECCIÓN XIII. De la formulación e integración del proyecto de Presupuesto de Egresos
-
-###### Artículo 58.
-
-La Secretaría formulará e integrará el proyecto de Presupuesto de Egresos con apoyo en los anteproyectos remitidos por las dependencias y entidades, conforme a lo siguiente:
-
-I. La Secretaría comunicará a las dependencias y entidades, durante el proceso de integración del proyecto de Presupuesto de Egresos, los ajustes que deberán realizar a sus anteproyectos en función de la (sic) cifras definitivas del anteproyecto de presupuesto;
-
-II. La Secretaría, con base en los anteproyectos de presupuesto que presenten las dependencias y entidades, incorporará las previsiones salariales y económicas que correspondan, incluidas las respectivas a las aportaciones federales;
-
-III. La formulación del proyecto de Decreto de Presupuesto de Egresos, incluyendo los anexos que correspondan, los cuales serán cuando menos los siguientes:
-
-a) Gasto neto total, por gasto programable y no programable, para los ramos autónomos, administrativos, generales y entidades de control directo, identificando, cuando corresponda, unidades responsables;
-
-b) Monto total de las previsiones de gasto para la atención de la población indígena, que se obtendrá en los términos señalados en la Ley;
-
-c) Las provisiones salariales y económicas que correspondan para los ramos administrativos y generales, diferenciando las previsiones que correspondan a los incrementos salariales, creación de plazas y otras medidas económicas de índole laboral;
-
-d) Montos autorizados y comprometidos por inversión directa y condicionada de los proyectos de infraestructura productiva de largo plazo, en los términos de las disposiciones aplicables;
-
-e) Montos máximos de las contrataciones mediante invitación restringida a cuando menos tres personas o adjudicación directa aplicables para las adquisiciones, arrendamientos o servicios y obras públicas de servicios relacionadas con las mismas, en los términos de las disposiciones aplicables;
-
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-f) Lista de programas que deberán sujetarse a reglas de operación;
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-g) Las erogaciones plurianuales para proyectos de inversión en infraestructura en los términos de la Ley y del presente Reglamento.
-
-La Secretaría podrá determinar otros anexos que deban formar parte del proyecto de decreto, siempre y cuando contribuyan a facilitar la comprensión en el examen y aprobación del Presupuesto de Egresos;
-
-IV. La integración del proyecto de Presupuesto de Egresos se realizará a través de la exposición de motivos y los tomos, en los siguientes términos:
-
-a) Exposición de motivos, que contendrá cuando menos lo establecido en el artículo 41, fracción I de la Ley;
-
-b) Tomo I. Información global y específica. La información global se presentará a fin de tener una visión integral y de conjunto del proyecto de Presupuesto de Egresos para el gasto neto total, por ramo y entidad de control directo y conforme a las combinaciones básicas de las clasificaciones presupuestarias. La información específica se presentará para proveer los respectivos requerimientos de información establecidos en la Ley;
-
-c) Tomo II. Ramos autónomos, que comprende la estrategia programática, así como las previsiones de gasto de acuerdo con las clasificaciones administrativa, funcional y programática, económica y, en su caso, geográfica;
-
-d) Tomo III. Ramos administrativos, que comprende la estrategia programática, así como las previsiones de gasto de acuerdo con las clasificaciones administrativa, funcional y programática, económica y, en su caso, geográfica;
-
-e) Tomo IV. Ramos generales, que comprende la estrategia programática, así como las previsiones de gasto de acuerdo con las clasificaciones funcional y programática, económica y, en su caso, geográfica;
-
-f) Tomo V. Entidades de control directo, que comprende la estrategia programática, así como las previsiones de gasto de acuerdo con las clasificaciones funcional y programática, económica y, en su caso, geográfica, incluyendo el presupuesto en flujo de efectivo y los proyectos de infraestructura productiva de largo plazo;
-
-g) Tomo VI. Entidades de control indirecto, que comprende el presupuesto en flujo de efectivo;
-
-h) Tomo VII. Programas y Proyectos de Inversión;
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-i) Tomo VIII. Analítico de Plazas y Remuneraciones;
-
-V. Anexo informativo, con la distribución del proyecto de Presupuesto de Egresos de los ramos y entidades de control directo por unidad responsable y al nivel de desagregación de capítulo y concepto de gasto, en cumplimiento a lo dispuesto en el artículo 41, fracción III, inciso b) de la Ley, y
-
-VI. La demás información, en términos del artículo 41, fracción III, inciso c) de la Ley.
-
-###### Artículo 59.
-
-La Secretaría en la elaboración del proyecto de Presupuesto de Egresos, incluirá el anteproyecto de presupuesto del Instituto Mexicano del Seguro Social que se formule en los términos de la Ley del Seguro Social.
-
-###### Artículo 60.
-
-La Secretaría integrará al proyecto de Presupuesto de Egresos los proyectos de presupuesto que le remitan los Poderes Legislativo y Judicial y los entes autónomos en términos del artículo 30 de la Ley. Asimismo, integrará las políticas de gasto que le remitan los Poderes Legislativo y Judicial y los entes autónomos para su inclusión en la exposición de motivos, en cumplimiento a lo dispuesto en el artículo 41, fracción I, inciso b) de la Ley.
-
-#### SECCIÓN XIV. De los calendarios de presupuesto
-
-###### Artículo 61.
-
-Publicado el Decreto de Presupuesto de Egresos, la Secretaría comunicará dentro de los 3 días hábiles siguientes los requisitos que observarán las dependencias y entidades en la elaboración de los calendarios de presupuesto, los cuales constituirán la base para el control y seguimiento en el ejercicio de los programas presupuestarios, conforme a lo siguiente:
-
-I. Relación entre los calendarios de ingreso y gasto, haciéndolos compatibles con la disponibilidad de recursos;
-
-II. Calendarios anuales con base mensual, los cuales deberán compatibilizar las estimaciones de avance de metas con los requerimientos periódicos de recursos necesarios para alcanzarlas;
-
-III. Calendarios con base en la programación de los pagos que elaboren las dependencias y entidades para el gasto programable, los cuales se realizarán conforme a las necesidades institucionales y la oportunidad en la ejecución de los recursos para el mejor cumplimiento de los objetivos de los programas, dando prioridad a los programas sociales y de infraestructura. La calendarización se realizará conforme a la programación de las obligaciones de pago, mismas que deberán considerar las fechas de formalización de los compromisos y del periodo en el que se constituye el presupuesto devengado. Para tales efectos, se deberán observar los criterios de calendarización siguientes:
-
-a) Servicios personales, considerando por doceavas partes el presupuesto regularizable de servicios personales que integra las percepciones ordinarias. En su caso, se distribuirán las percepciones extraordinarias conforme al periodo de pago que les corresponda, en términos de las disposiciones aplicables. En el mes de diciembre se deberá realizar el pago de las medidas de fin de año que correspondan y el pago del aguinaldo, conforme a las disposiciones aplicables para fijar las proporciones y el procedimiento para esos pagos;
-
-b) Bienes y servicios, considerando la estimación de las fechas de pago que deriven de los contratos o pedidos u otros documentos formales que amparen las operaciones efectuadas. Para tal efecto, se deberá tomar en cuenta la diferencia entre las fechas de celebración de los compromisos y las de realización de los pagos;
-
-c) Subsidios a los sectores social y privado, estimando las fechas de pago, las cuales deberán ocurrir a partir de que se cumplan los requisitos de elegibilidad de la población objetivo previstos en las reglas de operación o en los instrumentos a través de los cuales se canalicen subsidios, en los términos de las disposiciones aplicables;
-
-d) Otras erogaciones, considerando las aportaciones a fideicomisos, donativos, ayudas, inversiones financieras y demás erogaciones a cargo de las dependencias y entidades, en términos de las disposiciones aplicables.
-
-Los calendarios de las ministraciones por concepto de subsidios y transferencias a las entidades apoyadas y órganos administrativos desconcentrados se elaborarán conforme a los criterios y términos establecidos en los incisos anteriores.
-
-La dependencia coordinadora de sector será responsable de realizar las acciones necesarias para que las entidades al elaborar sus calendarios de presupuesto observen los criterios de calendarización establecidos en esta fracción;
-
-IV. La elaboración de los calendarios de los ramos generales se realizará para cubrir oportunamente las obligaciones de pago a cargo del Gobierno Federal en términos de las disposiciones aplicables;
-
-V. La calendarización de los recursos del ramo general que contiene las provisiones salariales y económicas se realizará en función de la naturaleza de las erogaciones, del ejercicio oportuno de los recursos asignados, y conforme a los objetivos de control presupuestario que correspondan;
-
-VI. El control presupuestario de los calendarios de presupuesto a nivel de ramo por línea global y, en su caso, por sublínea;
-
-VII. El nivel de desagregación por objeto de gasto se realizará conforme a lo previsto en el presupuesto aprobado, y
-
-VIII. Los calendarios de presupuesto de las entidades se elaborarán a nivel de flujo de efectivo, considerando los respectivos rubros de ingresos y egresos conforme a las disposiciones aplicables y en los términos que determine la Secretaría, tomando en cuenta los criterios de equilibrio y fortalecimiento de la operación.
-
-> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Artículo 61 A. Los calendarios de presupuesto se integran en el módulo correspondiente del sistema del proceso integral de programación y presupuesto, conforme al nivel que determine la Secretaría.
-
-La Secretaría de conformidad con los calendarios de presupuesto aprobado, establecerá dentro de dicho sistema su nivel de integración para el registro de los montos mensuales y anuales de los recursos.
-
-El pago de las obligaciones contraídas por las dependencias y la ministración de fondos, se realizará por la Tesorería de acuerdo con los calendarios de presupuesto autorizados y las disponibilidades financieras de ésta.
+G.G. 10 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 309.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO Y DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO”.]
 
@@ -4932,3 +740,33 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 6 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 51.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO, LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO Y LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, financieras, presupuestales, contables de transferencia y documentación a la Secretaría de la Mujer se entenderán hechas a la Secretaría de las Mujeres.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 171.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, Y DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se deroga toda disposición, de igual o menor jerarquía, contraria al presente Decreto.
+
+CUARTO. El Ejecutivo del Estado en un plazo que no exceda los noventa días naturales después de publicado el presente Decreto, deberá reformar el Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México para darle cumplimiento.
+
+QUINTO. Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres, la Legislatura del Estado de México, dentro del ejercicio fiscal correspondiente, asignará los recursos necesarios para la correcta implementación de los Programas de Acciones Estratégicas.
