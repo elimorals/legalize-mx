@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2023-04-21"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -301,6 +301,8 @@ El Estado de Baja California acata plenamente y asegura a todos sus habitantes l
 
 Las personas titulares de los Poderes Públicos, de los Órganos Constitucionales Autónomos del Estado, así como de los Ayuntamientos, deberán publicar dentro de la primera semana del mes de julio de cada año, en sus páginas oficiales de internet, un informe en el que se señalen las acciones, programas y resultados de la promoción, respeto, protección y garantía de los derechos humanos, conforme lo establezcan las leyes respectivas.
 
+> <small>[N. DE E. LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 230, PUBLICADO EN EL P.O. 26 DE MAYO DE 2023, MODIFICARON DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE APARTADO.]</small>
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ABRIL DE 2015)</small>
 
 APARTADO A. De la promoción, respeto, protección y garantía de los Derechos Humanos.
@@ -317,39 +319,71 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, el 
 
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado y los Municipios deberán prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-Esta Constitución asume a plenitud todos los derechos, prerrogativas de los pueblos y comunidades indígenas; así como las obligaciones de las instituciones públicas establecidas en el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos. Por tanto, reconoce los derechos colectivos, a los siguientes pueblos indígenas autóctonos: Kiliwas, Kumiai, Pai pai, Cucapá y Cochimí, así como a las comunidades que conforman estos pueblos.
+Esta Constitución reconoce, garantiza y protege derechos colectivos e individuales de pueblos indígenas y sus integrantes, quienes serán titulares de los derechos consagrados en esta Constitución, reconociendo como sujetos colectivos de derecho público a los pueblos indígenas y sus comunidades, asentados en sus territorios y las comunidades indígenas residentes, con personalidad jurídica patrimonio propio, teniendo derecho a la libre asociación.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
 
-Las comunidades indígenas pertenecientes a cualquier otro pueblo indígena, procedentes de otro Estado de la República y que residan temporal o permanentemente dentro del territorio del Estado de Baja California, quedan protegidos por los derechos señalados en esta Constitución y la ley respectiva. La conciencia de la identidad indígena será criterio fundamental para determinar a quienes aplican las disposiciones que sobre pueblos indígenas se establezcan en esta Constitución y Leyes de la materia.
+Esta Constitución reconoce que el Estado Libre y Soberano de Baja California tiene una composición pluricultural, plurilingüe y pluriétnica sustentada en sus pueblos nativos y comunidades indígenas residentes.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-Sin poner en riesgo la unidad estatal, esta Constitución reconoce y garantiza el derecho de los pueblos y comunidades indígenas a la libre determinación y, en consecuencia a su autonomía. Sin perjuicio de lo anterior, también se reconoce el derecho de las mujeres y los hombres indígenas residentes en el Estado, a participar en la elección de Diputaciones y de Munícipes para integrar los Ayuntamientos del Estado, en los términos que determine la Ley.
+Entendiéndose como pueblos nativos, aquellos que descienden de poblaciones asentadas en el territorio actual de Baja California desde antes de la colonización y del establecimiento de las fronteras actuales y que conservan sus propias instituciones sociales, económicas, culturales y políticas, sistemas normativos propios, tradición histórica, territorialidad y cosmovisión, tales como los Kiliwas, Kumiais, Pa Ipais, Cucapás, Cochimíes y Ku'ahles, así como a las comunidades que conforman estos pueblos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-Para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, el Estado y los Municipios establecerán las instituciones y las políticas públicas requeridas para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales tendrán que ser diseñadas y operadas conjuntamente con ellos.
+Mientras que las comunidades indígenas residentes temporales o permanentes son una unidad política, social, económica y cultural de personas que forman parte de pueblos indígenas de otras regiones del país, que se han asentado en Baja California y que en forma comunitaria reproducen total o parcialmente sus instituciones, sistemas normativos y tradiciones.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+Esta Constitución reconoce el derecho a la autoadscripción de los pueblos nativos y comunidades indígenas residentes y de sus integrantes. La conciencia de su identidad indígena, deberá ser criterio fundamental para determinar a los sujetos que se aplicarán las disposiciones en la materia contenidas en la presente Constitución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+Los pueblos nativos y comunidades indígenas residentes tienen derecho a la libre determinación, a fin de determinar libremente su condición política, su desarrollo económico, social y cultural, la cual se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional en los términos que establece esta Constitución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+De conformidad con lo que establece la Constitución Política de los Estados Unidos Mexicanos, en su artículo 2, las Comunidades indígenas tienen derecho a elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal, la soberanía del Estado. En ningún caso las prácticas comunitarias podrán limitar los derechos político-electorales de las y los ciudadanos en la elección de sus autoridades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+Las autoridades de Baja California reconocen esta autonomía y establecerán las partidas presupuestales específicas destinadas al cumplimiento de sus derechos, así como la coordinación conforme a la ley en la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+Las formas de organización político administrativas, incluyendo a las autoridades tradicionales y representantes de los pueblos nativos y comunidades indígenas residentes, serán elegidas de acuerdo con sus propios sistemas normativos y sus respectivos procedimientos, y serán reconocidos en el ejercicio de sus funciones por las autoridades de Baja California.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+Además, los pueblos nativos y comunidades indígenas residentes tienen derecho a participar plenamente en la vida política, económica, social y cultural de Baja California.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+Asimismo, esta Constitución garantiza el derecho a establecer sus propios medios de comunicación en sus lenguas. Se salvaguarda el derecho a preservar, revitalizar, utilizar, fomentar, mantener y transmitir su cultura. Se garantizará el derecho a mantener y establecer sus propias formas de desarrollo, a la consulta bajos (sic) los principios del consentimiento, libre, previo e informado, a la educación intercultural en sus propias lenguas, al acceso a la jurisdicción de Baja California en sus lenguas, a la tierra, al territorio y a los recursos naturales, así como proteger y garantizar el respeto de su dignidad humana, así como las condiciones dignas de trabajo y remuneración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+En términos del inciso C) del artículo 2, de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural del Estado. Tendrán en lo conducente los derechos señalados en los párrafos anteriores del presente artículo en los términos que establezcan las leyes, a fin de garantizar su libre determinación, autonomía, desarrollo e inclusión social.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
 
 Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, asimismo, a la salud, el derecho a la igualdad y a la no discriminación; la libertad de convicciones éticas, conciencia y de religión; a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles inicial, preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
 
 El acceso al agua para consumo personal y doméstico es un derecho que tiene toda persona. La Ley garantizará su distribución y saneamiento; las autoridades en la materia tienen la obligación de respetar, proteger y cumplir con la prestación de este servicio en los términos de la Ley.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
 
 Toda persona tiene el derecho de adquirir y disfrutar una vivienda digna, decorosa y adecuada a las necesidades del hogar. El Estado y los Municipios promoverán los instrumentos, políticas y apoyos necesarios para la inversión, construcción, financiamiento y adquisición de viviendas con la participación de los sectores privado y social, a fin de alcanzar un nivel de vida adecuado.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
 
 El disfrute de una movilidad segura en las vialidades del Estado es un derecho que tiene toda persona. La ley establecerá las bases y programas para garantizar la seguridad vial del peatón, conductor y pasajero, en las distintas modalidades del transporte público o privado, incluyendo el no motorizado.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
 
 Toda persona tiene el derecho humano a la seguridad ciudadana y a vivir libre de corrupción.
 
@@ -5666,3 +5700,15 @@ PRIMERO.- Aprobada que sea la presente reforma, túrnese a los Ayuntamientos del
 SEGUNDO.- Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
 
 TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 230 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO. Aprobada que sea la presente reforma, túrnese a los Ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO. Agotado el proceso legislativo y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+CUARTO. En un plazo que no exceda de 30 días a partir de la publicación del presente decreto en el Periódico Oficial del Estado, el Congreso del Estado, deberá de realizar las reformas necesarias a las leyes secundarias.
