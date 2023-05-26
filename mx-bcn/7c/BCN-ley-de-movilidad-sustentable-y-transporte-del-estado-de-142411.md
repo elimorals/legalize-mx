@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-movilidad-sustentable-y-transporte-del-estado-de-142411"
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-27"
-last_updated: "2023-03-03"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 27 de marzo de 2020.
 
@@ -267,13 +267,17 @@ XII. Sustentabilidad: Dirigir las acciones al respeto y atención prioritaria de
 
 Las acciones relativas a la movilidad y el transporte se regulan mediante actos y procedimientos administrativos que se establecen en esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 5.
 
 Las disposiciones de la presente Ley regularán entre otros aspectos, de manera enunciativa y no limitativa, lo siguiente:
 
 I. Las acciones tendientes para garantizar que la movilidad y el transporte de las personas se realicen en condiciones que satisfagan la libertad de tránsito, la seguridad, el libre acceso, así como los requisitos de calidad apropiados a cada tipo de servicio, de manera que no afecten el orden de las vías públicas de circulación local y la circulación vial respetando el medio ambiente;
 
-II. Que los servicios de transporte público se presten garantizando puntualidad, higiene, orden, seguridad, generalidad, accesibilidad, uniformidad, continuidad, adaptabilidad, permanencia, oportunidad, eficacia, eficiencia, sustentabilidad, medio ambiente y económico, conforme a lo dispuesto en la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+II. Que los servicios de transporte público se presten garantizando puntualidad, higiene, orden, seguridad, generalidad, accesibilidad, uniformidad, continuidad, adaptabilidad, permanencia, oportunidad, eficacia, eficiencia, sustentabilidad, medio ambiente sano y económico, conforme a lo dispuesto en la presente Ley y su Reglamento;
 
 III. Que las acciones relativas a la construcción, administración y aprovechamiento de las obras de infraestructura previstas en esta Ley se orienten a facilitar la movilidad motorizada, no motorizada y medios de transporte sustentables;
 
@@ -323,6 +327,8 @@ IV. Realizar las acciones necesarias a fin de que el sistema de movilidad no dis
 
 V. Las demás que se establezcan en la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 8.
 
 Los usuarios del transporte público tendrán los siguientes derechos:
@@ -345,7 +351,9 @@ VIII. El ascenso y descenso en las paradas autorizadas;
 
 IX. Ser indemnizado en el caso de cualquier accidente o imprevisto durante el uso del transporte por el prestador del servicio de transporte mediante póliza de seguros (sic) emitida por una sociedad mutualista debidamente acreditadas y certificadas (sic) por la Comisión Nacional de Seguros y Fianzas, en los términos de la normatividad aplicable;
 
-X. A la prestación del servicio público de transporte en forma regular, continúa, uniforme, permanente e ininterrumpida y en las mejores condiciones, comodidad y eficiencia; y,
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+X. A la prestación del servicio público de transporte en forma regular, continúa, uniforme, permanente e ininterrumpida y en las mejores condiciones, comodidad, eficiencia y condiciones óptimas medioambientales; y,
 
 XI. Conocer y escoger la ruta o recorrido que considere más adecuado para su destino. Si el usuario no opta por decidir el recorrido concreto, el servicio siempre será aquel que siga la ruta previsiblemente más corta, señalando el conductor al usuario la distancia y el tiempo estimados de duración del servicio.
 
@@ -959,9 +967,11 @@ En lo que respecta al peso, dimensiones y capacidad los vehículos de transporte
 
 #### SECCIÓN IV. DE LA CIRCULACIÓN VEHICULAR
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 80.
 
-Para circular en las vías públicas de comunicación, los propietarios o conductores de vehículos, deberán atender lo dispuesto por esta Ley y su Reglamento, así como las normas, lineamientos especificaciones, prohibiciones y demás disposiciones aplicables.
+Para circular en las vías públicas de comunicación, las personas propietarias o personas conductoras de vehículos, deberán atender lo dispuesto por esta Ley y Reglamento, así como las normas, lineamientos especificaciones, prohibiciones y demás disposiciones aplicables.
 
 ###### ARTÍCULO 81.
 
@@ -2402,3 +2412,9 @@ P.O. 3 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 211 POR EL QUE SE REFORMA EL ARTÍCULO 26, DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO EL ARTÍCULO 32, FRACCIÓN XXIX, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA; Y SE ABROGA LA LEY QUE CREA EL INSTITUTO DE IDENTIDAD VEHICULAR Y COMBATE A LA CONTAMINACIÓN DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN (SIC) PERIÓDICO OFICIAL No. 13, SECCIÓN I, DE FECHA 06 DE MARZO DE 2020".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 232 MEDIANTE EL CUAL, SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 5, 8 Y 80 DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
