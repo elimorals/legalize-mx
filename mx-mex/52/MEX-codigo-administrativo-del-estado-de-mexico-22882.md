@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2023-03-10"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -3891,7 +3891,9 @@ II. Áreas Urbanas: Las previstas en los planes de desarrollo urbano, constituid
 
 III. Áreas Urbanizables: Las previstas en los planes de desarrollo urbano para el crecimiento de los centros de población, por encontrarse vinculadas en su conformación geográfica a las áreas urbanas y reunir condiciones física y geográficamente aptas para ser dotadas de infraestructura, equipamiento y servicios públicos y no presentar características de las áreas no urbanizables, cuya extensión y superficie se calcula en función de las necesidades del nuevo suelo indispensable para su expansión.
 
-IV. Áreas no Urbanizables: A las que los planes de desarrollo urbano aplicables, determinan como no aptas para la urbanización, por tratarse de áreas naturales protegidas, distritos de riego, zonas de recarga de mantos acuíferos, manantiales y cualquier área de alto valor ambiental prevista en los programas de ordenamiento ecológico; tierras de alto rendimiento agrícola, pecuario o forestal, derechos de vía, zonas arqueológicas y demás bienes del patrimonio natural y cultural; los terrenos inundables y los que tengan riesgos previsibles de desastre, los que acusen fallas o fracturas en su estratificación geológica o que contengan galerías o túneles provenientes de laboreos mineros agotados o abandonados que no puedan rehabilitarse; las zonas de restricción que establezcan las autoridades competentes alrededor de los cráteres de volcanes y barrancas, las zonas de amortiguamiento y de seguridad de los centros penitenciarios que establezcan las autoridades correspondientes de la materia; así como los terrenos ubicados por encima de la cota que establezcan los organismos competentes para la dotación del servicio de agua potable; y las demás que como no urbanizables definan los planes de desarrollo urbano respectivos.
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
+
+IV. Áreas no Urbanizables: A las que los planes de desarrollo urbano aplicables, determinan como no aptas para la urbanización, por tratarse de áreas naturales protegidas, distritos de riego, zonas de recarga de mantos acuíferos, manantiales y cualquier área de alto valor ambiental prevista en los programas de ordenamiento ecológico; tierras de alto rendimiento agrícola, pecuario, o forestal, o preferentemente forestal; derechos de vía, zonas arqueológicas y demás bienes del patrimonio natural y cultural; los terrenos inundables y los que tengan riesgos previsibles de desastre, los que acusen fallas o fracturas en su estratificación geológica o que contengan galerías o túneles provenientes de laboreos mineros agotados o abandonados que no puedan rehabilitarse; las zonas de restricción que establezcan las autoridades competentes alrededor de los cráteres de volcanes y barrancas, las zonas de amortiguamiento y de seguridad de los centros penitenciarios que establezcan las autoridades correspondientes de la materia; así como los terrenos ubicados por encima de la cota que establezcan los organismos competentes para la dotación del servicio de agua potable; y las demás que como no urbanizables definan los planes de desarrollo urbano respectivos.
 
 V. Asentamiento Humano: Al conjunto de personas radicado en un área físicamente localizada, considerando sus sistemas de convivencia, los elementos naturales y las obras materiales que lo integran.
 
@@ -3989,15 +3991,23 @@ XLIV. Sistema Estatal: Al Sistema Estatal de Información del Desarrollo Urbano.
 
 XLV. Subdivisión: Al acto por el que se fracciona un predio en lotes, con el fin de que éstos constituyan unidades de propiedad independientes.
 
-XLVI. Usos: A los fines particulares a que podrán destinarse determinadas áreas, predios o lotes.
+> <small>(ADICIONADA, G.G. 26 DE MAYO DE 2023)</small>
 
-XLVII. Vía privada: Al área de uso común de un condominio, destinada al tránsito de personas y vehículos en su interior.
+XLVI. Terreno Forestal: Es aquel que está cubierto por vegetación forestal o vegetación secundaria nativa, y produce bienes y servicios forestales.
 
-XLVIII. Vía Pública: A la que forme parte de la infraestructura vial primaria o local.
+> <small>(ADICIONADA, G.G. 26 DE MAYO DE 2023)</small>
 
-XLIX. Zona Metropolitana: Al espacio territorial cuya delimitación abarca a uno o más centros de población y las zonas adyacentes sobre las que tienen influencia dominante, ubicados en el territorio de dos o más municipios, pertenecientes a una o más entidades federativas y de la Ciudad de México en su caso.
+XLVII. Terreno Preferentemente Forestal: Aquel que habiendo estado cubierto por vegetación forestal y que en la actualidad no está cubierto por dicha vegetación, pero por sus condiciones de clima, suelo y topografía, cuya pendiente es mayor al 5 por ciento en una extensión superior a 38 metros de longitud y puede incorporarse al uso forestal, siempre y cuando no se encuentre bajo un uso aparente.
 
-L. Zonificación: A la determinación de las áreas que integran y delimitan un territorio; sus aprovechamientos predominantes y las reservas, usos de suelo y destinos, así como la delimitación de las áreas de crecimiento, conservación, consolidación y mejoramiento.
+XLVIII. Usos: A los fines particulares a que podrán destinarse determinadas áreas, predios o lotes.
+
+XLIX. Vía privada: Al área de uso común de un condominio, destinada al tránsito de personas y vehículos en su interior.
+
+L. Vía Pública: A la que forme parte de la infraestructura vial primaria o local.
+
+LI. Zona Metropolitana: Al espacio territorial cuya delimitación abarca a uno o más centros de población y las zonas adyacentes sobre las que tienen influencia dominante, ubicados en el territorio de dos o más municipios, pertenecientes a una o más entidades federativas y de la Ciudad de México en su caso.
+
+LII. Zonificación: A la determinación de las áreas que integran y delimitan un territorio; sus aprovechamientos predominantes y las reservas, usos de suelo y destinos, así como la delimitación de las áreas de crecimiento, conservación, consolidación y mejoramiento.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4073,11 +4083,11 @@ II. La planeación, programación, presupuestación, ejecución y control de acc
 
 III. Los demás actos administrativos que correspondan a su competencia.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, G.G. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 5.
 
-6.- El uso y aprovechamiento del suelo con fines urbanos de áreas y predios ejidales o comunales comprendidos dentro de los límites de los centros de población o que formen parte de las zonas de urbanización ejidal y de las tierras del asentamiento humano en ejidos y comunidades, así como la construcción de edificaciones, cualquiera que sea su régimen jurídico de propiedad, se sujetará a lo dispuesto en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, en la Ley Agraria, este Libro, su reglamentación, según corresponda, los planes o programas de desarrollo urbano y las autorizaciones y licencias expedidas por las autoridades competentes en materia urbana. Las tierras agrícolas, pecuarias y forestales, así como las destinadas a la preservación ecológica, deberán utilizarse preferentemente en dichas actividades o fines.
+6. El uso y aprovechamiento del suelo con fines urbanos de áreas y predios ejidales o comunales comprendidos dentro de los límites de los centros de población o que formen parte de las zonas de urbanización ejidal y de las tierras del asentamiento humano en ejidos y comunidades, así como la construcción de edificaciones, cualquiera que sea su régimen jurídico de propiedad, se sujetará a lo dispuesto en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, en la Ley Agraria, este Libro, su reglamentación, según corresponda, los planes o programas de desarrollo urbano y las autorizaciones y licencias expedidas por las autoridades competentes en materia urbana. Las tierras agrícolas, pecuarias, preferentemente forestales y forestales, así como las destinadas a la preservación ecológica, deberán utilizarse preferentemente en dichas actividades o fines.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4773,9 +4783,9 @@ IX. (DEROGADA, G.G. 10 DE ENERO DE 2018)
 
 I. Se orientará el crecimiento hacia áreas que comparativamente requieran una menor inversión en infraestructura y equipamiento urbano, siempre que no se afecte el equilibrio de los ecosistemas;
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
 
-II. Se evitará el crecimiento habitacional hacia áreas de alto o mediano aprovechamiento agrícola, forestal, pecuario o industrial, así como hacia áreas naturales protegidas o que tengan bellezas naturales o elementos que contribuyan al equilibrio ecológico; así como hacia zonas de alto riesgo;
+II. Se evitará el crecimiento habitacional hacia áreas de alto o mediano aprovechamiento agrícola, forestal, preferentemente forestal, pecuario o industrial, así como hacia áreas naturales protegidas o que tengan bellezas naturales o elementos que contribuyan al equilibrio ecológico; así como hacia zonas de alto riesgo;
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -14935,57 +14945,95 @@ Asimismo, deberán contar con áreas de dispersión y espera dentro de los predi
 
 46.- Toda edificación deberá contar con las instalaciones y los equipos necesarios para prevenir y combatir los incendios, los cuales deben mantenerse en condiciones adecuadas de funcionamiento, para lo cual serán revisados y probados periódicamente en términos de las disposiciones aplicables.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE MAYO DE 2023)</small>
 
-### CAPITULO TERCERO. De los lineamientos de diseño para personas con discapacidad
+### CAPITULO TERCERO. De los lineamientos de diseño para personas en situación de discapacidad y dependientes
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 18.
 
-47.- Las construcciones o modificaciones que se hagan en edificaciones destinadas para uso del público, deberán incluir elementos urbanísticos y arquitectónicos adecuados a las necesidades de las personas con discapacidad, que les faciliten su uso y desplazamiento, de conformidad con lo siguiente:
+47.- Las construcciones o modificaciones que se hagan en edificaciones destinadas para uso del público, deberán incluir elementos urbanísticos y arquitectónicos adecuados a las necesidades de las personas en situación de discapacidad y dependientes en los términos que la ley señale, que les faciliten su uso y desplazamiento, de conformidad con lo siguiente:
 
-I. Contar con rampas para la circulación de personas en silla de ruedas, con muletas y aparatos ortopédicos. De ninguna forma puede ser considerada como rampa la de servicio de carga y descarga de los diferentes edificios;
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
 
-II. Los servicios sanitarios deberán tener al menos, un cubículo destinado a este tipo de personas, debiendo preferentemente localizarse cerca del vestíbulo de entrada y nunca al final de una circulación y tener las características siguientes:
+I. Contar con rampas accesibles para facilitar el acceso, tránsito, uso y permanencia de las personas en situación de discapacidad.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 26 DE MAYO DE 2023)</small>
+
+II. Los servicios sanitarios accesibles deberán tener al menos, un cubículo destinado para personas en situación de discapacidad debiendo preferentemente localizarse cerca del vestíbulo de entrada y nunca al final de una circulación y tener las características siguientes:
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 A) Cuando menos de noventa centímetros de ancho por ciento sesenta y cinco centímetros de fondo;
 
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 B) Las puertas deben abrir hacia fuera y tener un metro de ancho completamente libre; y
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 C) El asiento de la taza debe encontrarse a cuarenta y siete centímetros de altura a nivel del piso terminado.
 
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 III. Los lavamanos deben permitir el acceso fácil a una silla de ruedas y tener aislados los tubos inferiores de agua caliente;
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 IV. Las bibliotecas, comedores de autoservicio, restaurantes, cafeterías y demás espacios que lo requieran, deberán contar cuando menos con una mesa rectangular que tenga un mínimo de setenta y cinco centímetros libres del piso hasta la parte inferior de la mesa;
 
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 V. Cuando menos uno de cada cinco teléfonos de servicio público que se instalen, deberá colocarse a una altura no mayor de ciento veinte centímetros sobre el nivel del piso, para personas en silla de ruedas;
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 VI. En salas de conferencias, auditorios, teatros, estadios, cines y demás lugares de concentración masiva de personas se deberán destinar espacios para personas con discapacidad, o en su caso, habilitarlos para tal efecto;
 
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 VII. La señalización para la identificación de los espacios destinados a personas con discapacidad, deberá hacerse mediante el empleo de placas con números, leyendas o símbolos estampados o grabados con colores contrastantes que faciliten su identificación a débiles visuales; y
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 VIII. Los diferentes tipos de señales deben ser fijados en muros o lugares no abatibles y a una altura no mayor de ciento ochenta centímetros.
 
-> <small>(ADICIONADA, G.G. 1 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
 
-IX. Los edificios e instalaciones públicas deberán contar con señalizaciones en lenguaje braille, las cuales deberán incluir la denominación de la institución o unidad administrativa, el nombre de la persona titular de la misma, sus atribuciones y funciones, la dirección, y los números y correos electrónicos de contacto.
+IX. Los edificios e instalaciones públicas deberán contar con señalizaciones en sistema braille, las cuales deberán incluir la denominación de la institución o unidad administrativa, el nombre de la persona titular de la misma, sus atribuciones y funciones, la dirección, y los números y correos electrónicos de contacto.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 Si dentro del edificio se encontraran más dependencias y órganos, deberán contar con el mismo tipo de tarjetas de apoyo.
 
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 Las vías públicas contarán con rampas y guías en las banquetas para identificar el límite de la guarnición.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 18.
 
-48.- En las construcciones deberá asegurarse un comportamiento estructural eficiente en condiciones normales de funcionamiento, así como proporcionar seguridad contra las acciones y situaciones accidentales que puedan afectar la estructura, con especial atención a los efectos sísmicos y ampliaciones.
+47 Bis.- De conformidad con las características físicas del espacio y diseño de las edificaciones, los servicios sanitarios contarán con cambiadores inclusivos que son servicios accesibles para cubrir las necesidades de asistencia en la higiene de las personas en situación de discapacidad que, además de lo aplicable previsto en el artículo anterior, de manera enunciativa, más no limitativa, contarán con:
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+a) Puerta corredera de ancho especial para sillas de ruedas de gran tamaño.
 
-El proyecto considerará una estructura que cumpla con los requisitos que establezca este Libro: las Normas Técnicas y demás disposiciones jurídicas aplicables, lo cual será documentado en una memoria de cálculo y pianos (sic) estructurales, que deberán ser avalados por el Director Responsable de Obra y/o Corresponsable de Obra respectivo.
+b) Espacio con suelo antideslizante.
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+c) Camilla en altura y con barandilla.
+
+d) Sistema de elevación o grúa.
+
+e) Barras de apoyo ajustable (vertical y horizontal).
+
+f) Contenedor hermético grande.
+
+g) Espejo reclinable.
+
+h) Cortina o Biombo para garantizar la privacidad.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ## TITULO CUARTO. De la seguridad estructural de las construcciones
 
@@ -14997,9 +15045,23 @@ El proyecto considerará una estructura que cumpla con los requisitos que establ
 
 ###### Artículo 18.
 
+48.- En las construcciones deberá asegurarse un comportamiento estructural eficiente en condiciones normales de funcionamiento, así como proporcionar seguridad contra las acciones y situaciones accidentales que puedan afectar la estructura, con especial atención a los efectos sísmicos y ampliaciones.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+El proyecto considerará una estructura que cumpla con los requisitos que establezca este Libro: las Normas Técnicas y demás disposiciones jurídicas aplicables, lo cual será documentado en una memoria de cálculo y pianos (sic) estructurales, que deberán ser avalados por el Director Responsable de Obra y/o Corresponsable de Obra respectivo.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
 49.- La autorización de construcciones en zonas de fallas o donde se han manifestado problemas de fisuramiento o inestabilidad del suelo, así como aledañas a ríos, canales, barrancas, a lugares de confinamiento de residuos sólidos y cualquier otro de riesgo, deberá observar las disposiciones que determine la autoridad competente en materia de protección civil.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO SEGUNDO. De los criterios de diseño estructural
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -15012,10 +15074,6 @@ II. Acciones variables.- Son aquellas que actúan sobre la estructura con una in
 III. Acciones accidentales.- Son aquellas que no se deben al funcionamiento normal de la construcción y que pueden tomar valores significativos sólo durante pequeñas fracciones de la vida útil de la estructura. Se incluyen en esta categoría acciones excepcionales, como sismos, viento, efecto del agua en movimiento, nieve, granizo, explosiones y otros fenómenos que pueden presentarse en casos extraordinarios.
 
 Las Normas Técnicas definirán los requisitos específicos de materiales y sistemas estructurales, así como procedimientos de diseño para los efectos de las distintas acciones y de sus combinaciones.
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO SEGUNDO. De los criterios de diseño estructural
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15069,6 +15127,10 @@ Las características específicas para el diseño de cimentaciones y de muros de
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO TERCERO. De las prevenciones estructurales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 18.
 
 55.- Será necesario comprobar la seguridad de una estructura por medio de pruebas de carga, a costa del titular de la licencia de construcción y avaladas por Director Responsable de Obra y/o Corresponsable de Obra correspondiente, en los siguientes casos:
@@ -15090,10 +15152,6 @@ III. Cuando los Municipios lo determinen conveniente, en razón de la duda que g
 En los supuestos anteriores, en caso de enajenación, el vendedor entregará copia simple de la prueba de carga realizada.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO TERCERO. De las prevenciones estructurales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
@@ -15143,6 +15201,10 @@ Las prevenciones establecidas en este artículo deberán especificarse en la mem
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO CUARTO. De las demoliciones y excavaciones
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
 59.- Previo al inicio de la demolición y durante su ejecución, se deben proveer todas las medidas de seguridad que determine en cada caso la autoridad municipal en la licencia respectiva, de acuerdo a lo establecido en la normatividad aplicable.
@@ -15150,10 +15212,6 @@ Las prevenciones establecidas en este artículo deberán especificarse en la mem
 Cuando la demolición tenga que hacerse en forma parcial, ésta comprenderá también la parte que resulte afectada por la continuidad estructural.
 
 Los materiales, desechos y escombros provenientes de una demolición deben ser retirados en su totalidad en un plazo no mayor de 30 días hábiles contados a partir del término de la demolición y bajo las condiciones que establezcan las autoridades correspondientes en materia de vialidad, transporte y sitio de disposición final.
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO CUARTO. De las demoliciones y excavaciones
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15177,19 +15235,19 @@ El uso de explosivos en excavaciones quedará condicionado a la autorización y 
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-###### Artículo 18.
-
-62.- Las construcciones se deberán realizar mediante procedimientos constructivos que garanticen su calidad.
-
-Podrán utilizarse nuevos procedimientos de construcción acordes al desarrollo de la tecnología, siempre que éstos se encuentren certificados por un organismo certificador en materia de construcción.
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
 ## TITULO QUINTO. De la ejecución de las construcciones
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO UNICO. De los procedimientos constructivos, de los materiales y de la supervisión de las obras
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+62.- Las construcciones se deberán realizar mediante procedimientos constructivos que garanticen su calidad.
+
+Podrán utilizarse nuevos procedimientos de construcción acordes al desarrollo de la tecnología, siempre que éstos se encuentren certificados por un organismo certificador en materia de construcción.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15255,6 +15313,14 @@ En las obras deberán proporcionarse a los trabajadores servicios provisionales 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+## TITULO SEXTO. De las visitas de verificación, medidas de seguridad y sanciones
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO PRIMERO. De las visitas de verificación
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
 68.- Las visitas de verificación tendrán por objeto comprobar que en las construcciones terminadas o en proceso se observe el cumplimiento de las disposiciones jurídicas de este Libro, las Normas Técnicas, los proyectos autorizados a través de las licencias y permisos de construcción y demás normatividad aplicable.
@@ -15267,11 +15333,7 @@ Las construcciones de inmuebles destinados a la actividad comercial o industrial
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-## TITULO SEXTO. De las visitas de verificación, medidas de seguridad y sanciones
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO PRIMERO. De las visitas de verificación
+### CAPITULO SEGUNDO. De las medidas de seguridad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15280,10 +15342,6 @@ Las construcciones de inmuebles destinados a la actividad comercial o industrial
 69.- Las medidas de seguridad son determinaciones de carácter preventivo que tienen por objeto evitar la consolidación o permanencia de construcciones que pongan en riesgo a las personas o los bienes, por deficiencias en su edificación, ser de mala calidad en los materiales empleados, encontrarse en estado ruinoso o presentar cualquier otra circunstancia análoga.
 
 Las medidas de seguridad serán de ejecución inmediata y durarán todo el tiempo en que persistan las causas que las motivaron.
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO SEGUNDO. De las medidas de seguridad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15306,6 +15364,10 @@ VI. Cualquiera otra acción o medida que tienda a garantizar la seguridad de las
 La autoridad municipal para hacer cumplir las determinaciones señaladas, podrá dictar las medidas de apremio que prevé el Código de Procedimientos Administrativos del Estado de México, incluso requerir la intervención de la fuerza pública y la participación de las autoridades administrativas que sean necesarias.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO TERCERO. De las infracciones y sanciones
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -15340,10 +15402,6 @@ IX. Impedimento para obtener licencias de construcción en el Estado de México.
 La imposición y cumplimiento de las sanciones no exime al infractor de la obligación de corregir las irregularidades que le hayan dado motivo y en caso de oposición reiterada, la autoridad competente podrá aplicar las medidas de apremio señaladas en el Código de Procedimientos Administrativos del Estado de México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
-
-### CAPITULO TERCERO. De las infracciones y sanciones
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -15475,15 +15533,15 @@ b) De cinco a veinte años a quienes luego de ser inhabilitados vuelvan a incump
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO CUARTO. Del recurso de inconformidad
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
 77.- Los interesados afectados por los actos y resoluciones que emitan las autoridades administrativas, podrán interponer el recurso administrativo de inconformidad, en términos de lo previsto por el Código de Procedimientos Administrativos del Estado de México.
 
 > <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
-
-### CAPITULO CUARTO. Del recurso de inconformidad
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 # LIBRO DECIMO NOVENO. De las operaciones y servicios inmobiliarios
 
@@ -18664,3 +18722,19 @@ G.G. 10 DE MARZO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO. NÚMERO 170.- POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO TERCERO DEL TÍTULO TERCERO DEL LIBRO DÉCIMO OCTAVO, EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II Y IX DEL ARTÍCULO 18.47; SE ADICIONA EL ARTÍCULO 18.47 BIS AL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 173.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 5.3, EL PRIMER PÁRRAFO DEL ARTÍCULO 5.6 Y LA FRACCIÓN II DEL ARTÍCULO 5.26; SE ADICIONAN LAS FRACCIONES XLVI Y XLVII RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 5.3 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
