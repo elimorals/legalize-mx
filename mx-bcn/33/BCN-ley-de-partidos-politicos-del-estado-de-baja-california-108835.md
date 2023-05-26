@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-partidos-politicos-del-estado-de-baja-california-108835"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2020-09-04"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -645,13 +645,17 @@ I. Para el sostenimiento de actividades ordinarias permanentes:
 
 a) El Consejo General del Instituto Estatal, determinará anualmente el monto total por distribuir entre los partidos políticos locales en los términos establecidos en la Ley General.
 
-Para los partidos políticos nacionales se calculará multiplicando el número total de ciudadanos inscritos en el padrón electoral local, a la fecha de corte de julio de cada año, por treinta por ciento del valor diario de la Unidad de Medida y Actualización vigente.
+Para los partidos políticos nacionales se calculará multiplicando el número total de ciudadanos inscritos en el padrón electoral local, a la fecha de corte de julio de cada año, por veinte por ciento del valor diario de la Unidad de Medida y Actualización vigente.
 
-Para el caso, de que existan dos o menos partidos políticos con registro local, podrán recibir por concepto de financiamiento público, la cantidad que resulte, sin que esta exceda esta (sic) de un veinticinco por ciento del monto referido en el párrafo anterior.
+(NOTA: EL 30 DE NOVIEMBRE DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2023 Y SUS ACUMULADAS 140/2023, 141/2023 Y 142/2023, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DEL INCISO a) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-b) El cincuenta por ciento entre los partidos políticos en forma igualitaria y el cincuenta por ciento, restante de acuerdo con el porcentaje de votos que hubieran obtenido en la elección de Diputados inmediata anterior.
+PARA EL CASO, DE QUE EXISTAN CUATRO O MENOS PARTIDOS POLÍTICOS CON REGISTRO LOCAL, PODRÁN RECIBIR POR CONCEPTO DE FINANCIAMIENTO PÚBLICO, LA CANTIDAD QUE RESULTE, SIN QUE ESTA EXCEDA DE UN VEINTICINCO POR CIENTO DEL MONTO REFERIDO EN EL PÁRRAFO ANTERIOR.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+b) El treinta por ciento entre los partidos políticos en forma igualitaria y el setenta por ciento, restante de acuerdo con el porcentaje de votos que hubieran obtenido en la elección de Diputados inmediata anterior.
 
 c) Las cantidades que, en su caso, se determinen para cada partido político, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente el Consejo General del Instituto Estatal;
 
@@ -1084,3 +1088,9 @@ P.O. 4 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 109 MEDIANTE EL CUAL SE REFORMA EL INCISO B) DE LA FRACCIÓN I, DEL NUMERAL 43 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 231 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 43 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
