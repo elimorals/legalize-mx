@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-y-procedimientos-administrativos-del-estado-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-21"
-last_updated: "2022-06-13"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
 
 Ley publicada en la Sección Segunda Número: 121 del Periódico Oficial Órgano del Gobierno del Estado de Nayarit, el miércoles 21 de diciembre de 2016.
 
@@ -99,25 +99,29 @@ II. Correo electrónico: Sistema de comunicación a través de redes informátic
 
 III. Documento digital: Todo mensaje de datos que contiene, imágenes, texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-IV. Magistrado instructor: Al Magistrado que en razón de turno, se le encomiende la función de seguimiento, estudio, instrucción del asunto y la comunicación de sus resultados e ilustración sobre el estado de la causa al órgano Colegiado correspondiente;
+IV. Magistrado instructor: Al Magistrado de las Salas Unitarias Administrativas que en razón de turno, se le encomiende la función de seguimiento, estudio, instrucción y resolución del asunto;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-V. Sala Administrativa: A los Órganos Colegiados integrados por tres Magistrados numerarios con competencia en asuntos jurisdiccionales administrativos y fiscales del Tribunal de Justicia Administrativa de Nayarit;
+V. Sala Administrativa: A las Salas Unitarias con competencia en asuntos jurisdiccionales administrativos y fiscales a que hace referencia la Ley Orgánica del Tribunal de Justicia Administrativa de Nayarit;
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-VI. Sala Unitaria: Sala Unitaria Especializada en materia de responsabilidades administrativas Tribunal de Justicia Administrativa de Nayarit;
+VI. Sala Especializada: A la Sala Unitaria Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa de Nayarit;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-VII. Tribunal: Al Tribunal de Justicia Administrativa de Nayarit, y
+VII. Sala Colegiada de Recursos: Órgano Colegiado integrado por tres Magistrados numerarios encargados de tramitar y resolver el recurso de reconsideración previsto en esta Ley;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2023)</small>
 
-VIII. UMA: Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+VIII. Tribunal: Al Tribunal de Justicia Administrativa de Nayarit, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE MAYO DE 2023)</small>
+
+IX. UMA: Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TÍTULO SEGUNDO. DE LAS DISPOSICIONES COMUNES AL PROCEDIMIENTO Y PROCESO ADMINISTRATIVO
 
@@ -247,6 +251,10 @@ La intervención del servidor público en el que concurra cualquiera de los impe
 
 La autoridad administrativa o el Tribunal, acordarán la acumulación de los expedientes del procedimiento y proceso administrativo que ante ellos se sigan, de oficio o a petición de parte, cuando las partes o los actos administrativos sean iguales, se trate de actos conexos o resulte conveniente el trámite unificado de los asuntos, para evitar la emisión de resoluciones contradictorias. La misma regla se aplicará, en lo conducente, para la separación de los expedientes.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
+
+La acumulación a petición de parte se solicitará ante la autoridad administrativa o Magistrado instructor que esté conociendo del asunto que se haya presentado primero; para lo cual, en un término que no exceda de seis días, la autoridad administrativa o Magistrado Instructor solicitará el envío, de manera inmediata, de las actuaciones para su integración a los autos del expediente o juicio.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 20.
@@ -291,9 +299,11 @@ Se tendrá como fecha de notificación de la resolución, la del acuerdo que dec
 
 ### CAPÍTULO SEGUNDO. DE LAS NOTIFICACIONES Y PLAZOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 25.
 
-Las notificaciones de los actos o resoluciones se efectuarán a las partes, dentro de los tres días siguientes a la fecha en que sean emitidas, siempre que las leyes no dispongan en otro sentido. Para tal efecto, los interesados deberán señalar domicilio en el lugar de la residencia de la autoridad o Tribunal, o bien indicar otro medio o dato para poder ser notificado.
+Las notificaciones de los actos o resoluciones se efectuarán a las partes, a más tardar el tercer día siguiente a aquél en que el expediente o actuaciones que contengan el acto o resolución a notificar, haya sido turnado al área de notificadores o actuarios correspondiente, siempre que las leyes no dispongan en otro sentido. Para tal efecto, los interesados deberán señalar domicilio en el lugar de la residencia de la autoridad o Tribunal, o bien indicar otro medio o dato para poder ser notificado.
 
 En caso de no señalarse domicilio, dato o medio para ser notificados, o los manifestados se declaren inexistentes se entenderán en los estrados de la autoridad o Tribunal.
 
@@ -315,7 +325,9 @@ e) Los demás casos en los que la ley así lo disponga.
 
 II. Por edicto que se publique por una sola vez en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, o en la Gaceta Municipal respectiva cuando se trate de autoridades municipales y en uno de los periódicos de mayor circulación en el ámbito estatal o municipal, según corresponda, tratándose de citaciones, requerimientos y demás resoluciones o actos que puedan impugnarse, únicamente cuando la persona a quien se deba notificar hubiere fallecido y no se conozca al albacea de la sucesión;
 
-III. Por estrados ubicados en sitio abierto de las oficinas de las dependencias públicas y del Tribunal, cuando así lo señale la parte interesada, cuando la persona a quien deba notificarse desaparezca después de iniciadas las facultades de comprobación, se oponga a la diligencia de notificación, desocupe el local donde tiene su domicilio fiscal o procesal sin presentar el aviso respectivo ante el Registro Federal de Contribuyentes o a la autoridad que substancie el procedimiento de que se trate o bien después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+III. Por estrados ubicados en sitio abierto de las oficinas de las dependencias públicas y del Tribunal, cuando así lo señale la parte interesada, cuando la persona a quien deba notificarse desaparezca después de iniciadas las facultades de comprobación, se oponga a la diligencia de notificación, desocupe el local donde tiene su domicilio fiscal o procesal sin presentar el aviso respectivo ante el Registro Federal de Contribuyentes o a la autoridad que substancie el procedimiento de que se trate o bien después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos, cuando se haya dejado citatorio para la práctica de la notificación y éste es ignorado, cuando no se reciba la notificación que se realice por medio de correo certificado con acuse de recibo. En todos los casos, se deberá levantar la constancia respectiva, a más tardar al siguiente día hábil;
 
 IV. Por instructivo, conforme a lo establecido en el segundo párrafo del artículo 27 de esta ley;
 
@@ -329,7 +341,9 @@ VI. En las oficinas de las dependencias públicas o del Tribunal, si se presenta
 
 Las notificaciones personales se harán en el domicilio que para tal efecto se haya señalado en el procedimiento o proceso administrativo. Cuando un procedimiento administrativo se inicie de oficio, las notificaciones se practicarán en el domicilio registrado ante las autoridades administrativas.
 
-Las notificaciones se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente, y de negarse a recibirlo, la notificación se efectuará por medio de un instructivo que se fijará en la puerta o lugar visible del propio domicilio. Si quien haya de notificarse no atendiere el citatorio, la notificación se hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse a recibirla, se realizará mediante instructivo que se fijará en la puerta de ese domicilio. En los casos en que el domicilio se encontrare cerrado, la citación o notificación se entenderá con el vecino más cercano, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio, en este caso deberá cerciorarse que es el domicilio correcto y que se encuentra habitado, lo que deberá hacerse constar.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+Las notificaciones se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente, y de negarse a recibirlo, se fijará en la puerta o en un lugar visible del domicilio. Si quien haya de notificarse no atendiere el citatorio, la notificación se hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse a recibirla, se realizará mediante instructivo que se fijará en la puerta de ese domicilio. En los casos en que no se encuentre persona alguna en el domicilio o se encontrare cerrado, se fijará citatorio en un lugar visible del domicilio; si no se atendiere el citatorio la notificación se realizará de conformidad a lo establecido en la fracción III del artículo 26 de esta Ley.
 
 En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, un ejemplar autógrafo o copia certificada del documento a que se refiere la notificación.
 
@@ -353,9 +367,17 @@ l. Las personales, a partir del día siguiente hábil de la fecha en que fueren 
 
 II. Las que se efectúen por oficio o correo certificado o mensaje de datos con acuse de recibo desde el día siguiente hábil posterior a aquel en que se reciban, salvo disposición en contrario;
 
-III. Las que se hagan por edicto, desde el día hábil posterior al de la publicación, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-IV. El día siguiente hábil en que el interesado o su representante legal se haga sabedor de la notificación omitida o irregular.
+III. Las que se hagan por edicto, desde el día hábil posterior al de la publicación;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+IV. El día siguiente hábil en que el interesado o su representante legal se haga sabedor de la notificación omitida o irregular, y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2023)</small>
+
+V. Las que se hagan por estrados, el día hábil siguiente a la fecha en que se hubieren fijado.
 
 ###### ARTÍCULO 31.
 
@@ -1059,19 +1081,25 @@ Quien así lo solicite, tendrá la obligación en el plazo de diez días hábile
 
 A quien incumpla con el párrafo que antecede, se le impondrá una multa de hasta de treinta veces la UMA, teniendo en cuenta lo que al respecto dispone el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. La multa se hará efectiva a través del procedimiento administrativo de ejecución y por conducto de la autoridad exhortante correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-El Pleno de la Sala Administrativa del Tribunal podrá acordar que en el trámite de exhortos, oficios comisorios y requisitorios que deban diligenciarse en el territorio del Estado o fuera de este, se realicen por medios electrónicos.
+Las Salas Administrativas y la Sala Colegiada de Recursos del Tribunal podrán acordar que en el trámite de exhortos, oficios comisorios y requisitorios que deban diligenciarse en el territorio del Estado o fuera de este, se realicen por medios electrónicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 117.
 
-Una vez cumplimentado el oficio comisario este deberá devolverse a la Sala por el conducto oficial, dentro del término de tres días contados a partir de la fecha de la última actuación.
+Una vez cumplimentado el oficio comisorio este deberá devolverse, según corresponda, a la Sala Administrativa o Sala Colegiada de Recursos por el conducto oficial, dentro del término de tres días contados a partir de la fecha de la última actuación.
 
-Cuando el oficio comisario haya sido remitido a un órgano diferente al que deba prestar el auxilio, el que lo reciba deberá enviarlo dentro de las veinticuatro horas siguientes al que corresponda, debiendo dar cuenta de dicha circunstancia incluso por correo electrónico a la Sala.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+Cuando el oficio comisorio haya sido remitido a un órgano diferente al que deba prestar el auxilio, el que lo reciba deberá enviarlo dentro de las veinticuatro horas siguientes al que corresponda, debiendo dar cuenta de dicha circunstancia incluso por correo electrónico a la Sala correspondiente.
 
 Lo ordenado deberá cumplimentarse en el tiempo previsto en el mismo. De no ocurrir así, se solicitará por cualquier medio de comunicación de la urgencia del cumplimiento, lo que se hará de oficio o a instancia de parte interesada. De persistir la omisión en diligenciar lo ordenado, se impondrán las sanciones administrativas correspondientes.
 
-Los exhortos que reciba la Sala de los órganos jurisdiccionales administrativos, se deberán desahogar dentro de los cinco días siguientes a su recepción.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+Los exhortos que reciba el Tribunal de los órganos jurisdiccionales administrativos, se deberán desahogar dentro de los cinco días siguientes a su recepción.
 
 ###### ARTÍCULO 118.
 
@@ -1083,9 +1111,11 @@ Las resoluciones del Tribunal tendrán el carácter de acuerdos, sentencias inte
 
 #### SECCIÓN SEGUNDA. DE LA DEMANDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 120.
 
-La demanda deberá formularse por escrito y presentarse, directamente o por correo certificado; con acuse de recibo, ante la Sala, dentro de los quince días siguientes a aquel en que surta efectos la notificación del acto que se impugna o aquel en que se haya tenido conocimiento del mismo, con las excepciones siguientes:
+La demanda deberá formularse por escrito y presentarse, directamente o por correo certificado; con acuse de recibo, ante el Tribunal, dentro de los quince días siguientes a aquel en que surta efectos la notificación del acto que se impugna o aquel en que se haya tenido conocimiento del mismo, con las excepciones siguientes:
 
 I. Tratándose de la resolución negativa ficta, así como de omisiones para dar respuesta a peticiones de los particulares, la demanda podrá presentarse en cualquier tiempo, mientras no se notifique la resolución expresa;
 
@@ -1111,7 +1141,9 @@ b) Contra el acto principal del que derive el impugnado en la demanda o contra o
 
 c) Cuando, con motivo de la contestación, se introduzcan cuestiones que no sean conocidas por el actor al presentar la demanda.
 
-Si el Tribunal advirtiera que se actualiza una de las hipótesis señaladas con anterioridad, de oficio lo hará del conocimiento del actor, a efecto de que ejercite tal derecho.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+Si el Magistrado instructor advirtiera que se actualiza una de las hipótesis señaladas con anterioridad, de oficio lo hará del conocimiento del actor, a efecto de que ejercite tal derecho.
 
 ###### ARTÍCULO 122.
 
@@ -1181,9 +1213,11 @@ En su caso, se dictará acuerdo sobre admisión de la demanda, a más tardar al 
 
 El magistrado instructor, antes de desechar cualquier prueba, deberá prevenir al oferente para que, en el término de tres días, aclare, corrija o complete su ofrecimiento, apercibiéndolo del desechamiento de la prueba si no lo hiciere.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 129.
 
-La Sala desechará la demanda, cuando:
+El Magistrado instructor desechará la demanda, cuando:
 
 l. No contenga la firma autógrafa o huella digital del promovente, o bien cuando la firma electrónica no esté debidamente certificada;
 
@@ -1541,7 +1575,9 @@ Para que hagan fe en la entidad los documentos procedentes del extranjero, deber
 
 Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste deberá señalar el archivo o lugar en que se encuentra para que a su costa se mande expedir copia de ellos o se requiera su remisión, cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y tratándose de los que pueda tener a su disposición, bastará con que acompañe copia de la solicitud debidamente presentada por lo menos cinco días antes de la interposición de la demanda. Se entiende que el demandante tiene a su disposición los documentos, siempre que existan los originales en protocolo, registro o archivo público y cuando legalmente pueda obtener copia autorizada de los originales o de las constancias.
 
-Cuando se ofrezca como prueba el expediente administrativo del cual emane el acto impugnado o los documentos que fueron considerados en el procedimiento administrativo como información confidencial o reservada, el actor debe señalar los documentos que lo integran o que ofrezca sin que sea necesario acompañarlos a la demanda, la Sala solicitará los documentos antes del cierre de instrucción.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+Cuando se ofrezca como prueba el expediente administrativo del cual emane el acto impugnado o los documentos que fueron considerados en el procedimiento administrativo como información confidencial o reservada, el actor debe señalar los documentos que lo integran o que ofrezca sin que sea necesario acompañarlos a la demanda, el Magistrado Instructor solicitará los documentos antes del cierre de instrucción.
 
 El expediente administrativo será el que contenga toda la documentación relacionada con el procedimiento que dio lugar a la resolución impugnada; dicha documentación será la que corresponda al inicio del procedimiento, los actos jurídicos posteriores y a la resolución impugnada.
 
@@ -1885,11 +1921,13 @@ V. La mención de las disposiciones legales que las sustenten, y
 
 VI. Los puntos resolutivos, en los que se expresarán, según sea el caso: la declaratoria de sobreseimiento del juicio; los actos cuya validez se reconozca o cuya invalidez se declare; la reposición del procedimiento que se ordene; los términos de la modificación del acto impugnado; la validez o invalidez de la disposición legal, cuando sea procedente, y la condena que, en su caso, se decrete.
 
-El Pleno de la Sala, se pronunciará por unanimidad o mayoría de votos de los magistrados. Para este efecto, el magistrado instructor formulará el proyecto respectivo con la anticipación debida.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-Cuando la mayoría de los magistrados estén de acuerdo con el proyecto, el magistrado disidente podrá limitarse a expresar que vota en contra del proyecto o formular voto particular, el que deberá presentar en un plazo que no exceda de diez días.
+La sentencia se pronunciará por el Magistrado Instructor que corresponda.
 
-Si el proyecto no fuere aceptado por la Sala, el magistrado instructor modificará el proyecto o elaborará otro con los argumentos de la mayoría, y el proyecto inicial podrá quedar como voto particular.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 231.
 
@@ -1917,13 +1955,17 @@ En caso de que en la sentencia se condene al pago de daños y perjuicios que se 
 
 Cuando se hubiere declarado la invalidez de una disposición de carácter general, las sentencias privarán de efectos los actos de ejecución ya producidos al actor, y precisarán la forma en que la disposición general no pueda ser aplicada al mismo en casos posteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 234.
 
-Las partes podrán formular excitativa de justicia ante el presidente del Tribunal, si la sala no dicta sentencia dentro del plazo legal respectivo.
+Las partes podrán formular excitativa de justicia ante el presidente del Tribunal, si la Sala Administrativa no dicta sentencia dentro del plazo legal respectivo.
 
 Recibida la excitativa de justicia, el presidente del Tribunal solicitará informe al magistrado correspondiente, quien deberá rendirlo dentro del plazo de tres días.
 
-Si el Presidente del Tribunal encuentra fundada la excitativa otorgará un plazo que no excederá de cinco días para que el Magistrado instructor presente el proyecto de resolución o para que la Sala resuelva, según corresponda.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+Si el Presidente del Tribunal encuentra fundada la excitativa otorgará un plazo que no excederá de cinco días para que el Magistrado instructor emita la sentencia; y en caso de incumplimiento, se determine la responsabilidad que corresponda.
 
 ###### ARTÍCULO 235.
 
@@ -1943,31 +1985,49 @@ Cuando hubiere causado ejecutoria una sentencia favorable al actor, el President
 
 En el propio oficio en que se hiciere la notificación a los demandados, se les prevendrá para que, dentro del plazo de 48 horas informen sobre el cumplimiento dado a la sentencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 237.
 
-Si vencido el plazo a que alude el artículo anterior, la sentencia no quedare cumplida o no se encontrare en vías de cumplimiento, la Sala, de oficio o a petición de parte, impondrá multa equivalente de 50 a 1,000 veces la UMA. Se actuará en los mismos términos cuando la Sala advierta defecto o exceso en la ejecución de la sentencia, o que se ha repetido el acto impugnado. Impuesta la multa, la Sala concederá a las autoridades un nuevo plazo de 48 horas para que cumplan con la sentencia.
+Si vencido el plazo a que alude el artículo anterior, la sentencia no quedare cumplida o no se encontrare en vías de cumplimiento, el Magistrado instructor, de oficio o a petición de parte, impondrá multa equivalente de 50 a 1,000 veces la UMA. Se actuará en los mismos términos cuando el Magistrado instructor advierta defecto o exceso en la ejecución de la sentencia, o que se ha repetido el acto impugnado. Impuesta la multa, el Magistrado instructor concederá a las autoridades un nuevo plazo de 48 horas para que cumplan con la sentencia.
 
-Transcurrido el plazo señalado, sin que las autoridades den cumplimiento a la sentencia, se decretará en su caso la ejecución forzosa de la misma. Si existe algún acto material que ejecutar, cuando la naturaleza del acto lo permita, lo podrá hacer la Sala por sus propios medios. Si se trata de dictar una nueva resolución y en la sentencia se hubiese definido el sentido de la misma, el magistrado que corresponda procederá a dictarla en rebeldía de la autoridad, dentro de un término que no excederá de cinco días. Lo anterior, sin perjuicio de las responsabilidades en que pueda incurrir la autoridad demandada.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-En los casos en que por la naturaleza del asunto no fuere materialmente posible cumplir con la sentencia en los términos anteriores, o iniciar su cumplimiento dentro del plazo establecido párrafo anterior, el magistrado que corresponda, de oficio o a petición de parte, podrá ampliarlo hasta por 48 horas, contados a partir del siguiente al que se notifique a los demandados el requerimiento correspondiente.
+Transcurrido el plazo señalado, sin que las autoridades den cumplimiento a la sentencia, se decretará en su caso la ejecución forzosa de la misma. Si existe algún acto material que ejecutar, cuando la naturaleza del acto lo permita, lo podrá hacer u ordenar el Magistrado instructor por sus propios medios. Si se trata de dictar una nueva resolución y en la sentencia se hubiese definido el sentido de la misma, el magistrado que corresponda procederá a dictarla en rebeldía de la autoridad, dentro de un término que no excederá de cinco días. Lo anterior, sin perjuicio de las responsabilidades en que pueda incurrir la autoridad demandada.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+En los casos en que por la naturaleza del asunto no fuere materialmente posible cumplir con la sentencia en los términos anteriores, o iniciar su cumplimiento dentro del plazo establecido en el párrafo anterior, el magistrado que corresponda, de oficio o a petición de parte, podrá ampliarlo hasta por 48 horas, contados a partir del siguiente al que se notifique a los demandados el requerimiento correspondiente.
 
 Cuando por efecto del cumplimiento de la sentencia se condene a la autoridad al pago de cantidad líquida, se requerirá a la autoridad demandada, a su superior jerárquico, así como a la dependencia competente para ejercer el presupuesto de la entidad pública de que se trate, con el fin de que en un término de quince días realicen las gestiones necesarias para la realización del pago con cargo a la partida presupuestal correspondiente.
 
 En caso de que no existiera partida presupuestal correspondiente o estuviere agotada la misma, en un término de treinta días, las autoridades a que se refiere el párrafo anterior deberán efectuar las gestiones necesarias para la transferencia, ampliación o creación de la partida en su caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 238.
 
-En el supuesto de que la autoridad o servidor público obligados a cumplir, persistieren en su actitud, la Sala, a petición del magistrado instructor, solicitará al titular de la dependencia estatal, municipal u organismo a quien se encuentren subordinados aquéllos, conmine a los servidores públicos responsables para que den cumplimiento a la sentencia y determinaciones del Tribunal, en un plazo de 48 horas siguientes a aquél en que surta efectos la notificación, sin perjuicio de que se reitere, cuantas veces sean necesario, la multa impuesta. Cuando la autoridad u organismo no tuvieren superior, el requerimiento se hará directamente a ellos.
+En el supuesto de que la autoridad o servidor público obligados a cumplir, persistieren en su actitud, el Magistrado instructor por conducto de quien ocupe la presidencia del Tribunal, solicitará al titular de la dependencia estatal, municipal u organismo a quien se encuentren subordinados aquellos, conmine a los servidores públicos responsables para que den cumplimiento a la sentencia y determinaciones del Tribunal, en un plazo de 48 horas siguientes a aquel en que surta efectos la notificación, sin perjuicio de que se reitere, cuantas veces sean necesario, la multa impuesta. Cuando la autoridad u organismo no tuvieren superior, el requerimiento se hará directamente a ellos.
 
-Si, no obstante los requerimientos anteriores, no se da cumplimiento a la resolución, la Sala podrá decretar el arresto administrativo, destitución e inhabilitación del servidor público responsable, excepto en el caso del Gobernador, presidentes municipales, síndicos y regidores.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-En los casos del Gobernador del Estado, presidentes municipales, síndicos y regidores, la Sala formulará, por conducto del presidente del Tribunal y ante el Congreso, la solicitud de juicio político a fin de que el servidor público sea destituido y, en su caso, inhabilitado. En la tramitación y resolución de dicho juicio político, se aplicarán las disposiciones relativas de la Constitución Política del Estado Libre y Soberano de Nayarit y de las leyes de responsabilidades aplicables en la materia.
+Si no obstante los requerimientos anteriores, no se da cumplimiento a la resolución, el Magistrado instructor podrá decretar el arresto administrativo, destitución e inhabilitación del servidor público responsable, excepto en el caso del Gobernador, presidentes municipales, síndicos y regidores.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+En los casos del Gobernador del Estado, presidentes municipales, síndicos y regidores, el Magistrado instructor formulará, por conducto del presidente del Tribunal y ante el Congreso, la solicitud de juicio político a fin de que el servidor público sea destituido y, en su caso, inhabilitado. En la tramitación y resolución de dicho juicio político, se aplicarán las disposiciones relativas de la Constitución Política del Estado Libre y Soberano de Nayarit y de las leyes de responsabilidades aplicables en la materia.
 
 Las autoridades requeridas como superiores jerárquicos incurren en responsabilidad, por falta de cumplimiento de las ejecutorias, en los mismos términos que las autoridades demandadas. En cualquier caso, el servidor público sustituto, tendrá el deber de cumplir con los términos de la sentencia condenatoria, e incurrirá, para el caso de desacato, en los mismos términos de responsabilidad que su antecesor.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
+
+En caso de incumplimiento reiterado por parte de las autoridades, sin perjuicio de las sanciones que proceda, el Magistrado Instructor dará vista con el contenido de las actuaciones al Órgano Interno de Control que corresponda, para que proceda de conformidad con la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 239.
 
-Ante la imposibilidad material del cumplimiento de la sentencia, la Sala podrá determinar de oficio o a petición de cualquiera de las partes, el cumplimiento sustituto de la misma, mediante el pago de los bienes o derechos. Se procederá de la misma manera cuando su ejecución afecte gravemente a la sociedad o a terceros, en mayor proporción que los beneficios económicos que pudiera obtener el actor.
+Ante la imposibilidad material del cumplimiento de la sentencia, el Magistrado Instructor podrá determinar de oficio o a petición de cualquiera de las partes, el cumplimiento sustituto de la misma, mediante el pago de los bienes o derechos. Se procederá de la misma manera cuando su ejecución afecte gravemente a la sociedad o a terceros, en mayor proporción que los beneficios económicos que pudiera obtener el actor.
 
 ###### ARTÍCULO 240.
 
@@ -1989,49 +2049,137 @@ II. Los acuerdos que concedan o nieguen la suspensión del acto impugnado, los q
 
 III. Las resoluciones que decreten o nieguen sobreseimientos;
 
-IV. Las resoluciones que pongan fin al procedimiento de ejecución de sentencia, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-V. Las determinaciones que impongan los medios de apremio y medidas disciplinarias que prevén las fracciones I, II, y VI del artículo 20 de esta ley.
+IV. Las resoluciones que pongan fin al procedimiento de ejecución de sentencia;
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+V. Las determinaciones que impongan los medios de apremio y medidas disciplinarias que prevén las fracciones I, II, y VI del artículo 20 de esta ley, y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2023)</small>
+
+VI. En relación a la autoridad demandada, las sentencias que resuelvan sobre el fondo del asunto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 243.
 
-El recurso de reconsideración podrá ser interpuesto por cualquiera de las partes, con expresión de agravios, dentro del plazo de los ocho días siguientes al en que surta efectos la notificación de la resolución o sentencia que se impugne. El recurso se presentará ante el presidente del Tribunal, el cual lo turnará para su trámite a un magistrado distinto del instructor, integrante de la Sala Administrativa que emitió la determinación.
+El recurso de reconsideración podrá ser interpuesto por cualquiera de las partes, en los supuestos previstos en el artículo 242 de esta Ley, con expresión de agravios, dentro del plazo de los ocho días siguientes al en que surta efectos la notificación de la resolución o sentencia que se impugne.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
+
+Presentado el recurso, será remitido a la Sala Colegiada de Recursos para su trámite y resolución en los términos y plazo legal establecidos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 244.
 
-El magistrado a quien se le turne el recurso, al admitirlo, mandará correr traslado del mismo a las demás partes por el término de tres días posteriores a aquél en que surta efectos la notificación, para que expongan lo que a sus derechos convenga. Vencido este término, presentará en un plazo de tres días el proyecto de resolución a la Sala, la cual deberá resolver en el plazo de tres días.
+El Presidente de la Sala Colegiada de Recursos, al admitir el recurso de reconsideración, mandará correr traslado del mismo a las demás partes por el término de tres días posteriores a aquel en que surta efectos la notificación, para que expongan lo que a sus derechos convenga. Vencido este término, presentará en un plazo de tres días el proyecto de resolución a la Sala Colegiada de Recursos, la cual deberá resolver en el plazo de tres días.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
+
+El recurso de reconsideración será resuelto por unanimidad o mayoría de votos de los Magistrados integrantes de la Sala Colegiada de Recursos; para este efecto, el Magistrado Presidente formulará el proyecto respectivo con la anticipación debida.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
+
+Cuando la mayoría de los Magistrados estén de acuerdo con el proyecto, el magistrado disidente podrá limitarse a expresar que vota total o parcialmente en contra del proyecto o formular voto particular razonado, el que deberá presentar en un plazo que no exceda de tres días.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
+
+Si el proyecto no fuera aceptado por los otros magistrados integrantes de la Sala Colegiada de Recursos, el Magistrado presidente modificará el proyecto o elaborará otro con los argumentos de la mayoría, y el proyecto inicial podrá quedar como voto particular.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
+
+En caso de que alguno de los Magistrados integrantes de la Sala Colegiada de Recursos haya dictado la resolución recurrida, dicha circunstancia no será motivo de excusa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 245.
 
 Las partes podrán formular excitativa de justicia ante el presidente del Tribunal, si no se resuelve el recurso de reconsideración dentro del plazo legal respectivo.
 
-Si el presidente del Tribunal encuentra fundada la excitativa, otorgará un plazo que no excederá de tres días para que el magistrado presente el proyecto de resolución o, en su caso, para que la Sala resuelva el recurso.
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+Si el presidente del Tribunal encuentra fundada la excitativa, otorgará un plazo que no excederá de tres días para que el Presidente de la Sala Colegiada de Recursos presente el proyecto de resolución o, en su caso, para que la Sala Colegiada de Recursos resuelva el recurso.
 
-### CAPÍTULO CUARTO. DE LA JURISPRUDENCIA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE MAYO DE 2023)</small>
+
+### CAPÍTULO CUARTO. DEL JUICIO DE REVISIÓN ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 246.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
+La Sala Especializada conocerá de los Juicios de Revisión Administrativa que se interpongan en contra de las resoluciones que se dicten en los recursos de revocación previstos en la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 247.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
+La demanda podrá ser interpuesta por los servidores públicos que resulten responsables por la comisión de faltas administrativas no graves; deberá formularse por escrito y presentarse ante el Tribunal, directamente o por correo certificado con acuse de recibo, dentro de los quince días hábiles siguientes a aquel en que surta efectos la notificación de la resolución del recurso de revocación.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 248.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
+El escrito por el que se interponga el Juicio de Revisión Administrativa deberá contener los siguientes requisitos:
+
+I. El nombre y domicilio del actor o en su caso la dirección de correo electrónico para recibir notificaciones o de quien promueva en su nombre;
+
+II. La resolución del recurso de revocación que se impugna, y fecha en que le fue notificada;
+
+III. La autoridad que emitió la resolución;
+
+IV. El nombre y domicilio del tercero interesado, si lo hubiere;
+
+V. Las pretensiones que se deducen;
+
+VI. Los hechos que sustenten la impugnación;
+
+VII. Los conceptos de impugnación;
+
+VIII. Las pruebas que ofrezcan, siempre que obren en el expediente de responsabilidad administrativa en que se haya dictado la resolución impugnada, relacionándolas expresamente en su escrito de demanda con lo que se pretenda acreditar, y
+
+IX. La firma autógrafa del promovente y, en los casos en que éste no sepa o no pueda firmar, su huella digital.
+
+Se deberá adjuntar al escrito de demanda el documento que contenga el acto impugnado y su constancia de notificación.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 249.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
+La Sala Especializada dentro del plazo de tres días, deberá resolver si admite el Juicio, o lo desecha por encontrar motivo manifiesto e indudable de improcedencia. Cuando se omita alguno de los requisitos señalados en el artículo anterior, se requerirá al demandante para subsane las omisiones o corrija los defectos, dentro del término de tres días hábiles, apercibiéndolo que, de no hacerlo en tiempo, se desechará la demanda.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 250.
 
-(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2020)
+Admitido el Juicio, la Sala Especializada dará vista a la autoridad que emitió la resolución impugnada, para que en un término que no exceda de cinco días hábiles remita los autos del expediente de responsabilidad administrativa correspondiente y manifieste lo que a su derecho convenga para sostener la legalidad de su determinación. El mismo plazo será otorgado al tercero interesado para que haga las manifestaciones que estime convenientes.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 251.
+
+Recibidos los autos del expediente y, en su caso, las manifestaciones de la autoridad y del tercero interesado, se declarará cerrada la instrucción y se procederá a formular el proyecto de sentencia, que deberá emitirse dentro del término previsto en el artículo 229 de esta ley.
+
+En el Juicio de Revisión Administrativa no se podrá ofrecer o aportar prueba alguna, salvo en los casos extraordinarios de pruebas supervenientes, cuando a consideración de la Sala Especializada, éstas sean determinantes para acreditar las violaciones reclamadas.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 252.
+
+Las resoluciones que se dicten podrán:
+
+I. Reconocer la validez de la resolución impugnada;
+
+II. Modificar la resolución impugnada, y
+
+III. Declarar la nulidad de la resolución impugnada.
+
+En caso de que se modifique la resolución impugnada, y la Sala Especializada determine que la sanción es excesiva porque no se motivó adecuadamente o no se dieron los hechos agravantes de la sanción, ésta se deberá reducir de manera fundada y motivada, conforme a las circunstancias que dieron lugar a la misma.
+
+De ser revocada la resolución impugnada, o cuando su modificación así lo disponga, se ordenará al ente público la restitución inmediata de los derechos del servidor público, de los que hubiere sido privado por la ejecución de las resoluciones.
 
 ## Artículos transitorios
 
@@ -2110,3 +2258,9 @@ P.O. 13 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente Decreto, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones establecidas en el presente Decreto.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
