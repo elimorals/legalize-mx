@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-igualdad-de-trato-y-oportunidades-entre-mujeres-y-76530"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2022-05-06"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -261,9 +261,9 @@ IX. El Instituto Mexiquense del Emprendedor;
 
 X. El Poder Judicial;
 
-> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
 
-XI. La Legislatura a través de la Presidencia de la Comisión Legislativa Para la Igualdad de Género y de la o las Comisiones Especiales que se relacionen con el objeto y atribuciones del Sistema Estatal;
+XI. La Legislatura a través de las Presidencias de las Comisiones Legislativas Para la Igualdad de Género y Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres por Feminicidio y Desaparición;
 
 XII. Los organismos autónomos;
 
@@ -573,7 +573,13 @@ V. Informar periódicamente, en el marco del Sistema Estatal, los resultados de 
 
 VI. Ser el primer punto de contacto para los casos de acoso y hostigamiento sexual; y
 
-VII. Las demás que se establezcan en otras disposiciones jurídicas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE MAYO DE 2023)</small>
+
+VII. Brindar asesoramiento especializado, en la materia que le corresponde, al enlace designado ante el mecanismo interinstitucional de seguimiento de las medidas de seguridad, prevención y justicia, para atender y erradicar la violencia contra las niñas, adolescentes y mujeres, previsto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, así como coadyuvar con aquél en las responsabilidades que se le encomienden para el cumplimiento de las acciones y acuerdos que se determinen en sus sesiones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 26 DE MAYO DE 2023)</small>
+
+VIII. Las demás que se establezcan en otras disposiciones jurídicas.
 
 ### CAPÍTULO DÉCIMO. EL MODELO DE EQUIDAD Y GÉNERO
 
@@ -750,3 +756,17 @@ CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglame
 Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
 
 Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 171.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, Y DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se deroga toda disposición, de igual o menor jerarquía, contraria al presente Decreto.
+
+CUARTO. El Ejecutivo del Estado en un plazo que no exceda los noventa días naturales después de publicado el presente Decreto, deberá reformar el Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México para darle cumplimiento.
+
+QUINTO. Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres, la Legislatura del Estado de México, dentro del ejercicio fiscal correspondiente, asignará los recursos necesarios para la correcta implementación de los Programas de Acciones Estratégicas.
