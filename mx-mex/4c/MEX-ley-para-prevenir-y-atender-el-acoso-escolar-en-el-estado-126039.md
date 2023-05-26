@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-y-atender-el-acoso-escolar-en-el-estado-12603
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-25"
-last_updated: "2023-05-11"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2023.
 
 Ley publicada en la Sección Décima Primera de la Gaceta del Gobierno del Estado de México, el jueves 25 de enero de 2018.
 
@@ -113,7 +113,9 @@ VII. Receptor de acoso escolar: Estudiante contra quien se efectúa el acoso esc
 
 VIII. Secretaría: Secretaría de Educación del Estado de México.
 
-IX. Acoso Escolar: Cualquier forma de actividad violenta dentro del entorno escolar que incluye el acoso escolar, el abuso verbal y el abuso físico que atenta contra la dignidad de los integrantes de la comunidad educativa, generando repercusiones físicas, emocionales, morales y sociales.
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
+
+IX. Acoso Escolar: Cualquier forma de actividad violenta dentro del entorno escolar que incluye el acoso escolar, el abuso verbal, abuso a través de plataformas digitales, el abuso físico, que atenta contra la dignidad de los integrantes de la comunidad educativa, generando repercusiones físicas, emocionales, morales y sociales.
 
 ###### Artículo 4.
 
@@ -149,9 +151,13 @@ Corresponde a la Secretaría:
 
 I. Elaborar y difundir material educativo para la prevención y atención del acoso escolar, así como coordinar campañas de información sobre dicho tema.
 
-II. Elaborar y expedir el Protocolo de actuación, aplicable ante los actos de acoso en el ambiente escolar.
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
 
-III. Aplicar una encuesta anual entre la comunidad educativa para identificar los centros educativos con mayor incidencia de acoso escolar, la cual servirá como apoyo en la instrumentación de acciones para atender dichos problemas.
+II. Elaborar y expedir el Protocolo de actuación, aplicable ante los actos de acoso en el ambiente escolar, así como su revisión y actualización anual.
+
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
+
+III. Aplicar una encuesta semestral entre la comunidad educativa para identificar los centros educativos con mayor incidencia de acoso escolar, la cual servirá como apoyo en la instrumentación de acciones para atender dichos problemas.
 
 IV. Llevar a cabo estudios, investigaciones, informes y diagnósticos que permitan conocer la incidencia del fenómeno de acoso escolar.
 
@@ -247,6 +253,10 @@ II. Se lleve a cabo durante el desenvolvimiento de un programa o actividad escol
 
 III. Suceda en el interior de un vehículo de transporte escolar.
 
+> <small>(ADICIONADA, G.G. 26 DE MAYO DE 2023)</small>
+
+IV. Se lleve a cabo a través de cualquier red social, aplicación o plataforma electrónica.
+
 ### Capítulo III. Del Protocolo para Prevenir, Detectar, Atender y Erradicar el Acoso Escolar
 
 ###### Artículo 14.
@@ -271,13 +281,19 @@ Sin detrimento de lo anterior, la Secretaría podrá incluir otras acciones o pr
 
 Tratándose de actos de acoso sexual, dentro del Protocolo se integrarán las directrices de atención de primer contacto, bajo un marco de perspectiva de género y preservación del interés superior de la niñez.
 
+> <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 16.
 
-Al término de cada ciclo escolar, los centros escolares deberán remitir un informe ante la Secretaría donde contenga un sumario de los reportes recibidos y las acciones tomadas y se anexarán las copias de los reportes recibidos y toda la documentación que respalde el actuar de la autoridad escolar correspondiente en la resolución de los incidentes.
+Cada tres meses, (a partir de cada ciclo escolar), las instituciones educativas deberán remitir un informe a la Secretaría que contenga los casos de acoso que se hayan presentado, sus causas, así como las acciones tomadas y se anexarán las copias de los reportes recibidos y toda la documentación que respalde el actuar de la autoridad escolar correspondiente en la resolución de los incidentes.
+
+En caso de incumplimiento, la Secretaría deberá dar vista al órgano interno de control que corresponda.
+
+> <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 17.
 
-La Secretaría deberá determinar en cada caso concreto, cuando un plantel educativo le solicite su intervención, hacia qué autoridad u organismo público o privado canaliza la atención del mismo; lo cual hará del conocimiento al directivo del plantel educativo que corresponda.
+La Secretaría deberá determinar en cada caso concreto, a qué autoridad u organismo público o privado canalizará la atención del mismo; determinación que hará del conocimiento, de la persona titular de la Dirección del plantel educativo que corresponda.
 
 ###### Artículo 18.
 
@@ -330,6 +346,12 @@ IV. Contar con asesoría psicológica y representación jurídica gratuita y exp
 V. Recibir información, atención y acompañamiento médico y psicológico por las instancias correspondientes, según sean las circunstancias y las necesidades de cada caso.
 
 VI. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia.
+
+> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2023)</small>
+
+###### Artículo 22 Bis.
+
+La persona que por sus actos se define como generadora de acoso escolar deberá garantizar el cumplimiento de lo dispuesto en la fracción IX del artículo 21 de la presente Ley de conformidad con las disposiciones jurídicas aplicables.
 
 ###### Artículo 23.
 
@@ -406,3 +428,13 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
+
+G.G. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 174.- POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 3, LAS FRACCIONES II Y III DEL ARTÍCULO 7, LOS ARTÍCULOS 16 Y 17; SE ADICIONA LA FRACCIÓN IV DEL ARTÍCULO 13 Y EL ARTÍCULO 22 BIS DE LA LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El requerimiento del Protocolo establecido por la Secretaría de Educación del Estado de México tendrá que ser aplicable para el ciclo escolar del año 2024.
