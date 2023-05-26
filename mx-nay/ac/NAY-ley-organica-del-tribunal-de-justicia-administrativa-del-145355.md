@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-tribunal-de-justicia-administrativa-del-145355
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-11-26"
-last_updated: "2022-03-25"
+last_updated: "2023-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT, PUBLICADA EN EL P.O. DE 26 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023 (ABROGADA).
 
 Ley publicada en la Sección Décima Séptima al Número 100 del Periódico Oficial del Estado de Nayarit, el jueves 26 de noviembre de 2020.
 
@@ -1324,3 +1326,31 @@ P.O. 25 DE MARZO DE 2022.
 [ N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL NAYARIT".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga la Ley Orgánica del Tribunal de Justicia Administrativa de Nayarit, publicada el 26 de noviembre de 2020 en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+TERCERO. El Magistrado o Magistrada que a la entrada en vigor de la presente Ley ocupe la presidencia del Tribunal de Justicia Administrativa de Nayarit seguirá en sus funciones hasta la conclusión del periodo para el que fue designado, de conformidad a lo establecido en el artículo Segundo Transitorio del Decreto que reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Nayarit, en materia del Poder Judicial y del Tribunal de Justicia Administrativa, publicado el 1 de diciembre de 2022 en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+CUARTO. En un plazo que no excederá de noventa días hábiles contados a partir de la entrada en vigor de la presente Ley, las Salas Unitarias y la Sala Colegiada de Recursos deberán quedar debidamente integradas y en funcionamiento.
+
+Para dar cumplimiento a lo establecido en el párrafo anterior, el Tribunal de Justicia Administrativa deberá realizar las adecuaciones administrativas correspondientes.
+
+QUINTO. Los recursos de apelación que se encuentren en trámite en el Tribunal Superior de Justicia del Estado, pasarán a la competencia del Tribunal de Justicia Administrativa de Nayarit.
+
+Una vez integrada la Sala Colegiada de Recursos, el Pleno continuará conociendo y resolviendo respecto de los recursos de apelación en materia de responsabilidades administrativas que se encuentren en trámite, hasta en tanto no se notifique el acuerdo de integración de la Sala Colegiada de Recursos del Tribunal de Justicia Administrativa de Nayarit.
+
+SEXTO. Dentro de un plazo que no exceda de ciento ochenta días hábiles, a partir de la entrada en vigor de la presente Ley, deberán realizarse las adecuaciones pertinentes al Reglamento Interior del Tribunal de Justicia Administrativa de Nayarit.
+
+SÉPTIMO. El Tribunal de Justicia Administrativa de Nayarit dentro de un plazo que no exceda de ciento ochenta días hábiles, a partir de la entrada en vigor de la presente Ley, deberá emitir nuevas disposiciones en materia de sistema profesional de carrera jurisdiccional.
+
+OCTAVO. Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta Ley, deberán ser returnados en términos de la presente Ley.
+
+NOVENO. Las impugnaciones presentadas con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, en contra de las resoluciones del recurso de inconformidad, previsto en la Ley de Responsabilidades de los Servidores públicos del Estado de Nayarit (Abrogada), se resolverán a través del juicio contencioso administrativo por la Sala Unitaria Especializada de conformidad con la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
+
+DÉCIMO. En un plazo que no exceda de ciento ochenta días hábiles se deberá expedir la legislación correspondiente en materia de responsabilidades administrativas, la cual será aplicable al presente Decreto.
