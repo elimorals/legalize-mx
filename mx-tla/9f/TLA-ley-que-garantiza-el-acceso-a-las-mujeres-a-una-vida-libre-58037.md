@@ -4,7 +4,7 @@ identifier: "TLA-ley-que-garantiza-el-acceso-a-las-mujeres-a-una-vida-libre-5803
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-13"
-last_updated: "2023-05-03"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el jueves 13 de diciembre de 2007.
 
@@ -171,13 +171,17 @@ VIII. Violencia cibernética: Toda acción que lesiona, denigra o ponga en riesg
 
 IX. La Violencia Digital Sexual. Toda acción dolosa de connotación sexual que atenta contra la intimidad sexual de las mujeres y niñas, mediante el uso de espacios digitales, plataformas de internet, redes sociales, correo electrónico, o cualquier otro espacio digitalizado, que implique acoso, hostigamiento, amenazas, insultos, extorsión, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos lujuriosos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas, que atenten contra la integridad, la dignidad, la intimidad, la libertad, la vida privada o vulnere algún derecho humano de las mujeres, causando daño psicológico, físico, económico o sexual, tanto en el ámbito privado como en el público;
 
-> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-X. Violencia Vicaria. Es el acto u omisión que genera afectación o daño físico, psicológico, emocional o patrimonial a un descendiente, ascendiente, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, dependiente económico, animal de compañía o bienes de la víctima, cometido por parte de quien mantenga o mantuvo una relación de matrimonio, concubinato o alguna relación sentimental con la misma, actuando por sí o por interpósita persona, cuyo objeto sea causar un daño emocional, psicológico o patrimonial a la mujer, y
+X. Violencia Vicaria. Es el acto u omisión que genera afectación o daño físico, psicológico, emocional o patrimonial a un descendiente, ascendiente, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, dependiente económico, animal de compañía o bienes de la víctima, cometido por parte de quien mantenga o mantuvo una relación de matrimonio, concubinato o alguna relación sentimental con la misma, actuando por sí o por interpósita persona, cuyo objeto sea causar un daño emocional, psicológico o patrimonial a la mujer;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2023)</small>
+
+XI. Violencia obstétrica: Es el acto u omisión, negligente o doloso, ejercido por parte del personal médico, auxiliar o administrativo de las instituciones que brinden servicios de salud, en los sectores público o privado, a través del cual se cause daño o perjuicio a la salud física o psicoemocional de una mujer, durante los periodos de embarazo, parto y puerperio, brindándole un trato no acorde a la dignidad humana, abusando en la medicación que le indique, incurriendo en patogenización de los procesos naturales o por cualquier medio que conlleve a la pérdida de autonomía y capacidad de decidir de manera autónoma, libre e informada, y
 
 > <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-XI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+XII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 7.
 
@@ -1367,11 +1371,29 @@ VII. Aplicar la Norma Oficial Mexicana NOM 190 SSA 1 1999, Prestación de Servic
 
 VIII. Presentar las denuncias penales respectivas por los ilícitos de violencia familiar o sexual de las que tengan conocimiento;
 
-IX. Celebrar convenios de cooperación, coordinación y concentración en la materia;
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2023)</small>
 
-X. Establecer programas temáticos sobre discriminación y violencia contra las mujeres, y
+IX. Priorizar la capacitación y sensibilización de los prestadores de servicios de salud, tanto en el sector público como privado, respecto de la violencia obstétrica y el parto humanizado;
 
-XI. Las demás que señale esta ley y demás disposiciones legales.
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2023)</small>
+
+X. En materia de salud obstétrica, de acuerdo a la disponibilidad presupuestaria, deberá:
+
+a) Garantizar que los servicios de salud cuenten con los establecimientos, bienes, servicios de salud y personal capacitado e idóneo que contribuya a asegurar la observancia de los derechos de las mujeres durante el embarazo, el parto y el puerperio;
+
+b) Promover la reducción del número de cesáreas, atendiendo a los estándares recomendados por la Organización Mundial de la Salud;
+
+c) Ejecutar acciones que permitan la difusión del conocimiento de los derechos de las mujeres en materia obstétrica y de los medios administrativos y judiciales para hacer del conocimiento de las autoridades los actos de violencia obstétrica;
+
+d) Establecer mecanismos de monitoreo, para generar registros específicos, respecto a la incidencia de hechos de violencia obstétrica, e
+
+e) Promover servicios especializados de atención a mujeres que hayan sido víctimas de violencia obstétrica, que permitan una reparación integral.
+
+XI. Celebrar convenios de cooperación, coordinación y concentración en la materia;
+
+XII. Establecer programas temáticos sobre discriminación y violencia contra las mujeres, y
+
+XIII. Las demás que señale esta ley y demás disposiciones legales.
 
 #### SECCIÓN SÉPTIMA. PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
@@ -1716,3 +1738,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 226.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA; Y SE ADICIONA EL ARTÍCULO 99 BIS A LA LEY DE SALUD DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al contenido del presente Decreto.
