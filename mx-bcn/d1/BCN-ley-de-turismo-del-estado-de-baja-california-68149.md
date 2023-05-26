@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-68149"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2021-09-14"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de abril de 2009.
 
@@ -603,6 +603,8 @@ En todo lo no dispuesto en el presente Capítulo serán aplicables las disposici
 
 Para los efectos de esta Ley, se entiende por Turismo Estatal a la categoría de turismo que requiere de bienes y servicios turísticos especializados para la realización de actos culturales, negocios, convenciones o de salud.
 
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 46.
 
 Pertenecen a la categoría de Turismo Estatal, entre otras, las siguientes modalidades o segmentos:
@@ -611,7 +613,9 @@ I.- El Turismo de Negocios y de Convenciones;
 
 II.- El Turismo Cultural, integrado por toda aquella gama de personas, nacionales o extranjeras, que visitan el Estado en busca de satisfactores que eleven el espíritu y el conocimiento a través del arte, la música, la pintura, la escultura, la literatura y, en general, la cultura en todas sus formas y manifestaciones;
 
-III.- El Turismo de Salud, conformado por la demanda de bienes y servicios o la oferta de productos médicos, farmacéuticos, hospitalarios, de relajamiento físico por medio de spas y similares; y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+III.- El Turismo de Salud, conformado por la demanda de bienes y servicios o la oferta de capacitación en materia médica, productos médicos, farmacéuticos, hospitalarios, de relajamiento físico por medio de spas y similares, autorizados por las autoridades competentes con la expedición de los permisos correspondientes;
 
 IV.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2010)
 
@@ -1013,9 +1017,19 @@ III.- Fecha de la apertura del establecimiento o, en su caso, el tiempo de prest
 
 IV.- La clase del o los servicios que se prestan o prestarán y la categoría asignada conforme a la Norma Oficial Mexicana respectiva;
 
-V.- La demás información que el prestador de servicios turísticos considere necesaria para los fines de difusión; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2023)</small>
 
-VI.- Cualesquier otro que la Secretaría fije por medio de disposiciones generales.
+V.- Tratándose de la prestación de servicios médicos bajo cualquier modalidad, las personas físicas deberán acreditar la formación profesional o de especialidad con que se ostenten de conformidad con los requisitos establecidos en la Ley de Salud Pública para el Estado.
+
+Tratándose de personas morales cuya oferta sea la prestación de servicios médicos, estas deberán acreditar la referida formación profesional o de especialidad del personal médico a través del cual presta sus servicios.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN V], P.O. 26 DE MAYO DE 2023)</small>
+
+VI.- La demás información que el prestador de servicios turísticos considere necesaria para los fines de difusión; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VI], P.O. 26 DE MAYO DE 2023)</small>
+
+VII.- Cualesquier otro que la Secretaría fije por medio de disposiciones generales.
 
 ###### ARTÍCULO 74.
 
@@ -1370,3 +1384,9 @@ P.O. 14 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 292 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 50 BIS, 50 TER, 50 QUARTER, 50 QUINQUIES Y 53 DE LA LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 229 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4, 27, 33 BIS, 50 BIS 5, 52, 54, 55, 56, 144 QUÁTER, 144 QUINQUIES, 144 OCTIES, 144 DECIES Y 165 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
