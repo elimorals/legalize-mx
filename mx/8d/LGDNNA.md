@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2023-05-08"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -1140,11 +1140,17 @@ Niñas, niños y adolescentes no podrán ser discriminados de forma alguna por e
 
 Niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural.
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2023)</small>
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, estarán obligados a establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, podrán aprovechar su infraestructura y recursos; promover el uso y desarrollo de los medios de comunicación oficiales y de las nuevas tecnologías a su alcance, a fin de establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
 
 Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, ni de los principios rectores de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2023)</small>
+
+###### Artículo 63 Bis.
+
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, promoverán la recreación y participación de las niñas, niños y adolescentes en las actividades culturales de su interés. Así como a fomentar la participación en la vida cultural y en las artes, la creatividad y producción artística, de niñas, niños y adolescentes.
 
 ### Capítulo Décimo Cuarto. De los Derechos a la Libertad de Expresión y de Acceso a la Información
 
@@ -2687,3 +2693,11 @@ Segundo. A partir de la entrada en vigor del presente Decreto, el Sistema Nacion
 Tercero. Los Congresos Locales y los Tribunales Superiores de Justicia de las Entidades Federativas y de la Ciudad de México, contarán con un plazo no mayor a ciento veinte días hábiles a partir del inicio de la creación del Registro Nacional de Obligaciones Alimentarias, para armonizar el marco normativo correspondiente, en armonía con los lineamientos que establezca el Sistema Nacional DIF, conforme a lo establecido por el presente Decreto.
 
 Cuarto. La autoridad encargada del Registro Nacional, en el término de noventa días naturales, emitirá la normativa a través de la cual se establezca el formato, tiempo, modo y lugar para que las autoridades locales obligadas en el presente decreto cumplan con las obligaciones establecidas a través del presente Decreto.
+
+D.O.F. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 63 Y SE ADICIONA UN ARTÍCULO 63 BIS A LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como la disponibilidad presupuestaria de cada una de ellas para el presente ejercicio fiscal y los subsecuentes, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
