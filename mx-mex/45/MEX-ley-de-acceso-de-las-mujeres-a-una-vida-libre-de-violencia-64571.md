@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2023-05-11"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2023.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -77,87 +77,71 @@ VI. Favorecer la recuperación y la construcción del pleno goce de los Derechos
 
 VII. Asegurar la concurrencia, integralidad y optimización de recursos e instrumentos que garanticen la vigencia de los Derechos Humanos de las niñas y las mujeres.
 
+> <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Violencia de Género: Al conjunto de amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las mujeres y las niñas y que es consubstancial a la opresión de género en todas sus modalidades. La violencia de género contra las mujeres y las niñas involucra tanto a las personas como a la sociedad en sus distintas formas y organizaciones, comunidades, relaciones, prácticas e instituciones sociales y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género y al no dar garantías de seguridad a las mujeres.
+I. Actualización: Proceso permanente de formación, desde la perspectiva de género, con la finalidad de incorporar a la administración y gestión pública los avances y nuevas perspectivas en materia de igualdad, equidad y derechos humanos de las mujeres; la formación, especialización y actualización deben entenderse como parte de un proceso integral y continúo de comprensión y conocimiento de la perspectiva de género;
 
-> <small>(REFORMADO, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+II. Alerta de Violencia de Género: Es el conjunto de acciones gubernamentales coordinadas, integrales, de emergencia y temporales realizadas entre las autoridades de los tres órdenes y niveles de gobierno, para enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, a fin de garantizar su pleno acceso al derecho a una vida libre de violencias;
 
-La violencia de género se ejerce tanto en el ámbito privado como en el ámbito público manifestándose en diversos tipos y modalidades como la familiar, en la comunidad, institucional, laboral, docente, obstétrica, feminicida y en las relaciones afectivas de manera enunciativa y no limitativa;
+III. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
 
-II. (DEROGADA, G.G. 18 DE MARZO DE 2011)
+IV. Derechos Humanos de las Mujeres y las Niñas: Refiere a los derechos que son parte inalienable, integrante e indivisible de los Derechos Humanos universales contenidos en la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de las Personas con Discapacidad, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará), la Conferencia Mundial de Derechos Humanos de Viena, y demás Instrumentos y Acuerdos Internacionales en la materia;
 
-III. (DEROGADA, G.G. 18 DE MARZO DE 2011)
+V. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, inclusión, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-IV. (DEROGADA, G.G. 18 DE MARZO DE 2011)
+VI. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
 
-V. (DEROGADA, G.G. 18 DE MARZO DE 2011)
+VII. Especialización: Son los conocimientos específicos construidos desde la perspectiva de género que deben articularse con la disciplina académica de las y los funcionarios, a fin de aplicar y asegurar la igualdad entre mujeres y hombres, los derechos humanos de las mujeres y el derecho a una vida libre de violencia;
 
-VI. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México;
+VIII. Formación General: Premisas teóricas, metodológicas y conceptos fundamentales sobre la perspectiva de género que deben recibir todas y todos los servidores públicos que integran la administración pública estatal y municipal, con la finalidad de incorporar esta visión al diseño, ejecución, seguimiento y evaluación de las políticas, las acciones y los programas de su competencia, así como en sus relaciones laborales;
 
-VII. Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+IX. Interculturalidad: El enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
 
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+X. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
 
-VII Bis. Mecanismo: Al mecanismo interinstitucional de seguimiento de las medidas de seguridad, prevención y justicia, para atender y erradicar la violencia contra las niñas, adolescentes y mujeres en el Estado de México.
+XI. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México;
 
-VIII. Programa Nacional: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, a nivel Nacional;
+XII. Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+XIII. Mecanismo: Al mecanismo interinstitucional para el seguimiento y cumplimiento de las acciones estratégicas y de las medidas de las Declaratorias de Alerta de Violencia de Género contra las Mujeres y la Declaratoria por Desaparición de Niñas, Adolescentes y Mujeres para el Estado de México;
 
-IX. Programa: El Programa Integral para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de México;
+XIV. Misoginia: Son conductas de odio contra las niñas, las adolescentes y las mujeres que se manifiestan en actos violentos y crueles contra ellas por el hecho de serlo;
 
-X. Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+XV. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia de género contra las mujeres y las niñas.
 
-> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+Las modalidades, de manera enunciativa y no limitativa, son: violencia familiar, digital y violencia mediática, laboral y docente, violencia en la comunidad, violencia institucional, obstétrica, política y feminicida;
 
-XI. Sistema Estatal: El Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+XVI. Muertes evitables: Conjunto de muertes que no deberían haber ocurrido en presencia de servicios de salud eficaces, con exámenes rutinarios para la detección temprana y tratamientos adecuados;
 
-XII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+XVII. Noviazgo: Es un acto de voluntad transitorio entre dos personas que mantienen una relación sentimental por tiempo indefinido, el cual les brinda la oportunidad del conocimiento mutuo y que presuponen el propósito de tener una relación permanente o legalmente constituida;
 
-XIII. Tipos de Violencia: Son los actos u omisiones que constituyen delito y dañan la dignidad, la integridad y la libertad de las mujeres. Los tipos de violencia son: psicológica, física, patrimonial, económica y sexual;
-
-XIV. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia de género contra las mujeres y las niñas.
-
-> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
-
-Las modalidades son: violencia familiar, laboral y docente, violencia en la comunidad, violencia institucional, obstétrica, en el noviazgo, política y feminicida;
-
-XV. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
-
-> <small>(ADICIONADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
-
-XV Bis. Persona ofendida: Se considerarán como personas ofendidas, en el siguiente orden, el o la cónyuge, la concubina o concubinario, el conviviente, los parientes por consanguinidad en la línea recta ascendente o descendente sin limitación de grado, por afinidad y civil, o cualquier otra persona que tenga relación afectiva o dependencia económica con la víctima;
-
-> <small>(ADICIONADA, G.G. 16 DE OCTUBRE DE 2014)</small>
-
-XVI. Noviazgo: Es un acto de voluntad transitorio entre dos personas que mantienen una relación sentimental por tiempo indefinido, el cual les brinda la oportunidad del conocimiento mutuo y que presuponen el propósito de tener una relación permanente o legalmente constituida.
-
-XVII. Persona agresora: La persona que inflige cualquier tipo de violencia de género contra las mujeres y las niñas;
-
-XVIII. Derechos Humanos de las Mujeres y las Niñas: Refiere a los derechos que son parte inalienable, integrante e indivisible de los Derechos Humanos universales contenidos en la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará), la Conferencia Mundial de Derechos Humanos de Viena, y demás Instrumentos y Acuerdos Internacionales en la materia;
+XVIII. Persona agresora: La persona que inflige cualquier tipo de violencia de género contra las niñas, las adolescentes y las mujeres;
 
 XIX. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres; se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-XX. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+XX. Presupuestos con Perspectiva de Género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales;
 
-XXI. Formación General: Premisas teóricas, metodológicas y conceptos fundamentales sobre la perspectiva de género que deben recibir todas y todos los servidores públicos que integran la administración pública local, con la finalidad de incorporar esta visión al diseño, ejecución, seguimiento y evaluación de las políticas, las acciones y los programas de su competencia, así como en sus relaciones laborales;
+XXI. Programa: El Programa Integral para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de México;
 
-> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
+XXII. Programa Nacional: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, a nivel Nacional;
 
-XXII. Especialización: Son los conocimientos específicos construidos desde la perspectiva de género que deben articularse con la disciplina académica de las y los funcionarios, a fin de aplicar y asegurar la igualdad entre mujeres y hombres, los derechos humanos de las mujeres y el derecho a una vida libre de violencia. La Secretaría de las Mujeres será la instancia encargada de diseñar e instrumentar, en colaboración con el Instituto de Profesionalización de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México, programas de formación, capacitación y profesionalización con perspectiva de género de las y los servidores públicos, a través de cursos, seminarios, talleres, diplomados y/o especialidades académicas;
+XXIII. Refugios: Son los centros o establecimientos constituidos por instituciones gubernamentales y por asociaciones civiles para la acogida, atención y protección de las mujeres sus hijas e hijos víctimas de violencia y/o en condiciones de vulnerabilidad que pongan en riesgo su vida;
 
-XXIII. Actualización: Proceso permanente de formación, desde la perspectiva de género, con la finalidad de incorporar a la administración y gestión pública los avances y nuevas perspectivas en materia de igualdad, equidad y derechos humanos de las mujeres; la formación, especialización y actualización deben entenderse como parte de un proceso integral y continúo de comprensión y conocimiento de la perspectiva de género;
+XXIV. Sistema Estatal: El Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XXIV. Alerta de Violencia de Género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
+XXV. Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XXV. Misoginia: Son conductas de odio contra las mujeres que se manifiestan en actos violentos y crueles contra ellas por el hecho de ser mujeres;
+XXVI. Tipos de Violencia: Son los actos u omisiones que constituyen delito y dañan la dignidad, la integridad y la libertad de las mujeres. Los tipos de violencia son: psicológica, emocional, física, patrimonial, económica y sexual;
 
-XXVI Refugios: Son los centros o establecimientos constituidos por instituciones gubernamentales y por asociaciones civiles para la atención y protección de las mujeres y sus familias víctimas de violencia; y
+XXVII. Víctima: La mujer, niña o adolescente a quien se le inflige cualquier tipo de violencia, y
 
-XXVII. Presupuestos con Perspectiva de Género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales.
+XXVIII. Violencia de Género: Hace referencia a cualquier acto u omisión dañino dirigido contra una persona o un grupo de personas en razón de su género. Tiene su origen en las normas perjudiciales, el abuso de poder y en las desigualdades de género. La violencia de género constituye una grave violación a los derechos humanos que puede tener como resultado amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las mujeres y las niñas y que es consubstancial a la opresión de género en todas sus modalidades. La violencia de género contra las mujeres y las niñas involucra tanto a las personas como a la sociedad en sus distintas formas y organizaciones, comunidades, relaciones, prácticas e instituciones sociales y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género y al no dar garantías de seguridad a las mujeres.
+
+La violencia de género se ejerce tanto en el ámbito privado como en el público manifestándose en diversos tipos y modalidades.
 
 ###### Artículo 4.
 
@@ -167,17 +151,31 @@ La aplicación de la presente Ley corresponde al Titular del Poder Ejecutivo del
 
 Todas las medidas que se deriven de la presente Ley, garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos y modalidades de la violencia contra las mujeres durante su ciclo de vida y promoverán su desarrollo integral y su plena participación en todas las esferas de la vida.
 
+> <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 6.
 
-Los principios rectores para el acceso de las mujeres a una vida libre de violencia de género que deberán ser observados en la elaboración y ejecución de las políticas públicas de los Gobiernos Estatal y Municipales son:
+Los principios rectores para el acceso de todas las mujeres, adolescentes y niñas a una vida libre de violencias que deberán ser observados en la elaboración y ejecución de las políticas públicas de los gobiernos estatal y municipales son:
 
-I. La igualdad jurídica entre la mujer y el hombre;
+I. La igualdad jurídica, sustantiva, de resultados y estructural entre mujeres y hombres;
 
-II. El respeto a la dignidad humana de las mujeres;
+II. La dignidad de las mujeres;
 
-III. La no-discriminación; y
+III. La no-discriminación;
 
-IV. La libertad de las mujeres.
+IV. La libertad de las mujeres;
+
+V. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos;
+
+VI. La perspectiva de género;
+
+VII. La debida diligencia;
+
+VIII. La interseccionalidad;
+
+IX. La interculturalidad, y
+
+X. El enfoque diferencial.
 
 ## TÍTULO SEGUNDO. TIPOS DE VIOLENCIA CONTRA LAS MUJERES
 
@@ -359,6 +357,8 @@ En ningún caso podrán laborar en los refugios personas que hayan sido sanciona
 
 ### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
+> <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 20 Ter.
 
 La violencia en el noviazgo son todos los actos realizados por una de las partes en contra de la otra, dentro de una relación afectiva, en los cuales se inflijan ataques intencionales de tipo sexual, físico o psicológico, de manera forzada en la relación de romance, enamoramiento o noviazgo, con el objeto de ejercer presión, manipulación o maltrato hacia alguna de las partes.
@@ -387,37 +387,93 @@ El Gobierno del Estado y los Ayuntamientos, a través de sus dependencias en el 
 
 ###### Artículo 21.
 
-Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus Derechos Humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres y de niñas.
+Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos y del ejercicio abusivo del poder, tanto en los ámbitos público y privado, que puede conllevar impunidad social y del Estado. Se manifiesta a través de conductas de odio y discriminación que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables y en conductas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+En los casos de feminicidio se aplicarán las sanciones previstas en el Código Penal del Estado de México.
 
-En los casos de feminicidio se aplicarán las sanciones previstas en el artículo 242 Bis del Código Penal del Estado de México.
+> <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 22.
 
-Alerta de Violencia de Género: Es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+El procedimiento para la emisión de la Alerta de Violencia de Género contra las mujeres deberá ser pronto y expedito, atendiendo a la situación de urgencia de los hechos documentados que motiva su solicitud y al territorio especificado en la misma, así como al principio de debida diligencia.
+
+> <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 23.
 
-Cuando se presenten casos de violencia feminicida, los Gobiernos Estatal y Municipales dispondrán de las medidas para garantizar la seguridad de las mujeres y las niñas, el cese de la violencia en su contra y eliminar las situaciones de desigualdad en que se encuentren, para lo cual se deberá:
+La Alerta de Violencia de Género contra las mujeres tendrá como objetivos:
 
-I. Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que dé el seguimiento respectivo;
+I. Garantizar la vida, la integridad, la libertad y la seguridad, así como el acceso a la justicia de las mujeres, adolescentes y niñas;
 
-II. Implementar las acciones preventivas, de seguridad y justicia, para enfrentar y abatir la violencia feminicida, así como ampliar facultades de la Fiscalía Especial de homicidios dolosos contra mujeres y delitos relacionados con la violencia familiar y sexual;
+II. Generar condiciones y las políticas públicas que contribuyan a la disminución y cese de la violencia feminicida en su contra;
 
-III. Elaborar reportes especiales sobre la zona y el comportamiento de los indicadores de la violencia contra las mujeres;
+III. Eliminar la desigualdad y discriminación producidas por ordenamientos jurídicos o políticas públicas del Estado y Municipios que agravian los derechos humanos de las mujeres, adolescentes y niñas;
 
-IV. Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las mujeres; y
+IV. Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las mujeres, y
 
 V. Hacer del conocimiento público el motivo de las acciones y medidas implementadas y la zona territorial que abarcan.
 
+Para cumplir con estos objetivos, las autoridades correspondientes, en el ámbito de sus competencias deberán:
+
+A. Hacer del conocimiento público el motivo de la Alerta de Violencia de Género contra las mujeres, y la zona territorial que abarquen las acciones que deberán realizarse;
+
+B. Elaborar un Programa de Acciones Estratégicas de cumplimiento, que deberá hacerse del conocimiento público y que contendrá:
+
+a) El motivo de la Alerta de Violencia de Género contra las mujeres;
+
+b) Las acciones que deberán desempeñar para hacer frente a la violencia feminicida o al agravio comparado, la ruta de acción, los plazos para su ejecución y la asignación de responsabilidades definidas para cada uno de los poderes y órdenes de gobierno, según corresponda;
+
+e) Los indicadores de seguimiento y cumplimiento de las acciones que deben realizar los ayuntamientos, las instancias de la Administración Pública del Estado de México, la Fiscalía General de Justicia del Estado de México, el Poder Judicial del Estado de México y la Legislatura del Estado de México;
+
+C. Implementar las acciones y medidas preventivas, correctivas, de atención, de seguridad, de procuración e impartición de justicia, de reparación del daño y legislativas que correspondan;
+
+D. Las autoridades estatales y municipales incluidas en el Programa de Acciones Estratégicas, el Poder Judicial del Estado de México, la Fiscalía General de Justicia del Estado de México y la Legislatura del Estado de México deberán presentar informes, ante el Mecanismo, por lo menos cada seis meses para dar cuenta de los avances en el cumplimiento de las medidas establecidas en la Declaratoria, y
+
+E. Asignar los recursos presupuestales necesarios y suficientes para hacer frente a la Declaratoria de Alerta de Violencia de Género contra las mujeres; para tal efecto la Legislatura deberá aprobar una partida presupuestal para este fin y le dará seguimiento.
+
+El procedimiento de la Alerta de Violencia de Género contra las mujeres deberá observar en todo momento los principios de transparencia, máxima publicidad y acceso a la información, así como la protección de datos personales, durante la totalidad de las etapas.
+
+> <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 24.
 
-Las medidas referidas en el Artículo 23 de esta Ley, podrán ser implementadas a solicitud de los organismos de Derechos Humanos y de la sociedad civil.
+La Alerta de Violencia de Género contra las mujeres, se emitirá cuando:
+
+I. Exista un contexto de violencia feminicida caracterizado por el incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, la libertad, la integridad y la seguridad de las mujeres, adolescentes y niñas en un territorio determinado;
+
+II. Existan omisiones documentadas y reiteradas por parte de las autoridades gubernamentales del cumplimiento de sus obligaciones en materia de prevención, atención, sanción, y acceso a la justicia para las mujeres, adolescentes y niñas, de conformidad con lo establecido en esta ley, y
+
+III. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres, adolescentes y niñas.
+
+> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2023)</small>
+
+###### Artículo 24 Bis.
+
+La alerta de violencia de género por agravio comparado tendrá como finalidad eliminar las desigualdades producidas por un ordenamiento jurídico o políticas públicas municipales que impidan el reconocimiento o el ejercicio pleno de los Derechos Humanos de las Mujeres protegidos en todos aquellos instrumentos internacionales reconocidos y ratificados por el Estado mexicano, a través de acciones gubernamentales previstas en el artículo 23 de la Ley.
+
+El agravio comparado se presenta cuando un ordenamiento jurídico vigente o una política pública municipal contenga alguno de los siguientes supuestos y éstos transgredan los Derechos Humanos de las Mujeres:
+
+I. Distinciones, restricciones o derechos específicos diversos para una misma problemática o delito, en detrimento de las mujeres de un municipio;
+
+II. No se proporcione el mismo trato jurídico en igualdad de circunstancias, generando una discriminación y consecuente agravio, o
+
+III. Se genere una aplicación desigual de la reglamentación municipal, lesionándose los Derechos Humanos de las Mujeres, así como los principios de igualdad y no discriminación.
+
+> <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 25.
 
-Cualquier municipio podrá solicitar a la Secretaría General de Gobierno, la emisión de la declaratoria de alerta de violencia de género a fin de que se adopten las medidas y acciones preventivas de seguridad y justicia que procedan, haciendo del conocimiento público el motivo de la alerta de violencia de género y la zona territorial que abarcan las medidas a ejecutar.
+La Alerta de Violencia de Género contra las mujeres iniciará su trámite ante la Secretaría de las Mujeres:
+
+I. A solicitud de organismos públicos autónomos de derechos humanos;
+
+II. A solicitud de organizaciones de la sociedad civil legalmente constituidas o por colectivos o grupos de familiares de víctimas a través de una persona representante;
+
+III. A solicitud de cualquier municipio, o
+
+IV. A partir de la identificación por parte de las (sic) Secretaría de las Mujeres del incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, libertad, integridad y seguridad de las mujeres, las adolescentes y las niñas en un territorio determinado o la existencia de un agravio comparado.
+
+A fin de garantizar el análisis expedito y la tramitación oportuna, cuando se presenten diversas solicitudes de Alerta de Violencia de Género contra las mujeres y exista identidad en las autoridades o hechos constitutivos de violencia contra las mujeres, las adolescentes y las niñas, se podrán acumular tanto el trámite, como las medidas que deberán ser adoptadas.
 
 > <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2020)</small>
 
@@ -425,9 +481,115 @@ Cualquier municipio podrá solicitar a la Secretaría General de Gobierno, la em
 
 Los municipios declarados en Alerta de Violencia de Género contra las Mujeres, deberán instalar comisiones transitorias para Combatir y Erradicar la Violencia Vinculada a los Feminicidios y la Desaparición, a fin de contribuir de manera progresiva al diseño, análisis, implementación, seguimiento y evaluación de las acciones y medidas que realice el Ayuntamiento en la materia, así como de los protocolos de actuación, la aplicación de recursos y la capacitación de servidores públicos que intervengan en la realización de acciones vinculadas a la prevención, combate y erradicación de los feminicidios y la desaparición de mujeres.
 
+> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2023)</small>
+
+###### Artículo 25 Ter.
+
+La Declaratoria de Alerta de Violencia de Género contra las mujeres, deberá incluir lo siguiente:
+
+I. El motivo de la misma;
+
+II. La información que sustenta la determinación;
+
+III. Las acciones y medidas preventivas, correctivas, de seguridad, de procuración e impartición de justicia, de atención, de reparación del daño, legislativas y reglamentarias propuestas;
+
+IV. La solicitud a las autoridades responsables, de la asignación o reorientación de recursos presupuestales, humanos y materiales necesarios para hacer frente a la misma, y
+
+V. El territorio que abarcan las medidas a implementar y, en su caso, las autoridades responsables de su cumplimiento.
+
+> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2023)</small>
+
+###### Artículo 25 Quáter.
+
+Una vez admitida la solicitud de Alerta de Violencia de Género contra las mujeres, se conformará un Grupo Interinstitucional y Multidisciplinario integrado por la Secretaría de las Mujeres, la Dirección o el Instituto Municipal de las Mujeres, la Comisión de Derechos Humanos del Estado de México, organizaciones de la sociedad civil, incluidas las solicitantes; así como personas e instituciones que se consideren especialistas en derechos humanos de las mujeres.
+
+El Grupo Interinstitucional y Multidisciplinario tendrá como objetivo fundamental analizar, valorar y emitir recomendaciones que mejoren la implementación de acciones que se generen con motivo de la Alerta de Violencia de Género contra las mujeres, a través de las siguientes acciones:
+
+A. Proponer a las instancias competentes las acciones y medidas preventivas, correctivas, de seguridad, de procuración e impartición de justicia, de reparación del daño y legislativas que correspondan, para ser establecidas en la Alerta de Violencia de Género contra las mujeres;
+
+B. Brindar asesoría técnica a las autoridades encargadas de instrumentar las medidas señaladas en la Alerta de Violencia de Género contra las mujeres, y
+
+C. Analizar y dictaminar los informes periódicos presentados por las autoridades responsables de cumplir con la Alerta de Violencia de Género contra las mujeres.
+
+Dichos informes y dictámenes deberán presentarse anualmente.
+
+> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2023)</small>
+
+###### Artículo 25 Quinquies.
+
+El Grupo Interinstitucional y Multidisciplinario tendrá 30 días naturales para realizar un análisis sobre los hechos de violencia señalados en la solicitud; cuando del análisis realizado se desprenda la procedencia de la Alerta de Violencia de Género contra las mujeres, se deberán elaborar conclusiones que incluyan propuestas de acciones y medidas preventivas, correctivas, de atención, de seguridad, de procuración e impartición de justicia y de reparación del daño, según corresponda y, en su caso, las propuestas de adecuaciones legislativas y normativas necesarias.
+
+El Grupo Interinstitucional y Multidisciplinario deberá escuchar a las víctimas de los casos de violencia contra las mujeres que se analizan, a fin de incorporar en las conclusiones y medidas a adoptar, sus necesidades y propuestas.
+
+En caso de considerar la improcedencia de la Alerta de Violencia de Género contra las mujeres, se presentarán por escrito los argumentos que sustenten dicha determinación.
+
+El tiempo entre la admisión de la solicitud de la Alerta de Violencia de Género contra las mujeres y la Declaratoria no podrá exceder los 45 días naturales.
+
+En caso de que la Alerta de Violencia de Género sea procedente la Secretaría General de Gobierno hará los trámites necesarios para su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2023)</small>
+
+###### Artículo 25 Sexies.
+
+En los casos donde la Secretaría de las Mujeres, identifique y documente alguna circunstancia de procedencia de la Alerta de Violencia de Género contra las mujeres, se podrá emitir por el Gobierno del Estado, a través de la Secretaría General de Gobierno, sin que se requiera la conformación del Grupo Interinstitucional y Multidisciplinario.
+
+En aquellos casos, donde el Grupo Interinstitucional y Multidisciplinario no culmine el Informe de conclusiones en el periodo establecido, la Secretaría de las Mujeres, realizará el informe correspondiente para que, en su caso, la Secretaría General de Gobierno emita la Alerta de Violencia de Género contra las mujeres.
+
+La Secretaría de las Mujeres, a solicitud de Grupo Interinstitucional y Multidisciplinario, si se estima necesario, podrá otorgar una prórroga de hasta treinta días hábiles para la emisión de Informe de conclusiones.
+
+> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2023)</small>
+
+###### Artículo 25 Septies.
+
+La solicitud de Alerta de Violencia de Género contra las mujeres deberá contener al menos lo siguiente:
+
+I. Narración de los hechos de violencia cometidos contra las mujeres, adolescentes y niñas, sustentados con información documentada, datos estadísticos oficiales, testimonios u otra información que sustente las afirmaciones señaladas en la solicitud;
+
+II. Territorio específico sobre el cual se señalan los hechos de violencia;
+
+III. Las autoridades responsables de atender la violencia señalada, y
+
+IV. Los demás requisitos de forma que se establezcan en el Reglamento.
+
+> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2023)</small>
+
+###### Artículo 25 Octies.
+
+Corresponderá al Gobierno del Estado, a través de la Secretaría General de Gobierno, declarar la Alerta de Violencia de Género contra las mujeres.
+
+La persona titular de la Secretaría General de Gobierno notificará, en un plazo no mayor a cinco días naturales, contados a partir de que se haya declarado la Alerta de Violencia de Género contra las mujeres, a las personas titulares de los poderes Legislativo y Judicial, así como de la Fiscalía General de Justicia del Estado o a los municipios la Alerta de Violencia de Género contra las mujeres.
+
+Una vez notificada la Alerta, las autoridades estatales y de los municipios, de manera inmediata y coordinada deberán implementar el Programa de Acciones Estratégicas de cumplimiento.
+
+El Programa de Acciones Estratégicas deberá contener, al menos las siguientes características:
+
+I. Estar alineado a la política integral y programas locales para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+
+II. Las acciones para hacer frente a la violencia feminicida o al agravio comparado;
+
+III. Los plazos para su ejecución;
+
+IV. La asignación de responsabilidades a las autoridades competentes;
+
+V. Los recursos presupuestales destinados para dichas actividades;
+
+VI. Los indicadores de evaluación, seguimiento y cumplimiento de las acciones, o
+
+VII. La estrategia de difusión de los resultados alcanzados en el territorio materia de la Alerta de Violencia de Género.
+
+> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2023)</small>
+
+###### Artículo 25 Nonies.
+
+La Secretaría de las Mujeres dará acompañamiento y seguimiento a la Alerta de Violencia de Género contra las mujeres.
+
+Para el levantamiento de medidas, atendiendo a la naturaleza de las mismas, se tendrá que acreditar fehacientemente su cumplimento (sic), a través de la incorporación en las políticas públicas o legislación, y/o de la disminución sostenida de la violencia identificada en la Declaratoria de la Alerta de Violencia de Género contra las mujeres.
+
+> <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 26.
 
-El Gobierno Estatal cuando así lo considere, podrá solicitar al Gobierno Federal su colaboración en las medidas y acciones que se determinen en la declaratoria de alerta de violencia de género.
+El Gobierno Estatal cuando así lo considere, podrá solicitar, a través de la Secretaría de las Mujeres, al Gobierno Federal su colaboración y acompañamiento en las acciones y medidas que se determinen en la Declaratoria de Alerta de Violencia de Género.
 
 ###### Artículo 27.
 
@@ -439,7 +601,9 @@ I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar la
 
 II. La rehabilitación: Es la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas u ofendidos, y
 
-III. La satisfacción: Son las medidas que buscan una reparación orientada a resarcir los daños físicos y psicológicos de las víctimas de violencia.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 26 DE MAYO DE 2023)</small>
+
+III. La satisfacción y no repetición: Son las medidas que buscan una reparación orientada a la prevención de violaciones y erradicación de la impunidad ante la violencia contra las mujeres. Entre las medidas a adoptar se encuentran (sic):
 
 Entre las medidas a adoptar se encuentran:
 
@@ -949,9 +1113,7 @@ Las políticas de Gobierno que las dependencias y organismos auxiliares del Esta
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO I TER
-
-DEL MECANISMO DE SEGUIMIENTO DE LAS MEDIDAS DE SEGURIDAD, PREVENCIÓN Y JUSTICIA PARA ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS NIÑAS, ADOLESCENTES Y MUJERES.
+### CAPÍTULO I TER. DEL MECANISMO
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -993,9 +1155,9 @@ IX. El Instituto Mexiquense del Emprendedor;
 
 X. El Poder Judicial;
 
-> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
 
-XI. La Legislatura a través de la Presidencia de la Comisión Legislativa Para la Igualdad de Género y de la o las Comisiones Especiales que se relacionen con el objeto y atribuciones del Sistema Estatal;
+XI. La Legislatura a través de las Presidencias de las Comisiones Legislativas Para la Igualdad de Género y Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres por Feminicidio y Desaparición;
 
 XII. Los organismos autónomos;
 
@@ -1023,7 +1185,7 @@ V. Las acciones conjuntas para la protección de las mujeres víctimas de violen
 
 VI. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE MAYO DE 2023)</small>
 
 ### CAPÍTULO II
 
@@ -1041,11 +1203,11 @@ En caso de existir la presencia de un hecho que atente, vulnere o menoscabe la s
 
 El mecanismo tendrá por objeto dirigir y verificar el debido seguimiento para que las dependencias y organismos de los tres poderes del Estado, los organismos autónomos y las instancias municipales que lo conformen, realicen acciones de seguridad, prevención y justicia, de acuerdo al ámbito de su respectiva competencia, así como aquellas que marca el título quinto de este ordenamiento legal. Si dicho mecanismo se instaura como consecuencia de una Declaratoria de Alerta de Violencia de Género contra las Mujeres, se deberá atender a lo dispuesto por la misma.
 
-> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 36 Quáter.
 
-Para la conformación del mecanismo, la o el titular del Poder Ejecutivo, por conducto de la persona titular de la Secretaría de las Mujeres, convocará a las y los titulares de los tres poderes del Estado, a las dependencias y organismos del Ejecutivo Estatal, a los organismos autónomos, así como a las y los presidentes municipales que correspondan, a fin de implementar el mecanismo de seguimiento de las medidas de seguridad, prevención y justicia, para atender y erradicar la violencia contra las niñas, adolescentes y mujeres, mismos que se reunirán de manera semanal, con la finalidad de verificar los avances y el cumplimiento con el que se cuenta por parte de cada una de las áreas responsables.
+Para la conformación del mecanismo, la o el titular del Poder Ejecutivo, por conducto de la persona titular de la Secretaría de las Mujeres, convocará a las y los titulares de los tres poderes del Estado, a las dependencias y organismos del Ejecutivo Estatal, a los organismos autónomos, así como a las y los presidentes municipales que correspondan, a fin de implementar el mecanismo de seguimiento de las medidas preventivas, correctivas, de seguridad, de procuración e impartición de justicia, de reparación del daño y legislativas que correspondan, para atender y erradicar la violencia contra las niñas, adolescentes y mujeres, mismos que se reunirán de manera mensual y de manera extraordinaria cuando sea necesario, con la finalidad de verificar los avances y el cumplimiento con el que se cuenta por parte de cada una de las áreas responsables.
 
 > <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
 
@@ -1053,11 +1215,13 @@ Para la conformación del mecanismo, la o el titular del Poder Ejecutivo, por co
 
 El mecanismo será coordinado por la persona titular de la Secretaría de las Mujeres, quien además fungirá como representante del Gobierno del Estado de México ante las instancias nacionales que así lo requieran, cuando se traten asuntos relacionados con los objetivos del mecanismo.
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 36 Sexies.
 
-Las dependencias y organismos de los tres poderes, los organismos autónomos, así como los municipios que sean convocados a integrar las mesas de trabajo del mecanismo, deberán designar a una servidora o servidor público que tendrá el carácter de enlace, quien dará seguimiento a todas las acciones derivadas de la instalación del mecanismo, con independencia del motivo que originó su instalación, lo anterior siempre y cuando las o los titulares de los mismos no estén en posibilidades de acudir a las sesiones semanales.
+Las dependencias y organismos de los tres poderes, los organismos autónomos, así como los municipios que sean convocados a integrar las mesas de trabajo del mecanismo, deberán designar a una servidora o servidor público que tendrá el carácter de enlace, quien dará seguimiento a todas las acciones derivadas de la instalación del mecanismo, con independencia del motivo que originó su instalación, lo anterior siempre y cuando las o los titulares de los mismos no estén en posibilidades de acudir a las sesiones mensuales.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
 Para el caso de los municipios, será el enlace designado, el que acuda en representación de la o el presidente municipal, quien únicamente acudirá una vez al mes, previa convocatoria.
 
@@ -1065,7 +1229,13 @@ Para el caso de los municipios, será el enlace designado, el que acuda en repre
 
 La o el enlace designado por el municipio lo representará en todas las acciones que deban efectuarse derivado de la Declaratoria de Alerta de Género contra las Mujeres, por lo que las y los demás integrantes del Mecanismo se coordinarán con éste para la implementación, ejecución y seguimiento de las acciones afirmativas.
 
-La implementación del mecanismo culminará hasta que la o el titular del Poder Ejecutivo Estatal lo decrete, o bien, cuando la Secretaría de Gobernación lo notifique a la Entidad.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 26 DE MAYO DE 2023)</small>
+
+Para el seguimiento de las acciones implementadas y acuerdos que se determinen en las sesiones, la o el enlace designado por las dependencias, organismos de los tres poderes, organismos autónomos y municipios, deberá rendir de manera mensual un informe pormenorizado dirigido a la persona titular de la Secretaría de las Mujeres quien, en caso de así considerarlo pertinente, podrá convocar a una sesión extraordinaria a efecto de solicitar precisiones respecto del informe presentado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 26 DE MAYO DE 2023)</small>
+
+La implementación del mecanismo culminará hasta que la o el titular del Poder Ejecutivo Estatal lo decrete, a través de los mecanismos establecidos en el Reglamento de esta Ley, en el caso de la Alerta de Género contra las Mujeres que haya declarado la Secretaría General de Gobierno. O bien, cuando la Secretaría de Gobernación lo notifique a la entidad, si la Alerta de Género contra las Mujeres hubiese sido declarada por el Gobierno Federal.
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -1177,9 +1347,13 @@ XXV. Difundir por todos los medios de comunicación el contenido de esta Ley;
 
 XXVI. Proveer los recursos presupuestarios, humanos y materiales, en coordinación con las autoridades que integran el Sistema Estatal y el Programa Estatal; y
 
-> <small>(ADICIONADA, G.G. 10 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2023)</small>
 
-XXVI Bis. Crear Unidades de Igualdad de Género y Erradicación de la Violencia al interior de las dependencias del Poder Ejecutivo y sus organismos auxiliares, en términos de lo previsto en el Capítulo Noveno Bis de la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres del Estado de México; y
+XXVI Bis. Crear Unidades de Igualdad de Género y Erradicación de la Violencia al interior de las dependencias del Poder Ejecutivo y sus organismos auxiliares, en términos de lo previsto en el Capítulo Noveno Bis de la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres del Estado de México:
+
+> <small>(ADICIONADA, G.G. 26 DE MAYO DE 2023)</small>
+
+XXVI Ter. Realizar las acciones necesarias para implementar el Programa de Acciones Estratégicas de cumplimiento de las medidas establecidas en la Alerta de Violencia de Género contra las Mujeres, y
 
 XXVII. Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
@@ -1273,9 +1447,13 @@ XXVI. Impulsar la participación de las organizaciones de la sociedad civil dedi
 
 XXVII. Recibir de las organizaciones de la sociedad civil, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra mujeres y las niñas, a fin de mejorar los mecanismos para su erradicación, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE MAYO DE 2023)</small>
 
-XXVIII. Las demás previstas para el cumplimiento de la presente Ley.
+XXVIII. Diseñar e instrumentar, en colaboración con el Instituto de Profesionalización de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México, programas de formación, capacitación y profesionalización con perspectiva de género de las y los servidores públicos, a través de cursos, seminarios, talleres, diplomados y/o especialidades académicas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 26 DE MAYO DE 2023)</small>
+
+XXIX. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 42.
 
@@ -2312,3 +2490,17 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
+
+G.G. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 171.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, Y DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se deroga toda disposición, de igual o menor jerarquía, contraria al presente Decreto.
+
+CUARTO. El Ejecutivo del Estado en un plazo que no exceda los noventa días naturales después de publicado el presente Decreto, deberá reformar el Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México para darle cumplimiento.
+
+QUINTO. Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres, la Legislatura del Estado de México, dentro del ejercicio fiscal correspondiente, asignará los recursos necesarios para la correcta implementación de los Programas de Acciones Estratégicas.
