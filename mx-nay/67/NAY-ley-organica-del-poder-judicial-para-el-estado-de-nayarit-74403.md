@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-para-el-estado-de-nayarit-74403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-03-20"
-last_updated: "2022-06-13"
+last_updated: "2023-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 20 de marzo de 2010.
 
@@ -343,9 +343,13 @@ Son atribuciones del Pleno del Tribunal Superior de Justicia:
 
 24. Determinar mediante acuerdo general, los casos en que los órganos jurisdiccionales y administrativos podrán utilizar la firma electrónica, así como el uso de las tecnologías de la información para el adecuado ejercicio de sus atribuciones.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE ENERO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
 
-25. Las demás que determinen las Leyes.
+25. El Pleno del Tribunal Superior de Justicia, tendrá competencia para conocer y resolver los medios de control constitucional local previstos en la Constitución Política del Estado Libre y Soberano de Nayarit y las leyes aplicables.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 26 DE MAYO DE 2023)</small>
+
+26. Las demás que determinen las Leyes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
 
@@ -371,9 +375,9 @@ Son atribuciones de la persona titular de la presidencia del Tribunal Superior d
 
 1. Representar legal o protocolariamente al Poder Judicial y al Tribunal Superior de Justicia o designar en su caso, representante para esos efectos.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-2. Presidir la Sala Constitucional.
+2. Presidir el Pleno del Tribunal Superior de Justicia.
 
 3. Presidir el Consejo de la Judicatura, coordinar sus acciones y ejecutar los acuerdos dictados por éste.
 
@@ -567,11 +571,11 @@ Son atribuciones del titular de la Secretaría General de Acuerdos del Tribunal:
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-Articulo 25
+Artículo 25
 
-Para los asuntos de su competencia, el Tribunal Superior de Justicia ejercerá sus funciones en la Sala Constitucional y en Salas Colegiadas y Unitarias que determine el Pleno.
+Para los asuntos de su competencia, el Tribunal Superior de Justicia ejercerá sus funciones en Salas Colegiadas y Unitarias que determine el Pleno.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
@@ -587,9 +591,9 @@ Artículo 28
 
 1. Las resoluciones de las salas colegiadas se tomarán por unanimidad o mayoría de votos de los magistrados, quienes no podrán abstenerse de votar, salvo que tengan impedimento legal.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-2. La magistrada o magistrado que disienta de la mayoría podrá formular voto particular en un plazo no mayor de tres días, que se insertará en la ejecutoria respectiva, salvo en el caso de la Sala Constitucional, que se regirá por la ley de la materia.
+2. La magistrada o magistrado que disienta de la mayoría podrá formular voto particular en un plazo no mayor de tres días, que se insertará en la ejecutoria respectiva.
 
 3. (DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
@@ -609,17 +613,11 @@ Artículo 30
 
 2. Cada una de las salas contará por lo menos con una notificadora o notificador o actuaria o actuario quien hará las notificaciones de la sala y las del Tribunal según la materia que corresponda.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(DEROGADO, P.O. 26 DE MAYO DE 2023)</small>
 
 ### CAPÍTULO II. DE LA SALA CONSTITUCIONAL
 
-Artículo 31
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2017)</small>
-
-La Sala Constitucional, tendrá competencia para conocer y resolver los asuntos que le confiere la Constitución Política del Estado y las leyes aplicables.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+Artículo 31 (DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 Artículo 31 Bis (DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
@@ -2437,11 +2435,7 @@ Artículo 139
 
 3. Para la modificación de la jurisprudencia del Tribunal se observarán las mismas reglas establecidas en esta Ley para su formación.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
-
-Artículo 140
-
-Las tesis y criterios que al efecto fije la Sala Constitucional, se regirán por las leyes aplicables.
+Artículo 140 (DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
 
@@ -2818,3 +2812,11 @@ P.O. 13 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente Decreto, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones establecidas en el presente Decreto.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Todas aquellas referencias en cualquier disposición normativa que se realicen a la Sala Constitucional se entenderán al Pleno del Tribunal Superior de Justicia.
