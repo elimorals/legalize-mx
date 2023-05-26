@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-control-constitucional-del-estado-de-nayarit-75309"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-02"
-last_updated: "2020-12-23"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE DICIEMBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 2 de junio de 2010.
 
@@ -49,15 +47,17 @@ LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT
 
 La presente ley es de orden público y de observancia general y tiene por objeto reglamentar los procedimientos a que se refiere el artículo 91 de la Constitución local.
 
-La Sala Constitucional conocerá y resolverá con base en las disposiciones de la presente ley, las controversias constitucionales, las acciones de inconstitucionalidad, las acciones de inconstitucionalidad por omisión, de las cuestiones de inconstitucionalidad y del juicio de protección de derechos fundamentales.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+El Pleno del Tribunal conocerá y resolverá con base en las disposiciones de la presente ley, las controversias constitucionales, las acciones de inconstitucionalidad y de las acciones de inconstitucionalidad por omisión.
 
-Asimismo, en términos de la fracción VIII del artículo 91 de la Constitución local, la Sala Constitucional conocerá y resolverá el recurso de apelación previsto en la Ley General de Responsabilidades Administrativas. Su substanciación será de conformidad con el Capítulo VI del Título Segundo de la presente Ley.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 2.
 
-En la interpretación y aplicación de esta ley, la Sala Constitucional deberá preservar la observancia y exacto cumplimiento de la supremacía de la Constitución local.
+En la interpretación y aplicación de esta ley, el Pleno del Tribunal Superior de Justicia deberá preservar la observancia y exacto cumplimiento de la supremacía de la Constitución local.
 
 A falta de disposición expresa, se estará a las prevenciones del Código de Procedimientos Civiles del Estado de Nayarit y los principios generales del derecho.
 
@@ -91,25 +91,31 @@ VI. Ley orgánica: Ley Orgánica del Poder Judicial del Estado;
 
 VII. Periódico oficial: Periódico Oficial, Órgano del Gobierno del Estado de Nayarit;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2023)</small>
 
-VIII. Presidente de la sala: Presidente de la Sala Constitucional;
+VIII. Magistrado Instructor: Al Magistrado integrante del Tribunal Superior de Justicia que, en razón de turno, se le encomiende la función de seguimiento, estudio, instrucción y elaboración del proyecto de resolución de un asunto.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-IX. Procesos constitucionales: las controversias constitucionales, las acciones de inconstitucionalidad, las acciones de inconstitucionalidad por omisión, de las cuestiones de inconstitucionalidad, del juicio de protección de derechos fundamentales y recursos en materia de responsabilidad administrativa;
+IX. Pleno del Tribunal: Pleno del Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-X. Sala Constitucional: Sala Constitucional del Tribunal Superior de Justicia del Estado de Nayarit, y
+X. Presidente: Magistrada o Magistrado elegido para presidir el Pleno del Tribunal Superior de Justicia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-XI. UMA: Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+XI. Procesos constitucionales: Las controversias constitucionales, las acciones de inconstitucionalidad y de las acciones de inconstitucionalidad por omisión, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE MAYO DE 2023)</small>
+
+XII. UMA: Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 3.
 
-La Sala Constitucional deberá sujetarse a los siguientes principios:
+El Pleno del Tribunal deberá sujetarse a los siguientes principios:
 
 I. Interpretación conforme a la Constitución, sólo podrá determinarse la inconstitucionalidad de una ley, reglamento, disposición general o acto, cuando no sea posible encontrar una interpretación conforme a la Constitución;
 
@@ -159,15 +165,19 @@ Las notificaciones surtirán sus efectos a partir del día siguiente al en que h
 
 Las notificaciones que no fueren hechas en la forma establecida en este capítulo serán nulas. Declarada la nulidad, se instaurará de oficio el procedimiento sancionador en contra del responsable ante la autoridad competente. En el supuesto de ser reincidente, se establecerá como medida cautelar su separación temporal del cargo.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 9.
 
-Cuando alguna de las partes radique fuera del lugar de residencia de la Sala Constitucional, las promociones se tendrán por presentadas en tiempo si los escritos u oficios relativos se depositan dentro de los términos legales en las oficinas de correos, mediante pieza certificada con acuse de recibo o se envíen desde la oficina de telégrafos que corresponda al lugar de su residencia.
+Cuando alguna de las partes radique fuera del lugar de residencia del Tribunal Superior de Justicia del Poder Judicial, las promociones se tendrán por presentadas en tiempo si los escritos u oficios relativos se depositan dentro de los términos legales en las oficinas de correos, mediante pieza certificada con acuse de recibo o se envíen desde la oficina de telégrafos que corresponda al lugar de su residencia.
 
 ### Capítulo IV. De los medios de apremio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 10.
 
-Para hacer cumplir las disposiciones del presente ordenamiento, la Sala Constitucional, podrá aplicar, sin sujetarse necesariamente al orden establecido, los medios de apremio y las correcciones disciplinarias siguientes:
+Para hacer cumplir las disposiciones del presente ordenamiento, el Pleno del Tribunal, podrá aplicar, sin sujetarse necesariamente al orden establecido, los medios de apremio y las correcciones disciplinarias siguientes:
 
 I. Apercibimiento;
 
@@ -243,11 +253,13 @@ Los incidentes se sustanciarán en una audiencia en la que el magistrado instruc
 
 La suspensión se tramitará por vía incidental y podrá ser solicitada por las partes en cualquier tiempo hasta antes de que se dicte sentencia definitiva.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 18.
 
-Tratándose de las controversias constitucionales y del juicio de protección de derechos fundamentales el magistrado instructor, de oficio o a petición de parte, podrá conceder la suspensión del acto que los motivare, hasta antes de que se dicte la sentencia definitiva. La suspensión se concederá con base en los elementos que sean proporcionados por las partes o recabados por el magistrado instructor en términos del artículo 40 de la presente ley, en aquello que resulte aplicable.
+Tratándose de las controversias constitucionales el magistrado instructor, de oficio o a petición de parte, podrá conceder la suspensión del acto que los motivare, hasta antes de que se dicte la sentencia definitiva. La suspensión se concederá con base en los elementos que sean proporcionados por las partes o recabados por el magistrado instructor en términos del artículo 40 de la presente ley, en aquello que resulte aplicable.
 
-Con excepción del juicio de protección de derechos fundamentales, la suspensión no podrá otorgarse en aquellos casos en que la controversia constitucional se hubiere planteado respecto de normas generales.
+La suspensión no podrá otorgarse en aquellos casos en que la controversia constitucional se hubiere planteado respecto de normas generales.
 
 ###### Artículo 19.
 
@@ -257,7 +269,9 @@ La suspensión no podrá concederse en los casos en que se pongan en peligro la 
 
 Hasta en tanto no se dicte la sentencia definitiva, el magistrado instructor podrá modificar o revocar el auto de suspensión, siempre que ocurra un hecho superveniente que lo fundamente.
 
-Si la suspensión hubiere sido concedida por la Sala Constitucional al resolver el recurso de reclamación previsto en el artículo 54 de la presente ley, el magistrado instructor someterá a la consideración de la propia Sala Constitucional los hechos supervenientes que fundamenten la modificación o revocación de la misma, a efecto de que ésta resuelva lo conducente.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+Si la suspensión hubiere sido concedida por el Pleno del Tribunal al resolver el recurso de reclamación previsto en el artículo 54 de la presente ley, el magistrado instructor someterá a la consideración del propio Pleno del Tribunal los hechos supervenientes que fundamenten la modificación o revocación de la misma, a efecto de que ésta resuelva lo conducente.
 
 ###### Artículo 21.
 
@@ -281,9 +295,9 @@ V. Normas generales o actos cuyos efectos hayan cesado;
 
 VI. Normas generales o actos cuando no se haya agotado la vía legalmente prevista para la solución del propio conflicto o la demanda se presentare fuera de los términos previstos en la ley;
 
-VII. Actos que no afecten el interés jurídico del actor, en tratándose de juicio de protección de derechos fundamentales;
+VII. (DEROGADA, P.O. 26 DE MAYO DE 2023)
 
-VIII. Actos que se hayan consumado de modo irreparable o se hubieren consentido expresa o tácitamente, en tratándose del juicio de protección de derechos fundamentales;
+VIII. (DEROGADA, P.O. 26 DE MAYO DE 2023)
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
@@ -295,7 +309,7 @@ X. Las resoluciones o declaraciones del Congreso del Estado o de sus respectivas
 
 > <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
-XI.- En los demás casos en que la improcedencia resulte de alguna disposición de esta ley.
+XI. En los demás casos en que la improcedencia resulte de alguna disposición de esta ley.
 
 En todo caso, las causales de improcedencia deberán examinarse de oficio.
 
@@ -303,7 +317,9 @@ En todo caso, las causales de improcedencia deberán examinarse de oficio.
 
 El sobreseimiento procederá cuando:
 
-I. La parte actora se desista expresamente de la demanda interpuesta en contra de actos, sin que en ningún caso pueda hacerlo tratándose de normas generales, con excepción del juicio de protección de derechos fundamentales;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+I. La parte actora se desista expresamente de la demanda interpuesta en contra de actos, sin que en ningún caso pueda hacerlo tratándose de normas generales;
 
 II. Durante el juicio apareciere o sobreviniere alguna de las causas de improcedencia a que se refiere el artículo anterior;
 
@@ -323,7 +339,9 @@ El sobreseimiento no prejuzga sobre la responsabilidad en que haya incurrido la 
 
 El escrito de demanda deberá señalar:
 
-I. La autoridad o persona actor, domicilio para recibir notificaciones en el lugar de residencia de la Sala Constitucional, así como el nombre, firma y cargo del funcionario que los represente;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+I. La autoridad o persona actor (sic), domicilio para recibir notificaciones en el lugar de residencia del Tribunal Superior de Justicia, así como el nombre, firma y cargo del funcionario que los represente;
 
 II. La autoridad demandada y su domicilio;
 
@@ -339,31 +357,13 @@ VII. La manifestación de los hechos o abstenciones que le consten al actor y qu
 
 VIII. Los conceptos de invalidez.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+Artículo 25 bis.- (DEROGADO, P.O. 26 DE MAYO DE 2023)
 
-Artículo 25 bis.- El escrito en que se interponga el recurso de apelación en materia de responsabilidad administrativa, deberá precisar:
-
-I. La autoridad o persona actor, domicilio para recibir notificaciones en el lugar de residencia de la Sala Constitucional, así como el nombre, firma y cargo del funcionario que los represente;
-
-II. La autoridad que emitió la Sentencia que se impugna y su domicilio;
-
-III. Las autoridades o terceros interesados, si los hubiere, y sus domicilios;
-
-IV. La resolución definitiva cuya invalidez se demande, y fecha en que le fue notificada;
-
-V. Precisar la pretensión del actor;
-
-VI. Los preceptos constitucionales y legales que, en su caso, se estimen violados;
-
-VII. La manifestación de los hechos o abstenciones que le consten al actor y que constituyan los antecedentes de la resolución definitiva impugnada, y
-
-VIII. Los conceptos de invalidez en vía de agravio.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 26.
 
-El escrito de contestación de demanda, del recurso o el informe de la autoridad responsable deberán contener, cuando menos:
+El escrito de contestación de demanda, el informe de la autoridad responsable deberán contener, cuando menos:
 
 I. La relación precisa de cada uno de los hechos narrados por la parte actora, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo cómo ocurrieron, y
 
@@ -371,9 +371,7 @@ I. La relación precisa de cada uno de los hechos narrados por la parte actora, 
 
 II. Las razones o fundamentos jurídicos que se estimen pertinentes para sostener la validez, constitucionalidad y legalidad de la resolución definitiva de que se trate.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
-
-Tratándose del recurso de apelación en materia de responsabilidades administrativas, la Sala Especializada en la materia del Tribunal de Justicia Administrativa, remitirá a la Sala Constitucional copia certificada de las constancias que obren en autos del expediente junto con el Informe Justificado en el que manifieste en su caso, los motivos de improcedencia del recurso.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 27.
 
@@ -387,13 +385,13 @@ Las demandas o promociones sujetas a término podrán presentarse fuera del hora
 
 ### Capítulo IX. De las reglas comunes en la instrucción
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 29.
 
-Recibida la demanda o el recurso de apelación en materia de responsabilidades administrativas, el Presidente de la Sala Constitucional designará, según el turno que corresponda, al Magistrado instructor a fin de que ponga el proceso en estado de resolución.
+Recibida la demanda el Presidente designará, según el turno que corresponda, al Magistrado instructor a fin de que ponga el proceso en estado de resolución.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 30.
 
@@ -449,9 +447,11 @@ Abierta la audiencia se certificará que las partes hayan sido debidamente notif
 
 En todo tiempo, el magistrado instructor podrá recabar pruebas para mejor proveer, fijando al efecto fecha para su desahogo. Asimismo, el propio magistrado podrá requerir a las partes para que proporcionen los informes o aclaraciones que estime necesarios para la mejor resolución del asunto.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 41.
 
-Una vez concluida la audiencia, el magistrado instructor someterá a la consideración de la Sala Constitucional el proyecto de resolución respectivo en los términos previstos en la presente ley.
+Una vez concluida la audiencia, el magistrado instructor someterá a la consideración del Pleno del Tribunal el proyecto de resolución respectivo en los términos previstos en la presente ley.
 
 ###### Artículo 42.
 
@@ -463,17 +463,19 @@ No procederá la acumulación de procedimientos de medios de control constitucio
 
 La sentencia deberá dictarse dentro de los 30 días siguientes al cierre de la instrucción, salvo que en esta ley se señala un término distinto.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 44.
 
-En todos los casos la Sala Constitucional deberá suplir la deficiencia de la demanda, contestación, alegatos o conceptos de invalidez.
+En todos los casos el Pleno del Tribunal deberá suplir la deficiencia de la demanda, contestación, alegatos o conceptos de invalidez.
 
 ###### Artículo 45.
 
 Las sentencias deberán contener:
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-I. La fijación breve y precisa de las normas generales, de los actos objeto del medio de control constitucional o de la resolución de responsabilidad administrativa recurrida y, en su caso, la apreciación de las pruebas conducentes a tenerlos o no por demostrados;
+I. La fijación breve y precisa de las normas generales, de los actos objeto del medio de control constitucional y, en su caso, la apreciación de las pruebas conducentes a tenerlos o no por demostrados;
 
 II. Los preceptos que la fundamenten;
 
@@ -483,57 +485,69 @@ III. Las consideraciones que sustenten su sentido, así como los preceptos que e
 
 IV. Los alcances y efectos de la sentencia, fijando con precisión, en su caso, los organismos obligados a cumplirla, las normas generales, los actos o la resolución respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda. Cuando la sentencia declare la invalidez de una norma general, sus efectos deberán extenderse a todas aquellas normas cuya validez dependa de la propia norma invalidada;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-V. Los puntos resolutivos que decreten el sobreseimiento, o declaren la validez o invalidez de las normas generales, actos impugnados o resoluciones de responsabilidad administrativa, y en su caso la absolución o condena respectivas, fijando el término para el cumplimiento de las actuaciones que se señalen, y
+V. Los puntos resolutivos que decreten el sobreseimiento, o declaren la validez o invalidez de las normas generales, actos impugnados, fijando el término para el cumplimiento de las actuaciones que se señalen, y
 
 VI. En su caso, el término en el que la parte condenada deba realizar una actuación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 46.
 
-Siempre que las controversias versen sobre disposiciones generales a las que se refieren las fracciones I y II del artículo 91 de la Constitución Local, y la resolución de la Sala Constitucional las declare inválidas, dicha resolución tendrá efectos generales cuando hubiera sido aprobada por una mayoría de por lo menos cuatro votos.
+Siempre que las controversias versen sobre disposiciones generales a las que se refieren las fracciones I y II del artículo 91 de la Constitución Local, y la resolución del Pleno del Tribunal las declare inválidas, dicha determinación tendrá efectos generales cuando hubiera sido aprobada por una mayoría de por lo menos ocho votos.
 
 En todos los demás casos las resoluciones tendrán efectos únicamente respecto de las partes en la controversia.
 
 El magistrado que disienta de la mayoría podrá formular voto particular.
 
-En aquellas controversias respecto de normas generales en que no se alcance la votación mencionada en el párrafo primero del presente artículo, la Sala Constitucional declarará desestimadas dichas controversias.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+En aquellas controversias respecto de normas generales en que no se alcance la votación mencionada en el párrafo primero del presente artículo, el Pleno del Tribunal declarará desestimadas dichas controversias.
 
 ###### Artículo 47.
 
 Las razones contenidas en los considerandos que funden los resolutivos de las sentencias aprobadas por cuando menos cuatro votos, serán obligatorias para las Salas del Tribunal Superior de Justicia, Juzgados del Poder Judicial, Tribunales Administrativos y del Trabajo del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 48.
 
-Dictada la sentencia, el Presidente de la sala ordenará notificarla a las partes, y mandará publicarla de manera íntegra en el Boletín Judicial, conjuntamente con los votos particulares que se formulen, en su caso.
+Dictada la sentencia, el Presidente ordenará notificarla a las partes, y mandará publicarla de manera íntegra en el Boletín Judicial, conjuntamente con los votos particulares que se formulen, en su caso.
 
 Cuando en la sentencia se declare la invalidez de normas generales, se ordenará, además, su inserción en el Periódico Oficial y en el órgano oficial en que tales normas se hubieren publicado.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 49.
 
-Las sentencias producirán sus efectos a partir de la fecha que determine la Sala Constitucional.
-
-La declaración de invalidez en las sentencias no tendrá efectos retroactivos, salvo en materia penal, en la que regirán los principios generales y disposiciones legales aplicables de esta materia.
+Las sentencias producirán sus efectos a partir de la fecha que determine el Pleno del Tribunal.
 
 ### Capítulo XI. De la ejecución de sentencias
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 50.
 
-Las partes condenadas informarán en el término otorgado en la sentencia, del cumplimiento de la misma al Presidente de la sala, quien resolverá si aquélla ha quedado debidamente cumplida.
+Las partes condenadas informarán en el término otorgado en la sentencia, del cumplimiento de la misma al Presidente, quien resolverá si aquélla ha quedado debidamente cumplida.
 
-Una vez transcurrido el término fijado en la sentencia para el cumplimiento de alguna actuación sin que ésta se hubiere producido, las partes podrán solicitar al Presidente de la sala que requiera a la obligada para que de inmediato informe sobre su cumplimiento. Si dentro de las cuarenta y ocho horas siguientes a la notificación de dicho requerimiento la ejecutoria no estuviere cumplida, cuando la naturaleza del acto así lo permita, no se encontrase en vía de ejecución o se tratare de eludir su cumplimiento, el Presidente de la sala turnará el asunto al magistrado ponente para que someta al Pleno el proyecto por el cual se aplique las medidas necesarias para el cumplimiento de la sentencia, en los términos de las disposiciones aplicables.
+Una vez transcurrido el término fijado en la sentencia para el cumplimiento de alguna actuación sin que ésta se hubiere producido, las partes podrán solicitar al Presidente que requiera a la obligada para que de inmediato informe sobre su cumplimiento. Si dentro de las cuarenta y ocho horas siguientes a la notificación de dicho requerimiento la ejecutoria no estuviere cumplida, cuando la naturaleza del acto así lo permita, no se encontrase en vía de ejecución o se tratare de eludir su cumplimiento, el Presidente turnará el asunto al magistrado ponente para que someta al Pleno el proyecto por el cual se aplique las medidas necesarias para el cumplimiento de la sentencia, en los términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 51.
 
-Cuando cualquier autoridad aplique una norma general o acto declarado inválido, cualquiera de las partes podrá denunciar el hecho ante el Presidente de la sala, quien dará vista a la autoridad señalada como responsable, para que en el término de quince días deje sin efectos el acto que se le reclame, o para que alegue lo que conforme a derecho corresponda.
+Cuando cualquier autoridad aplique una norma general o acto declarado inválido, cualquiera de las partes podrá denunciar el hecho ante el Presidente, quien dará vista a la autoridad señalada como responsable, para que en el término de quince días deje sin efectos el acto que se le reclame, o para que alegue lo que conforme a derecho corresponda.
 
-Si en los casos previstos anteriormente, las autoridades no dejan sin efectos los actos de que se trate, el Presidente de la sala turnará el asunto al Magistrado Ponente para que a la vista de los alegatos, si los hubiere, someta a la Sala Constitucional la resolución respectiva a esta cuestión. Si el Pleno declara que efectivamente hay una repetición o aplicación indebida de una norma general o acto declarado inválido, procederá en los términos del último párrafo del artículo anterior.
+Si en los casos previstos anteriormente, las autoridades no dejan sin efectos los actos de que se trate, el Presidente turnará el asunto al Magistrado Ponente para que a la vista de los alegatos, si los hubiere, someta al Pleno del Tribunal la resolución respectiva a esta cuestión. Si el Pleno declara que efectivamente hay una repetición o aplicación indebida de una norma general o acto declarado inválido, procederá en los términos del último párrafo del artículo anterior.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 52.
 
-Lo dispuesto en el artículo anterior, se entenderá sin perjuicio de que el Presidente de la sala haga cumplir la ejecutoria de que se trate, dictando las providencias que estime necesarias.
+Lo dispuesto en el artículo anterior, se entenderá sin perjuicio de que el Presidente haga cumplir la ejecutoria de que se trate, dictando las providencias que estime necesarias.
 
-Procederá el recurso de reclamación en contra del auto o resolución del Presidente de la sala que establezca las providencias referidas en el presente artículo.
+Procederá el recurso de reclamación en contra del auto o resolución del Presidente que establezca las providencias referidas en el presente artículo.
 
 ###### Artículo 53.
 
@@ -547,9 +561,9 @@ No podrá archivarse ningún expediente sin que quede cumplida la sentencia o se
 
 El recurso de reclamación procederá contra:
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-I. Los autos o resoluciones que admitan o desechen una demanda o un recurso de apelación en materia de responsabilidad administrativa, su contestación o sus respectivas ampliaciones;
+I. Los autos o resoluciones que admitan o desechen una demanda, su contestación o sus respectivas ampliaciones;
 
 II. Los autos o resoluciones que pongan fin a la controversia o que por su naturaleza trascendental y grave puedan causar un agravio material a alguna de las partes no reparable en la sentencia definitiva;
 
@@ -559,7 +573,9 @@ IV. Los autos del magistrado instructor en que se otorgue, niegue, modifique o r
 
 V. Los autos o resoluciones del magistrado instructor que admitan o desechen pruebas;
 
-VI. Los autos o resoluciones del Presidente de la sala que tengan por cumplimentadas las ejecutorias dictadas por ésta, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+VI. Los autos o resoluciones del Presidente que tengan por cumplimentadas las ejecutorias dictadas por ésta, y
 
 VII. En los demás casos que señale esta ley.
 
@@ -567,9 +583,11 @@ VII. En los demás casos que señale esta ley.
 
 El recurso de reclamación deberá interponerse dentro de los cinco días y en él deberán expresarse agravios y en su caso ofrecerse pruebas.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 56.
 
-El recurso de reclamación se promoverá ante el Presidente de la sala, quien correrá traslado a las demás partes para que dentro del término de cinco días aleguen lo que a su derecho convenga. Transcurrido este último término, el Presidente de la sala turnará los autos a un magistrado distinto del instructor a fin de que elabore el proyecto de resolución que deba someterse al Pleno dentro del término de quince días.
+El recurso de reclamación se promoverá ante el Presidente, quien correrá traslado a las demás partes para que dentro del término de cinco días aleguen lo que a su derecho convenga. Transcurrido este último término, el Presidente turnará los autos a un magistrado distinto del instructor a fin de que elabore el proyecto de resolución que deba someterse al Pleno dentro del término de quince días.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -593,7 +611,9 @@ El recurso de queja se interpondrá:
 
 I. En los casos de la fracción I del artículo 58, ante el magistrado instructor hasta en tanto se falle la controversia en lo principal, y
 
-II. Tratándose del (sic) fracción II del propio artículo 58, ante el Presidente de la sala dentro del año siguiente al de la notificación a la parte interesada de los actos por los que se haya dado cumplimiento a la sentencia, o al en que la entidad o poder extraño afectado por la ejecución tenga conocimiento de esta última.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+II. Tratándose de la fracción II del propio artículo 58, ante el Presidente dentro del año siguiente al de la notificación a la parte interesada de los actos por los que se haya dado cumplimiento a la sentencia, o al en que la entidad o poder extraño afectado por la ejecución tenga conocimiento de esta última.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -601,7 +621,9 @@ II. Tratándose del (sic) fracción II del propio artículo 58, ante el Presiden
 
 Admitido el recurso se requerirá a la autoridad contra la cual se hubiere interpuesto para que dentro de un término de quince días deje sin efectos la norma general o acto que diere lugar al recurso o, para que rinda un informe y ofrezca pruebas. La falta o deficiencia de este informe establecerá la presunción de ser ciertos los hechos imputados, sin perjuicio de que se le imponga multa de diez a ciento ochenta veces la UMA.
 
-Transcurrido el término señalado en el párrafo anterior y siempre que subsista la materia del recurso, en el supuesto de la fracción I del artículo 59, el magistrado instructor fijará fecha para la celebración de una audiencia dentro de los diez días siguientes a fin de que se desahoguen las pruebas y se formulen por escrito los alegatos; para el caso de la fracción II del artículo 59, el Presidente de la sala, turnará el expediente a un magistrado instructor para los mismos efectos.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+Transcurrido el término señalado en el párrafo anterior y siempre que subsista la materia del recurso, en el supuesto de la fracción I del artículo 59, el magistrado instructor fijará fecha para la celebración de una audiencia dentro de los diez días siguientes a fin de que se desahoguen las pruebas y se formulen por escrito los alegatos; para el caso de la fracción II del artículo 59, el Presidente, turnará el expediente a un magistrado instructor para los mismos efectos.
 
 ###### Artículo 61.
 
@@ -615,9 +637,11 @@ II. En el caso a que se refiere la fracción II del artículo 58, que se proceda
 
 ### Capítulo I. De las controversias constitucionales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 62.
 
-La Sala Constitucional conocerá de las controversias constitucionales que se susciten entre:
+El Pleno del Tribunal conocerá de las controversias constitucionales que se susciten entre:
 
 I. El Poder Legislativo y el Ejecutivo;
 
@@ -645,11 +669,15 @@ I. Tratándose de actos, de treinta días contados a partir del día siguiente a
 
 II. Tratándose de normas generales, de treinta días contados a partir del día siguiente a la fecha de su publicación, o del día siguiente al en que se produzca el primer acto de aplicación de la norma que dé lugar a la controversia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 65.
 
-Las sentencias que resuelven controversias constitucionales establecerán en definitiva que autoridad es la competente.
+La sentencia que resuelve una controversia constitucional establecerá en definitiva cual autoridad es la competente.
 
-La Sala Constitucional, podrá disponer lo que fuera procedente respecto de las situaciones de hecho o de derecho generadas al amparo de la competencia controvertida.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+El Pleno del Tribunal, podrá disponer lo que fuera procedente respecto de las situaciones de hecho o de derecho generadas conforme a la competencia controvertida.
 
 Las sentencias producirán sus efectos a partir de la fecha que en las mismas se determine.
 
@@ -679,7 +707,9 @@ El término para ejercitar la acción de inconstitucionalidad será de treinta d
 
 En los casos previstos en las fracciones II y III del artículo 66 de la presente ley, la demanda en que se ejercite la acción deberá estar firmada por cuando menos una tercera parte de los integrantes de los correspondientes órganos que hayan emitido la norma.
 
-La parte demandante, deberá designar como representantes comunes a cuando menos dos de sus integrantes, quienes actuarán conjunta o separadamente durante todo el procedimiento y aun después de concluido éste. Si no se designaren representantes comunes, el Presidente de la sala lo hará de oficio. Los representantes comunes podrán autorizar delegados para que hagan promociones, concurran a las audiencias y en ellas rindan pruebas y formulen alegatos, así como para que promuevan los incidentes y recursos previstos en esta ley.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+La parte demandante, deberá designar como representantes comunes a cuando menos dos de sus integrantes, quienes actuarán conjunta o separadamente durante todo el procedimiento y aun después de concluido éste. Si no se designaren representantes comunes, el Presidente lo hará de oficio. Los representantes comunes podrán autorizar delegados para que hagan promociones, concurran a las audiencias y en ellas rindan pruebas y formulen alegatos, así como para que promuevan los incidentes y recursos previstos en esta ley.
 
 ###### Artículo 69.
 
@@ -705,11 +735,15 @@ Después de presentados los informes previstos en el artículo 69 o habiendo tra
 
 Hasta antes de dictarse sentencia, el magistrado instructor podrá solicitar a las partes o a quien juzgue conveniente, todos aquellos elementos que a su juicio resulten necesarios para la mejor solución del asunto.
 
-Agotado el procedimiento, el magistrado instructor propondrá al Pleno de la Sala Constitucional el proyecto de sentencia para la resolución definitiva del asunto planteado.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
+Agotado el procedimiento, el magistrado instructor propondrá al Pleno del Tribunal el proyecto de sentencia para la resolución definitiva del asunto planteado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 74.
 
-El Presidente de la sala, de oficio o a petición de parte, podrá decretar la acumulación de dos o más acciones de inconstitucionalidad siempre que en ellas se impugne la misma norma.
+El Presidente de oficio o a petición de parte, podrá decretar la acumulación de dos o más acciones de inconstitucionalidad siempre que en ellas se impugne la misma norma.
 
 Cuando exista conexidad entre acciones de inconstitucionalidad, controversias constitucionales y juicios de protección de derechos fundamentales, se estará a lo dispuesto en el artículo 42 de esta ley.
 
@@ -717,9 +751,11 @@ Cuando exista conexidad entre acciones de inconstitucionalidad, controversias co
 
 Contra los autos del magistrado instructor que decreten la improcedencia o el sobreseimiento de la acción procederá el recurso de reclamación.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 76.
 
-Al dictar sentencia, la Sala Constitucional deberá corregir los errores que advierta en la cita de los preceptos invocados y suplirá los conceptos de invalidez planteados en la demanda. La Sala Constitucional podrá fundar su declaratoria de inconstitucionalidad en la violación de cualquier precepto constitucional, haya o no sido invocado en el escrito inicial.
+Al dictar sentencia, el Pleno del Tribunal deberá corregir los errores que advierta en la cita de los preceptos invocados y suplirá los conceptos de invalidez planteados en la demanda. El Pleno del Tribunal podrá fundar su declaratoria de inconstitucionalidad en la violación de cualquier precepto constitucional, haya o no sido invocado en el escrito inicial.
 
 ### Capítulo III. De las acciones de inconstitucionalidad por omisión
 
@@ -745,217 +781,143 @@ Si la demandada manifestare que su omisión obedece, a su vez, a la omisión de 
 
 La sentencia que declare fundada la acción deberá ser aprobada cuando menos por tres votos y fijará el plazo para que la autoridad omisa expida la norma, el cual no podrá exceder de un año.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2023)</small>
+
 ### Capítulo IV. De las cuestiones de inconstitucionalidad
 
 ###### Artículo 82.
 
-Las cuestiones de inconstitucionalidad podrán ser planteadas por cualquier autoridad u organismo autónomo, cuando consideren de oficio o a petición de parte, que una norma con carácter general, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución local.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 83.
 
-Los órganos jurisdiccionales del estado estarán obligados a plantear las cuestiones de inconstitucionalidad, cuando consideren, en algún proceso, que una norma, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución local.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 84.
 
-La cuestión de inconstitucionalidad, a petición de parte se promoverá, conforme a las reglas siguientes:
-
-I. Se presentará ante el tribunal, juez o autoridad que conozca del asunto hasta antes de que dicte su fallo definitivo, en donde se pretenda aplicar la norma objeto de la cuestión de inconstitucionalidad y señalará de manera clara las razones por las cuales se estima fundada la invalidez de la ley;
-
-II. El tribunal, juez o autoridad de que se trate, dentro de los tres días siguientes enviará la cuestión de inconstitucionalidad a la Sala Constitucional para su resolución definitiva, anexándole todas las constancias y antecedentes que estime pertinentes, y
-
-III. Recibido el asunto, el Presidente de la sala lo turnará a un magistrado instructor que se encargará de determinar su procedencia y, en su caso, elaborará el proyecto de resolución, para que el Pleno resuelva lo que corresponda.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 85.
 
-El tribunal, juez o autoridad de que se trate no suspenderá el trámite del procedimiento respectivo. En todo caso, suspenderá el pronunciamiento de la sentencia o la resolución de que se trate, si la ley cuyo contenido se cuestionó, resulta aplicable para tales supuestos.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 86.
 
-Si la Sala Constitucional determina la invalidez o validez de la ley el tribunal, juez o autoridad de que se trate, se deberá ajustar a dichas consideraciones para dictar su resolución definitiva.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 87.
 
-Las sentencias recaídas en las cuestiones de inconstitucionalidad, vincularán al tribunal, juez o autoridad de que se trate y a las partes desde el momento en que les sean notificadas.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2023)</small>
 
 ### Capítulo V. Del juicio de protección de derechos fundamentales
 
 ###### Artículo 88.
 
-El juicio de protección de derechos fundamentales procederá en contra de cualquier acto, hecho u omisión de la autoridad, que conculque los derechos fundamentales reconocidos por la Constitución local.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 89.
 
-El juicio será sumario y de una sola instancia. La Sala Constitucional suplirá la queja a favor de la parte agraviada.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 90.
 
-El juicio podrá promoverse por quien o quienes reciban un agravio personal y directo, por el acto de autoridad violatorio de los derechos fundamentales.
-
-Cuando existan violaciones de derechos fundamentales que puedan constituir crímenes de lesa humanidad, la Comisión Estatal de Derechos Humanos promoverá de oficio, el juicio de protección y lo continuará en todos sus trámites.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 91.
 
-Los menores de edad pueden promover el juicio de protección de derechos fundamentales aún cuando su representante legítimo esté ausente o impedido, en cuyo caso, el magistrado instructor, lo proveerá desde luego de uno especial; pero si ha cumplido catorce años, ellos podrán hacer la designación.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 92.
 
-El término para interponer la demanda del juicio de protección de derechos fundamentales será de veinte días hábiles, contados a partir del día siguiente al en que:
-
-I. Haya surtido efectos la notificación al agraviado del acto o actos, que a su juicio vulneren sus derechos fundamentales;
-
-II. Haya tenido conocimiento de ellos o de su ejecución, o
-
-III. Se hubiere ostentado sabedor de los mismos.
-
-Tratándose de violaciones de derechos fundamentales que puedan constituir crímenes de lesa humanidad, el término para interponer la demanda será de 60 días hábiles contados a partir de que el agraviado o la Comisión Estatal de Derechos Humanos hayan tenido conocimiento de ellas o de su ejecución.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 93.
 
-La demanda podrá presentarse por escrito, mediante correo certificado, telégrafo, fax, correo electrónico; por comparecencia verbal ante el Secretario de la Sala Constitucional o ante el Juez de primera instancia del lugar.
-
-Cuando la demanda se presente por correo, telégrafo, fax o correo electrónico, el juzgador en caso de ser procedente dictará preventivamente la suspensión del acto reclamado y ordenará la ratificación de la misma dentro de los tres días siguientes, proveyendo lo que resulte necesario para conseguirlo y de no hacerlo se tendrá por no presentada.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 94.
 
-Para el otorgamiento de la suspensión, el juzgador deberá estimar el acto tal como aparece en la demanda, procediendo a otorgarla siempre que no se desprenda de la misma, ninguno de los supuestos del artículo 19 de la presente ley, con absoluta independencia de que se haya solicitado o no por el promovente.
-
-Si del otorgamiento de la suspensión se desprende una posible afectación a derechos fundamentales de otra persona, el juzgador deberá hacer la ponderación respectiva, decidiendo de forma razonada sobre la concesión.
-
-La suspensión se otorgará o negará en el auto admisorio, procediendo, en caso de ser necesario, a notificarse por la vía más rápida posible a las partes. En igual término se otorgará copia certificada de la suspensión al promovente, sin costo alguno.
-
-Podrá revocarse la decisión sobre la suspensión en cualquier momento, atendiendo a las constancias en autos.
-
-Cuando la demanda se presente por escrito o de manera verbal ante el juez de primera instancia del lugar, procederá de forma inmediata a decidir sobre la suspensión del acto reclamado, ordenará las medidas necesarias para notificar de la misma a las partes y remitirá, en un término no mayor de veinticuatro horas, los autos a la Sala Constitucional, salvo que se presente un día inhábil, supuesto en el cual deberá presentarse al primer día hábil siguiente.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 95.
 
-Recibida la demanda, se turnará al magistrado instructor de la Sala Constitucional que corresponda, quien determinará la admisión o rechazo de la misma y decidirá sobre la suspensión del acto reclamado, sin que sea necesario formar incidente y en general proveerá todo lo conducente hasta poner el asunto en estado de resolución.
-
-En caso de que la suspensión haya sido otorgada o negada en el supuesto del tercer párrafo del artículo anterior, el magistrado instructor revisará de oficio la decisión del juez de primera instancia, ratificándola o modificándola.
-
-Se podrá proveer de forma separada sobre la suspensión y la admisión, cuando el acto reclamado aparezca como de ejecución inminente.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 96.
 
-Cuando el agraviado o autoridad demandada, no resida en la capital del Estado, podrá solicitar que las notificaciones personales le sean hechas por conducto del actuario adscrito al juzgado del partido judicial en que resida y que las notificaciones que deban hacérsele por estrado se hagan mediante su inclusión en la lista del mismo juzgado, a las que se acompañará copia certificada del auto o resolución para que se le entregue.
-
-Para los mismos efectos, podrá autorizar un número de teléfono, fax o correo electrónico.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 97.
 
-Admitida la demanda, se requerirá a la autoridad responsable para que en un término de hasta cinco días rinda un informe sobre los hechos que se le atribuyen.
-
-La falta de informe dentro del término legal por parte de la autoridad, tendrá el efecto de que se presuman ciertos los actos que se le imputan en la demanda, salvo prueba en contrario.
-
-En caso de que exista tercero perjudicado, se ordenará también su llamamiento a juicio, para que manifieste lo que a su interés corresponda.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 98.
 
-En un término de hasta diez días, contados a partir del auto que tenga por recibido el informe de la autoridad responsable, o por no rendido en su caso, siempre que se hayan ofrecido pruebas distintas a las documentales, se desahogarán en una audiencia que no admitirá suspensión, división o retraso, salvo el caso de fuerza mayor. Concluida la audiencia, las partes podrán formular alegatos.
-
-Es responsabilidad del magistrado instructor ordenar la realización de todos los actos necesarios para el desahogo de la audiencia y la preparación de las pruebas, debiendo cualquier autoridad o particular prestar el apoyo requerido.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 99.
 
-La sentencia se dictará dentro del término de quince días, contados a partir de la conclusión de la audiencia, sin que sea necesario que se cite para sentencia.
-
-Si las únicas pruebas admitidas son documentales, la Sala Constitucional dictará resolución en un término no mayor de quince días, contados desde la recepción de la contestación o el vencimiento del término para la misma, sin que sea necesario auto que cite para sentencia. En este caso, las partes podrán presentar sus alegatos hasta antes del dictado de la resolución.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 100.
 
-Las sentencias en materia de juicio de protección de derechos fundamentales no contendrán declaraciones generales de inconstitucionalidad. Podrán tener los siguientes sentidos:
-
-I. Concesión de la protección, estableciendo en este caso el sentido de la protección y todo aquello que resulte necesario para su respeto y protección;
-
-II. Denegación de la protección. Si se deniega por incompetencia material, deberá indicarse tal situación en la sentencia y el tiempo transcurrido entre la presentación de la demanda y la resolución del juicio de protección suspenderá la prescripción negativa, y
-
-III. Interpretativa, estableciendo la constitucionalidad del acto o ley impugnado, pero fijando el sentido de su interpretación y ejecución de forma que se respete el derecho fundamental del promovente.
-
-En el caso de la fracción III, las consideraciones acerca de la interpretación y ejecución del acto serán obligatorias para la parte demandada.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 101.
 
-Los autos que dicte el magistrado instructor durante el proceso podrán impugnarse mediante el recurso de reclamación, previsto en esta ley.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 102.
 
-Las sentencias que concedan la protección de derechos deberán ser cumplidas dentro de un término no mayor de cuarenta y ocho horas, a partir del día siguiente a aquel en el cual surtió sus efectos la notificación personal a las autoridades responsables. En dicho mandamiento se les requerirá para que informen por escrito a la Sala Constitucional sobre el acatamiento del fallo.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 103.
 
-Si al concluir el término indicado en el artículo anterior, la sentencia no ha sido cumplida o no se halle en vías de ejecución, la Sala Constitucional, de oficio o a instancia de parte, solicitará a la autoridad que justifique la razón del incumplimiento. Si ésta no lo hace, se dará aviso al titular de la autoridad que corresponda, para que la obligue a cumplirla inmediatamente.
-
-Si la autoridad responsable, pese a habérselo ordenado el titular de la autoridad no cumple la sentencia, la Sala Constitucional, dejando copia certificada de las constancias, remitirá el original del expediente a la Procuraduría General de Justicia para que proceda conforme a derecho.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 104.
 
-Lo dispuesto en el artículo anterior, también se aplicará cuando se retarde el cumplimiento de la sentencia, mediante evasivas de la autoridad responsable.
-
-Los superiores jerárquicos de las autoridades responsables a quienes se hubiese requerido en términos de esta ley, serán también responsables por el incumplimiento de la sentencia.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 105.
 
-La repetición de los actos reclamados puede ser denunciada por la parte actora, ante la Sala Constitucional. Ésta dará vista con la denuncia, por el término de cinco días, a las autoridades y a los terceros interesados si los hubiere, para que expongan lo que a sus derechos convenga. La Sala Constitucional, en un término no mayor de quince días, resolverá lo procedente y, si es en el sentido de que en efecto existe la repetición, dispondrá las medidas necesarias para el cumplimiento de la sentencia emitida, haciendo uso de los medios de apremio previstos en esta ley.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 106.
 
-Si la autoridad que ha incurrido o coadyuvado en el incumplimiento de la sentencia es de las comprendidas en el artículo 125 de la Constitución local y la Sala Constitucional declarara que procede fincarle responsabilidad, mandará copia certificada de las constancias de autos al Congreso del Estado, para que proceda en los términos de la propia Constitución local.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ###### Artículo 107.
 
-Ningún juicio para la protección de derechos fundamentales podrá archivarse si la sentencia que lo resolvió no está cumplida, salvo que ya no hubiera materia para su ejecución.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2020)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2023)</small>
 
 ### Capítulo VI. Del Recurso de Apelación en Materia de Responsabilidades Administrativas
 
-(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020) (F. DE E., P.O. 23 DE DICIEMBRE DE 2020)
+Artículo 107 bis.- (DEROGADO, P.O. 26 DE MAYO DE 2023)
 
-Artículo 107 bis.- La Sala Constitucional conocerá y resolverá de los recursos de apelación que se interpongan en contra de las resoluciones emitidas por las Salas Especializadas en Materia de Responsabilidades Administrativas del Tribunal de Justicia Administrativa de Nayarit.
+Artículo 107 ter.- (DEROGADO, P.O. 26 DE MAYO DE 2023)
 
-Los responsables o los terceros, la Secretaría de la Contraloría General, los Órganos Internos de control de los entes públicos del Estado o la Auditoría Superior del Estado de Nayarit, promoverán el recurso de apelación mediante escrito ante la Sala Especializada del Tribunal de Justicia Administrativa que emitió la resolución, dentro del término de quince días hábiles siguientes a aquél en que surta sus efectos la notificación de la resolución que se recurre.
-
-El escrito de interposición deberá satisfacer los requisitos previstos por el artículo 25 bis de la presente Ley.
-
-El recurso será substanciado atendiendo a las siguientes disposiciones:
-
-I. La Sala Constitucional deberá resolver en el plazo de tres días hábiles si admite el recurso de apelación, o lo desecha por encontrar motivo manifiesto e indudable de improcedencia.
-
-Si hubiera irregularidades en el escrito del recurso por no haberse satisfecho los requisitos establecidos en el artículo 25 bis de esta Ley, y en su caso, del 215 de la Ley General de Responsabilidad (sic) Administrativas, se señalará al promovente un plazo que no excederá de tres días hábiles, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa;
-
-II. La Sala Constitucional dará vista a las partes para que, en el término de tres días hábiles, manifiesten lo que a su derecho convenga; vencido este término se procederá a resolver con los elementos que obren en autos;
-
-III. La Sala Constitucional procederá al estudio de los conceptos de agravio, atendiendo a su prelación lógica. En todos los casos, se privilegiará el estudio de los conceptos de agravio que atañan al fondo de la litis, por encima de los de procedimiento y forma, a menos que invertir el orden dé la certeza de la inocencia del servidor público o del particular, o de ambos; o que en el caso de que el recurrente sea la autoridad investigadora, las violaciones de forma hayan impedido conocer con certeza la inocencia de los involucrados.
-
-En los asuntos en los que se desprendan violaciones de fondo de las cuales pudiera derivarse el sobreseimiento del procedimiento de responsabilidad administrativa, la inocencia del recurrente, o la determinación de culpabilidad respecto de alguna conducta, se le dará preferencia al estudio de aquéllas aún de oficio, y
-
-IV. En el caso de ser revocada la sentencia o de que su modificación así lo disponga, cuando el recurrente sea el servidor público o el particular, se ordenará al ente público en el que se preste o haya prestado sus servicios, lo restituya de inmediato en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones impugnadas, en los términos de la sentencia respectiva, sin perjuicio de lo que establecen otras leyes.
-
-Se exceptúan del párrafo anterior, los agentes del Ministerio Público, peritos oficiales y miembros de las instituciones policiales; casos en los que la Fiscalía General del Estado y las instituciones policiales estatales y municipales sólo estarán obligadas a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio, en los términos previstos en el apartado B, fracción XIII, del artículo 123 de la Constitución.
-
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
-
-Artículo 107 ter.- Procederá el recurso de apelación contra las resoluciones siguientes:
-
-I. La que determine imponer sanciones por la comisión de faltas administrativas graves o faltas de particulares, y
-
-II. La que determine que no existe responsabilidad administrativa por parte de los presuntos infractores, ya sean servidores públicos o particulares.
-
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2020)</small>
-
-Artículo 107 quater.- En contra de la resolución dictada por la Sala Constitucional al resolver el recurso a que se refiere el presente Capítulo, no procederá juicio ni recurso alguno.
+Artículo 107 quater.- (DEROGADO, P.O. 26 DE MAYO DE 2023)
 
 ## TÍTULO TERCERO. DE LA JURISPRUDENCIA EN MATERIA CONSTITUCIONAL
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 108.
 
-La Sala Constitucional formará jurisprudencia cuando:
+El Pleno del Tribunal formará jurisprudencia cuando:
 
 I. En una sentencia establezca la inconstitucionalidad de una norma de carácter general, ya sean del Estado o de los Municipios;
 
-II. En dos sentencias reitere en forma ininterrumpida el mismo criterio en materia de controversias constitucionales. En este caso cuando la Sala Constitucional establezca jurisprudencia por reiteración de criterio, procederá a hacer la declaratoria general correspondiente. Los efectos de esta declaración no serán retroactivos, salvo en materia penal en términos del párrafo primero del artículo 14 de la Constitución Federal;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+II. Las razones contenidas en los considerandos que funden los resolutivos de las sentencias aprobadas por cuando menos cuatro votos, serán obligatorias para las Salas del Tribunal Superior de Justicia, Juzgados del Poder Judicial, Tribunales Administrativos y del Trabajo del Estado;
 
 III. Resuelva una contradicción de criterios en materia constitucional, y
 
@@ -963,17 +925,21 @@ IV. En dos sentencias reitere en forma ininterrumpida el mismo criterio sobre la
 
 ###### Artículo 109.
 
-La jurisprudencia que establezca la Sala Constitucional, es obligatoria para ésta, para las Salas del Tribunal Superior de Justicia, los Tribunales del Estado, los Juzgados de Primera Instancia, así como para todas las Autoridades del Estado, de los Municipios y Organismos Públicos Autónomos.
+(DEROGADO, P.O. 26 DE MAYO DE 2023)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 110.
 
-Cuando la Sala Constitucional establezca un criterio en materia de Justicia Constitucional local, elaborará la tesis respectiva que deberá contener:
+Cuando el Pleno del Tribunal establezca un criterio en materia de Justicia Constitucional local, elaborará la tesis respectiva que deberá contener:
 
 I. La relación sucinta de los hechos del asunto del que deriva;
 
 II. La identificación de las normas constitucionales respecto de las cuales se establezca el criterio;
 
-III. Las consideraciones interpretativas, mediante las que la Sala Constitucional haya determinado el sentido y alcance de dicha norma constitucional, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+III. Las consideraciones interpretativas, mediante las que el Pleno del Tribunal haya determinado el sentido y alcance de dicha norma constitucional, y
 
 IV. El rubro, los datos de identificación del asunto, número de tesis, nombre del magistrado ponente, resultado de la votación emitida y, en su caso, el asunto o los asuntos de los cuales deriva la misma.
 
@@ -1030,3 +996,11 @@ CUARTO. Los procedimientos y recursos pendientes de remisión al Tribunal de Jus
 QUINTO. De conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit, el día 28 de julio de 2020, el Magistrado y Magistrada numerarios que fueron nombrados por el Congreso del Estado se encontrarán adscritos a las correspondientes Salas Unitarias Especializadas en materia de Responsabilidades Administrativas, al menos durante los primeros cinco años del Ejercicio de su encargo, sin perjuicio de las atribuciones del Pleno, previstas en la presente Ley.
 
 SEXTO. Dentro de los 90 días naturales posteriores a la entrada en vigor del presente decreto, deberán realizarse las adecuaciones normativas y reglamentarias pertinentes para proveer al eficaz cumplimiento del presente Decreto.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Todas aquellas referencias en cualquier disposición normativa que se hagan respecto a la Sala Constitucional se entenderán realizada (sic) al Pleno del Tribunal Superior de Justicia.
