@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-ejercicio-de-las-profesiones-para-el-estado-de-baja-259
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-06"
-last_updated: "2022-05-09"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL EJERCICIO DE LAS PROFESIONES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 6 de septiembre de 2002.
 
@@ -61,43 +61,73 @@ V.- Determinar los derechos y obligaciones de los profesionistas; y,
 
 VI.- Establecer las infracciones y sanciones por incumplimiento a los preceptos establecidos en esta Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 3.
 
-Para los efectos de esta Ley se entiende por:
+Para los efectos de esta Ley se entiende por;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
 
 I.- Asociaciones de Profesionistas.- Las agrupaciones de profesionistas registradas ante el Departamento en los términos de esta Ley;
 
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
+
 II.- Cédula Personal con efectos de patente para el ejercicio profesional.- Es el documento con efectos de patente para el ejercicio profesional que expide la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública;
 
-III.- Registro Profesional Estatal.- Es el documento expedido por el Departamento de Profesiones dependiente de la Secretaría de Educación y Bienestar Social, el cual otorga autorización para ejercer en el Estado;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+III.- Registro Profesional Estatal.- Es el documento expedido por el Departamento de Profesiones dependiente de la Secretaría de Educación, el cual otorga autorización para ejercer en el Estado;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
 
 IV.- Departamento.- El Departamento de Profesiones del Estado;
 
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
+
 V.- Ejercicio Profesional.- La realización habitual a título oneroso o gratuito, de todo acto o la prestación de cualquier servicio propio de cada profesión, aunque sólo se trate de simple consulta, o la ostentación del carácter de profesionista por medio de tarjetas, anuncios, placas, insignias o de cualquier otro medio. No se considerará ejercicio profesional los actos realizados en casos graves con propósito de auxilio inmediato;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
 
 VI.- Ley.- La Ley de Ejercicio de las Profesiones para el Estado de Baja California;
 
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
+
 VII.- Nivel Educativo Superior.- Los estudios encaminados a obtener los grados de licenciatura, maestría y doctorado, así como los cursos de actualización y especialización posteriores a la licenciatura;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
 
 VIII.- Pasante.- Persona que ha cumplido con los planes y programas relativos a la Licenciatura, Especialidad, Maestría o Doctorado, impartido por una institución de educación superior y no cuente con Título profesional;
 
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
+
 IX.- Profesionista.- La persona física que cuente con Título en algún grado del nivel educativo superior;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
 
 X.- Reglamento.- El reglamento que derive de la presente Ley;
 
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
+
 XI.- Reincidencia.- Se considera reincidente al infractor que cometa dos o más infracciones a la presente Ley o su Reglamento;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-XII.- Servicio Social.- Se entiende por servicio social, la actividad de carácter temporal, y gratuito, el cual podrá ser remunerado en los términos de las disposiciones que se dicten, mismo que prestaran y ejecutaran los profesionistas y los estudiantes en los sectores público, privado o social, en interés de la Sociedad y del Estado; y,
+XII.- Servicio Social.- Se entiende por servicio social, la actividad de carácter temporal, y gratuito, el cual podrá ser remunerado en los términos de las disposiciones que se dicten, mismo que presentarán y ejecutarán los profesionistas y los estudiantes en los sectores públicos, privados o sociales, en interés de la Sociedad y del Estado;
 
-XIII.- Título Profesional.- El documento expedido por instituciones del Estado o descentralizadas, y por instituciones particulares que tengan reconocimiento de validez oficial de estudios, a favor de la persona que haya concluido los estudios correspondientes.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+XIII.- Título Profesional.- El documento expedido por instituciones del Estado o descentralizadas, y por instituciones particulares que tengan reconocimiento de validez oficial de estudios, a favor de la persona que haya concluido los estudios correspondientes; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2023)</small>
+
+XIV.- Autorización Provisional.- El documento expedido a los pasantes por el Departamento de Profesiones, por el que se les autoriza a ejercer una profesión en el Estado, en tanto el Título, diploma o grado se encuentra en trámite de registro y expedición de cédula.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 4.
 
-La aplicación y vigilancia de esta Ley corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Educación y Bienestar Social, a través del Departamento de Profesiones.
+La aplicación y vigilancia de esta Ley corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Educación, a través del Departamento de Profesiones.
 
 ###### ARTÍCULO 5.
 
@@ -471,11 +501,13 @@ Para obtener el registro de la Cédula Personal con efecto de patente para el ej
 
 I.- Título profesional original y dos copias simples para su cotejo;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-II.- Cédula personal con efectos de patente para el ejercicio profesional y dos copias simples para su cotejo;
+II.- Cédula personal con efectos de patente para el ejercicio profesional y dos copias simples para su cotejo; y,
 
-III.- (DEROGADA, P.O. 11 DE AGOSTO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2023)</small>
+
+III.- La certificación vigente en caso de profesiones o especialidades que así lo requieran para el ejercicio profesional.
 
 IV.- (DEROGADA, P.O. 11 DE AGOSTO DE 2006)
 
@@ -511,21 +543,31 @@ III.- (DEROGADA, P.O. 11 DE AGOSTO DE 2006)
 
 Toda persona a la que se le haya expedido Título Profesional dentro del plazo de dos años, deberá tramitar su Registro Profesional Estatal, previo pago de los derechos correspondientes;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+Las y los profesionistas de otras entidades federativas del país podrán ser registrados en el Departamento, si desean ejercer profesionalmente en el Estado; siempre que la expedición del título profesional se haya sujetado a las disposiciones respectivas de la entidad federativa de que se trate, de acuerdo con lo establecido en el artículo 121 fracción V de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 26 DE MAYO DE 2023)</small>
+
 El trámite podrá realizarse en forma personal, o por conducto de las instituciones de educación superior, o bien por la Asociación correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 19.
 
-Los pasantes para ejercer en el Estado, requieren de autorización provisional expedida por el Departamento por un período de un año, la cual podrá ser prorrogada por uno más.
+La (sic) y los pasantes para ejercer en el Estado, requieren de autorización provisional expedida por el Departamento por un período de dos años, la cual podrá ser prorrogada por un año más.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE AGOSTO DE 2006)</small>
 
 El Departamento, previo la expedición de la autorización provisional, deberá cerciorarse que el pasante está bajo el consejo y dirección de un profesionista debidamente registrado ante éste.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MAYO DE 2023)</small>
 
-Para otorgar autorización provisional a los pasantes para ejercer una profesión se requiere satisfacer los siguientes requisitos:
+Para otorgar autorización provisional a las y los pasantes para ejercer una profesión se requiere satisfacer los siguientes requisitos:
 
-I.- Haber concluido los planes y programas relativos a la Licenciatura, Especialidad, Maestría, o Doctorado;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+I.- Haber concluido los planes y programas relativos a la Licenciatura, Especialidad, Maestría, o Doctorado, y tener en trámite la expedición de su Título o cédula profesional, según corresponda;
 
 II.- Constancia de buena conducta expedida por la institución de educación superior de donde egresó;
 
@@ -533,9 +575,15 @@ III.- No tener más de un año de terminados los estudios de su carrera profesio
 
 IV.- Tener un promedio de calificaciones no inferior a ocho.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+En ningún caso procederá la autorización provisional para el ejercicio de las especialidades médicas.
+
 ###### ARTÍCULO 20.
 
 (DEROGADO, P.O. 11 DE AGOSTO DE 2006)
+
+> <small>(REFORMADO PRIMER PÁRAFO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 21.
 
@@ -543,9 +591,17 @@ Queda estrictamente prohibido:
 
 I.- A los profesionistas autorizados, respaldar o revalidar con su firma, escritos, gestiones o servicios relacionados con algún acto profesional, por persona que no cuente con autorización del Departamento;
 
-II.- A los profesionistas responsables del funcionamiento de hospitales, clínicas, boticas, farmacias, laboratorios y en cualquier otro establecimiento público o privado, el permitir la prestación de servicios profesionales en materia de salud a personas sin autorización expedida por el Departamento;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MAYO DE 2023)</small>
 
-III.- (DEROGADA, P.O. 11 DE AGOSTO DE 2006)
+II.- A las y los profesionistas responsables del funcionamiento de hospitales, clínicas, boticas, farmacias, laboratorios y en cualquier otro establecimiento público o privado, permitir la prestación de servicios profesionales en materia de salud a personas que no cuenten con cédula profesional, registro profesional estatal o en su caso la autorización provisional expedida por el Departamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+Tratándose de especialistas estos deberán contar con la certificación vigente de la rama de salud correspondiente, a efecto de que avalen el ejercicio profesional del personal médico que bajo cualquier modalidad presten sus servicios en dichos establecimientos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2023)</small>
+
+III.- A los particulares que no cuenten con Cédula profesional con efecto de patente para el ejercicio profesional o en su caso autorización expedida por el Departamento, prestar servicios profesionales y de especialidad en materia de salud en hospitales, clínicas, boticas, farmacias, laboratorios y cualquier otro establecimiento público o privado, así como proporcionar por su cuenta dichos servicios a la población en general; y,
 
 IV.- Las demás que establezca el Reglamento.
 
@@ -563,6 +619,8 @@ II.- Ser parte de las asociaciones de profesionistas en los términos de esta Le
 
 III.- Los demás que se encuentren previstos en la presente Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 23.
 
 Son obligaciones del profesionista:
@@ -575,15 +633,21 @@ II.- Aplicar sus conocimientos profesionales al servicio del cliente o empleador
 
 III.- Guardar el secreto profesional respecto a la información de que disponga, salvo los informes que deban rendirse ante las autoridades competentes, en los términos de las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-IV.- Señalar en su publicidad o papelería particular, su nombre completo, profesión que ejerce y cualquier otro estudio de nivel educativo superior en su caso, y número de registro (sic) de su Registro Profesional Estatal o autorización respectiva;
+IV.- Señalar en su publicidad o papelería particular, su nombre completo, profesión que ejerce, así como cualquier otro estudio de nivel educativo superior en su caso y especialidad, y número de registro de su Registro Profesional Estatal o autorización respectiva;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
 V.- Cumplir con la prestación del Servicio Social Profesional, conforme a los lineamientos de esta Ley y su Reglamento.
 
-VI.- Exhibir su Título profesional, constancia o certificado que acrediten estudios de nivel educativo superior, en lugar visible del establecimiento en que habitualmente ejerce la profesión;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MAYO DE 2023)</small>
+
+VI.- Exhibir su Título profesional, cédula profesional, registro profesional estatal o en su caso la autorización provisional expedida por el Departamento que acredite estudios de nivel educativo superior, en lugar visible del establecimiento en que habitualmente ejerce la profesión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+Tratándose de especialistas estos deberán exhibir la certificación vigente de la rama de salud correspondiente.
 
 VII.- Informar al Departamento, el domicilio del establecimiento en que habitualmente ejerce la profesión;
 
@@ -895,7 +959,7 @@ II.- Las condiciones económicas del infractor; y,
 
 III.- La reincidencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 56.
 
@@ -931,7 +995,9 @@ IX.- A las asociaciones de profesionistas que no proporcionen al Departamento du
 
 X.- A la asociación de profesionistas cuando no deposite ante el Departamento un ejemplar de sus estatutos o reglamentos;
 
-XI.- (DEROGADA, P.O. 11 DE AGOSTO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2023)</small>
+
+XI.- A quien no exhiba título profesional, cédula profesional, registro profesional estatal o en su caso la autorización provisional para ejercer la Profesión, así como la certificación vigente en la rama de salud correspondiente para el ejercicio de las profesiones o especialidades que correspondan;
 
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2006)</small>
 
@@ -941,11 +1007,11 @@ XII.- Al profesionista, pasante o asociación de profesionistas que no permita e
 
 XIII.- A la asociación de profesionistas que no dé aviso al Departamento de las bajas de sus asociados.
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
 
-ARTÍCULO 56 BIS.- Se consideran infracciones leves aquellas previstas en las fracciones II, III, IV, V, VI, VIII, X y XIII del artículo 56 de la Ley, y de las cuales se aplicarán multa de 5 a 150 veces salario mínimo general vigente en el Estado.
+ARTÍCULO 56 BIS.- Se consideran infracciones leves aquellas previstas en las fracciones II, III, IV, V, VI, VIII, X y XIII del artículo 56 de la Ley, y de las cuales se aplicarán multa de 5 a 150 veces la unidad de medida y actualización vigente.
 
-Se consideran infracciones graves las previstas en las fracciones I, VII y XII del artículo 56 de la presente Ley, y las cuales se aplicarán multa de 150 a 300 veces salario mínimo general vigente en el Estado.
+Se consideran infracciones graves las previstas en las fracciones I, VII, XI y XII del artículo 56 de la presente Ley, las cuales se aplicarán multa de 150 a 300 veces la unidad de medida y actualización vigente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 2006)</small>
 
@@ -1210,3 +1276,11 @@ P.O. 9 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 92 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 25 DE LA LEY DE EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 229 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4, 27, 33 BIS, 50 BIS 5, 52, 54, 55, 56, 144 QUÁTER, 144 QUINQUIES, 144 OCTIES, 144 DECIES Y 165 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. Las y los profesionistas que ejerzan en Baja California, y cuyo Título profesional haya sido expedido en otra entidad federativa, en caso de no contar con su Registro Profesional Estatal, tendrán un plazo de dos meses para solicitarlo.
