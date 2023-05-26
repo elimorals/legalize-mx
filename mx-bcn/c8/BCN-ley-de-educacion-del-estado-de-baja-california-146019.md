@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2023-01-27"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -1063,7 +1063,15 @@ Los muebles e inmuebles destinados a la educación impartida por las autoridades
 
 Dichos muebles e inmuebles deberán cumplir con los requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, pertinencia, integralidad, accesibilidad, inclusividad e higiene, incorporando los beneficios del desarrollo de la ciencia y la innovación tecnológica, para proporcionar educación de excelencia, con equidad e inclusión, conforme a los lineamientos que para tal efecto emita la autoridad educativa federal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2023)</small>
+
+El Control de plagas y organismos que puedan afectar la salud de los educandos constituye uno de los requisitos (sic) higiene señalados en el párrafo precedente, por lo que la autoridad educativa deberá coordinarse con las autoridades competentes para efectos de realizar fumigaciones periódicas con plaguicidas de bajo riesgo para la salud humana.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
+
 La autoridad educativa estatal y municipal coadyuvarán con la autoridad educativa federal para mantener actualizado el Sistema Nacional de Información de la Infraestructura Física Educativa, a fin de realizar sobre ésta diagnósticos y definir acciones de prevención en materia de seguridad, protección civil y de mantenimiento de los muebles o inmuebles que se destinen al servicio educativo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
 
 Los bienes muebles e inmuebles, así como las instalaciones a que se refiere este artículo, que sean propiedad de particulares, continuarán siendo propiedad de dichos particulares.
 
@@ -1427,6 +1435,8 @@ Las autoridades educativas competentes deberán entregar a las escuelas particul
 
 Los particulares que impartan estudios con autorización o con reconocimiento de validez oficial de estudios, deberán mencionar en la documentación que expidan y en la publicidad que hagan, una Leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, modalidad en que se imparte, domicilio para el cual se otorgó, así como la autoridad que lo emitió.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
+
 ###### Artículo 123.
 
 Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios deberán:
@@ -1451,9 +1461,17 @@ VIII. Entregar a la autoridad educativa la documentación e información necesar
 
 IX. Solicitar el refrendo del reconocimiento de validez oficial de estudios al término de la vigencia que se establezca, en los términos de esta Ley y demás disposiciones aplicables;
 
-X. Dar aviso a la autoridad educativa competente el cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
 
-XI. No realizar prácticas nocivas de carácter económicas administrativas que perjudiquen al desarrollo educativo de los educandos o padres de familia como lo son: retención de documentos oficiales por falta de pago de colegiaturas, imposición de compra de útiles escolares, uniformes, libros de texto, materiales de aseo en comercios exclusivos; así como la obligación de realizar pagos extraordinarios para la realización de festejos ajenos a los fines de la educación; así como la compra y venta de objetos promocionales.
+X. Dar aviso a la autoridad educativa competente el (sic) cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+XI. No realizar prácticas nocivas de carácter económicas administrativas que perjudiquen al desarrollo educativo de los educandos o padres de familia como lo son: retención de documentos oficiales por falta de pago de colegiaturas, imposición de compra de útiles escolares, uniformes, libros de texto, materiales de aseo en comercios exclusivos; así como la obligación de realizar pagos extraordinarios para la realización de festejos ajenos a los fines de la educación; así como la compra y venta de objetos promocionales; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2023)</small>
+
+XII. Solicitar al personal educador, docente, profesorado y/o maestro, título profesional, cédula profesional, registro profesional estatal o en su caso la autorización provisional y tratándose de especialistas, cédula expedida por la autoridad educativa competente y certificado vigente otorgado por el Consejo de Especialidad Médica correspondiente a la rama médica de la que derive la formación educativa que imparta.
 
 ###### Artículo 124.
 
@@ -1720,3 +1738,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El suministro gratuito de productos de gestión menstrual se sujetará a la disponibilidad presupuestaria que se determine para tales fines.
 
 El Poder Ejecutivo del Estado emitirá las disposiciones reglamentarias correspondientes, así como las normas que determinen el control y uso racional de los productos a que se refiere este artículo.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 229 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4, 27, 33 BIS, 50 BIS 5, 52, 54, 55, 56, 144 QUÁTER, 144 QUINQUIES, 144 OCTIES, 144 DECIES Y 165 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 234 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 88 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
