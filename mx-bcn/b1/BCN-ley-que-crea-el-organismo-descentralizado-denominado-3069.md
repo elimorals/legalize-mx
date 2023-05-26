@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-el-organismo-descentralizado-denominado-3069"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "1992-12-11"
+last_updated: "2023-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO INSTITUTO DE SERVICIOS EDUCATIVOS Y PEDAGOGICOS DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 11 de diciembre de 1992.
 
@@ -43,9 +43,11 @@ LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO INSTITUTO DE SERVICIOS EDUC
 
 La presente Ley es de orden Público, de interés social y de observancia general en el Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 2°.
 
-Se crea el Instituto de Servicios Educativos y Pedagógicos de Baja California como organismo público descentralizado del Gobierno del Estado de Baja California, con personalidad jurídica y patrimonio propio.
+Se crea el Instituto de Servicios Educativos y Pedagógicos de Baja California como organismo público descentralizado de la administración pública del Estado, con personalidad jurídica y patrimonio propio.
 
 ###### ARTICULO 3°.
 
@@ -105,27 +107,29 @@ El domicilio del organismo será la ciudad de Mexicali, Baja California y podrá
 
 ### CAPITULO II. DE SU GOBIERNO
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 6°.
 
-El organismo tendrá una Junta Directiva como órgano supremo de gobierno, con la siguiente estructura: Un Presidente, un Secretario y cinco Vocales, y estará integrada por:
+El organismo tendrá una Junta Directiva como órgano de gobierno, la cual estará integrada por:
 
-I.- El Secretario de Educación y Bienestar Social del Estado, quien la presidirá.
+I.- La persona titular de la Secretaría de Educación, quien la presidirá.
 
-II.- El Secretario General de Gobierno.
+II.- La persona titular de la Secretaría General de Gobierno.
 
-III.- El Secretario de Finanzas del Estado.
+III.- La persona titular de la Secretaría de Hacienda.
 
-IV.- El Secretario de Planeación y Presupuesto.
+IV.- La persona titular de la Oficialía Mayor del Poder Ejecutivo del Estado.
 
-V.- El Oficial Mayor del Gobierno del Estado.
+V.- Dos personas designadas por la persona titular del Poder Ejecutivo del Estado.
 
-VI.- Dos miembros designados por el Gobernador del Estado.
+Las y los integrantes designarán a sus suplentes para cubrir sus ausencias temporales, para lo cual deberán tener al menos el cargo o nivel de Dirección o su equivalente.
 
-El Presidente de la Junta Directiva y sus miembros serán suplidos en sus ausencias temporales por quien éstos designe, con las mismas facultades.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 7°.
 
-Los miembros de la Junta Directiva a que se refieren las Fracciones I, II, III, IV y V del Artículo 6° de esta Ley durarán en el cargo en tanto sean titulares de las Dependencias, y serán substituidos automáticamente por el nuevo titular. Los miembros que designe el Ejecutivo del Estado podrán ser removidos libremente por éste y deberán satisfacer los siguientes requisitos:
+Las personas integrantes de la Junta Directiva a que se refieren las Fracciones I, II, III, y IV del Artículo 6 de esta Ley durarán en el cargo en tanto sean titulares de las Dependencias, y serán sustituidas automáticamente por la nueva persona titular. Los miembros que designe la persona titular del Poder Ejecutivo podrán ser removidas libremente por esta y deberán satisfacer los siguientes requisitos:
 
 I.- Ser ciudadano mexicano.
 
@@ -169,11 +173,15 @@ La Junta Directiva sesionará con la asistencia de su Presidente o en ausencia d
 
 Al frente del organismo estará un Director General quien será designado y removido libremente por el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 12°.
 
-Para ser Director General del Organismo se requieres (sic):
+Para ser Director o Directora General del Organismo se requiere:
 
-I.- Ser mexicano por nacimiento.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+
+I.- Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II.- Ser mayor de treinta y menor de sesenta y cinco años.
 
@@ -241,9 +249,15 @@ Los bienes inmueble que formen parte del patrimonio del Organismo y los que se d
 
 ### CAPITULO V. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 16°.
 
-El Organo de vigilancia del organismo estará integrado por un Comisario Propietario y un Suplente que será designados por el Gobernador del Estado a propuesta de la Secretaría de Planeación y Presupuesto.
+La vigilancia del organismo estará a cargo de una persona Comisaria propietaria y su suplente, designados por la persona titular de la Secretaría de la Honestidad y la Función Pública, los cuales ejercerán las atribuciones que expresamente les confieren las leyes y demás disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2023)</small>
+
+ARTICULO 16° BIS.- Cuando el organismo deje de cumplir con el objeto para el que fue creado o su funcionamiento no resultare conveniente para la economía estatal o el interés público, la Secretaría de Hacienda propondrá al Ejecutivo la fusión o extinción de este organismo.
 
 ###### ARTICULO 17°.
 
@@ -300,3 +314,11 @@ C.P. FORTUNATO ALVAREZ ENRIQUEZ.
 EL OFICIAL MAYOR DE GOBIERNO ENCARGADO DE LA SECRETARIA GENERAL DE GOBIERNO POR MINISTERIO DE LEY.
 
 C. RENE A. CORELLA GIL SAMANIEGO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 233 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 6, 7, 12 Y 16 DE LA LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO INSTITUTO DE SERVICIOS EDUCATIVOS Y PEDAGÓGICOS DE BAJA CALIFORNIA, COMO TAMBIÉN LA ADICIÓN DEL NUMERAL 16 BIS AL MISMO ORDENAMIENTO”.]
+
+ÚNICO. La presente reforma entrarán (sic) en vigor al día siguiente de su publicación en el Periodico Oficial del Estado.
