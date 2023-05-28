@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-113824"
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2022-11-20"
+last_updated: "2023-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial de Estado de Durango, el jueves 3 de marzo de 2016.
 
@@ -135,7 +135,9 @@ X. Programa Local: Programa Local de Turismo;
 
 XI. Programa Sectorial: Programa Sectorial de Turismo del Estado de Durango;
 
-XII. Promoción Cinematográfica: La difusión del Estado, como un lugar idóneo para la realización de producciones cinematográficas, televisivas o audiovisuales;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2023)</small>
+
+XII. Promoción Cinematográfica: La difusión de los recursos en materia cinematográfica y de las ventajas competivas (sic) con las que cuenta el Estado, para atraer e incentivar la realización de producciones cinematográficas, televisivas y audiovisuales en el territorio estatal, y fortalecer la actividad turística en el Estado.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2022)</small>
 
@@ -223,6 +225,10 @@ d) Promover con las instancias federales y estatales correspondientes, el otorga
 
 IV. Analizar y coadyuvar con la Secretaría de Seguridad Pública del Gobierno del Estado de Durango, medidas que incrementen la seguridad e integridad física de los turistas;
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2023)</small>
+
+Para tal efecto, y de acuerdo a su disponibilidad presupuestal, la Secretaría podrá coordinarse con Secretaría de Seguridad Pública del Gobierno del Estado, con el fin de promover y realizar convenios con los municipios de vocación turística en el Estado, con el objeto de formar, profesionalizar y certificar a las personas que integran las corporaciones policiales y/o de las policías turísticas.
+
 V. Promover y fomentar con la Secretaría de Educación del Gobierno del Estado de Durango:
 
 a) La investigación, educación y la cultura turística;
@@ -307,9 +313,9 @@ XX. Fomentar el desarrollo del turismo en los municipios con vocación turístic
 
 XXI. Emitir opiniones a la Secretaría Federal en la materia;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2023)</small>
 
-XXII. Promover convenios entre los prestadores de servicios turísticos, con la finalidad de alcanzar incentivos y descuentos para las personas discapacitadas;
+XXII. Promover convenios entre los prestadores de servicios turísticos, con la finalidad de alcanzar incentivos y descuentos para las personas con discapacidad y las personas adultas mayores;
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2022)</small>
 
@@ -323,11 +329,11 @@ XXIV. Las demás previstas en éste y otros ordenamientos.
 
 La Secretaría en coordinación con los Ayuntamientos, planearan y ejecutaran, proyectos que tengan como objetivo la incorporación y permanencia en el Programa Pueblos Mágicos. Así como en la participación de recursos del Programa de Desarrollo Regional Turístico Sustentable y Pueblos Mágicos que lleva anualmente la Secretaría de Turismo.
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2023)</small>
 
 ###### Artículo 6 Ter.
 
-En las localidades declaradas pueblos mágicos y en los sitios Patrimonio Mundial, la Secretaría conjuntamente con otras dependencias y entidades de la administración pública estatal y en coordinación con los Ayuntamientos, implementarán programas y proyectos especiales para fortalecer el desarrollo turístico del lugar.
+En las localidades declaradas pueblos mágicos y en los sitios Patrimonio Mundial, la Secretaría conjuntamente con otras dependencias y entidades de la administración pública estatal y en coordinación con los Ayuntamientos, empresas del ramo, y el Consejo Local, implementarán programas y proyectos especiales para fortalecer el desarrollo turístico del lugar.
 
 ###### Artículo 7.
 
@@ -373,9 +379,11 @@ XVIII. Las demás previstas en éste y otros ordenamientos.
 
 ### CAPÍTULO IV. DE LOS CONSEJOS CONSULTIVOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2023)</small>
+
 ###### Artículo 8.
 
-El Consejo Consultivo Local de Turismo es un órgano de consulta de la Secretaría, que tendrá por objeto proponer la formulación de las estrategias y acciones de coordinación de las dependencias y entidades de la Administración Pública Estatal, con el fin de lograr un desarrollo integral de la actividad turística, utilizando entre otros mecanismo los foros de consulta y memorias publicadas.
+El Consejo Consultivo Local de Turismo es un órgano de consulta de la Secretaría, que tendrá por objeto proponer la formulación de las estrategias y acciones de coordinación de las dependencias y entidades de la Administración Pública Estatal, con el fin de lograr un desarrollo integral de la actividad turística, utilizando entre otros mecanismos los foros de consulta, memorias publicadas e instrumentos de evaluación.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
@@ -431,13 +439,17 @@ I.- Contar con personal preparado para atender a personas con discapacidad, que 
 
 II.- En el material impreso y digital donde promueva la actividad turística, incluirá información sobre los servicios e instalaciones accesibles, incorporando los símbolos internacionales de la materia;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2023)</small>
 
-III.- Promover la creación de material y actividades turísticas en formatos accesibles para personas con discapacidad y a las personas adultas mayores
+III. Promover la creación de material y actividades turísticas en formatos accesibles para personas con discapacidad y a las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2023)</small>
 
-IV.- Incluir en el Registro Estatal de Turismo, un apartado que incluya a los prestadores de servicios turísticos que cuenten con instalaciones, infraestructura y transporte para personas con discapacidad y a las personas adultas mayores, así como los proveedores de asistencia médica especializada.
+IV. Incluir en el Registro Estatal de Turismo, un apartado que incluya a los prestadores de servicios turísticos que cuenten con instalaciones, infraestructura y transporte para personas con discapacidad y a las personas adultas mayores; y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2023)</small>
+
+V. Promover de manera coordinada con el Sistema para para el Desarrollo Integral de la Familia del Estado de Durango, la participación de las personas adultas mayores en actividades de atención al turismo y de recreación turística.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2021)</small>
 
@@ -509,9 +521,23 @@ Las dependencias y las entidades de la Administración Pública Estatal, coordin
 
 La Secretaría, con el apoyo y en coordinación de las dependencias y autoridades competentes, promoverá e impulsará la llegada de viajeros a Durango con motivo de la realización de producciones audiovisuales que incluyen spots comerciales, series, telenovelas, documentales, video clips y por supuesto, películas.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2023)</small>
+
+La Secretaría, promoverá eventos y festivales de cine a nivel nacional e internacional, que se programen por la autoridad competente en el Estado, con el fin de atraer turistas.
+
 ###### Artículo 23.
 
 Las dependencias y las entidades de la Administración Pública Estatal, coordinarán y promoverán sus esfuerzos entre ellas y con las de los gobiernos municipales, e impulsarán acciones con los sectores social y privado para el fomento del turismo cinematográfico.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2023)</small>
+
+Con el fin de desarrollar el Turismo Cinematográfico, la Secretaría podrá promover convenios con entidades y dependencias del sector público, así como con los sectores privado y social para capacitar y profesionalizar la prestación de servicios directamente relacionados con la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2023)</small>
+
+###### Artículo 23 Bis.
+
+La Secretaría podrá emplear los inventarios, directorios y registros, así como otros instrumentos que opere en materia de industria cinematográfica, con el fin de promover el Turismo Cinematográfico.
 
 ### CAPÍTULO XII. DE LA CULTURA TURÍSTICA
 
@@ -773,7 +799,9 @@ I. Modernizar y profesionalizar el sector turístico y sus infraestructuras, com
 
 II. Impulsar y apoyar los programas, estudios y actividades del sector privado que incrementen la calidad y la competitividad de la oferta turística;
 
-III. Promover la diversificación de la oferta turística;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2023)</small>
+
+III. Promover la diversificación de la oferta turística, tomando en cuenta las propuestas que aporte el Consejo Local;
 
 IV. Impulsar mecanismos de colaboración con universidades e instituciones para la formación continua de los trabajadores del sector turístico, así como para la elaboración de programas y planes de estudios en materia turística;
 
@@ -1208,3 +1236,27 @@ P.O. 20 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
+
+P.O. 28 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 373.- POR EL CUAL SE REFORMAN LA FRACCIÓN XII DEL ARTÍCULO 4, EL ARTÍCULO 6 TER, EL PRIMER PÁRRAFO DEL ARTÍCULO 8, LA FRACCIÓN III DEL ARTÍCULO 48; Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 22, UN SEGUNDO PÁRRAFO AL ARTÍCULO 23 Y EL ARTÍCULO 23 BIS, TODOS A LA LEY DE TURISMO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 374.- POR EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 5 DE LA LEY DE TURISMO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 375.- POR EL CUAL SE REFORMA LA FRACCION XXII DEL ARTICULO 6; SE REFORMAN LAS FRACCIONES III Y IV, Y SE ADICIONA UNA FRACCION V, DEL ARTÍCULO 14, TODAS A LA LEY DE TURISMO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
