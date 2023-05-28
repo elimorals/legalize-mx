@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-inclusion-para-las-personas-con-discapacidad-en-el-12938
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-10"
-last_updated: "2021-12-23"
+last_updated: "2023-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE INCLUSION PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 28 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2023 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 10 de junio de 2018.
 
@@ -35,11 +37,11 @@ Con fecha 31 de mayo de 2017, la Diputada Marisol Peña Rodríguez; presentó a 
 
 ANTECEDENTES
 
-[…]
+[...]
 
 CONSIDERANDOS
 
-[…]
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXVII Legislatura del Estado, expide el siguiente:
 
@@ -1218,3 +1220,15 @@ P.O. 23 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 28 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga la Ley de Inclusión para las Personas con Discapacidad en el Estado de Durango, aprobada mediante decreto número 387 de la LXVII Legislatura del Congreso del Estado de Durango, de fecha 23 de mayo de 2018, y publicada en el Periódico Oficial del Gobierno del Estado de Durango número 46, de fecha 10 de junio de 2018.
+
+TERCERO.- La Comisión Estatal Coordinadora deberá expedir el reglamento de la presente Ley, dentro de los ciento ochenta días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+CUARTO.- A la fecha de entrada en vigor del presente decreto hasta el mes de diciembre de 2023, las multas que se generen por infracciones a disposiciones viales en materia de discapacidad se aplicarán en base a los montos que establecen las leyes de ingresos de cada uno de los municipios del ejercicio fiscal 2023.
