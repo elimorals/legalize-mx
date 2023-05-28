@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2023-05-14"
+last_updated: "2023-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MAYO DE 2023 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE MAYO DE 2023.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -471,7 +471,7 @@ X.- Expedir cartas de origen, atendiendo a las prevenciones de esta Ley así com
 
 XI. La promoción, difusión y efectiva implementación de la perspectiva de género en los procesos de planeación, programación, elaboración de presupuestos, diseño de acciones y políticas públicas y evaluación de la administración pública municipal.
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 14 DE MAYO DE 2023)</small>
+(ADICIONADA, P.O. 23 DE MARZO DE 2023) (F. DE E., P.O. 28 DE MAYO DE 2023)
 
 XII. Autorizar al presidente o presidenta municipal para que suscriba, en caso de considerarlo adecuado, convenios de colaboración con el Instituto de Evaluación de Políticas Públicas, en materia de evaluaciones del desempeño municipal en su política pública de desarrollo social, que orienten al gobierno municipal para mejorar sus acciones y estrategias.
 
@@ -551,9 +551,9 @@ XV. Promover entre sus habitantes el uso y aprovechamiento de agua de lluvia, a 
 
 XVI. Las demás que le confiere la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las demás leyes.
 
-> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+(REFORMADA, P.O. 14 DE MAYO DE 2023) (F. DE E., 28 DE MAYO DE 2023)
 
-XVII. Implementar políticas y programas que fomenten e incentiven la creación de empresas, velando por la promoción del empleo y el crecimiento económico de la población;
+XVII. Implementar políticas y programas que fomenten e incentiven la creación de empresas, velando por la promoción del empleo y el crecimiento económico de la población, además de procurar acciones de emprendimiento sobre proyectos de producción en las zonas rurales para el máximo aprovechamiento del campo Duranguense, dirigidas a las mujeres de dichas zonas.
 
 > <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
 
@@ -962,6 +962,10 @@ Los titulares de las dependencias de la administración pública municipal, así
 ###### Artículo 80.
 
 Los titulares de cada una de las dependencias y entidades de la administración pública municipal deberán ser ciudadanos mexicanos, en pleno ejercicio de sus derechos, preferentemente vecinos del municipio, de reconocida honorabilidad y probada aptitud para desempeñar los cargos que les corresponda. Éstos acordarán directamente con el Presidente Municipal y comparecerán ante el Ayuntamiento cuando se les requiera para aclarar cuestiones relacionadas con sus áreas de competencia.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2023)</small>
+
+En la designación de titulares de las direcciones, dependencias o su equivalente, así como organismos descentralizados de la administración pública municipal deberá observarse el principio de paridad de género.
 
 ### Capítulo II. Del Secretario del Ayuntamiento
 
@@ -2387,9 +2391,7 @@ VII. Las demás que le otorguen otras disposiciones legales o reglamentarias.
 
 El Ayuntamiento establecerá enlaces institucionales de coordinación con dependencias de otros municipios, el Estado y la Federación a fin de desarrollar programas de protección de los derechos de las mujeres, con el propósito de prevenir, combatir y erradicar la violencia en contra de las mismas, además de la discriminación por razón de género y las condiciones inequitativas hacia las mujeres.
 
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2020)</small>
-
-Asimismo procurará la equidad de género en la conformación laboral de las diversas áreas de la administración pública municipal.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE MAYO DE 2023)</small>
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -2706,3 +2708,11 @@ P.O. 14 DE MAYO DE 2023.
 PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. - Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 28 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 376 POR EL QUE SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 80 Y SE DEROGA EL SEGUNDO PARRAFO DEL ARTICULO 229 DE LA LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DURANGO”.]
+
+PRIMERO. La presente reforma entrará en vigor el día 1 de septiembre de 2025, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
