@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-financiera-nacional-de-desarrollo-26814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-26"
-last_updated: "2022-05-11"
+last_updated: "2023-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26814&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2002-12-23"
 ---
 # LEY ORGANICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO - ANTES - LEY ORGANICA DE LA FINANCIERA RURAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO SEGUNDO DEL DECRETO POR EL QUE SE EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, Y SE ABROGA SU LEY ORGÁNICA, PUBLICADO EN EL D.O.F. DE 29 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2023 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de diciembre de 2002.
 
@@ -1112,3 +1114,47 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, Y SE ABROGA SU LEY ORGÁNICA”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto.
+
+Tercero. Para el cumplimiento de las obligaciones con las personas trabajadoras jubiladas y pensionadas del Sistema Banrural, las mismas continuarán a cargo del Fondo de Pensiones del Sistema Banrural (FOPESIBAN) operado por el Instituto para Devolver al Pueblo lo Robado (INDEP) y no afectarán los derechos adquiridos de las personas jubiladas y pensionadas del Sistema Banrural por la entrada en vigor del presente Decreto.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR EL QUE "SE EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, Y SE ABROGA SU LEY ORGÁNICA”.]</small>
+
+Artículo Primero. Se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, que conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación respectivo, en términos de las disposiciones administrativas y presupuestales aplicables.
+
+Artículo Segundo. La Secretaría de Hacienda y Crédito Público, en su carácter de coordinadora de sector, a través de la Unidad de Banca de Desarrollo, será la responsable del proceso de extinción y liquidación de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero.
+
+Artículo Tercero. La Secretaría de Hacienda y Crédito Público, en su carácter de coordinadora de sector, a través de la Unidad de Banca de Desarrollo, dentro de un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, publicará las bases de liquidación, atendiendo a lo dispuesto en la normativa aplicable.
+
+Artículo Cuarto. El proceso de liquidación de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, estará a cargo del Instituto para Devolver al Pueblo lo Robado, quien fungirá como liquidador único del Gobierno Federal, conforme a las disposiciones legales aplicables, para lo cual tendrá las más amplias facultades para actos de administración, dominio, pleitos y cobranzas; para suscribir u otorgar títulos de crédito, así como para realizar cualquier acción que coadyuve a un eficiente proceso de liquidación.
+
+El proceso de liquidación deberá llevarse a cabo de manera oportuna, eficaz y con apego a las disposiciones jurídicas que lo rigen, cuidando en todo momento la adecuada protección a los intereses del público.
+
+Artículo Quinto. El liquidador deberá cumplir con los acuerdos aprobados por el Consejo Directivo de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero en las sesiones de fechas nueve de septiembre y quince de diciembre de dos mil veintidós, respecto del pago anticipado de los créditos multilaterales con el Banco Interamericano de Desarrollo, así como destinar los recursos que resulten de la recuperación de sus activos, para cubrir los pasivos y contingencias que se originen de la propia liquidación y los gastos de administración que realice en cumplimiento de su cargo, en términos del artículo décimo del presente Decreto.
+
+Artículo Sexto. La Secretaría de Hacienda y Crédito Público, la Secretaría de la Función Pública y la Comisión Nacional Bancaria y de Valores, en el ámbito de sus respectivas competencias, vigilarán que el procedimiento de liquidación se realice conforme a las disposiciones jurídicas aplicables.
+
+Artículo Séptimo. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero y del Instituto para Devolver al Pueblo lo Robado, según corresponda, por lo que no se autorizarán recursos financieros adicionales en el presente ejercicio ni en los subsecuentes.
+
+En tal sentido, el liquidador deberá destinar los recursos que resulten de la recuperación de activos de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, para cubrir los pasivos y contingencias que se originen de la propia liquidación, así como los gastos de administración que realice en cumplimiento de su cargo. En el balance final de la liquidación se deberá precisar el destino desglosado de todos los recursos señalados en este artículo.
+
+La Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero deberá realizar a favor del Instituto para Devolver al Pueblo lo Robado, la transferencia de los bienes, derechos y obligaciones, misma que se llevará a cabo conforme a las disposiciones jurídicas aplicables.
+
+La transferencia de bienes y derechos a que se refiere el presente artículo, no quedará gravada por ningún impuesto federal, de conformidad con el artículo 2o., fracción XIII, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
+
+Artículo Octavo. Los bienes muebles e inmuebles de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se liquidan podrán transmitirse a título gratuito, según su naturaleza y mejor aprovechamiento, a dependencias y entidades de la Administración Pública Federal, de conformidad con las disposiciones legales aplicables.
+
+Artículo Noveno. Los derechos laborales de las personas trabajadoras, incluyendo las indemnizaciones correspondientes, de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, serán respetados íntegramente, conforme a las disposiciones laborales aplicables, por conducto del Instituto para Devolver al Pueblo lo Robado como liquidador. Para el pago de los conceptos referidos se estará a lo dispuesto en el artículo séptimo del presente Decreto.
+
+Artículo Décimo. Los recursos remanentes que resulten a la conclusión del proceso de liquidación de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, tendrán el tratamiento que corresponda, en términos de las disposiciones aplicables.
+
+Artículo Décimo Primero. La Secretaría de Hacienda y Crédito Público, como coordinadora de sector, una vez concluido el proceso de liquidación, informará al área correspondiente, para que se actualice la Relación de Entidades Paraestatales de la Administración Pública Federal.
+
+Artículo Décimo Segundo. Se abroga la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, publicada en el Diario Oficial de la Federación, el 26 de diciembre de 2002.
