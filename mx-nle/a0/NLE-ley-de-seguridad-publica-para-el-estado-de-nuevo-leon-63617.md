@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2023-04-05"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -2581,6 +2581,12 @@ I. Procederán de modo que se presten lo antes posible asistencia y servicios m�
 
 II. Notificarán lo sucedido, tan pronto como sea posible, a los familiares de las personas heridas.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+###### Artículo 171 Bis.
+
+El Estado deberá implementar acciones necesarias dentro de las Instituciones Policiales y dependencias encargadas de la Seguridad Publica, para garantizar que sus integrantes, reciban de manera inmediata por parte de personal especializado, atención y apoyo psicológico o de cualquier disciplina o especialidad que se requiera, para garantizar el pleno respeto a su dignidad como seres humanos, cuando a consecuencia del desempeño de sus funciones, esté en riesgo su vida o su integridad física y psicológica; de igual forma, los municipios podrán adoptar medidas para el cumplimiento de lo dispuesto por el presente artículo.
+
 ## TÍTULO SÉPTIMO. DEL SISTEMA PENITENCIARIO Y DE REINSERCIÓN SOCIAL DEL DELINCUENTE
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
@@ -3964,3 +3970,15 @@ P.O. 5 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 353. SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 32 BIS DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 386. SE ADICIONA UN ARTÍCULO 171 BIS A LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Estado y los Municipios a partir de la entrada en vigor del presente Decreto, tendrán un plazo no mayor a 90 días para realizar las modificaciones necesarias a sus Reglamentos conforme a la presente reforma.
