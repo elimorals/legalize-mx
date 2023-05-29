@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2023-04-17"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -411,11 +411,17 @@ XIV. Consejo Estatal Electoral y de Participación Ciudadana;
 
 XV. Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado;
 
-XVI. Las personas que representen las organizaciones civiles estatales relacionadas con la materia, que se integrarán al mismo por invitación del propio Sistema. En ningún caso, las organizaciones invitadas podrán rebasar la mitad del número de dependencias, entidades e instituciones públicas integrantes del Sistema, y
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2023)</small>
 
-XVII. Las personas que representen a organizaciones civiles, organizaciones de mujeres, instituciones académicas y de investigación estatales destacadas por sus logros y objetivos relacionados con la materia, que se integrarán al mismo, por invitación del propio Sistema. En ningún caso, las organizaciones e instituciones invitadas podrán rebasar la mitad del número de dependencias, entidades e instituciones públicas integrantes del Sistema.
+XVI. La Comisión de Igualdad de Género del Congreso del Estado, a través de su Presidenta o Presidente;
 
-Las dependencias, y entidades integrantes del Sistema Estatal, coadyuvarán con el mismo en el establecimiento, utilización, supervisión, y mantenimiento de todos los instrumentos y acciones encaminados al mejoramiento de éste y del Programa.
+XVII. Las personas que representen las organizaciones civiles estatales relacionadas con la materia, que se integrarán al mismo por invitación del propio Sistema. En ningún caso, las organizaciones invitadas podrán rebasar la mitad del número de dependencias, entidades e instituciones públicas integrantes del Sistema, y
+
+XVIII. Las personas que representen a organizaciones civiles, organizaciones de mujeres, instituciones académicas y de investigación estatales destacadas por sus logros y objetivos relacionados con la materia, que se integrarán al mismo, por invitación del propio Sistema. En ningún caso, las organizaciones e instituciones invitadas podrán rebasar la mitad del número de dependencias, entidades e instituciones públicas integrantes del Sistema.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
+
+Las dependencias, entidades, y demás integrantes del Sistema Estatal, coadyuvarán con el mismo en el establecimiento, utilización, supervisión, y mantenimiento de todos los instrumentos y acciones encaminados al mejoramiento de éste y del Programa.
 
 ###### ARTÍCULO 16.
 
@@ -939,9 +945,23 @@ VI. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre
 
 VII. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
-## TÍTULO SEXTO. PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE MAYO DE 2023)</small>
 
-## TÍTULO SÉPTIMO. MEDIDAS DE PROTECCIÓN
+## TÍTULO QUINTO BIS. COMISIÓN DE IGUALDAD DE GÉNERO DEL CONGRESO DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+ARTÍCULO 32 BIS. Corresponde a la Comisión de Igualdad de Género del Congreso del Estado a través de su Presidenta o Presidente, y dentro del ámbito de sus atribuciones:
+
+I. Participar en el Sistema Estatal, procurando que los estudios, acuerdos y necesidades que se establezcan en las sesiones y comisiones del mismo, puedan reflejarse cuando así proceda en propuestas legislativas que se promuevan ante el Congreso del Estado y que coadyuven a alcanzar los objetivos de éste;
+
+II. Compartir los estudios de género y estadísticas que realicen el Instituto de Investigaciones Legislativas, y la Unidad para la Igualdad de Género del Congreso, con los que lleve a cabo el propio Sistema Estatal a fin de enriquecer el acervo en esta materia que pueda servir de base a la elaboración de propuestas legislativas a favor de las mujeres;
+
+III. Orientar al Sistema Estatal en la interpretación de la legislación existente en materia de acceso de las mujeres a una vida libre de violencia, de igualdad sustantiva, de víctimas, de justicia y demás materias inherentes a los derechos de las mujeres, cuando surjan dudas entre sus integrantes, con la opinión de la Comisión que preside y del Instituto de Investigaciones Legislativas del Congreso, y
+
+IV. Las demás que le asigne el Sistema Estatal y sean acordes a la naturaleza de su competencia.
+
+## TÍTULO SEXTO. PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ### CAPÍTULO ÚNICO
 
@@ -977,7 +997,7 @@ XIII. Diseñar un modelo integral de atención a los derechos de las mujeres, qu
 
 El programa deberá ser evaluado anualmente, con base en los indicadores que el Sistema Estatal emita.
 
-## TÍTULO OCTAVO. ATENCIÓN A LAS VÍCTIMAS Y DE LOS REFUGIOS
+## TÍTULO SÉPTIMO. MEDIDAS DE PROTECCIÓN
 
 ### CAPÍTULO I. ÓRDENES DE PROTECCIÓN
 
@@ -1347,7 +1367,7 @@ c) El diseño e instrumentación de políticas públicas que eviten la comisión
 
 d) La verificación de los hechos y la publicidad de la verdad.
 
-## TÍTULO NOVENO. DEL BANCO ESTATAL DE INFORMACIÓN SOBRE LA VIOLENCIA CONTRA LAS MUJERES
+## TÍTULO OCTAVO. ATENCIÓN A LAS VÍCTIMAS Y DE LOS REFUGIOS
 
 ### CAPÍTULO I. ATENCIÓN A LAS VÍCTIMAS
 
@@ -1499,7 +1519,7 @@ La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses
 
 En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
-## TÍTULO DÉCIMO. CENTROS DE REHABILITACIÓN PARA AGRESORES
+## TÍTULO NOVENO. DEL BANCO ESTATAL DE INFORMACIÓN SOBRE LA VIOLENCIA CONTRA LAS MUJERES
 
 ### CAPÍTULO ÚNICO
 
@@ -1523,9 +1543,7 @@ El Instituto, y la Secretaría de Seguridad Pública del Estado, presupuestarán
 
 El Instituto publicará trimestralmente la información general y estadística actualizada sobre los casos de violencia contra las mujeres, contenida en el Banco Estatal de Información sobre la Violencia contra las Mujeres.
 
-## TITULO DÉCIMO PRIMERO
-
-DE LAS RESPONSABILIDADES Y SANCIONES.
+## TÍTULO DÉCIMO. CENTROS DE REHABILITACIÓN PARA AGRESORES
 
 ### CAPÍTULO ÚNICO
 
@@ -1536,6 +1554,10 @@ Los agresores podrán acudir de forma voluntaria a un centro de rehabilitación 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
 Tratándose de resoluciones judiciales que involucren violencia vicaria es fundamental que el agresor reciba rehabilitación psicológica con perspectiva de género y de infancia.
+
+## TITULO DÉCIMO PRIMERO
+
+DE LAS RESPONSABILIDADES Y SANCIONES.
 
 ### CAPÍTULO ÚNICO
 
@@ -1694,3 +1716,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado deberá reformar el Reglamento de los Centros Penitenciarios Estatales de San Luis Potosí, para adecuarlo a lo señalado en el presente Decreto, dentro de los seis meses siguientes a su entrada en vigor.
+
+P.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0763.- SE REFORMA EL ARTÍCULO 15, EN SU PÁRRAFO ÚLTIMO; Y ADICIONA AL ARTÍCULO 15, UNA FRACCIÓN, ÉSTA COMO LA XVI Y EL TÍTULO QUINTO BIS “COMISIÓN DE IGUALDAD DE GÉNERO DEL CONGRESO DEL ESTADO”, CON EL ARTÍCULO 32 BIS, A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
