@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-conducta-de-la-auditoria-superior-del-estado-de-16433
 country: "mx"
 rank: "codigo"
 publication_date: "2023-02-03"
-last_updated: "2023-02-03"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # CODIGO DE CONDUCTA DE LA AUDITORIA SUPERIOR DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE MAYO DE 2023 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE MAYO DE 2023.]</small>
 
 Código publicado en la Sección Tercera del Número 022 del Periódico Oficial del Estado de Nayarit, el viernes 3 de febrero de 2023.
 
@@ -317,7 +317,9 @@ VIII. Confidencialidad
 
 a. No hacer del conocimiento de terceros, difundir o permitir de cualquier forma que la información reservada o confidencial sea divulgada.
 
-b. Utilizar la información que tenga bajo su custodia solo para los fines a que se encuentra prevista, sin limitar el derecho a la información al que hace referencia la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios.
+> <small>(F. DE E., P.O. 29 DE MAYO DE 2023)</small>
+
+b. Utilizar la información que tenga bajo su custodia solo para los fines a que se encuentra prevista, sin limitar el derecho a la información al que hace referencia la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit y sus Municipios.
 
 c. Dar a conocer únicamente, los resultados y actuaciones derivadas de su labor en los términos, circunstancias, plazos y por medio de los conductos establecidos por la normativa aplicable.
 
