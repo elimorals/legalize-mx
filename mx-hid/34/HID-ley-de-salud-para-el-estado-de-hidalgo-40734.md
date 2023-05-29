@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2023-03-31"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -669,11 +669,25 @@ Artículo 16 Quintus.- El Estado, promoverá acciones conjuntas con las comunida
 
 Las autoridades comunitarias e indígenas, cuando así se establezca, podrán participar como coadyuvantes en las campañas de salud, vacunación y aquéllas referidas a la atención preventiva de la salud y en su caso, en las acciones normativas frente a la aparición de epidemias o pandemias.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
-Artículo 16 Sextus.- Las autoridades de salud, promoverán el reconocimiento y autorización de los médicos tradicionales indígenas de las comunidades, generando para ello, programas de registro y acreditación de médicos tradicionales, curanderos y parteras, así como de sus asociaciones y organismos, con la finalidad de generar las condiciones y proporcionarles los elementos necesarios para el desempeño de sus funciones, de igual forma promoverá el desarrollo y actualización de sus conocimientos y su capacitación en el manejo de otras técnicas, conocimientos e instrumentos auxiliares de la medicina.
+Artículo 16 Sextus.- Las autoridades sanitarias promoverán el reconocimiento y autorización de los médicos tradicionales indígenas, curanderos y parteras de las comunidades, así como de sus asociaciones y organismos, para lo cual la Secretaría de Salud generará programas de registro y acreditación, con la finalidad de crear las condiciones y proporcionarles los elementos necesarios para el desempeño de sus funciones.
 
-El sector salud, promoverá asimismo, cursos, talleres y diplomados con valor curricular, dirigidos al personal médico que radica y labora en zonas con población indígena relativos a antropología médica y medicina tradicional.
+La Secretaría de Salud mantendrá actualizado el registro a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+###### Artículo 16 Septies.
+
+Las autoridades sanitarias, en el ámbito de su competencia y a través de instituciones de educación superior, impulsarán acciones de capacitación, actualización y especialización de médicos tradicionales, curanderos y parteras, para fortalecer su competencia técnica, el manejo de otras técnicas, conocimientos e instrumentos auxiliares de la medicina, con base en los derechos humanos y con un enfoque intercultural.
+
+Asimismo, las autoridades sanitarias promoverán cursos, talleres y diplomados con valor curricular, dirigidos al personal médico que radica y labora en zonas con población indígena relativos a antropología médica y medicina tradicional.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+###### Artículo 16 Octies.
+
+Las parteras tradicionales recibirán por parte de la autoridad sanitaria estatal y con base en el registro referido en el Artículo 16 SEXTUS, una remuneración o estimulo como reconocimiento a su labor.
 
 ### CAPITULO IV. CONSTRUCCION DE EDIFICIOS Y FRACCIONAMIENTOS
 
@@ -1617,6 +1631,10 @@ VI. La atención de la salud visual, bucal, auditiva y mental.
 
 Artículo 142 Undecies 7.- Toda mujer embarazada tiene derecho a obtener servicios de salud con estricto respeto de los derechos humanos, sin violencia ni discriminación y con perspectiva de género.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+Para garantizar el derecho a la protección de la salud en condiciones de igualdad, equidad, no discriminación y respeto a la dignidad humana en la atención integral de la mujer durante el embarazo, parto y puerperio, las autoridades sanitarias garantizarán un enfoque humanizado, intercultural y seguro y la participación incluyente y corresponsable, así como la elección sobre el tipo de atención que desea recibir, incluyendo la partería tradicional, siempre y cuando las condiciones clínicas lo permitan.
+
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
 
 Artículo 142 Undecies 8.- En los Servicios de Salud se promoverá la organización institucional de Comités de Prevención de la Mortalidad Materna e Infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
@@ -2486,3 +2504,13 @@ P.O. 31 DE MARZO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Ejecutivo Estatal deberá emitir la normatividad correspondiente para la operación de las redes de telemedicina, en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 232 QUE REFORMA LA LEY DE SALUD PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La implementación de las remuneraciones o estímulos a las parteras tradicionales a que se refiere el presente Decreto estará sujeta a los recursos que al efecto autorice el Congreso del Estado de Hidalgo en el Presupuesto de Egresos de cada ejercicio fiscal.
+
+TERCERO. La Secretaría de Salud del Estado de Hidalgo, tendrá un plazo de hasta 180 días naturales para actualizar el registro y acreditación de médicos tradicionales, curanderos y parteras, así como de sus asociaciones y organismos de conformidad con el artículo 16 Sextus de la Ley de Salud del Estado de Hidalgo para el cumplimiento del presente Decreto.
