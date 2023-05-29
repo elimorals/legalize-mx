@@ -4,7 +4,7 @@ identifier: "HID-ley-de-coordinacion-para-el-desarrollo-metropolitano-del-69609"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-10"
-last_updated: "2018-04-02"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de agosto de 2009.
 
@@ -485,33 +485,37 @@ VII.- Promover una adecuada y efectiva accesibilidad y movilidad que brinde faci
 
 VIII.- Las demás que les señale esta Ley y otras disposiciones.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
+
 ###### Artículo 26.
 
 Los Municipios de las zonas metropolitanas podrán participar en la elaboración de la Agenda, la cual entre otros abordará, de manera enunciativa y no limitativa los siguientes temas:
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+I. Infraestructura Vial, Tránsito, Transporte y movilidad;
 
-a).- Vialidad, Tránsito y Transporte;
+II. Gestión integral del agua y recursos hidráulicos;
 
-b).- Agua y Drenaje;
+III. Seguridad Pública y Procuración de Justicia;
 
-c).- Seguridad Pública y Procuración de Justicia;
+IV. Planeación del ordenamiento del territorio y Asentamientos Humanos;
 
-d).- Asentamientos Humanos;
+V. Medio ambiente, aprovechamiento sustentable de los recursos naturales, preservación y restauración del equilibrio ecológico;
 
-e).- Medio Ambiente
+VI. Promoción de la Salud;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+VII. Protección Civil;
 
-f).- Salud;
+VIII. Accesibilidad universal y Movilidad;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+IX. Desarrollo económico y competitividad;
 
-g).- Protección Civil; y
+X. Promoción turística;
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+XI. Gobernanza metropolitana;
 
-h) Accesibilidad y Movilidad.
+XII. Infraestructura y equipamiento; y
+
+XIII. Gestión integral de residuos sólidos municipales.
 
 ### CAPÍTULO IV. DEL FONDO METROPOLITANO DEL ESTADO DE HIDALGO
 
@@ -598,3 +602,9 @@ P.O. 2 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 422 QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO Y A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, AMBAS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. - El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo
+
+P.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 305 QUE REFORMA EL ARTÍCULO 26 DE LA LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
