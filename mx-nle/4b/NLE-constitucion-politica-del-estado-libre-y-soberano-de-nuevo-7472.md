@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2022-10-01"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -2359,7 +2359,9 @@ II. Ser mayor de veintiún años.
 
 III. Tener residencia no menor de un año para el día de la elección en el Municipio en que esta se verifique.
 
-IV. No tener empleo o cargo remunerados en el Municipio en donde se verifique la elección, ya sea que dependan de este, del Estado o de la Federación, podrán ser electos si se separan de sus cargos a más tardar noventa días naturales antes del día de la elección correspondiente; con excepción del Gobernador, los consejeros electorales y los magistrados electorales.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
+
+IV. No tener empleo o cargo remunerados en el Municipio en donde se verifique la elección, ya sea que dependan de este, del Estado o de la Federación, podrán ser electos si se separan de sus cargos a más tardar al momento del registro de la candidatura correspondiente; con excepción del Gobernador, los consejeros electorales y los magistrados electorales.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2022)</small>
 
@@ -4274,3 +4276,11 @@ A los nombramientos de los consejeros de dichos órganos realizados, previo a la
 NOVENO: Las iniciativas de reforma a la Constitución Política del Estado Libre y Soberano de Nuevo León pendientes de trámite a la entrada en vigor del presente Decreto, se entenderán como fenecidas; salvaguardaron el derecho de sus promoventes para volver a presentar sus propuestas en cualquier momento.
 
 DÉCIMO: El Ejecutivo del Estado deberá garantizar en cada ejercicio fiscal las partidas presupuestales necesarias para dotar a los municipios de los recursos adecuados para que estén en condiciones de cumplir con las disposiciones establecidas en el octavo párrafo del artículo 22 del presente Decreto.
+
+P.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 397. SE REFORMA POR MODIFICACIÓN DE SU FRACCIÓN IV EL ARTÍCULO 172 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL ARTÍCULO 145, Y POR ADICIÓN DE UN ARTÍCULO 145 BIS, AMBOS DE LA LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO: Los Diputados integrantes de la LXXVI Legislatura al Congreso del Estado de Nuevo León electos para el periodo Constitucional 2021-2024 podrán ejercer su derecho a la elección consecutiva en los términos de este Decreto.
