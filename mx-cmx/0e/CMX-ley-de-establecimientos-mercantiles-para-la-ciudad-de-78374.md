@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2023-04-21"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE MAYO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -1600,15 +1600,17 @@ II. Contar con iluminación suficiente durante el tiempo que permanezca en opera
 
 III. Tener una señalización clara y suficiente para el control de entradas, salidas y circulación en el estacionamiento;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 2023)</small>
 
-IV. Contar con un seguro de responsabilidad civil o fianza que garantice a los usuarios el pago de los daños que pudieran sufrir en su persona, vehículo, o en la de terceros hasta por 9000 veces la Unidad de Cuenta de la Ciudad de México vigente por vehículo, 2000 veces la Unidad de Cuenta del Distrito Federal vigente por motocicleta y de 500 veces la Unidad de Cuenta de la Ciudad de México vigente por bicicleta, de acuerdo a la siguiente modalidad:
+IV. Contar con un seguro de responsabilidad civil o fianza que garantice a los usuarios el pago de los daños que pudieran sufrir en su persona, vehículo, o en la de terceros hasta por 9000 veces la Unidad de Medida y Actualización por vehículo, 2000 veces la Unidad de Medida y Actualización vigente por motocicleta y de 500 veces la Unidad de Medida y Actualización por bicicleta, de acuerdo a la siguiente modalidad:
 
-a) Autoservicio.- Responsabilidad por robo total, robo y daño parcial del vehículo, motocicleta o bicicleta e incendio del inmueble donde se depositó el vehículo, motocicleta o bicicleta, cuando éste sea atribuible al titular u operador; y
+a) Autoservicio.- Responsabilidad por robo o daño, total o parcial, del vehículo, motocicleta o bicicleta e incendio del inmueble donde se depositó el vehículo, motocicleta o bicicleta, cuando éste sea atribuible al titular u operador, y
 
-b) Acomodadores de vehículos, motocicletas o bicicletas.- Responsabilidad por robo total, robo y daño parcial, robo o daño de accesorios mostrados a la entrega del vehículo, motocicleta o bicicleta e incendio del inmueble donde se depositó el vehículo, motocicleta o bicicleta, cuando éste sea atribuible al titular u operador;
+b) Acomodadores de vehículos, motocicletas o bicicletas.- Responsabilidad por robo o daño, total o parcial del vehículo, motocicleta o bicicleta; robo o daño, total o parcial, de accesorios o bienes mostrados y registrados en el boleto a la entrega del vehículo, motocicleta o bicicleta al titular u operador; e incendio del inmueble donde se depositó el vehículo, motocicleta o bicicleta, cuando estos sean atribuibles al titular u operador.
 
-V. Cubrir el pago del deducible cuando sea robo total o cuando el daño sea atribuible al titular u operador;
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 2023)</small>
+
+V. Cubrir el pago del deducible en todos los casos señalados en la fracción anterior, cuando sean atribuibles al titular u operador;
 
 VI. Garantizar espacio de estacionamiento, en condiciones de seguridad, para usuarios que utilicen como medio de transporte la motocicleta o bicicleta;
 
@@ -1622,19 +1624,33 @@ X. Contar con el servicio de sanitarios para los usuarios; y
 
 XI. Las demás que establezca esta Ley y demás normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2023)</small>
+
+Los titulares u operadores de estacionamientos públicos, bajo ninguna circunstancia podrán exhibir o manifestar por cualquier medio a los usuarios, disposiciones o cláusulas contrarias a lo establecido en el presente ordenamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### Artículo 49.
 
-El Gobierno de la Ciudad de México, a través de la Secretaría de Movilidad y la Alcaldía, autorizará las tarifas de estacionamientos públicos y emitirá las normas técnicas para regular su operación.
+Las Alcaldías autorizarán las tarifas de estacionamientos públicos ubicados dentro de su demarcación territorial, de conformidad lo previsto en la Ley de Movilidad de la Ciudad de México y demás ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2012)</small>
 
 Para el inicio de operaciones solo en el primer año de funcionamiento bastará con que el interesado manifieste que tiene la propiedad o la posesión del inmueble, asimismo que cumple con lo señalado en el artículo 48 de la presente Ley.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### Artículo 50.
 
-Los titulares de estacionamientos públicos cobrarán sus tarifas por fracciones de 15 minutos desde la primera hora, debiendo ser el mismo precio para cada fracción. Podrán tener otras actividades complementarias de las consideradas de bajo impacto, siempre y cuando el espacio que se destine para su prestación no exceda del 10% de la superficie del establecimiento y no se vendan bebidas alcohólicas.
+Además de lo establecido en los artículos precedentes, los titulares de estacionamientos públicos:
+
+I. Cobrarán sus tarifas por fracciones de 15 minutos desde la primera hora, debiendo ser el mismo precio para cada fracción.
+
+II. Las tarifas autorizadas para cada estacionamiento serán únicas para todos los vehículos, sin importar sus dimensiones.
+
+III. Podrán tener otras actividades complementarias para los giros de bajo impacto, siempre y cuando el espacio que se destine para su prestación no exceda del 10% de la superficie del establecimiento y no se vendan bebidas alcohólicas.
+
+IV. Podrán arrendar cajones de estacionamiento, por un lapso determinado a los usuarios del mismo, o a otros establecimientos mercantiles, sin afectar la capacidad de cajones que puedan brindar al servicio público. Deberán hacer del conocimiento de los cajones arrendados a la Alcaldía para su registro correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -2269,3 +2285,11 @@ G.O. 21 DE ABRIL DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 32 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO; SE REFORMAN LAS FRACCIONES IV Y V, Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 48; SE REFORMAN LOS ARTÍCULOS 49, PÁRRAFO PRIMERO; Y 50, DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
