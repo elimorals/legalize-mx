@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2022-12-26"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -520,6 +520,26 @@ Los titulares no podrán establecer un plazo mayor de quince días para el pago 
 ###### ARTICULO 37.
 
 En ningún caso el cambio de funcionarios de una dependencia podrá afectar los derechos de los trabajadores.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+###### ARTICULO 37 Bis.
+
+Queda prohibido para titulares:
+
+I.- Exigir o aceptar dinero de los trabajadores como gratificación porque se les admita en el trabajo o por cualquier otro motivo que se refiera a las condiciones de éste;
+
+II.- Obligar a los trabajadores por coacción o por cualquier otro medio, a afiliarse o retirarse del sindicato o agrupación a que pertenezca;
+
+III.- Realizar cualquier acto u omisión que atente contra su derecho a decidir quién debe representarlos en la negociación colectiva;
+
+IV.- Realizar cualquier acto tendiente a ejercer control sobre el sindicato al que pertenezcan sus trabajadores;
+
+V.- Intervenir de cualquier forma en el régimen interno del sindicato y/o impedir su formación o el desarrollo de la actividad sindical, mediante represalias implícitas o explícitas contra los trabajadores;
+
+VI.- Portar armas en el interior de los establecimientos ubicados dentro de las poblaciones; y
+
+VII.- Despedir a una trabajadora o coaccionarla directa e indirectamente para que renuncie por estar embarazada, por cambio de estado familiar o por tener el cuidado de hijos menores.
 
 ### CAPITULO V. OBLIGACIONES DE LOS TRABAJADORES
 
@@ -1496,5 +1516,11 @@ P.O. 24 DE NOVIEMBRE DE 2022.
 P.O. 26 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 324 POR EL QUE SE REFORMA LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 272 QUE ADICIONA EL ARTÍCULO 37 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
