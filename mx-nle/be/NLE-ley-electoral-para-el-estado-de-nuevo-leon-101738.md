@@ -4,7 +4,7 @@ identifier: "NLE-ley-electoral-para-el-estado-de-nuevo-leon-101738"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-08"
-last_updated: "2023-05-24"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 8 de julio de 2014.
 
@@ -2256,6 +2256,14 @@ Además de los candidatos a diputados locales por el principio de mayoría relat
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
 
 No se considerará que ejercen su derecho de reelección previsto en el artículo 49 de la Constitución del Estado, los Diputados suplentes que no hayan entrado en funciones y que sean postulados en la elección inmediata siguiente en la que fueron electos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2023)</small>
+
+Los Diputados que pretendan ejercer el derecho de elección consecutiva podrán hacerlo por cualquier principio, pero en el caso de ser un Diputado de mayoría relativa que pretende ser postulado de nuevo por mayoría relativa, deberá hacerlo por el mismo distrito electoral por el que contendió con excepción de lo previsto en el artículo 145 bis de esta ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+Artículo 145 bis. Cuando el Instituto Nacional Electoral realice procesos de Distritación, en los términos establecidos por la Constitución y la Ley General de la materia, y se modifiquen de cualquier forma los distritos electorales locales; los diputados locales electos por el principio de mayoría relativa podrán acceder al derecho de elección consecutiva en el proceso electoral inmediato por cualquier distrito electoral que abarque cuando menos una sección electoral que haya formado parte del distrito anterior por el cual fue electo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -5356,3 +5364,11 @@ P.O. 24 DE MAYO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Envíese a la Suprema Corte de Justicia de la Nación para dar cumplimiento con el resolutivo Sexto de la Acción de Inconstitucionalidad 55/2022, en donde se vincula al Congreso del Estado de Nuevo León, para que antes de que se verifique el plazo exigido constitucionalmente para emitir las reglas en materia electoral aplicables para el proceso electoral 2023-2024 en la entidad, previo desarrollo de las respectivas consultas indígena y afromexicana, legisle respecto de sus derechos políticos, en particular, a las candidaturas a diputaciones y Ayuntamientos.
+
+P.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 397. SE REFORMA POR MODIFICACIÓN DE SU FRACCIÓN IV EL ARTÍCULO 172 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL ARTÍCULO 145, Y POR ADICIÓN DE UN ARTÍCULO 145 BIS, AMBOS DE LA LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO: Los Diputados integrantes de la LXXVI Legislatura al Congreso del Estado de Nuevo León electos para el periodo Constitucional 2021-2024 podrán ejercer su derecho a la elección consecutiva en los términos de este Decreto.
