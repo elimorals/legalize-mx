@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2022-10-27"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2023.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -246,11 +246,17 @@ III. Promover la convivencia, la economía, la seguridad y el desarrollo de la c
 
 IV. Facilitar la participación ciudadana en el proceso de toma de decisiones y en el control de los asuntos públicos;
 
-V. Garantizar la igualdad sustantiva y la paridad entre mujeres y hombres en los altos mandos de la Alcaldía;
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA, G.O. 4 DE MARZO DE 2020)</small>
+V. Garantizar la igualdad sustantiva, la paridad entre mujeres y hombres, así como la diversidad e inclusión entre las personas, en los altos mandos de la Alcaldía;
 
-VI. Impulsar en las políticas públicas y los programas, la transversalidad de género para erradicar la desigualdad, discriminación y violencia contra las mujeres, encaminada a promover su autonomía y privilegiando las acciones que contribuyan a fortalecer su desarrollo y empoderamiento;
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 2023)</small>
+
+VI. Impulsar en las políticas públicas y los programas, la transversalidad de género, así como el estudio y fomento de nuevas masculinidades para erradicar la desigualdad, discriminación y violencia contra las mujeres; encaminada a promover su autonomía y privilegiando las acciones que contribuyan a fortalecer su desarrollo y empoderamiento;
+
+> <small>(ADICIONADA, G.O. 29 DE MAYO DE 2023)</small>
+
+VI Bis. Promover, desde la perspectiva de género, acciones coordinadas con los tres niveles de gobierno y organismos autónomos constitucionales que incidan en la construcción de paz en su demarcación territorial, para contribuir a su desarrollo, fomentando la solidaridad, la seguridad en el cuidado de las personas, el respeto a los derechos humanos, la promoción de la resolución pacífica de conflictos, con la finalidad de fortalecer el tejido social;
 
 VII. Propiciar la democracia directa y consolidar la cultura democrática participativa;
 
@@ -456,13 +462,13 @@ XI. Administrar con autonomía los recursos materiales y los bienes muebles e in
 
 XII. Establecer la Unidad de Igualdad Sustantiva como parte de la estructura de la Alcaldía, la cual deberá contar con un programa rector en la materia;
 
-> <small>(REFORMADA, G.O. 4 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 2023)</small>
 
-XIII. Designar a las personas servidoras públicas de la Alcaldía, sujetándose a las disposiciones del servicio profesional de carrera, procurando la inclusión de las personas jóvenes que residan en la demarcación. En todo caso, los funcionarios de confianza, mandos medios y superiores, serán designados y removidos libremente por la Alcaldesa o el Alcalde;
+XIII. Designar a las personas servidoras públicas de la Alcaldía, sujetándose a las disposiciones del servicio profesional de carrera, procurando la inclusión de las personas jóvenes que residan en la demarcación, así como el cumplimiento a los criterios de paridad y diversidad. En todo caso, los funcionarios de confianza, mandos medios y superiores, serán designados y removidos libremente por la Alcaldesa o el Alcalde;
 
-> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 2023)</small>
 
-XIV. Verificar que, la asignación de cargos correspondientes a los mandos medios y superiores de la administración pública de la Alcaldía respete los criterios de igualdad y paridad de género, considerando que las eventuales sustituciones no rompan estos principios;
+XIV. Verificar que, la asignación de cargos correspondientes a los mandos medios y superiores de la administración pública de la Alcaldía respete los criterios de igualdad, diversidad, inclusión y paridad de género, considerando que las eventuales sustituciones no rompan estos principios;
 
 XV. Legalizar las firmas de sus subalternos, y certificar y expedir copias y constancias de los documentos que obren en los archivos de la demarcación territorial;
 
@@ -488,7 +494,25 @@ V. Las Alcaldías no podrán concesionar a particulares en cualquier forma o cir
 
 VI. Autorizar los horarios para el acceso a las diversiones y espectáculos públicos, vigilar su desarrollo y, en general, el cumplimiento de disposiciones jurídicas aplicables;
 
-VII. Autorizar la ubicación, el funcionamiento y las tarifas que se aplicarán para los estacionamientos públicos de la demarcación territorial;
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 2023)</small>
+
+VII. Autorizar la ubicación, el funcionamiento y las tarifas que se aplicarán para los estacionamientos públicos de la demarcación territorial.
+
+Las Alcaldías deberán contar con un sistema único de registro de estacionamientos públicos existentes en su demarcación territorial, cuya información deberá ser remitida a la Secretaría de Movilidad. Dicho registro, además de su ubicación, deberá contener lo siguiente:
+
+a) Nombre y domicilio de los responsables y administradores del establecimiento;
+
+b) La tarifa autorizada para el estacionamiento;
+
+c) Póliza de seguro de responsabilidad civil vigente, en términos de las disposiciones aplicables;
+
+d) Número de cajones de estacionamiento para automóviles;
+
+e) Número de cajones de estacionamiento de motocicletas;
+
+f) Número de cajones de estacionamiento (sic) bicicletas, y
+
+g) Información del predio, a partir de la información catastral registrada del establecimiento.
 
 VIII. Vigilar y verificar administrativamente el cumplimiento de las disposiciones, así como aplicar las sanciones que correspondan en materia de establecimientos mercantiles, estacionamientos públicos, construcciones, edificaciones, mercados públicos, protección civil, protección ecológica, anuncios, uso de suelo, cementerios, servicios funerarios, servicios de alojamiento, protección de no fumadores, y desarrollo urbano.
 
@@ -916,15 +940,15 @@ Las solicitudes de licencia que presenten las y los Concejales, se harán por es
 
 ### CAPÍTULO I. DE LAS UNIDADES ADMINISTRATIVAS Y SUS NOMBRAMIENTOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### Artículo 71.
 
-Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, las personas titulares de las Alcaldías se auxiliarán de unidades administrativas. Las personas servidoras públicas titulares de las referidas Unidades Administrativas ejercerá las funciones propias de su competencia y será responsable por el ejercicio de dichas funciones y atribuciones contenidas en la Ley y demás ordenamientos jurídicos.
+Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, las personas titulares de las Alcaldías se auxiliarán de unidades administrativas. Las personas servidoras públicas titulares de las referidas unidades administrativas ejercerán las funciones propias de su competencia y serán responsables por el ejercicio de dichas funciones y atribuciones contenidas en la Ley y demás ordenamientos jurídicos.
 
-> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
-El titular de la Alcaldía determinará y establecerá la estructura, integración y organización de las unidades administrativas de la misma, en función de las características y necesidades de su demarcación, orientándose bajo los principios de racionalidad, paridad de género, austeridad, eficiencia, eficacia, economía planeación y disciplina presupuestal.
+El titular de la Alcaldía determinará y establecerá la estructura, integración y organización de las unidades administrativas de la misma, en función de las características y necesidades de su demarcación, orientándose bajo los principios de racionalidad, paridad de género, diversidad e inclusión, austeridad, eficiencia, eficacia, economía planeación y disciplina presupuestal.
 
 > <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2018)</small>
 
@@ -1892,9 +1916,11 @@ Para efectos del artículo anterior, las Alcaldías contarán con personal debid
 
 Así mismo, en la prestación de los servicios de asesoría jurídica que otorguen las Alcaldías, deberá realizarse una focalización especial para la atención de las personas según su propia circunstancia y deberá incluir la debida orientación para el acceso a programas, subsidios y servicios sociales que se proporcionen en todos (sic) niveles de gobierno.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### Artículo 179.
 
-En los informes que presenten las personas titulares de las Alcaldías ante el congreso se deberá hacer referencia especial sobre las acciones y resultados derivados de las obligaciones que establece este capítulo.
+En los informes que presenten las personas titulares de las Alcaldías ante el Congreso se deberá hacer referencia especial sobre las acciones y resultados derivados de las obligaciones que establece este capítulo, procurando en todo momento la visibilización de los sectores de atención prioritaria y las acciones encaminadas a una inclusión plena y diversa de las personas, en sus acciones y resultados.
 
 ## TÍTULO X. DE LA PREVENCIÓN SOCIAL DE LAS VIOLENCIAS Y EL DELITO
 
@@ -2497,6 +2523,30 @@ SEGUNDO. El presente Decreto entrara´ en vigor, al día siguiente de su publica
 G.O. 27 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 20 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 20, FRACCIONES V Y VI; 31, FRACCIONES XIII Y XIV; 71, PÁRRAFOS PRIMERO Y SEGUNDO; Y 179, TODOS DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrara´ en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 32 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO; SE REFORMAN LAS FRACCIONES IV Y V, Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 48; SE REFORMAN LOS ARTÍCULOS 49, PÁRRAFO PRIMERO; Y 50, DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO".]
 
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
