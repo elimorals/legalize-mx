@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-derechos-de-las-personas-en-fase-terminal-69310"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-07"
-last_updated: "2023-02-27"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE DERECHOS DE LAS PERSONAS EN FASE TERMINAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado San Luis Potosí, el martes 7 de julio de 2009.
 
@@ -69,7 +69,9 @@ I. Cuidados básicos: la higiene, alimentación e hidratación y, en su caso el 
 
 II. Cuidados paliativos: son los cuidados activos y totales relacionados con el control del dolor y de otros síntomas, proporcionados a las personas en fase terminal que no respondan a tratamientos curativos. Así como la atención de aspectos psicológicos, sociales y espirituales;
 
-III. Documento de disposiciones premortem: consiste en el documento público suscrito ante notario, el que cualquier persona con capacidad de ejercicio y en pleno uso de sus facultades mentales, manifiesta la petición libre y conciente de no someterse a tratamientos y/o procedimientos médicos, que propicien la obsesión médica;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
+
+III. Documento de disposiciones premortem: documento suscrito ante persona titular o adscrita a notaría pública o personal de salud mediante el que cualquier persona, en los términos de la presente ley, manifiesta voluntariamente la petición libre y consciente de no someterse a tratamientos o procedimientos médicos que propicien la obsesión terapéutica;
 
 IV. Eutanasia: acción u omisión que para evitar el sufrimiento de un paciente acelera su muerte, con su consentimiento, o sin él;
 
@@ -89,9 +91,17 @@ XI. Obsesión terapéutica: la adopción de medidas desproporcionadas o inútile
 
 XII. Personal de salud: son los profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud;
 
-XIII. Registro: el registro del documento que contiene las disposiciones del paciente en fase terminal, bajo el resguardo de la Secretaría de Salud en el Estado;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
 
-XIV. Representante legal: la persona apoderada o mandataria designada por la persona que haya suscrito el documento de disposiciones premortem, responsable de hacer valer la voluntad del autor ante el personal de salud, y
+XIII. Registro: el registro del documento que contiene las disposiciones del paciente en fase terminal, bajo el resguardo de los Servicios de Salud;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
+
+XIV. Representante legal: la persona apoderada o mandataria designada por la persona que haya suscrito el documento de disposiciones premortem, responsable de hacer valer la voluntad del autor ante el personal de salud;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2023)</small>
+
+XIV BIS. Servicios de Salud: Servicios de Salud de San Luis Potosí, y
 
 XV. Tratamiento del dolor: todas aquéllas medidas proporcionadas por profesionales de la salud, orientadas a reducir los sufrimientos físicos y emocionales destinadas a garantizar la dignidad de las personas en fase terminal.
 
@@ -131,7 +141,9 @@ IX. Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el
 
 X. Optar por recibir los cuidados paliativos en un domicilio particular;
 
-XI. Designar a algún familiar, o representante legal, para el caso de que, con el avance de su fase terminal esté impedido a expresar su voluntad, éste lo haga en su representación;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
+
+XI. Designar a una persona como representante legal para que vele por el cumplimiento de su voluntad en los términos del documento de disposiciones premortem;
 
 XII. A recibir los servicios espirituales, cuando lo solicite la persona, su familia o representante legal, y
 
@@ -171,7 +183,7 @@ En los casos de urgencia médica y cuando exista incapacidad de la persona en fa
 
 ###### ARTICULO 14.
 
-Todos los documentos a que se refiere este Título se regirán de acuerdo a lo que se establezca en el Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 29 DE MAYO DE 2023)
 
 ### Capítulo II. Facultades y Obligaciones de las Instituciones de Salud
 
@@ -183,7 +195,9 @@ I. Ofrecerán el servicio para la atención debida a las personas en fase termin
 
 II. Proporcionarán los servicios de orientación, asesoría y seguimiento al paciente en fase terminal y, o sus familiares, en el caso de que los cuidados paliativos se realicen en el domicilio particular;
 
-III. De igual manera, en el caso de que los cuidados paliativos se realicen en el domicilio particular, la Secretaría pondrá en operación una línea telefónica de acceso gratuito para que se le oriente, asesore y de seguimiento al paciente en fase terminal, o a sus familiares;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
+
+III. De igual manera, en el caso de que los cuidados paliativos se realicen en el domicilio particular, los Servicios de Salud pondrán en operación una línea telefónica de acceso gratuito para que se le oriente, asesore y dé seguimiento al paciente en fase terminal y a sus familiares;
 
 IV. Proporcionarán los cuidados paliativos correspondientes al tipo y grado de padecimiento, desde el momento en que se diagnostique, hasta el último momento de vida del paciente;
 
@@ -197,11 +211,13 @@ VI. Garantizarán la capacitación y actualización permanente de los recursos h
 
 Los médicos tratantes y el personal de salud que preste los cuidados paliativos, para el mejor desempeño de sus servicios, deberán estar debidamente capacitados, humana y técnicamente, por instituciones autorizadas para ello.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 17.
 
-El personal de salud a cargo de cumplimentar las disposiciones de la presente Ley, y las contenidas en el documento de disposiciones premortem, cuyas convicciones personales sean contrarias a tales disposiciones, podrán ser objetores de conciencia y, por tal razón, excusarse de intervenir en su realización.
+El personal de salud a cargo de cumplimentar lo previsto en la presente Ley y lo establecido en el documento de disposiciones premortem, cuyas convicciones personales sean contrarias, podrán ser objetores de conciencia y, por tal razón, excusarse de intervenir en su realización.
 
-En este caso, la institución de salud presentará al paciente o a sus familiares, otras opciones de médicos que no presenten objeción de conciencia al caso.
+Será obligación de las instituciones de salud garantizar y vigilar la oportuna prestación de los servicios y la permanente disponibilidad de personal no objetor, a fin de garantizar el otorgamiento de los cuidados paliativos como parte del cumplimiento de las disposiciones premortem.
 
 ###### ARTICULO 18.
 
@@ -249,77 +265,231 @@ Para garantizar una vida de calidad y el respeto a la dignidad del paciente en f
 
 El personal médico que por decisión propia deje de proporcionar los cuidados básicos, o cualquier otro tratamiento, sin el consentimiento del paciente en fase terminal o, en caso que esté impedido para expresar su voluntad, el de su familia, serán sancionados conforme lo establecido por las leyes aplicables.
 
-## TITULO TERCERO. DISPOSICIONES DEL DOCUMENTO PREMORTEM
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2023)</small>
 
-### Capítulo I. Características del Documento Premortem
+## TÍTULO TERCERO. DEL DOCUMENTO DE DISPOSICIONES PREMORTEM
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2023)</small>
+
+### Capítulo I. Características del Documento de Disposiciones Premortem
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 23.
 
-Toda persona mayor de edad en pleno uso de su capacidad de ejercicio, tiene derecho a suscribir el Documento de Disposiciones Premorterm.
+El documento de disposiciones premortem es un acto personalísimo, voluntario, revocable y libre, de carácter inequívoco. Toda persona tiene derecho a suscribirlo en términos de la presente Ley.
 
-Cuando la persona en fase terminal sea niña, niño o adolescente, podrán suscribir el Documento de Disposiciones Premortem el padre y la madre, y, a falta de éstos, la persona que ejerza su tutela.
+Los pacientes en fase terminal podrán suscribir el documento de disposiciones premortem, siempre y cuando puedan manifestar su voluntad por cualquier medio y ésta sea libre de cualquier coacción.
 
-Para que sea válida la disposición de voluntad referida en el párrafo anterior, se estará a lo dispuesto en la presente Ley, el Código Familiar para el Estado y demás disposiciones aplicables.
+Cuando la persona en fase terminal sea menor de edad, podrán suscribir el documento de disposiciones premortem su padre, su madre, o bien, a falta de éstos, la persona que ejerza su tutela.
 
-Dicho documento podrá ser revocado en cualquier momento.
+Para que sea válida la disposición de voluntad referida en el párrafo anterior, se estará a lo dispuesto en la presente ley, en el Código Familiar para el Estado de San Luis Potosí, en los ordenamientos estatales, nacionales e internacionales relativos a los derechos de niñas, niños y adolescentes, y en las demás disposiciones que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 24.
 
-La persona autora podrá dictar en el Documento de Disposiciones Premortem, las instrucciones que deberán puntualmente respetarse en el caso de que se ubique en fase terminal, pudiendo ser éstas, de manera enunciativa y no limitativa, las siguientes:
+La persona autora podrá dictar en el documento de disposiciones premortem las instrucciones que deberán puntualmente respetarse en el caso de que se ubique en fase terminal pudiendo ser éstas, de manera enunciativa más no limitativa, las siguientes:
 
-I. Que no se le apliquen medios extraordinarios, agresivos e innecesarios, pruebas e investigaciones superfluas cuando se encuentre en fase terminal y sólo prolonguen artificialmente su vida, donde el estado de inconciencia del autor se juzgue irreversible, o no exista ninguna expectativa razonable de recuperar la salud;
+I. Que no se le apliquen medios extraordinarios, agresivos e innecesarios, pruebas e investigaciones superfluas cuando se encuentre en fase terminal y sólo prolonguen artificialmente su vida, donde su estado de inconciencia se juzgue irreversible o no exista ninguna expectativa razonable de recuperar la salud;
 
-II. Que se proteja su derecho a morir con dignidad, debiendo ocuparse el médico o el personal de salud, a aliviar los dolores físicos del paciente, manteniendo en todo lo posible la calidad de vida y evitando emprender o continuar acciones terapéuticas o quirúrgicas inútiles y obstinadas, evitando, en todo momento, la obsesión terapéutica;
+II. Que se proteja su derecho a morir con dignidad, debiendo ocuparse el médico o el personal de salud de aliviar sus dolores físicos, manteniendo en todo lo posible su calidad de vida y evitando emprender o continuar acciones terapéuticas o quirúrgicas inútiles y obstinadas;
 
-III. Que se practiquen todos los cuidados de la fase terminal del autor, siempre que éstos vayan encaminados a su beneficio, optándose por medios paliativos y no tratamientos quirúrgicos o terapéuticos con los que se logre únicamente prolongar artificialmente la vida del autor;
+III. Que se le practiquen todos los cuidados paliativos y básicos, siempre que éstos vayan encaminados a su beneficio, optándose por medios paliativos y no por tratamientos quirúrgicos o terapéuticos con los que se logre únicamente prolongar artificialmente su vida;
 
-IV. Que se le brinde al autor asistencia humanística y espiritual, y se le respete el derecho de estar debidamente informado de su padecimiento, así como el derecho de la elección del tratamiento, y todo aquéllo que tiene que ver con la ética del tratamiento del dolor y el empleo de los medios terapéuticos innecesarios y extraordinarios;
+IV. Que se le brinde asistencia humanística y espiritual;
 
-V. Que se garantice la protección del autor, su bienestar mental, físico y moral durante su fase terminal;
+V. Que se garantice su protección y su bienestar mental, físico, moral y económico durante la fase terminal;
 
-VI. Que se respete el servicio clínico y el médico responsable que eligió el autor, para llevar su expediente y diagnosticar su estado de salud y su tratamiento correspondiente, y
+VI. En caso de recibir atención en una institución de salud pública, privada, o con personal de salud particular, que se respete su elección sobre el servicio clínico y el médico responsable para llevar su expediente, diagnosticar su estado de salud y llevar a cabo el tratamiento que corresponda, y
 
-VII. Que el autor pueda, si así lo decide, permitir la disposición de órganos susceptibles de ser donados y las condiciones en que éstos se donarían conforme a derecho.
+VII. Que se le respete el derecho de estar debidamente informada de su padecimiento, de elegir el tratamiento y de conocer lo relativo a la ética del manejo del dolor y el empleo de los medios terapéuticos innecesarios y extraordinarios.
 
-Las instrucciones y facultades que se consignen en el Documento de Disposiciones Premortem, serán válidas siempre y cuando no contravengan la práctica médica vigente, aceptada como correcta, prudente y acertada, de acuerdo a las normas establecidas por la Ley General de Salud.
+En el documento de disposiciones premortem la persona autora deberá manifestarse respecto a la disposición o no disposición de órganos susceptibles de ser donados para después de su muerte, así como sobre las condiciones en que éstos se donarían conforme a derecho.
 
-### Capítulo II. Formalidades Jurídicas del Documento Premortem
+Las instrucciones y facultades que se consignen en este documento serán válidas siempre y cuando no contravengan la práctica médica vigente aceptada como correcta, prudente y acertada, de acuerdo con las normas establecidas por la Ley General de Salud.
+
+Bajo ninguna circunstancia podrá establecerse o pretenderse hacer valer disposiciones testamentarias, legatarias o donatarias de bienes, derechos u obligaciones diversas a las contenidas en el documento que regula la presente ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 24 BIS. La persona autora deberá nombrar en el mismo acto a un representante legal y un sustituto que velen por el cumplimiento de su voluntad en los términos del documento de disposiciones premortem, cargos que serán voluntarios y gratuitos, constituyendo una obligación desempeñarlos una vez aceptados.
+
+Son obligaciones del representante legal o, en su caso, del sustituto:
+
+I. La verificación del cumplimiento exacto de las instrucciones establecidas en el documento de disposiciones premortem;
+
+II. La verificación, cuando tenga conocimiento por escrito, de la integración de los cambios o modificaciones que realice la persona autora al documento de disposiciones premortem;
+
+III. La defensa en cualquier procedimiento del documento de disposiciones premortem, de los intereses que en él se plasmaron, de las circunstancias del cumplimiento de la voluntad de la persona autora y de la validez del mismo, y
+
+IV. Las demás que establezcan la presente ley y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 24 TER. Podrán excusarse de ser representantes legales:
+
+I. Las personas servidoras y funcionarias públicas;
+
+II. Las y los militares en servicio activo;
+
+III. Las personas que padezcan habitualmente de mal estado de salud o que por cualquier circunstancia no puedan atender debidamente su cargo;
+
+IV. Quienes por caso fortuito o fuerza mayor no puedan realizar el cargo conferido, y
+
+V. Quienes tengan a su cargo otra representación en los términos de la presente ley.
+
+El representante que presente excusas para fungir como tal, deberá hacerlo al momento en que tuvo noticia de su nombramiento.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2023)</small>
+
+### Capítulo II. Formalidades Jurídicas del Documento de Disposiciones Premortem
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 25.
 
-El documento de disposiciones premortem se hará por escrito; deberá formalizarse ante notario; y no tendrá costo económico.
+El documento de disposiciones premortem deberá otorgarse por escrito y formalizarse ante persona titular o adscrita a notaría pública y no tendrá costo económico. Asimismo, se hará constar la identidad del otorgante conforme a lo establecido en la Ley del Notariado para el Estado de San Luis Potosí.
+
+La persona autora también podrá suscribir de forma gratuita el documento en el formato que emita y apruebe para tal efecto los Servicios de Salud.
+
+En este supuesto, deberá hacerse constar la identidad del otorgante mediante:
+
+I. Identificación oficial vigente con fotografía, y
+
+II. La declaración de dos testigos mayores de edad, a su vez debidamente identificados conforme a la fracción anterior, quienes deberán firmar en tal carácter el documento de disposiciones premortem.
+
+En cualquiera de los dos supuestos, cuando la persona autora declare que no sabe o no puede firmar, el documento deberá suscribirse ante dos testigos, y uno de ellos firmará a ruego del solicitante, quien imprimirá su huella digital.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 25 BIS. La persona autora del documento de disposiciones premortem y se encuentre en posibilidad de asistir a otorgar dicho acto jurídico preferentemente acompañada de quienes fungirán como representante legal y sustituto a efecto de asentar en el mismo acto la aceptación del cargo y su pleno conocimiento sobre las disposiciones contenidas en el documento.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 25 TER. Podrán fungir como testigos, representantes legales o sustitutos para efectos del documento de disposiciones premortem todas las personas que gocen plenamente de su capacidad de ejercicio, a excepción de:
+
+I. El médico tratante;
+
+II. Aquellas que no entiendan el idioma que hable la persona autora, salvo que se encuentre un intérprete presente, quien también deberá firmar el documento;
+
+III. Las que hayan sido condenadas por delito de falsedad, y
+
+IV. Las que expresamente estén excluidas de esta facultad por la persona autora.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 26.
 
-El notario que intervenga en el registro del documento de disposiciones premortem, lo expedirá por duplicado, a fin de que un tanto se entregue a la persona autora del mismo; y el otro se deberá remitir a la Secretaría de Salud.
+La persona titular o adscrita a notaría pública o las instituciones de salud que intervengan en la formalización del documento de disposiciones premortem lo expedirá por duplicado, a fin de que un tanto se entregue a la persona autora del mismo y el otro se remita inmediatamente a los Servicios de Salud.
+
+Asimismo, la persona titular o adscrita a notaría pública o el personal de salud responsable deberá remitir una copia simple del documento al Centro Estatal de Trasplantes de San Luis Potosí y a la Comisión Estatal de Bioética del Estado para su debido conocimiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2023)</small>
+
+### Capítulo III. De la Nulidad y Revocación del Documento de Disposiciones Premortem
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 26 BIS. Será nulo el documento de disposiciones premortem en los siguientes casos:
+
+I. Cuando sea otorgado en contravención a lo dispuesto por esta ley;
+
+II. Cuando se suscriba bajo amenazas contra la persona autora, sus bienes, parientes consanguíneos y civiles en línea recta sin limitación de grado, parientes consanguíneos en línea colateral hasta el cuarto grado, parientes por afinidad hasta el segundo grado, cónyuge, concubinario, concubina o conviviente;
+
+III. Cuando la persona autora no exprese inequívocamente su voluntad, y
+
+IV. Cuando medie coacción alguna o vicios de la voluntad para su otorgamiento.
+
+En cualquiera de estos supuestos la persona autora podrá convalidar el documento de disposiciones premortem con las formalidades previstas en la presente ley, una vez que hayan cesado las causas de nulidad.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 26 TER. El documento de disposiciones premortem podrá ser revocado en cualquier momento mediante la manifestación de la voluntad de la persona autora con las mismas formalidades que señala la presente ley para su otorgamiento.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 26 QUÁTER. En caso de que existan dos o más documentos de disposiciones premortem, será válido el último otorgado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2023)</small>
+
+### Capítulo IV. Del Cumplimiento de las Disposiciones Premortem
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 26 QUINQUE. La persona autora o su representante legal deberán entregar el documento de disposiciones premortem al personal de salud encargado de implementar el tratamiento respectivo para su integración al expediente clínico y para el cumplimiento de las disposiciones establecidas en él.
+
+Al momento en que el personal de salud dé inicio al cumplimiento de los términos contenidos en el documento de disposiciones premortem, deberá asentar en el historial clínico del paciente en fase terminal toda la información que haga constar dicha circunstancia hasta su conclusión, incluyendo lo relativo a la práctica de cuidados paliativos, en los términos de la normatividad correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 27.
 
-A la Secretaría de Salud en el Estado corresponde la custodia, conservación y accesibilidad de una de las copias originales del documento de disposiciones premortem, que se otorguen modifiquen o revoquen.
+A los Servicios de Salud les corresponde la custodia y conservación de una de las copias del documento de disposiciones premortem, que se otorguen modifiquen o revoquen.
 
-La Secretaría de Salud, a través del reglamento correspondiente, determinará la organización y funcionamiento del registro de los documentos premortem, asegurando en todo caso la confidencialidad y el respeto de los datos personales a que obliga la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, facilitando su acceso a los servicios clínicos.
+Los Servicios de Salud determinarán la organización y funcionamiento del registro de los documentos de disposiciones premortem, asegurando en todo caso el derecho de acceso a la información, así como la confidencialidad y el respeto de los datos personales, de acuerdo con la Ley de Transparencia y Acceso a la Información Pública y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados, ambas del Estado de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 28.
 
-El personal médico de instituciones de salud, públicas y privadas, consultarán de forma inmediata a la Secretaría de Salud, si existe o no, documento de disposiciones premortem, cuando se preste atención clínica a una persona que se encuentre en fase terminal.
+Cuando se preste atención clínica a una persona que se encuentre en fase terminal, el personal médico de instituciones de salud públicas y privadas deberán consultar de forma inmediata a los Servicios de Salud si existe o no documento de disposiciones premortem.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 29.
 
-El médico o institución de servicios de salud que cumpla con esta Ley, quedan eximidos de cualquier consecuencia derivada de la observancia de la voluntad expresada por la persona autora del documento de disposiciones premortem.
+El personal médico y las instituciones de salud que cumplan con esta ley quedarán eximidos de cualquier consecuencia legal que derive de la observancia de la voluntad expresada por la persona autora del documento de disposiciones premortem.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 30.
 
-El incumplimiento de las disposiciones de esta Ley y su Reglamento, por parte del personal de salud o los servicios clínicos a cargo del cuidado de la persona autora, los hace responsables de indemnizar los daños y perjuicios a las personas que afecten con su conducta, lo que será sancionado de conformidad con el artículo 384 de la Ley de Salud del Estado.
+El incumplimiento de las disposiciones de esta Ley por parte del personal médico o de las instituciones de salud a cargo del cuidado de la persona autora, los hace responsables de indemnizar los daños y perjuicios que causen con su conducta, lo que será sancionado con multa equivalente de doscientos y hasta mil veces la unidad de medida de actualización vigente.
 
-###### ARTICULO 31.
+Sin perjuicio de lo anterior, el incumplimiento del documento de disposiciones premortem dará lugar a que el representante legal o su sustito den vista a la Comisión Estatal de Arbitraje Médico a fin de que este órgano inicie el trámite correspondiente.
 
-En caso de que existan dos o más documentos de disposiciones premortem, será válido el último firmado por la persona que lo suscriba.
+###### ARTÍCULO 31.
+
+(DEROGADO, P.O. 29 DE MAYO DE 2023)
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 32.
 
-Las disposiciones derivadas del documento de disposiciones premortem, en lo relacionado con la donación de órganos, se regirán por lo dispuesto en la Ley de Salud del Estado.
+Las disposiciones derivadas del documento de disposiciones premortem en lo relacionado con la donación de órganos se regirán por lo dispuesto en la Ley de Salud del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+###### ARTICULO 33.
+
+Los Servicios de Salud son el organismo encargado de velar por el cumplimiento de lo establecido en la presente ley y en los documentos de disposiciones premortem que estén bajo su resguardo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+###### ARTICULO 34.
+
+Son atribuciones de los Servicios de Salud:
+
+I. Recibir, registrar, archivar y resguardar los documentos de disposiciones premortem que se otorguen en el Estado;
+
+II. Coadyuvar con el registro de donantes en coordinación con los Centros Estatal y Nacional de Trasplantes;
+
+III. Fomentar, promover y difundir la cultura de la voluntad anticipada, sustentada en la deliberación previa e informada que realicen las personas, tendiente a fortalecer la autonomía de su voluntad;
+
+IV. Proponer, en el ámbito de su competencia, la celebración de convenios de colaboración con otras instituciones y asociaciones públicas o privadas en las que se promueva el cumplimiento de la presente Ley;
+
+V. Realizar campañas permanentes de sensibilización y capacitación dirigidas a la ciudadanía y al personal de los Servicios de Salud y de las instituciones de salud de carácter privado, respecto a la materia de la presente Ley;
+
+VI. Vigilar el cumplimiento de los documentos de disposiciones premortem;
+
+VII. Remitir copia del documento de disposiciones premortem cuando así se lo requieran las instituciones de salud, tanto públicas como privadas, el personal de salud, el médico tratante de un paciente en fase terminal, el representante legal o su sustituto, siempre y cuando dicha petición sea con el objeto de ejecutar los intereses en él contenidos;
+
+VIII. Supervisar que el personal de salud proporcione al otorgante información clara y oportuna respecto de las condiciones de su enfermedad, así como los tratamientos respectivos, a fin de fortalecer la autonomía de la voluntad del paciente y posibilitar que la suscripción del documento de disposiciones premortem sea resultado de un análisis y deliberación personal previa, sobre la base de dicha información;
+
+IX. Proporcionar información al personal de salud para que en los casos en que la persona autora del documento de disposiciones premortem exprese en éste su decisión de ser sometida a medios, tratamientos o procedimientos que pretendan prolongar su vida, éstos no sean contraindicados para la enfermedad de que se trate o vayan en contra de las prácticas médicas o la ética profesional, y
+
+X. Las demás que le otorguen otras leyes y reglamentos.
 
 ## TRANSITORIOS
 
@@ -366,3 +536,13 @@ P.O. 27 DE FEBRERO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0761.- SE REFORMAN LOS ARTÍCULOS 3º, 6, 15, 17, 23, 24, 25, 26, 27, 28, 29, 30 Y 32, ASÍ COMO LAS DENOMINACIONES DEL TÍTULO TERCERO “DEL DOCUMENTO DE DISPOSICIONES PREMORTEM” Y DE LOS CAPÍTULOS I “CARACTERÍSTICAS DEL DOCUMENTO DE DISPOSICIONES PREMORTEM” Y II “FORMALIDADES JURÍDICAS DEL DOCUMENTO DE DISPOSICIONES PREMORTEM”; ADICIONA A Y (SIC) LOS ARTÍCULOS 3º, LA FRACCIÓN XIV BIS, 24 BIS, 24 TER, 25 BIS, 25 TER, 26 BIS, 26 TER, 26 QUÁTER, 26 QUINQUE, 33 Y 34, ASÍ COMO AL TÍTULO TERCERO LOS CAPÍTULOS III, “DE LA NULIDAD Y REVOCACIÓN DEL DOCUMENTO DE DISPOSICIONES PREMORTEM” Y IV, “DEL CUMPLIMIENTO DE LAS DISPOSICIONES PREMORTEM”; Y DEROGA LOS ARTÍCULOS 14 Y 31, DE LA LEY ESTATAL DE DERECHOS DE LAS PERSONAS EN FASE TERMINAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Servicios de Salud deberán expedir el formato para la suscripción del documento de disposiciones premortem en un plazo de ciento veinte días hábiles contados a partir de le entrada en vigor del presente Decreto, y en su caso realizar las adecuaciones a su normativa interna, periodo en el cual únicamente podrán suscribirse dichos documentos ante la persona titular o adscrita a notaría pública.
