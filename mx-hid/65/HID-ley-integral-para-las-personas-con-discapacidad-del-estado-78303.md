@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2022-07-27"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -373,9 +373,11 @@ Los procesos por violación e incumplimiento de los derechos de las personas con
 
 Las personas con discapacidad gozarán de todos los derechos que establece el orden jurídico Estatal, sin distinción de origen étnico, género, edad, o un trastorno de talla, condición social, económica o de salud, religión, preferencias sexuales, estado civil, opiniones, embarazo, identidad política, lengua, situación migratoria o cualquier otro motivo u otra característica propia de la condición humana o que atente contra su dignidad.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
+
 ###### Artículo 27.
 
-La administración pública, de conformidad con su ámbito de competencia, garantizará el derecho a la igualdad de oportunidades de las personas con discapacidad, a través del establecimiento de medidas contra la discriminación y acciones positivas que permitan la integración social de las personas con discapacidad.
+La administración pública, de conformidad con su ámbito de competencia, garantizará el derecho a la igualdad de oportunidades de las personas con discapacidad, el pleno desarrollo, adelanto y empoderamiento de las mujeres con discapacidad, a través del establecimiento de medidas contra la discriminación y acciones positivas que permitan la inclusión social de las personas con discapacidad.
 
 ###### Artículo 28.
 
@@ -829,21 +831,33 @@ XVII.- Expedir la credencial respectiva que acredite a la persona, así como, la
 
 ### CAPÍTULO XIII. DEL PROGRAMA ESTATAL PARA LA INTEGRACIÓN SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
+
 ###### Artículo 84.
 
-El Programa Estatal para la Integración Social de las Personas con Discapacidad, es el instrumento rector de las políticas y estrategias de la Administración Pública, que buscan la inclusión social y la igualdad de oportunidades de las personas con discapacidad. En él, se establecerán acciones de mediano y corto plazo, que involucren a los diferentes órdenes de Gobierno, a fin de posicionar la inclusión de las personas con discapacidad.
+El Programa Estatal para la Integración Social de las Personas con Discapacidad, es el instrumento rector de las políticas y estrategias de la Administración Pública, cuyo objetivo es garantizar la inclusión social y la igualdad de oportunidades de las personas con discapacidad. En él, se establecerán acciones de mediano y corto plazo, que involucren a los diferentes órdenes de Gobierno, a fin de posicionar la inclusión de las personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
 ###### Artículo 85.
 
-El Programa Estatal contará con dotación presupuestaria propia que permita la realización efectiva y paulatina de las acciones contempladas. Mismas que buscarán dar respuesta a las necesidades de las personas con discapacidad.
+El Programa Estatal contará con dotación presupuestaria propia que permita la realización efectiva y paulatina de las acciones contempladas para dar respuesta a las necesidades de las personas con discapacidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2023)</small>
 
 ###### Artículo 86.
 
-El Programa Estatal será elaborado por los integrantes del sistema, organizaciones de la sociedad civil, y personas con discapacidad quienes considerarán las propuestas.
+El Programa Estatal será elaborado por los integrantes del sistema, organizaciones de la sociedad civil, y personas con discapacidad quienes considerarán las propuestas y circunstancias de vida de este sector de la población.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+Para el mejor cumplimiento del Programa Estatal, en su seguimiento y evaluación participarán los involucrados en su elaboración.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2023)</small>
 
 ###### Artículo 87.
 
-El Programa Estatal deberá cumplir con las obligaciones derivadas de la Convención sobre los Derechos de las Personas con Discapacidad, firmada por el Estado mexicano, y que entró en vigor el día tres de mayo del año 2008 con los Objetivos de Desarrollo del Milenio, a la presente Ley.
+El Programa Estatal deberá cumplir con las obligaciones derivadas de la Convención sobre los Derechos de las Personas con Discapacidad y otros instrumentos internacionales de los que el Estado Mexicano sea parte en esta materia.
 
 El Programa Estatal deberá contar al menos con los siguientes apartados:
 
@@ -855,9 +869,13 @@ II.- Los objetivos estratégicos del Programa;
 
 III.- Las estrategias y líneas de acción de carácter intersectorial e interinstitucional;
 
-IV.- Los mecanismos de coordinación o concertación con los sectores sociales, académicos, privados, de comunicación; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
 
-V.- Los mecanismos de evaluación del impacto del programa y de seguimiento.
+IV.- Los mecanismos de coordinación o concertación con los sectores sociales, civiles, académicos, privados, de comunicación; y
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
+
+V.- Los mecanismos de seguimiento y evaluación de impacto del programa.
 
 ###### Artículo 88.
 
@@ -1073,7 +1091,9 @@ V.- Implementar auditorias, por conducto de la Auditoria Superior, cuando sea pr
 
 Los Municipios a través de las instancias especializadas en la atención integral de las personas con discapacidad, o de Desarrollo Social, deberán:
 
-I.- Realizar su programa municipal de colaboración;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
+
+I.- Elaborar y ejecutar su programa municipal de colaboración;
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -1090,6 +1110,14 @@ V.- Promover la cultura de la inclusión de las personas con discapacidad;
 VI.- Impulsar las reformas necesarias para dar cumplimiento, en el ámbito de su competencia, a la presente Ley; y
 
 VII.- Colaborar con la implementación del Registro Estatal de Personas con Discapacidad.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+En la elaboración del programa, se debe otorgar participación activa a las personas con discapacidad del municipio, así como, a las organizaciones de la sociedad civil y los sectores privado, social y académico.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+
+En los términos de este artículo, el municipio preverá mecanismos de seguimiento y evaluación del programa.
 
 T R A N S I T O R I O S
 
@@ -1174,3 +1202,15 @@ P.O. 28 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 225 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES A LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 245 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 255 SE REFORMA EL ARTÍCULO 27 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
