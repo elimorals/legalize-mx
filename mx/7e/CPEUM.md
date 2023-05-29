@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2023-05-08"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2023.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1652,9 +1652,23 @@ III.- Durante la extinción de una pena corporal;
 
 IV.- Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes;
 
-V.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal; y
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
 
-VI.- Por sentencia ejecutoria que imponga como pena esa suspensión.
+V.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;
+
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
+
+VI.- Por sentencia ejecutoria que imponga como pena esa suspensión, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE MAYO DE 2023)</small>
+
+VII.- Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos.
+
+Por ser declarada como persona deudora alimentaria morosa.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, D.O.F. 29 DE MAYO DE 2023]</small>
+
+En los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.
 
 La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos de ciudadano, y la manera de hacer la rehabilitación.
 
@@ -3592,9 +3606,9 @@ La infracción a lo previsto en los párrafos anteriores, será sancionada con l
 
 A. El Ministerio Público de la Federación se organizará en una Fiscalía General de la República como órgano público autónomo, dotado de personalidad jurídica y patrimonio propio.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
 
-Para ser Fiscal General de la República se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso.
+Para que una persona pueda ser titular de la Fiscalía General de la República se requiere: ser ciudadana mexicana por nacimiento, en ejercicio de sus derechos; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciatura en derecho; gozar de buena reputación, y no haber sido condenada por la comisión de delito doloso.
 
 > <small>(REFORMADO [N. DE E. CON LAS FRACCIONES QUE LO INTEGRAN], D.O.F. 10 DE FEBRERO DE 2014)</small>
 
@@ -8863,3 +8877,11 @@ D.O.F. 8 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE DECLARA ADICIONADA UNA FRACCIÓN X AL ARTÍCULO 116 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SÍMBOLOS DE LAS ENTIDADES FEDERATIVAS”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 38 Y 102 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SUSPENSIÓN DE DERECHOS PARA OCUPAR CARGO, EMPLEO O COMISIÓN DEL SERVICIO PÚBLICO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Dentro de los 180 días naturales siguientes a su entrada en vigor, el Congreso de la Unión y las Legislaturas de las Entidades Federativas, deberán ajustar sus Constituciones y demás legislación que sea necesaria, a fin de dar cumplimiento al presente Decreto.
