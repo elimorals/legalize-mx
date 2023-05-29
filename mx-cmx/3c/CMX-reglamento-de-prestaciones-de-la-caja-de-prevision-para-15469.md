@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-prestaciones-de-la-caja-de-prevision-para-15469"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-12-19"
-last_updated: "2020-10-05"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15469&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,13 @@ issue_date: "1988-11-25"
 ---
 # REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MEXICO -- ANTES -- REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL -- ANTES -- REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL DEPARTAMENTO DEL DISTRITO FEDERAL-
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO DEL H. CONSEJO DIRECTIVO DE LA CAPTRALIR PUBLICADO EN EL NO. 444 DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 5 DE OCTUBRE DE 2020, SE REVOCA EL "ACUERDO POR EL QUE EL H. CONSEJO DIRECTIVO DE LA CAPTRALIR AUTORIZA LAS REFORMAS AL CAPITULO I DISPOSICIONES GENERALES" Y CAPITULO "XIX DEL FONDO DE VIVIENDA", ARTICULOS 2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 26, 27, 28, 30, 31, 32, 37, 50, 141, 143, 145, 146, 147, 148, 149, 151, 152 Y 153 DEL REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MEXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MEXICO, EL 17 DE JUNIO DE 2020.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ACUERDO DEL H. CONSEJO DIRECTIVO DE LA CAPTRALIR PUBLICADO EN EL NO. 444 DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 5 DE OCTUBRE DE 2020, SE REVOCA EL "ACUERDO POR EL QUE EL H. CONSEJO DIRECTIVO DE LA CAPTRALIR AUTORIZA LAS REFORMAS AL CAPITULO I DISPOSICIONES GENERALES" Y CAPITULO "XIX DEL FONDO DE VIVIENDA", ARTICULOS 2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 26, 27, 28, 30, 31, 32, 37, 50, 141, 143, 145, 146, 147, 148, 149, 151, 152 Y 153 DEL REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MEXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MEXICO, EL 17 DE JUNIO DE 2020.]
+
+[NOTA 2: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2023 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
 
 REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE MAYO DE 2023.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 19 de diciembre de 1988.
 
@@ -88,15 +90,15 @@ IV. Los pensionados y familiares derechohabientes de éstos y de los trabajadore
 
 V. El Sindicato Unico de Trabajadores del Gobierno del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+> <small>(ADICIONADA, G.O. 29 DE MAYO DE 2023)</small>
 
-###### ARTICULO 3º.
+VI. El Centro de Trabajo donde laboró por última vez el trabajador en activo.
 
-Para los efectos de este Reglamento, se entenderá como “Gobierno”, a todas las dependencias y autoridades del Gobierno del Distrito Federal; como “Institución”, a la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno del Distrito Federal; como “trabajadores” a quienes prestan sus servicios de base o eventual, figurando con tal carácter en la nómina de lista de raya del Gobierno y a los servidores públicos de la propia Institución; como “sueldo básico” al determinado como sueldo base y prima quinquenal de antigüedad por la Oficialía Mayor del Gobierno; como “pensionados”, a quienes perciben alguna o algunas de las pensiones establecidas, y como “Sindicato” a los representantes del Sindicato Único de Trabajadores del Gobierno del Distrito Federal.
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 3°.
 
-Para los efectos de este Reglamento, se entenderá como “Departamento”, a todas las dependencias y autoridades del Departamento del Distrito Federal; como “Institución”, a la Caja de Previsión para Trabajadores a Lista de Raya del Departamento del Distrito Federal; como “trabajadores”, a quienes prestan sus servicios de base o eventual, figurando con tal carácter en la nómina de lista de raya del Departamento y a los servidores públicos de la propia Institución; como “pensionados”, a quienes perciben alguna o algunas de las pensiones establecidas, y como “Sindicato” a los representantes del Sindicato Unico de Trabajadores del Gobierno del Distrito Federal.
+Para los efectos de este Reglamento, se entenderá como “Gobierno”, a todas las dependencias y autoridades del Gobierno de la Ciudad de México; como “Institución”, a la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno de la Ciudad de México; como “trabajadores” a quienes prestan sus servicios de base o eventual, figurando con tal carácter en la nómina de Lista de Raya del Gobierno de la Ciudad de México y a los servidores públicos de la propia Institución; como “sueldo básico” al determinado como sueldo base y prima quinquenal de antigüedad por la Secretaría de Administración y Finanzas; como “pensionados”, a quienes perciben alguna de las pensiones establecidas, y como “Sindicato” a los representantes del Sindicato Único de Trabajadores del Gobierno de la Ciudad de México.
 
 ###### ARTICULO 4°.
 
@@ -112,11 +114,13 @@ Las controversias que se susciten en la observancia de las disposiciones del pre
 
 ### CAPITULO II. De los Sujetos de las Pensiones
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 7°.
 
-Los trabajadores estarán sujetos a lo establecido por el presente Reglamento, siempre y cuando reúnan los requisitos que establece, y tendrán derecho a que se les otorguen pensiones.
+Los trabajadores estarán sujetos a lo establecido por el presente Reglamento, siempre y cuando reúnan los requisitos que establece, y tendrán derecho a que se les otorgue una pensión económica para su bienestar.
 
-Las pensiones a los familiares derechohabientes de los trabajadores o pensionados que fallezcan, se otorgarán debiendo reunir éstos los requisitos que el Reglamento consigna.
+Las pensiones a los familiares derechohabientes de los trabajadores o pensionados titulares que fallezcan, se otorgarán debiendo reunir éstos los requisitos que el Reglamento consigna.
 
 ###### ARTICULO 8°.
 
@@ -150,23 +154,21 @@ Las pensiones se otorgarán, debiéndose resolver durante un plazo máximo de 90
 
 El derecho al pago de las pensiones a los deudos, se iniciará el día siguiente a la fecha en que fallezca el trabajador o pensionado que las origina.
 
-> <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 11.
 
 El trabajador podrá obtener, previamente a los trámites de su pensión, la cuantificación de ésta.
 
-> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+Las pensiones se pagarán mensualmente dentro de los primeros 5 días del mes, a partir de la fecha en que el trabajador cause baja en el Gobierno o en la Institución.
 
-Las pensiones se pagarán mensualmente, a partir de la fecha en que el trabajador cause baja en el Gobierno o en la Institución.
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 12.
 
-Transcurrido el plazo máximo de 90 días, si no se hubiere otorgado la pensión exceptuándose aquellas derivadas de riesgos del trabajo, la Institución pagará los anticipos que estime convenientes al solicitante que estuviere separado definitivamente del servicio o a los beneficiarios del trabajador fallecido, pudiéndose proseguir el trámite para el otorgamiento de la pensión.
+Transcurrido el plazo máximo de 90 días, si no se hubiere otorgado la pensión; exceptuándose aquellas derivadas de riesgos del trabajo, la Institución pagará los anticipos que estime convenientes al solicitante que estuviere separado definitivamente del servicio o a los beneficiarios del trabajador fallecido, pudiéndose proseguir el trámite para el otorgamiento de la pensión.
 
-> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
-
-Para la debida integración de los expedientes respectivos, el Gobierno deberá proporcionar la información y los documentos requeridos.
+Para la debida integración de los expedientes respectivos, el Gobierno, el Centro de Trabajo y las personas derechohabientes deberán proporcionar la información y los documentos en los formatos y por los medios físicos o electrónicos requeridos por la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno de la Ciudad de México.
 
 ###### ARTICULO 13.
 
@@ -208,13 +210,11 @@ El período de tiempo cotizado con anterioridad a la interrupción deberá recon
 
 Para efecto del cómputo de los años de servicios y de cotización, sin demérito de los demás requisitos que establece el presente Reglamento, el derecho a la pensión por cesantía en edad avanzada podrá iniciarse a los nueve años seis meses un día; las de invalidez y retiro por edad y tiempo de servicios, a los catorce años seis meses y un día.
 
-> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 17.
 
-La cuantía de las pensiones aumentará simultáneamente y en la misma proporción en que se incremente el salario mínimo general para el Distrito Federal.
-
-Los pensionados tendrán derecho a una graficación (sic) anual equivalente en número de días a la concedida a los trabajadores en activo, según el monto de su pensión. Esta gratificación deberá pagarse un 50% antes del 15 de diciembre y el otro 50% a más tardar el 15 de enero del siguiente año.
+El monto máximo de las pensiones será el equivalente a diez veces la Unidad de Medida y Actualización (UMA). La cuantía de las pensiones aumentará simultáneamente y en la misma proporción en que se incremente esta unidad de medida.
 
 ### CAPITULO V. Sueldo, Cuotas Pensionarias y Cotizaciones
 
@@ -298,33 +298,43 @@ VII. Indemnización global.
 
 Tienen derecho a percibir las pensiones que la Institución otorga, quienes hayan prestado sus servicios como trabajadores a lista de raya del Gobierno del Distrito Federal, y quienes hayan laborado como empleados al servicio directo de la Institución, siempre y cuando satisfagan los requisitos que establece este Reglamento.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 28.
 
-Se consideran familiares derechohabientes de los trabajadores y de los pensionados, con derecho a disfrutar en el orden prelatorio las pensiones que otorga la Institución los siguientes:
+Se consideran familiares derechohabientes de los trabajadores y de los pensionados titulares, con derecho a disfrutar en el orden prelatorio las pensiones que otorga la Institución los siguientes:
 
-I. La esposa supérstite sola o con hijos del trabajador o pensionado fallecido, siempre y cuando éstos sean menores de 18 años, o mayores de esa edad, si se hallan incapacitados física o psicológicamente para desempeñar alguna labor remunerada, o cuando se trate de aquellos hijos del fallecido habidos fuera del matrimonio, que se encuentren en las condiciones de los anteriores.
+I. El o la cónyuge supérstite del trabajador o pensionado titular fallecido, siempre que el matrimonio haya tenido una duración de por lo menos dos años.
 
-> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+Se exceptúa de lo anterior aquellos casos en donde se hayan procreado hijos o el fallecimiento se origine por causas accidentales o por enfermedad detectada con posterioridad a la celebración del vínculo matrimonial;
 
-II. Los hijos solteros del trabajador o pensionado, mayores de 18 años y hasta 25, que comprueben estar realizando estudios medios o superiores en planteles oficiales y reconocidos y que no desempeñen trabajos remunerados.
+II. Los hijos del trabajador o pensionado titular fallecido, siempre y cuando éstos sean menores de 18 años, o mayores de esa edad, si se hallan incapacitados física o psicológicamente para desempeñar alguna labor remunerada, o cuando se trate de aquellos hijos del fallecido habidos fuera del matrimonio, que se encuentren en las condiciones de los anteriores;
 
-III. La mujer, por sí misma que, a falta de cónyuge, haya vivido cinco años anteriores al deceso de éste y siempre que ambos hubieran permanecido libres de matrimonio, o la mujer en concurrencia con los hijos procreados con aquél, cuando se cumplan las condiciones señaladas en la fracción precedente. Si el trabajador o pensionado, a su muerte, hubiera tenido más de una concubina, ninguna tendrá derecho a las prestaciones que otorga la Institución.
+III. Los hijos solteros del trabajador o pensionado titular, mayores de 18 años y hasta 25 años, que comprueben mediante constancia expedida dentro de los 30 días hábiles siguientes al inicio de cada ciclo escolar que se encuentran realizando estudios de nivel medio o superior acordes a su edad en planteles oficiales o reconocidos, así como un escrito mediante el cual los solicitantes manifiesten, bajo protesta de decir verdad, ser solteros, no vivir en concubinato y no tener trabajo remunerado;
 
-IV. El esposo supérstite, mayor de 55 años de edad, que se encuentre incapacitado para laborar y que, además, hubiere dependido económicamente de la trabajadora o pensionada, pudiendo hacerlo por sí solo o en concurrencia con los hijos, o éstos por sí mismos acreditando lo previsto por la fracción I de este artículo.
+IV. La persona, por sí misma que, a falta de cónyuge, haya vivido en concubinato dos años anteriores al deceso del pensionado titular y siempre que ambos hubieran permanecido libres de matrimonio, o que haya procreado hijos con el pensionado titular.
 
-V. El concubinario solo o concurriendo con los hijos, o éstos solos, cuando reúnan los requisitos a que alude la fracción I, siempre que aquél satisfaga lo dispuesto por las fracciones I, II y III de este artículo.
+Si el trabajador o pensionado titular, a su muerte, hubiera tenido más de un concubino, ninguno tendrá derecho a las prestaciones que otorga la Institución;
 
-VI. La madre y el padre, conjunta o separadamente y, a falta de éstos, los demás ascendientes si dependieron económicamente del trabajador o pensionado durante los cinco años anteriores a la muerte de éste.
+V. La madre y el padre, conjunta o separadamente y, a falta de éstos, los demás ascendientes si dependieron económicamente del trabajador o pensionado titular durante los cinco años anteriores a la muerte de éste; y
 
-VII. Los hijos adoptivos, menores de 18 años o mayores de esa edad hasta los 25, si estudian, o que estén incapacitados, tendrán derecho a disfrutar de la pensión por orfandad, cuando la adopción se haya llevado a cabo por el trabajador o pensionado antes de que hubiese cumplido 55 años de edad.
+VI. Los hijos adoptivos, menores de 18 años o mayores de esa edad hasta los 25, si estudian, o que estén incapacitados, tendrán derecho a disfrutar de la pensión por orfandad, cuando la adopción se haya llevado a cabo por el trabajador o pensionado antes de que hubiese cumplido 55 años de edad.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 29.
 
-Percibirán por partes iguales el monto total de la pensión que les corresponda, los familiares derechohabientes, de conformidad con lo dispuesto por el artículo anterior. Para el caso de que alguno de los beneficiados perdiese el derecho a disfrutar de la pensión otorgada, su parte incrementará proporcionalmente la de los demás.
+En caso de que el pensionado o jubilado titular contraiga matrimonio o inicie vida en concubinato posterior al otorgamiento de su pensión, o bien a su muerte, los familiares derechohabientes señalados en las fracciones I y IV del artículo anterior, solo podrán gozar de la pensión por un tiempo igual al que haya durado el vínculo matrimonial o de concubinato, y siempre que el vínculo haya tenido una duración de por lo menos dos años. Se exceptúa el plazo de espera de cinco años en aquellos casos en donde se hayan procreado hijos, el fallecimiento se origine por causas accidentales o por enfermedad detectada con posterioridad a la celebración de la unión.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 30.
 
-Los trabajadores quedan obligados a proporcionar a la Institución por escrito, los nombres de sus familiares derechohabientes, adicionados con informes y documentos probatorios que les sean solicitados, relacionados con la aplicación del presente Reglamento.
+Los trabajadores quedan obligados a:
+
+I. Proporcionar a la Institución por escrito, los nombres de sus familiares derechohabientes, adicionados con informes y documentos probatorios que les sean solicitados, relacionados con la aplicación del presente Reglamento.
+
+II. Cuando la Institución lo estime conveniente, podrá ordenar la verificación y autenticidad de la documentación y la justificación de los hechos que hayan servido de base para conceder cualquiera de las prestaciones señaladas. Si se descubriere que existe alguna falsedad, con audiencia del interesado, procederá a la respectiva revisión, suspendiéndose inmediata y temporalmente, el pago de las prestaciones otorgadas. Lo anterior con independencia de las acciones civiles o penales derivadas de la falsedad.
 
 ###### ARTICULO 31.
 
@@ -334,29 +344,33 @@ La edad y el parentesco de los trabajadores y sus familiares derechohabientes y 
 
 Cuando la Institución lo estime conveniente, podrá ordenar la verificación y autenticidad de la documentación y la justificación de los hechos que hayan servido de base para conceder cualesquiera de las prestaciones señaladas. Si se descubriere que existe alguna falsedad, con audiencia del interesado, procederá a la respectiva revisión, suspendiéndose inmediata y temporalmente, el pago de las prestaciones otorgadas.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 33.
 
 El disfrute de la pensión, se dará por concluida:
 
 I. En la fecha de fallecimiento del pensionado;
 
-II. Desde la fecha en que la viuda o la concubina contraiga matrimonio o viva en concubinato;
+II. Desde la fecha en que la persona viuda o en concubinato contraiga nuevo matrimonio o viva en concubinato;
 
-III. El día en que el menor de edad cumpla los 18 años, o cuando desaparezcan las causas de invalidez para el hijo mayor de 18 años, y
+III. El día en que el menor de edad cumpla los 18 años y no continúe realizando estudios acordes a su edad, contraiga matrimonio o concubinato, o cuando desaparezcan las causas de invalidez para el hijo mayor de 18 años;
 
-> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+IV. Al cumplir los 25 años de edad, los hijos pensionados que hayan proseguido los estudios correspondientes a una carrera profesional o subprofesional acorde a su edad, o cuando antes de alcanzar la edad indicada concluyan o interrumpan sus estudios, o se encuentren desempeñando un trabajo remunerado, o contraigan matrimonio o concubinato; y
 
-IV. Al cumplir los 25 años de edad, los hijos pensionados que hayan proseguido los estudios correspondientes a una carrera profesional o subprofesional, o cuando antes de alcanzar la edad indicada concluyan o interrumpan sus estudios, o se encuentren desempeñando un trabajo remunerado, o contraigan matrimonio.
+V. Al cumplirse el plazo señalado en el artículo 29 del presente ordenamiento.
 
 ###### ARTICULO 34.
 
 La divorciada no tendrá derecho a la pensión de quien haya sido su cónyuge, a menos que a la muerte de éste, se le estuviese pagando pensión alimenticia por resolución judicial y siempre que no existan viuda, hijos, concubina y ascendientes con derecho a la misma. Cuando la divorciada disfrutase de la pensión en los términos de este artículo perderá el derecho, si contrae nuevas nupcias, o viviese en concubinato.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 35.
 
-Si un pensionado desaparece de su domicilio por un período mayor de un mes sin que se tengan noticias de su paradero, los familiares con derecho a la transmisión de la pensión, disfrutarán de la misma con carácter provisional de conformidad con lo dispuesto por los conceptos que norman las prestaciones relativas, bastando para ello la comprobación del parentesco y la desaparición del pensionado con base en la denuncia de hechos que hubieren formulado ante las autoridades competentes, sin que sea necesario promover diligencias formales de ausencia.
+Si un pensionado titular desaparece de su domicilio por un período mayor de un mes sin que se tengan noticias de su paradero, los familiares con derecho a la transmisión de la pensión, disfrutarán de la misma con carácter provisional de conformidad con lo dispuesto por los conceptos que norman las prestaciones relativas, bastando para ello la comprobación del parentesco y la desaparición del pensionado con base en la denuncia de hechos que hubieren formulado ante las autoridades competentes, sin que sea necesario promover diligencias formales de ausencia.
 
-Si posteriormente apareciere el pensionado, sólo éste tendrá derecho a que se le otorgue la prestación correspondiente. Cuando se compruebe el fallecimiento del pensionado, la transmisión será definitiva.
+Si posteriormente apareciere el pensionado titular, sólo éste tendrá derecho a que se le otorgue la prestación correspondiente. Cuando se compruebe el fallecimiento del pensionado titular, la transmisión será definitiva.
 
 ###### ARTICULO 36.
 
@@ -366,11 +380,13 @@ I. A los familiares derechohabientes de les concederá pensión en los términos
 
 II. Cuando aparecieren los trabajadores, podrán elegir entre dos opciones: la primera, recibir su pensión equivalente, y cobrar, si las hubiere, las diferencias entre el importe de la misma y lo que se hay entregado a sus familiares y, la segunda, regresar al servicio, en cuyo caso deberá reintegrar a la Institución el monto total de las prestaciones entregadas a sus beneficiarios durante el lapso de su ausencia, con un interés igual al que devengue un préstamo a corto plazo por una cantidad similar, en el término prudente que se le fije.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 37.
 
-Cuando fallezca un pensionado, la Institución entregará a sus familiares derechohabientes que se hubieren hecho cargo de la inhumación, el importe de 120 días de pensión por concepto de ayuda para cubrir los gastos del sepelio, mediante la presentación del acta de defunción y su correspondiente identificación.
+Cuando fallezca un pensionado titular, la Institución entregará a sus familiares derechohabientes que se hubieren hecho cargo de la inhumación, el importe de 120 días de pensión por concepto de ayuda para cubrir los gastos del sepelio, mediante la presentación del acta de defunción y su correspondiente identificación.
 
-Si el que promueve el cobro no fuera familiar derechohabiente del finado, estará obligado a presentar, además la factura de los gastos funerarios.
+Si el que promueve el cobro no fuera familiar derechohabiente del finado, estará obligado a presentar, además la factura de los gastos funerarios, siempre que no exista un reclamo previo por parte de familiares derechohabientes. En este supuesto únicamente se cubrirá el importe señalado en la factura siempre que no exceda de 120 días de pensión.
 
 ###### ARTICULO 38.
 
@@ -396,11 +412,13 @@ Si al pensionado fallecido se le hubiere suspendido el pago de la pensión por a
 
 En los casos en que este Reglamento disponga suspender el trámite o el pago de una pensión, la Institución deberá dictar de inmediato las medidas conducentes para hacer efectiva la suspensión mencionada.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 44.
 
 Para estimar como válido el tiempo de servicios que ampare una licencia sin goce de sueldo, en los casos previstos por los artículos aplicables de este Reglamento, se deberá hacer constar en la hoja de servicios, el tiempo que abarque la licencia, el motivo de ésta y el sueldo que percibía el trabajador al obtenerla, con el objeto de tomarla en consideración al formular la correspondiente liquidación
 
-Cuando por motivos ajenos al interesado no hubiere cotizado a la Institución, previa la comprobación de esto y para los efectos de computársele al trabajador el tiempo de servicios, se le formulará la liquidación que deberá pagar por el tiempo que se señale en la respectiva hoja de servicios.
+Cuando por motivos ajenos al interesado no hubiere cotizado a la Institución, previa la comprobación de esto y para los efectos de computársele al trabajador el tiempo de servicios, se le formulará la liquidación que deberá pagar por el tiempo que se señale en la respectiva hoja de servicios, la cual contemplará las actualizaciones por intereses generados.
 
 ### CAPITULO VII. De las Pensiones por Riesgos de Trabajo
 
@@ -672,37 +690,49 @@ Si concurrieran familiares que acrediten fehacientemente mejores derechos que aq
 
 Se concederá pensión por viudez al esposo supérstite de la pensionista o trabajadora, siempre que haya cumplido 55 años de edad o que sin reunir este requisito de edad, se halle incapacitado para trabajar y haya dependido económicamente de la trabajadora o pensionista.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 81.
 
-La viuda deberá presentar copia certificada del acta de matrimonio del Registro Civil con el trabajador o pensionista que genere la pensión, expedida con posterioridad a la fecha del fallecimiento, así como la de defunción y la solicitud respectiva acompañada de la demás documentación correspondiente que con ella se exija.
+El o la cónyuge supérstite deberá presentar copia certificada del acta de matrimonio del Registro Civil con el trabajador o pensionista que genere la pensión, expedida con posterioridad a la fecha del fallecimiento, así como la de defunción y la solicitud respectiva acompañada de la demás documentación correspondiente que con ella se exija.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 82.
 
-El viudo presentará los mismos documentos a los que se hace alusión en el artículo precedente y, además, copia certificada del acta de nacimiento y si tiene menos de 55 años de edad, dictamen médico de su incapacidad, copia certificada de la información testimonial o de la probanza idónea para comprobar la dependencia económica de la trabajadora o pensionista acompañando la solicitud correspondiente y demás documentos que con ella se requieran.
+El viudo presentará los mismos documentos a los que se hace alusión en el artículo precedente, acompañando la solicitud correspondiente y demás documentos que con ella se requieran.
 
 ###### ARTICULO 83.
 
 Se otorgará pensión por viudez y orfandad a la esposa o esposo supérstite del pensionado o trabajador e hijos menores de 18 años o hasta los 25, si se encuentran estudiando o mayores incapacitados para laborar, siempre que el trabajador al momento del deceso haya tenido como mínimo 15 años de servicios e igual tiempo de cotizaciones, y 60 años o más de edad y 10 de cotizaciones.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 84.
 
-Se concederá pensión por orfandad a los hijos menores de 18 años o mayores de esta edad que no rebasen los 25, si comprueban estar estudiando y si declaran bajo protesta de decir verdad que no desempeñan ninguna ocupación remunerada, y a los incapacitados para laborar, cualesquiera que sea la edad de éstos, siempre que el trabajador hubiese prestado sus servicios cuando menos durante 15 años e igual tiempo de cotizar a la Institución, o 10 años de servicios y cotizaciones cuando fallezca después de los 60 años de edad. Procede también otorgársele esta pensión a los beneficiarios estipulados en el artículo 28, fracción VII de este Reglamento.
+Se concederá pensión por orfandad a los hijos menores de 18 años o mayores de esta edad que no rebasen los 25, si comprueban estar estudiando en un nivel escolar subprofesional o profesional acorde a su edad biológica, que no se encuentren casados o en concubinato y (sic) declaración bajo protesta de decir verdad que no desempeñan ninguna ocupación remunerada, y a los incapacitados para laborar, cualquiera que sea la edad de éstos, siempre que el trabajador hubiese prestado sus servicios cuando menos durante 15 años e igual tiempo de cotizar a la Institución, o 10 años de servicios y cotizaciones cuando fallezca después de los 60 años de edad. Procede también otorgársele esta pensión a los beneficiarios estipulados en el artículo 28, fracción VI de este Reglamento, siempre que la adopción se haya llevado a cabo por el trabajador o pensionado antes de que este hubiese cumplido 55 años de edad.
+
+En caso de que los mayores de 18 años y menores de 25 hayan dejado de estudiar por incapacidad medica comprobable, la institución podrá hacer los ajustes correspondientes para acreditar el nivel de estudios acorde con la edad biológica menos el periodo de incapacidad para asistir a clases.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 85.
 
-Los hijos de los trabajadores o pensionistas interesados, deberán presentar ante la Institución, una solicitud para el otorgamiento de dicha pensión, acompañada de las copias expedidas por el Registro Civil de su acta de nacimiento y de las de defunción de la madre y el padre y demás documentos que les sean requeridos.
+Los hijos de los trabajadores o pensionistas titulares interesados, deberán presentar ante la Institución, una solicitud para el otorgamiento de dicha pensión, acompañada de las copias expedidas por el Registro Civil de su acta de nacimiento y de las de defunción de la madre y el padre y demás documentos que les sean requeridos.
 
 Los hijos incapacitados deberán anexar a la solicitud que formulen, el dictamen médico expedido por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado en el que se les declara hallarse incapacitados para laborar.
 
-Los hijos mayores de 18 años y hasta los 25, deberán acreditar a satisfacción de la Institución, que se hallan realizando estudios medios superiores, cuya comprobación deberá hacerse en un plazo que no exceda de 30 días, después de concluido el plazo que para inscripción de cada ciclo escolar.
+Los hijos mayores de 18 años y hasta los 25, deberán acreditar a satisfacción de la Institución, que se hallan realizando estudios superiores acordes a su edad biológica, cuya comprobación deberá hacerse en un plazo que no exceda de 30 días, después de concluido el plazo que para inscripción de cada ciclo escolar.
 
 ###### ARTICULO 86.
 
 Si el hijo pensionado llegare a los 18 años y no pudiere trabajar debido a una enfermedad duradera, defectos físicos o enfermedad psíquica, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación para tal caso, el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que la Institución determine y proporcione, y a las investigaciones que en cualquier tiempo se ordenen para verificar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la pensión otorgada.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 87.
 
-Se concederá pensión por concubinato a la concubina que hubiere tenido hijos con el trabajador o pensionista o cuando hayan vivido juntos durante los cinco años anteriores a la muerte de alguno de los concubinos permaneciendo libres de matrimonio durante el concubinato. Respecto al concubinario, para que se le otorgue la pensión, deberá reunir y acreditar las condiciones señaladas por el artículo 28, fracción V de este Ordenamiento.
+Se concederá pensión por concubinato a la concubina o concubino que hubiere tenido hijos con el trabajador o pensionista titular o cuando hayan vivido juntos durante los cinco años anteriores a la muerte de alguno de los concubinos permaneciendo libres de matrimonio durante el concubinato. Respecto al concubinario, para que se le otorgue la pensión, deberá reunir y acreditar las condiciones señaladas por los artículos 28, fracción IV y 29 de este Ordenamiento.
 
 ###### ARTICULO 88.
 
@@ -736,17 +766,13 @@ II. Cuando aparecieran los trabajadores, éstos podrán elegir entre continuar r
 
 ### CAPITULO XIII. Indemnización Global
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 94.
 
-Se otorgará indemnización global a los trabajadores que sin tener derecho a pensión por jubilación, de retiro por edad y tiempo de servicios, cesantía en edad avanzada o invalidez, causen baja definitiva en el empleo.
+Se otorgará indemnización global a los trabajadores que, sin tener derecho a pensión por jubilación, de retiro por edad y tiempo de servicios, cesantía en edad avanzada o invalidez, causen baja definitiva en el empleo.
 
-La indemnización global consistirá en:
-
-I. El monto total de sus cotizaciones con que hubiere contribuido a la Institución, de conformidad con lo que establece el artículo 19, si acreditan haber laborado de uno a cuatro años de servicios.
-
-II. El monto total de las cuotas señaladas en la fracción anterior, más cuarenta y cinco días de su último sueldo básico, si acreditan haber prestado sus servicios de cinco a nueve años.
-
-III. El monto de referencia, más noventa días de su último sueldo básico, si laboró de diez a catorce años.
+La indemnización global consistirá en el monto total de sus cotizaciones con que hubiere contribuido a la Institución, de conformidad con lo que establece el artículo 19, si acreditan haber laborado de uno a catorce años de servicios, más 7 días de sueldo básico por cada año cotizado.
 
 > <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
 
@@ -846,11 +872,11 @@ La Institución otorgará préstamos personales a corto, mediano plazo y escolar
 
 Los préstamos escolares, se otorgarán a los hijos de los trabajadores y pensionistas al inicio del ciclo escolar, siempre y cuando acrediten cursar los niveles de instrucción pre-primaria, primaria, secundaria, preparatoria y profesional. A los trabajadores estudiantes, se les otorgará igualmente dichos préstamos con excepción del primer nivel.
 
-> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 105.
 
-El Consejo Directivo de la Institución determinará anualmente el monto de la partida de su presupuesto que se destine para préstamos a corto plazo y escolares el interés que éstos devenguen sobre saldos insolutos y tendrán 48 y 24 quincenas respectivamente como plazo para liquidarlos.
+El Consejo Directivo de la Institución determinará anualmente el monto de la partida de su presupuesto que se destine para préstamos a corto plazo y escolares, las primas e interés que éstos devenguen sobre la suerte principal y saldos insolutos. El plazo para la liquidación de los prestamos será de 48 y 24 quincenas respectivamente.
 
 > <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
@@ -872,13 +898,13 @@ El monto de los descuentos al trabajador o pensionado por concepto de préstamos
 
 El solicitante de un préstamo a corto plazo o escolar desde y para el inicio de su gestión deberá reunir los requisitos de forma que determine la Institución.
 
-> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 109.
 
 El monto de los préstamos a corto plazo y escolares será determinado por el Consejo Directivo, mediante acuerdo general que emita para garantizar igualdad de tratamiento a los solicitantes.
 
-En ningún caso el préstamo será superior a diez veces el sueldo mínimo mensual y su monto total lo constituirá el capital y los intereses calculados durante el lapso otorgado para su amortización.
+En ningún caso el préstamo será superior a diez veces la Unidad de Medida y Actualización y su monto total lo constituirá el capital y los intereses calculados durante el lapso otorgado para su amortización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
@@ -936,13 +962,11 @@ La Institución otorgará a los trabajadores con más de un año de servicios e 
 
 Asimismo, estos préstamos podrán ser destinados para la compra de bienes muebles de interés familiar o personal que garanticen plenamente el crédito, en los términos y bajo los requisitos que establezca el Consejo Directivo.
 
-> <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 117.
 
-La cuantía de los préstamos que se otorguen, comprendiendo capital e intereses, no excederá de 20 veces el importe del salario mínimo mensual, si se trata de trabajadores, y de 10 veces del importe de la pensión que se disfrute, si el solicitante es pensionado.
-
-El plazo máximo que en ambos casos se concederá para liquidarlos será de 120 quincenas y únicamente se concederá una sola vez al año.
+La cuantía de los préstamos que se otorguen, comprendiendo capital e intereses, no excederá de 20 veces el importe de la Unidad de Medida y Actualización mensual y de 10 veces el importe de la pensión que se disfrute, si el solicitante es pensionado.
 
 > <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
 
@@ -976,13 +1000,13 @@ Les será aplicables, en lo conducente, las disposiciones de este Reglamento rel
 
 ### CAPITULO XVII. De la Recuperación de los Préstamos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 125.
 
-De conformidad con lo dispuesto por este Reglamento, los préstamos que otorgue la Institución a los trabajadores, serán recuperados mediante descuentos que por nómina realice el Gobierno del Distrito Federal a pedimento de aquella.
+De conformidad con lo dispuesto por este Reglamento, los préstamos que otorgue la Institución a los trabajadores, serán recuperados mediante descuentos que por nómina realice el Gobierno de la Ciudad de México a pedimento de aquélla.
 
-Respecto a los pensionados, la Institución hará los descuentos correspondientes.
+Cuando el trabajador deje de cotizar a lista de raya, pero siga trabajando en algún órgano de gobierno o autónomo de la Ciudad de México, la Institución solicitara a la dependencia correspondiente el descuento por nomina respectivo.
 
 ###### ARTICULO 126.
 
@@ -1000,19 +1024,11 @@ Para el caso de mora de los trabajadores y pensionados, la Institución podrá d
 
 ### CAPITULO XVIII. Fondo de Garantía
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 129.
 
-Para garantizar el monto de los préstamos a corto, mediano plazo y escolares y para redimir los créditos que quedan insolutos en los términos de este Reglamento, se constituirá un fondo especial denominado Fondo de Garantía, cuyas primas se cubrirán conforme a los siguientes porcentajes:
-
-> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
-
-a) 1.0% sobre el importe del préstamo a los trabajadores que acrediten tener de uno a cinco años de aportaciones.
-
-b) 0.8% sobre el importe del préstamo, a los servidores que comprueben tener más de cinco a diez años de aportaciones.
-
-c) 0.6% sobre el importe del préstamo a los trabajadores y pensionados que tengan más de diez años de aportaciones.
+Para garantizar el monto de los préstamos a corto, mediano plazo y escolares y para redimir los créditos que quedan insolutos en los términos de este Reglamento, se constituirá un fondo especial denominado Fondo de Garantía, cuya prima no podrá ser mayor del 1% sobre el importe del préstamo a los trabajadores y pensionados.
 
 ###### ARTICULO 130.
 
@@ -1030,9 +1046,15 @@ Todos los trabajadores y los pensionados, cuando obtengan créditos a corto, med
 
 Los créditos a corto, mediano plazo y/o escolares, que se consideren insolutos, también se cargarán al Fondo de Garantía a partir del primer año de su vencimiento. La Institución queda facultada para emplear los medios legales de cobro que considere pertinentes, abonando al fondo, las cantidades que se recuperen.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 133.
 
-El Fondo de Garantía tendrá por objeto cubrir el pago de los créditos que quedaren insolutos al fallecer o sobrevenir incapacidad total permanente al acreditado.
+El Fondo de Garantía tendrá por objeto:
+
+I. Cubrir el pago de los créditos que quedaren insolutos al fallecer o sobrevenir incapacidad total permanente al acreditado; y
+
+II. Otorgar un mayor número de créditos en beneficio de los trabajadores y pensionados.
 
 ###### ARTICULO 134.
 
@@ -1176,25 +1198,25 @@ La Institución solicitará al Registro Público de la Propiedad correspondiente
 
 La designación de beneficiario no surtirá ningún efecto cuando la vivienda financiada o el crédito hipotecario esté ya escriturado, debiendo éste o los herederos sujetarse al procedimiento sucesorio respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 150.
 
-Para el caso de muerte del trabajador, la entrega a la que se refiere la fracción I del artículo 146 de este Reglamento se hará a sus beneficiarios en el orden de prelación siguiente:
+Para el caso de muerte del trabajador, la entrega a la que se refiere la fracción I del artículo 146 de este Reglamento se hará a sus beneficiarios en el orden de la prelación siguiente:
 
-I. Los que para tal efecto hayan sido designados por el trabajador ante la Institución.
+I. Los que para tal efecto hayan sido designados por el trabajador ante la Institución;
 
-II. La viuda, el viudo y los hijos que dependieron económicamente del trabajador, en el momento de su fallecimiento.
+II. La viuda, el viudo y los hijos que dependieron económicamente del trabajador, en el momento de su fallecimiento;
 
-III. Los ascendientes podrán concurrir con las personas mencionadas en la fracción precedente, cuando también hayan dependido económicamente del trabajador.
+III. Los ascendientes podrán concurrir con las personas mencionadas en la fracción precedente, cuando también hayan dependido económicamente del trabajador;
 
-IV. A falta de viudo o viuda, concurrirán con las personas señaladas en las fracciones II y III de este Ordenamiento, el supérstite con quien el derechohabiente haya vivido como si fuera su cónyuge durante los 5 años anteriores a su fallecimiento o con el que tuvo hijos, siempre y cuando ambos hubieran permanecido libres de matrimonio durante el concubinato, pero si al morir aquél tenía varias relaciones de esta índole, ninguna de las personas con quienes las tuvo, tendrá derecho a reclamarla.
+IV. A falta de viudo o viuda, concurrirán con las personas señaladas en las fracciones II y III de este Ordenamiento, el supérstite con quien el derechohabiente haya vivido como si fuera su cónyuge durante los 5 años anteriores a su fallecimiento o con el que tuvo hijos, siempre y cuando ambos hubieran permanecido libres de matrimonio durante el concubinato, pero si al morir aquél tenía varias relaciones de esta índole ninguna de las personas con quienes las tuvo, tendrá derecho a reclamarla.
 
-V. Los hijos aunque no hayan dependido económicamente del trabajador fallecido.
+V. Los hijos, aunque no hayan dependido económicamente del trabajador fallecido; y
 
 VI. Los ascendientes que tampoco hayan dependido económicamente de éste.
 
-La Institución para garantizar el pago de los depósitos a que hace referencia este artículo, está obligada a constituir una reserva actuarial.
+La Institución para garantizar el pago de los depósitos a que hace referencia este artículo, está obligada a constituir una reserva actuarial. El fondo se constituirá con los remanentes después de la aplicación de la fracción VII del artículo 143 del presente ordenamiento.
 
 > <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
 
@@ -1394,6 +1416,66 @@ Lo no previsto en este Reglamento lo resolverá el Consejo Directivo de la Insti
 
 Se incorporan al Sistema de Ahorro para el Retiro a que se refiere la fracción XXI del artículo 3 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, todos los trabajadores a lista de raya y los empleados de la Institución, por lo que les será aplicable lo relativo al Capítulo V bis de dicha Ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE MAYO DE 2023)</small>
+
+### CAPÍTULO XXIV. De la Aplicación de los Medios Electrónicos
+
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2023)</small>
+
+###### ARTICULO 179.
+
+La institución establecerá la aplicación de los medios electrónicos para mantener comunicación permanente con los trabajadores, pensionados y derechohabientes.
+
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2023)</small>
+
+###### ARTICULO 180.
+
+La institución publicará los avisos de carácter general en el portal web oficial de la institución y plataformas digitales o redes sociales de mayor uso, por lo que los trabajadores jubilados y derechohabientes deberán revisar de manera constante los canales oficiales de comunicación establecidos.
+
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2023)</small>
+
+###### ARTICULO 181.
+
+Los trabajadores, jubilados y derechohabientes de la institución deberán de proporcionar por lo menos lo siguiente:
+
+- Un correo electrónico.
+
+- Un número telefónico con servicio de mensajería para que puedan recibir avisos, comunicados o notificaciones de la institución.
+
+Las notificaciones realizadas por estas vías, tendrán y surtirán efectos legales al momento de su envío, debiendo la institución guardar la constancia de su envío.
+
+Los trabajadores, pensionados y derechohabientes deberán de mantener actualizados sus datos de contacto, en caso de que realicen modificaciones a los mismos deberán de notificarlo de manera inmediata a la institución.
+
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2023)</small>
+
+###### ARTICULO 182.
+
+Con la finalidad de dar certeza jurídica a los trabajadores, pensionados y derechohabientes, las notificaciones realizadas por medios electrónicos deberán ser almacenadas en los repositorios de almacenamiento que para tal efecto destine la institución.
+
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2023)</small>
+
+###### ARTICULO 183.
+
+Con la finalidad de agilizar y hacer eficientes los trámites y servicios ofrecidos, la institución implementará las herramientas digitales y sistemas informáticos que así se consideren, con la finalidad de otorgar un servicio de mejor calidad y eficiencia.
+
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2023)</small>
+
+###### ARTICULO 184.
+
+Las dependencias en donde laboren los trabajadores de nómina 5 del Gobierno de la Ciudad de México, deberán de hacer uso de las herramientas tecnológicas y sistemas informáticos que implemente la institución, con la finalidad de agilizar el intercambio de información necesaria para el otorgamiento de los derechos establecidos en el presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2023)</small>
+
+###### ARTICULO 185.
+
+Para la validación de la información y el uso de los sistemas informáticos, los funcionarios involucrados en el manejo de los sistemas podrán hacer uso de la firma digital y medios de validación que señale la institución, los cuales tendrán plena validez legal.
+
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2023)</small>
+
+###### ARTICULO 186.
+
+Con la finalidad de agilizar y hacer eficientes los trámites y servicios ofrecidos, la institución implementará el uso de credenciales digitales en formato no editable para los derechohabientes a los cuales se les presta el servicio, las cuales tendrán plena validez legal.
+
 ## TRANSITORIOS
 
 PRIMERO. Este Reglamento de Prestaciones entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Departamento del Distrito Federal.
@@ -1461,3 +1543,13 @@ G.O. 5 DE OCTUBRE DE 2020.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- La presente revocación entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO MEDIANTE EL CUAL SE DA A CONOCER EL ACUERDO POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DEL “REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO”, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 19 DE DICIEMBRE DE 1988”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se Derogan todas aquellas disposiciones que contravengan o se opongan (sic) la presente publicación.
