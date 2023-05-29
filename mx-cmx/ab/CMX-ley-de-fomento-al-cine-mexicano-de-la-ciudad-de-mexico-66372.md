@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-al-cine-mexicano-de-la-ciudad-de-mexico-66372"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-17"
-last_updated: "2018-04-05"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66372&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2009-02-12"
 
 LEY DE FOMENTO AL CINE MEXICANO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 17 de febrero de 2009.
 
@@ -64,37 +64,33 @@ LEY DE FOMENTO AL CINE MEXICANO DE LA CIUDAD DE MÉXICO
 
 Las disposiciones de esta Ley son de orden público e interés social y de observancia general en la Ciudad de México; tienen por objeto regular las acciones de promoción, fomento y desarrollo del cine mexicano en la Ciudad de México, en sus etapas de investigación, experimentación, producción, post-producción, distribución, promoción y exhibición en su diversidad de manifestaciones.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### Artículo 2.
 
-En razón a la contribución del cine mexicano, al desarrollo social, económico y cultural, del pueblo, en la Ciudad de México. Las acciones y programas que los órganos de gobierno de la Ciudad de México lleven a cabo con la finalidad de promover, fomentar y desarrollar al cine mexicano, se regirán por los siguientes principios:
+En razón a la contribución del cine mexicano, al desarrollo social, económico y cultural, del pueblo, en la Ciudad de México. Las acciones y programas que los órganos de gobierno de la Ciudad de México lleven a cabo con la finalidad de promover, fomentar y desarrollar al cine mexicano, se regirán por los siguientes derechos y principios:
 
-I. Democracia; considerada no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en la justa distribución de la riqueza, en el aprovechamiento equitativo del producto del trabajo social, y en el constante mejoramiento económico, social y cultural del pueblo.
+I. Democracia: considerada no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en la justa distribución de la riqueza, en el aprovechamiento equitativo del producto del trabajo social, y en el constante mejoramiento económico, social y cultural del pueblo;
 
-> <small>(REFORMADA, G.O. 5 DE ABRIL DE 2018)</small>
+II. Desarrollo integral: orientado a incentivar la inversión pública y privada para el fomento, promoción y desarrollo del cine mexicano en la Ciudad de México;
 
-II. Desarrollo integral; orientado a incentivar la inversión pública y privada para el fomento, promoción y desarrollo del cine mexicano en la Ciudad de México.
+III. Diversidad: basada en el carácter pluriétnico y pluricultural de la sociedad de la Ciudad de México y que tiene como fin reconocer y respetar las ideas, creencias y expresiones individuales y colectivas, así como garantizar el derecho al desarrollo de la propia cultura cinematográfica y la conservación de las tradiciones;
 
-> <small>(REFORMADA, G.O. 5 DE ABRIL DE 2018)</small>
+IV. Igualdad: dirigida a garantizar que las acciones, programas y políticas culturales relacionadas con el cine mexicano en la Ciudad de México tengan un sentido distributivo, equitativo, plural y social que propicie una mayor participación (sic) la población en este tipo de manifestaciones culturales;
 
-III. Diversidad; basada en el carácter pluriétnico y pluricultural de la sociedad de la Ciudad de México y que tiene como fin reconocer y respetar las ideas, creencias y expresiones individuales y colectivas, así como garantizar el derecho al desarrollo de la propia cultura cinematográfica y la conservación de las tradiciones.
+V. Libertad de expresión y asociación: como elementos fundamentales de cualquier producción cinematográfica que debe ser salvaguardados por la autoridad;
 
-> <small>(REFORMADA, G.O. 5 DE ABRIL DE 2018)</small>
+VI. Propiedad intelectual: integrada por el conjunto de derechos derivados de la producción cinematográfica, en el marco de la Ley Federal de Derechos de Autor y demás disposiciones aplicables; y
 
-IV. Igualdad; dirigida a garantizar que las acciones, programas y políticas culturales relacionadas con el cine mexicano en la Ciudad de México tengan un sentido distributivo, equitativo, plural y social que propicie una mayor participación (sic) la población en este tipo de manifestaciones culturales
-
-V. Libertad de expresión y asociación; como elementos fundamentales de cualquier producción cinematográfica que debe ser salvaguardados por la autoridad.
-
-VI. Propiedad intelectual; integrada por el conjunto de derechos derivados de la producción cinematográfica, en el marco de la Ley Federal de Derechos de Autor y demás disposiciones aplicables.
-
-VII. Tolerancia; fundada en el rechazo a cualquier forma de discriminación hacia una persona por razones de edad, sexo, orientación sexual, raza, estado civil, religión, ideología, condición económica o social, trabajo o discapacidad.
+VII. Tolerancia: fundada en el rechazo a cualquier forma de discriminación hacia una persona por razones de edad, sexo, orientación sexual, raza, estado civil, religión, ideología, condición económica o social, trabajo o discapacidad.
 
 > <small>(REFORMADO, G.O. 5 DE ABRIL DE 2018)</small>
 
 ###### Artículo 3.
 
 El cine mexicano constituye una expresión cultural generadora de identidad social. Es inviolable la libertad para realizar y producir películas en la Ciudad de México: su investigación, preservación, producción, promoción y difusión en la Ciudad de México, requiere del apoyo de las autoridades, las instituciones públicas y privadas, las organizaciones de la sociedad civil y, en general, de todos los habitantes de la entidad, de conformidad con lo previsto en esta Ley y en los demás ordenamientos aplicables.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 29 DE MAYO DE 2023)</small>
 
 ###### Artículo 4.
 
@@ -130,15 +126,23 @@ VII. Equipamiento o infraestructura cultural de cine: El conjunto de inmuebles, 
 
 VIII. PROCINECDMX: El Fideicomiso para Promoción y Desarrollo del Cine Mexicano en la Ciudad de México.
 
-IX. Fideicomiso: Fideicomiso para la Promoción y Desarrollo del Cine Mexicano en el Distrito Federal.
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 2023)</small>
+
+IX. Fideicomiso: Fideicomiso para la Promoción y Desarrollo del Cine Mexicano de la Ciudad de México.
 
 X. Industria cultural cinematográfica: Por su sentido social, es un vehículo de comunicación y expresión artística que constituye una actividad cultural primordial, además del aspecto comercial que le es característico.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE MAYO DE 2023)</small>
+
+X Bis. Película: La obra cinematográfica que contenga una serie de imágenes asociadas, plasmadas en un material sensible idóneo, con o sin sonorización incorporada, con sensación de movimiento, producto de un guión y de un esfuerzo coordinado de dirección, cuyos fines primarios sean de proyección en salas cinematográficas y/o su reproducción para venta, renta.
 
 > <small>(REFORMADA, G.O. 5 DE ABRIL DE 2018)</small>
 
 XI. Política Cultural del Cine: El conjunto de proyectos, programas y en general, acciones que el Gobierno de la Ciudad de México y las Alcaldías realicen con el fin de generar, preservar, rescatar, fomentar y desarrollar la cultura del cine en la Ciudad de México.
 
-XII. Producción: Ejecución del guión, historia, programa e imagen.
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 2023)</small>
+
+XII. Producción: El proceso sistemático que se sigue para la creación de cualquier obra cinematográfica o audiovisual, y que contempla diferentes etapas de su desarrollo.
 
 > <small>(REFORMADA, G.O. 5 DE ABRIL DE 2018)</small>
 
@@ -176,29 +180,25 @@ Las películas mexicanas realizadas en la Ciudad de México, serán consideradas
 
 ### CAPÍTULO ÚNICO. DE LAS AUTORIDADES
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### Artículo 7.
 
 Son autoridades encargadas de la aplicación de la presente ley:
 
-> <small>(REFORMADA, G.O. 5 DE ABRIL DE 2018)</small>
+I. La persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
-I. El Jefe de Gobierno de la Ciudad de México.
+II. La Secretaría de Cultura;
 
-II. La Secretaria de Cultura.
-
-> <small>(REFORMADA, G.O. 5 DE ABRIL DE 2018)</small>
-
-III. PROCINECDMX
-
-> <small>(REFORMADA, G.O. 5 DE ABRIL DE 2018)</small>
+III. PROCINECDMX; y
 
 IV. Las Alcaldías.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### Artículo 8.
 
-Para efectos de este ordenamiento, corresponde al Jefe de Gobierno de la Ciudad de México en materia de promoción cultural del cine mexicano:
+Para efectos de este ordenamiento, corresponde a la persona titular de la Jefatura de Gobierno de la Ciudad de México en materia de promoción cultural del cine mexicano:
 
 > <small>(REFORMADA, G.O. 5 DE ABRIL DE 2018)</small>
 
@@ -216,9 +216,13 @@ IV. Acordar con la Federación, las entidades federativas y los organismos inter
 
 V. Dictar los acuerdos administrativos necesarios para la eficaz coordinación y ejecución de programas gubernamentales dirigidos a fomentar, promover y desarrollar el cine mexicano en la Ciudad de México
 
-VI. Designar, a los representantes de la industria cultural cinematográfica que integran el Comité Técnico del PROCINEDF; y
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 2023)</small>
 
-VII. Las demás que establezca esta ley y otros ordenamientos jurídicos aplicables.
+VI. Designar a los representantes de la industria cultural cinematográfica que integran el Comité Técnico del PROCINECDMX; y
+
+> <small>(REFORMADA, G.O. 29 DE MAYO DE 2023)</small>
+
+VII. Las demás que establezcan esta ley y otros ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE ABRIL DE 2018)</small>
 
@@ -438,11 +442,11 @@ El Gobierno de la Ciudad de México establecerá con los creadores, asociaciones
 
 La estrategia de promoción y difusión del cine mexicano contribuirá al acercamiento entre la industria cultural cinematográfica y los habitantes de la Ciudad de México, que en su calidad de usuarios de esta oferta cultural deberán establecer un sistema de participación social para el fomento del cine mexicano, tomando como una de las vías, el circuito de salas para cine mexicano establecido en esta ley.
 
-> <small>(REFORMADO, G.O. 5 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
 
 ###### Artículo 18.
 
-Se otorgarán los estímulos que considere procedentes el Jefe de Gobierno de la Ciudad de México, a los establecimientos comerciales que tengan como giro el de sala de cine y que destinen más tiempo de pantalla a películas mexicanas.
+Se otorgarán los estímulos que considere procedentes la persona titular de la Jefatura de Gobierno de la Ciudad de México, a los establecimientos comerciales que tengan como giro el de sala de cine y que destinen más tiempo de pantalla a películas mexicanas.
 
 > <small>(REFORMADO, G.O. 5 DE ABRIL DE 2018)</small>
 
@@ -534,41 +538,37 @@ Los recursos del PROCINECDMX se destinarán preferentemente al otorgamiento de c
 
 Serán aptos para recibir el apoyo del Fideicomiso, los investigadores, creadores, productores, distribuidores, escuelas, y promotores de cine mexicano en la Ciudad de México que reúnan los requisitos que al efecto establezcan las reglas de operación y el Comité Técnico.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2023)</small>
+
 ###### Artículo 27.
 
-El Fideicomiso contará con un Comité Técnico que se encargará de nombrar a un Consejo Consultivo, compuesto de profesionales del sector cinematográfico, que analizarán los proyectos susceptibles de apoyo, y la correspondiente asignación de recursos, para cada categoría y convocatoria. Dicho Consejo se integrará por:
+El Fideicomiso contará con un Comité Técnico que se encargará de nombrar a un Consejo Consultivo, compuesto de profesionales del sector cinematográfico, el cual analizará los proyectos susceptibles de apoyo, y la correspondiente asignación de recursos para cada categoría y convocatoria. Dicho Consejo se integrará por:
 
-I. Representante del Jefe de Gobierno.
+I. Una persona representante de la persona titular de la Jefatura de Gobierno;
 
-II. Representante de la Secretaría de Cultura.
+II. Una persona representante de la Secretaría de Cultura;
 
-III. Representante de la Secretaría de Finanzas.
+III. Una persona representante de la Secretaría de Administración y Finanzas;
 
-> <small>(REFORMADA, G.O. 5 DE ABRIL DE 2018)</small>
+IV. La persona titular de la presidencia de la Comisión de Derechos Culturales del Congreso de la Ciudad de México;
 
-IV. Presidente de la Comisión de Cultura del Congreso de la Ciudad de México o su representante.
+V. Una persona representante de cada uno de los siguientes sectores y organismos representativos, propuestos de común acuerdo con la comunidad cinematográfica:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE ABRIL DE 2018)</small>
+a) De las y los productores;
 
-V. Un representante de cada uno de los organismos representativos de la industria cinematográfica, propuestos de común acuerdo con la comunidad cinematográfica y por la Secretaría de Cultura, designados por el Jefe de Gobierno de la Ciudad de México
+b) De las escuelas de cine en la Ciudad de México;
 
-a) Sector de Productores
+c) De las y los documentalistas;
 
-> <small>(REFORMADO, G.O. 5 DE ABRIL DE 2018)</small>
+d) De los sindicatos de la producción cinematográfica;
 
-b) Escuelas de cine en la Ciudad de México
+e) De las Instituciones Culturales Cinematográficas Nacionales;
 
-c) Documentalistas
+f) De las Sociedades de gestión; y
 
-d) Sindicatos de la producción cinematográfica
+g) De las Cooperativas cinematográficas.
 
-e) Instituciones Culturales Cinematográficas Nacionales
-
-f) Sociedades de gestión
-
-g) Cooperativas cinematográficas
-
-Los representantes de la industria cultural cinematográfica durarán en el cargo dos años y podrán ser electos hasta por dos períodos consecutivos. El Comité sesionará cuando menos una vez cada dos meses.
+Las personas representantes de la industria cultural cinematográfica durarán en el cargo dos años y podrán ser electas hasta por dos períodos consecutivos. El Comité sesionará cuando menos una vez cada dos meses.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE ABRIL DE 2018)</small>
 
@@ -649,3 +649,11 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de M
 SEGUNDO.- El presente Decreto entrará en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
 
 TERCERO.- A partir de la entrada (sic) del presente Decreto, la Secretaría de Finanzas y la Secretaría de Cultura cuentan con ciento veinte días para hacer las modificaciones conducentes al Fideicomiso al que se refiere el artículo 23 de esta Ley.
+
+G.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2; 4; 7; 8; 18 Y 27 DE LA LEY DE FOMENTO AL CINE MEXICANO DE LA CIUDAD DE MÉXICO".]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
