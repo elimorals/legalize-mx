@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-a-los-animales-para-el-estado-de-san-luis-148
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-23"
-last_updated: "2022-05-18"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 23 de marzo de 2021.
 
@@ -871,6 +871,8 @@ En el caso de que no concurra ninguna de las precisiones anteriores, los animale
 
 ### Capítulo I.. De las Prohibiciones
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 102.
 
 La captura de animales en la vía pública sólo puede realizarse cuando deambulen sin dueño aparente o no cuenten con placa de identificación.
@@ -903,7 +905,7 @@ Es responsabilidad de los centros de control animal o cualquier institución que
 
 ###### ARTÍCULO 107.
 
-Queda prohibida la presencia de menores de edad en al (sic) acto de sacrificar animales.
+Queda prohibida la presencia de niñas, niños y adolescentes en el acto de sacrificar animales.
 
 ###### ARTÍCULO 108.
 
@@ -1132,5 +1134,13 @@ P.O. 18 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0322.- SE REFORMA EL ARTÍCULO 114; Y ADICIONA AL ARTÍCULO 4° UNA FRACCIÓN, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 317 BIS EN SU PÁRRAFO PRIMERO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0762.- SE REFORMA EL ARTÍCULO 107, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
