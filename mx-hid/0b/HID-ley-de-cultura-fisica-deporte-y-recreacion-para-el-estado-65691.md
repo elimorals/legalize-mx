@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2023-05-02"
+last_updated: "2023-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -37,7 +37,9 @@ QUE CONTIENE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE 
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado Libre y Soberano de Hidalgo y 86 de la Ley de Hacienda Municipal, D E C R E T A:
 
-A N T E C E D E N T E S.
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -63,7 +65,9 @@ I.- Normar las actividades de las y de los deportistas y de las agrupaciones de 
 
 II.- Regular la actividad físico-deportiva en el Estado, mediante el establecimiento de las bases de coordinación entre los sectores social y privado;
 
-III.- Establecer el Sistema Estatal de Cultura Física, Deporte y Recreación, para garantizar en igualdad de condiciones y oportunidades, el acceso de la población del Estado, en la práctica, conocimiento y desarrollo del deporte; sin que su origen social y étnico los limite a participar en las diferentes disciplinas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
+
+III.- Establecer el Sistema Estatal de Cultura Física, Deporte y Recreación, para garantizar en igualdad de condiciones y oportunidades, el acceso de la población del Estado, en la práctica, conocimiento y desarrollo del deporte; sin que su origen social y étnico género, religión, estado civil o edad los limite a participar en las diferentes disciplinas;
 
 IV.- Fomentar la educación física, el deporte y la recreación como elementos fundamentales para el desarrollo integral del ser humano;
 
@@ -403,9 +407,9 @@ VII.- Establecer los procedimientos para lograr una coordinación y concertació
 
 VII Bis.- Impulsar campañas de actividad física y recreación.
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
 
-VIII.- Diseñar y operar estrategias para fomentar la práctica deportiva entre los grupos étnicos, adultos mayores, personas con discapacidad y población de escasos recursos;
+VIII.- Diseñar y operar estrategias que contribuyan a fomentar, promover y estimular la actividad física, la cultura física y el deporte, bajo el principio de equidad e igualdad hacia las personas con discapacidad, adultas mayores, grupos étnicos y población de escasos recursos;
 
 IX.- Formular programas destinados a promover y apoyar la formación, capacitación y actualización constante entre todo el personal técnico del deporte, que se dedica a trabajar en las diferentes disciplinas deportivas;
 
@@ -583,9 +587,9 @@ III.- Otorgar los estímulos y apoyos para el desarrollo y fomento del deporte;
 
 IV.- Promover la creación y apoyar a los organismos locales que desarrollen actividades deportivas y que estén incorporadas al Sistema Estatal de Cultura Física, Deporte y Recreación;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
 
-V.- Prever que las personas con discapacidad, de la tercera edad y demás grupos especiales, tengan las facilidades e instalaciones deportivas adecuadas para su libre acceso y desarrollo;
+V.- Prever que las personas con discapacidad, adultas mayores y demás grupos especiales, tengan facilidades e instalaciones con infraestructura y equipamiento adecuado e incluyente para su libre acceso y desarrollo;
 
 VI.- Organizar y coordinar las actividades deportivas en colonias, barrios, zonas y centros de población a través de las asociaciones y junta de vecinos, con el fin de fomentar y desarrollar el deporte, implementando por lo menos una unidad deportiva en la cabecera Municipal, para fomentar la convivencia familiar;
 
@@ -1878,5 +1882,11 @@ P.O. 26 DE DICIEMBRE DE 2022.
 P.O. 2 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 506 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 279 QUE MODIFICA LOS ARTÍCULOS 1 FRACCIÓN III, 25 FRACCIÓN VIII Y 39 FRACCIÓN V, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
