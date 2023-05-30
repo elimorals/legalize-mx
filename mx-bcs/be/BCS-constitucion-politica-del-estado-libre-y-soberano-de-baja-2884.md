@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2022-12-27"
+last_updated: "2023-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2023.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -731,9 +731,21 @@ VI.- Desempeñar las funciones electorales, censales, las de jurado y las de con
 
 30.- Los sudcalifornianos serán preferidos para toda clase de concesiones y para todos los empleos, cargos o comisiones del Gobierno en que no sea indispensable la calidad de ciudadano.
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 30 DE MAYO DE 2023)</small>
 
-31.- Las prerrogativas de las ciudadanas y ciudadanos Sudcalifornianos se suspenden por incumplimiento de las obligaciones a las que se refiere el Artículo 29. Dicha suspensión durará un año, y se impondrá sin menoscabo de las demás sanciones que correspondan.
+31.- Los derechos o prerrogativas de las ciudadanas y los ciudadanos Sudcalifornianos se suspenden:
+
+I.- Por incumplimiento de las obligaciones a las que se refiere el Artículo 29. Dicha suspensión durará un año, y se impondrá sin menoscabo de las demás sanciones que correspondan;
+
+II.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;
+
+III.- Por sentencia ejecutoria que imponga como pena esa suspensión;
+
+IV.- Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual, por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violación política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos o violencia institucional e incumplimiento de la obligación alimentaria, y
+
+V.- Ser declarada como persona deudora alimentaria morosa.
+
+Las personas que se ubiquen en alguno o algunos de los supuestos previstos en las fracciones II, III, IV y V del presente artículo no podrán ser registradas como candidatas o candidatos a cualquier cargo de elección popular, ni podrán ser designadas, electas o nombradas para desempeñar cualquier empleo, cargo o comisión en el servicio público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
@@ -1897,9 +1909,9 @@ V.- Representar al Gobernador del Estado cuand0 (sic) éste lo estime convenient
 
 VI.- Las demás que les confieran las Leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MAYO DE 2023)</small>
 
-84.- Para ser Procurador General de Justicia de ésta Entidad Federativa, y Fiscal Especializado en materia de Combate a la Corrupción, se requiere:
+84.- Para que una persona pueda ser titular de la Procuraduría General de Justicia de (sic) Estado, u ocupar la Fiscalía Especializada en materia de Combate a la Corrupción o cualquier otra subprocuraduría, se requiere:
 
 > <small>(REFORMADA, B.O. 23 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4704,3 +4716,13 @@ Segundo.- Los procedimientos de auditorías iniciados por la Auditoría Superior
 Tercero.- La Auditoría Superior del Estado de Baja California Sur deberá emitir los lineamientos para el uso de la vía electrónica y la firma electrónica en los procedimientos de certificación y envío de la cuenta pública y de los informes mensuales a cargo de las entidades fiscalizadas y publicarlo en su página oficial de internet, en un plazo de 90 días naturales posteriores a la entrada en vigor del presente decreto.
 
 Cuarto.- Las entidades fiscalizadas deberán presentar los informes mensuales a que se refieren los artículos 4 y 13 de la Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur, dentro del término legal por la vía electrónica a partir del informe mensual del mes de Enero del año 2023, ante la Auditoría Superior del Estado.
+
+B.O. 30 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2924 SE REFORMAN LOS ARTÍCULOS 31 Y 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMA EL ARTÍCULO 9 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del estado de Baja California Sur.
+
+SEGUNDO.- Hasta en tanto se cree el Registro Nacional de Obligaciones Alimentarias y para dar cumplimiento a la fracción V del Artículo 31 a que se refiere este Decreto, el Poder Judicial del Estado de Baja California Sur, deberá expedir la constancia de no ser deudor alimentario declarado judicialmente moroso.
+
+TERCERO.- La Dirección General del Sistema Penitenciario, deberá expedir la constancia de no contar con sentencia firme a la persona que pretenda ser registrada en una candidatura de elección popular, o ser nombrada para empleo, cargo o comisión en el servicio público, por los delitos a que se refiere la fracción IV del artículo 31 de la Constitución Política del Estado Libre y Soberano de Baja California Sur.
