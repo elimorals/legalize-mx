@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-para-los-municipios-del-estado-de-hidalgo-83952
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2022-06-06"
+last_updated: "2023-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -160,6 +160,14 @@ Están exentos del pago del impuesto predial los bienes propiedad de la Federaci
 > <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2017)</small>
 
 ARTÍCULO 12 BIS.- Se aplicará un descuento adicional a la cuota del impuesto predial, del 5% a lo establecido en la Ley de Ingresos de cada Municipio por concepto del pago anual anticipado, cuando los sujetos obligados, demuestren que utilizan energías limpias al interior de su inmueble.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
+
+Así mismo, tratándose de todas las personas jubiladas, pensionadas o mayores de 60 años, podrán aplicar un descuento adicional a la cuota del impuesto predial a lo establecido en la Ley de Ingresos de cada Municipio, no excediendo de un inmueble de su propiedad y que este sea de uso habitacional.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
+
+En el caso de bienes inmuebles en copropiedad destinados a uso habitacional, se podrá aplicar un descuento adicional a la cuota del impuesto predial, cuando todos los copropietarios sean personas jubiladas, pensionadas o mayores de 60 años.
 
 ###### ARTÍCULO 13.
 
@@ -1860,6 +1868,14 @@ P.O. 6 DE JULIO DE 2021.
 P.O. 6 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 208 POR EL QUE SE REFORMA LOS ARTÍCULOS 60 Y 95 QUATER DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EL ARTÍCULO 5 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO Y EL ARTÍCULO 29 DEL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 513 POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 12 BIS DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
