@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-05-15"
+last_updated: "2023-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1709,9 +1709,9 @@ XVII. Se lleve a cabo dentro de las instalaciones de templos o lugares destinado
 
 XVIII. El objeto del apoderamiento sea sustraído del interior de las instalaciones de instituciones educativas públicas o privadas, o sea parte integrante de ellas; o
 
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2023)</small>
 
-XIX. Se cometa en contra de persona con discapacidad o de más de sesenta años de edad. Para los efectos de este Código se entiende por persona con discapacidad, aquella que por razón congénita o adquirida presenta una o más alteraciones funcionales de carácter físico, mental, intelectual o sensorial, ya sean permanentes o temporales, que impliquen desventajas considerables en su interacción con el entorno social.
+XIX. Se cometa en contra de persona con discapacidad, menor de edad o de más de sesenta años de edad. Para los efectos de este Código se entiende por persona con discapacidad aquella que por razón congénita o adquirida presenta una o más alteraciones funcionales de carácter físico, mental, intelectual o sensorial, ya sean permanentes o temporales, que impliquen desventajas considerables en su interacción con el entorno social.
 
 Al responsable de Robo Calificado se le aplicará hasta en una mitad más de los mínimos y máximos previstos para el tipo penal de Robo.
 
@@ -2103,9 +2103,11 @@ Así mismo, se considerará como Responsabilidad Médica Asistencial, el surtir 
 
 Al responsable de la comisión de la presente figura típica se le aplicarán de 6 meses a 2 años de prisión, de 20 a 50 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y suspensión de 3 meses a 1 año
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 159.
 
-Responsabilidad profesional de abogados, defensores o litigantes. La Responsabilidad Profesional de Abogados, Defensores o Litigantes, consiste en:
+Responsabilidad profesional de abogados, defensores, asesores jurídicos o litigantes. La Responsabilidad Profesional de Abogados, Defensores, Asesores Jurídicos o Litigantes, consiste en:
 
 I. Abandonar una defensa o negocio, sin motivo justificado;
 
@@ -2117,11 +2119,17 @@ IV. Procurar deliberadamente resoluciones desfavorables en un juicio o procedimi
 
 V. Pedir términos para probar lo que notoriamente no puede demostrarse o no ha de aprovechar a su parte;
 
-VI. Concretarse solamente a aceptar el cargo de defensor, de oficio o particular, y a solicitar la libertad caucional, sin promover más pruebas habiéndolas, ni dirigir al inculpado en su defensa; o
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2023)</small>
+
+VI. Concretarse solamente a aceptar el cargo de asesor jurídico o defensor, de oficio o particular, sin promover más pruebas habiéndolas, ni dirigir al inculpado o a la víctima en su defensa, ni promover las acciones que puedan corresponder en materia de derechos humanos; o
 
 VII. Patrocinar o defender directa o indirectamente, los negocios en los que, no siendo parte interesada los litigantes sin Título, persigan éstos obtener un lucro cualquiera, así como cuando autoricen con su firma, en las condiciones indicadas, promociones en negocios judiciales.
 
 Al responsable de la comisión de la presente figura típica se le aplicarán de 1 a 3 años de prisión, de 25 a 100 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y suspensión de 6 meses a 3 años para ejercer la profesión.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
+
+Para efecto del presente artículo, se entiende como asesor jurídico a la persona profesional en derecho con cédula registrada ante la Secretaría de Educación Pública, encargada de brindar asesoría jurídica a las víctimas en materia penal.
 
 ### CAPÍTULO IX. Tipos Penales Protectores de la Fe Pública
 
@@ -3720,5 +3728,21 @@ P.O. 15 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 332.- REFORMA AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 341.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 342.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
