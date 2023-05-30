@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-para-el-estado-de-hidalgo-83957"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-11-21"
-last_updated: "2022-06-06"
+last_updated: "2023-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -203,6 +203,10 @@ V.- Resolver, a través de la Tesorería Municipal, sobre los subsidios, estímu
 
 VI.- Dictar, por conducto de la Tesorería Municipal, las disposiciones relativas a cancelaciones y condonaciones de multas y demás créditos planteados por los contribuyentes, en los porcentajes y formas legalmente procedentes.
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2023)</small>
+
+VII.- Proponer con sustento y fundamentación legal/material, las inconformidades que estime necesario substanciar ante el Congreso del Estado con motivo de la aprobación de la Ley de Ingresos Municipal que corresponda.
+
 ###### ARTÍCULO 23.
 
 Las obligaciones fiscales, no podrán dejar de cumplirse por la simulación de actos jurídicos que signifiquen el desconocimiento de una obligación de carácter fiscal.
@@ -262,6 +266,46 @@ El proyecto de Ley de Ingresos de cada Ayuntamiento, se formulará y aprobará p
 ###### ARTÍCULO 30.
 
 Cuando el Ayuntamiento inicie sus funciones, estando en vigencia la Ley de Ingresos propuesta por la administración anterior, podrá iniciar ante el Congreso del Estado las modificaciones que estime pertinentes, dentro de los 15 días siguientes a la toma de posesión. También lo podrá hacer en cualquier tiempo, cuando exista plena justificación para ello.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
+
+Publicada la Ley de Ingresos Municipal en el Periódico Oficial del Estado, si el proyecto original enviado por el Municipio al Congreso del Estado sufre cambios o alteraciones, sin causa fundada o motivada, el Presidente Municipal podrá presentar escrito con las inconformidades correspondientes, a efecto de que los puntos señalados sean reconsiderados y, de ser procedente, corregidos.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
+
+En caso de fe de erratas, deberá presentar escrito de inconformidad en el que funde y motive las causas por las cuales considera necesario iniciar el procedimiento conducente, para su análisis, discusión y en su caso aprobación.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
+
+Para el caso de modificación por discrepancia de criterios normativos o modificación por causa superviniente, además del escrito de informidad, deberá presentar la iniciativa de reforma a la Ley de Ingresos vigente, acompañada de la documentación establecida en las leyes en la materia, para su análisis, discusión y en su caso aprobación.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 30
+
+Bis.- Para los efectos del artículo anterior la inconformidad podrá fundarse en las siguientes hipótesis:
+
+I. Aclaración para Fe de Erratas.- Cuando el origen del cambio o alteración en algún punto consistió en un error u omisión durante el proceso de revisión, aprobación o posterior publicación en el Periódico Oficial del Estado.
+
+II. Modificación por discrepancia de criterios normativos.- Cuando a juicio del inconforme, el cambio o alteración en algún punto específico obedece a una inexacta aplicación de las leyes fiscales que el inconforme estime diversas a las que deben aplicarse.
+
+III. Modificación por causa superveniente.- Cuando por causas de fuerza mayor y sin que haya sido posible prever el cambio de situación jurídica o económica que tenga relación directa con algún punto de la Ley de Ingresos Municipal previamente aprobada y publicada, se hace necesario realizar los ajustes, siempre que estén plenamente fundados, motivados y justificados.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 30
+
+Ter.- Para presentar el escrito de inconformidad a que se refieren los artículos anteriores, se tendrán los siguientes términos:
+
+I. Aclaración para Fe de Erratas: 30 días naturales.
+
+II. Modificación por discrepancia de criterios normativos: 40 días naturales.
+
+III. Modificación por causa superveniente: 60 días naturales
+
+En cualquiera de estos casos, los términos comenzarán a correr a partir del día siguiente de la publicación de la respectiva Ley de Ingresos Municipales.
+
+El Congreso del Estado contará con un término de 30 días hábiles para substanciar el procedimiento incoado respetando la garantía de audiencia del inconforme; por lo que, previo análisis y discusión respecto de la inconformidad planteada resolverá lo que conforme a derecho corresponda y su decisión será inapelable.
 
 ###### ARTÍCULO 31.
 
@@ -3358,6 +3402,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 6 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 208 POR EL QUE SE REFORMA LOS ARTÍCULOS 60 Y 95 QUATER DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EL ARTÍCULO 5 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO Y EL ARTÍCULO 29 DEL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 512 POR EL QUE SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 22, TRES PÁRRAFOS AL ARTÍCULO 30 Y LOS ARTÍCULOS 30-BIS Y 30 TER, AL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO; Y POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO AL INCISO Q) DEL ARTÍCULO 60 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
