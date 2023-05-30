@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2023-04-20"
+last_updated: "2023-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -1831,11 +1831,13 @@ Dentro de los dos años contados a partir de la publicación del decreto o acuer
 
 Salvo en el caso de que el plebiscito sea solicitado por el titular del Poder Ejecutivo, el procedimiento no suspenderá los efectos del acto o decisión correspondiente. Si el resultado del plebiscito es en el sentido de desaprobar dicho acto o decisión, el titular del Poder Ejecutivo emitirá el decreto o acuerdo revocatorio que proceda en un plazo no mayor de quince días.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 78.
 
-El Gobernador del Estado enviará al Congreso del Estado, el primer jueves de marzo, un informe por escrito en el cual exponga la situación que guarda la Administración Pública del Estado.
+El Gobernador del Estado enviará al Congreso del Estado un informe por escrito en el cual exponga la situación que guarda la Administración Pública del Estado, el primer jueves de marzo, con excepción de los años en los que se realice la renovación de las personas titulares del Poder Ejecutivo federal y del Poder Ejecutivo del Estado, cuando se efectúe un proceso de revocación de mandato o de consulta popular u otro mecanismo de participación ciudadana análogo, de conformidad con los artículos 35 y 41 de la Constitución Política de los Estados Unidos Mexicanos, Base III, Apartado C y esta Constitución, casos en los cuales, lo enviará el 16 de febrero.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2009)</small>
 
 Los grupos y representaciones parlamentarias que integren el Congreso del Estado, durante el análisis del informe, fijarán su postura en los términos de la legislación correspondiente.
 
@@ -4246,3 +4248,9 @@ P.O. 20 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 192 MEDIANTE EL QUE SE REFORMA EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 117 Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 30 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 201, POR EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 78 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
