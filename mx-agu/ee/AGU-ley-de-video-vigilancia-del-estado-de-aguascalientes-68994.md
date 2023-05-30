@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-video-vigilancia-del-estado-de-aguascalientes-68994"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-22"
-last_updated: "2023-01-23"
+last_updated: "2023-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2009.
 
@@ -145,11 +145,17 @@ II. Un representante del Poder Legislativo, que no podrá ser Diputado, nombrado
 
 III. Un representante del Fiscal que tendrá derecho a voz y voto;
 
-IV. Un representante de la Comisión Estatal de los Derechos Humanos que tendrá derecho a voz y voto; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+IV. Un representante de la Comisión Estatal de los Derechos Humanos que tendrá derecho a voz y voto;
 
-V. Un representante de las Secretarias de Seguridad Pública o análogos de los Ayuntamientos, que cuenten con complejo de seguridad y que, a través de él, realicen actividades de Video Vigilancia, con derecho a voz y voto.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2023)</small>
+
+V. Un representante de las Secretarías de Seguridad Pública o análogos de los Ayuntamientos, que cuenten con complejo de seguridad y que, a través de él, realicen actividades de Video Vigilancia, con derecho a voz y voto; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2023)</small>
+
+VI. Un representante del Instituto de Transparencia del Estado de Aguascalientes que tendrá derecho a voz y voto.
 
 El Comité nombrará un Secretario Técnico que se encargará de dar seguimiento a las sesiones, llevar actas y registros, documentar los trabajos y archivos, así como de las demás funciones que señale el Reglamento.
 
@@ -449,9 +455,11 @@ La oposición al tratamiento de sus datos personales será procedente cuando la 
 
 También tendrán derecho a acceder a alguna grabación en los términos de este Capítulo y el Reglamento, las personas que razonablemente consideren que en alguna grabación existen datos referentes a una afectación que hayan sufrido en sus bienes o derechos.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 39.
 
-El ejercicio de los derechos establecidos en el presente Capítulo, podrá ser negado en virtud de los peligros que pudieran derivarse para la Seguridad Pública del Estado y Municipios, así como para la protección de los derechos y libertades de terceros o las necesidades de las investigaciones que se estén realizando.
+El ejercicio de los derechos establecidos en el presente Capítulo, podrá ser negado mediante resolución del Comité, en virtud de los peligros que pudieran derivarse para la Seguridad Pública del Estado y Municipios, así como para la protección de los derechos y libertades de terceros o las necesidades de las investigaciones que se estén realizando.
 
 ### CAPÍTULO X. Sanciones
 
@@ -612,3 +620,11 @@ P.O. 23 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 339.- SE REFORMA LA LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
