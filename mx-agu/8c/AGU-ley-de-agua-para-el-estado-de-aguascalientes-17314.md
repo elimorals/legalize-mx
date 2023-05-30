@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2023-04-13"
+last_updated: "2023-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,13 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE JUNIO DE 2023 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
+
+(REPUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023)
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -851,11 +855,11 @@ El Instituto promoverá la creación de organismos operadores municipales, en to
 
 Los Organismos Operadores Municipales se crearán, previo acuerdo del Municipio correspondiente y de conformidad con la legislación aplicable, como organismos descentralizados de la administración pública municipal, con personalidad jurídica y patrimonio propios.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2023)</small>
+(REFORMADO, P.O. 13 DE ABRIL DE 2023) (REPUBLICADO, P.O. 30 DE MAYO DE 2023)
 
 En el acuerdo de creación de los organismos descentralizados mencionados, se deberá establecer el área geográfica en donde prestarán los servicios públicos, y se podrá considerar la participación de representantes de organizaciones de los sectores social y privado incluyéndolos en sus consejos directivos u órganos de gobierno, o bien, constituyendo consejos consultivos de conformidad con los artículos 32 y 33 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2023)</small>
+(ADICIONADO, P.O. 13 DE ABRIL DE 2023) (REPUBLICADO, P.O. 30 DE MAYO DE 2023)
 
 Las disposiciones contenidas en los artículos 24 a 37 de esta Sección serán de aplicación supletoria para los municipios que no cuenten con reglamentación en la materia, o bien, sean omisas en algún aspecto.
 
@@ -2638,6 +2642,8 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
 
 P.O. 13 DE ABRIL DE 2023.
+
+(REPUBLICADO, P.O. 30 DE MAYO DE 2023)
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 343.- REFORMA DE LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
 
