@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2023-03-29"
+last_updated: "2023-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -131,6 +131,10 @@ XV. CONTABILIDAD AMBIENTAL. La generación, análisis y uso de información fina
 
 XVI. CONTAMINACIÓN: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2023)</small>
+
+XVI Bis. Contaminación lumínica: El resplandor luminoso en ambientes nocturnos o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera, que altera las condiciones naturales de luminosidad en horas nocturnas y dificultan las observaciones astronómicas de los objetos celestes, debido a la luz intrusa, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes y a la luminiscencia de las capas altas de la atmósfera;
+
 XVII. CONTAMINACIÓN VISUAL: Alteración de la naturaleza de un paisaje natural o urbano, causada por cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio;
 
 XVIII. CONTAMINANTE: Toda materia o energía en cualquiera de sus estados físicos y formas, que al incorporarse o actuar en el medio ambiente, altere o modifique su composición y condición natural;
@@ -189,6 +193,20 @@ XLIV. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Amb
 
 XLV. LICENCIA AMBIENTAL ESTATAL: Documento por el cual la Secretaría autoriza la operación y funcionamiento de los establecimientos de competencia estatal en materias de su competencia;
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE MAYO DE 2023)</small>
+
+XLV Bis. Luz intrusa: Parte de la luz de una instalación con fuente de iluminación que no cumple la función para la que fue diseñada y no previene la contaminación lumínica; incluye:
+
+a) La luz que cae indebidamente fuera de la zona que se requiere iluminar;
+
+b) La luz difusa en las proximidades de la instalación de iluminación;
+
+c) La luminiscencia del cielo, es decir, la iluminación del cielo nocturno que resulta del reflejo directo e indirecto de la radiación visible e invisible, dispersada por los constituyentes de la atmosfera, moléculas de gas, aerosoles y partículas en la dirección de la observación;
+
+d) La luz difusa que se esparce en las proximidades de la fuente artificial de iluminación, y
+
+e) La luz que se proyecta en varias direcciones fuera de la zona terrestre a iluminar;
+
 XLVI. MANEJO INTEGRADO DE CUENCA: Instrumento de gestión que emplea el enfoque de cuenca hidrográfica para entender las interrelaciones entre los recursos naturales (clima-relieve-suelo-vegetación), así como la forma en que se organiza la población para apropiarse de ellos y su impacto en la cantidad, calidad y temporalidad del agua, con el objetivo de equilibrar el aprovechamiento de los recursos naturales con la conservación de los mismos;
 
 XLVII. MANIFESTACIÓN DE IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
@@ -243,7 +261,9 @@ LXXI. RESTAURACIÓN DEL EQUILIBRIO ECOLÓGICO: Actividades tendientes a la recup
 
 LXXII. RIESGO AMBIENTAL: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición de un material o residuo, ocasionen efectos adversos en la salud humana, en los ecosistemas, o en los bienes y propiedades pertenecientes a los particulares;
 
-LXXIII. RUIDO: Sonido audible indeseable que moleste o perjudique la salud de las personas. Se mide generalmente en decibeles y es una fuente de contaminación;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2023)</small>
+
+LXXIII. RUIDO: Todo sonido generado por actividades humanas que, por su intensidad, duración o frecuencia, implique riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente; o los que superen los niveles fijados por las normas oficiales mexicanas;
 
 LXXIV. SECRETARÍA: Secretaría de Medio Ambiente y Recursos Naturales del Estado de Hidalgo;
 
@@ -341,7 +361,9 @@ XIV. Integrar, actualizar y, preferentemente hacer público el Registro de Emisi
 
 XV. Regular los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial, incluyendo la selección, determinación y autorización de los sitios destinados a la disposición final de éstos, con la participación de los Ayuntamientos, de conformidad con lo establecido en la presente Ley, la Ley de Prevención y Gestión Integral de Residuos del Estado de Hidalgo y su respectivo Reglamento, las normas técnicas ecológicas estatales y demás disposiciones aplicables;
 
-XVI. Prevenir y controlar la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas, gases y olores perjudiciales a la salud pública o en general al ambiente, provenientes de diversas actividades tanto del sector público como del privado y de fuentes fijas que provengan de establecimientos industriales, comerciales, de servicios y espectáculos públicos entre otros, y en su caso, de fuentes móviles;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2023)</small>
+
+XVI. Prevenir y controlar la contaminación generada por la emisión de ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas, gases y olores perjudiciales a la salud pública o en general al ambiente, provenientes de diversas actividades tanto del sector público como del privado y de fuentes fijas que provengan de establecimientos industriales, comerciales, de servicios y espectáculos públicos entre otros, y en su caso, de fuentes móviles;
 
 XVII. Prevenir, regular, controlar, vigilar o inspeccionar el aprovechamiento de minerales o sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición, que sólo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras, así como de actividades, cuya explotación se realice preponderantemente por medio de trabajos a cielo abierto y de la contaminación generada por éstas, asimismo abrir, conservar y llevar para su consulta los registros de los bancos de materiales y de las autorizaciones que emita la Secretaría;
 
@@ -467,7 +489,9 @@ X. La participación en la creación y administración de las áreas naturales p
 
 XI. La creación y administración de las áreas naturales protegidas de jurisdicción municipal, con la participación de organizaciones no gubernamentales, pueblos indígenas, ejidos, comunidades agrarias y pequeños propietarios en los términos que lo establecen la presente Ley y su Reglamento en la materia;
 
-XII. La aplicación de las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, efecto visual, vibraciones, energía térmica, radiaciones electromagnéticas, lumínicas y olores perjudiciales para el ambiente, proveniente de fuentes fijas por el funcionamiento de establecimientos comerciales o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles, excepto las que conforme a la Ley General y la presente Ley no sean consideradas de jurisdicción federal o estatal;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2023)</small>
+
+XII. La aplicación de las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, efecto visual, vibraciones, energía térmica, radiaciones electromagnéticas, luz intrusa y olores perjudiciales para el ambiente, proveniente de fuentes fijas por el funcionamiento de establecimientos comerciales o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles, excepto las que conforme a la Ley General y la presente Ley no sean consideradas de jurisdicción federal o estatal;
 
 XIII. La aplicación por sí o por conducto de los organismos operadores del agua, de las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas, que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas, con la participación que corresponda en los términos de esta Ley al Estado;
 
@@ -559,7 +583,9 @@ IV. Realizar las acciones para la protección, preservación y restauración del
 
 V. Prevenir y controlar la contaminación de la atmósfera, proveniente de fuentes fijas y móviles de jurisdicción federal;
 
-VI. Prevenir y controlar de la contaminación ambiental originada por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2023)</small>
+
+VI. Prevenir y controlar de la contaminación ambiental originada por ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal;
 
 VII. Prevenir y controlar plagas y enfermedades forestales mediante acciones de saneamiento autorizado;
 
@@ -1971,6 +1997,20 @@ De conformidad con lo establecido en el Reglamento que se expida en esta materia
 
 La Secretaría, la Procuraduría y los Ayuntamientos, son competentes para aplicar y vigilar la observancia de las disposiciones de esta Ley, que se refieren a la fracción II del presente artículo.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
+
+###### Artículo 131 Bis.
+
+Para lograr la prevención, reducción y control de la contaminación lumínica en la atmósfera, se deberán considerar los siguientes objetivos:
+
+a) Promover la eficiencia energética a través de un uso eficiente del alumbrado exterior, sin menoscabo de la seguridad que debe proporcionar a los peatones, los vehículos y las propiedades;
+
+b) Preservar al máximo posible las condiciones naturales de las horas nocturnas en beneficio de la fauna, la flora y los ecosistemas en general;
+
+c) Prevenir, minimizar y corregir los efectos de la contaminación lumínica en el cielo nocturno y, en particular en el entorno de los observatorios astronómicos que trabajan dentro del espectro visible, y
+
+d) Reducir la intrusión lumínica en zonas distintas a las que se pretende iluminar, principalmente en entornos naturales e interior de edificios.
+
 #### SECCIÓN PRIMERA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES FIJAS
 
 > <small>(REFORMADA PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
@@ -2253,19 +2293,25 @@ I. Cuando se viertan aguas provenientes de uso doméstico; y
 
 II. Cuando la acción se encuentre sujeta a límites y controles en las normas vigentes, sean Federales o Estatales.
 
-### CAPÍTULO V. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN OCASIONADA POR RUIDO, VIBRACIONES, ENERGÍA TÉRMICA, LUMÍNICA Y OLORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2023)</small>
+
+### CAPÍTULO V. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN OCASIONADA POR RUIDO, VIBRACIONES, ENERGÍA TÉRMICA, LUZ INTRUSA Y OLORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2023)</small>
 
 ###### Artículo 172.
 
-Quedan prohibidas las emisiones de ruido, vibraciones, olores, energía térmica y lumínica, cuando rebasen los límites máximos establecidos en las Normas Oficiales Mexicanas y Normas Técnicas Ecológicas Estatales, considerando los valores de concentración máxima permisibles para el ser humano y de contaminantes en el ambiente, que determine la Secretaría o la autoridad competente. La Secretaría, adoptará las acciones para impedir que se trasgredan dichos límites y la Procuraduría aplicará las medidas y sanciones correspondientes.
+Quedan prohibidas las emisiones de ruido, vibraciones, olores, energía térmica, luz intrusa, cuando rebasen los límites máximos establecidos en las Normas Oficiales Mexicanas y Normas Técnicas Ecológicas Estatales, considerando los valores de concentración máxima permisibles para el ser humano y de contaminantes en el ambiente, que determine la Secretaría o la autoridad competente. La Secretaría, adoptará las acciones para impedir que se trasgredan dichos límites y la Procuraduría aplicará las medidas y sanciones correspondientes.
 
-En la construcción de obras o instalaciones que generen energía térmica o lumínica, olores, ruido o vibraciones, así como en la operación o funcionamiento de las existentes, deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el equilibrio ecológico y el ambiente.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+En la construcción de obras o instalaciones que generen energía térmica, luz intrusa, olores, ruido o vibraciones, así como en la operación o funcionamiento de las existentes, deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el equilibrio ecológico y el ambiente.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2023)</small>
 
 ###### Artículo 173.
 
-Cualquier actividad no industrial que se realice en los centros de población, cuyas emisiones de ruido, vibraciones, energía térmica y lumínica, rebasen o puedan rebasar los límites máximos establecidos por la Normas Oficiales Mexicanas y Normas Técnicas Ecológicas Estatales, requieren permiso de la Autoridad Municipal competente.
+Cualquier actividad no industrial que se realice en los centros de población, cuyas emisiones de ruido, vibraciones, energía térmica y luz intrusa, rebasen o puedan rebasar los límites máximos establecidos por la (sic) Normas Oficiales Mexicanas y Normas Técnicas Ecológicas Estatales, requieren permiso de la Autoridad Municipal competente.
 
 ###### Artículo 174.
 
@@ -3444,5 +3490,11 @@ P.O. 15 DE DICIEMBRE DE 2022.
 P.O. 29 DE MARZO DE 2023
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 314 QUE REFORMA LOS ARTÍCULOS 1, FRACCIÓN XI, 6, FRACCIÓN XIX, 23 Y 25, FRACCIÓN VII, DE LA LEY PARA LA PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 495 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
