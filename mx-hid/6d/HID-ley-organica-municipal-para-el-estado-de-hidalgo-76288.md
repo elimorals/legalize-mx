@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2023-05-02"
+last_updated: "2023-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1188,6 +1188,10 @@ p).- Solicitar la expropiación de bienes por causa de utilidad pública, como l
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2022)</small>
 
 q) Formular anualmente, con apoyo de la Tesorería Municipal, la iniciativa de la Ley de Ingresos y remitirla al Congreso del Estado para su aprobación, a más tardar el primer día hábil del mes de octubre;
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
+
+Una vez aprobada y publicada la Iniciativa de Ley de Ingresos Municipal, si existiera inconformidad en alguna de sus partes por alguna de las causales establecidas en el Código Fiscal Municipal del Estado de Hidalgo, el Presidente Municipal podrá presentar Escrito de Inconformidad ante el Congreso Estatal para los efectos legales conducentes.
 
 r).- Formular anualmente el Presupuesto de Egresos;
 
@@ -4176,3 +4180,11 @@ P.O. 2 DE MAYO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- La reforma del último párrafo del artículo 145 SEPTIMUS, respecto de las cualidades que debe reunir la persona titular de las Instancias Municipales para el Desarrollo de las Mujeres, entrará en vigor a partir del 5 de septiembre de 2024.
+
+P.O. 30 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 512 POR EL QUE SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 22, TRES PÁRRAFOS AL ARTÍCULO 30 Y LOS ARTÍCULOS 30-BIS Y 30 TER, AL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO; Y POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO AL INCISO Q) DEL ARTÍCULO 60 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
