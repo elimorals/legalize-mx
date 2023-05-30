@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2022-11-30"
+last_updated: "2023-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -311,7 +311,9 @@ V. Diseñar programas que aseguren la igualdad salarial entre mujeres y hombres 
 
 Violencia Institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
-A fin de prevenir, sancionar y erradicar la violencia institucional, los tres poderes del gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones que correspondan en materia administrativa y proporcionarán la capacitación que requieran sus servidores públicos, a fin de que en ejercicio de sus funciones estos sean capaces de asegurar el derecho de las mujeres a una vida libre de violencia. Asimismo promoverán las acciones conducentes para sancionar las conductas violentas ejercidas por servidores públicos y reparar el daño inflingido (sic) a las afectadas, de conformidad con lo dispuesto por las normas jurídicas aplicables.
+> <small>(REFORMADO, B.O. 30 DE MAYO DE 2023)</small>
+
+A fin de prevenir, sancionar y erradicar la violencia institucional, los tres poderes del gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones que correspondan en materia administrativa y proporcionarán la capacitación que requieran sus servidores públicos, a fin de que en ejercicio de sus funciones estos sean capaces de asegurar el derecho de las mujeres a una vida libre de violencia. Asimismo promoverán las acciones conducentes para sancionar las conductas violentas ejercidas por servidores públicos y reparar el daño infligido a las afectadas y vigilarán la estricta aplicación de los artículos 31 y 32 de la Constitución Política del Estado Libre y Soberano de Baja California Sur, de conformidad con lo dispuesto por las normas jurídicas aplicables.
 
 #### SECCIÓN CUARTA. VIOLENCIA EN LA COMUNIDAD
 
@@ -1804,3 +1806,13 @@ B.O. 30 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2877 SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 201 Y SE ADICIONA UN ARTÍCULO 201 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 Y SE REFORMAN LAS FRACCIONES I, II Y III DEL ARTÍCULO 35 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2924 SE REFORMAN LOS ARTÍCULOS 31 Y 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMA EL ARTÍCULO 9 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del estado de Baja California Sur.
+
+SEGUNDO.- Hasta en tanto se cree el Registro Nacional de Obligaciones Alimentarias y para dar cumplimiento a la fracción V del Artículo 31 a que se refiere este Decreto, el Poder Judicial del Estado de Baja California Sur, deberá expedir la constancia de no ser deudor alimentario declarado judicialmente moroso.
+
+TERCERO.- La Dirección General del Sistema Penitenciario, deberá expedir la constancia de no contar con sentencia firme a la persona que pretenda ser registrada en una candidatura de elección popular, o ser nombrada para empleo, cargo o comisión en el servicio público, por los delitos a que se refiere la fracción IV del artículo 31 de la Constitución Política del Estado Libre y Soberano de Baja California Sur.
