@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-estatal-de-160426"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2023-05-15"
+last_updated: "2023-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -503,7 +503,7 @@ XLIII. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trab
 
 XLIV. Establecer instrumentos, políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes, en los términos de la Ley de la materia;
 
-XLV. Participar en la planeación, operación y seguimiento de las políticas públicas, programas y acciones que se implementen en la atención de migrantes y sus familias;
+XLV. (DEROGADA, P.O. 30 DE MAYO DE 2023)
 
 XLVI. Operar, coordinar y dirigir, bajo los principios rectores, políticas y criterios establecidos en la Ley General de Víctimas y la Ley de Víctimas del Estado de Aguascalientes, los servicios de ayuda, asistencia y reparación integral a las víctimas del delito y/o de violación a sus derechos humanos a través de la Comisión de Atención a Víctimas del Estado de Aguascalientes;
 
@@ -1163,7 +1163,9 @@ V. Coordinar, concertar y ejecutar, conjuntamente con el Sistema para el Desarro
 
 VI. Promover y apoyar, conjuntamente con la Secretaría de Planeación, Participación y Desarrollo, mecanismos de financiamiento para el bienestar social y el desarrollo regional, urbano y rural;
 
-VII. Coordinar y ejecutar, conjuntamente con la Secretaría de Desarrollo Económico, la política estatal para crear y apoyar empresas que vinculen a personas de la tercera edad, en estado de riesgo, de indefensión, o vivan algún tipo de violencia o discriminación;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2023)</small>
+
+VII. Coordinar y ejecutar, conjuntamente con la Secretaría de Desarrollo Económico, Ciencia y Tecnología, la política estatal para crear y apoyar empresas que vinculen a personas de la tercera edad, en estado de riesgo, de indefensión, o vivan algún tipo de violencia o discriminación;
 
 VIII. Fomentar la participación de instituciones académicas, de investigación, de organizaciones nacionales e internacionales, gubernamentales y no gubernamentales y de la sociedad en general, en el diseño, instrumentación y ejecución de políticas y programas de competencia de la Secretaría;
 
@@ -1267,7 +1269,9 @@ X. Promover y apoyar la industrialización y comercialización de los productos 
 
 XI. Organizar y fomentar servicios relacionados con las actividades agrícolas, pecuarias y forestales, considerando la disponibilidad de recursos naturales y los productos generados en cada región, así como la situación del mercado;
 
-XII. Organizar y patrocinar en coordinación con las Secretarías de Desarrollo Económico y de Turismo, según el caso, congresos, ferias, exposiciones y concursos agrícolas, ganaderos, avícolas, apícolas y silvícolas;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2023)</small>
+
+XII. Organizar y patrocinar en coordinación con las Secretarías de Desarrollo Económico, Ciencia y Tecnología; y de Turismo, según el caso, congresos, ferias, exposiciones y concursos agrícolas, ganaderos, avícolas, apícolas y silvícolas;
 
 XIII. Impulsar y apoyar los proyectos productivos que generen empleos e ingresos a las familias rurales;
 
@@ -1920,3 +1924,11 @@ P.O. 15 DE MAYO DE 2023.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 340.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
