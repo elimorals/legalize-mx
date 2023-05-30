@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-1604
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-30"
-last_updated: "2022-09-30"
+last_updated: "2023-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
 
 Ley publicada en el Extraordinario del Número 56 del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -951,7 +951,9 @@ El Instituto formulará las bases de organización y funcionamiento del REICyTEA
 
 Las bases proveerán lo necesario para que el REICyTEA favorezca la vinculación entre la investigación y sus formas de aplicación y generación.
 
-## TÍTULO QUINTO. VINCULACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2023)</small>
+
+## TÍTULO QUINTO. DE LA VINCULACIÓN, INNOVACIÓN, DESARROLLO TECNOLÓGICO Y ACCESO A INTERNET GRATUITO PARA EL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO III. Coordinación y Desconcentración
 
@@ -1057,7 +1059,9 @@ En cada caso se determinará la forma y condiciones en que el Instituto recupera
 
 Los apoyos a que se refiere el Artículo anterior se otorgarán por un tiempo determinado, de acuerdo con el contenido y los objetivos del proyecto; y se mantendrán mientras se demuestre la viabilidad técnica y económica del proyecto.
 
-### CAPÍTULO ÚNICO. Responsabilidades Administrativas
+### CAPÍTULO IV. Del Programa Estatal “Acceso a Internet Gratuito para el Estado de Aguascalientes”
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
 
 ###### Artículo 72.
 
@@ -1075,6 +1079,8 @@ El Gobierno del Estado, a través del Instituto reconocerá los logros sobresali
 
 El Gobierno del Estado, a través del Instituto, promoverá ante los sectores social y privado, la creación de centros, grupos, consorcios y redes de investigación y desarrollo tecnológico para el fomento del ecosistema emprendedor e innovador, de la investigación científica y tecnológica y la solución de problemas en el sector productivo.
 
+### CAPÍTULO ÚNICO. Responsabilidades Administrativas
+
 ###### Artículo 76.
 
 El Ejecutivo del Estado, a través del Instituto, podrá suscribir convenios de coordinación, integración, cooperación y colaboración con los Municipios, con el Gobierno Federal y con los Gobiernos de otros Estados, o con Instituciones Públicas o Privadas de Investigación y Enseñanza a fin de establecer programas y apoyos específicos de carácter local para impulsar el emprendimiento y la innovación, así como la desconcentración de la investigación científica y tecnológica.
@@ -1084,6 +1090,44 @@ En los convenios a que se refiere el párrafo anterior se determinarán los obje
 ###### Artículo 77.
 
 El Instituto convendrá con las entidades y dependencias de la administración pública federal, estatal o municipal a efecto de lograr acciones coordinadas que fomenten las actividades en materia de emprendimiento, innovación, ciencia y tecnología.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2023)</small>
+
+###### Artículo 77 Bis.
+
+Se crea el Programa denominado Acceso a Internet Gratuito para el Estado de Aguascalientes, el cual tiene por objeto facilitar el acceso de internet a la población del Estado de Aguascalientes de manera gradual mediante el establecimiento de puntos de conexión públicos, sin costo para el usuario y de acuerdo a la disponibilidad presupuestaria.
+
+Es atribución de la Secretaria de Innovación y Gobierno Digital, diseñar e implementar el Programa mencionado en el párrafo anterior, y suscribir los convenios de coordinación con las dependencias y entidades de la administración pública estatal o municipal que sean necesarios, así como con el sector privado, de acuerdo a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
+
+###### Artículo 77 Ter.
+
+El Programa denominado Acceso a Internet Gratuito para el Estado de Aguascalientes, deberá contemplar lo siguiente:
+
+I. Establecer la forma y cronograma mediante los cuales se fomentará el acceso gratuito de internet en el Estado;
+
+II. Establecer y administrar puntos de conexión inalámbricos a internet de acceso gratuito;
+
+III. Establecer los mecanismos de coordinación entre las dependencias, entidades públicas, así como los particulares que contribuyan al cumplimiento del programa.
+
+Es obligación del Estado, garantizar puntos de conexión inalámbricos conforme a las capacidades de red disponible para tal efecto.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
+
+###### Artículo 77 Quater.
+
+La Administración Pública Estatal instalará puntos de conexión de internet gratuito en las sedes de sus dependencias y entidades, en donde habitualmente exista concurrencia de público en general. Además, el Programa deberá señalar el método y el procedimiento, el aprovechamiento de los siguientes lugares como puntos de conexión:
+
+I. El uso de infraestructura necesaria competencia del Estado y de los Municipios, a través de los convenios de colaboración correspondientes.
+
+II. La ubicación de las escuelas públicas de educación básica, media superior y superior;
+
+III. Plazas públicas;
+
+IV. Parques públicos; y
+
+V. Principales puntos turísticos.
 
 ## TÍTULO SEXTO. RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
@@ -1174,3 +1218,17 @@ EMANUELLE SÁNCHEZ NÁJERA
 DIPUTADO SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 30 de septiembre de 2022.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 337.- SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado ejercerá las medidas presupuestarias y administrativas correspondientes para dar cumplimiento al programa “Acceso a Internet Gratuito para el Estado de Aguascalientes”, de manera gradual, incrementando su capacidad de cobertura territorial durante el periodo de la Administración Pública Estatal 2022-2027, a partir de la fecha de publicación del presente Decreto.
