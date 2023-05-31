@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2023-05-30"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -864,6 +864,10 @@ s).- Analizar y en su caso aprobar anualmente su presupuesto de egresos, el cual
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 s BIS) De acuerdo con su capacidad presupuestal, instrumentar la figura de presupuesto participativo como mecanismo de participación ciudadana, conforme a la legislación vigente y las normas reglamentarias que expida el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+s TER).- Conforme a la suficiencia presupuestal, participar y coadyuvar con el mantenimiento de los planteles educativos y las provisiones de los servicios de seguridad, agua, energía eléctrica y equipo básico para el funcionamiento de los mismos.
 
 t).- Autorizar al Presidente Municipal, la celebración de contratos con particulares e instituciones oficiales, sobre asuntos de interés público, en los términos de Ley. Al efecto, los Ayuntamientos están facultados para obligarse crediticiamente a través del Presidente Municipal; en este caso, se deberán observar los criterios de aprobación establecidos en esta Ley, así como en las disposiciones de la materia.
 
@@ -4188,3 +4192,9 @@ P.O. 30 DE MAYO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 514 POR EL QUE SE ADICIONA EL INCISO S TER) A LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO; Y LA ADICIÓN DE UN TERCER PÁRRAFO, RECORRIÉNDOSE EL SUBSECUENTE, AL ARTÍCULO 111 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 122 DE LA LEY DE EDUCACIÓN DEL ESTADO HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
