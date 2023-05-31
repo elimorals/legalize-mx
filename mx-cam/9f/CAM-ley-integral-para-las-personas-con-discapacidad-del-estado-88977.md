@@ -4,7 +4,7 @@ identifier: "CAM-ley-integral-para-las-personas-con-discapacidad-del-estado-8897
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-19"
-last_updated: "2023-03-22"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 19 de julio de 2012.
 
@@ -237,7 +237,9 @@ IX. Participar en los programas de cultura, deporte y recreación;
 
 X. Recibir la información, capacitación y asesoría para ella y su familia que les permita participar de manera activa en los procesos de habilitación y rehabilitación e incorporación a una vida con calidad y en los programas sociales de apoyo;
 
-XI. Recibir información mediante cualquier forma de comunicación que les facilite una participación e integración en igualdad de condiciones que el resto de la población, a través de la promoción del uso de la Lengua de Señas Mexicana, el Sistema Braille y otros modos, medios y formatos de comunicación, así como el acceso a Internet y demás sistemas y tecnologías de la información y las comunicaciones;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XI. A la libertad de expresión y opinión, incluida la libertad de recabar, recibir y facilitar información mediante cualquier forma de comunicación que les facilite una participación e integración en igualdad de condiciones que el resto de la población, a través de la promoción del uso de la Lengua de Señas Mexicana, el Sistema de Escritura Braille y otros modos, medios y formatos de comunicación, así como el acceso a Internet y demás sistemas y tecnologías de la información y las comunicaciones;
 
 XII. Accesibilidad en el caso de las personas con discapacidad que tengan un perro guía o animal de servicio, como apoyo para la realización de sus actividades cotidianas, a fin de que puedan transitar, ingresar y permanecer con ellos en todos los espacios en donde se desenvuelvan;
 
@@ -385,7 +387,9 @@ VII. Establecer programas permanentes de capacitación, actualización y especia
 
 VIII. Establecer conjuntamente con el Consejo, programas de capacitación para familias y terceras personas que atienden a personas con discapacidad para capacitarlos sobre las herramientas que apoyen el aprendizaje e integración escolar de los mismos;
 
-IX. Incluir la enseñanza de la Lengua de Señas Mexicana y el Sistema de Escritura Braille, así como programas de capacitación, comunicación, e investigación, para su utilización en las escuelas públicas y privadas;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+IX. Promover la enseñanza de la Lengua de Señas Mexicana y el Sistema de Escritura Braille; programas de capacitación e investigación y otros modos, medios y formatos de comunicación, así como el acceso a los nuevos sistemas y tecnologías de la información y las comunicaciones, incluido el internet, para su utilización en las escuelas públicas y privadas.
 
 X. Promover e implementar programas de formación y certificación de intérpretes, estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y la Lengua de Señas Mexicana;
 
@@ -576,6 +580,14 @@ VI. Las demás que dispongan otros ordenamientos.
 Corresponde a la Secretaría de Finanzas:
 
 Proyectar y calcular dentro de su presupuesto de egresos una partida presupuestaria para cada una de las dependencias y entidades de la Administración Pública Estatal, a fin de que puedan ser destinados y aplicados los recursos necesarios y suficientes a las políticas públicas en materia de discapacidad.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+###### Artículo 24 Bis.
+
+Corresponde a la Comisión de Transparencia y Acceso a la Información Pública del Estado:
+
+I. Facilitar de manera oportuna y sin costo adicional, la información dirigida al público en general, en formatos accesibles y de lectura fácil y con las tecnologías adecuadas a los diferentes tipos de discapacidad.
 
 ### CAPÍTULO II. DE LOS HH. AYUNTAMIENTOS DE LOS MUNICIPIOS DEL ESTADO
 
@@ -890,3 +902,11 @@ Artículo Primero. El presente decreto entrará en vigor el día siguiente al de
 Artículo Segundo. Las acciones de fomento a que se refiere este decreto se realizarán de manera gradual. Para tal efecto, la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas de la administración pública estatal deberá considerar las previsiones presupuestales y financieras que resulten necesarias para la debida implementación del presente decreto.
 
 Artículo Tercero. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 234 POR EL QUE “SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 7, LA FRACCIÓN IX DEL ARTÍCULO 14 Y SE ADICIONA UN ARTÍCULO 24 BIS A LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se oponga al presente decreto.
