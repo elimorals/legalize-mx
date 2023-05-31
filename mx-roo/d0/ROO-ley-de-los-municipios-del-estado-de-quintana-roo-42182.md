@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2022-05-25"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -683,6 +683,18 @@ El o la Presidente/a Municipal comunicará oficialmente la instalación e integr
 
 El Ayuntamiento tendrá sesiones ordinarias o extraordinarias, solemnes y permanentes, en la forma, términos y condiciones que disponga su reglamento interior para cada caso, pero el número de sesiones ordinarias será cuando menos de dos al mes.
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2023)</small>
+
+Las sesiones a las que se refiere el párrafo anterior, de manera excepcional, podrán realizarse de manera virtual, previo acuerdo del Ayuntamiento, en los términos y condiciones que disponga el reglamento interior correspondiente, utilizando herramientas y tecnologías de la información y las comunicaciones, que garanticen la plena identificación de sus participantes, así como el registro de su voto en los asuntos correspondientes, únicamente cuando se presente alguna de las siguientes circunstancias:
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+a) Las contingencias y emergencias sanitarias declaradas por las autoridades competentes, y
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+b) Las contingencias y emergencias que deriven de fenómenos climatológicos, meteorológicos o ambientales, declaradas por las autoridades de protección civil competentes.
+
 Las sesiones del Ayuntamiento serán públicas, salvo que se requiera desahogar asuntos que por su naturaleza no pueden ser de inmediato conocimiento público, para lo cual dicha determinación deberá ser aprobada por el Ayuntamiento.
 
 Cuando las sesiones sean públicas serán transmitidas en la página oficial de internet del Ayuntamiento.
@@ -719,6 +731,10 @@ Las actas originales las conservará el propio Ayuntamiento, las cuales se folia
 
 Una copia certificada de las mismas, se enviará anualmente al Archivo General del Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Para el caso de las sesiones que se realicen de manera virtual en términos de lo dispuesto por el párrafo segundo del artículo 59 de esta Ley, independientemente de las previsiones que se contemplen en el reglamento interior para la validación electrónica de las determinaciones que se tomen, invariablemente, deberá elaborarse y suscribirse, físicamente, el acta a que se refiere el presente numeral, para todos los efectos legales a los que haya lugar.
+
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 62.
@@ -729,9 +745,11 @@ El o la Secretario/a General del Ayuntamiento, es responsable de los libros de a
 
 Cualquier persona podrá solicitar una constancia oficial de los acuerdos del Ayuntamiento y éste estará obligado a proporcionarlo, salvo que lo solicitado se refiera a un asunto que por su naturaleza se considere confidencial o reservado, de acuerdo con la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 64.
 
-Las sesiones del Ayuntamiento se celebrarán en el recinto oficial destinado para tal efecto, a menos que por acuerdo del propio Ayuntamiento, se declare de manera temporal otro lugar como recinto oficial.
+Las sesiones del Ayuntamiento se celebrarán en el recinto oficial destinado para tal efecto, a menos que por acuerdo del propio Ayuntamiento, se declare de manera temporal otro lugar como recinto oficial o se celebre de manera virtual.
 
 ### Capítulo II
 
@@ -3536,3 +3554,13 @@ P.O. 25 DE MAYO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 059 POR EL QUE SE REFORMA EL ARTÍCULO 64 Y SE ADICIONA UN PÁRRAFO SEGUNDO Y LOS INCISOS A) Y B) RECORRIÉNDOSE EN SU ORDEN LOS PÁRRAFOS SUBSECUENTES DEL ARTÍCULO 59, ASÍ COMO UN ÚLTIMO PÁRRAFO AL ARTÍCULO 61, TODOS DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado, deberán adecuar las disposiciones reglamentarias correspondientes.
