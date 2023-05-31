@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2023-04-13"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -889,11 +889,15 @@ Quien por su conducta culposa, ha llegado a quedar incapacitado, sólo puede exi
 
 El que recibe alimentos está obligado a darlos a aquél de quien los recibió, cuando éste los necesite.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 134.
 
-El obligado a dar alimentos cumple asignando una pensión suficiente y adecuada a la posibilidad de quien debe darlos y a la necesidad del que debe recibirlos o integrándolo a la familia. Si el acreedor se opone justificadamente a ser incluido, compete al Juez Familiar, según las circunstancias, fijar la manera de suministrar los alimentos.
+La persona obligada a dar alimentos cumple asignando una pensión suficiente para asegurar una vida digna y decorosa a las personas acreedoras alimentarias, debiendo ser adecuada a la posibilidad de quien debe darla y a la necesidad de quien deba recibirla; o, en su caso, integrando a la o las personas acreedoras a la familia. Si ésta o éstas se oponen justificadamente a ser incluidas, compete a la o al Juez Familiar, según las circunstancias, fijar la manera de suministrar los alimentos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+La cuantificación de la pensión alimentaria debe ser realizada con perspectiva de género, considerando los factores sociales, económicos y familiares.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3518,5 +3522,11 @@ P.O. 15 DE DICIEMBRE DE 2022.
 P.O. 13 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 501 POR EL QUE SE REFORMA EL ARTÍCULO 170 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 509 POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 134 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
