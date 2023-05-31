@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2022-09-12"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -45,9 +45,9 @@ CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
 Las disposiciones de este título, salvo precepto expreso en contrario, son comunes a todo el Derecho Positivo del Estado de Quintana Roo, y las de este Código son supletorias, en lo conducente, de las demás leyes quintanarroenses.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-Las disposiciones de este Código que se refieran a la familia son de orden público, de observancia obligatoria y de carácter social y tutelares fundamentalmente de la mujer, de las personas menores de edad, de los discapacitados y de los adultos mayores.
+Las disposiciones de este Código que se refieran a la familia son de orden público, de observancia obligatoria y de carácter social y tutelares fundamentalmente de la mujer, de las niñas, niños y adolescentes, de las personas con discapacidad y de las personas adultas mayores.
 
 ###### Artículo 2.
 
@@ -2595,15 +2595,21 @@ La capacidad de ejercicio es la aptitud para ejercitar derechos y cumplir obliga
 
 Tienen capacidad de ejercicio:
 
-I.- Los mayores de edad no sujetos a interdicción;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-II.- Los menores emancipados;
+I. Las personas mayores de edad no sujetas a interdicción;
 
-III.- Las personas jurídicas.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+II. Las o los adolescentes emancipados, y
+
+III. Las personas jurídicas.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 519.
 
-Los negocios de familia que este Código reglamenta pueden ser celebrados personalmente por los menores que hayan cumplido dieciséis años, si son varones y catorce si son mujeres, con autorización de sus legítimos representantes o de quien pueda suplir legalmente dicha autorización.
+Los negocios de familia que este Código reglamenta pueden ser celebrados personalmente por las y los adolescentes que hayan cumplido dieciséis años con autorización de sus legítimos representantes o de quien pueda suplir legalmente dicha autorización.
 
 ###### Artículo 520.
 
@@ -2647,45 +2653,55 @@ Son nulos los negocios jurídicos celebrados por los menores emancipados con inf
 
 ### CAPITULO III (SIC). De la incapacidad
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 529.
 
 Son incapaces:
 
-I.- Los menores de edad;
+I. Las niñas, niños y adolescentes;
 
-II.- Los mayores de edad enumerados en los siguientes incisos de esta fracción;
+II. Las personas mayores de edad enumeradas en los siguientes incisos de esta fracción;
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+a) Que por causa de enfermedad reversible, o por su estado particular de incapacidad, ya sea de carácter físico, sensorial, intelectual, emocional, mental o varias de ellas a la vez, no puedan gobernarse, obligarse o manifestar su voluntad, por sí mismas o por algún medio que la supla, y
 
-a) Que por causa de enfermedad reversible, o por su estado particular de incapacidad, ya sea de carácter físico, sensorial, intelectual, emocional, mental o varias de ellas a la vez, no pueden gobernarse, obligarse o manifestar su voluntad, por si mismos o por algún medio que la supla;
+b) Las personas sordomudas que no sepan darse a entender por escrito o, mediante intérprete, por el lenguaje mímico en que se imparte instrucción escolar a las personas de su clase, y
 
-b) Los sordomudos que no sepan darse a entender por escrito o, mediante intérprete, por el lenguaje mímico en que se imparte instrucción escolar a los de su clase; y
+III. Las personas ebrias consuetudinarias y las que habitualmente hacen uso no terapéutico de enervantes, estupefacientes, psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca farmacodependencia.
 
-III.- Los ebrios consuetudinarios y los que habitualmente hacen uso no terapéutico de enervantes, estupefacientes, psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca farmacodependencia.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 530.
 
-Son nulos los actos y negocios jurídicos que realicen los menores por sí mismos cuando estén sujetos a patria potestad.
+Son nulos los actos y negocios jurídicos que realicen las niñas, niños o adolescentes por sí mismos cuando estén sujetos a patria potestad.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 531.
 
-Son nulos los actos y negocios jurídicos realizados por los menores no sujetos a patria potestad y por los mayores incapaces, antes del nombramiento del tutor, si la minoridad o la causa de la incapacidad eran patentes y notorias al momento de realizarse el acto o negocio.
+Son nulos los actos y negocios jurídicos realizados por las niñas, niños o adolescentes no sujetos a patria potestad y por las personas mayores con incapacidad legal, antes del nombramiento de la persona tutora, si la minoridad o la causa de la incapacidad eran patentes y notorias al momento de realizarse el acto o negocio.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 532.
 
-Después del nombramiento de tutor del menor no sujeto a patria potestad, o del mayor incapacitado, son nulos todos los actos o negocios jurídicos realizados por ellos, aun cuando la minoridad o la causa de la incapacidad no sean patentes y notorias al realizarse el acto de administración o de dominio.
+Después del nombramiento de persona tutora de la niña, niño o adolescente no sujeto a patria potestad, o del mayor incapacitado, son nulos todos los actos o negocios jurídicos realizados por ellos, aún cuando la minoridad o la causa de la incapacidad no sean patentes y notorias al realizarse el acto de administración o de dominio.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 533.
 
-No son nulos los actos o negocios jurídicos realizados por el menor sujeto a patria potestad o a tutela, antes o después del nombramiento del tutor:
+No son nulos los actos o negocios jurídicos realizados por la niña, niño o adolescente sujeto a patria potestad o a tutela, antes o después del nombramiento de la persona tutora:
 
-I.- Cuando el menor es perito en la clase de negocios o actos de que se trate.
+I. Cuando la niña, niño o adolescente es perita en la clase de negocios o actos de que se trate, y
 
-II.- Cuando el menor se hizo aparecer dolosamente como mayor o presentó certificados falsos del Registro Civil.
+II. Cuando la niña, niño o adolescente se hizo aparecer dolosamente como mayor o presentó certificados falsos del Registro Civil.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 534.
 
-El menor se considera emancipado para los actos de administración de los bienes que obtenga con su trabajo.
+La o el adolescente se considera emancipada para los actos de administración de los bienes que obtenga con su trabajo.
 
 ###### Artículo 535.
 
@@ -2707,17 +2723,17 @@ III.- Desde el día en que llegue al conocimiento del representante legal del in
 
 El nombre de las personas físicas o naturales se forma con el nombre propio y los apellidos.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 538.
 
-El nombre de las personas físicas se conforma con el nombre propio y los apellidos que de común acuerdo determinen los progenitores, ya sean simples o compuestos. Cada progenitor podrá elegir otorgar su primer o segundo apellido.
+El nombre de las personas físicas se conforma con el nombre propio y los apellidos que de común acuerdo determinen las personas progenitoras, ya sean simples o compuestos. Cada persona progenitora podrá elegir otorgar su primer o segundo apellido.
 
-El orden de los apellidos acordado entre los progenitores, será el mismo que se asentará para todos los hijos o las hijas de la misma filiación.
+El orden de los apellidos acordado entre las personas progenitoras, será el mismo que se asentará para todos los hijos o las hijas de la misma filiación.
 
-En caso de no existir acuerdo entre los progenitores, se registrarán los apellidos de los progenitores en el orden en el que determine el progenitor que presente al niño.
+En caso de no existir acuerdo entre las personas progenitoras, se registrarán los apellidos de las personas progenitoras en el orden en el que determine la persona progenitora que presente a la niña, niño o adolescente.
 
-Si no se sabe quiénes son los padres, el nombre propio y apellidos serán puestos por quien presente al niño para su registro en términos de la legislación aplicable.
+Si no se sabe quiénes son las personas progenitoras, el registro filial será realizado por la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Quintana Roo o a las Delegaciones de las Procuradurías de Protección de Niñas, Niños, Adolescentes y la Familia de los Sistemas para el Desarrollo Integral de la Familia Municipales, en términos de la legislación aplicable.
 
 ###### Artículo 539.
 
@@ -3245,31 +3261,37 @@ El Registro de cualquier acto del estado civil, es absolutamente gratuito, salvo
 
 #### SECCION SEGUNDA. De las actas de nacimiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 639.
 
-El acta de nacimiento se levantará con asistencia de dos testigos y deberá contener:
+El acta de nacimiento se levantará con asistencia de dos personas testigas (sic) y contendrá:
 
 I.- Día, lugar y hora del nacimiento.
 
-II.- Sexo del presentado.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+II.- Sexo de la niña o niño presentada o presentado;
 
 III.- Nombre y apellidos que le correspondan.
 
-IV.- Si se presenta vivo o muerto.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+IV.- Si se presenta con o sin vida la niña o niño;
 
 V.- La impresión digital.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1982)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-VI.- El nombre y nacionalidad de los padres.
+VI.- El nombre y nacionalidad de las personas progenitoras. Para el caso del ejercicio de comaternidad o copaternidad por inexistencia de vínculo jurídico filiatorio, se asentará el nombre y nacionalidad de la persona que expresa su voluntad procreacional.
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1982)</small>
 
 VII.- El nombre de los abuelos paternos y maternos, y
 
-VIII.- El domicilio de los padres.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VIII.- El domicilio de las personas progenitoras.
 
 #### SECCION TERCERA. De las actas de matrimonio
 
@@ -3641,43 +3663,45 @@ DEL DERECHO DE FAMILIA
 
 ### CAPITULO PRIMERO. De los requisitos formales para contraer matrimonio
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 680.
 
-Las personas que pretendan contraer matrimonio presentarán un escrito al oficial del Registro Civil, ante el cual celebrarán el contrato respectivo, que exprese:
+Las personas que pretendan contraer matrimonio presentarán un escrito a la persona Oficial del Registro Civil, ante la cual celebrarán el contrato respectivo, que exprese:
 
-I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de las personas pretendientes como de sus personas progenitoras, si éstas fueren conocidas. Cuando alguna de las personas pretendientes o ambas hayan sido casadas, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
 
 II.- Que no tienen impedimento legal para casarse; y
 
 III.- Que es su voluntad unirse en matrimonio.
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-Presentado el escrito señalado en el primer párrafo de este artículo, el Juez del Registro Civil hará la búsqueda de los que lo suscriben en el Registro de Deudores Alimentarios Morosos del Estado de Quintana Roo, e informará a los pretensos de inmediato y por escrito, si alguno de ellos se encuentra inscrito en dicho registro.
+Presentado el escrito señalado en el primer párrafo de este artículo, la persona Juzgadora del Registro Civil hará la búsqueda de quienes lo suscriben en el Registro de Deudores Alimentarios Morosos del Estado de Quintana Roo, e informará a las personas pretendientes de inmediato y por escrito, si alguna de ellas se encuentra inscrita en dicho registro.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 681.
 
-El escrito a que se refiere el artículo anterior, deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere hacerlo, lo hará por él otra persona conocida, mayor de edad y vecina del lugar.
+El escrito a que se refiere el artículo anterior, deberá ser firmado por las personas solicitantes, y si alguna no pudiere o no supiere hacerlo, a su ruego, lo hará por ella otra persona de su confianza mayor de edad, cerciorándose la persona Juzgadora del registro civil, que sea la libre voluntad de las personas contrayentes, quienes plasmaran su huella digital en el escrito, ante su presencia.
 
 ###### Artículo 682.
 
 Al escrito a que se refiere el artículo anterior se acompañará:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-I.- El acta de nacimiento o pasaporte de cada uno de los contrayentes;
+I. El acta de nacimiento, identificación oficial o pasaporte de cada una de las personas contrayentes, así como la cédula única de registro poblacional;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-II.- Un certificado médico por cada pretenso, en el que asegure que no padece enfermedad crónica o incurable que además sea contagiosa y/o hereditaria.
+II. Un certificado médico por cada persona contrayente, en el que asegure que no padece enfermedad crónica o incurable que además sea contagiosa y/o hereditaria.
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2013)</small>
+Para las personas en situación de calle tienen obligación de expedir gratuitamente este certificado las personas médicas encargadas de los servicios de sanidad de carácter oficial, y
 
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
-
-III.- Copia de la dispensa de impedimentos, si los hubo.
+III. Copia de la dispensa de impedimentos, si los hubo.
 
 ###### Artículo 683.
 
@@ -3745,11 +3769,11 @@ También podrá exigir declaración bajo protesta a los testigos que los interes
 
 ### CAPITULO SEGUNDO. De los requisitos de fondo para contraer matrimonio
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 697.
 
-Para contraer matrimonio es necesario que ambos contrayentes sean mayores de edad.
+Para contraer matrimonio es necesario que ambas personas contrayentes sean mayores de edad, quedando prohibida la dispensa de este requisito, por cualquier causa.
 
 ###### Articulo 698.
 
@@ -3795,13 +3819,15 @@ El adoptante, los ascendientes y los descendientes de éste no pueden contraer m
 
 (DEROGADO, P.O. 29 DE FEBRERO DE 2016)
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 703.
 
-El tutor y sus descendientes no pueden contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que se obtenga dispensa del Juez de lo Familiar de la residencia que corresponda.
+La persona tutora y sus descendientes no pueden contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que se obtenga dispensa de la persona Juzgadora de lo familiar de la residencia que corresponda, tratándose de las personas mayores sujetos a interdicción en términos de la fracción II artículo 1025 de este Código.
 
-Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el Juez Familiar nombrará inmediatamente un tutor Interino que reciba los bienes y los administre mientras se obtiene la dispensa.
+La persona Juzgadora de lo familiar deberá cerciorarse que las personas mayores interdictas comprenden y entienden el acto del matrimonio, además de las implicaciones de contraerlo con la persona que haya ejercido su tutela, así como observar el interés de estas personas en las capitulaciones matrimoniales, en aras de proteger a las personas incapaces contrayentes.
+
+Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, será nulo y la persona Juzgadora de lo familiar nombrará inmediatamente a una persona tutora interina que reciba los bienes y los administre mientras se nombra a la persona definitiva.
 
 ###### Artículo 704.
 
@@ -3931,13 +3957,17 @@ La casa a que se refiere el artículo anterior, sólo puede hipotecarse, cuando 
 
 Los muebles del hogar conyugal, sean propios de los cónyuges o de la comunidad conyugal o pertenezcan a ambos cónyuges en copropiedad no pueden enajenarse sin consentimiento de ambos consortes.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 725.
 
-Los actos y negocios jurídicos realizados en contravención a lo dispuesto en los cuatro artículos anteriores están afectados de nulidad absoluta, si hay hijos menores en el hogar conyugal.
+Los actos y negocios jurídicos realizados en contravención a lo dispuesto en los cuatro artículos anteriores están afectados de nulidad absoluta, si hay niñas, niños o adolescentes en el hogar conyugal.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 726.
 
-Los actos y negocios jurídicos a que se refiere el artículo anterior sólo estarán afectados de nulidad relativa si no hay hijos menores en el hogar conyugal.
+Los actos y negocios jurídicos a que se refiere el artículo anterior solo estarán afectados de nulidad relativa si no hay niñas, niños o adolescentes en el hogar conyugal.
 
 ###### Artículo 727.
 
@@ -4071,9 +4101,11 @@ Los bienes que los cónyuges adquieran en común por donación, herencia, legado
 
 En ninguno de los regímenes patrimoniales del matrimonio, los cónyuges podrán cobrarse, retribución u honorario alguno por los servicios personales que le prestare o por los consejos y asistencia que le diere; pero si uno de los cónyuges, por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de los bienes del impedido, tendrá derecho a que se le retribuya por este servicio en proporción a su importancia y al resultado que produjere.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 756.
 
-El marido responde a la mujer y ésta a aquél de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+Entre cónyuges se responden mutuamente de los daños y perjuicios que se causen por dolo, culpa o negligencia.
 
 #### SECCION CUARTA. De las donaciones antenupciales
 
@@ -4329,29 +4361,45 @@ La demanda o solicitud de divorcio se presentará siempre, junto con una copia c
 
 En ambos casos, solo se decretará el divorcio cuando se cumplan los requisitos exigidos para cada uno de ellos.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 799.
 
-El cónyuge que desee promover el juicio de divorcio deberá acompañar a su demanda una propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial.
+La persona cónyuge que desee promover el juicio de divorcio deberá acompañar a su demanda una propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
 En caso de tratarse de divorcio por mutuo consentimiento, se deberá presentar de igual modo el documento que regule las consecuencias de la disolución del vínculo matrimonial, pero en este caso deberá ser presentado como convenio suscrito por ambos solicitantes.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE JULIO DE 2017)</small>
+
 Tanto la propuesta de convenio, como en su caso el convenio, deberá contener los siguientes requisitos:
 
-I. La designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
+I. La designación de la persona que tendrá la guarda y custodia de las niñas, niños, adolescentes o incapaces;
 
-II. Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos, lo anterior tanto mientras dure el procedimiento como después de ejecutoriado. En su caso, deberá establecerse dicho derecho, en favor de los demás parientes de los menores, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-III. El modo de atender las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
+II. Las modalidades bajo las cuales la persona progenitora, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de las niñas, niños y adolescentes, lo anterior tanto mientras dure el procedimiento como después de ejecutoriado. En su caso, deberá establecerse dicho derecho, en favor de los demás parientes de la niña, niño o adolescente, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para la niña, niño o adolescente;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+III. El modo de atender las necesidades de las niñas, niños y adolescentes y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
 IV. Designación del cónyuge al que corresponderá el uso del domicilio conyugal, en caso de que se hubiese establecido dicho domicilio, y del menaje;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
 V. La designación de los domicilios donde habitarán los cónyuges, tanto durante como después de ejecutoriado el divorcio;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+
 VI. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición, y
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
 VII. En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes, deberá señalarse la compensación, en los términos del artículo 822 de este Código.
 
@@ -4453,15 +4501,17 @@ II. Sólo a solicitud de la mujer se le autorizará a separarse del hogar conyug
 
 III. Prevenir a ambos cónyuges que no se molesten uno a otro en ninguna forma;
 
-IV. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+IV. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a las niñas, niños y adolescentes;
 
 V. Dictar las medidas que se estimen convenientes para que los cónyuges no se causen perjuicios en sus respectivos bienes ni en los de la comunidad conyugal, en su caso, asimismo se decretará la prohibición a los cónyuges de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal y en cualquier caso cuando se trate de bienes de la sociedad conyugal. Asimismo, ordenar cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad y el Comercio del Estado de Quintana Roo y de aquellos lugares en que se conozca que tienen bienes;
 
 VI. Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede embarazada;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-VII. Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia, respetando en todo momento las disposiciones de este Código al respecto. A falta de acuerdo, el Juez de lo Familiar resolverá lo conducente, considerando que las personas menores de doce años quedarán, preferentemente, bajo la custodia y cuidado de la madre, además de establecer las modalidades del derecho de visita o convivencia con sus padres y, en su caso, con sus demás parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores, de conformidad con los artículos 997-bis y 1024 Bis de este Código, el cumplimiento de las obligaciones de crianza, tomando en cuenta la opinión de la persona menor de edad, la cual podrá ser asistida por el Oficial de Menores de Edad, adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Quintana Roo. El Juzgador, en cualquier tiempo y antes que termine ejecutoriadamente el juicio, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de las personas menores de edad y de los bienes de éstos, sin más limitación que este mismo beneficio, pudiendo confiar la custodia de las personas menores de edad a un tercero o Institución educativa y confiar la administración de los bienes a una institución fiduciaria;
+VII. Poner a las niñas, niños y adolescentes, al cuidado de la persona que de común acuerdo designen los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia, respetando en todo momento las disposiciones de este Código al respecto. A falta de acuerdo, la persona Juzgadora de lo familiar resolverá lo conducente, atendiendo a los elementos de prueba que obren en el sumario y considerando las necesidades de las niñas, niños y adolescentes a la luz del interés superior de la niñez y del principio de igualdad; además de establecer las modalidades del derecho de visita o convivencia con sus progenitores y, en su caso, con sus demás parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para las niñas, niños y adolescentes, de conformidad con los artículos 997-bis y 1024 Bis de este Código, el cumplimiento de las obligaciones de crianza, tomando en cuenta la opinión de la niña, niño o adolescente, quien podrá ser asistido por el representante en suplencia, adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Quintana Roo o a las Delegaciones de las Procuradurías de Protección de Niñas, Niños, Adolescentes y la Familia de los Sistemas para el Desarrollo Integral de la Familia Municipales. La persona Juzgadora, en cualquier tiempo y antes que termine ejecutoriadamente el juicio, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de las niñas, niños y adolescentes y de los bienes de éstos, sin más limitación que este mismo beneficio, pudiendo confiar la custodia de las niñas, niños y adolescentes a un tercero o institución educativa y confiar la administración de los bienes a una institución fiduciaria;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
@@ -4471,15 +4521,17 @@ a) Ordenar la salida del cónyuge demandado de la vivienda donde habita el grupo
 
 b) Prohibición al cónyuge demandado de ir a lugar determinado, tales como el domicilio o el lugar donde trabajan o estudian los agraviados.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-c) Suspender la custodia y la patria potestad al cónyuge presuntamente agresor y prohibir que éste se acerque a los agraviados a la distancia que el propio Juez considere pertinente, dejando a salvo los derechos de convivencia del resto de sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores, salvo en los casos que estos, hubieren participado en los presuntos actos de violencia. Esta suspensión será independiente del cumplimiento del presunto agresor de las obligaciones referidas a la pensión alimenticia.
+c) Suspender la custodia y la patria potestad a la persona cónyuge presuntamente agresora y prohibir que ésta se acerque a las personas agraviadas a la distancia que la propia persona Juzgadora considere pertinente, dejando a salvo los derechos de convivencia del resto de sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para las niñas, niños y adolescentes, salvo en los casos que estas, hubieren participado en los presuntos actos de violencia. Esta suspensión será independiente del cumplimiento de la persona presunta agresora de las obligaciones referidas a la pensión alimenticia;
 
 IX. Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como de los que se encuentren bajo el régimen de comunidad conyugal, en su caso, especificando además el titulo bajo el cual se adquirieron o poseen, el valor que estime que tienen, as (sic) capitulaciones matrimoniales y un proyecto de partición, y
 
 X. Las demás que considere necesarias.
 
-Durante el procedimiento, el Juez recabará la información complementaria y comprobación de datos que en su caso precise, pudiéndolo hacer incluso de oficio.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Durante el procedimiento, la persona Juzgadora recabará la información complementaria y comprobación de datos que en su caso precise, pudiéndolo hacer incluso de oficio.
 
 En caso de que las personas menores de doce años sean sujetos de violencia familiar, éstos deberán quedar al cuidado de la madre, excepto cuando sea ésta quien la origine. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
 
@@ -4487,57 +4539,39 @@ En caso de que las personas menores de doce años sean sujetos de violencia fami
 
 La persona juzgadora podrá ordenar cualquier otra medida de protección de emergencia, preventiva o de naturaleza civil de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, la Ley de Asistencia y Prevención de la Violencia Familiar del Estado de Quintana Roo, así como la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo, sin menoscabo de lo establecido en otras disposiciones normativas aplicables, los tratados internacionales vigentes en la materia, privilegiando siempre y en todo momento, el interés superior de la niñez.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 815.
 
-La sentencia de divorcio que se pronuncie en definitiva, fijará la situación de los hijos, para lo cual el Juez de lo Familiar deberá resolver todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión, limitación o recuperación, según el caso y en especial a la custodia y cuidado de los hijos, así como las obligaciones de crianza. Además, la sentencia deberá incluir el régimen establecido para las visitas de convivencia, según lo previsto en los artículos 997-bis y 1024 Bis de este Código, incluyendo, en su caso, a los demás parientes del menor, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores.
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+La sentencia de divorcio que se pronuncie en definitiva, fijará la situación de los hijos, para lo cual la persona Juzgadora de lo familiar deberá resolver todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión, limitación o recuperación, según el caso y en especial a la custodia y cuidado de las niñas, niños y adolescentes, así como las obligaciones de crianza. Además, la sentencia deberá incluir el régimen establecido para las visitas de convivencia, según lo previsto en los artículos 997-bis y 1024 Bis de este Código, incluyendo, en su caso, a los demás parientes de la niña niño (sic) o adolescente, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para la niña, niño o adolescente.
 
 Asimismo, la sentencia deberá contener:
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+I. Todas las medidas necesarias para proteger a las niñas, niños o adolescentes de actos de violencia familiar, violencia vicaria, o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno;
 
-I. Todas las medidas necesarias para proteger a los hijos de actos de violencia familiar, violencia vicaria, o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno;
+II. Las medidas necesarias para garantizar la convivencia de las niñas, niños y adolescentes con sus progenitores y, en su caso, con sus demás parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para las niñas, niños o adolescentes, misma que solo deberá ser limitada o suspendida cuando exista cualquier posibilidad de riesgo para las niñas, niños o adolescentes;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
+III. Para el caso de las niñas, niños o adolescentes, incapaces, sujetos a la tutela de alguno de los excónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección, y
 
-II. Las medidas necesarias para garantizar la convivencia de los hijos con sus progenitores y, en su caso, con sus demás parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores, misma que sólo deberá ser limitada o suspendida cuando exista cualquier posibilidad de riesgo para las personas menores de edad;
+IV. Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés superior de las niñas, niños y adolescentes, de conformidad a lo establecido en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo, sin menoscabo de lo establecido en otras disposiciones normativas aplicables, así como en los tratados internacionales vigentes en la materia.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+Las medidas de protección para las niñas, niños y adolescentes podrán incluir también las medidas de seguridad, seguimiento para el demandado y su asistencia a terapias reeducativas dirigidas a evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas, según se trate el caso y de conformidad con lo dispuesto por el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo.
 
-III. Para el caso de las personas menores de edad incapaces, sujetos a la tutela de alguno de los ex cónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección;
+Una vez ejecutoriado el divorcio, la persona Juzgadora, podrá modificar sus determinaciones, a petición de parte interesada, privilegiando siempre y en todo momento, el interés superior de la niñez.
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
-
-IV. Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés superior de los hijos menores de edad, de conformidad a lo establecido en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo, sin menoscabo de lo establecido en otras disposiciones normativas aplicables, así como en los tratados internacionales vigentes en la materia.
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-Las medidas de protección para los hijos podrán incluir también las medidas de seguridad, seguimiento para el demandado y su asistencia a terapias reeducativas dirigidas a evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas, según se trate el caso y de conformidad con lo dispuesto por el Código de Procedimientos Civiles para el Estado de Quintana Roo.
-
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2022)</small>
-
-Una vez ejecutoriado el divorcio, el juzgador, podrá modificar sus determinaciones, a petición de parte interesada, privilegiando siempre y en todo momento, el interés superior de la niñez.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 816.
 
-Para cumplir con lo dispuesto en el artículo anterior, el Juez durante el procedimiento deberá de oficio o a petición de parte interesada, allegarse de los elementos necesarios y tendrá que:
+Para cumplir con lo dispuesto en el artículo anterior, la persona Juzgadora durante el procedimiento deberá de oficio o a petición de parte interesada, allegarse de los elementos necesarios y tendrá que:
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
+I. Oír al Ministerio Público, a un tutor que la persona Juzgadora nombre a las niñas, niños y adolescentes, a los parientes, y en general a las personas que, por cualquier motivo, razón o circunstancia, puedan informar a la persona Juzgadora respecto a la forma mejor (sic) de la custodia de las niñas, niños o adolescentes, así como el régimen de convivencia aplicable, o cualquier otra cuestión relacionada con el caso del que se trate;
 
-I. Oír al Ministerio Público, a un tutor que el Juez nombre a los hijos, a los parientes, y en general a las personas que, por cualquier motivo, razón o circunstancia, puedan informar al Juez respecto a la forma mejor (sic) de la custodia de los menores, así como el régimen de convivencia aplicable, o cualquier otra cuestión relc1cionada con el caso del que se trate;
+II. Oír a las niñas, niños o adolescentes si éstos pueden expresarse, debidamente asistidos por la persona Oficial de niñas, niños y adolescentes, adscrito a Procuraduría de Protección de Niñas Niños, Adolescentes y la Familia del Estado de Quintana Roo o a la Delegación de las Procuradurías de Protección de Niñas, Niños, Adolescentes y la Familia de los Sistema para el Desarrollo Integral de la Familia Municipales, y
 
-II. Oír a las personas menores de edad si éstos pueden expresarse, debidamente asistidos por el Oficial de Menores de Edad, adscrito a (sic) Procuraduría de Protección de las Niñas Niños y Adolescentes del Estado de Quintana Roo, y
+III. Asegurar a las niñas, niños y adolescentes los alimentos y en todo momento pueden ser modificadas por la persona Juzgadora las resoluciones que a este respecto dicte, mientras las niñas, niños y adolescentes no lleguen a la mayoridad.
 
-III. Asegurar a los hijos menores los alimentos y en todo momento pueden ser modificadas por el Juez las resoluciones que a este respecto dicte, mientras los hijos no lleguen a la mayoridad.
-
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2022)</small>
-
-Para efectos del presente artículo, se entenderá por parte interesada, no solo a los progenitores del menor, sino también, a las personas a las que se refiere la fracción I de éste numeral.
+Para efectos del presente artículo, se entenderá por parte interesada, no solo a las personas progenitoras de las niñas, niños o adolescentes, sino también, a las personas a las que se refiere la fracción I de éste numeral.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -4643,9 +4677,9 @@ El concubinato genera entre los concubinos derechos alimentarios y sucesorios, i
 
 Al cesar el concubinato, quien carezca de ingresos o bienes suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato. No podrá reclamar alimentos quien tenga medios propios de supervivencia, o viva en concubinato o contraiga matrimonio.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-El derecho que otorga este artículo podrá ejercitarse solo durante el año siguiente a la cesación del concubinato.
+El derecho que otorga este artículo podrá ejercitarse por un tiempo igual al que haya durado el concubinato, contado a partir del día siguiente en que haya cesado el mismo, salvo que se actualice diversa causal de extinción dispuesta en el artículo 819 del presente Código.
 
 ## TITULO SEGUNDO. Del parentesco y de los alimentos
 
@@ -4665,11 +4699,15 @@ El parentesco de consanguinidad es el que existe entre personas que descienden d
 
 En el caso de la adopción plena, se equiparará al parentesco por consanguinidad aquél que existe entre el adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 828.
 
-Afinidad es el parentesco que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
+Afinidad es el parentesco que se adquiere por el matrimonio entre las personas contrayentes y sus respectivos parientes.
 
-Disuelto el matrimonio desaparece el parentesco por afinidad en la línea colateral; pero subsiste en la línea recta, en todos los casos en que esta ley se refiere a tal parentesco.
+La misma calidad opera tratándose del concubinato y sus respectivos parientes.
+
+Disuelto el matrimonio o concubinato desaparece el parentesco por afinidad en la línea colateral; pero subsiste en la línea recta, en todos los casos en que esta ley se refiere a tal parentesco.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2021)</small>
 
@@ -4765,11 +4803,31 @@ Los hermanos y demás parientes colaterales a que se refiere el artículo anteri
 
 La obligación de darse alimentos la tienen el adoptante y el adoptado en los casos en que la tienen el padre y el hijo.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 845.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. En el caso de la cónyuge o concubina comprenderá los gastos que generen el embarazo y el parto. En el caso de los menores de edad comprenderá además los gastos necesarios para su preparación académica y para proporcionarle algún oficio, arte o profesión honesta y adecuada a sus circunstancias personales, sin que ello, implique la obligación de suministrar recurso económico adicional alguno orientado al establecimiento y desarrollo de su oficio, arte o profesión. Para el caso de que el acreedor alimentista cumpla la mayoría de edad, se estará a lo dispuesto en el artículo 839 segundo párrafo.
+La obligación alimentaria consiste en la efectivización del derecho fundamental a acceder a un nivel de vida adecuado de la persona acreedora alimentaria integrante de la familia que permita se encuentren cubiertas todas las necesidades básicas, y comprenden, entre otros:
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+I. La alimentación, el vestido, la habitación de acuerdo con la edad y la asistencia médica preventiva, así como lo requerido para la conservación de la integridad física que permita el desarrollo biopsicosocial de la persona acreedora alimentaria, y, en caso de enfermedad, lo requerido para la recuperación de la salud de éste; y en caso de fallecimiento del acreedor alimentario, los gastos funerarios;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+II. En el caso de las personas gestantes, comprenderán los gastos que se generen durante el embarazo, en el parto y después de este hasta la total recuperación de la madre;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+III. En el caso de las niñas, niños y adolescentes, comprenderá además los gastos necesarios para su preparación académica y para proporcionarle algún oficio, arte o profesión y adecuada a sus circunstancias personales.
+
+Para el caso que las personas acreedoras alimentarias adquieran la mayoría de edad, se estará a lo dispuesto en el artículo 839 segundo párrafo, sin que ello, implique la obligación de suministrar recurso económico adicional alguno orientado al establecimiento y desarrollo de su oficio, arte o profesión.
+
+Tratándose de las personas adultas mayores, aún y cuando estén pensionadas, si su pensión es insuficiente para tener una vida digna en términos de la fracción I de este artículo, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+IV. Lo que se requiera para la atención, habilitación, rehabilitación o permita el desarrollo de la persona acreedora alimentaria que se encuentra o le haya sobrevenido alguna discapacidad o se le ha declarado en estado de interdicción.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
 
@@ -4795,9 +4853,11 @@ Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a
 
 Determinados por convenio o sentencia, de manera exclusiva los alimentos que hayan sido fijados teniendo como base para su cuantificación, un porcentaje determinado, tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en las sentencias o convenio correspondiente.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-Artículo 849 BIS.- Los menores, las personas con alguna discapacidad que le impida adquirir por sus propios medios algún trabajo, los sujetos a estado de interdicción y el cónyuge que se dedique al hogar gozan de la presunción de necesitar alimentos. Salvo que se demuestre lo contrario.
+###### Artículo 849 Bis.
+
+Las niñas, niños y adolescentes, las personas con alguna discapacidad que le impida adquirir por sus propios medios algún trabajo, las personas sujetas a estado de interdicción y la persona cónyuge que se dedique al hogar gozan de la presunción de necesitar alimentos. Salvo que se demuestre lo contrario.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2012)</small>
 
@@ -4873,9 +4933,11 @@ VI.- Cuando el alimentista mayor de edad se encuentra cursando estudios acordes 
 
 Cuando el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para los alimentos de los miembros de la familia con derecho a recibirlos, será responsable de las deudas que éstos contraigan para cubrir esta exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 857.
 
-La esposa que sin culpa suya se vea obligada a vivir separada de su marido, si no está en el caso del artículo 709, podrá pedir al Juez de su domicilio que obligue a su esposo a ministrar los alimentos de ella y de los hijos por el tiempo que dure la separación y que además satisfaga los adeudos contraídos como dispone el artículo anterior. El Juez, según el caso fijará la suma que el marido debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que obtener en préstamo con tal motivo.
+La persona cónyuge o concubina que sin culpa suya se vea obligada a vivir separado de su consorte, si no está en el caso del artículo 709, podrá pedir a la persona Juzgadora de su domicilio que obligue al responsable de la separación a ministrar los alimentos a quien se ha separado y de las niñas, niños y adolescentes por el tiempo que dure la separación y que además satisfaga los adeudos contraídos como dispone el artículo anterior. La persona Juzgadora, según el caso, fijará la suma que la persona separante debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que esta persona pague los gastos que la persona separada haya tenido que obtener en préstamo con tal motivo.
 
 ###### Artículo 858.
 
@@ -4933,17 +4995,29 @@ Incurren en las mismas sanciones establecidas en los dos artículos anteriores, 
 
 ### CAPITULO TERCERO. De la filiación
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 866.
+
+La filiación es la relación que se establece por su origen biológico, voluntario, por presunción legal o por determinación judicial formando el núcleo familiar primario por quienes ejercerán la patria potestad y las personas potestadas.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+###### Artículo 866 Bis.
 
 La filiación se establece:
 
-I.- Por las presunciones legales;
+I. Por nacimiento; cuando así lo acrediten las personas progenitoras con el documento indubitable expedido por la institución médica en donde nació el producto de la concepción y, en su caso, con el ADN filiatorio de identidad expedido por institución oficial o perito certificado;
 
-II.- Por el nacimiento;
+II. Por reconocimiento; la manifestación de la voluntad procreacional de quien desea ejercer junto a quien tenga probada la maternidad o la paternidad biológica;
 
-III.- Por el reconocimiento;
+Esta voluntad se ha de manifestar ante la persona Juzgadora del Registro Civil al momento de registrar el nacimiento de la niña o el niño o por vía judicial con posterioridad a este.
 
-IV.- Por una sentencia que la declare.
+III. Por presunción legal, en los términos dispuestos por el artículo 867;
+
+IV. Por adopción, y
+
+V. Por sentencia que la declare.
 
 ###### Artículo 867.
 
@@ -5039,11 +5113,11 @@ Si el marido está en tutela por causa de demencia, incapacidad u otro motivo qu
 
 Si el hijo no nace vivo, nadie puede entablar demanda sobre la paternidad.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 881.
 
-En el juicio de contradicción de la paternidad serán oídos, la madre, el hijo a quien se le nombrará tutor si es persona menor de edad o incapaz, será asistido por el Oficial de Menores de Edad y el Ministerio Público.
+En el juicio de contradicción de la paternidad serán oídos, la madre, la niña, niño o adolescente a quien se le nombrará tutor si es persona menor de edad o incapaz, será asistido por la persona Representante en Suplencia adscrita a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia Estatal o a las Delegaciones de las Procuradurías de Protección de Niñas, Niños, Adolescentes y la Familia de los Sistemas para el Desarrollo Integral de la Familia Municipales y el Ministerio Público.
 
 ###### Artículo 882.
 
@@ -5091,15 +5165,21 @@ Si hubiere hijos nacidos de dos personas que han vivido públicamente como marid
 
 La filiación de los hijos que no se benefician de las presunciones establecidas del artículo 867, 876 y 882, resulta con relación a la madre del solo hecho del nacimiento y para justificar este hecho son admisibles todos los medios de prueba pudiendo en los juicios de intestado o de alimentos probarse la filiación respecto a la madre dentro del mismo procedimiento.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+###### Artículo 890 Bis.
+
+La filiación por reconocimiento es la expresión libre mediante la cual las personas manifiestan su voluntad parental de ejercer junto a quien tenga probada la maternidad o la paternidad biológica, la voluntad procreacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 891.
 
-Respecto del padre, la filiación se establece por el reconocimiento o por sentencia que declare la paternidad; pero en el caso del artículo 882, se podrá justificar la paternidad en el mismo juicio de intestado o de alimentos y será suficiente probar los hechos a que se refieren los artículos 882 y 889 tanto en vida del padre como después de su muerte.
+Respecto de la persona que reconozca su voluntad procreacional, además del reconocimiento, la filiación se establece por sentencia que declare la paternidad; pero en el caso del artículo 882, se podrá justificar la paternidad en el mismo juicio de intestado o de alimentos y será suficiente probar los hechos a que se refieren los artículos 882 y 889 tanto en vida del padre como después de su muerte.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-El Juez deberá ordenar para efectos del presente artículo se practiquen las pruebas genéticas respectivas, a fin de que se establezca la paternidad correspondiente.
+La persona Juzgadora deberá ordenar para efectos del presente artículo se practiquen las pruebas genéticas respectivas, a fin de que se establezca la paternidad correspondiente.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
@@ -5167,9 +5247,11 @@ Cualquier cónyuge puede reconocer, sin consentimiento del otro, a un hijo habid
 
 (DEROGADO, P.O. 4 DE JULIO DE 2017)
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 904.
 
-Puede un hombre reconocer como suyo el hijo de una mujer casada, que no sea su esposa, si ésta se haya separada de su marido y está de acuerdo en aceptar como padre al hombre que reconoce al hijo de ella.
+Puede una persona reconocer como suya a la persona descendiente de una persona progenitora casada separada de su cónyuge, que no sea su pareja, en términos de la fracción II del artículo 866 Bis, y, quien realiza el reconocimiento, manifieste la voluntad parental procreacional de estar de acuerdo de ejercer la crianza de la persona a reconocer y es aceptada por la persona progenitora.
 
 ###### Artículo 905.
 
@@ -5191,11 +5273,11 @@ El término para deducir esta acción será el de seis meses, que comenzarán a 
 
 Si la madre contradice el reconocimiento que un hombre haya hecho o pretenda hacer de un hijo que ella reconoce por suyo, esa sola contradicción bastará para invalidar aquel reconocimiento, con tal de que el hijo, siendo mayor de edad, consienta en reconocer por madre a la que contradice.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 910.
 
-Cuando la contradicción de la madre se haga valer con el objeto de negar al padre los derechos que le da el reconocimiento, y el hijo fuere una persona menor de edad, se proveerá a éste de un tutor especial y de un Oficial de Menores de Edad para que con su audiencia y la del Ministerio Público se resuelva lo que proceda acerca de los derechos controvertidos, quedando a salvo los del hijo para consentir el reconocimiento del padre o de la madre cuando llegue a la mayor edad; así como sus derechos hereditarios si los padres muriesen durante la minoría.
+Cuando la contradicción de la madre se haga valer con el objeto de negar al padre los derechos que le da el reconocimiento, y el niño, niña o adolescente fuere una persona menor de edad, se proveerá a éste de una persona tutora especial y de un Representante en Suplencia adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia Estatal o a la Delegación de las Procuradurías de Protección de Niñas, Niños, Adolescentes y la Familia de los Sistemas para el Desarrollo Integral de la Familia Municipales para que con su audiencia y la del Ministerio Público se resuelva lo que proceda acerca de los derechos controvertidos, quedando a salvo los de la niña, niño o adolescente para consentir el reconocimiento del padre o de la madre cuando llegue a la mayor edad; así como sus derechos hereditarios si los progenitores muriesen durante la minoría.
 
 ###### Artículo 911.
 
@@ -5205,17 +5287,19 @@ Cuando el hijo consienta en el reconocimiento de la madre, en oposición al que 
 
 Si la madre ha cuidado de la lactancia del hijo, le ha dado su apellido o permitido que lo lleve y ha proveído a su educación y subsistencia no se le podrá separar de su lado a menos que ella consienta en entregarlo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 913.
 
-El hijo reconocido por el padre, por la madre o por ambos tiene derecho:
+La persona descendiente reconocida por alguna de las personas progenitoras o por quien así lo manifestare en términos la fracción II del artículo 866 Bis, tiene derecho:
 
-I.- A llevar el apellido del que lo reconoce;
+I. A llevar el apellido de quien le reconoce;
 
-II.- A ser alimentado por éste;
+II. A ser alimentado por ésta;
 
-III.- A percibir la porción hereditaria que fija la ley en caso de intestado o los alimentos correspondientes si no fuere instituido heredero en el caso de sucesión testamentaria;
+III. A percibir la porción hereditaria que fija la ley en caso de intestado o los alimentos correspondientes si no fuere instituido heredero en el caso de sucesión testamentaria, y
 
-IV.- A ejercer los derechos que este Código concede a los hijos póstumos.
+IV. A ejercer los derechos que este Código concede a las hijas o hijos póstumos.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
 
@@ -5223,7 +5307,9 @@ IV.- A ejercer los derechos que este Código concede a los hijos póstumos.
 
 Cuando el padre o la madre que no vivan juntos reconozcan al hijo, en el mismo acto, convendrán con base al interés superior de la niñez, cuál de los dos ejercerá la custodia del hijo menor de edad y, en consecuencia, con quién de ellos habitará; para el caso de menores de doce años, estos preferentemente quedan bajo el cuidado de la madre, salvo que exista riesgo o peligro. El otro estará obligado a colaborar a su alimentación y crianza conservando el derecho de convivencia con el menor de edad, conforme a las modalidades previstas en el convenio y resolución judicial, y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los progenitores, resolverá lo que creyere más conveniente al interés superior de la niñez.
 
-En su caso, deberá preverse el derecho de convivencia de los demás parientes del menor, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+En su caso, deberá preverse el derecho de convivencia de los demás parientes de la niña, niño o adolescente, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para la niña, niño o adolescente.
 
 Para efecto de lo dispuesto en los párrafos anteriores, será aplicable lo dispuesto por el artículo 816 del presente Código.
 
@@ -5251,19 +5337,27 @@ La investigación de la paternidad está permitida:
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-I.- En los casos de privación de la libertad con fines sexuales, estupro o violación, cuando la época del delito coincida con la de la concepción;
+I. En los casos de privación de la libertad con fines sexuales, estupro o violación, cuando la época del delito coincida con la de la concepción;
 
-II.- Cuando el hijo tiene o tuvo la posesión de estado de hijo del presunto padre;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre hacía vida marital con el presunto padre;
+II. Cuando la niña, niño o adolescente tiene o tuvo la posesión de estado de hija o hijo del presunto padre;
 
-IV.- Cuando durante la gestación, o el nacimiento del hijo, o después del nacimiento, la madre haya habitado con el presunto padre, bajo el mismo techo, viviendo maritalmente; y con ellos el hijo, en el último supuesto, cualquiera que sea el tiempo que haya durado la vida familiar;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-V.- Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre.
+III. Cuando la niña, niño o adolescente haya sido concebido durante el tiempo en que la madre hacía vida marital con el presunto padre;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-VI.- A solicitud expresa de la madre de la persona menor de edad, del Ministerio Público o del Oficial de Menores de Edad.
+IV. Cuando durante la gestación, o el nacimiento de la niña, niño o adolescente, o después del nacimiento, la madre haya habitado con el presunto padre, bajo el mismo techo, viviendo maritalmente; y con ellos la niña, niño o adolescente, en el último supuesto, cualquiera que sea el tiempo que haya durado la vida familiar;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+V. Cuando la niña, niño o adolescente tenga a su favor un principio de prueba contra el pretendido padre, y
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VI. A solicitud expresa de la madre de la niña, niño o adolescente, del Ministerio Público o del Representante en Suplencia adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia Estatal o de la Delegación de las Procuradurías de Protección de Niñas, Niños, Adolescentes y la Familia de los Sistemas para el Desarrollo Integral de la Familia Municipales.
 
 ###### Artículo 920.
 
@@ -5501,25 +5595,33 @@ I.- Si la madre vive con su marido, en ningún caso ni a petición de persona al
 
 II.- Si la madre no vive con su marido, puede el Oficial, Delegado o Subdelegado del Registro Civil asentar como padre a otro distinto del marido, a petición de aquél si la madre consiente en ello; pero no se hará constar que ésta está casada con distinta persona.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 974.
 
-Si los padres del hijo no pudiesen contraer matrimonio por existir entre ellos el impedimento no dispensable de parentesco por consanguinidad o por afinidad, no se hará mención alguna de esta circunstancia; pero sí se hará constar el nombre de los padres si éstos hicieren el reconocimiento.
+Si las personas progenitoras del descendiente no pudiesen contraer matrimonio por existir entre ellos el impedimento no dispensable de parentesco por consanguinidad o por afinidad, no se hará mención alguna de esta circunstancia; pero sí se hará constar el nombre de las personas progenitoras si éstos hicieren el reconocimiento.
 
 ###### Artículo 975.
 
 La persona que encuentre un recién nacido deberá presentarlo al Oficial, Delegado o Subdelegado del Registro Civil con los vestidos, papeles o cualesquiera otros objetos encontrados con él y declarará la hora, la fecha y el lugar en que lo hubiere hallado, así como las demás circunstancias que en el caso concurran.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 976.
 
-La misma obligación tienen los jefes, directores o administradores de hospitales, maternidades o de cualquiera institución respecto de los niños dejados en ellos.
+La misma obligación tienen las personas jefas, directoras o administradoras de hospitales, maternidades o de cualquiera institución respecto de las niñas o los niños dejados en ellos.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 977.
 
-En el caso de los dos artículos anteriores, se levantará el acta de nacimiento sin hacer constar las circunstancias a que se refieren y el Oficial, Delegado o Subdelegado del Registro Civil pondrá al niño nombre y apellidos.
+En el caso de los dos artículos anteriores, se levantará el acta de nacimiento sin hacer constar las circunstancias a que se refieren y la persona Oficial, Delegada o Subdelegada del Registro Civil pondrá a la niña o niño nombre y apellidos.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 978.
 
-Si con el niño se hubieren encontrado papeles, alhajas u otros objetos, se depositarán en el Archivo Central del Registro Civil, mencionándolos en el acta y dando formal recibo a quien los entregue y se dará vista al Ministerio Público para que proceda conforme a sus facultades en materia de tutela.
+Si con la niña o el niño se hubieren encontrado papeles, alhajas u otros objetos, se depositarán en el Archivo Central del Registro Civil, mencionándolos en el acta y dando formal recibo a quien los entregue y se dará vista al Ministerio Público para que proceda conforme a sus facultades en materia de tutela.
 
 ###### Artículo 979.
 
@@ -5623,47 +5725,53 @@ V. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
 
 El Certificado a que se refiere el presente artículo, será expedido dentro de los tres días hábiles siguientes contados a partir de su solicitud.
 
-> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2023)</small>
 
-## TITULO TERCERO. De la niñez
+## TÍTULO TERCERO. De la Niñez y la Adolescencia
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 984.
 
-El Estado tiene interés en la niñez.
+El Estado tiene interés en la niñez y la Adolescencia.
 
 ###### Artículo 985.
 
 El interés a que se refiere el artículo anterior es público y comprende la gestación, el nacimiento, la primera y segunda infancia y la pubertad.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 986.
 
-El interés del Estado en la niñez abarca sus aspectos físicos, psicoemocionales, educativos y culturales.
+El interés del Estado en la niñez y adolescencia abarca sus aspectos físicos, psicoemocionales, educativos y culturales.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 987.
 
-La patria potestad, la tutela, la adopción y la educación pública son instituciones a través de las cuales el Estado realiza el interés que tiene en la niñez.
+La patria potestad, la tutela, la adopción y la educación pública son instituciones a través de las cuales. el Estado realiza el interés que tiene en la niñez y adolescencia.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 988.
 
-Las situaciones jurídicas concretas de titulares de la patria potestad o tutela o de profesores imponen a éstos los deberes señalados en la leyes respectivas y les conceden los derechos derivados de esa situación, los cuales deben ejercitarse exclusivamente para beneficio de los menores.
+Las situaciones jurídicas concretas de titulares de la patria potestad o tutela o de profesores imponen a éstos los deberes señalados en las leyes respectivas y les conceden los derechos derivados de esa situación, los cuales deben ejercitarse exclusivamente para beneficio de las niñas, niños y adolescentes.
 
 ###### Artículo 989.
 
 El desempeño de la patria potestad, de la tutela y de la adopción queda sujeto a las modalidades que le impongan las resoluciones judiciales o administrativas de acuerdo con las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 990.
 
-Las providencias protectoras de las personas menores de edad que este Código establece y las que juzguen pertinentes los tribunales, incluyendo el régimen de convivencia, se dictarán por ellos de oficio, o a petición del Ministerio Público, de los parientes de las personas menores de edad, de estas mismas si pueden expresarse, de su tutor, del Oficial de Menores de Edad o de cualquiera otra persona siempre que dichas medidas beneficien a la persona menor de edad.
+Las providencias protectoras de las niñas, niños y adolescentes que este Código establece y las que juzguen pertinentes los tribunales, incluyendo el régimen de convivencia, se dictarán por ellos de oficio, o a petición del Ministerio Público, de los parientes de las niñas, niños y adolescentes, de estas mismas si pueden expresarse, de su tutor, del Representante en Suplencia adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia Estatal o a la Delegación de las Procuradurías de Protección de Niñas, Niños, Adolescentes y la Familia de los Sistemas para el Desarrollo Integral de la Familia Municipales o de cualquiera otra persona siempre que dichas medidas beneficien a las niñas, niños o adolescentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 990 Bis.
 
-Para los efectos del presente Código se considerará como interés superior de la niñez, la prioridad que ha de otorgarse a los derechos de las niñas, los niños y los adolescentes, respecto de los derechos de cualquier otra persona, con el fin de garantizar, entre otros, los siguientes aspectos:
+Para los efectos del presente Código se considerará como interés superior de la niñez, la prioridad que ha de otorgarse a los derechos de las niñas, niños y adolescentes respecto de los derechos de cualquier otra persona, con el fin de garantizar, entre otros, los siguientes aspectos:
 
 I.- El acceso a la salud física y mental, alimentación y educación que fomente su desarrollo personal, sin estereotipos ni condicionamientos de género;
 
@@ -5763,27 +5871,33 @@ Se considerará incumplimiento de las obligaciones de crianza, el que sin justif
 
 No se considera incumplimiento de éstas obligaciones el que cualquiera de los progenitores tenga jornadas laborales extensas.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 995.
 
-El orden de preferencia lo establecerán en cada caso los abuelos por acuerdo unánime de los que sobrevivan o no estén impedidos, y sólo que dicho acuerdo no se logre, el Juez, oyendo a aquéllos y a las personas cuyo parecer estime conveniente conocer, así como al propio menor si sabe expresarse, resolverá lo que más convenga a éste y esa resolución puede ser modificada en todo tiempo, siempre que la modificación sea benéfica para el menor.
+El orden de preferencia lo establecerán en cada caso las personas ascendientes por acuerdo unánime de los que sobrevivan o no estén impedidos, y solo que dicho acuerdo no se logre, la persona Juzgadora, oyendo a aquéllos y a las personas cuyo parecer estime conveniente conocer, así como a la propia niña, niño o adolescente si sabe expresarse, resolverá lo que más convenga a éste y esa resolución puede ser modificada en todo tiempo, siempre que la modificación sea benéfica para la niña, niño o adolescente.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 996.
 
-No ejercerán la custodia quienes hayan sido declarados padre o madre, respectivamente en juicio de investigación de la paternidad o maternidad, salvo que el Juez estime que esa custodia es conveniente al menor.
+No ejercerán la custodia quienes hayan sido declarados padre o madre, respectivamente en juicio de investigación de la paternidad o maternidad, salvo que la persona Juzgadora estime que esa custodia es conveniente a la niña, niño o adolescente.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 997.
 
-En caso de que los progenitores vivan separados, y en el caso de que sean menores de doce años, la custodia corresponderá preferentemente a la madre, salvo que exista riesgo o peligro. El otro estará obligado a colaborar con su alimentación y crianza conservando el derecho de convivencia con la persona menor de edad, conforme a las modalidades previstas en el convenio o resolución judicial.
+En caso de que quienes ejerzan la patria potestad vivan separados a falta de acuerdo respecto de su guardia y custodia de las niñas, niños y adolescentes; la persona Juzgadora deberá de valorar las especiales circunstancias que concurran en cada uno de aquéllos y determinar cuál es el ambiente más propicio para el desarrollo integral de la personalidad de la niña, niño y adolescente.
 
-En su caso, deberá preverse el derecho de convivencia de los demás parientes del menor, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores.
+La persona que no ejerza la custodia estará obligada a colaborar con su alimentación y crianza conservando el derecho de convivencia con las niñas, los niños y adolescente, conforme a las modalidades previstas en el convenio o resolución judicial
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
+En su caso, deberá preverse el derecho de convivencia de los demás parientes de la niña, niño o adolescente, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para las niñas, niños o adolescentes.
 
-###### Artículo 997
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-Bis. Los hijos que estén bajo la patria potestad de sus progenitores tienen el derecho de convivir con ambos, aun cuando no vivan bajo el mismo techo. No podrán impedirse, sin justa causa, las relaciones personales entre la persona menor de edad y sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores. En caso de oposición, a petición de cualquiera de ellos, el Juez resolverá lo conducente, privilegiando el interés superior de la niñez, previa audiencia con la persona menor de edad, debidamente asistida por el Oficial de Menores de Edad, adscrito a Procuraduría de Protección de Niñas, Niños y Adolescentes y la Familia del Estado de Quintana Roo. Sólo por mandato judicial, este derecho podrá ser limitado o suspendido, considerando el incumplimiento reiterado de las obligaciones de crianza o peligro para la salud e integridad física, psicológica o sexual de los hijos.
+###### Artículo 997 Bis.
+
+Las niñas, niños y adolescentes que estén bajo la patria potestad de sus progenitores tienen el derecho de convivir con ambos, aun cuando no vivan bajo el mismo techo. No podrán impedirse, sin justa causa, las relaciones personales entre la niña, niño o adolescente y sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para las niñas, niños o adolescentes. En caso de oposición, a petición de cualquiera de ellas o ellos, la persona Juzgadora resolverá lo conducente, privilegiando el interés superior de la niñez, previa audiencia con la niña, niño o adolescente, debidamente asistida por la persona Oficial de Niñas, Niños y Adolescentes adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia Estatal o a la Delegación de las Procuradurías de Protección de Niñas, Niños, Adolescentes y la Familia de los Sistemas para el Desarrollo Integral de la Familia Municipales. Solo por mandato judicial, este derecho podrá ser limitado o suspendido, considerando el incumplimiento reiterado de las obligaciones de crianza o peligro para la salud e integridad física, psicológica o sexual de las niñas, niños o adolescentes.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -5805,31 +5919,39 @@ La educación a que se refiere el artículo anterior, comprende la facultad de l
 
 El deber de establecer límites no implica infligir a la persona menor de edad, actos de violencia o contra su integridad en los términos de lo dispuesto en este Código, por lo tanto los llamados de atención y exhortos que hagan los padres o tutores para el comportamiento y adecuada convivencia de todos los integrantes del núcleo familiar, serán respetadas las opiniones de éstos, buscando democratizar el núcleo familiar.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-Artículo 999 BIS.- Se entenderá por Oficial de Menores de Edad, al profesional en psicología, trabajo social o pedagogía exclusivamente, adscrito a la Procuraduría de la Defensa del Menor y la Familia del Estado de Quintana Roo, dependiente de la Dirección del Sistema Estatal para el Desarrollo Integral de la Familia de la entidad u otra institución pública o privada avalada por éste, que asista a la persona menor de edad, para los efectos de facilitar su comunicación libre y espontánea, darle protección psicoemocional en las sesiones donde éste sea oído por el juez en privado, sin la presencia de los progenitores.
+###### Artículo 999 Bis.
 
-Dicho Oficial podrá solicitar hasta dos entrevistas previas a la escucha de la persona menor de edad, siendo obligatorio para el progenitor que tenga la guarda y custodia de la persona menor de edad y dar cumplimiento a los requerimientos de dicho oficial.
+Se entenderá por persona Oficial de niñas, niños y adolescentes, al profesional en psicología, exclusivamente adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia Estatal o a las Delegaciones de las Procuradurías de Protección de Niñas, Niños, Adolescentes y la Familia de los Sistema para el Desarrollo Integral de la Familia Municipales, que asista a la niña, niño o adolescente, para los efectos de facilitar su comunicación libre y espontánea, darle protección psicoemocional en las sesiones donde éste sea oído por la persona Juzgadora en privado, sin la presencia de las personas progenitoras.
 
-En caso de desacuerdo sobre las convivencias o cambio de guarda y custodia, en la controversia o en el incidente respectivo deberá oírse a la persona menor de edad, mismo que será asistido por un Oficial de Menores de Edad que para tal efecto se designe. La persona menor de edad podrá recibir esta asistencia en otras controversias del orden familiar, cuando así lo solicite alguna de las partes o el Ministerio Público.
+Dicha persona Oficial podrá solicitar hasta dos entrevistas previas a la escucha de la niña, niño o adolescente, siendo obligatorio para la persona progenitora que tenga la guarda y custodia de la niña, niño o adolescente y dar cumplimiento a los requerimientos de dicha persona Oficial.
 
-El Juez de Primera Instancia con toda oportunidad solicitará la presencia de dicho Oficial, el cual con la simple designación y sin necesidad de ratificar su cargo, acudirá a la audiencia que se acuerde, tomando en consideración la programación de audiencias que tenga el Oficial de Menores de Edad.
+En caso de desacuerdo sobre las convivencias o cambio de guarda y custodia, en la controversia o en el incidente respectivo deberá oírse a la niña, niño o adolescente, mismo que será asistido por una persona Oficial de niñas, niños y adolescentes que para tal efecto se designe. La niña, niño o adolescente podrá recibir esta asistencia en otras controversias del orden familiar, cuando así lo solicite alguna de las partes o el Ministerio Público.
+
+La persona Juzgadora de Primera Instancia con toda oportunidad solicitará la presencia de dicha persona Oficial el cual con la simple designación y sin necesidad de ratificar su cargo, acudirá a la audiencia que se acuerde, tomando en consideración la programación de audiencias que tenga la persona Oficial de niñas, niños y adolescentes.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1000.
 
-Los menores sujetos a la patria potestad tienen el deber de vivir en el hogar de quienes la ejerzan o en la casa o institución educativa que éstos señalen.
+Las niñas, niños y adolescentes sujetos a la patria potestad tienen el deber de vivir en el hogar de quienes la ejerzan o en la casa o institución educativa que éstos señalen.
 
 ###### Artículo 1001.
 
 Las autoridades auxiliarán al titular de la patria potestad cuando sea necesario para el ejercicio de ésta.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1002.
 
-Los que ejercen la patria potestad son los legítimos representantes de los menores sujetos a ella, y tienen la legal administración de los bienes a que se refiere la fracción II del artículo 1005.
+Las personas que ejercen la patria potestad son las legítimas representantes de las niñas, niños y adolescentes sujetos a ella, y tienen la legal administración de los bienes a que se refiere la fracción II del artículo 1005.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1003.
 
-Cuando la patria potestad se ejerza conjuntamente por el padre y la madre, o por el abuelo y la abuela, o por los adoptantes que sean marido y mujer, el administrador de los bienes será nombrado por mutuo acuerdo; pero el designado consultará en todos los negocios a su consorte y requerirá su consentimiento expreso para los actos más importantes de la administración.
+Cuando la patria potestad se ejerza conjuntamente por quien por filiación ejerza dicha titularidad, o por las personas ascendientes o por los adoptantes, el administrador de los bienes será nombrado por mutuo acuerdo; pero el designado consultará en todos los negocios a su consorte y requerirá su consentimiento expreso para los actos más importantes de la administración.
 
 ###### Artículo 1004.
 
@@ -5863,9 +5985,11 @@ Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo 
 
 Tampoco podrán los titulares de la patria potestad celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años, vender valores comerciales, industriales, financieros, títulos de rentas, acciones, frutos y ganados por menor valor del que se cotice en la plaza el día de la venta, ni hacer donación de los bienes de los hijos o remisión de los derechos de éstos ni dar fianza en representación de los mismos.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1011.
 
-Siempre que el Juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó y para que el resto se invierta en la adquisición de un inmueble, o de bonos financieros emitidos por instituciones bancarias o se imponga con segura hipoteca en favor del menor.
+Siempre que la persona Juzgadora conceda licencia a quienes ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente la niña, niño o adolescente, tomará las medidas necesarias; para hacer que el producto de la venta se dedique al objeto a que se destinó y para que el resto se invierta en la adquisición de un inmueble, o de bonos financieros emitidos por instituciones bancarias o se imponga con segura hipoteca en favor de la niña, niño o adolescente.
 
 ###### Artículo 1012.
 
@@ -5875,9 +5999,11 @@ Entre tanto, el precio de la venta se depositará en una institución de crédit
 
 En todos los casos en que las personas que ejercen la patria potestad tengan un interés opuesto al de los hijos, serán éstos representados en juicio y fuera de él por un tutor especial.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1014.
 
-También nombrará el Juez un tutor especial a cada menor en el caso de que la oposición de intereses sea entre dos o más menores sujetos a una misma patria potestad.
+También nombrará la persona Juzgadora a una persona tutora especial a cada niña, niño o adolescente en el caso de que la oposición de intereses sea entre dos o más niñas, niños o adolescentes sujetos a una misma patria potestad.
 
 ###### Artículo 1015.
 
@@ -5899,7 +6025,9 @@ La patria potestad se acaba:
 
 I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II.- Con la emancipación del menor; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+II. Con la emancipación de la o el adolescente;
 
 III.- Por la mayor edad de éste;
 
@@ -5983,25 +6111,23 @@ III. Por sentencia definitiva ejecutoriada que decrete la suspensión.
 
 La custodia se recobrará cuando cese el motivo que originó la suspensión y sea declarada por la autoridad judicial competente.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1022.
 
-Puede privarse de la custodia al titular de la patria potestad:
+Puede privarse de la custodia a la persona titular de la patria potestad:
 
-I.- Cuando cometa algún delito grave en contra del menor;
+I. Cuando cometa algún delito grave en contra de la niña, niño o adolescente;
 
-II.- Cuando ha sido condenado ejecutoriamente dos o más veces por delitos cometidos en contra de otras personas;
+II. Cuando haya sido condenada ejecutoria mente más de dos veces por delitos cometidos en contra de otras personas;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+III. Por causarle daños físicos o emocionales, o por explotación, se pueda comprometer su salud, la seguridad o la moralidad de la niña, niño o adolescente, aunque esos hechos sean penalmente punibles en términos de la legislación respectiva en la entidad;
 
-III.- Por causarle daños físicos o emocionales, o por explotación, se pueda comprometer su salud, la seguridad o la moralidad de la persona menor de edad, aunque esos hechos sean penalmente punibles en términos de la legislación respectiva en la entidad;
+IV. Cuando abandone o exponga a la niña, niño o adolescente;
 
-IV.- Cuando abandone o exponga al menor; y
+V. En los casos de divorcio, y
 
-V.- En los casos de divorcio;
-
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
-
-VI.- Cuando por sentencia ejecutoriada, haya sido condenado a la pérdida de la patria potestad.
+VI. Cuando por sentencia ejecutoriada, haya sido condenada a la pérdida de la patria potestad.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -6009,27 +6135,25 @@ VI.- Cuando por sentencia ejecutoriada, haya sido condenado a la pérdida de la 
 
 En el caso de la fracción I del artículo anterior, la pérdida de la custodia se decretará en la sentencia que ponga fin al proceso penal respectivo, mandándose suspender entre tanto la custodia desde el auto de formal prisión; en los casos de las fracciones II, III, IV y VI, la pérdida se decretará en la sentencia del juicio civil que se siga especialmente al efecto, en tanto que en el caso de la fracción V, la pérdida será decretada en la sentencia de divorcio, contra el cónyuge que haya dado causa a éste.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1024.
 
-Cuando el Juez fundadamente estime, por las pruebas que se ofrezcan y las que él reciba de oficio, que es conveniente para el menor que cese la privación de la custodia, lo dispondrá razonando cuidadosamente su fallo.
+Cuando la persona Juzgadora fundadamente estime, por las pruebas que se ofrezcan y las que reciba de oficio, que es conveniente para la niña, niño o adolescente que cese la privación de la custodia, lo dispondrá razonando cuidadosamente su fallo.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-Artículo 1024 BIS.- Salvo convenio entre las partes, el juez establecerá en los casos de limitación de la custodia, un sistema de visitas a favor del progenitor que no conserve dicha guarda y custodia, estableciendo una convivencia mínima de cuatro días y dos noches al mes, salvo tratándose de lactantes o niños o niñas que por prescripción médica no puedan pernoctar fuera del hogar. Esta convivencia podrá ampliarse atendiendo a las circunstancias particulares de cada caso y no podrá entorpecer o dificultar sus obligaciones escolares y su derecho al esparcimiento y recreación.
+###### Artículo 1024 Bis.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2022)</small>
+Salvo convenio entre las partes, la persona Juzgadora establecerá en los casos de limitación de la custodia, un sistema de visitas a favor de la persona progenitora que no conserve dicha guarda y custodia, estableciendo una convivencia mínima de cuatro días y dos noches al mes, salvo tratándose de lactantes o niños o niñas que por prescripción médica no puedan pernoctar fuera del hogar. Esta convivencia podrá ampliarse atendiendo a las circunstancias particulares de cada caso y no podrá entorpecer o dificultar sus obligaciones escolares y su derecho al esparcimiento y recreación.
 
-Lo anterior, sin perjuicio del derecho de convivencia de los demás parientes del menor, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores.
+Lo anterior, sin perjuicio del derecho de convivencia de los demás parientes de la niña, niño o adolescente, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para la niña, niño o adolescente.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
+Asimismo, deberá la persona Juzgadora escuchar las propuestas y argumentos de las partes al respecto, sin menoscabo de poder tomar en cuenta la opinión del Ministerio Público, la persona tutora, parientes, y en general a las personas que, por cualquier motivo, razón o circunstancia, puedan aportar elementos de convicción, para determinar lo conducente en los términos establecidos por el artículo 816 del presente Código.
 
-Asimismo, deberá el juez escuchar las propuestas y argumentos de las partes al respecto, sin menoscabo de poder tomar en cuenta la opinión del Ministerio Público, tutor, parientes, y en general a las personas que, por cualquier motivo, razón o circunstancia, puedan aportar elementos de convicción, para determinar lo conducente en los términos establecidos por el artículo 816 del presente Código.
+La persona Juzgadora deberá tener en cuenta e incluir en el sistema de visitas los días festivos, cumpleaños familiares y periodos vacacionales o días de puente, procurando la alternancia y el contacto con ambos progenitores, sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para las niñas, niños o adolescentes. También deberá buscarse la no restricción a ninguno de los progenitores, sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para las niñas, niños o adolescentes, de la asistencia a celebraciones o festividades que se organicen en relación a las niñas, niños o adolescentes como graduaciones escolares, ceremonias de premiación, fiestas de inicio y fin de cursos, o cualquier otro evento similar que se derive de los estudios escolares o actividades complementarias o deportivas.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE MARZO DE 2022)</small>
-
-El juez deberá tener en cuenta e incluir en el sistema de visitas los días festivos, cumpleaños familiares y periodos vacacionales o días de puente, procurando la alternancia y el contacto con ambos progenitores, sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores. También deberá buscarse la no restricción a ninguno de los progenitores, sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores, de la asistencia a celebraciones o festividades que se organicen en relación a los hijos como graduaciones escolares, ceremonias de premiación, fiestas de inicio y fin de cursos, o cualquier otro evento similar que se derive de los estudios escolares o actividades complementarias o deportivas.
-
-Asimismo, el convenio o resolución judicial deberán prever los casos de traslado de residencia de uno de los progenitores, la custodia y sistema de visitas en dicho caso.
+Asimismo, el convenio o resolución judicial deberán prever los casos de traslado de residencia de una de las personas progenitoras, la custodia y sistema de visitas en dicho caso.
 
 ## TITULO QUINTO. De la tutela
 
@@ -6039,11 +6163,15 @@ Asimismo, el convenio o resolución judicial deberán prever los casos de trasla
 
 Estarán sujetos a tutela:
 
-I.- El menor que no tenga quien ejerza sobre él la patria potestad, y en este caso, la tutela, reemplaza por completo a la patria potestad;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-II.- El mayor de edad sujeto a interdicción; y
+I. La niña, niño o adolescente que no tenga quien ejerza sobre él la patria potestad, y en este caso, la tutela, reemplaza por completo a la patria potestad;
 
-III.- El menor emancipado, sólo para negocios judiciales.
+II. El mayor de edad sujeto a interdicción; y
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+III. La o el adolescente emancipado, solo para negocios judiciales.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -6113,9 +6241,11 @@ La persona menor de edad que sufra alguna incapacidad señalada en el inciso a. 
 
 Si al llegar a la mayoría continúa el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual será oído el tutor anterior.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1042.
 
-En el caso del artículo anterior, el que fue tutor del menor puede ser nombrado tutor del mayor incapacitado.
+En el caso del artículo anterior el que fue tutor de la niña, niño o adolescente puede ser nombrado tutor de la persona mayor con incapacidad legal.
 
 ###### Artículo 1043.
 
@@ -6189,13 +6319,17 @@ El nombramiento de tutor testamentario hecho por el padre o por la madre, de acu
 
 Si el testador excluyó de la patria potestad a los abuelos por estar incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los abuelos, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1058.
 
-Quien en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, puede nombrarle tutor solamente para la administración de los bienes.
+Quien en su testamento, aunque sea una o un adolescente no emancipado, deje bienes, ya sea por legado o por herencia, a una persona con incapacidad legal que no esté bajo su patria potestad, puede nombrarle una persona tutora solamente para la administración de los bienes.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1059.
 
-Si fueren varios los menores, el testador podrá nombrarles un tutor común o conferir a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en los artículos 1032 y 1033.
+Si fueren varias las niñas, niños o adolescentes, la persona testadora podrá nombrarles una persona tutora común o conferir a persona diferente la tutela de cada una de ellas, observándose, en su caso, lo dispuesto en los artículos 1032 y 1033.
 
 ###### Artículo 1060.
 
@@ -6225,41 +6359,59 @@ Siempre que en un testamento se nombren varios tutores, desempeñará la tutela 
 
 Lo dispuesto en el artículo anterior no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
 
-### CAPITULO TERCERO. De la tutela legítima de los menores
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2023)</small>
+
+### CAPÍTULO TERCERO. De la Tutela legítima de las Niñas, Niños y Adolescentes
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1067.
 
-La tutela legítima de los menores corresponde a los hermanos del incapaz y para hacer el nombramiento no se observará ningún orden de preferencia.
+La tutela legítima de las niñas, niños y adolescentes corresponde a las hermanas o hermanos del incapaz y para hacer el nombramiento no se observará ningún orden de preferencia.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1068.
 
-El Juez designará el tutor escogiéndolo entre los parientes del incapacitado que reúnan los requisitos para desempeñar ese cargo.
+La persona Juzgadora designará a la persona tutora escogiéndolo entre los parientes del incapacitado que reúnan los requisitos para desempeñar ese cargo.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1069.
 
-Para hacer la designación a que se refiere el artículo anterior, el Juez oirá a los parientes del incapacitado y a éste si puede expresarse.
+Para hacer la designación a que se refiere el artículo anterior, la persona Juzgadora oirá a los parientes del incapacitado y a éste si puede expresarse.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1070.
 
-Podrá el Juez nombrar tutor a una persona que no sea pariente del incapacitado, especialmente si el nombrado ha manifestado afecto y amistad por el menor y la familia de éste.
+Podrá la persona Juzgadora nombrar tutor a una persona que no sea pariente de la persona incapacitada, especialmente si el nombrado ha manifestado afecto y amistad por la niña, niño o adolescente y la familia de éste.
 
 ### CAPITULO CUARTO. De la tutela legítima de mayores incapacitados
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1071.
 
-El marido es tutor legítimo y forzoso de su mujer y ésta lo es de su marido.
+Tanto en el matrimonio como en el concubinato, ambos integrantes de la pareja son entre sí personas tutoras legítimas y forzosas.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1072.
 
-Los hijos mayores de edad son tutores de su padre o madre solteros, viudos o divorciados.
+Las personas descendientes mayores de edad son tutores de sus progenitores o de quien o quienes ejercieron sobre ellos la patria potestad cuando eran niñas, niños o adolescentes; sean estas solteras, viudas o divorciadas.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1073.
 
-Cuando haya dos o más hijos, será preferido el que viva en compañía del padre o de la madre.
+Cuando haya dos o más personas descendientes, será preferida la persona que vivía en compañía de quien o de quienes ejercieron sobre ellas la patria potestad.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1074.
 
-En el caso del artículo anterior, si son varios los hijos que viven en compañía del padre o de la madre incapacitados, el Juez elegirá entre ellos al que le parezca más apto.
+En el caso del artículo anterior, si son varias las personas descendientes que viven en compañía de quienes ejercieron la patria potestad, la persona Juzgadora elegirá entre ellos a la persona que parezca más apta.
 
 ###### Artículo 1075.
 
@@ -6269,9 +6421,11 @@ Los padres son de derecho tutores de sus hijos divorciados, solteros o viudos, c
 
 En el caso del artículo anterior deben el padre y la madre ponerse de acuerdo, respecto de quien ejercerá la tutela.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1077.
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente los abuelos y los hermanos del incapacitado, en la inteligencia de que si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que le parezca más apto.
+A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores, deba desempeñar la tutela, serán llamados a ella sucesivamente las abuelas o abuelos y las hermanas o hermanos de la persona incapaz, en la inteligencia de que si hubiere varios parientes del mismo grado, la persona Juzgadora elegirá entre ellos al que le parezca más apto.
 
 ### CAPITULO QUINTO. De la tutela dativa
 
@@ -6283,29 +6437,39 @@ La tutela dativa tiene lugar cuando no hay tutor testamentario ni persona a quie
 
 Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1080.
 
-El tutor dativo será designado por el menor si ha cumplido catorce años.
+La persona tutora dativa será designado por la o el adolescente si ha cumplido catorce años.
 
 ###### Artículo 1081.
 
 El Juez confirmará la designación si no tiene justa causa para reprobarla.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1082.
 
-Para reprobar la ulterior designación que haga el menor, el Juez oirá el parecer del Ministerio Público.
+Para reprobar la ulterior designación que haga la o el adolescente, la persona Juzgadora oirá el parecer del Ministerio Público.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1083.
 
-Si tampoco se aprueba este nuevo nombramiento hecho por el menor, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+Si tampoco se aprueba este nuevo nombramiento hecho por la o el adolescente, la persona Juzgadora nombrará una persona tutora conforme a lo dispuesto en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1084.
 
-Si el menor no ha cumplido catorce años, el nombramiento de tutor lo hará el Juez, con audiencia del Ministerio Público, de entre las personas que en la localidad gocen de buena fama por su honorabilidad y moralidad.
+Si la niña, niño o adolescente no ha cumplido catorce años, el nombramiento de persona tutora lo hará la persona Juzgadora, con audiencia del Ministerio Público, de entre las personas que en la localidad gocen de buena fama por su honorabilidad y moralidad.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1085.
 
-Si el Juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
+Si la persona Juzgadora no hace oportunamente el nombramiento de persona tutora, será responsable de los daños y perjuicios que se sigan a la niña, niño o adolescente por esa falta.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -6317,25 +6481,37 @@ A las personas menores de edad que no estén sujetos a patria potestad, ni a tut
 
 En el caso del artículo anterior, tienen obligación de desempeñar la tutela, mientras duran en los cargos que a continuación se enumeran:
 
-I.- El Presidente Municipal del domicilio del menor;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-II.- Los regidores y síndicos del Ayuntamiento;
+I. La persona titular de la Presidencia Municipal del domicilio de la niña, niño o adolescente;
 
-III.- Las personas que desempeñan la autoridad administrativa en los lugares en donde no hubiere ayuntamiento;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-IV.- Los profesores oficiales de instrucción primaria, secundaria o profesional del lugar donde vive el menor;
+II. Las personas regidoras y síndicas del Ayuntamiento;
 
-V.- Los miembros de las juntas de beneficencia pública o privada que disfruten sueldo del erario;
+III. Las personas que desempeñan la autoridad administrativa en los lugares en donde no hubiere ayuntamiento;
 
-VI.- Los directores de establecimientos de asistencia pública.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+IV. Las personas profesoras oficiales de instrucción primaria, secundaria o profesional del lugar donde vive la niña, niño o adolescente;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+V. Las personas integrantes de las juntas de beneficencia pública o privada que disfruten sueldo del erario, y,
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VI. Las personas directoras de establecimientos de asistencia pública.
 
 ###### Artículo 1088.
 
 Los jueces nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas de comprobada honorabilidad que no desempeñen ninguno de dichos cargos oficiales, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1089.
 
-Si el menor que se encuentra en el caso previsto por el artículo 1086 adquiere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
+Si la niña, niño o adolescente que se encuentra en el caso previsto por el artículo 1086 adquiere bienes, se le nombrará persona tutora dativa de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -6379,23 +6555,23 @@ XII.- Los que padezcan enfermedad crónica contagiosa;
 
 XIII.- Los demás a quienes lo prohiba la ley.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1091.
 
-Serán separados de la tutela:
+Serán separadas de la tutela:
 
-I.- Los comprendidos en el artículo anterior, desde que sobrevenga o se advierta su incapacidad;
+I. Las personas comprendidas en el artículo anterior, desde que sobrevenga o se advierta su incapacidad;
 
-II.- Los que sin haber caucionado su manejo conforme a la ley, ejerzan la administración de la tutela;
+II. Las que sin haber caucionado su manejo conforme a la ley, ejerzan la administración de la tutela;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+III. Quienes ejerzan conductas de violencia familiar y/o violencia vicaria o se dirijan con negligencia, se conduzcan incorrectamente en el desempeño de la tutela, ya sea respecto de la persona o respecto de la administración de los bienes de la persona incapacitada;
 
-III.- Quienes ejerzan conductas de violencia familiar y/o violencia vicaria o se dirijan con negligencia, se conduzcan incorrectamente en el desempeño de la tutela, ya sea respecto de la persona o respecto de la administración de los bienes de la persona incapacitada;
+IV. Las personas tutoras que no rindan sus cuentas dentro del término fijado al respecto por este Código;
 
-IV.- Los tutores que no rindan sus cuentas dentro del término fijado al respecto por este Código;
+V. La persona tutora que contraiga nupcias con la persona que esté bajo su guardia, salvo lo establecido por el artículo 703 mediante determinación judicial, y previendo lo establecido por el artículo 1077 de este ordenamiento, y
 
-V.- El tutor que sin la previa dispensa y aprobación de las cuentas de la tutela, contraiga nupcias con la persona que esté bajo su guarda;
-
-VI.- El tutor que permanezca ausente por más de seis meses del lugar en que debe desempeñar la tutela.
+VI. La persona tutora que permanezca ausente por más de seis meses del lugar en que debe desempeñar la tutela.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -6467,25 +6643,29 @@ III.- En fianza.
 
 La garantía prendaria que preste el tutor se constituirá depositando los bienes dados en prenda, en una institución de crédito autorizada para recibir depósitos; a falta de ella, se depositarán en poder de persona de notoria solvencia y honorabilidad.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1103.
 
 Están exceptuados de la obligación de dar garantía:
 
-I.- Los tutores testamentarios, cuando expresamente los haya relevado de esta obligación el testador;
+I. Las personas tutoras testamentarias, cuando expresamente las haya relevado de esta obligación la persona testadora;
 
-II.- El tutor que no administre bienes;
+II. La persona tutora que no administre bienes;
 
-III.- Los ascendientes en los casos en que, conforme a la ley, son llamados a desempeñar la tutela de sus descendientes, y el cónyuge y los descendientes del incapaz, en su caso, salvo que el Juez, con audiencia del Ministerio Público, estime conveniente la caución;
+III. Las personas ascendientes en los casos en que, conforme a la ley, son llamadas a desempeñar la tutela de sus descendientes, y el cónyuge y los descendientes de la persona con incapacidad legal, en su caso, salvo que la persona Juzgadora, con audiencia del Ministerio Público, estime conveniente la caución, y
 
-IV.- Los que acojan a un menor abandonado, lo alimenten y eduquen convenientemente por más de diez años, a no ser que hayan recibido pensión para cuidar de él.
+IV. Las personas que acojan a una niña, niño o adolescente en situación de abandono, lo alimenten y eduquen convenientemente por más de diez años, a no ser que hayan recibido pensión para cuidar de los mismos.
 
 ###### Artículo 1104.
 
 Los tutores comprendidos en la fracción I del artículo anterior sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del Juez y previa audiencia del Ministerio Público, haga necesaria aquélla.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1105.
 
-La garantía que presten los tutores no impedirá que el Juez de oficio o a petición del Ministerio Público, de los parientes del incapacitado o de éste si ha cumplido catorce años de edad, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo; pero el menor no necesita promover por escrito para ser atendido por el Juez.
+La garantía que presten las personas tutoras no impedirá que la persona Juzgadora de oficio o a petición del Ministerio Público, de los parientes de la persona con incapacidad legal o de ésta si ha cumplido catorce años de edad, dicte las providencias que se estimen útiles para la conservación de los bienes de la persona pupila; pero la niña, niño o adolescente no necesita promover por escrito para ser atendido por la persona Juzgadora.
 
 ###### Artículo 1106.
 
@@ -6559,17 +6739,23 @@ V.- A representar al incapacitado en juicio y fuera de él en todos los actos ci
 
 VI.- A solicitar oportunamente la autorización judicial para todo lo que legalmente no pueda hacer sin ella.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1118.
 
-Los gastos de alimentación y educación del menor deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
+Los gastos de alimentación y educación de la niña, niño o adolescente deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1119.
 
-El monto de tales gastos será fijado por el Juez con audiencia del Ministerio Público y del tutor al entrar éste al ejercicio de su cargo, y sin perjuicio de modificarlo, según el aumento o disminución del patrimonio del menor y otras circunstancias. Por las mismas razones podrá el Juez modificar la cantidad que el testador que nombró tutor testamentario hubiere señalado para dicho objeto.
+El monto de tales gastos será fijado por la persona Juzgadora con audiencia del Ministerio Público y de la persona tutora al entrar ésta al ejercicio de su cargo, y sin perjuicio de lo modificado, según el aumento o disminución del patrimonio de la niña, niño o adolescente y otras circunstancias. Por las mismas razones podrá la persona Juzgadora modificar la cantidad que la persona testadora que nombró persona tutora testamentaria hubiere señalado para dicho objeto.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1120.
 
-Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el Juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de sus bienes y si fuere posible, sujetará a las rentas de éstos los gastos de alimentación.
+Si las rentas de la niña, niño o adolescente no alcanzan a cubrir los gastos de su alimentación y educación, la persona Juzgadora decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de sus bienes y si fuere posible, sujetará a las rentas de éstos los gastos de alimentación.
 
 ###### Artículo 1121.
 
@@ -6615,9 +6801,11 @@ Hecho el inventario, no se admitirá al tutor rendir pruebas contra él en perju
 
 Se exceptúan de lo dispuesto en el artículo anterior los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1132.
 
-Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de llegar a la mayor edad, o cualquier pariente suyo, puede ocurrir al Juez pidiéndole que los bienes omitidos se listen y el Juez, oído el parecer del tutor, determinará en justicia.
+Si se hubiere omitido listar algunos bienes en el inventario, la niña, niño o adolescente, antes o después de llegar a la mayor edad, o cualquier pariente suyo, puede ocurrir a la persona Juzgadora pidiéndole que los bienes omitidos se listen y la persona Juzgadora, oído el parecer de la persona tutora, determinará en justicia.
 
 ###### Artículo 1133.
 
@@ -6627,9 +6815,11 @@ El tutor, dentro del primer mes de ejercer su cargo, fijará, con aprobación de
 
 Lo dispuesto en el artículo anterior no libera al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1135.
 
-Si el padre o la madre del menor ejercían algún comercio o industria, el Juez, con informe de dos peritos y audiencia del Ministerio Público, decidirá si ha de continuar o no la negociación, a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad en cuanto no ofrezca grave inconveniente, a juicio del Juez.
+Si el padre o la madre de la niña, niño o adolescente ejercían algún comercio o industria, la persona Juzgadora, con informe de dos peritos y audiencia del Ministerio Público, decidirá si ha de continuar o no la negociación, a no ser que las personas progenitoras hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad en cuanto no ofrezca grave inconveniente, a juicio de la persona Juzgadora.
 
 ###### Artículo 1136.
 
@@ -6855,21 +7045,21 @@ Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar la
 
 ## TITULO SEXTO. Del patrimonio de familia
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1188.
 
-Son objeto del patrimonio de la familia, la casa habitación de ésta y en algunos casos, una parcela cultivable cuando se trate de familia campesina.
+Son objeto del patrimonio de la familia, la casa habitación con sus muebles, y el predio cultivable cuando se trate de familia campesina.
 
 ###### Artículo 1189.
 
 La constitución del patrimonio no transmite la propiedad de los bienes que lo constituyen a los miembros de la familia beneficiaria y éstos sólo tienen derecho a disfrutar esos bienes según lo dispone este título.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1190.
 
-Para los efectos de este título, se entiende por familia a las personas que estando unidas por matrimonio o por parentesco consanguíneo o afín, habiten una misma casa y tengan, por ley o voluntariamente, unidad en la administración del hogar.
+Para los efectos de este título, se entiende por familia a las personas que, estando unidas por matrimonio, concubinato y/o por vínculo filiatorio, habiten una misma casa y tengan, por ley o voluntariamente, unidad en la administración del hogar.
 
 ###### Artículo 1191.
 
@@ -6915,11 +7105,13 @@ Sólo puede constituirse un patrimonio familiar por familia.
 
 Los miembros de una familia para la cual se estableció un patrimonio familiar, dejarán de tener los derechos establecidos en el artículo 1192, cuando a su vez formen otra familia.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1202.
 
-El valor máximo de los bienes afectos al patrimonio de familia será el equivalente a quince mil días del salario mínimo general, fijado para la zona económica donde estén ubicados.
+El valor máximo del bien inmueble afecto al patrimonio de familia será el equivalente a quince mil días del salario mínimo general, fijado para la zona económica donde estén ubicados; el de los muebles, el equivalente al diez por ciento del valor del inmueble.
+
+El patrimonio de familia se regirá además de lo dispuesto por este título, por lo establecido por el artículo 727.
 
 ###### Artículo 1203.
 
@@ -6945,9 +7137,11 @@ V.- Que el valor de los bienes que van a constituir el patrimonio no exceda del 
 
 Si el interesado así lo pidiere o el Juez advirtiere que es necesario, la solicitud a que se refieren los dos artículos anteriores será redactada por el Juez mismo, haciéndola constar en una acta y en todo caso, el Juez instruirá al interesado respecto de los requisitos que debe satisfacer para constituir el patrimonio de familia.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1206.
 
-Si el solicitante vive en estado matrimonial sin estar casado, el Juez citará a las dos personas que hacen vida matrimonial y sin formalidad alguna procurará convencerlas para que contraigan entre sí matrimonio si no existe impedimento no dispensable, y para que reconozcan a los hijos que hayan procreado; pero el hecho de que no contraigan matrimonio no impedirá la constitución del patrimonio de familia.
+Si la persona solicitante vive en concubinato, no impedirá la constitución del patrimonio de familia.
 
 ###### Artículo 1207.
 
@@ -7175,9 +7369,13 @@ Pueden testar todas las personas a quienes la ley no prohíbe expresamente el ej
 
 Están incapacitados para testar:
 
-I.- Los menores que no hayan cumplido catorce años de edad; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-II.- Los que habitualmente o accidentalmente no disfruten de su cabal juicio.
+I. Las niñas, niños y adolescentes que no hayan cumplido catorce años de edad, y
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+II. Las personas que habitual o accidentalmente no disfruten de su cabal juicio.
 
 ###### Artículo 1253.
 
@@ -8607,7 +8805,41 @@ Los hermanos del autor de la herencia sólo tienen derecho a alimentos cuando co
 
 El concubinario o la concubina heredarán como el cónyuge.
 
-Si la vida en común de quien haya vivido con el autor de la herencia públicamente como cónyuge sin estar casado con él y sin que hubiese ningún impedimento para que contrajese matrimonio uno con otro, duró menos de dos años y no procrearon ningún hijo, el supérstite solo tendrá derecho a alimentos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2023)</small>
+
+Si la vida en común de la persona que haya vivido de manera continua e ininterrumpida con la persona autora de la herencia públicamente como cónyuge sin estar casada con la persona autora de la herencia y sin que hubiese ningún impedimento para que contrajese matrimonio uno con otro, duró menos de dos años y no procrearon ningún descendiente, el supérstite solo tendrá derecho a alimentos; salvo que se acredite en la existencia de la unión de hecho:
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+I. La existencia de una relación estable de carácter sentimental entre las partes;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+II. La existencia de un domicilio común, su naturaleza y alcance;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+III. Las relaciones de dependencia económica que puedan existir entre las partes;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+IV. La conformación de un patrimonio común;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+V. Los aspectos públicos de la relación;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VI. Las contribuciones pecuniarias o de otro tipo realizadas por las partes;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VII. El posible perjuicio de las partes en caso de negarse la declaratoria, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VIII. Cualquier otro elemento que permita al tribunal discernir la existencia de elementos de solidaridad, afectividad y ayuda mutua entre ambos.
 
 ### CAPITULO QUINTO. De la sucesión de los colaterales
 
@@ -8819,9 +9051,11 @@ Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición
 
 La herencia dejada a los menores y demás incapacitados será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1578.
 
-Ni el hombre ni la mujer casados necesitan la autorización de su consorte para aceptar o repudiar la herencia que les corresponda.
+Ninguno de los cónyuges necesita la autorización de su consorte para aceptar o repudiar la herencia que les corresponda.
 
 ###### Artículo 1579.
 
@@ -17858,6 +18092,16 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan a lo establec
 P.O. 12 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 277 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ADOPCIÓN DEL ESTADO DE QUINTANA ROO; Y SE DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los procedimientos que se encuentren en trámite con anterioridad a la entrada en vigor del presente Decreto, serán concluidos de conformidad con las disposiciones vigentes al momento de su inicio.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 062 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO, EN MATERIA DE DERECHO DE FAMILIA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
