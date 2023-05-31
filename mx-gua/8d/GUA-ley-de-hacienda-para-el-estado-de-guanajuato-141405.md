@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-141405"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2022-12-30"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en la Octava Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -939,7 +939,7 @@ Los contribuyentes podrán solicitar la práctica de un avalúo por corredor pú
 
 #### Sección II. Impuesto para Remediación Ambiental por la emisión de Gases Contaminantes
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 Objeto del impuesto
 
@@ -1015,9 +1015,9 @@ Este impuesto se determinará de acuerdo con la tasa del 6 por ciento, sobre la 
 
 Los organismos descentralizados, sus sucursales o expendios autorizados, a que se refiere el artículo 49 de esta Ley, retendrán el impuesto causado y lo enterarán al SATEG, mediante declaración mensual en el formato autorizado, que deberán presentar dentro de los quince días del mes siguiente a aquél al que corresponda el pago en la que se señalarán los datos relativos a la identificación de los premios pagados y el impuesto retenido en el territorio del Estado.
 
-#### Sección IV. Impuesto para Remediación Ambiental por el Depósito o Almacenamiento de Residuos
+#### Sección IV. Impuesto para Remediación Ambiental por el Depósito de Residuos
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 Objeto del impuesto
 
@@ -1467,9 +1467,7 @@ V. Conservar la contabilidad y los comprobantes de los asientos respectivos, as�
 
 #### Sección V. Estímulos y Destino de los Impuestos Ecológicos de Remediación Ambiental
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-Estímulos de los impuestos ecológicos
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 78-A.
 
@@ -1487,87 +1485,105 @@ Para efectos del presente Capítulo serán aplicables de manera supletoria la Le
 
 ###### Artículo 78-C.
 
-El objeto de este impuesto son las emisiones a la atmósfera de determinadas sustancias generadas en los procesos productivos que se desarrollen dentro el Estado y que afecten su medio ambiente.
+El objeto de este impuesto son las emisiones directas a la atmósfera de gases de efecto invernadero, generados en fuentes fijas a través de procesos productivos que se desarrollen dentro del estado y que afecten su medio ambiente.
 
-Para los efectos de este impuesto se considera emisión a la atmósfera, la expulsión directa o indirecta de bióxido de carbono, metano, óxido nitroso, hidrofluoro-carbonos, perfluoro-carbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
+Para los efectos de este impuesto, se consideran gases de efecto invernadero: el bióxido de carbono, metano, óxido nitroso, carbono negro, hidrofluorocarbonos y perfluorocarbonos, ya sea unitariamente o de cualquier combinación de ellos.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+Asimismo, se consideran fuentes fijas, toda instalación establecida en un lugar determinado, en forma permanente, que tenga como finalidad desarrollar operaciones o procesos productivos que generen o puedan generar, emisiones contaminantes a la atmósfera.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 Sujetos obligados
 
 ###### Artículo 78-D.
 
-Están obligados al pago de este impuesto, las personas físicas, las personas morales y las unidades económicas residentes en el Estado o las residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
+Están obligados al pago de este impuesto, las personas físicas y las personas morales, que cuenten o no con domicilio fiscal en el estado, que tengan fuentes fijas en las que se desarrollen actividades por las que se generen emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
 
-También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, estatal y municipal, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los municipios; las empresas productivas del Estado, los organismos descentralizados federales, estatales y municipales; las empresas de participación estatal mayoritaria de carácter federal y estatal; las empresas de participación municipal mayoritaria, las comisiones, patronatos, comités, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, estatal y municipal, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 Base del impuesto
 
 ###### Artículo 78-E.
 
-Es base de este impuesto la cuantía de carga contaminante de las emisiones gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
+La base de este impuesto son las emisiones directas de los gases de efecto invernadero establecidos en el presente artículo, expresadas en toneladas, fracción o ambas en su caso, generadas en las fuentes fijas por cada ejercicio fiscal, las cuales se calcularán de acuerdo con las metodologías establecidas por la autoridad competente en materia ambiental para el llenado de la Cédula de Operación Anual estatal o federal según corresponda.
 
-Para la determinación de la base gravable, el contribuyente la realizará mediante medición o estimación directa de las emisiones que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencia de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes y registros a cargo de la Secretaría de Medio Ambiente y Ordenamiento Territorial o de los entes públicos municipales, con independencia de la denominación de estos.
+Para la determinación de la base, el contribuyente deberá obtener el bióxido de carbono equivalente en toneladas, para lo cual, realizará la conversión de los gases establecidos en el artículo 78-C, párrafo segundo de esta Ley, multiplicando la tonelada, fracción o ambas en su caso del tipo de gas emitido por el factor al que corresponda conforme a la siguiente tabla:
 
-Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión de los gases establecidos en el artículo 78 C de esta Ley en Bióxido de Carbono (CO2), multiplicando la tonelada del tipo de gas emitido por el factor relacionado conforme a la siguiente tabla:
+Gases de Efecto Invernadero Composición Molecular Factor
 
-Clases Efecto
+Bióxido de Carbono C02 1
 
-Invernadero Composición Molecular Equivalencia CO2
+Metano CH4 28
 
-Bióxido de carbono CO2 1
+Óxido nitroso N2O 265
 
-Metano CH4 23
+Carbono negro CN 900
 
-Óxido nitroso N2O 296
+Gases de Efecto Invernadero Composición Factor
 
-Hidrofluoro-carbones HFC-23 12,000
+Molecular
 
-HFC-125 3,400
+Hidrofluorocarbonos CHF3 12,400
 
-HFC-134a 1,300
+CHF2CF3 3,170
 
-HFC-152a 120
+CH2FCF3 1,300
 
-HFC-227ea 3,500
+CH3CHF2 138
 
-HFC-236fa 9,400
+CF3CHFCF3 3,350
 
-HFC-4310mee 1,500
+CF3CH2CF3 8,060
 
-Perfluoro-carbonos CF4 5,700
+CF3CHFCHFCF2CF3 1,650
 
-C2F6 11,900
+Perfluorocarbonos CF4 6,630
 
-C4F10 8,600
+C2F6 11,100
 
-C6F14 9,000
+C4F10 9,200
 
-Hexafluoro de azufre SF6 22,200
+C6F14 7,910
+
+SF6 23,500
+
+Cuando los sujetos obligados cuenten con más de un establecimiento en el estado con fuentes fijas, deberán acumular las emisiones de bióxido de carbono equivalente que generen cada uno de estos para la determinación de la base.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 Causación y determinación del impuesto
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 78-F.
 
-El impuesto se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente de 250 pesos por tonelada emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
+El impuesto se causará al momento de que los sujetos obligados emitan a la atmósfera los gases de efecto invernadero referidos en la tabla del artículo 78-E de esta Ley y se pagará una cuota de 45 pesos por cada tonelada emitida de bióxido de carbono equivalente, una vez aplicado el mecanismo de conversión previsto en el artículo aludido.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 Presentación de declaraciones y pago
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 78-G.
 
-El impuesto se pagará mediante declaraciones provisionales mensuales a cuenta del ejercicio correspondiente, a más tardar el día veintidós del mes inmediato posterior a aquél al que corresponda el pago, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general.
+Los contribuyentes efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día veintidós del mes inmediato posterior a aquel al que corresponda el pago, pudiendo optar por alguno de los siguientes esquemas:
 
-Asimismo, se deberá presentar una declaración anual por este impuesto a más tardar el último día hábil del mes de marzo para personas morales y unidades económicas y en abril para personas físicas del siguiente año del ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de este impuesto del ejercicio que corresponda.
+I. Al total de toneladas emitidas de bióxido de carbono equivalente en términos de lo establecido en el párrafo segundo del artículo 78-E de esta Ley se le aplicará la cuota establecida en el artículo 78-F de esta Ley.
+
+La metodología utilizada para la estimación de los gases de efecto invernadero que conformen el cálculo del impuesto en términos de esta fracción deberá ser la misma durante todo el ejercicio; o
+
+II. Al total de toneladas emitidas de gases de efecto invernadero reportadas en la última Cédula de Operación Anual del ámbito estatal o federal presentada, se le aplicará el mecanismo de conversión previsto en el artículo 78-E de esta Ley; el bióxido de carbono equivalente que se obtenga se multiplicará por el 80 por ciento; el resultado se dividirá entre doce meses; y a la cantidad que se obtenga, se le aplicará la cuota establecida en el artículo 78-F de esta Ley.
+
+Los contribuyentes presentarán declaración anual en agosto del año siguiente al que corresponda la declaración, manifestando el número total de emisiones de bióxido de carbono equivalente que correspondan a las emisiones de gases de efecto invernadero reportadas en la Cédula de Operación Anual del ámbito estatal o federal del año que se declara, y se multiplicará por la cuota referida en el artículo 78-F. Al resultado se le acreditarán los pagos provisionales mensuales efectuados de este impuesto; en el supuesto de que resulte impuesto a cargo, se realizará el entero correspondiente.
+
+Los contribuyentes no deberán presentar declaraciones provisionales en el ejercicio de iniciación de operaciones, el impuesto se pagará hasta la presentación de la declaración anual del ejercicio que corresponda.
 
 Lo anterior se establece, sin perjuicio de las multas, responsabilidades o sanciones que establezcan las disposiciones jurídicas aplicables en materia de equilibrio ecológico y protección al ambiente, u otras responsabilidades penales, civiles o administrativas y demás disposiciones que resulten aplicables.
 
-Con el objetivo de corroborar la información de las declaraciones en la determinación de la base, las autoridades fiscales podrán considerar los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a los Registros de Emisiones de Transferencias de Contaminantes, correspondientes.
+Con el objetivo de corroborar la información de las declaraciones en la determinación de la base, las autoridades fiscales podrán considerar los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a la normativa en materia ambiental y ecológica.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -1581,31 +1597,15 @@ I. Inscribirse en el Registro Estatal de Contribuyentes, dentro de los diez día
 
 El aviso a que se refiere esta fracción deberá ser presentado por cada local, establecimiento, agencia o sucursal que se ubique dentro del territorio del Estado;
 
-II. Llevar un libro de Registro de Emisiones Contaminantes, que estará a disposición del SATEG y de la Secretaría de Medio Ambiente y Ordenamiento Territorial, para efectos de la gestión del mismo y como medio de control, vigilancia y seguimiento del cumplimiento de la normativa medioambiental y fiscal de conformidad con sus atribuciones.
-
-En el Libro (sic) Registro de Emisiones Contaminantes se consignarán los datos siguientes:
-
-a) Volumen y tipología del combustible, así como materias primas consumidas o producidas;
-
-b) Composición química básica del combustible consumido o producido;
-
-c) Cálculo de las emisiones a la atmósfera realizado en cumplimiento de lo dispuesto en la presente Ley;
-
-d) En su caso, datos de concentración resultantes de los monitores o mecanismos de control o de medición instalados; y
-
-e) Cualquier otro que se establezca mediante publicación reglamentaria por parte de la Secretaría de Medio Ambiente y Ordenamiento Territorial y el SATEG.
+II. (DEROGADA, P.O. 31 DE MAYO DE 2023)
 
 III. Presentar declaraciones provisionales mensuales y declaración anual; y
 
 IV. Poner a disposición de las autoridades, para los efectos del ejercicio de sus facultades de fiscalización, la información, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-Estimación presuntiva
-
 ###### Artículo 78-I.
 
-Las autoridades fiscales podrán estimar presuntivamente la causación y el pago del mismo, salvo prueba en contrario, a partir de la información contenida en los Registros de Emisiones de Transferencias de Contaminantes, según corresponda, así como de los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal o mercantil; y demás documentos de carácter ambiental que los contribuyentes se encuentren obligados a presentar ante la Secretaría de Medio Ambiente y Recursos Naturales, la Secretaría de Medio Ambiente y Ordenamiento Territorial, así como todos aquellos entes públicos estatales o municipales competentes en la materia, correspondiente al último ejercicio fiscal que se hubieran presentado.
+(DEROGADO, P.O. 31 DE MAYO DE 2023)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -1889,47 +1889,11 @@ IV. Presentar declaraciones provisionales mensuales y declaración anual; y
 
 V. Poner a disposición de las autoridades, para los efectos del ejercicio de sus facultades de fiscalización, la información, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 78-Q.
 
-Es objeto de este impuesto el depósito o el almacenamiento de residuos en vertederos públicos o privados, situados en el Estado y que, al originar su liberación en el ambiente sean un constituyente tóxico o peligroso que suscita efectos de riesgo en la salud humana, a los ecosistemas o al equilibrio ecológico.
-
-Para identificar que el residuo genera los efectos establecidos en el párrafo anterior, se tomará como base la información que reporten los sujetos obligados de este impuesto a la Secretaría de Medio Ambiente y Recursos Naturales, a través del manifiesto de impacto ambiental, de su licencia ambiental única, de la cédula de operación anual y de su Plan de Manejo de Residuos, de conformidad en lo establecido en la Ley General del Equilibrio Ecológico y la Protección al Ambiente; o en su caso, los residuos sean identificados en la Ley General para la Prevención y Gestión Integral de los Residuos, en la Ley para la Gestión Integral de Residuos del Estado y los Municipios de Guanajuato o en alguna de las Normas Oficiales Mexicanas siguientes según sea la actividad que desarrollan los sujetos obligado (sic), atendiendo a la vigencia de la misma:
-
-I. NOM-159-SEMARNAT-2011: Que establece los requisitos de protección ambiental de los sistemas de lixiviación de cobre, publicada el 13 de febrero de 2012;
-
-II. NOM-157-SEMARNAT-2009: Que establece los elementos y procedimientos para instrumentar planes de manejo de residuos mineros, publicada el 30 de agosto de 2011;
-
-III. NOM-052-SEMARNAT-2005: Que establece las características, el procedimiento de identificación, clasificación y los listados de los residuos peligrosos, publicada el 23 de junio de 2006;
-
-IV. NOM-055-SEMARNAT-2003: Que establece los requisitos que deben reunir los sitios que se destinarán para un confinamiento controlado de residuos peligrosos previamente estabilizados, publicada el 3 de noviembre de 2004;
-
-V. NOM-098-SEMARNAT-2002: Protección ambiental-Incineración de residuos, especificaciones de operación y límites de emisión de contaminantes. Secretaría de Medio Ambiente y Recursos Naturales, publicada el 1 de octubre de 2004;
-
-VI. NOM-087-SEMARNAT-SSA1-2002: Protección ambiental-Incineración de residuos, especificaciones de operación y límites de emisión de contaminantes. Secretaría de Medio Ambiente y Recursos Naturales, publicada el 17 de febrero de 2003;
-
-VII. NOM-133-SEMARNAT-2015: Protección ambiental-Bifenilos policlorados (BPCS)-Especificaciones de manejo, publicada el 10 de diciembre de 2001;
-
-VIII. NOM-058-SEMARNAT-1993: Que establece los requisitos para la operación de un confinamiento controlado de residuos peligrosos, publicada, el 22 de octubre de 1993;
-
-IX. NOM-057-SEMARNAT-1993: Que establece los requisitos que deben observarse en el diseño, construcción y operación de celdas de un confinamiento controlado para residuos peligrosos, publicada el 22 de octubre de 1993;
-
-X. NOM-056-SEMARNAT-1993: Que establece los requisitos para el diseño y construcción de las obras complementarias de un confinamiento controlado de residuos peligrosos, publicada el 22 de octubre de 1993;
-
-XI. NOM-054-SEMARNAT-1993: Que establece el procedimiento para determinar la incompatibilidad entre dos o más residuos considerados como peligrosos por la norma oficial mexicana NOM-052-SEMARNAT-1993, publicada el 22 de octubre de 1993;
-
-XII. NOM-053-SEMARNAT-1993: Que establece el procedimiento para llevar a cabo la prueba de extracción para determinar los constituyentes que hacen a un residuo peligroso por su toxicidad al ambiente, publicada el 22 de octubre de 1993;
-
-XIII. Acuerdo por el que se modifica la Norma Oficial Mexicana NOM-161-SEMARNAT-2011: Que establece los criterios para clasificar a los residuos de manejo especial y determinar cuáles están sujetos a plan de manejo; el listado de los mismos, el procedimiento para la inclusión o exclusión a dicho listado; así como los elementos y procedimientos para la formulación de los planes de manejo, publicada el 5 de noviembre de 2014;
-
-XIV. NOM-161-SEMARNAT-2011: Que establece los criterios para clasificar a los Residuos de Manejo Especial y determinar cuáles están sujetos a Plan de Manejo, publicada el 1 de febrero de 2013;
-
-XV. NOM-145-SEMARNAT-2003: Confinamiento de residuos en cavidades construidas por disolución en domos salinos geológicamente estables, publicada el 27 de agosto de 2004;
-
-XVI. NOM-141-SEMARNAT-2003: Que establece el procedimiento para caracterizar los jales, así como las especificaciones y criterios para la caracterización y preparación del sitio, proyecto, construcción, operación y postoperación de presas de jales, publicada el 13 de septiembre de 2004; y
-
-XVII. NOM-083-SEMARNAT-2003: Especificaciones de protección ambiental para la selección del sitio, diseño, construcción, operación, monitoreo, clausura y obras complementarias de un sitio de disposición final de residuos sólidos urbanos y de manejo especial, publicada el 20 de octubre de 2004.
+El objeto de este impuesto es el depósito de residuos de manejo especial en sitios de disposición final públicos o privados.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -1939,85 +1903,89 @@ Consideraciones conceptuales para la aplicación del impuesto
 
 Para efectos de este impuesto se considera lo siguiente:
 
-I. Co-procesamiento. Integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-II. Disposición final. Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos;
+I. Gran generador: Persona física o moral que genere una cantidad igual o superior a 10 toneladas de residuos al año o su equivalente en otra unidad de medida;
 
-III. Evaluación del riesgo ambiental. Proceso metodológico para determinar la probabilidad o posibilidad de que se produzcan efectos adversos, como consecuencia de la exposición de los seres vivos a las sustancias contenidas en los residuos peligrosos o agentes infecciosos que los forman;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-IV. Inventario de residuos depositados o almacenados. Base de datos en la cual se asientan con orden y clasificación los volúmenes de generación de los diferentes residuos, que se integra a partir de la información proporcionada por los generadores en los formatos establecidos para tal fin, de conformidad con lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos;
+II. Informe anual: Reporte integrado con el concentrado de las bitácoras, en el cual se manifieste los volúmenes de generación o las formas de manejo de los residuos de manejo especial;
 
-V. Reciclado. Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-VI. Residuo. Cualquier material o producto generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita usarlo nuevamente en el proceso que lo generó, o que por sus características no pueda ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos y demás ordenamientos que de ella deriven;
+III. Manifiesto de entrega, transporte y recepción de residuos de manejo especial: Documento oficial, por el que el generador mantiene un estricto control sobre el transporte y destino de sus residuos dentro del territorio nacional;
 
-VII. Residuos Peligrosos. Aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en la Ley General para la Prevención y Gestión Integral de los Residuos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-VIII. Reutilización. Empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+IV. Residuos de manejo especial: Aquellos generados en procesos productivos, actividades comerciales o de servicios, que no reúnen las características para ser considerados como peligrosos, así como residuos sólidos urbanos, salvo cuando estos últimos, sean producidos por grandes generadores;
 
-IX. Riesgo. Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud humana, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los sujetos obligados del impuesto establecido en esta Sección;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-X. Tóxico. La propiedad de una sustancia o mezcla de sustancias que pueden provocar efectos adversos en la salud o en los ecosistemas; y
+V. Sitio de disposición final: Lugar donde se depositan los residuos sólidos urbanos y de manejo especial en forma definitiva, situados en el estado.
 
-XI. Valorización. Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
+VI. (DEROGADA, P.O. 31 DE MAYO DE 2023)
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+VII. (DEROGADA, P.O. 31 DE MAYO DE 2023)
+
+VIII. (DEROGADA, P.O. 31 DE MAYO DE 2023)
+
+IX. (DEROGADA, P.O. 31 DE MAYO DE 2023)
+
+X. (DEROGADA, P.O. 31 DE MAYO DE 2023)
+
+XI.(DEROGADA, P.O. 31 DE MAYO DE 2023)
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 Sujetos obligados
 
 ###### Artículo 78-S.
 
-Son sujetos de este impuesto las personas físicas y morales, así como las unidades económicas sean o no residentes en el Estado, generadoras del residuo y que por sí mismas o a través de intermediarios, depositen o almacenen residuos en vertederos públicos o privados, que, al originar su liberación en el ambiente, sean un constituyente tóxico o peligroso que suscita efectos de riesgo en la salud humana, a los ecosistemas o al equilibrio ecológico.
+Son sujetos de este impuesto los grandes generadores, que cuenten o no con domicilio fiscal en el estado, que generen residuos de manejo especial y que por sí mismas o a través de un tercero, depositen en sitios de disposición final.
 
-También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, estatal y municipal, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los municipios; los organismos descentralizados federales, estatales y municipales; las empresas de participación estatal mayoritaria de carácter federal y estatal; las empresas de participación municipal mayoritaria, las comisiones, patronatos, comités, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, estatal y municipal, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 Base del impuesto
 
 ###### Artículo 78-T.
 
-Es base gravable para este impuesto la cantidad en tonelada de residuos depositados o almacenados en vertederos públicos o privados, situados en el Estado que sean generados durante un mes de calendario o fracción del mismo.
+Es base gravable para este impuesto la cantidad en toneladas de residuos de manejo especial que se depositen en sitios de disposición final en el estado, con independencia del lugar en el que se generaron, tomando en consideración el Manifiesto de entrega, transporte y recepción de residuos de manejo especial.
 
-No constituirá base del impuesto, la proporción del residuo depositado o almacenado, destinado a la reutilización, reciclado, co-procesamiento o valorización, con excepción de lo siguiente:
+Cuando los sujetos obligados cuenten con más de un establecimiento en el estado, deberán acumular las toneladas de residuos de manejo especial que cada uno de éstos depositen en sitios de disposición final para la determinación de la base.
 
-I. Cuando el residuo permanezca un año o más, depositado o almacenado, sin llevar a cabo el proceso de reutilización, de reciclado, de co-procesamiento o de valorización.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-II. Cuando el residuo sea peligroso y permanezca seis meses o más, depositado o almacenado, sin llevar a cabo el proceso de reutilización, de reciclado, de co-procesamiento o de valorización.
-
-No existirá base del impuesto, cuando el residuo depositado o almacenado tenga las características técnicas de disposición final, con base en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en la Ley General para la Prevención y Gestión Integral de los Residuos, en la Ley para la Gestión Integral de Residuos del Estado y los Municipios de Guanajuato o alguna de las Normas Oficiales Mexicanas establecidas en el Artículo 78-Q de esta Ley.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-Causación y cuota del impuesto
+Causación del impuesto
 
 ###### Artículo 78-U.
 
-Este impuesto se causará aplicando una cuota de 100 pesos por tonelada de residuos depositados o almacenados en vertederos públicos o privados, de acuerdo con lo señalado en el artículo 78-Q de esta Ley.
+Este impuesto se causará al momento de que se depositen los residuos de manejo especial en sitios de disposición final ubicados en el estado, con independencia del lugar de su generación.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 Determinación y pago del impuesto
 
 ###### Artículo 78-V.
 
-El impuesto se pagará mediante declaraciones mensuales, a más tardar el día veintidós del mes siguiente a su vencimiento, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general.
+El impuesto se calculará y pagará de manera mensual mediante declaraciones provisionales a cuenta del impuesto del ejercicio, a más tardar el día veintidós del mes siguiente al que corresponda el pago, mediante las formas y medios que para el efecto dé a conocer el SATEG, a través de disposiciones de carácter general.
+
+La determinación se realizará aplicando a la base señalada en el artículo 78-T la cuota de 100 pesos
+
+El pago provisional se determinará considerando las toneladas depositadas en sitios de disposición final correspondientes al mes que se declara, de conformidad con los manifiestos de entrega, transporte y recepción de residuos de manejo especial, con independencia de que se depositen en uno o más sitios de disposición final.
+
+Para efectos de calcular y pagar el impuesto del ejercicio, los contribuyentes presentarán declaración anual en el mes de abril del año siguiente al que corresponda la declaración, debiendo acumular la totalidad de toneladas de los residuos depositados en sitios de disposición final durante el ejercicio, de conformidad con el informe anual, y se determinará aplicando la cuota de 100 pesos.
+
+Los contribuyentes podrán acreditar contra el impuesto del ejercicio los pagos provisionales mensuales efectuados.
 
 Lo anterior se establece, sin perjuicio de las multas, responsabilidades o sanciones que establezcan las disposiciones jurídicas aplicables en materia de equilibrio ecológico y protección al ambiente, u otras responsabilidades penales, civiles o administrativas y demás disposiciones que resulten aplicables.
 
-Con el objetivo de corroborar la información de las declaraciones en la determinación de la base, las autoridades fiscales podrán considerar los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las Normas Oficiales Mexicanas en materia de ecología y medio ambiente.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-Estimación presuntiva
+Con el objetivo de corroborar la información de las declaraciones en la determinación de la base, las autoridades fiscales podrán considerar los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a la normativa en materia ambiental y ecológica.
 
 ###### Artículo 78-W.
 
-Las autoridades fiscales podrán estimar presuntivamente la causación y el pago de este impuesto, salvo prueba en contrario, a partir de:
-
-I. Los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las normas en materia de ecología y medio ambiente que los contribuyentes se encuentren obligados a presentar ante la Secretaría de Medio Ambiente y Recursos Naturales, la Secretaría de Medio Ambiente y Ordenamiento Territorial, así como todos aquellos entes públicos estatales o municipales competentes en la materia, correspondiente al último ejercicio fiscal que se hubieran presentado; y
-
-II. Cuando no sea posible determinar la base gravable en los términos de la fracción anterior, las autoridades fiscales podrán estimar la cantidad de los residuos depositados o almacenados y las cantidades de los mismos, conforme a la información que se obtenga de otras autoridades, terceros, estudios científicos o tecnológicos, considerando el tipo de actividades realizadas por el contribuyente y la producción o venta del periodo en el que se causó la contribución.
+(DEROGADO, P.O. 31 DE MAYO DE 2023)
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -2031,15 +1999,17 @@ I. Inscribirse en el Registro Estatal de Contribuyentes, dentro de los diez día
 
 El aviso a que se refiere esta fracción deberá ser presentado por cada local, establecimiento, agencia o sucursal que se ubique dentro del territorio del Estado;
 
-II. Llevar un inventario de residuos depositados o almacenados, en el que se identifique la cantidad en toneladas y el lugar de depósito o almacenamiento, fecha de depósito o almacenamiento, así como el señalamiento de si fue depositado o almacenado en un vertedero público o privado y su ubicación;
+II. (DEROGADA, P.O. 31 DE MAYO DE 2023)
 
-III. Llevar un registro específico de los residuos destinados a un proceso de reutilización, de reciclado, de co-procesamiento o de valorización, desde el día que inició el depósito o almacenaje, las fechas que se destinaron a esos procesos y los residuos que tuviesen el retorno para depósito o almacenaje, el cual estará a disposición de la Secretaría de Medio Ambiente y Ordenamiento Territorial y el SATEG, de conformidad con sus atribuciones;
+III. (DEROGADA, P.O. 31 DE MAYO DE 2023)
 
-IV. Llevar un inventario de los residuos de disposición final;
+IV. (DEROGADA, P.O. 31 DE MAYO DE 2023)
 
-V. Presentar declaraciones;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-VI. Presentar un informe anual del inventario establecido en la fracción II de este artículo, con base en los lineamientos que para ello expida y publique el SATEG mediante reglas de carácter general; y
+V. Presentar declaraciones mensuales y anual;
+
+VI. (DEROGADA, P.O. 31 DE MAYO DE 2023)
 
 VII. Poner a disposición de las autoridades, para los efectos del ejercicio de sus facultades de fiscalización, la información, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto.
 
@@ -2047,9 +2017,73 @@ VII. Poner a disposición de las autoridades, para los efectos del ejercicio de 
 
 ###### Artículo 78-Y.
 
-Para efectos de lo establecido en las Secciones II, III y IV de este Capítulo, cuando exista una disminución de los contaminantes objeto de los impuestos y esta sea equivalente a un 20 por ciento o más entre un año fiscal y otro, se efectuará una reducción en un 20 por ciento del impuesto que le corresponda pagar en el ejercicio inmediato siguiente en el que se observe la disminución.
+Para efectos de lo establecido en la Sección III de este Capítulo, cuando exista una disminución de los contaminantes objeto de los impuestos y esta sea equivalente a un 20 por ciento o más entre un año fiscal y otro, se efectuará una reducción en un 20 por ciento del impuesto que le corresponda pagar en el ejercicio inmediato siguiente en el que se observe la disminución.
 
-Para la procedencia del estímulo, los contribuyentes deberán acreditar ante el SATEG las reducciones efectivas a través de la documentación y registros que jurídicamente sean procedentes, mediante reglas generales que el SATEG determine.
+El SATEG emitirá las bases para acceder al esquema de reducción establecido en el párrafo que antecede, a través de reglas de carácter general
+
+Para efectos de lo establecido en la Sección II de este Capítulo, los contribuyentes podrán ser sujetos de alguno de los estímulos siguientes, según corresponda:
+
+I. Los sujetos obligados del impuesto contenido en la Sección II del presente Capítulo, no pagarán el impuesto por las primeras 50 toneladas de emisiones de bióxido de carbono equivalente generadas en un ejercicio.
+
+Cuando se superen las 50 toneladas previamente aludidas, el impuesto se pagará por cada tonelada excedente.
+
+II. Los sujetos obligados del impuesto contenido en la Sección II del presente Capítulo podrán acceder a un máximo de 25 por ciento de reducción de la base del impuesto.
+
+Para acceder al esquema de reducción establecido en la presente fracción, el SATEG emitirá disposiciones de carácter general.
+
+III. Los contribuyentes participantes del Sistema de Comercio de Emisiones podrán optar por pagar el impuesto contenido en la Sección II del presente Capítulo, en términos de lo siguiente:
+
+a) En los términos que establece el artículo 78-G y las fracciones I y II de este artículo; o
+
+b) Realizando pagos provisionales mensuales del mes a declarar considerando el total de toneladas emitidas de bióxido de carbono equivalente que se obtengan a través de metodologías establecidas por la autoridad competente para el llenado de la Cédula de Operación Anual estatal o federal según corresponda del mes que se declara, y al resultado se le aplicará la cuota de acuerdo con la siguiente tabla:
+
+Límite inferior Límite superior Impuesto a pagar
+
+Ton bióxido de Ton bióxido de
+
+carbono equivalente carbono equivalente
+
+8,333 20 833 $83,333
+
+20,834 83,333 $208,333
+
+83 334 166,667 $833,333
+
+166,668 416,667 $1,666,667
+
+416 668 en adelante $4,166,667
+
+Cuando los contribuyentes participantes del Sistema de Comercio de Emisiones generen menos de 8,333 toneladas de bióxido de carbono equivalente del mes que se declara, pagarán el impuesto conforme al primer rango de la tabla que antecede.
+
+Los contribuyentes presentarán declaración anual en agosto del año siguiente al que corresponda la declaración, manifestando el número total de emisiones de bióxido de carbono equivalente que correspondan a las emisiones de gases de efecto invernadero reportadas en la Cédula de Operación Anual del ámbito estatal o federal del año que se declara, y se pagará de acuerdo con la siguiente tabla:
+
+Límite inferior Límite superior Impuesto a pagar
+
+Ton bióxido de Ton bióxido de carbono
+
+Carbono equivalente
+
+equivalente
+
+100,000 250,000 $1,000,000
+
+250,001 1,000,000 $2,500,000
+
+1,000,001 2,000,000 $10,000,000
+
+2,000,001 5,000,000 $20,000,000
+
+5,000,001 En adelante $50,000,000
+
+Cuando los contribuyentes participantes del Sistema de Comercio de Emisiones generen menos de 100,000 toneladas de bióxido de carbono equivalente en un ejercicio fiscal, pagarán el impuesto conforme al primer rango de la tabla que antecede.
+
+En caso de que se opte por pagar el impuesto en términos del esquema establecido en el inciso b de la presente fracción, no podrán aplicar los estímulos de las fracciones I y II de este artículo.
+
+Cuando se haya optado por algún esquema de pago de los descritos en el párrafo primero de esta fracción, permanecerán en el mismo por todo el ejercicio fiscal, con la posibilidad de cambiar de esquema en el ejercicio fiscal siguiente, de conformidad con las disposiciones de carácter general que al efecto emita el SATEG.
+
+Los sujetos obligados del impuesto establecido en la Sección IV de este Capítulo, podrán acceder a un máximo de reducción de la base del impuesto del 25 por ciento.
+
+Para acceder al esquema de reducción establecido en el párrafo que antecede, el SATEG emitirá disposiciones de carácter general.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -2746,3 +2780,137 @@ P.O. 30 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 178, MEDIANTE EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 204, MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Estímulo en la determinación mensual del impuesto por el depósito de residuos
+
+Artículo Segundo. Para efectos de la cuota establecida en el artículo 78-V, párrafo segundo de la presente Ley se otorga un estímulo consistente en la reducción de la misma, conforme a la siguiente tabla:
+
+Ejercicio fiscal Cuota por
+
+Tonelada
+
+2023 30 pesos
+
+2024 50 pesos
+
+2025 70 pesos
+
+2026 90 pesos
+
+Estímulo en la determinación anual del Impuesto por el depósito de residuos
+
+Artículo Tercero. Para efectos de la cuota establecida en el artículo 78-V, párrafo cuarto de la presente Ley se otorga un estímulo consistente en la reducción de la misma, conforme a la siguiente tabla:
+
+Ejercicio fiscal Cuota por tonelada
+
+2023 30 pesos
+
+2024 50 pesos
+
+2025 70 pesos
+
+2026 90 pesos
+
+Estímulo en la determinación del impuesto por la emisión de gases contaminantes
+
+Artículo Cuarto. A los sujetos obligados del impuesto contenido en el Título Segundo, Capítulo Octavo, Sección II que utilicen en sus operaciones o procesos productivos la combustión de gas natural, se otorga un estímulo consistente en la reducción de sus emisiones de bióxido de carbono equivalente para la determinación de la base gravable, conforme a la siguiente tabla:
+
+Ejercicio fiscal Porcentaje a reducir
+
+de las emisiones de
+
+bióxido de carbono
+
+equivalente generadas
+
+por gas natural
+
+2023 90
+
+2024 80
+
+2025 80
+
+2026 80
+
+2027 80
+
+2028 75
+
+2029 75
+
+2030 75
+
+Al resultado que se obtenga de dicha reducción se adicionará a las emisiones generadas de bióxido de carbono equivalente por combustibles distintos al gas natural para conformar la base del impuesto, a las cuales se aplicará la cuota establecida en el artículo 78-F de esta Ley.
+
+Reducción de la base del impuesto por la emisión de gases contaminantes
+
+Artículo Quinto. Para efectos del estímulo a que hace referencia el artículo 78-Y, fracción II será progresivamente, conforme a la siguiente tabla:
+
+Ejercicio fiscal Porcentaje máximo de
+
+reducción de la base
+
+del impuesto
+
+2023 0
+
+2024 20
+
+2025 20
+
+2026 20
+
+2027 20
+
+Reducción de la base del impuesto por el depósito de residuos Artículo Sexto. Para efectos de la reducción a que hace referencia el artículo 78- Y, penúltimo párrafo, será progresivamente, conforme a la siguiente tabla:
+
+Ejercicio fiscal Porcentaje máximo de
+
+reducción de la base
+
+del impuesto
+
+2023 0
+
+2024 20
+
+2025 20
+
+2026 20
+
+2027 20
+
+Contribuyentes participantes del Sistema de Comercio de Emisiones Artículo Séptimo. Los participantes del Sistema de Comercio de Emisiones, que opten por pagar el impuesto correspondiente al ejercicio fiscal de 2023 bajo el esquema de la tabla establecida en el artículo 78-Y, fracción III de esta Ley, deberán aplicar para la declaración anual del impuesto la siguiente tabla:
+
+Límite inferior Ton Límite superior Impuesto a
+
+bióxido de Ton bióxido de pagar
+
+carbono carbono
+
+equivalente equivalente
+
+58,333 145,833 $583,333
+
+145,834 583,333 $1,458,333
+
+583,334 1,166,667 $5,833,333
+
+1,166,668 2,916,667 $11,666,667
+
+2,916,668 en adelante $29,166,667
+
+Cuando los contribuyentes participantes del Sistema de Comercio de Emisiones generen menos de 58,333 toneladas de bióxido de carbono equivalente en el ejercicio fiscal de 2023, pagarán el impuesto conforme al primer rango de la tabla que antecede.
+
+Inicio de vigencia de las obligaciones del impuesto por la emisión de contaminantes al suelo, subsuelo y agua
+
+Artículo Octavo. Las obligaciones establecidas en la Sección III, Capítulo Octavo, Título Segundo, relativas al Impuesto para Remediación Ambiental por la Emisión de Contaminantes al Suelo, Subsuelo y Agua se originarán a partir del 1 de abril de 2027.
