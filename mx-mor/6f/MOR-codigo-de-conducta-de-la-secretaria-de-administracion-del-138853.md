@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-administracion-del-13885
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-31"
-last_updated: "2023-04-26"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE ADMINISTRACION DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2023 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MAYO DE 2023.]</small>
 
 Código publicado en el Número 5731 del Periódico Oficial del Estado de Morelos, el miércoles 31 de julio de 2019.
 
@@ -517,23 +517,27 @@ Para la vigilancia del Código de Ética de la Administración Pública Estatal 
 
 ### CAPÍTULO IX. DE LAS DISPOSICIONES FINALES
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
-
 ###### Artículo 23.
 
-Sin perjuicio del acatamiento del presente código de conducta, en el desarrollo de sus funciones, el personal deberá cumplir con lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, el Reglamento Interior de la Secretaría de Administración y demás normativa aplicable.
+(DEROGADO, P.O. 26 DE ABRIL DE 2023) (F. DE E., P.O. 31 DE MAYO DE 2023)
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
+(REFORMADO, P.O. 26 DE ABRIL DE 2023) (F. DE E., P.O. 31 DE MAYO DE 2023)
 
 ###### Artículo 24.
 
-El presente código de conducta no sustituye en forma alguna el cabal cumplimiento de la normativa en materia de responsabilidades administrativas.
+Sin perjuicio del acatamiento del presente Código de Conducta, en el desarrollo de sus funciones, el personal deberá cumplir con lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, el Reglamento Interior de la Secretaría de Administración y demás normativa aplicable.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
+(REFORMADO, P.O. 26 DE ABRIL DE 2023) (F. DE E., P.O. 31 DE MAYO DE 2023)
 
 ###### Artículo 25.
 
-El secretario, por conducto de las Unidades Administrativas, promoverá entre el personal la importancia del cumplimiento del código de conducta.
+El presente Código de Conducta no sustituye en forma alguna el cabal cumplimiento de la normativa en materia de responsabilidades administrativas.
+
+(REFORMADO, P.O. 26 DE ABRIL DE 2023) (F. DE E., P.O. 31 DE MAYO DE 2023)
+
+###### Artículo 26.
+
+El secretario, por conducto de las Unidades Administrativas, promoverá entre el personal la importancia del cumplimiento del Código de Conducta.
 
 DISPOSICIONES TRANSITORIAS
 
