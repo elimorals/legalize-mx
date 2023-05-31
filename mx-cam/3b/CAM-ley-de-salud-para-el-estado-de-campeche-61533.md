@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2023-03-15"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -1241,7 +1241,11 @@ III. Realizar los programas y actividades que las demás autoridades competentes
 
 IV. Promover, de acuerdo con las demás autoridades competentes, la colaboración de las instituciones de los sectores público, social y privado del Estado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refieren las fracciones II y III de este artículo.
 
-### Capítulo III. Enfermedades No Transmisibles
+### Capítulo II Bis. De la Vacunación
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Artículo 142 bis.- Toda persona residente en el territorio estatal tiene derecho a recibir de manera universal y gratuita, en cualquiera de las dependencias y entidades de la administración pública estatal del Sistema Estatal de Salud, las vacunas contenidas en el Programa de Vacunación Universal, independientemente del régimen de seguridad social o protección social al que pertenezca, de conformidad con lo establecido en el Capítulo II Bis, del Título Octavo de la Ley General de Salud.
 
 ###### Artículo 127.
 
@@ -1361,11 +1365,11 @@ La Secretaría Estatal determinará las formas de disponer de los productos, sub
 
 Se prohíbe la introducción o el transporte por el territorio del Estado de animales que padezcan una enfermedad transmisible al ser humano, de cadáveres de aquéllos, así como el comercio con sus productos. Así mismo, se prohíbe la introducción o el transporte de animales que provengan de áreas que consideren infectadas la Secretaría Estatal, por conducto de su Comisión para la Protección Contra Riesgos Sanitarios; la Secretaría Federal, por conducto de su Comisión Federal para la Protección Contra Riesgos Sanitarios y la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE MAYO DE 2023)</small>
+
+### Capítulo III. Enfermedades No Transmisibles
+
 ### Capítulo IV. Accidentes
-
-### Capítulo Único
-
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 143.
 
@@ -1389,7 +1393,9 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la Secretaría Estatal les requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### Capítulo I. Programa Contra el Alcoholismo
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 146.
 
@@ -1419,7 +1425,7 @@ VI. La promoción de la participación de la comunidad en la prevención de acci
 
 ## Título Décimo. Asistencia Social, Prevención y Rehabilitación de Personas con Discapacidad
 
-### Capítulo II. Programa Contra el Tabaquismo
+### Capítulo I. Programa Contra el Alcoholismo
 
 ###### Artículo 149.
 
@@ -1545,9 +1551,7 @@ La Secretaría Estatal, en coordinación con otras dependencias y entidades, pro
 
 ## Título Undécimo. Programas Permanentes de Salud
 
-### Capítulo III. Programa Contra la Farmacodependencia
-
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+### Capítulo II. Programa Contra el Tabaquismo
 
 ###### Artículo 163.
 
@@ -1577,7 +1581,7 @@ IV. Efectos del abuso en el consumo de bebidas alcohólicas, en los ámbitos fam
 
 La Secretaría Estatal vigilará el cumplimiento de las determinaciones normativas relativas a bebidas alcohólicas contenidas en la Ley General. Lo relativo a expendios de bebidas alcohólicas se sujetará a lo dispuesto en dicha Ley General, en esta Ley, en la Ley para el Funcionamiento, Expedición y Revalidación de Licencias y Permisos a Distribuidores y Comercializadores de Bebidas Alcohólicas del Estado de Campeche y en las demás disposiciones legales y reglamentarias aplicables.
 
-### Capítulo IV. Del Consejo Estatal Contra las Adicciones
+### Capítulo III. Programa Contra la Farmacodependencia
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
@@ -1595,7 +1599,9 @@ Para poner en práctica las acciones contra el tabaquismo se seguirán los linea
 
 (DEROGADO, P.O. 23 DE JULIO DE 2010)
 
-### Capítulo V. Programa de Farmacovigilancia
+### Capítulo IV. Del Consejo Estatal Contra las Adicciones
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 169.
 
@@ -1679,13 +1685,13 @@ Artículo 171 bis.- Cuando el centro o institución de salud reciba reporte de n
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2010)</small>
 
-### Capítulo VI. Programa Contra el Síndrome de Inmunodeficiencia Adquirida
+### Capítulo V. Programa de Farmacovigilancia
 
 ###### Artículo 172.
 
 El Consejo Estatal Contra las Adicciones es el órgano de consulta y asesoramiento del Ejecutivo Estatal en asuntos relacionados con el problema de adicciones, con el fin de promover y apoyar las acciones de los sectores público, social y privado que tiendan a prevenir y combatir los problemas de salud pública ocasionados por las adicciones, hacer propuestas y evaluaciones de los programas que se lleven a cabo en el Estado en los rubros de alcoholismo, tabaquismo y farmacodependencia. La integración, atribuciones y funcionamiento del Consejo se regirán por lo dispuesto en el Acuerdo de creación de dicho organismo y en las demás disposiciones jurídicas aplicables.
 
-### Capítulo Único
+### Capítulo VI. Programa Contra el Síndrome de Inmunodeficiencia Adquirida
 
 ###### Artículo 173.
 
@@ -1803,7 +1809,7 @@ Título Decimotercero
 
 Publicidad
 
-### Capítulo I. Disposiciones Generales
+### Capítulo Único
 
 ###### Artículo 180.
 
@@ -1813,7 +1819,7 @@ Título Decimocuarto
 
 Del Consejo Estatal de Trasplantes
 
-### Capítulo II. Agua Potable y Alcantarillado
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 181.
 
@@ -1849,7 +1855,7 @@ Título Decimoquinto
 
 Salubridad Local
 
-### Capítulo III. Venta de Alimentos en la Vía Pública
+### Capítulo II. Agua Potable y Alcantarillado
 
 ###### Artículo 186.
 
@@ -1909,7 +1915,7 @@ Todas las medidas sanitarias que deben guardarse en relación con mercados y cen
 
 La COPRISCAM, en coordinación con las autoridades que corresponda, realizará los operativos de saneamiento en los sitios o localidades que así lo ameriten.
 
-### Capítulo Único
+### Capítulo III. Venta de Alimentos en la Vía Pública
 
 ###### Artículo 189.
 
@@ -2003,7 +2009,7 @@ Título Decimosexto
 
 Certificados
 
-### Capítulo I. Medidas de Seguridad Sanitaria
+### Capítulo Único
 
 ###### Artículo 208.
 
@@ -2037,47 +2043,7 @@ Título Decimoséptimo
 
 Vigilancia Sanitaria
 
-### Capítulo I bis. De los Centros de Rehabilitación de Adicciones
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-Artículo 238 bis.- Que los sectores social y privado podrán prestar los servicios de tratamiento y rehabilitación de adictos, para lo cual deberán tramitar la autorización y el registro de funcionamiento de los centros ante la Secretaría de Salud, cumpliendo con la normatividad que al efecto emita.
-
-Los Centros de Rehabilitación de Adicciones, públicos y privados, deberán contar con personal profesional para la atención de las adicciones, reuniendo la capacidad necesaria para prestar los servicios de rehabilitación. La Secretaría expedirá la reglamentación que determine las características profesionales o técnicas que el personal de los centros debe reunir para cumplir con sus funciones.
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-Artículo 238 ter. Para operar un Centro de Rehabilitación de Adicciones en el Estado, independientemente de lo que prescriban la Ley General de Salud y la Norma Oficial Mexicana para la prevención, tratamiento y control de las adicciones deberán de cumplir con los siguientes requisitos:
-
-I. Contar con autorización de funcionamiento de la Secretaría;
-
-II. Coadyuvar con el personal de la Secretaría para verificar el cumplimiento de las disposiciones relativas contenidas en la presente Ley;
-
-III. Contar con un Coordinador y un Secretario Técnico acreditados ante la Secretaría;
-
-IV. Emitir los lineamientos y disposiciones del proceso de tratamiento y rehabilitación, mismos que serán registrados ante la Secretaría y ponerlos a disposición de los pacientes, sus familiares o representantes legales;
-
-V. Garantizar el respeto de la dignidad y de los derechos humanos fundamentales de los pacientes quedando prohibida cualquier forma de maltrato, mutilación, presión, abuso, engaño o robo que lesione la integridad física y patrimonial de los adictos.
-
-VI. Realizar las acciones necesarias para que la Secretaría practique visitas o inspecciones con el fin de verificar el cumplimiento de las disposiciones relativas contenidas en esta Ley o en los reglamentos respectivos;
-
-VII. Sujetarse, en su caso, a las visitas e inspecciones que la Secretaría realice para revisar el uso de los recursos públicos, subsidios o subvenciones que puedan ser entregados al Centro de Rehabilitación de Adicciones.
-
-Con respecto al ingreso de personas para otorgarles tratamiento o rehabilitación, el Secretario Técnico deberá:
-
-I. Efectuar una entrevista al solicitante a fin de determinar el grado de afección física y su personalidad;
-
-II. Efectuar una entrevista con los miembros de la familia para determinar las limitaciones del entorno que afecten al paciente y a la familia misma;
-
-III. Emitir un informe en el que se señalará la orientación terapéutica a seguir, el tratamiento necesario de acuerdo a las posibilidades de rehabilitación, así como seguimiento y revisión del mismo.
-
-IV. Para efectos de lograr la rehabilitación y reintegración del paciente, el tratamiento se basará en un enfoque multidisciplinario que consiste en una evaluación inicial que incluya exámenes de laboratorio y gabinete, terapias personales y grupales, terapias intrafamiliares; control del síndrome de abstinencia y del período de postramiento, ayuda para mantenerse sin droga o alcohol, atención de enfermedades físicas y mentales y cualquier otro tratamiento señalado por la Secretaría;
-
-V. La internación en los Centros de Rehabilitación de Adicciones deberá ser voluntaria sin mediar el miedo, dolo o engaño. El coordinador garantizará que el paciente manifieste su voluntad libre para llevar a cabo los procesos de rehabilitación.
-
-Los Centros de Rehabilitación de Adicciones de los sectores privado o social que vienen operando en el Estado, en tanto no cuenten con el personal profesional para la asistencia médica, el tratamiento psicológico y social, podrán seguir funcionando, pero deberán promover la participación de profesionistas mediante la prestación del servicio social o prácticas profesionales, previa celebración del convenio respectivo con las instituciones de educación superior.
-
-Los programas de tratamiento para la rehabilitación de los adictos, no deben contemplar acciones que atenten contra la dignidad y salud.
+### Capítulo I. Medidas de Seguridad Sanitaria
 
 ###### Artículo 213.
 
@@ -2185,9 +2151,47 @@ Titulo Decimoctavo
 
 Medidas de Seguridad Sanitaria. De los Centros de Rehabilitación de Adicciones. Sanciones y Delitos
 
-### Capítulo II. Sanciones Administrativas
+### Capítulo I bis. De los Centros de Rehabilitación de Adicciones
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Artículo 238 bis.- Que los sectores social y privado podrán prestar los servicios de tratamiento y rehabilitación de adictos, para lo cual deberán tramitar la autorización y el registro de funcionamiento de los centros ante la Secretaría de Salud, cumpliendo con la normatividad que al efecto emita.
+
+Los Centros de Rehabilitación de Adicciones, públicos y privados, deberán contar con personal profesional para la atención de las adicciones, reuniendo la capacidad necesaria para prestar los servicios de rehabilitación. La Secretaría expedirá la reglamentación que determine las características profesionales o técnicas que el personal de los centros debe reunir para cumplir con sus funciones.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Artículo 238 ter. Para operar un Centro de Rehabilitación de Adicciones en el Estado, independientemente de lo que prescriban la Ley General de Salud y la Norma Oficial Mexicana para la prevención, tratamiento y control de las adicciones deberán de cumplir con los siguientes requisitos:
+
+I. Contar con autorización de funcionamiento de la Secretaría;
+
+II. Coadyuvar con el personal de la Secretaría para verificar el cumplimiento de las disposiciones relativas contenidas en la presente Ley;
+
+III. Contar con un Coordinador y un Secretario Técnico acreditados ante la Secretaría;
+
+IV. Emitir los lineamientos y disposiciones del proceso de tratamiento y rehabilitación, mismos que serán registrados ante la Secretaría y ponerlos a disposición de los pacientes, sus familiares o representantes legales;
+
+V. Garantizar el respeto de la dignidad y de los derechos humanos fundamentales de los pacientes quedando prohibida cualquier forma de maltrato, mutilación, presión, abuso, engaño o robo que lesione la integridad física y patrimonial de los adictos.
+
+VI. Realizar las acciones necesarias para que la Secretaría practique visitas o inspecciones con el fin de verificar el cumplimiento de las disposiciones relativas contenidas en esta Ley o en los reglamentos respectivos;
+
+VII. Sujetarse, en su caso, a las visitas e inspecciones que la Secretaría realice para revisar el uso de los recursos públicos, subsidios o subvenciones que puedan ser entregados al Centro de Rehabilitación de Adicciones.
+
+Con respecto al ingreso de personas para otorgarles tratamiento o rehabilitación, el Secretario Técnico deberá:
+
+I. Efectuar una entrevista al solicitante a fin de determinar el grado de afección física y su personalidad;
+
+II. Efectuar una entrevista con los miembros de la familia para determinar las limitaciones del entorno que afecten al paciente y a la familia misma;
+
+III. Emitir un informe en el que se señalará la orientación terapéutica a seguir, el tratamiento necesario de acuerdo a las posibilidades de rehabilitación, así como seguimiento y revisión del mismo.
+
+IV. Para efectos de lograr la rehabilitación y reintegración del paciente, el tratamiento se basará en un enfoque multidisciplinario que consiste en una evaluación inicial que incluya exámenes de laboratorio y gabinete, terapias personales y grupales, terapias intrafamiliares; control del síndrome de abstinencia y del período de postramiento, ayuda para mantenerse sin droga o alcohol, atención de enfermedades físicas y mentales y cualquier otro tratamiento señalado por la Secretaría;
+
+V. La internación en los Centros de Rehabilitación de Adicciones deberá ser voluntaria sin mediar el miedo, dolo o engaño. El coordinador garantizará que el paciente manifieste su voluntad libre para llevar a cabo los procesos de rehabilitación.
+
+Los Centros de Rehabilitación de Adicciones de los sectores privado o social que vienen operando en el Estado, en tanto no cuenten con el personal profesional para la asistencia médica, el tratamiento psicológico y social, podrán seguir funcionando, pero deberán promover la participación de profesionistas mediante la prestación del servicio social o prácticas profesionales, previa celebración del convenio respectivo con las instituciones de educación superior.
+
+Los programas de tratamiento para la rehabilitación de los adictos, no deben contemplar acciones que atenten contra la dignidad y salud.
 
 ###### Artículo 226.
 
@@ -2291,11 +2295,11 @@ La desocupación o desalojo de casas, edificios, establecimientos y, en general,
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-### Capítulo III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
-
-### Capítulo IV. Del Procedimiento Administrativo
+### Capítulo II. Sanciones Administrativas
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+### Capítulo III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### Artículo 239.
 
@@ -2397,7 +2401,9 @@ II. A la persona que en rebeldía se niegue a cumplir los requerimientos y dispo
 
 Solo procederá esta sanción, si previamente se dictó cualquiera otra de las sanciones a que se refiere este Capítulo. Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### Capítulo V. Prescripción
+### Capítulo IV. Del Procedimiento Administrativo
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 251.
 
@@ -2473,11 +2479,13 @@ En los casos de suspensión de trabajos o de servicios, o de clausura temporal o
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria formulará la denuncia correspondiente ante el Ministerio Público que corresponda, sin perjuicio de la aplicación de la sanción administrativa correspondiente.
 
-### Capítulo VI. Delitos
+### Capítulo V. Prescripción
 
 ###### Artículo 261.
 
 El procedimiento administrativo ante la Secretaría Estatal y sus órganos desconcentrados se substanciará y resolverá con arreglo a los términos y condiciones que señala la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche. A falta de disposición expresa y en cuanto no se oponga a lo que prescribe esta Ley, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado.
+
+### Capítulo VI. Delitos
 
 ###### Artículo 262.
 
@@ -2698,3 +2706,15 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Para el debido cumplimiento del presente decreto, se estará a lo dispuesto en los artículos 54, 55 y 56 de la Ley de Salud para el Estado de Campeche, a fin de que las acciones de información y orientación a que se refiere este decreto se realicen preferentemente con el personal del que dispongan los ayuntamientos y sus autoridades auxiliares, con conocimiento de la lengua y la cultura indígena de que se trate.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 233 POR EL QUE “SE ADICIONA EL CAPÍTULO II BIS DENOMINADO “DE LA VACUNACIÓN” CON UN ARTÍCULO 142 BIS AL TÍTULO NOVENO DENOMINADO “PREVENCIÓN Y CONTROL DE ENFERMEDADES TRANSMISIBLES, NO TRANSMISIBLES Y ACCIDENTES” DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1° de enero de 2024, previa su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las dependencias y entidades de la administración pública estatal del Sistema Estatal de Salud deberán tomar las previsiones presupuestales para el debido cumplimiento de lo dispuesto en este decreto.
+
+Artículo Tercero.- Las acciones de salud que deriven del presente decreto se realizarán de manera gradual, de conformidad con la disponibilidad de recursos humanos, administrativos y financieros con que cuenten las dependencias y entidades responsables de su cumplimiento.
+
+Artículo Cuarto.- Se derogan las disposiciones legales y reglamentarias del marco normativo local en lo que se opongan al presente decreto.
