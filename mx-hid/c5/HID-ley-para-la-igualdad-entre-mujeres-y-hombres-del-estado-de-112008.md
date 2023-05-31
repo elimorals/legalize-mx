@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2023-04-13"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -65,9 +65,11 @@ Se CREA la Ley para la Igualdad entre Mujeres y Hombres del Estado de Hidalgo, p
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de la presente ley son de orden público e interés social y de observancia general en todo el territorio del Estado de Hidalgo y tiene por objeto regular y garantizar la igualdad de oportunidades y de trato entre mujeres y hombres, proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo, con respeto entre las personas y sus culturas.
+Las disposiciones de la presente ley son de orden público e interés social y de observancia general en todo el territorio del Estado de Hidalgo y tiene por objeto regular y garantizar la igualdad de oportunidades, de trato, y el ejercicio pleno de los derechos entre mujeres y hombres, proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres, así como incidir en el combate a la desigualdad y al rezago social, considerando las necesidades diferenciadas de los géneros, transitando hacia una sociedad equitativa e incluyente.
 
 ###### Artículo 2.
 
@@ -938,5 +940,11 @@ P.O. 31 DE MARZO DE 2023.
 P.O. 13 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 502 QUE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 16 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 508 QUE REFORMA EL ARTÍCULO 1 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
