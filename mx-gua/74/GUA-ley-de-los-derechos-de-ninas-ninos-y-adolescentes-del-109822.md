@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109822"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-11"
-last_updated: "2022-04-05"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JUNIO DE 2023 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de septiembre de 2015.
 
@@ -95,55 +97,129 @@ II. Acogimiento residencial: el brindado por centros de asistencia social como u
 
 III. Adolescentes: las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad;
 
-IV. Ajustes razonables: las modificaciones que se requieran realizar para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las (sic) demás, de todos los derechos humanos y libertades fundamentales;
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2022)</small>
+IV. Adopción: la medida de protección especial para restituir el derecho a vivir en familia de niñas, niños y adolescentes, mediante su incorporación de manera definitiva a una familia adoptiva;
 
-IV-1. Castigo corporal o físico: todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física y que tenga por objeto causar cierto grado de dolor o malestar, aunque sea leve. Incluye golpes con la mano o con algún objeto, zarandear, arañar, bofetadas, puntapiés, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a ponerse en posturas incómodas, producirles quemaduras, obligarles a ingerir alimentos hirviendo u otros productos, como lavarles la boca con jabón u obligarles a tragar alimentos picantes;
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN IV], P.O. 31 DE MAYO DE 2023)</small>
 
-V. Centro de asistencia social: el establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
+V. Ajustes razonables: las modificaciones que se requieran realizar para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con los demás, de todos los derechos humanos y libertades fundamentales;
 
-VI. Corresponsabilidad: deber a cargo de la familia, sociedad y Estado, por medio del cual comparten la responsabilidad en la atención, protección y desarrollo de niñas, niños y adolescentes;
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN IV-1], P.O. 31 DE MAYO DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2022)</small>
+VI. Castigo corporal o físico: todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física y que tenga por objeto causar cierto grado de dolor o malestar, aunque sea leve. Incluye golpes con la mano o con algún objeto, zarandear, arañar, bofetadas, puntapiés, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a ponerse en posturas incómodas, producirles quemaduras, obligarles a ingerir alimentos hirviendo u otros productos, como lavarles la boca con jabón u obligarles a tragar alimentos picantes;
 
-VI-1. Crianza positiva: comportamiento de madres, padres y tutores, con base en el interés superior de la niñez, donde se promueve la atención, el desarrollo de capacidades, el ejercicio de la no violencia, ofreciendo el reconocimiento y orientación necesaria sin dejar de contemplar el establecimiento de los límites relativos a la disciplina, los cuales permitan el pleno desarrollo de niñas, niños y adolescentes. Incluye conocimientos de disciplina positiva, la resolución no violenta de conflictos y la crianza con apego; y el desarrollo del niño en la primera infancia;
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN V], P.O. 31 DE MAYO DE 2023)
 
-VII. Diseño universal: el diseño de productos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad;
+VII. Centro de asistencia social: el establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
 
-VIII. Discriminación Múltiple: la situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
 
-IX. Informe de adoptabilidad: el documento expedido por el Sistema Estatal para el Desarrollo Integral de la Familia DIF que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+VIII. Certificado de idoneidad: el documento expedido por la Procuraduría de Protección, previa valoración técnica, en el cual se certifica que una o más personas son idóneas para adoptar o brindar acogimiento familiar a niñas, niños y adolescentes;
 
-X. Ley General: la Ley General de los Derechos de Niñas, Niños y Adolescentes;
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VI], P.O. 31 DE MAYO DE 2023)
 
-XI. Niña o niño: la persona menor de doce años de edad, desde su concepción;
+IX. Corresponsabilidad: deber a cargo de la familia, sociedad y Estado, por medio del cual comparten la responsabilidad en la atención, protección y desarrollo de niñas, niños y adolescentes;
 
-XII. Procuraduría de Protección: la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VI-1], P.O. 31 DE MAYO DE 2023)
 
-XIII. Programa Estatal: el Programa de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+X. Crianza positiva: comportamiento de madres, padres y tutores, con base en el interés superior de la niñez, donde se promueve la atención, el desarrollo de capacidades, el ejercicio de la no violencia, ofreciendo el reconocimiento y orientación necesaria sin dejar de contemplar el establecimiento de los límites relativos a la disciplina, los cuales permitan el pleno desarrollo de niñas, niños y adolescentes. Incluye conocimientos de disciplina positiva, la resolución no violenta de conflictos y la crianza con apego; y el desarrollo del niño en la primera infancia;
 
-XIV. Programa Municipal: el Programa de Protección de Niñas, Niños y Adolescentes de cada municipio;
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VII], P.O. 31 DE MAYO DE 2023)
 
-XV. Protección Integral: conjunto de mecanismos que ejecuten las autoridades estatales y de los municipios con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política para el Estado de Guanajuato y los tratados internacionales de los que el Estado mexicano forma parte, el pleno ejercicio de los derechos de niñas, niños y adolescentes;
+XI. Diseño universal: el diseño de productos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad;
 
-XVI. Representación coadyuvante: el acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VIII], P.O. 31 DE MAYO DE 2023)
 
-XVII. Representación en suplencia: la representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XII. Discriminación Múltiple: la situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
-XVIII. Representación originaria: la representación de niñas, niños y adolescentes a cargo de quienes ejercen la patria potestad o tutela, de conformidad por lo dispuesto en esta Ley, y demás disposiciones aplicables;
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
 
-XIX. Sistema: el Sistema Estatal para el Desarrollo Integral de la Familia;
+XIII. Familia de acogida: aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-XX. Sistema Estatal de Protección: el Sistema de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
 
-XXI. Sistemas Municipales: los Sistemas Municipales para el Desarrollo Integral de la Familia; y
+XIV. Familia de acogimiento pre-adoptivo: aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-XXII. Sistema Municipal de Protección: el Sistema Municipal de Protección de Niñas, Niños y Adolescentes.
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN IX], P.O. 31 DE MAYO DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2022)</small>
+XV. Informe de adoptabilidad: el documento expedido por la Procuraduría de Protección y las Procuradurías Auxiliares que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
 
-XXIII. Trato humillante o degradante: castigo ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación, cometido en contra de niñas, niños y adolescentes.
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN X], P.O. 31 DE MAYO DE 2023)
+
+XVI. Ley General: la Ley General de los Derechos de Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XVII. Medidas de protección especial: las acciones establecidas en un plan de restitución de derechos, ejecutadas por autoridades estatales y municipales para la restitución de los derechos de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XVIII. Medidas urgentes de protección especial: las acciones determinadas por el Ministerio Público o la Procuraduría de Protección, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, las cuales deberán ser ratificadas, modificadas o canceladas por la autoridad jurisdiccional competente;
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XI], P.O. 31 DE MAYO DE 2023)
+
+XIX. Niña o niño: la persona menor de doce años de edad, desde su concepción;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XX. Plan de restitución de derechos: el documento que contiene las medidas de protección especial para restituir los derechos de una niña, niño o adolescente, así como las autoridades y particulares encargados de ejecutarlas;
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XII], P.O. 31 DE MAYO DE 2023)
+
+XXI. Procuraduría de Protección: la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XIII], P.O. 31 DE MAYO DE 2023)
+
+XXII. Programa Estatal: el Programa de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XIV], P.O. 31 DE MAYO DE 2023)
+
+XXIII. Programa Municipal: el Programa de Protección de Niñas, Niños y Adolescentes de cada municipio;
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XV], P.O. 31 DE MAYO DE 2023)
+
+XXIV. Protección Integral: conjunto de mecanismos que ejecuten las autoridades estatales y de los municipios con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política para el Estado de Guanajuato y los tratados internacionales de los que el Estado mexicano forma parte, el pleno ejercicio de los derechos de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XXV. Red familiar: la familia de origen, extensa o ampliada, de las niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XXVI. Reglamento: el Reglamento de esta Ley;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVI], P.O. 31 DE MAYO DE 2023)</small>
+
+XXVII. Representación coadyuvante: el acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos que, de manera oficiosa, quedará a cargo de la Procuraduría de Protección o Procuradurías Auxiliares, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVII], P.O. 31 DE MAYO DE 2023)</small>
+
+XXVIII. Representación en suplencia: la representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección o Procuradurías Auxiliares, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVIII], P.O. 31 DE MAYO DE 2023)
+
+XXIX. Representación originaria: la representación de niñas, niños y adolescentes a cargo de quienes ejercen la patria potestad o tutela, de conformidad por lo dispuesto en esta Ley, y demás disposiciones aplicables;
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XIX], P.O. 31 DE MAYO DE 2023)
+
+XXX. Sistema: el Sistema Estatal para el Desarrollo Integral de la Familia;
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XX], P.O. 31 DE MAYO DE 2023)
+
+XXXI. Sistema Estatal de Protección: el Sistema de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXI], P.O. 31 DE MAYO DE 2023)</small>
+
+XXXII. Sistemas Municipales: los Sistemas Municipales para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXII], P.O. 31 DE MAYO DE 2023)</small>
+
+XXXIII. Sistema Municipal de Protección: el Sistema Municipal de Protección de Niñas, Niños y Adolescentes; y
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXIII], P.O. 31 DE MAYO DE 2023)
+
+XXXIV. Trato humillante o degradante: castigo ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación, cometido en contra de niñas, niños y adolescentes.
 
 Principios rectores
 
@@ -295,6 +371,10 @@ a) Los ayuntamientos; y
 
 b) Los organismos municipales encargados de la ejecución de los programas y acciones a favor de niñas, niños y adolescentes.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+c) Las Procuradurías Auxiliares.
+
 III. Los organismos autónomos.
 
 Atribuciones del Gobernador
@@ -441,9 +521,13 @@ V. Acordar la suscripción de acuerdos o convenios de coordinación con el Estad
 
 VI. Promover la libre manifestación de las ideas de niñas, niños y adolescentes en asuntos concernientes a su municipio;
 
-VII. Coadyuvar en la integración del Sistema de Información a nivel nacional de niñas, niños y adolescentes; y
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
 
-VIII. Las demás que les otorgue esta Ley, u otros ordenamientos aplicables.
+VII. Establecer una Procuraduría Auxiliar;
+
+VIII. Coadyuvar en la integración del Sistema de Información a nivel nacional de niñas, niños y adolescentes; y
+
+IX. Las demás que les otorgue esta Ley, u otros ordenamientos aplicables.
 
 Atribuciones de los Sistemas Municipales
 
@@ -495,7 +579,9 @@ b) Seguimiento a las actividades académicas y entorno social y cultural; y
 
 c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia;
 
-II. Establecer contacto y trabajar conjuntamente con las autoridades administrativas y judiciales correspondientes para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+II. Establecer medidas de protección especial para restituir los derechos de niñas, niños y adolescentes, de conformidad con lo establecido en la Ley General, esta Ley, su Reglamento y demás legislación aplicable;
 
 III. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, en los casos en donde falte la representación originaria o así lo determine el órgano jurisdiccional o autoridad administrativa competente, sin perjuicio de las atribuciones que le correspondan al Ministerio Público; así como intervenir oficiosamente con representación coadyuvante en todos los procedimientos jurisdiccionales o administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
 
@@ -515,21 +601,31 @@ VIII. Promover la participación de los sectores público, social y privado en l
 
 IX. Asesorar a las autoridades competentes para la aplicación de la presente Ley y a los sectores público, social y privado sobre el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes;
 
-X. Desarrollar los lineamientos y procedimientos para la restitución de los derechos de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-XI. Coadyuvar con el Sistema en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento preadoptivo, así como para emitir los certificados de idoneidad;
+X. Desarrollar los lineamientos y procedimientos para la restitución de los derechos de niñas, niños y adolescentes; y aprobar los planes de restitución de derechos elaborados por las Procuradurías Auxiliares;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XI. Establecer los lineamientos y los procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para la adopción o acogimiento familiar, así como substanciar el procedimiento respectivo;
 
 XII. Proporcionar y actualizar la información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social;
 
-XIII. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XIII. Coordinar y dar seguimiento a la ejecución de las medidas de protección especial;
 
 XIV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
 
 XV. Recibir las solicitudes de adopción de las niñas, niños y adolescentes que se encuentren bajo su tutela;
 
-XVI. Realizar las valoraciones psicológica, económica, de trabajo social y todas aquéllas que sean necesarias para determinar la idoneidad de quienes soliciten la adopción, en los términos de lo dispuesto en las leyes aplicables;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-XVII. Emitir o negar la emisión de certificados de idoneidad, así como formular recomendaciones para posibilitar la adopción, por parte de las personas solicitantes;
+XVI. Realizar las valoraciones psicológica, económica, de trabajo social y todas aquéllas que sean necesarias para determinar la emisión del certificado de idoneidad, en términos de lo dispuesto en las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XVII. Emitir, negar o, en su caso, revocar certificados de idoneidad;
 
 XVIII. Solicitar, para el cumplimento de sus atribuciones, el auxilio de autoridades estatales y municipales, las que estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables;
 
@@ -537,11 +633,33 @@ XIX. Promover ante el órgano jurisdiccional o administrativo competente las acc
 
 XX. Ejercer la tutela de niñas, niños y adolescentes en los términos de las disposiciones legales aplicables;
 
-XXI. Capacitar, asesorar, fortalecer y supervisar a las autoridades de primer contacto con niñas, niños y adolescentes, en los términos de los programas y convenios de colaboración correspondientes;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XXI. Capacitar, asesorar, fortalecer y supervisar a las Procuradurías Auxiliares;
 
 XXII. Colaborar y auxiliar a las autoridades laborales competentes en la vigilancia y aplicación de la legislación laboral aplicable a niñas, niños y adolescentes; y
 
-XXIII. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MAYO DE 2023)</small>
+
+XXIII. Atraer para su atención directa aquellos casos atendidos por las Procuradurías Auxiliares que considere pertinente.
+
+La Procuraduría de Protección solicitará por escrito a las Procuradurías Auxiliares, la remisión del caso y la entrega del expediente respectivo en un plazo no mayor de veinticuatro horas, implementando las acciones necesarias para evitar que los derechos de niñas, niños y adolescentes sean vulnerados o restringidos durante dicho periodo;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XXIV. Recibir denuncias por violaciones a los derechos de niñas, niños y adolescentes contenidos en la Ley General, esta Ley, su Reglamento y demás normativa aplicable, así como canalizarlas, en su caso, a las autoridades que correspondan;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XXV. Asignar a niñas, niños y adolescentes que estén bajo su tutela una familia de acogida o pre-adoptiva que previamente haya obtenido el certificado de idoneidad correspondiente;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XXVI. Revocar la asignación de niñas, niños y adolescentes bajo su tutela, en los supuestos de vulneración a sus derechos, o de haberse dictaminado que no se consolidaron las condiciones de adaptación entre estos y la familia de acogida o familia de acogimiento pre-adoptiva; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXIII], P.O. 31 DE MAYO DE 2023)
+
+XXVII. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -559,21 +677,17 @@ III. Contar con título profesional de Licenciatura en Derecho o su equivalente,
 
 IV. Contar con al menos cinco años de experiencia en materia de procuración o impartición de justicia, asistencia social o defensa de niñas, niños y adolescentes;
 
-(NOTA: EL 27 DE SEPTIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI, VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 96/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+V. (DEROGADA, P.O. 31 DE MAYO DE 2023)
 
-V. NO HABER SIDO SENTENCIADO POR DELITO DOLOSO NI ESTAR SUJETO A PROCESO PENAL POR DELITO DOLOSO; y
+VI. (DEROGADA, P.O. 31 DE MAYO DE 2023)
 
-(NOTA: EL 27 DE SEPTIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI, VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 96/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-VI. No estar suspendido NI HABER SIDO DESTITUIDO O INHABILITADO POR RESOLUCIÓN FIRME COMO SERVIDOR PÚBLICO NI ESTAR SUJETO A PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA, en los términos de las normas aplicables.
-
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 Designación del titular de la Procuraduría de Protección
 
 ###### Artículo 27
 
-3. El titular de la Procuraduría de Protección será designado y removido libremente por el Gobernador del Estado.
+3. El titular de la Procuraduría de Protección durará en su encargo seis años y será designado por el Gobernador del Estado.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -583,7 +697,9 @@ Integración del Consejo Directivo de la Procuraduría de Protección
 
 4. El Consejo Directivo de la Procuraduría de Protección estará integrado por:
 
-I. El titular de la Secretaría de Desarrollo Social y Humano, quien asumirá la presidencia;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+I. El titular de la Secretaría de Gobierno, quien asumirá la presidencia;
 
 II. El titular de la Secretaría de Educación;
 
@@ -600,6 +716,18 @@ VII. El titular del Instituto Estatal de Capacitación;
 VIII. El titular de la Secretaría Ejecutiva del Sistema Estatal de Protección; y
 
 IX. El titular del Sistema.
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+X. El titular de la Secretaría de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XI. El titular de la Secretaría de Desarrollo Social y Humano; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XII. El titular de la Procuraduría de Protección.
 
 Los titulares de la Fiscalía General del Estado de Guanajuato, de la Procuraduría de los Derechos Humanos del Estado de Guanajuato, y de la Secretaría de la Transparencia y Rendición de Cuentas serán invitados permanentes a las sesiones del Consejo Directivo.
 
@@ -805,7 +933,9 @@ investigación por la afectación de derechos
 
 La Procuraduría de Protección en conjunto con el cuerpo especializado de seguridad creará los mecanismos de investigación, necesarios y eficaces, para identificar oportunamente y prevenir conductas tipificadas como delito.
 
-## Título Segundo. Derechos y deberes de Niñas, Niños y Adolescentes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2023)</small>
+
+## Título Segundo. Derechos de Niñas, Niños y Adolescentes
 
 ### Capítulo I. Derechos de Niñas, Niños y Adolescentes
 
@@ -937,11 +1067,29 @@ En los casos en que niñas, niños y adolescentes cumplan con los requisitos par
 
 Derecho a vivir en familia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 35.
 
-Niñas, niños y adolescentes tienen derecho a vivir en familia, y el padre y la madre tienen la responsabilidad y el cuidado de éstos en un ambiente de afecto y de seguridad. La falta de recursos no imputable al deudor alimentario, no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
+Niñas, niños y adolescentes tienen derecho a vivir en familia en los términos de la Ley General.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 31 DE MAYO DE 2023)</small>
+
+Son medidas de protección especial para restituir el derecho a vivir en familia de niñas, niños y adolescentes, de manera enunciativa más no limitativa, las siguientes:
+
+I. La reintegración familiar;
+
+II. La adopción;
+
+III. El acogimiento familiar; y
+
+IV. El acogimiento residencial.
 
 Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad, tutela, guarda o custodia, salvo que medie orden de autoridad, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del interés superior de la niñez, de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos en que así lo disponga la Ley, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+El establecimiento de las medidas de protección especial previstas en el presente artículo atenderá a las circunstancias del caso concreto, de conformidad con los principios establecidos en esta Ley.
 
 Extrema pobreza o necesidad
 
@@ -949,11 +1097,13 @@ Extrema pobreza o necesidad
 
 Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 Políticas de fortalecimiento familiar
 
 ###### Artículo 37.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela, guarda o custodia.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas y programas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de su entorno familiar y para que, en su caso, sean atendidos a través de las medidas de protección especial.
 
 Derecho de convivencia en caso de familias separadas
 
@@ -963,15 +1113,23 @@ Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho 
 
 Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar éste derecho y establecer las condiciones para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
+
 Localización y reunificación de la familia
 
 ###### Artículo 39.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos para la localización y reunificación de la familia de niñas, niños y adolescentes, siempre y cuando no sea contrario a su interés superior.
 
 Durante la localización de la familia, niñas, niños y adolescentes tienen derecho a acceder a las modalidades de cuidados alternativos de carácter temporal, en tanto se incorporan a su familia.
 
-Para efectos del párrafo anterior, el Sistema Estatal de Protección deberá otorgar acogimiento correspondiente de conformidad con lo previsto en el Título Cuarto, Capítulo Único de ésta Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Para efectos del párrafo anterior, la Procuraduría de Protección garantizará que se brinde el acogimiento correspondiente de conformidad con lo previsto en el Título Cuarto, Capítulo Único de esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+La Procuraduría de Protección o Procuradurías Auxiliares cuando hayan realizado la localización y determinado la reunificación de una niña, niño o adolescente deberán darle seguimiento para verificar que esta se haya consolidado por un periodo no menor a seis meses, ni mayor a dos años computados a partir del día siguiente en que surta efectos la notificación a la red familiar de la determinación correspondiente. Dicho plazo podrá prorrogarse cuando así lo estimen pertinente, atendiendo a las circunstancias del caso concreto.
 
 Coordinación entre autoridades por traslado o retención ilegal de niñas, niños y adolescentes
 
@@ -986,6 +1144,36 @@ Otorgamiento de medidas especiales de protección
 ###### Artículo 41.
 
 El Sistema Estatal de Protección deberá otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Adopción
+
+###### Artículo 41
+
+1. Las niñas, niños y adolescentes expósitos o abandonados acogidos en centros de asistencia social serán considerados susceptibles de adopción en términos de lo establecido en la Ley General.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Comunicación e intercambio de información
+
+###### Artículo 41
+
+2. El Sistema, la Procuraduría de Protección y las Procuradurías Auxiliares deben mantener estrecha comunicación entre sí, intercambiando información, a efecto de garantizar adecuadamente el interés superior de la niñez y el desarrollo evolutivo de formación de su personalidad, así como materializar su derecho a vivir en familia.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Registro de información en materia de adopciones y acogimiento familiar
+
+###### Artículo 41
+
+3. La Procuraduría de Protección debe mantener permanentemente actualizado el registro de información en materia de adopciones y acogimiento familiar, que incluya niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción y aquellos que cuenten con certificado de idoneidad, adopciones concluidas desagregadas en nacionales e internacionales, así como niñas, niños y adolescentes adoptados, informando de cada actualización a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes.
+
+La Procuraduría de Protección además deberá incluir la siguiente información:
+
+I. Las familias de acogida y de las niñas, niños y adolescentes acogidos por estas; de las niñas, niños y adolescentes susceptibles de acogimiento familiar, las personas interesadas en brindar el acogimiento y las personas certificadas para hacerlo; y
+
+II. Las niñas, niños y adolescentes residentes en centros de asistencia social que permita identificar a las personas residentes en ellos, la causa de su ingreso y su situación jurídica, diferenciando, por lo menos, entre los niños, niñas y adolescentes con posibilidades de reintegración familiar; candidatos de acogimiento familiar o adopción; los que se encuentran bajo una medida de protección, y aquéllos que ingresen a centros de asistencia social.
 
 ### Capítulo VI. Derecho a la Igualdad
 
@@ -1277,11 +1465,13 @@ Medidas de protección integral
 
 Toda medida que se adopte será susceptible de revisión por órgano judicial en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un abogado especializado.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 Deber de notificación
 
 ###### Artículo 75.
 
-Siempre que se encuentre alguna niña, niño y adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan sobre el la patria potestad, tutela, guarda o custodia, así como a la Procuraduría de Protección.
+Siempre que se encuentre alguna niña, niño y adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan su patria potestad, tutela, guarda o custodia, excepto en los casos en que esto resulte contrario a su interés superior, así como a la Procuraduría de Protección o Procuraduría Auxiliar competente.
 
 ### Capítulo XX. Niñas, niños y adolescentes Migrantes
 
@@ -1327,21 +1517,17 @@ Devolución al país de origen
 
 La decisión sobre la devolución de niñas, niños y adolescentes al país de origen o a un tercer país seguro, tomada por la autoridad competente, sólo podrá basarse en los requerimientos de su interés superior del menor.
 
-Comunicación entre autoridades y medidas de protección integral
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+Comunicación entre autoridades y medidas de protección integral
 
 ###### Artículo 82.
 
-En caso de que la Procuraduría de Protección, el Sistema y los Sistemas Municipales identifiquen, mediante una evaluación inicial, a niñas, niños y adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración a fin de adoptar medidas de protección integral.
+En caso de que la Procuraduría de Protección o las Procuradurías Auxiliares identifiquen, en la evaluación inicial, a niñas, niños y adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración a fin de adoptar medidas de protección especial.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2021)</small>
+La Procuraduría de Protección y las Procuradurías Auxiliares, en coordinación con el Instituto Nacional de Migración y el Sistema Nacional para el Desarrollo Integral de la Familia, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiados o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado mediante la adopción de medidas de protección integral.
 
-La Procuraduría de Protección y el Sistema, en coordinación con el Instituto Nacional de Migración y el Sistema Nacional para el Desarrollo Integral de la Familia, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiados o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado mediante la adopción de medidas de protección integral.
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
-
-La Procuraduría de Protección y el Sistema coadyuvarán con el Sistema Nacional DIF, con la información que posean en el momento en que se genere a fin de que se incorpore en las bases de datos de las niñas, niños y adolescentes migrantes no acompañados.
+La Procuraduría de Protección y las Procuradurías Auxiliares coadyuvarán con el Sistema Nacional DIF, con la información que posean en el momento en que se genere a fin de que se incorpore en las bases de datos de las niñas, niños y adolescentes migrantes no acompañados.
 
 Situación migratoria irregular
 
@@ -1349,17 +1535,15 @@ Situación migratoria irregular
 
 En ningún caso una situación migratoria irregular de niñas, niños y adolescentes, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-Atribución del Sistema
+Atribución de las procuradurías
 
 ###### Artículo 83
 
-1. El Sistema coadyuvará con las personas defensoras de derechos humanos, la Comisión Nacional de los Derechos Humanos y la Procuraduría de los Derechos Humanos del Estado de Guanajuato, para garantizar la protección integral de los derechos de niñas, niños y adolescentes migrantes.
+1. La Procuraduría de Protección y las Procuradurías Auxiliares coadyuvarán con las personas defensoras de derechos humanos, la Comisión Nacional de los Derechos Humanos y la Procuraduría de los Derechos Humanos del Estado de Guanajuato, para garantizar la protección integral de los derechos de niñas, niños y adolescentes migrantes.
 
 ### Capítulo XXI. Deberes de Niñas, Niños y Adolescentes
-
-Deberes de niñas, niños y adolescentes
 
 ### Capítulo Único. Obligaciones de quienes ejercen la patria potestad, tutela, guarda o custodia de Niñas, Niños y Adolescentes
 
@@ -1373,25 +1557,7 @@ Centros de Asistencia Social
 
 ###### Artículo 84.
 
-Las niñas, niños y adolescentes de manera enunciativa y no limitativa tienen los siguientes deberes, siempre y cuando la realización de los mismos no pongan en riesgo su vida, integridad y seguridad:
-
-I. Deber de respeto a sus padres o tutores, así como a quienes ejercen sobre ellos la guarda o custodia, quienes están obligados a velar por el bienestar, cuidado, seguridad y protección de aquellos;
-
-II. Deber de respeto a los docentes dentro del proceso educativo;
-
-III. Deber de respeto a las autoridades del estado, las leyes que rigen a la sociedad, y las normas disciplinarias que en materia escolar se establezcan para su correcta formación y educación;
-
-IV. Deber de ser honestos y responsables en el hogar, en la escuela y en aquellos otros espacios en los que convivan con otras personas;
-
-V. Deber de respeto a los derechos de los demás;
-
-VI. Deber de cumplir con sus responsabilidades familiares y las que en materia de educación les correspondan;
-
-VII. Deber de autocuidado a fin de que se abstenga de realizar conductas que atenten contra su desarrollo, salud e integridad personal; y
-
-VIII. Deber de cuidado al medio ambiente.
-
-La familia, la sociedad y el estado deberán realizar las acciones que permitan el correcto ejercicio de estos deberes, en el fomento a los valores familiares y cívicos que contribuyan al desarrollo integral y social, atendiendo al interés superior de la niñez.
+(DEROGADO, P.O. 31 DE MAYO DE 2023)
 
 ## Título Tercero. Obligaciones
 
@@ -1693,13 +1859,9 @@ III. Contar con título de licenciatura, así como con la correspondiente cédul
 
 IV. Contar con al menos cinco años de experiencia en el diseño, implementación y evaluación de políticas públicas, así como en difusión, promoción o defensa de los derechos humanos de niñas, niños y adolescentes;
 
-(NOTA: EL 27 DE SEPTIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI, VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 96/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+V. (DEROGADA, P.O. 31 DE MAYO DE 2023)
 
-V. NO HABER SIDO SENTENCIADO POR DELITO DOLOSO, NI ESTAR SUJETO A PROCESO PENAL POR DELITO DOLOSO; Y
-
-(NOTA: EL 27 DE SEPTIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI, VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 96/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-VI. No estar suspendido NI HABER SIDO DESTITUIDO O INHABILITADO POR RESOLUCIÓN FIRME COMO SERVIDOR PÚBLICO NI ESTAR SUJETO A PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA, en los términos de las normas aplicables.
+VI. (DEROGADA, P.O. 31 DE MAYO DE 2023)
 
 ### Capítulo V. Programas Estatal y Municipales de Protección
 
@@ -1765,15 +1927,61 @@ Los Sistemas Municipales de Protección serán presididos por los presidentes mu
 
 El Sistema Municipal de Protección contará además con una Secretaría Ejecutiva, cuyo titular será nombrado y removido libremente por el Presidente Municipal, y quien deberá contar con experiencia en materia de asistencia social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
+
 Programa de atención
 
 ###### Artículo 98.
 
-Los ayuntamientos deberán contar con un programa de atención y con un área o servidores públicos que fungirán como autoridad de primer contacto con niñas, niños y adolescentes y que serán el enlace con las instancias estatales y federales competentes.
+Los ayuntamientos deberán contar con un programa de atención que, acorde a los principios y fines de esta Ley, garantice la salvaguarda y protección efectiva de los derechos de niñas, niños y adolescentes.
 
 El programa de atención deberá estar acorde a los principios y fines de esta Ley, y garantizará la salvaguarda y protección efectiva de los derechos de niñas, niños y adolescentes.
 
-La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección de forma inmediata.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Procuradurías Auxiliares
+
+###### Artículo 98
+
+1. Los municipios deberán contar con una Procuraduría Auxiliar que funja como autoridad de primer contacto con niñas, niños y adolescentes; tendrá a su cargo su protección y restitución cuando estas y estos se encuentren dentro del territorio del municipio de la respectiva Procuraduría Auxiliar en términos de esta Ley y demás disposiciones aplicables; y será el enlace de coordinación y seguimiento con las instancias estatales y federales competentes en la materia.
+
+Su adscripción orgánica y naturaleza jurídica será determinada por el Ayuntamiento, pero dependerá normativamente de la Procuraduría de Protección, por lo que, en cada una de sus actuaciones deberá sujetarse a los lineamientos, directrices, protocolos, acuerdos y demás instrumentos jurídicos que esta emita. Para el ejercicio de sus atribuciones contará con equipos multidisciplinarios, integrados al menos por personas profesionales en derecho, psicología y en trabajo social.
+
+El titular de la Procuraduría Auxiliar será designado por el Ayuntamiento y deberá reunir los requisitos establecidos en el artículo 27-2 de esta Ley. Durará en su encargo tres años y podrá ser ratificado por una sola vez por un periodo adicional de tres años.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Atribuciones de las Procuradurías Auxiliares
+
+###### Artículo 98
+
+2. Las Procuradurías Auxiliares cuentan con las atribuciones siguientes:
+
+I. Auxiliar a la Procuraduría de Protección en el ejercicio de sus atribuciones;
+
+II. Recibir, atender y dar seguimiento a denuncias por vulneración o restricción de los derechos contenidos en la Ley General, esta Ley, su Reglamento y demás normativa aplicable;
+
+III. Elaborar los diagnósticos sobre la situación de los derechos de las niñas, niños y adolescentes que atiendan;
+
+IV. Elaborar y solicitar la aprobación de la Procuraduría de Protección de los planes de restitución de derechos, así como ejecutar y dar seguimiento a dichos planes una vez aprobados;
+
+V. Solicitar al Ministerio Público la imposición de medidas urgentes de protección especial, informando a la Procuraduría de Protección en un plazo no mayor de veinticuatro horas;
+
+VI. Rendir de manera mensual en los formatos establecidos por la Procuraduría de Protección los informes que le sean solicitados sobre la atención y seguimiento a los expedientes de niñas, niños y adolescentes a su cargo;
+
+VII. Prestar asesoría y ejercer la representación en suplencia o coadyuvancia de niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
+
+VIII. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
+
+IX. Ejercer la tutela de niñas, niños y adolescentes, en términos de la legislación aplicable;
+
+X. Otorgar medidas de protección especial;
+
+XI. Determinar la reintegración de niñas, niños y adolescentes; y
+
+XII. Las demás que se desprendan de la Ley General, esta Ley, su Reglamento u otros ordenamientos aplicables.
 
 ###### Artículo 99.
 
@@ -2034,3 +2242,39 @@ P.O. 5 DE ABRIL DE 2022.
 Inicio de vigencia
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 202, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO; Y SE REFORMAN Y ADICIONAN VARIOS DISPOSITIVOS DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Plazos para ajustar reglamentos y decretos
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Plazo para expedir lineamientos
+
+Artículo Tercero. La Procuraduría de Protección deberá expedir los lineamientos previstos en el presente Decreto en un plazo de noventa días contados a partir de que ésta inicie su vigencia.
+
+Registros y sistemas de información
+
+Artículo Cuarto. La Procuraduría de Protección deberá integrar el sistema de información y registro en los términos del presente Decreto en un plazo de noventa días contados a partir de que este inicie su vigencia.
+
+Designación del titular de la Procuraduría de Protección
+
+Artículo Quinto. El Gobernador del Estado deberá designar al titular de la Procuraduría de Protección en un plazo de ciento ochenta días, pudiendo en su caso, ratificar a quien se encuentre ocupando el cargo a la entrada en vigor del presente Decreto.
+
+Procuradurías Auxiliares
+
+Artículo Sexto. Los municipios deberán realizar los ajustes necesarios, incluyendo la adecuación de sus estructuras orgánicas, a fin de garantizar el funcionamiento de una Procuraduría Auxiliar que tenga como único objeto la protección y restitución de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Nombramiento de las personas titulares de las Procuradurías Auxiliares
+
+Artículo Séptimo. El nombramiento de las personas titulares de las Procuradurías Auxiliares deberá realizarse en el plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto. Por única ocasión, las personas designadas conforme a este artículo transitorio durarán en su cargo tres años, pudiendo ser ratificadas por tres años más, en términos del artículo 98-1 de la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Procesos de entrega recepción
+
+Artículo Octavo. Con la finalidad de dar cumplimiento a las obligaciones generadas con motivo de la entrada en vigor del presente Decreto, las autoridades estatal y municipales, deberán integrar, de manera progresiva en su presupuesto los recursos necesarios.
