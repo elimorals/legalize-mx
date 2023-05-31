@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2023-03-29"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -941,45 +941,21 @@ Los agricultores del estado de Morelos, realizarán prácticas agroecológicas c
 
 Artículo 66 QUINTUS.- Los apicultores promoverán con el apoyo de la Secretaría y el Consejo Estatal, la organización formal y el desarrollo organizacional, que les permitan hacer frente a su problemática en común.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE OCTUBRE DE 2021)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DEL PROCESO DE POLINIZACIÓN PARA EL ESTADO DE MORELOS, P.O. 31 DE MAYO DE 2023)</small>
 
 ### CAPÍTULO III TER. LA PROTECCIÓN DE LAS ABEJAS
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+Artículo 66 SEXIES.- (DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DEL PROCESO DE POLINIZACIÓN PARA EL ESTADO DE MORELOS, P.O. 31 DE MAYO DE 2023)
 
-Artículo 66 SEXIES.- La protección y conservación de las abejas, debe ser prioritaria en el estado de Morelos, por los beneficios que otorgan a la conservación de la biodiversidad y los servicios ambientales a través de la polinización tanto en plantas de la vegetación natural como la cultivada.
+Artículo 66 SEPTIES.- (DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DEL PROCESO DE POLINIZACIÓN PARA EL ESTADO DE MORELOS, P.O. 31 DE MAYO DE 2023)
 
-La secretaría se coordinará con autoridades federales, estatales y municipales para la prevención y el control de actividades de las personas que dañen a las abejas y a la apicultura, sujetándose a las normas, lineamientos y procedimientos que se establezcan a nivel federal.
+Artículo 66 OCTIES.- (DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DEL PROCESO DE POLINIZACIÓN PARA EL ESTADO DE MORELOS, P.O. 31 DE MAYO DE 2023)
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+Artículo 66 NONIES.- (DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DEL PROCESO DE POLINIZACIÓN PARA EL ESTADO DE MORELOS, P.O. 31 DE MAYO DE 2023)
 
-Artículo 66 SEPTIES.- La Secretaría de Desarrollo Agropecuario, deberá firmar con asociaciones apícolas o instituciones educativas convenios de colaboración para elaborar un plan de capacitación para las áreas municipales de protección civil y las de ecología y protección al medio ambiente, con la finalidad de instruirlos para el cuidado, preservación y retiro de enjambres de abejas, así como la importancia de salvaguardarlas. Además de realizar campañas de concientización ciudadana acerca del cuidado y preservación de las abejas.
+Artículo 66 DECIES.- (DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DEL PROCESO DE POLINIZACIÓN PARA EL ESTADO DE MORELOS, P.O. 31 DE MAYO DE 2023)
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
-
-Artículo 66 OCTIES.- Las Secretarias de Desarrollo Agropecuario, de Medio Ambiente y Recursos Naturales y las autoridades municipales, en el ámbito de su competencia, promoverán campañas de concientización ciudadana acerca del cuidado y preservación de las abejas, en las que se fomenten conductas de respeto por parte del ser humano hacia ellas.
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
-
-Artículo 66 NONIES.- La Secretaría de Desarrollo Agropecuario en coordinación con las Comisiones Legislativas de Desarrollo Agropecuario y Medio Ambiente, Recursos Naturales y Agua, así como las autoridades municipales, para conmemorar el día mundial de las abejas, que se celebra el 20 de mayo, se implementará en el estado el 20 de mayo de cada año como el “DÍA ESTATAL DE LAS ABEJAS” y para ello se organizara un concurso estatal, así como programas de actividades sociales y culturales, con la amplia participación de la ciudadanía.
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
-
-Artículo 66 DECIES.- Para la conservación y protección de las abejas, los ayuntamientos, deberán:
-
-a) Atender las denuncias sobre riesgos relacionados con la presencia de abejas;
-
-b) Fomentar la participación de asociaciones civiles protectoras del medio ambiente, en la instrumentación de acciones de protección y preservación de las abejas;
-
-c) Contemplar en sus ordenamientos municipales, las acciones para la protección, cuidado y conservación de las abejas;
-
-d) Celebrar convenios con el estado para capacitar a los cuerpos de protección civil y bomberos en el manejo y protección de enjambres.
-
-En la atención de denuncias por riesgo de colmenas, las autoridades municipales en la medida de lo posible, deberá de preservar la integridad del enjambre y llevarlo a su habitad o entregarlo a los apicultores.
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2021)</small>
-
-Artículo 66 UNDECIES.- La captura y destrucción de los enjambres se realizará exclusivamente por personal autorizado por las autoridades correspondientes, ajustando su labor en todo momento a las normas oficiales que para tal efecto se establezcan.
+Artículo 66 UNDECIES.- (DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DEL PROCESO DE POLINIZACIÓN PARA EL ESTADO DE MORELOS, P.O. 31 DE MAYO DE 2023)
 
 ### CAPÍTULO IV. DE LA CULTURA Y PRODUCCIÓN TRADICIONAL EN EL DESARROLLO RURAL
 
@@ -1746,3 +1722,21 @@ PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal p
 SEGUNDA.- El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
 
 TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DEL PROCESO DE POLINIZACIÓN PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase la presente ley al titular del Poder Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. La Secretaría contara con 90 días hábiles posteriores a la entrada en vigor de la ley para realizar el reglamento.
+
+CUARTA. Dentro de los 90 días naturales siguientes a la entrada en vigor del reglamento, los apicultores deberán inscribirse en el padrón estatal previsto en el artículo 15 de la ley, en la Secretaría de Desarrollo Agropecuario del Gobierno del Estado.
+
+QUINTA. Las especificaciones técnicas contenidas en el artículo 18 de la presente ley, no serán aplicables para los apicultores que cuenten con una marca previamente registrada ante la autoridad municipal; con anterioridad a la entrada en vigor de la presente ley.
+
+SEXTA. Para efectos del permiso de instalación establecido en los artículos 9, fracción IV, 17, fracción IV y 21 de esta ley; no se dará efecto retroactivo a ninguna disposición en perjuicio de los apicultores que cuenten con una unidad de producción legalmente establecida dentro del territorio estatal, previo a la entrada en vigor de la presente ley. Por lo que los apicultores que se encuentren en esta hipótesis únicamente deberán inscribirse en el padrón estatal previsto en el artículo 15 de la ley.
+
+SÉPTIMA. Se deroga el capítulo III TER "DE LA PROTECCIÓN DE LAS ABEJAS", comprendido por los artículos del 66 SEXIES al 66 UNDECIS, de la Ley de Desarrollo Rural Sustentable del Estado de Morelos; así como todas las disposiciones de igual o menor rango jerárquico que se opongan a la presente ley.
