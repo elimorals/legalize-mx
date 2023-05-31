@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-instituto-electoral-del-estado-de-zacatecas-10
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-06-06"
-last_updated: "2021-04-10"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Suplemento 4 del Periódico Oficial del Estado de Zacatecas, el sábado 6 junio de 2015.
 
@@ -951,7 +951,9 @@ c) A petición que por escrito formulen la mayoría de los Consejeros Electorale
 
 III. De manera especial:
 
-a) El primer lunes hábil de septiembre del año previo al de la elección, para dar inicio al proceso electoral;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+a) El veinte de noviembre del año previo al de la elección, para dar inicio al proceso electoral;
 
 b) Cuando los Consejos Electorales resuelvan sobre la procedencia o improcedencia de registro de candidaturas;
 
@@ -1041,7 +1043,9 @@ Comisiones Permanentes
 
 ARTÍCULO 36
 
-1. Las comisiones que el Instituto conformará con el carácter de permanentes son las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
+
+1. Las comisiones que el Instituto conformará con el carácter de permanentes son las siguientes
 
 I. De Organización Electoral y Partidos Políticos;
 
@@ -1061,7 +1065,9 @@ VIII. De Paridad entre los Géneros; y
 
 IX. Comisión de Acceso a la Información Pública.
 
-2. Para cada proceso electoral, se fusionarán las Comisiones de Capacitación Electoral y Cultura Cívica y la Comisión de Organización Electoral y Partidos Políticos, a fin de integrar la Comisión de Capacitación y Organización Electoral. El Consejo General designará, en octubre del año previo a la elección, a sus integrantes y al Consejero electoral que la presidirá.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+2. Para cada proceso electoral, se fusionarán las Comisiones de Capacitación Electoral y Cultura Cívica y la Comisión de Organización Electoral y Partidos Políticos, a fin de integrar la Comisión de Capacitación y Organización Electoral. El Consejo General designará, en diciembre del año previo a la elección, a sus integrantes y al Consejero electoral que la presidirá.
 
 Comisiones Transitorias
 
@@ -2608,3 +2614,15 @@ P.O. 10 DE ABRIL DE 2021.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 318.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE ZACATECAS Y DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
