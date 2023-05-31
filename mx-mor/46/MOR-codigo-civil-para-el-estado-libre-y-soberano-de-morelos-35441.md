@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2017-03-08"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 13 de octubre de 1993.
 
@@ -12625,6 +12625,10 @@ FORMAS DE CONSTITUCION DE LA HIPOTECA. La hipoteca puede constituirse por contra
 
 FORMALIDADES DE LA HIPOTECA. Cuando el crédito hipotecario exceda de trescientas veces el salario mínimo diario general vigente en la región, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de esa cantidad, así como en los casos previstos en el último párrafo del artículo 1805 de este Código, podrá otorgarse en escritura privada, ante dos testigos, de la cual se harán tantos ejemplares como sean las partes contratantes.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+De igual manera, podrán otorgarse en documento privado, aunque el valor de los créditos exceda el límite establecido, los contratos de crédito con garantía hipotecaria que celebren dependencias o entidades de la Administración pública, sea ésta federal, estatal o municipal, incluyendo a los institutos, fondos, fideicomisos, comisiones u otros organismos que legalmente operen en materia de financiamiento del sector productivo.
+
 ###### ARTICULO 2368.
 
 MEJORA DE LA HIPOTECA. Si el inmueble hipotecado se hiciere, con o sin culpa del deudor, insuficiente para la seguridad de la deuda, podrá el acreedor exigir que se mejore la hipoteca hasta que a juicio de peritos garantice debidamente la obligación principal.
@@ -13926,3 +13930,19 @@ P.O. 8 DE MARZO DE 2017.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO NOVECIENTOS SESENTA POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 2367 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
