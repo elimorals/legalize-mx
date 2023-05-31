@@ -4,7 +4,7 @@ identifier: "ZAC-ley-electoral-del-estado-de-zacatecas-108579"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-06"
-last_updated: "2020-12-12"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el sábado 6 de junio de 2015.
 
@@ -2457,6 +2457,10 @@ ARTÍCULO 122
 
 1. El proceso electoral del Estado de Zacatecas es el conjunto de actos realizados por las autoridades electorales, los partidos políticos y los ciudadanos, ordenados por la Constitución Local y esta Ley, que tiene por objeto la renovación periódica de los integrantes de los Poderes Legislativo y Ejecutivo, así como de los miembros de los Ayuntamientos del Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+2. Con anterioridad al inicio del proceso electoral, y conforme a los tiempos que establece esta ley, el Instituto podrá realizar las actividades necesarias para el ejercicio de sus funciones entre las que deberán contemplarse, en su caso, las siguientes: apoyo en el proceso de distritación a cargo del Instituto Nacional; difusión del proceso de selección de funcionarios electorales de Consejos Distritales y Municipales Electorales; inscripción de ciudadanas y ciudadanos zacatecanos en el Listado Nominal de Electores Residentes en el Extranjero e instalación de la Comisión Especial de Voto de los Zacatecanos Residentes en el Extranjero.
+
 Elecciones que regula el proceso electoral
 
 ARTÍCULO 123
@@ -2471,7 +2475,9 @@ Inicio y conclusión del proceso electoral
 
 ARTÍCULO 124
 
-1. El proceso electoral ordinario iniciará el siete de septiembre del año previo al de la elección con la sesión del Consejo General y concluirá cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2023)</small>
+
+1. El proceso electoral ordinario iniciará el veinte de noviembre del año previo al de la elección con la sesión del Consejo General y concluirá cuando:
 
 I. Si se trata de la elección de Gobernador del Estado, con la resolución y la declaración de validez de la elección de Gobernador electo que hubiere hecho el Tribunal de Justicia Electoral, una vez que haya resuelto el último de los medios de Impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno; y
 
@@ -2501,7 +2507,9 @@ Inicio y término de la etapa de preparación
 
 ARTÍCULO 126
 
-1. El Consejo General declarará el inicio de la etapa preparatoria de la elección en la sesión convocada para este fin, el siete de septiembre del año previo en que deban realizarse las elecciones; la que concluye al iniciarse la jornada electoral.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+1. El Consejo General declarará el inicio de la etapa preparatoria de la elección en la sesión convocada para este fin, el veinte de noviembre del año previo en que deban realizarse las elecciones; la que concluye al iniciarse la jornada electoral.
 
 Inicio y término de la etapa de la jornada electoral
 
@@ -2637,7 +2645,9 @@ Topes de gastos de precampaña
 
 ARTÍCULO 137
 
-1. A más tardar en el mes de octubre del año previo al de la elección, el Consejo General determinará los topes de gasto de precampaña por precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas de la elección inmediata anterior, según la elección de que se trate.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+1. A más tardar en el mes de diciembre del año previo al de la elección, el Consejo General determinará los topes de gasto de precampaña por precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas de la elección inmediata anterior, según la elección de que se trate.
 
 2. La autoridad fiscalizadora determinará los requisitos que cada precandidato debe cubrir al presentar su informe de ingresos y gastos de precampaña. En todo caso, el informe respectivo deberá ser entregado al órgano interno del partido competente a más tardar dentro de los siete días siguientes al de la jornada comicial interna o celebración de la asamblea respectiva.
 
@@ -7154,3 +7164,15 @@ Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal 
 Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
 
 Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 318.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE ZACATECAS Y DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
