@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-87867"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-05-22"
-last_updated: "2020-12-22"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2012.
 
@@ -591,25 +591,35 @@ I. El Pleno del Consejo del Poder Judicial hará una selección de entre los jue
 
 a) No haber sido sujeto de suspensión en los últimos tres años; y
 
-b) Haber cumplido con los cursos de actualización del último año;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+b) Haber cumplido con los cursos que le sean obligatorios en el último año;
 
 II. El Pleno del Consejo del Poder Judicial mandará notificar, mediante oficio, a todos los jueces de partido, la selección que haya realizado, haciéndoles saber que cuentan con un plazo de tres días para impugnarla, en caso de que consideren les afecte, y si lo hacen, deberán señalar de manera concreta el motivo y, en su caso, aportar las pruebas documentales correspondientes;
 
 III. Si hubiere impugnaciones, el Pleno del Consejo del Poder Judicial deberá resolverlas sin ulterior recurso, teniendo en cuenta el expediente personal del inconforme y las pruebas documentales que en su caso aporte; y
 
-IV. Si no hubiere impugnaciones o una vez resueltas las presentadas, el Pleno del Consejo del Poder Judicial solicitará al Pleno del Supremo Tribunal de Justicia, un informe de calidad sobre el desempeño de los jueces de partido seleccionados conforme a las bases generales emitidas y una vez obtenido el informe, procederá a evaluarlos, teniendo en cuenta lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2023)</small>
 
-a) El informe de calidad;
+IV. Si no hubiere impugnaciones o una vez resueltas las presentadas, el Pleno del Consejo del Poder Judicial solicitará al Pleno del Supremo Tribunal de Justicia, un informe sobre el conocimiento de los jueces de partido seleccionados, respecto de las funciones del Consejo del Poder Judicial, de acuerdo con el examen que al efecto se aplique de conformidad a las bases que se emitan para tal fin por el Pleno del Supremo Tribunal de Justicia y, una vez obtenido el informe, procederá a evaluarlos, teniendo en cuenta lo siguiente:
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+a) El informe del Pleno del Supremo Tribunal;
 
 b) El resultado de las auditorías y visitas que se hayan realizado a los juzgados u oficinas a cargo de los seleccionados;
 
 c) El expediente personal de los seleccionados;
 
-d) Su antigüedad en el servicio; y
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+d) Su antigüedad en el Poder Judicial; y
 
 e) Su preparación académica.
 
-El Pleno del Consejo del Poder Judicial reflejará la evaluación que realice en una calificación del cinco al diez, de manera fundada y motivada, y el que obtenga la mejor será el juez de partido que como consejero integre el Pleno del Consejo del Poder Judicial, y dicha evaluación será notificada en forma personal, mediante oficio, a los jueces evaluados. En caso de empate, el Consejo deberá decidir por el juez que tenga mayor antigüedad.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+El Pleno del Consejo del Poder Judicial reflejará la evaluación conforme al acuerdo de ponderación que al inicio del proceso de selección emita, de manera fundada y motivada y, el que obtenga la mayor calificación será el juez de partido que como consejero integre el Pleno del Consejo del Poder Judicial, y dicha evaluación será notificada en forma personal, mediante oficio, a los jueces evaluados. En caso de empate, el Consejo deberá decidir por el juez con nombramiento definitivo de mayor antigüedad en el cargo.
 
 La decisión en que el Pleno del Consejo del Poder Judicial haga la evaluación y designe al juez de partido que será consejero, será irrecurrible.
 
@@ -3984,3 +3994,9 @@ II. Región comprendida por los municipios de: Abasolo, Cuerámaro, Huanímaro, 
 III. Región comprendida por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cortazar, Doctor Mora, Jerécuaro, Moroleón, Salvatierra, San José Iturbide, San Miguel de Allende, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Tierra Blanca, Uriangato, Victoria, Villagrán, Xichú y Yuriria, cuya sede se encontrará en Celaya;
 
 IV. Región comprendida por los municipios de: Manuel Doblado, León, Ocampo, Purísima del Rincón, San Felipe y San Francisco del Rincón, cuya sede se encontrará en León.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 203, MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I, INCISO B): IV, PÁRRAFO PRIMERO E INCISOS A) Y D); ASÍ COMO EL SEGUNDO PÁRRAFO, TODOS DEL ARTÍCULO 37 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
