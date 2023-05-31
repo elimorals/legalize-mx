@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2022-09-09"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -99,7 +99,9 @@ Corresponde al Gobierno del Estado:
 
 A.- En materia de Salubridad General:
 
-I.- La atención médica, preferentemente en beneficio de grupos vulnerables;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+I.- La atención médica con perspectiva de género y de derechos humanos, dando preferencia a los grupos vulnerables.
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
@@ -297,15 +299,17 @@ XIV.- Promover e impulsar la participación de la comunidad del Estado en el cui
 
 XIV Bis.- Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física para contrarrestar el sobrepeso, la obesidad y los trastornos de la conducta alimentaria.
 
-XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud;
 
 > <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
 XVI. Coordinar y gestionar la obtención de recursos nacionales e internacionales para el fortalecimiento del Fondo Estatal de Salud y de los programas de salud locales;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-XVII. Proponer, elaborar y suscribir acuerdos o convenios para la obtención de recursos nacionales e internacionales para el fortalecimiento del Fondo Estatal de Salud, los programas de salud locales y los programas de salubridad general en materia de prevención, detección, atención y rehabilitación del cáncer de mama. La rehabilitación incluirá la reconstrucción mamaria para toda mujer a la que se le haya realizado una mastectomía como tratamiento del cáncer de mama, y
+XVII.- Proponer, elaborar y suscribir acuerdos o convenios para la obtención de recursos nacionales e internacionales para el fortalecimiento del Fondo Estatal de Salud, los programas de salud locales y los programas de salubridad general en materia de prevención, detección, atención y rehabilitación del cáncer de mama. La rehabilitación incluirá la reconstrucción mamaria para toda mujer a la que se le haya realizado una mastectomía como tratamiento del cáncer de mama;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -315,9 +319,13 @@ XVIII. Asegurar la disponibilidad oportuna de sangre o sus componentes en los es
 
 XIX. Contribuir a la prevención de la tortura y otros tratos crueles, inhumanos o degradantes, por lo que, cuando algún integrante del Sistema Estatal de Salud cuente con elementos para presumir que una persona ha sido víctima de estas conductas, está obligado a hacerlo del conocimiento de las autoridades competentes, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2023)</small>
 
-XX.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XX.- Promover e incorporar enfoques con perspectiva de género y de derechos humanos a las estrategias, campañas de información, y demás programas en el marco de sus atribuciones para contribuir a la igualdad entre mujeres y hombres en el acceso al derecho a la protección de la salud, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE MAYO DE 2023)</small>
+
+XXI.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 ###### ARTICULO 9o.
 
@@ -417,9 +425,13 @@ Las campañas de información y sensibilización que reciba la población deber�
 
 De conformidad con el Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, corresponde al Ejecutivo Estatal:
 
-I. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos; Asimismo fomentará la educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento. La información que reciba la población deberá estar basada en estudios científicos y alertar de manera clara sobre los efectos y daños físicos y psicológicos del consumo de estupefacientes y psicotrópicos; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-II. Proporcionar información y brindar la atención médica y los tratamientos que se requieran a las personas que consuman estupefacientes y psicotrópicos.
+I. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos; Asimismo fomentará la educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento La información que reciba la población deberá estar basada en estudios científicos y alertar de manera clara sobre los efectos y daños físicos y psicológicos del consumo de estupefacientes y psicotrópicos;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+II. Proporcionar información y brindar la atención médica con perspectiva de género y de derechos humanos, así como los tratamientos que se requieran a las personas que consuman estupefacientes y psicotrópicos;
 
 > <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
@@ -619,9 +631,9 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria; de las no transmisibles más frecuentes y de los accidentes;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-III.- La atención médica integral, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias y la reconstrucción mamaria como rehabilitación para toda mujer a la que se le haya realizado una mastectomía como tratamiento del cáncer de mama.
+III.- La atención médica integral con perspectiva de género y de derechos humanos, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias y la reconstrucción mamaria como rehabilitación para toda mujer a la que se le haya realizado una mastectomía como tratamiento del cáncer de mama;
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
@@ -657,9 +669,15 @@ II.- Que los establecimientos de los sectores público, social y privado dedicad
 
 ### CAPITULO II. ATENCION MEDICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 32.
 
-Se entiende por atención médica, el conjunto de servicios que se proporcionan al individuo, con el fin de promover, preservar y restaurar la salud humana.
+Se entiende por atención médica, el conjunto de servicios que se proporcionan a la persona, con el fin de promover, preservar y restaurar la salud integral.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Para la prestación de estos servicios se deberá atender los criterios de perspectiva de género y de enfoque de derechos humanos.
 
 ###### ARTICULO 33.
 
@@ -1669,7 +1687,9 @@ Para la mayor eficiencia de las acciones a las que se refiere este Artículo, se
 
 ARTICULO 127 BIS.- Las Autoridades Sanitarias del Estado, sin detrimento de la observancia de las normas que resulten aplicables y atendiendo a la disponibilidad presupuestal, se coordinarán con las Autoridades Federales en la ejecución del Programa de Prevención, Atención y Control del VIH/SIDA e Infecciones de Transmisión Sexual, que comprenderá entre otras, las siguientes acciones:
 
-I. Prestar servicios de atención médica integral, detección y tratamiento para las personas enfermas del VIH/SIDA y otras infecciones de transmisión sexual, así como las infecciones oportunistas que se les asocian (hepatitis, citomegalovirus entre otras), aunado al apoyo y orientación psicológica a los familiares, en los niveles y la capacidad que corresponda a las unidades médicas o centros de salud del Estado, sin menoscabo de la calidad, estigma o discriminación;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+I. Prestar servicios de atención médica integral con perspectiva de género y de derechos humanos, detección y tratamiento para las personas enfermas del VIH/SIDA y otras infecciones de transmisión sexual, así como las infecciones oportunistas que se les asocian (hepatitis, citomegalovirus entre otras), aunado al apoyo y orientación psicológica a los familiares, en los niveles y la capacidad que corresponda a las Unidades Médicas o Centros de Salud del Estado, sin menoscabo de la calidad, estigma o discriminación;
 
 II. Difundir información sobre los efectos del VIH/SIDA y otras infecciones de transmisión sexual en la salud, sus formas de transmisión y las medidas de prevención, dirigida prioritariamente a los adolescentes, indígenas y grupos de alto riesgo de vulnerabilidad en el Estado, a través de técnicas individuales, grupales o de comunicación masiva;
 
@@ -1755,7 +1775,9 @@ ARTICULO 127 C.- Corresponde al Sistema Estatal de Salud garantizar el pleno, li
 
 Los pacientes enfermos en situación terminal tienen los siguientes derechos:
 
-I. Recibir atención médica integral;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+I. Recibir atención médica integral con perspectiva de género y de derechos humanos;
 
 II. Ingresar a las instituciones de salud cuando requiera atención médica;
 
@@ -2277,7 +2299,9 @@ I.- Determinarán y ejercerán medios de control en el expendio de substancias i
 
 II.- Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas;
 
-III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalantes, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+III.- Brindarán la atención médica con perspectiva de género y de derechos humanos que se requiera, a las personas que realicen o hayan realizado el consumo de inhalantes, y
 
 IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
 
@@ -4014,3 +4038,11 @@ P.O. 9 DE SEPTIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 061 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
