@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2023-03-31"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -57,11 +57,11 @@ QUE CONTIENE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO D
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público de interés social y de observancia general en el Estado de Hidalgo, tiene por objeto proteger y garantizar los derechos de las personas adultas mayores, en condiciones de igualdad y no discriminación, para proporcionarles una mejor calidad de vida y contribuir a su plena inclusión, y participación en el desarrollo social, económico y cultural, así como generar las condiciones para lograr un envejecimiento saludable.
+La presente Ley es de orden público de interés social y de observancia general en el Estado de Hidalgo, tiene por objeto proteger y garantizar los derechos de las personas adultas mayores, en condiciones de igualdad y no discriminación, con enfoque interseccional, para proporcionarles una mejor calidad de vida y contribuir a su plena inclusión, y participación en el desarrollo social, económico y cultural, así como generar las condiciones para lograr un envejecimiento saludable.
 
 ###### Artículo 2.
 
@@ -137,19 +137,23 @@ XV.- Hogar.- es el conjunto de personas que pueden ser o no familiares y que com
 
 XVI.- Maltrato.- Acción u omisión, única o repetida, contra una persona adulta mayor que produce daño a su integridad física, psicológica, moral, económica y sexual que vulnera el goce o ejercicio de sus derechos humanos y libertades fundamentales, independientemente de que ocurra en una relación de confianza;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-XVII.- Negligencia.- Error involuntario o falta no deliberada, incluido entre otros, el descuido, omisión, desamparo e indefensión que le causa un daño o sufrimiento a una persona adulta mayor, tanto en el ámbito público como privado, cuando no se hayan tomado las precauciones normales necesarias de conformidad con las circunstancias; y
+XVII.- Negligencia.- Error involuntario o falta no deliberada, incluido entre otros, el descuido, omisión, desamparo e indefensión que le causa un daño o sufrimiento a una persona adulta mayor, tanto en el ámbito público como privado, cuando no se hayan tomado las precauciones normales necesarias de conformidad con las circunstancias;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-XVIII.- Violencia Contra las Personas Adultas Mayores.- Cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+XVIII.- Violencia Contra las Personas Adultas Mayores.- Cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público; y
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XIX.- Enfoque interseccional.- Categoría de análisis para referir los componentes que confluyen en un mismo caso, multiplicando las desventajas y discriminaciones.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 5.
 
-Toda institución pública y privada que brinde servicios a las personas adultas mayores deberá contar con la Reglamentación, la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios sensibilizados y capacitados para que se realicen procedimientos alternativos en los trámites administrativos.
+Toda institución pública y privada que brinde servicios a las personas adultas mayores deberá contar con la Reglamentación, la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios sensibilizados y capacitados para que se realicen procedimientos alternativos con enfoque interseccional, en los trámites administrativos.
 
 ### CAPÍTULO II. PRINCIPIOS, DERECHOS Y OBLIGACIONES
 
@@ -163,13 +167,23 @@ I.- Autonomía y Autorrealización.- Todas las acciones que se realicen en benef
 
 II.- Participación.- En todos los casos de la vida pública y en especial en lo relativo a los aspectos que les atañen directamente, las personas adultas mayores deberán ser consultados (sic) y tomados (sic) en cuenta y se promoverá su presencia e intervención;
 
-III.- Equidad.- Trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción, discriminación o exclusión, basada en el origen étnico, sexo, discapacidad, condición social o económica, condiciones de salud, lengua, religión, opiniones, preferencias sexuales, estado civil, xenofobia, y antisemitismo en cualquiera de sus manifestaciones;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+III.- Equidad.- Trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción, discriminación o exclusión, basada en el origen étnico, sexo, discapacidad, condición social o económica, condiciones de salud, lengua, religión, opiniones, orientación sexual, identidad o expresión de género, estado civil, xenofobia, y antisemitismo en cualquiera de sus manifestaciones;
 
 IV.- Corresponsabilidad.- Promover la concurrencia de los sectores público y privado y en especial de la familia de la persona adulta mayor, con una actitud de responsabilidad compartida;
 
-V.- Vida libre de violencia.- Prevenir y erradicar toda conducta que cause lesión interna o externa, o cualquier otro tipo de maltrato que afecte la integridad física, psicológica, sexual, patrimonial, económica y moral de las personas adultas mayores; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-VI.- Atención Preferente.- Las Instituciones Estatales y Municipales, así como los sectores público y privado implementarán programas acordes a las diferentes características, circunstancias y condiciones de las personas adultas mayores que los beneficien directamente.
+V.- Vida libre de violencia.- Prevenir y erradicar toda conducta que cause lesión interna o externa, o cualquier otro tipo de maltrato que afecte la integridad física, psicológica, sexual, patrimonial, económica y moral de las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VI.- Atención Preferente.- Las Instituciones Estatales y Municipales, así como los sectores público y privado implementarán programas con enfoque interseccional, acordes a las diferentes características, circunstancias y condiciones de las personas adultas mayores que los beneficien directamente; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VII.- Igualdad sustantiva. Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -347,19 +361,27 @@ II.- Garantizar a las personas adultas mayores el pleno ejercicio de sus derecho
 
 III.- Garantizar la cobertura en materia alimentaria;
 
-IV.- Garantizar la igualdad de oportunidades y de una vida digna, promoviendo la defensa y representación de sus intereses;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-V.- Establecer las bases para la planeación y la concertación de acciones entre las instituciones públicas y privadas, para lograr un funcionamiento coordinado en los programas y servicios que presten a este sector de la población, a fin de que cumplan con las necesidades y características especificas que se requieran;
+IV.- Garantizar la igualdad de oportunidades y de una vida digna, con enfoque interseccional, promoviendo la defensa y representación de sus intereses;
 
-VI.- Impulsar la atención integral e institucional de los sectores público y privado de conformidad a los ordenamientos de regulación y vigilar el funcionamiento de los programas y servicios de acuerdo a las características de este grupo social;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-VII.- Promover la solidaridad y la participación ciudadana para consensar programas y acciones que permitan su incorporación social y alcanzar un desarrollo justo y equitativo;
+V.- Establecer las bases para la planeación y la concertación de acciones entre las instituciones públicas y privadas, con enfoque interseccional, para lograr un funcionamiento coordinado en los programas y servicios que presten a este sector de la población, a fin de que cumplan con las necesidades y características específicas que se requieran;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VI.- Impulsar la atención integral e institucional de los sectores público y privado, con enfoque interseccional, de conformidad a los ordenamientos de regulación y vigilar el funcionamiento de los programas y servicios de acuerdo a las características de este grupo social;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VII.- Promover la solidaridad y la participación ciudadana para consensar programas y acciones con enfoque interseccional, que permitan su incorporación social y alcanzar un desarrollo justo y equitativo;
 
 VIII.- Promover su participación activa en la formulación de las políticas públicas que les afecten;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2023)</small>
 
-IX.- Impulsar el desarrollo humano integral de las personas adultas mayores observando el principio de equidad de género, por medio de políticas públicas, programas y acciones a fin de garantizar la igualdad de derechos, oportunidades y responsabilidades de hombres y mujeres; así como la revaloración del papel de la mujer y del hombre en la vida social, económica, política, cultural y familiar, así como la no discriminación individual y colectiva hacia la mujer;
+IX.- Impulsar el desarrollo humano integral de las personas adultas mayores observando el principio de equidad de género, por medio de políticas públicas, programas y acciones con enfoque interseccional, a fin de garantizar la igualdad de derechos, oportunidades y responsabilidades de hombres y mujeres, así como la revalorización del papel de la mujer y del hombre en la vida social, económica, política, cultural y familiar, así como la no discriminación individual y colectiva hacia la mujer;
 
 X.- Fomentar la permanencia, cuando así lo deseen, dentro de su núcleo familiar y comunitario;
 
@@ -417,11 +439,11 @@ XXIII.- Promover la difusión de los derechos y valores en beneficio de las pers
 
 Las Dependencias, Entidades Paraestatales del Gobierno del Estado y los Municipios, en lo que respecta al ámbito de su competencia en esta materia, diseñarán e instrumentarán en forma coordinada, programas de atención a los adultos mayores consideradas dentro de la política Estatal en la materia.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 17.
 
-Los programas estarán enfocados a estimular e inducir la participación de las personas adultas mayores en actividades que les permitan desarrollar habilidades, proporcionándoles los satisfactores necesarios para su atención, bienestar y desarrollo integral, de manera que los trabajos o actividades que realicen no afecten sus condiciones de salud física o mental.
+Los programas estarán enfocados a estimular e inducir la participación de las personas adultas mayores en actividades que les permitan desarrollar habilidades, proporcionándoles los satisfactores necesarios para su atención, bienestar y desarrollo integral, con enfoque interseccional, de manera que los trabajos o actividades que realicen no afecten sus condiciones de salud física o mental.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -879,11 +901,11 @@ Cuando los actos, hechos y omisiones provengan de familiares, las quejas o denun
 
 Las personas adultas mayores tienen derecho a ser trasladadas a una institución pública o privada que brinde atención a ese sector de la población, cuando sea víctima de cualquier tipo de violencia, de los previstos en el artículo 32 Ter de esta Ley.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 36.
 
-Las instituciones públicas y privadas, que brinden atención a las personas adultas mayores, deberán ajustar su funcionamiento a lo dispuesto en esta Ley.
+Las instituciones públicas y privadas, que brinden atención a las personas adultas mayores, deberán ajustar su funcionamiento, con enfoque interseccional, a lo dispuesto en esta Ley.
 
 ### CAPÍTULO IX. RESPONSABILIDADES Y SANCIONES
 
@@ -1026,5 +1048,11 @@ P.O. 27 DE OCTUBRE DE 2022.
 P.O. 31 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 489 QUE REFORMA LAS FRACCIONES XVI Y XVII, Y ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 7 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
