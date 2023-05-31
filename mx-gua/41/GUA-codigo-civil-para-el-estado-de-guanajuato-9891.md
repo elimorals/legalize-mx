@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2022-12-08"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -603,63 +603,55 @@ La madre no puede dejar de reconocer a su hijo, la filiación con respecto a és
 
 En las actas de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota se testará de oficio por el Oficial del Registro Civil que la tenga a su cargo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Art. 73.
 
-Toda persona que encontrase a un menor, ya sea que éste estuviere extraviado o abandonado, o en cuya casa, propiedad o lugar de trabajo fuera expuesto alguno, deberá presentarlo ante la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato en forma inmediata, con todos los objetos encontrados con él, y declarará el día, mes, año y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido, para que ésta proceda a lo siguiente:
+Toda persona que encontrase a una niña, niño o adolescente, ya sea que este estuviere extraviado o abandonado, o en cuya casa, propiedad o lugar de trabajo fuera expuesto alguno, deberá presentarlo ante la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato o Procuradurías Auxiliares en forma inmediata, con todos los objetos encontrados con él, y declarará el día, mes, año y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido, para que éstas procedan a lo siguiente:
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
 I. Denunciar los hechos inmediatamente ante el Ministerio Público;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-II. Presentarlo ante el Oficial del Registro Civil para que se levante el acta correspondiente, si procede cuando se haya definido la situación jurídica del menor;
+II. Presentarlo ante el Oficial del Registro Civil para que se levante el acta correspondiente, si procede, cuando se haya definido la situación jurídica de la niña, niño o adolescente;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-III. Entregar la custodia temporal del menor a un centro de asistencia social o a una familia de acogida que pueda atenderlo adecuadamente;
+III. Otorgar medidas de protección especial en términos de lo dispuesto en la legislación aplicable;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-IV. Promover y tramitar la adopción pronta del menor que resulte expósito; y
+IV. Promover y tramitar la adopción pronta de la niña, niño o adolescente cuando ello resulte procedente conforme a este Código y el resto del marco jurídico aplicable; y
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-V. Promover y tramitar el juicio de pérdida de la patria potestad contra quienes hayan abandonado al menor; así como la adopción del mismo a falta de sucesores idóneos para el ejercicio de la patria potestad; o según el caso, asegurarse de la reincorporación o incorporación del menor con el o los familiares que correspondan legalmente.
+V. De ser procedente, conforme a este Código y el resto del marco jurídico aplicable, promover y tramitar el juicio de pérdida de la patria potestad; así como su adopción a falta de sucesores idóneos para el ejercicio de la patria potestad; o según el caso, asegurarse de la reincorporación o incorporación de la niña, niño o adolescente con el o los familiares que correspondan legalmente.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-Para los efectos de la fracción III, la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato o las procuradurías auxiliares, en su caso, tendrán la tutela del menor.
+Para los efectos de la fracción III, la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato o las Procuradurías Auxiliares, en su caso, tendrán la tutela de la niña, niño o adolescente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Art. 74.
 
-La misma obligación de recurrir a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la tienen los jefes, directores o administradores de los centros de reclusión y de cualquier casa de comunidad, hospitales, casas de maternidad e inclusas, respecto de los niños nacidos, abandonados o expuestos en ellas.
+La misma obligación de recurrir a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato o a las Procuradurías Auxiliares, la tienen los jefes, directores o administradores de los centros de reclusión y de cualquier casa de comunidad, hospitales, casas de maternidad e inclusas, respecto de las niñas, niños y adolescentes nacidos, abandonados o expuestos en ellas.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1982)</small>
+Cuando se encuentren niñas, niños o adolescentes internos en asilos o establecimientos educativos públicos o privados, cuyo nacimiento no haya sido registrado, los jefes, directores o administradores de esas instituciones estarán obligados a registrarlos; en estos casos el Oficial del Registro Civil asentará los datos que para el caso les sean proporcionados y de los que quienes registran tengan pleno conocimiento. No se asentarán hechos producto de especulaciones ni aquellos expresamente prohibidos por otras disposiciones legales.
 
-Cuando se encuentren menores internos en asilos o establecimientos educativos públicos o privados, cuyo nacimiento no haya sido registrado, los jefes, directores o administradores de esas instituciones estarán obligados a registrarlos; en estos casos el Oficial del Registro Civil asentará los datos que para el caso les sean proporcionados y de los que quienes registran tengan pleno conocimiento. No se asentarán hechos producto de especulaciones ni aquellos expresamente prohibidos por otras disposiciones legales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Art. 75.
 
-En las actas que se levanten en estos casos, se expresará la edad aparente del niño, su sexo y el nombre y apellidos que se le pongan, de acuerdo a las actuaciones realizadas por la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, en cumplimiento de lo señalado por el artículo 73 de este Código.
+En las actas que se levanten en estos casos, se expresará la edad aparente de la niña, niño o adolescente, su sexo y el nombre y apellidos que se le pongan, de acuerdo a las actuaciones realizadas por la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, o las Procuradurías Auxiliares en cumplimiento de lo señalado por el artículo 73 de este Código.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Art. 76.
 
-Si con el expósito o abandonado se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir a la identificación de aquél, el Procurador o procuradores auxiliares en materia de Asistencia Social, ordenará su depósito ante el Ministerio Público respectivo, mencionándolos en sus actuaciones y dando formal recibo de ellos al que recoja al niño.
+Si con el expósito o abandonado referido en el artículo 73 de este Código, se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir a la identificación de aquél, la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes o las Procuradurías Auxiliares las depositarán ante el Ministerio Público respectivo, mencionándolo en sus actuaciones y dando formal recibo de ellos al que recoja a la niña, niño o adolescente.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -675,11 +667,11 @@ Si se carece de fundamento para la negativa del acto, el Oficial del Registro Ci
 
 El Oficial del Registro Civil que reciba alguna de las constancias a que se refieren los artículos 70 a 74 del Código Civil Federal, comprobará que esté debidamente legalizada, para lo que estará a lo previsto por el Código de Procedimientos Civiles Federal; comprobada la legalización, asentará el acto en la forma que corresponda y archivará la constancia, anotándola con el número correspondiente al acta levantada.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Art. 79.
 
-Si al dar aviso del fallecimiento de un menor, no ha sido registrado su nacimiento en el plazo que marca el artículo 63 de este Código, se levantarán dos actas, una de defunción y otra de nacimiento, haciendo la anotación del fallecimiento en esta última.
+Si al dar aviso del fallecimiento de una niña o niño, no ha sido registrado su nacimiento en el plazo que marca el artículo 63 de este Código, se levantarán dos actas, una de defunción y otra de nacimiento, haciendo la anotación del fallecimiento en esta última.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -3619,15 +3611,17 @@ El juez aplicará las medidas previstas en el Código de Procedimientos Civiles 
 
 Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen sin permiso de ellos o decreto de la autoridad competente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Art. 476.
 
-A las personas que tienen al hijo bajo su patria potestad incumbe la obligación de educarlo convenientemente. Cuando llegue a conocimiento del Agente del Ministerio Público o, en su caso, de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, que las personas de que se trata no cumplen con esta obligación, promoverá lo que corresponda.
+A las personas que tienen bajo su patria potestad a niñas, niños y adolescentes, incumbe la obligación de educarlos convenientemente. Cuando llegue a conocimiento del Agente del Ministerio Público o, en su caso, de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato o las Procuradurías Auxiliares, que las personas de que se trata no cumplen con esta obligación, promoverán las medidas de protección especial necesarias.
 
-Las niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial, deberán ser sujetos de medida especial de protección subsidiaria y priorizando las opciones de cuidado en un entorno familiar, se les podrá ubicar con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior; o que sean recibidos por una familia de acogida, en los casos en los cuales ni los progenitores, ni la familia extensa pudiera hacerse cargo; o bien, ubicarlos, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Las niñas, niños y adolescentes que hayan sido separados de su familia de origen, deberán ser sujetos de medida especial de protección subsidiaria y priorizando las opciones de cuidado en un entorno familiar, se les podrá ubicar con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior; o que sean recibidos por una familia de acogida, en los casos en los cuales ni los progenitores, ni la familia extensa pudiera hacerse cargo; o bien, ubicarlos, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 Para ello la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato podrá otorgar certificación como familia de acogida a aquellas que reúnan los requisitos de acuerdo a la reglamentación de esa institución, para que brinde cuidado, protección, crianza positiva y la promoción del bienestar social, de niñas niños y adolescentes por un tiempo limitado, hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
 
@@ -4051,11 +4045,9 @@ La falta temporal del tutor legítimo se suplirá en los términos establecidos 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
-### Capítulo V. De la tutela legítima de los menores expósitos o abandonados
+### Capítulo V. De la tutela legítima de las niñas, niños y adolescentes expósitos o abandonados
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Art. 540.
 
@@ -4085,13 +4077,15 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JULIO DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2023)</small>
 
 ### Capítulo VI. De la tutela dativa
 
 ###### Art. 546.
 
-Los menores expósitos o abandonados quedan legalmente bajo la tutela de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+Las niñas, niños y adolescentes expósitos o abandonados, se encuentran legalmente bajo la tutela de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato o las Procuradurías Auxiliares quienes tendrán las obligaciones, facultades y restricciones establecidas para los demás tutores previstas en este Código y la legislación aplicable.
+
+La consideración de expósitos o abandonados se hará de conformidad con lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -17678,3 +17672,39 @@ P.O. 8 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 118, SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 103; Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 474-A; Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 500 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 202, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO; Y SE REFORMAN Y ADICIONAN VARIOS DISPOSITIVOS DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Plazos para ajustar reglamentos y decretos
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Plazo para expedir lineamientos
+
+Artículo Tercero. La Procuraduría de Protección deberá expedir los lineamientos previstos en el presente Decreto en un plazo de noventa días contados a partir de que ésta inicie su vigencia.
+
+Registros y sistemas de información
+
+Artículo Cuarto. La Procuraduría de Protección deberá integrar el sistema de información y registro en los términos del presente Decreto en un plazo de noventa días contados a partir de que este inicie su vigencia.
+
+Designación del titular de la Procuraduría de Protección
+
+Artículo Quinto. El Gobernador del Estado deberá designar al titular de la Procuraduría de Protección en un plazo de ciento ochenta días, pudiendo en su caso, ratificar a quien se encuentre ocupando el cargo a la entrada en vigor del presente Decreto.
+
+Procuradurías Auxiliares
+
+Artículo Sexto. Los municipios deberán realizar los ajustes necesarios, incluyendo la adecuación de sus estructuras orgánicas, a fin de garantizar el funcionamiento de una Procuraduría Auxiliar que tenga como único objeto la protección y restitución de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Nombramiento de las personas titulares de las Procuradurías Auxiliares
+
+Artículo Séptimo. El nombramiento de las personas titulares de las Procuradurías Auxiliares deberá realizarse en el plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto. Por única ocasión, las personas designadas conforme a este artículo transitorio durarán en su cargo tres años, pudiendo ser ratificadas por tres años más, en términos del artículo 98-1 de la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Procesos de entrega recepción
+
+Artículo Octavo. Con la finalidad de dar cumplimiento a las obligaciones generadas con motivo de la entrada en vigor del presente Decreto, las autoridades estatal y municipales, deberán integrar, de manera progresiva en su presupuesto los recursos necesarios.
