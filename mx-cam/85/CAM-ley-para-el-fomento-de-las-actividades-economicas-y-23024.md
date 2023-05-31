@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-fomento-de-las-actividades-economicas-y-23024"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-24"
-last_updated: "2011-08-04"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA EL FOMENTO DE LAS ACTIVIDADES ECONOMICAS Y EMPRESARIALES EN EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 24 de diciembre de 2001.
 
@@ -48,6 +48,10 @@ La presente ley es de orden público, interés social y de observancia general e
 I. Fomentar la inversión en los sectores industrial, comercial, artesanal, servicios, turístico, pesquero, acuícola, agropecuario y forestal para el desarrollo económico del Estado, promoviendo nuevas inversiones y favoreciendo el crecimiento de las ya existentes;
 
 II. Fomentar y promocionar el desarrollo de las actividades económicas y empresariales en la Entidad, propiciando la reestructuración, reconversión y diversificación del aparato productivo;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+II Bis. Diseñar políticas públicas y programas de desarrollo empresarial, industrial y comercial con perspectiva de género;
 
 III. Aumentar el bienestar de la población a través del crecimiento económico sostenido y sustentable;
 
@@ -590,3 +594,11 @@ P.O. 4 DE AGOSTO DE 2011.
 Primero.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 235 POR EL QUE "SE ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 1 DE LA LEY PARA EL FOMENTO DE LAS ACTIVIDADES ECONÓMICAS Y EMPRESARIALES EN EL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
