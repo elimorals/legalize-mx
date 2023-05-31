@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2023-04-05"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -3277,6 +3277,8 @@ Si lo que se exigió fue la entrega de cantidades o efectos y ésta se realiza, 
 
 ### CAPÍTULO VI. USURPACIÓN DE IDENTIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 320.
 
 Al que se introduzca a un departamento, vivienda, aposento o dependencia de una casa habitación sin motivo justificado, sin orden de autoridad competente, furtivamente, con engaño, violencia o sin permiso de la persona autorizada para darlo, se le impondrá de seis meses a dos años de prisión y multa de cincuenta a cien días.
@@ -3335,7 +3337,7 @@ Si dentro de las veinticuatro horas siguientes, el autor del delito restituye la
 
 ###### ARTÍCULO 326.
 
-Se le impondrán de tres a siete años de prisión y de cien a quinientos días multa, a quien ejerza con fines ilícitos, un derecho o use cualquier tipo de datos, informaciones o documentos que legítimamente pertenezcan a otro, que lo individualiza ante la sociedad y que le permite a una persona física o jurídica colectiva ser identificada o identificable, para hacerse pasar por él.
+Se impondrán de tres a siete años de prisión y de cien a quinientos días de multa, a quien ejerza con fines ilícitos, un derecho o use cualquier tipo de datos, informaciones o documentos que legítimamente pertenezcan a otra persona, que la individualiza ante la sociedad y que le permite a una persona física o jurídica colectiva ser identificada o identificable, para hacerse pasar por ella.
 
 Se equiparan a la usurpación de identidad y se impondrán las penas previstas en el párrafo que precede a quienes:
 
@@ -3343,15 +3345,41 @@ I. Cometan un hecho ilícito previsto en las disposiciones legales con motivo de
 
 II. Utilicen datos personales, sin consentimiento de quien deba otorgarlo;
 
-III. Otorguen el consentimiento para llevar a cabo la usurpación de su identidad, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-IV. Se valgan de la homonimia, parecido físico o similitud de la voz para cometer algún ilícito.
+III. Otorguen el consentimiento para llevar a cabo la usurpación de su identidad;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+IV. Faciliten la usurpación de identidad de una persona entregando datos personales a tercera persona, estando obligada a protegerlos;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+V. Asuma, suplante, se apropie o utilice, a través de internet, cualquier sistema informático o medio de comunicación, la identidad de una persona física o jurídica que no le pertenezca, produciendo con ello un daño moral o patrimonial, u obteniendo un lucro o un provecho indebido para sí o para otra persona;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VI. Al que por algún uso de medio informático, telemático o electrónico obtenga algún lucro indebido para sí o para otra persona o genere un daño patrimonial a otra, valiéndose de alguna manipulación informática o intercepción de datos de envío, cuyo objeto sea el empleo no autorizado de datos personales o el acceso no autorizado a base de datos automatizados para suplantar identidades, o
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VII. Al que transfiera, posea o utilice datos identificativos de otra persona con la intención de cometer, favorecer o intentar cualquier actividad ilícita.
 
 Las sanciones previstas en este artículo se impondrán con independencia de las que correspondan por la comisión de otro u otros delitos.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 327.
 
-Las penas señaladas en el artículo anterior se incrementarán hasta en una mitad más, cuando el ilícito sea cometido por un servidor público aprovechándose de sus funciones, o por quien sin serlo, se valga de su profesión o empleo para ello.
+Se impondrán de cuatro a nueve años de prisión y de doscientos cincuenta a ochocientos días de multa por el delito de usurpación de identidad, cuando:
+
+I. El ilícito sea cometido por una persona servidora pública, aprovechándose de las funciones que le confiere su cargo, empleo o comisión;
+
+II . Sea cometido por cualquier persona que se valga de su profesión o empleo para ello, o
+
+III. La persona se valga de la homonimia, parecido físico o similitud de la voz para cometer algún ilícito.
+
+Las sanciones previstas en este artículo, se impondrán con independencia de las que correspondan por la comisión de otro u otros delitos.
 
 ### CAPÍTULO II. INJURIAS
 
@@ -4962,3 +4990,9 @@ P.O. 5 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE USURPACIÓN DE IDENTIDAD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
