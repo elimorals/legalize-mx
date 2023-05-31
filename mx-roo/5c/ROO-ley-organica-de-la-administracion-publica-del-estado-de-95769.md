@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2023-03-18"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -129,6 +129,14 @@ Las dependencias y entidades de la Administración Pública del Estado a que se 
 
 El Gobernador del Estado evaluará y proveerá lo necesario para asegurar el cumplimiento de los objetivos, metas y compromisos establecidos en los planes y programas respectivos.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Las dependencias y entidades de la Administración Pública del Estado a que se refiere esta Ley, promoverán que sus planes, programas y acciones sean realizados con perspectiva de género.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Las personas servidoras públicas de las Dependencias y Entidades de la Administración Pública del Estado en el desempeño de su empleo, cargo o comisión, se deberán conducir con disciplina y respeto a los principios de Respeto a los Derechos Humanos, Legalidad, Honradez, Lealtad, Imparcialidad, Eficiencia, Eficacia, Transparencia, Economía, Disciplina, Profesionalismo, Objetividad, Rendición de Cuentas, Competencia por Mérito, Integridad, Equidad e Igualdad, así como a los valores Éticos de Respeto, Liderazgo, Cooperación, Cuidado del Entorno Cultural y Ecológico, Interés Público, Igualdad y No Discriminación, Equidad de Género, Principios y Valores que se definan en el Código de Ética, así como los compromisos previstos y Reglas de Integridad establecidas en el mismo, tanto hacia las demás personas servidoras públicas como con los particulares con quienes llegare a tratar, absteniéndose de ejercer actos, conductas, tipos o modalidades de violencia y/o discriminación, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, la Ley para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo, los Reglamentos y demás disposiciones jurídicas aplicables.
+
 ###### ARTÍCULO 15.
 
 El Gobernador del Estado está facultado para resolver las dudas que surjan en las dependencias y entidades de la administración pública, sobre la aplicación de esta Ley.
@@ -205,7 +213,9 @@ XIV. (DEROGADA, P.O. 16 DE JULIO DE 2021)
 
 XV. Consejería Jurídica del Poder Ejecutivo;
 
-XVI. Secretaría de Seguridad Pública.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XVI. Secretaría de Seguridad Ciudadana.
 
 ###### ARTÍCULO 20.
 
@@ -217,11 +227,13 @@ II. Ser nativo o nativa de la entidad o tener residencia efectiva no menos de ci
 
 III. Tener un modo honesto de vivir.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
-Para ser Titular de la Consejería Jurídica del Poder Ejecutivo, se deberán cumplir los requisitos previstos en las fracciones I al VII que establece el artículo 96 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+En el caso de la persona Titular de la Consejería Jurídica del Poder Ejecutivo, además de los requisitos previstos (sic) las fracciones anteriores, deberá contar con Licenciatura en Derecho con título y cédula profesional debidamente registrados y experiencia profesional no menor a cinco años en materia jurídica, de perspectiva de género y/o enfoque de derechos humanos.
 
-Tratándose de lo dispuesto en la fracción II del presente artículo, podrá ser dispensable únicamente para el cargo de Secretario de Seguridad Pública.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Tratándose de lo dispuesto en la fracción II del presente artículo, podrá ser dispensable únicamente para el cargo de la persona titular de la Secretaría de Seguridad Ciudadana.
 
 ###### ARTÍCULO 21.
 
@@ -1849,49 +1861,79 @@ XXV. Emitir las disposiciones a las que deberán sujetarse las dependencias y en
 
 XXVI. Certificar los documentos expedidos por el Gobernador del Estado, así como los documentos que obren en sus archivos.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-XXVII. Requerir con la representación del Gobernador del Estado en su carácter de superior jerárquico, a las autoridades responsables y/o demandadas, al cumplimiento de las sentencias de amparo y juicios diversos que hayan causado ejecutoria dictadas en juicio por la autoridad jurisdiccional; y
+XXVII. Requerir con la representación de la persona titular del Poder Ejecutivo del Estado en su carácter de superior jerárquico, a las autoridades responsables y/o demandadas, al cumplimiento de las sentencias de amparo y juicios diversos que hayan causado ejecutoria dictadas en juicio por la autoridad jurisdiccional;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2023)</small>
 
-XXVIII. Las demás que le encomienden expresamente las leyes y reglamentos.
+XXVIII. Coadyuvar en la orientación jurídica, con enfoque de derechos humanos y perspectiva de género, en los casos de violencia de género en el ámbito laboral, cometidos por personas servidoras públicas de las dependencias y entidades de la Administración Pública del Estado, en coordinación con las instancias especializadas en la prevención, atención, sanción y erradicación de la violencia de género, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, la Ley para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo, los Reglamentos y demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE MAYO DE 2023)</small>
+
+XXIX. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE JUNIO DE 2018)</small>
 
 El estudio, planeación, tramite y resolución de los asuntos competencia de la Consejería Jurídica del Poder Ejecutivo, así como su representación, corresponden originalmente a su titular, quién para su mejor atención y despacho, podrá delegar sus atribuciones que le correspondan como titular de la Dependencia, así como las de representación del Titular del Ejecutivo y/o del Gobierno del Estado, en los servidores públicos subalternos, en términos de las disposiciones jurídicas aplicables, sin perder por ello la posibilidad de su ejercicio directo, excepto aquellas que por disposición de la ley o de su Reglamento, deban ser ejercidas en forma directa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 46.
 
-A la Secretaría de Seguridad Pública le compete el despacho de los siguientes asuntos:
+A la Secretaría de Seguridad Ciudadana le compete el despacho de los siguientes asuntos:
 
-I. Coordinar, dirigir, vigilar, desarrollar instrumentar y ejecutar la política estatal en materia de seguridad pública, política criminal, servicios de seguridad privada, como prevención y reinserción social del delincuente; y tratamiento de reintegración social y familiar del adolescente, de conformidad con las leyes de la materia;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-II. Establecer, dirigir y controlar, en el ámbito de su competencia, la política de la Secretaría, así como programar, coordinar y evaluar, en términos de los ordenamientos aplicables, las actividades del sector correspondiente, aprobando al efecto las mismas, de conformidad con los objetivos, metas y políticas que determine el Gobernador del Estado;
+I. Coordinar, dirigir, vigilar, desarrollar instrumentar y ejecutar la política estatal en materia de Seguridad Ciudadana, política criminal, servicios de seguridad privada, como prevención y reinserción social; y tratamiento de reintegración social y familiar del adolescente, de conformidad con las leyes de la materia;
 
-III. Proponer al Gobernador del Estado en coordinación con el Consejo Estatal de Seguridad Pública y dentro de la intervención que le confiere la Ley de la materia, los programas relativos a la seguridad pública y protección de los habitantes de la Entidad, al orden público y a la prevención de los delitos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-IV. Participar en la operación de los servicios de seguridad pública del Estado de conformidad con las normas, políticas y lineamientos establecidos por el Sistema Estatal de Seguridad Pública y proveer al orden interno, protegiendo a los particulares en sus personas, propiedades y derechos; proveer el orden y seguridad en los Centros de Reinserción Social del Estado, Centros de Detención Preventiva y de Ejecución de penas privativas de la Libertad del Estado y en los Centros de Ejecución de Medidas para Adolescentes; así como participar en la realización de los operativos especiales en el interior de estos establecimientos, cuando así lo determinen las autoridades competentes o que por razones de seguridad sea necesario;
+II. Establecer, dirigir y controlar, en el ámbito de su competencia, la política de la Secretaría, así como programar, coordinar y evaluar, en términos de los ordenamientos aplicables, las actividades del sector correspondiente, aprobando al efecto las mismas, de conformidad con los objetivos, metas y políticas que determine la persona titular del Poder Ejecutivo del Estado;
 
-V. Proponer al Ejecutivo Estatal las medidas necesarias para organizar las actividades de las Dependencias y Entidades que atiendan el fenómeno delictivo;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-VI. Promover la participación de los ciudadanos en el diseño y elaboración de planes y programas en materia de seguridad pública, así como para el desarrollo de actividades de vigilancia sobre el desempeño de la Secretaría;
+III. Proponer a la persona titular del Poder Ejecutivo del Estado en coordinación con el Consejo Estatal de Seguridad Ciudadana y dentro de la intervención que le confiere la Ley de la materia, los programas relativos a la Seguridad Ciudadana y protección de los habitantes de la Entidad, al orden público y a la prevención de los delitos;
 
-VII. Organizar, dirigir, administrar, supervisar y ejercer el mando directo de las corporaciones policiales y demás fuerzas de seguridad estatales y protección civil, así como nombrar y remover a los titulares de las mismas a fin de garantizar el desempeño honesto de su personal y aplicar su correspondiente régimen disciplinario;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-VIII. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información en materia de seguridad pública, mediante métodos que garanticen el estricto respeto a los derechos humanos, con apego a los principios de reserva y confidencialidad en el servicio público;
+IV. Participar en la operación de los servicios de Seguridad Ciudadana del Estado de conformidad con las normas, políticas y lineamientos establecidos por el Sistema Estatal de Seguridad Ciudadana y proveer al orden interno, protegiendo a los particulares en sus personas, propiedades y derechos; proveer el orden y seguridad en los Centros Penitenciarios, los Centros de Ejecución de Medidas para Adolescentes en el Estado y los demás que determinen las disposiciones aplicables; así como participar en la realización de los operativos especiales en el interior de estos establecimientos, cuando así lo determinen las autoridades competentes o que por razones de seguridad sea necesario;
 
-IX. Disponer, por acuerdo del Gobernador del Estado, del mando de la Policía Municipal, en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+V. Proponer a la persona titular del Poder Ejecutivo Estatal las medidas necesarias para organizar las actividades de las Dependencias y Entidades que atiendan el fenómeno delictivo;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VI. Promover la participación de la ciudadanía en el diseño y elaboración de planes y programas en materia de Seguridad Ciudadana, así como para el desarrollo de actividades de vigilancia sobre el desempeño de la Secretaría;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VII. Organizar, dirigir, administrar, supervisar y ejercer el mando directo de las instituciones policiales y demás fuerzas de seguridad estatales y protección civil, así como nombrar y remover a las personas titulares de las mismas a fin de garantizar el desempeño honesto de su personal y aplicar su correspondiente régimen disciplinario;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VIII. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información en materia de Seguridad Ciudadana, mediante métodos que garanticen el estricto respeto a los derechos humanos, con apego a los principios de reserva y confidencialidad en el servicio público;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+IX. Disponer, por acuerdo de la persona titular del Poder Ejecutivo del Estado, del mando de las Instituciones Policiales de Seguridad Ciudadana municipales cuando se considere que existen hechos o acontecimientos presentes o futuros inminentes de fuerza mayor, o que por cualquier motivo alteren gravemente el orden público de uno o más municipios del Estado, con el fin de preservar la vida, integridad física, bienes y derechos de las personas y procurando en todo momento el respeto a los derechos humanos;
 
 X. Autorizar, en el ámbito de su competencia y en términos de la Licencia Oficial Colectiva concedida por la Autoridad Federal, el uso de armas y municiones a los integrantes de las instituciones policiales en el ámbito del Estado;
 
 XI. Cumplimentar las solicitudes de auxilio de la fuerza pública que le presenten las Autoridades Judiciales y Administrativas;
 
-XII. Promover lo conducente para la ejecución de las penas y medidas de seguridad impuestas por las autoridades judiciales; así como, ejecutar la vigilancia y control de las personas que se encuentren cumpliendo una condena a disposición del Poder Judicial a través de los Jueces de Control y de Ejecución de Sentencia y elaborar los programas de reinserción social de sentenciados;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-XIII. Administrar los Centros de Reinserción Social y los Centros de Detención Preventiva y de Ejecución de Penas Privativas de la Libertad del Estado, dando cumplimiento a las resoluciones de los Jueces de Control y de Ejecución de Sentencias; así como, realizar los traslados de procesados y sentenciados que legalmente procedan;
+XII. Promover lo conducente para la ejecución de las penas y medidas de seguridad impuestas por las autoridades judiciales; así como, ejecutar la vigilancia y control de las personas que se encuentren cumpliendo una condena a disposición del Poder Judicial a través de los Jueces de Control y de Ejecución de Sentencia y elaborar los programas de reinserción social de las personas sentenciadas;
 
-XIV. Coordinar, dirigir y vigilar la policía estatal en materia de prevención y reinserción social, de conformidad con las leyes de la materia;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XIII. Administrar los Centros Penitenciarios, los Centros de Ejecución de Medidas para Adolescentes en el Estado y los demás que determinen las disposiciones aplicables, dando cumplimiento a las resoluciones de los Jueces de Control y de Ejecución de Sentencias; así como realizar los traslados de procesados y sentenciados que legalmente procedan;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XIV. Coordinar, dirigir y vigilar a la policía estatal de conformidad con la Ley de Seguridad Ciudadana del Estado de Quintana Roo y las demás leyes de la materia;
 
 XV. Custodiar a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento;
 
@@ -1901,23 +1943,31 @@ XVII. Autorizar, supervisar, verificar, ratificar y controlar los servicios de s
 
 XVIII. Atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones;
 
-XIX. Proponer al Gobernador del Estado, el nombramiento de los titulares de las Unidades Administrativas que integran la secretaría;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XIX. Proponer a la persona titular del Poder Ejecutivo Estatal, el nombramiento de las personas titulares de las Unidades Administrativas que integran la secretaría;
 
 XX. Salvaguardar la integridad y el patrimonio de las personas, prevenir la comisión de delitos, así como preservar la libertad, el orden y la paz públicos;
 
 XXI. Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo;
 
-XXII. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Nacional de Seguridad Pública, con otras Autoridades Federales, Estatales, Municipales y del Distrito Federal, así como establecer acuerdos de colaboración con instituciones similares, en los términos de los tratados internacionales, conforme a la legislación aplicable;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XXII. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Nacional de Seguridad Pública, con otras Autoridades Federales, Estatales, Municipales y de la Ciudad de México, así como establecer acuerdos de colaboración con instituciones similares, en los términos de los tratados internacionales, conforme a la legislación aplicable;
 
 XXIII. Participar en las actividades de vialidad y transporte, con las Autoridades Federales, Estatales y Municipales, así como con las entidades paraestatales cuya competencia y objeto se relacione con estas materias;
 
 XXIV. Certificar los documentos que obren en sus archivos y los expedidos por los servidores públicos que les estén subordinados en ejercicio de sus atribuciones;
 
-XXV. Administrar, vigilar y controlar los Centros de Ejecución de Medidas para Adolescentes del Estado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XXV. Administrar, vigilar y controlar los Centros de Medidas para Adolescentes del Estado;
 
 XXVI. Coordinar, administrar y supervisar los procesos, acciones, políticas, lineamientos y servicios de los Centros de Control, Cómputo y Comando que se establezcan en el Estado;
 
-XXVII. Integrar y actualizar en forma permanente las Bases de Datos del Sistema Nacional de Información en materia de Seguridad Pública;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XXVII. Integrar y actualizar en forma permanente las Bases de Datos del Sistema Nacional de Información, así como la Plataforma de Información en materia de Seguridad Ciudadana del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
 
@@ -2332,3 +2382,11 @@ SEXTO. Los asuntos a cargo de la Secretaría de Desarrollo Social que se encuent
 SÉPTIMO. Las referencias establecidas en los ordenamientos jurídicos, reglamentos, decretos, acuerdos, reglas de operación y en general cualquier disposición que mencione a la Secretaría de Desarrollo Social, se entenderán (sic) a la Secretaría de Bienestar del Estado de Quintana Roo que se enuncia en el presente Decreto.
 
 OCTAVO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 076 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
