@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vivienda-del-estado-de-hidalgo-82368"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-18"
-last_updated: "2021-12-27"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VIVIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del estado de Hidalgo, el lunes 18 de julio de 2011.
 
@@ -59,13 +59,17 @@ II. Promover la colaboración de los sectores social y privado para el mejoramie
 
 III. Establecer las bases para la construcción de los diferentes tipos y modalidades de vivienda, el mejoramiento o autoconstrucción de la misma, así como la creación de reservas territoriales con habilitación de suelo para la vivienda a favor de las familias y personas vulnerables de bajos recursos económicos;
 
-IV. Determinar los lineamientos para la atención prioritaria de vivienda y suelo habitacional hacia la población vulnerable de bajos recursos económicos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+IV. Determinar los lineamientos para la atención prioritaria de vivienda y suelo habitacional hacia los grupos sociales en situación de vulnerabilidad y la población de bajos recursos económicos;
 
 V. Dirigir la política estatal de vivienda en concurrencia con los tres órdenes de gobierno, considerando las condiciones económicas, sociales, de urbanización y poblacionales, que imperan en cada asentamiento humano en el Estado;
 
 VI. Definir los lineamientos generales de la política y los programas de vivienda y suelo habitacional, tanto rural como urbana en el Estado;
 
-VII. Regular las acciones de los sectores público, social y privado, dirigidas a garantizar el derecho y disfrute de una vivienda digna y decorosa para las familias y la población de bajos recursos económicos que habiten en el Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VII. Regular las acciones de los sectores público, social y privado, dirigidas a garantizar el derecho y disfrute de una vivienda digna y decorosa para las familias, los grupos sociales en situación de vulnerabilidad y la población de bajos recursos económicos que habiten en el Estado de Hidalgo;
 
 VIII. Facilitar la producción de vivienda mediante la simplificación y reducción de trámites y requisitos, regulando las acciones de los sectores público, social y privado, dirigidas a fortalecer la seguridad jurídica y disminuir los costos de la vivienda;
 
@@ -109,13 +113,17 @@ VI Ter. Espacios Habitables: el lugar de la vivienda donde se desarrollan activi
 
 VII. Estímulos: Las medidas de carácter jurídico, administrativo, fiscal o financiero que establezcan los diferentes órdenes de gobierno para promover y facilitar la participación de los sectores social y privado, en la ejecución de acciones, procesos o programas de suelo habitacional y de vivienda popular, económica y de interés social;
 
-VIII. Grupos Sociales en Situación de Vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impide alcanzar mejores niveles de vida y por lo tanto, requieren de la atención e inversión del Gobierno para lograr su bienestar;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VIII. Grupos Sociales en Situación de Vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impide alcanzar mejores niveles de vida y por lo tanto, requieren de la atención e inversión prioritarias del Gobierno para lograr su bienestar;
 
 IX. Mejoramiento de la Vivienda: Acción tendiente a consolidar o renovar las viviendas deterioradas, física o funcionalmente, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación que propicien una vivienda digna y decorosa;
 
 X. Política Estatal de Vivienda: Conjunto de disposiciones, criterios, lineamientos y medidas de carácter general, congruentes con la política nacional de vivienda, que establece el Gobierno Estatal en coordinación con los Gobiernos Municipales y con los sectores público, social y privado para garantizar y fomentar el derecho a una vivienda digna y decorosa;
 
-XI. Producción Social de Vivienda: Aquella que se realiza, por una persona física o moral que opera sin fines de lucro pudiendo ser bajo el control de autoproductores y autoconstructores y que se orienta prioritariamente a atender las necesidades habitacionales de la población de bajos ingresos, incluye aquella que se realiza por procedimientos autogestivos y solidarios que dan prioridad al valor de uso de la vivienda mezclando recursos, procedimientos constructivos y tecnologías con base en sus propias necesidades y su capacidad de gestión y toma de decisiones;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XI. Producción Social de Vivienda: Aquella que se realiza, por una persona física o moral que opera sin fines de lucro pudiendo ser bajo el control de autoproductores y autoconstructores y que se orienta prioritariamente a atender las necesidades habitacionales de los grupos sociales en situación de vulnerabilidad y de la población de bajos recursos económicos, incluye aquella que se realiza por procedimientos autogestivos y solidarios que dan prioridad al valor de uso de la vivienda mezclando recursos, procedimientos constructivos y tecnologías con base en sus propias necesidades y su capacidad de gestión y toma de decisiones; Las siguientes fracciones permanecen en sus términos originales.
 
 XII. Promotor o Desarrollador de Vivienda: La persona física o moral encargada de desarrollar fraccionamientos, construir vivienda y ofertar a la población la adquisición de la misma;
 
@@ -161,11 +169,11 @@ XXIV. Vivienda de Tipo Residencial Medio: Aquélla cuyo valor al término de su 
 
 ### CAPÍTULO I. DE LOS LINEAMIENTOS
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 4.
 
-Los principios que regirán en la observancia de esta Ley son: la equidad e inclusión social de manera que, toda persona sin importar su origen étnico o nacional, el género, la edad, la discapacidad, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias o el estado civil, pueda ejercer su derecho constitucional a la vivienda; el respeto a la legalidad y protección jurídica de la propiedad y el combate a la invasión de predios y al crecimiento irregular de las ciudades y zonas rurales.
+Los principios que regirán en la observancia de esta Ley son: la equidad e inclusión social de manera que, toda persona sin importar su origen étnico o nacional, el género, la edad, la discapacidad, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias, orientación sexual, identidad de género, expresión de género o el estado civil, pueda ejercer su derecho constitucional a la vivienda; el respeto a la legalidad y protección jurídica de la propiedad y el combate a la invasión de predios y al crecimiento irregular de las ciudades y zonas rurales.
 
 ###### Artículo 5.
 
@@ -173,11 +181,15 @@ La política de vivienda en el Estado de Hidalgo, se regirá por los siguientes 
 
 I. Elaborar y conformar coordinadamente los programas de vivienda entre los diversos organismos federales, estatales y municipales, con la concertación de los sectores social y privado;
 
-II. Atender al mayor número de personas, preferentemente a la población vulnerable de bajos recursos económicos a través de los programas de vivienda estatales y municipales;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
+II. Atender al mayor número de personas, prioritariamente a los grupos sociales en situación de vulnerabilidad, así como a la población de bajos recursos económicos, a través de los programas de viviendas estatales y municipales;
 
-III. Considerar que la construcción de vivienda para personas con discapacidad, cumpla con las características dispuestas por la Ley de Discapacidad vigente en la Entidad;
+> <small>(REFORMADA [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN IV], P.O. 31 DE MAYO DE 2023)</small>
+
+III. Generar diversos esquemas de financiamiento o cofinanciamiento cuya aplicación se base en el ahorro y el crédito, para la población que no es considerada como sujeto de crédito desde el esquema bancario, además de los grupos sociales en situación de vulnerabilidad, así como la población de bajos recursos económicos;
+
+> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN III, P.O. 31 DE MAYO DE 2023]</small>
 
 IV. Generar diversos esquemas de financiamiento o cofinanciamiento cuya aplicación se base en el ahorro y el crédito, para la población que no es considerada como sujeto de crédito desde el esquema bancario, además de la población vulnerable de bajos recursos económicos;
 
@@ -235,7 +247,9 @@ II. Formular y aprobar el Programa Sectorial de Vivienda, en congruencia con los
 
 III. Celebrar convenios con la Federación, con otras entidades federativas, con los Municipios del Estado y con personas físicas o morales, con el objeto de coordinar los programas y acciones de suelo y vivienda bajo criterios de desarrollo regional, ordenamiento territorial, planeación urbana, sustentabilidad ambiental y vivienda sustentable;
 
-IV. Realizar la planeación, programación y presupuestación de acciones de vivienda, en beneficio de la población que carezca de ellas;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+IV. Realizar la planeación, programación y presupuestación de acciones de vivienda, tendrán como principio generar una redistribución del ingreso para garantizar prioritariamente la realización del derecho a una vivienda digna y decorosa a los grupos sociales en situación de vulnerabilidad, así como la población de bajos recursos.
 
 V. Constituir reservas territoriales para fines habitacionales, en los términos de la presente Ley y de la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo, considerando en su presupuesto los recursos para tal fin;
 
@@ -445,7 +459,9 @@ IX. Fomentar, impulsar y fortalecer la participación de los sectores sociales e
 
 X. Promover el ahorro previo de los solicitantes de subsidios y créditos en vivienda;
 
-XI. Destinar prioritariamente las reservas territoriales de uso habitacional para los sectores de bajos ingresos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+XI. Destinar prioritariamente las reservas territoriales de uso habitacional para los grupos sociales en situación de vulnerabilidad, así como a la población de bajos recursos económicos;
 
 XII. Elaborar y aprobar su reglamento interior;
 
@@ -551,7 +567,9 @@ La presupuestación anual del gasto que en materia de vivienda y suelo programen
 
 I. Las diversas Regiones y Municipios del Estado;
 
-II. Las diferentes necesidades de los segmentos demográficos, objetivo de la política y programas en la materia, otorgando preferencia a familias y personas en situación vulnerable de bajos recursos económicos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+II. Las diferentes necesidades de los segmentos demográficos, objetivo de la política y programas en la materia, otorgando preferencia a familias y grupos sociales en situación de vulnerabilidad, así como a la población de bajos recursos económicos;
 
 III. Los diferentes tipos, modalidades de vivienda y suelo; y
 
@@ -573,9 +591,11 @@ El Estado dentro del presupuesto de egresos, deberá destinar los recursos sufic
 
 La aplicación de recursos públicos para la vivienda en el Estado, tiene por objeto fomentar la promoción para la producción y mejoramiento de ésta, ampliar la oferta habitacional y regular la relación entre el cumplimiento del derecho a la vivienda y los intereses de mercado, de conformidad con el Programa Sectorial de Vivienda.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 27.
 
-El Estado y los Municipios a través de las dependencias y organismos estatales y municipales, implementarán mecanismos y acciones para captar y destinar recursos presupuestales, subsidios, ahorros y financiamientos internos o externos, para los diversos programas de vivienda, que respondan a las necesidades en esta materia de los distintos sectores de la población, preferentemente la de bajos recursos económicos.
+El Estado y los Municipios a través de las dependencias y organismos estatales y municipales, implementarán mecanismos y acciones para captar y destinar recursos presupuestales, subsidios, ahorros y financiamientos internos o externos, para los diversos programas de vivienda, que respondan a las necesidades en esta materia de los distintos sectores de la población, prioritariamente a los grupos sociales en situación de vulnerabilidad, así como a la población de bajos recursos económicos.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
@@ -611,6 +631,10 @@ III. Subsidio, crédito o inversión directa del Estado, cuya aplicación se har
 
 IV. Inversión de otros organismos que en materia de vivienda operen en el Estado;
 
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+
+IV Bis. Instrumentos financieros nacionales y/o internacionales que promuevan recursos para la vivienda, que garanticen la atención prioritaria a los grupos sociales en situación de vulnerabilidad, así como a la población de bajos recursos económicos.
+
 V. Inversión mixta del Estado y aportaciones del sector privado y otras fuentes de financiamiento;
 
 VI. Ahorro de los beneficiarios, conforme a las disposiciones legales en la materia; y
@@ -635,7 +659,9 @@ VI. Implementación de programas de autoproducción y autoconstrucción de vivie
 
 VII. Elaboración y aplicación de programas de crédito para la adquisición de vivienda;
 
-VIII. Otorgamiento de subsidios y apoyos vinculados a los programas de ahorro para la vivienda y de suelo para uso habitacional, de adquisición de vivienda, de autoproducción y autoconstrucción de vivienda, de mejoramiento de vivienda y de adquisición de lotes con servicios, para la población vulnerable de bajos recursos económicos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+
+VIII. Otorgamiento de subsidios y apoyos vinculados a los programas de ahorro para la vivienda y de suelo para uso habitacional, de adquisición de vivienda, de autoproducción y autoconstrucción de vivienda, de mejoramiento de vivienda y de adquisición de lotes con servicios, prioritariamente a los grupos sociales en situación de vulnerabilidad, así como a la población de bajos recursos económicos;
 
 IX. Fomento de actividades científicas, técnicas o cualesquiera otras relacionadas con la vivienda; y
 
@@ -1096,3 +1122,9 @@ P.O. 27 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 7 QUE REFORMA LAS FRACCIONES III DE LOS ARTÍCULOS 7 Y 8; LA FRACCIÓN X DEL ARTÍCULO 10; LAS FRACCIONES III Y IV DEL ARTÍCULO 11; LAS FRACCIONES II, III, IV, V, VI Y VII DEL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 22, Y EL ARTÍCULO 28, TODOS DE LA LEY DE VIVIENDA DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor a partir del primero de enero de 2022.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 496 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO (SIC) HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
