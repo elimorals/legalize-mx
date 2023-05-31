@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-auditorio-cultural-teopanzolco-del-14222
 country: "mx"
 rank: "codigo"
 publication_date: "2020-03-11"
-last_updated: "2020-03-11"
+last_updated: "2023-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL AUDITORIO CULTURAL TEOPANZOLCO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DEL CÓDIGO DE CONDUCTA DEL FIDEICOMISO PÚBLICO CENTRO CULTURAL TEOPANZOLCO O AUDITORIO CULTURAL TEOPANZOLCO, PUBLICADO EN EL P.O. 31 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL CENTRO CULTURAL TEOPANZOLCO O AUDITORIO CULTURAL TEOPANZOLCO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 11 de marzo de 2020.
 
@@ -288,3 +290,15 @@ MTRO. HUGO ANTONIO JUÁREZ RÍOS
 DIRECTOR GENERAL Y PRESIDENTE DEL COMITÉ DE ÉTICA DEL FIDEICOMISO AUDITORIO CULTURAL TEOPANZOLCO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL FIDEICOMISO PÚBLICO CENTRO CULTURAL TEOPANZOLCO O AUDITORIO CULTURAL TEOPANZOLCO.”]
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDA. Se derogan las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al contenido del presente acuerdo.
+
+TERCERA. Se abroga el Código de Conducta del Centro Cultural Teopanzolco o Centro Cultural Teopanzolco, publicado en el Periódico Oficial “Tierra y Libertad”, número 5793, el 11 de marzo de 2020.
