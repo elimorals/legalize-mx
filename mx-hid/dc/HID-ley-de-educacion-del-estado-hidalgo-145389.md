@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2022-10-27"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -1179,6 +1179,10 @@ Para el mantenimiento de los muebles e inmuebles, así como los servicios e inst
 
 La Secretaría promoverá la participación directa de los municipios para dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales. Los municipios coadyuvarán en el mantenimiento de los planteles educativos y en la provisión de los servicios de seguridad, agua, telefonía, internet y energía eléctrica para las escuelas.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Los municipios podrán incluir en sus respectivos presupuestos de egresos, de conformidad a la disponibilidad presupuestal, un apartado específico en el que establezcan las previsiones suficientes y fuentes de financiamiento para coadyuvar con lo dispuesto en el presente artículo.
+
 Los particulares, ya sean personas físicas o morales, podrán coadyuvar en el mantenimiento de las escuelas públicas, previo acuerdo con la Secretaría. Las acciones que se deriven de la aplicación de este párrafo, en ningún caso implicarán la sustitución de los servicios del personal de la escuela, tampoco generarán cualquier tipo de contraprestación a favor de los particulares.
 
 ###### Artículo 112.
@@ -1424,6 +1428,10 @@ En el caso de que tales recursos se utilicen para fines distintos, se estará a 
 ###### Artículo 122.
 
 El gobierno del Estado de Hidalgo, de conformidad con las disposiciones aplicables y la disponibilidad presupuestal, proveerá lo conducente para que cada ayuntamiento reciba recursos para el cumplimiento de las responsabilidades que en términos de esta Ley estén a cargo de la autoridad municipal.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Los municipios deberán reflejar íntegramente en sus respectivos presupuestos de egresos los recursos que les sean otorgados por el gobierno del Estado de Hidalgo y el gobierno Federal para el cumplimiento de sus responsabilidades en materia educativa y no podrán ser utilizados con fines distintos a los establecidos en la presente Ley.
 
 ###### Artículo 123.
 
@@ -2170,5 +2178,11 @@ P.O. 27 DE OCTUBRE DE 2022.
 P.O. 27 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 287 REFORMA LA FRACCIÓN I DEL ARTÍCULO 142 QUINQUIES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO Y ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 514 POR EL QUE SE ADICIONA EL INCISO S TER) A LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO; Y LA ADICIÓN DE UN TERCER PÁRRAFO, RECORRIÉNDOSE EL SUBSECUENTE, AL ARTÍCULO 111 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 122 DE LA LEY DE EDUCACIÓN DEL ESTADO HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
