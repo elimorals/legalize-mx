@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2022-12-06"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -277,13 +277,13 @@ La disposición de esta facultad es exclusiva del ciudadano mexicano en asuntos 
 
 No se reputará ilegal ni podrá ser disuelta una asamblea o reunión cuyo objeto sea formular peticiones o presentar protesta por actos de autoridad, a condición de no proferir injurias contra ésta, ni de acudir a violencias o amenazas para intimidarla u obligarla a resolver en determinado sentido.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 19.
 
 Los derechos de tránsito por el Estado, y mudar de residencia dentro del mismo, no requerirán de documento alguno, pero estarán supeditados a las facultades de la autoridad judicial en los casos de responsabilidad civil o criminal, y a la autoridad administrativa por cuanto a las limitaciones que impongan las leyes sobre migración, y las que se establezcan con arreglo a disposiciones federales y locales en materia de salubridad.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2016)</small>
-
-Se reconoce el derecho de toda persona y colectividad, a la movilidad bajo los principios de igualdad, accesibilidad, sostenibilidad y equilibrio con el medio ambiente. Toda persona con discapacidad tiene derecho a que se facilite su movilidad y a la supresión de todas las barreras arquitectónicas para su desplazamiento.
+Se reconoce el derecho que tienen todas las personas y la colectividad a la movilidad, bajo los principios de seguridad vial, igualdad, accesibilidad, sostenibilidad, eficiencia, calidad, e inclusión. Toda persona con discapacidad tiene derecho a que se facilite su movilidad y a la supresión de todas las barreras arquitectónicas para su desplazamiento.
 
 ###### ARTICULO 20.
 
@@ -3793,7 +3793,9 @@ Los bienes del dominio público municipal son inalienables, imprescriptibles e i
 
 Los Municipios, en los términos de las Leyes federales y estatales relativas, estarán facultados para:
 
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+a) Formular, aprobar y administrar la zonificación, de los planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial.
 
 b) Participar en la creación y administración de sus reservas territoriales;
 
@@ -3819,7 +3821,9 @@ k) Participar conjuntamente con los organismos y dependencias oficiales competen
 
 l) Solicitar al Ejecutivo del Estado, la expropiación de bienes inmuebles por causa de utilidad pública.
 
-Los Municipios en el ámbito de su competencia, sujetándose a las Leyes de la materia, federales y estatales, planearán y regularán de manera conjunta y coordinada el desarrollo de los centros urbanos que por encontrarse situados en dos o más territorios municipales formen o tiendan a formar una continuidad geográfica y demográfica.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Los Municipios en el ámbito de su competencia, sujetándose a las leyes de la materia, federales y estatales, planearán y regularán de manera conjunta y coordinada al desarrollo de los centros urbanos, incluyendo criterios para la movilidad y seguridad vial que por encontrarse situados en dos o más territorios municipales formen o tiendan a formar una continuidad geográfica y demográfica.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -5602,3 +5606,13 @@ P.O. 6 DE DICIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto, de igual o inferior jerarquía.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “PROMULGACIÓN DEL DECRETO NÚMERO: 077 POR EL QUE SE REFORMAN EL ARTÍCULO 19, EL INCISO A) Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 155, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La implementación del presente Decreto será de manera progresiva sin afectar al presupuesto vigente aprobado para el Ejercicio Fiscal 2023.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
