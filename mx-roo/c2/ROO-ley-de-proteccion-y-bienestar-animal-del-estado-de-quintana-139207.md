@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-bienestar-animal-del-estado-de-quintana-139
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2022-09-08"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
 
 Ley publicada en el Número 133 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 25 de noviembre de 2019.
 
@@ -227,31 +227,41 @@ VI. Dos representantes de Asociaciones Protectoras de Animales Internacionales l
 
 El cargo de integrante del Consejo será honorífico. En el caso de los integrantes a que se refieren las fracciones V y VI durarán en su encargo un período de 4 años, pudiendo ser designados para un mismo período adicional.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+
 ###### Artículo 9.
 
 Los Consejos Consultivos Ciudadanos Municipales para la Atención y Bienestar Animal, son órganos de consulta y de participación ciudadana, cuya finalidad principal es realizar acciones de promoción en el fomento de la cultura, educación y programas en materia de protección y bienestar de los animales.
 
 Los Consejos Consultivos Ciudadanos Municipales para la Atención y Bienestar Animal estarán integrados en cada uno de los Municipios por:
 
-I. Un Regidor perteneciente a la Comisión de Salud Pública y Asistencia Social;
+I. Una persona regidora perteneciente a la Comisión de Salud Pública y Asistencia Social;
 
-II. Un Regidor perteneciente a la Comisión de Ecología, Ambiente y Protección Animal;
+II. Una persona regidora perteneciente a la Comisión de Ecología, Ambiente y Protección Animal;
 
-III. El Director de Ecología y/o Protección Animal;
+III. Una persona regidora perteneciente a la Comisión de Educación, Cultura y Deportes;
 
-IV. El Director de Salud;
+IV. Una persona regidora perteneciente a la Comisión de Espectáculos y Diversiones;
 
-V. El Director de Seguridad Pública Municipal;
+V. La persona titular de la dependencia en materia de ecología y/o protección animal;
 
-VI. El Director o Coordinador de Protección Civil Municipal;
+VI. La persona titular de la dependencia en materia de salud;
 
-VII. Dos Médicos Veterinarios Zootecnistas, mismos que deberán contar con título y cédula profesional;
+VII. La persona titular de la Dirección de Seguridad Pública Municipal;
 
-VIII. Dos integrantes de las Asociaciones Protectoras de Animales legalmente constituidas y registradas en el padrón correspondiente, y
+VIII. La persona titular de la dependencia o coordinación en materia de protección civil;
 
-IX. Un representante de grupos u organizaciones protectoras de animales no constituidas.
+IX. Dos personas profesionistas en medicina veterinaria zootecnista, mismas que deberán contar con título y cédula profesional;
 
-El cargo de integrante del Consejo será honorífico. En el caso de los integrantes a que se refieren las fracciones VIII y IX durarán en su encargo un período de 4 años, pudiendo ser designados para un mismo período adicional.
+X. Dos personas integrantes de asociaciones protectoras de animales debidamente constituidas y registradas en el padrón correspondiente, y
+
+XI. Una persona representante de grupos u organizaciones protectoras de animales no constituidas
+
+El cargo de integrante del Consejo será honorífico.
+
+En el caso de las personas integrantes a que se refieren las fracciones X y XI del presente artículo durarán en su encargo un período de 4 años, pudiendo ser designados para un mismo período adicional.
+
+Cuando se estime necesario enriquecer o aclarar aspectos técnicos, administrativos o de cualquier otra naturaleza relacionados con los asuntos sometidos a la atención del Consejo Consultivo Ciudadano Municipal para la Atención y Bienestar Animal, a solicitud de cualquiera de las personas integrantes de dicho Consejo se podrá invitar a sus sesiones a las personas regidoras del Ayuntamiento que corresponda de acuerdo a su materia, a las organizaciones o asociaciones de la sociedad civil, o a representantes de la ciudadanía en general, quienes participarán con voz pero sin voto.
 
 ###### Artículo 10.
 
@@ -1450,3 +1460,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Ejecutivo del Estado, dentro del plazo de 30 días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto, deberá efectuar las modificaciones correspondientes al Reglamento de la Ley y demás marco normativo aplicable, a los términos previstos en el presente Decreto.
 
 TERCERO. Se derogan las disposiciones legales que contravengan lo establecido en el presente Decreto.
+
+P.O. 31 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 060 POR EL QUE SE REFORMA EL ARTÍCULO 9 DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La persona titular del Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de su competencia y en un plazo de ciento ochenta días naturales posteriores a la entrada en vigor del presente decreto, deberán realizar las adecuaciones correspondientes a los reglamentos de la materia.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
