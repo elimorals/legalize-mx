@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2022-12-27"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -1883,11 +1883,49 @@ VII. Las suplencias, y
 
 VIII. Lo demás que se considere necesario para el correcto desempeño del organismo operador, en cumplimiento de las disposiciones de esta Ley.
 
-#### SECCION PRIMERA. De la Participación de los Sectores Social y Privado
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 1 DE JUNIO DE 2023)</small>
+
+#### Sección Séptima. Del Consejo Potosino de Organismos Operadores Descentralizados de Agua
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+ARTICULO 107 BIS. El consejo potosino de organismos operadores descentralizados de agua es un órgano colegiado y de carácter honorífico, conformado por los directores generales de los organismos operadores descentralizados de agua en la Entidad.
+
+A sus reuniones que tenga el consejo se podrá invitar al director general de la comisión estatal del agua, al director local de la comisión nacional del agua en la Entidad y a cualquier otro servidor público que consideren pertinente y oportuno.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+ARTICULO 107 TER. El consejo potosino de organismos operadores descentralizados de agua tiene como objetivos:
+
+I. Servir como un espacio de diálogo, enfocado a compartir experiencias en el servicio, promover buenas prácticas y visibilizar problemas existentes relacionados a la provisión del servicio de agua potable, y
+
+II. Promover la comunicación y, en lo aplicable, la coordinación entre organismos operadores descentralizados de agua en lo relativo a la prestación del servicio de agua potable.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+ARTICULO 107 QUÁTER. Los integrantes del consejo potosino de organismos operadores descentralizados de agua, designarán por mayoría de votos de entre los directores generales de los organismos, a un presidente, dos secretarios y cuatro vocales.
+
+El presidente y los cargos a que se refiere el párrafo anterior, durarán tres años en funciones, pudiendo ser reelectos por una sola ocasión.
+
+Los cargos de las personas integrantes del consejo serán honoríficos, por lo que en ningún caso tendrán derecho a remuneración alguna.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+ARTICULO 107 QUINQUE. El consejo potosino de organismos operadores descentralizados de agua sesionará por lo menos una vez cada tres meses en forma ordinaria, y podrá sesionar de forma extraordinaria mediante convocatoria de su presidente, o a solicitud de la mayoría de sus miembros.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+ARTICULO 107 SEXTIES. Las sesiones del consejo potosino de organismos operadores descentralizados de agua se considerarán válidas siempre que cuenten con la concurrencia de la mayoría de sus miembros, y esté presente su presidente. Los acuerdos y resoluciones del consejo se tomarán por mayoría de votos de los asistentes; en caso de empate, la persona que presida tendrá voto de calidad. Los acuerdos y resoluciones del consejo no serán vinculantes.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+ARTICULO 107 SEPTIES. Lo no previsto en esta Ley, relativo (sic) consejo potosino de organismos operadores descentralizados de agua se establecerá en el Reglamento de la misma.
+
+Las sesiones del consejo, se realizarán preferentemente de manera remota, utilizando las tecnologías de telecomunicaciones disponibles. Las fechas de celebración de las sesiones, serán notificadas por medio de convocatoria a sus miembros, que incluirá el orden del día, con tres días hábiles de anticipación.
 
 ### CAPITULO V. De la Participación Social y Privada
 
-#### SECCION SEGUNDA. De las Empresas de Participación Municipal
+#### SECCION PRIMERA. De la Participación de los Sectores Social y Privado
 
 ###### ARTICULO 108.
 
@@ -1921,9 +1959,7 @@ Los contratos y convenios a que refiere este artículo se consideran de derecho 
 
 A los contratos se aplicarán lo que respecto a las concesiones se establece en los artículos 115, 119, 123 segundo párrafo, 125 fracciones I, II, III, IV y VI, 126 y 128 de esta Ley.
 
-#### SECCION TERCERA. De las Concesiones
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2012)</small>
+#### SECCION SEGUNDA. De las Empresas de Participación Municipal
 
 ###### ARTICULO 111.
 
@@ -1940,6 +1976,10 @@ La constitución, organización y funcionamiento de las sociedades anónimas de 
 En caso de que los organismos operadores descentralizados se constituyan como sociedades anónimas a las que se refiere el artículo 111 de esta Ley, el ayuntamiento podrá acordar, cuando así lo considere conveniente, la venta parcial o total de las acciones representativas de su capital social, previa aprobación del Congreso del Estado, y a través de licitación pública en los términos de ley.
 
 Cuando los sectores social o privado posean más del cincuenta por ciento de las acciones representativas del capital social, se dejará de aplicar a la sociedad de que se trate, las disposiciones de esta sección y se les aplicará lo relativo a las concesiones.
+
+#### SECCION TERCERA. De las Concesiones
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 114.
 
@@ -3758,3 +3798,17 @@ P.O. 27 DE DICIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 1 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0766.- SE ADICIONA LA SECCIÓN SÉPTIMA DENOMINADA “DEL CONSEJO POTOSINO DE ORGANISMOS OPERADORES DESCENTRALIZADOS DE AGUA” AL CAPÍTULO IV DEL TÍTULO QUINTO, CON LOS ARTÍCULOS 107 BIS, 107 TER, 107 QUÁTER, 107 QUINQUE, 107 SEXTIES Y 107 SEPTIES, A LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+TERCERO. En los tres meses siguientes a la publicación de este Decreto en el Periódico Oficial del Estado “Plan de San Luis”, se deberá reformar el Reglamento de la Ley de Aguas para el Estado de San Luis Potosí, para adecuarlo a las modificaciones que se derivan de este Decreto.
+
+CUARTO. El director general de la Comisión Estatal del Agua dentro de los treinta días hábiles a partir de la entrada en vigencia de este Decreto, convocará a los directores generales de los organismos operadores descentralizados de agua, para que en reunión designen al presidente, secretarios y vocales que refiere el párrafo primero del artículo 107 QUÁTER de este Decreto y se instale formalmente el consejo.
+
+QUINTO. Para los efectos de lo dispuesto por (sic) párrafo segundo del artículo 107 QUÁTER de este Decreto, por esta sola ocasión, el presidente, secretarios y vocales que sean elegidos en el plazo previsto por el artículo transitorio que antecede, durarán en su cargo a partir de que sean elegidos hasta la conclusión del ejercicio constitucional de las administraciones municipales actuales.
