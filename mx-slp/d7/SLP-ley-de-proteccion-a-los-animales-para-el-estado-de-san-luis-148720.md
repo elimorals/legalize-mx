@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-a-los-animales-para-el-estado-de-san-luis-148
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-23"
-last_updated: "2023-05-29"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 23 de marzo de 2021.
 
@@ -102,6 +102,10 @@ IV. Animal de compañía: Todo animal conservado y adaptado por el ser humano pa
 V. Animal en adopción: Todo aquel que ha sido entregado mediante dicho procedimiento;
 
 VI. Animal Feral: El animal doméstico que al quedar fuera del control del ser humano se establece en hábitat de la vida silvestre, sin que forzosamente deba sacrificarse y pudiendo ser nuevamente domesticado al igual que sus descendientes;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2023)</small>
+
+VI Bis. Animal para monta, carga, tiro y labranza: los caballos, yeguas, ponis, mulas, asnos, reses, sus mezclas y demás análogos que son utilizados por el ser humano para transportar personas o productos, para realizar trabajos de tracción y/o que su uso reditúe beneficios económicos a su propietario, poseedor o encargado;
 
 VII. Animal Silvestre: Especie no doméstica, que vive en un hábitat silvestre y se allega por si sola sus cuidados y alimentos;
 
@@ -275,31 +279,47 @@ Se denomina así a los animales domésticos que auxilien o compartan actividades
 
 Son de trabajo, los animales, que se utilizan por el hombre para realizar el servicio de carga, tiro o monta de jinetes.
 
-###### ARTICULO 32.
+###### ARTÍCULO 32.
 
 Toda persona que sea propietaria, encargada o posea un animal de carga, tiro o monta, debe procurarle alimentación, cuidados apropiados, atención médica, preventiva y correctiva.
 
-Las áreas en donde vivan, de acuerdo con los requerimientos de su especie, deberán ser adecuadas conforme a las condiciones físicas y de entorno, parecidas al hábitat natural de cada especie.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+Las áreas en donde vivan, de acuerdo con los requerimientos de su especie, deberán ser adecuadas conforme a las condiciones físicas y de entorno, parecidas al hábitat natural de cada especie, debiendo mantener las instalaciones en estado higiénico y sanitario, conforme las normas oficiales mexicanas correspondientes lo establezcan.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 33.
 
-Los animales de trabajo, deberán contar para su resguardo con una caballeriza, morada, refugio, albergue o casa adecuada, en dimensiones, de acuerdo a su especie, raza y tamaño del que le permita protegerse de las condiciones climatológicas y de cualquier otro factor externo que les ocasiona daño, sufrimiento o tensión.
+Los animales de trabajo, deberán contar para su resguardo con una caballeriza, morada, refugio, albergue o casa adecuada, en dimensiones, de acuerdo a su especie, raza y tamaño del que le permita protegerse de las condiciones climatológicas y de cualquier otro factor externo que les ocasiona daño, sufrimiento o tensión, debiendo mantener las instalaciones en estado higiénico y sanitario, conforme las normas oficiales mexicanas correspondientes lo establezcan.
 
-###### ARTICULO 34.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
 
-Los animales de trabajo, deberán ser atendidos por sus dueños, encargados o poseedores, quienes les brindarán suficiente alimento y agua en cantidad adecuada a su proporción, además de otorgarles descanso después de su jornada de trabajo, así como otras medidas zoosanitarias que las normas y dependencias oficiales establezcan.
+###### ARTÍCULO 34.
+
+Los animales de trabajo deberán ser atendidos por sus dueños, encargados o poseedores, quienes les brindarán suficiente alimento y agua en cantidad adecuada a su proporción, evitando someterlos a jornadas excesivas de trabajo, debiendo hacerlos descansar en intervalos necesarios, y se les brindarán las medidas zoosanitarias que las normas y dependencias oficiales establezcan.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 35.
 
-Los animales de tiro, no podrán ser cargados en ningún caso con un peso superior a la tercera parte del suyo, ni agregar a ese peso, el de una persona; la carga se distribuirá proporcionalmente sobre el animal y cuidando que no le cause contusiones, laceraciones o heridas.
+Los animales de tiro o de tracción de vehículos, no podrán ser cargados en ningún caso con un peso superior a la tercera parte del suyo, ni agregar a ese peso el de una persona; la carga se distribuirá proporcionalmente sobre el animal, considerando su naturaleza y estado físico, cuidando que no se les cause contusiones, laceraciones o heridas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 36.
 
-Los vehículos de tracción animal, no podrán ser cargados con peso excesivo, teniendo en cuenta las condiciones físicas y fisiológicas de los animales que se empleen, ni por periodos excesivos, debiendo proporcionar al animal descanso necesario para no causarle sufrimiento, heridas, laceraciones, enfermedad o muerte, de acuerdo con las medidas y especificaciones establecidas en las normas oficiales vigentes.
+Los vehículos de tracción animal, no podrán ser cargados con peso excesivo, y los animales que son usados para tal efecto no deberán ser someterlos (sic) a periodos excesivos de trabajo, debiendo proporcionarle al animal descanso necesario para no causarle sufrimiento, heridas, laceraciones, enfermedad o muerte, de acuerdo con las medidas y especificaciones establecidas en las normas oficiales mexicanas vigentes.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+Se prohíbe el uso y tránsito de vehículos tirados por animales, utilizados para la recolección de fierro, basura o residuos domésticos.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 37.
 
-Los animales que se empleen para carga, tiro o monta, deberán ser uncidos sin maltrato y evitando que se lesionen.
+Los animales que se empleen para carga, tiro, monta y labranza deberán ser uncidos sin maltrato y evitando que tal actividad les cause daño o lesiones.
 
 ###### ARTÍCULO 38.
 
@@ -331,7 +351,9 @@ III. Cargar, montar o uncir al que presente llagas, atadura u otras lesiones;
 
 IV. Obligar al que se haya caído, a levantarse fustigándolo;
 
-V. Utilizarlo para carga, tiro o monta, en condiciones fisiológicas no aptas, como los desnutridos, enfermos, con lesiones, contusiones, heridas o laceraciones;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2023)</small>
+
+V. Utilizarlo para carga, tiro, monta o labranza en condiciones fisiológicas no aptas, como los desnutridos, enfermos, con lesiones, contusiones, heridas o laceraciones, así como los impedidos para trabajar debido a su poca o avanzada edad, y cabalgar sobre animales de este tipo que se encuentren en estas condiciones;
 
 VI. Usar para la carga, tiro o monta sin causa justificada, cualquier animal menor de un año, así como hembras en periodo próximo a parir, entendido éste como el último tercio de la gestación;
 
@@ -1144,3 +1166,13 @@ P.O. 29 DE MAYO DE 2023.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0767.- SE REFORMAN LOS ARTÍCULOS 32 EN SU PÁRRAFO SEGUNDO, 33, 34, 35, 36, 37 Y 39 EN SU FRACCIÓN V; Y SE ADICIONA AL ARTÍCULO 4°, LA FRACCIÓN VI, Y EL ARTÍCULO 36, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. La prohibición prevista en el ahora párrafo segundo del artículo 36 de este Decreto, entrará en vigencia en un año a partir de que entre en vigor el citado Decreto. Tiempo que tendrán las personas para sustituir a los animales que utilizan para tirar vehículos de tracción que recogen fierro, basura o residuos domésticos por otro medio.
