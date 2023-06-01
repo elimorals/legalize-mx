@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2023-05-15"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -57,7 +57,9 @@ La presente Ley es de observancia general y obligatoria en el Estado de San Luis
 
 El trabajo es un derecho y un deber social, y ha de efectuarse en condiciones de equidad e igualdad entre mujeres y hombres, que aseguren la integridad física y mental, así como un nivel económico decoroso para las personas trabajadoras y su familia, en un marco de libertad y dignidad, no discriminación y libre de violencia.
 
-No podrán establecerse distinciones entre las personas trabajadoras del servicio público por motivo de género, edad, etnia, preferencias políticas, religiosas o culturales, condición socioeconómica, cultural, discapacidad, enfermedad, orientación sexual o todas aquellas que puedan resultar discriminatorias.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+No podrán establecerse distinciones entre las personas trabajadoras del servicio público por motivo de origen étnico, nacional o regional, sexo, género, edad, discapacidad, condición social, económica o de salud, apariencia física, por embarazo, opiniones, preferencias sexuales, políticas o culturales, estado civil, por tener tatuajes o modificaciones corporales, costumbres, raza, ideologías, creencias religiosas, migración o cualquier otra condición que dé origen a conductas que atenten contra la dignidad humana o que tengan por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### ARTICULO 3o.
 
@@ -2250,6 +2252,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 15 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0747.- SE REFORMA LA FRACCIÓN III, DEL ARTÍCULO 61; Y ADICIONA PÁRRAFO ÚLTIMO, AL ARTÍCULO 61, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0765.- SE REFORMA EL ARTÍCULO 2° EN SU PÁRRAFO SEGUNDO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 1° Y 8° EN SU FRACCIÓN XXXVII, SU PÁRRAFO PRIMERO, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
