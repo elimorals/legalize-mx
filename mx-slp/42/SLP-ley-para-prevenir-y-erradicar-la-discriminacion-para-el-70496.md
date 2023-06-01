@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-y-erradicar-la-discriminacion-para-el-70496"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2022-11-08"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -43,9 +43,11 @@ LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION PARA EL ESTADO DE SAN LUIS POTOS
 
 ### Capítulo Unico. Del Objeto, Sujetos y Conceptos
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
+
 ###### ARTICULO 1°.
 
-Esta Ley es de orden público, interés social y de observancia general, que bajo el principio de la dignidad de todo ser humano, regula el derecho de las personas a no ser discriminadas en razón de su origen étnico, nacional o regional, género, edad, discapacidades, condición social o económica, condiciones de salud, embarazo, opiniones, preferencias, estado civil, trabajo desempeñado, costumbres, raza, ideologías, creencias religiosas, migración o cualquier otra característica que atente contra su dignidad y tenga por objeto anular o menoscabar sus derechos y libertades.
+Esta Ley es de orden público, interés social y de observancia general, que bajo el principio de la dignidad de todo ser humano, regula el derecho de las personas a no ser discriminadas en razón de su origen étnico, nacional o regional, sexo, género, edad, discapacidad, condición social, económica o de salud, apariencia física, embarazo, opiniones, preferencias, estado civil, trabajo desempeñado, por tener tatuajes o modificaciones corporales, costumbres, raza, ideologías, creencias religiosas, migración o cualquier otra condición que dé origen a conductas que atentan contra la dignidad humana o que tengan por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### ARTICULO 2°.
 
@@ -161,9 +163,9 @@ XXXV. Realizar o promover el maltrato físico o psicológico, por la apariencia 
 
 XXXVI. Impedir o negar la participación pública, especialmente en áreas de salud, justicia y desarrollo humanos (sic);
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JUNIO DE 2023)</small>
 
-XXXVII. Condicionar, limitar o restringir las oportunidades de empleo, permanencia o ascenso laborales por razón de tener tatuajes en el cuerpo;
+XXXVII. Condicionar, limitar o restringir las oportunidades de empleo, permanencia o ascenso laborales por razón de tener tatuajes o modificaciones corporales.
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
 
@@ -370,3 +372,11 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0765.- SE REFORMA EL ARTÍCULO 2º EN SU PÁRRAFO SEGUNDO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 1º Y 8º EN SU FRACCIÓN XXXVII, SU PÁRRAFO PRIMERO, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
