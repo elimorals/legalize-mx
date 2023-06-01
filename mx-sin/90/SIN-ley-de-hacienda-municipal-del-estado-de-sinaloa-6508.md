@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2022-01-28"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -469,6 +469,12 @@ VI.- Propietarios de plantas de beneficio o establecimientos mineros y metalúrg
 
 VII.- El que por simple detentación obtenga algún provecho o beneficio de predios del dominio de la Federación, el Estado o de sus Municipios, aún cuando la causa que lo origine no se apoye en título alguno; sin que con ello se legitime al detentador, que en todo caso tendrá que dirimir sus derechos ante los Tribunales competentes.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+ARTICULO 31 BIS.- Los adquirentes de productos obtenidos de la actividad agrícola, acuícola, ganadera, porcícola y avícola, así como las personas físicas o morales que por cualquier título funjan como intermediarios o mediadores entre productores o adquirentes deberán retener al productor el impuesto predial tratándose de predios rústicos, debiendo enterarlo ante la Oficina Recaudadora correspondiente a más tardar el día 15 del mes siguiente a aquél en que se hubieren recibido o adquirido los bienes antes señalados, mediante la presentación de una declaración en la que se indique la fecha de adquisición de los productos, el importe total pagado y la clave catastral de los predios donde se produjeron, debiendo entregar constancia de la retención del impuesto al productor.
+
+La obligación de pago del productor subsiste cuando la persona obligada a retener el impuesto no la efectúa.
+
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 32.
@@ -481,9 +487,17 @@ II.- El nudo propietario cuando se trate de un bien dado en usufructo;
 
 III.- El representante legal de asociaciones, sociedades y comunidades, respecto de los predios que por cualquier título posean;
 
-IV.- Tratándose de predios rústicos destinados a la agricultura, acuicultura, ganadería, porcicultura y avicultura, responderán solidariamente del pago del impuesto predial los adquirentes de productos que se generen en las actividades señaladas anteriormente, así como las personas físicas o morales que por cualquier título funjan como intermediarios o mediadores entre productores o adquirentes; y,
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2023)</small>
 
-V.- El comisariado o representante ejidal, en los términos de la legislación agraria federal, tratándose de la fracción III del artículo 30 de esta Ley.
+IV.- Tratándose de predios rústicos destinados a la agricultura, acuicultura, ganadería, porcicultura y avicultura, responderán solidariamente del pago del impuesto predial los adquirentes de productos que se generen en las actividades señaladas anteriormente, así como las personas físicas o morales que por cualquier título funjan como intermediarios o mediadores entre productores o adquirentes, cuando omitan cumplir con la obligación de retener y enterar el impuesto, o solo su entero, ante la Oficina Recaudadora;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2023)</small>
+
+V.- El comisariado o representante ejidal, en los términos de la legislación agraria federal, tratándose de la fracción III del artículo 30 de esta Ley; y,
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2023)</small>
+
+VI.- Los retenedores y las personas a quienes esta ley les imponga la obligación de recaudar el impuesto a cargo de los contribuyentes, hasta por el monto de dichas contribuciones.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -687,23 +701,35 @@ II.- Para los que les resulte aplicable la tarifa contenida en la fracción II d
 
 a).- Pagar el impuesto en la Oficina Recaudadora a cuya jurisdicción corresponda el lugar de procedencia de los productos agrícolas, acuícolas, ganaderos, porcícolas y avícolas.
 
-El impuesto deberá pagarse al salir los productos del predio rústico de origen o al efectuarse la primera venta. En caso de que los productos se destinen para su uso dentro del propio predio o sean almacenados dentro de éste, el impuesto se cubrirá en un plazo máximo de 30 días después de haberse efectuado la cosecha.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
 
-b).- Los productores deberán recabar y conservar por el término de 5 años, los recibos o documentos mediante los cuales se compruebe que los impuestos causados fueron debidamente cubiertos de conformidad con las demás disposiciones que se establecen en el presente capítulo.
+El impuesto deberá pagarse al salir los productos del predio rústico de origen o al efectuarse la primera venta, caso en el cual el adquirente efectuará la retención del impuesto, que deberá enterar ante la Oficina Recaudadora correspondiente dentro del plazo establecido en el artículo 31 Bis de esta Ley. En caso de que los productos se destinen para su uso dentro del propio predio o sean almacenados dentro de éste, el impuesto se cubrirá en un plazo máximo de 15 días después de haberse efectuado la cosecha.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+b).- Los productores deberán recabar y conservar por el término de 5 años, los recibos o documentos mediante los cuales se compruebe que los impuestos causados fueron debidamente cubiertos o retenidos de conformidad con las demás disposiciones que se establecen en el presente capítulo.
 
 c).- Los adquirentes de la producción agrícola, acuícola, ganadera, porcícola y avícola, así como los intermediarios o mediadores entre estos y los productores, adicionalmente se sujetarán a lo siguiente:
 
-1.- Deberán registrarse en las Oficinas Recaudadoras de su Jurisdicción, debiendo efectuar dicho registro dentro de los diez días hábiles siguientes a la fecha de iniciación de sus operaciones.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+1.- Deberán registrarse en las Oficinas Recaudadoras de su jurisdicción, debiendo efectuar dicho registro dentro de los diez días hábiles siguientes a la fecha de iniciación de sus operaciones; así como enterar el impuesto retenido en términos del artículo 31 Bis de esta Ley.
 
 2.- Presentar dentro de los cinco días posteriores a cada quincena, una declaración de los productos comprados durante este período.
 
-3.- Acompañarán a la declaración a que se refiere el párrafo anterior, los recibos o constancias de pago de los impuestos respectivos, los cuales serán devueltos por la Oficina Recaudadora una vez efectuada la verificación de los mismos y la certificación de la declaración correspondiente.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+3.- Acompañarán a la declaración a que se refiere el párrafo anterior, los recibos o constancias donde se acredite la retención y entero del pago de los impuestos respectivos, los cuales serán devueltos por la Oficina Recaudadora una vez efectuada la verificación de los mismos y la certificación de la declaración correspondiente.
 
 4.- Darán de baja su registro ante la Oficina Recaudadora, dentro de los diez días siguientes a la fecha de terminación de sus operaciones.
 
 5.- Podrán realizar en una sola exhibición el pago del impuesto correspondiente al producto obtenido de varios productores previa autorización de la autoridad fiscal competente, cuando se siga este procedimiento estarán obligados a proporcionar a cada uno de los productores constancia escrita del pago del impuesto. En dicha constancia deberá indicarse el número y la fecha del recibo de pago, así como el mes a que corresponda la declaración en que se certifica por la Oficina Recaudadora la presentación del mencionado recibo.
 
 III.- Para aquellos contribuyentes que se ubican en el caso del inciso b) de la fracción II del Artículo 34 deberán cubrir el impuesto anual a más tardar dentro del cuarto trimestre del ejercicio de que se trate.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+ARTICULO 37 BIS.- La Tesorería Municipal podrá celebrar convenios con los retenedores de este impuesto, con el objeto de facilitar la forma de recaudación del mismo.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -3298,3 +3324,9 @@ P.O. 28 DE ENERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 530 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 499 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
