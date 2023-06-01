@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-instituciones-y-procedimientos-electorales-del-101778"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2022-07-12"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 30 de junio de 2014.
 
@@ -2675,9 +2675,11 @@ Los consejeros electorales, el Secretario Ejecutivo y los demás servidores púb
 
 El Secretario Ejecutivo y los demás servidores públicos del Instituto Electoral estarán sujetos al régimen de responsabilidades establecidas en la Ley General de Responsabilidades Administrativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2023)</small>
+
 ###### Artículo 267.
 
-Para la preparación del proceso electoral, el Consejo General se reunirá a más tardar el treinta de septiembre del año previo al en que se celebren las elecciones ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará ordinariamente por lo menos una vez al mes y extraordinariamente tantas veces su Presidente lo estime necesario o a petición que le sea formulada por cuando menos tres de los demás consejeros electorales o por la mayoría de los representantes de los partidos políticos, conjunta o independientemente.
+Para la preparación del proceso electoral, el Consejo General se reunirá en Sesión Solemne a más tardar la primera semana del mes diciembre del año previo en el que se celebren las elecciones ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará ordinariamente por lo menos una vez al mes y extraordinariamente tantas veces su Presidenta o Presidente lo estime necesario o a petición que le sea formulada por cuando menos tres de las demás consejeras o consejeros electorales o por la mayoría de las y los representantes de los partidos políticos, conjunta o independientemente.
 
 Concluido el proceso electoral, el Consejo General sesionará en forma ordinaria al menos una vez cada tres meses y, en forma extraordinaria, bajo los términos antes dispuestos.
 
@@ -2793,9 +2795,9 @@ IV. Designar de entre las personas titulares de las direcciones ejecutivas, a la
 
 V. Designar y remover a las personas titulares de las direcciones ejecutivas, órganos técnicos y unidades administrativas conforme a la propuesta que presente la Presidencia y con la debida observancia a las disposiciones de la Ley de los Trabajadores al Servicio del Gobierno del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2023)</small>
 
-VI. Designar conforme al procedimiento que en su oportunidad apruebe el propio Consejo General, en términos de esta Ley de Instituciones y de los acuerdos emitidos por el Instituto Nacional Electoral, a las y los consejeros electorales de los consejos municipales y distritales y a quienes fungirán como presidentes, mediante votación de la mayoría de los consejeros presentes del Consejo General, a más tardar el quince de noviembre del año anterior a la elección.
+VI. Designar conforme al procedimiento que en su oportunidad apruebe el propio Consejo General, en términos de esta Ley de Instituciones y de los acuerdos emitidos por el Instituto Nacional Electoral, a las y los consejeros electorales de los consejos municipales y distritales y a quienes fungirán como presidentas o presidentes, mediante votación de la mayoría de las y los consejeros presentes del Consejo General, a más tardar en la tercera semana del mes de enero del año de la elección;
 
 VII. Resolver sobre los convenios de Fusión, Frente y Coalición que celebren los partidos políticos, así como sobre los acuerdos de participación que efectúen las agrupaciones políticas con los partidos políticos;
 
@@ -3603,11 +3605,13 @@ Durante el desahogo de los procedimientos administrativos tendentes, en su caso,
 
 Los Consejos Electorales Distritales son los organismos encargados de la preparación, desarrollo y vigilancia del proceso electoral, en sus respectivos ámbitos de competencia. Son dependientes del Instituto Electoral y funcionan exclusivamente durante el proceso electoral, teniendo como sede la población cabecera de cada Distrito. Sede que podrá variar el Consejo General haciéndolo constar en el Acta de la sesión correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2023)</small>
 
 ###### Artículo 292.
 
-Los Consejos Distritales se integran por cinco consejeras y consejeros electorales, una Secretaría y representantes de los partidos políticos y en su caso representantes de las candidaturas independientes, designados en los términos de esta Ley de Instituciones.
+Los Consejos Distritales se integran por tres consejerías electorales, una Secretaría y representaciones de los partidos políticos y en su caso representaciones de las candidaturas independientes, designados en los términos de esta Ley de Instituciones.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 La conformación de los mismos deberá garantizar el principio de paridad de género.
 
@@ -3635,9 +3639,11 @@ Para el caso de los representantes de las candidaturas independientes, la design
 
 Los partidos políticos y los candidatos independientes podrán sustituir a sus representantes ante el Consejo Distrital mediante el aviso por escrito, sin embargo, iniciada la sesión los representantes acreditados no podrán ser sustituidos hasta la conclusión de ésta.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
+
 ###### Artículo 295.
 
-El Secretario del Consejo Distrital será designado por el voto de las dos terceras partes de los miembros de dicho Consejo, a propuesta de su Presidente.
+La Secretaria o Secretario del Consejo Distrital será designado por el voto mayoritario de los miembros de dicho Consejo, a propuesta de su Presidenta o Presidente.
 
 ###### Artículo 296.
 
@@ -3695,19 +3701,27 @@ Los consejeros electorales distritales y el Secretario serán designados para un
 
 Las designaciones de los consejeros electorales podrán ser impugnadas, en apelación, ante la autoridad jurisdiccional local electoral y la del Secretario podrá ser impugnada, en revisión, ante el Consejo General, cuando no se reúna alguno de los requisitos señalados en esta Ley de Instituciones.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
 
 ###### Artículo 300.
 
-Los Consejos Distritales se instalarán a más tardar el día 30 de noviembre del año anterior al de la elección ordinaria correspondiente. A partir de su instalación y hasta la conclusión del proceso electoral, los Consejos sesionarán por lo menos una vez al mes de manera ordinaria y cuantas veces sea necesario de manera extraordinaria.
+Los Consejos Distritales se instalarán a más tardar el último día del mes de enero del año de la elección ordinaria correspondiente. A partir de su instalación y hasta la conclusión del proceso electoral, los Consejos sesionarán por lo menos una vez al mes de manera ordinaria y cuantas veces sea necesario de manera extraordinaria.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
 
 ###### Artículo 301.
 
-Para que los consejos distritales sesionen válidamente es necesaria la presencia de la mayoría de sus integrantes, entre los que deberán estar el Presidente, quien será suplido en sus ausencias por el consejero electoral que el mismo designe durante la sesión o antes de la misma, y el Secretario. El Consejo queda autorizado para designar a uno de los consejeros electorales presentes para que presida la sesión en el caso de que el Presidente titular no asista o se ausente de la misma sin hacer la correspondiente designación. En caso de ausencia del Secretario a la sesión sus funciones serán realizadas por el consejero electoral que designe el propio Consejo a propuesta del Presidente. Si la ausencia fuere definitiva se procederá a la designación de un nuevo Secretario. Tomarán sus resoluciones por mayoría de votos y, en caso de empate, será de calidad el voto del Presidente.
+Para que los Consejos Distritales sesionen válidamente es necesaria la presencia de la mayoría de sus integrantes, entre los que deberán estar la Presidenta o Presidente. En caso de ausencia de la Secretaria o Secretario a la sesión, sus funciones serán realizadas por la o el funcionario que el propio Consejo designe a propuesta de la o el Presidente. Si la ausencia fuere definitiva se procederá a la designación de una nueva Secretaria o Secretario. Tomarán sus resoluciones por mayoría de votos y, en caso de empate, será de calidad el voto de la Presidenta o Presidente.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
 
 ###### Artículo 302.
 
-En caso de que no se reúna la mayoría a que se refiere el artículo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los miembros del Consejo que asistan, entre los que deberán estar el Presidente y el Secretario.
+En caso de que no se reúna la mayoría a que se refiere el artículo anterior o a falta de la o el Presidente, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los miembros del Consejo que asistan, entre los que deberán estar la o el Presidente y la o el Secretario.
+
+Si no se pudiera llevar a cabo la sesión por la falta consecutiva de la o el Presidente, sin causa justificada, el Consejo General designará entre los que estuvieran en funciones al que presidirá el Consejo Distrital; la o el consejero faltante motivado de la designación será cubierto en términos de la Ley de Instituciones.
+
+En el caso de que no se pudiera llevar a cabo la sesión y se acumulara la falta consecutiva de alguno o algunos de los integrantes del Consejo, estará a lo dispuesto por el artículo 293 de la Ley de Instituciones.
 
 ###### Artículo 303.
 
@@ -3789,11 +3803,13 @@ El Secretario del Consejo Electoral Distrital tendrá, en lo conducente, las mis
 
 Los consejos electorales municipales son los organismos encargados de la preparación, desarrollo y vigilancia del proceso electoral en sus respectivos ámbitos de competencia. Son dependientes del Instituto Electoral y funcionarán durante el proceso electoral en los municipios en cuya demarcación territorial exista más de un Distrito Electoral, y en donde lo determine el Consejo General y se instalarán en la cabecera del Municipio respectivo. Sede que podrá variar el Consejo General haciéndolo constar en el Acta de la sesión correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2023)</small>
 
 ###### Artículo 308.
 
-Los consejos municipales se integran con cinco consejeras y consejeros electorales, un Secretario o Secretaria y representantes de los partidos políticos y en su caso representantes de las candidaturas independientes, designados en los términos de esta Ley de Instituciones.
+Los consejos municipales se integran con tres consejerías electorales, un Secretario o Secretaria y representaciones de los partidos políticos y en su caso representaciones de las candidaturas independientes, designados en los términos de esta Ley de Instituciones.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 La conformación de los mismos deberá garantizar el principio de paridad de género.
 
@@ -3819,9 +3835,11 @@ Para el caso de los representantes de candidatos independientes, la designación
 
 Los partidos políticos y los candidatos independientes podrán sustituir a sus representantes ante el Consejo Municipal mediante el aviso por escrito, sin embargo, iniciada la sesión los representantes acreditados no podrán ser sustituidos hasta la conclusión de ésta.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
+
 ###### Artículo 311.
 
-El Secretario del Consejo Municipal será designado por el voto de las dos terceras partes de los miembros de dicho Consejo, a propuesta de su Presidente.
+La Secretaria o Secretario del Consejo Municipal será designado por la mayoría de los miembros de dicho Consejo, a propuesta de su Presidenta o Presidente.
 
 ###### Artículo 312.
 
@@ -3879,19 +3897,27 @@ Los consejeros electorales municipales y el Secretario serán designados para un
 
 Las designaciones de los consejeros electorales podrán ser impugnadas, en apelación, ante la autoridad jurisdiccional local electoral correspondiente y la del Secretario podrá ser impugnada, en revisión, ante el Consejo General, cuando no se reúna alguno de los requisitos establecidos en esta Ley de Instituciones.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
 
 ###### Artículo 316.
 
-Los consejos municipales se instalarán a más tardar el día 30 de noviembre del año anterior de la elección ordinaria correspondiente. A partir de su instalación y hasta la conclusión del proceso, los Consejos sesionarán por lo menos una vez al mes de manera ordinaria y cuantas veces sea necesario de manera extraordinaria. Tomarán sus resoluciones por mayoría de votos y, en caso de empate, será de calidad el voto de la Presidencia.
+Los consejos municipales se instalarán a más tardar el último día del mes de enero del año de la elección ordinaria correspondiente. A partir de su instalación y hasta la conclusión del proceso, los Consejos sesionarán por lo menos una vez al mes de manera ordinaria y cuantas veces sea necesario de manera extraordinaria. Tomarán sus resoluciones por mayoría de votos y, en caso de empate, será de calidad el voto de la Presidencia.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
 
 ###### Artículo 317.
 
-Para que los consejos municipales sesionen válidamente es necesaria la presencia de la mayoría de sus integrantes, entre los que deberán estar el Presidente, quien será suplido en sus ausencias por el consejero electoral que el mismo designe durante la sesión o antes de la misma, y el Secretario. El Consejo queda autorizado para designar a uno de los consejeros electorales presentes para que presida la sesión en el caso de que el Presidente titular no asista o se ausente de la misma sin hacer la correspondiente designación. En caso de ausencia del Secretario a la sesión sus funciones serán realizadas por el consejero electoral que designe el propio Consejo a propuesta del Presidente. Si la ausencia fuere definitiva se procederá a la designación de un nuevo Secretario.
+Para que los consejos municipales sesionen válidamente es necesaria la presencia de la mayoría de sus integrantes, entre los que deberán estar la o el Presidente. En caso de ausencia de la o el Secretario a la sesión sus funciones serán realizadas por la o el funcionario que el propio Consejo designe a propuesta de la o el Presidente. Si la ausencia fuere definitiva se procederá a la designación de una nueva Secretaria o Secretario.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
 
 ###### Artículo 318.
 
-En caso de que no se reúna la mayoría a que se refiere el artículo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los miembros del Consejo que asistan, entre los que deberán estar el Presidente y el Secretario.
+En caso de que no se reúna la mayoría a que se refiere el artículo anterior o a falta de la o el Presidente, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los miembros del Consejo que asistan, entre los que deberán estar la o el Presidente y la o el Secretario.
+
+Si no se pudiera llevar a cabo la sesión por la falta consecutiva sin causa justificada de la o el Presidente, el Consejo General designará entre los que estuvieran en funciones al que presidirá el Consejo Municipal. La o el Consejero faltante motivado de la designación será cubierto en términos de la Ley de Instituciones.
+
+En el caso de que no se pudiera llevar a cabo la sesión y se acumulara la falta consecutiva de alguno o algunos de los integrantes, se estará a lo dispuesto por el artículo 309 de la Ley de Instituciones.
 
 ###### Artículo 319.
 
@@ -4145,21 +4171,33 @@ En el registro de candidaturas para la renovación del Poder Legislativo e integ
 
 Durante el proceso electoral, para efectos de los plazos y cómputo de los términos, todos los días y horas son hábiles.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2023)</small>
 
 ###### Artículo 345.
 
-El proceso electoral ordinario iniciará a más tardar en el mes de septiembre del año previo en que deban realizarse las elecciones locales a que se refiere el artículo anterior. Para los efectos de esta Ley de Instituciones, el proceso electoral ordinario comprende las etapas de:
+El proceso electoral ordinario iniciará en la primera semana del mes de diciembre del año previo en el que deban realizarse las elecciones locales a que se refiere el artículo anterior. Para los efectos de esta Ley de Instituciones, el proceso electoral ordinario comprende las etapas de:
 
-I. Preparación de la elección; que iniciará con la primera sesión que el Consejo General del Instituto Electoral celebre, en el mes de septiembre del año previo a la jornada electoral y concluirá al iniciarse ésta;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2023)</small>
+
+I. Preparación de la elección; que iniciará con la Sesión Solemne que el Consejo General del Instituto Electoral celebre, en la primera semana del mes de diciembre del año previo en el que se celebre la jornada electoral y concluirá al iniciarse ésta;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 II. Jornada electoral; que iniciará a las ocho horas del primer domingo de junio y concluirá con la clausura de la casilla;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
 III. Resultados y declaraciones de validez de las elecciones de diputaciones e integrantes de los ayuntamientos y juntas municipales; cada tres años, se iniciará con la remisión de los paquetes electorales a los respectivos consejos electorales, distritales o municipales, en su caso, y concluirá con los cómputos y declaraciones que realicen los consejos del Instituto Electoral, o la emisión de las resoluciones que, en caso de impugnaciones emita la autoridad jurisdiccional electoral local, y
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 IV. Dictamen y declaración de validez de la elección de la gubernatura; la elaboración y formación del dictamen para declarar la validez o invalidez de la elección de la gubernatura estará a cargo del órgano jurisdiccional electoral local.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
 El dictamen y declaración de validez de la elección de la gubernatura electa será cada seis años, iniciará al resolverse por la autoridad jurisdiccional electoral local el último de los medios de impugnación que se hubiesen interpuesto contra esta elección, o cuando se tenga constancia de que no se presentó ninguno, y concluirá al aprobar la autoridad jurisdiccional local el dictamen que contenga el cómputo final y las declaraciones de validez de la elección y de Gubernatura electa.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 Atendiendo al principio de definitividad que rige a los procesos electorales, a la conclusión de cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, la Secretaría Ejecutiva del Consejo General para el caso de las fracciones I, II o III, y la autoridad jurisdiccional para el caso de la fracción IV, podrán difundir su realización y conclusión por los medios que estimen pertinentes.
 
@@ -4363,11 +4401,13 @@ Los actos de precampaña deben de realizarse durante los plazos establecidos en 
 
 Las reuniones públicas realizadas se regirán por lo dispuesto en el artículo 9º de la Constitución Federal y no tendrán más limitante que el respeto a los derechos de terceros, así como las disposiciones que para el ejercicio de la garantía de reunión y la preservación del orden dicte la autoridad administrativa correspondiente.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
+
 ###### Artículo 374.
 
-Para el financiamiento de las precampañas, los partidos políticos y los precandidatos en conjunto no podrán erogar más del veinte por ciento del tope de gastos de campaña que hubiese sido autorizado para el tipo de elección de que se trate en el proceso electoral ordinario inmediato anterior, actualizándolo conforme al Índice Nacional de Precios al Consumidor vigente al mes de octubre del año anterior al de la elección, publicado por el Banco de México.
+Para el financiamiento de las precampañas, los partidos políticos y las o los precandidatos en conjunto no podrán erogar más del veinte por ciento del tope de gastos de campaña que hubiese sido autorizado para el tipo de elección de que se trate en el proceso electoral ordinario inmediato anterior, actualizándolo conforme al Índice Nacional de Precios al Consumidor vigente al mes de febrero del año de la elección, publicado por el Banco de México.
 
-El Consejo General del Instituto Electoral, determinará en el mes de noviembre del año anterior al de la elección mediante la expedición de los correspondientes acuerdos, el tope de gastos de precampaña de cada elección tomando como base lo señalado en el párrafo anterior.
+El Consejo General del Instituto Electoral, determinará en el mes de febrero del año de la elección mediante la expedición de los correspondientes acuerdos, el tope de gastos de precampaña de cada elección tomando como base lo señalado en el párrafo anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -4505,9 +4545,11 @@ IX. En el caso de que, para un mismo cargo de elección popular sean registrados
 
 Lo relativo a la integración de las candidaturas independientes en cuanto a género se estará a lo dispuesto por esta Ley de Instituciones en los artículos 170 y 210 fracción XIII.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
+
 ###### Artículo 390.
 
-Para el registro de candidaturas a todo cargo de elección popular, el Partido Político postulante deberá presentar y obtener el registro de la Plataforma Electoral que todos sus candidatos sostendrán a lo largo de las campañas políticas. La Plataforma Electoral deberá presentarse para su registro ante el Consejo General durante los primeros diez días del mes de febrero del año de las elecciones. El Consejo expedirá constancia del registro.
+Para el registro de candidaturas a todo cargo de elección popular, el Partido Político postulante deberá presentar y obtener el registro de la Plataforma Electoral que todos sus candidatos sostendrán a lo largo de las campañas políticas. La Plataforma Electoral deberá presentarse para su registro ante el Consejo General dentro de los primeros veinte días del mes de febrero del año de las elecciones. El Consejo expedirá constancia del registro.
 
 ###### Artículo 391.
 
@@ -4711,7 +4753,9 @@ No se considerarán, dentro de los topes de campaña, los gastos que realicen lo
 
 El Consejo General, en la determinación de los topes de gastos de campaña, aplicará las siguientes reglas:
 
-I. A más tardar el día último de enero del año de la elección determinará el tope máximo de gastos de campaña para la elección de Gobernador, que será la cantidad equivalente al veinte por ciento del total del financiamiento público asignado a los partidos políticos para el año de la elección;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2023)</small>
+
+I. A más tardar el día quince de febrero del año de la elección determinará el tope máximo de gastos de campaña para la elección de Gobernadora o Gobernador, que será la cantidad equivalente al veinte por ciento del total del financiamiento público asignado a los partidos políticos para el año de la elección;
 
 II. A más tardar el día quince de febrero del año de la elección determinará el tope máximo de gastos de campaña para la elección de Diputado por el principio de Mayoría Relativa, que será la cantidad que resulte de dividir el tope de gasto de campaña de Gobernador entre el total de distritos uninominales;
 
@@ -5693,9 +5737,11 @@ Se considerará que existe causa justificada para que los paquetes electorales s
 
 ### CAPÍTULO SEXTO. DE LOS CAPACITADORES-ASISTENTES ELECTORALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2023)</small>
+
 ###### Artículo 533.
 
-El Consejo General designará, en el mes de enero del año de la elección, a un número suficiente de capacitadores-asistentes electorales, de entre los ciudadanos que hubieren atendido la convocatoria pública expedida al efecto y cumplan los requisitos siguientes:
+El Consejo General designará, en la primera semana del mes de febrero, a un número suficiente de capacitadores-asistentes electorales, de entre las y los ciudadanos que hubieren atendido la convocatoria pública expedida al efecto y cumplan los requisitos siguientes:
 
 I. Ser ciudadano campechano en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -8092,3 +8138,19 @@ P.O. 12 DE JULIO DE 2022.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
 
 Artículo Segundo. Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 1 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 236 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 267; LA FRACCIÓN VI DEL ARTÍCULO 278; EL PÁRRAFO PRIMERO DEL ARTÍCULO 292; LOS ARTÍCULOS 295; 300; 301 Y 302; EL PÁRRAFO PRIMERO DEL ARTÍCULO 308; LOS ARTÍCULOS 311; 316; 317 Y 318; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 345; LOS ARTÍCULOS 374 Y 390; LA FRACCIÓN I DEL ARTÍCULO 416 Y, EL PÁRRAFO PRIMERO DEL ARTÍCULO 533, TODOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente decreto.
+
+Tercero.- El Consejo General del Instituto Electoral del Estado de Campeche aprobará los ajustes necesarios a su normatividad interna a fin de garantizar la debida ejecución de las actividades y procedimientos electorales contenidos en el presente decreto antes del inicio del proceso electoral 2024.
+
+Cuarto.- Dada la modificación de la fecha de inicio del próximo proceso electoral, el Instituto Electoral del Estado de Campeche ejercerá el presupuesto de egresos asignado para el ejercicio fiscal 2023 conforme a lo previsto en el presente decreto.
+
+Por consecuencia de lo previsto en el párrafo anterior, el Consejo General del Instituto Electoral del Estado de Campeche remitirá en un plazo no mayor a 30 días naturales a la Secretaría de Administración y Finanzas del Estado, los ajustes presupuestales que se deriven del presente decreto, para su análisis y actualizaciones correspondientes, ésta a su vez remitirá al Congreso del Estado para los tramites que de éste resulten en el Presupuesto de Egresos 2023.
+
+Quinto.- El Instituto Electoral del Estado de Campeche, deberá tener presente al momento de la integración del anteproyecto de Presupuesto de Egresos 2024, los arreglos contenidos en el presente decreto.
