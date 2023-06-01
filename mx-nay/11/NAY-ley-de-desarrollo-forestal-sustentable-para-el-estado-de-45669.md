@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-45669"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-16"
-last_updated: "2022-08-30"
+last_updated: "2023-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 1 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023 (ABROGADA).
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de julio de 2005.
 
@@ -820,3 +822,23 @@ P.O. 30 DE AGOSTO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LAS FRACCIONES VI Y VII; Y ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 61 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 1 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga la Ley de Desarrollo Forestal Sustentable para el Estado de Nayarit, publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el 16 de julio de 2005.
+
+TERCERO. Los procedimientos, trámites y demás solicitudes que se encuentren en proceso, anteriores a la vigencia de esta Ley, se regirán en los términos de la norma que se abroga.
+
+CUARTO. Se derogan todas las disposiciones que contravengan la presente Ley.
+
+QUINTO. El Reglamento de la Ley deberá emitirse en un plazo no mayor a 180 días contados a partir del siguiente al que entre en vigor esta Ley.
+
+SEXTO. El Consejo Estatal Forestal deberá quedar instalado dentro de los 60 días siguientes a la entrada en vigor de esta Ley.
+
+SÉPTIMO. El Poder Ejecutivo del Estado, atendiendo la disponibilidad presupuestal existente deberá proveer, en sus respectivos ámbitos de competencia, en el presupuesto de egresos para el ejercicio fiscal del que se trate, lo correspondiente para la dotación de los recursos económicos, materiales y humanos, para el cumplimiento de este mismo ordenamiento.
+
+OCTAVO. La creación del Fideicomiso Forestal Estatal, así como los subsidios e incentivos económicos, dependerá de la previa autorización y de las asignaciones presupuestales correspondientes, que designe la Secretaría de Administración y Finanzas del Estado de Nayarit, atendiendo la disponibilidad presupuestal existente.
