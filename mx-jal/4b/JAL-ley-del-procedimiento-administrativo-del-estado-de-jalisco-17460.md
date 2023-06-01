@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2023-01-14"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -1512,3 +1512,13 @@ P.O. 14 DE ENERO DE 2023.
 PRIMERO. El presente decreto entrará en vigor a partir de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. EL Poder Ejecutivo, así como a los poderes Judicial y Legislativo, todos del Estado de Jalisco deberán llevar a cabo anualmente actos conmemorativos del 16 de junio como "Día Estatal del Nacimiento del Estado Libre y Soberano de Jalisco".
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2023)</small>
+
+TERCERO. Por única ocasión en el presente año de 2023, el día que se declarará inhábil en razón a la conmemoración del Bicentenario del Nacimiento del Estado Libre y Soberano de Jalisco, será el viernes 16 de junio; para los años subsecuentes será como se estableció en la Ley para los Servidores Públicos, Ley de Justicia Administrativa y Ley del Procedimiento Administrativo, respectivamente, todas del Estado de Jalisco.
+
+P.O. 1 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29199/LXIII/23 QUE ADICIONA UN ARTÍCULO TERCERO TRANSITORIO AL DECRETO 29129/LXIII/23 ESTABLECIENDO QUE ESTE AÑO DEL 2023 POR ÚNICA OCASIÓN EL DÍA INHÁBIL DECLARADO SERÁ EL VIERNES 16 DE JUNIO, EN LUGAR DEL SEGUNDO LUNES DE DICHO MES DE JUNIO, LO QUE PERMITIRÁ REALIZAR EN DICHO DÍA LOS EVENTOS PÚBLICOS Y FESTEJOS QUE EL GOBIERNO DEL ESTADO Y MUNICIPIOS TENGAN PROGRAMADOS PARA TAL EFECTO”.]
+
+ÚNICO. Publíquese el presente decreto, el cual entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
