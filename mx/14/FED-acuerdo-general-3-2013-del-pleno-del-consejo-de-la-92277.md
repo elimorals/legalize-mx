@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2023-05-15"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -1183,6 +1183,10 @@ XXVIII. El Centro de Justicia Penal Federal en el Estado de San Luis Potosí, co
 
 XXIX. El Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán, Sinaloa.
 
+> <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 10/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2023)</small>
+
+XXIX. Bis. El Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Los Mochis;
+
 XXX. El Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, Sonora.
 
 XXXI. El Centro de Justicia Penal Federal en el Estado de Tabasco, con residencia en Villahermosa, Tabasco.
@@ -1246,6 +1250,14 @@ IV Bis. Centro de Justicia Penal Federal en el Estado de México, con sede en Ne
 IV Ter. Centro de Justicia Penal Federal en el Estado de México, con sede en Almoloya de Juárez (Altiplano) cuya jurisdicción territorial comprenderá los municipios de Acambay de Ruíz Castañeda; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Amanalco; Amatepec; Atizapán; Atlacomulco; Calimaya; Capulhuac; Coatepec Harinas; Chapultepec; Donato Guerra; El Oro; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Naucalpan de Juárez; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec; Zumpahuacán; Aculco; Chapa de Mota; Huixquilucan; Isidro Fabela; Jilotepec; Jilotzingo y Villa del Carbón; todos ellos del Estado de México.
 
 V. Centro de Justicia Penal Federal en el Estado de Nayarit, con sede en Tepic: cuya jurisdicción territorial comprenderá dicha entidad federativa y el territorio del archipiélago de las Islas Marías;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 10/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2023)</small>
+
+V. Bis. Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán cuya jurisdicción territorial comprenderá los municipios de: Culiacán, Navolato, Concordia, Cosalá, Elota, Escuinapa, Mazatlán, Rosario y San Ignacio;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 10/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2023)</small>
+
+V. Ter. Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Los Mochis, cuya jurisdicción territorial comprenderá los municipios de: Ahome, Angostura, Badiraguato, Choix, El Fuerte, Guasave, Mocorito, Salvador Alvarado y Sinaloa;
 
 VI. Centro de Justicia Penal Federal en el Estado de Sonora, con sede en Hermosillo: cuya jurisdicción territorial comprenderá dicha entidad federativa, con excepción del municipio de San Luis Río Colorado;
 
@@ -10480,3 +10492,49 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán al Juzgado Décimo de Distrito en Materia de Amparo Civil, Administrativa y de Trabajo y Juicios Federales en el Estado de Puebla, con residencia en San Andrés Cholula, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
 CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Décimo de Distrito en Materia de Amparo Civil, Administrativa y de Trabajo y Juicios Federales en el Estado de Puebla, con residencia en San Andrés Cholula.
+
+D.O.F. 1 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 10/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA E INICIA FUNCIONES EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SINALOA, CON RESIDENCIA EN LOS MOCHIS; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 1 de junio de dos mil veintitrés.
+
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que el Centro de Justicia Penal Federal a que se refiere este Acuerdo, entre en operación en la fecha señalada en este artículo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Se establece como medida de carácter temporal y con el fin de atender la situación que presenta el Centro de Justicia Penal en Hermosillo, Sonora, con relación a sus cargas de trabajo, que la distribución de las competencias territoriales de los Centros de Justicia Penal Federal en Los Mochis y Hermosillo estén conformadas de acuerdo a lo siguiente:
+
+I. Centro de Justicia Penal Federal con sede en Los Mochis: Ahome, Angostura, Badiraguato, Choix, El Fuerte, Guasave, Mocorito, Salvador Alvarado y Sinaloa, en el Estado de Sinaloa; así como Álamos, Bácum, Benito Juárez, Cajeme, Etchojoa, Huatabampo, Navojoa, Quiriego, Rosario y San Ignacio Río Muerto en el Estado de Sonora; y
+
+II. Centro de Justicia Penal Federal con sede en Hermosillo: Aconchi, Arivechi, Bacadehuachi, Bacanora, Banámichi, Baviácora, Carbó, Divisaderos, Empalme, Granados, Guaymas, Hermosillo, Huásabas, Huépac, La Colorada, Mazatán, Moctezuma, Nácori Chico, Onavas, Opodepe, Pitiquito, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Pesqueira y Yécora, Altar, Atil, Benjamín Hill, Caborca, Cucurpe, General Plutarco Elías Calles, Imuris, Magdalena, Nogales, Oquitoa, Puerto Peñasco, Santa Ana, Santa Cruz, Sáric, Trincheras y Tubutama; Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Cananea, Cumpas, Fronteras, Huachinera, Naco, Nacozari de García y Villa Hidalgo.
+
+Las competencias territoriales señaladas, permanecerán vigentes a partir del 1 de junio de 2023 y hasta en tanto inicien funciones cualquiera de las sedes contempladas en las ciudades de Nogales y Ciudad Obregón en el Estado de Sonora, debiendo regresar el Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Los Mochis a su competencia de origen señalada en el artículo 6 del presente Acuerdo.
+
+CUARTO. Se habilita la competencia de las personas Juzgadoras de Distrito adscritas al Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en la ciudad del Culiacán, para auxiliar al diverso Centro de Justicia Penal Federal en Los Mochis, hasta en tanto se determine la necesidad de fortalecer la plantilla de juzgadores en ese último Centro de Justicia. La habilitación competencial para el auxilio en caso de guardias o ausencia por licencia o vacaciones se efectuará de manera enunciativa, mas no limitativa en los casos siguientes:
+
+- Técnicas de control.
+
+- Controles de detención.
+
+- Solicitud y cancelación de orden de aprehensión.
+
+- Cumplimentación de orden aprehensión.
+
+- Revisión de medida cautelar.
+
+- Sobreseimiento.
+
+- Abreviados si las personas se encuentran privadas de su libertad.
+
+- Suspensiones condicionales si las personas se encuentran privadas de su libertad.
+
+- Audiencias Intermedias, solo en el caso que los Jueces disponibles se encuentren atendiendo una audiencia de Juicio y no exista espacio en la agenda de audiencias de manera inmediata para cumplir con los plazos legales.
+
+- Los asuntos que conforme a la Ley Nacional de Ejecución Penal se consideren urgentes, así como aquellos que puedan implicar libertad o excarcelamiento.
+
+- Cumplimiento de ejecutorias de amparo.
+
+QUINTO. Los asuntos que se encuentren ingresados en los diversos Centros de Justicia Penal Federal en el Estado de Sinaloa con residencia en Culiacán y en el Estado de Sonora con sede en Hermosillo, respectivamente, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dichos Centros.
+
+SEXTO. Se instruye a la Unidad de Transparencia del Consejo de la Judicatura Federal para que integre el presente régimen transitorio al Acuerdo General 24/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, para observancia de los artículos PRIMERO y TERCERO TRANSITORIOS de este Acuerdo.
