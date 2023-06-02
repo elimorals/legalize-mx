@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2022-08-31"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -83,45 +83,49 @@ IV. Congreso: Congreso del Estado de Michoacán de Ocampo;
 
 V. Defensoría: La Defensoría Jurídica para la Protección de los Derechos Político-Electorales en Michoacán;
 
-VI. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
 
-VII. Instituto: Instituto Electoral de Michoacán;
+VI. Discriminación por motivos de discapacidad: Se entenderá cualquier distinción, exclusión o restricción por motivos de discapacidad, que tenga el propósito de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos Político Electorales;
 
-VIII. Instituto Nacional: Instituto Nacional Electoral;
+VII. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
 
-IX. Ley General: Ley General de Instituciones y Procedimientos Electorales;
+VIII. Instituto: Instituto Electoral de Michoacán;
 
-X. Ley de Partidos: Ley General de Partidos Políticos;
+IX. Instituto Nacional: Instituto Nacional Electoral;
+
+X. Ley General: Ley General de Instituciones y Procedimientos Electorales;
+
+XI. Ley de Partidos: Ley General de Partidos Políticos;
 
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-XI. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
+XII. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
 
 > <small>(ADICIONADA, P.O. 7 DE JULIO DE 2020)</small>
 
-XI Bis. Paridad de género: Igualdad política entre hombres y mujeres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
+XII Bis. Paridad de género: Igualdad política entre hombres y mujeres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
 
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-XII. Tribunal: Tribunal Electoral del Estado de Michoacán;
+XIII. Tribunal: Tribunal Electoral del Estado de Michoacán;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-XIII. UMA: Unidad de Medida y Actualización;
+XIV. UMA: Unidad de Medida y Actualización;
 
 > <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
 
-XIV. Urna electrónica: medio electrónico o cualquier otra tecnología de recepción del sufragio, en el cual el emitente del voto deposita o expresa su voluntad; y,
+XV. Urna electrónica: medio electrónico o cualquier otra tecnología de recepción del sufragio, en el cual el emitente del voto deposita o expresa su voluntad; y,
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2020)</small>
 
-XV. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+XVI. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XV, P.O. 7 DE JULIO DE 2020]</small>
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVI, P.O. 7 DE JULIO DE 2020]</small>
 
 Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XV, P.O. 7 DE JULIO DE 2020]</small>
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVI, P.O. 7 DE JULIO DE 2020]</small>
 
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
@@ -158,6 +162,10 @@ Votar en las elecciones constituye un derecho y una obligación que se ejerce pa
 El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
 
 Es derecho de los ciudadanos ser votado para todos los puestos de elección popular, teniendo las calidades que establece la ley y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine este Código.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+Aquellas personas que vivan con una discapacidad que las imposibilite para emitir su derecho al voto, podrán ser asistidas por una persona de su confianza, siempre y cuando no sea representante de casilla.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -211,9 +219,9 @@ V. Ocupar los cargos de elección popular; y,
 
 VI. Las demás que señale este Código y otras disposiciones legales.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
 
-En el ejercicio de los derechos y el cumplimiento de las obligaciones de la ciudadanía en el ámbito político electoral, se regirán por el principio de la no violencia.
+El ejercicio de los derechos y el cumplimiento de las obligaciones de la ciudadanía en el ámbito político electoral, se regirán por el principio de la no violencia y la no discriminación.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -281,7 +289,9 @@ Los aspirantes a cargos de elección popular, podrán acreditar no encontrarse e
 
 El Consejo General expedirá convocatoria para las elecciones ordinarias por lo menos ciento cincuenta días antes de la fecha en que deban efectuarse.
 
-Toda convocatoria a elecciones se publicará en el Periódico Oficial y se le dará amplia difusión a través de los medios de comunicación.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+Toda convocatoria a elecciones se publicará en el Periódico Oficial, se le dará amplia difusión a través de los medios de comunicación, siendo accesible para que las personas con discapacidad puedan conocer su contenido.
 
 ###### ARTÍCULO 15.
 
@@ -3104,6 +3114,10 @@ Los servidores públicos no deberán vincular su cargo, imagen, nombre, voz o cu
 > <small>(DEROGADO DÉCIMO NOVENO PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
 En los casos de infracción a lo dispuesto en este artículo, será competente en todo momento el Instituto, quien conocerá y sancionará de manera pronta y expedita, sin menoscabo de las responsabilidades a que pueda ser acreedor.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 169 BIS. Los partidos políticos, aspirantes, precandidatos, candidatos incluidos los independientes, las organizaciones y agrupaciones de esta índole que publiquen propaganda política o electoral por cualquier medio y aparezcan niñas, niños y adolescentes, deberán cumplir con los lineamientos para la protección de los derechos de niñas, niños y adolescentes en materia político-electoral y demás normativa aplicable.
 
 ###### ARTÍCULO 170.
 
@@ -6429,13 +6443,11 @@ VII. Si los partidos políticos en la elección pasada fueron en coalición o ca
 
 Recibidas las solicitudes de registro de candidaturas, el Instituto verificará que los Partidos Políticos, Coaliciones, Candidaturas Comunes y Candidaturas Independientes cumplan con el principio de paridad de género.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 355.
 
-Si al término de la verificación de las fórmulas de diputaciones y listas de planillas para integrar ayuntamientos, se advierte que algún partido político, coalición, candidatura común o candidatura independiente, omitió el cumplimiento de la paridad de género, el Instituto notificará de inmediato al Representante del partido político para que dentro del término de las 48 horas siguientes realice las modificaciones correspondientes en sus postulaciones, siempre que esto pueda realizarse antes de concluido el plazo con que cuenta el Consejo General, para resolver sobre el registro de candidatos.
-
-En caso de que el partido político no modifique su postulación o dicha modificación no cumpla con las reglas establecidas, se tendrá por no presentada.
+Si al término de la verificación de las fórmulas de diputaciones y listas de planillas para integrar ayuntamientos, se advierte que algún partido político, coalición, candidatura común o candidatura independiente, omitió el cumplimiento de la paridad de género o la participación de los grupos vulnerables, el Instituto notificará de inmediato al Representante del partido político para que dentro del término de las 48 horas siguientes realice las modificaciones correspondientes en sus postulaciones, siempre que esto pueda realizarse antes de concluido el plazo con que cuenta el Consejo General, para resolver sobre el registro de candidatos. En caso de que el partido político no modifique su postulación o dicha modificación no cumpla con las reglas establecidas, se tendrá por no presentada.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
 
@@ -6728,3 +6740,15 @@ El Instituto Electoral de Michoacán deberá adecuar su normativa interna en la 
 ###### ARTÍCULO QUINTO.
 
 Una vez entrado en vigor el presente Decreto, el Instituto deberá actualizar el Registro Estatal de Personas Sancionadas por Violencia Política contra las Mujeres en Razón de Género.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 399 POR EL QUE “SE ADICIONA EL ARTÍCULO 169 BIS AL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 400 POR EL QUE "SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 3 RECORRIÉNDOSE EN SU ORDEN SUBSECUENTE EL RESTO DE LAS FRACCIONES; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 4; Y, SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 8; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 14 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 355, TODOS DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
