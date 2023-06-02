@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-en-materia-electoral-y-de-participacion-101653"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2020-05-29"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 30 de junio de 2014.
 
@@ -1027,6 +1027,10 @@ El juicio para la protección de los derechos político-electorales, sólo proce
 
 Asimismo, resultará procedente para impugnar los actos y resoluciones por quien teniendo interés jurídico, considere que indebidamente se afecta su derecho para integrar las autoridades electorales del Estado. La sentencia deberá dictarse dentro de los 10 días siguientes a su admisión.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+También es procedente el juicio señalado, cuando se hagan valer presuntas violaciones relacionadas a la remuneración que reciben los ciudadanos por el desempeño del ejercicio del cargo de elección popular.
+
 ###### ARTÍCULO 74.
 
 El juicio podrá ser promovido por el ciudadano cuando:
@@ -1176,3 +1180,9 @@ P.O. 29 DE MAYO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Se instruye al Instituto Electoral de Michoacán a que modifique el calendario de ministraciones a que se refiere el artículo 112, inciso b), fracción II del presente decreto para la ministración del financiamiento público para la obtención del voto. De igual forma, deberá de hacer los ajustes necesarios en el presupuesto del Instituto, en la parte de las prerrogativas de los partidos políticos, a efecto de modificar lo relativo al financiamiento público para la obtención del voto para los partidos e incorporarlo en el presupuesto de 2021.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 397 POR EL QUE "SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 73 DE LA LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
