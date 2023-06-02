@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2023-02-24"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -645,7 +645,7 @@ V.- Comisión de Desarrollo Social, Derechos Humanos y Asuntos Indígenas:
 
 a) Las iniciativas relativas a la protección, defensa y conservación de los derechos humanos;
 
-b) Las iniciativas relativas al fortalecimiento de la familia como núcleo básico de la sociedad;
+b) (DEROGADO, P.O. 2 DE JUNIO DE 2023)
 
 c) Las iniciativas relacionadas al apoyo social temporal;
 
@@ -725,9 +725,7 @@ f). (DEROGADO, P.O. 20 DE ENERO DE 2020)
 
 g). (DEROGADO, P.O. 20 DE ENERO DE 2020)
 
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2011)</small>
-
-h) Organizar y llevar a cabo anualmente el Parlamento Infantil del Estado de Nuevo León; e
+h) (DEROGADO, P.O. 2 DE JUNIO DE 2023)
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
@@ -789,13 +787,15 @@ l) Los asuntos relacionados con la promoción del desarrollo sustentable, tales 
 
 m) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JUNIO DE 2023)</small>
 
-IX.- Comisión de Desarrollo Urbano:
+IX.- Comisión de Infraestructura y Desarrollo Urbano:
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 a) La legislación relativa a asentamientos humanos, ordenamiento territorial, desarrollo urbano y vivienda en el Estado;
+
+(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2006) (REUBICADO, P.O. 14 DE SEPTIEMBRE DE 2016)
 
 b) Lo relativo al examen y aprobación de obras de pública utilidad del Estado;
 
@@ -803,9 +803,21 @@ b) Lo relativo al examen y aprobación de obras de pública utilidad del Estado;
 
 c) Las desafectaciones y autorizaciones para enajenar o gravar los bienes inmuebles del Estado, y/o las concesiones de los bienes inmuebles de los Municipios, en los términos de la normatividad en la materia;
 
+(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2006) (REUBICADO, P.O. 14 DE SEPTIEMBRE DE 2016)
+
 d) Lo concerniente al desarrollo y planificación de centros de población alternos al área metropolitana de Monterrey para reordenar el desarrollo regional;
 
-e) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2023)</small>
+
+e) Las Reformas a la Ley de Obras Públicas y a las bases generales a la infraestructura urbana sujeta al Estado y Municipios;
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+f) La legislación relativa al ordenamiento territorial, desarrollo urbano y vivienda en el Estado; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 2 DE JUNIO DE 2023)</small>
+
+g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE MARZO DE 2020)</small>
 
@@ -969,9 +981,9 @@ i) Los demás asuntos e iniciativas que el Congreso le encomiende.
 
 XV.- Comisión de Salud y Atención a Grupos Vulnerables:
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
 
-a) Lo relativo a fortalecer el marco jurídico para la protección a los derechos de los niños, de las personas con discapacidad y de los adultos mayores y de cualquier grupo vulnerable;
+a) Lo relativo a fortalecer el marco jurídico para la protección a los derechos de las personas con discapacidad y de los adultos mayores y de cualquier grupo vulnerable;
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
@@ -981,9 +993,7 @@ b) Las iniciativas relativas a la prevención y combate contra la discriminació
 
 c) Lo concerniente al establecimiento de Programas que les permitan un mejor acceso a los apoyos que otorgue el Estado y los Municipios;
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
-
-d) Las iniciativas y asuntos en materia de protección a la niñez y a la adolescencia objeto de violencia familiar, abandono, maltrato, prostitución, pornografía, trabajo y cualquier tipo de explotación, así como de adicciones;
+d) (DEROGADO, P.O. 2 DE JUNIO DE 2023)
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
@@ -1163,9 +1173,41 @@ g) Coordinar el estudio, revisión y adecuación del marco legislativo vigente e
 
 h) Adecuar los instrumentos legales que se requieren para propiciar y facilitar el acceso del Estado de Nuevo León a mayores beneficios de todos los Fondos de Recursos Federales tendientes a promover ordenadamente el Desarrollo Metropolitano;
 
-i) Promover la mejoría en la coordinación Interinstitucional entre los tres órdenes de gobierno, así como con la sociedad civil, mediante el intercambio de experiencias e información que permita trazar acciones concretas para ordenar el crecimiento entre los Municipios Metropolitanos; y
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
 
-j) Los demás asuntos e iniciativas que el Pleno del Congreso del (sic) encomiende.
+i) Promover la mejoría en la coordinación Interinstitucional entre los tres órdenes de gobierno, así como con la sociedad civil, mediante el intercambio de experiencias e información que permita trazar acciones concretas para ordenar el crecimiento entre los Municipios Metropolitanos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2023)</small>
+
+j) La legislación relativa a la conurbación e infraestructura en el Estado;
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+k) Los asuntos que requieran el estudio, revisión y adecuación del marco jurídico para acceder a beneficios de Fondos Federales para el mejoramiento de la infraestructura para el desarrollo metropolitano; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE JUNIO DE 2023)</small>
+
+l) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 2 DE JUNIO DE 2023)</small>
+
+XXV.- Comisión de la Familia y Derechos de la Primera Infancia, Niñas, Niños y Adolescentes:
+
+a) Las iniciativas a la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nuevo León;
+
+b) Las iniciativas relacionadas con el reforzamiento del marco jurídico para la protección de los derechos de la primera infancia, de las niñas, niños y adolescentes;
+
+c) Las Iniciativas en materia de protección de la niñez;
+
+d) Los asuntos concernientes a promover la participación de niñas, niños y adolescentes en los ámbitos cultural, artístico y deportivo de la sociedad, así como, todos aquellos asuntos relacionados con los procesos jurisdiccionales y de procuración de justicia en los que se vean involucrados sus derechos y libertades;
+
+e) Organizar y llevar a cabo anualmente el Parlamento Infantil del Estado de Nuevo León;
+
+f) La legislación, políticas, planes y programas tendientes a la promoción, desarrollo y fortalecimiento de los valores y defensa de la familia;
+
+g) La revisión del marco normativo relacionado con la familia; y
+
+h) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
 
@@ -3048,3 +3090,11 @@ PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el
 SEGUNDO.- La Unidad de Género deberá instalarse a más tardar treinta días naturales siguientes, contados a partir del día de la siguiente publicación del presente Decreto.
 
 TERCERO.- Anualmente se asignará una partida específica en la ley de Egresos del Estado de Nuevo León, para que la Unidad de Género cumpla sus funciones."
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 396. SE REFORMAN LAS FRACCIONES IX, XXIII Y XXIV DEL ARTÍCULO 70, Y SE ADICIONA UNA FRACCIÓN XXV AL ARTÍCULO 70, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA DENOMINACIÓN DE LA FRACCIÓN IX, EL INCISO E) DE LA FRACCIÓN IX, EL INCISO A) DE LA FRACCIÓN XV, LOS INCISOS I) Y J) DE LA FRACCIÓN XXIV, TODOS DEL ARTÍCULO 39; SE ADICIONAN LOS INCISOS F) Y G) A LA FRACCIÓN IX, LOS INCISOS K) Y L) A LA FRACCIÓN XXIV Y UNA FRACCIÓN XXV, QUE CONTIENE LOS INCISOS A) AL H) TODOS DEL ARTÍCULO 39 Y SE DEROGA EL INCISO B) DE LA FRACCIÓN V, EL INCISO H) DE LA FRACCIÓN VII Y EL INCISO D) DE LA FRACCIÓN XV, TODOS DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, o en su caso, al día siguiente de su publicación.
+
+SEGUNDO.- Una vez instalada la Comisión de la Familia y Derechos de la Primera Infancia, Niñas, Niños y Adolescentes, la Presidencia del H. Congreso del Estado de Nuevo León, instruirá a la Oficialía Mayor para realizar los trámites correspondientes para el returno de las iniciativas de la materia de dicha Comisión conforme la fracción XXV del presente Decreto.
