@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-de-la-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-07"
-last_updated: "2022-11-30"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-06-06"
 ---
 # CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MEXICO -- ANTES CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL --
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE NOVIEMBRE DE 2023 EN EL G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 30 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 2 DE JUNIO DE 2023.
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -216,27 +218,41 @@ II. Actos Anticipados de Precampaña. Son las expresiones que se realicen bajo c
 
 No se considerarán Actos Anticipados de Precampaña las actividades que desarrollen las personas titulares de cualquier puesto de elección popular que pretendan optar por contender en los procesos internos partidistas para buscar la reelección o cualquiera de sus colaboradores remunerados con recursos públicos siempre y cuando en dichos actos no se pronuncien expresiones proselitistas, propuestas de precampaña o cualquier expresión en el sentido del párrafo anterior.
 
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+II Bis. Campañas negativas: Cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita o comparta información falsa que atente contra el honor, reputación, integridad, dignidad, intimidad, vida privada de un candidato, dirigida a influir de manera negativa en las preferencias electorales de los ciudadanos;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+II Bis (sic). Estado de postración. Es un abatimiento por enfermedad o aflicción, es decir, que una persona no es capaz de hacer ciertas actividades o movilizarse por su cuenta de forma permanente derivado de alguna discapacidad certificada médicamente.
+
+Para tal efecto, deberá garantizarse, conforme a los principios rectores de la materia electoral y bajo supervisión y vigilancia de los partidos políticos, un mecanismo previo a la jornada electoral que permita el ejercicio del voto de dichas personas ciudadanas. Los votos serán abiertos y computados hasta la etapa correspondiente, el domingo de la elección.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE JUNIO DE 2023)</small>
+
+III. Bloques de competitividad. Mecanismo por el que se garantiza la paridad de género en las postulaciones en igualdad de condiciones de las personas de género femenino y masculino. Para las candidaturas a las diputaciones al Congreso de la Ciudad de México, el Instituto deberá dividir la totalidad de los distritos uninominales en 3 bloques de competitividad por partido o coalición electoral; alto, intermedio y bajo, cada uno integrado por 11 distritos uninominales. Para las candidaturas a ocupar la titularidad de las alcaldías, el Instituto deberá dividir las 16 demarcaciones en 3 bloques de competitividad; el bloque competitivo contará con 6 candidaturas a las alcaldías, el bloque intermedio y bajo contarán con 5 candidaturas a las alcaldías, respectivamente.
+
 > <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-III. Paridad de género. Es el principio constitucional que ordena el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos político electorales. El derecho de igualdad política entre mujeres y hombres, se garantiza con la integración cualitativa y cuantitativa del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación, en forma horizontal y vertical.
+IV. Paridad de género. Es el principio constitucional que ordena el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos político electorales. El derecho de igualdad política entre mujeres y hombres, se garantiza con la integración cualitativa y cuantitativa del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación, en forma horizontal y vertical.
 
 > <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-IV. Paridad de género horizontal. Obligación que tienen los partidos políticos de postular en igualdad de porcentajes a los géneros femenino y masculino que encabezan las fórmulas de diputaciones, alcaldías o planillas para las concejalías en todos los distritos electorales de la ciudad de México.
+V. Paridad de género horizontal. Obligación que tienen los partidos políticos de postular en igualdad de porcentajes a los géneros femenino y masculino que encabezan las fórmulas de diputaciones, alcaldías o planillas para las concejalías en todos los distritos electorales de la ciudad de México.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE JULIO DE 2020)</small>
 
-V. Violencia Política. Son las acciones, conductas y omisiones que transgreden las normas electorales y/o los derechos político electorales de la ciudadanía en procesos democráticos o fuera de ellos, cometidas por una persona o un grupo, que tienen por objeto o resultado, sesgar, condicionar, restringir, impedir, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, goce y/o ejercicio de derechos políticos o de las prerrogativas inherentes a un cargo público lesionar la legalidad y certeza de las elecciones; dañar la integridad institucional y/o realizar fraude a la ley.
+VI. Violencia Política. Son las acciones, conductas y omisiones que transgreden las normas electorales y/o los derechos político electorales de la ciudadanía en procesos democráticos o fuera de ellos, cometidas por una persona o un grupo, que tienen por objeto o resultado, sesgar, condicionar, restringir, impedir, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, goce y/o ejercicio de derechos políticos o de las prerrogativas inherentes a un cargo público lesionar la legalidad y certeza de las elecciones; dañar la integridad institucional y/o realizar fraude a la ley.
 
 > <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-VI. Violencia Política de Género. Son las acciones, conductas, y omisiones que violentan, transgreden normas electorales o derechos político electorales de la ciudadanía en procesos democráticos, electorales, de participación ciudadana o fuera de ellos, que conllevan un elemento discriminador por razones de género, como pueden ser patrones, roles, identidades, estereotipos, relaciones asimétricas de poder, condiciones de vulnerabilidad, exclusión, diferenciación no justificada o negación del reconocimiento de la igualdad de derechos y dignidad de todas las personas por cualquiera de las características inherentes a la condición humana.
+VII. Violencia Política de Género. Son las acciones, conductas, y omisiones que violentan, transgreden normas electorales o derechos político electorales de la ciudadanía en procesos democráticos, electorales, de participación ciudadana o fuera de ellos, que conllevan un elemento discriminador por razones de género, como pueden ser patrones, roles, identidades, estereotipos, relaciones asimétricas de poder, condiciones de vulnerabilidad, exclusión, diferenciación no justificada o negación del reconocimiento de la igualdad de derechos y dignidad de todas las personas por cualquiera de las características inherentes a la condición humana.
 
 Estas acciones u omisiones son ejercidas en contra de cualquier persona, particularmente en contra de aquellas en situación de vulnerabilidad, y tienen por objeto o resultado sesgar, condicionar, impedir, restringir, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, goce y/o ejercicio de derechos político electorales o de las prerrogativas inherentes a un cargo público.
 
 > <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-VII. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+VIII. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
 Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
@@ -244,13 +260,15 @@ Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley
 
 > <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-VIII. Principio democrático. El que garantiza que sobre la voluntad del pueblo en la elección por mayoría no deberá prevalecer interés o principio alguno, se atenderá a lo que resulte de la elección libre de cada ciudadano a través de los votos depositados en las urnas por las candidatas o candidatos a cargos de elección popular.
+IX. Principio democrático. El que garantiza que sobre la voluntad del pueblo en la elección por mayoría no deberá prevalecer interés o principio alguno, se atenderá a lo que resulte de la elección libre de cada ciudadano a través de los votos depositados en las urnas por las candidatas o candidatos a cargos de elección popular.
 
 > <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-IX. Principio de Igualdad y no discriminación. Todas las personas gozarán de los derechos humanos, cuya interpretación se realizará favoreciendo en todo tiempo a las personas la protección más amplia. Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la orientación sexual, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+X. Principio de Igualdad y no discriminación. Todas las personas gozarán de los derechos humanos, cuya interpretación se realizará favoreciendo en todo tiempo a las personas la protección más amplia. Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la orientación sexual, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-X. Plataforma electoral. Es aquella que para cada proceso electoral deben presentar los partidos políticos nacionales o locales, así como las candidatas y candidatos sin partido, en la que dan a conocer sus planes, programas de gobierno, políticas y presupuestos.
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+XI. Plataforma electoral. Es aquella que para cada proceso electoral deben presentar los partidos políticos nacionales o locales, así como las candidatas y candidatos sin partido, en la que dan a conocer sus planes, programas de gobierno, políticas y presupuestos.
 
 ###### Artículo 5.
 
@@ -268,11 +286,11 @@ Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la 
 
 En la Ciudad de México, son derechos de las ciudadanas y de los ciudadanos:
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-I. Votar y participar en las elecciones federales, locales, consultas populares y demás mecanismos e instrumentos de participación ciudadana conforme lo dispuesto por este Código y demás disposiciones aplicables.
+I. Votar y participar en las elecciones federales, locales, consultas populares y demás mecanismos e instrumentos de participación ciudadana conforme lo dispuesto por este Código y demás disposiciones aplicables. Las ciudadanas y ciudadanos de la Ciudad de México residentes en el extranjero, tendrán derecho a emitir su voto en la elección para la Jefatura de Gobierno, en los términos que determinen la Constitución Federal, las Leyes Generales y este Código;
 
-Las ciudadanas y ciudadanos de la Ciudad de México residentes en el extranjero, tendrán derecho a emitir su voto en la elección para la Jefatura de Gobierno y para las personas Diputadas y Diputados Locales exclusivamente para el caso de candidatos a Diputada o Diputado Migrante, de conformidad con lo dispuesto en la Constitución Federal, las Leyes Generales, la Constitución Local, y este Código;
+Las personas que se encuentren sujetas a prisión preventiva sin sentencia firme tienen derecho a emitir su voto en la elección para la Jefatura de Gobierno, las diputaciones del Congreso, Alcaldías y presupuesto participativo en la Ciudad de México.
 
 II. Asociarse libre, individual y voluntariamente a una Asociación Política para participar en forma pacífica en los asuntos políticos de la Ciudad de México;
 
@@ -346,7 +364,9 @@ VII. Las demás que establezcan las Leyes y demás ordenamientos aplicables.
 
 La democracia electoral en la Ciudad de México tiene como fines:
 
-I. Garantizar el libre ejercicio de los derechos de la ciudadanía de votar y ser votada;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+I. Garantizar el libre ejercicio de los derechos de la ciudadanía de votar y ser votada; así como garantizar el derecho al voto de las personas en prisión preventiva sin sentencia firme.
 
 II. Fomentar y garantizar el derecho fundamental de asociación política de la ciudadanía;
 
@@ -426,13 +446,29 @@ Para ejercer el derecho al voto, las ciudadanas y los ciudadanos originarios res
 
 Los partidos políticos podrán postular a las personas candidatas en coalición o candidaturas comunes en esos comicios.
 
-(NOTA: EL 21 DE SEPTIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2017 Y SUS ACUMULADAS 65/2017, 66/2017, 67/2017, 68/2017, 70/2017, 71/2017, 72/2017, 74/2017 Y 75/2017, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA PLANTEADA EN LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2017, ATRIBUIDA A ESTE ARTÍCULO, RELATIVA A ESTABLECER EN ESTE CÓDIGO MECANISMOS POLÍTICO-ELECTORALES ESPECÍFICOS RELACIONADOS CON EL ACCESO A CARGOS DE ELECCIÓN POPULAR DE LAS PERSONAS INTEGRANTES DE LOS PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES EN LA CIUDAD DE MÉXICO; EN LA INTELIGENCIA DE QUE LA ASAMBLEA LEGISLATIVA DE LA CIUDAD DE MÉXICO DEBERÁ EMITIR, PREVIA CONSULTA A LOS PUEBLOS Y COMUNIDADES INDÍGENAS DE LA CIUDAD DE MÉXICO, EL ACTO LEGISLATIVO QUE SUBSANE ESA OMISIÓN, EL CUAL DEBERÁ ENTRAR EN VIGOR ANTES DEL PROCESO ELECTORAL SIGUIENTE AL QUE INICIE EN ESA LOCALIDAD EN EL MES DE OCTUBRE DE DOS MIL DIECISIETE, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 14.
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas y deberá incluir al menos siete fórmulas de personas jóvenes entre 18 y 35 años de edad en el caso de las candidaturas por el principio de mayoría relativa; y cuatro formulas de jóvenes de entre 18 y 35 años por el principio de representación proporcional.
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas y deberá incluir al menos siete fórmulas de personas jóvenes de 18 hasta 35 años cumplidos al día de la elección, en el caso de las candidaturas por el principio de mayoría relativa; y cuatro fórmulas de personas jóvenes de 18 hasta 35 años cumplidos al día de la elección por el principio de representación proporcional.
 
-En la Ciudad de México los partidos políticos procurarán incluir entre sus candidatos a una persona con discapacidad y a una perteneciente a pueblos y barrios originarios, así como comunidades indígenas residentes de la Ciudad de México.
+De las fórmulas de personas jóvenes a las que hace referencia el inciso anterior, por lo menos una de ellas deberá ser registrada en el bloque de competitividad alto o medio.
+
+En la Ciudad de México los partidos políticos deberán incluir entre sus candidaturas a diputaciones de mayoría relativa al menos una fórmula de cada una de las siguientes poblaciones de atención prioritaria:
+
+a) Con discapacidad;
+
+b) Perteneciente a pueblos y barrios originarios, o comunidades indígenas residentes de la Ciudad de México;
+
+c) De la diversidad sexual y de género;
+
+d) Personas afromexicanas residentes en la Ciudad de México; y
+
+e) Del sector de las personas adultas mayores.
+
+Los partidos políticos, coaliciones o candidaturas comunes dentro de los tres bloques de competitividad, deberán incluir de manera obligatoria entre sus personas candidatas al menos una fórmula de personas pertenecientes a alguno de los grupos de atención prioritaria, procurando que no se repitan entre ellos.
+
+Asimismo, procurarán incluir al menos una fórmula de otros grupos de atención prioritaria reconocidos en la Constitución Política de la Ciudad de México y que cumplan con los requisitos de elegibilidad.
 
 ### CAPÍTULO SEGUNDO. DEL PODER EJECUTIVO LOCAL
 
@@ -458,9 +494,11 @@ Las personas originarias de la Ciudad de México residentes en el extranjero, po
 
 ### CAPÍTULO TERCERO. DE LAS ALCALDÍAS
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 16.
 
-Las alcaldías son órganos político administrativos con personalidad jurídica y autonomía. Se integran por un alcalde o alcaldesa y un concejo, las Alcaldesas o los Alcaldes y Concejales se elegirán mediante el voto, universal, libre, secreto, directo, personal e intransferible, cada tres años, en la misma fecha en que sean electas las personas integrantes del Congreso de la Ciudad de México.
+Las alcaldías son órganos político administrativos con personalidad jurídica y autonomía. Se integran por la persona titular de la alcaldía y un concejo. Las personas titulares de las alcaldías y de las concejalías se elegirán mediante el voto, universal, libre, secreto, directo, personal e intransferible, cada tres años, en la misma fecha en que sean electas las personas integrantes del Congreso de la Ciudad de México.
 
 Las alcaldesas o alcaldes y concejales integrantes de la administración pública de las alcaldías se sujetarán a los principios de buena administración, buen gobierno, y gobierno abierto con plena accesibilidad basado en la honestidad, transparencia, rendición de cuentas, integridad pública, atención y participación ciudadana y sustentabilidad. Para ello propondrán dentro de sus plataformas electorales instrumentos de gobierno electrónico y abierto, innovación social y modernización, en los términos que señala la Constitución local y las leyes.
 
@@ -480,11 +518,11 @@ En los casos en que la persona suplente no asuma el cargo, la vacante será cubi
 
 La o el concejal titular podrá asumir nuevamente sus funciones en el momento que haya cesado el motivo de su suplencia, siempre y cuando no exista impedimento legal alguno.
 
-Las personas integrantes de la alcaldía se elegirán por planillas de entre siete y diez candidatos, según corresponda, ordenadas en forma progresiva, iniciando con la persona candidata a alcalde o alcaldesa y después con las y los concejales y sus respectivos suplentes, donde cada uno representará una circunscripción dentro de la demarcación territorial.
+Las personas integrantes de la alcaldía se elegirán por planillas de entre siete y diez candidaturas, según corresponda, ordenadas en forma progresiva, iniciando con la persona candidata a la alcaldía; después a las personas candidatas a las concejalías, y sus respectivas suplentes, de las cuales cada una representará una circunscripción dentro de la demarcación territorial.
 
-Las fórmulas en la planilla estarán integradas por personas del mismo género, de manera alternada, y deberán incluir por lo menos a una fórmula de jóvenes con edad entre los 18 y 29 años de edad.
+Las fórmulas en la planilla estarán integradas por personas del mismo género de manera alternada, y deberán incluir por lo menos una fórmula de personas jóvenes de 18 a 29 años cumplidos al día de la elección y al menos una fórmula de personas pertenecientes a los grupos de atención prioritaria enunciados en el artículo 14, párrafo segundo del presente Código.
 
-En ningún caso el número de concejales podrá ser menor de diez ni mayor de quince, ni se otorgará registro a una planilla en la que alguna ciudadana o ciudadano aspire a ocupar dos cargos de elección popular dentro de la misma.
+En ningún caso el número de concejalías podrá ser menor de diez ni mayor de quince, ni se otorgará registro a una planilla en la que alguna persona ciudadana aspire a ocupar dos cargos de elección popular dentro de la misma.
 
 ###### Artículo 17.
 
@@ -536,9 +574,17 @@ I. Estar inscrita o inscrito en el Registro Federal de Electores y contar con Cr
 
 II. No estar inhabilitada o inhabilitado para el desempeño del servicio público.
 
-> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE JUNIO DE 2023)</small>
 
-III. No haber sido sentenciada o sentenciado por el delito de violencia política contra las mujeres en razón de género.
+III. No haber sido sentenciada o sentenciado por la comisión dolosa de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 2 DE JUNIO DE 2023)</small>
+
+IV. No haber sido sentenciado o sancionado penal o administrativamente por actos de discriminación por género, identidad o expresión de género, y/u orientación sexual; y
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+V. No estar inscrito en el Registro Nacional de Obligaciones Alimentarias, ni en el Registro de Personas Agresoras Sexuales que se encuentren vigentes en la Ciudad de México.
 
 ###### Artículo 19.
 
@@ -636,13 +682,51 @@ VI. No haber sido sentenciada o sentenciado por el delito de violencia política
 
 Los requisitos para ser concejal serán los mismos que para las personas titulares de las alcaldías, con excepción de la edad que será de 18 años.
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 22.
 
-A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral u otros procesos simultáneos, sean federales, estatales o de la Ciudad de México. En este supuesto, si el registro para el cargo de la elección para la Ciudad de México estuviere hecho, se procederá a la cancelación automática del registro respectivo.
+A ninguna persona podrá registrársele como candidata a distintos cargos de elección popular en el mismo proceso electoral u otros procesos simultáneos, sean federales, estatales o de la Ciudad de México. En este supuesto, si el registro para el cargo de la elección para la Ciudad de México estuviere hecho, se procederá a la cancelación automática del registro respectivo.
 
-Los Partidos Políticos podrán registrar hasta cinco fórmulas de candidatos a Diputadas y Diputados del Congreso de la Ciudad de México que contiendan simultáneamente por los principios de mayoría relativa y de representación proporcional, y en un mismo proceso electoral. En el supuesto de (sic) alguna de estas cinco fórmulas tenga derecho a que le sea asignada una diputación por el principio de representación proporcional y que tal asignación se repita por aparecer en la lista “A” y en la lista “B”, será considerada en la que esté mejor posicionada. El lugar que dicha fórmula deje vacante, será ocupado por la fórmula siguiente en el orden de prelación de la lista definitiva.
+Para el registro de las personas candidatas a ocupar las diputaciones por el principio de mayoría relativa, el Instituto deberá garantizar lo siguiente:
 
-Salvo en el caso de Diputados al Congreso, los partidos políticos procurarán no registrar candidatos, que habiendo participado en una precampaña por un partido, pretendan ser registrados por otro en el mismo proceso electoral.
+A) Para cada partido político, el Instituto deberá ordenar de manera decreciente, la rentabilidad de cada uno de los distritos uninominales, con base en el porcentaje de votación local emitida, que cada partido recibió en el proceso electoral inmediato anterior.
+
+B) Para cada partido político, los once mejores distritos, con respecto al proceso electoral inmediato anterior, se le considerará como bloque de alta competitividad. Los once distritos uninominales siguientes, integrarán el bloque de media competitividad; y los últimos once distritos electorales, serán el bloque de baja competitividad. En cada bloque, los partidos deberán garantizar que por lo menos cinco candidaturas, sean para el género femenino.
+
+C) El número de candidaturas asignadas a personas del género femenino no podrá ser menor a diecisiete, considerando la suma de las candidaturas asignadas a este género en los tres bloques de competitividad.
+
+Los Partidos Políticos podrán registrar hasta cinco fórmulas de candidatos a Diputadas y Diputados del Congreso de la Ciudad de México que contiendan simultáneamente por los principios de mayoría relativa y de representación proporcional, y en un mismo proceso electoral.
+
+En el caso de que la persona candidata se encuentre en este supuesto, y obtenga el triunfo en el distrito que compitió por el principio de mayoría relativa, dejará vacante el lugar que le fue asignado en la lista “A”, y dicha vacancia será ocupada por la siguiente fórmula, respetando el orden de prelación en el que fueron registradas.
+
+En el supuesto de que alguna de estas cinco fórmulas tenga derecho a que le sea asignada una diputación por el principio de representación proporcional y que tal asignación se repita por aparecer en la lista “A” y en la lista “B”, será considerada en la que esté mejor posicionada. El lugar que dicha fórmula deje vacante, será ocupado por la fórmula siguiente en el orden de prelación de la lista definitiva.
+
+Para el registro de las personas candidatas a ocupar la titularidad de las alcaldías, el Instituto deberá garantizar lo siguiente:
+
+A) Para cada partido político, el Instituto deberá ordenar de manera decreciente, la rentabilidad de cada una de las alcaldías, con base en el porcentaje de votación local emitida, que cada partido recibió en el proceso electoral inmediato anterior.
+
+B) Para cada partido político, las seis alcaldías con mejor porcentaje de rentabilidad, con respecto al proceso electoral inmediato anterior, se le considerará como bloque de alta competitividad. Las cinco alcaldías siguientes, integrarán el bloque intermedio; y las últimas cinco alcaldías, serán el bloque bajo. En el bloque alto, los partidos deberán garantizar que la mitad de las candidaturas, sean para el género femenino. Para los bloques intermedio y bajo, integrados por cinco alcaldías cada uno, los partidos políticos, podrán registrar tres candidaturas de un género y dos de un género distinto.
+
+C) El número de candidaturas asignadas a personas del género femenino no podrá ser menor a ocho, considerando la suma de las candidaturas asignadas a este género en los tres bloques de competitividad.
+
+En el caso de los partidos políticos que participen en coalición o bajo la figura de candidatura común, tanto para los distritos locales como para las alcaldías, el análisis del cumplimiento de la postulación paritaria en los Bloques de Competitividad se realizará de conformidad con lo siguiente:
+
+a) A partir del origen partidario de las postulaciones que se establezca en el convenio correspondiente, así como aquellas postulaciones realizadas de manera individual por los partidos, el Instituto elaborará un listado de manera decreciente, ordenando los Distritos o Alcaldías siglados por cada partido político con base en el porcentaje de votación local emitida que cada partido recibió en el proceso electoral inmediato anterior.
+
+b) De la lista elaborada de conformidad con el inciso anterior, el Instituto Electoral analizará y dividirá en tres Bloques de Competitividad las postulaciones de cada Partido Político. A fin de cumplir con el principio de paridad, será necesario que:
+
+I. Cada Partido Político postulará de manera paritaria hombres y mujeres en cada uno de los tres bloques de competitividad.
+
+II. En caso de que el número de postulaciones hechas por el partido político sea impar, no podrá haber más hombres que mujeres en la totalidad de las candidaturas.
+
+III. De resultar que tres bloques de competitividad contienen una integración impar, por lo menos dos de los tres bloques de competitividad deberán de incluir una fórmula más de personas candidatas de género femenino.
+
+IV. De presentarse dos bloques de competitividad con una integración impar, se podrá postular a un hombre más en alguno de los bloques de competitividad.
+
+V. Para el caso de que alguno de los partidos políticos que participan en la coalición o candidatura común, realice únicamente una postulación, esta deberá corresponder para mujer.
+
+En caso de mediar coalición o candidatura común, se cumplirá con las acciones afirmativas establecidas en el presente código de forma conjunta, estableciendo en el convenio de coalición el partido político que cubrirá cada acción afirmativa conforme a sus respectivos bloques de competitividad.
 
 ###### Artículo 23.
 
@@ -668,17 +752,29 @@ El Congreso de la Ciudad de México solo concederá licencias, siempre y cuando 
 
 #### SECCIÓN PRIMERA. PARA LAS DIPUTACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 24.
 
-Para la asignación de Diputadas y Diputados electos por el principio de representación proporcional se tendrán en cuenta los conceptos y principios siguientes:
+Para la asignación de diputaciones electas por el principio de representación proporcional se tendrán en cuenta los conceptos y principios siguientes:
 
 I. Cociente natural: es el resultado de dividir la votación local emitida entre el número de Diputaciones de representación proporcional por asignar, en los términos de este Código;
 
 II. Cociente de distribución: Es el resultado de dividir la votación ajustada entre el número de Diputaciones de representación proporcional que quedan por asignar, una vez verificado el límite máximo de sobrerrepresentación, en los términos de este Código;
 
-III. Lista "A": Relación de diecisiete fórmulas de candidaturas a las diputaciones: propietario y suplente del mismo género, listados en orden de prelación alternando fórmulas de género distinto de manera sucesiva, a elegir por el principio de representación proporcional, de las cuales 4 deberán estar integradas por jóvenes de 18 a 35 años;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-IV. Lista "B": Relación de diecisiete fórmulas de candidaturas a las diputaciones que no lograron el triunfo en la elección por el principio de mayoría relativa del distrito en que participaron, pero que alcanzaron a nivel distrital los mayores porcentajes de la votación local emitida, comparados respecto de otras fórmulas de su propio partido en esa misma elección; con la finalidad de garantizar la paridad de género, una vez que se determinó el primer lugar de ésta lista, el segundo lugar será ocupado por la fórmula del otro género con mayor porcentaje de la votación local emitida, e irán intercalando de esta manera hasta concluir la integración de la lista.
+III. Lista “A”: Relación de diecisiete fórmulas de candidaturas a las diputaciones: persona propietaria y suplente del mismo género, listados en orden de prelación alternando fórmulas de género distinto de manera sucesiva, a elegir por el principio de representación proporcional, de las cuales 4 deberán estar integradas por personas jóvenes de 18 hasta 35 años cumplidos al día de la elección y al menos una fórmula integrada por personas pertenecientes a los grupos de atención prioritaria enunciados en la Constitución Política de la Ciudad de México y que cumplan con los requisitos de elegibilidad.
+
+Será derecho exclusivo de los partidos políticos conforme a su facultad de autodeterminación elegir el género con el que iniciará su lista “A”.
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+IV. Lista “B”: Relación de diecisiete fórmulas de candidaturas a diputadas y diputados de los partidos políticos, que no obtuvieron la mayoría de votos en la elección por el principio de mayoría relativa en el distrito en que participaron, pero que alcanzaron a nivel distrital, los mayores porcentajes de la votación distrital efectiva emitida en cada distrito, comparados respecto de otras fórmulas de personas candidatas de su propio partido en esa misma elección.
+
+Con la finalidad de garantizar la paridad de género en la integración del Congreso de la Ciudad de México, el primer lugar de la lista “B” de cada partido político lo encabezará la fórmula de personas candidatas que hayan obtenido el mayor porcentaje de la votación distrital efectiva, del género distinto a la fórmula que encabece la lista “A” del partido político respectivo, intercalándose así géneros distintos en el primer bloque de asignación de representación proporcional.
+
+Una vez que se determinó el primer lugar de lista B de cada partido, el segundo lugar será ocupado por la fórmula de otro género con mayor porcentaje de la votación distrital efectiva por cada distrito, y se irán intercalando de esta manera hasta concluir la integración de la lista.
 
 V. Lista Definitiva, es el resultado de intercalar las fórmulas de candidatos de las Listas "A" y "B", que será encabezada siempre por la primera fórmula de la Lista "A". Tal intercalado podrá generar bloques de hasta dos fórmulas del mismo género, pero de diferente lista de origen.
 
@@ -697,6 +793,10 @@ X. Votación total emitida: es la suma de todos los votos depositados en las urn
 XI. Votación válida emitida: es la que resulte de deducir de la votación total emitida, los votos a favor de candidatos no registrados y los votos nulos. Servirá para determinar si los partidos políticos obtienen el 3% de esta votación de acuerdo a la Constitución.
 
 XII. Votación local emitida: es la que resulte de deducir de la votación válida emitida, la votación a favor de los candidatos sin partido y los votos a favor de los partidos políticos que no alcanzaron el umbral del 3% de la votación válida emitida.
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+XIII. Votación distrital efectiva: Es la votación que resulta de deducir de la votación total emitida en el distrito electoral correspondiente; los votos a favor de los Partidos Políticos o coaliciones que no hayan obtenido el 3% de la votación total emitida en la Ciudad, los votos de las candidatas y candidatos sin partido político, los votos de los candidatos no registrados y los votos nulos.
 
 #### SECCIÓN SEGUNDA. PARA CONCEJALES
 
@@ -726,33 +826,45 @@ En la asignación de las Diputaciones electas por el principio de representació
 
 I. Registrar una Lista “A”, con 17 fórmulas de candidatos a Diputadas y Diputados a elegir por el principio de representación proporcional, conforme a lo que se estipula en el presente Código.
 
-II. Obtener cuando menos el tres por cierto de la votación válida emitida;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-III. Registrar candidatos a Diputadas o Diputados de mayoría relativa en todos los distritos uninominales en que se divide la Ciudad de México; y
+II. Obtener cuando menos el tres por ciento de la votación válida emitida en la elección de diputaciones al Congreso de la Ciudad de México;
 
-IV. Garantizar la paridad de género en sus candidaturas.
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+III. Registrar candidatos a Diputadas y Diputados de mayoría relativa en todos los distritos uninominales en que se divide la Ciudad de México; y
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+IV. Garantizar la paridad de género en sus candidaturas a diputaciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 27.
 
-Para la asignación de curules por el principio de representación proporcional se observarán las siguientes reglas:
+Para la designación de curules por el principio de representación proporcional se observarán las siguientes reglas:
 
 (NOTA: EL 21 DE SEPTIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO NOVENO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2017 Y SUS ACUMULADAS 65/2017, 66/2017, 67/2017, 68/2017, 70/2017, 71/2017, 72/2017, 74/2017 Y 75/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 I. NINGÚN PARTIDO POLÍTICO PODRÁ CONTAR CON MÁS DE TREINTA Y TRES DIPUTADAS Y DIPUTADOS ELECTOS POR AMBOS PRINCIPIOS.
 
-(NOTA: EL 21 DE SEPTIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO NOVENO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2017 Y SUS ACUMULADAS 65/2017, 66/2017, 67/2017, 68/2017, 70/2017, 71/2017, 72/2017, 74/2017 Y 75/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-II. EN NINGÚN CASO UN PARTIDO POLÍTICO PODRÁ CONTAR CON UN NÚMERO DE DIPUTADAS Y DIPUTADOS, POR AMBOS PRINCIPIOS, QUE REPRESENTE UN PORCENTAJE DEL TOTAL DE LA LEGISLATURA QUE EXCEDA EN CUATRO PUNTOS A SU PORCENTAJE DE VOTACIÓN LOCAL EMITIDA. ESTA BASE NO SE APLICARÁ AL PARTIDO POLÍTICO QUE POR SUS TRIUNFOS EN DISTRITOS UNINOMINALES OBTENGA UN PORCENTAJE DE CURULES DEL TOTAL DE LA LEGISLATURA, SUPERIOR A LA SUMA DEL PORCENTAJE DE SU VOTACIÓN LOCAL EMITIDA MÁS EL CUATRO POR CIENTO.
+II. En ningún caso un partido político podrá contar con un número de Diputadas y Diputados, por ambos principios, que represente un porcentaje del total de la legislatura que exceda en ocho puntos a su porcentaje de votación local emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación local emitida más el ocho por ciento.
 
 III. El partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido.
 
-(NOTA: EL 21 DE SEPTIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO NOVENO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2017 Y SUS ACUMULADAS 65/2017, 66/2017, 67/2017, 68/2017, 70/2017, 71/2017, 72/2017, 74/2017 Y 75/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-IV. EN LA INTEGRACIÓN DEL CONGRESO LOCAL, EL PORCENTAJE DE REPRESENTACIÓN DE UN PARTIDO POLÍTICO NO PODRÁ SER MENOR AL PORCENTAJE DE VOTACIÓN LOCAL EMITIDA QUE HUBIERE RECIBIDO MENOS CUATRO PUNTOS PORCENTUALES;
+IV. En la integración del Congreso Local, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación local emitida que hubiere recibido menos ocho puntos porcentuales;
 
 V. Para la asignación de diputaciones de representación proporcional del Congreso de la Ciudad de México se utilizará la fórmula atendiendo las reglas siguientes:
 
-a) Se intercalarán las fórmulas de candidatos y candidatas de ambas listas, iniciándose con los candidatos de la Lista "A".
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+a) Se intercalarán las fórmulas de candidaturas a las diputaciones de las listas “A” y “B” de cada partido político que haya participado en el proceso electoral del que se trate.
+
+Con la finalidad de garantizar la paridad entre hombres y mujeres en la integración del Congreso de la Ciudad de México, el intercalado de las fórmulas de candidatas y candidatos iniciará siempre por la Lista “A”, seguida de la fórmula que encabeza la “Lista B”, la cual deberá, (sic) cualquier caso, ser de género distinto a la fórmula inicial de la “Lista A”.
 
 b) A la votación total emitida se le deducirán los votos nulos y los votos para candidatos no registrados. El resultado será la votación válida emitida.
 
@@ -764,9 +876,9 @@ e) Por el cociente natural se distribuirán a cada partido político tantos dipu
 
 f) Después de aplicarse el cociente natural, si aún quedasen diputados por repartir, éstos se asignarán por el método de resto mayor, siguiendo el orden decreciente de los restos de votos no utilizados para cada uno de los partidos políticos.
 
-(NOTA: EL 21 DE SEPTIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO NOVENO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2017 Y SUS ACUMULADAS 65/2017, 66/2017, 67/2017, 68/2017, 70/2017, 71/2017, 72/2017, 74/2017 Y 75/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL ACÁPITE DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2023)</small>
 
-VI. Si una vez hecha dicha asignación, algún partido político supera el techo de TREINTA Y TRES diputados por ambos principios o tiene una sobrerrepresentación SUPERIOR AL CUATRO POR CIENTO DE SU VOTACIÓN LOCAL EMITIDA, que no sea producto de sus triunfos de mayoría relativa, le serán deducidos el número de diputaciones de representación proporcional hasta ajustarse a los límites establecidos, en los términos siguientes:
+VI. Si una vez hecha dicha asignación, algún partido político supera el techo de treinta y tres diputados por ambos principios o tiene una sobrerrepresentación superior al ocho por ciento de su votación local emitida, que no sea producto de sus triunfos de mayoría relativa, le serán deducidos el número de diputaciones de representación proporcional hasta ajustarse a los límites establecidos, en los términos siguientes:
 
 a) Se determinarán cuántos diputados de representación proporcional tuvo en exceso, los cuales le serán deducidos;
 
@@ -782,11 +894,17 @@ e) Por el cociente de distribución se asignarán al resto de los partidos polí
 
 f) Después de aplicarse el cociente de distribución, si aún quedan diputados por repartir, éstos se asignarán por el método de resto mayor, siguiendo el orden decreciente de los restos de votos no utilizados para cada uno de los partidos políticos.
 
-g) Concluida la asignación total del número de diputaciones por el principio de representación proporcional a cada uno de los partidos políticos que superaron el tres por ciento de la votación válida emitida, se verificará si en conjunto con el total de diputados electos que obtuvieron el triunfo por el principio de mayoría relativa, se cumple con el principio de paridad en la integración del Congreso Local establecido en el artículo 29, Base A, numeral 3 de la Constitución Local.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
 
-h) En caso de existir una integración de las diputaciones electas por ambos principios no paritaria, se deducirán tantos diputados como sean necesarios del género sobrerrepresentado, y se sustituirán por las fórmulas del género subrepresentado (sic).
+g) Concluida la asignación total del número de diputaciones por el principio de representación proporcional a cada uno de los partidos políticos que superaron el tres por ciento de la votación válida emitida, se verificará si en conjunto con el total de diputados electos que obtuvieron el triunfo por el principio de mayoría relativa, se cumple con el principio de paridad de género en la integración del Congreso de la Ciudad de México establecido en el artículo 29, Base A, numeral 3 de la Constitución Política de la Ciudad de México.
 
-i) Para este fin, se alternará a los partidos políticos que hayan recibido diputaciones por el principio de representación proporcional, empezando por el partido que recibió el menor porcentaje de votación local emitida, y de ser necesario, continuando con el partido que haya recibido el segundo menor porcentaje de la votación local emitida y así sucesivamente en orden ascendente hasta cubrir la paridad.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+h) Si concluido el procedimiento anterior, se presentará el caso, que la integración de la totalidad de las diputaciones del Congreso de la Ciudad de México electas por ambos principios no tuviera paridad de género, se deducirán de las diputaciones de representación proporcional, tantas diputaciones como sean necesarias del género sobrerrepresentado y se sustituirán por las fórmulas del género subrepresentado, con la finalidad que en la integración del Congreso de la Ciudad de México se garantice el principio de paridad de género.
+
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+i) Para realizar el procedimiento antes descrito, se deducirán las diputaciones del género sobrerepresentado (sic) alternando a los partidos políticos que hayan recibido diputaciones por el principio de representación proporcional, empezando en cualquier caso, por el partido político que recibió el menor porcentaje de la votación local emitida, y de ser necesario, continuando con el partido político que haya recibido el segundo menor porcentaje de la votación local emitida y así sucesivamente en orden ascendente hasta cubrir la paridad de género en la integración del Congreso de la Ciudad de México.
 
 j) Si una vez deduciendo una diputación del género sobrerrepresentado de todos los partidos políticos que recibieron diputaciones por el principio de representación proporcional, aún no se ha llegado a la paridad de la integración del Congreso Local, se repetirá el procedimiento previsto en el párrafo inmediato anterior.
 
@@ -888,7 +1006,7 @@ A través del Instituto Electoral se realiza la organización, el desarrollo y l
 
 En el ejercicio de esta función, serán principios rectores la certeza, legalidad, independencia, imparcialidad, objetividad y máxima publicidad.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
 
 Gozará de autonomía en su funcionamiento e independencia en sus decisiones, de acuerdo con lo previsto en las Leyes Generales, este Código y la Ley de Participación Ciudadana de la Ciudad de México, incorporando como principios rectores la racionalidad, austeridad, eficacia, eficiencia, economía y rendición de cuentas en el ejercicio del gasto público; por lo que sus fines y acciones se orientan a:
 
@@ -896,7 +1014,13 @@ I. Contribuir al desarrollo de la vida democrática;
 
 II. Fortalecer el régimen de asociaciones políticas;
 
-III. Asegurar a los ciudadanos el ejercicio de los derechos político-electorales y vigilar el cumplimiento de sus obligaciones;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+III. Garantizar a la ciudadanía el ejercicio de los derechos político-electorales y vigilar el cumplimiento de sus obligaciones;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+III Bis. Garantizar el derecho al voto de las personas en prisión preventiva sin sentencia firme, de conformidad con lo establecido en el presente Código.
 
 IV. Garantizar la celebración periódica, auténtica y pacífica de las elecciones para renovar a los integrantes del Congreso de la Ciudad de México, al Jefe de Gobierno y de las Alcaldías;
 
@@ -962,7 +1086,9 @@ q) Convenir con el Instituto Nacional para que éste asuma la organización inte
 
 r) Realizar campañas de difusión en diversos medios de comunicación y redes sociales, que explique la figura de candidatos sin partido y el procedimiento para recabar el apoyo ciudadano previo y durante el periodo de recolección de éste.
 
-s) Determinar el uso parcial o total de sistemas de votación electrónica en los procesos electorales y mecanismos de participación ciudadana para recibir y computar la votación de la ciudadanía de la Ciudad de México, incluyendo la residente en el extranjero, con base en las medidas de certeza y seguridad que estime pertinentes y, en su caso, en los parámetros que para los procesos electorales establezca la Ley General y el Instituto Nacional a través de sus acuerdos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2023)</small>
+
+s) Determinar el uso parcial o total de sistemas de votación electrónica en los procesos electorales y mecanismos de participación ciudadana para recibir y computar la votación de la ciudadanía de la Ciudad de México, incluyendo la residente en el extranjero, personas en estado de postración con base en las medidas de certeza y seguridad que estime pertinentes y, en su caso, en los parámetros que para los procesos electorales establezca la Ley General y el Instituto Nacional a través de sus acuerdos.
 
 Además, en los casos de referéndum, plebiscito, consulta popular, iniciativa ciudadana, consulta ciudadana y revocación de mandato, el Instituto Electoral, además, vigilará y ejecutará el cumplimiento, acreditación de los requisitos, organización, desarrollo, publicación y validación de los resultados derivados de los mismos
 
@@ -1190,7 +1316,9 @@ El Instituto promoverá el uso e implementación de instrumentos electrónicos o
 
 e) Los programas, materiales, estrategias, y demás acciones orientadas al fomento de la educación cívica y la construcción de ciudadanía. Dichas acciones deberán estar orientadas a promover la plena inclusión y participación social, y el ejercicio de los derechos político-electorales.
 
-Así mismo, aprobará la normatividad relacionada con el empleo de sistemas e instrumentos tecnológicos de votación y voto de las ciudadanas y los ciudadanos de la Ciudad de México residentes en el extranjero, en términos de los lineamientos que al efecto emita el Instituto Nacional;
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+Asimismo, aprobará la normatividad relacionada con el empleo de sistemas e instrumentos tecnológicos de votación y voto de las ciudadanas y los ciudadanos de la Ciudad de México residentes en el extranjero, en estado de postración, en términos de los lineamientos que al efecto emita el Instituto Nacional o en su caso, el Consejo General;
 
 f) La normatividad que mandata la legislación local en materia de Transparencia y Acceso a la Información Pública, Protección de Datos Personales y Archivos, entre otras; y
 
@@ -1280,7 +1408,13 @@ XXIX. Aprobar el formato de boleta electoral impresa que será utilizada por la 
 
 En caso de que se instrumente el voto electrónico, aprobar el modelo de boleta electoral electrónica, documentación, instructivos, herramientas y materiales que se requieran para el ejercicio del voto electrónico.
 
-XXX. En su caso, autorizar el uso parcial o total de sistemas e instrumentos en los procesos electorales y de participación ciudadana, con base en la propuesta que le presente la Comisión de Organización Electoral y Geoestadística;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+XXX. En su caso, autorizar el uso parcial o total de sistemas e instrumentos en los procesos electorales y de participación ciudadana, con base en la propuesta que le presente la Comisión de Organización Electoral y Geoestadística; principalmente en lo relativo al voto de las personas en estado de postración.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+Para los efectos del párrafo anterior, se podrán celebrar convenios con autoridades federales o locales en las ramas de salud y desarrollo social;
 
 XXXI. Aprobar, en coordinación con el Consejo General del Instituto Nacional para la asunción de la organización integral, el formato de boleta electoral impresa, boleta electoral electrónica, que será utilizada por los ciudadanos residentes en el extranjero para la elección de la Jefatura de Gobierno, así como el instructivo para su uso, las herramientas y materiales que se requieran para el ejercicio del voto electrónico, los formatos de las actas para escrutinio y cómputo y los demás documentos y materiales electorales; así como vigilar el cumplimiento de las disposiciones emitidas por el Instituto Nacional para la recepción del voto de los ciudadanos residentes en el extranjero. En general, proveer lo necesario para su cumplimiento.
 
@@ -1325,6 +1459,12 @@ XLIX. Desempeñar las atribuciones que le confiere el Estatuto del Servicio en r
 L. Designar al área u órgano del Instituto Electoral que fungirá como Órgano de Enlace para asuntos del Servicio Profesional Electoral Nacional, así como al funcionario que fungirá como autoridad instructora para efectos del Procedimiento Laboral Disciplinario previsto en el Estatuto del Servicio;
 
 LI. Aprobar a propuesta de la Junta Administrativa, la estructura orgánica del Instituto Electoral, conforme a las previsiones generales de este Código, las necesidades del servicio y la disponibilidad presupuestal, y
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+LI Bis. Celebrar los convenios de apoyo, colaboración y coordinación con el Instituto Nacional, así como con las autoridades y órganos administrativos federales y locales competentes para garantizar que en los centros penitenciarios ubicados en la Ciudad de México se garantice la emisión del voto de las personas en prisión preventiva sin sentencia firme.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 2 DE JUNIO DE 2023)</small>
 
 LII. Las demás señaladas en este Código.
 
@@ -1646,6 +1786,10 @@ i) Conocer y revisar los temas referentes a Violencia Política de Género;
 
 j) Las demás que se señalen en este Código y en la normativa aplicable.
 
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+XII Bis. Revisar, observar y aprobar las estrategias para difundir y tutelar el derecho de las personas en estado de postración;
+
 XIII. Las demás que le confiera este Código y que resulten necesarias para el cumplimiento de sus atribuciones.
 
 > <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
@@ -1724,6 +1868,30 @@ Las Comisiones Provisionales tendrán la integración que determine el Consejo G
 
 El Consejo General aprobará una Comisión Provisional para que formule el proyecto de Programa General de Desarrollo del Instituto Electoral, el cual deberá presentarse para su aprobación a más tardar en enero del año que corresponda.
 
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 70 Bis.
+
+Para garantizar el derecho al voto de las personas en prisión preventiva sin sentencia firme, durante las elecciones para la Jefatura de Gobierno, Diputaciones al Congreso local, así como Alcaldías, el Consejo General conformará una Comisión provisional encargada de coordinar las actividades tendientes a recabar el voto.
+
+Serán personas integrantes de esta comisión, tres personas Consejeras Electorales con derecho a voz y voto, una persona representante de cada Partido Político quienes sólo tendrán derecho a voz. La Secretaría de Seguridad Ciudadana de la Ciudad de México podrá emitir a la comisión, únicamente opiniones en materia logística-administrativa en las tareas en que se vea involucrada, dentro del marco de sus atribuciones y a partir de los instrumentos electorales aplicables.
+
+Dicha Comisión deberá instalarse el año anterior en que se verifique la jornada electoral y tendrá las siguientes atribuciones:
+
+I. Proponer al Consejo los convenios necesarios para garantizar el voto de personas privadas de la libertad sin sentencia firme;
+
+II. Proponer al Consejo General las acciones necesarias de coordinación y colaboración con el Instituto Nacional y otras autoridades, a fin de realizar los trámites que les permitan a la (sic) personas en prisión preventiva formar parte del padrón electoral y de la lista nominal de electores, para las elecciones a celebrarse;
+
+III. Informar al Consejo General sobre los mecanismos para recabar el voto de las personas privadas de la libertad sin sentencia firme;
+
+IV. Presentar al Consejo General los mecanismos e informes, respecto de la promoción y participación de las personas ciudadanas privadas de la libertad sin sentencia firme en la Ciudad de México;
+
+V. Presentar bajo el principio de austeridad y máxima eficacia al Consejo General el proyecto de impacto presupuestal derivado de garantizar el derecho al voto de las personas privadas de la libertad, para su inclusión en el presupuesto institucional; y,
+
+VI. Las demás que establezca este Código, demás leyes y ordenamientos aplicables en la materia.
+
+La Comisión observará en el ejercicio de sus atribuciones los lineamientos que al efecto emita el Instituto Nacional, cuando esto sea aplicable.
+
 ###### Artículo 71.
 
 Para contribuir a la adecuada preparación, organización y desarrollo de los procesos electorales, el Consejo General debe integrar Comisiones Provisionales que se encarguen, respectivamente, de:
@@ -1762,13 +1930,11 @@ Se integrará por las y los Consejeros Electorales que formen parte de las Comis
 
 El Consejo General declarará, mediante acuerdo, el inicio formal de los trabajos del Comité Especial y designará al Consejero Electoral que lo presidirá.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN G.O. DE 30 DE NOVIEMBRE DE 2022, PÁGINA 11.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 76.
 
-En los procesos electorales en que tenga verificativo la elección de Jefa o jefe de Gobierno, y/o de Persona Diputada Migrante, se conformará un Comité encargado de coordinar las actividades tendientes a recabar el voto de las personas originarias de la Ciudad de México residentes en el extranjero, únicamente en cuanto a estos cargos.
+En los procesos electorales en que tenga verificativo la elección de Jefa o Jefe de Gobierno, Alcaldías, renovación del Congreso Local y/o de Persona Diputada Migrante, se conformará un Comité encargado de coordinar las actividades tendientes a recabar el voto de las personas originarias de la Ciudad de México residentes en el extranjero y de las personas en estado de postración.
 
 Serán integrantes de este Comité, tres Consejeros Electorales con derecho a voz y voto, y un representante de cada Partido Político quienes sólo tendrán derecho a voz.
 
@@ -2008,9 +2174,9 @@ o) Equidad e igualdad sustantiva;
 
 p) Gestión de calidad en los procesos electorales y de participación ciudadana.
 
-> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
 
-q) Derechos Humanos.
+q) Derechos Humanos en el que habrán de considerarse las personas en estado de postración.
 
 III. Recibir de la Contraloría Interna, en el mes de septiembre del año anterior al que vaya a aplicarse, el proyecto de Programa Interno de Auditoría, para su incorporación al proyecto de Programa Operativo Anual;
 
@@ -4796,9 +4962,9 @@ VIII. Comunicar oportunamente al Instituto Electoral, la integración de sus ór
 
 IX. Actuar y conducirse sin ligas de dependencia o subordinación con Partidos Políticos, personas físicas o morales extranjeras, organismos o entidades internacionales y de ministros de culto de cualquier religión o secta;
 
-> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-X. Abstenerse de cualquier expresión, propaganda o promoción de discurso de odio que implique calumnia, discriminen o constituyan actos de violencia política contra las mujeres en razón de género, en términos de la Ley General y este Código, en contra de la ciudadanía, a las instituciones públicas, a otras Asociaciones Políticas o candidaturas;
+X. Abstenerse de cualquier expresión, propaganda, campañas negativas o promoción de discurso de odio que implique calumnia, discriminen o constituyan actos de violencia política contra las mujeres en razón de género, en términos de la Ley General y este Código, en contra de la ciudadanía, a las instituciones públicas, a otras Asociaciones Políticas o candidaturas;
 
 XI. Garantizar la participación de las mujeres en la toma de decisiones e incorporar perspectiva de género en sus acciones de formación y capacitación política y procurar el acceso paritario a sus órganos de dirección;
 
@@ -5182,9 +5348,9 @@ XI. Sostener por lo menos un centro de formación política para sus afiliados, 
 
 XII. Observar las normas y disposiciones que en materia de propaganda electoral establezca la Ley General y este Código, así como las disposiciones administrativas y de protección al medio ambiente, para la elaboración, colocación y retiro de propaganda electoral durante el transcurso y conclusión de los procesos de selección interna de candidaturas y campañas electorales;
 
-> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-XIII. Abstenerse, en el desarrollo de sus actividades, de cualquier expresión que implique calumnia, discrimine o constituyan actos de violencia política contra las mujeres en razón de género, en términos de la Ley de Acceso, la Ley General y este Código, en contra de la ciudadanía, de las instituciones públicas o de otras Asociaciones Políticas, candidatas o candidatos, particularmente durante los procesos de selección interna de candidaturas y campañas electorales;
+XIII. Abstenerse, en el desarrollo de sus actividades, de cualquier expresión o campaña negativa, que implique calumnia, discrimine o constituyan actos de violencia política contra las mujeres en razón de género, en términos de la Ley de Acceso, la Ley General y este Código, en contra de la ciudadanía, de las instituciones públicas o de otras Asociaciones Políticas, candidatas o candidatos, particularmente durante los procesos de selección interna de candidaturas y campañas electorales;
 
 XIV. Prescindir en el desarrollo de sus actividades de utilizar símbolos patrios, religiosos, así como expresiones, alusiones o fundamentaciones del mismo carácter;
 
@@ -5566,23 +5732,53 @@ En ningún caso las coaliciones electorales se considerarán como un solo partid
 
 #### SECCIÓN TERCERA. DE LAS CANDIDATURAS COMUNES
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 298.
 
-Dos o más Partidos Políticos, sin mediar Coalición, pueden postular al mismo candidato, lista o fórmula, debiendo cumplir con lo siguiente:
+Dos o más Partidos Políticos, sin mediar Coalición, podrán postular a la misma persona candidata, lista o fórmula para las elecciones de Jefatura de Gobierno, Alcaldías y Diputaciones del Congreso de la Ciudad de México; debiendo cumplir con lo siguiente:
 
-I. Presentar por escrito la aceptación a la candidatura del ciudadano a postular. En los casos de Diputados al Congreso de la Ciudad de México, se requerirá la aceptación del propietario y suplente que integran la fórmula; y
+I. Presentar por escrito la aceptación de la candidatura de la persona ciudadana a postular. En los casos de Diputaciones al Congreso de la Ciudad de México, se requerirá la aceptación de la persona propietaria y suplente que integran la fórmula; y
 
-II. Presentar convenio de los Partidos postulantes y el candidato, en donde se indique las aportaciones de cada uno para gastos de la campaña, sujetándose a los topes de gastos de campaña determinados por el Consejo General. Cada Partido será responsable de entregar su informe, en el que se señalen los gastos de campaña realizados.
+II. Presentar convenio de los Partidos postulantes y la persona candidata, en donde se indique por lo menos los siguientes requisitos:
 
-Asimismo y respecto a la integración de la lista B que establece la fracción II del artículo 23 de este Código, deberán determinar en el convenio, en la lista B, en cuál de los partidos políticos promoventes de la candidatura común participarán los candidatos a diputados que no logrando el triunfo en la elección por el principio de mayoría relativa, alcancen a nivel distrital los mayores porcentajes de la votación efectiva comparados respecto de otras fórmulas de su propio partido en esa misma elección para tales efectos se tomará en cuenta solo los votos recibidos por el partido postulante. Un candidato no podrá ser registrado en la lista B de dos o más partidos que intervengan en la formulación de las candidaturas comunes.
+a) Las aportaciones de cada uno de los partidos integrantes para gastos de la campaña, sujetándose a los topes de gastos de campaña determinados por el Consejo General. Cada Partido será responsable de entregar su informe, en el que se señalen los gastos de campaña realizados.
 
-Los votos se computarán a favor de cada uno de los Partidos Políticos que los haya obtenido y se sumarán en favor del candidato.
+b) Respecto a la integración de la lista B que establece la fracción IV del artículo 24 de este Código, deberán determinar en el convenio, en la lista B, en cuál de los partidos políticos promoventes de la candidatura común participarán las personas candidatas a diputaciones que no logrando el triunfo en la elección por el principio de mayoría relativa, alcancen a nivel distrital los mayores porcentajes de la votación distrital efectiva comparados respecto de otras fórmulas de su propio partido en esa misma elección, para tales efectos se tomará en cuenta solo los votos recibidos por el partido postulante de conformidad con el convenio. Una persona candidata no podrá ser registrada en la lista B de dos o más partidos que intervengan en la formulación de las candidaturas comunes. c) Nombre de los partidos que la conforman, así como el tipo de elección de que se trate.
 
-En los casos que existan votos válidos donde se hayan marcado dos o más cuadros como círculos donde se incluya el emblema del o de los partidos coaligados o en candidatura común, la sumatoria de estos votos se distribuirá igualitariamente entre los partidos que integren la coalición o candidatura común para los efectos que el voto tiene.
+d) Emblema conjunto de los partidos que lo conforman y el color o colores con que se participa.
+
+e) La manifestación por escrito de proporcionar al Instituto, una vez concluido (sic) sus procesos internos, el nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar y el consentimiento por escrito de la persona candidata.
+
+f) La aprobación del convenio por parte de los órganos directivos correspondientes de cada uno de los partidos políticos postulantes de la candidatura común.
+
+g) La forma en que se acreditarán los votos a cada uno de los partidos políticos postulantes de la candidatura común, para efectos de la conservación del registro, para el otorgamiento del financiamiento público y en su caso, para otros aquellos que establezca este Código. Todos los votos se computarán a favor de la misma y la distribución del porcentaje de votación será conforme al convenio de candidatura común registrado ante el Instituto.
+
+h) Para las elecciones de diputados y miembros de las alcaldías, el convenio deberá indicar el partido político al que pertenecerán las personas candidatas en caso de resultar electas.
+
+III. Al convenio de candidatura común se acompañará lo siguiente:
+
+a) El compromiso por escrito de que los partidos políticos postulantes de la candidatura común entregarán en tiempo y forma al Instituto su plataforma electoral por cada uno de ellos.
+
+b) Las actas que acrediten que los partidos aprobaron de conformidad con sus estatutos, la firma del convenio de candidatura común para la elección que corresponda.
 
 Los Partidos Políticos de nuevo registro no podrán convenir Candidaturas Comunes con otro Partido Político antes de la conclusión de la primera elección federal o local inmediata posterior a su registro, según corresponda.
 
 Se exceptúa de la referente disposición a los partidos políticos que no obtuvieron su registro nacional pero sí hayan obtenido el 3% de la votación del proceso local referido.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 298 Bis.
+
+El Consejo General, dentro de los cinco días siguientes a la presentación de la solicitud de registro del convenio de candidatura común, deberá resolver lo conducente a través de un Acuerdo general.
+
+En caso de su aprobación el Consejo General deberá remitirlo para su publicación inmediata en la Gaceta Oficial de la Ciudad de México y en la página electrónica oficial del Instituto, con objeto de que la ciudadanía conozca la forma en cómo se distribuirán los sufragios en caso de que decida votar por la candidatura común.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 298 Ter.
+
+Los partidos políticos que postulen candidaturas comunes no podrán postular candidaturas propias, independientes ni de otros partidos políticos para la elección que convinieron la candidatura común.
 
 ### CAPÍTULO VII. DE LAS CANDIDATURAS SIN PARTIDO
 
@@ -5752,7 +5948,9 @@ Para fórmula de Alcaldesa, Alcaldes y Concejales, la cédula de respaldo deber�
 
 Los aspirantes no podrán realizar actos anticipados de campaña por ningún medio. La violación a esta disposición se sancionará con la negativa de registro como Candidata o Candidato sin partido.
 
-Queda prohibido a los aspirantes, en todo tiempo, la contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará con la negativa de registro como Candidata o Candidato sin partido o, en su caso, con la cancelación de dicho registro.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+Queda prohibido a los aspirantes, en todo tiempo, la contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión, así como la difusión de campañas negativas. La violación a esta norma se sancionará con la negativa de registro como Candidata o Candidato sin partido o, en su caso, con la cancelación de dicho registro.
 
 ###### Artículo 318.
 
@@ -6704,9 +6902,11 @@ Los partidos políticos no registrarán candidatos a Diputados del Congreso Loca
 
 III. Los candidatos deberán instrumentar acciones tendientes a dar a conocer sus compromisos de campaña. En todo momento, los ciudadanos podrán solicitar a los candidatos información sobre sus compromisos de campaña ya sea directamente o por medio de los Partidos Políticos o el Instituto Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 382.
 
-La plataforma electoral es aquella en la que los candidatos de la Ciudad de México, dan a conocer sus planes, programas de gobierno, políticas y presupuestos.
+La plataforma electoral es aquella en la que los candidatos de la Ciudad de México, dan a conocer sus planes, programas de gobierno, políticas, acciones concretas para la preservación del medio ambiente, cuidado de los recursos naturales y mitigación y adaptación al cambio climático, y presupuestos.
 
 Los ciudadanos tienen el derecho de recibir de las autoridades los informes generales y específicos acerca de la gestión de sus planes, programas de gobierno, políticas y presupuestos y a partir de ellos, evaluar la función pública en los términos y condiciones que señale la Ley de Participación Ciudadana.
 
@@ -6762,7 +6962,9 @@ III. En los casos de renuncia del candidato, la sustitución podrá realizarse s
 
 En los casos de renuncias parciales de candidatos postulados por varios Partidos Políticos en candidatura común, la sustitución operará solamente para el Partido Político al que haya renunciado el candidato.
 
-Para la sustitución de candidaturas postuladas en común por dos o más Partidos Políticos, éstos deberán presentar, en su caso, las modificaciones que correspondan al convenio de candidatura común inicial, al momento de la sustitución.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+Para la sustitución de candidaturas postuladas en común por dos o más Partidos Políticos, éstos deberán presentar, en su caso, las modificaciones que correspondan al convenio de candidatura común inicial, al momento de la sustitución. En caso de ser aprobadas las modificaciones al convenio de candidatura común inicial mediante Acuerdo General, éste deberá ser remitido de manera inmediata para su publicación en la Gaceta Oficial de la Ciudad de México y en la página electrónica oficial del Instituto, con objeto de que la ciudadanía las conozca.
 
 Los Partidos Políticos o Coaliciones al realizar la sustitución de candidatos a que se refiere el presente artículo tendrán la obligación de cumplir en todo momento con lo señalado en el presente Código. Cualquier sustitución de candidaturas que no se sujete a lo establecido en el párrafo anterior no podrá ser registrada.
 
@@ -7588,11 +7790,15 @@ I. Se contará un voto válido por la marca que haga el elector en un solo cuadr
 
 II. Serán votos válidos los que se hubiesen marcado en una o más opciones de los Partidos Políticos coaligados;
 
-(NOTA: EL 21 DE SEPTIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO NOVENO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2017 Y SUS ACUMULADAS 65/2017, 66/2017, 67/2017, 68/2017, 70/2017, 71/2017, 72/2017, 74/2017 Y 75/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-III. Se contará como un voto válido para el candidato común, la marca o marcas que haga el elector dentro de uno o varios cuadros o círculos en los que se contenga el nombre o nombres de los candidatos comunes y el emblema de los Partidos Políticos, de tal modo que a simple vista se desprenda, de manera indubitable, que votó en favor de determinado candidato o fórmula postulado en común; EN EL CASO DE QUE EL ELECTOR MARQUE UNO O MÁS CUADROS O CÍRCULOS, EL VOTO SE ASIGNARÁ AL PARTIDO POSTULANTE.
+III. También se contará como un voto válido para la persona candidata común y los partidos que la conforman, la marca que haga la persona votante dentro del espacio en el que se contenga el emblema conjunto de los partidos políticos que la integran y el color o colores con que participan. Sólo contará como voto válido para la persona candidata común, cuando la persona votante sólo señale el nombre de quien ostenta la candidatura común. Todos los votos se computarán a favor de la candidatura común y la distribución del porcentaje de votación será conforme al convenio de candidatura común registrado ante el Instituto y publicado en la Gaceta Oficial de la Ciudad de México y en la página electrónica oficial del Instituto.
 
-IV. Se contará como un voto válido para el candidato común, la marca o marcas que haga el elector dentro de uno o varios cuadros o círculos en los que se contenga el nombre o nombres de los candidatos comunes y el emblema de los Partidos Políticos o Coaliciones, de tal modo que a simple vista se desprenda, de manera indubitable, que votó en favor de determinado candidato o fórmula postulado en común; en este caso se contará voto válido para el candidato o fórmula y el total de los votos emitidos a favor de dos o más partidos que integren la coalición o candidatura común contemplando en todo momento los efectos que el voto tiene.
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+IV. También se contará como un voto válido para la persona candidata en coalición, la marca o marcas que haga la persona votante dentro del espacio en el que se contenga el nombre o nombres de las personas candidatas en coalición y el emblema de los Partidos Políticos, de tal modo que a simple vista se desprenda, de manera indubitable, que votó en favor de determinada persona candidata o fórmula postulada en coalición; en este caso se contará como voto válido para la persona candidata o fórmula y también para el total de los votos emitidos a favor de dos o más partidos que integren la coalición contemplando en todo momento los efectos que el voto tiene.
+
+En el caso de la candidatura común se estará a lo dispuesto en la fracción III de este artículo.
 
 V. El voto emitido a favor de una candidatura sin partido y uno o más partidos políticos en la misma boleta, así como el voto emitido a favor de dos o más candidatos sin partido en la boleta respectiva, se considerará como voto nulo; de conformidad con las reglas aplicables al escrutinio y cómputo de la votación.
 
@@ -7862,7 +8068,9 @@ Los Consejos Distritales celebrarán sesión el jueves siguiente al día de la j
 
 Los Consejos Distritales Cabecera de Demarcación Territorial, una vez entregada la Constancia a que se refiere el párrafo anterior, procederán a realizar el cómputo total correspondiente a la elección de la Alcaldesa, Alcalde y los Concejales.
 
-El Cómputo en la Demarcación Territorial es el procedimiento por el cual se determina la votación obtenida en la elección del Alcaldesa, Alcalde y Concejales, mediante la suma o, en su caso, a través de la toma de conocimiento de los resultados anotados en las actas de cómputo distrital, de acuerdo a las reglas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2023)</small>
+
+El Cómputo en la Demarcación Territorial es el procedimiento por el cual se determina la votación obtenida en la elección de la Alcaldesa, Alcalde y Concejales, mediante la suma o, en su caso, a través de la toma de conocimiento de los resultados anotados en las actas de cómputo distrital, de acuerdo a las reglas siguientes:
 
 I. Se procederá a anotar el resultado final en el acta de cómputo respectiva, la cual deberá ser firmada por las y los integrantes del Consejo Distrital Cabecera de Demarcación;
 
@@ -7873,6 +8081,18 @@ III. Se hará constar en el acta circunstanciada de la sesión los resultados de
 IV. La o el Consejero Presidente publicará en el exterior de las oficinas los resultados obtenidos en los cómputos de Alcaldesa y Alcalde y Concejales, y
 
 V. La o el Consejero Presidente integrará el expediente del cómputo de Alcaldesas, Alcaldes y Concejales con los expedientes de los cómputos distritales que contienen las actas originales y certificadas, el original del acta de Cómputo en la Demarcación Territorial, el acta de la sesión de dicho cómputo y el informe de la Consejera o el Consejero Presidente sobre el desarrollo del proceso electoral; los cuales remitirá a la Secretaría Ejecutiva, y conservará una copia certificada de dicha documentación.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+Si al término de los cómputos, como resultado de la suma de las actas de los consejos distritales se determina que entre las fórmulas ganadoras y las ubicadas en segundo lugar, existe una diferencia igual o menor a un punto porcentual, será procedente el recuento total de votos de los paquetes electorales de toda la alcaldía, exceptuando aquellos que ya hayan sido objeto de recuento distrital total. La persona que presida el Consejo Distrital Cabecera de Demarcación dará aviso inmediato a la Secretaria Ejecutiva del Instituto, para que ésta a su vez, lo informe al órgano máximo de dirección del Instituto, así como a los distritos de la demarcación correspondiente.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+Hecho lo anterior, y una vez comunicado a las Presidencias de los Consejos Distritales, se procederá a realizar el recuento total de los paquetes, aplicando el procedimiento especificado en el artículo 457 del presente ordenamiento; en este caso, la implementación del procedimiento del recuento deberá iniciar una vez informado al órgano máximo del Instituto y concluirá a más tardar en un lapso de 5 días.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+Concluido el recuento total, el miércoles posterior al término del cómputo, se procederá a la entrega de la Constancia de Mayoría de la elección de alcaldía y concejalías.
 
 ###### Artículo 460.
 
@@ -8077,3 +8297,83 @@ PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno de la Ciudad de
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN III Y SE ADICIONAN LAS FRACCIONES IV Y V DEL ARTÍCULO 18 DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO DEL ARTÍCULO 459 DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN II BIS DEL APARTADO C DEL ARTÍCULO 4, SE MODIFICA LA FRACCIÓN X DEL ARTÍCULO 251, SE MODIFICA LA FRACCIÓN XII DEL ARTÍCULO 273 Y SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 317, TODOS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, Y SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 1, 3 Y 8 DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO".]
+
+Primero. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 4, APARTADO C), FRACCIÓN X; SE MODIFICA EL ARTÍCULO 16, SEGUNDO PÁRRAFO; Y SE MODIFICA EL ARTÍCULO 382, EN SU PÁRRAFO PRIMERO, DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN UNA FRACCIÓN II BIS AINCISO C) DEL ARTÍCULO 4, UN TERCER PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 6; UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXX DEL ARTÍCULO 50 Y UNA FRACCIÓN XII BIS DEL ARTÍCULO 63; SE REFORMAN: EL INCISO S) DE LA FRACCIÓN XI DEL ARTÍCULO 36; EL SEGUNDO PÁRRAFO DEL INCISO E), FRACCIÓN II Y LA FRACCIÓN XXX, AMBOS DEL ARTÍCULO 50; EL PRIMER PÁRRAFO DEL ARTÍCULO 76 Y EL INCISO Q) DE LA FRACCIÓN II DEL ARTÍCULO 83; TODOS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase el presente decreto a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 298 Y SE ADICIONAN LOS ARTÍCULOS 298 BIS Y 298 TER; TODOS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan todas las disposiciones normativas que sean contrarias al presente decreto.
+
+G.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 6; LA FRACCIÓN I DEL ARTÍCULO 8; EL PÁRRAFO TERCERO Y LA FRACCIÓN III DEL ARTÍCULO 36; LA FRACCIÓN LII DEL ARTÍCULO 50; Y SE ADICIONA LA FRACCIÓN III BIS DEL ARTÍCULO 36; LA FRACCIÓN LIII DEL ARTÍCULO 50 Y EL ARTÍCULO 70 BIS, TODOS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase el presente Decreto a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- La Comisión provisional a la que hace referencia el artículo 70 Bis del presente Decreto deberá instalarse al menos 30 días naturales antes de que inicie el proceso electoral 2023-2024. Para ello, el Consejo General del Instituto mediante Acuerdo designará a la persona Consejera Electoral que presidirá dicha Comisión y a sus integrantes.
+
+Una vez concluido el proceso electoral, el personal técnico y operativo que apoye a la comisión deberá rendir un informe final.
+
+CUARTO.- El Congreso de la Ciudad de México para el proceso electoral 2024 deberá destinar los recursos necesarios para la implementación del derecho al voto de las personas en prisión preventiva.
+
+G.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 4, APARTADO C), FRACCIÓN III Y SE RECORREN LAS FRACCIONES SUBSECUENTES; ARTÍCULOS 14, 16, 22 Y 24 DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO.”]
+
+PRIMERO. Remítase el presente Decreto a (sic) Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 24, FRACCIÓN III y IV; 26, FRACCIONES II Y IV; 27, FRACCIONES V, INCISO A), VI, INCISOS G), H) E I); Y SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 24, TODOS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. REMÍTASE EL PRESENTE DECRETO A LA PERSONA TITULAR DE LA JEFATURA DE GOBIERNO DE LA CIUDAD DE MÉXICO PARA EFECTOS DE SU PUBLICACIÓN EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO.
+
+SEGUNDO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO.
