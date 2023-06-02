@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2023-05-26"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE JUNIO DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -8727,25 +8727,25 @@ II. Multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualizaci
 
 27.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE JUNIO DE 2023)</small>
 
-# LIBRO NOVENO. Del Fomento y Desarrollo Agropecuario, de la Acuacultura, Apicultura y el Agave
+# LIBRO NOVENO. Del Fomento y Desarrollo Agrícola, Pecuario, Acuícola y Pesquero
 
 ## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-1.- Este Libro tiene por objeto regular el fomento y desarrollo de las actividades agropecuarias, de la acuacultura, apicultura y el agave.
+1.- Este Libro tiene por objeto regular el fomento y desarrollo de las actividades agrícolas, pecuarias, acuícolas, forestales, pesquero, agroindustriales y de la sanidad, comercialización, infraestructura e investigación relativa a dichas actividades, así como coadyuvar en la atención y solución de los problemas agrarios en el Estado.
 
-> <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-2.- Las disposiciones de este Libro tienen como finalidad lograr en la Entidad un incremento sostenido de las actividades agropecuarias, de la acuacultura, apicultura y el agave para contribuir al desarrollo rural del Estado.
+2.- Las disposiciones de este Libro tienen como finalidad lograr en la Entidad un incremento sostenido de las actividades agrícolas, pecuarias, acuícolas, forestales, pesqueras, agroindustriales y de la sanidad para contribuir al desarrollo rural del Estado.
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -8755,17 +8755,17 @@ II. Multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualizaci
 
 3.- Corresponde a la Secretaría del Campo, lo siguiente:
 
-> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-I. El fomento y desarrollo de la trazabilidad, la agricultura, pecuaria, acuacultura, apicultura, el agave y demás actividades agropecuarias.
+I. La rectoría, normatividad, programación de la producción, fomento y desarrollo agrícola, pecuario, acuícola, pesquero, agroindustrial y de la sanidad.
 
 > <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
 II. Adoptar las medidas necesarias para llevar a cabo la verificación e inspección sanitaria de la agricultura, pecuaria, acuacultura, apicultura, el agave, sus productos y subproductos y demás actividades agropecuarias.
 
-> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-III. Vigilar el control sanitario en la movilización de la agricultura, acuacultura, apicultura y el agave, sus productos y subproductos y demás actividades agropecuarias dentro del Estado de México.
+III. Vigilar y participar conjuntamente con autoridades federales, estatales y municipales competentes, para el control sanitario en la trazabilidad de los productos y subproductos agrícolas, pecuarios, acuícolas, pesqueros y agroindustriales en la Entidad.
 
 > <small>(ADICIONADA, G.G. 1 DE AGOSTO DE 2019)</small>
 
@@ -8775,29 +8775,35 @@ IV. Fomentar la rotación, asociación de cultivos y cultivos múltiples para la
 
 V. Fomentar y promover la producción y distribución de productos agrícolas que se desarrollen en el campo mexiquense, priorizando el consumo y comercialización interno del Estado.
 
-> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE JUNIO DE 2023)</small>
 
-VI. Las demás que señale este Libro, su Reglamento y otras disposiciones jurídicas aplicables en la materia.
+VI. Realizar acciones de fomento y protección del maíz Nativo, de conformidad con lo previsto por la Ley de la materia y las disposiciones jurídicas aplicables.
 
-###### Artículo 9.
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VI], G.G. 2 DE JUNIO DE 2023)</small>
 
-4.- Los municipios podrán participar en las acciones reguladas en este Libro.
+VII. Las demás que señale este Libro, su Reglamento y otras disposiciones jurídicas aplicables en la materia.
 
-### CAPITULO TERCERO. De las organizaciones de productores
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-5.- Los productores podrán constituirse en Asociaciones Locales de Productores Rurales y éstas, en Asociaciones Municipales, Uniones Regionales y Federaciones Estatales de Productores Rurales, mediante su registro en la Secretaría del Campo, en los términos de la reglamentación correspondiente, fecha a partir de la cual tendrán personalidad jurídica. El registro deberá realizarse de manera presencial o a través de las plataformas tecnológicas que la Secretaría habilite para tal efecto.
+4.- Los municipios y las instancias públicas y privadas podrán participar y coadyuvar en las acciones reguladas en este Libro.
 
-> <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE JUNIO DE 2023)</small>
 
-Se entiende por productor rural a la persona física que directa o indirectamente se dedique a la producción de la agricultura, pecuaria, acuacultura, apicultura y el agave o, quienes agreguen valor a su producción a través de procesos de transformación y comercialización.
+### CAPITULO TERCERO. De las personas productoras
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-## TITULO SEGUNDO. Del Fomento y Desarrollo de las Actividades Agropecuarias, de la Acuacultura, Apicultura y el Agave
+###### Artículo 9.
+
+5.- Las personas productoras y las asociaciones de personas productoras podrán registrarse de manera presencial o a través de las plataformas tecnológicas que la Secretaría habilite con el propósito de participar en los diversos programas y proyectos que establezcan en beneficio del campo.
+
+Se entiende por persona productora a quien directa o indirectamente se dedique a la producción agrícola, pecuaria, acuícola, pesquera y agroindustrial o, quienes agreguen valor a su producción a través de procesos de transformación y comercialización.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE JUNIO DE 2023)</small>
+
+## TITULO SEGUNDO. Del Fomento y Desarrollo de las Actividades Agrícolas, Pecuarias, Acuícolas y Pesqueras
 
 ### CAPITULO PRIMERO. De la producción y transformación
 
@@ -8807,25 +8813,37 @@ Se entiende por productor rural a la persona física que directa o indirectament
 
 6.- La Secretaría del Campo impulsará:
 
-I. La identificación e inducción de las oportunidades de producción, preferentemente mediante proyectos integrales, de acuerdo con el potencial productivo y rentabilidad económica de cada zona y procurando la conservación y mejoramiento de los recursos naturales;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-II. La expansión, modernización y tecnificación de la infraestructura y equipo, así como la adopción de procesos y tecnologías que contribuyan al óptimo aprovechamiento de las tierras y recursos hidráulicos disponibles y a elevar la producción y calidad de los productos, para reducir los desequilibrios regionales;
+I. La identificación e inducción de las oportunidades de producción, preferentemente mediante proyectos integrales, de acuerdo con el potencial productivo y rentabilidad económica de cada zona, procurando la conservación y mejoramiento de los recursos naturales; así como la integración de las personas productoras y las asociaciones de personas productoras a cadenas de valor, creando y consolidando agro empresas productivas que sean competitivas;
 
-> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-III. Los programas de sanidad en la agricultura, pecuaria, acuacultura, apicultura y el agave que contribuyan a la obtención de productos o subproductos de calidad.
+II. La expansión, mantenimiento, rehabilitación, operación de las obras que contribuyan al óptimo aprovechamiento del suelo y recursos hidráulicos disponibles, la tecnificación de la infraestructura rural, así como la adopción de procesos y tecnologías preferentemente agroecológicas, a fin de elevar la producción;
 
-IV. La organización de los productores con el objeto de que logren economías de escala, mejoren los volúmenes de producción y eleven los índices de productividad;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+III. Los programas de sanidad para la prevención, control y erradicación de plagas y enfermedades que afecten las actividades agrícolas, pecuarias, acuícolas y pesqueras que contribuyan a la obtención de productos o subproductos inocuos y de calidad; así como gestionar el buen manejo de residuos generados en el sector, conforme a las normas vigentes;
+
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+IV. La integración y el fortalecimiento de las personas productoras en asociaciones con el objeto de que logren economías de escala y cadenas productivas de valor, mejoren los volúmenes de producción y eleven los índices de productividad; impulsando el equilibrio en la responsabilidad ecológica, la viabilidad económica y la justicia social en la producción agropecuaria;
 
 V. La compactación de superficies en unidades de producción, cuando ello sea un factor determinante para aumentar la rentabilidad de su explotación;
 
-VI. El establecimiento y desarrollo de unidades de transformación;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-VII. La integración de cadenas productivas;
+VI. El fomento al desarrollo de infraestructura para el establecimiento de proyectos de inversión, de agronegocios y desarrollo de unidades de transformación, así como el aprovechamiento de la infraestructura existente para la producción agrícola, pecuaria, acuícola, pesquera y agroindustrial en la Entidad;
 
-VIII. Los mecanismos que permitan la obtención de financiamientos con tasas preferenciales;
+VII. (DEROGADA, G.G. 2 DE JUNIO DE 2023)
 
-IX. La utilización de instrumentos de mercado para la administración de riesgos. Lo anterior, sin perjuicio de gestionar recursos y apoyos ante los gobiernos federal y municipales para atender a los productores afectados por desastres naturales.
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+VIII. La promoción de mecanismos para las personas productoras y las asociaciones de personas productoras que les permitan la obtención de financiamiento con tasas preferenciales y apoyos financieros en sus diferentes modalidades, ante instituciones públicas o privadas crediticias, que les permitan mejores márgenes de competitividad y capitalización del campo;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA ], G.G. 2 DE JUNIO DE 2023)</small>
+
+IX. La utilización de instrumentos de mercado para la administración de riesgos. Lo anterior, sin perjuicio de gestionar recursos y apoyos ante los gobiernos federal y municipales para atender a los productores afectados por desastres naturales;
 
 > <small>(ADICIONADA, G.G. 1 DE AGOSTO DE 2019)</small>
 
@@ -8835,27 +8853,35 @@ X. La producción agroecológica en el Estado de México, desarrollando programa
 
 XI. Fomentar y promover la producción y distribución de granos, frutas, legumbres, semillas, así como productos de origen animal que se produzcan en el territorio mexiquense, teniendo como eje prioritario atender el consumo y comercialización interno del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-7.- El impulso del desarrollo agropecuario, de la acuacultura, apicultura y el agave tendrá presente en todo momento un eje prioritario de atender el consumo y comercialización interno (sic) del Estado, atendiendo el desarrollo sustentable de la producción primaria bajo criterios de conservación, recuperación, rehabilitación y uso óptimo de los suelos con rotación y asociación de cultivos, del agua y demás recursos naturales, así como de prevención y mitigación del impacto ambiental y de las emisiones de gases de efecto invernadero de las actividades productivas en los ecosistemas y la biodiversidad.
+7.- El impulso del desarrollo agrícola, pecuario, acuícola, pesquero y agroindustrial tendrá presente en todo momento un eje prioritario de atender el consumo y comercialización interno del Estado, atendiendo el desarrollo sostenible de la producción primaria bajo criterios de conservación, recuperación, rehabilitación y uso óptimo de los suelos con rotación y asociación de cultivos, del agua y demás recursos naturales, así como de prevención y mitigación del impacto ambiental y de las emisiones de gases de efecto invernadero de las actividades productivas en los ecosistemas y la biodiversidad.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 Para tal efecto, la Secretaría del Campo promoverá:
 
-I. La aplicación de métodos, técnicas y prácticas que aseguren la conservación del suelo, el agua y los recursos naturales utilizados en los procesos productivos, así como la reducción de la pérdida de estos recursos, y que hagan posible el mejor aprovechamiento de los mismos;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-II. La reconversión productiva de zonas en las que se pueda atender de manera prioritaria a los productores en ellas localizados, cuando la degradación o exceso de explotación de los recursos así lo amerite, o cuando la localización regional de la producción respecto a los mercados no permita la sustentabilidad de la misma;
+I. La aplicación de métodos, técnicas y prácticas que aseguren la conservación del suelo, el uso sostenible del agua y los recursos naturales utilizados en los procesos productivos, así como la reducción de la pérdida de estos recursos, que hagan posible el mejor aprovechamiento de los mismos;
 
-III. Que los programas para la tecnificación del riego que realicen los diferentes ámbitos de gobierno den atención prioritaria a las regiones en las que se registre sobreexplotación de los acuíferos o degradación de la calidad de las aguas, en correspondencia con los compromisos de organizaciones y productores de ajustar la explotación de los recursos en términos que garanticen la sustentabilidad de la producción;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-IV. La erradicación del sistema de rosa, tumba y quema y de incendios inducidos para fines de explotación agropecuarias.
+II. La reconversión productiva sostenible, de zonas en las que se puedan atender de manera prioritaria a los productores en ellas localizados, cuando la degradación o exceso de explotación de los recursos así lo amerite, o cuando la localización regional de la producción respecto a los mercados no permita la sostenibilidad de la misma;
 
-> <small>(ADICIONADA, G.G. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-V. Un modelo de agricultura sostenible, inclusiva y eficaz en el uso de los recursos, a través de la implementación de rotación, asociación de cultivos y cultivos múltiples que lleve a la adaptación de la agroecología.
+III. Que los programas para la tecnificación del riego que realicen los diferentes ámbitos de gobierno den atención prioritaria a las regiones en las que se registre sobreexplotación de los acuíferos o degradación de la calidad de las aguas, en correspondencia con los compromisos de las personas productoras y las asociaciones de personas productoras de ajustar la explotación de los recursos en términos que garanticen la sostenibilidad de la producción;
+
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+IV. La erradicación del sistema de roza, tumba y quema, de incendios inducidos para fines de explotación agropecuarias o de cualquier otra práctica que ponga en riesgo a la población o la unidad productiva;
+
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+V. Un modelo productivo capaz de satisfacer las necesidades de mercado sin comprometer la sostenibilidad de los ecosistemas, mediante la práctica de la agricultura sostenible, inclusiva y eficaz en el uso de los recursos, a través de la implementación de rotación, asociación de cultivos y cultivos múltiples que lleve a la adaptación de la agroecología, así como el uso de las técnicas y estrategias de la Economía Circular, y
 
 > <small>(ADICIONADA, G.G. 21 DE JUNIO DE 2022)</small>
 
@@ -8869,15 +8895,17 @@ VI. Fomentar y promover la producción y distribución de granos, frutas, legumb
 
 8.- La Secretaría del Campo impulsará:
 
-I. La organización de los productores con el objeto de reducir costos de comercialización y acceder a los mercados en condiciones más competitivas;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+I. La organización de las personas productoras con el objeto de reducir costos de comercialización y acceder a los mercados en condiciones más competitivas;
 
-II. El cumplimiento de normas relativas a la calidad e inocuidad de sus productos y subproductos agropecuarios, de la acuacultura, apicultura y el agave para facilitar su comercialización.
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+II. El cumplimiento de normas relativas a la calidad e inocuidad de sus productos y subproductos agrícolas, pecuarios, acuícolas, pesqueros y agroindustriales para facilitar su comercialización;
 
-III. La certificación de origen de los productos y subproductos agropecuarios, de la acuacultura, apicultura y el agave.
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+III. La certificación de origen de los productos y subproductos agropecuarios, de la acuacultura, del agave, agrícolas, pecuarios, acuícolas y pesqueros, conforme a las normas, lineamientos objetivos y estrategias nacionales e internacionales aplicables en la materia;
 
 > <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -8885,11 +8913,13 @@ IV. El establecimiento de servicios de consultoría, asesoría e información pa
 
 V. La adopción de esquemas modernos de acopio, distribución y comercialización;
 
-> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-VI. La formación y capacitación de árbitros, así como la constitución de unidades de arbitraje para dar certidumbre respecto de las transacciones en materia agropecuaria, de la acuacultura, apicultura y el agave.
+VI. La formación y capacitación de árbitros, así como la constitución de unidades de arbitraje para dar certidumbre respecto de las transacciones en materia agropecuaria, de la acuacultura, apicultura y el agave;
 
-VII. La integración de cadenas productivas, y mecanismos que permitan la obtención de financiamientos con tasas preferenciales, en materia de comercialización.
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+VII. La integración de las personas productoras y de las asociaciones de personas productoras a cadenas productivas; mediante la implementación de programas específicos de comercialización agropecuaria; creando y consolidando agro empresas competitivas en mercados nacionales e internacionales, y
 
 > <small>(ADICIONADA, G.G. 6 DE JUNIO DE 2016)</small>
 
@@ -8905,23 +8935,27 @@ VIII. La certificación en la calidad, inocuidad y producción orgánica de los 
 
 9.- La Secretaría del Campo promoverá:
 
-> <small>(REFORMADA, G.G. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-I. Proyectos de investigación científica y desarrollo tecnológico en materia agropecuaria, de la acuacultura, apicultura, el agave e investigación de la simbiosis de cultivos para su asociación, cultivos múltiples y rotación.
+I. Proyectos de investigación científica, desarrollo, transferencia y adopción de tecnología en materia agrícola, pecuaria, acuícola, pesquero, forestal y del agave, e investigación de la simbiosis de cultivos para su asociación, cultivos múltiples, orgánicos y rotación;
 
-> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-II. Que la realización de la investigación y desarrollo tecnológico sea de carácter multidisciplinario e interinstitucional considerando, además, su vinculación con las prioridades que demande el sector agropecuario, de la acuacultura, apicultura y el agave.
+II. Que la realización de la investigación y desarrollo tecnológico sea de carácter multidisciplinario e interinstitucional considerando, además, su vinculación con las prioridades que demande el sector agrícola, pecuaria, acuícola, pesquero, forestal y del agave orientadas al mejoramiento productivo principalmente en aquellas regiones de menor desarrollo; priorizando el fomento del uso de técnicas agroecológicas;
 
-> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-III. La creación, desarrollo y vinculación de agrupaciones, patronatos, fundaciones, institutos y fideicomisos que impulsen la investigación y desarrollo tecnológico de las áreas agropecuarias, de la acuacultura, apicultura y el agave en la Entidad.
+III. La creación, desarrollo y vinculación de agrupaciones, patronatos, fundaciones, institutos y fideicomisos que impulsen la investigación y desarrollo tecnológico de las áreas agrícola, pecuaria, acuícola, pesquero, forestal y del agave en la Entidad;
 
-IV. Acciones de demostración y capacitación teórico-práctica a productores y técnicos de los resultados de la investigación;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-V. La educación, capacitación, asistencia técnica y difusión de tecnología, en las materias de este Libro, para que tengan un carácter integral e incluyente;
+IV. Que la educación, capacitación, asistencia técnica y difusión de tecnología para personas productoras y de asociaciones de personas productoras y técnicas, así como acciones de demostración y capacitación teórico-práctica en las materias de este Libro, sean de carácter integral e incluyente;
 
-VI. La actualización y modernización de los programas educativos en la materia;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+V. La actualización y modernización de los programas educativos de capacitación, asistencia técnica, y difusión de tecnología en la materia, dirigidos a las personas productoras y de asociaciones de personas productoras, mediante la celebración de convenios con instituciones educativas de nivel superior, centros de investigación y organizaciones de la sociedad civil o personas jurídico colectivas;
+
+VI. (DEROGADA, G.G. 2 DE JUNIO DE 2023)
 
 VII. La integración de un directorio de profesionistas individuales o asociados para facilitar a los productores la contratación de los servicios técnicos y de asesoría que requieran.
 
@@ -8953,13 +8987,17 @@ IV. Brindar capacitación teórica y práctica a los productores y técnicos rel
 
 V. Fomentar y fortalecer la vinculación con las instituciones de investigación y docencia, suscribiendo convenios de intercambio científico y tecnológico con instituciones públicas, privadas y del sector social, en materia agropecuaria, acuícola y forestal, la apicultura, el agave y sus variedades establecidas dentro y fuera de la Entidad.
 
-VI. Validar y difundir entre los productores, las tecnologías generadas por el Instituto y por organismos estatales, nacionales e internacionales, de carácter público y privado, que puedan ser de utilidad para mejorar las condiciones socioeconómicas y agroecológicas en la entidad;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+VI. Validar y difundir entre las personas productoras, y las asociaciones de personas productoras, las tecnologías generadas por el Instituto y por organismos estatales, nacionales e internacionales, de carácter público y privado, que puedan ser de utilidad para mejorar las condiciones socioeconómicas y las prácticas agroecológicas;
 
 > <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
 VII. Desarrollar programas y acciones en materia agropecuaria, acuícola y forestal, la apicultura, el agave y sus variedades que sean las más adecuadas de acuerdo con los resultados que arrojen las investigaciones al respecto, según las condiciones climatológicas y la vocación del suelo, así como las tradicionales de la zona que denoten su eficacia.
 
-VIII. Establecer y fomentar la coordinación en materia de investigación y transferencia de tecnología, con las dependencias de los gobiernos federal, estatales y municipales, y con los propios productores de la entidad, además de los organismos internacionales especializados;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+VIII. Establecer y fomentar la coordinación en materia de investigación y transferencia de tecnología, con las dependencias de los gobiernos federales, estatales y municipales, y con los propios productores y las asociaciones de personas productoras de la Entidad, además de los organismos internacionales especializados;
 
 > <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
@@ -8967,23 +9005,29 @@ IX. Divulgar y promover los servicios que presta el Instituto, entre los product
 
 X. Desarrollar y validar tecnologías para implementar sistemas de producción orgánica, y emitir las normas y metodologías para verificar y certificar los resultados obtenidos;
 
-XI. Promover la integración de los comuneros, ejidatarios y pequeños propietarios en los programas de investigación y capacitación;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+XI. Promover la integración de los comuneros, ejidatarios y pequeños propietarios en los programas de investigación y capacitación, y
 
 XII. Las demás que le asigne el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 9.
 
-11.- La dirección y administración del Instituto está a cargo de un consejo directivo y un director general.
+11. La dirección y administración del Instituto está a cargo de un Consejo Directivo y una Dirección General.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
 
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con tres vocales, que son los representantes de las secretarías de Finanzas, del Campo y del Medio Ambiente.
+El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con tres vocales, que son las personas representantes de las Secretarías de Finanzas, del Campo y del Medio Ambiente.
 
-> <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
 
-Son invitados permanentes del consejo: siete líderes de la producción, en las áreas agropecuaria, acuícola, forestal, apícola, del agave y sus variedades en la Entidad, a propuesta del Presidente del órgano de gobierno y cuyo perfil responda al interés de sus representados, de entre los comuneros, ejidatarios y pequeños propietarios, el delegado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en la Entidad, un representante del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias en la Entidad y dos representantes académicos, uno de la Universidad Autónoma del Estado de México y otro de la Universidad Autónoma de Chapingo.
+Son invitados permanentes del Consejo: siete líderes de la producción, en las áreas agrícola, pecuaria, acuícola, pesquera, forestal y del agave y sus variedades en la Entidad, a propuesta de la persona Titular de la Presidencia del Consejo Directivo y cuyo perfil responda al interés de sus representados, de entre los comuneros, ejidatarios y pequeños propietarios, la persona titular de la Delegación de la Secretaría de Agricultura y Desarrollo Rural en la Entidad, una persona representante del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias en la Entidad y tres representantes académicos, respectivamente, de la Universidad Autónoma del Estado de México, de la Universidad Autónoma de Chapingo y de alguna de las Facultades de Estudios Superiores de la Universidad Nacional Autónoma de México.
 
-El director general será nombrado por el Gobernador del Estado, a propuesta del presidente del consejo directivo.
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
+
+La persona titular de la Dirección General será nombrada por la persona titular del Poder Ejecutivo del Estado a propuesta de la Presidencia del Consejo Directivo.
 
 La organización y funcionamiento del Instituto se regirá por el reglamento interno que expida el consejo directivo.
 
@@ -8999,7 +9043,9 @@ III. Las aportaciones, participaciones, subsidios y apoyos que le otorguen los g
 
 IV. Los legados, asignaciones, donaciones y demás bienes otorgados en su favor;
 
-V. Los bienes que adquiera por cualquier título legal para el cumplimento de su objeto;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+V. Los bienes que adquiera por cualquier título legal para el cumplimento de su objeto, y
 
 VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y demás ingresos que adquiera por cualquier título legal o que provengan de sus actividades.
 
@@ -9023,11 +9069,11 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 ### CAPITULO QUINTO. De los apoyos y estímulos
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-16.- La Secretaría del Campo y los municipios podrán otorgar, en función de la disponibilidad y autorización de las partidas presupuestales correspondientes, apoyos y estímulos a los productores, organizados o individuales, que operen de acuerdo con las acciones de impulso reguladas en este Libro. Los apoyos y estímulos serán congruentes con esas acciones y podrán ser en dinero o en especie.
+16.- La Secretaría del Campo y los municipios podrán otorgar, en función de la disponibilidad y autorización de las partidas presupuestales correspondientes, apoyos y estímulos a las personas productoras y las asociaciones de personas productoras que operen de acuerdo con las acciones de impulso reguladas en este Libro. Los apoyos y estímulos serán congruentes con esas acciones y podrán ser en dinero o en especie.
 
 ###### Artículo 9.
 
@@ -9047,15 +9093,23 @@ VI. Los mecanismos de responsabilidad de los productores respecto a la utilizaci
 
 VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones necesarias.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-## TITULO TERCERO. De la Movilización y Trazabilidad, del Sistema Estatal de Información de Desarrollo Agropecuario, de la Acuacultura, Apicultura y el Agave
+VIII. Que los beneficiarios aspirantes del apoyo o estimulo, cumplan con la normatividad que en materia de sanidad les sea exigible, con el objeto de evitar el ingreso o diseminación de plagas y enfermedades con impacto agrícola, pecuario, acuícola, pesquero, forestal y del agave en la Entidad. Para lo cual se tendrá un registro de las personas productoras y las asociaciones de personas productoras que se encuentren sancionadas por incumplimiento en esta materia, y
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+IX. Los apoyos estarán dirigidos las personas productoras y asociaciones de personas productoras o beneficiarias, así como a los proveedores, que no hayan infringido el presente Libro, su Reglamento y demás disposiciones administrativas en la materia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE JUNIO DE 2023)</small>
+
+## TITULO TERCERO. De la Trazabilidad, Movilización y del Sistema Único de Registro Agropecuario
+
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-18. La Secretaría del Campo organizará y coordinará la movilización, la trazabilidad, el sistema estatal de información de desarrollo agropecuario y de la acuacultura, la apicultura y el agave, con el objeto de obtener, generar y procesar la información necesaria para planear el fomento y evaluar el desarrollo de las actividades a que se refiere este Libro, así como para proveer de información oportuna a quienes participan en dichas actividades y al público en general.
+18.- La Secretaría del Campo organizará, la trazabilidad, movilización y el Sistema Único de Registro Agropecuario del Estado de México, para vigilar el origen, la identificación, registro, con el objeto de obtener, generar y procesar la información necesaria para planear el fomento y evaluar el desarrollo de las actividades a que se refiere este Libro.
 
 > <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], G.G. 6 DE JUNIO DE 2016)</small>
 
@@ -9065,11 +9119,13 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 ### CAPITULO PRIMERO. De las Medidas Sanitarias
 
-> <small>(ADICIONADO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-18 Bis.- La Secretaría aplicará en puntos de verificación e inspección interna, en las unidades de producción y en los demás sitios que determine, las medidas sanitarias en la agricultura, pecuaria, acuacultura, apicultura, el agave y sus derivados, sus productos y subproductos, cuando exista un riesgo sanitario inminente, hasta en tanto se acredite lo contrario a través del dictamen que para tal efecto emita su personal técnico y en todos los casos, los gastos que se generen serán pagados por el infractor.
+18 Bis.- La Secretaría aplicará en puntos de verificación e inspección itinerante, en las unidades de producción, establecimientos y en los demás sitios que se determinen, las medidas sanitarias en las actividades agrícola, pecuario, acuícola, pesquero, así como sus productos y subproductos, bajo estándares nacionales e internacionales; cuando exista un riesgo sanitario inminente, hasta en tanto se acredite lo contrario a través del dictamen que para tal efecto emita su personal técnico y en todos los casos, los gastos que se generen serán pagados por el infractor.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.G. 6 DE JUNIO DE 2016)</small>
 
 Las medidas sanitarias serán:
 
@@ -9091,23 +9147,29 @@ VIII. Eliminación.
 
 IX. Transformación.
 
-X. Las demás que establezca el Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE JUNIO DE 2023)</small>
 
-> <small>(ADICIONADO, G.G. 6 DE JUNIO DE 2016)</small>
+X. Identificación del animal de manera permanente, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN X], G.G. 2 DE JUNIO DE 2023)</small>
+
+XI. Las demás que establezca el Reglamento.
+
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-18 Ter.- Para la aplicación de las medidas preventivas, correctivas y sanciones a que haya lugar, una vez aplicadas las medidas sanitarias, se iniciará el procedimiento correspondiente conforme al Código de Procedimientos Administrativos del Estado de México.
+18 Ter.- Para la aplicación de las medidas preventivas, correctivas y sanciones a que haya lugar, una vez aplicadas las medidas sanitarias, la Secretaría del Campo, iniciará el procedimiento correspondiente conforme al Código de Procedimientos Administrativos del Estado de México.
 
 > <small>(ADICIONADO, G.G. 6 DE JUNIO DE 2016)</small>
 
 ### CAPITULO SEGUNDO. De las Infracciones y Sanciones
 
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-19.- Las infracciones que procedan conforme a lo dispuesto por este Libro, su Reglamento y demás disposiciones jurídicas aplicables en la materia, serán sancionadas administrativamente por la Secretaría, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+19.- Las infracciones que procedan conforme a lo dispuesto por este Libro, su Reglamento y demás disposiciones jurídicas aplicables en la materia, serán sancionadas administrativamente por la Secretaría del Campo, de acuerdo con la normatividad vigente, sin perjuicio de denunciar los hechos que puedan ser constitutivos de delito, ante la autoridad competente.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, G.G. 6 DE JUNIO DE 2016)</small>
 
@@ -9121,29 +9183,67 @@ II. Incumplir con cualquiera de los compromisos a los que se haya obligado el be
 
 III. No proporcionar la información y documentación que se le requiera o proporcionarla falsamente.
 
-> <small>(ADICIONADA, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE JUNIO DE 2023)</small>
 
-IV. Las demás que establezcan el Reglamento y otras disposiciones jurídicas aplicables en la materia.
+IV. Abstenerse o negarse, sin causa justificada, a realizar acciones de prevención de enfermedades o plagas en las actividades agrícola, pecuario, acuícola, pesquero, sus productos y subproductos;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+V. Realizar movilizaciones de vegetales, animales y especies acuícolas, sus productos y subproductos que representen un riesgo sanitario o incumplan con la normatividad administrativa aplicable;
+
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+VI. Negar al personal oficial de la Secretaría del Campo, sin causa justificada, el acceso a los sitios o establecimientos y/o verificados en términos de las disposiciones jurídicas aplicables, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN IV], G.G. 2 DE JUNIO DE 2023)</small>
+
+VII. Las demás establecidas y sancionadas en Códigos, Reglamentos y demás disposiciones jurídicas aplicables en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-20. Para la imposición de sanciones, la Secretaría previo el cumplimiento a la garantía de audiencia de acuerdo a lo establecido en el Código de Procedimientos Administrativos del Estado de México, tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, los antecedentes, circunstancias personales y situación socioeconómica del infractor en los términos que establezca el presente Libro, su Reglamento y demás disposiciones jurídicas aplicables en la materia.
+20.- Para la imposición de sanciones, la Secretaría del Campo, a través de sus áreas administrativas, previo el cumplimiento a la garantía de audiencia de acuerdo a lo establecido en el Código de Procedimientos Administrativos del Estado de México, tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, los antecedentes, circunstancias personales y situación socioeconómica del infractor en los términos que establezca el presente Libro, su Reglamento y demás disposiciones jurídicas aplicables en la materia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 6 DE JUNIO DE 2016)</small>
 
 Para efectos del párrafo anterior, la Secretaría establecerá las siguientes sanciones:
 
-I. Clausura temporal.
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-II. Clausura definitiva.
+I. Amonestación;
 
-III. Suspensión temporal del registro, certificación, aprobación, autorización, reconocimiento o permiso.
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-IV. Revocación o cancelación del reconocimiento, certificación, aprobación, autorización, registro o permiso.
+II. Clausura temporal;
 
-V. Multa.
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
 
-VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas aplicables en la materia.
+III. Clausura definitiva;
+
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+IV. Suspensión temporal del registro, certificación, aprobación, autorización, reconocimiento o permiso;
+
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+V. Revocación o cancelación de los apoyos o estímulos otorgados a personas productoras o beneficiarias, así como de los reconocimientos, certificaciones, aprobaciones, autorizaciones, registros o permisos;
+
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+VI. Multa;
+
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+VII. La devolución o reintegro con sus productos financieros, de los apoyos o estímulos recibidos por los beneficiarios, de acuerdo con las Reglas de Operación, Mecánica Operativa y lineamientos establecidos en cada uno de los programas;
+
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+VIII. La devolución o reintegro con sus productos financieros, de los apoyos o estímulos que los proveedores reciban por encargo de los beneficiarios de acuerdo con las Reglas de Operación, Mecánica Operativa y lineamientos establecidos en cada uno de los programas, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VI], G.G. 2 DE JUNIO DE 2023)</small>
+
+IX. Las demás que establezca el Reglamento y otras disposiciones jurídicas aplicables en la materia.
 
 > <small>(ADICIONADO, G.G. 6 DE JUNIO DE 2016)</small>
 
@@ -14859,17 +14959,23 @@ Las dimensiones mínimas y la normatividad específica para garantizar el asolea
 
 I. Instalaciones hidráulicas y sanitarias; toda edificación deberá contar con suministro de agua proveniente de la red general de agua potable de acuerdo al volumen que requiera y en caso de no existir ésta, contar con almacenamiento que garantice el suministro. Asimismo, deberá tener drenaje sanitario con descarga al colector público y en caso de no existir éste, proveerse de fosa séptica.
 
-Se requerirá la realización de estudios de factibilidad para el tratamiento y reutilización de aguas residuales tratadas para las edificaciones que se destinen a industrias, establecimientos mercantiles, de servicios, de recreación, centros comerciales, obras en proceso mayores a dos mil quinientos metros cuadrados de construcción y establecimientos dedicados al lavado de autos;
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
+
+Se requerirá la realización de estudios de factibilidad para el tratamiento y reutilización de aguas residuales tratadas, así como, de sistemas de captación de agua pluvial, para las edificaciones que se destinen a industrias, establecimientos mercantiles, de servicios, de recreación, centros comerciales, obras en proceso mayores a dos mil quinientos metros cuadrados de construcción y establecimientos dedicados al lavado de autos;
 
 II. Las edificaciones estarán provistas, con el número de servicios sanitarios, tipo de mueble y características de acuerdo al uso y capacidad de las mismas;
 
-III. Aguas pluviales; se deberá especificar la conducción de aguas pluviales en edificaciones cuya ubicación así lo permita, dependiendo de los servicios de alcantarillado pluvial de la localidad;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+III. Aguas pluviales; se deberá especificar la captación y conducción de aguas pluviales en edificaciones cuya ubicación así lo permita para su total aprovechamiento, en aquellas actividades que no requieran el uso de agua potable y atendiendo a los servicios de alcantarillado pluvial de la localidad;
 
 IV. De combustibles; cuando la edificación así lo requiera, deberán regularse las conexiones a la red de gas entubado, la instalación de recipientes y equipos de combustión, redes de conducción y recipientes de alta o baja presión, entre otros;
 
 V. Energía eléctrica; todo tipo de locales, deberán contar, por lo menos, con un contacto y salida para iluminación. Las edificaciones de salud, hospedaje, recreación, oficinas públicas y privadas, centros comerciales, comunicaciones y transportes y todas aquellas de concentración masiva de personas, deben tener además sistemas de iluminación de emergencia con encendido automático; y
 
-VI. Ahorro de agua y energía; toda edificación deberá contar con mecanismos ahorradores de agua y energía, así como, preferentemente, sistemas que utilicen fuentes alternativas de energía, a efecto de lograr un aprovechamiento sustentable de los recursos naturales y el cuidado de la biosfera.
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2023)</small>
+
+VI. Ahorro de agua y energía; toda edificación deberá contar con mecanismos ahorradores de agua y energía, así como, preferentemente, sistemas que utilicen fuentes alternativas de energía y de captación y naturación de agua pluvial, a efecto de lograr un aprovechamiento sustentable de los recursos naturales y el cuidado de la biosfera.
 
 Las características y especificaciones de estos tipos de instalaciones, así como las de instalaciones especiales, elevadores, albercas, acondicionamiento o expulsión de aire o de telecomunicaciones de las edificaciones, se determinarán con base en lo establecido en las Normas Técnicas y las normas oficiales mexicanas aplicables.
 
@@ -18738,3 +18844,27 @@ G.G. 26 DE MAYO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 175.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 53 Y 91; SE ADICIONAN LOS ARTÍCULOS 53 BIS Y 92 BIS DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, SE REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I Y LAS FRACCIONES III Y VI DEL ARTÍCULO 18.39 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Para cumplir con el contenido del presente Decreto las Dependencias y Organismos Auxiliares estatales y municipales, de acuerdo con su naturaleza jurídica y según corresponda, realizarán las adecuaciones pertinentes a sus anteproyectos de presupuestos, a partir del siguiente ejercicio fiscal.
+
+CUARTO. La Comisión del Agua del Estado de México elaborará y emitirá, en coordinación con la Secretaría de Finanzas, las reglas de operación para la aplicación de los recursos asignados al Fideicomiso a que se refiere el presente Decreto.
+
+QUINTO. La operación y funcionamiento del Fideicomiso al que hace referencia el presente Decreto quedará sujeta a la disponibilidad presupuestal, y comenzará su funcionamiento a partir del Ejercicio Fiscal del Año 2024.
+
+G.G. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 177.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan todas las disposiciones de menor o igual jerarquía que se opongan a lo previsto en el presente Decreto.
