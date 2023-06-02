@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2023-06-01"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -271,9 +271,9 @@ IX. NOVENO CIRCUITO:
 
 X. DECIMO CIRCUITO:
 
-(REFORMADO POR EL ARTÍCULO 23 DEL ACUERDO GENERAL 51/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE DICIEMBRE DE 2018) (F. DE E., D.O.F. 7 DE FEBRERO DE 2020)
+> <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 6/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2023)</small>
 
-1. Siete tribunales colegiados: Cinco especializados: uno en materia administrativa, uno en materia civil, uno en materia penal y dos en materia de trabajo, todos con residencia en Villahermosa, y, dos con residencia en Coatzacoalcos.
+1. Ocho tribunales colegiados de circuito; seis de ellos especializados: uno en materia administrativa, uno en materia de civil, uno en materia penal y tres en materia de trabajo, todos con residencia en Villahermosa, Tabasco; y dos mixtos con residencia en Coatzacoalcos.
 
 > <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 81/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
 
@@ -10538,3 +10538,17 @@ CUARTO. Se habilita la competencia de las personas Juzgadoras de Distrito adscri
 QUINTO. Los asuntos que se encuentren ingresados en los diversos Centros de Justicia Penal Federal en el Estado de Sinaloa con residencia en Culiacán y en el Estado de Sonora con sede en Hermosillo, respectivamente, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dichos Centros.
 
 SEXTO. Se instruye a la Unidad de Transparencia del Consejo de la Judicatura Federal para que integre el presente régimen transitorio al Acuerdo General 24/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, para observancia de los artículos PRIMERO y TERCERO TRANSITORIOS de este Acuerdo.
+
+D.O.F. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 6/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL TERCER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL DÉCIMO CIRCUITO, CON RESIDENCIA EN VILLAHERMOSA, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO INDICADO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y DE LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al Tercer Tribunal Colegiado en Materia de Trabajo del Décimo Circuito de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos de la Oficina de Correspondencia Común que dará servicio al Tercer Tribunal Colegiado en Materia de Trabajo del Décimo Circuito que inicia funciones.
+
+QUINTO. El personal de la Administración Regional apoyará para el traslado de los asuntos que por turno corresponda conocer al Tercer Tribunal Colegiado en Materia de Trabajo del Décimo Circuito que inicia funciones.
