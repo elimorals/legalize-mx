@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-de-la-ciudad-de-mexico-149711"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2022-06-15"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149711&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-04"
 
 LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JUNIO DE 2023.
 
 Ley publicada en el No. 612 de la Gaceta Oficial de la Ciudad de México, el lunes 7 de junio de 2021.
 
@@ -74,6 +74,10 @@ VIII. Dependencias: Secretarías y la Consejería Jurídica y de Servicios Legal
 
 IX. Docente: Persona que en el proceso de enseñanza - aprendizaje imparte conocimientos y orienta a los alumnos;
 
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+IX Bis. Educación comunitaria: Alternativa educativa que tiene como finalidad responder a las características, necesidades e intereses de las personas habitantes, vecinas o transeúntes de la Ciudad, bajo diversas modalidades y modelos pedagógicos, que se sustentan en un enfoque de derechos humanos, igualdad sustantiva, perspectiva de género, territorialidad, perspectiva intercultural, sustentabilidad, inclusión social y de atención a grupos prioritarios y donde se imparte educación a distancia, cultura, deporte y autonomía económica;
+
 X. Educación Especial: Atención educativa para las alumnas y alumnos con necesidades educativas especiales, por discapacidad, condición de salud o aptitudes sobresalientes, de acuerdo a sus condiciones, necesidades, intereses y potencialidades. Ésta debe constituir un vehículo para la transición hacia la consolidación de la educación inclusiva, por ello, en lo referente a personas con discapacidad y condición de salud, la educación especial debe ser excepcional;
 
 XI. Educación Inclusiva: Derecho humano de toda alumna y alumno que consiste en el conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos, al eliminar prácticas de discriminación, exclusión y segregación, la cual se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos;
@@ -98,17 +102,31 @@ XX. Personas Educadoras: Persona que imparte conocimientos y orienta a los alumn
 
 XXI. Personas Mayores: Aquellas que cuenten con sesenta años o más de edad y que se encuentren domiciliadas o en tránsito en la Ciudad de México;
 
-XXII. PILARES: Puntos de Innovación, Libertad, Arte y Saberes de la Ciudad de México, y
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-XXIII. Secretaría: Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México.
+XXII. PILARES: Puntos de Innovación, Libertad, Arte, Educación y Saberes de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+XXIII. Secretaría: Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, y
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+XXIV. Subsistema de Educación Comunitaria: Constituido por el conjunto de los PILARES como una oferta educativa, cultural, deportiva y de autonomía económica, que permite a niñas, niños, adolescentes, jóvenes y a la ciudadanía en general (sic) estar en posibilidades de integrarse a otras opciones de formación integral y alcanzar un desarrollo personal y social.
+
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 3.
 
-El Gobierno de la Ciudad asume a la educación como un derecho humano inalienable, un deber primordial y un bien público indispensable para la realización plena de las personas habitantes y vecinas, así como un proceso colectivo en el que participan las autoridades de los distintos órdenes de gobierno como garantes del interés superior del educando, en el ámbito de sus atribuciones, las personas educadoras, los educandos, las familias y la sociedad.
+La educación es un derecho humano inalienable, un deber primordial y un bien público indispensable para la emancipación y la realización plena, continua y permanente de las personas y la sociedad. Es uno de los ejes básicos de la transformación social y democrática de la entidad. Se concibe como la base para el ejercicio pleno de derechos, libertades, con equidad, respeto a la diversidad e inclusión.
 
 ###### Artículo 4.
 
 En la Ciudad todas las personas tienen derecho a la educación, al conocimiento y aprendizaje en todos sus tipos, niveles, modalidades y opciones.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+La educación pública será gratuita en todas sus modalidades, tipos, opciones y niveles: inicial, básica, media superior y superior.
 
 Tendrán acceso igualitario a recibir formación adecuada a su edad, capacidades y necesidades específicas, así como la garantía de su permanencia, avance académico y, en su caso, egreso oportuno, con sólo satisfacer los requisitos que establezcan las instituciones educativas con base en las disposiciones aplicables.
 
@@ -119,6 +137,12 @@ Las autoridades educativas de la Ciudad priorizarán el interés superior de las
 ###### Artículo 6.
 
 La educación impartida en la Ciudad se basará en el respeto irrestricto a la dignidad de las personas, con un enfoque de derechos humanos y pleno reconocimiento a la igualdad sustantiva entre hombres y mujeres, así como de la diversidad sexual y de género. Tenderá a desarrollar armónicamente todas las facultades de las personas, fomentando en ellas el amor a la Patria, a la naturaleza, el respeto a los derechos, las libertades, la no discriminación, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores, la convivencia humana y la mejora continua del proceso de enseñanza - aprendizaje y fomentará la práctica de actividades relacionadas con las artes, la educación física y el deporte. Se incorporará la perspectiva de género con un enfoque transversal en todos los ámbitos del sistema educativo de la Ciudad.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 6 Bis.
+
+Toda niña, niño y adolescente tiene derecho al libre desarrollo de su personalidad. En los centros escolares, tanto públicos como particulares, se permitirá el uso de uniforme neutro. Podrán elegir libremente si desean usar pantalón o falda para asistir a clases. Asimismo, los centros escolares deberán abstenerse de imponer reglas que impliquen restricciones a los derechos del alumnado, motivadas por su apariencia física.
 
 ###### Artículo 7.
 
@@ -314,15 +338,21 @@ VII. Las instituciones educativas públicas, los Sistemas establecidos en la Con
 
 VIII. El Instituto de Educación Media Superior de la Ciudad de México;
 
-IX. El Bachillerato Digital y el Bachillerato a Distancia de la Secretaría;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+IX. Los programas de bachillerato impartidos por la Secretaría;
 
 X. La Universidad Autónoma de la Ciudad de México;
 
-XI. El Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos”;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+XI. La Universidad “Rosario Castellanos”;
 
 XII. La Universidad de la Salud;
 
-XIII. La Red de PILARES;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+XIII. El Subsistema de Educación Comunitaria PILARES;
 
 XIV. Las instituciones educativas particulares con autorización o con reconocimiento de validez oficial de estudios;
 
@@ -378,9 +408,9 @@ De manera adicional, se considerarán los centros dedicados a impartir educació
 
 La educación básica tiene como propósito proporcionar a los educandos conocimientos fundamentales de matemáticas, lecto-escritura, literacidad, historia, geografía, civismo, filosofía y lengua extranjera, así como iniciarlos en el estudio de las ciencias a través de su participación directa en el proceso de enseñanza - aprendizaje; asimismo la comprensión de la pluralidad lingüística y cultural de la nación y de la entidad, el conocimiento y la práctica de las artes, la comprensión integral del funcionamiento y cuidado de su cuerpo, su sexualidad, prevención de enfermedades y adicciones, el valor de la familia y el respeto a las personas mayores; que se inculque la protección al medio ambiente, el cuidado de los recursos naturales y el respeto a las especies animales; se fomente un estilo de vida saludable, la educación física y el deporte, la educación para la salud, la cultura de la salud bucodental y la importancia de la donación de órganos, tejidos y sangre.
 
-I. La educación inicial atiende a niñas y niños menores de 3 años de edad y su orientación formativa responde a los principios rectores y objetivos determinados por la Autoridad Educativa Federal.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2023)</small>
 
-Los Centros de Educación Inicial se clasifican en:
+I. La educación inicial atiende a niñas y niños menores de 3 años de edad. Los Centros de Educación Inicial se clasifican en:
 
 a) Públicos: Los creados, financiados y administrados por el Gobierno de la Ciudad, sus instituciones, las Alcaldías, los Organismos Autónomos y los del Poder Judicial, todos de la Ciudad;
 
@@ -390,9 +420,13 @@ c) Comunitarios: Los creados, financiados y administrados por organizaciones com
 
 II. La educación preescolar comprende tres grados, tiene como propósito estimular el desarrollo cognoscitivo, afectivo, social y psicomotor de las niñas y los niños entre 3 y 6 años en un contexto pedagógico apropiado a sus características y necesidades, así como la formación de valores, hábitos, habilidades y destrezas adecuadas a su edad.
 
-III. La educación primaria tiene como antecedente obligatorio la educación preescolar y comprende seis grados; es esencialmente formativa y contribuirá al desarrollo armónico e integral de los educandos.
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-IV. La educación secundaria tiene como antecedente obligatorio la primaria y comprende tres grados educativos; tendrá carácter formativo, profundizará en las disciplinas y áreas de conocimiento de la educación primaria y preparará a los educandos para la educación media superior.
+III. La educación primaria comprende seis grados; es esencialmente formativa y contribuirá al desarrollo armónico e integral de los educandos.
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+IV. La educación secundaria comprende tres grados educativos; tendrá carácter formativo, profundizará en las disciplinas y áreas de conocimiento de la educación primaria y preparará a los educandos para la educación media superior.
 
 ###### Artículo 16.
 
@@ -430,11 +464,15 @@ El Sistema de Bachillerato del Gobierno de la Ciudad se integra por:
 
 I. El Instituto de Educación Media Superior de la Ciudad de México: Es un organismo descentralizado de la Administración Pública de la Ciudad, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría, cuyo objeto es impartir e impulsar la educación media superior en la entidad, especialmente en aquellas zonas en las que la atención de la demanda educativa sea insuficiente o así lo requiera el interés colectivo. La organización, funcionamiento y atribuciones del Instituto se regirán por lo que disponga la normativa en la materia;
 
-II. El Bachillerato Digital de la Secretaría;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-III. El Bachillerato a Distancia de la Secretaría, y
+II. Los programas de bachillerato impartidos por la Secretaría, y
 
-IV. Los servicios de apoyo y asesoría a las personas que cursan estudios de bachillerato, prestados a través de las Ciberescuelas de la Red de PILARES.
+III. (DEROGADA, G.O. 2 DE JUNIO DE 2023)
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+IV. Los servicios de apoyo y asesoría a las personas que cursan estudios de bachillerato, prestados a través de las Ciberescuelas del Subsistema de Educación Comunitaria.
 
 #### Sección Tercera. Educación Superior
 
@@ -448,15 +486,27 @@ La educación superior tiene el objetivo de producir y divulgar conocimientos de
 
 Las funciones de las instituciones de educación superior son la docencia, la investigación, la extensión y la difusión del conocimiento y la cultura. Se promoverá la implementación del modelo de formación dual, que permita a las y los alumnos vincularse con el sector laboral y adquirir los conocimientos y habilidades que requieren para ejercer su profesión.
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 23.
 
-La Secretaría promoverá, en coordinación con la Autoridad Educativa Federal y dentro del ámbito de su competencia, el mejoramiento de las instituciones públicas de educación superior con el objetivo de formar a los profesionistas que demanda la sociedad e incidir en el desarrollo económico, social y cultural de la entidad.
-
-Asimismo, podrá analizar junto con las instituciones de educación superior en la entidad, la problemática nacional y local y proponer soluciones respetando las competencias y facultades de las distintas instancias.
+La Secretaría, en el ámbito de su competencia y en coordinación con la Secretaría de Educación Pública y el Consejo Nacional de Humanidades, Ciencia y Tecnología fortalecerá la colaboración interinstitucional para favorecer la consolidación de las instituciones de educación superior, el desarrollo de la investigación científica, humanística, tecnológica y de innovación, del posgrado y la divulgación de la ciencia; apoyará el desarrollo de la ciencia y la innovación tecnológica e incentivará que las instituciones de educación superior, a través de ordenamientos internos, fomenten la participación del personal docente y de investigación en actividades de enseñanza, tutorías, investigación y aplicación innovadora del conocimiento.
 
 ###### Artículo 24.
 
 El Gobierno de la Ciudad, en concurrencia con la Federación, podrá crear instituciones de educación superior para atender las necesidades sociales, económicas y culturales de la entidad.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 24 Bis.
+
+En la Ciudad son instituciones de educación superior:
+
+I. La Universidad "Rosario Castellanos", y
+
+II. La Universidad de la Salud.
+
+Estas Universidades, así como las demás instituciones de educación superior creadas por el gobierno de la Ciudad, contarán con la facultad de emitir, modificar o revocar los grados o títulos correspondientes a las personas que hayan concluido los grados que impartan, así como las condiciones que fije la normativa respectiva. Tendrán la posibilidad de anular aquellos títulos o grados otorgados, de conformidad con la normativa que establezcan las instituciones otorgantes.
 
 ###### Artículo 25.
 
@@ -464,11 +514,15 @@ La Universidad Autónoma de la Ciudad de México goza de autonomía en los térm
 
 La organización, funcionamiento y atribuciones de la Universidad Autónoma de la Ciudad de México, se regirán por lo dispuesto en su ley y normativa interior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 26.
 
-El Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos” contribuirá a mejorar la cobertura de la educación superior en la Ciudad y brindará una oferta de estudios pertinentes y de alto nivel académico, considerando lo siguiente:
+La Universidad “Rosario Castellanos” contribuirá a mejorar la cobertura de la educación superior en la Ciudad y brindará una oferta de estudios pertinentes y de alto nivel académico, considerando lo siguiente:
 
-I. Es un órgano desconcentrado, con autonomía técnica, académica y de gestión, adscrito a la Secretaría y tendrá por objeto impartir e impulsar la educación de tipo superior en la Ciudad, y
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+I. Es un organismo descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría y tendrá por objeto impartir e impulsar la educación superior en la Ciudad, así como realizar actividades de investigación, difusión y vinculación social; y
 
 II. Su organización, funcionamiento y atribuciones se regirán por lo dispuesto en la normativa correspondiente.
 
@@ -476,7 +530,9 @@ II. Su organización, funcionamiento y atribuciones se regirán por lo dispuesto
 
 La Universidad de la Salud tendrá una vocación social y coadyuvará a cubrir las necesidades educativas de nivel superior en el campo de la salud mediante planes y programas de estudio de calidad, innovadores y con pertinencia sociocultural, enfocados a la protección de la salud, individual, familiar y comunitaria, considerando lo siguiente:
 
-I. Es un órgano desconcentrado con autonomía técnica, académica y de gestión, adscrito a la Secretaría y tiene por objeto impartir e impulsar la educación de tipo superior en el campo de la salud en la Ciudad, y
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+I. Es un organismo descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría y tiene por objeto impartir e impulsar la educación de tipo superior en el campo de la salud, así como realizar actividades de investigación, difusión y vinculación social; y
 
 II. Su organización, funcionamiento y atribuciones se regirán por lo dispuesto en la normativa correspondiente.
 
@@ -487,6 +543,32 @@ Los educandos de nivel licenciatura inscritos en las instituciones de educación
 ###### Artículo 29.
 
 Los títulos profesionales y grados académicos que se otorguen a las personas que hayan concluido alguna carrera o posgrado, en las instituciones dependientes de la Secretaría y de los particulares con reconocimiento de validez oficial de estudios otorgados por ésta, serán expedidos por la persona titular de dicha Secretaría y tendrán validez en toda la República.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 29 Bis.
+
+Para la coordinación local de las estrategias, programas y proyectos en materia de educación superior, la Ciudad contará con una COEPES, en los términos que establece la Ley General de Educación Superior.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 29 Ter.
+
+La asignación de recursos financieros a las universidades e instituciones públicas de educación superior se realizará con una visión de largo plazo; para tal efecto, las autoridades respectivas, en su ámbito de competencia, atenderán lo dispuesto en la Ley General de Educación Superior.
+
+Es obligatorio que en el Presupuesto de Egresos de la Ciudad de México se asignen los recursos que, con sujeción a las previsiones de ingreso y gasto públicos permitan el desarrollo de las funciones de la Universidad Autónoma de la Ciudad de México, la Universidad Rosario Castellanos y la Universidad de la Salud.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 29 Quáter.
+
+Para auxiliar el cumplimiento de sus atribuciones, la Secretaría contará con un órgano colegiado de consulta, opinión, asesoría y análisis, encargado de fomentar la colaboración interinstitucional e intergubernamental, así como contribuir a la planeación y el mejoramiento de la educación media superior y superior, las ciencias, las humanidades, la tecnología y la innovación, para coadyuvar en el progreso y bienestar social de la Ciudad y de la nación.
+
+Este órgano colegiado se integrará de manera honorífica, por representantes de instituciones de educación media superior y superior e instituciones de investigación, públicas y particulares, cuya admisión será determinada por la asamblea de integrantes, así como por las personas titulares de la administración de la Secretaría; será presidida por la persona titular de la Secretaría y tendrá las funciones que su Reglamento Interno indique.
+
+Las instituciones integrantes de este órgano colegiado tendrán participación en la COEPES de la Ciudad.
+
+Para su operación, el órgano contará con un Reglamento Interno aprobado por la asamblea de integrantes a propuesta de la persona titular de la Secretaría.
 
 #### Sección Cuarta. Educación Inclusiva y Especial
 
@@ -632,13 +714,59 @@ VII. Las demás que coadyuven al desarrollo armónico e integral de las personas
 
 Los PILARES son espacios públicos comunitarios y gratuitos, de educación y formación al servicio de las personas habitantes, vecinas y transeúntes de la Ciudad, para el ejercicio de sus derechos humanos, económicos, sociales, culturales y ambientales. Constituyen una red integrada de servicios educativos, culturales, deportivos y de formación para el bienestar.
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 49.
 
-La red que articula los PILARES y el personal que labora en ellos, así como los programas sociales formarán parte del Sistema Educativo de la Ciudad, bajo la modalidad de servicios educativos extraescolares. Éstos se sustentan en un enfoque de derechos humanos, igualdad sustantiva, perspectiva de género, territorialidad, inclusión social y de atención prioritaria a la población en condiciones de vulnerabilidad.
+La red que articula los PILARES y el personal que labora en ellos, así como los programas sociales formarán parte del Sistema Educativo de la Ciudad, como Subsistema de Educación Comunitaria. Éstos se sustentan en un enfoque de derechos humanos, igualdad sustantiva, perspectiva de género, territorialidad, inclusión social y de atención prioritaria a la población en condiciones de vulnerabilidad.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 49 Bis.
+
+El Subsistema de Educación Comunitaria tendrá la naturaleza jurídica de un órgano desconcentrado adscrito a la Secretaría; cuya persona titular será designada y removida por la persona titular de la Jefatura de Gobierno.
+
+El Subsistema de Educación Comunitaria contará con las atribuciones que se establezcan en el Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 49 Ter.
+
+Para coadyuvar en su operación y funcionamiento, el Subsistema de Educación Comunitaria “PILARES” contará con un Comité Consultivo que estará integrado por las personas titulares de las siguientes autoridades del Gobierno de la Ciudad de México:
+
+I. Secretaría, quien lo presidirá;
+
+II. El Subsistema de Educación Comunitaria, quien fungirá en la Secretaría Técnica;
+
+III. Secretaría de Administración y Finanzas;
+
+IV. Secretaría de Cultura;
+
+V. Secretaría del Trabajo y Fomento al Empleo;
+
+VI. Secretaría de Desarrollo Económico;
+
+VII. Secretaría de las Mujeres;
+
+VIII. Secretaría del Medio Ambiente;
+
+IX. Secretaría de Salud;
+
+X. Instituto de la Juventud, e
+
+XI. Instituto del Deporte.
+
+La Presidencia podrá invitar a las personas titulares de otras autoridades e instituciones para participar en sus sesiones, quienes contarán únicamente con derecho a voz.
+
+En ausencia de la persona titular de la Secretaría, quien ocupe la titularidad del Subsistema de Educación Comunitaria se encargará de presidir las sesiones.
+
+La organización y funcionamiento del Comité Consultivo se regirá por el Reglamento interno aprobado por dicho órgano colegiado.
+
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 50.
 
-Corresponderá a la Secretaría la organización, administración y gestión de la Red de PILARES. El gobierno de la Ciudad proveerá los recursos necesarios para su sostenimiento y operación y se regirá por las disposiciones de su reglamento.
+El Gobierno de la Ciudad asignará los recursos que, con sujeción a las previsiones de ingreso y gasto públicos, permitan su operación, el cual se regirá por las disposiciones normativas correspondientes.
 
 ###### Artículo 51.
 
@@ -680,11 +808,23 @@ Los PILARES podrán incluir, parcial o totalmente, los servicios siguientes:
 
 I. Ciberescuela para la atención educativa de todas las personas que deseen iniciar, continuar o concluir estudios de educación básica y media superior;
 
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+I Bis. Escuela de Código, para todas las personas que quieran adquirir conocimientos básicos, intermedios o avanzados en lenguajes de programación computacional;
+
 II. Educación para la autonomía económica para todas las personas, en especial para las mujeres, integrada por talleres de formación para la producción de bienes y servicios, maquinoteca y ferroteca, así como cursos de formación para el empleo, el emprendimiento, el cooperativismo y el comercio digital, con el propósito de fortalecer y desarrollar capacidades para el desempeño de oficios como fuente de ingresos;
 
-III. Talleres de Arte y Cultura para la promoción de actividades artísticas y culturales de las comunidades participantes, así como en el fomento de la creatividad y el disfrute estético de las mismas, y
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-IV. Actividades deportivas comunitarias y de recreación.
+III. Talleres de Arte y Cultura para la promoción de actividades artísticas y culturales de las comunidades participantes, así como en el fomento de la creatividad y el disfrute estético de las mismas;
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+IV. Actividades deportivas comunitarias y de recreación, y
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+V. Las demás que determine el Comité Consultivo.
 
 ###### Artículo 55.
 
@@ -702,15 +842,21 @@ III. Educación para la conciliación y cultura de paz, en particular identifica
 
 IV. Educación para el desarrollo de habilidades emocionales, físicas, cognitivas y digitales que brinden herramientas para una formación integral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 57.
 
-Para el fortalecimiento de sus funciones y actividades, la Red de PILARES contará con programas sociales regulados y administrados por la Secretaría. En forma enunciativa y no limitativa se incluyen los siguientes:
+De manera enunciativa más no limitativa, los PILARES contarán con los siguientes programas sociales para el fortalecimiento de sus funciones y actividades:
 
 I. Ciberescuelas en PILARES. Otorga apoyos económicos a los facilitadores de servicios que fungen como docentes, monitoras o monitores y talleristas para la impartición de asesorías y la realización de diversas actividades en estas instalaciones.
 
 II. Educación para la autonomía económica en PILARES. Otorga apoyos económicos a los facilitadores de servicios para la impartición de talleres de oficios, emprendimiento y cooperativismo y comercio digital.
 
 III. Beca PILARES. Otorga apoyos económicos a jóvenes de entre 15 y 29 años de edad, con secundaria concluida, inscritos en asesorías educativas en las Ciberescuelas PILARES, para obtener su certificación de educación básica y media superior, expedida por las instituciones públicas competentes, así como a personas de entre 18 y 29 años que realicen estudios de educación superior en instituciones públicas de la Ciudad.
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+IV. Ponte Pila. Promueve actividades recreativas, físicas o deportivas en los espacios públicos, deportivos y módulos de la Ciudad a través de promotores, enfocado a grupos de atención prioritaria.
 
 La Secretaría está facultada para iniciar nuevos programas así como para cancelar o modificar los existentes, en función de las necesidades de la Red de PILARES y la suficiencia presupuestal disponible. A tal efecto se emitirán, en forma anual, las convocatorias y lineamientos correspondientes.
 
@@ -720,9 +866,91 @@ La Secretaría está facultada para iniciar nuevos programas así como para canc
 
 En el Sistema Educativo de la Ciudad se consideran escuelas con funciones educativas específicas las que no están comprendidas en la categoría de centros de escolarización regular, como son las de reinserción social para personas privadas de su libertad, las de rehabilitación y reinserción social de personas con algún tipo de adicción, las correspondientes a la educación especial, las escuelas de artes, oficios e industrias, entre otras.
 
-### CAPÍTULO IV. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO V. DE LOS PLANTELES EDUCATIVOS
+### CAPÍTULO III BIS. FOMENTO DE LA INVESTIGACIÓN EN CIENCIAS, HUMANIDADES, TECNOLOGÍAS E INNOVACIÓN
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 58 Bis.
+
+En la Ciudad el acceso al desarrollo científico y tecnológico es un derecho universal y elemento fundamental para el bienestar individual y social. El Gobierno de la Ciudad fortalecerá los medios para el libre acceso, uso y desarrollo de la ciencia, la tecnología y la innovación, la plena libertad de investigación científica, humanística y tecnológica, así como a disfrutar de sus beneficios.
+
+La regulación del sistema de humanidades, ciencias, tecnologías e innovación de la Ciudad se acoge al marco normativo establecido en la Ley General en Materia de Humanidades, Ciencias, Tecnologías e Innovación salvo las disposiciones específicas contenidas en esta Ley.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 58 Ter.
+
+La Secretaría, en el ámbito de sus atribuciones y en coordinación con las autoridades competentes fortalecerán y apoyarán la generación, ejecución, difusión y divulgación de proyectos y resultados de investigación científica, humanística, tecnológica y de innovación, con la finalidad de generar propuestas de solución a los problemas y necesidades de la Ciudad, contribuir a su desarrollo económico y social, elevar el bienestar de la población y reducir las desigualdades.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 58 Quáter.
+
+La Secretaría, en el ámbito de sus atribuciones y en coordinación con las autoridades educativas de la Federación, las universidades públicas autónomas por ley, así como las instituciones de educación superior de la Ciudad, impulsará el desarrollo de la investigación en ciencias, humanidades, tecnologías e innovación, conforme a los objetivos siguientes:
+
+I. Fomentar la realización de investigación básica y aplicada, desarrollo tecnológico e innovación;
+
+II. Apoyar las capacidades de las instituciones y grupos de investigación científica, humanística y tecnológica en las instituciones públicas del Sistema Educativo local;
+
+III. Impulsar la formación de investigadoras e investigadores a través de programas de posgrado y apoyar su incorporación a las instituciones académicas que realizan funciones de investigación, desarrollo tecnológico e innovación;
+
+IV. Fomentar vocaciones científicas, tecnológicas, humanísticas e innovadoras;
+
+V. Desarrollar una vinculación creciente de las actividades de investigación científica, humanística, tecnológica y de innovación con las políticas públicas a cargo del Gobierno de la Ciudad;
+
+VI. Favorecer la creación de infraestructuras para el desarrollo de la ciencia y la innovación tecnológica;
+
+VII. Fomentar la difusión, en los ámbitos nacional e internacional, del conocimiento producido por las actividades de investigación, desarrollo tecnológico e innovación;
+
+VIII. Establecer programas de divulgación para impulsar la participación y el interés de las niñas, niños, adolescentes y jóvenes en las ciencias, humanidades, tecnologías e innovación, y
+
+IX. Democratizar la información científica, tecnológica, humanística y de innovación, en los términos que establezca la ley de la materia.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 58 Quinquies.
+
+La Secretaría, en coordinación con los organismos y autoridades competentes, y de acuerdo con lo dispuesto en las leyes en la materia, establecerá los mecanismos de colaboración para impulsar programas de investigación en ciencias, humanidades, tecnologías e innovación en las instituciones de educación superior.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 58 Sexies.
+
+La Secretaría, en coordinación con las autoridades educativas federales y las instituciones del sistema de educación superior de la Ciudad, fomentarán la creación de programas de posgrado, en diferentes modalidades y opciones, incluyendo programas interinstitucionales, enfocados en investigación e innovación científica, humanística y tecnológica.
+
+Para contribuir a la formación de especialistas en las disciplinas científicas, humanísticas y tecnológicas e incrementar la matrícula en programas de posgrado, la Secretaría y las instituciones públicas de educación superior de la Ciudad, de acuerdo con su respectiva disponibilidad presupuestaria, impulsarán el otorgamiento de becas para estudios de maestría y doctorado con enfoque de investigación.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 58 Septies.
+
+Las instituciones de educación superior de la Ciudad promoverán, a través de ordenamientos internos, que sus docentes e investigadores participen en actividades de enseñanza, tutoría, investigación y aplicación innovadora del conocimiento.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 58 Octies.
+
+Las instituciones de educación superior públicas de la Ciudad podrán realizar investigación e innovación científica, humanística y tecnológica en asociación con otras instituciones, centros públicos de investigación, sectores social y privado, de acuerdo con su normativa interna. Asimismo, podrán constituir repositorios por disciplinas científicas, humanísticas, tecnológicas y de innovación, de acuerdo con los criterios que se deriven de las disposiciones legales en la materia.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 58 Nonies.
+
+La Secretaría, en coordinación con las instituciones del sistema de educación superior de la Ciudad, fomentará procesos de internacionalización del conocimiento derivado de la investigación en ciencias, humanidades, tecnologías e innovación y promoverá la movilidad internacional de estudiantes y personal académico.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 58 Decies.
+
+Con la finalidad de extender hacia todos los sectores de la sociedad los beneficios de la investigación y desarrollo a las que se refiere este capítulo, las autoridades educativas y las instituciones de educación superior impulsarán, de manera permanente, acciones de difusión y divulgación del conocimiento, dando prioridad a la población escolar en todos los tipos y niveles educativos.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+Artículo 58 Undecies.- Para el financiamiento de las actividades de investigación básica y aplicada, desarrollo tecnológico, innovación, así como para los respectivos programas de difusión y divulgación del conocimiento, la Secretaría incluirá en su programa presupuestario partidas destinadas a estos fines. Asimismo, promoverá ante las instancias competentes y de conformidad con los procedimientos establecidos en las disposiciones aplicables, que las instituciones de educación superior accedan a los recursos destinados al fortalecimiento de la investigación científica, humanística, así como el desarrollo de la tecnología y la innovación.
+
+### CAPÍTULO IV. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
 ###### Artículo 59.
 
@@ -780,7 +1008,7 @@ En la elaboración de planes y programas de estudio que le correspondan, la Secr
 
 La Secretaría promoverá la innovación pedagógica y didáctica para la mejora continua de los procesos de enseñanza y aprendizaje en las instituciones educativas de la Ciudad, para lo cual podrá suscribir convenios con instituciones y centros especializados en la materia.
 
-### CAPÍTULO VI. DE LA EDUCACIÓN IMPARTIDA POR PARTICULARES
+### CAPÍTULO V. DE LOS PLANTELES EDUCATIVOS
 
 ###### Artículo 68.
 
@@ -808,7 +1036,7 @@ En caso de daños ocasionados por emergencias o desastres, se considerará prior
 
 En aquellos planteles educativos situados en áreas de la Ciudad con abasto hidráulico insuficiente se promoverá, en coordinación con el Sistemas (sic) de Aguas de la Ciudad de México, la instalación para el aprovechamiento de aguas pluviales.
 
-### CAPÍTULO VII. DE LA EQUIDAD EDUCATIVA
+### CAPÍTULO VI. DE LA EDUCACIÓN IMPARTIDA POR PARTICULARES
 
 ###### Artículo 74.
 
@@ -844,7 +1072,13 @@ I. Cumplir con lo dispuesto en el artículo 3° de la Constitución Federal, la 
 
 II. Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes;
 
-III. Otorgar becas que cubran la impartición del servicio educativo, que no podrán ser inferiores al cinco por ciento del total de educandos inscritos en cada plan y programa de estudios con autorización o reconocimiento de validez oficial de estudios, las cuales distribuirá por nivel educativo y su otorgamiento o renovación no podrá condicionarse a la aceptación de ningún crédito, gravamen, servicio o actividad extracurricular a cargo del becario. El otorgamiento de un porcentaje mayor de becas al señalado en la presente fracción, será decisión voluntaria de cada particular. Las becas podrán consistir en la exención del pago total o parcial de las cuotas de inscripción o de colegiaturas que haya establecido el particular. La asignación de becas procederá conforme a lo dispuesto en la Ley General;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+III. Otorgar becas que cubran la impartición del servicio educativo, que no podrán ser inferiores al cinco por ciento del total de educandos inscritos en cada plan y programa de estudios con autorización o reconocimiento de validez oficial de estudios, las cuales distribuirá por nivel educativo y su otorgamiento o renovación no podrá condicionarse a la aceptación de ningún crédito, gravamen, servicio o actividad extracurricular a cargo del becario. El otorgamiento de un porcentaje mayor de becas al señalado en la presente fracción, será decisión voluntaria de cada particular. Las becas podrán consistir en la exención del pago total o parcial de las cuotas de inscripción o de colegiaturas que haya establecido el particular. La asignación de becas procederá conforme a lo dispuesto en la Ley General y la Ley General de Educación Superior, según corresponda.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+En caso de desastres o emergencias, a solicitud del Gobierno, otorgarán becas especiales para apoyar a víctimas, en el marco de la Ley de Víctimas de la Ciudad de México.
 
 IV. Informar semestralmente a la Secretaría los resultados de las actividades que realicen, donde se incluyan las estadísticas correspondientes, además de los aspectos relativos a la organización, escolaridad y técnicos de la institución;
 
@@ -890,7 +1124,7 @@ Los particulares que presten servicios por los que impartan estudios sin reconoc
 
 Para impartir educación virtual o a distancia por cualquier medio de comunicación, que no requiera autorización o no sea susceptible de reconocimiento de validez oficial de estudios, los prestadores de este servicio deberán cumplir con los requisitos establecidos por la Secretaría, así como con las leyes y reglamentos relativos al medio de comunicación que utilicen.
 
-### CAPÍTULO VIII. DE LOS PROGRAMAS SOCIALES CON ENFOQUE EDUCATIVO
+### CAPÍTULO VII. DE LA EQUIDAD EDUCATIVA
 
 ###### Artículo 84.
 
@@ -934,7 +1168,7 @@ X. Crear bibliotecas en los centros educativos, en las colonias y barrios, dotá
 
 XI. Promover cursos en materia de derechos humanos, igualdad y no discriminación en la educación, así como la eliminación de todo tipo de estereotipos, prejuicios, detrimentos y estigmas de los grupos de atención prioritaria.
 
-### CAPÍTULO IX. DE LA EVALUACIÓN DEL SISTEMA EDUCATIVO DE LA CIUDAD DE MÉXICO
+### CAPÍTULO VIII. DE LOS PROGRAMAS SOCIALES CON ENFOQUE EDUCATIVO
 
 ###### Artículo 87.
 
@@ -950,21 +1184,27 @@ Es prerrogativa del Gobierno de la Ciudad la creación de nuevos programas, su o
 
 Los programas a los que se refiere este capítulo contarán con reglas de operación o lineamientos que se publicarán cada año en el órgano de difusión de la Ciudad y serán evaluados periódicamente conforme a la legislación aplicable. Se regirán bajo los principios de universalidad, igualdad, perspectiva de género, equidad social, justicia distributiva, inclusión, diversidad, integralidad, territorialidad, participación, transparencia, efectividad y protección de datos personales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 89.
 
-El Fideicomiso de Educación Garantizada, en el ámbito de su competencia, tendrá a su cargo la ejecución de los siguientes programas:
+La Secretaría está obligada a tutelar los siguientes derechos:
 
-I. Apoyo para Mantenimiento Menor a Escuelas Públicas de Educación Básica de la Ciudad de México “Mejor Escuela”;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-II. Seguro contra Accidentes Personales de Escolares “Va Seguro”;
+I. “La Escuela es Nuestra”: asignación presupuestal anual a las escuelas públicas de educación básica para que, bajo la organización de padres y madres de familia, en coordinación con las autoridades educativas, administren recursos para el mantenimiento de los planteles. La elección de quienes estén encargados de la ejecución y vigilancia de los proyectos se realizará de manera democrática, y
 
-III. “Uniformes y Útiles Escolares Gratuitos”, y
+II. (DEROGADA, G.O. 2 DE JUNIO DE 2023)
 
-IV. Becas Escolares de la Ciudad de México “Mi Beca para Empezar”.
+III. (DEROGADA, G.O. 2 DE JUNIO DE 2023)
 
-El programa de Becas Escolares de la Ciudad de México “Mi Beca para Empezar”, tiene por objeto otorgar becas al conjunto de estudiantes de las escuelas públicas preescolares, primarias, secundarias y de los Centros de Atención Múltiple de nivel preescolar, primaria y secundaria de la Ciudad de México.
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-El programa de “Uniformes y Útiles Escolares Gratuitos”, se otorgará al alumnado inscrito en escuelas públicas de nivel básico ubicadas en la Ciudad, tendrán derecho por cada ciclo escolar anual a contar con dos uniformes escolares, a través de la entrega de vales o por medio electrónico. Asimismo, el alumnado inscrito en las escuelas públicas de la Ciudad, tendrán derecho a recibir un paquete de útiles escolares determinados a partir de la lista oficial de útiles aprobada por la Autoridad Escolar Federal, en correspondencia a cada ciclo escolar que inicien.
+IV. Beca “Bienestar para niñas y niños” y Útiles y Uniformes: beca mensual por niña, niño o adolescente inscrito en escuelas públicas de preescolar a secundaria, por al menos 10 meses al año. El monto otorgado no podrá ser menor al establecido en el ciclo escolar inmediato anterior.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 90.
 
@@ -980,15 +1220,13 @@ La Beca Leona Vicario contribuirá con la restitución de los derechos de niñas
 
 ###### Artículo 91.
 
-El Instituto de Educación Media Superior de la Ciudad de México, en el ámbito de su competencia, otorgará al estudiantado que sean regulares en sus estudios y hayan cumplido con el proceso de reinscripción en las asignaturas del segundo y hasta el sexto semestre del plan de estudios, un apoyo económico mensual a efecto de concluir satisfactoriamente el ciclo de bachillerato en tres años.
-
-Para efectos de lo anterior, el Instituto de Educación Media Superior de la Ciudad de México, podrá tomar en consideración los programas afines que establezca el Gobierno Federal, de estímulo económico a las y los estudiantes y, en su caso, de acuerdo con la disponibilidad presupuestaria, complementar con el apoyo mensual equivalente de hasta 15 Unidades de Medida y Actualización vigente en la Ciudad.
+(DEROGADO, G.O. 2 DE JUNIO DE 2023)
 
 ###### Artículo 92.
 
 La ejecución y aplicación de los programas sociales será de acuerdo con las reglas de operación o lineamientos que al efecto se establezcan.
 
-### CAPÍTULO X. DE LA VALIDEZ Y LA CERTIFICACIÓN DE ESTUDIOS
+### CAPÍTULO IX. DE LA EVALUACIÓN DEL SISTEMA EDUCATIVO DE LA CIUDAD DE MÉXICO
 
 ###### Artículo 93.
 
@@ -1030,9 +1268,17 @@ II. Será un proceso permanente y sistemático en cada plantel educativo y proce
 
 III. Los consejos técnicos escolares, zonales, las supervisiones de zona y de las Alcaldías serán organismos de obligada y necesaria participación en los procesos de evaluación del Sistema Educativo de la Ciudad y de las instituciones que lo conforman;
 
-IV. La evaluación de los planteles y de las zonas escolares tendrá como finalidad la identificación de aquellos elementos de apoyo que requieran, por parte del Sistema Educativo de la Ciudad, así como identificación de los obstáculos que se enfrentan, la identificación de posibles soluciones y la definición de las medidas que deberán ser adoptadas para mejorar su operación, y
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-V. La evaluación en la aplicación de los planes, programas y contenidos de estudio, que será un proceso sistemático que permita conocer si los objetivos programados se han cumplido, realizar los ajustes necesarios y, en su caso, proponer las medidas de corrección y mejora.
+IV. La evaluación de los planteles y de las zonas escolares tendrá como finalidad la identificación de aquellos elementos de apoyo que requieran, por parte del Sistema Educativo de la Ciudad, así como identificación de los obstáculos que se enfrentan, la identificación de posibles soluciones y la definición de las medidas que deberán ser adoptadas para mejorar su operación;
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+V. La evaluación en la aplicación de los planes, programas y contenidos de estudio, que será un proceso sistemático que permita conocer si los objetivos programados se han cumplido, realizar los ajustes necesarios y, en su caso, proponer las medidas de corrección y mejora, y
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+VI. Para la evaluación y acreditación en educación superior se estará a lo dispuesto en la Ley General de Educación Superior y a la normativa que establezca el Sistema de Evaluación y Acreditación de la Educación Superior.
 
 ###### Artículo 96.
 
@@ -1062,7 +1308,7 @@ La evaluación diagnóstica de las maestras y los maestros adscritos a las insti
 
 Los procesos de evaluación del personal docente y de apoyo a la docencia, para efectos de ingreso, promoción, reconocimiento y formación continua, en las instituciones educativas dependientes del Gobierno de la Ciudad, se llevará a cabo conforme a las disposiciones reglamentarias y los lineamientos que para tal efecto expida la Secretaría.
 
-### CAPÍTULO XI. DE LOS DERECHOS Y OBLIGACIONES DE LAS PERSONAS QUE PARTICIPAN EN EL PROCESO EDUCATIVO
+### CAPÍTULO X. DE LA VALIDEZ Y LA CERTIFICACIÓN DE ESTUDIOS
 
 ###### Artículo 103.
 
@@ -1082,7 +1328,7 @@ La Secretaría e instituciones educativas, públicas o particulares, que otorgue
 
 Las personas que hayan cursado sus estudios en el extranjero podrán obtener la validez oficial de sus estudios si satisfacen los requisitos establecidos en la Ley General, esta Ley y demás disposiciones aplicables.
 
-### CAPÍTULO XII. DEL CALENDARIO ESCOLAR
+### CAPÍTULO XI. DE LOS DERECHOS Y OBLIGACIONES DE LAS PERSONAS QUE PARTICIPAN EN EL PROCESO EDUCATIVO
 
 #### Sección Primera. Derechos y Obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia
 
@@ -1222,7 +1468,7 @@ El personal docente de educación básica y media superior dedicará el tiempo e
 
 El personal que ejerce la docencia, así como el personal que labora en los planteles de educación, deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, evitando todo tipo de estereotipos, prejuicios y estigmas de los grupos de atención prioritaria, así como protegerlos contra toda forma de discriminación, maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral. En caso de que el personal docente, el personal que labora en los planteles educativos o las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
-### CAPÍTULO XIII. DE LA PARTICIPACIÓN DE LOS ACTORES SOCIALES EN EL SISTEMA EDUCATIVO DE LA CIUDAD DE MÉXICO
+### CAPÍTULO XII. DEL CALENDARIO ESCOLAR
 
 ###### Artículo 118.
 
@@ -1238,7 +1484,7 @@ En caso de suspensión de labores escolares, obligada por contingencias sociales
 
 La suspensión extraordinaria de las actividades escolares sólo podrá ser autorizada por la autoridad escolar competente.
 
-### CAPÍTULO XIV. DEL FINANCIAMIENTO A LA EDUCACIÓN
+### CAPÍTULO XIII. DE LA PARTICIPACIÓN DE LOS ACTORES SOCIALES EN EL SISTEMA EDUCATIVO DE LA CIUDAD DE MÉXICO
 
 ###### Artículo 121.
 
@@ -1298,7 +1544,7 @@ En la Ciudad se podrá instalar y operar un consejo local de participación esco
 
 Este consejo podrá promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvar en actividades de protección civil y emergencia escolar; conocer las demandas y necesidades que emanen de los consejos escolares y los de las Alcaldías, gestionar ante las instancias competentes su resolución y apoyo, así como colaborar en actividades que influyan en la excelencia y la cobertura de la educación.
 
-### CAPÍTULO XV. DE LAS INFRACCIONES Y SANCIONES DE LOS PRESTADORES DE SERVICIOS EDUCATIVOS
+### CAPÍTULO XIV. DEL FINANCIAMIENTO A LA EDUCACIÓN
 
 ###### Artículo 125.
 
@@ -1306,11 +1552,13 @@ El Ejecutivo Federal y el Gobierno de la Ciudad, con sujeción a las correspondi
 
 Los recursos federales que se reciban para la función social de la educación, deberán aplicarse única y exclusivamente a la prestación de servicios y actividades educativas en la Ciudad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 126.
 
-Para el Gobierno de la Ciudad la educación pública tiene carácter prioritario, por ello se destinarán a ella recursos presupuestarios crecientes, en términos reales y nunca inferiores a los correspondientes al ejercicio presupuestal previo. El presupuesto asignado y ejercido será dado a conocer a los órganos locales de participación escolar especificados en la Ley General.
+Para el gobierno de la Ciudad la educación pública tiene carácter prioritario. Por ello, con sujeción a las previsiones de ingreso y gasto públicos se procurarán los recursos presupuestarios crecientes en términos reales.
 
-La Secretaría elaborará el presupuesto anual correspondiente al ramo educativo de la entidad, atendiendo recomendaciones del Consejo de Participación Escolar en la Educación de la Ciudad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 127.
 
@@ -1320,7 +1568,7 @@ El presupuesto para la educación de la Ciudad se determinará con base en crite
 
 La Secretaría se sujetará a la normatividad federal y local en materia de transparencia, acceso a la información pública y rendición de cuentas, control interno y auditoría superior sobre el ejercicio del presupuesto en materia educativa.
 
-### CAPÍTULO XVI. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO XV. DE LAS INFRACCIONES Y SANCIONES DE LOS PRESTADORES DE SERVICIOS EDUCATIVOS
 
 ###### Artículo 129.
 
@@ -1406,6 +1654,8 @@ La autoridad que dicte la resolución adoptará las medidas necesarias para evit
 
 En el caso del retiro de autorizaciones, cuando la revocación se dicte durante un ejercicio lectivo, la institución podrá seguir funcionando, a juicio y bajo la vigilancia de la autoridad, hasta que aquel concluya.
 
+### CAPÍTULO XVI. DEL RECURSO DE INCONFORMIDAD
+
 ###### Artículo 133.
 
 Procede el recurso de inconformidad contra actos y resoluciones con motivo de la aplicación de la presente Ley, por autorización y reconocimiento de validez oficial de estudios y los trámites y procedimientos relacionados con los mismos o derivado de infracciones y sanciones de los prestadores de servicios educativos, mismo que se tramitará ante la propia autoridad emisora, en términos de lo dispuesto por la Ley de Procedimiento Administrativo de la Ciudad de México.
@@ -1469,3 +1719,19 @@ G.O. 15 DE JUNIO DE 2022.
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LAS FRACCIONES XXII Y XIII DEL ARTÍCULO 2; EL ARTÍCULO 3; LAS FRACCIONES IX, XI Y XIII DEL ARTÍCULO 10; LAS FRACCIONES I, III Y IV DEL ARTÍCULO 15; LAS FRACCIONES II Y IV DEL ARTÍCULO 21; EL ARTÍCULO 23; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 26; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 27; EL ARTÍCULO 49; EL ARTÍCULO 50; LAS FRACCIONES III Y IV DEL ARTÍCULO 54; EL PÁRRAFO PRIMERO DEL ARTÍCULO 57; LA FRACCIÓN III DEL ARTÍCULO 77; EL PÁRRAFO PRIMERO Y LAS FRACCIONES I Y IV DEL ARTÍCULO 89; LA FRACCIONES IV Y V DEL ARTÍCULO 95; Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 126. SE ADICIONA LAS FRACCIONES IV BIS, IV TER, IX BIS Y XXIV AL ARTÍCULO 2; UN PÁRRAFO SEGUNDO RECORRIENDO EL SUBSECUENTE AL ARTÍCULO 4; LOS ARTÍCULOS 6 BIS; 24 BIS; 29 BIS; 29 TER; 29 QUÁTER; 49 BIS; 49 TER; LAS FRACCIONES I BIS Y V AL ARTÍCULO 54; UNA FRACCIÓN IV AL ARTÍCULO 57; EL CAPÍTULO III BIS Y SU DENOMINACIÓN CON LOS ARTÍCULOS 58 BIS, 58 TER, 58 QUÁTER, 58 QUINQUIES, 58 SEXIES, 58 SEPTIES, 58 OCTIES, 58 NONIES, 58 DECIES Y 58 UNDECIES; UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 77; Y UNA FRACCIÓN VI AL ARTÍCULO 95. SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 21; LAS FRACCIONES II Y III, ASÍ COMO LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 89; EL ARTÍCULO 91; Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 126; TODOS DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. La Persona titular de la Jefatura de Gobierno contará con un término de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para la creación del órgano desconcentrado denominado Subsistema de Educación Comunitaria, al que hace referencia el artículo 49 bis del presente.
+
+CUARTO. La persona Titular de la Jefatura de Gobierno deberá llevar a cabo las acciones necesarias para la creación de los organismos públicos descentralizados denominados "Universidad Rosario Castellanos" y "Universidad de la Salud", en cumplimiento a lo previsto en el presente Decreto.
+
+QUINTO. La cobertura de atención médica ante posibles accidentes escolares en el Sistema Educativo Público de la Ciudad de México, será garantizado por las instituciones de Salud.
+
+SEXTO. Los servicios a los que hace referencia a la fracción IV del artículo 21, incluyen los servicios de apoyo y asesoría prestados a las personas que cursen el Bachillerato Digital y el Bachillerato en Línea Pilares, garantizando la conclusión de estudios a quienes se encuentran cursando en estos sistemas.
