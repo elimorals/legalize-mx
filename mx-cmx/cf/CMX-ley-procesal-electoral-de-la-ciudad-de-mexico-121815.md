@@ -4,7 +4,7 @@ identifier: "CMX-ley-procesal-electoral-de-la-ciudad-de-mexico-121815"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-07"
-last_updated: "2021-09-01"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121815&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-06-06"
 
 LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -58,15 +58,19 @@ LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO I. Ámbito de Aplicación e Interpretación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, [N. DE E. REPUBLICADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
 
 ###### Artículo 1.
 
-Las disposiciones contenidas en esta ley son de orden público y de observancia obligatoria y general en toda la Ciudad de México y para las ciudadanas y ciudadanos que ejerzan sus derechos político electorales en territorio extranjero. Para los efectos de esta ley, se entenderá por:
+Las disposiciones contenidas en esta ley son de orden público y de observancia obligatoria y general en toda la Ciudad de México y para las ciudadanas y los ciudadanos que ejerzan sus derechos político electorales en territorio extranjero. Para los efectos de esta ley, se entenderá por:
 
 > <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
 I. Persona candidata a cargo electivo: Aquella persona que en materia de participación ciudadana es elegible para ser integrante de los Comités y Consejos de los Pueblos;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+I bis. Campañas negativas: Cualquier acto realizado mediante el uso de materiales impresos, mensajes telefónicos, redes sociales, plataformas de internet o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita o comparta información falsa que atente contra el honor, reputación, integridad, dignidad, intimidad, vida privada de un candidato, dirigida a influir de manera negativa en las preferencias electorales de los ciudadanos;
 
 II. Código: El Código de Instituciones y Procedimientos Electorales de la Ciudad de México;
 
@@ -152,6 +156,8 @@ Para la sustanciación y resolución de dichos procedimientos serán aplicables,
 
 #### SECCIÓN SEGUNDA. De los Procedimientos
 
+> <small>(REFORMADO, [N. DE E. REPUBLICADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 3.
 
 Para la investigación y determinación de sanciones por presuntas faltas cometidas a las disposiciones electorales por los Partidos Políticos, las candidaturas sin partido, la ciudadanía, observadoras u observadores electorales y en general cualquier sujeto bajo el imperio de las mismas, el Instituto Electoral iniciará el trámite y sustanciación de alguno de los siguientes procedimientos:
@@ -160,7 +166,13 @@ Para la investigación y determinación de sanciones por presuntas faltas cometi
 
 I. Procedimiento Ordinario Sancionador Electoral. Procede cuando a instancia de parte o de oficio, el Instituto Electoral tenga conocimiento de la comisión de conductas infractoras de los sujetos obligados. Se encontrará sujeto al principio dispositivo, que faculta a las partes a instar al órgano competente para la apertura de la instancia y a ofrecer las pruebas que estime conducentes. El procedimiento ordinario sancionador electoral será aplicable por faltas cometidas dentro y fuera de los procesos electorales, incluido el incumplimiento de la aplicación de los protocolos de atención (sic) erradicación de la Violencia Política contra las Mujeres en Razón de Género, con excepción de las señaladas en el procedimiento especial sancionador electoral. Dicho procedimiento será resuelto por el Consejo General del Instituto Electoral; y
 
-II. Procedimiento Especial Sancionador Electoral. Será instrumentado dentro del proceso electoral respecto de las conductas contrarias a la norma electoral; es primordialmente inquisitivo y el órgano instructor tiene la facultad de investigar los hechos por todos los medios legales a su alcance, sin que deba sujetarse únicamente a las pruebas allegadas al procedimiento por las partes. Dicho procedimiento será resuelto por el Tribunal Electoral. El Procedimiento Especial Sancionador Electoral será instrumentado en los casos siguientes:
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
+
+II. Procedimiento Especial Sancionador Electoral. Será instrumentado dentro del proceso electoral respecto de las conductas contrarias a la norma electoral; es primordialmente inquisitivo y el órgano instructor tiene la facultad de investigar los hechos por todos los medios legales a su alcance, sin que deba sujetarse únicamente a las pruebas allegadas al procedimiento por las partes. Dicho procedimiento será resuelto por el Tribunal Electoral.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2023)</small>
+
+El Procedimiento Especial Sancionador Electoral será instrumentado en los casos siguientes:
 
 a) La Comisión de Fiscalización del Instituto Electoral, en el caso de que el Instituto Nacional delegue dicha función podrá llevar a cabo los procedimientos de investigación conforme a la normatividad aplicable.
 
@@ -172,13 +184,25 @@ b) Por propaganda política o electoral de partidos políticos, candidatas o can
 
 c) Cuando las denuncias tengan como motivo la comisión de conductas referidas a la confección, colocación o al contenido de propaganda o de cualquier otra diferente a la transmitida por radio o televisión;
 
-> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
 
-d) Por actos anticipados de precampaña o campaña; y
+d) Por actos anticipados de precampaña o campaña;
 
-> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
 
-e) Por quejas o denuncias por violencia política contra las mujeres en razón de género.
+e) Por quejas o denuncias por violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+f) Por campañas negativas en contra de cualquier partido político o persona candidata, la cual, solo procederá a instancia de parte;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+g) En la solicitud de votos por paga, promesa de dinero u otra contraprestación, y
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+h) En los informes de las personas titulares de las alcaldías y de la Jefatura de Gobierno que contravengan lo dispuesto en la normatividad aplicable.
 
 > <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
 
@@ -376,6 +400,8 @@ X. Las ministras y ministros de culto, asociaciones, iglesias o agrupaciones de 
 
 XI. Los demás sujetos obligados en los términos del Código.
 
+> <small>(REFORMADO, [N. DE E. REPUBLICADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 8.
 
 Constituyen infracciones de los partidos políticos a la Ley General de Partidos Políticos y al Código:
@@ -414,7 +440,9 @@ XVI. No anexar los estados financieros o cualquier otro elemento requerido por l
 
 XVII. Promover la imagen de una candidatura o de un Partido Político en propaganda electoral, distinto a los registrados ante el Instituto Electoral, sin que medie coalición o candidatura común, y cuya finalidad sea obtener un beneficio electoral;
 
-XVIII. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las instituciones, partidos políticos o a las personas;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
+
+XVIII. La difusión de campañas negativas de propaganda política o electoral que contenga expresiones que calumnien a las instituciones, partidos políticos o a las personas;
 
 > <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
@@ -3167,3 +3195,11 @@ Tercero.- Se derogan todas aquellas disposiciones que contravengan el contenido 
 Cuarto.- El Pleno del Tribunal Electoral de la Ciudad de México deberá emitir los lineamientos a que se refiere el artículo 101 Quáter, en los 90 días hábiles posteriores a la entrada en vigor del presente Decreto.
 
 Quinto.- El Pleno del Tribunal Electoral de la Ciudad de México deberá realizar las adecuaciones sin exceder sus presupuestos autorizados y cumpliendo con las metas y objetivos de sus programas operativos y de conformidad con el artículo 7 de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México; lo anterior bajo los principios de austeridad, generalidad, la sustentabilidad, honradez, proporcionalidad, equidad, efectividad, certidumbre, transparencia y rendición de cuentas.
+
+G.O. 2 DE JUNIO DE 2023.
+
+> <small>[N. DE E. TRASITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN II BIS DEL APARTADO C DEL ARTÍCULO 4, SE MODIFICA LA FRACCIÓN X DEL ARTÍCULO 251, SE MODIFICA LA FRACCIÓN XII DEL ARTÍCULO 273 Y SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 317, TODOS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, Y SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 1, 3 Y 8 DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO”.]</small>
+
+Primero. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
