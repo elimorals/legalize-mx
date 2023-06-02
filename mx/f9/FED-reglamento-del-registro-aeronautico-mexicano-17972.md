@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-registro-aeronautico-mexicano-17972"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-28"
-last_updated: "2021-10-19"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17972&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-11-22"
 
 REGLAMENTO DEL REGISTRO AERONAUTICO MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2023.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 28 de noviembre de 2000.
 
@@ -41,41 +41,83 @@ El presente ordenamiento tiene por objeto reglamentar la organización del Regis
 
 Para todo lo no previsto en el presente Reglamento, se aplicarán las disposiciones establecidas en el Código Civil Federal y en la Ley Federal de Procedimiento Administrativo.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 3.
 
-En adición a las definiciones establecidas en las leyes de Aviación Civil y de Aeropuertos y en sus respectivos reglamentos, para los efectos de este Reglamento se entenderá por:
+Para los efectos de este Reglamento, en adición a las definiciones establecidas en la Ley de Aviación Civil y en la Ley de Aeropuertos, se entiende por:
 
-I. Director: el Director del Registro Aeronáutico Mexicano;
+I. Agencia: la Agencia Federal de Aviación Civil;
 
-> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2021)</small>
+II. Folios: los documentos físicos o electrónicos que contendrán los datos de identificación, así como los asientos de los actos jurídicos o de los hechos jurídicos o el de ambos que se inscriban en el Registro observando las formalidades que establecen las leyes y el presente reglamento;
 
-I Bis. Folios: Son los documentos físicos o electrónicos, que contendrán los datos de identificación, así como los asientos de los actos jurídicos o de los hechos jurídicos o el de ambos, que se inscriban en el Registro, observando las formalidades que establecen las Leyes y el presente Reglamento;
+III. Ley: la Ley de Aviación Civil;
 
-II. Leyes: las Leyes de Aviación Civil y de Aeropuertos;
+IV. Marca Común: La marca asignada por la Organización de Aviación Civil Internacional a una aeronave perteneciente a un organismo dotado de personalidad jurídica propia y facultado para realizar operaciones aéreas conforme algún instrumento de derecho internacional;
 
-III. Registro: el Registro Aeronáutico Mexicano;
+V. Persona registradora: la persona servidora pública encargada de la función registral que tiene a su cargo examinar y calificar los documentos que se le presenten;
 
-IV. Secretaría: la Secretaría de Comunicaciones y Transportes, y
+VI. Persona titular del Registro: la persona designada como titular de la Dirección del Registro Aeronáutico Mexicano;
 
-V. Tratados: los definidos como tales en la fracción I del artículo 2 de la Ley Sobre la Celebración de Tratados.
+VII. Registro: el Registro Aeronáutico Mexicano;
+
+VIII. Secretaría: la Secretaría de Infraestructura, Comunicaciones y Transportes, y
+
+IX. Tratados: los definidos como tales en la fracción I del artículo 2 de la Ley Sobre la Celebración de Tratados.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+## Título Primero Bis. De los Principios Registrales
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 3 BIS.- La función registral se debe realizar con base en los principios registrales siguientes:
+
+I. Publicidad: Actividad registral que consiste en revelar la situación jurídica de los bienes y derechos registrados, a través de sus respectivos asientos y folios mediante la expedición de certificaciones y copias de las inscripciones realizadas;
+
+II. Inscripción: Asiento en folios de los actos que determinan la Ley y los reglamentos que de ésta derivan, y que sólo por esta circunstancia, surten efectos frente a terceros;
+
+III. Especialidad: Actividad mediante la cual el Registro realiza sus inscripciones precisando con exactitud los derechos, los bienes y las personas titulares de éstos;
+
+IV. Consentimiento: Expresión de la voluntad acreditada fehacientemente de quien aparece inscrito como titular registral de un folio, a efecto de que se modifique o cancele la inscripción que le beneficia;
+
+V. Tracto Sucesivo: Es la concatenación ininterrumpida de inscripciones sobre una misma unidad registral;
+
+VI. Rogación: Implica que la persona registradora no puede actuar de oficio sino a petición o a instancia de parte interesada, con excepción de aquellas actuaciones de oficio establecidas en la Ley de Aviación Civil, la Ley de Aeropuertos y los reglamentos que de éstas derivan;
+
+VII. Prelación: Preferencia para resolver solicitudes de trámites de inscripción sobre una aeronave, que se basará en el día, hora, minuto y segundo de su presentación;
+
+VIII. Legalidad registral: Es la función atribuida a la persona registradora para examinar los documentos que se presenten para su inscripción y determinar si los mismos son susceptibles de inscribirse;
+
+IX. Legitimación: Prevalencia de lo inscrito hasta en tanto no se acredite un mejor derecho;
+
+X. Fe pública registral: Presunción legal de que el derecho inscrito existe y pertenece a su titular en la forma expresada en la inscripción o anotación respectiva, y
+
+XI. Los demás principios registrales que se derivan de los preceptos del Código Civil Federal y que no están contemplados en las otras fracciones de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 3 TER.- La inscripción de los actos o contratos en el Registro tienen efectos declarativos ante terceros, por lo tanto, no convalida dichos actos o contratos que sean nulos con arreglo a las leyes.
 
 ## Título Segundo. De la Organización del Registro
 
-> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2021)</small>
-
-## Título Tercero. De las Inscripciones en el Registro
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 4.
 
-El Registro estará a cargo de la Agencia Federal de Aviación Civil de la Secretaría, la cual se auxiliará de una Dirección que, para el cumplimiento de sus funciones, tendrá su domicilio en la Ciudad de México.
+El Registro estará a cargo de la Agencia, la cual se auxiliará de la Dirección del Registro que, para el cumplimiento de sus funciones, tendrá su domicilio en la Ciudad de México.
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 5.
 
-El Director del Registro contará con los registradores necesarios y el personal administrativo de apoyo que requiera para el adecuado desempeño de sus funciones, así mismo, podrá auxiliarse de los comandantes de aeródromo.
+La persona titular del Registro contará con las personas registradoras necesarias y el personal administrativo de apoyo que requiera para el adecuado desempeño de sus funciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 6.
 
-Para ser Director se deberá acreditar lo siguiente:
+Para ser titular del Registro se debe acreditar lo siguiente:
 
 I. Ser ciudadano mexicano;
 
@@ -83,11 +125,15 @@ II. Poseer título de licenciado en derecho, registrado ante la autoridad educat
 
 III. Haber ejercido la profesión por lo menos durante dos años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 7.
 
-Para ser registrador se deberá acreditar lo siguiente:
+Para ser persona registradora se deberá acreditar lo siguiente:
 
-I. Ser ciudadano mexicano, y
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+I. Ser persona ciudadana mexicana, y
 
 II. Poseer título de licenciado en derecho, registrado ante la autoridad educativa competente.
 
@@ -95,9 +141,13 @@ II. Poseer título de licenciado en derecho, registrado ante la autoridad educat
 
 El personal del Registro tendrá las funciones siguientes:
 
-I. Corresponde al Director:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2023)</small>
 
-a) Coordinar las actividades del Registro;
+I. Corresponde a la persona titular del Registro:
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+a) Coordinar las actividades para mantener actualizado el Registro, respecto de cada una de las aeronaves matriculadas en el mismo.
 
 b) Fijar los criterios obligatorios para los servicios del Registro;
 
@@ -113,31 +163,47 @@ g) Ordenar el monto de los derechos por cubrir, de conformidad con lo establecid
 
 h) Ordenar, bajo su estricta vigilancia y supervisión, que se hagan los asientos en el folio correspondiente y autorizarlos con su firma;
 
-i) Realizar los avisos de expedición y cancelación de matrículas, de abandono de aeronaves y los demás contenidos en los Tratados en los que México sea parte, y
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2021)</small>
+i) Emitir los certificados de expedición y cancelación de matrícula, los avisos de abandono de aeronaves, así como cualquier comunicación en cumplimiento a los Tratados en los que el Estado mexicano sea parte;
 
-j) Las demás que le señale el Director General de la Agencia Federal de Aviación Civil, de conformidad con el Reglamento y otros ordenamientos aplicables, y
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 2 DE JUNIO DE 2023)</small>
 
-II. Corresponde a los registradores:
+j) Requerir, a las unidades administrativas competentes de la Agencia, información respecto de la colocación de las marcas de nacionalidad y matrícula en las aeronaves civiles mexicanas;
 
-a) Hacer las inscripciones, rectificaciones y cancelaciones que le ordene el Director;
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+k) Requerir, a las unidades administrativas competentes de la Agencia, la información que se emplea para la navegación internacional, así como también las autorizaciones, permisos, planes de vuelo, entre otros, que correspondan a las aeronaves civiles mexicanas y extranjeras, cuando realicen operaciones dentro del territorio nacional, y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 2 DE JUNIO DE 2023)</small>
+
+l) Las demás que le señale la persona titular de la Dirección General de la Agencia, de conformidad con las leyes de Aviación Civil y de Aeropuertos, sus respectivos reglamentos y disposiciones aplicables, y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2023)</small>
+
+II. Corresponde a las personas registradoras:
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+a) Elaborar las inscripciones, rectificaciones y cancelaciones que ordene la persona titular del Registro;
 
 b) Realizar el estudio integral de los documentos que le sean turnados para determinar la procedencia de su registro, y
 
 c) Señalar el monto de los derechos por cubrir, de conformidad con lo establecido en la Ley Federal de Derechos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 9.
 
-En auxilio de las labores del Registro, los comandantes de aeródromo deberán:
+En auxilio de las labores del Registro, las personas comandantes de aeropuerto efectuarán las notificaciones que le sean requeridas por el Registro relativas a las solicitudes de inscripción, modificación, cancelación y certificación de documentos que correspondan a su jurisdicción territorial en un plazo de diez días hábiles.
 
-a) Recibir las solicitudes de registro y de cancelación, los documentos que las deban acompañar, así como las de certificación de documentos, cuando éstas correspondan a asuntos de su jurisdicción territorial;
+a) (DEROGADO, D.O.F. 2 DE JUNIO DE 2023)
 
-b) Remitir al Registro las solicitudes de registro, de cancelación y de certificación de documentos que sean recibidas en las comandancias a su cargo, en un plazo de diez días hábiles;
+b) (DEROGADO, D.O.F. 2 DE JUNIO DE 2023)
 
-c) Efectuar las notificaciones que le sean requeridas por el Registro relativas a las solicitudes de registro, de cancelación y de certificación de documentos que hayan sido tramitadas por conducto de la comandancia a su cargo o que correspondan a asuntos de su jurisdicción territorial en un plazo de diez días hábiles, y
+c) (DEROGADO, D.O.F. 2 DE JUNIO DE 2023)
 
-d) Llevar un archivo actualizado de todas las solicitudes de registro, de cancelación y de certificación de documentos que sean recibidas en las comandancias a su cargo, así como de las resoluciones que el Registro emita respecto de las mismas.
+d) (DEROGADO, D.O.F. 2 DE JUNIO DE 2023)
 
 ###### ARTÍCULO 10.
 
@@ -157,15 +223,25 @@ En los Folios que conforman la Sección de Aviación se inscribirán los documen
 
 I. Los relativos a la adquisición, transmisión, modificación, gravamen o extinción de la propiedad de aeronaves civiles mexicanas y de sus motores, así como la posesión y los demás derechos reales sobre éstos. También los relativos al arrendamiento de aeronaves y motores mexicanos y extranjeros;
 
-II. Los relativos a la adquisición, transmisión, modificación, gravamen o extinción de la propiedad de aeronaves civiles pilotadas a distancia, así como la posesión y los demás derechos reales sobre estas aeronaves;
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+II. Los relativos a la adquisición, transmisión, modificación, gravamen o extinción de la propiedad de los Sistemas de Aeronave Pilotada a Distancia, así como la posesión y los demás derechos reales sobre este sistema;
 
 III. Los certificados de matrícula y de aeronavegabilidad;
 
 IV. Las resoluciones o acuerdos emitidos por la autoridad aeronáutica o por cualquier otra autoridad competente, relacionada con las aeronaves;
 
-V. Los relativos a las concesiones y permisos en materia de servicio de transporte aéreo, así como los actos y resoluciones legales que los modifiquen o terminen, y
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2023)</small>
 
-VI. Las pólizas de seguro que deben contratar los concesionarios y permisionarios conforme a la Ley de Aviación Civil, así como sus endosos.
+V. Los relativos a las concesiones y permisos en materia de servicio de transporte aéreo, así como los actos y resoluciones legales que los modifiquen o terminen;
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+VI. Las pólizas de seguro que deben contratar los concesionarios y permisionarios conforme a la Ley de Aviación Civil, así como sus endosos, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+VII. La fecha, hora y lugar de lanzamiento, así como el tipo de globo y el nombre del explotador; sólo cuando se trata de globos libres no tripulados.
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2021)</small>
 
@@ -193,61 +269,165 @@ I. Fecha y hora de presentación, así como el número progresivo que correspond
 
 II. Naturaleza del documento que se presenta;
 
-III. Nombre y firma del registrador que realice la inscripción del documento;
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+III. Nombre y firma de la persona registradora que realice la inscripción del documento;
 
 IV. Calificación del documento y, en su caso, motivos de la suspensión o de la negación de su trámite, y
 
 V. Observaciones especiales.
 
-## Título Cuarto. De la Rectificación, Cancelación y Reposición de Inscripciones
+## Título Tercero. De las Inscripciones en el Registro
 
-### Capítulo Primero. De la Solicitud de Registro
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+### Capítulo Primero. De los Trámites del Registro
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 14.
 
-Los interesados deberán presentar solicitud por escrito, en la cual se precise la información y se acompañe de la documentación que a continuación se indica:
+Las personas interesadas en realizar ante el Registro cualquiera de los trámites señalados en el presente reglamento deberán presentar solicitud por escrito, en la cual se precise la información y se adjunte la documental que a continuación se indica:
 
-I. En el caso de persona moral, la denominación o razón social y la escritura constitutiva con sus modificaciones, inscrita en el Registro Público de Comercio. Si es persona física el nombre completo del solicitante e identificación oficial con fotografía en copia simple;
+I. En caso de ser persona física, el nombre completo de la solicitante, así como original y copia de su identificación oficial vigente;
 
-II. En su caso, poder del representante legal otorgado ante fedatario público, así como la designación de las personas autorizadas para oír y recibir toda clase de notificaciones;
+II. En caso de ser persona moral, la denominación o razón social, el nombre completo de la persona que promueva en su representación, precisando los datos del instrumento notarial con el cual acredita su personalidad jurídica o, según sea el caso, señalar el expediente administrativo formado por la Agencia en el que se encuentra reconocida su personalidad jurídica, así como el original y copia de la identificación oficial vigente;
 
-III. El domicilio en territorio nacional del solicitante para oír y recibir notificaciones y documentos;
+III. El original o copia certificada, ante la persona fedataria pública, del acta constitutiva de la persona moral que promueve, debidamente inscrita ante el Registro Público del Comercio. Cuando se trate de un ente público, copia simple de la ley, acuerdo o decreto de creación;
 
-IV. Comprobante de pago de los derechos correspondientes por el estudio de la solicitud y de la documentación que la acompañe;
+IV. Designación de las personas autorizadas para oír y recibir toda clase de notificaciones;
 
-V. Relación de los documentos que acompañan a la solicitud;
+V. Domicilio en territorio nacional del solicitante, para oír y recibir notificaciones y documentos, así como correo electrónico;
 
-VI. La fecha de la solicitud y la firma del interesado o del representante legal;
+VI. Pago de los derechos correspondientes de conformidad con la Ley Federal de Derechos, de ser el caso;
 
-VII. En su caso, los certificados de matrícula y de aeronavegabilidad;
+VII. Relación de los documentos que acompañan a la solicitud, y
 
-VIII. En su caso, los actos, documentos o contratos a que se refiere la fracción I del artículo 11 y las fracciones I y V del artículo 12, y
+VIII. Fecha de la solicitud y firma autógrafa de la persona interesada o de representante legal.
 
-IX. Tratándose de la fracción IV del artículo 12, la descripción de las ayudas a la navegación aérea y su ubicación.
+La presentación de la solicitud podrá hacerse en forma presencial o a través de los medios electrónicos autorizados por la Agencia.
 
-La presentación de la solicitud podrá hacerse personalmente o a través de representante legal, por conducto de la correspondiente comandancia de aeródromo o por correo certificado con acuse de recibo o bien, mediante servicio de mensajería. Los interesados, en caso de requerirlo, deberán cubrir previamente los costos de envío de la respuesta si es por mensajería.
+Los documentos expedidos en el extranjero, además de las formalidades legales aplicables, cuando se encuentren redactados en idioma distinto al español, deben presentarse traducidos por perito traductor que cuente con título en la materia, debidamente registrado en términos de la legislación correspondiente.
 
-Los documentos expedidos en el extranjero, además de las formalidades legales aplicables, cuando se hallen redactados en idioma distinto al español, deberán presentarse traducidos por perito traductor autorizado por el Tribunal Superior de Justicia del Distrito Federal o de las entidades federativas.
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 14 BIS.- La asignación provisional de marcas de nacionalidad y de matrícula será procedente de conformidad con los supuestos establecidos en el Reglamento de la Ley de Aviación Civil y se otorgará hasta por un periodo máximo de ciento ochenta días naturales para las aeronaves de servicio público y de Estado distintas a las militares, y de hasta noventa días naturales para el servicio aéreo a terceros y para operaciones de aeronaves para uso particular; plazo que podrá prorrogarse al acreditar ante la Agencia que se encuentra en trámite de alguno de los requisitos necesarios para la asignación de marcas de nacionalidad y matrícula definitiva, o cuando se trate de aeronaves aseguradas, embargadas o entregadas en depósito por alguna dependencia del Gobierno Federal u órgano autónomo.
+
+La matrícula provisional quedará sin efecto alguno cuando, dentro del plazo señalado desaparezcan las razones que dieron origen a su otorgamiento o, en su caso, cuando sea solicitada su cancelación por el operador de la aeronave.
+
+Las personas interesadas en tramitar la asignación de marcas de nacionalidad y matrícula provisionales deben presentar, adicional a lo señalado en el artículo 14 del presente Reglamento, la documentación siguiente:
+
+I. Notificación de la cancelación de matrícula o la confirmación de no registro de aeronave emitida directamente por la autoridad de aviación civil extranjera, de conformidad con lo establecido en el Reglamento de la Ley de Aviación Civil;
+
+II. Copia simple del título de propiedad o posesión, de conformidad con lo establecido en el Código Civil Federal;
+
+III. Copia simple del documento que acredite la legal posesión de la aeronave asegurada o embargada por el Gobierno Federal, de ser el caso, y
+
+IV. Convalidación del certificado de tipo de la aeronave, sólo para la asignación provisional señalada en las fracciones I, II, III, IV y VI del artículo 99 del Reglamento de la Ley de Aviación Civil.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 14 TER.- La asignación de marcas de nacionalidad y de matrícula definitiva se realizará de conformidad con lo establecido en la Ley de Aviación Civil y el Reglamento de la Ley de Aviación Civil.
+
+La matrícula definitiva estará vigente mientras no haya sido cancelada en aplicación de alguna de las causales establecidas en el presente Reglamento.
+
+Las personas interesadas en tramitar la asignación de marcas de nacionalidad y de matrícula definitiva deben presentar, adicional a lo señalado en el artículo 14 del presente Reglamento, la documentación siguiente:
+
+I. Notificación de la cancelación de matrícula o la confirmación de no registro de aeronave emitida directamente por la autoridad de aviación civil extranjera, de conformidad con lo establecido en el Reglamento de la Ley de Aviación Civil;
+
+II. Copia simple del documento con el que acredite el servicio que se pretende prestar, que contenga la base de operaciones autorizada, de conformidad con lo establecido en el Reglamento de la Ley de Aviación Civil;
+
+III. Original o copia certificada ante la persona fedataria pública del título de propiedad o posesión de la aeronave de conformidad con lo establecido en el Código Civil Federal;
+
+IV. Original o copia certificada ante la persona fedataria pública de los actos jurídicos a inscribir, así como la ratificación de las partes involucradas, en cumplimiento a lo establecido en el Código Civil Federal;
+
+V. Original o copia certificada ante la persona fedataria pública del pedimento de importación temporal o definitivo, de conformidad con lo establecido en la Ley Aduanera;
+
+VI. Convalidación del Certificado de Tipo de la aeronave, de conformidad con lo establecido en el Reglamento de la Ley de Aviación Civil y las disposiciones técnico-administrativas correspondientes, y
+
+VII. Autorización para la celebración de hipoteca o gravamen, de conformidad con lo establecido en el Reglamento de la Ley de Aviación Civil, cuando sea el caso.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 14 QUATER.- Las personas interesadas en inscribir los actos jurídicos mediante los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, posesión y demás derechos reales sobre las aeronaves civiles mexicanas debe presentar, adicional a lo establecido en el artículo 14 del presente Reglamento la documentación siguiente:
+
+I. Original o copia certificada del título de propiedad o posesión, emitida por la persona fedataria pública de conformidad con lo establecido en el Código Civil Federal;
+
+II. Original o copia certificada de los actos jurídicos a inscribir, así como la ratificación de las partes involucradas, emitida por la persona fedataria pública de conformidad con lo establecido en el Código Civil Federal;
+
+III. Original o copia certificada del pedimento de importación temporal o definitivo, emitida por la persona fedataria pública de conformidad con lo establecido en la Ley Aduanera, sólo para aeronaves que se encuentran en el país procedentes del extranjero;
+
+IV. Original del certificado de matrícula o, en su caso, acta levantada ante Ministerio Público Federal por robo o extravío, que contenga los datos necesarios de identificación de la aeronave;
+
+V. Autorización para la celebración de hipoteca o gravamen, de conformidad con lo establecido en el Reglamento de la Ley de Aviación Civil, de ser el caso, y
+
+VI. Copia simple del documento con el que acredite el tipo de servicio que se pretende prestar, que contenga la base de operaciones autorizada, de conformidad con lo establecido en el Reglamento de la Ley de Aviación Civil, sólo en los casos en los que se prestará algún servicio con la aeronave .
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 14 QUINQUIES.- Las personas interesadas en tramitar el folio de registro de un Sistema de Aeronave Pilotada a Distancia de acuerdo a lo señalado en el Reglamento de la Ley de Aviación Civil deben presentar, adicional a lo señalado en el artículo 14 del presente Reglamento, la documentación siguiente:
+
+I. El formato Apéndice “K” Normativo: Registro de RPAS por el operador de RPAS impreso, firmado de forma autógrafa por el propietario, o representante legal de la persona operadora del Sistema de Aeronave Pilotada a Distancia, atendiendo a lo establecido en la Ley de Aviación Civil, el Reglamento de la Ley de Aviación Civil, la Norma Oficial Mexicana en la materia y en las disposiciones técnico-administrativas correspondientes;
+
+II. Título de propiedad o de posesión, de conformidad con lo establecido en el Código Civil Federal, y
+
+III. En caso de tratarse de personas extranjeras, documento oficial mediante el cual se acredite la legal estancia en el país en términos de la Ley de Migración.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 14 SEXIES.- Las personas interesadas en tramitar el registro de motores deben presentar, adicional a lo señalado en el artículo 14 del presente Reglamento, el original o copia certificada del título de propiedad o posesión, emitida por la persona fedataria pública, de conformidad con lo establecido en el Código Civil Federal.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 14 SEPTIES.- Las personas interesadas en tramitar la inscripción de actos jurídicos mediante los cuales se adquiera, transmita, modifique, grave o extinga la propiedad o posesión sobre aeronaves civiles extranjeras que operan dentro del territorio nacional en términos de la Ley, además de lo señalado en el artículo 14 del presente Reglamento, deberán anexar original o copia certificada del título de propiedad o posesión emitida por la persona fedataria pública, de conformidad con lo establecido en el Código Civil Federal.
+
+En el caso de aeronaves con marca común, conforme a los instrumentos internacionales suscritos por el Estado mexicano, el Registro asentará la matrícula asignada por la Organización de Aviación Civil Internacional.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 14 OCTIES.- Para la expedición de copias certificadas y compulsas, las personas interesadas deberán presentar lo señalado en el artículo 14 del presente Reglamento.
+
+La Agencia podrá emitir certificaciones únicamente cuando se trate de documentos que obren en el acervo documental del Registro.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 14 NONIES.- Las personas interesadas en tramitar la reposición del certificado de matrícula deben presentar, adicional a lo señalado en el artículo 14 del presente Reglamento, el acta de robo o extravío levantada ante el Ministerio Público Federal, que contenga los datos necesarios de identificación de la aeronave.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 14 DECIES.- Las personas interesadas en tramitar la cancelación de marcas de nacionalidad y matrícula a petición de parte deben anexar, adicional a lo señalado en el artículo 14 del presente Reglamento, los documentos siguientes:
+
+I. Copia de la baja o modificación al equipo de vuelo del permiso correspondiente, expedida por la Agencia, de conformidad con el Reglamento de la Ley de Aviación Civil;
+
+II. Original del certificado de matrícula o, en su caso, acta de robo o extravío levantada ante el Ministerio Público Federal, que contenga los datos necesarios de identificación de la aeronave, y
+
+III. Los documentos originales o copias certificadas que contengan la terminación o, en su caso, la cancelación de los gravámenes o inscripciones que obren sobre la aeronave.
 
 ### Capítulo Segundo. De las Inscripciones
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 15.
 
-La solicitud se turnará al registrador correspondiente quien, previo pago de derechos, revisará y procederá a la calificación integral de los documentos. La resolución deberá emitirse y notificarse dentro de un plazo que no excederá de diez días hábiles siguientes al día en que se hubiere presentado la solicitud de registro debidamente integrada.
+La solicitud se turnará a la persona registradora correspondiente, quien revisará y procederá a la calificación integral de los documentos. La resolución deberá emitirse y notificarse dentro de un plazo de diez días hábiles siguientes al día en que se hubiere presentado la solicitud de registro debidamente integrada.
 
-Al emitirse la resolución, el registrador correspondiente notificará al interesado el monto de los derechos por la inscripción del documento de que se trate. El pago de derechos debe realizarlo el interesado dentro de un plazo de cinco días hábiles siguientes al día en que se lo notifiquen y entregar copia del recibo al Registro.
+Al emitirse la resolución, la persona registradora correspondiente notificará a la persona interesada el monto de los derechos por la inscripción que corresponda. La persona interesada deberá exhibir al Registro original y entregar copia del comprobante de pago de derechos dentro de un plazo de cinco días hábiles siguientes al día en que se le notifique la resolución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 16.
 
-En caso de que la solicitud no cumpla con lo dispuesto en el artículo 14 de este Reglamento, el Director, en un plazo de cinco días hábiles contados a partir de la fecha de recepción de la solicitud, procederá a notificar al interesado, por escrito y por una sola vez, la suspensión del trámite en los casos de omisiones o defectos subsanables y, en su caso, la no procedencia del mismo.
+En caso de que la solicitud no cumpla con lo dispuesto en el artículo 14 de este Reglamento, la persona titular del Registro, en un plazo de cinco días hábiles contados a partir de la fecha de recepción de la solicitud, procederá a notificar a la persona interesada, por escrito y por una sola vez, la suspensión del trámite en los casos de omisiones o defectos subsanables y, en su caso, la no procedencia del mismo.
 
 El interesado contará con quince días hábiles a partir de la notificación para subsanar las irregularidades o recurrir la resolución de denegación, en términos de la Ley Federal de Procedimiento Administrativo.
 
 Si en el plazo mencionado el interesado no cumple con los requisitos exigidos ni interpone el recurso de revisión, el documento respectivo se pondrá a su disposición; los documentos que no sean retirados en el plazo de treinta días hábiles serán remitidos al archivo general del Registro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 17.
 
-Cuando se trate de omisiones subsanables consistentes en la falta de certificados u otras constancias que, debiendo ser expedidas por alguna autoridad, no lo sean con la debida oportunidad, y siempre que se acredite de manera fehaciente que se presentó la solicitud y se cubrieron los derechos correspondientes, el Director hará la anotación preventiva del documento de que se trate, con expresión de las observaciones del caso.
+Cuando se trate de omisiones subsanables consistentes en la falta de certificados u otras constancias que, debiendo ser expedidas por alguna autoridad, no lo sean con la debida oportunidad, y siempre que se acredite de manera fehaciente que se presentó la solicitud y se cubrieron los derechos correspondientes, la persona titular del Registro hará la anotación preventiva del documento de que se trate, con expresión de las observaciones del caso.
 
 Subsanada la omisión, se inscribirá el documento en la parte correspondiente del folio, sin perjuicio de la prelación adquirida.
 
@@ -261,19 +441,25 @@ II. A los particulares, personalmente o por correo certificado o por mensajería
 
 a) Se requiera subsanar una deficiencia del documento;
 
-b) El Director del Registro estime que se trata de un caso urgente o lo considere necesario, o
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+b) La persona titular del Registro estime que se trata de un caso urgente o lo considera necesario, o
 
 c) Se trate de una resolución definitiva.
 
 Fuera de los casos señalados en la fracción anterior, las notificaciones se harán por lista autorizada, la que se fijará en lugar visible en las oficinas del Registro dentro de las veinticuatro horas siguientes a la hora en que se haya dictado la resolución.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 19.
 
-El Director no calificará la legalidad de la orden judicial o administrativa que decrete la inscripción de un asiento. Si a su juicio concurren circunstancias por las que legalmente no deba hacerse, procederá a su registro y dará cuenta a la autoridad ordenadora.
+La persona titular del Registro no calificará la legalidad de la orden judicial o administrativa que decrete la inscripción de un asiento. Si a su juicio concurren circunstancias por las que legalmente no deba hacerse, procederá a su registro y dará cuenta a la autoridad ordenadora.
+
+> <small>(REFORMADO PÁRRAFO PRIMERO, D.O.F. 2 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 20.
 
-Los documentos registrados, una vez cotejados, deben sellarse y devolverse al solicitante con una nota al calce, sin tachaduras o enmiendas, que expresamente consignen la fecha y datos del folio de registro, los datos correspondientes al recibo de pago de derechos que cause el registro y la firma del Director.
+Los documentos registrados, una vez cotejados, deben sellarse y devolverse al solicitante con una nota al calce, sin tachaduras o enmiendas, que expresamente consignen la fecha y datos del folio de registro, los datos correspondientes al recibo de pago de derechos que cause el registro y la firma de la persona titular del Registro.
 
 Cuando un documento implique más de un registro se deben pagar los derechos que corresponda por cada uno de ellos.
 
@@ -281,9 +467,11 @@ Cuando un documento implique más de un registro se deben pagar los derechos que
 
 Los documentos registrados producirán sus efectos contra terceros desde el día y la hora en que se realice la inscripción o la anotación preventiva en el Registro.
 
-Es responsabilidad del Director y los registradores cuidar que los datos que se asienten en el Registro correspondan a los que constan en los documentos que se inscriben, así como con los antecedentes que se citen en los mismos y los que obren en la Secretaría.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
 
-## Título Quinto. De la Publicidad y Certificaciones
+Es responsabilidad de la persona titular del Registro y de las personas registradoras cuidar que los datos que se asienten en el Registro correspondan a los que constan en los documentos que se inscriben, así como con los antecedentes que se citen en los mismos y los que obren en la Secretaría.
+
+## Título Cuarto. De la Rectificación, Cancelación y Reposición de Inscripciones
 
 ###### ARTÍCULO 22.
 
@@ -293,9 +481,11 @@ La rectificación de los asientos hechos en los folios sólo procederá cuando e
 
 Se entenderá que existe error material cuando, sin que ello cambie el sentido general de la inscripción, se escriban unas palabras por otras, se omita la expresión de alguna circunstancia, se equivoquen los nombres o los números al copiarlos del título, o se practique un asiento distinto del que corresponda.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 24.
 
-Se entenderá que existe error de concepto cuando en la inscripción se altere el contenido del documento de que se trate porque el registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del documento o del acto en él consignado o por cualquier otra circunstancia de naturaleza análoga.
+Se entenderá que existe error de concepto cuando en la inscripción se altere el contenido del documento de que se trate porque la persona registradora se hubiese formado un juicio equivocado del mismo, por una errónea calificación del documento o del acto en él consignado o por cualquier otra circunstancia de naturaleza análoga.
 
 ###### ARTÍCULO 25.
 
@@ -303,9 +493,11 @@ Tanto los errores materiales como los de concepto podrán ser rectificados a pet
 
 La rectificación de oficio sólo procederá en el caso de errores notorios y manifiestos, y se notificará personalmente a los interesados.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 26.
 
-La rectificación se realizará mediante un nuevo asiento, que deberá ser autorizado con la firma del registrador, y producirá efectos a partir de la fecha en que se expidió el documento que fue rectificado.
+La rectificación se realizará mediante un nuevo asiento, que deberá ser autorizado con la firma de la persona registradora, y producirá efectos a partir de la fecha en que se expidió el documento que fue rectificado.
 
 ###### ARTÍCULO 27.
 
@@ -335,9 +527,11 @@ IV. Haya realizado la declaratoria de la pérdida de la aeronave, o
 
 V. Haya realizado la declaratoria de abandono de la aeronave.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 31.
 
-La cancelación de registros por orden de autoridad competente debe ser notificada oficialmente al Registro; en este caso, si a juicio del Director concurren circunstancias por las que legalmente no debe hacerse, dará cuenta de ello a la autoridad ordenadora. Si, a pesar de ello, ésta insiste, se procederá conforme a lo ordenado y se tomará razón del hecho en el asiento correspondiente.
+La cancelación de registros por orden de autoridad competente debe ser notificada oficialmente al Registro. En este caso, si a juicio de la persona titular del Registro concurren circunstancias por las que legalmente no debe hacerse, dará cuenta de ello a la autoridad ordenadora. Si, a pesar de ello, ésta insiste, se procederá conforme a lo ordenado y se tomará razón del hecho en el asiento correspondiente.
 
 ###### ARTÍCULO 32.
 
@@ -355,13 +549,21 @@ II. A petición de parte interesada en un plazo de cinco días hábiles o por or
 
 III. Por su conversión e inscripción definitiva.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 34.
 
-Todos los acuerdos de cancelación deberán ser autorizados por el Director.
+Todos los acuerdos de cancelación deberán ser autorizados por la persona titular del Registro.
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 35.
 
-Con la finalidad de estar en posibilidad de realizar la reposición correspondiente del folio, el Director vigilará que los registradores realicen un respaldo en medios magnéticos de todas las inscripciones y anotaciones.
+Con la finalidad de estar en posibilidad de realizar la reposición correspondiente del folio, la persona titular del Registro vigilará que las personas registradoras realicen un respaldo en medios magnéticos de todas las inscripciones y anotaciones.
+
+Asimismo, requerirá la documentación que sea necesaria para contar con el soporte documental de las actuaciones.
+
+## Título Quinto. De la Publicidad y Certificaciones
 
 ###### ARTÍCULO 36.
 
@@ -371,13 +573,19 @@ La información contenida en los libros o folios del Registro, es de carácter p
 
 Los particulares que consulten los libros o folios del Registro, podrán tomar de ellos las notas que estimen convenientes y en su caso, solicitar las certificaciones respectivas.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 38.
 
-El Director expedirá, previa solicitud, certificaciones de los contenidos de los folios, así como de la existencia de asientos de cualquier clase.
+La persona titular del Registro expedirá, previa solicitud, certificaciones de los contenidos de los folios, así como de la existencia de asientos de cualquier clase.
 
 ###### ARTÍCULO 39.
 
 Las certificaciones pueden ser literales o concretarse a determinados contenidos de los asientos existentes en los folios o libros del Registro. También se expedirán certificaciones en el sentido de existir o no asientos de especie alguna o de especie determinada.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2023)</small>
+
+Estas solicitudes deberán dar cumplimiento a lo establecido en el artículo 14 del presente reglamento.
 
 ###### ARTÍCULO 40.
 
@@ -412,3 +620,15 @@ D.O.F. 19 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado a la Secretaría de Comunicaciones y Transportes, para el ejercicio fiscal correspondiente, por lo que no requerirá recursos adicionales para tales efectos y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal ni subsecuentes.
+
+D.O.F. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL REGISTRO AERONÁUTICO MEXICANO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+TERCERO. Los trámites iniciados con anterioridad a la entrada en vigor del presente decreto, se llevarán a cabo de conformidad con la normatividad vigente al momento de su presentación hasta su conclusión.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Infraestructura, Comunicaciones y Transportes para el ejercicio fiscal correspondiente, por lo que no requerirá recursos adicionales para tales efectos ni se incrementará su presupuesto regularizable para el presente ejercicio fiscal ni subsecuentes.
