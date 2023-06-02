@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-92540"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-22"
-last_updated: "2021-10-07"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de febrero de 2013.
 
@@ -1213,9 +1213,17 @@ Así mismo la infraestructura hidráulica que conforma el drenaje, el alcantaril
 
 Los prestadores de los servicios contarán, en cada caso, con manuales para la operación de los sistemas de suministro de agua potable, drenaje, alcantarillado, líneas moradas y plantas de tratamiento de aguas residuales debidamente actualizados. Asimismo, tendrán un catastro de redes y un inventario de la infraestructura hidráulica de los sistemas.
 
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 53.
 
-Las autoridades del agua impulsarán la construcción de la infraestructura hidráulica que permita el aprovechamiento del agua pluvial para la recarga de acuíferos y fomentarán la construcción y conservación de instalaciones alternas que sustituyan al drenaje cuando éste no pueda construirse.
+Las autoridades del agua impulsarán la construcción de la infraestructura hidráulica que permita el aprovechamiento del agua pluvial para la conservación de reservas hídricas y la recarga de acuíferos, y fomentarán la construcción y conservación de instalaciones alternas que sustituyan al drenaje cuando éste no pueda construirse.
+
+> <small>(ADICIONADO, G.G. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 53 Bis.
+
+Las Dependencias y Organismos Auxiliares estatales y municipales, de acuerdo con su naturaleza jurídica y según corresponda, introducirán sistemas de naturación y/o sistemas necesarios para la captación y aprovechamiento de agua pluvial en los inmuebles destinados a un servicio público que tengan a su cargo, siempre y cuando, las características físicas de los mismos sean aptas para ello y permitan su instalación, operación y mantenimiento.
 
 #### SECCIÓN PRIMERA. DE LOS BIENES INHERENTES
 
@@ -1567,13 +1575,23 @@ Cuando exista disponibilidad de aguas tratadas, se promoverá su uso no consunti
 
 Las autoridades del agua promoverán las medidas y acciones necesarias para proteger los recursos hídricos del Estado, en cantidad y calidad, y coadyuvarán con las autoridades competentes en la vigilancia y aplicación de las disposiciones legales en materia de equilibrio ecológico y protección al ambiente, de prevención y control de la contaminación del agua y de los ecosistemas relacionados.
 
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 91.
 
-Las autoridades del agua impulsarán las acciones que sean necesarias para mantener y, en su caso, restablecer el equilibrio entre disponibilidad y aprovechamiento de los recursos hídricos, considerando los diversos usos y usuarios, y favorecer el manejo sustentable en el proceso de la gestión integral del agua.
+Las autoridades del agua impulsarán las acciones que sean necesarias para mantener y, en su caso, restablecer el equilibrio entre la disponibilidad y el aprovechamiento de los recursos hídricos, tales como la instalación de sistemas captadores y de naturación del agua, para favorecer el manejo sustentable en el proceso de la gestión integral del agua, así como los diversos usos y usuarios.
 
 ###### Artículo 92.
 
 Los desarrolladores de nuevos conjuntos habitacionales, industriales y de servicios están obligados a construir instalaciones para la recolección de agua pluvial y, al tratamiento de aguas residuales para su conducción en los términos de la legislación aplicable, para ser aprovechada en el riego de áreas verdes o aquellas actividades que no requieran la utilización de agua potable.
+
+> <small>(ADICIONADO, G.G. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 92 Bis.
+
+La Comisión creará un Fideicomiso cuyos recursos serán destinados a los sistemas de captación de agua pluvial de conformidad con la presente Ley, el cual tendrá por objeto destinar recursos a los organismos operadores o, en su caso, a los municipios, según corresponda, a efecto de implementar acciones para el aprovechamiento de agua pluvial, la recarga de mantos acuíferos y la infiltración de agua pluvial al subsuelo.
+
+La ejecución de los recursos del Fideicomiso se sujetará a las reglas de operación que emita la Comisión del Agua del Estado de México, en coordinación con la Secretaría de Finanzas, de conformidad con la presente Ley y las disposiciones jurídicas aplicables.
 
 ###### Artículo 93.
 
@@ -3018,3 +3036,17 @@ G.G. 7 DE OCTUBRE DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 175.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 53 y 91; SE ADICIONAN LOS ARTÍCULOS 53 BIS Y 92 BIS DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, SE REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I Y LAS FRACCIONES III Y VI DEL ARTÍCULO 18.39 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Para cumplir con el contenido del presente Decreto las Dependencias y Organismos Auxiliares estatales y municipales, de acuerdo con su naturaleza jurídica y según corresponda, realizarán las adecuaciones pertinentes a sus anteproyectos de presupuestos, a partir del siguiente ejercicio fiscal.
+
+CUARTO. La Comisión del Agua del Estado de México elaborará y emitirá, en coordinación con la Secretaría de Finanzas, las reglas de operación para la aplicación de los recursos asignados al Fideicomiso a que se refiere el presente Decreto.
+
+QUINTO. La operación y funcionamiento del Fideicomiso al que hace referencia el presente Decreto quedará sujeta a la disponibilidad presupuestal, y comenzará su funcionamiento a partir del Ejercicio Fiscal del Año 2024.
