@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2023-04-14"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -71,45 +71,49 @@ IV. Debida diligencia: la obligación de las personas servidoras públicas de pr
 
 V. Derechos humanos de las mujeres: los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención sobre los Derechos de las Personas con Discapacidad, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem do Pará) y demás instrumentos y acuerdos internacionales en la materia en los que el Estado Mexicano sea parte;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+VI. Empoderamiento de las Mujeres: El proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, inclusión, autodeterminación y autonomía, el que se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+
 > <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
 
-VI. Enfoque diferencial. Aquel que tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por su género, edad, etnia, discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto sean pertenecientes a grupos sociales o culturales específicos. Lo anterior con la finalidad de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
+VII. Enfoque diferencial. Aquel que tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por su género, edad, etnia, discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto sean pertenecientes a grupos sociales o culturales específicos. Lo anterior con la finalidad de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-VII. IMUG: el Instituto para las Mujeres Guanajuatenses;
+VIII. IMUG: el Instituto para las Mujeres Guanajuatenses;
 
 > <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
 
-VIII. Interculturalidad. el enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí, pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
+IX. Interculturalidad. el enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí, pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
 
 > <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
 
-IX. Interseccionalidad. La herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan (sic) en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
+X. Interseccionalidad. La herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan (sic) en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
 
 > <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
 
-X. Misoginia: las conductas de odio hacia las mujeres, las adolescentes y las niñas, que se manifiestan en actos violentos y crueles contra ellas por el hecho de serlo;
+XI. Misoginia: las conductas de odio hacia las mujeres, las adolescentes y las niñas, que se manifiestan en actos violentos y crueles contra ellas por el hecho de serlo;
 
 > <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
 
-XI. Muertes evitables: el conjunto de muertes que no deberían haber ocurrido en presencia de servicios de salud eficaces, con exámenes rutinarios para la detección temprana y tratamientos adecuados;
+XII. Muertes evitables: el conjunto de muertes que no deberían haber ocurrido en presencia de servicios de salud eficaces, con exámenes rutinarios para la detección temprana y tratamientos adecuados;
 
-XII. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad, la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades, para acceder al desarrollo social y la representación en los ámbitos de toma de decisiones;
+XIII. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad, la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades, para acceder al desarrollo social y la representación en los ámbitos de toma de decisiones;
 
-XIII. Programa Estatal: el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de Guanajuato;
+XIV. Programa Estatal: el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de Guanajuato;
 
-XIV. Refugio: los albergues o establecimientos constituidos para la atención y protección de las víctimas y sus hijos menores e incapaces;
+XV. Refugio: los albergues o establecimientos constituidos para la atención y protección de las víctimas y sus hijos menores e incapaces;
 
-XV. Sistema Estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+XVI. Sistema Estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XVI. Sistema Nacional: el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+XVII. Sistema Nacional: el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XVII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia, así como sus familiares o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida en su contra; y
+XVIII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia, así como sus familiares o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida en su contra; y
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-XVIII. Violencia contra las mujeres: acción u omisión por cualquier medio que les cause a las mujeres daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+XIX. Violencia contra las mujeres: acción u omisión por cualquier medio que les cause a las mujeres daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
 
 Principios rectores
 
@@ -805,11 +809,15 @@ XII. Promover y vigilar que la atención ofrecida en las diversas instituciones 
 
 XIII. Asesorar a los municipios para crear políticas públicas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como mecanismos de evaluación; y
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
 
-XIV. Impulsar mecanismos de prevención, promoción, difusión y respeto de los derechos político-electorales de las mujeres, y
+XIV. Impulsar mecanismos de prevención, promoción, difusión y respeto de los derechos político-electorales de las mujeres;
 
-XV. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+XV. Proponer a las autoridades competentes mecanismos que promuevan el empoderamiento; y
+
+XVI. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2020)</small>
 
@@ -1682,5 +1690,11 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente al de 
 P.O. 14 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 190, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES LEGALES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 200, POR EL QUE SE ADICIONA LA FRACCIÓN VI, RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 2 Y UNA FRACCIÓN XV RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 24 A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
