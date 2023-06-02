@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-fiscalia-general-del-estado-de-quintana-1381
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-09-13"
-last_updated: "2022-06-08"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 13 de septiembre de 2019.
 
@@ -57,9 +57,11 @@ La Fiscalía General del Estado de Quintana Roo, tendrá como fines la investiga
 
 En el ejercicio de sus atribuciones, las personas servidoras públicas de la Fiscalía General del Estado de Quintana Roo, deberán promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. Asimismo, rigen su actuar los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, imparcialidad, lealtad, confidencialidad, transparencia, responsabilidad, paridad, igualdad y demás que se dispongan en la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+
 ###### Artículo 4.
 
-La Fiscalía General del Estado de Quintana Roo en el ámbito de su competencia, es integrante del Sistema Nacional de Seguridad Pública, del Consejo Estatal de Seguridad Pública y del Sistema Nacional y Estatal Anticorrupción, a través de la Fiscalía Especializada en Combate a la Corrupción del Estado, debiendo cumplir con sus fines y objetivos, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y demás disposiciones aplicables.
+La Fiscalía General del Estado de Quintana Roo en el ámbito de su competencia, es integrante del Sistema Nacional de Seguridad Pública, del Consejo Estatal de Seguridad Ciudadana y del Sistema Nacional y Estatal Anticorrupción, a través de la Fiscalía Especializada en Combate a la Corrupción del Estado, debiendo cumplir con sus fines y objetivos, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y demás disposiciones aplicables.
 
 ###### Artículo 5.
 
@@ -88,6 +90,10 @@ X. Personal directivo: los servidores públicos que realizan la función de mand
 XI. Fiscalía: Órgano encargado de investigar los delitos a través de unidades o coordinaciones a su cargo, así como actuar en todas las demás etapas del procedimiento penal;
 
 XII. Fiscal: A quien ejerza las funciones señaladas para el Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+XII Bis. Instituciones policiales de investigación: A las policías encargadas de la investigación científica de los delitos de la Secretaría de Seguridad Ciudadana del Estado de Quintana Roo, quienes actuarán, en coadyuvancia, así como bajo el mando y la conducción del Ministerio Público en la investigación de los delitos y tendrán las obligaciones y funciones establecidas en los artículos 132 del Código Nacional de Procedimientos Penales y 77 de la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad Ciudadana del Estado de Quintana Roo y esta Ley;
 
 XIII. Perito: Auxiliar del Fiscal del Ministerio Público, a quien le corresponden actividades del procesamiento del lugar de intervención, así como los indicios o elementos materiales probatorios, realiza el traslado generalmente, solicita y analiza los indicios o elementos probatorios y emite el informe, requerimiento o dictamen correspondiente;
 
@@ -153,9 +159,17 @@ III. Recibir las denuncias y querellas que se presenten en forma oral, por escri
 
 IV. Iniciar la investigación correspondiente cuando así proceda y, en su caso, realizar u ordenar la recolección de indicios y medios de prueba necesarios para sustentar las determinaciones ministeriales y resoluciones judiciales que procedan, así como para determinar el daño causado por el delito y su cuantificación para los efectos de su reparación;
 
-V. Ordenar y dirigir las actividades de la Policía de Investigación en la investigación y persecución de los delitos, así como de las demás instituciones policiales cuando intervengan, vigilando que en todo caso se cumplan con los requisitos de legalidad de los actos de investigación que se lleven a cabo y determinando los hechos concretos, personas, domicilios y demás lugares u objetos que deban ser investigados;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
 
-VI. Dirigir las actividades de los peritos de la Fiscalía General en la investigación y persecución de los delitos, así como de cualquier otro personal profesional o técnico que en los mismos términos brinde auxilio o colaboración a la Fiscalía General;
+V. Ordenar y dirigir las actividades de la Policía de Investigación y de las Instituciones policiales de investigación en la investigación y persecución de los delitos, vigilando que en todo caso se cumplan con los requisitos de legalidad de los actos de investigación que se lleven a cabo y determinando los hechos concretos, personas, domicilios y demás lugares u objetos que deban ser investigados;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+V Bis. Ejercer el mando y conducción de las Instituciones policiales de investigación, cuando realicen actividades de investigación, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, así como llevar a cabo el trámite expedito correspondiente a las investigaciones que le sean turnadas por dichas instituciones;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+VI. Dirigir las actividades de los peritos de la Fiscalía General en la investigación y persecución de los delitos, así como de cualquier otro personal profesional o técnico que en los mismos términos brinde auxilio, colaboración o coadyuvancia con la Fiscalía General;
 
 VII. Dictar y supervisar en su caso, las medidas y providencias necesarias para impedir que los indicios o evidencias se pierdan, destruyan o alteren, así como cerciorarse de que se han seguido las disposiciones aplicables para su levantamiento, preservación y procesamiento;
 
@@ -233,15 +247,23 @@ XXXVI. Las demás que le confieran las disposiciones legales aplicables.
 
 B. EN EJERCICIO DE LA PROCURACIÓN DE JUSTICIA:
 
-I. Coordinarse con las demás Instituciones de Seguridad Pública de la Federación, los Estados y los Municipios, en el ámbito de su competencia y en los términos de la Ley General del Sistema Nacional de Seguridad Pública para:
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+I. Coordinarse con las demás Instituciones de Seguridad Pública y de Seguridad Ciudadana de la Federación, los Estados y los Municipios, en el ámbito de su competencia y en los términos de la Ley General del Sistema Nacional de Seguridad Pública para:
 
 a. Integrar el Sistema Nacional de Seguridad Pública y cumplir con sus fines y objetivos;
 
-b. La formulación de políticas integrales, sistemáticas, continuas y evaluables, así como programas y estrategias, en materia de seguridad pública;
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
 
-c. Ejecutar, dar seguimiento y evaluar las políticas, estrategias y acciones de seguridad pública, a través de las instancias previstas en la Ley General del Sistema Nacional de Seguridad Pública;
+b. La formulación de políticas integrales, sistemáticas, continuas y evaluables, así como programas y estrategias, en materia de seguridad ciudadana;
 
-d. Participar en la elaboración, ejecución y evaluación de los programas de Seguridad Pública en términos de las disposiciones aplicables;
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+c. Ejecutar, dar seguimiento y evaluar las políticas, estrategias y acciones de seguridad ciudadana, a través de las instancias previstas en la Ley General del Sistema Nacional de Seguridad Pública;
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+d. Participar en la elaboración, ejecución y evaluación de los programas de seguridad ciudadana en términos de las disposiciones aplicables;
 
 e. Desarrollar las actividades específicas que se le asignen, como integrante del Sistema Nacional de Seguridad Pública;
 
@@ -249,23 +271,33 @@ f. Regular los procedimientos de selección, ingreso, formación, actualización
 
 g. Regular los sistemas disciplinarios, así como de reconocimientos, estímulos y recompensas para el personal de la Fiscalía General;
 
-h. Realizar acciones y operativos conjuntos con las Instituciones de Seguridad Pública de los tres órdenes de gobierno;
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+h. Realizar acciones y operativos conjuntos con las Instituciones de Seguridad Pública y Seguridad Ciudadana de los tres órdenes de gobierno;
 
 i. Coadyuvar en la política estatal de prevención del delito;
 
 j. Determinar la participación de la comunidad y de instituciones académicas para coadyuvar con los procesos de evaluación de las políticas de prevención del delito, y
 
-k. Realizar las demás acciones que sean necesarias para incrementar la eficiencia y eficacia en el cumplimiento de los fines de la Seguridad Pública en el Estado.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+k. Realizar las demás acciones que sean necesarias para incrementar la eficiencia y eficacia en el cumplimiento de los fines de la Seguridad Ciudadana en el Estado.
 
 II. Realizar estudios, formular y ejecutar lineamientos de política criminal y promover reformas que tengan por objeto hacer más eficiente la procuración de justicia;
 
-III. Administrar, suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que diariamente se genere en materia de seguridad pública dentro del territorio del Estado, a través de las bases de datos que con tales fines se encuentren constituidas. Por información en materia de seguridad pública, se entiende la que hace referencia el artículo 5, fracción II de la Ley General del Sistema Nacional de Seguridad Pública;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
 
-IV. Atender la regulación en materia de certificación y registro de los miembros del servicio profesional de carrera, en términos de esta ley, y lo que resulte aplicable de la Ley de Seguridad Pública del Estado de Quintana Roo y de la Ley General del Sistema Nacional de Seguridad Pública, así como de los ordenamientos reglamentarios correspondientes;
+III. Administrar, suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que diariamente se genere en materia de seguridad ciudadana dentro del territorio del Estado, a través de las bases de datos que con tales fines se encuentren constituidas, conforme a lo establecido en el artículo 5 fracción II de la Ley General del Sistema Nacional de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+IV. Atender la regulación en materia de certificación y registro de los miembros del servicio profesional de carrera, en términos de esta ley y lo que resulte aplicable de la Ley de Seguridad Ciudadana del Estado de Quintana Roo y de la Ley General del Sistema Nacional de Seguridad Pública, así como de los ordenamientos reglamentarios correspondientes;
 
 V. Intervenir en la entrega de los imputados, acusados y sentenciados, así como practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad en cualquier otra entidad federativa o del gobierno federal que los requiera, en los términos de los convenios de colaboración que al efecto celebren las instituciones de cada entidad federativa;
 
-VI. Instrumentar y aplicar mecanismos de coordinación con las instituciones de seguridad pública de los tres órdenes de gobierno, para la prevención e investigación de los delitos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+VI. Instrumentar y aplicar mecanismos de coordinación con las instituciones de seguridad pública y de seguridad ciudadana de los tres órdenes de gobierno, para la prevención e investigación de los delitos;
 
 VII. Administrar y ejecutar con autonomía los fondos de la Fiscalía General, así como realizar las funciones que deriven de las disposiciones aplicables, respecto de la constitución y administración de los fondos que le competan;
 
@@ -315,7 +347,9 @@ XIX. Prestar al Poder Judicial el auxilio necesario para el debido ejercicio de 
 
 XX. Instruir el procedimiento de responsabilidad que corresponda para el personal de la Fiscalía General, por incumplimiento de los requisitos de permanencia o de sus obligaciones en el ejercicio de sus funciones, de conformidad con la normatividad aplicable;
 
-XXI. Proporcionar al Consejo Nacional de Seguridad Pública y demás instituciones competentes, los informes y datos que sean solicitados para el registro del personal de la Fiscalía General, armamento y equipo relacionados con la función policial;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+XXI. Proporcionar al Consejo Nacional de Seguridad Pública, a la Secretaría de Seguridad Ciudadana del Estado de Quintana Roo y demás instituciones competentes, los informes y datos que sean solicitados para el registro del personal de la Fiscalía General, armamento y equipo relacionados con la función policial;
 
 XXII. Vigilar y procurar el respeto de las leyes del personal que integre la Fiscalía General;
 
@@ -323,13 +357,17 @@ XXIII. Establecer, conducir, supervisar y difundir, con base en los términos co
 
 XXIV. Coordinar su actuación con las autoridades federales en la persecución de los delitos de competencia de aquéllas;
 
-XXV. Participar en acciones coordinadas con las dependencias competentes para auxiliar a la población en casos de emergencia o desastre; así como apoyar las acciones que se realicen en materia de Seguridad Pública;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+XXV. Participar en acciones coordinadas con las dependencias competentes para auxiliar a la población en casos de emergencia o desastre; así como apoyar las acciones que se realicen en materia de Seguridad Ciudadana;
 
 XXVI. Instrumentar y actualizar la información estadística criminal y la relacionada con las materias propias de la institución del Ministerio Público, así como operar y optimizar el sistema de información correspondiente;
 
 XXVII. Formular programas de capacitación para el personal de la Fiscalía General, con el objetivo de elevar la calidad en la prestación de los servicios de procuración de justicia, así como dentro de los procesos judiciales que le competan, teniendo como objetivo la profesionalización y sensibilización del personal;
 
-XXVIII. Participar como integrante del Consejo Estatal de Seguridad Pública, en la coordinación, regulación y evaluación del Sistema Estatal de Seguridad Pública, procurando que en su instrumentación, aplicación y supervisión, participen las diferentes unidades de su estructura orgánica;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+XXVIII. Participar como integrante del Consejo Estatal de Seguridad Ciudadana, en la coordinación, regulación y evaluación del Sistema Estatal de Seguridad Ciudadana, procurando que, en su instrumentación, aplicación y supervisión, participen las diferentes unidades de su estructura orgánica;
 
 XXIX. Concertar y promover con la Federación los programas, acciones y recursos que se emprendan en el Estado para desarrollar la institución del Ministerio Público de la Entidad; así como ejercer, las atribuciones que en el ámbito de su competencia establezcan los convenios suscritos entre el Fiscal General y la administración pública federal, y promover, instrumentar y supervisar aquellos que se celebren con los sectores público, social y privado;
 
@@ -473,7 +511,9 @@ XXVII. Elaborar y presentar a la Legislatura del Estado el anteproyecto de presu
 
 XXVIII. Presentar ante los Poderes Ejecutivo y Legislativo del Estado un informe anual de actividades de la Fiscalía General;
 
-XXIX. Desarrollar las actividades específicas que se le asignen como integrante del Sistema Nacional y el Consejo Estatal de Seguridad Pública, para el cumplimiento de sus fines;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+XXIX. Desarrollar las actividades específicas que se le asignen como integrante del Sistema Nacional y el Consejo Estatal de Seguridad Ciudadana, para el cumplimiento de sus fines;
 
 XXX. Aprobar el Plan de Persecución Penal, por el que se establezcan las directrices principales de la política criminal de la Fiscalía General;
 
@@ -519,7 +559,9 @@ VI. Emitir los acuerdos, circulares, instructivos, bases y demás disposiciones 
 
 VII. Emitir los acuerdos en materia de recompensas;
 
-VIII. Participar en el Sistema Nacional y en el Consejo Estatal de Seguridad Pública de conformidad con la ley de la materia y demás disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JUNIO DE 2023)</small>
+
+VIII. Participar en el Sistema Nacional y en el Consejo Estatal de Seguridad Ciudadana de conformidad con la ley de la materia y demás disposiciones aplicables.
 
 En el ejercicio de esta atribución el Fiscal General deberá:
 
@@ -527,7 +569,9 @@ a. Participar en las instancias de coordinación que correspondan en el ámbito 
 
 b. Ejercer las facultades que le confiere la Ley por cuanto hace a la Conferencia Nacional de Procuración de Justicia.
 
-c. Participar en los demás Órganos del Sistema Nacional y en el Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+c. Participar en los demás Órganos del Sistema Nacional y en el Consejo Estatal de Seguridad Ciudadana;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2021)</small>
 
@@ -923,7 +967,9 @@ Esta Vice Fiscalía desarrollará las facultades conferidas al Ministerio Públi
 
 La Vice Fiscalía de Investigación Territorial tendrá las siguientes atribuciones:
 
-I. Investigar y perseguir por conducto de sus unidades adscritas, todos los hechos posiblemente constitutivos de delito con el auxilio de la Policía de Investigación, los Servicios Periciales y demás cuerpos de seguridad pública;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+I. Investigar y perseguir por conducto de sus unidades adscritas, todos los hechos posiblemente constitutivos de delito con el auxilio y coadyuvancia de la Policía de Investigación, los Servicios Periciales, de las Instituciones Policiales de Investigación y demás cuerpos de seguridad ciudadana;
 
 II. Instruir la remisión de asuntos que sean competencia de la Vice Fiscalía de Investigación Especializada para su debida atención y prosecución;
 
@@ -1169,7 +1215,9 @@ XVI. Promover y organizar la participación ciudadana en todos los núcleos de p
 
 XVII. Brindar asesoría técnica a las diversas instancias de la administración pública, ayuntamientos, organizaciones no gubernamentales, instituciones académicas y asociaciones civiles, en materia de programas de prevención del delito;
 
-XVIII. Diseñar un sistema de coordinación interdisciplinario de información entre las instituciones encargadas de la prevención del delito a las autoridades de seguridad pública en el Estado, que contribuya a generar información técnica, táctica y estratégica sobre el fenómeno delictivo y sus formas de combate y prevención;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+XVIII. Diseñar un sistema de coordinación interdisciplinario de información entre las instituciones encargadas de la prevención del delito a las autoridades de seguridad ciudadana en el Estado, que contribuya a generar información técnica, táctica y estratégica sobre el fenómeno delictivo y sus formas de combate y prevención;
 
 XIX. Promover la prevención del delito y los servicios que ofrece la Fiscalía General, involucrando en esta tarea al sector educativo y de salud, sindicatos de trabajadores, agrupaciones empresariales y de comerciantes, sociedades de padres de familia, organizaciones no gubernamentales y sociedad civil organizada, y
 
@@ -1447,7 +1495,9 @@ VI. Dar seguimiento en calidad de enlace de la Fiscalía General, ante el Fondo 
 
 VII. Autorizar mediante su firma autógrafa el pago de las diversas adquisiciones, arrendamientos y servicios, previo trámite que conforme a la Ley correspondiente se realicen para el debido funcionamiento de la Fiscalía General;
 
-VIII. Ser representante del Fiscal General ante la Comisión de Presupuesto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+VIII. Ser representante de la persona Titular de la Fiscalía General ante la Comisión de Presupuesto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana;
 
 IX. Verificar las solicitudes presentadas ante el Comité del Fondo para el Mejoramiento de la Procuración de Justicia, y darle seguimiento a las solicitudes aprobadas para la realización de los procesos de acuerdo a las modalidades correspondientes, bajo la normatividad vigente para tales procesos;
 
@@ -1701,7 +1751,9 @@ V. Determinar el archivo temporal de la investigación, así como ejercer la fac
 
 VI. Determinar bajo su más estricta responsabilidad y conforme a las disposiciones normativas que emita la Fiscalía General sobre la procedencia o no de abstenerse de ejercer la acción penal, con base en los criterios de oportunidad, que le sean propuestos por los Fiscales del Ministerio Público a su cargo;
 
-VII. Conducir las investigaciones a su cargo; y coordinar a la Policía de Investigación y los Servicios Periciales;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+VII. Conducir las investigaciones a su cargo; y coordinar a la Policía de Investigación, a las Instituciones Policiales de Investigación y los Servicios Periciales;
 
 VIII. Ordenar los actos de investigación pertinentes y útiles para demostrar, o no, la existencia del delito y la responsabilidad de quien lo cometió o participó en su comisión;
 
@@ -2023,7 +2075,9 @@ La Fiscalía General desarrollará el sistema de profesionalización en el que d
 
 El personal administrativo a partir del nivel de enlace de la Fiscalía General, con las excepciones previstas en los ordenamientos aplicables, estará sujeto a las evaluaciones de control de confianza, así como a los criterios del desempeño y de competencias profesionales establecidos en la norma administrativa aplicable, observando lo previsto en la Ley Federal del Trabajo.
 
-El personal sustantivo se sujetará a las disposiciones del Servicio Profesional de Carrera de la presente Ley, en observancia a la Ley General del Sistema Nacional de Seguridad Pública, y en relación con lo no previsto en las referidas leyes, se aplicará supletoriamente la Ley de Seguridad Pública del Estado de Quintana Roo, así como lo relativo a las leyes especiales aplicables a la función sustantiva del personal ministerial, pericial y policial.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+El personal sustantivo se sujetará a las disposiciones del Servicio Profesional de Carrera de la presente Ley, en observancia a la Ley General del Sistema Nacional de Seguridad Pública, y en relación con lo no previsto en las referidas leyes, se aplicará supletoriamente la Ley de Seguridad Ciudadana del Estado de Quintana Roo, así como lo relativo a las leyes especiales aplicables a la función sustantiva del personal ministerial, pericial y policial.
 
 ###### Artículo 80.
 
@@ -2465,7 +2519,9 @@ III. Prestar auxilio y protección a los sujetos en situación de riesgo;
 
 IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
 
-V. Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la Seguridad Pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+V. Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la Seguridad Ciudadana, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
 
 VI. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
 
@@ -2477,9 +2533,13 @@ IX. Velar por la vida e integridad física de las personas detenidas;
 
 X. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de indicios, de acuerdo con las funciones legalmente establecidas;
 
-XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por la Fiscalía General e instituciones de Seguridad Pública;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
 
-XII. Participar en operativos y mecanismos de coordinación con otras instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por la Fiscalía General e Instituciones de Seguridad Ciudadana;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+XII. Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Ciudadana, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
 XIII. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
 
@@ -2880,5 +2940,13 @@ P.O. 8 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 226 POR EL QUE SE REFORMA: LA FRACCIÓN X DEL ARTÍCULO 31 Y EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO; SE REFORMA: LA FRACCIÓN VI DEL ARTÍCULO 140 Y LA FRACCIÓN VIII DEL ARTÍCULO 223 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO; SE REFORMA: LA FRACCIÓN XX DEL ARTÍCULO 195 DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO; SE REFORMAN: LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, Y SE REFORMAN: LAS FRACCIONES XI Y XII DEL ARTÍCULO 22 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 65 Y SE DEROGA: EL TERCER PÁRRAFO DEL ARTÍCULO 65, TODOS DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se reforman el párrafo sexto del artículo 94 y el párrafo tercero del apartado B del artículo 96 y se adicionan los párrafos cuarto y quinto al artículo 51 BIS, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de comparecencia de los titulares de los órganos públicos autónomos a la Legislatura del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 075 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, EN MATERIA DE FORTALECIMIENTO DE LA INVESTIGACIÓN DE LOS DELITOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
