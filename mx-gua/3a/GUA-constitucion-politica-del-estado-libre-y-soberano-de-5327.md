@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2023-05-30"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -79,13 +79,13 @@ Son pueblos indígenas, aquellos que descienden de poblaciones que habitaban en 
 
 Son comunidades integrantes de un pueblo indígena, las que formen una unidad social, económica y cultural, asentadas en el estado y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
 
-Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y autonomía, en los términos y condiciones que determine la Ley de la materia, tomando en cuenta los principios generales del artículo 2° de la Constitución Federal y criterios etnolingüísticos y de asentamientos físicos.
+Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y autonomía, en los términos y condiciones que determine la Ley de la materia; así como de los pueblos y comunidades afromexicanas cualquiera que sea su autodeterminación, como parte de la composición pluricultural del estado, tomando en cuenta los principios generales del artículo 2° de la Constitución Federal y criterios etnolingüísticos y de asentamientos físicos.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
 
-La ley protegerá la organización y desarrollo de la familia, dentro de la cual tendrá preferencia la atención del menor y del anciano.
+La ley protegerá la organización y desarrollo de la familia, dentro de la cual tendrá preferencia la atención del menor y de la persona adulta mayor.
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
 
@@ -110,6 +110,10 @@ Toda persona tiene derecho a disfrutar de vivienda digna y decorosa. La Ley esta
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+Toda persona tiene derecho a disfrutar del acceso al internet.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -333,7 +337,9 @@ La entrega de inculpados, procesados o sentenciados, así como el aseguramiento 
 
 Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el inculpado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el inculpado lo cometió o participó en su comisión.
 
-El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del inculpado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el inculpado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de homicidio doloso, violación, secuestro, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra del libre desarrollo de la personalidad y de la salud.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del inculpado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el inculpado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de abuso o violencia sexual contra menores, homicidio doloso, feminicidio, violación, secuestro, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra del libre desarrollo de la personalidad y de la salud.
 
 El monto y la forma de la caución que se fije como medida cautelar a cargo del inculpado, serán asequibles. En circunstancias que la ley determine, la autoridad judicial podrá modificar el monto de la caución. Para resolver sobre la forma y el monto de la caución, el juez deberá tomar en cuenta la naturaleza, modalidades y circunstancias del delito; las características del inculpado y la posibilidad de cumplimiento de las obligaciones procesales a su cargo; los daños y perjuicios causados al ofendido; así como la sanción pecuniaria que, en su caso, pueda imponerse al inculpado.
 
@@ -427,9 +433,15 @@ El ejercicio de la acción penal ante los tribunales corresponde al Ministerio P
 
 El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
 
-La seguridad pública es una función a cargo del Estado y los municipios, que comprende la prevención de los delitos, la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por los Estados Unidos Mexicanos y esta Constitución.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+La seguridad pública es una función a cargo del Estado y los municipios, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social. Comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por los Estados Unidos Mexicanos y esta Constitución.
 
 Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales del Estado y de los municipios deberán coordinarse entre sí y con las instituciones policiales federales para cumplir los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública, que estará sujeto a las bases mínimas establecidas en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+La formación y el desempeño de los integrantes de las instituciones policiales se regirán por una doctrina policial fundada en el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, al imperio de la ley, al mando superior y en lo conducente a la perspectiva de género.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
@@ -921,9 +933,9 @@ La Ciudad de Guanajuato es la Capital del Estado y la Residencia de sus Poderes;
 
 El Poder Público del Estado se divide para su ejercicio, en Legislativo, Ejecutivo y Judicial.
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
 
-Los poderes del Estado deberán regirse bajo los principios de Parlamento abierto, Gobierno abierto y Justicia abierta, respectivamente, mismos que estarán orientados a la transparencia, la participación ciudadana y la rendición de cuentas en los términos de sus respectivas leyes orgánicas.
+Los poderes del Estado deberán regirse bajo los principios de Parlamento abierto, Gobierno abierto, Gobierno digital y Justicia abierta, respectivamente, mismos que estarán orientados a la transparencia, la participación ciudadana, la rendición de cuentas y el uso de tecnologías de la información y comunicaciones en los términos de sus respectivas leyes orgánicas.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2517,7 +2529,7 @@ Para ser Presidente Municipal, Síndico o Regidor, se requiere:
 
 I.- Ser ciudadano guanajuatense en ejercicio de sus derechos;
 
-II.- Tener, por lo menos, veintiún años cumplidos al día de la elección; y,
+II.- (DEROGADA, P.O. 2 DE JUNIO DE 2023)
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
@@ -2757,9 +2769,9 @@ Salvo en el caso de que el plebiscito sea solicitado por el ayuntamiento, el pro
 
 Si el resultado del plebiscito o referéndum es en el sentido de desaprobar el acto o decisión del Ayuntamiento, éste emitirá el decreto o acuerdo revocatorio que proceda en un plazo no mayor de treinta días.
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
 
-Los Ayuntamientos se regirán por el principio de Gobierno Abierto, en términos de su Ley Orgánica.
+Los Ayuntamientos se regirán por los principios de Gobierno abierto y Gobierno digital, en términos de su Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -4254,3 +4266,29 @@ P.O. 30 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 201, POR EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 78 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 195, POR EL QUE SE REFORMA EL PÁRRAFO NOVENO DEL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo único. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 196, POR EL QUE SE REFORMA EL PÁRRAFO DÉCIMO DEL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 197, POR EL QUE SE REFORMAN LOS ARTÍCULO 9, SEGUNDO PÁRRAFO; 36 SEGUNDO PÁRRAFO Y 117, OCTAVO PÁRRAFO; SE ADICIONA UN PÁRRAFO DÉCIMO SEXTO AL ARTÍCULO 1 Y SE DEROGA EL ARTÍCULO 110, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los poderes públicos del estado y los municipios deberán destinar, de manera progresiva y de conformidad con la disponibilidad presupuestaria, los recursos que permitan cumplir con las disposiciones del presente decreto referidas a los artículos 1, 36 y 117.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 199, POR EL CUAL SE REFORMA EL PÁRRAFO CUARTO Y SE ADICIONA UN PÁRRAFO SEXTO AL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
