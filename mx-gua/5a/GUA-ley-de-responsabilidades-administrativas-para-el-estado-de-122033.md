@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-administrativas-para-el-estado-de-1220
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-20"
-last_updated: "2017-09-06"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
 
 Ley publicada en la Cuarta Parte al Número 98 del Periódico Oficial del Estado de Guanajuato, el martes 20 de junio de 2017.
 
@@ -562,6 +560,12 @@ Será responsable de encubrimiento el servidor público que cuando en el ejercic
 ###### Artículo 63.
 
 Cometerá desacato el servidor público que, tratándose de requerimientos o resoluciones de autoridades fiscalizadoras, de control interno, judiciales, electorales o en materia de defensa de los derechos humanos o cualquier otra competente, proporcione información falsa, así como no dé respuesta alguna, retrase deliberadamente y sin justificación la entrega de la información, a pesar de que le hayan sido impuestas medidas de apremio conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 63
+
+1. Cometerá nepotismo el servidor público que, valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente, designe, nombre o intervenga para que se contrate como personal de confianza, de estructura, de base o por honorarios en el ente público en que ejerza sus funciones, a personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato.
 
 ###### Artículo 64.
 
@@ -1804,3 +1808,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 GUSTAVO RODRÍGUEZ JUNQUERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 198, POR EL QUE SE ADICIONA EL ARTÍCULO 63-1 A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
