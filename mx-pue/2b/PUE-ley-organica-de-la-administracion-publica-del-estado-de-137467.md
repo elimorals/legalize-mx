@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2022-10-21"
+last_updated: "2023-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -915,7 +915,9 @@ X. Formular y promover las acciones necesarias de coordinación y concertación 
 
 XI. Proponer, fomentar y apoyar la realización de obras de infraestructura industrial, minera, artesanal, comercial y de servicios en el estado;
 
-XII. Asesorar técnicamente a las personas físicas y morales que lo soliciten en el establecimiento de nuevas empresas, industrias, unidades mineras, talleres artesanales, comercios y empresas de servicios, informando sobre las ventajas que el estado ofrece para la inversión nacional y extranjera, apoyándolas en sus trámites administrativos y gestiones financieras;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+XII. Asesorar técnicamente a las personas físicas y morales que lo soliciten en el establecimiento de nuevas empresas, industrias, unidades mineras, talleres artesanales, comercios y empresas de servicios, informando sobre las ventajas que el estado ofrece para la inversión nacional y extranjera, apoyándolas en sus trámites administrativos y gestiones financieras, así como capacitar, en materia de educación financiera, crediticia e inversión;
 
 XIII. Incentivar la disponibilidad de créditos y microcréditos;
 
@@ -2154,6 +2156,14 @@ NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA, LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 37 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA.”]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
