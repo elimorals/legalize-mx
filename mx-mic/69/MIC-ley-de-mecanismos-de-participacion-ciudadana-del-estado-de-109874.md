@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-mecanismos-de-participacion-ciudadana-del-estado-de-1098
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-08"
-last_updated: "2019-12-23"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE MECANISMOS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 8 de septiembre de 2015.
 
@@ -631,9 +631,17 @@ No podrán integrar observatorio ciudadano:
 
 I. Los que hayan desempeñado cargo de dirigencia nacional, estatal o municipal en algún partido político; durante los últimos tres años;
 
-II. Los que hayan sido candidatos a cargo de elección popular en el último proceso electoral; y,
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
 
-III. Los que sean o hayan sido servidores públicos, hasta un año antes de que deseen participar.
+II. Los que hayan sido candidatos a cargo de elección popular en el último proceso electoral;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+III. Quienes sean o hayan sido servidores públicos de mando superior, hasta un año antes del que deseen participar; y,
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+IV. Los servidores públicos de cualquier nivel que deseen participar dentro de la institución o en la dependencia en la que laboran.
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 2016)</small>
 
@@ -664,6 +672,14 @@ Se podrá acreditar un Observatorio Ciudadano por cada uno de los órganos del E
 Aún sin mediar convocatoria por parte de dichos órganos del Estado, los ciudadanos podrán solicitar al Instituto Electoral de Michoacán, la conformación de un observatorio al órgano del Estado de su interés.
 
 Ninguna persona podrá integrar más de un Observatorio Ciudadano al mismo tiempo.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+Los órganos del Estado que cuenten con algún mecanismo de participación ciudadana con funciones similares al contemplado por el presente artículo, deberán informar al Instituto Electoral de Michoacán, quien deberá verificar que el mecanismo sea autónomo, democrático, plural y sus integrantes cumplan con los requisitos previstos en este capítulo.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+En caso de que el Instituto Electoral de Michoacán valide el mecanismo de participación ciudadana como observatorio ciudadano, su renovación, organización, funcionamiento, atribuciones y decisiones que adopten en el ejercicio de sus atribuciones será conforme a su normativa respectiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2016)</small>
 
@@ -1044,3 +1060,9 @@ Notifíquese el presente Decreto al titular del Poder Ejecutivo del Estado para 
 ###### ARTÍCULO TERCERO.
 
 Notifíquese el presente Decreto al Instituto Electoral del Estado de Michoacán, el cual tendrá un plazo máximo de 90 días para reformar el Reglamento de Mecanismos de Participación Ciudadana del Instituto Electoral del Estado de Michoacán, conforme al mismo.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 398 POR EL QUE "SE REFORMAN LAS FRACCIONES II Y III, SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 50; Y, SE ADICIONAN LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 53 DE LA LEY DE MECANISMOS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
