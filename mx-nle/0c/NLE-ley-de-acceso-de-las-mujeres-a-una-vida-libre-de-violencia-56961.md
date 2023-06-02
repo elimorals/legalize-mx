@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2022-10-21"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -1575,6 +1575,10 @@ En los casos en que persista algún riesgo para la integridad física de las ví
 
 El Estado y los Municipios se coordinarán con los sectores social y privado para impulsar la creación de refugios para la atención a las víctimas de violencia.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+Los Municipios buscarán realizar las acciones necesarias para contar en su territorio cuando menos con un refugio de atención a víctimas para lo cual podrán llevar a cabo los convenios pertinentes para su materialización.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 JUNIO DE 2020)</small>
 
 ###### Artículo 49.
@@ -2072,3 +2076,9 @@ P.O. 21 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 244. SE REFORMA LA FRACCIÓN XIII Y XIV DEL ARTÍCULO 36; SE ADICIONA UN ARTÍCULO 14 BIS; Y UNA FRACCIÓN XV AL ARTÍCULO 36; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 393. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 48 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
