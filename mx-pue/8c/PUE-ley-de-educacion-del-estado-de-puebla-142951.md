@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-142951"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-18"
-last_updated: "2023-04-11"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
 
 Ley publicada en la Segunda Sección del Estado de Puebla, el lunes 18 de mayo de 2020.
 
@@ -275,7 +275,9 @@ III. Inculcar el enfoque de derechos humanos y de igualdad sustantiva, y promove
 
 IV. Fomentar el amor a la Patria, el aprecio por sus culturas, el conocimiento de su historia y el compromiso con los valores, símbolos patrios, las instituciones nacionales, estatales y municipales;
 
-V. Formar a las y los educandos en la cultura de la paz, el respeto, la tolerancia, los valores democráticos que favorezcan el diálogo constructivo, la solidaridad y la búsqueda de acuerdos que permitan la solución no violenta de conflictos y la convivencia en un marco de respeto a las diferencias;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+V. Formar a las y los educandos en la cultura de la paz, el respeto, la tolerancia, los valores democráticos que favorezcan el diálogo constructivo, la solidaridad y la búsqueda de acuerdos que permitan la solución no violenta de conflictos y la convivencia en un marco de respeto a las diferencias, para lo cual promoverán la cultura de la paz, privilegiando la mediación, la conciliación y los procesos restaurativos, en los casos que proceda.
 
 VI. Propiciar actitudes solidarias en el ámbito internacional, en la independencia y en la justicia para fortalecer el ejercicio de los derechos de todas las personas, el cumplimiento de sus obligaciones y el respeto entre las naciones;
 
@@ -1153,6 +1155,10 @@ En la impartición de educación para menores de dieciocho años, la Secretaría
 
 Los docentes y el personal que labora en los planteles de educación deberán estar capacitados por parte de las autoridades educativas para tomar las medidas que aseguren la protección, el cuidado de las y los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+En caso de presentarse un conflicto entre los integrantes de la comunidad educativa, los directivos del plantel promoverán la cultura de la paz, privilegiando la mediación, la conciliación y los procesos restaurativos, en los casos que proceda.
+
 En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de las y los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
 Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia, tutoras o tutores, las autoridades escolares de las escuelas públicas y privadas de educación obligatoria informarán a la Secretaría, la cual emitirá una Alerta Temprana y será remitida a las autoridades competentes para la protección de niñas, niños y adolescentes para los efectos correspondientes.
@@ -1175,7 +1181,9 @@ V. Solicitar a la Comisión Nacional para la Mejora Continua de la Educación es
 
 VI. Celebrar convenios de cooperación, coordinación y concertación con los sectores públicos, privados y sociales, para promover los derechos de las niñas, niños, adolescentes y jóvenes, y el fomento de la cultura de la paz, resolución no violenta de conflictos, fortalecimiento de la cohesión comunitaria y convivencia armónica dentro de las escuelas;
 
-VII. Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencia en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+VII. Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencia en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales, promoviendo la cultura de la paz, privilegiando la mediación, la conciliación y los procesos restaurativos, en los casos que proceda;
 
 VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social, y
 
@@ -2051,7 +2059,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 16 DE MARZO DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN INICIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA, Y DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN INICIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA, Y DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2076,6 +2084,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 11 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 13, LA FRACCIÓN VII DEL ARTÍCULO 91, Y ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 90, RECORRIÉNDOSE LOS SUBSECUENTES, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
