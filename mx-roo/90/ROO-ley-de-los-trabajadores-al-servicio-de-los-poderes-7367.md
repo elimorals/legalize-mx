@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "2021-12-08"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -404,6 +404,44 @@ QUINQUIES.- Las licencias de maternidad y de paternidad se conceden independient
 ###### ARTICULO 35
 
 SEXIES.- La mujer trabajadora tendrá derecho de una semana de descanso con el pago de salario íntegro en los casos de interrupción del embarazo por aborto natural espontáneo o clínico, mientras que el hombre trabajador tendrá derecho a dos días de descanso con el pago de salario íntegro si su esposa o concubina se encontrase en los supuestos mencionados.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 35
+
+Sépties. Las personas trabajadoras gozarán, al menos dos veces al año, de permiso con goce integro de salario para someterse a la realización de exámenes médicos de prevención y detección del cáncer, o de cualquier otra enfermedad crónica degenerativa, a disposición por parte de las instituciones de salud públicas o privadas.
+
+Las personas trabajadoras gozarán de permiso con goce de salario íntegro para acudir a citas médicas cuya finalidad sea el tratamiento de cáncer mediante quimioteapias, radioterapias u otro procedimiento oncológico o cualquier otro padecimiento crónico degenerativo y/o terminal, para sus ascendientes hasta en segundo grado, descendientes, hermanos, cónyuge, concubina o concubino o dependientes económicos que padezca tal enfermedad.
+
+Este permiso también será otorgado en caso de que cualquiera de las personas descritas en el párrafo anterior requiera de descanso médico en los periodos críticos de tratamiento o de hospitalización durante el tratamiento médico, incluyendo, en su caso, el tratamiento destinado al alivio del dolor y los cuidados paliativos por cáncer avanzado, o cualquier otro padecimiento crónico degenerativo y/o terminal.
+
+Dichos permisos tendrán una vigencia de uno y hasta veintiocho días. Podrán expedirse tantas licencias como sean necesarias durante un periodo máximo de tres años, sin que excedan trescientos sesenta y cuatro días de licencia, mismos que no necesariamente deberán ser continuos.
+
+Para justificar los permisos a que se refiere este artículo deberá presentar la constancia médica correspondiente expedido por una institución de salud pública o privada, el cual solamente podrá ser otorgado a uno de los familiares de las personas que se encuentren en las situaciones previstas en los párrafos segundo y tercero de este numeral, en los términos que prevea el Reglamento correspondiente.
+
+Asimismo, las personas trabajadoras, gozarán del permiso de un día al año, con goce íntegro de sueldo para acudir a citas para la donación de sangre.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 35
+
+Octies. Las mujeres trabajadoras y personas menstruantes a quienes se les haya diagnosticado con dismenorrea primaria o secundaria en grado incapacitante, o que, por otros síntomas ocasionados por el periodo menstrual, no puedan cumplir con sus obligaciones laborales tendrán derecho a un permiso de dos a tres días hábiles mensuales de descanso con goce integro de sueldo.
+
+Para justificar el permiso, se deberá presentar el certificado médico expedido por persona especialista en ginecología, perteneciente a alguna institución del Sistema Nacional de Salud, que diagnostique cualquiera de las afectaciones a las que se refiere el párrafo anterior. Dicho certificado tendrá una vigencia de un año a partir de su expedición, al término del cual, deberá realizarse una nueva valoración médica para confirmar el diagnóstico, mismo que en ningún momento podrá ser considerado como enfermedad profesional o riesgo de trabajo.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+###### Artículo 35 Nonies.
+
+Las personas trabajadoras tendrán derecho a una licencia de cinco días hábiles con goce de sueldo, cuando haya fallecido:
+
+I. La madre o padre;
+
+II. La esposa o concubina, esposo o concubina (sic), cuando no se encuentre dentro del supuesto establecido en el inciso d) del artículo 35 bis de esta Ley y,
+
+III. Los hijos, abuelos, nietos o hermanos.
+
+La solicitud de licencia que formule la persona trabajadora deberá resolverse en forma inmediata, debiendo presentarse el certificado de defunción respectivo, la acreditación de este requisito podrá hacerse de manera previa, conjuntamente o con posterioridad a la solicitud de licencie, pero en todo caso dentro del periodo de licencia concedido y sin perjuicio del otorgamiento de ésta.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -1656,3 +1694,15 @@ P.O. 8 DE DICIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 073 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 35-SEPTIES, 35-OCTIES Y 35-NONIES A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, el poder Ejecutivo, deberá realizar las adecuaciones que correspondan al Reglamento de la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo.
+
+CUARTO. Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, los Poderes Legislativo, Ejecutivo y Judicial, los Ayuntamientos y Organismos Descentralizados, deberán realizar las adecuaciones que correspondan a su normatividad aplicable, a efecto de dar cumplimiento a su contenido.
