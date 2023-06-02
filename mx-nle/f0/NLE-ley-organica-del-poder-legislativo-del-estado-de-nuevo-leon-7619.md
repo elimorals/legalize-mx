@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2023-02-24"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EL 17 DE MAYO DE 2023, SE PUBLICÓ EN LA “GACETA LEGISLATIVA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN” EL DECRETO 361 DE LA LXXVI LEGISLATURA DEL CONGRESO DEL ESTADO DE DICHA ENTIDAD; EL CUAL, AÚN NO HA SIDO PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, POR LO QUE AÚN NO HA SIDO COMPILADO Y SISTEMATIZADO.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -903,9 +905,9 @@ VII. Educación, Cultura y Deporte;
 
 VIII.- Medio Ambiente y Desarrollo Sustentable;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
 
-IX. Desarrollo Urbano;
+IX. Infraestructura y Desarrollo Urbano;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2020)</small>
 
@@ -959,13 +961,17 @@ XXI. Quinta de Hacienda y Desarrollo Municipal;
 
 XXII. Anticorrupción;
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
 
-XXIII. Presupuesto; y
+XXIII. Presupuesto;
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
 
-XXIV. Desarrollo Metropolitano.
+XXIV. Desarrollo Metropolitano; y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+XXV. De la Familia y Derechos de la Primera Infancia, Niñas, Niños y Adolescentes.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
@@ -1728,3 +1734,11 @@ PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el
 SEGUNDO.- La Unidad de Género deberá instalarse a más tardar treinta días naturales siguientes, contados a partir del día de la siguiente publicación del presente Decreto.
 
 TERCERO.- Anualmente se asignará una partida específica en la ley de Egresos del Estado de Nuevo León, para que la Unidad de Género cumpla sus funciones."
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 396. SE REFORMAN LAS FRACCIONES IX, XXIII Y XXIV DEL ARTÍCULO 70, Y SE ADICIONA UNA FRACCIÓN XXV AL ARTÍCULO 70, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA DENOMINACIÓN DE LA FRACCIÓN IX, EL INCISO E) DE LA FRACCIÓN IX, EL INCISO A) DE LA FRACCIÓN XV, LOS INCISOS I) Y J) DE LA FRACCIÓN XXIV, TODOS DEL ARTÍCULO 39; SE ADICIONAN LOS INCISOS F) Y G) A LA FRACCIÓN IX, LOS INCISOS K) Y L) A LA FRACCIÓN XXIV Y UNA FRACCIÓN XXV, QUE CONTIENE LOS INCISOS A) AL H) TODOS DEL ARTÍCULO 39 Y SE DEROGA EL INCISO B) DE LA FRACCIÓN V, EL INCISO H) DE LA FRACCIÓN VII Y EL INCISO D) DE LA FRACCIÓN XV, TODOS DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, o en su caso, al día siguiente de su publicación.
+
+SEGUNDO.- Una vez instalada la Comisión de la Familia y Derechos de la Primera Infancia, Niñas, Niños y Adolescentes, la Presidencia del H. Congreso del Estado de Nuevo León, instruirá a la Oficialía Mayor para realizar los trámites correspondientes para el returno de las iniciativas de la materia de dicha Comisión conforme la fracción XXV del presente Decreto.
