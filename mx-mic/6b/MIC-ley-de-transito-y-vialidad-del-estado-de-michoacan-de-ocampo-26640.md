@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transito-y-vialidad-del-estado-de-michoacan-de-ocampo-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-24"
-last_updated: "2021-12-27"
+last_updated: "2023-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023 (ABROGADO).
 
 Ley Publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el martes 24 de septiembre de 2002.
 
@@ -1150,3 +1152,43 @@ El monto del derecho a pagar por las citadas licencias será de $2,000.00 (Dos m
 QUINTO. Túrnese el presente Decreto al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo para su conocimiento, con los respectivos anexos.
 
 SEXTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado. La Secretaría de Finanzas y Administración del Gobierno del Estado realizará las adecuaciones administrativas necesarias para dar cumplimiento al presente Decreto, incluidos los anexos que acompañan a esta Ley de Ingresos, conforme a las modificaciones realizadas por este Congreso del Estado.
+
+P.O. 2 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Poder Legislativo, a través de las comisiones por competencia de materia, armonizará la legislación del Estado, en un término no mayor a 365 días naturales, a partir de la entrada en vigor de la presente Ley, conforme a lo mandatado en la Constitución Política de los Estados Unidos Mexicanos, la Ley General y en la presente ley.
+
+TERCERO. Las autoridades estatales en materia de movilidad, tránsito, transporte y seguridad vial deberán de considerar en el proyecto del presupuesto de egresos 2024, a nivel de Unidad Programática Presupuestal (UPP) los recursos presupuestales suficientes para cumplir con el objeto y fines de la presente ley, a la entrada en vigor de la presente ley, estas se sujetarán a la suficiencia presupuestaria disponible dentro del presente ejercicio fiscal.
+
+CUARTO. Se abrogan la Ley de Fomento al Uso de la Bicicleta y Protección al Ciclista del Estado de Michoacán de Ocampo y la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo; se derogan de la Ley de Comunicaciones y Transportes del Estado de Michoacán sus Títulos Primero, Segundo y Cuarto.
+
+QUINTO. A la entrada en vigor del presente Decreto, todas las menciones referentes a la Ley de Comunicaciones y Transportes del Estado de Michoacán de Ocampo, así como a la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo, Ley de Fomento del Uso de la Bicicleta y Protección al Ciclista del Estado de Michoacán de Ocampo y sus respectivos reglamentos, en otras leyes del Estado, o disposición jurídica concurrente, se entenderán referidas a la Ley de Movilidad y Seguridad Vial del Estado de Michoacán.
+
+SEXTO. A partir de la entrada en vigor del presente Decreto, en un plazo no mayor a 365 días naturales, los Municipios deberán armonizar sus disposiciones normativas y reglamentarias, programáticas, presupuestales y de políticas públicas con la finalidad de integrar y homologar sus atribuciones conforme a la presente Ley y su Reglamento.
+
+SÉPTIMO. Las sanciones y demás disposiciones previstas en los reglamentos de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo y la Ley de Comunicaciones y Transportes del Estado de Michoacán, seguirán vigentes hasta en tanto no se publiquen las disposiciones reglamentarias respectivas.
+
+OCTAVO. El Titular del Poder Ejecutivo del Estado, en un término no mayor a 210 días hábiles, deberá expedir los reglamentos que resulten necesarios para el cumplimiento del presente Decreto.
+
+NOVENO. En todos los procedimientos judiciales y de justicia administrativa, en los que sean parte los órganos del Estado en materia de tránsito y transporte, se deberán sustanciar por las autoridades antes referidas conforme a la normatividad que se encontraba vigente en el momento de su inicio.
+
+DÉCIMO. El titular del Ejecutivo del Estado, contará con 180 días hábiles para crear el Instituto, respetando los derechos laborales de los trabajadores de base y sindicalizados.
+
+DÉCIMO PRIMERO. En lo referente a esta Ley, hasta en tanto no sea creado el Instituto, las atribuciones de éste serán entendidas como las de la Comisión Coordinadora del Transporte Público de Michoacán.
+
+DÉCIMO SEGUNDO. A la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado, en un periodo no mayor a 30 días hábiles, deberá conformar e instalar el Consejo Estatal de Movilidad y Seguridad Vial.
+
+DÉCIMO TERCERO. Una vez instalado el Consejo Estatal de Movilidad y Seguridad Vial, éste emitirá en un término no mayor a 180 días hábiles, la Estrategia Estatal de Movilidad y Seguridad Vial.
+
+DÉCIMO CUARTO. Una vez instalado el Consejo Estatal de Movilidad y Seguridad Vial, en un periodo no mayor a 180 días hábiles, éste creará el Sistema Estatal de Información Territorial y Urbano (SEITU).
+
+DÉCIMO QUINTO. La Secretaría de Finanzas y Administración, previa la reforma legal respectiva y posterior a la adecuación administrativa y tecnológica correspondientes, recibirá los pagos de los sujetos obligados que mandata la presente ley, en los plazos que la misma establezca, en tanto se seguirán cobrando los conceptos y tarifas vigentes en la legislación y normatividad correspondiente.
+
+DÉCIMO SEXTO. El Poder Ejecutivo del Estado, en un periodo no mayor a 180 días hábiles, a la entrada en vigor del presente Decreto, deberá emitir los lineamientos para generar los contenidos de los exámenes de valoración integral teórico y práctico, de conocimientos y habilidades necesarias, para la expedición de las licencias y permisos de conducir, respectivos, considerados en el presente Decreto.
+
+DÉCIMO SÉPTIMO. El Poder Ejecutivo del Estado, en un término no mayor a 180 días hábiles, creará el Fondo para el Desarrollo de la Movilidad y el Transporte teniendo como fines los establecidos en el presente Decreto, para lo cual deberá expedir las reglas de operación, lineamientos y demás disposiciones que resulten necesarias para el adecuado funcionamiento de este. La administración de este fondo estará a cargo de la SEDUM en términos de las disposiciones jurídicas que resulten aplicables.
+
+DÉCIMO OCTAVO. El Poder Ejecutivo del Estado, en un término no mayor a 180 días a partir de la entrada en vigor de la presente Ley, deberá, a través de sus dependencias y entidades, conformar los registros y bases de datos a que se refiere el presente Decreto.
