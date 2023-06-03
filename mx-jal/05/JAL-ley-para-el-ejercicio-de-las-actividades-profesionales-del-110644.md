@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-ejercicio-de-las-actividades-profesionales-del-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2021-07-29"
+last_updated: "2023-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2023.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 1 de diciembre de 2015.
 
@@ -81,7 +81,9 @@ VIII. Las atribuciones de la Dirección de Profesiones del Estado;
 
 IX. Los integrantes y las facultades del Consejo Estatal de Actividades Profesionales;
 
-X. La regulación de la certificación obligatoria de quienes ejerzan actividades profesionales, en los términos de esta Ley y su Reglamento, que comprenden las áreas del derecho, contaduría, las diversas ingenierías, arquitectura y las áreas de la salud en general; y las que la Comisión posteriormente considere de interés incorporar, con el propósito de garantizar una atención de calidad a los usuarios de sus servicios y así proteger sus intereses;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2023)</small>
+
+X. La regulación de la certificación voluntaria de quienes ejerzan actividades profesionales, en los términos de esta Ley y su Reglamento;
 
 XI. El registro de los profesionistas que ejerzan en el Estado, y los mecanismos de control para que cumplan con las disposiciones y requisitos en la materia; y
 
@@ -101,11 +103,15 @@ Para efectos de esta Ley, se entiende por:
 
 I. Actividad Profesional: el desempeño habitual de actos propios de una profesión en el ámbito público o privado de forma gratuita u onerosa. La ostentación del carácter de profesionista por medio de tarjetas, anuncios, placas, insignias o de cualquier otro medio escrito, gráfico o electrónico, constituye presunción de que se prestan los servicios propios de la profesión a que se refieren;
 
-II. Cédula: documento expedido por la Dirección de Profesiones, que autoriza el ejercicio de la actividad profesional y que da fe de la expedición legal de los documentos acreditativos de cada modalidad de cédula, incluido el título profesional respectivo y de la certificación de competencia profesional; con vigencia definitiva o temporal, ésta, renovable a partir de la evaluación satisfactoria de sus competencias profesionales y su actualización continua;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2023)</small>
+
+II. Cédula: documento expedido por la Dirección de Profesiones, que autoriza el ejercicio de la actividad profesional y que da fe de la expedición legal de los documentos acreditativos de cada modalidad de cédula, incluido el título profesional respectivo;
 
 III. Certificado de competencias profesionales: documento expedido por el colegio de profesionistas o la Dirección, de acuerdo al dictamen emitido por el ente evaluador, que reconoce y avala las competencias profesionales de cada profesión o especialidad por un tiempo determinado, para brindar a la sociedad mayor garantía del ejercicio de las actividades profesionales;
 
-IV. Certificación de competencias profesionales: proceso de evaluación donde el examen es necesario para ello, realizado por un ente evaluador al que la Comisión Interinstitucional le haya otorgado la idoneidad para hacerlo; dicha evaluación acredita que un profesionista cuenta no sólo con los conocimientos autorizados, las aptitudes y la ética profesional, sino también con las habilidades y la experiencia necesaria para el ejercicio de una actividad profesional;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2023)</small>
+
+IV. Certificación de competencias profesionales: proceso de evaluación voluntario donde el examen es necesario para ello, realizado por un ente evaluador al que la Comisión Interinstitucional le haya otorgado la idoneidad para hacerlo; dicha evaluación acredita que un profesionista cuenta no sólo con los conocimientos autorizados, las aptitudes y la ética profesional, sino también con las habilidades y la experiencia necesaria para el ejercicio de su actividad profesional;
 
 V. Certificado de idoneidad: el acto mediante el cual la Comisión reconoce a los colegios de profesionistas y entes evaluadores por haber cumplido satisfactoriamente los requisitos para implementar procesos de actualización y de evaluación profesional, respectivamente;
 
@@ -183,7 +189,9 @@ IV. Obtener el certificado de competencia profesional cuando corresponda;
 
 V. Elegir el ente certificador que lo evaluará;
 
-VI. Certificar su competencia profesional voluntariamente en los casos en que se ejerza una actividad profesional que no requiera como condición de ejercicio profesional la certificación profesional, a través del procedimiento que se establezca en el Reglamento;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2023)</small>
+
+VI. Certificar su competencia profesional voluntariamente;
 
 VII. Solicitar a la Comisión la revisión del resultado de su certificación profesional;
 
@@ -191,7 +199,9 @@ VIII. Obtener la constancia por la prestación del servicio social profesional;
 
 IX. Obtener el registro de su título, la cédula para el ejercicio de su actividad profesional y su inscripción en el registro, una vez que cumpla los requisitos legales y reglamentarios respectivos;
 
-X. Acceder a cursos de actualización profesional que coordine la Dirección por la prestación de su servicio social profesional, en los casos de ejercer actividad profesional sin certificación obligatoria de conformidad a lo que establece la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2023)</small>
+
+X. Acceder a cursos de actualización profesional que coordine la Dirección por la prestación de su servicio social profesional;
 
 XI. Obtener puntos acreditables de acuerdo a los criterios que establezca la Comisión en el proceso de certificación profesional, para aquellos que presten su servicio social profesional;
 
@@ -215,7 +225,9 @@ II. Poner sus conocimientos técnicos y científicos al servicio del cliente o e
 
 III. Sujetarse estrictamente al código de ética profesional del colegio al que, en su caso, estén incorporados;
 
-IV. Mantenerse actualizado en la materia de su actividad profesional y obtener la certificación profesional correspondiente en los casos de ejercer una actividad profesional que lo exija;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2023)</small>
+
+IV. Mantenerse actualizado en la materia de su actividad profesional;
 
 V. Cumplir con el Servicio Social Profesional y prestar sus servicios en casos de circunstancias de peligro nacional, desastres o calamidades públicas, cuando así lo disponga la autoridad y las leyes respectivas;
 
@@ -231,7 +243,9 @@ X. Otorgar facturas o recibos conforme a las disposiciones fiscales aplicables p
 
 XI. En caso de pertenecer a un colegio de profesionistas, estar al corriente en el pago de sus cuotas en los términos de la normativa, cualquiera que sea su naturaleza, en la forma y plazos al efecto establecidos;
 
-XII. Denunciar ante la Dirección o, en su caso, ante el colegio de profesionistas al que pertenezca, enviando copia a la Dirección, todo acto de usurpación de profesión que llegue a su conocimiento, así como los casos de ejercicio ilegal y deshonesto; sea por suspensión o inhabilitación del denunciado, por no contar con la certificación cuando ésta sea exigible o por estar incurso en supuestos de incompatibilidad o prohibición;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2023)</small>
+
+XII. Denunciar ante la Dirección o, en su caso, ante el colegio de profesionistas al que pertenezca, enviando copia a la Dirección, todo acto de usurpación de profesión que llegue a su conocimiento, así como los casos de ejercicio ilegal y deshonesto; sea por suspensión o inhabilitación del denunciado, o por estar incurso en supuestos de incompatibilidad o prohibición;
 
 XIII. Denunciar ante el colegio de profesionistas al que en su caso pertenezca, todo acto de violación al código de ética de dicho colegio que llegue a su conocimiento, enviando copia a la Dirección;
 
@@ -257,19 +271,23 @@ Para ejercer en el Estado como profesionista de cualquier grado académico o esp
 
 I. Cédula expedida por la Dirección;
 
-II. Certificado de competencia profesional, si la actividad profesional se encuentra sujeta a certificación obligatoria;
+II. (DEROGADA, P.O. 3 DE JUNIO DE 2023)
 
 III. Estar en pleno goce y ejercicio de sus derechos civiles; y
 
 IV. Las demás que señale la Ley.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2023)</small>
+
 ###### Artículo 14.
 
-La excepción a lo dispuesto en el artículo anterior será lo que se encuentre convenido con el Gobierno Federal o con otras entidades federativas, y que el profesionista acredite ante la Dirección que cuenta con la cédula profesional y certificado de competencia profesional de la entidad federativa de que provenga, o de la autoridad federal correspondiente.
+La excepción a lo dispuesto en el artículo anterior será lo que se encuentre convenido con el Gobierno Federal o con otras entidades federativas, y que el profesionista acredite ante la Dirección que cuenta con la cédula profesional de la entidad federativa de que provenga, o de la autoridad federal correspondiente.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2023)</small>
 
 ###### Artículo 15.
 
-Quienes se ostenten como profesionistas ante alguna autoridad en el Estado, deberán acreditarlo mediante la presentación de la cédula y, en su caso, contar con certificación profesional vigente, verificable en el portal web de la Dirección; en caso contrario, las autoridades que le atiendan, deberán de rechazar de plano su intervención con excepción de lo dispuesto en el artículo anterior. En caso de que las autoridades no observen este requisito se estará a lo dispuesto por esta Ley y los ordenamientos legales a los que se encuentren sujetas.
+Quienes se ostenten como profesionistas ante alguna autoridad en el Estado, deberán acreditarlo mediante la presentación de la cédula, en caso contrario, las autoridades que le atiendan, deberán de rechazar de plano su intervención con excepción de lo dispuesto en el artículo anterior. En caso de que las autoridades no observen este requisito se estará a lo dispuesto por esta Ley y los ordenamientos legales a los que se encuentren sujetas.
 
 ###### Artículo 16.
 
@@ -417,11 +435,11 @@ XI. Contar con un órgano interno de control ético;
 
 XII. Para el caso de nuevos colegios como de los que ya están constituidos deberán acreditar haber desarrollado tareas en beneficio de la actividad profesional de que se trate, en las que deberán incluir publicaciones, seminarios, cursos, conferencias y demás actividades equiparables durante cuando menos los dos años inmediatos anteriores a la solicitud de inscripción de una asociación como colegio, así como para conservar la vigencia del registro de los colegios ya constituidos;
 
-XIII. Para los colegios de profesionistas de actividades no sujetas a certificación obligatoria deberán reunir un número mínimo de sesenta integrantes, en el caso de que el colegio esté integrado por profesionales de nivel bachillerato técnico, profesional técnico, normal o licenciatura; y mínimo treinta agremiados para los casos de los profesionistas que tengan especialidad, maestría o doctorado registrados ante la Dirección;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2023)</small>
 
-XIV. Para los colegios de profesionistas de actividades sujetas a certificación obligatoria reunir un número mínimo de ciento cincuenta integrantes, en el caso de que el colegio esté integrado por profesionales de nivel bachillerato técnico, profesional técnico, normal o licenciatura; y mínimo cuarenta agremiados para los casos de los profesionistas que tengan especialidad, maestría o doctorado registrados ante la Dirección.
+XIII. Contar con sesenta integrantes en el caso de que el colegio esté integrado por profesionales de nivel bachillerato técnico, profesional técnico, normal o licenciatura; y mínimo treinta agremiados para los casos de los profesionistas que tengan especialidad, maestría o doctorado registrados ante la Dirección;
 
-Cuando el número de profesionistas egresados de las diversas generaciones pertenecientes a la misma actividad profesional, sean menores a los mínimos exigibles en el párrafo anterior, se reducirá al número de profesionistas con que se cuente, sin que en ningún caso dicho número sea inferior a veinte profesionistas de la misma actividad;
+XIV. (DEROGADA, P.O. 3 DE JUNIO DE 2023)
 
 XV. Cumplir con lo establecido en el Código Civil del Estado de Jalisco en materia de asociaciones;
 
@@ -455,7 +473,7 @@ II. Promover la observancia de los códigos de ética y sancionar su violación;
 
 III. Llevar el registro de todas las actividades de actualización profesional como disciplinaria de sus integrantes;
 
-IV. Proponer a la Comisión la incorporación o desincorporación de nuevas actividades profesionales a regularse por la certificación obligatoria;
+IV. (DEROGADA, P.O. 3 DE JUNIO DE 2023)
 
 V. Vigilar que el ejercicio profesional y actividad de sus agremiados se realice apegado a derecho, denunciando ante las autoridades competentes, las violaciones a los dispositivos legales en que incurran por tal motivo;
 
@@ -593,7 +611,9 @@ El Consejo se conformará por presidentes de colegios de profesionistas y la Dir
 
 El Consejo contará con las siguientes atribuciones:
 
-I. Coordinar criterios que deban ponerse a la consideración de la Comisión a fin de orientar los procesos de certificación profesional;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2023)</small>
+
+I. Coordinar criterios que deban ponerse a la consideración de la Comisión a fin de orientar los procesos de certificación profesional voluntaria;
 
 II. Designar ante las autoridades competentes el colegio que representará a la actividad profesional en sus órganos consultivos; y
 
@@ -603,9 +623,11 @@ Su esquema de organización y funcionamiento se regulará por el Reglamento.
 
 ### Capítulo IX. De la Comisión Interinstitucional para el Desarrollo de las Profesiones del Estado de Jalisco
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2023)</small>
+
 ###### Artículo 47.
 
-La Comisión es un órgano técnico que desarrolla, organiza, implementa, regula y supervisa el proceso de certificación profesional en el Estado, el cual podrá estar conformado por los representantes de:
+La Comisión es un órgano técnico que desarrolla, organiza, implementa, regula y supervisa el proceso de certificación profesional voluntaria en el Estado, el cual podrá estar conformado por los representantes de:
 
 I. Secretaría General de Gobierno;
 
@@ -701,7 +723,7 @@ IX. En caso de no verificarse quórum, el Presidente podrá convocar por escrito
 
 La Comisión contará con las siguientes atribuciones:
 
-I. Definir y actualizar el Catálogo General de Actividades Profesionales sujetas a certificación profesional;
+I. (DEROGADA, P.O. 3 DE JUNIO DE 2023)
 
 II. Establecer los criterios generales para operar como ente certificador;
 
@@ -751,51 +773,55 @@ III. La actividad profesional a certificar.
 
 La Dirección, escuchando la opinión de los colegios de profesionistas, instituciones educativas, organismos empresariales y secretarías del Estado, propondrá al Gobernador del Estado, el proyecto de Reglamento de la Comisión.
 
-### Capítulo X. De la Certificación Profesional
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2023)</small>
+
+### Capítulo X. De la Certificación Profesional Voluntaria
 
 ###### Artículo 54.
 
 La Comisión analizará la idoneidad de los entes certificadores y, en caso de aprobarlas, notificará a la Dirección para que proceda a su inscripción en el Registro Estatal de Actividades Profesionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2023)</small>
+
 ###### Artículo 55.
 
-La certificación profesional tendrá una vigencia máxima de cinco años, al término de los cuales deberá someterse a un nuevo proceso y cumplir con los requisitos y evaluaciones establecidas por el ente certificador que corresponda y considerará las siguientes condiciones:
+La certificación profesional voluntaria tendrá una vigencia máxima de cinco años, al término de los cuales podrá someterse a un nuevo proceso y cumplir con los requisitos y evaluaciones establecidas por el ente certificador que corresponda y considerará las siguientes condiciones:
 
 I. La certificación considerará experiencia profesional, cursos de actualización, conferencias, publicaciones, examen y las demás que acuerde la Comisión;
 
-II. La primera acreditación de la certificación profesional deberá considerar la aplicación de examen, y volverá a observar esta modalidad en su tercera acreditación de la certificación profesional y así sucesivamente; y
+II. (DEROGADA, P.O. 3 DE JUNIO DE 2023)
 
-III. La segunda acreditación de la certificación profesional deberá sólo considerar evidencias de actualización continua, y volver a observar esta modalidad en su cuarta acreditación de la certificación profesional y así sucesivamente.
+III. (DEROGADA, P.O. 3 DE JUNIO DE 2023)
 
 La Comisión, de oficio o a petición de cualquier interesado, podrá establecer plazos menores para alguna actividad profesional específica, en función de sus características técnicas y científicas.
 
 ###### Artículo 56.
 
-Los profesionistas tendrán la obligación de certificarse en su respectiva actividad profesional a más tardar cumplidos cinco años contados a partir de la fecha de acreditación de su modalidad de titulación u obtención del diploma de especialidad.
-
-Si la actividad profesional fuera de aquellas cuya certificación tuviera una vigencia menor a cinco años en los términos del artículo anterior, el plazo para la primera certificación a que se refiere este artículo deberá corresponderse con dicha vigencia.
+(DEROGADO, P.O. 3 DE JUNIO DE 2023)
 
 ###### Artículo 57.
 
-Cuando el solicitante no acredite el procedimiento de certificación, deberá volver a someterse a dicho procedimiento dentro del plazo máximo de seis meses. En caso de no acreditar la certificación por segunda ocasión consecutiva, deberá esperar un plazo máximo de seis meses para formular una nueva solicitud ante un ente certificador.
-
-En caso de no acreditar la certificación por tercera ocasión consecutiva, deberá volver a someterse a dicho procedimiento dentro del plazo máximo de seis meses; podrá ser el colegio a través de su Comisión ética o un profesionista certificado, supervisor de su ejercicio profesional, con la finalidad de no suspenderlo; en caso de que no cuente con alguno de los apoyos referidos, su actividad profesional quedará suspendida hasta en tanto no acredite la certificación correspondiente; lo que se hará del conocimiento a la Dirección para que lo haga constar en el Registro Estatal.
+(DEROGADO, P.O. 3 DE JUNIO DE 2023)
 
 ###### Artículo 58.
 
-El colegio al que pertenezca el profesionista que no acreditó la certificación profesional, vigilará el estricto desempeño de su actividad o, en su caso, el cumplimiento de la suspensión en coadyuvancia con la autoridad. Todos los colegios pertenecientes a la actividad profesional de que se trate, serán notificados de la suspensión por conducto de la Comisión y el colegio al que pertenezca prestará total apoyo para que dé cumplimiento a la brevedad posible con los requisitos de ejercicio correspondientes.
+(DEROGADO, P.O. 3 DE JUNIO DE 2023)
 
 ###### Artículo 59.
 
 Los procedimientos de certificación serán transparentes e imparciales. Todos los requisitos que se fijen para acceder a dichos procedimientos deberán ser objetivos. La autoridad vigilará que los entes certificadores cumplan con estos principios.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2023)</small>
+
 ###### Artículo 60.
 
-La certificación profesional constituye un servicio público de naturaleza no lucrativa; consecuentemente, la retribución que se pague por ese concepto tendrá el carácter de cuota de recuperación y cubrirá exclusivamente el costo operativo del trámite.
+La certificación profesional voluntaria constituye un servicio público de naturaleza no lucrativa; consecuentemente, la retribución que se pague por ese concepto tendrá el carácter de cuota de recuperación y cubrirá exclusivamente el costo operativo del trámite.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2023)</small>
 
 ###### Artículo 61.
 
-Los programas de educación continua y actualización profesional serán instrumentados por los colegios de profesionistas; además podrán participar en su implementación las instituciones educativas, organismos empresariales y la Dirección. Dichos programas deberán cumplir con los lineamientos establecidos por la Comisión y registrados ante la Dirección para hacerlos constar en el Registro Estatal de Actividades Profesionales. El cumplimiento de tales programas dará puntaje para la certificación y serán considerados como requisito para el acceso a la certificación profesional.
+Los programas de educación continua y actualización profesional serán instrumentados por los colegios de profesionistas; además podrán participar en su implementación las instituciones educativas, organismos empresariales y la Dirección. Dichos programas deberán cumplir con los lineamientos establecidos por la Comisión y registrados ante la Dirección para hacerlos constar en el Registro Estatal de Actividades Profesionales. El cumplimiento de tales programas dará puntaje para la certificación y serán considerados como requisito para el acceso a la certificación profesional voluntaria.
 
 ###### Artículo 62.
 
@@ -873,7 +899,9 @@ El Registro Estatal de Actividades Profesionales se integra por el conjunto de i
 
 I. Las instituciones públicas y particulares, autorizadas para la expedición de títulos profesionales y diplomas de especialidad, que faculten para el ejercicio de las profesiones del artículo 9º;
 
-II. Los profesionistas y especialistas que hayan obtenido el título o diploma de especialidad con su cédula correspondiente, así como las constancias de certificación obligatoria, que los habiliten para el ejercicio de alguna de las actividades profesionales;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2023)</small>
+
+II. Los profesionistas y especialistas que hayan obtenido el título o diploma de especialidad con su cédula correspondiente y en su caso con las constancias de certificación voluntaria que los habiliten para el ejercicio de alguna de las actividades profesionales;
 
 III. Los colegios de profesionistas que operen en el Estado;
 
@@ -917,9 +945,11 @@ VI. Las instituciones extranjeras a las cuales las autoridades federales reconoz
 
 Las instituciones de educación en el Estado que impartan enseñanza en los niveles de bachillerato técnico, profesional técnico, licenciatura y posgrado, deben informar a la Dirección respecto a los mismos y proporcionarle los datos que ésta le solicite.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2023)</small>
+
 ###### Artículo 80.
 
-Para que ejerzan legalmente los profesionistas en el Estado, es necesario que los documentos a que se refiere el artículo siguiente, así como el certificado de competencia profesional cuando corresponda, sean registrados en la Dirección, la cual expedirá la cédula profesional previo pago de los derechos correspondientes.
+Para que ejerzan legalmente los profesionistas en el Estado, es necesario que los documentos a que se refiere el artículo siguiente, sean registrados en la Dirección, la cual expedirá la cédula profesional previo pago de los derechos correspondientes.
 
 ###### Artículo 81.
 
@@ -1007,7 +1037,9 @@ VII. Llevar el registro de las instituciones de educación que expidan título, 
 
 VIII. Expedir cédulas para los profesionistas y posgraduados que cumplan con los requisitos establecidos por esta Ley y su Reglamento.
 
-Las cédulas señalarán claramente la categoría a la que pertenece, fecha de expedición y, en su caso, fecha de expiración, previo pago de los derechos correspondientes, así como si pertenecen a profesionistas certificados para los grados de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JUNIO DE 2023)</small>
+
+Las cédulas señalarán claramente la categoría a la que pertenece, fecha de expedición y, en su caso, fecha de expiración, previo pago de los derechos correspondientes.
 
 a) Bachillerato Técnico;
 
@@ -1021,7 +1053,9 @@ e) Maestría; y
 
 f) Doctorado;
 
-IX. Expedir cédulas con vigencia temporal para profesionistas certificados, renovable a partir de la acreditación de la certificación profesional;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2023)</small>
+
+IX. Expedir cédulas locales;
 
 X. Cancelar el registro de los títulos, diplomas o grados académicos a que se refiere esta Ley, en cumplimiento de sentencia ejecutoriada dictada por autoridad judicial competente;
 
@@ -1159,9 +1193,11 @@ En este supuesto, la Dirección deberá de interponer la denuncia de hecho corre
 
 El profesionista que, perteneciendo a algún colegio de profesionistas debidamente reconocido y registrado por la Dirección, haya otorgado su consentimiento para efectuar su servicio social profesional gratuito, y rehusare sin causa justificada a cumplir con su compromiso por más de tres ocasiones, se le impondrá una multa de treinta a sesenta veces el valor de la Unidad de Medida y Actualización vigente en el lugar de la comisión de la infracción. La misma sanción se impondrá a quienes no perteneciendo a alguna agrupación de profesionistas, se hayan comprometido ante la Dirección a prestar el servicio profesional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2023)</small>
+
 ###### Artículo 98.
 
-La Dirección podrá suspender el ejercicio profesional y aplicar multa al profesionista involucrado, en materia de certificación profesional, por los siguientes casos:
+La Dirección podrá suspender el ejercicio profesional y aplicar multa al profesionista involucrado, en materia de certificación profesional voluntaria, por los siguientes casos:
 
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -1171,9 +1207,7 @@ I. Se compruebe que existe falsedad en los documentos que presenten ante los col
 
 II. Presente para su registro ante la Dirección constancias de certificación falsas. En tal caso, la suspensión será de seis a dieciocho meses y una multa de doscientas a trescientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado; o
 
-> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
-
-III. Ejerza la actividad profesional sin contar con la certificación que corresponda. En tal caso, la suspensión será de seis a dieciocho meses, y una multa impuesta de doscientas a trescientas veces el valor de la Unidad de Medida y Actualización vigente en el Estado.
+III. (DEROGADA, P.O. 3 DE JUNIO DE 2023)
 
 ###### Artículo 99.
 
@@ -1247,15 +1281,17 @@ Las sanciones previstas en el artículo 90 fracciones I, II, IV, V y VI de esta 
 
 Las sanciones económicas previstas en esta Ley serán consideradas créditos fiscales y ejecutados por la Secretaría de la Hacienda Pública, de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2023)</small>
+
 ###### Artículo 109.
 
-Se concede acción individual a todo interesado para denunciar administrativamente ante la Dirección a quien sin título profesional, cédula, diploma de especialidad o sin la certificación correspondiente, ejerza alguna de las actividades profesionales objeto de esta Ley.
+Se concede acción individual a todo interesado para denunciar administrativamente ante la Dirección a quien sin título profesional, cédula o diploma de especialidad, ejerza alguna de las actividades profesionales objeto de esta Ley. La Dirección deberá denunciar ante el Ministerio Público los hechos que presuntamente sean constitutivos de delito.
 
-La Dirección deberá denunciar ante el Ministerio Público los hechos que presuntamente sean constitutivos de delito.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2023)</small>
 
 ###### Artículo 110.
 
-Las resoluciones de los colegios de profesionistas sobre la falta de cumplimiento de las obligaciones de los profesionistas en materia de certificación profesional, deberán ser puestas en conocimiento de la Dirección por parte del colegio de profesionistas que lleve el control del expediente del profesionista en cuestión.
+Las resoluciones de los colegios de profesionistas sobre la falta de cumplimiento de las obligaciones de los profesionistas en materia de certificación profesional voluntaria, deberán ser puestas en conocimiento de la Dirección por parte del colegio de profesionistas que lleve el control del expediente del profesionista en cuestión.
 
 ###### Artículo 111.
 
@@ -1370,3 +1406,13 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28427/LXII/21 QUE ADICIONA LOS ARTÍCULOS 39 Y 56 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO, 49 DE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO, 10 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO, 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 20 DE LA LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 19 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 31 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO, 152 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO Y 55 DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29182/LXIII/23 QUE REFORMA LOS ARTÍCULOS 4 FRACCIÓN X, 7 FRACCIONES II Y IV, 11 FRACCIONES VI Y X, 12 FRACCIONES IV Y XII, 14, 15, 33 FRACCIÓN XIII, 46 FRACCIÓN I, 47, 55, 60, 61, 74 FRACCIÓN II, 80, 87 FRACCIONES VIII Y IX, 98, 109, 110, QUE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO X PARA ESCLARECER QUE LA CERTIFICACIÓN PROFESIONAL ES VOLUNTARIA; Y SE DEROGAN LOS ARTÍCULOS 13 FRACCIÓN II, 33 FRACCIÓN XIV, 37 FRACCIÓN IV, 50 FRACCIÓN I, 55 FRACCIONES II Y III, 56, 57, 58 Y 98 FRACCIÓN III DE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO, EN MATERIA DE CERTIFICACIÓN PROFESIONAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Gobierno del Estado expedirá cédulas profesionales definitivas en sustitución de aquellas de naturaleza temporal que posean los profesionistas a la entrada en vigor del presente decreto.
+
+TERCERO. La emisión de las cédulas definitivas referidas en el transitorio anterior no tendrá costo alguno para el profesionista.
