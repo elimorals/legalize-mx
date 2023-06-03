@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-anticorrupcion-del-estado-de-jalisco-122604"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2023-05-23"
+last_updated: "2023-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 18 de julio de 2017.
 
@@ -799,11 +799,35 @@ XIII. Recopilar y remitir al Congreso del Estado, a más tardar en el mes de mar
 
 1. Los municipios podrán integrar e implementar sistemas anticorrupción armonizados con los sistemas Estatal y Nacional Anticorrupción.
 
-2. Los sistemas municipales funcionarán de manera independiente a las comisiones que se integren al interior de los Ayuntamientos. En la conformación del Comité de Participación Social podrá participar el consejo consultivo ciudadano.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2023)</small>
 
-3. Los sistemas municipales tendrán atribuciones compatibles con las que esta ley otorga al Sistema Estatal Anticorrupción y a los órganos que lo conforman, mismas que deberán ser establecidas en sus reglamentos.
+2. Los sistemas anticorrupción municipales funcionarán de manera independiente a las comisiones que se integren al interior de los Ayuntamientos.
 
-4. El Sistema Estatal Anticorrupción deberá crear mecanismos de coordinación y apoyo con los sistemas municipales debidamente constituidos y podrá invitar a sus representantes a las sesiones y reuniones de trabajo del Comité Coordinador y del Comité de Participación Social.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2023)</small>
+
+3. Preferentemente el sistema anticorrupción municipal se integrará por:
+
+a) El Titular del Órgano Interno de Control;
+
+b) El Titular de la Unidad de Transparencia; y
+
+c) Un representante del Consejo Municipal de Participación Ciudadana, este último órgano hará las veces del Comité de Participación Social, quien fungirá como Presidente.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2023)</small>
+
+4. El sistema anticorrupción municipal deberá contar con un plan anual de trabajo y presentar un informe anual al Ayuntamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 2023)</small>
+
+5. El sistema anticorrupción municipal deberá reunirse cuando menos una vez cada tres meses, previa convocatoria de su Presidente o de manera extraordinaria cuantas veces sea necesario.
+
+Los acuerdos serán aprobados por mayoría simple de sus integrantes y se harán llegar a las áreas correspondientes para su puntual seguimiento, en caso de empate el Presidente tendrá voto de calidad.
+
+Los acuerdos que por su naturaleza requieran la aprobación del Ayuntamiento se harán llegar al pleno para su discusión y en su caso aprobación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 2023)</small>
+
+6. El encargo de los nombrados en el sistema anticorrupción municipal, durará el periodo constitucional por el que fueron elegidas las autoridades municipales que los nombren.
 
 ## TÍTULO TERCERO. SISTEMA ESTATAL DE FISCALIZACIÓN
 
@@ -1012,5 +1036,11 @@ P.O. 14 DE MARZO DE 2023.
 P.O. 23 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29180/LXIII/23 QUE REFORMA LOS ARTÍCULOS 36 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN, Y 67 SEXIES DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
