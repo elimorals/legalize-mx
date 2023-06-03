@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2022-11-05"
+last_updated: "2023-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1719,25 +1719,25 @@ XII. Tramitar y en su caso resolver, los recursos derivados de los procedimiento
 
 XIII. Las demás que le otorguen la legislación general y estatal aplicable.
 
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2023)</small>
 
 Artículo 67 sexies.
 
-El Órgano Interno de Control, se conforma orgánicamente de la siguiente manera:
+El Órgano Interno de Control se conformará acorde a lo señalado por el artículo 53 de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
-I. La persona titular del Órgano Interno de Control;
+I. (DEROGADA, P.O. 3 DE JUNIO DE 2023)
 
-II. La Secretaría Técnica;
+II. (DEROGADA, P.O. 3 DE JUNIO DE 2023)
 
-III. Área de Auditoría;
+III. (DEROGADA, P.O. 3 DE JUNIO DE 2023)
 
-IV. Área de Investigación;
+IV. (DEROGADA, P.O. 3 DE JUNIO DE 2023)
 
-V. Área de Responsabilidades; y
+V. (DEROGADA, P.O. 3 DE JUNIO DE 2023)
 
-VI. Las demás áreas necesarias para el cumplimiento de sus funciones.
+VI. (DEROGADA, P.O. 3 DE JUNIO DE 2023)
 
-Para el estudio y despacho de los asuntos de su competencia, el Órgano Interno de Control, se auxiliará de las áreas y dependencias señaladas en el presente ordenamiento y contará con el personal que se requiera para el cumplimiento de las funciones a su cargo, atendiendo a su disponibilidad presupuestal aprobada.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 3 DE JUNIO DE 2023)</small>
 
 ## TITULO CUARTO. PREVENCIONES PARA LOS CASOS DE AUSENCIA DE LAS AUTORIDADES MUNICIPALES
 
@@ -3518,3 +3518,9 @@ Sexto. La Secretaría de Educación del Estado de Jalisco en coadyuvancia con la
 Séptimo. Los prestadores de servicios de salud en atención directa con pacientes con diagnóstico de diabetes en sus diferentes tipos y subtipos, podrán establecer mecanismos para fomentar la corresponsabilidad de las personas con diabetes en sus diferentes tipos y subtipos, respecto de la importancia y trascendencia del uso y aplicación adecuada de los insumos, así como de la educación terapéutica en diabetes recibida.
 
 Octavo. Dentro de los trescientos sesenta y cinco días posteriores a la entrada en vigor del presente decreto y sucesivamente de forma anual, las autoridades en materia de salud responsables en la aplicación de la norma, deberán remitir un informe a esta H. Soberanía, que incluya los avances de la aplicación del presente decreto.
+
+P.O. 3 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29180/LXIII/23 QUE REFORMA LOS ARTÍCULOS 36 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN, Y 67 SEXIES DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
