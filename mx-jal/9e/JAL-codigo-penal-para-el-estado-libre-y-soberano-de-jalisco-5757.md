@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2023-04-20"
+last_updated: "2023-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 20 DE ABRIL DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1613,13 +1611,13 @@ Los delitos previstos en este Título se sancionarán además, con suspensión d
 
 ### CAPITULO I. Evasión de presos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2023)</small>
 
 ###### Art. 113.
 
-Se impondrán de tres meses a siete años de prisión al que favoreciere la evasión de algún detenido, procesado o condenado. Si el responsable de la evasión fuese servidor público, se aumentará la pena hasta en una tercera parte y será además destituido de su empleo e inhabilitado de uno a diez años para obtener otro de la misma naturaleza.
+Se impondrán de uno a nueve años de prisión al que favoreciere la evasión de algún detenido, procesado o condenado. Si el responsable de la evasión fuese servidor público, se aumentará la pena hasta en una tercera parte y será además destituido de su empleo e inhabilitado de uno a diez años para obtener otro de la misma naturaleza.
 
-Si fuesen dos o más los que favorecieren la evasión, o dos o más los evadidos, la sanción será de dos a ocho años de prisión.
+Si fuesen dos o más los que favorecieren la evasión, o dos o más los evadidos, la sanción será de dos a doce años de prisión.
 
 ###### Art. 114.
 
@@ -1633,11 +1631,11 @@ Si la reaprehensión del prófugo se lograre por gestiones del responsable de la
 
 No se impondrá sanción al preso que se fugue, sino cuando obre de acuerdo con otro u otros presos y se fugue alguno de ellos o cuando ejerza violencia en las personas o en las cosas, en cuyo caso la sanción aplicable será de seis meses a tres años de prisión.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2023)</small>
 
 ###### Art. 117.
 
-Se impondrán de tres meses a dos años de prisión, destitución del cargo o empleo, a los servidores públicos o agentes de la administración pública, que ordenen o permitan la salida ilegal de detenidos, procesados o sentenciados, para que por cualquier tiempo permanezcan fuera de las prisiones. La misma pena se impondrá a quien facilite la salida del arraigado del lugar señalado para su aseguramiento.
+Se impondrán de uno a cuatro años de prisión, destitución del cargo o empleo, a los servidores públicos o agentes de la administración pública, que ordenen o permitan la salida ilegal de detenidos, procesados o sentenciados, para que por cualquier tiempo permanezcan fuera de las prisiones. La misma pena se impondrá a quien facilite la evasión de las medidas cautelares impuestas al imputado.
 
 ### CAPITULO II. Quebrantamiento de sanción
 
@@ -7298,3 +7296,9 @@ P.O. 25 DE MARZO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Los ayuntamientos en coordinación con la Secretaría de Salud Jalisco y la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, deberán realizar acciones tendientes a informar y prevenir los ataques contra niñas y mujeres con ácido, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas o inflamables o cualquier otra sustancia.
+
+P.O. 3 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29181/LXIII/23 QUE REFORMA LOS ARTÍCULOS 113 Y 117 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
