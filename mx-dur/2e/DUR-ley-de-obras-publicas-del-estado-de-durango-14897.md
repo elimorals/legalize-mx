@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-obras-publicas-del-estado-de-durango-14897"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-13"
-last_updated: "2019-03-17"
+last_updated: "2023-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE OBRAS PÚBLICAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2023 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 13 de junio de 1999.
 
@@ -1306,3 +1306,25 @@ P.O. 17 DE MARZO DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 382 POR EL CUAL SE EXPIDE LA LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE DURANGO Y SUS MUNICIPIOS.”]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga la Ley de Obras Públicas del Estado de Durango publicada en el Periódico Oficial No. 47 de fecha 13 de junio de 1999, aprobada mediante Decreto N°. 146, de la LXI Legislatura y se derogan todas las disposiciones que contravengan la presente Ley.
+
+TERCERO. Dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley, el Ejecutivo Estatal deberá expedir el Reglamento de esta Ley.
+
+Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+CUARTO. Los registros de las personas físicas y morales del Registro de Padrón de Contratistas de Obra Pública, inscritas a la fecha de entrada en vigor de esta Ley, son válidos y deberán sujetarse, en lo sucesivo, a lo dispuesto en este ordenamiento.
+
+QUINTO. Los procedimientos de contratación; de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendiente de resolución se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron. Los contratos de obras públicas que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+SEXTO. Los Entes Públicos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento de esta Ley, en un plazo que no exceda de ciento ochenta días, contados a partir de la entrada en vigor de esta Ley.
+
+SÉPTIMO. La Secretaría de Contraloría del Gobierno del Estado, dispondrá de un plazo máximo de un año contado a partir de la entrada en vigor de esta Ley, para implementar los lineamientos, bases, reglas, medios de comunicación electrónica, así como las disposiciones técnicas y administrativas que prevé este ordenamiento.
+
+OCTAVO. En relación con el supuesto previsto por el articulo 5, párrafo segundo, de esta Ley, respecto de los residentes de obra que, a la fecha de entrada en vigor de este ordenamiento, ya se encuentren desempeñando dicha labor en cualquiera de los Entes Públicos, no les será aplicable tal hipótesis normativa.
