@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5063
 country: "mx"
 rank: "ley"
 publication_date: "1980-08-14"
-last_updated: "2021-12-16"
+last_updated: "2023-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2023.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 14 de Agosto de 1980.
 
@@ -159,9 +159,9 @@ El Presupuesto de Egresos del Estado comprenderá las previsiones de gasto públ
 
 El Presupuesto de Egresos del Estado comprenderá también, en Capítulo especial, las previsiones de gasto público que habrán de realizar las Entidades señaladas en las Fracciones V a VII del propio Artículo 2o., cuando se determine que sus erogaciones deben incluirse en dicho presupuesto.
 
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2023)</small>
 
-Así mismo, deberá integrar en un capítulo especial las previsiones del gasto público que habrán de realizarse para el logro de la igualdad sustantiva entre mujeres y hombres y la erradicación de la discriminación por condición de género.
+Así mismo, deberá integrar en un capítulo especial las previsiones del gasto público que habrán de realizarse para el logro de la igualdad sustantiva entre mujeres y hombres y la erradicación de la discriminación por condición de género, además de la difusión y observancia de los derechos humanos de las niñas, niños y adolescentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 1992)</small>
 
@@ -181,9 +181,9 @@ La Secretaría de Finanzas queda facultada para formular el proyecto de Presupue
 
 El proyecto de Presupuesto de Egresos del Estado se integrará con los documentos que se refieren a:
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2023)</small>
 
-I.- Descripción de los programas que sean la base del proyecto, en los que se señalen objetivo, metas y unidades responsables de su ejecución, así como la valuación estimada por programa. Considerando para ello, las erogaciones para la igualdad sustantiva entre mujeres y hombres y la erradicación de la discriminación por condición de género;
+I.- Descripción de los programas que sean la base del proyecto, en los que se señalen objetivo, metas y unidades responsables de su ejecución, así como la valuación estimada por programa. Considerando para ello, las erogaciones para la igualdad sustantiva entre mujeres y hombres y la erradicación de la discriminación por condición de género, además de los destinados a la promoción y observancia de los derechos humanos de las niñas, niños y adolescentes;
 
 II.- Explicación y comentarios de los principales programas y en especial de aquellos que abarquen dos o más ejercicios fiscales.
 
@@ -628,3 +628,11 @@ P.O. 16 DE DICIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 385.- POR EL CUAL SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 14 Y LA FRACCIÓN I DEL ARTÍCULO 17 DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan a la presente (sic).
