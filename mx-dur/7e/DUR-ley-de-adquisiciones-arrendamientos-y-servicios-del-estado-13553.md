@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1355
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2021-12-21"
+last_updated: "2023-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 1998.
 
@@ -364,6 +364,10 @@ IV. A los proveedores que presenten innovaciones tecnológicas.
 ARTÍCULO 25 BIS.- Los tres Poderes del Estado y sus dependencias; los Órganos Constitucionales Autónomos; los Organismos Descentralizados del Gobierno del Estado y los Ayuntamientos y sus Organismos Descentralizados, establecerán como obligación el uso de papel reciclado para la emisión de los documentos, así como la papelería utilizada en las oficinas, para trámites y todo tipo de comunicación que realicen los entre mencionadas (sic) y los particulares.
 
 En las adquisiciones de papel a que se refiere el párrafo anterior, éste deberá contener un mínimo de cincuenta por ciento de fibras de material reciclado, o de fibras naturales no derivadas de la madera, o de materias primas provenientes de aprovechamientos forestales manejados de manera sustentable en el territorio nacional, que se encuentren certificados por las autoridades competentes, o de sus combinaciones y elaborados en procesos con blanqueado libre de cloro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE JUNIO DE 2023)</small>
+
+Para el caso de pilas y baterías eléctricas, las adquisiciones se harán de manera exclusiva sobre dispositivos recargables, salvo cuando por estricta necesidad y por las características requeridas no exista dicha posibilidad en el mercado.
 
 ###### ARTÍCULO 26.
 
@@ -1262,3 +1266,11 @@ P.O. 21 DE DICIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Las disposiciones de esta Ley son obligatorias para los poderes del Estado, los ayuntamientos y los órganos constitucionales autónomos, por lo que en tanto se reforme, serán aplicables a éstos, todas aquellas que se refieren a las dependencias, entidades y/o ayuntamientos.
+
+P.O. 4 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 384.-·POR EL CUAL SE REFORMA EL ARTÍCULO 25 BIS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan a la presente.
