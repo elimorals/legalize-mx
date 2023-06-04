@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-para-el-estado-de-durango-69041"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-07"
-last_updated: "2019-04-11"
+last_updated: "2023-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CULTURA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de junio de 2009.
 
@@ -1179,9 +1179,7 @@ IV. Casa de Iniciación al Arte y la Cultura;
 
 V. (DEROGADA, P.O. 11 DE ABRIL DE 2019)
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
-
-VI. Escuela de la Música Mexicana;
+VI. (DEROGADA, P.O. 4 DE JUNIO DE 2023)
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
@@ -1646,3 +1644,13 @@ Los recursos humanos, materiales y financieros del Instituto de Cultura del Esta
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 383.- POR EL CUAL SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 104 DE LA LEY DE CULTURA PARA EL ESTADO DE DURANGO”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo.- Los recursos humanos, materiales y financieros de la Escuela de la Música Mexicana del Instituto de Cultura del Estado de Durango, se transfieren al área que designe la Secretaría de Educación del Estado de Durango, a más tardar el 31 de diciembre de 2024, la cual determinará la calidad con la que se adscriba ello.
+
+Tercero.- Se derogan todas las disposiciones legales y administrativas que se opongan en el presente Decreto.
