@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2023-05-08"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1483,9 +1483,9 @@ I. Elaboración de información científica sobre las causas del suicidio y su d
 
 II. Establecer y difundir ampliamente líneas de comunicación de contacto directo, atendidas por especialistas, para asistencia a víctimas potenciales y recibir denuncias preventivas de terceros;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-III. Formular recomendaciones a las autoridades de los municipios a fin de capacitar a los comerciantes de objetos comúnmente utilizados para auto infringirse lesiones con el propósito de identificar a suicidas potenciales y dar aviso a las autoridades sanitarias;
+III. Formular recomendaciones a las autoridades competentes, a fin de capacitar al personal de salud, seguridad pública, protección civil y a todo el personal de primer contacto ante emergencias, para la detección, atención, canalización y seguimiento a personas con comportamiento suicida y a sus familiares.
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
@@ -4490,3 +4490,9 @@ P.O. 8 DE MAYO DE 2023.
 ###### ARTÍCULO UNICO.
 
 El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 349.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
