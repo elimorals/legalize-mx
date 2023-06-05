@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-05-30"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1241,17 +1241,21 @@ Si el hostigador fuese servidor público y utilizare los medios o circunstancias
 
 Atentados al pudor. Los Atentados al Pudor consisten en la ejecución de actos erótico sexuales, sin consentimiento de la víctima, sin el propósito directo e inmediato de llegar a la cópula, o que se obligue a la víctima a ejecutarlos; entendiéndose por actos erótico sexuales, cualquier acción lujuriosa como caricias, manoseos y tocamientos corporales obscenos, o sin llegar al contacto físico, representen actos explícitamente sexuales, como caricias o masturbaciones.
 
-También se equipara a los Atentados al Pudor la conducta de carácter erótico sexual de quién sin llegar al contacto físico, exhiba ante la víctima, sin su consentimiento o con su consentimiento tratándose de menores de doce años, el pene, senos, glúteos o la vagina.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+También se equipará a los Atentados al Pudor la conducta de carácter erótico sexual de quién sin llegar al contacto físico, exhiba ante la víctima, sin su consentimiento o con su consentimiento tratándose de menores de quince años, el pene, senos, glúteos o la vagina.
 
-Al responsable del delito de Atentados al Pudor o Atentados al Pudor equiparado se le impondrá de 6 meses a 3 años de prisión y de 25 a 250 días multa, así como el pago de la reparación de los daños y perjuicios ocasionados. Si la víctima es mayor de doce años pero menor de 18 años de edad, al inculpado se le aplicará de 1 año con 6 meses a 3 años de prisión, de 50 a 250 días de multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+
+Al responsable del delito de Atentados al Pudor o Atentados al Pudor equiparado se le impondrá de 6 meses a 3 años de prisión y de 25 a 250 días multa, así como el pago de la reparación de los daños y perjuicios ocasionados. Si la víctima es mayor de quince años, pero menor de 18 años de edad, al inculpado se le aplicará de 1 año con 6 meses a 3 años de prisión, de 50 a 250 días de multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 Si el inculpado hiciere uso de violencia física o moral, las punibilidades referidas en el párrafo anterior incrementarán y se aplicarán de 2 a 6 años de prisión y de 100 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Si la víctima es menor de doce años de edad o por cualquier causa no puede resistir la conducta del sujeto activo, al responsable se le aplicarán de tres a seis años de prisión y de 100 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+
+Si la víctima es menor de quince años de edad o por cualquier causa no puede resistir la conducta del sujeto activo, al responsable se le aplicarán de tres a seis años de prisión y de 100 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### ARTÍCULO 116.
 
@@ -1303,11 +1307,9 @@ V. Extraer o utilizar de forma indebida, imágenes de actos de exhibicionismo co
 
 Para los efectos de este Artículo, por exhibicionismo corporal se entenderá, mostrar la vagina, pene, senos, glúteos o ano.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
-
-Al responsable de Pornografía infantil y de incapaces se le aplicarán de 7 a 14 años de prisión y de 300 a 700 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; cuando la víctima sea menor de 12 años de edad o persona que no tenga capacidad para comprender el significado del hecho o resistirlo, se le aplicarán de 8 a 15 años de prisión, de 350 a 750 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable de Pornografía infantil y de incapaces se le aplicarán de 7 a 14 años de prisión y de 300 a 700 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; cuando la víctima sea menor de quince años de edad o persona que no tenga capacidad para comprender el significado del hecho o resistirlo, se le aplicarán de 8 a 15 años de prisión, de 350 a 750 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
@@ -1315,11 +1317,11 @@ Si el inculpado es ascendiente, padrastro, o madrastra de la víctima, o habita 
 
 Si el inculpado labora en organizaciones dedicadas al cuidado o atención de menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, también se le aplicará como pena la privación del cargo, empleo o comisión que ahí desempeñe.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 118.
 
-Estupro. El estupro consiste en realizar cópula con persona mayor de catorce y menor de dieciocho años de edad, obteniendo su consentimiento por medio de seducción o engaño.
+Estupro. El estupro consiste en realizar cópula con persona mayor de quince y menor de dieciocho años de edad, obteniendo su consentimiento por medio de seducción o engaño.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
@@ -1333,9 +1335,9 @@ El pago de los alimentos se hará en la forma y términos que la ley civil fije 
 
 Violación. La Violación consiste en realizar cópula con persona de cualquier sexo, utilizando fuerza física, moral o psicológica, para lograr el sometimiento de la víctima.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
 
-Al responsable de Violación se le aplicarán de 10 a 16 años de prisión y de 100 a 200 días multa y al pago total de la reparación de los daños y perjuicios ocasionados. Si la víctima es mayor de 12 años pero menor de 18 años de edad, al responsable se le aplicarán de 12 a 18 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable de Violación se le aplicarán de 10 a 16 años de prisión y de 100 a 200 días multa y al pago total de la reparación de los daños y perjuicios ocasionados. Si la víctima es mayor de 15 años pero menor de 18 años de edad, al responsable se le aplicarán de 12 a 18 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -1349,15 +1351,17 @@ Para los efectos de este Código, se entiende por cópula la introducción del p
 
 Violación equiparada. También se equiparan a la Violación, los hechos punibles siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-I.- Realizar cópula con persona menor de catorce años de edad sin hacer uso de la fuerza física o moral;
+I.- Realizar cópula con persona menor de quince años de edad sin hacer uso de la fuerza física o moral;
 
 II.- Realizar cópula con persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirla, sin uso de la fuerza física o moral de parte del inculpado;
 
 III.- Introducir por vía vaginal o anal cualquier elemento o instrumento distinto del pene, mediante el uso de la fuerza física, moral o psicológica para el sometimiento de la víctima, sea cual fuere el sexo de ésta;
 
-IV.- El llevar a cabo la introducción descrita en la Fracción III en persona menor de doce años de edad sin hacer uso de la fuerza física o moral; o
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+IV.- El llevar a cabo la introducción descrita en la Fracción III en persona menor de quince años de edad sin hacer uso de la fuerza física o moral; o
 
 V.- El llevar a cabo la introducción descrita en la Fracción III en persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirla, sin uso de la fuerza física o moral de parte del inculpado.
 
@@ -3746,3 +3750,15 @@ P.O. 30 DE MAYO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 351.- SE REFORMAN EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La situación jurídica de las personas procesadas, sentenciadas y que estén compurgando una pena, así como los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se seguirán y resolverán con base en la norma vigente al momento en el que ocurrieron los hechos materia de ellos.
