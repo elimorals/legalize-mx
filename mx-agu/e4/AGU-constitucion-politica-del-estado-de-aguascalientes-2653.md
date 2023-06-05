@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2023-01-30"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -529,11 +529,17 @@ I.- Las personas que desempeñen cargos públicos de elección popular, sean de 
 
 II.- Los Magistrados, tanto del Supremo Tribunal de Justicia como de la Sala Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-III.- Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad o que tengan una sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado; y
+III.- Las personas a quienes por sentencia ejecutoria se les haya impuesto como pena la suspensión de los derechos o prerrogativas de los ciudadanos, o hayan sido condenadas mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género, o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia;
 
-IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto, y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+V.- La deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -847,9 +853,9 @@ III. Investigar los actos u omisiones que impliquen alguna irregularidad o condu
 
 IV. Derivado de sus investigaciones y sin perjuicio de la competencia de la Auditoría Superior de la Federación, promover las responsabilidades que sean procedentes ante la Sala Administrativa y la Fiscalía Estatal Especializada en Combate a la Corrupción para la imposición de las sanciones que correspondan a los servidores públicos y a los particulares.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
 
-Las sanciones y demás resoluciones del Órgano Superior de Fiscalización del Estado, podrán ser impugnadas por las entidades fiscalizadas y en su caso, por los servidores públicos afectados adscritos a las mismas, ante el propio Órgano Superior de Fiscalización del Estado o ante la Sala Administrativa y Electoral conforme a lo previsto en la Ley.
+Las sanciones y demás resoluciones del Órgano Superior de Fiscalización del Estado, podrán ser impugnadas por las entidades fiscalizadas y en su caso, por los servidores públicos afectados adscritos a las mismas, ante el propio Órgano Superior de Fiscalización del Estado o ante la Sala Administrativa conforme a lo previsto en la Ley.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -985,11 +991,13 @@ El ejercicio del Poder Ejecutivo se deposita en un sólo individuo que se denomi
 
 Para ser Gobernador del Estado, se requiere:
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia efectiva en él no menor de diez años inmediatamente anteriores al día de la elección.
+I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia efectiva en él no menor de diez años inmediatamente anteriores al día de la elección;
 
-II.- Estar en pleno ejercicio de sus derechos; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+II.- Estar en pleno goce y ejercicio de sus derechos; y
 
 > <small>(REFORMADA, P.O. 26 DE ENERO DE 2009)</small>
 
@@ -1001,21 +1009,25 @@ III.- Tener cuando menos treinta años cumplidos al día de la elección.
 
 No puede ser Gobernador:
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-I. El ministro de culto religioso, salvo que dejare de ser ministro de culto con la anticipación y en la forma que establece la Ley Reglamentaria del Artículo 130 de la Constitución General de la República;
+I. El ministro de culto religioso, salvo que dejare de ser ministro de culto con la anticipación y en la forma que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-II. Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar de la fecha del auto de formal prisión; durante la extinción de una pena corporal; por resolución o sentencia ejecutoria que imponga como pena la suspensión de los derechos o prerrogativas de los ciudadanos; o por tener una sentencia que haya causado estado por Faltas Administrativas Graves, en términos de la Ley de Responsabilidades Administrativas del Estado;
+II. La persona a quien por sentencia ejecutoria se le haya impuesto como pena la suspensión de los derechos o prerrogativas de los ciudadanos, o haya sido condenada mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-III. El que haya desempeñado con anterioridad ese cargo por elección popular; y
+III. La deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-IV. El servidor público sea cual fuere el origen de su designación a menos que se separe de su cargo 90 días antes de la elección.
+IV. El que haya desempeñado con anterioridad ese cargo por elección popular; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+V. El servidor público sea cual fuere el origen de su designación a menos que se separe de su cargo 90 días antes de la elección.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
@@ -1173,9 +1185,21 @@ Para el Despacho de los negocios de la Administración Pública del Estado, habr
 
 I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia efectiva en él, no menor de cinco años inmediatamente anteriores al día de la designación;
 
-II.- Estar en pleno ejercicio de sus derechos; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-III.- Ser mayor de 30 años.
+II.- Estar en pleno goce y ejercicio de sus derechos;
+
+> <small>(REFORMADA P.O. 5 DE JUNIO DE 2023)</small>
+
+III.- Ser mayor de 30 años;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+IV.- No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+V.- No haber sido condenado mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2019)</small>
 
@@ -1249,23 +1273,33 @@ El órgano jurisdiccional referido en el párrafo anterior, también será compe
 
 Para ser Magistrado se requiere:
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia en él no menor de tres años inmediatamente anteriores a la fecha de la designación.
+I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia en él no menor de tres años inmediatamente anteriores a la fecha de la designación;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-II.- Poseer Título de Licenciado en Derecho con una antigüedad mínima de diez años el día de la designación.
+II.- Poseer Título de Licenciado en Derecho con una antigüedad mínima de diez años el día de la designación;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-III.- Tener cuando menos 35 años cumplidos el día de la designación.
+III.- Tener cuando menos 35 años cumplidos el día de la designación;
 
-IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto;
 
-V.- No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Diputado Federal o Local o dirigente de Partido Político durante el año previo al día de su designación.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+V. No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Senador, Diputado Federal o Local o dirigente de Partido Político durante el año previo al día de su designación;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+VI.- No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+VII.- No ser sujeto de suspensión de los derechos o prerrogativas de los ciudadanos, ni haber sido condenado mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -1759,11 +1793,25 @@ En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absolu
 
 Para ser Presidente Municipal, Regidor o Síndico de un Ayuntamiento se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-II.- Tener 18 años cumplidos el día de la elección; y
+I.- Ser ciudadano mexicano por nacimiento, en goce y ejercicio de sus derechos;
 
-III.- Ser originario del Municipio o tener una residencia en él no menor de dos años, inmediatamente anteriores al día de la elección.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+II.- Tener 18 años cumplidos el día de la elección;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+III.- Ser originario del Municipio o tener una residencia en él no menor de dos años, inmediatamente anteriores al día de la elección;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+IV.- No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+V.- No haber sido condenado mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -3662,3 +3710,23 @@ P.O. 30 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 307.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.- SE REFORMA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 319.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, deberá realizar las adecuaciones correspondientes al Reglamento Interior de la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, a efecto de cumplimentar esta reforma.
