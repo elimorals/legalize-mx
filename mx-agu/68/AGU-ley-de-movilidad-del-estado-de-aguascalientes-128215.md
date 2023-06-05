@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2023-05-15"
+last_updated: "2023-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -4855,7 +4855,9 @@ Los agentes deberán impedir la circulación de un vehículo y ponerlo a disposi
 
 I. Cuando el conductor que cometa una infracción a la Ley, muestre síntomas claros y ostensibles de encontrarse en estado de ebriedad o bajo influjo de estupefacientes, psicotrópicos u otras substancias tóxicas, y/o cuando al circular vaya ingiriendo bebidas alcohólicas;
 
-Para efecto de la presente Ley se considera que una persona se encuentra en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos y otras sustancias tóxicas, cuando el examen que practique la dependencia autorizada para el efecto así lo revele, de acuerdo a las normas oficiales en la materia;
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+
+Para efecto de la presente Ley se considera que una persona se encuentra en estado de ebriedad o bajo influjo de estupefacientes, psicotrópicos u otras sustancias tóxicas, cuando el examen que practique el técnico operador en alcoholimetría o el personal de salud, según el caso, resulte positivo de acuerdo con lo dispuesto en esta Ley y las normas oficiales en la materia;
 
 II. Cuando el vehículo o el conductor de motocicletas no cumplan con los requisitos del Artículo 231 Fracciones VI, VIII y X;
 
@@ -4935,7 +4937,9 @@ Los agentes podrán detener la marcha de un vehículo cuando se lleven a cabo op
 
 Si al detener la marcha de un vehículo, el agente percibe que el conductor se encuentra presumiblemente en estado de ebriedad y sus condiciones no son óptimas para conducir con responsabilidad y seguridad su vehículo por la vía pública, atentamente se le solicitará que de manera voluntaria, se aplique la prueba de alcohol en aire espirado, que consistirá en que la persona realice una exhalación profunda en una boquilla de plástico esterilizada que estará conectada al alcoholímetro.
 
-El alcoholímetro es un instrumento de medición que permitirá determinar cuantitativamente si la persona se encuentra en estado de ebriedad.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+
+El alcoholímetro es un instrumento de medición que permite detectar cuantitativamente la presencia de alcohol en el aliento y además determina la concentración de alcohol en aire espirado del conductor, certificado conforme a lo establecido en las Normas Oficiales Mexicanas aplicables;
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
@@ -4967,23 +4971,33 @@ Para las personas que conduzcan motocicletas queda prohibido hacerlo con una alc
 
 Para vehículos destinados al transporte de pasajeros y de carga, queda prohibido conducir con cualquier concentración de alcohol por espiración o litro de sangre.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 292 BIS.- En el caso de que el infractor se encuentre acompañado por persona que pueda conducir bajo los términos que señala la presente Ley y éste lo autorice, el vehículo será puesto a disposición de la persona elegida, y únicamente el infractor será puesto a disposición de la autoridad competente, debiéndose tomar constancia de ello.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 293.
 
-Tratándose de menores que hayan cometido alguna infracción en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias tóxicas, los agentes deberán impedir la circulación del vehículo, reteniendo al menor para llevar a cabo las siguientes acciones:
+Tratándose de personas menores de 18 años que hayan cometido alguna infracción a la presente Ley, y los agentes perciban aliento alcohólico, signos de intoxicación alcohólica, o que estén bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares, se les impedirá continuar la conducción del vehículo y serán presentadas de manera inmediata ante el Juez Cívico, quien estará a cargo de resguardar su integridad y llevar a cabo las siguientes acciones:
 
-I. Notificar de inmediato a los padres del menor, al tutor, o a quien tenga responsabilidad legal;
+I.- Notificar de inmediato a los padres, tutor o a quien tenga la responsabilidad legal de la persona conductora menor de 18 años;
 
-II. Cancelar definitivamente el permiso haciendo la notificación al interesado; e
+II.- Apercibir a los padres, tutores o responsables legales, a que se refiere la fracción anterior de su corresponsabilidad, y que, en caso de reincidencia de la persona conductora menor de 18 años, resultaran acreedores a una multa o arresto hasta por 36 horas, derivado del incumplimiento a su deber de cuidado sobre la persona menor de edad;
 
-III. Imponer las sanciones que procedan, sin perjuicio de la responsabilidad civil que resulte.
+III.- Hacer del conocimiento mediante oficio a la Secretaria de Seguridad Pública del Estado, para que, de acuerdo con sus facultades, cancele definitivamente el permiso expedido practicando la notificación respectiva al interesado por medio de sus padres o tutores; y
+
+IV.- Imponer las sanciones que procedan, sin perjuicio de la responsabilidad civil que resulte.
 
 ###### ARTÍCULO 294.
 
 Una vez terminados los trámites relativos a la infracción, la SSP o la dependencia municipal correspondiente, según sea el caso, procederá a la entrega del vehículo cuando se cubran los derechos de traslado, si los hubiere, así como de la multa e identificación plena de propiedad.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 295.
 
-Los municipios implementarán campañas permanentes antialcohólicas a través de operativos previamente determinados, con la utilización del alcoholímetro, a efecto de verificar el estado físico de los conductores o personas que pretenden conducir, en los términos señalados en este Capítulo.
+Los municipios implementarán acciones permanentes de información para disminuir el consumo de alcohol, estupefacientes, psicotrópicos, estimulantes o sustancias que produzcan efectos similares, en la población y prevenir los accidentes viales, así como llevar a cabo operativos de prevención y seguridad vial previamente determinados en coordinación con las autoridades competentes en la materia, en los términos que señala este capítulo.
 
 ## TÍTULO DÉCIMO. INFRACCIONES Y SANCIONES
 
@@ -5982,3 +5996,11 @@ El presente decreto entrará en vigor a partir del día siguiente al de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones jurídicas que se opongan al presente decreto.
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 347.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente se (sic) su publicación en el Periódico (sic) del Estado de Aguascalientes.
