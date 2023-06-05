@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-agricola-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2023-05-08"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -170,6 +170,10 @@ II. Actividad Agrícola: Toda aplicación de las técnicas y conocimientos inher
 III. Actividades Fitosanitarias: Aquellas vinculadas con la sanidad en la producción agrícola y en la movilización, industrialización y comercialización de sus productos y subproductos, realizadas por las personas físicas o morales sujetas a los procedimientos de verificación fitosanitaria previstos en esta Ley y en las demás disposiciones aplicables;
 
 IV. Agente de Control Biológico: Parasitoide, depredador, entomopatógeno u organismos antagonistas empleados para el control y regulación de poblaciones de plagas;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+VI A. Agricultura regenerativa: Conjunto de prácticas agrícolas y de pastoreo que mejoran los recuraos que se utilizan en lugar de destruirlos o agotados, que son libres de labranza, restauran la biodiversidad del suelo, reconstruyen la materia orgánica, plantan cultivos de cobertura entre temporadas, implementan la rotación de cultivos, tienen patrones de pastoreo tradicionales, limitan al mínimo el uso de productos químicos como plaguicidas y fertilizantes, no contaminan cuerpos de agua, reforestan las tierras y mantienen los suelos como sumideros de carbono;
 
 V. Agente Patogénico: Microorganismo capaz de causar enfermedades a los vegetales;
 
@@ -575,13 +579,17 @@ LIX. Supervisar los productos y subproductos agrícolas, permitiendo o negando s
 
 LX. Fomentar y difundir entre los productores y organizaciones agrícolas cursos, seminarios, talleres y toda aquella información que les sea de utilidad a través de medios escritos y digitales, tendientes a impulsar la educación y tecnificación de la actividad agrícola;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-LXI. Promover la creación de huertos urbanos dentro de las zonas urbanas del Estado, siendo estos el elemento principal para el fomento de la Agricultura Urbana en la entidad; y
+LXI. Promover la creación de huertos urbanos dentro de las zonas urbanas del Estado, siendo estos el elemento principal para el fomento de la Agricultura Urbana en la entidad;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA , P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JUNIO DE 2023)</small>
 
-LXII. Las demás que le otorgue la presente Ley, su Reglamento y demás disposiciones relativas y aplicables.
+LXII. Fomentar la producción mediante la agricultura regenerativa que permita la protección y restauración de los suelos y sus nutrientes para garantizar la soberanía alimentaria, evitar la liberación de carbono y mantener la vegetación y su función en la regulación del clima y la protección contra la erosión; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN LXII], P.O. 5 DE JUNIO DE 2023)</small>
+
+LXIII. Las demás que le otorgue la presente Ley, su Reglamento y demás disposiciones relativas y aplicables.
 
 ###### Artículo 10.
 
@@ -1249,9 +1257,17 @@ V. Otorgar créditos puente para complementar el inicio de Actividades Agrícola
 
 VI. Fortalecer y consolidar el Fondo de Apoyo Económico Emergente;
 
-VII. Fomentar y promover el saneamiento financiero de los de la Actividad Agrícola del Estado, y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-VIII. Promover y obtener de las instituciones financieras del país como del extranjero, líneas de crédito específicas para el desarrollo de los productores del campo.
+VII. Fomentar y promover el saneamiento financiero de la Actividad Agrícola del Estado;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+VIII. Promover y obtener de las instituciones financieras del país como del extranjero, líneas de crédito específicas para el desarrollo de los productores del campo; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+IX. Fomentar y promover proyectos de agricultura regenerativa.
 
 ###### Artículo 80.
 
@@ -1966,3 +1982,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 344.- SE REFORMA LA LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
