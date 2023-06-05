@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-01-23"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -725,9 +725,9 @@ VI. La desaparición forzada de personas
 
 VII. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-VIII. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
+VIII. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso y la esclavitud de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
 
@@ -2578,3 +2578,11 @@ P.O. 23 DE ENERO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 346.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
