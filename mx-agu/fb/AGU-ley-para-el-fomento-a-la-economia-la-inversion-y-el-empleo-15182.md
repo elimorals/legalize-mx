@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2023-05-08"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -129,7 +129,9 @@ El Consejo es el órgano colegiado que tiene por objeto la consulta, asesoría, 
 
 El Consejo se integra por:
 
-I.- Un Presidente: Que será el Gobernador Constitucional del Estado;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+I.- Un titular de la presidencia: Que será la persona Titular del Poder Ejecutivo;
 
 > <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
@@ -167,7 +169,9 @@ M).- Tres representantes de las Centrales Obreras más representativas.
 
 Los miembros del Consejo tendrán voz y voto en las sesiones que celebren, y en caso de empate el Presidente tendrá voto de calidad.
 
-Los representantes del sector privado pueden ser de los sectores industrial, comercial y social, los cuales serán a invitación del Presidentes del Consejo.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+
+Los representantes del sector privado pueden ser de los sectores industrial, comercial y social. Estos representantes, así como los de las Centrales Obreras, y que hacen referencia los incisos L) y M) de la fracción III de este artículo, formarán parte a invitación de la Persona Titular de la Presidencia del Consejo. No obstante, dicha invitación deberá respetar en cada caso, el principio de paridad de género.
 
 ###### ARTICULO 10.
 
@@ -582,3 +586,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarías que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 345.- SE REFORMA LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
