@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2023-05-08"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1483,9 +1483,9 @@ I. Elaboración de información científica sobre las causas del suicidio y su d
 
 II. Establecer y difundir ampliamente líneas de comunicación de contacto directo, atendidas por especialistas, para asistencia a víctimas potenciales y recibir denuncias preventivas de terceros;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-III. Formular recomendaciones a las autoridades de los municipios a fin de capacitar a los comerciantes de objetos comúnmente utilizados para auto infringirse lesiones con el propósito de identificar a suicidas potenciales y dar aviso a las autoridades sanitarias;
+III. Formular recomendaciones a las autoridades competentes, a fin de capacitar al personal de salud, seguridad pública, protección civil y a todo el personal de primer contacto ante emergencias, para la detección, atención, canalización y seguimiento a personas con comportamiento suicida y a sus familiares.
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
@@ -4491,33 +4491,11 @@ P.O. 8 DE MAYO DE 2023.
 
 El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 19/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL TERCER TRIBUNAL COLEGIADO DEL TRIGÉSIMO CIRCUITO, CON RESIDENCIA EN AGUASCALIENTES, AGUASCALIENTES; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO INDICADO”.]
+P.O. 5 DE JUNIO DE 2023.
 
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de octubre de dos mil diecisiete, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 349.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
-
-TERCERO. El Tercer Tribunal Colegiado del Trigésimo Circuito, formará parte del Pleno del Trigésimo Circuito a partir del dieciséis de octubre de dos mil diecisiete, de conformidad con lo establecido por el Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, para lo cual informará lo conducente a las Secretarías Ejecutivas de Carrera Judicial; de Creación de Nuevos Órganos; así como de Adscripción.
-
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción XXX, número 1, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. ...
-
-I. a XXIX. ...
-
-XXX. …
-
-1. Tres tribunales colegiados con residencia en Aguascalientes.
-
-2. a 3. ...
-
-XXXI. a XXXII. ...”
-
-D.O.F. 17 DE OCTUBRE DE 2017.
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 17/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO NOVENO DE DISTRITO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS, ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
 
