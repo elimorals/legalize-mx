@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-coordinacion-hacendaria-del-estado-de-nuevo-leon-110684"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-03"
-last_updated: "2023-01-11"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,738 +21,210 @@ state: "NLE"
 ---
 # LEY DE COORDINACION HACENDARIA DEL ESTADO DE NUEVO LEON
 
-LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE APRUEBA LA MODIFICACIÓN DE LA CARTOGRAFÍA ELECTORAL FEDERAL RESPECTO DE LOS LÍMITES TERRITORIALES ENTRE LOS MUNICIPIOS DE JOQUICINGO Y TENANGO DEL VALLE, ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
+TEXTO ORIGINAL.
 
-Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de diciembre de 2015.
+Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 8 de abril de 2013.
 
-JAIME HELIODORO RODRÍGUEZ CALDERÓN, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER: Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Federal Electoral.- Consejo General.- CG80/2013.
 
-DECRETO
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE APRUEBA LA MODIFICACION DE LA CARTOGRAFIA ELECTORAL FEDERAL RESPECTO DE LOS LIMITES TERRITORIALES ENTRE LOS MUNICIPIOS DE JOQUICINGO Y TENANGO DEL VALLE, ESTADO DE MEXICO
 
-Núm ........ 022
+ANTECEDENTES
 
-Artículo Único.- Se expide la Ley de Coordinación Hacendaria del Estado de Nuevo León, para quedar como sigue:
+1. En sesión ordinaria celebrada el día 31 de enero de 2008, la Comisión Nacional de Vigilancia del Registro Federal de Electores del Instituto Federal Electoral, aprobó mediante acuerdo 2-215: 31/01/2008 los Lineamientos para los Casos de Afectación al Marco Geográfico Electoral, a través de los cuales la Dirección Ejecutiva del Registro Federal de Electores realizaría las adecuaciones a la cartografía electoral, derivado de los supuestos de afectación incluidos en dichos Lineamientos.
 
-LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN
+2. En sesión pública del 24 de noviembre de 2010, la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, resolvió el Recurso de Apelación con número de expediente SUP-RAP-113/2010, por medio del cual determinó que este Consejo General tiene la atribución concreta y directa para mantener actualizada la cartografía electoral.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+3. El día 23 de marzo de 2009, la Quincuagésima Sexta Legislatura Constitucional del Estado Libre y Soberano de México, aprobó el Decreto No. 271, por el cual se aprueba el Convenio Amistoso para la Precisión y Reconocimiento de sus Límites Territoriales, celebrado el 19 de junio de 2007, por los municipios de Tenango del Valle y Joquicingo.
 
-### CAPÍTULO ÚNICO. DEL OBJETO Y DEFINICIONES DE LA LEY
+4. Mediante oficio COC/606/2013, la Coordinación de Operación en Campo, remitió a la Secretaría Técnica Normativa, ambas de la Dirección Ejecutiva del Registro Federal de Electores, el Informe Técnico denominado “Problemática de límites municipales entre Joquicingo y Tenango del Valle, en el Estado de México. 28 de enero de 2013”, en el cual se determinó que el citado Decreto aporta elementos técnicos suficientes, para modificar la cartografía electoral.
 
-###### Artículo 1.
+5. Con fecha 29 de enero de 2013, la Secretaría Técnica Normativa, mediante oficio número DERFE/701/2013, emitió el Dictamen Jurídico en relación a la modificación de límites municipales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México, en el que se consideró que el Decreto No. 271, descrito anteriormente, constituye un documento jurídicamente válido para que con base en éste se actualice la cartografía electoral federal.
 
-La presente Ley tiene por objeto:
+6. Mediante oficio COC/0661/2013, de fecha 31 de enero de 2013, la Coordinación de Operación en Campo, remitió a la Dirección de la Secretaría de las Comisiones de Vigilancia, ambas de la Dirección Ejecutiva del Registro Federal de Electores, los dictámenes técnico y jurídico, emitidos por la Coordinación de Operación en Campo y la Secretaría Técnica Normativa, respectivamente, relativos a la modificación de límites territoriales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México, para que por su conducto fueran entregados a las representaciones de los partidos políticos acreditados ante la Comisión Nacional de Vigilancia y, en su caso, emitieran observaciones o proporcionaran información o documentación adicional al presente caso de afectación al Marco Geográfico Electoral.
 
-I. Establecer la normatividad del Sistema Estatal de Coordinación Hacendaria de Nuevo León y sus Municipios;
+7. Mediante oficio número DSCV/0277/2013, de fecha 31 de enero de 2013, la Dirección de la Secretaría de las Comisiones de Vigilancia, remitió a las representaciones de los partidos políticos acreditados ante la Comisión Nacional de Vigilancia, los dictámenes técnico y jurídico, relativos a la modificación de límites territoriales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México.
 
-II. Fijar las bases, montos, porcentajes y plazos para la distribución de las Participaciones y aportaciones que en Ingresos de carácter Federal y Estatal le correspondan a los Municipios, así como la vigilancia en el cálculo y su liquidación;
+8. El 20 de febrero de 2013, venció el término de 15 días naturales para que las representaciones de los partidos políticos acreditados a la Comisión Nacional de Vigilancia, realizaran las observaciones o, en su caso, aportaran información adicional que se consideren pertinentes.
 
-III. Establecer las reglas de colaboración administrativa entre las diversas autoridades fiscales;
+9. Mediante oficio DSCV/0505/2013 de fecha 20 de febrero de 2013, la Dirección de la Secretaría de las Comisiones de Vigilancia, comunicó a la Coordinación de Operación en Campo, ambas de la Dirección Ejecutiva del Registro Federal de Electores, que a la fecha del oficio de referencia, no se recibieron observaciones o información adicional por parte de las representaciones partidistas.
 
-IV. Constituir los organismos en materia de coordinación hacendaria y dar las bases de su organización y funcionamiento;
+10. El día 20 de febrero de 2013, la Dirección Ejecutiva del Registro Federal de Electores, emitió el “Dictamen Técnico-Jurídico sobre la modificación de la Cartografía Electoral respecto de los límites territoriales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México”.
 
-V. Fomentar la recaudación de ingresos estatales y municipales; y
+11. El día 20 de febrero de 2013, la Dirección Ejecutiva del Registro Federal de Electores, remitió a la Comisión del Registro Federal de Electores el Dictamen Técnico - Jurídico que emite la citada Dirección Ejecutiva relativo a la modificación de límites territoriales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México, así como el Proyecto de Acuerdo respectivo, para que se propusiera a este Consejo General la aprobación de esta modificación.
 
-VI. Fortalecer el desarrollo financiero de los Municipios y del Estado, en beneficio de los habitantes.
+12. En sesión extraordinaria celebrada el día 22 de febrero de 2013, la Comisión del Registro Federal de Electores, aprobó proponer a este Consejo General, la modificación de la cartografía electoral respecto de los límites territoriales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México, conforme a lo establecido en el Decreto No. 271, emitido por el Congreso del Estado de México, en términos del Dictamen Técnico-Jurídico sobre la modificación de límites territoriales entre los municipios de Joquicingo y Tenango del Valle, en esa entidad federativa.
 
-###### Artículo 2.
+CONSIDERANDOS
 
-Para efectos de esta Ley, se entenderá por:
+1. Que de conformidad con lo señalado en el artículo 41, Base V, párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos; 104; 105, párrafo 2 y 106, párrafo 1 del Código Federal de Instituciones y Procedimientos Electorales, el Instituto Federal Electoral es un organismo público autónomo, de carácter permanente, independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propios, depositario de la autoridad electoral y responsable del ejercicio de la función estatal de organizar las elecciones federales para renovar a los integrantes de los poderes Legislativo y Ejecutivo de la Unión. Dicha función estatal se rige por los principios de certeza, legalidad, independencia, imparcialidad y objetividad.
 
-I. Aportaciones Estatales: Fondos constituidos por el Estado a favor de los Municipios, establecidos en la presente Ley;
+2. Que de conformidad con lo señalado en el artículo 41, Base V, párrafo noveno de la Constitución Política de los Estados Unidos Mexicanos, el Instituto Federal Electoral, tendrá a su cargo en forma integral y directa, entre otras, las actividades relativas a la geografía electoral.
 
-II. Aportaciones Federales: Fondos de Aportaciones Federales transferidos por la Federación al Estado y a los Municipios;
+3. Que de acuerdo a lo previsto en el artículo 109 del Código Federal de Instituciones y Procedimientos Electorales, este Consejo General, en su calidad de órgano superior de dirección del Instituto Federal Electoral, es el responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad guíen todas las actividades del Instituto.
 
-III. Comisión: Comisión Estatal Permanente de Funcionarios Fiscales;
+4. Que el artículo 118, párrafo 1, inciso j) del Código de la materia, señala que este Consejo General tiene, entre otras atribuciones, la de dictar los Lineamientos relativos al Registro Federal de Electores.
 
-IV. EDEFAS: Excedentes de Ejercicios Fiscales Anteriores;
+5. Que el artículo 128, párrafo 1, inciso j) del Código Federal de Instituciones y Procedimientos Electorales, confiere a la Dirección Ejecutiva del Registro Federal de Electores, entre otras, la atribución de mantener actualizada la cartografía electoral del país, clasificada por entidad, distrito electoral federal, municipio y sección electoral.
 
-V. INEGI: Instituto Nacional de Estadística y Geografía;
+6. Que de conformidad con lo dispuesto en el artículo 171, párrafo 1 del Código Federal de Instituciones y Procedimientos Electorales, el Instituto Federal Electoral prestará por conducto de la Dirección Ejecutiva del Registro Federal de Electores y por conducto de sus Vocalías Locales y Distritales, los servicios inherentes al Registro Federal de Electores.
 
-VI. Ley de Coordinación Fiscal: Ley de Coordinación Fiscal, de carácter federal;
+7. Que el párrafo 2, del citado artículo, señala que el Registro Federal de Electores es de carácter permanente y de interés público, y tiene por objeto cumplir con lo previsto en el artículo 41 constitucional sobre el Padrón Electoral.
 
-VII. Participaciones Estatales: Participaciones que los Municipios perciben por parte del Gobierno del Estado con respecto a los Ingresos de carácter estatal;
+8. Que de conformidad con lo dispuesto en el artículo 61, fracciones I y XXV de la Constitución Política del Estado Libre y Soberano de México, el H. Congreso del Estado de México aprobó el Decreto No. 271, mismo que ha quedado descrito en el antecedente 3 del presente Acuerdo, mediante el cual se aprueba el Convenio Amistoso que redefine los límites municipales de Joquicingo y Tenango del Valle, en el Estado de México.
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2016)</small>
+9. Que la Comisión Nacional de Vigilancia, mediante acuerdo 2-215: 31/01/2008, aprobó los Lineamientos para los Casos de Afectación al Marco Geográfico Electoral, a través de los cuales la Dirección Ejecutiva del Registro Federal de Electores realizará las adecuaciones a la cartografía electoral, derivado de los supuestos de afectación incluidos en dichos Lineamientos.
 
-VIII. Participaciones Federales: Participaciones que el Estado percibe de la Federación y se encuentran contempladas bajo el rubro denominado participaciones en la Ley de Ingresos del Estado; siendo las siguientes: el Fondo General Participaciones, Fondo de Fiscalización, Fondo de Extracción de Hidrocarburos, Impuesto Especial sobre Producción y Servicios, Impuesto sobre venta de Gasolinas e Impuesto sobre Automóviles Nuevos;
+10. Que la Coordinación de Operación en Campo de la Dirección Ejecutiva del Registro Federal de Electores, emitió un dictamen técnico, con base en el numeral 16 de los Lineamientos para los Casos de Afectación al Marco Geográfico Electoral, mismo que se consigna en el Informe Técnico denominado “Problemática de límites municipales entre Joquicingo y Tenango del Valle, en el Estado de México. 28 de enero de 2013”.
 
-IX. Reunión: Reunión Estatal de Funcionarios Fiscales;
+Que el Informe Técnico, en su apartado VI. Conclusiones, se advierte que dicho Decreto aporta los elementos técnico (sic) suficientes para que con base en éste se modifique la cartografía electoral respecto de los municipios de Joquicingo y Tenango del Valle, en el Estado de México, resaltando que esta propuesta de afectación se da en el marco de los trabajos de Distritación que actualmente se llevan a cabo en este Instituto.
 
-X. Secretaría: Secretaría de Finanzas y Tesorería General del Estado de Nuevo León;
+11. Que la Secretaría Técnica Normativa de la Dirección Ejecutiva del Registro Federal de Electores, emitió el Dictamen Jurídico, en términos de lo señalado en el numeral 18 de los Lineamientos citados, una vez realizado el análisis jurídico del Decreto No. 271, mediante el cual se determinan los límites territoriales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México.
 
-XI. Secretario: Secretario de Finanzas y Tesorero General del Estado de Nuevo León; y
+En el dictamen jurídico referido, se advierte que, el Decreto 271 fue emitido por la autoridad competente para legislar en materia de división territorial del estado, a fin de fijar el territorio, límites y extensión que corresponda a cada municipio, en el Estado de México, de conformidad con lo establecido en el artículo 61, fracciones I y XXV de la Constitución Política del Estado Libre y Soberano de México; 4 de la Ley Orgánica Municipal, así como 13, 14 y 15 de la Ley para la Creación de Municipios del Estado de México, por lo que dicho instrumento es jurídicamente válido para que con base en éste, se actualice la cartografía electoral federal respecto a la modificación de límites territoriales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México.
 
-XII. Sistema: Sistema Estatal de Coordinación Hacendaria.
+12. Que en términos de lo dispuesto en el artículo 202, párrafo 2, del Código Federal de Instituciones y Procedimientos Electorales, en concordancia con lo señalado en el numeral 22 de los Lineamientos para los Casos de Afectación del Marco Geográfico Electoral, la Comisión Nacional de Vigilancia, conocerá de los trabajos que la Dirección Ejecutiva del Registro Federal de Electores realice en materia de demarcación territorial.
 
-###### Artículo 3.
+13. Que la Dirección de la Secretaría de las Comisiones de Vigilancia remitió a las representaciones de los partidos políticos acreditadas ante la Comisión Nacional de Vigilancia, los dictámenes técnico y jurídico, emitidos por la Coordinación de Operación en Campo y la Secretaría Técnica Normativa, ambas de la Dirección Ejecutiva del Registro Federal de Electores, sobre la modificación de límites territoriales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México, con la finalidad de que formularan observaciones o manifestaciones.
 
-La presente Ley, será aplicable en tanto no contravenga las obligaciones hacendarias del Estado y los Municipios que deriven de la legislación federal vigente en materia, de Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, de Colaboración Administrativa y sus respectivos Anexos, así como demás instrumentos que el Estado celebre con la Federación.
+14. Que la Dirección de la Secretaría de las Comisiones de Vigilancia, comunicó a la Coordinación de Operación en Campo, ambas de la Dirección Ejecutiva del Registro Federal de Electores, que transcurrido el término de 15 días naturales, las representaciones partidistas acreditadas ante la Comisión Nacional de Vigilancia, no formularon observación alguna, tal y como se precisa en el antecedente 9 de este instrumento legal.
 
-## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE COORDINACIÓN HACENDARIA
+15. Que la Dirección Ejecutiva del Registro Federal de Electores, emitió el “Dictamen Técnico-Jurídico sobre la Modificación de la Cartografía Electoral respecto de los Límites Territoriales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México”, en el cual se concluye que el Decreto No. 271, expedido por el Congreso de dicha entidad federativa, constituye un instrumento jurídicamente válido para proceder a la actualización del Marco Geográfico Electoral.
 
-### CAPITULO PRIMERO. DE LOS ORGANISMOS DEL SISTEMA ESTATAL DE COORDINACIÓN HACENDARIA
+16. Que en sesión pública de fecha 24 de noviembre de 2010, la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, resolvió el Recurso de Apelación con número de expediente SUP-RAP-113/2010, por medio del cual en la parte considerativa determinó lo siguiente:
 
-###### Artículo 4.
+“…desde el plano Constitucional, una atribución concreta y directa del Consejo General del Instituto Federal Electoral, encaminada a definir las cuestiones inherentes a la geografía electoral, para lo cual, […] a través de su Consejo General será quien emita los Lineamientos relativos y apruebe los acuerdos atenientes a este tema; lo anterior, sin perjuicio de auxiliarse <como lo permite discernir la intelección de los citados arábigos 128 y 118, en las porciones normativas insertas>, en lo concerniente a la realización de los estudios y proyectos, en un órgano ejecutivo central, como lo es la Dirección Ejecutiva del Registro Federal de Electores, la cual, acorde a su naturaleza de órgano ejecutivo, implementará la decisión que al efecto adopte el Consejo General de mérito
 
-El Ejecutivo del Estado a través de la Secretaría y los Municipios, por medio de sus Tesoreros Municipales participarán en la organización, desarrollo, vigilancia y evaluación del Sistema, a través de:
+…”.
 
-I. La Reunión Estatal de Funcionarios Fiscales; y
+17. Que en términos del criterio sustentado en el fallo recaído en el Recurso de Apelación con número de expediente SUP-RAP-113/2010, se advierte que el órgano facultado para determinar la afectación al Marco Geográfico Electoral es el Consejo General del Instituto Federal Electoral y, la Dirección Ejecutiva del Registro Federal de Electores es el órgano encargado de ejecutar las determinaciones del máximo órgano de dirección, en ésta materia.
 
-II. La Comisión Estatal Permanente de Funcionarios Fiscales.
+18. Que la Comisión del Registro Federal de Electores, en sesión extraordinaria, celebrada el día 22 de febrero de 2013, aprobó proponer a este Consejo General, la modificación de la cartografía electoral respecto de los límites territoriales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México, conforme al dictamen Técnico-Jurídico emitido por la Dirección Ejecutiva del Registro Federal de Electores.
 
-###### Artículo 5.
+19. Que en virtud de que, el artículo 118, párrafo 1, inciso j) del Código Federal de Instituciones y Procedimientos Electorales otorga al Consejo General del Instituto Federal Electoral la facultad para aprobar los Lineamientos relativos al Registro Federal de Electores y toda vez que, el Tribunal Electoral del Poder Judicial de la Federación se pronunció en el sentido de establecer que éste órgano máximo de dirección es la autoridad facultada para determinar la actualización de la cartografía electoral, es menester que este Consejo General apruebe la modificación de la cartografía electoral respecto de los límites territoriales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México.
 
-La Reunión se integrará por el Secretario, los Subsecretarios de Ingresos y de Egresos de la Secretaría y por los Tesoreros de los Municipios, teniendo por objeto definir los fundamentos de una política tributaria integrada que favorezca la eficiencia de la administración hacendaria y el desarrollo armónico del Estado de Nuevo León y los Municipios.
+20. Que de conformidad con lo dispuesto por los artículos 117, párrafo 1; 119, párrafo 1, inciso p) y 120, párrafo 1, inciso k) del Código Federal de Instituciones y Procedimientos Electorales, este Consejo General considera conveniente que el Consejero Presidente instruya a la Secretaría Ejecutiva a efecto de que provea lo necesario para que el presente Acuerdo sea publicado en el Diario Oficial de la Federación.
 
-###### Artículo 6.
+En razón de las consideraciones expresadas y con fundamento en los artículos 41, Base V, párrafo segundo y noveno de la Constitución Política de los Estados Unidos Mexicanos; 104; 105 párrafo 2; 106, párrafo 1; 109; 117, párrafo 1; 118, párrafo 1, inciso j); 119, párrafo 1, inciso p); 120, párrafo 1, inciso k); 128, párrafo1, inciso j); 171, párrafos 1 y 2 y 202, párrafo 2 del Código Federal de Instituciones y Procedimientos Electorales; 61, fracción I y XXV de la Constitución Política del Estado de México; numerales 16 y 22 de los Lineamientos para los Casos de Afectación al Marco Geográfico Electoral, este Consejo General emite el siguiente:
 
-La Reunión sesionará cuando menos una vez al año, misma que será convocada por la Comisión a propuesta del Secretario.
+ACUERDO
 
-###### Artículo 7.
+PRIMERO. El Consejo General del Instituto Federal Electoral aprueba la modificación de la cartografía electoral federal respecto de los límites territoriales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México, conforme a lo establecido en el “Dictamen Técnico-Jurídico sobre la modificación de la cartografía electoral respecto de los límites territoriales entre los municipios de Joquicingo y Tenango del Valle, en el Estado de México”, el cual se acompaña al presente Acuerdo y forma parte integral del mismo.
 
-La Reunión tendrá las siguientes facultades:
+SEGUNDO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores, al órgano delegacional y los subdelegacionales en el Estado de México, realicen las actividades necesarias conforme a sus atribuciones, para la instrumentación del presente Acuerdo.
 
-I. Aprobar las reglas de funcionamiento de la Reunión y de la Comisión;
+TERCERO. Hágase del conocimiento de la Comisión Nacional de Vigilancia, lo resuelto en este Acuerdo.
 
-II. Aprobar el informe de las actividades de la Comisión;
+CUARTO. Publíquese en el Diario Oficial de la Federación.
 
-III. Elegir a los Municipios que representen a los grupos 1 y 2, que establece el artículo 9, en la Comisión;
+El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 27 de febrero de dos mil trece, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctor Lorenzo Córdova Vianello, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Francisco Javier Guerrero Aguirre, Doctora María Marván Laborde, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita.
 
-IV. Evaluar el comportamiento de las Participaciones y Aportaciones Federales y Estatales que se distribuyan entre los Municipios, la aplicación de la legislación fiscal y administrativa y la evolución recaudatoria de los Municipios;
+El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
-V. Desarrollar un programa de asistencia, capacitación, difusión y cooperación técnica entre el Estado y los Municipios;
+DICTAMEN TECNICO-JURIDICO SOBRE LA MODIFICACION DE LA CARTOGRAFIA ELECTORAL RESPECTO DE LOS LIMITES TERRITORIALES ENTRE LOS MUNICIPIOS DE JOQUICINGO Y TENANGO DEL VALLE, EN EL ESTADO DE MEXICO.
 
-VI. Establecer las aportaciones ordinarias y extraordinarias que deben cubrir el Estado y los Municipios, para el sostenimiento de los órganos señalados en este Capítulo; siendo la aportación del Estado de por lo menos el 50% y el monto restante será cubierto por los Municipios en términos del coeficiente de participación del Fondo General de Participaciones del año fiscal previo;
+I. ANTECEDENTES
 
-VII. Resolver con respecto a diferencias que se den en relación al cumplimiento de los Convenios de Coordinación y Colaboración Administrativa que se celebren entre el Estado y los Municipios, previo análisis y opinión de la Comisión; y
+En seguimiento a los trabajos de afectación al Marco Geográfico Electoral derivados de la creación de municipios o modificación de límites municipales, la Vocalía Estatal del Registro Federal de Electores en el Estado de México, remitió un informe técnico relativo a la problemática de límites entre los municipios de Joquincingo (sic) y Tenango del Valle, misma que se origina por la publicación el 23 de marzo de 2009 en la Gaceta del Gobierno del Estado de México, del Decreto No. 271, el cual establece lo siguiente:
 
-VIII. Las demás que sean necesarias conforme a las leyes, para la organización y funcionamiento eficientes de la Reunión, la Comisión y el Sistema.
+DECRETO NUMERO 271
 
-###### Artículo 8.
+LA H. “LVI” LEGISLATURA DEL ESTADO DE MEXICO
 
-La Comisión tendrá por objeto vigilar de manera permanente que la distribución de las Participaciones y Aportaciones en Ingresos Federales y Estatales, que corresponden a los Municipios, se ajusten a las bases, montos y plazos que esta Ley establece, así como realizar los estudios y análisis que coadyuven al funcionamiento eficiente del Sistema, para ello tendrá las siguientes facultades:
+DECRETA:
 
-I. Analizar la legislación fiscal municipal y estatal, así como las disposiciones administrativas tendientes a proveer a su cabal ejecución para el mejor desarrollo del Sistema, así como de la aplicación de las mismas;
+###### ARTICULO PRIMERO.
 
-II. Proponer a través de grupos de trabajo, medidas técnicas para fortalecer las haciendas públicas estatal y municipal, mejorando su organización y elevar la eficiencia de su funcionamiento recaudatorio;
+Con fundamento en lo establecido en el artículo 61 fracción XXV de la Constitución Política del Estado Libre y Soberano de México, se aprueba el Convenio Amistoso para la Precisión y Reconocimiento de sus Límites Territoriales celebrado el 19 de junio de 2007, por los municipios de Tenango del Valle y Joquicingo.
 
-III. Estudiar los mecanismos y fórmulas de distribución de las Participaciones y Aportaciones en Ingresos Federales y Estatales, buscando siempre que se cumplan los criterios de equidad y proporcionalidad establecidos en las (sic) normatividad aplicable;
+###### ARTICULO SEGUNDO.
 
-IV. Proponer medidas encaminadas a mejorar las relaciones de colaboración administrativa entre las haciendas municipales y del Estado;
+Los municipios de Tenango del Valle y Joquicingo, están de acuerdo en realizar trabajos conjuntos de amojonamiento y señalización sobre la línea limítrofe en un 50% cada uno, en los puntos estratégicos que señalen por conducto de los representantes que designen para tal efecto.
 
-V. Fortalecer los programas de capacitación, adiestramiento, desarrollo de personal y de intercambio tecnológico;
+###### ARTICULO TERCERO.
 
-VI. Colaborar en la solución de controversias entre los Municipios y el Estado, en materia de competencias tributarias, Coordinación Hacendaría, Participaciones en Ingresos Federales y Estatales y Aportaciones en Ingresos Estatales que corresponden a los Municipios;
-
-VII. Vigilar el cumplimiento de los Convenios de Coordinación y Colaboración Administrativa que se celebren entre el Estado y los Municipios; y
-
-VIII. Los demás que se requieran para el desarrollo de sus funciones, de acuerdo a lo establecido en la presente Ley y normativa aplicable.
-
-###### Artículo 9.
-
-La Comisión, será un órgano técnico integrado por el Secretario, el Subsecretario de Ingresos y el Subsecretario de Egresos, ambos de la Secretaría, y por los representantes de los grupos de Municipios, como a continuación se describe:
-
-Tres del Grupo 1, conformado por: Allende, Aramberri, Cadereyta Jiménez, China, Doctor Arroyo, Galeana, General Bravo, General Terán, Hualahuises, Iturbide, Linares, Mier y Noriega, Montemorelos, Los Ramones, Rayones, Santiago y Zaragoza.
-
-Tres del Grupo 2, conformado por: Abasolo, Agualeguas, Los Aldama, Anáhuac, Bustamante, El Carmen, Cerralvo, Ciénega de Flores, Doctor Coss, Doctor González, General Treviño, General Zuazua, Los Herrera, Hidalgo, Higueras, Lampazos, Marín, Melchor Ocampo, Mina, Parás, Pesquería, Sabinas Hidalgo, Salinas Victoria, Vallecillo y Villaldama.
-
-Un representante de cada uno de los Municipios que conforman el Grupo 3: Apodaca, García, General Escobedo, Guadalupe, Juárez, Monterrey, San Pedro Garza García, San Nicolás de los Garza y Santa Catarina.
-
-La Comisión será presidida por el Secretario, quien podrá ser suplido por el Subsecretario de Ingresos de la Secretaría.
-
-Los Municipios que integren la Comisión serán electos por la Reunión, a excepción del Grupo 3, del cual todos los Municipios serán miembros de la misma.
-
-###### Artículo 10.
-
-Los Municipios, que integran la Comisión, serán representados por sus respectivos Tesoreros Municipales. Estos solo podrán ser suplidos en las reuniones de la Comisión por funcionarios del área de Tesorería que tenga el nivel de director, de preferencia el de Ingresos.
-
-Los Municipios que representen a los Grupos 1 y 2, durarán en su encargo un periodo de un año, no pudiendo ser reelectos para el periodo inmediato.
-
-###### Artículo 11.
-
-La Comisión celebrará sesiones trimestrales, durante el mes siguiente al cierre del trimestre previo de manera ordinaria y en forma extraordinaria las que sean necesarias: Las primeras serán convocadas por el Secretario, y las segundas podrán ser convocadas por el mismo o por los representantes de la mayoría de los Municipios que integren la Comisión.
-
-### CAPÍTULO SEGUNDO. DE LOS CONVENIOS DE COORDINACIÓN
-
-###### Artículo 12.
-
-El Estado y los Municipios podrán celebrar convenios de coordinación en materia de recaudación y administración de participaciones federales y estatales y aportaciones estatales y estatales (sic) que correspondan a estos últimos, siempre y cuando no contravenga lo establecido en la Ley de coordinación Fiscal.
-
-En los convenios a que se refiere este artículo se establecerán los ingresos de que se trate, facultades, derechos y obligaciones que les correspondan, así como las estipulaciones para su terminación y las sanciones por incumplimiento y se fijarán los incentivos que se recibirán por las actividades de administración de participaciones y aportaciones federales. Dichos convenios se publicarán en el Periódico Oficial del Estado y surtirán sus efectos a partir del día siguiente o en las fechas que en el propio convenio se establezcan.
-
-El Ejecutivo del Estado y los Ayuntamientos podrán dar por terminados parcial o totalmente los convenios a que se refiere este precepto, terminación que será publicada en el Periódico Oficial del Estado y tendrá efectos conforme al párrafo anterior.
-
-La falta de entero en los plazos establecidos dará lugar a que las cantidades se actualicen y causen recargos conforme a lo previsto en el Código Fiscal del Estado para el pago de contribuciones a plazos y en su caso por lo se establezca por el Congreso de la Unión para el caso de contribuciones.
-
-###### Artículo 13.
-
-El Ejecutivo del Estado podrá celebrar convenios de colaboración administrativa con los Municipios, entre otras, sobre las siguientes materias:
-
-I. Registro Estatal de Contribuyentes;
-
-II. Recaudación, notificación, cobranza, verificación y fiscalización respecto de contribuciones estatales coordinadas, e ingresos coordinados conforme a lo señalado por el respectivo Convenio de Colaboración Administrativa en Materia Fiscal Federal;
-
-III. Asistencia al Contribuyente;
-
-IV. Catastro;
-
-V. Capacitación;
-
-VI. Desarrollo de sistemas de informática para la recaudación de contribuciones estatales y municipales;
-
-VII. Vigilancia del cumplimiento de obligaciones fiscales;
-
-VIII. Determinación de impuestos y de sus accesorios;
-
-IX. Imposición y condonación de multas;
-
-X. Intercambio de información respecto de ingresos y actividades coordinadas;
-
-XI. Convenios de colaboración respecto de puentes de peaje operados por el Estado;
-
-XII. Modernización administrativa;
-
-XIII. Administración de contribuciones; y
-
-XIV. Otras actividades que sean afines al Estado y a los Municipios.
-
-Las autoridades fiscales estatales o municipales, en el ejercicio de sus facultades a través de los convenios a que se refiere este capítulo, serán considerados como autoridades, procediendo las reglas y medios de defensa que se establezcan en las leyes especiales y generales así como de aquellos que deriven de la presente ley.
-
-## TÍTULO TERCERO. DE LAS PARTICIPACIONES FEDERALES Y ESTATALES
-
-### CAPÍTULO PRIMERO. DE LAS PARTICIPACIONES FEDERALES
-
-###### Artículo 14.
-
-De las participaciones federales que en los términos de la Ley de Coordinación Fiscal reciba el Estado, corresponderán a los Municipios:
-
-A. El 20% de los siguientes conceptos:
-
-1.- Participaciones Federales del Fondo General de Participaciones.
-
-2.- Participaciones del Fondo de Fiscalización y Recaudación.
-
-3.- Impuesto sobre Automóviles Nuevos.
-
-4.- Fondo de Compensación del Impuesto Sobre Automóviles Nuevos (ISAN)
-
-5.- Impuesto Especial sobre Producción y Servicios.
-
-6.- Fondo de Extracción de Hidrocarburos.
-
-B. El 100% del Fondo de Fomento Municipal.
-
-Las participaciones referidas en este artículo se distribuirán conforme a las siguientes reglas:
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-I.- La suma de los conceptos señalados en los incisos A y B anteriores, excepto el Impuesto Especial sobre Producción y Servicios en el caso de las cuotas a la Venta Final de Gasolinas y Diésel, establecida en el artículo 2 A fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, con excepción del 30% del excedente del Fondo de Fomento Municipal para aquellos municipios coordinados en materia de impuesto predial, en términos del artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, se distribuirá entre los Municipios mediante tres fórmulas, la primera con una ponderación del 50%, la segunda un 25% y la tercera un 25% de dicha suma: 1) Una fórmula tendiente a distribuir los recursos en función del monto y la eficiencia de la recaudación del Impuesto Predial, establecida en el numeral 1, de esta fracción; 2) Una fórmula que se basa en la población de cada Municipio ponderada con la extensión de su territorio, que se explica en el numeral 2 de esta fracción; y 3) Una fórmula que asigna recursos en función de las carencias de la población, además de resarcir por (sic) el esfuerzo en disminuir el rezago social, establecida en el numeral 3 de esta fracción.
-
-1.- La fórmula para determinar lo que corresponderá a cada Municipio por monto y eficiencia de la recaudación del Impuesto Predial será:
-
-> <small>N. DE E. VÉASE FÓRMULA EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINAS DE LA 13 A LA 14.</small>
-
-La información de la recaudación del Impuesto Predial se tomará de la recaudación efectivamente pagada al Municipio en el ejercicio fiscal t-1, independientemente del ejercicio fiscal en que se haya causado, incluyendo recargos, sanciones, multas y gastos de ejecución.
-
-Las cifras de recaudación del Impuesto Predial deberán ser enviadas por los Municipios a la Dirección de Coordinación y Planeación Hacendaria de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Tesorería General del Estado, en el término de los diez días siguientes de que se les remita a los Municipios el formato conducente que se les proporcione para tal efecto. En caso contrario, se tomarán provisionalmente los datos más recientes de que disponga dicha Secretaría.
-
-Para efectos de esta fórmula y determinar la base gravable del impuesto predial de cada Municipio, se tomará la información de los expedientes catastrales que obran en la Secretaría de Finanzas y Tesorería General del Estado, respecto al ejercicio fiscal t-2.
-
-El monto para cada Municipio se obtendrá multiplicando el resultado del coeficiente obtenido para cada uno de ellos por el monto de recursos a distribuir con base en esta fórmula.
-
-2.- La fórmula para determinar lo que corresponderá a cada Municipio por población ponderada por territorio será:
-
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 17.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA, P.O. 31 DE DICIEMBRE DE 2018, PÁGINA 11.]</small>
-
-Para determinar la superficie territorial, se tomará la última información oficial que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía.
-
-El monto para cada Municipio se obtendrá multiplicando el resultado del coeficiente obtenido para cada uno de ellos por el monto de recursos a distribuir con base en esta fórmula.
-
-3.- La fórmula para determinar lo que corresponderá a cada Municipio por su índice de pobreza municipal será:
-
-> <small>N. DE E. VÉASE FÓRMULA EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINAS DE LA 17 A LA 19.</small>
-
-El monto para cada Municipio se obtendrá multiplicando el resultado del CMIPi,t para cada uno de ellos por el monto de recursos a distribuir con base en la fórmula.
-
-La participación que le corresponda a los Municipios del Fondo de Fiscalización se distribuirá en forma trimestral.
-
-II.- La participación mensual de cada municipio en los ingresos derivados de la aplicación de las cuotas a la Venta Final de Gasolinas y Diésel, previstas en el artículo 2o.-A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios, se calculará conforme a la siguiente fórmula:
-
-> <small>N. DE E. VÉASE FÓRMULA EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINAS DE LA 20 A LA 21.</small>
-
-> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-III.- La participación del 30% del excedente del Fondo de Fomento Municipal para aquellos municipios coordinados en materia de impuesto predial en términos del artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, se distribuirá entre aquellos municipios que celebren convenio en materia de administración del impuesto predial con el Estado, mediante tres fórmulas, la primera con una ponderación del 50%, la segunda un 30% y la tercera un 20%, como sigue: 1) Una fórmula tendiente a distribuir los recursos en función de la eficiencia en la recaudación del Impuesto Predial, establecida en el numeral 1, de esta fracción; 2) Una fórmula que se basa en el crecimiento de la recaudación del impuesto predial de cada Municipio, que se explica en el numeral 2 de esta fracción; y 3) Una fórmula que asigna recursos en función de la recaudación efectiva de Impuesto Predial de cada Municipio, establecida en el numeral 3 de esta fracción.
-
-1.- La fórmula para determinar lo que corresponderá a cada Municipio por eficiencia en la recaudación del Impuesto Predial será:
-
-> <small>[N. DE E.VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 12 A LA 13.]</small>
-
-2.- La fórmula para determinar lo correspondiente a cada municipio por crecimiento de recaudación del Impuesto Predial será:
-
-> <small>[N. DE E.VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 13 A LA 15.]</small>
-
-3.- La fórmula para determinar lo correspondiente a cada municipio por recaudación efectiva de Impuesto Predial será:
-
-> <small>[N. DE E.VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINA 15.]</small>
-
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-Para efectos de esta fracción, la información de la recaudación del Impuesto Predial se tomará de la recaudación efectivamente pagada al Municipio en el ejercicio fiscal t-1, independientemente del ejercicio fiscal en que se haya causado, incluyendo recargos, sanciones, multas y gastos de ejecución.
-
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-Las cifras de recaudación del Impuesto Predial deberán ser enviadas por los Municipios a la Dirección de Coordinación y Planeación Hacendaria de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Tesorería General del Estado, en el término de los diez días hábiles siguientes, de que se les remita a los Municipios el formato conducente, que se les proporcione para tal efecto. En caso contrario, se tomarán provisionalmente los datos más recientes de que disponga dicha Secretaría.
-
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
-
-Para efectos de determinar la base gravable del impuesto predial de cada Municipio, se tomará la información de los expedientes catastrales que obran en el Instituto Registral y Catastral del Estado, respecto al ejercicio fiscal t-1. En caso contrario, se tomarán provisionalmente los datos más recientes de que disponga dicho Instituto.
-
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2023)</small>
-
-###### Artículo 14 Bis.
-
-La autoridad que incumpla en la entrega de las participaciones y aportaciones federales que les corresponden a los Municipios, se actualizará la falta establecida en el artículo 57 de la Ley de Responsabilidades Administrativas del Estado de Nuevo León, misma que deberá ser investigada y sancionada por la Auditoría Superior del Estado; lo anterior con independencia de que se generen a favor de los Municipios los intereses a que haya lugar.
-
-###### Artículo 15.
-
-Los Municipios cuando así corresponda, además de las Participaciones establecidas en el Artículo 14° de esta Ley, recibirán las referidas en el Artículo 2-A, fracciones I y II de la Ley de Coordinación Fiscal.
-
-### CAPÍTULO SEGUNDO. DE LAS PARTICIPACIONES ESTATALES
-
-###### Artículo 16.
-
-La participación municipal del Impuesto Sobre Nómina será del 6.28% de la cantidad que efectivamente recaude el Estado por este concepto y se distribuirá entre los Municipios, de la siguiente forma:
-
-I.- El 50% en proporción a la recaudación del Impuesto Sobre Nóminas que durante el ejercicio fiscal previo se haya obtenido en cada Municipio, respecto de la recaudación total de dicho Impuesto en el Estado; y
-
-II.- El 50% con base a lo establecido en la fracción I del artículo 14 de esta Ley.
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
-
-Los recursos señalados en este artículo serán ministrados en forma mensual durante los primeros 5 días hábiles del mes, publicándose la información de manera trimestral en el Periódico Oficial del Estado, remitiendo trimestralmente dicha información al Congreso del Estado en forma impresa y en formato electrónico de texto modificable de base de datos, en el mes siguiente al del trimestre que corresponda. Así mismo dicha información deberá difundirse en el portal de Internet del Gobierno del Estado en forma mensual, en el mes siguiente al periodo a que corresponda.
-
-Los montos que reciban los Municipios por concepto de participación del Impuesto Sobre Nómina, se destinarán exclusivamente a programas, proyectos y acciones tendientes a garantizar la seguridad pública en el respectivo municipio.
-
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Tesorería General del Estado, considerando las necesidades presupuestarias de los Municipios y las condiciones en que se prestan los servicios de seguridad pública, podrá autorizar la aplicación total o parcial de estos fondos a otros programas de gasto público municipal. Lo dispuesto en este párrafo no tendrá aplicación respecto de los Municipios de Apodaca, García, General Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina.
-
-La programación de la distribución de los recursos a que se refiere el presente artículo en cuanto a los plazos, se deberá publicar en el Periódico Oficial del Estado a más tardar el último día hábil del mes de marzo de cada ejercicio.
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
-
-Estos recursos serán distribuidos durante los primeros 5 días hábiles del mes posterior al mes en que se realice la recaudación.
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
-
-De no efectuarse la entrega de estos recursos dentro del plazo referido, a partir del día 6 del mes posterior al mes en que se realice la recaudación el retraso dará lugar al pago de intereses, a la tasa de recargos que en el Código Fiscal del Estado se establece para los casos de pagos a plazos de contribuciones, además de representar una causa de responsabilidad administrativa del funcionario que en forma injustificada retrase la entrega de dichos recursos.
-
-###### Artículo 17.
-
-El Ejecutivo del Estado participará a los Municipios de un 0.6 cuotas por concepto de los Derechos de Control Vehicular por cada vehículo que realice el pago según su domicilio registrado.
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
-
-Dicha participación se realizará mensualmente a los Municipios durante los primeros 5 días hábiles posteriores al mes en que se recaude.
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
-
-De no efectuarse la entrega de estos recursos dentro del plazo referido, a partir del día 6 el retraso dará lugar al pago de intereses, a la tasa de recargos que se establece en el Código Fiscal del Estado para los casos de pagos a plazos de contribuciones, además de representar una causa de responsabilidad administrativa del funcionario que en forma injustificada retrase la entrega de dichos recursos.
-
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2023)</small>
-
-###### Artículo 17 Bis.
-
-La autoridad que incumpla en la entrega de las participaciones estatales que les corresponden a los municipios, se actualizará la falta establecida en el artículo 57 de la Ley de Responsabilidades Administrativas del Estado de Nuevo León, misma que deberá ser investigada y sancionada por la Auditoría Superior del Estado; lo anterior con independencia de que se generen a favor de los municipios los intereses a que haya lugar.
-
-### CAPÍTULO TERCERO. PREVENCIONES GENERALES DE LAS PARTICIPACIONES FEDERALES Y ESTATALES
-
-###### Artículo 18.
-
-Si en cualquier fórmula de las previstas en los artículos 14 y 16 de esta Ley se hubiere utilizado información provisional por no disponerse de la definitiva, los cálculos se actualizarán en cuanto se disponga de ésta. También se actualizarán en el caso de que se efectúen devoluciones, respecto de las contribuciones a repartir o utilizadas de base para el cálculo de las participaciones.
-
-En caso de que alguna de las reglas contenidas en los artículos 14 y 16 de esta Ley admitiere diversas interpretaciones en cuanto a la forma de realizar los cálculos o procedimientos en ella establecidos, se utilizará la interpretación que resulte del análisis realizado por la Comisión.
-
-La Secretaría deberá de publicar en el Periódico Oficial del Estado a más tardar el último día del mes de enero la calendarización mensual de los recursos presupuestados a distribuir entre los Municipios durante el ejercicio fiscal en curso.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-###### Artículo 19.
-
-Durante el ejercicio fiscal que corresponda, los Municipios recibirán por concepto del total de participaciones federales y estatales a que se refieren los artículos 14 y 16 de esta Ley, con la salvedad de las excepciones establecidas en la fracción I del artículo 14, por lo menos la misma suma percibida en términos reales durante el ejercicio fiscal del año previo, conforme al siguiente procedimiento:
-
-I.- Se hace un cálculo preliminar para cuantificar lo que corresponde a cada Municipio conforme a la fórmula prevista en esta Ley;
-
-II.- Se identifica a los Municipios que del cálculo preliminar efectuado conforme a la fracción I, les corresponde menos de lo que recibieron en el año anterior al año para el que se presupuesta más la inflación anual correspondiente;
-
-III.- Se suma la disminución que corresponde a cada Municipio según las dos fracciones anteriores;
-
-IV.- Del total de participaciones correspondientes al ejercicio a presupuestar se separa una cantidad equivalente al resultado de la fracción III anterior, denominada "Compensación", y se asigna a cada uno de los Municipios que del cálculo preliminar efectuado conforme a la fracción I, les corresponde menos de lo que recibieron en el ejercicio fiscal del año previo más la inflación anual, a fin de que en términos reales, reciban la misma cantidad correspondiente a dicho año.
-
-V.- La "Compensación" prevista en la fracción IV, se integrará reasignando una porción de la parte que al efectuarse el cálculo preliminar previsto en la fracción I, corresponde a cada uno de los Municipios que resulten con una cantidad mayor en términos reales a la recibida en el ejercicio previo.
-
-VI.- Para estos efectos, se obtendrá el porcentaje que representa la "Compensación" respecto de la suma de incrementos reales que al efectuarse el cálculo preliminar previsto en la fracción I, hayan obtenido los Municipios que se encuentren en el supuesto previsto en la fracción V; y
-
-VII.- El importe que se disminuirá a cada Municipio que se encuentre en el supuesto precisado en la fracción V, para integrar la "Compensación", se obtendrá aplicando el porcentaje obtenido conforme a la fracción VI al incremento real que cada uno de estos Municipios haya obtenido al efectuarse el cálculo preliminar.
-
-Para estos efectos, la inflación anual que se utilizara para establecer los valores reales se calculará conforme al procedimiento de actualización previsto en el Artículo 18 Bis del Código Fiscal del Estado.
-
-Las fechas de pago de las participaciones federales y estatales a Municipios, los montos efectivamente pagados, las formulas y las variables utilizadas para su cálculo y distribución, así como las memorias de cálculo se deberán difundir mensualmente en el portal de Internet del Gobierno del Estado y serán publicadas de manera trimestral en el Periódico Oficial del Estado, en el mes siguiente al periodo a que corresponda.
-
-Adicionalmente, la Secretaría de Finanzas y Tesorería General del Estado enviará dicha información al Congreso del Estado en forma impresa y en formato electrónico de texto modificable de base de datos, en forma trimestral, en el mes siguiente al período a que corresponda.
-
-Si durante un ejercicio fiscal se redujeran los montos reales totales a participar a los Municipios de los fondos referidos en el artículo (sic) 14 y 16 de esta Ley, la distribución se hará utilizando los respectivos coeficientes efectivos del año previo para cada municipio.
-
-###### Artículo 20.
-
-Con las fórmulas y los procedimientos previstos en los artículos 14 y 16 de esta Ley, durante los primeros quince días del mes de enero se calculará un coeficiente para cada Municipio, dividiendo sus participaciones estimadas entre el total de participaciones estimadas para el año, y dicho coeficiente se utilizará para aplicar mensualmente el monto distribuible de las participaciones que efectivamente se reciban. El cálculo se repetirá durante los primeros diez días de julio, incorporando los resultados reales del primer semestre y las estimaciones actualizadas para el segundo, y se ajustarán los coeficientes para el segundo semestre.
-
-Adicionalmente durante el mes de enero del ejercicio siguiente, se volverán a realizar los cálculos que serán definitivos, incorporando al desarrollo de las fórmulas de distribución los montos totales que corresponda distribuir a los Municipios recibidos respecto al total recibido por el estado de la Federación, comprendidos en el artículo 14 de esta ley, así como el monto total efectivamente recaudado de la tenencia, con el propósito de obtener las participaciones que efectivamente les correspondan a cada municipio, realizando en los siguientes tres meses los ajustes correspondientes en forma igualitaria.
-
-Los cálculos mencionados en los párrafos anteriores serán publicados en el portal de Internet del Gobierno del Estado y en el Periódico Oficial, dentro de los treinta días naturales siguientes a la fecha en que se hayan efectuado.
-
-Con el fin de evitar efectos negativos en las finanzas municipales, los ajustes que resulten del cálculo a desarrollar en el mes de julio se podrán realizar en forma gradual por un periodo de seis meses, y el ajuste que resulte de los cálculos realizados durante el mes de enero serán aplicados en los tres meses siguientes en forma igualitaria.
-
-La Secretaría deberá de dar a conocer en forma explícita por separado los ajustes que le realice a cada municipio, dando a conocer las tablas de dichos valores en los informes trimestrales de avance de la Gestión, refiriendo en ellos los montos por cada mes según se hayan efectuado.
-
-Las cantidades que resulten conforme al procedimiento anterior serán las participaciones definitivas que corresponderán a cada Municipio.
-
-###### Artículo 21.
-
-El Ejecutivo del Estado, por conducto de la Secretaría, entregará a los Municipios, las cantidades que les correspondan por concepto del Fondo General de Participaciones y del Fondo de Fomento Municipal, conforme a la Ley de Coordinación Fiscal dentro de los 5 días hábiles siguientes a aquel en que el Estado las reciba, las que deberán entregarse en efectivo; pudiendo realizarse también, mediante cheque nominativo o mediante depósito bancario o transferencia electrónica de fondos, sin condicionamiento alguno, salvo lo previsto en el Artículo 26 de esta Ley; el retraso dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión.
-
-De no efectuarse los depósitos dentro de los plazos antes señalados además de los pagos de intereses que se generen, de haberse realizado el retraso en forma injustificada, será motivo para establecer fincamientos de responsabilidad administrativa a los funcionarios que correspondan.
-
-Dentro del mismo plazo de 5 días hábiles deberán de entregarse a los Municipios los recursos a los que tengan derecho, por participaciones que reciba el estado de la Federación.
-
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2023)</small>
-
-Es obligación de los Municipios abrir anualmente cuentas bancarias específicas y productivas para la ministración de recursos estatales y federales, así como informar a la Secretaría de Finanzas y Tesorería General del Estado dichas cuentas, las cuales deben ser informadas en un plazo no mayor a 5 días naturales de iniciado el ejercicio fiscal, mientras no realicen dicha notificación no podrán transferirse los recursos.
-
-###### Artículo 22.
-
-Las Participaciones que conforme a esta Ley correspondan a los Municipios son inembargables y no estarán sujetas a retención o deducción alguna, ni podrán afectarse a fines específicos, salvo para el pago de obligaciones contraídas en los términos de lo dispuesto en el Artículo 9° de la Ley de Coordinación Fiscal.
-
-No estarán sujetas a lo dispuesto en el párrafo anterior, las compensaciones que se requieran efectuar a los Municipios como consecuencia de ajustes en Participaciones y que en materia federal la normativa prevea.
-
-###### Artículo 23.
-
-Las fórmulas, metodologías y montos que se utilicen y determinen para los fondos señalados en los artículos 14 y 17 de esta Ley, se publicarán en el Periódico Oficial del Estado a más tardar el 15 de febrero del ejercicio fiscal que corresponda.
-
-###### Artículo 24.
-
-Además de las participaciones que dispone la presente Ley, el Ejecutivo del Estado participará a los Municipios con los recursos que resulten de modificaciones a la Ley de Coordinación Fiscal, aprobaciones del Presupuesto de Egresos de la Federación y demás leyes fiscales que no sean de aplicación exclusiva para el Estado de acuerdo a las disposiciones que las mismas establezcan, en caso contrario la distribución se realizará de acuerdo al porcentaje establecido en el apartado A del Artículo 14 de esta Ley y con los coeficientes que resulten del desarrollo de las fórmulas establecidas en la fracción I de dicho artículo.
-
-###### Artículo 25.
-
-Los recargos que se apliquen a favor de los Municipios por la falta de distribución de los recursos que se les participan y distribuyen conforme a la presente Ley, dentro de los plazos estipulados, serán independiente de las sanciones a que puedan ser acreedores los funcionarios responsables.
-
-## TITULO CUARTO. DE LAS APORTACIONES ESTATALES
-
-### CAPITULO PRIMERO. ASPECTOS GENERALES
-
-###### Artículo 26.
-
-Las aportaciones estatales se componen de los recursos fiscales que el Ejecutivo a través de la Secretaría ministre a los Municipios con cargo a su Hacienda Pública.
-
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2023)</small>
-
-Cada año el Ejecutivo acompañará en el proyecto de Ley de Egresos la ministración de aportaciones estatales a los municipios, cuya observancia y cumplimiento será obligatoria para la autoridad ministradora.
-
-### CAPITULO SEGUNDO. DEL FONDO DE DESARROLLO MUNICIPAL
-
-###### Artículo 27.
-
-Se crea el Fondo de Desarrollo Municipal, cuyos recursos se aplicarán a proyectos de obra pública prioritarios a ser ejecutados por los Municipios y su distribución en dichos proyectos dependerá de la prioridad que establezcan los respectivos Ayuntamientos.
-
-El monto total del Fondo de Desarrollo Municipal ascenderá al 1.53% del monto de participaciones que efectivamente recaude el Estado en el ejercicio fiscal correspondiente de acuerdo a lo siguiente:
-
-I. Para efectos de lo anterior, se considerará el 1.53% del monto de participaciones que correspondan al Estado según presupuesto aprobado para el ejercicio fiscal correspondiente, a efectos de realizar los cálculos preliminares que sean necesarios;
-
-II. De manera trimestral, se realizarán los cálculos correspondientes a fin de determinar cualquier incremento en los montos a entregar a los Municipios por incremento en la recaudación de participaciones que correspondan al Estado; y
-
-III. Al inicio de cada ejercicio fiscal, se realizará el cálculo correspondiente para determinar la diferencia entre los montos entregados a los Municipios en el año anterior y lo que efectivamente les corresponda de acuerdo a la cantidad recaudada en el ejercicio fiscal.
-
-Se distribuirá entre todos los Municipios en una proporción del 60% para los Municipios de la Zona Metropolitana y un 40% para los Municipios de la Zona No Metropolitana, según se establece en esta Ley.
-
-Para estos efectos, se entenderá como Zona Metropolitana la conformada por los Municipios de: Apodaca, Cadereyta Jiménez, García, San Pedro Garza García, General Escobedo, Guadalupe, Juárez, Monterrey, Salinas Victoria, San Nicolás de los Garza, Santa Catarina y Santiago.
-
-El resto de los Municipios se considerará como Zona No Metropolitana.
-
-En el cálculo de la distribución dentro del monto que le corresponde a cada área se le asignara un monto mínimo en forma igualitaria, de 2.56% a los Municipios del Área Metropolitana y de 1.28% a los de la Zona no Metropolitana.
-
-Una vez asignado los montos referidos en el párrafo anterior, la distribución de los montos que queden se harán entre los Municipios de la Zona Metropolitana y la Zona No Metropolitana de acuerdo a la fórmula que se establece para la distribución de las Participaciones referido en el artículo 14 fracción I de esta Ley, en forma separada, normalizando cada grupo de Municipios como el 100% respectivo.
-
-En todo caso, las ministraciones serán de un 40% para anticipo de la obra a otorgarse a más tardar durante el mes de abril, un 30% por el primer avance de obra a más tardar durante el mes de julio, y un 15% por el segundo avance de obra durante el mes de septiembre y el restante 15% por el finiquito de la misma a más tardar durante el mes de noviembre, en su caso se deberá de dar prioridad a liquidar los montos que correspondan a más tardar 10 días naturales después de la presentación de los avances y finiquito respectivo.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2016)</small>
-
-Como participaciones se entenderán todos los rubros de recursos por participaciones contempladas en la Ley de Ingresos del Estado señalada al año fiscal correspondiente, además de lo señalado en el artículo 2, fracción VIII de esta Ley.
-
-Los Municipios, una vez aprobados los proyectos de inversión por parte del respectivo Ayuntamiento deberán:
-
-a) Hacer del conocimiento de sus habitantes los recursos que reciban, las obras y acciones a realizar, el costo de cada una, su ubicación, metas y beneficiarios.
-
-b) Proporcionar al Ejecutivo del Estado la información que les fuere requerida respecto a los proyectos de inversión o sobre la aplicación de los recursos asignados.
-
-c) Asegurarse que las obras que realicen sean compatibles con la preservación y protección del medio ambiente y que impulsen el desarrollo sustentable.
-
-d) En los casos aplicables, incorporar en las obras que realicen las previsiones necesarias para facilitar el acceso, circulación y uso de espacios e instalaciones para personas con discapacidad, ajustándose a las disposiciones de las leyes vigentes y a las Normas Técnicas que al respecto emita la Secretaría de Obras Públicas del Estado.
-
-### CAPÍTULO TERCERO. DEL FONDO DE ULTRACRECIMIENTO MUNICIPAL
-
-###### Artículo 28.
-
-Las partidas de recursos del Fondo de Ultracrecimiento Municipal se fijarán cada año en la Ley de Egresos del Estado, misma que no será inferior al 0.54% del monto de participaciones que efectivamente recaude el Estado en el ejercicio fiscal correspondiente de acuerdo a lo siguiente:
-
-I. Para efectos de lo anterior, se considerará el 0.54% del monto de participaciones que correspondan al Estado según el presupuesto aprobado para el ejercicio fiscal correspondiente, a efectos de realizar los cálculos preliminares que sean necesarios;
-
-II. De manera trimestral, se realizarán los cálculos correspondientes a fin de determinar cualquier incremento en los montos a entregar a los Municipios por incremento en la recaudación de participaciones que correspondan al Estado; y
-
-III. Al inicio de cada ejercicio fiscal, se realizará el cálculo correspondiente para determinar la diferencia entre los montos entregados a los Municipios en el año anterior y lo que efectivamente les corresponda de acuerdo a la cantidad recaudada en el ejercicio fiscal.
-
-Los recursos de este fondo serán distribuidos entre los Municipios que conforman la zona de crecimiento de la mancha urbana de la Ciudad de Monterrey siendo estos: Apodaca, Ciénega de Flores, Cadereyta Jiménez, El Carmen, García, General Escobedo, General Zuazua, Juárez, Pesquería, Santa Catarina, Santiago y Salinas Victoria.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2016)</small>
-
-Como participaciones se entenderán todos los rubros de recursos por participaciones contempladas en la Ley de Ingresos del Estado señalada al año fiscal correspondiente, además de lo señalado en el artículo 2, fracción VIII de esta Ley.
-
-###### Artículo 29.
-
-Los Municipios aplicarán el Fondo de Ultracrecimiento Municipal para la inversión en obra pública y la debida prestación de los servicios públicos a su cargo que establece la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Nuevo León.
-
-###### Artículo 30.
-
-La distribución del Fondo de Ultracrecimiento Municipal se constituirá de la siguiente forma:
-
-I. Un monto equivalente al 3.68% de la suma del fondo de Ultracrecimiento a cada uno de los Municipios referidos en el artículo 29 de esta Ley; y
-
-II. El monto que resulte, una vez que se reste lo considerado en la fracción previa, se distribuirá entre los Municipios en un 50% de acuerdo al número de habitantes en los Municipios que establece el artículo 30 de esta Ley, tomando como base la última información estadística con que cuente el INEGI y el restante 50% de acuerdo al coeficiente de distribución que les resulte a dichos Municipios de la aplicación de la fórmula establecida en el artículo 14 fracción I de esta Ley, normalizando la suma de ellos como el 100%.
-
-Los montos que resulten serán ministrados en partes iguales en forma mensual.
-
-### CAPITULO CUARTO. DE LOS FONDOS DESCENTRALIZADOS
-
-###### Artículo 31.
-
-El Gobierno del Estado constituirá el Fondo denominado Fondos Descentralizados. Esta aportación tendrá como destino la prestación de los servicios públicos de limpia, alumbrado, seguridad pública y proyectos de infraestructura básica.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2016)</small>
-
-El Fondo se constituirá con un monto que no podrá ser menor a la cantidad que resulte mayor entre el 1.28% del monto de participaciones que efectivamente reciba el Estado en el ejercicio fiscal correspondiente y el monto autorizado en la Ley de Egresos del ejercicio correspondiente para este fondo, distribuyéndose de la forma siguiente:
-
-I. Para efectos de lo anterior, se considerará el 1.28% del monto de participaciones que correspondan al Estado según el presupuesto aprobado para el ejercicio fiscal correspondiente, a efectos de realizar los cálculos preliminares que sean necesarios.
-
-II. De manera trimestral, se realizarán los cálculos correspondientes a fin de determinar cualquier incremento en los montos a entregar a los Municipios por incremento en la recaudación de participaciones que correspondan al Estado.
-
-III. Al inicio de cada ejercicio fiscal, se realizará el cálculo correspondiente para determinar la diferencia entre los montos entregados a los Municipios en el año anterior y lo que efectivamente les corresponda de acuerdo a la cantidad recaudada en el ejercicio fiscal.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2016)</small>
-
-Como participaciones se entenderán todos los rubros de recursos por participaciones contempladas en la Ley de Ingresos del Estado señalada al año fiscal correspondiente, además de lo señalado en el artículo 2, fracción VIII de esta Ley.
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
-
-La ministración de los recursos que corresponda a los Municipios de la Zona No Metropolitana; así como a los Municipios de Cadereyta Jiménez, Salinas Victoria y Santiago, no podrá ser inferior a los del año inmediato anterior, en caso de requerirse, el Gobierno del Estado deberá crear una provisión económica o fondo compensatorio para el cumplimiento de este párrafo.
-
-Los recursos de este Fondo se ministrarán a los Municipios, de acuerdo a los coeficientes que resulten de los últimos cálculos desarrollados y publicados de las fórmulas establecidas en el artículo 14 fracción I de esta Ley, los cuales serán ministrados en partes iguales en forma mensual.
-
-Este Fondo se distribuirá en un 60% a los Municipios de la Zona Metropolitana y un 40% para los Municipios de la Zona No Metropolitana, según se establece en esta Ley.
-
-Para estos efectos, se entenderá como Zona Metropolitana la conformada por los Municipios de: Apodaca, Cadereyta Jiménez, García, San Pedro Garza García, General Escobedo, Guadalupe, Juárez, Monterrey, Salinas Victoria, San Nicolás de los Garza, Santa Catarina y Santiago.
-
-El resto de los Municipios se considerará como Zona No Metropolitana.
-
-La Secretaría de Finanzas y Tesorería General del Estado podrá autorizar la afectación de las aportaciones previstas en este artículo para que los Municipios garanticen e incluso paguen obligaciones directas o contingentes a su cargo, relacionadas con el destino previsto para dichas aportaciones. Los montos de obligaciones directas garantizadas con las aportaciones previstas en este artículo, deberán considerarse dentro del monto global de endeudamiento que anualmente apruebe el Congreso del Estado del ejercicio fiscal correspondiente.
-
-Los montos que correspondan a cada municipio serán dados a conocer en la Ley de Egresos del Estado de cada ejercicio fiscal, dichos Fondos no podrán ser menores a los señalados en la presente ley
-
-De no cumplirse con la entrega de los recursos señalados en el presente artículo se aplicaran recargos a favor de los Municipios a la tasa de recargos que en el Código Fiscal del Estado se establece para los casos de pagos a plazos de contribuciones, a partir del día siguiente de que se incurra en incumplimiento, siendo lo anterior independiente de las sanciones a que puedan ser acreedores los funcionarios responsables.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE ENERO DE 2017)</small>
-
-### CAPÍTULO QUINTO. DEL FONDO DE SEGURIDAD PARA LOS MUNICIPIOS
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2017)</small>
-
-###### Artículo 31 Bis.
-
-El Gobierno del Estado constituirá el Fondo denominado Fondos de Seguridad para los Municipios esta aportación tendrá como destino la prestación de seguridad pública de los municipios y podrá ser destinado a capacitación, equipamiento, prevención del delito, inversión y cualquier otro tipo de gasto en seguridad.
-
-El fondo se constituirá con dos fuentes de ingresos y el monto a repartir no podrá ser menor a la cantidad que resulte mayor entre la suma del 1.84% del monto de participaciones que efectivamente reciba el estado en el ejercicio fiscal correspondiente y el 35% de lo recaudado por concepto del impuesto a las erogaciones de juegos con apuestas, y el monto autorizado en la ley de egresos del ejercicio correspondiente para este fondo, distribuyéndose de la siguiente forma:
-
-A) El 1.84% del monto de participaciones se repartirá bajo las siguientes reglas:
-
-I. Para efectos de lo anterior, se considerará el 1.84% del monto de participaciones que correspondan al Estado según el presupuesto aprobado para el ejercicio fiscal correspondiente, a efectos de realizar los cálculos preliminares que sean necesarios.
-
-II. De manera trimestral, se realizarán los cálculos correspondientes a fin de determinar cualquier incremento en los montos a entregar a los Municipios por incremento en la recaudación del impuesto a las erogaciones de juego con apuestos (sic).
-
-III. Al inicio de cada ejercicio fiscal, se realizará el cálculo correspondiente para determinar la diferencia entre los montos entregados a los Municipios en el año anterior y lo que efectivamente les corresponda de acuerdo a la cantidad recaudada en el ejercicio fiscal.
-
-Como participaciones se entenderán todos los rubros de recursos por participaciones contempladas en la Ley de Ingresos del Estado señalada al año fiscal correspondiente, además de lo señalado en el artículo 2, fracción VIII de esta Ley.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Este Fondo se distribuirá en dos fórmulas, la primera será de forma equitativa y la segunda por población con la que cuente cada municipio de acuerdo a la información oficial más reciente que hubiera dado a conocer el INEGI.
-
-I.- Por la fórmula de repartición equitativa se asignará un monto fijo anual de $3,000,000.00 a cada municipio del Estado.
-
-II.- Por la fórmula de población se repartirá el resto del fondo una vez restado el monto repartido en la fracción anterior separando un 60 % a los Municipios de la Zona Metropolitana y un 40% para los Municipios de la Zona No Metropolitana y distribuyéndolo en proporción a la población que tiene cada municipio en relación a la población total de la Zona Metropolitana o Zona No Metropolitana según sea el caso, de acuerdo al último dato poblacional disponible.
-
-Para estos efectos, se entenderá como Zona Metropolitana la conformada por los Municipios de: Apodaca, Cadereyta Jiménez, García, San Pedro Garza García, General Escobedo, Guadalupe, Juárez, Monterrey, Salinas Victoria, San Nicolás de los Garza, Santa Catarina y Santiago.
-
-El resto de los Municipios se considerará como Zona No Metropolitana.
-
-B) El 35% de lo recaudado por concepto de ingresos de Impuesto a las Erogaciones de Juegos con Apuestas se distribuirá bajo las siguientes reglas:
-
-I. Para efectos de lo anterior, se considerará el 35% de lo recaudado por concepto de ingresos de Impuesto a las Erogaciones de Juegos con Apuestas según el presupuesto aprobado para el ejercicio fiscal correspondiente, a efectos de realizar los cálculos preliminares que sean necesarios.
-
-II. De manera trimestral, se realizarán los cálculos correspondientes a fin de determinar cualquier incremento en los montos a entregar a los Municipios por incremento en la recaudación del Impuesto a las Erogaciones de Juegos con Apuestas.
-
-III. Al inicio de cada ejercicio fiscal, se realizará el cálculo correspondiente para determinar la diferencia entre los montos entregados a los Municipios en el año anterior y lo que efectivamente les corresponda de acuerdo a la cantidad recaudada en el ejercicio fiscal.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Este apartado del fondo se distribuirá en dos fórmulas, la primera será de forma equitativa y la segunda por población con la que cuente cada municipio de acuerdo a la información oficial más reciente que hubiera dado a conocer el INEGI.
-
-I. La fórmula de repartición de acuerdo al criterio de ingreso mínimo garantizado se asignará un monto fijo anual de $1,000,000.00.
-
-II. Por la fórmula de población se repartirá el resto del fondo una vez restado el monto repartido en la fracción anterior se asignara un 60% a los Municipios de la Zona Metropolitana y un 40% para los Municipios de la Zona No Metropolitana y distribuyéndolo en proporción a la población que tiene cada municipio en relación a la población total de la Zona Metropolitana o Zona No Metropolitana según sea el caso.
-
-Para estos efectos, se entenderá como Zona Metropolitana la conformada por los Municipios de: Apodaca, Cadereyta Jiménez, García, San Pedro Garza García, General Escobedo, Guadalupe, Juárez, Monterrey, Salinas Victoria, San Nicolás de los Garza, Santa Catarina y Santiago.
-
-El resto de los Municipios se considerará como Zona No Metropolitana.
-
-Los recursos de este Fondo se ministrarán a los Municipios, de acuerdo a los coeficientes que resulten de esta Ley, los cuales serán ministrados en partes iguales en forma mensual.
-
-Los montos que correspondan a este Fondo serán dados a conocer en la Ley de Egresos del Estado de cada ejercicio fiscal; dicho Fondo no podrá ser menor a lo señalado en la presente Ley.
-
-De no cumplirse con la entrega de los recursos señalados en el presente artículo se aplicaran recargos a favor de los Municipios a la tasa de recargos que en el Código Fiscal del Estado se establece para los casos de pagos a plazos de contribuciones, a partir del día siguiente de que se incurra en incumplimiento, siendo lo anterior independiente de las sanciones a que puedan ser acreedores los funcionarios responsables.
-
-## TÍTULO QUINTO. DE LAS CONTROVERSIAS
-
-### CAPÍTULO ÚNICO
-
-###### Artículo 32.
-
-Los conflictos y controversias que se susciten entre los Municipios y el Estado, específicamente en cuanto al incumplimiento de este último respecto a las obligaciones generadas por virtud de ésta ley, las conocerá el Pleno del Tribunal Superior de Justicia del Estado de Nuevo León a petición de parte agraviada mediante un procedimiento judicial brevísimo que se sujetará a los principios de celeridad y eficacia.
-
-###### Artículo 33.
-
-El Pleno del Tribunal Superior de Justicia instaurará dicho procedimiento para conocer sobre las impugnaciones de las obligaciones generadas al Estado, en el cual se deberán respetar los principios constitucionales, de entre los cuales se encuentra la garantía del debido proceso.
-
-###### Artículo 34.
-
-El Tribunal Superior de Justicia podrá regular, mediante acuerdo que deberá ser publicado en el Periódico Oficial del Estado, el trámite a que se sujetará el procedimiento brevísimo de resolución de conflictos y controversias que se susciten por virtud de esta Ley entre los Municipios y el Estado.
-
-###### Artículo 35.
-
-Las partes de dicho procedimiento judicial brevísimo serán el Estado y uno o varios Municipios.
-
-Las impugnaciones a que hace referencia el Artículo 33 de ésta Ley deberán hacerse valer en el término de 15 días hábiles a partir del día siguiente al de incumplimiento.
-
-En su demanda, la parte agraviada deberá establecer específicamente el fundamento de ley que se estima violentado y la razón por la cual estima existe dicha violación y necesaria la intervención del Pleno del Tribunal Superior de Justicia.
-
-En caso de no reunirse los requisitos previstos en este Artículo, no se dará inicio al procedimiento judicial mencionado.
-
-###### Artículo 36.
-
-El procedimiento se deberá resolver en un tiempo máximo de 45 días hábiles a partir de su presentación, por lo que las reglas que se expidan mediante acuerdo se deberán sujetar a dicho término.
+Los municipios de Tenango del Valle y Joquicingo, convienen en establecer en forma coincidente, en ejercicio de las facultades que respectivamente les sean propias, iguales restricciones sobre el uso del suelo a lo largo de toda la franja limítrofe que une los territorios de ambos municipios. (Dos metros de derecho de vía de cada lado).
 
 ## TRANSITORIOS
 
-Primero.- La presente Ley entrará en vigor el 01 de enero de 2016.
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-Segundo.- A más tardar durante el mes de febrero del año 2016 deberán de constituirse la Reunión Estatal de Funcionarios Fiscales y la Comisión Estatal Permanente de Funcionarios Fiscales, que establece la presente Ley, a convocatoria del Secretario.
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-Para la constitución de la Comisión por única vez el Secretario hará la designación de los tres Municipios que representarán a los grupos 1 y 2 referidos en el artículo 8º de la presente Ley.
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Tercero.- Durante los ejercicios fiscales 2016 y 2017, la participación municipal del Impuesto Sobre Tenencia o Uso de Vehículos, será del 35% de la cantidad que efectivamente recaude el Estado por este concepto y se distribuirá entre los Municipios, de la siguiente manera:
+II. UBICACION GENERAL
 
-I.- El 50% en proporción a la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos que durante el ejercicio fiscal previo se haya obtenido por los vehículos que tengan su domicilio de registro en cada Municipio, respecto de la recaudación total de dicho Impuesto en el Estado;
+De acuerdo con la regionalización que tiene el Instituto para el Federalismo y el Desarrollo Municipal de la Secretaría de Gobernación (SEGOB), en la Región I Toluca incluye el municipio de Tenango del Valle, y Joquicingo forma parte de la Región VI Coatepec de Harinas. El área de cuestión se localiza a 22 kilómetros al sureste de la capital del estado, en donde inicia la colindancia de dichos municipios del límite aprobado.
 
-II.- El 25% con base a lo establecido en el numeral 2 de la fracción I del artículo 14 de esta Ley; y
+> <small>N. DE E. VÉASE IMAGEN EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 8 DE ABRIL DE 2013, PÁGINA 74.</small>
 
-III.- El 25% con base a lo establecido en el numeral 3 de la fracción I del artículo 14 de esta Ley.
+III. SITUACION GEOELECTORAL ACTUAL
 
-Cuarto.- Con respecto a los Fondos establecidos en los artículos 29 y 30 de esta Ley, denominados de Desarrollo Municipal y de Ultracrecimiento, la Secretaria deberá de establecer las reglas de operación de los mismos, y darlas a conocer a más tardar el 28 de febrero del ejercicio fiscal respectivo.
+De acuerdo al análisis realizado conforme a la información descrita en el Decreto No 271, así como al levantamiento de los puntos con el equipo PDA-GPS en cada uno de los vértices mencionados en el Decreto por el personal de la Vocalía del RFE del Estado de México, se detectó que 5 secciones resultan afectadas por la nueva delimitación municipal, las secciones 2376, 2373 y 2374 del municipio de Joquicingo (distrito 35) y las secciones 4485 y 4494 del municipio de Tenango del Valle (distrito 40), aclarando que de dicha adecuación de límites no se afectan ciudadanos en virtud de que en las áreas territoriales involucradas no existen manzanas ni localidades.
 
-Quinto.- Se derogan las disposiciones y quedan sin efecto los convenios celebrados que se opongan a la presente Ley.
+IV. PROBLEMATICA DETECTADA
 
-Artículo Cuarto.- Envíese al Titular del Poder Ejecutivo el presente Decreto, con el fin de que proceda a la inmediata publicación en el Periódico Oficial del Estado, del Decreto 022, según las modificaciones aprobadas al mismo por este H. Congreso del Estado de Nuevo León.
+De acuerdo al trabajo de campo realizado por personal de la Vocalía Estatal del Registro Federal de Electores en el Estado de México, y conforme al análisis técnico realizado por la Dirección de Cartografía Electoral, se concluye que técnicamente es viable transcribir el nuevo límite municipal descrito en el Decreto No. 271 en la cartografía electoral, resaltando que la actual demarcación municipal entre Joquicingo (distrito 35) y Tenango del Valle (distrito 40) plasmada actualmente en la cartografía electoral, es coincidente con la actual delimitación distrital federal; sin embargo, en el marco de los trabajos de Distritación que actualmente se llevan a cabo previo a la nueva conformación de los 300 distritos electorales federales plurinominales, y con la finalidad de que los límites entre los municipios en cita se encuentren actualizados en la cartografía electoral del Registro Federal de Electores, tal y como se establece en el Decreto No. 271, publicado el día 23 de marzo del año 2009, en la Gaceta del Gobierno del Estado México, la propuesta de afectación que se describe en el siguiente apartado implica la modificación integral de los límites en la zona afectada, sin afectar ciudadanos toda vez que en las fracciones territoriales involucradas no existen manzanas ni localidades.
 
-Por lo tanto envíese al Ejecutivo del Estado para su promulgación y publicación en el Periódico Oficial del Estado.
+V. PROPUESTA DE AFECTACION
 
-Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los veinticinco días del mes de Noviembre de dos mil quince.
+En razón de lo descrito en el apartado anterior, y con base en la nueva demarcación municipal entre Joquicingo (distrito 35) y Tenango del Valle (distrito 40), descrita en el Decreto No. 271, se propone llevar a cabo la afectación al Marco Geográfico Electoral sin afectar manzanas ni localidades, en virtud de que en las fracciones territoriales involucradas no existen manzanas ni localidades, por lo cual únicamente cambian de configuración las secciones antes referidas, modificándose de manera integral los límites en la zona afectada conforme se describe a continuación:
 
-PRESIDENTE: DIP. DANIEL CARRILLO MARTÍNEZ; PRIMER SECRETARIA: DIP. ALICIA MARIBEL VILLALÓN GONZÁLEZ; SEGUNDA SECRETARIA: DIP. LETICIA MARLENE BENVENUTTI VILLARREAL.- Rúbricas.-
+Tenango del Valle
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, al día 27 de Noviembre de 2015.
+- Las secciones 4485 y 4494 resultan afectadas por la nueva delimitación municipal descrita en el Decreto 271, sin embargo, éstas solo cambian su configuración sin afectar ciudadanos, lo anterior en virtud de que en las fracciones territoriales involucradas no existen manzanas ni localidades.
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, al día 27 de Noviembre de 2015.
+Joquicingo
 
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
+- Las secciones 2376, 2373 y 2374 resultan afectadas por la nueva delimitación municipal descrita en el Decreto 271, sin embargo, éstas solo cambian su configuración sin afectar ciudadanos, lo anterior en virtud de que en las fracciones territoriales involucradas no existen manzanas ni localidades.
 
-JAIME HELIODORO RODRÍGUEZ CALDERÓN
+VI. ANALISIS JURIDICO
 
-RÚBRICA
+En términos de lo establecido en el punto 5 de los Lineamientos para los Casos de Afectación al Marco Geográfico Electoral, para la modificación de límites municipales, deberá existir un documento emitido por las autoridades competentes, en el cual se señale la demarcación político administrativa de que se trate.
 
-EL C. SECRETARIO GENERAL DE GOBIERNO
+De conformidad con lo establecido en el punto 18 de los lineamientos citados en el párrafo precedente, para la procedencia jurídica de la afectación del Marco Geográfico Electoral, se deberá contar con el documento emitido por la autoridad, que conforme las legislaciones de los Estados, cuenten con atribuciones para la definición de límites estatales y municipales.
 
-MANUEL FLORENTINO GONZÁLEZ FLORES
+El 23 de marzo de 2009, se publicó en la Gaceta del Gobierno del Estado de México, el Decreto No. 271, emitido por la “LVI” Legislatura del Congreso del Estado de México, por el que se aprueba el “Convenio Amistoso para la Precisión y Reconocimiento de sus Límites Territoriales, celebrado el 19 de junio de 2007, por los municipios de Tenango del Valle y Joquicingo”.
 
-RÚBRICA
+En ese sentido, conforme al artículo 61, fracciones I y XXV de la Constitución Política del Estado Libre y Soberano de México, es atribución de la Legislatura, entre otras, la de expedir leyes, decretos o acuerdos para el régimen interior del Estado, en todos los ramos de la administración del gobierno, así como fijar los límites de los municipios del Estado y resolver las diferencias que en esta materia se produzcan.
 
-EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
+En este orden de ideas, en términos de lo establecido en el artículo 4 de la Ley Orgánica Municipal, así como 13, 14, y 15 de la Ley para la Creación de Municipios del Estado de México, la Legislatura del Estado tiene como atribución, entre otras, la creación y supresión de municipios, la modificación de su territorio, realizar cambios en su denominación o ubicación de sus cabeceras municipales, así como la solución de conflictos sobre límites intermunicipales.
 
-CARLOS ALBERTO GARZA IBARRA
+De la legislación anteriormente citada, se desprende lo siguiente:
 
-RÚBRICA
+- Es facultad del H. Congreso del Estado de México, expedir leyes, decretos o acuerdos para el régimen interior del Estado.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+- La legislatura del Estado de México, tiene como atribución la creación y supresión de municipios, la modificación de su territorio, realizar cambios en su denominación o ubicación de sus cabeceras municipales, así como solucionar conflictos sobre límites intermunicipales.
 
-P.O. 17 DE MARZO DE 2016.
+De lo anterior, se advierte que el Decreto No. 271, de la “LVI” Legislatura del Estado de México, mismo que aprueba el “Convenio Amistoso para la Precisión y Reconocimiento de sus Límites Territoriales, celebrado el 19 de junio de 2007, por los municipios de Tenango del Valle y Joquicingo”, fue emitido por el H. Congreso del Estado de México, en ejercicio de las atribuciones que la Constitución del Estado y la Ley para la Creación de Municipios del Estado de México le confieren.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 098. SE MODIFICA EL DECRETO 088 PARA QUEDAR COMO SIGUE; SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 2 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 31; SE ADICIONA UN PÁRRAFO NOVENO RECORRIÉNDOSE EL ACTUAL DEL ARTÍCULO 27; UN PÁRRAFO TERCERO AL ARTÍCULO 28; EL PÁRRAFO TERCERO Y CUARTO, RECORRIÉNDOSE LOS POSTERIORES, DEL ARTÍCULO 31; TODOS DE LA LEY DE COORDINACIÓN HACENDARIA”.
+Ahora bien, del expediente que se integra en el Informe Técnico denominado “Problemática de límites municipales entre Joquicingo y Tenango del Valle, en el Estado de México”, se concluye lo siguiente:
 
-Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+“Una vez realizado el análisis correspondiente conforme a la nueva demarcación municipal entre Joquicingo (distrito 35) y Tenango del Valle (distrito 40) descrita en el Decreto 271, publicado el día 23 de marzo del año 2009, en la Gaceta del Gobierno del Estado de México, se concluye que dicho Decreto aporta los elementos técnicos suficientes para que en base a este se realice la modificación de los límites entre los municipios en referencia, de acuerdo a lo establecido en el apartado V de este documento; resaltando que esta propuesta de afectación se da en el marco de los trabajos de Distritación que actualmente se llevan a cabo previo a la nueva conformación de los 300 distritos electorales federales plurinominales, y tiene como finalidad que los límites entre los municipios de Joquicingo y Tenango del Valle se encuentren correctamente plasmados en la cartografía electoral del Registro Federal de Electores, tal y como se establece en el Decreto Número 271, publicado el día 23 de marzo del año 2009, en la Gaceta del Gobierno del Estado de México.”
 
-Segundo.- En el caso de Fondo Descentralizado que menciona el artículo 31 de esta Ley, la cantidad a distribuir en el ejercicio fiscal 2016, no podrá ser menor a $310,000,000.00, independientemente de que exista una disminución en la Recaudación Federal Participable.
+En ese sentido, de un análisis realizado a los documentos contenidos en el Informe Técnico antes mencionado, se advierte lo siguiente:
 
-Tercero.- Además de lo señalado en el artículo anterior, el Gobierno del Estado deberá crear una provisión económica que será usada como Fondo Compensatorio para cumplir con lo establecido en el cuarto párrafo del artículo 31, durante el ejercicio 2016 solamente.
+- Que la Legislatura del Estado de México, en términos de lo establecido en el artículo 61, fracciones I y XXV de la Constitución Política del Estado Libre y Soberano de México; 4 de la Ley Orgánica Municipal; así como 13, 14 y 15 de la Ley para la Creación de Municipios del Estado de México, tiene como atribución, entre otras, la solución de conflictos sobre límites intermunicipales.
 
-Cuarto.- En el caso de que exista una disminución en la Recaudación Federal Participable con respecto a lo estimado en la Ley de Ingresos, que deriven en una compensación con los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas, el Estado destinará un 20% veinte por ciento de dichos ingresos para compensar la baja de participaciones a los municipios, los cuales se distribuirán de conformidad con lo establecido en el artículo 14 de esta Ley.
+- Que el Decreto 271 que aprueba el Convenio Amistoso para la Precisión y Reconocimiento de sus Límites Territoriales, celebrado el 19 de junio de 2007, por los municipios de Tenango del Valle y Joquicingo, fue emitido por el Congreso del Estado de México, autoridad competente para ello en términos de las disposiciones legales antes citadas, asimismo fue publicado en el Periódico Oficial del Gobierno Constitucional del Estado de México.
 
-P.O. 23 DE ENERO DE 2017.
+De lo anteriormente expuesto, se puede concluir que el Decreto No. 271, por el que se aprueba el “Convenio Amistoso para la Precisión y Reconocimiento de sus Límites Territoriales, celebrado el 19 de junio de 2007, por los municipios de Tenango del Valle y Joquicingo”, fue emitido por autoridad competente para la creación y supresión de municipios, para modificar su territorio, realizar cambios en su denominación o ubicación de sus cabeceras municipales, así como para resolver conflictos sobre límites intermunicipales, atento a lo dispuesto por el artículo 61, fracciones I y XXV de la Constitución Política del Estado Libre y Soberano de México; 4 de la Ley Orgánica Municipal; así como 13, 14 y 15 de la Ley para la Creación de Municipios del Estado de México.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 215. SE REFORMA POR ADICIÓN DE UN CAPÍTULO QUINTO, FONDO DE SEGURIDAD PARA LOS MUNICIPIOS Y UN ARTÍCULO 31 BIS A LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN".]
+Asimismo, del Informe Técnico denominado “Problemática de límites municipales entre Joquicingo y Tenango del Valle, en el Estado de México”, se advierte que el multicitado Decreto aporta los elementos técnicos suficientes para llevar a cabo la actualización de la cartografía electoral, aclarando que la propuesta de afectación se da en el marco de los trabajos de Distritación que actualmente se llevan a cabo previo a la nueva conformación de los 300 distritos electorales federales plurinominales.
 
-Único.- El presente Decreto entrará en vigor el día primero de enero del 2017.
+En razón de lo anterior, y de conformidad con lo establecido en el numeral 18 de los Lineamientos para la Afectación del Marco Geográfico Electoral, el Decreto No. 271, publicado 23 de marzo de 2009, fue emitido por la “LVI” Legislatura del Estado de México, autoridad competente para resolver conflictos sobre límites intermunicipales en dicha entidad federativa, por lo que al ser jurídicamente válido, es procedente que con base en éste se modifique la cartografía electoral conforme al Informe Técnico denominado “Problemática de límites municipales entre Joquicingo y Tenango del Valle, en el Estado de México. 28 de enero de 2013”.
 
-P.O. 26 DE ABRIL DE 2017.
+VII. CONCLUSIONES
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM 245. SE REFORMA POR MODIFICACIÓN EL PÁRRAFO CUARTO DEL ARTÍCULO 31 DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN”.]
+Dictamen Técnico
 
-Único.- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+Una vez realizado el análisis correspondiente conforme a la nueva demarcación municipal entre Joquicingo (distrito 35) y Tenango del Valle (distrito 40) descrita en el Decreto 271, publicado el día 23 de marzo del año 2009, en la Gaceta del Gobierno del Estado México, se concluye que dicho Decreto aporta los elementos técnicos suficientes para que en base a este se realice la modificación de la cartografía electoral respecto de los límites entre los municipios en referencia, de acuerdo a lo establecido en el apartado V de este documento; resaltando que esta propuesta de afectación se da en el marco de los trabajos de Distritación que actualmente se llevan a cabo previo a la nueva conformación de los 300 distritos electorales federales plurinominales, y tiene como finalidad que los límites entre los municipios de Joquicingo y Tenango del Valle se encuentren actualizados en la cartografía electoral del Registro Federal de Electores, tal y como se establece en el Decreto Número 271, publicado el día 23 de marzo del año 2009, en la Gaceta del Gobierno del Estado México.
 
-P.O. 31 DE DICIEMBRE DE 2018.
+Dictamen Jurídico
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 067. SE REFORMA LA LEY DE COORDINACIÓN HACENDARÍA DEL ESTADO DE NUEVO LEÓN, SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN SE ADICIONA LA LEY QUE CREA AL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, CON UN ARTÍCULO DÉCIMO NOVENO TRANSITORIO; Y SE REFORMA LA LEY DE ADMINISTRACIÓN FINANCIERA PARA EL ESTADO DE NUEVO LEÓN".]
+De conformidad con lo establecido en el numeral 18 de los Lineamientos para la Afectación del Marco Geográfico Electoral, el Decreto No. 271, publicado el 23 de marzo de 2009, fue emitido por la “LVI” Legislatura del Estado de México, autoridad competente para resolver conflictos sobre límites intermunicipales en dicha entidad federativa, por lo que al ser jurídicamente válido, es procedente que con base en éste se modifique la cartografía electoral conforme al Informe Técnico denominado “Problemática de límites municipales entre Joquicingo y Tenango del Valle, en el Estado de México”.
 
-Primero.- El presente Decreto entrará en vigor el 1° de enero del año 2019.
-
-Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
-
-Tercero.- La Secretaría de Finanzas y Tesorería General del Estado contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para emitir las Reglas Generales a que se refieren los artículos 74, primer párrafo y 139, cuarto párrafo, del Código Fiscal del Estado.
-
-Cuarto.- Se prorroga por un año adicional el plazo para emitir las Reglas Generales a que se refiere el artículo Tercero Transitorio del Decreto Número 330, publicado en el Periódico Oficial del Estado el 29 de diciembre de 2017.
-
-P.O. 11 DE ENERO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 249. SE REFORMAN LOS PÁRRAFOS SEGUNDO, SEXTO Y SÉPTIMO DEL ARTÍCULO 16, Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 17; Y POR ADICIÓN DEL ARTÍCULO 14 BIS, ARTÍCULO 17 BIS, CUARTO PÁRRAFO AL ARTÍCULO 21 Y DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 26, TODOS DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN”.]
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Así se dictaminó y firmó el día 20 de febrero de 2013.- El Director Ejecutivo del Registro Federal de Electores, Víctor Manuel Guerra Ortiz.- Rúbrica.
