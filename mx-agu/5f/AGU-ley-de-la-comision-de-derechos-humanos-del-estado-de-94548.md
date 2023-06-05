@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2023-01-23"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -259,7 +259,9 @@ Quien funja como Presidente, Secretario General o Visitador General, no podrá d
 
 El titular de la Comisión será el Presidente, mismo que deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos, nacido en el Estado de Aguascalientes o con residencia en él de cinco años anteriores al día en que se publique en el Periódico Oficial del Estado la convocatoria con la que se inicie el proceso de elección de Presidente;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos, nacido en el Estado de Aguascalientes o con residencia en él de cinco años anteriores al día en que se publique en el Periódico Oficial del Estado la convocatoria con la que se inicie el proceso de elección de Presidente;
 
 > <small>(REFORMADA, 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -271,13 +273,21 @@ IV. No pertenecer al Estado eclesiástico o al servicio activo de las fuerzas ar
 
 V. No haber resultado responsable por violaciones a los Derechos Humanos en alguna de las recomendaciones emitidas por un organismo público de defensa y protección de los Derechos Humanos;
 
-VI. No haber sido condenado por delito doloso;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, 3 DE SEPTIEMBRE DE 2018)</small>
+VI. No haber sido condenado mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia;
 
-VII. No haber tenido cargo de elección popular, o bien, de Secretario, Subsecretario o su equivalente en la administración pública federal, estatal o municipal, Fiscal General del Estado durante los dos años anteriores al día en que se publique en el Periódico Oficial del Estado, la convocatoria con la que se inicie el proceso de elección de Presidente; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-VIII. No desempeñar, ni haber desempeñado cargo de dirección nacional o estatal, en algún partido político en los tres años anteriores al día en que se publique en el Periódico Oficial del Estado, la convocatoria con la que se inicie el proceso de elección de Presidente.
+VII. No haber tenido cargo de elección popular, o bien, de Secretario, Subsecretario o su equivalente en la administración pública federal, estatal o municipal, Fiscal General del Estado durante los dos años anteriores al día en que se publique en el Periódico Oficial del Estado, la convocatoria con la que se inicie el proceso de elección de Presidente;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+VIII. No desempeñar, ni haber desempeñado cargo de dirección nacional o estatal, en algún partido político en los tres años anteriores al día en que se publique en el Periódico Oficial del Estado, la convocatoria con la que se inicie el proceso de elección de Presidente; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+IX. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -1310,3 +1320,11 @@ P.O. 23 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 307.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.- SE REFORMA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
