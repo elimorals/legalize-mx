@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2023-02-13"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -2645,7 +2645,7 @@ g) Departamento de Atención a Grupos Vulnerables, Niñas, Niños y Personas con
 
 h) Departamento Jurídico.
 
-i) Departamento de Atención a la Mujer y Mecanismo Municipal de Adelanto;
+i) (DEROGADO, P.O. 5 DE JUNIO DE 2023)
 
 IV. Contraloría Municipal:
 
@@ -2762,6 +2762,8 @@ a) Subdirección de Cultura
 XVIII. Dirección de la Familia
 
 a) Subdirección de la Familia
+
+XV (SIC).- Dirección de Instancia Municipal de las Mujeres;
 
 ### CAPÍTULO IV. De los Funcionarios Públicos Municipales
 
@@ -3243,43 +3245,7 @@ XII. Intervenir y participar en el ejercicio de la tutela de menores, a solicitu
 
 XIII. Las demás que les sean señaladas en este Código y en las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
-
-ARTÍCULO 250° BIS.- Corresponde al Departamento de Atención a la Mujer y Mecanismo Municipal de Adelanto:
-
-I. Promover, impulsar y estimular la formulación y aplicación de políticas y acciones públicas que tiendan a alcanzar la equidad entre los hombres y las mujeres y eliminar la discriminación de género;
-
-II. Promover, coordinar, vigilar y evaluar la adecuada ejecución de los programas, proyectos y acciones a favor de las mujeres, en contra de su discriminación y a favor de la equidad entre hombres y mujeres, mediante la coordinación con las Dependencias y Entidades Municipales y coadyuvar con el Instituto Aguascalentense de las Mujeres para el logro de los objetivos planteados en el ámbito de sus respectivas competencias;
-
-III. Promover la adecuada y eficiente implementación de las acciones a favor de las mujeres, desarrollando mecanismos que propicien la generación de información y estadística diferenciada; asegurando la disponibilidad de datos confiables y oportunos para el diseño e implementación de actividades orientadas a beneficiar a la mujer, además de evaluar su impacto en este sector de la sociedad, así como en la familia;
-
-IV. Promover la prestación de servicios de apoyo a las madres y padres que trabajan, que sean suficientes, eficientes, adecuados y de calidad, con horarios flexibles y que consideren las necesidades de ambos sexos, en relación con su vida familiar y la crianza de los hijos;
-
-V. Fungir como enlace y representante permanente ante los Institutos Nacional y Estatal de las Mujeres, en los asuntos de su competencia;
-
-VI. Diseñar y efectuar campañas, en coordinación con el Instituto Estatal de las Mujeres en su caso, para difundir las convenciones y tratados celebrados y ratificados por el Gobierno Mexicano, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas a favor de las mujeres;
-
-VII. Promover el respeto de los derechos humanos de las niñas y fomentar su desarrollo en condiciones de equidad;
-
-VIII. Promover los mecanismos de integración de la mujer en la vida económica, social, política y cultural del Municipio, en condiciones de equidad; así como la integración de los hombres en la vida familiar, con el objeto de promover la complementariedad;
-
-IX. Proponer e impulsar reformas legislativas que garanticen la participación de las mujeres en condiciones equitativas, en todos los ámbitos, sin importar el origen étnico o racial, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como promover el debido cumplimiento de las normas vigentes;
-
-X. Promover el acceso de las mujeres a servicios integrales de atención a la salud, en condiciones de calidad y tomando en cuenta las características particulares de su ciclo de vida, su condición social y su ubicación geográfica;
-
-XI. Impulsar la conformación y consolidación del Sistema de Centros Integrales de Apoyo a la Mujer, dar seguimiento y evaluar sus programas, proyectos y acciones, emitir opiniones al respecto, así como promover la profesionalización y formación permanente de su personal;
-
-XII. Impulsar acciones que contribuyan a resolver el problema de la violencia contra las mujeres, en todas sus modalidades, priorizando su prevención, promoviendo la defensa y la protección de los derechos humanos de la mujer, en todas las etapas de su vida y ámbito de desarrollo;
-
-XIII. Proponer al Presidente Municipal suscribir acuerdos y convenios de coordinación o concertación, con las Dependencias de las administraciones públicas federal, estatal y municipal y organismos nacionales e internacionales que no sean facultad exclusiva del Gobierno del Estado, con el fin de cumplir su objeto, actuar como órgano de consulta, capacitación y asesoría de estas entidades públicas, sociales y privadas, con el objeto de lograr la igualdad de oportunidades para las mujeres;
-
-XIV. Elaborar el Programa Municipal para la No Discriminación y la Equidad entre Hombres y Mujeres y someterlo a aprobación del Presidente Municipal, así como actualizar periódicamente el diagnóstico sobre la situación de las mujeres y los hombres, en relación con los avances y la operatividad del mismo;
-
-XV. Rendir informes al Presidente Municipal a través de la Dirección del Sistema DIF Municipal sobre la evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Municipal para la No Discriminación y la Equidad de género;
-
-XVI. Promover e incentivar investigaciones y estudios que contribuyan a profundizar en el conocimiento de la problemática de la mujer en los diversos campos de la realidad social, así como la adecuada recopilación, sistematización y difusión de la información; y
-
-XVII. Las demás que señale el presente Código y otros ordenamientos legales.
+ARTÍCULO 250° BIS.- (DEROGADO, P.O. 5 DE JUNIO DE 2023)
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
@@ -3689,15 +3655,55 @@ VIII. Proporcionar información y cooperación técnicas a las dependencias de l
 
 IX. Coordinarse con la Coordinación General de Comunicación Social para la definición, seguimiento y evaluación de las políticas de difusión institucional.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO I. De la Dirección de Turismo, Cultura y Desarrollo Económico
+### CAPÍTULO XVI
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 258° TER.- Corresponde a la Dirección de Instancia Municipal de las Mujeres y Mecanismo Municipal de Adelanto:
+
+I. Promover, impulsar y estimular la formulación y aplicación de políticas y acciones públicas que tiendan a alcanzar la equidad entre los hombres y las mujeres y eliminar la discriminación de género;
+
+II. Promover, coordinar, vigilar y evaluar la adecuada ejecución de los programas, proyectos y acciones a favor de las mujeres, en contra de su discriminación y a favor de la equidad entre hombres y mujeres, mediante la coordinación con las Dependencias y Entidades Municipales y coadyuvar con el Instituto Aguascalentense de las Mujeres para el logro de los objetivos planteados en el ámbito de sus respectivas competencias;
+
+III. Promover la adecuada y eficiente implementación de las acciones a favor de las mujeres, desarrollando mecanismos que propicien la generación de información y estadística diferenciada; asegurando la disponibilidad de datos confiables y oportunos para el diseño e implementación de actividades orientadas a beneficiar a la mujer, además de evaluar su impacto en este sector de la sociedad, así como en la familia;
+
+IV. Promover la prestación de servicios de apoyo a las madres y padres que trabajan, que sean suficientes, eficientes, adecuados y de calidad, con horarios flexibles y que consideren las necesidades de ambos sexos, en relación con su vida familiar y la crianza de los hijos;
+
+V. Fungir como enlace y representante permanente ante los Institutos Nacional y Estatal de las Mujeres, en los asuntos de su competencia;
+
+VI. Diseñar y efectuar campañas, en coordinación con el Instituto Estatal de las Mujeres en su caso, para difundir las convenciones y tratados celebrados y ratificados por el Gobierno Mexicano, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas a favor de las mujeres;
+
+VII. Promover el respeto de los derechos humanos de las niñas y fomentar su desarrollo en condiciones de equidad;
+
+VIII. Promover los mecanismos de integración de la mujer en la vida económica, social, política y cultural del Municipio, en condiciones de equidad; así como la integración de los hombres en la vida familiar, con el objeto de promover la complementariedad;
+
+IX. Proponer e impulsar reformas legislativas que garanticen la participación de las mujeres en condiciones equitativas, en todos los ámbitos, sin importar el origen étnico o racial, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como promover el debido cumplimiento de las normas vigentes;
+
+X. Promover el acceso de las mujeres a servicios integrales de atención a la salud, en condiciones de calidad y tomando en cuenta las características particulares de su ciclo de vida, su condición social y su ubicación geográfica;
+
+XI. Impulsar la conformación y consolidación del Sistema de Centros Integrales Apoyo a la Mujer, dar seguimiento y evaluar sus programas, proyectos y acciones, emitir opiniones al respecto, así como promover la profesionalización y formación permanente de su personal;
+
+XII. Impulsar acciones que contribuyan a resolver el problema de la violencia contra las mujeres, en todas sus modalidades, priorizando su prevención, promoviendo la defensa y la protección de los derechos humanos de la mujer, en todas las etapas de su vida y ámbito de desarrollo;
+
+XIII. Proponer al Presidente Municipal suscribir acuerdos y convenios de coordinación o concertación, con las Dependencias de las administraciones públicas federal, estatal y municipal y organismos nacionales e internacionales que no sean facultad exclusiva del Gobierno del Estado, con el fin de cumplir su objeto, actuar como órgano de consulta, capacitación y asesoría de estas entidades públicas, sociales y privadas, con el objeto de lograr la igualdad de oportunidades para las mujeres;
+
+XIV. Elaborar el Programa Municipal para la No Discriminación y la Equidad entre Hombres y Mujeres y someterlo a aprobación del Presidente Municipal, así como actualizar periódicamente el diagnóstico sobre la situación de las mujeres y los hombres, en relación con los avances y la operatividad del mismo;
+
+XV. Rendir informes al Presidente Municipal a través de la Dirección del Sistema DIF Municipal sobre la evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Municipal para la No Discriminación y la Equidad de género;
+
+XVI. Promover e incentivar investigaciones y estudios que contribuyan a profundizar en el conocimiento de la problemática de la mujer en los diversos campos de la realidad social, así como la adecuada recopilación, sistematización y difusión de la información; y
+
+XVII. Las demás que señale el presente Código y otros ordenamientos legales
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
 
 ## TÍTULO CUARTO. TURISMO, CULTURA Y DESARROLLO ECONÓMICO
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO II. Equidad de Género
+### CAPÍTULO I. De la Dirección de Turismo, Cultura y Desarrollo Económico
 
 ###### ARTÍCULO 259°.
 
@@ -3771,9 +3777,7 @@ XIII. Procurar el apoyo frontal a las MIPyMES y fomentar el desarrollo de sus ca
 
 XIV. Apoyar, en coordinación con las diferentes dependencias las gestiones de los productores y trabajadores organizados para la obtención de servicios, insumos, créditos, financiamiento, maquinaria y demás elementos necesarios para el desarrollo de las actividades agroindustriales.
 
-### CAPÍTULO III. Comité Municipal contra la erradicación de la violencia de Género contra las Mujeres
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+### CAPÍTULO II. Equidad de Género
 
 ###### ARTÍCULO 261°.
 
@@ -3799,7 +3803,7 @@ El Programa Municipal para la No Discriminación y la Equidad entre Hombres y Mu
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO I. De la Dirección de Desarrollo Social y Rural
+### CAPÍTULO III. Comité Municipal contra la erradicación de la violencia de Género contra las Mujeres
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
@@ -3811,7 +3815,9 @@ I. El Presidente Municipal;
 
 II. El Secretario del H. Ayuntamiento;
 
-III. La Titular de la Instancia de la Mujer;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+III. Dirección de Instancia Municipal de la Mujer
 
 IV. El Síndico Municipal;
 
@@ -3835,7 +3841,7 @@ XI. El Jefe del Departamento de Comunicación Social.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO II. Del Departamento de Desarrollo Rural
+### CAPÍTULO I. De la Dirección de Desarrollo Social y Rural
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
@@ -3869,7 +3875,7 @@ XII. Las demás que le confiera el presente Código y demás ordenamientos aplic
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO III. De la Dirección de Planeación y Obras Públicas
+### CAPÍTULO II. Del Departamento de Desarrollo Rural
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
@@ -3901,7 +3907,7 @@ XI. Las demás que determine el presente Código y las demás disposiciones jur�
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO IV. De la Dirección de Agua Potable, Alcantarillado y Ecología
+### CAPÍTULO III. De la Dirección de Planeación y Obras Públicas
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
@@ -3985,7 +3991,7 @@ VII. Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ay
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO V. De la Dirección de Seguridad Pública y Movilidad Municipal
+### CAPÍTULO IV. De la Dirección de Agua Potable, Alcantarillado y Ecología
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
@@ -4039,6 +4045,16 @@ XXII. Desempeñar las demás funciones que les confieran las distintas disposici
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
 
+### CAPÍTULO V. De la Dirección de Seguridad Pública y Movilidad Municipal
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 270°.
+
+La Dirección de Seguridad Pública y Movilidad Municipal tendrá como facultades y obligaciones las establecidas en (sic) Libro Séptimo del presente Código de la Seguridad Pública y Movilidad Municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 6 DE ABRIL DE 2020)</small>
+
 ### CAPÍTULO VI. De la Coordinación de Casas Ciencia
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
@@ -4062,12 +4078,6 @@ VII. En coordinación con el IDSCEA, promover la apertura de nodos de ciencia, t
 VIII. Impulsar la apropiación social del conocimiento científico y tecnológico a la población de Asientos, en especial a la niñez, contribuyendo con su formación científica integral.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 6 DE ABRIL DE 2020)</small>
-
-###### ARTÍCULO 270°.
-
-La Dirección de Seguridad Pública y Movilidad Municipal tendrá como facultades y obligaciones las establecidas en (sic) Libro Séptimo del presente Código de la Seguridad Pública y Movilidad Municipal.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 6 DE ABRIL DE 2020)</small>
 
 ### CAPÍTULO VII. De la Coordinación Municipal de Protección Civil
 
@@ -4247,11 +4257,9 @@ V. Realizar el reporte diario de actividades y, en su caso, referir la informaci
 
 VI. Las demás que establezcan la Ley de Protección Civil.
 
-### CAPÍTULO I. De los Organismos Descentralizados
-
 ## TÍTULO SEXTO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL Y DESCONCENTRADA
 
-### CAPÍTULO II. De la Administración Desconcentrada
+### CAPÍTULO I. De los Organismos Descentralizados
 
 ###### ARTÍCULO 271°.
 
@@ -4269,7 +4277,7 @@ Los organismos públicos descentralizados tendrán la estructura orgánica y fun
 
 Los organismos públicos descentralizados y empresas de participación municipal, salvo disposición en contrario de sus acuerdos o decretos de creación, manejarán libremente su patrimonio, pero no podrán enajenar sus bienes inmuebles sin consentimiento expreso del ayuntamiento autorizado por mayoría calificada de sus integrantes.
 
-### CAPÍTULO I. De las Condiciones Generales de Trabajo
+### CAPÍTULO II. De la Administración Desconcentrada
 
 ###### ARTÍCULO 275°.
 
@@ -4355,7 +4363,7 @@ X. Las demás que señale la ley o el Presidente Municipal.
 
 ## TÍTULO SÉPTIMO. DE LAS RELACIONES DEL H. AYUNTAMIENTO CON SUS TRABAJADORES
 
-### CAPÍTULO II. De las Obligaciones de los Trabajadores
+### CAPÍTULO I. De las Condiciones Generales de Trabajo
 
 ###### ARTÍCULO 284°.
 
@@ -4427,7 +4435,7 @@ En ningún caso el reglamento podrá establecer condiciones de trabajo inferiore
 
 El reglamento que se encuentre vigente para la Presidencia Municipal de Asientos, podrá ser sujeto de reformas, adiciones o derogaciones, siempre y cuando se verifique para tal efecto el procedimiento de se (sic) expedición.
 
-### CAPÍTULO III. Medidas Disciplinarias
+### CAPÍTULO II. De las Obligaciones de los Trabajadores
 
 ###### ARTÍCULO 296°.
 
@@ -4485,7 +4493,7 @@ Todo lo relacionado con los riesgos profesionales y accidentes de trabajo, será
 
 Las faltas de asistencia injustificadas que tengan los trabajadores se sancionarán, reduciendo de su salario el día no trabajado y en caso de que compute mas de tres faltas en el término de treinta días será motivo suficiente para rescindir la relación laboral, sin responsabilidad para el H. Ayuntamiento.
 
-### CAPÍTULO IV. Del Cuerpo de Seguridad Pública
+### CAPÍTULO III. Medidas Disciplinarias
 
 ###### ARTÍCULO 300°.
 
@@ -4507,7 +4515,7 @@ III. Rescisión de la relación de trabajo; y
 
 IV. Denunciar los hechos ante las Autoridades competentes, en caso de que su conducta entrañe la comisión de algún ilícito.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO IV. Del Cuerpo de Seguridad Pública
 
 ###### ARTÍCULO 303°.
 
@@ -4523,7 +4531,7 @@ La imposición de las sanciones por la comisión de faltas o infracciones al pre
 
 ## TÍTULO OCTAVO. DE LA PLANEACIÓN Y EL DESARROLLO MUNICIPAL
 
-### CAPÍTULO II. Del Plan Municipal de Desarrollo
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 306°.
 
@@ -4545,7 +4553,7 @@ En la programación se instrumentarán sistemas operativos de fiscalización, co
 
 El Plan Municipal de Desarrollo tendrá la debida observancia y obligatoriedad que señalan para tal efecto las leyes respectivas, y deberá ajustarse a lo requerido por los Artículos 161 a 170 de la Ley Municipal para el Estado de Aguascalientes.
 
-### CAPÍTULO III. Del Presupuesto de Egresos
+### CAPÍTULO II. Del Plan Municipal de Desarrollo
 
 ###### ARTÍCULO 311°.
 
@@ -4599,7 +4607,7 @@ Los programas que se deriven del Plan Municipal de Desarrollo, especificarán su
 
 La aprobación, actualización o sustitución de los programas que se deriva (sic) del Plan Municipal de Desarrollo también es coordinada por el Comité de Planeación para el Desarrollo Municipal.
 
-### CAPÍTULO IV. De la Participación Social
+### CAPÍTULO III. Del Presupuesto de Egresos
 
 ###### ARTÍCULO 322°.
 
@@ -4741,7 +4749,7 @@ El Tesorero Municipal y los titulares de las dependencias y entidades reprograma
 
 El Tesorero Municipal llevará un estricto control de los flujos de efectivo programado, control de ingresos, control de egresos y control de saldos.
 
-### CAPÍTULO I. De la Clasificación de los Bienes
+### CAPÍTULO IV. De la Participación Social
 
 ###### ARTÍCULO 349°.
 
@@ -4769,7 +4777,7 @@ Los contratos y convenios que se celebren conforme a este capítulo se considera
 
 ## TÍTULO NOVENO. DEL PATRIMONIO MUNICIPAL
 
-### CAPÍTULO II. De los Bienes Muebles
+### CAPÍTULO I. De la Clasificación de los Bienes
 
 ###### ARTÍCULO 355°.
 
@@ -4835,7 +4843,7 @@ IV. Los demás bienes muebles o inmuebles que por cualquier TÍTULO traslativo d
 
 Los bienes del dominio público municipal son inalienables, imprescriptibles, inembargables y no están sujetos mientras no varíe su situación jurídica a acción reivindicatoria o de posesión.
 
-### CAPÍTULO III. De la Enajenación de los Bienes Municipales
+### CAPÍTULO II. De los Bienes Muebles
 
 ###### ARTÍCULO 361°.
 
@@ -5045,7 +5053,7 @@ La reparación del daño de bienes muebles se realizará mediante el acta corres
 
 Está prohibido el intercambio o sustitución de piezas que formen parte de un bien mueble, así como el intercambiar o retiro de la etiqueta de registro patrimonial. Quien incurra en dicha práctica será sancionado. En caso de detectar que la etiqueta patrimonial se encuentra en malas condiciones, será responsabilidad del resguardante dar aviso al Departamento correspondiente.
 
-### CAPÍTULO IV. Del Comité de Adquisiciones
+### CAPÍTULO III. De la Enajenación de los Bienes Municipales
 
 ###### ARTÍCULO 388°.
 
@@ -5139,7 +5147,7 @@ II. La justificación de la solicitud; y
 
 III. Los mutuos acuerdos entre las áreas.
 
-### CAPÍTULO V. Del Archivo Municipal
+### CAPÍTULO IV. Del Comité de Adquisiciones
 
 ###### ARTÍCULO 403°.
 
@@ -5301,7 +5309,7 @@ Las decisiones del Comité de Adquisiciones, tienen el carácter de definitivas 
 
 Todas las adquisiciones se sujetarán a lo dispuesto por la Ley Patrimonial del Estado, el presente CAPÍTULO y la Ley de Adquisiciones y Obras Públicas Federal, sin perjuicio de la aplicación supletoria señalada específicamente.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO V. Del Archivo Municipal
 
 ###### ARTÍCULO 420°.
 
@@ -5413,7 +5421,7 @@ IV. Concluida la revisión y confirmando el cotejo, el personal del archivo proc
 
 ## TÍTULO PRIMERO. DE LOS SERVICIOS Y FUNCIONES PÚBLICAS MUNICIPALES
 
-### CAPÍTULO II. Áreas Estratégicas
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 433°.
 
@@ -5507,7 +5515,7 @@ c) Deberá aprobarse el convenio por las dos terceras partes de los integrantes 
 
 d) Cuando el municipio tenga una incapacidad real para la ejecución o continuación en la ejecución del convenio, o bien que descuide sus funciones de gobierno o tenga que destinar recursos de otros programas para dar cumplimiento a las obligaciones que contrajo, lo hará saber al Titular del Ejecutivo del Estado, proponiéndole la forma que mejor estime necesaria para suspender o terminar el convenio.
 
-### CAPÍTULO III. De las Concesiones
+### CAPÍTULO II. Áreas Estratégicas
 
 ###### ARTÍCULO 440°.
 
@@ -5529,7 +5537,7 @@ Los servicios públicos no estratégicos podrán ser concesionados a particulare
 
 Los municipios podrán celebrar contratos con particulares para la realización de obras públicas y servicios relacionados con ellos, en los términos que fijen las leyes respectivas.
 
-### CAPÍTULO IV. De la Municipalización de los Servicios Públicos
+### CAPÍTULO III. De las Concesiones
 
 ###### ARTÍCULO 443°.
 
@@ -5607,7 +5615,7 @@ En los casos en que se acuerde la revocación de las concesiones, los bienes con
 
 El incumplimiento de las formalidades del procedimiento señaladas en éste Código, será motivo para determinar la revocación de concesiones.
 
-### CAPÍTULO I. Del Alumbrado Público
+### CAPÍTULO IV. De la Municipalización de los Servicios Públicos
 
 ###### ARTÍCULO 450°.
 
@@ -5645,7 +5653,7 @@ En el caso de los fraccionamientos, la municipalización se sujetará a lo dispu
 
 ## TÍTULO SEGUNDO. DE LOS SERVICIOS EN PARTICULAR
 
-### CAPÍTULO II. De los Parques y Jardines
+### CAPÍTULO I. Del Alumbrado Público
 
 ###### ARTÍCULO 457°.
 
@@ -5855,7 +5863,7 @@ VI. Distribución: unilateral, bilateral tres bolillo y bilateral pareada.
 
 La Dirección de Servicios Públicos Municipales podrá autorizar la instalación de faroles con requerimientos distintos a los señalados en el artículo anterior siempre y cuando las características de la calle lo justifiquen y exista un dictamen técnico favorable.
 
-### CAPÍTULO III. De la Limpia y Aseo Público
+### CAPÍTULO II. De los Parques y Jardines
 
 ###### ARTÍCULO 493°.
 
@@ -5947,7 +5955,7 @@ En caso de comercializar otras especies deberá comprobar su adaptación a las c
 
 Bajo líneas de alta tensión, sólo deberán plantarse árboles de poca altura, arbustos y herbáceas.
 
-### CAPÍTULO IV. Del Departamento de Regulación Sanitaria
+### CAPÍTULO III. De la Limpia y Aseo Público
 
 ###### ARTÍCULO 509°.
 
@@ -6031,7 +6039,7 @@ VI. En general, cualquier conducta que provoque el desaseo de la vía pública.
 
 La Dirección de Servicios Públicos Municipales, podrá contar con inspectores, mismos que tendrán la facultad de verificar el debido cumplimiento de las disposiciones de este Código. /Para (sic) tal efecto los particulares tendrán la obligación de prestar todas las facilidades a los inspectores para que cumplan con su cometido. En caso de negativa por parte de las personas, físicas o morales, se podrá facultar el auxilio de la fuerza pública.
 
-### CAPÍTULO V. De los Mercados
+### CAPÍTULO IV. Del Departamento de Regulación Sanitaria
 
 ###### ARTÍCULO 518°.
 
@@ -6063,7 +6071,7 @@ Los encargados de la conducción y reparto de productos cárnicos, tienen bajo s
 
 Para efectos del presente Capítulo, se llevará a cabo el procedimiento relativo fijado en las leyes respectivas y atendiendo a las facultades enumeradas en el Convenio de descentralización signado con el ISEA.
 
-### CAPÍTULO VI. De los Tianguis
+### CAPÍTULO V. De los Mercados
 
 ###### ARTÍCULO 521°.
 
@@ -6133,7 +6141,7 @@ IX. Vender, traspasar, arrendar, prestar, ceder o enajenar de cualquier forma to
 
 X. Cambiar de giro sin la autorización expresa de la Dirección de Servicios Públicos.
 
-### CAPÍTULO VII. De los Panteones
+### CAPÍTULO VI. De los Tianguis
 
 ###### ARTÍCULO 526°.
 
@@ -6221,7 +6229,7 @@ III. Los comerciantes de revistas científicas, libros y periódicos; y
 
 IV. Los discapacitados, pensionados y personas de la tercera edad.
 
-### CAPÍTULO VIII. Del Control de Rabia y Población Canina
+### CAPÍTULO VII. De los Panteones
 
 ###### ARTÍCULO 538°.
 
@@ -6847,7 +6855,7 @@ II. Multa hasta por el equivalente de diez días del salario mínimo vigente; y
 
 III. Arresto hasta por 36 horas en las instalaciones de la Dirección de Seguridad Pública y Vialidad.
 
-### CAPÍTULO IX. Del de Agua Potable, Alcantarillado y Ecología
+### CAPÍTULO VIII. Del Control de Rabia y Población Canina
 
 ###### ARTÍCULO 638°.
 
@@ -6993,7 +7001,7 @@ IV. Deberán tener ventilación suficiente y estar acomodados de tal forma que p
 
 V. Deberán mantenerse en buen estado los vehículos y todos los accesorios, debiendo asearse antes y después de las labores propias.
 
-### CAPÍTULO I. Medio Ambiente
+### CAPÍTULO IX. Del de Agua Potable, Alcantarillado y Ecología
 
 ###### ARTÍCULO 666°.
 
@@ -7099,7 +7107,7 @@ Para los efectos del artículo anterior, quedarán facultados los inspectores de
 
 ## TÍTULO TERCERO. MEDIO AMBIENTE Y RECURSOS NATURALES
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO I. Medio Ambiente
 
 ###### ARTÍCULO 675°.
 
@@ -7283,7 +7291,7 @@ Toda persona, física o moral, deberá denunciar ante la autoridad municipal en 
 
 ## TÍTULO PRIMERO. DEL COMERCIO E INDUSTRIA EN GENERAL
 
-### CAPÍTULO II. De las Licencias, Permisos y el Empadronamiento
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 689°.
 
@@ -7331,7 +7339,7 @@ XX. REGULACION SANITARIA: El Departamento de Regulación Sanitaria del Municipio
 
 XXI. REGULACIÓN Y CONTROL SANITARIO: A todos los actos que el Municipio coordinadamente con Reglamentos, lleve a cabo para ordenar o controlar el funcionamiento sanitario de los diferentes giros, comerciales, industriales y de servicios.
 
-### CAPÍTULO III. De los Horarios
+### CAPÍTULO II. De las Licencias, Permisos y el Empadronamiento
 
 ###### ARTÍCULO 690°.
 
@@ -7451,7 +7459,7 @@ II. Tendrán preferencia para obtener el empadronamiento los vecinos de este mun
 
 III. Una vez autorizado el respectivo empadronamiento deberán liquidar los derechos establecidos en la ley de ingresos del municipio a la Dirección de Administración.
 
-### CAPÍTULO IV. De las Obligaciones de los Comerciantes, Industriales y Prestadores de Servicios
+### CAPÍTULO III. De los Horarios
 
 ###### ARTÍCULO 705°.
 
@@ -7481,7 +7489,7 @@ IX. De las 9:00 a las 22:00 horas: Giros dedicados a la renta de máquinas de ju
 
 X. De las 8:00 a las 24:00 horas: Salones de Fiesta, eventos o banquetes a excepción de salones de fiestas infantiles, jardines para fiestas, que será hasta las 22:00 horas.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO IV. De las Obligaciones de los Comerciantes, Industriales y Prestadores de Servicios
 
 ###### ARTÍCULO 707°.
 
@@ -7579,7 +7587,7 @@ Mediante convenios, la administración municipal apoyará a las cámaras, asocia
 
 ## TÍTULO SEGUNDO. DEL COMERCIO Y OTRAS ACTIVIDADES EN LA VIA PÚBLICA
 
-### CAPÍTULO II. Derechos y Obligaciones de los Comerciantes en la Vía Pública
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 723°.
 
@@ -7601,7 +7609,7 @@ V. Sujetar los puestos a las condiciones específicas del área correspondiente 
 
 VI. Cubrir el pago de la credencial o gafete y los derechos correspondientes por el uso de piso, además de los pagos que determiné la ley de ingresos y demás disposiciones fiscales.
 
-### CAPÍTULO III. De los Aseadores de Calzado y de Vehículos en la Vía Pública
+### CAPÍTULO II. Derechos y Obligaciones de los Comerciantes en la Vía Pública
 
 ###### ARTÍCULO 725°.
 
@@ -7639,7 +7647,7 @@ VIII. Cumplir con las normas de seguridad, sanidad y otras establecidas por las 
 
 En ningún caso se permitirá que los merolicos que pretenden adivinar la suerte, el presente, el pasado o localizar persones (sic) extraviadas, sea cualquiera el medio que utilicen, ejerzan su actividad en el Municipio de Asientos. Así mismo, no se autorizará a aquellos que vendan talismanes, amuletos, o cualquier objeto que supuestamente proporcione buena suerte a quien lo adquiera o porte.
 
-### CAPÍTULO I. De la Venta y Consumo de Bebidas Alcohólicas
+### CAPÍTULO III. De los Aseadores de Calzado y de Vehículos en la Vía Pública
 
 ###### ARTÍCULO 730°.
 
@@ -7671,7 +7679,7 @@ IX. Portar su identificación de manera visible.
 
 ## TÍTULO TERCERO. DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
 
-### CAPÍTULO II. De las Farmacias, Droguerías, Tlapalerías o Similares
+### CAPÍTULO I. De la Venta y Consumo de Bebidas Alcohólicas
 
 ###### ARTÍCULO 733°.
 
@@ -7855,7 +7863,7 @@ Las sanciones enumeradas en el ARTÍCULO anterior no constituyen obligación par
 
 Corresponde aplicar las sanciones enumeradas anteriormente a la Secretaría del H. Ayuntamiento, por si o a través del Departamento de Reglamentos.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO II. De las Farmacias, Droguerías, Tlapalerías o Similares
 
 ###### ARTÍCULO 763°.
 
@@ -7879,7 +7887,7 @@ No podrán expender sin receta médica los medicamentos que así determine la Se
 
 ## TÍTULO CUARTO. DE LOS ESPECTÁCULOS PÚBLICOS EN GENERAL
 
-### CAPÍTULO II. De los Requisitos para Obtener Licencias
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 768°.
 
@@ -8253,9 +8261,7 @@ Las cafeterías que tengan autorizado en su giro la música viva, deberán conta
 
 Todo centro de espectáculos que funcione en espacios cerrados, deberá contar con extractores de humo y zonas destinadas para fumadores y no fumadores, cuando dentro de su interior se permita fumar, además con salidas de emergencia claramente identificadas.
 
-### CAPÍTULO I. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+### CAPÍTULO II. De los Requisitos para Obtener Licencias
 
 ###### ARTÍCULO 827°.
 
@@ -8303,7 +8309,9 @@ El H. Cabildo mediante declaratorio que se publique en el Periódico Oficial del
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO II. Del Sistema Municipal de Seguridad Pública
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 829°.
 
@@ -8533,7 +8541,7 @@ g) Policía: Llevará 1 cinta en color plata en forma de “V” con el vértice
 
 Los uniformes, insignias y divisas de los elementos de Seguridad Privada y corporaciones auxiliares, serán diferentes a las que porten los elementos operativos de la Dirección.
 
-### CAPÍTULO III. Del Consejo Municipal de Seguridad Pública
+### CAPÍTULO II. Del Sistema Municipal de Seguridad Pública
 
 ###### ARTÍCULO 844°.
 
@@ -8567,7 +8575,7 @@ III. Sistema Municipal de Información, Comunicaciones y Servicios de Atención 
 
 IV. Corporación de Seguridad Pública y Vialidad.
 
-### CAPÍTULO IV. De la Participación Ciudadana
+### CAPÍTULO III. Del Consejo Municipal de Seguridad Pública
 
 ###### ARTÍCULO 850°.
 
@@ -8681,7 +8689,7 @@ IV. Ejecutar las acciones y actividades necesarias a efectos de dar cumplimiento
 
 V. Las demás que le señale este Libro, el Consejo, su Presidente y demás ordenamientos que rijan en la materia.
 
-### CAPÍTULO V. De la Coordinación en Materia de Seguridad Pública
+### CAPÍTULO IV. De la Participación Ciudadana
 
 ###### ARTÍCULO 859°.
 
@@ -8731,7 +8739,7 @@ El Consejo Municipal de Consulta y Participación Ciudadana promoverá que las v
 
 El Consejo Municipal de Consulta y Participación Ciudadana en apoyo a la realización de los Programas Municipal, Estatal y Nacional de Seguridad Pública fomentará la cultura de la prevención del delito, la legalidad, los valores de la justicia y el respeto a los demás.
 
-### CAPÍTULO VI. De la Dirección
+### CAPÍTULO V. De la Coordinación en Materia de Seguridad Pública
 
 ###### ARTÍCULO 865°.
 
@@ -8769,7 +8777,7 @@ VI. Relación con la comunidad y fomento a la cultura de prevención de faltas c
 
 VII. Las demás que determinen las leyes y que resulten necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de Seguridad Pública, o mediante convenios y bases de coordinación entre instituciones que al efecto celebren.
 
-### CAPÍTULO VII. De la Profesionalización de los Elementos Operativos
+### CAPÍTULO VI. De la Dirección
 
 ###### ARTÍCULO 870°.
 
@@ -8829,7 +8837,7 @@ La Dirección podrá coordinarse con la Coordinación de Protección Civil, cuya
 
 La función de la Coordinación de Protección Civil, es la de prevenir y combatir incendios, explosiones de gases, derrames de combustibles o productos químicos, derrumbes de construcciones, fugas de gases tóxicos o combustibles, cortos circuitos y accidentes causados por equipo y material eléctrico, rescate de personas vivas o muertas, control de inundaciones, aseguramiento o destrucción de animales peligrosos y otros eventos en los que a juicio de la Dirección deba intervenir.
 
-### CAPÍTULO VIII. De las Bases y Lineamientos de Actuación de los Elementos Operativos
+### CAPÍTULO VII. De la Profesionalización de los Elementos Operativos
 
 ###### ARTÍCULO 879°.
 
@@ -8847,7 +8855,7 @@ Las carreras y los cursos de formación inicial serán accesibles a todos los as
 
 Los cursos de actualización y especialización serán obligatorios y accesibles a todo el personal de Seguridad Pública, quienes deberán asistir cuando menos una vez al año como requisito para su permanencia y promoción, presentando la constancia correspondiente.
 
-### CAPÍTULO IX. De la Ética y la Disciplina
+### CAPÍTULO VIII. De las Bases y Lineamientos de Actuación de los Elementos Operativos
 
 ###### ARTÍCULO 883°.
 
@@ -8965,7 +8973,7 @@ VII. Cuidar que se guarde el debido respeto a monumentos, recintos oficiales, lu
 
 VIII. Todas las demás que se les asignen o se incluyan en otras Leyes, reglamentos y el presente Código.
 
-### CAPÍTULO X. De las Medidas Disciplinarias
+### CAPÍTULO IX. De la Ética y la Disciplina
 
 ###### ARTÍCULO 886°.
 
@@ -9169,7 +9177,7 @@ LXV. Actuar dentro del orden jurídico respetando y haciendo respetar las leyes 
 
 Los elementos operativos de la Dirección podrán participar en espectáculos deportivos y culturales en su tiempo libre, y en su turno de servicio previa autorización de su superior jerárquico.
 
-### CAPÍTULO XI. De los Estímulos y Recompensas
+### CAPÍTULO X. De las Medidas Disciplinarias
 
 ###### ARTÍCULO 904°.
 
@@ -9271,7 +9279,7 @@ IV. Las condiciones externas que motivaron la falta y los medios de ejecución; 
 
 V. La reincidencia en el incumplimiento de sus obligaciones.
 
-### CAPÍTULO XII. De los Derechos de los Elementos de Seguridad Pública
+### CAPÍTULO XI. De los Estímulos y Recompensas
 
 ###### ARTÍCULO 909°.
 
@@ -9321,9 +9329,7 @@ Los diplomas se entregarán con motivo de acciones sobresalientes que enaltezcan
 
 Las cartas laudatorias se entregarán por una actividad especifica que haya contribuido a la ejecución de una misión importante o bien que la actividad fue ejemplar por su entrega y determinación. Consiste en la entrega de una carta a la persona distinguida donde se describe en forma breve y elocuente el merito alcanzado y es firmada por el Presidente Municipal, por el Director General de Gobierno, por el Director y por los integrantes de la Comisión de Seguridad Pública y Tránsito del H. Ayuntamiento.
 
-### CAPÍTULO XIII. De la Comisión de Honor y Justicia
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+### CAPÍTULO XII. De los Derechos de los Elementos de Seguridad Pública
 
 ###### ARTÍCULO 916°.
 
@@ -9367,7 +9373,9 @@ XII. Ser confinados en áreas especiales para policías en los casos en que sean
 
 XIII. Ser considerados para formar parte de la plantilla docente de capacitación del personal.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO XIII. De la Comisión de Honor y Justicia
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 920°.
 
@@ -9643,7 +9651,7 @@ IV. El Código de Procedimientos Civiles del Estado de Aguascalientes, para efec
 
 ## TÍTULO SEGUNDO. DE LA VIALIDAD MUNICIPAL
 
-### CAPÍTULO II. De los Requisitos para Circular
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 949°.
 
@@ -9709,7 +9717,7 @@ Previa autorización de la autoridad municipal, el Gobierno del Estado podrá ej
 
 De acuerdo con lo dispuesto por la Ley de Vías Generales de Comunicación, el Gobierno Municipal, a través de la Dirección, podrá ejercer funciones de movilidad en las carreteras y caminos federales, previa autorización de la Secretaría de Comunicaciones y Transportes.
 
-### CAPÍTULO III. De la Circulación en las Vías Públicas
+### CAPÍTULO II. De los Requisitos para Circular
 
 ###### ARTÍCULO 954°.
 
@@ -9725,7 +9733,7 @@ Podrán circular sin placas los remolque (sic) o vehículos de carga dentro del 
 
 Las licencias para conducir vehículos de motor estatales serán expedidas por la Secretaría de Seguridad Pública del Estado. En caso de que el Ayuntamiento decida celebrar convenios de colaboración para expedir estas licencias en el Municipio, se sujetará al trámite señalado para el efecto en la Ley de Movilidad del Estado.
 
-### CAPÍTULO IV. De los Estacionamientos, Sitios y Paradas
+### CAPÍTULO III. De la Circulación en las Vías Públicas
 
 ###### ARTÍCULO 957°.
 
@@ -9853,7 +9861,7 @@ II. Cuando una de las vías que unan en el cruce sea de mayor amplitud que la ot
 
 III. En igualdad de circunstancias de ancho y flujo vehicular, cuando al cruce se aproximen vehículos procedentes de diferentes direcciones, los conductores deberán hacer alto total y alternarse el paso, avanzando para cruzar aquél que ve al otro por su lado derecho, para tal efecto, se deberá de ceder el paso a un vehículo.
 
-### CAPÍTULO V. De los Controles Administrativos
+### CAPÍTULO IV. De los Estacionamientos, Sitios y Paradas
 
 ###### ARTÍCULO 969°.
 
@@ -9877,7 +9885,7 @@ La Dirección propondrá a la Autoridad del Transporte Público la ubicación de
 
 Los vehículos que presten el servicio de transporte de pasajeros suburbanos foráneos, sólo podrán levantar pasaje en su Terminal o en los sitios expresamente autorizados para ello, a falta de éstos, en los sitios donde se venga realizando por costumbre.
 
-### CAPÍTULO VI. De la Detención de los Vehículos
+### CAPÍTULO V. De los Controles Administrativos
 
 ###### ARTÍCULO 972°.
 
@@ -9905,7 +9913,7 @@ Los elementos operativos, al terminar su turno, entregarán a sus superiores rep
 
 Agregarán a su reporte el nombre de cualquier servidor público o persona que haya hecho alarde de influencias para evitar la sanción correspondiente, marcándole copia al Contralor Interno del Municipio para que sea sancionado.
 
-### CAPÍTULO VII. De la Pensión Municipal
+### CAPÍTULO VI. De la Detención de los Vehículos
 
 ###### ARTÍCULO 976°.
 
@@ -9999,7 +10007,7 @@ VIII. Nombre y firma del elemento policíaco que levanta el acta y en su caso el
 
 IX. Documento recogido en garantía del pago de la multa; el cual podrá ser a elección del infractor placa, licencia, tarjeta de circulación o vehículo.
 
-### CAPÍTULO I. De las Disposiciones Generales
+### CAPÍTULO VII. De la Pensión Municipal
 
 ###### ARTÍCULO 985°.
 
@@ -10241,7 +10249,7 @@ IV. Con el producto del remate, la autoridad municipal procederá a cubrir el mo
 
 ## TÍTULO PRIMERO. DE LA ORDENACIÓN Y REGULACION DEL DESARROLLO URBANO
 
-### CAPÍTULO II. De la Planeación del Desarrollo Urbano Municipal
+### CAPÍTULO I. De las Disposiciones Generales
 
 ###### ARTÍCULO 1031°.
 
@@ -10525,7 +10533,7 @@ El Programa Municipal de Desarrollo Urbano, será elaborado, aprobado, ejecutado
 
 Los programas parciales de desarrollo urbano, se derivan de los programas de desarrollo urbano de centros de población, a fin de ordenar y regular un área o zona comprendida dentro de los mismos.
 
-### CAPÍTULO III. De las Regulaciones a la Propiedad en los Centros de Población
+### CAPÍTULO II. De la Planeación del Desarrollo Urbano Municipal
 
 ###### ARTÍCULO 1045°.
 
@@ -10735,7 +10743,7 @@ Para dar un uso o destino distinto al que se le ha venido dando a un área, pred
 
 La presentación de dicha constancia será necesaria para iniciar el trámite de las licencias de construcción y de las licencias para la apertura y funcionamiento de giros comerciales, industriales y de servicios.
 
-### CAPÍTULO IV. De la Zonificación
+### CAPÍTULO III. De las Regulaciones a la Propiedad en los Centros de Población
 
 ###### ARTÍCULO 1069°.
 
@@ -10803,7 +10811,7 @@ Todo inmueble consignado como vía pública en algún plano o registro oficial e
 
 Los inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano en la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado como cabeza de sector Estatal para que procedan ante al (sic) Registro Público de la Propiedad y al Instituto Catastral, o sus equivalentes, para que hagan los registros y las cancelaciones respectivas para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano en la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado, ante al (sic) Registro Público de la Propiedad y al Instituto Catastral, o sus equivalentes, así como al Área de Control Municipal del Impuesto a la Propiedad Raíz para que hagan los registros y las cancelaciones respectivas.
 
-### CAPÍTULO V. Del Control del Desarrollo Urbano
+### CAPÍTULO IV. De la Zonificación
 
 ###### ARTÍCULO 1076°.
 
@@ -11159,7 +11167,7 @@ Las solicitudes para este tipo de licencias, se presentarán con la firma del pr
 
 El tiempo de vigencia de las licencias de construcción que expida la Dirección de Planeación y Obras Públicas estará en relación con la naturaleza y magnitud de la obra por ejecutar.
 
-### CAPÍTULO VI. De la Vía Pública
+### CAPÍTULO V. Del Control del Desarrollo Urbano
 
 ###### ARTÍCULO 1117°.
 
@@ -11393,7 +11401,7 @@ b) Programa de demolición elaborado y firmado por el perito responsable de obra
 
 No se permitirá realizar obras de rebaje o demolición de muros medianeros. Entiéndase por muros medianeros los que, en común a dos predios colindantes los divide y en ocasiones sostiene techumbres de ambas fincas.
 
-### CAPÍTULO VII. De la Nomenclatura y Números Oficiales
+### CAPÍTULO VI. De la Vía Pública
 
 ###### ARTÍCULO 1131°.
 
@@ -11587,7 +11595,7 @@ Las marquesinas podrán sobresalir del alineamiento, el ancho de la acera dismin
 
 Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, pudiendo la Secretaria revocarlos en cualquier momento que se juzgue conveniente.
 
-### CAPÍTULO I. De la Licencia de Construcción
+### CAPÍTULO VII. De la Nomenclatura y Números Oficiales
 
 ###### ARTÍCULO 1150°.
 
@@ -11755,7 +11763,7 @@ Preferentemente, dichas salidas deberán acondicionarse en sitios opuestos a las
 
 ## TÍTULO SEGUNDO. DE LAS CONSTRUCCIONES
 
-### CAPÍTULO II. De los Peritos
+### CAPÍTULO I. De la Licencia de Construcción
 
 ###### ARTÍCULO 1168°.
 
@@ -13049,7 +13057,7 @@ Los vidrios y cristales deberán colocarse tomando en cuenta los posibles movimi
 
 Los asientos selladores empleados en la colocación de piezas mayores al uno y medio metros cuadrados, deberán absorber tales deformaciones y conservar su elasticidad.
 
-### CAPÍTULO III. De los Proyectos Arquitectónicos
+### CAPÍTULO II. De los Peritos
 
 ###### ARTÍCULO 1385°.
 
@@ -13131,7 +13139,7 @@ XI. Haber satisfecho los requisitos exigidos por este Código, legislación o re
 
 XII. Tratándose de actos administrativos que sean recurribles, deberá de hacer mención del recurso procedente, además deberá hacerse mención a la oficina donde se encuentre el expediente respectivo.
 
-### CAPÍTULO IV. De las Instalaciones Hidráulicas y Eléctricas
+### CAPÍTULO III. De los Proyectos Arquitectónicos
 
 ###### ARTÍCULO 1393°.
 
@@ -13357,7 +13365,7 @@ Las notificaciones por edictos se realizarán haciendo la publicación con un re
 
 La manifestación que haga el interesado, su representante legal o quien esté autorizado para recibir notificaciones, de conocer el acuerdo o resolución, surtirá sus efectos de notificación en forma a partir del día hábil siguiente a ese hecho.
 
-### CAPÍTULO V. De la Edificación para Habitación
+### CAPÍTULO IV. De las Instalaciones Hidráulicas y Eléctricas
 
 ###### ARTÍCULO 1430°.
 
@@ -13443,7 +13451,7 @@ VIII. Declaración del visitado, si quisiera hacerla; y
 
 IX. Nombre y firma de quienes intervinieron en la diligencia, incluyendo los de quien la hubieren llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
 
-### CAPÍTULO VI. De la Edificación para Comercios y Servicios
+### CAPÍTULO V. De la Edificación para Habitación
 
 ###### ARTÍCULO 1441°.
 
@@ -13481,7 +13489,7 @@ En el Municipio de Asientos, a efectos de llevar a cabo el control de los infrac
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO VII. De la Edificación para Centros de Reunión y Espectáculos
+### CAPÍTULO VI. De la Edificación para Comercios y Servicios
 
 ###### ARTÍCULO 1449°.
 
@@ -13685,7 +13693,7 @@ II. Multa económica a favor del erario municipal; y
 
 III. Arresto hasta por treinta y seis horas.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VII. De la Edificación para Centros de Reunión y Espectáculos
 
 ###### ARTÍCULO 1474°.
 
@@ -13945,7 +13953,7 @@ Una vez concluidas las obras o los trabajos que hayan sido ordenados de acuerdo 
 
 ## TÍTULO TERCERO. DE LOS REQUISITOS ESTRUCTURALES
 
-### CAPÍTULO II. De los Criterios de Diseño
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1501°.
 
@@ -14019,7 +14027,7 @@ En caso de reincidencia, el Juez Calificador podrá duplicar el máximo de las s
 
 Se considera reincidente al que haya competido (sic) la misma falta dentro de los tres meses de ejecutada la primera u otra incluida dentro de la misma clasificación de protección de valores que indica este capítulo.
 
-### CAPÍTULO III. De las Normas Técnicas Complementarias y Supletorias
+### CAPÍTULO II. De los Criterios de Diseño
 
 ###### ARTÍCULO 1519°.
 
@@ -14053,7 +14061,7 @@ Nueve Unidades de Medida y Actualización: Treinta horas de arresto.
 
 Diez Unidades de Medida y Actualización: Treinta y seis horas de arresto.
 
-### CAPÍTULO I. De las Generalidades
+### CAPÍTULO III. De las Normas Técnicas Complementarias y Supletorias
 
 ###### ARTÍCULO 1522°.
 
@@ -14061,7 +14069,7 @@ El infractor, al momento que se determine su arresto, por ningún motivo quedar�
 
 ## TÍTULO CUARTO. DE LA EJECUCIÓN DE OBRAS
 
-### CAPÍTULO II. De los Materiales de Construcción y Obras en la Vía Pública
+### CAPÍTULO I. De las Generalidades
 
 ###### ARTÍCULO 1523°.
 
@@ -14191,7 +14199,7 @@ c) Construir sin respetar el proyecto autorizado con la licencia.
 
 Las infracciones especificadas en el artículo anterior serán aplicables indistintamente al propietario de la obra o predio, al constructor o contratista correspondiente o al Perito Responsable de Obra o Perito Especializado, previa investigación de los hechos y deslinde de responsabilidades.
 
-### CAPÍTULO III. De los Tapiales
+### CAPÍTULO II. De los Materiales de Construcción y Obras en la Vía Pública
 
 ###### ARTÍCULO 1535°.
 
@@ -14423,7 +14431,7 @@ La suspensión deberá perdurar hasta que el infractor realice el pago de la o l
 
 El verificador podrá solicitar para tal efecto el uso de la fuerza pública.
 
-### CAPÍTULO IV. De las Demoliciones
+### CAPÍTULO III. De los Tapiales
 
 ###### ARTÍCULO 1548°.
 
@@ -14457,7 +14465,7 @@ VIII. Cuando se compruebe que un comerciante administre un permiso en beneficio 
 
 La cancelación del permiso trae aparejada la clausura del puesto o establecimiento.
 
-### CAPÍTULO V. De las Mediciones y Trazos
+### CAPÍTULO IV. De las Demoliciones
 
 ###### ARTÍCULO 1552°.
 
@@ -14491,7 +14499,7 @@ Los afectados por los actos y resoluciones de las autoridades municipales que po
 
 La oposición a los actos de trámite en un procedimiento administrativo, independientemente de alegarse durante los interesados durante dicho procedimiento, para su consideración en la resolución que ponga fin al mismo, se hará valer en todo caso al impugnar la resolución definitiva.
 
-### CAPÍTULO VI. De las Excavaciones, Rellenos y Cimentación
+### CAPÍTULO V. De las Mediciones y Trazos
 
 ###### ARTÍCULO 1558°.
 
@@ -14543,7 +14551,7 @@ La autoridad deberá acordar, en su caso, la suspensión o la denegación de la 
 
 El superior jerárquico de la autoridad que emitió el acto o resolución impugnada será el encargado de resolver el recurso y tratándose de actos del Presidente Municipal o del Cabildo, corresponderá al propio Cabildo su resolución.
 
-### CAPÍTULO VII. De las Cimbras, Andamios y Estructuras de Madera
+### CAPÍTULO VI. De las Excavaciones, Rellenos y Cimentación
 
 ###### ARTÍCULO 1563°.
 
@@ -14595,17 +14603,7 @@ VI. No se probare la existencia del acto respectivo.
 
 La resolución del recurso se realizará de conformidad con lo establecido por los artículos 90 a 96 de la Ley del Procedimiento Administrativo, debiendo siempre fundarse en derecho y examinar todos y cada uno de los agravios hechos valer por el recurrente teniendo la autoridad la facultad de invocar hechos notorios, pero, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
 
-### Capítulo V.- Derogado. Artículos 111. – Derogado
-
-Artículos 112.- Derogado
-
-SEGUNDO: Publíquese el presente acuerdo en el Periódico Oficial del Estado, de acuerdo a lo ordenado en el artículo 94 de la Ley Municipal para el Estado de Aguascalientes.
-
-El presente decreto entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
-
-En Asientos, Aguascalientes, a 02 de agosto de 2021.”
-
-P.O. 14 DE FEBRERO DE 2022.
+### CAPÍTULO III. De la Impugnación de las Notificaciones
 
 ###### ARTÍCULO 1567°.
 
@@ -14623,6 +14621,8 @@ V. Si se resuelve que no hubo notificación o que ésta no fue efectuada conform
 
 VI. Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se hubiere interpuesto extemporáneamente, desechará dicho recurso.
 
+### CAPÍTULO VII. De las Cimbras, Andamios y Estructuras de Madera
+
 ### CAPÍTULO VIII. De la Mampostería y el Concreto
 
 ### CAPÍTULO IX. De las Estructuras Metálicas
@@ -14631,17 +14631,17 @@ VI. Si resuelve que la notificación fue legalmente practicada y, como consecuen
 
 ### CAPÍTULO XI. De las Fachadas y Recubrimientos
 
-### CAPÍTULO I. Del uso de Predios y Edificaciones
-
 ## TÍTULO QUINTO. DEL USO, OPERACION Y MANTENIMIENTO
 
-### CAPÍTULO II. Del Mantenimiento
+### CAPÍTULO I. Del uso de Predios y Edificaciones
 
-### CAPÍTULO I. De los Principios Generales
+### CAPÍTULO II. Del Mantenimiento
 
 # LIBRO NOVENO. DE LOS ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS
 
 ## TÍTULO PRIMERO. DE LOS REQUISITOS Y FORMALIDADES
+
+### CAPÍTULO I. De los Principios Generales
 
 ### CAPÍTULO II. Del Procedimiento Administrativo
 
@@ -14655,31 +14655,31 @@ VI. Si resuelve que la notificación fue legalmente practicada y, como consecuen
 
 ### CAPÍTULO VII. De las Verificaciones e Inspecciones
 
-### CAPÍTULO I. De los Jueces Calificadores de Seguridad Pública y Movilidad
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
 ## TÍTULO SEGUNDO. DE LA JUSTICIA MUNICIPAL
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO II. De los Receptores de Presuntos Infractores y Pertenencias
+### CAPÍTULO I. De los Jueces Calificadores de Seguridad Pública y Movilidad
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ## TÍTULO TERCERO. DE LAS INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
 
-### CAPÍTULO I. De las Disposiciones Generales
+### CAPÍTULO II. De los Receptores de Presuntos Infractores y Pertenencias
 
-### CAPÍTULO II. De las Faltas de Policía y Buen Gobierno
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO I. De las Disposiciones Generales
 
 #### SECCIÓN PRIMERA. De las Faltas Contra la Seguridad
 
+### CAPÍTULO II. De las Faltas de Policía y Buen Gobierno
+
 ### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad en Materia de Faltas de Policía y Buen Gobierno
 
-### CAPÍTULO IV. De las Reglas para la Imposición de Sanciones Administrativas
-
 ## TÍTULO CUARTO. DE LA INDIVIDUALIZACIÓN DE LAS SANCIONES
+
+### CAPÍTULO IV. De las Reglas para la Imposición de Sanciones Administrativas
 
 ### CAPÍTULO I. De las Sanciones en Materia de Faltas de Policía y Buen Gobierno
 
@@ -14689,15 +14689,13 @@ VI. Si resuelve que la notificación fue legalmente practicada y, como consecuen
 
 ### CAPÍTULO IV. De las Sanciones en Materia de Actividades de los Particulares en el Comercio
 
-### CAPÍTULO V. De las Sanciones en Materia de Espectáculos Públicos
-
 ## TÍTULO QUINTO. DEL RECURSO DE REVISIÓN
+
+### CAPÍTULO V. De las Sanciones en Materia de Espectáculos Públicos
 
 ### CAPÍTULO VI. De las Sanciones en Materia de Comercio en la Vía Pública
 
 ### CAPÍTULO I. De la Interposición del Recurso
-
-### CAPÍTULO II. De la Resolución del Recurso
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -14783,7 +14781,19 @@ P.O. 28 DE SEPTIEMBRE DE 2021.
 
 PRIMERO: Se derogan las disposiciones contenidas en el Capítulo V, artículos 111 y 112, quedando de la siguiente manera:
 
-### CAPÍTULO III. De la Impugnación de las Notificaciones
+### Capítulo V.- Derogado. Artículos 111. – Derogado
+
+Artículos 112.- Derogado
+
+SEGUNDO: Publíquese el presente acuerdo en el Periódico Oficial del Estado, de acuerdo a lo ordenado en el artículo 94 de la Ley Municipal para el Estado de Aguascalientes.
+
+El presente decreto entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+En Asientos, Aguascalientes, a 02 de agosto de 2021.”
+
+P.O. 14 DE FEBRERO DE 2022.
+
+### CAPÍTULO II. De la Resolución del Recurso
 
 ## [N. DE E. TRANSITORIOS DE LA “REFORMA AL ARTÍCULO 224 DEL CÓDIGO MUNICIPAL PARA ASIENTOS”.]
 
@@ -14798,3 +14808,15 @@ P.O. 13 DE FEBRERO DE 2023.
 Primero.- Se instruye a la Secretario (sic) del H. Ayuntamiento y Directora General de Gobierno para que de conformidad a las facultades que me (sic) confiere el Código Municipal para Asientos, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional de Asientos, la presente reforma.
 
 Segundo.- Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA DEL CÓDIGO MUNICIPAL DEL MUNICIPIO DE ASIENTOS, AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO SEGUNDO.
+
+SE TENDRÁ UN PLAZO DE 30 DÍAS PARA RECTIFICAR LOS NOMBRAMIENTOS A QUE DA ORIGEN EL PRESENTE DECRETO.
