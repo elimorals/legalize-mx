@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-coordinacion-hacendaria-del-estado-de-nuevo-leon-110684"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-03"
-last_updated: "2023-01-11"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,15 @@ state: "NLE"
 ---
 # LEY DE COORDINACION HACENDARIA DEL ESTADO DE NUEVO LEON
 
+[N. DE E. EL DECRETO NO. 399 QUE REFORMA POR ADICIÓN LOS DOS ARTÍCULOS TRANSITORIOS A LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN SE PUBLICÓ DE MANERA ELECTRÓNICA EL 5 DE JUNIO DE 2023 Y ERA CONSULTABLE EN LA PÁGINA WEB DEL PERIÓDICO OFICIAL DEL ESTADO: HTTP://SISTEC.NL.GOB.MX/TRANSPARENCIA_2015_LYPOE/ACCIONES/PERIODICOOFICIAL.ASPX. CON FUNDAMENTO EN EL ARTÍCULO 23 DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN DICHA VERSIÓN TENÍA LA MISMA VALIDEZ QUE LA EDICIÓN IMPRESA. NO OBSTANTE, A TRAVÉS DE DICHA LIGA ELECTRÓNICA YA NO SE VISUALIZA LA EDICIÓN EN COMENTO Y ESTE CDAACL NO CUENTA CON LA VERSIÓN IMPRESA.
+
+SE ADVIRTIÓ QUE EL MISMO DECRETO, CON LA REFORMA ANUNCIADA, SE PUBLICÓ EL 16 DE JUNIO DE 2023 EN LA GACETA LEGISLATIVA DEL ESTADO DE NUEVO LEÓN, CONSULTABLE EN: Dec. 399 Ref. Ley de Coordinacion Hacendaria del Estado
+
+AL RESPECTO, LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN TIENE EN ESTUDIO LA CONTROVERSIA CONSTITUCIONAL 130/2024 EN CONEXIDAD CON LAS CONTROVERSIAS CONSTITUCIONALES 109/2024, 128/2024 Y 129/2024.]
+
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de diciembre de 2015.
 
@@ -683,6 +689,12 @@ Cuarto.- Con respecto a los Fondos establecidos en los artículos 29 y 30 de est
 
 Quinto.- Se derogan las disposiciones y quedan sin efecto los convenios celebrados que se opongan a la presente Ley.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2023)</small>
+
+Sexto.- Se autoriza que exclusivamente durante el ejercicio fiscal 2023, los Municipios del Estado derivado de la caída de participaciones federales y una perspectiva de crisis financiera derivada de quiebras bancarias que está impactando el mercado petrolero puedan, si así lo requieren, disponer hasta el 100% del Fondo de Desarrollo Municipal establecido en el artículo 27 de la Ley de Coordinación Hacendaría del Estado, para destinarlo en los programas y acciones necesarias para el mejoramiento de su comunidad de acuerdo con las prioridades que establezca cada Ayuntamiento.
+
+Los municipios que ejerzan los recursos bajo la presente autorización deberán presentar de forma pormenorizada uso de los mismos para su fiscalización al rendir la Cuenta Pública correspondiente.
+
 Artículo Cuarto.- Envíese al Titular del Poder Ejecutivo el presente Decreto, con el fin de que proceda a la inmediata publicación en el Periódico Oficial del Estado, del Decreto 022, según las modificaciones aprobadas al mismo por este H. Congreso del Estado de Nuevo León.
 
 Por lo tanto envíese al Ejecutivo del Estado para su promulgación y publicación en el Periódico Oficial del Estado.
@@ -756,3 +768,9 @@ P.O. 11 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 249. SE REFORMAN LOS PÁRRAFOS SEGUNDO, SEXTO Y SÉPTIMO DEL ARTÍCULO 16, Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 17; Y POR ADICIÓN DEL ARTÍCULO 14 BIS, ARTÍCULO 17 BIS, CUARTO PÁRRAFO AL ARTÍCULO 21 Y DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 26, TODOS DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN”.]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 399. SE REFORMA POR ADICIÓN DE DOS ARTÍCULOS TRANSITORIOS A LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación.
