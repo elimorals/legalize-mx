@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-servicios-de-salud-del-estado-de-81663"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-13"
-last_updated: "2017-06-30"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de junio de 2011.
 
@@ -277,11 +277,15 @@ La Junta de Gobierno funcionará en los términos que disponga la Ley para el Co
 
 Para garantizar la aplicación de las políticas del Gobierno del Estado en materia de Salud, el cargo de Director General lo podrá ocupar el Secretario de Salud del Estado, en cuyo caso, el segundo de estos cargos será honorífico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 20.
 
-Para ser Director General se requiere:
+Para ser la Persona Titular de la Dirección General se requiere:
 
-I. Ser mexicano, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+I. Ser de nacionalidad mexicana, en pleno ejercido (sic) de sus derechos;
 
 II. Ser mayor de 30 años de edad, profesionista en el área de salud y haber desempeñado cargos directivos;
 
@@ -604,3 +608,9 @@ El personal, patrimonio, expedientes, archivos, mobiliario y bienes de los hospi
 ###### ARTÍCULO OCTAVO.
 
 La transferencia de los recursos humanos, financieros y materiales que se encuentran asignados a los hospitales Centenario Hospital Miguel Hidalgo y Hospital de Psiquiatría "Dr. Gustavo León Mojica García" del Estado de Aguascalientes deberá llevarse a cabo a más tardar el día 31 de diciembre del 2017, pasando a formar parte del Instituto de Servicios de Salud del Estado de Aguascalientes, de conformidad con los acuerdos de transferencia que para tal efecto suscriban el Director General del Instituto y los Directores Titulares de los Hospitales objeto del presente decreto.
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 352.- SE REFORMA LA LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
