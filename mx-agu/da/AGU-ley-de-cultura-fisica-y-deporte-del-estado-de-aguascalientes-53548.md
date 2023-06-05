@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2023-05-08"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -1859,9 +1859,17 @@ II. El ingreso y utilización de petardos, bombas de estruendo, bengalas, fuegos
 
 III. La introducción de banderas, carteles, pancartas, mantas o elementos gráficos que atenten contra la moral, la sana convivencia o inciten a la violencia, así como cualquier elemento que impida la plena identificación de los espectadores o aficionados en general;
 
-IV. El establecimiento de espacios determinados, de modo permanente o transitorio, para la ubicación de las porras o grupos de animación empadronados por los clubes o equipos y registrados ante su respectiva Asociación Deportiva; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-V. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas; así como de personas que se encuentren bajo los efectos de las mismas.
+IV. El establecimiento de espacios determinados, de modo permanente o transitorio, para la ubicación de las porras o grupos de animación empadronados por los clubes o equipos y registrados ante su respectiva Asociación Deportiva;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+V. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas; así como de personas que se encuentren bajo los efectos de las mismas; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+VI. La vigilancia y protección de la integridad física y personal de todas las personas poniendo especial atención en aquellas que estén en situación de discapacidad, adultas mayores, mujeres, niñas, niños y adolescentes.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 2016)</small>
 
@@ -1869,11 +1877,25 @@ V. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimula
 
 Quienes en su carácter de asistente o espectador acudan a la celebración de un evento deportivo deberán:
 
-I. Acatar las disposiciones normativas relacionadas con la celebración de eventos deportivos que emita la Comisión, así como las establecidas por el Municipio en donde se lleven a cabo; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
+I. Acatar las disposiciones normativas relacionadas con la celebración de eventos deportivos que emita la Comisión, así como las establecidas por el Municipio en donde se lleven a cabo;
 
-Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables de carácter federal, estatal, y municipal, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+III. Respetar en todo momento dentro y fuera del evento, los espacios destinados para personas en situación de discapacidad, adultas mayores, mujeres, niñas, niños y adolescentes y darles prioridad y preferencia al ingreso y salida del evento, así como evitar cometer actos violentos que pongan en riesgo su integridad física y personal.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+
+Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables de carácter federal, estatal, y municipal, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, o que, por cometer actos violentos se vulnere la integridad física y personal de las personas en situación de discapacidad, adultas mayores, mujeres, niñas, niños y adolescentes, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2023)</small>
+
+La Comisión Especial Estatal contra la Violencia en el Deporte, será la encargada de elaborar y conducir las políticas contra la violencia para salvaguardar la integridad física y personal de las personas en situación de discapacidad, adultas mayores, mujeres, niñas, niños y adolescentes en los eventos deportivos que se realicen en la entidad.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 2016)</small>
 
@@ -2188,6 +2210,14 @@ Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que
 P.O. 8 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 320.- REFORMA A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 350.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
