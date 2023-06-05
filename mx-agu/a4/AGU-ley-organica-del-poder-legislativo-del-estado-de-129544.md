@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2023-04-10"
+last_updated: "2023-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -1997,7 +1997,9 @@ Al frente de esta dependencia habrá un Secretario General, quien será propuest
 
 Para ser designado Secretario General del Congreso del Estado se requiere:
 
-I. Ser ciudadano mexicano y estar en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos;
 
 II. Haber cumplido treinta años de edad;
 
@@ -2005,9 +2007,17 @@ III. Contar con título profesional legalmente expedido por Universidad Mexicana
 
 IV. Acreditar conocimientos y experiencia para desempeñar el cargo a juicio de la Junta de Coordinación Política;
 
-V. No haber sido candidato o haber ocupado un puesto de elección popular en los 5 años anteriores a la fecha de su nombramiento; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-VI. No haber sido condenado por delito doloso.
+V. No haber sido candidato o haber ocupado un puesto de elección popular en los 5 años anteriores a la fecha de su nombramiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JUNIO DE 2023)</small>
+
+VI. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE JUNIO DE 2023)</small>
+
+VII. No haber sido condenado mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
 
 ###### ARTÍCULO 157.
 
@@ -2384,3 +2394,11 @@ P.O. 10 DE ABRIL DE 2023.
 ###### ARTICULO UNICO.
 
 La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
+
+P.O. 5 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 307.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.- SE REFORMA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
