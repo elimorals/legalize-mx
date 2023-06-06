@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-160750"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-10-27"
-last_updated: "2023-05-08"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160750&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2022-10-17"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2023.
 
 Acuerdo publicado en el Número 24 del Diario Oficial de la Federación, el jueves 27 de octubre de 2022.
 
@@ -211,9 +211,11 @@ XVII. Sistema Electrónico: Sistema Electrónico de Conflictos Laborales del Con
 
 XVIII. Teletrabajo: Modalidad de trabajo en la cual el desempeño de las actividades inherentes al cargo se desarrolla parcial o totalmente en lugares distintos al centro de trabajo, por lo que no se requiere la presencia física de la persona teletrabajadora en el órgano jurisdiccional o área administrativa de su adscripción, utilizando las tecnologías de la información para el cumplimiento de sus atribuciones o funciones, así como para el contacto y mando entre la persona teletrabajadora y la persona equiparada al patrón;
 
-XIX. Unidad: Unidad de Prevención y Combate a la Violencia Laboral;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES RELACIONADAS CON LA REESTRUCTURACIÓN DE LAS ÁREAS ADMINISTRATIVAS INCORPORADAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 6 DE JUNIO DE 2023)</small>
 
-XX. UPCAS: Unidad de Prevención y Combate al Acoso Sexual; y
+XIX. Unidad: Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual; y
+
+XX. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES RELACIONADAS CON LA REESTRUCTURACIÓN DE LAS ÁREAS ADMINISTRATIVAS INCORPORADAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 6 DE JUNIO DE 2023)
 
 XXI. Violencia laboral: Aquellos actos de acoso, hostigamiento, agresión o amenazas en contra de una persona servidora pública, que pueden dañar su integridad física o salud, en general, incluyendo el ámbito mental, emocional o psicológico.
 
@@ -259,9 +261,11 @@ Capacitación, sensibilización y actualización de las personas servidoras púb
 
 La Escuela Federal de Formación Judicial, deberá incluir dentro de los planes anuales de capacitación, cursos en materia de igualdad y paridad de género, así como de entornos libres de violencia, para la aprobación del Pleno.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES RELACIONADAS CON LA REESTRUCTURACIÓN DE LAS ÁREAS ADMINISTRATIVAS INCORPORADAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 6 DE JUNIO DE 2023)</small>
+
 ###### Artículo 6.
 
-Realización de una encuesta anual en forma anónima. La Unidad practicará una encuesta anual anónima a todo el personal del Consejo, la cual se aplicará mediante el uso de tecnologías de la información, que respalden la seguridad de la misma y garanticen su confiabilidad y secrecía. El instrumento será confeccionado por dicha área, en colaboración con la Dirección General de Innovación, Planeación y Desarrollo Institucional, con la asistencia técnica de la Dirección General de Estrategia y Transformación Digital, y de la Dirección General de Tecnologías de la Información, así como con la retroalimentación de la Visitaduría Judicial, la UPCAS y la DGDHIGAI.
+Realización de una encuesta anual en forma anónima. La Unidad practicará una encuesta anual anónima a todo el personal del Consejo, la cual se aplicará mediante el uso de tecnologías de la información, que respalden la seguridad de la misma y garanticen su confiabilidad y secrecía. El instrumento será confeccionado por dicha área, en colaboración con la Dirección General de Innovación, Planeación y Desarrollo Institucional, con la asistencia técnica de la Dirección General de Estrategia y Transformación Digital, y de la Dirección General de Tecnologías de la Información, así como con la retroalimentación de la Visitaduría Judicial, la Unidad y la DGDHIGAI.
 
 ###### Artículo 7.
 
@@ -599,47 +603,11 @@ En adición al catálogo de medidas cautelares previstas en la Ley Orgánica, la
 
 ###### Artículo 38.
 
-Competencia de la Unidad. Es el área administrativa dependiente de la Secretaría General de la Presidencia del Consejo, encargada de diseñar e implementar estrategias de prevención de situaciones de violencia laboral, de prácticas contrarias a los derechos laborales de las personas trabajadoras, así como de eliminación de riesgos psicosociales; de atender y dar seguimiento a casos relacionados con cualquier forma de violencia laboral a través de un enfoque de justicia restaurativa, de conciliación y disuasión en el que participe como coadyuvante en la solución de conflictos laborales, sin intervenir formalmente ante instancias disciplinarias ni en el procedimiento ante la Comisión de Conflictos Laborales.
+(DEROGADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES RELACIONADAS CON LA REESTRUCTURACIÓN DE LAS ÁREAS ADMINISTRATIVAS INCORPORADAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 6 DE JUNIO DE 2023)
 
 ###### Artículo 39.
 
-Atribuciones de la persona titular de la Unidad. La persona titular de esta unidad administrativa contará con las atribuciones siguientes:
-
-I. Presentar puntos de acuerdo a las Comisiones o al Pleno del Consejo, según corresponda y en el ámbito de su competencia;
-
-II. Fungir como área de asesoría y consulta para la prevención y disuasión de situaciones potenciales o actuales de violencia laboral. Tratándose de situaciones actuales, deberán elaborarse diagnósticos, propuestas de acuerdo y esquemas de seguimiento. En casos extremos, la Unidad podrá proponer al Pleno o la Comisión, según corresponda, medidas preventivas;
-
-III. Intervenir, a petición del personal de un órgano jurisdiccional o área administrativa, de las y los titulares, o de los sindicatos, como mediadora y conciliadora ante casos de violencia laboral, privilegiando un enfoque de justicia restaurativa. De ser el caso, el resultado de esta actividad podrá conducir, a juicio de la Comisión o del Pleno, según corresponda, a la resolución de un conflicto laboral;
-
-IV. Atender con la debida diligencia los casos de cualquier forma de violencia laboral, así como canalizar oportunamente a las áreas competentes los asuntos que no sean de su competencia o que requieran de su intervención conjunta;
-
-V. Dar opinión técnica ante las instancias disciplinarias y laborales competentes para la adopción de medidas cautelares;
-
-VI. Fungir como un órgano especializado coadyuvante de la Comisión, a través de la elaboración u opinión técnica de las propuestas de solución de controversias por conductas relacionadas con cualquier forma de violencia laboral. Las propuestas se elaborarán desde un enfoque integral y restaurativo que incluya medidas de reparación, privilegiando aquéllas de no repetición;
-
-VII. Brindar asesoría, acompañamiento psicosocial y consulta jurídica a las personas servidoras públicas, relacionadas con conductas de violencia laboral, pudiéndose apoyar para ello en los diversos programas y áreas administrativas del Consejo;
-
-VIII. Proporcionar acompañamiento al personal del Consejo que haya sufrido cualquier forma de violencia laboral, ante las instancias de investigación y substanciación de procedimientos en materia disciplinaria y, si fuese el caso, de naturaleza laboral;
-
-IX. Proponer, ante o conjuntamente con las instancias competentes, la implementación y evaluación de los programas relativos a la promoción de la salud en el trabajo, mediante la prevención y eliminación de riesgos psicosociales, así como de la violencia laboral;
-
-X. Someter a autorización del Pleno, previa valoración de la Comisión de Vigilancia, el diseño y aplicación de un protocolo de atención para casos relacionados con cualquier forma de violencia laboral, que comprenda medidas de prevención y atención, esquemas de mediación y conciliación, y lineamientos para la solución de conflictos y la generación de medidas de reparación;
-
-XI. Proponer mecanismos para fomentar la solución de conflictos a través del diálogo y la conciliación, y, en aquellos casos en que sea necesario, denunciar de cualquier forma de violencia laboral, así como garantizar el anonimato en las quejas y denuncias, y la confidencialidad de las personas quejosas o denunciantes;
-
-XII. Realizar estudios, diagnósticos, investigaciones o evaluaciones a nivel organizacional sobre posibles factores de riesgo psicosocial en el trabajo y sobre violencia laboral en general, en colaboración con las áreas que resulten competentes. Dentro de los productos que surjan de estos ejercicios deberá considerarse la emisión de un manual de buenas prácticas organizacionales;
-
-XIII. Establecer mecanismos de vinculación interinstitucional con entidades nacionales o internacionales especializadas en materia de combate a la violencia laboral, así como en materia de prevención de riesgos psicosociales para contribuir al cumplimiento de sus atribuciones;
-
-XIV. Proponer acciones de capacitación y sensibilización al personal del Consejo, en coordinación con la Escuela Federal de Formación Judicial, en materia de prevención a cualquier forma de violencia laboral;
-
-XV. Rendir ante el Pleno un informe anual de actividades;
-
-XVI. Proponer a la Dirección General de Tecnologías de la Información y a la Dirección General de Estrategia y Transformación Digital el diseño y, en su caso, actualización de un sistema de control, estadística y gestión de los asuntos atendidos; y
-
-XVII. Las demás que establezca el Pleno.
-
-En caso de que alguno de los asuntos tenga relación con la competencia de la Unidad de Prevención y Combate al Acoso Sexual, por incluir posibles conductas de acoso y hostigamiento sexual o cualquier otro tipo de violencia de género, la persona titular de la Unidad solicitará, previa autorización de la persona afectada, la intervención de dicha unidad administrativa o, en su caso, el asunto le será canalizado considerando las circunstancias en cada supuesto. Asimismo, la actuación de la Unidad deberá coordinarse con la Dirección General de Protección Civil y Salud en el Trabajo para efecto del despliegue de atribuciones con que cuenta en términos del Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se expide el similar que reglamenta la organización y funcionamiento del propio Consejo.
+(DEROGADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES RELACIONADAS CON LA REESTRUCTURACIÓN DE LAS ÁREAS ADMINISTRATIVAS INCORPORADAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 6 DE JUNIO DE 2023)
 
 ###### Artículo 40.
 
@@ -892,3 +860,27 @@ D.O.F. 8 DE MAYO DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES RELACIONADAS CON LA REESTRUCTURACIÓN DE LAS ÁREAS ADMINISTRATIVAS INCORPORADAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Se instruye a la Dirección General de Innovación, Planeación y Desarrollo Institucional para que, en un plazo de 20 días hábiles contados a partir de la entrada en vigor del presente Acuerdo General, someta a consideración del Pleno del Consejo de la Judicatura Federal, la propuesta de estructura orgánica de la Coordinación General de Planeación Institucional y de la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual.
+
+CUARTO. Las plazas actualmente adscritas a la Secretaría Ejecutiva de Administración para el seguimiento de las actividades de la Dirección General de Innovación, Planeación y Desarrollo Institucional se readscribirán a la Coordinación General de Planeación Institucional.
+
+QUINTO. Se instruye a la Dirección General de Asuntos Jurídicos para proponer, dentro de los dos meses siguientes, contados a partir de la entrada en vigor del Acuerdo General que se aprueba, la modificación de la normativa institucional, a fin de armonizarla con el citado instrumento normativo. Asimismo, realizar las modificaciones correspondientes al lenguaje inclusivo en relación con la Presidencia del Consejo.
+
+SEXTO. Las referencias a la Coordinación de Asesores de la Presidencia y la Dirección General de Gestión Administrativa, en los distintos instrumentos normativos institucionales se entenderán realizadas a la Coordinación General de Planeación Institucional y a la Dirección General de Vinculación y Relaciones Interinstitucionales, respectivamente. Las menciones a la Unidad de Prevención y Combate al Acoso Sexual y a la Unidad de Prevención y Combate a la Violencia Laboral, se entenderán efectuadas a la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual.
+
+SÉPTIMO. Las acciones implementadas para el inicio de actividades de la Unidad de Prevención y Combate a la Violencia Laboral, deberán reorientarse en términos del ámbito de atribuciones aprobadas para la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual.
+
+OCTAVO. La Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual someterá a consideración del Pleno, previo visto bueno de la Secretaría General de la Presidencia, dentro de los dos meses siguientes a la entrada en vigor del presente Acuerdo General, un protocolo de actuación de dicha unidad administrativa conforme a sus atribuciones.
+
+NOVENO. La persona titular de la Unidad de Prevención y Combate al Acoso Sexual continuará desempeñando las atribuciones contenidas en los artículos 98 Septies y 98 Octies del Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se expide el similar que reglamenta la organización y funcionamiento del propio Consejo; y reforma y deroga diversas disposiciones de otros acuerdos generales, vigentes con anterioridad a la entrada en vigor del presente Acuerdo General, hasta en tanto el Pleno del Consejo la Judicatura Federal apruebe la propuesta presentada por la Dirección General de Innovación, Planeación y Desarrollo Institucional, para la determinación de la estructura del personal que estará adscrito a la Unidad de Prevención y Combate a la Violencia Laboral y al Acoso Sexual.
+
+DÉCIMO. La Secretaría Ejecutiva de Administración, a través de las áreas competentes, llevará a cabo las acciones necesarias para la implementación de este Acuerdo General.
