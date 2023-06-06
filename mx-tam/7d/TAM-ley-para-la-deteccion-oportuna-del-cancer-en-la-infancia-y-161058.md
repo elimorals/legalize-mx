@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-deteccion-oportuna-del-cancer-en-la-infancia-y-1610
 country: "mx"
 rank: "ley"
 publication_date: "2022-11-18"
-last_updated: "2022-11-18"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA DETECCIÓN OPORTUNA DEL CÁNCER EN LA INFANCIA Y LA ADOLESCENCIA EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Número Extraordinario 25 del Periódico Oficial del Estado de Tamaulipas, el viernes 18 de noviembre de 2022.
 
@@ -89,7 +89,9 @@ III. Consejo: El Consejo Estatal para la Prevención y el Tratamiento del Cánce
 
 IV. Centro: El Centro Estatal para la Salud de la Infancia y la Adolescencia;
 
-V. Estrella Dorada: Reconocimiento anual que se otorga a las personas físicas y/o jurídicas que de manera sobresaliente contribuyen a fortalecer acciones de prevención, atención, tratamiento, acompañamiento, de intercambio de conocimientos, investigación, o la obtención de insumos, materiales y recursos, con la finalidad de mejorar la calidad de vida de los menores con cáncer y sus familias;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+V. Estrella Dorada: Reconocimiento anual que se otorga a las personas físicas y/o jurídicas que de manera sobresaliente contribuyen a fortalecer acciones de prevención, atención, tratamiento, acompañamiento, de intercambio de conocimientos, investigación, o la obtención de insumos, materiales y recursos, con la finalidad de mejorar la calidad de vida de las niñas, niños y adolescentes con cáncer y sus familias;
 
 VI. Frente de Colaboración: El Frente de Colaboración Contra el Cáncer Infantil y la Adolescencia del Estado de Tamaulipas;
 
@@ -103,7 +105,9 @@ IX. UMA: Unidades Médicas Acreditadas.
 
 Son principios rectores de esta Ley:
 
-I. El interés superior del menor;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+I. El interés superior de las niñas, niños y adolescentes;
 
 II. El derecho a la vida, la supervivencia y de desarrollo;
 
@@ -391,27 +395,37 @@ El prestador de servicios de salud de cualquier nivel de atención deberá remit
 
 La Secretaría promoverá con las instituciones educativas, públicas y privadas, que impartan la licenciatura de medicina y enfermería, la inclusión en sus planes de estudios, la capacitación especializada sobre la sintomatología principal, sintomatología de sospecha y/o factores de riesgo, de los tipos más prevalentes de cáncer en la infancia y la adolescencia.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
 ###### Artículo 31.
 
-Cualquier atención o servicio formulado al menor que se presuma con cáncer o cuyo diagnóstico haya sido confirmado estará soportado en los protocolos y guías especializadas a que se refiere la Ley General de la materia.
+Cualquier atención o servicio formulado a las niñas, niños o adolescentes que se presuman con cáncer o cuyo diagnóstico haya sido confirmado estará soportado en los protocolos y guías especializadas a que se refiere la Ley General de la materia.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
 ###### Artículo 32.
 
-Los prestadores de servicio social, los trabajadores sociales, el personal de enfermería, así como todo médico general o especialista que trate con menores de edad, deberá disponer de las guías que permitan, de manera oportuna, remitir al menor con una impresión diagnóstica de cáncer, a una UMA, para que se le practiquen, oportunamente, todas las pruebas necesarias orientadas a confirmar o rechazar el diagnóstico.
+Los prestadores de servicio social, los trabajadores sociales, el personal de enfermería, así como todo médico general o especialista que trate con niñas, niños o adolescentes, deberá disponer de las guías que permitan, de manera oportuna, remitirlos con una impresión diagnóstica de cáncer, a una UMA, para que se les practiquen, oportunamente, todas las pruebas necesarias orientadas a confirmar o rechazar el diagnóstico.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
 ###### Artículo 33.
 
-El médico que otorgue el diagnóstico de cáncer en un menor, sujetos de derechos en esta Ley, lo incluirá en la base de datos del Registro Estatal de Cáncer en la Infancia y Adolescencia especificando, que cada sujeto de derechos en esta Ley, contará, a partir de ese momento y hasta que el diagnóstico no se descarte, con la autorización de todos los procedimientos, de manera integral y oportuna.
+El médico que otorgue el diagnóstico de cáncer en niñas, niños o adolescentes, sujetos de derechos en esta Ley, lo incluirá en la base de datos del Registro Estatal de Cáncer en la Infancia y Adolescencia especificando, que cada sujeto de derechos en esta Ley, contará, a partir de ese momento y hasta que el diagnóstico no se descarte, con la autorización de todos los procedimientos, de manera integral y oportuna.
 
 ###### Artículo 34.
 
 El médico que confirme el diagnóstico deberá hacer énfasis al momento de brindar información completa a la madre, el padre, el tutor o representante legal de la niña, niño o adolescente, de los signos y síntomas de alarma que podrían llegar a presentarse y que pueden poner en riesgo la vida del paciente si no recibe atención oportuna.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2023)</small>
+
 ###### Artículo 35.
 
-A partir de la confirmación del diagnóstico de cáncer y hasta en tanto el tratamiento concluya, las autoridades correspondientes de las UMA, autorizarán los servicios que requiera el menor de manera oportuna. Estos servicios se prestarán, de acuerdo con el criterio de los médicos tratantes en las distintas especialidades, respetando los tiempos, para confirmación de diagnóstico e inicio del tratamiento que establezcan las guías de atención.
+A partir de la confirmación del diagnóstico de cáncer y hasta en tanto el tratamiento concluya, las autoridades correspondientes de las UMA, autorizarán los servicios que requiera la niña, niño o adolescente de manera oportuna. Estos servicios se prestarán, de acuerdo con el criterio de los médicos tratantes en las distintas especialidades, respetando los tiempos, para confirmación de diagnóstico e inicio del tratamiento que establezcan las guías de atención.
 
-En caso de que la UMA en la que se realizó el diagnóstico no cuente con los servicios necesarios o no cuente con la capacidad disponible, se remitirá al menor a la UMA más cercana.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+En caso de que la UMA en la que se realizó el diagnóstico no cuente con los servicios necesarios o no cuente con la capacidad disponible, se remitirá a la niña, niño o adolescente a la UMA más cercana.
 
 En la medida en que los recursos presupuestales lo permitan, la Secretaría, podrá habilitar unidades móviles de atención con la capacidad para ministrar tratamientos oncológicos ambulatorios, manejar y diagnosticar complicaciones relacionadas al tratamiento con la finalidad de evitar que los pacientes y sus familias se alejen de su lugar de origen por tiempos prolongados y esto incremente el riesgo de separación y de abandono al reducir gastos colaterales en estancias prolongadas fuera de su lugar de origen.
 
@@ -437,7 +451,9 @@ VI. Incluir e integrar a las familias en los planes y programas Gubernamentales,
 
 VII. Promover y coordinar la participación de las instituciones encargadas de la atención de las niñas, niños, adolescentes y sus familias; y
 
-VIII. Coadyuvar para mejorar el traslado de las y los menores, para recibir su tratamiento.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+VIII. Coadyuvar para mejorar el traslado de las niñas, niños o adolescentes, para recibir su tratamiento.
 
 ###### Artículo 38.
 
@@ -548,3 +564,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los diecinueve días del mes de octubre del año dos mil veintidós.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
