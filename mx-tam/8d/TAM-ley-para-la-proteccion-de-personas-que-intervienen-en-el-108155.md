@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-proteccion-de-personas-que-intervienen-en-el-108155
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-26"
-last_updated: "2021-07-14"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108155&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 26 de mayo de 2015.
 
@@ -361,7 +361,9 @@ VI.- Las sanciones por infracciones cometidas por la persona a proteger, incluid
 
 VII.- Las condiciones que regulan la terminación de su incorporación al Programa.
 
-2. En caso de que la Persona Protegida sea un menor o sujeto de tutela, el convenio deberá también ser suscrito por el padre o tutor o quien ejerza la patria potestad o representación.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+2. En caso de que la Persona Protegida sea una niña, niño, adolescente, o sujeto de tutela, el convenio deberá también ser suscrito por el padre o tutor o quien ejerza la patria potestad o representación.
 
 3. En caso de que sean incorporados de manera simultánea por un mismo hecho o circunstancia varias personas para la protección, el hecho de que alguna de ellas incumpla con las obligaciones impuestas, no afectará a las demás personas que se encuentren relacionadas con ésta.
 
@@ -446,3 +448,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
