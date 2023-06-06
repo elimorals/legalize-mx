@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2023-06-02"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -107,9 +107,9 @@ XIX. Paridad de género: Igualdad entre mujeres y hombres, siendo asignación de
 
 XX. Daño: Cualquier perjuicio, menoscabo o dolor que una persona sufre a consecuencia de la acción u omisión de otra o por interpósita persona y que afecte a sus bienes, sus derechos, sus intereses o su integridad física, emocional o psicológica.
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-XX-A. Registro: Registro Público de Personas Agresoras Sexuales del Estado de Quintana Roo.
+XX-A. Registro: Registro de Personas Agresoras Sexuales del Estado de Quintana Roo.
 
 ###### ARTÍCULO 3.
 
@@ -133,9 +133,11 @@ I. Contar con atención preferente ágil, pronta y expedita cuando se encuentren
 
 II. Ser atendidas con prontitud y diligencia por los particulares que brinden algún servicio público.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2023)</small>
 
-ARTÍCULO 3 QUINQUIES.- Se crea el Registro Público de Personas Agresoras Sexuales del Estado de Quintana Roo, como mecanismo efectivo de prevención y protección para los efectos de atender al factor de riesgos de reincidencia y repetición de conductas de violencia sexual, a favor de víctimas o potenciales víctimas de esta violencia.
+ARTÍCULO 3 QUINQUIES.- Se crea el Registro de Personas Agresoras Sexuales del Estado de Quintana Roo, como mecanismo efectivo de prevención y protección para los efectos de atender al factor de riesgos de reincidencia y repetición de conductas de violencia sexual, a favor de víctimas o potenciales víctimas de esta violencia.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 La información contenida en el presente Registro deberá ser considerada por las autoridades estatales, los ayuntamientos municipales y los organismos constitucionalmente autónomos para la elaboración de acciones y políticas públicas destinadas al combate y prevención de los delitos cometidos en contra de las mujeres.
 
@@ -923,7 +925,9 @@ II. El Instituto Quintanarroense de la Mujer, quien ocupará la Secretaría Ejec
 
 III. La Secretaría de Desarrollo Social;
 
-IV. La Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+IV. La Secretaría de Seguridad Ciudadana del Estado de Quintana Roo.
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1163,11 +1167,15 @@ VIII. Celebrar convenios de cooperación, coordinación y concertación en la ma
 
 IX. Las demás previstas para el cumplimiento de la presente ley.
 
-#### Sección Cuarta. De la Secretaría de Seguridad Pública
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JUNIO DE 2023)</small>
+
+#### Sección Cuarta. De la Secretaría de Seguridad Ciudadana
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 42.
 
-Corresponde a la Secretaria de Seguridad Pública:
+Corresponde a la Secretaría de Seguridad Ciudadana:
 
 I. Capacitar al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres;
 
@@ -1197,17 +1205,17 @@ IX. Establecer, utilizar, supervisar y mantener todos los instrumentos y accione
 
 X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-XI. Establecer los lineamientos para crear, organizar, implementar, gestionar, actualizar, monitorear y evaluar el funcionamiento del Registro Público de Agresores Sexuales;
+XI. Establecer los lineamientos para crear, organizar, implementa (sic), gestionar, actualizar, monitorear y evaluar el funcionamiento del Registro de Agresores Sexuales;
 
 > <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 XII. Expedir los mecanismos que permitan inscribir, acceder, rectificar, cancelar y oponerse cuando resulte procedente, la información contenida en el Registro.
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-XIII. Publicar en su portal web oficial, el Registro Público de Personas Agresoras Sexuales, registrando a la persona sentenciada una vez que cause ejecutoria la sentencia.
+XIII. Publicar en su portal web oficial, el Registro de Personas Agresoras Sexuales, registrando a la persona sentenciada una vez que cause ejecutoria la sentencia.
 
 > <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1375,9 +1383,9 @@ VII. Promover la cultura de la denuncia y el respeto a los derechos humanos de l
 
 VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-IX. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, vinculación a proceso, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+IX. Crear un registro sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, vinculación a proceso, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
 
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1405,9 +1413,9 @@ c. Incorporación de la perspectiva de género en los servicios periciales;
 
 d. Eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-XIV. Elaborar e instrumentar en coordinación con la Secretaría de Seguridad Pública, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva y en donde residen mayor número de personas inscritas en el Registro, y
+XIV. Elaborar e instrumentar en coordinación con la Secretaría de Seguridad Ciudadana, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva y en donde residen mayor número de personas inscritas en el Registro, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1687,11 +1695,9 @@ Las autoridades Estatales y municipales en el ámbito de sus respectivas compete
 
 I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-II. Promover la atención a víctimas por parte de las diversas instituciones del sector salud, seguridad pública, y demás instancias públicas involucradas con la atención, así como de las instituciones de carácter privado;
-
-II. Promover la atención a víctimas por parte de las diversas instituciones del sector salud, así como de atención y de servicio, tanto públicas como privadas;
+II. Promover la atención a víctimas por parte de las diversas instituciones del sector salud, seguridad ciudadana y demás instancias públicas involucradas con la atención, así como de las instituciones de carácter privado;
 
 III. Proporcionar a las víctimas, la atención médica, psicológica y jurídica, de manera integral, gratuita y expedita;
 
@@ -1705,9 +1711,9 @@ Las víctimas de cualquier tipo de violencia tendrán los derechos siguientes:
 
 I. Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad física o psicológica, la libertad o seguridad de la víctima o de las víctimas indirectas, incluyendo para efecto de prevención de riesgos de sufrir algún acto de violencia sexual, el que existe (sic) un Registro Público de Personas Agresoras Sexuales, en los términos y bajo las características que señale la normatividad aplicable;
+II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad física o psicológica, la libertad o seguridad de la víctima o de las víctimas indirectas. Incluyendo para efecto de prevención de riesgos de sufrir algún acto de violencia sexual, el que existe un Registro de Personas Agresoras Sexuales, en los términos y bajo las características que señale la normatividad aplicable;
 
 III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
 
@@ -1799,53 +1805,87 @@ Para efectos del artículo anterior, el personal médico, psicológico y jurídi
 
 En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
-> <small>(REFORMADA SU DENOMINACIÓN N. DE E. ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JUNIO DE 2023)</small>
 
-## TÍTULO QUINTO. DEL REGISTRO PÚBLICO DE PERSONAS AGRESORAS SEXUALES DEL ESTADO DE QUINTANA ROO
+## TÍTULO QUINTO. DEL REGISTRO DE PERSONAS AGRESORAS SEXUALES DEL ESTADO DE QUINTANA ROO
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO ÚNICO. DEL REGISTRO PÚBLICO DE PERSONAS AGRESORAS SEXUALES DEL ESTADO DE QUINTANA ROO
+### CAPÍTULO ÚNICO. DEL REGISTRO DE PERSONAS AGRESORAS SEXUALES DEL ESTADO DE QUINTANA ROO
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 58.
 
-El Registro Constituye un sistema de información de carácter público que contendrá los registros de personas sentenciadas con ejecutoria por un juez penal, en términos de lo establecido en el artículo 51 del Código Penal para el Estado Libre y Soberano de Quintana Roo.
+El Registro Constituye un sistema de información que contendrá los registros de personas sentenciadas con ejecutoria por un juez penal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 En ningún caso y en ninguna circunstancia, se incluirán datos personales de las víctimas o datos que hagan posible su localización e identificación y ocasionen una revictimización.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 59.
 
-La inclusión de una persona al Registro, sólo se realizará cuando exista la instrucción de la autoridad jurisdiccional derivada de una sentencia penal ejecutoriada ordenando su inscripción. Dicha instrucción deberá señalar a partir de qué momento correrá el plazo de la inscripción y su duración dentro de los parámetros que establece el Código Penal para el Estado Libre y Soberano de Quintana Roo.
+La inclusión de una persona al Registro, será realizada por la Secretaría de Seguridad Ciudadana derivada de una sentencia penal ejecutoriada.
 
-La inscripción contenida en el Registro Público de Personas Agresoras Sexuales se cancelará, cuando concluya el término respectivo o cuando sea ordenado por la autoridad jurisdiccional que corresponda, señalando el motivo.
+La inscripción contenida en el Registro de Personas Agresoras Sexuales se cancelará cuando con (sic) se concluya el término respectivo de la sentencia penal por el cual la persona en cuestión haya sido sancionado.
 
-La Secretaría de Seguridad Pública, como responsable del Registro, bajo su más estricta responsabilidad, deberá garantizar los derechos humanos de la persona registrada.
+La Secretaría de Seguridad Ciudadana, como responsable del Registro, bajo su más estricta responsabilidad, deberá garantizar los derechos humanos de la persona registrada.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 60.
 
-El Registro Público de Personas Agresoras Sexuales, con la finalidad de garantizar que los datos resguardados en el mismo gocen de la calidad de la información que impida cualquier daño, perdida, alteración, destrucción o para impedir el uso, acceso o tratamiento no autorizados de la información, tendrá las siguientes características:
+El Registro de Personas Agresoras Sexuales, con la finalidad de garantizar que los datos resguardados en el mismo gocen de la calidad de la información que impida cualquier daño, perdida, alteración, destrucción o para impedir el uso, acceso o tratamiento no autorizados de la información, tendrá las siguientes características:
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 I. Confiabilidad;
 
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
 II. Encriptación;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 III. Gratuidad en su uso y acceso, y
 
-IV. Público a través de los portales de internet respectivos.
-
-Las autoridades y personas servidoras públicas que intervengan en la captura, ingreso, envío, recepción, manejo, consulta o actualización de la información que integra el Registro, deberán adoptar las medidas necesarias para mantener exactos, completos, correctos y actualizados, los datos personales en su posesión.
+IV. (DEROGADA, P.O. 6 DE JUNIO DE 2023)
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
+Las autoridades y personas servidoras públicas que intervengan en la captura, ingreso, envío, recepción, manejo, consulta o actualización de la información que integra el Registro, deberán adoptar las medidas necesarias para mantener exactos, completos, correctos y actualizados, los datos personales en su posesión.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
 ###### Artículo 61.
 
-El Registro contendrá también la información clasificada a la cual sólo tendrán acceso a las personas titulares del Ministerio Público, bajo solicitud debidamente motivada y fundada que corresponde. Esta información clasificada será la siguiente:
+El Registro contendrá información general de personas sentenciadas con ejecutoria en materia penal, organizada por delito y tendrá los datos que se indican a continuación:
+
+I. Fotografía actual;
+
+II. Nombre;
+
+III. Edad;
+
+IV. Alías, y
+
+V. Nacionalidad.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA [N. DE E. REFORMADO -ANTES TÍTULO QUINTO-], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+## TÍTULO SEXTO. DE LAS RESPONSABILIDAD (SIC) Y SANCIONES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA [N. DE E. REFORMADO], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDAD (SIC) Y SANCIONES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] , P.O. 6 DE JUNIO DE 2023)</small>
+
+###### ARTÍCULO 62.
+
+El Registro contendrá también la información clasificada a la cual sólo tendrán acceso a (sic) las personas titulares del Ministerio Público, bajo solicitud debidamente motivada y fundada que corresponda. Esta información clasificada será la siguiente:
 
 I. Señas particulares.
 
@@ -1857,17 +1897,9 @@ IV. Ficha signaléctica, y
 
 V. Perfil Genético.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA [N. DE E. REFORMADO -ANTES TÍTULO QUINTO-], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTÍCULO 62] , P.O. 6 DE JUNIO DE 2023)</small>
 
-## TÍTULO SEXTO. DE LAS RESPONSABILIDAD (SIC) Y SANCIONES
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA [N. DE E. REFORMADO], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
-
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDAD (SIC) Y SANCIONES
-
-> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTÍCULO 58] , P.O. 7 DE SEPTIEMBRE DE 2022)</small>
-
-###### ARTÍCULO 62.
+###### ARTÍCULO 63.
 
 Será causa de responsabilidad administrativa el incumplimiento de esta Ley y se sancionará conforme a las Leyes en la materia.
 
@@ -2034,3 +2066,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los convenios de colaboración a que se refiere el artículo 30 QUATER de este decreto, deberán celebrarse dentro del plazo de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente decreto.
 
 TERCERO. El Poder Ejecutivo del Estado contará con un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, para la creación y entrada en funciones de la unidad o instancia especializada en órdenes de protección a que se refiere el artículo 31 TER establecido en el presente decreto.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 070 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
