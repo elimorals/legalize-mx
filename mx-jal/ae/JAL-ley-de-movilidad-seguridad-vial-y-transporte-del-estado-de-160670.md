@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-seguridad-vial-y-transporte-del-estado-de-1606
 country: "mx"
 rank: "ley"
 publication_date: "2022-10-19"
-last_updated: "2022-10-29"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JUNIO DE 2023 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 6 DE JUNIO DE 2023.]</small>
 
 Ley publicada en la Edición Especial 30 Bis del Periódico Oficial del Estado de Jalisco, el miércoles 19 de octubre de 2022.
 
@@ -5885,7 +5885,7 @@ VIII. Circular sobre la banqueta o estacionarse en la misma, en forma tal, o en 
 
 2. Por la reincidencia en la infracción prevista en el numeral 1 fracción I del presente artículo cometida dentro de los treinta días siguientes, por personas conductoras operadoras del servicio público de transporte de personas pasajeras, de taxi en sus diversos modos, así como de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, se duplicará el importe de la multa correspondiente.
 
-> <small>[N. DE E. VEÁSE LA LITERALIDAD DEL ARTÍCULO, P.O. 29 DE OCTUBRE DEL 2022, DE LA PÁG. 3 A LA 6.]</small>
+> <small>[N. DE E. VEÁSE LA LITERALIDAD DEL ARTÍCULO, P.O. 29 DE OCTUBRE DE 2022, DE LA PÁG. 3 A LA 6.]</small>
 
 ###### Artículo 363.
 
@@ -6077,9 +6077,9 @@ De veinte a treinta UMA.
 
 I. A la persona conductora que circule en el Estado de Jalisco, en un vehículo que con independencia de que cuente con su comprobante vigente, de acuerdo al programa de verificación vehicular de la Secretaría de Medio Ambiente y Desarrollo Territorial, que al circular sea inspeccionado por la autoridad que determine técnicamente que emite gases contaminantes a la atmósfera que exceden los límites permisibles establecidos por las Normas Oficiales Mexicanas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN III], P.O. 29 DE OCTUBRE DE 2022)</small>
+(F. DE E., P.O. 6 DE JUNIO DE 2023) (REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN III], P.O. 29 DE OCTUBRE DE 2022)
 
-II. Las personas conductoras de vehículos de carga pesada que circulen, por carriles centrales o de alta velocidad o por no circular en zona prohibida; o
+II. Las personas conductoras de vehículos de carga pesada que circulen, por carriles centrales o de alta velocidad o por circular en zona prohibida; o
 
 > <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN IV], P.O. 29 DE OCTUBRE DE 2022)</small>
 
@@ -6862,3 +6862,11 @@ P.O. 29 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28864/LXIII/22 QUE REFORMA LOS ARTÍCULO 189, 360, 363 Y 367 DE LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “NOTA ACLARATORIA POR ACUERDO LEGISLATIVO 202/LXIII/23 A LA MINUTA 28864/LXIII/23 AL PERIÓDICO OFICIAL “EL ESTADO DE JALISCO” DEL 29 DE OCTUBRE DE 2022, SECCIÓN V, NÚMERO 35, TOMO CDV”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
+
+SEGUNDO. Envíese la presente aclaración de error de la minuta de decreto 28864/LXIII/22, al Titular del Poder Ejecutivo del Estado, para su publicación en el periódico oficial "El Estado de Jalisco".
