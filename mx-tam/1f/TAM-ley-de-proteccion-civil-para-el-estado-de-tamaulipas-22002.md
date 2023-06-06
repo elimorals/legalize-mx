@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2021-03-04"
+last_updated: "2023-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,25 @@ state: "TAM"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-LEY DE INGRESOS DEL MUNICIPIO DE PABELLÓN DE ARTEAGA, AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2018
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-Ley publicada en la Novena Sección al Número 25 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 22 de diciembre de 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO “VER IMAGEN PDF”; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+
+Al margen un sello que dice: "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+
+LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+
+DE C R E T O No. 427
+
+LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
 ## TITULO PRIMERO. DEL SISTEMA DE PROTECCION CIVIL DEL ESTADO DE TAMAULIPAS
 
@@ -697,27 +707,15 @@ Los Ayuntamientos regularán la organización y operación de los Sistemas de Pr
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 32.
+###### ARTICULO 32.
 
-En términos de lo establecido en el Capítulo Primero, del Título Segundo de la Ley de Hacienda del Municipio de Pabellón de Arteaga, Ags., específicamente en sus Artículos 67 a, 67 b, 67 c, 67 d, 67 e, 67 f, 67 g, 67 h y 67 i, las tarifas que se cobrarán por concepto de servicio de alumbrado público para el año 2018, serán aquéllas que resulten de la aplicación a las fórmulas establecidas en el Artículo 67 j (según reforma publicada en el Periódico Oficial del 31 de diciembre del 2006), y que corresponden a una causación anual.
+La estructura y operación de los Sistemas Municipales de Protección Civil será determinada en los reglamentos respectivos, debiendo contar por lo menos, con una unidad de protección civil de carácter operativo, considerando en su constitución y conformación lo siguiente:
 
-Son causantes del servicio por concepto de alumbrado público los consumidores de la energía eléctrica del ramo industrial y habitacional señalados en el último párrafo de este Artículo en un porcentaje equivalente al 10% del consumo total que este genere, el cual deberá ser cobrado en el recibo expedido por la Comisión Federal de Electricidad.
+I.- La población residente en el Municipio;
 
-Las tarifas por concepto de derechos por el servicio de alumbrado público establecidas en el artículo anterior serán cubiertas, en la Tesorería Municipal o en las instituciones que ésta autorice mediante la celebración de los convenios respectivos.
+II.- Los antecedentes de los riesgos, altos riesgo, emergencias, siniestros y desastres que ha sido afectado el Municipio; y
 
-Se faculta al Presidente Municipal y al Tesorero a otorgar los siguientes descuentos por los derechos correspondientes al Servicio de Alumbrado Público.
-
-Empresas, comercios e industrias de nueva creación durante el primer año posterior a su apertura: del 50 al 100%.
-
-Empresas, comercios e industrias con más de un año de apertura: del 10 al 60%.
-
-En la tarifa habitacional, previo estudio socioeconómico que acredite la incapacidad de pago del causante: del 10 al 50%.
-
-En todas las tarifas, como apoyo a desastres naturales y humanos: del 30 al 90%.
-
-Se consideran derechos de alumbrado público, los ingresos que obtenga el Municipio por el cobro a los usuarios domésticos, comerciales e industriales del servicio de energía eléctrica descrito en el Artículo siguiente, propietarios o poseedores de predios en la jurisdicción del territorio municipal en la cantidad equivalente al diez por ciento del consumo que estos generen y serán cobrados en los recibos de consumo de la Comisión Federal de Electricidad.
-
-Son causantes del derecho por concepto de alumbrado público en calles, plazas, jardines y demás lugares de uso común, los consumidores de energía eléctrica clasificados en las tarifas 1, 2, 3, om, hs, hsl, ht, htl, 1-15, 1-30, hs-r, hs-rf, hs-rm, ht-r, ht-rf, ht-rm, hm-r, hm-rf, h, hm-rm, publicadas en el Diario Oficial de la Federación de fecha 31 de diciembre de 1986, 10 de noviembre de 1991, 3 de abril de 1992, 13 de mayo de 1993, 4 de octubre de 1993 y 30 de septiembre de 1994.
+III.- La infraestructura o instalaciones industriales, agrícolas y comerciales que puedan ser factores de afectación a la población.
 
 ###### ARTICULO 33.
 
@@ -1213,7 +1211,9 @@ V.- Realizar, por lo menos, dos simulacros anuales para la implementación del P
 
 VI.- Notificar semestralmente a la Coordinación Estatal de Protección Civil la capacitación que otorguen las organizaciones civiles, empresas capacitadoras e instructores independientes a sus brigadas internas de protección civil para la implementación del Protocolo de Seguridad Código Adam; y
 
-VII.- Remitir a la Coordinación Estatal de Protección Civil del Estado, un informe anual de los casos de menores perdidos y encontrados mediante la implementación del Protocolo de Seguridad Código Adam.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+VII.- Remitir a la Coordinación Estatal de Protección Civil del Estado, un informe anual de los casos de niñas, niños o adolescentes perdidos y encontrados mediante la implementación del Protocolo de Seguridad Código Adam.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -1233,7 +1233,9 @@ c) Detalles: Nombre completo, apodos por los que se le conoce y responde, sexo, 
 
 II.- El trabajador alertará mediante altoparlante, u otro sistema de difusión similar, que se ha activado el "Código Adam" y proveerá la descripción provista por el padre, madre, tutor o encargado del menor de edad y proporcionará el número de teléfono o extensión de donde se está haciendo el anuncio. Será responsabilidad de los patrones, propietarios o administradores de cada edificio que al momento de la implementación de este Código se cuente con este sistema;
 
-III.- El empleado escoltará al padre, madre, tutor o encargado del menor de edad hacia la salida principal donde se encontrará con el administrador y simultáneamente, todas las puertas de salida serán vigiladas para evitar la salida del menor sin su padre, madre, tutor o encargado;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+III.- El empleado escoltará al padre, madre, tutor o encargado del menor de edad hacia la salida principal donde se encontrará con el administrador y simultáneamente, todas las puertas de salida serán vigiladas para evitar la salida de la niña, niño o adolescente sin su padre, madre, tutor o encargado;
 
 IV.- El patrón, propietario o administrador del edificio público o privado habrá de coordinar los recursos que estén a su disposición para una búsqueda primaria del menor de edad dentro y en los alrededores de la estructura que administra;
 
@@ -1241,7 +1243,9 @@ V.- En las salidas del edificio, se le pedirá a aquellas personas que estén po
 
 VI.- Después de anunciado el "Código Adam" por los altoparlantes, u otro sistema de difusión similar, los empleados buscarán por todo el edificio y se designarán dos o más de ellos, según se estime necesario, por cada área para que verifiquen que el menor de edad no se encuentra en el mismo. Los empleados que se encuentren atendiendo al público o aquellos que se excluyan con anterioridad por el patrón, propietario o administrador, no estarán obligados a llevar a cabo la búsqueda.
 
-Si el menor no es hallado en un período de diez minutos se llamará al número telefónico de emergencia 911 proporcionando toda la descripción del menor de edad y se le informará la situación para que personal de Seguridad Pública o Emergencias del Estado se apersonen inmediatamente en el lugar;
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Si la niña, niño o adolescente no es hallado en un período de diez minutos se llamará al número telefónico de emergencia 911 proporcionando toda la descripción del menor de edad y se le informará la situación para que personal de Seguridad Pública o Emergencias del Estado se apersonen inmediatamente en el lugar;
 
 VII.- Si el menor de edad es hallado ileso y aparenta haberse extraviado en el edificio, será entregado al padre, madre, tutor o encargado del mismo inmediatamente; y
 
@@ -1583,6 +1587,40 @@ En la substanciación del recurso se admitirán toda clase de pruebas, con excep
 
 La autoridad que tramite el recurso, con base en la documentación, pruebas y demás elementos existentes dictara la resolución en un termino de treinta días hábiles, contados a partir de la fecha en que fue interpuesto.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2021)</small>
+
+### CAPÍTULO VII. DE LA CULTURA DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 106.
+
+Las autoridades estatales y municipales fomentarán la cultura en materia de protección civil entre la población, mediante su participación individual y colectiva.
+
+Las autoridades en la materia, establecerán mecanismos idóneos para que la sociedad participe en la planeación y supervisión de la protección civil, en los términos de esta Ley, su Reglamento y los demás ordenamientos aplicables. La población vulnerable y expuesta a un peligro, tiene derecho a estar informada de ello y a contar con las vías adecuadas de opinión y participación en la gestión del riesgo.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 107.
+
+Corresponde a la Secretaría dictar los lineamientos generales y diseñar formas para inducir y conducir la formación de una cultura de protección civil.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 108.
+
+A fin de fomentar dicha cultura, las autoridades correspondientes dentro de sus respectivos ámbitos de competencia, deberán:
+
+I.- Fomentar las actividades de protección civil;
+
+II.- Concretar el establecimiento de programas educativos a diferentes niveles académicos, que aborden en su amplitud el tema de la protección civil y la Gestión Integral de Riesgos;
+
+III.- Impulsar programas dirigidos a la población en general que le permita conocer de forma clara mecanismos de prevención y autoprotección;
+
+IV.- Elaborar, estructurar y promocionar campañas de difusión sobre temas de su competencia relacionados con la protección civil; y
+
+V.- Promover la celebración de convenios con los sectores público, social, privado y académico con el objeto de difundir la cultura de protección civil.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -1754,6 +1792,22 @@ El funcionamiento de los albergues a que se refiere el presente Decreto, se cons
 P.O. 14 DE ABRIL DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIV-78 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXV, RECORRIENDO EL ORDEN NATURAL DE LA SUBSECUENTE, AL ARTÍCULO 26, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-495 MEDIANTE EL CUAL SE ADICIONAN UN CAPÍTULO VII AL TÍTULO SEGUNDO, DENOMINADO “DE LA CULTURA DE PROTECCIÓN CIVIL” Y LOS ARTÍCULOS 106, 107, Y 108, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
