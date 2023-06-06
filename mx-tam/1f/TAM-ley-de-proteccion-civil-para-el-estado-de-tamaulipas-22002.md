@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2021-03-04"
+last_updated: "2023-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -1211,7 +1211,9 @@ V.- Realizar, por lo menos, dos simulacros anuales para la implementación del P
 
 VI.- Notificar semestralmente a la Coordinación Estatal de Protección Civil la capacitación que otorguen las organizaciones civiles, empresas capacitadoras e instructores independientes a sus brigadas internas de protección civil para la implementación del Protocolo de Seguridad Código Adam; y
 
-VII.- Remitir a la Coordinación Estatal de Protección Civil del Estado, un informe anual de los casos de menores perdidos y encontrados mediante la implementación del Protocolo de Seguridad Código Adam.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+VII.- Remitir a la Coordinación Estatal de Protección Civil del Estado, un informe anual de los casos de niñas, niños o adolescentes perdidos y encontrados mediante la implementación del Protocolo de Seguridad Código Adam.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -1231,7 +1233,9 @@ c) Detalles: Nombre completo, apodos por los que se le conoce y responde, sexo, 
 
 II.- El trabajador alertará mediante altoparlante, u otro sistema de difusión similar, que se ha activado el "Código Adam" y proveerá la descripción provista por el padre, madre, tutor o encargado del menor de edad y proporcionará el número de teléfono o extensión de donde se está haciendo el anuncio. Será responsabilidad de los patrones, propietarios o administradores de cada edificio que al momento de la implementación de este Código se cuente con este sistema;
 
-III.- El empleado escoltará al padre, madre, tutor o encargado del menor de edad hacia la salida principal donde se encontrará con el administrador y simultáneamente, todas las puertas de salida serán vigiladas para evitar la salida del menor sin su padre, madre, tutor o encargado;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+III.- El empleado escoltará al padre, madre, tutor o encargado del menor de edad hacia la salida principal donde se encontrará con el administrador y simultáneamente, todas las puertas de salida serán vigiladas para evitar la salida de la niña, niño o adolescente sin su padre, madre, tutor o encargado;
 
 IV.- El patrón, propietario o administrador del edificio público o privado habrá de coordinar los recursos que estén a su disposición para una búsqueda primaria del menor de edad dentro y en los alrededores de la estructura que administra;
 
@@ -1239,7 +1243,9 @@ V.- En las salidas del edificio, se le pedirá a aquellas personas que estén po
 
 VI.- Después de anunciado el "Código Adam" por los altoparlantes, u otro sistema de difusión similar, los empleados buscarán por todo el edificio y se designarán dos o más de ellos, según se estime necesario, por cada área para que verifiquen que el menor de edad no se encuentra en el mismo. Los empleados que se encuentren atendiendo al público o aquellos que se excluyan con anterioridad por el patrón, propietario o administrador, no estarán obligados a llevar a cabo la búsqueda.
 
-Si el menor no es hallado en un período de diez minutos se llamará al número telefónico de emergencia 911 proporcionando toda la descripción del menor de edad y se le informará la situación para que personal de Seguridad Pública o Emergencias del Estado se apersonen inmediatamente en el lugar;
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Si la niña, niño o adolescente no es hallado en un período de diez minutos se llamará al número telefónico de emergencia 911 proporcionando toda la descripción del menor de edad y se le informará la situación para que personal de Seguridad Pública o Emergencias del Estado se apersonen inmediatamente en el lugar;
 
 VII.- Si el menor de edad es hallado ileso y aparenta haberse extraviado en el edificio, será entregado al padre, madre, tutor o encargado del mismo inmediatamente; y
 
@@ -1794,6 +1800,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 4 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-495 MEDIANTE EL CUAL SE ADICIONAN UN CAPÍTULO VII AL TÍTULO SEGUNDO, DENOMINADO “DE LA CULTURA DE PROTECCIÓN CIVIL” Y LOS ARTÍCULOS 106, 107, Y 108, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
