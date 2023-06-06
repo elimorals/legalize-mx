@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2022-06-14"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -687,9 +687,11 @@ ARTICULO 26 TER.- Para tener acceso a los beneficios del Programa de Apoyo Direc
 
 ### CAPITULO UNICO. DE LA ASISTENCIA SOCIAL
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
 ###### ARTICULO 27.
 
-Toda persona que tenga conocimiento de que una persona adulta mayor se encuentre en situación de riesgo o desamparo podrá pedir la intervención de las autoridades competentes para que se apliquen de inmediato las medidas necesarias para su protección y atención.
+Quien tenga conocimiento de que una persona adulta mayor se encuentra en situación de riesgo, desamparo, recibe malos tratos de sus familiares o cuidadores, deberá denunciarlo ante la Procuraduría de la Defensa del Adulto Mayor, o en su caso, ante la Fiscalía General de Justicia del Estado, para que, conforme a sus atribuciones, garanticen la atención y protección que se requiera.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -720,6 +722,10 @@ VIII.- Registrar los nombres, domicilios, números telefónicos y lugares de tra
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2014)</small>
 
 IX.- Llevar un diario de las visitas que se le realicen, en caso de abandono por un periodo mayor a 30 días se dará aviso inmediato al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Las Instituciones que refiere este artículo, deberán prestar a las personas adultas mayores, la atención y protección urgente que requieran, al margen de si tienen o no familiares, caso contrario, serán sancionadas conforme a la Ley.
 
 ###### ARTICULO 30.
 
@@ -982,6 +988,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 14 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-158 MEDIANTE EL CUAL SE REFORMA EL INCISO A); Y SE ADICIONAN LOS INCISOS B) Y C), DE LA FRACCIÓN V, DEL ARTÍCULO 5, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-584 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 27; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 29, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
