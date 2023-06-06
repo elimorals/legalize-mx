@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2022-10-28"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -501,9 +501,7 @@ XIII. Tratamiento psicoterapéutico reeducativo con perspectiva de género;
 
 XIV. La separación del agresor, como medida de seguridad dictada por la autoridad judicial competente, en la cual se establezca con precisión la prohibición expresa de acercarse a cierta distancia de la víctima, en el afán de proteger a la misma en cualquier tipo y modalidad de violencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
-
-XV. El registro de persona sentenciada en el Registro Público de Personas Agresoras Sexuales del Estado de Quintana Roo, en términos de lo señalado en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo y de este código para efectos de la protección y seguridad de la comunidad, y
+XV. (DEROGADA, P.O. 6 DE JUNIO DE 2023)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
@@ -671,9 +669,7 @@ I.- La restitución de la cosa obtenida por el delito, con sus frutos y accesion
 
 II.- La indemnización del daño materia (sic), moral y los perjuicios causados. La reparación incluye el pago de la atención médica, los tratamientos psicoterapéuticos, curativos o de rehabilitación que requiera la víctima o el ofendido, como consecuencia de (sic) delito; y
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
-
-Dicha reparación no impide la inscripción en el Registro Público de Personas Agresoras Sexuales del Estado de Quintana Roo, cuando la misma resulte procedente en los supuestos y términos señalados en este código;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE JUNIO DE 2023)</small>
 
 III.- El resarcimiento de los perjuicios ocasionados.
 
@@ -791,8 +787,6 @@ En el caso de bienes que se encuentren a disposición de la autoridad judicial o
 
 ### CAPITULO XIV. REGISTRO PUBLICO DE PERSONAS AGRESORAS SEXUALES
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
-
 ###### ARTICULO 47.
 
 En el caso de los inimputables a que se refiere la Fracción III del apartado C del artículo 20 de este Código, que requieran tratamiento, el juzgador dispondrá el que le sea aplicable, en internamiento o en libertad, previo el procedimiento respectivo. Si se trata de internamiento, el sujeto inimputable será internado en la institución correspondiente para su tratamiento, durante el tiempo necesario para su curación.
@@ -817,7 +811,7 @@ La Autoridad ejecutora podrá resolver sobre la modificación o conclusión de l
 
 En ningún caso la medida de tratamiento impuesta por el Juez Penal excederá de la duración que corresponda al máximo de la pena aplicable al delito. Si concluido este tiempo, la autoridad ejecutora considera que el sujeto continúa necesitando el tratamiento, lo pondrán a disposición de las autoridades sanitarias para que procedan conforme a las leyes aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JUNIO DE 2023)</small>
 
 ### CAPITULO XV. TRATAMIENTO PSICOTERAPÉUTICO REEDUCATIVO CON PERSPECTIVA DE GÉNERO
 
@@ -825,31 +819,7 @@ En ningún caso la medida de tratamiento impuesta por el Juez Penal excederá de
 
 ###### ARTICULO 51.
 
-El juez, a partir de que causa ejecutoria la sentencia condenatoria, ordenará invariablemente el registro de las personas sentenciadas, en el Registro Público de Personas Agresoras Sexuales del Estado de Quintana Roo, como una medida de seguridad y protección a la comunidad, cuando se trate de los delitos siguientes:
-
-I. Feminicidio en el supuesto previsto en la fracción II, del artículo 89- BIS;
-
-II. Violación, previsto en los artículos 127, 128 y 128 BIS;
-
-III. Abuso sexual, previsto en el artículo 129;
-
-IV. Estupro, previsto en el artículo 130;
-
-V. Acoso y hostigamiento sexual, previstos por los artículos 130 BIS y 130 TER;
-
-VI. Aprovechamiento sexual, previsto en el artículo 130 Quáter;
-
-VII. Ciberacoso sexual, previsto en el artículo 130 Quinquies;
-
-VIII. Violencia Digital, previsto en el artículo 130 Sexies;
-
-IX. Pornografía Infantil, previsto en el artículo 192 BIS y 192 TER, y
-
-X. El delito de Trata de personas, de conformidad a la Ley General para prevenir, sancionar y erradicar los delitos en materia de trata de personas y para la protección y asistencia a las víctimas de estos delitos.
-
-Dicho registro tendrá una duración mínima de 2 años y máxima de 10 años, salvo en los supuestos de las fracciones I y II de este artículo, en cuyo caso la duración tendrá un mínimo de 10 y un máximo de 30 años.
-
-Dicho registro subsistirá durante todo el tiempo que dure el cumplimiento de la pena de prisión impuesta, aunque la pena de prisión impuesta sea sustituida o suspendida en términos de ley o la persona sentenciada, por cualquier motivo diverso a los ya señalados, obtenga su libertad.
+(DEROGADO, P.O. 6 DE JUNIO DE 2023)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -5172,6 +5142,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 004, POR EL QUE SE REFORMAN LOS ARTÍCULOS 92, 93, 94, 95 Y 97, EN SUS FRACCIONES I, III Y IV; Y SE DEROGA EL ARTÍCULO 96 Y LA FRACCIÓN II DEL ARTÍCULO 97, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE JUNIO DE 2023.
+
+[[N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 070 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
