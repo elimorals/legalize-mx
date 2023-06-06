@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2022-10-24"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -419,7 +419,9 @@ El Tribunal de Justicia Administrativa se organizará en Pleno y en las salas co
 
 El Pleno del Tribunal de Justicia Administrativa se compondrá por nueve magistrados y será presidida por uno de sus miembros nombrado por mayoría simple de los mismos, por un periodo improrrogable de cuatro años, sin posibilidad de reelección.
 
-La Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa se integrará por tres magistrados. Será presidida por uno de sus miembros, nombrado por mayoría simple de los mismos durante un periodo improrrogable de cuatro años. Resolverá de manera colegiada y ejercerá la competencia en materia de faltas administrativas graves y de las responsabilidades que se deriven de los daños y perjuicios en contra de las haciendas públicas estatal o municipales, así como sobre el patrimonio de los entes públicos de conformidad con la legislación correspondiente. Los magistrados que integren la Sala Especializada en materia de responsabilidades administrativas no integrarán el Pleno del Tribunal.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+La Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa se integrará por cinco magistrados. Será presidida por uno de sus miembros, nombrado por mayoría simple de los mismos durante un periodo improrrogable de cuatro años. Resolverá de manera colegiada y ejercerá la competencia en materia de faltas administrativas graves y de las responsabilidades que se deriven de los daños y perjuicios en contra de las haciendas públicas estatal o municipales, así como sobre el patrimonio de los entes públicos de conformidad con la legislación correspondiente. Los magistrados que integren la Sala Especializada en materia de responsabilidades administrativas no integrarán el Pleno del Tribunal.
 
 Los Magistrados del Tribunal de Justicia Administrativa durarán en su cargo quince años improrrogables. Se sujetarán a las reglas y procedimientos de nombramiento, remoción, haberes, prerrogativas, conflicto de interés y responsabilidad previstas en esta Constitución para los Magistrados del Tribunal Superior de Justicia y de la Sala Constitucional. La ley preverá el escalonamiento de los períodos de encargo.
 
@@ -1269,7 +1271,9 @@ I.- Al Gobernador del Estado.
 
 II.- A los Diputados.
 
-III.- Al Tribunal Superior de Justicia, en lo relacionado con la Administración de Justicia.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+III.- A los Plenos de los Órganos del Poder Judicial, a través de sus presidencias, en lo relacionado con su ámbito de competencia y la administración de Justicia.
 
 IV.- A los Ayuntamientos en lo relativo a la Administración Municipal.
 
@@ -1671,7 +1675,7 @@ V.- El Instituto Electoral del Estado organizará el proceso de plebiscito y har
 
 El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia del Estado, en la Sala Constitucional, en el Tribunal de Justicia Administrativa y en los Juzgados, de conformidad con las normas de organización, competencia y procedimiento que establezca esta Constitución y las leyes correspondientes.
 
-Las funciones de administración, vigilancia y disciplina del Poder Judicial del Estado quedarán a cargo del Consejo de la Judicatura, con las excepciones expresamente previstas en esta Constitución.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE JUNIO DE 2023)</small>
 
 La función judicial se regirá por los principios de honestidad, imparcialidad, independencia, legalidad, publicidad, rendición de cuentas y transparencia. En el ejercicio de ésta, los órganos del Poder Judicial del Estado deberán garantizar que la justicia sea accesible, pronta, completa, gratuita, intercultural y con perspectiva de género.
 
@@ -1697,67 +1701,129 @@ La Ley establecerá los supuestos, requisitos y cargas probatorias aplicables al
 
 La Ley establecerá los supuestos y procedimientos para hacer valer la responsabilidad patrimonial del Estado por error judicial. Asimismo, establecerá los mecanismos para repetir en contra del Juez o Magistrado que la hubiere causado.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Las funciones de administración, vigilancia y disciplina del Poder Judicial del Estado, así como la rectoría de la carrera judicial de sus miembros, quedarán a cargo del Consejo de la Judicatura, con las excepciones expresamente previstas en esta Constitución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2023)</small>
 
 ###### Artículo 87.
 
-El Tribunal Superior de Justicia tendrá a su cargo la resolución de los medios de impugnación ordinarios y demás asuntos que esta Constitución y las leyes prevean, con excepción de la competencia reservada a la Sala Constitucional.
+El Tribunal Superior de Justicia tendrá a su cargo decidir sobre las controversias entre particulares y demás asuntos que esta Constitución y las leyes prevean, con excepción de la competencia reservada a la Sala Constitucional.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 El Tribunal Superior de Justicia se integrará por el número de Magistradas y Magistrados que establezca la Ley, los cuales serán nombrados conforme a lo dispuesto por esta Constitución, garantizando en todo momento el principio de paridad de género. Funcionará en Pleno y en salas. La Ley Orgánica distribuirá la competencia entre el Pleno y las salas, sin perjuicio de la facultad del Pleno para emitir acuerdos generales a fin de lograr una adecuada distribución de los asuntos que le competa conocer al Tribunal o para una mejor impartición de justicia.
 
-El Pleno del Tribunal Superior de Justicia nombrará a su Presidente, de entre sus integrantes, por un periodo improrrogable de cuatro años. En ningún caso la persona que presida el Tribunal Superior de Justicia podrá integrar ni presidir el Consejo de la Judicatura.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+El Pleno del Tribunal Superior de Justicia nombrará a su Presidente, de entre sus integrantes, por un periodo improrrogable de cuatro años.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 El Poder Judicial del Estado contará con una Sala Constitucional de carácter permanente, la cual gozará de autonomía de jurisdicción en la resolución de los asuntos de su competencia. La Sala Constitucional será garante y custodia de esta Constitución.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
+
 La Sala Constitucional se integrará por cinco Magistrados, nombrados conforme a lo previsto en esta Constitución y a las reglas de escalonamiento en su integración que prevea la Ley. El Pleno de la Sala Constitucional nombrará a su Presidente, de entre sus integrantes, por un periodo de cuatro años, sin posibilidad de reelección.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 La Sala Constitucional conocerá, en los términos que señale la Ley reglamentaria, de los asuntos siguientes:
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE OCTUBRE DE 2022)</small>
+
 I.- De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma local de carácter general y esta Constitución;
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 Las acciones de inconstitucionalidad podrán ejercitarse por:
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
+
 a) El equivalente al treinta y tres por ciento de los integrantes del Congreso del Estado;
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 b) El Ejecutivo Estatal, por conducto del Consejero Jurídico del Gobierno;
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
+
 c) Los partidos políticos con registro en el Estado, a través de sus dirigencias, exclusivamente en contra de normas electorales locales;
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 d) La Comisión de Derechos Humanos del Estado de Puebla, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones;
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
+
 e) El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones;
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 f) La Fiscalía General del Estado, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones;
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
+
 g) Los ciudadanos, en un número equivalente, al menos, al cero punto cinco por ciento de los inscritos en la lista nominal de electores, en los términos que determine la Ley.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 II.- De las acciones que promueva el Presidente o Presidenta Municipal o el treinta y tres por ciento de los integrantes del Ayuntamiento, en contra de los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dictados por éste, cuando resulten contrarios a lo previsto en esta Constitución;
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2022)</small>
+
 III.- Con excepción del poder judicial, de las controversias que se susciten entre los poderes, municipios y órganos a los que esta Constitución otorgue autonomía, cuando tengan por objeto la constitucionalidad de actos u omisiones que afecten sus respectivos ámbitos competenciales;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 IV.- De la acción de tutela que promuevan las personas por violaciones a sus derechos humanos, en los términos que determine la ley;
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2022)</small>
+
 V.- De las acciones que los sujetos legitimados en la fracción I del presente artículo promuevan en contra de las omisiones legislativas atribuibles al Congreso del Estado, cuando medie mandato expreso en norma de carácter general; y
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 VI.- Del recurso de revocación que se promueva, conforme a las reglas de legitimación y procedencia que prevea la ley, en contra de los acuerdos generales que emita el Consejo de la Judicatura, así como del recurso de revisión en el que se controvierta la adscripción o remoción de Jueces, así como la remoción de Magistrados dictada, en su caso, por el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
+
 Las razones que justifiquen las decisiones contenidas en las sentencias dictadas por la Sala Constitucional serán obligatorias para todas las autoridades jurisdiccionales de (sic) Estado de Puebla, siempre y cuando fueren aprobadas por mayoría de cuatro votos.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 La Sala Constitucional sólo podrá declarar la invalidez de las normas impugnadas u ordenar que se subsane una omisión legislativa, cuando dicho efecto sea determinado por una mayoría de cuando menos cuatro votos.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
+
 La Ley reglamentaria regulará los supuestos de procedencia y el procedimiento aplicable a los medios de control y demás recursos a cargo de la Sala Constitucional.
 
-La Sala Constitucional no ejercerá competencia en contra de actos procesales o resoluciones judiciales emitidas por otras Salas o por el Pleno del Tribunal Superior de Justicia del Estado.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+La Sala Constitucional no ejercerá competencia en contra de actos procesales o resoluciones judiciales emitidas por los órganos jurisdiccionales del Poder Judicial del Estado. Para la interpretación de la Ley Orgánica del Poder Judicial del Estado, la Sala Constitucional podrá determinar el criterio que prevalecerá.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 La Sala Constitucional deberá sistematizar y publicar de manera digital los precedentes en materia de interpretación de esta Constitución para su consulta pública.
 
-La administración del Tribunal Superior de Justicia, de la Sala Constitucional y del Tribunal de Justicia Administrativa corresponderá a sus respectivos presidentes, sin perjuicio de las atribuciones del Consejo de la Judicatura.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-El conocimiento y la resolución de las controversias de trabajo de competencia estatal que se susciten entre trabajadores, patrones y sindicatos, derivadas de las relaciones de trabajo o de hechos relacionados con éstas, quedarán a cargo de Salas Colegiadas Especializadas, en materia laboral del Poder Judicial del Estado, compuestas por tres Magistrados de conformidad con lo que establezca la Ley Orgánica.
+La administración del presupuesto del Tribunal Superior de Justicia, de la Sala Constitucional y del Tribunal de Justicia Administrativa corresponderá al Consejo de la Judicatura, atendiendo a las necesidades de los órganos jurisdiccionales.
 
-Antes de acudir a las Salas Colegiadas Especializadas en materia laboral, los trabajadores y patrones deberán asistir al Centro de Conciliación Laboral del Estado de Puebla como instancia conciliatoria, con excepción de aquellos supuestos que están eximidos de agotar el procedimiento de conciliación de conformidad con lo previsto en la Ley Federal de (sic) Trabajo y la Ley Orgánica.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+El conocimiento y la resolución de las controversias de trabajo de competencia estatal que se susciten entre trabajadores, patrones y sindicatos, derivadas de las relaciones de trabajo o de hechos relacionados con éstas, quedarán a cargo de los Tribunales Laborales del Poder Judicial del Estado, compuestos cada uno por un juez, de conformidad con lo que establezca la Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Antes de acudir a los Tribunales Laborales, los trabajadores y patrones deberán asistir al Centro de Conciliación Laboral del Estado de Puebla como instancia conciliatoria, con excepción de aquellos supuestos que están eximidos de agotar el procedimiento de conciliación de conformidad con lo previsto en la Ley Federal de Trabajo.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 El Centro de Justicia Alternativa será un órgano desconcentrado del Tribunal Superior de Justicia del Estado con plena autonomía técnica, de gestión, operativa, presupuestaria y de decisión. Su titular será nombrado por el Consejo de la Judicatura y durará seis años en su cargo, sin posibilidad de reelección, de conformidad con la Ley de Mecanismos Alternativos de Solución de Controversias del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
 
 Los Presidentes del Tribunal Superior de Justicia, de la Sala Constitucional, del Tribunal de Justicia Administrativa y del Consejo de la Judicatura podrán ser removidos de su cargo, mediante el mismo procedimiento y la misma mayoría necesaria para su nombramiento.
 
@@ -1773,11 +1839,15 @@ El sistema de carrera judicial deberá optimizar la independencia e imparcialida
 
 La Ley establecerá las bases, órganos y procedimientos para el ingreso, formación, actualización, permanencia, promoción, adscripción, vigilancia y disciplina de los Jueces y Magistrados, así como de los funcionarios del Poder Judicial del Estado.
 
-El Consejo de la Judicatura funcionará en Pleno y tendrá las comisiones que determine la Ley o establezca aquél, mediante acuerdos de carácter general, para el ejercicio eficaz de sus atribuciones. Será competente para determinar el número, así como la competencia territorial y por especialización de los juzgados. Asimismo, tendrá la facultad de emitir acuerdos generales para el adecuado ejercicio de sus funciones, por sí mismo o a petición del Pleno del Tribunal Superior de Justicia. Sus resoluciones serán definitivas e inatacables, salvo en los supuestos expresamente establecidos en esta Constitución.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+El Consejo de la Judicatura funcionará en Pleno y tendrá las comisiones que determine la Ley o establezca aquél, mediante acuerdos generales de carácter administrativo, para el ejercicio eficaz de sus atribuciones. Será competente para determinar el número, así como la competencia territorial y por especialización de los juzgados. Asimismo, tendrá la facultad de emitir acuerdos generales de carácter administrativo para el adecuado ejercicio de sus funciones, por sí mismo o a petición de los Plenos de los Órganos Jurisdiccionales. Sus resoluciones serán definitivas e inatacables, salvo en los supuestos expresamente establecidos en esta Constitución.
 
 El Consejo de la Judicatura se integrará por cinco miembros, de los cuales uno será nombrado por el Gobernador del Estado, dos por mayoría calificada de dos terceras partes de los miembros del Congreso del Estado y dos por mayoría absoluta de los integrantes del Pleno del Tribunal Superior de Justicia, de entre los cuales al menos uno deberá ser Juez en ejercicio activo de la función. Al menos uno de los Consejeros nombrados por el Congreso deberá provenir de la carrera judicial. El cargo de Consejero de la Judicatura durará seis años, sin posibilidad de reelección. La Ley fijará el mecanismo para la sustitución escalonada de sus integrantes.
 
-El Pleno del Consejo de la Judicatura elegirá a su presidente, de entre sus miembros, por un periodo de cuatro años, sin posibilidad de reelección. El Presidente del Consejo ejercerá la representación legal del Poder Judicial en los procedimientos en los que sea parte.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+El Pleno del Consejo de la Judicatura elegirá a su Presidente, de entre sus miembros, por un periodo de cuatro años, sin posibilidad de reelección. El Presidente del Consejo ejercerá la representación legal del Poder Judicial en los procedimientos en los que sea parte, siempre y cuando dicha representación no corresponda a alguno de los Órganos Jurisdiccionales; en los términos que señale la Ley Orgánica. En ningún caso, las personas que presidan los Órganos Jurisdiccionales, podrán integrar ni presidir el Consejo de la Judicatura.
 
 Los Consejeros deberán reunir los requisitos previstos en el artículo 89 de esta Constitución.
 
@@ -1791,21 +1861,33 @@ El Consejo de la Judicatura contará con una Escuela Estatal de Formación Judic
 
 La Escuela Estatal de Formación Judicial tendrá la facultad para celebrar convenios de colaboración administrativa con el objeto de formar, capacitar, evaluar, supervisar y certificar a los órganos jurisdiccionales municipales encargados de administrarla.
 
-Asimismo, el Consejo de la Judicatura contará con un instituto especializado para la defensoría pública, dotado de autonomía técnica y de gestión. Dicho instituto tendrá a su cargo la prestación del servicio de defensoría pública en asuntos del fuero local, en materia penal, familiar, civil, laboral y de justicia cívica. La Ley establecerá las bases para su organización y funcionamiento, así como el servicio profesional de carrera de los defensores públicos. El Consejo de la Judicatura ejercerá la función de evaluación y vigilancia sobre la actuación del Instituto. Los defensores públicos serán nombrados por el Consejo de la Judicatura, mediante concurso de oposición y deberán acreditar los procesos de formación, capacitación y actualización de la Escuela Estatal de Formación Judicial. Las remuneraciones de los defensores públicos en ningún caso podrán ser inferiores a los que perciban los agentes del Ministerio Público. La ley establecerá los supuestos y procedimientos para el ingreso de los defensores públicos a la carrera judicial.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+Asimismo, el Consejo de la Judicatura contará con un instituto especializado para la defensoría pública, dotado de autonomía técnica y de gestión. Dicho instituto tendrá a su cargo la prestación del servicio de defensoría pública en asuntos del fuero local, en materia penal, familiar, civil, laboral, justicia para adolescentes, administrativa, responsabilidades administrativas y de justicia cívica. La Ley establecerá las bases para su organización y funcionamiento, así como el servicio profesional de carrera de los defensores públicos. El Consejo de la Judicatura ejercerá la función de evaluación y vigilancia sobre la actuación del Instituto. Los defensores públicos serán nombrados por el Consejo de la Judicatura, mediante concurso de oposición y deberán acreditar los procesos de formación, capacitación y actualización de la Escuela Estatal de Formación Judicial. Las remuneraciones de los defensores públicos en ningún caso podrán ser inferiores a los que perciban los agentes del Ministerio Público. La ley establecerá los supuestos y procedimientos para el ingreso de los defensores públicos a la carrera judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2023)</small>
 
 ###### Artículo 89.
 
-Para ser Magistrado del Tribunal Superior de Justicia del Estado, se requiere:
+Para ser Magistrado del Poder Judicial del Estado, se requiere:
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos y civiles;
 
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
+
 II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
 
 III.- Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello;
 
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
+
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
 
 V.- Haber residido en el país durante los dos años anteriores al día de la designación.
 
@@ -3887,6 +3969,22 @@ CUARTO. Los Magistrados del Tribunal de Justicia Administrativa que se encuentre
 
 Conforme al procedimiento y período de cargo establecido en esta Constitución, se deberá nombrar a dos Magistrados integrantes del Tribunal de Justicia Administrativa, en un plazo máximo de tres meses, contados a partir de la vigencia del presente Decreto.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Para efectos administrativos, los bienes muebles e inmuebles y recursos financieros propiedad del Tribunal de Justicia Administrativa, y aquéllos que tenga derecho a recibir, se transferirán al Poder Judicial del Estado de Puebla conservando el uso y destino al que actualmente están asignados.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+El archivo relativo a los asuntos concluidos y archivados del Tribunal de Justicia Administrativa, será transferido al Poder Judicial del Estado de Puebla, para su custodia, conservación y administración en los términos que establece la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Los derechos, obligaciones, convenios, contratos y demás asuntos en trámite, distintos a los jurisdiccionales, en los que sea parte el Tribunal de Justicia Administrativa, se subsumen por el Poder Judicial del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Conforme lo dispuesto en los párrafos tercero, cuarto y quinto de este artículo, el Pleno del Tribunal de Justicia Administrativa designará a la persona servidora pública responsable de llevar a cabo las transferencias ordenadas y concluir los trámites ante las autoridades e instancias respectivas en coordinación con las instancias que correspondan.
+
 QUINTO. El nombramiento de los Consejeros de la Judicatura se realizará conforme al escalonamiento siguiente:
 
 I. Tres miembros nombrados por el Gobernador del Estado, por el Congreso del Estado y por el Tribunal Superior de Justicia, respectivamente, para un periodo de seis años;
@@ -3899,12 +3997,40 @@ SEXTO. El Congreso tendrá un plazo de ciento veinte días para expedir la Ley d
 
 SÉPTIMO. El Consejo de la Judicatura tendrá un plazo máximo de ciento veinte días para instrumentar la aplicación de la declaración de intereses en todas las personas servidoras públicas del Poder Judicial, en los términos de la Ley de la materia, así como aplicar las medidas necesarias en los casos que se acredite que están bajo una situación que comprometa o afecte una libre y transparente relación de trabajo, garantizando los derechos de audiencia y presunción de inocencia.
 
-OCTAVO. Atendiendo a las necesidades presupuestales, el Consejo de la Judicatura deberá asignar los recursos necesarios para la implementación y funcionamiento del Centro de Justicia Alternativa, de la Escuela Estatal de Formación Judicial, del Instituto de la Defensoría Pública y de las Sala (sic) Colegiadas Especializadas en materia Laboral.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+OCTAVO. Atendiendo a las necesidades presupuestales, el Consejo de la Judicatura deberá asignar los recursos necesarios para la implementación y funcionamiento del Centro de Justicia Alternativa, de la Escuela Estatal de Formación Judicial, del Instituto de la Defensoría Pública y de los Tribunales Laborales.
 
 NOVENO. El Congreso del Estado deberá asignar los recursos necesarios para la implementación y funcionamiento de la Sala Constitucional, así como los recursos necesarios para que el Consejo de la Judicatura cumpla con el artículo anterior.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Para la creación de plazas o modificación de estructura de los Órganos Jurisdiccionales, se requiere que estos formulen dictamen que justifique su necesidad, conforme a la suficiencia presupuestaria, y aprobación del Órgano competente.
+
 DÉCIMO. El Consejo de la Judicatura será el encargado de la implementación del presente decreto, así como el responsable de la coordinación institucional, operatividad y procesos materia de la presente reforma, informando mensualmente al Congreso del Estado sobre los avances en el cumplimiento de su implementación.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Para apoyar en la implementación, se constituye una Comisión implementadora que estará integrada por quien presida el Consejo de la Judicatura, una o un Magistrado del Tribunal de Justicia Administrativa, una o un Magistrado de la Sala Especializada en materia de responsabilidades administrativas de dicho Tribunal, tres Magistradas o Magistrados del Tribunal Superior de Justicia, un representante del Congreso del Estado, un representante del Ejecutivo del Estado, un representante de la Secretaría de Planeación y Finanzas del Gobierno del Estado y será presidida por una o un Magistrado de la Sala Constitucional.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+La Comisión implementadora deberá sesionar, al menos, una vez al mes con el fin de emitir opinión respecto de los informes del Consejo de la Judicatura que envía al Congreso del Estado; y aprobará un plan en el que se establezca el plazo en el que dicha Comisión estará en funciones.
 
 DÉCIMO PRIMERO. Una vez puesta en vigor la presente reforma constitucional, el Congreso del Estado de Puebla deberá, en su caso, convocar, en un plazo de ciento ochenta días, a una consulta a las comunidades y pueblos indígenas para el desarrollo y elaboración de una ley secundaria que establezca el sistema de justicia indígena.
 
 DÉCIMO SEGUNDO. Sin perjuicio de los plazos establecidos en los transitorios previos, una vez instalado el Consejo de la Judicatura del Poder Judicial, deberá llevar a cabo un diagnóstico para evaluar los procedimientos administrativos y judiciales, así como implementar, en el ámbito de su competencia, las medidas pertinentes para la simplificación del sistema judicial del Estado, así como sistemas de evaluación del desempeño de sus integrantes, de conformidad con la normatividad aplicable y los principios rectores reconocidos en esta Constitución.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DECLARA APROBADO EL DECRETO DE FECHA 9 DE MAYO DEL 2023, POR VIRTUD DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; ASÍ COMO LAS DISPOSICIONES TRANSITORIAS CUARTA, OCTAVA, NOVENA Y DÉCIMA DE LA “DECLARATORIA QUE EMITIÓ EL HONORABLE CONGRESO DEL ESTADO DE DECRETO POR VIRTUD DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA JUDICIAL”, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 16, SEGUNDA SECCIÓN, DE FECHA LUNES 24 DE OCTUBRE DE 2022, TOMO DLXX.”]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Jueces de los Tribunales Laborales que se encuentren desempeñando su cargo, durarán el tiempo por el que fueron designados originalmente, conforme a la ley aplicable a la materia.
+
+CUARTO. El Congreso hará las reformas a la Ley Orgánica del Poder Judicial del Estado que sean necesarias, de conformidad con lo dispuesto en este Decreto.
+
+QUINTO. Conforme al procedimiento establecido en esta Constitución, se deberá nombrar a los Magistrados integrantes de la Sala Especializada en materia de Responsabilidades Administrativas del Tribunal de Justicia Administrativa, dentro del plazo de treinta días, contados a partir de la entrada en vigor del presente Decreto.
