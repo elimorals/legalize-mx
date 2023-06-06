@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2018-06-12"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -71,9 +71,9 @@ En los términos del Artículo 3o. de esta Ley, son sujetos a la recepción de l
 
 I.- La familia, considerándola como parte fundamental de la sociedad;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-II.- Menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato, en el ámbito familiar, social e institucional;
+II.- Niñas, niños y adolescentes en estado de abandono, desamparo, desnutrición o sujetos a maltrato; en el ámbito familiar, social e institucional;
 
 > <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2008)</small>
 
@@ -209,9 +209,9 @@ I.- Promover el desarrollo integral de la familia, procurando que sus miembros s
 
 II.- Atender a personas que, por sus carencias socioeconómicas, por discapacidad se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-III.- La atención en establecimientos especializados a menores, adolescentes, mujeres, adultos mayores, personas con discapacidad en estado de abandono, desamparo o víctimas de violencia intrafamiliar;
+III.- La atención en establecimientos especializados a niñas, niños, adolescentes, mujeres, adultos mayores, personas con discapacidad en estado de abandono, desamparo o víctimas de violencia intrafamiliar;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -221,9 +221,9 @@ IV.- Promover el bienestar de los adultos mayores y el desarrollo de acciones de
 
 V.- Promover el impulso del sano crecimiento físico, mental y social de la niñez;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-VI.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
+VI.- El ejercicio de la tutela de las niñas, niños y adolescentes, en los términos de las disposiciones legales aplicables;
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2007)</small>
 
@@ -285,13 +285,13 @@ XX.- Combatir el pandillerismo, la drogadicción, el alcoholismo y demás conduc
 
 XXI.- Prestar servicios para la prevención y la atención de las causas y los efectos de la violencia intrafamiliar;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-XXII.- Colaborar y auxiliar a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a los menores;
+XXII.- Colaborar y auxiliar a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a las niñas, niños y adolescentes;
 
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-XXIII.- Fomentar las acciones de paternidad responsable, que propicien el respeto de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental;
+XXIII.- Fomentar las acciones de paternidad responsable, que propicien el respeto de los derechos de las niñas, niños y adolescentes a la satisfacción de sus necesidades y a la salud física y mental;
 
 > <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2017)</small>
 
@@ -371,13 +371,13 @@ VI.- Fomentar, apoyar, coordinar, vigilar y evaluar las actividades que lleven a
 
 VII.- Establecer y dar seguimiento a los programas tendientes a prevenir y atender las causas y efectos de la violencia intrafamiliar;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-VIII.- Brindar atención terapéutica, psicológica a los menores u otros incapaces sujetos a violencia intrafamiliar, así como a los abandonados y, en general, a quienes requieran de este apoyo, incluyendo, en su caso, a los sujetos generadores de violencia intrafamiliar, en los términos y condiciones que dictaminen el propio Organismo u ordene la autoridad judicial competente;
+VIII.- Brindar atención terapéutica, psicológica a las niñas, niños, adolescentes u otros incapaces sujetos a violencia intrafamiliar, así como a los abandonados y, en general, a quienes requieran de este apoyo, incluyendo, en su caso, a los sujetos generadores de violencia intrafamiliar, en los términos y condiciones que dictaminen el propio Organismo u ordene la autoridad judicial competente;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-IX.- Operar establecimientos de asistencia social en beneficio de la mujer y de menores en estado de abandono y de maltrato, adultos mayores en riesgo o desamparo, enfermos mentales de farmacodependientes y de personas con discapacidad sin recursos;
+IX.- Operar establecimientos de asistencia social en beneficio de la mujer y de las niñas, niños o adolescentes en estado de abandono y de maltrato, adultos mayores en riesgo o desamparo, enfermos mentales de farmacodependientes y de personas con discapacidad sin recursos;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -415,9 +415,9 @@ XVII.- Realizar y promover la capacitación de recursos humanos para la asistenc
 
 XVIII.- Operar el Sistema Estatal de Información Básica en Materia de Asistencia Social a que se refiere la fracción XIX del artículo 14 de esta ley;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-XIX.- Prestar servicios de asistencia jurídica, psicológica y de orientación a menores, adolescentes, mujeres, adultos mayores, personas con discapacidad y sujetos víctima de violencia intrafamiliar;
+XIX.- Prestar servicios de asistencia jurídica, psicológica y de orientación a las niñas, niños, adolescentes, mujeres, adultos mayores, personas con discapacidad y sujetos víctima de violencia intrafamiliar;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -443,9 +443,9 @@ XXIV.- Proponer a las autoridades correspondientes la adaptación o readaptació
 
 XXV.- Cuidar a niños expósitos investigando la solvencia moral de quienes los pretenden adoptar, vigilando el proceso de integración de los adoptados;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-XXVI.- Establecer programas tendientes a evitar y prevenir el maltrato de los menores, proporcionándoles atención, cuidado y vigilancia, sin perjuicio de denuncias ante las autoridades competentes en los casos de infracción o delito;
+XXVI.- Establecer programas tendientes a evitar y prevenir el maltrato de las niñas, niños y adolescentes, proporcionándoles atención, cuidado y vigilancia, sin perjuicio de denuncias ante las autoridades competentes en los casos de infracción o delito;
 
 > <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2017)</small>
 
@@ -725,9 +725,9 @@ V.- Los Jefes de Departamento;
 
 VI.- Los Jefes de Unidad;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-VII.- El Procurador de la Defensa del Menor y la Familia;
+VII.- El Procurador de la Defensa de Niñas, Niños, Adolescentes y la Familia;
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -801,9 +801,9 @@ A propuesta del Organismo, las autoridades correspondientes dictaminarán el oto
 
 El Gobierno del Estado, a través del Organismo y mediante la inducción promoverá la organización y participación activa de la comunidad en atención de aquellos casos de salud, que por sus características requieren de acciones de asistencia social basadas en el apoyo y solidaridad social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-El Gobierno del Estado y el Organismo pondrán especial atención en la promoción de acciones de la comunidad en beneficio de menores en estado de abandono o con discapacidad.
+El Gobierno del Estado y el Organismo pondrán especial atención en la promoción de acciones de la comunidad en beneficio de niñas, niños y adolescentes en estado de abandono o con discapacidad.
 
 ###### ARTICULO 49.
 
@@ -974,3 +974,11 @@ P.O. 12 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
