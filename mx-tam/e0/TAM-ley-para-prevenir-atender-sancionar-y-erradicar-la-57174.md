@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2023-01-10"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -645,11 +645,11 @@ Artículo 9 Unvicies.
 
 La Procuraduría de Protección a Niñas, Niños y Adolescentes, deberán solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
 Artículo 9 Duovicies.
 
-Se entenderá en los términos de esta ley por mujer también, a niñas y adolescentes; en el caso de mujeres mayores de 12 años de edad, éstas podrán solicitar por sí mismas a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes. Cuando se trate de personas menores de 12 años de edad, cualquier persona que tenga conocimiento de un hecho violento en su contra o el menor a través de sus representantes, podrá informar a las autoridades competentes para que éstas de manera oficiosa otorguen las órdenes correspondientes.
+Se entenderá en los términos de esta ley por mujer también, a niñas y adolescentes; en el caso de mujeres mayores de 12 años de edad, éstas podrán solicitar por sí mismas a las autoridades competentes que las representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes. Cuando se trate de personas menores de 12 años de edad, cualquier persona que tenga conocimiento de un hecho violento en su contra o la niña, a través de sus representantes, podrá informar a las autoridades competentes para que éstas de manera oficiosa otorguen las órdenes correspondientes.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2022)</small>
 
@@ -1556,6 +1556,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 10 DE ENERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-428 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS Y DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
