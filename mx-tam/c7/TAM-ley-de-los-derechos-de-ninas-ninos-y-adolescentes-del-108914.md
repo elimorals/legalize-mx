@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2023-02-21"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -1293,7 +1293,9 @@ ARTÍCULO 69 BIS.
 
 1. Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro de la internet y las tecnologías de la información y la comunicación, como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento y no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones legales aplicables.
 
-2. Las madres, padres, tutores o quienes ejerzan la guarda y custodia de las y los menores, tendrán la obligación de promover y procurar el uso adecuado, equilibrado y responsable del internet y de las tecnologías de la información y la comunicación, a fin de garantizar el desarrollo y bienestar físico, mental y emocional de niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Las madres, padres, tutores o quienes ejerzan la guarda y custodia de las y los menores de edad, tendrán la obligación de promover y procurar el uso adecuado, equilibrado y responsable del internet y de las tecnologías de la información y la comunicación, a fin de garantizar el desarrollo y bienestar físico, mental y emocional de niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2022)</small>
 
@@ -2120,3 +2122,11 @@ La Secretaría de Salud en un plazo que no excederá de ciento ochenta días, co
 ###### ARTÍCULO QUINTO.
 
 La Secretaría de Educación, en coordinación con la Secretaría de Salud, elaborará la Guía práctica de comunicación para el abordaje de las personas con diabetes, sobre el cuidado y no discriminación de Niñas, Niños y adolescentes con cualquier tipo de diabetes en los planteles escolares, con énfasis en la diabetes tipo 1.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
