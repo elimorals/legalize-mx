@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2020-12-17"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -1273,7 +1273,9 @@ b).- Con excepción de las cargas a granel, cuando la carga no esté debidamente
 
 En la prestación del servicio de transporte de pasajeros, los usuarios tendrán adicionalmente los siguientes derechos:
 
-I.- Las mujeres en período de gestación, las personas con discapacidad, los menores y los adultos mayores tendrán preferencia en el ascenso, descenso y asignación de lugares en los vehículos;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+I.- Las mujeres en período de gestación, las personas con discapacidad, las niñas, niños y los adultos mayores tendrán preferencia en el ascenso, descenso y asignación de lugares en los vehículos;
 
 II.- Sólo podrán hacer uso de tarifas especiales, bonificaciones y descuentos las personas que expresamente se señalen en esta u otras leyes, en los acuerdos de aprobación de tarifas, en los convenios que celebren los prestadores del servicio o en las promociones que éstos hagan. Dichas personas acreditarán su calidad con las credenciales que expida la autoridad competente;
 
@@ -2806,3 +2808,11 @@ La Secretaría podrá, mediante reglas de carácter general, establecer facilida
 ###### ARTÍCULO CUARTO.
 
 En materia de derechos referente a los servicios proporcionados con relación a la protección contra riesgos sanitarios, comprendidos en la adición al artículo 93, fracción VIII de un numeral 40 de la Ley de Hacienda para el Estado de Tamaulipas, se determina que solamente el cobro estipulado en la referida adición entrará en vigor una vez concluida la emergencia sanitaria provocada por el virus COVID-19, ya que es fundamental se cumplan las condiciones sanitarias adecuadas reuniendo todos los requisitos inherentes al tema sobre el traslado de cadáveres o sus partes.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
