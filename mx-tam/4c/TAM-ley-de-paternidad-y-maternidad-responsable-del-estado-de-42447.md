@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-paternidad-y-maternidad-responsable-del-estado-de-42447"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2021-07-14"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PATERNIDAD Y MATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -47,9 +47,9 @@ LEY DE PATERNIDAD Y MATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS.
 
 1. La presente ley es de orden público, interés social y de observancia general en el Estado de Tamaulipas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-2. Los beneficios que se deriven de esta Ley, serán aplicables a todas las y los menores, cuyo alumbramiento se verifique en el territorio del Estado, y se registren en cualquiera de las Oficialías del Registro Civil del Estado.
+2. Los beneficios que se deriven de esta Ley, serán aplicables a todas las niñas y niños, cuyo alumbramiento se verifique en el territorio del Estado, y se registren en cualquiera de las Oficialías del Registro Civil del Estado.
 
 ###### ARTICULO 2.
 
@@ -99,15 +99,21 @@ El Oficial del Registro Civil, deberá informar a la madre o padre sobre las dis
 
 ###### ARTICULO 5.
 
-1. Si al efectuar el registro de nacimiento de un menor habido fuera de matrimonio, comparece solamente la madre, y ella presuma el no reconocimiento del padre, podrá solicitar el inicio del procedimiento sobre presunción de paternidad ante el Oficial del Registro Civil del Municipio del Estado de Tamaulipas donde radica el presunto padre, firmando la solicitud o estampando su huella dactilar, e indicará el nombre, domicilio y cualquier otro dato adicional que contribuya a la identificación del presunto padre.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-2. El término para iniciar el procedimiento a que se refiere la presente ley será de un año a partir del nacimiento del menor.
+1. Si al efectuar el registro de nacimiento de una niña o niño habido fuera de matrimonio, comparece solamente la madre, y ella presuma el no reconocimiento del padre, podrá solicitar el inicio del procedimiento sobre presunción de paternidad ante el Oficial del Registro Civil del Municipio del Estado de Tamaulipas donde radica el presunto padre, firmando la solicitud o estampando su huella dactilar, e indicará el nombre, domicilio y cualquier otro dato adicional que contribuya a la identificación del presunto padre.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+2. El término para iniciar el procedimiento a que se refiere la presente ley será de un año a partir del nacimiento de la niña o niño.
 
 3. Si el presunto padre radica fuera del Estado de Tamaulipas, el procedimiento administrativo comprendido en esta ley no resultará aplicable, siendo ésta una causa de improcedencia, sin perjuicio de que, en este supuesto se oriente a la interesada sobre la opción del procedimiento judicial.
 
 4. Si en un lapso de cincuenta días, en cualquier estado del procedimiento, sin causa que se estime justificada, las partes no promueven ninguna acción, la solicitud quedará sin efecto, perdiendo la madre la posibilidad de volver a intentar por vía administrativa el reconocimiento de su hijo, archivándose consecuentemente el expediente.
 
-5. No obstante lo establecido en los párrafos que anteceden, el Oficial del Registro Civil deberá de registrar al menor en el acto de comparecencia de la madre, quedando inscrito bajo los apellidos de su madre.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+5. No obstante lo establecido en los párrafos que anteceden, el Oficial del Registro Civil deberá de registrar a la niña o niño en el acto de comparecencia de la madre, quedando inscrito bajo los apellidos de su madre.
 
 ###### ARTICULO 6.
 
@@ -149,9 +155,9 @@ c) En caso de ser positivo el resultado de las pruebas de comparativos de marcad
 
 1. Si el presunto padre no se presenta en la fecha señalada para practicarse la prueba genética y no justifica debidamente su inasistencia o si al presentarse se niega a practicarse dicha prueba, la Dirección General de Servicios Periciales o la institución privada acreditada levantará constancia de dicha circunstancia, y deberá remitirla de inmediato al Oficial del Registro Civil que corresponda.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-2. Hecho lo anterior, la Oficialía del Registro Civil, procederá al asentamiento de la anotación marginal de presunción de paternidad y dará lugar para que así se declare administrativamente y se establezca la filiación administrativa del o la menor con los apellidos de ambos progenitores, siempre y cuando la madre y el o la menor se hayan presentado a realizar la prueba, salvo evidencia en contrario. Dicha declaración administrativa otorgará las obligaciones legales propias de la paternidad, pero no los derechos sobre la hija o hijo.
+2. Hecho lo anterior, la Oficialía del Registro Civil, procederá al asentamiento de la anotación marginal de presunción de paternidad y dará lugar para que así se declare administrativamente y se establezca la filiación administrativa de la niña o niño con los apellidos de ambos progenitores, siempre y cuando la madre de la niña o niño se hayan presentado a realizar la prueba, salvo evidencia en contrario. Dicha declaración administrativa otorgará las obligaciones legales propias de la paternidad, pero no los derechos sobre la hija o hijo.
 
 3. En el supuesto de que el presunto padre justifique fundadamente su inasistencia al estudio comparativo de marcadores genéticos ante la Dirección General de Servicios Periciales, se fijará día, hora y lugar por única ocasión para la práctica de un nuevo estudio comparativo de marcadores genéticos, pero si el presunto padre no se presenta de nueva cuanta (sic), se procederá conforme a los párrafos 1 y 2 de este artículo.
 
@@ -165,11 +171,11 @@ En el supuesto de que no se presenten ninguna de las partes a realizarse las pru
 
 2. La declaración administrativa, cualquiera que sea el sentido de ella, se deberá notificar personalmente a los interesados en los términos previstos en el código de Procedimientos Civiles.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-###### ARTICULO 12.
+###### ARTÍCULO 12.
 
-El procedimiento de inscripción del menor con los apellidos de uno o de ambos progenitores no excederá de treinta días hábiles.
+El procedimiento de inscripción de las niñas y los niños con los apellidos de uno o de ambos progenitores no excederá de treinta días hábiles.
 
 ###### ARTICULO 13.
 
@@ -246,3 +252,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
