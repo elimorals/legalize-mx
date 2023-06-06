@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-defensoria-publica-para-el-estado-de-tamaulipas-94639
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-07"
-last_updated: "2019-08-20"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Anexo al Extraordinario No. 3 del Periódico Oficial del Estado de Tamaulipas, el viernes 7 de junio de 2013.
 
@@ -105,7 +105,9 @@ III. Proporcionar patrocinio en materias civil, familiar y mercantil, siempre y 
 
 a) Tratándose del actor en un procedimiento civil o familiar, sólo será patrocinado en los procedimientos judiciales no contenciosos;
 
-b) En el caso de la parte actora, sólo será patrocinada en materia familiar tratándose de alimentos, violencia familiar y en el que se encuentre inmerso el interés superior del menor, incapaz o ausente. En el caso de la reconvención hecha en contestación de demanda no se considerará como parte actora; y
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+b) En el caso de la parte actora, sólo será patrocinada en materia familiar tratándose de alimento, violencia familiar y en el que se encuentre inmerso el interés superior de la niña, niño o adolescente, incapaz o ausente. En el caso de la reconvención hecha en contestación de demanda no se considerará como parte actora; y
 
 c) En estos supuestos el interesado deberá acreditar encontrarse en estado de vulnerabilidad, justificado con un estudio socioeconómico practicado por personal del Instituto de Defensoría Pública.
 
@@ -429,7 +431,9 @@ V. Vigilar el respeto a los derechos humanos de sus representados y promover las
 
 VI. Utilizar los servicios informáticos del Poder Judicial del Estado y de la Federación, para la revisión de listas de acuerdos, notificaciones personales, promociones digitales y demás diligencias susceptibles de ser accedidas por este medio, con objeto de optimizar recursos y elevar la calidad en el servicio;
 
-VII. Intervenir, cuando sea requerido por la autoridad judicial, como Tutor Especial en los Juicios de Orden Familiar o Civil para proteger en juicio los intereses de los menores cuyos padres o quien ejerza la patria potestad, tengan intereses opuestos a los de ellos, sin demérito de las facultades que, en su caso, corresponden al Sistema para el Desarrollo Integral de la Familia del Estado; y
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+VII. Intervenir, cuando sea requerido por la autoridad judicial, como Tutor Especial en los Juicios de Orden Familiar o Civil para proteger en juicio los intereses de las niñas, niños y adolescentes, cuyos padres o quien ejerza la patria potestad, tengan intereses opuestos a los de ellos, sin demérito de las facultades que, en su caso, corresponden al Sistema para el Desarrollo Integral de la Familia del Estado; y
 
 VIII. Las demás que esta ley y su reglamento determinen.
 
@@ -912,6 +916,14 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 P.O. 20 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
