@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2023-05-10"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -995,7 +995,9 @@ VII. En ningún caso las reses y otros animales de esa naturaleza presenciarán 
 
 VIII. Queda prohibido estrictamente el sacrificio de hembras en el período de tiempo próximo al parto; y
 
-IX. Queda prohibida la presencia de menores en las salas de sacrificio antes, durante y después del sacrificio de cualquier animal.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+IX. Queda prohibida la presencia de niñas, niños y adolescentes en las salas de sacrificio antes, durante y después del sacrificio de cualquier animal.
 
 ###### ARTICULO 41.
 
@@ -1500,6 +1502,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 10 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-569 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 29, FRACCIONES III Y IV; Y 57, FRACCIÓN II; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 29, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
