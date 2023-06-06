@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-05-09"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -5117,9 +5117,11 @@ III.- Cuando excediere de doscientos (sic) y sea menor de quinientas veces el va
 
 IV.- Cuando el valor de lo robado exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, se impondrá una sanción de doce a quince años de prisión y multa de ciento cuarenta a ciento ochenta veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
 ###### ARTICULO 403.
 
-Para estimar la cuantía del robo se atenderá al valor intrínseco de la cosa robada en el momento de su consumación. Si no fuere estimable en dinero, si por su naturaleza no se puede fijar su valor, o cantidad, o si por cualquier circunstancia no se haya valorizado, se aplicarán de seis meses a cinco años de prisión. Igualmente se atenderá al valor intrínseco de la cosa que se intentó robar en el momento del último acto tendiente a la ejecución; en los casos de tentativa de robo, cuando no se pueda determinar su monto, se aplicarán de seis meses a dos años de prisión.
+Para estimar la cuantía del robo se atenderá al valor comercial o de mercado de la cosa robada en el momento de su consumación. Si no fuere estimable en dinero, si por su naturaleza no se puede fijar su valor, o cantidad, o si por cualquier circunstancia no se haya valorizado, se aplicarán de seis meses a cinco años de prisión. Igualmente se atenderá al valor comercial o de mercado de la cosa que se intentó robar en el momento del último acto tendiente a la ejecución; en los casos de tentativa de robo, cuando no se pueda determinar su monto se aplicarán de seis meses a dos años de prisión.
 
 > <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2011)</small>
 
@@ -5205,13 +5207,17 @@ XVII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
 XVIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-XIX.- Cuando el robo se cometa en perjuicio de alguna Institución Educativa; y,
+XIX.- Cuando el robo se cometa en perjuicio de alguna Institución Educativa;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-XX.- Cuando el robo se efectúe en lugar destinado a industria, comercio, almacén o bodega donde se encuentren en resguardo o se elaboren productos industriales o materias primas de origen diverso, así como durante su traslado.
+XX.- Cuando el robo se efectúe en lugar destinado a industria, comercio, almacén o bodega donde se encuentren en resguardo o se elaboren productos industriales o materias primas de origen diverso, así como durante su traslado; y
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+XXI.- Cuando el robo se efectúe respecto de cualquier bien, equipo, componente o accesorio compuesto de material de fibra óptica, cobre, hierro, aluminio, o cualquier otro metal, utilizado en bienes privados o en la prestación de servicios públicos, suministro de gas, instalaciones hidráulicas, energía eléctrica, telecomunicaciones, equipamiento urbano, industrial o agrícola.
 
 ###### ARTICULO 408.
 
@@ -7188,3 +7194,15 @@ P.O. 9 DE MAYO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-578 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 403; Y 407, FRACCIONES XIX Y XX; Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 407, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procesos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
