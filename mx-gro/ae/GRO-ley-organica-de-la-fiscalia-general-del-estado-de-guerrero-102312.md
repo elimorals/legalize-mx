@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-fiscalia-general-del-estado-de-guerrero-1023
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-08-01"
-last_updated: "2022-11-15"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO. NÚMERO 500
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el alcance del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -583,6 +583,10 @@ X. Fiscalía Especializada en Combate a la Corrupción;
 
 XI. Fiscalía Especializada en materia de Desaparición Forzada y Búsqueda de Personas Desaparecidas;
 
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+XI Bis. Fiscalía Especializada para la Investigación del Delito de Feminicidio, Homicidio Doloso Cometido en Agravio de Mujeres y demás Personas con Orientación o Preferencia Sexual por Identidad o Expresión de Género;
+
 XII. Direcciones Generales;
 
 XIII. Unidad Especializada contra la Trata de Personas;
@@ -794,6 +798,40 @@ XXIX. Coordinar y supervisar la actuación de la Policía Investigadora Minister
 > <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
 
 XXX. Las demás que le confieran otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 30 BIS 3. La Fiscalía Especializada para la Investigación del Delito de Feminicidio, Homicidio Doloso Cometido en Agravio de Mujeres y demás Personas con Orientación o Preferencia Sexual por Identidad o Expresión de Género, tendrá las siguientes atribuciones:
+
+I. Ejercer las atribuciones que la Constitución General, la Constitución Estatal, convenios e instrumentos internacionales, las leyes, reglamentos y demás disposiciones jurídicas le confieren al Ministerio Público en lo relativo a investigar los hechos que las leyes consideran como delitos o hechos en los que se encuentre involucrada una mujer o personas con orientación o preferencia sexual o expresión de género, y exista privación de la vida; respetando los derechos humanos.
+
+II. Proponer al Fiscal General los nombramientos y la remoción de los servidores públicos adscritos a la Fiscalía;
+
+III. Instruir al personal de la Fiscalía, a efecto de guardar la debida secrecía en la información y documentación que tienen a su cargo, en virtud de las funciones de cada Unidad Administrativa;
+
+IV. Gestionar la celebración de cursos de actualización y especialización para el personal sustantivo, directivo, administrativo y auxiliar que resulten necesarios para el cumplimiento de sus funciones;
+
+V. Solicitar a las autoridades de seguridad pública de los tres niveles de gobierno, el auxilio y colaboración para el cumplimiento de sus funciones y atribuciones;
+
+VI. Generar los mecanismos de colaboración con los Ministerios Públicos de las diversas Agencias en el Estado, quienes tendrán la obligación de dar aviso de manera inmediata a esta Fiscalía Especializada cuando se trate de un Homicidio de mujeres, o persona con diversidad sexual;
+
+VII. Canalizar a las víctimas y ofendidos del delito a la Dirección General de Atención a Víctimas u Ofendidos del Delito, para su atención; proteger sus derechos, dando los servicios de manera enunciativa: psicológica, jurídica, victimológica, económica, familiar, de trabajo social y las que se requieran; informarles del desarrollo de las Carpetas de Investigación.
+
+VIII. Someter a aprobación de la persona titular de la Fiscalía General el Protocolo de Actuación con Perspectiva de Género para la Investigación del Delito de Feminicidio, así como sus modificaciones;
+
+IX. Crear un sistema de registro electrónico, con la colaboración de la Dirección General de Tecnologías de la Información, que contenga datos de las víctimas, como edad, sexo, estrato social, ocupación, relación víctima-agresor, posible móvil del Homicidio y/o Feminicidio y causa de muerte;
+
+X. Generar los acuerdos de colaboración con la Coordinación General de los Servicios Periciales para contar con un banco de datos genéticos de mujeres y niñas, y vincularlos con los datos de personas que no sean identificadas y/ o se encuentren desaparecidas;
+
+XI. Generar los protocolos de actuaciones con perspectiva de género, tomando en cuenta el Protocolo de Estambul, además de los criterios emitidos por la Suprema Corte de Justicia de la Nación en materia de protección a derechos humanos de mujeres, niñas y niños;
+
+XII. Alinear su actuación al Código Nacional de Procedimientos Penales;
+
+XIII. Coordinarse con las instancias competentes para la elaboración y ejecución de programas para la prevención y erradicación de la violencia contra las mujeres y personas de la diversidad sexual, así como el seguimiento y cumplimiento de las recomendaciones que los organismos intergubernamentales nacionales o internacionales realicen e incidan en el ámbito local, en materia de violencia contra las mujeres;
+
+XIV. Gestionar la celebración de cursos de actualización y especialización para el personal sustantivo, directivo, administrativo y auxiliar que resulten necesarios para el cumplimiento de sus funciones, y
+
+XV. Las demás que le sean conferidas por su superior jerárquico o por el Fiscal General y otras leyes aplicables.
 
 ###### ARTÍCULO 31.
 
@@ -1778,3 +1816,15 @@ PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su pu
 SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para su conocimiento y efectos legales correspondientes.
 
 TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 446 POR EL QUE SE ADICIONA UNA FRACCIÓN XI BIS AL ARTÍCULO 24 Y UN ARTÍCULO 30 BIS 3 A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500".]
+
+PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del estado de Guerrero.
+
+SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) su conocimiento y efectos legales correspondientes.
+
+TERCERO. La persona titular de la Fiscalía Especializada para la Investigación del Delito de Feminicidio, Homicidio Doloso Cometido en Agravio de Mujeres y demás Personas con Orientación o Preferencia Sexual por Identidad o Expresión de Género, deberá someter a consideración de la Titular de la Fiscalía General del Estado, el Protocolo de Actuación con Perspectiva de Género para la Investigación del Delito de Feminicidio, a más tardar a los treinta días de haber tomado posesión del cargo.
+
+CUARTO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de esta Soberanía, para conocimiento general y efetos legales procedentes.
