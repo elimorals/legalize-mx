@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-paternidad-y-maternidad-responsable-del-estado-de-42447"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2021-07-14"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,228 +21,1626 @@ state: "TAM"
 ---
 # LEY DE PATERNIDAD Y MATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS -ANTES LEY DE PATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS-
 
-LEY DE PATERNIDAD Y MATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
 
-Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
-TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+EL CIUDADANO LIC. SOCRATES C. RIZZO GARCIA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+DECRETO NUM. 80
 
-LA QUINCUAGESIMA OCTAVA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL; Y EL ARTICULO 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-D E C R E T O No. LVIII-857
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-LEY DE PATERNIDAD Y MATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS.
+## TITULO PRIMERO. DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO 1.
+###### Artículo 1o.
 
-1. La presente ley es de orden público, interés social y de observancia general en el Estado de Tamaulipas.
+El Poder Legislativo del Estado de Nuevo León se deposita en un Congreso que se renovará cada tres años como lo establece el Artículo 46 de la Constitución Política Local.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
-2. Los beneficios que se deriven de esta Ley, serán aplicables a todas las y los menores, cuyo alumbramiento se verifique en el territorio del Estado, y se registren en cualquiera de las Oficialías del Registro Civil del Estado.
+###### Artículo 2o.
 
-###### ARTICULO 2.
+El Congreso del Estado se integrará con veintiséis Diputados electos por mayoría relativa votados en Distritos Electorales Uninominales y hasta dieciséis Diputados electos por el principio de Representación Proporcional. Todos tendrán iguales atribuciones, derechos y obligaciones.
 
-La presente ley tiene por objeto garantizar el interés superior de las niñas y los niños para tener nombre y apellido y conocer a sus padres y madres, según lo dispuesto por los artículos 4 de la Constitución Política de los Estado (sic) Unidos Mexicanos; 7 de la Convención sobre los Derechos del Niño y 5 y 9 de la Ley de los Derechos de las Niñas y Niños en el Estado de Tamaulipas.
+###### Artículo 3o.
 
-###### ARTICULO 3.
+El Ejercicio de las funciones de los Diputados durante tres años constituye una Legislatura.
 
-Para los efectos de este (sic) ley, se entenderá por:
+El cargo de Diputado Propietario o Suplente en ejercicio es incompatible con cualquier otro cargo o empleo Federal, del Estado o del Municipio en que disfrute de sueldo, exceptuándose los de investigación científica, y todos los establecidos en el Artículo 52 de la Constitución Política del Estado de Nuevo León. Tampoco se considerará las actividades de dirigencia partidista.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+###### Artículo 4o.
 
-a) Acta del Registro Civil: es una forma valorada que contiene una certificación expedida por el Registro Civil, a través de la cual hace constar un acto o un hecho asentado en los libros de registro civil;
+El Poder Legislativo del Estado de Nuevo León tendrá las atribuciones que para su integración, organización y funcionamiento establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León, esta Ley y sus disposiciones reglamentarias.
 
-b) Código Civil: El Código Civil para el Estado de Tamaulipas;
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
-c) Código de Procedimientos Civiles: El Código de Procedimientos Civiles para el Estado de Tamaulipas;
+###### Artículo 5o.
 
-d) Filiación: La relación consanguínea entre dos personas, por el hecho de engendrar o concebir una a la otra, o bien, al vínculo establecido entre dos personas a través del reconocimiento;
+La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el primero se abrirá el día 1° de septiembre y terminará el día 20 de diciembre; el segundo se iniciará el día 1° de febrero y terminara el día 1° de mayo. Ambos períodos pueden ser prorrogados hasta por treinta días, por acuerdo del Pleno.
 
-e) Ley: La Ley de Paternidad Responsable del Estado de Tamaulipas;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-f) Prueba Biológica Comparativa de Marcadores Genéticos: La prueba de comparativo genético de los padres y de la niña o el niño;
+###### Artículo 6o.
 
-g) Reconocimiento: Medio Jurídico administrativo o judicial, por el cual se establece la filiación a través de cualquiera de los modos que establece el Código Civil y la presente ley.
+El Congreso sesionará en el Recinto Oficial, pudiendo cambiar de lugar por acuerdo de las dos terceras partes de los Diputados presentes.
 
-h) Registro Civil: El Registro Civil u Oficialías del Registro Civil del Estado de Tamaulipas;
+En la sesión en que se someta a consideración dicho cambio, el Presidente de la Directiva constatará y así lo hará saber al Pleno que los Coordinadores de los Grupos Legislativos fueron informados con antelación del tema a tratar.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 1997)</small>
 
-i) Secretaría de Salud: la Secretaría de Salud en el Estado de Tamaulipas;
+###### Artículo 7o.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+A la instalación del Congreso y a la Apertura de Sesiones de cada año de Ejercicio Constitucional, asistirá el Gobernador del Estado y el Presidente del Tribunal Superior de Justicia.
 
-j) Tribunal: El Supremo Tribunal de Justicia en el Estado de Tamaulipas; y
+Para la Apertura de Sesiones podrá el Congreso del Estado convocar a invitados especiales.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1997)</small>
 
-k) Inscripción: Es el asiento constante en los libros del Registro Civil del Estado, que legitima a sus titulares en el ejercicio de las acciones y los derechos relacionados con su estado civil.
+Una vez hecha, por el Presidente de la nueva legislatura, la declaración Solemne de Apertura que establece el artículo 36 de esta Ley; el Presidente del Congreso podrá hacer uso de la palabra y conceder el uso a un Diputado de cada Partido representado en el Congreso, con el límite de tiempo que el Pleno del Congreso estime conveniente.
 
-###### ARTICULO 10.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-En el supuesto de que no se presenten ninguna de las partes a realizarse las pruebas genéticas y no justificaran su inasistencia, la Dirección General de Servicios Periciales o la institución privada acreditada, levantará el acta respectiva del hecho, para que sea remitida a la brevedad posible al Oficial del Registro Civil que corresponda, quien procederá a archivar el asunto como concluido por falta de interés.
+###### Artículo 8o.
 
-###### ARTICULO 11.
+Durante la primera quincena del mes de octubre de los primeros cinco años de Ejercicio Constitucional del Gobernador del Estado, el Congreso celebrará Sesión Solemne el día y hora que se señale a propuesta del Ejecutivo, a la que deberán asistir los Magistrados del Tribunal Superior de Justicia, a fin de que el Gobernador presente un informe por escrito en el que manifieste al pueblo de Nuevo León, a través de la Legislatura, la situación y perspectivas generales que guarden el Estado y la administración pública.
 
-1. Inscrita la declaración administrativa de la paternidad, el progenitor o sus sucesores, podrán tramitar en cualquier tiempo en la vía judicial, la impugnación de la paternidad declarada administrativamente. Este trámite no suspenderá la inscripción impugnada.
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-2. La declaración administrativa, cualquiera que sea el sentido de ella, se deberá notificar personalmente a los interesados en los términos previstos en el código de Procedimientos Civiles.
+En el año de la elección del Titular del Ejecutivo, el informe deberá presentarse dentro de los diez días anteriores al 4 de octubre.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-###### ARTICULO 12.
+Previo a la presentación del Informe por parte del Gobernador, el Presidente del Congreso concederá el uso de la palabra al Coordinador de cada Grupo Legislativo, o a quien éste designe. Los turnos de participación, así como el tiempo de duración de cada uno, serán acordados previamente por los Coordinadores de los Grupos Legislativos mediante acuerdo escrito.
 
-El procedimiento de inscripción del menor con los apellidos de uno o de ambos progenitores no excederá de treinta días hábiles.
+El Presidente del Congreso contestará el Informe de Gobierno en términos generales con las formalidades que requiere la Sesión Solemne.
 
-### CAPITULO II. PROCEDIMIENTO SOBRE PRESUNCION DE PATERNIDAD
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-###### ARTICULO 4.
+El Informe será analizado por el Congreso del Estado en sesiones subsecuentes, los Coordinadores de los diversos Grupos Legislativos, deberán suscribir un acuerdo legislativo para tal fin, en el que quedará estipulada la forma en que habrá de realizarse el análisis del Informe.
 
-El Oficial del Registro Civil, deberá informar a la madre o padre sobre las disposiciones legales y administrativas establecidas respecto a la declaración e inscripción de la paternidad o maternidad, así como las responsabilidades civiles y penales en que puede incurrir por señalar como tal a quien no resultare ser el padre o la madre biológica.
+###### Artículo 9o.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2012)</small>
+El Congreso sesionará con la concurrencia de más de la mitad de sus integrantes.
 
-###### ARTICULO 5.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-1. Si al efectuar el registro de nacimiento de un menor habido fuera de matrimonio, comparece solamente la madre, y ella presuma el no reconocimiento del padre, podrá solicitar el inicio del procedimiento sobre presunción de paternidad ante el Oficial del Registro Civil del Municipio del Estado de Tamaulipas donde radica el presunto padre, firmando la solicitud o estampando su huella dactilar, e indicará el nombre, domicilio y cualquier otro dato adicional que contribuya a la identificación del presunto padre.
+###### Artículo 10.
 
-2. El término para iniciar el procedimiento a que se refiere la presente ley será de un año a partir del nacimiento del menor.
+Los Diputados gozan de una libertad absoluta para hablar, en consecuencia, son inviolables por sus opiniones manifestadas en el desempeño de su cargo, sobre las cuales en ningún tiempo pueden ser reconvenidos o juzgados por autoridad alguna. Dicha libertad incluye las expresiones verbales, escritas o en cualquier otra forma que sean manifestadas en el ejercicio del encargo, las que realicen en actos legislativos o en cualquiera de las actuaciones como legisladores y en proclamaciones.
 
-3. Si el presunto padre radica fuera del Estado de Tamaulipas, el procedimiento administrativo comprendido en esta ley no resultará aplicable, siendo ésta una causa de improcedencia, sin perjuicio de que, en este supuesto se oriente a la interesada sobre la opción del procedimiento judicial.
+Tendrán la obligación de asistir a las sesiones, integrarse a las Comisiones, Comités y demás actividades legislativas que les encomiende el Pleno del Congreso; así como acatar las disposiciones del Código de Ética para Diputados, que para tal efecto se emita.
 
-4. Si en un lapso de cincuenta días, en cualquier estado del procedimiento, sin causa que se estime justificada, las partes no promueven ninguna acción, la solicitud quedará sin efecto, perdiendo la madre la posibilidad de volver a intentar por vía administrativa el reconocimiento de su hijo, archivándose consecuentemente el expediente.
+Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por las faltas administrativas en que incurran en el tiempo de su ejercicio en los términos de la legislación aplicable.
 
-5. No obstante lo establecido en los párrafos que anteceden, el Oficial del Registro Civil deberá de registrar al menor en el acto de comparecencia de la madre, quedando inscrito bajo los apellidos de su madre.
+###### Artículo 11.
 
-###### ARTICULO 6.
+El Recinto del Congreso es inviolable. Toda fuerza pública está impedida de tener acceso al mismo, salvo en las circunstancias en que el Presidente del Congreso lo determine, en cuyo caso la fuerza pública estará bajo su mando.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-1. En el supuesto del artículo anterior, el titular del Registro Civil deberá notificar al presunto padre en forma personal la imputación de su paternidad para efectos de que exprese lo que a su derecho corresponda dentro de los diez días hábiles siguientes contados a partir del día en que surta efectos la notificación; la aceptación o no oposición a la paternidad que se le atribuya dará lugar al reconocimiento administrativo de la filiación. La notificación a que se refiere el presente artículo, se deberá de realizar por conducto del servidor público adscrito a la Oficialía del Registro Civil correspondiente, que para tal efecto se habilite.
+El Presidente del Congreso podrá solicitar el apoyo de la fuerza pública o solicitar el cumplimiento de la Ley para salvaguardar la integridad física de los Diputados, personal y los asistentes a las sesiones, así como la inviolabilidad del Recinto Legislativo y las instalaciones del Congreso.
 
-2. Las notificaciones se deberán de llevar acabo de acuerdo a lo establecido en el Código de Procedimientos Civiles, con los requisitos que se establecen para los emplazamientos y notificaciones.
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
 
-###### ARTICULO 13.
+Se entiende por recinto legislativo el espacio en donde los Diputados llevan a cabo las sesiones del pleno y por instalaciones las áreas en donde se ubican las oficinas y espacios para cumplir con su función legislativa.
 
-Contra la resolución administrativa que determine presuntamente la paternidad, no procede recurso administrativo alguno.
+###### Artículo 12.
 
-###### ARTICULO 14.
+Ninguna autoridad podrá ejercer mandamiento judicial o administrativo sobre los bienes asignados al Congreso.
 
-Una vez que quede debidamente registrada administrativamente la niña o el niño en el Registro Civil, la madre podrá iniciar en contra del padre ante el Juez, un incidente de gastos, en el cual de ser procedente no podrá ser inferior al pago de los gastos de embarazo, maternidad, puerperio y alimentos, que hayan sido generados o se generen durante los doce meses posteriores al nacimiento.
+Tampoco podrá cumplimentarse mandamiento judicial o administrativo sobre los bienes de los Diputados en el interior de las instalaciones del Congreso.
 
-###### ARTICULO 15.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
 
-Para el pago de la pensión alimenticia se estará a lo dispuesto por los Códigos Civil y de Procedimientos Civiles del Estado.
+### CAPITULO II. DEL COLEGIO ELECTORAL
 
-### CAPITULO III. DE LAS PRUEBAS GENETICAS
+###### Artículo 13.
 
-###### ARTICULO 7.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-1. En caso de que en la comparecencia del presunto padre se advierta el no reconocimiento de la paternidad de la niña o niño, el Registro Civil procederá de la siguiente manera:
+###### Artículo 14.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-a) Se solicitará a la Fiscalía General de Justicia del Estado, programe una cita a la madre, a la niña o niño y al presunto padre señalado, para que les sea practicado un estudio comparativo de marcadores genéticos;
+###### Artículo 15.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-b) Una vez recibida la solicitud por parte de la Fiscalía General de Justicia del Estado, se turnará el asunto a la Dirección General de Servicios Periciales del Estado, quien fijará día, hora y lugar para la práctica de un estudio comparativo de marcadores genéticos tanto a la madre, el hijo y el presunto padre. El citatorio será notificado a las partes.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
 
-c) En caso de ser positivo el resultado de las pruebas de comparativos de marcadores genéticos, el padre deberá pagar el costo de los estudios y en el supuesto de dar negativo el resultado, la madre de la niña o niño deberá realizar el pago de las pruebas.
+### CAPITULO III. LA COMISION INSTALADORA DEL COLEGIO ELECTORAL
 
-2. Esta prueba será obligatoria; del resultado de ésta se determinará si existe o no filiación.
+###### Artículo 16.
 
-###### ARTICULO 8.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+###### Artículo 17.
 
-1. La Fiscalía General de Justicia del Estado, tendrá la obligación de realizar la prueba de comparativos genéticos y de garantizar la cadena de custodia de la prueba, así como de comunicar dentro de los 15 días siguientes a la toma de las muestras, al Registro Civil sobre los resultados de la misma.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-2. La Secretaría de Salud del Estado, acreditará y vigilará a todas aquellas instituciones privadas que decidan realizar la prueba de comparativos genéticos para efectos de esta Ley. Para dicho fin, la Secretaría convocará públicamente, a través del Periódico Oficial del Estado y cuando menos en uno de los periódicos de mayor circulación en el Estado, a las instituciones de salud privadas interesadas para ofrecer sus servicios relativos al contenido de este ordenamiento, obligándose a su vez, a publicar por el mismo medio de difusión la lista de las instituciones que hayan sido aprobadas.
+###### Artículo 18.
 
-###### ARTICULO 16.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-El derecho a promover las acciones relativas a la filiación, reconocimiento o investigación de paternidad, distintas a las previstas en la presente ley, se ajustarán a las reglas de prescripción de la legislación civil.
+### CAPITULO IV. DE LA CALIFICACION DE ELECCIONES
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+###### Artículo 19.
 
-###### ARTICULO 17.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-El Sistema para el Desarrollo Integral de la Familia del Estado, el Instituto de la Mujer Tamaulipeca y el Instituto de la Juventud de Tamaulipas difundirán los derechos y recursos que reconoce y ofrece esta ley, a través de las instituciones públicas y privadas que conforman el Sistema Estatal de Salud, así como de las demás instancias que estimen idóneas para promover su objeto.
+###### Artículo 20.
 
-### CAPITULO IV. DECLARACION ADMINISTRATIVA
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-###### ARTICULO 9.
+###### Artículo 21.
 
-1. Si el presunto padre no se presenta en la fecha señalada para practicarse la prueba genética y no justifica debidamente su inasistencia o si al presentarse se niega a practicarse dicha prueba, la Dirección General de Servicios Periciales o la institución privada acreditada levantará constancia de dicha circunstancia, y deberá remitirla de inmediato al Oficial del Registro Civil que corresponda.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
 
-2. Hecho lo anterior, la Oficialía del Registro Civil, procederá al asentamiento de la anotación marginal de presunción de paternidad y dará lugar para que así se declare administrativamente y se establezca la filiación administrativa del o la menor con los apellidos de ambos progenitores, siempre y cuando la madre y el o la menor se hayan presentado a realizar la prueba, salvo evidencia en contrario. Dicha declaración administrativa otorgará las obligaciones legales propias de la paternidad, pero no los derechos sobre la hija o hijo.
+###### Artículo 22.
 
-3. En el supuesto de que el presunto padre justifique fundadamente su inasistencia al estudio comparativo de marcadores genéticos ante la Dirección General de Servicios Periciales, se fijará día, hora y lugar por única ocasión para la práctica de un nuevo estudio comparativo de marcadores genéticos, pero si el presunto padre no se presenta de nueva cuanta (sic), se procederá conforme a los párrafos 1 y 2 de este artículo.
+En el año de la Elección de Diputados Locales, la Diputación Permanente además de sus funciones, será el enlace con la siguiente Legislatura. El Congreso del Estado comunicará a la Comisión Estatal Electoral, la designación de la Diputación Permanente.
 
-### CAPITULO V. DECLARACION DE PATERNIDAD Y REEMBOLSO DE GASTOS A FAVOR DE LA MADRE
+En el año de la elección del Titular del Poder Ejecutivo, el Pleno del Congreso, o en su caso la Diputación Permanente, dará a conocer en todo el Estado la Declaración de Gobernador Electo, de acuerdo a lo dispuesto por la fracción XV del Artículo 63 de la Constitución Política del Estado; misma que se mandará publicar en el Periódico Oficial del Estado y en los periódicos de mayor circulación en la entidad.
 
-### CAPITULO VI. DE LA PRESCRIPCIÓN
+###### Artículo 23.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 1994)
 
-## ARTICULOS TRANSITORIOS
+###### Artículo 24.
 
-PRIMERO: La presente ley entrará en vigor a los 30 días de su publicación en el Periódico Oficial del Estado.
+(DEROGADO, P.O. 1 DE JUNIO DE 1994)
 
-SEGUNDO: La Secretaría de Salud del Estado, en un plazo de 30 días hábiles contados a partir de la entrada en vigor de la presente ley, deberá emitir el procedimiento para la acreditación de los laboratorios privados que puedan realizar las pruebas biológicas, comparativas de marcadores genéticos.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2014)</small>
 
-TERCERO: La Dirección del Registro Civil del Estado, realizará las modificaciones necesarias a los formatos de actas respectivas para la consecución de los fines de esta ley.
+### CAPITULO V. DE LA CONSTITUCIÓN DE LA LEGISLATURA
 
-CUARTO: Se derogan todas las disposiciones jurídicas y administrativas que se opongan a la presente ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Victoria, Tam., a 19 de octubre del 2004.- DIPUTADO PRESIDENTE.- JOSE GUILLERMO DAVILA MORA.- Rúbrica.- DIPUTADA SECRETARIA.- ELSA ILIANA RAMIREZ ELIZONDO.- Rúbrica.- DIPUTADA SECRETARIA.- MARIA DEL PILAR MAR CORDOVA.- Rúbrica."
+###### Artículo 25.
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+Una vez calificadas las elecciones de Diputados Electos con arreglo a la Constitución Política del Estado y a la Ley Electoral del Estado, y recibidas por los interesados las constancias respectivas expedidas por la autoridad electoral, la Diputación Permanente citará a los Diputados Electos para que se presenten al Recinto del Congreso, el día 31 de agosto del año de la elección a fin de (sic) se constituya la Legislatura.
 
-Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los dieciséis días del mes de diciembre del año dos mil cuatro.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+###### Artículo 26.
 
-P.O. 31 DE DICIEMBRE DE 2007.
+La Legislatura se constituirá con la mayoría de los Diputados Electos, bajo la Presidencia del Diputado que haya obtenido el mayor número de votos o en su defecto en el orden progresivo del número de votos, en dicha sesión se rendirá la protesta de ley, se hará la declaratoria de constitución de la Legislatura y también en dicha sesión se elegirá a la Directiva que fungirá durante el primer año de ejercicio constitucional.
 
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-P.O. 21 DE NOVIEMBRE DE 2012.
+###### Artículo 27.
+
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
+
+###### Artículo 28.
+
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
+
+###### Artículo 29.
+
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+###### Artículo 30.
+
+El mismo día 31 de agosto del año de la elección, los Diputados Electos celebrarán sesión en el Recinto del Congreso, en la que todos, rendirán su protesta. A ese respecto, todos de pie, el Diputado que hubiere obtenido el mayor número de votos o en su ausencia quien corresponda rendirá su protesta al cargo, para lo cual dirá: “PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN, Y LAS LEYES QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO ME HA CONFERIDO. SI NO LO HICIERE ASÍ, QUE LA NACIÓN Y EL ESTADO ME LO DEMANDEN”.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+###### Artículo 31.
+
+Luego de rendir protesta el Diputado Electo que hubiere obtenido el mayor número de votos o en su ausencia quien corresponda, tomará protesta a los demás Diputados Electos, para lo cual dirá: "¿PROTESTÁIS GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE NUEVO LEÓN Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO OS HA CONFERIDO?". Los Diputados Electos contestarán: "SI PROTESTO", y quien les toma la protesta contestará: "SI NO LO HICIEREIS ASÍ QUE LA NACIÓN Y EL ESTADO OS LO DEMANDEN.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+###### Artículo 32.
+
+Cuando uno o más de los Diputados Electos se presentaren después de la protesta a que se refiere el artículo anterior, deberán rendirla a su vez en los términos indicados, sin cuyo requisito no podrán tomar posesión de su cargo. Dicha protesta deberá tomarse en la sesión del Pleno del Congreso más próxima, por el Presidente de la Directiva.
+
+## TITULO SEGUNDO
+
+### CAPITULO UNICO. DE LA APERTURA DE SESIONES
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+###### Artículo 33.
+
+El día 31 de agosto del año de la elección, se procederá por escrutinio secreto a la elección de la Directiva del Congreso que se compondrá de un Presidente, dos Vicepresidentes y dos Secretarios, quienes entrarán en desempeño de sus funciones a partir del día 1º de septiembre.
+
+(REFORMADO, P.O. 25 DE JUNIO DE 2014) (F. DE E., P.O. 7 DE JULIO DE 2014)
+
+###### Artículo 34.
+
+La Directiva comunicará la Constitución de la Legislatura y la conformación de la Directiva del Congreso, a los Poderes Ejecutivo y Judicial independientemente de que se haga por medio de oficio, así como a las demás autoridades.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 35.
+
+Con la elección de la Directiva a que se refiere el Artículo 33 de esta Ley, el nuevo Congreso se tendrá por legalmente constituido a partir del día 1º de septiembre, fecha en que se formulará el Decreto correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 36.
+
+El día 1º de septiembre de cada tres años, a las 11:00 horas, se reunirán los Diputados en el Recinto Oficial en Sesión Solemne en la que una vez que tome posesión la Directiva de la nueva Legislatura, el Presidente hará la declaración solemne de apertura, pronunciando las siguientes palabras en voz alta: ("La (número) Legislatura del H. Congreso del Estado, abre hoy 1º de septiembre de (año), el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional").
+
+La misma declaratoria se hará en la apertura del segundo y tercer año.
+
+Si se tratara del período de excepción a que se refiere el segundo párrafo del artículo 55 de la Constitución Política del Estado se hará constar esta circunstancia.
+
+> <small>(ADICIONADO, P. O. 21 DE NOVIEMBRE DE 1994)</small>
+
+En esta Sesión se harán los honores a nuestra Enseña Patria y se entonará el Himno Nacional.
+
+###### Artículo 37.
+
+Si por falta del quórum establecido en el Artículo 56 de la Constitución Política del Estado, el Congreso no queda instalado para la fecha indicada en el Artículo anterior, de conformidad con el Artículo 67 Constitucional, la Legislatura cuyo ejercicio termina, continuará en funciones hasta que deje instalada a la nueva.
+
+###### Artículo 38.
+
+Cuando se trate de iniciación de Período Extraordinario de Sesiones se hará la declaratoria conforme a tales circunstancias.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 39.
+
+En las sesiones solemnes del Congreso se harán los honores a nuestra Enseña Patria y se entonará el Himno Nacional.
+
+En la Sesión Solemne en la que el Gobernador Constitucional del Estado haya de rendir el Informe a que se refiere el Artículo 57 de la Constitución Política del Estado, serán invitados los Magistrados del Tribunal Superior de Justicia, el Presidente Municipal de Monterrey, la Primera Autoridad Militar en el Estado y demás personas que se estime conveniente como invitados de honor.
+
+En estas sesiones, los representantes de los tres Poderes del Gobierno del Estado se ubicarán en el nivel superior del estrado.
+
+La Directiva podrá girar invitaciones a otras autoridades y ciudadanos para que asistan a estas sesiones.
+
+## TITULO TERCERO
+
+### CAPITULO I. DE LOS GRUPOS LEGISLATIVOS
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
+
+###### Artículo 40.
+
+Podrán Constituir un Grupo Legislativo los Diputados que pertenezcan a un mismo Partido Político o aquellos que sean considerados como Diputados Independientes, para actuar de forma orgánica y coordinada en los trabajos del Congreso.
+
+Los Diputados no podrán pertenecer a dos o más Grupos Legislativos; los que pertenezcan a un mismo partido o los que sean considerados Independientes, en ningún caso pueden constituir uno o más Grupos Legislativos separados.
+
+Serán considerados como Diputados Independientes aquellos que hayan participado en el proceso electoral como Candidatos Independientes o aquellos que dejen de pertenecer al partido político que los postuló y se declaren independientes.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+###### Artículo 41.
+
+Todos los Grupos Legislativos, con las excepciones previstas en esta Ley, y en el Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León, gozarán de idénticos derechos y obligaciones.
+
+###### Artículo 42.
+
+Los Grupos Legislativos son organismos coadyuvantes del proceso legislativo y tienden a lograr la participación de los Diputados en las actividades legislativas y a contribuir y orientar la formación de criterios comunes en las deliberaciones y discusiones que se lleven a cabo, por los integrantes del Congreso en las Sesiones correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2014)</small>
+
+###### Artículo 43.
+
+Para crear un Grupo Legislativo es requisito esencial que lo integren Diputados de igual afiliación partidista o ser Diputado Independiente. Se tendrán por legalmente constituidos cuando presenten a la Directiva del Congreso los documentos siguientes:
+
+I.- Acta en la que conste la decisión de los Diputados de constituirse en Grupo, especificando el nombre del mismo y agregando la lista de los integrantes.
+
+II.- Nombre y firma del Diputado que resulte designado como Coordinador del Grupo Legislativo.
+
+En los casos en que un partido esté representado por un solo diputado, éste podrá integrar un Grupo Legislativo.
+
+###### Artículo 44.
+
+Los Grupos Legislativos en la segunda sesión del Primer Período Ordinario de Sesiones del primer año de ejercicio constitucional, harán entrega de la documentación a la que se refiere el artículo anterior. El Presidente hará en su caso la declaratoria de quedar constituído el Grupo de que se trate.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 45.
+
+Corresponde a los Coordinadores de los Grupos Legislativos:
+
+I.- Ser integrantes de la Comisión de Coordinación y Régimen Interno; y
+
+II.- Realizar tareas de coordinación y concertación con los Órganos de Dirección y de Trabajo de la Legislatura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 1999)</small>
+
+###### Artículo 46.
+
+Los integrantes de la Legislatura podrán formar nuevos Grupos Legislativos bajo las siguientes condiciones:
+
+I.- Cuando un Partido Político cambie de denominación;
+
+II.- Cuando se disuelva un Grupo Legislativo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2014)</small>
+
+III.- Cuando uno o más integrantes dejen de pertenecer a algún Partido Político y constituyan un Grupo Legislativo de Diputados Independientes, siempre y cuando éste no se haya integrado anteriormente.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
+
+Sólo podrán formar Grupos Legislativos los Diputados cuyos partidos hayan participado en la elección y los Diputados Independientes. Aquellos que no se inscriban o dejen de pertenecer a un Grupo Legislativo, sin integrarse a otro existente, serán considerados como Diputados sin partido y tendrán las mismas consideraciones y prerrogativas que los demás Legisladores y se les apoyará de igual manera para que puedan desempeñar sus funciones.
+
+###### Artículo 47.
+
+Los Diputados que integran un Grupo Legislativo tomarán asiento en las curules que correspondan al Grupo de que forme parte.
+
+###### Artículo 48.
+
+Los Grupos Legislativos dispondrán de locales adecuados en las instalaciones del Congreso, así como Asesores, Personal y elementos materiales necesarios para el cumplimiento de sus funciones de acuerdo con las posibilidades financieras del Congreso.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 49.
+
+Del presupuesto aprobado para la función legislativa se destinarán partidas de gastos para ser dispuestas por cada Grupo Legislativo proporcionalmente al número de Diputados que los integran y de acuerdo a la legislación y reglamentación aplicable y a los lineamientos que emita el Comité de Administración.
+
+Los Grupos Legislativos tendrán el derecho para administrar por sí mismos los recursos financieros que les sean asignados para el cumplimiento de la función legislativa.
+
+La aplicación de los recursos financieros deberá justificarse cumpliendo siempre con las disposiciones administrativas internas de control del gasto que dicte la Tesorería del Congreso.
+
+## TITULO CUARTO
+
+### CAPITULO I. ORGANIZACION DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 50.
+
+Para la realización de sus atribuciones, el Congreso del Estado cuenta con los siguientes órganos:
+
+I.- Legislativos:
+
+a) De Decisión:
+
+1. Pleno del Congreso; y
+
+2. Diputación Permanente;
+
+b) De Dirección:
+
+1. Directiva; y
+
+2. Comisión de Coordinación y Régimen Interno;
+
+c) De Trabajo Legislativo:
+
+1. Comisiones; y
+
+2. Comités;
+
+II.- De Soporte Técnico:
+
+a) Oficialía Mayor;
+
+b) Tesorería;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
+
+c) Contraloría Interna;
+
+d) Centro de Estudios Legislativos;
+
+III.- De Apoyo:
+
+a) Dirección de Comunicación Social;
+
+b) Dirección de Informática;
+
+c) Coordinación de Seguridad; y
+
+d) Unidad de Adquisiciones.
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+IV. Órgano Auxiliar del Congreso:
+
+a) Auditoría Superior del Estado.
+
+###### Artículo 51.
+
+La organización y funcionamiento del Congreso por lo que corresponde a Debates, Sesiones, Iniciativas, Votaciones, Ceremonial, Procedimientos para expedición de Leyes, Decretos y Acuerdos y demás atribuciones del proceso legislativo previstas en las leyes correspondientes, se regulará por el Reglamento para el Gobierno Interior del Congreso.
+
+### CAPITULO II. DE LA DIRECTIVA
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 4 DE MAYO DE 2018)</small>
+
+###### Artículo 52.
+
+La Directiva es el órgano de dirección del Pleno del Congreso. Es responsable de la conducción de las sesiones del Pleno del Poder Legislativo, tiene las atribuciones señaladas en la presente Ley y en el Reglamento para el Gobierno Interior del Congreso. Se integra por un Presidente, que será el Presidente del Congreso, dos Vicepresidentes y dos Secretarios. La Presidencia del Congreso será rotativa entre los Grupos Legislativos, de acuerdo a su representación en el mismo. El primer año de ejercicio constitucional la ocupará un diputado del Grupo Legislativo que sea la primera minoría, el segundo año de ejercicio constitucional un diputado del Grupo Legislativo que sea de mayoría absoluta o de mayoría, y el tercer año de ejercicio constitucional será a propuesta de la Comisión de Coordinación y Régimen Interno. En cada caso, uno de los Vicepresidentes y uno de los Secretarios deberán pertenecer a Grupos Legislativos distintos al del diputado que ocupe la Presidencia. Los integrantes de la Directiva durarán un año en el cargo.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+La Directiva se renovará en la primera sesión de cada año de ejercicio constitucional, pudiéndose hacer la designación en la última sesión del ejercicio anterior. La composición de la Directiva será plural. La Comisión de Coordinación y Régimen Interno hará las propuestas de quienes deberán integrarla, sin menoscabo del derecho que tiene cualquier Diputado para hacer alguna propuesta al respecto. La elección de los integrantes de la Directiva se hará por mayoría, mediante voto secreto y cédula. En caso de empate, la Comisión de Coordinación y Régimen Interno hará una nueva propuesta y las que sean necesarias, hasta conseguir la mayoría requerida.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+Para cubrir las ausencias del Presidente del Congreso se atenderá lo dispuesto en el Artículo 21 del Reglamento para el Gobierno Interior del Congreso. En los casos de los demás integrantes de este órgano de dirección se procederá en base a lo dispuesto en los Artículos 27 y 29 del mismo Reglamento.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+El cargo de Presidente del Congreso es institucional y representa al conjunto de la Legislatura, por lo que podrá optar por no formar parte de las Comisiones de Dictamen Legislativo, Comités o Comisión de Vigilancia previstos por la presente Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+Si la presidencia hubiese recaído en los primeros dos años de la legislatura en diputados del mismo género, el tercer año de la legislatura deberá recaer en un género distinto.
+
+###### Artículo 53.
+
+Se expedirá Decreto en el que conste el nombramiento de los integrantes de la Directiva del Congreso del Estado el que se enviará al Ejecutivo para su publicación en el Periódico Oficial y demás efectos legales.
+
+Por oficio se comunicará al Ejecutivo y al Poder Judicial del Estado y además a las Autoridades de los Estados y de la Federación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 54.
+
+La Directiva tiene las siguientes atribuciones:
+
+I.- Integrarse como un cuerpo coordinador de los trabajos del Pleno del Congreso;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+II.- Conducir las sesiones del Congreso y garantizar el adecuado desarrollo de los debates, discusiones y votaciones del Pleno;
+
+III.- Cuidar que las deliberaciones se den con absoluta libertad en la Tribuna del Congreso;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+IV.- Formular, someter a la aprobación del Pleno del Congreso y cumplir, el orden del día para las sesiones;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+V.- Vigilar que el desarrollo de las sesiones y los actos emanados de las mismas, se encuentren apegados a esta Ley, al Reglamento para el Gobierno Interior del Congreso y a las demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+VI.- Designar las comisiones de cortesía que juzgue pertinentes; y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+VII.- Las demás que le atribuyen esta Ley, el Reglamento para el Gobierno Interior y otras disposiciones legales aplicables.
+
+###### Artículo 55.
+
+El ejercicio de las atribuciones del Congreso que no correspondan específicamente a la Directiva o a otro de los órganos del Congreso en particular, serán competencia de quien el Pleno determine.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 56.
+
+Al llegar al término de su cargo los integrantes de la Directiva rendirán al Pleno del Congreso, a través del Presidente, un informe por escrito de todas las actividades realizadas en el ejercicio de sus funciones, entregando archivo electrónico del mismo a cada uno de los Diputados que integran la Legislatura.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 57.
+
+Cuando se celebre Período Extraordinario de Sesiones, la Directiva en funciones será la que haya sido electa en términos del artículo 52 de esta Ley para el año que corresponda.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 58.
+
+La Directiva a través del Presidente, hará respetar en todo momento, la integridad física de los Diputados, la inviolabilidad del recinto legislativo y de las instalaciones del Congreso, para ello tendrá el mando de la fuerza pública en el recinto e instalaciones del Congreso.
+
+###### Artículo 59.
+
+Los actos de los integrantes de la directiva, ejecutados en contra de la Ley serán nulos de pleno derecho.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 60.
+
+Son atribuciones de los integrantes de la Directiva las siguientes:
+
+I.- Del Presidente:
+
+a) Ser el Presidente del Congreso durante el período para el que haya sido electo;
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+b) Hacer respetar la integridad física de los Diputados, la inviolabilidad del recinto legislativo y las instalaciones del Congreso;
+
+c) Representar al Poder Legislativo en los asuntos de carácter legal y protocolario, pudiendo delegar dicha representación de acuerdo a lo dispuesto en el Reglamento para el Gobierno Interior del Congreso del Estado;
+
+d) Dar respuesta al informe que rinda el Gobernador al Congreso, en los términos señalados en el artículo 57 de la Constitución Política del Estado.
+
+e) Conducir las relaciones institucionales con los otros dos Poderes del Estado, con los órganos estatales constitucionalmente dotados de autonomía, con las Cámaras de Diputados y Senadores del Congreso de la Unión y con las Legislaturas de los estados de la República;
+
+f) Llevar a cabo, a través de la Oficialía Mayor, las notificaciones que determine por sí o que acuerde el Pleno del Congreso;
+
+g) Conceder el uso de la palabra, dirigir los debates, discusiones y deliberaciones, así como ordenar se proceda a las votaciones y formular la declaratoria correspondiente;
+
+h) Firmar junto con los Secretarios las leyes, decretos y acuerdos que expida el Congreso;
+
+i) Convocar a las reuniones de la Directiva del Congreso;
+
+j) Ordenar lo conducente para cumplimentar lo dispuesto en el artículo 63 de la Constitución Política del Estado;
+
+k) Hacer del conocimiento del Pleno del Congreso, en sesión pública y al final de cada Período de Sesiones, la asistencia e inasistencia de cada uno de los integrantes de la Legislatura a las sesiones del Pleno, de las Comisiones y de los Comités de que formen parte; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
+
+l) Recibir a nombre del Congreso las solicitudes de audiencia pública, para lo cual tendrá un plazo para dar respuesta de hasta 15 días hábiles; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 20 DE ENERO DE 2020)</small>
+
+m) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
+
+II.- De los Vicepresidentes:
+
+a) Asistir al Presidente de la Directiva en el ejercicio de sus funciones;
+
+b) Sustituirlo en la conducción de las sesiones de acuerdo a lo dispuesto en el artículo 21 del Reglamento para el Gobierno Interior del Congreso; y
+
+c) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
+
+III.- De los Secretarios, por su orden:
+
+a) Asistir al Presidente de la Directiva en las funciones relacionadas con la conducción de las sesiones del Pleno;
+
+b) Comprobar el quórum de las sesiones del Pleno, llevar a cabo el cómputo y registro de las votaciones y dar a conocer el resultado de éstas;
+
+c) Previo acuerdo con el Presidente, dar cuenta a la Asamblea de los asuntos en cartera;
+
+d) Expedir las certificaciones que disponga el Presidente del Congreso; y
+
+e) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
+
+IV.- De los Secretarios, en forma conjunta e independientemente de su orden:
+
+a) Cuidar de que circulen con toda oportunidad entre los Diputados, los dictámenes de las Comisiones y las iniciativas que los motiven, debiendo remitir ejemplares de los dictámenes a los Poderes Ejecutivo y Judicial, cuando así se considere pertinente;
+
+b) Supervisar la formulación de las actas de cada sesión, vigilar que sean sometidas a consideración del Pleno, firmarlas con el Presidente una vez que hayan sido aprobadas y turnarlas a la Oficialía Mayor para su archivo;
+
+c) Asegurarse de que se elabore el Diario de Debates y firmarlo;
+
+d) Firmar, junto con el Presidente, las leyes, decretos y acuerdos expedidos por el Congreso;
+
+e) Firmar la correspondencia oficial del Congreso; y
+
+f) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+Artículo 60 BIS.- Los integrantes de la Directiva podrán ser removidos de sus cargos por incumplimiento de sus atribuciones, siendo necesario para tal efecto el voto de la mayoría simple de los Diputados presentes en la sesión y la audiencia del interesado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO III. LA COMISION DE COORDINACION Y REGIMEN INTERNO
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 61.
+
+La Comisión de Coordinación y Régimen Interno es el órgano colegiado encargado de dirigir la administración operativa del Congreso, así como de promover entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios a fin de alcanzar acuerdos para que el Pleno del Congreso esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
+
+La Comisión de Coordinación y Régimen Interno tiene las atribuciones que le señala la presente Ley y el Reglamento para el Gobierno Interior del Congreso del Estado. Se compondrá por un Presidente, un Vicepresidente, un Secretario y los Vocales que resulten de su integración.
+
+Para efectos de la integración de esta Comisión se tendrá como denominaciones de los Grupos Legislativos las siguientes:
+
+I.- Grupo Legislativo de mayoría absoluta: El que esté integrado por al menos, la mitad más uno de los Diputados de la Legislatura;
+
+II.- Grupo Legislativo de mayoría: El Grupo Legislativo que sin estar comprendido en el supuesto de la fracción anterior, esté integrado por más Diputados que cualquier otro Grupo Legislativo en la Legislatura; y,
+
+III.- Primer minoría, segunda minoría, tercer minoría, y subsecuentes: Los Grupos Legislativos que después del Grupo Legislativo de mayoría absoluta o del de mayoría, tengan mayor cantidad de integrantes, en orden decreciente, respectivamente.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2018)</small>
+
+Con el único efecto de integrar, organizar y dar funcionalidad a la Comisión de Coordinación y Régimen Interno, si dos o más Grupos Legislativos tienen el mismo número de Diputados, la referencia para la denominación correspondiente será, el número de Diputados de Mayoría Relativa del conjunto de integrantes de cada Grupo Legislativo que se encuentre en la situación de empate y si persiste el empate por la cantidad de votos obtenidos por el conjunto de integrantes de cada Grupo Legislativo, en las elecciones constitucionales en que fueron electos. Fuera de esta Comisión y frente a cualquier instancia, en caso de empate, la denominación atenderá al número de Diputados que componen cada Grupo Legislativo, reflejando fielmente su representación real en el Congreso, pudiendo en consecuencia, existir dos o más Grupos Legislativos bajo la misma denominación, sin menoscabo del nombre correspondiente al origen partidista de sus miembros en los términos del artículo 40 de esta Ley.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 62.
+
+La integración de la Comisión de Coordinación y Régimen Interno se basa en los principios de democracia y pluralidad, así como en la representatividad que cada Grupo Legislativo tiene en el Congreso del Estado.
+
+La integración de la Comisión de Coordinación y Régimen Interno se regirá de acuerdo a las siguientes normas:
+
+I.- Si un Grupo Legislativo tiene mayoría absoluta en la Legislatura:
+
+a) Forman parte de esta Comisión:
+
+1. Los Coordinadores de los Grupos Legislativos constituidos en el Congreso;
+
+2. Los Diputados que sean necesarios para garantizar que el Grupo Legislativo de mayoría absoluta esté representado con la mitad más uno de los integrantes de esta Comisión. Estos Diputados serán designados por acuerdo de su Grupo Legislativo; y
+
+3. Un Diputado designado por acuerdo del Grupo Legislativo que sea la primer minoría.
+
+b) Los cargos en la Comisión de Coordinación y Régimen Interno se asignarán de la siguiente forma:
+
+1. Presidente: El Coordinador del Grupo Legislativo de mayoría absoluta;
+
+2. Vicepresidente: El Coordinador del Grupo Legislativo que represente a la primer minoría;
+
+3. Secretario: Un integrante de la Comisión nombrado por ésta; y
+
+4. Vocales: Los demás integrantes de la Comisión.
+
+II.- Si ningún Grupo Legislativo tiene mayoría absoluta en el Congreso:
+
+a) Forman parte de esta Comisión:
+
+1. Los Coordinadores de los Grupos Legislativos constituidos en el Congreso;
+
+2. Dos Diputados del Grupo Legislativo de mayoría, designados por acuerdo de su Grupo Legislativo; y
+
+3. Un Diputado designado por acuerdo del Grupo Legislativo que sea la primer minoría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2010)</small>
+
+b) Los cargos en la Comisión de Coordinación y Régimen Interno serán ocupados de acuerdo a lo siguiente:
+
+1. Presidente: El Coordinador del Grupo Legislativo de mayoría;
+
+2. Vicepresidente: El Coordinador del Grupo Legislativo que sea la primer minoría;
+
+3. Secretario: El Coordinador del Grupo Legislativo que sea la segunda minoría; y
+
+4. Vocales: Los demás integrantes de la Comisión.
+
+c) (DEROGADO, P.O. 19 DE JULIO DE 2010)
+
+d) (DEROGADO, P.O. 19 DE JULIO DE 2010)
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+Artículo 62 BIS.- Son reglas para la funcionalidad de la Comisión de Coordinación y Régimen Interno:
+
+I.- Sobre la participación en las sesiones: Los integrantes de esta Comisión tendrán derecho de voz y voto ponderado. El voto ponderado de cada integrante de esta Comisión, será el resultado de dividir la cantidad de Diputados de la Legislatura pertenecientes al mismo Grupo Legislativo del cual forma parte, entre la cantidad de integrantes de esta Comisión que pertenecen a su propio Grupo Legislativo.
+
+II.- Sobre el quórum legal de sesiones: Para que la sesión pueda celebrarse se requerirá la asistencia de los integrantes de esta Comisión que en conjunto representen al menos, más del cincuenta por ciento de los Diputados que componen la Legislatura.
+
+III.- Sobre las Decisiones y los acuerdos: Para que las decisiones y acuerdos de esta Comisión sean válidos, se requerirá el voto ponderado de los integrantes de la misma que en conjunto representen al menos, más del cincuenta por ciento de los Diputados que componen la Legislatura.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2003)</small>
+
+Las Sesiones de la Comisión de Coordinación y Régimen Interno serán públicas, salvo determinación en contrario de la mayoría de sus integrantes. Podrán participar en las reuniones, a invitación de su Presidente, representantes de grupos de interés, peritos u otras personas, por acuerdo tomado por la mayoría de sus integrantes; de igual forma, el Presidente de la Comisión podrá autorizar la presencia de asesores y personal de apoyo para el desarrollo de los trabajos.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 63.
+
+La Comisión de Coordinación y Régimen Interno quedará instalada en la tercera sesión del Primer Período Ordinario del Primer Año de Ejercicio Constitucional de cada Legislatura.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 64.
+
+A la Comisión de Coordinación y Régimen Interno le corresponde:
+
+I.- Conducir las relaciones de esta Comisión con órganos similares;
+
+II.- Promover entendimientos y convergencias políticas entre los Grupos Legislativos para la presentación de iniciativas, así como para la formulación de acuerdos y dictámenes que requieran ser votados por el Pleno del Congreso;
+
+III.- Proponer al Pleno del Congreso:
+
+a) A los integrantes de las Comisiones y de los Comités, así como la sustitución de los mismos cuando su designación corresponda al Pleno y exista causa justificada para ello;
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+b) A más tardar en la décima sesión del Primer Periodo Ordinario de sesiones del Primer Año de Ejercicio Constitucional, la Agenda Legislativa que contendrá los temas que deberán analizarse durante la Legislatura, así como la agenda temática mínima para ese periodo de sesiones.
+
+A excepción del periodo de inicio de la Legislatura, en la cuarta sesión de cada Periodo Ordinario de Sesiones, la Comisión de Coordinación y Régimen Interno, propondrá al Pleno para su discusión, modificación en su caso y aprobación, la agenda temática mínima que regirá los trabajos legislativos correspondientes al periodo respectivo.
+
+Para tal efecto, los Grupos Legislativos que integran el Congreso del Estado, deberán presentar, a más tardar 15 días antes del inicio de cada Periodo de Sesiones, una relación de temas o asuntos que estimen prioritarios para discutir su inclusión a la agenda temática mínima, remitiendo su propuesta a la Comisión de Coordinación y Régimen Interno, la cual realizará el proyecto respectivo, así como al Centro de Estudios Legislativos quien participará en la elaboración de la referida agenda, de acuerdo a las instrucciones que reciba de dicho órgano de dirección.
+
+c) La designación y la remoción del Oficial Mayor, del Tesorero y del Director del Centro de Estudios Legislativos, de acuerdo a lo dispuesto en los artículos 81 y 82 de la presente Ley;
+
+d) El Presupuesto Anual del Poder Legislativo; y
+
+e) Proyectos de acuerdo sobre asuntos que le sean turnados.
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+IV.- Dirigir por sí, o través de su Presidente por acuerdo de sus integrantes, los servicios administrativos internos del Congreso, con excepción del Órgano Auxiliar del Congreso;
+
+V.- Administrar el ejercicio del presupuesto del Congreso a través de la Tesorería;
+
+VI.- Autorizar adquisiciones de bienes y contratación de servicios para la función legislativa, en los términos del Reglamento para el Gobierno Interior del Congreso del Estado;
+
+VII.- Convocar a los titulares de los Órganos de Soporte Técnico y de Apoyo dependientes de la Comisión de Coordinación y Régimen Interno a las reuniones semestrales de planeación y organización de las actividades administrativas del Congreso. El Presidente de este órgano de dirección dirigirá dichas reuniones;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2002)</small>
+
+VIII.- Nombrar y remover al personal del Congreso, resolver sobre las renuncias y licencias que éstos presenten, así como de los procedimientos de responsabilidad administrativa;
+
+IX.- Aprobar el Manual de Organización y Procedimientos del Congreso, así como otras disposiciones normativas relativas a los asuntos de su competencia;
+
+X.- Conocer de las propuestas de los titulares de los Órganos de Soporte Técnico y de Apoyo dependientes de este órgano de dirección sobre los siguientes asuntos:
+
+a) La Organización interna y procedimientos del órgano a su cargo; y
+
+b) Los Programas de Actividades del órgano a su cargo.
+
+XI.- Aprobar el Calendario de Actividades del Congreso que le proponga la Oficialía Mayor;
+
+XII.- Aprobar las políticas de sueldos y programas de incentivos para personal del Congreso que le proponga el Comité de Administración;
+
+XIII.- Coadyuvar en las actividades que se encomienden a las Comisiones y a los Comités; y
+
+XIV.- Las demás que le confieren esta Ley y el Reglamento para el Gobierno Interior del Congreso.
+
+## TITULO QUINTO
+
+### CAPITULO I. DE LOS ORGANOS DE TRABAJO LEGISLATIVO
+
+###### Artículo 65.
+
+Son Organos de Trabajo para el despacho de los asuntos del Congreso del Estado:
+
+I.- Las Comisiones; y
+
+II.- Los Comités.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
+
+###### Artículo 66.
+
+El Pleno del Congreso para la resolución de los asuntos que le fueren turnados funcionará con las siguientes Comisiones:
+
+I.- Comisiones Permanentes:
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+a) Comisiones de Dictamen Legislativo;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+b) Comisión de Vigilancia; y
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+c) Comisión de Estudio Previo;
+
+II.- Comisiones Temporales:
+
+a) Comisiones Jurisdiccionales;
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+b) Comisiones Investigadoras.
+
+III.- Comisiones Especiales:
+
+a) Las que designe el Pleno del Congreso para la resolución de un asunto específico.
+
+Ningún Diputado presidirá, a la vez, dos o más de las Comisiones señaladas en la fracción I del presente artículo, ni tampoco una de estas Comisiones y uno de los Comités establecidos en el Artículo 77 de esta Ley.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+Cada Diputado formará parte de hasta siete Comisiones de Dictamen Legislativo.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
+
+###### Artículo 67.
+
+Las Comisiones de Dictamen Legislativo se integrarán pluralmente por once Diputados: un Presidente, un Vice-Presidente, un Secretario y ocho Vocales, electos o ratificados por el Pleno del Congreso en la quinta sesión del Primer Período Ordinario de Sesiones de cada Año de Ejercicio Constitucional.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
+En el caso de la Comisión para la Igualdad de Género el cargo de Presidente, invariablemente, será anual y se asignará de manera rotativa entre los Grupos Legislativos constituidos en el Congreso.
+
+Las Comisiones de Dictamen Legislativo se integrarán en proporción al número de diputados de cada Grupo Legislativo.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+###### Artículo 68.
+
+La Comisión de Vigilancia se integrará por nueve diputados. El Presidente será designado por el grupo legislativo mayoritario y el Vice-Presidente por el grupo legislativo minoritario con mayor número de diputados; el Pleno designará al resto de los integrantes.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+###### Artículo 68 Bis.
+
+La Comisión de Estudio Previo estará conformada por los Diputados integrantes de la Directiva del Pleno del Congreso del Estado.
+
+A los integrantes de la Comisión de Estudio Previo no les será aplicable lo dispuesto en los párrafos penúltimo y último del artículo 66 de esta Ley.
+
+A la Comisión le corresponderá revisar y analizar los escritos dirigidos al Congreso del Estado, a fin de emitir opinión sobre la competencia del mismo, en forma previa a que sean remitidos al Pleno.
+
+La Comisión presentará ante el Presidente de la Directiva opinión fundada y motivada, en el caso de que se considere que existan razones para desechar algún escrito.
+
+Tomando en cuenta la opinión emitida por la Comisión de Estudio Previo, el Presidente determinará si desecha el asunto o lo turna a la Comisión correspondiente, en uso de las facultades que le confiere el artículo 24 fracción III del Reglamento para el Gobierno Interior del Congreso.
+
+En caso que determine que los escritos deban ser desechados, por tratarse de asuntos en los que el Congreso no tenga atribuciones, sean notoriamente frívolos o improcedentes o no reúnan los requisitos establecidos en la Ley, los diputados integrantes de la Legislatura podrán reclamar dicho acuerdo, en los términos de lo dispuesto por el Artículo 22 del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
+
+###### Artículo 69.
+
+Las Comisiones Jurisdiccionales funcionarán en los términos previstos en la Constitución y las Leyes cuando así lo acuerde la Asamblea; conocerán específicamente de los hechos que las hayan motivado su integración.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
+
+###### Artículo 70.
+
+Son Comisiones Permanentes de Dictamen Legislativo las siguientes:
+
+I. Gobernación y Organización Interna de los Poderes;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+II. Legislación;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+III. Puntos Constitucionales;
+
+IV. Justicia y Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+V.- Desarrollo Social, Derechos Humanos y Asuntos Indígenas;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+VI. Para la Igualdad de Género;
+
+VII. Educación, Cultura y Deporte;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+VIII.- Medio Ambiente y Desarrollo Sustentable;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+
+IX. Desarrollo Urbano;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+
+X. Transporte;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XI. Comisión de Economía, Emprendimiento y Turismo
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Fomento al Campo, Energía y Desarrollo Rural;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+XIII.- Ciencia, Tecnología e Innovación;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XIV. Juventud;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XV. Salud y Atención a Grupos Vulnerables;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XVI. Hacienda del Estado;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XVII. Primera de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XVIII. Segunda de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XIX. Tercera de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XX. Cuarta de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+XXI. Quinta de Hacienda y Desarrollo Municipal;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+XXII. Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+XXIII. Presupuesto; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+XXIV. Desarrollo Metropolitano.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 71.
+
+La Comisión de Vigilancia estará integrada por nueve diputados: un Presidente, un Vicepresidente, un Secretario y seis Vocales y se sujetará en sus atribuciones a la Ley de Fiscalización Superior del Estado en lo que corresponda y a los Acuerdos que para el efecto dicte el Congreso.
+
+###### Artículo 72.
+
+Son Comisiones Jurisdiccionales las que se integran en los términos de la Constitución y de las Leyes para el efecto de la Responsabilidad de los Servidores Públicos.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+Las Comisiones Jurisdiccionales se integrarán en proporción al número de Diputados de cada Grupo Legislativo.
+
+###### Artículo 73.
+
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+###### Artículo 74.
+
+Las Comisiones Especiales se integrarán pluralmente por nueve diputados, tomando en consideración la proporcionalidad que cada Grupo Legislativo tiene en el Congreso del Estado, para atender un asunto específico; tendrán un carácter transitorio y al rendir el informe correspondiente se disolverán.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 75.
+
+Las Sesiones de las Comisiones señaladas en los Capítulos I y II de este Título, serán públicas, documentadas, grabadas y archivadas. Esta información deberá ser pública, para lo cual se hará uso de las tecnologías de la información.
+
+Podrán participar en reuniones de información y audiencia, a invitación de su Presidente, los ciudadanos promoventes de las iniciativas, representantes de grupos de interés, peritos u otras personas que puedan informar sobre el asunto, por acuerdo tomado por la mayoría de sus integrantes. Asimismo, las comisiones podrán a través de la Directiva, convocar a foros u otros eventos de consulta popular.
+
+En las reuniones de comisión, podrán participar con derecho a voz y previa autorización de la comisión de que se trate, los titulares de los órganos de soporte técnico y de apoyo del congreso o quienes éstos designen para el caso, cuando el asunto a tratar sea de su competencia.
+
+El Presidente del órgano de trabajo correspondiente, durante el desarrollo de las reuniones del mismo, tendrá las mismas atribuciones que la Ley y el Reglamento otorgan al Presidente del Congreso, relativas a la salvaguarda del orden y respeto al Congreso y a sus integrantes.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 76.
+
+Las sesiones de las Comisiones serán convocadas por su Presidente con por lo menos cuarenta y ocho horas de anticipación, salvo que se trate de asuntos turnados que requieran pronta resolución, en cuyo caso el Presidente deberá justificar esta situación a la Comisión de que se trate.
+
+Los integrantes de la Comisión asistirán a ellas con derecho de voz y voto; los Diputados que no formen parte de una Comisión podrán asistir a sus sesiones con derecho de voz, pero sin voto. El Presidente de cada Comisión podrá autorizar la presencia de asesores y personal de apoyo para el desarrollo de los trabajos.
+
+### CAPITULO II. DE LOS COMITES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 77.
+
+El Congreso contará con los Comités de Administración y de Archivo y Biblioteca y de Seguimiento de Acuerdos; cada uno estará integrado pluralmente por cinco Diputados de al menos tres Grupos Legislativos. Estos Comités tienen el carácter de permanentes; cada uno se compondrá de un Presidente, un Secretario y tres Vocales, electos por el Pleno del Congreso.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+El Pleno del Congreso podrá crear por acuerdo, cuando las necesidades así lo requieran y conforme a las posibilidades del presupuesto, los Comités temporales que estime convenientes para la realización de las actividades del mismo.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+En dicho acuerdo se especificarán los propósitos de su creación y el tiempo para realizar las tareas que se les encomienden.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 78.
+
+El Comité de Administración vigila la operación de los servicios administrativos y el correcto ejercicio del presupuesto del Congreso. Al Comité de Administración le corresponde:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
+I.- Definir los criterios generales para la operación administrativa de los Órganos de Soporte Técnico y de Apoyo del Congreso con excepción del Órgano Auxiliar del Congreso. Dichos criterios tendrán la finalidad de optimizar los recursos y el desarrollo de la función legislativa, así como orientar la elaboración de:
+
+a) El Anteproyecto de Presupuesto de Egresos del Congreso;
+
+b) Políticas para el apoyo a las Comisiones, los Comités y los Grupos Legislativos;
+
+c) Programas de actividades de los Órganos de Soporte Técnico y de Apoyo;
+
+d) El Manual de Organización y Procedimientos del Congreso; y
+
+e) La evaluación del desempeño del personal del Congreso;
+
+II.- Realizar las actividades necesarias para evaluar el cumplimiento de los criterios señalados en la fracción anterior;
+
+III.- Establecer los Lineamientos Generales para el Ejercicio del Presupuesto;
+
+IV.- Proponer a la Comisión de Coordinación y Régimen Interno políticas de sueldos y programas de incentivos para el personal del Congreso;
+
+V.- Participar, por medio de su Presidente, en las reuniones semestrales de planeación y organización de las actividades administrativas del Congreso;
+
+VI.- Recibir, analizar y aprobar, el informe trimestral sobre el ejercicio presupuestal que rinda el Tesorero;
+
+VII.- Recibir del Tesorero, el Informe de la Cuenta Pública del Congreso del Estado y presentarlo al Pleno del Congreso para que se le dé el trámite correspondiente;
+
+VIII.- Conocer de los informes de los Órganos de Soporte Técnico y de Apoyo y en su caso, hacer las recomendaciones correspondientes para la mejora continua de los servicios administrativos;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+IX. Recomendar a la Contraloría Interna, cuando así lo considere conveniente, la realización de auditorías a los Órganos de Soporte Técnico y de Apoyo;
+
+X.- Ordenar la realización de auditorías trimestrales externas a la Tesorería, sobre la administración financiera y contable de los recursos del Congreso;
+
+XI.- Rendir al Pleno del Congreso un informe anual de las actividades desarrolladas; y
+
+XII.- Las demás que le confieren esta Ley y el Reglamento para el Gobierno Interior del Congreso.
+
+El Comité de Administración dispondrá de los recursos necesarios para cumplir con las funciones anteriores.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+Artículo 78 BIS.- El Comité de Archivo y Biblioteca tiene a su cargo la promoción de las actividades tendientes a la formación, integración y modernización de la Biblioteca y del Archivo del Congreso. Al Comité de Archivo y Biblioteca le corresponde:
+
+I.- Elaborar los criterios para integrar e incrementar un acervo bibliográfico que sirva de información y apoyo en las tareas legislativas;
+
+II.- Establecer las bases para organizar, codificar y modernizar el Archivo del Congreso;
+
+III.- Promover la difusión del acervo de la Biblioteca y del Archivo del Congreso;
+
+IV.- Atender lo relacionado con al acervo histórico del Congreso;
+
+V.- Ser el responsable de la edición de una publicación trimestral de difusión de las actividades del Congreso y de temas relacionados con la función legislativa, así como de publicaciones en materia histórica, socio-política, cultural y de interés general para el Estado;
+
+VI.- Realizar propuestas a la Comisión de Coordinación y Régimen Interno, sobre la organización y procedimientos del Archivo y la Biblioteca del Congreso.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Artículo 78 BIS 1. El Comité de Seguimiento de Acuerdos, será el responsable de dar un oportuno seguimiento de respuesta a los Acuerdos que sean aprobados por el Pleno del Congreso, y que sean relativos a la intervención de alguna autoridad federal, estatal o municipal, respecto de la atención, resolución o información sobre diversas problemáticas del ámbito de sus competencias. A dicho Comité le corresponde:
+
+I. Mantener actualizado el listado de Acuerdos Aprobados por el Pleno del Congreso, en los que se solicita la atención, información o la intervención de alguna autoridad federal, estatal o municipal, en el marco de sus atribuciones.
+
+II. Solicitar, por conducto de su Presidente, a las autoridades competentes, la respuesta de los Acuerdos enviados para la atención, información o intervención de diversas problemáticas, cuando transcurra un tiempo prudente, posterior a la aprobación del Acuerdo; e
+
+III. Informar cada mes al Pleno del Congreso del seguimiento y situación que guardan los Acuerdos enviados a las autoridades federales, estatales o municipales, para la atención, información o intervención, conforme a sus atribuciones, de diversas problemáticas.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
+
+IV. Proporcionar a la Oficialía Mayor el estatus del listado de los Acuerdos que sean aprobados por el Pleno del Congreso, especificando si han sido respondidos o no por la autoridad aludida y que sean publicados en la página oficial del Congreso del Estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO III. DE LOS ORGANOS DE SOPORTE TECNICO Y DE APOYO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
+###### Artículo 79.
+
+Los Órganos de Soporte Técnico y de Apoyo del Congreso son dependencias especializadas y responsables en los ámbitos de competencia que, respectivamente, les señala la normatividad vigente. Dependen orgánicamente de la Comisión de Coordinación y Régimen Interno. Tienen la finalidad de apoyar a los Órganos Legislativos del Congreso en el cumplimiento de sus atribuciones. Sus funciones generales son las siguientes:
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+I.- De los Órganos de Soporte Técnico:
+
+a) De la Oficialía Mayor: la atención de los aspectos legislativos y jurídicos del Congreso, así como la asistencia a la Directiva durante el desarrollo de las sesiones del Pleno y de la Diputación Permanente;
+
+b) De la Tesorería: la administración de los recursos financieros, humanos y de los servicios generales del Congreso;
+
+(REFORMADO, P.O. 25 DE JUNIO DE 2014) (F. DE E., P.O. 7 DE JULIO DE 2014)
+
+c) Del Centro de Estudios Legislativos: la elaboración de los proyectos de dictámenes de las Comisiones y el desarrollo de programas de investigación y análisis de los aspectos técnicos de los asuntos que son competencia del Congreso;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+d) De la Contraloría Interna: Es un órgano interno de Control del Congreso, con plena autonomía, técnica y de gestión, que auxiliará en el control, investigación, sustanciación y en los casos de su competencia emitirá la resolución correspondiente, dentro del procedimiento de responsabilidad iniciado por las quejas, denuncias o casos de corrupción del personal del Poder Legislativo, que se cometan con motivo de su cargo o en la función que desempeñan en el Congreso del Estado.
+
+El nombramiento del Contralor se realizará por el Pleno a propuesta de la Comisión de Coordinación y Régimen Interno, y se deberán reunir los requisitos que se establecen para los Órganos de Soporte Técnico, salvo los específicos para determinado cargo.
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+II.- De los Órganos de Apoyo:
+
+a) De la Dirección de Comunicación Social: la difusión de las actividades institucionales y el apoyo en las relaciones públicas del Congreso;
+
+b) De la Dirección de Informática: la promoción del uso y la optimización de los recursos tecnológicos de computación e informática en la realización de actividades legislativas, técnicas y administrativas del Congreso;
+
+c) De la Coordinación de Seguridad: la seguridad en las instalaciones del Poder Legislativo, de los legisladores, del personal del Congreso y de los ciudadanos que se encuentren en dicho lugar; y
+
+d) De la Unidad de Adquisiciones: la coordinación de la adquisición de bienes y de la contratación de los servicios necesarios para la realización de las actividades legislativas, técnicas y administrativas del Congreso.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 80.
+
+La integración, actividades y funcionamiento de los Órganos de Soporte Técnico y de Apoyo dependientes de la Comisión de Coordinación y Régimen Interno se establecen en el Reglamento para el Gobierno Interior del Congreso, así como en el Manual de Organización y Procedimientos del Congreso. Los titulares de estos órganos rendirán informes de acuerdo a lo siguiente:
+
+I.- El Oficial Mayor:
+
+a) Informes de apoyo a la Directiva y a la Diputación Permanente, que deberán presentarse ante estos órganos para coadyuvar a que den cumplimiento a lo dispuesto en los artículos 56 y 87, respectivamente, de la presente Ley; y
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+b) Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada período ordinario de sesiones, que se presentarán ante la Comisión de Coordinación y Régimen Interno en la sesión ordinaria de ésta, posterior al inicio y al término de cada período de sesiones. Los Diputados recibirán archivo electrónico de dichos informes;
+
+II.- El Tesorero: Informes trimestrales y el Informe de la Cuenta Pública Anual que se presentarán a la Comisión de Coordinación y Régimen Interno y al Comité de Administración en sus respectivas sesiones; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+III.- Los titulares del Centro de Estudios Legislativos y de los Órganos de Apoyo: Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada período ordinario de sesiones, y los cuales se presentarán ante la Comisión de Coordinación y Régimen Interno y el Comité de Administración. Las Comisiones de Dictamen Legislativo recibirán copia de los informes que rinda el titular del Centro de Estudios Legislativos.
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+IV. El Titular de la Contraloría: Informe sobre los procedimientos de responsabilidad que haya iniciado o sustanciado derivado de las violaciones a la legislación respectiva, por parte de servidores públicos del Congreso, así como dar seguimiento a las declaraciones patrimoniales, fiscal y de interés que obliga la Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 80 Bis.
+
+La Contraloría tendrá dentro de sus atribuciones las siguientes:
+
+I. Recibir las quejas o denuncias presentadas en contra de los servidores públicos del Congreso del Estado por actos de posible responsabilidad administrativa, abrir el expediente y calificar su gravedad de conformidad con las leyes generales y estatales en materia de responsabilidad administrativa;
+
+II. Investigar los actos de posible responsabilidad administrativa de los servidores públicos del Congreso del Estado y elaborar el informe que refiere el artículo 80, fracción IV de esta Ley:
+
+III. Sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos del Congreso del Estado;
+
+IV. Coadyuvar con el Tesorero para el correcto manejo de las finanzas del Poder Legislativo;
+
+V. Resolver los procedimientos de responsabilidad administrativa, en faltas no graves, de acuerdo con las leyes generales y estatales en la materia y demás legislación aplicable y comunicar dicha resolución a la Comisión de Coordinación y Régimen Interno, para efectos de resolución;
+
+VI. Presentar las denuncias correspondientes ante el Ministerio Público competente, en los casos en que, derivado de sus investigaciones, acontezca la presunta comisión de delitos;
+
+VII. Las demás que le concedan la legislación federal y estatal aplicable; y
+
+VIII. En ningún caso podrán reunirse en los mismos servidores públicos las facultades de investigación con las de substanciación y resolución en materia de responsabilidad administrativa de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+Artículo 80 BIS I.- La Contraloría Interna del Poder Legislativo, deberá incluir en sus resoluciones la opinión de un órgano ciudadano, que será nombrado bajo el procedimiento que la Comisión de Coordinación y Régimen Interno determine.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 81.
+
+Para ser titular de la Oficialía Mayor, Tesorería, Contraloría Interna o Centro de Estudios Legislativos del Congreso, se requiere:
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+I.- Tener cuando menos 30 años cumplidos al día de su designación;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+II.- Contar con título de educación superior y tener experiencia profesional. En el caso del titular del Centro de Estudios Legislativos también será requisito tener estudios de posgrado o experiencia en la investigación de asuntos en materia pública o social;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+III.- No haber sido condenado mediante sentencia que haya causado ejecutoria, ni estar sujeto a proceso penal, por algún delito doloso; y
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+IV.- Ser designado por el Pleno del Congreso, a propuesta de la Comisión de Coordinación y Régimen Interno.
+
+(NOTA: EL 22 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+En los casos del Titular de la Oficialía Mayor y de la Contraloría Interna, se requerirá además, ser ciudadano mexicano POR NACIMIENTO Y NO ADQUIRIR OTRA NACIONALIDAD.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 82.
+
+El Director del Centro de Estudios Legislativos durará ocho años en el cargo, pudiendo ser reelecto por el Pleno del Congreso. Sólo cesará en sus funciones en los siguientes casos:
+
+I.- Por renuncia que calificará el Pleno del Congreso;
+
+II.- Por decisión del Pleno del Congreso, por mayoría calificada; y
+
+III.- Por remoción, si incurre en cualquiera de las siguientes causales:
+
+a) Falta de probidad;
+
+b) Notoria ineficiencia;
+
+c) Incapacidad física o mental; o
+
+d) Por cometer algún delito doloso.
+
+En los casos previstos en las fracciones II y III del presente artículo, se cumplirá previamente con el derecho de audiencia del interesado. La solicitud de remoción señalada en la fracción III deberá ser promovida por al menos, tres integrantes de la Legislatura.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+## TITULO SEXTO. DE LA DIPUTACION PERMANENTE
+
+### CAPITULO I. INSTALACION
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
+
+###### Artículo 83.
+
+La víspera del receso, en cada Período de Sesiones Ordinarias, la Legislatura nombrará, a mayoría simple de votos, una Diputación Permanente formada pluralmente por ocho diputados propietarios y ocho diputados suplentes que cubrirán las ausencias de los propietarios.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
+
+###### Artículo 84.
+
+Por el orden de su designación se ocuparán los cargos de Presidente, Vicepresidente, Primer Secretario, Segundo Secretario y cuatro Vocales, cada uno con sus respectivos suplentes.
+
+Los cargos señalados serán para todo el Período de Receso.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 85.
+
+La Diputación Permanente tendrá Sesiones Ordinarias los miércoles de cada semana a las once horas, salvo acuerdo previo de la misma o que se trate de día feriado, en este último caso la sesión será el día hábil siguiente. Podrá celebrar Sesiones Extraordinarias cualquier día de la semana, previa Convocatoria por escrito signada por el Presidente, o a falta de éste por cinco de sus integrantes propietarios.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
+
+###### Artículo 86.
+
+Los acuerdos de la Diputación Permanente se tomarán por el voto de la mayoría de los presentes; en caso de empate; el Presidente de la misma tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+Artículo 86 BIS.- Durante los períodos de receso, el Presidente de la Diputación Permanente será el Presidente del Congreso, tendiendo para este efecto, las mismas atribuciones que para dicho cargo enuncian esta Ley y el Reglamento para el Gobierno Interior del Congreso.
+
+###### Artículo 87.
+
+Al concluír el Período de Receso, de conformidad con lo establecido por el Artículo 66 fracción III de la Constitución Política local, el Presidente de la Diputación Permanente rendirá a la Asamblea, en la primera sesión del período que corresponda, un informe circunstanciado de los expedientes que hayan sido integrados durante ese período y de los que debe conocer el Pleno, absteniéndose en ese informe de emitir opinión alguna sobre los asuntos mencionados.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+En el caso del año de la elección, el Presidente de la Diputación Permanente, deberá rendir su último informe el día 31 de agosto, en sesión que se cite para tal efecto cuando no se encuentre reunido (sic)pleno.
+
+###### Artículo 88.
+
+Cuando deba convocarse a Período Extraordinario de Sesiones del Congreso, en los términos del Artículo 66 fracción IV de la Constitución Política del Estado, la Diputación Permanente librará con toda oportunidad oficio a los integrantes del mismo, para ese efecto, y, además mandará se publique la Convocatoria en el Periódico Oficial y en el estrado del Congreso.
+
+###### Artículo 89.
+
+En el Período Extraordinario de Sesiones a que se refiere el artículo anterior, se atenderá lo dispuesto en el Artículo 57 de esta Ley.
+
+###### Artículo 90.
+
+De manera especial la Diputación Permanente cumplirá con las obligaciones que le establece el Artículo 66 de la Constitución Política local, dando conocimiento al Pleno de su actuación el primer día del Período Ordinario de Sesiones.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2000)</small>
+
+## TITULO SEPTIMO. DISPOSICIONES COMPLEMENTARIAS
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO I. GALERIAS
+
+(REUBICADO, P.O. 16 DE AGOSTO DE 2000)
+
+###### Artículo 91.
+
+El Congreso del Estado podrá crear las Galerías que tiendan al reconocimiento público de los integrantes de los Organos Legislativo, Ejecutivo y Judicial del Estado, de exhibición de documentos históricos y de difusión de la actividad legislativa.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO II. DEL TABLERO DE AVISOS
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 92.
+
+El Congreso del Estado contará con tableros de avisos, en los que se registrará:
+
+I.- La información relativa a la programación de las sesiones de las Comisiones y de los Comités, incluyendo el orden del día, fecha y hora de las sesiones; y
+
+II.- El reporte mensual de la asistencia de los Diputados a las sesiones de los Órganos Legislativos del Congreso señalados en el artículo 50 de esta Ley.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2020)</small>
+
+## TITULO OCTAVO. ORGANO DE DIFUSION
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2020)</small>
+
+### CAPITULO UNICO. DE LA GACETA LEGISLATIVA
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 93.
+
+La Gaceta Legislativa es el instrumento de publicidad del Congreso del Estado, su edición estará a cargo de la Oficialía Mayor.
+
+El contenido de la gaceta tendrá solo efectos informativos, sin que lo publicado se considere con validez legal y efecto vinculatorio, y su publicación será de lunes a viernes.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 94.
+
+La Gaceta Legislativa se publicará en la página de internet del Congreso del Estado y deberá contener:
+
+I. Las iniciativas de Ley presentadas por los sujetos legitimados para ello por la Constitución Política del Estado Libre y Soberano de Nuevo León;
+
+II. Los proyectos de dictamen aprobados por el Pleno del Congreso;
+
+III. Las Convocatorias a reuniones de las Comisiones de Dictamen Legislativo, Comisiones Especiales y Comités;
+
+IV. Los Acuerdos que emita el Pleno;
+
+V. El Orden del Día de las Sesiones del Pleno en periodos ordinarios y extraordinarios y los de la Diputación Permanente;
+
+VI. Las Actas de las Sesiones;
+
+VII. El registro de asistencia de los Diputados;
+
+VIII. Las Convocatorias a mesas de Trabajo;
+
+IX. Los informes de los Diputados que acuden como representantes del Congreso a eventos de carácter legislativo;
+
+X. Las observaciones del Gobernador del Estado a los Decretos aprobados por el Pleno, y
+
+XI. Los demás documentos oficiales que en su momento el Pleno del Congresos (sic) determine su difusión.
+
+## TRANSITORIOS
+
+PRIMERO:- Se abroga la Ley Orgánica del Poder Legislativo del Estado de Nuevo León, publicada en el Periódico Oficial del Gobierno del Estado el día 12 de Julio de 1958.
+
+SEGUNDO:- En tanto no se expida el Reglamento de la Ley Orgánica del Poder Legislativo, la organización y funcionamiento del Congreso a que se refiere el Artículo 51 de esta Ley, se ajustará a lo establecido en la Ley Orgánica del Poder Legislativo publicada en el Periódico Oficial del Estado el 12 de Julio de 1958.
+
+TERCERO:- La actual Legislatura estará en funciones hasta el día 14 de Octubre de 1994, como lo establecen las reformas a la Constitución Política del Estado, aprobadas mediante Decreto No. 159 publicado en el Periódico Oficial del día 27 de diciembre de 1990 y mientras tanto, se estará sujeto en los casos de los Artículos 5o., 8o., 33, 35 y 36 a lo previsto en la Ley Orgánica del Poder Legislativo publicado en el Periódico Oficial del día 12 de Julio de 1958.
+
+CUARTO:- Por única vez los Grupos Legislativos de la LXVI Legislatura se inscribirán ante la Directiva en la siguiente Sesión en que la presente Ley entre en vigor, así mismo en esa sesión se integrará la Comisión de Coordinación y Gobierno Interno y se hará la designación del Oficial Mayor en los términos del Artículo 82 de la presente Ley.
+
+QUINTO:- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Envíese al Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los diez días del mes de septiembre de mil novecientos noventa y dos.- PRESIDENTE: DIP. GUSTAVO VILLARREAL DE LA FUENTE.- DIP. SECRETARIO: HECTOR OZIEL CASTILLO B.- DIP. SECRETARIO ANTONIO C. ELOSUA MUGUERZA.- Rúbricas.
+
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los diez días del mes de septiembre de mil novecientos noventa y dos.
+
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+LIC. SOCRATES C. RIZZO GARCIA
+
+EL C. SECRETARIO GENERAL DE GOBIERNO
+
+LIC. ALEJANDRO LAMBRETON NARRO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE JUNIO DE 1994.
+
+UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE OCTUBRE DE 1994.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 1994.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1994.
+
+PRIMERO:- El presente Decreto entrara en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
+
+SEGUNDO:- Cuando en una Ley, Reglamento o cualquier otra disposición este expresado el término de "Comisión de Coordinación y Gobierno Interno", se entenderá que se refiere a la "Gran Comisión".
+
+P.O. 18 DE JUNIO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE OCTUBRE DE 1997.
 
 ###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE SEPTIEMBRE DE 2013.
-
-###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO SEGUNDO.
+P.O. 24 DE OCTUBRE DE 1997.
 
-Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 14 DE JULIO DE 2021.
+P.O. 10 DE JULIO DE 1998.
 
-###### ARTÍCULO ÚNICO.
+Artículo Único: El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+P.O. 16 DE SEPTIEMBRE DE 1998.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-554 DECRETO MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL (SIC) GENERAL DE JUSTICIA DEL ESTADO”.]
+###### ARTÍCULO ÚNICO
+
+El Presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ABRIL DE 1999.
+
+Primero.- El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las veintiséis Comisiones de Dictamen Legislativo integradas actualmente, en virtud de lo dispuesto en los artículos 70 de la Ley Orgánica del Poder Legislativo del Estado y 39 del Reglamento para el Gobierno Interior del Congreso del Estado vigentes en la presente fecha, continuarán funcionando transitoriamente hasta la aprobación por parte del Pleno del Congreso de los integrantes de las trece Comisiones de Dictamen Legislativo establecidas mediante el presente Decreto.
+
+Tercero.- En la quinta sesión del Primer Período Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional se elegirá o se ratificará a los integrantes de las Comisiones de Dictamen Legislativo, en los términos del artículo 67 de la Ley Orgánica del Poder Legislativo.
+
+Cuarto.- La Ciudadana Diputada que al entrar en vigencia el presente decreto presida la Comisión de Derechos de las Mujeres, continuará con este cargo hasta la quinta sesión del Primer Período Ordinario de Sesiones, del Tercer Año de Ejercicio Constitucional de la LXVIII Legislatura, en que el Pleno del Congreso designe otro Presidente para dicha Comisión.
+
+Quinto.- Los expedientes de los asuntos que obren en las actuales Comisiones de Dictamen Legislativo y cuya resolución por parte del Pleno del Congreso no se dé antes del día en que inicie la vigencia del presente Decreto, serán recibidos por la Oficialía Mayor que los entregará a la brevedad posible al Presidente de la Comisión que corresponda, de acuerdo a las competencias de las Comisiones que se establecen en el presente Decreto. El Oficial Mayor notificará por escrito a los Diputados integrantes de la LXVIII Legislatura sobre la asignación realizada en los términos de este artículo.
+
+Sexto.- Se deroga cualquier disposición contraria a lo establecido en el presente decreto.
+
+P.O. 16 DE AGOSTO DE 2000.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los Diputados que a la presente fecha integran la Gran Comisión pasarán a formar parte de la Comisión de Coordinación y Régimen Interno a partir del inicio de la vigencia del presente Decreto. Así mismo, cuando en una Ley, Reglamento o cualquier otra disposición se haga referencia a la "Gran Comisión" se entenderá que se refieren a la "Comisión de Coordinación y Régimen Interno."
+
+Artículo Tercero.- Se abroga el Decreto N° 347 por el que se Crea el Centro de Estudios Legislativos, publicado en el Periódico Oficial del Estado el 24 de octubre de 1994.
+
+Artículo Cuarto.- La transferencia de unidades administrativas de una dependencia a otra, con motivo de las reformas materia de este Decreto, se realizará incluyendo los recursos humanos, financieros y materiales que la unidad administrativa respectiva haya utilizado para la atención de los asuntos que conoció.
+
+Artículo Quinto.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán en términos de la legislación correspondiente.
+
+Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los asuntos que fueron turnados conforme a las disposiciones vigentes, serán inmediatamente turnados a las Comisiones que conforme al presente Decreto se crean, en caso de duda, se remitirá a la Directiva del Congreso del Estado para su turno.
+
+P.O. 15 DE JULIO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE AGOSTO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MARZO DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2003.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2003.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo Único.- La entrada en vigor del presente Decreto estará sujeta a la aprobación de la reforma a los artículos 46 y 55 primer párrafo de la Constitución Política del Estado Libre y Soberano de Nuevo León, hasta en tanto inicie la vigencia del Decreto por el cual se están reformando las referidas disposiciones constitucionales.
+
+Realizado lo anterior, para efecto de la LXXI Legislatura, la Primera Junta Preparatoria a que se refieren la Ley Orgánica del Poder Legislativo del Estado de Nuevo León y el Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León se efectuará el 5 de septiembre de 2006, la segunda Junta Preparatoria el 8 de septiembre de 2006 y la última Junta Preparatoria el 19 de septiembre de 2006; lo anterior, sin perjuicio de las demás Juntas Preparatorias que deban celebrarse para conocer, discutir y aprobar los dictámenes de las Comisiones Revisoras, en términos de Ley.
+
+P.O. 17 DE AGOSTO DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- La presente reforma al Artículo Único Transitorio del Decreto No. 37 publicado en el Periódico Oficial del Estado No. 167 de fecha 29 de Diciembre de 2003, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno de este Congreso del Estado.
+
+Artículo Segundo.- El Presidente del Congreso del Estado deberá realizar los returnos correspondientes a fin de que las nuevas Comisiones de Dictamen Legislativo, creadas con motivo del presente Decreto, puedan analizar los asuntos que sean materia de su competencia.
+
+P.O. 7 DE FEBRERO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor una vez que inicie la vigencia de la Ley del Órgano de Fiscalización Superior.
+
+P.O. 21 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- A la entrada en vigor del presente Decreto, los expedientes en trámite actualmente turnados a la Comisión de Legislación y Puntos Constitucionales cuya materia consista en la reforma, adición o derogación de disposiciones del Código Penal para el Estado de Nuevo León y a la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León, serán returnados a la Comisión de Justicia y Seguridad Pública para su estudio y dictamen.
+
+Asimismo los expedientes en trámite actualmente turnados a la Comisión de Justicia y Seguridad Pública cuya materia consista en la reforma, adición o derogación de disposiciones al Código de Procedimientos Civiles del Estado de Nuevo León, serán returnados a la Comisión de Legislación y Puntos Constitucionales.
+
+Los expedientes de las materias que se mencionan en los dos párrafos anteriores que estén turnados en forma unida a otra Comisión distinta a las ya referidas, sólo se hará el returno a la Comisión que corresponda según lo estipulado en el Artículo 39 fracción II inciso j) y fracción III inciso a) del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- El Comité de seguimiento de Acuerdos será designado en la quinta sesión del Segundo Periodo de Sesiones ordinarias del Segundo año de ejercicio Constitucional de la Septuagésima Segunda Legislatura al H. Congreso del Estado, en los términos establecidos por el Articulo 60 segundo párrafo, del Reglamento para el Gobierno Interior del Congreso.
+
+P.O. 28 DE FEBRERO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Por única ocasión, la Agenda Temática Mínima que regirá los trabajos legislativos del Segundo Período Ordinario de Sesiones del Segundo Año de Ejercicio Constitucional de la LXXII Legislatura al Congreso del Estado, deberá presentarse ante el Pleno para su aprobación, a más tardar en la quinta Sesión del mismo.
+
+P.O. 2 DE ABRIL DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 2014.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2015.
+
+Único.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+Primero.- El presente Decreto entrará en vigor el día de su aprobación.
+
+Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+Tercero.- Para efectos de los expedientes que a la fecha se encuentren turnados a las Comisiones Permanentes de Dictamen Legislativo, el plazo referido en el párrafo segundo del Artículo 46 del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León, empezará a correr a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2015.
+
+Único.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 104. SE REFORMA POR MODIFICACIÓN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 67 Y LA FRACCIÓN V DEL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 106. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 5 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 143. POR EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Una vez que entre en vigor el presente Decreto la Oficialía Mayor tendrá un plazo improrrogable de 15 días para hacer el returno de los asuntos correspondientes a las comisiones.
+
+P.O. 5 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 147. SE REFORMAN POR MODIFICACIÓN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; ASÍ COMO DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO AMBOS DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entra en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- El H. Congreso del Estado de Nuevo León, deberá hacer las adecuaciones necesarias a sus procedimientos, en un plazo no mayor a 60 días hábiles, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 15 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 236. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 65 FRACCIÓN VII; EL NOMBRE DEL CAPÍTULO II DEL TÍTULO QUINTO Y POR ADICIÓN LOS ARTÍCULOS 122 BIS; 122 BIS 1; Y 122 BIS 2 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR ADICIÓN DE UNA FRACCIÓN IV AL ARTÍCULO 78 BIS 1 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 380. SE REFORMA POR MODIFICACIÓN DEL PRIMER PÁRRAFO DEL ARTÍCULO 52 Y POR MODIFICACIÓN AL ÚLTIMO PÁRRAFO DEL ARTÍCULO 61 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 030. SE REFORMA POR MODIFICACIÓN EL INCISO D) DE LA FRACCIÓN I DEL ARTÍCULO 79; SE ADICIONA LA FRACCIÓN IV DEL ARTÍCULO 80 Y LOS NUMERALES 80 BIS Y 80 BIS I DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Para efectos de lo señalado en el Artículo 80 Bis I, la Comisión de Coordinación y Régimen Interno, tendrá 120 días hábiles a partir del nombramiento del Titular del Órgano Interno de Control, para emitir el procedimiento marcado en dicho numeral.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 048. SE REFORMA POR MODIFICACIÓN A LA FRACCIÓN XI DEL ARTÍCULO 70 A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 219. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN ".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Lo asuntos pendientes que se encuentren en estudio en las Comisiones de Dictamen Legislativo de Medio Ambiente y Desarrollo Sustentable a partir de la entrada en vigor del presente Decreto se entenderá que su dictaminación corresponde a la Comisión aprobada mediante el presente Decreto.
+
+TERCERO.- Dentro de los 6 meses siguientes a la entrada en vigor del presente Decreto, el H. Congreso del Estado deberá emitir el Código de Ética previsto en el artículo 10 del numeral primero de este Decreto.
+
+CUARTO.- El Sistema de Información Legislativa previsto en el artículo 159 BIS 2 y la Plataforma Digital Legislativa contemplada en el artículo 65 ambos del Reglamento para el Gobierno Interior del Congreso del Estado, entrarán en funciones durante los 180 días posteriores a la entrada en vigor al presente Decreto y el Sistema de Información Legislativa contendrá cuando menos toda la información relativa a la LXXV Legislatura, pudiendo de manera posterior adicionar información respecto a Legislaturas anteriores.
+
+QUINTO.- La Gaceta Legislativa empezará a publicarse en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
