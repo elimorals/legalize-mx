@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-instituciones-de-asistencia-social-para-el-estado-de-816
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-05"
-last_updated: "2020-10-15"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de enero de 1991.
 
@@ -107,7 +107,9 @@ III.- Estancias Infantiles y/o Juveniles;
 
 IV.- Casas para Personas Adultas Mayores;
 
-V.- Instituciones para la rehabilitación de menores y jóvenes con problemas de adicciones; y,
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+V.- Instituciones para la rehabilitación de niñas, niños, adolescentes y jóvenes con problemas de adicciones; y,
 
 VI.- Las demás que se constituyan para proporcionar ayuda altruista a los sectores desprotegidos e indigentes, que por sí mismos no se puedan valer o que de una u otra manera estén impedidos física o mentalmente para realizarse satisfactoriamente e incorporarse a la sociedad.
 
@@ -351,7 +353,9 @@ I.- Deberán rendir un informe trimestral sobre el desarrollo de las actividades
 
 II.- Notificar a la Coordinación, en un término de setenta y dos horas, de los ingresos o egresos de los sujetos de asistencia social que se presenten, con la documentación legal que ampare dichos movimientos;
 
-III.- Informar a la Coordinación, en un término de setenta y dos horas, sobre las solicitudes de adopción que se le presenten y sobre los menores expósitos que reciban;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+III.- Informar a la Coordinación, en un término de setenta y dos horas, sobre las solicitudes de adopción que se le presenten y sobre las niñas, niños y adolescentes expósitos que reciban;
 
 IV.- Llevar un registro de beneficiarios, que se mantendrá permanentemente actualizado, sobre los movimientos de altas y bajas que se efectúen;
 
@@ -543,7 +547,9 @@ I.- Constituir un Centro Asistencial sin la previa autorización;
 
 II.- No observar las normas que el presente ordenamiento establece para la constitución, funcionamiento y administración de los Centros Asistenciales; .
 
-III.- No cumplimentar las normas técnicas que emite la Secretaría de Salud para el funcionamiento de Casas de Cuna, Casas Hogar, Estancias Infantiles y/o Juveniles, Casas para Ancianos e Instituciones para la rehabilitación de menores y jóvenes con problemas de adicciones;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+III.- No cumplimentar las normas técnicas que emite la Secretaría de Salud para el funcionamiento de Casas de Cuna, Casas Hogar, Estancias Infantiles y/o Juveniles, Casas para Ancianos e Instituciones para la rehabilitación de niñas, niños, adolescentes y jóvenes con problemas de adicciones.
 
 IV.- No acatar las prevenciones que dicten, conforme a esta Ley, las Autoridades del Sistema;
 
@@ -620,6 +626,14 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estad
 P.O. 15 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-144 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS; LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE TAMAULIPAS; LEY DE PROTECCIÓN PARA LOS NO FUMADORES DEL ESTADO DE TAMAULIPAS; LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
