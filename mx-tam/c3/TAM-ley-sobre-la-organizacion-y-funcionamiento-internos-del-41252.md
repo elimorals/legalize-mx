@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2023-03-22"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -887,7 +887,9 @@ h) Dar seguimiento de los asuntos dictaminados y aprobados por el Pleno, e infor
 
 ###### ARTICULO 47.
 
-1. Las comisiones podrán solicitar la presencia de servidores públicos de los entes públicos del Estado para ilustrar su juicio en el despacho de los asuntos a su cargo.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+1. Las comisiones podrán solicitar la presencia de servidores públicos de los entes públicos del Estado para ilustrar su juicio en el despacho de los asuntos a su cargo; cuando se discuta una ley, o se estudie un negocio de su competencia, así como para que respondan a interpelaciones o preguntas.
 
 2. La solicitud de la presencia requerida se formulará por acuerdo de la comisión al Presidente de la Junta de Coordinación Política, a fin de que éste realice la petición del caso al Poder o ente público de que se trate.
 
@@ -2405,7 +2407,11 @@ Para la formulación, presentación, discusión y votación de los dictámenes s
 
 ###### ARTICULO 130.
 
-1. En términos de lo dispuesto por la parte final del artículo 93 de la Constitución Política del Estado, los titulares de las dependencias de la administración pública estatal podrán ser citados ante el Pleno del Congreso, ante la Diputación Permanente o ante comisiones ordinarias para que brinden información sobre el estado que guardan sus respectivos ramos, cuando se discuta una iniciativa de ley o se considere un asunto relacionado con los ramos de su competencia.
+(NOTA: EL 14 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 160/2023, DECLARÓ LA INVALIDEZ DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+1. LOS TITULARES DE LAS DEPENDENCIAS EN TÉRMINOS DE LO DISPUESTO POR LA PARTE FINAL DEL ARTÍCULO 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, Y CUALQUIER SERVIDOR PÚBLICO ESTATAL, PODRÁN SER CITADOS Y ACUDIRÁN ANTE EL PLENO DEL CONGRESO, ANTE LA DIPUTACIÓN PERMANENTE O ANTE COMISIONES ORDINARIAS PARA QUE BRINDEN INFORMACIÓN SOBRE EL ESTADO QUE GUARDAN SUS RESPECTIVOS RAMOS, ASÍ COMO CUANDO SE DISCUTA UNA INICIATIVA DE LEY O SE CONSIDERE UN ASUNTO RELACIONADO CON LOS RAMOS DE SU COMPETENCIA.
 
 2. Las comparecencias se celebrarán con base en el procedimiento que proponga la Junta de Coordinación Política al Pleno, a la Diputación Permanente o a la comisión de que se trate.
 
@@ -2415,7 +2421,11 @@ Para la formulación, presentación, discusión y votación de los dictámenes s
 
 a) El presidente de la Mesa Directiva, de la Diputación Permanente o de la comisión dará la bienvenida al servidor público asistente y explicará de manera sucinta las razones que motivan la presencia de dicho funcionario, el cual lo hará bajo protesta de decir verdad;
 
-b) El titular de la dependencia de la administración pública estatal hará uso de la palabra hasta por 20 minutos, si así lo desea, para presentar un informe relacionado con el motivo de su presencia en el Congreso;
+(NOTA: EL 14 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 160/2023, DECLARÓ LA INVALIDEZ DEL INCISO b) DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+b) EL SERVIDOR PÚBLICO ESTATAL HARÁ USO DE LA PALABRA HASTA POR 20 MINUTOS, SI ASÍ LO DESEA, PARA PRESENTAR UN INFORME RELACIONADO CON EL MOTIVO DE SU PRESENCIA EN EL CONGRESO;
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -2429,7 +2439,11 @@ e) Al final de la intervención del servidor público compareciente en cada rond
 
 f) Si así lo desea el servidor público compareciente, contará con 5 minutos adicionales al término de sus respuestas a la segunda ronda de preguntas o de las consideraciones de los diputados a sus comentarios y planteamientos, para realizar una reflexión global con relación a su comparecencia, y
 
-g) El presidente de la Mesa Directiva, de la Diputación Permanente o de la comisión hará uso de la palabra para expresar un agradecimiento institucional a la presencia del titular de la dependencia de la administración pública estatal.
+(NOTA: EL 14 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 160/2023, DECLARÓ LA INVALIDEZ DEL INCISO g) DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+g) EL PRESIDENTE DE LA MESA DIRECTIVA, DE LA DIPUTACIÓN PERMANENTE O DE LA COMISIÓN HARÁ USO DE LA PALABRA PARA EXPRESAR UN AGRADECIMIENTO INSTITUCIONAL A LA PRESENCIA DEL SERVIDOR PÚBLICO ESTATAL.
 
 4. Los diputados sin partido que deseen participar en la comparecencia serán considerados en el procedimiento a que se refiere el párrafo 2 de este artículo y, en caso de seguirse lo dispuesto por el párrafo 3, dichos diputados formularán la solicitud correspondiente a su participación al órgano en el cual se vaya a desarrollar la propia comparecencia.
 
@@ -3840,3 +3854,11 @@ P.O. 22 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-581 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial del Estado.
