@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-prevencion-de-la-violencia-familiar-del-estado-de-64106"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-24"
-last_updated: "2023-01-10"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 24 de junio de 2008.
 
@@ -87,9 +87,9 @@ Se considerará consumada esta conducta si la víctima es menor de 18 años de e
 
 IV. Maltrato económico: Es toda acción u omisión dolosa del pago de los gastos generados por la familia, para la manutención de las necesidades básicas de subsistencia, o bien cubrir sólo parte de éstas, sin causa fundada para ello. Al efecto, se entienden como necesidades básicas de subsistencia los alimentos, el vestido, los gastos de habitación, de educación, de salud y de diversión;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-V. Abandono: Es la situación de desamparo que se genera en un menor, una persona con discapacidad o un adulto mayor, cuando los padres, tutores o responsables de su protección o cuidado dejen de proporcionarles los medios básicos de subsistencia y los cuidados o atenciones necesarias para su desarrollo integral y sostenimiento, sin perjuicio de lo que prevengan otras leyes;
+V. Abandono: Es la situación de desamparo que se genera en una niña, niño, adolescente, una persona con discapacidad o un adulto mayor, cuando los padres, tutores o responsables de su protección o cuidado dejen de proporcionarles los medios básicos de subsistencia y los cuidados o atenciones necesarias para su desarrollo integral y sostenimiento, sin perjuicio de lo que prevengan otras leyes;
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2023)</small>
 
@@ -149,7 +149,9 @@ X. Tratamiento integral: Son las acciones, programas o estrategias tendientes a 
 
 Además de las atribuciones que específicamente le asignen otras disposiciones legales, a la Secretaría General de Gobierno le corresponde:
 
-I. Coadyuvar, a través de la Dirección del Registro Civil, a la difusión del contenido y alcance de la presente ley a quienes contraigan matrimonio o registren a un menor; y
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+I. Coadyuvar, a través de la Dirección del Registro Civil, a la difusión del contenido y alcance de la presente ley a quienes contraigan matrimonio o registren a una niña o niño; y
 
 II. Brindar asesoría jurídica a las víctimas de la violencia familiar, por conducto de la Defensoría Pública.
 
@@ -584,6 +586,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 10 DE ENERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-428 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS Y DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
