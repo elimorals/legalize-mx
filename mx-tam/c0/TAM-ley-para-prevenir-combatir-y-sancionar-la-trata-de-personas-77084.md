@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-combatir-y-sancionar-la-trata-de-personas-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-19"
-last_updated: "2021-09-21"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de octubre de 2010.
 
@@ -209,7 +209,9 @@ III. Promover convenios de colaboración interinstitucional y suscribir acuerdos
 
 IV. Dar seguimiento y evaluar los resultados que se obtengan por la ejecución de los convenios y acuerdos de coordinación;
 
-V. Capacitar a los servidores públicos y la sociedad en general en materia de derechos humanos, promoviendo de manera particular el interés superior de los menores y la eliminación de la violencia contra las mujeres y niños, así como el conocimiento de los conceptos fundamentales e implicaciones de la trata de personas y de los instrumentos internacionales relacionados con la materia;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+V. Capacitar a los servidores públicos y la sociedad en general en materia de derechos humanos, promoviendo de manera particular el interés superior de las niñas, niños y adolescentes, y la eliminación de la violencia contra las mujeres y niños, así como el conocimiento de los conceptos fundamentales e implicación es (sic) de la trata de personas y de los instrumentos internacionales relacionados con la materia;
 
 VI. Promover la investigación científica y el intercambio de experiencias entre organismos e instituciones a nivel nacional, incluyendo organizaciones de la sociedad civil, vinculadas con la prevención, protección y atención a las víctimas de la trata de personas;
 
@@ -586,3 +588,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
