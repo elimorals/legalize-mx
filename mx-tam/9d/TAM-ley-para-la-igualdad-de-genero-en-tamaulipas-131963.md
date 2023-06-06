@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-131963"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-06"
-last_updated: "2022-11-18"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada al Número 147 del Periódico Oficial del Estado de Tamaulipas, el jueves 6 de diciembre de 2018.
 
@@ -259,7 +259,9 @@ b) Impulsar en los ámbitos educativos de los tres órdenes de gobierno, la adop
 
 c) Proporcionar información sobre el derecho de toda persona a decidir sobre el número y espaciamiento de sus hijas e hijos;
 
-d) Promover la adopción de programas en las instituciones públicas estatales y municipales para lograr una mayor incorporación de las mujeres al trabajo remunerado y proyectos productivos, así como que en igualdad de oportunidades para su acceso al empleo, se aliente su contratación en aras de alcanzar el equilibrio entre géneros;
+> <small>(REFORMADO, 6 DE JUNIO DE 2023)</small>
+
+d) Promover la adopción de programas en las instituciones públicas estatales y municipales para lograr una mayor incorporación de las mujeres al trabajo remunerado y proyectos productivos, en igualdad de oportunidades para su acceso al empleo, se aliente su contratación en aras de alcanzar el equilibrio entre géneros y se fomenten políticas y programas de desarrollo empresarial, industrial y comercial en favor del empoderamiento igualitario entre mujeres y hombres;
 
 > <small>[N. DE E. VÉASE LA LITERALIDAD DE LA PUBLICACIÓN EN EL P.O. DE 17 DE AGOSTO DE 2022, PÁGINA 5.]</small>
 
@@ -1008,6 +1010,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 18 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-408 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-583 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS Y LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
