@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2023-05-31"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -55,9 +55,13 @@ La Autonomía del Municipio Libre, se expresa en la facultad de gobernar y admin
 
 Cada Municipio será gobernado por el Ayuntamiento al que le corresponde la representación política y jurídica del Municipio, la administración de los asuntos municipales y el cuidado de los intereses de la comunidad dentro de su circunscripción territorial. Las autoridades municipales tienen competencia plena y exclusiva sobre su territorio, población y organización política-administrativa, con las limitaciones que les señalen las leyes.
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-En el ámbito de su competencia, los municipios establecerán las instituciones que determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos, con el Estado y la Federación con el fin de promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria.
+En el ámbito de su competencia, los municipios establecerán las instituciones que determinarán las políticas necesarias para garantizar la vigencia de los derechos de las personas indígenas y afromexicanas, así como el desarrollo integral de sus pueblos y comunidades, políticas que deberán ser diseñadas y operadas conjuntamente con dichos sectores de la población, con el Estado y la Federación con el fin de promover la igualdad de oportunidades de las personas indígenas y afromexicanas, eliminando cualquier práctica discriminatoria.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Toda autoridad municipal tiene la obligación de promover, respetar, proteger y garantizar los derechos humanos de las personas, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
 ### Capítulo II. De los Habitantes, Residentes y Vecinos de los Municipios
 
@@ -3564,3 +3568,13 @@ PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado, deberán adecuar las disposiciones reglamentarias correspondientes.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 069 POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 3 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado, deberán realizar las adecuaciones que correspondan a su normatividad aplicable, a efecto de dar cumplimiento a su contenido.
