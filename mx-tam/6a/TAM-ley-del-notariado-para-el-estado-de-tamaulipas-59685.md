@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-notariado-para-el-estado-de-tamaulipas-59685"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-15"
-last_updated: "2020-12-17"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 15 de enero de 2008.
 
@@ -1937,13 +1937,17 @@ I. Información Ad Perpétuam, exceptuando los casos previstos en las fracciones
 
 II. Apeo y Deslinde;
 
-III. Enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+III. Enajenación de bienes de niñas, niños, adolescentes o incapacitados y transacción acerca de sus derechos;
 
 IV. Divorcio Voluntario;
 
 V. Solicitud de protocolización de instrumentos públicos procedentes del extranjero, debiéndose cubrir los requisitos a que se refiere el artículo 100 de esta ley;
 
-VI. Autorización a menores para trámite de pasaporte;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+VI. Autorización a niñas, niños y adolescentes para trámite de pasaporte;
 
 VII. Complementación de actas del estado civil en términos del párrafo segundo del artículo 565 del Código de Procedimientos Civiles;
 
@@ -2370,6 +2374,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 17 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-226 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 13, PÁRRAFO 1, FRACCIÓN VI; 27, PÁRRAFO 1; Y 88 DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
