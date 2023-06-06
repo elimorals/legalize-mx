@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-43186"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2023-05-17"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -441,17 +441,25 @@ a) Instrumentar programas de atención médica y sanitaria para combatir la mort
 
 b) Impartir educación sexual;
 
-c) Garantizar el acceso a centros de desarrollo infantil, incluyendo a menores con discapacidad;
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-d) Promover las condiciones necesarias para que los menores puedan estar cerca de sus progenitores;
+c) Garantizar el acceso a centros de desarrollo infantil, incluyendo a niñas y niños con discapacidad;
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+d) Promover las condiciones necesarias para que las niñas, niños y adolescentes puedan estar cerca de sus progenitores;
 
 e) Preferir, en igualdad de circunstancias, a las personas que tengan a su cargo menores de edad en el otorgamiento de becas, créditos u otros beneficios;
 
-f) Crear instituciones que tutelen a los menores privados de su medio familiar, incluyendo hogares de guarda y albergues para estancias temporales;
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+f) Crear instituciones que tutelen a las niñas, niños y adolescentes privados de su medio familiar, incluyendo hogares de guarda y albergues para estancias temporales;
 
 g) Prever mecanismos y apoyos para que los menores de edad que sean parientes de personas privadas de su libertad, puedan mantener contacto con ellos;
 
-h) Promover la recuperación física, psicológica y la integración social de todo menor víctima de abandono, explotación, malos tratos o conflictos armados; y
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+h) Promover la recuperación física, psicológica y la integración social de toda niña, niño o adolecente (sic) víctima de abandono, explotación, malos tratos o conflictos armados; y
 
 i) Proporcionar asistencia legal y psicológica gratuita en todos los procedimientos judiciales o administrativos.
 
@@ -690,6 +698,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 17 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-576 MEDIANTE EL CUAL SE REFORMA EL NUMERAL 2, INCISO C) DEL ARTÍCULO 20; Y SE ADICIONA UN NUMERAL 3, AL ARTÍCULO 4 DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS.”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
