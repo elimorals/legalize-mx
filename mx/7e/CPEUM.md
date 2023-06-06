@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2023-05-29"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2023.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -2138,9 +2138,9 @@ Para ser diputado se requiere:
 
 I.- Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos.
 
-> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 1972)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2023)</small>
 
-II.- Tener veintiún años cumplidos el día de la elección.
+II.- Tener dieciocho años cumplidos el día de la elección;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
@@ -3258,9 +3258,11 @@ La función de Consejero Jurídico del Gobierno estará a cargo de la dependenci
 
 El Ejecutivo Federal representará a la Federación en los asuntos en que ésta sea parte, por conducto de la dependencia que tenga a su cargo la función de Consejero Jurídico del Gobierno o de las Secretarías de Estado, en los términos que establezca la ley.
 
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2023)</small>
+
 ###### Art. 91.
 
-Para ser secretario del Despacho se requiere: ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
+Para ser Secretario de Estado se requiere: ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener veinticinco años cumplidos.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
@@ -8885,3 +8887,11 @@ D.O.F. 29 DE MAYO DE 2023.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Dentro de los 180 días naturales siguientes a su entrada en vigor, el Congreso de la Unión y las Legislaturas de las Entidades Federativas, deberán ajustar sus Constituciones y demás legislación que sea necesaria, a fin de dar cumplimiento al presente Decreto.
+
+D.O.F. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 55 Y 91 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE EDAD MÍNIMA PARA OCUPAR UN CARGO PÚBLICO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Dentro de los 180 días naturales siguientes a su entrada en vigor, el Congreso de la Unión y las Legislaturas de las Entidades Federativas, deberán ajustar sus Constituciones y demás legislación que sea necesaria, a fin de dar cumplimiento al presente Decreto.
