@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-establece-las-bases-normativas-en-materia-de-bandos-803
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2016-12-21"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY QUE ESTABLECE LAS BASES NORMATIVAS EN MATERIA DE BANDOS DE POLICÍA Y BUEN GOBIERNO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial, el 30 de noviembre de 1987.
 
@@ -99,7 +99,9 @@ Se impondrá la sanción correspondiente a toda falta de Policía y Buen Gobiern
 
 Los Bandos de Policía y Buen Gobierno enunciarán la sanción a las faltas, que de acuerdo con su naturaleza y gravedad, consistirán en: multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad. Si el infractor no paga la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
 
-El apercibimiento y la amonestación se podrán imponer cuando el infractor tenga entre doce años cumplidos y menos de dieciocho años de edad. En ningún caso procederá otro tipo de sanción para menores, por faltas a los Bandos de Policía y Buen Gobierno.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+El apercibimiento y la amonestación se podrán imponer cuando el infractor tenga entre doce años cumplidos y menos de dieciocho años de edad. En ningún caso procederá otro tipo de sanción para las niñas, niños y adolescentes, por faltas a los Bandos de Policía y Buen Gobierno.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -276,3 +278,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
