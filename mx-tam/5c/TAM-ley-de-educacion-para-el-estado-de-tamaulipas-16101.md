@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2023-03-21"
+last_updated: "2023-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -515,9 +515,9 @@ VII.- No permitir el establecimiento de comercio ambulante en las inmediaciones 
 
 VIII.- Velar, en particular mediante campañas de mentalización e información, por que (sic) las familias desistan de dar un trato preferente a los varones cuando envíen a sus hijos a la escuela;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-IX.- Crear condiciones favorables para seguridad de los menores, en particular del sexo femenino, al ir y regresar de la escuela;
+IX.- Crear condiciones favorables para seguridad de las niñas, niños y adolescentes, en particular del sexo femenino, al ir y regresar de la escuela;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -773,9 +773,9 @@ Las instituciones del sistema educativo estatal impartirán educación de manera
 
 Para los efectos de esta Ley y las demás disposiciones que regulan al sistema educativo estatal, se entenderán como sinónimos los conceptos de educador, docente, profesor y maestro.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-ARTICULO 20 BIS.- Las instituciones educativas de nivel básico pertenecientes al Sistema Educativo Estatal, así como aquellas en donde se imparte la educación inicial, deberán contar con un especialista en psicología dentro de su personal, para brindarle apoyo a las niñas, niños y adolescentes que así lo requieran y que formen parte de éstas, a fin de que los menores alcancen su pleno desarrollo integral.
+ARTICULO 20 BIS.- Las instituciones educativas de nivel básico pertenecientes al Sistema Educativo Estatal, así como aquellas en donde se imparte la educación inicial, deberán contar con un especialista en psicología dentro de su personal, para brindarle apoyo a las niñas, niños y adolescentes que así lo requieran y que formen parte de éstas, a fin de que alcancen su pleno desarrollo integral.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -797,11 +797,11 @@ La educación inicial tendrá como finalidad familiarizar a las y los niños a p
 
 El tipo básico comprende la educación preescolar, la primaria y la secundaria.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
 ###### ARTICULO 24.
 
-La educación preescolar tendrá como propósito fundamental la socialización del menor a partir de los 3 años de edad, atendiendo aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices, que le permitan crecer en un ambiente de libertad, cooperación y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad, y se oriente su desarrollo hacia la investigación y el trabajo. Es antecedente obligatorio para ingresar a la educación primaria.
+La educación preescolar tendrá como propósito fundamental la socialización de las niñas y niños a partir de los 3 años de edad, atendiendo aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices, que le permitan crecer en un ambiente de libertad, cooperación y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad, y se oriente su desarrollo hacia la investigación y el trabajo. Es antecedente obligatorio para ingresar a la educación primaria.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
 
@@ -2486,3 +2486,11 @@ P.O. 21 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
