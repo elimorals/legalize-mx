@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-mediacion-para-el-estado-de-tamaulipas-57179"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-21"
-last_updated: "2021-07-14"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 21 de agosto de 2007.
 
@@ -463,7 +463,9 @@ II. El riesgo en torno a la integridad física o psíquica de cualquiera de las 
 
 1. Los menores de edad y los incapaces comparecerán al procedimiento de mediación asistidos por sus representantes, de acuerdo con las normas establecidas por el Código Civil para el Estado. El convenio con que concluya el procedimiento será suscrito por dichos representantes.
 
-2. Los derechos y obligaciones pecuniarias de los menores y de los incapaces podrán someterse a mediación por conducto de quienes ejerzan la patria potestad o la tutela. Sin embargo, el convenio resultante de la mediación deberá someterse a la autorización judicial, con la intervención del Ministerio Público.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+2. Los derechos y obligaciones pecuniarias de las niñas, niños, adolescentes y de los incapaces podrán someterse a mediación por conducto de quienes ejerzan la patria potestad o la tutela. Sin embargo, el convenio resultante de la mediación deberá someterse a la autorización judicial, con la intervención del Ministerio Público.
 
 3. El convenio resultante del proceso de mediación en el que intervengan menores de edad o incapaces, se regirá por las disposiciones del Código Civil para el Estado y del Código de Procedimientos Civiles para el Estado.
 
@@ -874,3 +876,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
