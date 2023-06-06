@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-para-los-no-fumadores-del-estado-de-51769"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-06"
-last_updated: "2023-02-02"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN PARA LOS NO FUMADORES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 6 de septiembre de 2006.
 
@@ -415,7 +415,9 @@ III. Fumar en cualquiera de los lugares a que se refiere el Artículo 7o. de est
 
 Queda prohibido permitir a los menores de 18 años que no se hagan acompañar de una persona mayor de edad, el ingreso a las áreas designadas para fumadores en restaurantes, cafeterías, auditorios, salas de espera, oficinas, cines, teatros o cualquier otro lugar de los señalados por esta Ley.
 
-Los propietarios, poseedores o responsables de los lugares a que se refiere el párrafo anterior, serán sancionados económicamente por tolerar o autorizar que los menores que no se encuentren acompañados de una persona mayor de edad permanezcan en áreas de fumar.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Los propietarios, poseedores o responsables de los lugares a que se refiere el párrafo anterior, serán sancionados económicamente por tolerar o autorizar que las niñas, niños y adolescentes que no se encuentren acompañados de una persona mayor de edad permanezcan en áreas de fumar.
 
 ###### ARTICULO 33.
 
@@ -524,3 +526,11 @@ P.O. 2 DE FEBRERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
