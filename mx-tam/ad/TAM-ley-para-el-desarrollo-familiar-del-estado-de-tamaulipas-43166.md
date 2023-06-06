@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-familiar-del-estado-de-tamaulipas-43166"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-28"
-last_updated: "2020-10-15"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 28 de diciembre de 2004.
 
@@ -55,9 +55,9 @@ c) precisar los elementos rectores para su convivencia; y,
 
 d) definir los principios para su formación, atención, protección y desarrollo integral e integrado en sus aspectos ético y social.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-3. Las normas del derecho de familia que esta ley establece son de carácter social, tendentes a satisfacer las necesidades de subsistencia, defensa y desarrollo de los integrantes de la familia; y tutelares substancialmente de los derechos de la mujer, los menores, los adultos mayores y jubilados, así como de todo miembro de la familia con alguna discapacidad.
+3. Las normas del derecho de familia que esta ley establece son de carácter social, tendentes a satisfacer las necesidades de subsistencia, defensa y desarrollo de los integrantes de la familia; y tutelares substancialmente de los derechos de la mujer, las niñas, niños y adolescentes, los adultos mayores y jubilados, así como de todo miembro de la familia con alguna discapacidad.
 
 4. Las disposiciones de esta ley se aplicarán con preferencia a otras leyes. En caso de ausencia de norma, supletoriamente se aplicarán el Código Civil y el Código de Procedimientos Civiles para el Estado.
 
@@ -187,21 +187,21 @@ b) Promoverá el cumplimiento de las responsabilidades propias de la familia;
 
 c) Llevará a cabo programas obligatorios de orientación para quienes deseen contraer matrimonio y fundar una familia, a partir de la presentación de los principios rectores de la familia y los valores en torno a los cuales los mismos se desenvuelven, atendiéndose a lo dispuesto por los artículos 3, párrafo 1, y 4 de la presente ley;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-d) Desarrollará políticas e impulsará programas de protección, auxilio y rehabilitación de la familia, del menor, de las personas con discapacidad y de la tercera edad;
+d) Desarrollará políticas e impulsará programas de protección, auxilio y rehabilitación de la familia, de las niñas, niños, adolescentes, de las personas con discapacidad y de la tercera edad;
 
 e) Desarrollará programas de empleo, teniendo en cuenta la naturaleza de la familia, el ingreso familiar, prestaciones de ley y una cultura laboral.
 
 f) Impulsará y fomentará programas y acciones tendentes a la consolidación y práctica de valores éticos en la familia;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-g) Promoverá y coordinará las actividades desarrolladas por las instituciones que realicen actividades en beneficio de la familia, de la igual dignidad del hombre y la mujer, del menor, de las personas con discapacidad y de la tercera edad, con base en la promoción de los principios rectores de la familia;
+g) Promoverá y coordinará las actividades desarrolladas por las instituciones que realicen actividades en beneficio de la familia, de la igual dignidad del hombre y la mujer, de la niña, niño y adolescente, de las personas con discapacidad y de la tercera edad, con base en la promoción de los principios rectores de la familia;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-h) Propiciará la participación de la comunidad y de los organismos no gubernamentales en los programas de promoción y protección a la familia, en especial al menor, a las personas con discapacidad y de la tercera edad;
+h) Propiciará la participación de la comunidad y de los organismos no gubernamentales en los programas de promoción y protección a la familia, en especial a la niña, niño o adolescente, a las personas con discapacidad y de la tercera edad;
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -213,15 +213,17 @@ k) Prestará subsidiariamente asistencia médica y jurídica;
 
 l) Alentará que los medios de comunicación social, de acuerdo al principio de autoregulación (sic) ética, conozcan y difundan los principios rectores de la familia;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-m) Dará preferencia a la formulación y ejecución de programas que beneficien a la familia, en especial al menor, a las personas con discapacidad y de la tercera edad, los que deberán contar con la asignación presupuestaria suficiente y privilegiada;
+m) Dará preferencia a la formulación y ejecución de programas que beneficien a la familia, en especial a las niñas, niños, adolescentes, a las personas con discapacidad y de la tercera edad, los que deberán contar con la asignación presupuestaria suficiente y privilegiada;
 
 n) Vigilará que los patrones que empleen menores de edad, en términos de lo permitido por los artículos 22 y 23 de la Ley Federal del Trabajo, cumplan lo dispuesto en esta ley y demás leyes aplicables;
 
 o) Ejecutará programas culturales, recreativos y deportivos con la participación corresponsable de la comunidad, y, en particular, promoverá que los espacios en que se desenvuelve la familia, como las escuelas, campos deportivos o espacios recreativos, estén libres de centros de vicio;
 
-p) Llevará a cabo campañas para erradicar la mendicidad y situación de calle y ofrecerá escolaridad y capacitación de los menores que la realicen, a fin de reintegrarlos adecuadamente a la sociedad, al tiempo que procurará localizar, apoyar y orientar a los padres para que cumplan con sus deberes hacia los hijos;
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+p) Llevará a cabo campañas para erradicar la mendicidad y situación de calle y ofrecerá escolaridad y capacitación de las niñas, niños y adolescentes que la realicen, a fin de reintegrarlos adecuadamente a la sociedad, al tiempo que procurará localizar, apoyar y orientar a los padres para que cumplan con sus deberes hacia los hijos;
 
 q) Dará impulso y ayuda económica a las artesanías domésticas y otras actividades que permitan la elaboración de trabajos y generación de ingresos a través de la industria familiar; y,
 
@@ -287,27 +289,41 @@ c) La contraposición de intereses entre uno o ambos padres y el hijo.
 
 2. La persona designada para administrar los bienes del hijo tendrá la representación legal de éste en los actos derivados a dichos bienes.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
 ###### ARTICULO 11.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado tendrá la representación legal de los menores huérfanos de padre y madre o de filiación desconocida o abandonados, de los mayores incapaces, de los hijos que por causas legales hubieren salido de la autoridad parental y de los que por cualquier motivo carecieren de representante legal, mientras no se les provea de tutor; y promoverá también entre las familias la cultura de la adopción y modos concretos de solidaridad social en la materia.
+El Sistema para el Desarrollo Integral de la Familia del Estado tendrá la representación legal de las niñas, niños y adolescentes huérfanos de padre y madre o de filiación desconocida o abandonados, de los mayores incapaces, de los hijos que por causas legales hubieren salido de la autoridad parental y de los que por cualquier motivo carecieren de representante legal, mientras no se les provea de tutor; y promoverá también entre las familias la cultura de la adopción y modos concretos de solidaridad social en la materia.
 
-### CAPITULO CUARTO. DE LOS DERECHOS DE LOS MENORES EN EL ENTORNO FAMILIAR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JUNIO DE 2023)</small>
+
+### CAPITULO CUARTO. DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN EL ENTORNO FAMILIAR
 
 ###### ARTICULO 12.
 
-1. El régimen de derechos de los menores en el entorno familiar contempla:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JUNIO DE 2023)</small>
 
-a) Los principios que fundamentan la protección del menor;
+1. El régimen de derechos de las niñas, niños y adolescentes en el entorno familiar contempla:
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+a) Los principios que fundamentan la protección de las niñas, niños y adolescentes;
 
 b) Los derechos establecidos a su favor, desde la concepción hasta los dieciocho años de edad;
 
 c) Los deberes a que se sujetarán conforme a su desarrollo físico y mental; y
 
-d) Los deberes de la familia para garantizar la protección integral del menor.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-2. Este régimen se aplicará tanto a los menores, como a sus padres, tutores y personas responsables de ellos ante la ley, y demás parientes, autoridades, organismos y a quienes intervengan en su formación, atención, protección o que se relacionen con el menor.
+d) Los deberes de la familia para garantizar la protección integral de las niñas, niños y adolescentes.
 
-3. Los menores gozarán de los derechos enunciados en este régimen, sin distinción de origen étnico o nacional, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias o cualquier otra que atente contra la dignidad humana. Tampoco se les discriminará por razón de la condición familiar, social, cultural, económica, política, de salud, religiosa o cualquier otra que atente contra la dignidad humana de sus padres, de sus tutores o personas responsables de ellos ante la ley.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+2. Este régimen se aplicará tanto a las niñas, niños y adolescentes, como a sus padres, tutores y personas responsables de ellos ante la ley, y demás parientes, autoridades, organismos y a quienes intervengan en su formación, atención, protección o que se relacionen con el menor.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+3. Las niñas, niños y adolescentes gozarán de los derechos enunciados en este régimen, sin distinción de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias o cualquier otra que atente contra la dignidad humana. Tampoco se les discriminará por razón de la condición familiar, social, cultural, económica, política, de salud, religiosa o cualquier otra que atente contra la dignidad humana de sus padres, de sus tutores o personas responsables de ellos ante la ley.
 
 ###### ARTICULO 13.
 
@@ -317,33 +333,41 @@ d) Los deberes de la familia para garantizar la protección integral del menor.
 
 3. En el orden penal se estará al estatuto de minoridad que establezca la ley de la materia.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
 ###### ARTICULO 14.
 
-1. La protección del menor deberá ser integral en todos los períodos evolutivos de su vida, inclusive la etapa prenatal que comienza desde el momento de la concepción, así como en los aspectos físico, biológico, psicológico, moral, social, cultural y jurídico.
+1. La protección de las niñas, niños y adolescentes deberá ser integral en todos los períodos evolutivos de su vida, inclusive la etapa prenatal que comienza desde el momento de la concepción, así como en los aspectos físico, biológico, psicológico, moral, social, cultural y jurídico.
 
-2. El afecto, la seguridad emocional, la formación moral y espiritual, los cuidados que el desarrollo evolutivo del menor demanden, el ambiente adecuado y la recreación, son aspectos esenciales de la protección integral del menor.
+2. El afecto, la seguridad emocional, la formación moral y espiritual, los cuidados que el desarrollo evolutivo de las niñas, niños y adolescentes demanden, el ambiente adecuado y la recreación, son aspectos esenciales de su protección integral.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
 ###### ARTICULO 15.
 
-1. La familia es la primera y principal responsable de la protección integral del menor, por constituir el medio natural e idóneo que favorece el normal desarrollo psíquico e integrado de su personalidad.
+1. La familia es la primera y principal responsable de la protección integral de las niñas, niños y adolescentes, por constituir el medio natural e idóneo que favorece el normal desarrollo psíquico e integrado de su personalidad.
 
-2. Cuando la familia no garantice una adecuada protección del menor, el Estado asumirá subsidiariamente esa responsabilidad, sin perder de vista los principios rectores de la familia.
+2. Cuando la familia no garantice una adecuada protección de las niñas, niños y adolescentes, el Estado asumirá subsidiariamente esa responsabilidad, sin perder de vista los principios rectores de la familia.
 
-3. A fin de garantizar los derechos del menor establecidos en esta ley, el Estado deberá prestar la asistencia y subsidios adecuados y oportunos a los padres para el desempeño de sus funciones, respetando sus derechos y apoyándolos subsidiariamente para que cumplan sus obligaciones.
+3. A fin de garantizar los derechos de las niñas, niños y adolescentes establecidos en esta ley, el Estado deberá prestar la asistencia y subsidios adecuados y oportunos a los padres para el desempeño de sus funciones, respetando sus derechos y apoyándolos subsidiariamente para que cumplan sus obligaciones.
 
-###### ARTICULO 16.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+###### ARTÍCULO 16.
 
-1. El Estado tiene la responsabilidad de proteger a todos los menores y, de manera especial, a quienes se hallen amenazados o vulnerados en sus derechos; a los infractores; a las personas con discapacidad; a los desamparados por carecer su familia de los medios de subsistencia que satisfagan sus necesidades básicas; a los afectados por conflictos armados, desplazados o repatriados; y, en general, a todos aquellos menores que se encuentren en situación de vulnerabilidad.
+1. El Estado tiene la responsabilidad de proteger a todas las niñas, niños y adolescentes y, de manera especial, a quienes se hallen amenazados o vulnerados en sus derechos; a los infractores; a las personas con discapacidad; a los desamparados por carecer su familia de los medios de subsistencia que satisfagan sus necesidades básicas; a los afectados por conflictos armados, desplazados o repatriados; y, en general, a todos aquellos menores de edad que se encuentren en situación de vulnerabilidad.
 
-2. El Estado también deberá proteger a la mujer embarazada, particularmente si fuere menor, trabajadora o abandonada y, en general, a la madre, especialmente cuando asume sola la responsabilidad de criar a sus hijos.
+2. El Estado también deberá proteger a la mujer embarazada, particularmente si fuere niña o adolescente, trabajadora o abandonada y, en general, a la madre, especialmente cuando asume sola la responsabilidad de criar a sus hijos.
 
 ###### ARTICULO 17.
 
-1. En la interpretación y aplicación de este régimen prevalecerá el interés superior del menor.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-2. Se entiende por interés superior del menor todo aquello que favorezca su desarrollo físico, psicológico, intelectual, moral, cultural y social para lograr el pleno y armonioso desenvolvimiento de su personalidad.
+1. En la interpretación y aplicación de este régimen prevalecerá el interés superior de las niñas, niños y adolescentes.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+2. Se entiende por interés superior de las niñas, niños y adolescentes todo aquello que favorezca su desarrollo físico, psicológico, intelectual, moral, cultural y social para lograr el pleno y armonioso desenvolvimiento de su personalidad.
 
 3. Todo niño expósito, abandonado por sus padres por enfermedad, prisión, orfandad o irresponsabilidad paterna o materna, será internado en el Sistema para el Desarrollo Integral de la Familia del Estado, para su protección y cuidado, procurando, según sea el caso, promover la cultura de la adopción, apoyada por leyes adecuadas y oportunas de acuerdo a la dignidad de la persona.
 
@@ -413,11 +437,15 @@ d) Asistir a sus padres en todas las circunstancias que lo requieran, especialme
 
 e) Contribuir a los gastos familiares, según sus posibilidades, mientras convivan con sus padres.
 
-4. Los menores que, bajo cualquier circunstancia, habiten permanentemente en el domicilio familiar, equipararán sus derechos y obligaciones a las de los hijos.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+4. Las niñas, niños y adolescentes que, bajo cualquier circunstancia, habiten permanentemente en el domicilio familiar, equipararán sus derechos y obligaciones a las de los hijos.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
 ###### ARTICULO 25.
 
-La enumeración de los derechos y deberes señalados en este capítulo no excluyen los demás que se encuentren establecidos en convenciones internacionales, en ésta y demás leyes de protección del menor y de las personas de la tercera edad, vigentes en el Estado.
+La enumeración de los derechos y deberes señalados en este capítulo no excluyen los demás que se encuentren establecidos en convenciones internacionales, en ésta y demás leyes de protección de las niñas, niños y adolescentes, y de las personas de la tercera edad, vigentes en el Estado.
 
 ### CAPITULO SEPTIMO. DE LAS RESPONSABILIDADES EN EL ENTORNO FAMILIAR
 
@@ -429,13 +457,17 @@ La enumeración de los derechos y deberes señalados en este capítulo no excluy
 
 3. Se entenderá que falta el padre o la madre, no sólo cuando hubiere fallecido o se hubiere declarado la presunción de muerte, sino cuando se ausentare del territorio nacional, se ignorare su paradero o estuviere imposibilitado.
 
-4. Los padres podrán designar de común acuerdo quién de ellos representará a sus hijos menores o declarados incapaces, así como quién administrará sus bienes. El acuerdo respectivo se otorgará en escritura pública.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+4. Los padres podrán designar de común acuerdo quién de ellos representará a las niñas, niños, adolescentes, o declarados incapaces, así como quién administrará sus bienes. El acuerdo respectivo se otorgará en escritura pública.
 
 ###### ARTICULO 27.
 
 1. Los actos realizados por uno de los padres, en situaciones de suma urgencia en consideración a los usos o en circunstancias especiales, se presumirá que cuentan con el consentimiento del otro.
 
-2. Esta presunción no operará cuando el menor necesite salir del país.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+2. Esta presunción no operará cuando la niña, niño o adolescente necesite salir del país.
 
 ###### ARTICULO 28.
 
@@ -449,7 +481,9 @@ La enumeración de los derechos y deberes señalados en este capítulo no excluy
 
 2. También se aplicará la regla prevista en el párrafo anterior, si el tutor no fuere común a ambos padres.
 
-3. Si sólo uno de los padres fuere menor, el mayor administrará los bienes y representará al hijo de los actos y contratos expresados.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+3. Si sólo uno de los padres fuere menor de edad, el mayor administrará los bienes y representará al hijo de los actos y contratos expresados.
 
 ###### ARTICULO 30.
 
@@ -497,7 +531,9 @@ d) alentar la formación y práctica de conductas sustentadas en principios y va
 
 ###### ARTICULO 35.
 
-1. Es derecho y deber del padre y de la madre corregir oportuna, adecuada, humana y moderadamente a sus hijos y auxiliarse, en caso necesario, de profesionales especializados o de los servicios de orientación familiar y psicopedagógica, a cargo de centros educativos o entidades de protección de menores o de la familia.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+1. Es derecho y deber del padre y de la madre corregir oportuna, adecuada, humana y moderadamente a sus hijos y auxiliarse, en caso necesario, de profesionales especializados o de los servicios de orientación familiar y psicopedagógica, a cargo de centros educativos o entidades de protección de niñas, niños y adolescentes o de la familia.
 
 2. En caso que la conducta del hijo no pudiere ser corregida por los medios indicados, los padres podrán solicitar al juez que provea medidas tutelares. Este, para decidir, ordenará los estudios técnicos del grupo familiar que estime convenientes.
 
@@ -511,7 +547,9 @@ d) alentar la formación y práctica de conductas sustentadas en principios y va
 
 1. Cuando el padre y la madre no convivan con su hijo, deberán mantener con él las relaciones afectivas y el trato personal que favorezcan el normal desarrollo de su personalidad.
 
-2. También tienen derecho de comunicación con el menor los abuelos, los parientes y otras personas que demuestren un interés legítimo, siempre que esto no resulte perjudicial para su salud física o mental.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+2. También tienen derecho de comunicación con las niñas, niños o adolescentes los abuelos, los parientes y otras personas que demuestren un interés legítimo, siempre que esto no resulte perjudicial para su salud física o mental.
 
 ###### ARTICULO 38.
 
@@ -717,7 +755,9 @@ V. En los diferentes servicios que el Estado ofrece para la promoción y protecc
 
 b) Cuando no haya quien desempeñe la tutela legítima, se podrá proponer al Juez Familiar los nombres de tres parientes o conocidos del incapacitado, dispuestos a desempeñar la tutela, en la forma más conveniente para el pupilo, o entre las personas que aparezcan en la lista elaborada por el Consejo Tutelar;
 
-c) Velar que los tutores cumplan con sus deberes, especialmente en la educación de los menores, dando aviso al Juez de lo Familiar de sus fallas;
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+c) Velar que los tutores cumplan con sus deberes, especialmente en la educación de las niñas, niños y adolescentes, dando aviso al Juez de lo Familiar de sus fallas.
 
 d) Avisar al Juez de lo Familiar si los bienes del incapacitado están en peligro de ser mal administrados;
 
@@ -800,6 +840,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 15 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-144 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS; LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE TAMAULIPAS; LEY DE PROTECCIÓN PARA LOS NO FUMADORES DEL ESTADO DE TAMAULIPAS; LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
