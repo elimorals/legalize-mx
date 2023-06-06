@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2023-02-21"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -359,9 +359,9 @@ I.- Proporcionar servicios de salud a toda la población y mejorar la calidad de
 
 II.- Contribuir al desarrollo demográfico armónico del Estado, mediante el fortalecimiento de programas en materia de salud sexual y reproductiva;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-III.- Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a menores en estado de abandono, personas adultas mayores desamparadas y personas con discapacidad, para fomentar y proporcionar su incorporación a una vida activa y equilibrada en lo físico, psicológico, económico y social;
+III.- Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a niñas, niños y adolescentes en estado de abandono, personas adultas mayores desamparadas y personas con discapacidad, para fomentar y proporcionar su incorporación a una vida activa y equilibrada en lo físico, psicológico, económico y social;
 
 IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez y la adolescencia;
 
@@ -795,11 +795,13 @@ IV.- Otros que se presten de conformidad con lo que establezca la Secretaría.
 
 ARTICULO 20 BIS.- Los prestadores de servicios de salud enumerados en el artículo anterior deberán atender de forma expedita y sin condición de garantía financiera alguna a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2023)</small>
 
 ###### ARTICULO 21.
 
-Las cuotas de recuperación por la prestación de servicios de salud, se ajustarán a los tabuladores autorizados y se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios. Se eximirá del cobro de las cuotas de recuperación por concepto de atención médica y medicamentos, a todo menor a partir de su nacimiento hasta cinco años cumplidos, que no sea beneficiario o derechohabiente de alguna institución del sector salud. Para el cumplimiento de esta disposición, será requisito indispensable que la familia solicitante se encuentre en un nivel de ingreso menor a tres deciles. Para los efectos de este artículo la institución de salud de forma obligatoria realizará el estudio socioeconómico.
+Las cuotas de recuperación por la prestación de servicios de salud, se ajustarán a los tabuladores autorizados y se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios. Se eximirá del cobro de las cuotas de recuperación por concepto de atención médica y medicamentos, a toda niña o niño a partir de su nacimiento hasta cinco años cumplidos, que no sea beneficiario o derechohabiente de alguna institución del sector salud. Para el cumplimiento de esta disposición, será requisito indispensable que la familia solicitante se encuentre en un nivel de ingreso menor a tres deciles. Para los efectos de este artículo la institución de salud de forma obligatoria realizará el estudio socioeconómico.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2005)</small>
 
 Así mismo, se exime del cobro cuando del estudio socioeconómico determine que el usuario carece de recursos para cubrirlos o se trate de personas de escasos recursos dedicadas a las labores del campo. No se aplicarán cuotas de recuperación en los centros de salud rurales y en las zonas urbanas de bajo desarrollo económico y social.
 
@@ -957,7 +959,9 @@ I.- Los programas para las parejas, tutores y familiares destinados a promover l
 
 II.- Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer los lazos familiares y promover la salud física y mental de sus integrantes;
 
-III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de las niñas, niños, adolescentes y de las mujeres embarazadas;
 
 IV.- Las acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas; y
 
@@ -983,9 +987,9 @@ I.- Programas para padres de familia destinados a promover la atención materno-
 
 II.- Actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de las niñas, niños, adolescentes y de las mujeres embarazadas;
 
 IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas; y
 
@@ -1963,9 +1967,9 @@ II.- Aplicar los criterios de buenas prácticas de higiene en materia de prevenc
 
 III.- Cuidar de la conservación, aseo, buen estado y mantenimiento de los mismos, así como del equipo y utensilios, los cuales serán adecuados a la actividad que se realice o servicios que se presten.
 
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-ARTICULO 114 BIS.- Los establecimientos con instalaciones para un aforo de más de 100 personas, a los que regularmente acudan menores y personas adultas, procurarán contar con baños públicos familiares, para la atención de niñas y niños menores de 10 años, y personas adultas mayores que para su uso se acompañen de una persona que los ayude y cuide. Este tipo de baños públicos deberán reunir los requisitos establecidos en la normatividad reglamentaria aplicable.
+ARTICULO 114 BIS.- Los establecimientos con instalaciones para un aforo de más de 100 personas, a los que regularmente acudan niñas, niños, adolescentes y personas adultas, procurarán contar con baños públicos familiares, para la atención de niñas y niños menores de 10 años, y personas adultas mayores que para su uso se acompañen de una persona que los ayude y cuide. Este tipo de baños públicos deberán reunir los requisitos establecidos en la normatividad reglamentaria aplicable.
 
 ### CAPITULO II. DE LA REVOCACION DE AUTORIZACIONES SANITARIAS
 
@@ -2797,9 +2801,13 @@ La procuración y extracción de órganos o tejidos para trasplantes se hará pr
 
 Una vez ocurrida la pérdida de la vida de una persona, en los términos de esta ley, se podrá disponer de todos o parte de sus componentes anatómicos cuando exista previa autorización del donador. Si no se obtuvo su previo consentimiento, se procederá en los términos de la donación tácita.
 
-No se podrán tomar órganos y tejidos de menores de edad vivos para trasplantes, excepto cuando se trate de trasplantes de médula ósea, para lo cual se requerirá el consentimiento expreso de los representantes legales del menor.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-Tratándose de menores no vivos, sólo se podrán tomar sus órganos y tejidos para trasplantes con el consentimiento expreso de los representantes legales del menor.
+No se podrán tomar órganos y tejidos de niñas o niños vivos para trasplantes, excepto cuando se trate de trasplantes de médula ósea, para lo cual se requerirá el consentimiento expreso de sus representantes legales.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Tratándose de niñas y niños no vivos, sólo se podrán tomar sus órganos y tejidos para trasplantes con el consentimiento expreso de sus representantes legales.
 
 No podrán tomarse componentes de incapaces y otras personas sujetas a interdicción, ni en vida ni después de su muerte.
 
@@ -3918,3 +3926,11 @@ La Secretaría de Salud en un plazo que no excederá de ciento ochenta días, co
 ###### ARTÍCULO QUINTO.
 
 La Secretaría de Educación, en coordinación con la Secretaría de Salud, elaborará la Guía práctica de comunicación para el abordaje de las personas con diabetes, sobre el cuidado y no discriminación de Niñas, Niños y adolescentes con cualquier tipo de diabetes en los planteles escolares, con énfasis en la diabetes tipo 1.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
