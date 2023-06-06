@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2022-12-22"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -755,7 +755,7 @@ XXVII. Promover la extinción de dominio de los bienes de los imputados o senten
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-XXVIII. Dar intervención a la unidad administrativa en materia de servicios pericialesy ciencias forenses, para dar trámite y desahogo a los peritajes solicitados en el término que al efecto establezca el Ministerio Público y que resulten acordes con la complejidad del peritaje a realizar;
+XXVIII. Dar intervención a la unidad administrativa en materia de servicios periciales y ciencias forenses, para dar trámite y desahogo a los peritajes solicitados en el término que al efecto establezca el Ministerio Público y que resulten acordes con la complejidad del peritaje a realizar;
 
 XXIX. Presentar anualmente al Fiscal General un informe sobre actividades sustantivas y de resultados, el cual será público en términos de lo previsto en la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas y demás disposiciones aplicables. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal Anticorrupción y al Congreso;
 
@@ -1031,7 +1031,9 @@ XIV. Dictar las órdenes necesarias que garanticen el cumplimiento de las medida
 
 XV. El Ministerio Público, dentro del término de Ley, comunicará por cualquier medio la imposición de la determinación de las medidas de protección o providencias precautorias al órgano jurisdiccional competente, para efecto de que la conozca, y le solicitará su revisión, a fin de que señale la fecha para la celebración de la audiencia de revisión de las medidas;
 
-XVI. Tratándose de delitos de violencia de género y también en los casos en que las víctimas de la violencia sean menores de edad, el Agente del Ministerio Público dictará de inmediato y de oficio, las medidas cautelares de aseguramiento, para proteger la seguridad física, la libertad o seguridad sexual, psicológica y social de los menores o de la mujer, al representar vulnerabilidad ante la violencia recibida;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+XVI. Tratándose de delitos de violencia de género y también en los casos en que las víctimas de la violencia sean menores de edad, el Agente del Ministerio Público dictará de inmediato y de oficio, las medidas cautelares de aseguramiento, para proteger la seguridad física, la libertad o seguridad sexual, psicológica y social de las niñas, niños, adolescentes, o de la mujer, al representar vulnerabilidad ante la violencia recibida;
 
 XVII. Ejercitar la acción penal, solicitando las órdenes de comparecencia, presentación, aprehensión o reaprehensión que sean procedentes;
 
@@ -2420,3 +2422,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se instruye a la Fiscalía General de Justicia del Estado y a la Secretaría de Finanzas, para que lleven a cabo los procedimientos correspondientes a efecto de realizar las adecuaciones normativas y presupuestarias a las que haya lugar, en un plazo no mayor a 30 días naturales a partir de la entrada en vigor del presente Decreto.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
