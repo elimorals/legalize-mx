@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2023-04-21"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JUNIO DE 2023.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -3253,6 +3253,12 @@ e) La elaboración de un informe anual que contenga los avances y resultados del
 
 Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al comité sobre la atención que brinden a estas, en los términos previstos en la ley.
 
+> <small>(ADICIONADO, D.O. 6 DE JUNIO DE 2023)</small>
+
+###### Artículo 101 Ter.
+
+La responsabilidad del Estado y de los municipios por los daños que, con motivo de su actividad administrativa irregular, causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
 (REUBICADO [N. DE E. ANTES TÍTULO DÉCIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
 ## TITULO DUODECIMO. Reforma e inviolabilidad de la Constitución
@@ -3287,7 +3293,7 @@ Todo servidor público del Estado y de los municipios, sin excepción alguna, an
 
 La responsabilidad del Gobernador, Secretario de Gobierno y demás funcionarios superiores de la administración pública, así como la de los Presidente Municipales, no excusa la de los subalternos que obedezcan órdenes de aquéllos, dirigidas a suspender o retardar las elecciones populares, la realización de los procedimientos de participación ciudadana, la instalación del Congreso, de los ayuntamientos o el libre ejercicio de las funciones de éstos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, D.O. 28 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 107.
 
@@ -5538,3 +5544,17 @@ Artículo primero. Este decreto entrará en vigor el día de su publicación en 
 Armonización legislativa
 
 Artículo segundo. El Congreso del estado realizará las reformas necesarias para armonizar la legislación del estado a lo previsto en este decreto en un plazo de ciento ochenta días naturales, contados a partir de su entrada en vigor.
+
+D.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 629/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y SE EMITE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero. Publíquese el presente Decreto en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. El presente Decreto entrará en vigor el primero de enero del año 2024.
+
+Artículo Tercero. Los entes públicos obligados conforme a la presente Ley, deberán emitir su reglamento según corresponda, dentro de los ciento ochenta días hábiles siguientes a la publicación de este Decreto, para establecer de manera específica el procedimiento para resolver en su respectivo ámbito las reclamaciones de indemnización por responsabilidad patrimonial del Estado.
+
+Artículo Cuarto. Los entes públicos sujetos a la presente Ley, incluirán el monto de las partidas que, en términos de la Ley de Presupuesto y Contabilidad Gubernamental del Estado de Yucatán, deberá destinarse para cubrir las responsabilidades patrimoniales del Estado a partir del Presupuesto de Egresos del Gobierno del Estado de Yucatán para el ejercicio fiscal 2024.
+
+Artículo Quinto. Se derogan todas las disposiciones legales o reglamentarias que se opongan a este ordenamiento.
