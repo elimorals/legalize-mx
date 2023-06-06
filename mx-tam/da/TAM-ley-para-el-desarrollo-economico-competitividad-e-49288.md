@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-economico-competitividad-e-49288"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-24"
-last_updated: "2021-09-23"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 24 de noviembre de 2005.
 
@@ -363,13 +363,17 @@ XXVI. Proponer al Ejecutivo Estatal, el Reglamento de la presente Ley, así como
 
 XXVII. Imponer sanciones administrativas a los beneficiarios de apoyos que incumplan con las obligaciones pactadas;
 
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+XXVIII. Contratar servicios externos especializados de alta calidad técnica o profesional, cuando se considere pertinente, en los términos de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+XXIX. Emprender estrategias que permitan impulsar el desarrollo empresarial, industrial y comercial en favor del empoderamiento igualitario entre mujeres y hombres; y
+
 > <small>(ADICIONADA, P.O. 2 DE JULIO DE 2014)</small>
 
-XXVIII. Celebrar la contratación de servicios externos especializados de alta calidad técnica o profesional, cuando se considere pertinente, en los términos de la legislación aplicable; y
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2014)</small>
-
-XXIX. Las demás que establezca esta Ley y otras disposiciones aplicables.
+XXX. Las demás que establezca esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -1456,3 +1460,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-583 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS Y LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
