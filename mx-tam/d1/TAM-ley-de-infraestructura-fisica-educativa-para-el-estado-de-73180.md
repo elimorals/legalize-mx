@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-infraestructura-fisica-educativa-para-el-estado-de-73180
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-07"
-last_updated: "2019-08-20"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 7 de julio de 2009.
 
@@ -173,9 +173,13 @@ Las dependencias y entidades estatales que realicen obras de infraestructura fí
 
 La infraestructura física educativa que se construya o cuya edificación se autorice, con base en las disposiciones de esta ley, según su tipo, nivel o modalidad, deberá contener las especificaciones técnicas que emita el Instituto, siendo como mínimo las siguientes:
 
-I. En el nivel inicial, aquellas que propicien en los menores el correcto desenvolvimiento social en núcleos distintos al familiar y favorezcan su desarrollo físico, cognoscitivo, afectivo y social;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-II. En el nivel preescolar, las que contribuyan a la socialización de los menores, atendiendo aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices;
+I. En el nivel inicial, aquellas que propicien en las niñas, niños y adolescentes el correcto desenvolvimiento social en núcleos distintos al familiar y favorezcan su desarrollo físico, cognoscitivo, afectivo y social;
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+II. En el nivel preescolar, las que contribuyan a la socialización de las niñas, niños y adolescentes, atendiendo aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices;
 
 III. En el nivel primaria, aquellos que sean útiles para el desarrollo y adaptación de los educandos al medio que les es propio;
 
@@ -702,6 +706,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
