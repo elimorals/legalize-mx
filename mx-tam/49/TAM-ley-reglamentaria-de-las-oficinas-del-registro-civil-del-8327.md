@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-de-las-oficinas-del-registro-civil-del-8327"
 country: "mx"
 rank: "ley"
 publication_date: "1940-10-30"
-last_updated: "2022-04-13"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial, el 30 de octubre de 1940.
 
@@ -101,9 +101,9 @@ VII.- Dar aviso al Ejecutivo del Estado de las nuevas construcciones o reparacio
 
 VIII.- Cerciorarse con la debida oportunidad de que las personas interesadas en los actos que intervengan o en la obtención de certificados y constancias relativas a actos ya autorizados, hayan cubierto previamente, en la Colecturía de Rentas, las cuotas correspondientes, en términos de los artículos 17 y 18 de la presente Ley;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-IX.- Exhortar a quien presente al menor a registrar a que el nombre propio que vaya a otorgarle no sea peyorativo, discriminatorio, infamante, denigrante o carente de significado; y
+IX.- Exhortar a quien presente a la niña o niño a registrar a que el nombre propio que vaya a otorgarle no sea peyorativo, discriminatorio, infamante, denigrante o carente de significado; y
 
 > <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2022)</small>
 
@@ -630,3 +630,11 @@ Se concede un plazo de 90 días, a partir de la entrada en vigor del presente De
 ###### ARTÍCULO TERCERO.
 
 Inmediatamente después de que el Registro Estatal de Deudores Alimentarios Morosos entre en funciones se deberá dar trámite a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y el inicio de operaciones del referido Registro.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
