@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adopciones-para-el-estado-de-tamaulipas-121276"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2023-02-01"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 8 de mayo de 2017.
 
@@ -225,7 +225,9 @@ Para que la adopción pueda tener lugar, deberán consentir en ella:
 
 I. El adolescente, la niña o niño que haya cumplido doce años de edad, a los menores de esa edad y a las personas con discapacidad, se les tomará en cuenta su opinión e inquietudes, de conformidad con su grado de madurez;
 
-II. Los padres biológicos o tutor del menor que se pretenda adoptar, en caso de que existan y que no hayan perdido la patria potestad judicialmente; y
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+II. Los padres biológicos o tutor de la niña, niño o adolescente que se pretenda adoptar, en caso de que existan y que no hayan perdido la patria potestad judicialmente; y
 
 III. En caso de que los progenitores hayan fallecido o perdido la patria potestad y no existieren ascendientes consanguíneos que la ejerzan, el tutor o, en su defecto, el Sistema o el Ministerio Público.
 
@@ -453,7 +455,9 @@ XII. Realizar el proceso de seguimiento, una vez ejecutoriada la sentencia que d
 
 ###### ARTÍCULO 29.
 
-1. Se consideran menores en estado de vulnerabilidad, las niñas, los niños y los adolescentes, en términos de lo dispuesto por el artículo 5o. fracción II de la Ley sobre el Sistema Estatal de Asistencia Social, que sean sujetos de Asistencia Social y que se encuentren institucionalizados en Centros de Asistencia Social del Estado. Siendo deber de éstos, informar a la Procuraduría, en un término de setenta y dos horas, sobre las personas interesadas en adoptar o personas con intención de otorgar a su hija o hijo en adopción que se les presenten y sobre los menores expósitos y/o en estado de abandono que reciban.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+1. Se consideran en estado de vulnerabilidad, las niñas, los niños y los adolescentes, en términos de lo dispuesto por el artículo 5o. fracción II de la Ley sobre el Sistema Estatal de Asistencia Social, que sean sujetos de Asistencia Social y que se encuentren institucionalizados en Centros de Asistencia Social del Estado. Siendo deber de éstos, informar a la Procuraduría, en un término de setenta y dos horas, sobre las personas interesadas en adoptar o personas con intención de otorgar a su hija o hijo en adopción que se les presenten y sobre las niñas, niños y adolescentes expósitos y/o en estado de abandono que reciban.
 
 2. El proceso de adopción de niñas, niños o adolescentes en estado de vulnerabilidad, se iniciará conforme a lo establecido por el Código de Procedimientos Civiles del Estado de Tamaulipas.
 
@@ -545,13 +549,17 @@ En las adopciones internacionales deberán reunirse los requisitos establecidos 
 
 I. Que el país de origen de los adoptantes haya suscrito alguna Convención en materia de adopciones o protección de la niñez y adolescencia en la que México sea parte;
 
-II. Que el menor es adoptable, para lo cual emitirá un informe sobre la identidad del (sic) niña, niño o adolescente, su medio social y familiar, estado emocional, historia médica y necesidades particulares del mismo, y lo remitirá a las autoridades competentes en el país de recepción;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+II. Que la niña, niño o adolescente es adoptable, para lo cual emitirá un informe sobre su identidad, su medio social y familiar, estado emocional, historia médica y necesidades particulares del mismo, y lo remitirá a las autoridades competentes en el país de recepción;
 
 III. Que las personas a quienes les corresponde otorgar consentimiento sobre la adopción han sido previamente asesoradas e informadas de las consecuencias de ello;
 
 IV. Que la adopción obedece al interés superior de la niñez;
 
-V. Autorización de su país de origen para llevar a cabo el trámite de adopción de un menor mexicano, así como para entrar y residir en dicho país;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+V. Autorización de su país de origen para llevar a cabo el trámite de adopción de una niña, niño o adolescente mexicano, así como para entrar y residir en dicho país;
 
 VI. Que las autoridades competentes del país de origen de los solicitantes acrediten con los documentos respectivos, que éstos son aptos para adoptar;
 
@@ -704,3 +712,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
