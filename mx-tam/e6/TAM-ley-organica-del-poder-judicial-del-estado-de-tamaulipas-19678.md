@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2023-03-23"
+last_updated: "2023-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -141,7 +141,9 @@ III.- Los depositarios;
 
 IV.- Los albaceas e interventores de sucesiones, tutores, curadores, directorios y notarios públicos, en las funciones que les encomienden las leyes relativas;
 
-V.- El Procurador de la Defensa del Menor y la Familia, y los interventores;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+V.- El Procurador de la Defensa de las niñas, niños, adolescentes, la Familia, y los interventores;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1073,7 +1075,9 @@ V.- De las diligencias de consignación en todo lo relativo al Derecho Familiar.
 
 VI.- De la diligenciación de los exhortos, suplicatorias, requisitorias y despachos, relacionados con el Derecho Familiar.
 
-VII.- De las cuestiones relativas a adopción, a las que afecten a los menores e incapacitados en sus derechos de personas y, en general, de todas las cuestiones familiares que reclamen la intervención judicial.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+VII.- De las cuestiones relativas a adopción, a las que afecten a las niñas, niños, adolescentes e incapacitados en sus derechos de personas y, en general, de todas las cuestiones familiares que reclamen la intervención judicial.
 
 VIII.- De los registros en que consten los discernimientos de los cargos de tutor y curador, los que estarán a disposición de los Consejos Locales de Tutela.
 
@@ -1933,9 +1937,9 @@ I.- Quienes cumplan el cien por ciento del término legal de ejercicio señalado
 
 II.- A los magistrados o consejeros que no hubieran cumplido el término legal del ejercicio para el cual fueron designados, se les pagará proporcionalmente lo que corresponda de acuerdo a lo previsto en la fracción anterior, salvo que hayan sido removidos de su cargo en aplicación de los artículos 116 y 152 de la Constitución Política del Estado, en cuyo caso no tendrán derecho al haber por retiro.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
 
-ARTICULO 108 QUINQUIES.- En caso de fallecimiento del magistrado o consejero en funciones, únicamente se entregará la prestación económica determinada en la fracción I del artículo anterior a su cónyuge supérstite y a sus hijos menores o incapaces, independientemente de los seguros y demás prestaciones a que tenga derecho conforme a las condiciones generales de trabajo y de seguridad social en beneficio de los trabajadores al servicio del Estado.
+ARTICULO 108 QUINQUIES.- En caso de fallecimiento del magistrado o consejero en funciones, únicamente se entregará la prestación económica determinada en la fracción I del artículo anterior a su cónyuge supérstite, a su niña, niño, adolescente, o incapaz, independientemente de los seguros y demás prestaciones a que tenga derecho conforme a las condiciones generales de trabajo y de seguridad social en beneficio de los trabajadores al servicio del Estado.
 
 ## TITULO QUINTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -3359,9 +3363,13 @@ I.- Proporcionar en las instalaciones del Centro, los servicios necesarios para 
 
 II.- Proporcionar en las instalaciones del Centro, los servicios necesarios para la Convivencia supervisada bajo los parámetros ordenados por la autoridad judicial;
 
-III.- Otorgar los servicios de entrega, recepción y reintegro de los menores a los progenitores custodios y no custodios, según sea el caso, cuando la autoridad judicial haya permitido la convivencia fuera de las instalaciones del Centro;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
 
-IV.- Otorgar servicios de atención psicológica individual, terapias grupales a los menores y a sus progenitores y terapias de integración, tendentes a superar sus conflictos, manejar adecuadamente sus emociones y mejorar su capacidad para relacionarse;
+III.- Otorgar los servicios de entrega, recepción y reintegro de las niñas, niños y adolescentes a los progenitores custodios y no custodios, según sea el caso, cuando la autoridad judicial haya permitido la convivencia fuera de las instalaciones del Centro;
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+IV.- Otorgar servicios de atención psicológica individual, terapias grupales a las niñas, niños, adolescentes y a sus progenitores y terapias de integración, tendentes a superar sus conflictos, manejar adecuadamente sus emociones y mejorar su capacidad para relacionarse;
 
 V.- Otorgar servicios de Evaluaciones de personalidad; socioeconómicas y de entorno que aporten mejores elementos a los titulares de los órganos jurisdiccionales para el dictado de sus resoluciones en las controversias respectivas; y
 
@@ -3373,13 +3381,17 @@ VI.- Otorgar servicio de asesoría psicológica y talleres psicoeducativos dirig
 
 Adicionalmente a las funciones establecidas en el artículo anterior, otorgarán los siguientes servicios extraordinarios a los distintos órganos jurisdiccionales y administrativos del Poder Judicial del Estado de Tamaulipas:
 
-I.- Asistencia de menores o adolescentes para poder participar de manera efectiva en un proceso de justicia;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+I.- Asistencia de las niñas, niños o adolescentes para poder participar de manera efectiva en un proceso de justicia;
 
 II.- Designación de peritos en el desahogo de pruebas psicológicas;
 
 III.- Evaluaciones Psicológicas o Socioeconómicas y de entorno social que se requieran en asuntos de carácter penal y de justicia para adolescentes; y
 
-IV.- Servicios de convivencia y de entrega-recepción de menores en los asuntos que se ventilen en los Centros de mecanismos alternativos de solución de conflictos del Poder Judicial del Estado, cuando esa sea la solución para que las partes lleguen a un acuerdo voluntario respecto a las reglas de convivencia.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+IV.- Servicios de convivencia y de entrega-recepción de las niñas, niños y adolescentes en los asuntos que se ventilen en los Centros de mecanismos alternativos de solución de conflictos del Poder Judicial del Estado, cuando esa sea la solución para que las partes lleguen a un acuerdo voluntario respecto a las reglas de convivencia.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
@@ -4416,3 +4428,11 @@ P.O. 23 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
