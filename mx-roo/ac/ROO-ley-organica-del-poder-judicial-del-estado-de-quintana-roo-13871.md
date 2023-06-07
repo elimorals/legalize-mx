@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2021-12-22"
+last_updated: "2023-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -2853,29 +2853,43 @@ k) Si él, su cónyuge o alguno de sus expresados parientes sigue algún proceso
 
 l) Si es tutor de alguna de las personas participantes, o no han pasado tres años de haber sido.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 118 Bis.
 
-Para ser Juez de Primera Instancia se requiere:
+Para ser persona juzgadora de primera instancia se requiere:
 
-I. Ser ciudadano mexicano por nacimiento y ciudadano quintanarroense, en ejercicio de sus derechos políticos civiles;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+I. Tener la ciudadanía mexicana y quintanarroense, en ejercicio de sus derechos políticos civiles;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
 II. No tener menos de veintiocho años de edad el día de la designación;
 
-III. Poseer al día de su designación, con título profesional de Licenciado en Derecho y Cédula Profesional con una antigüedad mínima de cinco años, expedido por la autoridad o institución legalmente facultada para ello;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, peculado y cualquier otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+III. Poseer al día de su designación, título profesional de Licenciatura en Derecho y Cédula Profesional con una antigüedad minina de cinco años, expedido por la autoridad o institución legalmente facultada para ello;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+IV. Gozar de buena reputación, y no haber sido condenada por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, peculado y cualquier otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
 V. Haber residido en el Estado durante los diez años anteriores al día de la designación;
 
-VI. No pertenecer al Estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-VII. No haber sido Gobernador, Secretario de Despacho o su equivalente, Procurador General de Justicia, Senador, Diputado Federal o Local, ni Presidente Municipal, durante el año previo al día de su designación.
+VI. No pertenecer al Estado eclesiástico, ni ejercer el ministerio de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación, y
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-Los jueces de paz y de instrucción deberán reunir los mismos requisitos que se establecen para ser Juez de Primera Instancia, con excepción del título y de la cédula profesional que deberá tener una antigüedad mínima de cinco años al día de su nombramiento.
+VII. No haber sido titular del Poder Ejecutivo, Secretaría de Despacho o su equivalente, Fiscalía General, Senaduría, Diputación Federal o Local, ni Presidencia Municipal, durante el año previo al día de su designación.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+Las personas juzgadoras de paz y de instrucción deberán reunir los mismos requisitos que se establecen para ser persona juzgadora de primera Instancia, con excepción del título y de la cédula profesional que deberá tener una antigüedad mínima de cinco años al día de su nombramiento.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -4044,3 +4058,11 @@ SEGUNDO. Los procedimientos iniciados con anterioridad a la entrada en vigor de 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 CUARTO. Las personas titulares de las Magistraturas Unitarias para Adolescentes, así como de los Juzgados de Control para Adolescentes, los Juzgados para Adolescentes y Juzgados de Ejecución de Medidas para Adolescentes, que se encuentren en funciones a la entrada en vigor del presente decreto, continuarán en el ejercicio de sus cargos, en los mismos términos en que hubiesen sido designados.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 078 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS, EN MATERIA DE REQUISITOS PARA OCUPAR CARGOS PÚBLICOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
