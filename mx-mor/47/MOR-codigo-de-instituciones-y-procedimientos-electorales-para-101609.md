@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-instituciones-y-procedimientos-electorales-para-10160
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-30"
-last_updated: "2020-06-08"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "MOR"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el lunes 30 de junio de 2014.
 
@@ -53,27 +53,35 @@ CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS 
 
 ### CAPÍTULO ÚNICO. MARCO JURÍDICO
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 1. Este Código es de orden público y tiene por objeto regular la función estatal de preparación, desarrollo, vigilancia y calificación de los procesos electorales ordinarios y extraordinarios que se celebran para elegir Gobernador, Diputados al Congreso del Estado y miembros de los ayuntamientos."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 1.
 
-ESTE CÓDIGO ES DE ORDEN PÚBLICO Y TIENE POR OBJETO REGULAR LA FUNCIÓN ESTATAL DE PREPARACIÓN, DESARROLLO, VIGILANCIA Y CALIFICACIÓN DE LOS PROCESOS ELECTORALES ORDINARIOS Y EXTRAORDINARIOS QUE SE CELEBRAN PARA ELEGIR A LA PERSONA TITULAR DEL PODER EJECUTIVO ESTATAL Y DE LOS MUNICIPIOS EN NUESTRA ENTIDAD, ASÍ COMO A LOS INTEGRANTES DE CADA UNO DE LOS CABILDOS EN LOS MISMOS Y; A LAS Y LOS INTEGRANTES DEL PLENO DEL CONGRESO DEL ESTADO.
+Este Código es de orden público y tiene por objeto regular la función estatal de preparación, desarrollo, vigilancia y calificación de los procesos electorales ordinarios y extraordinarios que se celebran para elegir a la Gobernadora o Gobernador, Diputados y Diputadas, así como a los integrantes de cada uno de los miembros de los ayuntamientos.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Establece el marco jurídico que garantiza la efectividad del sufragio y, con ello, la vigencia de las instituciones republicanas y democráticas, a través del libre ejercicio de los derechos políticos de los ciudadanos; la realización, la organización, función y prerrogativas de los partidos políticos y las formas específicas de su intervención en los procesos electorales del Estado; así como la calificación de procedencia, organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación ciudadana; en armonización con la normativa aplicable."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
-
-ESTABLECE EL MARCO JURÍDICO QUE GARANTIZA LA EFECTIVIDAD DEL SUFRAGIO Y, CON ELLO, LA VIGENCIA DE LAS INSTITUCIONES REPUBLICANAS Y DEMOCRÁTICAS, A TRAVÉS DEL LIBRE EJERCICIO DE LOS DERECHOS POLÍTICOS DE LA CIUDADANÍA; LA REALIZACIÓN, LA ORGANIZACIÓN FUNCIÓN Y PRERROGATIVAS DE LOS PARTIDOS POLÍTICOS Y LAS FORMAS ESPECÍFICAS DE SU INTERVENCIÓN EN LOS PROCESOS ELECTORALES DEL ESTADO; ASÍ COMO LA CALIFICACIÓN DE PROCEDENCIA, ORGANIZACIÓN, DESARROLLO, CÓMPUTO Y DECLARACIÓN DE RESULTADOS DE LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA; EN ARMONIZACIÓN CON LA NORMATIVA APLICABLE.
+Establece el marco jurídico que garantiza la efectividad del sufragio y, con ello, la vigencia de las instituciones republicanas y democráticas, a través del libre ejercicio de los derechos políticos de la ciudadanía; la realización, la organización, función y prerrogativas de los partidos políticos y las formas específicas de su intervención en los procesos electorales del Estado; así como la calificación de procedencia, organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación ciudadana; en armonización con la normativa aplicable.
 
 La normativa federal se aplicará sin perjuicio de lo establecido en el presente Código.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+La interpretación de este Código será conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el segundo párrafo del artículo 1º, el último párrafo del artículo 14, y el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos.
 
-La interpretación de este Código será conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el segundo párrafo del artículo 1°, el último párrafo del artículo 14, y el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos.
+Las disposiciones de este código tienen como objeto reglamentar lo relativo a:
 
-Los casos no previstos en el presente Código serán atendidos conforme a lo dispuesto en la normativa, de acuerdo a los procesos y condiciones, cuando estos resulten compatibles, mediante determinación que emita el Consejo Estatal.
+I. El ejercicio de los derechos y el cumplimiento de las obligaciones político-electorales de las ciudadanas y ciudadanos, en condiciones de igualdad;
+
+II. La función estatal de organizar, desarrollar y vigilar los procesos electorales ordinarios o extraordinarios que se celebren para elegir Gobernador, diputados al Congreso e integrantes de los ayuntamientos de los municipios del régimen de partidos políticos y candidatos independientes;
+
+III. El reconocimiento, la salvaguarda y la garantía de las instituciones y prácticas democráticas de los municipios que electoralmente se rigen por sus sistemas normativos indígenas;
+
+IV. La organización, registro, función, derechos, prerrogativas, obligaciones, responsabilidades y sanciones de los partidos políticos locales;
+
+V. La organización y funcionamiento del Instituto Morelense de Procesos Electorales y Participación Ciudadana;
+
+VI. Los procedimientos administrativos sancionadores, de aquellas conductas que contravengan las disposiciones contenidas en la presente Ley, y
+
+VII. Las facultades de las autoridades electorales locales y sus relaciones con las autoridades del orden nacional, para el adecuado ejercicio de la función pública de organizar las elecciones.
+
+Los casos no previstos en el presente Código serán atendidos conforme a lo dispuesto en la normativa, de acuerdo a los procesos y condiciones, cuando estos resulten compatibles.. (sic)
 
 ###### Artículo 2.
 
@@ -93,75 +101,129 @@ La ciudadanía, los partidos políticos, los Poderes Ejecutivo y Legislativo y l
 
 Para los efectos del presente Código, se entenderá por:
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Candidatos Independientes, a los ciudadanos que una vez satisfechos los requisitos contenidos en la normativa, se les otorgue el registro respectivo, para tener, en lo que resulte aplicable, los derechos y obligaciones de los partidos políticos, ante las autoridades administrativas y jurisdiccionales locales;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+I. Adulto mayor, Persona de 60 años de edad o más;
 
-I. CANDIDATAS O CANDIDATOS INDEPENDIENTES, A LAS CIUDADANAS Y CIUDADANOS QUE UNA VEZ SATISFECHOS LOS REQUISITOS CONTENIDOS EN LA NORMATIVA, SE LES OTORGUE EL REGISTRO RESPECTIVO, PARA TENER, EN LO QUE RESULTE APLICABLE, LOS DERECHOS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS, ANTE LAS AUTORIDADES ADMINISTRATIVAS Y JURISDICCIONALES LOCALES;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Código, al Código de Instituciones y Procedimientos Electorales para el Estado de Morelos;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+II. Afrodescendientes, aquellas personas que, por sus usos, costumbres, cultura, cosmovisión, derivado de procesos identitarios y de identificación se autoadscriban como descendientes de la diáspora africana;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-II. CIUDADANAS O CIUDADANOS, CIUDADANÍA: LAS PERSONAS QUE TENIENDO LA CALIDAD DE MEXICANAS REÚNAN LOS REQUISITOS DETERMINADOS EN EL ARTÍCULO 34 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS;
+III. Asamblea General Comunitaria, es una de las autoridades de deliberación y toma de decisiones en los municipios y comunidades que se rigen por Sistemas Normativos Indígenas para elegir a sus autoridades o representantes; de acuerdo a sus prácticas tradicionales;
 
-III. Código, al Código de Instituciones y Procedimientos Electorales para el Estado de Morelos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-IV. Congreso, al Congreso del Estado de Morelos;
+IV. Autoadscripción calificada, condición basada en elementos objetivos, a fin de demostrar el vínculo de la persona que se postula a alguna candidatura, con la comunidad del distrito o municipio por el cual se postula;
 
-V. Consejo Estatal, al Consejo Estatal Electoral del Instituto Morelense de Procesos Electorales y Participación Ciudadana;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-VI. Constitución Federal, a la Constitución Política de los Estados Unidos Mexicanos;
+V. Bloques de competitividad, Segmentos calculados a partir de los resultados de votación válida emitida de la elección inmediata anterior, por medio del análisis de la capacidad de un partido político para competir respecto de uno u otro;
 
-VII. Constitución, a la Constitución Política del Estado Libre y Soberano de Morelos;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-VIII. Determinaciones, a los acuerdos y resoluciones del Consejo Estatal Electoral;
+VI. Ciudadanas o Ciudadanos, Ciudadanía, Las personas que teniendo la calidad de mexicanas reúnan los requisitos determinados en el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “IX. Instituto Morelense, al Instituto Morelense de Procesos Electorales y Participación Ciudadana;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+VII. Candidatos o candidatas Independientes, a los ciudadanos que una vez satisfechos los requisitos contenidos en la normativa, se les otorgue el registro respectivo, para tener, en lo que resulte aplicable, los derechos y obligaciones de los partidos políticos, ante las autoridades administrativas y jurisdiccionales locales;
 
-IX. TITULAR DEL PODER EJECUTIVO; AL GOBERNADOR O GOBERNADORA.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-X. Instituto Morelense, al Instituto Morelense de Procesos Electorales y Participación Ciudadana;
+VIII. Código, al Código de Instituciones y Procedimientos Electorales para el Estado de Morelos;
 
-XI. Instituto Nacional, al Instituto Nacional Electoral;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-XII. Mecanismos de participación ciudadana, a los previstos en la Ley de la materia;
+IX. Pueblo o Comunidad indígena, aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas. Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus sistemas normativos indígenas;
 
-XIII. Normativa, a la Constitución Federal, los Tratados Internacionales, la Constitución, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, los reglamentos, lineamientos, resoluciones, acuerdos y determinaciones que dicte el Instituto Nacional, de aplicación directa o complementaria en el actuar del Instituto Morelense;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-XIV. Órganos jurisdiccionales estatales, al Tribunal Electoral del Estado de Morelos, Tribunal de Justicia Administrativa del Estado de Morelos, al Tribunal Unitario de Justicia para Adolescentes y a los demás órganos que por virtud de la normativa federal y estatal conozcan de las controversias suscitadas en el ámbito de sus competencias;
+X. Consejo Estatal, al Consejo Estatal Electoral del Instituto Morelense de Procesos Electorales y Participación Ciudadana;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XV. Periódico Oficial, al Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, y"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+XI. Constitución Federal, a la Constitución Política de los Estados Unidos Mexicanos;
 
-XV. PARIDAD DE GÉNERO: IGUALDAD POLÍTICA ENTRE MUJERES Y HOMBRES, SE GARANTIZA CON LA ASIGNACIÓN DEL 50% MUJERES Y 50% HOMBRES EN CANDIDATURAS E INTEGRACIÓN EN CARGOS DE ELECCIÓN POPULAR EN EL CONGRESO DEL ESTADO Y EN LOS AYUNTAMIENTOS.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-XVI. Partidos políticos, a los Partidos Políticos Nacionales y Locales debidamente registrados ante el Instituto Nacional o ante el Instituto Morelense, según sea el caso;
+XII. Constitución, a la Constitución Política del Estado Libre y Soberano de Morelos;
 
-XVII. Periódico Oficial, al Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-XVIII. Tribunal Electoral, al Tribunal Electoral del Estado de Morelos.
+XIII. Determinaciones, a los acuerdos y resoluciones del Consejo Estatal Electoral;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XIV. Gobernador o Gobernadora, al Gobernador o Gobernadora Constitucional del Estado de Morelos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2023)</small>
+
+XV. Grupo vulnerable; Conjunto de personas que, al tener constantemente menores oportunidades y un acceso restringido a derechos, se encuentran en una situación de desventaja con respecto al resto de la sociedad, entendiéndose para los efectos de esta Ley, a las personas Jóvenes, de la comunidad LGBTI, con discapacidad, adultos mayores y afrodescendientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
+
+XVI. Instituto Nacional, al Instituto Nacional Electoral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2023)</small>
+
+XVII. Interseccionalidad, Es la categoría de análisis para referir los componentes que confluyen en un mismo caso (persona), multiplicando las desventajas y discriminaciones por pertenecer a más de un grupo en situación de vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XVIII. Joven, Persona que se encuentra en el rango etario en términos del artículo 3 fracción II de la Ley de Personas Adolescentes y Jóvenes en el Estado de Morelos, al momento del registro ante el Órgano Local y que cumpla los requisitos Constitucionales para ser electo a cargos de elección popular;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 7 DE JUNIO DE 2023)</small>
+
+XIX. LGBTI, Es un término general e inclusivo, que contempla a la gama de colectivos de la diversidad sexual, de género y características sexuales, compuestos por personas:
+
+I) Cuyas orientaciones sexuales difieren de la heterosexualidad;
+
+II) Sus identidades de género son distintas a la identidad de género asignada al nacer;
+
+III) O sus características sexuales físicas o anatómicas no se ajustan a los estándares binarios del sexo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
+
+XX. Normativa, a la Constitución Federal, los Tratados Internacionales, la Constitución, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, los reglamentos, lineamientos, resoluciones, acuerdos y determinaciones que dicte el Instituto Nacional, de aplicación directa o complementaria en el actuar del Instituto Morelense;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
+
+XXI. Órganos jurisdiccionales estatales, al Tribunal Electoral del Estado de Morelos, Tribunal de Justicia Administrativa del Estado de Morelos, al Tribunal Unitario de Justicia para Adolescentes y a los demás órganos que por virtud de la normativa federal y estatal conozcan de las controversias suscitadas en el ámbito de sus competencias;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XXII. Paridad de género, Principio Constitucional que garantiza la representación igualitaria entre hombres y mujeres en el acceso a puestos de elección popular;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
+
+XXIII. Periódico Oficial, al Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XXIV. Persona con Discapacidad, Incluyen a aquellas que tengan deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que, al interactuar con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XXV. Persona indígena, persona con conciencia de su identidad indígena, que forma parte de una comunidad indígena;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XXVI. Sistema Normativo Indígena, Es el conjunto de principios, normas orales o escritas, prácticas, instituciones, acuerdos y decisiones que los pueblos, municipios o comunidades indígenas reconocen como válidos y vigentes para la elección o nombramiento de sus autoridades y representantes, el ejercicio de sus formas propias de gobierno y la resolución de conflictos internos.
 
 ## TÍTULO SEGUNDO. DE LA PARTICIPACIÓN DE LOS CIUDADANOS EN LAS ELECCIONES
 
 ### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 5. El sufragio es un derecho y una obligación del ciudadano. El voto es universal, libre, secreto, directo, personal e intransferible. Queda prohibido todo acto de presión, inducción o coacción del voto, los cuales serán sancionados de conformidad a lo que establezca este Código y la normativa aplicable."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 5.
 
-EL SUFRAGIO ES UN DERECHO Y UNA OBLIGACIÓN DE LA CIUDADANÍA. EL VOTO ES UNIVERSAL, LIBRE, SECRETO, DIRECTO, PERSONAL E INTRANSFERIBLE. QUEDA PROHIBIDO TODO ACTO DE PRESIÓN, INDUCCIÓN O COACCIÓN DEL VOTO, LOS CUALES SERÁN SANCIONADOS DE CONFORMIDAD A LO QUE ESTABLEZCA ESTE CÓDIGO Y LA NORMATIVA APLICABLE.
+El sufragio es un derecho y una obligación de la ciudadanía. El voto es universal, libre, secreto, directo, personal e intransferible. Queda prohibido todo acto de presión, inducción o coacción del voto, los cuales serán sancionados de conformidad a lo que establezca este Código y la normativa aplicable.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los ciudadanos morelenses tendrán, de forma enunciativa más no limitativa, los siguientes derechos político-electorales:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2020)</small>
-
-LA CIUDADANÍA MORELENSE TENDRÁ, DE FORMA ENUNCIATIVA MÁS NO LIMITATIVA, LOS SIGUIENTES DERECHOS POLÍTICO-ELECTORALES:
+La ciudadanía morelense tendrá, de forma enunciativa más no limitativa, los siguientes derechos político-electorales:
 
 I. Votar en las elecciones populares y participar en los procesos de participación ciudadana a que se convoquen;
 
@@ -193,17 +255,13 @@ VI. PARTICIPAR COMO OBSERVADOR ELECTORAL EN LOS COMICIOS LOCALES;
 
 VII. PARTICIPAR EN LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+VIII. Se ejercerán libres de violencia política contra las mujeres en razón de género, y
 
-VIII. LOS DERECHOS POLÍTICO-ELECTORALES, SE EJERCERÁN LIBRES DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, Y
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-IX. LOS DERECHOS POLÍTICO-ELECTORALES DE LA CIUDADANÍA SE EJERCERÁN LIBRES DE TODA CLASE DE DISCRIMINACIÓN EN TÉRMINOS DEL ARTÍCULO PRIMERO CONSTITUCIONAL.
+IX. Los derechos político-electorales de la ciudadanía se ejercerán libres de toda clase de discriminación en términos del artículo primero constitucional.
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 6. Tendrán derecho a votar los ciudadanos morelenses que cuenten con credencial para votar con fotografía o, una resolución favorable del Tribunal Electoral del Poder Judicial de la Federación, y no se encuentren dentro de los supuestos siguientes:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -237,6 +295,22 @@ Los ciudadanos morelenses radicados en el extranjero podrán participar en la el
 
 Para el ejercicio de sus derechos políticos electorales, los ciudadanos y ciudadanas podrán asociarse individual y libremente en partidos políticos, en los términos establecidos en la Ley General de Partidos Políticos y este Código.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+###### Artículo 7 Bis.
+
+Se reconoce en esta ley, los sistemas normativos indígenas como medio de organización y libre determinación de los municipios y comunidades indígenas, para el ejercicio de los derechos y obligaciones de la ciudadanía en lo que respecta a la elección de sus autoridades municipales y comunitarias por el régimen de sistemas normativos indígenas, donde los practican.
+
+I. En los municipios, pueblos y comunidades indígenas que eligen a sus autoridades mediante sus sistemas normativos indígenas, los requisitos para el ejercicio del voto, los derechos y sus restricciones, así como las obligaciones de las y los ciudadanos, se harán conforme a sus normas, prácticas y tradiciones democráticas, de conformidad con los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y los tratados internacionales suscritos y ratificados por el Estado mexicano.
+
+II. En asuntos relacionados con los pueblos y comunidades indígenas, las autoridades competentes actuarán y emitirán sus determinaciones, de conformidad con los principios pro persona, progresividad, buena fe, justicia, respeto de los derechos humanos, no discriminación, buena gobernanza, igualdad de derechos, libre determinación y respeto a la diversidad cultural, en el marco del pluralismo jurídico, considerando los sistemas normativos indígenas, en un plano de igualdad con el sistema jurídico estatal;
+
+III. Se reconoce a la Asamblea General Comunitaria como una de las autoridades de deliberación y toma de decisiones en los municipios, pueblos y comunidades indígenas en donde sus Sistemas Normativos Indígenas lo establezcan para elegir a sus autoridades y representantes.
+
+IV. En donde sus Sistemas Normativos Indígenas lo establezcan, la Asamblea General Comunitaria se integra por ciudadanos y ciudadanas de una o más comunidades; este órgano puede sesionar de manera conjunta, es decir todas y todos los ciudadanos del municipio reunirse en la cabecera, o bien de manera separada en cada comunidad. Sus acuerdos serán plenamente válidos y deberán ser reconocidos y respetados por el Estado, siempre que no violen los derechos humanos de sus integrantes, establecidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y Tratados Internacionales. Se integra por los miembros de la comunidad, en condiciones de igualdad conforme a sus sistemas normativos indígenas, y
+
+V. El Estado reconoce los procesos democráticos establecidos o llevados a cabo en los pueblos o comunidades indígenas constituidos como municipios indígenas, de acuerdo a sus sistemas normativos indígenas, pero se procurará que en los nombramientos de sus autoridades municipales se definan con claridad las diversas funciones administrativas y de responsabilidad financiera, en un plano de igualdad a los ayuntamientos municipales electos por sistema de partidos políticos, bajo las reglas de fiscalización de los recursos públicos vigentes.
+
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 8. Es un derecho de los ciudadanos mexicanos poder participar como observadores electorales en términos de lo dispuesto en el artículo 217, numeral 1, inciso i), de la Ley General de Instituciones y Procedimientos Electorales y este Código."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
@@ -245,13 +319,11 @@ Para el ejercicio de sus derechos políticos electorales, los ciudadanos y ciuda
 
 Es un derecho de las ciudadanas y ciudadanos mexicanos poder participar como observadores electorales en términos de lo dispuesto en el artículo 217, numeral 1, inciso i), de la Ley General de Instituciones y Procedimientos Electorales y este Código.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 9. Son obligaciones político-electorales de los ciudadanos:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-SON OBLIGACIONES POLÍTICO-ELECTORALES DE LOS CIUDADANOS Y CIUDADANAS:
+Son obligaciones político-electorales de los ciudadanos:
 
 I. Inscribirse en el Registro Federal de Electores;
 
@@ -265,21 +337,15 @@ V. Verificar que su nombre aparezca en la lista nominal de electores;
 
 VI. Desempeñar los cargos de elección popular para los que sean electos;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+VII. Desempeñar gratuitamente las funciones electorales y de participación ciudadana para las que sean convocados o designados, salvo las que se realicen profesionalmente, mismas que serán retribuidas de conformidad al presupuesto de egresos autorizado al Instituto Morelense;
 
-VII. Desempeñar gratuitamente las funciones electorales y de participación ciudadana para las que sean convocados o designados, salvo las que se realicen profesionalmente, mismas que serán retribuidas de conformidad al presupuesto de egresos autorizado al Instituto Morelense, y
+VIII. Integrar las mesas directivas de casilla o mesa receptora del voto para el caso de los mecanismos de participación ciudadana en los términos de ley, y
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
-
-VIII. Integrar las mesas directivas de casilla o mesa receptora del voto para el caso de los mecanismos de participación ciudadana en los términos de ley.
+IX.- Asistir y participar en los procesos de elección de las autoridades municipales o comunitarias, representantes y candidatos indígenas, de acuerdo a sus sistemas normativos indígenas.
 
 Sólo podrán admitirse excusas dentro del término previsto en este ordenamiento y cuando estas se funden en causas justificadas, las que el interesado comprobará a satisfacción de la autoridad que haya hecho el requerimiento.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Será justificada la excusa del ciudadano, cuando haya sido designado representante de un partido político o candidato independiente, de una coalición o desempeñe cargo o función dentro de un organismo electoral o cuando sea candidato propietario o suplente a cargo de elección popular."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
-
-SERÁ JUSTIFICADA LA EXCUSA DEL CIUDADANO O CIUDADANA, CUANDO HAYA SIDO DESIGNADO REPRESENTANTE DE UN PARTIDO POLÍTICO O CANDIDATO INDEPENDIENTE, DE UNA COALICIÓN O DESEMPEÑE CARGO O FUNCIÓN DENTRO DE UN ORGANISMO ELECTORAL O CUANDO SEA CANDIDATO PROPIETARIO O SUPLENTE A CARGO DE ELECCIÓN POPULAR.
+Será justificada la excusa del ciudadano, cuando haya sido designado representante de un partido político o candidato independiente, de una coalición o desempeñe cargo o función dentro de un organismo electoral o cuando sea candidato propietario o suplente a cargo de elección popular.
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 10. Son causas de responsabilidad de los ciudadanos:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -335,6 +401,10 @@ El ejercicio del Poder Legislativo se deposita en una asamblea que se denomina C
 
 En la integración del Congreso, ningún partido político podrá contar con más de doce diputados por ambos principios.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+Los partidos políticos y las coaliciones deberán incluir en sus candidaturas para las diputaciones locales por mayoría relativa en los distritos que corresponda a personas reconocidas como indígenas, de acuerdo a lo establecido en este código.
+
 La elección consecutiva de los diputados propietarios a la Legislatura podrá ser hasta por cuatro periodos consecutivos.
 
 La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que los hubiere postulado salvo que hayan renunciado o perdido su militancia hasta antes de la mitad del término para el que fue electo.
@@ -357,39 +427,19 @@ Para la elección de las Diputaciones, además de los distritos electorales unin
 
 Las listas de representación proporcional que presenten los partidos políticos se integrarán por fórmulas de candidaturas compuestas cada una por un propietario y un suplente del mismo género. En cada lista se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada una de las listas. Posteriormente se intercalará la lista “A” y la “B”, para crear la lista definitiva en términos del presente Código.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 16. Para la asignación de diputados de representación proporcional se procederá conforme a los siguientes criterios y fórmula de asignación:
-
-I. Tendrán derecho a participar en la asignación de diputados de representación proporcional, los partidos políticos que habiendo registrado candidatos de mayoría relativa en cuando menos ocho distritos uninominales, hayan alcanzado por lo menos el cinco por ciento de la votación estatal efectiva.
-
-Ningún partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura, que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento, en todo caso, deberá observarse que ningún partido político sobrepase de doce diputados por ambos principios.
-
-II. Para tal efecto se entenderá como votación estatal emitida; los votos depositados en las urnas, y votación estatal efectiva; la que resulte de deducir de la votación estatal emitida, los votos nulos, los de candidatos no registrados.
-
-III. La asignación de diputados se realizará mediante la aplicación de una fórmula en la que se considerará el cociente natural y el resto mayor, en forma independiente a los triunfos en distritos de mayoría que se obtengan y en atención al orden que tuviesen los candidatos en las listas respectivas de cada partido político.
-
-IV. Para los efectos del presente Código, se entenderá por:
-
-a) Cociente Natural: Como el resultado de dividir la votación válida emitida, entre los ocho diputados de representación proporcional, y
-
-b) Resto Mayor: Como el remanente más alto, entre el resto de las votaciones de cada partido político, una vez hecha la distribución de diputaciones, mediante la aplicación del cociente natural. El resto mayor se utilizará, siguiendo el orden decreciente, cuando aún hubiese diputaciones por distribuir;
-
-V. La aplicación de la fórmula se desarrollará observando el siguiente procedimiento:
-
-a) Se asignará un diputado a cada uno de los partidos políticos que hayan alcanzado por lo menos el cinco por ciento de la votación válida emitida;
-
-b) En una segunda asignación, se distribuirán tantos diputados como veces contenga el cociente natural la votación obtenida por cada uno de los partidos políticos con derecho a ello;
-
-c) Si aún quedaren diputaciones por asignar, estas se repartirán en orden decreciente, atendiendo al resto mayor de cada partido político."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 16.
 
-Para la asignación de Diputadas y Diputados de representación proporcional se procederá respetando el principio de paridad de género, conforme a los siguientes criterios, fórmula de asignación, conceptos y principios:
+Para la asignación de diputaciones de representación proporcional se procederá conforme a los siguientes criterios y fórmula de asignación:
 
-I. Tendrán derecho a participar en la asignación de diputaciones de representación proporcional, los partidos políticos que por sí o en coalición registren candidaturas de mayoría relativa en cuando menos quince distritos uninominales y que, como partido político, hayan alcanzado por lo menos el cuatro por ciento de la votación estatal emitida.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-Ningún partido político podrá contar con un número de diputaciones por ambos principios que representen un porcentaje del total de la Legislatura, que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento, en todo caso, deberá observarse que ningún partido político sobrepase de dieciséis diputaciones por ambos principios.
+I. Tendrán derecho a participar partidos políticos que habiendo registrado candidatas o candidatos de mayoría relativa en cuando menos ocho distritos uninominales, hayan alcanzado por lo menos el tres por ciento de la votación estatal efectiva.
+
+Ningún partido político podrá contar con un número de diputaciones por ambos principios que representen un porcentaje del total de la Legislatura, que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento, en todo caso, deberá observarse que ningún partido político sobrepase de doce diputados por ambos principios.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 8 DE JUNIO DE 2020)</small>
 
 II. La aplicación de la fórmula se desarrollará observando el siguiente procedimiento:
 
@@ -399,63 +449,103 @@ b) En una segunda asignación, se distribuirán tantas diputaciones como veces c
 
 c) Si aún quedaren diputaciones por asignar, estas se repartirán en orden decreciente, atendiendo al resto mayor de cada partido político.
 
-III. Cociente natural: es el resultado de dividir la votación válida emitida entre el número de Diputaciones de representación proporcional por asignar, en los términos de este Código;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-IV. Cociente de distribución: Es el resultado de dividir la votación ajustada entre el número de Diputaciones de representación proporcional que quedan por asignar, una vez verificado el límite máximo de sobrerrepresentación, en los términos de este Código;
+III. La asignación de diputaciones se realizará mediante la aplicación de una fórmula en la que se considerará el cociente natural y el resto mayor, en forma independiente a los triunfos en distritos de mayoría que se obtengan y en atención al orden que tuviesen las candidatas o candidatos en las listas respectivas de cada partido político.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 7 DE JUNIO DE 2023)</small>
+
+IV. Para los efectos del presente Código, se entenderá por:
+
+a) Cociente Natural: Como el resultado de dividir la votación válida emitida, entre los (sic) ocho diputaciones de representación proporcional, y
+
+b) Resto Mayor: Como el remanente más alto, entre el resto de las votaciones de cada partido político, una vez hecha la distribución de diputaciones, mediante la aplicación del cociente natural. El resto mayor se utilizará, siguiendo el orden decreciente, cuando aún hubiese diputaciones por distribuir;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
 V. Lista "A": Relación de cuatro fórmulas de candidaturas a las diputaciones: propietario y suplente del mismo género, listados en orden de prelación alternando fórmulas de género distinto de manera sucesiva, a elegir por el principio de representación proporcional, de las cuales una deberá estar integrada por una fórmula de candidatura indígena;
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+a) Se asignará una diputación a cada uno de los partidos políticos que hayan alcanzado por lo menos el tres por ciento de la votación válida emitida;
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+b) En una segunda asignación, se distribuirán tantas diputaciones como veces contenga el cociente natural la votación obtenida por cada uno de los partidos políticos con derecho a ello;
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+c) Si aún quedaren diputaciones por asignar, estas se repartirán en orden decreciente, atendiendo al resto mayor de cada partido político;
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+d) Concluida la asignación total del número de diputaciones por el principio de representación proporcional a cada uno de los partidos políticos que superaron el tres por ciento de la votación válida emitida, se verificará si en el conjunto la integración total de la legislatura se encuentra distribuida paritariamente, es decir, cincuenta por ciento mujeres y cincuenta por ciento hombres, de no ser así, se deducirán tantas diputaciones electas por el principio de representación proporcional como sean necesarias para dar cabida a alcanzar la paridad de género, y se sustituirán por las fórmulas correspondientes. Para este fin, se alternará a los partidos políticos que hayan recibido diputaciones por el principio de representación proporcional, empezando por el partido que recibió el menor porcentaje de votación estatal emitida, y de ser necesario, continuando con el partido que haya recibido el segundo menor porcentaje de la votación estatal emitida, hasta alcanzar la paridad de género en el Congreso del Estado de Morelos, y
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+e) Para el caso de la asignación de una diputación de grupos vulnerables, se realizará el mismo ejercicio de verificar si en el conjunto del total de las diputaciones de representación proporcional, se encuentra incluida una fórmula de diputación asignada a personas pertenecientes a la categoría de grupos vulnerables, de no ser así, se hará el ajuste en la última curul de representación proporcional asignada al partido.
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
 VI. Lista "B": Relación de cuatro fórmulas de candidaturas a las diputaciones que no resultaron electos por el principio de mayoría relativa del distrito en que participaron, pero que alcanzaron a nivel distrital los mayores porcentajes de la votación local emitida, comparados respecto de otras fórmulas de su propio partido en esa misma elección; con la finalidad de garantizar la paridad de género, una vez que se determinó el primer lugar de ésta lista, el segundo lugar será ocupado por la fórmula del otro género con mayor porcentaje de la votación local emitida, e irán intercalando de esta manera hasta concluir la integración de la lista.
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
 VII. Lista Definitiva, es el resultado de intercalar las fórmulas de candidaturas de las Listas "A" y "B". La definición del orden de la lista definitiva integrada por candidaturas de la lista “A” o “B”, corresponde exclusivamente a las dirigencias de los partidos. Dicha lista se integrará una vez obtenida la votación válida emitida o la votación ajustada según sea el caso;
 
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
 VIII. Resto mayor: Es el remanente más alto entre los restos de las votaciones de cada partido, una vez hecha la distribución de espacios mediante cociente natural, el cual se utilizará cuando aún existan diputaciones por distribuir;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
 IX. Votación ajustada: es la que resulte de deducir de la votación válida emitida los votos a favor de los partidos políticos a los que se les dedujo Diputadas o Diputados de representación proporcional por rebasar el límite de sobrerrepresentación y por superar el techo de dieciséis Diputados por ambos principios;
 
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
 X. Votación total emitida: es la suma de todos los votos depositados en las urnas en la elección de Diputaciones en todas las urnas del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
 XI. Votación válida emitida: es la que resulte de deducir de la votación total emitida, los votos a favor de candidatos no registrados y los votos nulos. Servirá para determinar si los partidos políticos cumplen con el umbral de votación establecido en la Constitución;
 
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
 XII. Votación estatal emitida: es la que resulte de deducir de la votación válida emitida, la votación a favor de los candidatos sin partido y los votos a favor de los partidos políticos que no alcanzaron el umbral de la votación válida emitida;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
 XIII. Concluida la asignación total del número de diputaciones por el principio de representación proporcional a cada uno de los partidos políticos que superaron el cuatro por ciento de la votación válida emitida, se verificará si en conjunto con el total de Diputadas y Diputados electos se cumple con el principio de paridad en la integración del Congreso, y
 
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
 XIV. En caso de existir una integración de las diputaciones electas por ambos principios no paritaria, se deducirán tantas diputaciones electas por el principio de representación proporcional como sean necesarias del género sobrerrepresentado, y se sustituirán por las fórmulas del género subrepresentado, hasta agotar la lista.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 Para este fin, se alternará a los partidos políticos que hayan recibido diputaciones por el principio de representación proporcional, empezando por el partido que recibió el menor porcentaje de votación estatal emitida, y de ser necesario, continuando con el partido que haya recibido el segundo menor porcentaje de la votación estatal emitida y así sucesivamente en orden ascendente hasta cubrir la paridad.
 
 ### CAPÍTULO III. DE LA ELECCIÓN DE LOS AYUNTAMIENTOS
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 17. El municipio libre es la base de la división territorial y de la organización política y administrativa del Estado; estará gobernado por un ayuntamiento de elección popular directa, integrado por un Presidente Municipal y un Síndico, electos por el principio de mayoría relativa, y por regidores electos según el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
-Para las elecciones de los integrantes de los ayuntamientos se estará a lo dispuesto por la Constitución, la Ley General de Instituciones y Procedimientos Electorales, la Ley Orgánica Municipal del Estado de Morelos y el presente Código.
+###### Artículo 17.
+
+El municipio libre es la base de la división territorial y de la organización política y administrativa del Estado.
+
+Para las elecciones de los integrantes de los ayuntamientos se estará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, la Ley General de Instituciones y Procedimientos Electorales, la Ley Orgánica Municipal del Estado de Morelos y el presente Código.
+
+Los municipios que están bajo el régimen de partidos políticos y candidaturas independientes, estarán integrados por una Presidencia Municipal y una Sindicatura, electas por el principio de mayoría relativa, y por Regidurías electas por el principio de representación proporcional.
+
+En el registro de las candidaturas para las presidencias, Sindicaturas y Regidurías, deberán garantizarse el principio de paridad de género, así como las candidaturas indígenas que correspondan conforme lo establece este código.
+
+Los municipios indígenas, conforme a lo establecido por el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos y 2 Bis de la Constitución Política del Estado Libre y Soberano de Morelos, en ejercicio de su derecho a la autodeterminación y autonomía, decidirán libremente sus formas de convivencia y organización política y elegirán a sus autoridades y representantes conforme a sus sistemas normativos.
 
 La elección consecutiva para el cargo de presidentes municipales, síndicos y regidores de los Ayuntamientos será por un periodo adicional.
 
 La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubiere postulado, salvo que hayan renunciado o perdido su militancia hasta antes de cumplir la mitad del periodo para el que fueron electos.
 
-Los miembros de los Ayuntamientos que pretendan reelegirse deberán cumplir con los requisitos previstos en el artículo 117 de la Constitución Local y en el artículo 163 de este Código."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
-
-###### Artículo 17.
-
-El municipio libre es la base de la división territorial y de la organización política y administrativa del Estado; estará gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidencia Municipal y una Sindicatura, electas por el principio de mayoría relativa, y por Regidurías electas por el principio de representación proporcional.
-
-En el registro de las candidaturas para las Alcaldías, Sindicaturas y Regidurías, los partidos políticos deberán garantizar el principio de paridad de género.
-
-Las fórmulas de candidaturas deberán considerar suplentes del mismo género que la persona propietaria.
-
-La elección consecutiva para el cargo de titular en la Presidencia, Sindicatura y Regidurías de los Ayuntamientos será por un periodo adicional.
-
-La postulación deberá siempre privilegiar la paridad de género y sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubiere postulado, salvo que hayan renunciado o perdido su militancia hasta antes de la mitad del periodo por el que fueron electos.
-
-En el caso de las personas titulares de las Presidencias Municipales, Sindicaturas y Regidurías que hayan obtenido el triunfo registrados como candidaturas independientes, también podrán ser postuladas a la reelección por un partido político, siempre y cuando se afilie a éste hasta antes de la mitad del término para el que fue electo.
-
-Las y los integrantes de los Ayuntamientos que pretendan reelegirse deberán cumplir con los requisitos previstos en el artículo 117 de la Constitución Local y en el artículo 163 de este Código.
-
-En la elección e integración de los Ayuntamientos existirá la paridad de género tanto vertical como horizontal.
+Los miembros de los Ayuntamientos que pretendan reelegirse deberán cumplir con los requisitos previstos en el artículo 117 de la Constitución Local y en el artículo 163 de este Código.
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 18. La asignación de regidurías se sujetará a las siguientes reglas:
 
@@ -489,25 +579,61 @@ III. Al momento de realizar la asignación de regidurías, el Consejo Estatal ob
 
 IV. Ningún partido político podrá contar con más del sesenta por ciento de representación del total del Cabildo.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. ADICIONADO], P.O. 7 DE JUNIO DE 2023)</small>
+
+Al momento de realizar la asignación de regidurías, el Consejo Estatal observará las disposiciones establecidas por este Código, relativas a:
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+I) La sobre y subrepresentación, para ello se deberá observar la misma fórmula establecida para la asignación de diputaciones por el principio de representación proporcional;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 7 DE JUNIO DE 2023)</small>
+
+II) La integración paritaria de los Ayuntamientos, conforme las siguientes reglas:
+
+a) Asignadas las regidurías, se deberá garantizar que el Ayuntamiento se encuentre conformado por mujeres y hombres bajo el principio de paridad constitucional;
+
+b) En caso de no existir integración paritaria se sustituirán por tantas fórmulas sea necesario del género sobre representado, alternando a los partidos políticos que tengan asignadas regidurías, comenzando por el partido que recibió el menor porcentaje de votación, y de ser necesario, continuando con el partido que haya recibido el segundo menor porcentaje de la votación, hasta cubrir la paridad;
+
+c) En términos de lo anterior, si a un partido le corresponde una regiduría de un género sobrerrepresentado, tendrá que ser sustituido por uno del género sub representado para cumplir la paridad, pero en todos los casos dicha sustitución deberá provenir de la lista registrada por el partido político, respetando la prelación;
+
+> <small>(ADICIONADA [N. DE E. CON SU INCISO], P.O. 7 DE JUNIO DE 2023)</small>
+
+III) Garantizar la representación de las personas indígenas y grupos vulnerables de conformidad con los criterios establecidos por este código:
+
+a) Que el número de regidurías de personas con autoadscripción indígena, en cada uno de los municipios de conformidad con los porcentajes de población indígena, serán:
+
+- 3 regidurías indígenas: Cuautla, Cuernavaca, Tepoztlán, Tetela del Volcán, Tlalnepantla y Temoac;
+
+- 2 regidurías indígenas: Axochiapan, Ayala, Huitzilac, Jantetelco, Jiutepec, Jonacatepec de Leandro Valle, Tlayacapan, Totolapan, Xochitepec y Yautepec:
+
+- 1 regidurías indígenas: Amacuzac, Atlatlahucan, Coatlán del Río, Emiliano Zapata, Jojutla, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Tepalcingo, Tetecala, Tlaltizapán de Zapata, Tlaquiltenango, Yecapixtla, Zacatepec y Zacualpan de Amilpas.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+Se verificará que una vez integrado el cabildo conforme a la votación obtenida por los partidos políticos, se cumpla con el número de candidaturas indígenas respecto del total de (sic) municipio correspondiente, observando el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+En caso contrario se determinará cuantas candidaturas indígenas son necesarias para que se cumpla con el número que corresponde al municipio en cuestión y se sustituirán tantas formulas como sean necesarias para alcanzar dicho porcentaje. Para este fin, se alternarán a los partidos políticos que hayan recibido regidurías por el principio de representación proporcional, empezando por el partido que recibió el menor porcentaje de votación emitida, y de ser necesario continuando con el partido que haya recibido el segundo menor porcentaje de la votación emitida y así sucesivamente en el orden ascendente hasta cubrir las regidurías que correspondan a candidaturas indígenas.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+En términos de lo anterior, si a un partido se le deduce una regiduría asignada a una persona no indígena, tendrá que ser sustituida por una candidatura indígena, pero en todos los casos dicha sustitución deberá provenir de la lista donde haya sido deducida, respetando la prelación y la paridad de género.
+
 ### CAPÍTULO IV. DISPOSICIONES COMPLEMENTARIAS
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Artículo 19. Las elecciones ordinarias de Gobernador Constitucional del Estado, se celebrarán cada seis años, la de los Diputados del Congreso del Estado y la de los ayuntamientos cada tres años."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 19.
 
-LAS ELECCIONES ORDINARIAS DE GOBERNADOR O GOBERNADORA CONSTITUCIONAL DEL ESTADO, SE CELEBRARÁN CADA SEIS AÑOS, LA DE LOS DIPUTADOS O DIPUTADAS DEL CONGRESO DEL ESTADO Y LA DE LOS AYUNTAMIENTOS CADA TRES AÑOS.
+Las elecciones ordinarias de Gobernador Constitucional del Estado, se celebrarán cada seis años, la de los Diputados del Congreso del Estado y la de los ayuntamientos cada tres años.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+Las elecciones de los Poderes Legislativo y Ejecutivo, así como de los ayuntamientos que se rigen por el sistema de partidos y candidaturas independientes, se realizarán en las mismas fechas en que se efectúen las elecciones federales.
 
-Las elecciones de los Poderes Legislativo y Ejecutivo, así como de los ayuntamientos, se realizarán en las mismas fechas en que se efectúen las elecciones federales; se deberá integrar una casilla única de conformidad con lo dispuesto en este Código, la normativa y los acuerdos que emita el Consejo General del Instituto Nacional.
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+En los municipios Indígenas, los procesos electorales serán en las fechas que establezcan sus propios sistemas normativos indígenas, y serán reconocidos por el Estado, siempre y cuando no contravengan lo establecido en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Los mecanismos de participación ciudadana que se convoquen se podrán efectuar en cualquier tiempo, salvo aquellos que requieran llevarse a cabo en una jornada electoral de elecciones constitucionales, de conformidad con la normativa aplicable.
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 Las convocatorias a que hace alusión la fracción XXXIV del artículo 40 de la Constitución, se expedirán 30 días antes de la fecha de inicio del proceso electoral.
 
@@ -541,7 +667,17 @@ NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NA
 
 LOS PARTIDOS POLÍTICOS SON ENTIDADES DE INTERÉS PÚBLICO; SE RIGEN POR LA LEY GENERAL DE PARTIDOS POLÍTICOS, QUE DETERMINA LAS NORMAS Y REQUISITOS PARA SU REGISTRO, LAS FORMAS ESPECÍFICAS DE SU INTERVENCIÓN EN EL PROCESO ELECTORAL, ASÍ COMO LOS DERECHOS, OBLIGACIONES Y PRERROGATIVAS QUE LES CORRESPONDEN, RESULTANDO APLICABLE, EN LO CONDUCENTE, LO DISPUESTO POR ESTE CÓDIGO. TIENEN COMO FIN PROMOVER LA PARTICIPACIÓN DEL PUEBLO EN LA VIDA DEMOCRÁTICA, GARANTIZAR LA PARTICIPACIÓN PARITARIA EN LA INTEGRACIÓN DE SUS ÓRGANOS Y CONTRIBUIR A LA INTEGRACIÓN PARITARIA DE LOS ÓRGANOS DE REPRESENTACIÓN POLÍTICA Y COMO ORGANIZACIONES DE CIUDADANOS, HACER POSIBLE EL ACCESO DE ESTOS AL EJERCICIO DEL PODER PÚBLICO, DE ACUERDO CON LOS PROGRAMAS, PRINCIPIOS E IDEAS QUE POSTULEN Y MEDIANTE EL SUFRAGIO UNIVERSAL, LIBRE, SECRETO, DIRECTO, PERSONAL E INTRANSFERIBLE.
 
-Para los efectos de este Código, en tratándose de asuntos de partidos políticos, la interpretación deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus militantes, en términos de la normativa.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+Para los efectos de este Código, en tratándose de asuntos de partidos políticos, la interpretación deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos y ciudadanas, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus militantes, en términos de la normativa.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+De conformidad con lo dispuesto por el artículo 23, párrafo sexto de la Constitución Política del Estado Libre y Soberano de Morelos, en la determinación de los criterios que los partidos políticos realicen para garantizar la paridad de género de acuerdo con sus documentos básicos, deberán en todo momento respetar la paridad horizontal y vertical tratándose de planillas a miembros de los ayuntamientos, así como de candidatos de mayoría relativa al Congreso del Estado. En el caso de las fórmulas para diputaciones al Congreso del Estado por el principio de representación proporcional, el género que encabece la lista, se determinará conforme a los procesos internos de los partidos políticos, debiendo alternar las fórmulas con un género distinto para garantizar el principio de paridad hasta agotar la lista.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+Cada partido político de acuerdo a sus reglamentos y lineamientos establecidos en su vida interna, determinará los criterios para garantizar la postulación en las candidaturas de personas indígenas, y las pertenecientes a grupos vulnerables y asegurar las condiciones del párrafo anterior, bajo los principios de igualdad, no discriminación y progresividad.
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -657,7 +793,9 @@ a) El financiamiento público del Estado para el sostenimiento de sus actividade
 
 El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
 
-b) El financiamiento público del Estado por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE JUNIO DE 2023)</small>
+
+b) El financiamiento público del Estado por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. En este rubro, quedarán incluidas la capacitación, promoción y el desarrollo del liderazgo político de los grupos vulnerables y las personas indígenas.
 
 Las cantidades que, en su caso, se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente; cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas.
 
@@ -755,15 +893,9 @@ Se entiende por propaganda electoral el conjunto de escritos, publicaciones, im�
 
 Los partidos políticos durante sus precampañas y campañas político-electorales, podrán realizar actos de propaganda electoral sobre las siguientes bases:
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos y candidatos independientes deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-Para efectos de este Código se entenderá por artículos promocionales utilitarios aquellos que contengan imágenes, signos, emblemas y expresiones que tengan por objeto difundir la imagen y propuestas del partido político, coalición o candidato que lo distribuye.
-
-Los artículos promocionales utilitarios sólo podrán ser elaborados con material textil;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-I. TODA LA PROPAGANDA ELECTORAL IMPRESA DEBERÁ SER RECICLABLE, FABRICADA CON MATERIALES BIODEGRADABLES QUE NO CONTENGAN SUSTANCIAS TÓXICAS O NOCIVAS PARA LA SALUD O EL MEDIO AMBIENTE. LOS PARTIDOS POLÍTICOS, CANDIDATAS Y CANDIDATOS INDEPENDIENTES DEBERÁN PRESENTAR UN PLAN DE RECICLAJE DE LA PROPAGANDA QUE UTILIZARÁN DURANTE SU CAMPAÑA. PARA EFECTOS DE ESTE CÓDIGO SE ENTENDERÁ POR ARTÍCULOS PROMOCIONALES UTILITARIOS AQUELLOS QUE CONTENGAN IMÁGENES, SIGNOS, EMBLEMAS Y EXPRESIONES QUE TENGAN POR OBJETO DIFUNDIR LA IMAGEN Y PROPUESTAS DEL PARTIDO POLÍTICO, COALICIÓN O CANDIDATO QUE LO DISTRIBUYE. LOS ARTÍCULOS PROMOCIONALES UTILITARIOS SÓLO PODRÁN SER ELABORADOS CON MATERIAL TEXTIL;
+I. Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos, candidatas y candidatos independientes deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña. Para efectos de este Código se entenderá por artículos promocionales utilitarios aquellos que contengan imágenes, signos, emblemas y expresiones que tengan por objeto difundir la imagen y propuestas del partido político, coalición o candidato que lo distribuye. Los artículos promocionales utilitarios sólo podrán ser elaborados con material textil;
 
 II. No podrán pintar, fijar o colgar propaganda en:
 
@@ -803,17 +935,19 @@ VIII. La entrega de cualquier tipo de material que contenga propaganda política
 
 IX. DURANTE EL TIEMPO QUE COMPRENDAN LAS CAMPAÑAS ELECTORALES LOCALES Y HASTA LA CONCLUSIÓN DE LA RESPECTIVA JORNADA COMICIAL, DEBERÁ SUSPENDERSE LA DIFUSIÓN DE TODA PROPAGANDA GUBERNAMENTAL EN LOS MEDIOS DE COMUNICACIÓN SOCIAL ESTATAL Y MUNICIPAL.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia. Queda prohibida la propaganda política electoral que calumnie a las instituciones, los partidos o las personas. Las violaciones a lo dispuesto en el presente inciso serán sancionadas por las autoridades electorales competentes."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
-
-LAS ÚNICAS EXCEPCIONES A LO ANTERIOR SERÁN LAS CAMPAÑAS DE INFORMACIÓN DE LAS AUTORIDADES ELECTORALES, LAS RELATIVAS A SERVICIOS EDUCATIVOS Y DE SALUD, O LAS NECESARIAS PARA LA PROTECCIÓN CIVIL EN CASOS DE EMERGENCIA. QUEDA PROHIBIDA LA PROPAGANDA POLÍTICA ELECTORAL QUE CALUMNIE A LAS INSTITUCIONES, LOS PARTIDOS O LAS PERSONAS, DISCRIMINEN O CONSTITUYAN ACTOS DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO. DISCRIMINEN O CONSTITUYAN ACTOS DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO (SIC). LAS VIOLACIONES A LO DISPUESTO EN EL PRESENTE INCISO SERÁN SANCIONADAS POR LAS AUTORIDADES ELECTORALES COMPETENTES.
+Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia. Queda prohibida la propaganda política electoral que calumnie a las instituciones, los partidos o las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género. Las violaciones a lo dispuesto en el presente inciso serán sancionadas por las autoridades electorales competentes.
 
 Los servidores públicos del Estado y los municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos a su disposición, sin afectar la igualdad de oportunidades de los partidos políticos y candidatos independientes.
 
 La propaganda bajo cualquier modalidad de comunicación social, de acciones, programas, políticas públicas, obras, servicios y campañas de todo tipo que emprendan los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente público de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
 Las leyes en los respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+En los procesos electorales mediante sistemas normativos indígenas y de acuerdo a sus usos y costumbres, se respetarán las formas, reglas, mecanismos de difusión, uso de sus medios de comunicación en su lengua materna y espacios destinados a la propaganda electoral que acuerden en asamblea general comunitaria.
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 40. Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1125,21 +1259,25 @@ c) Las demás que se establezcan en las leyes del Estado.
 
 El Consejo Estatal tendrá la atribución de delegar la función de oficialía electoral.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
+
 ###### Artículo 65.
 
 Son fines del Instituto Morelense, los siguientes:
 
 I. Contribuir al desarrollo de la vida democrática y coadyuvar en la promoción y difusión de la cultura política;
 
-II. Consolidar el régimen de partidos políticos;
+II. Consolidar el régimen de partidos políticos y la participación electoral de las candidaturas independientes;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+III. Garantizar a los ciudadanos el ejercicio de los derechos político-electorales y vigilar el cumplimiento de sus obligaciones;
 
-III. Garantizar a los ciudadanos el ejercicio de los derechos político electorales y vigilar el cumplimiento de sus obligaciones;
+IV. Garantizar a los pueblos y comunidades indígenas el ejercicio de su derecho a la autodeterminación y autonomía para decidir sus formas internas de convivencia, organización política y elección de sus autoridades o representantes, en los términos de sus Sistemas Normativos Indígenas y de lo establecido por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos;
 
-IV. Asegurar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo y Ejecutivo y de los ayuntamientos del Estado y, en su caso, los procesos de participación ciudadana, y
+V. Asegurar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo y Ejecutivo y de los ayuntamientos del Estado y, en su caso, los procesos de participación ciudadana, y
 
-V. Promover la participación ciudadana en la emisión del sufragio y velar por la autenticidad y efectividad del mismo.
+VI. Promover la participación ciudadana en la emisión del sufragio y velar por la autenticidad y efectividad del mismo.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 66.
 
@@ -1149,61 +1287,41 @@ I. Aplicar las disposiciones generales, reglas, lineamientos, criterios y format
 
 II. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y candidatos;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+III. Garantizar la ministración oportuna del financiamiento público a que tienen derechos (sic) los partidos políticos nacionales y locales y, en su caso, a los candidatos independientes, en la Entidad;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+IV. Desarrollar y ejecutar los programas de educación cívica en el Estado;
 
-III. VIGILAR QUE LOS PARTIDOS POLÍTICOS GARANTICEN A LA CIUDADANÍA INDÍGENA SU PARTICIPACIÓN EN LOS PROCESOS DE SELECCIÓN INTERNO DE CANDIDATURAS A CARGO DE ELECCIÓN POPULAR DE DIPUTADOS Y DIPUTADAS, Y LOS AYUNTAMIENTOS, A TRAVÉS DEL SISTEMA DE PARTIDOS POLÍTICOS, RESPETANDO SUS TRADICIONES, USOS Y COSTUMBRES, ATENDIENDO AL CRITERIO DE PERTENENCIA A LA COMUNIDAD O PUEBLO INDÍGENA Y OBSERVANDO EL PRINCIPIO DE PARIDAD DE GÉNERO.
+V. Orientar a los ciudadanos en la Entidad para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
 
-PARA TAL EFECTO, DEBERÁ ALLEGARSE DE INFORMACIÓN VERAZ Y OBJETIVA, GENERANDO LOS PROCEDIMIENTOS IDÓNEOS QUE LE PERMITAN OBTENER CUALQUIER DATO TRASCENDENTAL EN TORNO A LOS USOS Y COSTUMBRES QUE RIGEN EN DETERMINADA COMUNIDAD CON POBLACIÓN PREDOMINANTEMENTE INDÍGENA, MISMA QUE DEBERÁ ENTREGAR A LOS PARTIDOS POLÍTICOS CON LA DEBIDA OPORTUNIDAD. PODRÁ APOYARSE, EN INSTITUCIONES PÚBLICAS O PRIVADAS QUE CUENTEN CON INFORMACIÓN SOBRE EL TEMA;
+VI. Llevar a cabo las actividades necesarias para la preparación de la jornada electoral;
 
-IV. Garantizar la ministración oportuna del financiamiento público a que tienen derechos (sic) los partidos políticos nacionales y locales y, en su caso, a los candidatos independientes, en la Entidad;
+VII. Imprimir los documentos y producir los materiales electorales, en términos de los lineamientos que al efecto emita el Instituto Nacional;
 
-V. Desarrollar y ejecutar los programas de educación cívica en el Estado;
+VIII. Efectuar el escrutinio y cómputo total de las elecciones que se lleven a cabo en el Estado, con base en los resultados consignados en las actas de cómputos distritales y municipales;
 
-VI. Orientar a los ciudadanos en la Entidad para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
+IX. Expedir las constancias de mayoría y declarar la validez de la elección a los candidatos que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de representación proporcional de la Legislatura, conforme al cómputo y declaración de validez que efectúe el propio Instituto Morelense;
 
-VII. Llevar a cabo las actividades necesarias para la preparación de la jornada electoral;
+X. Efectuar el cómputo de la elección de Gobernador;
 
-VIII. Imprimir los documentos y producir los materiales electorales, en términos de los lineamientos que al efecto emita el Instituto Nacional;
+XI. Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la Entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional;
 
-IX. Efectuar el escrutinio y cómputo total de las elecciones que se lleven a cabo en el Estado, con base en los resultados consignados en las actas de cómputos distritales y municipales;
+XII. Verificar el cumplimiento de los criterios generales que emita el Instituto Nacional en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en la entidad de que se trate;
 
-X. Expedir las constancias de mayoría y declarar la validez de la elección a los candidatos que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de representación proporcional de la Legislatura, conforme al cómputo y declaración de validez que efectúe el propio Instituto Morelense;
+XIII. Desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en el Estado, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
 
-XI. Efectuar el cómputo de la elección de Gobernador;
+XIV. Ordenar la realización de conteos rápidos basados en las actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral, de conformidad con los lineamientos emitidos por el Instituto Nacional;
 
-XII. Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la Entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional;
+XV. Calificar la procedencia, organizar, desarrollar, y realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana;
 
-XIII. Verificar el cumplimiento de los criterios generales que emita el Instituto Nacional en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en la entidad de que se trate;
+XVI. Supervisar las actividades que realicen los órganos distritales y municipales, durante el proceso electoral;
 
-XIV. Desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en el Estado, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
+XVII. Informar a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, sobre el ejercicio de las funciones que le hubiera delegado el Instituto Nacional, conforme a lo previsto por la Ley General de Instituciones y Procedimientos Electorales y demás disposiciones que emita el Consejo General del Instituto Nacional;
 
-XV. Ordenar la realización de conteos rápidos basados en las actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral, de conformidad con los lineamientos emitidos por el Instituto Nacional;
+XVIII. Promover el acceso al pleno ejercicio de los derechos político-electorales libres de violencia política por razón de género y de discriminación;
 
-XVI. Calificar la procedencia, organizar, desarrollar, y realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana;
+XIX. Fomentar que los partidos políticos garanticen a las personas indígenas su participación en los procesos de selección interna de candidaturas a cargo de elección popular de Diputados y Diputadas, y de integrantes de los Ayuntamientos, por el sistema de partidos políticos, así como, en todo momento respeten los Sistemas Normativos Indígenas, las tradiciones y prácticas comunitarias, y
 
-XVII. Supervisar las actividades que realicen los órganos distritales y municipales, durante el proceso electoral;
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XVIII. Las demás que determine la Ley General de Instituciones y Procedimientos Electorales y aquéllas no reservadas al Instituto Nacional, que establezca este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-XVIII. INFORMAR A LA UNIDAD TÉCNICA DE VINCULACIÓN CON LOS ORGANISMOS PÚBLICOS LOCALES, SOBRE EL EJERCICIO DE LAS FUNCIONES QUE LE HUBIERA DELEGADO EL INSTITUTO NACIONAL, CONFORME A LO PREVISTO POR LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y DEMÁS DISPOSICIONES QUE EMITA EL CONSEJO GENERAL DEL INSTITUTO NACIONAL;
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-XIX. GARANTIZAR A LA CIUDADANÍA SU ACCESO AL PLENO EJERCICIO DE LOS DERECHOS POLÍTICO ELECTORALES LIBRES DE VIOLENCIA POLÍTICA POR RAZÓN DE GÉNERO Y DE DISCRIMINACIÓN;
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-XX. GARANTIZAR EL CUMPLIMIENTO DEL PRINCIPIO DE PARIDAD DE GÉNERO Y EL RESPETO A LOS DERECHOS POLÍTICOS ELECTORALES, Y
-
-XXI. Las demás que determine la Ley General de Instituciones y Procedimientos Electorales y aquéllas no reservadas al Instituto Nacional, que establezca este Código.
+XX. Las demás que determine la Ley General de Instituciones y Procedimientos Electorales y aquéllas no reservadas al Instituto Nacional, que establezca este Código.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -1307,37 +1425,27 @@ IX. PARA EL MONITOREO DE LOS MEDIOS DE COMUNICACIÓN, PUDIENDO ACORDAR ENTRE OTR
 
 EL CONSEJO ESTATAL ES EL ÓRGANO DE DIRECCIÓN SUPERIOR Y DELIBERACIÓN DEL INSTITUTO MORELENSE Y RESPONSABLE DE VIGILAR EL CUMPLIMIENTO DE LAS DISPOSICIONES CONSTITUCIONALES Y LEGALES EN MATERIA ELECTORAL Y SE INTEGRA POR:
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Un Consejero Presidente;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+I. Una Consejera o Consejero Presidente;
 
-I. UNA CONSEJERA O CONSEJERO PRESIDENTE;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Seis Consejeros Electorales;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+II. Las y los Seis Consejeras y Consejeros Electorales;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-II. LAS Y LOS SEIS CONSEJERAS Y CONSEJEROS ELECTORALES;
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III. Un Secretario Ejecutivo, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-III. UNA SECRETARIA O SECRETARIO EJECUTIVO, Y
+III. Una Secretaria o Secretario Ejecutivo, y
 
 IV. Un representante por cada partido político con registro o coalición.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Todos los integrantes del Consejo Estatal Electoral tendrán derecho a voz, pero sólo el Consejero Presidente y los Consejeros Electorales tendrán derecho a voz y voto.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+Todos los integrantes del Consejo Estatal Electoral tendrán derecho a voz, pero sólo la o el Consejero Presidente, y las y los Consejeros Electorales tendrán derecho a voz y voto.
 
-TODOS LOS INTEGRANTES DEL CONSEJO ESTATAL ELECTORAL TENDRÁN DERECHO A VOZ, PERO SÓLO LA O EL CONSEJERO PRESIDENTE, Y LAS Y LOS CONSEJEROS ELECTORALES TENDRÁN DERECHO A VOZ Y VOTO.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE JUNIO DE 2023)</small>
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los partidos políticos designarán un representante propietario y un suplente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
-
-LOS PARTIDOS POLÍTICOS DESIGNARÁN UNA O UN REPRESENTANTE PROPIETARIO Y UN SUPLENTE.
+Los partidos políticos designarán una o un representante propietario y un suplente.
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 72. El Consejero Presidente y los Consejeros Electorales del Instituto Morelense serán designados por el Consejo General del Instituto Nacional, por un periodo de siete años, de conformidad a lo estipulado en la Constitución Federal y la Ley General de Instituciones y Procedimientos Electorales."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1437,7 +1545,7 @@ III. UNANIMIDAD, LA APROBACIÓN EMITIDA POR LA TOTALIDAD DE LOS INTEGRANTES DEL 
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DEL CONSEJO ESTATAL ELECTORAL
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 78.
 
@@ -1449,19 +1557,11 @@ II. Fijar las políticas del Instituto Morelense y aprobar su estructura, las di
 
 III. Expedir los reglamentos y lineamientos necesarios para el cumplimiento de sus atribuciones;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “IV. Designar y remover al Secretario Ejecutivo, a los Directores Ejecutivos y, en su caso, a los encargados de despacho, a propuesta de la mayoría simple de los consejeros electorales del Consejo Estatal, con la aprobación calificada de los Consejeros Electorales;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-IV. DESIGNAR Y REMOVER A LA O EL SECRETARIO EJECUTIVO, A LAS O LOS DIRECTORES EJECUTIVOS Y, EN SU CASO, A LOS ENCARGADOS DE DESPACHO, A PROPUESTA DE LA MAYORÍA SIMPLE DE LOS INTEGRANTES DEL CONSEJO ESTATAL ELECTORAL, CON LA APROBACIÓN CALIFICADA DE LOS INTEGRANTES DEL CONSEJO ELECTORAL;
+IV. Designar y remover al Secretario Ejecutivo, a los Directores Ejecutivos y, en su caso, a los encargados de despacho, a propuesta de la mayoría simple de los consejeros electorales del Consejo Estatal, con la aprobación calificada de los Consejeros Electorales;
 
 V. Cuidar la debida integración, instalación y funcionamiento de los consejos distritales y municipales electorales;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VI. Designar y remover al Consejero Presidente, a los Consejeros Electorales y al Secretario de los consejos distritales y municipales, a propuesta de la Comisión Ejecutiva de Organización y Partidos Políticos, con la aprobación de mayoría calificada de los Consejeros Electorales;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-VI. DESIGNAR Y REMOVER A LA O EL CONSEJERO PRESIDENTE, A LAS Y LOS CONSEJEROS ELECTORALES Y A LA O EL SECRETARIO DE LOS CONSEJOS DISTRITALES Y MUNICIPALES, A PROPUESTA DE LA COMISIÓN EJECUTIVA DE ORGANIZACIÓN Y PARTIDOS POLÍTICOS, CON LA APROBACIÓN DE MAYORÍA CALIFICADA DE LOS INTEGRANTES DEL CONSEJO ELECTORAL;
+VI. Designar y remover al Consejero Presidente, a los Consejeros Electorales y al Secretario de los consejos distritales y municipales, a propuesta de la Comisión Ejecutiva de Organización y Partidos Políticos, con la aprobación de mayoría calificada de los Consejeros Electorales;
 
 VII. Convocar a los partidos políticos para que nombren a sus representantes, propietarios y suplentes, ante estas instancias;
 
@@ -1501,113 +1601,67 @@ XXIV. Aprobar el modelo y los formatos de la documentación, materiales electora
 
 XXV. Recabar de los consejos electorales distritales, municipales, así como de las comisiones y direcciones, los informes y certificaciones que estime necesarios por estar relacionados con el proceso electoral;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XXVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XXVI. Recibir y resolver sobre las solicitudes de registro que le formulen los ciudadanos que deseen constituirse en partido político estatal; así como sobre la cancelación o pérdida, en su caso, del registro que se otorgue;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-XXVI. RECIBIR Y RESOLVER SOBRE LAS SOLICITUDES DE REGISTRO QUE LE FORMULEN LA CIUDADANÍA QUE DESEEN CONSTITUIRSE EN PARTIDO POLÍTICO ESTATAL; ASÍ COMO SOBRE LA CANCELACIÓN O PÉRDIDA, EN SU CASO, DEL REGISTRO QUE SE OTORGUE;
+XXVI. Recibir y resolver sobre las solicitudes de registro que le formulen los ciudadanos que deseen constituirse en partido político estatal; así como sobre la cancelación o pérdida, en su caso, del registro que se otorgue;
 
 XXVII. Recibir, revisar, aprobar, registrar y publicar los convenios que se celebren entre los partidos políticos en materia de coaliciones o candidaturas comunes, así como de frentes o fusiones en los casos de partidos políticos locales;
 
 XXVIII. Registrar y publicar por una sola vez, la plataforma electoral que por cada proceso electoral deben presentar los partidos políticos, coaliciones o candidatos independientes en los términos de este Código;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XXIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XXIX. Registrar las candidaturas a Gobernador, a Diputados de mayoría relativa al Congreso, las listas de asignación de los candidatos a Diputados por el principio de representación proporcional y, en su caso, registrar supletoriamente las candidaturas a Diputados por principio de mayoría relativa, así como a miembros de los ayuntamientos;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+XXIX. Registrar las candidaturas a Gobernador, a Diputados de mayoría relativa al Congreso, las listas de asignación de los candidatos a Diputados por el principio de representación proporcional y, en su caso, registrar supletoriamente las candidaturas a Diputados por principio de mayoría relativa, así como a miembros de los ayuntamientos;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+XXX. Coadyuvar, cuando así le sea solicitado de acuerdo a sus sistemas normativos indígenas o por la Asamblea General Comunitaria correspondiente, en la preparación, desarrollo y vigilancia de los procesos de elección en los municipios del Estado que eligen a sus autoridades bajo sus Sistemas Normativos Indígenas;
 
-XXIX. REGISTRAR LAS CANDIDATURAS A GOBERNADOR O GOBERNADORA, A DIPUTADOS Y DIPUTADAS DE MAYORÍA RELATIVA AL CONGRESO, LAS LISTAS DE ASIGNACIÓN DE LAS Y LOS CANDIDATOS A DIPUTADOS Y DIPUTADAS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y, EN SU CASO, REGISTRAR SUPLETORIAMENTE LAS CANDIDATURAS A DIPUTADOS Y DIPUTADAS POR PRINCIPIO DE MAYORÍA RELATIVA, ASÍ COMO A MIEMBROS DE LOS AYUNTAMIENTOS;
+XXXI. Resolver sobre la sustitución de candidatos;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XXX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XXX. Resolver sobre la sustitución de candidatos;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+XXXII. Registrar a los representantes de los partidos políticos, coaliciones y candidatos independientes ante el programa de resultados electorales preliminares y ante el conteo rápido, en su caso;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+XXXIII. Promover y organizar los debates públicos entre candidatos, previa solicitud de los partidos políticos en los términos establecidos en la Ley General de Instituciones y Procedimientos Electorales;
 
-XXX. RESOLVER SOBRE LA SUSTITUCIÓN DE LAS CANDIDATURAS;
+XXXIV. Proveer lo necesario a fin de que los funcionarios de casilla, así como los representantes de partido, reciban alimentación durante el día de la elección, desde su apertura hasta su cierre;
 
-XXXI. Registrar a los representantes de los partidos políticos, coaliciones y candidatos independientes ante el programa de resultados electorales preliminares y ante el conteo rápido, en su caso;
+XXXV. Implementar y operar el programa de resultados preliminares de las elecciones locales de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional, así como los conteos rápidos que se aprueben;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XXXII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XXXII. Promover y organizar los debates públicos entre candidatos, previa solicitud de los partidos políticos en los términos establecidos en la Ley General de Instituciones y Procedimientos Electorales;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+XXXVI. Recibir de los Consejos Distritales Electorales el cómputo de la elección de Gobernador y Diputados de mayoría relativa para realizar el cómputo total, declarar la validez de la elección, determinar la distribución y asignación de diputados plurinominales y otorgar las constancias respectivas;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+XXXVII. Recibir de los Consejos Municipales Electorales el cómputo de la elección de miembros de los ayuntamientos, distribuir y asignar regidurías, otorgando las constancias respectivas;
 
-XXXII. PROMOVER Y ORGANIZAR LOS DEBATES PÚBLICOS ENTRE CANDIDATOS Y CANDIDATAS, PREVIA SOLICITUD DE LOS PARTIDOS POLÍTICOS EN LOS TÉRMINOS ESTABLECIDOS EN LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES;
+XXXVIII. Realizar los cómputos totales, declarar la validez de las elecciones y determinar la distribución de los diputados plurinominales y la asignación de regidores, otorgando en todos los casos las constancias respectivas;
 
-XXXIII. Proveer lo necesario a fin de que los funcionarios de casilla, así como los representantes de partido, reciban alimentación durante el día de la elección, desde su apertura hasta su cierre;
+XXXIX. Organizar, desarrollar, realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana, en los términos que determine el Consejo Estatal, las normas de la materia y el presente Código;
 
-XXXIV. Implementar y operar el programa de resultados preliminares de las elecciones locales de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional, así como los conteos rápidos que se aprueben;
+XL. Calificar la procedencia, organizar, desarrollar, realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana, en los términos que determine el Consejo Estatal, las normas de la materia y el presente Código;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XXXV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XXXV. Recibir de los Consejos Distritales Electorales el cómputo de la elección de Gobernador y Diputados de mayoría relativa para realizar el cómputo total, declarar la validez de la elección, determinar la distribución y asignación de diputados plurinominales y otorgar las constancias respectivas;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+XLI. Vigilar y supervisar el cumplimiento de las obligaciones que la legislación federal y estatal impone a los servidores públicos, a las asociaciones y partidos políticos y a los ciudadanos en materia de obligaciones político electorales;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+XLII. Investigar por los medios legales a su alcance, hechos que afecten de manera relevante los derechos de los partidos políticos o el proceso electoral ordinario o extraordinario y los que denuncien los partidos políticos por actos violatorios de las autoridades o de otros partidos, en contra de su propaganda, candidatos o miembros y, en su caso, dar cuenta de los hechos, omisiones o ilícitos a las autoridades competentes;
 
-XXXV. RECIBIR DE LOS CONSEJOS DISTRITALES ELECTORALES EL CÓMPUTO DE LA ELECCIÓN DE GOBERNADOR O GOBERNADORA, DIPUTADOS Y DIPUTADAS DE MAYORÍA RELATIVA PARA REALIZAR EL CÓMPUTO TOTAL, DECLARAR LA VALIDEZ DE LA ELECCIÓN, DETERMINAR LA DISTRIBUCIÓN Y ASIGNACIÓN (SIC) DIPUTACIONES PLURINOMINALES Y OTORGAR LAS CONSTANCIAS RESPECTIVAS;
+XLIII. Resolver los recursos administrativos de su competencia;
 
-XXXVI. Recibir de los Consejos Municipales Electorales el cómputo de la elección de miembros de los ayuntamientos, distribuir y asignar regidurías, otorgando las constancias respectivas;
+XLIV. Conocer de las infracciones y, en su caso, imponer las sanciones que correspondan en los términos de ley;
 
-XXXVII. Realizar los cómputos totales, declarar la validez de las elecciones y determinar la distribución de los diputados plurinominales y la asignación de regidores, otorgando en todos los casos las constancias respectivas;
+XLV. Dictar todas las resoluciones que sean necesarias para hacer efectivas las disposiciones normativas en el ámbito de su competencia;
 
-XXXVIII. Organizar, desarrollar, realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana, en los términos que determine el Consejo Estatal, las normas de la materia y el presente Código;
+XLVI. Implementar y fomentar permanentemente la educación democrática, con cursos de capacitación dirigidos a servidores públicos del Instituto Morelense y, en general, a ciudadanos, jóvenes y niños del Estado;
 
-XXXIX. Calificar la procedencia, organizar, desarrollar, realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana, en los términos que determine el Consejo Estatal, las normas de la materia y el presente Código;
+XLVII. Vigilar el correcto funcionamiento de los procedimientos de recuentos parciales o totales de votos, llevados por los consejos municipales y distritales en los casos previstos por este Código;
 
-XL. Vigilar y supervisar el cumplimiento de las obligaciones que la legislación federal y estatal impone a los servidores públicos, a las asociaciones y partidos políticos y a los ciudadanos en materia de obligaciones político electorales;
+XLVIII. Dictar los acuerdos necesarios para el debido cumplimiento de los reglamentos, lineamientos y acuerdos que emita el Consejo General del Instituto Nacional;
 
-XLI. Investigar por los medios legales a su alcance, hechos que afecten de manera relevante los derechos de los partidos políticos o el proceso electoral ordinario o extraordinario y los que denuncien los partidos políticos por actos violatorios de las autoridades o de otros partidos, en contra de su propaganda, candidatos o miembros y, en su caso, dar cuenta de los hechos, omisiones o ilícitos a las autoridades competentes;
+XLIX. Determinar lo conducente respecto a los informes que se rindan al Instituto Nacional;
 
-XLII. Resolver los recursos administrativos de su competencia;
+L. Aprobar y requerir informes respecto a los programas de educación cívica que proponga e implemente la Comisión de Capacitación, Educación Cívica y Participación Ciudadana que generen las áreas ejecutivas, para promover la cultura cívica y de participación ciudadana entre los servidores públicos del Instituto Morelense y, en general, entre los ciudadanos, jóvenes y niños del Estado;
 
-XLIII. Conocer de las infracciones y, en su caso, imponer las sanciones que correspondan en los términos de ley;
+LI. Asumir directamente por causa justificada, la realización de los cómputos municipales o distritales en los términos previstos por este ordenamiento;
 
-XLIV. Dictar todas las resoluciones que sean necesarias para hacer efectivas las disposiciones normativas en el ámbito de su competencia;
+LII. Aprobar los acuerdos y los informes necesarios para el debido cumplimiento de la normatividad que emita el Consejo General del Instituto Nacional;
 
-XLV. Implementar y fomentar permanentemente la educación democrática, con cursos de capacitación dirigidos a servidores públicos del Instituto Morelense y, en general, a ciudadanos, jóvenes y niños del Estado;
+LIII. Requerir, en su caso, a las autoridades estatales y municipales que correspondan para que dentro del término de veinticuatro horas siguientes a la petición, remitan la información que obre en sus archivos para verificar la correcta expedición de la constancia de residencia para efectos de registro de candidaturas respecto a la veracidad debiendo, en su caso, remitir el expediente aperturado en términos de lo dispuesto por los artículos 184 de este Código y 7 bis de la Ley Orgánica Municipal del Estado de Morelos, a petición expresa de cuando menos tres integrantes del Consejo Estatal, denunciando cuando corresponda los hechos, omisiones o ilícitos que pudieran encontrar a las autoridades competentes;
 
-XLVI. Vigilar el correcto funcionamiento de los procedimientos de recuentos parciales o totales de votos, llevados por los consejos municipales y distritales en los casos previstos por este Código;
+LIV. Observar y hacer cumplir las normas y procedimientos relativos al Servicio Profesional Electoral, así como atender los requerimientos que en esa materia le haga el Instituto Nacional Electoral;
 
-XLVII. Dictar los acuerdos necesarios para el debido cumplimiento de los reglamentos, lineamientos y acuerdos que emita el Consejo General del Instituto Nacional;
+LV. Presentar un informe sobre cada proceso electoral, dentro de los seis meses siguientes a la conclusión de este, y
 
-XLVIII. Determinar lo conducente respecto a los informes que se rindan al Instituto Nacional;
-
-XLIX. Aprobar y requerir informes respecto a los programas de educación cívica que proponga e implemente la Comisión de Capacitación, Educación Cívica y Participación Ciudadana que generen las áreas ejecutivas, para promover la cultura cívica y de participación ciudadana entre los servidores públicos del Instituto Morelense y, en general, entre los ciudadanos, jóvenes y niños del Estado;
-
-L. Asumir directamente por causa justificada, la realización de los cómputos municipales o distritales en los términos previstos por este ordenamiento;
-
-LI. Aprobar los acuerdos y los informes necesarios para el debido cumplimiento de la normatividad que emita el Consejo General del Instituto Nacional;
-
-LII. Requerir, en su caso, a las autoridades estatales y municipales que correspondan para que dentro del término de veinticuatro horas siguientes a la petición, remitan la información que obre en sus archivos para verificar la correcta expedición de la constancia de residencia para efectos de registro de candidaturas respecto a la veracidad debiendo, en su caso, remitir el expediente aperturado en términos de lo dispuesto por los artículos 184 de este Código y 7 bis de la Ley Orgánica Municipal del Estado de Morelos, a petición expresa de cuando menos tres integrantes del Consejo Estatal, denunciando cuando corresponda los hechos, omisiones o ilícitos que pudieran encontrar a las autoridades competentes;
-
-LIII. Observar y hacer cumplir las normas y procedimientos relativos al Servicio Profesional Electoral, así como atender los requerimientos que en esa materia le haga el Instituto Nacional Electoral;
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN LIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “LIV. Presentar un informe sobre cada proceso electoral, dentro de los seis meses siguientes a la conclusión de este, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-LIV. PRESENTAR UN INFORME SOBRE CADA PROCESO ELECTORAL, DENTRO DE LOS SEIS MESES SIGUIENTES A LA CONCLUSIÓN DE ESTE;
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN LV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-LV. GARANTIZAR LA PARIDAD DE GÉNERO Y EL RESPETO DE LOS DERECHOS HUMANOS DE LAS MUJERES EN EL ÁMBITO POLÍTICO Y ELECTORAL:
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN LVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-LVI. VIGILAR QUE LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS, CANDIDATOS Y CANDIDATAS, PREVENGAN, ATIENDAN Y ERRADIQUEN LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO;
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN LVII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-LVII. PRESENTAR UN INFORME SOBRE CADA PROCESO ELECTORAL, DENTRO DE LOS SEIS MESES SIGUIENTES A LA CONCLUSIÓN DE ESTE;
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN LVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-LVIII. ORDENAR, A PROPUESTA MOTIVADA Y FUNDADA DE LA COMISIÓN EJECUTIVA DE QUEJAS, LA SUSPENSIÓN INMEDIATA DE CUALQUIER PROPAGANDA POLÍTICA O ELECTORAL, DIFUNDIDA EN RADIO O TELEVISIÓN LOCAL, QUE RESULTE VIOLATORIA DE ESTA LEY, O BIEN CUANDO EN CUYOS CONTENIDOS SE IDENTIFIQUE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO. LO ANTERIOR, SIN PERJUICIO DE LAS DEMÁS SANCIONES QUE DEBAN APLICARSE A LAS PERSONAS INFRACTORAS, Y
-
-LIX. Las demás que le confiere este Código y otras disposiciones legales.
+LVI. Las demás que le confiere este Código y otras disposiciones legales.
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 79. Son atribuciones del Consejero Presidente del Instituto Morelense, las siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1783,6 +1837,14 @@ X. De Imagen y Medios de Comunicación; y,
 
 XI. De Fortalecimiento de la Igualdad de Género y No Discriminación en la Participación Política.
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XII. De Pueblos y Comunidades Indígenas;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XIII. De Grupos Vulnerables.
+
 Cuando exista Acuerdo Delegatorio del Instituto Nacional, se establecerá una Comisión de Fiscalización, que asumirá las funciones contenidas en la normativa aplicable.
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 84. Las comisiones ejecutivas permanentes y temporales se integrarán únicamente por tres Consejeros Electorales. Por mayoría calificada de votos, el pleno del Consejo Estatal determinará quién las presidirá. El titular de la Dirección Ejecutiva o unidad técnica correspondiente realizará la función de secretario técnico de la misma y el Secretario Ejecutivo coadyuvará en las actividades de las secretarías técnicas de las comisiones.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
@@ -1817,11 +1879,13 @@ La o el Secretario Ejecutivo y las y los Directores Ejecutivos prestarán el apo
 
 Las comisiones, para su eficiente desempeño, podrán contar con el personal operativo que autorice el Consejo Estatal de conformidad a la asignación presupuestal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 88.
 
-Las sesiones de las comisiones serán públicas y podrán participar con derecho a voz los representantes de los partidos políticos, excepto tratándose de las comisiones ejecutivas de fiscalización, asuntos jurídicos, quejas y la de seguimiento del servicio profesional electoral, en las que no podrán participar. Para el caso de la Comisión de Participación Ciudadana, por acuerdo de la misma, se podrán invitar a los actores políticos y sociales relacionados con la materia.
+Las sesiones de las comisiones serán públicas y podrán participar con derecho a voz los representantes de los partidos políticos, excepto tratándose de las comisiones ejecutivas de fiscalización, asuntos jurídicos, quejas, y la de seguimiento del servicio profesional electoral, en las que no podrán participar.
+
+Para el caso de las Comisiones de Participación Ciudadana y la de Pueblos y Comunidades Indígenas, por acuerdo de las mismas se podrán invitar a los actores políticos y sociales relacionados con la materia.
 
 En todos los asuntos que les encomienden, las comisiones deberán presentar un informe, dictamen o proyecto de resolución según sea el caso.
 
@@ -2211,6 +2275,62 @@ XV. CAPACITAR AL PERSONAL DEL INSTITUTO PARA PREVENIR, ATENDER Y ERRADICAR LA VI
 
 XVI. Las demás que se señalen en este Código, y en la normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+###### Articulo 91 Ter.
+
+La Comisión de Pueblos y Comunidades Indígenas tendrá las siguientes atribuciones:
+
+I. Aprobar, supervisar y evaluar el cumplimiento de los programas, proyectos y actividades referente a Pueblos y Comunidades indígenas.
+
+II. Emitir sugerencias encaminadas a la optimización de los programas y proyectos aprobados para la Dirección Ejecutiva;
+
+III. Analizar la viabilidad de implementar programas y proyectos adicionales al programa anual de actividades de la Dirección Ejecutiva en función de la disponibilidad presupuestal;
+
+IV. Presentar al Consejo el Dictamen o, en su caso, el informe de los asuntos que conozca;
+
+V. Promover, que el Instituto tutele y proteja los derechos político-electorales de las personas, comunidades y pueblos indígenas, dentro del marco de sus funciones y atribuciones;
+
+VI. Impulsar las acciones, competencia del Instituto, relativas a la difusión, promoción y formación en materia de derechos humanos de las personas, pueblos y comunidades indígenas;
+
+VII. Impulsar los procesos institucionales que favorecen la participación y representación política de las personas, pueblos y comunidades indígenas;
+
+VIII. Opinar sobre las publicaciones institucionales en materia de derechos humanos político-electorales de las personas, pueblos y comunidades indígenas;
+
+IX. Impulsar la implementación de los mecanismos que favorecen una cultura institucional incluyente, no discriminatoria y no clasista en el Instituto;
+
+X. Impulsar el desarrollo de proyectos de investigación y estudios sobre la materia;
+
+XI. Aprobar la estrategia de difusión en medios de comunicación de campañas de sensibilización sobre la cultura y los derechos político-electorales de las personas, pueblos y comunidades indígenas, así como, la prevención de conductas que constituyen violencia política electoral por razones étnicas;
+
+XII. Impulsar y dar seguimiento a las actividades de vinculación para la suscripción de convenios relacionados con la participación política efectiva de la población indígena, así como con la prevención de la violencia política por razones étnicas, y
+
+XIII. Las demás que se señalen en este Código, y en la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+###### Articulo 91 Quater.
+
+La Comisión de Grupos Vulnerables tendrá las siguientes atribuciones:
+
+I. Realizar todas sus atribuciones conforme a los principios de igualdad, no discriminación, inclusión y progresividad;
+
+II. Proponer al Consejo los Manuales, Reglamentos, y Lineamientos necesarios para que el Instituto cumpla con los principios indicados en la fracción anterior a favor de los grupos vulnerables;
+
+III. Revisar que en todas las actividades y tareas del Instituto se respeten los principios indicados en la fracción primera de forma transversal;
+
+IV. Supervisar que en los procesos institucionales se favorezca la participación de los grupos vulnerables para obtener sus opiniones y propuestas;
+
+V. Revisar que en las actividades y tareas institucionales que vayan a tener efectos directos hacia uno o varios grupos vulnerables, exista la participación y consulta de estos grupos;
+
+VI. Evaluar y opinar sobre publicaciones institucionales relacionadas con los grupos vulnerables, verificando que no se contraríe el lenguaje incluyente y no genere discriminación por recrear estereotipos o prejuicios;
+
+VII. Revisar que en el marco jurídico estatal, la participación en la vida pública y política de los grupos vulnerables esté garantizada, y emita opiniones al respecto;
+
+VIII. Proponer el uso de Lengua de Señas Mexicana, Sistema Braille, ajustes razonables, textos en lectura fácil, en todas las publicaciones y actividades institucionales, para su fácil comprensión de los grupos vulnerables; y
+
+IX. Las demás que se le asignen en este Código y normatividad aplicable.
+
 ###### Artículo 92.
 
 La Comisión de Fiscalización, cuando el Instituto Nacional delegue la fiscalización de los ingresos y egresos de los partidos políticos y candidatos al Instituto Morelense, tendrá a su cargo la revisión de los informes anuales de precampaña y campaña de los partidos políticos, así como la vigilancia del origen y destino de los recursos públicos y privados que les son entregados durante los períodos ordinarios y electorales y se deberá sujetar a lo previsto por la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, los lineamientos, los acuerdos generales, las normas técnicas y demás disposiciones que emita el Consejo General del Instituto Nacional.
@@ -2531,17 +2651,17 @@ XVIII. Las demás que le confiera este Código, el Consejero Presidente, el Cons
 
 Son atribuciones de la Dirección Ejecutiva de Capacitación Electoral, Educación Cívica y Participación Ciudadana las siguientes:
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "I. Elaborar y proponer al Consejo Estatal los programas de educación cívica y participación ciudadana, los cuales deberán estar contenidos en su programa anual de actividades, mismos que previamente deberán contar con la aprobación de las Comisiones Ejecutivas de Capacitación Electoral y Educación Cívica, y la de Participación Ciudadana;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-I. ELABORAR Y PROPONER AL CONSEJO ESTATAL LOS PROGRAMAS DE EDUCACIÓN CÍVICA, PARIDAD DE GÉNERO, RESPETO A LOS DERECHOS HUMANOS DE LAS MUJERES EN EL ÁMBITO POLÍTICO Y PARTICIPACIÓN CIUDADANA, LOS CUALES DEBERÁN ESTAR CONTENIDOS EN SU PROGRAMA ANUAL DE ACTIVIDADES, MISMOS QUE PREVIAMENTE DEBERÁN CONTAR CON LA APROBACIÓN DE LAS COMISIONES EJECUTIVAS DE CAPACITACIÓN ELECTORAL Y EDUCACIÓN CÍVICA, Y LA DE PARTICIPACIÓN CIUDADANA;
+I. Elaborar y proponer al Consejo Estatal los programas de educación cívica y participación ciudadana, Pueblos y Comunidades Indígenas, y la de Grupos Vulnerables, los cuales deberán estar contenidos en su programa anual de actividades, mismos que previamente deberán contar con la aprobación de las Comisiones Ejecutivas de Capacitación Electoral, Educación Cívica y Participación Ciudadana, Pueblos y Comunidades Indígenas, y la de Grupos Vulnerables.
 
 II. Elaborar y proponer al Consejo Estatal previa aprobación de la Comisión Ejecutiva de Capacitación Electoral y Educación Cívica los programas de capacitación electoral que desarrollen los órganos del Instituto Morelense, los cuales deberán estar contenidos en su programa anual de actividades; en el caso de los relativos a los funcionarios de la mesa directiva de casilla cuando esta función sea delegada al Instituto Morelense, estos programas deberán apegarse a lo señalado por el Instituto Nacional;
 
 III. Coordinar, vigilar y ejecutar el cumplimiento de los programas a que se refiere (sic) las fracciones I y II del presente artículo;
 
-IV. Preparar el material didáctico y los instructivos electorales y para los procesos de participación ciudadana, mismos que deberán contar con la aprobación de las Comisiones Ejecutivas de Capacitación Electoral y Educación Cívica, y la de Participación Ciudadana;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+IV. Preparar el material didáctico y los instructivos para los procesos electorales, de participación ciudadana, de consulta indígena y de grupos vulnerables, mismos que deberán contar con la aprobación de las Comisiones Ejecutivas de Capacitación Electoral, Educación Cívica y Participación Ciudadana;
 
 V. Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
 
@@ -2563,7 +2683,39 @@ XIII. Elaborar en coordinación con la Dirección Ejecutiva de Organización y P
 
 XIV. Elaborar los materiales, manuales e instructivos de educación y capacitación correspondientes a los mecanismos de participación ciudadana, y
 
-XV. Las demás que le confiera este Código, el Consejero Presidente, el Consejo Estatal, así como la comisión ejecutiva respectiva.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XV. Promover el fortalecimiento y respeto de los sistemas normativos de los pueblos indígenas para la elección de sus autoridades o representantes;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XVI. Promover que todos los asuntos y controversias se resuelvan con base en los sistemas normativos indígenas de municipios, pueblos y comunidades indígenas, o en su caso, recurrir a otras instancias jurisdiccionales;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XVII. Llevar el libro de registro de los municipios, pueblos y comunidades indígenas y autoridades que las integran, que electoralmente se rigen por sistemas normativos indígenas;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XVIII. Recopilar y organizar la información relacionada con las reglas indígenas, o en su caso, los estatutos electorales comunitarios de los municipios, pueblos y comunidades que electoralmente se rigen por sistemas normativos indígenas;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XIX. Proporcionar orientación, cuando le sea solicitada por las instancias comunitarias competentes, para la elaboración de los estatutos electorales comunitarios indígenas;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XX. Recabar con oportunidad la información relativa a la fecha, hora y lugar de la celebración del acto de renovación de autoridades, que se renuevan mediante sus sistemas normativos indígenas;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XXI. Coadyuvar, cuando sea solicitado por la Asamblea General Comunitaria correspondiente, en la preparación, desarrollo y vigilancia de los procesos de elección en los municipios del Estado que eligen a sus autoridades bajo sus Sistemas Normativos Indígenas, bajo los principios de la multiculturalidad y libre determinación establecidos en la legislación nacional e internacional;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XXII. Proporcionar al Consejo Estatal la información necesaria sobre los procesos electorales y de participación ciudadana, respecto de los grupos en situación de vulnerabilidad (sic) participen en igualdad de condiciones que el resto de la población, con el propósito de que aplique ajustes razonables, ayudas técnicas, y las condiciones de accesibilidad universal disponibles para dicho efecto, bajo los principios de igualdad, no discriminación y progresividad, y
+
+XXIII. Las demás que le confiera este Código, el Consejero Presidente, el Consejo Estatal, así como la comisión ejecutiva respectiva.
 
 ###### Artículo 102.
 
@@ -2795,27 +2947,35 @@ I. Vigilar la observancia de éste Código y demás disposiciones relativas.
 
 II. Preparar y desarrollar el proceso electoral, en el ámbito de su competencia;
 
-III. Registrar a los candidatos a Diputados de mayoría relativa;
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-IV. Informar, al menos dos veces al mes, al Instituto Morelense, de todos los asuntos de su competencia y el resultado del proceso electoral;
+III. Recibir y verificar las solicitudes de registro y los documentos anexos a éstas, de las candidaturas a diputaciones de mayoría relativa, presentadas por partidos políticos, coaliciones y candidaturas independientes.
 
-V. Acatar los acuerdos que dicte el Consejo Estatal;
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-VI. Registrar los nombramientos ante el consejo de los representantes de los partidos políticos, de los candidatos independientes y de coalición, en los formatos aprobados por el Consejo Estatal;
+IV. Verificar que las solicitudes de candidaturas indígenas tengan anexa el acta original o copia certificada de Asamblea General Comunitaria o el documento por la autoridad facultada para ello y en su caso lo que establezcan sus Sistemas Normativos Indígenas;
 
-VII. Supervisar las actividades del personal administrativo eventual, para el cumplimiento de sus funciones;
+V. Registrar a los candidatos a Diputados de mayoría relativa;
 
-VIII. Resolver sobre las peticiones y consultas que sometan a su consideración los candidatos, los partidos políticos y coaliciones, en el ámbito de su competencia;
+VI. Informar, al menos dos veces al mes, al Instituto Morelense, de todos los asuntos de su competencia y el resultado del proceso electoral;
 
-IX. Realizar el cómputo de la elección de Diputados por el principio de mayoría relativa y entregar las constancias de mayoría relativa a los candidatos triunfadores;
+VII. Acatar los acuerdos que dicte el Consejo Estatal;
 
-X. Realizar el cómputo de la elección de Gobernador en el Distrito y remitir los resultados con los expedientes respectivos al Consejo Estatal;
+VIII. Registrar los nombramientos ante el consejo de los representantes de los partidos políticos, de los candidatos independientes y de coalición, en los formatos aprobados por el Consejo Estatal;
 
-XI. Remitir de inmediato al Tribunal Electoral, los recursos de inconformidad que interpongan los partidos políticos, candidatos independientes y coaliciones; informando al Consejo Estatal;
+IX. Supervisar las actividades del personal administrativo eventual, para el cumplimiento de sus funciones;
 
-XII. Realizar los recuentos parciales o totales de votos en los casos previstos por la normativa aplicable, y
+X. Resolver sobre las peticiones y consultas que sometan a su consideración los candidatos, los partidos políticos y coaliciones, en el ámbito de su competencia;
 
-XIII. Las demás que este ordenamiento les confiere o le asigne el Consejo Estatal.
+XI. Realizar el cómputo de la elección de Diputados por el principio de mayoría relativa y entregar las constancias de mayoría relativa a los candidatos triunfadores;
+
+XII. Realizar el cómputo de la elección de Gobernador en el Distrito y remitir los resultados con los expedientes respectivos al Consejo Estatal;
+
+XIII. Remitir de inmediato al Tribunal Electoral, los recursos de inconformidad que interpongan los partidos políticos, candidatos independientes y coaliciones; informando al Consejo Estatal;
+
+XIV. Realizar los recuentos parciales o totales de votos en los casos previstos por la normativa aplicable, y
+
+XV. Las demás que este ordenamiento les confiere o le asigne el Consejo Estatal.
 
 ###### Artículo 110.
 
@@ -2823,31 +2983,39 @@ Compete a los Consejos Municipales Electorales:
 
 I. Las disposiciones establecidas en la (sic) fracciones I y II del artículo anterior;
 
-II. Registrar los candidatos a integrantes del ayuntamiento respectivo;
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-III. Difundir la ubicación de las mesas directivas de casilla, junto con la integración de las mismas;
+II. Recibir y verificar las solicitudes de registro y los documentos anexos a éstas, de las candidaturas a integrantes del ayuntamiento respectivo, presentadas por partidos políticos, coaliciones y candidaturas independientes.
 
-IV. Informar, al menos dos veces al mes, al Instituto Morelense, de todos los asuntos de su competencia y el resultado del proceso electoral;
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-V. Acatar los acuerdos que dicte el Consejo Estatal;
+III. Verificar que las solicitudes de candidaturas indígenas cumplan con lo determinado en los artículos 183 y 184 de este código y tengan anexa el acta original o copia certificada de Asamblea General Comunitaria o el documento por la autoridad facultada para ello y en su caso lo que establezcan sus Sistemas Normativos Indígenas;
 
-VI. Supervisar al personal administrativo eventual que coadyuve en las tareas del proceso electoral;
+IV. Registrar los candidatos a integrantes del ayuntamiento respectivo;
 
-VII. Registrar los nombramientos ante el consejo de los representantes de los partidos políticos, de los candidatos independientes y de coalición en los formatos aprobados por el Consejo Estatal;
+V. Difundir la ubicación de las mesas directivas de casilla, junto con la integración de las mismas;
 
-VIII. Entregar, en su caso, dentro de los plazos que establezca el Código, a los presidentes de las mesas directivas de casillas la documentación, formas aprobadas y útiles necesarios para el cumplimiento de sus funciones;
+VI. Informar, al menos dos veces al mes, al Instituto Morelense, de todos los asuntos de su competencia y el resultado del proceso electoral;
 
-IX. Realizar el cómputo de la elección de ayuntamientos por el principio de mayoría relativa y entregar las constancias respectivas, remitiendo al Consejo Estatal, los cómputos con los expedientes respectivos para la asignación de regidores y la entrega de constancias respectivas;
+VII. Acatar los acuerdos que dicte el Consejo Estatal;
 
-X. Resolver sobre las peticiones y consultas que sometan a su consideración los candidatos, los partidos políticos y coaliciones relativas a la integración y funcionamiento de las mesas directivas de casilla, al desarrollo del proceso electoral y demás asuntos de su competencia;
+VIII. Supervisar al personal administrativo eventual que coadyuve en las tareas del proceso electoral;
 
-XI. Remitir de inmediato al Tribunal Electoral, los recursos que interpongan los partidos políticos, candidatos independientes y coaliciones que sean de su competencia; informando al Consejo Estatal;
+IX. Registrar los nombramientos ante el consejo de los representantes de los partidos políticos, de los candidatos independientes y de coalición en los formatos aprobados por el Consejo Estatal;
 
-XII. Asumir las atribuciones de los consejos distritales, en aquellos municipios cuya cabecera sea además cabecera de distrito, en tanto éste no se instale;
+X. Entregar, en su caso, dentro de los plazos que establezca el Código, a los presidentes de las mesas directivas de casillas la documentación, formas aprobadas y útiles necesarios para el cumplimiento de sus funciones;
 
-XIII. Realizar los recuentos parciales o totales de votos en los casos previstos por la normativa de la materia, y
+XI. Realizar el cómputo de la elección de ayuntamientos por el principio de mayoría relativa y entregar las constancias respectivas, remitiendo al Consejo Estatal, los cómputos con los expedientes respectivos para la asignación de regidores y la entrega de constancias respectivas;
 
-XIV. Las demás que este ordenamiento les confiere o le asigne el Consejo Estatal.
+XII. Resolver sobre las peticiones y consultas que sometan a su consideración los candidatos, los partidos políticos y coaliciones relativas a la integración y funcionamiento de las mesas directivas de casilla, al desarrollo del proceso electoral y demás asuntos de su competencia;
+
+XIII. Remitir de inmediato al Tribunal Electoral, los recursos que interpongan los partidos políticos, candidatos independientes y coaliciones que sean de su competencia; informando al Consejo Estatal;
+
+XIV. Asumir las atribuciones de los consejos distritales, en aquellos municipios cuya cabecera sea además cabecera de distrito, en tanto éste no se instale;
+
+XV. Realizar los recuentos parciales o totales de votos en los casos previstos por la normativa de la materia, y
+
+XVI. Las demás que este ordenamiento les confiere o le asigne el Consejo Estatal.
 
 ###### Artículo 111.
 
@@ -3213,6 +3381,8 @@ LA O EL MAGISTRADO PRESIDENTE ORDENARÁ QUE SE PUBLIQUE EN LOS ESTRADOS FÍSICOS
 
 Este órgano jurisdiccional no estará adscrito al Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
+
 ###### Artículo 137.
 
 El Tribunal Electoral del Estado de Morelos es el órgano público que, en términos de la Constitución, se erige como la máxima autoridad jurisdiccional en materia electoral en el Estado y tiene competencia para:
@@ -3235,37 +3405,15 @@ VIII. Resolver las diferencias o conflictos laborales que surjan entre el Instit
 
 IX. Dictar resolución respecto de los recursos que se interpongan con motivo de la realización de los procesos de participación ciudadana;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+X. Dictar resolución respecto de los recursos que interpongan personas, comunidades, pueblos y municipios que se rigen por sus sistemas normativos indígenas, considerando sus derechos a la autodeterminación y autonomía establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y los Convenios Internacionales de los que México es parte.
 
-X. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño;
+XI. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XI. Conocer del juicio que se promueva por violaciones al derecho de ser votado, en su vertiente de acceso y desempeño del cargo. Las controversias vinculadas con la probable violación al derecho de los servidores públicos, de elección popular, de recibir las remuneraciones que en derecho les correspondan por el desempeño de un encargo de elección popular, cuando el periodo de su ejercicio ya ha concluido, serán competencia del Tribunal de Justicia Administrativa del Estado de Morelos, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+XII. Conocer del juicio que se promueva por violaciones al derecho de ser votado, en su vertiente de acceso y desempeño del cargo.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+Las controversias vinculadas con la probable violación al derecho de los servidores públicos, de elección popular, de recibir las remuneraciones que en derecho les correspondan por el desempeño de un encargo de elección popular, cuando el periodo de su ejercicio ya ha concluido, serán competencia del Tribunal de Justicia Administrativa del Estado de Morelos, y
 
-XI. CONOCER DEL JUICIO QUE SE PROMUEVA POR VIOLACIONES AL DERECHO DE SER VOTADO, EN SU VERTIENTE DE ACCESO Y DESEMPEÑO DEL CARGO;
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XII. Las demás que sean necesarias para su correcto funcionamiento.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-XII. LAS CONTROVERSIAS VINCULADAS CON LA PROBABLE VIOLACIÓN AL DERECHO DE LOS SERVIDORES PÚBLICOS, DE ELECCIÓN POPULAR, DE RECIBIR LAS REMUNERACIONES QUE EN DERECHO LES CORRESPONDAN POR EL DESEMPEÑO DE UN ENCARGO DE ELECCIÓN POPULAR, CUANDO EL PERIODO DE SU EJERCICIO YA HA CONCLUIDO, SERÁN COMPETENCIA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS;
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-XIII. EN LA RESOLUCIÓN DE LOS PROCEDIMIENTOS SANCIONADORES, POR VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, LA AUTORIDAD RESOLUTORA DEBERÁ CONSIDERAR ORDENAR LAS MEDIDAS DE REPARACIÓN INTEGRAL QUE CORRESPONDAN, CONSIDERANDO AL MENOS LAS SIGUIENTES:
-
-a) INDEMNIZACIÓN DE LA VÍCTIMA;
-
-b) RESTITUCIÓN INMEDIATA EN EL CARGO AL QUE FUE OBLIGADA A RENUNCIAR POR MOTIVOS DE VIOLENCIA DE GÉNERO;
-
-c) DISCULPA PÚBLICA;
-
-d) MEDIDAS DE NO REPETICIÓN, Y
-
-XIV. Las demás que sean necesarias para su correcto funcionamiento.
+XIII. Las demás que sean necesarias para su correcto funcionamiento.
 
 ### CAPÍTULO II. DE SU INTEGRACIÓN
 
@@ -3355,9 +3503,9 @@ El Tribunal Electoral funcionará siempre en pleno, sus sesiones serán pública
 
 Corresponden al pleno del Tribunal Electoral las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-I. Resolver los medios de impugnación que se interpongan en periodo no electoral, durante los procesos electorales, y los de participación ciudadana a que se convoquen según corresponda;
+I. Resolver los medios de impugnación que se interpongan en periodo no electoral, durante los procesos electorales y los de participación ciudadana, así como durante las elecciones en municipios, pueblos y comunidades que se rigen por sus Sistemas Normativos Indígenas, a que se convoquen según corresponda;
 
 II. Desechar, sobreseer, tener por no interpuestos o por no presentados, cuando proceda, los recursos, los escritos de los terceros interesados y los de los coadyuvantes;
 
@@ -3867,39 +4015,27 @@ LAS Y LOS MIEMBROS DE LOS AYUNTAMIENTOS, POR ELECCIÓN DIRECTA, PODRÁN SER REEL
 
 Para efectos del presente artículo, las autoridades electorales siempre velarán por mantener la equidad en la contienda.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
+
 ###### Artículo 163.
 
-Son requisitos para ocupar un cargo de elección popular, además de los señalados por la Constitución Federal y la Constitución, los siguientes:
+Son requisitos para ocupar un cargo de elección popular, además de los señalados por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, los siguientes:
 
 I. Estar inscrito en el Registro Federal de Electores y contar con Credencial vigente para votar;
 
 II. No desempeñarse como Magistrado Electoral, Consejero Electoral u ocupar un cargo de dirección o en el Servicio Profesional Electoral Nacional en los organismos electorales, salvo que se separe de su cargo conforme lo establece la Constitución;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III. No ocupar un cargo de dirección en los gobiernos federal, estatal, municipal, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo ciento ochenta días antes del día de la jornada electoral, con excepción de los diputados que pretendan su reelección, en cuyo caso podrán optar por no separarse del cargo, de acuerdo a lo dispuesto en el artículo anterior, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+III. No ocupar un cargo de dirección en los gobiernos federal, estatal, municipal, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo ciento ochenta días antes del día de la jornada electoral, con excepción de los diputados que pretendan su reelección, en cuyo caso podrán optar por no separarse del cargo, de acuerdo a lo dispuesto en el artículo anterior;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+IV. No estar inhabilitado por el Consejo Estatal por haber violado las disposiciones de este código en materia de precampañas, y
 
-III. NO OCUPAR UN CARGO DE DIRECCIÓN EN LOS GOBIERNOS FEDERAL, ESTATAL, MUNICIPAL, NI EJERCER BAJO CIRCUNSTANCIA ALGUNA LAS MISMAS FUNCIONES, SALVO QUE SE SEPARE DEL CARGO NOVENTA DÍAS ANTES DEL DÍA DE LA JORNADA ELECTORAL, CON EXCEPCIÓN DE LOS DIPUTADOS QUE PRETENDAN SU REELECCIÓN, EN CUYO CASO PODRÁN OPTAR POR NO SEPARARSE DEL CARGO, DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO ANTERIOR;
+V. Para ocupar un cargo como integrante del Congreso o de un ayuntamiento mediante una candidatura indígena, deberá acreditar con acta original o copia certificada de la Asamblea General Comunitaria o el documento expedido por la autoridad facultada para ello y en su caso lo que establezcan sus Sistemas Normativos Indígenas.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “IV. No estar inhabilitado por el Consejo Estatal por haber violado las disposiciones de este código en materia de precampañas.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-IV. NO ESTAR INHABILITADO POR EL CONSEJO ESTATAL POR HABER VIOLADO LAS DISPOSICIONES DE ESTE CÓDIGO EN MATERIA DE PRECAMPAÑAS, Y
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-V. NO HABER SIDO CONDENADO O CONDENADA CON SENTENCIA FIRME POR EL DELITO DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, ACORDE A LAS NORMAS APLICABLES.
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 164. Los partidos políticos, candidatos independientes o coaliciones, deberán cumplir estrictamente con las disposiciones que la Constitución Federal, la normativa y este Código, establecen en materia de paridad de género."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 164.
 
-Los partidos políticos, candidatas y candidatos independientes o coaliciones, deberán cumplir estrictamente con las disposiciones que la Constitución Federal, la normativa y este Código, establecen en materia de paridad de género.
+Los partidos políticos, candidatos independientes o coaliciones, deberán cumplir estrictamente con las disposiciones que la Constitución Federal, la normativa y este Código, establecen en materia de paridad de género y en materia de derechos político-electorales de la población indígena.
 
 ###### Artículo 165.
 
@@ -3931,25 +4067,19 @@ LOS PARTIDOS POLÍTICOS DETERMINARÁN CONFORME A SUS ESTATUTOS EL PROCEDIMIENTO 
 
 Oportunamente los partidos políticos deberán informar por escrito al Consejo Estatal los resultados del proceso de selección interna, mismo que previamente fijará las características del informe y la fecha límite para su entrega.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 168. Los procesos de selección interna de candidatos a los cargos de Gobernador, Diputados al Congreso y miembros de los ayuntamientos, se llevarán a cabo a partir del 15 de diciembre del año previo a la elección. Durarán como máximo hasta dos terceras partes del tiempo de campaña respectivo, no podrán extenderse más allá del día 15 de febrero del año de la elección. Las precampañas de todos los partidos políticos se celebrarán de conformidad con la convocatoria respectiva que emita el partido, en todo caso deberán respetar los plazos establecidos en el presente Código.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+###### Artículo 168.
+
+Los procesos de selección interna de candidatos a los cargos de Gobernador, Diputados al Congreso y miembros de los ayuntamientos, se llevarán a cabo a partir del 15 de diciembre del año previo a la elección. Durarán como máximo hasta dos terceras partes del tiempo de campaña respectivo, no podrán extenderse más allá del día 15 de febrero del año de la elección.
+
+Las precampañas de todos los partidos políticos se celebrarán de conformidad con la convocatoria respectiva que emita el partido, en todo caso deberán respetar los plazos establecidos en el presente Código.
 
 Durarán como máximo hasta dos terceras partes del tiempo de campaña respectivo, no podrán extenderse más allá del día 15 de febrero del año de la elección. Las precampañas de todos los partidos políticos se celebrarán de conformidad con la convocatoria respectiva que emita el partido, la cual deberá ser notificada al Instituto Morelense a más tardar cinco días antes del inicio de los procesos de selección interna, en todo caso deberán respetar los plazos establecidos en el presente Código.
 
 En el caso de las coaliciones y candidaturas comunes, el convenio respectivo deberá registrarse hasta antes del inicio del periodo de precampañas.
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a legisladores locales y para miembros de los ayuntamientos, los cuales deberá notificar al Instituto Morelense a más tardar cinco días antes del inicio de los procesos de selección interna; ello con la finalidad de garantizar y salvaguardar los derechos políticos electorales de sus militantes, precandidatos y de los ciudadanos.
-
-Asimismo, se deberá comunicar al Instituto Morelense el retiro de la precampaña de alguno de los precandidatos y modificaciones o resoluciones de cualquier tipo a la convocatoria respectiva."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
-
-###### Artículo 168.
-
-Los procesos de selección interna de candidatas y candidatos a los cargos de Gobernadora o Gobernador, Diputadas y Diputados al Congreso y miembros de los Ayuntamientos, se llevarán a cabo a partir del 15 de diciembre del año previo a la elección. Durarán como máximo hasta dos terceras partes del tiempo de campaña respectivo, no podrán extenderse más allá del día 15 de febrero del año de la elección. Las precampañas de todos los partidos políticos se celebrarán de conformidad con la convocatoria respectiva que emita el partido, en todo caso deberán respetar los plazos establecidos en el presente Código.
-
-En el caso de las coaliciones y candidaturas comunes, el convenio respectivo deberá registrarse hasta antes del inicio del periodo de precampañas.
-
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a legisladores locales y para miembros de los Ayuntamientos, los cuales deberá notificar al Instituto Morelense a más tardar cinco días antes del inicio de los procesos de selección interna; ello con la finalidad de garantizar y salvaguardar los derechos políticos electorales de sus militantes, precandidatos y de los ciudadanos.
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género y la participación indígena como lo establece el presente código, en las candidaturas a legisladores locales y para miembros de los ayuntamientos, los cuales deberá notificar al Instituto Morelense a más tardar cinco días antes del inicio de los procesos de selección interna; ello con la finalidad de garantizar y salvaguardar los derechos políticos electorales de sus militantes, precandidatos y de los ciudadanos.
 
 Asimismo, se deberá comunicar al Instituto Morelense el retiro de la precampaña de alguno de los precandidatos y modificaciones o resoluciones de cualquier tipo a la convocatoria respectiva.
 
@@ -4129,67 +4259,119 @@ LAS PLATAFORMAS ELECTORALES QUE POR CADA PROCESO ELECTORAL DEBAN PRESENTAR LOS P
 
 LOS PARTIDOS POLÍTICOS, UNA VEZ PRESENTADAS SUS SOLICITUDES DE REGISTRO DE LAS Y LOS CANDIDATOS Y, PODRÁN CUMPLIMENTAR LOS REQUISITOS QUE LA NORMA EXIGE, DURANTE EL PLAZO DE REGISTRO O BIEN DENTRO DEL TÉRMINO DE CUARENTA Y OCHO HORAS POSTERIORES A LA CONCLUSIÓN DEL PLAZO DE REGISTRO, PARA PROCEDER A LA CALIFICACIÓN DE LA SOLICITUD DENTRO DE LOS DÍAS QUE ESTE CÓDIGO ESTABLECE.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 178. El registro de candidatos a Gobernador y Diputados de representación proporcional, se hará ante el Consejo Estatal."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 178.
 
-El registro de candidata o candidato a la Gubernatura, y Diputaciones de representación proporcional, se hará ante el Consejo Estatal.
+El registro de la candidatura a Gobernadora o Gobernador y Diputaciones de representación proporcional, se hará ante el Consejo Estatal.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 179. El registro de candidatos a diputados de mayoría relativa será por fórmulas integradas cada una por un propietario y un suplente del mismo género ante el consejo distrital electoral respectivo. De la totalidad de solicitudes de registro de las candidaturas a diputados que realice cada partido político, en ningún caso incluirán más del cincuenta por ciento de candidatos de un mismo género.
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
 
-En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellas candidaturas a diputados de mayoría relativa en distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Las candidaturas indígenas o pertenecientes a un grupo vulnerable que fueron electos con ese reconocimiento tendrán reconocido el mismo carácter en caso de contender en una nueva postulación, con excepción de las personas jóvenes que dejen de serlo en razón de su edad.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+Los partidos políticos deberán incluir en la postulación de sus candidaturas a diputaciones locales por ambos principios, por lo menos tres postulaciones de personas indígenas, incluyendo los distritos reservados exclusivamente como indígenas.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+Las postulaciones de candidaturas indígenas que realicen los partidos políticos en coalición o candidatura común, se contarán de manera individual para cada uno de ellos, con independencia del partido político del que emane la candidatura.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+Los partidos políticos deberán incluir en la postulación de sus candidaturas a diputaciones locales por el principio de representación proporcional al menos una fórmula integrada por personas pertenecientes a algún grupo vulnerable, privilegiando la interseccionalidad en la conformación de la misma. En las postulaciones de diputaciones de mayoría relativa, los partidos políticos podrán registrar una o más candidaturas pertenecientes a algún grupo vulnerable, privilegiando la interseccionalidad en la conformación de la misma.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 179.
 
-El registro de candidatas y candidatos a Diputadas y Diputados de mayoría relativa será por fórmulas integradas cada una por una o un propietario y un suplente del mismo género ante el consejo distrital electoral respectivo. De la totalidad de solicitudes de registro de las candidaturas a las diputaciones que realice cada partido político, en ningún caso incluirán más del cincuenta por ciento de candidatos de un mismo género.
+El registro de candidaturas a diputaciones de mayoría relativa será por fórmulas integradas cada una por un propietario y un suplente del mismo género ante el consejo distrital electoral respectivo, excepto cuando quien encabeza la candidatura propietaria sea de género masculino, su suplente podrá ser mujer.
 
-En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellas candidaturas a Diputadas y Diputados de mayoría relativa en distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+De la totalidad de solicitudes de registro de las candidaturas a diputaciones que realice cada partido político, en ningún caso incluirán más del cincuenta por ciento de candidatos de un mismo género.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE JUNIO DE 2023)</small>
+
+En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellas candidaturas a diputados de mayoría relativa en distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+El registro para efecto de la postulación de fórmulas de candidaturas indígenas, deberá realizarse en los distritos indígenas que en términos de la distritación electoral uninominal local y sus respectivas cabeceras distritales del estado de Morelos, se hayan determinado por el Consejo General del Instituto Nacional Electoral.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 179 Bis.
 
-Para evitar que a algún género le sean asignados los Distritos o Municipios en los que el partido político, coalición o candidatura común haya obtenido los porcentajes de votación más bajos y más altos en el proceso electoral local anterior, se establece el siguiente procedimiento:
+Para evitar que a algún género le sean asignados los Distritos o Municipios en los que el partido político, coalición o candidatura común haya obtenido los porcentajes de votación más bajos y más altos en el proceso electoral local anterior, se observará lo siguiente:
 
-El Instituto Morelense de Procesos Electorales y Participación Ciudadana, deberá enlistar los distritos y municipios en los que cada partido político local postuló candidatos a Diputadas o Diputados o a miembros de los Ayuntamientos, dicho documento deberá ser proporcionado a los partidos políticos antes del inicio de las precampañas.
+El Instituto Morelense de Procesos Electorales y Participación Ciudadana, deberá enlistar los distritos y municipios en los que cada partido político local postuló candidaturas a Diputadas o Diputados o a miembros de los Ayuntamientos, en su caso, dicho documento deberá ser proporcionado a los partidos políticos en el mes de enero del año en el que sea declarado el inicio del periodo electoral.
 
-I. En el caso de candidatas o candidatos a miembros de los Ayuntamientos se deberán generar tres bloques los Municipios que hubiesen postulado candidatos, conforme a los porcentajes de votación con base en los resultados obtenidos en la elección inmediata anterior, de lo cual resultará un bloque de municipios con alto porcentaje de votación, un bloque intermedio de votación y un bloque de baja votación.
+En el caso de las candidaturas integrantes de los Ayuntamientos, se deberán generar tres bloques de los Municipios que hubieran postulado candidaturas, conforme a los porcentajes de votación con base en los resultados obtenidos en la elección inmediata anterior, de lo cual resultará un bloque de municipios con alto porcentaje de votación, un bloque intermedio de votación y un bloque de baja votación. Si al hacer la división de municipios en los tres bloques señalados, restara uno, este se agregará al bloque de votación más baja; si restaran dos, se agregará uno al de votación más baja y el segundo al de votación más alta. En los referidos bloques, el Instituto Morelense de Procesos Electorales y Participación Ciudadana verificará que la mitad de las candidaturas a Presidencias Municipales, sean ocupadas por mujeres y la otra por hombres.
 
-Si al hacer la división de municipios en los tres bloques señalados, sobrare uno, este se agregará al bloque de votación más baja, si restasen dos, se agregará uno al de votación más baja y el segundo al de votación más alta.
+Para la postulación de candidaturas a Diputaciones se deberán generar tres bloques en los Distritos que hubieran postulado candidatas o candidatos conforme a los porcentajes de votación y con base en los resultados obtenidos en la elección inmediata anterior por cada partido político, de lo cual resultará un bloque de distritos con alto porcentaje de votación, un bloque intermedio de votación y un bloque de baja votación. Si al hacer la división de distritos en los tres bloques señalados, restara uno, este se agregará al bloque de votación más baja, si restaran dos, se agregará el primero al de votación más baja y el segundo al de votación más alta. En los referidos bloques, el Instituto Morelense de Procesos Electorales y Participación Ciudadana verificará que la mitad de las candidaturas que integran cada bloque sean ocupadas por mujeres y la otra por hombres.
 
-En los referidos bloques, el Instituto Morelense de Procesos Electorales y Participación Ciudadana verificará que la mitad de las candidaturas de Presidente Municipal, sean ocupadas por mujeres y la otra por hombres, y
+Para acceder a la postulación bajo el criterio de candidatura indígena se debe acreditar que dicha condición deviene de una autoadscripción calificada, misma que tendrá que ser comprobada con la documentación idónea para ello, la cual acredite la pertenencia o vinculación requerida con la comunidad que se trate, debiendo ser expedidas por las asambleas comunitarias, las autoridades administrativas o las autoridades tradicionales reconocidas en cada comunidad.
 
-II. Para la postulación de candidatas o candidatos a Diputaciones se deberán generar tres bloques, los Distritos que hubiesen postulado candidatos, conforme a los porcentajes de votación con base en los resultados obtenidos en la elección inmediata anterior, de lo cual resultará un bloque de distritos con alto porcentaje de votación, un bloque intermedio de votación y un bloque de baja votación.
+Obtenida la autoadscripción calificada, esta no podrá ser retirada por la autoridad otorgante una vez concluido el periodo de registros de las candidaturas, reconociéndose a la persona que obtuvo la calidad indígena como tal durante todo el proceso electoral.
 
-Si al hacer la división de distritos en los tres bloques señalados, sobrare uno, este se agregará al bloque de votación más baja, si restasen dos, se agregará uno al de votación más baja y el segundo al de votación más alta.
+La sustitución de alguna de las personas postuladas bajo el criterio indígena, solo será procedente cuando la persona que sustituya posea la misma calidad.
 
-En los referidos bloques, el Instituto Morelense de Procesos Electorales y Participación Ciudadana verificará que la mitad de las candidaturas que integran cada bloque sean ocupadas por mujeres y la otra por hombres.
+En las postulaciones de personas pertenecientes a grupos vulnerables en ayuntamientos o diputaciones locales, se observará lo siguiente:
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 180. Los partidos políticos y candidatos independientes deberán postular una planilla con candidaturas a la presidencia municipal, sindicatura, y regidurías. La planilla deberá alternar los géneros desde la presidencia municipal hasta la última regiduría. Los partidos políticos no podrán postular candidatos de un mismo género en más de la mitad de sus candidaturas a presidencias municipales si el número de sus candidaturas es par o en más de la mitad más una en caso de candidaturas impares.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+En la integración de las fórmulas el titular y suplente deberán pertenecer al mismo grupo vulnerable procurando la interseccionalidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+En los registros de candidaturas de las personas LGBTI deberán acompañarse de al menos uno de los siguientes documentos:
+
+I) Carta bajo protesta de decir verdad, en la que se precise que la persona se autoadscribe a la comunidad, misma que deberá ser ratificada personalmente ante la Secretaría Ejecutiva del IMPEPAC o una notaría pública.
+
+II) La notificación de la modificación del acta de nacimiento para el reconocimiento de la identidad de género emitida por la Dirección General del Registro Civil del Estado de Morelos, de conformidad con lo establecido en el Código Familiar para el Estado Libre y Soberano de Morelos, o el Registro Civil de alguna otra entidad federativa.
+
+III) Acta de matrimonio que haga constar que la persona postulante a una candidatura contrajo matrimonio con otra persona de su mismo género.
+
+IV) Sentencia dictada en favor de la persona postulante relativa al derecho a la igualdad y no discriminación, con base en la orientación sexual, características sexuales, identidad o expresión de género, de la persona postulante.
+
+V) Documentación que haga constar el ejercicio de la función pública en torno a los derechos de la diversidad sexual, con al menos dos años de experiencia en el cargo público, misma que puede acreditarse mediante un nombramiento público, contrato de prestación de servicios, recibos de nómina expedidos por algún ente público, o similares.
+
+VI) Documentación que acredite al menos dos años de experiencia en el desarrollo de investigaciones, cobertura periodística, creación de obras artísticas, gestión cultural, litigio, impartición de capacitaciones, cursos, talleres o similares, o activismo en torno a la defensa y promoción de los derechos humanos de personas LGBTI.
+
+En los registros de candidaturas de las personas afrodescendientes deberán acompañarse al menos uno de los siguientes documentos:
+
+I) Carta bajo protesta de decir verdad, en la que se precise que la persona se autoadscribe a la comunidad, misma que deberá ser ratificada personalmente ante la Secretaría Ejecutiva del IMPEPAC o una notaría pública.
+
+II) Constancia del ejercicio de la función pública en torno a los derechos de las poblaciones afrodescendientes o sus derechos humanos, con al menos dos años de experiencia en el cargo público, misma que puede acreditarse mediante un nombramiento público, contrato de prestación de servicios, recibos de nómina expedidos por algún ente público, o similares.
+
+III) Documentación que acredite al menos dos años de experiencia en el desarrollo de investigaciones, cobertura periodística, creación de obras artísticas, gestión cultural, litigio, impartición de capacitaciones, cursos, talleres o similares, o activismo en torno a la defensa y promoción de los derechos humanos de personas afrodescendientes.
+
+IV) Documentación que acredite la afrodescendencia, hasta en cuarto grado de ascendencia.
+
+Las candidaturas de personas con discapacidad deberán presentar certificación médica expedida por una institución de salud pública, que deberá contener el nombre, firma y número de cédula profesional del médico especialista en medicina física y rehabilitación o especialista en el tipo de discapacidad a certificar, que lo expide, así como, el sello de la institución y precisar el tipo y grado de discapacidad y que esta es permanente sirviendo como criterio orientador La Clasificación de Tipo de Discapacidad – Histórica del INEGI.
+
+Las candidaturas de las personas jóvenes y de la tercera edad, deberán de ser acreditadas con la exhibición de la credencial para votar vigente o acta de nacimiento.
+
+La postulación a candidaturas de personas indígenas no exime a los partidos políticos, coaliciones, candidaturas comunes y candidaturas independientes de cumplir con todas las reglas de paridad de género contenidas en la legislación de la materia.
+
+En el caso de sustitución de candidaturas de personas de grupos vulnerables, solo serán procedentes cuando quienes sustituyan cumplan la misma calidad o condiciones de quienes integraron la fórmula original.
+
+Se reserva como facultad exclusiva del Congreso Local la emisión de las Leyes, Reglamentos o normas que regulen el proceso de postulación de candidaturas, por lo que las disposiciones que al efecto emita la Legislatura del Estado no podrán ser reguladas, modificadas o contrariadas por otras de carácter secundario como acuerdos, lineamientos o reglamentos que por jerarquía se encuentren subordinados a la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 180.
 
-LOS PARTIDOS POLÍTICOS, CANDIDATAS Y CANDIDATOS INDEPENDIENTES DEBERÁN POSTULAR UNA PLANILLA CON CANDIDATURAS A LA PRESIDENCIA MUNICIPAL, SINDICATURA, Y REGIDURÍAS. LA PLANILLA DEBERÁ ALTERNAR LOS GÉNEROS DESDE LA PRESIDENCIA MUNICIPAL HASTA LA ÚLTIMA REGIDURÍA. LOS PARTIDOS POLÍTICOS NO PODRÁN POSTULAR CANDIDATAS Y CANDIDATOS DE UN MISMO GÉNERO EN MÁS DE LA MITAD DE SUS CANDIDATURAS A PRESIDENCIAS MUNICIPALES SI EL NÚMERO DE SUS CANDIDATURAS ES PAR O EN MÁS DE LA MITAD MÁS UNA EN CASO DE CANDIDATURAS IMPARES.
+Los partidos políticos y candidatos independientes deberán postular una planilla con candidaturas a la presidencia municipal, sindicatura, y regidurías. La planilla deberá alternar los géneros desde la presidencia municipal hasta la última regiduría. Los partidos políticos no podrán postular candidaturas de un mismo género en más de la mitad de sus candidaturas a presidencias municipales si el número de sus candidaturas es par o en más de la mitad más una en caso de candidaturas impares.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Las candidaturas para miembros de ayuntamientos, se registrarán ante el consejo municipal electoral que corresponda, por planillas integradas por candidatos a Presidente Municipal y un Síndico propietarios y suplentes, que se elegirán por el principio de mayoría relativa y, en su caso, una lista de regidores, propietarios y suplentes en número igual al previsto para ese municipio en la legislación, que se elegirán por el principio de representación proporcional.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+Las candidaturas para miembros de ayuntamientos, se registrarán ante el consejo municipal electoral que corresponda, por planillas integradas por candidaturas a Presidencia Municipal y una Sindicatura propietarias y suplentes, que se elegirán por el principio de mayoría relativa y, en su caso, una lista de regidurías, propietarias y suplentes en número igual al previsto para ese municipio en la legislación, que se elegirán por el principio de representación proporcional.
 
-LAS CANDIDATURAS PARA MIEMBROS DE AYUNTAMIENTOS, SE REGISTRARÁN ANTE EL CONSEJO MUNICIPAL ELECTORAL QUE CORRESPONDA, POR PLANILLAS INTEGRADAS POR CANDIDATAS Y CANDIDATOS A PRESIDENTA O PRESIDENTE MUNICIPAL Y UNA O UN SÍNDICO PROPIETARIOS Y SUPLENTES Y EL NÚMERO DE REGIDURÍAS QUE SEÑALE LA LEY ORGÁNICA MUNICIPAL, QUE SE ELEGIRÁN POR EL PRINCIPIO DE MAYORÍA RELATIVA Y, EN SU CASO, UNA LISTA DE REGIDORAS Y REGIDORES, PROPIETARIOS Y SUPLENTES EN NÚMERO IGUAL AL PREVISTO PARA ESE MUNICIPIO EN LA LEGISLACIÓN, QUE SE ELEGIRÁN POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL.
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “De igual forma los partidos políticos deberán observar para el registro de sus planillas de candidatos para los 33 municipios que integran el Estado de Morelos un enfoque horizontal, que consiste en que del total de los 33 ayuntamientos se exija el registro de dieciséis candidaturas a la presidencia municipal de un mismo género, de tal manera que los diecisiete restantes correspondan al género distinto.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Las candidaturas a la presidencia municipal, sindicatura o regidurías indígenas o pertenecientes a un grupo vulnerable que fueron electos con ese reconocimiento tendrán el mismo carácter en caso de contender en una nueva postulación, con excepción de las personas jóvenes que dejen de serlo en razón de su edad.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
-DE IGUAL FORMA LOS PARTIDOS POLÍTICOS DEBERÁN OBSERVAR PARA EL REGISTRO DE SUS PLANILLAS DE CANDIDATOS PARA LOS MUNICIPIOS QUE INTEGRAN EL ESTADO DE MORELOS UN ENFOQUE HORIZONTAL, QUE CONSISTE EN QUE DEL TOTAL DE LOS AYUNTAMIENTOS, SE EXIJA EL REGISTRO DE CANDIDATURAS A LA PRESIDENCIA MUNICIPAL BAJO EL PRINCIPIO DE PARIDAD DE GÉNERO. EN NINGÚN CASO SE ADMITIRÁN CRITERIOS QUE TENGAN COMO RESULTADO QUE A ALGUNO DE LOS GÉNEROS LE SEAN ASIGNADOS EXCLUSIVAMENTE AQUELLAS CANDIDATURAS A PRESIDENCIAS MUNICIPALES EN LAS QUE EL PARTIDO HAYA OBTENIDO LOS PORCENTAJES DE VOTACIÓN MÁS BAJOS EN EL PROCESO ELECTORAL ANTERIOR.
+De igual forma los partidos políticos deberán observar para el registro de sus planillas de candidatas y candidatos para los 33 municipios que integran el Estado de Morelos un enfoque horizontal, que consiste en que del total de los 33 ayuntamientos se exija el registro de dieciséis candidaturas a la presidencia municipal de un mismo género, de tal manera que los diecisiete restantes correspondan al género distinto. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellas candidaturas a presidencias municipales en las que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En los demás casos, los partidos políticos deberán registrar sus planillas, de conformidad con los siguientes criterios:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -4279,21 +4461,15 @@ planillas de candidatos:
 
 1 1
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 181. Los partidos políticos sólo podrán incluir en la lista de candidatos a diputados de representación proporcional hasta dos personas que sean candidatos de mayoría relativa. Los institutos políticos podrán registrar lista de candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatos a Diputados de mayoría relativa, por lo menos en las dos terceras partes de los Distritos uninominales del Estado. La lista de representación proporcional se integrará intercalando una a una candidaturas de ambos géneros.
-
-Las fórmulas de candidatos, propietarios y suplentes, deberán ser del mismo género.
-
-Los partidos políticos podrán registrar lista de candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatos a Diputados de mayoría relativa, por lo menos en las dos terceras partes de los distritos uninominales del Estado, de manera directa, participando en coalición o en candidaturas comunes."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 181.
 
-Los partidos políticos sólo podrán incluir en la lista de candidatas y candidatos a Diputadas y Diputados de representación proporcional hasta dos personas que sean candidatas o candidatos de mayoría relativa. Los institutos políticos podrán registrar lista de candidatas y candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatas y candidatos a Diputadas y Diputados de mayoría relativa, por lo menos en las dos terceras partes de los Distritos uninominales del Estado. La lista de representación proporcional se integrará intercalando una a una candidaturas de ambos géneros.
+Los partidos políticos sólo podrán incluir en la lista de candidaturas a diputaciones de representación proporcional hasta dos personas que sean candidatos de mayoría relativa. Los institutos políticos podrán registrar lista de candidaturas de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatas o candidatos a Diputaciones de mayoría relativa, por lo menos en las dos terceras partes de los Distritos uninominales del Estado. La lista de representación proporcional se integrará intercalando una a una candidaturas de ambos géneros.
 
-Las fórmulas de candidatas y candidatos, propietarios y suplentes, deberán ser del mismo género.
+Las fórmulas de candidatura, propietarios y suplentes, deberán ser del mismo género, excepto cuando quien encabeza la candidatura propietaria sea de género masculino, su suplente podrá ser de mujer.
 
-Los partidos políticos podrán registrar lista de candidatas y candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatas y candidatos a Diputadas y Diputados de mayoría relativa, por lo menos en las dos terceras partes de los distritos uninominales del Estado, de manera directa, participando en coalición o en candidaturas comunes.
+Los partidos políticos podrán registrar lista de candidatas o candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidaturas a Diputaciones de mayoría relativa, por lo menos en las dos terceras partes de los distritos uninominales del Estado, de manera directa, participando en coalición o en candidaturas comunes.
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 182. Dentro de los plazos establecidos por este Código, los partidos políticos podrán libremente sustituir a los candidatos que hubiesen registrado. Concluidos aquéllos, sólo por acuerdo podrá hacerse sustitución de candidatos por causa de muerte, inhabilitación, incapacidad o renuncia. Los partidos políticos podrán solicitar ante el Consejo Estatal, fuera de los casos previstos, la cancelación del registro de uno o varios de sus candidatos.
 
@@ -4309,13 +4485,11 @@ Dentro de los plazos establecidos por este Código, los partidos políticos podr
 
 Cuando la renuncia de la candidata o candidato fuera notificada por este al Consejo Estatal, se hará del conocimiento del partido, coalición o candidatura independiente que lo registró para que proceda, en su caso, a la sustitución. En caso de que la renuncia sea entregada por el partido político, coalición o candidatura independiente al Instituto Morelense, este solicitará al renunciante la ratificación de firma y contenido, en caso de que desconozca su firma se tendrá por no interpuesta la renuncia.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 183. La solicitud de registro de candidatos deberá contener, cuando menos:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 183.
 
-LA SOLICITUD DE REGISTRO DE LAS Y LOS CANDIDATOS DEBERÁ CONTENER, CUANDO MENOS:
+La solicitud de registro de candidaturas deberá contener, cuando menos:
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Nombre y apellidos del candidato y, en su caso, el sobrenombre con el que pretenda aparecer en la boleta electoral;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -4329,11 +4503,15 @@ II. Edad, lugar de nacimiento, domicilio, tiempo de residencia y ocupación;
 
 III. Cargo para el que se postula;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+IV. Cuando el registro corresponda a un grupo vulnerable, se deberá indicar al que pertenece.
+
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-IV. Denominación y emblemas de partido, coalición o candidatura común que lo postula, y
+V. Denominación y emblemas de partido, coalición o candidatura común que lo postula, y
 
-V. Clave y fecha de la credencial de elector.
+VI. Clave y fecha de la credencial de elector.
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los candidatos independientes deberán presentar su solicitud de registro conforme al formato autorizado por el Consejo Estatal.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -4341,25 +4519,17 @@ V. Clave y fecha de la credencial de elector.
 
 LAS Y LOS CANDIDATOS INDEPENDIENTES DEBERÁN PRESENTAR SU SOLICITUD DE REGISTRO CONFORME AL FORMATO AUTORIZADO POR EL CONSEJO ESTATAL.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 184. La solicitud de registro deberá elaborarse en el formato que expida el Consejo Estatal, debidamente firmada por el candidato propuesto e ir acompañada de los siguientes documentos:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 184.
 
-LA SOLICITUD DE REGISTRO DEBERÁ ELABORARSE EN EL FORMATO QUE EXPIDA EL CONSEJO ESTATAL, DEBIDAMENTE FIRMADA POR LA O EL CANDIDATO PROPUESTO E IR ACOMPAÑADA DE LOS SIGUIENTES DOCUMENTOS:
+La solicitud de registro deberá elaborarse en el formato que expida el Consejo Estatal, debidamente firmada por el candidato propuesto e ir acompañada de los siguientes documentos:
 
 I. Declaración, bajo protesta de decir verdad, de aceptación de la candidatura y que cumple con los requisitos de elegibilidad;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Copia certificada del acta de nacimiento del candidato expedida por el Registro Civil;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-II. COPIA CERTIFICADA DEL ACTA DE NACIMIENTO DE LA O EL CANDIDATO EXPEDIDA POR EL REGISTRO CIVIL;
+II. Copia certificada del acta de nacimiento del candidato expedida por el Registro Civil;
 
 III. Copia de la credencial para votar con fotografía;
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
 IV. Constancia de residencia vigente que precise la antigüedad, expedida por la autoridad competente, dentro de los quince días anteriores a la presentación de su solicitud de registro;
 
@@ -4367,33 +4537,23 @@ V. Tres fotografías tamaño infantil, y
 
 VI. Currículum vitae.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+En el caso de las candidaturas indígenas deberán entregar junto con su solicitud de registro, debidamente firmada por la o el candidato propuesto, además de los documentos señalados en los numerales I a VI, el acta original o copia certificada de la Asamblea General Comunitaria o el documento expedido por la autoridad facultada para ello y en su caso lo que establezcan sus Sistemas Normativos Indígenas en la cual fueron reconocidos como personas indígenas, en términos de los artículos 178 y 180 de este código.
 
-La expedición de los documentos de las fracciones II y IV de este artículo serán gratuitas y deberán cumplir con los requisitos establecidos en la legislación aplicable, las autoridades estatales y municipales competentes observarán esta disposición y darán facilidades al ciudadano en el trámite de estas solicitudes.
+La expedición de los documentos de las fracciones II y IV de este artículo serán gratuitas y deberán cumplir con los requisitos establecidos en la legislación aplicable, las autoridades estatales y municipales competentes observarán esta disposición y darán facilidades al ciudadano en el trámite de estas solicitudes.r
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 185.
 
 Los organismos electorales recibirán las solicitudes de registro junto con la documentación a que se refiere el artículo anterior, de acuerdo a lo siguiente:
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Concluido el plazo de registro de candidatos las solicitudes recibidas serán revisadas por el Consejero Presidente o el Secretario del órgano que corresponda, quienes verificarán dentro de los cinco días siguientes de su recepción, que se haya cumplido con todos los requisitos señalados en este Código;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+I. Concluido el plazo de registro de candidatos las solicitudes recibidas serán revisadas por el Consejero Presidente o el Secretario del órgano que corresponda, quienes verificarán dentro de los cinco días siguientes de su recepción, que se haya cumplido con todos los requisitos señalados en este Código;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+II. Durante el plazo a que se refiere el párrafo anterior, el Consejo Estatal, con base en la información procesada del registro de candidaturas que hayan presentado los partidos políticos, coaliciones y candidaturas comunes en el término establecido para las elecciones de Diputados de mayoría relativa y Ayuntamientos, sesionará con el único efecto de determinar el cumplimiento de la paridad, así como, de las candidaturas indígenas que correspondan para integrar el Congreso y los ayuntamientos;
 
-I. CONCLUIDO EL PLAZO DE REGISTRO DE LAS Y LOS CANDIDATOS LAS SOLICITUDES RECIBIDAS SERÁN REVISADAS POR LA O EL CONSEJERO PRESIDENTE O LA O EL SECRETARIO DEL ÓRGANO QUE CORRESPONDA, QUIENES VERIFICARÁN DENTRO DE LOS CINCO DÍAS SIGUIENTES DE SU RECEPCIÓN, QUE SE HAYA CUMPLIDO CON TODOS LOS REQUISITOS SEÑALADOS EN ESTE CÓDIGO;
+III. Vencido el plazo a (sic) referido en el segundo párrafo de este artículo y si se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido político correspondiente para que, dentro de las setenta y dos horas siguientes, subsane el o los requisitos omitidos o sustituya al candidato, siempre que esto pueda realizarse dentro de los plazos que señale este Código.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Durante el plazo a que se refiere el párrafo anterior, el Consejo Estatal, con base en la información procesada del registro de candidatos que hayan presentado los partidos políticos y coaliciones en el término establecido para las elecciones de Diputados y Ayuntamientos de mayoría relativa, sesionará con el único efecto de determinar el cumplimiento de la paridad horizontal;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-II. DURANTE EL PLAZO A QUE SE REFIERE EL PÁRRAFO ANTERIOR, EL CONSEJO ESTATAL, CON BASE EN LA INFORMACIÓN PROCESADA DEL REGISTRO DE CANDIDATAS Y CANDIDATOS QUE HAYAN PRESENTADO LOS PARTIDOS POLÍTICOS Y COALICIONES EN EL TÉRMINO ESTABLECIDO PARA LAS ELECCIONES DE DIPUTADOS Y AYUNTAMIENTOS DE MAYORÍA RELATIVA, SESIONARÁ CON EL ÚNICO EFECTO DE DETERMINAR EL CUMPLIMIENTO DE LA PARIDAD HORIZONTAL;
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II (sic). Vencido el plazo a (sic) referido en el segundo párrafo de este artículo y si se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido político correspondiente para que, dentro de las setenta y dos horas siguientes, subsane el o los requisitos omitidos o sustituya al candidato, siempre que esto pueda realizarse dentro de los plazos que señale este Código. Si transcurrido este lapso el partido político no cumpliera, se le otorgará una prórroga única de veinticuatro horas para cumplimentar, en caso de reincidencia se le sancionará con la pérdida del registro de la candidatura correspondiente;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
-III. VENCIDO EL PLAZO A (SIC) REFERIDO EN EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO Y SI SE ADVIERTE QUE HUBO OMISIÓN DE UNO O VARIOS REQUISITOS, SE NOTIFICARÁ DE INMEDIATO AL PARTIDO POLÍTICO CORRESPONDIENTE PARA QUE, DENTRO DE LAS SETENTA Y DOS HORAS SIGUIENTES, SUBSANE EL O LOS REQUISITOS OMITIDOS O SUSTITUYA A LA CANDIDATA O CANDIDATO, SIEMPRE QUE ESTO PUEDA REALIZARSE DENTRO DE LOS PLAZOS QUE SEÑALE ESTE CÓDIGO. SI TRANSCURRIDO ESTE LAPSO EL PARTIDO POLÍTICO, COALICIÓN O CANDIDATURA INDEPENDIENTE, NO CUMPLIERA, SE LE OTORGARÁ UNA PRÓRROGA ÚNICA DE VEINTICUATRO HORAS PARA CUMPLIMENTAR, EN CASO DE REINCIDENCIA SE LE SANCIONARÁ CON LA PÉRDIDA DEL REGISTRO DE LA CANDIDATURA CORRESPONDIENTE;
+Si transcurrido este lapso el partido político no cumpliera, se le otorgará una prórroga única de veinticuatro horas para cumplimentar, en caso de reincidencia se le sancionará con la pérdida del registro de la candidatura correspondiente;
 
 IV. Cualquier solicitud o documentación presentada fuera de dichos plazos será desechada de plano, y
 
@@ -4407,13 +4567,11 @@ V. Dentro de los quince días siguientes al vencimiento del plazo de registro, l
 
 Los consejos distritales y municipales electorales comunicarán a la o a el Secretario Ejecutivo del Instituto Morelense, el registro de las y los candidatos que hubiesen efectuado, dentro de las veinticuatro horas siguientes a la fecha en que se realizó dicho registro.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 187. Para efectos de su difusión, el Consejo Estatal enviará para su publicación y por una sola vez en el Periódico Oficial y en uno de los diarios de mayor circulación en la Entidad, las listas de candidatos registrados ante los organismos electorales, para Gobernador y en su caso para Diputados de mayoría relativa, Diputados de representación proporcional, Presidentes Municipales, Síndicos y Regidores de los ayuntamientos. En caso de sustitución de candidatos la publicación se hará en la misma forma, a más tardar tres días después del acuerdo respectivo."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 187.
 
-PARA EFECTOS DE SU DIFUSIÓN, EL CONSEJO ESTATAL ENVIARÁ PARA SU PUBLICACIÓN Y POR UNA SOLA VEZ EN EL PERIÓDICO OFICIAL Y EN UNO DE LOS DIARIOS DE MAYOR CIRCULACIÓN EN LA ENTIDAD, LAS LISTAS DE CANDIDATOS REGISTRADOS ANTE LOS ORGANISMOS ELECTORALES, PARA GOBERNADORA O GOBERNADOR Y EN SU CASO PARA DIPUTADAS Y DIPUTADOS DE MAYORÍA RELATIVA, DIPUTADAS Y DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL, PRESIDENTAS O PRESIDENTES MUNICIPALES, SÍNDICAS O SÍNDICOS Y REGIDORES DE LOS AYUNTAMIENTOS. EN CASO DE SUSTITUCIÓN DE CANDIDATURAS LA PUBLICACIÓN SE HARÁ EN LA MISMA FORMA, A MÁS TARDAR TRES DÍAS DESPUÉS DEL ACUERDO RESPECTIVO.
+Para efectos de su difusión, el Consejo Estatal enviará para su publicación y por una sola vez en el Periódico Oficial y en uno de los diarios de mayor circulación en la Entidad, las listas de candidatos registrados ante los organismos electorales, para Gobernador y en su caso para Diputados de mayoría relativa, Diputados de representación proporcional, Presidentes Municipales, Síndicos y Regidores de los ayuntamientos, señalando la condición mediante la cual se registra. En caso de sustitución de candidatos la publicación se hará en la misma forma, a más tardar tres días después del acuerdo respectivo.
 
 En ningún caso, la falta de publicación afectará la validez y eficacia de los registros aprobados por el Consejo Estatal.
 
@@ -7924,3 +8082,27 @@ SÉPTIMA. […]
 OCTAVA. […]
 
 NOVENA. Se derogan las disposiciones de menor rango que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRECE POR EL QUE SE QUE SE REFORMA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS Y LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, EN MATERIA POLÍTICO ELECTORAL PARA GARANTIZAR LA INCLUSIÓN DE GRUPOS VULNERABLES Y LA PARIDAD DE GÉNERO".]
+
+PRIMERO. Remítase el presente decreto al Titular del Poder Ejecutivo para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERO. El número de regidurías destinadas a personas indígenas deberá ser actualizado por el Congreso del Estado, con cada intercensal o censal que al efecto realice el Instituto Nacional de Estadística, Geografía e Informática, conforme al aumento poblacional indígena determinado en cada municipio.
+
+CUARTO. Los municipios indígenas no sufrirán modificación respecto al número de integrantes de sus Concejos Municipales Indígenas que les correspondan para garantizar su autodeterminación y respeto a sus usos y costumbres.
+
+QUINTO. Para efectos de este año electoral, el Instituto Morelense de Procesos Electorales y Participación Ciudadana, entregará la lista de los distritos y municipios en los que cada partido político local postuló candidaturas a Diputadas o Diputados o a miembros de los Ayuntamientos, en su caso, a los partidos políticos treinta días hábiles antes de la declaratoria del inicio del periodo electoral.
+
+SEXTO. El Instituto Morelense de Procesos Electorales y Participación Ciudadana, deberá realizar los ajustes presupuestales necesarios para la implementación de las dos Comisiones creadas en el presente Decreto.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DIECISÉIS.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS”.]
+
+PRIMERO. Remítase el presente decreto al Titular del Poder Ejecutivo para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
