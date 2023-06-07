@@ -4,7 +4,7 @@ identifier: "CFPC"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-02-24"
-last_updated: "2021-06-07"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,13 @@ abbreviation: "CFPC"
 ---
 # CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES PUBLICADO EN EL D.O.F. EL 7 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EN LOS TÉRMINOS DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE EL CITADO CÓDIGO.]
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2023.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el miércoles 24 de febrero de 1943.
 
@@ -4925,3 +4927,71 @@ Décimo Segundo. Se abroga la Ley Orgánica del Poder Judicial de la Federación
 (NOTA: EL 16 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2021 Y SU ACUMULADA 105/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO DÉCIMO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 DÉCIMO TERCERO. CON EL FIN DE IMPLEMENTAR LA REFORMA CONSTITUCIONAL AL PODER JUDICIAL DE LA FEDERACIÓN PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 11 DE MARZO DE 2021 Y LAS LEYES REGLAMENTARIAS A LAS QUE SE REFIERE EL PRESENTE DECRETO, LA PERSONA QUE A SU ENTRADA EN VIGOR OCUPE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL DURARÁ EN ESE ENCARGO HASTA EL 30 DE NOVIEMBRE DE 2024. ASIMISMO, EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2016 CONCLUIRÁ SU ENCARGO EL 30 DE NOVIEMBRE DE 2023; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 24 DE FEBRERO DE 2019 CONCLUIRÁ SUS FUNCIONES EL 23 DE FEBRERO DE 2026; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL EJECUTIVO FEDERAL EL 18 DE NOVIEMBRE DE 2019 CONCLUIRÁ EL 17 DE NOVIEMBRE DE 2026; LAS CONSEJERAS DE LA JUDICATURA FEDERAL DESIGNADAS POR EL SENADO DE LA REPÚBLICA EL 20 DE NOVIEMBRE DE 2019 CONCLUIRÁN SU ENCARGO EL 19 DE NOVIEMBRE DE 2026; Y EL CONSEJERO DE LA JUDICATURA FEDERAL DESIGNADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2019 DURARÁ EN FUNCIONES HASTA EL 30 DE NOVIEMBRE DE 2026.
+
+D.O.F. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. La aplicación de lo dispuesto en el Código Nacional de Procedimientos Civiles y Familiares previsto en el presente Decreto, entrará en vigor gradualmente, como sigue: en el Orden Federal, de conformidad con la Declaratoria que indistinta y sucesivamente realicen las Cámaras de Diputados y Senadores que integran el Congreso de la Unión, previa solicitud del Poder Judicial de la Federación, sin que la misma pueda exceder del 1o. de abril de 2027.
+
+En el caso de las Entidades Federativas, el presente Código Nacional, entrará en vigor en cada una de éstas de conformidad con la Declaratoria que al efecto emita el Congreso Local, previa solicitud del Poder Judicial del Estado correspondiente, sin que la misma pueda exceder del 1o. de abril de 2027.
+
+La Declaratoria que al efecto se expida, deberá señalar expresamente la fecha en la que entrará en vigor el Código Nacional de Procedimientos Civiles y Familiares, y será publicada en el Diario Oficial de la Federación y en los Periódicos o Gacetas Oficiales del Estado, según corresponda.
+
+Entre la Declaratoria a que se hace referencia en los párrafos anteriores, y la entrada en vigor del presente Código Nacional de Procedimientos Civiles y Familiares, deberán mediar máximo 120 días naturales. En todos los casos, vencido el plazo, sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor será automática en todo el territorio nacional sin que la misma pueda exceder el día 1o. de abril de 2027.
+
+Artículo Tercero. De conformidad con el Artículo Segundo de las Disposiciones Transitorias de este Decreto, se abrogan el Código Federal de Procedimientos Civiles, así como la legislación procesal civil y familiar de las Entidades Federativas.
+
+Artículo Cuarto. Los procedimientos civiles y familiares que a la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del Código Nacional.
+
+No procederá la acumulación de procesos civiles y familiares cuando alguno de ellos se esté tramitando conforme al presente Código Nacional, y el otro proceso conforme a un Código abrogado.
+
+Artículo Quinto. Cuando por razón de competencia, sea por fuero o territorio, se realicen actuaciones conforme a un fuero o sistema procesal distinto al que se remiten, podrá la autoridad jurisdiccional receptora convalidarlas, siempre que, de manera, fundada y motivada, se concluya que se respetaron las garantías esenciales del debido proceso en el procedimiento de origen.
+
+Asimismo, podrá (sic) regularizarse aquellas actuaciones que, también de manera fundada y motivada, la autoridad jurisdiccional que las recibe determine que las mismas deban ajustarse a las formalidades del sistema civil o familiar al cual se incorporarán tomando en cuenta su marco sustantivo interno.
+
+Artículo Sexto. En el caso de la Federación, la Cámara de Diputados, tomando en cuenta la estimación de ingresos aprobados para cada ejercicio fiscal, y con base en los principios de austeridad, eficiencia, eficacia y economía, contemplará en los ejercicios fiscales posteriores a la publicación del presente Decreto, una asignación de recursos presupuestarios para el cumplimiento del presente Decreto.
+
+Para efectos de lo anterior, el Poder Judicial de la Federación, al elaborar su proyecto de presupuesto de egresos anual, deberá observar los criterios generales de política económica, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables.
+
+Los Congresos Locales, en el ámbito de sus atribuciones, aprobarán los recursos presupuestarios correspondientes para los Poderes Judiciales de las Entidades Federativas, para el cumplimiento del presente Decreto.
+
+En todo caso y siempre que proceda, las adecuaciones a las estructuras orgánicas, ocupacionales y salariales que se deriven de la ejecución del presente Decreto, deberán realizarse mediante movimientos compensados y no deberán incrementar el presupuesto regularizable de servicios personales.
+
+Artículo Séptimo. La Secretaría de Gobernación, sesenta días hábiles posteriores a la publicación de este Decreto, instalará y presidirá una Comisión para la Coordinación del Sistema de Justicia previsto en el presente Decreto, con la participación de la Presidencia de la Comisión Nacional de Tribunales Superiores de Justicia de los Estados Unidos Mexicanos; la Presidencia del Tribunal Superior de Justicia del Estado, así como la Presidencia de la Comisión de Justicia del Congreso Local que corresponda, quienes concurrirán a convocatoria o solicitud ante la Presidencia de la Comisión, con el fin de configurar la asistencia técnica a los Poderes Judiciales, Federal y Locales, en la instrumentación del Código Nacional de Procedimientos Civiles y Familiares con base en el desarrollo de habilidades, destrezas y sanas prácticas procesales, y la definición de estándares uniformes de operación del sistema; así como la correcta aplicación de los recursos públicos asignados; asimismo la Comisión contará con la representación de la Presidencia de la Comisión de Justicia tanto de la Cámara de Diputados como del Senado de la República; y la Presidencia del Consejo de la Judicatura Federal y Locales, en caso de ausencia de las personas designadas, concurrirán quienes ostenten su representación legal. En todos los casos las participaciones de quienes integran esta Comisión, serán honoríficos.
+
+La Comisión tendrá por objeto analizar y acordar las políticas de coordinación necesarias para la instrumentación del Código Nacional de Procedimientos Civiles y Familiares, así como la armonización legislativa que apareja, en todo el territorio nacional. Para dichos efectos podrá convocar a los diversos grupos de la sociedad y la academia, de conformidad con las Bases de Operación que para dichos efectos expida la propia Comisión, en cumplimiento a su Acuerdo de instalación. La Comisión deberá remitir un Informe de Actividades a las Cámaras del Congreso General de los Estados Unidos Mexicanos.
+
+Artículo Octavo. La Comisión, atendiendo a lo previsto en el Artículo Sexto transitorio, contará con una Secretaría Técnica, encargada de ejecutar los Acuerdos y determinaciones de la Comisión, así como coadyuvar, coordinar y brindar apoyo a las autoridades Locales y Federales en la instrumentación del Código Nacional de Procedimientos Civiles y Familiares.
+
+Artículo Noveno. Los Poderes Judiciales de la Federación y de las Entidades Federativas, en el ámbito de sus respectivas competencias, establecerán las etapas y calendarios para llevar a cabo las acciones y medidas necesarias para la instrumentación del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con las asignaciones presupuestales aprobadas para ese fin en sus respectivos presupuestos de egresos del ejercicio fiscal que corresponda.
+
+La Comisión prevista en el Artículo Séptimo de estas Disposiciones Transitorias, dará seguimiento a la implementación conforme a lo establecido o dispuesto en el párrafo anterior.
+
+Artículo Décimo. El Congreso General de los Estados Unidos Mexicanos, así como las Legislaturas de las Entidades Federativas, contarán con un plazo máximo de 180 días naturales posteriores a la publicación del presente Decreto, para expedir las actualizaciones normativas correspondientes para su debido cumplimiento.
+
+Artículo Décimo Primero. Los Poderes Judiciales Federal y de las Entidades Federativas, deberán hacer los ajustes reglamentarios para la adopción de las mejoras en sus estructuras e infraestructura física y tecnológica y de capacitación en el plazo máximo de a (sic) la entrada en vigor del presente Código Nacional.
+
+Artículo Décimo Segundo. Para la instrumentación de lo dispuesto en este Decreto, tanto en el ámbito Federal como Local, las autoridades podrán establecer Convenios de Colaboración.
+
+Artículo Décimo Tercero. Toda referencia a la legislación procesal civil y familiar Federal y de las Entidades Federativas, en ordenamientos diversos, se entenderá a partir de la vigencia en las mismas, al Código Nacional de Procedimientos Civiles y Familiares.
+
+Artículo Décimo Cuarto. El Consejo de la Judicatura Federal coordinará, con los Consejos de la Judicatura de las Entidades Federativas, la armonización regulatoria y operativa respecto de la información judicial a su cargo para la instrumentación de una plataforma digital bajo la denominación de Sistema Nacional de Información Jurisdiccional, para acceso y consulta pública, la cual deberá contener al menos el nombre de la persona actora, demandada, autoridad jurisdiccional que conoce del juicio o de la apelación, tipo de juicio, así como las resoluciones de primera y segunda instancia y en su caso si se promovió juicio de amparo.
+
+En esta plataforma se agregará un apartado, en el que se contengan las direcciones de correo electrónico de las autoridades, peritos y auxiliares oficiales.
+
+Dicha plataforma digital será administrada por el Consejo de la Judicatura Federal, quien tendrá control y resguardo absoluto de las bases de datos, bajo lineamientos que al efecto expida para el manejo y recopilación de la información, observando en todo momento el marco regulatorio en materia de transparencia.
+
+Artículo Décimo Quinto. En materia de digitalización de documentos en expedientes judiciales, mientras el Consejo de la Judicatura respectivo no establezca sus propios lineamientos, deberá cumplirse lo que para tal efecto establece la Norma Oficial Mexicana que señala los requisitos que deben observarse para la conservación de mensajes de datos y digitalización de documentos.
+
+Artículo Décimo Sexto. Para efecto de que todas las comunicaciones y notificaciones electrónicas, se les realicen a todas las autoridades, peritos y demás auxiliares oficiales a través de su dirección de correo electrónico oficial, deberán señalar dicha dirección en su página de internet oficial, de contar con ella, y en todo caso deberán hacerlo de conocimiento de los poderes judiciales dentro de los 90 días siguientes a la entrada en vigor del presente Decreto. Los poderes judiciales deberán registrar y almacenar dicha información, para remitirla al Sistema Nacional de Información Jurisdiccional a fin de que sea de acceso público.
+
+Artículo Décimo Séptimo. Los Consejos de la Judicatura Federal y de las Entidades Federativas, contarán con un plazo máximo de 180 días naturales a partir de la publicación de este Decreto, para emitir el formato único concursal; así como el diseño e instrumentación del Boletín Concursal Nacional Digital en la Plataforma del Sistema Nacional de Información Jurisdiccional, en el que se registre el número de expediente de cada proceso judicial de insolvencia que se admita, la fecha de admisión, el juzgado de radicación y el nombre de la persona deudora. Dicho registro será público, y tendrá por objeto servir de medio de notificación de los procedimientos de insolvencia a todos los acreedores que puedan ser afectados; así como a las autoridades jurisdiccionales que conozcan de algún proceso a favor o en contra de la persona deudora.
+
+Artículo Décimo Octavo. Las sociedades de información crediticia contarán con un plazo máximo de 180 días naturales a partir de la entrada gradual en vigor del presente Decreto según corresponda, para incorporar en sus reportes de crédito una clasificación especial que identifique a las personas deudoras que celebraron un convenio, plan de pagos, o sentencia, que deriven del concurso civil que prevé el presente Código Nacional.
+
+Artículo Décimo Noveno. Se derogan todas aquellas disposiciones que establezcan procedimientos de interdicción, cuyo efecto sea restringir la capacidad jurídica de las personas mayores de 18 años, de conformidad con lo previsto por las Disposiciones Transitorias del presente Decreto.
+
+Artículo Vigésimo. Para el caso que, en la fecha de publicación en el Diario Oficial de la Federación (sic) este Código Nacional, en la legislación vigente de las entidades federativas no exista regulación relacionada con el procedimiento especial de declaración de ausencia por desaparición, a partir del día siguiente de dicha publicación, se aplicarán supletoriamente las disposiciones del presente Código Nacional.
