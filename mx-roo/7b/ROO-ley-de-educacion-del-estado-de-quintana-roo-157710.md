@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-157710"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-27"
-last_updated: "2022-04-27"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Extraordinario Número 68 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de abril de 2022.
 
@@ -518,6 +518,10 @@ Niveles y Servicios en Educación Superior
 La educación superior, como parte del Sistema Educativo Estatal y último esquema de la prestación de los servicios educativos para la cobertura universal prevista en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, así como en el artículo 32 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, es el servicio que se imparte en sus distintos niveles, después del tipo medio superior. Está compuesta por la licenciatura, la especialidad, la maestría y el doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende también la educación normal en todos sus niveles y especialidades.
 
 Las autoridades educativas estatales y municipales, en el ámbito de sus competencias, establecerán políticas para fomentar la inclusión, continuidad y egreso oportuno de estudiantes inscritos en educación superior, poniendo énfasis en los jóvenes y determinarán medidas que amplíen el ingreso y permanencia a toda aquella persona que, en los términos que señale la ley en la materia, decida cursar este tipo de estudios, tales como el establecimiento de mecanismos de apoyo académico y económico que responda a las necesidades de la población estudiantil. Las instituciones podrán incluir, además, opciones de formación continua y actualización para responder a las necesidades de la transformación del conocimiento y cambio tecnológico.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+Las autoridades educativas de Educación Superior, en el ámbito de su competencia, promoverán el desarrollo, la vinculación y divulgación de la investigación científica para el conocimiento, la enseñanza y el aprendizaje de las lenguas indígenas en el Estado de Quintana Roo, especialmente la lengua maya.
 
 Obligatoriedad de la Educación Superior
 
@@ -1491,7 +1495,9 @@ XII. Proporcionar a los educandos los libros de texto gratuitos y materiales edu
 
 XIII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia;
 
-XIV. Establecer, de acuerdo con la suficiencia presupuestal, la entrega gratuita de uniformes y útiles escolares, mochilas, calzado y anteojos para estudiantes de educación básica;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XIV. Garantizar, a través de políticas y programas, la entrega gratuita de uniformes, útiles escolares y mochilas para el alumnado de educación básica de escuelas públicas;
 
 XV. Proporcionar apoyos a educandos cuya madre, padre o tutor haya fallecido o sufrido algún accidente que le ocasione invalidez o incapacidad permanente;
 
@@ -2341,7 +2347,7 @@ Noveno. El Programa Educativo Estatal previsto en el artículo 101 de esta Ley s
 
 Décimo. En razón de la entrada en vigor de la presente ley, la Legislatura del Estado expedirá la Ley de Educación Superior del Estado de Quintana Roo, en armonización con la Ley General de Educación Superior.
 
-Décimo Primero. En cumplimiento a lo establecido en la fracción XIV del artículo 105 de la presente Ley, la Legislatura del Estado deberá expedir la ley específica para proveer la gratuidad de uniformes, útiles escolares y mochilas en el nivel educativo básico.
+Décimo Primero. (DEROGADO, P.O. 7 DE JUNIO DE 2023)
 
 SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL EL ESTADO DE QUINTANA ROO, A LOS VEINTE DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL VEINTIDÓS.
 
@@ -2360,3 +2366,25 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTISEIS DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL VEINTIDOS.
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, DR. JORGE ARTURO CONTRERAS CASTILLO, RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 079 POR EL QUE SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 31 DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO”].
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 081 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley para la Dotación Gratuita de Uniformes, Mochilas y Útiles Escolares a las Alumnas y los Alumnos Inscritos en Escuelas Públicas de Educación Básica en el Estado de Quintana Roo, publicada el día 16 de junio del 2022 en el Periódico Oficial del Estado de Quintana Roo, a través del Decreto Número 241 expedido por la XVI Legislatura del Estado de Quintana Roo.
+
+TERCERO. A partir del período escolar 2023-2024, las autoridades educativas del Estado y los Municipios, en el ámbito de sus respectivas competencias, deberá (sic) implementar las políticas y los programas que resulten necesarios para dar cumplimiento a lo establecido en el presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
