@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-mental-del-estado-y-municipios-de-san-luis-130400"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-30"
-last_updated: "2021-12-27"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de agosto de 2018.
 
@@ -151,27 +151,13 @@ XIV. Recibir el suministro adecuado y completo de los medicamentos básicos para
 
 Las medidas de restricción, serán las mínimas posibles de acuerdo con el padecimiento y su evolución, en relación con el cuidado de su seguridad y de la de terceros.
 
-(NOTA: EL 7 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2021, DECLARÓ LA INVALIDEZ DEL DECRETO 1155 POR EL QUE SE ADICIONÓ ESTE CAPÍTULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2023)</small>
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE ABRIL DE 2021)</small>
+### CAPÍTULO IV. De la Familia de los Usuarios
 
-### Capitulo IV. De la Familia de los Usuarios
+###### ARTÍCULO 4° Bis.
 
-(NOTA: EL 7 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2021, DECLARÓ LA INVALIDEZ DEL DECRETO 1155 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2021)</small>
-
-###### ARTÍCULO 4º Bis.
-
-El núcleo familiar desempeña una función esencial en el desarrollo de las potencialidades de las personas con algún trastorno mental; para ello deberá:
-
-I. Proporcionar apoyo, cuidados, protección a la salud, y alimentación suficiente y adecuada;
-
-II. Respetar los principios de autonomía individual, independencia, no discriminación, y todos aquellos que garanticen la igualdad en el ejercicio de sus derechos;
-
-III. Recibir capacitación y orientación por parte de las instituciones públicas, sociales y privadas, y
-
-IV. Participar en actividades culturales, educativas, recreativas, deportivas y de esparcimiento, que contribuyan al desarrollo integral de las personas con alguna enfermedad mental.
+(DEROGADO, P.O. 7 DE JUNIO DE 2023)
 
 ## TÍTULO SEGUNDO. De la Autoridad Competente
 
@@ -454,3 +440,11 @@ P.O. 27 DE DICIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0768.- SE DEROGA DEL TÍTULO PRIMERO, EL CAPÍTULO IV "DE LA FAMILIA DE LOS USUARIOS" Y EL ARTÍCULO 4° BIS, DE LA LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
