@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-115
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2022-06-08"
+last_updated: "2023-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 3 de mayo de 2016.
 
@@ -849,7 +849,9 @@ Los Consejeros serán elegidos por el voto de las dos terceras partes de los int
 
 Los Consejeros deben cumplir los siguientes requisitos:
 
-I. Ser mexicano por nacimiento;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+I. Contar con la ciudadanía mexicana;
 
 II. Contar con una residencia mínima de diez años en el Estado;
 
@@ -2950,3 +2952,11 @@ P.O. 8 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se reforman el párrafo sexto del artículo 94 y el párrafo tercero del apartado B del artículo 96 y se adicionan los párrafos cuarto y quinto al artículo 51 BIS, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de comparecencia de los titulares de los órganos públicos autónomos a la Legislatura del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 078 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS, EN MATERIA DE REQUISITOS PARA OCUPAR CARGOS PUBLICOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
