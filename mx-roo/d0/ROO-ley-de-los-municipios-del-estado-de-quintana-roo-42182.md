@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2023-06-06"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -1623,15 +1623,15 @@ Cada Ayuntamiento contará con una Secretaría General, encargada del despacho d
 
 El o la Secretario/a General será designado por la mayoría de los miembros del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 119.
 
-Para ser Secretario/a General del Ayuntamiento se requiere:
+Para ser persona titular de la Secretaría General del Ayuntamiento se requiere:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-I. Ser mexicano/a por nacimiento y ciudadano quintanarroense, en pleno ejercicio de sus derechos políticos y civiles;
+I. Tener la ciudadanía mexicana y quintanarroense, estando en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener como mínimo, veinticinco años cumplidos, el día de la designación;
 
@@ -1641,9 +1641,15 @@ IV. Tener experiencia académica o administrativa necesaria, así como reconocid
 
 V. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso;
 
-VI. No haber sido sentenciado por delito intencional, ni sometido a juicio de responsabilidad como servidor público; y
+(NOTA: EL 4 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-V (sic). No estar impedido, conforme a las disposiciones contenidas en la presente Ley y disposiciones aplicables.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+VI. NO HABER SIDO SENTENCIADA POR DELITO INTENCIONAL QUE AMERITE PENA CORPORAL DE MÁS DE DOS AÑOS DE PRISIÓN, Y
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+VII. No estar inhabilitada para desempeñar un empleo, cargo o comisión en el servicio público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1721,25 +1727,33 @@ La Tesorería Municipal estará a cargo de una persona distinta de los integrant
 
 El o la Tesorero/a será responsable del manejo de los valores a su cuidado y deberá otorgar caución igual que todos los funcionarios y empleados que manejen fondos o valores de propiedad municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 123.
 
-El o la Tesorero/a Municipal tendrá a su cargo la administración de la Hacienda Pública Municipal, y para desempeñar el cargo, se requiere:
+La persona titular de la Tesorería Municipal tendrá a su cargo la administración de la Hacienda Pública Municipal, y para desempeñar el cargo, se requiere:
 
-I. Ser mexicano por nacimiento y ciudadano quintanarroense, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+I. Tener la ciudadanía mexicana y quintanarroense, estando en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Contar con una residencia y vecindad mínima de cinco años en el Municipio de que se trate;
 
-III. Ser persona de notoria buena conducta y no haber sido sentenciado por delito intencional, ni sometido a juicio de responsabilidad como funcionario público;
+(NOTA: EL 4 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-IV. Tener los conocimientos y la capacidad técnica suficiente para el desempeño del cargo, a juicio de la o el Presidente/a Municipal y del Ayuntamiento;
+III. Ser persona de notoria buena conducta Y NO HABER SIDO SENTENCIADA POR DELITO INTENCIONAL QUE AMERITE PENA CORPORAL DE MÁS DE DOS AÑOS DE PRISIÓN.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+IV. Tener los conocimientos y la capacidad técnica suficiente para el desempeño del cargo, a juicio de la persona titular de la presidencia Municipal y del Ayuntamiento.
 
 V. No pertenecer al estado eclesiástico, ni ser Ministro de algún culto religioso;
 
-VI. No estar impedido, conforme a las disposiciones contenidas en esta Ley; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+VI. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
 VII. Otorgar la caución que le fije el Ayuntamiento.
 
@@ -3578,3 +3592,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado, deberán realizar las adecuaciones que correspondan a su normatividad aplicable, a efecto de dar cumplimiento a su contenido.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 078 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS, EN MATERIA DE REQUISITOS PARA OCUPAR CARGOS PÚBLICOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
