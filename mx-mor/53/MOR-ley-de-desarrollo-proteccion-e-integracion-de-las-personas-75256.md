@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-proteccion-e-integracion-de-las-personas-7525
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-09"
-last_updated: "2020-12-16"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de junio de 2010.
 
@@ -314,6 +314,10 @@ Queda prohibido cualquier acto de crueldad o violencia, así como de aislamiento
 Todo el personal que preste servicios en instituciones que brinden asistencia social a las personas adultas mayores, deberá ser seleccionado previo estudio desde los puntos de vista médico, psicológico, social y académico, que determinen la calidad del aspirante y su aptitud para el trabajo que de él se espere.
 
 Las instituciones públicas y privadas dedicadas a la asistencia de las personas adultas mayores, en coordinación con el Estado de Morelos y las universidades, deberán implementar programas de servicio social a fin de que la comunidad estudiantil de las distintas áreas puedan compenetrarse en la atención de las personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+Asimismo, el ejecutivo del estado y los ayuntamientos, buscarán promover el otorgamiento de incentivos o estímulos fiscales estatales y municipales, según sea el caso, para las personas físicas o morales que contraten y consideren un mínimo de empleos para personas adultas mayores, conforme lo establezca la autoridad competente y correspondiente mediante la suscripción de los convenios.
 
 ### CAPÍTULO II. DE LA FAMILIA
 
@@ -1128,3 +1132,13 @@ SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERA. El Poder Ejecutivo del Estado, adecuara sus Reglamentos en un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto.
 
 CUARTA. Se derogan todas las disposiciones secundarias que se opongan a la presente reforma.
+
+P.O. 7 DE JUNIO DE 2023.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO NÚMERO NOVECIENTOS VEINTINUEVE.- POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 10 DE LA LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE ESTÍMULOS”.]</small>
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo Estatal para su publicación en el Periódico oficial “tierra y libertad”, órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. (sic) Presente decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
