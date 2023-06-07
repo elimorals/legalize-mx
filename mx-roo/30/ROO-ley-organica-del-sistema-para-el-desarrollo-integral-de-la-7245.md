@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-sistema-para-el-desarrollo-integral-de-la-7245
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-01-15"
-last_updated: "2021-07-16"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial el 15 de enero de 1985.
 
@@ -273,9 +273,11 @@ La Junta Directiva celebrará sesiones ordinarias bimestrales y las extraordinar
 
 ### CAPITULO III. DEL DIRECTOR GENERAL DEL SISTEMA ESTATAL
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
+
 ###### ARTICULO 14.
 
-El Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, será designado y removido de su cargo libremente por el C. Gobernador Constitucional del Estado; deberá ser ciudadano mexicano por nacimiento, mayor de 30 años y con experiencia en materia administrativa y de asistencia social, y tener residencia mínima de 3 años en el Estado.
+La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, será designada y removida de su cargo libremente por la persona titular del Poder Ejecutivo del Estado; deberá tener la ciudadanía mexicana, ser mayor de 30 años y con experiencia en materia administrativa y de asistencia social, y tener residencia mínima de 3 años en el Estado.
 
 ###### ARTICULO 15.
 
@@ -423,39 +425,65 @@ Cuando los Honorables Ayuntamientos determinen que su Sistema Municipal sea crea
 
 I.- Un Patronato, que será el órgano de apoyo, consulta y opinión del Sistema Municipal y que está integrado por:
 
-a).- Un Presidente, el cual será designado y removido libremente por el Presidente Municipal.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
-b).- Un Secretario, que será el Director General del Sistema Municipal.
+a).- Una Presidencia, la cual será designada y removida libremente por la persona titular de la Presidencia Municipal;
 
-c).- Un Tesorero, que será el C. Tesorero Municipal.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
-a).- Y un mínimo de cinco vocales designados entre las instituciones, asociaciones o agrupaciones, tanto de los sectores público y privado como del social y profesional de cada Municipio. El Coordinador de zona del Sistema Estatal será también vocal. Las funciones y atribuciones del Patronato serán similares en lo conducente con los del Patronato del Sistema Estatal.
+b).- Una Secretaría, que será la persona titular de la Dirección General del Sistema Municipal;
 
-II.- Una Junta Directiva que será el órgano de autoridad Ejecutiva del Sistema Municipal; sus integrantes no percibirán retribución alguna, incluyendo al Presidente Municipal, que la presidirá; se integrará de la siguiente forma:
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
-a).- Cinco vocales, como mínimo, cuya designación recaerá en principio en los titulares de las Regidurías de Salud, de mercados y abastos, de servicios sociales y asistenciales o sus equivalentes, así como por el Síndico del Ayuntamiento y el Coordinador de zona dependiente del Sistema Estatal.
+c).- Una Tesorería, que será la persona titular de la Tesorería Municipal, y
 
-b).- Un representante como mínimo, por los sectores campesino, obrero y popular del Municipio; y hasta 5 más por las representaciones de las organizaciones, instituciones o asociaciones que en forma directa o indirecta tengan forma de participar en la prestación de servicios de asistencia y bienestar social. El Secretario del Ayuntamiento fungirá con ese cargo dentro de la Junta Directiva.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
-III.- Una Dirección Municipal que será el órgano administrativo ejecutor del Sistema Municipal.
+d).- Un mínimo de cinco vocalías designadas entre las instituciones, asociaciones o agrupaciones, tanto de los sectores público y privado como del social y profesional de cada Municipio. La persona Coordinadora de zona del Sistema Estatal será también vocal. Las funciones y atribuciones del Patronato serán similares en lo conducente con los del Patronato del Sistema Estatal.
 
-Encargada de ejecutar las disposiciones de la Junta Directiva y ejercer las facultades administrativas que le confieran las disposiciones reglamentarias que al efecto se expidan. Estará a cargo de un Director designado y removido libremente por el Ayuntamiento a propuesta del Presidente Municipal y deberá ser mexicano por nacimiento, mayor de 25 años y con experiencia en materia administrativa y de asistencia social, y que tenga 2 años de residencia mínima en el Municipio respectivo.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 7 DE JUNIO DE 2023)</small>
+
+II.- Una Junta Directiva que será el órgano de autoridad Ejecutiva del Sistema Municipal; sus integrantes no percibirán retribución alguna, incluyendo a la persona titular de la Presidencia Municipal, que la presidirá; se integrará de la siguiente forma:
+
+a).- Cinco vocales, como mínimo, cuya designación recaerá en principio en las personas titulares de las Regidurías de Salud, de Mercados y Abastos, de Servicios Sociales y Asistenciales o sus equivalentes, así como por la persona titular de la Síndicatura del Ayuntamiento y la persona Coordinadora de zona dependiente del Sistema Estatal.
+
+b).- Un representante como mínimo, por los sectores campesino, obrero y popular del Municipio; y hasta 5 más por las representaciones de las organizaciones, instituciones o asociaciones que en forma directa o indirecta tengan forma de participar en la prestación de servicios de asistencia y bienestar social. La persona titular de la Secretaría General del Ayuntamiento fungirá con ese cargo dentro de la Junta Directiva.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+III.- Una Dirección Municipal que será el órgano administrativo ejecutor del Sistema Municipal, encargado de ejecutar las disposiciones de la Junta Directiva y ejercer las facultades administrativas que le confieran las disposiciones reglamentarias que al efecto se expidan. Estará a cargo de una persona Directora designada y removida libremente por el Ayuntamiento a propuesta de la persona titular de la presidencia Municipal y deberá tener la ciudadanía mexicana, mayor de 25 años y con experiencia en materia administrativa y de asistencia social, y que tenga 2 años de residencia mínima en el Municipio respectivo.
 
 ###### ARTICULO 25.
 
 Cuando los Honorables Ayuntamientos determinen que sus Sistemas Municipales sean creados de conformidad con la fracción II del Artículo 20, la estructura y organización serán las siguientes:
 
-a).- Se constituirá como una unidad administrativa con dependencia directa y única del Presidente Municipal.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
-b).- La Unidad administrativa estará subdividida en tres áreas, que serán: 1.- La del Patronato; 2.- El Comité Directivo; y 3.- El Director del Sistema Municipal.
+a).- Se constituirá como una unidad administrativa con dependencia directa y única de la Presidencia Municipal.
 
-c).- El Patronato estará presidido por la persona que al efecto designe el Presidente Municipal y deberá integrarse en forma similar al de los Sistemas Municipales que establece la fracción I del Artículo 24.
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 7 DE JUNIO DE 2023)</small>
 
-d).- El comité Directivo estará presidido por el propio Presidente Municipal y se integrará con un mínimo de 5 y 9 como máximo de vocales designados por el H. Ayuntamiento, seleccionados entre los miembros del Cabildo y representantes de organismos, instituciones o agrupaciones públicas o privadas, que en forma directa presten servicios de asistencia o bienestar social dentro de sus jurisdicciones.
+b).- La Unidad administrativa estará subdividida en tres áreas, que serán:
 
-El Coordinador de zona dependiente del Sistema Estatal, será considerado como Vocal integrante del Comité.
+1. La del Patronato;
 
-e).- El Director del Sistema Municipal será el representante legal y ejecutor en materia administrativa del Sistema; lo nombrará y removerá libremente el Presidente Municipal y deberá ser mexicano por nacimiento, mayor de 25 años y con experiencia en materia administrativa y de asistencia social, con residencia mínima de 2 años en el municipio respectivo.
+2. El Comité Directivo; y
+
+3. La Dirección del Sistema Municipal.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+c).- El Patronato estará presidido por quien al efecto designe la persona titular de la Presidencia Municipal y deberá integrarse en forma similar al de los Sistemas Municipales que establece la fracción I del Artículo 24.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+d).- El comité Directivo estará presidido por la persona titular de la Presidencia Municipal y se integrará con un mínimo de 5 y 9 como máximo de vocalías designadas por el H. Ayuntamiento, seleccionadas entre las personas integrantes del Cabildo y representantes de organismos, instituciones o agrupaciones públicas o privadas, que en forma directa presten servicios de asistencia o bienestar social dentro de sus jurisdicciones.
+
+La persona Coordinadora de zona dependiente del Sistema Estatal, será considerada como Vocal integrante del Comité.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+e).- La persona titular de la Dirección del Sistema Municipal será la persona representante legal y ejecutora en materia administrativa del Sistema; la nombrará y removerá libremente la persona titular de la Presidencia Municipal y deberá tener la ciudadanía mexicana, ser mayor de 25 años y con experiencia en materia administrativa y de asistencia social, con residencia mínima de 2 años en el municipio respectivo.
 
 ###### ARTICULO 26.
 
@@ -570,3 +598,11 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 078 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS, EN MATERIA DE REQUISITOS PARA OCUPAR CARGOS PÚBLICOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
