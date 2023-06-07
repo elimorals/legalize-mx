@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2023-02-15"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -469,7 +469,7 @@ Los candidatos independientes no podrán ser postulados por un partido político
 
 Quienes hayan sido designados en Consejo Municipal podrán ser electos para el periodo inmediato.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 18.
 
@@ -479,11 +479,13 @@ I. Once regidores: Cuernavaca;
 
 II. Nueve regidores: Cuautla y Jiutepec;
 
-III. Siete regidores: Ayala, Emiliano Zapata, Temixco, Xoxocotla y Yautepec;
+III. Siete regidores: Ayala, Emiliano Zapata, Temixco y Yautepec;
 
-IV. Cinco regidores: Axochiapan, Jojutla, Puente de Ixtla, Tepoztlán, Tlaltizapán de Zapata, Tlaquiltenango, Xochitepec, Yecapixtla y Zacatepec, y
+IV. Cinco regidores: Axochiapan, Jojutla, Puente de Ixtla, Tepoztlán, Tlaltizapán de Zapata, Tlaquiltenango, Xochitepec, Yecapixtla y Zacatepec;
 
-V. Tres regidores: Amacuzac, Atlatlahucan, Coatetelco, Coatlán del Río, Hueyapan, Huitzilac, Jantetelco, Jonacatepec de Leandro Valle; Mazatepec, Miacatlán, Ocuituco, Temoac, Tepalcingo, Tetecala, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan y Zacualpan de Amilpas.
+V. Tres regidores: Amacuzac, Atlatlahucan, Coatlán del Río, Huitzilac, Jantetelco, Jonacatepec de Leandro Valle; Mazatepec, Miacatlán, Ocuituco, Temoac, Tepalcingo, Tetecala, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan y Zacualpan de Amilpas.
+
+VI. Los Municipios indígenas de Coatetelco, Hueyapan y Xoxocotla, se regirán por su decreto de creación, y conforme a sus sistemas normativos indígenas.
 
 ###### Artículo 19.
 
@@ -4654,3 +4656,19 @@ CUARTA.- Los 36 municipios del estado de Morelos en un plazo no mayor a 60 días
 QUINTA.- Se derogan las disposiciones de igual o menor rango jerárquico que se opongan al presente decreto.
 
 SEXTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRECE POR EL QUE SE QUE SE (SIC) REFORMA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS Y LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, EN MATERIA POLÍTICO ELECTORAL PARA GARANTIZAR LA INCLUSIÓN DE GRUPOS VULNERABLES Y LA PARIDAD DE GÉNERO”.]
+
+PRIMERO. Remítase el presente decreto al Titular del Poder Ejecutivo para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERO. El número de regidurías destinadas a personas indígenas deberá ser actualizado por el Congreso del Estado, con cada intercensal o censal que al efecto realice el Instituto Nacional de Estadística, Geografía e Informática, conforme al aumento poblacional indígena determinado en cada municipio.
+
+CUARTO. Los municipios indígenas no sufrirán modificación respecto al número de integrantes de sus Concejos Municipales Indígenas que les correspondan para garantizar su autodeterminación y respeto a sus usos y costumbres.
+
+QUINTO. Para efectos de este año electoral, el Instituto Morelense de Procesos Electorales y Participación Ciudadana, entregará la lista de los distritos y municipios en los que cada partido político local postuló candidaturas a Diputadas o Diputados o a miembros de los Ayuntamientos, en su caso, a los partidos políticos treinta días hábiles antes de la declaratoria del inicio del periodo electoral.
+
+SEXTO. El Instituto Morelense de Procesos Electorales y Participación Ciudadana, deberá realizar los ajustes presupuestales necesarios para la implementación de las dos Comisiones creadas en el presente Decreto.
