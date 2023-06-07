@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-89672
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2021-06-24"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre del 2012.
 
@@ -393,9 +393,7 @@ XVI. Procurar la participación activa de las personas con discapacidad en las a
 
 XVII. INSCRIBIR AL SEGURO POPULAR A LA POBLACIÓN CON DISCAPACIDAD;
 
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 274/2020, DECLARÓ LA INVALIDEZ DEL DECRETO 0756 POR EL QUE SE DEROGÓ LA FRACCIÓN XVIII DE ESTE ARTÍCULO , LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XVIII. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2020)
+XVIII. (DEROGADA [N. DE E. REPUBLICADA], P.O. 7 DE JUNIO DE 2023)
 
 XIX. Las demás que le confiere esta Ley y los ordenamientos legales aplicables.
 
@@ -1013,11 +1011,9 @@ Los organismos públicos de vivienda otorgarán facilidades a las personas con d
 
 El Ejecutivo del Estado y los ayuntamientos de la Entidad deberán estipular, en sus reglamentos respectivos, en materia de estacionamientos para personas con discapacidad, los siguientes aspectos básicos:
 
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 274/2020, DECLARÓ LA INVALIDEZ DEL DECRETO 0756 POR EL QUE SE REFORMÓ LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
-
-I. LA EXPEDICIÓN A LAS PERSONAS CON DISCAPACIDAD, CERTIFICADAS POR LA AUTORIDAD COMPETENTE QUE UTILICEN VEHÍCULO AUTOMOTOR, DE PLACAS CON EL LOGOTIPO INTERNACIONAL DISTINTIVO, QUE LES PERMITA HACER USO DE LOS ESTACIONAMIENTOS EXCLUSIVOS;
+I. La expedición a las personas con discapacidad, certificadas por la autoridad competente que utilicen vehículo automotor, de placas con el logotipo internacional distintivo, que les permita hacer uso de los estacionamientos exclusivos;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
 
@@ -1416,3 +1412,11 @@ P.O. 24 DE JUNIO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0769.- SE REFORMA EL ARTÍCULO 40 EN SU FRACCIÓN I; Y DEROGA DEL ARTÍCULO 11 LA FRACCIÓN XVIII, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
