@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2023-06-02"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -247,15 +247,39 @@ i) No realizar las gestiones necesarias para que las mujeres que hubieren sufrid
 
 j) Todas aquellas previstas por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, 7 DE JUNIO DE 2023)</small>
 
-IX. Violencia mediática: Todo acto a través de cualquier medio de comunicación que, de manera directa o indirecta, promueva estereotipos sexistas; haga apología de la violencia contra las mujeres y las niñas; produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+IX. Violencia mediática: Todo acto a través de cualquier medio de comunicación que, de manera directa o indirecta, promueva estereotipos sexistas; haga apología de la violencia contra las mujeres y las niñas; produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que Compilación Legislativa del Estado de Nuevo León Secretaría General de Gobierno Subsecretaría de Asuntos Jurídicos y Atención Ciudadana Coordinación General de Asuntos Jurídicos Página 14 de 99 (sic) cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
 
 La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad; y
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 7 DE JUNIO DE 2023)</small>
+
+X. Violencia vicaria o a través de interpósita persona: Es cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
+
+Se manifiesta a través de diversas conductas, entre otras:
+
+a. Amenazar con causar daño a las hijas e hijos;
+
+b. Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+
+c. Utilizar a hijas y/o hijos para obtener información respecto de la madre;
+
+d. Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en contra de la madre;
+
+e. Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+f. Ocultar, retener o sustraer a hijas y/o hijos, así como a familiares o personas allegadas;
+
+g. Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común;
+
+h. Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos; y
+
+i. Cuales quiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
 
-IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+XI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 7.
 
@@ -333,7 +357,9 @@ Los modelos de prevención, atención y sanción que establezcan el Estado y los
 
 I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida y lograr que la sociedad perciba ya sea como conductas antisociales, violación a los derechos humanos, de salud o de seguridad pública, todo tipo de violencia contra ellas por motivos de género;
 
-II. Proporcionar atención médica, asesoría y asistencia jurídica y tratamiento psicológico especializado y gratuito a las víctimas, que favorezcan su desarrollo integral y reparen el daño causado por dicha violencia, en los términos de las leyes aplicables;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+II. Proporcionar atención médica, asesoría y asistencia jurídica y tratamiento psicológico especializado y gratuito a las víctimas, que favorezcan su desarrollo integral y reparen el daño causado por dichas violencias, en los términos de las leyes aplicables;
 
 > <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
@@ -341,9 +367,13 @@ III. Brindar y promover el servicio reeducativo para agresores, el cual deberá 
 
 Dicho servicio reeducativo deberá ser incluido como parte de las medidas de prevención, órdenes de protección y sanciones a determinar, por la autoridad competente.
 
-IV. Evitar que la atención que reciban la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-V. Evitar procedimientos de mediación o conciliación salvo que la Ley lo determine, por ser inviables en una relación de sometimiento entre el agresor y la víctima;
+IV. Evitar que la atención que reciban las víctimas y la persona agresora sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+V. Evitar procedimientos de mediación o conciliación salvo que la Ley lo determine, por ser inviables en una relación de sometimiento entre la persona agresora y las víctimas;
 
 > <small>(REFORMADA, P.O. 15 JUNIO DE 2020)</small>
 
@@ -717,6 +747,10 @@ XX. Brindar a la persona agresora el servicio reeducativo, mismo que será integ
 
 XXI. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XXI Bis. Solicitar a la autoridad judicial competente la recuperación y entrega inmediata a las mujeres víctimas de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de la madre, en términos de lo establecido en el artículo 6 fracción X de la presente Ley, y
+
 XXII. Prohibición a la persona agresora de enajenar, prendar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal y, en cualquier caso, cuando se trate de bienes de sociedad conyugal, bajo el esquema del aseguramiento de bienes dando vista al Registro Público de la Propiedad y del Comercio en cada caso;
 
 XXIII. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia;
@@ -755,9 +789,21 @@ XI. La colocación de localizadores electrónicos, previo consentimiento de la p
 
 XII. Brindar a la persona agresora el servicio reeducativo, mismo que será integral, especializado, gratuito y con perspectiva de género, con el objeto de evitar la reincidencia de la persona;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE JUNIO DE 2023)</small>
+
 XIII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza; y
 
-XIV. Las demás que se requieran para brindar una protección a la víctima.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XIV. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XV. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes, y
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XVI. Las demás que se requieran para brindar una protección integral a la víctima.
 
 > <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
 
@@ -843,7 +889,9 @@ Todas las medidas que lleve a cabo el Estado deberán ser realizadas sin discrim
 
 El Sistema Estatal se conformará por las o los titulares y representantes de las siguientes instancias:
 
-I. Secretaría General de Gobierno, quien lo presidirá;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+I. Secretaría de las Mujeres, quien la presidirá;
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
 
@@ -1041,9 +1089,11 @@ XXVIII. Coordinar y promover, en conjunto con el Sistema de Radio y Televisión 
 
 XXIX. Las demás aplicables a la materia, que le concedan las leyes u otros ordenamientos jurídicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
+
 ###### Artículo 32.
 
-Le corresponde a la Secretaría General de Gobierno, las siguientes:
+Le corresponde a la Secretaría de las Mujeres, las siguientes:
 
 I. Presidir el Sistema;
 
@@ -1329,11 +1379,11 @@ XIII. Celebrar convenios de cooperación, coordinación y concertación en la ma
 
 XIV. Las demás previstas para el cumplimiento de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 39.
 
-Corresponde a la Secretaría de Desarrollo Social:
+Corresponde a la Secretaría de Igualdad e Inclusión:
 
 I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
@@ -1427,31 +1477,53 @@ IV. Coadyuvar con los objetivos de esta Ley; y
 
 V. Las demás previstas para el cumplimiento de la presente Ley.
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 42 Bis.
 
-Corresponde al Consejo para la Cultura y las Artes de Nuevo León:
+Corresponde a la Secretaría de Cultura y al Consejo para la Cultura y las Artes de Nuevo León, en sus respectivas áreas de competencia:
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
 
 I. Definir y difundir en las políticas culturales los principios de equidad y no exclusión entre mujeres y hombres, y el respeto pleno a los derechos humanos;
 
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+
 II. Incluir en los programas culturales de todas las disciplinas artísticas, aspectos que fomenten la cultura de una vida libre de violencia contra las mujeres y el respeto a su dignidad;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
 
 III. Impulsar acciones y mecanismos de participación de las mujeres en todos sus programas y actividades.
 
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+
 IV. Promover el derecho de las niñas y mujeres para realizar actividades creativas sin perjuicios de género;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
 
 V. Propiciar la investigación en los procesos creativos de las disciplinas artísticas, encaminada a crear modelos de detección de violencia contra las mujeres en el ámbito profesional;
 
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+
 VI. Incorporar en los programas culturales el respeto a los derechos humanos de las mujeres, así como contenidos temáticos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres, sin perjuicio de la libertad creativa de los autores intérpretes o ejecutantes;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
 
 VII. Propiciar la capacitación al personal de recintos culturales y de atención al público para poder detectar problemas de violencia contra las mujeres;
 
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+
 VIII. Propiciar la elaboración de materiales que promuevan la prevención y atención a la violencia contra las mujeres, en la difusión de actividades culturales y programas de mano de los eventos culturales;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
 
 IX. Propiciar acciones formativas a todo el personal de los recintos culturales, en materia de derechos humanos de las niñas y las mujeres, y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+
 X. Promover un sentido crítico en actividades culturales que tengan referencias relacionadas con la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen negativamente y fomenten la desigualdad entre mujeres y hombres, sin menoscabo del derecho de los autores, intérpretes o ejecutantes;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
 
 XI. Las demás previstas para el cumplimiento de la presente Ley.
 
@@ -1549,9 +1621,9 @@ VI. Contar con un refugio, mientras lo necesite;
 
 VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o discriminación;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-VIII. En los casos de violencia familiar, acudir a los refugios con sus hijas e hijos, o bien, con las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural, que habiten con ellas en el mismo domicilio;
+VIII. En los casos de violencia familiar o violencia vicaria o a través de interpósita persona, acudir a los refugios con sus hijas e hijos, o bien con las niñas, niños, adolescentes, personas con discapacidad, adultos mayores y personas con incapacidad jurídica legal y/o natural, que habiten con ellas en el mismo domicilio;
 
 > <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
@@ -2082,3 +2154,11 @@ P.O. 2 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 393. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 48 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 390. SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 6, LAS FRACCIONES II, IV Y V DEL ARTÍCULO 15, LA FRACCIÓN XIII DEL ARTÍCULO 24 BIS 3, EL PÁRRAFO PRIMERO DE LOS ARTÍCULO (SIC) 26, 32, 39 Y 42, Y LA FRACCIÓN VIII DEL ARTÍCULO 42; SE ADICIONA LA FRACCIÓN X RECORRIÉNDOSE LA SUBSECUENTE SU NUMERACIÓN AL ARTÍCULO 6, LA FRACCIÓN XXI BIS AL ARTÍCULO 24 BIS 2, LAS FRACCIONES XIV Y XV RECORRIÉNDOSE LA SUBSECUENTE EN SU NUMERACIÓN AL ARTÍCULO 24 BIS 3, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO.- Las Autoridades Estatales y Municipales sujetas al cumplimiento del presente Decreto, armonizaran sus reglamentos y normativa correspondiente en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
