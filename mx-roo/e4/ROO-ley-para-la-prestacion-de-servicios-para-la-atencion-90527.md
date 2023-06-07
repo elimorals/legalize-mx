@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-prestacion-de-servicios-para-la-atencion-90527"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-30"
-last_updated: "2022-04-20"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DEL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DEL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de octubre de 2012.
 
@@ -480,6 +480,22 @@ II. Privada: Aquélla cuya creación, financiamiento, operación y administraci�
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
 III. Mixta: Aquella en que la Federación o los Estados o los Municipios o la Ciudad de México y las alcaldías de sus demarcaciones territoriales o en su conjunto, participan en el financiamiento, instalación o administración con instituciones sociales o privadas.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+Artículo 25 BIS. Los Centros de Atención, de modalidad pública y mixta, deberán dar prioridad para la admisión en dichos centros a las hijas e hijos:
+
+I. De madres entre 12 y 29 años de edad y/o tutoras mayores de edad, que comprueben estar inscritas en los niveles básico, medio superior o superior del sistema educativo nacional y que por asistir a la escuela no puedan proporcionar la atención y cuidados necesarios a las niñas y niños;
+
+II. De madres y/o tutoras víctimas de violencia familiar;
+
+III. De madres solteras y/o tutoras que requieran la atención de la niña o niño por motivos laborales, debiendo exhibir una constancia laboral emitida por su superior jerárquico;
+
+IV. De madres y/o tutoras que se encuentren en condiciones de pobreza o vulnerabilidad económica, atendiendo a los criterios socioeconómicos que para tales efectos sean expedidos;
+
+V. De madres y/o tutoras cuyos (sic) hijas o hijos tengan alguna discapacidad, y
+
+VI. Una vez atendidos los supuestos de las fracciones anteriores, se procederá a dar prioridad de admisión a los padres y/o tutores que se encuentren en cualquiera de los supuestos antes mencionados.
 
 ###### Artículo 26.
 
@@ -938,3 +954,11 @@ Se otorga un plazo de noventa días a partir de la publicación del presente Dec
 La implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente Decreto, deberán ser solventadas por las instancias públicas competentes, con cargo a los recursos financieros que les hayan sido asignados, en el ejercicio fiscal de que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que les sean autorizadas, cuando así resulte conducente.
 
 La implementación de las acciones a las que se refiere el presente Decreto, deberán ser materializadas en su totalidad, a más tardar, en el ejercicio fiscal correspondiente al año 2023.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 080 POR EL QUE SE ADICIONA EL ARTÍCULO 25 BIS A LA LEY PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
