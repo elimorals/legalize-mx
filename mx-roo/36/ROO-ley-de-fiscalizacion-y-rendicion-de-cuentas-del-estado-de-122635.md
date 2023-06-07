@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12263
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2017-12-29"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 19 de julio de 2017.
 
@@ -1231,11 +1231,15 @@ XVI. Las demás que le atribuyan expresamente las disposiciones legales y reglam
 
 Las entidades fiscalizadas tendrán la facultad de formular queja ante la Unidad sobre los actos del Titular de la Auditoría Superior del Estado que contravengan las disposiciones de esta Ley, en cuyo caso la Unidad sustanciará la investigación preliminar por vía especial, para dictaminar si ha lugar a iniciar el procedimiento de remoción a que se refiere este ordenamiento, o bien el previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, notificando al quejoso el dictamen correspondiente, previa aprobación de la Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
+
 ###### Artículo 113.
 
-El Titular de la Unidad será designado por la Legislatura, mediante el voto mayoritario de sus miembros presentes en la sesión respectiva, a propuesta de la Comisión, que presentará una terna de candidatos que deberán cumplir con los siguientes requisitos:
+La persona Titular de la Unidad será designada por la Legislatura, mediante el voto mayoritario de sus integrantes presentes en la sesión respectiva, a propuesta de la Comisión, que presentará una terna de candidatos que deberán cumplir con los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos políticos y civiles; y no adquirir otra nacionalidad,
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+I. Tener la ciudadanía mexicana en ejercicio de sus derechos políticos y civiles; y no adquirir otra nacionalidad,
 
 II. No tener menos de treinta y cinco años de edad el día de la designación;
 
@@ -1370,5 +1374,13 @@ P.O. 29 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 113 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 14 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO Y POR EL SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO, Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO TERCERO TRANSITORIO, AMBOS DEL DECRETO 090 EMITIDO POR LA HONORABLE XV LEGISLATURA DEL ESTADO, PUBLICADO EL 19 DE JULIO DE 2017 EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANAROO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 078 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS, EN MATERIA DE REQUISITOS PARA OCUPAR CARGOS PUBLICOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
