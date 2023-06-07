@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-bibliotecas-del-estado-de-quintana-roo-78126"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-13"
-last_updated: "2021-10-22"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE BIBLIOTECAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 13 de diciembre de 2010.
 
@@ -417,11 +417,15 @@ XXII.- Promover la firma de contratos o convenios con empresas o particulares a 
 
 XXIII.- Las demás que le señale esta Ley, su Reglamento y las que indiquen otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
+
 ###### Artículo 30.
 
-Para ser Director, se requiere:
+Para ser titular de la Dirección, se requiere:
 
-I.- Ser mexicano por nacimiento;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+I. Tener la ciudadanía mexicana;
 
 II.- Tener por lo menos veinticinco años de edad al momento de su designación;
 
@@ -548,3 +552,11 @@ PRIMERO. El presente Decreto entrará en vigor el día primero de enero del año
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado deberá considerar una partida para el cumplimiento del presente Decreto en el Presupuesto de Egresos del Gobierno del Estado para el Ejercicio Fiscal 2022.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 078 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS, EN MATERIA DE REQUISITOS PARA OCUPAR CARGOS PÚBLICOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
