@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2023-03-02"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2023.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -181,7 +181,9 @@ El organismo garante contará con facultades para imponer medidas de apremio a l
 
 APARTADO B.- En la designación de los comisionados del organismo garante, el Congreso del Estado deberá asegurar la participación ciudadana y su realización conforme al siguiente procedimiento:
 
-I.- El Congreso del Estado emitirá y difundirá en los medios de comunicación una convocatoria pública para que cualquier ciudadano que aspire al cargo de comisionado, pueda registrarse dentro del plazo de diez días naturales posteriores a la expedición de la misma;
+> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2023)</small>
+
+I.- El Congreso del Estado emitirá y difundirá en los medios de comunicación una convocatoria pública para que cualquier ciudadano que aspire al cargo de comisionado, pueda registrarse dentro del plazo de diez días naturales posteriores a la expedición de la misma, en la cual deberá contemplar entre los requisitos de idoneidad para el cargo, no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público, por delitos sexuales contra la libertad sexual o la intimidad corporal y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios.
 
 II.- Concluido el plazo para el registro, la Mesa Directiva del Congreso del Estado, dentro de los cinco días naturales siguientes, hará público un listado de la misma manera en que se hizo pública la convocatoria, en el que señale el número de aspirantes registrados y determine quiénes cumplieron con los requisitos exigidos en la convocatoria. De la misma manera, en la citada lista se establecerá y hará pública la posibilidad de que, dentro de los cinco días naturales siguientes a la publicación de la lista, cualquier persona interesada, con apoyo en pruebas suficientes, pueda presentar comentarios y objeciones a la candidatura de cualquiera de los aspirantes;
 
@@ -359,11 +361,21 @@ IV. Tomar las armas en el Ejército o Guardia Nacional para la defensa de la Rep
 
 V. Ejercer en toda clase de asuntos políticos el derecho de petición.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 17.
 
-Los sonorenses, en igualdad de circunstancias, serán preferidos a los demás mexicanos para el desempeño de los cargos públicos o empleos del Estado, siempre que llenen los requisitos que las leyes exijan.
+Las y los sonorenses, en igualdad de circunstancias, serán preferidos a los demás mexicanos para el desempeño de los cargos públicos o empleos del Estado, siempre que llenen los requisitos que las leyes exijan, además de los siguientes:
+
+I.- Un modo honesto de vivir;
+
+II.- No ser ministro de algún culto religioso;
+
+III.- No haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público, por delitos sexuales contra la libertad sexual o la intimidad corporal;
+
+IV.- No ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios; y
+
+V.- Cumplir con el principio de paridad en los términos del artículo 150 A de esta Constitución.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -697,11 +709,13 @@ III. Sólo tendrán derecho a Diputados de representación proporcional los part
 
 IV. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
 
-> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 33.
 
-Para ser diputado propietario o suplente al Congreso del Estado se requiere:
+Para ser Diputada o Diputado Propietario o Suplente al Congreso del Estado se requiere:
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 1977)</small>
 
 I. Ser ciudadano sonorense en ejercicio de sus derechos políticos.
 
@@ -711,11 +725,15 @@ II. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
 III. Tener vecindad y residencia efectiva dentro del distrito electoral correspondiente, excepto en el caso de municipios que abarquen dos o mas distritos electorales en su demarcación, caso en el cual bastará con acreditar la vecindad y residencia en dicho municipio para contender por el cargo de diputado en cualquiera de los distritos que lo integran. La vecindad y residencia a que se refiere esta fracción deberá de ser, cuando menos, de dos años inmediatamente anteriores al día de la elección.
 
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 1977)</small>
+
 IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiere separado definitivamente de su puesto.
 
 > <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 V. No tener el carácter de servidor público, dentro de los noventa días inmediatamente anteriores al día de la elección, salvo que se trate de reelección del cargo o de aquellos que desempeñen un empleo, cargo, comisión o de servicio de cualquier naturaleza dentro del ramo educativo público en cualquiera de sus tipos, modalidades o niveles, sea municipal, estatal o federal.
+
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 1977)</small>
 
 VI. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto religioso.
 
@@ -727,9 +745,9 @@ VII. No haber sido Diputado Propietario durante cuatro periodos consecutivos al 
 
 VIII. No haber sido Diputado o Senador Propietario del Congreso de la Unión, a menos que se separe de dicho cargo, noventa días antes al día de la elección.
 
-> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2023)</small>
 
-IX. No haber sido condenado por la comisión de un delito intencional, salvo que el antecedente penal hubiere prescrito.
+IX. No tener antecedentes penales por la comisión de un delito doloso, salvo que el antecedente penal hubiere prescrito; no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público, por delitos sexuales contra la libertad sexual o la intimidad corporal y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticio (sic);
 
 > <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
 
@@ -1049,7 +1067,9 @@ XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la resi
 
 XV. Llevar a cabo el procedimiento de designación, mediante voto de la mitad más uno de los diputados presentes, de los Titulares de los Órganos Internos de Control de los Organismos Autónomos reconocidos en esta Constitución, los cuáles durarán en su encargo por un periodo de cuatro años a partir de la toma de protesta respectiva y podrán ser ratificados por una sola ocasión. Si al concluir el primer período, el Congreso del Estado no ha realizado un nuevo nombramiento, se entenderá ratificado de manera tácita.
 
-El Congreso del Estado emitirá una convocatoria pública para la designación de dichos cargos, con base en los principios de legalidad, eficiencia, objetividad, calidad, imparcialidad y equidad. La convocatoria no será necesaria en caso de ratificación.
+> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2023)</small>
+
+El Congreso del Estado emitirá una convocatoria pública para la designación de dichos cargos, con base en los principios de legalidad, eficiencia, objetividad, calidad, imparcialidad y equidad, y que contemple entre los requisitos de idoneidad para el cargo; no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público, por delitos sexuales contra la libertad sexual o la intimidad corporal; y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios. La convocatoria no será necesaria en caso de ratificación.
 
 El Pleno del Congreso del Estado, por el voto de la mitad más uno de los legisladores presentes, resolverá de las renuncias, de las solicitudes de licencia y de las remociones de los Titulares de los Órganos Internos de Control a que se refiere esta fracción.
 
@@ -1445,19 +1465,23 @@ El ejercicio del Poder Ejecutivo se deposita en un sólo individuo que se denomi
 
 La elección de Gobernador será popular y directa, y se realizará de manera concurrente con la elección de Presidente de la República, en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 70.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernadora o Gobernador del Estado se requiere:
 
 > <small>(REFORMADA, B.O. 10 DE ENERO DE 1985)</small>
 
 I. Ser mexicano por nacimiento, hijo de padres mexicanos y nativo del Estado; y no siendo originario de Sonora tener cuando menos cinco años de residencia efectiva inmediatamente anteriores al día de la elección.
 
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+
 II. Ser ciudadano del Estado en pleno ejercicio de sus derechos políticos.
 
 III. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
+
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
 IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
@@ -1465,11 +1489,13 @@ IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
 V. No tener el carácter de servidor público en los seis meses inmediatamente anteriores al día de la elección, salvo que se trate de aquellos que desempeñen un empleo, cargo, comisión o de servicio de cualquier naturaleza dentro del ramo educativo público en cualquiera de sus tipos, modalidades o niveles, sea municipal, estatal o federal.
 
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+
 VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cuartelazo.
 
-> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2023)</small>
 
-VII. No haber sido condenado por la comisión de un delito intencional, salvo que el antecedente penal hubiere prescrito.
+VII. No haber sido condenado por la comisión de un delito doloso, salvo que el antecedente penal hubiere prescrito, y no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o doméstica o cualquier agresión de género en el ámbito privado o público, por delitos sexuales contra la libertad sexual o la intimidad corporal; y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios;
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -2065,11 +2091,11 @@ El servicio judicial será gratuito. En consecuencia, quedan prohibidas las cost
 
 Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuída durante su encargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 113.
 
-El Supremo Tribunal de Justicia se compondrá de siete Magistrados Propietarios y siete Suplentes y funcionará en Pleno, en Salas o en Comisiones.
+El Supremo Tribunal de Justicia se compondrá de siete Magistradas o Magistrados Propietarios y siete Suplentes y funcionará en Pleno, en Salas o en Comisiones.
 
 > <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
 
@@ -2079,9 +2105,9 @@ Los Magistrados del Supremo Tribunal de Justicia durarán en su encargo seis añ
 
 Los Magistrados del Supremo Tribunal de Justicia designados podrán ser reelectos y, si lo fueren, solo podrán ser privados del cargo en los términos del Título Sexto de esta Constitución.
 
-> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2023)</small>
 
-Los nombramientos de los magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado, preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad dentro del Poder Judicial o entre las que lo merezcan por su honorabilidad, competencia y antecedentes, en otras ramas de la profesión jurídica. Dichos nombramientos serán sometidos a la aprobación del Congreso, el que otorgará o negará esta aprobación dentro del término de tres días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin aprobación expresa o tácita no se podrá tomar posesión del cargo.
+Los nombramientos de las y los Magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado, preferentemente entre aquellas personas que cumplan con lo dispuesto en el artículo 17 y 114 de esta Constitución y hayan prestado sus servicios con eficiencia y probidad dentro del Poder Judicial o entre las que lo merezcan por su honorabilidad, competencia y antecedentes, en otras ramas de la profesión jurídica. Dichos nombramientos serán sometidos a la aprobación del Congreso, el que otorgará o negará esta aprobación dentro del término, de tres días. Si el Congreso no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin aprobación expresa o tácita no se podrá tomar posesión del cargo.
 
 > <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
@@ -2145,15 +2171,21 @@ Cuando algún Magistrado del Supremo Tribunal de Justicia estuviere impedido par
 
 Cuando todos los magistrados en ejercicio estuvieren impedidos para conocer de determinado negocio, el Supremo Tribunal de Justicia se integrará por magistrados suplentes, correspondiendo presidir los debates y ser ponente, al primero que conforme a la ley hubiere sido llamado.
 
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 120.
 
-El Consejo del Poder Judicial del Estado de Sonora funcionará en Pleno y se integrará hasta por los siguientes siete Consejeros:
+El Consejo del Poder Judicial del Estado de Sonora funcionará en Pleno y se integrará hasta por las y los siguientes siete Consejeros:
+
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
 
 I. El Presidente del Supremo Tribunal de Justicia del Estado, quien fungirá también como su Consejero Presidente y representante;
 
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
+
 II. Un Consejero nombrado por el Pleno del Supremo Tribunal de Justicia de entre sus magistrados;
+
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
 
 III. Un Consejero designado por el Gobernador del Estado;
 
@@ -2161,15 +2193,23 @@ III. Un Consejero designado por el Gobernador del Estado;
 
 IV. El Fiscal General de Justicia del Estado;
 
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
+
 V. Un Consejero designado por el Colegio de Notarios del Estado de Sonora, de entre los integrantes del propio Colegio; y
+
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
 
 VI. Dos Consejeros designados por el Congreso del Estado mediante el voto de las dos terceras partes de sus integrantes.
 
-> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2023)</small>
 
-Los consejeros a que se refieren las fracciones III y VI de este artículo deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente mínimo siete años previos a la designación, asimismo contar con un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenados por delito intencional y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades. En el caso del Consejero designado por el Supremo Tribunal de Justicia, deberá además gozar de reconocimiento en el ámbito judicial y tener en el desempeño de su cargo por lo menos dos años con anterioridad a la designación.
+Las y los consejeros a que se refieren las fracciones III y VI de este artículo deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente mínimo siete años previos a la designación, asimismo contar con un mínimo de tres años de ejercicio profesional, gozar de buena reputación, y no haber sido condenados por delito doloso, no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público, por delitos sexuales contra la libertad sexual o la intimidad corporal y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios, y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades. En el caso del Consejero designado por el Supremo Tribunal de Justicia, deberá además gozar de reconocimiento en el ámbito judicial y tener en el desempeño de su cargo por lo menos dos años con anterioridad a la designación.
+
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 En los casos de las fracciones III y VI de este precepto, no podrán ser designados consejeros quienes hayan ejercido el cargo de Magistrado del Supremo Tribunal de Justicia
+
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 Para entrar al ejercicio del cargo, los consejeros del Poder Judicial rendirán protesta de ley ante el Supremo Tribunal de Justicia.
 
@@ -2177,13 +2217,23 @@ Para entrar al ejercicio del cargo, los consejeros del Poder Judicial rendirán 
 
 El Presidente del Consejo, el diverso Magistrado de dicho órgano y el Fiscal General de Justicia del Estado, conservarán su calidad de consejeros mientras se encuentren en el ejercicio de sus cargos; los demás integrantes del Consejo serán designados por un período de seis años y no podrán ser reelectos.
 
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
+
 El Consejero designado por el Gobernador del Estado podrá ser un servidor público de cualquiera de los Poderes del Estado o de los Órganos Autónomos, en cuyo caso el consejero designado tendrá el carácter de honorario, sin recibir remuneración alguna, mientras conserve el carácter de servidor público diverso al de integrante del Consejo de (sic) Poder Judicial.
+
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 Los consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Sexto de esta Constitución.
 
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
+
 El Consejo sesionará válidamente con la asistencia de su Presidente y de, cuando menos, la mayoría de sus integrantes, según corresponda.
 
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
+
 El Presidente del Supremo Tribunal de Justicia y del Consejo elaborará los anteproyectos de presupuesto de egresos del Poder Judicial del Estado y del Fondo para la Administración de Justicia, tomando en cuenta para ello la opinión del Consejo, y en su oportunidad someterá los respectivos proyectos al Pleno del Supremo Tribunal de Justicia para su aprobación.
+
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 Una vez aprobado por el Pleno del Supremo Tribunal de Justicia el proyecto del presupuesto anual de egresos del Poder Judicial del Estado, el Presidente de aquél lo remitirá al Gobernador del Estado exclusivamente para los efectos previstos en el artículo 79, fracción VII, de esta Constitución, e igualmente deberá enviar una copia del mismo al Congreso del Estado.
 
@@ -2191,13 +2241,15 @@ Una vez aprobado por el Pleno del Supremo Tribunal de Justicia el proyecto del p
 
 El Consejo del Poder Judicial del Estado de Sonora resolverá sobre la designación y adscripción de Magistrados Regionales de Circuito, Jueces de Primera Instancia y Jueces Laborales, así como de los demás asuntos que la ley determine.
 
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
+
 Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede recurso alguno en contra de las mismas, salvo las que se refieran a acuerdos generales, a la designación, adscripción y ratificación de Magistrados de los Tribunales Regionales y Jueces, las cuales podrán ser revisadas por el Pleno del Supremo Tribunal de Justicia, por lo que podrá confirmarlas, modificarlas o revocarlas. Para el caso de revocación, se requerirá la aprobación por mayoría de cuando menos las dos terceras partes del total de los integrantes del mismo Pleno. La ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
 
-> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 121.
 
-Los Magistrados de los Tribunales Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Laborales serán nombrados y adscritos por el Consejo del Poder Judicial del Estado de Sonora, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que señalen los ordenamientos jurídicos respectivos; durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, continuarán en el desempeño de sus funciones por diez años más, sin perjuicio de que puedan ser privados de sus cargos, en cualquier momento, en los casos y conforme a los procedimientos que establezca la ley.
+Las y los Magistrados de los Tribunales Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Laborales serán nombrados y adscritos por el Consejo del Poder Judicial del Estado de Sonora, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que señalen los ordenamientos jurídicos respectivos, para lo cual deberán gozar de buena reputación; no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público; por delitos sexuales contra la libertad sexual o la intimidad corporal; y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios, durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, continuarán en el desempeño de sus funciones por diez años más, sin perjuicio de que puedan ser privados de sus cargos, en cualquier momento, en los casos y conforme a los procedimientos que establezca la ley.
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -2229,11 +2281,13 @@ La Ley establecerá las bases para la formación y actualización de funcionario
 
 Para ser Magistrado Regional de Circuito deberán reunirse los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia; además de observar lo que prevenga la ley de la materia para la carrera judicial.
 
-> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 126.
 
-Para ser Juez de Primera Instancia y Juez Laboral, se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente, un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
+Para ser Juez de Primera Instancia y Juez Laboral, se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente, un mínimo de tres años de ejercicio profesional, para lo cual deberán gozar de buena reputación; no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público; por delitos sexuales contra la libertad sexual o la intimidad corporal; y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios, y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
+
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
 Adicionalmente, para ser Juez laboral se requerirá tener capacidad y experiencia en la materia.
 
@@ -2265,11 +2319,15 @@ La Comisión, para el mejor desempeño de sus responsabilidades, contará con un
 
 El Congreso del Estado, aprobará una Ley complementaria en materia de Derechos Humanos, que regule el funcionamiento y actuación de la Comisión Estatal de Derechos Humanos para el Estado de Sonora.
 
-El Presidente de la Comisión deberá reunir para su designación los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 7 DE JUNIO DE 2023)</small>
+
+La o el Presidente de la Comisión deberá reunir para su designación los siguientes requisitos:
 
 A) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
-B) No haber sido sentenciado por la comisión de delitos dolosos;
+> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2023)</small>
+
+B) No haber sido persona sentenciada por la comisión de delitos dolosos; para lo cual deberán gozar de buena reputación; no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público; por delitos sexuales contra la libertad sexual o la intimidad corporal; y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios.
 
 C) Poseer en la fecha de su nombramiento con antigüedad mínima de cinco años, título profesional legalmente expedido que lo acredite como licenciado en derecho o demostrada capacidad y experiencia en la defensa y promoción de los derechos humanos;
 
@@ -2278,6 +2336,10 @@ D) No haber sido Titular del Poder Ejecutivo, Secretario, Diputado Local, Presid
 E) Gozar de reconocido prestigio profesional, personal en la entidad; y
 
 F) No haber participado como candidato a puesto de elección popular, ser o haber sido presidente de algún partido político.
+
+> <small>(ADICIONADO, B.O. 7 DE JUNIO DE 2023)</small>
+
+G) No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
 > <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -2333,11 +2395,13 @@ II. Ser vecino del Municipio correspondiente, con residencia efectiva dentro del
 
 III. No estar en servicio activo en el Ejército, ni tener mando de fuerzas en el mismo Municipio, a menos que, quien esté comprendido en tales casos, se separe definitivamente de su empleo o cargo, noventa días antes de la elección;
 
-> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2023)</small>
 
-IV. No haber sido condenado por la comisión de un delito intencional, salvo que el antecedente penal hubiere prescrito;
+IV. No haber sido persona condenada por la comisión de un delito doloso, salvo que el antecedente penal hubiere prescrito; y para lo cual deberán gozar de buena reputación; no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público; por delitos sexuales contra la libertad sexual o la intimidad corporal; y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios.
 
-V. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 7 DE JUNIO DE 2023)</small>
+
+V. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
 > <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
@@ -2613,11 +2677,11 @@ La Ley de Gobierno y Administración Municipal establecerá las bases y señalar
 
 Cuando se suspenda o declare desaparecido un Ayuntamiento por renuncia o falta absoluta de sus miembros, si conforme a la Ley Municipal de la materia no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado designará de entre los vecinos a los Concejos Municipales que concluirán los períodos respectivos.
 
-> <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 142.
 
-De conformidad con las bases establecidas en la legislación secundaria, los Concejos Municipales serán integrados con vecinos del lugar, y tendrán la misma estructura orgánica, atribuciones y deberes que los Ayuntamientos. Sus integrantes deberán cumplir los requisitos de elegibilidad establecidos para los Regidores.
+De conformidad con las bases establecidas en la legislación secundaria, los Concejos Municipales serán integrados con vecinos del lugar, y tendrán la misma estructura orgánica, atribuciones y deberes que los Ayuntamientos. Sus integrantes deberán cumplir los requisitos de elegibilidad establecidos en el artículo 132 de esta Constitución.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -4360,3 +4424,13 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 ###### ARTÍCULO SEGUNDO.
 
 Para efectos de llevar a cabo las elecciones locales y federales de manera concurrente, por única ocasión, quien resulte ser Gobernador electo del Estado de Sonora en los comicios electorales que para esos efectos se celebren el año 2027, será electo por un periodo de tres años, para que ejerza sus funciones a partir del día 13 de septiembre del año 2027 y hasta el día 12 de septiembre del año 2030.
+
+B.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DE LA “LEY NÚMERO 170, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realice el cómputo respectivo, y en caso de resultar aprobada la presente Ley por la mayoría de los ayuntamientos del Estado, la remita al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
