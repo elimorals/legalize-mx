@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-hacienda-del-estado-1659
 country: "mx"
 rank: "codigo"
 publication_date: "2023-04-27"
-last_updated: "2023-04-27"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE HACIENDA DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE JUNIO DE 2023 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE JUNIO DE 2023.]</small>
 
 Código publicado en el Número 6190 del Periódico Oficial del Estado de Morelos, el jueves 27 de abril de 2023.
 
@@ -95,7 +95,9 @@ XII. Dignidad, comprende a la persona como titular de derechos y a no ser objeto
 
 XIII. Discriminación, es toda distinción, exclusión, restricción o preferencia que, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto obstaculizar, disminuir o impedir los derechos de cualquier persona, cuando ello se base en uno o más de los motivos que establece la fracción II del artículo 5 del Código de Ética.
 
-XIV. Ética pública, conjunto de principios, valores y reglas de integridad orientados al interés público, conforme a los cuales deben actuar todas las personas adscritas a la Secretaría de Movilidad y Transporte del Poder Ejecutivo del Estado de Morelos, sin importar el nivel jerárquico, en aras de aspirar a la excelencia en el servicio público que logre contar con la confianza de la sociedad.
+> <small>(F. DE E., P.O. 7 DE JUNIO DE 2023)</small>
+
+XIV. Ética pública, conjunto de principios, valores y reglas de integridad orientados al interés público, conforme a los cuales deben actuar todas las personas adscritas a la Secretaría de Hacienda del Poder Ejecutivo del Estado de Morelos, sin importar el nivel jerárquico, en aras de aspirar a la excelencia en el servicio público que logre contar con la confianza de la sociedad.
 
 XV. Hostigamiento sexual, es una forma de violencia de carácter sexual en la cual hay un ejercicio abusivo de poder por parte de quien la realiza y tiene lugar en una relación de subordinación jerárquica real de la víctima frente a la persona agresora. Es expresada en conductas verbales o no verbales, de hecho, físicas o visuales, independientemente de que se realice en uno o varios eventos;
 
