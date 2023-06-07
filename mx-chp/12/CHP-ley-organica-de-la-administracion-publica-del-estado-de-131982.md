@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-131982"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-08"
-last_updated: "2021-02-24"
+last_updated: "2023-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Número 414 del Periódico Oficial del Estado de Chiapas, el sábado 8 de diciembre de 2018.
 
@@ -143,7 +143,9 @@ Los servidores públicos que administren fondos y valores del Estado, vigilarán
 
 Las Dependencias a que se refiere esta ley, deberán planear sus actividades, con base en las políticas y prioridades que establezca el Plan Estatal de Desarrollo, y conducirse bajo los lineamientos que determine la normativa aplicable.
 
-Asimismo, deberán establecer dentro de los objetivos de cada una de las Secretarías, programas de capacitación relacionados con la sensibilización, formación y profesionalización en materia de derechos humanos, derechos de las mujeres y niños, paridad e inclusión de género, procurando se impartan a las servidoras y servidores públicos de su Dependencia.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+Asimismo, deberán establecer dentro de los objetivos de cada una de las Secretarías, programas de capacitación relacionados con la sensibilización, formación y profesionalización en materia de derechos humanos, derechos de las mujeres y niños, paridad, inclusión y violencia de género, procurando se impartan a las servidoras y servidores públicos de su Dependencia.
 
 ###### Artículo 14.
 
@@ -593,13 +595,21 @@ XL. Los demás asuntos que le correspondan, en términos de las leyes aplicables
 
 A la Secretaría de Igualdad de Género corresponde el despacho de los siguientes asuntos:
 
-I. Proponer, ejecutar y dar seguimiento a las políticas y acciones encaminadas a la promoción y aplicación de la igualdad e inclusión de género en las políticas de la Administración Pública estatal, así como promover el desarrollo y participación de género en las acciones prioritarias del Estado.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-II. Promover y difundir información en materia de igualdad de género en el Estado.
+I. Proponer, ejecutar, coordinar y dar seguimiento a las políticas y acciones encaminadas a la promoción y aplicación de la igualdad e inclusión de género en las políticas de la Administración Pública estatal, así como promover el desarrollo y participación de género en las acciones prioritarias del Estado.
 
-III. Promover, proteger y difundir los derechos de incorporación e inclusión de género, así como su aplicación y la igual entre éstos, ante todas las instituciones y en todos los programas del Estado, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Chiapas, los tratados y convenios internacionales ratificados por nuestro país.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-IV. Coordinar la operación en los programas sociales tendentes a promover la igualdad e inclusión de género, así como gestionar con las Dependencias y Entidades de los tres órdenes de gobierno y la iniciativa privada, la promoción de acciones a favor de los jóvenes.
+II. Promover y difundir información en materia de igualdad y violencia de género en el Estado.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+III. Promover y difundir los derechos de incorporación e inclusión de género y de las mujeres víctimas de violencia, así como su aplicación y la igualdad entre éstos, ante todas las instituciones y en todos los programas del Estado, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Chiapas, los tratados y convenios internacionales ratificados por nuestro país.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+IV. Coordinar la operación de los programas sociales tendentes a promover la igualdad e inclusión de género, así como gestionar con las Dependencias y Entidades de los tres órdenes de gobierno y la iniciativa privada, la promoción de acciones a favor de las mujeres, niñas, niños y adolescentes.
 
 V. Promover y ejecutar acciones necesarias para impulsar la participación de (sic) igualitaria de todos los géneros en la vida económica, política, social y cultural de la Entidad, así como instrumentar acciones y mecanismos que permitan alcanzar su pleno desarrollo desde una perspectiva paritaria o de igualdad.
 
@@ -609,7 +619,9 @@ VII. Coadyuvar en la construcción de nuevas relaciones paritarias y equitativas
 
 VIII. Promover el logro de la autodeterminación y empoderamiento de la igualdad e inclusión de género.
 
-IX. Coordinar el diseño y ejecución del plan de igualdad de oportunidades con las diferentes Dependencias y Entidades de la Administración Pública estatal, así como con la participación activa y comprometida del sector social.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+IX. Coordinar el diseño y ejecución de los Programas Estatales para la Igualdad entre Hombres y Mujeres y para garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, con las diferentes Dependencias y Entidades de la Administración Pública estatal, así como con la participación activa y comprometida del sector social.
 
 X. Integrar diagnósticos y estudios con enfoque de género, que permitan tener una imagen actualizada de la problemática en los municipios y en el Estado en general.
 
@@ -621,19 +633,25 @@ XIII. Promover la transversalidad del enfoque de género en las Entidades y Depe
 
 XIV. Fomentar en grupos o sectores de la población rural la igualdad e inclusión de género, así como el desarrollo de capacidades y conocimientos técnico-prácticos de actividades productivas, a través de los centros de desarrollo comunitario.
 
-XV. Proporcionar la atención, asistencia jurídica y psicológica a las mujeres y otros géneros que afronten vulnerabilidad en conflictos del orden familiar, relacionados con algún tipo de violencia que establezca la Ley de Desarrollo Constitucional para La Igualdad de Género y Acceso a una Vida Libre de Violencia para las Mujeres.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XV. Participar y, en su caso, coordinar la operación de instancias especializadas en violencia de género del Poder Ejecutivo, así como proporcionar la atención, asistencia jurídica y psicológica a las mujeres y otros géneros que afronten vulnerabilidad en conflictos del orden familiar, relacionados con algún tipo de violencia que establezca la Ley de Desarrollo Constitucional para la Igualdad de Género y Acceso a una Vida Libre de Violencia para las Mujeres.
 
 XVI. Celebrar convenios y acuerdos de colaboración y coordinación, en el ámbito de su competencia, con Dependencias y Entidades de los tres órdenes de gobierno y de la sociedad civil.
 
 XVII. Contribuir, en coordinación con las Dependencias del Ejecutivo del Estado y los gobiernos municipales, en el mejoramiento de las condiciones alimenticias de la población marginada y desprotegida, a través de programas de productividad familiar.
 
-XVIII. Proponer y ejecutar las políticas, programas y acciones en materia de prevención, protección y atención para el cumplimiento de una vida libre de violencia política para las mujeres en la Entidad.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XVIII. Proponer, ejecutar y coordinar, las políticas, programas y acciones en materia de prevención, protección y atención para el cumplimiento de una vida libre de violencia política para las mujeres en la Entidad.
 
 XIX. Establecer el programa único de capacitación, sensibilización, formación y profesionalización, en materia de derechos humanos, igualdad e inclusión de género, que deberá de promoverse entre los servidores públicos del Gobierno del Estado.
 
 XX. Planear, dirigir, evaluar y ejecutar los programas y proyectos que le correspondan para su debido funcionamiento.
 
-XXI. Crear mecanismos de coordinación institucional entre instancias de los gobiernos federal, estatal y municipal, organismos no gubernamentales, instituciones privadas y asociaciones civiles que realicen trabajos relacionados con la promoción de la igualdad e inclusión de género.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+XXI. Crear mecanismos de coordinación institucional entre instancias de los gobiernos federal, estatal y municipal, organismos no gubernamentales relacionados con la promoción de la igualdad e inclusión de género, así como en materia de prevención, atención y erradicación de la violencia contra las mujeres.
 
 XXII. Promover y coordinar ante las instituciones respectivas las demandas y necesidades de igualdad e inclusión de género, haciendo énfasis en las áreas de salud, empleo, educación, capacitación, seguridad, justicia, cultura y recreación.
 
@@ -645,9 +663,13 @@ XXIV. Asegurar el cumplimiento de las políticas en los convenios, reglas de ope
 
 XXV. Promover y ejecutar las acciones necesarias para facilitar a las mujeres, el acceso al financiamiento público y privado, así como brindarles apoyos mediante aportaciones solidarias para el fortalecimiento y desarrollo del Estado.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-XXVI. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
+XXVI. Implementar y vigilar el funcionamiento del mecanismo institucional encargado de la promoción, incorporación y transversalidad de la perspectiva de género al interior de las Dependencias y Entidades.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
+
+XXVII. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 33.
 
@@ -1472,3 +1494,13 @@ Artículo Tercero.- A la entrada en vigor del presente decreto, el Titular de la
 Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
 
 Artículo Quinto.- Las atribuciones o referencias contenidas en otras leyes y demás normatividad aplicable, respecto a las funciones de manejo, control y combate de incendios forestales, se entenderán concedidas y transferidas a la Secretaría de Protección Civil, sin que ello implique la transferencia de recursos humanos, materiales y financieros, los cuales seguirán perteneciendo a la Secretaría de Medio Ambiente e Historia Natural.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 194 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Las Dependencias y Entidades normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto.
