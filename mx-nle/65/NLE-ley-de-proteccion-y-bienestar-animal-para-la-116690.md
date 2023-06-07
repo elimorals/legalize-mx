@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2023-03-10"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -615,7 +615,9 @@ XIII. Las demás que establezca la normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
-### CAPÍTULO V. DE LA PARTICIPACIÓN CIUDADANA Y LAS ORGANIZACIONES EN MATERIA DE PROTECCIÓN ANIMAL
+### CAPÍTULO IV BIS. DE LOS PARQUES ZOOLÓGICOS
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 17.
 
@@ -649,11 +651,111 @@ Quién realice o lleve a cabo espectáculos, eventos o competencias en donde se 
 
 Queda estrictamente prohibido el privar de alimento, agua, aire, luz o espacio adecuado y suficiente a animales utilizados en espectáculos, eventos o competencias públicas o privadas antes de su inicio y una vez concluidos, salvo por prescripción expedida por escrito por parte de un Médico Veterinario Zootecnista, misma que deberá estar debidamente justificada.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO V. DE LA PARTICIPACIÓN CIUDADANA Y LAS ORGANIZACIONES EN MATERIA DE PROTECCIÓN ANIMAL
+
+###### Artículo 21 Bis.
+
+Los parques zoológicos son establecimientos públicos o privados que tienen carácter permanente y mantienen animales vivos de especies silvestres para su exposición.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+###### Artículo 21 Bis 1.
+
+Los parques zoológicos quedan obligados, sin menoscabo de las señaladas en la Ley General de Vida Silvestre y la Ley General del Equilibrio Ecológico y la Protección al Ambiente, al cumplimiento de las medidas de bienestar de los animales en cautividad, profilácticas y ambientales indicadas a continuación:
+
+I. Alojar a los animales en condiciones que permitan la satisfacción de sus necesidades biológicas y de conservación;
+
+II. Proporcionar a cada una de las especies un enriquecimiento ambiental de sus instalaciones y recintos, al objeto de diversificar las pautas de comportamiento que utilizan los animales para interactuar con su entorno, mejorar su bienestar y, con ello, su capacidad de supervivencia y reproducción;
+
+III. Prevenir la transmisión de plagas y parásitos de procedencia exterior a los animales del parque zoológico, y de éstos a las especies existentes fuera del parque, y
+
+IV. Tomar las medidas necesarias para evitar la huida de los animales del parque zoológico; en particular de especies potencialmente invasoras, con el fin de prevenir posibles amenazas ambientales y alteraciones genéticas a las especies, subespecies y poblaciones autóctonas, así como a los hábitats y los ecosistemas.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+###### Artículo 21 Bis 2.
+
+Los parques zoológicos deberán contar, en términos de las leyes generales en la materia, con los siguientes programas.
+
+I. Programa de conservación "ex situ" de especies de fauna silvestre que, al realizarse fuera de su hábitat natural, debe estar orientado a contribuir a la conservación de la biodiversidad, por lo que deberá constar de una o varias de las siguientes actividades:
+
+a) Participación en un programa de investigación científica que redunde en la conservación de especies animales.
+
+b) Formación en técnicas de conservación de especies animales.
+
+c) Intercambio de información para la conservación de especies animales entre zoológicos y organismos públicos o privados implicados en la conservación de las especies.
+
+d) Participación, cuando proceda y en un programa de cría en cautividad con fines de repoblación o reintroducción de especies animales en el medio silvestre o de conservación de las especies.
+
+II. Programa de educación dirigido al público en lo que respecta a la conservación de la biodiversidad, que incorpore algunas de las siguientes actividades:
+
+a) Información sobre las especies expuestas y sus hábitats naturales, en particular de su grado de amenaza.
+
+b) Formación del público sobre la conservación de la fauna silvestre y, en general, de la biodiversidad.
+
+c) Colaboración, en su caso, con otras entidades públicas y privadas para realizar actividades concretas de educación y sensibilización en materia de conservación de la fauna silvestre.
+
+III. Programa de atención veterinaria, que comprenda:
+
+a) El desarrollo de medidas destinadas a evitar o reducir la exposición de los animales del parque zoológico a los agentes patógenos y parásitos, a fortalecer su resistencia inmunológica y a impedir los traumatismos e intoxicaciones.
+
+b) La asistencia clínica de los animales del parque zoológico que estén enfermos, por medio de tratamientos veterinarios o quirúrgicos adecuados, así como la revisión veterinaria periódica de los animales sanos.
+
+c) Un plan de nutrición adecuada de los animales.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+###### Artículo 21 Bis 3.
+
+Los parques zoológicos contarán con el personal necesario especializado y los medios materiales adecuados para la ejecución de las medidas de bienestar, profilácticas, ambientales y de seguridad suficientes para cumplir con las obligaciones que se señalan en esta Ley y las leyes generales en la materia.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+###### Artículo 21 Bis 4.
+
+Tanto el personal como los medios materiales señalados en el artículo anterior, deberán ser acordes con las necesidades derivadas de las colecciones de animales de cada parque zoológico.
+
+La formación continua del personal a cargo de los animales estará basada en la evaluación del conocimiento de los animales silvestres, de su conservación y especialmente de su bienestar.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+###### Artículo 21 Bis 5.
+
+Independientemente de los planes de Manejo señalados en la Ley General de Vida Silvestre, los parques zoológicos del Estado dispondrán de un registro público actualizado de sus colecciones de animales, adecuado a las especies y subespecies a las que éstos pertenezcan.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+###### Artículo 21 Bis 6.
+
+En dicho registro deberán figurar, al menos, los datos relativos a las entradas y salidas de animales, muertes y causa del fallecimiento, nacimientos, origen y destino, y los necesarios para su identificación y localización.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+###### Artículo 21 Bis 7.
+
+En el caso de sobrepoblación de una o más especies o subespecies de animales, el parque zoológico, en el marco de lo señalado en Ley General de Vida Silvestre y la Ley General del Equilibrio Ecológico y la Protección al Ambiente, podrán establecer mecanismos de intercambio de ejemplares con otros parques, públicos o privados, o podrán reintroducirlos a su hábitat natural, si previamente se les preparó para vivir en la naturaleza.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
+
+###### Artículo 21 Bis 8.
+
+Queda estrictamente prohibido:
+
+I. Donar, prestar o vender ejemplares a ranchos cinegéticos;
+
+II. Liberar de manera negligente o intencionada a ejemplares del parque zoológico pertenecientes a especies potencialmente invasoras;
+
+III. Dar muerte de manera intencionada a los animales del parque zoológico o la eliminación de sus restos intencionadamente sin causa justificada, y
+
+IV. El maltrato, abandono o deterioro intencionados o por negligencia, de los animales del parque zoológico.
+
+El incumplimiento de lo anterior por parte de los servidores públicos que se desempeñen en los parques zoológicos y que permitan, ayuden o consientan dichas conductas, será causa de responsabilidad en términos de lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Nuevo León, independientemente de las sanciones penales o civiles que pudieran generarse.
+
 ### CAPÍTULO VI. DEL MALTRATO Y CRUELDAD CONTRA LOS ANIMALES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2022)</small>
-
-### CAPÍTULO VII. DE LA REPRODUCCIÓN Y ENAJENACIÓN DE ANIMALES DE COMPAÑÍA
 
 ###### Artículo 22.
 
@@ -681,7 +783,7 @@ Todos los animales rescatados de la calle, por parte de los Centros de Atención
 
 Todo animal rescatado por las autoridades de la calle o que se encuentre en condiciones de abandono, será canalizado a la Secretaría, o bien, a las organizaciones de la sociedad civil que lo soliciten y que hayan celebrado un convenio de colaboración con la Secretaría para la custodia temporal de animales.
 
-### CAPÍTULO VIII. DE LA ESTANCIA, HOSPEDAJE Y OTROS SERVICIOS PARA ANIMALES
+### CAPÍTULO VII. DE LA REPRODUCCIÓN Y ENAJENACIÓN DE ANIMALES DE COMPAÑÍA
 
 ###### Artículo 27.
 
@@ -797,7 +899,7 @@ Adicionalmente a las prohibiciones establecidas en el artículo 19, y demás apl
 
 También quedará prohibido azuzar animales para que se acometan entre ellos y hacer de las peleas así provocadas, un espectáculo público o privado, y facilitar inmuebles aún a título gratuito, para que tengan lugar dichas peleas.
 
-### CAPÍTULO IX. DE LOS ANIMALES DE CARGA, TIRO Y MONTA
+### CAPÍTULO VIII. DE LA ESTANCIA, HOSPEDAJE Y OTROS SERVICIOS PARA ANIMALES
 
 ###### Artículo 29.
 
@@ -911,7 +1013,7 @@ Los animales de compañía convencionales en exhibición y a la venta en tiendas
 
 Las personas físicas y morales que realicen actividades de exhibición y enajenación de animales de compañía que arriben al territorio del Estado con animales de otras Entidades Federativas deberán estar inscritos ante la Secretaria y deberá presentar el Certificado de Salud de cada uno de los animales, así como el Certificado de Libre de Enfermedades Infecciosas y cumplir con las inspecciones a que haya lugar.
 
-### CAPÍTULO X. DEL ADIESTRAMIENTO, ENTRENAMIENTO Y COMPETENCIA DE ANIMALES
+### CAPÍTULO IX. DE LOS ANIMALES DE CARGA, TIRO Y MONTA
 
 ###### Artículo 38.
 
@@ -959,7 +1061,7 @@ Todo Médico Veterinario Zootecnista que tenga conocimiento de que algún animal
 
 Las personas físicas o morales cuya actividad involucre el manejo de animales estarán obligadas a fijar y mantener avisos visibles del riesgo de contagio de enfermedades zoonóticas, así como capacitar a su personal sobre el manejo seguro de animales para evitar los contagios, y contar con un plan de manejo de riesgos asociados con su giro.
 
-### CAPÍTULO XI. DE LOS CENTROS DE CONTROL CANINO Y FELINO Y SACRIFICIO DE ANIMALES
+### CAPÍTULO X. DEL ADIESTRAMIENTO, ENTRENAMIENTO Y COMPETENCIA DE ANIMALES
 
 ###### Artículo 48.
 
@@ -1079,7 +1181,7 @@ Las organizaciones civiles legalmente constituidas y las instituciones educativa
 
 La Secretaría, los Municipios y el Consejo Ciudadano de Protección y Bienestar Animal diseñarán y llevarán a cabo un programa de sustitución o reemplazo progresivo de animales de carga y tiro por vehículos automotores, de tracción humana u otras alternativas disponibles, considerando programas que incluyan en la medida de posibilidad de cada municipio el beneficio social de las personas y sus familias que utilizan a estos animales como parte de su trabajo y sustento.
 
-### CAPÍTULO XII. DE LOS RASTROS Y DEL SACRIFICIO DE ANIMALES
+### CAPÍTULO XI. DE LOS CENTROS DE CONTROL CANINO Y FELINO Y SACRIFICIO DE ANIMALES
 
 ###### Artículo 56.
 
@@ -1121,7 +1223,7 @@ Los adiestradores de animales de compañía potencialmente peligrosos contarán 
 
 Durante el entrenamiento de un animal de compañía, se deberán evitar el hacinamiento, confinamiento en espacios reducidos, dejar de proporcionar agua y alimento, u otras técnicas similares que pongan en peligro el bienestar animal.
 
-### CAPÍTULO XIII. DE LA EUTANASIA DE LOS ANIMALES Y DEL SACRIFICIO DE EMERGENCIA
+### CAPÍTULO XII. DE LOS RASTROS Y DEL SACRIFICIO DE ANIMALES
 
 ###### Artículo 66.
 
@@ -1329,7 +1431,7 @@ III. Deben contar con la asignación de ropa de trabajo adecuada para realizar s
 
 IV. Deben ser revisados periódicamente por un profesional médico y por un profesional de psicología, mínimo una vez al año, y en caso de requerirlo recibir la terapia que en su caso se requiera.
 
-### CAPÍTULO XIV. DE LOS SERVICIOS Y CENTROS DE ATENCIÓN VETERINARIA
+### CAPÍTULO XIII. DE LA EUTANASIA DE LOS ANIMALES Y DEL SACRIFICIO DE EMERGENCIA
 
 ###### Artículo 87.
 
@@ -1343,7 +1445,7 @@ Queda prohibido el sacrificio de animales de consumo en rastros clandestinos, o 
 
 Queda prohibida la presencia de personas menores de 10 años en las salas de sacrificio, antes, durante y después del sacrificio de cualquier animal. Los propietarios, administradores o encargados de los rastros o salas de sacrificio serán responsables del cumplimiento de esta disposición.
 
-### CAPÍTULO XV. DE LA EXPERIMENTACIÓN Y PRÁCTICAS PROFESIONALES CON ANIMALES
+### CAPÍTULO XIV. DE LOS SERVICIOS Y CENTROS DE ATENCIÓN VETERINARIA
 
 ###### Artículo 89.
 
@@ -1357,7 +1459,7 @@ Se podrá practicar la eutanasia de animales como una medida para el combate de 
 
 En el caso de contingencias como: accidentes viales, explosiones, actos delincuenciales, desastres naturales o ambientales, donde se encuentren involucrados uno o más animales, las autoridades competentes estarán obligados a solicitar la presencia de un Médico Veterinario Zootecnista para que evalué la condición en que se encuentran los animales y determinar, en caso de ser necesario, cuáles de ellos requieran un sacrificio de emergencia, siempre con base a lo establecido en la Norma Oficial aplicable.
 
-### CAPÍTULO XVI. DE LA DENUNCIA CIUDADANA
+### CAPÍTULO XV. DE LA EXPERIMENTACIÓN Y PRÁCTICAS PROFESIONALES CON ANIMALES
 
 ###### Artículo 92.
 
@@ -1379,7 +1481,7 @@ III. Cuando hayan prestado servicios de guardia y protección y su vida útil ha
 
 IV. Cuando medie orden de una autoridad competente para practicar la eutanasia a un animal.
 
-### CAPÍTULO XVII. DEL PROCEDIMIENTO ADMINISTRATIVO, MEDIDAS DE SEGURIDAD Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO XVI. DE LA DENUNCIA CIUDADANA
 
 ###### Artículo 95.
 
@@ -1425,7 +1527,7 @@ VII. La medicina legal y forense.
 
 En materia de investigación y docencia, siempre y cuando existan alternativas disponibles, queda prohibido causar o inducir lesiones, heridas o fracturas en animales, así como implementar otras prácticas similares que causen daño físico o que afecten el bienestar de los animales.
 
-### CAPÍTULO XVIII. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO XVII. DEL PROCEDIMIENTO ADMINISTRATIVO, MEDIDAS DE SEGURIDAD Y SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 99.
 
@@ -1503,9 +1605,7 @@ La autoridad estará obligada, cuando así proceda el caso, de dar parte a otras
 
 La formulación de la denuncia, así como los acuerdos, resoluciones y recomendaciones que emita la autoridad competente, no afectarán el ejercicio de otros derechos o medios de defensa que pudieran corresponder a los afectados, conforme a las disposiciones jurídicas aplicables, y tampoco suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad.
 
-### CAPÍTULO XIX. DEL CONSEJO CIUDADANO DE PROTECCIÓN Y BIENESTAR ANIMAL
-
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+### CAPÍTULO XVIII. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 108.
 
@@ -1753,7 +1853,7 @@ Cuando se compruebe que el daño causado fue realizado en forma imprudencial, o 
 
 La Secretaría en caso de reincidencia en cualquiera de las infracciones establecidas en este capítulo, podrá aumentar la multa hasta por el doble de la sanción pecuniaria correspondiente.
 
-### CAPÍTULO XX. FIDEICOMISO MIXTO DE PROTECCIÓN Y BIENESTAR ANIMAL
+### CAPÍTULO XIX. DEL CONSEJO CIUDADANO DE PROTECCIÓN Y BIENESTAR ANIMAL
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
 
@@ -1774,6 +1874,10 @@ La Secretaría radicará el recurso en un plazo de 5 días hábiles y fijará fe
 Transcurrido el plazo para el desahogo de las pruebas y presentación de alegatos, la Secretaría deberá resolver el recurso de inconformidad en un plazo de 15 días hábiles.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2020)</small>
+
+### CAPÍTULO XX. FIDEICOMISO MIXTO DE PROTECCIÓN Y BIENESTAR ANIMAL
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 134.
 
@@ -2150,3 +2254,11 @@ P.O. 10 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 335. SE ADICIONA LA FRACCIÓN XXI BIS AL ARTÍCULO 3, SE ADICIONA UN NUMERAL 11 DEL INCISO A) DE LA FRACCIÓN I DEL ARTÍCULO 15 Y SE ADICIONA EL ARTÍCULO 67 BIS, SE REFORMAN LOS NUMERALES 9 Y 10 DEL INCISO A) DE LA FRACCIÓN I DEL ARTÍCULO 15, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 388. SE REFORMA LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN, CON LA ADICIÓN DE UN CAPÍTULO IV BIS DENOMINADO “DE LOS PARQUES ZOOLÓGICOS”, QUE CONTIENE LOS ARTÍCULOS DEL 21 BIS AL 21 BIS 8”.]
+
+PRIMERO.. (sic) El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO. Los parques zoológicos de la entidad tendrán un plazo de un año, a partir de la entrada en vigor del presente Decreto, para hacer los ajustes necesarios para cumplir con las disposiciones de esta Ley.
