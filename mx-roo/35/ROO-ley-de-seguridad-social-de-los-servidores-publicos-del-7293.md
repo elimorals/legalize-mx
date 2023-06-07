@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-social-de-los-servidores-publicos-del-7293"
 country: "mx"
 rank: "ley"
 publication_date: "1989-04-14"
-last_updated: "1989-04-14"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD SOCIAL DE LOS SERVIDORES PUBLICOS DEL GOBIERNO DEL ESTADO, MUNICIPIOS Y ORGANISMOS PUBLICOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 14 de abril de 1989.
 
@@ -999,11 +999,15 @@ El Director General será nombrado y removido libremente por el Gobernador del E
 
 Los representantes suplentes sustituirán a los propietarios en los términos que fije el Reglamento Interior del Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
+
 ###### ARTICULO 134.
 
-Para ser miembro de la Junta Directiva se requiere:
+Para ser integrante de la Junta Directiva se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento y estar en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+I. Tener la ciudadanía mexicana y estar en pleno ejercicio de sus derechos políticos y civiles;
 
 II.- Ser mayor de 25 años de edad;
 
@@ -1354,3 +1358,13 @@ LIC. CORA CASTILLA MADRID
 EL OFICIAL MAYOR DE GOBIERNO
 
 ING. DIEGO E. ROJAS ZAPATA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 078: POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS, EN MATERIA DE REQUISITOS PARA OCUPAR CARGOS PUBLICOS.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
