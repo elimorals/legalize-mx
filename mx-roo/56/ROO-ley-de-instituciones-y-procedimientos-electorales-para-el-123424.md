@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2022-09-08"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -1761,23 +1761,37 @@ Las Consejerías Electorales del Instituto Estatal serán designadas por el Cons
 
 Los requisitos para ser consejal electoral son los siguientes:
 
-I. Ser mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos políticos y civiles, estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+I. Tener la ciudadanía mexicana, que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos políticos y civiles, estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
 
-II. TENER RESIDENCIA DE DOS AÑOS EN LA ENTIDAD FEDERATIVA CORRESPONDIENTE;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-III. Contar con conocimientos para el desempeño adecuado de sus funciones;
+II. Tener más de 30 años de edad al día de la designación, y tener residencia efectiva en la entidad de por lo menos cinco años anteriores a su designación, salvo el caso de ausencia por servicio público, educativo o de investigación por un tiempo menor de seis meses
 
-(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-IV. NO HABER SIDO REGISTRADO COMO CANDIDATO A CARGO ALGUNO DE ELECCIÓN POPULAR EN LOS TRES AÑOS INMEDIATOS ANTERIORES A LA DESIGNACIÓN;
+III. Contar con conocimientos para el desempeño adecuado de sus funciones y poseer al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura;
 
-(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-V. NO SER O HABER SIDO DIRIGENTE NACIONAL, ESTATAL O MUNICIPAL DE ALGÚN PARTIDO POLÍTICO EN LOS TRES AÑOS INMEDIATOS ANTERIORES A LA DESIGNACIÓN, Y
+IV. No haber sido registrada como persona candidata a cargo alguno de elección popular en los cuatro años inmediatos anteriores a la designación;
 
-VI. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+V. No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los cuatro años inmediatos anteriores a la designación,
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+VI. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial, ni estar inhabilitado para ejercer cargos públicos en cualquier institución pública federal o local;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+VII. No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia del gabinete legal o ampliado tanto del gobierno de la Federación o como de las entidades federativas, ni subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser titular del Poder Ejecutivo de una entidad federativa, ni Secretario de Gobierno o su equivalente a nivel local. No ser Presidente Municipal, Síndico o Regidor o titular de dependencia de los ayuntamientos, y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+VIII. No ser ni haber sido miembro del Servicio Profesional Electoral Nacional durante el último proceso electoral en la entidad.
 
 En caso que ocurra una vacante de consejería electoral local, el Consejo General del Instituto Nacional hará la designación correspondiente de acuerdo a lo establecido en la Ley General.
 
@@ -2297,9 +2311,9 @@ Al frente de cada una de estas direcciones de área habrá un Director que será
 
 Para ser persona titular de una Dirección de Área, se deberán satisfacer los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-I. Ser mexicano por nacimiento, sin tener otra nacionalidad, y ser ciudadano quintanarroense, con una residencia efectiva en la entidad y vecindad en cualquiera de los Municipios del Estado, no menor de dos años anteriores a la fecha de designación;
+I. Tener la ciudadanía mexicana y quintanarroense, sin tener otra nacionalidad, con una residencia efectiva en la entidad y vecindad en cualquiera de los Municipios del Estado, no menor de dos años anteriores a la fecha de designación;
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -3069,7 +3083,9 @@ En el caso de elecciones concurrentes se deberá integrar una casilla única de 
 
 Para ser integrante de mesa directiva de casilla se requiere:
 
-I. Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y ser residente en la sección electoral que comprenda a la casilla;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+I. Tener la ciudadanía mexicana que no adquiera otra nacionalidad y ser residente en la sección electoral que comprenda a la casilla;
 
 II. Estar inscrito en el Registro Federal de Electores;
 
@@ -3081,13 +3097,19 @@ V. Tener un modo honesto de vivir;
 
 VI. Haber participado en el curso de capacitación electoral impartido por la junta distrital ejecutiva correspondiente;
 
-VII. No ser servidor público de confianza con mando superior, ni tener cargo de dirección partidista de cualquier jerarquía;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+VII. No ser persona servidora pública de confianza con mando superior, ni tener cargo de dirección partidista de cualquier jerarquía;
 
 VIII. Saber leer y escribir y no tener más de setenta años al día de la elección;
 
-IX. No ser ministro de culto religioso, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-X. No tener parentesco en línea directa consanguíneo o colateral hasta el segundo grado con candidatos registrados en la elección de que se trate.
+IX. No ejercer el ministerio de culto religioso, y
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+X. No tener parentesco en línea directa consanguíneo o colateral hasta el segundo grado con personas candidatas registradas en la elección de que se trate.
 
 ###### Artículo 183.
 
@@ -3913,27 +3935,43 @@ V. Capacitación e Investigación, y
 
 VI. Transparencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
+
 ###### Artículo 240.
 
-Para ser Jefe de Unidad, se requiere:
+Para ocupar una Jefatura de Unidad, se requiere:
 
-I. Ser mexicano por nacimiento, sin tener otra nacionalidad, y ser ciudadano quintanarroense, en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+I. Tener la ciudadanía mexicana y quintanarroense, sin tener otra nacionalidad, en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener más de treinta años al día de su designación;
 
 III. Tener título profesional legalmente registrado en el área técnica o jurídica que corresponda, así como cédula correspondiente expedida con una antigüedad mínima de cinco años por autoridad o institución legalmente facultada para ello;
 
-IV. Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiere sido de carácter no intencional; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-V. Estar inscritos en el Registro Federal de Electores y contar con credencial para votar;
+IV. Gozar de buena reputación, no estar sujeta a proceso penal y no haber sido condenada por delito alguno, salvo que hubiere sido de carácter no intencional;
 
-VI. Ser nativo de la entidad o contar con una residencia efectiva de por lo menos dos años anteriores a su designación;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
+V. Estar inscrita en el Registro Federal de Electores y contar con credencial para votar;
 
-VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-IX. No ser Secretario, Fiscal General del Estado, Subsecretario u Oficial Mayor en la administración pública estatal o municipal, a menos que se separe de su encargo cuatro años anteriores al día de su nombramiento.
+VI. Contar con una residencia efectiva de por lo menos dos años anteriores a su designación;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+VII. No estar inhabilitada para desempeñar un empleo, cargo o comisión en el servicio público;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como persona candidata a cargo de elección popular alguno, y
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+IX. No ser titular de Secretaría, Fiscalía General del Estado, Subsecretaría u Oficialía Mayor en la administración pública estatal o municipal, a menos que se separe de su encargo cuatro años anteriores al día de su nombramiento.
 
 ###### Artículo 241.
 
@@ -7096,3 +7134,11 @@ La remuneración de la persona titular de la Defensoría será homologada, por l
 TERCERO. El Tribunal Electoral de Quintana Roo, dentro de los 90 días naturales posteriores a la entrada en vigor del presente decreto, deberá adecuar sus disposiciones normativas internas, en los términos que corresponda, a efecto de dar cumplimiento a lo dispuesto en el mismo.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 078 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS, EN MATERIA DE REQUISITOS PARA OCUPAR CARGOS PÚBLICOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
