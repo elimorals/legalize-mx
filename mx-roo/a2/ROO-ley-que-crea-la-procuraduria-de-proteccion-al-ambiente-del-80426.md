@@ -4,7 +4,7 @@ identifier: "ROO-ley-que-crea-la-procuraduria-de-proteccion-al-ambiente-del-8042
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-22"
-last_updated: "2011-03-22"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY QUE CREA LA PROCURADURIA DE PROTECCION AL AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 22 de marzo de 2011.
 
@@ -127,17 +127,25 @@ XVIII. Las demás que se prevean en los ordenamientos legales aplicables.
 
 Al frente de la Procuraduría estará el Procurador de Protección al Ambiente, quien será designado por el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 8.
 
-Para ser Procurador de Protección al Ambiente se requiere:
+Para ocupar la titularidad de la Procuraduría de Protección al Ambiente se requiere:
 
-I. Ser ciudadano mexicano por nacimiento y vecino del Estado, con una residencia no menor de tres años al día de su nombramiento;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+I. Tener la ciudadanía mexicana y vecindad en el Estado, con una residencia no menor de tres años al día de su nombramiento;
 
 II. Tener cuando menos treinta años de edad cumplidos el día de su nombramiento;
 
 III. Tener conocimiento y experiencia acreditable en materia ambiental, así como del marco normativo vigente en el Estado;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena privativa de libertad y no encontrarse inhabilitado conforme a las disposiciones jurídicas aplicables.
+(NOTA: EL 4 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+
+IV. Gozar de buena reputación y NO HABER SIDO CONDENADO POR DELITO DOLOSO QUE AMERITE PENA PRIVATIVA DE LIBERTAD DE MÁS DE 2 AÑOS DE PRISIÓN Y no encontrarse inhabilitado conforme a las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO TERCERO. DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -264,3 +272,13 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EDUARDO OVANDO MARTINEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 078 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS, EN MATERIA DE REQUISITOS PARA OCUPAR CARGOS PUBLICOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
