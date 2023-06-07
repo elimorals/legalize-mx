@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2022-09-28"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -125,13 +125,15 @@ El Supremo Tribunal de Justicia ejercerá su función jurisdiccional en todo el 
 
 Las Salas de Circuito ejercerán su función jurisdiccional en la circunscripción territorial que se fije por el Pleno del Supremo Tribunal de Justicia del Estado de Sinaloa.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
+
 ###### ARTICULO 16.
 
-Para los efectos de esta Ley, el territorio del Estado se divide en los siguientes Distritos Judiciales: Ahome, Fuerte, Choix, Guasave, Sinaloa, Angostura, Salvador Alvarado, Mocorito, Badiraguato, Culiacán, Navolato, Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
+El territorio del Estado de Sinaloa se divide en Circuitos y Distritos Judiciales.
 
-La extensión territorial de cada uno de estos Distritos Judiciales es la del Municipio de su mismo nombre.
+En cada Municipio habrá un Distrito Judicial con su mismo nombre.
 
-Las cabeceras de dichos Distritos Judiciales serán las poblaciones de: Los Mochis, El Fuerte, Choix, Guasave, Sinaloa de Leyva, Angostura, Guamúchil, Mocorito, Badiraguato, Culiacán, Navolato, La Cruz, Cosalá, San Ignacio, Mazatlán, Concordia, El Rosario y Escuinapa, respectivamente, y en ellas residirán los Juzgados de Primera Instancia.
+Cada Distrito Judicial tendrá la misma extensión territorial y la misma cabecera del Municipio de que se trate.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
@@ -1654,3 +1656,13 @@ P.O. 28 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 253 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 6, POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SINALOA, Y QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SINALOA, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA Y DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA, PUBLICADO EN EL PERIÓDICO OFICIAL «EL ESTADO DE SINALOA» NÚMERO 150 DE FECHA 13 DE DICIEMBRE DE 2021”.]
 
 UNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 496 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Las Regiones creadas mediante el Decreto 177 QUE DECLARA ADOPTADO EN EL ESTADO DE SINALOA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL Y EL INICIO DE VIGENCIA GRADUAL DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, subsistirán en sus términos en el entendido de que por Región se entenderá Circuito Judicial, y los mismos podrán ser modificados por el Pleno conforme a las necesidades del servicio, de conformidad con el segundo párrafo del artículo 17 de la Ley Orgánica del Poder Judicial del Estado de Sinaloa.
+
+TERCERO. Se abroga el Decreto Número 177, que declara adoptado en el Estado de Sinaloa el Sistema Penal Acusatorio y Oral y el inicio de vigencia gradual del Código Nacional de Procedimientos Penales, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 92, de fecha 31 de julio de 2014.
