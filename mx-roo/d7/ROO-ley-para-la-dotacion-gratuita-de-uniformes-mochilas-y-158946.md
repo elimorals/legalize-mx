@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-dotacion-gratuita-de-uniformes-mochilas-y-158946"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-16"
-last_updated: "2022-06-16"
+last_updated: "2023-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY PARA LA DOTACION GRATUITA DE UNIFORMES, MOCHILAS Y UTILES ESCOLARES A LAS ALUMNAS Y LOS ALUMNOS INSCRITOS EN ESCUELAS PUBLICAS DE EDUCACION BASICA EN EL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO: 081 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 7 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA DOTACIÓN GRATUITA DE UNIFORMES, MOCHILAS Y ÚTILES ESCOLARES A LAS ALUMNAS Y LOS ALUMNOS INSCRITOS EN ESCUELAS PÚBLICAS DE EDUCACIÓN BÁSICA EN EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023 (ABROGADA).
 
 Ley publicada en el Número 98 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 16 de junio de 2022.
 
@@ -268,3 +270,17 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS NUEVE DÍAS DEL MES DE MAYO DEL AÑO DOS MIL VEINTIDOS.
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, DR. JORGE ARTURO CONTRERAS CASTILLO, RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 081 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley para la Dotación Gratuita de Uniformes, Mochilas y Útiles Escolares a las Alumnas y los Alumnos Inscritos en Escuelas Públicas de Educación Básica en el Estado de Quintana Roo, publicada el día 16 de junio del 2022 en el Periódico Oficial del Estado de Quintana Roo, a través del Decreto Número 241 expedido por la XVI Legislatura del Estado de Quintana Roo.
+
+TERCERO. A partir del período escolar 2023-2024, las autoridades educativas del Estado y los Municipios, en el ámbito de sus respectivas competencias, deberá (sic) implementar las políticas y los programas que resulten necesarios para dar cumplimiento a lo establecido en el presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
