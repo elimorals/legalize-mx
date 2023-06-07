@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-142331"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-03-25"
-last_updated: "2020-11-17"
+last_updated: "2023-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142331&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-03-17"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE VALORACION, DEPURACION, DESTRUCCION, DIGITALIZACION, TRANSFERENCIA Y RESGUARDO DE LOS EXPEDIENTES JUDICIALES GENERADOS POR LOS ORGANOS JURISDICCIONALES]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE VALORACIÓN, DESTRUCCIÓN, DIGITALIZACIÓN, TRANSFERENCIA, RESGUARDO Y DESTINO FINAL DE LOS EXPEDIENTES JUDICIALES GENERADOS POR LOS ÓRGANOS JURISDICCIONALES, PUBLICADO EN EL D.O.F. 7 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE VALORACIÓN, DEPURACIÓN, DESTRUCCIÓN, DIGITALIZACIÓN, TRANSFERENCIA Y RESGUARDO DE LOS EXPEDIENTES JUDICIALES GENERADOS POR LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2023 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 25 de marzo de 2020.
 
@@ -552,3 +554,27 @@ SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libr
 OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
 
 > <small>[N. DE E. VÉASE TABLAS EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PAGINAS 447 Y 448.]</small>
+
+D.O.F. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE VALORACIÓN, DESTRUCCIÓN, DIGITALIZACIÓN, TRANSFERENCIA, RESGUARDO Y DESTINO FINAL DE LOS EXPEDIENTES JUDICIALES GENERADOS POR LOS ÓRGANOS JURISDICCIONALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de valoración, depuración, destrucción, digitalización, transferencia y resguardo de los expedientes judiciales generados por los órganos jurisdiccionales, publicado en el Diario Oficial de la Federación el 25 de marzo de 2020.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+QUINTO. Los expedientes valorados con anterioridad a la entrada en vigor de este Acuerdo deberán ser procesados y resguardados conforme a las disposiciones aplicables al momento de su valoración documental. Lo anterior es aplicable para los expedientes judiciales pendientes de depuración en los órganos jurisdiccionales.
+
+SEXTO. Para efectos del procedimiento de destino final a cargo del Área coordinadora de archivos, los expedientes valorados con anterioridad a la entrada en vigor del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de valoración, depuración, destrucción, digitalización, transferencia y resguardo de los expedientes judiciales generados por los órganos jurisdiccionales, publicado en el Diario Oficial de la Federación el 25 de marzo de 2020, resguardados en los depósitos documentales dependientes de la mencionada unidad administrativa, en los que no se hubiera determinado la temporalidad de su resguardo o aquellos que carezcan de valoración, les serán aplicables las reglas de valoración y los periodos de resguardo previstos en este Acuerdo.
+
+SÉPTIMO. En el supuesto de los expedientes relativos a un asunto en el cual la sentencia emitida haya integrado jurisprudencia o tesis aislada de los Tribunales de Circuito y que fueron valorados como depurables o destruibles, será aplicable lo dispuesto en el artículo 38, último párrafo, del presente Acuerdo.
+
+OCTAVO. El Área coordinadora de archivos presentará a la Comisión de Administración, dentro de los seis meses siguientes a la entrada en vigor de este Acuerdo, un informe pormenorizado sobre la ejecución de los procesos a que se refiere el TÍTULO TERCERO de este Acuerdo.
+
+NOVENO. La Dirección General de Archivo y Documentación elaborará el Manual para la organización de los archivos judiciales resguardados por el Consejo, con base en este Acuerdo, dentro de los noventa días hábiles posteriores a su entrada en vigor. En tanto, seguirá aplicándose, en lo conducente, lo dispuesto en el Manual vigente en la materia.
+
+DÉCIMO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas que le estén adscritas, llevarán a cabo las acciones necesarias para el cumplimiento del presente Acuerdo.
