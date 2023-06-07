@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-uso-de-los-servicios-del-centro-de-18149"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-30"
-last_updated: "2000-11-30"
+last_updated: "2023-06-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18149&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -19,9 +19,11 @@ scjn_last_update: "2023-06-07"
 ---
 # REGLAMENTO PARA EL USO DE LOS SERVICIOS DEL CENTRO DE DOCUMENTACION DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL CUAL SE APRUEBA EL REGLAMENTO PARA LA ATENCIÓN DE USUARIOS Y FUNCIONAMIENTO DEL CENTRO DE DOCUMENTACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO. [IECM/ACU-CG-042/2023], PUBLICADO EN LA G.O. DE 7 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EL USO DE LOS SERVICIOS DEL CENTRO DE DOCUMENTACION DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JUNIO DE 2023 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 30 de noviembre de 2000.
 
@@ -238,3 +240,29 @@ Toda situación no prevista en este reglamento, será resuelta en el marco de su
 ## TRANSITORIOS
 
 > <small>N. DE E. EL PRESENTE REGLAMENTO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 7 DE JUNIO DE 2023.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba la expedición del “Reglamento para la atención de usuarios y funcionamiento del Centro de Documentación del Instituto Electoral de la Ciudad de México”, en términos del documento Anexo, que forma parte integral del presente Acuerdo.
+
+SEGUNDO. Se abroga el Reglamento para el uso de los servicios del Centro de Documentación del Instituto Electoral del Distrito Federal.
+
+TERCERO. El presente Acuerdo entrará en vigor al momento de su aprobación y su Anexo al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO. Publíquese el presente Acuerdo y su Anexo, en los estrados de oficinas centrales, en los estrados electrónicos y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales de este Instituto Electoral.
+
+QUINTO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial de la Ciudad de México, para su publicación.
+
+SEXTO. Publíquese el presente Acuerdo y su Anexo en la página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa. Así lo aprobaron por unanimidad de votos d
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL CUAL SE APRUEBA EL REGLAMENTO PARA LA ATENCIÓN DE USUARIOS Y FUNCIONAMIENTO DEL CENTRO DE DOCUMENTACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO. [IECM/ACU-CG-042/2023]”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Quedan sin efectos todas las disposiciones contenidas en el Reglamento para el uso de los servicios del Centro de Documentación del Instituto Electoral del Distrito Federal, aprobado mediante el Acuerdo IECM/ACU-271/00.
+
+TERCERO. Las solicitudes hechas al Centro de Documentación hasta antes de la entrada en vigor del presente Reglamento se tramitarán conforme al Reglamento para el uso de los servicios del Centro de Documentación del Instituto Electoral del Distrito Federal.
