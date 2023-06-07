@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2023-01-16"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NLE"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: EL 17 DE MAYO DE 2023, SE PUBLICÓ EN LA “GACETA LEGISLATIVA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN” EL DECRETO NÚMERO 363 DE LA LXXVI LEGISLATURA DEL CONGRESO DEL ESTADO DE DICHA ENTIDAD; EL CUAL, AÚN NO HA SIDO PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, POR LO QUE AÚN NO HA SIDO COMPILADO Y SISTEMATIZADO.]
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -693,13 +695,17 @@ XVII. Celebrar convenios, contratos, acuerdos y todo tipo de actos jurídicos qu
 
 XVIII. Impulsar y promover la capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación. Para lo anterior, el Instituto podrá crear la Academia Digital para el Adulto Mayor así como la realización de convenios con otras secretarías e instituciones para que dicha capacitación tenga validez oficial;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
 
-XIX. Promover e impulsar el acceso de las Personas Adultas Mayores a las Tecnologías de la Información y Comunicación, y
+XIX. Promover e impulsar el acceso de las Personas Adultas Mayores a las Tecnologías de la Información y Comunicación;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2023)</small>
 
-XX. Las demás que establezca esta ley o que sean necesarias para el cumplimiento del objeto del Instituto, y las que establezcan otros ordenamientos jurídicos.
+XX. Promover e impulsar en las personas Adultas Mayores el interés por la investigación e innovación en la ciencia y la tecnología; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
+
+XXI. Las demás que establezca esta ley o que sean necesarias para el cumplimiento del objeto del Instituto, y las que establezcan otros ordenamientos jurídicos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2018)</small>
 
@@ -1364,3 +1370,9 @@ P.O. 16 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 280. SE REFORMA EL ARTÍCULO 1°, LAS FRACCIONES IV Y V DEL ARTÍCULO 4°, LOS INCISOS B) Y C) DE LA FRACCIÓN III Y LA FRACCIÓN VI TODOS DEL ARTÍCULO 5°; SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 4°, UN INCISO D) A LA FRACCIÓN III DEL ARTÍCULO 5° Y UNA FRACCIÓN VIII AL ARTÍCULO 5° TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 395. SE REFORMAN LAS FRACCIONES XIX Y XX, Y SE ADICIONA LA FRACCIÓN XXI DEL ARTÍCULO 24, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
