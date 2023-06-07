@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107802"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-30"
-last_updated: "2023-03-18"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
 
 Ley publicada en el Número 8 Ordinario Bis del Periódico Oficial del Estado de Quintana Roo, el jueves 30 de abril de 2015.
 
@@ -619,7 +619,13 @@ XIX. Establecerán mecanismos para fomentar el uso responsable y seguro de las t
 
 XX. Establecerán acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas o en etapa de lactancia, faciliten su reingreso y promuevan su egreso del sistema educativo nacional, y
 
-XXI. Las demás que señalen la Ley de Educación del Estado de Quintana Roo, y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2023)</small>
+
+XXI. Garantizarán, a través de políticas y programas, la entrega gratuita de uniformes, útiles escolares y mochilas para el alumnado de educación básica de escuelas públicas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2023)</small>
+
+XXII. Las demás que señalen la Ley de Educación del Estado de Quintana Roo, y demás disposiciones aplicables.
 
 Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -1886,3 +1892,15 @@ SEXTO. Los asuntos a cargo de la Secretaría de Desarrollo Social que se encuent
 SÉPTIMO. Las referencias establecidas en los ordenamientos jurídicos, reglamentos, decretos, acuerdos, reglas de operación y en general cualquier disposición que mencione a la Secretaría de Desarrollo Social, se entenderán a la Secretaría de Bienestar del Estado de Quintana Roo que se enuncia en el presente Decreto.
 
 OCTAVO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 7 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 081 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley para la Dotación Gratuita de Uniformes, Mochilas y Útiles Escolares a las Alumnas y los Alumnos Inscritos en Escuelas Públicas de Educación Básica en el Estado de Quintana Roo, publicada el día 16 de junio del 2022 en el Periódico Oficial del Estado de Quintana Roo, a través del Decreto Número 241 expedido por la XVI Legislatura del Estado de Quintana Roo.
+
+TERCERO. A partir del período escolar 2023-2024, las autoridades educativas del Estado y los Municipios, en el ámbito de sus respectivas competencias, deberá (sic) implementar las políticas y los programas que resulten necesarios para dar cumplimiento a lo establecido en el presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
