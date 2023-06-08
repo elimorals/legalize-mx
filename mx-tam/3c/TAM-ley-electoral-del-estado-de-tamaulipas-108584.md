@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2020-06-13"
+last_updated: "2023-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2023.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -93,6 +93,10 @@ IV. Candidatos o candidatas: a quienes se refieren las fracciones III y V, del p
 
 V. Candidato o candidata independiente: el ciudadano o la ciudadana que obtenga, por parte de la autoridad electoral, el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la presente Ley;
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+V Bis. Candidata o Candidato Migrante: es la persona con ciudadanía tamaulipeca y residencia binacional, que cumpliendo lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Ley de Nacionalidad, la Constitución Política del Estado, la presente Ley, y demás disposiciones que resulten aplicables, pretende ocupar el cargo de Diputada o Diputado;
+
 VI. Casilla: la mesa directiva de casilla;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
@@ -111,7 +115,23 @@ XII. Constitución del Estado: la Constitución Política del Estado de Tamaulip
 
 XIII. Constitución federal o Constitución General de la República: la Constitución Política de los Estados Unidos Mexicanos;
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+XIII Bis. Discapacidad: es la consecuencia de la presencia de una deficiencia o limitación en una persona, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas. Para los efectos de esta ley se considerará exclusivamente a la discapacidad permanente física y sensorial;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+XIII Ter. Discapacidad Física: es la secuela o malformación que deriva de una afección en el sistema neuromuscular a nivel central o periférico, dando como resultado alteraciones en el control del movimiento y la postura, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+XIII Quater. Discapacidad Sensorial: es la deficiencia estructural o funcional de los órganos de la visión, audición, tacto, olfato y gusto, así como de las estructuras y funciones asociadas a cada uno de ellos, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas;
+
 XIV. Distrito: el distrito electoral uninominal;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+XIV Bis. De la Diversidad Sexual: hace referencia a todas las posibilidades de asumir, expresar y vivir la sexualidad, así como de asumir identidades y preferencias sexuales, distintas en cada cultura y persona. Es el reconocimiento de que todos los cuerpos, todas las sensaciones y todos los deseos tienen derecho a existir y manifestarse sin más límites que el respeto a los derechos de las otras personas;
 
 XV. IETAM: el Instituto Electoral de Tamaulipas;
 
@@ -156,6 +176,10 @@ XXVII. Representante de casilla: la persona representante del partido O COALICI�
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
 XXVIII. Representante general: la persona representante general del partido O COALICIÓN, designada para actuar el día de la jornada electoral, o del candidato o candidata independiente, de conformidad con lo dispuesto en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+XXVIII Bis. Residencia Binacional: es la condición que asume una persona para poseer simultáneamente domicilio propio en el extranjero; y al mismo tiempo, domicilio en el territorio del Estado, manteniendo en él, casa, familia e intereses;
 
 XXIX. Sección: la sección electoral;
 
@@ -2871,7 +2895,13 @@ I. Por el principio de mayoría relativa, estar inscrito en el Registro Federal 
 
 Cuando la ciudadana o el ciudadano estén inscritos en un municipio cabecera de más de un distrito, bastará su inscripción en cualquiera de las secciones electorales que conforman el propio municipio.
 
-II. Por el principio de representación proporcional, estar inscrito en el Registro Federal de Electores en cualquiera de las secciones electorales del Estado y contar con credencial para votar con fotografía.
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 8 DE JUNIO DE 2023)</small>
+
+II. Por el principio de representación proporcional:
+
+a) Estar inscrito en el Registro Federal de Electores en cualquiera de las secciones electorales del Estado y contar con credencial para votar con fotografía; y
+
+b) En caso del Diputado o Diputada migrante a que se refiere esta Ley, acreditar la residencia binacional.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
@@ -2896,6 +2926,58 @@ V. Estar condenada o condenado por el delito de violencia política contra las m
 A ninguna persona podrá registrársele como candidato o candidata a distintos cargos de elección popular en el mismo proceso electoral.
 
 Los partidos políticos no podrán registrar simultáneamente, en un mismo proceso electoral, más de cinco candidatos o candidatas al cargo de Diputación por el principio de mayoría relativa y por el principio de representación proporcional.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2023)</small>
+
+En atención al principio de igualdad material, los partidos políticos deberán garantizar el registro de personas en situación de vulnerabilidad de la siguiente forma:
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+I. En la postulación de candidaturas a diputaciones al menos una fórmula habrá de conformarse con personas con discapacidad y otra fórmula con personas de la diversidad sexual, ya sean por el principio de mayoría relativa o bien por el de representación proporcional, en este último caso, ambas fórmulas se deberán ubicar dentro de los siete primeros lugares de la lista estatal;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+II. Tratándose de coaliciones parciales o flexibles, las personas con discapacidad o las pertenecientes a la diversidad sexual postuladas por aquellas, se considerarán para el partido de origen, por lo que los demás partidos deberán de observar lo señalado en el párrafo anterior;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+III. Para el caso de las candidaturas de personas pertenecientes a la diversidad sexual, basta con su autoadscripción como requisito para tener por acreditada la pertenencia a dicho grupo en situación de vulnerabilidad, bajo el reconocimiento a la identidad de género, a partir de la manera en que cada persona se autopercibe. Cuando se tenga la presunción de fraude a la autoadscripción, al Instituto le corresponderá investigar y resolver lo conducente a partir de los elementos con que cuente, sin imponer cargas a los sujetos interesados, ni generar actos de molestia que impliquen la discriminación de la persona candidata. Por su parte, los fraudes a esta disposición provocarán la inelegibilidad de la candidatura correspondiente, además que dichas personas quedarán impedidas para ser postuladas, en los siguientes dos procesos electorales, para cualquier candidatura a cargos de elección popular en los ámbitos estatal, distrital o municipal;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+IV. En caso de las candidaturas de las personas de la diversidad sexual, tratándose de personas trans, la candidatura corresponderá al género con el que se identifiquen y dicha candidatura será tomada en cuenta para el cumplimiento del principio de paridad de género, y en la solicitud de registro de la candidatura, el partido político deberá informar que la postulación se realiza dentro de la acción afirmativa de persona de la diversidad sexual;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+V. En el caso de que se postulen personas no binarias, en reconocimiento de los derechos humanos, políticos y electorales, las mismas no serán consideradas en alguno de los géneros;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+VI. En la postulación de planillas a los ayuntamientos, los partidos políticos deberán integrarlas con al menos una fórmula de candidaturas de personas con discapacidad o de personas de la diversidad sexual en cuando menos quince municipios del Estado. Para el cumplimiento de lo establecido en este párrafo, se considerará el total de las postulaciones del partido político en lo individual, en coalición y en candidatura común.
+
+Aquellos partidos que no logren registrar planillas para la elección de ayuntamientos en al menos 26 de los municipios del Estado, deberán incluir las candidaturas de los grupos vulnerables referidos en el párrafo anterior, en al menos, el 35% de los municipios en los cuales registren dichas planillas.
+
+Tratándose de candidaturas independientes para ayuntamientos, se deberá integrar al menos una fórmula de candidaturas de personas con discapacidad o de personas de la diversidad sexual en la planilla del municipio de que se trate. En todos los casos, se deberá observar en la integración de las mismas el principio de paridad de género y alternancia;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+VII. Para garantizar que quienes accedan a candidaturas a través de la acción afirmativa de personas con discapacidad, será necesario que al momento de su registro, los partidos políticos presenten algún documento original que dé cuenta fehaciente de la existencia de la discapacidad, siendo una certificación médica expedida por una institución de salud, pública o privada, el medio más idóneo, en la que se deberá especificar el tipo de discapacidad, física o sensorial, y que la misma es de carácter permanente, aunado a que deberá contener el nombre, firma autógrafa y número de cédula profesional de la persona médica que la expide, así como el sello de la institución. El cumplimiento de estos requisitos deberá verificarse por el IETAM y por los Consejos Distritales al momento de resolver sobre la procedencia de la solicitud de registro; sin embargo, podrá realizarse la valoración por el Consejo General con antelación a la jornada electoral. En ningún caso, la verificación o valoración se realizará respecto de la naturaleza o gradualidad de la discapacidad. Adicionalmente, se deberá presentar una carta bajo protesta de decir verdad, en la que la persona candidata manifieste que es una persona con algún tipo de discapacidad y que enfrenta de manera cotidiana y permanente barreras en razón de la discapacidad con la que vive;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+VIII. En las listas de representación proporcional de cada partido político, se deberá incluir dentro de los siete primeros lugares una fórmula de candidaturas con carácter de migrante.
+
+Para el ejercicio de los derechos y prerrogativas en materia electoral, se entenderá que los tamaulipecos tienen residencia binacional y simultánea en el extranjero y en territorio del Estado, cuando sin perjuicio de que tengan residencia en otro país, acrediten que por lo menos seis meses antes del día de la elección, poseen: Domicilio propio, no convencional, en territorio del Estado; Clave Única de Registro de Población; y Credencial para Votar con Fotografía.
+
+Asimismo, para garantizar que quienes accedan a candidaturas a través de la acción afirmativa de personas migrantes, será necesario que al momento de su registro, los partidos políticos presenten alguno de los siguientes documentos: constancia de residencia expedida por la autoridad competente del lugar donde radica; licencia de manejo del país en que reside; credencial de servicios de salud; o visa de estudiante, de trabajo temporal, de negocio, de inversión, o de trabajo doméstico;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+IX. Para los efectos del cumplimiento de la fracción anterior, en el caso de coaliciones parciales o flexibles, las personas migrantes postuladas por aquellas, se considerarán para el partido de origen, por lo que los demás partidos deberán de observar lo señalado en el párrafo anterior; y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+X. En caso de que algún partido político o coalición, no cumpla con lo previsto en este artículo, el Consejo General le requerirá para que en un plazo de 48 horas, contadas a partir de ese momento, rectifique la solicitud de registro de candidaturas, además de apercibirlo de que, en caso de no hacerlo, iniciará el procedimiento especial sancionador correspondiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
 
@@ -3187,11 +3269,11 @@ Atendiendo al principio de definitividad que rige en los procesos electorales, a
 
 Durante los procesos electorales ordinarios o, en su caso, en los procesos electorales extraordinarios, todos los días y horas son hábiles.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2023)</small>
 
 ###### Artículo 206.
 
-Los partidos políticos garantizarán la paridad de género en las candidaturas en los términos previstos en la presente ley. La autoridad electoral administrativa velará por la aplicación e interpretación de este precepto para garantizar su cumplimiento.
+Los partidos políticos garantizarán la paridad de género y la representación efectiva de los grupos vulnerables en las candidaturas en los términos previstos en la presente Ley. La autoridad electoral administrativa velará por la aplicación e interpretación de este precepto para garantizar su cumplimiento.
 
 ###### Artículo 207.
 
@@ -3391,7 +3473,9 @@ De comprobarse la violación a estas normas en fecha posterior a la de postulaci
 
 Los partidos políticos Y COALICIONES tendrán derecho de solicitar el registro de candidaturas a elección popular, con independencia del derecho otorgado a los ciudadanos y ciudadanas en lo individual, en términos de la Constitución Federal, la Constitución del Estado, la Ley General y esta Ley. De la totalidad de solicitudes de registro, tanto de las candidaturas a diputaciones locales como a las planillas a Ayuntamientos que presenten los partidos políticos O LAS COALICIONES ante el IETAM deberán integrarse salvaguardando la paridad entre los géneros.
 
-El IEATM deberá rechazar el registro del número de candidaturas de un género que no garantice el principio de paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2023)</small>
+
+El IETAM deberá rechazar el registro del número de candidaturas de un género que no garantice el principio de paridad y la participación efectiva de los grupos vulnerables, este último referido en el artículo 182 de la presente Ley, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
@@ -4651,6 +4735,10 @@ IX. La omisión o el incumplimiento de la obligación de proporcionar en tiempo 
 
 X. El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género;
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+X Bis. El incumplimiento a las obligaciones para el registro de personas en situación de vulnerabilidad a que se refiere el artículo 182 de la presente Ley;
+
 > <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
 
 XI. La difusión de propaganda política o electoral que contenga expresiones de discriminación por género o que constituyan actos de violencia política contra las mujeres en razón de género; y
@@ -5518,3 +5606,19 @@ P.O. 13 DE JUNIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-591 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS EN MATERIA DE REPRESENTACIÓN EFECTIVA DE GRUPOS VULNERABLES EN LA ASIGNACIÓN DE CANDIDATURAS A PUESTOS DE ELECCIÓN POPULAR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la oportunidad debida para su aplicación en el proceso electoral ordinario 2023-2024, el Instituto Electoral de Tamaulipas deberá emitir los lineamientos para el procedimiento de registro de candidaturas a cargos de elección popular de los grupos vulnerables a que refiere la presente reforma, y la supervisión de su cumplimiento. Por ende, una vez iniciado el proceso electoral, y en atención a los principios de seguridad jurídica y certeza, no se podrán emitir lineamientos al respecto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
