@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-anticorrupcion-del-estado-de-jalisco-122604"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2023-06-03"
+last_updated: "2023-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 18 de julio de 2017.
 
@@ -785,13 +785,17 @@ X. Administrar las herramientas y tecnologías de la información y asegurar el 
 
 XI. integrar los sistemas de información necesarios para que los resultados de las evaluaciones sean públicas y reflejen los avances o retrocesos en la política estatal anticorrupción;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2023)</small>
 
-XII. Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas a que se refiere la presente Ley. Para ello, podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda esta Ley, de oficio o a solicitud de los miembros de la Comisión Ejecutiva; y
+XII. Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas a que se refiere la presente Ley. Para ello, podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda esta Ley, de oficio o a solicitud de los miembros de la Comisión Ejecutiva;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2023)</small>
 
-XIII. Recopilar y remitir al Congreso del Estado, a más tardar en el mes de marzo, los informes que le presenten el Comité de Participación Social y sus integrantes en lo individual.
+XIII. Recopilar y remitir al Congreso del Estado, a más tardar en el mes de marzo, los informes que le presenten el Comité de Participación Social y sus integrantes en lo individual; y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
+
+XIV. Certificar documentos originales expedidos por integrantes del Sistema Estatal Anticorrupción o de la Comisión de Selección del Comité de Participación Social, y que estos obren en los archivos tanto de la Secretaría Técnica como de la Secretaría Ejecutiva y que sean inherentes a su competencia.
 
 ### Capítulo V. Sistemas Municipales
 
@@ -1042,5 +1046,11 @@ P.O. 23 DE MAYO DE 2023.
 P.O. 3 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29180/LXIII/23 QUE REFORMA LOS ARTÍCULOS 36 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN, Y 67 SEXIES DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29187/LXIII/23 QUE ADICIONA LA FRACCIÓN XIV DEL ARTÍCULO 35 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
