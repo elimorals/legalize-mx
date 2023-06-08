@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-mejora-regulatoria-en-el-estado-de-tamaulipas-y-106
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-18"
-last_updated: "2021-06-15"
+last_updated: "2023-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 8 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2023 (ABROGADA).
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 18 de marzo de 2015.
 
@@ -1164,3 +1166,49 @@ P.O. 15 DE JUNIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 65-586 POR EL QUE SE EXPIDE LA LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Estatal de Mejora Regulatoria instalado el cuatro de mayo del año dos mil veintitrés seguirá en funciones para efecto del cumplimiento de las obligaciones previstas en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las Autoridades de Mejora Regulatoria y los Sujetos Obligados darán cumplimiento a las obligaciones establecidas en la presente Ley con cargo a sus respectivos presupuestos autorizados para el presente ejercicio fiscal.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de esta Ley, los municipios contarán con un plazo de ciento ochenta días para adecuar sus Reglamentos al contenido de dicha Ley. Los Consejos Municipales de Mejora Regulatoria deberán instalarse formalmente dentro de un plazo de noventa días naturales siguientes a la entrada en vigor de las adecuaciones correspondientes en su legislación local.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones normativas vigentes que no se contrapongan a lo dispuesto por esta Ley, continuarán surtiendo sus efectos.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la entrada en vigor de la presente Ley, la Comisión de Mejora Regulatoria del Estado Tamaulipas se denominará Comisión Estatal de Mejora Regulatoria.
+
+Las menciones contenidas en cualquier ordenamiento jurídico respecto a la Comisión de Mejora Regulatoria del Estado Tamaulipas se entenderán referidas a la Comisión Estatal de Mejora Regulatoria.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las Regulaciones, lineamientos y acuerdos para que produzcan efectos jurídicos, deberán ser publicadas por los Sujetos Obligados en el Periódico Oficial del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+La Comisión Estatal, publicará el Reglamento y el Reglamento Interior del Consejo Estatal de Mejora Regulatoria para el Estado Tamaulipas, así como los lineamientos y demás normatividad dentro de un plazo que no exceda de ciento ochenta días contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de la presente Ley, deberán cubrirse con cargo al presupuesto aprobado a los ejecutores de gasto correspondientes, por lo que no se requerirán de ampliaciones presupuestarias y no se incrementarán sus presupuestos regularizables durante el presente ejercicio fiscal y los subsecuentes.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley para la Mejora Regulatoria en el Estado de Tamaulipas y sus Municipios, publicada en el Periódico Oficial del Estado anexo al número 33 de fecha 18 de marzo de 2015.
