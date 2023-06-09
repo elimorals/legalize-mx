@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2022-11-04"
+last_updated: "2023-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2023.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -3043,6 +3043,8 @@ IV. Se valga de la homonimia, parecido físico o similitud de la voz para comete
 
 ### Capítulo VII. Despojo
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2023)</small>
+
 ###### Artículo 241.
 
 Administración fraudulenta
@@ -3093,7 +3095,9 @@ Además de las sanciones que correspondan conforme a los párrafos anteriores, s
 
 Despojo
 
-Se impondrán de dos a ocho años de prisión y de cien a cuatrocientos a días multa, a quien:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
+
+Se impondrán de cuatro a diez años de prisión y de cien a cuatrocientos a (sic) días multa, a quien:
 
 I. De propia autoridad, por medio de violencia física o moral, el engaño o furtivamente, ocupe un inmueble ajeno, haga uso de éste o de un derecho real que no le pertenezca;
 
@@ -3101,11 +3105,17 @@ II. De propia autoridad y haciendo uso de cualquiera de los medios indicados en 
 
 III. En los términos de las fracciones anteriores, cometa despojo de aguas.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+
 ###### Artículo 246.
 
-Agravantes
+Agravantes.
 
-Las penas previstas en el artículo anterior se agravarán hasta en una mitad, cuando el despojo se realice por tres o más personas. En este caso, se impondrá, además, a quienes dirijan la invasión del inmueble, de tres a seis años de prisión.
+Las penas previstas en el artículo anterior se agravarán hasta en una mitad, cuando el despojo se realice por tres o más personas. En este caso, se impondrá, además, a los autores intelectuales o a quienes dirijan la invasión del inmueble, de cuatro a ocho años de prisión.
+
+Cuando se cometa este acto en agravio de adultos mayores de 60 años y más, así como, de personas que cuenten con alguna discapacidad, cuando ésta, sea notoriamente evidente, la pena se incrementara hasta en dos terceras partes de la pena máxima.
+
+A quienes cometan en forma reiterada el despojo de bienes, se les impondrá una pena de seis a doce años de prisión y trescientos a seiscientos días de multa.
 
 ### Capítulo Único. Producto de una actividad ilícita
 
@@ -5094,5 +5104,15 @@ P.O. 4 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para su conocimiento y efectos legales correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 9 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 444 POR EL QUE SE REFORMAN LOS ARTÍCULOS 245 Y 246 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499”.]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) su conocimiento y efectos legales correspondientes.
 
 TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
