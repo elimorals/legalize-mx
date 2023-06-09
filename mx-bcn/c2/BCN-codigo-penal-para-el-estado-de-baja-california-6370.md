@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2023-04-21"
+last_updated: "2023-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1335,9 +1335,9 @@ III.- Desde el día en que se realizó la última conducta, tratándose de delit
 
 IV.- Desde la cesación de la consumación en el delito permanente.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
-Artículo 113 BIS.- Los plazos para la prescripción de la acción penal en el caso de los delitos previstos por los artículos 176, 177, 178, 180, 180 BIS, 184 QUATER, 238, 261, 262 y 264 de este Código, empezarán a computarse a partir de que la víctima cumpla 18 años de edad.
+Artículo 113 BIS.- En el caso de los delitos previstos por los artículos 123, 176, 177, 178, 180, 180 BIS, 184 QUATER, 238, 261, 262, 262 TER, 262 QUARTER y 264 de este Código, la acción penal será imprescriptible cuando se cometan contra persona menor de dieciocho años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo.
 
 > <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1351,9 +1351,7 @@ Si además de la pena de prisión el delito mereciere otra accesoria o una alter
 
 En los demás casos, la acción penal prescribirá en dos años.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
-
-Artículo 114 BIS.- En los delitos de homicidio, violación, violación equiparada, violación impropia, subtipo de abuso sexual de menores de catorce años, tráfico de menores, corrupción de personas menores de dieciocho años o quienes no tienen la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, pornografía y turismo sexual de personas menores de dieciocho años o quienes no tienen la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, lenocinio y pederastia, que refiere este Código, el plazo de la prescripción de la acción penal será el equivalente a la pena máxima señalada para el delito de que se trate.
+Artículo 114 BIS.- (DEROGADO, P.O. 9 DE JUNIO DE 2023)
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -6435,11 +6433,11 @@ P.O. 21 DE ABRIL DE 2023.
 
 ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1061 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+P.O. 9 DE JUNIO DE 2023.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 238 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 113 BIS Y SE DEROGA EL ARTÍCULO 114 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-P.O. 16 DE AGOSTO DE 2024.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1120 POR EL QUE SE ADICIONA EL ARTÍCULO 56 QUATER DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
