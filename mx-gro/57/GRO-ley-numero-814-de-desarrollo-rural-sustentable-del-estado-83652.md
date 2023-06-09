@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-814-de-desarrollo-rural-sustentable-del-estado-83652
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-21"
-last_updated: "2019-11-15"
+last_updated: "2023-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 814 DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2023.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 21 de octubre de 2011.
 
@@ -591,9 +591,11 @@ Para efectos de representación y operación, los sistemas productos elegirán e
 
 ### CAPÍTULO I. DEL ORDENAMIENTO ECOLÓGICO TERRITORIAL Y EL MANEJO SUSTENTABLE DE LOS RECURSOS NATURALES
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+
 ###### Artículo 44.
 
-La sustentabilidad será el criterio fundamental en el fomento a las actividades agropecuarias, forestales, pesqueras y acuícolas. Quienes hagan uso productivo de los recursos naturales, deberán seleccionar técnicas y actividades agropecuarias que garanticen la conservación o incremento de la productividad, sin deteriorarlos y de acuerdo con la aptitud y potencial natural de los territorios y las condiciones socioeconómicas y culturales de los productores. En el caso del uso de tierras para agricultura se deberá considerar la aplicación de prácticas que reduzcan los procesos erosivos del suelo y de mejoramiento de los mismos a través, de rotación, intercalamiento o asociación de cultivos; cuando el uso sea pecuario se deberá de asegurar la incorporación de las prácticas de uso eficiente del pastoreo, así como, se deberán observar las recomendaciones oficiales sobre carga animal o, en su caso, justificar una dotación mayor de ganado; y para la silvicultura, se deberá establecer un plan de aprovechamiento y reforestación.
+La sustentabilidad será el criterio fundamental en el fomento a las actividades agropecuarias, forestales, pesqueras y acuícolas. Quienes hagan uso productivo de los recursos naturales, deberán seleccionar técnicas y actividades agropecuarias que garanticen la conservación o incremento de la productividad, sin deteriorarlos y de acuerdo con la aptitud y potencial natural de los territorios y las condiciones socioeconómicas y culturales de los productores. En el caso del uso de tierras para agricultura se deberá considerar la aplicación de prácticas preferentemente agroecológicas, que reduzcan los procesos erosivos del suelo y de mejoramiento de los mismos a través, de rotación, intercalamiento o asociación de cultivos; cuando el uso sea pecuario se deberá de asegurar la incorporación de las prácticas de uso eficiente del pastoreo, así como, se deberán observar las recomendaciones oficiales sobre carga animal o, en su caso, justificar una dotación mayor de ganado; y para la silvicultura, se deberá establecer un plan de aprovechamiento y reforestación.
 
 ###### Artículo 45.
 
@@ -1438,3 +1440,15 @@ PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, en la Gaceta Parlamentaria del Congreso del Estado de Guerrero, en (sic) Página Web del Congreso y sus Redes Sociales, para su difusión y conocimiento general.
+
+P.O. 9 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 447 POR EL QUE SE REFORMA EL ARTÍCULO 44, DE LA LEY NÚMERO 814 DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Túrnese a la titular del Poder Ejecutivo para efectos de su promulgación, y demás efectos constitucionales y legales conducentes.
+
+TERCERO. Descárguese de los pendientes de la Comisión de Desarrollo Agropecuario y Pesquero de esta soberanía popular y archívese como asunto total y definitivamente concluido.
+
+CUARTO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
