@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-483-de-instituciones-y-procedimientos-101753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2023-02-03"
+last_updated: "2023-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el lunes 30 de junio de 2014.
 
@@ -289,15 +289,15 @@ Podrán participar en el proceso electoral correspondiente sin separarse de su c
 
 VIII. En el caso de que se haya tenido la responsabilidad de administrar recursos públicos en los cinco años anteriores a la elección, haber cumplido en tiempo y forma con las obligaciones que establece la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero, en cuanto a la entrega de informes semestrales y cuentas públicas anuales, según corresponda, en cuyo caso, lo manifestarán bajo protesta de decir verdad;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
-IX. No estar condenada o condenado por los delitos de violencia política contra las mujeres en razón de género, violencia familiar e incumplimiento de la obligación alimentaria;
+IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; delitos contra el libre desarrollo de la personalidad; delitos contra la libertad sexual y el desarrollo psicosexual; delitos contra la libertad personal; delitos cometidos en contra de un integrante de la familia y delitos por discriminación contra la dignidad de las personas; y, delitos contra la familia; y,
 
-> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE JUNIO DE 2023)</small>
 
-> <small>[N. DE E. DE LA APLICACIÓN DEL DECRETO NÚMERO 245 DEL P.O. 3 DE FEBRERO DE 2023 SE ADVIERTE QUE ESTE PÁRRAFO CORRESPONDE A LA FRACCIÓN X DEL PRESENTE ARTÍCULO, VÉASE PÁGINAS 23 Y 27]</small>
+X.- No estar inscrito en alguno de los Registros Nacional, Estatal o de otra entidad federativa: de Deudores Alimentarios Morosos (4); de Personas Sancionadas; o, de Personas Inhabilitadas para el Servicio Público.
 
-X. No estar inscrita o inscrito en el Registro Estatal de Deudores Alimentarios Morosos; y
+(4) Los deudores alimentarios morosos son las personas que estando obligadas a proporcionar alimentos han dejado de cumplir con esa obligación por el periodo de tiempo que dispongan los códigos civiles, o los códigos o leyes para la familia que resulten aplicables al caso concreto. Tomado de la página electrónica “Justicia México” que puede consultarse en https://mexico.justia.com/derecho-de-familia/registro-de-deudores-alimentarios-morosos/preguntas-y-respuestas-sobre-registro-de-deudoresalimentarios-morosos/#:~:text=Los%20deudores%20alimentarios%20morosos%20son,resulten%20aplicables%20al%20caso%20concreto.
 
 (REUBICADA, P.O. 3 DE FEBRERO DE 2023)
 
@@ -305,13 +305,9 @@ X. No estar inscrita o inscrito en el Registro Estatal de Deudores Alimentarios 
 
 XI. No estar inhabilitado para ocupar un cargo público por resolución ejecutoriada emitida por autoridad competente.
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2023)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
 
-No estar inscrita o inscrito en el Registro Estatal de Deudores Alimentarios Morosos; y
-
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2023)</small>
-
-No estar inhabilitado para ocupar un cargo público por resolución ejecutoriada emitida por autoridad competente.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 11.
 
@@ -365,21 +361,59 @@ La postulación sólo podrá ser realizada por el mismo partido o por cualquiera
 
 Tratándose de los candidatos independientes sólo podrán postularse con ese carácter.
 
-(NOTA: EL 8 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 136/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 460, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN QUE CONCLUYA EL PROCESO ELECTORAL ORDINARIO DEL ESTADO DE GUERRERO, QUE SE DESARROLLARÁ A PARTIR DEL MES DE SEPTIEMBRE DE DOS MIL VEINTE, CUYA JORNADA HABRÁ DE VERIFICARSE EL DOMINGO SEIS DE JUNIO DE DOS MIL VEINTIUNO, EN LA INTELIGENCIA DE QUE LA CONSULTA RESPECTIVA Y LA LEGISLACIÓN CORRESPONDIENTE DEBERÁN REALIZARSE Y EMITIRSE, A MÁS TARDAR, DENTRO DEL AÑO SIGUIENTE A LA CONCLUSIÓN DE ESE PROCESO ELECTORAL, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2020)</small>
+ARTÍCULO 13 BIS. INVALIDADO por resolución de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 136/2020)
 
-ARTÍCULO 13 BIS. Los partidos políticos deberán postular fórmulas de candidaturas a diputadas o diputados de mayoría relativa de origen indígena o afromexicana en, por lo menos, la mitad de los distritos en los que la población indígena o afromexicana sea igual o mayor al 40% del total de la población del distrito conforme al último censo de población del Instituto Nacional de Estadística y Geografía (INEGI).
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
-Para el registro de las fórmulas de diputado de origen indígena o afromexicana (sic), el partido político o coalición deberá presentar elementos con los que acrediten una autoadscripción calificada basada en constancias con elementos objetivos que demuestren la pertenencia al mismo y el vínculo que el candidato tiene con su comunidad, a través de:
+###### ARTÍCULO 13 Ter.
 
-Haber prestado en algún momento servicios comunitarios, o desempeñado cargos tradicionales en la comunidad, población o distrito por el que pretenda ser postulado.
+Los partidos políticos deberán postular fórmulas de candidaturas a diputaciones de mayoría relativa de origen indígena o afromexicana en, por lo menos, la mitad de los distritos en los que la población indígena o afromexicana sea igual o mayor al 40% del total de la población del distrito, conforme al último censo de población del Instituto Nacional de Estadística y Geografía (INEGI).
 
-Participar en reuniones de trabajo tendientes a mejorar dichas instituciones o para resolver los conflictos que se presenten en torno a ellas, dentro (sic) la población, comunidad o distrito indígena o afromexicano por el que pretenda ser postulado.
+Para el registro de las fórmulas de diputaciones de origen indígena o afromexicana, el partido político o coalición deberá presentar elementos con los que se acredite la autoadscripción calificada, basada en constancias con elementos objetivos que demuestren la pertenencia al origen indígena o afromexicana, asimismo el vínculo que la candidatura tiene con su comunidad, a través de:
 
-Ser representante de alguna comunidad o asociación indígena o afromexicano que tenga como finalidad mejorar o conservar sus instituciones.
+1. Haber prestado servicios comunitarios o desempeñado cargos tradicionales en la comunidad, población o distrito por el que se postule.
 
-O en su caso, presentar constancia expedida por autoridad debidamente facultada para calificar la autoadscripción de la candidata o candidato como integrante de alguna población indígena o afromexicana. De manera enunciativa más no limitativa, se menciona al Instituto Nacional de los Pueblos Indígenas, la Secretaría de Asuntos Indígenas y Afromexicanos, a los Ayuntamientos que tengan reglamentado esta materia, Comisarios Municipales, Consejo de Ancianos, Consejo de Principales, Comisariado Ejidal o de Bienes Comunales.
+2. Haber participado en reuniones de trabajo tendientes a mejorar sus instituciones tradicionales o resolver los conflictos que se hayan presentado en torno a ellas, dentro de la población, comunidad o distrito indígena o afromexicano por el que se postule.
+
+3. Haber sido representante de alguna comunidad o asociación indígena o afromexicana, cuya finalidad sea mejorar o conservar sus instituciones.
+
+4. Presentar constancia expedida por el Ayuntamiento, Comisaría Municipal, Consejo de Ancianos, Consejo de Principales o Comisariado de Bienes Comunales, con la que se acredite la pertenencia a población o comunidad indígena o afromexicana.
+
+El Consejo General del Instituto solicitará al Instituto Nacional de Estadística y Geografía (INEGI), la información e insumos necesarios para el cumplimiento de lo establecido en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 13 QUÁTER. En la postulación de candidaturas para la elección de diputaciones locales por el principio de mayoría relativa los partidos políticos deberán registrar cuando menos una fórmula de candidatura de personas que pertenezcan a las poblaciones LGBTTTIQ+ en cualquiera de los 28 Distritos Electorales.
+
+Para la postulación de candidaturas para la elección de diputaciones locales por el principio de representación proporcional, los partidos políticos, deberán registrar cuando menos una fórmula de candidaturas de personas que se autoadscriben de la diversidad sexual.
+
+Para efecto de que el Instituto Electoral tenga por acreditada la candidatura perteneciente al grupo de la diversidad sexual, bastará que la persona se autoadscriba mediante manifestación expresa y bajo protesta de decir verdad, en la que se señale el grupo o grupos bajo los cuales se identifica.
+
+En caso de que la postulación de las candidaturas a las que refiere este artículo se realice a través de una coalición o candidatura común, las mismas se considerarán para el partido político de origen, por lo que los demás integrantes de la coalición o candidatura común deberán cumplir con la cuota que establecen los párrafos que anteceden.
+
+Para el registro de las fórmulas de candidaturas a diputaciones por ambos principios de las personas LGBTTTIQ+, además de los requisitos previstos en la Ley, el partido político, coalición o candidatura común, deberá presentar los escritos de manifestación expresa y bajo protesta de decir verdad, en donde las personas que postula especifiquen:
+
+1. El grupo al cual se autoadscriban, (lesbiana, gay, bisexual, transgénero, transexual, travesti, intersexual, queer, o cualquier otro),
+
+2. El género con el cual se autoidentifiquen, (hombre, mujer o no binario),
+
+3. La autorización o no de la divulgación de sus datos personales y
+
+4. Preferentemente presentar, documento de cualquier organización estatal que manifieste su apoyo a la propuesta de candidatura.
+
+En caso de pertenecer a más de un grupo en situación de vulnerabilidad, la candidata o candidato deberán especificar el grupo en que deban ser consideradas.
+
+La protección de datos personales quedará sujeta a los lineamientos que el Instituto Electoral al efecto emita, considerando las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 13 QUINQUIES. En la postulación de candidaturas para la elección de diputaciones locales por el principio de representación proporcional, los partidos políticos deberán registrar cuando menos una fórmula de candidatura integrada por personas con discapacidad dentro de las primeras nueve posiciones de la lista correspondiente.
+
+Para garantizar que quienes accedan a candidaturas para la elección de diputaciones locales por el principio de representación proporcional, los partidos políticos deberán presentar documento original con que se acredite la existencia de la discapacidad y que la misma sea de carácter permanente, pudiendo ser un certificado médico expedido por una Institución de salud pública o privada, que acredite el diagnóstico y tipo de discapacidad; o carta bajo protesta de decir verdad, en la que la persona candidata o la persona que lo represente, manifieste que es una persona con algún tipo de discapacidad; o copia fotostática legible de documento emitido por autoridad federal o estatal que certifique que es beneficiario de algún programa asistencial o social por su carácter de persona con discapacidad.
+
+Las personas con discapacidad que sean candidatas podrán ser asistidas y contarán con los apoyos necesarios para llevar a cabo sus actividades durante el proceso electoral.
 
 ###### ARTÍCULO 14.
 
@@ -3399,9 +3433,9 @@ El Consejo General, de acuerdo con la disponibilidad presupuestal del Instituto 
 
 El Consejo General integrará de manera permanente las siguientes comisiones:
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
-I. Prerrogativas y Organización Electoral;
+I. Prerrogativas y Partidos Políticos;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3419,9 +3453,17 @@ IV. Quejas y Denuncias;
 
 V. Seguimiento al Servicio Profesional Electoral Nacional; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
-VI. Sistemas Normativos Internos.
+VI. Sistemas Normativos Pluriculturales;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+VII. Organización Electoral; y
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+VIII. Igualdad de Género, Inclusión y No Discriminación.
 
 > <small>[N. DE E. EL DECRETO DE REFORMAS NÚMERO 238 PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2016, MODIFICÓ LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO PASANDO DE DIECIOCHO A SIETE FRACCIONES.]</small>
 
@@ -3497,9 +3539,9 @@ XIII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
 XIV. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
-Se integra por el Consejero Presidente, quien funge como Presidente de la Junta Estatal, el Secretario Ejecutivo, el Consejero Presidente de la Comisión de Administración, el Contralor Interno y con los Directores Ejecutivos de Prerrogativas y Organización Electoral, de Educación Cívica y Participación Ciudadana y de Administración, así como con los titulares de las Unidades Técnicas que determine el Consejo General.
+Se integra por el Consejero Presidente, quien funge como Presidente de la Junta Estatal, el Secretario Ejecutivo, el Consejero Presidente de la Comisión de Administración, el Órgano Interno de Control y con los Directores Ejecutivos de Prerrogativas y Partidos Políticos, de Organización Electoral, de Educación Cívica y Participación Ciudadana, de Administración, y de Sistemas Normativos Pluriculturales, así como con los titulares de las Unidades Técnicas que determine el Consejo General.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3699,9 +3741,9 @@ XX. Organizar, dirigir y controlar la administración de los recursos materiales
 
 XXI. Establecer y operar los sistemas administrativos para el ejercicio y control presupuestal;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
-XXII. Con la supervisión de la Comisión de Prerrogativas y Organización Electoral, integrar y difundir la estadística electoral por casilla, sección, municipio y distrito, de las elecciones de Gobernador del Estado, Diputados y Ayuntamientos, una vez calificadas;
+XXII. Con la supervisión de la Comisión de Organización Electoral, integrar y difundir la estadística electoral por casilla, sección, municipio y distrito, de las elecciones de Gobernador del Estado, Diputados y Ayuntamientos, una vez calificadas;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3797,9 +3839,9 @@ Los Directores Ejecutivos deberán satisfacer los mismos requisitos que los esta
 
 El Instituto Electoral contará con las Direcciones Ejecutivas de:
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
-I. Prerrogativas y Organización Electoral;
+I. Prerrogativas y Partidos Políticos;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3809,11 +3851,19 @@ II. Educación Cívica y Participación Ciudadana; y
 
 III. Administración.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+IV. Organización Electoral; y,
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+V. Sistemas Normativos Pluriculturales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 205.
 
-Son atribuciones de la Dirección Ejecutiva de Prerrogativas y Organización Electoral:
+Son atribuciones de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos:
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3823,9 +3873,9 @@ I. Elaborar el Proyecto de programa operativo anual de trabajo de la dirección;
 
 II. Conocer de los avisos que formulen las organizaciones de ciudadanos que pretendan constituirse como partidos políticos locales y realizar las actividades pertinentes;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
-III. Recibir las solicitudes de registro de organizaciones de ciudadanos que hayan cumplido los requisitos establecidos en esta Ley para constituirse como partido político local e integrar el expediente respectivo, para que el presidente de la Comisión de Prerrogativas y Organización Electoral lo someta a la consideración del Consejo General;
+III. Recibir las solicitudes de registro de organizaciones de ciudadanos que hayan cumplido los requisitos establecidos en esta Ley para constituirse como partido político local e integrar el expediente respectivo, para que el presidente de la Comisión de Prerrogativas y Partidos Políticos lo someta a la consideración del Consejo General;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3859,65 +3909,99 @@ X. Establecer los mecanismos de registro de candidatos a cargos de elección pop
 
 XI. Realizar los estudios necesarios para la determinación de topes de gastos de precampaña y campaña, para la aprobación del Consejo General;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+XII. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
-XII. Apoyar, coordinar y supervisar la integración, instalación y funcionamiento de los Consejos Distritales del Instituto Electoral;
+XIII. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+XIV. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
-XIII. Elaborar el diseño y coordinar la producción de la documentación y materiales electorales para el proceso electoral local y, en su caso, los relativos a mecanismos de participación ciudadana, con base en lo establecido por esta Ley y en los lineamientos que al efecto emita el Instituto Nacional;
+XV. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+XVI. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
-XIV. Proveer lo necesario para la impresión y distribución de la documentación electoral autorizada;
+XVII. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+XVIII. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
-XV. Recabar de los consejos distritales, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
+XIX. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+XX. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
-XVI. Recabar la documentación necesaria a fin de que el Secretario Ejecutivo integre el expediente para que el Consejo General efectúe los cómputos que le competen conforme a esta Ley;
+XXI. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+XXII. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
-XVII. Llevar y coordinar la estadística de las elecciones ordinarias, extraordinarias y, en su caso, de los mecanismos de participación ciudadana para su procesamiento, análisis y difusión;
+XXIII. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+XXIV. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
-XVIII. Instrumentar y coordinar los trámites para la recepción de solicitudes de los ciudadanos que quieran participar como observadores electorales, de conformidad con los lineamientos que para el efecto emita el Instituto Nacional;
-
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
-
-XIX. Apoyar en la logística para el acompañamiento de los consejos distritales con los órganos desconcentrados del Instituto Nacional, en los recorridos y visitas de examinación a los lugares donde se instalarán las casillas electorales;
-
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
-
-XX. Establecer los procedimientos a seguir para la instalación y operación de las bodegas y de los espacios de custodia, así como los procedimientos para la recepción, resguardo, conteo, sellado, enfajillado y distribución de la documentación y materiales electorales a los presidentes de mesa directiva de casilla;
-
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
-
-XXI. Dar cuenta de la información que se genere el día de la jornada electoral, a través del sistema de información que al respecto se genere por el Instituto Nacional;
-
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
-
-XXII. Coordinar y supervisar la recolección de la documentación y expedientes de la casilla para su entrega a los consejos distritales;
-
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
-
-XXIII. Establecer y coordinar la logística y operatividad para el cómputo de los resultados de las elecciones y, en su caso, de los mecanismos de participación ciudadana;
-
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
-
-XXIV. Verificar que se lleve a cabo la entrega de las listas nominales a los partidos políticos locales acreditados y, en su caso, a los candidatos independientes acreditados ante el Instituto Electoral;
-
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
-
-XXV. Coordinar y vigilar la destrucción de la documentación y materiales electorales utilizados y sobrantes del proceso electoral local ordinario, extraordinario y, en su caso, de los mecanismos de participación ciudadana, así como el confinamiento de líquido indeleble; y
+XXV. (DEROGADA, P.O. 9 DE JUNIO DE 2023)
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 XXVI. Las demás que le confiera esta Ley, el Reglamento Interior y demás normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 205 BIS. Son atribuciones de la Dirección Ejecutiva de Organización Electoral:
+
+I. Elaborar el Proyecto de programa operativo anual de trabajo de la Dirección;
+
+II. Apoyar, coordinar y supervisar la integración, instalación y funcionamiento de los Consejos Distritales del Instituto Electoral;
+
+III. Elaborar el diseño y coordinar la producción de la documentación y materiales electorales para el proceso electoral local y, en su caso, los relativos a mecanismos de participación ciudadana, con base en lo establecido por esta Ley y en los lineamientos que al efecto emita el Instituto Nacional;
+
+IV. Proveer lo necesario para la impresión y distribución de la documentación electoral autorizada;
+
+V. Recabar de los Consejos Distritales, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
+
+VI. Recabar la documentación necesaria a fin de que el Secretario Ejecutivo integre el expediente para que el Consejo General efectúe los cómputos que le competen conforme a esta Ley;
+
+VII. Llevar y coordinar la estadística de las elecciones ordinarias, extraordinarias y, en su caso, de los mecanismos de participación ciudadana para su procesamiento, análisis y difusión;
+
+VIII. Instrumentar y coordinar los trámites para la recepción de solicitudes de los ciudadanos que quieran participar como observadores electorales, de conformidad con los lineamientos que para el efecto emita el Instituto Nacional;
+
+IX. Apoyar en la logística para el acompañamiento de los consejos distritales con los órganos desconcentrados del Instituto Nacional, en los recorridos y visitas de examinación a los lugares donde se instalarán las casillas electorales;
+
+X. Establecer los procedimientos a seguir para la instalación y operación de las bodegas y de los espacios de custodia, así como los procedimientos para la recepción, resguardo, conteo, sellado, enfajillado y distribución de la documentación y materiales electorales a los presidentes de mesa directiva de casilla;
+
+XI. Dar cuenta de la información que se genere el día de la jornada electoral, a través del sistema de información que al respecto se genere por el Instituto Nacional;
+
+XII. Coordinar y supervisar la recolección de la documentación y expedientes de la casilla para su entrega a los Consejos Distritales;
+
+XIII. Establecer y coordinar la logística y operatividad para el cómputo de los resultados de las elecciones y, en su caso, de los mecanismos de participación ciudadana;
+
+XIV. Verificar que se lleve a cabo la entrega de las listas nominales a los partidos políticos locales acreditados y, en su caso, a los candidatos independientes acreditados ante el Instituto Electoral;
+
+XV. Coordinar y vigilar la destrucción de la documentación y materiales electorales utilizados y sobrantes del proceso electoral local ordinario, extraordinario y, en su caso, de los mecanismos de participación ciudadana, así como el confinamiento de líquido indeleble; y,
+
+XVI. Las demás que le confiera esta Ley, el Reglamento Interior y demás normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 205 TER. Son atribuciones de la Dirección Ejecutiva de Sistemas Normativos Pluriculturales:
+
+I. Elaborar el Proyecto del programa operativo anual de trabajo de la dirección, y someterlo a aprobación por el Consejo General;
+
+II. Proponer y diseñar estrategias específicas de difusión, atención y mecanismos que promuevan los derechos y participación de los pueblos y comunidades indígenas y afromexicanos en la vida democrática del Estado;
+
+III. Elaborar, coordinar y vigilar el cumplimiento del programa de atención a los pueblos y comunidades indígenas y afromexicanos, en materia de ejercicio de sus derechos políticos y electorales;
+
+IV. Elaborar, diseñar e implementar campañas de capacitación a la ciudadanía indígena y afromexicana en materia de ejercicio de sus derechos políticos y electorales;
+
+V. Proponer e implementar mecanismos de coordinación y colaboración con las autoridades de los municipios indígenas y afromexicanos, para los procesos de elección de comisarías municipales, autoridades comunitarias y aquellos en los que se requiera intervención del Instituto Electoral a solicitud de partes o por mandato jurisdiccional;
+
+VI. Coordinar la vinculación y suscripción de convenios de colaboración con instituciones educativas, autoridades nacionales y locales, y organizaciones de la sociedad civil, enfocadas a la atención de pueblos y comunidades indígenas y afromexicanos;
+
+VII. Conocer las solicitudes que formule la ciudadanía, pueblos y comunidades indígenas y afromexicanas para el cambio de modelo de elección de sus autoridades municipales por sistemas normativos propios, de consultas, y realizar las actividades pertinentes para su atención, así como someter a su aprobación del Consejo General la respuesta o acuerdo correspondiente.
+
+VIII. Coadyuvar en los procesos de elección de autoridades municipales por sistemas normativos propios;
+
+IX. Coordinar y vigilar la destrucción de la documentación y materiales electorales utilizados y sobrantes de los procesos electivos de autoridades municipales y, en su caso, mantener en archivo los expeientes (sic) que deriven de procesos de consulta;
+
+X. Impulsar los estudios y trabajos de investigación que permitan documentar los procesos sociales, culturales y políticos de los pueblos y comunidades indígenas y afromexicanos del estado de Guerrero; y
+
+XI. Las demás que le confiera esta Ley, el Reglamento Interior y demás normativa aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
@@ -4105,15 +4189,21 @@ Para efectos administrativos y orgánicos, las Unidades Técnicas dependerán de
 
 Las atribuciones y estructura de las Unidades Técnicas serán determinadas en la normativa interna del Instituto Electoral.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO XI. DE LA CONTRALORÍA INTERNA
+### CAPÍTULO XI. DEL ÓRGANO INTERO DE CONTROL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 211.
 
-El Instituto Electoral contará con un Órgano Fiscalizador de sus ingresos y egresos denominado Contraloría Interna que dependerá directamente del Consejo General del Instituto, en el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Su titular será designado por las dos terceras partes de los diputados presentes en sesión, bajo el siguiente procedimiento:
+El Instituto Electoral contará con un Órgano Interno de Control que estará adscrito administrativamente a la Presidencia del Consejo General del Instituto (3), en el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Su titular será designado por el Congreso del Estado, con el voto de las dos terceras partes de las Diputadas y Diputados presentes en la sesión respectiva, bajo el siguiente procedimiento:
 
-I. A treinta días de que concluya el cargo del Contralor interno el Congreso del Estado emitirá una convocatoria pública dirigida a los profesionales en Contaduría Pública, Economía, Derecho, Administración u otra área afín a la gestión y control de recursos públicos, interesados en participar en el concurso de selección del Contralor;
+(3) En atención a lo establecido en el 2º Párrafo del Artículo 127 de la Constitución Política del Estado Libre y Soberano de Guerrero, en la parte que señala "…Estará adscrito administrativamente a la presidencia del Consejo General y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado de Guerrero…"
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+I. Treinta días antes de que concluya el cargo de la persona Titular del Órgano Interno de Control, el Congreso del Estado emitirá una convocatoria pública dirigida a los profesionales en Contaduría Pública, Economía, Derecho, Administración u otra área afín a la gestión y control de recursos públicos, interesados en participar en el concurso de selección correspondiente;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
@@ -4129,21 +4219,31 @@ d) Contar al día de su designación, con antigüedad mínima de cinco años, co
 
 e) No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o a algún partido político;
 
-III. El procedimiento de evaluación lo aplicará la Auditoría General del Estado a petición del Congreso del Estado;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+III. El procedimiento de evaluación lo aplicará la Auditoría Superior del Estado a petición del Congreso del Estado;
 
 IV. Se elaborará una lista de los participantes que cumplan con los requisitos y únicamente ellos tendrán derecho a participar en el procedimiento de evaluación;
 
 V. De la lista final de los concursantes se integrará una terna con los que hayan obtenido la mejor calificación; y
 
-VI. De la terna el Congreso del Estado designará al Contralor Interno.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
-El Contralor Interno durará en su cargo cuatro años, con derecho a ser ratificado por un periodo igual por una sola ocasión.
+VI. De la terna el Congreso del Estado designará a la persona Titular del Órgano Interno de Control.
 
-En su desempeño, la Contraloría Interna se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+La persona Titular del Órgano Interno de Control durará en su cargo seis años y podrá ser reelecto por una sola vez.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+En su desempeño, el Órgano Interno de Control se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 212.
 
-El contralor podrá ser sancionado por responsabilidad administrativa, mediante procedimiento que se iniciará de oficio o a petición de parte, por queja o denuncia, presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos. No se admitirán denuncias anónimas. Las responsabilidades administrativas, prescribirán en tres años.
+La persona Titular del Órgano Interno de Control podrá ser sancionada por responsabilidad administrativa, mediante procedimiento que se iniciará de oficio o a petición de parte, por queja o denuncia, presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos. Las responsabilidades administrativas, prescribirán en tres años.
 
 Procede la aplicación de sanciones cuando se configuren las siguientes causas graves:
 
@@ -4153,83 +4253,89 @@ a) Utilizar en beneficio propio o de terceros la documentación e información c
 
 b) Dejar sin causa justificada, de fincar responsabilidades o aplicar sanciones pecuniarias, en el ámbito de su competencia, cuando esté debidamente comprobada la responsabilidad e identificado el responsable como consecuencia de las revisiones e investigaciones que realice en el ejercicio de sus atribuciones;
 
-c) Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en la Contraloría, con motivo del ejercicio de sus atribuciones;
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+c) Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en el Órgano Interno de Control, con motivo del ejercicio de sus atribuciones;
 
 d) Conducirse con parcialidad en los procedimientos de supervisión e imposición de sanciones a que se refiere esta Ley, y
 
 e) Incurrir en alguna de las infracciones mencionadas en la Ley de Responsabilidades de los Servidores Públicos.
 
-A solicitud del Consejo General, el Congreso del Estado resolverá sobre la aplicación de las sanciones al contralor, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros presentes en la sesión.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+A solicitud del Consejo General, el Congreso del Estado resolverá sobre la aplicación de las sanciones a la persona titular del Órgano interno de Control, incluida entre éstas la remoción por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia. La remoción requerirá del voto de las dos terceras partes de los miembros presentes en la sesión.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 213.
 
-La Contraloría tendrá las facultades siguientes:
+El Órgano Interno de Control tendrá las facultades siguientes:
 
-I. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto Electoral;
+I. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas, necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto Electoral;
 
-II. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
+II. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como, aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice el Órgano Interno de Control en el cumplimiento de sus funciones;
 
-III. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos;
+III. Evaluar los informes de avance de la gestión financiera, respecto de los programas autorizados, así como, los relativos a procesos concluidos;
 
-VI (SIC). Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto Electoral;
+IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto Electoral;
 
-VII. Verificar que las diversas áreas administrativas del Instituto que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes;
+V. Verificar que las diversas áreas administrativas del Instituto Electoral que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes;
 
-VIII. Revisar que las operaciones presupuestales que realice el Instituto Electoral se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+VI. Revisar que las operaciones presupuestales que realice el Instituto Electoral se hagan con apego a las disposiciones legales y administrativas aplicables;
 
-IX. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
+VII. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
 
-X. Requerir a terceros que hubieran contratado bienes o servicios con el Instituto Electoral la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+VIII. Requerir a terceros que hubieran contratado bienes o servicios con el Instituto Electoral la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
 
-XI. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos de la propia Contraloría del Instituto Electoral, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
+IX. Solicitar y obtener la información financiera, presupuestaria o contable necesaria para el cumplimiento de sus funciones;
 
-XII. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Instituto Electoral, y llevar el registro de los servidores públicos sancionados;
+X. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Instituto Electoral, y llevar el registro de los servidores públicos sancionados;
 
-XIII. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto Electoral;
+XI. Investigar los actos u omisiones cuando exista la presunción de alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto Electoral;
 
-XIV. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
+XII. Recibir denuncias y quejas relacionadas con el ingreso, uso y disposición de los recursos del Instituto Electoral y desahogar los procedimientos de investigación y sancionatorios a que haya lugar;
 
-XV. Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto Electoral para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+XIII. Efectuar visitas a las áreas y órganos del Instituto Electoral para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
 
-XVI. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
+XIV. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto Electoral cumplan adecuadamente con sus responsabilidades administrativas;
 
-XVII. Formular pliegos de observaciones en materia administrativa;
+XV. Formular pliegos de observaciones en materia administrativa;
 
-XVIII. Determinar los daños y perjuicios que afecten al Instituto Electoral en su patrimonio y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes;
+XVI. Emitir resoluciones en donde se determine la responsabilidad, daños y perjuicios a los recursos financieros y/o al patrimonio del Instituto Electoral;
 
-XIX Fincar las responsabilidades e imponer las sanciones en términos de los lineamientos respectivos;
+XVII. Fincar las responsabilidades a los servidores públicos e imponer las sanciones e indemnizaciones en términos de la Ley de Responsabilidades Administrativas del Estado de Guerrero;
 
-XX. Presentar a la aprobación del Consejo General sus programas anuales de trabajo;
+XVIII. Presentar al Consejo General su programa anual de trabajo y de auditorías internas;
 
-XXI. Presentar al Consejo General los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera el Consejero Presidente;
+XIX. Presentar al Consejo General los informes previo y anual de resultados de su gestión, y acudir ante el mismo cuando así se le requiera;
 
-XXII. Participar, a través de su titular, con voz pero sin voto, en las reuniones de la Junta General cuando por motivo del ejercicio de sus facultades, así lo considere necesario el Consejero Presidente;
+XX. Participar con derecho a voz cuando así se le requiera en las reuniones del Consejo General;
 
-XXIII. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto Electoral, a partir del nivel de jefe de departamento, conforme a los formatos y procedimientos que establezca la propia Contraloría. Serán aplicables en lo conducente las normas establecidas en la Ley de la materia;
+XXI. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto Electoral;
 
-XXIV. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda;
+XXII. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos del Instituto Electoral;
 
-XXV. Revisar y validar los informes semestrales que presentará el Instituto Electoral a la Auditoria General del Estado;
+XXIII. Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
 
-XXVI. Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 214.
 
-Los servidores públicos adscritos a la Contraloría del Instituto Electoral y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+Los servidores públicos adscritos al Órgano Interno de Control del Instituto Electoral y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones, conforme a las disposiciones en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 215.
 
-Los órganos, áreas ejecutivas y servidores públicos del Instituto Electoral estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente la Contraloría, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+Los órganos, áreas ejecutivas y servidores públicos del Instituto Electoral estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos del Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 216.
 
-Si transcurrido el plazo establecido por la Contraloría, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, la Contraloría procederá a fincar las responsabilidades que correspondan conforme a derecho.
+Si el órgano o área fiscalizada no entrega la información solicitada dentro el plazo establecido por el Órgano Interno de Control, éste procederá a fincar las responsabilidades que correspondan.
 
-El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
-
-La Contraloría, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado.
-
-Durante el desahogo de los procedimientos administrativos tendentes, en su caso, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
+El Órgano Interno de Control, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo no mayor a cuarenta y cinco días, cumpla con la obligación omitida.
 
 ## TÍTULO TERCERO. DE LOS CONSEJOS DISTRITALES ELECTORALES
 
@@ -4265,9 +4371,13 @@ I. El Consejo General, en la sesión de inicio del proceso electoral aprobará u
 
 II. La convocatoria contendrá las bases a que se sujetará el procedimiento de selección y designación, las etapas que integrarán el procedimiento deberán ser por lo menos: revisión curricular, examen de conocimientos y entrevistas, el valor de cada una de estas etapas será determinada por el Consejo General, los requisitos que deberán cumplir los aspirantes, el domicilio en que habrá de recibirse la documentación, así como los criterios y parámetros para la evaluación y la entrevista;
 
-III. Las solicitudes y los expedientes que presenten los candidatos a consejeros electorales de los consejos distritales serán recibidas por la Secretaría Ejecutiva y remitidos a la conclusión del término de recepción, a la Comisión de Prerrogativas y Organización Electoral para la revisión del cumplimiento de los requisitos de Ley y análisis de la documentación;
+(REFROMADA, P.O. 9 DE JUNIO DE 2023)
 
-IV. Revisada la documentación presentada, la Comisión de Prerrogativas y Organización Electoral, elaborará una lista de las personas que cumplieron con los requisitos legales establecidos y la publicará en los estrados y en la página web del Instituto Electoral; asimismo, los convocará para que asistan a una evaluación de conocimientos por escrito, sobre temas preestablecidos y a la realización de una entrevista personal. El Consejo General emitirá los parámetros para la evaluación y los criterios para la realización de la entrevista, mismos que serán difundidos en la convocatoria.
+III. Las solicitudes y los expedientes que presenten los candidatos a consejeros electorales de los consejos distritales serán recibidas por la Secretaría Ejecutiva y remitidos a la conclusión del término de recepción, a la Comisión de Organización Electoral para la revisión del cumplimiento de los requisitos de Ley y análisis de la documentación;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+IV. Revisada la documentación presentada, la Comisión Organización Electoral elaborará una lista de las personas que cumplieron con los requisitos legales establecidos y la publicará en los estrados y en la página web del Instituto Electoral; asimismo, los convocará para que asistan a una evaluación de conocimientos por escrito, sobre temas preestablecidos y a la realización de una entrevista personal. El Consejo General emitirá los parámetros para la evaluación y los criterios para la realización de la entrevista, mismos que serán difundidos en la convocatoria.
 
 La evaluación y la entrevista la realizarán los integrantes del Consejo General.
 
@@ -4585,7 +4695,9 @@ Las Mesas Directivas de Casilla, por mandato constitucional, son los órganos el
 
 Las Mesas Directivas de Casilla, como autoridad electoral tienen a su cargo, durante la jornada electoral, respetar y hacer respetar la libre emisión y efectividad del sufragio, garantizar el secreto del voto y asegurar la autenticidad del escrutinio y cómputo.
 
-En cada sección electoral se instalará una Casilla para recibir la votación el día de la jornada electoral, con excepción de lo dispuesto en el artículo 289 de esta Ley.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+En cada sección electoral se instalará una Casilla para recibir la votación el día de la jornada electoral, con excepción de lo dispuesto en el artículo 293 de esta Ley.
 
 ###### ARTÍCULO 231.
 
@@ -5041,23 +5153,59 @@ VI. Las coaliciones para registrar sus candidaturas acreditarán que las asamble
 
 VII. El proceso de recepción de la documentación y solicitud de registro de candidatos deberá entenderse como un solo acto, por lo que si por causas de fuerza mayor este se interrumpe en cualquier momento, la recepción de los documentos se reanudará con la fecha de inicio del acto. Si la causa fuere provocada por el partido político o coalición que pretenda realizar la entrega, el Consejo Electoral correspondiente tendrá por recibida la documentación con la fecha en que se entregue.
 
-(NOTA: EL 8 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 136/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 460, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN QUE CONCLUYA EL PROCESO ELECTORAL ORDINARIO DEL ESTADO DE GUERRERO, QUE SE DESARROLLARÁ A PARTIR DEL MES DE SEPTIEMBRE DE DOS MIL VEINTE, CUYA JORNADA HABRÁ DE VERIFICARSE EL DOMINGO SEIS DE JUNIO DE DOS MIL VEINTIUNO, EN LA INTELIGENCIA DE QUE LA CONSULTA RESPECTIVA Y LA LEGISLACIÓN CORRESPONDIENTE DEBERÁN REALIZARSE Y EMITIRSE, A MÁS TARDAR, DENTRO DEL AÑO SIGUIENTE A LA CONCLUSIÓN DE ESE PROCESO ELECTORAL, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2020)</small>
+ARTÍCULO 272 BIS. INVALIDADO por resolución de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 136/2020)
 
-ARTICULO 272 BIS. Los municipios que conforme al último censo de población del Instituto Nacional de Estadística y Geografía (INEGI), cuenten con población indígena o afromexicana que sea igual o mayor al 40%, los partidos políticos deberán postular, en por lo menos la mitad de esos municipios, el 50% de candidatas o candidatos de origen indígena o afromexicana en planilla de Presidente, Síndico o Síndicos, así como en la lista de regidores, para integrar los ayuntamientos, observando la paridad de género en la postulación.
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
-Para el registro de candidatos de origen indígena o afromexicana (sic), el partido político o coalición deberá presentar elementos con los que acredite una autoadscripción calificada basada en constancias con elementos objetivos que demuestren la pertenencia al mismo y el vínculo que el candidato tiene con su comunidad, a través de:
+###### ARTÍCULO 272 Ter.
 
-Haber prestado en algún momento servicios comunitarios o desempeñado cargos tradicionales en la comunidad, población o municipio por el que pretenda ser postulado.
+En los municipios que conforme al último censo de población del Instituto Nacional de Estadística y Geografía, cuenten con población indígena o afromexicana que sea igual o mayor al 40%, los partidos políticos deberán postular, en por lo menos la mitad de esos municipios, el 50% de candidaturas de origen indígena o afromexicana, en la planilla de Presidencia y Sindicaturas, así como en la lista de Regidurías para integrar los ayuntamientos, debiendo observar el principio de paridad de género en dicha postulación.
 
-Participar en reuniones de trabajo tendentes a mejorar dichas instituciones o para resolver los conflictos que se presenten en torno a ellas, dentro (sic) la población, comunidad o municipio indígena o afromexicano por el que pretenda ser postulado.
+Para el registro de candidaturas de origen indígena o afromexicana, el partido político o coalición deberá presentar elementos con los que se acredite la autoadscripción calificada basada en constancias con elementos objetivos que demuestren la pertenencia al origen indígena o afromexicana, asimismo el vínculo que la candidatura tiene con su comunidad, a través de:
 
-Ser representante de alguna comunidad o asociación indígena o afromexicano (sic) que tenga como finalidad mejorar o conservar sus instituciones.
+1. Haber prestado servicios comunitarios o desempeñado cargos tradicionales en la comunidad, población o municipio por el que se postule.
 
-O en su caso, presentar constancia expedida por autoridad debidamente facultada para calificar la autoadscripción de la candidata o candidato como integrante de alguna población indígena o afromexicana. De manera enunciativa más no limitativa, se menciona al Instituto Nacional de los Pueblos Indígenas, la Secretaría de Asuntos Indígenas y Afromexicanos, a los Ayuntamientos que tengan reglamentado esta materia, Comisarios Municipales, Consejo de Ancianos, Consejo de Principales, Comisariado Ejidal o de Bienes Comunales.
+2. Haber participado en reuniones de trabajo tendientes a mejorar sus instituciones tradicionales o resolver los conflictos que se hayan presentado en torno a ellas, dentro de la población, comunidad o municipio indígena o afromexicano por el que se postule.
 
-El Consejo General del Instituto solicitará al Instituto Nacional de Estadística y Geografía (INEGI), la información e insumos necesarios para el cumplimiento de lo establecido en el presente artículo.
+3. Haber sido representante de alguna comunidad o asociación indígena o afromexicana, cuya finalidad sea mejorar o conservar sus instituciones.
+
+4. Presentar constancia expedida por el Ayuntamiento, Comisaría Municipal, Consejo de Ancianos, Consejo de Principales o Comisariado de Bienes Comunales, con la que se acredite la pertenencia a población o comunidad indígena o afromexicana.
+
+El Consejo General del Instituto solicitará al Instituto Nacional de Estadística y Geografía, la información e insumos necesarios para el cumplimiento de lo establecido en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 272 QUÁTER. Para postular candidaturas en las elecciones de ayuntamientos, los partidos políticos, coaliciones, candidaturas comunes y candidaturas independientes deberán registrar personas que se autodescriban de la diversidad sexual.
+
+Los partidos políticos, deberán postular en las planillas o listas de regidurías, cuando menos, una fórmula de candidaturas de personas LGBTTTIQ+, en cada uno de los Ayuntamientos, siempre y cuando exista solicitud expresa de parte interesada.
+
+Las coaliciones y candidaturas comunes que postulen fórmulas de personas LGBTTTIQ+ en candidaturas para Ayuntamientos, se considerarán para el partido de origen, por lo que, los demás partidos integrantes de la coalición o candidatura común, deberán cumplir con la cuota que establecen los párrafos que anteceden, en cualquiera de los demás municipios.
+
+Las candidatas y candidatos que los partidos políticos, coaliciones, candidaturas comunes e independientes postulen de personas LGBTTTIQ+, corresponderán al género de origen.
+
+Para el registro de las fórmulas de candidaturas a ayuntamientos de las personas LGBTTTIQ+, además de los requisitos previstos en la Ley, el partido político, coalición o candidatura común, deberá presentar los escritos de manifestación expresa y bajo protesta de decir verdad, en donde las personas que postula especifiquen:
+
+1. El grupo al cual se autoadscriban, (lesbiana, gay, bisexual, transgénero, transexual, travesti, intersexual, queer, o cualquier otro),
+
+2. La autorización o no de la divulgación de sus datos personales y
+
+3. Preferentemente presentar, documento de cualquier organización o asociación civil que manifieste su apoyo a la propuesta de candidatura.
+
+En caso de pertenecer a más de un grupo en situación de vulnerabilidad, la candidata o candidato deberán especificar el grupo en que deban ser consideradas.
+
+La protección de datos personales quedará sujeta a los lineamientos que el Instituto Electoral al efecto emita, considerando las leyes de la materia.
+
+En el incumplimiento de las acciones previstas en el artículo 13 QUÁTER y el presente artículo, el partido político, coalición, candidatura común o candidatura independiente será requerido en un plazo de 48 horas, para dar cumplimiento y realice las sustituciones correspondientes a las cuotas de postulación de candidaturas de personas pertenecientes a la comunidad LGBTTTIQ+. De no hacerlo, previo el procedimiento respectivo, el Instituto Electoral procederá a cancelar el número de fórmulas que se establecen como obligatorias, de las fórmulas ya registradas, vigilando en todo momento que se cumpla con el principio de paridad de género y postulación indígena y afromexicana.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 272 QUINQUIES. Para integrar las planillas o listas de regidurías de cada uno de los Ayuntamientos, los partidos políticos deberán postular cuando menos una candidatura de personas con discapacidad, preferentemente propietaria.
+
+Para garantizar que quienes accedan a candidaturas para Ayuntamientos, los partidos políticos deberán presentar documento original con que se acredite la existencia de la discapacidad y que la misma sea de carácter permanente, pudiendo ser un certificado médico expedido por una Institución de salud pública o privada, que acredite el diagnóstico y tipo de discapacidad; o carta bajo protesta de decir verdad, en la que la persona candidata o la persona que lo represente, manifieste que es una persona con algún tipo de discapacidad; o copia fotostática legible de documento emitido por autoridad federal o estatal que certifique que es beneficiario de algún programa asistencial o social por su carácter de persona con discapacidad.
+
+Las personas con discapacidad que sean candidatas podrán ser asistidas y contarán con los apoyos necesarios para llevar a cabo sus actividades durante el desarrollo del proceso electoral.
 
 ###### ARTÍCULO 273.
 
@@ -5087,9 +5235,11 @@ De igual manera el partido político postulante o la coalición, deberá manifes
 
 En el caso de que un candidato a diputado de mayoría relativa tenga su domicilio en un municipio cabecera de más de un distrito, será suficiente para tenerlo por acreditando (sic) la residencia en cualesquiera de los distritos. Tratándose de candidatos a integrantes de Ayuntamientos deben residir en el municipio por el que estén compitiendo durante el periodo requerido para ese efecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 274.
 
-Recibida una solicitud de registro de candidaturas por el Presidente o el Secretario del Consejo que corresponda, se verificará dentro de los tres días siguientes, que se cumplió con todos los requisitos señalados en los dos artículos anteriores.
+Recibida una solicitud de registro de candidaturas por el Presidente o el Secretario del Consejo que corresponda, se verificará dentro de los tres días siguientes, que se cumplió con todos los requisitos señalados en los cinco artículos anteriores.
 
 Si de la verificación realizada se advierte, que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político, coalición o candidato independiente, para que dentro de las cuarenta y ocho horas siguientes a la notificación subsane el o los requisitos omitidos o sustituya la candidatura correspondiente, siempre y cuando esto pueda realizarse dentro de los plazos que se prevén para el registro de las candidaturas.
 
@@ -6307,7 +6457,9 @@ I. Declarar la validez de la elección de Ayuntamiento, verificando que en cada 
 
 II. Expedir la constancia de mayoría y validez de la elección a la planilla del Ayuntamiento que haya obtenido el mayor número de votos;
 
-III. Realizar la asignación de regidores de representación proporcional en los términos establecidos por los artículos 21, 22 y 23 de esta ley; y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+III. Realizar la asignación de regidores de representación proporcional en los términos establecidos por los artículos 20, 21 y 22 de esta ley; y,
 
 IV. Expedir en su caso, a cada partido político y candidato independiente, la constancia de asignación de regidores de representación proporcional.
 
@@ -6547,13 +6699,17 @@ V. Señalar la elección sobre la que se solicita el recuento de votos.
 
 El recuento parcial de votos procederá única y exclusivamente por las causas previstas en las fracciones III y IV del artículo 363 de esta Ley.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 396.
 
-Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección de que se trate y el que haya obtenido el segundo lugar en votación es igual o menor a medio punto porcentual, y siempre que al inicio de la sesión exista petición expresa del representante del partido, coalición o candidato independiente que postuló al candidato que obtuvo el segundo lugar de los votos, el Consejo Distrital deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el municipio o distrito, en su caso.
+Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección de que se trate y el que haya obtenido el segundo lugar en votación es igual o menor a medio punto porcentual y, siempre que al inicio de la sesión, exista petición expresa del representante del partido, coalición, candidatura común o candidato independiente que postuló al candidato que obtuvo el segundo lugar de los votos, el Consejo Distrital deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el municipio o distrito, en su caso.
 
-Si al término del cómputo correspondiente se confirma que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar es igual o menor a medio punto porcentual, y existe la petición expresa a que se refiere el párrafo anterior, el Consejo Distrital deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
+Para el caso del cómputo municipal de los municipios que estén en dos distritos electorales, la petición para el recuento de votos podrá ser al inicio de la sesión o antes de la conclusión del cómputo general.
 
-Conforme a lo establecido en los dos párrafos inmediatos anteriores, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Distrital dispondrá lo necesario para que sea realizado sin interrumpir el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para efectos del recuento de votos, el presidente del Consejo Distrital dará aviso inmediato al Secretario Ejecutivo del Instituto Electoral; ordenará la creación de grupos de trabajo integrados por los consejeros electorales que los presidirán, los representantes de los partidos y los candidatos independientes. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
+Si al término del cómputo correspondiente se confirma que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar es igual o menor a medio punto porcentual, y exista la petición expresa a que se refieren los párrafos anteriores, el Consejo Distrital deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
+
+Conforme a lo establecido en los párrafos anteriores, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Distrital dispondrá lo necesario para que sea realizado sin interrumpir el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para efectos del recuento de votos, el presidente del Consejo Distrital dará aviso inmediato al Secretario Ejecutivo del Instituto Electoral; ordenará la creación de grupos de trabajo integrados por los consejeros electorales que los presidirán, los representantes de los partidos y los candidatos independientes. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
 
 El responsable de presidir cada grupo levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido y candidato, misma que será entregada al Presidente del Consejo Distrital para los efectos legales correspondientes.
 
@@ -6561,7 +6717,7 @@ Los errores contenidos en las actas originales de escrutinio y cómputo de casil
 
 En ningún caso podrá solicitarse al Tribunal Electoral que realice recuento de votos respecto de las casillas que hayan sido objeto de dicho procedimiento en los consejos distritales.
 
-Lo dispuesto en los párrafos del primero al sexto de este artículo, es aplicable al cómputo distrital de las elecciones de diputados por el principio de mayoría relativa y de Gobernador.
+Lo dispuesto en los párrafos primero, tercero al séptimo de este artículo, es aplicable al cómputo distrital de las elecciones de diputados por el principio de mayoría relativa y de Gobernador.
 
 ###### ARTÍCULO 397.
 
@@ -7832,3 +7988,31 @@ SEGUNDO. La Coordinación Técnica del Sistema Estatal del Registro Civil, conta
 TERCERO. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hayan efectuado durante el periodo existente entre la entrada en vigor de este decreto y la creación del Registro Estatal de Deudores Alimentarios Morosos, así como, para realizar las adecuaciones correspondientes a los ordenamientos legales aplicables para su debido funcionamiento.
 
 CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
+
+P.O. 9 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 470 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 13 TER Y 272 TER A LA LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO, REFERENTE AL CUMPLIMIENTO DE LA ACCIÓN DE INCONSTITUCIONALIDAD 136/2020 DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN VINCULADA CON ACCIONES AFIRMATIVAS EN FAVOR DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para los efectos constitucionales correspondientes.
+
+TERCERO.- El Instituto Electoral y de Participación Ciudadana, a la entrada en vigor del presente Decreto, deberá emitir los lineamientos correspondientes para que surtan efecto en el proceso electoral 2023-2024.
+
+CUARTO.- Publíquese el presente Decreto en la página web del Congreso del Estado, para conocimiento general y efectos legales procedentes.
+
+P.O. 9 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 471 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO, RELACIONADO CON LA OBSERVANCIA DE MANDATOS LEGALES Y JUDICIALES VINCULADOS CON ACCIONES AFIRMATIVAS EN LA MATERIA Y LA ADECUACIÓN DE LA ESTRUCTURA ORGÁNICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+
+TERCERO.- El Instituto Electoral y de Participación Ciudadana, a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones administrativas y presupuestales que se requieran para su cumplimiento en relación a su estructura orgánica.
+
+CUARTO.- El Instituto Electoral y de Participación Ciudadana, a la entrada en vigor del presente Decreto, deberá emitir los lineamientos correspondientes a las acciones afirmativas.
+
+QUINTO.- Envíese un ejemplar del presente Decreto al Instituto Electoral y de Participación Ciudadana y al Tribunal Electoral, ambos del Estado de Guerrero, para los efectos conducentes.
+
+SEXTO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado y en la página web del Congreso del Estado, para conocimiento general y efectos legales procedentes.
