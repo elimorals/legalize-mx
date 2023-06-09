@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-escolar-del-estado-de-baja-california-89652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-05"
-last_updated: "2016-10-21"
+last_updated: "2023-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 5 de octubre del 2012.
 
@@ -69,7 +69,9 @@ II. Centro Escolar: Institución pública o particular donde se imparte educaci�
 
 III. Comunidad Escolar: Conjunto de personas que comparten espacios educativos, dentro de los cuales se consideran a alumnos, directivos, docentes, personal administrativo y de apoyo, padres de familia, vecinos y autoridades educativas;
 
-IV. Consejo de Seguridad: Consejo Estatal de Seguridad Pública establecido en la Ley de Seguridad Pública del Estado de Baja California;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+IV. Consejo de Seguridad: Consejo Estatal de Seguridad Ciudadana de conformidad con la Ley del Sistema Estatal de Seguridad Ciudadana de Baja California;
 
 V. Consejo Escolar: Consejo Escolar de Participación Social a que refiere el Artículo 68 de la Ley de Educación del Estado de Baja California, así como los análogos creados en las escuelas particulares de educación básica a que refiere el Artículo 69 de dicha ley;
 
@@ -77,9 +79,13 @@ VI. Infraestructura escolar: Muebles e inmuebles destinados a la educación impa
 
 VII. Ley: Ley de Seguridad Escolar del Estado de Baja California.; (sic)
 
-VIII. Secretaría: Secretaría de Educación y Bienestar Social del Estado de Baja California y el Instituto de Servicios Educativos y Pedagógicos de Baja California;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
-IX. Secretario Ejecutivo: Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, a que se refiere la Ley de Seguridad Pública del Estado de Baja California;
+VIII. Secretaría: Secretaría de Educación del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+IX. Secretario Ejecutivo: La o el Secretario Ejecutivo del Sistema Estatal de Seguridad Ciudadana de conformidad con la Ley del Sistema Estatal de Seguridad Ciudadana del Estado de Baja California;
 
 X. Seguridad Escolar: Resguardo de la integridad física y psicosocial de los integrantes de la comunidad escolar, al interior y en el entorno que rodea el centro escolar, derivada del conjunto de acciones preventivas, de seguimiento y de atención ante cualquier situación de riesgo; y
 
@@ -93,15 +99,21 @@ La seguridad escolar es responsabilidad del Ejecutivo Estatal y Ayuntamientos, d
 
 Los programas y acciones en materia de seguridad escolar que se deriven de la presente Ley, tenderán principalmente a modificar las actitudes, así como a formar hábitos y valores en la comunidad escolar para promover la cultura de prevención de situaciones de riesgo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2023)</small>
+
 ###### Artículo 6.
 
 En lo no previsto por la presente Ley será de aplicación supletoria:
 
 I. Ley de Educación del Estado de Baja California;
 
-II. Ley de Seguridad Pública del Estado de Baja California;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
-III. Ley de Protección Civil del Estado de Baja California, y
+II. Ley del Sistema Estatal de Seguridad Ciudadana de Baja California;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+III. Ley de Protección Civil y Gestión Integral de Riesgos del Estado de Baja California; y,
 
 IV. Ley del Régimen Municipal para el Estado de Baja California.
 
@@ -115,13 +127,17 @@ I. Consejo de Seguridad;
 
 II. Secretaría;
 
-III. Secretaría de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+III. Secretaría de Seguridad Ciudadana del Estado;
 
 IV. Secretaría de Salud del Estado;
 
 V. Dirección Estatal de Protección Civil;
 
-VI. Secretaría de Desarrollo Social del Estado;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+VI. Secretaría de Bienestar;
 
 VII. Ayuntamientos;
 
@@ -159,15 +175,19 @@ VIII. Elaborar el Programa Estatal de Seguridad Escolar de Baja California, y
 
 IX. Las que conforme a esta ley y otras disposiciones aplicables le correspondan.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+
 ###### Artículo 10.
 
-La Secretaría de Seguridad Pública, conforme a lo previsto en los artículos 96 y 97 de la Ley de Seguridad Pública del Estado, se coordinará con la Secretaría en la elaboración de la política y programas en materia de prevención del delito para lograr la armonía en las políticas públicas en el Ejecutivo Estatal y en los Ayuntamientos.
+La Secretaría de Seguridad Ciudadana, se coordinará con la Secretaría en la elaboración de la política y programas en materia de prevención del delito para lograr la armonía en las políticas públicas en el Ejecutivo Estatal y en los Ayuntamientos.
 
 ###### Artículo 11.
 
 Corresponde a la Secretaría de Salud en materia de Seguridad Escolar, el ejercicio de las atribuciones siguientes:
 
-I. Proponer al Consejo de Seguridad Pública, a través del Secretario Ejecutivo, las acciones para la identificación de factores de riesgo en los alumnos con los temas de violencia y consumo, abuso de drogas, así como del comportamiento con base a la Ley de Salud Pública del Estado;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+I. Proponer al Consejo de Seguridad, a través del Secretario Ejecutivo, las acciones para la identificación de factores de riesgo en los alumnos con los temas de violencia y consumo, abuso de drogas, problemas en la salud mental, así como del comportamiento con base a la Ley de Salud Pública del Estado;
 
 II. Dar seguimiento a los alumnos detectados con factores de riesgo para su tratamiento individual y del entorno familiar, con base a la Ley de Salud Pública del Estado;
 
@@ -197,9 +217,13 @@ VIII. Invitar y fomentar en la comunidad escolar la cultura de la protección ci
 
 IX. Las demás atribuciones que conforme a la presente Ley y demás disposiciones legales aplicables, le competan.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+
 ###### Artículo 13.
 
-La Secretaría de Desarrollo Social en materia de Seguridad Escolar, aplicará los programas que le correspondan en materia de bienestar social, a fin de mejorar el entorno social de los centros escolares, en coordinación con las autoridades Estatales y Municipales competentes.
+La Secretaría de Bienestar en materia de Seguridad Escolar, aplicará los programas que le correspondan en materia de bienestar social, a fin de mejorar el entorno social de los centros escolares, en coordinación con las autoridades Estatales y Municipales competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2023)</small>
 
 ###### Artículo 14.
 
@@ -569,9 +593,11 @@ V. Situaciones de fenómenos hidrometereológicos (sic), o
 
 VI. Cualquier otra situación análoga a las anteriores que igualmente ponga en riesgo a la comunidad escolar.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+
 ###### Artículo 39.
 
-Cualquier persona que se percate de la situación de riesgo deberá notificarlo inmediatamente al personal directivo y/o personal docente y, en su caso, obtener la descripción física del sospechoso y las circunstancias de la situación de riesgo.
+Cualquier persona que se percate de la situación de riesgo deberá llamar a 911 y/o 089 denuncia anónima y, notificarlo inmediatamente al personal directivo y/o personal docente y, en su caso, obtener la descripción física de la persona sospechosa y las circunstancias de la situación de riesgo.
 
 ###### Artículo 40.
 
@@ -587,7 +613,9 @@ Una vez tomada la determinación de activación del procedimiento de cierre forz
 
 I. Activar la alarma, la cual debe estar diferenciada atendiendo al tipo de situación de riesgo.
 
-II. Notificar al Centro de Control, Comando, Comunicación y Cómputo, dependiente de la Secretaría de Seguridad Pública, proporcionando la información pertinente en forma clara: quién reporta, nombre del centro escolar, dirección, definición de la situación, información de lesionados, rutas principales y alternas de acceso, en general, toda aquella de relevancia para su adecuada atención.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+II. Notificar al Centro de Control, Comando, Comunicación y Computo, dependiente de la Secretaría de Seguridad Ciudadana, proporcionando la información pertinente en forma clara: quien reporta, nombre del centro escolar, dirección, definición de la situación, información de personas lesionadas, rutas principales y alternas de acceso, en general, toda aquella de relevancia para su adecuada atención.
 
 III. El personal directivo deberá comunicar de la situación de riesgo a su superior inmediato a la brevedad posible.
 
@@ -774,3 +802,9 @@ P.O. 21 DE OCTUBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO. A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá emitir, en un plazo no mayor (sic) ciento ochenta días naturales, las modificaciones a los Reglamentos correspondientes.
+
+P.O. 9 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 235 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 3, 6, 7, 10, 11, 13, 14, 39 Y 42 DE LA LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
