@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2023-04-13"
+last_updated: "2023-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -1131,13 +1131,13 @@ IV. A los Ayuntamientos en lo relativo al gobierno municipal.
 
 V. A los ciudadanos en el ejercicio de la iniciativa popular.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
-Dentro de los primeros cinco días hábiles siguientes al inicio de cada periodo ordinario de sesiones, el Gobernador podrá presentar una iniciativa de decreto o ley con el carácter de preferente, que deberá ser votada por el pleno del Congreso dentro de los treinta días siguientes a su presentación, de conformidad al procedimiento que establezca la ley.
+Por cada periodo ordinario de sesiones, el Gobernador podrá presentar dos iniciativas de decreto o ley con el carácter de preferente o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores, cuando estén pendientes de dictamen. Cada iniciativa deberá ser discutida y votada por el pleno del Congreso en el plazo máximo de treinta días naturales siguientes a su presentación, de conformidad al procedimiento que establezca la ley.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
-No serán preferentes las iniciativas que el Gobernador presente en materia presupuestal, fiscal y electoral, ni reformas constitucionales.
+No podrán tener carácter preferente las iniciativas de adición o reforma a esta Constitución.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
@@ -1167,29 +1167,37 @@ Es materia de Decreto toda resolución que otorgue derechos y obligaciones a det
 
 Son materia de Acuerdo, todas las demás resoluciones de la Cámara que no tengan el carácter de Ley o Decreto.
 
-> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-Las leyes y decretos se comunicarán al Ejecutivo, para su promulgación y observancia, firmados por el Presidente y Secretarios de la Mesa Directiva. Aprobado por la Cámara el proyecto de ley o decreto lo enviará desde luego al Ejecutivo, para que dentro del plazo de diez días naturales haga las observaciones que estime pertinentes.
+Las leyes y decretos se comunicarán al Ejecutivo, para su promulgación y observancia, firmados por el Presidente y Secretarios de la Mesa Directiva. Aprobado por el Congreso el proyecto de ley o decreto se enviará al Ejecutivo, para que dentro del plazo de treinta días naturales haga las observaciones que estime pertinentes.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 El plazo para la presentación de las observaciones a los proyectos de Ley de Ingresos y Presupuesto de Egresos se ajustará a lo dispuesto por el artículo 38 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
 
 ###### Art. 54.
 
-Se considerará aprobada por el Ejecutivo la resolución materia de ley o decreto no devuelta con observaciones al Congreso dentro de los diez días naturales a partir de su recepción, a no ser que corriendo dicho plazo, éste hubiere cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día en que el Congreso vuelva a estar reunido.
+Se considerará aprobado (sic) por el Poder Ejecutivo la resolución materia de ley o decreto no devuelta con observaciones al Congreso dentro de los treinta días naturales siguientes a su recepción; vencido este plazo el Ejecutivo dispondrá de diez días naturales para promulgar y publicar la ley o decreto.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+Transcurrido este segundo plazo, la ley o decreto será considerado promulgado y el Presidente o Presidenta de la Mesa Directiva ordenará dentro de los diez días naturales siguientes su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin que se requiera refrendo.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+Los plazos a que se refiere este artículo no se interrumpirán si el Congreso cierra o suspende sus sesiones, en cuyo caso la devolución deberá hacerse a la Diputación Permanente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
 
 ###### Art. 55.
 
-La ley o decreto devuelto con observaciones que en todo o en parte se le hayan formulado, será discutido de nueva cuenta en el Congreso.
+El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto al Congreso. Deberá ser discutido de nuevo por éste, y si fuese confirmado por las dos terceras partes del número total de votos, el proyecto será ley o decreto y volverá al Ejecutivo para su inmediata promulgación.
 
-En este debate, podrá intervenir el Gobernador o quien él designe, para defender sus observaciones y responder a las cuestiones que sobre el particular formulen los diputados. Si la ley o el decreto son confirmados por el voto de la mayoría de diputados integrantes del Congreso, será reenviado al Ejecutivo para su inmediata promulgación y publicación. Si a pesar de ello, el Ejecutivo se niega a promulgar y publicar la resolución o la retarda injustificadamente, será acreedor a las sanciones que establezca la ley.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+
+En este debate, podrá intervenir el Gobernador o quien él designe, para defender sus observaciones y responder a las cuestiones que sobre el particular formulen los diputados.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
 
@@ -1701,9 +1709,11 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en el país durante los dos años anteriores al día de la designación; y
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2022)</small>
+(NOTA: EL 26 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 157/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-VI.- No haber ocupado cargo de elección popular, de dirigencia de algún partido político, de Fiscal General o Secretario de alguna dependencia del Poder Ejecutivo, durante el año previo al día de la designación.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
+VI.- No haber ocupado cargo de elección popular, de dirigencia de algún partido político, de Fiscal General o Secretario de alguna dependencia del Poder Ejecutivo, DURANTE 90 DÍAS ANTERIORES A LA DESIGNACIÓN.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -4646,3 +4656,19 @@ P.O. 13 DE ABRIL DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
+
+P.O. 9 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE INICIATIVA PREFERENTE Y FACULTAD DE PRESENTAR OBSERVACIONES POR PARTE DEL TITULAR DEL PODER EJECUTIVO DEL ESTADO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
+
+P.O. 9 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL ARTÍCULO 83 FRACCIÓN VI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, y artículo 96 de la Ley Orgánica del Poder Legislativo, remítase el presente Decreto a los Ayuntamientos de la Entidad.
