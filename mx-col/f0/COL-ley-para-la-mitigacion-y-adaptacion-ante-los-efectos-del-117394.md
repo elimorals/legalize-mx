@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-mitigacion-y-adaptacion-ante-los-efectos-del-117394
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-22"
-last_updated: "2019-09-28"
+last_updated: "2023-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY PARA LA MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2023.
 
 Ley publicada en el Suplemento No. 1 al Número 73 del Periódico Oficial del Estado de Colima.
 
@@ -163,7 +163,9 @@ XXI. Reglamento: El Reglamento de la presente Ley;
 
 XXII. REED+: A la Reducción de Emisiones por la Deforestación y Degradación, así como aumento de almacenes de carbono, manejo forestal sustentable y conservación;
 
-XXIII. Secretaría: La Secretaría de Infraestructura y Desarrollo Urbano del Estado;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+XXIII. Secretaría: La Secretaría de Infraestructura, Desarrollo Urbano y Movilidad del Estado;
 
 XXIV. Servicios ambientales: Las condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano;
 
@@ -461,9 +463,11 @@ VIII. Convocar al Consejo de manera ordinaria dos veces por año y extraordinari
 
 IX. Las demás que prevea esta Ley y las disposiciones que sean aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2023)</small>
+
 ###### Artículo 18.
 
-Corresponde al titular de la Secretaría el ejercicio de las siguientes atribuciones:
+Corresponde a la Secretaría a través del IMADES, el ejercicio de las siguientes atribuciones:
 
 I. Proponer al Gobernador la formulación y adopción de políticas, estrategias y acciones necesarias para el cumplimiento de los fines de la presente Ley;
 
@@ -892,3 +896,11 @@ P.O. 28 DE SEPTIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 139 POR EL QUE SE REFORMAN LOS ARTÍCULOS 22 FRACCIONES IV Y VI Y 23 FRACCIÓN I Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 17 Y SE HACE EL CORRIMIENTO DE LA FRACCIÓN SUBSECUENTE, DE LA LEY PARA LA MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 318.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 5, FRACCIÓN XXIII Y 18, DE LA LEY PARA LA MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Colima".
