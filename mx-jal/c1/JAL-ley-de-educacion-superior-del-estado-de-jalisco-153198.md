@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-superior-del-estado-de-jalisco-153198"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-25"
-last_updated: "2021-12-25"
+last_updated: "2023-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2023.
 
 Ley publicada al Sección VI al Número 3 del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2021.
 
@@ -231,9 +231,17 @@ XXII. La territorialización de la educación superior, concebida como el conjun
 
 XXIII. La internacionalización solidaria de la educación superior, entendida como la cooperación y el apoyo educativo, con pleno respeto a la soberanía de cada país, a fin de establecer procesos multilaterales de formación, vinculación, intercambio, movilidad e investigación, a partir de una perspectiva diversa y global;
 
-XXIV. El reconocimiento de habilidades y conocimientos adquiridos en la práctica como parte de un plan y programa de estudios que impartan las instituciones educativas para obtención de títulos y grados académicos; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
 
-XXV. El respeto a los derechos laborales de los trabajadores, a partir de la naturaleza jurídica y normas que rigen a las instituciones públicas de educación superior.
+XXIV. El reconocimiento de habilidades y conocimientos adquiridos en la práctica como parte de un plan y programa de estudios que impartan las instituciones educativas para obtención de títulos y grados académicos;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+XXV. El respeto a los derechos laborales de los trabajadores, a partir de la naturaleza jurídica y normas que rigen a las instituciones públicas de educación superior; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+XXVI. El impulso al desarrollo emprendedor de los alumnos.
 
 ###### Artículo 11.
 
@@ -241,7 +249,9 @@ XXV. El respeto a los derechos laborales de los trabajadores, a partir de la nat
 
 I. Contribuir a garantizar el derecho a la educación establecido en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y al aprendizaje integral del estudiante;
 
-II. Formar profesionales con visión científica, tecnológica, innovadora, humanista e internacional, con una sólida preparación en sus campos de estudio, responsables y comprometidos con la sociedad y el desarrollo de México, con conciencia ética y solidaria, pensamiento crítico y creativo, así como su capacidad innovadora, productiva y emprendedora;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+II. Formar profesionales con visión emprendedora, científica, tecnológica, innovadora, humanista e internacional, con una sólida preparación en sus campos de estudio, responsables y comprometidos con la sociedad y el desarrollo de México, con conciencia ética y solidaria, pensamiento crítico y creativo, así como su capacidad innovadora, productiva y emprendedora;
 
 III. Promover la actualización y el aprendizaje a lo largo de la vida con el fin de mejorar el ejercicio profesional y el desarrollo personal y social;
 
@@ -281,13 +291,17 @@ IX. El establecimiento de procesos de planeación participativa de la educación
 
 X. La articulación de las estrategias y los programas de los distintos subsistemas de educación superior, con un enfoque de compromiso de las instituciones de educación superior que contribuya a la búsqueda de soluciones a los problemas nacionales, regionales y locales;
 
-XI. La promoción permanente de procesos de diagnóstico y evaluación que permitan prevenir y atender la deserción escolar, particularmente la de sector es (sic) en vulnerabilidad social;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+XI. La promoción permanente de procesos de diagnóstico y evaluación que permitan prevenir y atender la deserción escolar, particularmente la de sectores en vulnerabilidad social;
 
 XII. La evaluación de la educación superior como un proceso integral, sistemático y participativo para su mejora continua basada, entre otros aspectos, en evaluaciones diagnósticas, de programas y de gestión institucional, así como en la acreditación en los términos que se establezcan en las disposiciones derivadas de la presente Ley;
 
 XIII. El impulso de la excelencia educativa, la innovación permanente, la interculturalidad y la internacionalización solidaria en la formación profesional y en las actividades de generación, transmisión, aplicación y difusión del conocimiento;
 
-XIV. El incremento proporcional en la incorporación de directivas, académicas e investigadoras a plazas de tiempo completo con funciones de dirección, docencia e investigación en las áreas de ciencias, humanidades, ingenierías y tecnologías, cuando así corresponda, para lograr la paridad de género, conforme a la normatividad década (sic) institución;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+XIV. El incremento proporcional en la incorporación de directivas, académicas e investigadoras a plazas de tiempo completo con funciones de dirección, docencia e investigación en las áreas de ciencias, humanidades, ingenierías y tecnologías, cuando así corresponda, para lograr la paridad de género, conforme a la normatividad de cada institución;
 
 XV. El fortalecimiento de la carrera del personal académico y administrativo de las instituciones públicas de educación superior, considerando la diversidad de sus entornos, a través de su formación, capacitación, actualización, profesionalización y superación, que permitan mejorar las condiciones bajo las cuales prestan sus servicios;
 
@@ -313,7 +327,9 @@ XXV. La mejora continua e integral de las tareas administrativas y de gestión d
 
 XXVI. La promoción del fortalecimiento institucional, el dinamismo y la diversidad de modalidades y opciones educativas en las instituciones de educación superior;
 
-XXVII. El impulso de la investigación científica, humanística, tecnológica y la innovación tecnológica, así como la diseminación y la difusión de la información en acceso abierto que se derive para impulsar el conocimiento y desarrollo de la educación superior;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+XXVII. El impulso de la investigación científica, humanística, tecnológica y la innovación tecnológica y emprendedora, así como la diseminación y la difusión de la información en acceso abierto que se derive para impulsar el conocimiento y desarrollo de la educación superior;
 
 XXVIII. La promoción del acceso y la utilización responsable de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en los procesos de la vida cotidiana y en todas las modalidades de la oferta del tipo de educación superior; y
 
@@ -331,7 +347,9 @@ I. De técnico superior universitario o profesional asociado: Se cursan después
 
 II. De licenciatura: Se cursan después de los del tipo medio superior y están orientados a la formación integral en una profesión, disciplina o campo académico, que faciliten la incorporación al sector social, productivo y laboral. A su conclusión se obtendrá el título profesional correspondiente;
 
-III. De especialidad: Se cursan después de la licenciatura y tienen como objetivo profundizaren (sic) el estudio y tratamiento de problemas o actividades específicas de un área particular de una profesión. El documento que se expide a la conclusión de dichos estudios es un diploma de especialidad y en los casos respectivos, se otorga el grado correspondiente;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+III. De especialidad: Se cursan después de la licenciatura y tienen como objetivo profundizar en el estudio y tratamiento de problemas o actividades específicas de un área particular de una profesión. El documento que se expide a la conclusión de dichos estudios es un diploma de especialidad y en los casos respectivos, se otorga el grado correspondiente;
 
 IV. De maestría: Se cursan después de la licenciatura o especialidad y proporcionan una formación amplia y sólida en un campo de conocimiento y tienen como objetivos alguno de los siguientes:
 
@@ -383,7 +401,9 @@ VI. Las demás que se determinen por la autoridad de educación superior del Est
 
 1. Las instituciones de educación superior podrán otorgar título profesional, diploma o grado académico a la persona que haya concluido estudios de tipo superior y cumplido los requisitos académicos establecidos en los planes de estudio y ordenamientos aplicables.
 
-2. Para este propósito, las instituciones de educación superior determinarán los requisitos y modalidades en que sus egresados podrán obtener el título profesional, diploma o grado académico correspondiente.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+2. Para este propósito, las instituciones de educación superior determinarán los requisitos y modalidades en que sus egresados podrán obtener el título profesional, diploma o grado académico correspondiente. Privilegiando las modalidades compatibles con los criterios orientadores previstos en esta ley.
 
 3. Los certificados, diplomas, títulos profesionales y grados académicos que expidan los particulares respecto de estudios autorizados o reconocidos requerirán de autenticación por parte de la autoridad o institución pública que haya concedido la autorización o el reconocimiento de validez oficial de estudios. Para tal efecto, podrán utilizar medios digitales y procesos electrónicos.
 
@@ -395,7 +415,9 @@ VI. Las demás que se determinen por la autoridad de educación superior del Est
 
 2. La autoridad de educación superior del Estado promoverá con las instituciones de educación superior que, como una opción del servicio social, se realice el reforzamiento del conocimiento a través de tutorías a educandos en el tipo educativo básico y de media superior en las áreas de matemáticas, lenguaje, comunicación y se proporcione acompañamiento en servicios de psicología, trabajo social, orientación educativa, entre otras, para contribuir a su máximo aprendizaje, desarrollo integral y equidad en educación.
 
-3. La autoridad de educación superior del Estado, en coordinación con las instituciones de educación superior, promoverán que el servicio social sea reconocido como parte de su experiencia para el desempeño de sus labores profesionales.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+3. La autoridad de educación superior del Estado, en coordinación con las instituciones de educación superior, promoverán que el servicio social sea reconocido como parte de su experiencia profesional, para permitir una mejor inserción en el ámbito laboral.
 
 ###### Artículo 18.
 
@@ -495,13 +517,17 @@ IX. Los demás que se determinen en las leyes correspondientes.
 
 ###### Artículo 26.
 
-1. El Sistema Estatal de Educación Superior y la autoridad de educación superior del Estado deberán operar de manera articulada y convergente. Las disposiciones legales y las políticas de educación superior y las destinadas a ciencia, humanidades, tecnología e innovación establecerán los procedimientos para la coordinación y complementariedad de programas, proyectos y recursos económicos.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+1. El Sistema Estatal de Educación Superior y la autoridad de educación superior del Estado deberán operar de manera articulada y convergente. Las disposiciones legales y las políticas de educación superior y las destinadas a ciencia, humanidades, tecnología, innovación y emprendimiento, establecerán los procedimientos para la coordinación y complementariedad de programas, proyectos y recursos económicos.
 
 2. Para lograr ese propósito la autoridad de educación superior del Estado y las instituciones de educación superior, además de lo establecido en la Ley, atenderán lo siguiente:
 
 I. El fomento de la vocación científica, tecnológica, humanística e innovadora;
 
-II. La consolidación de los procesos de enseñanza y aprendizaje de la investigación e innovación científica, humanística y tecnológica;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+II. La consolidación de los procesos de enseñanza y aprendizaje de la investigación e innovación científica, humanística, emprendedora y tecnológica;
 
 III. La formación de investigadoras e investigadores, en los casos que corresponda;
 
@@ -623,7 +649,9 @@ IV. Las Instituciones Públicas de Posgrado y las Particulares que cuentan con R
 
 2. Para tal efecto, la autoridad de educación superior docente del Estado tendrá las siguientes atribuciones:
 
-I. Promover la asignación, conforme a las disposiciones jurídicas aplicables ante las instancias competentes, del presupuesto federal y estatal destinado a las escuelas normales y a las instituciones de formación docente del Estado, para fomentarla (sic) superación académica y contribuir a la mejora continua de las funciones académicas que realizan, así como al mejoramiento de su infraestructura y equipamiento;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+I. Promover la asignación, conforme a las disposiciones jurídicas aplicables ante las instancias competentes, del presupuesto federal y estatal destinado a las escuelas normales y a las instituciones de formación docente del Estado, para fomentar la superación académica y contribuir a la mejora continua de las funciones académicas que realizan, así como al mejoramiento de su infraestructura y equipamiento;
 
 II. Fomentar que las escuelas normales y las instituciones de formación docente realicen procesos de planeación participativa y democrática para la elaboración de programas integrales de desarrollo y de mejora continua de la educación;
 
@@ -631,11 +659,17 @@ III. Impulsar la creación y fortalecimiento de programas de experimentación pe
 
 IV. Fomentar la creación de colectivos académicos e impulsar acciones para la mejora continua de los planes y programas, así como de las funciones académicas en los programas de formación y extensión;
 
-V. Promoverla (sic) libertad académica y la actualización periódica de planes y programas;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
 
-VI. Impulsar la creación y el fortalecimiento de programas de posgrado y de actualización permanente, así como programas de formación y desarrollo profesional para el personal académico; y
+V. Promover la libertad académica y la actualización periódica de planes y programas;
 
-VII. Las que correspondan a la autoridad de educación superior del Estado en lo conducente a la educación normal y de formación docente.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+VI. Impulsar la creación y el fortalecimiento de programas de posgrado y de actualización permanente, así como programas de formación para el personal académico; y
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+VII. Las que correspondan a la autoridad de educación superior del estado en lo conducente a la educación normal y de formación docente.
 
 3. En el cumplimiento de este artículo se atenderán las necesidades y contextos regionales y locales de las comunidades donde se encuentran ubicadas las instituciones formadoras de docentes y escuelas normales, además de la participación de las autoridades educativas de Jalisco y la comunidad de las referidas instituciones.
 
@@ -703,7 +737,9 @@ XIV. Todas aquellas que contribuyan al logro de los criterios, fines y política
 
 ###### Artículo 41.
 
-1. La autoridad de educación superior del Estado y las instituciones de educación superior, de conformidad con su normatividad aplicable, establecerán de manera progresiva y permanente esquemas de inclusión, formación, capacitación, superación y profesionalización del personal académico del tipo de educación superior, con la finalidad de contribuir a una mejora en los métodos pedagógicos, de investigación, extensión y emprendurismo (sic).
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+1. La autoridad de educación superior del Estado y las instituciones de educación superior, de conformidad con su normatividad aplicable, establecerán de manera progresiva y permanente esquemas de inclusión, formación, capacitación, superación y profesionalización del personal académico del tipo de educación superior, con la finalidad de contribuir a una mejora en los métodos pedagógicos, de investigación, extensión y emprendimiento.
 
 ###### Artículo 42.
 
@@ -727,7 +763,9 @@ a) Emisión de diagnósticos, programas y protocolos para la prevención, atenci
 
 b) Creación de instancias con personal capacitado para la operación y seguimiento de protocolos para la prevención, atención, sanción y erradicación de todos los tipos y modalidades de violencia, en específico la que se ejerce contra las mujeres;
 
-c) Adopción de medidas para considerar la violencia que se ejerce contra las mujeres como causa especial mente (sic) grave de responsabilidad;
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+c) Adopción de medidas para considerar la violencia que se ejerce contra las mujeres como causa especialmente grave de responsabilidad;
 
 d) Aplicación de programas que permitan la detección temprana de los problemas de los tipos y modalidades de la violencia contra las mujeres en las instituciones de educación superior, para proporcionar una primera respuesta urgente a las alumnas que la sufren;
 
@@ -755,7 +793,9 @@ d) Fomento de medidas en el transporte público para garantizar la seguridad del
 
 e) Promoción de transporte escolar exclusivo para mujeres.
 
-3. Las medidas establecidas en la fracción III de este artículo serán complementarias y coadyuvantes a las que realícenlas (sic) autoridades respectivas en el ámbito de su competencia.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+3. Las medidas establecidas en la fracción III de este artículo serán complementarias y coadyuvantes a las que realicen las autoridades respectivas en el ámbito de su competencia.
 
 4. La instancia para la igualdad de género dentro de la estructura de las instituciones de educación superior será la encargada de realizar el seguimiento de las acciones a las que se refiere este artículo.
 
@@ -771,13 +811,23 @@ I. Priorizar la conversión a las tecnologías de la información, comunicación
 
 II. Implementar las opciones educativas con la utilización de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital;
 
-III. Contar con tecnología accesible para la realización de las funciones de docencia; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
 
-IV. Aplicar la Agenda Digital Educativa emitida en términos de la Ley General de Educación y esta Ley.
+III. Contar con tecnología accesible para la realización de las funciones de docencia;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+IV. Aplicar la Agenda Digital Educativa emitida en términos de la Ley General de Educación y esta Ley; e
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+V. Impulsar y fortalecer el uso de redes informáticas públicas gratuitas en las Instituciones de Educación Superior Públicas y en los espacios en común.
 
 ###### Artículo 47.
 
-1. La autoridad de educación superior del Estado, conforme a la disponibilidad presupuestaria, promoverán un programa de equipamiento en las instituciones públicas de educación superior para que su comunidad adquiéralos (sic) conocimientos, técnicas y destrezas sobre tecnología digital y plataformas digitales en acceso abierto. De igual forma, fomentará la instalación de repositorios institucionales, así como laboratorios de investigación y experimentación sobre el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+1. La autoridad de educación superior del Estado, conforme a la disponibilidad presupuestaria, promoverán un programa de equipamiento en las instituciones públicas de educación superior para que su comunidad adquiera los conocimientos, técnicas y destrezas sobre tecnología digital y plataformas digitales en acceso abierto. De igual forma, fomentará la instalación de repositorios institucionales, así como laboratorios de investigación y experimentación sobre el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital.
 
 ### Capítulo II. Autoridades Educativas del Estado
 
@@ -863,7 +913,9 @@ XXIII. Orientar sus prácticas administrativas, a través de procesos de simplif
 
 XXIV. Coordinar las acciones para la implementación del sistema de evaluación y acreditación en programas, procesos e instituciones de educación superior;
 
-XXV. Dar aviso a las autoridades competentes a efecto de ordenar la suspensión de actos o prácticas que constituyan una probable conducta prohibida por la ley o una posible violación a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables e imponerlas (sic) sanciones que procedan; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+XXV. Dar aviso a las autoridades competentes a efecto de ordenar la suspensión de actos o prácticas que constituyan una probable conducta prohibida por la ley o una posible violación a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables e imponer las sanciones que procedan; y
 
 XXVI. Las demás previstas en esta Ley y en los ordenamientos aplicables.
 
@@ -887,7 +939,9 @@ XXVI. Las demás previstas en esta Ley y en los ordenamientos aplicables.
 
 ###### Artículo 53.
 
-1. La Comisión Estatal para la Planeación de la Educación Superior es el órgano colegiado, encargado de coordinar estrategias, programas y proyectos en apoyo a la planeación del desarrollo de le (sic) educación superior no vinculantes.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+1. La Comisión Estatal para la Planeación de la Educación Superior es el órgano colegiado, encargado de coordinar estrategias, programas y proyectos en apoyo a la planeación del desarrollo de la educación superior no vinculantes.
 
 ###### Artículo 54.
 
@@ -1089,7 +1143,9 @@ VIII. Los recursos federales transferidos a las instituciones públicas de educa
 
 IX. Los ingresos propios de las instituciones que cuenten con personalidad jurídica y patrimonio propio serán complementarios a la asignación presupuestal a cargo de la Federación y del Estado. Esos ingresos serán reportados en los informes que se realicen de la evaluación de gasto público respectivo, conforme a las disposiciones jurídicas aplicables. Estos ingresos formarán parte de su patrimonio, serán administrados por las propias instituciones y se destinarán para el cumplimiento de sus objetivos y programas de desarrollo institucional; y
 
-X. Las instituciones públicas de educación superior, con apoyo de la autoridad de educación superior del Estado, podrán llevar a cabo programas y acciones para incrementar sus recursos, así como ampliar y diversificar sus fuentes de financiamiento, sin menos cabo (sic) del principio constitucional de gratuidad en los términos establecidos en la presente Ley. Las instituciones de educación superior informarán a las instancias correspondientes sobre la captación de recursos y su aplicación, observándolas (sic) disposiciones de fiscalización, transparencia y rendición de cuentas.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+X. Las instituciones públicas de educación superior, con apoyo de la autoridad de educación superior del Estado, podrán llevar a cabo programas y acciones para incrementar sus recursos, así como ampliar y diversificar sus fuentes de financiamiento, sin menoscabo del principio constitucional de gratuidad en los términos establecidos en la presente Ley. Las instituciones de educación superior informarán a las instancias correspondientes sobre la captación de recursos y su aplicación, observando las disposiciones de fiscalización, transparencia y rendición de cuentas.
 
 ## Título Séptimo. Particulares que impartan Educación Superior
 
@@ -1099,7 +1155,9 @@ X. Las instituciones públicas de educación superior, con apoyo de la autoridad
 
 1. El Estado reconoce la contribución que realizan las instituciones particulares de educación superior que cuentan con autorización o reconocimiento de validez oficial de estudios para el logro de los principios, fines y criterios de la educación establecidos en la Constitución Política de los Estados Unidos Mexicanos, por tanto, gozarán de todas las garantías para impartir este tipo de educación, asimismo estarán obligados a cumplir las disposiciones legales aplicables.
 
-2. A las instituciones particulares de educación superior se les reconoce la libertad para definir su modelo educativo, así como su organización interna y administrativa; fijar las disposiciones de admisión, permanencia y egreso de sus estudiantes, con pleno respeto a los derechos humanos y en apego a las disposiciones legales; participar en programas que promuevan l (sic) ciencia, la tecnología y la innovación; promover la investigación, la vinculación y la extensión dentro de los lineamientos de su modelo educativo y desarrollo institucional; realizar convenios con universidades, centros de investigación y otras organizaciones nacionales o extranjeras para la prestación de sus servicios educativos; y las demás necesarias para prestar el servicio público de educación superior en cumplimiento con las disposiciones de la presente Ley.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+2. A las instituciones particulares de educación superior se les reconoce la libertad para definir su modelo educativo, así como su organización interna y administrativa; fijar las disposiciones de admisión, permanencia y egreso de sus estudiantes, con pleno respeto a los derechos humanos y en apego a las disposiciones legales; participar en programas que promuevan la ciencia, la tecnología y la innovación; promover la investigación, la vinculación y la extensión dentro de los lineamientos de su modelo educativo y desarrollo institucional; realizar convenios con universidades, centros de investigación y otras organizaciones nacionales o extranjeras para la prestación de sus servicios educativos; y las demás necesarias para prestar el servicio público de educación superior en cumplimiento con las disposiciones de la presente Ley.
 
 ###### Artículo 70.
 
@@ -1111,7 +1169,9 @@ X. Las instituciones públicas de educación superior, con apoyo de la autoridad
 
 4. Los particulares que impartan estudios de tipo superior que obtengan autorización o reconocimiento de validez oficial de estudios en términos de esta Ley y demás normativa aplicable, deberán registrarse ante la autoridad en materia de profesiones, de conformidad con la normatividad aplicable.
 
-5. Las autorizaciones o los reconocimientos de validez oficial de estudios se refrendarán con la periodicidad que se determine en esta Ley. La autoridad de educación superior del Estado o las instituciones públicas de educación superior facultadas para ello, en los casos de su competencia podrán autorizar plazos de refrendo mayores a los previstos en la presente Ley conforme a los lineamientos que para tal efecto expidan. En el supuesto de no cumplírselos (sic) requisitos establecidos para el refrendo, establecerán los procedimientos necesarios para salvaguardar los estudios de las personas inscritas en el plan y programa respectivo.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+5. Las autorizaciones o los reconocimientos de validez oficial de estudios se refrendarán con la periodicidad que se determine en esta Ley. La autoridad de educación superior del Estado o las instituciones públicas de educación superior facultadas para ello, en los casos de su competencia podrán autorizar plazos de refrendo mayores a los previstos en la presente Ley conforme a los lineamientos que para tal efecto expidan. En el supuesto de no cumplirse los requisitos establecidos para el refrendo, establecerán los procedimientos necesarios para salvaguardar los estudios de las personas inscritas en el plan y programa respectivo.
 
 ###### Artículo 71.
 
@@ -1141,11 +1201,15 @@ e) El reconocimiento de validez oficial de estudios será intransferible;
 
 f) El plazo máximo para que la autoridad de educación superior del Estado o las instituciones públicas de educación superior facultadas respondan respecto a la solicitud del reconocimiento de validez oficial de estudios será de sesenta días hábiles contados al día siguiente en que es admitido el trámite respectivo. Podrán prorrogar ese plazo hasta por treinta días hábiles por causa debidamente justificada. En caso de no contestar en el plazo establecido, la autoridad de educación superior del Estado o las instituciones facultadas para ello determinarán el procedimiento para tenerse por otorgado el reconocimiento, a través de los lineamientos que emitan;
 
-g) Conjuntamente con la solicitud del reconocimiento de validez oficial de estudioso con la solicitud del refrendo del mismo, la institución particular de educación superior respectiva presentará un programa de mejora continua o una acreditación institucional nacional o internacional vigente reconocida por la (sic) autoridades de educación superior del Estado o por la institución pública de educación superior facultada para otorgar el reconocimiento. El referido programa se actualizará a la solicitud del refrendo respectivo y será un elemento de evaluación conforme a lo dispuesto en esta Ley;
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+g) Conjuntamente con la solicitud del reconocimiento de validez oficial de estudios o con la solicitud del refrendo del mismo, la institución particular de educación superior respectiva presentará un programa de mejora continua o una acreditación institucional nacional o internacional vigente reconocida por las autoridades de educación superior del Estado o por la institución pública de educación superior facultada para otorgar el reconocimiento. El referido programa se actualizará a la solicitud del refrendo respectivo y será un elemento de evaluación conforme a lo dispuesto en esta Ley;
 
 h) El reconocimiento de validez oficial de estudios se refrendará por una periodicidad de uno punto cinco veces la duración del plan y programa de estudio respectivo. La autoridad de educación superior del Estado o las instituciones facultadas para ello establecerán procedimientos abreviados y digitales para su otorgamiento, debiendo dar respuesta en un plazo no mayor a treinta días hábiles, en caso contrario se tendrá por otorgado el refrendo; e
 
-i) Los particulares deberán mencionaren (sic) la documentación que expidan y en la publicidad que hagan, una leyenda que indique si cada uno de sus planes y programas cuenta con reconocimiento de validez oficial de estudios.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+i) Los particulares deberán mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique si cada uno de sus planes y programas cuenta con reconocimiento de validez oficial de estudios.
 
 II. Acorde a lo establecido en la Ley General de Educación Superior, corresponde de manera exclusiva a la autoridad educativa federal otorgar, negar o retirar el reconocimiento de validez oficial de estudios a los particulares para la formación en áreas de la salud;
 
@@ -1155,7 +1219,9 @@ IV. Con la resolución emitida por la autoridad de educación superior del Estad
 
 V. El reconocimiento de validez oficial de estudios, por lo que hace a la educación superior, surtirá efectos a partir de su otorgamiento;
 
-VI. Corresponderá a la autoridad de educación superior del Estado, así, como de las instituciones públicas de educación superior facultadas para otorgar, negar o, en su caso, revocar o retirarla (sic) autorización o el reconocimiento de validez oficial de estudios, vigilar que las denominaciones de las instituciones de educación superior particulares correspondan a su naturaleza, de acuerdo con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+VI. Corresponderá a la autoridad de educación superior del Estado, así, como de las instituciones públicas de educación superior facultadas para otorgar, negar o, en su caso, revocar o retirar la autorización o el reconocimiento de validez oficial de estudios, vigilar que las denominaciones de las instituciones de educación superior particulares correspondan a su naturaleza, de acuerdo con las disposiciones aplicables;
 
 VII. En las disposiciones que emita la autoridad de educación superior del Estado para regular los trámites y procedimientos relacionados con la autorización y el reconocimiento de validez oficial de estudios, se establecerá un programa de simplificación administrativa; y
 
@@ -1167,7 +1233,9 @@ VIII. Los estudios realizados con anterioridad al otorgamiento del reconocimient
 
 I. El reconocimiento a la gestión institucional y excelencia educativa se otorgará a las instituciones particulares que impartan estudios del tipo superior que reúnan los siguientes requisitos:
 
-a) Cuenten con una acreditación institucional nacional o internacional vigente reconocida por la autoridad e (sic) educación superior del Estado.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+a) Cuenten con una acreditación institucional nacional o internacional vigente reconocida por la autoridad de educación superior del Estado.
 
 b) Cuenten con profesores que cumplan los criterios académicos acordes con la asignatura a impartir en el plan de estudios correspondiente;
 
@@ -1233,7 +1301,9 @@ II. Suspensión de información o publicidad del plan o programa de estudios res
 
 III. Colocación de sellos e información de advertencia en el plantel educativo sobre el plano programa de estudios respectivo; y
 
-IV. Aquellas necesarias para salvaguardarlos (sic) derechos educativos de las y los estudiantes.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+IV. Aquellas necesarias para salvaguardar los derechos educativos de las y los estudiantes.
 
 2. En caso de aplicarse las medidas establecidas en las fracciones I y II de este artículo, la autoridad de educación superior del Estado, o la institución pública de educación superior que otorgue la autorización o el reconocimiento de validez oficial establecerá los procedimientos necesarios para salvaguardar los estudios de las personas inscritas en el plano programa de estudios respectivo.
 
@@ -1245,7 +1315,9 @@ I. Ofrecer o impartir estudios denominados como técnico superior universitario,
 
 II. Incumplir con lo dispuesto en el artículo 72 fracción I incisos g), h) e i) de esta Ley;
 
-III. Contravenirlas (sic) disposiciones contempladas en los artículos 9 y 10 de esta Ley;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+III. Contravenir las disposiciones contempladas en los artículos 9 y 10 de esta Ley;
 
 IV. Incumplir con las medidas correctivas o precautorias que ordene la autoridad educativa en términos de esta Ley;
 
@@ -1255,7 +1327,9 @@ VI. Condicionar la prestación del servicio público de educación a la contrata
 
 VII. Incumplir con las sanciones que la autoridad educativa imponga; e
 
-VIII. Incumplir cuales quiera (sic) de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+VIII. Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
 
 ###### Artículo 77.
 
@@ -1279,11 +1353,15 @@ IV. Imposibilidad para obtener autorización o reconocimiento de validez oficial
 
 ###### Artículo 78.
 
-1. En contra de las resoluciones emitidas por la autoridad de educación superior del Estado en materia de autorización o reconocimiento de validez oficial de estudios o las instituciones públicas de educación superior facultadas para ello, los trámites y procedimientos relacionados con los mismos, con fundamento en las disposiciones de esta Ley y las normas que de ella deriven, el afectado podrá optar entre interponer el recurso de revisión o acudirá (sic) la autoridad jurisdiccional que corresponda.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+1. En contra de las resoluciones emitidas por la autoridad de educación superior del Estado en materia de autorización o reconocimiento de validez oficial de estudios o las instituciones públicas de educación superior facultadas para ello, los trámites y procedimientos relacionados con los mismos, con fundamento en las disposiciones de esta Ley y las normas que de ella deriven, el afectado podrá optar entre interponer el recurso de revisión o acudir a la autoridad jurisdiccional que corresponda.
 
 2. También podrá interponerse el recurso de revisión cuando la autoridad no dé respuesta en el plazo establecido para el otorgamiento del reconocimiento de validez oficial de estudios en términos de esta Ley.
 
-3. La tramitación y la resolución del recurso de revisión, se llevará a (sic) conforme a la Ley del Procedimiento Administrativo del Estado de Jalisco.
+3(REFORMADO, P.O. 10 DE JUNIO DE 2023)
+
+3. La tramitación y la resolución del recurso de revisión, se llevará conforme a la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
 ## TRANSITORIOS
 
@@ -1299,7 +1377,9 @@ QUINTO. Dentro de los quince días siguientes a la entrada en vigor del presente
 
 Para la instalación de la Comisión, la Secretaría de Innovación, Ciencia y Tecnología, por única ocasión podrá designar al integrante de las instituciones de educación superior particulares del Estado, sin necesidad de realizar la consulta a que se refiere el párrafo 4 del artículo 54 de esta Ley.
 
-SEXTO. La Secretaría de Innovación Ciencia y Tecnología y, la Secretaría de Educación Jalisco, en sus respectivas competencias, deberán emitir y adecuar los acuerdos, reglamentos y lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta (sic) hábiles siguientes contados a partir de su entrada en vigor.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE JUNIO DE 2023)</small>
+
+SEXTO. La Secretaría de Innovación Ciencia y Tecnología y, la Secretaría de Educación Jalisco, en sus respectivas competencias, deberán emitir y adecuar los acuerdos, reglamentos y lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor.
 
 Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron, al igual que los que se presenten hasta la emisión y adecuación de los correspondientes en los términos establecidos en el párrafo anterior, siempre que no contravengan el presente Decreto.
 
@@ -1356,3 +1436,11 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29177/LXIII/23 QUE REFORMA LA FRACCIÓN II, NUMERAL 1, ARTÍCULO 11; FRACCIONES XI, XIV Y XXVII, NUMERAL 1, ARTÍCULO 12; FRACCIÓN III, NUMERAL 1, ARTÍCULO 13; NUMERAL 2, ARTÍCULO 16; NUMERAL 3, ARTÍCULO 17; NUMERAL 1 Y FRACCIÓN II, Y NUMERAL 2, ARTÍCULO 26; FRACCIONES I Y V, NUMERAL 2, ARTÍCULO 35; NUMERAL 1, ARTÍCULO 41; INCISO C), FRACCIÓN I, NUMERAL 2 Y NUMERAL 3, ARTÍCULO 44; NUMERAL 1, ARTÍCULO 47; FRACCIÓN XXV, NUMERAL 1, ARTÍCULO 49; NUMERAL 1, ARTÍCULO 53; FRACCIÓN X, NUMERAL 1, ARTÍCULO 68; NUMERAL 2, ARTÍCULO 69; NUMERAL 5, ARTÍCULO 70; INCISOS G) E I), FRACCIÓN I Y FRACCIÓN VI, NUMERAL 1, ARTÍCULO 72; INCISO A), FRACCIÓN I, NUMERAL 1 ARTÍCULO 73; FRACCIÓN IV, NUMERAL 1, ARTÍCULO 75; FRACCIONES III Y VIII, NUMERAL 1, ARTÍCULO 76; NUMERALES 1 Y 3, ARTÍCULO 78 Y TRANSITORIO SEXTO; Y ADICIONA LA FRACCIÓN XXVI, AL NUMERAL 1, ARTÍCULO 10 Y LA FRACCIÓN V, AL NUMERAL 1, ARTÍCULO 46, DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE JALISCO.".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
