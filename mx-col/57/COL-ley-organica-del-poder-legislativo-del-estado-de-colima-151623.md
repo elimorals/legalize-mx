@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-151623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2022-12-31"
+last_updated: "2023-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2023.
 
 Ley publicada en el Suplemento Núm. 4 al Núm. 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -1301,7 +1301,13 @@ I. Iniciativas de Ley o Decreto en primer término; y
 
 II. Iniciativas de Acuerdo o Acuerdo Económico en segundo término.
 
-Se exceptuarán de lo previsto por el presente artículo, las iniciativas que por su relevancia, transcendencia o urgencia, calificada por mayoría de votos de los Diputados presentes, deban ser presentadas al Pleno, sin que hayan sido previamente publicadas en la Gaceta Parlamentaria.
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+Para la presentación de iniciativas, estas se deberán enviar con una anticipación de doce horas al inicio de la sesión de su presentación, por correo electrónico a la Dirección de Proceso Legislativo, debiéndose publicar en la Gaceta Parlamentaria, y hacerse del conocimiento de todas las y los legisladores.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+Se exceptuarán de lo previsto por el presente artículo, las iniciativas que por su relevancia, transcendencia o urgencia, calificada por mayoría de votos de los Diputados y Diputadas presentes, deban ser presentadas al Pleno, sin que hayan sido previamente publicadas en la Gaceta Parlamentaria.
 
 Las iniciativas se turnarán de manera física y por medio electrónico a las Comisiones legislativas que por su materia les corresponda conocer, y se publicarán en la Gaceta Parlamentaria. Si la iniciativa no presenta claridad acerca de su naturaleza, el Pleno decidirá lo que en derecho proceda para las aclaraciones a que haya lugar.
 
@@ -1317,7 +1323,9 @@ Ninguna iniciativa de ley o decreto se presentará al Pleno para su aprobación,
 
 Las iniciativas de acuerdo o de acuerdo económico provenientes de los Diputados, serán discutidas y resueltas en la sesión que sean presentadas.
 
-Para efectos de lo dispuesto en el párrafo anterior, será requisito que los Diputados entreguen dichas iniciativas a la Mesa Directiva antes del inicio de la sesión que corresponda, y se hagan del conocimiento de todos los legisladores.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+Para efectos de lo dispuesto en el párrafo anterior, será requisito que las y los Diputados entreguen dichas iniciativas con una anticipación de doce horas al inicio de la sesión de su presentación, por correo electrónico a la Dirección de Proceso Legislativo, debiéndose publicar en la Gaceta Parlamentaria, y hacerse del conocimiento de todas las y los legisladores.
 
 Las iniciativas de acuerdo o acuerdo económico que no sean dadas a conocer a los legisladores en términos de los párrafos anteriores, no podrán ser discutidas y votadas en la sesión en que sean presentadas; y se turnarán a la Secretaría General para ser discutidas y votadas en la siguiente sesión ordinaria.
 
@@ -1570,3 +1578,11 @@ El presente decreto entrará en vigor en el momento de su aprobación y deberá 
 ###### ARTÍCULO SEGUNDO
 
 En lo que corresponde a la obligación del artículo 62 del Reglamento de la Ley Orgánica del Poder Legislativo, respecto a las transmisiones de las sesiones de las Comisiones Legislativas, estas se realizarán conforme a la disponibilidad presupuestaria y las plataformas digitales lo permitan.
+
+P.O. 10 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 325.- POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 119, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 119 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 121, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, ADEMÁS, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 137, ADICIONANDO A ESTE UN SEGUNDO PÁRRAFO, ASÍ MISMO SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 121, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 126; LA FRACCIÓN LL (SIC) DEL ARTÍCULO 133; 142, 147; LA FRACCIÓN IV DEL ARTÍCULO 154; LOS ARTÍCULOS 155; 156; 168; Y SE DEROGA EL ARTÍCULO 152, DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno del Honorable Congreso del Estado y deberá publicarse en el Periódico Oficial "El Estado de Colima".
