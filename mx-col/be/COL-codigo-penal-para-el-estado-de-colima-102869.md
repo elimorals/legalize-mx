@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2023-05-20"
+last_updated: "2023-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2023.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1667,9 +1667,17 @@ IX. Cuando la víctima se haya encontrado en un estado de indefensión, entiénd
 
 A quien cometa feminicidio se le impondrán de cuarenta a sesenta años de prisión, multa por el importe equivalente de mil a mil quinientas unidades de medida y actualización, y privación de derechos que le pudieran corresponder en relación a la víctima, incluidos los de carácter sucesorio.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2023)</small>
 
-La pena se aumentará hasta en una tercera parte si la víctima fuera niña, adolescente o mujer con discapacidad; así como cuando exista una relación de parentesco por consanguinidad en línea recta, sin limitación de grado; colateral, hasta el cuarto grado; o por afinidad, hasta el cuarto grado; de concubinato; de noviazgo; o bien, una relación laboral, docente, sentimental, vecinal o cualquier otra que implique confianza, subordinación, superioridad o ventaja entre el sujeto activo y la víctima o las personas ofendidas del delito.
+Además, en el caso de que tenga hijas e/o hijos con la víctima, el sujeto activo en su caso, perderá sobre ellas y/o ellos la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, y el derecho de alimentos que le correspondiere, de conformidad a lo dispuesto por el artículo 444 fracción VI del Código Civil local.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+La pena se aumentará hasta en una tercera parte si la víctima fuera niña, adolescente, adulta mayor o mujer con discapacidad; así como cuando exista una relación de parentesco por consanguinidad en línea recta, sin limitación de grado; colateral, hasta el cuarto grado; o por afinidad, hasta el cuarto grado; de concubinato; de noviazgo; o bien, una relación laboral, docente, sentimental, vecinal o cualquier otra que implique confianza, subordinación, superioridad o ventaja entre el sujeto activo y la víctima o las personas ofendidas del delito.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2023)</small>
+
+Misma pena se aplicará, cuando el delito se cometa frente a cualquier víctima indirecta.
 
 ### CAPÍTULO II. LESIONES
 
@@ -4818,3 +4826,11 @@ P.O. 20 DE MAYO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 10 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 319.- POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 447 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA; ADEMÁS, SE ADICIONA UN TERCER Y QUINTO PÁRRAFO HACIÉNDOSE EL CORRIMIENTO CORRESPONDIENTE, Y SE REFORMA EL TERCER PÁRRAFO QUE PASARÁ A SER EL CUARTO PÁRRAFO DEL ARTÍCULO 124 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
