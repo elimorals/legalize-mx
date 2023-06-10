@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2023-05-20"
+last_updated: "2023-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2023.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -3420,6 +3420,10 @@ I.- Por incapacidad declarada judicialmente;
 II.- Por la ausencia declarada en forma;
 
 III.- Por sentencia condenatoria que imponga como pena esta suspensión.
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+IV.- Cuando exista auto de vinculación a proceso dictado por delito de feminicidio en el que la víctima sea la madre de las niñas, niños y adolescentes sujetos a patria potestad.
 
 ART. 448.- La patria potestad no es renunciable; pero aquéllos a quienes corresponda ejercerla, pueden excusarse:
 
@@ -11992,3 +11996,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 Los Condominios constituidos antes de la entrada en vigor de este decreto, tendrán personalidad jurídica propia en los términos del mismo. Por lo tanto, las Asociaciones que se hayan constituido con el objeto de representar legalmente a los Condominios, quedarán disueltas sin necesidad de acuerdo de la asamblea respectiva, y todos los derechos y obligaciones de la misma pasarán a la persona moral del Condominio.
 
 No obstante, los estatutos de dichas asociaciones seguirán aplicándose a la organización y funcionamiento del Condominio de que se trate, hasta en tanto el Condominio en su caso, adecue o modifique sus propias disposiciones y en lo que no se opongan a su propia regulación.
+
+P.O. 10 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 319.- POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 447 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA; ADEMÁS, SE ADICIONA UN TERCER Y QUINTO PÁRRAFO HACIÉNDOSE EL CORRIMIENTO CORRESPONDIENTE, Y SE REFORMA EL TERCER PÁRRAFO QUE PASARÁ A SER EL CUARTO PÁRRAFO DEL ARTÍCULO 124 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
