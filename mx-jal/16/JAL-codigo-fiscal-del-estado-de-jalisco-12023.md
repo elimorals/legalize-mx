@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "2022-04-21"
+last_updated: "2023-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO FISCAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2023.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -301,13 +301,17 @@ XVII. El Director de Gabinete, Programación y Dictámenes;
 
 XVIII. El Director de Comercio Exterior;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
 
-XIX. El Director de Procedimientos Legales; y
+XIX. La persona titular de la Dirección de Procedimientos Legales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2023)</small>
 
-XX. El Coordinador de Fiscalización Estratégica.
+XX. la persona titular de la Coordinación de Fiscalización Estratégica; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2023)</small>
+
+XXI. La persona titular de la Jefatura del Servicio Estatal Tributario de Jalisco.
 
 La Secretaría de Administración será considerada autoridad fiscal para determinar y liquidar los adeudos que se generen por servicio de guarda y custodia de vehículos, mercancía u objetos varios, en los depósitos a su cargo, la implementación del procedimiento administrativo de ejecución se realizará por las autoridades fiscales de la Secretaría de la Hacienda Pública.
 
@@ -3507,48 +3511,70 @@ P.O. 21 DE ABRIL DE 2022.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
-###### ARTICULO PRIMERO
+P.O. 10 DE JUNIO DE 2023.
 
-La presente Ley entrará en vigor el primero de enero de mil novecientos cincuenta y cuatro.
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29178/LXIII/23 QUE REFORMA LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS Y EL CÓDIGO FISCAL DEL ESTADO DE JALISCO; Y EXPIDE LA LEY DEL SERVICIO ESTATAL TRIBUTARIO DE JALISCO".]
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO PRIMERO.
 
-En virtud de que el régimen Municipal se iniciará hasta el primero de marzo de mil novecientos cincuenta y cuatro y de que, en consecuencia, durante los meses de enero y febrero los servicios públicos y administrativos de toda índole los deberá prestar en las actuales Delegaciones el Gobierno del Estado, éste, para poder sufragar los gastos correspondientes, recaudará durante dichos meses los créditos fiscales que se generen y se hagan exigibles conforme a esta Ley durante ese período. Para el efecto ejercerá todos los actos de Autoridad que, conforme la presente Ley, corresponde ejecutar al Municipio.
+El presente decreto entrará en vigor el 1 de enero de 2024, previa su publicación en el periódico oficial “El Estado de Jalisco”.
 
-Dada en el Salón de Sesiones de la H. Legislatura, en la Ciudad de Mexicali, a los veintiocho días del mes de diciembre de mil novecientos cincuenta y tres.- J. Genaro Castro, Diputado Presidente.- Samuel Ramos Díaz, Diputado Secretario.
+###### ARTÍCULO SEGUNDO.
 
-De conformidad con lo dispuesto por la fracción I del artículo 49 de la Constitución Política del Estado, mando se imprima, publique, observe y se le dé el debido cumplimiento.
+El Gobernador Constitucional del Estado de Jalisco deberá expedir el Reglamento Interior del Servicio Estatal Tributario de Jalisco dentro de los ciento ochenta días posteriores a la fecha en que entre en vigor el presente decreto.
 
-Dado en el Palacio del Poder Ejecutivo en la Ciudad de Mexicali Estado de Baja California, a los veintinueve días del mes de diciembre de mil novecientos cincuenta y tres.
+###### ARTÍCULO TERCERO.
 
-LIC. BRAULIO MALDONADO SANDEZ
+El Gobernador Constitucional del Estado de Jalisco designará a la persona titular del Servicio Estatal Tributario de Jalisco conforme a lo previsto en el artículo 15 de la Ley del Servicio Estatal Tributario de Jalisco, al día siguiente en que entre en vigor el presente decreto.
 
-El Secretario General de Gobierno
+###### ARTÍCULO CUARTO.
 
-LIC. RAFAEL MORENO HENRIQUEZ
+El Gobernador Constitucional del Estado de Jalisco publicará en el periódico oficial “El Estado de Jalisco”, el Estatuto del Servicio Fiscal de Carrera de dicho órgano, que deberá entrar en vigor el mismo día en que el presente decreto inicie su vigencia.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+###### ARTÍCULO QUINTO.
 
-P.O. 31 DE DICIEMBRE DE 1954.
+Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaría de la Hacienda Pública o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio Estatal Tributario de Jalisco, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio Estatal Tributario de Jalisco, el Reglamento Interno del Servicio Estatal Tributario de Jalisco o cualquier otra disposición jurídica que emane de ellos.
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO SEXTO.
 
-El impuesto pagado con anterioridad a la vigencia del presente Decreto, no da derecho a su devolución.
+Toda mención que se haga a la autoridad fiscal o tributaria del Estado de Jalisco en cualquier ordenamiento jurídico o administrativo, federal o estatal, se entenderá hecha al Servicio Estatal Tributario de Jalisco.
 
-P.O. 21 DE ENERO DEL 2000.
+###### ARTÍCULO SÉPTIMO.
 
-UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+Los asuntos que, a la fecha de entrada en vigor de la presente Ley, se encuentren en trámite ante la Procuraduría Fiscal, la Subsecretaría de Ingresos o en cualquier unidad administrativa de la Secretaría de la Hacienda Pública, se seguirán tramitando hasta su total conclusión ante el Servicio Estatal Tributario de Jalisco.
 
-P.O. 13 DE ABRIL DE 2001.
+Las solicitudes de devolución de cantidades a favor de las personas contribuyentes que, a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite ante la Secretaría de la Hacienda Pública, seguirán su trámite ante el Servicio Estatal Tributario de Jalisco, para lo cual dicho órgano desconcentrado, en el primer acto de autoridad, requerimiento o aviso relacionado con la solicitud de devolución, notificará al particular la sustitución de autoridad.
 
-UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial Estado de Baja California.
+###### ARTÍCULO OCTAVO.
 
-P.O. 9 DE NOVIEMBRE DE 2001.
+Los recursos y juicios interpuestos en contra de actos o resoluciones de la Procuraduría Fiscal del Estado de Jalisco, la Subsecretaría de Ingresos o de cualquier unidad administrativa de la Secretaría de la Hacienda Pública del Gobierno del Estado de Jalisco, que a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite y representación de dicha Procuraduría Fiscal, vinculados con la materia objeto de la presente Ley se seguirán tramitando por la citada Procuraduría Fiscal hasta su total conclusión.
 
-###### ARTICULO CUARTO.
+###### ARTÍCULO NOVENO.
 
-Los sujetos que hayan causado el Impuesto conforme al artículo 75 BIS B de la Ley de Hacienda Municipal del Estado de Baja California, antes de la entrada en vigor del presente Decreto y que aún no lo hayan pagado, se regirán por la disposición vigente al momento de su causación.
+Las unidades administrativas que con la emisión de la Ley del Servicio Estatal Tributario de Jalisco resulten competentes, notificarán por escrito a las personas contribuyentes de la sustitución de autoridad, para tal efecto se estará a lo siguiente:
 
-P.O. 28 DE AGOSTO DE 2009.
+a) Tratándose del ejercicio de las facultades de comprobación, la autoridad que resulte competente notificará por escrito al contribuyente del cambio de autoridad, así como del aumento o sustitución de auditores, antes de continuar con el desahogo de los procedimientos inherentes al acto de fiscalización.
 
-ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+b) Tratándose de actos distintos a los actos de fiscalización, dicha notificación se entenderá hecha con el primer acuerdo, aviso o respuesta que recaiga al trámite de que se trate, sin que sea necesario emitir un escrito ex profeso para tal efecto.
+
+En todo caso, los actos y resoluciones deberán estar debidamente fundados y motivados conforme a lo establecido en la Ley del Servicio Estatal Tributario de Jalisco.
+
+###### ARTÍCULO DÉCIMO.
+
+La Secretaría de la Hacienda Pública del Gobierno del Estado de Jalisco, coordinará las acciones necesarias para que los archivos y expedientes vinculados con la materia objeto de la Ley del Servicio Estatal Tributario de Jalisco y cualquier otra disposición jurídica que de ellos emane, pasen a formar parte del inventario del Servicio Estatal Tributario de Jalisco.
+
+Para efectos de lo dispuesto en el presente transitorio se deberán realizar las actas de entrega-recepción, con todas las formalidades y requisitos previstos en las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Gobernador Constitucional del Estado de Jalisco, a través de la Secretaría de la Hacienda Pública, dispondrá lo conducente a fin de que a partir de la entrada en vigor del presente Decreto se lleve a cabo la asignación de los recursos materiales y financieros que requiera el Servicio Estatal Tributario de Jalisco para el correcto ejercicio de las atribuciones objeto de la Ley del Servicio Estatal Tributario de Jalisco.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La Secretaría de la Hacienda Pública conforme a lo dispuesto en la Ley del Servicio Estatal Tributario de Jalisco, transferirá al personal que formarán parte del Servicio Estatal Tributario de Jalisco, de entre los que se encuentren prestando servicios en las diferentes áreas de la referida Secretaría. Para este objeto, el Servicio Estatal Tributario de Jalisco, proporcionará capacitación al personal que opte por someterse a las pruebas de selección contempladas en el Estatuto del Servicio Fiscal de Carrera.
+
+La asignación de personal que integre el Servicio Estatal Tributario de Jalisco, deberá concluir en un plazo no mayor a un año conforme a lo establecido en el Estatuto del Servicio Fiscal de Carrera. En tanto este proceso no concluya, las áreas o unidades de la Subsecretaría de Ingresos encargadas de las funciones de la administración tributaria del Estado (sic) Jalisco, deberán seguir desarrollando las mismas en el marco de las facultades que tiene a su cargo y que les otorga la Ley, hasta que sean sustituidas por el Servicio Estatal Tributario de Jalisco.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Las personas servidoras públicas de base que se encuentran prestando servicios en la Subsecretaría de Ingresos, cuyas atribuciones sean asumidas por el Servicio Estatal Tributario de Jalisco a la entrada en vigor del presente decreto, en ninguna forma resultarán afectados en los derechos adquiridos con motivo de su relación laboral, conservando ante su transición al nuevo órgano desconcentrado la misma calidad, sus derechos en los términos de la normatividad aplicable, subrogándose al Servicio Estatal Tributario de Jalisco, como nuevo empleador en todos los derechos y obligaciones derivados de esa relación laboral y aquellos consagrados en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria, o en las Condiciones Generales de Trabajo establecidas en las condiciones generales de trabajo.
