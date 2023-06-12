@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2023-06-02"
+last_updated: "2023-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -56,6 +56,10 @@ III. El ejercicio de los derechos y obligaciones político-electorales de los ci
 > <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
 
 IV. Los Mecanismos de Participación Ciudadana, establecidos en la Ley de la materia.
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+V. Los derechos políticos de autonomía y autogobierno indígena de los pueblos y comunidades indígenas de Michoacán.
 
 Además de lo anterior, establece y armoniza las disposiciones aplicables en materia de instituciones y procedimientos electorales entre el Estado y la Federación, así como la relación entre el Instituto Nacional Electoral y el Instituto Electoral de Michoacán.
 
@@ -1659,17 +1663,21 @@ XII. Conceder a los magistrados electorales licencias temporales para ausentarse
 
 XIII. Resolver de manera definitiva los medios de impugnación de su competencia; y los procedimientos sancionadores que le sean remitidos por el Instituto;
 
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-XIV. Llevar a cabo el procedimiento para la designación del titular del Órgano Interno de Control; y,
+XIV. Llevar a cabo el procedimiento para la designación del titular del Órgano Interno de Control;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-XV. Evaluar periódicamente al Órgano Interno de Control; y,
+XV. Evaluar periódicamente al Órgano Interno de Control;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2023)</small>
 
-XVI. Las demás que le otorgue el presente Código y otras disposiciones legales.
+XVI. Conocer y resolver sobre las inconformidades de las solicitudes que le hagan las comunidades indígenas del Estado de Michoacán de Ocampo, sobre la asignación del presupuesto directo, el consentimiento y consulta previa, libre e informada por parte de las comunidades indígenas; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE JUNIO DE 2023)</small>
+
+XVII. Las demás que le otorgue el presente Código y otras disposiciones legales.
 
 ###### ARTÍCULO 65.
 
@@ -6121,15 +6129,67 @@ Los candidatos independientes que no utilicen la totalidad del financiamiento p�
 
 Los candidatos independientes que incumplan con la normatividad electoral que les resulte aplicable, podrán ser sancionados en términos de lo previsto en este Código.
 
-## TÍTULO TERCERO. DEL PROCESO DE LOS PUEBLOS INDÍGENAS, Y SU DERECHO A ELEGIR AUTORIDADES BAJO EL RÉGIMEN DE USOS Y COSTUMBRES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO ÚNICO. DEL PROCESO
+## TÍTULO TERCERO. DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DE MICHOACÁN
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO ÚNICO. DE LOS DERECHOS POLÍTICOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DE MICHOACÁN
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 330.
 
-Derivado de su derecho a la libre determinación las comunidades y los pueblos indígenas de Michoacán podrán elegir a sus autoridades municipales y la integración de éstas mediante sus usos y costumbres, garantizando la participación de las mujeres en condiciones de paridad.
+Este código reconoce la composición pluricultural del Estado de Michoacán y en consecuencia la demodiversidad materializada en los diferentes sistemas, principios, normas, instituciones y prácticas democráticas y de gobierno de los pueblos y de las comunidades indígenas que se asienta (sic) en su territorio. En concordancia con el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos y del artículo 1° de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, las disposiciones de este Código tendrán en consideración los derechos políticos internacionalmente reconocidos a los pueblos y comunidades indígenas, para lo cual se aseguran los principios pro persona, de progresividad, buena fe, igualdad y no discriminación.
 
-En lo que corresponde a las elecciones para la integración de Ayuntamientos a través de los sistemas normativos de los pueblos y comunidades indígenas en el Estado, el Instituto tendrá la facultad para organizarlas en conjunto y corresponsabilidad con las comunidades, atendiendo al principio de autodeterminación de los pueblos indígenas, previa solicitud, además de que éste calificará y en su caso declarará la validez de la elección y al mismo tiempo expedirá las constancias de mayoría a los ciudadanos que hayan obtenido la mayoría de los votos, lo cual deberá notificar a los poderes del Estado.
+Adicionalmente ninguno de los derechos previstos en este código podrá ser invocado para conculcar otras prerrogativas obtenidas por los pueblos y comunidades indígenas del país en otras leyes y/o resoluciones.
+
+A. Derivado de su derecho a la libre determinación, las comunidades y los pueblos indígenas de Michoacán tienen derecho a la autonomía y autogobierno que para los efectos de este código comprenderán:
+
+I. La elección por usos y costumbres de sus autoridades y gobiernos comunales;
+
+II. La integración de gobiernos comunales que son la manifestación de las formas de gobierno y organización políticas propias de las comunidades;
+
+III. La administración directa del presupuesto y el ejercicio de funciones de gobierno por parte de comunidades indígenas con carácter de tenencias;
+
+IV. La participación efectiva a través de su derecho a la consulta previa libre e informada en todas las medidas jurídicas y administrativas de los gobiernos estatales y de los municipales que sean susceptibles de afectarles; y,
+
+V. Contar con representación dentro de los ayuntamientos que cuenten con población indígena.
+
+B. Para hacer efectivo su derecho al autogobierno y a la administración directa de los recursos presupuestales, las comunidades indígenas deberán realizar su solicitud de la siguiente forma:
+
+I. Las comunidades indígenas, vía sus representantes autorizados por las respectivas asambleas, deberán presentar una solicitud ante el Instituto Electoral de Michoacán y el Ayuntamiento respectivo, en la que se especifique que por mandato de la comunidad y en ejercicio de sus derechos de autonomía y autogobierno, desean elegir, gobernarse y administrarse mediante autoridades tradicionales;
+
+II. La solicitud deberá ser acompañada por el acta de asamblea y firmada por las autoridades comunales. En todo caso deberá prevalecer la decisión de la asamblea en tanto máxima autoridad de las comunidades indígenas;
+
+III. Una vez presentada la solicitud, el Instituto Electoral de Michoacán realizará en conjunto con el Ayuntamiento, en un plazo de quince días hábiles, una consulta previa, libre e informada a la comunidad en la que se especifique si es deseo de la comunidad el elegir, gobernarse y administrarse de forma autónoma;
+
+IV. Realizada la consulta, el Instituto Electoral de Michoacán en un plazo de ocho días hábiles, deberá, de ser el caso, validar el proceso de consulta previa, libre e informada, y dentro de los siguientes dos días hábiles, deberá notificar al Ayuntamiento, la validación de la misma. Posteriormente, y una vez notificado, el Ayuntamiento tendrá un plazo de seis días hábiles para sesionar y emitir el acuerdo de cabildo en el que autoriza a la secretaría de finanzas y administración la transferencia de recursos del presupuesto directo relativo a las participaciones y aportaciones federales y estatales, a partir del criterio poblacional; así como al relativo al impuesto predial, en este último caso únicamente se tendrá acceso al recurso que recaude la autoridad tradicional en su comunidad; y,
+
+V. Una vez presentada toda la información solicitada por la secretaría de finanzas y administración, ésta tendrá un plazo no mayor de cinco días hábiles para emitir un dictamen sobre la transferencia (sic) recurso económico a la comunidad, el cual tendrá que realizarse en la fecha más próxima correspondiente a la dispersión de las partidas del presupuesto.
+
+En la consulta, se deberán observar los principios y requisitos establecidos en el capítulo segundo de la Ley de Mecanismos de Participación Ciudadana del Estado de Michoacán relativo a la consulta ciudadana a comunidades indígenas y en el Reglamento del Instituto Electoral de Michoacán para la Consulta Previa, Libre e Informada para los Pueblos y Comunidades Indígenas, con la finalidad de cumplir con los parámetros internacionales de derechos humanos de los pueblos y comunidades indígenas.
+
+C. Las comunidades indígenas que decidan ejercer su derecho al autogobierno, a través de sus autoridades o representantes, de conformidad al procedimiento de consulta y al acuerdo de cabildo que haya dado lugar al ejercicio del presupuesto directo, podrán asumir las siguientes funciones:
+
+I. Administrar libre y responsablemente los recursos presupuestales mediante aplicación directa, de conformidad con las disposiciones aplicables;
+
+II. Prestar los servicios públicos catalogados como municipales dentro de esta misma ley, pudiendo celebrar convenio de prestación de dichos servicios con el Ayuntamiento respectivo;
+
+III. Formular, aprobar y aplicar los planes de desarrollo comunal, de conformidad con sus mecanismos de gobierno interno, sus usos y costumbres, comunicando dicho plan de desarrollo al Ayuntamiento; y,
+
+IV. Organizar, estructurar y determinar las funciones de su administración comunal conforme a sus propias formas de gobierno, normas, usos y costumbres.
+
+En la misma medida en que las autoridades comunales asuman dichas atribuciones, se transferirán también las obligaciones correlativas que estuvieran a cargo de los Ayuntamientos.
+
+Dicha transferencia incluirá únicamente las obligaciones generales previstas por este Código, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y demás ordenamientos jurídicos que rijan a la Administración Municipal.
+
+Los términos en que las autoridades comunales indígenas asuman obligaciones municipales, deberán ser informados a la comunidad durante el proceso de consulta que dé lugar al ejercicio del presupuesto directo.
+
+D. Las comunidades y los pueblos indígenas de Michoacán podrán elegir a sus autoridades municipales y la integración de éstas mediante sus usos y costumbres, garantizando la participación de las mujeres en condiciones de paridad.
+
+En lo que corresponde a las elecciones para la integración de los gobiernos comunales a nivel municipal, el Instituto tendrá la facultad para organizarlas en conjunto y corresponsabilidad con las comunidades, atendiendo al principio de autodeterminación de los pueblos indígenas, previa solicitud, además de que éste calificará y en su caso declarará la validez de la elección y al mismo tiempo expedirá las constancias de mayoría a los ciudadanos que hayan obtenido la mayoría de los votos, lo cual deberá notificar a los poderes del Estado.
 
 A efecto de ejercer referido derecho el Instituto deberá determinar lo que corresponda para dar certeza al proceso, vigilando que lo anterior guarde correspondencia con las fechas, tiempos y plazos que se establecen en el presente Código para los demás procedimientos.
 
@@ -6752,3 +6812,13 @@ P.O. 2 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 400 POR EL QUE "SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 3 RECORRIÉNDOSE EN SU ORDEN SUBSECUENTE EL RESTO DE LAS FRACCIONES; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 4; Y, SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 8; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 14 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 355, TODOS DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 407 POR EL QUE “SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 1; SE REFORMAN LAS FRACCIONES XIV, XV Y XVI; Y, SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 64; Y, SE REFORMA EL TÍTULO TERCERO, CAPÍTULO ÚNICO DEL LIBRO SEXTO, PARA CONFORMARSE POR EL ARTÍCULO 330 INCISOS A, B, C Y D, DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento.
+
+Tercero. Notifíquese el presente Decreto a todas las comunidades y pueblos indígenas del Estado, para su conocimiento y efectos legales procedentes.
