@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2023-05-08"
+last_updated: "2023-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -109,11 +109,37 @@ IV. La libertad de las mujeres;
 
 V. La promoción del desarrollo integral de las mujeres;
 
-VI. La plena participación de las mujeres en todas las esferas de la vida.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-VII. Perspectiva de género en las decisiones que emitan las autoridades competentes; y
+VI. La plena participación de las mujeres en todas las esferas de la vida;
 
-VIII. Transversalidad y progresividad en la implementación de acciones gubernamentales.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+VII. Perspectiva de género en las decisiones que emitan las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+VIII. Transversalidad y progresividad en la implementación de acciones gubernamentales;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+IX. La universalidad, la interdependencia, e indivisibilidad de los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+X. La debida diligencia;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+XI. La interseccionalidad;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+XII. La interculturalidad; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+XIII. El enfoque diferencial.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
@@ -1834,3 +1860,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarías que se opongan al presente Decreto.
+
+P.O. 12 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 355.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
