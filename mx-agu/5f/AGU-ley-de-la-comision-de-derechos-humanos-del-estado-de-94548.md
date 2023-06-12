@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2023-06-05"
+last_updated: "2023-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -689,6 +689,10 @@ La Comisión podrá solicitar el acceso a los medios de comunicación para la di
 
 El Órgano Interno de Control es la instancia administrativa encargada de promover, evaluar y fortalecer el funcionamiento adecuado del control interno de la Comisión.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2023)</small>
+
+El Órgano Interno de Control, contará con la estructura orgánica que le permita cumplir con las funciones de investigación, substanciación y resolución que le corresponden, conforme a lo previsto en el artículo 115 de la Ley General de Responsabilidades Administrativas.
+
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 37.
@@ -709,7 +713,9 @@ II. Tener cuando menos treinta años cumplidos el día de su nombramiento;
 
 III. Tener título profesional de Licenciado en Derecho, Contabilidad o Administración con tres años de ejercicio profesional cuando menos; y
 
-IV. No haber sido condenado por delito doloso.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+IV. No haber sido condenado por algún delito previsto como tipo penal protector de la administración pública o hechos de corrupción, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2022)</small>
 
@@ -1328,3 +1334,11 @@ P.O. 5 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 356.- SE REFORMAN LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; Y, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
