@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-9589
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-26"
-last_updated: "2021-09-13"
+last_updated: "2023-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 26 de agosto de 2013.
 
@@ -833,13 +833,17 @@ II.- La proyección en mediano y largo plazo que tendrán previsiones a diez, ve
 
 #### SECCIÓN PRIMERA. PROGRAMA ESTATAL DE ACCIÓN ANTE EL CAMBIO CLIMÁTICO
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
+
 ###### Artículo 38.
 
 El Programa Estatal, constituye el instrumento rector de la política estatal en el mediano plazo para enfrentar los efectos del cambio climático y transitar hacia una economía competitiva, sustentable y de bajas emisiones de carbono.
 
-La Secretaría elaborará el Programa Estatal con la participación de instituciones académicas y de investigación, con apoyo y asesoría del INECC, la opinión del Consejo y la aprobación de la Comisión, será publicada en el Periódico Oficial del Estado, de acuerdo al procedimiento establecido por la Secretaría de Planeación, Desarrollo Regional y Metropolitano.
+La Secretaría elaborará el Programa Estatal con la participación de instituciones académicas y de investigación, con apoyo y asesoría del INECC, la opinión del Consejo y la aprobación de la Comisión, será publicada en el Periódico Oficial del Estado, de acuerdo al procedimiento establecido por la Secretaría de Gobierno.
 
-Las acciones de mitigación y adaptación que se incluyan en los programas sectoriales, el Programa y Estrategia, así como en los programas municipales, serán congruentes con la estrategia nacional y con lo establecido en esta Ley.
+El Programa deberá emitirse en un plazo máximo de 180 días naturales, contados a partir del inicio de cada administración de gobierno del estado.
+
+Los objetivos, acciones y metas de mitigación y adaptación que se incluyan en los programas sectoriales, el Programa y Estrategia, así como en los programas municipales, estarán alineados con la estrategia nacional y con lo establecido en esta Ley.
 
 ###### Artículo 39.
 
@@ -869,13 +873,17 @@ IX.- La medición, el reporte y la verificación de las medidas de adaptación y
 
 X.- Los demás que determinen las disposiciones legales en la materia.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
+
 ###### Artículo 41.
 
-Para la elaboración del Programa, la Comisión en coordinación con el Consejo promoverá la participación de la sociedad conforme a las disposiciones aplicables.
+Para la elaboración del Programa, la Comisión en coordinación con el Consejo promoverá la participación activa de las organizaciones de la sociedad civil organizada conforme a las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
 
 ###### Artículo 42.
 
-En caso de que el Programa requiera modificaciones para ajustarse a las revisiones de la Estrategia Estatal, dichas modificaciones deberán publicarse en el Periódico Oficial del Estado.
+El Programa contará con un proceso de seguimiento y evaluación de cumplimiento para verificar si requiere modificaciones o actualizaciones para ajustarse a las revisiones de la Estrategia Estatal, de ser así dichas modificaciones o actualizaciones deberán publicarse en el Periódico Oficial del Estado.
 
 #### SECCIÓN SEGUNDA. ESTRATEGIA ESTATAL DE CAMBIO CLIMÁTICO
 
@@ -903,13 +911,13 @@ VII.- Los demás elementos que determine la Comisión.
 
 #### SECCIÓN TERCERA. PROGRAMAS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
+
 ###### Artículo 45.
 
-Los programas municipales en materia de cambio climático establecerán las estrategias, políticas, directrices, objetivos, acciones, metas e indicadores que se implementarán y cumplirán durante el periodo de gobierno correspondiente de conformidad con el Programa y Estrategia Estatal, las disposiciones de esta Ley y las demás que determinen las disposiciones aplicables en la materia
+Los programas municipales en materia de cambio climático establecerán las estrategias, políticas, directrices, objetivos, acciones, así como, seguimiento y evaluación del cumplimiento de metas e indicadores que se implementarán y cumplirán durante el periodo de gobierno correspondiente de conformidad con el Programa y Estrategia Estatal, las disposiciones de esta Ley y las demás que determinen las disposiciones aplicables en la materia.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
-
-Los programas municipales se elaborarán al inicio de cada administración, procurando siempre la igualdad de género y la representación de las poblaciones más vulnerables al cambio climático, indígenas, personas con discapacidad, académicos e investigadores.
+Los programas municipales se elaborarán al inicio de cada administración, contando con un plazo máximo de 180 días naturales para su emisión y publicación, procurando la igualdad de género y la representación de las poblaciones más vulnerables al cambio climático, indígenas, personas con discapacidad, académicos e investigadores, así como, la coordinación interinstitucional con los órdenes de gobierno.
 
 ###### Artículo 46.
 
@@ -1296,5 +1304,11 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 P.O. 13 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 745 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 12 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 273 QUE REFORMA LOS ARTÍCULOS 38; 41; 42 Y 45 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
