@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2023-05-22"
+last_updated: "2023-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,9 @@ issue_date: "2015-08-13"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2024 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -1414,7 +1412,9 @@ XV. Promover la disciplina escolar de modo compatible con la dignidad humana, im
 
 XVI. Procurar la erradicación de las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-XVII. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente, a través de campañas y acciones de concienciación (sic);
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2023)</small>
+
+XVII. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inculcando en ellos la adopción de estilos de vida saludables y sustentables, así como concientizarlos sobre las causas y efectos del cambio climático;
 
 > <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
@@ -1450,7 +1450,13 @@ IV. Orientar a niñas, niños y adolescentes respecto a la formación profesiona
 
 V. Apoyar a niñas, niños y adolescentes que sean víctimas de maltrato y la atención especial de quienes se encuentren en situación de riesgo;
 
-VI. Prevenir el delito y las adicciones, mediante el diseño y ejecución de programas;
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2023)</small>
+
+VI. Prevenir el delito mediante el diseño y ejecución de programas;
+
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 2023)</small>
+
+VI Bis. Prevenir las adicciones mediante el diseño, ejecución de programas y campañas de información y concientización con carácter permanente dirigidas a niñas, niños y adolescentes, sobre los daños que provoca a la salud física, mental, emocional y su rendimiento escolar el consumo de sustancias psicoactivas;
 
 VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares que sean de interés para niñas, niños y adolescentes;
 
@@ -2869,3 +2875,19 @@ PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su prom
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+G.O. 12 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 58 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entra en vigor al día siguiente de su publicación.
+
+G.O. 12 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VI Y SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 59 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
