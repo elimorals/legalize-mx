@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2023-03-29"
+last_updated: "2023-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -191,11 +191,11 @@ Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos P�
 
 #### SECCIÓN SEGUNDA. DEL DERECHO A LA NO DISCRIMINACIÓN
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
 
 ###### Artículo 11.
 
-Los jóvenes tienen reconocidos sus derechos y no deberá hacerse ningún tipo de discriminación en razón de género, religión, lengua, estado civil, preferencia sexual, afiliación política, origen étnico o nacional, condición social o económica, condiciones de salud, discapacidad, o cualquiera otra condición.
+Los jóvenes tienen reconocidos sus derechos y no deberá hacerse ningún tipo de discriminación en razón de género, la edad, la religión, las opiniones, la lengua, el estado civil, la preferencia sexual, la afiliación política, el origen étnico o nacional, el color de piel, la cultura, las discapacidades, la condición social, económica, de salud, jurídica o cualquiera otra condición o motivo que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -271,7 +271,9 @@ Los jóvenes en materia de educación y profesionalización tienen los derechos 
 
 I.- Acceder a los servicios educativos que imparta el Estado, debiendo cumplir con los requerimientos que para tal efecto señalen las instancias competentes;
 
-II.- A una educación que les permita el desarrollo integral, les prepare para el ejercicio de la ciudadanía y califique para el trabajo;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+II.- A una educación que les permita fomentar, potenciar y promover el desarrollo integral de la juventud, les (sic) prepare para el ejercicio de la ciudadanía y califique para el trabajo;
 
 III.- Acceder a Programas Gubernamentales relativos a la educación;
 
@@ -573,21 +575,25 @@ El Instituto Hidalguense de la Juventud, será un Organismo Descentralizado de l
 
 El domicilio del Instituto, será en la Ciudad de Pachuca de Soto, Hidalgo, sin detrimento de establecer unidades administrativas en otros Municipios de la Entidad.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
+
 ###### Artículo 57.
 
 El Instituto tendrá por objeto:
 
-I.- Incorporar plenamente a los jóvenes al desarrollo del Estado, a través de políticas y programas relativos a la juventud, considerando las características y necesidades de las diferentes regiones que conforman la Entidad; y
+I. Promover y fomentar las condiciones que aseguren a la juventud un desarrollo pleno e integral, en condiciones de igualdad y no discriminación de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo, la legislación secundaria en la materia y los Tratados Internacionales suscritos por el Estado mexicano;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
+II. Incorporar plenamente a los jóvenes al desarrollo del Estado, a través de políticas y programas relativos a la juventud, considerando las características y necesidades de las diferentes regiones que conforman la Entidad; y
 
-II.- Fomentar la práctica de diversas actividades que propicien la superación intelectual, cultural, profesional, económica y financiera de la juventud.
+III. Fomentar la práctica de diversas actividades que propicien la superación intelectual, cultural, profesional, económica y financiera de la juventud.
 
 ###### Artículo 58.
 
 Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
 
-I.- Definir, establecer y aplicar la Política Estatal de la Juventud a través del Programa Estatal de Atención a la Juventud, adecuándola a las características y necesidades de la Entidad, sus regiones y Municipios, que se determinen en el marco de los Planes Nacional y Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+I.- Definir, establecer y aplicar la Política Estatal de la Juventud a través del Programa Estatal de Atención a la Juventud, adecuándola a las características y necesidades de la Entidad, sus regiones y Municipios, que se determinen en el marco de los Planes Nacional y Estatal de Desarrollo, que permita incorporar plenamente a los jóvenes al desarrollo del Estado;
 
 II.- Formular el Programa, proyectos y estudios de acciones de atención a la juventud en coordinación con la Secretaría de Desarrollo Social y con aprobación de la Junta de Gobierno;
 
@@ -595,7 +601,9 @@ III.- Promover coordinadamente con las Dependencias y Entidades de la Administra
 
 IV.- Promover el autoempleo, considerado como una alternativa de acceso a la actividad profesional y empresarial para personas con un perfil dinámico y espíritu emprendedor, que deseen crear su propio campo de trabajo en dichas áreas;
 
-V.- Coadyuvar con el Poder Ejecutivo Estatal, en el desarrollo de los programas de las políticas relacionadas con la juventud y desarrollo regional;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+V.- Coadyuvar con el Poder Ejecutivo Estatal, en la planeación, programación y desarrollo de los planes, programas y políticas relacionadas con la juventud y desarrollo regional.
 
 VI.- Presentar propuestas al Poder Ejecutivo Estatal para la programación y proyección de políticas y acciones relacionadas con el progreso de la juventud, de acuerdo al Plan Estatal de Desarrollo;
 
@@ -646,6 +654,12 @@ XXIV.- Promover la Educación Financiera; y
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2022)</small>
 
 XXV.- Las demás que le sean conferidas en la presente Ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2023)</small>
+
+###### Artículo 58 Bis.
+
+En el cumplimiento del objeto y atribuciones, el Instituto deberá garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de planes, programas y políticas en materia de juventud, así como transversalizar la perspectiva de género en todas sus actuaciones y procurar la utilización de un lenguaje incluyente, inclusivo y no sexista en sus documentos oficiales.
 
 ### CAPÍTULO II. DE LOS ÓRGANOS DE ADMINISTRACIÓN
 
@@ -1278,5 +1292,11 @@ P.O. 26 DE DICIEMBRE DE 2022.
 P.O. 29 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 49 DE LA LEY DE JUVENTUD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 12 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 289 QUE REFORMA EL ARTÍCULO 11; LA FRACCIÓN II DEL ARTÍCULO 21; EL ARTÍCULO 57; LA FRACCIÓN I Y V DEL ARTÍCULO 58; Y ADICIONA EL ARTÍCULO 58 BIS A LA LEY DE JUVENTUD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
