@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2023-01-23"
+last_updated: "2023-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -589,11 +589,13 @@ XIII. Las demás que les sean encomendadas por los comisionados o se prevean en 
 
 #### SECCIÓN OCTAVA. Del Órgano Interno de Control
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
 
 ###### Artículo 35.
 
-El Órgano Interno de Control es la unidad administrativa del ITEA encargada de promover, evaluar y fortalecer el buen funcionamiento del control interno; tendrá a su cargo la investigación, calificación y sustanciación de las faltas administrativas no graves en los procedimientos previstos en la Ley de Responsabilidades Administrativas del Estado, así como las funciones previstas en la presente Ley.
+El Órgano Interno de Control es la unidad administrativa del ITEA encargada de promover, evaluar y fortalecer el buen funcionamiento del control interno; tendrá a su cargo la investigación, substanciación y en su caso, resolución en procedimientos previstos en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado, así como las funciones previstas en la presente Ley.
+
+El Órgano Interno de Control, contará con la estructura orgánica que le permita cumplir con las funciones de investigación, substanciación y resolución que le corresponden, conforme a lo previsto en el artículo 115 de la Ley General de Responsabilidades Administrativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
 
@@ -601,7 +603,9 @@ El Órgano Interno de Control es la unidad administrativa del ITEA encargada de 
 
 El titular del Órgano Interno de Control será designado conforme a lo previsto en el artículo 27 fracción XXXVIII de la Constitución Política del Estado de Aguascalientes, siguiendo las reglas que se establecen en la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, durará en su encargo cuatro años y deberá cumplir con los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, nacido o con vecindad mínima de cinco años en el Estado anterior al día de su designación;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles, nacido o con vecindad mínima de cinco años en el Estado anterior al día de su designación;
 
 II. Tener por lo menos treinta años de edad al día de su designación;
 
@@ -613,9 +617,9 @@ III. Contar con título y cédula profesional de Licenciado en Derecho, Contabil
 
 IV. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al ITEA;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-V. No haber sido condenado por delito doloso; y
+V. No haber sido condenado por algún delito previsto como tipo penal protector de la administración pública, o hechos de corrupción, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia; y
 
 > <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
 
@@ -1954,6 +1958,14 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 23 DE ENERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 356.- SE REFORMAN LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; Y, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
