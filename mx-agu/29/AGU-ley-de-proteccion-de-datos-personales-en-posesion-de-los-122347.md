@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-de-datos-personales-en-posesion-de-los-122347
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-03"
-last_updated: "2019-05-20"
+last_updated: "2023-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección al Número 27 del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de julio de 2017.
 
@@ -1825,61 +1825,11 @@ En caso de que el incumplimiento de las determinaciones del ITEA implique la pre
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
+
 ###### Artículo 176.
 
-Serán causas de responsabilidad administrativa por incumplimiento de las obligaciones establecidas en la presente Ley, las siguientes:
-
-I.- Actuar con negligencia, dolo o mala fe durante la sustanciación de las solicitudes para el ejercicio de los derechos ARCO o de la portabilidad de los datos personales;
-
-II.- Incumplir los plazos de atención previstos en la presente Ley para responder las solicitudes para el ejercicio de los derechos ARCO o para hacer efectivo el derecho de que se trate;
-
-III.- Ampliar con dolo los plazos previstos en la presente Ley para responder las solicitudes para el ejercicio de los derechos ARCO o la portabilidad de los datos personales;
-
-IV.- Usar, sustraer, divulgar, ocultar, alterar, mutilar, destruir o inutilizar, total o parcialmente y de manera indebida datos personales, que se encuentren bajo su custodia o a los cuales tengan acceso o conocimiento con motivo de su empleo, cargo o comisión;
-
-V.- Dar tratamiento, de manera intencional, a los datos personales en contravención a los principios y deberes establecidos en la presente Ley;
-
-VI.- Mantener los datos personales inexactos cuando resulte imputable al responsable;
-
-VII.- No efectuar la rectificación, cancelación u oposición al tratamiento de los datos personales que legalmente proceda, cuando resulten afectados los derechos de los titulares;
-
-VIII.- No contar con el aviso de privacidad, o bien, omitir en el mismo alguno de los elementos a que refieren los Artículos 35 y 36 de la presente Ley, según sea el caso, y demás disposiciones que resulten aplicables en la materia;
-
-IX.- Clasificar, con dolo o negligencia, datos personales sin que se cumplan las características señaladas en la Ley de Transparencia. La sanción sólo procederá cuando exista una resolución previa, que haya quedado firme, respecto del criterio de clasificación de los datos personales;
-
-X.- Incumplir el deber de confidencialidad establecido en el Artículo 56 de la presente Ley;
-
-XI.- No establecer las medidas de seguridad en los términos que establecen los Artículos 44, 45 y 46 de la presente Ley;
-
-XII.- Presentar vulneraciones a los datos personales por la falta de implementación de medidas de seguridad según los Artículos 44, 45 y 46 de la presente Ley;
-
-XIII.- Llevar a cabo la transferencia de datos personales, en contravención a lo previsto en la presente Ley;
-
-XIV.- Obstruir los actos de verificación de la autoridad;
-
-XV.- Crear bases de datos personales en contravención a lo dispuesto por el Artículo 6° de la presente;
-
-XVI.- No acatar las resoluciones emitidas por el ITEA;
-
-XVII.- Aplicar medidas compensatorias en contravención de los criterios que tales fines establezca el Sistema Nacional;
-
-XVIII.- Declarar dolosamente la inexistencia de datos personales cuando éstos existan total o parcialmente en los archivos del responsable;
-
-XIX.- No atender las medidas cautelares establecidas por el ITEA;
-
-XX.- Tratar los datos personales de manera que afecte o impida el ejercicio de los derechos fundamentales previstos en la Constitución Política de los Estados Unidos Mexicanos;
-
-XXI.- No cumplir con las disposiciones previstas en los Artículos 78, 83 y 84 de la presente Ley;
-
-XXII.- No presentar ante el ITEA la evaluación de impacto a la protección de datos personales en aquellos casos en que resulte obligatoria, de conformidad con lo previsto en la presente Ley y demás normativa aplicable;
-
-XXIII.- Realizar actos para intimidar o inhibir a los titulares en el ejercicio de los derechos ARCO; y
-
-XXIV.- Omitir la entrega del informe anual y demás informes a que se refiere la Ley de Transparencia, o bien, entregar el mismo de manera extemporánea.
-
-Las causas de responsabilidad previstas en las Fracciones I, II, IV, VI, X, XII, XV, XVI, XVIII, XIX y XX, así como la reincidencia en las conductas previstas en el resto de las Fracciones de este Artículo, serán consideradas como graves para efectos de su sanción administrativa.
-
-Las sanciones de carácter económico no podrán ser cubiertas con recursos públicos.
+Para la determinación de las causas de responsabilidad administrativa, se aplicará lo dispuesto en el artículo 163 de la Ley General.
 
 ###### Artículo 177.
 
@@ -1982,3 +1932,11 @@ P.O. 20 DE MAYO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 356.- SE REFORMAN LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; Y, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
