@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-06-05"
+last_updated: "2023-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -83,7 +83,13 @@ Principios de dignidad e igualdad. Las disposiciones establecidas en este Códig
 
 Principio Pro Homine. Toda persona será tratada como ser humano sujeto de derechos y no como objeto, respetando su dignidad, seguridad e integridad física, psíquica y moral.
 
-En caso de que disposiciones normativas aplicables sean contradictorias, o que de su interpretación o de una norma deriven diversos significados, deberá escogerse aquel que beneficie más a la protección y garantía de los derechos fundamentales. En el supuesto de que se encuentren enfrentados derechos de diversas personas, deberá observarse, además, las reglas de adecuación, necesidad y proporcionalidad para equilibrar los derechos en la medida de lo posible.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
+
+En caso de que disposiciones normativas aplicables sean contradictorias, o que de su interpretación o de una norma deriven diversos significados deberá escogerse aquel que beneficie más a la protección y garantía de los derechos humanos, atendiendo a los principios de universalidad, interdependencia, indivisibilidad y progresividad. En el supuesto de que se encuentren enfrentados derechos de diversas personas, deberá observarse, además, las reglas de adecuación, necesidad y proporcionalidad para equilibrar los derechos en la medida de lo posible
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2023)</small>
+
+En caso de delitos cometidos en contra de niñas, niños y adolescentes siempre se procurará el interés superior de la niñez en la aplicación de este Código.
 
 ## TÍTULO SEGUNDO. LA LEY PENAL
 
@@ -3762,3 +3768,11 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 La situación jurídica de las personas procesadas, sentenciadas y que estén compurgando una pena, así como los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se seguirán y resolverán con base en la norma vigente al momento en el que ocurrieron los hechos materia de ellos.
+
+P.O. 12 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 358.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
