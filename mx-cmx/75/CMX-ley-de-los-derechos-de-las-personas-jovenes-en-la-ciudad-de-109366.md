@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-jovenes-en-la-ciudad-de-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-13"
-last_updated: "2022-07-04"
+last_updated: "2023-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109366&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JUNIO DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 4 DE JULIO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de agosto de 2015.
 
@@ -248,11 +246,15 @@ Asimismo, deberán adoptar, en el ámbito de sus competencias, medidas tendentes
 
 El Gobierno y las delegaciones promoverán el empleo y la capacitación laboral de las personas jóvenes a través de la firma de convenios con empresas públicas y privadas que garanticen este derecho.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE JUNIO DE 2023)</small>
+
 ###### Artículo 12.
 
-Las funciones a desempeñar como primera experiencia laboral deberán ser adecuadas al nivel de formación y preparación académica. Bajo ninguna circunstancia las actividades irán en detrimento de la formación técnica, académica o profesional de las personas jóvenes.
+Las funciones a desempeñar como primera experiencia laboral deberán ser adecuadas a la edad, capacidades, habilidades, destrezas, al nivel de formación y preparación académica.
 
-Las personas jóvenes tienen derecho al acceso no discriminatorio a la formación profesional y técnica inicial, continua, pertinente y de calidad que permita su incorporación al trabajo, incluyendo el considerado como temporal. Todas las autoridades del Distrito Federal adoptarán las medidas necesarias para ello.
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2023)</small>
+
+Bajo ninguna circunstancia las actividades irán en detrimento de la formación técnica, académica o profesional de las personas jóvenes. Las personas jóvenes tienen derecho al acceso no discriminatorio a la formación profesional y técnica inicial, continua, pertinente y de calidad que permita su incorporación al trabajo, incluyendo el considerado como temporal. Todas las autoridades de la Ciudad de México adoptarán las medidas necesarias para ello.
 
 El Gobierno impulsará políticas públicas, con el financiamiento adecuado, para la capacitación de los jóvenes con alguna discapacidad a fin de que puedan incorporarse al empleo, así como también adoptará las medidas necesarias para generar las condiciones que permitan a las personas jóvenes capacitarse para acceder o crear opciones de empleo, y creará las políticas necesarias que fomenten el estímulo a las empresas para promover actividades de inserción y calificación de las personas jóvenes en el trabajo.
 
@@ -261,6 +263,10 @@ El Gobierno impulsará políticas públicas, con el financiamiento adecuado, par
 Las empresas que se integren a la primera experiencia laboral recibirán los beneficios que establezca el Código Fiscal del Distrito Federal.
 
 Las políticas públicas de la Ciudad de México deben contemplar un sistema de empleo, bolsa de trabajo, capacitación laboral, recursos económicos para proyectos productivos, convenios y estímulos fiscales con las empresas del sector público y privado, teniendo como objeto principal favorecer laboralmente a la juventud y garantizar con esto su derecho al trabajo; así como prácticas profesionales remuneradas vinculadas con la formación profesional.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2023)</small>
+
+Asimismo, se procurará promover programas específicos que tengan como finalidad impulsar empleos para personas jóvenes que recién hayan concluido su formación académica.
 
 Las personas jóvenes tienen el derecho de estar protegidas contra la explotación económica y contra todo trabajo que ponga en peligro su salud integral, educación, desarrollo físico y psicológico, tienen derecho a la igualdad de oportunidades y trato en lo relativo a la inserción, remuneración, promoción y condiciones en el trabajo. El Gobierno establecerá, en el ámbito de su competencia mecanismos que promuevan la generación de empleo, la capacitación laboral y que se atienda de manera especial a las personas jóvenes temporalmente desocupadas.
 
@@ -336,7 +342,9 @@ El Gobierno reconoce que el derecho a la educación es opuesto a cualquier forma
 
 La educación fomentará también el respeto a las culturas étnicas y el acceso generalizado a las nuevas tecnologías, la cultura de paz y legalidad, la solidaridad, la aceptación de la diversidad, la tolerancia, el cuidado al medio ambiente y la perspectiva de género.
 
-Este derecho incluye el acceso a programas educativos y de capacitación, a educación integral en sexualidad y en general, a todos aquéllos que les permitan alfabetizarse, profesionalizarse o continuar preparándose para su desarrollo personal y social.
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2023)</small>
+
+Este derecho incluye el acceso a programas educativos y de capacitación, a educación integral en materia sexual y reproductiva y en general, a todos aquéllos que les permitan alfabetizarse, profesionalizarse o continuar preparándose para su desarrollo personal y social.
 
 La educación pública que imparta el Gobierno en los tipos, niveles y modalidades que corresponda para desarrollar armónicamente todas las facultades de las personas jóvenes y fomentará en ellas, el respeto a los derechos humanos, la sana convivencia entre éstas, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de las familias, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos para todas las personas jóvenes, evitando la discriminación.
 
@@ -366,7 +374,9 @@ El Gobierno fomentará el aprendizaje e impulso a la investigación de conocimie
 
 Las políticas educativas dirigidas a las personas jóvenes deben tender a los siguientes aspectos:
 
-I. Fomentar una educación laica, gratuita y de calidad que promueva el ejercicio y respeto de los derechos humanos, que contemple la educación integral en sexualidad; una educación cívica que promueva el respeto y la participación en democracia; una vida libre y sin violencia; el respeto y reconocimiento de la diversidad sexual, étnica y cultural, y la conservación del medio ambiente;
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2023)</small>
+
+I. Fomentar una educación laica, gratuita y de calidad que promueva el ejercicio y respeto de los derechos humanos, que contemple la educación integral en sexualidad obligatoria en escuelas, a través de la impartición de una materia que deberá ser continua e independiente al resto del bloque del ciclo escolar; será una educación cívica que promueva el respeto y la participación en democracia; una vida libre y sin violencia; el respeto y reconocimiento de la diversidad sexual, étnica y cultural, y la conservación del medio ambiente;
 
 II. Fomentar la comprensión mutua y la cultura para la paz, con justicia, democracia, solidaridad, respeto y tolerancia entre las personas jóvenes;
 
@@ -424,9 +434,11 @@ El Gobierno establecerá políticas y programas de salud integral, específicame
 
 El Gobierno formulará las políticas y establecerá los mecanismos progresivos que permitan el acceso y permanencia de las personas jóvenes a programas de gratuidad que garanticen el acceso oportuno y adecuado de los servicios que otorga el sistema de salud del Distrito Federal, lo que no excluirá la posibilidad de que las personas jóvenes opten por otro tipo de seguro de salud ofrecido por entidades federales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE JUNIO DE 2023)</small>
+
 ###### Artículo 32.
 
-Las personas jóvenes tienen derecho al libre desarrollo de su sexualidad, por lo tanto, el Gobierno establecerá las políticas necesarias para que tengan la información suficiente para el libre ejercicio de este derecho. La información deberá ser clara, completa, fundamentada en evidencia científica y libre de prejuicios, estereotipos y apropiada a su edad.
+Las personas jóvenes tienen derecho al libre desarrollo de su sexualidad, por lo tanto, el Gobierno establecerá las políticas necesarias en educación para que la juventud tenga la información suficiente para el libre ejercicio de este derecho, a través de la capacitación del personal que impartirá la materia a fin de que fomente un aprendizaje seguro y eficaz. La información deberá ser clara, completa, fundamentada en evidencia científica y libre de prejuicios, estereotipos y apropiada a su edad. Asimismo, será viable el acompañamiento y participación de padres o tutores en el proceso de enseñanza.
 
 En los casos en que la información sea solicitada por las personas jóvenes menores de 18 años de edad, no será requisito para otorgárselas el consentimiento del tutor o representante legal.
 
@@ -481,6 +493,22 @@ El Gobierno pondrá a disposición gratuita el cuadro básico de anticonceptivos
 Las personas jóvenes tienen derecho al acceso, tránsito y permanencia en servicios de salud sexual y salud reproductiva de la más alta calidad, amigables, gratuitos y confidenciales, con acceso a métodos y tecnologías anticonceptivas, independientemente de su orientación y preferencia sexual, identidad de género o expresión de rol de género.
 
 Las disposiciones de esta Ley no contravendrán lo dispuesto en la Ley General de Salud, el Código Civil, Ley de Salud, Ley de las Niñas y los Niños, y el Código Penal para el Distrito Federal y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2023)</small>
+
+El Gobierno de la Ciudad de México, a través del Instituto de la Juventud de la Ciudad de México, en coordinación con la Secretarías de Salud y de Educación de la Ciudad de México establecerán campañas informativas, no estereotipadas, diversas y laicas, sobre los riesgos y la prevención de:
+
+I. El inicio involuntario o desprotegido de su vida sexual;
+
+II. Embarazos no planeados, no deseados, o en condiciones de riesgo;
+
+III. La exposición a enfermedades de transmisión sexual y;
+
+IV. Las que establezcan otras leyes y reglamentos.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2023)</small>
+
+Estás campañas, asimismo, deberán garantizar la difusión de los servicios de salud integrales de calidad, así como la del derecho a la Interrupción Legal del Embarazo en los supuestos permitidos en el Código Penal vigente en la Ciudad y en las Normas Oficiales Mexicanas, cuando la mujer o persona gestante interesada así lo solicite.
 
 ###### Artículo 39.
 
@@ -1768,13 +1796,19 @@ e. Asegurar la no discriminación en el empleo y las mejores condiciones laboral
 
 f. Promover el cooperativismo laboral.
 
-VII. Procurar el desarrollo de la Primera Experiencia Laboral de las personas jóvenes con base en los principios del trabajo lícito, por medio del cumplimiento de los siguientes objetivos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE JUNIO DE 2023)</small>
+
+VII. Procurar el desarrollo de la Primera Experiencia Laboral de las personas jóvenes con base en los principios de trabajo lícito, no discriminación, paridad e igualdad de género, por medio del cumplimiento de los siguientes objetivos:
 
 a. Lograr que las personas jóvenes puedan adquirir conocimientos prácticos sin suspender sus estudios;
 
-b. Consolidar su incorporación a la actividad económica mediante una ocupación específica y formal, promoviendo su contratación en el sector público o privado;
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2023)</small>
 
-c. Las funciones a desempeñar como primera experiencia laboral deberán ser adecuadas al nivel de formación y preparación académica, procurando la debida capacitación y adiestramiento para la ejecución óptima del trabajo encomendado. Bajo ninguna circunstancia las actividades serán en detrimento de su formación académica, técnica o profesional, y
+b. Consolidar su incorporación a la actividad económica mediante una ocupación específica y formal, promoviendo su contratación en el sector público o privado, observando el principio de paridad de género;
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2023)</small>
+
+c. Las funciones a desempeñar como primera experiencia laboral deberán ser adecuadas a la edad, capacidades, habilidades, destrezas, nivel de formación y preparación académica, procurando la debida capacitación y adiestramiento para la ejecución óptima del trabajo encomendado. Bajo ninguna circunstancia las actividades serán en detrimento de su formación académica, técnica o profesional, y
 
 d. Se establecerá un sistema de beneficios fiscales para las empresas que se integren a la primera experiencia laboral en materia fiscal y administrativa.
 
@@ -2017,3 +2051,11 @@ P.O. 4 DE JULIO DE 2022.
 Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 12 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 12; 14 INCISO B); 20 CUARTO PÁRRAFO; 25 FRACCIÓN I; 32 PRIMER PÁRRAFO; 157 FRACCIÓN VII, Y SE ADICIONAN UN TERCER PÁRRAFO RECORRIENDO EN SU ORDEN LOS SUBSECUENTES DEL ARTÍCULO 13, ASÍ COMO LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 38; TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación.
