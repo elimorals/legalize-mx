@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-06-05"
+last_updated: "2023-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -913,7 +913,9 @@ III. Establecer medidas para garantizar la impartición de la educación públic
 
 IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, tales como la relevancia y pertinencia del currículo, la disposición de la infraestructura y equipamiento adecuados para el aprendizaje y para las prácticas de enseñanza, la evaluación docente, entre otras;
 
-V. Administrar los recursos destinados a la educación pública en el Estado de Aguascalientes para garantizar la educación de calidad de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+V. Destinar recursos humanos, materiales y presupuestarios adecuados y suficientes para garantizar la educación de calidad de niñas, niños y adolescentes;
 
 VI. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
 
@@ -937,15 +939,23 @@ XIV. Contribuir a garantizar la permanencia y conclusión de la educación oblig
 
 XV. Promover la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física o mental de niñas, niños y adolescentes;
 
-XVI. Procurar la erradicación de las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+XVI. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-XVII. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente, así como el cuidado y procuración del bienestar de los animales;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-XVIII. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y
+XVII. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, así como el cuidado y procuración del bienestar de los animales; inculcando en ellos la adopción de estilos de vida sustentables, así como concientizarlos sobre las causas-efectos del cambio climático;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+XVIII. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
 XIX. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional.
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+XX. Conformar una instancia multidisciplinaria responsable de establecer mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia o discriminación que se produzca contra niñas, niños y adolescentes en los centros educativos del Estado.
 
 Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -981,7 +991,9 @@ Para efectos del párrafo anterior, las autoridades del Estado de Aguascalientes
 
 I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
 
-II. Desarrollar actividades de capacitación para servidores públicos y para el personal administrativo y docente;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
+
+II. Desarrollar e implementar cursos de capacitación, sensibilización y formación sobre derechos humanos, igualdad de género, prevención y atención de los diferentes tipos de violencia y cultura de la paz, dirigidos a servidores públicos, personal administrativo y docente, para que a través de ellos se evite la reproducción de roles estereotipados de género y se impulse la igualdad sustantiva;
 
 III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar; y
 
@@ -2582,6 +2594,14 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 5 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 346.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 357.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
