@@ -4,7 +4,7 @@ identifier: "JAL-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-128556
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-05-17"
-last_updated: "2020-02-01"
+last_updated: "2023-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
 
 Estatuto publicado en la Sección III al Número 38 del Periódico Oficial del Estado de Jalisco, el jueves 17 de mayo de 2018.
 
@@ -157,23 +157,11 @@ Los Directores y Coordinadores se auxiliarán para el ejercicio de sus facultade
 
 ### CAPÍTULO II. DEL ÓRGANO DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
+
 ###### Artículo 12.
 
-El Órgano de Gobierno se integra por los Titulares de las siguientes instituciones del Estado de Jalisco:
-
-I. El Presidente del Comité de Participación Social, quien lo presidirá;
-
-II. El Auditor Superior;
-
-III. El Fiscal Especial en Combate a la Corrupción;
-
-IV. El Contralor;
-
-V. El Presidente del Tribunal de Justicia Administrativa;
-
-VI. El Presidente del Instituto de Transparencia, Información Pública y Protección de Datos Personales; y
-
-VII. El Presidente del Consejo de la Judicatura;
+El Órgano de Gobierno estará integrado de conformidad con lo dispuesto por el artículo 28 numeral 1 de la Ley del Sistema Anticorrupción del Estado de Jalisco.
 
 Con la finalidad de agilizar su operación, cada uno de los integrantes del Órgano de Gobierno, nombrará a un servidor público que funja como enlace permanente con la Secretaría Ejecutiva del Sistema Estatal.
 
@@ -702,3 +690,9 @@ P.O. 1 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO QUE REFORMA EL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO".]
 
 Primero. La presente reforma y adición al Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Jalisco entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 13 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO QUE MODIFICA EL ARTÍCULO 12 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO".]
+
+ÚNICO. La presente modificación al artículo 12 del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema estatal Anticorrupción de Jalisco, entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial El Estado de Jalisco.
