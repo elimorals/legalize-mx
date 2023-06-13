@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2022-09-26"
+last_updated: "2023-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JUNIO DE 2023.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -143,9 +143,7 @@ III. Unidad de Comunicación Social;
 
 IV. Unidad de Logística; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE ABRIL DE 2022)</small>
-
-V. Coordinación de Asesores.
+V. (DEROGADA, G.G. 13 DE JUNIO DE 2023)
 
 > <small>(REFORMADO SU ACÁPITE, G.G. 11 DE MARZO DE 2022)</small>
 
@@ -2527,13 +2525,15 @@ SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en 
 
 TERCERO. Las acciones a que se refieren los puntos SEGUNDO, CUARTO, QUINTO y SEXTO del presente Acuerdo, se podrán realizar en un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor de este documento, atendiendo a la naturaleza de cada una de ellas y conforme a la suficiencia presupuestal con la que cuente el Organismo.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 2; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 6; Y SE MODIFICA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 12 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+G.G. 13 DE JUNIO DE 2023.
 
-PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CODHEM/CC/04/2023/10 POR EL QUE SE REFORMA EL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+PRIMERO. Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
 
-G.O. 21 DE OCTUBRE DE 2022.
+SEGUNDO. Se instruye al Secretario Técnico de este Consejo, comunicar lo aprobado en el presente Acuerdo a las áreas administrativas de este Organismo para que, en el ámbito de sus atribuciones, realicen las acciones necesarias para que los recursos humanos, materiales y financieros que se encontraban adscritos a la Coordinación de Asesores, sean asignados a la Secretaría Particular; así como para la adecuación del Organigrama autorizada.
+
+TERCERO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VIII BIS AL ARTÍCULO 89 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
 
