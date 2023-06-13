@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-468-de-fiscalizacion-superior-y-rendicion-de-122630"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2022-10-25"
+last_updated: "2023-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 468 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
 
 Ley publicada en el Alcance V al Número 57 del Periódico Oficial del Estado de Guerrero, el martes 18 de julio de 2017.
 
@@ -1231,9 +1231,11 @@ La relación jurídica de trabajo se entiende establecida entre la Auditoría Su
 
 La Comisión vigilará que el titular de la Auditoría Superior del Estado, los auditores especiales y los demás servidores públicos de la Auditoría Superior del Estado en el desempeño de sus funciones, se sujeten a lo establecido en la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas para el Estado de Guerrero y las demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2023)</small>
+
 ###### Artículo 106.
 
-Para el efecto de apoyar a la Comisión en el cumplimiento de sus atribuciones, podrá constituir la Unidad encargada de vigilar el estricto cumplimiento de las funciones a cargo de los servidores públicos de la Auditoría Superior del Estado, la cual formará parte de la estructura de la Comisión.
+Para el efecto de apoyar a la Comisión en el cumplimiento de sus atribuciones, se constituye la Unidad encargada de vigilar el estricto cumplimiento de las funciones a cargo de los servidores de las funciones a cargo de los servidores (sic) públicos de la Auditoría Superior del Estado, la cual formará parte de la estructura de la Comisión.
 
 La Unidad, en el caso de los servidores públicos de la Auditoría Superior, podrá imponer las sanciones administrativas no graves previstas en la Ley General de Responsabilidades Administrativas, y la Ley de Responsabilidades Administrativas para el Estado de Guerrero o, tratándose de faltas graves en términos de dichas leyes, promover la imposición de sanciones ante el Tribunal, por lo que contará con todas las facultades que dichas Leyes otorgan a las autoridades investigadoras y substanciadoras.
 
@@ -1476,5 +1478,21 @@ La Junta de Coordinación Política en coordinación con la Comisión de Vigilan
 La Comisión de Vigilancia y Evaluación de la Auditoría Superior del Estado, deberá emitir y publicar los criterios para el desarrollo de las auditorías y evaluaciones técnicas que se realicen a la Auditoría Superior del Estado, en un plazo de 90 días hábiles posteriores a la instalación de la Unidad de Evaluación y Control de la Comisión.
 
 ###### ARTÍCULO SEXTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
+
+P.O. 13 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 465 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 106 DE LA LEY NÚMERO 468 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase a la Titular del Gobierno del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
