@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-mejora-regulatoria-para-el-estado-de-campeche-y-sus-1437
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2020-05-15"
+last_updated: "2023-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el viernes 15 de mayo de 2020.
 
@@ -39,9 +39,11 @@ LEY DE MEJORA REGULATORIA PARA EL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
 ### Capítulo I. Objeto de la Ley
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2023)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de la presente Ley son de orden público y de observancia general en todo el Estado de Campeche. Tiene por objeto establecer los principios y las bases a los que deberán sujetarse las dependencias y entidades de la Administración Pública Estatal y Municipal en el ámbito de sus respectivas competencias en materia de mejora regulatoria.
+Las disposiciones de la presente Ley son de orden público y de observancia general en todo el Estado de Campeche. Tiene por objeto establecer los principios y las bases a los que deberán sujetarse las secretarías, dependencias y entidades de la Administración Pública Estatal y Municipal en el ámbito de sus respectivas competencias en materia de mejora regulatoria.
 
 Esta Ley es obligatoria para todas las dependencias y entidades de las Administraciones Públicas Estatal y Municipal.
 
@@ -93,7 +95,9 @@ VIII. Comisionados Municipales: A los Comisionados Municipales de Mejora Regulat
 
 IX. CONAMER: A la Comisión Nacional de Mejora Regulatoria;
 
-X. Comisión Estatal: A la Comisión de Mejora Regulatoria del Estado de Campeche, órgano desconcentrado de la Secretaria de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
+
+X. Comisión Estatal: A la Comisión de Mejora Regulatoria del Estado de Campeche, órgano desconcentrado de la Secretaría de Modernización Administrativa e Innovación Gubernamental;
 
 XI. Comisiones Municipales: A las Comisiones Municipales de Mejora Regulatoria;
 
@@ -106,6 +110,10 @@ XIV. Enlace de Mejora Regulatoria: Al Servidor Público designado como responsab
 XV. Estrategia: La Estrategia Nacional de Mejora Regulatoria, que servirá de guía e impondrá las directrices para la formulación de la correspondiente Estrategia Estatal;
 
 XVI. Expediente para Trámites y Servicios: Al conjunto de documentos electrónicos emitidos por los Sujetos Obligados asociados a personas físicas o morales, que pueden ser utilizados por cualquier autoridad competente, para resolver trámites y servicios;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2023)</small>
+
+XVI Bis. Ficha de información: medio de recopilación de información que contiene los datos requeridos por las Herramientas del Sistema Estatal de Mejora Regulatoria.
 
 XVII. Ley: La Ley de Mejora Regulatoria para el Estado de Campeche y sus Municipios;
 
@@ -289,19 +297,29 @@ El Consejo Estatal es el órgano responsable de coordinar la política estatal e
 
 I. La o el Depositario del Poder Ejecutivo Estatal, quien lo presidirá;
 
-II. La o el titular de la Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
-III. La o el Comisionado de la Comisión Estatal, quien fungirá como Secretario Ejecutivo del Consejo Estatal;
+II. La o el Titular de la Secretaría de Modernización Administrativa e Innovación Gubernamental;
 
-IV. La o el titular de la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
-V. La o el Titular de la Secretaría de Administración e Innovación Gubernamental;
+III. La o el Titular de la Comisión Estatal quien fungirá como Secretario Ejecutivo del Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
+
+IV. La o el Titular de la Secretaría de Administración y Finanzas;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
+
+V. La o el Titular de la Secretaría de Desarrollo Económico;
 
 VI. La o el titular de la Secretaría de la Contraloría;
 
-VII. La o el titular de la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
-VIII. La o el titular de la Secretaría de Trabajo y Previsión Social;
+VII. La o el Titular de la Secretaría de Gobierno;
+
+VIII. (DEROGADA, P.O. 13 DE JUNIO DE 2023)
 
 IX. La o el titular de la Consejería Jurídica del Poder Ejecutivo del Estado;
 
@@ -309,13 +327,13 @@ X. La o el Presidente del Tribunal Superior de Justicia del Estado;
 
 XI. La o el Presidente de la Junta de Gobierno y Administración del Congreso del Estado;
 
-XII. Las y los Diputados Integrantes de la Comisión de Desarrollo Económico;
+XII. (DEROGADA, P.O. 13 DE JUNIO DE 2023)
 
-XIII. La o el titular del Instituto para el Desarrollo de la Micro, Pequeña y Mediana Empresa o institución análoga;
+XIII. (DEROGADA, P.O. 13 DE JUNIO DE 2023)
 
-XIV. La o el titular de Promotora de Productos y Servicios de Campeche;
+XIV. (DEROGADA, P.O. 13 DE JUNIO DE 2023)
 
-XV. La o el titular del Instituto Campechano del Emprendedor o institución análoga;
+XV. (DEROGADA, P.O. 13 DE JUNIO DE 2023)
 
 XVI. Representantes del Sector Empresarial;
 
@@ -453,9 +471,11 @@ El Consejo Estatal aprobará la Estrategia, misma que será publicada en el Peri
 
 ### Capítulo IV. De la Comisión de Mejora Regulatoria del Estado de Campeche
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
+
 ###### Artículo 24.
 
-La Comisión Estatal es un órgano administrativo desconcentrado de la Secretaría de Desarrollo Económico con autonomía técnica y operativa, la cual tiene como objetivo promover la mejora de las Regulaciones y la simplificación de Trámites y Servicios, así como la transparencia en la elaboración y aplicación de los mismos, procurando que éstos generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
+La Comisión Estatal es un órgano administrativo desconcentrado de la Secretaría de Modernización Administrativa e Innovación Gubernamental con autonomía técnica y operativa, la cual tiene como objetivo promover la mejora de las Regulaciones y la simplificación de Trámites y Servicios, así como la transparencia en la elaboración y aplicación de los mismos, procurando que éstos generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
 
 ###### Artículo 25.
 
@@ -489,7 +509,9 @@ XIII. Procurar que las acciones y Programas de Mejora Regulatoria de los Sujetos
 
 XIV. Vigilar el funcionamiento del Sistema de Protesta Ciudadana e informar al órgano de control interno que corresponda, en los casos que proceda;
 
-XV. Celebrar convenios en materia de mejora regulatoria con la CONAMER, con sus homólogas de las demás Entidades Federativas, dependencias y entidades de la Administración Pública Estatal, con los Municipios del Estado, organismos autónomos, asociaciones y organizaciones civiles, sociales, empresariales y académicas, organismos nacionales e internacionales a efecto de cumplir con los objetivos de la presente Ley;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
+
+XV. Celebrar convenios en materia de mejora regulatoria con la CONAMER, con sus homólogas de las demás Entidades Federativas, secretarías, dependencias y entidades de la Administración Pública Estatal, con los Municipios del Estado, organismos autónomos, asociaciones y organizaciones civiles, sociales, empresariales y académicas, organismos nacionales e internacionales a efecto de cumplir con los objetivos de la presente Ley;
 
 XVI. Promover la evaluación de Regulaciones vigentes a través del Análisis de Impacto Regulatorio ex post, siguiendo los lineamientos establecidos por la CONAMER;
 
@@ -513,11 +535,23 @@ XXV. Promover y gestionar la adopción e implementación del Sistema de Apertura
 
 XXVI. Promover el uso de tecnologías de información para la sustanciación y resolución de trámites y procedimientos administrativos de conformidad con los principios y objetivos de esta Ley; y
 
-XXVII. Las demás facultades que establezcan esta Ley y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2023)</small>
+
+XXVII. Elaborar, publicar y presentar ante el Consejo Estatal, un informe anual de los avances de los Sujetos Obligados en materia de mejora regulatoria;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2023)</small>
+
+XXVIII. Establecer los mecanismos para dar publicidad a la Agenda Regulatoria de los Sujetos Obligados; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXVII], P.O. 13 DE JUNIO DE 2023)</small>
+
+XXIX. Las demás facultades que establezca esta Ley y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2023)</small>
 
 ###### Artículo 26.
 
-La Comisión Estatal estará presidida por una o un Comisionado, quien será designado por la o el Depositario del Poder Ejecutivo Estatal, a propuesta de la o el Secretario de Desarrollo Económico del Estado. La o el Comisionado tendrá nivel de Subsecretaria o Subsecretario, Oficial mayor o su equivalente.
+La Comisión Estatal estará presidida por una o un Comisionado, quien será designado por la o el Depositario del Poder Ejecutivo Estatal, a propuesta de la o el Secretario de Modernización Administrativa e Innovación Gubernamental. La o el Comisionado tendrá nivel de por lo menos, Subsecretaria o Subsecretario, Directora o Director General u Homólogo.
 
 La o el Comisionado deberá contar con título profesional en materias afines al objeto de la Comisión Estatal, tener al menos treinta años cumplidos y haberse desempeñado en forma destacada en cuestiones profesionales del sector empresarial, de servicio público o académicas relacionadas con el objeto de la Comisión Estatal.
 
@@ -547,7 +581,9 @@ X. Colaborar con las Autoridades de Mejora Regulatoria para fortalecer y eficien
 
 XI. Presentar ante el Consejo, para su conocimiento, los resultados del Programa Estatal de Mejora Regulatoria;
 
-XII. Suscribir, a nombre de la Comisión Estatal, en conjunto con la o el titular de la Secretaría de Economía, convenios en materia de mejora regulatoria con la CONAMER, con sus homólogas de las demás Entidades Federativas, dependencias de la Administración Pública Estatal, con los Municipios del Estado, asociaciones y organizaciones civiles, sociales, empresariales y académicas, organismos nacionales e internacionales a efecto de cumplir con los objetivos de la presente ley; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
+
+XII. Suscribir, a nombre de la Comisión Estatal, en conjunto con la o el Titular de la Secretaría de Modernización Administrativa e Innovación Gubernamental, contratos, convenios, bases de colaboración o cualquier otro instrumento jurídico en materia de mejora regulatoria con la CONAMER, con sus homólogas de las demás Entidades Federativas, secretarías, dependencias o entidades de la Administración Pública Estatal, con los Municipios del Estado, asociaciones y organizaciones civiles, sociales, empresariales y académicas, organismos nacionales e internacionales, así como con personas físicas y/o morales, a efecto de cumplir con los objetivos de la presente ley; y
 
 XIII. Las demás que le confieran esta Ley y su Reglamento, el Reglamento Interior de la Comisión Estatal y cualquier otra disposición jurídica aplicable.
 
@@ -637,7 +673,9 @@ VII. Las y los titulares de las diferentes áreas que determine la o el Presiden
 
 VIII. Las demás que se determine en su Reglamento en la materia.
 
-Podrán contar, a decisión del propio Consejo Municipal, con la participación como invitados de la o el titular de la Secretaría de Desarrollo Económico, la o el Comisionado Estatal de Mejora Regulatoria, la o el titular de la Oficina de Representación de la Secretaría de Economía de la Administración Pública Federal en el Estado, así como aquellas o aquellos que se consideren para formar parte como invitadas o invitados con derecho a voz, pero sin voto.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
+
+Podrán contar, a decisión del propio Consejo Municipal, con la participación como invitados de la o el Titular de la Secretaría de Modernización Administrativa e Innovación Gubernamental, la o el Comisionado Estatal de Mejora Regulatoria, la o el Titular de la Oficina de Representación de la Secretaría de Economía de la Administración Pública Federal en el Estado, así como aquellas o aquellos que se consideren para formar parte como invitadas o invitados con derecho a voz, pero sin voto.
 
 ###### Artículo 38.
 
@@ -725,7 +763,13 @@ Las dependencias municipales remitirán al Comisionado Municipal los documentos 
 
 El Catálogo Estatal es la herramienta tecnológica que compila las Regulaciones, los Trámites y los Servicios de los Sujetos Obligados de los órdenes Estatal y Municipal, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como fomentar el uso de tecnologías de la información. Tendrá carácter público y la información que contenga será vinculante para los Sujetos Obligados, en el ámbito de sus competencias.
 
-Por otra parte, la inscripción y actualización del Catálogo Nacional es de carácter permanente y obligatorio para todos los Sujetos Obligados, en el ámbito de sus competencias, por lo que deberán enterar periódicamente a la Autoridad de Mejora Regulatoria correspondiente cualquier modificación a la información inscrita en los Catálogos, lo anterior conforme a lo establecido por la Ley General de Mejora Regulatoria.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
+
+Por otra parte, la inscripción y actualización del Catálogo Estatal es de carácter permanente y obligatorio para todos los Sujetos Obligados, en el ámbito de sus competencias, por lo que deberán enterar periódicamente a la Autoridad de Mejora Regulatoria correspondiente cualquier modificación a la información inscrita en los Catálogos, lo anterior conforme a lo establecido por la Ley General de Mejora Regulatoria.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2023)</small>
+
+El Catálogo Estatal deberá interconectar con el Catálogo de manera obligatoria.
 
 ###### Artículo 43.
 
@@ -741,6 +785,14 @@ IV. El Registro Estatal de Visitas Domiciliarias; y
 
 V. La Protesta Ciudadana.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2023)</small>
+
+Dichas herramientas deberán interoperar entre ellas. Para tal fin, la Autoridad de Mejora Regulatoria realizará las acciones que sean necesarias para coordinar las actividades de los Sujetos Obligados a efecto de que cumplan con la obligación de integrar y relacionar las fichas de información de las regulaciones, trámites, servicios, inspecciones, verificaciones, visitas domiciliarias, protesta ciudadana o cualquier otra figura de mejora regulatoria con la finalidad de compartir datos y posibilitar el intercambio de información.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2023)</small>
+
+Los sistemas electrónicos del Registro Estatal y Municipal de Trámites y Servicios y del Registro Estatal de Visitas Domiciliarias deberán incluir información estadística sobre el histórico de protestas ciudadanas recibidas y los resultados de la resolución del Sujeto Obligado.
+
 ### Capítulo II. Del Registro Estatal y Municipal de Regulaciones
 
 ###### Artículo 44.
@@ -753,9 +805,11 @@ Los Sujetos Obligados serán los responsables de inscribir y actualizar permanen
 
 Para integrar y administrar el Registro Estatal, se le dotará a la Consejería Jurídica del Poder Ejecutivo de todos los recursos materiales y humanos para su efectiva implementación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2023)</small>
+
 ###### Artículo 45.
 
-Los Registros Estatal y los Municipales de Regulaciones deberán contemplar para cada Regulación una ficha que contenga, cuando menos, la siguiente información:
+Los Registros Estatales y los Municipales de Regulaciones deberán contemplar para cada Regulación una ficha de información que contenga, cuando menos, lo siguiente:
 
 I. Nombre de la Regulación;
 
@@ -1173,21 +1227,39 @@ Cuando un municipio no cuente con la estructura y el personal capacitado para re
 
 ### Capítulo IX. De los Programas de Mejora Regulatoria
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
+
 ###### Artículo 79.
 
-Los Programas de Mejora Regulatoria son herramientas que tienen por objeto mejorar la Regulación vigente e implementar acciones de simplificación de Trámites y Servicios. De acuerdo con el calendario que establezcan, los Sujetos Obligados someterán a la Autoridad Estatal de Mejora Regulatoria que les corresponda un Programa de Mejora Regulatoria, con una vigencia anual, en relación con la Regulación, Trámites y Servicios que aplican, así como reportes periódicos sobre los avances correspondientes.
+Los Programas de Mejora Regulatoria son herramientas que tienen por objeto mejorar la Regulación vigente e implementar acciones de simplificación de Trámites y Servicios.
+
+De acuerdo con el calendario que establezcan, los Sujetos Obligados someterán a la Autoridad Estatal de Mejora Regulatoria que les corresponda un Programa de Mejora Regulatoria, con una vigencia anual, en relación con la Regulación, Trámites y Servicios que aplican, así como reportes periódicos sobre los avances correspondientes.
 
 La Autoridad Estatal de Mejora Regulatoria emitirá, considerando los lineamientos contenidos en la Estrategia Nacional, los lineamientos para establecer los calendarios, mecanismos, formularios e indicadores para la implementación de los Programas de Mejora Regulatoria.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
+
 ###### Artículo 80.
 
-La Autoridad de Mejora Regulatoria, en el ámbito de sus respectivas competencias, podrá emitir opinión a los Sujetos Obligados con propuestas específicas para mejorar sus Regulaciones y simplificar sus Trámites y Servicios. Los Sujetos Obligados deberán valorar dichas propuestas para incorporarlas a sus Programas de Mejora Regulatoria o, en su defecto, manifestar por escrito las razones por las que no considera factible su incorporación en un plazo no mayor a diez días.
+La Autoridad de Mejora Regulatoria, en el ámbito de sus respectivas competencias, podrá emitir opiniones, propuestas o recomendaciones a los Sujetos Obligados para mejorar sus Regulaciones y simplificar sus Trámites y Servicios.
 
-La opinión de la Autoridad de Mejora Regulatoria y la contestación del Sujeto Obligado serán publicadas en el portal de la Autoridad Estatal de Mejora Regulatoria
+Una vez recibidas dichas opiniones, propuestas o recomendaciones, los Sujetos Obligados presentarán de manera preliminar las acciones para mejorar sus Regulaciones y simplificar sus Trámites y Servicios junto con su fecha de implementación. Asimismo, deberán valorar las opiniones, propuestas o recomendaciones emitidas por la Autoridad de Mejora Regulatoria para incorporarlas a sus Programas de Mejora Regulatoria o en su defecto, manifestar en un plazo no mayor a diez días, por el medio que la Autoridad de Mejora Regulatoria determine, las razones por las que no considera factible su incorporación.
+
+La opinión de la Autoridad de Mejora Regulatoria y la contestación del Sujeto Obligado serán publicadas en el portal de la Autoridad Estatal de Mejora Regulatoria.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
 
 ###### Artículo 81.
 
-La Autoridad Estatal de Mejora Regulatoria difundirá los Programas de Mejora Regulatoria para su consulta pública durante al menos treinta días, a fin de recabar comentarios y propuestas de los interesados. Los Sujetos Obligados deberán valorar dichos comentarios y propuestas para incorporarlas a sus Programas de Mejora Regulatoria o, en su defecto, manifestar las razones por las que no se considera factible su incorporación.
+La Autoridad de Mejora Regulatoria difundirá los Programas de Mejora Regulatoria para su consulta pública durante al menos treinta días a partir de su recepción, a fin de recabar comentarios y propuestas de los interesados.
+
+Los Sujetos Obligados deberán valorar dichos comentarios y propuestas emitidos durante la consulta pública para incorporarlos a sus Programas de Mejora Regulatoria o en su defecto, manifestar las razones por las que no se considera factible su incorporación.
+
+Posterior al proceso de consulta pública, la Autoridad de Mejora Regulatoria, en el ámbito de sus respectivas competencias, emitirá una última opinión a los Sujetos Obligados sobre sus Programas de Mejora Regulatoria. Los Sujetos Obligados deberán valorar dicha opinión para incorporarla a sus Programas de Mejora Regulatoria o en su defecto, manifestar las razones por las que no se considera factible su incorporación. Una vez agotado este procedimiento, los Sujetos Obligados podrán inscribir sus Programas de Mejora Regulatoria.
+
+Los Programas de Mejora Regulatoria tendrán carácter preliminar cuando integren acciones preliminares y su elaboración sea previa al proceso de consulta pública. Los Programas de Mejora Regulatoria tendrán carácter de definitivos una vez agotado el procedimiento de consulta pública y la incorporación, en su caso, de las opiniones, propuestas o recomendaciones. Los Programas de Mejora Regulatoria únicamente estarán integrados por los Programas de Mejora Regulatoria con carácter de definitivos.
+
+Los Órganos Internos de Control o equivalentes de cada Sujeto Obligado podrán emitir un diagnóstico sobre el contenido de los Programas de Mejora Regulatoria con carácter de preliminares.
 
 ###### Artículo 82.
 
@@ -1197,7 +1269,13 @@ Para el caso de Regulaciones los Sujetos Obligados únicamente podrán solicitar
 
 Lo dispuesto en el presente artículo deberá sujetarse a la autorización previa de la Autoridad de Mejora Regulatoria, de conformidad con el objeto de esta Ley.
 
-Los órganos internos de control o equivalentes de cada Sujeto Obligado deberán, de conformidad con sus atribuciones, dar seguimiento al cumplimiento de los Programas de Mejora Regulatoria.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JUNIO DE 2023)</small>
+
+Los Sujetos Obligados deberán reportar con evidencia a la Autoridad de Mejora Regulatoria el cumplimiento de las acciones comprometidas en los Programas de Mejora Regulatoria.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 13 DE JUNIO DE 2023)</small>
+
+Los Órganos Internos de Control o equivalentes de cada Sujeto Obligado deberán, de conformidad con sus atribuciones, dar seguimiento al cumplimiento de los Programas de Mejora Regulatoria.
 
 ###### Artículo 83.
 
@@ -1273,15 +1351,59 @@ La Autoridad de Mejora Regulatoria en el ámbito de su competencia, apoyará la 
 
 La Comisión Estatal compartirá la información relativa a los registros administrativos, censos y encuestas que, por su naturaleza estadística, sean requeridos por el Instituto Nacional de Estadística y Geografía para el desarrollo adecuado de sus propios censos y encuestas nacionales en materia de mejora regulatoria y en su caso aquellos organismos nacionales que persigan el mismo objetivo.
 
-## TÍTULO CUARTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS EN MATERIA DE MEJORA REGULATORIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2023)</small>
 
-### Capítulo Único. De las Responsabilidades Administrativas de los Servidores Públicos
+## TÍTULO CUARTO. DEL SISTEMA DE GOBERNANZA REGULATORIA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO ÚNICO. DE LA IMPLEMENTACIÓN DEL SISTEMA DE GOBERNANZA REGULATORIA
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
 
 ###### Artículo 90.
 
-El incumplimiento de las obligaciones establecidas por la presente Ley, por parte de los servidores públicos de los órdenes de gobierno será sancionado en términos de la Ley General de Responsabilidades Administrativas.
+El Sistema de Gobernanza Regulatoria se entenderá como el proceso donde la Autoridad de Mejora Regulatoria, los Sujetos Obligados y la sociedad promoverán la mejora de las regulaciones y la simplificación de trámites y servicios, así como la transparencia en su elaboración y aplicación, procurando que generen beneficios superiores a sus costos y el máximo beneficio para la sociedad. Se implementará a través de la coordinación e interoperación de las Herramientas del Sistema Estatal de Mejora Regulatoria contenidas en el Título Tercero de la presente Ley.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
 
 ###### Artículo 91.
+
+La Autoridad de Mejora Regulatoria establecerá dentro de la Estrategia Estatal, la coordinación entre la sociedad y los Sujetos Obligados. La Autoridad de Mejora Regulatoria deberá incluir los procesos de consulta pública en la creación y revisión de las regulaciones, desde su diseño y desarrollo hasta su implementación de nuevas regulaciones o la reforma de las existentes.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2023)</small>
+
+###### Artículo 92.
+
+Las Herramientas del Sistema Estatal de Mejora Regulatoria deberán interoperar a través de los medios electrónicos que la Autoridad de Mejora Regulatoria determine. Asimismo, el Sistema de Gobernanza Regulatoria estará integrado por como mínimo lo siguiente:
+
+I. Agenda Regulatoria;
+
+II. Análisis de Impacto Regulatorio;
+
+III. Programa de Mejora Regulatoria; y
+
+IV. Análisis de Impacto Regulatorio Ex Post.
+
+Por su parte, el Sistema de Gobernanza Regulatoria deberá interoperar con el Catálogo Estatal de Regulaciones, Trámites y Servicios.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2023)</small>
+
+## TÍTULO QUINTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS EN MATERIA DE MEJORA REGULATORIA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2023)</small>
+
+###### Artículo 93.
+
+El incumplimiento de las obligaciones establecidas por la presente Ley, por parte de los servidores públicos de los órdenes de gobierno será sancionado en términos de la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2023)</small>
+
+###### Artículo 94.
 
 La Autoridad de Mejora Regulatoria deberá informar a las autoridades que resulten competentes en la investigación de responsabilidades administrativas y hechos de corrupción, de los incumplimientos que tenga conocimiento.
 
@@ -1338,3 +1460,19 @@ Que la LXIII Legislatura del H. Congreso del Estado Libre y Soberano de Campeche
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los treinta y un días del mes de marzo del año dos mil veinte.
 
 EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- EL SECRETARIO GENERAL DE GOBIERNO, L.E.N.I. PEDRO ARMENTÍA LÓPEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JUNIO DE 2023.
+
+[TRANSITORIOS DEL DECRETO NÚMERO 237 POR EL QUE “SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 1; LA FRACCIÓN X DEL ARTÍCULO 3; LAS FRACCIONES II, III, IV, V Y VII DEL ARTÍCULO 15; EL ARTÍCULO 24; LAS FRACCIONES XV Y XXVII DEL ARTÍCULO 25; EL PÁRRAFO PRIMERO DEL ARTÍCULO 26; LA FRACCIÓN XII DEL ARTÍCULO 27; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 37; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 42; EL PÁRRAFO PRIMERO DEL ARTÍCULO 45; LOS ARTÍCULOS 79, 80 Y 81; EL PÁRRAFO CUARTO DEL ARTÍCULO 82; LAS DENOMINACIONES DEL TÍTULO CUARTO PARA QUEDAR COMO “DEL SISTEMA DE GOBERNANZA REGULATORIA” Y DE SU CAPÍTULO ÚNICO PARA QUEDAR COMO “DE LA IMPLEMENTACIÓN DEL SISTEMA DE GOBERNANZA REGULATORIA”; LOS ARTÍCULOS 90 Y 91; SE ADICIONAN LA FRACCIÓN XVI BIS AL ARTÍCULO 3; LAS FRACCIONES XXVIII Y XXIX AL ARTÍCULO 25; EL PÁRRAFO TERCERO AL ARTÍCULO 42; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 43; EL PÁRRAFO QUINTO AL ARTÍCULO 82; EL ARTÍCULO 92; EL TÍTULO QUINTO DENOMINADO “DE LAS RESPONSABILIDADES ADMINISTRATIVAS EN MATERIA DE MEJORA REGULATORIA” CON UN CAPÍTULO ÚNICO DENOMINADO “DE LAS RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS” CON LOS ARTÍCULOS 93 Y 94; Y SE DEROGAN LAS FRACCIONES VIII, XII, XIII, XIV Y XV DEL ARTÍCULO 15, TODOS DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro del término de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá expedir los lineamientos correspondientes a las Herramientas del Sistema Estatal de Mejora Regulatoria que integran el Sistema de Gobernanza Regulatoria.
+
+TERCERO. El Ejecutivo Estatal emitirá el Reglamento Interior de la Comisión de Mejora Regulatoria para el Estado de Campeche cuando exista la disponibilidad presupuestal para la creación de su estructura. En tanto esto ocurre, las atribuciones del Comisionado serán reguladas en el Reglamento Interior de la Secretaría de Modernización Administrativa e Innovación Gubernamental.
+
+CUARTO. Se derogan las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+QUINTO. Las disposiciones administrativas de carácter general aplicables y que hayan sido emitidas con anterioridad a la entrada en vigor del presente Decreto, continuarán vigentes en todo lo que no se le oponga, hasta en tanto se expidan las disposiciones que las sustituyan con arreglo al mismo Decreto.
