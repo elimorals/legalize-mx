@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2023-03-30"
+last_updated: "2023-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -884,6 +884,12 @@ La Policía Preventiva Municipal, estará al mando de la Presidenta o Presidente
 La policía preventiva municipal coadyuvará con la guardia nacional conforme a las disposiciones constitucionales y leyes relativas en la materia.
 
 El Ayuntamiento podrá establecer convenios de colaboración con la Guardia Nacional para la realización de acciones en materia de seguridad pública con apego a la normatividad aplicable, dichos convenios deberán realizarse en coordinación con el Gobierno del Estado en los términos de lo dispuesto en el artículo 60 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2023)</small>
+
+Artículo 41 bis. Los ayuntamientos deberán instalar y operar en un máximo de cuarenta y cinco días hábiles, a partir del inicio de sus funciones, su consejo municipal de seguridad pública, el cual tendrá las atribuciones y obligaciones que le confiere la Ley del Sistema Estatal de Seguridad Pública de Michoacán de Ocampo, mismas que deberán de estar incluidas en su reglamento correspondiente.
+
+Se dará por instalado el consejo municipal de seguridad pública, cuando el Ayuntamiento publique de manera oficial en el Periódico oficial del Estado su acta de instalación.
 
 ### CAPÍTULO X. DE LA DESAPARICIÓN DE AYUNTAMIENTOS
 
@@ -3306,3 +3312,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicaci�
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
 
 TERCERO. Se exhorta a los 111 ayuntamientos del Estado de Michoacán de Ocampo, al Concejo Mayor de Cherán; y, al Concejo Municipal de Penjamillo, para que en un plazo no mayor a 90 días naturales se integre la Comisión Municipal para la Protección de los Derechos de las Niñas, Niños y Adolescentes.
+
+P.O. 13 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 368 POR EL QUE "SE ADICIONA UN ARTÍCULO 41 BIS A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los gobiernos municipales tendrán sesenta días para expedir la reglamentación que mandata el presente Decreto a partir de la fecha de su publicación.
