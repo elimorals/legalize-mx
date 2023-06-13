@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-06-06"
+last_updated: "2023-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2959,15 +2959,19 @@ II.- Cuando el monto a que ascienda el enriquecimiento ilícito no exceda de tre
 
 III.- Cuando el monto a que ascienda el enriquecimiento ilícito exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de diez a veinte años de prisión, multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
 
-## TITULO NOVENO. DELITOS COMETIDOS EN EL DESEMPEÑO DE FUNCIONES JUDICIALES O ADMINISTRATIVAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2023)</small>
 
-### CAPITULO UNICO
+## TITULO NOVENO. DELITOS COMETIDOS EN EL DESEMPEÑO DE FUNCIONES JUDICIALES, PROCURACIÓN DE JUSTICIA O ADMINISTRATIVAS
 
-DESEMPEÑO DE FUNCIONES JUDICIALES O ADMINISTRATIVAS.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2023)</small>
+
+### CAPITULO UNICO. DESEMPEÑO DE FUNCIONES JUDICIALES, PROCURACIÓN DE JUSTICIA O ADMINISTRATIVAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2023)</small>
 
 ###### ARTICULO 232.
 
-Comete delito en el desempeño de funciones judiciales o administrativas el servidor público, en los siguientes casos:
+Comete delito en el desempeño de funciones judiciales, procuración de justicia o administrativas el servidor público, en los siguientes casos:
 
 I.- Conocer de negocios para los cuales tenga impedimento legal o abstenerse de conocer de los que le corresponda, sin tener impedimento legal para ello;
 
@@ -3127,33 +3131,41 @@ L.- Se abstenga de iniciar una investigación de un hecho que la ley señale com
 
 LI.- Fabrique, altere o simule elementos, datos o medios de prueba para incriminar o exculpar a otro;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
-LII.- Durante el trámite de una investigación o durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero aporte datos, medios de prueba o se desahoguen éstos últimos, todos relativos a la comisión de un delito; y
+LII.- Durante el trámite de una investigación o durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero aporte datos, medios de prueba o se desahoguen estos últimos, todos relativos a la comisión de un delito;
 
-> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
-LIII.- Fuera de los casos previstos en las leyes aplicables, proporcione a cualquier persona ajena a éstas, información a la que tenga acceso con motivo de sus funciones, protección o facilidades en el servicio confiado a su cargo; así como adiestramiento, capacitación o conocimientos policiales.
+LIII.- Fuera de los casos previstos en las leyes aplicables, proporcione a cualquier persona ajena a éstas, información a la que tenga acceso con motivo de sus funciones, protección o facilidades en el servicio confiado a su cargo; así como adiestramiento, capacitación o conocimientos policiales; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2023)</small>
+
+LIV.- Al que, de forma indebida difunda, entregue, revele, publique, transmita, exponga, remita, distribuya, videograbe, audio grabe, fotografíe, filme, reproduzca, comercialice, oferte, intercambie o comparta imágenes, audios, videos, información reservada, documentos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos relacionados con el procedimiento penal o productos con uno o varios hechos, señalados por la Ley como delitos.
 
 ###### ARTICULO 233.
 
 Al responsable en la comisión de los delitos previstos en el artículo anterior, se le sancionará:
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
-I.- A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, X, XIV, XX, XXV, XXVI, XLV y XLVI se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien veces el valor diario de la Unidad de Medida y Actualización; y
+I.- A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, X, XIV, XX, XXV, XXVI, XLV y XLVI se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
-II.- A quien cometa los delitos previstos en las fracciones IV, V, VI, XI, XII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXIV, XXXIX, XLI, XLII, XLIII, XLIV, XLVII, XLVIII, XLIX, L, LI, LII y LIII se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+II.- A quien cometa los delitos previstos en las fracciones IV, V, VI, XI, XII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXIV, XXXIX, XLI, XLII, XLIII, XLIV, XLVII, XLVIII, XLIX, L, LI, LII y LIII se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2023)</small>
+
+III.- A quien cometa el delito previsto en la fracción LIV, se le impondrá pena de prisión de dos a seis años y de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 En caso de tratarse de particulares realizando funciones propias del supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
 
-Las penas a que se refiere este artículo se aumentarán desde un tercio y hasta en una mitad del mínimo y máximo, cuando el delito sea cometido por personas servidoras públicas de las instituciones de seguridad pública.
+Las penas a que se refieren las fracciones anteriores se aumentarán desde un tercio y hasta en una mitad del mínimo y máximo, cuando el delito sea cometido por personas servidoras públicas de las instituciones de seguridad pública. Para el caso de la fracción III, las penas previstas se aumentarán hasta una tercera parte cuando se cometa con el fin de menoscabar la dignidad de las víctimas o de sus familiares; tratare de cadáveres de niñas adolescentes o mujeres; o sea de las circunstancias de su muerte, de las lesiones o del estado de salud de la víctima.
 
 ###### ARTICULO 234.
 
@@ -4377,27 +4389,53 @@ ARTICULO 337 BIS.- Comete el delito de feminicidio quien prive de la vida a una 
 
 I.- La víctima presente signos de violencia sexual de cualquier tipo;
 
-II.- A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
-III.- Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
+II.- El cuerpo o los restos de la víctima presenten heridas, traumatismos, escoriaciones, contusiones, decapitamiento, desollamiento, fracturas, dislocaciones, cortes, quemaduras, signos de asfixia, estrangulamiento, tortura, desmembramiento de partes del cuerpo o cualquier tipo de lesiones o mutilaciones, internas o externas, infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
 
-IV.- Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
-V.- Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+III.- Existan antecedentes, indicios o datos, denunciados o no, de cualquier tipo de violencia en el ámbito familiar, laboral, digital, escolar, institucional, política o comunitaria del sujeto activo en contra de la víctima;
 
-VI.- La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
-VII.- El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+IV.- Exista o haya existido, entre el activo y la víctima una relación sentimental, afectiva o de confianza, de parentesco, afinidad, matrimonio, concubinato, sociedad de convivencia, cohabitación, noviazgo o cualquier otra relación de hecho o amistad;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2023)</small>
+
+V.- Exista o haya existido entre el sujeto activo y la víctima, una relación laboral, docente, religiosa, institucional o cualquier otra que implique, de manera formal o de hecho, una relación de subordinación o superioridad;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN V], P.O. 13 DE JUNIO DE 2023)</small>
+
+VI.- Existan datos, antecedentes, o indicios, denunciados o no, que establezcan que hubo amenazas, agresiones, intimidación, acoso o lesiones del sujeto activo en contra de la víctima, incluidas aquellas encaminadas a limitar, anular o menoscabar los derechos políticos y electorales de la víctima o el ejercicio de un cargo político, público, de poder o de decisión;
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VI], P.O. 13 DE JUNIO DE 2023)
+
+VII.- La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2023)</small>
+
+VIII.- La víctima se haya encontrado en un estado de indefensión, entendiéndose este como la situación de desprotección real o incapacidad de defensa, causada por un impedimento físico, psicológico o material para solicitar el auxilio, incluyendo factores externos que inhiban su capacidad de defensa o conciencia, como el estado de somnolencia, alcoholemia, consumo de fármacos o drogas, ya sea voluntario o involuntario; o
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VII], P.O. 13 DE JUNIO DE 2023)</small>
+
+IX.- El cuerpo o restos de la víctima sean expuestos, exhibidos, depositados, arrojados o enterrados en un lugar público o de libre concurrencia.
 
 A quien cometa el delito de feminicidio se le impondrán de cuarenta a cincuenta años de prisión y de quinientos a mil días multa.
 
 Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
-Así también se le condenará a la pérdida de la patria potestad en el caso de que tenga hijos con la víctima.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
 
-En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+Cuando el sujeto activo tuviere descendencia con la víctima y estos sean menores de edad, además de las penas previstas en este artículo, se le condenará a la pérdida de la patria potestad a fin de salvaguardar el interés superior de la niñez y garantizar su derecho a vivir en un entorno seguro, afectivo y libre de violencia, de conformidad con lo previsto en el artículo 387 del Código Civil para el Estado de Tamaulipas. Adicionalmente, se ordenará a las autoridades competentes la protección, prestación de servicios de ayuda inmediata, asistencia, atención y reparación integral del daño de las niñas, niños y adolescentes que hubiesen quedado en situación de orfandad por feminicidio.
 
-Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
+
+Todas las muertes violentas de una mujer incluidas aquellas que en principio parecieran haber sido causadas por motivos criminales, suicidio o accidente, deberán de investigarse como probable feminicidio y, sólo si el ministerio público no acredita la existencia de alguna de las razones de género antedichas en este artículo, se continuará la investigación con las reglas del delito de homicidio.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
+
+A la persona servidora pública que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, se le impondrá pena de cinco a ocho años de prisión y de quinientos a mil quinientos días multa. Además será destituida e inhabilitada de cinco a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -7206,3 +7244,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procesos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+P.O. 13 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-587 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
