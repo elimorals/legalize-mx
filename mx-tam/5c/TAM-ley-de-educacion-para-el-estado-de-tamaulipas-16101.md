@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2023-06-06"
+last_updated: "2023-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -255,13 +255,17 @@ XXXII.- Fomentar las habilidades y la educación digital, así como la aplicaci�
 
 XXXIII.- Fomentar e implementar durante la educación básica programas y acciones que tengan por objeto promover la orientación vocacional, a fin de favorecer a que los estudiantes creen su proyecto de vida;
 
-> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
-XXXIV.- Promover y fomentar la educación emocional durante la educación básica, con el objeto de que los educandos desarrollen habilidades emocionales, para que de forma positiva ayuden en su formación a través de actividades y programas educativos con el objeto de alcanzar el bienestar personal y social; y
+XXXIV.- Promover y fomentar la educación emocional durante la educación básica, con el objeto de que los educandos desarrollen habilidades emocionales, para que de forma positiva ayuden en su formación a través de actividades y programas educativos con el objeto de alcanzar el bienestar personal y social;
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
-XXXV.- Fomentar en la cultura tributaria en la educación secundaria y media superior, a fin de dotar de los conocimientos necesarios, sobre las obligaciones y dependencias tributarias que existen en nuestro país y Estado.
+XXXV.- Fomentar en la cultura tributaria en la educación secundaria y media superior, a fin de dotar de los conocimientos necesarios, sobre las obligaciones y dependencias tributarias que existen en nuestro país y Estado; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2023)</small>
+
+XXXVI.- Inculcar y fortalecer la cultura del cuidado del agua y el aprendizaje de su uso responsable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -405,9 +409,9 @@ XII.- Vigilar en los planteles educativos de la Entidad, el cumplimiento de la L
 
 XIII.- Prestar servicios de información y consulta a través de bibliotecas públicas a fin de apoyar al Sistema Educativo Estatal, a la innovación educativa y a la investigación científica, tecnológica y humanística;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
-XIV.- Fomentar las actividades de educación física, de cuidado al medio ambiente y el desarrollo sustentable, artísticas, culturales y deportivas en todas sus manifestaciones; así como efectuar las acciones necesarias para abatir la deserción escolar y la suspensión de estudios de niñas y adolescentes, por razones de embarazo y maternidad;
+XIV.- Fomentar las actividades de educación física, de cuidado al medio ambiente, el cuidado del agua y su uso responsable y el desarrollo sustentable, artísticas, culturales y deportivas en todas sus manifestaciones; así como efectuar las acciones necesarias para abatir la deserción escolar y la suspensión de estudios de niñas y adolescentes, por razones de embarazo y maternidad;
 
 XV.- Designar el nombre que llevarán las escuelas de nueva creación, de una terna propuesta por las autoridades y padres de familia del plantel; tratándose de nombres de personas, sólo figurarán las ya fallecidas y que hubieran prestado destacados servicios a la sociedad; y
 
@@ -2490,6 +2494,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-589 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 8°, FRACCIONES XXXIV Y XXXV; Y 12, FRACCIÓN XIV; Y SE ADICIONA LA FRACCIÓN XXXVI AL ARTÍCULO 8° DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
