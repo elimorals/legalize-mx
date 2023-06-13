@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-civil-del-estado-de-michoacan-de-ocampo-10378
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2020-04-07"
+last_updated: "2023-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 25 de noviembre de 2014.
 
@@ -595,9 +595,13 @@ XIII. Las demás que señalen otras disposiciones jurídicas aplicables.
 
 Las disposiciones referentes al funcionamiento orgánico y a las atribuciones de las autoridades integrantes del Consejo Municipal, se substanciarán de manera equivalente a lo señalado en el Capítulo del Consejo Estatal y en los ordenamientos municipales que correspondan.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2023)</small>
+
 ###### Artículo 42.
 
-En cada Municipio del Estado, se establecerá una Coordinación Municipal de Protección Civil, con la finalidad de formular, organizar y ejecutar los planes, medidas y programas de prevención, auxilio y apoyo a la población ante situaciones de riesgo, emergencia o desastre, en su primer nivel de respuesta. La organización de las Coordinaciones Municipales, se ajustará a lo dispuesto por el Capítulo del Sistema Estatal, a su Reglamento y a la legislación municipal referente.
+En cada Municipio del Estado, se establecerá una Coordinación Municipal de Protección Civil, con la finalidad de formular, organizar y ejecutar los planes, medidas y programas de prevención, auxilio y apoyo a la población ante situaciones de riesgo, emergencia o desastre, en su primer nivel de respuesta. La Coordinadora o el Coordinador Municipal de Protección Civil será nombrado por los integrantes del Cabildo, por mayoría absoluta de votos a propuesta del Presidente Municipal. Para ser coordinador municipal de protección civil, se deberá contar con experiencia comprobable en materia de Protección Civil.
+
+La organización de las Coordinaciones Municipales se ajustará a lo dispuesto por el Capítulo del Sistema Estatal, a su Reglamento y a la legislación municipal referente.
 
 ###### Artículo 43.
 
@@ -1268,3 +1272,11 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Artículo Tercero. El Poder Ejecutivo expedirá las modificaciones necesarias al Reglamento de la Ley en un término de hasta noventa días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 13 DE JUNIO DE 2023.
+
+## [N.DE E. TRANSITORIOS DEL DECRETO NÚMERO 367 POR EL QUE “SE REFORMA EL ARTÍCULO 42 DE LA LEY DE·PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los ayuntamientos del Estado y el Concejo Mayor de Cherán tendrán 90 días, a partir de la entrada en vigor, para crear o armonizar su reglamentación municipal correspondiente con lo mandatado en el presente Decreto.
