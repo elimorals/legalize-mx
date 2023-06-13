@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-por-el-que-se-establecen-las-bases-de-113297"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-03-07"
-last_updated: "2016-06-30"
+last_updated: "2023-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113297&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-12-08"
 ---
 # ACUERDO GENERAL POR EL QUE SE ESTABLECEN LAS BASES DE ORGANIZACION Y FUNCIONAMIENTO DE LA DEFENSORIA PUBLICA ELECTORAL PARA PUEBLOS Y COMUNIDADES INDIGENAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL POR EL QUE SE ESTABLECEN LAS BASES DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA DEFENSORÍA PÚBLICA ELECTORAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 13 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL POR EL QUE SE ESTABLECEN LAS BASES DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA DEFENSORÍA PÚBLICA ELECTORAL PARA PUEBLOS Y COMUNIDADES INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2023 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 7 de marzo de 2016.
 
@@ -414,5 +416,15 @@ D.O.F. 30 DE JUNIO DE 2016.
 PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+TERCERO. Para su mayor difusión, publíquese en las páginas de Intranet e Internet del Tribunal Electoral del Poder Judicial de la Federación.
+
+D.O.F. 13 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL POR EL QUE SE ESTABLECEN LAS BASES DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA DEFENSORÍA PÚBLICA ELECTORAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. La vigencia del presente Acuerdo General iniciará al día siguiente de su publicación en el Diario Oficial de la Federación, en correspondencia a las reformas y adiciones al Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, relativas a la Defensoría Pública Electoral, publicada en el Diario Oficial de la Federación el 19 de agosto de 2022.
+
+SEGUNDO. Se abroga el Acuerdo General por el que se establecen las bases de organización y funcionamiento de la Defensoría Pública Electoral para Pueblos y Comunidades Indígenas aprobado mediante acuerdo 180/S6(14-VI-2016), emitido en la sexta sesión ordinaria celebrada el 14 de junio de 2016 de la Comisión de Administración y de deja sin efecto cualquier disposición que se oponga al mismo.
 
 TERCERO. Para su mayor difusión, publíquese en las páginas de Intranet e Internet del Tribunal Electoral del Poder Judicial de la Federación.
