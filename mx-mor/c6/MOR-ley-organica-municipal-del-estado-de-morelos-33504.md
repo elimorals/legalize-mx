@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2023-06-07"
+last_updated: "2023-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -1845,9 +1845,21 @@ XI. Bajo la autorización y supervisión del Síndico, formular el inventario ge
 
 XII. Certificar, autorizar con su firma y publicar todos los reglamentos y disposiciones emanadas del Ayuntamiento;
 
-XIII. Certificar con su firma, copias de las actas que se levanten de las sesiones de Cabildo y entregarlas a cada uno de los regidores cuando así le sea requerido, en el término señalado en la presente Ley; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2023)</small>
 
-XIV. Las demás que le señale la presente Ley, las disposiciones reglamentarias municipales y las que dicten el Ayuntamiento o el Presidente Municipal.
+XIII. Expedir las constancias de residencia en los términos de lo dispuesto por el artículo 7 Bis de esta ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2023)</small>
+
+XIV. Expedir la carta de origen o constancia de identidad que soliciten los habitantes del municipio, los connacionales que radiquen en el extranjero o sus familiares, para los trámites ante el Servicio Exterior Mexicano;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2023)</small>
+
+XV. Certificar con su firma, copias de las actas que se levanten de las sesiones de cabildo y entregarlas a cada uno de los regidores cuando así le sea requerido, en el término señalado en la presente ley; y,
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2023)</small>
+
+XVI. Las demás que le señale la presente ley, las disposiciones reglamentarias municipales y las que dicten el ayuntamiento o el presidente municipal.
 
 ### CAPÍTULO II (SIC). DE LA TESORERÍA MUNICIPAL
 
@@ -4672,3 +4684,17 @@ CUARTO. Los municipios indígenas no sufrirán modificación respecto al número
 QUINTO. Para efectos de este año electoral, el Instituto Morelense de Procesos Electorales y Participación Ciudadana, entregará la lista de los distritos y municipios en los que cada partido político local postuló candidaturas a Diputadas o Diputados o a miembros de los Ayuntamientos, en su caso, a los partidos políticos treinta días hábiles antes de la declaratoria del inicio del periodo electoral.
 
 SEXTO. El Instituto Morelense de Procesos Electorales y Participación Ciudadana, deberá realizar los ajustes presupuestales necesarios para la implementación de las dos Comisiones creadas en el presente Decreto.
+
+P.O. 14 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL ONCE.- POR EL CUAL SE REFORMA EL ARTÍCULO 78 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, EN MATERIA DE LAS ATRIBUCIONES Y OBLIGACIONES DEL SECRETARIO MUNICIPAL”.]
+
+PRIMERA.- Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su publicación respectiva de conformidad con lo dispuesto por los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Los 36 municipios del estado de morelos en un plazo no mayor a 60 días naturales contados a partir de la entrada en vigor del presente decreto, deberán emitir el reglamento para la expedición de la carta de origen o constancia de identidad.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+QUINTA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
