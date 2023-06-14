@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-apoyo-alimentario-para-personas-con-discapacidad-113421"
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-09"
-last_updated: "2021-10-20"
+last_updated: "2023-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE APOYO ALIMENTARIO PARA PERSONAS CON DISCAPACIDAD PERMANENTE TOTAL Y EN POBREZA EXTREMA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de marzo de 2016.
 
@@ -35,7 +35,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
 
-ANTECEDENTES:…
+ANTECEDENTES:
+
+[...]
 
 Por lo anteriormente expuesto, esta LIII Legislatura ha tenido a bien expedir la siguiente:
 
@@ -97,9 +99,11 @@ XI. Padrón: Al listado de personas discapacitadas que reciban el Apoyo;
 
 XII. (DEROGADA, P.O. 20 DE OCTUBRE DE 2021)P
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2023)</small>
+
 ###### Artículo 6.
 
-Las discapacidades por razón de las cuales se puede ser Beneficiario del Programa, serán las siguientes:
+Las discapacidades por razón de las cuales se puede ser persona beneficiaria del Programa, serán las siguientes:
 
 Limitación para moverse o caminar y limitaciones para usar sus brazos y manos
 
@@ -183,17 +187,21 @@ Síndrome de Waardenburg
 
 Síndrome de Wildervanck
 
-### CAPÍTULO II. DEL PROGRAMA DE APOYO A LOS BENEFICIARIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO II. DEL PROGRAMA DE APOYO A LAS PERSONAS BENEFICIARIAS
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2023)</small>
 
 ###### Artículo 7.
 
-La Secretaría será la instancia responsable del otorgamiento del Apoyo a los Beneficiarios del Programa, para lo cual deberá garantizar los principios previstos en el artículo 4 de ésta Ley.
+La Secretaría será la instancia responsable del otorgamiento del apoyo a las personas las (sic) beneficiarias del Programa, para lo cual deberá garantizar los principios previstos en el artículo 4 de esta ley.
 
-> <small>(REFORMADO PRIMER PÁRARFO, P.O. 20 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2023)</small>
 
 ###### Artículo 8.
 
-Para ser beneficiario del programa, se deberán reunir los requisitos siguientes:
+Para ser una persona beneficiaria del Programa, se deberán reunir los requisitos siguientes:
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2021)</small>
 
@@ -209,17 +217,17 @@ III. (DEROGADA, P.O. 20 DE OCTUBRE DE 2021)
 
 IV. Acreditar la residencia mediante constancia expedida por los municipios del estado de Morelos.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2023)</small>
+
 ###### Artículo 9.
 
-En caso de que el Beneficiario sea menor de edad o esté impedido para realizar la petición, la persona que ejerza sobre éste la patria potestad, guarda y custodia o tutoría, deberá solicitar, a nombre de éste, la inclusión en el Programa.
+En caso de que la persona beneficiaria sea menor de edad o esté impedido (sic) para realizar la petición, la persona que ejerza sobre éste la patria potestad, guarda y custodia o tutoría, deberá solicitar, a nombre de éste, la inclusión en el Programa. No será impedimento para el otorgamiento de la prestación, si la persona que la representa recibe a su vez, recursos de un programa social federal o estatal.
 
-Si la persona que representa al Beneficiario, recibe a su vez recursos de un programa social federal o estatal, no será impedimento para el otorgamiento del Apoyo.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2023)</small>
 
 ###### Artículo 10.
 
-A partir del 1 de octubre, y hasta el 30 de noviembre de cada ejercicio fiscal, los beneficiarios del programa, deberán presentar ante la secretaría los requisitos previstos en las fracciones II y IV del artículo 8 de la presente ley.
+A partir del 1 de octubre, y hasta el 30 de noviembre de cada ejercicio fiscal, las personas que se consideren con derecho a recibir los beneficios del programa, deberán presentar ante la secretaría los requisitos previstos en las fracciones II y IV del artículo 8 de la presente ley.
 
 ### CAPÍTULO III. DE LAS ACCIONES DE LOS PODERES EJECUTIVO Y LEGISLATIVO
 
@@ -239,9 +247,11 @@ Corresponde al Congreso del Estado de Morelos, aprobar la partida presupuestal p
 
 El Ejecutivo del Estado, a través de sus Secretarías y Organismos, brindará asesoría a las personas con discapacidad que busquen acceder al Programa.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2023)</small>
+
 ###### Artículo 15.
 
-Corresponderá a la Secretaría la integración del Padrón, el cual deberá incluir campañas de credencialización, respetando en todo momento la legislación en materia de protección de datos personales.
+Corresponderá a la secretaría la integración del padrón de personas beneficiarias, el cual deberá incluir campañas de credencialización, respetando en todo momento la legislación en materia de protección de datos personales.
 
 ###### Artículo 16.
 
@@ -352,3 +362,11 @@ SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicaci
 TERCERA. El Poder Ejecutivo del Estado, adecuara sus reglamentos en un plazo de sesenta días contados a partir de la entrada en vigor del presente decreto.
 
 CUARTA. Se derogan todas las disposiciones de igual o menor rango jerárquicos que se opongan a la presente reforma.
+
+P.O. 14 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO NOVECIENTOS CINCUENTA Y NUEVE POR EL QUE SE REFORMAN LOS ARTÍCULOS 6, 7, 8, 9, 10 y 15 DE LA LEY DE APOYO ALIMENTARIO PARA PERSONAS CON DISCAPACIDAD PERMANENTE TOTAL Y EN POBREZA EXTREMA, EN MATERIA DE LENGUAJE INCLUYENTE, PARA QUE ESTA LEGISLATURA CONTRIBUYA A LA ELIMINACIÓN DE CUALQUIER CLASE DE VIOLENCIA Y DISCRIMINACIÓN EN CONTRA DE LAS MUJERES DE MORELOS, COMO LA QUE PRODUCE LA CULTURA PATRIARCAL EN EL USO DEL IDIOMA".]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
