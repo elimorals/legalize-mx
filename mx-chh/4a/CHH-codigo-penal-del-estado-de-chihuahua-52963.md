@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2023-04-12"
+last_updated: "2023-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2023.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2695,43 +2695,13 @@ A quien amenace a otro con causarle un mal en su persona, bienes, honor o derech
 
 Si las amenazas son dirigidas a personas menores de dieciocho años o a personas que no tienen capacidad para comprender el significado del hecho, las penas se incrementarán en dos terceras partes.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JUNIO DE 2023)</small>
 
 ### CAPÍTULO II. EXTORSIÓN
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
-
 ###### Artículo 204 Bis.
 
-A quien por cualquier conducto, con ánimo de lucro, obligare a otro, con violencia moral o intimidación, a realizar, omitir o tolerar un acto, en su perjuicio o de algún tercero, se le impondrán de cinco a treinta años de prisión y de cien a ochocientos días multa.
-
-Se impondrá prisión de treinta a setenta años, cuando en la comisión del delito se dé alguna de las siguientes modalidades:
-
-I. Se logre que la víctima o un tercero, entregue alguna cantidad de dinero o algún bien u objeto para evitar el daño con que se amenaza;
-
-II. Se cometa en contra de menor de edad o persona mayor de setenta años;
-
-III. Intervengan dos o más personas;
-
-IV. El activo se encuentre armado o porte instrumento peligroso;
-
-V. Se emplee violencia física;
-
-VI. Se realice desde el interior de un reclusorio o centro de reinserción social;
-
-VII. El sujeto activo del delito:
-
-a) Tenga alguna relación de confianza, laboral, de parentesco o de negocios con el pasivo o con quien este último esté ligado por algún vínculo;
-
-b) Sea, o haya sido, o se ostente sin serlo, integrante de alguna institución policial o servidor público en alguna de las áreas de prevención o persecución del delito, administración de justicia o reinserción social. En caso de que hubiere sido servidor público, se le aplicará la inhabilitación por un tiempo igual al de la pena de prisión impuesta, la cual comenzará a partir de que recobre su libertad. En caso de que el sujeto activo sea servidor público, se le impondrá, además, la destitución del cargo en cuanto esté firme la sentencia, o
-
-c) Porte vestimentas o instrumentos de identificación, de los utilizados por integrantes de instituciones de seguridad pública;
-
-VIII. El activo se ostente, por cualquier medio, como integrante de una asociación delictuosa o grupo criminal, real o ficticio;
-
-IX. El activo manifieste su pretensión de continuar obteniendo dinero o algún bien u objeto por concepto de cobro de cuotas de cualquier índole, adicionales a los exigidos originalmente por el ilícito, o
-
-X. Participen trabajadores de instituciones públicas o privadas que tengan acceso a bancos de datos personales y que los utilicen o los sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en cualquiera de sus modalidades.
+(DEROGADO, P.O. 14 DE JUNIO DE 2023)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
@@ -4821,6 +4791,56 @@ II. Al que permita o autorice, por cualquier medio, el ingreso o movilización d
 
 Si en la comisión de cualquiera de las conductas PREVISTAS EN LOS ARTÍCULOS ANTERIORES se afecta el estatus fitosanitario del Estado, las sanciones se incrementarán hasta en un tercio de la pena a imponer.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2023)</small>
+
+TÍTULO TRIGÉSIMO PRIMERO
+
+DELITOS PLURIOFENSIVOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO I. EXTORSIÓN
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2023)</small>
+
+###### Artículo 375.
+
+A quien por cualquier conducto, con ánimo de lucro, obligare a otro, con violencia moral o intimidación, a realizar, omitir o tolerar un acto, en su perjuicio o de algún tercero, se le impondrá de cinco a treinta años de prisión y de cien a ochocientos días multa.
+
+Se incrementará la pena de diez a treinta años, cuando en la comisión del delito se presente alguna de las siguientes circunstancias:
+
+I. Se cometa en contra de persona con discapacidad, migrante, menor de edad, adulto, adulto mayor de setenta años, indígena o mujer embarazada.
+
+II. Se logre que el sujeto pasivo o un tercero, entregue o deposite al activo o a otra persona que actúe en representación de este, en lugar determinado por estos, alguna cantidad de dinero o bienes, por concepto de cuota de cualquier índole.
+
+En el entendido de que por cuotas debe entenderse, el requerimiento de pago o entrada de bienes que indebidamente una persona haga a otra con el fin de que la primera no cause algún daño a la requerida o a las personas con quien esta mantenga vínculos que la determinen a protegerlas; a los bienes de cualquiera de estas; o, a las personas morales que se vinculen con cualquiera de ellas.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2023)</small>
+
+###### Artículo 376.
+
+Se incrementará la pena de quince a cuarenta años, cuando concurran los siguientes supuestos:
+
+I. Intervengan dos o más personas como sujetos activos del delito, bajo cualquiera de las modalidades de autoría o participación previstas en este Código.
+
+II. El activo se ostente, por cualquier medio, como integrante de una asociación delictuosa o grupo criminal, real o ficticio.
+
+III. Se emplee violencia física, en contra de la víctima o alguna de las personas con quien tuviera lazos de cualquier orden, que lo determinen a protegerla, o se utilice cualquier tipo de arma o instrumento que suponga peligro.
+
+IV. Porte vestimentas o instrumentos de identificación, de los utilizados por integrantes de instituciones de seguridad pública.
+
+V. Tenga una relación de confianza, laboral, parentesco o negocios con el pasivo, o con quien este último esté ligado por algún vínculo.
+
+VI. Participen trabajadores de instituciones públicas o privadas que tengan acceso a bancos de datos personales y que los utilicen o los sustraigan para sí o para terceros, con el objeto de cometer el delito en cualquiera de sus modalidades.
+
+VII. Si el sujeto pasivo o un tercero, entrega al activo o a otra persona que actúe en representación de este, o deposite en lugar determinado por estas, en dos o más ocasiones, alguna cantidad de dinero o bienes, por concepto de cuota o cualquier índole.
+
+VIII. Se realice desde el interior de un reclusorio o centro de reinserción social.
+
+IX. Sea, o haya sido, o se ostente sin serlo, integrante de alguna institución policial o servidor público en alguna de las áreas de prevención o persecución del delito, administración de justicia o reinserción social.
+
+X. En caso de que hubiere sido servidor público, se le aplicará la inhabilitación por un tiempo igual al de la pena de prisión impuesta, la cual comenzará a partir de que recobre su libertad. En caso de que el sujeto activo sea servidor público, se le impondrá, además, la destitución del cargo en cuanto este firme la sentencia.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -5776,6 +5796,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 12 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLYC/0520/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFCOD/0572/2023 II P.O., MEDIANTE EL CUAL SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
