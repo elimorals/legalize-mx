@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-organismo-publico-estatal-139030"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-06"
-last_updated: "2019-11-06"
+last_updated: "2023-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL ORGANISMO PUBLICO ESTATAL DESCENTRALIZADO DENOMINADO "OPERADOR DE CARRETERAS DE CUOTA", DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA ARTÍCULO PRIMERO DEL CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL ORGANISMO PÚBLICO ESTATAL DESCENTRALIZADO DENOMINADO OPERADOR DE CARRETERAS DE CUOTA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL ORGANISMO PÚBLICO ESTATAL DESCENTRALIZADO DENOMINADO “OPERADOR DE CARRETERAS DE CUOTA” DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2023 (ABROGADO).
 
 Código publicado en el Número 5755 del Periódico Oficial del Estado de Morelos, el miércoles 6 de noviembre de 2019.
 
@@ -248,3 +250,13 @@ EL DIRECTOR GENERAL DEL ORGANISMO PÚBLICO ESTATAL DESCENTRALIZADO DENOMINADO �
 ARQ. JAIME TOVAR ENRIQUEZ
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL ORGANISMO PÚBLICO ESTATAL DESCENTRALIZADO DENOMINADO OPERADOR DE CARRETERAS DE CUOTA”.]
+
+Artículo Primero. Se abroga el código de conducta del (sic) Operador de Carreteras de Cuota, publicado en el Periódico Oficial “Tierra y Libertad”, número 5755, de fecha 06 de noviembre del 2019.
+
+Articulo Segundo. El presente código de conducta, es de observancia obligatoria para todas las personas que desempeñen un empleo, cargo o comisión en el OCC y entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
