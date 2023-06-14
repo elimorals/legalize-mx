@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-inclusion-de-las-personas-con-discapacidad-del-1102
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-21"
-last_updated: "2020-10-21"
+last_updated: "2023-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2023.
 
 Ley Publicada en el Periódico Oficial del Estado de Chiapas, el lunes 21 de septiembre de 2015.
 
@@ -121,11 +121,9 @@ XXIX. Sistema DIF-Chiapas: Al Sistema para el Desarrollo Integral de la Familia 
 
 XXX. Trabajo Protegido: Al trabajo que realizan las personas con discapacidad que tienen un grado tal de limitación en sus capacidades que les impide cubrir los requerimientos mínimos de inserción laboral por lo que requiere la tutela de la familia, el sector público y privado para su desempeño en instalaciones apropiadas.
 
-(NOTA: EL 7 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 297/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIAPAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2020)</small>
-
-XXXI. ESPACIOS PRIVADOS DE USO PÚBLICO: SON ESPACIOS ABIERTOS O CERRADOS, DE PROPIEDAD PRIVADA QUE POR SU NATURALEZA, USO O AFECTACIÓN, SATISFACEN NECESIDADES DE USO PÚBLICO.
+XXXI. Espacios Privados de uso público: Son espacios abiertos o cerrados, de propiedad privada que por su naturaleza, uso o afectación, satisfacen necesidades de uso público.
 
 ###### Artículo 3.
 
@@ -363,25 +361,19 @@ XII. Las demás que dispongan otros ordenamientos.
 
 El Ejecutivo del Estado y los municipios determinarán, a través de sus dependencias competentes respectivas, la adecuación y modernización de las instalaciones que ocupan sus oficinas y dependencias, destinadas a brindar servicios de salud, educación, administración y procuración de justicia, actividades deportivas, culturales, recreativas o sociales, a fin de garantizar la libre movilidad, el libre tránsito, la seguridad y el Derecho de Uso Exclusivo de estos espacios por parte de las personas con discapacidad.
 
-(NOTA: EL 7 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 297/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIAPAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2023)</small>
 
 ###### Artículo 20.
 
 La Secretaría de Obras Públicas, el Instituto de la Infraestructura Física Educativa del Estado de Chiapas y las direcciones de desarrollo urbano o dependencias afines en los municipios, vigilarán que las construcciones o modificaciones públicas y privadas que se realicen en los espacios públicos y privados de uso público, cuenten con las facilidades arquitectónicas y de desarrollo urbano, adecuadas a las necesidades de las personas con discapacidad, de conformidad con las disposiciones aplicables en la materia.
 
-(NOTA: EL 7 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 297/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIAPAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2023)</small>
 
 ###### Artículo 21.
 
 El Programa Estatal de Desarrollo Urbano, contendrá lineamientos generales que establezcan la obligatoriedad de incorporar facilidades arquitectónicas y de señalización en la planificación, construcción y remodelación de la infraestructura urbana de carácter público y privado de uso público a fin de facilitar el tránsito, libre acceso, desplazamiento y uso de estos espacios por las personas con discapacidad.
 
-(NOTA: EL 7 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 297/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIAPAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2023)</small>
 
 ###### Artículo 22.
 
@@ -389,9 +381,7 @@ Las personas con Discapacidad Visual acompañadas de perros guías tendrán libr
 
 El acceso del perro guía a los lugares con pago de entrada o de peaje no implicará un pago adicional, salvo que su movilización constituya la prestación de un servicio agregado.
 
-(NOTA: EL 7 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 297/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIAPAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2023)</small>
 
 ###### Artículo 23.
 
@@ -820,3 +810,11 @@ Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de 
 Artículo Segundo. La Secretaría de Salud del Estado, deberá utilizar sistemas de comunicación inclusiva, como lengua de señas mexicana y otras, para difundir información por cualquier medio de comunicación, sobre la pandemia derivada del Covid-19, hasta en tanto dure la emergencia sanitaria decretada a nivel nacional el 30 de marzo de 2020 por el Consejo de Salubridad General, o por decreto posterior de la autoridad competente.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 197 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, CON EL OBJETO DE DAR CUMPLIMIENTO A LA RESOLUCIÓN EMITIDA POR LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LA ACCIÓN DE INCONSTITUCIONALIDAD NÚMERO 297/2020, EN MATERIA INCLUSIVA".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
