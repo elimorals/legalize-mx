@@ -4,7 +4,7 @@ identifier: "HID-ley-de-becas-del-estado-de-hidalgo-93961"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-22"
-last_updated: "2020-03-30"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE BECAS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE MARZO DE 2020 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 389 PUBLICADO EN EL P.O. DE 23 DE MARZO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 22 de abril de 2013.
 
@@ -91,9 +89,9 @@ I.- Homogeneizar los lineamientos, criterios y procedimientos para la tramitaci�
 
 II.- Organizar y regular el funcionamiento del Comité de Becas del Estado de Hidalgo;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-III.- Apoyar a las y los estudiantes más destacados y talentosos, así como a las y los estudiantes de escasos recursos económicos, con discapacidad, indígenas o hijos de migrantes para que puedan iniciar, continuar o concluir sus estudios en el nivel que les corresponda y prevenir la deserción escolar;
+III.- Apoyar a las y los estudiantes más destacados y talentosos, así como a las y los estudiantes de escasos recursos económicos, con discapacidad, embarazadas o en ejercicio de la maternidad, personas indígenas o hijos de migrantes para que puedan iniciar, continuar o concluir sus estudios en el nivel que les corresponda y prevenir la deserción escolar;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
 
@@ -295,9 +293,9 @@ II.- Excelencia.- Es la beca en dinero, dirigida a alumnas y alumnos inscritos e
 
 III.- Exención.- Es la beca en especie, dirigida a alumnas y alumnos de educación inicial, preescolar, primaria, secundaria, media superior y superior de escuelas particulares, con autorización o reconocimiento de validez oficial de estudios otorgados por la autoridad educativa estatal, consistente en la dispensa del pago total o parcial de inscripción y/o colegiaturas en un ciclo escolar, que acrediten buen aprovechamiento escolar o necesidad por sus condiciones socioeconómicas.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
 
-De las fracciones antes citadas, el Comité correspondiente asignará el mayor número posible de becas que se encuentren disponibles, a las alumnas o alumnos en situación de pobreza, con alguna discapacidad, indígenas o sean hijos de migrantes.
+De las fracciones antes citadas, el Comité correspondiente asignará el mayor número posible de becas que se encuentren disponibles, a las alumnas o alumnos en situación de pobreza, con alguna discapacidad, embarazadas o en ejercicio de la maternidad, personas indígenas o que sean hijos de migrantes.
 
 ### CAPÍTULO II
 
@@ -311,13 +309,17 @@ Para el otorgamiento de becas prevalecerán los siguientes criterios:
 
 I.- Que la alumna o alumno se encuentre en situación de pobreza, con alguna discapacidad, sea indígena o hija o hijo de migrantes;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+II.- Que la alumna se encuentre embarazada o ejerciendo su maternidad;
+
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
 
-II.- Cumplir con los requisitos establecidos en la convocatoria;
+III.- Cumplir con los requisitos establecidos en la convocatoria;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2020)</small>
 
-III.- Los demás que establezca el Comité.
+IV.- Los demás que establezca el Comité.
 
 ###### ARTÍCULO 15.
 
@@ -415,9 +417,15 @@ II.- Que la alumna o alumno tenga una discapacidad, sea indígena o hija o hijo 
 
 III.- En casos de orfandad;
 
-IV.- Cuando la familia haya sufrido alguna afectación patrimonial por alguna contingencia o desastre natural en el ciclo escolar inmediato anterior y vigente; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-V.- Los casos que el Comité considere como especiales.
+IV.- Cuando la familia haya sufrido alguna afectación patrimonial por alguna contingencia o desastre natural en el ciclo escolar inmediato anterior y vigente;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+V.- Que la alumna se encuentre embarazada o ejerciendo su maternidad; y
+
+VI.- Los casos que el Comité considere como especiales.
 
 ###### ARTÍCULO 23.
 
@@ -520,3 +528,9 @@ Segundo. Dentro del plazo de sesenta días hábiles a partir de la entrada en vi
 Tercero. El titular del Ejecutivo Estatal expedirá el Reglamento de la presente Ley dentro de los noventa días hábiles, posteriores a la fecha de la entrada en vigor.
 
 Cuarto. Las disposiciones relativas al otorgamiento de becas contenidas en los Acuerdos por los que se emitieron Reconocimiento de Validez Oficial de Estudios en los programas educativos del nivel medio superior y superior, por la autoridad educativa local con anterioridad a la entrada en vigor del presente decreto, será aplicable lo que dispone la presente Ley a partir del ejercicio fiscal 2020, por lo que los particulares deberán tomar las providencias necesarias.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 532 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE BECAS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
