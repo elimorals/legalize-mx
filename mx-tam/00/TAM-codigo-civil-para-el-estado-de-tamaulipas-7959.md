@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2023-02-02"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JUNIO DE 2023 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -177,9 +179,9 @@ ART. 33.- La titularidad de las Oficialías del Registro Civil estará a cargo d
 
 Los Oficiales sólo asentarán en las actas lo que deba ser declarado en el acto preciso a que ellas se refieren y lo que está expresamente previsto en la ley.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2023)</small>
 
-ART. 34.- Serán objeto de inscripción en el Registro Civil, el nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción, sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la pérdida o la limitación de la capacidad legal para administrar bienes y las dictadas en las informaciones testimoniales para acreditar hechos relativos al nacimiento. Las inscripciones se harán mecanográficamente y por quintuplicado.
+ART. 34.- Serán objeto de inscripción en el Registro Civil, el nacimiento, reconocimiento de hijos, adopción, matrimonio, concubinato, divorcio, defunción, sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o la limitación de la capacidad legal para administrar bienes y las dictadas en las informaciones testimoniales para acreditar hechos relativos al nacimiento. Las inscripciones se harán mecanográficamente y por quintuplicado.
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2022)</small>
 
@@ -513,6 +515,18 @@ ART. 103.- Los Oficiales del Registro Civil sólo podrán negarse a autorizar un
 
 ART. 104.- El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa equivalente a una vez el valor diario de la Unidad de Medida y Actualización, y en caso de reincidencia con la destitución de su cargo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2023)</small>
+
+### CAPITULO V BIS. ACTAS DE CONCUBINATO
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+ART. 104 Bis.- Las parejas que deseen obtener un acta de concubinato podrán solicitarlo al Oficial del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+ART. 104 Ter.- Las actas de concubinato se emitirán cuando se cumplan las condiciones para la existencia de esa institución jurídica establecidas en este Código y servirán para acreditar el vínculo familiar ante cualquier persona pública o privada.
+
 ### CAPITULO VI. ACTAS DE DIVORCIO
 
 ART. 105.- Ejecutoriada la sentencia de divorcio, el Juez remitirá copia certificada de ella al Oficial del Registro Civil que corresponda, quien levantará el acta respectiva.
@@ -575,6 +589,10 @@ ART. 122.- Cuando se recobre la capacidad legal para administrar, se revoque la 
 
 ART. 123.- Las actas a que se refiere el artículo 121 contendrán: el nombre, apellidos, edad, estado civil y nacionalidad de la persona de que se trate; los puntos resolutivos de la sentencia, fecha de ésta y tribunal que la dictó. Asimismo se harán las anotaciones correspondientes en todos los casos en que sea procedente hacerlas, según los cambios del estado civil.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2023)</small>
+
+## TITULO TERCERO. DEL MATRIMONIO Y EL CONCUBINATO
+
 ### CAPITULO I. DE LOS ESPONSALES
 
 ART. 124.- (DEROGADO, P.O. 13 DE JULIO DE 2021)
@@ -588,8 +606,6 @@ ART. 127.- (DEROGADO, P.O. 13 DE JULIO DE 2021)
 ART. 128.- (DEROGADO, P.O. 13 DE JULIO DE 2021)
 
 ART. 129.- (DEROGADO, P.O. 13 DE JULIO DE 2021)
-
-## TITULO TERCERO. DEL MATRIMONIO
 
 ### CAPITULO II. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
@@ -939,6 +955,122 @@ ART. 219.- La acción de nulidad motivada por el error, sólo puede deducirse po
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
+###### ARTÍCULO 220.
+
+El matrimonio será nulo si uno o ambos de las personas contrayentes son menores de dieciocho años de edad.
+
+ART. 221.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
+
+ART. 222.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
+
+ART. 223.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
+
+ART. 224.- El parentesco de consanguinidad no dispensado anula el matrimonio. La acción que nace de esta causa de nulidad puede deducirse por los ascendientes de los cónyuges y por el Ministerio Público, pero si antes de declararse ejecutoriamente la nulidad se obtuviese la dispensa quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que se contrajo.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+La acción que dimana de la contravención al artículo 139 puede ejercitarse en todo tiempo por el Ministerio Público.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+ART. 225.- La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, puede ejercitarse por los ascendientes de los cónyuges y por el Ministerio Público.
+
+ART. 226.- La acción de nulidad que nace de la causa prevista en la fracción V del artículo 138 podrá deducirse por el cónyuge ofendido o por el Ministerio Público en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si este matrimonio se ha disuelto por muerte del cónyuge ofendido.
+
+En uno y otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+
+ART. 227.- La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
+
+ART. 228.- El miedo, la violencia, así como cualquier otra circunstancia que impida la expresión espontánea de la voluntad serán causa de nulidad del matrimonio si concurren algunas de las circunstancias siguientes:
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Que importen peligro de perder o lesionar la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
+
+II.- Que haya sido hecho al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
+
+III.- Que haya subsistido al tiempo de celebrarse el matrimonio.
+
+La acción que nace de estas causas de nulidad sólo puede deducirse por el cónyuge agraviado dentro de sesenta días desde la fecha en que cesaron cualquiera de las causas.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Lo anterior no excluye a terceros de denunciar la situación de violencia que haya sido causal del matrimonio y que mantenga a alguno de los cónyuges en un nivel de miedo tal, que lo inhiba de ejercitar la acción de nulidad.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+El Instituto de la Mujer Tamaulipeca, el Sistema para el Desarrollo Integral de la Familia de Tamaulipas y el Instituto de la Juventud de Tamaulipas podrán ser coadyuvantes en la denuncia.
+
+ART. 229.- La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del artículo 138, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
+
+ART. 230.- Tienen derecho de pedir la nulidad a que se refiere la fracción X del artículo 138, el otro cónyuge o el tutor del incapacitado.
+
+ART. 231.- El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
+
+ART. 232.- La nulidad que se funde en la falta de las solemnidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
+
+ART. 233.- No se admitirá demanda de nulidad por falta de formalidades en el acta de matrimonio celebrado ante el Oficial del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+ART. 234.- El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es transmisible por herencia ni de cualquier otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquel a quien heredan.
+
+ART. 235.- Ejecutoriada la sentencia que declare la nulidad, el tribunal, de oficio, enviará copia certificada de ella al Oficial del Registro Civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el Tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
+
+ART. 236.- El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
+
+ART. 237.- Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca de la nulidad del matrimonio.
+
+ART. 238.- El matrimonio contraído de buena fe por parte de ambos cónyuges, produce a favor de éstos todos sus efectos mientras dure; y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y dentro de los trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
+
+ART. 239.- Si ha habido buena fe de parte de uno solo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos.
+
+Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto de los hijos.
+
+ART. 240.- La buena fe se presume, para destruir esta presunción se requiere prueba plena.
+
+ART. 241.- Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, se podrán dictar las medidas provisionales que establece el artículo 259.
+
+ART. 242.- Una vez que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y la custodia de los hijos y el juez resolverá a su criterio, de acuerdo con las circunstancias del caso.
+
+ART. 243.- El juez en todo tiempo podrá modificar la determinación a que se refiere el artículo anterior atendiendo a las nuevas circunstancias que en el caso se lleguen a presentar y mirando en todo por el bien de los hijos.
+
+ART. 244.- Si el régimen económico del matrimonio es el de sociedad conyugal, se aplicarán las siguientes disposiciones:
+
+I.- La sociedad se considerará subsistente hasta que cause ejecutoria la sentencia que decrete la nulidad del matrimonio, si los dos cónyuges procedieron de buena fe;
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+II.- Cuando uno solo de los cónyuges tuvo buena fe, la sociedad subsistirá también hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge de buena fe; en caso contrario se considerará nula desde la celebración del matrimonio;
+
+III.- Si los dos cónyuges procedieron de mala fe, la sociedad se considerará nula desde la celebración del matrimonio quedando a salvo los derechos que un tercero tuviere contra el fondo social;
+
+IV.- Las utilidades si las hubiere, una vez que cause ejecutoria la sentencia que declare la nulidad del matrimonio, se aplicarán a ambos cónyuges si los dos fueren de buena fe;
+
+V.- El consorte que hubiere obrado de mala fe no tendrá parte en la utilidades, las cuales se aplicarán a los hijos, y si no los hubiere, al otro cónyuge;
+
+VI.- Si los dos consortes procedieron de mala fe, las utilidades se aplicarán a los hijos, y si no los hubiere se repartirán entre los consortes en proporción de lo que cada uno de ellos llevó al matrimonio.
+
+ART. 245.- Declarada la nulidad del matrimonio, se observarán respecto de las donaciones antenupciales las reglas siguientes:
+
+I.- Las hechas por un tercero a los cónyuges podrán ser revocadas;
+
+II.- Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos.
+
+III.- Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes;
+
+IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+ART. 246.- Si al declararse la nulidad del matrimonio la mujer estuviere embarazada, se tomarán las precauciones que este Código señala en materia de Derecho Sucesorio cuando la viuda quede en cinta.
+
+ART. 247.- No será nulo el matrimonio y sólo dará lugar a la sanción administrativa que fije el Reglamento del Registro Civil:
+
+I.- Cuando se haya contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
+
+II.- Cuando no se haya otorgado la previa dispensa que requiere el artículo 141 y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 140 y 266.
+
 ### CAPITULO XII. DEL DIVORCIO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2021)</small>
@@ -1125,21 +1257,35 @@ ART. 263.- Ejecutoriada una sentencia de divorcio, el Juez remitirá copia de el
 
 Habiendo causado ejecutoria el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2023)</small>
 
-ART. 264.- En caso de divorcio, el Juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar o carezca de bienes; tomando en cuenta las siguientes circunstancias:
+ART. 264.- En caso de divorcio, el Juez resolverá sobre el pago de alimentos a favor del cónyuge o concubino que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar o carezca de bienes; tomando en cuenta las siguientes circunstancias:
 
-I.- La edad y el estado de salud de los cónyuges;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+I.- La edad y el estado de salud de los cónyuges o concubinos;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2015)</small>
 
 II.- Su calificación profesional y posibilidad de acceso a un empleo;
 
-III.- Duración del matrimonio y dedicación pasada y futura a la familia;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-IV.- Colaboración con su trabajo en las actividades del cónyuge;
+III.- Duración del matrimonio o concubinato y dedicación pasada y futura a la familia;
 
-V.- Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-VI.- Las demás obligaciones que tenga el cónyuge deudor.
+IV.- Colaboración con su trabajo en las actividades del cónyuge o concubino;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+V.- Medios económicos de uno y otro cónyuge o concubino, así como de sus necesidades; y
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+VI.- Las demás obligaciones que tenga el deudor.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
 
 En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato o haya transcurrido un término igual a la duración del matrimonio.
 
@@ -1151,125 +1297,17 @@ ART. 266.- En virtud del divorcio, los cónyuges recobrarán su entera capacidad
 
 ART. 267.- La muerte de uno de los cónyuges pone fin al juicio de divorcio y los herederos del fallecido tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
-ART. 268.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 1987)
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE JUNIO DE 2023)</small>
+
+### CAPITULO XIII. DEL CONCUBINATO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2023)</small>
+
+ART. 268.- El concubinato es el vínculo jurídico que se genera entre dos personas que, sin tener ningún vínculo matrimonial, han tenido hijos en común o han vivido juntos durante los dos años anteriores.
 
 > <small>(REFORMADA SU DENOMINACIÓN. P.O. 24 DE JUNIO DE 2008)</small>
 
-###### ARTÍCULO 220.
-
-El matrimonio será nulo si uno o ambos de las personas contrayentes son menores de dieciocho años de edad.
-
-ART. 221.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
-
-ART. 222.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
-
-ART. 223.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
-
-ART. 224.- El parentesco de consanguinidad no dispensado anula el matrimonio. La acción que nace de esta causa de nulidad puede deducirse por los ascendientes de los cónyuges y por el Ministerio Público, pero si antes de declararse ejecutoriamente la nulidad se obtuviese la dispensa quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que se contrajo.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-La acción que dimana de la contravención al artículo 139 puede ejercitarse en todo tiempo por el Ministerio Público.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 225.- La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, puede ejercitarse por los ascendientes de los cónyuges y por el Ministerio Público.
-
-ART. 226.- La acción de nulidad que nace de la causa prevista en la fracción V del artículo 138 podrá deducirse por el cónyuge ofendido o por el Ministerio Público en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si este matrimonio se ha disuelto por muerte del cónyuge ofendido.
-
-En uno y otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
-
-ART. 227.- La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
-
-ART. 228.- El miedo, la violencia, así como cualquier otra circunstancia que impida la expresión espontánea de la voluntad serán causa de nulidad del matrimonio si concurren algunas de las circunstancias siguientes:
-
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-I.- Que importen peligro de perder o lesionar la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
-
-II.- Que haya sido hecho al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
-
-III.- Que haya subsistido al tiempo de celebrarse el matrimonio.
-
-La acción que nace de estas causas de nulidad sólo puede deducirse por el cónyuge agraviado dentro de sesenta días desde la fecha en que cesaron cualquiera de las causas.
-
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-Lo anterior no excluye a terceros de denunciar la situación de violencia que haya sido causal del matrimonio y que mantenga a alguno de los cónyuges en un nivel de miedo tal, que lo inhiba de ejercitar la acción de nulidad.
-
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-El Instituto de la Mujer Tamaulipeca, el Sistema para el Desarrollo Integral de la Familia de Tamaulipas y el Instituto de la Juventud de Tamaulipas podrán ser coadyuvantes en la denuncia.
-
-ART. 229.- La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del artículo 138, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
-
-ART. 230.- Tienen derecho de pedir la nulidad a que se refiere la fracción X del artículo 138, el otro cónyuge o el tutor del incapacitado.
-
-ART. 231.- El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
-
-ART. 232.- La nulidad que se funde en la falta de las solemnidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
-
-ART. 233.- No se admitirá demanda de nulidad por falta de formalidades en el acta de matrimonio celebrado ante el Oficial del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 234.- El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es transmisible por herencia ni de cualquier otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquel a quien heredan.
-
-ART. 235.- Ejecutoriada la sentencia que declare la nulidad, el tribunal, de oficio, enviará copia certificada de ella al Oficial del Registro Civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el Tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
-
-ART. 236.- El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
-
-ART. 237.- Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca de la nulidad del matrimonio.
-
-ART. 238.- El matrimonio contraído de buena fe por parte de ambos cónyuges, produce a favor de éstos todos sus efectos mientras dure; y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y dentro de los trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
-
-ART. 239.- Si ha habido buena fe de parte de uno solo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos.
-
-Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto de los hijos.
-
-ART. 240.- La buena fe se presume, para destruir esta presunción se requiere prueba plena.
-
-ART. 241.- Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, se podrán dictar las medidas provisionales que establece el artículo 259.
-
-ART. 242.- Una vez que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y la custodia de los hijos y el juez resolverá a su criterio, de acuerdo con las circunstancias del caso.
-
-ART. 243.- El juez en todo tiempo podrá modificar la determinación a que se refiere el artículo anterior atendiendo a las nuevas circunstancias que en el caso se lleguen a presentar y mirando en todo por el bien de los hijos.
-
-ART. 244.- Si el régimen económico del matrimonio es el de sociedad conyugal, se aplicarán las siguientes disposiciones:
-
-I.- La sociedad se considerará subsistente hasta que cause ejecutoria la sentencia que decrete la nulidad del matrimonio, si los dos cónyuges procedieron de buena fe;
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-II.- Cuando uno solo de los cónyuges tuvo buena fe, la sociedad subsistirá también hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge de buena fe; en caso contrario se considerará nula desde la celebración del matrimonio;
-
-III.- Si los dos cónyuges procedieron de mala fe, la sociedad se considerará nula desde la celebración del matrimonio quedando a salvo los derechos que un tercero tuviere contra el fondo social;
-
-IV.- Las utilidades si las hubiere, una vez que cause ejecutoria la sentencia que declare la nulidad del matrimonio, se aplicarán a ambos cónyuges si los dos fueren de buena fe;
-
-V.- El consorte que hubiere obrado de mala fe no tendrá parte en la utilidades, las cuales se aplicarán a los hijos, y si no los hubiere, al otro cónyuge;
-
-VI.- Si los dos consortes procedieron de mala fe, las utilidades se aplicarán a los hijos, y si no los hubiere se repartirán entre los consortes en proporción de lo que cada uno de ellos llevó al matrimonio.
-
-ART. 245.- Declarada la nulidad del matrimonio, se observarán respecto de las donaciones antenupciales las reglas siguientes:
-
-I.- Las hechas por un tercero a los cónyuges podrán ser revocadas;
-
-II.- Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos.
-
-III.- Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes;
-
-IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 246.- Si al declararse la nulidad del matrimonio la mujer estuviere embarazada, se tomarán las precauciones que este Código señala en materia de Derecho Sucesorio cuando la viuda quede en cinta.
-
-ART. 247.- No será nulo el matrimonio y sólo dará lugar a la sanción administrativa que fije el Reglamento del Registro Civil:
-
-I.- Cuando se haya contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
-
-II.- Cuando no se haya otorgado la previa dispensa que requiere el artículo 141 y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 140 y 266.
+## TITULO IV. DEL PARENTESCO, DE LOS ALIMENTOS Y DE LA VIOLENCIA FAMILIAR
 
 ### CAPITULO I. DEL PARENTESCO
 
@@ -1415,8 +1453,6 @@ En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Pr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JUNIO DE 2008)</small>
 
-## TITULO IV. DEL PARENTESCO, DE LOS ALIMENTOS Y DE LA VIOLENCIA FAMILIAR
-
 ### CAPITULO III. DE LA VIOLENCIA FAMILIAR
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
@@ -1490,6 +1526,8 @@ II.- Cuando al momento de dictar sentencia condenatoria, la pensión de alimento
 III.- Cuando el deudor alimentario, una vez condenado, demuestra haber cumplido con su obligación alimentaria, por un lapso de sesenta días y habiendo también demostrado que la pensión está garantizada en lo futuro.
 
 El Juez ordenará a petición de parte al Registro Civil del Estado la cancelación de la inscripción en el Registro de Deudores Alimentarios Morosos.
+
+## TITULO QUINTO. DE LA FILIACION Y PATERNIDAD
 
 ### CAPITULO I. DE LA FILIACION
 
@@ -1807,8 +1845,6 @@ ART. 358.- Las acciones de que hablan los tres artículos que preceden, prescrib
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)</small>
 
-## TITULO QUINTO. DE LA FILIACION Y PATERNIDAD
-
 ### CAPITULO III. DE LA ADOPCION
 
 ART. 359.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
@@ -1864,6 +1900,8 @@ ART. 379 BIS.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONE
 ART. 379 TER.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
 
 ART. 379 QUATER.- (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS, P.O. 4 DE JULIO DE 2012)
+
+## TITULO SEXTO. DE LA PATRIA POTESTAD
 
 ### CAPITULO I. DE LOS EFECTOS DE LA PATRIA POTESTAD
 
@@ -2117,8 +2155,6 @@ Estas medidas se tomarán a instancia de las personas interesadas, del menor cua
 
 ART. 412.- Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes incluso los frutos y los productos que les pertenezcan.
 
-## TITULO SEXTO. DE LA PATRIA POTESTAD
-
 ### CAPITULO III. DE LOS MODOS DE EXTINGUIRSE Y SUSPENDERSE LA PATRIA POTESTAD
 
 ART. 413.- La patria potestad se extingue:
@@ -2184,6 +2220,8 @@ II.- Por ausencia declarada en forma;
 III.- Por sentencia condenatoria que imponga como pena esta suspensión.
 
 ART. 418.- La patria potestad no es renunciable pero aquellos a quienes corresponda ejercerla pueden excusarse cuando por su mal estado habitual de salud no puedan atender debidamente a su desempeño.
+
+## TITULO SEPTIMO. DE LA TUTELA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -2272,8 +2310,6 @@ ART. 445.- Lo dispuesto en el artículo anterior no regirá cuando el testador h
 ART. 446.- Deben acatarse las reglas, limitaciones y condiciones dispuestas por el testador para el ejercicio de la tutela; pero el Juez, con audiencia del Ministerio Público, podrá modificarlas o dispensar su observancia si son contrarias a la ley o perjudiciales para los menores.
 
 ART. 447.- Si por cualquier motivo faltare temporalmente el tutor testamentario, el Juez designará un tutor interino.
-
-## TITULO SEPTIMO. DE LA TUTELA
 
 ### CAPITULO III. DE LA TUTELA LEGITIMA
 
@@ -2705,6 +2741,8 @@ ART. 562.- Todas las acciones por hechos relativos a la administración de la tu
 
 ART. 563.- Si la tutela hubiera fenecido durante la minoridad, el menor podrá ejercer las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
 
+## TITULO OCTAVO. DE LOS AUSENTES E IGNORADOS
+
 ### CAPITULO I. DE LAS MEDIDAS PROVISIONALES
 
 ART. 564.- El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado constituido antes o después de su partida, se tendrá como presente para todos los efectos civiles, y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder.
@@ -2812,8 +2850,6 @@ ART. 588.- Si hubiere algunas noticias u oposición, el Juez a su arbitrio no de
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ART. 589.- La declaración de ausencia, se publicará por una vez en el periódico de mayor circulación en el Estado, observándose, en su caso, lo dispuesto en los dos últimos párrafos del artículo 565. Cada tres meses, hasta que se declare la presunción de muerte se publicará un edicto en la misma forma.
-
-## TITULO OCTAVO. DE LOS AUSENTES E IGNORADOS
 
 ### CAPITULO III. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
 
@@ -3005,6 +3041,8 @@ ART. 632 Bis 8.- En todo lo no previsto en este Capítulo, se aplicarán supleto
 
 ART. 632 Bis 9.- Contra la resolución que declare la ausencia no procederá recurso alguno; contra la que la niegue procederá el recurso de apelación.
 
+## TITULO NOVENO. DEL PATRIMONIO DE LA FAMILIA
+
 ### CAPITULO UNICO
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
@@ -3131,6 +3169,20 @@ ART. 658.- Extinguido el patrimonio de la familia, los bienes que lo formaban vu
 
 ART. 659.- Las anotaciones y el registro que haga la Oficina del Registro Público con motivo de este Título serán hechas sin gasto alguno para el interesado.
 
+# LIBRO SEGUNDO. DE LOS BIENES
+
+## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+ART. 660.- Son bienes las cosas que pueden ser objeto de apropiación.
+
+ART. 661.- Pueden ser objeto de apropiación todas las cosas que no estén excluidas del comercio.
+
+ART. 662.- Las cosas pueden estar fuera del comercio por su naturaleza o por disposición de la ley.
+
+ART. 663.- Están fuera del comercio por su naturaleza las que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la ley las que ella declara irreductibles a propiedad particular.
+
+## TITULO SEGUNDO. CLASIFICACION DE LOS BIENES
+
 ### CAPITULO I. DE LOS BIENES INMUEBLES
 
 ART. 664.- Son bienes inmuebles:
@@ -3161,8 +3213,6 @@ XII.- Los derechos reales sobre inmuebles.
 
 ART. 665.- Los bienes muebles, por su naturaleza, que se hayan considerado como inmuebles, conforme a lo dispuesto en varias fracciones del artículo anterior, recobrarán su calidad de muebles cuando el mismo dueño los separe del edificio, salvo el caso de que en el valor de éste se haya computado el de aquéllos, para constituir algún derecho real a favor de un tercero.
 
-## TITULO NOVENO. DEL PATRIMONIO DE LA FAMILIA
-
 ### CAPITULO II. DE LOS BIENES MUEBLES
 
 ART. 666.- Los bienes son muebles por su naturaleza o por disposición de la Ley.
@@ -3183,20 +3233,6 @@ ART. 673.- Cuando se use de las palabras muebles o bienes muebles de una casa se
 
 ART. 674.- Cuando por la redacción de un testamento o de un convenio se descubre que el testador o las partes contratantes han dado a las palabras mueble o bienes inmuebles una significación diversa de la fijada en los artículos anteriores, se estará a lo dispuesto en el testamento o convenio.
 
-# LIBRO SEGUNDO. DE LOS BIENES
-
-## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
-
-ART. 660.- Son bienes las cosas que pueden ser objeto de apropiación.
-
-ART. 661.- Pueden ser objeto de apropiación todas las cosas que no estén excluidas del comercio.
-
-ART. 662.- Las cosas pueden estar fuera del comercio por su naturaleza o por disposición de la ley.
-
-ART. 663.- Están fuera del comercio por su naturaleza las que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la ley las que ella declara irreductibles a propiedad particular.
-
-## TITULO SEGUNDO. CLASIFICACION DE LOS BIENES
-
 ### CAPITULO III. DE LOS BIENES CONSIDERADOS SEGÚN LAS PERSONAS A QUIENES PERTENECEN
 
 ART. 675.- Los bienes pueden ser propiedad de personas jurídicas de orden público o propiedad de particulares.
@@ -3214,6 +3250,8 @@ ART. 679.- Son bienes vacantes los inmuebles que no tienen dueño cierto y conoc
 ART. 680.- Los bienes son fungibles o no fungibles. Pertenecen a la primera clase los que puedan ser reemplazados por otros de la misma especie, calidad y cantidad. Los no fungibles son los que no pueden ser substituidos por otros de la misma especie, calidad y cantidad.
 
 ART. 681.- Pueden también los bienes ser consumibles o no consumibles, según que se agoten o no por el primer uso.
+
+## TITULO TERCERO. DE LA POSESION Y USUCAPION
 
 ### CAPITULO I. DE LA POSESION
 
@@ -3447,7 +3485,7 @@ III.- Porque la persona a cuyo favor ocurre la usucapión reconozca expresamente
 
 ART. 742.- El efecto de la interrupción es inutilizar, para la usucapión, todo el tiempo transcurrido antes de ella.
 
-## TITULO TERCERO. DE LA POSESION Y USUCAPION
+## TITULO CUARTO. DE LA PROPIEDAD
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -3514,8 +3552,6 @@ ART. 769.- Si el reclamante no obtiene sentencia definitiva favorable o no ocurr
 ART. 770.- Aun cuando por alguna circunstancia especial fuere necesario, a juicio de la autoridad la conservación del bien, el que halló éste recibirá el precio y se le pagarán los gastos que haya hecho.
 
 ART. 771.- La venta se hará siempre en almoneda pública.
-
-## TITULO CUARTO. DE LA PROPIEDAD
 
 ### CAPITULO III. DE LOS BIENES VACANTES
 
@@ -3819,6 +3855,8 @@ ART. 883.- La división de bienes inmuebles es nula si no se hace con las mismas
 
 ART. 884.- Son aplicables a la división entre partícipes las reglas concernientes a la partición de herencias.
 
+## TITULO QUINTO. DEL USUFRUCTO, DEL USO Y DE LA HABITACION
+
 ### CAPITULO I. DEL USUFRUCTO EN GENERAL
 
 ART. 885.- El usufructo es el derecho real, temporal, vitalicio por naturaleza, que faculta a su titular para usar y disfrutar de bienes ajenos, sin alterar su forma ni substancia.
@@ -3868,8 +3906,6 @@ ART. 904.- El usufructuario puede hacer mejoras útiles y puramente voluntarias,
 ART. 905.- El propietario puede enajenar los bienes sujetos a usufructo, con la condición de que éste se conserve.
 
 ART. 906.- El usufructuario goza del derecho del tanto en los mismos términos que el copropietario.
-
-## TITULO QUINTO. DEL USUFRUCTO, DEL USO Y DE LA HABITACION
 
 ### CAPITULO III. DE LAS OBLIGACIONES DEL USUFRUCTUARIO
 
@@ -4019,6 +4055,8 @@ ART. 956.- Si el usuario consume todos los frutos de los bienes, o el que tiene 
 
 ART. 957.- Si los frutos que quedan al propietario no alcanzan a cubrir los gastos y cargas, la parte que falte será cubierta por el usuario, o por el que tiene derecho a la habitación.
 
+## TITULO SEXTO. DE LAS SERVIDUMBRES
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ART. 958.- La servidumbre es un derecho real impuesto sobre un inmueble en beneficio de otro perteneciente a distinto dueño.
@@ -4056,8 +4094,6 @@ ART. 970.- Lo dispuesto en el artículo anterior es aplicable al caso en que sea
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
 ART. 971.- Todos los propietarios que participen del beneficio proveniente de las obras de que tratan los artículos anteriores, están obligados a contribuir al gasto de su ejecución en proporción a su interés y a juicio de peritos. Los que por su culpa hubieren ocasionado el daño, serán responsables de los gastos.
-
-## TITULO SEXTO. DE LAS SERVIDUMBRES
 
 ### CAPITULO III. DE LA SERVIDUMBRE LEGAL DE ACUEDUCTO
 
@@ -4211,6 +4247,10 @@ ART. 1021.- Si entre los propietarios hubiere alguno contra quien por las leyes 
 
 ART. 1022.- El modo de usar la servidumbre puede prescribirse en el tiempo y de la manera que la servidumbre misma.
 
+# LIBRO TERCERO. DE LAS OBLIGACIONES
+
+## TITULO PRIMERO. REGLAS COMUNES
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ART. 1023.- La obligación es el vínculo de derecho por el cual una persona está sujeta a una prestación o a una abstención respecto de otra.
@@ -4242,14 +4282,6 @@ ART. 1030.- Cuando la obligación no sea satisfecha voluntariamente, el acreedor
 ART. 1031.- Cuando el acreedor exija el cumplimiento de la obligación, puede demandar también por el pago de los daños y perjuicios moratorios.
 
 ### CAPITULO II. DEL OBJETO DE LAS OBLIGACIONES
-
-# LIBRO TERCERO. DE LAS OBLIGACIONES
-
-## TITULO PRIMERO. REGLAS COMUNES
-
-### CAPITULO III. MODALIDADES DE LAS OBLIGACIONES
-
-### CAPITULO IV. DEL CUMPLIMIENTO DE LAS OBLIGACIONES
 
 #### Sección I
 
@@ -4331,7 +4363,7 @@ ART. 1046.- El que estuviere obligado a no hacer alguna cosa, quedará sujeto al
 
 ART. 1047.- Si de dos obligaciones recíprocas nacidas de un mismo negocio jurídico, la de hacer o de no hacer se extingue porque una causa fortuita o de fuerza mayor hace imposible su ejecución, la obligación de la otra parte queda también extinguida, salvo convenio en contrario.
 
-### CAPITULO V. INCUMPLIMIENTO DE LAS OBLIGACIONES
+### CAPITULO III. MODALIDADES DE LAS OBLIGACIONES
 
 #### Sección I
 
@@ -4561,7 +4593,7 @@ ART. 1114.- Haya habido o no culpa en la pérdida del bien por parte del deudor,
 
 ART. 1115.- Si el bien se pierde o el hecho deja de prestarse por culpa del acreedor, se tiene por cumplida la obligación.
 
-### CAPITULO VI. DE LAS INSTITUCIONES PROTECTORAS DEL ACREEDOR PARA EL CASO DE INCUMPLIMIENTO DEL DEUDOR
+### CAPITULO IV. DEL CUMPLIMIENTO DE LAS OBLIGACIONES
 
 #### Sección I. Del pago
 
@@ -4663,7 +4695,7 @@ ART. 1156.- La obligación queda extinguida cuando el acreedor recibe en pago un
 
 ART. 1157.- Si el acreedor sufre la evicción del bien que recibe en pago, renacerá la obligación primitiva, quedando sin efecto la dación en pago.
 
-### CAPITULO I. CONTRATOS
+### CAPITULO V. INCUMPLIMIENTO DE LAS OBLIGACIONES
 
 #### Sección I. Consecuencias del incumplimiento de las obligaciones
 
@@ -4883,51 +4915,7 @@ ART. 1211.- El adquirente del bien remitido de otro lugar que alegare que tiene 
 
 ART. 1212.- En las enajenaciones hechas en remate, el demandado a quien se remata un bien no tiene la obligación de responder de los vicios redhibitorios.
 
-### CAPITULO II. DE LA DECLARACION UNILATERAL DE LA VOLUNTAD
-
-ART. 1339.- Mediante una declaración unilateral de voluntad, puede el declarante contraer una obligación, si ésta es lícita y posible.
-
-ART. 1340.- La oferta hecha mediante declaración unilateral de voluntad para obligarse a favor de personas indeterminadas, puede referirse a todo tipo de contrato y obliga al oferente a celebrar éste de acuerdo con lo ofrecido a menos que la oferta haya sido revocada.
-
-ART. 1341.- Cuando la oferta se haga del conocimiento público por cualquier medio de publicidad, el escrito que la contenga deberá depositarse, debidamente firmado por el oferente, en las oficinas de la empresa publicitaria, si el autor del ofrecimiento no sabe o no puede firmar, lo hará otro a su ruego y en su nombre, imprimiéndose en el documento la correspondiente huella digital del autor del ofrecimiento.
-
-ART. 1342.- La falta del documento a que se refiere el artículo anterior, hace responsable a la empresa publicitaria de los daños y perjuicios que se causen a quien acepte la oferta, si el oferente la niega y no se llega a probar la autenticidad de la oferta publicada.
-
-ART. 1343.- Si la oferta es de venta, el solo hecho de exhibir al público el bien con la indicación del precio, obliga al oferente a sostener éste.
-
-ART. 1344.- El que por anuncios u ofrecimientos hechos al público se compromete a alguna prestación por vía de recompensa, en favor de quien llene determinada condición o desempeñe cierto servicio, contrae la obligación de cumplir lo prometido.
-
-ART. 1345.- Quien ejecutare el servicio pedido o llenare la condición a que se refiere el artículo anterior, podrá exigir la recompensa ofrecida.
-
-ART. 1346.- Antes de que se haya prestado el servicio o cumplido la condición, podrá el promitente revocar su oferta, siempre que la revocación se haga con la misma publicidad que el ofrecimiento. Lo anterior sólo en los casos en que no se haya señalado plazo.
-
-ART. 1347.- En el caso de revocación de la oferta quien pruebe que ha hecho erogaciones para prestar el servicio o cumplir la condición por la que se había ofrecido recompensa, tiene derecho a que se le reembolse el importe de esas erogaciones.
-
-ART. 1348.- Si se hubiere señalado plazo para el desempeño del servicio o para llenar la condición, no podrá el promitente revocar su ofrecimiento mientras no esté vencido el plazo.
-
-ART. 1349.- Si la condición fuere satisfecha o el servicio señalado por el promitente fuere realizado por más de un individuo, tendrán derecho a la recompensa:
-
-I.- El que primero ejecutare el servicio o cumpliere la condición;
-
-II.- Si la ejecución fuere simultánea o varios llenaren al mismo tiempo la condición, se repartirá la recompensa por partes iguales; y
-
-III.- Si la recompensa no fuere divisible se sorteará entre los interesados.
-
-ART. 1350.- En los concursos en que haya promesa de recompensa para quienes llenaren ciertas condiciones, es requisito esencial que se fije un plazo.
-
-ART. 1351.- El promitente tiene derecho a designar a la persona o personas que deban decidir, de acuerdo con los términos de la convocatoria respectiva, a quién o a quiénes de los concursantes se otorga la recompensa.
-
-ART. 1352.- En los contratos se pueden hacer estipulaciones en favor de tercero de acuerdo con los siguientes artículos.
-
-ART. 1353.- El tercero en cuyo favor se realice una estipulación, tiene el derecho de exigir del promitente la prestación a que se ha obligado, sin perjuicio de que el estipulante pueda también exigirla, a menos que expresamente se pacte en el contrato que sólo el tercero podrá hacerlo.
-
-ART. 1354.- El derecho de tercero nace en el momento de perfeccionarse el contrato, salvo la facultad que los contratantes conservan de imponerle las modalidades que juzguen convenientes, siempre que éstas consten expresamente en el referido contrato.
-
-ART. 1355.- Si el tercero rehúsa la estipulación a su favor se extingue la obligación del promitente.
-
-ART. 1356.- La estipulación puede ser revocada por el estipulante mientras que el tercero no haya manifestado su voluntad de querer aprovecharla.
-
-ART. 1357.- El promitente podrá, salvo pacto en contrario, oponer al tercero las excepciones derivadas del contrato, independientemente de las personales que tenga en su contra.
+### CAPITULO VI. DE LAS INSTITUCIONES PROTECTORAS DEL ACREEDOR PARA EL CASO DE INCUMPLIMIENTO DEL DEUDOR
 
 #### Sección I. Actos celebrados en fraude de acreedores
 
@@ -5069,45 +5057,7 @@ ART. 1254.- En los casos de concurso o liquidación judicial del deudor, el dere
 
 ## TITULO SEGUNDO. FUENTES DE LAS OBLIGACIONES
 
-### CAPITULO III. DEL ENRIQUECIMIENTO ILEGITIMO
-
-ART. 1358.- El que sin causa se enriquece en detrimento de otro, está obligado a indemnizarle de su empobrecimiento en la medida que él se ha enriquecido.
-
-ART. 1359.- Cuando se reciba algún bien que no se tenía derecho de exigir y que por error ha sido indebidamente pagado, se tiene obligación de restituirlo.
-
-Si lo indebido consiste en una prestación cumplida, cuando el que la recibe procede de mala fe, debe pagar el precio corriente de esa prestación referida al momento de exigirse cumplirse voluntariamente; si procede de buena fe, sólo debe pagar lo equivalente al enriquecimiento recibido.
-
-ART. 1360.- El que acepte un pago indebido, si hubiere procedido de mala fe, deberá abonar el interés legal cuando se trate de capitales, o los frutos percibidos y los dejados de percibir, de los bienes que los produjeren.
-
-Además, responderá de los menoscabos que el bien haya sufrido por cualquiera causa, y de los perjuicios que se irroguen al que lo entregó hasta que lo recobre.
-
-No responderá del caso fortuito o fuerza mayor cuando éste hubiere podido afectar del mismo modo los bienes hallándose en poder del que los entregó.
-
-ART. 1361.- Si el que recibió el bien con mala fe, lo hubiere enajenado a un tercero que tuviere también mala fe, podrá el dueño reivindicarlo y cobrar de uno u otro los daños y perjuicios.
-
-ART. 1362.- Si el tercero a quien se enajena el bien lo adquiere de buena fe, sólo podrá reivindicarse si la enajenación se hizo a título gratuito.
-
-ART. 1363.- El que de buena fe hubiere aceptado un pago indebido, de bien cierto y determinado sólo responderá de los menoscabos o pérdidas de éste y de sus accesiones, en cuanto por ellos se hubiere enriquecido. Si lo hubiere enajenado, restituirá el precio o cederá la acción para hacerlo efectivo.
-
-ART. 1364.- Si el que recibió de buena fe un bien dado en pago indebido lo hubiere donado, no subsistirá la donación y se aplicará al donatorio (sic) lo dispuesto en el artículo anterior
-
-ART. 1365.- El que de buena fe hubiere aceptado un pago indebido, tiene derecho a que se le abonen los gastos necesarios y a retirar las mejoras útiles, si con la separación no sufre detrimento el bien dado en pago. Si lo sufre, tiene derecho a que se le pague una cantidad equivalente al aumento de valor que recibió el bien con la mejora hecha.
-
-ART. 1366.- Queda libre de la obligación de restituir, el que, creyendo de buena fe que se hacía el pago por cuenta de un crédito legítimo y subsistente, hubiese inutilizado el título, dejado prescribir la acción, abandonado las prendas o cancelado las garantías de su derecho. El que paga indebidamente sólo podrá dirigirse contra el verdadero deudor o los fiadores, respecto de los cuales la acción estuviere viva.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 1367.- La prueba del pago incumbe al que pretende haberlo hecho. También corre a su cargo la del error con que lo realizó, a menos que el demandado negare haber recibido el bien que se le reclama. En este caso, justificada la entrega por el demandante, queda relevado de toda otra prueba. Esto no limita el derecho del demandado para acreditar que le era debido lo que recibió.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 1368.- Se presume que hubo error en el pago, cuando se entrega bien que no se debía o que ya estaba pagado; pero aquel a quien se pide la devolución puede probar que la entrega se hizo a título de liberación o por cualquiera otra causa justa.
-
-ART. 1369.- La acción para repetir lo pagado indebidamente prescribe en un año, contado desde que se conoció el error que originó el pago. El solo transcurso de cinco años, contados desde el pago indebido, hace perder el derecho para reclamar su devolución.
-
-ART. 1370.- El que ha pagado para cumplir una deuda prescrita o para cumplir un deber moral, no tiene derecho de repetir.
-
-ART. 1371.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buenas costumbre (sic), no quedará en poder del que lo recibió. El cincuenta por ciento se destinará a la Beneficencia Pública y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
+### CAPITULO I. CONTRATOS
 
 #### Sección I. Disposiciones preliminares
 
@@ -5363,6 +5313,92 @@ ART. 1337.- Los contratos que no están especialmente reglamentados en este Cód
 
 ART. 1338.- Las disposiciones legales sobre contratos serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éste o a disposiciones especiales de la ley sobre los mismos.
 
+### CAPITULO II. DE LA DECLARACION UNILATERAL DE LA VOLUNTAD
+
+ART. 1339.- Mediante una declaración unilateral de voluntad, puede el declarante contraer una obligación, si ésta es lícita y posible.
+
+ART. 1340.- La oferta hecha mediante declaración unilateral de voluntad para obligarse a favor de personas indeterminadas, puede referirse a todo tipo de contrato y obliga al oferente a celebrar éste de acuerdo con lo ofrecido a menos que la oferta haya sido revocada.
+
+ART. 1341.- Cuando la oferta se haga del conocimiento público por cualquier medio de publicidad, el escrito que la contenga deberá depositarse, debidamente firmado por el oferente, en las oficinas de la empresa publicitaria, si el autor del ofrecimiento no sabe o no puede firmar, lo hará otro a su ruego y en su nombre, imprimiéndose en el documento la correspondiente huella digital del autor del ofrecimiento.
+
+ART. 1342.- La falta del documento a que se refiere el artículo anterior, hace responsable a la empresa publicitaria de los daños y perjuicios que se causen a quien acepte la oferta, si el oferente la niega y no se llega a probar la autenticidad de la oferta publicada.
+
+ART. 1343.- Si la oferta es de venta, el solo hecho de exhibir al público el bien con la indicación del precio, obliga al oferente a sostener éste.
+
+ART. 1344.- El que por anuncios u ofrecimientos hechos al público se compromete a alguna prestación por vía de recompensa, en favor de quien llene determinada condición o desempeñe cierto servicio, contrae la obligación de cumplir lo prometido.
+
+ART. 1345.- Quien ejecutare el servicio pedido o llenare la condición a que se refiere el artículo anterior, podrá exigir la recompensa ofrecida.
+
+ART. 1346.- Antes de que se haya prestado el servicio o cumplido la condición, podrá el promitente revocar su oferta, siempre que la revocación se haga con la misma publicidad que el ofrecimiento. Lo anterior sólo en los casos en que no se haya señalado plazo.
+
+ART. 1347.- En el caso de revocación de la oferta quien pruebe que ha hecho erogaciones para prestar el servicio o cumplir la condición por la que se había ofrecido recompensa, tiene derecho a que se le reembolse el importe de esas erogaciones.
+
+ART. 1348.- Si se hubiere señalado plazo para el desempeño del servicio o para llenar la condición, no podrá el promitente revocar su ofrecimiento mientras no esté vencido el plazo.
+
+ART. 1349.- Si la condición fuere satisfecha o el servicio señalado por el promitente fuere realizado por más de un individuo, tendrán derecho a la recompensa:
+
+I.- El que primero ejecutare el servicio o cumpliere la condición;
+
+II.- Si la ejecución fuere simultánea o varios llenaren al mismo tiempo la condición, se repartirá la recompensa por partes iguales; y
+
+III.- Si la recompensa no fuere divisible se sorteará entre los interesados.
+
+ART. 1350.- En los concursos en que haya promesa de recompensa para quienes llenaren ciertas condiciones, es requisito esencial que se fije un plazo.
+
+ART. 1351.- El promitente tiene derecho a designar a la persona o personas que deban decidir, de acuerdo con los términos de la convocatoria respectiva, a quién o a quiénes de los concursantes se otorga la recompensa.
+
+ART. 1352.- En los contratos se pueden hacer estipulaciones en favor de tercero de acuerdo con los siguientes artículos.
+
+ART. 1353.- El tercero en cuyo favor se realice una estipulación, tiene el derecho de exigir del promitente la prestación a que se ha obligado, sin perjuicio de que el estipulante pueda también exigirla, a menos que expresamente se pacte en el contrato que sólo el tercero podrá hacerlo.
+
+ART. 1354.- El derecho de tercero nace en el momento de perfeccionarse el contrato, salvo la facultad que los contratantes conservan de imponerle las modalidades que juzguen convenientes, siempre que éstas consten expresamente en el referido contrato.
+
+ART. 1355.- Si el tercero rehúsa la estipulación a su favor se extingue la obligación del promitente.
+
+ART. 1356.- La estipulación puede ser revocada por el estipulante mientras que el tercero no haya manifestado su voluntad de querer aprovecharla.
+
+ART. 1357.- El promitente podrá, salvo pacto en contrario, oponer al tercero las excepciones derivadas del contrato, independientemente de las personales que tenga en su contra.
+
+### CAPITULO III. DEL ENRIQUECIMIENTO ILEGITIMO
+
+ART. 1358.- El que sin causa se enriquece en detrimento de otro, está obligado a indemnizarle de su empobrecimiento en la medida que él se ha enriquecido.
+
+ART. 1359.- Cuando se reciba algún bien que no se tenía derecho de exigir y que por error ha sido indebidamente pagado, se tiene obligación de restituirlo.
+
+Si lo indebido consiste en una prestación cumplida, cuando el que la recibe procede de mala fe, debe pagar el precio corriente de esa prestación referida al momento de exigirse cumplirse voluntariamente; si procede de buena fe, sólo debe pagar lo equivalente al enriquecimiento recibido.
+
+ART. 1360.- El que acepte un pago indebido, si hubiere procedido de mala fe, deberá abonar el interés legal cuando se trate de capitales, o los frutos percibidos y los dejados de percibir, de los bienes que los produjeren.
+
+Además, responderá de los menoscabos que el bien haya sufrido por cualquiera causa, y de los perjuicios que se irroguen al que lo entregó hasta que lo recobre.
+
+No responderá del caso fortuito o fuerza mayor cuando éste hubiere podido afectar del mismo modo los bienes hallándose en poder del que los entregó.
+
+ART. 1361.- Si el que recibió el bien con mala fe, lo hubiere enajenado a un tercero que tuviere también mala fe, podrá el dueño reivindicarlo y cobrar de uno u otro los daños y perjuicios.
+
+ART. 1362.- Si el tercero a quien se enajena el bien lo adquiere de buena fe, sólo podrá reivindicarse si la enajenación se hizo a título gratuito.
+
+ART. 1363.- El que de buena fe hubiere aceptado un pago indebido, de bien cierto y determinado sólo responderá de los menoscabos o pérdidas de éste y de sus accesiones, en cuanto por ellos se hubiere enriquecido. Si lo hubiere enajenado, restituirá el precio o cederá la acción para hacerlo efectivo.
+
+ART. 1364.- Si el que recibió de buena fe un bien dado en pago indebido lo hubiere donado, no subsistirá la donación y se aplicará al donatorio (sic) lo dispuesto en el artículo anterior
+
+ART. 1365.- El que de buena fe hubiere aceptado un pago indebido, tiene derecho a que se le abonen los gastos necesarios y a retirar las mejoras útiles, si con la separación no sufre detrimento el bien dado en pago. Si lo sufre, tiene derecho a que se le pague una cantidad equivalente al aumento de valor que recibió el bien con la mejora hecha.
+
+ART. 1366.- Queda libre de la obligación de restituir, el que, creyendo de buena fe que se hacía el pago por cuenta de un crédito legítimo y subsistente, hubiese inutilizado el título, dejado prescribir la acción, abandonado las prendas o cancelado las garantías de su derecho. El que paga indebidamente sólo podrá dirigirse contra el verdadero deudor o los fiadores, respecto de los cuales la acción estuviere viva.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+ART. 1367.- La prueba del pago incumbe al que pretende haberlo hecho. También corre a su cargo la del error con que lo realizó, a menos que el demandado negare haber recibido el bien que se le reclama. En este caso, justificada la entrega por el demandante, queda relevado de toda otra prueba. Esto no limita el derecho del demandado para acreditar que le era debido lo que recibió.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+ART. 1368.- Se presume que hubo error en el pago, cuando se entrega bien que no se debía o que ya estaba pagado; pero aquel a quien se pide la devolución puede probar que la entrega se hizo a título de liberación o por cualquiera otra causa justa.
+
+ART. 1369.- La acción para repetir lo pagado indebidamente prescribe en un año, contado desde que se conoció el error que originó el pago. El solo transcurso de cinco años, contados desde el pago indebido, hace perder el derecho para reclamar su devolución.
+
+ART. 1370.- El que ha pagado para cumplir una deuda prescrita o para cumplir un deber moral, no tiene derecho de repetir.
+
+ART. 1371.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buenas costumbre (sic), no quedará en poder del que lo recibió. El cincuenta por ciento se destinará a la Beneficencia Pública y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
+
 ### CAPITULO IV. DE LA GESTION DE NEGOCIOS
 
 ART. 1372.- El que sin mandato y sin estar obligado a ello se encarga de un asunto de otro, que está ausente o imposibilitado de atenderlo, deberá hacerlo conforme a los intereses del dueño del negocio, si los conoce, o según su voluntad presunta, tomando en cuenta siempre lo que sea más conveniente a la naturaleza del asunto.
@@ -5402,86 +5438,6 @@ ART. 1386.- Cuando sin consentimiento del obligado a prestar alimentos, los dies
 ART. 1387.- Los gastos funerarios proporcionados a la condición de la persona y a los usos de la localidad, deberán ser satisfechos al que los haga, aunque el difunto no hubiere dejado bienes, por aquellos que hubieren tenido la obligación de alimentarlo en vida.
 
 ### CAPITULO V. DE LA RESPONSABILIDAD CIVIL
-
-### CAPITULO I. DE LA CESION DE LOS DERECHOS
-
-ART. 1418.- Habrá cesión de derechos cuando el acreedor transfiere a otro los que tenga contra su deudor.
-
-ART. 1419.- El acreedor puede ceder su derecho a un tercero sin el consentimiento del deudor, a menos que la cesión esté prohibida por la ley, se haya convenido en no hacerla o no la permita la naturaleza del derecho.
-
-El deudor no puede alegar contra el tercero que el derecho no podía cederse porque así se había convenido, cuando ese convenio no conste en el título constitutivo del derecho.
-
-ART. 1420.- En la cesión de crédito se observarán las disposiciones relativas al acto jurídico que le dé origen, en lo que no estuvieren modificadas en este capítulo.
-
-ART. 1421.- La cesión de un crédito comprende la de todos los derechos accesorios, como la fianza, hipoteca, prenda o privilegio, salvo aquellos que son inseparables de la persona del cedente.
-
-Los intereses vencidos se presume que fueron cedidos con el crédito principal.
-
-ART. 1422.- La cesión de créditos se hará en escrito privado que firmarán cedente, cesionario y dos testigos; pero se hará constar en escritura pública, cuando por la naturaleza del crédito cedido, la ley exija que su transmisión se haga en esa forma.
-
-ART. 1423.- La cesión de créditos no producirá efectos contra tercero, sino desde que su fecha deba tenerse por cierta, conforme a las reglas siguientes:
-
-I.- Si tiene por objeto un crédito que deba inscribirse, desde la fecha de su inscripción en el Registro Público de la Propiedad;
-
-II.- Si se hace en escritura pública, desde la fecha de su otorgamiento;
-
-III.- Si se trata de un documento privado, desde el día en que se incorpore o inscriba en un registro público; desde la muerte de cualquiera de los que lo firmaren, o desde la fecha en que se entregue a un funcionario público por razón de su oficio.
-
-Estas mismas reglas se aplicarán a todo contrato o negocio jurídico acerca del cual haya necesidad de establecer en qué momento su fecha deba tenerse por cierta para que pueda producir efectos contra terceros.
-
-ART. 1424.- El deudor puede oponer al cesionario las excepciones que podría oponer al cedente en el momento de la cesión.
-
-Si el deudor tiene contra el cedente un crédito todavía no exigible cuando se haga la cesión, podrá invocar la compensación con tal que su crédito no sea exigible después de que lo sea el cedido.
-
-ART. 1425.- Para que el cesionario pueda ejercer sus derechos contra el deudor, deberá hacer a éste la notificación de la cesión, ya sea judicialmente, ya en lo extrajudicial ante dos testigos o ante notario.
-
-ART. 1426.- Sólo tiene derecho para pedir o hacer la notificación, el acreedor que presente el título justificativo del crédito, o el de la cesión, cuando aquél no sea necesario.
-
-ART. 1427.- Si el deudor está presente en la cesión y no se opone a ella, o si estando ausente la ha aceptado, y esto se prueba, se tendrá por hecha la notificación.
-
-ART. 1428.- Si el crédito se ha cedido a varios cesionarios, tendrá preferencia el que primero haya notificado la cesión al deudor, salvo lo dispuesto para títulos que deben registrarse.
-
-ART. 1429.- Mientras no se haya hecho notificación al deudor, éste se libera pagando al acreedor originario.
-
-ART. 1430.- Hecha la notificación, no se libera el deudor sino pagando al cesionario.
-
-ART. 1431.- El cedente está obligado a garantizar la existencia o legitimidad del crédito al tiempo de hacerse la cesión, a no ser que aquél se haya cedido con el carácter de dudoso.
-
-ART. 1432.- El cedente no está obligado a garantizar la solvencia del deudor, a no ser que se haya estipulado expresamente o que la insolvencia sea pública y anterior a la cesión.
-
-ART. 1433.- Si el cedente se hubiere hecho responsable de la solvencia del deudor, y no se fijare el tiempo que esta responsabilidad deba durar, se limitará a un año, contado desde la fecha de la cesión si la deuda estuviere vencida y si aún no fuese exigible, desde la fecha en que lo fuere.
-
-ART. 1434.- Si el crédito cedido consiste en una renta, que deba pagarse por pensiones periódicas, la responsabilidad por la solvencia del deudor cuando la haya tomado a su cargo el cedente, se extingue a los dos años, contados desde la fecha de la cesión.
-
-ART. 1435.- El que cede alzadamente la totalidad de ciertos derechos, cumple con responder de la legitimidad del todo en general; pero no está obligado al saneamiento de cada una de las partes, salvo en el caso de evicción del todo o de la mayor parte.
-
-ART. 1436.- El que cede su derecho a una herencia, sin enumerar los bienes de que ésta se compone, sólo está obligado a responder de su calidad de heredero.
-
-ART. 1437.- Si el cedente se hubiere aprovechado de algunos frutos o percibido algún bien de la herencia que cediere, deberá abonarlos al cesionario, si no se hubiere pactado lo contrario.
-
-ART. 1438.- El cesionario debe, por su parte, satisfacer al cedente todo lo que haya pagado por las deudas o cargas de la herencia y sus propios créditos contra ella, salvo si se hubiere pactado lo contrario.
-
-ART. 1439.- Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
-
-ART. 1440.- En la cesión de créditos litigiosos el cesionario estará a las resultas del juicio sin ninguna responsabilidad para el cedente, salvo pacto en contrario.
-
-Es litigioso el crédito cuyo cobro está sometido a la decisión de los tribunales, sin que todavía exista sentencia ejecutoria.
-
-### CAPITULO II. DE LA CESION DE DEUDAS
-
-ART. 1441.- Para que haya substitución de deudor es necesario que el acreedor consienta expresa o tácitamente.
-
-ART. 1442.- Se presume que el acreedor consiente en la sustitución del deudor, cuando permite que el sustituto ejecute actos que debía ejecutar el deudor, como pago de réditos, pagos parciales o periódicos, siempre que lo haga en nombre propio y no por cuenta del deudor original.
-
-ART. 1443.- El acreedor que exonera al antiguo deudor, aceptando otro en su lugar, no puede repetir contra el primero, si el nuevo se encuentra insolvente, salvo convenio en contrario.
-
-ART. 1444.- Cuando el deudor y el que pretenda sustituirlo fijen un plazo al acreedor para que manifieste su conformidad con la sustitución, pasado ese plazo sin que el acreedor haya hecho conocer su determinación, se presume que rehusa.
-
-ART. 1445.- El deudor sustituto queda obligado en los términos en que lo estaba el deudor original; pero cuando un tercero ha constituido fianza, prenda o hipoteca para garantizar la deuda, estas garantías cesan con la sustitución del deudor, a menos que el tercero consienta en que continúen.
-
-ART. 1446.- El deudor sustituto puede oponer al acreedor las excepciones que se originen de la naturaleza de la deuda y las que le sean personales, pero no puede oponer las que sean personales del deudor original.
-
-ART. 1447.- Cuando se declara nula la sustitución de deudor, la antigua deuda renace con todos sus accesorios, pero con la reserva de derechos que pertenecen a tercero de buena fe.
 
 #### Sección I. Reglas generales
 
@@ -5601,6 +5557,86 @@ ART. 1417.- Cuando una persona hace uso de mecanismos, instrumentos, aparatos o 
 
 ## TITULO TERCERO. DE LA TRANSMISION DE LAS OBLIGACIONES
 
+### CAPITULO I. DE LA CESION DE LOS DERECHOS
+
+ART. 1418.- Habrá cesión de derechos cuando el acreedor transfiere a otro los que tenga contra su deudor.
+
+ART. 1419.- El acreedor puede ceder su derecho a un tercero sin el consentimiento del deudor, a menos que la cesión esté prohibida por la ley, se haya convenido en no hacerla o no la permita la naturaleza del derecho.
+
+El deudor no puede alegar contra el tercero que el derecho no podía cederse porque así se había convenido, cuando ese convenio no conste en el título constitutivo del derecho.
+
+ART. 1420.- En la cesión de crédito se observarán las disposiciones relativas al acto jurídico que le dé origen, en lo que no estuvieren modificadas en este capítulo.
+
+ART. 1421.- La cesión de un crédito comprende la de todos los derechos accesorios, como la fianza, hipoteca, prenda o privilegio, salvo aquellos que son inseparables de la persona del cedente.
+
+Los intereses vencidos se presume que fueron cedidos con el crédito principal.
+
+ART. 1422.- La cesión de créditos se hará en escrito privado que firmarán cedente, cesionario y dos testigos; pero se hará constar en escritura pública, cuando por la naturaleza del crédito cedido, la ley exija que su transmisión se haga en esa forma.
+
+ART. 1423.- La cesión de créditos no producirá efectos contra tercero, sino desde que su fecha deba tenerse por cierta, conforme a las reglas siguientes:
+
+I.- Si tiene por objeto un crédito que deba inscribirse, desde la fecha de su inscripción en el Registro Público de la Propiedad;
+
+II.- Si se hace en escritura pública, desde la fecha de su otorgamiento;
+
+III.- Si se trata de un documento privado, desde el día en que se incorpore o inscriba en un registro público; desde la muerte de cualquiera de los que lo firmaren, o desde la fecha en que se entregue a un funcionario público por razón de su oficio.
+
+Estas mismas reglas se aplicarán a todo contrato o negocio jurídico acerca del cual haya necesidad de establecer en qué momento su fecha deba tenerse por cierta para que pueda producir efectos contra terceros.
+
+ART. 1424.- El deudor puede oponer al cesionario las excepciones que podría oponer al cedente en el momento de la cesión.
+
+Si el deudor tiene contra el cedente un crédito todavía no exigible cuando se haga la cesión, podrá invocar la compensación con tal que su crédito no sea exigible después de que lo sea el cedido.
+
+ART. 1425.- Para que el cesionario pueda ejercer sus derechos contra el deudor, deberá hacer a éste la notificación de la cesión, ya sea judicialmente, ya en lo extrajudicial ante dos testigos o ante notario.
+
+ART. 1426.- Sólo tiene derecho para pedir o hacer la notificación, el acreedor que presente el título justificativo del crédito, o el de la cesión, cuando aquél no sea necesario.
+
+ART. 1427.- Si el deudor está presente en la cesión y no se opone a ella, o si estando ausente la ha aceptado, y esto se prueba, se tendrá por hecha la notificación.
+
+ART. 1428.- Si el crédito se ha cedido a varios cesionarios, tendrá preferencia el que primero haya notificado la cesión al deudor, salvo lo dispuesto para títulos que deben registrarse.
+
+ART. 1429.- Mientras no se haya hecho notificación al deudor, éste se libera pagando al acreedor originario.
+
+ART. 1430.- Hecha la notificación, no se libera el deudor sino pagando al cesionario.
+
+ART. 1431.- El cedente está obligado a garantizar la existencia o legitimidad del crédito al tiempo de hacerse la cesión, a no ser que aquél se haya cedido con el carácter de dudoso.
+
+ART. 1432.- El cedente no está obligado a garantizar la solvencia del deudor, a no ser que se haya estipulado expresamente o que la insolvencia sea pública y anterior a la cesión.
+
+ART. 1433.- Si el cedente se hubiere hecho responsable de la solvencia del deudor, y no se fijare el tiempo que esta responsabilidad deba durar, se limitará a un año, contado desde la fecha de la cesión si la deuda estuviere vencida y si aún no fuese exigible, desde la fecha en que lo fuere.
+
+ART. 1434.- Si el crédito cedido consiste en una renta, que deba pagarse por pensiones periódicas, la responsabilidad por la solvencia del deudor cuando la haya tomado a su cargo el cedente, se extingue a los dos años, contados desde la fecha de la cesión.
+
+ART. 1435.- El que cede alzadamente la totalidad de ciertos derechos, cumple con responder de la legitimidad del todo en general; pero no está obligado al saneamiento de cada una de las partes, salvo en el caso de evicción del todo o de la mayor parte.
+
+ART. 1436.- El que cede su derecho a una herencia, sin enumerar los bienes de que ésta se compone, sólo está obligado a responder de su calidad de heredero.
+
+ART. 1437.- Si el cedente se hubiere aprovechado de algunos frutos o percibido algún bien de la herencia que cediere, deberá abonarlos al cesionario, si no se hubiere pactado lo contrario.
+
+ART. 1438.- El cesionario debe, por su parte, satisfacer al cedente todo lo que haya pagado por las deudas o cargas de la herencia y sus propios créditos contra ella, salvo si se hubiere pactado lo contrario.
+
+ART. 1439.- Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
+
+ART. 1440.- En la cesión de créditos litigiosos el cesionario estará a las resultas del juicio sin ninguna responsabilidad para el cedente, salvo pacto en contrario.
+
+Es litigioso el crédito cuyo cobro está sometido a la decisión de los tribunales, sin que todavía exista sentencia ejecutoria.
+
+### CAPITULO II. DE LA CESION DE DEUDAS
+
+ART. 1441.- Para que haya substitución de deudor es necesario que el acreedor consienta expresa o tácitamente.
+
+ART. 1442.- Se presume que el acreedor consiente en la sustitución del deudor, cuando permite que el sustituto ejecute actos que debía ejecutar el deudor, como pago de réditos, pagos parciales o periódicos, siempre que lo haga en nombre propio y no por cuenta del deudor original.
+
+ART. 1443.- El acreedor que exonera al antiguo deudor, aceptando otro en su lugar, no puede repetir contra el primero, si el nuevo se encuentra insolvente, salvo convenio en contrario.
+
+ART. 1444.- Cuando el deudor y el que pretenda sustituirlo fijen un plazo al acreedor para que manifieste su conformidad con la sustitución, pasado ese plazo sin que el acreedor haya hecho conocer su determinación, se presume que rehusa.
+
+ART. 1445.- El deudor sustituto queda obligado en los términos en que lo estaba el deudor original; pero cuando un tercero ha constituido fianza, prenda o hipoteca para garantizar la deuda, estas garantías cesan con la sustitución del deudor, a menos que el tercero consienta en que continúen.
+
+ART. 1446.- El deudor sustituto puede oponer al acreedor las excepciones que se originen de la naturaleza de la deuda y las que le sean personales, pero no puede oponer las que sean personales del deudor original.
+
+ART. 1447.- Cuando se declara nula la sustitución de deudor, la antigua deuda renace con todos sus accesorios, pero con la reserva de derechos que pertenecen a tercero de buena fe.
+
 ### CAPITULO III. DE LA SUBROGACION
 
 ART. 1448.- La subrogación se verifica por ministerio de la ley y sin necesidad de declaración alguna de los interesados:
@@ -5636,6 +5672,8 @@ ART. 1457.- Asimismo habrá subrogación real cuando un bien propio de uno de lo
 ART. 1458.- En el caso del artículo 1456 el titular del derecho real tendrá acción para que se declare que su derecho real afecta al nuevo bien.
 
 ART. 1459.- En el caso del artículo 1457 el titular o titulares del bien enajenado tienen derecho a que el nuevo bien ocupe el lugar que tenía en el patrimonio del titular y desempeñe el mismo fin a que estaba destinado el anterior.
+
+## TITULO CUARTO. DE LA EXTINCION DE LAS OBLIGACIONES
 
 ### CAPITULO I. DE LA COMPENSACION
 
@@ -5706,8 +5744,6 @@ ART. 1480.- La obligación se extingue por confusión cuando las calidades de ac
 ART. 1481.- La confusión que se verifica en la persona del acreedor o deudor solidario, sólo produce sus efectos en la parte proporcional de su crédito o deuda.
 
 ART. 1482.- Mientras se hace la partición de una herencia, no hay confusión, cuando el deudor hereda al acreedor o éste a aquél.
-
-## TITULO CUARTO. DE LA EXTINCION DE LAS OBLIGACIONES
 
 ### CAPITULO III. DE LA REMISION DE LA DEUDA
 
@@ -5837,6 +5873,66 @@ ART. 1519.- La interrupción de la prescripción contra el deudor principal prod
 
 ART. 1520.- El efecto de la interrupción es inutilizar, para la prescripción, todo el tiempo corrido antes de ella.
 
+## TITULO QUINTO. DE LA INEXISTENCIA Y NULIDAD
+
+ART. 1521.- El acto jurídico inexistente por la falta de consentimiento, forma solemne o de objeto que pueda ser materia de él no producirá efecto legal alguno, como acto jurídico, pero sí como hecho jurídico, cuando concurran los elementos necesarios a fin de que se produzca tal supuesto. No es susceptible de valer por confirmación, ni por prescripción; su inexistencia puede invocarse por todo interesado.
+
+ART. 1522.- La ilicitud en el objeto, en el fin o en la condición del acto produce su nulidad absoluta, salvo que la ley expresamente declare que dicha nulidad será relativa.
+
+ART. 1523.- La nulidad absoluta por regla general, no impide que el acto produzca provisionalmente sus efectos, los cuales serán destruidos retroactivamente cuando se pronuncie por el juez la nulidad. De ella puede prevalerse todo interesado y no es confirmable ni prescriptible.
+
+ART. 1524.- La nulidad es relativa cuando no reúne todos los caracteres enumerados en el artículo anterior, y siempre permite que el acto produzca provisionalmente sus efectos.
+
+ART. 1525.- La lesión en los contratos origina la nulidad relativa de los mismos y nunca será renunciable el derecho de pedir la nulidad, salvo que el afectado opte por pedir la reducción equitativa de su obligación.
+
+ART. 1526.- La falta de forma establecida por la ley, si no se trata de actos solemnes, así como el error, el dolo, la violencia y la incapacidad de cualquiera de los autores del acto, produce la nulidad relativa del mismo.
+
+ART. 1527.- La acción y la excepción de nulidad por falta de forma competen a todos los interesados.
+
+ART. 1528.- La nulidad por causa de error, dolo, violencia o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios del consentimiento, o es el incapaz.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+ART. 1529.- La nulidad de un acto jurídico por falta de forma establecida por la ley, se extingue por la ratificación de ese acto hecha en la forma omitida.
+
+ART. 1530.- Cuando la falta de forma produzca nulidad del acto, si la voluntad de las partes ha quedado constante de una indubitable y no se trata de un acto revocable, cualquiera de los interesados puede exigir que el acto se otorgue en la forma prevista por la ley.
+
+ART. 1531.- Cuando el contrato es nulo por incapacidad, violencia o error, puede ser confirmado cuando cese el vicio o motivo de la nulidad, siempre que no concurra otra causa que invalide la confirmación.
+
+ART. 1532.- El cumplimiento voluntario por medio del pago, novación o por cualquier otro modo, se tiene por ratificación tácita y extingue la acción de nulidad.
+
+ART. 1533.- La ratificación se retrotrae al día en que se verificó el acto nulo, pero ese efecto retroactivo no perjudica a los derechos de tercero.
+
+ART. 1534.- La acción de nulidad fundada en incapacidad, inobservancia de la forma, dolo o error, prescribe en el término de un año, pero si el error o dolo se conocen antes de que transcurra dicho plazo, la acción de nulidad prescribirá a los sesenta días, contados desde que se tuvo conocimiento de tales vicios.
+
+ART. 1535.- La acción para pedir la nulidad de un acto jurídico hecho por violencia, prescribe a los seis meses contados desde que cese ese vicio del consentimiento.
+
+ART. 1536.- El acto jurídico viciado de nulidad en parte, no es totalmente nulo, si las partes que lo forman pueden legalmente subsistir separadas, a menos que se demuestre que al celebrarse el acto se quiso que subsistiera íntegramente.
+
+ART. 1537.- La anulación del acto obliga a las partes a restituirse mutuamente lo que han recibido o percibido en virtud o por consecuencia del acto anulado.
+
+ART. 1538.- Si el acto fuera bilateral y las obligaciones correlativas consisten ambas en sumas de dinero o en cosas productivas de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
+
+ART. 1539.- Mientras una de las partes, en los actos plurilaterales, no cumpla con la devolución de aquello que en virtud de la declaración de nulidad del acto está obligada a restituir, no puede ser compelida la otra parte a restituir lo que hubiere recibido.
+
+ART. 1540.- Todos los derechos reales o personales transmitidos a tercero sobre un bien, por una persona que ha llegado a ser propietaria de él en virtud de un acto anulado, quedan sin ningún valor y pueden ser reclamados directamente del poseedor actual mientras que no se cumpla la prescripción, exceptuándose el caso de que se perjudiquen los derechos de los terceros adquirentes de buena fe, pues en tal hipótesis se estará a lo dispuesto para la protección reconocida por este Código a dichos terceros.
+
+ART. 1541.- Los efectos restitutorios de la nulidad se sujetarán a las reglas siguientes:
+
+I.- La restitución será absoluta, operando en forma retroactiva integral, para los actos instantáneos susceptibles de reposición;
+
+II.- La restitución será parcial, operando para el futuro en los actos de tracto sucesivo que no sean susceptibles de reposición. Si lo fueren se aplicará la regla anterior;
+
+III.- La restitución es inoperante respecto a las partes en los actos que implican situaciones irreparablemente consumadas. En este caso se aplicarán las reglas del enriquecimiento sin causa;
+
+IV.- La restitución de las prestaciones no podrá hacerse en perjuicio de terceros de buena fe, pero se aplicará lo dispuesto en la parte final de la fracción anterior, para evitar un enriquecimiento sin causa;
+
+V.- La restitución es inoperante respecto de situaciones jurídicas consolidadas por la prescripción positiva, respecto de una de las partes o de ambas.
+
+ART. 1542.- Los efectos restitutorios consignados en el artículo anterior, se aplicarán tanto en los casos de nulidad absoluta, como de nulidad relativa, salvo que para la primera, la ley prevenga expresamente que el acto no producirá efecto legal alguno.
+
+## TITULO SEXTO. DE LA CONCURRENCIA Y PRELACION DE CREDITOS
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ART. 1543.- El deudor responde del cumplimiento de sus obligaciones con todos sus bienes, con excepción de aquéllos que, conforme a la ley, son inalienables o inembargables.
@@ -5929,66 +6025,6 @@ II.- Si los acreedores hubieren hecho novación de la deuda o de cualquier otro 
 
 ART. 1571.- Los acreedores que obtuvieren la separación de bienes no podrán entrar al concurso de heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
-## TITULO QUINTO. DE LA INEXISTENCIA Y NULIDAD
-
-ART. 1521.- El acto jurídico inexistente por la falta de consentimiento, forma solemne o de objeto que pueda ser materia de él no producirá efecto legal alguno, como acto jurídico, pero sí como hecho jurídico, cuando concurran los elementos necesarios a fin de que se produzca tal supuesto. No es susceptible de valer por confirmación, ni por prescripción; su inexistencia puede invocarse por todo interesado.
-
-ART. 1522.- La ilicitud en el objeto, en el fin o en la condición del acto produce su nulidad absoluta, salvo que la ley expresamente declare que dicha nulidad será relativa.
-
-ART. 1523.- La nulidad absoluta por regla general, no impide que el acto produzca provisionalmente sus efectos, los cuales serán destruidos retroactivamente cuando se pronuncie por el juez la nulidad. De ella puede prevalerse todo interesado y no es confirmable ni prescriptible.
-
-ART. 1524.- La nulidad es relativa cuando no reúne todos los caracteres enumerados en el artículo anterior, y siempre permite que el acto produzca provisionalmente sus efectos.
-
-ART. 1525.- La lesión en los contratos origina la nulidad relativa de los mismos y nunca será renunciable el derecho de pedir la nulidad, salvo que el afectado opte por pedir la reducción equitativa de su obligación.
-
-ART. 1526.- La falta de forma establecida por la ley, si no se trata de actos solemnes, así como el error, el dolo, la violencia y la incapacidad de cualquiera de los autores del acto, produce la nulidad relativa del mismo.
-
-ART. 1527.- La acción y la excepción de nulidad por falta de forma competen a todos los interesados.
-
-ART. 1528.- La nulidad por causa de error, dolo, violencia o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios del consentimiento, o es el incapaz.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 1529.- La nulidad de un acto jurídico por falta de forma establecida por la ley, se extingue por la ratificación de ese acto hecha en la forma omitida.
-
-ART. 1530.- Cuando la falta de forma produzca nulidad del acto, si la voluntad de las partes ha quedado constante de una indubitable y no se trata de un acto revocable, cualquiera de los interesados puede exigir que el acto se otorgue en la forma prevista por la ley.
-
-ART. 1531.- Cuando el contrato es nulo por incapacidad, violencia o error, puede ser confirmado cuando cese el vicio o motivo de la nulidad, siempre que no concurra otra causa que invalide la confirmación.
-
-ART. 1532.- El cumplimiento voluntario por medio del pago, novación o por cualquier otro modo, se tiene por ratificación tácita y extingue la acción de nulidad.
-
-ART. 1533.- La ratificación se retrotrae al día en que se verificó el acto nulo, pero ese efecto retroactivo no perjudica a los derechos de tercero.
-
-ART. 1534.- La acción de nulidad fundada en incapacidad, inobservancia de la forma, dolo o error, prescribe en el término de un año, pero si el error o dolo se conocen antes de que transcurra dicho plazo, la acción de nulidad prescribirá a los sesenta días, contados desde que se tuvo conocimiento de tales vicios.
-
-ART. 1535.- La acción para pedir la nulidad de un acto jurídico hecho por violencia, prescribe a los seis meses contados desde que cese ese vicio del consentimiento.
-
-ART. 1536.- El acto jurídico viciado de nulidad en parte, no es totalmente nulo, si las partes que lo forman pueden legalmente subsistir separadas, a menos que se demuestre que al celebrarse el acto se quiso que subsistiera íntegramente.
-
-ART. 1537.- La anulación del acto obliga a las partes a restituirse mutuamente lo que han recibido o percibido en virtud o por consecuencia del acto anulado.
-
-ART. 1538.- Si el acto fuera bilateral y las obligaciones correlativas consisten ambas en sumas de dinero o en cosas productivas de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
-
-ART. 1539.- Mientras una de las partes, en los actos plurilaterales, no cumpla con la devolución de aquello que en virtud de la declaración de nulidad del acto está obligada a restituir, no puede ser compelida la otra parte a restituir lo que hubiere recibido.
-
-ART. 1540.- Todos los derechos reales o personales transmitidos a tercero sobre un bien, por una persona que ha llegado a ser propietaria de él en virtud de un acto anulado, quedan sin ningún valor y pueden ser reclamados directamente del poseedor actual mientras que no se cumpla la prescripción, exceptuándose el caso de que se perjudiquen los derechos de los terceros adquirentes de buena fe, pues en tal hipótesis se estará a lo dispuesto para la protección reconocida por este Código a dichos terceros.
-
-ART. 1541.- Los efectos restitutorios de la nulidad se sujetarán a las reglas siguientes:
-
-I.- La restitución será absoluta, operando en forma retroactiva integral, para los actos instantáneos susceptibles de reposición;
-
-II.- La restitución será parcial, operando para el futuro en los actos de tracto sucesivo que no sean susceptibles de reposición. Si lo fueren se aplicará la regla anterior;
-
-III.- La restitución es inoperante respecto a las partes en los actos que implican situaciones irreparablemente consumadas. En este caso se aplicarán las reglas del enriquecimiento sin causa;
-
-IV.- La restitución de las prestaciones no podrá hacerse en perjuicio de terceros de buena fe, pero se aplicará lo dispuesto en la parte final de la fracción anterior, para evitar un enriquecimiento sin causa;
-
-V.- La restitución es inoperante respecto de situaciones jurídicas consolidadas por la prescripción positiva, respecto de una de las partes o de ambas.
-
-ART. 1542.- Los efectos restitutorios consignados en el artículo anterior, se aplicarán tanto en los casos de nulidad absoluta, como de nulidad relativa, salvo que para la primera, la ley prevenga expresamente que el acto no producirá efecto legal alguno.
-
-## TITULO SEXTO. DE LA CONCURRENCIA Y PRELACION DE CREDITOS
-
 ### CAPITULO III. DE ALGUNOS ACREEDORES PREFERENTES SOBRE DETERMINADOS BIENES
 
 ART. 1572.- Con el valor de los bienes que se mencionan serán pagados preferentemente:
@@ -6065,6 +6101,24 @@ ART. 1576.- Pagados los créditos enumerados en los capítulos que preceden se p
 
 ART. 1577.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas ni al origen de los créditos.
 
+# LIBRO CUARTO. DE LOS CONTRATOS TIPICOS
+
+PRIMERA PARTE
+
+## TITULO PRIMERO. DEL CONTRATO DE PROMESA
+
+ART. 1578.- Puede asumirse contractualmente la obligación de celebrar un contrato futuro.
+
+ART. 1579.- El contrato de promesa puede ser unilateral o bilateral y sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo pactado.
+
+ART. 1580.- Para que la promesa de contratar sea válida, debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
+
+La promesa de contratar sólo surtirá efectos contra tercero cuando se inscriba conforme a la fracción XIV del artículo 2355.
+
+ART. 1581.- Si el promitente rehúsa firmar los documentos necesarios para dar forma legal al contrato prometido, en su rebeldía los firmará el juez; salvo el caso de que el bien ofrecido haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
+
+## TITULO SEGUNDO. DE LA COMPRAVENTA
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ART. 1582.- La compraventa es un contrato mediante el cual una parte transfiere o se obliga a transferir a otra la propiedad de un bien, a cambio de un precio cierto y en dinero.
@@ -6132,24 +6186,6 @@ ART. 1602.- El contrato quedará revalidado, si antes de que tenga lugar la evic
 ART. 1603.- La venta de bienes o derechos litigiosos no está prohibida; pero el vendedor que no declare la circunstancia de hallarse el bien en litigio, es responsable de los daños y perjuicios si el comprador sufre evicción quedando, además, sujeto a las penas respectivas.
 
 ART. 1604.- No puede ser objeto de compraventa el derecho a la herencia de una persona viva, aun cuando ésta preste su consentimiento ni los alimentos debidos por derecho de familia.
-
-# LIBRO CUARTO. DE LOS CONTRATOS TIPICOS
-
-PRIMERA PARTE
-
-## TITULO PRIMERO. DEL CONTRATO DE PROMESA
-
-ART. 1578.- Puede asumirse contractualmente la obligación de celebrar un contrato futuro.
-
-ART. 1579.- El contrato de promesa puede ser unilateral o bilateral y sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo pactado.
-
-ART. 1580.- Para que la promesa de contratar sea válida, debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
-
-La promesa de contratar sólo surtirá efectos contra tercero cuando se inscriba conforme a la fracción XIV del artículo 2355.
-
-ART. 1581.- Si el promitente rehúsa firmar los documentos necesarios para dar forma legal al contrato prometido, en su rebeldía los firmará el juez; salvo el caso de que el bien ofrecido haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
-
-## TITULO SEGUNDO. DE LA COMPRAVENTA
 
 ### CAPITULO III. DE LOS QUE PUEDEN VENDER Y COMPRAR
 
@@ -6339,6 +6375,22 @@ Las enajenaciones de vivienda o lotes de interés social que realicen el Estado 
 
 Para la venta de automóviles, maquinaria agrícola y demás vehículos de fuerza motriz, bastará el endoso de la factura, o mediante escritura privada, que firmarán en ambos casos el vendedor y el comprador ante dos testigos.
 
+## TITULO TERCERO. DE LA PERMUTA
+
+ART. 1654.- La permuta es un contrato por el cual uno de los contratantes transmite al otro la propiedad de un bien, a cambio de otro cuyo dominio también se le transfiere. Se observará, en su caso, lo dispuesto en el artículo 1584.
+
+ART. 1655.- Si uno de los contratantes ha recibido el bien que se le daba en permuta y acredita que no era propio del que se lo dio, no puede ser obligado a entregar el que él le ofreció en cambio, y cumple con devolver el que recibió.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+ART. 1656.- El permutante que sufra evicción del bien que recibió en cambio, podrá reivindicar el que dio si se halla aún en poder del otro permutante, o exigir el valor del bien que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+
+Lo dispuesto en el párrafo anterior no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre el bien que reclame el que sufrió la evicción.
+
+ART. 1657.- Con excepción de lo relativo al precio, son aplicables al contrato de permuta las reglas de la compraventa, en cuanto no se opongan a los artículos anteriores.
+
+## TITULO CUARTO. LA DONACION
+
 ### CAPITULO I. DE LAS DONACIONES EN GENERAL
 
 ART. 1658.- Donación es un contrato por el que una persona transfiere a otra, gratuitamente, una parte o la totalidad de sus bienes presentes, reservándose en este caso los necesarios para subsistir.
@@ -6396,22 +6448,6 @@ ART. 1678.- Para hacer donaciones se necesita tener la capacidad especial para d
 ART. 1679.- Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y nazcan viables.
 
 ART. 1680.- Las donaciones hechas, simulando otro contrato, a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
-
-## TITULO TERCERO. DE LA PERMUTA
-
-ART. 1654.- La permuta es un contrato por el cual uno de los contratantes transmite al otro la propiedad de un bien, a cambio de otro cuyo dominio también se le transfiere. Se observará, en su caso, lo dispuesto en el artículo 1584.
-
-ART. 1655.- Si uno de los contratantes ha recibido el bien que se le daba en permuta y acredita que no era propio del que se lo dio, no puede ser obligado a entregar el que él le ofreció en cambio, y cumple con devolver el que recibió.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 1656.- El permutante que sufra evicción del bien que recibió en cambio, podrá reivindicar el que dio si se halla aún en poder del otro permutante, o exigir el valor del bien que se le hubiere dado en cambio, con el pago de daños y perjuicios.
-
-Lo dispuesto en el párrafo anterior no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre el bien que reclame el que sufrió la evicción.
-
-ART. 1657.- Con excepción de lo relativo al precio, son aplicables al contrato de permuta las reglas de la compraventa, en cuanto no se opongan a los artículos anteriores.
-
-## TITULO CUARTO. LA DONACION
 
 ### CAPITULO III. DE LA REVOCACION E INOFICIOCIDAD DE LAS DONACIONES
 
@@ -6477,6 +6513,8 @@ Esta acción no podrá ejercitarse contra los herederos del donatario, a no ser 
 
 Tampoco puede ejercitarse por los herederos del donante si éste, pudiendo, no la hubiese intentado.
 
+## TITULO QUINTO. DEL MUTUO
+
 ### CAPITULO I. DEL MUTUO SIMPLE
 
 ART. 1696.- El mutuo es un contrato por el cual el mutuante se obliga a transferir la propiedad de una suma de dinero o de otros bienes fungibles al mutuario, quien se obliga a devolver otro tanto de la misma especie y calidad.
@@ -6529,7 +6567,7 @@ ART. 1711.- Los intereses se causarán, exclusivamente sobre los saldos insoluto
 
 Cualquier estipulación en contrario a lo dispuesto en este artículo no producirá efecto alguno entre las partes.
 
-## TITULO QUINTO. DEL MUTUO
+## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -6622,8 +6660,6 @@ ART. 1735.- Las mejoras a que se refieren las fracciones II y III del artículo 
 ART. 1736.- Si al terminar el arrendamiento hubiere algún saldo a favor del arrendatario, el arrendador deberá devolverlo inmediatamente, a no ser que tenga algún derecho para ejercitar contra aquél; en este caso, depositará judicialmente el saldo referido.
 
 Lo dispuesto en el párrafo anterior respecto del arrendador, regirá en su caso respecto del arrendatario.
-
-## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO III. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDATARIO
 
@@ -6909,6 +6945,62 @@ II.- El arrendatario que, habiendo hecho adelanto de rentas, sea obligado a segu
 
 ART. 1825.- En los casos de expropiación y de ejecución judicial, se observará lo dispuesto en los artículos 1778 a 1780.
 
+## TITULO SEPTIMO. DEL COMODATO
+
+ART. 1826.- El comodato es un contrato por el cual uno de los contratantes concede gratuitamente el uso de un bien, y el otro contrae la obligación de restituirlo individualmente.
+
+ART. 1827.- Cuando la concesión del uso tuviere por objeto bienes consumibles, sólo será comodato si por voluntad de las partes se altera su destino natural de tal manera que se utilicen sin ser consumidos y se restituyan idénticamente.
+
+ART. 1828.- Los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
+
+ART. 1829.- El comodatario adquiere el uso; pero no los frutos y accesorios del bien, del que no es poseedor civil.
+
+ART. 1830.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso del bien.
+
+ART. 1831.- El comodatario no puede destinar el bien a uso distinto del convenido; de lo contrario, es responsable de los daños y perjuicios.
+
+ART. 1832.- El comodatario está obligado a poner toda diligencia en la conservación del bien, y es responsable de todo deterioro que éste sufra por su culpa.
+
+Si el deterioro es tal que el bien no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de él, abandonando su propiedad al comodatario.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+ART. 1833.- El comodatario responde de la pérdida del bien si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquella sobrevenga por caso fortuito o fuerza mayor.
+
+ART. 1834.- Si el bien perece por caso fortuito o fuerza mayor, de que el comodatario haya podido garantizarlo empleando el suyo propio, o si no pudiendo conservar más que uno de los dos, ha preferido el suyo, responde de la pérdida del otro.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+ART. 1835.- Si el bien ha sido estimado al prestarlo, su pérdida, aun cuando sobrevenga por caso fortuito o fuerza mayor, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
+
+ART. 1836.- Si el bien se deteriora por el solo efecto del uso para que fuese prestado, y sin culpa del comodatario, no es éste responsable del deterioro.
+
+ART. 1837.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesitan para el uso o la conservación del bien prestado.
+
+ART. 1838.- Tampoco tiene derecho el comodatario para retener el bien a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
+
+ART. 1839.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
+
+ART. 1840.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir el bien cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
+
+ART. 1841.- El comodante podrá exigir la devolución del bien antes de que termine el plazo o uso convenido, sobreviniéndole necesidad urgente de él, probando que hay peligro de que esté perezca si continúa en poder del comodatario, o si esté ha autorizado a un tercero a servirse del bien, sin consentimiento del comodante.
+
+ART. 1842.- Si el comodatario ha tenido que hacer, para la conservación del bien, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
+
+ART. 1843.- Cuando el bien prestado tiene defectos tales que causen perjuicios al que se sirva de él, el comodante es responsable de éstos, si conocía los defectos y no dio aviso al comodatario.
+
+ART. 1844.- En la restitución del bien, el comodatario será responsable de los vicios o defectos que el bien tenga, siempre y cuando se deban a culpa en la custodia, conservación o uso del mismo.
+
+ART. 1845.- Además de las causas generales de terminación de todo contrato, el comodato termina:
+
+I.- Por la muerte del comodatario; y
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+II.- Por la enajenación del bien como dado, en cuyo caso el comodatario deberá restituir el bien al comodante, aun cuando no hubiere terminado el plazo o uso convenidos.
+
+## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
+
 ### CAPITULO I. DEL DEPOSITO
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
@@ -7009,61 +7101,7 @@ ART. 1878.- Secuestro judicial es el que se constituye por decreto del juez.
 
 ART. 1879.- El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles, y, en su defecto, por las mismas del secuestro convencional.
 
-## TITULO SEPTIMO. DEL COMODATO
-
-ART. 1826.- El comodato es un contrato por el cual uno de los contratantes concede gratuitamente el uso de un bien, y el otro contrae la obligación de restituirlo individualmente.
-
-ART. 1827.- Cuando la concesión del uso tuviere por objeto bienes consumibles, sólo será comodato si por voluntad de las partes se altera su destino natural de tal manera que se utilicen sin ser consumidos y se restituyan idénticamente.
-
-ART. 1828.- Los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
-
-ART. 1829.- El comodatario adquiere el uso; pero no los frutos y accesorios del bien, del que no es poseedor civil.
-
-ART. 1830.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso del bien.
-
-ART. 1831.- El comodatario no puede destinar el bien a uso distinto del convenido; de lo contrario, es responsable de los daños y perjuicios.
-
-ART. 1832.- El comodatario está obligado a poner toda diligencia en la conservación del bien, y es responsable de todo deterioro que éste sufra por su culpa.
-
-Si el deterioro es tal que el bien no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de él, abandonando su propiedad al comodatario.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 1833.- El comodatario responde de la pérdida del bien si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquella sobrevenga por caso fortuito o fuerza mayor.
-
-ART. 1834.- Si el bien perece por caso fortuito o fuerza mayor, de que el comodatario haya podido garantizarlo empleando el suyo propio, o si no pudiendo conservar más que uno de los dos, ha preferido el suyo, responde de la pérdida del otro.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 1835.- Si el bien ha sido estimado al prestarlo, su pérdida, aun cuando sobrevenga por caso fortuito o fuerza mayor, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
-
-ART. 1836.- Si el bien se deteriora por el solo efecto del uso para que fuese prestado, y sin culpa del comodatario, no es éste responsable del deterioro.
-
-ART. 1837.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesitan para el uso o la conservación del bien prestado.
-
-ART. 1838.- Tampoco tiene derecho el comodatario para retener el bien a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
-
-ART. 1839.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
-
-ART. 1840.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir el bien cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
-
-ART. 1841.- El comodante podrá exigir la devolución del bien antes de que termine el plazo o uso convenido, sobreviniéndole necesidad urgente de él, probando que hay peligro de que esté perezca si continúa en poder del comodatario, o si esté ha autorizado a un tercero a servirse del bien, sin consentimiento del comodante.
-
-ART. 1842.- Si el comodatario ha tenido que hacer, para la conservación del bien, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
-
-ART. 1843.- Cuando el bien prestado tiene defectos tales que causen perjuicios al que se sirva de él, el comodante es responsable de éstos, si conocía los defectos y no dio aviso al comodatario.
-
-ART. 1844.- En la restitución del bien, el comodatario será responsable de los vicios o defectos que el bien tenga, siempre y cuando se deban a culpa en la custodia, conservación o uso del mismo.
-
-ART. 1845.- Además de las causas generales de terminación de todo contrato, el comodato termina:
-
-I.- Por la muerte del comodatario; y
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-II.- Por la enajenación del bien como dado, en cuyo caso el comodatario deberá restituir el bien al comodante, aun cuando no hubiere terminado el plazo o uso convenidos.
-
-## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
+## TITULO NOVENO. DEL MANDATO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -7178,8 +7216,6 @@ ART. 1908.- El mandatario puede encomendar a un tercero el desempeño del mandat
 ART. 1909.- Si se le designó la persona del substituto, no podrá nombrar a otro; si no se le designó persona, podrá nombrar a la que quiera y en este último caso, solamente será responsable cuando fuere de mala fe la elección de la persona o ésta se halla en notoria insolvencia.
 
 ART. 1910.- El substituto tiene para con el mandante los mismos derechos y obligaciones que el mandatario.
-
-## TITULO NOVENO. DEL MANDATO
 
 ### CAPITULO III. OBLIGACIONES DEL MANDANTE CON RELACION AL MANDATARIO
 
@@ -7316,62 +7352,6 @@ ART. 1940.- El mandatario que renuncie tiene obligación de seguir el negocio mi
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
 ART. 1941.- Lo que el mandatario, sabiendo que ha cesado el mandato hiciere con un tercero que ignore el término de la procuración, obliga al mandante y al mandatario personalmente con el tercero, pero el mandatario es responsable al mandante de todos los daños y perjuicios que sobrevengan, aun por caso fortuito.
-
-### CAPITULO I. DISPOSICIONES GENERALES
-
-ART. 2015.- Cuando varias personas se obligan mutuamente a combinar sus recursos o sus esfuerzos para la realización de un fin común de carácter preponderantemente económico, pero que no constituya una especulación comercial, crean una sociedad civil que estará dotada de patrimonio y personalidad jurídica propia.
-
-ART. 2016.- La aportación de los socios puede consistir en una cantidad de dinero u otros bienes, o en su industria. La aportación de bienes implica la transmisión de su dominio a la sociedad, salvo que expresamente se pacte otra cosa.
-
-ART. 2017.- El acto constitutivo de la sociedad debe constar en escritura pública, la que se inscribirá en el Registro Público, para que surta efectos contra tercero.
-
-ART. 2018.- La falta de la forma prescrita en el artículo anterior sólo produce el efecto de que los socios puedan pedir en cualquier tiempo, que se haga la liquidación de la sociedad conforme al capítulo V de este Título; pero mientras esa liquidación no se pida, la sociedad produce todos sus efectos entre los socios y éstos no pueden oponer a terceros que hayan contratado con ella, la falta de forma.
-
-ART. 2019.- Si se formare una sociedad para un objeto ilícito, a solicitud de cualquiera de los socios o de un tercero interesado, se declarará la nulidad de la sociedad, la cual se pondrá en liquidación.
-
-Después de pagadas las deudas sociales, conforme a la ley, a los socios se les reembolsará lo que hubieren llevado a la sociedad.
-
-Las utilidades se destinarán a los establecimientos de beneficencia pública del domicilio de la sociedad.
-
-ART. 2020.- El acto constitutivo de la sociedad debe contener:
-
-I.- Los nombres y apellidos de los otorgantes que son capaces de obligarse;
-
-II.- La razón social;
-
-III.- El objeto de la sociedad;
-
-IV.- El importe del capital social y la aportación con que cada socio debe contribuir;
-
-V.- El domicilio de la sociedad.
-
-ART. 2021.- Si falta alguno de esos requisitos se aplicará lo que dispone el artículo 2018.
-
-ART. 2022.- Será nula la sociedad cuando se estipule que los provechos pertenezcan exclusivamente a uno o a varios socios y todas las pérdidas a otro u otros.
-
-ART. 2023.- Las sociedades de naturaleza civil, que tomen la forma de las sociedades mercantiles, quedan sujetas al Código de Comercio
-
-ART. 2024.- No puede estipularse que a los socios capitalistas se les restituya su aporte con una cantidad adicional haya o no ganancias.
-
-ART. 2025.- El acto constitutivo de la sociedad no puede modificarse sino por consentimiento unánime de los socios.
-
-ART. 2026.- Después de la razón social se agregarán estas palabras: "Sociedad Civil".
-
-### CAPITULO II. DE LOS SOCIOS
-
-ART. 2027.- Cada socio estará obligado al saneamiento, para el caso de evicción de los bienes que aporte a la sociedad y a indemnizar por los defectos de esos bienes; mas si lo que prometió fue el aprovechamiento de bienes determinados, responderá por ellos según los principios que rigen las obligaciones entre el arrendador y el arrendatario.
-
-ART. 2028.- A menos que lo establezca el acto constitutivo de la sociedad, no puede obligarse a los socios a hacer una nueva aportación para ensanchar los negocios sociales. Cuando el aumento del capital social sea acordado por la mayoría, los socios que no estén conformes pueden separarse de la sociedad.
-
-ART. 2029.- Las obligaciones sociales estarán garantizadas subsidiariamente por la responsabilidad ilimitada y solidaria de los socios que administren; los demás socios, salvo lo que se establezca en el acto constitutivo de la sociedad, sólo estarán obligados con su aportación.
-
-ART. 2030.- Los socios no pueden ceder sus derechos sin el consentimiento previo y unánime de los demás coasociados; y sin él tampoco pueden admitirse otros nuevos socios, salvo pacto en contrario en uno y otro caso.
-
-ART. 2031.- Los socios gozarán del derecho del tanto. Si varios socios quieren hacer uso del derecho del tanto, les competerá éste en la proporción que representen. El término para hacer uso del derecho del tanto será el de ocho días, contados desde que reciban aviso del que pretenda enajenar.
-
-ART. 2032.- Ningún socio puede ser excluido de la sociedad sino por el acuerdo unánime de los demás socios y por causa grave prevista en los estatutos.
-
-ART. 2033.- El socio excluido es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte del capital o utilidades de aquél, hasta concluir las operaciones pendientes al tiempo de la declaración, debiendo hacerse hasta entonces la liquidación correspondiente.
 
 ## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
@@ -7593,6 +7573,62 @@ ART. 2014.- Las asociaciones de beneficencia se regirán por las leyes correspon
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
+### CAPITULO I. DISPOSICIONES GENERALES
+
+ART. 2015.- Cuando varias personas se obligan mutuamente a combinar sus recursos o sus esfuerzos para la realización de un fin común de carácter preponderantemente económico, pero que no constituya una especulación comercial, crean una sociedad civil que estará dotada de patrimonio y personalidad jurídica propia.
+
+ART. 2016.- La aportación de los socios puede consistir en una cantidad de dinero u otros bienes, o en su industria. La aportación de bienes implica la transmisión de su dominio a la sociedad, salvo que expresamente se pacte otra cosa.
+
+ART. 2017.- El acto constitutivo de la sociedad debe constar en escritura pública, la que se inscribirá en el Registro Público, para que surta efectos contra tercero.
+
+ART. 2018.- La falta de la forma prescrita en el artículo anterior sólo produce el efecto de que los socios puedan pedir en cualquier tiempo, que se haga la liquidación de la sociedad conforme al capítulo V de este Título; pero mientras esa liquidación no se pida, la sociedad produce todos sus efectos entre los socios y éstos no pueden oponer a terceros que hayan contratado con ella, la falta de forma.
+
+ART. 2019.- Si se formare una sociedad para un objeto ilícito, a solicitud de cualquiera de los socios o de un tercero interesado, se declarará la nulidad de la sociedad, la cual se pondrá en liquidación.
+
+Después de pagadas las deudas sociales, conforme a la ley, a los socios se les reembolsará lo que hubieren llevado a la sociedad.
+
+Las utilidades se destinarán a los establecimientos de beneficencia pública del domicilio de la sociedad.
+
+ART. 2020.- El acto constitutivo de la sociedad debe contener:
+
+I.- Los nombres y apellidos de los otorgantes que son capaces de obligarse;
+
+II.- La razón social;
+
+III.- El objeto de la sociedad;
+
+IV.- El importe del capital social y la aportación con que cada socio debe contribuir;
+
+V.- El domicilio de la sociedad.
+
+ART. 2021.- Si falta alguno de esos requisitos se aplicará lo que dispone el artículo 2018.
+
+ART. 2022.- Será nula la sociedad cuando se estipule que los provechos pertenezcan exclusivamente a uno o a varios socios y todas las pérdidas a otro u otros.
+
+ART. 2023.- Las sociedades de naturaleza civil, que tomen la forma de las sociedades mercantiles, quedan sujetas al Código de Comercio
+
+ART. 2024.- No puede estipularse que a los socios capitalistas se les restituya su aporte con una cantidad adicional haya o no ganancias.
+
+ART. 2025.- El acto constitutivo de la sociedad no puede modificarse sino por consentimiento unánime de los socios.
+
+ART. 2026.- Después de la razón social se agregarán estas palabras: "Sociedad Civil".
+
+### CAPITULO II. DE LOS SOCIOS
+
+ART. 2027.- Cada socio estará obligado al saneamiento, para el caso de evicción de los bienes que aporte a la sociedad y a indemnizar por los defectos de esos bienes; mas si lo que prometió fue el aprovechamiento de bienes determinados, responderá por ellos según los principios que rigen las obligaciones entre el arrendador y el arrendatario.
+
+ART. 2028.- A menos que lo establezca el acto constitutivo de la sociedad, no puede obligarse a los socios a hacer una nueva aportación para ensanchar los negocios sociales. Cuando el aumento del capital social sea acordado por la mayoría, los socios que no estén conformes pueden separarse de la sociedad.
+
+ART. 2029.- Las obligaciones sociales estarán garantizadas subsidiariamente por la responsabilidad ilimitada y solidaria de los socios que administren; los demás socios, salvo lo que se establezca en el acto constitutivo de la sociedad, sólo estarán obligados con su aportación.
+
+ART. 2030.- Los socios no pueden ceder sus derechos sin el consentimiento previo y unánime de los demás coasociados; y sin él tampoco pueden admitirse otros nuevos socios, salvo pacto en contrario en uno y otro caso.
+
+ART. 2031.- Los socios gozarán del derecho del tanto. Si varios socios quieren hacer uso del derecho del tanto, les competerá éste en la proporción que representen. El término para hacer uso del derecho del tanto será el de ocho días, contados desde que reciban aviso del que pretenda enajenar.
+
+ART. 2032.- Ningún socio puede ser excluido de la sociedad sino por el acuerdo unánime de los demás socios y por causa grave prevista en los estatutos.
+
+ART. 2033.- El socio excluido es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte del capital o utilidades de aquél, hasta concluir las operaciones pendientes al tiempo de la declaración, debiendo hacerse hasta entonces la liquidación correspondiente.
+
 ### CAPITULO III. DE LA ADMINISTRACION DE LA SOCIEDAD
 
 ART. 2034.- La administración de la sociedad puede conferirse a uno o más socios. Habiendo socios especialmente encargados de la administración, los demás no podrán contrariar ni entorpecer las gestiones de aquéllos, ni impedir sus efectos. Si la administración no se hubiese limitado a alguno de los socios, se observará lo dispuesto en el artículo 2024.
@@ -7688,148 +7724,6 @@ ART. 2060.- Si el socio industrial hubiere contribuido también con cierto capit
 ART. 2061.- Si al terminar la sociedad en que hubiere socios capitalistas e industriales, resultare que no hubo ganancias, todo el capital se distribuirá entre los socios capitalistas.
 
 ART. 2062.- Salvo lo dispuesto en el acto constitutivo de la sociedad, los socios industriales no responderán de las pérdidas.
-
-### CAPITULO I. DE LA FIANZA EN GENERAL
-
-ART. 2135.- La fianza es un acto jurídico accesorio por el cual una persona se compromete a pagar por el deudor, la prestación de éste, o una equivalente o inferior, en igual o distinta especie, si el deudor no la cumple.
-
-ART. 2136.- La fianza puede ser legal, judicial, convencional, gratuita o a título oneroso.
-
-ART. 2137.- La fianza puede constituirse no sólo en favor del deudor principal, sino en el del fiador, ya sea que uno u otro, en sus respectivos casos, consienta en la garantía, ya sea que la ignore, ya sea que la contradiga.
-
-A la fianza de fianza que es la que se constituye en favor del fiador, se le llama también subfianza.
-
-ART. 2138.- La fianza debe otorgarse por escrito, pero cuando la obligación principal que garantice debe constar en escritura pública, se otorgará también con dicha formalidad.
-
-ART. 2139.- Es válido el contrato por virtud del cual el deudor se obliga a que un tercero otorgue fianza.
-
-Si el tercero no la otorga, el deudor deberá otorgar prenda o hipoteca, y si no lo hace, la obligación será exigible desde luego.
-
-ART. 2140.- También puede celebrarse una promesa de contrato en la cual un tercero se obliga con el deudor, a otorgar fianza en un tiempo determinado. En este caso, el contrato definitivo de fianza se otorgará con el acreedor, y, si el tercero se negare a otorgar la fianza, tienen acción directa para exigirla, tanto el acreedor como el deudor.
-
-ART. 2141.- Las cartas de recomendación en que se asegure la probidad y solvencia del alguien, no constituyen fianza.
-
-ART. 2142.- Si las cartas de recomendación fueren dadas de mala fe, afirmando falsamente la solvencia del recomendado, el que las suscriba será responsable del daño que sobreviniese a las personas a quienes se dirigen por la insolvencia del recomendado.
-
-ART. 2143.- No incurrirá en la responsabilidad establecida en el artículo anterior el que dio la carta si probase que no fue su recomendación la que condujo a tratar con su recomendado.
-
-ART. 2144.- En las obligaciones a plazo o de prestación periódica, el acreedor podrá exigir fianza, aun cuando en el contrato no se haya constituido, si después de celebrado, el deudor sufre menoscabo en sus bienes, o pretende ausentarse del lugar en que debe hacerse el pago.
-
-ART. 2145.- Si el fiador viniere a estado de insolvencia puede el acreedor pedir otro que reúna las cualidades exigidas por el artículo siguiente.
-
-ART. 2146.- El obligado a dar fiador debe presentar persona que tenga capacidad para obligarse y bienes suficientes para responder de la obligación que garantiza.
-
-El fiador se entenderá sometido a la jurisdicción del juez del lugar donde deba cumplirse la obligación.
-
-ART. 2147.- El que debiendo dar o reemplazar al fiador, no lo presenta dentro del término que el juez le señale, a petición de parte legítima, queda obligado al pago inmediato de la deuda, aunque no se haya vencido el plazo de ésta.
-
-ART. 2148.- Si la fianza fuera para garantizar la administración de bienes, cesará ésta si aquélla no se da en el término convenido o señalado por la ley o por el juez, salvo los casos en que la ley disponga otra cosa.
-
-ART. 2149.- Si la fianza importa garantía de cantidad que el deudor debe recibir, la suma se depositará mientras se dé la fianza.
-
-ART. 2150.- La fianza no puede existir sin una obligación válida. No obstante es válida la fianza que recae sobre una obligación cuya nulidad puede ser reclamada a virtud de una excepción puramente personal del obligado.
-
-ART. 2151.- La ilicitud en el objeto, motivo o fin de la obligación principal, originará la nulidad absoluta de la fianza.
-
-ART. 2152.- El fiador puede obligarse a menos y no a más que el deudor principal.
-
-ART. 2153.- Si el fiador se hubiere obligado a más que el deudor principal, se reducirá su obligación a los límites de la del deudor. En caso de duda sobre si se obligó por menos o por otro tanto de la obligación principal, se presume que se obligó por otro tanto.
-
-ART. 2154.- Puede prestarse fianza en garantía de deudas futuras, cuyo importe no sea aún conocido, pero no se podrá reclamar contra el fiador hasta que la deuda sea líquida y exigible. En este caso, si se convino en fijar determinado importe a la fianza y el fiador se hubiere obligado por una cantidad mayor del importe que corresponda a la obligación, una vez liquidada ésta será nula la fianza por el exceso.
-
-ART. 2155.- Las modalidades que afectan a la obligación principal, surten efectos con respecto a la fianza, que queda sujeta a las mismas.
-
-ART. 2156.- Las modalidades que se estipulen directamente respecto a la fianza, no afectan a la obligación principal.
-
-ART. 2157.- Es nulo el pacto por virtud del cual se establezca que la fianza será exigible aun cuando no lo sea la obligación principal, o antes de que venza el término señalado para el cumplimiento de la misma.
-
-ART. 2158.- Si se constituye fianza en el caso de simple mancomunidad de deudores, para responder por un deudor determinado, el fiador sólo quedará obligado si su fiado no cumple su parte correspondiente.
-
-ART. 2159.- La fianza constituida en favor de cierto deudor solidario, obliga al fiador por la totalidad de la prestación, para el caso de incumplimiento de su fiador.
-
-ART. 2160.- El fiador que paga por el deudor solidario la totalidad de la prestación, tiene derecho de exigir de los otros codeudores la parte que en ella les corresponda.
-
-ART. 2161.- Si el fiador pagó por un deudor solidario a quien exclusivamente interese el negocio que motivó la deuda, sólo podrá repetir contra su fiado, pero no contra los demás codeudores.
-
-ART. 2162.- Cualquier acto que interrumpa la prescripción que esté corriendo, en favor de uno de los deudores solidarios, interrumpe la prescripción de la fianza.
-
-ART. 2163.- El fiador, en el caso de solidaridad activa, se libera pagando a cualquiera de los acreedores.
-
-ART. 2164.- Si la obligación principal es solidaria, el fiador a quien se demande el pago de la deuda puede oponer las excepciones que le sean personales y todas las que competen a su fiado conforme a los artículos 1074 y 1083 respectivamente, según que la solidaridad sea activa o pasiva.
-
-ART. 2165.- Cuando existan diversos fiadores, puede estipularse simple mancomunidad entre los mismos o solidaridad.
-
-En el primer caso los fiadores sólo quedan obligados en la parte proporcional que les corresponda en la prestación del deudor.
-
-ART. 2166.- Puede pactarse que el fiador quede obligado a ejecutar una prestación distinta de la principal, pero siempre y cuando apreciada en dinero, no resulte superior a esta última.
-
-ART. 2167.- Es válido el pacto por virtud del cual el fiador puede elegir entre pagar la prestación principal u otra distinta.
-
-ART. 2168.- Puede obligarse el fiador a pagar una cantidad en dinero si el deudor principal no cumple una obligación de dar, de hacer o de no hacer.
-
-ART. 2169.- En el caso del artículo anterior, el fiador se libera de su obligación pagando la cantidad pactada; pero si la obligación principal es de hacer, puede el deudor en vez de pagar la cantidad pactada, optar por liberarse de su obligación prestando el mismo hecho que constituye el objeto de la obligación principal, cuando ésta sea de tal naturaleza que pueda realizarse por el mismo fiador o por cumplir lo que respecto del deudor principal establece el primer párrafo del artículo 1045.
-
-### CAPITULO II. EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL ACREEDOR
-
-ART. 2170.- El fiador tiene derecho de oponer al acreedor todas las excepciones inherentes a la obligación principal y a la fianza, y las que sean personales del deudor; pero para resolver sobre estas últimas, el juez llamará al juicio al deudor.
-
-ART. 2171.- La renuncia voluntaria que hiciese el deudor de la prescripción de la deuda, o de otra causa de liberación, de la nulidad o rescisión de la obligación, no impide que el fiador haga valer esas excepciones.
-
-ART. 2172.- Se reconocen como beneficios del fiador los del orden, excusión y división.
-
-ART. 2173.- Los beneficios de orden y excusión operan por ministerio de la ley y sólo pueden perderse por disposición de ésta o por renuncia que legalmente haga el fiador. El beneficio de división sólo opera cuando se ha convenido expresamente, a efecto de dividir la deuda entre los fiadores.
-
-ART. 2174.- El fiador no puede ser compelido a pagar al acreedor, sin que previamente sea reconvenido el deudor y se haga la excusión de sus bienes.
-
-ART. 2175.- La excusión consiste en aplicar todo el valor libre de los bienes del deudor al pago de la obligación, que quedará extinguida o reducida a la parte que no se ha cubierto.
-
-ART. 2176.- Ni el orden ni la excusión proceden:
-
-I.- Cuando el fiador renunció expresamente a ellos;
-
-II.- Cuando el fiador se obligó solidariamente con el deudor;
-
-III.- En los casos de concurso o de insolvencia probada del deudor;
-
-IV.- Cuando el deudor no puede ser judicialmente demandado dentro del territorio del Estado;
-
-V.- Cuando el negocio para que se prestó la fianza sea propio del fiador;
-
-VI.- Cuando se ignore el paradero del deudor, siempre que llamado éste por edictos, no comparezca ni tenga bienes embargados en el lugar donde deba cumplirse la obligación; y
-
-VII.- Cuando la fianza sea legal o judicial.
-
-ART. 2177.- Para que los beneficios de orden y excusión aprovechen al fiador, son indispensables los requisitos siguientes:
-
-I.- Que el fiador los alegue luego que se le requiera de pago;
-
-II.- Que designe bienes del deudor que basten para cubrir el crédito y que se hallen dentro del distrito judicial en que deba hacerse el pago; y
-
-III.- Que anticipe o asegure competentemente los gastos de excusión.
-
-ART. 2178.- Si el deudor adquiere bienes después del requerimiento, o si se descubren los que hubiese ocultado, el fiador puede pedir la excusión, aunque antes no la haya pedido.
-
-ART. 2179.- El acreedor puede obligar al fiador a que haga la excusión en los bienes del deudor.
-
-ART. 2180.- Si el fiador, voluntariamente u obligador (sic) por el acreedor hace por sí mismo la excusión, y pide plazo, el juez puede concederle el que crea conveniente, atendidas las circunstancias de las personas y las calidades de la obligación.
-
-ART. 2181.- El acreedor que, cumplidos los requisitos del artículo 2177 hubiere sido negligente en promover la excusión, queda responsable de los perjuicios que pueda causar al fiador, y éste libre de la obligación hasta la cantidad a que alcancen los bienes que hubiere designado para la excusión.
-
-ART. 2182.- Cuando el fiador haya renunciado el beneficio de orden, pero no el de excusión, el acreedor puede perseguir en un mismo juicio al deudor principal y al fiador, mas éste conservará el beneficio de excusión, aun cuando se dé sentencia contra los dos.
-
-ART. 2183.- Si hubiere renunciado a los beneficios de orden y excusión, el fiador, al ser demandado por el acreedor debe denunciar el pleito al deudor principal, para que éste rinda las pruebas que crea conveniente; y en caso de que no salga al juicio para el indicado objeto, le perjudicará la sentencia que se pronuncie contra el fiador .
-
-ART. 2184.- El que fía al fiador goza de los beneficios de orden y excusión, tanto en contra del fiador como contra del deudor principal.
-
-ART. 2185.- No fían a un fiador los testigos que declaren de ciencia cierta en favor de su idoneidad, pero por analogía, se les aplicará lo dispuesto en el artículo 2142.
-
-ART. 2186.- La transacción entre el acreedor y el deudor principal aprovecha al fiador; pero no le perjudica. La celebrada entre el fiador y el acreedor aprovecha, pero no perjudica al deudor principal.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 2187.- Si son varios los fiadores de un deudor por una sola deuda, responderá cada uno de ellos por la totalidad de aquélla, no habiendo convenio en contrario; pero si sólo uno de los fiadores es demandado, podrá hacer citar a los demás para que se defiendan juntamente, y en la proporción debida estén a las resultas del juicio.
-
-ART. 2188.- Los efectos del bien juzgado en contra del deudor, por sentencia obtenida en juicio seguido por el acreedor, no perjudican al fiador, quien puede oponer las excepciones que sean inherentes a la obligación principal o a la fianza, exceptuando las que sean personales del deudor.
 
 ## TITULO DÉCIMO SEXTO. DE LA APARCERIA RURAL
 
@@ -8019,6 +7913,148 @@ ART. 2134.- No podrá intentarse demanda contra el valor o subsistencia de una t
 
 ## TITULO VIGESIMO. DE LA FIANZA
 
+### CAPITULO I. DE LA FIANZA EN GENERAL
+
+ART. 2135.- La fianza es un acto jurídico accesorio por el cual una persona se compromete a pagar por el deudor, la prestación de éste, o una equivalente o inferior, en igual o distinta especie, si el deudor no la cumple.
+
+ART. 2136.- La fianza puede ser legal, judicial, convencional, gratuita o a título oneroso.
+
+ART. 2137.- La fianza puede constituirse no sólo en favor del deudor principal, sino en el del fiador, ya sea que uno u otro, en sus respectivos casos, consienta en la garantía, ya sea que la ignore, ya sea que la contradiga.
+
+A la fianza de fianza que es la que se constituye en favor del fiador, se le llama también subfianza.
+
+ART. 2138.- La fianza debe otorgarse por escrito, pero cuando la obligación principal que garantice debe constar en escritura pública, se otorgará también con dicha formalidad.
+
+ART. 2139.- Es válido el contrato por virtud del cual el deudor se obliga a que un tercero otorgue fianza.
+
+Si el tercero no la otorga, el deudor deberá otorgar prenda o hipoteca, y si no lo hace, la obligación será exigible desde luego.
+
+ART. 2140.- También puede celebrarse una promesa de contrato en la cual un tercero se obliga con el deudor, a otorgar fianza en un tiempo determinado. En este caso, el contrato definitivo de fianza se otorgará con el acreedor, y, si el tercero se negare a otorgar la fianza, tienen acción directa para exigirla, tanto el acreedor como el deudor.
+
+ART. 2141.- Las cartas de recomendación en que se asegure la probidad y solvencia del alguien, no constituyen fianza.
+
+ART. 2142.- Si las cartas de recomendación fueren dadas de mala fe, afirmando falsamente la solvencia del recomendado, el que las suscriba será responsable del daño que sobreviniese a las personas a quienes se dirigen por la insolvencia del recomendado.
+
+ART. 2143.- No incurrirá en la responsabilidad establecida en el artículo anterior el que dio la carta si probase que no fue su recomendación la que condujo a tratar con su recomendado.
+
+ART. 2144.- En las obligaciones a plazo o de prestación periódica, el acreedor podrá exigir fianza, aun cuando en el contrato no se haya constituido, si después de celebrado, el deudor sufre menoscabo en sus bienes, o pretende ausentarse del lugar en que debe hacerse el pago.
+
+ART. 2145.- Si el fiador viniere a estado de insolvencia puede el acreedor pedir otro que reúna las cualidades exigidas por el artículo siguiente.
+
+ART. 2146.- El obligado a dar fiador debe presentar persona que tenga capacidad para obligarse y bienes suficientes para responder de la obligación que garantiza.
+
+El fiador se entenderá sometido a la jurisdicción del juez del lugar donde deba cumplirse la obligación.
+
+ART. 2147.- El que debiendo dar o reemplazar al fiador, no lo presenta dentro del término que el juez le señale, a petición de parte legítima, queda obligado al pago inmediato de la deuda, aunque no se haya vencido el plazo de ésta.
+
+ART. 2148.- Si la fianza fuera para garantizar la administración de bienes, cesará ésta si aquélla no se da en el término convenido o señalado por la ley o por el juez, salvo los casos en que la ley disponga otra cosa.
+
+ART. 2149.- Si la fianza importa garantía de cantidad que el deudor debe recibir, la suma se depositará mientras se dé la fianza.
+
+ART. 2150.- La fianza no puede existir sin una obligación válida. No obstante es válida la fianza que recae sobre una obligación cuya nulidad puede ser reclamada a virtud de una excepción puramente personal del obligado.
+
+ART. 2151.- La ilicitud en el objeto, motivo o fin de la obligación principal, originará la nulidad absoluta de la fianza.
+
+ART. 2152.- El fiador puede obligarse a menos y no a más que el deudor principal.
+
+ART. 2153.- Si el fiador se hubiere obligado a más que el deudor principal, se reducirá su obligación a los límites de la del deudor. En caso de duda sobre si se obligó por menos o por otro tanto de la obligación principal, se presume que se obligó por otro tanto.
+
+ART. 2154.- Puede prestarse fianza en garantía de deudas futuras, cuyo importe no sea aún conocido, pero no se podrá reclamar contra el fiador hasta que la deuda sea líquida y exigible. En este caso, si se convino en fijar determinado importe a la fianza y el fiador se hubiere obligado por una cantidad mayor del importe que corresponda a la obligación, una vez liquidada ésta será nula la fianza por el exceso.
+
+ART. 2155.- Las modalidades que afectan a la obligación principal, surten efectos con respecto a la fianza, que queda sujeta a las mismas.
+
+ART. 2156.- Las modalidades que se estipulen directamente respecto a la fianza, no afectan a la obligación principal.
+
+ART. 2157.- Es nulo el pacto por virtud del cual se establezca que la fianza será exigible aun cuando no lo sea la obligación principal, o antes de que venza el término señalado para el cumplimiento de la misma.
+
+ART. 2158.- Si se constituye fianza en el caso de simple mancomunidad de deudores, para responder por un deudor determinado, el fiador sólo quedará obligado si su fiado no cumple su parte correspondiente.
+
+ART. 2159.- La fianza constituida en favor de cierto deudor solidario, obliga al fiador por la totalidad de la prestación, para el caso de incumplimiento de su fiador.
+
+ART. 2160.- El fiador que paga por el deudor solidario la totalidad de la prestación, tiene derecho de exigir de los otros codeudores la parte que en ella les corresponda.
+
+ART. 2161.- Si el fiador pagó por un deudor solidario a quien exclusivamente interese el negocio que motivó la deuda, sólo podrá repetir contra su fiado, pero no contra los demás codeudores.
+
+ART. 2162.- Cualquier acto que interrumpa la prescripción que esté corriendo, en favor de uno de los deudores solidarios, interrumpe la prescripción de la fianza.
+
+ART. 2163.- El fiador, en el caso de solidaridad activa, se libera pagando a cualquiera de los acreedores.
+
+ART. 2164.- Si la obligación principal es solidaria, el fiador a quien se demande el pago de la deuda puede oponer las excepciones que le sean personales y todas las que competen a su fiado conforme a los artículos 1074 y 1083 respectivamente, según que la solidaridad sea activa o pasiva.
+
+ART. 2165.- Cuando existan diversos fiadores, puede estipularse simple mancomunidad entre los mismos o solidaridad.
+
+En el primer caso los fiadores sólo quedan obligados en la parte proporcional que les corresponda en la prestación del deudor.
+
+ART. 2166.- Puede pactarse que el fiador quede obligado a ejecutar una prestación distinta de la principal, pero siempre y cuando apreciada en dinero, no resulte superior a esta última.
+
+ART. 2167.- Es válido el pacto por virtud del cual el fiador puede elegir entre pagar la prestación principal u otra distinta.
+
+ART. 2168.- Puede obligarse el fiador a pagar una cantidad en dinero si el deudor principal no cumple una obligación de dar, de hacer o de no hacer.
+
+ART. 2169.- En el caso del artículo anterior, el fiador se libera de su obligación pagando la cantidad pactada; pero si la obligación principal es de hacer, puede el deudor en vez de pagar la cantidad pactada, optar por liberarse de su obligación prestando el mismo hecho que constituye el objeto de la obligación principal, cuando ésta sea de tal naturaleza que pueda realizarse por el mismo fiador o por cumplir lo que respecto del deudor principal establece el primer párrafo del artículo 1045.
+
+### CAPITULO II. EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL ACREEDOR
+
+ART. 2170.- El fiador tiene derecho de oponer al acreedor todas las excepciones inherentes a la obligación principal y a la fianza, y las que sean personales del deudor; pero para resolver sobre estas últimas, el juez llamará al juicio al deudor.
+
+ART. 2171.- La renuncia voluntaria que hiciese el deudor de la prescripción de la deuda, o de otra causa de liberación, de la nulidad o rescisión de la obligación, no impide que el fiador haga valer esas excepciones.
+
+ART. 2172.- Se reconocen como beneficios del fiador los del orden, excusión y división.
+
+ART. 2173.- Los beneficios de orden y excusión operan por ministerio de la ley y sólo pueden perderse por disposición de ésta o por renuncia que legalmente haga el fiador. El beneficio de división sólo opera cuando se ha convenido expresamente, a efecto de dividir la deuda entre los fiadores.
+
+ART. 2174.- El fiador no puede ser compelido a pagar al acreedor, sin que previamente sea reconvenido el deudor y se haga la excusión de sus bienes.
+
+ART. 2175.- La excusión consiste en aplicar todo el valor libre de los bienes del deudor al pago de la obligación, que quedará extinguida o reducida a la parte que no se ha cubierto.
+
+ART. 2176.- Ni el orden ni la excusión proceden:
+
+I.- Cuando el fiador renunció expresamente a ellos;
+
+II.- Cuando el fiador se obligó solidariamente con el deudor;
+
+III.- En los casos de concurso o de insolvencia probada del deudor;
+
+IV.- Cuando el deudor no puede ser judicialmente demandado dentro del territorio del Estado;
+
+V.- Cuando el negocio para que se prestó la fianza sea propio del fiador;
+
+VI.- Cuando se ignore el paradero del deudor, siempre que llamado éste por edictos, no comparezca ni tenga bienes embargados en el lugar donde deba cumplirse la obligación; y
+
+VII.- Cuando la fianza sea legal o judicial.
+
+ART. 2177.- Para que los beneficios de orden y excusión aprovechen al fiador, son indispensables los requisitos siguientes:
+
+I.- Que el fiador los alegue luego que se le requiera de pago;
+
+II.- Que designe bienes del deudor que basten para cubrir el crédito y que se hallen dentro del distrito judicial en que deba hacerse el pago; y
+
+III.- Que anticipe o asegure competentemente los gastos de excusión.
+
+ART. 2178.- Si el deudor adquiere bienes después del requerimiento, o si se descubren los que hubiese ocultado, el fiador puede pedir la excusión, aunque antes no la haya pedido.
+
+ART. 2179.- El acreedor puede obligar al fiador a que haga la excusión en los bienes del deudor.
+
+ART. 2180.- Si el fiador, voluntariamente u obligador (sic) por el acreedor hace por sí mismo la excusión, y pide plazo, el juez puede concederle el que crea conveniente, atendidas las circunstancias de las personas y las calidades de la obligación.
+
+ART. 2181.- El acreedor que, cumplidos los requisitos del artículo 2177 hubiere sido negligente en promover la excusión, queda responsable de los perjuicios que pueda causar al fiador, y éste libre de la obligación hasta la cantidad a que alcancen los bienes que hubiere designado para la excusión.
+
+ART. 2182.- Cuando el fiador haya renunciado el beneficio de orden, pero no el de excusión, el acreedor puede perseguir en un mismo juicio al deudor principal y al fiador, mas éste conservará el beneficio de excusión, aun cuando se dé sentencia contra los dos.
+
+ART. 2183.- Si hubiere renunciado a los beneficios de orden y excusión, el fiador, al ser demandado por el acreedor debe denunciar el pleito al deudor principal, para que éste rinda las pruebas que crea conveniente; y en caso de que no salga al juicio para el indicado objeto, le perjudicará la sentencia que se pronuncie contra el fiador .
+
+ART. 2184.- El que fía al fiador goza de los beneficios de orden y excusión, tanto en contra del fiador como contra del deudor principal.
+
+ART. 2185.- No fían a un fiador los testigos que declaren de ciencia cierta en favor de su idoneidad, pero por analogía, se les aplicará lo dispuesto en el artículo 2142.
+
+ART. 2186.- La transacción entre el acreedor y el deudor principal aprovecha al fiador; pero no le perjudica. La celebrada entre el fiador y el acreedor aprovecha, pero no perjudica al deudor principal.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+ART. 2187.- Si son varios los fiadores de un deudor por una sola deuda, responderá cada uno de ellos por la totalidad de aquélla, no habiendo convenio en contrario; pero si sólo uno de los fiadores es demandado, podrá hacer citar a los demás para que se defiendan juntamente, y en la proporción debida estén a las resultas del juicio.
+
+ART. 2188.- Los efectos del bien juzgado en contra del deudor, por sentencia obtenida en juicio seguido por el acreedor, no perjudican al fiador, quien puede oponer las excepciones que sean inherentes a la obligación principal o a la fianza, exceptuando las que sean personales del deudor.
+
 ### CAPITULO III. DE LOS EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL DEUDOR
 
 ART. 2189.- En sus relaciones con el deudor, el fiador tendrá los siguientes derechos:
@@ -8141,6 +8177,8 @@ ART. 2222.- El fiador que haya de darse por disposición de la ley o por provide
 
 ART. 2223.- En todos los casos de fianzas legales o judiciales, los fiadores no gozarán de los beneficios de orden, excusión o división en su caso.
 
+## TITULO VIGÉSIMO PRIMERO. DE LA PRENDA
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ART. 2224.- Por el acto accesorio de prenda se constituye el derecho real del mismo nombre sobre un bien mueble, enajenable, que el deudor, o un tercero, entrega al acreedor para garantizar el cumplimiento de una obligación y su preferencia en el pago, quedando obligado quien la recibe a devolverla cuando se pague la deuda así garantizada.
@@ -8239,8 +8277,6 @@ ART. 2251.- Si el propietario del bien empeñado lo enajenare, la obligación de
 
 ART. 2252.- Los frutos del bien empeñado pertenecen al deudor; mas si por convenio los percibe el acreedor, su importe se imputará primero a los gastos y después a los intereses y el sobrante al capital.
 
-## TITULO VIGÉSIMO PRIMERO. DE LA PRENDA
-
 ### CAPITULO III. DE LA VENTA DEL BIEN PIGNORADO
 
 ART. 2253.- Si el deudor no paga en el plazo estipulado, y no habiendo plazo cuando tenga obligación de hacerlo conforme al artículo 1134, el acreedor podrá pedir y el juez decretará la venta de la prenda en pública almoneda, previa citación del deudor, y del constituyente de la garantía.
@@ -8280,6 +8316,8 @@ ART. 2266.- La prenda constituida por un tercero contra la voluntad del deudor, 
 ART. 2267.- El derecho y la obligación que resulte de la prenda son indivisibles, salvo acuerdo en contrario de las partes; pero, cuando el deudor está facultado para hacer pagos parciales y se haya dado en prenda varios objetos o uno que sea cómodamente divisible, la garantía se irá reduciendo proporcionalmente a los pagos hechos, con tal de que los derechos del acreedor queden eficazmente garantizados.
 
 ART. 2268.- Extinguida la obligación principal sea por el pago, sea por cualquiera otra causa legal, quedará extinguido el derecho de prenda.
+
+## TITULO VIGESIMO SEGUNDO. DE LA HIPOTECA
 
 ### CAPITULO I. DE LA HIPOTECA EN GENERAL
 
@@ -8466,8 +8504,6 @@ ART. 2309.- Si antes de que expire el plazo se prorrogare por primera vez, duran
 ART. 2310.- La hipoteca prorrogada por segunda o más veces, sólo conservará la preferencia derivada del registro de su constitución por el tiempo a que se refiere el Artículo anterior por el demás tiempo, o sea el de la segunda o ulterior prórroga, sólo tendrá la prelación que le corresponda por la fecha del último registro.
 
 Lo mismo se observará en el caso de que el acreedor conceda un nuevo plazo para que se le pague el crédito.
-
-## TITULO VIGESIMO SEGUNDO. DE LA HIPOTECA
 
 ### CAPITULO III. DE LA HIPOTECA NECESARIA
 
@@ -8669,6 +8705,10 @@ SEGUNDA PARTE
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
 
+## TITULO UNICO. DEL REGISTRO PUBLICO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ART. 2342.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
@@ -8712,10 +8752,6 @@ ART. 2358.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO P
 ART. 2359.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
 ART. 2360.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
-
-## TITULO UNICO. DEL REGISTRO PUBLICO
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
 
@@ -8809,6 +8845,40 @@ ART. 2395.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO P
 
 ART. 2396.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
+# LIBRO QUINTO. DE LAS SUCESIONES
+
+## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+ART. 2397.- Herencia es la universalidad de los bienes y obligaciones de una persona, que con motivo de su muerte se transmiten a sus sucesores, exceptuándose los que se extinguen con el fallecimiento.
+
+ART. 2398.- La herencia se defiere conforme a la voluntad del autor de la sucesión, o a falta de ella, de acuerdo con las disposiciones de la ley. A la primera se le denomina testamentaria, a la segunda, legítima.
+
+ART. 2399.- El testador puede disponer de todos sus bienes o de parte de ellos. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+ART. 2400.- El heredero adquiere a título universal y responde de las cargas de la herencia hasta donde alcance la cuantía de los bienes que heredan.
+
+ART. 2401.- El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos
+
+ART. 2402.- Cuando toda herencia se distribuya en legados, los legatarios serán considerados como herederos.
+
+ART. 2403.- Si el autor de la herencia y sus herederos o legatarios perecieron en el mismo desastre o el mismo día, sin que se pueda determinar exactamente quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
+
+ART. 2404.- A la muerte del autor de la sucesión, los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras que no se hace la división.
+
+ART. 2405.- Cada heredero puede disponer del derecho que tiene a la herencia, pero no puede disponer de los bienes que la forman.
+
+ART. 2406.- El heredero o legatario no puede enajenar su parte en la herencia sino después de la muerte de aquel a quien hereda.
+
+ART. 2407.- El legatario adquiere derecho al legado puro y simple, así como al de día cierto, desde el momento de la muerte del testador.
+
+ART. 2408.- Los herederos gozan del derecho del tanto en caso de que alguno de ellos quiera enajenar su derecho hereditario. Al respecto se aplicarán las reglas dispuestas para los copropietarios en los artículos 879 y 880.
+
+ART. 2409.- El derecho establecido en el artículo anterior cesa si la enajenación se hace a un coheredero.
+
+## TITULO SEGUNDO. DE LA SUCESION TESTAMENTARIA
+
 ### CAPITULO I. DE LOS TESTAMENTOS EN GENERAL
 
 ART. 2410.- Testamento es un acto personalísimo y revocable, mediante el cual, una persona capaz para otorgarlo, puede disponer la transmisión de su patrimonio y declarar o cumplir deberes, para después de su muerte.
@@ -8854,40 +8924,6 @@ I.- El tutor, o en defecto de éste cualquier pariente de aquél, solicitará po
 II.- Se hará constar en acta formal el resultado del reconocimiento, y si éste fuera favorable, se procederá desde luego al otorgamiento de testamento ante notario público, con todas las formalidades que se requieren para los testamentos públicos abiertos;
 
 III.- Firmarán el acta, además del notario y los testigos, el juez y los médicos que hayan intervenido en el reconocimiento, asentándose en la parte final del testamento razón expresa de que durante todo el acto conservó el testador perfecta lucidez.
-
-# LIBRO QUINTO. DE LAS SUCESIONES
-
-## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
-
-ART. 2397.- Herencia es la universalidad de los bienes y obligaciones de una persona, que con motivo de su muerte se transmiten a sus sucesores, exceptuándose los que se extinguen con el fallecimiento.
-
-ART. 2398.- La herencia se defiere conforme a la voluntad del autor de la sucesión, o a falta de ella, de acuerdo con las disposiciones de la ley. A la primera se le denomina testamentaria, a la segunda, legítima.
-
-ART. 2399.- El testador puede disponer de todos sus bienes o de parte de ellos. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 2400.- El heredero adquiere a título universal y responde de las cargas de la herencia hasta donde alcance la cuantía de los bienes que heredan.
-
-ART. 2401.- El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos
-
-ART. 2402.- Cuando toda herencia se distribuya en legados, los legatarios serán considerados como herederos.
-
-ART. 2403.- Si el autor de la herencia y sus herederos o legatarios perecieron en el mismo desastre o el mismo día, sin que se pueda determinar exactamente quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
-
-ART. 2404.- A la muerte del autor de la sucesión, los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras que no se hace la división.
-
-ART. 2405.- Cada heredero puede disponer del derecho que tiene a la herencia, pero no puede disponer de los bienes que la forman.
-
-ART. 2406.- El heredero o legatario no puede enajenar su parte en la herencia sino después de la muerte de aquel a quien hereda.
-
-ART. 2407.- El legatario adquiere derecho al legado puro y simple, así como al de día cierto, desde el momento de la muerte del testador.
-
-ART. 2408.- Los herederos gozan del derecho del tanto en caso de que alguno de ellos quiera enajenar su derecho hereditario. Al respecto se aplicarán las reglas dispuestas para los copropietarios en los artículos 879 y 880.
-
-ART. 2409.- El derecho establecido en el artículo anterior cesa si la enajenación se hace a un coheredero.
-
-## TITULO SEGUNDO. DE LA SUCESION TESTAMENTARIA
 
 ### CAPITULO III. DE LA CAPACIDAD DE ADQUIRIR POR SUCESION
 
@@ -9045,11 +9081,15 @@ En cuanto sean incompatibles, no se aplicarán a los alimentos debidos por suces
 
 ART. 2474.- Cuando los bienes hereditarios no fueren suficientes para dar alimentos a todos los acreedores a ellos, se observarán las reglas siguientes:
 
-I.- Se ministrarán a los descendientes y el cónyuge supérstite a prorrata;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+I.- Se ministrarán a los descendientes y el cónyuge o concubino supérstite a prorrata;
 
 II.- Cubiertas las pensiones a que se refiere la fracción anterior, se ministrarán a prorrata a los ascendientes;
 
-III.- Después se ministrarán también a prorrata, a los hermanos y a la persona con quien el testador haya vivido en concubinato;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+III.- Después se ministrarán también a prorrata, a los hermanos; y
 
 IV.- Por último se ministrarán igualmente a prorrata, a los demás parientes colaterales dentro del cuarto grado.
 
@@ -9365,6 +9405,8 @@ IV.- Si no llega a cumplirse, dentro del plazo fijado, la condición suspensiva 
 
 ART. 2585.- La disposición testamentaria que contenga condición de suceso pasado o presente desconocidos, no caduca aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, cuyos derechos se transmiten a sus respectivos herederos.
 
+## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ART. 2586.- El testamento, en cuanto a su forma, es ordinario o especial.
@@ -9474,8 +9516,6 @@ ART. 2606.- Las formalidades expresadas en este capítulo se perfeccionarán con
 ART. 2607.- Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
-
-## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
 ### CAPITULO II BIS. TESTAMENTO PUBLICO SIMPLIFICADO
 
@@ -9663,6 +9703,8 @@ ART. 2661.- Los tamaulipecos, que se encuentren en los supuestos previstos por e
 
 ART. 2662.- Los testamentos hechos fuera del territorio del Estado de Tamaulipas, pero dentro de la República y los hechos en el extranjero se regirán en cuanto a su forma y efectos por lo dispuesto respectivamente, en los artículos 12 y 13 de este Código.
 
+## TITULO CUARTO. DE LA SUCESION LEGITIMA
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ART. 2663.- La sucesión legítima se abre:
@@ -9679,7 +9721,9 @@ ART. 2664.- Cuando siendo válido el testamento no deba subsistir la institució
 
 ART. 2665.- Tienen derecho a heredar por sucesión legítima:
 
-I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado, y en ciertos casos los concubinos;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+I.- Los descendientes, cónyuge, concubinos, ascendientes, parientes colaterales dentro del cuarto grado; y
 
 II.- A falta de los anteriores, la Beneficencia Pública.
 
@@ -9706,8 +9750,6 @@ ART. 2674.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a
 ART. 2675.- El adoptado hereda como un hijo, pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
 
 ART. 2676.- Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
-
-## TITULO CUARTO. DE LA SUCESION LEGITIMA
 
 ### CAPITULO III. DE LA SUCESION DE LOS ASCENDIENTES
 
@@ -9753,19 +9795,21 @@ ART. 2692.- A falta de los llamados en los artículos anteriores, sucederán los
 
 ### CAPITULO VI. DE LA SUCESION DE LOS CONCUBINOS
 
-ART. 2693.- La persona con quien el autor de la herencia haya convivido como si fuera su cónyuge durante por lo menos los cinco años que precedieron inmediatamente a su muerte o con quien haya procreado descendencia, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, heredarán en las mismas porciones y orden que para el cónyuge supérstite establecen los artículos 2683 a 2687.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+ART. 2693.- La persona con quien el autor de la herencia haya convivido como si fuera su cónyuge durante por lo menos los dos años que precedieron inmediatamente a su muerte o con quien haya procreado descendencia, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, heredarán en las mismas porciones y orden que para el cónyuge supérstite establecen los artículos 2683 a 2687 de este Código.
 
-ART 2694.- Si la vida en común no duró el mínimo a que se refiere el artículo anterior, pero excedió de dos años, aunque no hubiera descendencia con el autor de la sucesión y siempre que hayan permanecido libres de matrimonio, el concubinario o la concubina supérstite tendrá derecho a alimentos si carece de bienes y está imposibilitado para trabajar. Este derecho cesa cuando el supérstite contraiga nupcias o viva nuevamente en concubinato.
+ART. 2694.- (DEROGADO, P.O. 15 DE JUNIO DE 2023)
 
-ART. 2695.- Si al morir el autor de la herencia tenía relaciones de concubinato con varias personas, en las condiciones mencionadas en el artículo 2693, ninguna de ellas heredará.
+ART. 2695.- (DEROGADO, P.O. 15 DE JUNIO DE 2023)
 
 ### CAPITULO VII. DE LA SUCESION DE LA BENEFICENCIA PUBLICA
 
 ART. 2696.- A falta de todos los herederos mencionados en los capítulos anteriores, sucederá la Beneficencia Pública.
 
 ART. 2697.- Cuando sea heredera la Beneficencia Pública y entre lo que le corresponda existan bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, se venderán los bienes en pública subasta antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
+
+## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
 ### CAPITULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA SUPERSTITE QUEDE ENCINTA
 
@@ -9806,8 +9850,6 @@ ART. 2707.- Mientras se nombra albacea, cualquiera de los herederos puede reclam
 ART. 2708.- Una vez nombrado el albacea, él deberá promover la reclamación a que se refiere el artículo precedente, y siendo moroso en hacerlo, los herederos tienen derecho de pedir su remoción.
 
 ART. 2709.- El derecho de reclamar la herencia prescribe en diez años y es transmisible a los herederos.
-
-## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
 ### CAPITULO III. DE LA ACEPTACION Y LA REPUDIACION DE LA HERENCIA
 
@@ -10826,6 +10868,14 @@ Los procesos administrativos y judiciales de adopción que se encuentren en trá
 P.O. 2 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-511 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 2297 Y UN CAPÍTULO III BIS AL TÍTULO VIGÉSIMO SEGUNDO DEL LIBRO CUARTO DENOMINADO “DE LA HIPOTECA INVERSA”, Y LOS ARTÍCULOS 2318 BIS; 2318 TER; 2318 QUATER; 2318 QUINQUIES; 2318 SEXIES; 2318 SEPTIES; 2318 OCTIES; 2318 NONIES Y 2318 DECIES, AL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-579 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE CONCUBINATO”.]
 
 ###### ARTÍCULO ÚNICO.
 
