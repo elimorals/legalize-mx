@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2023-05-23"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -910,6 +910,10 @@ El Gobierno del Estado y los municipios, en el ámbito de su competencia, establ
 ###### ARTÍCULO 76.
 
 El Gobierno del Estado y los municipios, en el ámbito de su competencia, ofrecerán servicios de orientación educativa, de trabajo social y de psicología desde la educación básica hasta la educación superior, de acuerdo con la suficiencia presupuestal y a las necesidades de cada plantel, a fin de fomentar una conciencia crítica que perfile a los educandos en la selección de su formación a lo largo de la vida para su desarrollo personal y contribuir al bienestar de sus comunidades.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 76 BIS. Las autoridades educativas en el Estado capacitarán técnica y operativamente al personal docente en primeros auxilios psicológicos, para tal efecto se coordinarán con la Secretaría de Salud, y podrán celebrar convenios de colaboración con las instituciones educativas para tal fin.
 
 ###### ARTÍCULO 77.
 
@@ -2154,5 +2158,13 @@ P.O. 23 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0760.- SE REFORMAN LOS ARTÍCULOS 11, FRACCIONES IV Y V, 13, FRACCIÓN X; Y ADICIONA A LOS ARTÍCULOS 11, LA FRACCIÓN VI Y 13, UNA FRACCIÓN, ÉSTA COMO XI, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0773.- SE ADICIONA EL ARTÍCULO 76 BIS, A LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
