@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2023-05-31"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -129,9 +129,19 @@ I.- Celebrarse ante el Oficial del Registro del Estado Familiar, habiendo satisf
 
 II.- La edad mínima para contraer matrimonio será de dieciocho años cumplidos; y
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+II Bis.- Acreditar haber participado en las pláticas prematrimoniales, impartidas por los Sistemas Municipales o Juntas Municipales para el Desarrollo Integral de la Familia de los municipios del Estado de Hidalgo, relativas a los derechos y obligaciones que se contraen con el vínculo del matrimonio de acuerdo con la presente Ley, así como sobre la prevención, detección, atención, sanción y erradicación de la violencia familiar y de género.
+
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 III.- Expresar su voluntad de unirse en matrimonio y manifestar bajo protesta de decir verdad al Oficial del Registro del Estado familiar no encontrarse en ninguno de los supuestos del Artículo 19 de la Ley para la Familia del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 12 Bis.
+
+Las pláticas prematrimoniales serán diseñadas por el Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, en conjunto con el Instituto Hidalguense de las Mujeres, y se impartirán de forma gratuita por los Sistemas Municipales o Juntas Municipales para el Desarrollo Integral de la Familia. Estas últimas autoridades emitirán las constancias correspondientes a las personas participantes.
 
 ###### Artículo 13.
 
@@ -2937,6 +2947,10 @@ En caso de reconocimiento judicial, la Jueza o el Juez serán los que decidirán
 
 El orden de los apellidos del primer hijo o hija, será el mismo para los demás descendientes del mismo vínculo, aun cuando las personas mencionadas en la fracción I de este artículo, se encuentren en proceso de divorcio o separación.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+El Oficial del Registro del Estado Familiar exhortará a quienes acudan a registrar a la menor o el menor para que seleccionen un nombre que no sea peyorativo, discriminatorio o denigrante.
+
 Una vez registrada la niña o el niño, se le deberá asignar la Clave Única de Registro de Población.
 
 ###### Artículo 417.
@@ -3528,5 +3542,17 @@ P.O. 13 DE ABRIL DE 2023.
 P.O. 31 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 509 POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 134 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 524 POR EL QUE SE ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 416 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 525 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
