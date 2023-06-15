@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2023-04-05"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -3687,6 +3687,10 @@ XIV. Proporcionar información falsa o incorrecta en los estudios o manifestacio
 
 XV. Realizar obras o actividades que causen o pudieran causar impacto ambiental negativo, sin la autorización correspondiente, o bien, en contravención de los términos y condiciones establecidos en la autorización o resolutiva derivada de la manifestación de impacto ambiental presentada;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XV. Bis. No retirar el cableado aéreo para la prestación de servicios de telecomunicaciones y similares que se encuentre de desuso, determinada por la autoridad competente previo desahogo del procedimiento administrativo establecido en el artículo 77 Bis 4 de la Ley de Protección Civil para el Estado de Nuevo León.
+
 XVI. Incumplir con los programas de restauración ecológica;
 
 XVII. Realizar obras o actividades que signifiquen riesgos al ambiente, que pongan en peligro la salud de la población, o que destruyan áreas naturales protegidas, de acuerdo a los criterios establecidos por esta Ley y otros ordenamientos aplicables;
@@ -4328,3 +4332,15 @@ P.O. 5 DE ABRIL DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Ejecutivo del Estado deberá ajustar sus ordenamientos legales, para dar debido cumplimiento a este decreto en un término no mayor a 90 días naturales.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 392. SE REFORMA EL INCISO H) DE LA FRACCIÓN V DEL ARTÍCULO 36, LAS FRACCIONES VII Y VIII DEL ARTÍCULO 84, SE ADICIONAN LAS FRACCIONES IV BIS Y IV BIS 1 AL ARTÍCULO 2 Y UN CAPÍTULO XII BIS DENOMINADO “DEL CONTROL, INSPECCIÓN Y VIGILANCIA DEL CABLEADO AÉREO” MISMO QUE CONTIENE LOS ARTÍCULOS 77 BIS, 77 BIS 1, 77 BIS 2, 77 BIS 3, 77 BIS 4, 77 BIS 5, 77 BIS 6, 77 BIS 7 Y 77 BIS 8, ASÍ COMO UNA FRACCIÓN IX AL ARTÍCULO 84, TODOS DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN XXXVIII DEL ARTÍCULO 3 Y EL TERCER PÁRRAFO DEL ARTÍCULO 252, SE ADICIONAN LAS FRACCIONES XCVIII Y XCIX AL ARTÍCULO 3, SE ADICIONAN LAS FRACCIONES XVIII BIS, XXVIII BIS, XXXII Y XXXIII AL ARTÍCULO 11, SE ADICIONAN LOS ARTÍCULOS 252 BIS, 252 BIS 1, 252 BIS 2, 252 BIS 3, 252 BIS 4, 252 BIS 5, 252 BIS 6 Y 252 BIS 7, TODOS DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DE NUEVO LEÓN; SE ADICIONA LA FRACCIÓN XV BIS AL ARTÍCULO 236 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO. Para el cumplimiento al presente Decreto, los concesionarios deberán implementar un plan de retiro de cableado aéreo en desuso, que deberán acordar con el ayuntamiento respectivo, dicho Plan deberá contener los lineamientos para realizar el retiro de cableado aéreo en desuso de manera progresiva en los 51 municipios del Estado de Nuevo León, esto dentro de un plazo máximo de 6 meses a la entrada en vigor del presente decreto.
+
+TERCERO. Los municipios dispondrán de un plazo de hasta 180 días posteriores a la entrada en vigor del presente decreto, para homologar su reglamentación con el fin de cumplir lo preceptuado por dicho decreto.
+
+CUARTO. Se deroga cualquier disposición en lo que se oponga al presente decreto.
