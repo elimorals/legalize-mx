@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-fomento-al-empleo-para-la-ciudad-de-63499"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-08"
-last_updated: "2023-02-08"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63499&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2008-09-30"
 
 LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE OCTUBRE DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 8 DE FEBRERO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 8 de octubre de 2008.
 
@@ -92,6 +90,10 @@ V. Persona titular de la Jefatura de Gobierno.- La persona titular de la Jefatur
 
 VI. Ley.- A la Ley de Protección y Fomento al Empleo para la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+VI Bis. Discriminación laboral.- Cualquier conducta que tenga por objeto o resultado la negación, exclusión, distinción, menoscabo, impedimento o restricción de los derechos laborales de las personas, grupos y comunidades, fundamentada en alguna de las categorías o conductas discriminatorias previstas en la Ley para Prevenir y Eliminar la Discriminación de la Ciudad de México.
+
 > <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
 VII. Reglamento.- Al Reglamento de la Ley de Protección y Fomento al Empleo para la Ciudad de México;
@@ -132,9 +134,9 @@ III. Promover y observar que los programas y acciones de capacitación local y/o
 
 III bis. Promover la sensibilización, capacitación y cursos en materia de derechos humanos, igualdad y no discriminación; realizar las inspecciones necesarias para la eliminación de todo tipo de estereotipos, prejuicios y estigmas de los grupos de atención prioritaria en el campo laboral;
 
-> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-IV. Coordinar con la Secretaría de Desarrollo Económico, autoridades federales y las demás áreas competentes en la implementación de estrategias públicas, programas y actividades de protección, promoción y fomento del empleo; así como para la disminución, erradicación y denuncia del acoso laboral;
+IV. Coordinar con la Secretaría de Desarrollo Económico, autoridades federales y las demás áreas competentes en la implementación de estrategias públicas, programas y actividades de protección, promoción y fomento del empleo; así como para la disminución, erradicación y denuncia de la discriminación y acoso laboral; y para garantizar entornos laborales física y mentalmente saludables.
 
 V. Fomentar una cultura emprendedora entre las clases, grupos y personas más desprotegidos y vulnerables de la sociedad a fin de que accedan a mejores niveles de bienestar, a través de programas y acciones de carácter laboral, económico y educativo de contenido social;
 
@@ -154,9 +156,17 @@ a) Las características fundamentales de la fuerza de trabajo, del desempleo y d
 
 b) De la oferta y demanda de trabajo, según las calificaciones requeridas y disponibles;
 
-c) Medios y mecanismos de la capacitación para el trabajo, y
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2023)</small>
 
-d) De los fenómenos relacionados con el aprovechamiento del factor humano.
+c) Medios y mecanismos de la capacitación para el trabajo,
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+d) De los fenómenos relacionados con el aprovechamiento del factor humano, y
+
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+e) De las condiciones de los entornos laborales en materia de salud física y mental.
 
 X. Promover una coordinación efectiva de la política de desarrollo económico y social tanto en el sector gubernamental como el privado, de manera que se logren los objetivos de fomento al empleo;
 
@@ -185,6 +195,10 @@ XX. Determinar, expedir coordinar y gestionar la convocatoria para acceder al se
 XXI. Promover y celebrar convenios de cooperación técnica y/o financiera con organismos gubernamentales, según sus facultades expresamente conferidas, y
 
 XXII. Dirigir y orientar a los solicitantes más adecuados por su preparación y aptitudes, hacia los empleos vacantes.
+
+(ADICIONADA, G.O. 15 DE JUNIO DE 2023).
+
+XXIII. Promover y celebrar convenios para la creación de entornos laborales física y mentalmente saludables.
 
 > <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -388,7 +402,13 @@ III. Personas con capacidades diferentes;
 
 IV. Personas con problemas de drogadicción o alcoholismo que se encuentren en procesos de rehabilitación o reinserción social; y
 
-V. Personas que se encuentran compurgando en libertad o que hayan compurgado la sentencia que se les impuso.
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+V. Personas que se encuentran compurgando en libertad o que hayan compurgado la sentencia que se les impuso; y
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+VI. Personas indígenas.
 
 ###### Artículo 25.
 
@@ -559,3 +579,11 @@ G.O. 27 DE OCTUBRE DE 2022.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 4º, SE REFORMA LA FRACCIÓN IV, SE MODIFICAN LOS INCISOS C) Y D) Y SE ADICIONA UN INCISO E), A LA FRACCIÓN IX, SE ADICIONA UNA FRACCIÓN XXIII, TODOS DEL ARTÍCULO 5º; SE MODIFICA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 24, TODOS DE LA LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
