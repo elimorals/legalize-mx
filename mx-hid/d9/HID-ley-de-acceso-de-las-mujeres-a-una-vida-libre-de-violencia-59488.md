@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2023-05-02"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -1407,6 +1407,10 @@ VIII.- Vigilar que la atención ofrecida en las diversas instituciones públicas
 
 IX.- Difundir la cultura de respeto a los derechos humanos de las mujeres;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+IX Bis.- Diseñar, en conjunto con el Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, las pláticas prematrimoniales previstas en el artículo 12 de la Ley para la Familia del Estado de Hidalgo, en materia de derechos y obligaciones del matrimonio y prevención, detección, atención, sanción y erradicación de la violencia familiar y de género;
+
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 X.- Integrar el banco de datos de violencia contra las mujeres que incluya información organizada por tipo y modalidad de violencia en colaboración con las instituciones del Sistema;
@@ -1534,6 +1538,10 @@ IV.- Implementar programas de asistencia social para mujeres ofendidas por viole
 > <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
 V.- Instrumentar campañas de prevención sobre violencia de género contra las mujeres, que tendrán como objetivo que la sociedad perciba el fenómeno como un asunto de violación a derechos humanos y seguridad pública;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+V Bis.- Diseñar, en conjunto con el Instituto Hidalguense de las Mujeres, las pláticas prematrimoniales previstas en el artículo 12 de la Ley para la Familia del Estado de Hidalgo, en materia de derechos y obligaciones del matrimonio y prevención, detección, atención, sanción y erradicación de la violencia familiar y de género.
 
 VI.- Impulsar procesos de capacitación sobre la violencia de género contra las mujeres para servidoras y servidores públicos de ese Organismo;
 
@@ -1948,3 +1956,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En un plazo que no exceda de noventa días contados a partir de la entrada en vigor del presente Decreto, el Instituto Hidalguense de las Mujeres deberá emitir los programas de capacitación para servidores públicos, así como la guía de información y los protocolos de seguimiento a los puntos violetas.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 525 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
