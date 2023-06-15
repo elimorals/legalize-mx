@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-seguridad-ciudadana-de-la-ciudad-de-137369"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-01"
-last_updated: "2022-10-21"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137369&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-01"
 
 LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el No. 147 bis de la Gaceta Oficial de la Ciudad de México, el jueves 1 de agosto de 2019.
 
@@ -236,9 +236,17 @@ XI. Privacidad y a la protección de la honra y la dignidad;
 
 XII. Libertad de expresión;
 
-XIII. Libertad de reunión y asociación y
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-XIV. Participación de los ciudadanos.
+XIII. Libertad de reunión y asociación;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XIV. Participación de los ciudadanos, y
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XV. Libertad de tránsito.
 
 Las acciones para proteger los derechos en materia de seguridad ciudadana deberán ejecutarse con enfoque diferenciado y perspectiva de género para los grupos de atención prioritaria frente a la violencia y el delito.
 
@@ -1624,6 +1632,10 @@ El Programa de Profesionalización es el instrumento en el que se establecen los
 
 Las Instituciones de Seguridad Ciudadana serán responsables de la formación, capacitación y actualización de sus integrantes. Estas actividades se realizarán conforme al Programa de Profesionalización.
 
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+El programa de Profesionalización podrá contener actividades y contenidos para la capacitación, adiestramiento y actualización en materia de primeros auxilios.
+
 ###### Artículo 97.
 
 Los Integrantes de las Instituciones de Seguridad Ciudadana deberán someterse y aprobar los procesos de evaluación de control de confianza, del desempeño y de competencias, de conformidad con lo dispuesto en esta Ley, la Ley General y demás normas aplicables.
@@ -1991,6 +2003,10 @@ La Universidad de la Policía de la Ciudad de México será responsable de aplic
 I. Aplicar los procedimientos homologados del Sistema, impulsando una doctrina policial civil en la que la formación y el desempeño de los integrantes de las Instituciones Policiales se rijan por el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, al imperio de la ley, al mando superior, y en lo conducente, a la perspectiva de género;
 
 II. Capacitar en materia de investigación científica y técnica a los servidores públicos;
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+II Bis. Capacitar en materia de primeros auxilios a las personas servidoras públicas;
 
 III. Proponer y desarrollar los programas de investigación académica en materia policial, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
@@ -2523,3 +2539,23 @@ G.O. 21 DE OCTUBRE DE 2022.
 PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 96 Y UNA FRACCIÓN II BIS AL ARTÍCULO 126, AMBOS A LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Secretaría de Seguridad Ciudadana de la Ciudad de México procurará que las y los elementos de dicha institución cuenten con una capacitación mínima en materia de primeros auxilios. Para tales efectos, deberá establecer los criterios o programas internos necesarios para dar cumplimiento de manera paulatina al presente Decreto, asimismo priorizará la instrucción a aquellos elementos policiales que por la naturaleza de sus funciones atiendan urgencias de la ciudadanía.
+
+CUARTO. La Secretaría de Seguridad Ciudadana de la Ciudad de México, deberá priorizar que la capacitación a que se refiere el presente decreto, sea paulatinamente a través de la Universidad del Policía o de su Dirección General del Escuadrón de Rescate y Urgencias Médicas, lo anterior a fin de eficientar los recursos económicos y administrativos.
+
+G.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 8 DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Remítase a la Jefatura de Gobierno para su promulgación en la Gaceta Oficial de la Ciudad de México.
