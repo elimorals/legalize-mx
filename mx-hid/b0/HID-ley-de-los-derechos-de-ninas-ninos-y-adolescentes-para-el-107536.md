@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2023-04-13"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,519 +21,397 @@ state: "HID"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA
+LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
-Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 7 de julio de 2007.
+Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
-EL CIUDADANO LICENCIADO JOSÉ REYES BAEZA TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
+JOSÉ FRANCISCO OLVERA RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
 
-QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE:
+QUE LA LXII LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
 
-DECRETO No.
+D E C R E T O NÚM. 419
 
-963/07 II P.O.
+QUE CONTIENE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO.
 
-LA SEXAGÉSIMA PRIMERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA, REUNIDA EN SU SEGUNDO PERÍODO ORDINARIO DE SESIONES, DENTRO DE SU TERCER AÑO DE EJERCICIO CONSTITUCIONAL,
+El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Artículos 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-D E C R E T A
+A N T E C E D E N T E S
 
-###### ARTICULO ÚNICO.
+[...]
 
-Se expide la Ley para Prevenir y Eliminar la Discriminación en el Estado de Chihuahua, para quedar redactada en los siguientes términos:
+POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
-LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA
+DECRETO
+
+QUE CONTIENE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO.
+
+###### ARTÍCULO ÚNICO.
+
+Se CREA la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo, para quedar como sigue:
 
 ## TÍTULO PRIMERO. De las Disposiciones Generales
 
 ###### Artículo 1.
 
-Las disposiciones de esta ley son de orden público y de interés social. El objeto de la misma es prevenir y eliminar, en el Estado de Chihuahua, todas las formas de discriminación que se ejerzan contra cualquier persona, agrupaciones o colectivos, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Chihuahua, así como promover la igualdad con equidad de oportunidades y de trato.
+La presente Ley es de orden público, interés social y observancia general en el territorio del Estado de Hidalgo, su aplicación corresponderá a todas las autoridades estatales y municipales, y tiene por objeto:
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+I. Reconocer a las niñas, niños y adolescentes que habiten y/o transiten el Estado de Hidalgo como titulares de derechos, con capacidad de goce de los mismos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; en los términos que establece el artículo 1º de la Constitución Política de los Estados Unidos Mexicanos y 4º de la Constitución Política del Estado de Hidalgo;
+
+II. Garantizar el pleno ejercicio, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Hidalgo y en los Tratados Internacionales de los que el Estado Mexicano forma parte;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+II Bis. Priorizar al grupo de edad de niñas y niños menores de seis años, como sujetos que gozan de derechos y atenciones especiales requeridas por su edad;
+
+III. Crear y regular la integración, organización y funcionamiento del Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, a efecto de que el Estado cumpla con su responsabilidad de garantizar la protección, prevención y restitución integrales de los derechos de niñas, niños y adolescentes que hayan sido vulnerados;
+
+IV. Establecer los principios rectores y criterios que orientarán la política estatal en materia de derechos de niñas, niños y adolescentes, así como las facultades, competencias, concurrencia y bases de coordinación entre la Federación, el Estado y los municipios; la actuación de los Poderes Legislativo y Judicial y los organismos constitucionales autónomos; y
+
+V. Establecer las bases generales para la participación de los sectores privado y social en las acciones tendentes a garantizar la protección y el ejercicio de los derechos de niñas, niños y adolescentes, así como a prevenir su vulneración.
 
 ###### Artículo 2.
 
-En el ámbito de sus atribuciones, corresponde al Ejecutivo del Estado y a los ayuntamientos promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas. Los sectores público, social y privado, deberán eliminar aquellos obstáculos que limiten en los hechos su ejercicio e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, cultural y social del país y promoverán la participación de las autoridades de los demás órdenes de Gobierno y de los particulares en la eliminación de dichos obstáculos.
+Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades realizarán las acciones y tomarán medidas, de conformidad con los principios establecidos en la presente Ley. Para tal efecto, deberán:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
+I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
+
+II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez; y
+
+III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de Tratados Internacionales en la materia.
+
+El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
+
+Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
+
+Las autoridades estatales y municipales, en el ámbito de sus competencias, deberán incorporar, preferentemente en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+
+El Congreso del Estado Libre y Soberano de Hidalgo y las Asambleas Municipales, establecerán en sus respectivos presupuestos, los recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
 
 ###### Artículo 3.
 
-El Ejecutivo del Estado y los ayuntamientos vigilarán que los planes estatal y municipales de desarrollo contengan las siguientes medidas de nivelación, inclusión y acciones afirmativas:
+El Estado y los municipios, en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, así como para garantizar su máximo bienestar posible, privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales.
 
-I. Mecanismos que permitan la participación activa, libre, informada y equitativa de las mujeres y los hombres;
-
-II. La inclusión de las minorías en el diseño, ejecución y evaluación de las políticas públicas;
-
-III. El respeto de la lengua y marcos normativos internos de las minorías y grupos étnicos; y
-
-IV. Mecanismos que permitan la inclusión y participación de las personas y grupos en situación de exclusión o vulnerabilidad.
-
-Los órganos públicos estatales y municipales adoptarán las medidas, acciones afirmativas y compensatorias que estén a su alcance, tanto por separado como coordinadamente, de conformidad con la disponibilidad de recursos que se haya determinado para tal fin en los Presupuestos de Egresos correspondientes, para que toda persona, agrupación o colectivo goce, sin discriminación alguna, de todos los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y en los Tratados Internacionales de los que México sea parte.
-
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
-
-Las medidas de nivelación, medidas de inclusión y acciones afirmativas que se establecen en la presente ley son de carácter progresivo, por lo que no podrán ser reducidas o eliminadas, sino únicamente ampliarse.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental y cívica de niñas, niños y adolescentes.
 
 ###### Artículo 4.
 
-Para los efectos de esta ley se entenderá por:
+Para los efectos de esta Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+I. Acciones Afirmativas: Acciones de carácter temporal, de políticas y prácticas de índole legislativa, administrativa y jurisdiccional que son correctivas, compensatorias y de promoción, encaminadas a acelerar la igualdad sustantiva entre niñas, niños y adolescentes;
 
-I. Discriminación: Toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades basada en el origen étnico, nacional o regional; en el sexo, la edad, la discapacidad, la condición social, económica o sociocultural; la apariencia física, las ideologías, las creencias, los caracteres genéticos, las condiciones de salud, el embarazo, la lengua, la religión, las opiniones, la orientación o preferencias sexuales, el estado civil, el color de piel, la cultura, el género, la condición jurídica, la situación migratoria, la identidad o filiación política, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales, o cualquier otra que tenga por efecto impedir o anular, total o parcialmente, el reconocimiento o el ejercicio de los derechos y la igualdad con equidad de oportunidades de las personas, haciéndolas nugatorias al afectado.
+II. Acogimiento Residencial: Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
 
-II. Comisión Estatal: A la Comisión Estatal para el Desarrollo Social y Humano prevista en la ley de la materia.
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-III. Subcomisión: A la Subcomisión para Prevenir y Eliminar la Discriminación, ubicada dentro de la Comisión Estatal.
+II Bis. Adopción: Es la integración a una familia de uno o varios menores de edad, como hijo o hijos biológicos, previo el procedimiento legal;
 
-IV. Presidente o Presidenta de la Subcomisión: Al Presidente(a) de la Subcomisión para Prevenir y Eliminar la Discriminación.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-V. Secretario(a) Técnico(a): Al de la Subcomisión para Prevenir y Eliminar la Discriminación.
+III. Adopción Internacional: Es la promovida por personas unidas por el vínculo jurídico del matrimonio que se adapte a las disposiciones legales que rigen en el Estado Libre y Soberano de Hidalgo, con residencia permanente fuera del territorio nacional, teniendo como objeto incorporar a su familia como hijo o hijos de matrimonio, a uno o más menores de edad de origen mexicano, previo el procedimiento legal, o cuando matrimonios con residencia dentro de los Estados Unidos Mexicanos pretendan adoptar a uno o varios menores de edad con residencia permanente en un estado extranjero.
 
-VI. Consejo de Desarrollo Social: Al Consejo de Desarrollo Social y Participación Ciudadana del Estado de Chihuahua.
+Esta adopción se regirá por lo establecido en los Tratados Internacionales, suscritos y ratificados por el Estado Mexicano y en lo conducente, por las disposiciones de la legislación familiar vigente en el Estado Libre y Soberano de Hidalgo.; (sic)
 
-VII. Programa: Programa Estatal para Prevenir y Eliminar la Discriminación.
+IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-VIII. Atención Preferencial o Diferenciada: Diferenciación jurídica de tratamiento creada de manera temporal, con el fin de favorecer una cantidad determinada de personas y compensar una desigualdad de hecho y estructural.
+V. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar, que brindan instituciones públicas, privadas y asociaciones;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+VI. Certificado de Idoneidad: El documento expedido por el Sistema DIF Hidalgo o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
-IX. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecuadas en la infraestructura y los servicios, que al realizarlas no impongan una carga desproporcionada o afecten derechos de terceros, que se aplican cuando se requieran en un caso particular, para garantizar que las personas gocen o ejerzan sus derechos en igualdad de condiciones con las demás.
+VII. CONEVAL: Consejo Nacional de Evaluación de la Política de Desarrollo Social;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+VIII. Consejo Técnico de Adopciones: Órgano Colegiado del Sistema para el Desarrollo Integral de la Familia del Estado, cuyo objetivo es coadyuvar con la transparencia del procedimiento de adopción;
 
-X. Igualdad real de oportunidades: El acceso que tienen las personas o grupos de personas para el igual disfrute de sus derechos, por la vía de las normas y los hechos.
+IX. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
+
+X. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
+
+XI. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
+
+XII. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado y los colaterales hasta el cuarto grado;
+
+XIII. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+
+XIV. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+
+XV. Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+XVI. Informe de Adoptabilidad: El documento expedido por el Sistema DIF Hidalgo que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+
+XVII. Órgano Jurisdiccional: Los juzgados o tribunales estatales;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2021)</small>
+
+XVII Bis. Parentalidad Asistida: Proceso por medio del cual se propician y fortalecen en quienes ejercen la patria potestad o tutela, las condiciones que satisfacen las necesidades de niñas, niños y adolescentes y contribuyen a su desarrollo integral y armonioso, basado en el ejercicio pleno de sus derechos;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+XVII Ter. Primera Infancia: Periodo de vida de las niñas y niños menores de seis años, en el que se sientan las bases para su desarrollo;
+
+XVIII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo;
+
+XIX. Programa Estatal: El Programa Estatal de Protección de Niñas, Niños y Adolescentes;
+
+XX. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
+
+XXI. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de la Ley General de los Derechos de las Niñas, Niños y Adolescentes, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo y los Tratados Internacionales de los que el Estado Mexicano forma parte;
+
+XXII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+XXIII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+
+XXIV. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+XXV. Sistema DIF Hidalgo: El Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo;
+
+XXVI. Sistema de Protección: El Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Hidalgo;
+
+XXVII. Sistemas Municipales: Los Sistemas para el Desarrollo Integral de la Familia de los municipios del Estado de Hidalgo;
+
+XXVIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+
+XXIX. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de los Derechos de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+
+XXX. Tratados Internacionales: Los Tratados Internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado Mexicano sea parte;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2021)</small>
+
+XXXI. UTED: Unidad Técnica de Evaluación del Desempeño del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2021)</small>
+
+XXXII. Trabajo Infantil: actividades económicas remuneradas, o no remuneradas, que impiden que las niñas, niños y adolescentes menores de 15 años alcancen un desarrollo pleno en su formación educativa, física, emocional, psicológica y social. No se incluyen los quehaceres domésticos realizados en el propio hogar, excepto cuando estos puedan ser considerados una actividad económica.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2021)</small>
+
+XXXIII. Violencia contra niñas, niños y adolescentes: Toda forma de maltrato físico o psicológico, de negligencia en su cuidado o de explotación, incluido el abuso, acoso sexual y toda forma de maltrato establecido en el Artículo 46 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 5.
 
-No se consideran conductas discriminatorias las siguientes:
+Son niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad. Para efectos de los tratados internacionales y la mayoría de edad, son niños los menores de dieciocho años de edad.
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
-
-I. Las disposiciones legales o políticas públicas afirmativas o compensatorias que tengan como fin la promoción de la igualdad con equidad de oportunidades.
-
-II. Las distinciones basadas en capacidades o conocimientos especializados para desempeñar una actividad determinada y, en el ámbito educativo, los requisitos académicos, de edad y de evaluación;
-
-III. La distinción establecida por las instituciones públicas de seguridad social entre sus derechohabientes y la población en general;
-
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
-
-IV. Las acciones de los sectores privado y social, que mediante un trato o atención preferencial o diferenciada, contribuyan a la concreción de los derechos de las personas.
-
-V. Las distinciones, exclusiones, restricciones o preferencias que se hagan entre ciudadanos y no ciudadanos, y entre nacionales y extranjeros;
-
-VI. Las acciones afirmativas y compensatorias que realicen los sectores social y privado; y
-
-VII. En general, todas las que no tengan el propósito de anular o menoscabar los derechos y libertades o la equidad de oportunidades de las personas, ni de atentar contra la dignidad humana.
+Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
 
 ###### Artículo 6.
 
-La interpretación del contenido de esta ley, así como la actuación de las autoridades estatales y municipales, será congruente con la Constitución Política de los Estados Unidos Mexicanos, con la Constitución Política del Estado Libre y Soberano de Chihuahua y tomará en cuenta la Declaración Universal de Derechos Humanos, la Convención Americana de los Derechos Humanos, los instrumentos internacionales suscritos y ratificados por el Estado mexicano, así como las recomendaciones y resoluciones adoptadas por los organismos multilaterales y regionales, particularmente las que se refieren a discriminación, racismo, homofobia, xenofobia y otras formas de intolerancia.
+Para efectos del artículo 2o de esta Ley, son principios rectores, los siguientes:
+
+I. El interés superior de la niñez;
+
+II. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en los artículos 1o y 4o de la Constitución Política de los Estados Unidos Mexicanos, 4o de la Constitución Política del Estado de Hidalgo, así como en los Tratados Internacionales;
+
+III. La igualdad sustantiva;
+
+IV. La no discriminación;
+
+V. La inclusión;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2020)</small>
+
+VI. El derecho a la vida, a la supervivencia, al desarrollo y a la paz;
+
+VII. La participación;
+
+VIII. La interculturalidad;
+
+IX. La corresponsabilidad de los miembros de la familia, la sociedad y las autoridades;
+
+X. La transversalidad en la legislación, políticas públicas, actividades administrativas, económicas y culturales;
+
+XI. La autonomía progresiva;
+
+XII. El principio pro persona;
+
+XIII. El acceso a una vida libre de violencia;
+
+XIV. La accesibilidad;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2020)</small>
+
+XV. Proporcionalidad;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XVI. Formación integral;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XVII. Resiliencia; y
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XVIII. El derecho al adecuado desarrollo evolutivo de la personalidad.
+
+Así como los Principios contenidos en la Ley de Justicia para Adolescentes del Estado, en aquellas situaciones que sea procedente:
+
+I. Certeza Jurídica;
+
+II. Mínima intervención;
+
+III. Subsidiariedad;
+
+IV. Flexibilidad;
+
+V. Equidad;
+
+VI. Protección Integral;
+
+VII. Reinserción Social y Familiar;
+
+VIII. Responsabilidad Limitada;
+
+IX. Proporcionalidad;
+
+X. Jurisdiccionalidad;
+
+XI. Formación Integral;
+
+XII. Presunción de Inocencia;
+
+XIII. Justicia Alternativa;
+
+XIV. Justicia Restaurativa; y
+
+XV. Debido Proceso.
 
 ###### Artículo 7.
 
-Para los efectos del artículo anterior, cuando se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos que sean afectados por conductas discriminatorias.
+El orden jurídico estatal y municipal deberán garantizar el ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes; así como prever, primordialmente, las acciones y mecanismos que les permitan un crecimiento y desarrollo integral pleno.
 
 ###### Artículo 8.
 
-En la aplicación de la presente ley intervendrán las autoridades y los órganos públicos estatales y municipales, así como la Subcomisión para Prevenir y Eliminar la Discriminación, prevista en la presente ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de esta Ley.
 
 ###### Artículo 9.
 
-Queda prohibida toda práctica discriminatoria que tenga por objeto impedir, obstaculizar, desconocer, o anular el reconocimiento o ejercicio de los derechos y la igualdad sustantiva.
-
-Se consideran como conductas discriminatorias, de manera enunciativa y no limitativa:
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-I. Impedir el acceso a la educación pública o privada, obstaculizar el acceso a información científica, así como a becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad, que difundan o induzcan una condición de subordinación, que repliquen roles de género o que carezcan de sustento científico;
-
-III. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo. En el caso de las mujeres, condicionar las oportunidades referidas a la realización en cualquier momento de pruebas de gravidez o embarazo;
-
-IV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
-
-V. Negar o coartar el acceso a los programas de capacitación para el trabajo y de formación profesional;
-
-VI. Negar o limitar el acceso a los derechos reproductivos o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos e hijas;
-
-VII. Negar o condicionar los servicios de atención médica, o impedir la participación en las decisiones a los sujetos de atención sobre su tratamiento médico o terapéutico dentro de sus posibilidades y medios;
-
-VIII. Restringir o negar información al interesado o, en su caso, a sus padres o tutores, sobre algún padecimiento, sus consecuencias, alternativas, posibles tratamientos a los que pueda acceder, riesgos y pronósticos, así como su historial médico. Este se deberá manejar en forma confidencial;
-
-IX. Efectuar o exigir pruebas de detección de cualquier tipo de enfermedad, en particular de VIH, sin previa información de su contenido y significado en forma explícita y comprensible y sin el previo consentimiento de la persona interesada o, en su caso, de los padres o tutores;
-
-X. Impedir o evitar a los usuarios de servicios de salud, el conocer los procedimientos para presentar queja o recurso ante cualquier irregularidad en su prestación, establecidos por las instituciones encargadas de otorgarlos, así como aquellos previstos en la normatividad aplicable;
-
-XI. Impedir la participación en condiciones equitativas de los integrantes de asociaciones civiles, políticas o de cualquier otra índole;
-
-XII. Negar o condicionar el derecho de participación política y, específicamente, el derecho al sufragio, la elegibilidad y el acceso a todos los cargos públicos, así como la participación en el diseño y ejecución de políticas y programas de gobierno, en los casos y bajo los términos que establezcan las disposiciones aplicables;
-
-XIII. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo, salvo los casos que la ley o la autoridad legalmente limite;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XIV. Impedir el acceso a la procuración e impartición de justicia, así como utilizar estereotipos o prejuicios de género.
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XV. Impedir que se escuche a las víctimas en todo procedimiento judicial o administrativo en que se vean involucradas, incluyendo especialmente a las niñas y los niños en los casos que la ley así lo disponga, así como negar la asistencia de intérpretes de lenguas indígenas en procedimientos administrativos o judiciales, de conformidad con las normas aplicables;
-
-XVI. Negar el derecho a la debida atención a las víctimas u ofendidos de algún delito;
-
-XVII. (DEROGADA, P.O. 14 DE ABRIL DE 2021)
-
-XVIII. Aplicar cualquier tipo de uso o costumbre que atente contra la dignidad e integridad humana;
-
-XIX. Impedir la libre elección de cónyuge o pareja;
-
-XX. Ofender, ridiculizar o promover la violencia en los supuestos a que se refiere el artículo 4 de esta ley, a través de mensajes e imágenes en los medios de comunicación;
-
-XXI. Limitar la libre expresión de las ideas, impedir la libertad de pensamiento, creencias, conciencia o religión, o de prácticas o costumbres religiosas, siempre que éstas no atenten contra el orden público;
-
-XXII. Negar asistencia religiosa a personas privadas de la libertad, que presten servicio en las fuerzas armadas o que estén internadas en instituciones de salud o asistencia;
-
-XXIII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por las leyes en la materia e instrumentos jurídicos internacionales aplicables;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XXIV. Obstaculizar las condiciones necesarias para el crecimiento y desarrollo integral, especialmente de las niñas y los niños, con base en el interés superior de la niñez;
-
-XXV. Impedir el acceso a la seguridad social y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
-
-XXVI. Limitar el derecho a la alimentación, vivienda y esparcimiento, así como el acceso a servicios de atención médica adecuados, salvo en los casos que la ley así lo prevea;
-
-XXVII. Impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;
-
-XXVIII. Cometer actos de explotación o dar un trato abusivo o degradante;
-
-XXIX. Restringir la participación en actividades deportivas, recreativas o culturales, así como establecer diferencias en las remuneraciones, apoyos, becas, estímulos y/o compensaciones entre los atletas y los atletas paraolímpicos;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XXX. Restringir o limitar el uso de las lenguas indígenas oficialmente reconocidas, así como los usos, costumbres y cultura indígena, en actividades públicas o privadas, en términos de las disposiciones aplicables;
-
-XXXI. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecución o la exclusión, en los términos del artículo 4 de esta ley;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XXXII. Realizar o promover el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación o preferencia sexual;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ABRIL DE 2021)</small>
-
-XXXIII. La falta de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público para las personas con discapacidad;
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XXXIV. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad;
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XXXV. Estigmatizar o negar derechos a personas con adicciones, que han estado o se encuentren en centros de reclusión, o en instituciones de atención a personas con discapacidad mental o psicosocial;
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XXXVI. Negar la prestación de servicios financieros a niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores de acuerdo a lo establecido en la legislación civil;
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XXXVII. Difundir sin consentimiento de la persona agraviada información sobre su condición de salud;
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XXXVIII. Impedir o limitar la protección y la asistencia de las autoridades consulares o diplomáticas de su estado de origen;
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XXXIX. Impedir o limitar el libre tránsito en el Estado;
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XL. Impedir o limitar el derecho al debido proceso o generar condiciones de desigualdad en su ejercicio;
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XLI. Estigmatizar a las víctimas de cualquier delito, así como de violaciones a los derechos humanos, generando la revictimización;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2021)</small>
-
-XLII. Prohibir, negar, limitar o restringir el acto de amamantar en espacios públicos;
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2021)</small>
-
-XLIII. En general, cualquier otra conducta discriminatoria en términos del artículo 4 de esta Ley.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ABRIL DE 2021)</small>
+A falta de disposición expresa en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en los Tratados Internacionales, en esta Ley o en las demás disposiciones aplicables, se estará a los principios generales que deriven de dichos ordenamientos y a falta de éstos, a los principios generales del derecho, privilegiando en todo momento los principios rectores de esta Ley.
 
 ###### Artículo 10.
 
-Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes acciones afirmativas y compensatorias a favor de la igualdad con equidad de oportunidades para las mujeres:
+En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
 
-I. Incentivar la educación mixta, fomentando la permanencia en el sistema educativo de las niñas y las mujeres en todos los niveles escolares;
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
 
-II. Crear mecanismos que fomenten la participación política de las mujeres y que aseguren la presencia equitativa en los puestos administrativos y de elección popular;
-
-III. Ofrecer información completa y actualizada, así como asesoramiento personalizado sobre salud reproductiva y métodos anticonceptivos;
-
-IV. Garantizar el derecho a decidir sobre el número y espaciamiento de sus hijas e hijos, estableciendo en las instituciones de salud y seguridad social las condiciones para la atención de las mujeres que lo soliciten;
-
-V. Otorgar un trato fiscal favorable a las empresas que tengan entre su personal por lo menos un 40% de mujeres en puestos de supervisión y dirección. Los términos y los alcances de estos incentivos, en su caso, se establecerán en la respectiva Ley de Ingresos del período fiscal que se trate;
-
-VI. Procurar la creación de centros de desarrollo infantil y guarderías asegurando el acceso a los mismos para sus hijas e hijos cuando ellas lo soliciten; y
-
-VII. Promover campañas de información en los medios de comunicación que condenen toda forma de discriminación y violencia contra las mujeres.
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2021)</small>
-
-###### Artículo 10 Bis.
-
-Por medidas de nivelación se entenderán, aquellas que buscan en todo momento hacer efectivo el acceso de todas las personas a la igualdad real de oportunidades eliminando las barreras físicas, comunicacionales, normativas o de otro tipo, que obstaculizan el ejercicio de derechos y libertades prioritariamente a las mujeres y a los grupos en situación de discriminación o vulnerabilidad; se incluyen, entre otras:
-
-I. Ajustes razonables en materia de accesibilidad física, de información y comunicaciones;
-
-II. Adaptación de los puestos de trabajo para personas con discapacidad;
-
-III. Diseño y distribución de comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, en formato braille o en lenguas indígenas;
-
-IV. Uso de intérpretes de lengua de señas mexicana en los eventos públicos de todas las dependencias gubernamentales y en los tiempos oficiales de televisión;
-
-V. Uso de intérpretes y traductores de lenguas indígenas;
-
-VI. La accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información;
-
-VII. Derogación o abrogación de las disposiciones normativas que impongan requisitos discriminatorios de ingreso y permanencia a escuelas, trabajos, entre otros;
-
-VIII. Creación de licencias de paternidad, homologación de condiciones de derechos y prestaciones para los grupos en situación de discriminación o vulnerabilidad.
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2021)</small>
-
-###### Artículo 10 Ter.
-
-Por medidas de inclusión se entenderá, aquellas disposiciones de carácter preventivo o correctivo, cuyo objeto es eliminar mecanismos de exclusión o diferenciaciones desventajosas para que todas las personas gocen y ejerzan sus derechos en igualdad de trato, como son:
-
-I. La educación para la igualdad dentro del sistema educativo nacional;
-
-II. La integración en el diseño, instrumentación y evaluación de las políticas públicas del derecho a la igualdad y no discriminación;
-
-III. El desarrollo de políticas contra la homofobia, la xenofobia, la misoginia, la discriminación por apariencia o el adultocentrismo;
-
-IV. Las acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias;
-
-V. El llevar a cabo campañas de difusión al interior de los poderes públicos federales;
-
-VI. Las demás que determinen las leyes.
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2021)</small>
-
-###### Artículo 10 Quater.
-
-Las acciones afirmativas son las medidas especiales, específicas y de carácter temporal, a favor de personas o grupos en situación de discriminación, cuyo objetivo es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones.
-
-Se adecuarán a la situación que quiera remediarse, deberán ser legítimas y respetar los principios de justicia y proporcionalidad. Estas medidas no serán consideradas discriminatorias en términos del artículo 5 de la presente Ley.
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2021)</small>
-
-###### Artículo 10 Quinquies.
-
-Los órganos públicos, las autoridades estatales y municipales que, en el ámbito de su competencia, ejerzan medidas de nivelación o inclusión, así como cualquier acción afirmativa en los términos de la presente Ley, deberán hacerlo del conocimiento al Consejo para su registro y monitoreo.
-
-La Subcomisión determinará la información a recabar y la forma de hacerlo en los términos que se establezcan en sus lineamientos.
-
-Los órganos públicos estatales y municipales adoptarán las medidas de nivelación e inclusión, así como las acciones afirmativas necesarias, tanto por separado como coordinadamente, de conformidad con la disponibilidad de recursos que se haya determinado para tal fin en los Presupuestos de Egresos correspondientes, para que toda persona, agrupación o colectivo goce, sin discriminación alguna, de todos los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y en los Tratados Internacionales de los que México sea parte.
-
-Las medidas y acciones afirmativas que se establecen en la presente Ley, deben ser incorporadas de manera transversal y progresiva, por lo que no podrán ser reducidas o eliminadas, sino únicamente ampliarse.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, por haber nacido o vivir con su madre en algún establecimiento penitenciario, o bien, por circunstancias relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 ###### Artículo 11.
 
-Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas de nivelación, medidas de inclusión y acciones afirmativas a favor de la igualdad sustantiva de niñas, niños y adolescentes:
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-I. Instrumentar programas y reforzar los existentes, dirigidos a la atención médica y sanitaria para combatir la mortalidad y la desnutrición;
-
-II. Impartir educación para la preservación de la salud, el conocimiento integral de la sexualidad, la planificación familiar, la paternidad y maternidad responsable, así como el respeto a los derechos humanos;
-
-III. Promover el acceso a centros de desarrollo infantil, incluyendo a menores con discapacidad;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-IV. Promover las condiciones necesarias para que niñas, niños y adolescentes puedan convivir con sus padres o tutores, incluyendo políticas públicas de reunificación familiar para migrantes y personas privadas de la libertad, previendo medidas excepcionales en casos donde se trate de huérfanos o huérfanas de víctimas de feminicidio;
-
-V. Preferir, en igualdad de circunstancias, a las personas que tengan a su cargo menores de edad en el otorgamiento de becas, créditos u otros beneficios;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-VI. Alentar la producción y difusión de libros para niños y niñas, promoviendo un enfoque de derechos humanos y perspectiva de género;
-
-VII. Promover la creación de instituciones que tutelen a los menores privados de su medio familiar, incluyendo hogares de guarda y albergues para estancias temporales;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-VIII. Promover la recuperación física, psicológica y la integración social de niñas, niños y adolescentes víctimas de abandono, explotación, malos tratos o conflictos armados; o que se encuentren en condición de orfandad;
-
-IX. Proporcionar, en los términos de la legislación en la materia, asistencia legal y psicológica e intérprete en los procedimientos judiciales o administrativos, en que sea procedente;
-
-X. Crear espacios públicos de calidad para la recreación y esparcimiento infantil, así como instalaciones para la práctica deportiva;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XI. Promover la cultura de protección integral a niñas, niños y adolescentes a través de los distintos medios con los que cuenta el Estado;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XII. Promover campañas de información en los medios de comunicación que condenen toda forma de discriminación y violencia contra niñas, niños y adolescentes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
+Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida.
 
 ###### Artículo 12.
 
-Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas de nivelación, medidas de inclusión y acciones afirmativas a favor de la igualdad sustantiva para las personas mayores de 65 años:
-
-I. Garantizar el acceso a los servicios de atención médica y seguridad social, según lo dispuesto en la normatividad en la materia;
-
-II. Crear centros gerontológicos con personal capacitado para la atención de este grupo social, con áreas especializadas de atención física, psicológica y emocional de calidad, con particular atención a ancianos demenciales, de acuerdo a la capacidad presupuestal existente;
-
-III. Gestionar ante las instancias correspondientes el otorgamiento de descuentos en el pago por suministro o servicios públicos de energía eléctrica, teléfono, gas, agua potable y transporte;
-
-IV. Diseñar, instrumentar y ejecutar programas de apoyo financiero para la construcción de estancias y albergues suficientes y adecuados a su realidad, con equipo y personal especializado;
-
-V. Garantizar la aplicación de la norma oficial mexicana para los centros de atención a personas adultas mayores, tanto en el sector público como en el privado, con programas de supervisión constante y por personal capacitado;
-
-VI. Diseñar, instrumentar y ejecutar programas de recreación y cultura adecuados a este grupo;
-
-VII. Procurar un nivel mínimo y decoroso de ingresos a través de programas, conforme a las reglas de operación que al efecto se establezcan y con base en la capacidad presupuestal existente;
-
-VIII. Brindar apoyo financiero directo, ayudas en especie, capacitación para el trabajo y de fomento a la creación de empleos, conforme a la capacidad presupuestal existente;
-
-IX. Garantizar, conforme a la legislación aplicable, asesoría jurídica gratuita, así como la asistencia de un representante legal cuando el afectado lo requiera;
-
-X. Otorgar un trato fiscal favorable por parte de las autoridades estatal y municipales, a las empresas que tengan entre su personal a por lo menos un 20% de adultos mayores en puestos de supervisión y dirección; y
-
-XI. Promover campañas de información y difusión en los medios de comunicación masiva que condenen toda forma de discriminación y violencia contra las personas mayores de 65 años.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
+Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes en términos de las disposiciones aplicables.
 
 ## TÍTULO SEGUNDO. De los Derechos de Niñas, Niños y Adolescentes
 
 ###### Artículo 13.
 
-Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas de nivelación, medidas de inclusión y acciones afirmativas a favor de la igualdad sustantiva para las personas con discapacidad:
+Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-I. Promover un entorno que permita el libre acceso y desplazamiento;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2020)</small>
 
-II. Procurar su incorporación, permanencia y participación en las actividades educativas regulares en todos los niveles;
+I. Derecho a la vida, a la supervivencia, al desarrollo y a la paz;
 
-III. Promover el otorgamiento, en los niveles de educación obligatoria, de las ayudas técnicas necesarias para cada discapacidad;
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-IV. Establecer mecanismos que promuevan su incorporación laboral en la administración pública y como candidatos a cargos de elección popular, así como los que aseguren su participación en la construcción de políticas públicas;
+I Bis. Derecho a ser adoptado.
 
-V. Crear programas permanentes de capacitación para el empleo y fomento a la integración laboral;
+II. Derecho de prioridad;
 
-VI. Apoyar fiscalmente las actividades de quienes los capaciten;
+III. Derecho a la identidad;
 
-VII. Todos los actos que realicen las empresas u organismos privados con el fin de fomentar el empleo de las personas con discapacidad mediante la eliminación de las barreras arquitectónicas, el rediseño de áreas de trabajo, las prestaciones tendientes para su rehabilitación, terapia, integración social, cultura y deporte, así como el otorgamiento de estímulos para incentivar su integración laboral, recibirán apoyos fiscales o subvenciones por parte de las autoridades estatal y municipales, en los términos que establezca la legislación correspondiente;
+IV. Derecho a vivir en familia;
 
-VIII. Procurar incentivos fiscales a aquellas empresas que tengan entre sus empleados al menos un doce por ciento de personas con discapacidad. Los términos y los alcances de estos incentivos, en su caso, se establecerán en la respectiva Ley de Ingresos del período fiscal que se trate;
+V. Derecho a la igualdad sustantiva;
 
-IX. Crear espacios de recreación adecuados;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+VI. Derecho a la no discriminación y a la integración social;
 
-X. Procurar la accesibilidad en los medios de transporte público de uso general, incluido el acceso a los perros de asistencia de las personas que requieran de su apoyo.
+VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral;
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
 
-XI. Promover que todos los espacios e inmuebles públicos o que presten servicios al público, tengan las adecuaciones físicas y de señalización para su acceso, libre desplazamiento y uso, así como para que se permita en ellos el ingreso a los perros de asistencia de las personas que requieran de su apoyo;
+VII Bis. Derecho a una primera infancia digna;
 
-XII. Procurar que las vías generales de comunicación cuenten con señalamientos adecuados para permitirles el libre tránsito;
+VIII. Derecho a una vida libre de violencia y a la integridad personal;
 
-XIII. Informar y asesorar a los profesionales de la construcción acerca de los requisitos para facilitar el acceso y uso de inmuebles;
+IX. Derecho a la protección de la salud y a la seguridad social;
 
-XIV. Asignar recursos para la capacitación especializada, la investigación y el desarrollo tecnológico en instituciones de educación superior dirigidos a la creación de aparatos prototipo y de sistemas para mejorar el desempeño de las actividades diarias de la población con algún tipo de discapacidad;
+X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad;
 
-XV. Promover que en las unidades del Sistema Nacional de Salud y de Seguridad Social, reciban regularmente el tratamiento y medicamentos necesarios para mantener y aumentar su capacidad funcional y su calidad de vida;
+XI. Derecho a la educación;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+XII. Derecho al descanso y al esparcimiento;
 
-XVI. Promover campañas de información y difusión en los medios de comunicación masiva que condenen toda forma de discriminación y violencia contra las personas con discapacidad;
+XIII. Derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+XIV. Derecho a la libertad de expresión y de acceso a la información;
 
-XVII. Exhortar a los medios de comunicación masivos para que eviten el uso de imágenes o contenidos discriminatorios o satíricos;
+XV. Derecho de participación;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+XVI. Derecho de asociación y reunión;
 
-XVIII. Diseño y distribución de comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, en formato braille.
+XVII. Derecho a la intimidad;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
+XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+
+XIX. Derechos de niñas, niños y adolescentes migrantes;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2021)</small>
+
+XX. Derecho de acceso a las tecnologías de la información y comunicación;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2021)</small>
+
+XXI. Derecho a una crianza positiva;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2021)</small>
+
+XXII. Derecho a una parentalidad asistida; y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2021)</small>
+
+XXIII. Derecho a una alimentación nutritiva, suficiente y de calidad.
+
+Las autoridades federales, estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
+
+### Capítulo Primero. Del Derecho a la Vida, a la Supervivencia, al Desarrollo y a la Paz
 
 ###### Artículo 14.
 
-Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas de nivelación, medidas de inclusión y acciones afirmativas a favor de la igualdad sustantiva para la población indígena y minorías étnicas:
+Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la supervivencia y al desarrollo.
 
-I. Establecer programas educativos bilingües y que promuevan el intercambio cultural;
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
 
-II. Crear un sistema de becas que fomente la alfabetización, la conclusión de la educación en todos los niveles y la capacitación para el empleo;
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2023)</small>
 
-III. Crear programas permanentes de capacitación y actualización para los funcionarios públicos sobre la diversidad cultural;
+###### Artículo 14 Bis.
 
-IV. Diseñar, instrumentar y ejecutar programas que impulsen el conocimiento, protección, desarrollo y utilización de la medicina tradicional;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-V. Establecer los mecanismos adecuados que garanticen la participación de las personas indígenas en los cambios legislativos, así como en la toma de decisiones respecto de las políticas públicas susceptibles de afectarles, asegurando su derecho a la consulta previa, libre e informada desde una perspectiva de interculturalidad.
-
-VI. Emprender campañas permanentes de información en los medios de comunicación que promuevan el respeto a las culturas indígenas en el marco de los derechos humanos y las garantías individuales;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-VII. En el marco de las leyes aplicables, cuando se fijen sanciones penales a indígenas, se deberá de observar el principio de interculturalidad para procurar que tratándose de penas alternativas, se imponga aquella distinta a la privativa de libertad, así como promover la aplicación de sustitutivos penales y beneficios de preliberación, de conformidad con las normas aplicables;
-
-VIII. Garantizar que en todos los juicios y procedimientos en que sea parte, individual o colectivamente, se tomen en cuenta sus costumbres y especificidades culturales, respetando los preceptos de la Constitución;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-IX. Garantizar, a lo largo de cualquier proceso legal, el derecho a ser asistidos, si así lo solicitan, por intérpretes y defensores que tengan conocimiento de su lengua y de su cultura, de conformidad con las normas aplicables;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-X. Emprender campañas permanentes de información en los medios de comunicación que promuevan el respeto a las culturas indígenas en el marco de los derechos humanos y las garantías individuales, y que condenen toda forma de discriminación y violencia contra la población indígena;
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
-
-XI. Diseño y distribución de comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, los cuales estarán redactados en lenguas indígenas nativas del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
+Las autoridades Estatales y Municipales deberán considerar de manera esencial la etapa de la primera infancia en la elaboración de las políticas públicas, planes y programas necesarios para la consecución del desarrollo integral de las niñas y niños, tomando en cuenta las necesidades propias de su edad.
 
 ###### Artículo 15.
 
-Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas de nivelación, medidas de inclusión y acciones afirmativas para la igualdad sustantiva a favor de las personas privadas de su libertad:
+Niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
 
-I. Establecer las medidas necesarias a efecto de que las personas sujetas a proceso, tengan derecho al mismo trato dado a los sentenciados respecto al trabajo, capacitación para el mismo, educación e instrucción, en lo conducente;
-
-II. El Ejecutivo del Estado, por conducto de la dependencia correspondiente, procurará la cercanía de los internos con sus familiares para una mejor readaptación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### Artículo 16.
 
-Los órganos públicos, las autoridades estatales y municipales adoptarán las medidas de nivelación, medidas de inclusión y acciones afirmativas a favor de la igualdad sustantiva y a prevenir y eliminar las formas de discriminación de las personas a que se refiere el artículo 4 de esta ley.
+Niñas, niños y adolescentes tienen derecho a la paz y a no ser privados de la vida bajo ninguna circunstancia ni ser utilizados en conflictos armados o violentos.
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
-
-Los sectores público, privado y social promoverán ante quien corresponda, la inclusión de los niveles o índices de igualdad sustantiva en el ámbito laboral, como parte de los criterios a tomarse en cuenta en los diversos sistemas tendientes a certificar la calidad de los procesos en las organizaciones públicas y/o privadas.
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### Artículo 16 Bis.
 
@@ -559,83 +437,55 @@ VI. Brindar los primeros auxilios y el apoyo que requieran las niñas, niños, a
 
 VII. En caso de ser necesario, habilitar albergues para las niñas, niños, adolescentes y sus familias.
 
-### CAPÍTULO II. DE LAS MEDIDAS DE NIVELACIÓN, MEDIDAS DE INCLUSIÓN Y ACCIONES AFIRMATIVAS
+### Capítulo Segundo. Del Derecho de Prioridad
 
 ###### Artículo 17.
 
-La Subcomisión para Prevenir y Eliminar la Discriminación, es un órgano colegiado creado dentro de la Comisión Estatal, que tiene por objeto contribuir al desarrollo cultural, social y democrático del Estado, mediante el diseño y ejecución de acciones para prevenir y eliminar la discriminación, formulando y promoviendo políticas públicas para la igualdad sustantiva a favor de las personas y grupos de la sociedad procurando, para tales efectos, la coordinación de acciones con las dependencias y entidades públicas, privadas y sociales.
+Niñas, niños y adolescentes tienen derecho a que se les asegure prioridad en el ejercicio de todos sus derechos, especialmente a que:
+
+I. Se les brinde protección y socorro en cualquier circunstancia y con la oportunidad necesaria;
+
+II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones; y
+
+III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos.
 
 ###### Artículo 18.
 
-Para el cumplimiento de su objeto, la Subcomisión tendrá las atribuciones siguientes:
+En todas las medidas concernientes a niñas, niños y adolescentes que tomen los órganos jurisdiccionales, autoridades administrativas y el Poder Legislativo, se tomará en cuenta, como consideración primordial, el interés superior de la niñez. Dichas autoridades elaborarán los mecanismos necesarios para garantizar este principio.
 
-I. Presentar la propuesta de Programa Estatal para Prevenir y Eliminar la Discriminación, así como las partidas y montos que deben considerarse en el presupuesto de egresos;
-
-II. Dar seguimiento a la ejecución del programa para garantizar el logro de sus objetivos;
-
-III. Proponer medidas para garantizar la correspondencia entre las políticas federal, estatal y municipal en materia de discriminación;
-
-IV. Revisar los términos de los convenios de coordinación celebrados entre el Ejecutivo del Estado, los ayuntamientos, así como con los sectores social y privado en materia de discriminación a fin de proponer, en su caso, modificaciones;
-
-V. Analizar y proponer esquemas alternativos de financiamiento para el programa;
-
-VI. Impulsar la capacitación de servidores públicos estatales y municipales en materia de discriminación;
-
-VII. Velar por la adopción de medidas y programas para prevenir y eliminar la discriminación en las instituciones y organizaciones sociales y privadas, así como expedir los reconocimientos respectivos;
-
-VIII. Fomentar y difundir estudios sobre las prácticas discriminatorias en los ámbitos político, económico, social y cultural;
-
-IX. Generar estudios sobre los ordenamientos jurídicos y administrativos vigentes en la materia, y proponer, en su caso, de conformidad con las disposiciones aplicables, las modificaciones que correspondan;
-
-X. Proponer al titular del Poder Ejecutivo Estatal reformas a los ordenamientos legales y reglamentarios en la materia, para que en su caso proceda a darles el curso correspondiente ante las instancias competentes;
-
-XI. Asesorar en sus derechos a las personas o grupos de la sociedad objeto de discriminación;
-
-XII. Recibir quejas por conductas presuntamente discriminatorias cometidas por particulares, mediar y, en su caso, emitir las recomendaciones correspondientes que pongan fin al conflicto;
-
-XIII. Establecer relaciones de coordinación con instituciones públicas federales, estatales y municipales, así como con personas y organizaciones sociales y privadas, con el propósito de que en los programas de gobierno, se prevean acciones afirmativas y compensatorias;
-
-XIV. Proponer la suscripción de convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con instancias públicas, privadas y sociales; y
-
-XV. Las demás establecidas en esta ley, su reglamento y demás disposiciones aplicables.
-
-### CAPÍTULO III. DE LA SUBCOMISIÓN PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
+### Capítulo Tercero. Del Derecho a la Identidad
 
 ###### Artículo 19.
 
-La Subcomisión podrá otorgar reconocimientos a las instituciones públicas o privadas, así como a personas físicas o morales que se distingan por llevar a cabo programas y medidas para prevenir la discriminación en sus prácticas, instrumentos organizativos y presupuestos.
+Niñas, niños y adolescentes, en términos de la legislación familiar aplicable, desde su nacimiento, tienen derecho a:
 
-El reconocimiento será otorgado previa solicitud de parte interesada.
+I. Contar con nombre y apellidos que les correspondan, así como a ser inscritos en el Registro del Estado Familiar respectivo de forma inmediata y gratuita, y a que se les expida en forma ágil y sin costo la primer copia certificada del acta correspondiente, en los términos de las disposiciones aplicables;
 
-La presidencia de la Subcomisión ordenará verificar el cumplimiento de los requisitos señalados para este propósito en el reglamento.
+II. Contar con nacionalidad, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo y los Tratados Internacionales;
 
-El reconocimiento será de carácter honorífico, tendrá una vigencia de un año y podrá servir de base para la obtención de beneficios que, en su caso, establezcan las autoridades estatales y municipales, en los términos de la legislación aplicable.
+III. Conocer su filiación y su origen, en la medida de lo posible y siempre que ello sea acorde con el interés superior de la niñez; y
+
+IV. Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenencia cultural, así como sus relaciones familiares.
+
+Las autoridades federales, estatales y municipales, en el ámbito de sus respectivas competencias, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
+
+La Procuraduría de Protección, en el ámbito de su competencia, orientará a las autoridades que correspondan para que den debido cumplimiento al presente artículo.
+
+Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+La falta de documentación para acreditar la identidad de niñas, niños y adolescentes no será obstáculo para garantizar sus derechos.
 
 ###### Artículo 20.
 
-La Subcomisión difundirá en los términos de la Ley de Desarrollo Social y Humano, los avances, resultados e impacto de las políticas, programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad, a través de los mecanismos de transparencia y acceso a la información contemplados en la legislación en la materia.
+Niñas, niños y adolescentes de nacionalidad extranjera que se encuentren en territorio estatal, tienen derecho a comprobar su identidad con los documentos emitidos por la autoridad competente u otros medios previstos en la Ley de Migración y demás disposiciones aplicables.
+
+En los casos en que niñas, niños o adolescentes cumplan con los requisitos para obtener la nacionalidad mexicana, la autoridad estatal acorde con las disposiciones aplicables, deberá brindarles todas las facilidades a efecto de darles un trato prioritario.
 
 ###### Artículo 21.
 
-La Subcomisión se integra por:
+Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y adolescentes, así como en relación con los derechos y obligaciones derivados de la filiación y parentesco, se estará a la legislación familiar aplicable. Ante la negativa de la prueba de paternidad o maternidad, la autoridad competente, salvo prueba en contrario, presumirá que es el padre o la madre respectivamente.
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-I. Titular de la Presidencia, que lo será la persona titular de la Secretaría de Desarrollo Humano y Bien Común.
-
-II. Cinco representantes del Poder Ejecutivo Estatal.
-
-III. Cinco representantes de la sociedad civil, propuestos por el Consejo de Desarrollo Social y Participación Ciudadana.
-
-IV. Un Secretario Técnico.
-
-V. Un representante del Consejo Nacional para Prevenir la Discriminación.
-
-VI. El presidente de la Comisión de Atención a Personas con Discapacidad y Grupos Vulnerables del Congreso del Estado.
-
-### CAPÍTULO IV. DE LA PLANEACIÓN Y PROGRAMACIÓN
-
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
+### Capítulo Cuarto. Del Derecho a Vivir en Familia
 
 #### SECCIÓN PRIMERA. DEL OBJETO Y ATRIBUCIONES
 
@@ -643,97 +493,183 @@ VI. El presidente de la Comisión de Atención a Personas con Discapacidad y Gru
 
 ###### Artículo 22.
 
-Los representantes del Poder Ejecutivo Estatal serán los titulares de:
+Niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
 
-I. La Secretaría General de Gobierno;
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, tales como la aplicación de medidas preventivas ante la ocurrencia de violencia vicaria o cualquier tipo de violencia de género, la suspensión o pérdida de la patria potestad, o la restricción del derecho de convivencia por alguna de las causas previstas en las leyes; las cuales deberán ser establecidas mediante el debido proceso en el que se juzgue atendiendo al principio del interés superior de la niñez y adolescencia y con perspectiva de género, garantizando el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
-II. La Secretaría de Hacienda;
+Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA, P.O.11 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
-III. La Comisión Estatal para los Pueblos Indígenas;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-IV. La Secretaría de Educación y Deporte.
-
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
-
-V. La Dirección General del DIF Estatal.
-
-Los suplentes de los representantes del Poder Ejecutivo Estatal, como mínimo, deberán contar con el nivel de Director General o Secretario Técnico.
-
-Los integrantes de la sociedad civil no percibirán retribución alguna y durarán en su cargo tres años, pudiendo ser ratificados por otro período igual.
-
-Así mismo, serán invitados permanentes a la Subcomisión, con derecho a voz, pero no a voto, un representante de cada uno de los siguientes órganos públicos: Comisión Estatal de Derechos Humanos, Instituto Chihuahuense de la Mujer, Sistema Estatal de Salud, Instituto Chihuahuense de la Juventud y el Instituto Chihuahuense del Deporte y la Cultura Física, así como aquellos que la Subcomisión considere necesario invitar.
+Las autoridades estatales y/o municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de su entorno familiar, de quienes ejerzan la patria potestad, tutela o guarda y custodia, y para que en su caso sean atendidos a través de las medidas especiales de protección que dispone el artículo 26.
 
 ###### Artículo 23.
 
-La Subcomisión contará con los recursos materiales y humanos para desarrollar sus actividades.
+Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho a convivir o mantener relaciones personales y contacto directo con sus familiares de modo regular, excepto en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez, sin perjuicio de las medidas cautelares y de protección que se dicten por las autoridades competentes en los procedimientos respectivos, en los que se deberá garantizar el derecho de audiencia de todas las partes involucradas, en especial de niñas, niños y adolescentes.
+
+Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario al interés superior de la niñez.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 23 Bis.
 
-Las niñas, niños y adolescentes cuyas madres se encuentren internas en un centro de readaptación social, tienen derecho a mantener contacto cercano, frecuente y directo con sus progenitoras, al máximo de posibilidades de cada caso y siempre que no sea contrario al interés superior de la niñez.
+Las niñas, niños y adolescentes cuyas madres se encuentren internas en un establecimiento penitenciario, tienen derecho a mantener contacto cercano, frecuente y directo con sus progenitoras, al máximo de posibilidades de cada caso y siempre que no sea contrario al interés superior de la niñez.
 
-Asimismo, las niñas y niños cuyas madres hayan mantenido su guardia (sic) y custodia dentro del centro de readaptación social y deban ser separados de las mismas, tienen derecho a que las autoridades penitenciarias garanticen una separación gradual, sensible y progresiva, recibiendo acompañamiento psicológico antes, durante y después del proceso.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Asimismo, las niñas y niños cuyas madres hayan mantenido su guarda y custodia dentro de los centros y establecimientos penitenciarios y deban ser separados de las mismas, tienen derecho a que las autoridades penitenciarias garanticen una separación gradual, sensible y progresiva, recibiendo acompañamiento psicológico antes, durante y después del proceso.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 23 Ter.
+
+Las autoridades de los centros y establecimientos penitenciarios garantizarán el pleno respeto y protección de los derechos de las niñas y niños que viven con sus madres en situación de reclusión, con la implementación de acciones que permitan y fomenten el crecimiento y desarrollo integral de las niñas y niños.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 23 Quater.
+
+Las niñas y los niños que sean hijas e hijos de mujeres en situación de reclusión, recibirán una alimentación saludable, educación, vestimenta y atención médica, atendiendo el interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 23 Quinquies.
+
+Los centros y establecimientos penitenciarios deberán contar con espacios físicos que permitan las condiciones de vida que garanticen el sano desarrollo y crecimiento de niñas y niños que viven con sus madres en situación de reclusión.
 
 ###### Artículo 24.
 
-Las sesiones que celebre la Subcomisión serán reguladas en los términos del Reglamento de la Comisión Interinstitucional. El mismo ordenamiento regulará lo referente a los acuerdos tomados por la Subcomisión y el cumplimiento de los mismos.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
+
+Durante la localización de la familia, niñas, niños y adolescentes tienen derecho a acceder a las modalidades de cuidados alternativos de carácter temporal, en tanto se incorporan a su familia.
+
+Para efectos del párrafo anterior, el Sistema DIF Hidalgo y los Sistemas Municipales deberán otorgar acogimiento correspondiente de conformidad con lo previsto en esta Ley y demás disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LA SUBCOMISIÓN
 
 ###### Artículo 25.
 
-La presidencia de la Subcomisión es el órgano ejecutivo y de representación de la Subcomisión.
+El orden jurídico estatal contendrá disposiciones para prevenir y sancionar el traslado o retención ilícita de niñas, niños y adolescentes cuando se produzcan en violación de los derechos atribuidos individual o conjuntamente a las personas o instituciones que ejerzan la patria potestad, la tutela o la guarda y custodia, y preverán procedimientos expeditos para garantizar el ejercicio de esos derechos.
+
+En los casos de traslados o retenciones ilícitas de niñas, niños y adolescentes fuera del territorio estatal, la persona interesada podrá presentar la solicitud de restitución respectiva ante la autoridad competente en el caso de ser otra Entidad Federativa y/o a través de la Secretaría de Relaciones Exteriores, para que ésta lleve a cabo las acciones correspondientes en el marco de sus atribuciones, de conformidad con lo dispuesto en los instrumentos internacionales y demás disposiciones aplicables.
+
+Cuando la autoridad estatal tenga conocimiento de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales competentes, conforme a las demás disposiciones aplicables, para su localización y restitución. Las autoridades estatales y municipales estarán obligadas a coadyuvar, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los Tratados Internacionales en materia de sustracción de menores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 26.
 
-Sin perjuicio de lo dispuesto por otras disposiciones legales, el (la) Presidente (a) de la Subcomisión tendrá las siguientes atribuciones:
+El Sistema DIF Hidalgo deberá otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial o que se encuentren en desamparo familiar.
 
-I. Presentar a la consideración de la Subcomisión el proyecto del Programa Estatal para Prevenir y Eliminar la Discriminación;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE AGOSTO DE 2020)</small>
 
-II. Someter a la consideración de la Subcomisión el informe anual de actividades;
+Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, de conformidad con la legislación familiar y demás ordenamientos legales aplicables, el Sistema DIF Hidalgo, así como las autoridades involucradas, según sea el caso, se asegurará de que niñas, niños y adolescentes:
 
-III. Ejecutar los acuerdos y demás disposiciones de la Subcomisión, así como velar por su cumplimiento;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-IV. Someter a la aprobación de la Subcomisión el proyecto del reglamento;
+I. Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario al interés superior de la niñez, y tengan con prontitud resuelta su situación jurídica para acceder a un proceso de adopción expedito, ágil, simple y guiado por su interés superior, aplicándose dicho proceso incluso cuando los adoptantes sean miembros de la familia de origen, siempre que ello sea posible y no sea contrario a su interés superior;
 
-V. Ejercer la representación legal de la Subcomisión, así como delegarla cuando no exista prohibición expresa para ello;
+II. Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo;
 
-VI. Promover la celebración de acuerdos, convenios y demás instrumentos de colaboración con organismos nacionales e internacionales para el desarrollo de las atribuciones de la Subcomisión, de conformidad con las normas aplicables;
+III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedimiento de adopción, que supone la vinculación de niñas, niños y adolescentes, respecto del cual ya se ha declarado la condición de adoptabilidad, con su nuevo entorno y determinar la idoneidad de la familia para convertirse en familia adoptiva, previo acuerdo del Consejo Técnico de Adopciones;
 
-VII. Nombrar y remover libremente al Secretario Técnico de la Subcomisión;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-VIII. Las demás que le confieran esta ley, su reglamento y demás ordenamientos, así como las que por acuerdo de la Subcomisión se le otorguen.
+IV. El Sistema DIF Hidalgo, en el ámbito de su competencia, deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo; o
+
+V. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Estas medidas especiales de protección tendrán carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar definitivo.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+El Sistema DIF Hidalgo deberá mantener estrecha comunicación con los sistemas DIF municipales y las unidades municipales de primer contacto intercambiando información a efecto de garantizar el interés superior de la niñez y el desarrollo evolutivo de formación de su personalidad, así como materializar su derecho a vivir en familia.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Las autoridades administrativas y jurisdiccionales del Estado de Hidalgo, en el ámbito de sus respectivas competencias, dispondrán lo conducente a efecto de que niñas, niños y adolescentes vean restituido su derecho a vivir en familia y su derecho a recibir formación y protección de quien ejerce la patria potestad, la tutela, guarda o custodia, interpretando de manera sistemática y funcional la normatividad correspondiente, conforme al principio del interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Los certificados de idoneidad podrán ser expedidos, previa valoración técnica, por el Sistema DIF Hidalgo a través de la Procuraduría de Protección, y serán válidos para iniciar el proceso de adopción en cualquier entidad federativa, independientemente de dónde hayan sido expedidos.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+El proceso administrativo y jurisdiccional de adopción podrá realizarse en el Estado de Hidalgo, con independencia de la ubicación física de la niña, niño o adolescente susceptible de ser adoptado.
+
+La autoridad competente deberá tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+El Sistema DIF Hidalgo y los Sistemas Municipales, en coordinación con la Procuraduría de Protección, en todo momento serán responsables del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento y en su caso, la adopción.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Entre las medidas de seguimiento deberán estar los reportes realizados por los profesionales de trabajo social donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante tres años contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
 
 ###### Artículo 27.
 
-La Secretaría Técnica de la Subcomisión, tendrá las siguientes atribuciones:
+Las personas interesadas en adoptar niñas, niños y adolescentes que se encuentren bajo la tutela de la Procuraduría de Protección, podrán presentar ante dicha instancia la solicitud correspondiente.
 
-I. Preparar las reuniones de la Subcomisión, previo acuerdo con el (la) presidente (a);
+La Procuraduría de Protección, en el ámbito de su respectiva competencia, realizará las valoraciones psicológica, económica, de trabajo social y todas aquéllas que sean necesarias para determinar la idoneidad de quienes soliciten la adopción, en los términos de lo dispuesto por las leyes aplicables y emitirá el certificado de idoneidad respectivo.
 
-II. Concurrir a las sesiones de la Subcomisión;
+La asignación de niñas, niños y adolescentes sólo podrá otorgarse a una familia de acogida pre-adoptiva que cuente con certificado de idoneidad y previo acuerdo del Consejo Técnico de Adopciones. Para tal efecto, se observará lo siguiente:
 
-III. Llevar la minuta de las sesiones, remitiendo a la brevedad posible copia del acta a los integrantes de la Subcomisión;
+I. Niñas, niños y adolescentes, siempre que sea posible de acuerdo con su edad, desarrollo cognoscitivo y grado de madurez, serán escuchados y su opinión será fundamental para la determinación que adopte el órgano jurisdiccional competente;
 
-IV. Dar seguimiento a los acuerdos de la Subcomisión, vigilando su cumplimiento en acuerdo con el (la) presidente (a); y
+II. Se tomará en cuenta que las condiciones en la familia de acogimiento pre-adoptiva sean adecuadas para el desarrollo integral de niñas, niños y adolescentes, de conformidad con el principio de interés superior de la niñez;
 
-V. Las demás que le confieran esta ley, su reglamento y demás ordenamientos, así como las que por acuerdo de la Subcomisión se le otorguen.
+III. Se tomará en consideración el grado de parentesco; la relación de afinidad y de afectividad; el origen, la comunidad y las condiciones culturales en que se desarrollen niñas, niños y adolescentes; y
+
+IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
 
 ###### Artículo 28.
 
-En el proceso de formulación del Programa Estatal para Prevenir y Eliminar la Discriminación, se deberá atender a los principios, objetivos e instrumentos establecidos en la Ley de Desarrollo Social y Humano para el Estado de Chihuahua y en la Ley de Planeación del Estado; lo anterior, en el marco del Plan Estatal de Desarrollo, asegurando la incorporación de la perspectiva de género, la igualdad sustantiva y la promoción de los derechos humanos.
+La Procuraduría de Protección en coordinación con el Consejo Técnico de Adopciones que haya autorizado la asignación de niñas, niños o adolescentes a una familia de acogida pre-adoptiva, deberá dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
+
+En los casos que la Procuraduría de Protección constate que no se consolidaron las condiciones de adaptación de niñas, niños o adolescentes con la familia de acogida pre-adoptiva, procederá a iniciar el procedimiento a fin de reincorporarlos al sistema y se realizará, en su caso, una nueva asignación.
+
+Cuando se verifique cualquier tipo de violación a los derechos de niñas, niños o adolescentes asignados, el Sistema DIF Hidalgo revocará la asignación y ejercerá las facultades que le otorgan la presente Ley y demás disposiciones aplicables.
+
+Los procedimientos de adopción se desahogarán de conformidad con la legislación familiar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 29.
 
-El Programa será parte integral del Programa Estatal de Desarrollo Social y Humano y deberá atender a los criterios establecidos en los artículos 25, 26, 27, 28, 29, 31 y 32 de la Ley de Desarrollo Social y Humano para el Estado de Chihuahua.
+Corresponde al Sistema DIF Hidalgo en el ámbito de su competencia:
+
+I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación;
+
+II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar y emitir los dictámenes correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional; y
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+III. Contar con un sistema de información y registro, permanentemente actualizado, que incluya niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción y aquellos que cuenten con certificado de idoneidad, adopciones concluidas, desagregadas en nacionales e internacionales, así como niñas, niños y adolescentes adoptados.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, P.O. 17 DE AGOSTO DE 2020]</small>
+
+También se llevará un registro de las familias de acogida y de las niñas, niños y adolescentes acogidos por éstas.
 
 ###### Artículo 30.
 
-Los servidores de la administración pública estatal o municipal que en ejercicio de sus funciones o con motivo de ellas contravengan las disposiciones establecidas en el presente ordenamiento, serán sancionados de conformidad a lo previsto en la Ley General de Responsabilidades Administrativas.
+En materia de adopciones, la Ley para la Familia del Estado de Hidalgo deberá contener disposiciones mínimas que abarquen lo siguiente:
+
+I. Prever que niñas, niños y adolescentes sean adoptados en pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez;
+
+II. Asegurar que se escuche y tome en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, en términos de la presente Ley;
+
+III. Garantizar que se asesore jurídicamente, tanto a quienes consientan la adopción, como a quienes la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de la misma;
+
+IV. Disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos para quienes participen en ella; y
+
+V. Las autoridades estatales, en el ámbito de sus respectivas competencias, velarán porque en los procesos de adopción se respeten las normas que los rijan.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 30 Bis.
 
@@ -869,15 +805,45 @@ Artículo 30 Septdecies. El Sistema DIF Hidalgo y la Procuraduría de Protecció
 
 ###### Artículo 31.
 
-Los procedimientos para la aplicación de sanciones por responsabilidad administrativa y los de carácter penal en que incurran los servidores públicos estatales y municipales, se desarrollarán autónomamente según su naturaleza y por la vía procesal que corresponda, conforme a las disposiciones jurídicas aplicables.
+Tratándose de adopción internacional, la legislación aplicable deberá disponer lo necesario para asegurar que los derechos de niñas, niños y adolescentes que sean adoptados sean garantizados en todo momento y se ajusten el interés superior de la niñez, así como garantizar que esta adopción no sea realizada para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, las peores formas de trabajo infantil o cualquier ilícito en contra de los mismos.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Con el fin de salvaguardar el interés superior de la niñez, previo a que la adopción internacional pueda tener lugar, las autoridades competentes deberán determinar si la niña, el niño o el adolescente son susceptibles de adopción.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Las autoridades competentes deberán establecer medidas de prevención y protección para evitar adopciones ilegales. Para tal efecto, podrán requerir la colaboración de la autoridad central del país de que se trate, a fin de obtener información o supervisar las medidas preventivas que se hayan dictado, en términos del tratado internacional en la materia.
+
+En los procedimientos judiciales de adopción internacional deberá requerirse el informe de adoptabilidad por parte del Sistema Nacional DIF o del Sistema DIF Hidalgo y, una vez que el órgano jurisdiccional competente otorgue la adopción, previa solicitud de los adoptantes, la Secretaría de Relaciones Exteriores expedirá la certificación correspondiente, de conformidad con los Tratados Internacionales.
+
+El Estado dará seguimiento a la convivencia y proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
+
+Las personas que ejerzan profesiones de trabajo social y psicología de las instituciones públicas y privadas que intervengan en procedimientos de adopción internacional, en términos de lo dispuesto en los Tratados Internacionales, deberán contar con la autorización y registro del Sistema Nacional DIF.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+La adopción internacional de una niña, niño o adolescente de nacionalidad mexicana, procederá cuando se haya constatado por las autoridades correspondientes que ésta responde al interés superior de la niñez, después de haber examinado adecuadamente las posibilidades de asignación de la niña, niño o adolescente para adopción nacional.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Las autoridades competentes tienen la obligación de conservar cualquier información que dispongan relativa a niñas, niños y adolescentes que hayan sido adoptados internacionalmente, así como de sus orígenes.
 
 #### SECCIÓN TERCERA. DE LA PRESIDENCIA Y LA SECRETARÍA TÉCNICA DE LA SUBCOMISIÓN
 
 ###### Artículo 32.
 
-Quien sea objeto de presuntas conductas discriminatorias cometidas por particulares, en los términos establecidos por la presente ley, podrá optar por acudir ante la Subcomisión para que mediante procedimiento conciliatorio se resuelva el asunto planteado o comparecer ante el Ministerio Público para presentar la querella correspondiente.
+Las personas que ejerzan profesiones de trabajo social y psicología o carreras afines de las instituciones públicas que realicen estudios socioeconómicos, psicológicos e informes psicosociales en materia de adopción, deberán cumplir con los requisitos siguientes:
 
-T R A N S I T O R I O S
+I. Contar con título y cédula profesional de licenciatura en trabajo social, psicología o carreras afines;
+
+II. Acreditar experiencia en temas de desarrollo de la niñez y de la adolescencia, familia, pareja o adopción;
+
+III. Acreditar experiencia laboral mínima de dos años, en trabajo social o psicología, o en la atención de niñas, niños o adolescentes sujetos de asistencia social o solicitantes de adopción;
+
+IV. No haber sido condenado por delitos dolosos; y
+
+V. Las demás que dispongan otros ordenamientos aplicables.
 
 ###### Artículo 33.
 
@@ -887,9 +853,7 @@ El orden jurídico estatal garantizará el cumplimiento de las obligaciones señ
 
 Las autoridades competentes en materia familiar ofrecerán orientación, cursos y asesorías, así como servicios terapéuticos en materia de pareja, de maternidad y paternidad, entre otros.
 
-### CAPÍTULO V. DE LA SANCIÓN DE LAS CONDUCTAS DISCRIMINATORIAS
-
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
+### Capítulo Quinto. Del Derecho a la Igualdad Sustantiva
 
 ###### Artículo 35.
 
@@ -963,9 +927,47 @@ Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de 
 
 El orden jurídico estatal establecerá como edad mínima para contraer matrimonio los 18 años.
 
-### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2023)</small>
 
-### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
+### Capítulo Séptimo Bis. Derecho a una Primera Infancia Digna
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2023)</small>
+
+###### Artículo 44 Bis.
+
+Las niñas y los niños en primera infancia gozarán de todos los derechos derivados del sistema jurídico internacional, nacional y local. De forma enunciativa pero no limitativa gozarán de los derechos siguientes:
+
+I. A ser derechohabientes de políticas, programas y servicios que los órganos estatales y municipales implementen con el objeto de promover, respetar, proteger y garantizar su desarrollo integral;
+
+II. A recibir la estimulación adecuada con el fin de desarrollar al máximo las capacidades cognitivas, físicas, emocionales, sociales, afectivas y lingüísticas de las niñas y los niños;
+
+III. Al desarrollo físico;
+
+IV. Al pleno desarrollo psicosocial;
+
+V. A la movilidad social e intergeneracional, siendo sujetos de programas y servicios a fin de generar condiciones adecuadas que les permitan la igualdad de oportunidades para el desarrollo de sus capacidades;
+
+VI. Al descanso, al juego y al esparcimiento, los cuales serán respetados como factores primordiales de su desarrollo y crecimiento, así como a disfrutar de las manifestaciones y actividades culturales y artísticas de su comunidad;
+
+VII. A la integridad física, mental y emocional;
+
+VIII. A participar, ser consultado, expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y a que dichas opiniones sean tomadas en cuenta; y
+
+IX. A crecer y desarrollarse en un entorno saludable, seguro, afectivo y libre de violencia o conductas nocivas.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2023)</small>
+
+###### Artículo 44 Ter.
+
+El Gobierno estatal, los órganos descentralizados y autónomos, así como los gobiernos municipales deberán promover, respetar, proteger y garantizar la aplicación e interpretación del orden jurídico que potencialice los derechos descritos en la presente ley.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2023)</small>
+
+###### Artículo 44 Quater.
+
+Los padres, ascendientes, tutores y toda persona que tenga bajo su cuidado o resguardo de las niñas y los niños en primera infancia tendrán derecho a recibir asistencia, capacitación, educación, asesoría y acompañamiento en la tarea de procurar el adecuado desarrollo integral y crianza y ser objeto de acciones institucionales por parte de los entes públicos del estado.
+
+### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
 ###### Artículo 45.
 
@@ -975,7 +977,9 @@ Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda form
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a implementar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
 
-I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual, así como la violencia vicaria;
 
 II. La corrupción de personas menores de dieciocho años de edad;
 
@@ -985,7 +989,9 @@ III. Trata de personas, turismo sexual y lenocinio, de personas menores de dieci
 
 IV. El tráfico de menores;
 
-V. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+V. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables. Para lo cual las autoridades señaladas deberán actuar con perspectiva de género;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
@@ -1025,7 +1031,7 @@ En los casos en que niñas, niños y adolescentes sean víctimas de delitos se a
 
 Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Estatal de Protección Integral a que se refiere la presente Ley, deberá coordinarse con el Sistema Estatal de Atención a Víctimas, el cual procederá a través de su Comisión Ejecutiva en los términos de la legislación aplicable.
 
-### Capítulo Décimo. Del Derecho a la Inclusión de Niñas, Niños y Adolescentes con Discapacidad
+### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
 
 ###### Artículo 49.
 
@@ -1079,6 +1085,10 @@ XV. Establecer medidas tendentes a la prevención, atención, combate y rehabili
 
 XVI. Establecer medidas tendentes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental;
 
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+XVI BIS. Establecer medidas tendientes a brindar el servicio de atención médica oportuna para los problemas ocasionados en la salud, como consecuencia de las restricciones inherentes a las pandemias;
+
 XVII. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación; y
 
 XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
@@ -1107,7 +1117,7 @@ III. El diagnóstico oportuno y atención temprana de la displasia en el desarro
 
 IV. La atención de la salud visual, bucal, auditiva y mental.
 
-### Capítulo Décimo Primero. Del Derecho a la Educación
+### Capítulo Décimo. Del Derecho a la Inclusión de Niñas, Niños y Adolescentes con Discapacidad
 
 ###### Artículo 52.
 
@@ -1155,7 +1165,7 @@ Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad y t
 
 Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a que se les facilite un intérprete, de ser necesario un traductor, o aquellos medios tecnológicos que les permitan obtener información de forma comprensible.
 
-### Capítulo Décimo Segundo. De los Derechos al Descanso y al Esparcimiento
+### Capítulo Décimo Primero. Del Derecho a la Educación
 
 ###### Artículo 56.
 
@@ -1169,7 +1179,9 @@ I. Proporcionar la atención educativa que niñas, niños y adolescentes requier
 
 II. Adoptar medidas orientadas hacia el pleno ejercicio del derecho a la educación;
 
-III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria y para procurar la accesibilidad material, económica y geográfica a la educación, sin discriminación;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria, desde la educación inicial y para procurar la accesibilidad material, económica y geográfica a la educación, sin discriminación;
 
 IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, tales como la relevancia y pertinencia del currículo, la disposición de la infraestructura y equipamiento adecuados para el aprendizaje y para las prácticas de enseñanza, la evaluación docente, entre otras;
 
@@ -1261,7 +1273,7 @@ III. Establecer mecanismos gratuitos de atención, asesoría, orientación y pro
 
 IV. Establecer y, en su caso, aplicar las sanciones que correspondan a las personas, responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables.
 
-### Capítulo Décimo Tercero. De los Derechos de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
+### Capítulo Décimo Segundo. De los Derechos al Descanso y al Esparcimiento
 
 ###### Artículo 59.
 
@@ -1273,7 +1285,7 @@ Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
 
-### Capítulo Décimo Cuarto. De los Derechos a la Libertad de Expresión y de Acceso a la Información
+### Capítulo Décimo Tercero. De los Derechos de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
 
 ###### Artículo 61.
 
@@ -1293,7 +1305,7 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, 8 Bis de la Constitución Política del Estado, ni de los principios rectores de esta Ley.
 
-### Capítulo Décimo Quinto. Del Derecho a la Participación
+### Capítulo Décimo Cuarto. De los Derechos a la Libertad de Expresión y de Acceso a la Información
 
 ###### Artículo 63.
 
@@ -1347,7 +1359,7 @@ Asimismo, la Procuraduría de Protección estará facultada para promover accion
 
 Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar de conformidad con las disposiciones aplicables.
 
-### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
+### Capítulo Décimo Quinto. Del Derecho a la Participación
 
 ###### Artículo 70.
 
@@ -1369,7 +1381,7 @@ Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y to
 
 Niñas, niños y adolescentes también tienen derecho a que las diferentes instancias gubernamentales, les informen de qué manera su opinión ha sido valorada y tomada en cuenta su solicitud.
 
-### Capítulo Décimo Séptimo. Del Derecho a la Intimidad
+### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
 
 ###### Artículo 74.
 
@@ -1377,7 +1389,7 @@ Niñas, niños y adolescentes tienen derecho a asociarse y reunirse, sin más li
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando ello sea necesario para satisfacer las formalidades que establezcan las disposiciones aplicables.
 
-### Capítulo Décimo Octavo. Del Derecho a la Seguridad Jurídica y al Debido Proceso
+### Capítulo Décimo Séptimo. Del Derecho a la Intimidad
 
 ###### Artículo 75.
 
@@ -1457,7 +1469,7 @@ En los procedimientos ante órganos jurisdiccionales, se podrá solicitar que se
 
 El órgano jurisdiccional, con base en este artículo y en las disposiciones aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
 
-### Capítulo Décimo Noveno. Niñas, Niños y Adolescentes Migrantes
+### Capítulo Décimo Octavo. Del Derecho a la Seguridad Jurídica y al Debido Proceso
 
 ###### Artículo 81.
 
@@ -1533,6 +1545,10 @@ IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de 
 
 V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria, atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables;
 
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+V Bis. Tener acceso oportuno a protocolos específicos para la atención integral y restitución de sus derechos, con base en el interés superior de la niñez;
+
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2021)</small>
 
 VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos; y
@@ -1557,9 +1573,7 @@ La legislación a que se refiere el párrafo anterior, deberá garantizar los de
 
 Las autoridades, en el ámbito de su competencia, deberán vigilar que en los lugares de tratamiento, centros de internamiento y/o asistencia social de adolescentes a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito, se lleven a cabo eficaces sistemas de reinserción y reintegración social y familiar, así como el pleno desarrollo de su persona y capacidades.
 
-### Capítulo Vigésimo. Derecho de Acceso a las Tecnologías de la Información y Comunicación
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+### Capítulo Décimo Noveno. Niñas, Niños y Adolescentes Migrantes
 
 ###### Artículo 88.
 
@@ -1655,9 +1669,9 @@ En ningún caso una situación migratoria irregular de niña, niño o adolescent
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-### Capítulo Vigésimo Primero. Del Derecho a una Crianza Positiva
+### Capítulo Vigésimo. Derecho de Acceso a las Tecnologías de la Información y Comunicación
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 100 Bis.
 
@@ -1683,9 +1697,9 @@ En concordancia con el Derecho a la Educación, las autoridades competentes debe
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2019)</small>
 
-### Capítulo Vigésimo Segundo. Del Derecho a Una Parentalidad Asistida
+### Capítulo Vigésimo Primero. Del Derecho a una Crianza Positiva
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2021)</small>
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 100 Bis 4.
 
@@ -1711,7 +1725,7 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2021)</small>
 
-### Capítulo Vigésimo Tercero. Del Derecho a Una Alimentación Suficiente, Nutritiva y de Calidad
+### Capítulo Vigésimo Segundo. Del Derecho a Una Parentalidad Asistida
 
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2021)</small>
 
@@ -1733,7 +1747,9 @@ Las autoridades competentes en materia de desarrollo integral de la familia e in
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2021)</small>
 
-### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+### Capítulo Vigésimo Tercero. Del Derecho a Una Alimentación Suficiente, Nutritiva y de Calidad
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2021)</small>
 
 ###### Artículo 100 Bis 10.
 
@@ -1741,13 +1757,13 @@ Todas las niñas, niños y adolescentes tienen derecho a una alimentación nutri
 
 La desnutrición, malnutrición, sobrealimentación y trastornos alimenticios en niñas, niños y adolescentes constituyen un asunto de salud pública para el Estado y los municipios, por lo que en el ámbito de su competencia, deberán crear programas y ejecutar acciones tendientes a brindarles una correcta educación alimentaria y mejoramiento nutricional.
 
-### Capítulo Único. De los Centros de Asistencia Social
+### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
 
-### Capítulo Primero. De las autoridades
+### Capítulo Único. De los Centros de Asistencia Social
 
 ## TÍTULO TERCERO. De las Obligaciones
 
-### Capítulo Segundo. De la Distribución de Competencias
+### Capítulo Primero. De las autoridades
 
 ###### Artículo 101.
 
@@ -1805,7 +1821,9 @@ I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas,
 
 II. Que las autoridades migratorias verifiquen la existencia de la autorización de quienes ejerzan la patria potestad, tutela o, en su caso, del órgano jurisdiccional competente, que permita la entrada y salida de niñas, niños o adolescentes del territorio estatal, conforme a las disposiciones aplicables;
 
-III. Que personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstenga de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formule programas e imparta cursos de formación permanente para prevenirlas y erradicarlas; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+III. Que personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas, centros y establecimientos penitenciarios o de cualquier otra índole, se abstenga de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formule programas e imparta cursos de formación permanente para prevenirlas y erradicarlas; y
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2021)</small>
 
@@ -1825,7 +1843,7 @@ No podrá declararse la caducidad, ni la prescripción en perjuicio de niñas, n
 
 ## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
 
-### Capítulo Tercero. De la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia
+### Capítulo Segundo. De la Distribución de Competencias
 
 ###### Artículo 106.
 
@@ -1957,7 +1975,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Cuarto. Del Sistema Estatal de Protección Integral
+### Capítulo Tercero. De la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia
 
 ###### Artículo 113.
 
@@ -1965,7 +1983,7 @@ Las autoridades estatales y municipales y de los organismos constitucionales aut
 
 Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
-### Capítulo Quinto. Del Programa Estatal
+### Capítulo Cuarto. Del Sistema Estatal de Protección Integral
 
 ###### Artículo 114.
 
@@ -2091,7 +2109,7 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 
 XII. Las demás que establezca el ordenamiento jurídico estatal y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF y el Sistema DIF Hidalgo.
 
-### Capítulo Sexto. De la Secretaría Ejecutiva
+### Capítulo Quinto. Del Programa Estatal
 
 ###### Artículo 118.
 
@@ -2143,6 +2161,10 @@ Para la imposición de las medidas urgentes de protección, la persona Titular d
 
 VII Bis. Promover ante las autoridades competentes la pérdida definitiva de la patria potestad, así como la imposibilidad de ejercer la guarda y custodia de niñas, niños y adolescentes derivado (sic) víctimas de violencia familiar o derivado de violencia vicaria;
 
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+VII Ter. Velar la debida implementación de protocolos específicos para la atención integral y restitución de los derechos de niñas, niños y adolescentes víctimas de delitos, garantizando el interés superior de la niñez en todas las etapas del procedimiento penal;
+
 VIII. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
 
 IX. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
@@ -2193,7 +2215,7 @@ El nombramiento de la persona Titular de la Procuraduría de Protección deberá
 
 La Procuraduría de Protección, contara con Subprocuradurías Regionales a efecto de que logre la mayor presencia y cobertura posible en los municipios, quienes contaran con unidades de atención acorde a la autonomía e independencia presupuestal de cada municipio.
 
-### Capítulo Séptimo. De la Evaluación y Diagnóstico
+### Capítulo Sexto. De la Secretaría Ejecutiva
 
 ###### Artículo 122.
 
@@ -2295,9 +2317,7 @@ El Sistema Estatal de Protección Integral se reunirá cuando menos dos veces al
 
 Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección Integral podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, las cuales deberán ser publicadas en el Periódico Oficial.
 
-### Capítulo Octavo. De los Sistemas Municipales de Protección
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
+### Capítulo Séptimo. De la Evaluación y Diagnóstico
 
 ###### Artículo 127.
 
@@ -2317,7 +2337,9 @@ El Programa Estatal deberá incluir mecanismos transparentes que permitan su eva
 
 Los Sistemas Estatal y municipales contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
 
-### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
+### Capítulo Octavo. De los Sistemas Municipales de Protección
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
 
 ###### Artículo 131.
 
@@ -2367,13 +2389,15 @@ III. Tener como mínimo cinco años de experiencia en las áreas correspondiente
 
 IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
 
 ###### Artículo 133.
 
 Corresponde a la Unidad Técnica de Evaluación del Desempeño del Estado [UTED] la evaluación de las políticas de desarrollo social vinculadas con la protección de los derechos de niñas, niños y adolescentes, en términos de lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, en la Ley General de los Derechos de Niñas, Niños y Adolescentes, esta Ley, en los Programas Nacional y Estatal y las demás disposiciones aplicables.
 
 La evaluación consistirá en revisar periódicamente el cumplimiento de metas y acciones en materia de derechos de niñas, niños y adolescentes y de acuerdo con el resultado, tanto el Consejo Nacional de Evaluación de la Política de Desarrollo Social [CONEVAL] y a la Unidad Técnica de Evaluación del Desempeño del Estado [UTED] podrán emitir las sugerencias y recomendaciones que consideren pertinentes a través de las instancias competentes.
+
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 134.
 
@@ -2571,17 +2595,13 @@ P.O. 30 DE JULIO DE 2018.
 
 P.O. 7 DE OCTUBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 1026/2015 I P.O. MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO, RECORRIENDO EL CONTENIDO DE LOS SUBSECUENTES DEL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 4 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 213.- QUE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 13; Y ADICIONA EL CAPÍTULO VIGÉSIMO DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN; Y LOS ARTÍCULOS 100 BIS, 100 BIS 1, 100 BIS 2 Y 100 BIS 3 A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
-###### ARTÍCULO PRIMERO.
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
 
-Conforme lo que dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y del Diario de los Debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o la Diputación Permanente, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado,
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 3 DE OCTUBRE DE 2016.
+P.O. 18 DE NOVIEMBRE DE 2019.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2608,28 +2628,6 @@ A partir de la entrada en vigor del presente Decreto, las menciones contenidas e
 ###### ARTÍCULO QUINTO.
 
 Las menciones contenidas en otras disposiciones legales, respecto de las dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
-
-###### ARTÍCULO SEXTO.
-
-Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia que resulte competente en virtud de este, hasta que se den las transferencias necesarias.
-
-###### ARTÍCULO SÉPTIMO.
-
-El Gobierno Estatal deberá proponer, en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto, las iniciativas, disposiciones reglamentarias y demás adecuaciones al marco jurídico estatal para la conformación, integración e inicio del funcionamiento de los órganos, las instancias y/o figuras previstas en el presente Decreto relativas al Instituto Chihuahuense de Desarrollo Integral Infantil, y Agencia Estatal de Desarrollo Energético.
-
-Las y los servidores públicos que pasen a formar parte de otro organismo de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
-
-###### ARTÍCULO OCTAVO.
-
-El Gobierno Estatal deberá publicar en el Periódico Oficial del Gobierno del Estado, la Estrategia Estatal de Desarrollo Económico Sustentable en el marco del Plan Estatal de Desarrollo, la cual deberá incluir los mecanismos de coordinación entre los órdenes de gobierno y de participación de la sociedad civil y los sectores productivos del Estado.
-
-###### ARTÍCULO NOVENO.
-
-Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, pasarán a la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
-
-###### ARTÍCULO DÉCIMO.
-
-Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 ###### ARTÍCULO SEXTO.
 
@@ -2671,93 +2669,41 @@ Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previsto
 
 Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
 
-###### ARTÍCULO DÉCIMO QUINTO.
-
-Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
-
-###### ARTÍCULO DÉCIMO SEXTO.
-
-El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
-
-P.O.11 DE ENERO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 223 QUE DEROGA EL PÁRRAFO CUARTO DEL ARTÍCULO 142 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO; ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 225 RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN, DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO; Y ADICIONA LA FRACCIÓN XXI DEL ARTICULO 13, ASÍ COMO EL CAPÍTULO VIGÉSIMO PRIMERO DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 100 BIS 4, 100 BIS 5 Y 100 BIS 6 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
-P.O. 26 DE SEPTIEMBRE DE 2012.
+P.O. 6 DE ABRIL DE 2020.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLEY/0439/2019 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 22, FRACCIÓN III, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 393 QUE REFORMA LOS ARTÍCULOS 6 FRACCIONES VI, XV Y XVI; 13 FRACCIÓN I; 16 Y EL CAPÍTULO PRIMERO DEL TÍTULO SEGUNDO; Y ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 6, ASÍ COMO LOS ARTÍCULOS 16 BIS, 16 TER A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
 
-###### ARTÍCULO ÚNICO.
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+P.O. 17 DE AGOSTO DE 2020.
 
-P.O. 14 DE ABRIL DE 2021.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 426 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0980/2021 II P.O.".]
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
-###### ARTÍCULO PRIMERO.
+SEGUNDO. Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se aplicará lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
 
-Las autoridades e instancias competentes, difundirán por los medios posibles, y llevarán a cabo cursos de capacitación, y demás medidas tendientes, al conocimiento y aplicación de las materias previstas en el presente Decreto.
+P.O. 26 DE ABRIL DE 2021.
 
-###### ARTÍCULO SEGUNDO.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 703 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
-P.O. 12 DE MAYO DE 2021.
+P.O. 10 DE MARZO DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0985/2021 II PO., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA Y LA LEY ESTATAL DE SALUD”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-P.O. 4 DE SEPTIEMBRE DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/1057/2021 XIV P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS, LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA, LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, LA LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA, LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA, LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA, LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE ATENCIÓN A LAS ADICCIONES, LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA, LA LEY DE FOMENTO A LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE CHIHUAHUA, LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA, LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA, LA LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor, en los términos del artículo 68, fracción VI, párrafo segundo, de la Constitución Política del Estado de Chihuahua, previa publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-El Ejecutivo Estatal realizará las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas a las dependencias competentes.
-
-La Secretaría de Hacienda establecerá las disposiciones o lineamientos necesarios para la transferencia de los recursos humanos, materiales o financieros correspondientes.
-
-###### ARTÍCULO TERCERO.
-
-Las dependencias cuyas funciones se modifican en virtud del presente Decreto, realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes, recursos humanos y materiales, de conformidad con las disposiciones en la materia.
-
-Las y los servidores públicos que pasen a formar parte de otra dependencia o entidades de Gobierno del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
-
-###### ARTÍCULO CUARTO.
-
-Las y los servidores públicos adscritos a la Secretaría General de Gobierno y que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 4 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 17 DE FEBRERO DE 2016.
+P.O. 23 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 188 (SIC) QUE SE REFORMA LA LEY DE SALUD PARA EL ESTADO DE HIDALGO Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
@@ -2804,3 +2750,43 @@ P.O. 29 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 46 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 497 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 499 POR EL QUE SE ADICIONAN LA FRACCIÓN V BIS AL ARTÍCULO 85 Y LA FRACCIÓN VII TER AL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 500 POR EL QUE SE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 49 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 522 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Poder Ejecutivo del Estado contará con un plazo de un año, contado a partir de la entrada en vigor del presente Decreto, para adecuar las disposiciones reglamentarias necesarias para su cumplimiento.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 526 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 46 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 533 POR EL QUE SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22 Y LA FRACCIÓN I DEL ARTÍCULO 46, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- El Poder Ejecutivo del Estado contará con el plazo de un año, contado a partir de la entrada en vigor del presente Decreto, para adecuar las disposiciones reglamentarias necesarias para su cumplimiento.
