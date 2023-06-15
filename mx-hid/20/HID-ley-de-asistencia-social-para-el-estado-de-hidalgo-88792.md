@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2022-03-28"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -777,6 +777,10 @@ XXIV.- Prevenir y atender la problemática social que presenta la población en 
 
 XXV.- Realizar acciones formativas para fortalecer el tejido social y familiar;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXV Bis.- Diseñar, en conjunto con el Instituto Hidalguense de las Mujeres, las pláticas prematrimoniales previstas en el artículo 12 de la Ley para la Familia del Estado de Hidalgo;
+
 XXVI.- Promover y apoyar el desarrollo integral de las niñas, niños y adolescentes;
 
 XXVII.- Realizar acciones encaminadas al bienestar del adulto mayor;
@@ -1351,13 +1355,17 @@ XV.- Realizar acciones de coordinación con la Procuraduría a efecto de proporc
 
 XVI.- Atender y dar seguimiento a los casos de maltrato a los sujetos de asistencia social, que le hagan de su conocimiento;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-XVII.- Auxiliar a la Procuraduría en las acciones que ésta requiera para el seguimiento de los asuntos jurídicos o familiares; y
+XVII.- Auxiliar a la Procuraduría en las acciones que ésta requiera para el seguimiento de los asuntos jurídicos o familiares;
 
-> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-XVIII.- Otorgar servicios funerarios, así como la prestación de orientación, acompañamiento y todas las facilidades administrativas de su competencia, a los familiares de hidalguenses que, habiendo fallecido en el extranjero, requieran el traslado de los restos a su lugar de origen, para su inhumación.
+XVIII.- Otorgar servicios funerarios, así como la prestación de orientación, acompañamiento y todas las facilidades administrativas de su competencia, a los familiares de hidalguenses que, habiendo fallecido en el extranjero, requieran el traslado de los restos a su lugar de origen, para su inhumación; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XIX.- Impartir gratuitamente las pláticas prematrimoniales establecidas en el artículo 12 de la Ley para la Familia del Estado de Hidalgo, en materia de derechos y obligaciones del matrimonio y prevención, detección, atención, sanción y erradicación de la violencia familiar y de género.
 
 ## TÍTULO SEXTO. DE LA ASISTENCIA SOCIAL PRIVADA
 
@@ -1598,3 +1606,9 @@ P.O. 28 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 173 POR EL QUE SE REFORMAN LAS FRACCIONES II Y XVIII DEL ARTÍCULO 2; EL PRIMER PÁRRAFO Y LAS FRACCIONES III Y XIV DEL ARTÍCULO 11 DE LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
 
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 525 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO":]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
