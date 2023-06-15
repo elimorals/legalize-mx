@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2022-11-04"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -833,7 +833,9 @@ LVIII. Notificar y ejecutar las resoluciones que se dicten con motivo de la apli
 
 LIX. Resolver los recursos que sean interpuestos contra sus resoluciones de conformidad con la ley;
 
-LX. Expedir los Reglamentos municipales y demás disposiciones técnicas y administrativas para la aplicación de la presente Ley;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+LX. Expedir y actualizar los Reglamentos municipales y demás disposiciones técnicas y administrativas para la aplicación de la presente Ley, considerando en ellos los fenómenos naturales a que se refiere la Ley del Sistema de Protección Civil del Estado de San Luis Potosí;
 
 LXI. Procurar que los instrumentos de planeación municipal en cualquiera de sus escalas, y los proyectos ejecutivos en todas la etapas de su proceso, se elaboren por especialistas en el tema correspondiente, y
 
@@ -6998,3 +7000,11 @@ P.O. 4 DE NOVIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0774.- SE REFORMA EL ARTÍCULO 18 EN SU FRACCIÓN LX, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 32 EN SU FRACCIÓN II, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
