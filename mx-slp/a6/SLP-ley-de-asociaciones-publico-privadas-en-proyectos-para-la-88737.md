@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-88737
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-12"
-last_updated: "2022-03-07"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 12 de junio de 2012.
 
@@ -887,7 +887,9 @@ La dependencia o entidad podrá abstenerse de recibir propuestas, invitar, adjud
 
 En los órdenes estatal y municipal cualquier interesado en realizar un Proyecto, podrá presentar su propuesta de proyecto a la dependencia o entidad estatal o municipal competente.
 
-Para efecto de lo anterior, las dependencias o entidades podrán emitir un acuerdo que se publicará en el Periódico Oficial del Gobierno del Estado, "Plan de San Luis", y en su página de internet, señalando los sectores, subsectores, ámbitos geográficos, tipo de proyectos, su vinculación con los objetivos, estrategias y prioridades contenidos en el Plan Estatal de Desarrollo o en los Planes Municipales de Desarrollo, según sea el caso, y demás elementos de las propuestas que estén dispuestas a recibir, las cuales podrán ser adicionales a aquellas a que se refiere el artículo 7 de la presente Ley.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Para efecto de lo anterior, las dependencias o entidades podrán emitir un acuerdo que se publicará en el Periódico Oficial del Estado, “Plan de San Luis”, y en su página de internet, señalando los sectores, subsectores, ámbitos geográficos, tipo de proyectos, su vinculación con los objetivos, estrategias y prioridades contenidos en el Plan Estatal de Desarrollo o en los Planes Municipales de Desarrollo, según sea el caso, y demás elementos de las propuestas que estén dispuestas a recibir.
 
 En estos casos sólo se procederá al análisis de las propuestas que atiendan los elementos citados.
 
@@ -915,7 +917,9 @@ g) La viabilidad económica y financiera del proyecto, y
 
 h) Las características esenciales del contrato para la Prestación de Servicios a celebrar. En el evento de que el proyecto considere la intervención de dos o más personas morales del sector privado, las responsabilidades de cada participante de dicho sector;
 
-II. Los proyectos que se encuentren en los supuestos señalados en los acuerdos que, en su caso, la dependencia o entidad competente haya expedido conforme al párrafo segundo del artículo 59 de la presente Ley, y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+II. Los proyectos que se encuentren en los supuestos señalados en los acuerdos que, en su caso, la dependencia o entidad competente haya expedido conforme al párrafo segundo del artículo 58 bis de la presente Ley, y
 
 III. No se trate de proyectos previamente presentados y ya resueltos.
 
@@ -1456,5 +1460,13 @@ P.O. 7 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0280.- SE REFORMA EL ARTÍCULO 11, EN SUS INCISOS D) Y E); Y ADICIONA AL MISMO ARTÍCULO 11 EL INCISO F), DE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0771.- SE REFORMAN LOS ARTÍCULOS 58 BIS EN SU PÁRRAFO SEGUNDO Y 58 TER EN SU FRACCIÓN II, DE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ"]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
