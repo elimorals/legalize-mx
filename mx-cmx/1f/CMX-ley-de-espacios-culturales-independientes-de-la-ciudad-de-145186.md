@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-espacios-culturales-independientes-de-la-ciudad-de-14518
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-20"
-last_updated: "2020-11-20"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145186&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-11-19"
 
 LEY DE ESPACIOS CULTURALES INDEPENDIENTES DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Número 477 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 20 de noviembre de 2020.
 
@@ -50,15 +50,25 @@ LEY DE ESPACIOS CULTURALES INDEPENDIENTES DE LA CIUDAD DE MÉXICO
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO ÚNICO. OBJETIVOS Y PRINCIPIOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO ÚNICO. OBJETO Y PRINCIPIOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene como objetivos:
+La presente Ley es de orden público e interés social y tiene por objeto regular el funcionamiento de los espacios culturales independientes, autogestivos y comunitarios en la Ciudad de México y establecer los principios de política pública para su atención y desarrollo.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE JUNIO DE 2023)</small>
+
+Son objetivos de la presente Ley:
 
 I. Garantizar el derecho de toda persona, grupo o colectivo para constituir Espacios Culturales Independientes en la Ciudad de México y gozar de los beneficios que esta ley otorga;
 
-II. Determinar las bases, instancias, procedimientos y recursos que garanticen el desarrollo, fortalecimiento y sustentabilidad de las actividades de los Espacios Culturales Independientes de la Ciudad de México;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+II. Determinar las bases, instancias, procedimientos y recursos que garanticen el desarrollo, fortalecimiento y sostenibilidad de las actividades de los Espacios Culturales Independientes de la Ciudad de México;
 
 III. Establecer los lineamientos y acciones conforme a los cuales se articulen las políticas públicas en materia de registro de los Espacios Culturales Independientes de la Ciudad de México de conformidad con los derechos culturales;
 
@@ -74,7 +84,7 @@ VIII. Salvaguardar y enriquecer la diversidad de las expresiones culturales y la
 
 IX. Fortalecer las bases de la política cultural que estimulen la generación y desarrollo de los Espacios Culturales Independientes;
 
-X. Vincular la cultura a la sostenibilidad y sustentabilidad, garantizando el desarrollo económico, la inclusión social, el cuidado del medio ambiente, la protección del patrimonio cultural y toda aportación relativa al bienestar social de la población;
+X. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
 XI. Fomentar la articulación en las comunidades a través de las actividades culturales;
 
@@ -84,15 +94,55 @@ XIII. Fortalecer entre la población el disfrute de los bienes y servicios ofert
 
 XIV. Priorizar las necesidades de los Espacios Culturales Independientes que se encuentran en zonas con condiciones de pobreza, exclusión y desigualdad social;
 
-XV. Establecer con un enfoque territorial, las estrategias para desarrollar políticas que atiendan las necesidades locales de los Espacios Culturales Independientes, promoviendo medidas que fomenten su sustentabilidad y reconozcan el ejercicio del derecho a la ciudad;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-XVI. Implementar acciones afirmativas para favorecer, promover, respetar y garantizar el acceso, la participación y la realización plena de los grupos de atención prioritaria en materia de Espacios Culturales Independientes, para lograr su inclusión efectiva; y
+XV. Establecer con un enfoque territorial, las estrategias para desarrollar políticas que atiendan las necesidades locales de los Espacios Culturales Independientes, que cumplan con las previsiones que determinen las leyes en la materia y reconozcan el ejercicio del derecho a la ciudad;
 
-XVII. Fomentar en los Espacios Culturales Independientes una cultura de cuidado ambiental, mediante el acompañamiento, asesoría y capacitación por parte de las instancias competentes en la materia.
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XVI. Implementar acciones afirmativas para favorecer, promover, respetar y garantizar el acceso, la participación y la realización plena de los grupos de atención prioritaria en materia de Espacios Culturales Independientes, para lograr su inclusión efectiva;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XVII. Fomentar en los Espacios Culturales Independientes una cultura de cuidado ambiental, mediante el acompañamiento, asesoría y capacitación por parte de las instancias competentes en la materia;
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XVIII. Reconocer a los Espacios Culturales Independientes como espacios para el bienestar común;
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XIX. Respetar la autonomía, autogestión y diversidad de los Espacios Culturales Independientes, a la integración, desarrollo participativo y solidaridad entre éstos;
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XX. Promover la participación de las personas, colectivos, comunidades y organizaciones en el diseño, seguimiento, aplicación y evaluación de las políticas en materia de Espacios Culturales Independientes, en el ámbito de los órganos y procedimientos establecidos para ello;
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XXI. Implementar la simplificación, agilidad, información, precisión, legalidad, transparencia e imparcialidad en los actos y procedimientos administrativos;
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XXII. Impulsar la ejecución de los programas destinados al desarrollo de Espacios Culturales Independientes con el menor costo administrativo, la mayor celeridad, y los mejores resultados e impacto;
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XXIII. Garantizar los derechos culturales de las personas, grupos o colectivos, con especial énfasis en las personas pertenecientes a Grupos de Atención Prioritaria, a cuyo efecto se observarán los mecanismos de su protección y defensa; y
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XXIV. Proteger el predominio del interés general sobre el interés particular.
+
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+Las autoridades competentes deberán garantizar, en el ámbito de sus atribuciones el cumplimiento de los objetivos de la Ley.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 2.
 
-En todo lo no previsto por esta Ley, será de aplicación supletoria la Ley de Procedimiento Administrativo de la Ciudad de México, la Ley de los Derechos Culturales de los Habitantes y Visitantes de la Ciudad de México, la Ley de Establecimientos Mercantiles del Distrito Federal y demás legislación aplicable.
+En todo lo no previsto por esta Ley, serán de aplicación supletoria la Ley de Procedimiento Administrativo de la Ciudad de México, la Ley de los Derechos Culturales de los Habitantes y Visitantes de la Ciudad de México, la Ley de Establecimientos Mercantiles para la Ciudad de México, la Ley del Régimen Patrimonial y del Servicio Público, la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México, la Ley del Instituto de Verificación Administrativa de la Ciudad de México y demás normativa aplicable.
 
 ###### Artículo 3.
 
@@ -100,33 +150,51 @@ Para los efectos de la presente ley se entenderá por:
 
 I. Actividades Culturales: Conjunto de acciones que realizan las personas promotoras, artistas, creadoras, gestoras, así como parte de las autoridades, para la producción, difusión, comercialización, fomento, consumo de bienes, productos, o servicios en materia artística o cultural;
 
-II. Aforo: Es el número de personas que pueden ingresar y permanecer en un Espacio Cultural Independiente;
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+I BIS. Acta Constitutiva: Instrumento legal protocolizado ante notario público que da constancia y legalidad de la constitución de una persona moral;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+II. Aforo: Es el número de personas que pueden ingresar y permanecer en un Espacio Cultural Independiente de conformidad con lo que determina la Ley de Establecimientos Mercantiles para la Ciudad de México y su reglamento;
 
 III. Cultura: Conjunto de rasgos distintivos, espirituales, materiales intelectuales y emocionales que caracterizan a los grupos humanos y que comprende, más allá de las artes y las letras, modos de vida, derechos humanos, sistemas de valores, tradiciones y creencias. En sus diversas manifestaciones, la cultura es fundamental en la búsqueda del concierto de nuestro país con las demás naciones, y representa una actividad que identifica a nuestro país por su riqueza, su diversidad y por su originalidad; por sí misma, la cultura constituye procesos generadores de identidad, simbólica individual y colectiva. Dichas manifestaciones constituyen parte integral de lo que denominamos cultura mexicana y es el cuarto pilar de una economía sostenible y sustentable;
 
-IV. Constancia de Registro: Documento que emite la Secretaría de Cultura a los Espacios Culturales Independientes, que lo soliciten de conformidad con lo establecido en esta ley;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-V. Espacio Cultural Independiente: Se entenderá por espacio cultural independiente, los espacios culturales autónomos en su administración y funcionamiento, de organización autogestiva, independiente y/o comunitaria, conformados por una o varias personas, para realizar actividades en un espacio físico, cuyo objeto principal sea promover, programar y realizar expresiones artísticas, y culturales, mediante la formación, investigación, creación, producción, difusión, fomento, intercambio, comercialización de bienes, productos y/o servicios artístico-culturales, para fomentar la interacción social;
+IV. Constancia de Registro: Documento que emite la Secretaría que hace constar las actividades culturales que realizan los Espacios Culturales Independientes y que es entregado a éstos de manera posterior al ingresar su solicitud al Sistema Integral de Información de los Espacios Culturales Independientes;
 
-VI. Grupos de Atención Prioritaria: identidades de personas que, debido a la desigualdad estructural, enfrentan discriminación, exclusión, maltrato, abuso, violencia y mayores obstáculos para el pleno ejercicio de sus derechos y libertades fundamentales. La Constitución Local reconoce como grupos de atención prioritaria, de manera enunciativa, a las mujeres, niñas, niños y adolescentes, personas jóvenes, personas mayores, personas con discapacidad, personas LGBTTTIQ, personas migrantes, víctimas de violaciones de Derechos Humanos, personas en situación de calle, personas privadas de su libertad, personas que residen en instituciones de asistencia social, personas afrodescendientes, personas de identidad indígena, y minorías religiosas;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-VII. Manifiesto fundacional: documento que explica el sentido/objeto social/intención de existencia de un Espacio Cultural Independiente y en el que se indica el o los nombres y breves semblanzas de cada integrante, sus mecanismos de toma de decisión u organización, el objeto o razón de existencia del ECI, antecedentes y proceso de consolidación; las principales actividades que ha realizado y su plan de trabajo anual, así como los bienes o servicios culturales que provee. En el documento deberá claramente identificarse, que la actividad principal del espacio es la provisión de bienes y servicios culturales; y
+V. Espacio Cultural Independiente: Es el establecimiento que tiene como actividad principal la promoción, realización y fomento de expresiones artísticas y culturales mediante la formación, investigación, creación, producción, difusión, intercambio y comercialización de bienes, productos y/o servicios artísticos-culturales en un espacio físico propiedad del Gobierno de la Ciudad de México o de un particular. Dichos establecimientos podrán ser considerados Establecimientos Mercantiles de Bajo Impacto, de conformidad con la Ley en la materia.
 
-VIII. Sistema Integral de información de los ECI: sistema de información de la Secretaría de Cultura que integra los datos de los ECI registrados en la Ciudad de México.
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+VI. Grupos de Atención Prioritaria: Identidades de personas que, debido a la desigualdad estructural, enfrentan discriminación, exclusión, maltrato, abuso, violencia y mayores obstáculos para el pleno ejercicio de sus derechos y libertades fundamentales. La Constitución Local reconoce como grupos de atención prioritaria a las mujeres, niñas, niños y adolescentes, personas jóvenes, personas mayores, personas con discapacidad, personas LGBTTTIQ, personas migrantes, víctimas de violaciones de Derechos Humanos, personas en situación de calle, personas privadas de su libertad, personas que residen en instituciones de asistencia social, personas afrodescendientes, personas de identidad indígena, y minorías religiosas;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+VII. Manifiesto fundacional: Instrumento mediante el cual se manifiesta la voluntad de personas para organizarse con el objetivo de promover actividades de carácter artístico y cultural previstas en esta Ley; y
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+VIII. Sistema Integral de Información de los ECI: Sistema de información a cargo de la Secretaría de Cultura que integra los datos de los ECI registrados en la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 4.
 
-En esta ley se utilizarán las siguientes referencias:
+En la aplicación de la Ley se entenderá por:
 
 I. Ciudad: Ciudad de México;
 
-II. Congreso: El Congreso de la Ciudad de México;
+II. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
 III. Constitución: Constitución Política de la Ciudad de México;
 
 IV. ECI: Espacios Culturales Independientes;
 
-V. Instituto: Instituto de Derechos Culturales de la Ciudad de México;
+V. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
 VI. Ley: Ley de Espacios Culturales Independientes de la Ciudad de México;
 
@@ -134,35 +202,55 @@ VII. Reglamento: Reglamento de la Ley de Espacios Culturales Independientes; y
 
 VIII. Secretaría: Secretaría de Cultura de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 5.
 
-De manera enunciativa más no limitativa, la política de desarrollo y fortalecimiento de los ECI de la Ciudad se guiará bajo los siguientes principios:
+Para la aplicación e interpretación de la presente Ley, se atenderán de manera enunciativa y no limitativa, los principios que a continuación se enlistan:
 
-I. El reconocimiento de los ECI como espacios para el bienestar común;
+I. Accesibilidad universal;
 
-II. El respeto a la autonomía, autogestión y diversidad de los ECI, a la integración, desarrollo participativo y solidaridad entre éstos;
+II. Cultura de la Paz;
 
-III. La participación de las personas, colectivos, comunidades y organizaciones en el diseño, seguimiento, aplicación y evaluación de las políticas en materia de ECI, en el ámbito de los órganos y procedimientos establecidos para ello;
+III. Igualdad y no discriminación;
 
-IV. La simplificación, agilidad, información, precisión, legalidad, transparencia e imparcialidad en los actos y procedimientos administrativos;
+IV. Inclusión;
 
-V. La ejecución de los programas destinados al desarrollo de ECI con el menor costo administrativo, la mayor celeridad, y los mejores resultados e impacto;
+V. Interculturalidad;
 
-VI. La garantía de los derechos culturales de las personas, grupos o colectivos, con especial énfasis en las personas pertenecientes a Grupos de Atención Prioritaria, a cuyo efecto se observarán los mecanismos de su protección y defensa; y
+VI. Libertad de expresión;
 
-VII. Proteger el predominio del interés general sobre el interés particular.
+VII. Perspectiva de género;
+
+VIII. Progresividad;
+
+IX. Pro persona;
+
+X. Publicidad;
+
+XI. Sencillez; y
+
+XII. Universalidad.
 
 ## TÍTULO SEGUNDO. DE LOS ESPACIOS CULTURALES INDEPENDIENTES
 
-### CAPÍTULO I. DE SU NATURALEZA, DERECHOS Y RESPONSABILIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO I. DE SUS DERECHOS Y OBLIGACIONES
 
 ###### Artículo 6.
 
 Los ECI de la Ciudad cuentan en todo momento con autonomía de gestión y organización interna en el desarrollo de sus funciones.
 
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+El ejercicio de la autonomía de gestión y organización de los ECI será conforme a las obligaciones fiscales, administrativas y demás ordenamientos legales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 7.
 
-Las personas, grupos o colectivos que conforman los ECI, gozan de los siguientes derechos:
+Los ECI tienen los siguientes derechos:
 
 I. Participar a través de la o el responsable que el ECI designe, en el diseño y articulación de las políticas de los ECI en la Ciudad de México;
 
@@ -172,71 +260,115 @@ III. Acceder a espacios de difusión en medios de comunicación del Gobierno de 
 
 IV. Promover queja ante la Comisión de Derechos Humanos de la Ciudad de México, cuando considere que se excluye, incumple o transgreden sus Derechos Culturales;
 
-V. Recibir asesoría y acompañamiento por parte del Instituto, durante el recurso de queja por motivo de transgresión de sus derechos culturales;
+V. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
-VI. Solicitar bienes inmuebles en donación, venta condicionada, permuta, arrendamiento, comodato, fideicomiso o cualquier otra figura jurídica reconocida por la normatividad vigente, a través de las Dependencias o Entidades competentes, de conformidad con la normatividad en la materia;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+VI. Solicitar a la Administración Pública de la Ciudad de México el uso de bienes inmuebles bajo la figura de Permiso Administrativo Temporal Revocable, para establecer en ellos un ECI, de conformidad con las disposiciones de la Ley del Régimen Patrimonial y del Servicio Público y demás normativa aplicable;
 
 VII. Participar de (sic) proyectos de investigación sobre ECI;
 
-VIII. Recibir orientación, asesoría, capacitación y acompañamiento en materia fiscal, administrativa, protección civil, uso de suelo, avisos y permisos, y atención de emergencias;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-IX. Recibir asesoría para la formalización jurídica de los grupos y organizaciones e integrantes de los ECI que así lo requieran;
+VIII. Recibir orientación, asesoría, capacitación y acompañamiento en materia fiscal, administrativa, gestión integral de riesgos y protección civil, medio ambiente, uso de suelo, avisos y permisos, y atención de emergencias, por parte de las autoridades correspondientes que cuenten con atribuciones en la materia;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+IX. Recibir asesoría para tramitar la constancia de registro de los ECI en el Sistema Integral de Información que tiene bajo su responsabilidad la Secretaría;
 
 X. Obtener facilidades para el desarrollo de sus actividades por las dependencias del Gobierno de la Ciudad y las Alcaldías;
 
-XI. Gozar de los beneficios fiscales que para tal efecto emita la persona titular de la Jefatura de Gobierno;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-XII. Acceder a beneficios y estímulos fiscales, de conformidad con las leyes y reglamentos vigentes de la Ciudad;
+XI. Acceder a los beneficios y estímulos fiscales que para tal efecto emita la persona titular de la Jefatura de Gobierno mediante resoluciones de carácter general, de conformidad con en el Código Fiscal de la Ciudad de México;
 
-XIII. Participar de la convocatoria para formar parte del Consejo Consultivo de Espacios Culturales Independientes; y
+XII. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
-XIV. El derecho a formar alianzas, redes, colectivos y fortalecer cadenas productivas entre los grupos artísticos y culturales, de manera permanente o temporal.
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XIII. Participar en la convocatoria para formar parte del Consejo Consultivo de Espacios Culturales Independientes;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XIV. Formar alianzas, redes, colectivos y fortalecer cadenas productivas entre los grupos artísticos y culturales, de manera permanente o temporal; y
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XV. Participar en los cursos de capacitación en materia de gestión integral de riesgos y protección civil, que la autoridad en la materia proporcione.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 8.
 
-Las personas, grupos o colectivos que decidan conformar un ECI, tienen las siguientes responsabilidades:
+Los ECI, en su caso, deberán cumplir con las obligaciones establecidas en la Ley de Establecimientos Mercantiles para la Ciudad de México. Asimismo, deberán cumplir con lo siguiente:
 
-I. Destinar el espacio de forma exclusiva, para las actividades indicadas en su manifiesto fundacional;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-II. Tener en un lugar visible en el exterior, la placa emitida por la Secretaría de Cultura, en la cual se indique: el nombre del espacio, el horario en el que se prestarán los servicios ofrecidos; la capacidad de aforo autorizado por la Secretaría de Gestión de Riesgos y Protección Civil;
+I. Destinar el inmueble para actividades de formación, investigación, creación, producción, difusión, fomento, intercambio, comercialización de bienes, productos y/o servicios artísticos-culturales, así como a las actividades complementarias registradas;
 
-III. Presentar un informe anual de actividades a la Secretaría de Cultura, el cual podrá hacerse del conocimiento de manera escrita a la Comisión de Participación Comunitaria correspondiente a la unidad territorial donde se ubica el ECI;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+II. Instalar en un lugar visible en el interior del inmueble, copia de la constancia de registro del ECI que para tal efecto le entregue la Secretaría;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+III. Presentar a la Secretaría un informe anual de las actividades culturales previstas en la constancia de registro;
 
 IV. Refrendar su Constancia de Registro de manera bianual;
 
-V. En caso de realizar actividades como venta de alimentos o bebidas alcohólicas de manera permanente, apegarse a Ley de la Materia;
+V. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
-VI. Permitir el acceso al ECI al personal autorizado y capacitado por la Secretaría para las visitas de seguimiento a su Registro;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-VII. Cumplir con los horarios de funcionamiento acordados con la Secretaría derivados de su registro;
+VI. Permitir el acceso al inmueble al personal especializado en funciones de verificación, inspección y revisión de toda autoridad con atribuciones en dichas materias en la Ciudad de México;
 
-VIII. Participar en las capacitaciones de Mediación Vecinal, Protección Civil y Primeros Auxilios a las que se les convoque;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-IX. Contar con un Programa Interno de Protección Civil apegado a la ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México;
+VII. Cumplir con el horario de funcionamiento;
+
+VIII. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+IX. Contar con el Programa Interno de Protección Civil de acuerdo a la normatividad aplicable.
+
+Los ECI que no tengan la obligación de contar con un Programa Interno de Protección Civil, deberán cumplir con las medidas preventivas contempladas en la normatividad aplicable;
 
 X. Buscar en todo momento, privilegiar el diálogo, la comunicación, y la deliberación pública con vecinas y vecinos y con las Alcaldías para la mejor convivencia entre ambos;
 
-XI. No alterar el orden público de las zonas aledañas derivado de las actividades declaradas en el registro correspondiente;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-XII. No discriminar el acceso a ninguna persona al ECI, en los términos de la Ley para Prevenir y eliminar la discriminación del Distrito Federal;
+XI. No alterar el orden público derivado de las actividades desempeñadas de conformidad con el registro correspondiente;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XII. No discriminar el acceso a ninguna persona al ECI, en los términos de la Ley para Prevenir y Eliminar la Discriminación de la Ciudad de México;
 
 XIII. Proveer de datos a las dependencias encargadas de difundir, actualizar y analizar la información vinculada a los ECI;
 
-XIV. Dar aviso inmediato a la autoridad competente sobre cambios de responsables o representantes del ECI; y
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XIV. Dar aviso a la Secretaría sobre el cambio de representante o responsable del ECI; y
 
 XV. Emitir su Reglamento Interno, el cual deberán remitir a la Secretaría para su conocimiento.
 
-### CAPÍTULO II. DEL REGISTRO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO II. DEL SISTEMA INTEGRAL DE INFORMACIÓN
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-Corresponde a la Secretaría, emitir dos convocatorias al año para el proceso de Registro de los ECI. En dichas convocatorias se establecerá la temporalidad y mecanismos para la recepción de documentación y el procedimiento para la emisión de las constancias y las correspondientes placas.
+La Secretaría tendrá a su cargo el Sistema Integral de Información de los ECI, el cual contendrá las constancias de registro de los ECI, así como el catálogo de espacios y servicios que estos ofrecen, y los espacios otorgados a través de Permisos Administrativos Temporales Revocables.
 
-La vigencia del Registro será de dos años, y se podrá renovar por cada periodo, cumpliendo con los requisitos estipulados en la presente ley.
+Dicho sistema será público y de acceso abierto y gratuito, deberá contar con vínculos con otros centros de información tanto locales como estatales y federales en coordinación con las áreas responsables del Gobierno de la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 10.
 
-Para poder obtener el Registro como ECI, por primera ocasión se deberá cumplir con los siguientes requisitos:
+La solicitud de constancia de registro, será gratuita y deberá ser acompañada de la siguiente documentación:
 
 I. Denominación del ECI;
 
@@ -246,17 +378,19 @@ III. Nombres e identificación oficial de las y los responsables del ECI;
 
 IV. Registro Federal de Contribuyentes de la o las personas responsables del colectivo u organización del ECI;
 
-V. Manifiesto fundacional;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+V. Manifiesto fundacional en su caso;
 
 VI. Ubicación y superficie total del ECI;
 
 VII. Presentar el documento con el que se acredite la relación jurídica con el inmueble donde se desarrollen sus actividades;
 
-VIII. Aforo máximo, cuyo cálculo será establecido en el Reglamento de esta Ley, considerando para ello lo previsto en la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México;
+VIII. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
-IX. Horarios de funcionamiento y operación regular, así como horarios con los que operan durante la realización de eventos especiales;
+IX. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
-X. El programa interno de protección civil avalado por la Secretaría de Gestión Integral de Riesgos y Protección Civil o en su caso el documento que acredite que cuentan con las medidas mínimas de seguridad;
+X. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
 XI. Pertenencia a colectivos u organizaciones de ECI nacionales o internacionales;
 
@@ -266,41 +400,35 @@ XIII. Datos de contacto para vinculación con la Secretaría; y
 
 XIV. Cualquier otro elemento, que consideren acredita su existencia como ECI.
 
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+La Secretaría informará dentro del plazo de hasta 90 días hábiles sobre la procedencia de la solicitud y en su caso hará entrega al ECI de su constancia de registro a través del Sistema Integral de Información.
+
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+El Reglamento establecerá el procedimiento para la renovación de la Constancia de Registro.
+
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+Los ECI deberán cumplir, además con lo establecido en el Reglamento de esta Ley.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 11.
 
-Para la renovación del Registro como ECI, se deberá cumplir con los siguientes requisitos:
-
-I. Presentar ante la Secretaría de Cultura, el informe anual de trabajo que contenga cuando menos: actividades, eventos, bienes y servicios culturales realizados durante el año, los cuales podrán estar respaldados por evidencias de las actividades realizadas como fotos, programas de mano, carteles, notas periodísticas, entre otras;
-
-II. Presentar Acta Constitutiva y/o manifiesto fundacional, con las modificaciones o adecuaciones tanto de las y los integrantes, como de las actividades que allí se realizan o bienes y servicios que se promueven; y
-
-III. Presentar el documento que acredite la relación jurídica con el inmueble donde se desarrollen sus actividades.
+Los ECI deberán actualizar su Registro cada dos años, cuyo procedimiento se establecerá en el Reglamento de la presente Ley.
 
 ### CAPÍTULO III. DE LA REVOCACIÓN DEL REGISTRO
 
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 12.
 
-La contravención a las disposiciones de la Ley dará lugar a la imposición de cualquiera de las siguientes sanciones:
-
-I. Amonestación escrita;
-
-II. Suspensión temporal del registro; y
-
-III. Revocación del Registro.
-
-Lo anterior, sin menoscabo, de otras sanciones que resulten aplicables en caso de violaciones a otros instrumentos normativos.
+En caso de que un ECI incumpla con sus obligaciones o modifique las condiciones sobre las que se le otorgó el reconocimiento, la Secretaría le retirará el registro de conformidad con el procedimiento establecido en el Reglamento de la presente Ley.
 
 ###### Artículo 13.
 
-Para efectos del artículo anterior, las sanciones se clasificarán a partir de violaciones al artículo 8, de la siguiente forma:
-
-I. Se sancionará con amonestación escrita, el incumplimiento de las fracciones VIII, X, XIII y XIV;
-
-II. Se sancionará con suspensión temporal de actividades, el incumplimiento de las fracciones II, III, VII y XI;
-
-III. Se sancionará con la revocación del certificado el incumplimiento de las fracciones I, IV, IX, XII; y
-
-IV. Para el caso de la fracción V, se sancionará con la revocación del Registro, con independencia de las sanciones a que hubiera lugar conforme a lo establecido en las leyes de la materia.
+(DEROGADO, G.O. 15 DE JUNIO DE 2023)
 
 ## TÍTULO TERCERO. DE LAS AUTORIDADES
 
@@ -314,7 +442,11 @@ I. La Jefatura de Gobierno;
 
 II. La Secretaría de Cultura;
 
-III. El Instituto de los Derechos Culturales de la Ciudad de México;
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+II BIS. La Secretaría de Gobierno;
+
+III. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
 IV. La Secretaría de Desarrollo Económico;
 
@@ -346,11 +478,13 @@ II. Diseñar de manera participativa las políticas de los ECI, buscando garanti
 
 III. Expedir la constancia de registro de los ECI;
 
-IV. Programar, conducir, coordinar, orientar y promover las acciones relativas al fomento, regulación y registro de los ECI;
+IV. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
 V. Presidir y coordinar las acciones del Consejo Consultivo de los ECI de la Ciudad;
 
-VI. Procurar la distribución geográfica y el equilibrio de bienes y servicios culturales en beneficio de los ECI, de manera prioritaria en aquellas zonas en las cuales estos tienen menos presencia;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+VI. Promover la creación de ECI en aquellas zonas en las cuales tienen menos presencia;
 
 VII. Definir y articular los canales de locución interinstitucional de los diferentes órganos de gobierno para operar acciones conjuntas en materia de fomento y apoyo a los ECI, en el marco de sus atribuciones;
 
@@ -374,29 +508,25 @@ XVI. Brindar acompañamiento y asesoría en coordinación con las distintas Secr
 
 XVII. Contribuir con la formación de las personas artistas, artesanas, docentes, investigadoras, promotoras y administradoras culturales, que fomenten la creación de ECI;
 
-XVIII. Crear el Sistema Integral de Información de los ECI, como parte del Sistema de Información Cultural, que contemple el registro, catálogo de espacios y servicios que estos ofrecen, así como los espacios en comodato y los mecanismos para acceder a ellos. Dicho sistema será público y de acceso abierto y gratuito, deberá contar con vínculos con otros centros de información tanto locales como estatales, federales e internacionales, en coordinación con las áreas responsables del Gobierno de la Ciudad de México; y
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-XIX. Crear un sistema presencial y en línea, que agilice el trámite de registro de los ECI y que mantenga una línea de información con los ECI.
+XVIII. Crear el Sistema Integral de Información de los ECI, como parte del sistema de información y comunicación pública, previsto en la Ley de Fomento Cultural de la Ciudad de México; el cual debe contemplar el registro, catálogo de espacios y servicios que estos ofrecen, así como los espacios que se encuentran bajo la figura de Permiso Administrativo Temporal Revocable. Dicho sistema será público y de acceso abierto y gratuito, deberá contar con vínculos con otros centros de información tanto locales como estatales, federales e internacionales, en coordinación con las áreas responsables del Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XIX. Crear un sistema presencial y en línea, que agilice el trámite de registro de los ECI; y
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XX. Ordenar mediante acuerdo general que se publique previamente en la Gaceta Oficial de la Ciudad de México la suspensión de actividades de los ECI.
 
 ###### Artículo 17.
 
-Corresponde al Instituto:
+(DEROGADO, G.O. 15 DE JUNIO DE 2023)
 
-I. Dar acompañamiento y asesoría, para el recurso de queja ante la Comisión de Derechos Humanos de la Ciudad de México, que por motivo de la probable violación de los derechos culturales que presente alguna persona integrante de los ECI;
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2023)</small>
 
-II. Llevar a cabo proyectos de investigación sobre los ECI, ya sea directamente o a través de convenios con universidades, centros de investigación, asociaciones u otros organismos especializados;
-
-III. Proponer a la Secretaría, normas reglamentarias y operativas para la mayor eficacia en la promoción, difusión e investigación de las condiciones de operación de los ECI en la Ciudad;
-
-IV. Proponer mecanismos e instrumentos tendientes a la protección de los derechos culturales que le competan a la Secretaría a fin de orientar las políticas públicas en materia de las actividades y los servicios de los ECI, atendiendo todas las disposiciones legales que así lo dispongan;
-
-V. Conocer, difundir y fomentar los programas de apoyo a los ECI, así como la presente Ley;
-
-VI. Difundir entre los ECI, los instrumentos de mediación comunitaria previstos en la Ley de Cultura Cívica, para la solución de controversias con vecinas, vecinos o autoridades de las Alcaldías, con el objeto de garantizar el ejercicio de los derechos culturales de los ECI;
-
-VII. Elaborar un informe anual sobre los resultados de las acciones en materia de investigación y protección de los ECI; y
-
-VIII. En caso de negativa de recepción del informe anual por parte de la Asamblea Vecinal correspondiente, el Instituto dará acuse de recibo y mediará en la entrega del mismo a la autoridad correspondiente.
+Artículo 17 BIS. La Secretaría de Gobierno recibirá a través de acciones de diálogo y concertación, así como de mecanismos de gestión social, las peticiones de los representantes de los ECI para ser atendidos por las áreas competentes.
 
 ###### Artículo 18.
 
@@ -410,7 +540,9 @@ III. Proponer a la Secretaría acciones con base en estudios y programas especia
 
 IV. Vincularse con la Secretaría, para la creación de convenios de colaboración para acciones de fomento económico para los ECI;
 
-V. Proponer y coadyuvar con la Secretaría en la ejecución de programas que incentiven aquellos proyectos o ECI que hagan uso de la energía limpia;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+V. Proponer en coordinación con la Secretaría, la ejecución de programas que incentiven aquellos proyectos o ECI que hagan uso de la energía limpia;
 
 VI. Ejecutar los apoyos económicos que el Gobierno de la Ciudad de México otorgue a los ECI, así como los financiamientos y prerrogativas a través del Fondo de Desarrollo Social;
 
@@ -434,11 +566,15 @@ IV. Incluir en las rutas turísticas culturales a los diversos ECI registrados.
 
 Corresponde a la Secretaría de Administración y Finanzas:
 
-I. Establecer incentivos fiscales para el apoyo y desarrollo de los ECI en los términos que establezca esta Ley, las autoridades y el Código Fiscal;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-II. Formular esquemas para otorgar créditos fiscales a los ECI para el desarrollo de sus actividades o mejoramiento de su infraestructura; y
+I. Otorgar el acceso a los incentivos para el apoyo y desarrollo de los ECI de conformidad con los instrumentos que, en su caso, emita la persona titular de la Jefatura de Gobierno con fundamento en el Código Fiscal de la Ciudad de México;
 
-III. Realizar por sí o a través de terceros estudios de viabilidad técnica, económica y financiera, para poner en comodato los inmuebles inutilizados del Gobierno de la Ciudad, para fines de uso como ECI.
+II. DEROGADA
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+III. Orientar a los ECI para la obtención de un Permiso Administrativo Temporal Revocable de bienes inmuebles propiedad del Gobierno de la Ciudad de México.
 
 ###### Artículo 21.
 
@@ -446,11 +582,15 @@ Corresponde a la Secretaría de Gestión Integral de Riesgos y Protección Civil
 
 I. Elaborar y expedir Términos de Referencia y Normas Técnicas en materia de gestión integral de riesgos y protección civil para los ECI;
 
-II. Capacitar y orientar a los ECI, de manera presencial o virtual, en materia del diseño del Plan de Protección Civil y para la atención de emergencias;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-III. Dotar de un paquete de seguridad a los ECI que obtengan registro por primera ocasión que cuenten con las características como grupos de atención prioritaria; y
+II. Capacitar y orientar al personal de los ECI, de manera presencial o virtual, en materia de gestión integral de riesgos y protección civil;
 
-IV. Gestionar ante las autoridades correspondientes, la incorporación y ampliación de contenidos de protección civil con un enfoque que contextualice las condiciones de infraestructura de los ECI.
+III. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+IV. Promover ante las autoridades correspondientes la incorporación y ampliación de contenidos de protección civil con un enfoque que contextualice las condiciones de infraestructura de los ECI.
 
 ###### Artículo 22.
 
@@ -460,23 +600,31 @@ I. Hacer valer el derecho cultural de las personas o colectivos a constituirse c
 
 II. Promover una relación de proximidad y cercanía con los ECI;
 
-III. Coordinarse con la Secretaría en materia de visitas de seguimiento a los ECI;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+III. Realizar las visitas de verificación administrativa a los ECI de conformidad con las disposiciones aplicables en las materias de su competencia;
 
 IV. Impulsar en sus políticas y programas acciones que fomenten la constitución y el desarrollo de los ECI;
 
 V. Promover el desarrollo de ECI con participación de los pueblos y barrios originarios y comunidades indígenas residentes;
 
-VI. Garantizar la seguridad ciudadana, la planeación, la convivencia y la civilidad en el entorno de los ECI;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+VI. Procurar la seguridad ciudadana, la convivencia y la civilidad en el entorno de los ECI;
 
 VII. Impulsar exposiciones, encuentros, visitas guiadas y eventos similares que promuevan el vínculo comunitario con los ECI que se encuentren en su demarcación;
 
-VIII. Fomentar el desarrollo y vinculación de los ECI de su demarcación, mediante la contratación de sus servicios y productos culturales;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-IX. Coadyuvar en las actividades de los ECI que estén dirigidas a preservar el patrimonio, las culturas, identidades, festividades y la representación democrática de los pueblos, comunidades, barrios y colonias asentadas en las demarcaciones;
+VIII. Fomentar el desarrollo y vinculación de los ECI de su demarcación territorial, mediante la contratación de sus servicios y productos culturales, de conformidad con la normativa aplicable;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+IX. Coadyuvar en las actividades de los ECI que estén dirigidas a preservar el patrimonio, las culturas, identidades, festividades y la representación democrática de los pueblos y barrios originarios, comunidades indígenas residentes, colonias, fraccionamientos y unidades habitacionales asentadas en las demarcaciones;
 
 X. Buscar en todo momento, privilegiar el diálogo, la comunicación, y la deliberación pública con los ECI, vecinas y vecinos para la mejor convivencia entre ambos; y
 
-XI. Participar en las reuniones a que convoque el Instituto, para la resolución de posibles conflictos con los ECI de su demarcación.
+XI. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
 ### CAPÍTULO II. DEL CONSEJO CONSULTIVO
 
@@ -490,15 +638,39 @@ II. La persona titular de la Secretaría de Administración y Finanzas;
 
 III. La persona titular de la Secretaría de Desarrollo Económico;
 
-IV. La persona titular del Instituto de los Derechos Culturales;
+IV. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
-V. Una persona que realice investigación en las materias afines a la presente Ley; y
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-VI. Cuatro representantes de los ECI de la Ciudad.
+IV BIS. La persona titular de la Secretaría de Gobierno;
 
-La persona titular de la Secretaría será quien ocupe la presidencia del Consejo Consultivo, y el titular del Instituto ocupará la secretaría técnica.
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-En caso de ausencia de los servidores públicos a las sesiones del Consejo, estos podrán nombrar a sus respectivos suplentes, quienes en ningún caso tendrá un nivel inferior al de Director General, salvo el titular del Instituto, quien nombrará como su suplente al servidor público inferior inmediato.
+V. Una persona del sector académico que lleve a cabo investigaciones en las materias afines a la presente Ley;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+VI. Cuatro representantes de los ECI de la Ciudad; y
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+VII. La persona titular de la Secretaría de Turismo.
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+VIII. La persona titular de la Secretaría de Gestión Integral de Riesgos y Protección Civil.
+
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+Las personas titulares de las Alcaldías deberán asistir a las sesiones del Consejo en calidad de invitados cuando se traten asuntos relacionados en ECI ubicados en su demarcación territorial.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+La persona titular de la Secretaría será quien ocupe la presidencia del Consejo Consultivo, y designará a la persona que ocupe la Secretaría Técnica.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+En caso de ausencia de las personas servidoras públicas a las sesiones del Consejo, podrán nombrar por medio de escrito dirigido a la presidencia a sus respectivos suplentes, quienes en ningún caso tendrán un nivel inferior al de Dirección de Área.
 
 Los representantes de los ECI y del sector de investigación, que integren este Consejo, serán electos mediante convocatoria emitida por la Secretaría, con el gremio respectivo, buscando garantizar en dicho proceso participativo la mayor inclusión, transparencia, publicidad y equidad en la representación.
 
@@ -508,11 +680,15 @@ Las y los postulantes a ser representantes deberán contar con experiencia compr
 
 El Consejo Consultivo celebrará sesiones ordinarias cuando menos cuatro veces al año, y extraordinarias cuando las circunstancias así lo ameriten. Sus decisiones se tomarán por mayoría simple de sus asistentes, teniendo su Presidente voto de calidad en caso de empate.
 
-Para poder sesionar, el Consejo requiere acreditar la asistencia de la mayoría absoluta del total de sus integrantes.
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+Las sesiones del Consejo Consultivo se llevarán a cabo con la asistencia de la mitad más uno de sus integrantes.
 
 La persona que presida el Consejo, o a petición de uno de los miembros del Consejo, podrá invitar a participar en sus sesiones a autoridades locales y federales, miembros de organizaciones internacionales, especialistas, académicos, intelectuales, profesionales del sector o sociedades de gestión a efecto de que enriquezcan los trabajos de este órgano, quienes contarán únicamente con voz.
 
-El Consejo podrá acordar la participación permanente de una persona invitada, cuando considere que su presencia coadyuvará en los trabajos de este órgano.
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+El Consejo podrá acordar la participación de personas invitadas, con derecho a voz, cuando considere que su presencia coadyuvará en los trabajos de este órgano.
 
 El Consejo elaborará su reglamento interno de funcionamiento, de conformidad con las atribuciones establecidas en la presente ley.
 
@@ -520,19 +696,23 @@ El Consejo elaborará su reglamento interno de funcionamiento, de conformidad co
 
 El Consejo Consultivo tendrá las siguientes atribuciones:
 
-I. Coadyuvar en el análisis y deliberación de las solicitudes del registro de los ECI;
+I. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
 II. Dar seguimiento y opinión sobre las políticas, programas y acciones instrumentadas por las distintas instancias de la Administración Pública de la Ciudad de México en materia de fomento y promoción de los ECI y, en su caso, proponer las medidas y estrategias conducentes;
 
-III. Fungir como una instancia de vinculación y enlace entre el sector de los ECI y las Dependencias, Entidades y Alcaldías de la Ciudad, así como con las instancias federales y los organismos internacionales;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-IV. Revisar y proponer mejoras a los formatos o procedimientos de expedición, refrendo y revocación de los registros a los ECI otorgados al amparo de esta Ley, así como vigilar la aplicación de éstos;
+III. Fungir como una instancia de vinculación y enlace entre el sector de los ECI y las Dependencias, Entidades y Alcaldías de la Administración Pública de la Ciudad de México;
+
+IV. (DEROGADA, G.O. 15 DE JUNIO DE 2023)
 
 V. Proponer a la Jefatura de Gobierno los proyectos de iniciativas legislativas que tengan por objeto actualizar y garantizar el funcionamiento de los ECI;
 
 VI. Proponer a las instancias competentes las medidas de regulación y simplificación administrativa que coadyuven al desarrollo de los ECI;
 
-VII. Proponer a la Secretaría acciones y políticas encaminadas a atender y desarrollar los ECI, incentivar la creación de nuevos espacios y el mejoramiento de la infraestructura existente de la Ciudad de México;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+VII. Proponer a la Jefatura de Gobierno a través de la Secretaría acciones y políticas encaminadas al desarrollo de los ECI;
 
 VIII. Proponer a la Secretaría las líneas de acción, objetivos, incentivos y estrategias que podrían ser incluidos en los programas de estímulos dirigidos a incentivar el desarrollo de ECI;
 
@@ -552,19 +732,19 @@ XIII. Las demás que establezcan las disposiciones aplicables.
 
 ###### Artículo 26.
 
-El Instituto será el encargado de velar por el cumplimiento de los derechos culturales de los individuos, grupos o colectivos registrados como ECI en la Ciudad.
+(DEROGADO, G.O. 15 DE JUNIO DE 2023)
 
 ###### Artículo 27.
 
-El Instituto acompañará a los ECI, cuando éstos así lo soliciten, en la resolución de conflictos con las y los vecinos, autoridades de las Alcaldías o cualquier otra autoridad de la Administración Pública.
+(DEROGADO, G.O. 15 DE JUNIO DE 2023)
 
 ###### Artículo 28.
 
-El Instituto emitirá los lineamientos que regulen el acompañamiento en la defensa de los derechos de los ECI.
+(DEROGADO, G.O. 15 DE JUNIO DE 2023)
 
 ###### Artículo 29.
 
-En todo momento, el Instituto privilegiará el diálogo y la resolución alternativa de conflictos, garantizando siempre el respeto al derecho cultural de las personas, grupos o colectivos para constituirse como ECI.
+(DEROGADO, G.O. 15 DE JUNIO DE 2023)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -581,3 +761,19 @@ QUINTO. Todo recinto o espacio en donde realicen sus actividades los ECI, deber�
 Palacio Legislativo del Congreso de la Ciudad de México, a los trece días del mes de octubre del año dos mil veinte. POR LA MESA DIRECTIVA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, PRESIDENTA.- DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARIA.- DIPUTADO HÉCTOR BARRERA MARMOLEJO, SECRETARIO.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21, párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los diecinueve días del mes de noviembre del año dos mil veinte- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- LA ENCARGADA DEL DESPACHO DE LA SECRETARÍA DE CULTURA, MARÍA GUADALUPE LOZADA LEÓN.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ESPACIOS CULTURALES INDEPENDIENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Secretaría de Desarrollo Económico en coordinación con la Secretaría de Cultura implementará un programa de capacitación y difusión a los ECI en materia de establecimientos mercantiles. La Secretaría de Desarrollo Económico en un plazo no mayor a 180 días hábiles actualizará el Catálogo de Giros Comerciales y de Servicios de Bajo Impacto del Sistema Electrónico de Avisos y Permisos de Establecimientos Mercantiles, a fin de integrar a dicho catálogo a los Espacios Culturales Independientes.
+
+CUARTO. La Persona Titular de la Jefatura de Gobierno expedirá el Reglamento de la presente Ley en un plazo no mayor a 180 días hábiles.
+
+QUINTO. La Secretaría deberá implementar el Sistema Integral de Información de los ECI 90 días hábiles posteriores a la entrada en vigor del Reglamento de la presente Ley.
