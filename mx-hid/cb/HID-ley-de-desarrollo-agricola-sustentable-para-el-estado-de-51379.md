@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2022-10-21"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -231,6 +231,10 @@ Etnodesarrollo: Un proceso socioeconómico y cultural, que con autonomía, permi
 
 Identidad Cultural: La existencia de diversas características como: un territorio definido, una lengua común, una religión y el conjunto de valores y símbolos culturales, así como una forma propia de relaciones de producción, que ayuda a la cohesión y reproducción de sus miembros.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Mujer Rural: Es toda aquella que, sin distingo de ninguna naturaleza, e independientemente del lugar donde viva, su medio de vida está relacionado directamente con el ámbito rural, incluso si su actividad productiva no se encuentra reconocida por los sistemas de información y medición o no es remunerada.
+
 Nichos de Mercado: Principales Centros de abasto y consumo.
 
 Ley: La Ley de Desarrollo Agrícola Sustentable para el Estado de Hidalgo.
@@ -337,13 +341,21 @@ V.- La obligatoria coordinación y concertación de acciones, entre la Federaci�
 
 VI.- El financiamiento de los programas;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-VII.- La planeación basada en el ordenamiento ecológico territorial; y
+VII.- La planeación basada en el ordenamiento ecológico territorial;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-VIII.- La adaptación y, en su caso, mitigación al cambio climático.
+VIII.- La adaptación y, en su caso, mitigación al cambio climático;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+IX.- La visibilización, el reconocimiento e inclusión de la mujer en la política agropecuaria local; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+X.- La inclusión de la mujer rural en los procesos de planeación.
 
 ### CAPITULO II. DEL PROGRAMA DE DESARROLLO AGRICOLA SUSTENTABLE
 
@@ -1338,5 +1350,11 @@ P.O. 21 DE OCTUBRE DE 2022.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 250 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 530 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
