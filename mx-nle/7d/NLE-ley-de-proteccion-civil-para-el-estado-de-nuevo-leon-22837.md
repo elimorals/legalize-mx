@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-civil-para-el-estado-de-nuevo-leon-22837"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-22"
-last_updated: "2020-12-30"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de enero de 1997.
 
@@ -60,6 +60,10 @@ III. Apoyo.- Al conjunto de actividades administrativas destinadas a la prevenci
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2018)</small>
 
 IV.- Auxilio.- Las acciones destinadas primordialmente a salvaguardar la integridad física, salud y bienes de las personas; la planta productiva; y a preservar los servicios públicos y el medio ambiente, ante la presencia de desastres. Estas acciones son de: alertamiento; evaluación de daños; planes de emergencia; seguridad; búsqueda, salvamento y asistencia; servicios estratégicos, equipamiento y bienes; salud; aprovisionamiento; comunicación social de emergencia; reconstrucción inicial y vuelta a la normalidad;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+IV Bis.- Concesionario.- Persona física o moral, titular de una concesión de las previstas en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 V. Damnificado.- A la persona que sufre en su integridad física o en sus bienes daños de consideración, provocados directamente por los efectos de un desastre; también se considerarán damnificados a sus dependientes económicos. Es aplicable este concepto, a la persona que por la misma causa haya perdido su ocupación o empleo, requiriendo consecuentemente del apoyo gubernamental para sobrevivir en condiciones dignas;
 
@@ -589,7 +593,9 @@ f) Lienzos charros, circos o ferias eventuales;
 
 g) Actividades o establecimientos que tengan menos de mil quinientos metros cuadrados de construcción;
 
-h) Instalaciones de electricidad y alumbrado público;
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+h) Instalaciones de electricidad, alumbrado público y cableado aéreo en desuso;
 
 i) Drenajes hidráulicos, pluviales y de aguas residuales;
 
@@ -977,9 +983,155 @@ Recibida la denuncia, la autoridad ante quien se formuló, la turnará de inmedi
 
 Las Autoridades del Estado y las Municipales en los términos de esta Ley, atenderán de manera permanente al publico en general, en el ejercicio de la denuncia popular. Para ello, difundirán ampliamente domicilios y números telefónicos destinados a recibir las denuncias.
 
-### CAPÍTULO XIII. DE LA INSPECCIÓN, CONTROL Y VIGILANCIA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO XIV. DE LAS NOTIFICACIONES Y RECURSOS
+### CAPÍTULO XII BIS. DEL CONTROL, INSPECCIÓN Y VIGILANCIA DEL CABLEADO AEREO
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 77 Bis.
+
+Los concesionarios, que presten servicios de telecomunicaciones deben de tener debidamente identificado para las autoridades competentes el cable aéreo instalado, de conformidad con las disposiciones generales emitidas por la autoridad federal competente en la materia.
+
+Los concesionarios que presten servicio de telecomunicaciones y utilicen o requieran de cableado aéreo tales como líneas, anclajes, cables, cajas de control o cualquiera que por sus características requieran de cableado aéreo, tienen la obligación, en términos de las disposiciones legales y administrativas federales aplicables, de retirarlos cuando estos se encuentren en desuso o cuando la autoridad competente del ámbito federal se lo requiera para evitar riesgos a la ciudadanía.
+
+Las autoridades estatales y municipales podrán coadyuvar en las acciones pertinentes a que se refiere el presente artículo.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 77 Bis 1.
+
+Para el debido cumplimiento de lo establecido en el artículo anterior, los concesionarios deberán realizar lo siguiente:
+
+I. Proponer acciones de seguridad para que el municipio pueda coadyuvar durante la instalación, mantenimiento y retiro de la infraestructura aérea;
+
+II. Diseñar estrategias que mitiguen la contaminación al medio ambiente por las instalaciones de cableado aéreo; y
+
+III. Cumplir con las disposiciones generales emitidas por la autoridad federal competente.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 77 Bis 2.
+
+Los concesionarios que realicen trabajos de mantenimiento, reparación o retiro de cableado aéreos estarán obligados a restaurar las condiciones del espacio público, al estado en que se encontraban previo a la operación realizada, de acuerdo con la documentación oficial disponible al efecto.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 77 Bis 3.
+
+Los Concesionarios deberán acordar con el municipio la forma en que se harán recorridos conjuntos cuando lo solicite el municipio al menos de forma semestral al respecto de la infraestructura y cableado aéreos, definido por rutas a efecto de determinar las necesidades de remoción del cableado en desuso perteneciente a cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 77 Bis 4.
+
+El retiro o traslado de cables aéreos, también podrá generarse, previo dictamen y desahogo del procedimiento administrativo aplicable, cuando:
+
+I. A solicitud de la autoridad competente, cuando sea necesario para la ejecución de obras públicas que resulten afectadas o en instalaciones de Gobierno;
+
+II. Se determine por la Secretaría de Obras y Servicios del municipio o su equivalente que constituyen un riesgo, de oficio o a solicitud por escrito; o
+
+III. Sea solicitado a través de dictamen emitido por la Unidad Municipal de Protección Civil.
+
+El dictamen y procedimiento administrativo a que se hace referencia este capítulo será realizado por la autoridad municipal del lugar de los hechos de conformidad con lo siguiente:
+
+Recibida la solicitud o iniciado el procedimiento de oficio conforme al presente artículo, se notificará a los interesados, así como al o a los concesionarios involucrados a fin de que manifiesten lo que a su derecho convenga y ofrezcan pruebas en relación con los hechos asentados en la solicitud o derivados del procedimiento iniciado de oficio, ya sea de forma presencial, o bien, por escrito, para hacer uso de tal derecho ante la autoridad municipal, dentro del plazo cinco días hábiles, contadas (sic) a partir del día siguiente a la fecha en que se hubiera realizado la notificación.
+
+En los procedimientos administrativos se admitirán toda clase de pruebas que se encuentren permitidas por la ley, excepto la absolución de posiciones y declaración de las autoridades. No se considerará comprendida en esta prohibición la petición de informes a las autoridades administrativas, respecto de hechos o documentos que consten en sus expedientes.
+
+La autoridad municipal podrá valerse de cualquier medio probatorio de (sic) considere necesario siempre que este sea lícito.
+
+Solos los hechos controvertidos estarán sujetos a prueba. La autoridad acordará sobre la admisibilidad de las pruebas ofrecidas. Solo podrá rechazar las pruebas cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes e innecesarias o contrarias al derecho.
+
+El desahogo de las pruebas que lo ameriten se efectuará dentro de un plazo no menor a tres ni mayor a treinta días hábiles, contados a partir de su admisión. Para ello, la autoridad municipal notificará a las partes, con una participación (sic) no menor de 3 días hábiles, la fecha para el desahogo de las mismas. Las pruebas supervenientes podrán presentarse siempre que no se haya emitido la resolución definitiva.
+
+Cuando las disposiciones legales así lo establezcan o se considere indispensable, se solicitarás (sic) las pruebas de informe u opiniones técnicas necesarias para resolver el asunto.
+
+La autoridad, dependencia o persona física o moral a quien se le solicite un informe u opinión, deberá emitirlo dentro del plazo de diez días hábiles. Si transcurrido el plazo a que se refiere el párrafo anterior, no se recibiese el informe u opinión, cuando estos sean obligatorios o vinculantes, se entenderá que no existe objeción a las pretensiones del interesado.
+
+Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo señalado para tal efecto, sin que se haya hecho uso de ese derecho, quedarán a disposición de las partes las actuaciones, para que en un plazo de cinco días hábiles exprese por escrito sus alegatos.
+
+Una vez recibido los alegatos o transcurrido el plazo para presentarlos, la autoridad competente procederá dentro de los diez días hábiles siguientes, a dictar la resolución del dictamen respectivo, el (sic) cual deberá ser notificada a las partes.
+
+En la resolución administrativa del dictamen correspondiente, se señalarán al menos, en su caso, las medidas que resulten necesarias para la resolución del conflicto, tales como las medidas de seguridad establecidas en el artículo 84 de la presente ley, así como cualquier otra que se considere idónea para tal fin, señalando el plazo para su cumplimiento, la responsabilidad administrativa que corresponda en su caso a la concesionaria o a quien resultare responsable y las sanciones a quien se hubiere hecho acreedor de conformidad con las disposiciones aplicables.
+
+La autoridad municipal podrá imponer una o más de las sanciones siguientes:
+
+I. Amonestación con apercibimiento;
+
+II. Arresto administrativo hasta por 36 horas;
+
+III. Multa de 1 a 10,000 UMAS;
+
+Para la imposición de sanciones a que se refiere este ordenamiento, se tomará en cuenta:
+
+I. La gravedad de la infracción, considerando principalmente los daños que su (sic) hubiesen producido o pudieran producirse en su caso, las afectaciones a la salud y seguridad de las personas;
+
+II. El beneficio directamente obtenido por los actos que motiven la sanción;
+
+III. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción;
+
+IV. La calidad del reincidente del infractor;
+
+V. Las condiciones económicas y sociales del infractor.
+
+Para los efectos del presente capítulo, se considerará reincidente al infractor que incurra más de una vez en la misma conducta en un periodo de seis meses, contados a partir de la fecha en que se haya emitido el dictamen inmediato anterior por parte de la autoridad municipal, siempre y cuando, esta no hubiese sido desvirtuada. A los reincidentes se les aplicará el doble de las multas originalmente impuestas, independientemente de otras sanciones a que pudieran hacerse acreedores.
+
+Una vez vencido el plazo concedido por la autoridad para la resolución del conflicto, el responsable contará con un plazo de cinco días hábiles para comunicar por escrito a la autoridad municipal, haber dado cumplimiento a las medidas impuestas en la resolución correspondiente, anexando para tal efecto, los elementos probatorios necesarios.
+
+La autoridad podrá ordenar visitas para corroborar el cumplimiento de las medidas impuestas y cuando resultare que el responsable no ha cumplido en la forma y plazos establecidos, podrá hacerse acreedor a una multa adicional por cada día que persista la infracción.
+
+Contra los actos dentro del proceso y el dictamen que dicta la autoridad municipal, con motivo del procedimiento del presente capítulo, las partes podrán imponer el recurso de inconformidad.
+
+El recurso de inconformidad deberá presentarse por escrito ante el secretario del ayuntamiento, por quien lo promueva. El escrito deberá contener:
+
+I. Nombre y domicilio de quien lo promueve;
+
+II. El interés legítimo y especifico que le asista a él o los recurrentes;
+
+III. La mención precisa del acto de autoridad que motive la interposición del recurso, debiéndose anexar copia certificada del acta que contenga la resolución impugnada o los actos impugnados;
+
+IV. Los conceptos de violación que su juicio se le hayan causado;
+
+V. Las pruebas y alegatos que ofrezca el o los recurrentes, en la inteligencia de que no será admisible, la confesión por posiciones de la autoridad; y
+
+VI. Lugar y fecha de la promoción y firma del promovente.
+
+El recurso se interpondrá dentro del término de diez días hábiles contados a partir de la fecha del acto de autoridad.
+
+Interpuesto el recurso y admitido, se notificará a los interesados, a fin de que la contraparte manifieste lo que a su derecho convenga y ofrezca pruebas en relación con los hechos asentados en el recurso, ya sea de forma presencial, o bien, por escrito, para hacer uso de tal derecho ante la autoridad municipal, dentro del plazo de cinco días hábiles, contados a partir del día siguiente de la fecha en que se hubiere realizado la notificación.
+
+Posteriormente, se citará a las partes para la celebración de una audiencia de pruebas y alegatos, la que se efectuará en un término de cinco días hábiles contados a partir del día siguiente al acto de admisión del recurso.
+
+Dentro de un término de quince días hábiles contados a partir del día siguiente al de la celebración de la audiencia, la autoridad municipal dictará resolución.
+
+Respecto del procedimiento administrativo a que se refiere el presente capítulo, para lo no previsto en el mismo será aplicable de manera supletoria la Ley de Justicia Administrativa para el Estrado (sic) y Municipios de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 77 Bis 5.
+
+En casos de Emergencia o Desastre los concesionarios coadyuvarán para atender, de inmediato la solicitud de las autoridades competentes, con la finalidad de salvaguardar la integridad de la ciudadanía y evitar accidentes.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 77 Bis 6.
+
+Cuando exista riesgo inminente para la ciudadanía, determinado mediante el desahogo del procedimiento administrativo aplicable, los concesionarios tendrán que realizar el retiro de su infraestructura en el plazo determinado en la resolución aplicable, mismo que deberá considerar los términos y condiciones necesarios para no afectar la continuidad y calidad del servicio público de telecomunicaciones, así como con la finalidad de salvaguardar la integridad de la ciudadanía y evitar accidentes.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 77 Bis 7.
+
+Los concesionarios responsables que determine le dictamen previo respectivo, deberán cubrir los gastos relativos al retiro de su infraestructura y aquellos que sean necesarios para el buen funcionamiento de sus redes públicas de telecomunicaciones y estarán obligadas a restaurar las condiciones del espacio público, al estado en que se encontraba previo a la operación realizada, de acuerdo con la documentación oficial disponible al efecto.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 77 Bis 8.
+
+Cualquier retiro y traslado de la infraestructura de cableado aéreo que se realice conforme a los procedimientos señalados en el presente capitulo, deberá ser tratado conforme a la Ley en la materia de residuos sólidos, procurando en todo momento la protección al medio ambiente.
+
+### CAPÍTULO XIII. DE LA INSPECCIÓN, CONTROL Y VIGILANCIA
 
 ###### Artículo 78.
 
@@ -1027,9 +1179,17 @@ V. La clausura temporal o definitiva, total o parcial de establecimientos, const
 
 VI. La realización de actos, en rebeldía de los que están obligados a ejecutarlos;
 
-VII. El auxilio de la fuerza publica; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-VIII. La emisión de mensajes de alerta.
+VII. El auxilio de la fuerza pública;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+VIII. La emisión de mensajes de alerta; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+IX. Retiro de cableado en desuso cuando está en riesgo la integridad y seguridad de la población previo dictamen y desahogo del procedimiento administrativo aplicable.
 
 ###### Artículo 85.
 
@@ -1132,6 +1292,8 @@ Los responsables de actos que generen daños en el medio ambiente serán sancion
 ###### Artículo 96.
 
 La responsabilidad por daños o perjuicios derivados de acciones u omisiones que devengan en siniestros o desastres, se determinará y hará efectiva, conforme las disposiciones de la legislación aplicable.
+
+### CAPÍTULO XIV. DE LAS NOTIFICACIONES Y RECURSOS
 
 ###### Artículo 97.
 
@@ -1250,3 +1412,15 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 392. SE REFORMA EL INCISO H) DE LA FRACCIÓN V DEL ARTÍCULO 36, LAS FRACCIONES VII Y VIII DEL ARTÍCULO 84, SE ADICIONAN LAS FRACCIONES IV BIS Y IV BIS 1 AL ARTÍCULO 2 Y UN CAPÍTULO XII BIS DENOMINADO “DEL CONTROL, INSPECCIÓN Y VIGILANCIA DEL CABLEADO AÉREO” MISMO QUE CONTIENE LOS ARTÍCULOS 77 BIS, 77 BIS 1, 77 BIS 2, 77 BIS 3, 77 BIS 4, 77 BIS 5, 77 BIS 6, 77 BIS 7 Y 77 BIS 8, ASÍ COMO UNA FRACCIÓN IX AL ARTÍCULO 84, TODOS DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN XXXVIII DEL ARTÍCULO 3 Y EL TERCER PÁRRAFO DEL ARTÍCULO 252, SE ADICIONAN LAS FRACCIONES XCVIII Y XCIX AL ARTÍCULO 3, SE ADICIONAN LAS FRACCIONES XVIII BIS, XXVIII BIS, XXXII Y XXXIII AL ARTÍCULO 11, SE ADICIONAN LOS ARTÍCULOS 252 BIS, 252 BIS 1, 252 BIS 2, 252 BIS 3, 252 BIS 4, 252 BIS 5, 252 BIS 6 Y 252 BIS 7, TODOS DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DE NUEVO LEÓN; SE ADICIONA LA FRACCIÓN XV BIS AL ARTÍCULO 236 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO. Para el cumplimiento al presente Decreto, los concesionarios deberán implementar un plan de retiro de cableado aéreo en desuso, que deberán acordar con el ayuntamiento respectivo, dicho Plan deberá contener los lineamientos para realizar el retiro de cableado aéreo en desuso de manera progresiva en los 51 municipios del Estado de Nuevo León, esto dentro de un plazo máximo de 6 meses a la entrada en vigor del presente decreto.
+
+TERCERO. Los municipios dispondrán de un plazo de hasta 180 días posteriores a la entrada en vigor del presente decreto, para homologar su reglamentación con el fin de cumplir lo preceptuado por dicho decreto.
+
+CUARTO. Se deroga cualquier disposición en lo que se oponga al presente decreto.
