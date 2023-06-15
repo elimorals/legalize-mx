@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-instituto-de-prevision-y-seguridad-social-del-103720"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-26"
-last_updated: "2023-02-08"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de noviembre de 2014.
 
@@ -400,6 +400,18 @@ IV.- Las licencias a las que hace referencia el artículo 33 Bis de la Ley del T
 2. Cuando las Entidades Públicas no enteren las cuotas, aportaciones o descuentos al Instituto dentro del plazo y términos establecidos, deberán cubrir a partir de la fecha en que éstas se hicieren exigibles, las cantidades omitidas más los intereses que les hubieren correspondido, de acuerdo a lo previsto en el artículo 18 de la presente Ley.
 
 3. En ningún caso se autorizará la condonación de adeudos por concepto de cuotas, aportaciones y descuentos por prestaciones y servicios.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+4. Ante la falta de pago de cuotas, aportaciones o descuentos, el Instituto solicitará a la Secretaría de Finanzas, retenga el monto del adeudo correspondiente, con cargo al Presupuesto de egresos del ejercicio fiscal en curso de las Entidades Públicas que presenten algún adeudo.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+5. Las cantidades retenidas por la Secretaría de Finanzas serán entregadas de manera inmediata al Instituto, para cubrir el pago de dichos adeudos, notificándole a las Entidades Públicas los motivos y los montos de las retenciones efectuadas.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+6. El Instituto no podrá dejar de realizar el cobro de las cantidades que le adeuden las Entidades Públicas, con motivo del ejercicio de la presente Ley, a fin de garantizar con ello, que el cierre del ejercicio fiscal del año en curso, culmine sin adeudos.
 
 ###### ARTÍCULO 23.
 
@@ -2014,3 +2026,11 @@ El Poder Ejecutivo del Estado de Tamaulipas contará con un periodo de 30 días 
 ###### ARTÍCULO TERCERO.
 
 El Instituto de Previsión y Seguridad Social del Estado de Tamaulipas contará con un periodo de 30 días naturales contados a partir de la entrada en vigor del Reglamento de las Condiciones Generales de Trabajo para expedir los lineamientos que establezcan el procedimiento para garantizar la expedición de las licencias por parte del Instituto.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-517 MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS 4, 5 Y 6 AL ARTÍCULO 22, DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
