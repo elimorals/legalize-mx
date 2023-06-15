@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-humanos-del-estado-de-hidalgo-84141"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2022-10-21"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -172,6 +172,10 @@ Las autoridades del Estado deberán establecer políticas públicas a favor de l
 Las autoridades del Estado, obligadas por esta Ley, deberán adoptar las acciones que estén a su alcance para el cumplimiento de sus obligaciones, con indicadores objetivos y medibles, a favor de los Derechos Humanos, igualdad y la no discriminación.
 
 La observancia del cumplimiento de la Ley y de las políticas públicas para el cumplimiento y garantía de los derechos humanos, el derecho a la no discriminación y la igualdad de oportunidades y de trato, estará a cargo de la Comisión de Derechos Humanos del Estado de Hidalgo, sujetándose a las disposiciones de la Ley, en concordancia con la legislación nacional de la materia y los instrumentos internacionales aprobados por el Estado Mexicano.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+El Estado promoverá la contribución de la juventud a los derechos humanos mediante la formulación de políticas y programas que alienten y mantengan de modo permanente dicha actividad, así como el compromiso de las personas jóvenes a la cultura de la paz, el respeto a los derechos humanos y a la disposición de los valores de tolerancia y justicia.
 
 ### Capítulo III. De la Educación en Derechos Humanos en el Estado
 
@@ -1630,3 +1634,9 @@ P.O. 21 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 283 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 534 POR EL QUE SE ADICIONA UN ARTÍCULO 7 BIS A LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
