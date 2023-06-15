@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ingresos-del-estado-de-yucatan-para-el-ejercicio-161598"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-29"
-last_updated: "2022-12-29"
+last_updated: "2023-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Número 34,970 del Diario Oficial del Estado de Yucatán, el jueves 29 de diciembre de 2022.
 
@@ -60,6 +60,8 @@ Ingresos
 Los ingresos que el estado de Yucatán percibirá durante el ejercicio fiscal 2023 serán los provenientes de los rubros, tipos y en las cantidades estimadas que a continuación se enumeran:
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 29 DE DICIEMBRE DE 2022, PÁGINAS DE LA 24 A LA 36.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O. 15 DE JUNIO DE 2023, PÁGINA 32.]</small>
 
 En los casos en que una ley establezca alguno de los ingresos previstos en este artículo, y contenga disposiciones que señalen otros ingresos, estos últimos se considerarán comprendidos en el rubro, tipo o clase que corresponda a los ingresos del primero.
 
@@ -404,3 +406,33 @@ Abog. María Dolores Fritz Sierra
 Secretaria general de Gobierno
 
 > <small>[N. DE E. VÉASE ANEXOS I, II Y III EN EL D.O. DE 29 DE DICIEMBRE DE 2022, PÁGINAS DE LA 50 A LA 52.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 638/2023 POR EL QUE SE AUTORIZA AL PODER EJECUTIVO DEL ESTADO DE YUCATÁN PARA CONTRATAR, EN LOS EJERCICIOS FISCALES 2023 Y 2024, UNO O MÁS FINANCIAMIENTOS HASTA POR LA CANTIDAD DE $3,063,000,000.00 (TRES MIL SESENTA Y TRES MILLONES DE PESOS 00/100 M.N.) PARA LA IMPLEMENTACIÓN DEL PROYECTO DE INVERSIÓN PÚBLICA PRODUCTIVA: "AMPLIACIÓN PUERTO DE ALTURA DE PROGRESO Y OBRAS COMPLEMENTARIAS"; ASÍ COMO PARA AFECTAR, INGRESOS Y DERECHOS COMO FUENTE DE PAGO DE LAS OPERACIONES DE FINANCIAMIENTO Y MODIFICAR LA LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2023".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Inscripción en los registros
+
+Artículo segundo. El financiamiento o los financiamientos que se contraten al amparo de este decreto se deberán inscribir en el Registro de Empréstitos y Obligaciones del Estado de Yucatán, a cargo de la Secretaría de Administración y Finanzas, y en el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios, a cargo de la Secretaría de Hacienda y Crédito Público.
+
+Vigencia y Adecuaciones presupuestales
+
+Artículo tercero. El Poder Ejecutivo del estado, con base en la autorización a que se refiere este decreto, a efecto de prever el monto o partidas para el servicio de la deuda que contraiga al contratar el o los financiamientos autorizados, durante los ejercicios fiscales 2023 y 2024, deberá realizar las adecuaciones presupuestales respectivas y las adecuaciones relativas al ejercicio de los recursos derivados del o los financiamientos, de conformidad con las disposiciones establecidas en la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán y su reglamento.
+
+El Poder Ejecutivo del Estado aplicará los recursos derivados del o los financiamientos autorizados en el presente decreto, a través de la asignación o transferencia a las dependencias o entidades de la Administración Pública estatal encargadas de ejecutar la obra pública o cualquier otra obra o erogación conexa del proyecto “Ampliación Puerto de Altura de Progreso y Obras Complementarias" o inclusive a través de la asignación de obras a las dependencias o entidades federales competentes, conforme a los contratos o convenios que para la asignación correspondiente se celebren.
+
+Cuarto. Análisis de destino y capacidad de pago
+
+Este decreto fue aprobado por el voto de al menos dos terceras partes de las diputadas y los diputados presentes en la sesión respectiva del Congreso del Estado de Yucatán, de conformidad con el artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos, y previo análisis del destino de los recursos autorizados al amparo de este decreto, de la capacidad de pago y de la situación de la deuda pública del estado de Yucatán, y de los recursos a otorgarse como fuente de pago.
+
+Comité de seguimiento
+
+Artículo quinto. El Poder Ejecutivo del estado conformará un comité, que tenga como objeto dar seguimiento al ejercicio, aplicación, desarrollo del proyecto y destino de los recursos autorizados en este decreto. Se convocará a participar a este comité entre otros, al Consejo Consultivo del Presupuesto y Ejercicio del Gasto de Yucatán (sic) los representantes de las principales cámaras empresariales del estado, a organizaciones de la sociedad civil, así como al Colegio de Contadores Públicos de Yucatán, el Centro de Investigación y Estudios de Antropología Social (CIESAS), y una institución de educación superior del estado.
+
+A las reuniones convocadas por dicho comité concurrirán tres diputados designados por acuerdo de la Junta de Gobierno y Coordinación Política y aprobado por el Pleno del Congreso del Estado. Este órgano deberá constituirse y sesionar máximo 30 días posteriores al ejercicio inicial de los recursos. El comité deberá de aprobar su reglamento interno dentro de los 30 días siguientes a su instalación, y publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
