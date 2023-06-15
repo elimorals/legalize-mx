@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-143736"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-29"
-last_updated: "2022-07-05"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 29 de julio de 2020.
 
@@ -351,7 +351,9 @@ XII. Crear conciencia sobre la importancia de la planificación familiar y la ma
 
 XIII. Fomentar actitudes positivas hacia el trabajo productivo, el amor a la familia y el bienestar general.
 
-XIV. Inculcar la educación financiera para fomentar el ahorro y la inversión en las niñas, niños, adolescentes y jóvenes.
+> <small>(REFORMADA, D.O. 15 DE JUNIO DE 2023)</small>
+
+XIV. Inculcar la educación financiera para fomentar la cultura del ahorro, la inversión y la promoción del emprendimiento en las niñas, niños y adolescentes;
 
 XV. Formar y afirmar en los educandos conceptos y sentimientos de solidaridad, con el propósito de disminuir las desigualdades económicas, sociales y culturales.
 
@@ -460,6 +462,10 @@ X. La apreciación y creación artística, a través de conocimientos conceptual
 XI. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base en una educación cívica.
 
 XII. La educación para la salud como herramienta indispensable para mejorar la calidad de vida, considerando la adquisición de los conocimientos y habilidades necesarios para la prevención, recuperación y mejoramiento de la salud.
+
+> <small>(ADICIONADA, D.O. 15 DE JUNIO DE 2023)</small>
+
+XIII. Los conocimientos y habilidades de la educación financiera para la promoción del emprendimiento y el fomento de la cultura del ahorro.
 
 ###### Artículo 19.
 
@@ -1483,33 +1489,43 @@ El estado apoyará la difusión y divulgación de la investigación científica,
 
 ### Capítulo IX. Educación indígena
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 240/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE YUCATÁN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 73.
 
 Educación indígena
 
-El estado garantizará el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas, pueblos y comunidades indígenas, afromexicanos o de diferentes etnias, migrantes y jornaleros agrícolas. Contribuirá al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas indígenas nacionales como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
+El estado y los municipios garantizarán el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas, pueblos y comunidades indígenas, afromexicanas o de diferentes etnias, migrantes y jornaleros agrícolas. Las Autoridades educativas contribuirán al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas originarias de la región, como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 240/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE YUCATÁN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 74.
 
 Enfoque de la educación indígena
 
-La educación indígena tendrá un enfoque intercultural bilingüe y contribuirá a la conservación y desarrollo de nuestras características regionales, responderá a las necesidades educativas de las personas, pueblos y comunidades indígenas, atendiendo a sus características y con pertinencia social, cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y de nuestras culturas, facilitará al educando su integración futura a la vida productiva y la posibilidad de desarrollar las capacidades y habilidades para aprender y construir conocimientos y nuevas habilidades, asimismo se apoyará con servicios y programas de extensión educativa adecuados a su entorno cultural.
+La educación indígena en la entidad tendrá un enfoque intercultural bilingüe y contribuirá a la conservación y desarrollo de las características regionales; responderá a las necesidades educativas de las personas pertenecientes a los pueblos y comunidades indígenas de la región, atendiendo a sus características sociales, culturales y lingüísticas, con base en el respeto, promoción y preservación del patrimonio histórico y de su cultura.
 
-La educación indígena deberá considerar como perfil del egresado a un individuo conocedor de su propia realidad sociocultural, con las competencias que le permitan desenvolverse en otros ámbitos sociales, integrarse a la vida productiva y acceder a otros niveles educativos en condiciones de igualdad.
+Se deberá considerar primordialmente la formación de personas conocedoras de su propia realidad sociocultural, con las competencias que le permitan desenvolverse en cualquier ámbito, ya sea social, cultural u otro; así como integrarse a la vida productiva y acceder a otros niveles educativos, en condiciones de igualdad, con la finalidad de facilitar al educando su integración a la sociedad y la posibilidad de desarrollar sus capacidades y aptitudes para aprender y construir nuevos conocimientos y habilidades.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 240/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE YUCATÁN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(ADICIONADO, D.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 74 Bis.
+
+Servicios y programas
+
+La educación indígena se apoyará con los servicios y programas de extensión educativa que la autoridad correspondiente le proporcione de acuerdo con el contexto cultural del Estado, la cual, a su vez promoverá la participación conjunta de educandos, docentes, directivos, autoridades, organizaciones y personas de las comunidades indígenas o afromexicanas, en el desarrollo de los contenidos educativos y su implementación.
+
+La Autoridad educativa estatal procurará la implementación de programas para la producción, traducción y difusión de materiales y contenidos que se requieran para la impartición de la educación indígena en la entidad, mismos que deberán estar apegados a las características sociolingüísticas de la región, con la finalidad de garantizar el acceso, permanencia y egreso de los educandos.
+
+> <small>(REFORMADO, D.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 75.
 
 Consultas libres, previas e informadas
 
-Las autoridades educativas consultarán de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas, afromexicanas o de diferentes etnias, respetando su autodeterminación en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+Las Autoridades educativas consultarán de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales internacionales, nacionales y locales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas, afromexicanas o de diferentes etnias, respetando su autodeterminación en los términos del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 240/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE YUCATÁN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 76.
 
@@ -1519,13 +1535,13 @@ Para efectos de dar cumplimiento a lo dispuesto en este capítulo, las autoridad
 
 I. Fortalecer las escuelas de educación indígena, los centros educativos integrales y albergues escolares indígenas, en especial en lo concerniente a la infraestructura escolar, los servicios básicos y la conectividad.
 
-II. Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos indígenas y comunidades indígenas o afromexicanas o de diferentes etnias, y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías.
+II. Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos y comunidades indígenas o afromexicanas, así como de diferentes etnias, y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías.
 
-III. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas del territorio nacional.
+III. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas originarias de la entidad.
 
 IV. Fortalecer las instituciones públicas de formación docente, en especial las normales bilingües interculturales, la adscripción de los docentes en las localidades y regiones lingüísticas a las que pertenecen, así como impulsar programas de formación, actualización y certificación de maestras y maestros en las lenguas de las regiones correspondientes.
 
-V. Tomar en consideración, en la elaboración de los planes y programas de estudio, los sistemas de conocimientos de los pueblos y comunidades indígenas y afromexicanas o de diferentes etnias, para favorecer la recuperación cotidiana de las diferentes expresiones y prácticas culturales de cada pueblo en la vida escolar.
+V. Tomar en consideración, en la elaboración de los planes y programas de estudio, los sistemas de conocimientos de los pueblos y comunidades indígenas y afromexicanas o de diferentes etnias de la región, para favorecer la recuperación cotidiana de las diferentes expresiones y prácticas culturales de cada pueblo en la vida escolar.
 
 VI. Crear mecanismos y estrategias para incentivar el acceso, permanencia, tránsito, formación y desarrollo de los educandos con un enfoque intercultural y plurilingüe.
 
@@ -1553,23 +1569,25 @@ Se adoptarán medidas para que, dentro de la orientación integral del educando,
 
 ### Capítulo XI. Educación inclusiva
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 240/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE YUCATÁN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 79.
 
 Educación inclusiva
 
-La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
+La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir, reducir y eliminar las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
 
-La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos.
+La educación inclusiva se basa en la valoración de la diversidad, implementando los ajustes razonables al sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 240/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE YUCATÁN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+El estado fomentará la capacitación docente y acorde a los educandos para una educación inclusiva en todos los niveles de estudio.
+
+> <small>(REFORMADO, D.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 80.
 
 Medios para una educación inclusiva
 
-El estado garantizará la educación inclusiva en todos los tipos y niveles, con el fin de favorecer el aprendizaje de todos los estudiantes, con énfasis en los que están excluidos, marginados o en riesgo de estarlo, para lo cual buscará:
+El estado y los municipios garantizarán un sistema de educación inclusivo en todos los niveles educativos, con el fin de favorecer el aprendizaje de todos los estudiantes, con énfasis en los que están excluidos, marginados o en riesgo de estarlo, para lo cual buscará:
 
 I. Favorecer el máximo logro de aprendizaje de los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana.
 
@@ -1577,69 +1595,71 @@ II. Desarrollar al máximo la personalidad, los talentos y la creatividad de los
 
 III. Favorecer la plena participación de los educandos, su educación y facilitar la continuidad de sus estudios en la educación obligatoria.
 
-IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Nacional por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras.
+IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Nacional por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, discapacidades, habilidades y estilos de aprendizaje, o cualquier otra que atente contra la dignidad humana, o menoscabe los derechos y libertades humanas de los educandos.
 
-V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación.
+V. Realizar los ajustes razonables en función de las necesidades de los educandos, otorgar los apoyos necesarios para facilitar su formación, y contar con infraestructuras accesibles para las personas con discapacidad.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 240/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE YUCATÁN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 81.
 
 Personas con discapacidad
 
-El estado proporcionará a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
+El estado y los municipios proporcionarán a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su participación plena y efectiva en la educación y la sociedad, en igualdad de condiciones.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 240/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE YUCATÁN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 82.
 
 Atribuciones para enfrentar las barreras para el aprendizaje
 
-En la aplicación de esta ley se garantizará el derecho a la educación a los educandos con condiciones especiales, aptitudes sobresalientes o que enfrenten barreras para el aprendizaje y la participación.
+En la aplicación de esta ley, el estado, a través de la Autoridad educativa estatal, garantizará el derecho a la educación de los educandos con discapacidad, condiciones especiales, aptitudes sobresalientes o que enfrenten barreras para el aprendizaje y la participación, en igualdad de condiciones en la sociedad y educación.
 
-I. Prestar educación especial en condiciones necesarias, previa decisión y valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación.
+En cumplimiento a lo dispuesto en el párrafo anterior, la Secretaría de Educación emitirá lineamientos para la atención integral de los educandos con discapacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos. Las Autoridades educativas, en el ámbito de su competencia y en un contexto educativo incluyente, basado en los principios de respeto, equidad, no discriminación, igualdad sustantiva y con perspectiva de género, realizará lo siguiente:
 
-II. Ofrecer formatos accesibles para prestar educación especial, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado.
+I. Procurar una educación especial bajo las condiciones necesarias, previo análisis, decisión y valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y capacitado, en atención a las condiciones de salud, para garantizar el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación que deriven de esta circunstancia.
 
-III. Prestar educación especial para apoyar a los educandos con alguna discapacidad o aptitudes sobresalientes en los niveles de educación obligatoria.
+II. Diseñar e implementar formatos accesibles para garantizar una educación inclusiva, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado.
 
-IV. Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación.
+III. Proporcionar una educación inclusiva para apoyar a los educandos con alguna discapacidad o con aptitudes sobresalientes en los niveles de educación obligatoria.
 
-V. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que los educandos requieran.
+IV. Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación de los educandos con alguna discapacidad.
+
+V. Garantizar la formación de todo el personal docente capacitándolo para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que los educandos requieran.
 
 VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva.
 
 VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación.
 
-VIII. Desarrollar en el educando la autoestima y las competencias para el trabajo productivo, que faciliten la integración social y enriquezcan con sus capacidades y experiencias la convivencia humana, mediante procesos de educación permanente.
+VIII. Desarrollar en el educando la autoestima y las competencias para el trabajo productivo, que faciliten la integración social y enriquezcan con sus capacidades y experiencias la convivencia humana.
 
-IX. Impulsar estrategias de apoyo profesional técnico y de infraestructura educativa acorde a las necesidades educativas especiales, para el logro de objetivos comunes en la educación.
+IX. Impulsar estrategias de apoyo profesional técnico y de infraestructura educativa acorde a las necesidades de los educandos, para el logro de objetivos comunes en la educación.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 240/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE YUCATÁN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 83.
 
 Garantías para la educación inclusiva
 
-Para garantizar la educación inclusiva, las autoridades educativas, en el ámbito de su competencia, ofrecerán las medidas pertinentes, entre ellas:
+Para garantizar la educación inclusiva, las Autoridades educativas, en el ámbito de su competencia, implementarán las medidas pertinentes, las cuales serán enunciativas y no limitativas, entre ellas:
 
 I. Facilitar el aprendizaje del sistema Braille, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario.
 
 II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas dependiendo de las capacidades del educando y la enseñanza del español para las personas sordas.
 
-III. Garantizar que los educandos ciegos, sordos o sordociegos reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social.
+III. Garantizar que los educandos con discapacidad reciban educación en los lenguajes y los modos y medios de comunicación adecuados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social.
 
-IV. Garantizar que se realicen ajustes razonables para la accesibilidad universal de las personas con discapacidad.
+IV. Realizar los ajustes razonables para la accesibilidad universal de las personas con discapacidad.
 
 V. Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 240/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE YUCATÁN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 84.
 
 Educación y accesibilidad
 
-La educación en el estado atenderá las disposiciones en materia de accesibilidad señaladas en esta ley, la ley general, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley para Prevenir y Eliminar la Discriminación en el Estado de Yucatán y en las demás disposiciones legales y normativas aplicables.
+Las instituciones educativas del sector público y privado que esta Ley considera como integrantes del Sistema Educativo Estatal atenderán las disposiciones en materia de accesibilidad señaladas en la Ley general, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley para Prevenir y Eliminar la Discriminación en el Estado de Yucatán y en las demás disposiciones legales y normativas aplicables.
 
 ### Capítulo XII. Educación emocional
 
@@ -1719,9 +1739,31 @@ Capacitación para la educación emocional
 
 Para alcanzar los objetivos y finalidades que se persiguen en este capítulo, se deberá capacitar de manera continua y pertinente a todo el personal que integra el sistema educativo estatal, particularmente a docentes, directivos y de apoyo, buscando su formación constante en temas como: la consciencia y regulación emocional, la autogestión, las inteligencias intra e interpersonal y las habilidades de vida y bienestar. También se impulsará en los diversos actores sociales la formación continua para que, desde sus respectivas funciones, promuevan en niñas, niños, adolescentes y jóvenes la educación emocional.
 
-### Capítulo XIII. Educación para personas adultas
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 15 DE JUNIO DE 2023)</small>
 
-### Capítulo XIV. Tecnologías de la información, comunicación, conocimiento y aprendizaje digital para la formación con orientación integral del educando
+### Capítulo XII Bis. Educación Financiera
+
+> <small>(ADICIONADO, D.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 92 Bis.
+
+La Educación Financiera es el conjunto de acciones enfocadas para que la población estudiantil adquiera aptitudes, habilidades y conocimientos que le permitan en un futuro, administrar y planear sus finanzas personales, fomentar la cultura del ahorro y promover el emprendimiento.
+
+> <small>(ADICIONADO, D.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 92 Ter.
+
+Las autoridades educativas, en sus respectivos ámbitos de competencia, tendrán las siguientes atribuciones en educación financiera:
+
+I. Promover la educación financiera, entre las niñas, niños y adolescentes que estudien la educación básica y media superior, con el objeto de contar con un instrumento que potencialice habilidades y aptitudes que contribuyan en su desarrollo personal y profesional.
+
+II. Fomentar la participación de las niñas, niños y adolescentes en talleres y programas de ahorros, emprendimientos y negocios.
+
+III. Incentivar la creación de programas de capacitación en materia de finanzas básicas personales para fomentar la educación financiera en niñas, niños y adolescentes.
+
+IV. Las demás que establezcan la Ley general, esta ley, su reglamento y otras disposiciones legales y normativas aplicables.
+
+### Capítulo XIII. Educación para personas adultas
 
 ###### Artículo 93.
 
@@ -1761,7 +1803,7 @@ Certificación de competencias laborales
 
 La autoridad educativa estatal competente proporcionará facilidades para la certificación de las competencias laborales de conformidad con los lineamientos y criterios que emitan las autoridades competentes.
 
-### Capítulo XV. Calendario escolar
+### Capítulo XIV. Tecnologías de la información, comunicación, conocimiento y aprendizaje digital para la formación con orientación integral del educando
 
 ###### Artículo 98.
 
@@ -1781,7 +1823,7 @@ Las autoridades educativas, en el ámbito de su competencia, promoverán la form
 
 Asimismo, fortalecerán los sistemas de educación a distancia, mediante el aprovechamiento de las multiplataformas digitales, la televisión educativa y las tecnologías antes referidas.
 
-### Capítulo I. Carrera de las maestras y los maestros
+### Capítulo XV. Calendario escolar
 
 ###### Artículo 100.
 
@@ -1797,7 +1839,7 @@ El calendario escolar con cambios autorizados será publicado, a solicitud de la
 
 ## Título cuarto. Maestras y maestros como agentes fundamentales en el proceso educativo
 
-### Capítulo II. Sistema Estatal de Formación, Capacitación y Actualización
+### Capítulo I. Carrera de las maestras y los maestros
 
 ###### Artículo 102.
 
@@ -1871,7 +1913,7 @@ Reglamento interno
 
 El reglamento interno del Comité para Transparentar y Vigilar los Procesos de Otorgamiento de Plazas Docentes del Estado de Yucatán deberá establecer lo relativo a la organización y el desarrollo de las sesiones, las formalidades de las convocatorias y las facultades de quienes lo integran.
 
-### Capítulo III. Fortalecimiento de la formación docente
+### Capítulo II. Sistema Estatal de Formación, Capacitación y Actualización
 
 ###### Artículo 108.
 
@@ -1923,7 +1965,7 @@ VIII. Impulsar los proyectos pedagógicos y de desarrollo de la docencia generad
 
 IX. Las demás que le otorgue a las autoridades educativas del estado o al estado la Ley Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Mejora Continua de la Educación.
 
-### Capítulo I. Condiciones de los planteles educativos
+### Capítulo III. Fortalecimiento de la formación docente
 
 ###### Artículo 111.
 
@@ -1963,7 +2005,7 @@ La formación inicial que imparten las escuelas normales deberá responder a la 
 
 ## Título quinto. Planteles educativos
 
-### Capítulo II. Mejora escolar
+### Capítulo I. Condiciones de los planteles educativos
 
 ###### Artículo 114.
 
@@ -2015,7 +2057,7 @@ Mantenimiento de los planteles escolares
 
 Para el mantenimiento de los muebles e inmuebles, así como los servicios e instalaciones necesarios para proporcionar los servicios educativos, concurrirán los tres órdenes de gobierno, en los términos que establece la ley general, y, de manera voluntaria, madres y padres de familia o tutores y demás integrantes de la comunidad.
 
-### Capítulo único
+### Capítulo II. Mejora escolar
 
 ###### Artículo 120.
 
@@ -2051,7 +2093,7 @@ La Secretaría de Educación Pública, en los lineamientos que emita para la int
 
 ## Título sexto. Financiamiento de la educación
 
-### Capítulo I. Participación de los actores sociales
+### Capítulo único
 
 ###### Artículo 124.
 
@@ -2097,7 +2139,7 @@ III. Administrar en forma transparente y eficiente los recursos que reciba para 
 
 ## Título séptimo. Corresponsabilidad social en el proceso educativo
 
-### Capítulo II. Participación de madres y padres de familia o tutores
+### Capítulo I. Participación de los actores sociales
 
 ###### Artículo 128.
 
@@ -2113,7 +2155,7 @@ Los particulares, ya sea personas físicas o morales, podrán coadyuvar en el ma
 
 Las acciones que se deriven de la aplicación del párrafo anterior, en ningún caso implicarán la sustitución de los servicios del personal de la escuela, tampoco generarán cualquier tipo de contraprestación a favor de los particulares.
 
-### Capítulo III. Servicio social
+### Capítulo II. Participación de madres y padres de familia o tutores
 
 ###### Artículo 130.
 
@@ -2221,7 +2263,7 @@ Consecuentemente, podrán constituirse consejos de participación escolar por ca
 
 Los consejos de participación escolar a que se refiere este artículo se abstendrán de intervenir en los aspectos laborales, pedagógicos, administrativos y operativos del personal de los centros educativos y no deberán participar en cuestiones políticas ni religiosas.
 
-### Capítulo IV. Participación de los medios de comunicación
+### Capítulo III. Servicio social
 
 ###### Artículo 135.
 
@@ -2233,7 +2275,7 @@ Las autoridades educativas, en coordinación con las instituciones de educación
 
 Las autoridades educativas, en términos de la ley general, se coordinarán con las autoridades competentes, para establecer mecanismos para que cuente como prestación de servicio social, las tutorías y acompañamientos que realicen estudiantes a los educandos de preescolar, primaria, secundaria y media superior con o sin discapacidad que lo requieran para lograr su máximo aprendizaje y desarrollo integral.
 
-### Capítulo único
+### Capítulo IV. Participación de los medios de comunicación
 
 ###### Artículo 136.
 
@@ -2259,7 +2301,7 @@ IV. Promover la contribución de los medios de comunicación privados a los fine
 
 ## Título octavo. Validez de estudios y certificación de conocimientos
 
-### Capítulo I. Disposiciones generales
+### Capítulo único
 
 ###### Artículo 138.
 
@@ -2301,7 +2343,7 @@ Las atribuciones a que se refiere este artículo se ejercerán de conformidad co
 
 ## Título noveno. Educación impartida por particulares
 
-### Capítulo II. Mecanismos para el cumplimiento de los fines de la educación impartida por los particulares
+### Capítulo I. Disposiciones generales
 
 ###### Artículo 143.
 
@@ -2373,7 +2415,7 @@ VIII. Solicitar el refrendo del reconocimiento de validez oficial de estudios al
 
 IX. Dar aviso a la autoridad educativa competente del cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación.
 
-### Capítulo III. Recurso administrativo
+### Capítulo II. Mecanismos para el cumplimiento de los fines de la educación impartida por los particulares
 
 ###### Artículo 148.
 
@@ -2504,6 +2546,8 @@ A fin de que la autoridad que dictó la resolución adopte las medidas necesaria
 Ejecución de sanciones
 
 Las autoridades competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+
+### Capítulo III. Recurso administrativo
 
 ###### Artículo 156.
 
@@ -2640,3 +2684,27 @@ La autoridad educativa local deberá rendir un informe de los avances en la apli
 Artículo Tercero. Derogación tácita.
 
 Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto.
+
+D.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 631/2023 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE EDUCACIÓN INDÍGENA Y EDUCACIÓN INCLUSIVA”.]
+
+Artículo Primero. Entrada en vigor
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Cláusula derogatoria
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+D.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 634/2023 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE EDUCACIÓN FINANCIERA”.]
+
+Entrada en vigor
+
+Artículo primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
