@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-asentamientos-humanos-ordenamiento-territorial-y-124616"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-27"
-last_updated: "2022-11-25"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 27 de noviembre de 2017.
 
@@ -175,7 +175,9 @@ XXXVI. Fundación: la acción de establecer un nuevo Asentamiento Humano;
 
 XXXVII. Gestión Integral de Riesgos: el conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de Resiliencia o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
-XXXVIII. Imagen urbana: impresión visual que producen las características físicas, arquitectónicas, urbanísticas, del medio ambiente y socio-económicas de una localidad;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXXVIII. Imagen urbana: impresión visual que producen las características físicas, arquitectónicas, urbanísticas, infraestructura, del medio ambiente y socio-económicas de una localidad;
 
 XXXIX. Impacto a la movilidad: efecto producido por la modificación de los movimientos o flujos vehiculares y peatonales en la vialidad de una determinada zona causado por una construcción opuesta en operación de una nueva edificación o del desarrollo de un nuevo fraccionamiento o desarrollo inmobiliario;
 
@@ -294,6 +296,14 @@ XCV. Zonificación: la determinación de las áreas que integran y delimitan un 
 XCVI. Zonificación Primaria: la determinación de las áreas que integran y delimitan un Centro de Población; comprendiendo las Áreas Urbanizadas y Áreas Urbanizables, incluyendo las Reservas de Crecimiento, las áreas no urbanizables y las áreas naturales protegidas, así como la red de vialidades primarias; y
 
 XCVII. Zonificación Secundaria: la determinación de los Usos de suelo en un espacio edificable y no edificable, así como la definición de los Destinos específicos.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XCVIII. Cargas urbanísticas: Son las cuotas en especie o dinero derivadas de una acción urbanística que deben ser asumidas por los propietarios del suelo, prestadores de servicios urbanos, desarrolladores, gobiernos federal, estatal o municipal o de manera conjunta.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XCIX. Beneficios urbanísticos: Corresponden a los derechos de uso de suelo y aprovechamiento del suelo que genera la acción urbanística, así como los instrumentos de gestión del suelo urbano.
 
 ### Capitulo Segundo. Principios
 
@@ -493,9 +503,11 @@ XXX. Las demás que le atribuya esta Ley.
 
 ### Capítulo Tercero. Atribuciones de los Municipios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 11.
 
-Corresponde a los Municipios:
+Son facultades y obligaciones de los Municipios:
 
 I. Elaborar, aprobar, administrar y ejecutar los planes o programas municipales de desarrollo urbano, de centros de población, parciales y los demás que de éstos deriven, incluyendo la zonificación prevista en lo conducente, adoptando normas y criterios de congruencia, coordinación y ajuste con otros niveles superiores de planeación y las normas oficiales mexicanas que expida la Secretaría de Desarrollo Agrario, Territorial y Urbano del Gobierno Federal, así como aprobar los reglamentos y disposiciones de carácter general en materia de ordenamiento territorial, desarrollo urbano, zonificación, construcción, estacionamientos, así como vigilar su cumplimiento; tratándose de los planes o programas municipales antes citados, se deberá solicitar a la autoridad competente la dictaminación, análisis y calificación de la congruencia de dichos planes o programas con la planeación estatal, así mismo, posteriormente se deberá solicitar su inscripción en la Dirección del Registro Público de la Propiedad y del Comercio del Instituto Registral y Catastral del Estado y su publicación en el Periódico Oficial del Estado, y su incorporación en el sistema de información territorial y urbano a cargo de la Secretaría antes citada;
 
@@ -533,6 +545,12 @@ XVII. Participar en la integración y operación del Centro de Colaboración Geo
 
 XVIII. Aplicar criterios ambientales de conservación de áreas naturales y de prevención y control de la contaminación ambiental en los permisos, licencias o autorizaciones de las distintas acciones urbanas; en los términos de las Leyes ambientales respectivas;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XVIII. Bis. Coadyuvar con las autoridades competentes en la vigilancia relativa a que los concesionarios presten servicio de telecomunicaciones o similares que utilicen infraestructura como líneas, anclajes, cables, cajas, de control o cualquiera que por sus características requieran de cableado aéreo, retiren el cableado cuando este se encuentre en desuso, con el propósito de reducir la contaminación visual, cuidar la imagen urbana y evitar posibles accidentes a la ciudadanía.
+
+Para los efectos establecidos en el párrafo anterior, se observará lo dispuesto en el capítulo XII Bis de la Ley de Protección Civil para el Estado de Nuevo León.
+
 XIX. Promover la participación ciudadana y recibir las opiniones que manifieste la comunidad para la formulación, evaluación y revisión de los planes y programas municipales;
 
 XX. Ordenar, imponer y ejecutar las medidas cautelares y de seguridad y sanciones, así como aplicar las medidas y procedimientos coactivos previstos en esta Ley en el ámbito de su competencia;
@@ -553,11 +571,23 @@ XXVII. Promover el cumplimiento y la plena vigencia de los derechos relacionados
 
 XXVIII. Promover y ejecutar acciones para prevenir y mitigar el riesgo de los asentamientos humanos y aumentar la resiliencia de los mismos ante fenómenos naturales y antropogénicos;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXVIII. Bis. Coadyuvar con las autoridades competentes en la vigilancia relativa, la instalación y retiro de cableado en desuso por parte de las empresas que prestan servicios de telecomunicaciones y similares.
+
 XXIX. Promover acciones de participación ciudadana en el financiamiento en obras de desarrollo urbano;
 
 XXX. Participar en la planeación, delimitación y regulación de las Zonas Metropolitanas y Zonas Conurbadas de los cuales forme parte, en los términos de esta Ley; y
 
 XXXI. Las demás que le atribuya la Ley General de los Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, esta Ley y otros ordenamientos legales.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXXII. Propiciar la coordinación entre los distintos órdenes de gobierno, los particulares y la sociedad en el referido ordenamiento.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXXIII. Concesionar los derechos para la instalación, operación, ampliación y protección de la infraestructura municipal de telecomunicaciones.
 
 ### Capítulo Cuarto. Coordinación y concertación
 
@@ -4735,7 +4765,83 @@ Para una mejor accesibilidad y seguridad, la infraestructura para telecomunicaci
 
 El tendido de las redes de infraestructura será subterráneo y formará una red de uso común a los interesados en construir, habilitar, administrar, operar o arrendar estas redes, debiendo hacerse en una sola zanja o línea de conducción.
 
-La construcción de estas infraestructuras, podrá realizarse con inversión pública, privada o en forma conjunta. Cuando se realice por empresas privadas la contraprestación que reciban los Municipios, será cuando menos la cesión de un ducto de fibra para ser utilizado en gestión vial y de seguridad.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+La construcción de estas infraestructuras, podrá realizarse con inversión pública, privada o en forma conjunta. Cuando se realice por empresas privadas la contraprestación que reciban los Municipios, será cuando menos la cesión de un dueto de fibra para ser utilizado en gestión vial y de seguridad, si la inversión es pública, los municipios deberán acordar una contraprestación por su utilización.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 252 Bis.
+
+Para el caso de los tendidos de redes de cableado aéreo que utilicen la infraestructura municipal de alumbrado público, los municipios podrán imponer medidas de apremio necesarias para los concesionarios que no retiren el cableado que se encuentre en desuso previo dictamen y desahogo del procedimiento administrativo en términos del artículo 252 Bis 3.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 252 Bis 1.
+
+Se considera ordenamiento para la infraestructura de telecomunicaciones, a las disposiciones, procedimientos, trámites y requisitos necesarios para la construcción, instalación, mantenimiento o reparación, desmantelamiento, demolición o retiro, de infraestructura para la prestación de servicios de telecomunicaciones.
+
+Las regulaciones a que se refiere el párrafo anterior corresponden únicamente a infraestructura de torres, postes, duetos subterráneos y sus instalaciones eléctricas.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 252 Bis 2.
+
+El ordenamiento para la infraestructura, se implementará en áreas urbanizadas de los centros de población donde de conformidad con las normas municipales correspondientes se requieran llevar a cabo acciones de urbanización progresiva y/o renovación urbana. También, se deberá ejecutar en áreas urbanizables donde las normas municipales y metropolitanas correspondientes prevean la posibilidad de crecimiento urbano.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 252 Bis 3.
+
+El desmantelamiento, demolición o retiro, de infraestructura para la prestación de servicios de telecomunicaciones, y sus instalaciones eléctricas, se llevará a cabo conforme al Plan de Ordenamiento para la Infraestructura de Telecomunicaciones que al efecto desarrolle Protección Civil con la dependencia de gestión o su equivalente municipal o metropolitana, mediante el desahogo de un procedimiento administrativo en el que participen los concesionarios en materia de telecomunicaciones con interés jurídico y durante el cual sea valorada la importancia de la conectividad que brindan a la población los servicios públicos de interés general en materia de telecomunicaciones.
+
+Dicho procedimiento se llevará a cabo por la autoridad municipal del lugar de los hechos en términos de lo previsto en el artículo 77 Bis 4 de la Ley de Protección Civil para en (sic) Estado de Nuevo León.
+
+Dicho plan deberá contener, como mínimo:
+
+a). El diagnóstico del estado actual de la situación, donde se señalen las externalidades negativas del problema público y su impacto en la calidad de vida de los habitantes, tomando en consideración las necesidades de conectividad de la población;
+
+b). El polígono de actuación;
+
+c). El registro de propietarios y usuarios de la infraestructura y equipamiento de telecomunicaciones municipal y de particulares propietarios de infraestructura en términos de lo señalado en el artículo 252 Bis 1 anterior, así como los beneficiarios de la implementación del plan correspondiente;
+
+d). Matriz de Indicadores de Resultados;
+
+e). La determinación del esquema de cargas y beneficios urbanísticos necesarios;
+
+f). El plan de gestión social que incluya la participación o colaboración de los beneficiarios que les corresponda;
+
+g). La estrategia para fomentar la participación de las dependencias de los distintos órdenes de gobierno y particulares que prestan los servicios de telecomunicaciones mediante infraestructura o equipamiento colocado en el espacio público.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 252 Bis 4.
+
+En los planes de ordenamiento para la infraestructura y equipamiento de telecomunicaciones, podrán modificarse las estrategias de acción o intervención establecidas en el plan de desarrollo urbano correspondiente, siempre y cuando los análisis y estudios de cargas y beneficios urbanísticos sustenten la viabilidad del cambio, incluido la valoración relativa a los beneficios que proporciona la conectividad a la población.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 252 Bis 5.
+
+El Plan de Ordenamiento para la Infraestructura, será integrado por la dependencia de Ordenamiento del Territorio o su equivalente municipal o metropolitana en conjunto con Protección Civil, desahogando el procedimiento administrativo a que se refiere el artículo 252 Bis 3 anterior únicamente cuando dicho plan implique desmantelamiento, demolición o retiro de infraestructura para la prestación de servicios de telecomunicaciones y sus instalaciones eléctricas y presentado ante cabildo para su aprobación, modificación o rechazo.
+
+Aprobado dicho plan, se notificará a la dependencia de ordenamiento del territorio o su equivalente municipal o metropolitana, para que sea integrado en el próximo proceso de revisión y actualización del plan de desarrollo urbano correspondiente.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 252 Bis 6.
+
+No será necesaria la integración del Plan de Ordenamiento para la Infraestructura, cuando por motivos de seguridad, la dependencia de ordenamiento del territorio, con fundamento en el dictamen que le expida protección civil, determine que existe un riesgo en la integridad de los habitantes de la ciudad. No obstante lo anterior, aún en estos casos la autoridad debe considerar, preservar y salvaguardar la conectividad de los servicios públicos de telecomunicaciones.
+
+Se consideran como medidas de seguridad de acuerdo a la Ley de Protección Civil.
+
+Todos los gastos que erogue el Municipio para la aplicación de las medidas de seguridad, entre ellos los de retiro, traslado, almacenaje y conservación, deberán de ser cubiertos por quien resulte responsable que determine el dictamen derivado del procedimiento administrativo a que se refiere el artículo 252 Bis 3.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 252 Bis 7.
+
+Las condiciones urbanísticas, requisitos y procedimientos específicos para la implementación del plan de ordenamiento para la infraestructura de telecomunicaciones, se determinarán en la reglamentación municipal, metropolitana o norma en la técnica metropolitana correspondiente.
 
 ###### Artículo 253.
 
@@ -7602,3 +7708,15 @@ P.O. 25 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Gobierno del Estado y los Municipios tendrán un plazo de noventa días hábiles contados a partir de la vigencia del presente Decreto para adecuar sus Reglamentos.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 392. SE REFORMA EL INCISO H) DE LA FRACCIÓN V DEL ARTÍCULO 36, LAS FRACCIONES VII Y VIII DEL ARTÍCULO 84, SE ADICIONAN LAS FRACCIONES IV BIS Y IV BIS 1 AL ARTÍCULO 2 Y UN CAPÍTULO XII BIS DENOMINADO “DEL CONTROL, INSPECCIÓN Y VIGILANCIA DEL CABLEADO AÉREO” MISMO QUE CONTIENE LOS ARTÍCULOS 77 BIS, 77 BIS 1, 77 BIS 2, 77 BIS 3, 77 BIS 4, 77 BIS 5, 77 BIS 6, 77 BIS 7 Y 77 BIS 8, ASÍ COMO UNA FRACCIÓN IX AL ARTÍCULO 84, TODOS DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN XXXVIII DEL ARTÍCULO 3 Y EL TERCER PÁRRAFO DEL ARTÍCULO 252, SE ADICIONAN LAS FRACCIONES XCVIII Y XCIX AL ARTÍCULO 3, SE ADICIONAN LAS FRACCIONES XVIII BIS, XXVIII BIS, XXXII Y XXXIII AL ARTÍCULO 11, SE ADICIONAN LOS ARTÍCULOS 252 BIS, 252 BIS 1, 252 BIS 2, 252 BIS 3, 252 BIS 4, 252 BIS 5, 252 BIS 6 Y 252 BIS 7, TODOS DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DE NUEVO LEÓN; SE ADICIONA LA FRACCIÓN XV BIS AL ARTÍCULO 236 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO. Para el cumplimiento al presente Decreto, los concesionarios deberán implementar un plan de retiro de cableado aéreo en desuso, que deberán acordar con el ayuntamiento respectivo, dicho Plan deberá contener los lineamientos para realizar el retiro de cableado aéreo en desuso de manera progresiva en los 51 municipios del Estado de Nuevo León, esto dentro de un plazo máximo de 6 meses a la entrada en vigor del presente decreto.
+
+TERCERO. Los municipios dispondrán de un plazo de hasta 180 días posteriores a la entrada en vigor del presente decreto, para homologar su reglamentación con el fin de cumplir lo preceptuado por dicho decreto.
+
+CUARTO. Se deroga cualquier disposición en lo que se oponga al presente decreto.
