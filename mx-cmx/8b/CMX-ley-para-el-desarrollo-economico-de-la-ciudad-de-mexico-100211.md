@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-economico-de-la-ciudad-de-mexico-100211"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-10"
-last_updated: "2022-05-27"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100211&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,21 +20,27 @@ issue_date: "2014-04-08"
 ---
 # LEY PARA EL DESARROLLO ECONOMICO DE LA CIUDAD DE MEXICO --ANTES LEY PARA EL DESARROLLO ECONOMICO DEL DISTRITO FEDERAL--
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
+LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1935.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE JUNIO DE 2023.
 
-Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
+Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de abril de 2014.
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
+DECRETO POR EL QUE SE EXPIDE LA LEY PARA EL DESARROLLO ECONÓMICO DEL DISTRITO FEDERAL.
 
-EXPEDIDA POR EL XXVI CONGRESO CONSTITUCIONAL DEL MISMO, CON EL CARACTER DE CONSTITUYENTE.
+MIGUEL ÁNGEL MANCERA ESPINOSA, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
 
-DOMINGO ARRIETA, Gobernador Constitucional del Estado Libre y Soberano de Durango, a sus habitantes, sabed:
+Que la H. Asamblea Legislativo del Distrito Federal, VI Legislatura se ha servido dirigirme el siguiente
 
-Que la Legislatura del mismo ha tenido a bien dirigirme el siguiente decreto número 11:
+DECRETO
 
-El XXVI H. Congreso del Estado de Durango, con el carácter de Constituyente, a nombre del pueblo, decreta la siguiente Constitución Política del mismo Estado.
+ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+
+VI LEGISLATURA.
+
+DECRETA
+
+DECRETO POR EL QUE SE EXPIDE LA LEY PARA EL DESARROLLO ECONÓMICO DEL DISTRITO FEDERAL.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -44,73 +50,11 @@ Se expide la Ley para el Desarrollo Económico del Distrito Federal, para quedar
 
 LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO
 
-## TITULO II.
+## TÍTULO PRIMERO
 
-DE LOS DURANGUEÑOS.
+### CAPÍTULO ÚNICO. Disposiciones Generales
 
-### CAPITULO I (SIC).
-
-DE LAS GARANTIAS INDIVIDUALES.
-
-###### Artículo 1º.
-
-Los derechos del hombre son la base de toda institución social. Las leyes y las autoridades deben protegerlos con igualdad absoluta. Las leyes en el Estado de Durango son obligatorias desde su publicación, o desde la fecha en que la misma ley lo determine.
-
-###### Artículo 2º.
-
-En el Estado de Durango todo individuo gozará de las garantías que otorga la Constitución General de la República, las cuales no podrán restringirse ni suspenderse, sino en los casos y con las condiciones que ella misma establece.
-
-###### Artículo 3º.
-
-En el Estado de Durango todos son y nacen libres. Los esclavos del extranjero que entren a su territorio, recobrarán por este solo hecho su libertad y alcanzarán la protección de las leyes.
-
-###### Artículo 4º.
-
-La enseñanza es libre. La que se imparta en los establecimientos oficiales será laica, lo mismo que la enseñanza primaria, elemental y superior, que se imparta en los establecimientos particulares.
-
-Ninguna corporación religiosa, ni ministro de culto alguno podrá establecer ni dirigir escuelas de instrucción primaria.
-
-Las escuelas primarias particulares sólo podrán establecerse sujetándose a la vigilancia oficial.
-
-En los establecimientos oficiales se impartirá gratuitamente la enseñanza.
-
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1922)</small>
-
-###### Artículo 5º.
-
-A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la Ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo sino por resolución judicial.
-
-Se considera ilícito, y por lo tanto prohibido, el establecimiento de casas de juego, de suerte o de azar, ya sea que se admita en ellas libremente al público, ya sólo a personas abonadas o afiliadas.
-
-La ley que expida el Congreso del Estado determinará cuáles son las profesiones que necesitan título legal para su ejercicio y las condiciones que deben llenarse para obtenerlo, así como las autoridades que deban expedirlo.
-
-###### Artículo 6º.
-
-Nadie podrá ser obligado a prestar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la autoridad judicial, el cual se sujetará a lo dispuesto por las leyes. En cuanto a los servicios públicos, sólo podrán ser obligatorios, en los términos que establezcan las leyes respectivas, el de las armas, el de jurados, los cargos concejiles y los de elección popular, directa o indirecta; y obligatorias y gratuitas, las funciones electorales.
-
-Se prohiben los contratos, pactos o convenios que tengan por objeto el menoscabo, la pérdida o el irrebocable (sic) sacrificio de la libertad del hombre, ya sea por causa de trabajo, de educación o de voto religioso. En consecuencia la ley no permite el establecimiento de órdenes monásticas, cualquiera que sea la denominación u objeto con que pretendan erigirse.
-
-Tampoco puede admitirse convenio en que el hombre pacte su proscripción o destierro, o en que renuncie temporal o permanentemente a ejercer determinada profesión, industria o comercio.
-
-El contrato de trabajo sólo obligará a prestar el servicio convenido por el tiempo que fije la ley, sin poder exceder de un año en perjuicio del trabajador, y no podrá extenderse, en ningún caso, a la renuncia, pérdida o menoscabo de cualquiera de los derechos políticos o civiles.
-
-La falta de cumplimiento de dicho contrato, por lo que respecta al trabajador, sólo obligará a éste a la correspondiente responsabilidad civil, sin que en ningún caso, pueda hacerse coacción sobre su persona.
-
-###### Artículo 7º.
-
-La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público.
-
-###### Artículo 8º.
-
-Es inviolable la libertad de escribir y publicar escritos sobre cualquiera materia. Ninguna ley ni autoridad puede establecer la previa censura; ni exigir fianza a los autores o impresores; ni coartar la libertad de imprenta, que no tiene más límites que el respeto a la vida privada, a la moral y a la paz públicas. En ningún caso podrá secuestrarse la imprenta como instrumento del delito.
-
-Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que, so pretexto de las denuncias por delitos de prensa, sean encarcelados los expendedores, "papeleros," operarios y demás empleados del establecimiento donde haya salido el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquellos.
-
-###### Artículo 9º.
-
-Los funcionarios y empleados públicos respetarán el ejercicio del derecho de petición, siempre que éste se formule por escrito, de manera pacífica y respetuosa; pero en materia política, sólo podrán hacer uso de ese derecho los ciudadanos de la República y del Estado.
-
-A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer en breve término al peticionario.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 1.
 
@@ -158,7 +102,9 @@ XVII. Promover, a través de programas y esquemas especiales, la continua y prog
 
 XVIII. Promover una cultura de la empresa, como organización fundamental de la actividad económica que debe ser protegida y potenciada por las disposiciones de esta Ley;
 
-XIX. Promover la cultura del emprendimiento;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XIX. Promover la cultura del emprendimiento, a través de acciones institucionales para favorecer la apertura del mercado para la promoción y comercialización de productos, bienes y servicios en la Ciudad de México. Así como generar las oportunidades de negocio para los emprendedores y micro empresarios;
 
 XX. Promover el desarrollo de proyectos estratégicos para la Ciudad de México, a través del apoyo gubernamental que permita reducir los costos de la actividad económica;
 
@@ -168,7 +114,13 @@ XXII. Impulsar la constitución y funcionamiento de cooperativas de las personas
 
 XXIII. Coadyuvar en el fortalecimiento de la infraestructura logística, comercial, industrial y de servicios existente en la entidad, y
 
-XXIV. Estimular el comercio exterior con especial énfasis en el desarrollo de programas estratégicos que impulsen el desarrollo y promoción de la oferta exportable, así como el fortalecimiento de cadenas productivas, el desarrollo de proveedores y la captación de divisas.
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+XXIV. Estimular el comercio exterior con especial énfasis en el desarrollo de programas estratégicos que impulsen el desarrollo y promoción de la oferta exportable, así como el fortalecimiento de cadenas productivas, el desarrollo de proveedores y la captación de divisas; y
+
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
+
+XXV. Impulsar la promoción de la economía social y solidaria como una forma de producción, consumo y distribución de riqueza, centrada en la valorización del ser humano, contribuyendo al desarrollo socioeconómico de la ciudad, a la generación de fuentes de trabajo digno, a la equitativa distribución del ingreso y al fortalecimiento de la economía familiar.
 
 > <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
@@ -212,27 +164,37 @@ XII. Congreso: El Congreso de la Ciudad de México;
 
 XIII. Desarrollo Económico: La construcción de las condiciones para que la Ciudad de México pueda promover y sostener un tipo de crecimiento que realice el potencial y mejore la calidad de vida de todos sus habitantes;
 
-XIV. Estímulos: Los instrumentos jurídicos, administrativos, fiscales y financieros que se emiten para promover y facilitar el desarrollo de las actividades económicas sujetas a fomento;
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
 
-XV. Fomento: Acciones y políticas definidas e instrumentadas por las dependencias y entidades de la Administración Pública de la Ciudad de México, en el ámbito de sus respectivas competencias, con el objetivo de propiciar el desarrollo económico de la Ciudad de México;
+XIV. Economía social y solidaria: Tiene como objeto establecer mecanismos para fomentar el desarrollo, fortalecimiento y visibilidad de la actividad económica del Sector Social de la Economía, así como definir las reglas para la promoción, fomento y fortalecimiento del Sector Social de la Economía, como un sistema eficaz que contribuya al desarrollo social y económico.
 
-XVI. Industrias creativas: Aquéllas que comprenden los bienes y servicios derivados de actividades económicas con atributos culturales. Entre ellas, las relacionadas con las artes visuales, literatura y publicidad, diseño, animación digital y multimedia, música, gastronomía y todas aquellas en cuyo proceso de elaboración se incorporen expresiones artísticas o creativas;
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-XVII. Infraestructura Productiva: El conjunto de instalaciones materiales y capital humano destinados a la producción y distribución de bienes y servicios;
+XIV Bis. Emprendimiento: Acción de una persona física o moral para iniciar un proceso, para crear o transformar un proyecto de negocio en actividad productiva y empresarial, mediante de (sic) la creación o mejora de un producto o servicio, a partir de una propuesta innovadora, creativa o busque atender un problema específico.
 
-XVIII. Jefa o Jefe de Gobierno: La persona titular de la Jefatura de Gobierno de la Ciudad de México;
+XV. Estímulos: Los instrumentos jurídicos, administrativos, fiscales y financieros que se emiten para promover y facilitar el desarrollo de las actividades económicas sujetas a fomento;
 
-XIX. Ley: La Ley para el Desarrollo Económico de la Ciudad de México;
+XVI. Fomento: Acciones y políticas definidas e instrumentadas por las dependencias y entidades de la Administración Pública de la Ciudad de México, en el ámbito de sus respectivas competencias, con el objetivo de propiciar el desarrollo económico de la Ciudad de México;
 
-XX. Ley Orgánica: La Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
+XVII. Industrias creativas: Aquéllas que comprenden los bienes y servicios derivados de actividades económicas con atributos culturales. Entre ellas, las relacionadas con las artes visuales, literatura y publicidad, diseño, animación digital y multimedia, música, gastronomía y todas aquellas en cuyo proceso de elaboración se incorporen expresiones artísticas o creativas;
 
-XXI. Plan General de Desarrollo: El Plan General de Desarrollo de la Ciudad de México, y
+XVIII. Infraestructura Productiva: El conjunto de instalaciones materiales y capital humano destinados a la producción y distribución de bienes y servicios;
 
-XXII. Secretaría: La Secretaría de Desarrollo Económico de la Ciudad de México.
+XIX. Jefa o Jefe de Gobierno: La persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
-## TITULO III.
+XX. Ley: La Ley para el Desarrollo Económico de la Ciudad de México;
 
-DEL ESTADO Y SU FORMA DE GOBIERNO.
+XXI. Ley Orgánica: La Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+XXII. Plan General de Desarrollo: El Plan General de Desarrollo de la Ciudad de México; y
+
+XXIII. Secretaría: La Secretaría de Desarrollo Económico de la Ciudad de México.
+
+## TÍTULO SEGUNDO
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE JUNIO DE 2021)</small>
 
 ### CAPÍTULO I. De las Autoridades en materia de Desarrollo Económico de la Ciudad de México
 
@@ -310,7 +272,9 @@ VIII. Formular y proponer medidas de promoción e impulso para las actividades s
 
 IX. Generar estudios para la elaboración de diagnósticos, análisis de prospectiva y determinación de las Áreas de Desarrollo Económico (ADE);
 
-X. Impulsar políticas públicas mediante un registro que permita el desarrollo económico de los productores y prestadores de servicios de la Ciudad de México, que así lo requieran, bajo el concepto de Comercio Justo;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+X. Impulsar políticas públicas mediante un registro que permita el desarrollo económico de las personas productoras y prestadoras de servicios de la Ciudad de México, que así lo requieran, bajo el concepto de comercio justo, así como de economía social y solidaria;
 
 XI. Intervenir, en coordinación con las autoridades competentes en la elaboración e instrumentación de programas, políticas y proyectos de desarrollo inmobiliario; así como incentivar la inversión del sector privado, en acciones que aumenten el valor del patrimonio inmobiliario de la Ciudad de México;
 
@@ -328,7 +292,11 @@ XVII. Suscribir convenios de coordinación y colaboración con la Administració
 
 XVIII. Impulsar el fortalecimiento y la competitividad de las micro, pequeñas y medianas empresas para promover su integración y desarrollo dentro de los esquemas de vinculación y cadenas de proveeduría hacia los sectores del comercio, los servicios y la rama de la industria, y
 
-XIX. Las demás que sean necesarias para el cumplimiento del objeto y fines propuestos y establecidos en la Ley.
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
+
+XIX. Impulsar y fomentar programas de vinculación con el sector bancario y bursátil, para facilitar el acceso a servicios financieros, y
+
+XX. Las demás que sean necesarias para el cumplimiento del objeto y fines propuestos y establecidos en la Ley.
 
 En la promoción de las acciones comprendidas en las fracciones anteriores, que requieran de la utilización de recursos públicos para su instrumentación, la Secretaría acordará con la Secretaría de Finanzas la asignación de los recursos necesarios, atendiendo las previsiones, prioridades y la disponibilidad y suficiencia presupuestal de la Ciudad de México.
 
@@ -344,9 +312,11 @@ II. Generar en coordinación con la Secretaria de Desarrollo Económico de la Ci
 
 III. Impulsar los proyectos de desarrollo económico que propicien la creación y conservación del empleo, de acuerdo con los lineamientos establecidos en la presente Ley;
 
-IV. Impulsar ferias, exposiciones, congresos y eventos similares que promuevan el comercio justo de los productores y prestadores de servicios de su demarcación territorial.
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
 
-Para lo cual, se publicarán mediante un calendario específico las convocatorias para tal efecto, y se desarrollará un plan integral por Alcaldía que establezca los eventos anuales que se programarán y presupuestarán, para estar en posibilidad de organizar a los productores y prestadores de servicios de la Ciudad de México que así lo requieran, bajo el concepto de Comercio Justo;
+IV. Impulsar ferias, exposiciones, congresos y eventos similares que promuevan el comercio justo y la economía social y solidaria de las personas productoras y prestadoras de servicios de su demarcación territorial.
+
+Para lo cual, se publicarán mediante un calendario específico las convocatorias para tal efecto, y se desarrollará un plan integral por Alcaldía que establezca los eventos anuales que se programarán y presupuestarán, para estar en posibilidad de organizar a las personas productoras y prestadoras de servicios de la Ciudad de México que así lo requieran, bajo el concepto de Comercio Justo, así como de economía social y solidaria;
 
 V. Impulsar los proyectos de desarrollo económico que propicien la creación y conservación del empleo, de acuerdo con los lineamientos establecidos en la presente Ley;
 
@@ -372,17 +342,31 @@ La Comisión es un órgano de planeación, coordinación, apoyo, consulta y segu
 
 ###### Artículo 10.
 
-No se podrá coartar el derecho de asociarse o reunirse pacíficamente con cualquier abjeto (sic) lícito; pero solamente los ciudadanos de la República podrán hacerlo para tomar parte en los asuntos políticos del país y del Estado. Ninguna reunión armada tiene derecho de deliberar.
+La Comisión tendrá las atribuciones siguientes:
 
-No se considerará ilegal, y no podrá ser disuelta una asamblea o reunión que tenga por objeto hacer una petición o presentar una protesta por algún acto, a una autoridad, si no se profieren injurias contra ésta, ni se hiciere uso de violencias o amenazas para intimidarla u obligarla a resolver en el sentido que se desee.
+I. Ser una instancia de coordinación entre las Dependencias, Unidades Administrativas e instancias que la conforman en materia de planeación y ordenamiento del desarrollo económico;
+
+II. Analizar y proponer las acciones necesarias para la promoción del desarrollo económico, tomando en cuenta las propuestas presentadas por las Dependencias, Entidades y Órganos Desconcentrados del sector y los Órganos Político-Administrativos y las opiniones manifestadas por los grupos sociales;
+
+III. Promover y coordinar la colaboración de organismos públicos, privados, académicos y especialistas en la materia del desarrollo económico para el fomento y promoción de las actividades económicas en la Ciudad de México;
+
+IV. Coordinar las acciones a realizarse con el Consejo Económico, Social y Ambiental de la Ciudad de México, previsto y regulado por la Ley Orgánica del Consejo Económico, Social y Ambiental de la Ciudad de México en todas las acciones conducentes relacionadas con sus fines y objetivos;
+
+V. Proponer la realización de investigaciones que sustenten el diagnóstico, la instrumentación y evaluación de políticas y actividades de fomento para el desarrollo económico de la Ciudad de México, y
+
+VI. Las demás inherentes a su objeto que determine la persona Titular de la Jefatura de Gobierno.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 11.
 
-Los habitantes del Estado de Durango tienen libertad de poseer armas de cualquiera clase, para su seguridad y legítima defensa, hecha excepción de las prohibidas expresamente por la ley y de las que la Nación reserve para el uso exclusivo del Ejército Nacional, pero no podrán portarlas en las poblaciones sin sujetarse a los reglamentos de policía.
+La Comisión estará integrada por la persona Titular de la Jefatura de Gobierno, quien la presidirá; por la Secretaría, cuyo titular fungirá como presidente suplente; por un Secretario Técnico, mismo que será nombrado por el presidente suplente; por invitados permanentes quienes estarán integrados por un representante de cada una de las Dependencias y las Unidades Administrativas a que se refiere el artículo 4° de la presente Ley, así como por los demás miembros que determine la persona Titular de la Jefatura de Gobierno.
 
 ###### Artículo 12.
 
-Todo hombre tiene derecho para entrar en el Estado, salir de él, viajar por su territorio y mudar de residencia, sin necesidad de carta de seguridad, salvoconducto u otros requisitos semejantes. El ejercicio de este derecho estará subordinado a las facultades de la autoridad judicial en los casos de rosponsabilidad (sic) criminal o civil, y a las de la autoridad administrativa, por lo que toca a las limitaciones que impongan las leyes sobre salubridad y seguridad públicas en el Estado.
+El funcionamiento y operación de la Comisión se sujetará a lo dispuesto en la reglamentación que para tal efecto emita la Secretaría.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE JUNIO DE 2021)</small>
 
 ### CAPÍTULO IV. De los Comités de Fomento Económico de las Alcaldías
 
@@ -390,29 +374,51 @@ Todo hombre tiene derecho para entrar en el Estado, salir de él, viajar por su 
 
 ###### Artículo 13.
 
-Nadie puede ser juzgado por leyes privativas ni por tribunales especiales. Ninguna persona o corporación puede tener fuero, ni gozar más emolumentos que los que sean compensación de servicios públicos que estén fijados por la ley.
+Cada Alcaldía contará con un Comité de Fomento Económico para instrumentar su respectivo programa; estos Comités serán foros permanentes de participación de organizaciones productivas del sector privado y social y de la comunidad académica, con el objeto de promover el desarrollo económico, el empleo y nuevas inversiones productivas.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 14.
 
-A ninguna ley se dará efecto retroactivo en perjuicio de persona alguna. Nadie podrá ser privado de la vida, de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las leyes expedidas con autoridad (sic) al hecho. Este precepto no comprende la facultad que tiene la autoridad respectiva para expropiar por causa de utilidad pública conforme a la ley.
+Los Comités de Fomento Económico de las Alcaldías tendrán las siguientes facultades:
 
-En los juicios del orden criminal queda prohibido imponer, por simple analogía, y aún por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trate.
+I. Promover las acciones necesarias para la ejecución del Programa de Fomento y Desarrollo Económico de la Alcaldía; en colaboración con la Secretaria de Desarrollo Económico de la Ciudad de México, para el apoyo, asesoría y diseño de criterios y planes de política económica;
 
-En los juicios del orden criminal queda prohibido imponer por simple analogía, y aún por mayoría de razón, pena alguna que no esté decretada por una ley exactamente oplicable (sic) al delito de que se trate.
+II. Facilitar la realización de proyectos de inversión que se sometan a su consideración y que contribuyan al desarrollo económico, la protección y generación de empleos;
 
-En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra a la interpretación jurídico (sic) de la ley, y, y a falta de ésta se fundará en los principios generales del derecho.
+III. Impulsar y orientar los diversos proyectos económicos congruentes con las ventajas competitivas y vocación económica de cada demarcación territorial;
+
+IV. Coordinarse con las Dependencias y Entidades de la Administración Pública competentes para promover la capacitación y su vinculación con el mercado de trabajo;
+
+V. En coordinación con las Dependencias y Entidades de la Administración Pública competentes, realizar acciones con el fin de vincular la investigación y desarrollo científico y tecnológico de las instituciones de enseñanza técnica-media y superior e investigación con los proyectos de inversión productiva;
+
+VI. Promover, en igualdad de condiciones entre los agentes económicos, la utilización de la mano de obra local, así como el consumo de materia prima y bienes de consumo final que se produzcan en la demarcación territorial;
+
+VII. Difundir el Programa Anual de Adquisiciones, Arrendamientos y Prestación de Servicios de la Administración Pública y los de otras instancias de gobierno con que se cuente, a fin de promoverlos en las micro, pequeña y mediana empresas ubicadas en sus respectivas demarcaciones territoriales;
+
+VIII. Promover la generación de información económica propia de cada demarcación que apoye la toma de decisiones y que permita a los ciudadanos, el acceso inmediato a ésta, acorde con la Constitución y las Leyes aplicables en la materia;
+
+IX. Promover las acciones necesarias para la ejecución del Programa de Fomento y Desarrollo Económico de su demarcación en colaboración con la Secretaria de Desarrollo Económico de la Ciudad de México, para el apoyo, asesoría y diseño de criterios y planes de política económica, y
+
+X. Las demás que se desprendan de los ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 15.
 
-Nadie puede ser molestado en su persona, familia, domicilio, papeles y posesiones, sino en virtud de mandato escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. No podrá librarse ninguna orden de aprehensión o detención, sino por la autoridad judicial, sin que preceda denuncia, acusación o querella de un hecho determinado que la ley castigue con pena corporal, y sin que estén apolladas (sic) aquellas por declaración, bajo protesta, de persona digna de fe o por otros datos que hagan probable responsabilidad del inculpado, hecha excepción o de los casos de flagrante delito en que cualquiera persona puede aprehender al delincuente y a sus cómplices, poniéndolos sin demora a disposición de la autoridad inmediata. Solamente en casos urgentes, cuando no haya en el lugar ninguna autoridad judicial, y tratándose de delitos que se persiguen de oficio, podrá la autoridad administrativa, bajo su más estrecha responsabilidad, decretar la detención de un acusado, poniéndolo inmediatamente a disposición de la autoridad judicial. En toda orden de cateo, que sólo la autoridad judicial podrá expedir y será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas pue (sic) hayan de aprehenderse, y los objetos que se busquen; a lo que únicamente debe limitarse la diligencia, levantándola al concluirla una acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado en su ausencia o negativa, por la autoridad que practique la diligencia.
+Los Comités se integran de la siguiente manera:
 
-La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose en estos casos, a las leyes respectivas y a las formalidades prescritas para los cateos.
+I. La persona titular de la Alcaldía, como presidente;
 
-## TITULO IV.
+II. Un Vicepresidente o Vicepresidenta, con nivel de dirección u homólogo, designado por la persona Titular de la Secretaría;
 
-DEL PODER LEGISLATIVO.
+III. Un Secretario Técnico, designado por la Persona Titular de la Alcaldía;
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1926)</small>
+IV. La persona Concejal de la Alcaldía titular de la comisión dedicada a la materia, y
+
+V. Un representante de cada una de las organizaciones productivas; del medio ambiente; del sector privado y social; de la banca de desarrollo y comercial e intermediarios financieros no bancarios; de instituciones de investigación, así como representantes de educación técnica, media y superior, públicas y/o privadas; de Dependencias y Entidades del Gobierno Federal y otros sectores que sean propuestos por el Presidente del Comité.
+
+## TÍTULO TERCERO. De los Instrumentos y Estímulos para la Promoción y Fomento para el Desarrollo Económico
 
 ### CAPÍTULO ÚNICO. De los Instrumentos
 
@@ -420,47 +426,33 @@ DEL PODER LEGISLATIVO.
 
 ###### Artículo 16.
 
-Nadie puede ser detenido por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar sus derechos. Los Tribunales estarán expeditos para administrar justicia en los plazos y términos que fija la ley; su servicio será gratuito, quedando en consecuencia, prohibidas las costas judiciales.
+Los instrumentos para la promoción y fomento para el desarrollo económico, son los medios por los cuales se otorgarán los estímulos que contribuyan al crecimiento económico equilibrado, sustentable, sostenido y a la generación de empleos formales.
+
+El objeto de los instrumentos será impulsar las actividades sujetas a desarrollo, entre los que estarán: una política de protección salarial y trabajo digno, una hacienda pública sustentable, ordenada, equitativa y redistributiva y la constitución de fondos para proyectos destinados al equilibrio territorial y los proyectos que se determinen como prioritarios, así como impulsar nuevas inversiones y empleos productivos.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 17.
 
-Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El lugar de ésta será distinto y estará completamente separado del que se destinare para la extinción de las penas.
+Los instrumentos podrán ser de mejora regulatoria, financieros, fiscales, de promoción económica, de infraestructura, para la investigación, desarrollo tecnológico y de capacitación, de conformidad con lo siguiente:
 
-Se expenderá una ley que organice y reglamente el sistima (sic) penal que regenere al delincuente, sobre la base del trabajo.
+I. Los instrumentos de mejora regulatoria facilitarán, agilizarán y reducirán los trámites, los requisitos y los plazos para el establecimiento y operación de empresas;
 
-## TITULO V.
+II. Los instrumentos financieros facilitarán el acceso al financiamiento en coordinación con instituciones financieras nacionales y extranjeras, así como organismos gubernamentales creados para esos fines;
 
-DE LA DIPUTACION PERMANENTE.
+III. Los instrumentos fiscales otorgarán beneficios a la capacidad contributiva de las empresas de conformidad con el Código Fiscal de la Ciudad de México, la Ley de Ingresos de la Ciudad de México y el Presupuesto de Egresos de la Ciudad de México;
 
-###### Artículo 68.
+IV. Los instrumentos de promoción económica orientarán a las empresas en materia de oferta y demanda de bienes y servicios en mercados nacionales e internacionales;
 
-La Diputación permanente se compondrá de tres Diputados propietarios y dos suplentes. En la víspera de la clausura de cualquiera de los períodos de sesiones será nombrada por la Legislatura, instilándose (sic) al día siguiente.
+V. Los instrumentos de infraestructura promoverán el uso de medios técnicos, servicios e instalaciones necesarias para la operación de las actividades sujetas a desarrollo; incluidas las instalaciones subterráneas, cuyas licencias son emitidas por las Alcaldías;
 
-###### Artículo 69.
+VI. Los instrumentos para la investigación y desarrollo tecnológico impulsarán el acceso a investigaciones e innovaciones tecnológicas, y
 
-Sus facultades son:
+VII. Los instrumentos de capacitación mejorarán los conocimientos y habilidades de los agentes económicos.
 
-I. Llevar la correspondencia con los Poderes de la Federación y de los Estados, en todos aquellos asuntos que correspondan al conocimiento de la Legislatura.
+Las políticas y programas económicos se diseñarán, ejecutarán y evaluarán de acuerdo a los indicadores y criterios que definan el Instituto de Planeación Democrática y Prospectiva y el Consejo de Evaluación de la Ciudad de México, en el ámbito de sus respectivas competencias.
 
-II. Ejercer las funciones electorales, que, por esta Constitución y las leyes reglamentarias, sean de la incumbencia del cuerpo legislativo.
-
-III. Recibir la protesta al Gobernador, Magistrados, Jueces de Primera Instancia y defensores de Oficio, en los casos prescriptos (sic) por esta Constitución.
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-IV. Conceder licencias hasta por tres tres (sic) meses al Gobernador del Estado y a los Magistrados del Supremo Tribunal de Justicia.
-
-V. Acordar por sí o excitada por el Ejecutivo, la reunión de la Legislatura a sesiones extraordinarias.
-
-VI. Convocar a la Legislatura cuando sea necesario para ejercer sus funciones fuera de la capital.
-
-VII. Dictar sus acuerdos en todos los casos que lo dispusieren la Constitución y las leyes.
-
-VIII. Abrir dictamen cuando los negocios de la competencia de la Legislatura, dando cuenta en el período inmediato de sesiones.
-
-IX. Velar sobre la observancia de esta Constitución dando cuanta (sic) a la Legislatura de las infracciones que notare.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1926)</small>
+## TÍTULO CUARTO. De los Programas
 
 ### CAPÍTULO ÚNICO. Del Programa Sectorial
 
@@ -468,205 +460,125 @@ IX. Velar sobre la observancia de esta Constitución dando cuanta (sic) a la Leg
 
 ###### Artículo 18.
 
-Ninguna detención podrá exceder del término de tres días, sin que se justifique con auto de formal prisión, en el que se expresará: el delito que se impute al acusado, los elementos que constituyan aquél, lugar, tiempo y circunstancias de ejecución y los datos que arroje la averiguación previa, los que deben ser bastantes para comprobar el cuerpo del delito y hacer probable la responsabilidad del acusado. La infracción de esta disposición hace responsable a la autoridad que ordene la detención o la consienta, y a los agentes, ministros, alcaides o carceleros que la ejecuten.
+Los programas sectoriales son los documentos que desagregan en objetivos y metas de mediano plazo los lineamientos contenidos en el Plan General Desarrollo y que regirán las actividades del sector administrativo que corresponda. Deberán tomar en cuenta las previsiones contenidas en los programas de las Alcaldías para el establecimiento de objetivos y metas en el ámbito territorial de aplicación. Su vigencia será de seis años y su revisión, y en su caso, modificación o actualización, deberá realizarse por lo menos cada tres años.
 
-Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de acusación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+Para el cumplimiento de los objetivos y metas del Programa Sectorial, la Secretaría coordinará:
 
-Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
+I. Programas Institucionales, que están orientados a inducir la modernización e integración de las cadenas productivas y distributivas mediante instrumentos y acciones específicas. Estos programas incluirán los de fomento industrial; abasto y distribución; aprovechamiento territorial, y de fomento del sector servicios, entre otros;
+
+II. Programas Especiales, que involucren a más de una Dependencia o Alcaldía, aquellos orientados a materias específicas o a grupos sociales que por su problemática requieran de un tratamiento específico. Estos comprenderán, entre otros, los siguientes: desregulación y simplificación administrativa; fomento a la micro, mediana y pequeña empresa, así como a la empresa familiar; de fomento a las empresas sociales; de fomento a las exportaciones y la industria maquiladora; de infraestructura productiva; así como aquellos determinadas (sic) por las áreas de gestión estratégica en el suelo urbano y de conservación en congruencia con la Ley del Sistema de Planeación del Desarrollo de la Ciudad de México, la Ley de Desarrollo Urbano del Distrito Federal, la Ley Ambiental de Protección a la Tierra en el Distrito Federal y los programas de desarrollo urbano del Distrito Federal, además de procurar posicionar a las industrias creativas en la Ciudad de México;
+
+III. Programas estratégicos, que atenderán las necesidades específicas de un sector, rama o industria en la Ciudad, con la finalidad de propiciar la innovación tecnológica en los procesos de desarrollo económico para obtener una productividad más elevada o una transformación organizativa de la o las empresas en cuestión. Los programas estratégicos se concebirán como los instrumentos de planeación e intervención para modernización productiva de los establecimientos y empresas asentadas en la Capital;
+
+IV. Programas para las Áreas de Desarrollo Económico (ADE), mismos que precisarán los estímulos, los incentivos y el conjunto de acciones gubernamentales a desplegarse en un área geográfica bien delimitada y que se desprenderán directamente de la información y los estudios presentados por la Secretaría. En todos los casos, estos programas se elaborarán y aplicarán en coordinación con las Dependencias de la Administración Pública de la Ciudad de México y las Alcaldías, en el ámbito de sus respectivas competencias;
+
+V. Programas de las Alcaldías, los programas que destacan las vocaciones económicas regionales, mediante los cuales se expresen prioridades y acciones ligadas a los instrumentos de planeación correspondientes, de conformidad con lo establecido en la Ley del Sistema de Planeación del Desarrollo de la Ciudad de México, y
+
+VI. Que la política económica observará, atenderá y respetará de manera invariable las libertades fundamentales y los derechos de los ciudadanos; tales como el derecho a la propiedad, el derecho al trabajo, el derecho al empleo y el bienestar de las personas.
+
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+Asimismo, la Secretaría promoverá el establecimiento de un Plan de Acción con las 16 Alcaldías de la Ciudad de México, a fin de difundir los programas y acciones, tanto institucionales e interinstitucionales, como de la sociedad civil, así como de los sectores académico y empresarial, a fin de incentivar las actividades de las personas emprendedoras, grupos de emprendedores y micro empresas.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 19.
 
-En todo juicio del orden criminal, tendrá el acusado las siguientes garantías:
+Para la instrumentación de los programas señalados en el artículo anterior, en los términos de la normatividad legal aplicable, la Secretaría propondrá la participación que corresponda a las Dependencias y Entidades de la Administración Pública y la debida coordinación y/o colaboración, cuando así se requiera, con los Gobiernos Federal, Estatal, Municipal y las Alcaldías, así como la concertación de las acciones que se consideren convenientes con los sectores social y privado en la ejecución de los programas.
 
-I.- Inmediatamente que lo solicite será puesto en libertad bajo de fianza hasta de diez mil pesos, según sus circunstancias personales y la gravedad del delito que se le impute; siempre que dicho delito no merezca ser castigado con una pena mayor de cinco años de prisión, y sin más requisito que poner la suma de dinero respectiva a disposición de la autoridad, u otorgar caución hipotecaria o personal y bastante para segurarla (sic).
-
-II. No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incumunicación (sic) o cualquier otro medio que tienda aquel objeto.
-
-III. Se le hará saber en audiencia pública, y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su acusador, y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria.
-
-IV. Será careado con los testigos que pongan en su contra, los que declaran en su presencia si estubieren (sic) en el lugar del juicio, para que pueda hacerles todas las preguntas conducentes a su defensa.
-
-V. Se le recibirán testigos y demás pruebas que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto, y auxiliándosele para obtener la comparecencia de las personas cuyos testimonios solicite, siempre que se encuentren en el lugar del proceso.
-
-VI. Será juzgado en audiencia pública por un juez letrado, o en el sustituto legal, cuando el delito porque se le procesa deba ser castigado con una pena mayor de un año de prisión. Si la pena es menor de un año será juzgado por un juez municipal o correccional. Los delitos cometidos por medio de la prensa contra el orden público, será juzgado por un jurado.
-
-VII. Le serán facultados todos los datos que solicite para su defensa y que consten en el proceso.
-
-VIII. Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena máxima excediera de ese tiempo.
-
-IX. Se le oirá en defensa por si o por personas de su confianza, o por ambos según su voluutad (sic).
-
-En caso de no tener quien lo defienda, se le presentará lista de los defensores de oficio para que elija el que, o los que le convengan. Si el acusado no quiere nombrar defensores después de ser requerido para hacerlo al rendir su declaración preparatoria el juez le nombrara uno de oficio. El acusado podrá nombrar defensor desde el momento en que sea aprehendido, y tendrá derecho a que éste se halle presente en todos los actos del juicio; pero tendrá obligación de hacerlo comparecer cuantas veces se necesite.
-
-X. En ningún caso podrá prolongarse la prisión o detención por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, ni por causa de responsabilidad civil o algún otro motivo análogo.
-
-Tampoco podrá prolongarse la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motivare el proceso.
-
-En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 20.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la policía judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa el castigo de las infracciones de los reglamentos gubernativos y de policía, el cual únicamente consistirá en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+La Administración Pública, mediante el apoyo a las actividades productivas, se orientará a promover el empleo permanente y a disminuir la movilidad de los habitantes de las diversas zonas a efecto de elevar el nivel y calidad de vida de los habitantes de la Ciudad de México.
 
-Si el infractor fuese jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal o sueldo en una semana.
+## TÍTULO QUINTO. De las Directrices para el Fomento y Promoción del Desarrollo Económico
 
-## TITULO VI.
-
-DEL PODER EJECUTIVO.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
-
-###### Artículo 70.
-
-El Ejercicio del Poder Ejecutivo se depositará en una sola persona que se denominará Gobernador del Estado, siendo su duración de cuatro años, y en ningún caso y por ningún motivo podrá volver a ocupar ese cargo ni aun con el carácter de interino, Provisional, Substituto o Encargado del Despacho. El Gobernador entrará a ejercer sus funciones el 16 de septiembre.
-
-Nunca podrá ser electo para el período inmediato:
-
-a). El Gobernador Substituto Constitucional designado para concluir el período en caso de falta absoluta del Constitucional, en el caso del artículo 80 de esta Constitución.
-
-b). El Gobernador Provisional en los casos de los artículos 72 y 74 de esta Constitución.
-
-c). El Gobernador Interino, siempre que desempeñe el cargo en los dos últimos años del período.
-
-###### Artículo 71.
-
-Para ser Gobernador del Estado se requiere:
-
-I. Ser ciudadano durangueño por nacimiento; de 30 años cumplidos; en pleno ejercicio de sus derechos civiles y políticos, y tener dos años de residencia en el Estado en el momento de elección, salvo el caso de ausencia por servicios públicos, dentro o fuera de la República, encomendado por el Estado o la Federación. En tal evento, la duración de dichos servicios será tomada en cuenta para integrar los dos años de residencia.
-
-II. No pertenecer al Estado eclesiástico, ni ser ministro de culto alguno; saber leer y escribir.
-
-III. No estar, al celebrarse las elecciones, en funciones de Gobernador, como sustituto, por falta temporal o absoluta del Gobernador Constitucional.
-
-IV. No ser Militar en servicio activo desde un año antes de la elección.
-
-V. No ser Secretario General del Despacho, Procurador de Justicia, Magistrado Propietario ó Supernumerario en funciones, ni empleado de la Federación, salvo que han dejado el cargo desde los noventa días anteriores al de la elección.
-
-VI. No tener comparentesco (sic) de consanguinidad en los cuatro primeros grados, ni de afinidad en los dos primeros, con el Gobernador saliente.
-
-VII. No haber sido condenado por delito que amerite pena corporal, por más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, u otro delito que lastime seriamente la buena fama en el concepto público, inhabilitará para el pago, cualquiera que haya sido la pena.
-
-###### Artículo 72.
-
-La elección de Gobernador será directa y en los términos que disponga la ley electoral. La Legislatura declarará que es Gobernador del mismo, el ciudadano que hubiere reunido la mayoría absoluta de votos, previa la computación de éstos, hecha por la referida Legislatura. Cuando tuvieron igual número de votos, dos o más ciudaddanos (sic), la Legislatura decidirá quién de éstos sea el Gobernador. En caso de que no hubiere mayoría absoluta de votos, la Legislatura elegirá uno de entre tres de los ciudadanos que hubieren obtenido la más alta mayoría relativas de sufragios. Igualmente la Legislatura se erigirá en Colegio Electoral para designar Gobernador Provicional (sic), cuando por falta absoluta del Gobernador contitucional (sic) dentro del primer año de su período, fuere necesario convocar a elecciones y éstas no se pueden verificar por trastornos graves del orden público en la mayor parte del Estado. Pero si el orden público quedare restablecido antes de finalizar dicho primer año, se decretará por la Legislatura la convocatoria a elecciones; de lo contrario, la Legislatura, erigida de nuevo en Colegio Electoral, deberá el Gobernador que deba terminar el período canstitucional (sic), no pudiendo ser el ya nombrado como provisional.
-
-###### Artículo 73.
-
-El Gobernador constitucional propietario otorgará la protesta de ley ante la Legislatura del Estado.
-
-###### Artículo 74.
-
-Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviera hecha y declarada el mes de septiembre, cesará sin embargo el Gobernador cuyo período haya terminado, y se encargará desde luego del Poder Ejecutivo en calidad de Gobernador provisional el que designe la nueva Legislatura electa. Y cuando con respecto a esta, se verifiquen las condiciones enumeradas antes, la Legislatura anterior, o en su caso la Diputación Permanente, hará el nombramiento de Gobernador Provicional (sic).
-
-###### Artículo 75.
-
-El Gobernador no podrá salir del Estado sin permiso de la Legislatura o de la Diputación Permanente.
-
-###### Artículo 76.
-
-El cargo de Gobernador sólo es renunciable por causas justificadas que le calificará desde luego la Legislatura, si está en período de sesiones ordinarias, o sesiones extraordinarias a que deberá convocar la Diputación Permanente, en caso de hallarse en receso.
-
-###### Artículo 77.
-
-Las faltas temporales del Gobernador nunca podrán ser de un año seguido; y las causas graves que podrán ser de un año seguido; y las causas graves que pudieran justificarlas, se considerarán suficientes por la Legislatura del Estado, para proceder a elección de nuevo Gobernador, conforme a lo dispuesto en el artículo 74.
-
-###### Artículo 78.
-
-Las faltas temporales del Gobernador nunca podrán ser de un año seguido; y las causas graves que pudieran justigcarlas (sic), se considerarán suficientes por la Legislatura del Estado, para proceder a elección de nuevo Gobernador, conforme a lo dispuesto en el artículo 74.
-
-###### Artículo 79.
-
-Las licencias correlativas a las faltas temporales de que antes se ha hecho mención, no serán concedidas sino por causa justificada, que será calificada par (sic) la Legislatura, o Diputación Permanente.
-
-###### Artículo 80.
-
-Las faltas absolutas del Gobernador, por muerte o renuncia, se cubrirán por nueva elección popular, si la falta ocurriere dentro del primer rño (sic) en su elección, la Legislatura, erigida en Colegio Electoral, nombrará el substituto que debe terminar el período constitucional.
-
-###### Artículo 81.
-
-Son facultades y obligaciones del Gobernador:
-
-I.- Publicar, cumplir y hacer cumplir las leyes generales, en todo aquello que no mire al régimen interior del Estado, y que por consecuencia, no menoscabe su Soberanía reconocida por la Carta Fundamental de la República.
-
-II.- Promulgar y ejecutar las leyes que expida la Legislatura del Estado, reglamentando su observancia en la esfera administrativa.
-
-III.- Proveer a la Administración interior del Estado y cuidar de la conservación del órden público.
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-IV.- Nombrar y remover libremente al Secretario del Despacho y a todos los demás empleados de la dependencia del Poder Ejecutivo; concederles licencias con o sin goce de sueldo y admitir sus renuncias. Corregir las faltas que cometan en el desempeño de su empleo con suspensión hasta por un mes y consignarlos cuando incurran en delito.
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-V.- Nombrar al Director General de Rentas del Estado, con aprobación de la Legislatura y removerlo libremente, cuando así lo exija el servicio público. Nombrar al Procurador de Justicia, Agentes del Ministerio Público, Jueces del Registro Civil, Director del Archivo General de Notarías, Director y Encargado del Registro Público de la Propiedad, Defensores de Oficio y a los respectivos empleados subalternos. Concederles licencias y aceptarles renuncias, pudiendo removerlos también libremente, con excepción de los Defensores que sólo podrán serlo al concluir su período legal o por causa de responsabilidad.
-
-VI.- Excitar a los Tribunales a la más pronta y cumplida administración de justicia.
-
-VII.- Visitar previo aviso a la Legislatura, a los Pueblos del Estado, durante su período, para remediar sus necesidades que advirtiere en el orden administrativo; dar cuenta con el resultado de las visitas a la Legislatura y proponer al Congreso las medidas legislativas que juzgare necesarias.
-
-VIII.- Hacer observaciones dentro del término de diez días a las leyes que expidiere la Legislatura.
-
-IX - Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones.
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1933)</small>
-
-X.- Presentar el mismo día de la apertura del primer período de sesiones del Congreso, una memoria del estado de la Administración Pública.
-
-XI.- Convocar a la Legislatura a sesiones extraordinarias, por sí y cuando lo acordare la Diputación permanente.
-
-XII.- Presentar al Congreso, dentro de los quince días del primer período de sesiones, los Presupuestos de Ingresos y Egresos del Estado y los Municipios durante el año anterior.
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-XIII.- Conocer de las quejas que se interpongan contra los Ayuntamientos o Presidentes Municipales. Resolver los conflictos que se susciten en los Ayuntamientos y que no sean de los que, conforme a la Ley Municipal respectiva, corresponde conocer a la Legislatura.
-
-XIV.- Celebrar convenios sobre limites con los Estados vecinos sometiéndolos a la deliberación de la Legislatura.
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-XV.- Nombrar, con aprobación de la Legislatura, a los Jueces Superiores de las Fuerzas del Estado, y sin este requisito nombrar y remover libremente la Oficialidad de éstas.
-
-Nombrar y remover libremente a los Jefes y Oficiales de la Policía Urbana del lugar donde tengan asiento los Poderes del Estado y transitoriamente a aquellos mientras en cualquier Municipalidad se encuentre accidentalmente el Ejecutivo.
-
-XVI.- EI Ejecutivo no puede hacer observaciones a la Legislatura cuando ejerza funciones de Colegio Electoral o de Jurado, ni a las resoluciones que se dicten en tales casos.
-
-XVII.- No puede el Gobernador mandar en persona las fuerzas del Estado sin licencia de la Legislatura o de la Diputación Permanente; pero sí puede disponer de ellas, dentro del territorio del Estado con el exclusivo objeto de mantener el orden interior constitucional del mismo Estado.
-
-XVIII.- Tendrá todas las demás atribuciones y obligaciones que le asignen las leyes.
-
-DEL SECRETARIO DEL DESPACHO.
-
-###### Artículo 82.
-
-Para el despacho de los negocios del orden administrativo del Estado, habrá un solo Secretario, necesitándose para el desempeño de este cargo, ser ciudadano durangueño por nacimiento, en el ejercicio pleno de sus derechos políticos y civiles, tener 30 años de edad, y dos de residencia en el Estado al tiempo de su nombramiento. Todos los reglamentos, decretos y órdenes del Gobierno deberán autorizarse por el Secretario, y sin este requisito no serán obedecidos.
-
-###### Articulo 83.
-
-El Secretario del Despacho no podrá desempeñar ningún otro empleo o comisión públicos, del Estado o de la Federación, ni ejercer profesión alguna. No podrá ser militar salvo que haya dejado el servicio activo un año antes de su nombramiento.
-
-El Secretario de Gobierno es el órgano de comunicación oficial entre el Gobernador y las autoridades y empleados inferiores del Estado y los particulares y llevará la voz del Ejecutivo ante el Congreso del Estado. Cuando el Gobernador se halle fuera de la Capital del Estado, dentro de su territorio, el Secretario del Despacho hará sus veces en todos los asuntos de urgencia y que por la distancia a que el Gobernador se encuentre, no pudieran resolverse con la prontitud debida.
-
-Las faltas temporales del Secretario de Gobierno serán llenadas por el Oficial Mayor, que tendrá el carácter de Subsecretario con las atribuciones y deberes que le señala la ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 21.
 
-Quedan prohibidas las penas de mutilación y de infamia, la marca, los azotes, los palos, el tormento de cualquiera especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales.
+Las Dependencias, Entidades de la Administración Pública, así como las Alcaldías, en el ámbito de sus respectivas competencias, propiciarán el desarrollo y la consolidación de los agentes económicos y de personas emprendedoras, grupos de emprendedores y micro empresas para la apertura del mercado local a la promoción y comercialización de productos, bienes y servicios, por medio de las siguientes directrices:
 
-No se considerará como confiscación de bienes la aplicación total o parcial de los bienes de una persona, hecha por la autoridad judicial, para el pago de la responsabilidad civil resultante de la comisión de un delito, o para el pago de impuestos o multas.
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
-Queda también prohibida la pena de muerte por delitos políticos, y en cuanto a los demás, sólo podrá imponerse al traidor a la Patria en guerra extranjera, al parricida, al homicida con alevosía, premeditación y ventaja, al incendiario, al plagiario y al salteador de caminos.
+I. Desarrollo sustentable;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+II. Mejora regulatoria para la promoción y fomento del desarrollo económico;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+III. Aprovechamiento territorial en materia económica;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+IV. Inversión;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+V. Fortalecimiento de las micro, pequeñas y medianas empresas;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+VI. Promoción del empleo productivo;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+VII. Desarrollo e innovación en ciencia y tecnológica; (sic)
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+VIII. Impulso a la infraestructura y creación de bienes de uso público; incluidas las instalaciones subterráneas, cuyas licencias son emitidas por las Alcaldías;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+IX. Integración de actividades productivas;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+X. Determinación de las Áreas de Desarrollo Económico (ADE);
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+XI. Promoción de la cultura del emprendimiento;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+XII. Simplificación de procedimientos y trámites de apertura y funcionamiento de unidades económicas de bajo impacto, mismas que preferentemente serán a través de plataformas digitales, y
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
+XIII. Fomento a la confianza ciudadana de conformidad con la Ley Federal en la materia y otros ordenamientos aplicables.
 
 ### CAPÍTULO I. Del Desarrollo Sustentable
 
 ###### Artículo 22.
 
-Ningún juicio criminal deberá tener más de tres instancias. Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en juicio se le absuelva o se le condene. Queda prohibida la práctica de absolver de la instancia.
+La Secretaría tendrá una visión de largo plazo, proveerá y difundirá la más amplia información económica y normativa en la Ciudad con el fin de crear un ambiente de certidumbre jurídico e institucional propicio para las inversiones modernas basadas en tecnologías de economía sustentable.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 23.
 
-Todo hombre es libre para profesar la creencia religiosa que más le agrade, y para practicar las ceremonias, devociones o actos del culto respectivo, en los templos o en su domicilio particular, siempre que no constituyan un delito o falta penados por la ley.
+La Secretaría se coordinará con las Dependencias y Entidades que resulten competentes con el fin de generar estrategias económicas que mantengan el desarrollo continuo y sostenible de la economía, generando herramientas para alcanzar un desarrollo sustentable, equilibrado, incluyente y equitativo, que considere:
 
-Todo acto religioso de culto público deberá celebrarse precisamente dentro de los templos, los cuales estarán siempre bajo la vigilincia (sic) de la autoridad.
+I. Que la política económica tendrá como enfoque la generación de riqueza y el desarrollo económico en zonas con mayores necesidades sociales y de empleo;
+
+II. Que procure una mejor redistribución de la riqueza, especialmente para el crecimiento del ingreso y el mejoramiento del poder adquisitivo de los habitantes de la Ciudad de México;
+
+III. Que las decisiones económicas y la política económica deberán instrumentarse en un marco de transparencia a partir de la producción, disponibilidad y publicidad de información cierta y actualizada y accesible al público;
+
+IV. Que la política económica observará, atenderá y respetará de manera invariable las libertades fundamentales y los derechos de los ciudadanos; tales como el derecho a la propiedad, el derecho al trabajo, el derecho al empleo y el bienestar de las personas;
+
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+V. Que la política económica promueva una red de comercio justo, así como la economía social y solidaria de las personas productoras y prestadoras de servicios que así lo requieran;
+
+VI. El impulso y desarrollo de la economía social y solidaria, y
+
+VII. El estímulo, acompañamiento y mejora regulatoria para emprendimientos, cooperativas y otras formas de producción de la economía social.
 
 ### CAPÍTULO II. De la Mejora Regulatoria para el Fomento y Promoción del Desarrollo Económico
 
@@ -674,15 +586,29 @@ Todo acto religioso de culto público deberá celebrarse precisamente dentro de 
 
 ###### Artículo 24.
 
-La correspoudencia (sic) que bajo cubierta circule por las estafetas, estará libre de todo registro, y su violación será penada por la ley.
+La mejora regulatoria para el fomento y promoción del desarrollo económico tiene por objeto facilitar, agilizar y reducir los trámites, los requisitos y los plazos para impulsar el desarrollo económico de la Ciudad, para lograrlo, la Secretaría se coordinará con las Dependencias y Entidades de la Administración Pública, en el ámbito de sus respectivas competencias, así como con los Agentes Económicos.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 25.
 
-En tiempo de paz, ningún miembro del ejército podrá alojarse en casa particular contra la voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en los términos que establezca la ley marcial correspondiente.
+La mejora regulatoria para el fomento y promoción del desarrollo económico deberá considerar los siguientes criterios:
+
+I. Asegurar que la apertura, funcionamiento y desarrollo de las empresas se lleve a cabo en un marco que establezca condiciones de certeza jurídica;
+
+II. Promover esquemas que permitan una mayor participación de los sectores productivos, sobre todo en las Áreas de Desarrollo Económico (ADE) de la Ciudad de México;
+
+III. Asegurar que las actividades sujetas a desarrollo tengan una respuesta rápida y que los procedimientos administrativos y la autorización de funcionamiento se otorgue en plazos y condiciones que les permitan competir en igualdad de condiciones respecto a sus competidores;
+
+IV. Agilizar y reducir trámites para el establecimiento y operación de las empresas, y
+
+V. El desarrollo y establecimiento de mecanismos para la formalización continua y progresiva a través de una política que incentive la formalidad.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 26.
 
-Los pueblos, rancherías y comunidades que carezcan de tierras y aguas, o no las tengan en cantidad suficiente para las necesidades de su población, tendrán derecho a que se les dote de ellas tomándolas de las propiedades inmediatas, respetando siempre la pequeña propiedad, previa expropiación por causa de utilidad pública.
+Las Dependencias, Entidades de la Administración Pública, así como las Alcaldías, en el ámbito de sus respectivas competencias, promoverán la asistencia técnica regulatoria y resolución expedita de problemas de regulación que tengan los Agentes Económicos, con el propósito de que operen con oportunidad y en condiciones competitivas.
 
 ### CAPÍTULO III. Del Aprovechamiento Territorial en Materia Económica
 
@@ -690,47 +616,27 @@ Los pueblos, rancherías y comunidades que carezcan de tierras y aguas, o no las
 
 ###### Artículo 27.
 
-Son durangueños:
+Para impulsar el desarrollo económico, el Gobierno de la Ciudad de México fomentará el aprovechamiento eficiente y sustentable de los recursos de su territorio, sin poner en riesgo el patrimonio ambiental y cultural, así como la calidad de vida de los habitantes de las zonas urbanas y rurales de la Ciudad de México.
 
-I. Los nacidos dentro o fuera del Estado de padres durangueños por nacimiento.
+La Secretaría establecerá los mecanismos de coordinación con las Dependencias y Entidades de la Administración Pública que resulten competentes en la promoción del aprovechamiento de los recursos de la Ciudad de México, para generar desarrollo económico.
 
-II. Los mexicanos que permanezcan en el Estado por dos años y tengan un modo honesto de vivir.
+En coordinación con el Instituto de Planeación Democrática y Prospectiva de la Ciudad de México, promoverá el establecimiento de clústers productivos, preferentemente en las regiones menos explotadas de la Ciudad a fin de democratizar las zonas y promover una mejor distribución de la oferta de trabajo.
 
-III. Los mismos, por el sólo hecho de adquirir bienes raíces en el Estado y manifestar a la autoridad voluntad de vivir en su territorio.
-
-IV. Los extranjeros naturalizados según las leyes generales, que se hallaren en uno de los dos casos que preceden.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 28.
 
-Son ciudadanos durangueños los mencionados en el artículo que antecede, siempre que tengan dieciocho años cumplidos siendo casados y veintiuno si no lo son y un modo honesto de vivir.
+La Secretaría, con la intervención que corresponda a otras Dependencias y Entidades de la Administración Pública, desarrollará programas, políticas y acciones para impulsar el valor del patrimonio inmobiliario de la Ciudad de México, definiendo su mejor aprovechamiento para lograr beneficio social y económico para la Ciudad, en los términos de la normatividad aplicable.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 29.
 
-Son obligaciones del durangueño:
-
-I. Hacer que sus hijos o pupilos menores de quince años concurran a las escuelas públicas o privadas, para obtener la educación primaria elemental y militar, durante el tiempo que marca la ley de instrucción pública del Estado.
-
-II. Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar, que los mantenga aptos en el ejercicio de los derechos de ciudadanos, diestros en el manejo de las armas, y conocedores de la disciplina militar.
-
-III. Alistarse y servir en la guardia nacional para asegurar y defender el territorio, el honor, los derechos e intereses de la Nación.
-
-IV. Contribuir para los gastos públicos de la Federación, así como del Estado y Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes.
+La Secretaría podrá proponer a la Comisión del Ordenamiento Territorial de la Ciudad de México, programas de regularización territorial con el objeto de obtener el mejor aprovechamiento y generar desarrollo económico sustentable.
 
 ###### Artículo 30.
 
-Son prerrogativas del ciudadano durangueño:
-
-I. Votar en las elecciones.
-
-II. Poder ser votado para todos los cargos de elección popular, y nombrado para cualquier otro empleo o comisión, teniendo los requisitos que establezca la ley.
-
-III. Tomar las armas en el ejército o guardia nacional para asegurar y defender el territorio, el honor, los derechos e intereses del Estado y de la Nación.
-
-IV. Asociarse para tratar los asuntos políticos del Estado.
-
-V. Ejercer en toda clase de negocios el derecho de petición.
-
-VI. Ser preferido a los extranjeros, y aún a los mexicanos que no sean ciudadanos durangueños, en igualdad de circunstancias, para toda clase de concesiones, y para todos los empleos, cargos o comisiones del Gobierno en que no sea indispensable la calidad de ciudadano durangueño.
+La Secretaría propondrá proyectos de aprovechamiento urbano para disminuir los tiempos de traslado de las personas hacia sus centros de trabajo, brindando actividades y oportunidades de desarrollo integral.
 
 ### CAPÍTULO IV. De la Inversión
 
@@ -738,147 +644,225 @@ VI. Ser preferido a los extranjeros, y aún a los mexicanos que no sean ciudadan
 
 ###### Artículo 31.
 
-Son obligaciones del ciudadano durangueño:
+La Secretaría diseñará, con la participación de las Dependencias y Entidades de la Administración Pública, así como de las Alcaldías competentes, la política de inversión que implementará el Gobierno de la Ciudad de México, encaminada a la generación de nuevos empleos, expansión empresarial existente y atracción de inversión nacional o extranjera directa, en las Áreas de Desarrollo Económico (ADE), las Áreas de Gestión Estratégica (AGE) y Actividades Sujetas a Desarrollo.
 
-I. Inscribirse en el Catastro de la Municipalidad, manifestando la propiedad que el mismo ciudadano tenga, la industría, profesión o trabajo de que subsista así como tambtén (sic) inscribirse en los padrones electorales en los términos que determinen las leyes.
+La política de inversión en la Ciudad de México, tendrá como ejes estratégicos:
 
-II. Alistarse en la guardia nacional.
+I. La mejora de la infraestructura física y material de la Ciudad, como elemento indispensable para la marcha de la empresa y el trabajo y para la continua disminución de los costos globales de la economía local;
 
-III. Votar en las elecciones populares en el Distrito Electoral que le corresponda.
+II. Atraer inversiones nacionales y extranjeras;
 
-IV. Desempeñar los cargos de elección popular de la Federación o del Estado, que en ningún caso serán gratuitos.
+III. Desarrollar esquemas de asociación empresarial para mejorar la competitividad, principalmente de las micro, pequeñas y medianas empresas;
 
-V. Desempeñar los cargos concejiles del Municipio donde resida, las funciones electorales y las de jurado.
+IV. Desarrollar incentivos para facilitar y mejorar las condiciones de la inversión en la Ciudad;
+
+V. Fortalecer el capital humano y cultural de la Ciudad;
+
+VI. Fomentar una promoción focalizada en sectores de mayor productividad;
+
+VII. Promover la participación de los Agentes Económicos en coordinación con la Administración Pública para impulsar proyectos que impacten en el desarrollo económico de la Ciudad;
+
+VIII. Promover y proponer proyectos de coinversión entre Agentes Económicos en materia de desarrollo económico, e
+
+IX. Impulsar clústers productivos en coordinación con el Instituto de Planeación Democrática y Prospectiva de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 32.
 
-Los derechos del ciudadano durangueño se suspenden:
+Además de lo dispuesto por las leyes fiscales federales y locales vigentes, así como por los tratados internacionales firmados por México, la Secretaría en coordinación con las autoridades fiscales, podrá proponer el otorgamiento de incentivos a la inversión nacional y extranjera para la creación de una nueva empresa o para incrementar la capacidad de operación de una ya existente en la Ciudad con el fin de crear nuevas fuentes de empleo, así como para promover la creación e incorporación a la formalidad de micro, pequeñas, medianas empresas y cooperativas.
 
-I. Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones que impone el artículo treinta y uno; en tal caso la suspensión durará un año.
-
-II. Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión.
-
-III. Durante la extinción de una pena corporal.
-
-IV. Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes.
-
-V. Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal.
-
-VI. Por sentencia ejecutoriada que imponga como pena esa suspensión.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 33.
 
-Los derechos del ciudadano durangueño se pierden:
+Los incentivos que se otorguen podrán consistir en:
 
-I. Por naturalización en país extranjero.
+I. Capacitación y desarrollo de habilidades técnicas y gerenciales de la empresa;
 
-II. Por servir oficialmente al gobierno de otro país, o admitir de él condecoraciones, títulos o funciones, sin previa licencia del Congreso Federal, exceptuando los títulos literarios, científicos y humanitarios, que pueden aceptarse libremente.
+II. Reducciones fiscales especiales por sector, actividad o región estratégica, así como la implementación de tecnologías que permitan un uso más racional de los recursos naturales, previa coordinación con las autoridades fiscales;
 
-III. Por comprometerse en cualquiera forma ante ministro de algún culto o ante cualquiera otra persona, a no observar la presente Constitución o las leyes que de ella emanen.
+III. Inversión pública directa a Proyectos de Inversión de alto impacto en la generación de empleos;
 
-La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos del ciudadano, y la manera de hacer la rehabilitación.
+IV. Financiamiento público directo o indirecto a empresas o proyectos de inversión estratégicos;
+
+V. Aportación del Gobierno de la Ciudad de México para la creación, instalación o mejoramiento de servicios públicos;
+
+VI. Mejora regulatoria y ordenamiento normativo;
+
+VII. Fomentar el otorgamiento en donación, venta condicionada, permuta, arrendamiento, comodato, fideicomiso o cualquier otra figura jurídica reconocida por la normatividad vigente, a través de las Dependencias o Entidades competentes, de bienes inmuebles con vocación industrial o acorde al giro del proyecto, y condicionado al aprovechamiento en la ejecución del proyecto de inversión en Áreas de Gestión Estratégica (AGE), considerando en todo momento la vocación económica de la zona, las capacidades potenciales y la integración de las micro, pequeñas y medianas empresas locales;
+
+VIII. Apoyos para establecer vínculos con proveedores potenciales de acuerdo al sector industrial del que se trate, e
+
+IX. Inversión en infraestructura y desarrollo de bienes públicos que favorezca la instalación y desarrollo del proyecto de inversión o empresa en una zona estratégica o Área de Desarrollo Económico (ADE).
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 34.
 
-Para recobrar éste derecho es necesaria la rehabilitación de la Legislatura o en su receso de la Diputación permanente, menos en el caso en que los procesados obtuvieren sentencia absolutoria.
+Todos los incentivos antes mencionados estarán sujetos a la disponibilidad y suficiencia presupuestal del Gobierno de la Ciudad de México.
 
 ###### Artículo 35.
 
-El Estado de Durango es libre y soberano; y en su régimen de gobierno no reconoce más restricciones que las prescritas en la Constitución General de la República, a cuya observancia está obligado como entidad Federativa de la Nación.
+Los incentivos para la inversión contemplados en la presente Ley no serán aplicables a aquellas empresas ya establecidas, que mediante un acto de simulación aparezcan como nueva empresa para gozar de dichos beneficios, o por cualquier otro y se fincará la responsabilidad jurídica pertinente por dicho acto.
 
 ###### Artículo 36.
 
-El Estado de Durango reconoce y adopta en su régimen interior la forma de gobierno republicano, representativo y popular.
+La Secretaría someterá a la consideración y en su caso aprobación de la Comisión los incentivos a los que se refiere el presente capítulo.
+
+La Secretaría se coordinará de manera permanente con las entidades, dependencias y delegaciones a efecto de brindar la protección requerida dentro de sus atribuciones a los proyectos de inversión que se presenten y a los puestos en marcha.
+
+La Secretaría dispondrá de un área especializada que entre otros servicios ofrezca asesoría especializada en materia de infraestructura, financiamientos crediticios, aspectos fiscales, técnicos y jurídicos, así como información económica.
+
+Asimismo, la Secretaría habilitará un sitio electrónico accesible para difundir todas las inversiones que así lo decidan y que estén en curso dentro de la Ciudad de México, de modo que sean públicos sus avances, sus trámites cumplidos, sus trámites faltantes y los beneficios previstos por esos proyectos.
 
 ### CAPÍTULO V. Del Fortalecimiento de las Micro, Pequeñas y Medianas Empresas
 
 ###### Artículo 37.
 
-La soberanía del Estado reside esencial y originariamente en el pueblo y la ejerce por medio de sus legítimos representantes, en los términos establecidos en esta Constitución. Todo poder público dimana del pueblo y se constituye para su beneficio. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar esta Constitución, así como las demás leyes que reglamenten la Administración Pública.
+Se dará atención prioritaria a las micro, pequeña y mediana empresa en general y por sectores o ramas de la actividad económica, con la finalidad de que utilicen óptima y eficientemente su capacidad instalada, el uso intensivo de mano de obra con menor inversión y desarrollen su capacidad de adaptación a los cambios tecnológicos en los términos de los ordenamientos legales vigentes.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 38.
 
-El pueblo ejerce su soberanía por medio de los Poderes Legislativo, Ejecutivo y Judicial.
+La Secretaría propiciará la creación, el desarrollo y expansión de las micro, pequeñas y medianas empresas, principalmente de aquellas que pertenecen a los sectores estratégicos de la economía de la Ciudad de México por medio de las siguientes acciones:
 
-La potestad de hacer las leyes reside en la Legislatura; la de hacerlas ejecutar en el Gobierno o Ejecutivo, y la de aplicarlas en los Tribunales establecidos por la ley.
+I. Impulsar su integración a cadenas de valor que les permita alcanzar economías de escala en condiciones de eficiencia y productividad;
 
-No podrá depositarse el Poder Legislativo en una sola persona, ni unirse dos o más de estos poderes en un individuo o corporación, salvo el caso de facultades extraordinarias al Ejecutivo, conforme a lo dispuesto por esta Constitución.
+II. Promover su integración a los programas de conservación de empleo, protección de la planta productiva y de sustitución de importaciones; así como a las compras y necesidades del sector público con objeto de vincularlas al mercado interno;
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1923)</small>
+III. Difundir información sobre avances tecnológicos, oportunidades de comercialización y facilidades de financiamiento, que les permita fortalecer y aumentar sus ventajas competitivas;
+
+IV. Vincular sus necesidades con la oferta de tecnología adecuada;
+
+V. Promover la mayor participación de estas empresas en exportaciones directas e indirectas, con el objeto de hacer del comercio exterior un instrumento de desarrollo orientado a fortalecer y elevar la competitividad de la planta productiva local;
+
+VI. Promover ante las instituciones competentes la facilitación y simplificación de los mecanismos de apoyo y financiamiento competitivo para estas empresas, principalmente para las que cuenten con potencial exportador o que exportan directa o indirectamente al producir partes y componentes de bienes exportables;
+
+VII. Promover programas o esquemas de financiamiento diferenciado por tamaño de empresa, pertenencia a un sector estratégico o actividad económica, ubicación en un Área de Desarrollo Económico (ADE) o Área de Gestión Estratégica (AGE) o generación de empleos;
+
+VIII. Fomentar la implementación de esquemas de administración de riesgos financieros y contingentes para la micro, pequeña y mediana empresa, a través de la creación de Fondos de garantía y programas de aseguramiento que protejan la inversión patrimonial;
+
+IX. Promover y facilitar la localización y el establecimiento de estas empresas y de las sociedades cooperativas en las Áreas de Desarrollo Económico (ADE) o en las Áreas de Gestión Estratégica (AGE) y su participación en proyectos de reciclamiento del suelo, de acuerdo con los programas de desarrollo urbano;
+
+X. Promover instancias de atención especializada, con el objeto de proporcionarles servicios de consultoría, asesoría e información para la localización de mercados y oportunidades específicas de exportación o de coinversiones;
+
+XI. Promover los incentivos fiscales para la inversión, establecidos en el Código Fiscal de la Ciudad de México;
+
+XII. Promover e inducir la inversión en equipamiento productivo y tecnológico nacional o extranjero y en general la vinculación con los mercados interno y externo que les permita mejorar su competitividad;
+
+XIII. Diseñar, implementar y/o promover programas o esquemas de financiamiento adecuados, asequibles, oportunos y suficientes que les permita capitalizarse y expandirse;
+
+XIV. Diseñar, implementar y fomentar esquemas de administración de riesgos financieros y contingentes para la micro, pequeña y mediana empresa, que permita generar una cultura de aseguramiento y protección de la inversión y su incorporación al sistema financiero;
+
+XV. Apoyar la actividad del emprendedor a través de la atención especializada en servicios de consultoría, asesoría e información que coadyuve en la toma de decisiones para la instalación de nuevas empresas, identificación de oportunidades de inversión o una mayor participación en el mercado interno y/o externo;
+
+XVI. Promover los incentivos fiscales en coordinación con las autoridades fiscales que corresponda, para fomentar la inversión, en apego a lo establecido en el Código Fiscal de la Ciudad de México, y
+
+XVII. Las demás que se contemplan en las Leyes aplicables en la materia.
 
 ###### Artículo 39.
 
-El Territorio del Estado tiene la extensión y límites que demarque la Ley de División Territorial respectiva. Se establece como base para la organización política y administrativa del interior del Estado, el Municipio Libre.
+Para que las micro, pequeñas y medianas empresas eleven su rentabilidad, el aprovechamiento de sus recursos e incrementen el empleo, se promoverán instrumentos y mecanismos de fomento y otros apoyos financieros, mediante la coordinación y concertación con las instituciones competentes para la reconversión productiva, la capitalización, investigación y desarrollo tecnológico.
 
 ### CAPÍTULO VI. De la Promoción del Empleo Productivo para el Fomento y Promoción del Desarrollo Económico
 
 ###### Artículo 40.
 
-El Congreso del Estado determinará por ley especial que llevará el nombre de "Ley de Municipios del Estado," los estatutos económicos y administrativos a que deben sujetarse los Municipios en su régimen interior, y los cuales podrá el mismo Congreso alterar o modificar cuando el bien de la administración pública general o de los mismos Municipios lo hiciere necesario. Tanto en la Ley de Municipios, como en sus alteraciones o modificaciones en su caso, se atenderá siempre a mantener la unidad de gobierno, que necesariamente exige la Administración Pública General del Estado, en relación con el grado de libertad interior administrativa que les señala la Constitución Federal de la República. En consecuencia, los Municipios, sin infringir las leyes federales o del Estado, y sin excederse de sus presupuestos respectivos, tienen derecho de atender libremente, de la manera que juzguen más eficaz, todos los ramos de la Administración Pública interior de los mismos Municipios.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
+La Secretaría de Trabajo y Fomento al Empleo y la Secretaría se coordinarán, en el ámbito de sus respectivas competencias, para fomentar el empleo impulsando de manera permanente la capacitación y los programas de incremento a la productividad, promoviendo la participación de los sectores social, privado y la comunidad académica.
 
 ###### Artículo 41.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Ejecutivo del Estado, que será su superior jerárquico.
+La promoción de la capacitación productiva tendrá por objeto crear las condiciones que favorezcan la participación eficiente de los recursos humanos en las actividades económicas, con el fin de mejorar su competitividad y elevar el nivel de empleo.
 
-Para ser Munícipe se requiere ser ciudadano mexicano en ejercicio de sus derechos; saber leer y escribir y tener residencia efectiva dentro del territorio del correspondiente Municipio, inmediata al día de la elección, cuando menos de dos años si no es nativo del Estado.
-
-No podrán ser electos:
-
-I.- Los ministros de culto alguno.
-
-II.- Los que hayan sido condenados por cualquier delito, excepto los de culpa, a más de un año de prisión; pero si hubieren sido condenados por robo, fraude, falsificación, abuso de confianza y en general cualquier otro delito que lastime seriamente la buena fama en el concepto público, quedarán inhabilitados para el cargo, cualquiera que haya sido la pena.
-
-III.- Los funcionarios y los empleados públicos del Estado, del Municipio o de la Federación, si no se separan de sus cargos, cuando menos tres meses antes del día de la elección.
-
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente, no podrán ser reelectos para el período inmediato. Los miembros de la Junta Provisional de que habla el artículo 49 de esta Constitución, no podrán ser electos para el período inmediato. Todos los funcionarios municipales antes mencionados, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato con el carácter de propietarios, a menos que hayan estado en ejercicio.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 42.
 
-Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales.
+La Secretaría de Trabajo y Fomento al Empleo y la Secretaría, promoverán la capacitación, mediante convenios interinstitucionales, procurando:
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
+I. La vinculación de las necesidades del aparato productivo con la oferta de los diferentes programas de capacitación de las organizaciones empresariales, sociales y de la comunidad académica, para aprovechar las innovaciones tecnológicas y procedimientos técnicos que eleven su competitividad;
+
+II. La orientación de grupos específicos de la población, que por sus características y necesidades lo requieran, a programas especiales que mejoren su perfil productivo, en particular para jóvenes, mujeres y personas de la tercera edad, para los núcleos de pueblos y barrios originarios y comunidades indígenas residentes, así como afrodescendientes en la Ciudad de México y para las personas discapacitadas, con el fin de garantizar la igualdad de oportunidades en el empleo, y
+
+III. La promoción de acciones para la especialización de los recursos humanos en actividades económicas.
 
 ###### Artículo 43.
 
-Los Ayuntamientos se renovarán totalmente cada dos años, en los términos que disponga la ley.
+La Secretaría de Trabajo y Fomento al Empleo y la Secretaría, en el ámbito de sus respectivas competencias, promoverán el fortalecimiento de la capacitación en los oficios productivos, con el propósito de:
+
+I. Vincular la oferta de los programas de capacitación con las necesidades del mercado;
+
+II. Mejorar la calificación, las oportunidades de empleo y el ingreso de las personas capacitadas;
+
+III. Generar nuevas fuentes de empleo; y
+
+IV. Revalorar socialmente a los trabajadores en la Ciudad de México.
 
 ###### Artículo 44.
 
-La Hacienda de los Municipios se formará de las contribuciones que señale la Legislatura del Estado, siendo en todo caso suficientes para atender a sus necesidades.
+Con el objeto de incorporar a las oportunidades de empleo y capacitación a los sectores más desprotegidos y desvinculados del mercado formal, se impulsará la modernización, ampliación y seguimiento eficientes de los programas de la administración pública relacionados con el empleo.
 
 ### CAPÍTULO VII. Del Desarrollo en Ciencia, Tecnología e Innovación para el Fomento y Promoción del Desarrollo Económico
 
 ###### Artículo 45.
 
-Los Ayuntamientos someterán a la aprobación de la Legislatura, por conducto del Ejecutivo, los Presupuestos de Egresos e Ingresos Municipales, así como sus cuentas anuales.
+Las Dependencias y Entidades de la Administración Pública, en el ámbito de sus respectivas competencias, promoverán el desarrollo y la modernización tecnológica de las empresas, buscando una mayor incorporación y difusión del progreso técnico en las mismas que se traduzca en una mayor productividad, eficiencia y competitividad, a efecto de conseguir los siguientes objetivos:
+
+I. Beneficiar en forma equilibrada a los diferentes factores de la producción;
+
+II. Generar economías de exportación y de escala;
+
+III. Incrementar las potencialidades creativas en la producción, distribución y el comercio de bienes y servicios;
+
+IV. Fomentar y promover el uso y desarrollo de tecnologías limpias y renovables; y
+
+V. Promover la integración de la planta productiva.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 46.
 
-Los Ayuntamientos no podrán contratar empréstitos. Tampoco podrán enajenar, hipotecar o gravar de cualquiera otra manera los bienes raíces del Municipio sin sujetarse a las disposiciones respectivas de la Ley Municipal.
+La Secretaría de Educación, Ciencia, Tecnología e Innovación y la Secretaría, en el ámbito de sus respectivas competencias, promoverán el impulso de las siguientes acciones para la promoción y fomento del desarrollo económico de la Ciudad de México:
+
+I. Propiciar la coordinación con centros de investigación científica y técnica, con los colegios de profesionistas y con instituciones de educación técnica, media y superior, mediante convenios que se establezcan a efecto de conseguir una estrecha vinculación de éstos con el sector productivo y de servicios;
+
+II. Estimular el desarrollo de mecanismos para la integración entre los sectores de bienes de consumo, de bienes de producción y de investigación científica y técnica;
+
+III. Promover la difusión de la información relativa a los insumos y maquinaria producidos localmente y que no son ofrecidos en forma adecuada, para los efectos de la integración productiva;
+
+IV. Propiciar proyectos de investigación locales y regionales que promuevan la cooperación entre empresas, universidades, colegios de profesionistas y organismos públicos, para fortalecer la base científica y tecnológica de la Ciudad de México;
+
+V. Promover una estrecha vinculación entre la investigación y los centros de normalización ubicados en la Ciudad, con el fin de fortalecer la posición competitiva de las empresas e impulsar su oferta exportable;
+
+VI. Estimular la innovación tecnológica para incrementar la capacidad de las empresas para invertir, tanto en equipos como en conocimientos tecnológicos y formación profesional, y
+
+VII. Orientar la oferta educativa técnica y superior para que sea acorde a la demanda laboral de la Ciudad, siguiendo las recomendaciones que a tal efecto emita el Instituto de Planeación Democrática y Prospectiva de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 47.
 
-El Ejecutivo Federal y el Gobierno del Estado, tendrán el mando de las fuerzas de policía municipal y de las del Estado, en donde radicaren dichos funcionarios habitual o transitoriamente.
+La Secretaría de Educación, Ciencia, Tecnología e Innovación en coordinación con la Secretaría, promoverán la cooperación interinstitucional entre empresas, colegios de profesionistas y comunidad académica, para impulsar una tecnología competitiva y el fortalecimiento de la infraestructura científico-tecnológica de la Ciudad de México en congruencia con lo establecido por el Plan Nacional de Desarrollo y el Plan General de Desarrollo de la Ciudad de México.
 
-Las fuerzas de policía municipales auxiliarán a las fuerzas del Estado y recíprocamente todas las veces que esta unidad de acción sea necesaria.
-
-En caso de graves trastornos del orden público, el Gobernador del Estado, por sí con aprobación de la Legislatura, o mediante delegados que lo representen, podrá hacerse cargo de las fuerzas de policía municipales hasta que el peligro desaparezca.
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2022)</small>
 
 ###### Artículo 47 Bis.
 
-La Secretaría de Educación, Ciencia, Tecnología e Innovación en conjunto con la Secretaría, implementarán las acciones necesarias para el correcto fortalecimiento a los comercios de barrio a través del uso y aplicación de herramientas tecnológicas, de gestión y capacitación, en el ámbito de sus competencias y con el objetivo de que éstas obtengan las condiciones de competitividad en el mercado.
+La Secretaría de Educación, Ciencia, Tecnología e Innovación en coordinación con la Secretaría del Trabajo y Fomento al Empleo, implementarán las acciones necesarias para el fortalecimiento al comercio popular, al trabajo no asalariado y a los comercios de barrio a través del uso y aplicación de herramientas tecnológicas, de gestión, capacitación y tecnología financiera en el ámbito de sus competencias y con el objetivo de que éstas obtengan las condiciones de competitividad en el mercado y de inclusión financiera.
 
 > <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 48.
 
-Los Ayuntamientos podrán solicitar del Gobierno del Estado, cada vez que lo juzgue necesario, el aumento del número de escuelas primarias y secundarias en las Municipalidades respectivas.
+La Secretaría contribuirá con las Dependencias y Entidades de la Administración Pública, así como con las Alcaldías, en la promoción de mecanismos de difusión y de divulgación para fortalecer una cultura científica y tecnológica que revalore la importancia de la innovación tecnológica en la competitividad de los sectores productivos.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 49.
 
-En caso de falta absoluta del Ayuntamiento de una Municipalidad, el Ejecutivo nombrará provisionalmente una Junta de vecinos del Municipio, la cual regirá hasta que se convoque a elecciones, o termine el período, si faltan menos de cuatro meses para su conclusión.
+La Secretaría contribuirá con las Dependencias y Entidades de la Administración Pública, así como con las Alcaldías, para la vinculación entre el uso racional de los recursos naturales y la protección del medio ambiente y la innovación tecnológica en los diversos sectores y ramas productivos de la Ciudad, particularmente los que presentan altos consumos de agua, energía y emisiones contaminantes.
 
 ### CAPÍTULO VIII. Del Impulso a la Infraestructura y Creación de Bienes de Uso Público para el Fomento y Promoción del Desarrollo Económico
 
@@ -886,29 +870,39 @@ En caso de falta absoluta del Ayuntamiento de una Municipalidad, el Ejecutivo no
 
 ###### Artículo 50.
 
-El Presidente Municipal será electo por los regidores, de entre ellos mismos, y será el ejecutor de las resoluciones que le sean encomendadas en comisión especial.
+Las Dependencias y Entidades de la Administración Pública de la Ciudad de México, en el ámbito de sus respectivas competencias promoverán, en concertación con los sectores económicos, la creación, desarrollo y mejoramiento de infraestructura o bienes de uso público, mediante la inversión pública, privada y social, así como la utilización de los productos y servicios derivados de los programas que tenga a su cargo la Secretaría, para facilitar la distribución y comercialización de bienes y servicios, acercar a la oferta la demanda de bienes y servicios y estimular nuevas inversiones en la generación y uso racional de agua y energía, vías de comunicación y medios de transporte, bodegas, sistemas de cuartos fríos, parques industriales, clúster tecnológicos, equipamiento de servicios relacionados a las actividades productivas, entre otros.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 51.
 
-En el Estado de Durango es facultad de la Legislatura del mismo erigir en pueblos libres y sujetos en su organización interior a la Ley respectiva, todas las poblaciones que como centros industriales, mineros o agrícolas existan o puedan existir en lo sucesivo en su territorio, y cuyo número de habitantes no sea menor de quinientos, conforme al censo general del Estado, practicado en 1910, en tanto no se haga nuevo censo general del Estado o especial de alguno o algunos de los centros referidos; pero bastará como mínimum para el mismo fin el número de 200 habitantes, si las poblaciones de que se trata, por su situación topográfica respecto de las regiones y lugares que las rodean, por estar situadas cerca o sobre las principales vías de comunicación, y por las demás circunstancias favorables, pudieran estar llamadas a ser grandes centros de actividad en el Estado.
+Las acciones para fomentar la infraestructura y bienes de uso público atenderán los siguientes criterios:
 
-Para tal efecto, el dueño o dueños serán expropiados por causa de utilidad pública de los edificios y terreno necesarios, al fundo de los mismos pueblos, mediante indemnización por el Estado, pagadera en anualidades no mayores de veinte ni menores de diez.
+I. Proponer la creación de infraestructura productiva en las Áreas de Desarrollo Económico (ADE) y en Áreas de Gestión Estratégica (AGE) previstas en la Ley de Desarrollo Urbano vigente en la Ciudad de México;
 
-El Estado, responsable del pago de las indemnizaciones, sujetará a compra-venta, previa separación de los edificios que provisionalmente puedan servir de oficinas públicas y del terreno indispensable para la construcción posterior de estas oficinas, establecimiento de parques, arboledas, etc., los demás edificios y terreno, de antemano fraccionado, entre los habitantes del pueblo preferentemente y entre los demás solicitantes que deseen avecindarse.
+II. Promover la participación del sector social y privado en la construcción, mantenimiento y rehabilitación de la infraestructura pública que requieren los sectores económicos de la Ciudad de México, y
 
-No se comprenderá en la expropiación las casas principales de los dueños, ni los edificios que sirvan de oficinas y dependencias de las negociaciones.
-
-El precio o venta de casas y terrenos no podrá ser mayor durante los diez primeros años, del que comprenda proporcionalmente al monto de la expropiación, aumentado con los gastos ya hechos o por hacer, que impliquen la medición, fraccionamiento, construcción de edificios públicos y demás establecimientos de que se ha hecho mención.
-
-A medida que la importancia de las negociaciones requieran la construcción de nuevos edificios para alojar a todos sus obreros, tendrán todo derecho y libertad de hacerlo en el número que lo juzguen necesario a continuación del fundo expropiado; pero las nuevas construcciones, aunque de su propiedad particular, quedarán formando parte integrante del pueblo, y por lo mismo sujetas a las mismas leyes y autoridades administrativas.
-
-En caso de que por concesiones especiales otorgadas por la Federación a algunas de las negociaciones a que se refiere este artículo se suscitaren dificultades para llevar a cabo la expropiación, el Gobierno del Estado las resolverá tratando directamente con dichas negociaciones, o con la Federación si así fuere necesario.
+III. Propiciar que en la construcción, mantenimiento y rehabilitación de la infraestructura y bienes de uso público se utilicen, en igualdad de condiciones, los insumos y la mano de obra de la Ciudad de México, a fin de impulsar la generación de empleo.
 
 ### CAPÍTULO IX. De la Integración de Actividades Productivas
 
 ###### Artículo 52.
 
-La Legislatura del Estado decretará la creación de pueblos libres cada vez que lo juzgue de utilidad pública, ó cuando a petición de los vecinos de las poblaciones respectivas resuelva que es justificada su solicitud.
+La Secretaría debe promover la integración de actividades productivas, con el propósito de articular eficientemente las acciones económicas para producir y distribuir bienes y servicios, orientándose a fomentar las cadenas productivas, comerciales y de distribución para lograr:
+
+I. La asociación de empresas en proyectos de inversión;
+
+II. Nuevas formas de asociación empresarial para la compra, producción, comercialización y distribución de bienes y servicios; la compra y renta de maquinaria y el establecimiento de centros compartidos de diseño, administración, integración y mercadotecnia;
+
+III. Que las unidades productivas cuenten con servicios jurídicos, informáticos, de capacitación, desarrollo empresarial y asesoría fiscal;
+
+IV. La integración sectorial y de procesos productivos para que las empresas generen nuevos productos y participen en nuevos mercados, tanto locales y regionales como nacionales e internacionales;
+
+V. La promoción de esquemas de subcontratación entre grandes empresas con las micro, pequeña y mediana empresas;
+
+VI. La generación de instrumentos y mecanismos de fomento y otros apoyos financieros, mediante la coordinación y concertación con las instituciones competentes para la reconversión productiva, la capitalización, investigación y desarrollo tecnológico; y
+
+VII. Vincular sus necesidades con la oferta de tecnología adecuada.
 
 ### CAPÍTULO X. De la determinación de las Áreas de Desarrollo Económico
 
@@ -916,549 +910,97 @@ La Legislatura del Estado decretará la creación de pueblos libres cada vez que
 
 ###### Artículo 53.
 
-Es obligación del Gobierno del Estado difundir la enseñanza entre sus habitantes por todos los medios posibles; quedando a cargo del Ejecutivo dirigirla y organizarla conforme a la Ley respectiva.
+De conformidad con lo señalado en el artículo 3, fracción VI de la Ley, las Áreas de Desarrollo Económico (ADE) serán determinadas por la Secretaría, en coordinación con las instancias correspondientes de la Administración Pública de la Ciudad de México y las Alcaldías, con base en estudios que orienten la toma de decisiones y que deberán considerar: la pertinencia, ubicación geográfica estratégica, la infraestructura y el equipamiento urbano existente, la vocación económica del área, la existencia de cadenas de valor, su densidad económica, el valor patrimonial, el contexto social y cultural, su proximidad con el mercado potencial, los requerimientos adicionales de infraestructura y recursos naturales, el uso de suelo y su situación jurídica, conforme a los Programas de las Alcaldías y/o Programas Parciales de Desarrollo Urbano.
 
-Como medio de los más eficaces, para cumplir con tan imprescindible como trascendental deber, el Estado eleva a precepto constitucional, por el tiempo que la evolución de éste y que la Nación lo exija, la creación y sostenimiento de un número de pensiones de gracia, que no será menor de quince, para mandar periódicamente a los centros de civilización más reputados del Extranjero, un número correspondiente de jóvenes, hijos del mismo Estado, de entre los más aprovechados, más capaces, y demás honorabilidad, a fin de ilustrarse científica y técnicamente en las ciencias mecánicas, físicas, químicas, industriales y demás ramos del saber humano, cuya implantación y difusión sea de más urgente necesidad para el progreso del Estado y de la República. Los jóvenes así favorecidos, a su regreso a la República, prestarán sus servicios preferentemente al Estado de Durango, a cuyos habitantes deben la especialidad de sus conocimientos.
-
-Queda igualmente a cargo del Gobierno del Estado la dirección y organización de la salubridad pública general en el mismo Estado. Para este fin se creará dependiente de la Secretaría del Despacho un departamento de Salubridad, y se instituirá una corporación que llevará el nombre de "Consejo Superior de Salubridad Pública".
-
-El Congreso, por una ley especial, determinará lo conducente a este ramo, y a las relaciones que en este respecto deben existir entre el Gobierno y los Municipios del Estado.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 54.
 
-El Poder Legislativo se deposita en una Asamblea que se denomina LEGISLATURA DEL ESTADO DE DURANGO, compuesta de Diputados electos directamente por el pueblo. Cada Diputado durará en su enargo (sic) cuatro años, renovándose la Legislatura por mitad cada dos años.
+La definición de las Áreas de Desarrollo Económico (ADE) será una facultad de la Secretaría, quien para tales efectos elaborará un estudio exhaustivo que justifique la pertinencia de las mismas en su perímetro correspondiente.
 
-Por cada Distrito Electoral se elegirán un Diputado Propietario y un Suplente, en la forma y términos que señale la Ley Electoral respectiva.
-
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1931)</small>
-
-Cada Distrito Electoral quedará formado por treinta y cinco mil habitantes y si hubiere una fracción mayor de veinte mil habitantes, ésta formará un Distrito Electoral.
-
-Los Distritos Electorales, se formarán tomando como base el último Censo efectuado, y serán numerados progresivamente.
-
-Para renovarse la Legislatura parcialmente cada dos años, se efectuarán elecciones en los Distritos pares e impares alternativamente y según corresponda.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1935)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 55.
 
-Para ser diputado se requieren los siguientes requisitos:
+El estudio a cargo de la Secretaría será público y presentado a las Dependencias, Entidades, así como a las Alcaldías que resulten competentes para su deliberación y acuerdo.
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 1935)</small>
-
-I. Ser ciudadano durangueño por nacimiento, en ejercicio de sus derechos.
-
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
-
-II.- Saber leer y escribir.
-
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
-
-III.- Tener para el día de la elección, veinticinco años cumplidos y residencia efectiva dentro del Territorio del Estado, inmediata al mismo día de la elección, cuando menos de seis meses si es nativo de él y de cinco años, si solo es ciudadano durangueño por vecidad (sic). La vecindad no se pierde por ausencia en el desempeño de algún cargo de elección popular.
-
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
-
-IV.- No ser Ministro de CULTO ALGUNO.
-
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
-
-V.- No haber sido condenado por cualquier delito a más de un año de prisión, excepto el delito de culpa (sic), cualquiera que haya sido la pena; pero si hubiere sido condenado por robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
-
-VI.- (DEROGADA, P.O. 6 DE OCTUBRE DE 1927)
-
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1931)</small>
-
-VII.- No ser empleado público del Estado, de la Federación o del Municipio dentro de los cuarenta y cinco días anteriores al día de la elección.
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 56.
 
-El cargo de Diputado es incompatible con el desempeño de cualquier otro empleo del Estado o de la Federación o comisión pública, salvo empleo o comisión de Instrucción o de Salubridad públicas, en el mismo Estado, en cuyo caso es indispensable el previo permiso de la Legislatura o de la Diputación Permanente. La infracción de esta disposición implica la pérdida del cargo de Diputado por todo el tiempo que faltare del período Constitucional. Incurrirán en la misma pena los Diputados Suplentes en su caso, cuando hayan sido llamados para reemplazar al propietario.
+Para el cumplimiento del artículo anterior las Dependencias y Entidades de la Administración Pública, así como las Alcaldías, en el ámbito de sus respectivas competencias impulsarán:
 
-## TITULO VII.
+I. El establecimiento, en las Áreas de Desarrollo Económico (ADE) y en las Áreas de Gestión Estratégica (AGE), de empresas que propicien cadenas productivas;
 
-DEL PODER JUDICIAL.
+II. El desarrollo de la industria, para fomentar la creación de empleos productivos, el uso de insumos locales y procesos que propicien la utilización intensiva de mano de obra;
 
-###### Artículo 84.
+III. La asociación de las diversas formas de organización para la producción y distribución de bienes y servicios;
 
-La Administración de justicia en el Estado estará a cargo de:
+IV. La vinculación de las actividades del sector agropecuario a otras actividades económicas, propiciando su mejoramiento en cadenas productivas y distributivas;
 
-I. El Supremo Tribunal de Justicia.
+V. La creación de esquemas de cooperación empresarial para la identificación y promoción de oportunidades de inversión;
 
-II. Los Jueces de Primera Instancia.
+VI. La articulación de las actividades del sector turístico para ampliar, diversificar y mejorar la captación de divisas;
 
-III. Los Jurados.
+VII. La organización de centros de acopio para mejorar el abasto y distribución de productos alimenticios, que ordene y propicie la creación de espacios destinados a estas actividades;
 
-IV. Los Jueces Menores.
+VIII. El acceso de las empresas a investigaciones e innovaciones tecnológicas, así como modernizar y actualizar sus actividades para elevar su productividad y rentabilidad en centros de información e investigación tecnológica, consultoría especializada y de adiestramiento tecnológico en instituciones públicas y privadas, e
 
-V. Los Jueces Correccionales y Municipales.
+IX. Impulsar la operación en economías de escala para mejorar su productividad y eficiencia.
 
-VI. Los Jefes de Cuartel.
-
-###### Artículo 85.
-
-Auxiliarán la administración de Justicia:
-
-I. El Ministerio Público.
-
-II. Los Defensores de Oficio.
-
-III. Los peritos Médicos Legistas y demás que sean necesarios.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
-
-###### Artículo 86.
-
-El Supremo Tribunal de Justicia del Estado se compondrá de tres Magistrados propietarios y seis supernumerarios con quienes se cubrirán las faltas temporales de los propietarios o temporalmente las faltas absolutas de éstos, entrando en el orden numérico en que hayan sido electos.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-###### Artículo 87.
-
-Los Magistrados Propietarios y Supernumerarios del Supremo Tribunal de Justicia, serán de elección popular indirecta y nombrados por el Congreso del Estado, en funciones de Colegio Electoral, siendo indispensable cuando menos las dos terceras partes del número total de Diputados. Dicha elección la hará el Congreso en sesiones ordinarias y en caso de que este Cuerpo se halle en receso, la Comisión Permanente respectiva lo convocará a sesiones extraordinarias para ese fin. La elección se hará en escrutinio secreto y por mayoría absoluta de votos, siendo previamente propuestos y discutidos los candidatos por los Miembros de la misma Cámara. Si no se obtuviere mayoría absoluta en la primera votación, se repetirá ésta entre los dos candidatos que hubieren obtenido más votos.
-
-###### Artículo 88.
-
-Los Magistrados del Supremo Tribunal de Justicia durarán seis años en su encargo; los Jueces de Primera Instancia cuatro años y los Defensores de Oficio dos años. No podrán ser removidos unos y otros de su cargo sin previo juicio de responsabilidad o por incapacidad para desempeñarlo en los términos que establezca la ley.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-###### Artículo 89.
-
-Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado, a propuesta en terna de la Legislatura del mismo o de la Diputación Permanente.
-
-###### Artículo 90.
-
-Si faltare un Magistrado del Tribunal por defunción, renuncia o incapacidad, la Legislatura del Estado erigida en Colegio Electoral, hará nueva elección conforme a lo prescripto (sic) en esta Constitución. Si el Congreso no estuviere en sesiones, la Diputación permanente hará un nombramiento provisional mientras se reune aquélla y hace la elección correspondiente.
-
-###### Artículo 91.
-
-Los Jueces menores, Correccionales y Municipales serán nombrados por el Supremo Tribunal de Justicia.
-
-Los Jefes de Cuartel serán nombrados por el Ayuntamiento de la Municipalidad respectiva.
-
-###### Artículo 92.
-
-El Ministerio Público tiene por objeto pedir y auxiliar la pronta Administración de Justicia en nombre de la sociedad, y defender ante los tribunales los intereses de ésta, en los casos y por los medios que señalan las leyes; así como también cuidar de que se apliquen puntualmente las penas impuestas por los Tribunales, reclamando cuando así no se hiciere, ante la autoridad judicial que corresponda.
-
-Dicho Ministerio estará integrado por un Procurador General y Agentes que serán nombrados por el Ejecutivo del Estado en el número y con las condiciones y requisitos que señala la ley.
-
-El Procurador General de Justicia intervendrá personalmente en todos los negocios en que el Estado fuere parte; será el consejero jurídico del Gobierno, y tanto él como los Agentes se someterán extrictamente a las disposiciones de la ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 1924)</small>
-
-###### Artículo 93.
-
-Para ser Magistrado Propietario del Supremo Tribunal de Justicia, del Estado y Procurador de Justicia, se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos.
-
-II.- Tener treinta años cumplidos.
-
-III.- Poseer título profesional de Abogado, expedido por Autoridad o Corporación del Estado o de la República, legalmente facultados para ello.
-
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-###### Artículo 94.
-
-Los Magistrados Propietarios y Supernumerarios en funciones, no podrán desempeñar ningún otro empleo o comisión públicos del Estado, de la Federación o del Municipio, salvo el de Profesores en los Colegios del Estado y previo permiso de la Legislatura o de la Diputación Permanente. Lo mismo se observará respecto a los Jueces de Primera Instancia, Agentes del Ministerio Público y Defensores de Oficio, con la salvedad que el permiso lo solicitará de su Superior respectivo.
-
-###### Artículo 95.
-
-Para ser Magistrado Supernumerario se necesitan los mismos requisitos que para propietario.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-###### Artículo 96.
-
-Para ser Juez de Primera Instancia, Defensor de Oficio y Juez Menor, se necesita tener veinticinco años cumplidos, y los demás requisitos señalados para los Magistrados Propietarios, con excepción de los de ciudadanía durangueña y tiempo de vecindad.
-
-Sin embargo, podrá conferirse el cargo de Juez de Primera Instancia y de Juez Menor, a persona no titulada, siempre que a juicio del Tribunal reúna los requisitos de competencia en materia de leyes, los determinados en las fracciones I y IV del artículo 93 de esta Constitución, y el de haber desempeñado con acierto empleos de categoría de la Judicatura en el Estado.
-
-###### Artículo 97.
-
-Son requisitos para el nombramiento de los demás funcionarios de la Administración de justicia los que señale la Ley Orgánica y Reglamentaria de ésta.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-###### Artículo 98.
-
-Los Magistrados Propietarios y Supernumerarios protestarán ante la Legislatura y ante la Diputación Permanente y ante una u otra se hará la renuncia de estos cargos, la cual no será admitida sino por causa justificada, a juicio de la misma Cámara.
-
-La protesta referida será otorgada el día señalado por la Legislatura del Estado. Cuando alguno o algunos de los funcionarios referidos no se presenten a otorgarla, la Legislatura los citará para tal objeto por medio de oficio y por el Periódico Oficial del Estado; y si pasado un mes de la fecha de la citación no lo hicieren, se les someterá a juicio de responsabilidad respectivo, y la Legislatura eregida (sic) en Colegio Electoral, procederá a nuevos nombramientos.
-
-###### Artículo 99.
-
-Corresponde al Supremo Tribunal de Justicia conocer de las causas de responsabilidades de los Funcionarios Públicos en los términos que fija esta Constitución; de los recursos de nulidad, y de las competencias que se susciten entre los Jueces de Primera Instancia del Estado, así como también conocer del recurso de Casación en materia mercantil.
-
-###### Artículo 100.
-
-Es asimismo Tribunal de apelación, o bien de última instancia en los negocios civiles y criminales, según los términos que acordare la ley reglamentaria.
-
-###### Artículo 101.
-
-Habrá en el Estado jurados de hecho para los delitos de prensa contra el orden público o la seguridad interior del Estado, y su institución será reglamentada por la ley respectiva.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-## TITULO VIII.
-
-DE LA HACIENDA DEL ESTADO.
-
-###### Artículo 102.
-
-La Hacienda Pública del Estado se formará de las contribuciones que estableciere la Legislatura y demás rentas que le señalaren las Leyes.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-###### Artículo 103.
-
-Para el arreglo y administración de los fondos del Estado, el Ejecutivo, con aprobación de la Legislatura, nombrará un ciudadano que se denominará Director General de Rentas; tendrá el derecho de iniciar leyes en lo relativo al Ramo de Hacienda, y desempeñará su cargo bajo la inmediata inspección del Ejecutivo del Estado.
-
-###### Artículo 104.
-
-Todos los empleados de Estado y Municipales que manejen fondos públicos, deberán caucionar el manejo de dichos fondos. Los empleados del Estado prestarán la caución a satisfacción del Ejecutivo, y los del Municipio a satisfacción de los Ayuntamientos respectivos. Se exceptúa de esta obligación al Director de Rentas del Estado.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1925)</small>
-
-###### Artículo 105.
-
-En el Estado toda propiedad rústica, cuyo valor fiscal no sea mayor de Dos mil pesos, pagará el noventa por ciento de los impuestos que al capital rústico fije la Ley de Hacienda del mismo.
-
-Si se tratare de impuestos sobre traslación de dominio o sobre herencias relativas a dicha pequeña propiedad, es también condición indispenable (sic) para disfrutar de la reducción de impuestos referida, que el adquirente en el primer caso, y el heredero en el segundo, no sean dueños de otros bienes. En tales casos se regirá por el valor que se asigne a la propiedad en los contratos o inventarios respectivos, excepto cuando este valor sea menor que el valor fical (sic), pues entonces se tomará este último en cuenta para los efectos del presente artículo.
-
-Igualmente disfrutarán de la misma prerrogativa en los contratos de mutuo con garantía hipotecaria relativos a la misma pequeña propiedad, los contratantes cuando no poseen otros bienes.
-
-###### Artículo 106.
-
-En el Estado de Durango no habrá monopolios, ni estancos de ninguna clase; ni exención de impuestos; ni prohibiciones a título de protección a la industria; y se declaran insubsistentes desde la fecha de la promulgación de esta Constitución todas las exenciones de impuestos otorgadas por los Gobiernos anteriores.
-
-###### Artículo 107.
-
-Quedan sujetos a revisión por la Legislatura del Estado, todos los contratos y concesiones hechos por los Gobiernos anteriores desde el año 1876, para declarar nulos los que impliquen perjuicios graves para el interes público de acuerdo con lo dispuesto en la fracción VII Letra F. del Artículo 27 y en el Artículo 28 de la Constitución Política de la República de Febrero de 1917.
-
-Igualmente se declararán nulos los contratos y concesiones cuyos interesados no hayan cumplido con las obligaciones estipuladas, o no estuvieren ajustados a los preceptos Constitucionales en el tiempo en que fueron otorgados.
-
-## TITULO IX.
-
-DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-###### Artículo 108.
-
-Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia Propietarios y Supernumerarios, no tienen derecho de propiedad en el puesto que desempeñen; pero sí el de ser reelectos en los casos en que no lo prohiba la presente Constitución; y no podrá llevarse a efecto su separación del cargo, sino que antes se les forme causa y se pronuncie sentencia que cauce (sic) ejecutoria.
-
-Tampoco tienen derecho de propiedad en el empleo que desempeñen, ningún funcionario ni empleado público de los no comprendidos en el párrafo anterior, y en tal virtud, el ser removidos o supensos (sic) por sus superiores, no tendrán más derechos que los que les fije la Ley del Servicio Civil que la H. Legislatura deberá expedir.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-###### Artículo 109.
-
-Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, Propietarios y Supernumerarios, el Secretario de Gobierno, el Procurador de Justicia y el Director General de Rentas, son responsables por los delitos comunes que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones.
-
-El Gobernador, durante el tiempo de su encargo sólo podrá ser acusado por traición a la Patria, por contravenir las Constituciones General de la República y Particular del Estado y por la comisión de delitos graves del orden común.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-###### Artículo 110.
-
-Cuando se trate de delitos del orden común, la Cámara de Diputados, eregida (sic) en Gran Jurado, declarará por el voto de las dos terceras partes del número total de los Diputados que la formen si ha o no lugar a proceder contra el acusado. En caso negativo, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución de la Cámara no prejuzga absolutamente los fundamentos de la acusación.
-
-En caso afirmativo, el acusado queda, por el mismo hecho, separado de su encargo, y sujeto desde luego a la acción de los tribunales comunes, a menos que se trate del Gobernador del Estado, pues en tal caso sólo habrá lugar a pasar la acusación al Supremo Tribunal de Justicia como si se tratare de un delito oficial.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-###### Artículo 111.
-
-No gozan de fuero Constitucional los altos empleados del Estado por los delitos oficiales, faltas u omisiones en que incurran en el desempeño de algún empleo, cargo o comisión públicos, que hayan aceptado, durante el período en que conforme a la Ley se disfrute de fuero. Lo mismo sucederá respecto de los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión. Para que la causa pueda iniciarse cuando el alto funcionario haya vuelto a ejercer sus funciones propias, deberá procederse con arreglo a lo dispuesto en el artículo anterior.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-###### Artículo 112.
-
-De los delitos oficiales del Gobernador del Estado, Diputados, Magistrados Propietarios y Supernumerarios del Supremo Tribunal de Justicia, del Secretario de Gobierno, del Procurador de Justicia, y del Director General de Rentas, conocerá el Congreso como Jurado de Acusación y el Tribunal como Jurado de Sentencia. Las resoluciones del Gran Jurado y la declaración en su caso, son inatacables.
-
-El Congreso del Estado expedirá la Ley sobre Responsabilidades de todos los funcionarios y empleados del Estado, determinando como faltas oficiales todos los actos u omisiones que puedan redundar en perjuicio de los intereses públicos y del buen despacho, aún cuando hasta la fecha no hayan tenido carácter de delictuosos.
-
-###### Artículo 113.
-
-En demandas del orden civil no habrá fueros ni inmunidad, ni aún para los Funcionarios Públicos.
-
-###### Artículo 114.
-
-Se inhabilita para servir toda clase de empleos públicos a los individuos que tomaren parte en asonadas, motines o cuartelazos contra el Gobierno Constitucional del Estado o de la República.
-
-###### Artículo 115.
-
-Por los delitos oficiales solamente podrá exigirse responsabilidad a los Funcionarios Públicos, durante su encargo y un año después; y pronunciada sentencia condenatoria en esta clase de delitos, no podrá concederse al reo la gracia de indulto.
-
-###### Artículo 116.
-
-Todo Funcionario Público, antes de tomar posesión de su cargo, protestará guardar esta Constitución y la General de la República, según la formula siguiente. "Protestáis guardar y hacer guardar la Constitución General de la República, de 31 de enero de 1917, la particular del Estado y las leyes que de ellas dimanen, y desempeñar leal y patrióticamente el cargo de ……………. que el pueblo os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado? Después de haber contestado el interpelado "SI PROTESTO." El que interroga dirá: si así no lo hiciéreis que la Nación y el Estado os lo demanden."
-
-###### Artículo 117.
-
-Ningún funcionario tiene derecho de renunciar la retribución que la ley le señale por los servicios que preste al Estado.
-
-###### Artículo 118.
-
-Cualquier ciudadano que fuere electo a la vez para dos o más empleos de nombramiento popular, no desempeñará sino uno a su arbitrio.
-
-###### Artículo 119.
-
-Ningún gasto que no esté comprendido en el presupuesto aprobado, o determinado por la ley, podrá hacerse de los fondos públicos del Estado.
-
-PREVENCIONES GENERALES.
-
-###### Artículo 120.
-
-La Legislatura del Estado expedirá a la mayor brevedad posible las leyes sobre el trabajo y previsión social, conforme a lo dispuesto en el Art. 123 de la Constitución General de la República.
-
-###### Artículo 121.
-
-En el Estado, todos los contratos que el Gobierno o el Municipio tengan que celebrar para la ejecución de obras públicas, serán adjudicados en subasta mediante convocatoria y previa presentación de proposiciones hechas en sobre cerrado que será abierto en junta pública presidida por el Ejecutivo o el Presidente Municipal en su caso. La convocatoria será promulgada oficialmente con toda la anticipación necesaria, en particular tratándose de obras públicas que por su importancia intrínseca y trascendencia, sean de mayor utilidad para el Estado; anticipación que no podrá ser menos de seis meses para estos últimos casos, y de cuatro meses para las obras públicas de menor cuantía.
-
-El Ejecutivo o el Municipio al remitir a la Legislatura para su discusión y aprobación la iniciativa de un contrato, de conformidad a su juicio con las mejores proposiciones hechas, la acompañará de las demás proposiciones que hubieren sido presentadas con el mismo objeto, las cuales serán pasadas juntamente con la iniciativa referida a la comisión que corresponda, a fin de que ésta dictamine con mejor conocimiento de causa.
-
-Las convocatorias para la ejecución de obras públicas, serán decretadas por la Legislatura, ya sea a propuesta nacida en el seno de la misma ya iniciativa del Ejecutivo del Estado o del Municipio respectivo.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-###### Artículo 122.
-
-La presente Constitución podrá ser reformada o adicionada en todo tiempo; pero con la condición precisa de que no han de ser atacados en manera alguna los principios consignados y que se consignen en la Carta Fundamental de la República, debiendo observarse las formalidades siguientes:
-
-I. La reforma, reformas o adiciones, se presentarán en cualquiera de los períodos ordinarios de sesiones; pero durante él no se hará otra cosa que mandarlas publicar por la prensa y comunicarlas directamente al Ejecutivo, Tribunal de Justicia y a cada uno de los Ayuntamientos del Estado a fin de que emitan su juicio por escrito, dirigiéndolo al Congreso o Diputación Permanente, quienes formarán un expediente con todas las contestaciones que recibieren.
-
-II. Este expediente se pasará a la Comisión de Puntos Constitucionales en el sexto día de haberse abierto las sesiones del período ordinario que siga al en que se propusieron las reformas o adiciones. La Comisión presentará dictamen a la Cámara a más tardar dentro de un mes de haberse recibido el expediente y se procederá a la discusión conforme al Reglamento. Para que las adiciones o reformas formen parte de la Constitución, se requiere que el Congreso, por el voto de las dos terceras partes de los Diputados que deban integrarlo, las acuerde, y que sean aprobadas por la mayoría de los Ayuntamientos, conceptuándose mayoría, la mitad más uno de los existentes en el Estado. El Congreso hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las reformas o adiciones.
-
-###### Artículo 123.
-
-En ningún caso perderá esta Constitución su fuerza y vigor; y siempre que hubiere un trastorno público continuará su observancia tan luego como el pueblo recobre su libertad.
+## TÍTULO SEXTO. De los Sistemas
 
 ### CAPÍTULO ÚNICO. De los sistemas de información para la Promoción y Fomento del Desarrollo Económico de la Ciudad de México
 
 ###### Artículo 57.
 
-Los Diputados son inviolables por las opiniones manifestadas en el desempeño de su encargo; y jamás podrán ser reconvenidos por elIas.
+La Secretaría integrará sistemas de información económica que proporcionen datos útiles, confiables y oportunos en los rubros de comunicación interdependencial, precios, finanzas, inversión, corredores y administradores inmobiliarios, en materia de registro de apertura de empresas, operación de establecimientos mercantiles, en materia regulatoria, entre otros, con el objetivo apoyar (sic) en la toma de decisiones a los diversos Agentes Económicos de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 58.
 
-Los Diputados que sin Iicencia dejaren de concurrir por un mes seguido a cualquier período de sesiones, quedarán distituidos (sic) de sus cargos y suspensos por el tiempo de éste, de los derechos de ciudadano. Igual pena sufrirán los suplentes en su caso, desde que sean llamados para reemplazar al propietario. Para la aplicación de esta pena se necesita declaración empresa de la Cámara. Las faltas sin licencia de menos de un mes, se sujetarán a las prescripciones y penas que señale el Reglamento Interior del Congreso.
+Para el diseño y operación de estos sistemas, la Secretaría deberá realizar las siguientes acciones:
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1931)</small>
+I. Recopilar, generar, organizar, integrar, analizar y actualizar la información relevante en materia económica que generan los ciudadanos, las Cámaras, las Alcaldías, las Entidades, Dependencias y los sectores sociales;
+
+II. Formular, actualizar y difundir los indicadores económicos locales, sectoriales, regionales y globales de manera periódica acerca de la evolución de la situación de la economía local;
+
+III. Promover, realizar y difundir periódicamente estudios, investigaciones y análisis de la información económica que reporten la situación y evolución de los sectores, áreas, regiones y estrategias encaminadas al desarrollo económico de la Ciudad;
+
+IV. Coadyuvar en la realización de estudios que realicen otras instancias, públicas o privadas, y cuya finalidad sea la de determinar el impacto económico de alguna política, proyecto o acción específica;
+
+V. Establecer vínculos con otros sistemas o centros de información tanto locales, como estatales, federales e internacionales, en coordinación con las áreas responsables del Gobierno de la Ciudad de México, y
+
+VI. Divulgar la información económica estadística y geográfica disponible, privilegiando siempre el acceso a la información pública y la transparencia.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 59.
 
-El Congreso del Estado no podrá instalarse ni ejercer sus funciones sin la concurrencia de la mayoría de los Diputados. Tendrá dos períodos de sesiones ordinarias en cada año comenzando el primero del día 1o. de septiembre al 30 de noviembre y el segundo del 1o. de marzo al 31 de mayo.
+Para el cumplimiento del artículo anterior las Dependencias y Entidades de la Administración Pública, así como las Alcaldías, en el ámbito de sus respectivas competencias impulsarán:
 
-###### Artículo 60.
+I. La integración de los registros que sean necesarios para proveer información relevante para la planeación de políticas públicas que contribuyan al desarrollo económico de la Ciudad, y
 
-El Congreso pasará a una comisión de su seno el presupuesto de gastos anuales de la Administración pública, que presenten el Ejecutivo y los Ayuntamientos de las Municipalidades del Estado; la comisión dictaminará precisamente en el término de un mes.
+II. La celebración de convenios con los sectores público, privado y social, nacional o internacional para promover su participación en la generación y difusión de la información.
 
-###### Artículo 61.
+## TRANSITORIOS
 
-Los proyectos de ley pasarán a comisión, se discutirán conforme a lo prevenido en el Reglamento del Congreso; y aunque haya dispensa de trámites, no dejará de darse una audiencia al Ejecutivo cuando quiera hacer uso de ese derecbo.
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
-Aprobado un proyecto de ley o de decreto por la Legislatura, se remitirá al Ejecutivo, quien si no tuviere observaciones que hacer, lo publicará inmediatamente. Se reputará aceptado por el Ejecutivo todo proyecto no devuelto por éste dentro de los diez primeros días útiles, a no ser que corriendo este término hubiere el Congreso cerrado sus sesiones, en cuyo caso la devolución deberá hacerse el primer día útil en que la LegisIatura esté reunida. Devuelto el proyecto por el Ejecutivo con sus observaciones, será de nuevo discutido en la parte relativa a dichas observaciones previo estudio y dictamen de la comisión respectiva; y si fuere confirmado en su forma primitiva por las dos terceras partes de los Diputados, el proyecto será ley o decreto y volverá al Ejecutivo para su inmediata publicación.
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación.
 
-###### Artículo 62.
+TERCERO.- Se abroga la Ley de Fomento para el Desarrollo Económico publicada en el Diario Oficial de la Federación el 26 de diciembre de 1996.
 
-La Legislatura, o en su caso la Diputación Permanente, decretará la convocatoria a elecciones fijando la fecha en que deben efectuarse, para la renovación de los Poderes del Estado en cada período Constitucional, conforme a la Ley Electoral del mismo; debiendo hacer otro tanto y a la mayor brevedad posible cuando se trate de reemplazar el personal del Ejecutivo o miembros del Congreso, en caso de falta absoluta por muerte, renuncia, destitución y demás causas señaladas en esta Constitución. En caso de falta absoluta de alguno o algunos Diputados propietarios y que, por las mismas causas no pudieren ser reemplazados por los suplentes respectivos, la Legislatura decretará la convocatoria a elecciones para cubrir las vacantes, a no ser que dicha falta ocurriese dentro del último semestre del período Constitucional y estuvieren en funciones la mayoría del número total de Diputados.
+CUARTO.- Se derogan todas aquellas disposiciones que se contrapongan al presente ordenamiento, en materia de Desarrollo Económico.
 
-Efectuadas las elecciones de los Poderes Ejecutivo y Legislativo del Estado, en cada período Constitucional, la Diputación Permanente convocará con la necesaria oportunidad a la Legislatura a sesiones extraordinarias, con el exclusivo objeto de que, constituyéndose en Colegio Electoral, haga la computación de votos y la declaración del personal de los nuevos Poderes, sujetándose al procedimiento señalado en el artículo 72 en lo referente al Gobernador Constitucional.
+Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiún días del mes de febrero del año dos mil catorce.- POR LA MESA DIRECTIVA.- DIP. JESÚS CUAUHTÉMOC VELASCO OLIVA, PRESIDENTE.- DIP. JORGE AGUSTÍN ZEPEDA CRUZ, SECRETARIO.- DIP. MIRIAM SALDAÑA CHÁIREZ, SECRETARIA. (Firmas)
 
-###### Artículo 63.
+En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los ocho días del mes de abril del año dos mil catorce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO, SIMÓN NEUMANN LADENZON.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DE MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, ALFREDO HERNÁNDEZ GARCÍA.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RUFINO H. LEÓN TOVAR.- FIRMA.- EL SECRETARIO DE TURISMO, MIGUEL TORRUCO MÁRQUES.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, JESÚS RODRÍGUEZ ALMEIDA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, PATRICIA MERCADO CASTRO.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, MARA NADIEZHDA ROBLES VILLASEÑOR.- FIRMA.- EL SECRETARIO DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, HEGEL CORTÉS MIRANDA.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
 
-El Gobernador y los Diputados tienen derecho de iniciativa, así como también el Tribunal de Justicia, los Ayuntamientos en lo relativo a la Administración interior de las Municipalidades respectivas, y el Director General de Rentas en el Ramo de Hacienda.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-Las iniciativas del Gobierno y Tribunal pasarán desde luego a comisión y las de los Diputados, Ayuntamientos y Director General de Rentas, se sujetarán a los trámites demarcados en el Reglamento del Congreso. Todo proyecto de ley que fuere deshechado (sic) no podrá volverse a presentar en el mismo período de sesiones.
-
-###### Artículo 64.
-
-Son facultades de la Legislatura:
-
-I. Iniciar leyes al Congreso de la Unión.
-
-II. Declarar la resistencia a una invasión extranjera siempre que urgiere de momento, dando cuenta inmediatamente al Gobierno General.
-
-III. Legislar en todo lo que no estuviere sometido al Gobierno de la Unión.
-
-IV. Aprobar o nó los convenios que el Ejecutivo celebre con los Estados vecinos; sobre cuestiones de límites y someter tales convenios a la ratificación del Congreso de la Unión.
-
-V. Legislar en lo relativo a la administración interior del Estado.
-
-VI. Crear y suprimir empleos y designar sus dotaciones.
-
-VII. Aprobar los Presupuestos y decretar contribuciones para cubrirlos. En el primer período de sesiones aprobará el presupuesto de los gastos del año siguiente, del Estado y de los Municipios, y en el segundo examinará las cuentas de los erogados en el anterior. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas de los presupuestos, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar.
-
-No podrá haber otras partidas secretas fuera de las que se consideran necesarias con ese carácter en los mismos presupuestos, las que se emplearán por el Ejecutivo o la autoridad respectiva, previo acuerdo escrito.
-
-VIII. Decretar empréstitos cuando imperiosamente lo demanden las circunstancias del Erario.
-
-IX. Reformar los Códigos y demás leyes del Estado que existen actualmente, adaptándolos a la presente Constitución y a la nueva Carta Fundamental de la República, y formar todas las demás leyes que sean necesarias a la administración pública interior.
-
-X. Conceder premios por servicios hechos al Estado.
-
-XI. Cambiar provisionalmente la residencia de los Poderes del Estado, cuando así lo juzgare necesario.
-
-XII. Otorgar al Ejecutivo facultades extraordinarias, siempre que esta medida sea indispensable para salvar la situación.
-
-XIII. Nombrar Gobernador interino y ejercer las demás funciones electorales que designa ésta Constitución y determinare la ley.
-
-XIV. Formar su Reglamento interior y nombrar los empleados de su secretaría.
-
-XV. Facultar al Ejecutivo para la creación y organización de cuerpos Rurales o Regionales del Estado.
-
-XVI. Conceder en sesión ordinaria o extraordinaria indulto a los reos de la competencia de los Tribunales del Estado.
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-XVII. Recibir al Gobernador del Estado y a los Magistrados Propietarios y Supernumerarios del Tribunal la Protesta de Ley.
-
-XVIII. Prorrogar hasta por un mes cualquiera de los períodos ordinarios de sesiones.
-
-XIX. Expedir la Ley Orgánica de los Municipios y sus Leyes de Arbitrios, conforme a las bases del artículo 115 de la Constitución Federal.
-
-XX. Convocar a elecciones para los Ayuntamientos conforme a las leyes respectivas.
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-XXI. Conceder licencias y aceptar renuncias al Gobernador del Estado, a los Miembros del propio Congreso y a los Magistrados del Tribunal.
-
-XXII. Designar, en funciones de Colegio Electoral, al candidato que para integrar la Suprema Corte de Justicia de la Nación, debe proponer la Legislatura de cada Estado de la Federación, según el artículo 96 de la Carta Fundamental. En la elección de este candidato, el Congreso se sujetará a lo prescrito para elección de los Magistrados del Supremo Tribunal de Justicia del Estado.
-
-XXIII. Comunicarse con el Ejecutivo del Estado por medio de una comisión de su seno.
-
-XXIV. Nombrar en comisión alguno o algunos de sus miembros ante el Instituto Electoral respectivo, cada vez que los intereses generales de éste lo hagan necesario.
-
-XXV. Velar sobre la observancia de esta Constitución.
-
-###### Artículo 65.
-
-Es obligación de los miembros de la Legislatura del Estado, la de visitar, terminando cada período de sesiones ordinarias, los Distritos que representan, para informar a la misma Legislatura en el período siguiente de sesiones ordinarias, acerca del estado de la Instrucción Pública, de la Industria, Agricultura y demás ramos, así como también del exacto cumplimiento de las leyes, a fin de proponer en su oportunidad cuanto pueda ser útil o necesario en beneficio de los municipios y pueblos que les han encomendado su representación. Se exceptúan de esta obligación los miembros que formen la Diputación Permanente.
-
-###### Artículo 66.
-
-Es obligación de los Diputados propietarios electos, al comenzar el nuevo período constitucional, estar presentes en la Capital del Estado, cuando menos dos días antes de instalarse el Congreso, a fin de que esta instalación se verifique conforme a lo dispuesto por el Reglamento del mismo.
-
-Cuando alguno o algunos de los Diputados propietarios faltaren a la primera junta preparatoria, de las dos que deben preceder a la instalación por estar ausentes de la Capital del Estado, se les citará desde luego por la Mesa provisional del Congreso, y por conducto del Periódico Oficial del Estado; y se llamará a los suplentes respectivos, si se encuentran en la Capital. Si pasado un mes de la fecha de la cita, no se presentaren a desempeñar sus funciones, perderán el derecho a su cargo por todo el período constitucional, y el suplente o suplentes terminarán este período. Si tampoco los suplentes, previa citación oficial, se presentaren después de un mes de ser llamados, se harán efectivas en unos y otros las responsabilidades de ley, previa declaración expresa de la Legislatura, la cual decretará desde luego la convocatoria a nuevas elecciones.
-
-###### Artículo 67.
-
-Toda resolución de la Legislatura no tendrá otro carácter que el de ley, decreto o acuerdo económico.
-
-## TRANSITORIOS.
-
-###### Artículo 1º.
-
-El actual Tribunal de Justicia, funcionará durante el período constitucional para el que fué electo, con el personal que lo integra. Para suplir las faltas temporales o absolutas de los Magistrados Propietarios, serán llamados los supernumerarios; en primer término, a los titulados en el orden en que han sido electos, y a falta de éstos, a los no titulados en el orden de su elección.
-
-###### Artículo 2º.
-
-En tanto no se reforme la Ley orgánica de la Administración de Justicia en lo referente a lo prevenido en la fracción VI del artículo 19 de esta Constitución, los Jueces del Ramo Penal, seguirán conociendo de todos los negocios criminales.
-
-###### Artículo 3º.
-
-Queda derogada la Constitución Política anterior, así como también quedan derogadas todas las demás leyes del Estado, en todo aquello que se opongan a la presente Constitución, y a la General de la República de 1917.
-
-###### Artículo 4º.
-
-Los Municipios de Lerdo y Gómez Palacio subsisten como independientes con sus demarcaciones respectivas. La Municipalidad de Pedriceña, creada económicamente por el Gobierno Preconstitucional del Estado, queda sujeta a la reconsideración de la Legislatura, quien decretará o no su existencia como tal, según reuna o no los requisitos prescritos en el artículo 39 de esta Constitución.
-
-###### Artículo 5º.
-
-Esta Constitución será promulgada por bando solemne. Rendirán la protesta de la misma Constitución ante el Congreso del Estado al día siguiente útil de su promulgación, El Poder Ejecutivo, El Legislativo, los Magistrados del Supremo Tribunal de Justicia, los Jueces de Primera Instancia y Defensores de Oficio, que se encuentren en esta Capital. Los miembros y empleados del Ayuntamiento de la Capital la otorgarán eI mismo día ante esta Corporación; y al día siguiente, ante el Superior respectivo, los demás empleados de la Administración Pública.
-
-Los Jueces de Primera Instancia y Jueces Municipales foraneos rendirán por esta vez dicha protesta, al día siguiente de la promulgación de esta Constitución en el lugar de su residencia ante el Ayuntamiento respectivo; y ante el Superior que corresponda, los demás empleados de la Administración Pública.
-
-El Gobernador del Estado dispondrá se publique, circule y observe.
-
-Dada en el Salón de Sesiones del Congroso (sic) Constituyente en la Ciudad de Durango a cinco de octubre de mil novecien (sic) diez y siete.- Dr. Pascual de la Fuente, Diputado Presidente por el Distrito de la Capital.- Miguel Jáquez, Vice-Presidente, Diputado por Tamazula- Jesús Enríquez, Diputado por Santiago Papasquiaro.- Pedro Solano, Diputado Prop. por el Distrito de Nombre de Dios.- Mariano Arce, Diputado por el Distrito de Nazas.- Alfredo Willhelm, Diputado por el Distrito de San Dimas.- Felipe Bonifant, Diputado por el Distrito de Lerdo y Gómez Palacio.- Lic. Rafael F. y Peimbert, Diputado Suplente por el Distrito de Cuencamé.- Carlos Cádenas, Diputado por el Distrito de Mapimí.- J. Guadalupe González, Diputado por el Distrito de San Juan del Río.- Ing. Celestino Simental, Diputado por el Distrito de Tepehuanes, Guanaceví, Secretario.- Lic. Francisco Martínez Escárzaga, Diputado por el Distrito de San Juan de Guadalupe, Secretario.
-
-Publíquese, circúlese y comuníquese a quienes corresponda para su exacta observancia.
-
-Victoria de Durango, octubre 6 de 1917.- Domingo Arrieta- El Srio. Int. de Gob., Ing. A. J. Miranda.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
-
-P.O. 8 DE ENERO DE 1922.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
-
-P.O. 20 DE MAYO DE 1923.
-
-Artículo único.- Los Diputados que resulten electos en las elecciones que se verifiquen en el año de 1924, para la integración de la XXX Legislatura del Estado, por los Distritos señalados con el número par, solo durarán en el desempeño de su cargo dos años, a fin de que se pueda establecer para lo sucesivo, la renovación parcial cada dos años.
-
-P.O. 28 DE OCTUBRE DE 1923.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
-
-P.O. 8 DE MAYO DE 1924.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
-
-P.O. 27 DE DICIEMBRE DE 1925.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
-
-P.O. 5 DE DICIEMBRE DE 1926.
-
-###### Artículo 1o.
-
-Los Diputados de número par electos en las elecciones de 6 de junio del corriente año, durarán en sus funciones los cuatro años para los que fueron electos. En consecuencia, las próximas elecciones que tendrán verificativo el año de 1928, para la renovación del Poder Legislativo, sólo se verificarán en los Distritos de número impar, estableciéndose así la renovación parcial en la forma prevenida por el artículo 54 reformado.
-
-###### Artículo 2o.
-
-Esta disposición surtirá sus efectos desde el día de su promulgación en el Periódico Oficial del Estado.
-
-P.O. 9 DE DICIEMBRE DE 1926.
-
-###### Artículo 1o.
-
-Las presentes reformas formarán parte integrante de las disposiciones relativas de la Constitución Política del Estado, desde el día de su publicación en el Periódico Oficial, teniendo desde entonces el carácter de Constitucionales.
-
-###### Artículo 2o.
-
-El Supremo Tribunal de Justicia proveerá al nombramiento de los Jueces de Primera Instancia, como se previene en el Artículo 89 que se reforma, al reorganizarse los Distritos Judiciales del Estado, quedando a su cargo la facultad de concederles licencias y aceptar sus renuncias; continuando mientras tanto en sus funciones, los nombrados con anterioridad por la Legislatura.
-
-###### Artículo 3o.
-
-Los actuales Defensores de Oficio, continuarán en funciones hasta que termine su período legal, y para lo sucesivo, el Ejecutivo los nombrará y tendrá las demás atribuciones que le señalen las leyes respectivas, quedando facultado mientras tanto, para conceder licencias y aceptar renuncias a los actuales Defensores.
-
-P.O. 6 DE OCTUBRE DE 1927.
-
-Artículo único.- Estas reformas entrarán en vigor desde el día de su publicación en el Periódico Oficial del Estado.
-
-P.O. 17 DE SEPTIEMBRE DE 1931.
-
-###### Artículo 1o.
-
-En las elecciones que se efectúen en el año de 1932 para la integración de la XXXIV Legislatura del Estado, se formarán únicamente tres Distritos con los que hay actualmente de número impar, y los ciudadanos que resulten electos para Diputados durarán únicamente en su encargo dos años.
-
-###### Artículo 2o.
-
-En las elecciones que se efectúen en el año de 1934, para la integración de la XXXV Legislatura del Estado, los Diputados que resulten electos por los Distritos Electorales señalados con el número par, sólo durarán en el desempeño de su cargo dos años, a fin de que se pueda establecer para lo sucesivo, la renovación parcial cada dos años.
-
-###### Artículo 3o.
-
-La instalación de la XXXV Legislatura se efectuará el día 1o. de septiembre de 1932, y por esta sóla vez comenzará a ejercer sus funciones, hasta el día 16 de septiembre de ese mismo año.
-
-P.O. 1 DE OCTUBRE DE 1933.
-
-###### Artículo 1o.
-
-Los Regidores de número par que resultaren electos en las próximas elecciones durarán en su encargo solamente un año, para así establecer la renovación total de los Ayuntamientos para 1935.
-
-###### Artículo 2o.
-
-La reducción de los Magistrados del Supremo Tribunal de Justicia, se efectuará al iniciarse el próximo período Constitucional el primero de agosto del año de 1935.
-
-P.O. 30 DE MAYO DE 1935.
-
-Artículo Unico:- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+G.O. 7 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL DISTRITO FEDERAL Y DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL DISTRITO FEDERAL".]
 
@@ -1483,3 +1025,23 @@ PRIMERO. Remítase a la Jefa de Gobierno para su promulgación y publicación en
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Las referencias hechas en otros ordenamientos a la Ley para el Desarrollo Económico del Distrito Federal, se entenderán hechas a la Ley para el Desarrollo Económico de la Ciudad de México.
+
+G.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 2º, SE ADICIONA UNA FRACCIÓN XIV Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 3º, SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 7º Y SE ADICIONA UNA FRACCIÓN XIX Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 7º, SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8º, SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 23, Y SE REFORMA EL ARTÍCULO 47 BIS DE LA LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase a la Jefatura de Gobierno para efectos de su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 2º, SE ADICIONA UNA FRACCIÓN XIV BIS AL ARTÍCULO 3º, SE ADICIONA UN PÁRRAFO FINAL AL ARTÍCULO 18º Y SE REFORMA EL ARTÍCULO 21º, TODOS DE LA LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Túrnese el Presente Decreto a la Persona Titular de la Jefatura de Gobierno, para los efectos de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
