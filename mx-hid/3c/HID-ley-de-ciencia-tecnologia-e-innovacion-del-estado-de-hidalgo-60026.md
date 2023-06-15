@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-hidalgo-60
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2021-09-13"
+last_updated: "2023-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -193,13 +193,17 @@ X.- La generación y utilización del conocimiento científico y tecnológico de
 
 XI.- Un elemento importante para detonar el desarrollo de la ciencia, la tecnología y la innovación, es la eliminación y reducción de las barreras y restricciones que las afectan. Los sectores público, social y privado realizarán los esfuerzos que les correspondan para lograr este objetivo;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-XII.- Las Dependencias y Entidades del sector público podrán desarrollar actividades de investigación, desarrollo tecnológico y de innovación que concierten (sic) con el sector productivo privado, que aportará al financiamiento de dichas actividades; y
+XII.- Las Dependencias y Entidades del sector público podrán desarrollar actividades de investigación, desarrollo tecnológico y de innovación que concierten con el sector productivo privado, que aportará al financiamiento de dichas actividades;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-XIII. Se debe promover la inclusión de la perspectiva de género con una visión transversal en la ciencia, la tecnología y la innovación, así como una participación igualitaria de mujeres y hombres en todos los ámbitos del Sistema Estatal de Ciencia, Tecnología e Innovación.
+XIII.- Se debe promover la inclusión de la perspectiva de género con una visión transversal en la ciencia, la tecnología y la innovación, así como una participación igualitaria de mujeres y hombres en todos los ámbitos del Sistema Estatal de Ciencia, Tecnología e Innovación; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XIV.- Promover la eliminación de estereotipos y brechas de género en la investigación científica y tecnológica, así como en el estudio y ejercicio de carreras relacionadas al Desarrollo de Ciencia y Tecnología.
 
 #### SECCIÓN III. DE LA COMISIÓN HIDALGUENSE DE INVESTIGACIÓN, DESARROLLO TECNOLÓGICO E INNOVACIÓN
 
@@ -1116,3 +1120,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 769 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 528 POR EL QUE SE REFORMAN LAS FRACCIONES XII Y XIII; Y SE ADICIONA LA FRACCIÓN XIV DEL ARTÍCULO 5 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones contrarias al presente Decreto.
