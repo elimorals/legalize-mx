@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2023-06-12"
+last_updated: "2023-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -136,6 +136,12 @@ Para efectos de interpretación y aplicación de la presente Ley, en lo no previ
 ###### Artículo 7.
 
 La juventud del Estado de Hidalgo gozará de todas las garantías y derechos que consagran la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales suscritos por nuestro País, las Leyes Federales, así como la Constitución Política del Estado de Hidalgo y demás disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 7 Bis.
+
+El gobierno promoverá la contribución de la juventud a los derechos humanos mediante la formulación de políticas y programas que alienten y mantengan de modo permanente dicha actividad, así como el compromiso de las personas jóvenes a la cultura de la paz, el respeto a los derechos humanos y a la disposición de los valores de tolerancia y justicia.
 
 ###### Artículo 8.
 
@@ -1300,3 +1306,9 @@ P.O. 12 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 289 QUE REFORMA EL ARTÍCULO 11; LA FRACCIÓN II DEL ARTÍCULO 21; EL ARTÍCULO 57; LA FRACCIÓN I Y V DEL ARTÍCULO 58; Y ADICIONA EL ARTÍCULO 58 BIS A LA LEY DE JUVENTUD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 534 POR EL QUE SE ADICIONA UN ARTÍCULO 7 BIS A LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
