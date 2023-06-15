@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-y-cultura-indigena-para-el-estado-de-hidalgo-78
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2019-10-14"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "HID"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -123,97 +123,129 @@ c) YAHUALICA "
 
 Asimismo se reconoce la existencia de las siguientes comunidades indígenas:
 
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
 I. Acaxochitlán
 
 CLAVE COMUNIDAD
 
 HGOACX001 Acaxochitlán (Cabecera)
 
-HGOACX002 Buena Vista
+HGOACX002 Apapaxtla el chico
 
-HGOACX003 Chimalapa
+HGOACX003 Buena Vista
 
-HGOACX004 Coyametepec
+HGOACX004 Chimalapa
 
-HGOACX005 Ejido de Tepepa (Barrio Santa Félix)
+HGOACX005 Coyametepec
 
-HGOACX006 Ejido de Tlatzintla
+HGOACX006 Ejido de Tepepa (Barrio Santa Félix)
 
-HGOACX007 El Tejocotal
+HGOACX007 Ejido de Tlatzintla
 
-HGOACX008 Los Reyes
+HGOACX008 El Tejocotal
 
-HGOACX009 Montemar
+HGOACX009 La Cumbre de Santa Catarina
 
-HGOACX010 Nuevo San Juan
+HGOACX010 Los Reyes
 
-HGOACX011 San Fernando
+HGOACX011 Montemar
 
-HGOACX012 San Francisco Atotonilco
+HGOACX012 Nuevo San Juan
 
-HGOACX013 San Juan
+HGOACX013 Paredones Huitzilingo
 
-HGOACX014 San Miguel del Resgate
+HGOACX014 San Fernando
 
-HGOACX015 San Pedro Tlachichilco
+HGOACX015 San Francisco Atotonilco
 
-HGOACX016 Santa Ana Tzacuala
+HGOACX016 San Juan
 
-HGOACX017 Santa Catarina
+HGOACX017 San Miguel del Resgate
 
-HGOACX018 Tepepa (Santiago Tepepa)
+HGOACX018 San Pedro Tlachichilco
 
-HGOACX019 Toxtla
+HGOACX019 San Ana Tzacuala
 
-HGOACX020 Zotictla
+HGOACX020 Santa Catarina
+
+HGOACX021 Tepepa (Santiago Tepepa)
+
+HGOACX022 Tlatzintla
+
+HGOACX023 Toxtla
+
+HGOACX024 Yemila
+
+HGOACX025 Zotictla
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 II. Alfajayucan
 
 CLAVE COMUNIDAD
 
-HGOALF001 Cuarta Manzana (La Loma Dotzihai)
+HGOALF001 Boxtho
 
-HGOALF002 Deca
+HGOALF002 Cebolletas
 
-HGOALF003 El Doydhe
+HGOALF003 Cerro Azul
 
-HGOALF004 El Espíritu
+HGOALF004 Cuarta Manzana (La Loma Dotzihai)
 
-HGOALF005 La Nopalera Naxthéy
+HGOALF005 Deca
 
-HGOALF006 La Vega
+HGOALF006 El Doydhe
 
-HGOALF007 Las Fuentes
+HGOALF007 El Espíritu
 
-HGOALF008 Madho Corrales
+HGOALF008 La Huapilla
 
-HGOALF009 Naxthéy
+HGOALF009 La Nopalera Naxthéy
 
-HGOALF010 Primera Manzana Dosdha
+HGOALF010 La Vega
 
-HGOALF011 San Agustín Tlalixticapa
+HGOALF011 Las Fuentes
 
-HGOALF012 San Antonio Corrales
+HGOALF012 Madho Cerro Prieto
 
-HGOALF013 San Antonio Tezoquipan
+HGOALF013 Madho Corrales
 
-HGOALF014 San Francisco Sacachichilco
+HGOALF014 Naxthéy
 
-HGOALF015 San Lucas
+HGOALF015 Nexni
 
-HGOALF016 Santa María La Palma
+HGOALF016 Primera Manzana Dosdha
 
-HGOALF017 Santa María Xigui
+HGOALF017 San Agustín Tlalixticapa
 
-HGOALF018 Taxhié
+HGOALF018 San Antonio Corrales
 
-HGOALF019 Tercera Manzana Tezoquipan (Los Ángeles Ngodho)
+HGOALF019 San Antonio Tezoquipan
 
-HGOALF020 Yonthe Chico
+HGOALF020 San Francisco Sacachichilco
 
-HGOALF021 Yonthe Grande
+HGOALF021 San Lucas
 
-HGOALF022 Zozea
+HGOALF022 San Pablo Oxtotipan
+
+HGOALF023 Santa María La Palma
+
+HGOALF024 Santa María Xigui
+
+HGOALF025 Segunda Manzana Zundho
+
+HGOALF026 Taxhié
+
+HGOALF027 Tercera Manzana Tezoquipan (Los Ángeles Ngodho)
+
+HGOALF028 Yonthe Chico
+
+HGOALF029 Yonthe Grande
+
+HGOALF030 Zozea
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 III. Atlapexco
 
@@ -225,59 +257,117 @@ HGOATL002 Achiquihuixtla II
 
 HGOATL003 Atlaltipa Tecolotitla
 
-HGOATL004 Atotomoc
+HGOATL004 Atencuapa
 
-HGOATL005 Itzócal
+HGOATL005 Atlajco
 
-HGOATL006 Ixtacuatitla
+HGOATL006 Atlaltipa Huitzotlaco
 
-HGOATL007 Pahactla
+HGOATL007 Atlaltipa Mirador
 
-HGOATL008 San Isidro
+HGOATL008 Atlapexco
 
-HGOATL009 Santo Tomás
+HGOATL009 Atotomoc
 
-HGOATL010 Tecacahuaco
+HGOATL010 Cochiscuatitla
 
-HGOATL011 Tecolotitla
+HGOATL011 Cochotla
 
-HGOATL012 Tenexco I
+HGOATL012 El Mirador
 
-HGOATL013 Tenexco II
+HGOATL013 Huitzotlaco
 
-HGOATL014 Tierra Playa
+HGOATL014 Humberta Hernández Tovar
+
+HGOATL015 Itzócal
+
+HGOATL016 Ixtacuatitla
+
+HGOATL017 Ixtacuayo
+
+HGOATL018 Ley Agraria 6 de e (sic) nero
+
+HGOATL019 Los Naranjos
+
+HGOATL020 Oxpantla
+
+HGOATL021 Pahactla
+
+HGOATL022 Palo Gordo
+
+HGOATL023 Plan Huasteca
+
+HGOATL024 San Isidro
+
+HGOATL025 Santo Tomás
+
+HGOATL026 Tecacahuaco
+
+HGOATL027 Tecolotitla
+
+HGOATL028 Tenexco I
+
+HGOATL029 Tenexco II
+
+HGOATL030 Tierra Playa
+
+HGOATL031 Tlachapa
+
+HGOATL032 Xancaltitla
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+III Bis. Atotonilco el Grande
+
+CLAVE COMUNIDAD
+
+HGOATO001 Sanctórum
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 IV. Calnali
 
 CLAVE COMUNIDAD
 
-HGOCAL001 Atempa
+HGOCAL001 Ahuacatlán
 
-HGOCAL002 Buenavista
+HGOCAL002 Atempa
 
-HGOCAL003 Camotla
+HGOCAL003 Buenavista
 
-HGOCAL004 Coamitla
+HGOCAL004 Camotla
 
-HGOCAL005 Coyula
+HGOCAL005 Chiatipán
 
-HGOCAL006 Papatlatla
+HGOCAL006 Coamitla
 
-HGOCAL007 Rancho Nuevo
+HGOCAL007 Coyula
 
-HGOCAL008 San Andrés (San Andrés Chichayotla)
+HGOCAL008 La Ciénega
 
-HGOCAL009 Santa Lucía (Mesa de Santa Lucía)
+HGOCAL009 Palzoquitempa
 
-HGOCAL010 Tecpaco
+HGOCAL010 Papatlatla
 
-HGOCAL011 Tecueyaca
+HGOCAL011 Rancho Nuevo
 
-HGOCAL012 Texcaco (Sagrado Corazón de Jesús)
+HGOCAL012 San Andrés (San Andrés Chichayotla)
 
-HGOCAL013 Tlatexco
+HGOCAL013 Santa Lucía (Mesa de Santa Lucía)
 
-HGOCAL014 Tochintlán
+HGOCAL014 Tecpaco
+
+HGOCAL015 Tecueyaca
+
+HGOCAL016 Texcaco (Sagrado Corazón de Jesús)
+
+HGOCAL017 Tlatexco
+
+HGOCAL018 Tochintlán
+
+HGOCAL019 Tostlamantla
+
+HGOCAL020 Tula
 
 V. Cardonal
 
@@ -385,51 +475,67 @@ HGOCHP009 Tetlalpan
 
 HGOCHP010 Tocapa
 
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
 VII. Chilcuautla
 
 CLAVE COMUNIDAD
 
 HGOCHL001 Boxaxni
 
-HGOCHL002 Cerro del Corazón (El Muí)
+HGOCHL002 Cerro Colorado
 
-HGOCHL003 Chilcuautla (Cabecera)
+HGOCHL003 Cerro del Corazón (El Muí)
 
-HGOCHL004 Col Benito Juárez (La Rinconada)
+HGOCHL004 Chilcuautla (Cabecera)
 
-HGOCHL005 Colonia Huitexcalco
+HGOCHL005 Col Benito Juárez (La Rinconada)
 
-HGOCHL006 El Bethí
+HGOCHL006 Colonia Huitexcalco
 
-HGOCHL007 El Cerrito
+HGOCHL007 El Bethí
 
-HGOCHL008 El Dadhó
+HGOCHL008 El Cerrito
 
-HGOCHL009 El Deca
+HGOCHL009 El Dadhó
 
-HGOCHL010 El Dontzhí (Colonia Álamos)
+HGOCHL010 El Deca
 
-HGOCHL011 El Mejay
+HGOCHL011 El Dontzhí (Colonia Álamos)
 
-HGOCHL012 El Tandhe
+HGOCHL012 El Mejay
 
-HGOCHL013 El Xothí
+HGOCHL013 El Tandhe
 
-HGOCHL014 Huitexcalco de Morelos
+HGOCHL014 El Xothí
 
-HGOCHL015 La Estancia
+HGOCHL015 Huitexcalco de Morelos
 
-HGOCHL016 La Loma
+HGOCHL016 La Estancia
 
-HGOCHL017 Llano Primero
+HGOCHL017 La Loma
 
-HGOCHL018 Santa Ana Batha
+HGOCHL018 Llano Primero
 
-HGOCHL019 Texcatepec
+HGOCHL019 Santa Ana Batha
 
-HGOCHL020 Tunititlán
+HGOCHL020 Texcatepec
 
-HGOCHL022 Zacualoya
+HGOCHL021 Tlacotlapilco
+
+HGOCHL022 Tunititlán
+
+HGOCHL023 Zacualoya
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+VII Bis. Huasca de Ocampo
+
+CLAVE COMUNIDAD
+
+HGOHUS001 Los Reyes Tepezala
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 VIII. Huautla
 
@@ -477,69 +583,81 @@ HGOHUT020 El Ixtle
 
 HGOHUT021 El Lindero
 
-HGOHUT022 Hernándeztla
+HGOHUT022 Fraccionamiento Núñez Soto
 
-HGOHUT023 Huazalinguillo
+HGOHUT023 Hernándeztla
 
-HGOHUT024 Huemaco
+HGOHUT024 Huautla
 
-HGOHUT025 Ixtlahuac
+HGOHUT025 Huazalinguillo
 
-HGOHUT026 La Loma
+HGOHUT026 Huemaco
 
-HGOHUT027 La Mesa
+HGOHUT027 Ixtlahuac
 
-HGOHUT028 La Puerta
+HGOHUT028 La Loma
 
-HGOHUT029 Los Cerezos
+HGOHUT029 La Mesa
 
-HGOHUT030 Los Puentes
+HGOHUT030 La Puerta
 
-HGOHUT031 Metlatepec
+HGOHUT031 Las Pilas
 
-HGOHUT032 Milkaual
+HGOHUT032 Los Cerezos
 
-HGOHUT033 Pahuatitla
+HGOHUT033 Los Puentes
 
-HGOHUT034 Pepeyoca de Cabrera
+HGOHUT034 Metlatepec
 
-HGOHUT035 Piltepeco
+HGOHUT035 Milkaual
 
-HGOHUT036 Santo Domingo
+HGOHUT036 Pahuatitla
 
-HGOHUT037 Tamoyón I
+HGOHUT037 Pepeyoca de Cabrera
 
-HGOHUT038 Tamoyón II
+HGOHUT038 Piltepeco
 
-HGOHUT039 Tempexquixco
+HGOHUT039 Santo Domingo
 
-HGOHUT040 Tepeco
+HGOHUT040 Tamoyón I
 
-HGOHUT041 Tepexquimitl
+HGOHUT041 Tamoyón II
 
-HGOHUT042 Terrero
+HGOHUT042 Tecoluco Calpan
 
-HGOHUT043 Tlacuapan
+HGOHUT043 Tempexquixco
 
-HGOHUT044 Tohuaco Amatzintla (Tohuaco III)
+HGOHUT044 Tepeco
 
-HGOHUT045 Tohuaco I
+HGOHUT045 Tepetzintla
 
-HGOHUT046 Tohuaco II
+HGOHUT046 Tepexquimitl
 
-HGOHUT047 Tzacuala Tzacuala
+HGOHUT047 Terrero
 
-HGOHUT048 Tzacuala Tlamaya
+HGOHUT048 Tlacuapan
 
-HGOHUT049 Tzocohuijapa
+HGOHUT049 Tlalpane
 
-HGOHUT050 Vicente Guerrero
+HGOHUT050 Tohuaco Amatzintla (Tohuaco III)
 
-HGOHUT051 Vinasco
+HGOHUT051 Tohuaco I
 
-HGOHUT052 Xóchitl
+HGOHUT052 Tohuaco II
 
-HGOHUT053 Zacatipa
+HGOHUT053 Tzacuala Tzacuala
+
+HGOHUT054 Tzacuala Tlamaya
+
+HGOHUT055 Tzocohuijapa
+
+HGOHUT056 Vicente Guerrero
+
+HGOHUT057 Vinasco
+
+HGOHUT058 Xóchitl
+
+HGOHUT059 Zacatipa
 
 IX. Huazalingo
 
@@ -597,6 +715,8 @@ HGOHUZ025 Tzapotitla
 
 HGOHUZ026 Zoquicualoya
 
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
 X. Huehuetla
 
 CLAVE COMUNIDAD
@@ -609,47 +729,71 @@ HGOHUH003 Cantarranas
 
 HGOHUH004 Cerro del Tomate
 
-HGOHUH005 El Padhí
+HGOHUH005 Chapingo
 
-HGOHUH006 El Plan del Recreo
+HGOHUH006 Dos Caminos
 
-HGOHUH007 El Xoñe
+HGOHUH007 El Borbollón
 
-HGOHUH008 Hermanos Galeana
+HGOHUH008 El Ocotal
 
-HGOHUH009 Huehuetla (Cabecera)
+HGOHUH009 El Padhí
 
-HGOHUH010 Juntas Chicas
+HGOHUH010 El Paraíso
 
-HGOHUH011 La Cruz
+HGOHUH011 El Plan del Recreo
 
-HGOHUH012 La Pimienta
+HGOHUH012 El Tempesquite
 
-HGOHUH013 Linda Vista (Mirasol)
+HGOHUH013 El Xoñe
 
-HGOHUH014 Los Planes
+HGOHUH014 Hermanos Galeana
 
-HGOHUH015 Palo Verde
+HGOHUH015 Huehuetla (Cabecera)
 
-HGOHUH016 Poza Grande
+HGOHUH016 Juntas Chicas
 
-HGOHUH017 Río Beltrán
+HGOHUH017 La Cruz
 
-HGOHUH018 San Ambrosio
+HGOHUH018 La Pimienta
 
-HGOHUH019 San Antonio el Grande
+HGOHUH019 Las Aulas
 
-HGOHUH020 San Clemente
+HGOHUH020 Linda Vista (Mirasol)
 
-HGOHUH021 San Esteban
+HGOHUH021 Los Naranjos
 
-HGOHUH022 San Gregorio
+HGOHUH022 Los Planes
 
-HGOHUH023 San Lorenzo Achiotepec
+HGOHUH023 Palo Verde
 
-HGOHUH024 Santa Inés
+HGOHUH024 Poza Grande
 
-HGOHUH025 Vista Hermosa
+HGOHUH025 Río Beltrán
+
+HGOHUH026 Rio Blanco
+
+HGOHUH027 San Ambrosio
+
+HGOHUH028 San Antonio el Grande
+
+HGOHUH029 San Clemente
+
+HGOHUH030 San Esteban
+
+HGOHUH031 San Gregorio
+
+HGOHUH032 San Lorenzo Achiotepec
+
+HGOHUH033 Santa Inés
+
+HGOHUH034 San Guillermo
+
+HGOHUH035 Santa Úrsula
+
+HGOHUH036 Vista Hermosa
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 XI. Huejutla de Reyes
 
@@ -677,263 +821,303 @@ HGOHUJ010 Ahuehuetitla (Fraccionamiento)
 
 HGOHUJ011 Ámaxac
 
-HGOHUJ012 Apetlaco
+HGOHUJ012 Ampliación Buena Vista
 
-HGOHUJ013 Apílol
+HGOHUJ013 Apetlaco
 
-HGOHUJ014 Aquixcuatitla
+HGOHUJ014 Apílol
 
-HGOHUJ015 Atalco
+HGOHUJ015 Aquixcuatitla
 
-HGOHUJ016 Atappa
+HGOHUJ016 Aquixcuatitla II
 
-HGOHUJ017 Ateixco
+HGOHUJ017 Atalco
 
-HGOHUJ018 Axcaco
+HGOHUJ018 Atappa
 
-HGOHUJ019 Axihuiyo
+HGOHUJ019 Ateixco
 
-HGOHUJ020 Buena Vista
+HGOHUJ020 Atexaltipa
 
-HGOHUJ021 Cacateco
+HGOHUJ021 Axcaco
 
-HGOHUJ022 Calmecate (Sin Ruta)
+HGOHUJ022 Axihuiyo
 
-HGOHUJ023 Candelacta
+HGOHUJ023 Bella Airosa [Colonia]
 
-HGOHUJ024 Cececapa
+HGOHUJ024 Buena Vista
 
-HGOHUJ025 Chalahuitzintla
+HGOHUJ025 Cacateco
 
-HGOHUJ026 Chalahuiyapa
+HGOHUJ026 Calmecate (Sin Ruta)
 
-HGOHUJ027 Chililico
+HGOHUJ027 Candelacta
 
-HGOHUJ028 Chiquemecatitla
+HGOHUJ028 Cececapa
 
-HGOHUJ029 Chomaquico
+HGOHUJ029 Chacatitla
 
-HGOHUJ030 Coacuilco
+HGOHUJ030 Chalahuitzintla
 
-HGOHUJ031 Coamila
+HGOHUJ031 Chalahuiyapa
 
-HGOHUJ032 Cochiscuatitla
+HGOHUJ032 Charco Azul
 
-HGOHUJ033 Cochiscuatitla Anexo Ixcatlán
+HGOHUJ033 Chililico
 
-HGOHUJ034 Colonia Rancho La Güera
+HGOHUJ034 Chiquemecatitla
 
-HGOHUJ035 Colonia Tepoxtequito Santa Mónica
+HGOHUJ035 Chomaquico
 
-HGOHUJ036 Congreso Permanente Agrario
+HGOHUJ036 Coacuilco
 
-HGOHUJ037 Contépec
+HGOHUJ037 Coamila
 
-HGOHUJ038 Coxhuaco I
+HGOHUJ038 Cochiscuatitla
 
-HGOHUJ039 Coxhuaco II
+HGOHUJ039 Cochiscuatitla Anexo Ixcatlán
 
-HGOHUJ040 Coyoltitla
+HGOHUJ040 Colonia Rancho La Güera
 
-HGOHUJ041 Coyoltzintla
+HGOHUJ041 Colonia Tepoxtequito Santa Mónica
 
-HGOHUJ042 Coyotepec
+HGOHUJ042 Congreso Permanente Agrario
 
-HGOHUJ043 Coyuco Nuevo
+HGOHUJ043 Contépec
 
-HGOHUJ044 Cruztitla
+HGOHUJ044 Coxhuaco I
 
-HGOHUJ045 Cuachiquiapa
+HGOHUJ045 Coxhuaco II
 
-HGOHUJ046 Cuapaxtitla
+HGOHUJ046 Coyoltitla
 
-HGOHUJ047 Cuatecómetl
+HGOHUJ047 Coyoltzintla
 
-HGOHUJ048 Cuaxocotitla
+HGOHUJ048 Coyotepec
 
-HGOHUJ049 Ecuatitla
+HGOHUJ049 Coyuco Nuevo
 
-HGOHUJ050 Ecuatzintla
+HGOHUJ050 Cruztitla
 
-HGOHUJ051 El Chote
+HGOHUJ051 Cuachiquiapa
 
-HGOHUJ052 El Naranjal
+HGOHUJ052 Cuapaxtitla
 
-HGOHUJ053 El Ojite
+HGOHUJ053 Cuatecómetl
 
-HGOHUJ054 El Pemuche
+HGOHUJ054 Cuaxocotitla
 
-HGOHUJ055 El Xúchitl
+HGOHUJ055 Ecuatitla
 
-HGOHUJ056 Huacaxtitla
+HGOHUJ056 Ecuatzintla
 
-HGOHUJ057 Huehuetla
+HGOHUJ057 El Chote
 
-HGOHUJ058 Huejutla de Reyes (Cabecera)
+HGOHUJ058 El Naranjal
 
-HGOHUJ059 Hueynali
+HGOHUJ059 El Ojite
 
-HGOHUJ060 Huitzacháhuatl
+HGOHUJ060 El Pemuche
 
-HGOHUJ061 Huitzquilititla
+HGOHUJ061 El Xúchitl
 
-HGOHUJ062 Humotitla Candelaria
+HGOHUJ062 Huacaxtitla
 
-HGOHUJ063 Humotitla Coyuco
+HGOHUJ063 Huehuetla
 
-HGOHUJ064 Ixcatépec
+HGOHUJ064 Huejutla de Reyes (Cabecera)
 
-HGOHUJ065 Ixcatlán
+HGOHUJ065 Hueynali
 
-HGOHUJ066 Ixcuicuila
+HGOHUJ066 Huitzacháhuatl
 
-HGOHUJ067 Ixtlahuac
+HGOHUJ067 Huitzquilititla
 
-HGOHUJ068 La Candelaria
+HGOHUJ068 Humotitla Candelaria
 
-HGOHUJ069 La Corrala
+HGOHUJ069 Humotitla Coyuco
 
-HGOHUJ070 La Cruz de Zocuiteco
+HGOHUJ070 Ixcatépec
 
-HGOHUJ071 La Curva Tlaltzintla
+HGOHUJ071 Ixcatlán
 
-HGOHUJ072 La Mesa de Axcaco
+HGOHUJ072 Ixcuicuila
 
-HGOHUJ073 La Mesa de Limantitla
+HGOHUJ073 Ixtlahuac
 
-HGOHUJ074 La Pastora
+HGOHUJ074 La Candelaria
 
-HGOHUJ075 La Peña
+HGOHUJ075 La Corrala
 
-HGOHUJ076 Las Chacas
+HGOHUJ076 La Cruz de Zocuiteco
 
-HGOHUJ077 Las Chacas II
+HGOHUJ077 La Curva Tlaltzintla
 
-HGOHUJ078 Lemontitla
+HGOHUJ078 La Esperanza
 
-HGOHUJ079 Los Horcones
+HGOHUJ079 La Mesa de Axcaco
 
-HGOHUJ080 Los Otates
+HGOHUJ090 La Mesa de Limantitla
 
-HGOHUJ081 Los Parajes
+HGOHUJ081 La Pastora
 
-HGOHUJ082 Los Parajes Benito Juárez
+HGOHUJ082 La Peña
 
-HGOHUJ083 Machetla
+HGOHUJ083 Las Chacas
 
-HGOHUJ084 Machetla II
+HGOHUJ084 Las Chacas II
 
-HGOHUJ085 Macuxtepetla
+HGOHUJ085 Lemontitla
 
-HGOHUJ086 Ojtlamekayo
+HGOHUJ086 Los Horcones
 
-HGOHUJ087 Oxtomal I
+HGOHUJ087 Los Otates
 
-HGOHUJ088 Oxtomal II
+HGOHUJ088 Los Parajes
 
-HGOHUJ089 Ozuluama
+HGOHUJ089 Los Parajes Benito Juárez
 
-HGOHUJ090 Pahuatlán
+HGOHUJ090 Machetla
 
-HGOHUJ091 Pahuatzintla
+HGOHUJ091 Machetla II
 
-HGOHUJ092 Palzoquiapa
+HGOHUJ092 Macuxtepetla
 
-HGOHUJ093 Palzoquico
+HGOHUJ093 Niños Héroes
 
-HGOHUJ094 Panacaxtlán
+HGOHUJ094 Ojtlamekayo
 
-HGOHUJ095 Pochotitla
+HGOHUJ095 Oxale
 
-HGOHUJ096 Poxtla Coacuilco
+HGOHUJ096 Oxtomal I
 
-HGOHUJ097 Poxtla Ixcatlán
+HGOHUJ097 Oxtomal II
 
-HGOHUJ098 Rancho Nuevo
+HGOHUJ098 Ozuluama
 
-HGOHUJ099 Rancho Nuevo Macuxtepetla
+HGOHUJ099 Pahuatlán
 
-HGOHUJ100 Rancho Viejo
+HGOHUJ100 Pahuatzintla
 
-HGOHUJ101 San Antonio
+HGOHUJ101 Palzoquiapa
 
-HGOHUJ102 Santa Catarina
+HGOHUJ102 Palzoquico
 
-HGOHUJ103 Santa Cruz
+HGOHUJ103 Panacaxtlán
 
-HGOHUJ104 Santa María
+HGOHUJ104 Parque de Poblamiento Solidaridad
 
-HGOHUJ105 Sitlán
+HGOHUJ105 Pitzontzintla
 
-HGOHUJ106 Tacuatitla
+HGOHUJ106 Pochotitla
 
-HGOHUJ107 Talnepantipa
+HGOHUJ107 Poxtla Coacuilco
 
-HGOHUJ108 Tamalcuatitla
+HGOHUJ108 Poxtla Ixcatlán
 
-HGOHUJ109 Tancha
+HGOHUJ109 Ranc Nuevo
 
-HGOHUJ110 Teacal
+HGOHUJ110 Rancho Nuevo Macuxtepetla
 
-HGOHUJ111 Tehuetlán
+HGOHUJ111 Rancho Viejo
 
-HGOHUJ112 Temaxcaltitla
+HGOHUJ112 Renacimiento Tlalpani
 
-HGOHUJ113 Tepeíca
+HGOHUJ113 San Antonio
 
-HGOHUJ114 Tepemalintla
+HGOHUJ114 San José
 
-HGOHUJ115 Tepemaxac
+HGOHUJ115 Santa Catarina
 
-HGOHUJ116 Tepeolol
+HGOHUJ116 Santa Cruz
 
-HGOHUJ117 Tepetate
+HGOHUJ117 Santa María
 
-HGOHUJ118 Tepexititla
+HGOHUJ118 Santa Martha
 
-HGOHUJ119 Tepeyacapa
+HGOHUJ119 Sitlán
 
-HGOHUJ120 Terrero
+HGOHUJ120 Tacuatitla
 
-HGOHUJ121 Terrero Abajo
+HGOHUJ121 Talnepantipa
 
-HGOHUJ122 Tetzacual
+HGOHUJ122 Tamalcuatitla
 
-HGOHUJ123 Tetzahapa
+HGOHUJ123 Tancha
 
-HGOHUJ124 Tezóhual
+HGOHUJ124 Teacal
 
-HGOHUJ125 Tiocuatitla
+HGOHUJ125 Tehuetlán
 
-HGOHUJ126 Tlalnepanco
+HGOHUJ126 Temaxcaltitla
 
-HGOHUJ127 Tlamaya Tepeíca
+HGOHUJ127 Tepeíca
 
-HGOHUJ128 Tulaxtitla
+HGOHUJ128 Tepemalintla
 
-HGOHUJ129 Xiloco
+HGOHUJ129 Tepemaxac
 
-HGOHUJ130 Xionaxtla
+HGOHUJ130 Tepeolol
 
-HGOHUJ131 Xiquila
+HGOHUJ131 Tepetate
 
-HGOHUJ132 Xochititla
+HGOHUJ132 Tepexititla
 
-HGOHUJ133 Xochitzintla
+HGOHUJ133 Tepeyacapa
 
-HGOHUJ134 Xocotitla
+HGOHUJ134 Terrero
 
-HGOHUJ135 Zacapetlayo
+HGOHUJ135 Terrero Abajo
 
-HGOHUJ136 Zacayahual
+HGOHUJ136 Tetzacual
 
-HGOHUJ137 Zapotitla
+HGOHUJ137 Tetzahapa
 
-HGOHUJ138 Zapotitla Chililico
+HGOHUJ138 Tezóhual
 
-HGOHUJ139 Zocuiteco Benito Juárez
+HGOHUJ139 Tiocuatitla
 
-HGOHUJ140 Zohuala
+HGOHUJ140 Tlalnepanco
+
+HGOHUJ141 Tlaltzintla
+
+HGOHUJ142 Tlamaya Tepeíca
+
+HGOHUJ143 Tulaxtitla
+
+HGOHUJ144 Xiloco
+
+HGOHUJ145 Xionaxtla
+
+HGOHUJ146 Xiquila
+
+HGOHUJ147 Xochititla
+
+HGOHUJ148 Xochitzintla
+
+HGOHUJ149 Xocotitla
+
+HGOHUJ150 Zacapetlayo
+
+HGOHUJ151 Zacayahual
+
+HGOHUJ152 Zapotitla
+
+HGOHUJ153 Zapotitla Chililico
+
+HGOHUJ154 Zocuiteco Benito Juárez
+
+HGOHUJ155 Zohuala
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XI Bis. Huichapan
+
+CLAVE COMUNIDAD
+
+HGOHUI001 Bondojito.
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 XII. Ixmiquilpan
 
@@ -941,213 +1125,273 @@ CLAVE COMUNIDAD
 
 HGOIXM001 Agua Florida
 
-HGOIXM002 Arenalito
+HGOIXM002 Arbolado
 
-HGOIXM003 Bangandhó
+HGOIXM003 Arenalito
 
-HGOIXM004 Botenguedho
+HGOIXM004 Bangandhó
 
-HGOIXM005 Boxhuada
+HGOIXM005 Barrio los Martínez
 
-HGOIXM006 Cantinela
+HGOIXM006 Botenguedho
 
-HGOIXM007 Cañada Chica
+HGOIXM007 Boxhuada
 
-HGOIXM008 Capula
+HGOIXM008 Cantamaye
 
-HGOIXM009 Cerrito Capula
+HGOIXM009 Cantinela
 
-HGOIXM010 Cerritos
+HGOIXM010 Cañada Chica
 
-HGOIXM011 Cerro Blanco
+HGOIXM011 Capula
 
-HGOIXM012 Chalmita
+HGOIXM012 Cerrito Capula
 
-HGOIXM013 Colonia del Valle Remedios
+HGOIXM013 Cerritos
 
-HGOIXM014 Colonia El Mirador
+HGOIXM014 Cerro Blanco
 
-HGOIXM015 Colonia General Felipe Ángeles
+HGOIXM015 Chalmita
 
-HGOIXM016 Colonia Independencia
+HGOIXM016 Colonia del Valle Remedios
 
-HGOIXM017 Colonia Lázaro Cárdenas (El Internado)
+HGOIXM017 Colonia El Mirador
 
-HGOIXM018 Cuesta Colorada
+HGOIXM018 Colonia General Felipe Ángeles
 
-HGOIXM019 Dios Padre
+HGOIXM019 Colonia Independencia
 
-HGOIXM020 El Alberto
+HGOIXM020 Colonia la Joya
 
-HGOIXM021 El Banxu
+HGOIXM021 Colonia la Libertad
 
-HGOIXM022 El Barrido
+HGOIXM022 Colonia Lázaro Cárdenas (El Internado)
 
-HGOIXM023 El Boye
+HGOIXM023 Colonia Samayoa
 
-HGOIXM024 El Carrizal
+HGOIXM024 Cuesta Colorada
 
-HGOIXM025 El Deca
+HGOIXM025 Dios Padre
 
-HGOIXM026 El Defay
+HGOIXM026 El Álamo
 
-HGOIXM027 El Dexthi Alberto
+HGOIXM027 El Alberto
 
-HGOIXM028 El Dexthi San Juanico
+HGOIXM028 El Banxu
 
-HGOIXM029 El Dextho
+HGOIXM029 El Barrido
 
-HGOIXM030 El Durazno
+HGOIXM030 El Bojay
 
-HGOIXM031 El Espino
+HGOIXM031 El Botho
 
-HGOIXM032 El Espíritu
+HGOIXM032 El Boye
 
-HGOIXM033 El Gundho
+HGOIXM033 El Carrizal
 
-HGOIXM034 El Huacri
+HGOIXM034 El Deca
 
-HGOIXM035 El Manantial
+HGOIXM035 El Defay
 
-HGOIXM036 El Mandho
+HGOIXM036 El Dexthi Alberto
 
-HGOIXM037 El Nith
+HGOIXM037 El Dexthi San Juanico
 
-HGOIXM038 El Nogal
+HGOIXM038 El Dextho
 
-HGOIXM039 El Olivo
+HGOIXM039 El Dezha
 
-HGOIXM040 El Puerto de Bangandhó
+HGOIXM040 El Durazno
 
-HGOIXM041 El Rosario Capula
+HGOIXM041 El Espino
 
-HGOIXM042 El Tablón
+HGOIXM042 El Espíritu
 
-HGOIXM043 El Tephe
+HGOIXM043 El Gundho
 
-HGOIXM044 El Valante
+HGOIXM044 El Huacri
 
-HGOIXM045 Ex-Hacienda de Ocotza
+HGOIXM045 El Manantial
 
-HGOIXM046 Ex-Hacienda Debodhe
+HGOIXM046 El Mandho
 
-HGOIXM047 Granaditas
+HGOIXM047 El Meje
 
-HGOIXM048 Ignacio López Rayón
+HGOIXM048 El Nandho
 
-HGOIXM049 Ixmiquilpan (Cabecera)
+HGOIXM049 El Nith
 
-HGOIXM050 Jahuey Capula
+HGOIXM050 El Nogal
 
-HGOIXM051 Julián Villagrán
+HGOIXM051 El Olivo
 
-HGOIXM052 La Estación
+HGOIXM052 El Puerto de Bangandhó
 
-HGOIXM053 La Heredad
+HGOIXM053 El Rosario Capula
 
-HGOIXM054 La Huerta Capula
+HGOIXM054 El Tablón
 
-HGOIXM055 La Lagunita
+HGOIXM055 El Tephe
 
-HGOIXM056 La Loma (La Loma López Rayón)
+HGOIXM056 El Valante
 
-HGOIXM057 La Loma de La Cruz
+HGOIXM057 Ex-Hacienda de Ocotza
 
-HGOIXM058 La Loma de Pueblo Nuevo
+HGOIXM058 Ex-Hacienda Debodhe
 
-HGOIXM059 La Loma Julián Villagrán
+HGOIXM059 Felipe Ángeles Julián de Villagrán
 
-HGOIXM060 La Palma
+HGOIXM060 Granaditas
 
-HGOIXM061 La Pechuga
+HGOIXM061 Huacri de la paz
 
-HGOIXM062 López Flores
+HGOIXM062 Ignacio López Rayón
 
-HGOIXM063 Los Pinos
+HGOIXM063 Ixmiquilpan (Cabecera)
 
-HGOIXM064 Los Remedios
+HGOIXM064 Jahuey Capula
 
-HGOIXM065 Maguey Blanco
+HGOIXM065 Julián Villagrán
 
-HGOIXM066 Manzana Cerritos
+HGOIXM066 La Estación
 
-HGOIXM067 Naxthéy
+HGOIXM067 La Heredad
 
-HGOIXM068 Nequeteje
+HGOIXM068 La Huerta Capula
 
-HGOIXM069 Orizabita
+HGOIXM069 La Lagunita
 
-HGOIXM070 Panales
+HGOIXM070 La Loma (La Loma López Rayón)
 
-HGOIXM071 Pozo El Mirador
+HGOIXM071 La Loma de La Cruz
 
-HGOIXM072 Pueblo Nuevo
+HGOIXM072 La Loma de Pueblo Nuevo
 
-HGOIXM073 Puerto Dexthi
+HGOIXM073 La Loma Julián Villagrán
 
-HGOIXM074 Quixpedhe
+HGOIXM074 La Mesa López Rayón
 
-HGOIXM075 San Andrés Orizabita
+HGOIXM075 La Palma
 
-HGOIXM076 San Juanico
+HGOIXM076 La Pechuga
 
-HGOIXM077 San Pedro Capula
+HGOIXM077 Las Emes
 
-HGOIXM078 Santa Ana (Barrio De Progreso)
+HGOIXM078 Loma de San Pedro de Remedios
 
-HGOIXM079 Taxadho
+HGOIXM079 López Flores
 
-HGOIXM080 Taxthó
+HGOIXM090 Los Pinos
 
-HGOIXM081 Ustheje
+HGOIXM081 Los Remedios
 
-HGOIXM082 Vázquez
+HGOIXM082 Maguey Blanco
 
-HGOIXM083 Villa de la Paz
+HGOIXM083 Manzana Cerritos
 
-HGOIXM084 Vista Hermosa
+HGOIXM084 Naxthéy
+
+HGOIXM085 Nequeteje
+
+HGOIXM086 Ojuelos
+
+HGOIXM087 Orizabita
+
+HGOIXM088 Panales
+
+HGOIXM089 Pozo El Mirador
+
+HGOIXM090 Pueblo Nuevo
+
+HGOIXM091 Puerto Dexthi
+
+HGOIXM092 Quixpedhe
+
+HGOIXM093 San Andrés Orizabita
+
+HGOIXM094 San Juanico
+
+HGOIXM095 San Pedro Capula
+
+HGOIXM096 Santa Ana (Barrio De Progreso)
+
+HGOIXM097 Taxadho
+
+HGOIXM098 Taxthó
+
+HGOIXM099 Ustheje
+
+HGOIXM100 Vázquez
+
+HGOIXM101 Villa de la Paz
+
+HGOIXM102 Vista Hermosa
+
+HGOIXM103 Xaxny
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 XIII. Jaltocán
 
 CLAVE COMUNIDAD
 
-HGOJAL001 Ahuayo
+HGOJAL001 Aguacatitla
 
-HGOJAL002 Amáxac I
+HGOJAL002 Ahuayo
 
-HGOJAL003 Amáxac II
+HGOJAL003 Amáxac I
 
-HGOJAL004 Anacleto Ramos
+HGOJAL004 Amáxac II
 
-HGOJAL005 Chiconcoac
+HGOJAL005 Anacleto Ramos
 
-HGOJAL006 Cuatecomaco
+HGOJAL006 Chiconcoac
 
-HGOJAL007 Cuatzatzas
+HGOJAL007 Cuatecomaco
 
-HGOJAL008 El Chote
+HGOJAL008 Cuatzatzas
 
-HGOJAL009 Huichapa
+HGOJAL009 El Chote
 
-HGOJAL010 Jaltocán (Cabecera)
+HGOJAL010 Emilio Zapata
 
-HGOJAL011 La Capilla
+HGOJAL011 Huichapa
 
-HGOJAL012 La Ilusión
+HGOJAL012 Jaltocán (Cabecera)
 
-HGOJAL013 Matachilillo
+HGOJAL013 La Capilla
 
-HGOJAL014 Octatitla
+HGOJAL014 La Ilusión
 
-HGOJAL015 Potrero Zactipán
+HGOJAL015 Matachilillo
 
-HGOJAL016 Revolución Mexicana
+HGOJAL016 Octatitla
 
-HGOJAL017 Tepexicuicuil
+HGOJAL017 Petacotitla
 
-HGOJAL018 Tzinancatitla
+HGOJAL018 Potrero Zactipán
 
-HGOJAL019 Vinazco
+HGOJAL019 Revolución Mexicana
+
+HGOJAL020 Tepexicuicuil
+
+HGOJAL021 Tzinancatitla
+
+HGOJAL022 Vinazco
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XIII Bis. Juárez Hidalgo
+
+CLAVE COMUNIDAD
+
+HGOJUH001 San Nicolás Coatzontla
+
+HGOJUH002 San Lorenzo Itztacoyotla
+
+HGOJUH003 Juárez Hidalgo
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 XIV. Lolotla
 
@@ -1155,17 +1399,31 @@ CLAVE COMUNIDAD
 
 HGOLOL001 Chantasco
 
-HGOLOL002 El Barco
+HGOLOL002 Cuatitlanapa
 
-HGOLOL003 La Florida
+HGOLOL003 El Barco
 
-HGOLOL004 Tentla (Cerro Blanco)
+HGOLOL004 La Florida
 
-HGOLOL005 Xalcuatla
+HGOLOL005 Tentla (Cerro Blanco)
 
-HGOLOL006 Xuchipantla
+HGOLOL006 Xalcuatla
 
-HGOLOL007 Xuchitlan
+HGOLOL007 Xuchipantla
+
+HGOLOL008 Xuchitlan
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XIV Bis. Metepec
+
+CLAVE COMUNIDAD
+
+HGOMET001 Acocul Cebolletas
+
+HGOMET002 Palo Gordo (Ejido Nopalillo)
+
+HGOMET003 El Acocul
 
 XV. Metztitlán
 
@@ -1214,6 +1472,32 @@ HGOMET020 Tlamaya
 HGOMET021 Tlaxco
 
 HGOMET022 Yerbabuena
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XV Bis. Mixquiahuala
+
+CLAVE COMUNIDAD
+
+HGOMIX001 Hacienda Vieja
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XV Ter. Molango de Escamilla
+
+CLAVE COMUNIDAD
+
+HGOMOL001 Cuxhuacan
+
+HGOMOL002 Ixcuicuila
+
+HGOMOL003 Tlatzintla
+
+HGOMOL004 Temacuil
+
+HGOMOL005 Barrio Tlalaquia
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 XVI. Nicolás Flores
 
@@ -1265,9 +1549,53 @@ HGONIF022 Texcadho
 
 HGONIF023 Villa Hermosa
 
-HGONIF024 Yudho
+HGONIF024 Villa Juárez
 
-HGONIF025 Zoyatal
+HGONIF025 Yudho
+
+HGONIF026 Zoyatal
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XVI Bis. Pachuca de Soto
+
+CLAVE COMUNIDAD
+
+HGOPAS001 Camelia (Barrio la Camelia)
+
+HGOPAS002 Margarita Morán Véliz [Colonia]
+
+HGOPAS003 Coronas
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XVI Ter. Pacula
+
+CLAVE COMUNIDAD
+
+HGOPAC001 San Francisco
+
+HGOPAC002 Mixquiahuales
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XVI Quater. Progreso de Obregón
+
+CLAVE COMUNIDAD
+
+HGOPRO001 El Jardín [Colonia]
+
+HGOPRO002 El Moreno
+
+HGOPRO003 El Dho
+
+HGOPRO004 Xochitlán
+
+HGOPRO005 La Ranchería
+
+HGOPRO006 El Donijha
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 XVII. San Bartolo Tutotepec
 
@@ -1281,81 +1609,85 @@ HGOSBT003 Cerro Verde
 
 HGOSBT004 Chicamole
 
-HGOSBT005 El Banco
+HGOSBT005 Colinia Industrial 52
 
-HGOSBT006 El Barrio de San Mateo
+HGOSBT006 El Banco
 
-HGOSBT007 El Canjoy (Casas Quemadas)
+HGOSBT007 El Barrio de San Mateo
 
-HGOSBT008 El Copal
+HGOSBT008 El Canjoy (Casas Quemadas)
 
-HGOSBT009 El Jovión
+HGOSBT009 El Copal
 
-HGOSBT010 El Mavodo
+HGOSBT010 El Jovión
 
-HGOSBT011 El Mundhó
+HGOSBT011 El Mavodo
 
-HGOSBT012 El Nandho
+HGOSBT012 El Mundhó
 
-HGOSBT013 El Nenjo
+HGOSBT013 El Nandho
 
-HGOSBT014 El Pedregal
+HGOSBT014 El Nenjo
 
-HGOSBT015 El Veinte
+HGOSBT015 El Pedregal
 
-HGOSBT016 El Xúchitl
+HGOSBT016 El Veinte
 
-HGOSBT017 El Zenthe
+HGOSBT017 El Xúchitl
 
-HGOSBT018 Huasquilla
+HGOSBT018 El Zenthe
 
-HGOSBT019 La Cumbre de la Campana
+HGOSBT019 Huasquilla
 
-HGOSBT020 La Huahua
+HGOSBT020 La Cumbre de la Campana
 
-HGOSBT021 La Joya
+HGOSBT021 La Huahua
 
-HGOSBT022 La Venta
+HGOSBT022 La Joya
 
-HGOSBT023 La Vereda
+HGOSBT023 La Venta
 
-HGOSBT024 Los Manantiales
+HGOSBT024 La Vereda
 
-HGOSBT025 Palo Gordo
+HGOSBT025 Los Manantiales
 
-HGOSBT026 Pie Del Cerro
+HGOSBT026 Palo Gordo
 
-HGOSBT027 Piedra Ancha
+HGOSBT027 Pie Del Cerro
 
-HGOSBT028 Pueblo Nuevo
+HGOSBT028 Piedra Ancha
 
-HGOSBT029 Rancho Nuevo
+HGOSBT029 Pueblo Nuevo
 
-HGOSBT030 Río Chiquito
+HGOSBT030 Rancho Nuevo
 
-HGOSBT031 San Andrés
+HGOSBT031 Río Chiquito
 
-HGOSBT032 San Bartolo Tutotepec (Cabecera)
+HGOSBT032 San Andrés
 
-HGOSBT033 San Jerónimo
+HGOSBT033 San Bartolo Tutotepec (Cabecera)
 
-HGOSBT034 San Juan de las Flores
+HGOSBT034 San Jerónimo
 
-HGOSBT035 San Mateo
+HGOSBT035 San Juan de las Flores
 
-HGOSBT036 San Miguel
+HGOSBT036 San Mateo
 
-HGOSBT037 San Sebastián
+HGOSBT037 San Miguel
 
-HGOSBT038 Tenantitlán
+HGOSBT038 San Sebastián
 
-HGOSBT039 Tierra Fuerte
+HGOSBT039 Tenantitlán
 
-HGOSBT040 Tutotepec
+HGOSBT040 Tierra Fuerte
 
-HGOSBT041 Valle Verde (Rancho Viejo)
+HGOSBT041 Tutotepec
 
-HGOSBT042 Xuchitlán
+HGOSBT042 Valle Verde (Rancho Viejo)
+
+HGOSBT043 Xuchitlán
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 XVIII. San Felipe Orizatlán
 
@@ -1363,245 +1695,267 @@ CLAVE COMUNIDAD
 
 HGOSFO001 Ahuaixpa
 
-HGOSFO002 Ahuatitla
+HGOSFO002 Ahuatempa
 
-HGOSFO003 Ahuehuetitla
+HGOSFO003 Ahuatitla
 
-HGOSFO004 Apaxtzintla
+HGOSFO004 Ahuehuetitla
 
-HGOSFO005 Arroyo de Cal
+HGOSFO005 Apaxtzintla
 
-HGOSFO006 Barrio Prolongación 20 de Noviembre
+HGOSFO006 Arroyo de Cal
 
-HGOSFO007 Cececamel
+HGOSFO007 Barrio Prolongación 20 de Noviembre
 
-HGOSFO008 Chancuetlán
+HGOSFO008 Buenos Aires
 
-HGOSFO009 Coaxocotitla II
+HGOSFO009 Cececamel
 
-HGOSFO010 Colonia el Pedregal
+HGOSFO010 Chancuetlán
 
-HGOSFO011 Cuamecaco
+HGOSFO011 Coaxocotitla II
 
-HGOSFO012 El Brasilar
+HGOSFO012 Colonia el Pedregal
 
-HGOSFO013 El Carrizal
+HGOSFO013 Cuamecaco
 
-HGOSFO014 El Cerro
+HGOSFO014 Ejido 3 de marzo.
 
-HGOSFO015 El Llano
+HGOSFO015 El Brasilar
 
-HGOSFO016 El Manantial
+HGOSFO016 El Carrizal
 
-HGOSFO017 El Naranjal
+HGOSFO017 El Cerro
 
-HGOSFO018 El Potrero
+HGOSFO018 El Encinal
 
-HGOSFO019 El Saucillo
+HGOSFO019 El Llano
 
-HGOSFO020 El Zapotal
+HGOSFO020 El Manantial
 
-HGOSFO021 Huextetitla
+HGOSFO021 El Naranjal
 
-HGOSFO022 Huextetitla Bienes Comunales
+HGOSFO022 El Potrero
 
-HGOSFO023 Hueytlale
+HGOSFO023 El Saucillo
 
-HGOSFO024 Huichintla
+HGOSFO024 El Zapotal
 
-HGOSFO025 Huitzilinguito
+HGOSFO025 Huextetitla
 
-HGOSFO026 Huitzitzilingo
+HGOSFO026 Huextetitla Bienes Comunales
 
-HGOSFO027 La Cruz
+HGOSFO027 Hueytlale
 
-HGOSFO028 La Labor I
+HGOSFO028 Huichintla
 
-HGOSFO029 La Laguna
+HGOSFO029 Huitzilinguito
 
-HGOSFO030 La Laja
+HGOSFO030 Huitzitzilingo
 
-HGOSFO031 La Mariana
+HGOSFO031 La Cruz
 
-HGOSFO032 La Mesa de Cuatolol
+HGOSFO032 La Labor I
 
-HGOSFO033 La Pitajaya
+HGOSFO033 La Laguna
 
-HGOSFO034 Las Chacas
+HGOSFO034 La Laja
 
-HGOSFO035 Las Piedras (Micrópolis Ecológica las Piedras)
+HGOSFO035 La Mariana
 
-HGOSFO036 Lomas Altas
+HGOSFO036 La Mesa de Cuatolol
 
-HGOSFO037 Los Altos de San Pedro
+HGOSFO037 La Pitajaya
 
-HGOSFO038 Los Coyoles
+HGOSFO038 Las Chacas
 
-HGOSFO039 Los Humos
+HGOSFO039 Las Piedras (Micrópolis Ecológica las Piedras)
 
-HGOSFO040 Los Jobos
+HGOSFO040 Licenciado José López Portillo
 
-HGOSFO041 Los Sabinos
+HGOSFO041 Lomas Altas
 
-HGOSFO042 Maxcarillo
+HGOSFO042 Los Altos de San Pedro
 
-HGOSFO043 Mazaquilico
+HGOSFO043 Los Coyoles
 
-HGOSFO044 Melchor Ocampo
+HGOSFO044 Los Humos
 
-HGOSFO045 Monte Grande
+HGOSFO045 Los Jobos
 
-HGOSFO046 Nueva Tenochtitlán
+HGOSFO046 Los Sabinos
 
-HGOSFO047 Orizatlan
+HGOSFO047 Maxcarillo
 
-HGOSFO048 Palma Sola
+HGOSFO048 Mazaquilico
 
-HGOSFO049 Petlácatl Comunal
+HGOSFO049 Melchor Ocampo
 
-HGOSFO050 Petlácatl Ejido
+HGOSFO050 Monte Grande
 
-HGOSFO051 Piedra Hincada
+HGOSFO051 Nueva Tenochtitlán
 
-HGOSFO052 Pilcapilla
+HGOSFO052 Orizatlan
 
-HGOSFO053 Pochotitla
+HGOSFO053 Palma Sola
 
-HGOSFO054 Potejámel
+HGOSFO054 Petlácatl Comunal
 
-HGOSFO055 Santa Ana
+HGOSFO055 Petlácatl Ejido
 
-HGOSFO056 Santa Rosa Tetlama
+HGOSFO056 Piedra Hincada
 
-HGOSFO057 Santo Domingo
+HGOSFO057 Pilcapilla
 
-HGOSFO058 Talapitz I
+HGOSFO058 Pochotitla
 
-HGOSFO059 Talapitz II
+HGOSFO059 Potejámel
 
-HGOSFO060 Talol
+HGOSFO060 Quinta Delicias
 
-HGOSFO061 Tamalcuatitla
+HGOSFO061 Santa Ana
 
-HGOSFO062 Tatacuatitla
+HGOSFO062 Santa Rosa Tetlama
 
-HGOSFO063 Taxiscoatitla
+HGOSFO063 Santo Domingo
 
-HGOSFO064 Teoxtitla
+HGOSFO064 Talapitz I
 
-HGOSFO065 Tepantitla
+HGOSFO065 Talapitz II
 
-HGOSFO066 Tepetzintla I
+HGOSFO066 Talol
 
-HGOSFO067 Tepetzintla II
+HGOSFO067 Tamalcuatitla
 
-HGOSFO068 Tequexquilico
+HGOSFO068 Tatacuatitla
 
-HGOSFO069 Tetlama Grande
+HGOSFO069 Taxiscoatitla
 
-HGOSFO070 Tetzácual
+HGOSFO070 Teoxtitla
 
-HGOSFO071 Texcatla
+HGOSFO071 Tepantitla
 
-HGOSFO072 Totonicapa
+HGOSFO072 Tepetzintla I
 
-HGOSFO073 Tultitlán
+HGOSFO073 Tepetzintla II
 
-HGOSFO074 Tzapoyo I
+HGOSFO074 Tequexquilico
 
-HGOSFO075 Tzapoyo II
+HGOSFO075 Tetlama Grande
 
-HGOSFO076 Valle Verde
+HGOSFO076 Tetzácual
 
-HGOSFO077 Xalamatitla
+HGOSFO077 Texcatla
 
-HGOSFO078 Zacapilol
+HGOSFO078 Totonicapa
 
-HGOSFO079 Zacayahual
+HGOSFO079 Tultitlán
 
-HGOSFO080 Zapote Abajo
+HGOSFO090 Tzapoyo I
 
-HGOSFO081 Zapote Arriba
+HGOSFO081 Tzapoyo II
+
+HGOSFO082 Valle Verde
+
+HGOSFO083 Xalamatitla
+
+HGOSFO084 Zacapilol
+
+HGOSFO085 Zacayahual
+
+HGOSFO086 Zapote Abajo
+
+HGOSFO087 Zapote Arriba
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 XIX. San Salvador
 
 CLAVE COMUNIDAD
 
-HGOSSL001 Bominthza
+HGOSSL001 Bocaja
 
-HGOSSL002 Boxaxni
+HGOSSL002 Bominthza
 
-HGOSSL003 Bóxtha Chico
+HGOSSL003 Boxaxni
 
-HGOSSL004 Cañada Grande
+HGOSSL004 Bóxtha Chico
 
-HGOSSL005 Casa Blanca
+HGOSSL005 Cañada Grande
 
-HGOSSL006 Casa Grande
+HGOSSL006 Casa Blanca
 
-HGOSSL007 Caxuxi
+HGOSSL007 Casa Grande
 
-HGOSSL008 Cerro Blanco
+HGOSSL008 Caxuxi
 
-HGOSSL009 Chichimecas
+HGOSSL009 Cerro Blanco
 
-HGOSSL010 Demacú
+HGOSSL010 Chichimecas
 
-HGOSSL011 Dengandhó de Juárez
+HGOSSL011 Demacú
 
-HGOSSL012 Déxtho de Victoria
+HGOSSL012 Dengandhó de Juárez
 
-HGOSSL013 El Bondho
+HGOSSL013 Déxtho de Victoria
 
-HGOSSL014 El Durazno
+HGOSSL014 El Bondho
 
-HGOSSL015 El Fresno
+HGOSSL015 El Cerrito
 
-HGOSSL016 El Gómez
+HGOSSL016 El Durazno
 
-HGOSSL017 El Mezquital
+HGOSSL017 El Fresno
 
-HGOSSL018 El Mothe
+HGOSSL018 El Gómez
 
-HGOSSL019 El Olvera
+HGOSSL019 El Mezquital
 
-HGOSSL020 El Puerto Lázaro Cárdenas
+HGOSSL020 El Mothe
 
-HGOSSL021 El Rodrigo
+HGOSSL021 El Olvera
 
-HGOSSL022 Francisco Villa
+HGOSSL022 El Puerto Lázaro Cárdenas
 
-HGOSSL023 La Flor
+HGOSSL023 El Quemtha
 
-HGOSSL024 La Palma
+HGOSSL024 El Rodrigo
 
-HGOSSL025 Lagunilla
+HGOSSL025 El Tablón
 
-HGOSSL026 Pacheco Leandro Valle
+HGOSSL026 Francisco Villa
 
-HGOSSL027 Pacheco de Allende
+HGOSSL027 La Flor
 
-HGOSSL028 Poxindeje de Morelos
+HGOSSL028 La Palma
 
-HGOSSL029 Rincón Santa María
+HGOSSL029 Lagunilla
 
-HGOSSL030 San Antonio Abad
+HGOSSL030 Pacheco Leandro Valle
 
-HGOSSL031 San Antonio Zaragoza
+HGOSSL031 Pacheco de Allende
 
-HGOSSL032 San Miguel Acambay
+HGOSSL032 Poxindeje de Morelos
 
-HGOSSL033 San Salvador
+HGOSSL033 Rincón Santa María
 
-HGOSSL034 Santa María Amajac
+HGOSSL034 San Antonio Abad
 
-HGOSSL035 Tiofani
+HGOSSL035 San Antonio Zaragoza
 
-HGOSSL036 Tothie (Tothie de Rojo Gómez)
+HGOSSL036 San Miguel Acambay
 
-HGOSSL037 Vixtha de Madero
+HGOSSL037 San Salvador
 
-HGOSSL038 Xuchitlán
+HGOSSL038 Santa María Amajac
+
+HGOSSL039 Tiofani
+
+HGOSSL040 Tothie (Tothie de Rojo Gómez)
+
+HGOSSL041 Vixtha de Madero
+
+HGOSSL042 Xuchitlán
 
 XX. Santiago de Anaya
 
@@ -1648,6 +2002,24 @@ HGOSAA019 Xitzo
 HGOSAA020 Yolotepec
 
 HGOSAA021 Zaragoza
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XX Bis. Singuilucan
+
+CLAVE COMUNIDAD
+
+HGOSIN001 La Gloria
+
+HGOSIN002 Singuilucan
+
+HGOSIN003 Buenavista
+
+HGOSIN004 El Susto
+
+HGOSIN005 Las Palomas
+
+HGOSIN006 El Varal
 
 XXI. Tasquillo
 
@@ -1699,101 +2071,137 @@ HGOTAS022 Tasquillo (Cabecera)
 
 HGOTAS023 Tetzhú
 
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
 XXII. Tecozautla
 
 CLAVE COMUNIDAD
 
 HGOTEC001 Aljibes
 
-HGOTEC002 Bomanxotha
+HGOTEC002 Atengo
 
-HGOTEC003 Cuamxhi
+HGOTEC003 Bajhi
 
-HGOTEC012 Ranzha
+HGOTEC004 Bomanxotha
 
-HGOTEC004 El Paso
+HGOTEC005 Bothé
 
-HGOTEC005 Gandho
+HGOTEC006 Cuamxhi
 
-HGOTEC006 La Mesilla
+HGOTEC007 Dedho
 
-HGOTEC007 La Presa
+HGOTEC008 Ranzha
 
-HGOTEC008 Maguey Verde
+HGOTEC009 El Mercader
 
-HGOTEC009 Manguaní
+HGOTEC010 El Paso
 
-HGOTEC010 Ninthi
+HGOTEC011 Gandho
 
-HGOTEC011 Pañhé
+HGOTEC012 La Esquina
 
-HGOTEC013 Rancho Viejo
+HGOTEC013 La Mesilla
 
-HGOTEC014 San Francisco
+HGOTEC014 La Paila
 
-HGOTEC015 San Miguel Caltepantla
+HGOTEC015 La Presa
 
-HGOTEC016 San Pedro
+HGOTEC016 La Salitrera
 
-HGOTEC017 Tzidejhé
+HGOTEC017 Maguey Verde
 
-HGOTEC018 Yethay
+HGOTEC018 Manguaní
+
+HGOTEC019 Ninthi
+
+HGOTEC020 Pañhé
+
+HGOTEC021 Pared Blanca
+
+HGOTEC022 Rancho Viejo
+
+HGOTEC023 San Antonio
+
+HGOTEC024 San Francisco
+
+HGOTEC025 San Joaquín
+
+HGOTEC026 San Miguel Caltepantla
+
+HGOTEC027 San Pedro
+
+HGOTEC028 Tenzabhi
+
+HGOTEC029 Tzidejhé
+
+HGOTEC030 Yethay
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 XXIII. Tenango de Doria
 
 CLAVE COMUNIDAD
 
-HGOTED001 Cerro Chiquito (San Pedro Buenavista)
+HGOTED001 Barrio de San José
 
-HGOTED002 Colonia Ermita
+HGOTED002 Cerro Chiquito (San Pedro Buenavista)
 
-HGOTED003 Colonia San José
+HGOTED003 Colonia Ermita
 
-HGOTED004 Ejido Emiliano Zapata
+HGOTED004 Colonia San José
 
-HGOTED005 Ejido López Mateos (La Colonia)
+HGOTED005 Ejido Emiliano Zapata
 
-HGOTED006 El Aguacate (Pedregal)
+HGOTED006 Ejido López Mateos (La Colonia)
 
-HGOTED007 El Bopo
+HGOTED007 El Aguacate (Pedregal)
 
-HGOTED008 El Damo
+HGOTED008 El Bopo
 
-HGOTED009 El Nanthe
+HGOTED009 El Damo
 
-HGOTED010 El Temapa
+HGOTED010 El Gosco
 
-HGOTED011 El Xindhó
+HGOTED011 El Nanthe
 
-HGOTED012 Huasquilla
+HGOTED012 El Temapa
 
-HGOTED013 Los Ahilares
+HGOTED013 El Xindhó
 
-HGOTED014 Palisada
+HGOTED014 El Zetoy
 
-HGOTED015 Peña Blanca
+HGOTED015 Huasquilla
 
-HGOTED016 San Francisco Ixmiquilpan
+HGOTED016 Los Ahilares
 
-HGOTED017 San Francisco la Laguna
+HGOTED017 Palisada
 
-HGOTED018 San Isidro la Laguna
+HGOTED018 Peña Blanca
 
-HGOTED019 San Nicolás
+HGOTED019 San Francisco Ixmiquilpan
 
-HGOTED020 San Pablo el Grande
+HGOTED020 San Francisco la Laguna
 
-HGOTED021 Santa María Temaxcalapa
+HGOTED021 San Isidro la Laguna
 
-HGOTED022 Santa Mónica
+HGOTED022 San José del Valle
 
-HGOTED023 Tenango de Doria
+HGOTED023 San Nicolás
 
-HGOTED024 Tenexco
+HGOTED024 San Pablo el Grande
 
-HGOTED025 Texme
+HGOTED025 Santa María Temaxcalapa
 
-HGOTED026 Xaja
+HGOTED026 Santa Mónica
+
+HGOTED027 Tenango de Doria
+
+HGOTED028 Tenexco
+
+HGOTED029 Texme
+
+HGOTED030 Xaja
 
 XXIV. Tepehuacán de Guerrero
 
@@ -1875,6 +2283,16 @@ HGOTER001 Benito Juárez
 
 HGOTER002 San Ildefenso
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXV Bis. Tepetitlán
+
+CLAVE COMUNIDAD
+
+HGOTEP001 Pino Suárez
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
 XXVI. Tianguistengo
 
 CLAVE COMUNIDAD
@@ -1891,31 +2309,35 @@ HGOTIN005 Ixcotitlán
 
 HGOTIN006 Joquela
 
-HGOTIN007 Ojo De Agua
+HGOTIN007 Mazahuacán
 
-HGOTIN008 Pahuatitla
+HGOTIN008 Ojo De Agua
 
-HGOTIN009 Polintotla
+HGOTIN009 Pahuatitla
 
-HGOTIN010 San Miguel
+HGOTIN010 Polintotla
 
-HGOTIN011 Techimal
+HGOTIN011 San Miguel
 
-HGOTIN012 Tenexco
+HGOTIN012 Techimal
 
-HGOTIN013 Tlacohechac
+HGOTIN013 Tenexco
 
-HGOTIN014 Tlacolula
+HGOTIN014 Tlacohechac
 
-HGOTIN015 Tonchintlán
+HGOTIN015 Tlacolula
 
-HGOTIN016 Xalacahuantla
+HGOTIN016 Tonchintlán
 
-HGOTIN017 Xochimilco
+HGOTIN017 Xalacahuantla
 
-HGOTIN018 Yatipán
+HGOTIN018 Xochimilco
 
-HGOTIN019 Zacatipán
+HGOTIN019 Yatipán
+
+HGOTIN020 Zacatipán
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 XXVII. Tlanchinol
 
@@ -1931,93 +2353,109 @@ HGOTLN004 Amoxco
 
 HGOTLN005 Apantlazol
 
-HGOTLN006 Barrio Independencia
+HGOTLN006 Barrio Cuatempa
 
-HGOTLN007 Barrio Santa Cecilia
+HGOTLN007 Barrio Independencia
 
-HGOTLN008 Cerro Alto
+HGOTLN008 Barrio Nuevo
 
-HGOTLN009 Chalchocotipa
+HGOTLN009 Barrio Santa Cecilia
 
-HGOTLN010 Chichatla
+HGOTLN010 Barrio Xototla
 
-HGOTLN011 Chichiltépec
+HGOTLN011 Cerro Alto
 
-HGOTLN012 Chipoco
+HGOTLN012 Chalchocotipa
 
-HGOTLN013 Citlala
+HGOTLN013 Chichatla
 
-HGOTLN014 Coamapil
+HGOTLN014 Chichiltépec
 
-HGOTLN015 Comala
+HGOTLN015 Chipoco
 
-HGOTLN016 Cuatahuatla
+HGOTLN016 Citlala
 
-HGOTLN017 Cuatatlán
+HGOTLN017 Coamapil
 
-HGOTLN018 Cuatlapech
+HGOTLN018 Comala
 
-HGOTLN019 El Suspiro
+HGOTLN019 Cuatahuatla
 
-HGOTLN020 Hueyapa
+HGOTLN020 Cuatatlán
 
-HGOTLN021 Huitepec
+HGOTLN021 Cuatlapech
 
-HGOTLN022 Ixtlapala
+HGOTLN022 El Suspiro
 
-HGOTLN023 Jalpa
+HGOTLN023 Hueyapa
 
-HGOTLN024 Olotla
+HGOTLN024 Huitepec
 
-HGOTLN025 Pahuayo
+HGOTLN025 Ixtlapala
 
-HGOTLN026 Pilcuatla
+HGOTLN026 Jalpa
 
-HGOTLN027 Pitzotla
+HGOTLN027 Olotla
 
-HGOTLN028 Pueblo Hidalgo
+HGOTLN028 Pahuayo
 
-HGOTLN029 Quetzaltzongo
+HGOTLN029 Pilcuatla
 
-HGOTLN030 Quimixtla Hula
+HGOTLN030 Pitzotla
 
-HGOTLN031 Rancho Nuevo
+HGOTLN031 Pueblo Hidalgo
 
-HGOTLN032 San José
+HGOTLN032 Quetzaltzongo
 
-HGOTLN033 San Salvador
+HGOTLN033 Quimixtla Hula
 
-HGOTLN034 Santa Lucía
+HGOTLN034 Rancho Nuevo
 
-HGOTLN035 Santa María Catzotipan (Santa María Tepetzintla)
+HGOTLN035 San José
 
-HGOTLN036 Santa Martha Ula
+HGOTLN036 San Salvador
 
-HGOTLN037 Tecontla
+HGOTLN037 Santa Lucía
 
-HGOTLN038 Temango
+HGOTLN038 Santa María Catzotipan (Santa María Tepetzintla)
 
-HGOTLN039 Tenango
+HGOTLN039 Santa Martha Ula
 
-HGOTLN040 Tenexco
+HGOTLN040 Tecontla
 
-HGOTLN041 Tepeyac
+HGOTLN041 Temango
 
-HGOTLN042 Tianguis
+HGOTLN042 Tenango
 
-HGOTLN043 Tierra Colorada
+HGOTLN043 Tenexco
 
-HGOTLN044 Tlahuelongo
+HGOTLN044 Tepeyac
 
-HGOTLN045 TLANCHINOL (Cabecera)
+HGOTLN045 Tianguis
 
-HGOTLN046 Toctitlán
+HGOTLN046 Tierra Colorada
 
-HGOTLN047 Totonicapa
+HGOTLN047 Tlahuelongo
 
-HGOTLN048 Xaltipa
+HGOTLN048 Tlanchinol (Cabecera)
 
-HGOTLN049 Xhuchititla
+HGOTLN049 Toctitlán
+
+HGOTLN050 Totonicapa
+
+HGOTLN051 Xaltipa
+
+HGOTLN052 Xhuchititla
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXVII Bis. Tula
+
+CLAVE COMUNIDAD
+
+HGOTLA001 Bomintzha
+
+HGOTLA002 Santa María Macua
 
 XXVIII. Tulancingo
 
@@ -2046,6 +2484,8 @@ HGOTUL010 Santa Ana Hueytlalpan
 HGOTUL011 Sta. María Asunción
 
 HGOTUL012 Tepaltzingo
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 XXIX. Xochiatipan
 
@@ -2079,45 +2519,49 @@ HGOXOC013 Ixtaczoquico
 
 HGOXOC014 Ixtacuatitla
 
-HGOXOC015 Nanayatla
+HGOXOC015 Linda Vista
 
-HGOXOC016 Nuevo Acatepec (Mezcalapa)
+HGOXOC016 Nanayatla
 
-HGOXOC017 Nuevo Coyolar
+HGOXOC017 Nuevo Acatepec (Mezcalapa)
 
-HGOXOC018 Ohuatipa
+HGOXOC018 Nuevo Coyolar
 
-HGOXOC019 Pachiquitla
+HGOXOC019 Ohuatipa
 
-HGOXOC020 Pesmayo
+HGOXOC020 Pachiquitla
 
-HGOXOC021 Pocantla
+HGOXOC021 Pesmayo
 
-HGOXOC022 Pohuantitla
+HGOXOC022 Pocantla
 
-HGOXOC023 San Miguel
+HGOXOC023 Pohuantitla
 
-HGOXOC024 Santiago I
+HGOXOC024 San Miguel
 
-HGOXOC025 Santiago II
+HGOXOC025 Santiago I
 
-HGOXOC026 Tecopia
+HGOXOC026 Santiago II
 
-HGOXOC027 Tenexhueyac
+HGOXOC027 Tecopia
 
-HGOXOC028 Texoloc
+HGOXOC028 Tectzonquiliapa
 
-HGOXOC029 Tlaltecatla
+HGOXOC029 Tenexhueyac
 
-HGOXOC030 Xilico
+HGOXOC030 Texoloc
 
-HGOXOC031 Xochiatipan (Cabecera)
+HGOXOC031 Tlaltecatla
 
-HGOXOC032 Xóchitl
+HGOXOC032 Xilico
 
-HGOXOC033 Xocotitla
+HGOXOC033 Xochiatipan (Cabecera)
 
-HGOXOC034 Zacatlán
+HGOXOC034 Xóchitl
+
+HGOXOC035 Xocotitla
+
+HGOXOC036 Zacatlán
 
 XXX. Yahualica
 
@@ -2187,6 +2631,30 @@ HGOYAH031 Zacayahual
 
 HGOYAH032 Zoquitipán
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXX Bis. Zacualtipán de Ángeles
+
+CLAVE COMUNIDAD
+
+HGOZAC001 Ajayaca
+
+HGOZAC002 Jalapa
+
+HGOZAC003 Matlatlán
+
+HGOZAC004 Maxala
+
+HGOZAC005 Olotenco
+
+HGOZAC006 Papaxtla
+
+HGOZAC007 San Bernardo
+
+HGOZAC008 Xoluapa
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
 XXXI. Zimapán
 
 CLAVE COMUNIDAD
@@ -2197,61 +2665,89 @@ HGOZIM002 Barrón
 
 HGOZIM003 Benito Juárez (Detzani)
 
-HGOZIM004 Doxthi
+HGOZIM004 Coaxithi
 
-HGOZIM005 El Aguacatal
+HGOZIM005 Doxthi
 
-HGOZIM006 El Aguacatito
+HGOZIM006 Durango
 
-HGOZIM007 El Saucillo
+HGOZIM007 El Aguacatal
 
-HGOZIM008 Francisco I. Madero (Guadalupe)
+HGOZIM008 El Aguacatito
 
-HGOZIM009 Francisco Villa (Llano Segundo)
+HGOZIM009 El Cerrote
 
-HGOZIM010 Jaguey Colorado
+HGOZIM010 El Organal
 
-HGOZIM011 La Estanzuela
+HGOZIM011 El Palmar
 
-HGOZIM012 La Loma
+HGOZIM012 El Saucillo
 
-HGOZIM013 Las Adjuntas
+HGOZIM013 Encarnación
 
-HGOZIM014 Las Vegas
+HGOZIM014 Francisco I. Madero (Guadalupe)
 
-HGOZIM015 Lázaro Cárdenas (Los Remedios)
+HGOZIM015 Francisco Villa (Llano Segundo)
 
-HGOZIM016 Llanitos
+HGOZIM016 Jaguey Colorado
 
-HGOZIM017 Llano Segundo
+HGOZIM017 La Estanzuela
 
-HGOZIM018 Megüí
+HGOZIM018 La Loma
 
-HGOZIM019 Ponthiú
+HGOZIM019 La Sabina
 
-HGOZIM020 Puerto del Efe
+HGOZIM020 Las Adjuntas
 
-HGOZIM021 Puerto Juárez
+HGOZIM021 Las Piletas
 
-HGOZIM022 San Antonio (Cuahutémoc
+HGOZIM022 Las Vegas
 
-HGOZIM023 San Miguel Tetillas
+HGOZIM023 Lázaro Cárdenas (Los Remedios)
 
-HGOZIM024 Sóstenes Vega (Xithá Segundo Cedho)
+HGOZIM024 Llanitos
 
-HGOZIM025 Tinthé
+HGOZIM025 Llano Segundo
 
-HGOZIM026 Venustiano Carranza
+HGOZIM026 Megüí
 
-HGOZIM027 Vicente Guerrero (El Tablón)
+HGOZIM027 Mezquite Primero
 
-HGOZIM028 Xajhá
+HGOZIM028 Ponthiú
 
-HGOZIM029 Xhitá Primero
+HGOZIM029 Potreritos
 
-HGOZIM030 Xindhó Primero
+HGOZIM030 Puerto del Ángel
 
-HGOZIM031 Xodhe
+HGOZIM031 Puerto del Efe
+
+HGOZIM032 Puerto Juárez
+
+HGOZIM033 Puetzey
+
+HGOZIM034 San Antonio (Cuahutémoc
+
+HGOZIM035 San Miguel Tetillas
+
+HGOZIM036 Santa Rita
+
+HGOZIM037 Sóstenes Vega (Xithá Segundo Cedho)
+
+HGOZIM038 Tathi
+
+HGOZIM039 Tinthé
+
+HGOZIM040 Venustiano Carranza
+
+HGOZIM041 Vicente Guerrero (El Tablón)
+
+HGOZIM042 Xajhá
+
+HGOZIM043 Xhitá Primero
+
+HGOZIM044 Xindhó Primero
+
+HGOZIM045 Xodhe
 
 ###### Artículo 5.
 
@@ -3114,3 +3610,9 @@ PRIMERO. El presente Decreto entrará en vigor a los 180 días siguientes de su 
 SEGUNDO. El Gobierno del Estado de Hidalgo, por medio de la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas, contará con 180 días hábiles a partir de la publicación del presente decreto, para dar a conocer el Protocolo de Consulta Indígena para el Estado de Hidalgo.
 
 TERCERO. Los municipios con población indígena reconocida en la Ley de Derechos y Cultura Indígena para el Estado de Hidalgo, contarán con 180 días hábiles a partir de la publicación del presente decreto para dar a conocer el Protocolo de Consulta Indígena Municipal correspondiente.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 537 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 4 DE LA LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
