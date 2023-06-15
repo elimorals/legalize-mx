@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-economico-de-la-ciudad-de-mexico-100211"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-10"
-last_updated: "2022-05-27"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100211&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-04-08"
 
 LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de abril de 2014.
 
@@ -102,7 +102,9 @@ XVII. Promover, a través de programas y esquemas especiales, la continua y prog
 
 XVIII. Promover una cultura de la empresa, como organización fundamental de la actividad económica que debe ser protegida y potenciada por las disposiciones de esta Ley;
 
-XIX. Promover la cultura del emprendimiento;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XIX. Promover la cultura del emprendimiento, a través de acciones institucionales para favorecer la apertura del mercado para la promoción y comercialización de productos, bienes y servicios en la Ciudad de México. Así como generar las oportunidades de negocio para los emprendedores y micro empresarios;
 
 XX. Promover el desarrollo de proyectos estratégicos para la Ciudad de México, a través del apoyo gubernamental que permita reducir los costos de la actividad económica;
 
@@ -165,6 +167,10 @@ XIII. Desarrollo Económico: La construcción de las condiciones para que la Ciu
 > <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
 
 XIV. Economía social y solidaria: Tiene como objeto establecer mecanismos para fomentar el desarrollo, fortalecimiento y visibilidad de la actividad económica del Sector Social de la Economía, así como definir las reglas para la promoción, fomento y fortalecimiento del Sector Social de la Economía, como un sistema eficaz que contribuya al desarrollo social y económico.
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XIV Bis. Emprendimiento: Acción de una persona física o moral para iniciar un proceso, para crear o transformar un proyecto de negocio en actividad productiva y empresarial, mediante de (sic) la creación o mejora de un producto o servicio, a partir de una propuesta innovadora, creativa o busque atender un problema específico.
 
 XV. Estímulos: Los instrumentos jurídicos, administrativos, fiscales y financieros que se emiten para promover y facilitar el desarrollo de las actividades económicas sujetas a fomento;
 
@@ -470,6 +476,10 @@ V. Programas de las Alcaldías, los programas que destacan las vocaciones econó
 
 VI. Que la política económica observará, atenderá y respetará de manera invariable las libertades fundamentales y los derechos de los ciudadanos; tales como el derecho a la propiedad, el derecho al trabajo, el derecho al empleo y el bienestar de las personas.
 
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+Asimismo, la Secretaría promoverá el establecimiento de un Plan de Acción con las 16 Alcaldías de la Ciudad de México, a fin de difundir los programas y acciones, tanto institucionales e interinstitucionales, como de la sociedad civil, así como de los sectores académico y empresarial, a fin de incentivar las actividades de las personas emprendedoras, grupos de emprendedores y micro empresas.
+
 > <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
 ###### Artículo 19.
@@ -484,35 +494,61 @@ La Administración Pública, mediante el apoyo a las actividades productivas, se
 
 ## TÍTULO QUINTO. De las Directrices para el Fomento y Promoción del Desarrollo Económico
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 21.
 
-Las Dependencias, Entidades de la Administración Pública, así como las Alcaldías, en el ámbito de sus respectivas competencias, propiciarán el desarrollo y la consolidación de los Agentes Económicos por medio de las siguientes directrices:
+Las Dependencias, Entidades de la Administración Pública, así como las Alcaldías, en el ámbito de sus respectivas competencias, propiciarán el desarrollo y la consolidación de los agentes económicos y de personas emprendedoras, grupos de emprendedores y micro empresas para la apertura del mercado local a la promoción y comercialización de productos, bienes y servicios, por medio de las siguientes directrices:
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
 I. Desarrollo sustentable;
 
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
 II. Mejora regulatoria para la promoción y fomento del desarrollo económico;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
 III. Aprovechamiento territorial en materia económica;
 
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
 IV. Inversión;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
 V. Fortalecimiento de las micro, pequeñas y medianas empresas;
 
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
 VI. Promoción del empleo productivo;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
 VII. Desarrollo e innovación en ciencia y tecnológica; (sic)
 
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
 VIII. Impulso a la infraestructura y creación de bienes de uso público; incluidas las instalaciones subterráneas, cuyas licencias son emitidas por las Alcaldías;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
 IX. Integración de actividades productivas;
 
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
 X. Determinación de las Áreas de Desarrollo Económico (ADE);
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
 XI. Promoción de la cultura del emprendimiento;
 
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
+
 XII. Simplificación de procedimientos y trámites de apertura y funcionamiento de unidades económicas de bajo impacto, mismas que preferentemente serán a través de plataformas digitales, y
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
 XIII. Fomento a la confianza ciudadana de conformidad con la Ley Federal en la materia y otros ordenamientos aplicables.
 
@@ -1001,3 +1037,11 @@ Remítase a la Jefatura de Gobierno para efectos de su promulgación y publicaci
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 2º, SE ADICIONA UNA FRACCIÓN XIV BIS AL ARTÍCULO 3º, SE ADICIONA UN PÁRRAFO FINAL AL ARTÍCULO 18º Y SE REFORMA EL ARTÍCULO 21º, TODOS DE LA LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Túrnese el Presente Decreto a la Persona Titular de la Jefatura de Gobierno, para los efectos de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
