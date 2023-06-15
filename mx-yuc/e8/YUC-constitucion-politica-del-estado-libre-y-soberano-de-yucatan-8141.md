@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2023-06-06"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JUNIO DE 2023.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -597,9 +597,9 @@ Para ser diputada o diputado, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos;
 
-> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADA, D.O. 15 DE JUNIO DE 2023)</small>
 
-II.- Tener veintiun años cumplidos el día de la elección;
+II.- Tener dieciocho años cumplidos el día de la elección;
 
 > <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -1273,11 +1273,19 @@ Los servidores públicos estatales y municipales, así como cualquier entidad, p
 
 ### CAPITULO I. Del Gobernador del Estado
 
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 44.
 
-Se deposita el Poder Ejecutivo del Estado en una ciudadana o ciudadano que se denominará "Gobernadora o Gobernador del Estado de Yucatán", observando el principio de paridad de género en la integración de su gabinete.
+Se deposita el Poder Ejecutivo del Estado en una ciudadana o en un ciudadano al que se denominará “Gobernadora o Gobernador del Estado de Yucatán”.
+
+En la renovación de la titularidad del Poder Ejecutivo, se deberá garantizar el principio de paridad de género.
+
+Los partidos políticos, coaliciones electorales y candidaturas comunes, deberán alternar el género en la postulación en cada elección y establecerán los mecanismos para ello conforme a los principios de autodeterminación y auto organización.
+
+Lo anterior no será aplicable para los casos en los que esta Constitución prevé que la titularidad del Poder Ejecutivo sea ocupada por la o el gobernador interino, provisional o sustituto.
+
+La persona que ocupe la titularidad del Poder Ejecutivo del Estado observará el Principio de Paridad de Género en la integración de su gabinete.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -5558,3 +5566,31 @@ Artículo Tercero. Los entes públicos obligados conforme a la presente Ley, deb
 Artículo Cuarto. Los entes públicos sujetos a la presente Ley, incluirán el monto de las partidas que, en términos de la Ley de Presupuesto y Contabilidad Gubernamental del Estado de Yucatán, deberá destinarse para cubrir las responsabilidades patrimoniales del Estado a partir del Presupuesto de Egresos del Gobierno del Estado de Yucatán para el ejercicio fiscal 2024.
 
 Artículo Quinto. Se derogan todas las disposiciones legales o reglamentarias que se opongan a este ordenamiento.
+
+D.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 640/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE EDAD MÍNIMA PARA OCUPAR UN CARGO PÚBLICO”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor rango que se opongan a este decreto.
+
+D.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 647/2023 QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, A FIN DE GARANTIZAR LA PARIDAD DE GÉNERO REAL Y EFECTIVA EN LA POSTULACIÓN A LA TITULARIDAD DE (SIC) PODER EJECUTIVO DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Proceso electoral 2023–2024
+
+Artículo segundo. Para el proceso electoral 2023–2024, los partidos políticos, coaliciones o candidaturas comunes, podrán determinar libremente el género a postular, conforme a las disposiciones que determine para hacer efectiva la paridad sustantiva y los principios de autodeterminación y auto organización, ya sea que participen éstos de manera individual, o a través de coaliciones electorales o candidaturas comunes, los cuales deberán alternar el género para las subsecuentes elecciones.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
