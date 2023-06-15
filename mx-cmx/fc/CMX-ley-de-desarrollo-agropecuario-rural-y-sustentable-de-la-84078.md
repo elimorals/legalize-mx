@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-agropecuario-rural-y-sustentable-de-la-84078"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-08"
-last_updated: "2021-04-16"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84078&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-12-07"
 
 LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de diciembre de 2011.
 
@@ -74,11 +74,19 @@ II. Consejo Rural: El Consejo Rural de la Ciudad de México;
 
 III. Alcaldías: Los órgano (sic) político administrativos en las demarcaciones territoriales de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+III Bis. Actividades Agropecuarias: Los procesos productivos primarios basados en recursos naturales renovables: agricultura (incluyendo cultivos inocuos en tierra y sustratos inertes sin tierra), ganadería y silvicultura;
+
 IV. Desarrollo Agropecuario y rural: El derecho de realizar actividades agropecuarias, forestales, acuícolas, artesanales, turísticas y demás de corte rural, con base en procesos productivos, comerciales, distribución y autoabasto, de manera individual y colectiva, que conduce al mejoramiento integral del bienestar social, educación, salud, vivienda y alimentación, y que promueve la equidad con justicia social, distribuye justamente el ingreso, propicia la participación plena de la sociedad en la toma de decisiones, implicando cambios del paradigma económico y asegurando la conservación de los recursos de los cuales depende la sociedad rural;
 
 > <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
 V. Ley: La Ley de Desarrollo Agropecuario, Rural y Sustentable de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+V Bis. Mujer Rural: Las mujeres rurales son aquellas encargadas de una parte importante de la producción agrícola y promoción del desarrollo y rural, garantizan la seguridad alimentaria de sus poblaciones y contribuyen a la economía familiar y de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -88,9 +96,9 @@ VI. Programa Rural: El Programa de Desarrollo Agropecuario y Rural de la Ciudad 
 
 VII. Reglamento: El Reglamento de la Ley de Desarrollo Agropecuario, Rural y Sustentable de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-VIII. Secretaría: La Secretaría del Medio Ambiente.
+VIII. Secretaría: La Secretaría del Medio Ambiente; y
 
 > <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -528,11 +536,17 @@ XVII. El aumento de la capacidad productiva para fortalecer la economía campesi
 
 XVIII. El mejoramiento de la cantidad y la calidad de los servicios a la población;
 
-XIX. La expansión, modernización y tecnificación de la infraestructura Hidrológica y de tratamiento para el reuso de agua, así como al desarrollo de la electrificación y los caminos rurales.
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-> <small>(ADICIONADA, G.O. 16 DE ABRIL DE 2021)</small>
+XIX. La expansión, modernización y tecnificación de la infraestructura Hidrológica y de tratamiento para el reúso de agua, así como al desarrollo de la electrificación y los caminos rurales;
 
-XX. Garantizar el acceso y uso de las tecnologías de la información y comunicación, incluyendo el acceso gratuito de manera progresiva al internet de banda ancha, para que las y los campesinos puedan recibir servicios públicos de calidad, privilegiándose a personas, grupos y comunidades en situación de discriminación; ejercitar sus derechos reconocidos en esta Ley y demás ordenamientos; tener acceso a la educación y capacitación tecnológicas; integrarse a la sociedad del conocimiento, así como para contribuir con el desarrollo de la economía local; y elevar el bienestar de la población, reduciendo la desigualdad.
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XX. Garantizar el acceso y uso de las tecnologías de la información y comunicación, incluyendo el acceso gratuito de manera progresiva al internet de banda ancha, para que las y los campesinos puedan recibir servicios públicos de calidad, privilegiándose a personas, grupos y comunidades en situación de discriminación; ejercitar sus derechos reconocidos en esta Ley y demás ordenamientos; tener acceso a la educación y capacitación tecnológicas; integrarse a la sociedad del conocimiento, así como para contribuir con el desarrollo de la economía local; y elevar el bienestar de la población, reduciendo la desigualdad; y
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+XXI. El impulso a los proyectos que sean altamente generadores de empleo, en especial para la mujer rural, y los que contribuyan a la mitigación y adaptación a los efectos del cambio climático.
 
 ### Capítulo VI. De los Instrumentos de la Política Agropecuaria y Rural
 
@@ -651,6 +665,10 @@ Para el fomento de las actividades agropecuarias y económicas del medio rural d
 ###### Artículo 31.
 
 Los apoyos económicos que se otorguen se destinarán prioritariamente a las zonas, actividades, comunidades, productoras, productores y personas desfavorecidas económica y socialmente, así como para reducir las desigualdades que puedan existir al interior, y entre ellas y ellos, mismos que deberán inducir y premiar la productividad, competitividad y rentabilidad en el medio rural de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2023)</small>
+
+Tendrán preferencia los pequeños productores, los proyectos productivos rentables o los que sean altamente generadores de empleo para grupos de atención prioritaria.
 
 #### Sección V. De la Información Estadística y Geográfica
 
@@ -1167,3 +1185,11 @@ G.O. 16 DE ABRIL DE 2021.
 PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES III BIS Y V BIS AL ARTÍCULO 2, LA FRACCIÓN XXI AL ARTÍCULO 15, ASÍ COMO UN PÁRRAFO SEGUNDO AL ARTÍCULO 31; SE REFORMAN DIVERSAS FRACCIONES DEL ARTÍCULO 2 DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
