@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2023-05-31"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -775,7 +775,9 @@ X. La promoción de una educación sexual integral y reproductiva que implica el
 
 XI. La educación socioemocional;
 
-XII. La prevención del consumo de sustancias psicoactivas, el conocimiento de sus causas, riesgos y consecuencias físicas, emocionales, legales, individuales y sociales;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XII. La prevención del consumo de sustancias psicoactivas, el conocimiento de sus causas, riesgos y consecuencias físicas, emocionales, legales, individuales y sociales; así como la prevención del suicidio entre niñas, niños y adolescentes;
 
 XIII. El reconocimiento de la diversidad de capacidades de las personas; así como el uso del Lenguaje de Señas Mexicanas;
 
@@ -2186,3 +2188,9 @@ P.O. 31 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 514 POR EL QUE SE ADICIONA EL INCISO S TER) A LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO; Y LA ADICIÓN DE UN TERCER PÁRRAFO, RECORRIÉNDOSE EL SUBSECUENTE, AL ARTÍCULO 111 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 122 DE LA LEY DE EDUCACIÓN DEL ESTADO HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 520 POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 68 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
