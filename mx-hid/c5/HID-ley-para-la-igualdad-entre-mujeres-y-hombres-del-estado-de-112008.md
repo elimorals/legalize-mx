@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2023-05-31"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -567,13 +567,17 @@ d) Las demás consideraciones en materia de salubridad, protección y prevenció
 
 V. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-VI. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral; y
+VI. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-VII. Evitar la segregación de las personas del mercado de trabajo en razón de su sexo, preferencia o identidad sexual.
+VII. Evitar la segregación de las personas del mercado de trabajo en razón de su sexo, preferencia o identidad sexual; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+VIII. Diseñar políticas y programas de desarrollo empresarial, industrial y comercial en favor del empoderamiento igualitario entre mujeres y hombres.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MARZO DE 2023)</small>
 
@@ -948,3 +952,11 @@ P.O. 31 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 508 QUE REFORMA EL ARTÍCULO 1 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 527 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes.
