@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2023-05-29"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -220,6 +220,14 @@ Las servidoras y los servidores públicos, gozarán de un día hábil al año co
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 Los titulares señalados en el artículo 2 de la presente ley implementarán acciones para promover la flexibilidad de la jornada de trabajo, a fin de facilitar la participación, de las servidoras y los servidores públicos en las actividades de educación y desarrollo de sus hijas, hijos o pupilos. Las y los trabajadores no estarán obligados a reponer las horas de la jornada de trabajo destinadas a tal fin, siempre que acrediten su participación con las autoridades escolares.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Las mujeres y personas menstruantes trabajadoras a quienes se les haya diagnosticado con dismenorrea primaria o secundaria en grado incapacitante, dispondrán de permiso con goce de sueldo para ausentarse de su centro de trabajo por dos días cada mes.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Para tal efecto, deberán presentar en el área correspondiente de su centro laboral el certificado médico que lo acredite, mismo que será emitido por la persona especialista en ginecología de alguna institución del Sistema Nacional de Salud. Dicho certificado tendrá una vigencia de seis meses a partir de su expedición, al término del cual deberá realizarse una nueva valoración médica para confirmar el diagnóstico; mismo que en ningún momento podrá ser considerado como enfermedad profesional o riesgo de trabajo.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -1524,3 +1532,13 @@ P.O. 29 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 272 QUE ADICIONA EL ARTÍCULO 37 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 535 POR EL CUAL SE ADICIONAN LOS PÁRRAFOS OCTAVO Y NOVENO AL ARTÍCULO 17 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, la Secretaría de Salud del Estado, en coordinación con el organismo descentralizado Servicios de Salud de la entidad, difundirá la aprobación de la presente adición a la Ley, así como las características para la expedición de las correspondientes licencias médicas en el segundo nivel de atención en salud.
+
+TERCERO. Dentro del término de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, las autoridades de los tres Poderes del Estado, así como los organismos descentralizados de la Administración Pública Estatal y los Ayuntamientos de la entidad, deberán armonizar su reglamentación interna con arreglo al contenido de la presente reforma.
