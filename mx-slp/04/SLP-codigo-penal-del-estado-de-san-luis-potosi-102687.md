@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2023-03-27"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2787,11 +2787,21 @@ XIV. Se cometa aprovechando las condiciones de confusión respecto de los bienes
 
 XV. Se cometa en el interior de una unidad del servicio público de transporte de pasajeros o de cualquiera que preste similar;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE JUNIO DE 2023)</small>
 
 XVI. Se cometa utilizando de cualquier forma una unidad del servicio público de transporte de pasajeros o de cualquiera que preste un servicio similar;
 
-XVII. El objeto robado sea un vehículo de motor.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XVII. El objeto robado sea un vehículo de motor, y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO ESTE PÁRRAFO], P.O. 15 DE JUNIO DE 2023)</small>
+
+XVIII. Se cometa en la vía pública, o espacios abiertos que permitan el acceso al público.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN VIII], P.O. 15 DE JUNIO DE 2023)</small>
+
+Para los efectos de esta fracción se considera vía pública: calles, banquetas, brechas, pasajes, camellones, andadores peatonales, isletas u otras vías reservadas a los transeúntes.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2023)</small>
 
@@ -2799,11 +2809,7 @@ En los casos a que hace referencia este artículo, se aplicarán las sanciones c
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-Los adquirentes o detentadores de vehículos o autopartes no serán sancionados, cuando acrediten legalmente la buena fe en la adquisición o posesión de las cosas que se consideran robadas; para acreditar esta circunstancia se atenderá al costo de compra de los bienes y su precio en el mercado, así como la legalidad del procedimiento de adquisición con persona moral o física cierta, o en la buena fe de la posesión, y
-
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
-
-XVIII. Se cometa utilizando, ocupando o auxiliándose de una motocicleta.
+Los adquirentes o detentadores de vehículos o autopartes no serán sancionados, cuando acrediten legalmente la buena fe en la adquisición o posesión de las cosas que se consideran robadas; para acreditar esta circunstancia se atenderá al costo de compra de los bienes y su precio en el mercado, así como la legalidad del procedimiento de adquisición con persona moral o física cierta, o en la buena fe de la posesión, y (sic)
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -5614,5 +5620,13 @@ P.O. 27 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0724.- SE REFORMA EL ARTÍCULO 218, SU PÁRRAFO PENÚLTIMO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0772.- SE REFORMAN LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 218; Y ADICIONA LA FRACCIÓN XVIII AL MISMO ARTÍCULO 218, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
