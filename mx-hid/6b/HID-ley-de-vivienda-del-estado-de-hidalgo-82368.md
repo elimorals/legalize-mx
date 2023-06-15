@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vivienda-del-estado-de-hidalgo-82368"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-18"
-last_updated: "2023-05-31"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VIVIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del estado de Hidalgo, el lunes 18 de julio de 2011.
 
@@ -53,7 +53,9 @@ QUE CONTIENE LA LEY DE VIVIENDA DEL ESTADO DE HIDALGO.
 
 La presente Ley es de orden público, de interés social y de aplicación general en el Estado y tiene por objeto:
 
-I. Establecer las bases, programas y acciones para precisar la política estatal de vivienda;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+I. Establecer las bases, programas, procedimientos y acciones para la conformación, administración y enajenación de su reserva territorial que fortalezca la política estatal de vivienda, así como el equipamiento, infraestructura, servicios y cualquier actividad comercial que impulse el desarrollo urbano y social, priorizando a los grupos sociales en situación de vulnerabilidad del Estado y sus Municipios;
 
 II. Promover la colaboración de los sectores social y privado para el mejoramiento, adquisición y uso de vivienda en todos sus tipos y modalidades;
 
@@ -95,6 +97,10 @@ I. Acción de Vivienda: Toda actividad mediante la cual se canalizan los program
 
 II. Acción de Suelo: Toda actividad mediante la cual se canalizan los programas y acciones necesarias para la adquisición de suelo para vivienda;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+II Bis. Ahorro previo. Cantidad en dinero aportado por las personas beneficiarias para que, sumada a los recursos del financiamiento, sea aplicada a la intervención habitacional;
+
 III. Autoconstrucción de Vivienda: El proceso de construcción o edificación de la vivienda realizada directamente por sus propietarios, en forma individual, familiar o colectiva;
 
 IV. Autogestión: Capacidad que permite a un individuo o a un grupo de individuos legalmente constituidos en asociaciones, agrupaciones, fundaciones o cooperativas, realizar los trámites y acciones para la obtención de vivienda;
@@ -135,27 +141,59 @@ XV. Suelo para Vivienda: Los Terrenos física y legalmente susceptibles de ser d
 
 XVI. Sistema de Información: El Sistema Estatal de Información e Indicadores de Suelo y Vivienda, como el conjunto de datos producidos por los sectores público, social y privado, organizados bajo una estructura conceptual predeterminada, que permita mostrar la situación de la vivienda y el mercado habitacional, así como los efectos de las políticas públicas en la materia;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XVI Bis. Técnicas de construcción sostenible y asequible. Procedimientos de construcción accesibles que garantizan el equilibrio entre el desarrollo habitacional, el crecimiento económico, el cuidado del medio ambiente y el bienestar social;
+
 XVII. Vivienda: Área construida como alojamiento de carácter permanente, destinado a satisfacer necesidades vitales de habitabilidad de una o varias personas;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XVII Bis. Equipamiento Urbano. Conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos para desarrollar actividades económicas, sociales, culturales, deportivas, educativas, de traslado y de abasto;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 XVIII. Vivienda de Interés Medio: Aquélla cuyo valor al término de su edificación, se encuentre dentro del parámetro que resulte de multiplicar veintiséis y hasta sesenta y seis veces la Unidad de Medida y Actualización por 365 días;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XVIII Bis. La Habitabilidad Urbana. Indicador que mide las condiciones del entorno, que permiten una buena calidad de vida para los habitantes de una ciudad;
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 XIX. Vivienda de Interés Social: Aquélla cuyo valor al término de su edificación, se encuentre dentro del parámetro que resulte de multiplicar catorce y hasta veintiséis veces la Unidad de Medida y Actualización en el Estado por 365 días;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XIX Bis. Resiliencia Urbana. Habilidad de cualquier sistema urbano de mantener continuidad después de impactos o catástrofes mientras contribuye positivamente a la adaptación y transformación;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 XX. Vivienda Económica: Aquélla cuyo valor al término de su edificación, se encuentre dentro del parámetro que resulte de multiplicar cinco y hasta catorce veces la Unidad de Medida y Actualización por 365 días;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XX Bis. Intervención habitacional. Apropiación del espacio en su dimensión acción transformación, con fines de acondicionar un área determinada para vivienda;
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 XXI. Vivienda Popular: Aquélla cuyo valor al término de su edificación, no exceda del total que resulte de multiplicar por cinco veces la Unidad de Medida y Actualización por 365 días;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXI Bis. Sociedades de autogestión habitacional. Sociedad civil organizada que participa de manera activa y realiza la gestión de vivienda;
+
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE OCTUBRE DE 2020)</small>
 
 XXII. Vivienda Progresiva: Aquélla que se construye en etapas de acuerdo a los recursos del beneficiario;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXII Bis. Programa Estatal de Vivienda: Instrumento rector de la política de vivienda en la Entidad, que tiene por objeto identificar las problemáticas en la materia y establecer la estrategia de acción entre el gobierno estatal y los gobiernos municipales;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXII Ter. Vivienda social: Área construida como alojamiento de carácter permanente, destinado a satisfacer necesidades vitales de habitabilidad de una o varias personas que no pueden hacerse de una por sus propios medios;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -217,9 +255,9 @@ XII (SIC). Identificar, alentar y apoyar las acciones habitacionales y la produc
 
 XIII. Establecer en materia de vivienda las condiciones que garanticen esquemas seguros en desarrollos habitacionales, buscando la atenuación y amortiguamiento de riesgos tanto naturales como antropogénicos, así como mitigar la vulnerabilidad de personas y bienes sujetos a las disposiciones legales aplicables; y
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JUNIO DE 2023)</small>
 
-XIV. Fomentar la calidad de la vivienda y fijar los criterios mínimos de los espacios habitables y auxiliares.
+XIV. Fomentar la administración de la Reserva Territorial del Estado para la construcción de vivienda, así como el equipamiento urbano que impulse el desarrollo económico y social en los ámbitos Estatales y Municipales, priorizando a los grupos sociales en situación de vulnerabilidad.
 
 La política estatal y municipal en materia de vivienda mantendrá congruencia con la política nacional.
 
@@ -297,27 +335,39 @@ XIII. Las demás que le señale esta Ley u otros ordenamientos jurídicos aplica
 
 La concurrencia comprenderá lo establecido en el artículo 57 de la Ley Orgánica Municipal para el Estado de Hidalgo, en la presente Ley y demás disposiciones reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 9.
 
-Se crea la Comisión, como un Organismo Descentralizado de la Administración Pública del Estado, con personalidad jurídica y patrimonio propios, responsable de la ejecución, promoción y control de las acciones de vivienda en el Estado de Hidalgo.
-
-La Comisión tendrá su domicilio en la ciudad de Pachuca de Soto, Hidalgo, pudiendo establecer oficinas en los Municipios del Estado, de acuerdo a su disponibilidad presupuestal, su integración se efectuará en términos de la expedición del estatuto orgánico respectivo, que establece el artículo tercero transitorio de esta Ley.
+Se crea la Comisión, como un Organismo Descentralizado de la Administración Pública del Estado, con personalidad jurídica y patrimonio propios, responsable de la planeación, promoción, ejecución, control y evaluación de las políticas y acciones de vivienda en el Estado de Hidalgo; así como de la administración de su reserva territorial.
 
 ###### Artículo 10.
 
 La Comisión tendrá las siguientes atribuciones:
 
-I. Proponer, concertar y ejecutar los programas, acciones e inversiones correspondientes, en beneficio de la población que carezca de una vivienda digna y adecuada, y para la adquisición de suelo para vivienda en términos de lo señalado en el Título Tercero, Capítulo Segundo, Sección Novena de la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-II. Promover y constituir un fondo económico, que permita la adquisición de reserva territorial, para la construcción de vivienda en el Estado, en términos de lo que dispone el Titulo Tercero, Capitulo Segundo, Sección Cuarta de la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo;
+I. Concertar y ejecutar los programas, acciones e inversiones correspondientes, en materia de adquisición y venta de reserva territorial en términos de los señalado en el Título Tercero, Capítulo Segundo, Sección Cuarta de la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+II. Promover y constituir un fondo económico, que permita la adquisición de reserva territorial prioritariamente para la construcción de vivienda, además de equipamiento Urbano, infraestructura y servicios que impulse el desarrollo urbano y social de la población, en términos de lo que dispone el Titulo Tercero, Capitulo Segundo, Sección Cuarta de la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo;
 
 III. Impulsar la producción social de vivienda, mediante la adquisición de reserva territorial necesaria y suficiente;
 
-IV. Constituirse como el mecanismo permanente de coordinación y concertación entre los sectores público, social y privado en materia de vivienda;
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+III Bis. Fomentar la creación de políticas públicas que encaminen a la Resiliencia urbana.
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+IV. Constituirse como el mecanismo permanente de coordinación y concertación entre los sectores público, social y privado en materia de vivienda para fomentar la habitabilidad urbana de las distintas regiones del Estado;
 
 V. Establecer la (sic) bases y criterios para regular el crédito, ahorro y subsidio para adquisición de vivienda;
 
-VI. Emitir las normas necesarias para regular la calidad y sustentabilidad de la vivienda, así como para la atención a la necesidad de adquisición del suelo para la misma;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+VI. Emitir las normas necesarias para regular la calidad y sustentabilidad de la vivienda y su equipamiento urbano, así como para la atención a la necesidad de adquisición del suelo para tal efecto;
 
 VII. Celebrar convenios de colaboración con los Municipios, cuando no cuenten con la infraestructura necesaria para ejecutar las diferentes acciones de vivienda, que hayan sido acordadas en los términos del Plan de Desarrollo Municipal;
 
@@ -329,9 +379,13 @@ IX. Proponer acciones concretas sobre la oferta de vivienda, acorde con la capac
 
 X. Asesorar a los Municipios que lo soliciten, en la planeación, gestión de recursos, elaboración y ejecución de programas de vivienda, así como, en la ejecución de acciones en materia de suelo y vivienda.
 
-XI. Solicitar al Ejecutivo del Estado, cuando exista causa de utilidad pública, la expropiación de los bienes inmuebles, para integrar las reservas territoriales destinadas a la vivienda;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-XII. Celebrar toda clase de actos jurídicos necesarios, para la realización de sus fines;
+XI. Solicitar al Ejecutivo del Estado, cuando exista causa de utilidad pública, la expropiación de los bienes inmuebles, para integrar las reservas territoriales destinadas a la vivienda y su equipamiento urbano;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XII. Celebrar toda clase de actos jurídicos, incluyendo actos de administración y dominio de su activo circulante para la realización de su objeto;
 
 XIII. Difundir e informar a la población los programas y acciones de vivienda, para que tengan un mejor conocimiento y participación en éstos;
 
@@ -339,23 +393,131 @@ XIV. Fomentar la participación de los sectores público, social y privado en la
 
 XV. Integrar un Sistema de Información Estatal, que permita conocer la problemática de vivienda en el Estado y las condiciones socioeconómicas que incidan en ella;
 
-XVI. Promover la simplificación administrativa de trámites, permisos, autorizaciones y demás actos relativos al control de las acciones de vivienda;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XVI. Promover la simplificación administrativa de trámites, permisos, autorizaciones y demás actos relativos al control de las acciones de vivienda, a través de convenios de colaboración y/o de asistencia técnica e intercambio de información con el sector público en sus ámbitos federal, estatal y municipal, así como con el sector privado;
 
 XVII. Realizar las gestiones necesarias ante instituciones de crédito y organismos que apoyen acciones de vivienda, a efecto de allegarse los recursos indispensables para el cumplimiento de sus fines, así como apoyar en las gestiones de financiamiento a los Municipios, para acceder a programas que otorguen las instituciones y organismos mencionados;
 
 XVIII. Promover y apoyar el estudio, la investigación y el desarrollo de técnicas que mejoren los procesos para la construcción de vivienda;
 
-XIX. Promover nuevas técnicas ecológicas en sistemas de construcción y en componentes prefabricados;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XIX. Fomentar técnicas de construcción sostenibles y asequibles;
 
 XX. Contar con el derecho de preferencia en los remates de créditos fiscales, en la adquisición de predios o inmuebles para construir vivienda popular, económica o social, además de lo dispuesto el (sic) Titulo Tercero, Capitulo Segundo, Sección Sexta de la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo;
 
 XXI. Promover el ordenamiento territorial de los centros de población, conjuntamente con las dependencias y entidades de la administración pública federal, estatal y municipal que corresponda, así como participar en la coordinación de las acciones que el Estado convenga en esta materia, con la participación de los sectores social, privado y de investigación;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXI Bis. Coordinar la integración del Programa Estatal de Vivienda;
+
 XXII. Integrar y coordinar la operación del Sistema de Información Estatal de indicadores de suelo y vivienda a que se refiere la presente Ley;
 
-XXIII. Ejecutar proyectos para la adquisición de suelo, urbanización y venta de lotes con servicios, que promuevan el desarrollo urbano y habitacional; y
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-XXIV. Las demás que le señale esta Ley, su estatuto Orgánico y demás ordenamientos jurídicos aplicables.
+XXII Bis. Llevar a cabo acciones encaminadas a la enajenación de reserva territorial, prioritariamente para vivienda y su equipamiento urbano;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXIII. Ejecutar proyectos para la adquisición de suelo, urbanización y enajenación de lotes con servicios, que promuevan el desarrollo urbano y habitacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2023)</small>
+
+XXIV. Administrar su patrimonio, así como el uso y destino de la reserva territorial y de la vivienda en proceso de construcción o por entregar;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXV. Realizar estudios financieros que determinen las inversiones, costos, precios de venta y todas aquellas operaciones relativas a los fines para los cuales se creó, por lo cual se allegará de personal capacitado en la materia;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXVI. Contar con un inventario actualizado de la Reserva Territorial de la Comisión; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JUNIO DE 2023)</small>
+
+XVII. Las demás que le señale esta Ley, su reglamento, su estatuto Orgánico y demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 10 Bis.
+
+La Comisión contará con los siguientes órganos de administración:
+
+I. La Junta de Gobierno; y
+
+II. La Dirección General.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 10 Ter.
+
+La Junta de Gobierno será la máxima autoridad de la Comisión y estará integrada por:
+
+I. La persona titular de la Secretaría de Finanzas Publicas;
+
+II. La persona titular de la Secretaría Ejecutiva de la Política Pública Estatal;
+
+III. La persona titular de la Unidad de Planeación y Prospectiva;
+
+IV. La persona titular de la Secretaría de Obras Públicas y Ordenamiento Territorial;
+
+V. La persona titular de la Secretaría de medio Ambiente y Recursos Naturales;
+
+VI. La persona titular de la Secretaría de Desarrollo Social;
+
+A las sesiones de la Junta de Gobierno se incorpora el Comisario Público, quien tendrá voz, pero no voto y será designado por la Secretaría de Contraloría, en los términos del Artículo 33 de la Ley Orgánica de la Administración Pública del Estado de Hidalgo.
+
+Por cada miembro de la Junta de Gobierno habrá un suplente, quien tendrá como mínimo el nivel de jefe de departamento y deberán acreditarse por única vez, mediante oficio de designación firmado por el titular al que hayan de suplir. Dichos suplentes contarán con las mismas facultades que los propietarios.
+
+Deberá asistir a las sesiones de la Junta de Gobierno con derecho a voz pero sin voto, el Director General de la Comisión
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Artículo 10 Quárter.- La Junta de Gobierno de la Comisión tendrá las siguientes facultades y obligaciones indelegables:
+
+I. Establecer en congruencia con el Plan Estatal de Desarrollo, los Programas Institucionales, sus políticas generales y definir las prioridades a las que deberá sujetarse la Comisión;
+
+II. Aprobar los programas institucionales de desarrollo, de acción, financiero y operativo anual, así como los presupuestos de ingresos y egresos;
+
+III. Fijar y ajustar los precios de bienes y servicios que produzca o preste la Comisión, atendiendo a los lineamientos que establezca la Secretaría de Finanzas Públicas;
+
+IV. Vigilar la congruencia entre el presupuesto de ingresos estimado, modificado y los ingresos recaudados;
+
+V. Aprobar la suscripción o celebración de créditos para el financiamiento de la Comisión, sin perjuicio de cumplir con las disposiciones establecidas en la Legislación de Deuda Pública Estatal y observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras;
+
+VI. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos de la Comisión que no correspondan a las operaciones propias del objeto de la misma;
+
+VII. Revisar que las compras y ventas realizadas por el Organismo, referentes al activo circulante, se hayan realizado de conformidad con los Lineamientos para la venta de reserva territorial;
+
+VIII. Aprobar, anualmente, los estados financieros y la información programática-presupuestal de la Entidad Paraestatal, una vez que se cuente con el dictamen del Auditor Externo y el Comisario Público haya presentado su informe correspondiente para efectos de transparencia en el actuar del Órgano de Gobierno;
+
+IX. Aprobar de acuerdo con la normatividad y el Reglamento de la Ley de Entidades Paraestatales del Estado de Hidalgo, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la Comisión con terceros en obras públicas, servicios relacionados con las mismas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles, en los que el Director General y en su caso, los servidores públicos que deban intervenir de conformidad con las normas orgánicas de la misma, realizarán tales actos bajo su responsabilidad, con sujeción a los (sic) directrices fijadas por el Órgano de Gobierno;
+
+X. Aprobar la estructura básica de la organización de la Comisión, y las modificaciones que procedan a la misma, el Estatuto Orgánico correspondiente y sus modificaciones;
+
+XI. Autorizar la creación de comités o subcomités especializados o comités de apoyo institucional;
+
+XII. Nombrar y remover, a propuesta del Director General, a los servidores públicos de la Comisión que ocupen cargos con dos niveles administrativos inmediatos inferiores al de aquél;
+
+XIII. Nombrar y remover a propuesta de su presidente, al secretario y prosecretario del Órgano de Gobierno quienes podrán ser miembros o no del mismo;
+
+XIV. Aprobar la constitución de reservas en las en la Comisión, siempre que correspondan a ingresos excedentes, o bien remanentes derivados de economías en aportaciones, transferencias, subsidios y convenios
+
+La constitución e integración de reservas a que se refiere la presente fracción, será procedente siempre que los ingresos excedentes, las utilidades, los rendimientos financieros o los remanentes que sean autorizados por la Secretaría de Finanzas Públicas con base a las disposiciones que se establezcan en la Ley de Ingresos del ejercicio fiscal de que se trate, y una vez ingresado a las arcas del Gobierno del Estado, podrá proponer la aplicación de estos recursos en proyectos autorizados por la Secretaria Ejecutiva de la Política Pública del Estado;
+
+XV. Establecer, con sujeción a las disposiciones legales aplicables, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la Comisión requiera para la prestación de sus servicios, de conformidad con la Ley de Bienes del Estado;
+
+XVI. Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los comisarios;
+
+XVII. Acordar con sujeción a las disposiciones legales aplicables, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados en las instrucciones de la Dependencia Coordinadora de Sector;
+
+XVIII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la Comisión cuando fuere improcedente, inconveniente o notoria la imposibilidad práctica de su cobro, mismas que deberán ser previamente validadas por la Coordinación General Jurídica y la Secretaría de Finanzas Públicas; Una vez que hayan sido aprobadas se deberá informar a la Secretaría de Finanzas Públicas y a la Secretaría de Contraloría por conducto de la Dependencia Coordinadora de Sector.
+
+XIX. Supervisar el cumplimiento de las medidas adoptadas para el ejercicio del gasto público con base en resultados; y
+
+XX. Verificar que se realicen las acciones pertinentes que permitan la implantación de los programas y proyectos en materia de racionalidad, disciplina y eficiencia presupuestal.
 
 ### CAPÍTULO III. DE LAS DEPENDENCIAS, INSTANCIAS Y ORGANISMOS AUXILIARES
 
@@ -425,9 +587,13 @@ XI. Un representante de las Asociaciones de Municipios existentes en el Estado;
 
 XII. Dos diputados del Congreso del Estado, quienes participarán sólo con voz, y serán designados por la Junta de gobierno; y
 
-XIII. El Director de Protección Civil en el Estado.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-Cada integrante podrá nombrar un suplente, el cual tendrá las facultades y obligaciones que a este le correspondan y solo actuará, en ausencia del titular.
+XIII. El Subsecretario de Protección Civil y Gestión de Riesgos.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Cada integrante podrá nombrar un suplente por escrito, el cual tendrá las facultades y obligaciones que a este le correspondan y solo actuará, en ausencia del titular.
 
 Las sesiones serán ordinarias cada 4 meses y extraordinarias las que por notoria urgencia o necesidad se requieran.
 
@@ -495,15 +661,35 @@ Las atribuciones del Consejo Municipal, Organismo Descentralizado o auxiliar, de
 
 ### CAPÍTULO I. DE LA PLANEACIÓN, PRESUPUESTACIÓN Y PROGRAMACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 18.
 
-La planeación de la política de vivienda del Estado y los Municipios, es parte del proceso de planeación del desarrollo Estatal y Municipal y se establecerá en los siguientes instrumentos:
+La política de vivienda del Estado y los Municipios, tiene por objeto cumplir los fines de esta ley y es parte del proceso de planeación del desarrollo Estatal y Municipal y se establecerá en los siguientes instrumentos
 
-I. El Plan Estatal de Desarrollo; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-II. El Plan Municipal de Desarrollo.
+I. El Plan Estatal de Desarrollo;
 
-Estos planes se formularán, aprobarán y publicarán en los términos que establece la Ley de Planeación para el Desarrollo del Estado de Hidalgo y deberán ser congruentes con la Política Nacional, el Plan Nacional de Desarrollo y los programas que de éste deriven.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+II. El Plan Municipal de Desarrollo; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+III. El Programa Estatal de Vivienda.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Estos planes se formularán, aprobarán y publicarán en los términos que establece la Ley de Planeación y Prospectiva del Estado de Hidalgo y deberán ser congruentes con la Política Nacional, el Plan Nacional de Desarrollo y los programas que de éste deriven.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+El Programa al que se refiere este artículo se elaborará de conformidad con las disposiciones de esta Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Los programas, proyectos, estímulos, apoyos, instrumentos económicos, así como las acciones que se lleven a cabo por la aplicación de la presente Ley y demás disposiciones en la materia, en los que se ejerzan recursos de carácter estatal, se sujetarán a la disponibilidad que para tal fin se contemple en el Presupuesto de Egresos del Estado de Hidalgo del ejercicio fiscal correspondiente y deberán observar las disposiciones de la Ley de Presupuesto y Contabilidad Gubernamental del Estado de Hidalgo, la Ley de Ingresos del Estado Libre y Soberano de Hidalgo para el ejercicio fiscal de que se trate.
 
 ###### Artículo 19.
 
@@ -511,13 +697,71 @@ La programación de la política de vivienda del Estado y los Municipios en el �
 
 I. Los Programas: Sectorial, Institucional, Regional y Especial;
 
-II. El Programa Municipal de Vivienda; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+II. El Programa Estatal de Vivienda;
 
 III. La determinación de las zonas para el uso habitacional, previo estudio de impacto urbano y de conformidad con la legislación aplicable en materia de desarrollo urbano y ambiental.
 
 La formulación, ejecución, control y evaluación de estos programas se efectuará conforme a las disposiciones establecidas en la Ley de Planeación para el Desarrollo del Estado de Hidalgo, las previstas en la presente Ley y en los respectivos convenios de coordinación celebrados entre los diferentes ordenes de gobierno.
 
-Una vez concluida la formulación de los programas, las dependencias y organismos responsables los someterán a la consideración del Estado y de los Municipios respectivamente, según corresponda, para su aprobación y posterior publicación en el Periódico Oficial del Estado, como lo establece la Ley de Planeación para el Desarrollo del Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Una vez concluida la formulación de los programas, las dependencias y organismos responsables los someterán a la consideración de autoridades estatales y municipales respectivamente, según corresponda, para su aprobación y posterior publicación en el Periódico Oficial del Estado, como lo establece la Ley de Planeación y Prospectiva del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 19 Bis.
+
+El Programa Estatal de Vivienda contendrá:
+
+I. Un diagnóstico de la situación habitacional en el Estado de Hidalgo con los principales problemas y tendencias;
+
+II. Los objetivos que regirán el desempeño de las acciones de vivienda de la Administración Pública Estatal y los mecanismos de coordinación con los municipios, así como para la concertación de acciones con los sectores social y privado;
+
+III. La estrategia general en materia de vivienda, que comprenderá las acciones a seguir, la definición de las distintas modalidades de atención, el señalamiento de metas y prioridades y su previsible impacto en el sistema urbano, así como en el desarrollo regional, económico y social de la Entidad;
+
+IV. La identificación de las fuentes de financiamiento y la estimación de los recursos necesarios para las acciones de vivienda, tanto para hacer posible su oferta como la satisfacción de su demanda, así como los mecanismos para fomentar la participación y el financiamiento público, social y privado para la vivienda;
+
+V. Los apoyos e instrumentos para atender las necesidades de vivienda de la población, preferentemente de aquella en situación de pobreza, así como los lineamientos de coordinación entre las instancias correspondientes para su ejecución;
+
+VI. Las medidas de mejora regulatoria encaminadas a fortalecer la seguridad jurídica y disminuir los costos de la vivienda;
+
+VII. Los lineamientos para la normalización de los bienes y servicios que se utilicen en la producción de vivienda;
+
+VIII. Las estrategias de coordinación para el abatimiento de costos de la vivienda, así como los mecanismos que eviten prácticas indebidas que encarezcan el financiamiento, la adquisición, construcción y mejoramiento de la vivienda;
+
+IX. Las bases para la articulación de la Política Estatal de Vivienda con la ordenación del territorio y el desarrollo urbano;
+
+X. La definición de los programas, mecanismos e instrumentos que permitan implementar las acciones necesarias en materia de suelo, así como definir zonas dentro de los diferentes municipios para el desarrollo urbano integral con criterios de sustentabilidad;
+
+XI. La identificación de las necesidades de suelo y la estimación de los recursos que hagan posible la disponibilidad del mismo;
+
+XII. La especificación de un plan de ordenamiento de suelo urbanizable sectorizado con municipios que determine suelo para la construcción de vivienda, promoviendo obras de infraestructura;
+
+XIII. Los instrumentos y apoyos a la producción social de vivienda, a la vivienda de construcción progresiva y a la vivienda rural;
+
+XIV. Las estrategias y líneas de acción para facilitar el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda para los pueblos y comunidades rurales e indígenas;
+
+XV. La tipología y modalidades de producción habitacional que oriente las acciones en la materia;
+
+XVI. Las estrategias y líneas de acción para fomentar el desarrollo del mercado secundario y de arrendamiento de vivienda;
+
+XVII. Las estrategias para desarrollar acciones de vivienda que permitan la reubicación de la población establecida en zonas de alto riesgo o afectada por desastres, en congruencia con la política de ordenación territorial;
+
+XVIII. Los requerimientos mínimos que deban ser materia de coordinación con municipios para la regulación de las construcciones para asegurar calidad, seguridad y habitabilidad de la vivienda, y
+
+XIX. Los demás que señale el Plan Estatal de Desarrollo y otros ordenamientos legales. Las dependencias y entidades que participen en la instrumentación de las acciones previstas en este artículo, en el ámbito de sus respectivas competencias, se coordinarán con la Comisión para efectos de su ejecución
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 19 Ter.
+
+El Programa Estatal de Vivienda será formulado por la Comisión Estatal de Vivienda, aprobado por el Titular del Ejecutivo Estatal mediante decreto y estará sometido a un proceso permanente de control y evaluación, observando lo dispuesto en este ordenamiento y, en lo conducente, en la Ley de Planeación y Prospectiva del Estado de Hidalgo.
+
+En la formulación del Programa Estatal se considerarán las propuestas del ejecutivo a través de la Comisión Estatal de Vivienda de los municipios, así como de los sectores social y privado.
+
+El Programa, una vez aprobado y publicado en el Periódico Oficial del Estado del Estado de Hidalgo, será obligatorio para las dependencias y entidades de la Administración Pública Estatal en el ámbito de sus respectivas competencias, y orientará la planeación y programación de las acciones de los municipios en la materia.
 
 ###### Artículo 20.
 
@@ -587,9 +831,11 @@ El Estado dentro del presupuesto de egresos, deberá destinar los recursos sufic
 
 ### CAPÍTULO II. DEL FINANCIAMIENTO
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 26.
 
-La aplicación de recursos públicos para la vivienda en el Estado, tiene por objeto fomentar la promoción para la producción y mejoramiento de ésta, ampliar la oferta habitacional y regular la relación entre el cumplimiento del derecho a la vivienda y los intereses de mercado, de conformidad con el Programa Sectorial de Vivienda.
+La aplicación de recursos públicos para la vivienda en el Estado, tiene por objeto fomentar la promoción para la producción y mejoramiento de ésta, ampliar la oferta habitacional y regular la relación entre el cumplimiento del derecho a la vivienda y los intereses de mercado, de conformidad con el Programa Estatal de Vivienda.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -597,11 +843,11 @@ La aplicación de recursos públicos para la vivienda en el Estado, tiene por ob
 
 El Estado y los Municipios a través de las dependencias y organismos estatales y municipales, implementarán mecanismos y acciones para captar y destinar recursos presupuestales, subsidios, ahorros y financiamientos internos o externos, para los diversos programas de vivienda, que respondan a las necesidades en esta materia de los distintos sectores de la población, prioritariamente a los grupos sociales en situación de vulnerabilidad, así como a la población de bajos recursos económicos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 28.
 
-La presupuestación para las acciones de vivienda que utilicen fondos del Estado, deberán ser dictaminadas por la Secretaría de Finanzas Públicas, de manera previa a la aprobación por el Ejecutivo del Estado.
+La presupuestación para las acciones de vivienda que utilicen fondos del Estado, deberán ser dictaminadas por la Secretaría de Finanzas Públicas y de la Comisión en sus respectivos ámbitos de competencia, de manera previa a la aprobación por el Ejecutivo del Estado.
 
 ###### Artículo 29.
 
@@ -649,11 +895,17 @@ I. Elaboración de estudios y proyectos relacionados con la planeación, diseño
 
 II. Adquisición y redensificación de suelo urbano para vivienda popular, económica y de interés social;
 
-III. Ejecución de proyectos para la adquisición de suelo para vivienda, urbanización y venta de lotes con servicios, que promuevan el desarrollo urbano y habitacional;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-IV. Producción de vivienda popular y progresiva;
+III. Ejecución de proyectos para la adquisición de suelo para vivienda, urbanización y enajenación de lotes con servicios y reserva territorial, que promuevan el desarrollo urbano y habitacional;
 
-V. Implementación de programas de mejoramiento de vivienda;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+IV. Producción de vivienda social, popular y progresiva;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+V. Implementación de programas de adquisición, construcción, autoproducción, mejoramiento, ampliación de vivienda y regularización de lotes;
 
 VI. Implementación de programas de autoproducción y autoconstrucción de vivienda;
 
@@ -671,7 +923,9 @@ X. Las demás acciones que las leyes y reglamentos señalen.
 
 El Estado y los Municipios a través de las dependencias u organismos correspondientes impulsarán la constitución de fondos de ahorro e inversión, de administración, de garantía y de rescate para la vivienda, creados con la adquisición de seguros rentables y de fácil liquidación, con los siguientes objetivos:
 
-I. Promover el ahorro productivo de los beneficiarios;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+I. Promover el ahorro previo de los beneficiarios;
 
 II. Generar los fondos que garanticen la administración y recuperación de los créditos en caso de fallecimiento de los beneficiarios u otros riesgos; y
 
@@ -721,9 +975,11 @@ Los requisitos que se tengan por satisfechos en cuanto a infraestructura urbana 
 
 ### CAPÍTULO IV. DEL CRÉDITO Y DE LOS BENEFICIARIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 38.
 
-Los créditos de vivienda que se concedan a través de los programas correspondientes, requieren de la devolución total de los mismos.
+Los créditos que se concedan a través de los programas correspondientes, requieren de la devolución total de los mismos, a excepción de los supuestos que puedan establecer los reglamentos, normas y bases internas en la materia de cada ente contemplado en el artículo 6 de la presente ley.
 
 En consecuencia sólo podrán otorgarse en proporción a la capacidad de pago del beneficiario y con las debidas garantías.
 
@@ -735,15 +991,21 @@ Por concepto de servicio de amortizaciones e intereses, ningún crédito de vivi
 
 En ningún caso el pago mensual de la deuda excederá del 30% de los ingresos del deudor en el período.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 40.
 
-En el caso de la ampliación del plazo de recuperación, éste se documentará mediante escritura pública que se inscribirá en el Registro Público de la Propiedad y del Comercio.
+En el caso de convenio para la ampliación del plazo y montos de recuperación, éste se documentará mediante escritura pública que se inscribirá en el Registro Público de la Propiedad y del Comercio, siempre y cuando se encuentre inscrita dicha garantía hipotecaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 41.
 
-Para ser beneficiario de un crédito para adquisición, construcción de vivienda, mejoramiento o ampliación de la misma, otorgado por el Estado, deberá ser habitante del Estado de Hidalgo, con una residencia mínima de tres años anterior a la fecha de la solicitud del crédito y deberá cumplir con los requisitos que señale el programa respectivo.
+Para ser beneficiario de un crédito para adquisición, construcción de vivienda, mejoramiento o ampliación de la misma, otorgado por el Estado, deberá ser habitante del Estado de Hidalgo, comprobando una residencia mínima de tres años y deberá cumplir con los requisitos que señale el programa respectivo.
 
-En el caso de que el beneficiario no pueda demostrar plenamente sus ingresos, la determinación de comprobación de los mismos se ajustará a lo que establezcan las reglas de operación del programa respectivo;
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+En el caso de que el beneficiario no pueda demostrar plenamente sus ingresos, la determinación de comprobación de los mismos se ajustará a lo que establezcan las reglas de operación del programa respectivo, en caso de que no se establezca, se determinará conforme a las reglas de operación que emitan las Autoridades señaladas en el artículo 6 de la presente Ley;
 
 Los mismos requisitos deberán observar los propietarios de vivienda y sólo podrán solicitar crédito para las acciones destinadas a la rehabilitación, la ampliación o mejoramiento.
 
@@ -751,9 +1013,11 @@ Los mismos requisitos deberán observar los propietarios de vivienda y sólo pod
 
 Se considerará para el otorgamiento crediticio, subsidio o ayuda de beneficio social, preferentemente a la población de bajos recursos económicos.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 43.
 
-El Estado y los Municipios a través de las dependencias u organismos correspondientes, informarán de los procedimientos y requisitos necesarios para producir y adquirir vivienda, mediante la elaboración y difusión de folletos dirigidos a los promotores y productores sociales y privados, basándose en los programas y reglas de operación correspondientes.
+El Estado, los Municipios a través de las dependencias u organismos correspondientes, así como la Comisión, informarán de los procedimientos y requisitos necesarios para producir y adquirir vivienda, mediante la elaboración y difusión de folletos dirigidos a los promotores y productores sociales y privados, basándose en los programas y reglas de operación correspondientes.
 
 ###### Artículo 44.
 
@@ -769,9 +1033,11 @@ III. Los procedimientos y requisitos adicionales que deban cubrir los beneficiar
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 45.
 
-En concordancia con el artículo 9 fracción XI de esta Ley y las disposiciones aplicables de la Ley de Expropiación en el Estado, se declara de utilidad pública la adquisición de suelo para la construcción de vivienda popular, económica y de interés social y para la constitución de reservas territoriales destinadas con fines habitacionales, conforme a la legislación vigente en materia de desarrollo urbano para el Estado de Hidalgo.
+En concordancia con el artículo 10 fracción XI de esta Ley y las disposiciones aplicables de la Ley de Expropiación en el Estado, se declara de utilidad pública la adquisición de suelo para la construcción de vivienda popular, económica y de interés social y para la constitución de reservas territoriales destinadas con fines habitacionales, conforme a la legislación vigente en materia de desarrollo urbano para el Estado de Hidalgo
 
 ###### Artículo 46.
 
@@ -779,13 +1045,17 @@ El Estado en coordinación con los Municipios, realizará la delimitación anual
 
 Al efecto se estimará por cada región una superficie suficiente para la atención de la demanda de vivienda prevista para los siguientes 10 años.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 47.
 
-Los apoyos y estímulos que el Estado y los Municipios establezcan en materia de suelo para vivienda, se orientarán hacia el mercado inmobiliario con el fin de generar una oferta de suelo para el desarrollo de viviendas preferentemente destinados a la población de bajos recursos económicos.
+Los apoyos y estímulos que el Estado, los Municipios y la Comisión establezcan en materia de suelo para vivienda, se orientarán hacia el mercado inmobiliario con el fin de generar una oferta de suelo para el desarrollo de viviendas preferentemente destinados a la población de bajos recursos económicos.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 48.
 
-El Estado y los Municipios de acuerdo con lo previsto en la presente Ley y en la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo y su Reglamento, realizarán los estudios que determinen los requerimientos de suelo urbano para vivienda.
+El Estado y los Municipios y la Comisión de acuerdo con lo previsto en la presente Ley y en la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo y su Reglamento, realizarán los estudios que determinen los requerimientos de suelo urbano para vivienda.
 
 ###### Artículo 49.
 
@@ -793,9 +1063,11 @@ La Comisión a través de las dependencias u organismos correspondientes, coordi
 
 Los estudios tomarán en cuenta las necesidades presentes y futuras de suelo para vivienda y conforme a estas previsiones, se realizarán las adecuaciones de los planes de desarrollo urbano regionales y municipales correspondientes; así como para la determinación de las zonas para fines habitacionales, especialmente las referidas a las regiones consideradas como parte de las zonas metropolitanas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 50.
 
-El Estado y los Municipios en base a los artículos que anteceden y de acuerdo con lo establecido en el Titulo Tercero, Capitulo Segundo, Sección Cuarta de la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial podrán adquirir suelo urbano para destinarse a programas de vivienda bajo las siguientes condiciones:
+El Estado, los Municipios y la Comisión en base a los artículos que anteceden y de acuerdo con lo establecido en el Titulo Tercero, Capitulo Segundo, Sección Cuarta de la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial podrán adquirir suelo urbano para destinarse a programas de vivienda bajo las siguientes condiciones:
 
 I. Que se respeten los planes y programas de desarrollo urbano y disposiciones establecidas que regulan el uso del suelo;
 
@@ -803,9 +1075,11 @@ II. Que se evalúe la disponibilidad de infraestructura, equipamiento y servicio
 
 III. Que se verifique la existencia del programa de financiamiento o de la partida presupuestal respectiva.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 51.
 
-El Estado y los Municipios en el ámbito de sus respectivas competencias, para enajenar predios, deberán observar lo establecido en la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo en materia de suelo urbano para vivienda y demás legislación aplicable.
+El Estado y los Municipios y la Comisión en el ámbito de sus respectivas competencias, para enajenar predios, deberán observar lo establecido en la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo en materia de suelo urbano para vivienda y demás legislación aplicable.
 
 ## TÍTULO QUINTO. DE LA CALIDAD Y SUSTENTABILIDAD DE LA VIVIENDA
 
@@ -843,9 +1117,11 @@ Las acciones de vivienda que se realicen en el territorio del Estado, deberán s
 
 La administración y mantenimiento de conjuntos habitacionales y vivienda multifamiliar sujetas al régimen de condominio, quedará a cargo y dirección de los usuarios, conforme a lo establecido en la Ley de Propiedad en Condominio para el Estado de Hidalgo, y sus disposiciones reglamentarias.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 58.
 
-El Estado y los Municipios fomentarán la participación de los sectores público, social y privado en el desarrollo y aplicación de ecotécnicas y nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad que cumplan con parámetros de certificación y con los principios de una vivienda digna y decorosa.
+El Estado, los Municipios y la Comisión fomentarán la participación de los sectores público, social y privado en el desarrollo y aplicación de técnicas de construcción sostenible y asequible; así como saneamiento, principalmente de bajo costo y alta productividad que cumplan con parámetros de certificación y con los principios de una vivienda digna y decorosa.
 
 ###### Artículo 59.
 
@@ -885,13 +1161,17 @@ IV. De conservación, administración y prestación de servicios para las vivien
 
 Para los fines de la presente Ley, la constitución de las sociedades de autogestión habitacional, se regirán por lo establecido en la Ley Federal de Vivienda y la legislación aplicable, y sólo podrán adquirir los bienes estrictamente necesarios para la consecución de sus fines.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 65.
 
-El Estado y los Municipios, podrán celebrar convenios de colaboración con las sociedades de autogestión habitacional a que se refiere el presente capítulo, para la realización de acciones de vivienda de acuerdo a lo que establezcan los programas de vivienda aplicables.
+El Estado y los Municipios y la Comisión, podrán celebrar convenios de colaboración con las sociedades de autogestión habitacional a que se refiere el presente capítulo, para la realización de acciones de vivienda de acuerdo a lo que establezcan los programas de vivienda aplicables.
 
 Dichos convenios tendrán como objeto entre otros, la conjunción de recursos financieros, el otorgamiento de estímulos y apoyos fiscales, la prestación de servicios de asesoría relacionados con la adquisición de suelo, construcción, mejoramiento o conservación de vivienda, según sea el caso.
 
-El Estado y los Municipios, integrarán los compromisos financieros que resulten de dichos convenios, a fin de que se incorporen a los programas de financiamiento, crédito o inversión de los programas operativos anuales.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+El Estado y los Municipios y la Comisión, integrarán los compromisos financieros que resulten de dichos convenios, a fin de que se incorporen a los programas de financiamiento, crédito o inversión de los programas operativos anuales.
 
 ###### Artículo 66.
 
@@ -1128,3 +1408,23 @@ P.O. 31 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 496 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO (SIC) HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 515 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE VIVIENDA DEL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá expedir su correspondiente Reglamento en un término de ciento veinte días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expidan las disposiciones administrativas que se deriven de la presente Ley, seguirán en vigor las que han regido hasta ahora en lo que no la contravengan.
