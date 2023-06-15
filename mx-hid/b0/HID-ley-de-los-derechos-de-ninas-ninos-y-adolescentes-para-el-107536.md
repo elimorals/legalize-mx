@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2023-04-13"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -297,7 +297,9 @@ A falta de disposición expresa en la Constitución Política de los Estados Uni
 
 En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, por haber nacido o vivir con su madre en algún establecimiento penitenciario, o bien, por circunstancias relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 ###### Artículo 11.
 
@@ -489,7 +491,9 @@ Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y a
 
 Niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
 
-Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del interés superior de la niñez, de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, tales como la aplicación de medidas preventivas ante la ocurrencia de violencia vicaria o cualquier tipo de violencia de género, la suspensión o pérdida de la patria potestad, o la restricción del derecho de convivencia por alguna de las causas previstas en las leyes; las cuales deberán ser establecidas mediante el debido proceso en el que se juzgue atendiendo al principio del interés superior de la niñez y adolescencia y con perspectiva de género, garantizando el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
 Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
@@ -503,13 +507,33 @@ Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho 
 
 Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario al interés superior de la niñez.
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 23 Bis.
 
-Las niñas, niños y adolescentes cuyas madres se encuentren internas en un centro de readaptación social, tienen derecho a mantener contacto cercano, frecuente y directo con sus progenitoras, al máximo de posibilidades de cada caso y siempre que no sea contrario al interés superior de la niñez.
+Las niñas, niños y adolescentes cuyas madres se encuentren internas en un establecimiento penitenciario, tienen derecho a mantener contacto cercano, frecuente y directo con sus progenitoras, al máximo de posibilidades de cada caso y siempre que no sea contrario al interés superior de la niñez.
 
-Asimismo, las niñas y niños cuyas madres hayan mantenido su guardia (sic) y custodia dentro del centro de readaptación social y deban ser separados de las mismas, tienen derecho a que las autoridades penitenciarias garanticen una separación gradual, sensible y progresiva, recibiendo acompañamiento psicológico antes, durante y después del proceso.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+Asimismo, las niñas y niños cuyas madres hayan mantenido su guarda y custodia dentro de los centros y establecimientos penitenciarios y deban ser separados de las mismas, tienen derecho a que las autoridades penitenciarias garanticen una separación gradual, sensible y progresiva, recibiendo acompañamiento psicológico antes, durante y después del proceso.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 23 Ter.
+
+Las autoridades de los centros y establecimientos penitenciarios garantizarán el pleno respeto y protección de los derechos de las niñas y niños que viven con sus madres en situación de reclusión, con la implementación de acciones que permitan y fomenten el crecimiento y desarrollo integral de las niñas y niños.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 23 Quater.
+
+Las niñas y los niños que sean hijas e hijos de mujeres en situación de reclusión, recibirán una alimentación saludable, educación, vestimenta y atención médica, atendiendo el interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 23 Quinquies.
+
+Los centros y establecimientos penitenciarios deberán contar con espacios físicos que permitan las condiciones de vida que garanticen el sano desarrollo y crecimiento de niñas y niños que viven con sus madres en situación de reclusión.
 
 ###### Artículo 24.
 
@@ -559,9 +583,9 @@ Estas medidas especiales de protección tendrán carácter subsidiario, prioriza
 
 El Sistema DIF Hidalgo deberá mantener estrecha comunicación con los sistemas DIF municipales y las unidades municipales de primer contacto intercambiando información a efecto de garantizar el interés superior de la niñez y el desarrollo evolutivo de formación de su personalidad, así como materializar su derecho a vivir en familia.
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
 
-Las autoridades administrativas y jurisdiccionales del Estado de Hidalgo, en el ámbito de sus respectivas competencias, dispondrán lo conducente a efecto de que niñas, niños y adolescentes vean restituido su derecho a vivir en familia y su derecho a recibir formación y protección de quien ejerce la patria potestad, la tutela, guardia o custodia, interpretando de manera sistemática y funcional la normatividad correspondiente, conforme al principio del interés superior de la niñez.
+Las autoridades administrativas y jurisdiccionales del Estado de Hidalgo, en el ámbito de sus respectivas competencias, dispondrán lo conducente a efecto de que niñas, niños y adolescentes vean restituido su derecho a vivir en familia y su derecho a recibir formación y protección de quien ejerce la patria potestad, la tutela, guarda o custodia, interpretando de manera sistemática y funcional la normatividad correspondiente, conforme al principio del interés superior de la niñez.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -945,7 +969,9 @@ Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda form
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a implementar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
 
-I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual, así como la violencia vicaria;
 
 II. La corrupción de personas menores de dieciocho años de edad;
 
@@ -955,7 +981,9 @@ III. Trata de personas, turismo sexual y lenocinio, de personas menores de dieci
 
 IV. El tráfico de menores;
 
-V. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+V. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables. Para lo cual las autoridades señaladas deberán actuar con perspectiva de género;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
@@ -1751,7 +1779,9 @@ I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas,
 
 II. Que las autoridades migratorias verifiquen la existencia de la autorización de quienes ejerzan la patria potestad, tutela o, en su caso, del órgano jurisdiccional competente, que permita la entrada y salida de niñas, niños o adolescentes del territorio estatal, conforme a las disposiciones aplicables;
 
-III. Que personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstenga de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formule programas e imparta cursos de formación permanente para prevenirlas y erradicarlas; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+III. Que personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas, centros y establecimientos penitenciarios o de cualquier otra índole, se abstenga de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formule programas e imparta cursos de formación permanente para prevenirlas y erradicarlas; y
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2021)</small>
 
@@ -2630,3 +2660,25 @@ P.O. 13 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 500 POR EL QUE SE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 49 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 522 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Poder Ejecutivo del Estado contará con un plazo de un año, contado a partir de la entrada en vigor del presente Decreto, para adecuar las disposiciones reglamentarias necesarias para su cumplimiento.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 526 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 46 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 533 POR EL QUE SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22 Y LA FRACCIÓN I DEL ARTÍCULO 46, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- El Poder Ejecutivo del Estado contará con el plazo de un año, contado a partir de la entrada en vigor del presente Decreto, para adecuar las disposiciones reglamentarias necesarias para su cumplimiento.
