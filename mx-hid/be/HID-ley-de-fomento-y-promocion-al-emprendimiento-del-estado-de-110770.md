@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-promocion-al-emprendimiento-del-estado-de-1107
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-14"
-last_updated: "2015-12-14"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO Y PROMOCIÓN AL EMPRENDIMIENTO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de diciembre de 2015.
 
@@ -183,9 +183,17 @@ IV. Instituto Hidalguense de Competitividad Empresarial (IHCE);
 
 V. Consejo de Ciencia; Tecnología e Innovación de Hidalgo (CITNOVA);
 
-VI. El Instituto de Capacitación para el Trabajo de Hidalgo (ICATHI); y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-VII. El Instituto Hidalguense de la Juventud (IHJ).
+VI. El Instituto de Capacitación para el Trabajo de Hidalgo (ICATHI);
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+VII. El Instituto Hidalguense de la Juventud (IHJ); y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+VIII. El Instituto Hidalguense de las Mujeres.
 
 ###### Artículo 10.
 
@@ -359,6 +367,24 @@ III. De la creación y desarrollo de iniciativas emprendedoras;
 
 a. Fomentar programas y cursos de capacitación en coordinación con las Dependencias y Entidades señaladas en el artículo 9 del Capítulo Cuarto de esta Ley, para el cumplimiento de los objetivos establecidos en la presente Ley;
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+
+###### Artículo 16 Bis.
+
+Para alcanzar los objetivos de esta Ley, el Instituto Hidalguense de las Mujeres, en la esfera de sus facultades deberá:
+
+I. De la cultura emprendedora:
+
+a. Difundir entre las mujeres hidalguenses, las oportunidades de prosperidad que significa el iniciar y operar una nueva empresa, así como destacar las mejores prácticas emprendedoras desarrolladas por mujeres.
+
+II. De los esquemas de colaboración:
+
+a. Impulsar la colaboración y coordinación interinstitucional con instancias gubernamentales, no gubernamentales y organismos empresariales para fortalecer las acciones realizadas por las mujeres emprendedores (sic) con proyectos viables.
+
+III. De la creación y Desarrollo de iniciativas emprendedoras:
+
+a. Fomentar programas y cursos de capacitación en coordinación con las Dependencias y Entidades señaladas en el artículo 9 del Capítulo Cuarto de esta Ley, para el cumplimiento de los objetivos establecidos en la misma.
+
 ### CAPÍTULO QUINTO. DE LOS ESTÍMULOS
 
 ###### Artículo 17.
@@ -404,3 +430,13 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS OCHO DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL QUINCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 523 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO Y PROMOCIÓN AL EMPRENDIMIENTO DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Ejecutivo del Estado deberá realizar las adecuaciones necesarias al Reglamento de la presente Ley, para el cumplimiento de lo establecido en el presente Decreto, en un plazo no mayor a 180 días naturales posteriores a la fecha de su entrada en vigor.
