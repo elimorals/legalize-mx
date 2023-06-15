@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2023-04-21"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -563,9 +563,11 @@ IV.- Las demás que determine esta ley.
 
 En las sesiones solemnes, sólo se tratarán los asuntos para los que hayan sido convocadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE JUNIO DE 2023)</small>
+
 ###### Artículo 36.
 
-Todas las sesiones serán públicas, salvo excepciones y a juicio de las dos terceras partes del Cabildo y siempre que se trate de:
+Todas las sesiones serán públicas, procurándose su transmisión en tiempo real vía internet a través de las plataformas digitales al alcance de cada Ayuntamiento, salvo excepciones y a juicio de las dos terceras partes del Cabildo, cuando se trate de:
 
 I.- Asuntos cuya discusión pueda alterar el orden, o
 
@@ -3822,3 +3824,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 Artículo Segundo. Cláusula derogatoria
 
 Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan al presente Decreto.
+
+D.O. 15 DE JUNIO DE 2023.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO 632/2023 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN”.]</small>
+
+Artículo Primero. Entrada en vigor
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Adecuaciones presupuestales
+
+Los Ayuntamientos, de conformidad con su disponibilidad tecnológica y presupuestaria, realizarán las adecuaciones necesarias para implementar en forma gradual la obligación de transmitir sus sesiones de cabildo del Ayuntamiento, en tiempo real, en un plazo máximo de seis meses, contados a partir de la entrada en vigor del presente Decreto.
