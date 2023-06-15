@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-de-la-ciudad-de-mexico-147739"
 country: "mx"
 rank: "ley"
 publication_date: "2021-02-16"
-last_updated: "2022-10-27"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147739&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-02-15"
 
 LEY DE FOMENTO CULTURAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Número 536 Bis de la Gaceta Oficial de la Ciudad de México, el martes 16 de febrero de 2021.
 
@@ -414,9 +414,9 @@ III. Elaborar y ejecutar programas para el desarrollo de las actividades cultura
 
 IV. Fomentar la integración de órganos coadyuvantes de protección y promoción de la diversidad de las expresiones culturales en cada demarcación territorial;
 
-> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-V. Fomentar la investigación y en coordinación con la Comisión de Memoria Histórica de la Ciudad, formular memorias históricas de las manifestaciones y expresiones culturales propias de cada Alcaldía, así como sus ferias, festivales, fiestas, celebraciones, carnavales, tradiciones y costumbres;
+V. Fomentar la investigación y en coordinación con la Comisión de Memoria Histórica de la Ciudad, formular memorias históricas de las manifestaciones y expresiones culturales propias de cada Alcaldía, tal como la cultura sonidera, así como sus ferias, festivales, fiestas, celebraciones, carnavales, tradiciones y costumbres;
 
 VI. Otorgar premios, reconocimientos o estímulos a las personas, organizaciones e instituciones públicas o privadas que se hayan destacado en la creación, promoción, preservación, difusión e investigación de la cultura en el ámbito de su jurisdicción;
 
@@ -426,21 +426,21 @@ VIII. Integrar al inicio de cada administración los Consejos de las Alcaldías,
 
 IX. Elaborar, mantener actualizado y publicar en sus páginas correspondientes un inventario de los espacios públicos con que cuenta la Alcaldía para la realización de actividades culturales y artísticas;
 
-> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-X. Impulsar y proyectar las manifestaciones y expresiones culturales, así como sus ferias, festivales, fiestas, celebraciones, carnavales, tradiciones y costumbres que se llevan a cabo en su ámbito territorial y promover la existencia de espacios mediáticos en apoyo a la difusión de la cultura;
+X. Impulsar y proyectar las manifestaciones y expresiones culturales, tal como la cultura sonidera, así como sus ferias, festivales, fiestas, celebraciones, carnavales, tradiciones y costumbres que se llevan a cabo en su ámbito territorial y promover la existencia de espacios mediáticos en apoyo a la difusión de la cultura;
 
-> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-X BIS. Integrar un registro de ferias, festivales, fiestas, celebraciones, carnavales, tradiciones y costumbres que se realicen en su demarcación territorial;
+X BIS. Integrar un registro de ferias, festivales, fiestas, celebraciones, carnavales, tradiciones y costumbres que se realicen en su demarcación territorial, en donde se incluirán a personas dedicadas a la promoción de la cultura sonidera;
 
 XI. Procurar la creación de bibliotecas, hemerotecas, casas de cultura, museos, auditorios, teatros y centros culturales, así como la ampliación, mantenimiento, mejoras físicas y tecnológicas;
 
 XII. Proporcionar a las Casas de Cultura de su demarcación los recursos materiales y humanos suficientes para su óptimo funcionamiento, así como normar el uso adecuado de sus espacios e instalaciones, para ofrecer bienes y servicios culturales de calidad, según las necesidades de sus usuarios;
 
-> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2023)</small>
 
-XIII. Establecer lineamientos públicos y accesibles para que las personas físicas o morales que lo soliciten y utilicen los espacios públicos con que cuenta la Alcaldía para el desarrollo de actividades culturales;
+XIII. Establecer de conformidad con las leyes aplicables lineamientos públicos y accesibles para que las personas físicas o morales que lo soliciten puedan utilizar los espacios públicos con que cuenta la Alcaldía para el desarrollo de expresiones culturales y actividades que promuevan la cultura sonidera;
 
 > <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -469,6 +469,10 @@ III. Formular sugerencias para el cumplimiento de los Programas Institucionales 
 IV. Sugerir mecanismos de participación de la sociedad en general en el fortalecimiento de las políticas culturales de la Ciudad;
 
 V. Opinar sobre las condiciones que impulsen y promuevan el libre intercambio y circulación de ideas, expresiones culturales y actividades, bienes y servicios culturales, para su creación, producción, distribución, difusión y disfrute en las diversas demarcaciones de la Ciudad;
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
+
+V BIS. Con el apoyo de la Comisión de la Memoria Histórica de la Ciudad de México y de las Alcaldías, poner a consideración del Sistema, un catálogo de Manifestaciones y Expresiones Culturales en la Ciudad de México, mismo que deberá´ ser actualizado periódicamente, incluyendo la cultura sonidera;
 
 VI. Proponer estrategias que fomenten valores culturales y promuevan la cultura de paz en la Ciudad, y
 
@@ -741,3 +745,11 @@ G.O. 27 DE OCTUBRE DE 2022.
 Primero. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL SE REFORMAN LAS FRACCIONES V; X; X BIS Y XIII DEL ARTICULO 20 Y SE ADICIONA UNA FRACCIÓN V BIS AL ARTÍCULO 22 DE LA LEY DE FOMENTO CULTURAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
