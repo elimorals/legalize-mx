@@ -4,7 +4,7 @@ identifier: "HID-ley-del-instituto-hidalguense-de-las-mujeres-112061"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2021-09-13"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL INSTITUTO HIDALGUENSE DE LAS MUJERES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -79,9 +79,21 @@ El Instituto Hidalguense de las Mujeres tendrá por objeto:
 
 I. Orientar y difundir programas, proyectos y estrategias de atención igualitaria a la sociedad, institucionalizando la perspectiva de género como eje rector de la Administración Pública del Estado de Hidalgo;
 
-II. Establecer y conducir políticas y programas relativos a las mujeres que permitan incorporarlas plenamente al desarrollo del Estado, adecuando éstas a las características y necesidades de cada región; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-III. Promover y fomentar acciones que posibiliten la no discriminación, la igualdad de oportunidades y de trato entre géneros, así como el ejercicio pleno de todos los derechos de las mujeres y su participación igualitaria en la vida política, cultural, económica, social y familiar.
+II. Establecer y conducir políticas y programas relativos a las mujeres que permitan incorporarlas plenamente al desarrollo del Estado, adecuando éstas a las características y necesidades de cada región;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+III. Promover y fomentar acciones que posibiliten la no discriminación, la igualdad de oportunidades y de trato entre géneros, así como el ejercicio pleno de todos los derechos de las mujeres y su participación igualitaria en la vida política, cultural, económica, social y familiar;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+IV. Impulsar el criterio de transversalidad en las políticas públicas con perspectiva de género, en las dependencias y entidades de la Administración Pública Estatal, a partir de la ejecución de programas y acciones coordinadas o conjuntas; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+V. Fortalecer los vínculos con los Poderes Legislativo y Judicial estatales, en el ámbito de su competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -249,11 +261,17 @@ V. La o el titular de la Secretaría de Salud;
 
 VI. La o el titular de la Secretaría de Educación Pública;
 
-VII. La o el titular de la Secretaría de Desarrollo Social; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+VII. La o el titular de la Secretaría de Desarrollo Social;
 
-VIII. Dos personas integrantes del Consejo Consultivo, quienes preferentemente deberán ser mujeres y durarán en su encargo tres años.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+VIII. Dos personas integrantes del Consejo Consultivo, quienes deberán ser mujeres y durarán en su encargo tres años; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+IX. La persona titular de la Dirección General del Instituto Hidalguense de las Mujeres.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -307,7 +325,9 @@ X. Autorizar la creación de Comités Especializados o Comités de Apoyo Institu
 
 XI. Nombrar y remover, a propuesta de la persona que esté al frente de la Dirección General, a las personas que presten el servicio público del Instituto que ocupen cargos con dos niveles administrativos inmediatos inferiores al de aquella. En materia de fijación de sueldos y prestaciones, apegarse a lo establecido en el Presupuesto de Egresos del Estado de Hidalgo y demás normatividad aplicable en la misma, así como conceder licencias y las demás que señale su Estatuto Orgánico;
 
-XII. Nombrar y remover a propuesta de la Presidencia de la Junta de Gobierno del Instituto, a quién ocupe la Secretaría y Prosecretaría, quienes podrán ser integrantes o no de la misma;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XII. Nombrar y remover a propuesta de la Presidencia de la Junta de Gobierno del Instituto, a quién ocupe la Secretaría y Prosecretaria, quienes podrán ser integrantes o no de la misma y deberán ser mujeres;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -371,11 +391,11 @@ Podrán integrarse a la Junta de Gobierno con carácter de personas invitadas y 
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
 
 ###### Artículo 12.
 
-La persona titular del Instituto será designada y removida porla (sic) persona titular de la gubernatura del Estado de Hidalgo o a indicación deésta (sic) por la persona titular de la Secretaría de Gobierno de una terna propuesta por la Junta de Gobierno mediante consenso, y de no alcanzarse el mismo, por acuerdo de las dos terceras partes de sus integrantes.
+La persona titular del Instituto será designada por la persona titular de la gubernatura del Estado de Hidalgo o a indicación de ésta por la persona titular de la Secretaría de Gobierno de una terna propuesta por la Junta de Gobierno mediante consenso, y de no alcanzarse el mismo, por acuerdo de las dos terceras partes de sus integrantes.
 
 ###### Artículo 13.
 
@@ -387,9 +407,9 @@ La persona titular de la Dirección General del Instituto durará en su cargo tr
 
 La persona titular de la Dirección General del Instituto Hidalguense de las Mujeres deberá cubrir los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-I. Preferentemente ser mujer, contar con la ciudadanía mexicana y estar en pleno goce y ejercicio de sus derechos políticos;
+I. Ser mujer, contar con la ciudadanía mexicana y con título profesional y estar en pleno goce y ejercicio de sus derechos políticos;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -475,9 +495,17 @@ XX. Sustituir y revocar poderes generales o especiales; la persona que esté al 
 
 XXI. Vigilar que el Instituto observe lo establecido en la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo, respecto a la información, documentos y expedientes que posea el Instituto;
 
-XXII. Velar que el Instituto observe lo establecido en la Ley de Archivos del Estado de Hidalgo, respecto a la organización, administración, conservación y difusión de los documentos que posea el Instituto; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-XXIII. Demás facultades y obligaciones que le confieren la Ley de Entidades Paraestatales del Estado de Hidalgo, su reglamento, esta Ley, la Junta de Gobierno y demás normatividad aplicable.
+XXII. Velar que el Instituto observe lo establecido en la Ley de Archivos del Estado de Hidalgo, respecto a la organización, administración, conservación y difusión de los documentos que posea el Instituto;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXIII. Las facultades y obligaciones que le confieren la Ley de Entidades Paraestatales del Estado de Hidalgo, su reglamento, esta Ley, la Junta de Gobierno y demás normatividad aplicable; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXIV. Presentar a la Junta de Gobierno, para su discusión y aprobación, propuestas de opiniones y reformas al marco normativo local que promuevan el acceso equitativo y no discriminatorio al desarrollo y la tutela de los derechos humanos de las mujeres; con la finalidad de que, en caso de aprobarse, las mismas sean remitidas a la Persona Titular del Poder Ejecutivo Estatal, para su consideración y trámite correspondiente, en términos de la Ley Orgánica de la Administración Pública para el Estado de Hidalgo.
 
 ###### Artículo 16.
 
@@ -678,3 +706,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicaci
 SEGUNDO. El plazo para emitir el Reglamento de la presente Ley será de hasta 180 días naturales, posterior a la fecha de entrada en vigor.
 
 TERCERO. El plazo para emitir la convocatoria para la elección de los miembros del Consejo Consultivo tendrá un plazo no mayor a 180 días naturales, posteriores a la fecha de entrada en vigor del Reglamento de la presente Ley.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 531 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO HIDALGUENSE DE LAS MUJERES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
