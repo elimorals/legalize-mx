@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2023-05-31"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -891,9 +891,9 @@ y).- Designar al Regidor o Regidores que deban suplir al Presidente Municipal y 
 
 z).- Asumir las facultades y obligaciones derivadas de la Ley de Deuda Pública, particularmente para el efecto de contraer obligaciones o celebrar empréstitos o créditos que deriven del crédito público y que, en términos de la Ley de la materia, constituyan deuda pública, así como lo relativo a su administración, registro y control.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
 
-aa).- Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres y el logro de la igualdad sustantiva entre mujeres y hombres;
+aa) Implementar y promover políticas públicas, planes y programas municipales en concordancia con la política nacional y estatal con transversalidad de género, privilegiando las acciones que contribuyan a erradicar la desigualdad, discriminación y violencia contra las mujeres; así como a fortalecer el empoderamiento y la promoción de su autonomía;
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -903,9 +903,9 @@ aa BIS).- Impulsar y fomentar la creación, operación o fortalecimiento de refu
 
 bb).- Incorporar la perspectiva de género en los planes, programas y acciones municipales;
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
 
-bb Bis).- Determinar las acciones necesarias para formarse y capacitarse en materia de igualdad de género, permitiendo desempeñar sus funciones bajo un enfoque de perspectiva de género.
+bb Bis).- Determinar las acciones necesarias para formar y capacitar a las personas servidoras públicas del Ayuntamiento, en materia de igualdad de género, permitiendo desempeñar sus funciones bajo un enfoque de perspectiva de género.
 
 > <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
 
@@ -2497,15 +2497,19 @@ XXVIII.- Comparecer ante el Ayuntamiento, cuando sea requerido;
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-XIX. Asistir al Presidente Municipal, en las funciones técnicas del Comité de Planeación para el Desarrollo Municipal; y
+XIX.- Asistir al Presidente Municipal, en las funciones técnicas del Comité de Planeación para el Desarrollo Municipal; y
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-XX. Coadyuvar de manera coordinada con el titular del área de Protección Civil, en la elaboración o en su caso, con la actualización del Atlas Municipal de Riesgos. Ante la omisión de lo previsto en esta fracción, se estará a lo dispuesto por la legislación en materia de responsabilidades administrativas.
+XX.- Coadyuvar de manera coordinada con el titular del área de Protección Civil, en la elaboración o en su caso, con la actualización del Atlas Municipal de Riesgos. Ante la omisión de lo previsto en esta fracción, se estará a lo dispuesto por la legislación en materia de responsabilidades administrativas.
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
-XXI.- Asegurarse que las obras públicas que estén bajo su cargo se planeen, construyan y ejecuten de una manera que atiendan las necesidades de las personas con discapacidad, para que los espacios públicos sean accesibles e inclusivos para todas las personas.
+XXI.- Asegurarse que las obras públicas que estén bajo su cargo se planeen, construyan y ejecuten de una manera que atiendan las necesidades de las personas con discapacidad, para que los espacios públicos sean accesibles e inclusivos para todas las personas.; (sic) y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
+
+XXII.- Proponer al Ayuntamiento, obras para la creación, recuperación o conservación de calles seguras para mujeres y niñas, con base a las guías, protocolos y lineamientos que emitan las autorizades competentes en la materia.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -4196,5 +4200,17 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 31 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 514 POR EL QUE SE ADICIONA EL INCISO S TER) A LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO; Y LA ADICIÓN DE UN TERCER PÁRRAFO, RECORRIÉNDOSE EL SUBSECUENTE, AL ARTÍCULO 111 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 122 DE LA LEY DE EDUCACIÓN DEL ESTADO HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 521 POR EL QUE SE REFORMA LA FRACCIÓN XXI Y SE ADICIONA LA FRACCIÓN XXII DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 529 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
