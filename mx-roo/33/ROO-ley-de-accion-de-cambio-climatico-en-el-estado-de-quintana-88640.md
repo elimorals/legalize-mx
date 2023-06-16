@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-accion-de-cambio-climatico-en-el-estado-de-quintana-8864
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-29"
-last_updated: "2022-08-05"
+last_updated: "2023-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY DE ACCIÓN DE CAMBIO CLIMÁTICO EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE AGOSTO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de marzo de 2012.
 
@@ -677,7 +675,9 @@ En el Programa Estatal se atenderán de manera prioritaria las necesidades de ad
 
 I. En materia de protección civil, en los mapas de riesgo, se considerarán los escenarios de vulnerabilidad;
 
-II. En materia de seguridad agroalimentaria, se impulsará la investigación de posibles escenarios climáticos para ubicar los cultivos prioritarios o señalar la oportunidad de cambio de cultivos o del método de beneficiarlos;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+II. En materia de seguridad agroalimentaria, se impulsará la investigación de posibles escenarios climáticos para ubicar los cultivos prioritarios o señalar la oportunidad de cambio de cultivos o del método de beneficiarlos, así como el fomento e implementación de huertos urbanos y ecotecnias que garanticen la producción y consumo de agroalimentos sanos, inocuos, de calidad y nutritivos, de fácil disponibilidad y acceso.
 
 III. Se consideraran en los Programas Estatales de Ordenamiento Ecológico Territorial y de Desarrollo Urbano los efectos del cambio climático;
 
@@ -797,13 +797,19 @@ Los Programas de Ordenamiento Ecológico Territorial considerarán los aspectos 
 
 Las Autoridades Estatales y Municipales, elaborarán y desarrollarán sus planes de movilidad sostenible e incorporarán a los mismos los principios establecidos en la presente ley, sin perjuicio de lo que disponga la normativa específica que en esta materia se apruebe en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2023)</small>
+
 ###### Artículo 24.
 
-El Gobierno del Estado y los Municipios impulsarán las actividades agrícolas, forestales, ganaderas y acuícolas, que cumplan con condiciones y criterios de producción que favorezcan la reducción de emisiones, así como el consumo de los productos que provengan de dichas actividades.
+El Gobierno del Estado y los Municipios impuls arán (sic) la implementación de buenas prácticas en las actividades de producción agrícola, forestal, ganadera, pesquera y acuícola, a fin de contribuir al desarrollo sostenible y la seguridad alimentaria, favoreciendo la reducción de emisiones, así como el consumo de los productos que provengan de dichas actividades.
 
-En concreto, se impulsarán el aprovechamiento agrícola, forestal y ganadero local que cumplan con las siguientes condiciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2023)</small>
 
-I. Utilización racional de fertilizantes químicos;
+En concreto, se impulsarán el aprovechamiento agrícola, forestal, ganadero, pesquero y acuícola local que cumplan con las siguientes condiciones:
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+I. Utilización preferente de agroquímicos de baja toxicidad e insumos orgánicos y/o agroecológicos.
 
 II. Elaboración de productos conforme a criterios de producción sostenible, que tiendan a cerrar ciclos biológicos; y
 
@@ -1294,3 +1300,11 @@ QUINTO. La Secretaría en coordinación con la Comisión, habilitará la platafo
 SEXTO. La Secretaría deberá poner en funcionamiento el Registro Estatal de Emisiones de Gases y Compuestos de Efecto Invernadero, en un plazo no mayor de ciento ochenta días naturales, contados a partir de la entrada en vigor de este Decreto.
 
 SÉPTIMO. Con el objetivo de lograr la neutralidad en emisiones de carbono hacia el año 2050, el Gobierno del Estado de Quintana Roo en el ámbito de su competencia, implementará estrategias tendientes a promover en todos los sectores, acciones para mitigar la emisión de gases efecto invernadero y estrategias de adaptación al cambio climático.
+
+P.O. 16 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 065 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCIÓN DE CAMBIO CLIMÁTICO Y DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
