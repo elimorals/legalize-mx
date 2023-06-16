@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "2023-06-02"
+last_updated: "2023-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -887,6 +887,12 @@ Los trabajadores que por su mala conducta o falta de solidaridad, fueron expulsa
 
 El período de la directiva de los sindicatos no excederá de tres años a partir de la fecha en que entren en funciones.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2023)</small>
+
+ARTICULO 84 BIS. La elección de las directivas sindicales se hará mediante voto personal, libre, directo y secreto de las personas afiliadas, previa convocatoria que se emitirá con una anticipación no menor a quince días y que se difundirá entre todas las personas integrantes del sindicato.
+
+El sindicato deberá notificar la convocatoria al Tribunal Estatal de Conciliación y Arbitraje con la misma anticipación, el cual podrá verificar el procedimiento de elección, por conducto de las personas servidoras públicas o fedatarias que designe para tal efecto. Las elecciones que no cumplan estos requisitos serán nulas.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 85.
@@ -937,7 +943,7 @@ III.- Usar la violencia con los trabajadores libres, para obligarlos a que se si
 
 IV.- Fomentar actos delictuosos contra personas o propiedades; y
 
-V.- Adherirse a organizaciones o centrales obreras o campesinas.
+V.- (DEROGADA, P.O. 16 DE JUNIO DE 2023)
 
 ###### ARTICULO 91.
 
@@ -1706,3 +1712,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, el poder Ejecutivo, deberá realizar las adecuaciones que correspondan al Reglamento de la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo.
 
 CUARTO. Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, los Poderes Legislativo, Ejecutivo y Judicial, los Ayuntamientos y Organismos Descentralizados, deberán realizar las adecuaciones que correspondan a su normatividad aplicable, a efecto de dar cumplimiento a su contenido.
+
+P.O. 16 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 064 POR EL QUE SE ADICIONA EL ARTÍCULO 84 BIS Y SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 90 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
