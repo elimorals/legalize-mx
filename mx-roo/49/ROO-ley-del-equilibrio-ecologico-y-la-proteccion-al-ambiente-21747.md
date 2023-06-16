@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-21747"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2022-04-28"
+last_updated: "2023-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 29 de junio de 2001.
 
@@ -280,6 +280,10 @@ XXXVIII.- Secretaría: La Secretaría de Ecología y Medio Ambiente;
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2016)</small>
 
 XXXIX.- SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+XXXIX BIS.- Sistema de Manejo Ambiental: Conjunto de medidas adoptadas a través de los cuales se incorporan principios ambientales en las actividades cotidianas de los entes públicos y privados, con el objetivo de reducir el impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, que alienta políticas de adquisiciones con el fin de disminuir la generación de residuos, su aprovechamiento y su manejo integral;
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2016)</small>
 
@@ -675,11 +679,67 @@ Artículo 13 TER.- Las dependencias de la Administración Pública Estatal, el P
 
 La instalación del sistema de captación de agua pluvial en aquellos inmuebles a cargo de las dependencias de la Administración Pública Estatal, el Poder Legislativo del Estado, el Poder Judicial del Estado y los municipios del estado, declarados monumentos artísticos e históricos en términos de lo dispuesto por la Ley estatal se llevará a cabo bajo la rigurosa supervisión de la Secretaría de Educación y Cultura y de expertos en la materia según corresponda, con objeto de evitar afectaciones a dichos inmuebles.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE JUNIO DE 2023)</small>
+
+#### SECCIÓN I BIS. Del Sistema de Manejo Ambiental
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2023)</small>
+
+Artículo 13 QUÁTER.- Los Sistemas de Manejo Ambiental tendrán por objeto prevenir, minimizar y evitar la generación de residuos, así como incentivar su aprovechamiento; y se configuran a partir de estrategias organizativas que propicien la protección al ambiente y el aprovechamiento sustentable de recursos naturales. Los Poderes Legislativo, Ejecutivo y Judicial, los Órganos Públicos Autónomos, los municipios y demás dependencias señaladas en el artículo 19 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo serán los encargados de formular, establecer y evaluar los Sistemas de Manejo Ambiental.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2023)</small>
+
+Artículo 13 QUINQUIES.- La Secretaría será la encargada de brindar asesoramiento técnico y especializado para la implementación de los Sistemas de Manejo Ambiental de los Poderes Legislativo, Ejecutivo y Judicial, así como los Órganos Públicos Autónomos, los municipios y demás dependencias señaladas en el artículo 19 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2023)</small>
+
+Artículo 13 SEXTIES.- Los Sistemas de Manejo Ambiental serán obligatorios, en términos de la presente Ley para:
+
+I. El Poder Ejecutivo;
+
+II. Poder Legislativo;
+
+III. Poder Judicial;
+
+IV. Los Municipios;
+
+V. Órganos Públicos Autónomos Estatales, y
+
+VI. Las dependencias que se señalan en el artículo 19 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo.
+
+Las autoridades señaladas en el presente artículo deberán establecer sus sistemas de manejo ambiental mediante la suscripción de convenios destinados para tal fin con la Secretaría.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2023)</small>
+
+Artículo 13 SEPTIES.- Los responsables del Sistema de Manejo Ambiental deberán considerar como mínimo estrategias para:
+
+I. El Manejo Integral de los residuos, así como la promoción de la reducción de las cantidades de residuos e intensificación de las acciones para su valorización;
+
+II. La reducción en la tasa de consumo de bienes y servicios, así como la instalación de tecnologías que induzcan la valorización de los residuos y optimización de los recursos;
+
+III. La integración de criterios ambientales en la compra de bienes competitivos en precio y calidad, disminuyendo la generación de residuos y los pasivos ambientales de conformidad con los ordenamientos en materia de adquisiciones, y
+
+IV. La educación, capacitación y desarrollo de una cultura de responsabilidad ambiental en el trabajo, tanto entre los empleados o trabajadores como entre el público usuario.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2023)</small>
+
+Artículo 13 OCTIES.- Los Sistemas de Manejo Ambiental de los Poderes Legislativo, Ejecutivo y Judicial, los Municipios, los Órganos Públicos Autónomos y dependencias señaladas en el artículo 19 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, estarán sustentados en:
+
+I. Lineamientos y objetivos para sus procesos operativos y de toma de decisiones, con la finalidad de mejorar su desempeño ambiental en cuanto a la minimización de la generación y la Gestión Integral de Residuos;
+
+II. Planes con metas y calendarios de cumplimiento de los objetivos establecidos;
+
+III. Estrategias de capacitación, información y comunicación de lineamientos y planes, así como, sus avances y resultados, y
+
+IV. Sistemas de medición y evaluación de avances y resultados obtenidos, considerando las acciones correctivas y preventivas para la reorientación de las fallas.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2023)</small>
+
+Artículo 13 NONIES.- Los resultados de los Sistemas de Manejo Ambiental de los responsables en términos de lo establecido en el artículo 13 sexties, deberán ser remitidos a la Secretaría para la integración del informe anual correspondiente.
+
+Los Sistemas de Manejo Ambiental estarán disponibles al público en el medio de difusión que la Secretaría determine.
+
 #### SECCION II. Ordenamiento Ecológico
-
-#### SECCION III. Evaluación del Impacto Ambiental
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 14.
 
@@ -801,7 +861,9 @@ III.- Una vez realizado el proceso de consulta, consensado y concluido el progra
 
 Las autoridades administrativas tomarán en cuenta y se sujetarán en sus decisiones, a los programas de ordenamiento ecológico, cuando resuelvan acerca del aprovechamiento de los recursos naturales, de la localización de las actividades productivas y de los asentamientos humanos, conforme a lo establecido por esta ley y las bases que señala la Ley General.
 
-#### SECCION IV. Prestadores de Servicios en Materia de Impacto Ambiental
+#### SECCION III. Evaluación del Impacto Ambiental
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 24.
 
@@ -1055,7 +1117,7 @@ El Instituto podrá regularizar en términos de lo dispuesto en el reglamento de
 
 Para tal efecto, corresponderá a la Procuraduría llevar a cabo una visita de inspección, con el correspondiente desahogo de su procedimiento administrativo, en el cual podrá decretarse la suspensión de la obra o actividad, o la aplicación de alguna de las medidas de seguridad, atendiendo al lugar y las condiciones que motivaron la actuación irregular, en los términos de la presente ley.
 
-#### SECCION V. Regulación Ambiental de los Asentamientos Humanos
+#### SECCION IV. Prestadores de Servicios en Materia de Impacto Ambiental
 
 ###### Artículo 40.
 
@@ -1103,15 +1165,7 @@ IV.- Pierdan la capacidad jurídica y técnica que dio origen a su registro.
 
 La Secretaría en un plazo de 30 días hábiles contados a partir de la presentación de la solicitud, resolverá sobre la procedencia o improcedencia de la inscripción en el registro. La inscripción al registro deberá ser refrendada anualmente, al vencimiento de éste.
 
-#### SECCION VI. Autorregulación y Auditorías Ambientales
-
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2016)</small>
-
-Artículo 46 bis. La Procuraduría fomentará procesos de autorregulación y auditoría ambiental y promoverá la aplicación de incentivos fiscales a quienes participen en dichos procesos. El desarrollo de la auditoría ambiental es de carácter voluntario y no limita las facultades que esta Ley confiere a la autoridad en materia de Inspección y vigilancia.
-
-Los productores, empresas u organizaciones interesadas en la realización de una auditoría ambiental y la obtención del distintivo Quintana Roo Verde, deberán solicitar por escrito su intención de incorporación al proceso de Auditoría Ambiental y establecer su compromiso de cumplir con la normatividad correspondiente y con las recomendaciones derivadas de la propia auditoría, sabedores de que las obligaciones contraídas en los compromisos serán obligatorias y su incumplimiento será motivo para la cancelación de los estímulos y certificaciones.
-
-Los procesos de autorregulación y auditoría ambiental se llevarán a cabo conforme al Reglamento que al efecto expida el Ejecutivo del Estado y los términos de referencia que emita la Procuraduría.
+#### SECCION V. Regulación Ambiental de los Asentamientos Humanos
 
 ###### Artículo 43.
 
@@ -1123,7 +1177,9 @@ II.- En la determinación de los usos del suelo, se buscará lograr una diversid
 
 III.- En la determinación de las áreas para el crecimiento de los centros de población, se fomentará el equilibrio de los usos habitacionales con los productivos que no representen riesgos o daños a la salud de la población y se evitará que se afecten áreas con alto valor ambiental;
 
-IV.- Se deberá privilegiar el establecimiento de sistemas de transporteolectivo (sic) y otros medios de alta eficiencia energética y ambiental;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+IV.- Se deberá privilegiar el establecimiento de sistemas de transporte colectivo y otros medios de alta eficiencia energética y ambiental;
 
 V.- Se establecerán y manejarán en forma prioritaria las áreas de preservación ecológica en torno a los asentamientos humanos.
 
@@ -1131,9 +1187,17 @@ Las autoridades estatales y municipales en la esfera de su competencia, promover
 
 VI.- En el aprovechamiento del agua para usos urbanos deberán de incorporar de manera equitativa los costos de su tratamiento, considerando la afectación de la calidad del recurso y la cantidad que se utilice;
 
-VII.- En la determinación de áreas para actividades riesgosas, se establecerán zonas intermedias de salvaguarda, en las que no se permitan los usos habitacionales, comerciales, u otros que pongan en riesgo a la población, y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
 
-VIII.- La política ambiental debe de buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y a la vez, prever las tendencias de crecimiento de los asentamientos humanos, para mantener una relación adecuada entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de vida.
+VII.- En la determinación de áreas para actividades riesgosas, se establecerán zonas intermedias de salvaguarda, en las que no se permitan los usos habitacionales, comerciales, u otros que pongan en riesgo a la población;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+VIII.- La política ambiental debe de buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y a la vez, prever las tendencias de crecimiento de los asentamientos humanos, para mantener una relación adecuada entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de vida, y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+IX.- En el desarrollo sustentable de las zonas urbanas, se procurará considerar espacios para el fomento e implementación de huertos urbanos y ecotecnias como parte de la educación ambiental, mediante buenas prácticas de producción, a fin de coadyuvar al equilibrio ecológico y a la mitigación de los efectos del cambio climático.
 
 ###### Artículo 44.
 
@@ -1171,15 +1235,31 @@ V.- La integración y conservación de inmuebles de valor histórico, arquitect�
 
 VI.- La conservación de las áreas verdes existentes evitando ocuparlas con obras o instalaciones que se opongan a su función;
 
-VII.- La protección, preservación y restauración de las selvas, bosques, manglares, humedales, sistemas costeros y áreas naturales protegidas evitando el asentamiento del desarrollo urbano en aquéllas; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
 
-VIII.- La protección, preservación y restauración de cuerpos de agua ubicados en zonas urbanas y vasos reguladores, evitando el desarrollo urbano en los mismos.
+VII.- La protección, preservación y restauración de las selvas, bosques, manglares, humedales, sistemas costeros y áreas naturales protegidas evitando el asentamiento del desarrollo urbano en aquéllas;
 
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
 
-IX. La observancia del Programa Estatal de Acción ante el Cambio Climático, atendiendo los límites establecidos para las zonas de mayor vulnerabilidad a los fenómenos naturales, particularmente de las islas.
+VIII.- La protección, preservación y restauración de cuerpos de agua ubicados en zonas urbanas y vasos reguladores, evitando el desarrollo urbano en los mismos;
 
-#### SECCION VII. Información Ambiental
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+IX. La observancia del Programa Estatal de Acción ante el Cambio Climático, atendiendo los límites establecidos para las zonas de mayor vulnerabilidad a los fenómenos naturales, particularmente de las islas, y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+X. La protección, conservación y mantenimiento de las áreas verdes, parques ecológicos y jardines públicos que contribuyan a la polinización y conservación de la biodiversidad.
+
+#### SECCION VI. Autorregulación y Auditorías Ambientales
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2016)</small>
+
+Artículo 46 bis. La Procuraduría fomentará procesos de autorregulación y auditoría ambiental y promoverá la aplicación de incentivos fiscales a quienes participen en dichos procesos. El desarrollo de la auditoría ambiental es de carácter voluntario y no limita las facultades que esta Ley confiere a la autoridad en materia de Inspección y vigilancia.
+
+Los productores, empresas u organizaciones interesadas en la realización de una auditoría ambiental y la obtención del distintivo Quintana Roo Verde, deberán solicitar por escrito su intención de incorporación al proceso de Auditoría Ambiental y establecer su compromiso de cumplir con la normatividad correspondiente y con las recomendaciones derivadas de la propia auditoría, sabedores de que las obligaciones contraídas en los compromisos serán obligatorias y su incumplimiento será motivo para la cancelación de los estímulos y certificaciones.
+
+Los procesos de autorregulación y auditoría ambiental se llevarán a cabo conforme al Reglamento que al efecto expida el Ejecutivo del Estado y los términos de referencia que emita la Procuraduría.
 
 ###### Artículo 47.
 
@@ -1257,7 +1337,7 @@ En los procesos que formule la Procuraduría para la realización de auditorías
 
 La Procuraduría dará a conocer los procesos preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico que se obtenga como resultado, a quienes resulten o puedan resultar directamente afectados, observando en todo momento, las disposiciones legales relativas a la confidencialidad de la información industrial y comercial de acuerdo a las leyes de Transparencia y Acceso a la Información.
 
-#### SECCION VIII. Instrumentos Económicos
+#### SECCION VII. Información Ambiental
 
 ###### Artículo 51.
 
@@ -1271,7 +1351,7 @@ Toda persona tendrá derecho a que la Secretaría ponga a su disposición la inf
 
 La Secretaría editará un boletín ambiental en el que se publicarán y difundirán las disposiciones jurídicas, decretos, reglamentos, acuerdos y demás actos administrativos, así como información de interés general en materia ambiental, que derive del Sistema Estatal de Información Ambiental.
 
-#### SECCION I. Tipos y Características de las Areas Naturales Protegidas
+#### SECCION VIII. Instrumentos Económicos
 
 ###### Artículo 53.
 
@@ -1435,7 +1515,7 @@ X. Aumentar la superficie de áreas naturales protegidas al interior del estado 
 
 XI. Participar con otros países en la ampliación del corredor mesoamericano para fortalecer los lazos de cooperación internacional estatal y dar cumplimiento a los compromisos internacionales adquiridos.
 
-#### SECCION II. Declaratorias para el Establecimiento, Conservación, Administración, Desarrollo y Vigilancia de las Areas Naturales Protegidas
+#### SECCION I. Tipos y Características de las Areas Naturales Protegidas
 
 ###### Artículo 63.
 
@@ -1509,7 +1589,7 @@ La Secretaría constituirá el Consejo Estatal para el Manejo de las Areas Natur
 
 El Consejo fungirá como órgano de consulta y apoyo de la Secretaría en la formulación, ejecución, seguimiento y evaluación de la política para el establecimiento, manejo y vigilancia de las áreas naturales protegidas de su competencia.
 
-#### SECCION III. Sistema de Areas Naturales Protegidas Del Estado de Quintana Roo
+#### SECCION II. Declaratorias para el Establecimiento, Conservación, Administración, Desarrollo y Vigilancia de las Areas Naturales Protegidas
 
 ###### Artículo 71.
 
@@ -1645,7 +1725,7 @@ Todos los actos jurídicos relativos a la propiedad o posesión relacionados con
 
 Las personas físicas o morales, propietarias o poseedoras de predios en los cuales se cubran las características establecidas en esta ley para el establecimiento de áreas naturales protegidas, podrán solicitar a la Secretaría la expedición, o al Ayuntamiento correspondiente la promoción, de la declaratoria respectiva para estos efectos.
 
-#### SECCION I. Disposiciones Generales
+#### SECCION III. Sistema de Areas Naturales Protegidas Del Estado de Quintana Roo
 
 ###### Artículo 88.
 
@@ -1669,7 +1749,7 @@ Cuando el establecimiento de un área natural protegida implique la imposición 
 
 ### CAPITULO II. Flora y Fauna Silvestre
 
-#### SECCION II. Flora Silvestre
+#### SECCION I. Disposiciones Generales
 
 ###### Artículo 92.
 
@@ -1701,7 +1781,7 @@ X.- El Estado como responsable de su política ambiental, deberá formular de ma
 
 Además de la realización de las acciones antes señaladas, en (sic) Estado ejercerá las atribuciones y funciones que le corresponden o que le sean conferidas en la materia por la Federación, de acuerdo con lo dispuesto en el (sic) Ley General de Vida Silvestre y demás disposiciones legales aplicables. Los Municipios a su vez, ejercerán las atribuciones y funciones que les confieran las disposiciones legales y las que les sean transferidas por el Estado.
 
-#### SECCION III. Fauna Silvestre
+#### SECCION II. Flora Silvestre
 
 ###### Artículo 94.
 
@@ -1773,7 +1853,7 @@ Cuando los municipios no cuenten con reglamentos u ordenanzas en la materia, cor
 
 El Estado y los Municipios participarán en las autorizaciones de aprovechamiento y colecta de especímenes de flora silvestre que otorgue la Federación, así como en la vigilancia de los términos y condiciones previstos en dichas autorizaciones, conforme a los convenios que para tal fin se establezcan.
 
-#### SECCION PRIMERA. Aprovechamiento Sustentable del Agua y los Ecosistemas Acuáticos
+#### SECCION III. Fauna Silvestre
 
 ###### Artículo 100.
 
@@ -2689,7 +2769,7 @@ En caso de que los Municipios no cuenten con una unidad administrativa en materi
 
 ### CAPITULO I. Aprovechamiento Sustentable de los Recursos Naturales
 
-#### SECCION SEGUNDA. Aprovechamiento Sustentable del Suelo
+#### SECCION PRIMERA. Aprovechamiento Sustentable del Agua y los Ecosistemas Acuáticos
 
 ###### Artículo 195.
 
@@ -2759,7 +2839,7 @@ I.- Adquieran, instalen y operen equipos, sistemas, tecnologías y materiales o 
 
 II.- Ejecuten desarrollos tecnológicos cuya aplicación demuestre prevenir o disminuir substancialmente las concentraciones de contaminantes en fuentes de agua que se utilicen para el consumo humano, o en cualquier otra actividad.
 
-#### SECCION PRIMERA. Zonas Críticas Prioritarias
+#### SECCION SEGUNDA. Aprovechamiento Sustentable del Suelo
 
 ###### Artículo 201.
 
@@ -2825,7 +2905,7 @@ La Secretaría vigilará que las personas físicas o morales responsables de la 
 
 ### CAPITULO II. Zonas Críticas y Restauración Ambiental
 
-#### SECCION SEGUNDA. Zonas de Restauración
+#### SECCION PRIMERA. Zonas Críticas Prioritarias
 
 ###### Artículo 207.
 
@@ -2842,6 +2922,8 @@ La identificación de zonas críticas prioritarias del Estado, deberá sustentar
 ###### Artículo 209.
 
 Las personas que realicen actividades de exploración, explotación o manejo de cualquier depósito del subsuelo de competencia estatal, están obligadas a cumplir con lo dispuesto en el Artículo 205 de esta Ley, así como con las demás disposiciones establecidas en la misma y en las normas oficiales mexicanas.
+
+#### SECCION SEGUNDA. Zonas de Restauración
 
 ###### Artículo 210.
 
@@ -3518,3 +3600,23 @@ SEXTO. Las autoridades correspondientes deberán hacer las modificaciones presup
 SEPTIMO. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse.
 
 OCTAVO. Se derogan todas las disposiciones normativas que se opongan a lo previsto en el presente Decreto.
+
+P.O. 16 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 065 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCIÓN DE CAMBIO CLIMÁTICO Y DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, AMBAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 068 POR EL QUE SE ADICIONAN: LA FRACCIÓN XXXIX BIS AL ARTÍCULO 4°, LA SECCIÓN I BIS DENOMINADA “DEL SISTEMA DE MANEJO AMBIENTAL” AL CAPÍTULO SEGUNDO DEL TÍTULO TERCERO Y LOS ARTÍCULOS 13 QUATER, 13 QUINQUIES, 13 SEXIES, 13 SEPTIES, 13 OCTIES Y 13 NONIES; TODOS DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La implementación de los Sistemas de Manejo Ambiental se llevará a cabo de manera paulatina y por etapas, de conformidad con los lineamientos que emita la Secretaría de Ecología y Medio Ambiente del Estado de Quintana Roo, los cuales deberán publicarse en el Periódico Oficial del Estado de Quintana Roo dentro del plazo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Las erogaciones que se llegaran a generar con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin a los ejecutores del gasto correspondiente en el ejercicio fiscal de que se trate.
