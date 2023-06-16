@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-movilidad-y-seguridad-vial-del-estado-de-michoacan-16661
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-02"
-last_updated: "2023-06-02"
+last_updated: "2023-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE JUNIO DE 2023 EN EL P.O. DEL ESTADO DE MICHOACÁN DE OCAMPO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE JUNIO DE 2023.]</small>
 
 Ley publicada en la Novena Sección del Número 7 del Periódico Oficial del Estado de Michoacán, el viernes 2 de junio de 2023.
 
@@ -2703,9 +2703,13 @@ d). Transporte de Taxi:
 
 3. Taxi Libre;
 
-5 (sic). Servicio de Taxi Metropolitano; y,
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
 
-6. Taxi Ejecutivo Público.
+4. Servicio de Taxi Metropolitano; y,
+
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
+5. Taxi Ejecutivo Público.
 
 e). Transporte Mixto; y
 
@@ -2883,9 +2887,11 @@ IV. Metropolitano. Será el que se preste dentro de las zonas metropolitanas en 
 
 V. Regional. Será el servicio que se presta para el traslado de personas de una comunidad rural de un municipio hacia otros municipios y sus comunidades, pero que pertenecen a las distintas regiones que componen al Estado.
 
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
 ###### Artículo 204.
 
-Para el Transporte público de personas en la modalidad de Taxi este será prestado conforme a los siguientes tipos de servicio:
+Para el Transporte público de personas en la modalidad de Taxi podrá ser prestado a través plataformas tecnológicas y conforme a los siguientes tipos de servicio:
 
 I. Taxi de Sitio. Será el servicio que se preste a través de vehículos motorizados sin encontrarse sujeto a horario e itinerario fijo, que cuente con un espacio físico, destinado al estacionamiento temporal, autorizado por el municipio y el Instituto en sus respectivas competencias, con accesibilidad diversa para la contratación y cobro del servicio;
 
@@ -3053,9 +3059,11 @@ II. Pornografía, erotismo o cualquiera que fomente la violencia, discriminació
 
 ### CAPÍTULO IV. DEL SERVICIO DE TRANSPORTE ESPECIALIZADO
 
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
 ###### Artículo 223.
 
-Para efectos del (sic) presente Ley y su Reglamento el servicio de Transporte Especializado tendrá las modalidades siguientes:
+Para efectos de la presente Ley y su Reglamento el servicio de Transporte Especializado tendrá las modalidades siguientes:
 
 I. De Personal. Modalidad que tiene como finalidad el traslado de personas de sus domicilios o puntos de reunión a sus centros de trabajos (sic) y viceversa, dentro de los límites del territorio estatal, el cual se presta o es contratado por entidades empleadoras para el traslado regular de sus trabajadores;
 
@@ -3063,21 +3071,27 @@ II. Escolar. Modalidad de transporte destinado al traslado de personas de la com
 
 III. De Personal Agrícola. Modalidad de transporte destinado al traslado de personas cuya actividad o labor radica esencialmente en el sector primario o agropecuario;
 
-IV. Bajo demanda a través de redes móviles mediante plataformas tecnológicas y aplicaciones digitales. Modalidad de transporte especializado destinado al traslado de personas, bienes, mercancías o alimentos que presta un particular a otro en las vías estatales y municipales de comunicación, empleando vehículos propios o de terceros, de un punto fijo a otro, utilizando sistemas de posicionamiento global y mediante el pago en efectivo o electrónico de acuerdo a la tarifa calculada a través de un contrato entre particulares, operando bajo el amparo de un permiso otorgado por el Instituto; utilizando como herramienta de contacto entre ambas personas una plataforma tecnológica y una aplicación digital diseñada, administrada, registrada y proporcionada por un tercero constituido como una sociedad mercantil conforme a las leyes mexicanas, para lo cual a esta el Instituto le expedirá una Constancia previo registro y pago de derechos correspondientes;
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
+IV. Bajo demanda a través de redes móviles mediante plataformas tecnológicas y aplicaciones digitales. Modalidad de transporte especializado destinado al traslado de personas, bienes y mercancías, que presta un particular a otro en las vías estatales y municipales de comunicación, empleando vehículos propios o de terceros, de un punto fijo a otro, utilizando sistemas de posicionamiento global y mediante el pago en efectivo o electrónico de acuerdo a la tarifa calculada a través de un contrato entre particulares, operando bajo el amparo de un permiso otorgado por el Instituto; utilizando como herramienta de contacto entre ambas personas una plataforma tecnológica y una aplicación digital diseñada, administrada, registrada y proporcionada por un tercero constituido como una sociedad mercantil conforme a las leyes mexicanas, para lo cual a esta el Instituto le expedirá una Constancia previo registro y pago de derechos correspondientes;
 
 V. Servicio Funerario. Modalidad de transporte que no están sujetos a horario, ruta e itinerario fijo, destinados al traslado de cadáveres, restos humanos y personas dolientes dentro del territorio estatal;
 
 VI. Servicio de Paquetería Express. Es la modalidad por la cual se realiza la transportación en vehículos cerrados de pequeños bultos y paquetes que contengan mercancía o paquetería en general dentro del territorio estatal.
 
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
 ###### Artículo 224.
 
-Todos los tipos del servicio de transporte especializado, a excepción del servicio de transporte de bajo demanda a través de redes móviles y/o aplicaciones digitales, serán prestados por persona física o moral según corresponda, siempre y cuando cuenten con los permisos respectivos expedidas (sic) por el Instituto para tal efecto y, su regulación estará sujeta a las disposiciones de la presente Ley y su reglamento y demás disposiciones técnicas y operativas que determine el Instituto.
+Todos los tipos del servicio de transporte especializado y el servicio de transporte bajo demanda a través de redes móviles mediante plataformas tecnológicas y aplicaciones digitales, serán prestados por persona física o moral según corresponda, estos últimos, siempre y cuando cuenten con los permisos respectivos expedidos por el Instituto para tal efecto y, su regulación estará sujeta a las disposiciones de la presente Ley y su reglamento y demás disposiciones técnicas y operativas que determine el Instituto.
 
 #### SECCIÓN ÚNICA. DEL TRANSPORTE ESPECIALIZADO BAJO DEMANDA A TRAVÉS DE REDES MÓVILES MEDIANTE PLATAFORMAS TECNOLÓGICAS Y APLICACIONES DIGITALES
 
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
 ###### Artículo 225.
 
-El servicio de transporte especializado a que se refiere la presente Sección, será prestado a través de: automóviles, motocicletas, camionetas de pasajeros o similares. En lo sucesivo para enunciar las unidades anteriormente descritas, se utilizará la denominación indistintamente como: vehículos.
+El servicio de transporte especializado a que se refiere la presente Sección, será prestado a través de: automóviles, motocicletas, camionetas de pasajeros o similares conforme al reglamento. En lo sucesivo para enunciar las unidades anteriormente descritas, se utilizará la denominación indistintamente como: vehículos.
 
 Queda prohibido el traslado de personas bajo esta modalidad utilizando como vehículo las motocicletas.
 
@@ -3105,15 +3119,21 @@ II. Coadyuvar con las autoridades competentes ante la probable comisión de cond
 
 III. Capacitar a las personas conductoras que ofrezcan el servicio de transporte especializado, en protección de la seguridad e integridad tanto de los conductores como de las personas usuarias que contratan el servicio de traslado;
 
-IV. A que el número de vehículos que circulen y que presten el servicio en territorio estatal, a que se refiere esta Sección, sean conforme a las medidas de control que determinen las autoridades competentes como medida de contención al impacto ambiental, urbano, tráfico vehicular, seguridad vial y el equilibrio entre los demás modos de transporte;
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
 
-V. Generar en conjunto con el Instituto y las demás autoridades competentes, encuestas y estudios que ayuden a mejorar la calidad del servicio de la modalidad y la experiencia de viaje de las personas usuarias;
+IV. A que el número de vehículos que circulen y que presten el servicio en territorio estatal, a que se refiere esta Sección, sean conforme a las medidas de control que determinen las autoridades competentes como medida de contención al impacto ambiental, urbano, tráfico vehicular, seguridad vial y/o el equilibrio entre los demás modos de transporte;
+
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
+V. Podrán generar en conjunto con el Instituto y las demás autoridades competentes, encuestas y estudios que ayuden a mejorar la calidad del servicio de la modalidad y la experiencia de viaje de las personas usuarias;
 
 VI. Garantizar que todos los vehículos que presten el servicio de transporte especializado a través de su plataforma tecnológica mediante aplicación digital cuenten con seguro de cobertura amplia. En caso contrario y de ocurrir un siniestro de tránsito, el conductor y propietario del vehículo que preste el servicio de transporte especializado respectivo, serán responsable solidariamente de los daños ocasionados atribuibles al conductor;
 
 VII. Los vehículos que presten el servicio de transporte especializado a través de plataforma tecnológica mediante aplicación digital deberán portar en lugar visible el distintivo que el Instituto proporcione durante el tiempo en que se encuentre operando previo el pago del derecho correspondiente;
 
-VIII. Proporcionar al Instituto, el registro total de los vehículos, propietarios, asociados, afiliados o inscritos con ese carácter o similar y operadores que utilicen su plataforma tecnológica a través de la aplicación digital respectiva, así mismo, los que han sido dados de alta, baja y las causas de esta última; en dicho padrón se deberá establecer la cantidad de viajes realizados, así como su costo unitario, el registro de siniestros de tránsito cuando ocurran, todo esto actualizado de manera mensual; y,
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
+VIII. Proporcionar al Instituto, el registro total de los vehículos, propietarios, asociados, afiliados o inscritos con ese carácter o similar y operadores que utilicen su plataforma tecnológica a través de la aplicación digital respectiva, así mismo, los que han sido dados de alta, baja y las causas de esta última; en dicho padrón se deberá establecer la cantidad de viajes pagados, así como su costo unitario, el registro de siniestros de tránsito cuando ocurran, todo esto actualizado de manera mensual; y,
 
 IX. A que toda la Información generada tanto por el registro en la plataforma tecnológica como por la contratación de la prestación del servicio de transporte especializado deberá ser resguardada conforme a la Ley de Protección de Datos Personales en Posición de Sujetos Obligados del Estado de Michoacán de Ocampo, poniendo a disposición del usuario el aviso de privacidad.
 
@@ -3159,9 +3179,11 @@ V. Inscribir ante el Instituto los vehículos que presten el servicio y que est�
 
 VI. Las demás que disponga la presente Ley, su Reglamento y otras disposiciones aplicables.
 
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
 ###### Artículo 237.
 
-La modalidad del Sistema Estatal de Transporte que requiere Constancia es:
+La modalidad del Sistema Estatal de Transporte que requiere Constancia y permiso es el Servicio de Transporte bajo demanda a través de redes móviles mediante plataformas tecnológicas y/o aplicaciones digitales conforme a esta Ley y su Reglamento.
 
 I. Servicio de Transporte bajo demanda a través de redes móviles mediante plataformas tecnológicas y/o aplicaciones digitales.
 
@@ -3185,7 +3207,9 @@ VI. Carga especial. Es el transporte de carga que se presta en contenedores o ad
 
 Las modalidades de servicio a que se refiere el presente artículo no estarán sujetas a horario ni itinerario y tarifas con excepción de la Modalidad de grúas, arrastre, salvamento y remolque.
 
-La modalidad de servicio de Pipas o Auto-tanques, no será concesionado, por lo que estará sujeta a las reglas de operación por permiso.
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
+La modalidad de servicio de Pipas o Auto-tanques, será concesionado, por lo que no estará sujeta a las reglas de operación por permiso.
 
 ###### Artículo 239.
 
@@ -3293,9 +3317,13 @@ a) De carga general;
 
 b) De materiales para la construcción;
 
-c) De grúas, arrastre, salvamento y remolque;
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
 
-d) De carga ligera o express;
+c) De grúas, arrastre, salvamento y remolque; pipas y auto-tanques;
+
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
+d) De carga ligera;
 
 e) De carga especial; y,
 
@@ -3327,7 +3355,9 @@ Cuando se autoricen nuevos sistemas o modalidades de transporte que, de origen, 
 
 Los derechos sobre concesiones y permisos otorgados por el Titular del Ejecutivo del Estado podrán ejercitarse mediante mandato, arrendarse, cederse, permutarse, fusionarse en los casos de constitución de sociedades, previa autorización del Instituto y, no podrán enajenarse, gravarse o hipotecarse. En consecuencia, se tendrán como nulos de pleno derecho los contratos, operaciones o actos que se realicen en contravención a este precepto.
 
-Las personas morales están impedidas para donar, enajenar o permutar total o parcialmente las concesiones a personas físicas;
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
+Las personas Morales están impedidas para donar, enajenar o permutar total o parcialmente las concesiones a personas físicas; salvo lo dispuesto en la presente Ley y su Reglamento.
 
 ###### Artículo 252.
 
@@ -3401,7 +3431,9 @@ Las modalidades del Sistema Estatal de Transporte que requieren permisos son:
 
 3. Transporte Agrícola;
 
-4. Transporte público de carga de pipas y auto-tanques;
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
+4. Transporte de paquetería exprés;
 
 5. Transporte Funerario;
 
@@ -3429,13 +3461,19 @@ Permiso emergente extraordinario es el que se otorga cuando se ve rebasada de ma
 
 Las concesiones, permisos y constancias no crean derechos reales, otorgan únicamente frente a la administración y sin perjuicio de terceros, el derecho a explotar los servicios de transporte a que se refiere la presente Ley, su Reglamento, así como en las diversas disposiciones aplicables, con el fin de utilizar las vías estatales y municipales de comunicación y conforme al documento que se otorgue.
 
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
 ###### Artículo 266.
 
-Los derechos sobre concesiones y permisos otorgados por el ejecutivo del Estado, son personalísimos, no podrán arrendarse, donarse, enajenarse, embargarse o permutarse total o parcialmente. En consecuencia, se tendrán como nulos de pleno derecho los contratos, operaciones o actos que se realicen en contravención a este precepto.
+Los derechos sobre concesiones y permisos otorgados por el Ejecutivo del Estado, podrán arrendarse, donarse, enajenarse, embargarse o permutarse total o parcialmente, conforme a la fracción II del Artículo 249, en consecuencia, se tendrán como nulos de pleno derecho los contratos, operaciones o actos de las demás que se realicen en contravención a este precepto.
 
-En el caso de las personas morales, están impedidas para donar, enajenar o permutar total o parcialmente cualquier tipo de concesión a personas físicas.
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
 
-El Ejecutivo del Estado podrá autorizar la transmisión de los derechos o el arrendamiento de la concesión, cuando el concesionario o permisionario sea persona física y se encuentre incapacitado física o mentalmente, debidamente acreditado con certificado médico de institución oficial del Estado e igualmente cuando así lo requiera la paz social y el interés público.
+En el caso de las personas morales, están impedidas para donar, enajenar o permutar total o parcialmente cualquier tipo de concesión a personas físicas; salvo las donaciones que se realicen por reconocimiento a los años en la prestación del servicio de transporte público en términos de la presente Ley y su Reglamento.
+
+> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+
+El Ejecutivo del Estado, además, podrá autorizar la transmisión de los derechos o el arrendamiento de la concesión, cuando el concesionario o permisionario sea persona física y se encuentre incapacitado física o mentalmente, debidamente acreditado con certificado médico de institución oficial del Estado e igualmente cuando así lo requiera la paz social y el interés público.
 
 ###### Artículo 267.
 
