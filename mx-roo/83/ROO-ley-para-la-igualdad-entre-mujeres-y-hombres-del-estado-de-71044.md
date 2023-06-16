@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-7104
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-06"
-last_updated: "2020-12-18"
+last_updated: "2023-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 6 de noviembre de 2009.
 
@@ -265,15 +265,41 @@ II. Establecer acciones de capacitación, educación y formación para el trabaj
 
 III. Potenciar el acceso en condiciones de igualdad de las personas que en razón de su edad y sexo están relegadas de puestos directivos en los ámbitos público y privado, así como destinar recursos para fomentar su contratación;
 
-IV. Favorecer que los servicios profesionales de carrera del Estado y de los Municipios promuevan la paridad genérica en los puestos que se consideran para tal efecto en los ordenamientos en la materia;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+IV. Favorecer que los servicios profesionales de carrera del Estado y de los Municipios promuevan la paridad de género en los puestos que se consideran para tal efecto en los ordenamientos en la materia;
 
 V. Revisar los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
 
 VI. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos estatales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral y económica;
 
-VII. Financiar las acciones de información, concientización y sensibilización destinadas a fomentar la igualdad económica entre mujeres y hombres; e
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
 
-VIII. Impulsar la participación activa de las mujeres en el desarrollo económico del Estado.
+VII. Financiar las acciones de información, concientización y sensibilización destinadas a fomentar la igualdad económica entre mujeres y hombres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2023)</small>
+
+VIII. Reforzar la cooperación entre los tres órdenes de gobierno, para supervisar la aplicación de las acciones que establece el presente artículo;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+IX. Vincular todas las acciones financiadas para el adelanto de las mujeres;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+XI. Diseñar políticas y programas de desarrollo empresarial, industrial y comercial en favor del empoderamiento igualitario entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación, e
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2023)</small>
+
+XIII. Impulsar la participación activa de las mujeres en el desarrollo económico del Estado.
 
 ### CAPÍTULO V. DE LA IGUALDAD POLÍTICA ENTRE MUJERES Y HOMBRES
 
@@ -727,11 +753,15 @@ La Política Estatal de Igualdad que desarrolle el Ejecutivo Estatal deberá obs
 
 I. Garantizar que la planeación presupuestal incorpore el desarrollo de la perspectiva de género, la transversalidad, y prevea el cumplimiento de los programas, proyectos, acciones y convenios para la igualdad sustantiva entre mujeres y hombres;
 
-II. Asegurar la accesibilidad a la justicia y el pleno ejercicio de los derechos de las mujeres;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+II. Promover la igualdad de acceso a la justicia y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
 III. Promover el empoderamiento de las mujeres;
 
-IV. Fomentar el cumplimiento del principio de igualdad entre mujeres y hombres en las relaciones entre particulares;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+IV. Fomentar el cumplimiento del principio de igualdad entre mujeres y hombres en todos los ámbitos de la vida: económico, político, de salud, social y cultural;
 
 V. Asegurar la eliminación de la discriminación generada por estereotipos establecidos en función del sexo;
 
@@ -747,9 +777,39 @@ X. Fomentar la participación de las organizaciones de la sociedad civil en la p
 
 XI. Garantizar la institucionalización de la igualdad;
 
-XII. Evaluar periódicamente la aplicación de la legislación en materia de igualdad entre mujeres y hombres; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+XII. Evaluar periódicamente la aplicación de la legislación en materia de igualdad entre mujeres y hombres;
 
 XIII. Erradicar las distintas modalidades y tipos de violencia de género.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+XIV. Fomentar la participación y representación política paritaria entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+XV. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+XVI. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+XVII. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+XVIII. Promover que, en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+XIX. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva, y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+XX. Fomentar el desarrollo, participación y reconocimiento de las mujeres en la ciencia y la tecnología, así como el desarrollo de investigadoras profesionales.
 
 ### CAPÍTULO III. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -1068,3 +1128,11 @@ P.O. 18 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 056 POR EL QUE SE REFORMAN LAS FRACCIONES IV, VII Y VIII DEL ARTÍCULO 14 Y LAS FRACCIONES II, IV Y XII DEL ARTÍCULO 36; Y SE ADICIONAN LAS FRACCIONES IX, X, XI, XII Y XIII AL ARTÍCULO 14; ASÍ COMO LAS FRACCIONES XIV, XV, XVI, XVII, XVIII, XIX Y XX AL ARTÍCULO 36; DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
