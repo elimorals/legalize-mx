@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2023-05-23"
+last_updated: "2023-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -2579,7 +2579,9 @@ XX. De Turismo;
 
 XXI. De Desarrollo Agropecuario y Pesquero;
 
-XXII. De Asuntos Indígenas y Afromexicanos;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2023)</small>
+
+XXII. De los Pueblos y Comunidades Indígenas y Afromexicanos;
 
 XXIII. Para la Igualdad de Género;
 
@@ -4774,3 +4776,13 @@ SEGUNDO. El presupuesto para el funcionamiento oficial de la Radio de (sic) Cong
 TERCERO. En tanto no se otorguen las licencias de autorización para el funcionamiento de la radio del Congreso del Estado, a través de la Unidad de Concesiones y Servicios del Instituto Federal de Telecomunicaciones del Gobierno de la República, esta operara con sistemas digitales de comunicación.
 
 CUARTO. Publíquese en el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales en internet.
+
+P.O. 16 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 467 POR EL QUE SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 195 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. Remítase a la Gobernadora Constitucional del Estado de Guerrero para los efectos legales conducentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
