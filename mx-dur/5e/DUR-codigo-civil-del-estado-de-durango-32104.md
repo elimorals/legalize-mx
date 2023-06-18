@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2023-03-19"
+last_updated: "2023-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2023.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -744,6 +744,10 @@ ART. 129.- La rectificación o modificación de un acta del estado civil, podrá
 ART. 130.- Ha lugar a pedir la rectificación del acta del estado civil directamente ante la Dirección General del Registro Civil, cuando existan errores mecanográficos y ortográficos u omisiones que se desprendan del contenido del acta, que no afecten la identidad de la persona, ni la sustancia del acto, ni lesione derecho de tercero o de orden público, en su caso, la autoridad competente deberá resolver en un término de diez días hábiles.
 
 Cuando se traten de rectificaciones que soliciten variar algún nombre, apellido u otra circunstancia que sea esencial y documentalmente se compruebe el hecho motivo de la rectificación, el interesado entablará procedimiento por la vía administrativa ante la Dirección General del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2023)</small>
+
+En los casos en que los trámites señalados en los párrafos anteriores sean en favor de personas en particular situación de vulnerabilidad se otorgarán todas las facilidades.
 
 En los demás casos deberá demandarse la rectificación o modificación del acta del estado civil por la vía judicial.
 
@@ -3681,21 +3685,21 @@ Del patrimonio de la familia.
 
 ### CAPITULO UNICO.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2023)</small>
 
-ART. 717.- Son susceptibles de constituir el patrimonio de la familia:
+ART. 717.- El patrimonio de familia es una Institución de interés público que se constituye con la finalidad de garantizar la subsistencia y el desarrollo de los miembros del núcleo familiar, siendo susceptible de constituirse con los bienes siguientes:
 
-Los bienes inmuebles, muebles y semovientes, que no rebasen la cuantía contenida en el Artículo 724 de este Código.
+I.- Con la casa que se destine para la habitación de la familia, incluyendo el menaje del hogar;
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2014)</small>
+II.- La parcela destinada a la manutención de la familia;
 
-Pudiendo ser los siguientes:
+III.- El vehículo automotor destinado para el uso y beneficio de la familia; y
 
-I. La casa que ésta habita, incluyendo el mobiliario y equipo de la vivienda;
+IV.- El equipo y herramienta de la micro o pequeña industria que sirva de sustento económico a la familia.
 
-II. Un vehículo automotor;
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2023)</small>
 
-III. El equipo y herramienta de la micro o pequeña industria que sirva de sustento económico a la familia;
+ART. 717 BIS.- Cualquier miembro de una familia tiene el derecho de constituir con bienes de su propiedad un patrimonio para sí y en beneficio de su familia, entendiéndose por familia para los efectos de este capítulo, al grupo de personas que habitan una misma casa y que se encuentren unidos por una relación conyugal o concubinato o lazos de parentesco consanguíneo o civil; o aquellos a los que legalmente se tenga la obligación de dar alimentos.
 
 ART. 718.- La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que le constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
 
@@ -3719,27 +3723,23 @@ ART. 722.- Sólo puede constituirse el patrimonio de la familia con bienes sitos
 
 ART. 723.- Cada familia sólo puede constituir un patrimonio. Los que constituyen subsistiendo el primero no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2023)</small>
 
-ART. 724.- El valor máximo permitido en términos de ley, respecto de los bienes que conforman el patrimonio de la familia, será de 86 Unidades de Medida y Actualización, elevadas al año. El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente tampoco será embargable; pero el valor original y su incremento, si podrán disminuirse para encuadrarse dentro de los límites establecidos por este Código.
+ART. 724.- El valor de los bienes que conformen el patrimonio de familia no podrá exceder en su conjunto de 40,000 Unidades de Medida y Actualización vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2023)</small>
 
-ART. 725.- Pueden constituir el patrimonio familiar, la madre, el padre, o ambos, en su caso, la concubina, el concubino o ambos, la madre soltera o el padre soltero, o las abuelas, los abuelos, los hijos y las hijas o cualquier persona que quiera constituirlo para proteger jurídica y económicamente a su familia y lo manifestará por escrito al juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público, los bienes que van a quedar afectos.
+ART. 725.- El miembro de la familia que quiera constituir el patrimonio de familia, lo manifestará por escrito ante al Juez de su distrito, designando con toda precisión y de manera que puedan ser inscritos los bienes ante el Registro Público de la Propiedad que van a quedar afectados. Debiendo comprobar lo siguiente:
 
-Además, comprobará lo siguiente:
-
-I.- Que es mayor de edad o que está emancipado;
+I.- Que es mayor de edad;
 
 II.- Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
 
 III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del Registro Civil;
 
-IV.- Que son propiedad del constituyente los bienes destinados al patrimonio, y que no reporten gravámenes fuera de las servidumbres;
+IV.- Que son propiedad del constituyente los bienes destinados al patrimonio y que no reportan gravámenes fuera de las servidumbres;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1996)</small>
-
-V.- Que el valor de los bienes destinados a constituír el patrimonio de la familia no exceda del máximo permitido en el Artículo 724. Dicho valor solamente se acreditará mediante avalúo catastral tratándose de inmuebles, en tanto que los muebles y los semovientes serán valuados mediante dictamen pericial.
+V.- Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo 724; tratándose de bienes inmuebles, se podrá acreditar la cuantía de los mismos tomando como base el valor catastral, lo cual se acreditará con el recibo de pago de impuesto predial del año correspondiente, o mediante avalúo de perito autorizado; en tanto que los muebles y los semovientes serán valuados mediante dictamen pericial.
 
 ART. 726.- Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos los trámites que fije el Código de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público.
 
@@ -3775,7 +3775,9 @@ ART. 733.- La constitución del patrimonio de la familia no puede hacerse en fra
 
 ART. 734.- Constituido que sea el patrimonio de la familia, ésta debe de habitar la casa, aprovechar los bienes restantes que lo conforman y cultivar la parcela si fuere el caso.
 
-ART. 735.- El patrimonio de la familia se extingue:
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE JUNIO DE 2023)</small>
+
+ART. 735.-· El patrimonio de la familia se extingue:
 
 I.- Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos;
 
@@ -3786,6 +3788,14 @@ III.- Cuando se demuestre que hay gran necesidad o notoria utilidad para la fami
 IV.- Cuando por causa de utilidad pública se expropien los bienes que lo forman;
 
 V.- Cuando tratándose del patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 729, se declare judicialmente nula o rescindida la venta de esos bienes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADA], P.O. 18 DE JUNIO DE 2023)</small>
+
+VI.- En el caso de divorcio, si no se hubiesen procreado hijos durante el matrimonio disuelto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JUNIO DE 2023)</small>
+
+Si hubiese hijos, el patrimonio de familia subsistirá en beneficio de éstos, hasta que todos ellos cumplan la mayoría de edad.
 
 ART. 736.- La declaración de que queda extinguido el patrimonio la hará el juez competente, mediante el procedimiento fijado en el Código respectivo y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
 
@@ -11384,3 +11394,19 @@ P.O. 19 DE MARZO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 386.- POR EL CUAL SE ADICIONA UN PARRAFO TERCERO AL ARTÍCULO 130, RECORRIÉNDOSE EL ACTUAL PARA QUEDAR COMO CUARTO PARRAFO, AL CODIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 18 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 391.- POR EL CUAL SE ADICIONA UN ARTICULO 717 BIS Y SE REFORMAN LOS ARTICULOS 717, 724, 725 Y 735 DEL CODIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
