@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2023-03-19"
+last_updated: "2023-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -1745,7 +1745,13 @@ IV. Revisarán los libros de gobierno, a fin de determinar si se encuentran en o
 
 V. Harán constar el número de asuntos en trámite y de los juicios de amparo que se hayan promovido en contra de sus resoluciones durante periodo que comprende la revisión; en los asuntos del orden penal, determinarán si los procesados han cumplido con las medidas establecidas en la legislación adjetiva y si en algún proceso en suspenso transcurrió el término de prescripción de la acción penal;
 
-VI. Examinarán de forma aleatoria los expedientes, a fin de verificar que se llevan con arreglo a la ley. Cuando el visitador advierta que en un proceso se venció el término para dictar sentencia; recomendará que ésta se pronuncie a la brevedad posible. En cada uno de los expedientes revisados, se dejará constancia de ello.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2023)</small>
+
+VI. Examinarán de forma aleatoria los expedientes, a fin de verificar que se llevan con arreglo a la ley. Cuando el visitador advierta que en un proceso se venció el término para dictar sentencia, recomendará que ésta se pronuncie a la brevedad posible. En cada uno de los expedientes revisados, se dejará constancia de ello; e
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2023)</small>
+
+VII. Impulsarán la prevención y sensibilización en materia de victimización secundaria.
 
 De toda visita deberá levantarse acta circunstanciada, en la cual se harán constar las incidencias surgidas durante el desarrollo de la misma; las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate; así como las manifestaciones que los mismos hicieran al respecto y las firmas del titular y del visitador.
 
@@ -3688,3 +3694,11 @@ P.O. 19 DE MARZO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 18 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 389.- QUE CONTIENE REFORMA A LA FRACCION VI Y SE ADICIONA UNA FRACCION VII AL ARTICULO 107 DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
