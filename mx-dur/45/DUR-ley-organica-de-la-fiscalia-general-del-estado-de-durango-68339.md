@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-general-del-estado-de-durango-68339
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-02-26"
-last_updated: "2023-03-19"
+last_updated: "2023-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de febrero de 2009.
 
@@ -155,17 +155,17 @@ I. Organizar, controlar y supervisar la institución del Ministerio Público;
 
 II. Participar en forma coordinada con las dependencias del Ejecutivo en la elaboración y ejecución de programas relacionados con la seguridad pública, la justicia penal o la reinserción social de delincuentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+III. Aplicar mecanismos alternativos de solución de controversias en los términos de las disposiciones legales, reglamentarias y los acuerdos que para tal efecto emita el Fiscal General, velando por la reparación del daño;
 
-III. Aplicar mecanismos alternativos de solución de controversias en los términos de las disposiciones legales, reglamentarias y los acuerdos que para tal efecto emita el Fiscal General, velando por la reparación del daño; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2023)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+IV. Instrumentar los mecanismos de coordinación y colaboración con las dependencias federales y estatales relacionadas con la Seguridad Pública del Estado que permitan el establecimiento de las acciones y estrategias para el cabal cumplimiento de sus respectivas atribuciones; y
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2023)</small>
 
-IV. Instrumentar los mecanismos de coordinación y colaboración con las dependencias federales y estatales relacionadas con la Seguridad Pública del Estado que permitan el establecimiento de las acciones y estrategias para el cabal cumplimiento de sus respectivas atribuciones.
+V. Respetar y hacer respetar los derechos de las víctimas del delito.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -593,17 +593,21 @@ X. Intervenir en los asuntos relativos a los menores de edad, personas con disca
 
 XI. Conocer de la investigación de los delitos que contempla el CAPÍTULO VII del TÍTULO DÉCIMO OCTAVO, denominado de los "Delitos Contra la Salud en su modalidad de Narcomenudeo" de la Ley General de Salud;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE JUNIO DE 2023)</small>
 
 XII. Ordenar fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2023)</small>
 
-XIII. Una vez que tenga conocimiento del hecho delictivo de manera oficiosa o previa denuncia iniciar inmediatamente la investigación y búsqueda de la mujer o mujeres desaparecidas para lo cual deberá observar lo dispuesto por las leyes de la materia vigentes en el Estado, así como los protocolos de actuación en la materia. El incumplimiento de esta disposición será considerado como grave, en materia de responsabilidad del servidor público; y
+XIII. Una vez que tenga conocimiento del hecho delictivo de manera oficiosa o previa denuncia iniciar inmediatamente la investigación y búsqueda de la mujer o mujeres desaparecidas para lo cual deberá observar lo dispuesto por las leyes de la materia vigentes en el Estado, así como los protocolos de actuación en la materia. El incumplimiento de esta disposición será considerado como grave, en materia de responsabilidad del servidor público;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2023)</small>
+
+XIV. Abstenerse de realizar actos que ocasionen revictimización o victimización secundaria; y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE MARZO DE 2023)</small>
 
-XIV. Las demás que les otorguen las leyes correspondientes.
+XV. Las demás que les otorguen las leyes correspondientes.
 
 ###### Artículo 23.
 
@@ -1430,3 +1434,11 @@ P.O. 19 DE MARZO DE 2023.
 PRIMERO. - El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. - Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 18 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 389.- QUE CONTIENE REFORMA A LA FRACCIÓN VI Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 107 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
