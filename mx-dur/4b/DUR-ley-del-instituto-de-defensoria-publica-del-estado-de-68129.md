@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-instituto-de-defensoria-publica-del-estado-de-68129"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-08"
-last_updated: "2023-03-19"
+last_updated: "2023-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 8 de marzo de 2009.
 
@@ -537,11 +537,17 @@ IV. Realizar declaraciones públicas, revelando la situación jurídica de sus r
 
 V. Abandonar el área de su asignación en horas de labores, sin previa autorización del superior inmediato, tomando en cuenta que dicho horario será igual a aquél que, para el despacho de los asuntos del orden judicial, tengan los Tribunales del Estado;
 
-VI. Desistirse de algún medio de prueba dentro de los asuntos de su competencia, sin causa justificada;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2023)</small>
 
-VII. Recibir dádivas por la prestación de sus servicios ya sea de sus representados o de la parte ofendida; y
+VI. Recibir dádivas por la prestación de sus servicios ya sea de sus representados o de la parte ofendida;
 
-VIII. Las demás que les señalen las leyes.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE JUNIO DE 2023)</small>
+
+VII. Realizar actos que ocasionen victimización secundaria; y
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2023)</small>
+
+VIII. Las demás que les señalen las leyes
 
 ### CAPÍTULO VI. DE LOS SERVICIOS AUXILIARES
 
@@ -689,9 +695,17 @@ V. Hacerse valer de cualquier medio para que se les revoque el nombramiento o ab
 
 VI. Cuando por negligencia se generen violaciones al procedimiento que afecten los derechos de libertad y seguridad respectivas;
 
-VII. Cuando haya sido corregido disciplinariamente por más de tres veces consecutivas, con relación al ejercicio de su función; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2023)</small>
 
-VIII. Dejar de cumplir cualquiera de las demás obligaciones que les estén señaladas por las leyes, reglamentos o por sus superiores.
+VII. Cuando haya sido corregido disciplinariamente por más de tres veces consecutivas, con relación al ejercicio de su función;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2023)</small>
+
+VIII. Dejar de cumplir cualquiera de las demás obligaciones que les estén señaladas por las leyes, reglamentos o por sus superiores; y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2023)</small>
+
+IX. Ejercer en contra de las víctimas actos que constituyan victimización secundaria.
 
 #### SECCIÓN ÚNICA. DE LAS SANCIONES
 
@@ -886,3 +900,11 @@ P.O. 19 DE MARZO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 18 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 389.- QUE CONTIENE REFORMA A LA FRACCIÓN VI Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 107 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
