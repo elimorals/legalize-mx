@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-sistema-local-anticorrupcion-del-estado-de-durango-1217
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-25"
-last_updated: "2021-01-03"
+last_updated: "2023-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "DUR"
 
 LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO
 
-> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE ENERO DE 2021.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2023.
 
 Ley publicada en el No. 42 del Periódico Oficial del Gobierno del Estado de Durango, el jueves 25 de mayo de 2017.
 
@@ -687,6 +683,38 @@ En caso de aceptarlas deberá informar las acciones concretas que se tomarán pa
 
 En caso de que el Consejo Coordinador considere que las medidas de atención a la recomendación no están justificadas con suficiencia, que la autoridad destinataria no realizó las acciones necesarias para su debida implementación o cuando ésta sea omisa en los informes a que se refieren los artículos anteriores, podrá solicitar a dicha autoridad la información que considere relevante.
 
+> <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 18 DE JUNIO DE 2023)</small>
+
+## TÍTULO SEXTO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2023)</small>
+
+### Capítulo Único. De la Participación de los Municipios en el Combate a la Corrupción
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2023)</small>
+
+###### Artículo 53.
+
+Los órganos de control interno de los municipios, podrán presentar denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2023)</small>
+
+###### Artículo 54.
+
+Los municipios, tendrán participación y representación en el Sistema Local, conforme a lo establecido en el artículo 163 bis y demás aplicables de la Constitución Política del Estado Libre y Soberano de Durango.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2023)</small>
+
+###### Artículo 55.
+
+Los órganos internos de control de los municipios, a solicitud del Secretario Técnico remitirá un informe anual, con los requisitos mínimos establecidos en el artículo 49 de la ley, así como con la información que sea requerida por el Consejo Coordinador.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2023)</small>
+
+###### Artículo 56.
+
+Los órganos internos de control de los municipios, implementarán los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas y los hechos de corrupción, en los términos establecidos por el Sistema Local Anticorrupción.
+
 T R A N S I T O R I O S
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
@@ -768,3 +796,11 @@ Los contratos de prestación de servicios por honorarios que se celebren a parti
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 388.- POR EL CUAL SE ADICIONA UN CAPÍTULO ÚNICO, QUE CONTIENE LOS ARTÍCULOS 53, 54, 55 Y 56 A LA LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
