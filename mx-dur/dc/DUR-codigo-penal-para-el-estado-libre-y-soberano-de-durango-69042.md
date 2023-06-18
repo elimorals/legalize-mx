@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2023-03-23"
+last_updated: "2023-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -2737,6 +2737,8 @@ Para efectos del párrafo anterior se entiende como primera vez, al registro que
 
 ### CAPÍTULO IV. FRAUDE Y EXACCIÓN FRAUDULENTA
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2023)</small>
+
 ###### Artículo 202.
 
 Comete el delito de robo de ganado quien se apodera de una o más cabezas de ganado, ajeno total o parcialmente, sin derecho y sin consentimiento de quien legalmente puede disponer de aquéllas.
@@ -2847,7 +2849,7 @@ Las penas señaladas en este capítulo se aumentarán hasta en una mitad más, c
 
 ###### Artículo 210.
 
-Comete el delito de fraude el que engañando a otro o aprovechándose del error en que éste se halla, se haga ilícitamente de una cosa o alcance un lucro indebido.
+Comete el delito de fraude el que engañando a otro o aprovechándose del error en que éste se halla, se haga ilícitamente de una cosa o alcance un lucro indebido en beneficio propio o de un tercero.
 
 ###### Artículo 211.
 
@@ -5009,6 +5011,22 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este ar
 
 Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de seis años a doce años de prisión y de cuatrocientos treinta y dos a ochocientos sesenta y cuatro veces la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2023)</small>
+
+###### Artículo 340 Ter.
+
+Comete el delito de violencia institucional, la persona servidora pública, que:
+
+I. Realice cualquier acto que dé origen, propicie o tenga como fin obstaculizar, impedir o imposibilitar el acceso a los medios de justicia y el goce de las garantías judiciales de las victimas;
+
+II. Omitan realizar las acciones que les competen, y que ello de origen, propicie o tenga como fin obstaculizar, impedir o imposibilitar el acceso a los medios de justicia y el goce de las garantías judiciales de las víctimas;
+
+III. Ejecute conductas de intimidación, manipulación o realice comentarios o acciones que, perpetuando los estereotipos de género, propicien la inhibición de la voluntad de las víctimas para ejercer sus garantías judiciales o utilizar los medios y mecanismos de acceso a la justicia.
+
+IV. Realice u omita realizar las acciones o diligencias derivadas de su puesto de trabajo, con la finalidad de dilatar o inhibir el proceso de acceso y administración de justicia de las víctimas.
+
+A quien cometa este delito se le impondrán de uno a tres años de prisión y multa de setenta y dos a doscientas dieciséis veces la Unidad de Medida y Actualización.
+
 (REUBICADO [N. DE E. ANTES CAPÍTULO XII], P.O. 16 DE JULIO DE 2017)
 
 ### CAPÍTULO I BIS. PRESTACIÓN INDEBIDA DE SERVICIOS EDUCATIVOS
@@ -6962,3 +6980,19 @@ P.O. 23 DE MARZO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 387.- POR EL CUAL SE REFORMA EL ARTÍCULO 210 DEL CODIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO."]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
+
+P.O. 18 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 390.- POR EL CUAL SE ADICIONA EL ARTICULO 340 TER AL CODIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO.”]
+
+PRIMERO.- El presente decreto entrará en vigor en día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
