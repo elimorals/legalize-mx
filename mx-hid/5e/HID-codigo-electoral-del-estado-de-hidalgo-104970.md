@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2023-03-30"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -190,6 +190,10 @@ En el ejercicio de los derechos políticos de la ciudadanía hidalguense, serán
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
 
 En los casos previstos por este Código, la postulación de personas con discapacidad será acorde con los lineamientos establecidos por la Clasificación Internacional del Funcionamiento de la Discapacidad y la Salud, así como lo previsto en la legislación de la materia, por lo que el Consejo General propondrá la instalación de un Comité integrado por la Comisión Estatal de Derechos Humanos y por miembros de la sociedad civil organizada, quienes en conjunto emitirán su opinión por cada postulación, a fin de contar con elementos acordes al modelo social de discapacidad.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+
+Toda persona registrada como candidata podrá solicitar la protección de sus datos, respecto de la acción afirmativa por la que participe.
 
 ###### Artículo 5.
 
@@ -1276,6 +1280,10 @@ I. Vigilar el cumplimiento de las disposiciones constitucionales y las de este C
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
 
 II. APROBAR Y EXPEDIR LOS REGLAMENTOS, PROGRAMAS, LINEAMIENTOS Y DEMÁS DISPOSICIONES PARA LA CONSECUCIÓN DE LOS FINES A LOS QUE SE REFIERE EL ARTÍCULO 48 DEL PRESENTE CÓDIGO;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+II Bis. Aprobar y expedir lineamientos generales que garanticen el derecho de las mujeres al acceso a cargos de elección popular en condiciones de igualdad, para hacer efectivo y concretar el principio de paridad de género;
 
 III. Atender lo relativo a la preparación, desarrollo, vigilancia, cómputo y declaración de validez de los procesos electorales locales;
 
@@ -3071,7 +3079,9 @@ El Secretario de la Mesa Directiva anotará el incidente en el acta respectiva, 
 
 Una vez comprobado que el elector aparece en las listas nominales y que haya exhibido su credencial para votar, el Presidente de la Mesa Directiva de Casilla le entregará las boletas de las elecciones para que libremente y en secreto marque en la boleta únicamente el cuadro correspondiente al partido político o del candidato independiente por el que sufraga, o anote el nombre del candidato no registrado por el que desea emitir su voto.
 
-Los electores con discapacidad, para sufragar podrán auxiliarse de otra persona, quien marcará la boleta y la introducirá en la urna respectiva, siempre y cuando no sea funcionario de casilla, ni Representante de partido. Las mujeres embarazadas y los adultos mayores, si así lo solicitan, tendrán derecho preferencial para emitir su voto y, de ser necesario, podrán acceder a la casilla con un acompañante que los asista. El Presidente de la Mesa Directiva de Casilla adoptará las medidas necesarias para hacer efectivos estos derechos. Para el caso de que corresponda al acompañante emitir su voto en esa casilla, el Presidente decidirá si le hace extensivo el derecho preferencial.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+
+Los electores con discapacidad, para sufragar podrán auxiliarse de otra persona, quien marcará la boleta y la introducirá en la urna respectiva, siempre y cuando no sea funcionario de casilla, ni Representante de partido. Toda persona ciega, que padezca una discapacidad visual o una dificultad para percibir o leer que no puede corregirse, contará con plantillas braille en las mesas directivas de casilla, donde podrán solicitar el apoyo de quien presida la Mesa Directiva de Casilla o de un acompañante, para emitir su voto de manera directa, libre y secreta. Las mujeres embarazadas y los adultos mayores, si así lo solicitan, tendrán derecho preferencial para emitir su voto y, de ser necesario, podrán acceder a la casilla con un acompañante que los asista. El Presidente de la Mesa Directiva de Casilla adoptará las medidas necesarias para hacer efectivos estos derechos. Para el caso de que corresponda al acompañante emitir su voto en esa casilla, el Presidente decidirá si le hace extensivo el derecho preferencial.
 
 Aquellos electores que no sepan leer o que se encuentren impedidos físicamente para marcar sus boletas de voto, podrán hacerse asistir por una persona de su confianza que les acompañe.
 
@@ -5985,19 +5995,19 @@ VI. SE RECIBAN O UTILICEN RECURSOS DE PROCEDENCIA ILÍCITA O RECURSOS PÚBLICOS 
 
 DICHAS VIOLACIONES DEBERÁN ACREDITARSE DE MANERA OBJETIVA Y MATERIAL. SE PRESUMIRÁ QUE LAS VIOLACIONES SON DETERMINANTES CUANDO LA DIFERENCIA ENTRE LA VOTACIÓN OBTENIDA ENTRE EL PRIMERO Y EL SEGUNDO LUGAR SEA MENOR AL CINCO POR CIENTO;
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+VII. El Tribunal Electoral del Estado de Hidalgo podrá declarar la nulidad de una elección cuando se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral, se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos o coaliciones promoventes o sus candidatos.
 
-VII. EL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO PODRÁ DECLARAR LA NULIDAD DE UNA ELECCIÓN CUANDO SE HAYAN COMETIDO EN FORMA GENERALIZADA VIOLACIONES SUSTANCIALES EN LA JORNADA ELECTORAL, SE ENCUENTREN PLENAMENTE ACREDITADAS Y SE DEMUESTRE QUE LAS MISMAS FUERON DETERMINANTES PARA EL RESULTADO DE LA ELECCIÓN, SALVO QUE LAS IRREGULARIDADES SEAN IMPUTABLES A LOS PARTIDOS O COALICIONES PROMOVENTES O SUS CANDIDATOS.
+Declarada nula alguna de las elecciones, el Tribunal Electoral del Estado de Hidalgo comunicará al Instituto Estatal Electoral la resolución respectiva, para los efectos de ley;
 
-DECLARADA NULA ALGUNA DE LAS ELECCIONES, EL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO COMUNICARÁ AL INSTITUTO ESTATAL ELECTORAL LA RESOLUCIÓN RESPECTIVA, PARA LOS EFECTOS DE LEY; Y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+VIII. Se acredite la utilización de símbolos religiosos o la intervención de ministros de culto a favor de las candidaturas o partidos ganadores y sea determinante para el resultado de la misma; y
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-VIII. CUANDO SE ACREDITE LA UTILIZACIÓN DE SÍMBOLOS RELIGIOSOS O LA INTERVENCIÓN DE MINISTROS DE CULTO A FAVOR DE LAS CANDIDATURAS O PARTIDOS GANADORES Y SEA DETERMÍNATE (SIC) PARA EL RESULTADO DE LA MISMA.
+IX. Se acrediten actos que constituyan violencia política en razón de género y sean determinantes para el resultado de la misma.
 
 ###### Artículo 386.
 
@@ -6548,3 +6558,9 @@ P.O. 30 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 488 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO, LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y, LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 519 POR EL QUE SE REFORMAN Y ADICIONAN DISTINTAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
