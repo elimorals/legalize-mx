@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2023-03-27"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -407,9 +407,9 @@ X.- Elaborar y presentar, ante el Poder Ejecutivo, la inclusión en el presupues
 
 XI.- Realizar auditorías operacionales, para supervisar la aplicación adecuada de los recursos asignados al Sistema Estatal de Protección Civil, empleados tanto en la prevención, como para la atención de algún desastre;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-XII.- Crear un fondo de reserva para la elaboración de los atlas Estatal y Municipales, para la prevención y atención de desastres, de acuerdo a la disponibilidad presupuestaria, se asignará recursos para esta partida en el presupuesto de egresos del año correspondiente. Los ayuntamientos podrán acceder a los recursos del fondo de manera equitativa, pudiendo obtener hasta un cincuenta por ciento del costo del atlas de riesgo. Se dará preferencia a aquellos que no cuenten con dicho instrumento.
+XII.- Crear un fondo de reserva para la elaboración y actualización del Atlas Estatal y los Atlas Municipales de Riesgos, para la prevención y atención de desastres, de acuerdo a la disponibilidad presupuestaria; para tal efecto se asignarán recursos para esta partida en el presupuesto de egresos del año correspondiente. Los ayuntamientos podrán acceder a los recursos del fondo de manera equitativa, pudiendo obtener hasta un cincuenta por ciento del costo del atlas de riesgo. Se dará preferencia a aquellos que no cuenten con dicho instrumento.
 
 > <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
 
@@ -791,6 +791,10 @@ Corresponde a los Municipios de la Entidad, dentro de sus respectivos ámbitos d
 
 I.- Formular y conducir las acciones de prevención y atención de riesgos en materia de protección civil Municipal, de manera congruente con los programas Estatales;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+I Bis.- Aprobar el Atlas Municipal de Riesgos dentro de los ciento ochenta días naturales posteriores al inicio de la administración municipal, así como aprobar su actualización cada dos años, para lo cual, en el ejercicio fiscal correspondiente, deberán contemplar en su presupuesto de egresos la partida presupuestal necesaria para dar cumplimiento a esta obligación.
+
 II.- Atender en forma inmediata las situaciones de emergencia que se presenten y afecten a la población del Municipio, por la presencia de algún agente perturbador;
 
 III.- Concertar acciones con el H. Cuerpo de bomberos Municipal, red Municipal de brigadistas comunitarios, grupos voluntarios y con los sectores público, social y privado, en materia de protección civil y gestión de riesgos, conforme a lo que se establece en ésta Ley;
@@ -863,13 +867,17 @@ La Coordinación Municipal de Protección Civil, tendrá las siguientes atribuci
 
 I.- Identificar los riesgos, la vulnerabilidad y el grado de resiliencia propios de cada municipio así como ser el primer nivel de respuesta para la atención de todo tipo de emergencias que se susciten dentro del Municipio;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JUNIO DE 2023)</small>
 
-II.- Elaborar programas Municipales, ordinarios y especiales de protección civil y su correspondiente atlas municipal de riesgos, este último se deberá elaborar a más tardar en un término de 150 días naturales del inicio de la administración municipal, el cual deberá ser sometido a la aprobación del ayuntamiento en el término de 30 días naturales para su respectiva publicación. Su actualización será cada dos años bajo el mismo procedimiento.
+II.- Elaborar programas Municipales, ordinarios y especiales de protección civil y su correspondiente atlas municipal de riesgos, este último se deberá elaborar a más tardar en un término de 150 días naturales siguientes al inicio de la administración municipal, debiendo ser presentado por el presidente municipal para la aprobación del Ayuntamiento en el término de los 30 días naturales siguientes, ordenando su publicación. Su actualización será cada dos años bajo el mismo procedimiento. La omisión en la elaboración, presentación y aprobación del Atlas Municipal de Riesgos dará lugar al procedimiento administrativo de responsabilidad correspondiente.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 El ayuntamiento deberá remitir a la Subsecretaria a más tardar 10 días naturales después de su aprobación o de su actualización, copia del atlas de riesgo municipal, anexando copia certificada del acta de cabildo correspondiente.
 
-La Subsecretaria deberá informar al Congreso del Estado de Hidalgo en caso de incumplimiento de dicha obligación, en termino de 30 días naturales, para la aplicación de la sanción correspondiente, de acuerdo a lo establecido en la Ley General de Responsabilidades Administrativas.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+
+La Subsecretaría deberá informar al Congreso del Estado de Hidalgo en caso de incumplimiento de dicha obligación, en el término de 30 días naturales, así como a la Contraloría Interna del Ayuntamiento para la aplicación de la sanción correspondiente, de acuerdo con lo establecido en la legislación en dicha materia.
 
 III.- Dictaminar sobre el correcto uso del suelo de impacto significativo, verificando la compatibilidad para otorgar o negar la edificación o construcción de casas y zonas habitacionales, para disminuir la vulnerabilidad de riesgo, en coordinación con la autoridad urbanística y demás autoridades en la materia;
 
@@ -1390,5 +1398,11 @@ P.O. 24 DE NOVIEMBRE DE 2022.
 P.O. 27 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 264 QUE ADICIONA UN PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 11 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO; SE ADICIONA LA FRACCIÓN II RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTÍCULO 47 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 536 POR EL QUE SE REFORMAN LA FRACCIÓN XII DEL ARTÍCULO 12 Y LA FRACCIÓN II DEL ARTÍCULO 35; Y SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 28 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
