@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-77-2022-del-pleno-del-consejo-de-la-161405"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-12-15"
-last_updated: "2022-12-15"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161405&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,17 @@ issue_date: "2022-12-06"
 ---
 # ACUERDO GENERAL 77/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA CREACION, DENOMINACION E INICIO DE FUNCIONES DEL TRIBUNAL COLEGIADO DE APELACION DEL CUARTO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEON, ASI COMO SU COMPETENCIA, JURISDICCION TERRITORIAL Y DOMICILIO; Y QUE REFORMA DIVERSOS ACUERDOS GENERALES] -- ANTES ACUERDO GENERAL 77/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA CREACION, DENOMINACION E INICIO DE FUNCIONES DEL TRIBUNAL COLEGIADO DE APELACION DEL CUARTO CIRCUITO, CON RESIDENCIA EN CADEREYTA, NUEVO LEON ASI COMO SU COMPETENCIA, JURISDICCION TERRITORIAL Y DOMICILIO] --
 
-ACUERDO GENERAL 77/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL TRIBUNAL COLEGIADO DE APELACIÓN DEL CUARTO CIRCUITO, CON RESIDENCIA EN CADEREYTA, NUEVO LEÓN, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; Y QUE REFORMA DIVERSOS ACUERDOS GENERALES
+ACUERDO GENERAL 77/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL TRIBUNAL COLEGIADO DE APELACIÓN DEL CUARTO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; Y QUE REFORMA DIVERSOS ACUERDOS GENERALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 15 de diciembre de 2022.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-ACUERDO GENERAL 77/2022, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL TRIBUNAL COLEGIADO DE APELACIÓN DEL CUARTO CIRCUITO, CON RESIDENCIA EN CADEREYTA, NUEVO LEÓN, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; Y QUE REFORMA DIVERSOS ACUERDOS GENERALES.
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 8/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE JUNIO DE 2023)</small>
+
+ACUERDO GENERAL 77/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL TRIBUNAL COLEGIADO DE APELACIÓN DEL CUARTO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; Y QUE REFORMA DIVERSOS ACUERDOS GENERALES.
 
 CONSIDERANDO
 
@@ -57,15 +59,19 @@ Se crea el Tribunal Colegiado de Apelación del Cuarto Circuito, con residencia 
 
 El Tribunal Colegiado de Apelación del Cuarto Circuito iniciará funciones el 16 de diciembre de 2022.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 8/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE JUNIO DE 2023)</small>
+
 ###### Artículo 3.
 
-El Tribunal Colegiado de Apelación del Cuarto Circuito, con residencia en Cadereyta, en el Estado de Nuevo León tendrá competencia mixta conforme a lo dispuesto en los artículos 35, 36 y 49 de la Ley Orgánica del Poder Judicial de la Federación, y ejercerá jurisdicción territorial en el Cuarto Circuito, que comprende el estado de Nuevo León.
+El Tribunal Colegiado de Apelación del Cuarto Circuito, con residencia en Monterrey, en el estado de Nuevo León, tendrá competencia mixta conforme a lo dispuesto en los artículos 35, 36 y 49 de la Ley Orgánica del Poder Judicial de la Federación, y ejercerá jurisdicción territorial en el Cuarto Circuito, que comprende el estado de Nuevo León.
 
 Asimismo, el Tribunal Colegiado de Apelación de nueva creación ejercerá jurisdicción para conocer de los juicios de amparo indirecto promovidos en contra de actos del Tribunal Colegiado de Apelación del Decimonoveno Circuito, que comprende el estado de Tamaulipas, al tratarse del Tribunal más cercano a la residencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 8/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE JUNIO DE 2023)</small>
+
 ###### Artículo 4.
 
-El Tribunal Colegiado de Apelación del Cuarto Circuito tendrá su domicilio en la carretera Cadereyta-Doctor González sin número, kilómetro 1.5, colonia San Bartolo, código postal 67456, Cadereyta, Nuevo León.
+El Tribunal Colegiado de Apelación del Cuarto Circuito tiene su domicilio en Avenida San Jerónimo 999 Poniente, colonia San Jerónimo, código postal 64640, en Monterrey, Nuevo León.
 
 Todos los trámites relacionados con los asuntos de su competencia deberán dirigirse y realizarse en el domicilio indicado.
 
@@ -164,3 +170,17 @@ QUINTO. Las Direcciones Generales de Tecnologías de la Información, y de Gesti
 SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de sus competencias, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 77/2022, del Pleno del Consejo de la Judicatura Federal, relativo a la creación, denominación e inicio de funciones del Tribunal colegiado de apelación del cuarto Circuito, con residencia en Cadereyta, Nuevo León, así como su competencia, jurisdicción territorial y domicilio; y que reforma diversos acuerdos generales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 16 de noviembre de 2022, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Lilia Mónica López Benítez y Sergio Javier Molina Martínez.- Ciudad de México, a 6 de diciembre de 2022.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 8/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DEL TRIBUNAL COLEGIADO DE APELACIÓN DEL CUARTO CIRCUITO; Y QUE REFORMA DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Tribunal Colegiado de Apelación del Cuarto Circuito, con residencia en Cadereyta, deberá publicar avisos en lugares visibles para conocimiento del público, en relación con su cambio de residencia y domicilio dispuesto en el presente Acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado del Tribunal Colegiado de Apelación del Cuarto Circuito a su nuevo domicilio.
