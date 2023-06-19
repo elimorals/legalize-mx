@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-ii-124877"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-22"
-last_updated: "2021-05-19"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-11-28"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN II
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2023.
 
 Estatuto publicado en la Octava Sección del Diario Oficial de la Federación, el viernes 22 de diciembre de 2017.
 
@@ -119,7 +119,13 @@ Unidades Operativas y Administrativas:
 
 11. Departamento de Tecnologías de Información.
 
-12. Superintendencias de Centrales.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE JUNIO DE 2023)</small>
+
+12. Departamento de Inteligencia y Análisis de Mercados
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO ANTES NUMERAL 12], D.O.F. 19 DE JUNIO DE 2023)</small>
+
+13. Superintendencias de Centrales
 
 ## TÍTULO II. De los Órganos Superiores
 
@@ -304,6 +310,10 @@ XXXIX. Presentar para conocimiento del Consejo el Plan de Negocios de la CFE Gen
 XL. Las funciones y facultades que establezca la SENER en términos de la Ley; y
 
 XLI. Además de las funciones anteriores, tendrá las que establecen los Términos para la estricta separación legal de la Comisión Federal de Electricidad; el Acuerdo de creación de la empresa productiva subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación II, y las que establezca el Consejo de Administración.
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2023)</small>
+
+XLII. Designar al personal que deberá llevar a cabo las actividades relacionadas con el Departamento de Inteligencia y Análisis de Mercados, debiendo supervisar y dar seguimiento a las labores que habrán de encomendarse a los mismos, por sí o en coordinación con el Jefe de Departamento y/o Jefe de Unidad que considere.
 
 Para el ejercicio de sus funciones, el Director General se auxiliará de las Unidades Administrativas, Operativas y Servidores Públicos que se establezcan en el presente Estatuto.
 
@@ -855,6 +865,34 @@ XII. Elaborar y ejecutar los proyectos de innovación y consolidación de infrae
 
 XIII. Brindar asistencia técnica en el ámbito de competencia de CFE Generación II, en materia informática.
 
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 26 BIS. Al Departamento de Inteligencia y Análisis de Mercados, le corresponden, además de las funciones genéricas señaladas en el artículo 19 de este Estatuto, las siguientes:
+
+I. Elaborar los Estudios de Necesidades relacionados con los bienes, y servicios no consolidados, requeridos por CFE Generación II, para su registro en el Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios;
+
+II. Revisar y validar la información registrada por las áreas requirentes de CFE Generación II en el sistema electrónico determinado para la integración del Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios, previo a que se reporte a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión;
+
+III. Reportar a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión, la información registrada por las áreas requirentes de CFE Generación II en el sistema electrónico que corresponda, para su consolidación en el Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios;
+
+IV. Dar seguimiento a la ejecución del Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios, para conocer su avance y cumplimiento en lo que corresponde a la contratación de las necesidades registradas por CFE Generación II;
+
+V. Revisar la elaboración de investigaciones de condiciones de mercado correspondientes a las necesidades de bienes y servicios no consolidados, requeridos por CFE Generación II, previo a su registro en el sistema electrónico determinado para la integración del Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios; a fin de obtener la información necesaria para realizar el registro correspondiente;
+
+VI. Revisar las actualizaciones de condiciones de mercado relativas a las contrataciones de bienes y servicios que corresponda realizar a CFE Generación II a través de su área y subáreas contratantes, a fin de obtener información sobre el comportamiento del mercado;
+
+VII. Analizar la conveniencia de modificar contratos derivados de procedimientos de contratación desarrollados por el área y subáreas contratantes de CFE Generación II, cuando se trate de sustitución de bienes, a fin de obtener las mejores condiciones;
+
+VIII. Identificar los riesgos asociados con los procedimientos de contratación a desarrollarse por el área y subáreas contratantes de CFE Generación II, para proponer mecanismos para su mitigación;
+
+IX. Diseñar estrategias de contratación a partir de las condiciones de mercado identificadas, así como de los posibles riesgos detectados en el mercado, para propiciar la obtención de las mejores condiciones en los procedimientos de contratación que desarrolle CFE Generación II, a través de su área y subáreas contratantes.
+
+X. Informar a las instancias correspondientes sobre los resultados generales de los procesos de inteligencia de mercado realizados dentro del ámbito de competencia de CFE Generación II, para proporcionar elementos para la toma de decisiones.
+
+XI. Seleccionar y proponer a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión, los servidores públicos adscritos al Departamento de Inteligencia y Análisis de Mercados y a las áreas requirentes de CFE Generación II, susceptibles de ser habilitados como agentes de inteligencia de mercado, a fin de que estén en posibilidad de realizar sus funciones.
+
+XII. Colaborar con la Gerencia de Inteligencia y Análisis de Mercados de la Comisión en las verificaciones que le realice sobre el cumplimiento de la normatividad aplicable en el ámbito de su competencia.
+
 ### CAPÍTULO III. De las Superintendencias de Centrales
 
 ###### ARTÍCULO 27.
@@ -1114,3 +1152,9 @@ D.O.F. 19 DE MAYO DE 2021
 ## [N. DE E. TRANSITORIO DEL “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN II, PUBLICADO EL 22 DE DICIEMBRE DE 2017”.]
 
 Único.- La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DE "MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN II, PUBLICADO EL 22 DE DICIEMBRE DE 2017".]
+
+Primero (Sic).- La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
