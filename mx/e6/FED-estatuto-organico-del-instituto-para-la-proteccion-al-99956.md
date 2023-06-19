@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-99956"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-03-27"
-last_updated: "2023-01-27"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-03-19"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2023.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de marzo de 2014.
 
@@ -1527,15 +1527,19 @@ Corresponde al titular de la Dirección General de Planeación Estratégica y Pr
 
 I. Coordinar el proceso de planeación estratégica en el Instituto, a fin de alinear las actividades y proyectos al cumplimiento de la misión, visión y objetivos institucionales y las actividades para mantenerlos actualizados;
 
-II. Proponer al Secretario Ejecutivo la estrategia institucional, programas de trabajo en materia de planeación estratégica, administración de riesgos y procesos, y coordinar el desarrollo de los mismos con las unidades administrativas del Instituto, con el objeto de coadyuvar a la eficiencia del sistema de protección al ahorro bancario, así como para dar cumplimiento a la normativa aplicable;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2023)</small>
+
+II. Proponer al Secretario Ejecutivo la estrategia institucional, programas de trabajo en materia de planeación estratégica, administración de riesgos y procesos, seguimiento a las acciones en materia de seguridad de la información y coordinar el desarrollo de los mismos con las unidades administrativas del Instituto, con el objeto de coadyuvar a la eficiencia del sistema de protección al ahorro bancario, así como para dar cumplimiento a la normativa aplicable;
 
 III. Informar periódicamente al Secretario Ejecutivo del Instituto sobre la ejecución de los planes, programas y proyectos estratégicos institucionales;
 
-> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2023)</small>
 
-IV. Elaborar y establecer políticas, lineamientos y procedimientos en materia de planeación estratégica, organización y evaluación institucional;
+IV. Elaborar y proponer políticas, lineamientos y procedimientos en materia de planeación estratégica, organización, seguridad de la información y evaluación institucional;
 
-V. Elaborar y establecer los lineamientos generales para los Sistemas de Planeación, Evaluación y Administración de Riesgos del Instituto, así como dar seguimiento a los programas que se deriven para el corto, mediano y largo plazos, conforme a las directrices que emitan las autoridades competentes;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2023)</small>
+
+V. Elaborar y establecer los lineamientos generales para los Sistemas de Planeación, Evaluación, Administración de Riesgos y Gestión de Seguridad de la Información del Instituto, así como dar seguimiento a los programas que se deriven para el corto, mediano y largo plazos, conforme a las directrices que emitan las autoridades competentes;
 
 VI. Formular y proponer los objetivos y metas estratégicos del Instituto, así como estructurar y priorizar las actividades y proyectos necesarios para su consecución;
 
@@ -1565,11 +1569,25 @@ XV. Monitorear e informar los riesgos en que incurren las unidades administrativ
 
 XVI. Proponer, en coordinación con el Secretario Adjunto de Protección al Ahorro Bancario, al Secretario Ejecutivo, los programas para la realización de simulacros de resoluciones bancarias;
 
-XVII. Coordinar la preparación y el desarrollo de simulacros de resoluciones bancarias y demás acciones preventivas relacionadas con las operaciones de protección, y
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+XVII. Coordinar la preparación y el desarrollo de simulacros de resoluciones bancarias y demás acciones preventivas relacionadas con las operaciones de protección;
 
-XVIII. Participar con la Dirección General de Métodos de Resolución en las actividades vinculadas con los simulacros de ejecución de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito.
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2023)</small>
+
+XVIII. Participar con la Dirección General de Métodos de Resolución en las actividades vinculadas con los simulacros de ejecución de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2023)</small>
+
+XIX. Proponer normas, políticas, lineamientos y controles en materia de seguridad de la información que permitan coadyuvar a mantener la disponibilidad, integridad y confidencialidad de la información crítica;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2023)</small>
+
+XX. Revisar e informar el grado de cumplimiento de los controles definidos por las Unidades Administrativas en materia de seguridad de la información, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2023)</small>
+
+XXI. Proponer políticas y lineamientos que le permitan al Instituto asegurar la continuidad de las operaciones en caso de presentarse una situación de contingencia.
 
 ###### ARTÍCULO 29.
 
@@ -1768,5 +1786,15 @@ D.O.F. 27 DE ENERO DE 2023.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las unidades administrativas a que se refiere el presente Acuerdo deberán realizar a la brevedad las modificaciones que correspondan en las disposiciones y documentos aplicables a su adscripción y funcionamiento.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente Acuerdo.
+
+D.O.F. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMA EL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación;
+
+SEGUNDO.- La unidad administrativa a que se refiere el presente Acuerdo deberá realizar a la brevedad las modificaciones que correspondan en las disposiciones y documentos aplicables a su adscripción y funcionamiento, y
 
 TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente Acuerdo.
