@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-i-124763"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-12"
-last_updated: "2020-11-25"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124763&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-11-27"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN I
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2023.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de diciembre de 2017.
 
@@ -157,9 +157,13 @@ II.7. Departamento de Planeación y Finanzas
 
 II.8. Departamento de Tecnologías de la Información
 
-II.9. Departamento Jurídico
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE JUNIO DE 2023)</small>
 
-II.10. Unidad de Control de Gestión y Desempeño
+II.10. Departamento de Inteligencia y Análisis de Mercados.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 19 DE JUNIO DE 2023)</small>
+
+II.11. Unidad de Control de Gestión y Desempeño.
 
 C. Auditoría Interna
 
@@ -627,6 +631,34 @@ XII. Participar activamente en la integración de los Comités y Comisiones que 
 
 XIII. Revisar y en su caso, emitir la opinión jurídica sobre los documentos de carácter legal requeridos para la ejecución de nuevos proyectos, que pretenda llevar a cabo CFE Generación I.
 
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 25 BIS. Al Departamento de Inteligencia y Análisis de Mercados le corresponderá, además de las funciones genéricas señaladas en el artículo 19 de este Estatuto, las siguientes:
+
+I. Elaborar los estudios de necesidades relacionados con los bienes, y servicios no consolidados, requeridos por CFE Generación I, para su registro en el Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios.
+
+II. Revisar y validar la información registrada por las áreas requirentes de CFE Generación I en el sistema electrónico determinado para la integración del Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios, previo a que se reporte a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión.
+
+III. Reportar a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión, la información registrada por las áreas requirentes de CFE Generación I en el sistema electrónico que corresponda, para su consolidación en el Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios.
+
+IV. Dar seguimiento a la ejecución del Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios, para conocer su avance y cumplimiento en lo que corresponde a la contratación de las necesidades registradas por CFE Generación I.
+
+V. Revisar la elaboración de investigaciones de condiciones de mercado correspondientes a las necesidades de bienes y servicios no consolidados, requeridos por CFE Generación I, previo a su registro en el sistema electrónico determinado para la integración del Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios; a fin de obtener la información necesaria para realizar el registro correspondiente.
+
+VI. Revisar las actualizaciones de condiciones de mercado relativas a las contrataciones de bienes y servicios que corresponda realizar a CFE Generación I, a través de su área y subáreas contratantes, a fin de obtener información sobre el comportamiento del mercado.
+
+VII. Analizar la conveniencia de modificar contratos derivados de procedimientos de contratación desarrollados por el área y subáreas contratantes de CFE Generación I, cuando se trate de sustitución de bienes, a fin de obtener las mejores condiciones.
+
+VIII. Identificar los riesgos asociados con los procedimientos de contratación a desarrollarse por el área y subáreas contratantes de CFE Generación I, para proponer mecanismos para su mitigación.
+
+IX. Diseñar estrategias de contratación a partir de las condiciones de mercado identificadas, así como de los posibles riesgos detectados en el mercado, para propiciar la obtención de las mejores condiciones en los procedimientos de contratación que desarrolle CFE Generación I, a través de su área y subáreas contratantes.
+
+X. Informar a las instancias correspondientes sobre los resultados generales de los procesos de inteligencia de mercado realizados dentro del ámbito de competencia de CFE Generación I, para proporcionar elementos para la toma de decisiones.
+
+XI. Seleccionar y proponer a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión, los servidores públicos adscritos al Departamento de Inteligencia y Análisis de Mercados y a las áreas requirentes de CFE Generación I, susceptibles de ser habilitados como agentes de inteligencia de mercado, a fin de que estén en posibilidad de realizar sus funciones.
+
+XII. Colaborar con la Gerencia de Inteligencia y Análisis de Mercados de la Comisión en las verificaciones que le realice sobre el cumplimiento de la normatividad aplicable en el ámbito de su competencia.
+
 ###### ARTÍCULO 26.
 
 A la Unidad de Control de Gestión y Desempeño le corresponderá, además de las funciones genéricas señaladas en el artículo 19 de este Estatuto, las siguientes:
@@ -860,3 +892,9 @@ D.O.F. 25 DE NOVIEMBRE DE 2020.
 PRIMERO.- Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La presente modificación al Estatuto fue aprobada y expedido por el Consejo de Administración de CFE Generación I, con fundamento en el artículo 14, fracción IX, del Acuerdo de creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación I, en sesión ordinaria celebrada el 02 de abril de 2020.
+
+D.O.F. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN I, PUBLICADO EL 12 DE DICIEMBRE DE 2017”.]
+
+Primero. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
