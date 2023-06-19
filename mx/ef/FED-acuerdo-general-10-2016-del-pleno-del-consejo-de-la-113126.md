@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-10-2016-del-pleno-del-consejo-de-la-113126"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-26"
-last_updated: "2022-12-15"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113126&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-02-18"
 
 ACUERDO GENERAL 10/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE NUEVO LEÓN, CON RESIDENCIA EN CADEREYTA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2023.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 26 de febrero de 2016.
 
@@ -93,9 +93,9 @@ VI. Juzgadores: Jueces de Control, Juez de Ejecución, así como tribunales de E
 
 VII. Pleno: Pleno del Consejo; y
 
-> <small>(REFORMADA POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 77/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 8/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE JUNIO DE 2023)</small>
 
-VIII. Tribunal de Alzada: Tribunal Colegiado de Apelación del Cuarto Circuito, con residencia en Cadereyta, Nuevo León.
+VIII. Tribunal de Alzada: Tribunal Colegiado de Apelación del Cuarto Circuito, con residencia en Monterrey, Nuevo León.
 
 ###### Artículo 3.
 
@@ -922,3 +922,15 @@ CUARTO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos
 QUINTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficialía de partes del Tribunal Colegiado de Apelación del Cuarto Circuito que inicia funciones.
 
 SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de sus competencias, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 8/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DEL TRIBUNAL COLEGIADO DE APELACIÓN DEL CUARTO CIRCUITO; Y QUE REFORMA DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Tribunal Colegiado de Apelación del Cuarto Circuito, con residencia en Cadereyta, deberá publicar avisos en lugares visibles para conocimiento del público, en relación con su cambio de residencia y domicilio dispuesto en el presente Acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado del Tribunal Colegiado de Apelación del Cuarto Circuito a su nuevo domicilio.
