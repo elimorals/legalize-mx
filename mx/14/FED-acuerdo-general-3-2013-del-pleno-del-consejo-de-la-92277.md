@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2023-06-02"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -187,9 +187,9 @@ IV. CUARTO CIRCUITO:
 
 1. Trece tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y cinco en materia de trabajo, todos con residencia en Monterrey.
 
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 77/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 8/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE JUNIO DE 2023)</small>
 
-2. Un tribunal colegiado de apelación, con residencia en Cadereyta.
+2. Un tribunal colegiado de apelación, con residencia en Monterrey.
 
 > <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 12/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE JUNIO DE 2022)</small>
 
@@ -10552,3 +10552,15 @@ TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas
 CUARTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos de la Oficina de Correspondencia Común que dará servicio al Tercer Tribunal Colegiado en Materia de Trabajo del Décimo Circuito que inicia funciones.
 
 QUINTO. El personal de la Administración Regional apoyará para el traslado de los asuntos que por turno corresponda conocer al Tercer Tribunal Colegiado en Materia de Trabajo del Décimo Circuito que inicia funciones.
+
+D.O.F. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 8/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DEL TRIBUNAL COLEGIADO DE APELACIÓN DEL CUARTO CIRCUITO; Y QUE REFORMA DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Tribunal Colegiado de Apelación del Cuarto Circuito, con residencia en Cadereyta, deberá publicar avisos en lugares visibles para conocimiento del público, en relación con su cambio de residencia y domicilio dispuesto en el presente Acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado del Tribunal Colegiado de Apelación del Cuarto Circuito a su nuevo domicilio.
