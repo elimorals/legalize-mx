@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-06-12"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -843,6 +843,10 @@ VIII. Bigamia, prevista en el Artículo 129;
 
 IX. Incumplimiento de las Obligaciones de Asistencia Familiar, prevista en el Artículo 131;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+IX Bis. Violencia Vicaria, prevista en el Artículo 132 Bis;
+
 X. Allanamiento de Morada, prevista en el Artículo 137;
 
 > <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
@@ -1518,6 +1522,30 @@ Al responsable de violencia familiar se le aplicarán de 1 a 4 años de prisión
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 17 DE OCTUBRE DE 2022)</small>
 
 Cuando la violencia se ejerza sobre personas menores de edad, personas de sesenta años o más, personas con discapacidad, embarazadas o cualquier otra circunstancia que no esté en condiciones de resistir la conducta violenta, o cuando la acción básica se realice en el domicilio de la víctima, la pena de prisión se aumentará hasta un cincuenta por ciento más en sus mínimos y máximos.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+
+###### ARTÍCULO 132 Bis.
+
+Violencia Vicaria. La violencia vicaria consiste en la acción u omisión dirigida hacia las hijas y/o los hijos de la víctima, cometida por quien mantenga o haya mantenido una relación de hecho, concubinato o matrimonio con la misma, y que le cause un daño o afectación física, psicoemocional o económica, con el objeto de romper el vínculo filial parental entre el sujeto pasivo y sus hijas y/o hijos.
+
+Para efectos del presente artículo se entiende por vínculo filial parental el derecho que tienen las personas menores de edad de relacionarse con sus ascendientes, surgido de la relación jurídica derivada de la filiación, sea por un hecho natural o por un acto jurídico y siempre que ello sea acorde con el interés superior de la niñez.
+
+Se considera que existe violencia vicaria cuando concurra alguna de las siguientes circunstancias:
+
+I. Existen antecedentes de violencia familiar registrados ante la autoridad competente, realizada por el sujeto activo en contra del sujeto pasivo;
+
+II. Cuando sin orden de la autoridad competente, el sujeto activo separe a las hijas y/o los hijos menores de edad del núcleo familiar al que están incorporados;
+
+III. Cuando el sujeto activo no permita la convivencia de las hijas y/o los hijos menores de edad con el sujeto pasivo, sin que medie orden de autoridad competente;
+
+IV. Cuando exista resolución judicial en la que se haya declarado que el sujeto activo ha incurrido en el supuesto de alienación parental establecido en el artículo 434 del Código Civil del Estado de Aguascalientes; o
+
+V. Cuando el sujeto activo dilate injustificadamente los procesos judiciales, administrativos o de cualquier naturaleza en los que el sujeto activo y pasivo sean partes y que versen sobre las hijas y/o los hijos.
+
+Al responsable de violencia vicaria, se le impondrán de 1 a 4 años de prisión, el pago total de la reparación de los daños y perjuicios ocasionados, y se le someterá a tratamiento psicológico para su reinserción de conformidad con lo dispuesto por el artículo 73-A de este código.
+
+Cuando la víctima sea mujer, las penas previstas se incrementarán hasta en una mitad más respecto de sus mínimos y máximos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2020)</small>
 
@@ -3776,3 +3804,15 @@ P.O. 12 DE JUNIO DE 2023.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
+
+P.O. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 366.- SE REFORMAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES; LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
