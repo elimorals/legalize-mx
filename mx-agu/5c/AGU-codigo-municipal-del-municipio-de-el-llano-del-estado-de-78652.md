@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-del-municipio-de-el-llano-del-estado-de-78652"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-17"
-last_updated: "2023-05-15"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de enero de 2011.
 
@@ -569,7 +569,9 @@ XLVIII. Formular, aprobar y administrar la zonificación, planes y programas de 
 
 XLIX. Participar en la creación y administración de sus reservas territoriales;
 
-L. Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o el Estado elaboren proyectos de desarrollo regional, deberá participar el Municipio;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+L. Revisar que la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, cumpla con su obligación de impulsar y apoyar la aplicación de las políticas, estrategias y acciones, dirigidas al desarrollo de las mujeres del Municipio, a fin de lograr su plena participación en los ámbitos económico, político, social, cultural, laboral y educativo.
 
 LI. Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en su jurisdicción territorial;
 
@@ -2317,9 +2319,17 @@ IX. Dirección de Seguridad Pública y Vialidad;
 
 X. Contraloría Municipal;
 
-XI. Consejo de la Juventud de El Llano; y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-XII. Consejos y Comités Ciudadanos Municipales.
+XI. Consejo de la Juventud de El Llano;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+XII. Consejos y Comités Ciudadanos Municipales; y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+XIII. Dirección de la Instancia Municipal de Atención a las Mujeres.
 
 ###### ARTÍCULO 213.
 
@@ -2431,9 +2441,7 @@ E. Departamento de Gestión Social;
 
 F. Departamento de Promoción y Concertación;
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
-
-G. Departamento de la Instancia de Atención a las Mujeres;
+G. (DEROGADO, P.O. 19 DE JUNIO DE 2023)
 
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
@@ -2466,6 +2474,10 @@ B. Departamento de Tránsito y Vialidad;
 C. Departamento de Prevención del Delito.
 
 De igual manera el Ayuntamiento para el logro de sus fines podrá contar con delegados, comisarios, y demás organismos, Consejos y Comités Ciudadanos Municipales necesarios para el apoyo, con arreglo a este Código Municipal.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+XI. Dirección de la Instancia Municipal de Atención a las Mujeres.
 
 ### CAPÍTULO IV. De los Funcionarios Públicos Municipales
 
@@ -3417,47 +3429,7 @@ XI. Acordar con el Presidente Municipal el despacho de los asuntos que le corres
 
 XII. Así como las acciones tendientes a mejorar la cultura de los habitantes en el Municipio de El Llano.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
-
-ARTÍCULO 252 BIS.- En cumplimiento de sus objetivos, el Departamento de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, tendrá las siguientes atribuciones:
-
-I. Promover la perspectiva de género, mediante la participación de las mujeres en la toma de decisiones respecto al diseño de los planes y programas del Gobierno Municipal;
-
-II. Coadyuvar, con el Municipio, para integrar el apartado relativo al programa operativo anual de acciones gubernamentales a favor de las mujeres, que deberá contemplar sus necesidades básicas en materia de trabajo, salud, educación, cultura, participación política, desarrollo y todas aquellas en las cuales la mujer debe tener una participación efectiva;
-
-III. Fungir como órgano de apoyo del Ayuntamiento en lo referente a las mujeres y la equidad de género;
-
-IV. Apoyar a las y los representantes del Municipio ante las autoridades estatales y con la instancia de las mujeres en la Entidad Federativa, para tratar todo lo referente a los programas dirigidos a las mujeres y lograr la equidad de género;
-
-V. En su caso, aplicar las acciones contenidas en el Programa Estatal de la Mujer;
-
-VI. Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades que coadyuven en el logro de sus objetivos;
-
-VII. Promover y concretar acciones, apoyos y colaboraciones con los sectores social y privado, con el fin de unir esfuerzos participativos a favor de una política de igualdad de género entre mujeres y hombres;
-
-VIII. Coordinar los trabajos del tema de mujeres, entre el Municipio y el Gobierno del Estado, a fin de asegurar la disposición de datos, estadísticas, indicadores y registro en los que se identifique, por separado, información sobre hombres y mujeres, que sirvan de base fundamental para la elaboración de diagnósticos municipales, estatales y regionales;
-
-IX. Instrumentar acciones tendientes a abatir las inequidades en las condiciones en que se encuentran las mujeres;
-
-X. Promover la capacitación y actualización de servidores públicos responsables de emitir las políticas públicas, de cada sector del Municipio, sobre herramientas y procedimientos para incorporar la perspectiva de género en la planeación local y los procesos de programación presupuestal;
-
-XI. Brindar orientación a las mujeres del Municipio que así lo requieran por haber sido víctimas de violencia, maltrato o cualquier otra afección tendiente a discriminarlas por razón de su condición;
-
-XII. Promover ante las autoridades del sector salud, los servicios antes, durante y después del embarazo, así como promover campañas de prevención y atención al cáncer de mama y cervicouterino;
-
-XIII. Impulsar la realización de programas de atención para la mujer de la tercera edad y otros grupos vulnerables;
-
-XIV. Promover, ante la instancia que corresponda, las modificaciones pertinentes a la legislación estatal o a la reglamentación municipal, a fin de asegurar el marco jurídico que garantice la igualdad de oportunidades en materia de educación, salud, capacitación, ejercicio de derechos, trabajo y remuneración;
-
-XV. Estimular la capacidad productiva de la mujer;
-
-XVI. Promover la elaboración de programas que fortalezcan a la familia como ámbito de igualdad de derechos, oportunidades y responsabilidades, sin distinción de sexo;
-
-XVII. Coadyuvar en el combate y eliminación de todas las formas de violencia contra las mujeres, dentro o fuera de la familia;
-
-XVIII. Diseñar los mecanismos para el cumplimiento y vigilancia de las políticas de apoyo a la participación de las mujeres en los diversos ámbitos del desarrollo municipal; y
-
-XIX. Las demás que se establezcan en las disposiciones correspondientes.
+ARTÍCULO 252 BIS.- (DEROGADO, P.O. 19 DE JUNIO DE 2023)
 
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3597,57 +3569,165 @@ La Dirección de Seguridad Pública y Vialidad Municipal tendrá como facultades
 
 ## TÍTULO PRIMERO. DE LA INSTANCIA MUNICIPAL DE ATENCIÓN A LAS MUJERES DEL MUNICIPIO DE EL LLANO
 
-### CAPÍTULO I. Instancia Municipal de Atención a las Mujeres
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO I
+
+De la Dirección de la Instancia Municipal de Atención a las Mujeres.
 
 #### SECCIÓN I. Del Objetivo, Naturaleza Jurídica y Atribuciones
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 256.
 
-La presente Sección tiene por objetivo regular las atribuciones, así como la administración y funcionamiento del Departamento de Atención a las Mujeres.
+La presente Sección tiene por objetivo regular las atribuciones, así como la administración y funcionamiento de la Dirección de la Instancia Municipal de Atención a las Mujeres.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 257.
 
-Se instituye el Departamento de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, para el desarrollo social integral de la mujer dentro del Municipio, como el Departamento de la Dirección de Desarrollo Social.
+Se instituye la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, para el desarrollo social integral de la mujer dentro del Municipio, como el Departamento de la Dirección de Desarrollo Social.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 258.
 
-El objeto general del Departamento de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, es promover y fomentar las condiciones que posibiliten la no discriminación de las mujeres y la igualdad de oportunidades y de trato entre los hombres y las mujeres en el Municipio, así como el ejercicio pleno de todos los derechos reconocidos por la legislación mexicana y la participación equitativa de las mujeres en la vida política, cultural, económica y social del Municipio, así como la de los hombres en la vida familiar; bajo criterios en donde se mantenga este enfoque en todas las políticas públicas establecidas por cada una de las dependencias y entidades municipales.
+El objeto general de la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, es promover y fomentar las condiciones que posibiliten la no discriminación de las mujeres y la igualdad de oportunidades y de trato entre los hombres y las mujeres en el Municipio, así como el ejercicio pleno de todos los derechos reconocidos por la legislación mexicana y la participación equitativa de las mujeres en la vida política, cultural, económica y social del Municipio, así como la de los hombres en la vida familiar; bajo criterios en donde se mantenga este enfoque en todas las políticas públicas establecidas por cada una de las dependencias y entidades municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 259.
 
-(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
+En cumplimiento de sus objetivos, la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, tendrá las siguientes atribuciones:
+
+I. Promover la perspectiva de género, mediante la participación de las mujeres en la toma de decisiones respecto al diseño de los planes y programas del Gobierno Municipal;
+
+II. Coadyuvar, con el Municipio, para integrar el apartado relativo al programa operativo anual de acciones gubernamentales a favor de las mujeres, que deberá contemplar sus necesidades básicas en materia de trabajo, salud, educación, cultura, participación política, desarrollo y todas aquellas en las cuales la mujer debe tener una participación efectiva;
+
+III. Fungir como órgano de apoyo del Ayuntamiento en lo referente a las mujeres y la equidad de género;
+
+IV. Apoyar a las y los representantes del Municipio ante las autoridades estatales y con la instancia de las mujeres en la Entidad Federativa, para tratar todo lo referente a los programas dirigidos a las mujeres y lograr la equidad de género;
+
+V. En su caso, aplicar las acciones contenidas en el Programa Estatal de la Mujer;
+
+VI. Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades que coadyuven en el logro de sus objetivos;
+
+VII. Promover y concretar acciones, apoyos y colaboraciones con los sectores social y privado, con el fin de unir esfuerzos participativos a favor de una política de igualdad de género entre mujeres y hombres;
+
+VIII. Coordinar los trabajos del tema de mujeres, entre el Municipio y el Gobierno del Estado, a fin de asegurar la disposición de datos, estadísticas, indicadores y registro en los que se identifique, por separado, información sobre hombres y mujeres, que sirvan de base fundamental para la elaboración de diagnósticos municipales, estatales y regionales;
+
+IX. Instrumentar acciones tendientes a abatir las inequidades en las condiciones en que se encuentran las mujeres;
+
+X. Promover la capacitación y actualización de servidores públicos responsables de emitir las políticas públicas, de cada sector del Municipio, sobre herramientas y procedimientos para incorporar la perspectiva de género en la planeación local y los procesos de programación presupuestal;
+
+XI. Brindar orientación a las mujeres del Municipio que así lo requieran por haber sido víctimas de violencia, maltrato o cualquier otra afección tendiente a discriminarlas por razón de su condición;
+
+XII. Promover ante las autoridades del sector salud, los servicios antes, durante y después del embarazo, así como promover campañas de prevención y atención al cáncer de mama y cervicouterino;
+
+XIII. Impulsar la realización de programas de atención para la mujer de la tercera edad y otros grupos vulnerables;
+
+XIV. Promover, ante la instancia que corresponda, las modificaciones pertinentes a la legislación estatal o a la reglamentación municipal, a fin de asegurar el marco jurídico que garantice la igualdad de oportunidades en materia de educación, salud, capacitación, ejercicio de derechos, trabajo y remuneración;
+
+XV. Estimular la capacidad productiva de la mujer;
+
+XVI. Promover la elaboración de programas que fortalezcan a la familia como ámbito de igualdad de derechos, oportunidades y responsabilidades, sin distinción de sexo;
+
+XVII. Coadyuvar en el combate y eliminación de todas las formas de violencia contra las mujeres, dentro o fuera de la familia;
+
+XVIII. Diseñar los mecanismos para el cumplimiento y vigilancia de las políticas de apoyo a la participación de las mujeres en los diversos ámbitos del desarrollo municipal;
+
+XIX. Proponer Programas y Proyectos orientados a promover el desarrollo integral de las mujeres en el ámbito laboral, educativo, económico, social y cultural, en coordinación con las Instancias Federales, Estatales y Municipales, sectores privados y organizaciones de la sociedad civil;
+
+XX. Impulsar la creación de fuentes de empleo y el financiamiento de créditos dirigidos a mejorar las condiciones de vida de las mujeres en el municipio, en coordinación con los sectores públicos, privados y asociaciones civiles;
+
+XXI. Impulsar la profesionalización de las mujeres y el acceso a programas sociales, educativos, deportivos y culturales en la Administración Pública Municipal;
+
+XXII. Ejecutar los Programas que implementa el Instituto de la Mujer para el Estado de Aguascalientes, que sean afines a los programas municipales, de acuerdo a la suficiencia presupuestal que se le asigne para tal efecto;
+
+XXIII. Participar en los Programas y acciones que emprendan las Instancias Federales, Estatales y Municipales en materia de combate a la pobreza, discriminación, migración, trata de personas, violencia y exclusión de las mujeres, en todas las comunidades del Municipio de El Llano;
+
+XXIV. Promover en coordinación con las instancias educativas del municipio, cursos y talleres de capacitación en materia de género, igualdad entre mujeres y hombres, prevención de la violencia familiar;
+
+XXV. Establecer mecanismos que favorezcan la erradicación de la violencia de género en instituciones educativas, centros laborales privados y públicos, mediante convenios o acuerdos establecidos para tal efecto.
+
+XXVI. Difundir en el municipio los contenidos de las Leyes de Acceso de las Mujeres a una Vida Libre de Violencia, de Igualdad de Derechos y Oportunidades entre Mujeres y Hombres para el Estado de Aguascalientes y sus Reglamentos, así como, de los instrumentos internacionales en materia de los derechos de las mujeres;
+
+XXVII. Elaborar el Programa Municipal de Atención y Participación de las Mujeres de acuerdo a la metodología que establezca el Plan de Desarrollo Municipal;
+
+XXVIII. Capacitar por lo menos una vez al año en materia de género, derechos humanos de las mujeres y violencia familiar, a los servidores públicos de las dependencias municipales.
+
+XXIX. Brindar orientación a las Mujeres que así lo requieran, por haber sido víctimas de violencia, maltrato o cualquier otra afección tendiente a discriminarlas;
+
+XXX. Fomentar en coordinación con las autoridades del sector salud Estatal, la educación para la salud, la educación reproductiva y la detección oportuna de cáncer en todas sus variables, promoviendo servicios de salud integral para las mujeres;
+
+XXXI. Coordinar con instancias de Gobierno Federal, Estatal y Municipal, a fin de asegurar la disposición de datos estadísticos, indicadores de registro y otras informaciones en donde se identifique la situación de hombres y mujeres, que permitan la instrumentación de estrategias que coadyuven a eliminar desigualdades entre los sexos, y
+
+XXXII. Las demás que le confieran expresamente otras disposiciones o le encomiende el Presidente Municipal.
 
 #### SECCIÓN II. Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 260.
 
-(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
+Corresponde a la Titular de la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, la representación, el trámite y resolución de todos los asuntos de su competencia, para tales efectos ejercerá las facultades que resulten necesarias; así mismo, podrá delegar a servidores públicos subalternos algunas de las facultades que le otorga el presente reglamento, sin perjuicio de su ejercicio directo, de igual manera, podrá autorizar por escrito a servidores públicos subalternos para que realicen actos y suscriban documentos que formen parte del ejercicio de sus atribuciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 261.
 
-(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2021)
+La Titular de la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+I. Administrar con eficiencia los recursos materiales, humanos y coordinar de acuerdo a la normatividad del municipio, las actividades de la Instancia para el mejor desempeño de sus funciones;
+
+II. Elaborar sus Manuales de Organización y Procedimientos y mantenerlos actualizados;
+
+III. Elaborar el Programa Operativo Anual y de Presupuesto Anual de la Instancia a su cargo;
+
+IV. Informar al Presidente Municipal con la periodicidad que se establezca, los avances del cumplimiento de sus programas de trabajo de acuerdo al Programa Operativo Anual.
+
+V. Instrumentar las acciones y Programas tendientes a prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el municipio, de acuerdo a la Política Federal y Estatal;
+
+VI. Coadyuvar con la Federación a través del Instituto de la Mujer para el Estado de Aguascalientes, en los Programas y Acciones del Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+VII. Participar en la elaboración del Programa Estatal para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en coordinación con las instancias integrantes del Sistema Estatal;
+
+VIII. Ejecutar en el marco de sus atribuciones, las acciones encaminadas al cumplimiento del Programa Estatal;
+
+IX. Formar parte de las Comisiones del Instituto Estatal de la Mujer, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+
+X. Participar en las sesiones de las Comisiones del Instituto Estatal de la Mujer de que forme parte;
+
+XI. Apoyar la creación en el municipio, de refugios seguros para las mujeres y sus hijos o ambos en situación de violencia;
+
+XII. Celebrar Convenios de Colaboración, con las Instancias Federal, Estatal y Municipal, que permitan obtener los recursos necesarios para el desempeño de sus funciones previo acuerdo del Ayuntamiento;
+
+XIII. Fungir como representante del Municipio ante el Instituto de la Mujer para el Estado de Aguascalientes y el Instituto Nacional de las Mujeres;
+
+XIV. Responder por escrito a los integrantes del Ayuntamiento, la información que se les requiera;
+
+XV. Asistir a las reuniones de trabajo cuando se requiera a Convocatoria de quienes integran el Ayuntamiento;
+
+XVI. Cumplir y hacer cumplir el presente ordenamiento, así como, las demás disposiciones legales aplicables a la materia, y
+
+XVII. Las demás que le confieran expresamente otras disposiciones o le encomiende el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 262.
 
-La ejecución de los proyectos y programas para la realización de los actos y actividades propias del objeto y atribuciones del Departamento de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano estará a cargo de una Jefa de Departamento, quien contará con personal de apoyo, auxilio y colaboración necesario para el óptimo desempeño de este Departamento y que para tal efecto determine el Ayuntamiento en su Presupuesto de Egresos.
+La ejecución de los proyectos y programas para la realización de los actos y actividades propias del objeto y atribuciones de la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano estará a cargo de una Directora, quien contará con personal de apoyo, auxilio y colaboración necesario para el óptimo desempeño de esta Dirección y que para tal efecto determine el Ayuntamiento en su Presupuesto de Egresos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 263.
 
-La Jefatura del Departamento de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, recaerá forzosamente en una mujer, quien será designada y podrá ser removida por el Presidente Municipal de El Llano, Aguascalientes. Éste designará y removerá al demás personal del Departamento de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano.
+La Directora de la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, recaerá forzosamente en una mujer, quien será designada y podrá ser removida por el Presidente Municipal de El Llano, Aguascalientes. Éste designará y removerá al demás personal de la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JUNIO DE 2023)</small>
 
-Para ser Jefa del Departamento se requiere lo siguiente:
+Para ser Directora de la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, se requiere lo siguiente:
 
 I. Ser Mujer;
 
@@ -3745,17 +3825,19 @@ VI. La perspectiva de género que permita incorporar a la mujer como sujeto soci
 
 ### CAPÍTULO II. Consejo Consultivo Municipal de Erradicación de la Violencia de Género contra las Mujeres
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 268.
 
-El Ayuntamiento contará con un Consejo Consultivo Municipal de Erradicación de la Violencia de Género contra las Mujeres, cuya finalidad es de fungir como organismo asesor y promotor de acciones y políticas públicas a favor de la equidad de género, en coordinación con la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano el cual estará integrado por:
+El Ayuntamiento contará con un Consejo Consultivo Municipal de Erradicación de la Violencia de Género contra las Mujeres, cuya finalidad es de fungir como organismo asesor y promotor de acciones y políticas públicas a favor de la equidad de género, en coordinación con la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano el cual estará integrado por:
 
 I. El Presidente Municipal;
 
 II. El Secretario del H. Ayuntamiento y Director General de Gobierno;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-III. La Jefa del Departamento de Atención a las Mujeres en el Municipio de El Llano;
+III. Directora de la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano.
 
 IV. El Síndico Municipal;
 
@@ -3897,7 +3979,9 @@ IV. Capacitar anualmente con un mínimo de cuarenta horas acreditables a la tota
 
 V. Cumplimentar sin demora las órdenes de protección que al efecto emita el Ministerio Público o la autoridad jurisdiccional;
 
-VI. Participar en la capacitación que imparta el Instituto Aguascalentense de las Mujeres o la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, con motivo del registro de las órdenes de protección en el sistema informático diseñado para tales efectos; y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+VI. Participar en la capacitación que imparta el Instituto Aguascalentense de las Mujeres o la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano, con motivo del registro de las órdenes de protección en el sistema informático diseñado para tales efectos; y
 
 VII. Registrar toda orden de protección cumplimentada en el sistema informático de factores de riesgo que al efecto diseñe y coordine el Instituto Aguascalentense de las Mujeres.
 
@@ -3907,17 +3991,23 @@ Son obligaciones del Sistema Municipal para el Desarrollo Integral de la Familia
 
 I. Sensibilizar y capacitar a su personal operativo para detectar, atender y canalizar a víctimas al Centro de Atención y Prevención Integral de la Violencia de Género a cargo del Instituto Aguascalentense de las Mujeres en el Municipio y a sus unidades itinerantes para la valoración de su estado de riesgo y eventual solicitud de orden de protección;
 
-II. Implementar programas de apoyo y reeducación dirigidos a los generadores de la violencia familiar en estricto apego a los modelos y protocolos que defina el Instituto Aguascalentense de las Mujeres y la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+II. Implementar programas de apoyo y reeducación dirigidos a los generadores de la violencia familiar en estricto apego a los modelos y protocolos que defina el Instituto Aguascalentense de las Mujeres y la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano;
 
 III. Promover acciones y programas de protección social, a las receptoras de la violencia familiar;
 
 IV. Coadyuvar con las dependencias competentes en las acciones y programas de seguimiento a los casos en que tenga conocimiento de dicha violencia; y
 
-V. Prestar servicios de atención y asesoría jurídica, psicológica y social a las receptoras de la violencia familiar de conformidad con los modelos y protocolos que diseñe el Instituto Aguascalentense de las Mujeres y la Instancia Municipal de Atención de las Mujeres en el Municipio de El Llano y en donde se prohíban practicas de mediación, citación y conciliación en casos de violencia contra las mujeres.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+V. Prestar servicios de atención y asesoría jurídica, psicológica y social a las receptoras de la violencia familiar de conformidad con los modelos y protocolos que diseñe el Instituto Aguascalentense de las Mujeres y la Dirección de la Instancia Municipal de Atención a las Mujeres en el Municipio de El Llano y en donde se prohíban prácticas de mediación, citación y conciliación en casos de violencia contra las mujeres.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 280.
 
-El personal de los cuerpos de seguridad pública municipal; la Instancia Municipal de Atención de las Mujeres y el personal adscrito a la Dirección del Sistema Municipal para el Desarrollo Integral de la Familia encargado de la atención, orientación, investigación, protección, prevención o sanción de la violencia contra las mujeres, deberá contar con la capacitación correspondiente y antecedentes personales de eficiencia, honradez, profesionalismo y respeto a la legalidad y a los derechos humanos y no haber sido sancionados penal o administrativamente por eventos de violencia intrafamiliar.
+El personal de los cuerpos de seguridad pública municipal; la Dirección de la Instancia Municipal de Atención a las Mujeres y el personal adscrito a la Dirección del Sistema Municipal para el Desarrollo Integral de la Familia encargado de la atención, orientación, investigación, protección, prevención o sanción de la violencia contra las mujeres, deberá contar con la capacitación correspondiente y antecedentes personales de eficiencia, honradez, profesionalismo y respeto a la legalidad y a los derechos humanos y no haber sido sancionados penal o administrativamente por eventos de violencia intrafamiliar.
 
 ###### ARTÍCULO 281.
 
@@ -3945,11 +4035,13 @@ La unidad o unidades policíacas que se encarguen de cumplimentar la orden de pr
 
 Tratándose de la cumplimentación de órdenes de protección de emergencia y con independencia del mandato que al efecto determine el Ministerio Público, los cuerpos policíacos de seguridad pública del Municipio deberán salvaguardar la integridad de la víctima y para ello, al advertir signos evidentes de violencia física y psicológica la trasladarán al centro de salud más cercano a efecto de que sea valorado su estado y de ser el caso, le acompañarán para la presentación de la denuncia respectiva.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 287.
 
-Las unidades policíacas en la cumplimentación de órdenes de protección de emergencia, recabarán con urgencia y sin dilación si se observan indicios de la existencia de posibles hechos constitutivos de delito por parte del presunto agresor, así como de su personalidad y posibles adicciones mediante testimonios de vecinos y personas del entorno familiar, laboral, escolar, Sistema Municipal para el Desarrollo Integral de la Familia así como de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano.
+Las unidades policíacas en la cumplimentación de órdenes de protección de emergencia, recabarán con urgencia y sin dilación si se observan indicios de la existencia de posibles hechos constitutivos de delito por parte del presunto agresor, así como de su personalidad y posibles adicciones mediante testimonios de vecinos y personas del entorno familiar, laboral, escolar, Sistema Municipal para el Desarrollo Integral de la Familia así como de la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano.
 
-Esta información deberá constar en el informe que al efecto rindan con motivo de la cumplimentación de la orden de protección y en el registro respectivo en el sistema informático diseñado y coordinado por el Instituto Aguascalentense de las Mujeres en coordinación con la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano.
+Esta información deberá constar en el informe que al efecto rindan con motivo de la cumplimentación de la orden de protección y en el registro respectivo en el sistema informático diseñado y coordinado por el Instituto Aguascalentense de las Mujeres en coordinación con la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano.
 
 ###### ARTÍCULO 288.
 
@@ -3977,9 +4069,11 @@ Cuando los cuerpos policíacos de seguridad pública del Municipio reciban el re
 
 En este supuesto, la intervención policíaca será de carácter emergente y se orientará a salvaguardar la vida de las mujeres y sus familias para que con posterioridad se canalicen a las víctimas a las instancias especializadas en la atención de la violencia de género quienes por conducto de su personal realizarán las valoraciones respectivas para que en caso de que el riesgo continuase, se realice la solicitud de trámite de orden de protección ante las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 292.
 
-El registro de la cumplimentación de toda orden de protección que ejecuten los cuerpos policíacos de seguridad pública del Municipio se concentrará sin excepción alguna en el sistema informático de factores de riesgo que diseñe y coordine el Instituto Aguascalentense de las Mujeres y la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano y se ajustará a los lineamientos que al efecto se impartan en la capacitación respectiva a la que obligatoriamente deberá asistir el personal adscrito a la Dirección de Seguridad Pública y Vialidad Municipal.
+El registro de la cumplimentación de toda orden de protección que ejecuten los cuerpos policíacos de seguridad pública del Municipio se concentrará sin excepción alguna en el sistema informático de factores de riesgo que diseñe y coordine el Instituto Aguascalentense de las Mujeres y la Dirección de la Instancia Municipal de Atención a las Mujeres del Municipio de El Llano y se ajustará a los lineamientos que al efecto se impartan en la capacitación respectiva a la que obligatoriamente deberá asistir el personal adscrito a la Dirección de Seguridad Pública y Vialidad Municipal.
 
 ###### ARTÍCULO 293.
 
@@ -16960,3 +17054,15 @@ Las presentes reformas iniciarán su vigencia al día siguiente de su publicaci�
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas las disposiciones normativas o reglamentarías que se opongan a los dispuesto en la presente reforma.
+
+P.O. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE "SE REFORMA EL CÓDIGO MUNICIPAL DE EL LLANO, AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a los (sic) dispuesto en la presente reforma.
