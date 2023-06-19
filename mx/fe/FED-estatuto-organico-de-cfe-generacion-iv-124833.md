@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-iv-124833"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-15"
-last_updated: "2020-07-15"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124833&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-03-29"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN IV
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2023.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 2017.
 
@@ -104,6 +104,10 @@ II. Dirección General.
 10. Departamento Jurídico.
 
 11. Departamento de Tecnologías de la Información.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2023)</small>
+
+11 bis. Departamento de Inteligencia y Análisis de Mercados.
 
 12. Superintendencias de Centrales.
 
@@ -883,6 +887,34 @@ XII. Elaborar y ejecutar los proyectos de innovación y consolidación de infrae
 
 XIII. Brindar asistencia técnica en el ámbito de competencia de CFE Generación IV, en materia informática.
 
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 25 BIS. Al Departamento de Inteligencia y Análisis de Mercados le corresponderán las siguientes funciones:
+
+I. Elaborar los estudios de necesidades relacionados con los bienes, y servicios no consolidados, requeridos por CFE Generación IV, para su registro en el Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios.
+
+II. Revisar y validar la información registrada por las áreas requirentes de CFE Generación IV en el sistema electrónico determinado para la integración del Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios, previo a que se reporte a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión.
+
+III. Reportar a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión, la información registrada por las áreas requirentes de CFE Generación IV en el sistema electrónico que corresponda, para su consolidación en el Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios.
+
+IV. Dar seguimiento a la ejecución del Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios, para conocer su avance y cumplimiento en lo que corresponde a la contratación de las necesidades registradas por CFE Generación IV.
+
+V. Revisar la elaboración de investigaciones de condiciones de mercado correspondientes a las necesidades de bienes y servicios no consolidados, requeridos por CFE Generación IV, previo a su registro en el sistema electrónico determinado para la integración del Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios; a fin de obtener la información necesaria para realizar el registro correspondiente.
+
+VI. Revisar las actualizaciones de condiciones de mercado relativas a las contrataciones de bienes y servicios que corresponda realizar a CFE Generación IV, a través de su área y subáreas contratantes, a fin de obtener información sobre el comportamiento del mercado.
+
+VII. Analizar la conveniencia de modificar contratos derivados de procedimientos de contratación desarrollados por el área y subáreas contratantes de CFE Generación IV, cuando se trate de sustitución de bienes, a fin de obtener las mejores condiciones.
+
+VIII. Identificar los riesgos asociados con los procedimientos de contratación a desarrollarse por el área y subáreas contratantes de CFE Generación IV, para proponer mecanismos para su mitigación.
+
+IX. Diseñar estrategias de contratación a partir de las condiciones de mercado identificadas, así como de los posibles riesgos detectados en el mercado, para propiciar la obtención de las mejores condiciones en los procedimientos de contratación que desarrolle CFE Generación IV, a través de su área y subáreas contratantes.
+
+X. Informar a las instancias correspondientes sobre los resultados generales de los procesos de inteligencia de mercado realizados dentro del ámbito de competencia de CFE Generación IV, para proporcionar elementos para la toma de decisiones.
+
+XI. Seleccionar y proponer a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión, los servidores públicos adscritos al Departamento de Inteligencia y Análisis de Mercados y a las áreas requirentes de CFE Generación IV, susceptibles de ser habilitados como agentes de inteligencia de mercado, a fin de que estén en posibilidad de realizar sus funciones.
+
+XII. Colaborar con la Gerencia de Inteligencia y Análisis de Mercados de la Comisión en las verificaciones que le realice sobre el cumplimiento de la normatividad aplicable en el ámbito de su competencia.
+
 ### CAPÍTULO V. De las Superintendencias de Centrales
 
 ###### ARTÍCULO 26.
@@ -1074,3 +1106,9 @@ D.O.F. 15 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN IV, PUBLICADO EL 15 DE DICIEMBRE DE 2017”.]
 
 UNICO: El presente Estatuto Orgánico entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DE LA "MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN IV, PUBLICADO EL 15 DE DICIEMBRE DE 2017".]
+
+Primero. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
