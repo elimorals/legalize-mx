@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2023-05-15"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2601,6 +2601,12 @@ De igual manera, comete violencia familiar el integrante de la familia que lleve
 
 Queda prohibido que los padres o quienes ejercen la tutela, patria potestad, guarda y custodia o convivencia, así como cualquier miembro de la familia, utilice como método correctivo o disciplinario, el castigo corporal entendido como el uso de la fuerza física que tenga por objeto causar cierto grado de dolor o malestar, sobre niñas, niños y adolescentes.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+
+###### Artículo 347 Quater.
+
+Queda prohibido el ejercicio de la violencia vicaria en términos de lo establecido en la fracción XXXVII del Artículo 4° de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
+
 ## TITULO SEPTIMO.
 
 DE LA PATERNIDAD Y FILIACION.
@@ -3531,11 +3537,11 @@ El progenitor que perdió la patria potestad por el abandono de sus deberes alim
 
 En todos los casos el Juez deberá valorar que la declaración de pérdida de la patria potestad sea consecuente al Interés superior de la niña, niño o adolescente involucrado.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
 ###### Artículo 466 Bis.
 
-La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas en el Artículo 347 Ter de este Código, en contra de las personas sobre las cuales la ejerza.
+La patria potestad podrá ser limitada cuando la persona que la ejerce incurra en conductas de violencia familiar o de violencia vicaria previstas en los Artículos 347 Ter y 347 Quáter de este Código, en contra de las personas sobre las cuales la ejerza.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -17622,3 +17628,15 @@ El presente Decreto entrará en vigor a los 90 días siguientes de su publicaci�
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado de Aguascalientes en un término no mayor a 60 días hábiles contados a partir de la vigencia del presente Decreto, deberá realizar las modificaciones necesarias al Reglamento del Registro Civil del Estado de Aguascalientes.
+
+P.O. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 366.- SE REFORMAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES; LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
