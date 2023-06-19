@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2023-04-17"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1013,9 +1013,9 @@ II. Hacienda.
 
 III. Seguridad Pública y Protección Civil.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-IV. Comisión de Desarrollo Social.
+IV. Comisión de Desarrollo Social e Integral.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
@@ -5585,15 +5585,9 @@ APARTADO SÉPTIMO
 
 De las Faltas Contra la Convivencia, Respeto y Ambiente Vecinal
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
-ARTÍCULO 342 BIS.- Son faltas contra la sana convivencia entre vecinos en zonas habitacionales y se sancionarán con multa de seis a veintidós veces el valor diario de la unidad de medida y actualización, las siguientes:
-
-I.- Producir ruido dentro y fuera de una casa habitación con aparatos de sonido, instrumentos musicales de cualquier tipo o similares a estos, que exceda de 55 decibeles en un horario de las 6:01 horas a las 22:00 horas, establecidos en la NOM 081-SEMARNAT/1994.
-
-II.- Producir ruido dentro y fuera de una casa habitación con aparatos de sonido, instrumentos musicales de cualquier tipo o similares a estos, que exceda de los 50 decibeles en un horario de las 22:01 horas a las 6:00 horas, establecidos en la NOM 081-SEMARNAT/1994.
-
-III.- Para las zonas industrial, comercial y escolar el límite máximo permisible es de 68 decibeles entre las 6:01 a 22:00 horas y de 65 decibeles de 22:01 a 6:00 horas. En caso de ferias, eventos y festivales deberán pedir un permiso especial especificando los horarios en que sobrepasarán dichos decibeles.
+ARTÍCULO 342 BIS.- Las faltas contra la sana convivencia entre vecinos en zonas habitacionales se sancionarán de conformidad con los artículos 77 BIS y 77 TER del Reglamento de Justicia Cívica para el Municipio de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -5607,49 +5601,35 @@ ARTÍCULO 342 TER.- Para acreditar el rebase reglamentario de los decibeles, as�
 
 ARTÍCULO 342 QUATER.- Bastará la denuncia y/o queja del o las personas afectadas, a la Secretaría de Seguridad Pública Municipal y/o a la Dirección de Reglamentos Municipales, para efecto de que los elementos de policía y/o los verificadores respectivamente, se constituyan en el domicilio causante del ruido, a fin de llevar a cabo las mediciones sonoras y de vibración para efecto de acreditar el rebase en los niveles de decibeles permitidos, establecidos en la NOM-081-SEMARNAT/1994.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
 
-ARTÍCULO 342 QUINQUIES.- La facultad de inspección y apercibimiento deberá estar debidamente fundamentada y motivada por lo establecido en el Código Municipal de Aguascalientes, y corresponde a la Dirección de Reglamentos del Municipio de Aguascalientes, así como a la Secretaría de Seguridad Pública a través de sus elementos de policía, llevar a cabo actuaciones de inspección preventiva y correctiva cumpliendo con las siguientes condiciones:
+ARTÍCULO 342 QUINQUIES.- La facultad de inspección y apercibimiento deberá estar debidamente fundamentada y motivada por lo establecido en el Código Municipal de Aguascalientes y en el Reglamento de Justicia Cívica para el Municipio de Aguascalientes, y corresponde a la Dirección de Reglamentos del Municipio de Aguascalientes, así como a la Secretaría de Seguridad Pública a través de sus elementos de policía, llevar a cabo actuaciones de inspección preventiva y correctiva cumpliendo con las siguientes condiciones:
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
 1.- El titular de la Secretaría de Seguridad Pública o el Director de Reglamentos Municipales, podrán ordenar la práctica de visitas de apercibimiento, con el objeto de cuidar y prever la generación indebida de ruido de casa habitación, de acuerdo a lo prescrito en la norma respectiva para las zonas habitacionales.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+
 2.- El personal, tendrá la condición de agentes de autoridad, y deberá actuar respetando en todo momento los derechos humanos y las garantías de seguridad jurídica, consagradas en nuestra Constitución Política de los Estados Unidos Mexicanos vigente.
 
-3.- El personal habilitado, al recibir el reporte respectivo por parte de los elementos de policía de la Secretaría de Seguridad Pública Municipal, requerirá al infractor a cumplir con el nivel de decibeles permitido por la NOM-081-SEMARNAT/1994, apercibiéndolo que en caso de incumplimiento y/o reincidencia, le serán impuestas las sanciones previstas en el presente Apartado.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
-4.- El personal habilitado realizará la medición de los focos generadores de ruido a través de sonómetros y sonómetros integradores de precisión, que cuenten con certificación ante la EMA “Entidad Mexicana de Acreditación" y siguiendo el método de medición establecido por la NOM-081-SEMARNAT/1994, la medición de los focos generadores de ruido se realizará en la parte externa de la casa habitación sin que se pueda ingresar a la casa habitación generadora de ruido.
-
-5.- Si se detecta que la fuente emisora del ruido proviene de una casa habitación, la autoridad competente llevará a cabo las acciones previstas por el artículo 342 SEXIES del presente ordenamiento.
-
-El presente procedimiento se regirá bajo las reglas establecidas por la Ley del Procedimiento Administrativo del Estado de Aguascalientes, siguiendo el método de medición establecido por la NOM-081-SEMARNAT/1994.
+3.- El personal habilitado, al recibir el reporte respectivo por parte de los elementos de policía de la Secretaría de Seguridad Pública Municipal, requerirá al infractor a cumplir con el nivel de decibeles permitido por la NOM-081-SEMARNAT/1994, apercibiéndolo que en caso de incumplimiento y/o reincidencia, le serán impuestas las sanciones previstas en el Reglamento de Justicia Cívica para el Municipio de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-ARTÍCULO 342 SEXIES.- Las sanciones por infracción a lo dispuesto por el artículo 342 BIS, se ceñirán a lo siguiente:
+4.- El personal habilitado realizará la medición de los focos generadores de ruido a través de sonómetros y sonómetros integradores de precisión, que cuenten con certificación ante la EMA “Entidad Mexicana de Acreditación" y siguiendo el método de medición establecido por la NOM-081-SEMARNAT/1994, la medición de los focos generadores de ruido se realizará en la parte externa de la casa habitación sin que se pueda ingresar a la casa habitación generadora de ruido.
 
-1.- Apercibimiento por escrito emitido por la autoridad competente, en la que se haga saber al infractor, de las posibles sanciones a las que se hará acreedor, en caso de continuar violando los supuestos establecidos en el artículo 342 BIS del Código Municipal de Aguascalientes.
+5.- (DEROGADO, P.O. 19 DE JUNIO DE 2023)
 
-Multa consistente en la aplicación y cobro del resultante de la conversión de 6 a 10 veces el valor diario de la unidad de medida y actualización, cuando se cometa la infracción establecida en el artículo 342 BIS fracción I del Código Municipal de Aguascalientes.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-3 (SIC).- Multa consistente en la aplicación y cobro del resultante de la conversión de 13 a 19 veces el valor diario de la unidad de medida y actualización cuando se cometa la infracción establecida en el artículo 342 Bis fracción II del Código Municipal de Aguascalientes.
+El presente procedimiento se regirá bajo las reglas establecidas por la Ley del Procedimiento Administrativo del Estado de Aguascalientes, siguiendo el método de medición establecido por la NOM-081-SEMARNAT/1994.
 
-4.- Esas multas, podrán conmutarse por servicio comunitario, siempre que se cumplan los requisitos previstos en el Reglamento de Servicio Comunitario del Municipio de Aguascalientes.
+ARTÍCULO 342 SEXIES.- (DEROGADO, P.O. 19 DE JUNIO DE 2023)
 
-5.- En caso de reincidencia, se aplicará una multa consistente en la aplicación y cobro del resultante de la conversión de 20 veces el valor diario de la unidad de medida y actualización, para lo cual habrá de contarse con la intervención de elementos policiales de la Secretaría de Seguridad Pública, quienes pondrán a disposición de Juez Municipal en turno.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
-
-ARTICULO 342 SEPTIES.- Sanciones por infracción a lo dispuesto por el artículo 342 Bis y 342 Ter, ciñéndose al Orden de prelación que a continuación se describe:
-
-1. Apercibimiento por escrito emitido por la autoridad competente en la que se haga sabedor al infractor; propietario o poseedor del inmueble, de las posibles sanciones y el procedimiento a seguir en caso de continuar infringiendo los supuestos previstos en el artículo 342 Bis y 342 Ter.
-
-2. Trabajo conmutativo consistente en lo previsto por la fracción VII del artículo 3 del Reglamento del Servicio Comunitario del Municipio de Aguascalientes.
-
-3. Multa de $1,500.00 (Un mil quinientos pesos 00/100 M.N.) a $3,500.00 (Tres mil quinientos pesos 00/100 M.N.), cuando se comenta (sic) la infracción establecida en el artículo 342 Bis fracción I de este ordenamiento.
-
-4. Multa de $3,501.00 (Tres mil quinientos un pesos 00/100 M.N.) a $10,000.00 (Diez mil pesos 00/100 M.N.), cuando se comenta la infracción establecida en el artículo 342 Bis fracción I de este ordenamiento.
-
-5. Arresto hasta por 36 horas al responsable de la emisión de ruido.
+ARTICULO 342 SEPTIES.- (DEROGADO, P.O. 19 DE JUNIO DE 2023)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE AGOSTO DE 2021)</small>
 
@@ -24796,3 +24776,21 @@ P.O. 17 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES".]</small>
+
+P.O. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE SERVICIO COMUNITARIO PARA EL MUNICIPIO DE AGUASCALIENTES; Y, REFORMAS, ADICIONES Y DEROGACIONES AL REGLAMENTO DE JUSTICIA CÍVICA PARA EL MUNICIPIO DE AGUASCALIENTES Y AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO.- El Reglamento, así como las reformas, adiciones y derogaciones contenidas en el presente instrumento, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se abroga el Reglamento de Servicio Comunitario del Municipio de Aguascalientes, publicado en el Periódico Oficial del Estado el 3 de noviembre de 2008.
+
+TERCERO.- La persona Directora de Juzgados Cívicos deberá emitir el Reglamento Interior para Custodios Cívicos, en un plazo no mayor a 90 días hábiles contados a partir de que inicie su vigencia el Reglamento, así como las reformas, adiciones y derogaciones contenidas en el presente instrumento.
+
+P.O. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA POR LA QUE SE MODIFICA LA FRACCIÓN IV DEL APARTADO A), DEL ARTICULO 82 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se Derogan las damas disposiciones que se opongan al presente Decreto.
