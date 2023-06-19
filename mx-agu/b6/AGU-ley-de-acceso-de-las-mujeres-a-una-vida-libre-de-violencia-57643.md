@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2023-06-12"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -239,13 +239,21 @@ VIII. Derechos Humanos de las Mujeres: Derechos que son parte inalienable, integ
 
 IX. Empoderamiento de la Mujer: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, libertad, autodeterminación, autonomía y responsabilidad, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-X. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer; y
+X. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-XI. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia.
+XI. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+XII. Víctima indirecta: Familiares o aquellas personas físicas dependientes de la víctima directa que tengan una relación inmediata con ella; y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+XIII. Daño: Cualquier menoscabo que sufre una persona como consecuencia de la acción u omisión de otra, por si o a través de interpósita persona y que afecte a sus bienes, sus derechos, intereses o su integridad física, emocional o psicológica.
 
 ###### Artículo 5°.
 
@@ -325,9 +333,27 @@ VIII. Violencia Política en contra de las Mujeres en razón de Género: Es toda
 
 IX. Violencia Digital: Es la que se produce cuando una persona provoca, realiza o amenaza con realizar cualquier tipo de violencia contra una o más mujeres, utilizando cualquier medio tecnológico, vulnerando principalmente su dignidad, libertad y desarrollo psicosexual;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-X. Violencia Vicaria: Es aquella que se realiza contra una mujer a través de un acto u omisión que genere afectación o daño físico, psicológico, emocional, patrimonial o de cualquier otra índole por medio de amenazas o violencia ejercida a un descendente, ascendente o dependiente económico de la víctima; y
+X. Violencia Vicaria. La violencia Vicaria consiste en la acción u omisión dirigida hacia las hijas y/o los hijos de la víctima, cometida por quien mantenga o haya mantenido una relación de hecho, concubinato o matrimonio con la misma, y que le cause un daño o afectación física, psicoemocional o económica, con el objeto de romper el vínculo filial parental.
+
+Se manifiesta a través de diversas conductas, entre otras:
+
+a) Amenazar con causar daño a las hijas e hijos;
+
+b) Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+
+c) Utilizar a las hijas y/o los hijos para obtener información respecto de la madre;
+
+d) Promover, incitar o fomentar que las hijas y/o los hijos ejerzan cualquier tipo de violencia en contra de la madre;
+
+e) Ejercer actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+f) Ocultar, retener o sustraer a hijas o hijos, así como a familiares o personas allegadas;
+
+g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres, para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o los hijos en común; y
+
+h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE ENERO DE 2023)</small>
 
@@ -413,9 +439,17 @@ Artículo 16 bis.- Las conductas, acciones y omisiones que constituyan violencia
 
 La prevención que en el Estado se realice tendrá como objetivo lograr que la sociedad visualice todo tipo de violencia de género contra las mujeres como un evento antisocial, un problema de derechos humanos, de salud pública y de seguridad ciudadana. La prevención se llevará a cabo mediante acciones educativas en los ámbitos sociocultural, familiar e individual.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+
+Tratándose de violencia de género se deberá generar el apoyo interinstitucional del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes; Secretaría General de Gobierno, a través del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes; Instituto Aguascalentense de la Mujer; Fiscalía General del Estado, a través del Centro de Justicia para las Mujeres y en su caso Poder Judicial del Estado de Aguascalientes; con el objetivo de implementar un sistema de protección y acompañamiento integral para las mujeres y sus hijas o hijos.
+
 ###### Artículo 18.
 
 La atención que se proporcione a las mujeres víctimas de violencia de género en el Estado tendrá como fin salvaguardar su integridad, identidad y derechos, procurará su recuperación y la construcción de un nuevo proyecto de vida. Será gratuita, expedita y se proporcionará desde la perspectiva de género. La atención se realizará a través de Núcleos de Atención Integral y Refugios.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+
+En los casos de violencia vicaria se proporcionará atención y tratamiento psicológico especializado y gratuito a las víctimas y víctimas indirectas, que favorezcan la reunificación familiar entre las hijas y/o los hijos menores con la madre, con el objetivo de reparar el daño causado, derivado de dicha modalidad de violencia.
 
 ###### Artículo 19.
 
@@ -781,9 +815,17 @@ III. Proponer el establecimiento de lineamientos técnicos y administrativos que
 
 IV. Determinar las atribuciones complementarias que ejercerá la Coordinadora General;
 
-V. Convenir con los Ayuntamientos del Estado, la participación que les corresponda para la realización del objeto de esta Ley; y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-VI. Las demás que le señale la presente Ley y ordenamientos aplicables.
+V. Convenir con los Ayuntamientos del Estado, la participación que les corresponda para la realización del objeto de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JUNIO DE 2023)</small>
+
+VI. Capacitar exhaustivamente a sus funcionarios sobre la violencia vicaria y las modalidades en las que se presenta; por ser de reciente reconocimiento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JUNIO DE 2023)</small>
+
+VII. Las demás que le señale la presente Ley y ordenamientos aplicables.
 
 ###### Artículo 40.
 
@@ -909,13 +951,17 @@ XI. Promover la inclusión prioritaria en el plan estatal de desarrollo de las m
 
 XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-XIII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas; y
+XIII. Diseñar un modelo integral de atención a los derechos humanos de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-XIV. Educar, capacitar e informar a las Dependencias integrantes del Consejo, así como a la población en general sobre las consecuencias, formas de prevención y erradicación de la violencia digital, promoviendo el uso adecuado de las tecnologías de la información y comunicación.
+XIV. Educar, capacitar e informar a las Dependencias integrantes del Consejo, así como a la población en general sobre las consecuencias, formas de prevención y erradicación de la violencia digital, promoviendo el uso adecuado de las tecnologías de la información y comunicación; y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+XV. Capacitar exhaustivamente a sus funcionarios sobre la violencia vicaria y las modalidades en las que se presenta; por ser de reciente reconocimiento.
 
 ### CAPÍTULO VIII. De la Distribución de Competencias en Materia de Prevención, Atención y Sanción de la Violencia de Género Contra las Mujeres
 
@@ -1868,3 +1914,15 @@ P.O. 12 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 366.- SE REFORMAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES; LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
