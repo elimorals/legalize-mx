@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2021-12-28"
+last_updated: "2023-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 2. EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE L
 
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 28 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 19 DE JUNIO DE 2023.
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
@@ -435,11 +435,9 @@ En los ayuntamientos de regiduría única no será aplicable la paridad de géne
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO IV BIS. De los Pueblos y Comunidades Indígenas y Afromexicanas
+### CAPÍTULO IV BIS. De los Pueblos y Comunidades Indígenas u Originarios y Afromexicanos
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 19 DE JUNIO DE 2023)</small>
 
 ###### Artículo 16.
 
@@ -501,9 +499,7 @@ EL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ PROPORCIONARÁ APOY
 
 Los ayuntamientos se sujetarán, en la elección de agentes y subagentes municipales, a los principios rectores de los procesos electorales y, en lo conducente, a la aplicación de los procedimientos señalados en este Código.
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE ADICIONA EL CAPÍTULO IV BIS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE JULIO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE JUNIO DE 2023)</small>
 
 ### CAPÍTULO V. De las Elecciones Ordinarias y Extraordinarias
 
@@ -513,23 +509,19 @@ Los ayuntamientos se sujetarán, en la elección de agentes y subagentes municip
 
 ###### Artículo 17 Bis.
 
-Los pueblos y comunidades indígenas tienen derecho a elegir, en los municipios con población indígena, de acuerdo con sus principios, normas, procedimientos y prácticas tradicionales a sus representantes ante los Ayuntamientos, así como a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de hombres y mujeres en condiciones de igualdad de acuerdo con el principio de paridad de género, en cumplimiento de lo establecido en el artículo 2°. de la Constitución Política de los Estados Unidos Mexicanos, de manera gradual.
+Los pueblos y comunidades indígenas u originarios y afromexicanos tienen derecho a elegir, en los municipios en los que se encuentren asentados, de acuerdo con sus principios, normas, procedimientos, prácticas tradicionales y usos y costumbres, a sus representantes ante los Ayuntamientos, así como a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de hombres y mujeres en condiciones de igualdad, de acuerdo con el principio de paridad de género, en cumplimiento de lo establecido en el artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, de manera gradual.
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], G.O. 19 DE JUNIO DE 2023)</small>
 
 ###### Artículo 17 Ter.
 
 En asuntos relacionados con los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural de Veracruz, se garantizará su libre determinación, autonomía, desarrollo e inclusión, en cumplimiento de lo establecido en los artículos 2° de la Constitución Política de los Estados Unidos Mexicanos y 5 de la Constitución Local, asegurando la paridad entre mujeres y hombres.
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 19 DE JUNIO DE 2023)</small>
 
 ###### Artículo 17 Quater.
 
-El Organismo Público Local Electoral de Veracruz tomará las medidas necesarias para la organización, acompañamiento y apoyo a las comunidades, pueblos indígenas y afromexicanas, en coordinación con las autoridades tradicionales, nacionales y locales competentes el reconocimiento y celebración de dichos ejercicios democráticos, para lo cual emitirá lineamientos que garanticen la participación política de las y los habitantes de dichos pueblos y comunidades, en un marco de progresividad, igualdad e interculturalidad.
+El Organismo Público Local Electoral de Veracruz tomará las medidas necesarias para la organización, acompañamiento y apoyo a las comunidades y pueblos indígenas u originarios y afromexicanos, en coordinación con las autoridades tradicionales, nacionales y locales competentes, para el reconocimiento y celebración de dichos ejercicios democráticos, para lo cual emitirá lineamientos que garanticen la participación política de las y los habitantes de dichos pueblos y comunidades, en un marco de progresividad, igualdad e interculturalidad.
 
 ### CAPÍTULO ÚNICO. Naturaleza y Objeto
 
@@ -9168,3 +9160,11 @@ SEGUNDO. El presente Decreto entrará en vigor el día 1° de enero del año 202
 TERCERO. Al efecto, la Comisión Permanente de Hacienda del Estado del Congreso del Estado deberá prever en el dictamen con proyecto de Decreto de Presupuesto de Egresos del Gobierno del Estado de Veracruz de Ignacio de la Llave para el Ejercicio Fiscal 2022 y, en su caso, el Pleno del Congreso del Estado, los ajustes presupuestales pertinentes, a fin de materializar las disposiciones del presente Decreto. Igualmente, se instruye a la Secretaría de Finanzas y Planeación del Gobierno del Estado a efectuar o implementar los ajustes necesarios para el debido cumplimiento de este Decreto.
 
 CUARTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.O. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 479 QUE ADICIONA UN CAPÍTULO IV BIS AL TÍTULO TERCERO DEL LIBRO PRIMERO, CON LOS ARTÍCULOS 17 BIS, 17 TER Y 17 QUATER, AL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
