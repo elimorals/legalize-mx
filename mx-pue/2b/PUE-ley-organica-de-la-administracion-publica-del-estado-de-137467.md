@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2023-06-02"
+last_updated: "2023-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -435,9 +435,9 @@ VII. Intervenir, de conformidad con la normatividad legal vigente en los conflic
 
 VIII. Presidir el Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Publica;
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
-VIII Bis. Presidir el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres; atender lo relacionado con las solicitudes y declaraciones de alerta de violencia de género, así como coordinar y dar seguimiento a las políticas, programas, mecanismos y acciones correspondientes, en coordinación con la Secretaría de Igualdad Sustantiva;
+VIII Bis. Presidir el sistema estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las mujeres.
 
 IX. Administrar el Periódico Oficial del Estado y publicar las leyes y decretos que expida el Congreso del Estado, así como los reglamentos, acuerdos y demás ordenamientos de carácter general, y mantener actualizado un portal de internet para la consulta del orden jurídico del estado, en coordinación con la Consejería Jurídica;
 
@@ -1737,6 +1737,14 @@ XI. Coordinar, gestionar e implementar políticas públicas con especial énfasi
 
 XII. Fungir como Secretaría Ejecutiva del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las mujeres y constituirse como el Mecanismo de Adelanto para las Mujeres en la entidad;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+XII Bis. Diseñar, instrumentar e implementar con enfoque interseccional y perspectiva de género las acciones para dar cumplimiento a las medidas relativas a las declaraciones de alerta de violencia de género en la entidad.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+XII Ter. Coordinar y dar seguimiento a las políticas, programas, mecanismos, y acciones realizadas por dependencias y entidades estatales competentes, que tengan como objeto dar cumplimiento a las medidas relativas a las declaraciones de alerta de violencia de género de la entidad.
+
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XIII. Proponer a los tres niveles de Gobierno, acciones destinadas a incluir la participación de las mujeres y la paridad, en los ámbitos legislativo, administrativo, político, económico, cultural y social de la entidad, así como coordinar y dar seguimiento a su cumplimiento;
@@ -2164,6 +2172,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 37 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA.”]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VIII BIS DEL ARTÍCULO 32 Y ADICIONA LAS FRACCIONES XII BIS Y XII TER AL ARTÍCULO 48 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
