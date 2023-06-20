@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2023-06-15"
+last_updated: "2023-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JUNIO DE 2023 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS EL 20 DE JUNIO DE 2023.]</small>
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1301,9 +1301,9 @@ ART. 267.- La muerte de uno de los cónyuges pone fin al juicio de divorcio y lo
 
 ### CAPITULO XIII. DEL CONCUBINATO
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2023)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2023) (F. DE E., P.O. 20 DE JUNIO DE 2023)
 
-ART. 268.- El concubinato es el vínculo jurídico que se genera entre dos personas que, sin tener ningún vínculo matrimonial, han tenido hijos en común o han vivido juntos durante los dos años anteriores.
+ART. 267 Bis.- El concubinato es el vínculo jurídico que se genera entre dos personas que, sin tener ningún vínculo matrimonial, han tenido hijos en común o han vivido juntos durante los dos años anteriores.
 
 > <small>(REFORMADA SU DENOMINACIÓN. P.O. 24 DE JUNIO DE 2008)</small>
 
@@ -1311,7 +1311,7 @@ ART. 268.- El concubinato es el vínculo jurídico que se genera entre dos perso
 
 ### CAPITULO I. DEL PARENTESCO
 
-ART. 268 (sic).- La ley no reconoce más parentesco que el de consanguinidad, el de afinidad y el civil.
+ART. 268.- La ley no reconoce más parentesco que el de consanguinidad, el de afinidad y el civil.
 
 ART. 269.- El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
 
