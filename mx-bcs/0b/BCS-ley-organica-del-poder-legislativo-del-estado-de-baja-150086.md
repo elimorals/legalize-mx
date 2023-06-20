@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2023-05-04"
+last_updated: "2023-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2023.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -2425,9 +2425,11 @@ Cuando uno o más Diputados sean acusadores durante el procedimiento relativo al
 
 ### CAPITULO PRIMERO. DE LAS REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2023)</small>
+
 Artículo 223
 
-Las iniciativas que tengan por objeto reformar o adicionar la Constitución Política del Estado, deberán estar suscritas por tres Diputados, Fracción Parlamentaria o iniciadas por el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos o los Ciudadanos Sudcalifornianos de acuerdo a lo establecido en la Constitución Política del Estado, la Ley de la materia y la presente Ley.
+Las iniciativas que tengan por objeto reformar o adicionar la Constitución Política del Estado, deberán estar suscritas por algún Diputado, Fracción Parlamentaria, por el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos o los Ciudadanos Sudcalifornianos de acuerdo a lo establecido en la Constitución Política del Estado, la Ley de la materia y la presente Ley.
 
 Artículo 224
 
@@ -2788,3 +2790,9 @@ B.O. 4 DE MAYO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 20 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2928 SE REFORMA EL ARTÍCULO 223 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
