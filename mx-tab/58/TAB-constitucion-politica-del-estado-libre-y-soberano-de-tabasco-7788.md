@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2023-04-19"
+last_updated: "2023-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -218,6 +218,10 @@ El Estado, con la participación de las comunidades indígenas, instrumentará l
 Las leyes secundarias, atendiendo lo señalado en los cuatro primeros párrafos del artículo 2° de la Constitución federal y en esta Constitución, reconocerán a los pueblos y comunidades indígenas existentes en la entidad su ubicación dentro del territorio estatal, así como los lineamientos a que se sujetarán los derechos que como tales se les reconoce. Dichas leyes deberán ser traducidas, impresas y publicadas en las diversas lenguas de los pueblos o comunidades indígenas de que se trate.
 
 El Estado y los municipios establecerán la institución y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas, en los términos de las disposiciones que prevean las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural del Estado Libre y Soberano de Tabasco. Tendrán en lo conducente los derechos señalados en el presente artículo en los términos que establezcan las leyes, a fin de garantizar su libre determinación, autonomía, desarrollo e inclusión social.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3774,3 +3778,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 162 POR EL QUE “SE ADICIONA EL PÁRRAFO DÉCIMO SEGUNDO AL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO. Para efecto de dar cumplimiento a lo ordenado en el presente Decreto, el Ejecutivo Estatal, en concurrencia con los Ayuntamientos de la entidad y demás autoridades que con motivo de sus atribuciones tengan competencia en la materia, deberán llevar a cabo oportunamente los trabajos y acciones necesarias, a fin de determinar con la mayor exactitud posible, los asentamientos de personas afromexicanas, el número de sus integrantes y su ubicación por comunidad y municipio para proponer al Congreso del Estado el reconocimiento expreso de los mismos y la adecuación de las leyes secundarias locales en las que incidan.
