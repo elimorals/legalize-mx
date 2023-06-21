@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2023-05-10"
+last_updated: "2023-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -651,9 +651,9 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes; así como las infecciones de transmisión sexual.
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
 
-III.- La atención médica integral, que comprende la atención médica integrada de carácter preventivo, acciones curativas y de rehabilitación, incluyendo la atención de urgencias, así como los cuidados paliativos indispensables para enfermos con padecimientos crónico-degenerativos o en etapa terminal.
+III.- La atención médica integral, que comprende la atención médica integrada de carácter preventivo, acciones curativas, de habilitación o reconstrucción anatómica, y de rehabilitación, incluyendo la atención de urgencias, así como los cuidados paliativos indispensables para enfermos con padecimientos crónico-degenerativos o en etapa terminal.
 
 Para efectos del párrafo anterior, la atención médica integrada de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo con la edad, sexo y los determinantes físicos y psíquicos de las personas, realizadas preferentemente en una sola consulta;
 
@@ -985,21 +985,21 @@ A efecto de conocer, sistematizar y evaluar el problema, para adoptar medidas co
 
 La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, los tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la Sociedad en general.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
+
 ###### Artículo 71.
 
 En la organización y operación de los servicios de salud destinados a la atención de los menores, las autoridades sanitarias del Estado, establecerán:
 
-I.- (DEROGADA, P.O. 28 DE MAYO DE 2014)
+I. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la inscripción a programas federales de ayuda alimentaria directa, tendiente a mejorar el estado nutricional de los menores. Así también, las medidas y acciones necesarias para prohibir, dentro de las instalaciones de tales servicios, la publicidad con imágenes o texto que incentive el uso de fórmulas alimenticias en menores de hasta seis meses de edad, así como prohibir la entrega directa o indirecta de muestras gratis a las madres, tanto de sucedáneos de leche materna, como de biberones;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
+II. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas en los menores de cinco años;
 
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la inscripción a programas federales de ayuda alimentaria directa, tendiente a mejorar el estado nutricional de los menores. Así también, las medidas y acciones necesarias para prohibir, dentro de las instalaciones de tales servicios, la publicidad con imágenes o texto que incentive el uso de fórmulas alimenticias en menores de hasta seis meses de edad, así como prohibirla (sic) entrega directa o indirecta de muestras gratis a las madres, tanto de sucedáneos de leche materna, como de biberones;
+III. Acciones de coordinación con las instituciones del sector para extender la cobertura de los servicios de atención a los menores, con el objeto de alcanzar el acceso universal, eliminando barreras económicas para los cinco componentes de la atención a la salud de los menores;
 
-III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas en los menores de cinco años;
+IV. Acciones para garantizar el acceso gratuito a tratamientos, dispositivos e insumos para el control de enfermedades pediátricas crónicas, y
 
-IV.- Acciones de coordinación con las instituciones del sector para extender la cobertura de los servicios de atención a los menores, con el objeto de alcanzar el acceso universal, eliminando barreras económicas para los cinco componentes de la atención a la salud de los menores; y
-
-V.- Los programas de prevención contra las adicciones a los menores.
+V. Los programas de prevención contra las adicciones a los menores.
 
 ###### Artículo 72.
 
@@ -1051,25 +1051,29 @@ En materia de planificación familiar, las acciones de información y orientaci�
 
 La atención a la salud reproductiva comprende las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+I.- (DEROGADA, P.O. 21 DE JUNIO DE 2023)
 
-I.- Atención a la salud de la mujer, con énfasis a los padecimientos que más frecuentemente las afectan y los de mayor riesgo. El Sector Salud asume como prioridad la prevención, diagnóstico, tratamiento, control y vigilancia del cáncer de mama y cervicouterino.
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2023)</small>
 
-II.- Atención a la salud de la mujer durante el embarazo, el parto y el puerperio;
+II.- La atención a la salud ginecológica, que incluye la implementación de programas de prevención y promoción, así como el acceso gratuito para mujeres de escasos recursos, a productos de salud e higiene menstrual en los establecimientos del sector público.
 
-III.- Servicios de planificación familiar, considerando los componentes señalados a este efecto por la Ley General de Salud;
+III.- Atención a la salud de la mujer durante el embarazo, el parto y el puerperio;
 
-IV.- Promoción y desarrollo de programas de comunicación educativa en materia de salud reproductiva, con base en los contenidos y estrategias que establezcan los Consejos Nacional y Estatal de Población;
+IV.- Servicios de planificación familiar, considerando los componentes señalados a este efecto por la Ley General de Salud;
 
-V.- La asesoría para la prestación de servicios de salud reproductiva, a cargo de los sectores público, privado y social, y la supervisión y evaluación de su ejecución, de acuerdo con las políticas establecidas por los Consejos Nacional y Estatal de Población;
+V.- Promoción y desarrollo de programas de comunicación educativa en materia de salud reproductiva, con base en los contenidos y estrategias que establezcan los Consejos Nacional y Estatal de Población;
 
-VI.- El apoyo y fomento de la investigación, desde la perspectiva de género en materia de salud reproductiva;
+VI.- La asesoría para la prestación de servicios de salud reproductiva, a cargo de los sectores público, privado y social, y la supervisión y evaluación de su ejecución, de acuerdo con las políticas establecidas por los Consejos Nacional y Estatal de Población;
 
-VII.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas;
+VII.- El apoyo y fomento de la investigación, desde la perspectiva de género en materia de salud reproductiva;
 
-VIII.- La promoción de la participación del hombre en la toma de decisiones reproductivas responsables con su pareja, incorporando la perspectiva de género en el diseño y ejecución de programas y proyectos en esta materia;
+VIII.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas;
 
-IX.- Los Hospitales tanto del Sector Privado como público deberán garantizar la confidencialidad y realización de los procedimientos necesarios acorde a lo establecido y autorizado en el artículo 119 del Código Penal del Estado de Morelos sin perjuicio de los profesionales que los realicen.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+IX.- La promoción de la participación del hombre en la toma de decisiones reproductivas responsables con su pareja, incorporando la perspectiva de género en el diseño y ejecución de programas y proyectos en esta materia; y.
+
+X.- Los Hospitales tanto del Sector Privado como público deberán garantizar la confidencialidad y realización de los procedimientos necesarios acorde a lo establecido y autorizado en el artículo 119 del Código Penal del Estado de Morelos sin perjuicio de los profesionales que los realicen.
 
 ###### Artículo 76.
 
@@ -1077,7 +1081,7 @@ La Secretaría de Salud de Morelos, promoverá la organización sectorial de com
 
 ###### Artículo 77.
 
-La Secretaría de Salud de Morelos establecerá y promoverá programas para la detección oportuna y atención del cáncer cérvico uterino y cáncer de mama.
+(DEROGADO, P.O. 21 DE JUNIO DE 2023)
 
 ###### Artículo 78.
 
@@ -1325,29 +1329,57 @@ II. Las actividades recreativas, de esparcimiento y culturales destinadas a fort
 
 III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 21 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO XI. CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACIÓN TERMINAL
+### CAPÍTULO XI. ATENCIÓN A LA SALUD DE LA MUJER
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE JUNIO DE 2023)</small>
 
-Artículo 88 Quaterdecies.- El presente Capítulo tiene por objeto proteger y salvaguardar en todo momento la dignidad de los enfermos en fase terminal, garantizándoles una vida de calidad, a través de los cuidados paliativos y la atención médica proporcionada por profesionales de la salud, orientada a reducir los sufrimientos físicos y emocionales que ellos requieran hasta el final de su vida, lo que se realizará de conformidad con lo dispuesto por los artículos 166 Bis a 166 Bis 21 de la Ley General de Salud, el Reglamento de la Ley General de Salud en materia de Prestación de Servicios de Atención Médica y las Normas Oficiales Mexicanas aplicables en la materia.
+Artículo 88 Quaterdecies.- El objeto del presente Capítulo, es la protección y la promoción de la salud de la mujer, las autoridades sanitarias del Estado garantizaran el acceso y ejercicio de las mujeres a este derecho.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2015)</small>
+Es prioridad para las autoridades sanitarias la atención a la salud de la mujer, de acuerdo con su anatomía y fisiología, con énfasis a los padecimientos que más frecuentemente las afectan y los de mayor riesgo.
 
-Artículo 88 Quindecies.- El personal y las instituciones de Salud del Estado de Morelos que traten a personas enfermas en situación terminal deben procurar una atención integral, trato digno, respetuoso y profesional, procurando preservar la calidad de vida de estas personas.
+El Sector Salud asume como prioridad la prevención, diagnóstico, tratamiento, control y vigilancia del cáncer de mama y cervicouterino.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE JUNIO DE 2023)</small>
 
-Artículo 88 Sexdecies.- Corresponde a la Secretaría de Salud y a los Servicios de Salud de Morelos informar de los derechos con que cuentan los enfermos en fase terminal y sus familiares, en términos de esta Ley, la Ley General de Salud y demás normativa aplicable.
+Artículo 88 Quindecies.- La Secretaría de Salud del Estado en coordinación con el Instituto de la Mujer para el Estado de Morelos diseñarán, en el ámbito de sus respectivas competencias, los instrumentos rectores que regulen las acciones en torno a la atención de los problemas de salud específicos de la mujer, mismo que deberá contener los siguientes apartados:
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2015)</small>
+I. El diagnóstico situacional de las necesidades en materia de salud de las mujeres en el estado;
 
-Artículo 88 Septendecies.- El ejercicio del derecho a los cuidados paliativos no afecta en forma alguna la calidad del cuidado básico de salud, higiene, hidratación, oxigenación, nutrición y métodos médicos a que tienen derecho los pacientes y que serán previstos para asegurarle en todo momento su dignidad humana hasta la muerte.
+II. El análisis integral que contenga las estadísticas de problemas sociodemográficos y económicos que inciden en la salud de la mujer;
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2015)</small>
+III. Un plan de trabajo que establezca acciones, plazos y zonas de competencia para la implementación de programas y políticas públicas en materia de Salud que beneficien a las mujeres; y
 
-Artículo 88 Octodecies.- Los cuidados paliativos deberán ser proporcionados por las instituciones de salud, conforme al modelo de atención que en materia de cuidados paliativos corresponda conforme a la Ley General de Salud, la presente Ley y demás disposiciones jurídicas aplicables.
+IV. Los programas y políticas que establezcan acciones, estrategias, indicadores, plazos, ámbitos de competencia, metas y evaluación de objetivos.
+
+Ambas dependencias, de conformidad con sus respectivas competencias, fomentarán la investigación social y clínica sobre la salud de la mujer y la elaboración de publicaciones, mismos que deberán ser considerados para las diferentes directrices de trabajo.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE JUNIO DE 2023)</small>
+
+Artículo 88 Sexdecies.- La Secretaría de Salud de Morelos establecerá y promoverá programas para la detección oportuna y atención del cáncer cervicouterino y cáncer de mama.
+
+La Secretaría de Salud vigilará, dentro de su competencia, que las muestras para la detección del cáncer cervicouterino sean tomadas preferentemente por personal femenino e interpretadas por médicos capacitados en la materia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE JUNIO DE 2023)</small>
+
+Artículo 88 Septendecies.- Para la prevención y detección temprana de cáncer de mama y cáncer cervicouterino, dentro el Sistema Estatal de Salud se deberán realizar las siguientes acciones con estricto apego a la normatividad aplicable:
+
+I. Tamizaje con mastografía a mujeres de cuarenta a sesenta y nueve años de edad;
+
+II. Tamizaje con citología y/o detección del Virus del Papiloma Humano a mujeres de veinticinco a sesenta años de edad;
+
+III. Educación y promoción a las personas susceptibles sobre los factores de riesgo del cáncer de mama y cervicouterino;
+
+IV. Atención médica a mujeres con diagnóstico de cáncer de mama y cervicouterino;
+
+V. Acompañamiento psicológico a las mujeres sobrevivientes de cáncer de mama y cervicouterino; y
+
+VI. Tratamiento de reconstrucción mamaria o vulvoperineal, previa información oportuna a las mujeres con diagnóstico o en seguimiento al tratamiento de cáncer mamario, cervicouterino, vulvar o vaginal según corresponda, de la posibilidad de reconstrucción y las opciones existentes según el caso, previa evaluación y autorización del médico especialista tratante.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+Artículo 88 Octodecies.- En los lugares donde no existan unidades médicas del sector público o social con capacidad resolutiva, las autoridades de salud estatales realizarán convenios de subrogación con establecimientos del sector privado acreditados o certificados, para que se realice el servicio gratuito de exámenes para la detección de cáncer cervicouterino y cáncer de mama a la población de escasos recursos económicos.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2015)</small>
 
@@ -4894,3 +4926,35 @@ SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publi
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
 
 CUARTA. En un plazo máximo de 30 días hábiles, contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Gobierno del Estado de Morelos, a través las diferentes unidades de atención médica del organismo público descentralizado denominado Servicios de Salud de Morelos, deberán dar efectivo cumplimiento al presente decreto, incluyendo la difusión correspondiente.
+
+P.O. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SETENTA Y DOS POR EL QUE SE ADICIONA UNA NUEVA FRACCIÓN II, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, DEL ARTÍCULO 75 DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al titular del Poder Ejecutivo para su respectiva publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Entrado en vigor el presente Decreto, el titular del Poder Ejecutivo estará sujeto la suficiencia presupuestal disponible y las reglas de operación que, para el efecto, se emitan por parte del organismo público descentralizado denominado Servicios de Salud de Morelos.
+
+CUARTA.- El titular del Poder Ejecutivo incluirá la partida para la adquisición de los productos de salud e higiene menstrual para su distribución y entrega gratuita a la población femenina que lo requiere, en el Presupuesto de Egresos para el Gobierno del Estado de Morelos que corresponda y en los sucesivos presupuestos de egresos del Estado de Morelos.
+
+P.O. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS CINCUENTA Y SEIS POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 37; SE DEROGAN LA FRACCIÓN I DEL ARTÍCULO 75 Y EL ARTÍCULO 77; SE ADICIONAN UN CAPÍTULO IX PARA LA ATENCIÓN DE LA SALUD DE LA MUJER, ASÍ COMO LOS ARTÍCULOS 88 QUATERDECIES; 88 QUINDECIES; 88 SEXDECIES; 88 SEPTENDECIES, Y 88 OCTODECIES, TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Los Poderes Ejecutivo y Legislativo del Gobierno del Estado de Morelos deberán establecer en el Presupuesto de Egresos para el Ejercicio Fiscal 2024, así como en los ejercicios subsecuentes, la suficiencia presupuestal que se estime necesaria para dar inicio al cumplimiento de este Decreto.
+
+P.O. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE.- POR EL QUE SE REFORMA EL ARTÍCULO 71 DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente decreto, al titular del Poder Ejecutivo para su respectiva publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del gobierno del Estado de Morelos.
+
+SEGUNDA.- Una vez publicado en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del gobierno del Estado de Morelos, el presente decreto entrará en vigor a partir del 1 de enero de 2024.
+
+TERCERA.- Una vez publicado el presente decreto en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del gobierno del Estado de Morelos, el titular del Poder Ejecutivo incluirá la partida para la adquisición de los dispositivos e insumos para el control de enfermedades pediátricas crónicas, para el Presupuesto de Egresos del Gobierno del Estado de Morelos del 1 de enero al 31 de diciembre de 2024, así como en los sucesivos presupuestos de egresos del Estado de Morelos.
