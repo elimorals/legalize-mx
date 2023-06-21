@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-160493"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-10-06"
-last_updated: "2023-03-17"
+last_updated: "2023-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Primera del Número 64 de la Gaceta del Gobierno del Estado de México, el jueves 6 de octubre de 2022.
 
@@ -777,7 +777,9 @@ Las y los secretarios y actuarios deberán cumplir los siguientes requisitos:
 
 I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos civiles;
 
-II. No haber sido sancionada o sancionado penalmente o, en materia administrativa, con suspensión;
+> <small>(REFORMADA, G.G. 21 DE JUNIO DE 2023)</small>
+
+II. No encontrarse en cumplimiento de sanción penal o, en materia administrativa, con suspensión;
 
 III. Contar con veinticinco años de edad al día de su designación;
 
@@ -1153,7 +1155,9 @@ I. Tener conocimiento, capacidad y preparación en la ciencia, arte, técnica, p
 
 II. Tener experiencia mínima de un año en la práctica de la materia sobre la que se dictaminará;
 
-III. No haber sido condenada o condenado por delito doloso;
+> <small>(REFORMADA, G.G. 21 DE JUNIO DE 2023)</small>
+
+III. No encontrarse en cumplimiento de sanción por delito doloso;
 
 IV. No tener conflicto de interés con alguna de las partes, y
 
@@ -2389,7 +2393,7 @@ Finalidad del Servicio de Carrera
 
 ###### Artículo 172.
 
-El Servicio de Carrera del Poder Judicial tendrá como finalid.ad contribuir al fortalecimiento de la impartición y administración de justicia, mediante la profesionalización y evaluación de los servidores públicos del Poder Judicial, con base en criterios objetivos y confiables que garanticen los mejores perfiles para el cumplimiento de sus funciones.
+El Servicio de Carrera del Poder Judicial tendrá como finalid.ad (sic) contribuir al fortalecimiento de la impartición y administración de justicia, mediante la profesionalización y evaluación de los servidores públicos del Poder Judicial, con base en criterios objetivos y confiables que garanticen los mejores perfiles para el cumplimiento de sus funciones.
 
 Principios del Servicio de Carrera
 
@@ -2627,45 +2631,47 @@ III. Solicitud a la Dirección General de Administración para el descuento a re
 
 ### CAPÍTULO SEGUNDO. Responsabilidades
 
-Responsabilidades graves
-
-###### Artículo 187.
-
-La responsabilidad de las y los magistrados por los delitos, faltas u omisiones graves en que incurran durante el ejercicio de sus funciones, se sustanciará ante la Legislatura, en términos de la Constitución.
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2023)</small>
 
 Responsabilidad administrativa
 
+###### Artículo 187.
+
+Las y los servidores públicos del Poder Judicial serán responsables administrativamente de las faltas que cometan en el ejercicio de sus cargos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones y quedarán sujetos al procedimiento y sanciones que determina la presente ley o las que sean aplicables.
+
+> <small>(ADICIONADA, G.G. 21 DE JUNIO DE 2023)</small>
+
+#### SECCIÓN PRIMERA. De las faltas administrativas no graves
+
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+De los magistrados
+
 ###### Artículo 188.
 
-Las y los servidores del Poder Judicial serán responsables administrativamente de las faltas que cometan en el ejercicio de sus cargos y quedarán sujetos al procedimiento y sanciones que determina la presente ley o las que sean aplicables.
+Son faltas administrativas no graves de los magistrados las acciones u omisiones siguientes:
 
-Faltas administrativas de los magistrados
+I. Incumplir con las prerrogativas y obligaciones previstas en el artículo 10 de esta ley;
+
+II. Dictar resoluciones o trámites infundados o notoriamente innecesarios que sólo tiendan a dilatar el proceso;
+
+III. Señalar la celebración de vistas o audiencias, fuera de los plazos establecidos por la ley.
+
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+Del ponente o conjunta
 
 ###### Artículo 189.
 
-Son faltas administrativas de los magistrados las acciones u omisiones siguientes:
+Si la falta se cometiere porque los magistrados de las salas colegiadas o tribunal de alzada no dicten sus resoluciones dentro del término legal, solamente será responsable el ponente cuando no presentare oportunamente el proyecto respectivo a la consideración de los otros magistrados o magistradas; los tres serán responsables si, al haberse presentado la ponencia correspondiente, no concurrieren a la discusión del negocio o no emitieren su voto sin causa justificada.
 
-Además de incumplir con las prerrogativas y obligaciones previstas en el artículo 11 de esta ley, las siguientes:
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2023)</small>
 
-I. Dictar resoluciones o trámites infundados o notoriamente innecesarios que sólo tiendan a dilatar el proceso;
-
-II. Señalar la celebración de vistas o audiencias, fuera de los plazos establecidos por la ley;
-
-III. Acosar laboralmente a las personas de su entorno, valiéndose de su posición jerárquica, y
-
-IV. Acosar u hostigar sexualmente, o bien llevar a cabo una o más conductas de naturaleza sexual, valiéndose de su posición jerárquica o, aunque no exista dicha posición, sobre otra persona de su entorno laboral.
-
-Responsabilidad del ponente o conjunta
+De los jueces
 
 ###### Artículo 190.
 
-Si la falta se cometiere porque los magistrados de las salas colegiadas o tribunal de alzada no dicten sus resoluciones dentro del término legal, solamente será responsable el ponente cuando no presentare oportunamente el proyecto respectivo a la consideración de los otros magistrados o magistradas; los tres serán responsables si, al haberse presentado la ponencia correspondiente, no concurrieren a la discusión del negocio o no emitieren su voto sin causa justificada.
-
-Faltas administrativas de los jueces
-
-###### Artículo 191.
-
-Son faltas administrativas de los jueces, además de las señaladas para los magistrados, las acciones u omisiones siguientes:
+Son faltas administrativas no graves de los jueces, además de las señaladas para los magistrados en esta Ley, las acciones u omisiones siguientes:
 
 I. Decretar providencias provisionales notoriamente improcedentes o fuera de los casos previstos por la ley;
 
@@ -2679,19 +2685,17 @@ V. Dejar inconclusa la instrucción de los procesos de su conocimiento;
 
 VI. Abstenerse de revisar de oficio las actuaciones de sus secretarios y actuarios, en los casos que ordena la ley;
 
-VII. Acosar laboralmente a las personas de su entorno, valiéndose de su posición jerárquica;
+VII. No presidir las audiencias, las juntas de peritos u otras diligencias en las que la ley determine su intervención;
 
-VIII. Acosar u hostigar sexualmente, o bien llevar a cabo una o más conductas de naturaleza sexual, valiéndose de su posición jerárquica o, aunque no exista dicha posición, sobre otra persona de su entorno laboral;
+VIII. Suspender, evadir o dejar sin efectos de manera injustificada el turno de los autos para emitir sentencia definitiva o interlocutoria salvo en los casos que expresamente establece la ley, o hacer uso de plazos extraordinarios para su emisión, cuando no se actualice el supuesto que para tal efecto prevé la ley, se evidencie que fue por motivo de omisión, falta de cuidado o negligencia atribuible al órgano jurisdiccional.
 
-IX. No presidir las audiencias, las juntas de peritos u otras diligencias en las que la ley determine su intervención, y
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2023)</small>
 
-X. Suspender, evadir o dejar sin efectos de manera injustificada el turno de los autos para emitir sentencia definitiva o interlocutoria salvo en los casos que expresamente establece la ley, o hacer uso de plazos extraordinarios para su emisión, cuando no se actualice el supuesto que para tal efecto prevé la ley, se evidencie que fue por motivo de omisión, falta de cuidado o negligencia atribuible al órgano jurisdiccional.
+De los secretarios
 
-Faltas administrativas de los secretarios
+###### Artículo 191.
 
-###### Artículo 192.
-
-Son faltas administrativas de los secretarios de acuerdos las acciones u omisiones siguientes:
+Son faltas administrativas no graves de los secretarios de acuerdos las acciones u omisiones siguientes:
 
 I. Dar cuenta de los oficios y documentos oficiales y de los escritos y promociones de las partes, fuera del término legal;
 
@@ -2703,19 +2707,15 @@ IV. Abstenerse de dar cuenta al juez o al presidente de la Sala o Tribunal que c
 
 V. Negarse a realizar las notificaciones que procedan legalmente, cuando las partes concurran al tribunal o juzgado;
 
-VI. Rehusarse a mostrar los expedientes a las partes cuando lo soliciten o cuando se hubiera publicado el acuerdo correspondiente;
+VI. Rehusarse a mostrar los expedientes a las partes cuando lo soliciten o cuando se hubiera publicado el acuerdo correspondiente.
 
-VII. Acosar laboralmente a las personas de su entorno, valiéndose de su posición jerárquica;
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2023)</small>
 
-VIII. Acosar u hostigar sexualmente, o bien llevar a cabo una o más conductas de naturaleza sexual, valiéndose de su posición jerárquica o, aunque no exista dicha posición, sobre otra persona de su entorno laboral, y
+De actuarios
 
-IX. No cumplir con los términos señalados en los ordenamientos legales.
+###### Artículo 192.
 
-Faltas administrativas de actuarios
-
-###### Artículo 193.
-
-Son faltas administrativas de los actuarios las acciones u omisiones siguientes:
+Son faltas administrativas no graves de los actuarios las acciones u omisiones siguientes:
 
 I. Dar preferencia a alguno de los litigantes, en la práctica de las diligencias;
 
@@ -2725,19 +2725,15 @@ III. Llevar a cabo embargos, aseguramientos, retención de bienes o lanzamientos
 
 IV. Dejar de hacer con la debida oportunidad las notificaciones personales físicas o electrónicas, o abstenerse de practicar las diligencias encomendadas, cuando éstas deban efectuarse fuera del tribunal o juzgado o de manera electrónica;
 
-V. Retardar indebidamente las notificaciones, emplazamientos, embargos o diligencias de cualquier clase que les fueren encomendadas;
+V. Retardar indebidamente las notificaciones, emplazamientos, embargos o diligencias de cualquier clase que les fueren encomendadas.
 
-VI. Acosar laboralmente a las personas de su entorno, valiéndose de su posición jerárquica;
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2023)</small>
 
-VII. Acosar u hostigar sexualmente, o bien llevar a cabo una o más conductas de naturaleza sexual, valiéndose de su posición jerárquica o, aunque no exista dicha posición, sobre otra persona de su entorno laboral, y
+De mediadores, conciliadores y facilitadores
 
-VIII. No cumplir con los términos señalados en los ordenamientos legales.
+###### Artículo 193.
 
-Faltas administrativas de mediadores, conciliadores y facilitadores
-
-###### Artículo 194.
-
-Son faltas administrativas de los mediadores, conciliadores y facilitadores las siguientes:
+Son faltas administrativas no graves de los mediadores, conciliadores y facilitadores las siguientes:
 
 I. Revelar los informes, datos, comentarios, opiniones, conversaciones y acuerdos de las partes de que tengan conocimiento con motivo del trámite de mediación o conciliación en el que intervengan;
 
@@ -2745,45 +2741,59 @@ II. Violar los principios de imparcialidad, neutralidad, confidencialidad y resp
 
 III. Tratar con descortesía a las y los litigantes, abogados patronos y al público;
 
-IV. No concurrir en las horas reglamentarias al desempeño de sus labores y no asistir puntualmente a la celebración de ceremonias o actos oficiales del Poder Judicial o cursos de capacitación, congresos, conferencias o reuniones de trabajo;
+IV. Incumplir las instrucciones de sus superiores jerárquicos relacionadas con las funciones del Centro de Mediación, Conciliación y de Justicia Restaurativa.
 
-V. Incumplir las instrucciones de sus superiores jerárquicos relacionadas con las funciones del Centro de Mediación, Conciliación y de Justicia Restaurativa;
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2023)</small>
 
-VI. Acosar laboralmente a las personas de su entorno, valiéndose de su posición jerárquica;
+De todos los servidores públicos
 
-VII. Acosar u hostigar sexualmente, o bien llevar a cabo una o más conductas de naturaleza sexual, valiéndose de su posición jerárquica o, aunque no exista dicha posición, sobre otra persona de su entorno laboral, y
+###### Artículo 194.
 
-VIII. Incumplir con las obligaciones inherentes a su cargo.
+Son faltas administrativas no graves de todos los servidores públicos del Poder Judicial, las acciones u omisiones siguientes:
 
-Faltas administrativas de otros servidores
+I. Despachar tardíamente los oficios o promociones de los que tengan conocimiento; retardar las diligencias que se les encomienden o negarse a practicarlas;
+
+II. Retardar el turno de las promociones a los juzgados correspondientes;
+
+III. Incumplir las instrucciones de sus superiores jerárquicos;
+
+IV. No cumplir con los términos señalados en los ordenamientos legales;
+
+V. Incumplir con las obligaciones inherentes a su cargo;
+
+VI. Las demás establecidas en las disposiciones legales aplicables al Poder Judicial del Estado de México.
+
+Además de las señaladas con antelación, también se considerarán como faltas administrativas no graves de todos los servidores públicos del Poder Judicial, las establecidas con esa calidad en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+> <small>(ADICIONADA, G.G. 21 DE JUNIO DE 2023)</small>
+
+#### SECCIÓN SEGUNDA. De las faltas administrativas graves
+
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+Faltas administrativas graves de los servidores públicos
 
 ###### Artículo 195.
 
-Son faltas administrativas de las y los demás servidores públicos del Poder Judicial, las acciones u omisiones siguientes:
+Para efectos del presente Capítulo, se consideran faltas administrativas graves de los servidores públicos del Poder Judicial del Estado de México, las establecidas con esa calidad en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-I. Tratar con descortesía a las y los litigantes, abogados patronos y al público;
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 21 DE JUNIO DE 2023)</small>
 
-II. Despachar tardíamente los oficios; retardar las diligencias que se les encomienden o negarse a practicarlas;
+### CAPÍTULO TERCERO. Investigación y Procedimiento sobre responsabilidad administrativa
 
-III. Retardar el turno de las promociones a los juzgados correspondientes;
+> <small>(REFORMADO SU ACÁPITE, G.G. 21 DE JUNIO DE 2023)</small>
 
-IV. No concurrir en las horas reglamentarias al desempeño de sus labores, y no asistir puntualmente a la celebración de ceremonias o actos oficiales del poder judicial o cursos de capacitación o reuniones de trabajo;
+Disposiciones Comunes del Procedimiento de responsabilidad administrativa
 
-V. No mostrar los expedientes a las partes, o a las personas autorizadas cuando lo soliciten, siendo los encargados de hacerlo;
-
-VI. Acosar laboralmente a las personas de su entorno, valiéndose de su posición jerárquica;
-
-VII. Acosar u hostigar sexualmente, o bien llevar a cabo una o más conductas de naturaleza sexual, valiéndose de su posición jerárquica o, aunque no exista dicha posición, sobre otra persona de su entorno laboral, e
-
-VIII. Incumplir las instrucciones de sus superiores jerárquicos.
-
-### CAPÍTULO TERCERO. Investigación sobre responsabilidad administrativa
-
-Procedimiento de responsabilidad administrativa
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE JUNIO DE 2023)</small>
 
 ###### Artículo 196.
 
-El procedimiento de responsabilidad administrativa en contra de los servidores públicos del Poder Judicial deberá iniciarse:
+El procedimiento de responsabilidad administrativa, desde la investigación hasta el cumplimiento y ejecución de la sanción se instaurará conforme a los principios y reglas previstas en la Ley de Responsabilidades Administrativas del Estado de México y municipios y en esta Ley para faltas graves y no graves según corresponda. En lo no previsto en esa ley ni en el presente ordenamiento, se aplicarán los acuerdos generales del Consejo de la Judicatura que correspondan.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.G. 21 DE JUNIO DE 2023)</small>
+
+La investigación de responsabilidad administrativa en contra de los servidores públicos del Poder Judicial deberá iniciarse:
 
 I. Por denuncia, que en su caso se ratificará, la cual deberá constar en formato físico o electrónico, bajo protesta de decir verdad y estar suscrita por la persona denunciante, con indicación de su domicilio o de la dirección de correo electrónico que señale para ser notificado.
 
@@ -2801,27 +2811,187 @@ Las denuncias que se formulen y las actas circunstanciadas por hechos que se des
 
 III. De oficio, con motivo de los hechos que se desprendan en las visitas de supervisión, revisión o auditorías practicadas.
 
-### CAPÍTULO CUARTO. Facultad sancionadora del Consejo
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
 
-Sanciones a las faltas
+Concluidas las diligencias de investigación, la autoridad investigadora deberá emitir el acuerdo correspondiente; ya sea el de archivo por falta de elementos o el informe de probable responsabilidad administrativa para el caso de que existan elementos suficientes para determinar la probable responsabilidad de los servidores judiciales investigados. Acuerdo que deberá hacer del conocimiento del presidente del Consejo de la Judicatura.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+El presidente del Consejo de la Judicatura designará a alguno de sus miembros como instructor para que se encargue de la sustanciación del expediente respectivo, debiendo auxiliarse de la Dirección General de Contraloría.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+El instructor podrá llevar a cabo la práctica de cualquier diligencia probatoria que considere necesaria para el esclarecimiento de los hechos.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+De no existir diligencias probatorias adicionales, el instructor formulará su opinión de responsabilidad o de no responsabilidad administrativa, así como de la propuesta de sanción. Con lo anterior se dará cuenta al pleno del Consejo de la Judicatura en sesión, para que se dicte la resolución que proceda y la cumplimente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 21 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO CUARTO. De la impugnación de la calificación de faltas administrativas no graves
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+Impugnación de la calificación e impugnación de la abstención de iniciar el procedimiento de responsabilidad Administrativa
+
+Artículo 196 bis. La calificación de los hechos como faltas administrativas no graves que realicen las autoridades investigadoras, será notificada al denunciante, cuando éste fuere identificable. Además de establecer la calificación que se le haya dado a la presunta falta, la notificación también contendrá de manera expresa la forma en que el notificado podrá acceder al expediente de presunta responsabilidad administrativa. La calificación y la abstención de iniciar el procedimiento de responsabilidad administrativa, podrán ser impugnadas, en su caso, por el denunciante, a través del recurso de inconformidad. La presentación del recurso de inconformidad tendrá como efecto la suspensión del acto impugnado hasta en tanto dicho recurso sea resuelto.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+Plazo para interponer el recurso de inconformidad
+
+Artículo 196 ter. El plazo para la interposición del recurso de inconformidad será de cinco días hábiles, contados a partir de la notificación de la resolución impugnada.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+Presentación del escrito de Impugnación
+
+Artículo 196 quáter. El escrito de impugnación deberá presentarse ante la autoridad investigadora que calificó la falta administrativa como no grave o en su caso determinó la abstención de iniciar el procedimiento de responsabilidad administrativa, debiendo expresar los motivos por los que se estime indebida dicha determinación.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+Requisitos del escrito del recurso de impugnación
+
+Artículo 196 quinquies. El escrito por el que se interponga el recurso de inconformidad deberá contener los siguientes requisitos:
+
+I. Nombre y domicilio del recurrente;
+
+II. La fecha en que se le notificó la determinación correspondiente en términos del presente Capítulo;
+
+III. Las razones y fundamentos por los que, a juicio del recurrente, la determinación es indebida;
+
+IV. Firma autógrafa del recurrente. La omisión de este requisito dará lugar a que no se tenga por interpuesto el recurso;
+
+V. Las pruebas que estime pertinentes para acreditar las razones y fundamentos expresados en el recurso de inconformidad. La satisfacción de este requisito no será necesaria si los argumentos contra la calificación de los hechos versan sólo sobre aspectos de derecho.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+Requerimiento por subsanar deficiencias o aclaraciones
+
+Artículo 196 sexies. En caso que el escrito por el que se interponga el recurso de inconformidad fuere obscuro o irregular, la autoridad investigadora requerirá al promovente para que subsane las deficiencias o realice las aclaraciones que correspondan, para lo cual le concederán un término de cinco días hábiles. De no subsanar las deficiencias o aclaraciones en el plazo antes señalado el recurso se tendrá por no interpuesto.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+Admisión del recurso de inconformidad
+
+Artículo 196 septies. En caso que la autoridad investigadora, tenga por subsanadas las deficiencias o por aclarado el escrito por el que se interponga el recurso de inconformidad, o bien, cuando el escrito cumpla con los requisitos señalados en el artículo 196 quintus (sic) de la presente Ley, admitirá dicho recurso y darán vista al presunto infractor para que en el término de cinco días hábiles manifieste lo que a su derecho convenga.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+Informe de justificación y órgano competente para resolver el recurso de inconformidad
+
+Artículo 196 octies. Una vez subsanadas las deficiencias o aclaraciones o si no existieren, la autoridad investigadora deberá correr traslado al Consejo de la Judicatura, adjuntando el expediente integrado y un informe en el que justifique la determinación impugnada, en un término no mayor a tres días hábiles, a efecto de que sea el Consejo de la Judicatura quien resuelva el recurso de inconformidad en un plazo no mayor a treinta días hábiles.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+Resolución del recurso de inconformidad
+
+Artículo 196 nonies. El recurso de inconformidad será resuelto tomando en consideración la investigación que conste en el expediente de presunta responsabilidad administrativa y los elementos que aporten tanto el denunciante como el presunto infractor. Contra la resolución que se dicte no procederá recurso alguno.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO QUINTO. Facultad sancionadora del Consejo
+
+> <small>(ADICIONADA, G.G. 21 DE JUNIO DE 2023)</small>
+
+#### SECCIÓN PRIMERA. Faltas administrativas graves de los Magistrados
+
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+Faltas administrativas graves de los Magistrados
 
 ###### Artículo 197.
 
-El Consejo estará facultado para imponer las siguientes sanciones:
+La responsabilidad de las y los magistrados por los delitos, faltas u omisiones graves en que incurran durante el ejercicio de sus funciones, se sustanciará ante la Legislatura, en términos de la Constitución.
 
-a) Apercibimiento;
+Para efectos de este artículo, se consideran faltas graves las previstas con ese carácter en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-b) Amonestación;
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 21 DE JUNIO DE 2023)</small>
 
-c) Sanción económica de tres a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente;
+#### SECCIÓN SEGUNDA. Sanciones a las faltas administrativas no graves
 
-d) Suspensión del cargo hasta por un mes sin goce de sueldo;
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
 
-e) Destitución del cargo, e
+Sanciones a las faltas administrativas no graves
 
-f) Inhabilitación.
+Artículo 197 bis. El Consejo estará facultado para imponer las siguientes sanciones:
+
+I. Apercibimiento;
+
+II. Amonestación;
+
+III. Sanción económica de tres a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente;
+
+IV. Suspensión del cargo hasta por treinta días naturales, sin goce de sueldo;
+
+V. Destitución del empleo, cargo o comisión;
+
+VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público, por un período no menor de tres meses ni mayor de un año.
+
+Para la aplicación de las sanciones se tomarán en cuenta las siguientes circunstancias: la gravedad de la falta cometida, la incidencia o reincidencia de la misma y la conducta anterior del servidor público.
 
 Cuando además de las faltas las y los servidores públicos hayan incurrido en hechos que puedan ser constitutivos de delito, se pondrán en conocimiento del Ministerio Público para los efectos legales respectivos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 21 DE JUNIO DE 2023)</small>
+
+#### SECCIÓN TERCERA. Sanciones a las faltas administrativas graves
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+Sanciones a las faltas administrativas graves
+
+Artículo 197 ter. El Consejo estará facultado para imponer las siguientes sanciones:
+
+I. Suspensión del empleo, cargo o comisión, sin goce de sueldo por un periodo no menor de treinta y un días ni mayor a noventa días, naturales;
+
+II. Destitución del empleo, cargo o comisión;
+
+III. Sanción económica:
+
+a) En el supuesto que la falta administrativa grave cometida por el servidor público le genere beneficios económicos, la sanción económica podrá alcanzar hasta dos tantos de los beneficios obtenidos;
+
+b) En ningún caso la sanción económica que se imponga podrá ser menor o igual al monto de los beneficios económicos obtenidos. Lo anterior, sin perjuicio de la imposición de las demás sanciones a que se refiere el presente artículo.
+
+IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público:
+
+a) Por un periodo no menor de un año ni mayor a diez años, si el monto de la afectación de la falta administrativa grave no excede de doscientas veces el valor diario de la Unidad de Medida y Actualización Vigente;
+
+b) Por un periodo no menor a diez años ni mayor a veinte años, si el monto de la afectación excede de doscientas veces el valor diario de la Unidad de Medida y Actualización Vigente.
+
+Cuando no se causen daños o perjuicios, ni exista beneficio o lucro alguno, se podrán imponer de tres meses a un año de inhabilitación.
+
+A juicio del Consejo, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre y cuando sean compatibles entre ellas y de acuerdo a la gravedad de la falta cometida.
+
+El Consejo determinará el pago de una indemnización cuando, la falta administrativa grave haya provocado daños y perjuicios a la Hacienda Pública o al patrimonio del Poder Judicial. En dichos supuestos, el servidor público estará obligado a reparar la totalidad de los daños y perjuicios causados.
+
+Para la imposición de las sanciones a que se refiere este artículo, se deberán considerar las circunstancias establecidas en el artículo 198 de la presente Ley.
+
+Cuando además de las faltas las y los servidores públicos hayan incurrido en hechos que puedan ser constitutivos de delito, se pondrán en conocimiento del Ministerio Público para los efectos legales respectivos.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+Imposibilidad de Imponer dos veces a una conducta sanciones de la misma naturaleza
+
+Artículo 197 quáter. En ningún caso podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2023)</small>
+
+De la prescripción
+
+Artículo 197 quinquies. Las atribuciones del Consejo de la Judicatura para imponer las sanciones administrativas previstas en esta Ley, con excepción de la destitución, prescribirán:
+
+I. Tres años: tratándose de faltas administrativas no graves;
+
+II. Siete años: tratándose de faltas administrativas graves o faltas de particulares.
+
+Ambos plazos comenzarán a contar a partir del día siguiente al que se hubieren cometido las infracciones o a partir del momento en que hubieren cesado.
+
+La prescripción se interrumpirá con la clasificación y presentación del informe correspondiente ante la autoridad substanciadora a que se refiere la presente Ley.
+
+Si se dejare de actuar en los procedimientos de responsabilidad administrativa originados con motivo de la admisión del citado informe y como consecuencia de ello se produjera la caducidad de la instancia, la prescripción se reanudará desde el día en que se admitió el Informe de Presunta Responsabilidad Administrativa.
+
+En ningún caso, en los procedimientos de responsabilidad administrativa podrá dejar de actuarse por más de seis meses sin causa justificada, en caso de actualizarse dicha inactividad, se decretará, a solicitud del presunto infractor, la caducidad de la instancia. Los plazos a los que se refiere el presente artículo se computarán en días naturales.
 
 Individualización de la sanción
 
@@ -2877,7 +3047,9 @@ XIX. Magistrada o Magistrado semanero: La Magistrada o el Magistrado que, por tu
 
 XX. Órganos jurisdiccionales: Los órganos jurisdiccionales en donde se ventilan los juicios o procesos, presididos por un juez o magistrado según sea el caso, en primera o segunda instancia;
 
-XXI. Servidores o servidores públicos judiciales: Cualquier persona que tenga una relación laboral con el Poder Judicial;
+> <small>(REFORMADA, G.G. 21 DE JUNIO DE 2023)</small>
+
+XXI. Servidoras o servidores públicos judiciales: Toda persona que desempeñe un empleo, cargo o comisión en el Poder Judicial del Estado de México y que tiene la obligación de presentar declaración patrimonial y de interés en las temporalidades prescritas por la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
 
 XXII. Pleno: La máxima autoridad jurisdiccional del Poder Judicial integrado por el titular de la Presidencia del Tribunal y sus magistrados en funciones;
 
@@ -2936,3 +3108,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las instancias competentes del Poder Judicial del Estado de México deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
 
 TERCERO. Se tienen por cumplidos los artículos transitorios séptimo y octavo del Decreto número 92, publicado en el Periódico Oficial "Gaceta del Gobierno", el 6 de octubre de 2022.
+
+G.G. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 178.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
