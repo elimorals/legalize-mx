@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-del-deporte-de-la-ciudad-de-137
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-08-02"
-last_updated: "2022-08-02"
+last_updated: "2023-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137392&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-07-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE JUNIO DE 2023.
 
 Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el viernes 2 de agosto de 2019.
 
@@ -212,7 +212,7 @@ Artículo 6 bis. El Instituto reconoce el derecho de las personas al conocimient
 
 Para el estudio, planeación y despacho de los asuntos que le competen, así como para atender las funciones de control y evaluación, el Instituto contará con las siguientes Unidades Administrativas:
 
-I. Dirección Ejecutiva de Promoción y Desarrollo de la Cultura Física y el Deporte;
+I. (ABROGADA [N. DE E. DEROGADA], G.O. 21 DE JUNIO DE 2023)
 
 II. Dirección de Calidad para el Deporte;
 
@@ -224,7 +224,9 @@ V. Dirección de Escuelas Técnico Deportivas;
 
 VI. Dirección de Administración y Finanzas;
 
-VII. Coordinación de Comunicación y Alianzas Estratégicas;
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2023)</small>
+
+VII. Coordinación de Comunicación.
 
 VIII. Subdirección de Asuntos Jurídicos; y
 
@@ -546,81 +548,23 @@ XVIII. Realizar el proceso para la designación de la persona deportista que deb
 
 XIX. Las demás que sean necesarias para el ejercicio de las atribuciones anteriores, en los términos de las disposiciones legales y administrativas aplicables.
 
-### CAPÍTULO V. DE LAS ATRIBUCIONES GENERALES DE LAS DIRECCIONES, LA COORDINACIÓN DE COMUNICACIÓN Y ALIANZAS ESTRATÉGICAS Y DE LA SUBDIRECCIÓN DE ASUNTOS JURÍDICOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 21 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO V. DE LAS ATRIBUCIONES GENERALES DE LAS DIRECCIONES, LA COORDINACIÓN DE COMUNICACIÓN Y DE LA SUBDIRECCIÓN DE ASUNTOS JURÍDICOS
+
+> <small>(REFORMADO, G.O. 21 DE JUNIO DE 2023)</small>
 
 ###### Artículo 18.
 
-Las Direcciones, la Coordinación de Comunicación y Alianzas Estratégicas y la Subdirección de Asuntos Jurídicos serán auxiliadas en el desempeño de sus atribuciones por sus subdirecciones y/o, jefaturas de unidad departamental internas, adscritas a éstas, según sea el caso, y en general, por el personal que tengan a su cargo de acuerdo con la estructura orgánica vigente aprobada.
+Las Direcciones, la Coordinación de Comunicación y la Subdirección de Asuntos Jurídicos serán auxiliadas en el desempeño de sus atribuciones por sus subdirecciones y/o, jefaturas de unidad departamental internas, adscritas a éstas, según sea el caso, y en general, por el personal que tengan a su cargo de acuerdo con la estructura orgánica vigente aprobada
 
-Las cuales contaran con las siguientes atribuciones genérales:
+(ABROGADO [N. DE E. DEROGADA SU DENOMINACIÓN], G.O. 21 DE JUNIO DE 2023)
 
-I. Acordar con el titular del Instituto el trámite y resolución de los asuntos de su competencia;
-
-II. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de los programas, estrategias y funciones encomendados a su cargo;
-
-III. Elaborar y proponer los anteproyectos de programas anuales de actividades y de presupuesto que le correspondan;
-
-IV. Ejecutar el programa operativo anual a su cargo;
-
-V. Acordar con el Director General la atención de los asuntos a su cargo que requieran de su intervención;
-
-VI. Formular los dictámenes, estudios, opiniones e informes que le sean solicitados por la persona titular de la Dirección General, o los que le correspondan en razón de sus atribuciones;
-
-VII. Proponer a la persona titular de la Dirección General las modificaciones jurídicas y administrativas que tiendan a mejorar el funcionamiento de la Unidad Administrativa a su cargo;
-
-VIII. Elaborar las reglas de operación de los Programas Sociales que son de su competencia, de acuerdo a los lineamientos que para ello se publiquen;
-
-IX. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o los que le correspondan por suplencia;
-
-X. Coordinar sus actividades con los titulares de las demás unidades administrativas del Organismo para el mejor desempeño de sus funciones;
-
-XI. Proponer al Director General el ingreso, licencia, promoción, remoción y cese del personal de la Unidad Administrativa a su cargo;
-
-XII. Coadyuvar en la elaboración, actualización y aplicación de los estatutos, reglamentos, manuales administrativos y cualquier otra disposición de carácter general que regule la organización y el funcionamiento del Organismo;
-
-XIII. Proponer a la persona titular de la Dirección General la suscripción de acuerdos, convenios y contratos orientados al cumplimiento del objeto del Instituto;
-
-XIV. Desempeñar las comisiones que la persona titular de la Dirección General le encomiende y mantenerlo informado del desarrollo de las mismas;
-
-XV. Asesorar, capacitar y apoyar técnicamente, en asuntos de su competencia, a las personas servidoras públicas que lo soliciten;
-
-XVI. Proporcionar, previo acuerdo con la persona titular de la Dirección General, la información, datos o el apoyo técnico que en materia de su competencia le sea requerido;
-
-XVII. Dirigir las acciones que en el ámbito de su competencia, establezca el Sistema;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE SEPTIEMBRE DE 2021)</small>
-
-XVIII. Participar en la elaboración del protocolo único del Instituto del Deporte de la Ciudad de México e implementarlo en el ámbito de su competencia, a fin de erradicar cualquier tipo de violencia y/o discriminación en el deporte.
-
-> <small>(ADICIONADA, G.O. 1 DE SEPTIEMBRE DE 2021)</small>
-
-XIX. Promover medidas para la prevención de cualquier tipo de violencia y/o discriminación en el Deporte, a través de programas y líneas de acciones de acuerdo a lo establecido en el articulo 13 de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicios de Recursos de la Ciudad de México.
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 1 DE SEPTIEMBRE DE 2021)</small>
-
-XX. Las demás que le confieren otras disposiciones legales y aquellas que le establezca la persona titular de la Dirección General.
-
-### CAPÍTULO VI. DE LA DIRECCIÓN EJECUTIVA DE PROMOCIÓN Y DESARROLLO DE LA CULTURA FÍSICA Y EL DEPORTE
+### CAPÍTULO VI
 
 ###### Artículo 19.
 
-La Dirección Ejecutiva de Promoción y Desarrollo de la Cultura Física y el Deporte, tendrá las siguientes atribuciones:
-
-I. Proponer y coordinar los programas y estrategias relativas a la activación física comunitaria, deporte comunitario, recreación comunitaria y paralímpicos que implemente el Instituto;
-
-II. Promover y fomentar el desarrollo de la actividad física comunitaria, el deporte comunitario, recreación física comunitaria y paralímpicos;
-
-III. Dirigir los Programas y estrategias asignados a la Dirección;
-
-IV. Coordinar con los Órganos Políticos Administrativos y con los sectores Sociales y Privados, la operación de las estrategias de actividad física comunitaria, deporte comunitario y recreación comunitaria y paralímpicos;
-
-V. (DEROGADA, G.O. 2 DE AGOSTO DE 2022)
-
-VI. Generar estrategias que permitan la difusión y enseñanza de las diferentes modalidades del deporte paralímpico;
-
-VII. Gestionar ante las instituciones públicas y privadas, los apoyos que permitan coadyuvar en la operación y permanencia de las estrategias de la actividad física comunitaria, deporte comunitario y recreación comunitaria y paralímpicos;
-
-VIII. Las demás que le confieren otras disposiciones legales y aquellas que le establezca el Director General.
+(ABROGADO [N. DE E. DEROGADO], G.O. 21 DE JUNIO DE 2023)
 
 ### CAPÍTULO VII. DE LA DIRECCIÓN DE CALIDAD PARA EL DEPORTE
 
@@ -630,7 +574,7 @@ La Dirección de Calidad para el Deporte tendrá las siguientes atribuciones:
 
 I. Establecer y dirigir las estrategias y acciones tendientes a la mejora y perfeccionamiento de las personas deportistas, entrenadores y personal técnico;
 
-II. Dirigir, promover, evaluar y revisar los programas, así como expedir las convocatorias para la formación, capacitación y certificación del personal técnico y entrenadores;
+II. (ABROGADA [N. DE E. DEROGADA], G.O. 21 DE JUNIO DE 2023)
 
 III. Establecer estrategias de coordinación y financiamiento entre el Instituto y los sectores público, social y privado para el desarrollo de los programas de entrenamiento en las disciplinas de deporte competitivo;
 
@@ -670,7 +614,9 @@ I. Planear, organizar y coordinar eventos nacionales en la Ciudad de México, co
 
 II. Integrar, elaborar y proponer a la persona titular de la Dirección General el programa anual de trabajo logístico y operativo de los eventos deportivos programados por el Instituto;
 
-III. Coadyuvar en la planeación e implementación, en el ámbito de su competencia, del programa de generación de recursos propios del Instituto;
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2023)</small>
+
+III. Coadyuvar en la planeación e implementación, en el ámbito de su competencia de las alianzas estratégicas comerciales, que propicien la generación de recursos propios del Instituto;
 
 IV. Establecer, conjuntamente con el área jurídica del Instituto, las políticas, y los lineamientos para la realización de eventos deportivos en la Ciudad de México, de conformidad con lo previsto en la ley y demás normatividad vigente;
 
@@ -682,9 +628,13 @@ VII. Establecer la organización y realización del Maratón, y Medio Maratón q
 
 VIII. Establecer la organización y realización del Ciclotón que el Instituto realiza mensualmente en la Ciudad de México;
 
-IX. Proponer las estrategias comerciales, a la Coordinación de Comunicación y Alianzas Estratégicas de este Instituto que propicien la obtención de recursos propios en lo conducente a los eventos deportivos que son de su competencia;
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2023)</small>
 
-X. Coadyuvar en la evaluación y elaboración de la propuesta de participación de la iniciativa privada y sus marcas comerciales en los eventos deportivos, conjuntamente con la Dirección de Administración y Finanzas de este Organismo, y someterla a la Dirección General para su autorización;
+IX. Proponer las estrategias comerciales que propicien la obtención de recursos propios en lo conducente a los eventos deportivos que son de su competencia;
+
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2023)</small>
+
+X. Evaluar y proponer la participación de la iniciativa privada y sus marcas comerciales en los eventos y proyectos deportivos, conjuntamente con la Dirección de Administración y Finanzas de este Organismo, y someterla a la Dirección General para su autorización;
 
 XI. Proponer a la Coordinación de Comunicación y Alianzas Estratégicas las iniciativas, que en conjunto con los diferentes aliados estratégicos, promuevan la práctica del deporte;
 
@@ -748,7 +698,17 @@ V. Proponer la firma de los convenios de coordinación o de otra naturaleza para
 
 VI. Impulsar en coordinación con la Direcciones (sic) del Instituto, la creación de torneos deportivos en diversas ramas;
 
-VII. Las demás que le confieran otras disposiciones legales y aquéllas que establezca el Director General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 21 DE JUNIO DE 2023)</small>
+
+VII. Dirigir, promover, evaluar y revisar los programas, así como expedir las convocatorias para la formación, capacitación y certificación del personal técnico y entrenadores.
+
+> <small>(ADICIONADA, G.O. 21 DE JUNIO DE 2023)</small>
+
+VIII. Proponer, promover, fomentar y coadyuvar en los programas, estrategias y desarrollo de las actividades que se relacionen con la activación física comunitaria, deporte comunitario, recreación comunitaria en coordinación con el Subsistema Educativo Comunitario.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 21 DE JUNIO DE 2023)</small>
+
+IX. Las demás que le confieran otras disposiciones legales y aquéllas que establezca el Director General.
 
 ### CAPÍTULO XI. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS
 
@@ -788,11 +748,17 @@ XIV. Firmar los convenios y permisos por el uso, aprovechamiento y explotación 
 
 XV. Las demás que le confieran otras disposiciones legales y aquéllas que establezca el Director General.
 
-### CAPÍTULO XII. DE LA COORDINACIÓN DE COMUNICACIÓN Y ALIANZAS ESTRATÉGICAS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 21 DE JUNIO DE 2023)</small>
+
+### CAPITULO XII
+
+DE LA COORDINACIÓN DE COMUNICACIÓN.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JUNIO DE 2023)</small>
 
 ###### Artículo 25.
 
-La Coordinación de Comunicación y Alianzas Estratégicas tendrá las siguientes atribuciones:
+La Coordinación de Comunicación tendrá las siguientes atribuciones:
 
 I. Planear y ejecutar las campañas para la promoción y difusión de los programas, eventos y actividades del Instituto;
 
@@ -810,11 +776,11 @@ VII. Administrar los sistemas de bases de datos de los proyectos, eventos y prog
 
 VIII. Coadyuvar en la planeación e implementación, en el ámbito de su competencia, del programa de generación de recursos propios del Instituto;
 
-IX. Establecer y generar, conjuntamente con las Direcciones del Instituto, alianzas estratégicas comerciales, que propicien la obtención de recursos propios y la participación en programas sociales del Instituto y presentarlas a la Dirección General;
+IX. (ABROGADA [N. DE E. DEROGADA], G.O. 21 DE JUNIO DE 2023)
 
-X. Evaluar la participación de la iniciativa privada y sus marcas comerciales en los programas, eventos y proyectos del Instituto, a fin de conocer la viabilidad y conveniencia de su participación, y someterlo para su autorización al Titular del Organismo;
+X. (ABROGADA [N. DE E. DEROGADA], G.O. 21 DE JUNIO DE 2023)
 
-XI. Proponer iniciativas y estrategias, en conjunto con los diferentes aliados estratégicos, para promover la práctica del deporte;
+XI. (ABROGADA [N. DE E. DEROGADA], G.O. 21 DE JUNIO DE 2023)
 
 XII. Supervisar y evaluar la implementación de los acuerdos derivados de las alianzas estratégicas;
 
@@ -911,3 +877,11 @@ G.O. 2 DE AGOSTO DE 2022.
 PRIMERO.- Publíquese la presente reforma en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente acuerdo de reforma entrará en vigor al día siguiente de su publicación.
+
+G.O. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ABROGA LA FRACCIÓN I Y SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 7; SE REFORMA EL TÍTULO DEL CAPÍTULO V Y EL ARTICULO 18; SE ABROGA EL TÍTULO DEL CAPÍTULO VI Y EL ARTÍCULO 19; SE ABROGA LA FRACCIÓN II DEL ARTÍCULO 20; SE REFORMAN LAS FRACCIONES III, IX, Y X DEL ARTÍCULO 21; SE REFORMA LA FRACCIÓN VII Y SE ADICIONAN LAS FRACCIONES VIII Y IX DEL ARTÍCULO 23; SE ABROGAN LAS FRACCIONES IX, X, XI Y XII DEL ARTÍCULO 25, TODOS ELLOS DE SU ESTATUTO ORGÁNICO”.]
+
+PRIMERO.– Publíquese la presente reforma en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.– El presente acuerdo de reforma entrará en vigor al día siguiente de su publicación.
