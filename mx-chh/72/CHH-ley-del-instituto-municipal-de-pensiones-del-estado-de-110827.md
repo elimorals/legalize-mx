@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-municipal-de-pensiones-del-estado-de-110827"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-26"
-last_updated: "2017-12-20"
+last_updated: "2023-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO MUNICIPAL DE PENSIONES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 26 de diciembre de 2015.
 
@@ -98,6 +98,10 @@ XI. TRABAJADOR. Toda persona física que presta un servicio físico o intelectua
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 XII. ASEGURADO(A) POR RESPONSABILIDAD PATRIMONIAL. Las personas que con motivo de indemnización por daños personales, autorice el H. Ayuntamiento de Chihuahua, para disfrutar del servicio médico-asistencial por parte del Instituto Municipal de Pensiones.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+XIII. POLICÍAS Y BOMBEROS. Aquellas personas servidoras públicas municipales cuyo nombramiento exprese como tal ese puesto.
 
 ### CAPÍTULO SEGUNDO. INSTITUTO MUNICIPAL DE PENSIONES
 
@@ -197,6 +201,42 @@ VI. Cualquier otra aportación.
 
 Los trabajadores realizarán una contribución al Instituto, equivalente al 12.8% de su sueldo de cotización; el Municipio y los organismos descentralizados municipales que se incorporen, efectuarán una aportación equivalente al 15% del sueldo de cotización del trabajador.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 10 BIS. Policías y bomberos de nuevo ingreso, realizarán una aportación del 20% de su sueldo de cotización en el primer año de servicio; posteriormente, con cada año cumplido, disminuirá en 1% hasta llegar al sexto año de servicio, a partir del cual se fijará una aportación del 15% de su sueldo de cotización hasta cumplir 20 años de servicio.
+
+A partir de los 20 años se incrementará gradualmente un 1% hasta llegar a los 25 años de servicio, como se establece en la siguiente tabla:
+
+AÑOS DE SERVICIO PORCENTAJE DE CUOTA
+
+De 0 a 12 meses (1er año)
+
+de servicio 20%
+
+En el 2do año de servicio 19%
+
+En el 3er año de servicio 18%
+
+En el 4to año de servicio 17%
+
+En el 5to año de servicio 16%
+
+En el 6to año y hasta los
+
+19 años, 12 meses de servicio 15%
+
+En el año 20 de servicio 16%
+
+En el año 21 de servicio 17%
+
+En el año 22 de servicio 18%
+
+En el año 23 de servicio 19%
+
+En el año 24 de servicio 20%
+
+El municipio realizará su aportación en igual proporción al porcentaje señalado.
+
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 11.
@@ -281,6 +321,10 @@ Los pensionados y jubilados tendrán derecho a un aguinaldo correspondiente a cu
 
 Los trabajadores tienen derecho a una pensión por jubilación con el 100% (cien por ciento) del sueldo regulador, cuando hayan prestado sus servicios durante treinta años o más y tengan al menos sesenta y cinco años de edad cumplidos.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+Tratándose de policías y bomberos, tienen derecho a una pensión por jubilación con el 100% (cien por ciento) del sueldo regulador cuando hayan prestado sus servicios durante 25 años íntegros.
+
 ###### ARTÍCULO 25.
 
 El trabajador que haya prestado sus servicios por un período mínimo de quince años, tendrá derecho a disfrutar de una pensión de retiro cuando cumpla sesenta y cinco años de edad.
@@ -319,15 +363,55 @@ La pensión se fijará de acuerdo con los años de servicio y el sueldo regulado
 
 30 años de servicio 100%
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 25 BIS. Tratándose de policías y bomberos que hayan prestado sus servicios por un periodo mínimo de quince años íntegros, tendrán derecho a disfrutar de una pensión de retiro cuando cumplan sesenta años.
+
+La pensión se fijará de acuerdo con los siguientes años de servicio y el sueldo regulador, en los términos siguientes:
+
+AÑOS DE SERVICIO PORCENTAJE
+
+15 años de servicio 55%
+
+16 años de servicio 58%
+
+17 años de servicio 60%
+
+18 años de servicio 62%
+
+19 años de servicio 63%
+
+20 años de servicio 64%
+
+21 años de servicio 65%
+
+22 años de servicio 70%
+
+23 años de servicio 80%
+
+24 años de servicio 90%
+
+25 años de servicio 100%
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 26.
 
-El trabajador que cuente con un mínimo de quince años de servicio y al menos sesenta años de edad, podrá optar por una pensión anticipada por retiro; el monto de esta pensión se reducirá un 5% (cinco por ciento) por cada año que le falte para cumplir sesenta y cinco años, con respecto al beneficio que le hubiera correspondido en la pensión que se establece en el artículo anterior.
+El trabajador que cuente con un mínimo de quince años de servicio y al menos sesenta años de edad, podrá optar por una pensión anticipada por retiro; el monto de esta pensión se reducirá un 5% (cinco por ciento) por cada año que le falte para cumplir sesenta y cinco años de edad con respecto al beneficio que le hubiera correspondido en la pensión que se establece en el artículo 25 de esta Ley.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 27.
 
-Los trabajadores que pertenezcan a las áreas de Policía Operativa, Bomberos, Recolección y Enfermería, que cuenten con al menos quince años de servicio y un mínimo de cincuenta y cinco años de edad, podrán optar por una pensión anticipada por retiro.
+Los trabajadores que pertenezcan a las áreas de Recolección y Enfermería, que cuenten con al menos quince años de servicio y un mínimo de cincuenta y cinco años de edad, podrán optar por una pensión anticipada por retiro.
 
-El monto de esta pensión se reducirá un 2.5% por cada año que le falte para cumplir sesenta y cinco años, con respecto al beneficio que le hubiere correspondido en la pensión establecida en el artículo 24.
+El monto de esta pensión se reducirá un 2.5% (dos punto cinco por ciento) por cada año que le falte para cumplir sesenta y cinco años, con respecto al beneficio que le hubiere correspondido en la pensión establecida en el artículo 24 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 27 BIS. Tratándose de policías y bomberos, que cuenten con al menos quince años íntegros de servicio y un mínimo de cincuenta y cinco años de edad, podrán optar por una pensión anticipada por retiro.
+
+El monto de esta pensión se reducirá un 5% (cinco por ciento) por cada año que le falte para cumplir sesenta años de edad, con respecto al beneficio que le hubiera correspondido en la pensión establecida en el artículo 25 Bis de esta Ley.
 
 ###### ARTÍCULO 28.
 
@@ -388,6 +472,36 @@ Antigüedad % Antigüedad %
 22 66.0 30 100
 
 El último sueldo devengado para efectos de fijar el monto de la pensión, se determinará conforme a lo siguiente: cuando al trabajador le haya sido aumentado su sueldo durante los últimos cinco años de servicio, se promediarán las percepciones recibidas en ese período, salvo que el incremento haya sido motivado por un aumento general o por ascenso escalafonario.
+
+Toda fracción de más de seis meses de servicio se considerará como año completo.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 34 BIS. Tratándose de policías y bomberos, el monto de la pensión por invalidez total por causas ajenas al servicio, será un porcentaje del sueldo regulador, dependiendo de la antigüedad al momento del siniestro, conforme a la siguiente tabla:
+
+ANTIGÜEDAD PORCENTAJE
+
+6-15 años 55%
+
+16 años 58%
+
+17 años 60%
+
+18 años 62%
+
+19 años 63%
+
+20 años 64%
+
+21 años 65%
+
+22 años 70%
+
+23 años 80%
+
+24 años 90%
+
+25 años 100%
 
 Toda fracción de más de seis meses de servicio se considerará como año completo.
 
@@ -508,6 +622,36 @@ Antigüedad % Antigüedad %
 22 66.0 30 100
 
 El monto de esta pensión se reducirá un 10% anual durante los siguientes cinco años.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 50 BIS. Tratándose de policías y bomberos que cuenten con al menos seis años de servicio íntegros y fallezcan por causas ajenas al trabajo, sus beneficiarios tendrán derecho a recibir una pensión por muerte por causas ajenas al trabajo. El monto de esta pensión será de un porcentaje del sueldo regulador dependiendo de la antigüedad que tuviera al momento del siniestro, de acuerdo con la siguiente tabla:
+
+ANTIGÜEDAD PORCENTAJE
+
+6-15 años 55%
+
+16 años 58%
+
+17 años 60%
+
+18 años 62%
+
+19 años 63%
+
+20 años 64%
+
+21 años 65%
+
+22 años 70%
+
+23 años 80%
+
+24 años 90%
+
+25 años 100%
+
+El monto de esta pensión se reducirá un 10% (diez por ciento) anual durante los siguientes cinco años.
 
 ###### ARTÍCULO 51.
 
@@ -990,3 +1134,25 @@ P.O. 20 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO RFLEY/0412/2017 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO MUNICIPAL DE PENSIONES".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVII/RFLEY/0562/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO MUNICIPAL DE PENSIONES”.]
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Policías y bomberos que se encuentran activos con menos de 20 años en servicio, realizarán una aportación del 15% de su sueldo de cotización hasta llegar a los 20 años de servicio, donde se incorporarán a la tabla del artículo 10 Bis.
+
+###### ARTÍCULO TERCERO.
+
+Policías y bomberos que se encuentren en activo con más de 20 años en servicio y menos de 25 en servicio, cotizarán según la tabla del artículo 10 Bis.
+
+###### ARTÍCULO CUARTO.
+
+Policías y bomberos que se encuentran en activo con más de 25 años de servicio, podrán solicitar su Pensión por Jubilación.
