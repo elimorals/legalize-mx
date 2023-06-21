@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-atencion-y-proteccion-a-personas-con-la-condicion-1288
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-12"
-last_updated: "2019-10-30"
+last_updated: "2023-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
 
 Ley publicada en el Folleto Anexo al Número 38 del Periódico Oficial del Estado de Chihuahua, el sábado 12 de mayo de 2018.
 
@@ -153,7 +153,9 @@ III. Tener un diagnóstico y una evaluación clínica temprana, precisa, accesib
 
 IV. Solicitar y recibir los certificados de evaluación y diagnóstico indicativos del estado en que se encuentren las personas con la condición del espectro autista.
 
-V. Recibir consultas clínicas y terapias de habilitación especializadas en la red hospitalaria del Estado de Chihuahua y sus municipios.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+V. Recibir consultas clínicas y terapias de habilitación especializadas en la red hospitalaria del Estado de Chihuahua y sus municipios, así como en las instituciones privadas derivado de la subrogación contratada.
 
 VI. Contar con los cuidados apropiados para su salud mental y física, con acceso a tratamientos y medicamentos de calidad, que les sean administrados oportunamente, tomando todas las medidas y precauciones necesarias.
 
@@ -221,7 +223,9 @@ II. La Secretaría de Educación y Deporte.
 
 III. La Secretaría del Trabajo y Previsión Social.
 
-IV. La Secretaría de Desarrollo Social.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+IV. La Secretaría de Desarrollo Humano y Bien Común.
 
 V. La Secretaría General de Gobierno.
 
@@ -380,6 +384,10 @@ VI. Promover que en las políticas, programas o acciones, se impulse la toma de 
 VII. Prestar servicios de atención a las personas con la condición del espectro autista con fundamento en los principios establecidos en la presente Ley.
 
 VIII. Realizará convenios con universidades públicas o privadas del Estado, del país o extranjeras, estudios e investigaciones clínicas y científicas, epidemiológicas, experimentales de desarrollo tecnológico, para el diagnóstico y tratamiento de las personas con la condición del espectro autista, para procurar su habilitación.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+IX. Facilitar las subrogaciones en la prestación de servicios con instituciones privadas, de acuerdo con los artículos 8 y 9 del presente ordenamiento.
 
 ### CAPÍTULO III. De la Salud
 
@@ -540,6 +548,14 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL
 P.O. 30 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVI/RFLEY/0388/2019 I P.O., POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN X Y SE ADICIONA LA FRACCIÓN XII, DEL ARTÍCULO 11, DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0546/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
