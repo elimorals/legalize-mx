@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2022-11-18"
+last_updated: "2023-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -323,7 +323,9 @@ II. El nombre de los diputados que hayan sido designados como coordinador y vice
 
 La documentación debe entregarse en la segunda sesión del Primer año de ejercicio de la Legislatura.
 
-El Presidente del Congreso, una vez examinada la documentación, en la misma Sesión hará la declaratoria de constitución de los grupos parlamentarios y representaciones parlamentarias; a partir de ese momento ejercerán las atribuciones previstas por la presente Ley.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+El Presidente del Congreso, una vez examinada la documentación, en la misma Sesión hará la declaratoria de constitución de los grupos parlamentarios y representación parlamentaria; a partir de ese momento ejercerán las atribuciones previstas por la presente Ley.
 
 ###### ARTÍCULO 16.
 
@@ -337,23 +339,31 @@ Cuando se encuentren dos o más partidos políticos representados en el Congreso
 
 Los diputados independientes, previa solicitud, podrán formar parte de la Representación Parlamentaria.
 
-La Representación Parlamentaria se tendrá por acreditada, con la manifestación expresa por escrito de los diputados que la integran.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+La Representación Parlamentaria se tendrá por acreditada, con la manifestación expresa por escrito de los diputados que la integran, por conducto de su coordinador y vicecoordinador.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+El coordinador y vicecoordinador de la Representación Parlamentaria, serán designados por acuerdo interno de la misma, el cual, deberá ser comunicado por escrito a la brevedad a la Mesa Directiva del Congreso, así como las modificaciones que ocurran en la integración de la representación.
 
 ###### ARTÍCULO 18.
 
 Los coordinadores de los grupos parlamentarios serán designados conforme a los estatutos y lineamientos internos de cada partido político, y serán los conductos de coordinación con la Mesa Directiva, la Junta de Coordinación Política, las comisiones y comités del Congreso. Los vicecoordinadores de los grupos parlamentarios o quien sea designado por ellos, suplirán las ausencias temporales de los Coordinadores.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 19.
 
-Durante el ejercicio de la Legislatura, el Coordinador del Grupo Parlamentario, Representación Parlamentaria comunicará a la Mesa Directiva las modificaciones que ocurran en la integración de su grupo. El Presidente del Congreso llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones.
+Durante el ejercicio de la Legislatura, el Coordinador de cada Grupo Parlamentario y de la Representación Parlamentaria comunicarán a la Mesa Directiva las modificaciones que ocurran en la integración de su grupo. El Presidente del Congreso llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 20.
 
-Cuando se modifiquen los Grupos Parlamentarios o Representación Parlamentaria, la Junta presentará al Pleno, el Acuerdo que garantice en las nuevas conformaciones, la proporcionalidad y representación de las comisiones, comités u órganos del Congreso.
+Cuando se modifiquen los Grupos Parlamentarios o la Representación Parlamentaria, la Junta presentará al Pleno, el Acuerdo que garantice en las nuevas conformaciones, la proporcionalidad y representación de las comisiones, comités u órganos del Congreso.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
 
 En el caso de los diputados independientes y aquéllos que decidieran no pertenecer a una Representación o Grupo, se les garantizará su participación en las comisiones, comités u órganos del Congreso.
 
@@ -645,9 +655,11 @@ Ante la falta de algún Secretario, el Presidente designará de entre el Pleno a
 
 La Junta representa la integración política del Congreso y por tanto, es el órgano que impulsa el entendimiento político entre los Diputados, así como con las instancias y órganos que resulte necesario, a fin de alcanzar acuerdos para que el Pleno, esté en condiciones de adoptar las decisiones que le corresponden.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 42.
 
-La Junta es un órgano colegiado que se integrará, inmediatamente después de la segunda Sesión del primer Año Legislativo de cada Legislatura, con los Coordinadores de Grupo Parlamentario, en su caso el Diputado propuesto por la Representación Parlamentaria, y por el Presidente del Congreso quien tendrá derecho a voz.
+La Junta es un órgano colegiado que se integrará, inmediatamente después de la segunda sesión del Primer Año Legislativo de cada Legislatura, con los Coordinadores de los Grupos Parlamentarios, en su caso, el Diputado propuesto por la Representación Parlamentaria, y por el Presidente del Congreso quien tendrá derecho a voz.
 
 Sus decisiones serán tomadas por voto ponderado, siendo aquél que corresponde de manera proporcional al número de Diputados que representa.
 
@@ -1395,7 +1407,9 @@ V. Relativos a los planes municipales de desarrollo;
 
 VI. Conocer y dictaminar sobre los asuntos de carácter municipal que no sean competencia de otra Comisión;
 
-VII. Promover la corresponsabilidad entre gobierno municipal y sociedad para el logro de los objetivos municipales;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+VII. Coadyuvar con el Gobierno Estatal, los gobiernos municipales y sociedad para el logro de las metas, objetivos, acciones y programas contenidos en los Planes de Desarrollo Municipales;
 
 VIII. Contribuir a una mayor participación municipal en los programas de desarrollo regional;
 
@@ -2945,7 +2959,9 @@ La Conferencia, deberá presentar por medio de su Presidente al Pleno del Congre
 
 Cada año, la Conferencia en coordinación con la Junta actualizarán de ser necesario, la Agenda Legislativa, dentro de los primeros sesenta días naturales del siguiente año legislativo.
 
-La Agenda Legislativa, es el documento aprobado por el Congreso del Estado, que establece el programa de trabajo correspondiente a los tres años de ejercicio legislativo; la cual estará basada en la Ley de Planeación del Estado de Michoacán y en las propuestas que deberán presentar los diferentes grupos y representaciones parlamentarias, a más tardar el quince de noviembre de cada año.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+La Agenda Legislativa, es el documento aprobado por el Congreso del Estado, que establece el programa de trabajo correspondiente a los tres años de ejercicio legislativo; la cual estará basada en la Ley de Planeación del Estado de Michoacán y en las propuestas que deberán presentar los diferentes Grupos Parlamentarios y la Representación Parlamentaria, a más tardar el quince de noviembre de cada año.
 
 El Presidente del Congreso invitará dentro de los quince días siguientes al inicio del año legislativo a los titulares de los poderes Ejecutivo y Judicial del Estado, así como a los ayuntamientos y órganos autónomos constitucionales de la entidad para que remitan sus propuestas y en su caso sean integradas a la Agenda Legislativa, sin menos cabo (sic) de sus atribuciones constitucionales para la presentación de iniciativas legislativas.
 
@@ -4518,3 +4534,19 @@ SEGUNDO. El Artículo Segundo, del presente Decreto, entrará en vigor al moment
 Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 TERCERO. Notifíquese el presente Decreto al Consejo Estatal de Ciencia, Tecnología e Innovación, para su debido conocimiento.
+
+P.O. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 387 POR EL QUE “SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 78 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 386 POR EL QUE "SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 15; EL TERCER PÁRRAFO DEL ARTÍCULO 17; EL ARTÍCULO 19; EL PRIMER PÁRRAFO DEL ARTÍCULO 20; EL PRIMER PÁRRAFO DEL ARTÍCULO 42 Y EL TERCER PÁRRAFO DEL ARTÍCULO 212; Y, SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 17 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
