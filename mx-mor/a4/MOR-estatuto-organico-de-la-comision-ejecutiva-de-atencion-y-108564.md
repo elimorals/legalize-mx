@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-de-la-comision-ejecutiva-de-atencion-y-108564
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-06-10"
-last_updated: "2015-06-10"
+last_updated: "2023-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DE LA COMISION EJECUTIVA DE ATENCION Y REPARACION A VICTIMAS DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 21 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 10 de junio de 2015.
 
@@ -646,3 +648,19 @@ EL DIPUTADO E INTEGRANTE DEL CONSEJO
 MOISÉS ARMENTA VEGA
 
 RÚBRICAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente estatuto entrará en vigor al día hábil siguiente a su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Estatuto Orgánico de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 5295, de fecha 10 de junio de 2015, y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que contravengan al presente estatuto.
+
+TERCERA. Dentro de un plazo de 60 días hábiles posteriores a la entrada en vigor del presente estatuto, la Comisión Ejecutiva Estatal deberá actualizar sus manuales administrativos, así como los descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto esto sucede, se mantendrán vigentes los actuales, en lo que no se opongan al presente Estatuto Orgánico.
+
+CUARTA. Inscríbase el presente estatuto en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por la Ley Orgánica.
+
+QUINTA. Los casos no previstos en el presente estatuto se resolverán por la Junta de Gobierno, de conformidad con lo dispuesto en la Ley Orgánica, la Ley de Víctimas y demás normativa aplicable.
