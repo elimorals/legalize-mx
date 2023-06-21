@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-5643
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2023-03-16"
+last_updated: "2023-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE SEPTIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -292,6 +294,10 @@ XIII. Fomentar el desarrollo, participación y reconocimiento de las mujeres en 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
 
 XIV. Impulsar el cierre de brechas de género al garantizar el derecho a la vivienda de las mujeres, promoviendo el acceso a la propiedad y a la tenencia de la tierra, así como en el acceso a créditos que les permitan obtener o mejorar su vivienda.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+XIV (SIC). Fomentar el desarrollo, participación y reconocimiento de las mujeres en la ciencia y la tecnología, así como el desarrollo de investigadoras profesionales.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -750,3 +756,11 @@ P.O. 16 DE MARZO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 21 DE JUNIO DE 2023.
+
+DECRETO NÚMERO 238 POR EL QUE "SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 15 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se deroga cualquier disposición de igual o menor jerarquía en lo que se oponga al presente decreto.
