@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-adultos-mayores-para-el-estado-de-45299"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-28"
-last_updated: "2022-11-09"
+last_updated: "2023-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 28 de junio de 2005.
 
@@ -151,13 +151,15 @@ a. A tener acceso a los satisfactores necesarios, considerando alimentos, bienes
 
 b. A recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal.
 
-IV. Del trabajo:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
+IV. Del trabajo y sus capacidades económicas:
 
-a. A gozar de igualdad de oportunidades en el acceso al trabajo y desempeñarse en forma productiva tanto tiempo como lo deseen, sin más restricción que sus limitaciones físicas o mentales, declaradas por la autoridad competente; y
+a. A gozar de igualdad de oportunidades en el acceso al trabajo o de otras opciones que les permitan un ingreso propio y desempeñarse en forma productiva tanto tiempo como lo deseen, sin más restricción que sus limitaciones físicas o mentales, declaradas por la autoridad competente, así como a recibir protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral;
 
-b. A formar parte de las bolsas de trabajo de las Instituciones Públicas y Privadas.
+b. A formar parte de las bolsas de trabajo de las Instituciones Públicas y Privadas; y
+
+c. A ser sujetos de acciones y políticas públicas de parte de las instituciones estatales y municipales, a efecto de fortalecer su plena integración social.
 
 V. De la asistencia social:
 
@@ -844,3 +846,11 @@ P.O. 9 DE NOVIEMBRE DE 2022.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 239 POR EL QUE “SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
