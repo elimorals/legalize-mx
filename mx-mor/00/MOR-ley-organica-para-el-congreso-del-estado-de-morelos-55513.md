@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2023-03-22"
+last_updated: "2023-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -83,11 +83,23 @@ VI. Entidades Fiscalizadas: Los poderes del Estado de Morelos, el Tribunal Elect
 
 VII. Legislatura: El periodo constitucional de tres años para el que fueron electos los Diputados;
 
-VIII. Recinto Legislativo: Las instalaciones del Congreso del Estado, en las que se encuentran las áreas legislativas y administrativas en su conjunto;
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2023)</small>
 
-IX. Salón de Plenos: Espacio físico en donde se realizan las sesiones del Congreso del Estado; y,
+VIII. Órgano Político Calificador: Órgano Político del Congreso del Estado encargado del proceso de designación de magistrados del Tribunal Superior de Justicia del Estado de Morelos, Tribunal Unitario de Justicia Penal para Adolescentes; y el Tribunal de Justicia Administrativa del Estado de Morelos. Estará conformado por nueve integrantes, procurando pluralidad.
 
-X. Sesión: Reunión de los Diputados que integran la legislatura en el lugar y la fecha formalmente convocados y con el quórum establecidos (sic) por la ley.
+El órgano estará conformado por un Presidente, un Secretario y vocales.
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+IX. Recinto Legislativo: las instalaciones del Congreso del Estado, en las que se encuentran las áreas legislativas y administrativas en su conjunto;
+
+(REFORMADA, P.O. 21 DE JUNIO DE 2023))
+
+XII (SIC). Salón de Plenos: espacio físico en donde se realizan las sesiones del Congreso del Estado; y,
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+XI (SIC). Sesión: reunión de los Diputados que integran la legislatura en el lugar y la fecha formalmente convocados y con el quórum establecidos (sic) por la ley.
 
 ###### Artículo 5.
 
@@ -729,7 +741,9 @@ La Junta Política y de Gobierno es la expresión de la pluralidad del Congreso 
 
 La Junta Política y de Gobierno, se conformará por un presidente, un secretario y los vocales a que haya lugar. Adoptará sus decisiones por consenso, en caso de que este no se obtenga las adoptará por mayoría calificada mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su grupo o fracción parlamentaria.
 
-La Junta Política y de Gobierno contará con un Secretario Técnico, que tendrá las facultades y obligaciones que en general se establezcan para los Secretarios Técnicos de las comisiones y comités en el Reglamento del Congreso del Estado, además de las que específicamente le señale el Presidente de la Junta Política y de Gobierno.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+La Junta Política y de Gobierno contará con un secretario técnico, que tendrá las facultades y obligaciones que en general se establezcan para los Secretarios Técnicos de las comisiones y comités en el Reglamento del Congreso del Estado, dará fe de los actos que la misma realice, además de las que específicamente le señale el Presidente de la Junta Política y de Gobierno.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
@@ -805,7 +819,7 @@ e) La designación y remoción de los titulares de los órganos administrativos 
 
 f) La terna de ciudadanos que envíe el Gobernador del Estado para designar al Fiscal General del Estado;
 
-g) Las designaciones de los Magistrados que integran el Poder Judicial, para lo cual la Junta Política y de Gobierno establecerá los criterios para las designaciones conforme lo establece la Constitución del Estado y esta Ley, y
+g) (DEROGADO, P.O. 21 DE JUNIO DE 2023)
 
 h) Designar en caso de licencia de algún diputado a quien deba cubrir la ausencia en las comisiones respectivas;
 
@@ -1825,13 +1839,23 @@ VIII. Solicitar y autorizar la ampliación del plazo de reserva de la informaci�
 
 IX. Las demás que se desprendan de la normatividad aplicable.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+### CAPÍTULO V. DEL ÓRGANO POLÍTICO CALIFICADOR
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+###### Artículo 88 Ter.
+
+El Órgano Político Calificador estará conformado por nueve integrantes procurando la pluralidad, con derecho a voz y voto, propuestos por dos o más diputados y aprobados por las dos terceras partes del Pleno del Congreso mediante votación por cédula.
+
+La propuesta deberá contemplar a la diputada o diputado que Presidirá y la Secretaría, respectivamente. La Presidencia del Congreso del Estado podrá acudir a las sesiones del órgano con derecho a voz, pero sin voto.
 
 ## TÍTULO OCTAVO. DE LOS ÓRGANOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO I BIS. DE LA SECRETARIA GENERAL Y SECRETARIAS DEL CONGRESO
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 89.
 
@@ -1869,9 +1893,7 @@ Para ocupar cualquiera de los cargos a que se refieren los artículos anteriores
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
-### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS Y PARLAMENTARIOS
-
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+### CAPÍTULO I BIS. DE LA SECRETARIA GENERAL Y SECRETARIAS DEL CONGRESO
 
 ###### Artículo 91 Bis.
 
@@ -1885,7 +1907,7 @@ Artículo 91 Quárter.- (DEROGADO, P.O. 14 DE NOVIEMBRE DE 2012)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
+### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS Y PARLAMENTARIOS
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
@@ -1985,9 +2007,9 @@ XXVI. Recibir los dictámenes emanados de las diferentes Comisiones y Comités, 
 
 XXVII. Las demás que esta Ley, su Reglamento y el Pleno del Congreso del Estado le confieran.
 
-### CAPÍTULO IV. DE LA ENTIDAD SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN DEL CONGRESO DEL ESTADO
+### CAPÍTULO III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 95.
 
@@ -2053,7 +2075,9 @@ XVII. Las demás que la presente Ley y su Reglamento le confieran.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MARZO DE 2020)</small>
 
-### CAPÍTULO V. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
+### CAPÍTULO IV. DE LA ENTIDAD SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN DEL CONGRESO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
 
 ###### Artículo 99.
 
@@ -2065,7 +2089,7 @@ La Entidad Superior de Auditoría y Fiscalización del Congreso del Estado es el
 
 El Titular de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado, no podrá ser o haber sido militante de ninguno de los partidos políticos con registro en el Estado.
 
-### CAPÍTULO VI. SISTEMA MORELENSE DE RADIO Y TELEVISIÓN
+### CAPÍTULO V. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
 ###### Artículo 101.
 
@@ -2115,7 +2139,7 @@ XIII. Las demás que se deriven de esta Ley y las que el Reglamento le confieran
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2012)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VI. SISTEMA MORELENSE DE RADIO Y TELEVISIÓN
 
 ###### Artículo 104.
 
@@ -2131,9 +2155,7 @@ XIII. Las demás que se deriven de esta Ley y las que el Reglamento le confieran
 
 ## TÍTULO NOVENO. DEL SERVICIO DE CARRERA
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+### CAPÍTULO ÚNICO
 
 ###### Artículo 107.
 
@@ -2167,7 +2189,7 @@ Las categorías de los trabajadores del Congreso del Estado, se regirán conform
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
-### CAPÍTULO II. DE LA DESIGNACIÓN DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
@@ -2181,41 +2203,59 @@ Para la designación de los servidores públicos que conforme al artículo 40, f
 
 Los servidores públicos y aspirantes a alguno de los cargos que corresponde designar al Congreso del Estado, deberán abstenerse de realizar gestión personal alguna ante los integrantes de las Comisiones correspondientes o ante cualquiera otra persona.
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
 
 ###### Artículo 112.
 
-El secretario técnico de la Junta Política y de Gobierno, dará fe de los actos que la misma realice. Asimismo, en todos los asuntos relacionados con este título, deberá estar presente el Director Jurídico del Congreso del Estado, quien podrá hacer uso de la palabra para asesorar y orientar a los integrantes de la Junta Política y de Gobierno.
+El secretario de Servicios Legislativos, dará fe de los actos que realice el Órgano Político Calificador y fungirá como secretario técnico de dicho órgano. Asimismo, en todos los asuntos relacionados con este título, deberá estar presente el director jurídico del Congreso del Estado, quien podrá hacer uso de la palabra para asesorar y orientar a los integrantes del Órgano Político Calificador.
+
+El presidente del órgano político calificador deberá nombrar a un representante servidor público del Congreso del estado de Morelos, que desempeñará esta función con carácter honorífico, que coadyuvará con el secretario técnico del órgano político y el director jurídico, en los asuntos relacionados a los procedimientos de este órgano y llevará el registro de los acuerdos y actas correspondientes.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
-### CAPÍTULO III. DEL PROCEDIMIENTO PARA LA DESIGNACIÓN DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
+### CAPÍTULO II. DE LA DESIGNACIÓN DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
 
 ###### Artículo 113.
 
-La Junta Política y de Gobierno emitirá una convocatoria pública a la sociedad, a efecto de recibir propuestas para la designación de Magistrados Numerarios y/o Supernumerarios del Tribunal Superior de Justicia.
+El Órgano Político Calificador emitirá una convocatoria pública a la sociedad, a efecto de recibir propuestas para la designación de magistraturas del Tribunal Superior de Justicia.
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+###### Artículo 113 Bis.
+
+Serán conducidos los trabajos del Órgano Político Calificador por el Presidente designado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2023)</small>
 
 ###### Artículo 114.
 
-Para ser designado Magistrado Numerario o Supernumerario del Tribunal Superior de Justicia, es necesario cumplir con los requisitos establecidos en la Constitución del Estado, esta Ley y la convocatoria que al efecto se expida.
-
-El incumplimiento de dichos ordenamientos en cualquier etapa del procedimiento será motivo de descalificación del aspirante.
+Para ser designado magistrada o magistrado del Tribunal Superior de Justicia, es necesario cumplir con los requisitos establecidos en la Constitución del Estado, esta ley y la convocatoria que al efecto se expida.
 
 > <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
+El incumplimiento de dichos ordenamientos en cualquier etapa del procedimiento será motivo de descalificación del aspirante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2023)</small>
+
 ###### Artículo 115.
 
-El procedimiento para la designación de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia se llevará a cabo en las siguientes fases:
+El procedimiento para la designación de magistradas y magistrados del Tribunal Superior de Justicia se llevará a cabo en las siguientes fases:
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2009)</small>
 
 I. Convocatoria, integración de los expedientes de los aspirantes, y presentación de un ensayo científico de contenido jurídico.
 
-II. Comparecencia personal de los aspirantes ante la Junta Política y de Gobierno.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+II. Comparecencia personal de los aspirantes ante el Órgano Político Calificador.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2009)</small>
 
 III. Dictamen con la lista de aspirantes a Magistrados para aprobación por el Pleno del Congreso.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
 Los aspirantes que no acrediten los requisitos establecidos en una fase no pasarán a la siguiente.
 
@@ -2237,51 +2277,81 @@ b) Buena reputación
 
 c) Honorabilidad profesional
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
 
 ###### Artículo 117.
 
-En la sesión en que sea presentado al Pleno el dictamen con la propuesta de aspirantes, el Congreso designará por el voto de las dos terceras partes de sus integrantes, a los Magistrados Numerarios y/o Supernumerarios, en su caso, del Tribunal Superior de Justicia del Estado.
+En la sesión en que sea presentado al Pleno el dictamen con la propuesta de aspirantes, el Congreso designará por el voto de las dos terceras partes de sus integrantes, a las magistradas y magistrados del Tribunal Superior de Justicia del Estado.
 
-En caso de que ninguno de los aspirantes propuestos reúna la votación requerida, el dictamen se regresará a la Junta Política y de Gobierno, a efecto de que en tres días hábiles presente uno nuevo.
+En caso de que ninguno de los aspirantes propuestos reúna la votación requerida, el dictamen se regresará al Órgano Político Calificador, a efecto de que en tres días hábiles presente uno nuevo.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DEL PROCEDIMIENTO PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2023)</small>
 
 ###### Artículo 118.
 
-Para la integración de los expedientes de los aspirantes a que se refiere la primera fase del procedimiento para la designación de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia, establecido en el artículo 115 de esta Ley, los aspirantes deberán reunir lo siguiente:
+Para la integración de los expedientes de los aspirantes a que se refiere la primera fase del procedimiento para la designación de magistradas y magistrados del Tribunal Superior de Justicia, establecido en el artículo 115 de esta Ley, los aspirantes deberán reunir lo siguiente:
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2009)</small>
 
 I. Cumplir con los requisitos establecidos en los artículos 89 y 90 de la Constitución del Estado y esta Ley, así como los que señale la convocatoria respectiva.
 
-II. Presentar la solicitud respectiva y el formato de registro debidamente llenado, en el horario y fecha que se señale en la convocatoria, así como entregar la documentación correspondiente y el currículum vitae por duplicado en el siguiente orden:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE JUNIO DE 2023)</small>
+
+II. Presentar la solicitud respectiva y el formato de registro debidamente llenado, en el horario y fecha que se señale en la convocatoria, así como entregar la documentación correspondiente y el currículum vitae en físico y digital por cualquier medio electrónico en el siguiente orden:
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
 1. Currículum vitae;
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
 2. Constancia de residencia expedida por la autoridad respectiva;
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
 3. Carta de no antecedentes penales;
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
 4. Constancia de no inhabilitación expedida por la Secretaría de la Contraloría
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
 5. Copia certificada de:
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
 a. Acta de nacimiento
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
 b. Título profesional
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
 c. Cédula profesional
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
 d. Credencial para votar con fotografía
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
 Los documentos señalados en los incisos b, c, y d, deberán presentarse en copia certificada por notario público.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2009)</small>
 
 III. Escrito firmado y con huella dactilar en el que se manifieste bajo protesta de decir verdad:
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+
 a) No haber sido condenado por delito que amerite pena corporal;
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
 b) Haber residido en el Estado durante los diez años inmediatos anteriores a la publicación de la convocatoria respectiva, con excepción de lo señalado en el artículo 90, fracción II de la Constitución del Estado;
 
@@ -2289,17 +2359,23 @@ b) Haber residido en el Estado durante los diez años inmediatos anteriores a la
 
 c) No haber ocupado el cargo de Secretario de Despacho del Poder Ejecutivo, Fiscal General del Estado o Diputado Local, durante el año previo al día de su designación.
 
-IV. Escrito en el que se autorice a la Junta Política y de Gobierno para que en caso de ser necesario, lleve a cabo investigaciones para corroborar por los medios legales que juzgue convenientes, la información a que se refieren los numerales anteriores.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
 
-V. Entrega de Ensayo científico jurídico por escrito y con respaldo electrónico en disco compacto en formato Word Windows XP o Vista.
+IV. Escrito en el que se autorice al Órgano Político Calificador para que en caso de ser necesario, lleve a cabo investigaciones para corroborar por los medios legales que juzgue convenientes, la información a que se refieren los numerales anteriores.
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+V. Entrega de ensayo científico jurídico por escrito y con respaldo electrónico en cualquier medio de almacenamiento digital.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2009)</small>
 
 VI. Documentos que acrediten la preparación académica y experiencia laboral del aspirante.
 
-(ADICIONADO, P.O. 11 DE JULIO DE 2009) (F. DE E., P.O. 11 DE JULIO DE 2009)
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
 
 ###### Artículo 119.
 
-La Junta Política y de Gobierno formará un expediente por duplicado de los aspirantes que hayan acreditado los requisitos establecidos en el artículo anterior, procediendo a publicar la lista respectiva en la Gaceta Legislativa y el portal del Congreso, comunicándoles por este medio, así como vía correo electrónico a todos los aspirantes que pasaron a la siguiente etapa de la convocatoria.
+El Órgano Político Calificador formará un expediente de los aspirantes que hayan acreditado los requisitos establecidos en el artículo anterior, procediendo a publicar la lista respectiva en la Gaceta Legislativa y el portal del Congreso, comunicándoles por este medio, así como vía correo electrónico a todos los aspirantes, si pasaron a la siguiente etapa de la convocatoria.
 
 > <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
@@ -2335,79 +2411,49 @@ f) Las fuentes de investigación donde se precisen las fuentes bibliográficas, 
 
 g) El sustentante bajo protesta de decir verdad manifestará a través de una carta, que las ideas expuestas en dicho ensayo no han sido publicadas, ni plagiadas, misma que acompañará al ensayo en la hoja posterior a la portada.
 
-VIII. La Junta Política y de Gobierno al cierre de la convocatoria, calificará la originalidad, calidad e integridad del ensayo, y podrá investigar las fuentes utilizadas y en su caso requerir la presentación de las fuentes utilizadas a los sustentantes, procediendo a desechar los trabajos que presenten irregularidades o no cumplan con las disposiciones que marca la Constitución, la Ley o la convocatoria. Su decisión será inapelable.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
 
-(ADICIONADO, P.O. 11 DE JULIO DE 2009) (F. DE E., P.O. 11 DE JULIO DE 2009)
+VIII. El Órgano Político Calificador al cierre de la convocatoria, calificará la originalidad, calidad e integridad del ensayo, y podrá investigar las fuentes utilizadas y en su caso requerir la presentación de las fuentes utilizadas a los sustentantes, procediendo a desechar los trabajos que presenten irregularidades o no cumplan con las disposiciones que marca la Constitución, la ley o la convocatoria. Su decisión será inapelable.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
 
 ###### Artículo 121.
 
-Una vez realizada la calificación de los ensayos científicos, la Junta Política y de Gobierno publicará la lista de los aspirantes que acreditaron esta fase, en la Gaceta Legislativa y el portal de Internet del Congreso, la cual tendrá efectos de notificación a los interesados. Asimismo, les comunicará vía correo electrónico a todos los aspirantes que pasaron a la siguiente etapa de la convocatoria.
+Una vez realizada la calificación de los ensayos científicos, el Órgano Político Calificador publicará la lista de los aspirantes que acreditaron esta fase, en la Gaceta Legislativa y el portal de Internet del Congreso, la cual tendrá efectos de notificación a los interesados. Asimismo, les comunicará vía correo electrónico a todos los aspirantes si pasaron a la siguiente etapa de la convocatoria.
 
-En la referida publicación se convocará a los aspirantes acreditados a sesión de la Junta Política y de Gobierno, en la que comparecerán, en estricto orden alfabético, para entrevistarse en un tiempo máximo de diez minutos con los integrantes del órgano de gobierno, mismos que podrán hacer preguntas sobre su ensayo científico, el ejercicio profesional y el perfil del aspirante o aquellos temas que consideren pertinentes respecto al cargo que aspira y a las constancias que obren en el expediente.
+En la referida publicación se convocará a los aspirantes acreditados a sesión del Órgano Político Calificador, en la que comparecerán, en estricto orden alfabético, para entrevistarse en un tiempo máximo de diez minutos con los integrantes del órgano, mismos que podrán hacer preguntas sobre su ensayo científico, el ejercicio profesional y el perfil del aspirante o aquellos temas que consideren pertinentes respecto al cargo que aspira y a las constancias que obren en el expediente.
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
 
 ###### Artículo 122.
 
-Concluida la etapa anterior, la Junta Política y de Gobierno analizará y calificará todos los elementos que contengan los expedientes de los aspirantes que hayan acreditado las dos primeras fases, con base en lo establecido en el artículo 116 de la Ley Orgánica para el Congreso del Estado.
+Concluida la etapa anterior, el Órgano Político Calificador analizará y calificará todos los elementos que contengan los expedientes de los aspirantes que hayan acreditado las dos primeras fases, con base en lo establecido en el artículo 116 de la Ley Orgánica para el Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2023)</small>
 
 ###### Artículo 123.
 
-La Junta Política y de Gobierno, reunida en sesión, por consenso o en su caso por mayoría calificada mediante el sistema de voto ponderado de los coordinadores de los grupos parlamentarios, seleccionará a los aspirantes que considere son los más idóneos para ser designados Magistrados del Tribunal Superior de Justicia, los cuales propondrá en el dictamen correspondiente, al Pleno del Congreso.
+El Órgano Político Calificador, reunida (sic) en sesión, por consenso o en su caso por mayoría simple de sus integrantes, seleccionará a los aspirantes que considere son los más idóneos para ser designados magistradas o magistrados del Tribunal Superior de Justicia, los cuales propondrá en el dictamen correspondiente, al Pleno del Congreso.
 
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+Una vez que las designaciones de Magistradas o Magistrados por el Pleno del Congreso, hayan quedado firmes se darán por concluidos los trabajos del Órgano Político Calificador.
 
 ###### Artículo 124.
 
-La designación de Magistrados Interinos, procederá para cubrir las ausencias temporales o definitivas de los Magistrados Numerarios del Tribunal Superior de Justicia del Estado de Morelos, en los términos previstos en la fracción XXXVII, del artículo 40, de la Constitución Local.
-
-En el caso de que la ausencia sea temporal, durarán en su cargo el tiempo que dure la licencia.
-
-En tratándose de ausencias definitivas, durarán en su cargo hasta en tanto el Congreso del Estado de Morelos, haga la designación de los Magistrados Numerarios respectivos y éstos entren en funciones.
-
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
+(DEROGADO, P.O. 21 DE JUNIO DE 2023)
 
 ###### Artículo 125.
 
-El procedimiento para la designación de Magistrados Interinos, será el siguiente:
-
-I.- Convocatoria e integración de expedientes. En esta fase la Junta Política y de Gobierno, publicará una convocatoria pública, a efecto de recibir propuestas para la designación respectiva.
-
-II.- Por tratarse de una designación con carácter de interino y con la finalidad de que no se vean afectadas las labores cotidianas del Tribunal Superior de Justicia, se procurará que la convocatoria contemple plazos abreviados.
-
-III.- Dictamen con Lista de Aspirantes a Magistrados para aprobación del Pleno del Congreso.
-
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
+(DEROGADO, P.O. 21 DE JUNIO DE 2023)
 
 ###### Artículo 126.
 
-Para la integración de los expedientes de los aspirantes a que se refiere la primera fase del procedimiento a que hace mención el artículo que antecede, los aspirantes deberán reunir lo siguiente:
-
-I.- Cumplir con los requisitos establecidos en los artículos 89 y 90, de la Constitución del Estado y esta Ley, así como los que señale la convocatoria respectiva;
-
-II.- Presentar la solicitud respectiva y el formato de registro debidamente llenado; en el horario y fecha que se señale en la convocatoria, así como entregar la documentación correspondiente y el currículum vitae;
-
-III.- Escrito firmado y con huella dactilar en el que se manifieste bajo protesta de decir verdad:
-
-a) No haber sido condenado por delito que amerite pena corporal;
-
-b) Haber residido en el Estado durante los diez años inmediatos anteriores a la publicación de la convocatoria respectiva, con excepción de lo señalado en el artículo 90, fracción II, de la Constitución del Estado;
-
-c) No haber ocupado el cargo de Secretario de Despacho del Poder Ejecutivo, Fiscal General o Diputado local, durante el año previo al día de su designación.
-
-IV.- Los documentos que acrediten la preparación académica y experiencia laboral del aspirante.
-
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
+(DEROGADO, P.O. 21 DE JUNIO DE 2023)
 
 ###### Artículo 127.
 
-La Junta Política y de Gobierno, formará un expediente por cada uno de los aspirantes que hayan acreditado los requisitos establecidos en el artículo anterior y procederá a emitir el Dictamen respectivo, comunicando en todo caso, a los aspirantes que pasaron a la segunda etapa, dicha determinación mediante lista que se fijará en las oficinas de dicho cuerpo colegiado.
-
-La Junta Política y de Gobierno seleccionará a los aspirantes que considere son los más idóneos para ser designados en el cargo de Magistrado Interino, los cuales propondrá en el Dictamen correspondiente al Pleno del Congreso.
-
-La votación requerida para ser designado como Magistrado Interino, será la contemplada en la fracción XXXVII, del artículo 40, de la Constitución Local.
+(DEROGADO, P.O. 21 DE JUNIO DE 2023)
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2017)</small>
 
@@ -2415,7 +2461,7 @@ La votación requerida para ser designado como Magistrado Interino, será la con
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2017)</small>
 
-### CAPÍTULO II. DE LA SOLICITUD DE CREACIÓN Y SUS REQUISITOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
 
@@ -2463,7 +2509,7 @@ V. Reconozcan autoridades propias de acuerdo con sus usos y costumbres.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2017)</small>
 
-### CAPÍTULO III. DEL PROCEDIMIENTO
+### CAPÍTULO II. DE LA SOLICITUD DE CREACIÓN Y SUS REQUISITOS
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
 
@@ -2515,9 +2561,9 @@ IX. Certificación del acta de asamblea o junta de pobladores, en la que conste 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2017)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DEL PROCEDIMIENTO
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2017)</small>
 
 ###### Artículo 134.
 
@@ -2547,7 +2593,7 @@ Una vez satisfechos los requisitos establecidos en el presente Título, se proce
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2023)</small>
 
-### CAPÍTULO II. DEL PROCEDIMIENTO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
 
@@ -2599,7 +2645,7 @@ En el supuesto que el servidor público suspendido temporalmente no resultare re
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2023)</small>
 
-### CAPÍTULO III. RECURSO DE RECONSIDERACIÓN
+### CAPÍTULO II. DEL PROCEDIMIENTO
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
 
@@ -2638,6 +2684,10 @@ XI. En la sesión del pleno, por instrucciones de la Presidencia, se turnará a 
 Una vez concluido el plazo para alegar lo haya hecho o no, la denunciada, se presentará al pleno el dictamen correspondiente que conforme a derecho proceda.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2023)</small>
+
+### CAPÍTULO III. RECURSO DE RECONSIDERACIÓN
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 146.
 
@@ -3344,3 +3394,15 @@ PRIMERO.- Remítase el presente decreto al titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente decreto entrara en vigor en el momento de su aprobación por el Pleno del Congreso del Estado de Morelos, de conformidad con lo establecido en el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma.
+
+P.O. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL DIECINUEVE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, EN MATERIA DE PROCESOS INTERNOS".]
+
+PRIMERA: Remítase el presente decreto al titular del Poder Ejecutivo del Estado de Morelos, para los fines que indican los artículos 44, 47 y 70, fracción XVII, inciso a), del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA: El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno del Congreso del Estado de Morelos, de conformidad con lo establecido en el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA: Todas las referencias a la Junta Política y de Gobierno, dentro del procedimiento de designación de Magistrados, se entenderán realizadas al Órgano Político Calificador, a que se refiere este Decreto.
+
+CUARTA: Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por el presente Decreto.
