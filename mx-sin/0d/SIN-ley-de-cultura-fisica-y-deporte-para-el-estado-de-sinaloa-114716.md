@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-cultura-fisica-y-deporte-para-el-estado-de-sinaloa-11471
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2018-05-25"
+last_updated: "2023-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 18 de mayo de 2016.
 
@@ -433,15 +433,27 @@ II. Secretaría de Administración y Finanzas;
 
 III. Secretaría de Salud;
 
-IV. Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+IV. Secretaría de Bienestar y Desarrollo Sustentable;
 
 V. Secretaría de Seguridad Pública;
 
-VI. Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
 
-VII. Sistema para el Desarrollo Integral de la Familia del Estado de Sinaloa; y
+VI. Fiscalía General del Estado de Sinaloa;
 
-VIII. El Director General del ISDE.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+VII. Sistema para el Desarrollo Integral de la Familia del Estado de Sinaloa;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+VIII. El ISDE a través de su Director General; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2023)</small>
+
+IX. La Comisión Permanente de la Juventud y el Deporte del H. Congreso del Estado de Sinaloa, a través de su Presidente.
 
 Los integrantes de la Junta Directiva asistirán y participarán en las sesiones con voz y voto, con excepción del Director General del ISDE, que solo participará con voz.
 
@@ -449,7 +461,9 @@ En la Junta Directiva podrán participar, con voz pero sin voto, representantes 
 
 Asimismo, podrán ser invitados a participar con voz pero sin voto, personalidades distinguidas de los sectores social y privado que por su relación, nexos, vinculación y aportaciones con la práctica de la cultura física y deporte e importancia de los asuntos a tratar en dicha reunión, tengan interés directo en la misma y puedan hacer aportaciones en la materia.
 
-El Presidente de la Junta Directiva convocará a participar como invitado permanente al Titular de la Unidad de Transparencia y Rendición de Cuentas, quien participará con voz pero sin voto.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
+
+El Presidente de la Junta Directiva convocará a participar como invitado permanente al Titular de la Secretaría de Transparencia y Rendición de Cuentas, quien participará con voz pero sin voto.
 
 El desempeño del cargo de miembro de la Junta Directiva será honorífico y por cada propietario se designará un suplente.
 
@@ -1444,3 +1458,11 @@ P.O. 25 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 449 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE SINALOA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente a su publicación en el periódico oficial “El Estado de Sinaloa”.
+
+P.O. 21 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 476 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 26 DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado deberá emitir las modificaciones a las disposiciones reglamentarias que deriven del presente Decreto.
