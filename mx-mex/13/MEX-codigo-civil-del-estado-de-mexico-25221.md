@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2023-03-10"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -795,9 +795,9 @@ Aviso al Ministerio Público de muerte violenta
 
 Cuando éste conozca de un fallecimiento, dará parte al oficial del Registro Civil para que asiente el acta respectiva. Si se ignora la identidad del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a su identificación.
 
-> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-Si se determina que hubiere muerte por violencia familiar o de género, la o el Juez lo hará del conocimiento del Registro Civil para la anotación marginal correspondiente y lo informará al Consejo para Prevenir y Erradicar la Violencia Familiar del Estado de México.
+Si se determina que hubiere muerte por violencia familiar o de género, la o el Juez lo hará del conocimiento del Registro Civil para la anotación marginal correspondiente y lo informará al Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
 Acta de defunción de quien no aparece su cadáver
 
@@ -3417,9 +3417,9 @@ Tutor del incapacitado que tenga hijos menores
 
 261.- La Ley coloca a los expósitos y a los que sean entregados o abandonados, bajo la tutela del Sistema para el Desarrollo Integral de la Familia del Estado de México y, en su caso, de los Municipales que cuenten con albergues, sin perjuicio que éstos otorguen la guarda y cuidado a alguna institución de asistencia social pública o privada, legalmente reconocida. La Mujer que solicitó mantener en secreto su identidad en el momento del parto y la reserva sobre el nacimiento, deberá entregar inmediatamente al menor al Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-En los casos que los Sistemas Municipales otorguen la guarda y cuidado a instituciones de asistencia social pública o privada, deberán notificarlo al Sistema para el Desarrollo Integral de la Familia del Estado de México.
+En los casos que los Sistemas Municipales otorguen la guarda y cuidado a instituciones de asistencia social pública o instituciones de asistencia privada legalmente constituidas, deberán notificarlo al Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
 > <small>(ADICIONADO, G.G. 20 DE AGOSTO DE 2015)</small>
 
@@ -3467,9 +3467,11 @@ Nombramiento de tutor dativo aunque el pupilo carezca de bienes
 
 Nombramiento de tutor dativo del pupilo que carece de bienes
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 4.
 
-267.- En el caso del artículo anterior la tutela se desempeñará obligatoriamente por las instituciones de asistencia social pública o privada. Puede el Juez nombrar como tutores a otras personas, que sean convenientes a los intereses de los menores y estén conformes en su desempeño gratuito.
+267.- En el caso del artículo anterior la tutela se desempeñará obligatoriamente por las instituciones de asistencia social pública o instituciones de asistencia privada legalmente constituidas. Puede el Juez nombrar como tutores a otras personas, que sean convenientes a los intereses de los menores y estén conformes en su desempeño gratuito.
 
 Nombramiento de tutor dativo que adquiere bienes
 
@@ -7891,9 +7893,11 @@ Repudio de herencia dejada bajo condición
 
 Aceptación o repudio por personas jurídicas colectivas
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 6.
 
-194.- Las personas jurídicas colectivas pueden aceptar o repudiar la herencia; las de carácter público sólo pueden repudiarla previa autorización judicial; y las instituciones de beneficencia privada, deberán sujetarse a la ley de la materia.
+194.- Las personas jurídicas colectivas pueden aceptar o repudiar la herencia; las de carácter público sólo pueden repudiarla previa autorización judicial; y las instituciones de asistencia privada legalmente constituidas, deberán sujetarse a la ley de la materia.
 
 Tercero interesado en que se acepte o repudie
 
@@ -18696,3 +18700,27 @@ G.G. 10 DE MARZO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno" el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
+
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los nueve días del mes de mayo del año dos mil veintitrés.- Presidente.- Dip. Marco Antonio Cruz Cruz.- Secretarias.- Dip. María Elida Castelán Mondragón.- Dip. Ma. Trinidad Franco Arpero.- Dip. Mónica Miriam Granillo Velazco.-. Rúbricas.
+
+Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, México, a 12 de junio de 2023.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, LIC. ALFREDO DEL MAZO MAZA.- RÚBRICA.- EL SECRETARIO GENERAL DE GOBIERNO, LUIS FELIPE PUENTE ESPINOSA.- RÚBRICA.
