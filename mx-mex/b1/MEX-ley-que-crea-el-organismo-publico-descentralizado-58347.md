@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-58347"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-03"
-last_updated: "2020-09-29"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera a la Gaceta del Gobierno del Estado de México, el lunes 3 de diciembre de 2007.
 
@@ -51,9 +51,11 @@ LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FU
 
 Se crea el Instituto de la Función Registral del Estado de México como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Justicia y Derechos Humanos, el cual se regirá por lo dispuesto en la presente Ley y en su reglamento interior; así como en los demás ordenamientos legales aplicables.
 
-###### Artículo 2.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
-El Instituto de la Función Registral del Estado de México tiene por objeto llevar a cabo la función registral del Estado de México en los términos del Código Civil del Estado de México, el Reglamento del Registro Público de la Propiedad del Estado de México, su reglamento interior y los demás ordenamientos legales aplicables. Dicho objeto es de interés general, beneficio colectivo y para la prestación de un servicio público.
+###### Articulo 2.
+
+El Instituto de la Función Registral del Estado de México tiene por objeto llevar a cabo la función registral del Estado de México en los términos del Código Civil del Estado de México, la Ley Registral para el Estado de México y su reglamento, su reglamento interior y los demás ordenamientos legales aplicables. Dicho objeto es de interés general, beneficio colectivo y para la prestación de un servicio público.
 
 Para el cumplimiento de su objeto, el Instituto de la Función Registral del Estado de México tendrá el carácter de autoridad fiscal, teniendo atribuciones para determinar los créditos fiscales y las bases de su liquidación, fijarlos en cantidad líquida, notificarlos, cobrarlos, exigirlos mediante el procedimiento administrativo de ejecución en su caso, verificar y comprobar el exacto cumplimiento de las obligaciones fiscales que se generen con motivo de la prestación de sus servicios, así como para imponer las sanciones que correspondan por las infracciones a las disposiciones fiscales, en el ámbito de su competencia.
 
@@ -83,7 +85,9 @@ VIII. Realizar el análisis y la difusión de técnicas y procedimientos registr
 
 IX. Formular programas, proyectos, manuales y demás disposiciones jurídicas y administrativas para mejorar el funcionamiento de la institución registral y regular la prestación de sus servicios;
 
-X. Integrar y mantener actualizados los índices a que se refiere el Reglamento del Registro Público de la Propiedad, incluyendo los relativos a propiedades;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Integrar y mantener actualizado el acervo registral a que se refiere la Ley Registral para el Estado de México, incluyendo los relativos a propiedades;
 
 XI. Promover y difundir los servicios que preste, así como los beneficios de la actividad registral y fomentar la cultura registral;
 
@@ -93,7 +97,9 @@ XIII. Capacitar y profesionalizar al personal bajo su adscripción;
 
 XIV. Promover programas de desarrollo tecnológico en materia registral;
 
-XV. Realizar el registro de los actos jurídicos de la propiedad de bienes muebles e inmuebles, mediante un sistema de folios, en los términos que establezca el Reglamento del Registro Público de la Propiedad. Para los efectos de esta Ley, se entiende por folio la hoja, conjunto de hojas, medios magnéticos, electrónicos, cibernéticos, informáticos o automatizados en que se practiquen y hagan constar las inscripciones, registros, anotaciones y asientos relativos a los actos jurídicos que sean registrables o anotables;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XV. Realizar el registro de los actos jurídicos de la propiedad de bienes muebles e inmuebles, mediante un sistema de folios, en los términos que establezca la Ley Registral para el Estado de México. Para los efectos de esta Ley, se entiende por folio la hoja, conjunto de hojas, medios magnéticos, electrónicos, cibernéticos, informáticos o automatizados en que se practiquen y hagan constar las inscripciones, registros, anotaciones y asientos relativos a los actos jurídicos que sean registrables o anotables;
 
 XVI. Coordinar las operaciones del Registro Público de Comercio y del Registro de Crédito Agrícola, así como las demás que se le encomienden, conforme a lo dispuesto en los ordenamientos legales aplicables y en los convenios y contratos que suscriba con autoridades federales y estatales para realizar los actos registrales en estas materias;
 
@@ -415,19 +421,25 @@ La enajenación, cesión, afectación o disposición que se realice por cualquie
 
 En adición a lo previsto en materia de contabilidad previsto en las disposiciones aplicables del Código Financiero del Estado de México y Municipios, el Instituto de la Función Registral del Estado de México podrá llevar su contabilidad de conformidad con las Normas de Información Financiera emitidas por el Consejo Mexicano para la Investigación y Desarrollo de Normas de Información Financiera. Los estados financieros del Instituto de la Función Registral del Estado de México podrán ser auditados por una firma de contadores de reconocimiento y prestigio nacional.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 22.
 
-El Instituto de la Función Registral del Estado de México deberá publicar sus balances consolidados anuales en la Gaceta del Gobierno.
+El Instituto de la Función Registral del Estado de México deberá publicar sus balances consolidados anuales en el Periódico Oficial "Gaceta del Gobierno".
 
 ### CAPÍTULO SEXTO. DE LOS PROCESOS ADMINISTRATIVOS
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 23.
 
-Las controversias que se susciten en el ámbito de la presente Ley, así como la impugnación de los actos emitidos por el Instituto de la Función Registral del Estado de México, se regirán por lo dispuesto en el Código de Procedimientos Administrativos del Estado de México, el Reglamento Interior del Instituto de la Función Registral del Estado de México y el Reglamento del Registro Público de la Propiedad.
+Las controversias que se susciten en el ámbito de la presente Ley, así como la impugnación de los actos emitidos por el Instituto de la Función Registral del Estado de México, se regirán por lo dispuesto en el Código de Procedimientos Administrativos del Estado de México, la Ley Registral para el Estado de México, su reglamento y el Reglamento Interior del Instituto de la Función Registral del Estado de México.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 24.
 
-Conforme a lo dispuesto en el Código Civil del Estado de México, las resoluciones del Instituto de la Función Registral del Estado de México relativas a las calificaciones registrales, podrán notificarse por estrados en sitio abierto de las oficinas del propio Instituto o por cualquier medio electrónico disponible previa conformidad o solicitud por escrito del promovente y surtirán efectos al día siguiente de su publicación o de su recepción, según sea el caso, de conformidad con las disposiciones aplicables.
+Conforme a lo dispuesto en el Código Civil del Estado de México y la Ley Registral para el Estado de México, las resoluciones del Instituto de la Función Registral del Estado de México relativas a las calificaciones registrales, podrán notificarse por estrados en sitio abierto de las oficinas del propio Instituto o por cualquier medio electrónico disponible previa conformidad o solicitud por escrito del promovente y surtirán efectos al día siguiente de su publicación o de su recepción, según sea el caso, de conformidad con las disposiciones aplicables.
 
 ### CAPÍTULO SÉPTIMO. DEL PERSONAL DEL INSTITUTO
 
@@ -720,3 +732,19 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
