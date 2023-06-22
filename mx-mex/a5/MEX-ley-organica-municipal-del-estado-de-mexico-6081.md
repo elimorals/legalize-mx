@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2023-05-11"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -773,7 +773,9 @@ Las remuneraciones de todo tipo del Presidente Municipal, Síndicos, Regidores y
 
 Los ayuntamientos podrán promover el financiamiento de proyectos productivos de las mujeres emprendedoras.
 
-XX. Autorizar la contratación de empréstitos, en términos de la Ley de Deuda Pública Municipal del Estado de México;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XX. Autorizar la contratación de empréstitos, en términos del Código Financiero del Estado de México y Municipios;
 
 XXI. Formular, aprobar y ejecutar los planes de desarrollo municipal y los Programas correspondientes;
 
@@ -969,7 +971,9 @@ I. Enajenar los bienes inmuebles del municipio, o en cualquier acto o contrato q
 
 II. Cambiar las categorías políticas de las localidades del municipio a ciudad; en los términos del artículo 10 de esta ley;
 
-III. Contratar créditos cuando los plazos de amortización rebasen el término de la gestión municipal, en términos de la Ley de Deuda Pública Municipal del Estado de México;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Contratar créditos cuando los plazos de amortización rebasen el término de la gestión municipal, en términos del Código Financiero del Estado de México y Municipios;
 
 IV. Dar en arrendamiento, comodato o en usufructo los bienes inmuebles del municipio, por un término que exceda el período de la gestión del ayuntamiento;
 
@@ -1755,9 +1759,9 @@ Los miembros de los consejos podrán ser removidos, en cualquier tiempo por el a
 
 Los ayuntamientos promoverán entre sus habitantes la creación y funcionamiento de organizaciones sociales de carácter popular, a efecto de que participen en el desarrollo vecinal, cívico y en beneficio colectivo de sus comunidades.
 
-> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-La Comisión De Participación Ciudadana a que se refiere el artículo 69 de esta Ley, fungirá como instancia de apoyo entre los ciudadanos, organizaciones de la sociedad civil, constructores o desarrolladores y las autoridades municipales, en los conflictos que se generen en materia de desarrollo urbano y uso de suelo, adicionalmente a las funciones que le señale el reglamento correspondiente.
+La Comisión de Participación Ciudadana fungirá como instancia de apoyo entre los ciudadanos, organizaciones de la sociedad civil, constructores o desarrolladores y las autoridades municipales, en los conflictos que se generen en materia de desarrollo urbano y uso de suelo, adicionalmente a las funciones que le señale el reglamento correspondiente.
 
 ###### Artículo 78.
 
@@ -2619,11 +2623,11 @@ Las funciones de contraloría interna estarán a cargo del órgano que establezc
 
 La contraloría municipal tendrá un titular denominado Contralor, quien será designado por el ayuntamiento a propuesta del presidente municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 112.
 
-El órgano interno de control municipal, tendrá a su cargo las funciones siguientes:
+El órgano interno de control municipal tendrá a su cargo las funciones siguientes:
 
 I. Planear, programar, organizar y coordinar el sistema de control y evaluación municipal;
 
@@ -2659,7 +2663,9 @@ XIV. Vigilar que los ingresos municipales se enteren a la tesorería municipal c
 
 XV. Participar en la elaboración y actualización del inventario general de los bienes muebles e inmuebles propiedad del municipio, que expresará las características de identificación y destino de los mismos;
 
-XVI. Verificar que los servidores públicos municipales cumplan con la obligación de presentar oportunamente la manifestación de bienes, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XVI. Verificar que los servidores públicos municipales cumplan con la obligación de presentar oportunamente la manifestación de bienes, en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
 
 > <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -2733,9 +2739,9 @@ Artículo 113 F.- Las dependencias y entidades de la administración pública mu
 
 Artículo 113 G.- Las dependencias y entidades señaladas en el artículo anterior harán la entrega-recepción de las obras ante los integrantes de los comités ciudadanos de control y vigilancia y de los vecinos de la localidad beneficiados con la obra.
 
-> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las secretarías de Finanzas y Planeación, de la Contraloría y de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
+Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las Secretarías de Finanzas y de la Contraloría, así como de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
 
 ### CAPITULO QUINTO. De la Planeación
 
@@ -2825,9 +2831,9 @@ d) Otros que consideren convenientes.
 
 La persona titular de los organismos públicos descentralizados en materia de cultura física y deporte, a que se refiere el artículo anterior, además de los requisitos establecidos en el artículo 32 de esta Ley, preferentemente deberá contar con título profesional en el área de educación física o disciplina afín.
 
-> <small>(ADICIONADO, G.G. 25 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-Para acceder al cargo, la titular del Instituto Municipal de la Mujer, deberá cumplir con los requisitos previstos en el artículo 96 Quindecies.
+Para acceder al cargo, la persona titular del Instituto Municipal de las Mujeres deberá cumplir con los requisitos previstos en el artículo 96 Quindecies.
 
 ###### Artículo 124.
 
@@ -3719,11 +3725,11 @@ Las faltas temporales de los oficiales calificadores serán cubiertas por el sec
 
 ### CAPITULO SEGUNDO. De los Recursos Administrativos
 
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 154.
 
-Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de Justicia Administrativa del Estado de México, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -5778,3 +5784,19 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
