@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2023-05-11"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,13 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD DEL ESTADO DE MEXICO
 
-LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
+LEY DE INGRESOS DEL SAN MUNICIPIO DE SAN MIGUEL AMATLÁN, BENEMÉRITO DISTRITO DE IXTLÁN DE JUÁREZ, OAXACA, PARA EL EJERCICIO FISCAL 2025.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
+TEXTO ORIGINAL.
 
-Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
+Ley publicada en la Séptima Sección del Número 8 del Periódico Oficial del Estado de Oaxaca, el sábado 22 de febrero de 2025.
 
-ERUVIEL AVILA VILLEGAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
-
-Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
-
-DECRETO NÚMERO 360
-
-LA H. "LVII" LEGISLATURA DEL ESTADO DE MÉXICO
-
-DECRETA:
-
-LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -769,9 +759,29 @@ Los instrumentos jurídicos sobre criterios y protocolos de operación, investig
 
 ###### Artículo 28.
 
-El Consejo Estatal determinará los mecanismos idóneos y las herramientas informáticas necesarias para el buen funcionamiento del Sistema Estatal, así como las formas en que los servidores públicos de las instituciones de seguridad pública podrán acceder al mismo y las medidas de seguridad y restricción de la información.
+El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+CONCEPTO CUOTA
+
+EN PESOS
+
+(NOTA: EL 8 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 39/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE DICIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+I. COPIAS DE DOCUMENTOS EXISTENTES EN
+
+LOS ARCHIVOS MUNICIPALES POR HOJA 100.00
+
+II. Expedición de certificados de residencia,
+
+origen, dependencia económica de morada conyugal,
+
+de situación fiscal actual o pasada, de contribuyentes
+
+inscritos en la Tesorería Municipal. 150.00
+
+III. Certificación de la superficie de un predio 300.00
+
+IV. Certificaciones de la ubicación de un inmueble 300.00
 
 ###### Artículo 29.
 
@@ -1085,31 +1095,23 @@ Las reglas para el desarrollo de las sesiones de los Consejos Intermunicipales, 
 
 ###### Artículo 50.
 
-Son atribuciones de los Consejos Intermunicipales:
+Se considera multas por faltas administrativas que cometan los ciudadanos a su bando de policía y gobierno por los siguientes conceptos.
 
-I. Ejecutar los acuerdos y resoluciones del Consejo Estatal, en el ámbito de sus respectivas competencias;
+CONCEPTO CUOTA EN PESOS
 
-II. Proponer los instrumentos y políticas públicas integrales, sistemáticas, continuas y evaluables, tendientes a cumplir los fines de la seguridad pública, a fin de que sean discutidas y eventualmente incluidas en el Programa Estatal, por conducto de su Presidente;
+(NOTA: EL 8 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 39/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE DICIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-III. Evaluar las políticas y acciones de seguridad pública en el ámbito de su competencia;
+I. ESCÁNDALO EN LA VÍA PÚBLICA 350.00
 
-> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+II. Grafiti 400.00
 
-IV. Emitir acuerdos para la efectiva coordinación de las Instituciones de Seguridad Pública pertenecientes a los municipios que formen parte de cada Consejo Intermunicipal;
+III. Tirar basura en la vía pública 250.00
 
-V. Hacer propuestas para el buen funcionamiento del Sistema Estatal, a fin de que sean sometidas a consideración del Consejo Estatal, por conducto de su Presidente;
+IV. Inasistencia a tequio 350.00
 
-VI. Promover la implementación de políticas públicas y programas en materia de atención y protección a víctimas del delito;
+V. Inasistencias a asambleas 350.00
 
-VII. Promover la homologación y desarrollo de los modelos ministerial, policial y pericial en las Instituciones de Seguridad Pública a su cargo, y evaluar sus avances, de conformidad con las leyes respectivas;
-
-> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
-
-VIII. Promover el establecimiento de unidades de consulta y participación de la comunidad en las Instituciones de Seguridad Pública pertenecientes a los municipios que formen parte de cada Consejo Intermunicipal;
-
-IX. Expedir su Estatuto orgánico en los términos de esta Ley y los acuerdos que adopte el Consejo Estatal; y
-
-X. Las demás que establezcan esta Ley, otras disposiciones jurídicas y las que sean necesarias para cumplir los fines de la seguridad pública.
+VI. Dejar heces de animales en la vía pública 300.00
 
 ###### Artículo 51.
 
