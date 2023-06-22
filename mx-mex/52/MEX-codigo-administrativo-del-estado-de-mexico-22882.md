@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2023-06-02"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -55,9 +55,7 @@ I. Salud;
 
 II. Educación, ejercicio profesional, investigación científica y tecnológica, cultura, deporte, juventud, instalaciones educativas y mérito civil;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-III. Turismo;
+III. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
 IV. Ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población;
 
@@ -75,9 +73,7 @@ VIII. Fomento y desarrollo agropecuario y acuícola;
 
 IX. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-X. Protección e integración al desarrollo de las personas con discapacidad;
+X. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
 > <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -85,25 +81,25 @@ XI. Obra pública;
 
 XII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XIII. Información e investigación geográfica, estadística y catastral; y
+XIII. Información e investigación geográfica, estadística y catastral;
 
-> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
+XIV. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
-XIV. Periódico Oficial del Gobierno del Estado de México;
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-XV. Participación pública-privada en proyectos para prestación de servicios;
+XV. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 XVI. Comunicaciones;
 
-> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XVII. Construcciones.;
+XVII. Construcciones, y
+
+> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XVIII. Operaciones y servicios inmobiliarios.
 
 REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)
 
@@ -203,7 +199,9 @@ X. Señalar el lugar y la fecha de su emisión, así como los datos relativos a 
 
 XI. Tratándose de actos administrativos que deban notificarse, se hará mención expresa de la dependencia emisora, la oficina en la que se encuentra dicho expediente o el portal electrónico a través del cual puede realizar la consulta del expediente respectivo;
 
-XII. Tratándose de resoluciones desfavorables a los derechos e intereses legítimos de los particulares, deberá hacerse mención del derecho y plazo que tienen para promover el recurso administrativo de inconformidad o el juicio ante el Tribunal de lo Contencioso Administrativo;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XII. Tratándose de resoluciones desfavorables a los derechos e intereses legítimos de los particulares, deberá hacerse mención del derecho y plazo que tienen para promover el recurso administrativo de inconformidad o el juicio ante el Tribunal de Justicia Administrativa del Estado de México, y
 
 XIII. Resolver expresamente todos los puntos propuestos por los interesados o previstos en las disposiciones aplicables.
 
@@ -221,7 +219,9 @@ XIII. Resolver expresamente todos los puntos propuestos por los interesados o pr
 
 Todo acto administrativo que se emita para la apertura y funcionamiento de unidades económicas, en ningún caso estará condicionado al pago de contribuciones ni a donación alguna que no se encuentren contempladas en la ley, por lo que únicamente requerirá los documentos y datos que se indiquen en forma expresa en la ley de la materia y los registros estatal y municipal de trámites y servicios. La exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-Se considera que ha operado la afirmativa ficta cuando la autoridad competente haya expedido la certificación respectiva, o no haya dado respuesta a la solicitud de certificación en el plazo a que se refiere el segundo párrafo del artículo 135 del Código de Procedimientos Administrativos del Estado de México, o cuando así lo haya declarado el Tribunal Contencioso Administrativo. Tratándose de la negativa ficta, ésta operará cuando el interesado la haga valer al promover el medio de impugnación correspondiente.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Se considera que ha operado la afirmativa ficta cuando la autoridad competente haya expedido la certificación respectiva, o no haya dado respuesta a la solicitud de certificación en el plazo a que se refiere el segundo párrafo del artículo 135 del Código de Procedimientos Administrativos del Estado de México, o cuando así lo haya declarado el Tribunal de Justicia Administrativa del Estado de México. Tratándose de la negativa ficta, ésta operará cuando el interesado la haga valer al promover el medio de impugnación correspondiente.
 
 ### CAPITULO TERCERO. De la invalidez de los actos administrativos
 
@@ -707,11 +707,11 @@ En estos casos, el Testigo Social deberá informar de inmediato y por escrito pr
 
 ### CAPÍTULO CUARTO. De los Contratos de Participación del Testigo Social
 
-> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 1.
 
-61.- La contratación del Testigo Social que realice la Unidad Contratante se sujetará a las disposiciones del Libro Décimo Tercero de este Código.
+61.- La contratación del Testigo Social que realice la Unidad Contratante se sujetará a las disposiciones de la Ley de Contratación Pública del Estado de México y Municipios.
 
 > <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
@@ -769,9 +769,13 @@ I. La concesión de infraestructura vial, regulada en el Libro Séptimo;
 
 II. La obra pública y servicios relacionados con la misma, establecida en el Libro Décimo Segundo;
 
-III. Los bienes y servicios, el arrendamiento y la enajenación, comprendidos en el Libro Décimo Tercero; y
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-IV. Los proyectos para la prestación de servicios, contemplados en el Libro Décimo Sexto.
+III. Los bienes y servicios, el arrendamiento y la enajenación, comprendidos en la Ley de Contratación Pública del Estado de México y Municipios, y
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Los proyectos para la prestación de servicios, contemplados en la Ley de Asociaciones Público Privadas del Estado de México y Municipios.
 
 > <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
@@ -909,9 +913,9 @@ XII. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 80.- La dirección y administración del Consejo Estatal de Población estará a cargo de la Asamblea General y la Secretaría Técnica.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-El Consejo Estatal de Población contará con una Asamblea General que se integrará por un presidente que será el Secretario General de Gobierno, un vicepresidente, un Secretario Técnico, con dieciocho vocales que serán los titulares de las dependencias del Poder Ejecutivo, el Fiscal General de Justicia; los directores generales del Sistema para el Desarrollo Integral de la Familia del Estado de México, del Instituto de Información e Investigación Geográfica, Estadística y Catastral y del Instituto de Seguridad Social del Estado de México y Municipios.
+El Consejo Estatal de Población contará con una Asamblea General que se integrará por un presidente que será el Secretario General de Gobierno, un vicepresidente, un Secretario Técnico, con veinte vocales que serán los titulares de las dependencias del Poder Ejecutivo, el Fiscal General de Justicia; los directores generales del Sistema para el Desarrollo Integral de la Familia del Estado de México, del Instituto de Información e Investigación Geográfica, Estadística y Catastral y del Instituto de Seguridad Social del Estado de México y Municipios.
 
 El presidente y los vocales podrán ser suplidos por su inmediato inferior, en términos de sus respectivos reglamentos interiores.
 
@@ -1337,9 +1341,9 @@ I. Proporcionar servicios de salud a toda la población del Estado y mejorar la 
 
 II. Contribuir al adecuado desarrollo demográfico;
 
-> <small>(REFORMADA, G.G. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-III. Colaborar al bienestar social de la población mediante la prestación de servicios de salud principalmente a niñas, niños, adolescentes, adultos mayores, indígenas y personas con discapacidad en situación de vulnerabilidad, favoreciendo su extensión cuantitativa y cualitativa, para fomentar y propiciar su incorporación a una vida activa en lo económico y social. El Estado garantizará la atención domiciliaria a los adultos mayores sin capacidad de trasladarse, discapacitados, mujeres embarazadas sin control prenatal, y a los enfermos con cuidados paliativos, así como el uso de unidades móviles para otorgar atención médica de primer nivel, de acuerdo a la suficiencia presupuestal existente.
+III. Colaborar al bienestar social de la población mediante la prestación de servicios de salud principalmente a niñas, niños, adolescentes, adultos mayores, indígenas y personas con discapacidad en situación de vulnerabilidad, favoreciendo su extensión cuantitativa y cualitativa, para fomentar y propiciar su incorporación a una vida activa en lo económico y social. El Estado garantizará la atención domiciliaria a los adultos mayores sin capacidad de trasladarse, personas en situación de discapacidad, mujeres embarazadas sin control prenatal, y a los enfermos con cuidados paliativos, así como el uso de unidades móviles para otorgar atención médica de primer nivel, de acuerdo con la suficiencia presupuestal existente.
 
 IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
@@ -2149,9 +2153,9 @@ VI. Sitios de cría y producción de animales domésticos;
 
 VI. BIS. Rastro;
 
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VII. Centros de prevención y readaptación social;
+VII. Centros Penitenciarios;
 
 (REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2243,11 +2247,11 @@ IV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 52.- Los comerciantes que ejerzan su actividad en la vía pública están obligados a conservar las condiciones higiénicas que señalen las normas técnicas estatales.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.34], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 2.
 
-53.- Los edificios o locales, incluidos los centros de prevención y readaptación social, deben contar con las instalaciones sanitarias que señalen las normas técnicas estatales correspondientes.
+53.- Los edificios o locales, incluidos los Centros Penitenciarios, deben contar con las instalaciones sanitarias que señalen las normas técnicas estatales correspondientes.
 
 ###### Artículo 2.
 
@@ -2757,9 +2761,9 @@ III. Establecer un sistema para garantizar la alfabetización de la población m
 
 IV. Promover la educación especial para que las personas con discapacidad alcancen un mayor desarrollo de la personalidad y se favorezca su integración social;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-V. Establecer las bases conforme a las cuales la Secretaría, en coordinación con la autoridad educativa federal y la Secretaría de Seguridad, se presten servicios educativos a las personas internas en los centros de prevención y readaptación social del Estado, para dar cumplimiento a lo dispuesto por la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad;
+V. Establecer las bases conforme a las cuales la Secretaría, en coordinación con la autoridad educativa federal y la Secretaría de Seguridad, presten servicios educativos a las personas privadas de la libertad en los Centros Penitenciarios, para dar cumplimiento a lo dispuesto por la Ley Nacional de Ejecución Penal y la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
 
 VI. Desarrollar innovaciones educativas para mejorar la calidad de la educación;
 
@@ -4257,9 +4261,9 @@ XXVII. Desarrollar y aplicar en el ámbito de sus atribuciones y competencias, i
 
 XXVIII. Llevar a cabo programas permanentes de capacitación para los servidores públicos en las materias de este Libro y su reglamento, así como implementar la certificación de especialistas en planeación urbana, gestión y administración territorial.
 
-> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XXIX. Promover la conformación de institutos metropolitanos de planeación, así como de Observatorios Ciudadanos, en términos de la legislación aplicable.
+XXIX. Impulsar y promover la creación de los institutos municipales, multimunicipales y metropolitanos de planeación, así como de observatorios ciudadanos, en términos de la legislación aplicable.
 
 > <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -4307,13 +4311,13 @@ XII. Ejercer indistintamente con el Estado, el derecho de preferencia para adqui
 
 En el caso de que el Estado y el Municipio pretendan ejercer el derecho de preferencia, prevalecerá el del Estado;
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XIII. Crear órganos técnicos de participación social, consulta, coordinación, evaluación y seguimiento municipales o vecinales con carácter honorífico, en materia de desarrollo urbano así como institutos municipales de planeación.
+XIII. Crear órganos técnicos de participación social, consulta, coordinación, evaluación y seguimiento municipales o vecinales con carácter honorífico, en materia de desarrollo urbano, así como institutos municipales de planeación, cuando se encuentren en un rango de población de cien mil habitantes hacia arriba.
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XIV. Celebrar convenios, acuerdos y contratos en las materias de este Libro.
+XIV. Celebrar convenios, acuerdos y contratos en las materias de este Libro, así como convenios de asociación para crear y mantener institutos multimunicipales de planeación, entre municipios que se encuentren por debajo de un rango de población menor a cien mil habitantes.
 
 > <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -4993,9 +4997,9 @@ Las disposiciones de este capítulo serán aplicables en lo conducente a los pro
 
 34.- (DEROGADO, G.G. 8 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE JUNIO DE 2023)</small>
 
-#### SECCIÓN TERCERA. De la Evaluación Técnica de Factibilidad de Impacto Urbano
+#### SECCIÓN TERCERA. De la Evaluación Técnica de Impacto en Materia Urbana
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
@@ -5151,9 +5155,13 @@ X. Su titular tendrá, en los términos y condiciones previstos en la reglamenta
 
 a) Ceder a título gratuito al Estado y al municipio la propiedad de las superficies de terreno para vías públicas y áreas de donación para equipamiento urbano, que establezcan los acuerdos de autorización.
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-A excepción de las áreas de donación a favor de los municipios, tratándose de los conjuntos urbanos, las áreas de donación de terreno destinadas a equipamiento urbano a favor del Estado, podrán cumplirse previa determinación de la Secretaría, por medio del depósito del valor económico que se determine a través del Instituto de Información e Investigación Geográfica Estadística y Catastral del Estado de México, al Fideicomiso de Reserva Territorial para el Desarrollo de Equipamiento Urbano Regional; o a través de la ejecución de obra pública en el lugar y bajo las especificaciones que determine la Secretaría dentro del mismo municipio, en proporción al valor económico que determine el Instituto de Información e Investigación Geográfica Estadística y Catastral del Estado de México, de conformidad con las disposiciones reglamentarias de éste y demás disposiciones jurídicas aplicables;
+Tratándose de los conjuntos urbanos, las áreas de donación de terreno destinadas a equipamiento urbano a favor del Estado y del municipio, según corresponda, podrán cumplirse previa determinación de la Secretaría, por medio del depósito del valor económico que se determine a través del Instituto de Información e Investigación Geográfica Estadística y Catastral del Estado de México; o a través de la ejecución de obra pública en el lugar y bajo las especificaciones que determine la Secretaría dentro del mismo municipio, en proporción al valor económico que determine el Instituto de Información e Investigación Geográfica Estadística y Catastral del Estado de México, de conformidad con las disposiciones reglamentarias de éste y demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Los depósitos en numerario a favor del Estado deberán realizarse al Fideicomiso de Reserva Territorial para el Desarrollo de Equipamiento Urbano Regional, y a favor del municipio a la respectiva hacienda municipal.
 
 b) Construir las obras de infraestructura, urbanización y equipamiento urbano, de conformidad con lo que establezca el presente Libro y su reglamentación.
 
@@ -5641,9 +5649,9 @@ III. Revocación de las autorizaciones, licencias o permisos otorgados;
 
 IV. Multa, atendiendo a la gravedad de la infracción:
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-a) De mil a quinientas mil veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de hechos que violen los acuerdos de autorización de los conjuntos urbanos y de los usos que generan impacto urbano.
+a) De mil a quinientas mil veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de hechos que violen los acuerdos de autorización de los conjuntos urbanos, el incumplimiento de las obligaciones establecidas en dichos acuerdos, y de los usos que generan impacto urbano.
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -9959,6 +9967,8 @@ XIV. La forma de ejecución sea por contrato o por administración directa.
 
 Lo dispuesto en el párrafo anterior será aplicable a los ayuntamientos, tratándose de obra pública o servicios relacionados con la misma que se ejecuten con cargo a recursos estatales, total o parcialmente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.G. 22 DE JUNIO DE 2023)</small>
+
 La información que se remita a la Secretaría de Finanzas, no implicará compromiso alguno de contratación y podrá ser adicionado, modificado, suspendido o cancelado sin responsabilidad alguna para la dependencia, entidad o ayuntamiento de que se trate.
 
 Para efectos informativos, la Secretaría del Ramo integrará y difundirá los programas anuales de obra pública o servicios relacionados con la misma, pudiendo requerir a las dependencias, entidades y ayuntamientos la información que sea necesaria respecto de las modificaciones a dichos programas.
@@ -10231,11 +10241,11 @@ Si la dependencia, entidad o ayuntamiento no firmare el contrato dentro del plaz
 
 40.- Los derechos y obligaciones que se deriven de los contratos no podrán cederse en forma parcial o total, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo caso se deberá contar con el consentimiento de la dependencia, entidad o ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 12.
 
-41.- En los contratos se estipularan las diversas consecuencias de la suspensión, terminación anticipada o rescisión por causas imputables a la contratista.
+41.- En los contratos se estipularán las diversas consecuencias de la suspensión, terminación anticipada o rescisión por causas imputables a la contratista.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10359,7 +10369,9 @@ II. Sin responsabilidad para el contratista, cuando la contratante incumpla con 
 
 En el caso de la fracción I de este artículo, la contratante está facultada para rescindir el contrato en forma administrativa, otorgando garantía de previa audiencia al contratista en términos del Código de Procedimientos Administrativos del Estado de México.
 
-En el supuesto de la fracción II, el contratista afectado podrá demandar la rescisión del contrato ante el Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+En el supuesto de la fracción II, el contratista afectado podrá demandar la rescisión del contrato ante el Tribunal de Justicia Administrativa del Estado de México.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10461,7 +10473,9 @@ En la fecha señalada para la recepción, la dependencia, entidad o ayuntamiento
 
 El cumplimiento de las obligaciones a que se refiere el párrafo anterior, será garantizado por el contratista previamente a la recepción de los trabajos. La garantía se constituirá hasta por el diez por ciento del monto total de los montos ejecutados.
 
-En caso de que el cumplimiento de las obligaciones establecidas en este artículo rebasen el importe de la garantía, las dependencias, entidades o ayuntamientos, además de hacer efectiva la garantía otorgada, podrán exigir el pago de la diferencia que resulte.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+En caso de que el cumplimiento de las obligaciones establecidas en este artículo rebase el importe de la garantía, las dependencias, entidades o ayuntamientos, además de hacer efectiva la garantía otorgada, podrán exigir el pago de la diferencia que resulte.
 
 Las diferencias que resulten a favor de las contratantes tendrán el carácter de créditos fiscales, por lo que su cumplimento podrá hacerse efectivo a través del procedimiento administrativo de ejecución.
 
@@ -10617,7 +10631,9 @@ La inconformidad administrativa en lo no previsto por este Libro, se substanciar
 
 71.- En las materias reguladas en el presente Libro no procederá el recurso administrativo de inconformidad previsto en el Código de Procedimientos Administrativos del Estado de México.
 
-En contra de la resolución que se dicte en la inconformidad administrativa, así como de los demás actos y resoluciones derivados de los contratos y convenios regulados por este Libro, procede juicio ante el Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+En contra de la resolución que se dicte en la inconformidad administrativa, así como de los demás actos y resoluciones derivados de los contratos y convenios regulados por este Libro, procede juicio ante el Tribunal de Justicia Administrativa del Estado de México.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -10651,7 +10667,9 @@ III. Promoción.
 
 IV. Por permanencia.
 
-El incumplimiento de esta obligación será causa de responsabilidad administrativa en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, estarán impedidos para desarrollar funciones inherentes a este capítulo.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+El incumplimiento de esta obligación será causa de responsabilidad administrativa en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, estarán impedidos para desarrollar funciones inherentes a este capítulo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -10663,11 +10681,11 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 75.- Los licitantes o contratistas que infrinjan las disposiciones contenidas en el presente Libro o en su Reglamento, serán sancionados por la Contraloría con multa de trescientas a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de la infracción y/o inhabilitación temporal de tres meses a cinco años para participar en los procedimientos de contratación que en estos se regulan.
 
-> <small>(ADICIONADO, G.G. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 12.
 
-76.- La Contraloría sustanciará el procedimiento mediante el cual se impondrán las sanciones a que se refiere el artículo anterior, en los términos dispuestos en el Reglamento del presente Libro. Asimismo, determinará la responsabilidad administrativa de los servidores públicos de conformidad con lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, lo anterior no exime de la responsabilidad civil o penal en términos de ley.
+76.- La Contraloría sustanciará el procedimiento mediante el cual se impondrán las sanciones a que se refiere el artículo anterior, en los términos dispuestos en el Reglamento del presente Libro. Asimismo, determinará la responsabilidad administrativa de los servidores públicos de conformidad con lo que establece la Ley de Responsabilidades Administrativas del Estado de México y Municipios, lo anterior no exime de la responsabilidad civil o penal en términos de ley.
 
 > <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
@@ -11117,11 +11135,11 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 ### CAPITULO PRIMERO. De las disposiciones generales
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 14.
 
-1.- Este Libro tiene por objeto, establecer las bases para la captación, generación, integración, organización y divulgación de la información e investigación geográfica, estadística y catastral en el Estado de México y establecer la estructura orgánica necesaria para el efecto.
+1.- Este Libro tiene por objeto, establecer las bases para el diseño, captación, producción, integración, actualización, organización, procesamiento, conservación, publicación y divulgación de la información e investigación geográfica, estadística y catastral en el Estado de México y establecer la estructura orgánica necesaria para el efecto.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11147,7 +11165,9 @@ VIII. La vinculación de las actividades que desarrollen los poderes Legislativo
 
 IX. La coordinación, participación y colaboración que corresponda, de los gobiernos municipales, de los particulares y de los grupos y organizaciones sociales, a efecto de fortalecer el funcionamiento del Sistema y Servicio Público Estatal de Información e Investigación Geográfica, Estadística y Catastral;
 
-X. La integración y el desarrollo del Sistema Estatal de Información Geográfica, Estadística y Catastral para que se suministre a quienes requieran, en los términos de este Libro, el Servicio Público Estatal de Información e Investigación Geográfica, Estadística y Catastral;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. La integración y el desarrollo del Sistema Estatal de Información e Investigación Geográfica, Estadística y Catastral para que se suministre a quienes requieran, en términos de este libro, el Servicio Público Estatal de Información e Investigación Geográfica, Estadística y Catastral;
 
 XI. El desarrollo y la utilización permanente de los programas y procesos electrónicos y tecnológicos en los sistemas y servicios a que se refiere este artículo.
 
@@ -11161,7 +11181,9 @@ I. IGECEM. Al Instituto de Información e Investigación Geográfica, Estadísti
 
 II. Gaceta del Gobierno. Al periódico oficial del Gobierno del Estado de México;
 
-III. Sistema Estatal. Al Sistema Estatal de Información e Investigación Geográfica, Estadística y Catastral;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Sistema Estatal de Información. Al Sistema Estatal de Información e Investigación Geográfica, Estadística y Catastral;
 
 IV. Sistema Municipal. Al Sistema Municipal de Información e Investigación Geográfica, Estadística y Catastral;
 
@@ -11175,11 +11197,15 @@ VIII. Información e investigación geográfica, estadística y catastral para l
 
 IX. Exploración geográfica. A los estudios y diagnósticos relacionados con el medio físico, económico y social, a través de métodos y técnicas de investigación, los cuales permiten conocer la situación actual y crear escenarios prospectivos;
 
-X. Levantamiento geodésico. Al conjunto de procedimientos y operaciones de campo y de gabinete destinados a determinar la localización geográfica de puntos sobre el terreno demarcados respecto de un sistema de referencia espacial de aplicación nacional;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Levantamiento geodésico. Al procedimiento de campo y gabinete orientado a determinar la localización geográfica (coordenadas) considerando la curvatura de la tierra, bajo el sistema de referencia espacial vigente y de aplicación nacional;
 
 XI. Levantamiento topográfico. Al conjunto de procedimientos y operaciones de campo y de gabinete destinados a determinar la localización geográfica de puntos sobre el terreno con una referencia métrica específica respecto de un punto geográfico seleccionado;
 
-XII. Levantamiento aerofotográfico y fotogramétrico. A la captación de fotografías del territorio, obtenidas de forma periódica, que sirven de base para los trabajos cartográficos, de ordenamiento territorial, de planeación urbana, de interpretación de fotografías, para el inventario de los recursos naturales y de infraestructura; así como en la integración y actualización de los sistemas de información geográfica. En el procedimiento aerofotográfico se emplean aeronaves y el fotogramétrico involucra las actividades que se realizan en el laboratorio de cartografía;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XII. Levantamiento aerofotográfico y fotogramétrico. Procedimiento de campo y gabinete, orientados a obtener imágenes aéreas de forma remota y periódica con aeronave tripulada o no, que sirven de base para los trabajos cartográficos, de ordenamiento territorial, de planeación urbana, de interpretación de fotografías, para el inventario de los recursos naturales y de infraestructura; así como en la integración y actualización de los sistemas de información geográfica;
 
 XIII. Nombre geográfico. A la denominación de lugares, rasgos, hechos, fenómenos físicos, sociales y económicos que se ubican en el espacio geográfico estatal;
 
@@ -11199,7 +11225,9 @@ XX. Plano con referencia geográfica. A la representación gráfica con informac
 
 XXI. Cartografía temática. A la representación gráfica de información cualitativa y cuantitativa de los hechos y fenómenos que ocurren en el espacio geográfico estatal;
 
-XXII. Sistema de Información Geográfica. Al conjunto de programas de cómputo que permiten almacenar, recuperar, modificar, interrelacionar y analizar espacialmente cualquier tipo de datos e información, con referencia geográfica;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XXII. Sistema de Información Geográfica. Al conjunto de recursos humanos, técnicos y procedimientos especializados para la captura, administración, manipulación, análisis, modelación y representación de datos e información espacial, referenciada, con el fin de resolver problemas complejos en la planeación y el análisis territorial;
 
 XXIII. Información estadística. Al conjunto de resultados cuantitativos que se obtienen de un proceso sistemático de captación, tratamiento y divulgación de datos primarios obtenidos de los particulares, empresas e instituciones sobre hechos que son relevantes para el estudio de los fenómenos económicos, demográficos y sociales;
 
@@ -11341,7 +11369,9 @@ VII. Presentar al Consejo Directivo, los proyectos de presupuestos de ingresos y
 
 VIII. Presentar al Consejo Directivo, dentro de los tres primeros meses del año, los estados financieros y el informe de actividades del ejercicio anterior;
 
-IX. Proponer, elaborar, supervisar y evaluar los acuerdos y convenios de coordinación y colaboración en materia de información e investigación geográfica, estadística y catastral que celebre con las dependencias de la administración pública federal, entidades federativas y con los ayuntamientos;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IX. Proponer, elaborar, supervisar, y evaluar los acuerdos y convenios de coordinación y colaboración en materia de información e investigación geográfica, estadística y catastral que celebre con los entes de la administración pública federal, entidades federativas, los ayuntamientos y entidades del sector privado;
 
 X. Asumir mediante convenio las actividades geográficas, estadísticas y catastrales de los ayuntamientos del Estado de México, cuando se considere procedente y medie solicitud;
 
@@ -11667,11 +11697,11 @@ La información a la que alude el párrafo anterior deberá estar alineada con l
 
 37.- Los bienes y servicios que ofrece el IGECEM podrán ser adquiridos directamente en los centros de consulta, o bien mediante solicitud que presenten los interesados, por escrito o medio electrónico.
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 14.
 
-38.- Los ingresos que perciba el IGECEM por la venta de bienes y servicios a que se refiere este capítulo tendrán el carácter de aprovechamientos y productos; se sujetarán a la tarifa aprobada por el Consejo Directivo y no se otorgarán exenciones, condonaciones o subsidios a personas, dependencias y entidades públicas de carácter federal, estatal o municipal.
+38.- Los ingresos que perciba el IGECEM por la venta de bienes y servicios a que se refiere este capítulo, tendrán el carácter de aprovechamientos y productos, se sujetarán a la tarifa aprobada por el Consejo Directivo y no se otorgarán exenciones, condonaciones o subsidios a personas, dependencias, entes públicos y órganos jurisdiccionales de carácter federal, estatal o municipal, así como a entidades privadas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11749,7 +11779,9 @@ V. Implantar los lineamientos y políticas en materia de las tecnologías de inf
 
 I. Formular, instrumentar, ejecutar y evaluar las políticas de información e investigación geográfica, estadística y catastral para satisfacer los requerimientos del Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
 
-II. Establecer el Sistema Estatal en congruencia y relación con el Sistema Nacional de Información;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Establecer el Sistema Estatal de Información en congruencia y relación con el Sistema Nacional de Información;
 
 III. Planear, promover y operar la organización y desarrollo del Sistema Estatal de Información así como coordinar la organización y desarrollo de sistemas integrados sectoriales, regionales y municipales en materia geográfica, demográfica, económica y social;
 
@@ -11947,7 +11979,9 @@ VIII. Obtener algún ingreso no contemplado en las disposiciones legales vigente
 
 IX. Otorgar exenciones, condonaciones o subsidios.
 
-Las infracciones previstas en las fracciones I, III, V, VI y VII o la reincidencia en las conductas previstas en las demás fracciones de este artículo, serán consideradas como graves para efectos de su sanción administrativa, en términos de lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Las infracciones previstas en las fracciones I, III, V, VI y VII o la reincidencia en las conductas previstas en las demás fracciones de este artículo, serán consideradas como graves para efectos de su sanción administrativa, en términos de lo establecido en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -14125,7 +14159,9 @@ VIII. Estarán provistas de los servicios básicos de agua potable, desalojo de 
 
 IX. Dispondrán de espacios y muebles sanitarios de bajo consumo de agua, en número suficiente para los usuarios y de conformidad a las normas oficiales mexicanas;
 
-X. Cumplirán con las previsiones correspondientes a protección civil, ingeniería sanitaria y personas con discapacidad;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Cumplirán con las previsiones correspondientes a protección civil, ingeniería sanitaria y personas en situación de discapacidad;
 
 XI. Las que se ubiquen en zonas de valor arqueológico, histórico, artístico y cultural, deberán sujetarse a las restricciones que señalen el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes y Literatura según corresponda y cumplir con las normas que señalen los ordenamientos legales aplicables;
 
@@ -14315,9 +14351,9 @@ Sin perjuicio de lo anterior, dentro del año siguiente a la entrada en vigor de
 
 15.- Director Responsable de Obra es el profesional autorizado y registrado por la Secretaría para actuar como auxiliar de las autoridades municipales de construcción, quien será el responsable de los proyectos de obras en los que otorgue su responsiva en el ámbito de su intervención, se cumplan con las disposiciones de este Libro, las Normas Técnicas y demás normatividad aplicable.
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-En los casos que no se requiere de Perito responsable de obra, el titular de la licencia de construcción asumirá dicha responsabilidad.
+En los casos que no se requiere de Director responsable de obra, el titular de la licencia de construcción asumirá dicha responsabilidad.
 
 > <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -14751,7 +14787,9 @@ V. Instalaciones especiales: plantas de distribución, cortes, isométricos, con
 
 23.- Tratándose de construcciones mayores de sesenta metros cuadrados o con claros mayores de cuatro metros, la solicitud de la licencia de construcción y los planos respectivos deberán contener la firma del Director responsable de la obra.
 
-Además de la responsiva del Director Responsable de Obra, en las obras destinadas a los usos del suelo indicados en el artículo 5.32 del Código, será necesario contar con el visto bueno de profesionales que cuenten con Especialidad en: Arquitectura, Urbanismo, Seguridad Estructural, instalaciones o Arquitectura del Paisaje.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Además de la responsiva del Director Responsable de Obra, en las obras destinadas a los usos del suelo indicados en el artículo 5.35 del Código, será necesario contar con el visto bueno de profesionales que cuenten con Especialidad en: Arquitectura, Urbanismo, Seguridad Estructural, instalaciones o Arquitectura del Paisaje.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -14859,13 +14897,17 @@ I. Proyecto ejecutivo de la obra aprobado por la instancia competente en la mate
 
 II. Las autorizaciones federales, estatales o municipales que procedan.
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 18.
 
-32.- Las instalaciones, estructuras, postes y demás elementos de la infraestructura urbana localizados sobre la vía pública, no deberán obstruir las circulaciones peatonales y vehiculares, y en caso de ubicarse en banquetas, tampoco se permitirá su colocación, cuando con ellos se impida la entrada a un inmueble o se obstruya el servicio de una rampa para personas con discapacidad, así como el libre desplazamiento de éstas en las banquetas.
+32.- Las instalaciones, estructuras, postes y demás elementos de la infraestructura urbana localizados sobre la vía pública, no deberán obstruir las circulaciones peatonales y vehiculares, y en caso de ubicarse en banquetas, tampoco se permitirá su colocación, cuando con ellos se impida la entrada a un inmueble o se obstruya el servicio de una rampa para personas en situación de discapacidad, así como el libre desplazamiento de éstas en las banquetas.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 Las características físicas y de colocación de elementos tales como tapas de registros, cajas de válvulas, brocales o medidores serán determinadas por las instancias gubernamentales competentes y las normas oficiales mexicanas, en su caso.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 Las instalaciones aéreas en la vía pública que estén sostenidas por estructuras o postes colocados para ese efecto, deben observar lo siguiente:
 
@@ -14873,7 +14915,11 @@ I. Los cables deberán colocarse a no menos de cinco metros de altura sobre el n
 
 II. Las estructuras, postes e instalaciones deben ser identificadas por sus propietarios, quienes están obligados a conservarlos en buenas condiciones de servicio y a retirarlos cuando dejen de cumplir su función.
 
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 Los Municipios podrán ordenar el retiro o cambio de lugar de estructuras, postes o instalaciones por cuenta de sus propietarios, por razones de seguridad o porque se modifique el ancho de las banquetas o se ejecute cualquier obra en la vía pública que lo requiera y establecerá el plazo para tal efecto.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 Si no lo hicieren dentro del plazo que se les haya fijado, el propio municipio lo ejecutará a cargo y costa de los mismos propietarios y su monto constituirá un crédito fiscal.
 
@@ -14987,13 +15033,17 @@ Las características y especificaciones de estos tipos de instalaciones, así co
 
 Los locales destinados a cines, auditorios, teatros, salas de concierto, reunión, entretenimiento, espectáculos deportivos u otros espacios para actos y espectáculos tanto al aire libre como en espacios cerrados, deberán garantizar condiciones de isóptica, acústica, visibilidad.
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 18.
 
-41.- Toda edificación debe contar con el número de cajones de estacionamiento que prevea la normatividad aplicable de acuerdo a su tipo y uso. Los estacionamientos públicos o privados deberán contar con cajones de estacionamiento para personas con discapacidad, debidamente señalizados.
+41.- Toda edificación debe contar con el número de cajones de estacionamiento que prevea la normatividad aplicable de acuerdo a su tipo y uso. Los estacionamientos públicos o privados deberán contar con cajones de estacionamiento para personas en situación de discapacidad, debidamente señalizados.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 El área destinada a estacionamiento, no podrá tener una superficie menor al mínimo requerido por su uso; asimismo, no se permitirá el establecimiento de usos distintos que disminuyan el área de estacionamiento o que afecten de alguna forma las normas mínimas de seguridad, accesos y circulación de vehículos o peatones.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 Los estacionamientos públicos deben contar con carriles separados para entrada y salida de los vehículos, área de espera techada para la entrega y recepción de vehículos, caseta o casetas de control y sanitarios suficientes para los usuarios y empleados; asimismo, los que estén a descubierto deben tener drenaje y estar bardeados en sus colindancias con los predios vecinos.
 
@@ -15035,7 +15085,9 @@ V. Los edificios tendrán siempre escaleras o rampas peatonales que comuniquen t
 
 VI. Los elevadores de pasajeros y de carga, escaleras eléctricas y bandas transportadoras de público, observarán las disposiciones establecidas en la materia; y
 
-VII. Las edificaciones de atención al público contarán con los elementos necesarios que permitan el acceso, salida y circulación de personas con discapacidad, tanto en sus espacios interiores como en los exteriores.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Las edificaciones de atención al público contarán con los elementos necesarios que permitan el acceso, salida y circulación de personas en situación de discapacidad, tanto en sus espacios interiores como en los exteriores.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15093,13 +15145,13 @@ IV. Las bibliotecas, comedores de autoservicio, restaurantes, cafeterías y dem�
 
 V. Cuando menos uno de cada cinco teléfonos de servicio público que se instalen, deberá colocarse a una altura no mayor de ciento veinte centímetros sobre el nivel del piso, para personas en silla de ruedas;
 
-> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VI. En salas de conferencias, auditorios, teatros, estadios, cines y demás lugares de concentración masiva de personas se deberán destinar espacios para personas con discapacidad, o en su caso, habilitarlos para tal efecto;
+VI. En salas de conferencias, auditorios, teatros, estadios, cines y demás lugares de concentración masiva de personas se deberán destinar espacios para personas en situación de discapacidad, o en su caso, habilitarlos para tal efecto;
 
-> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VII. La señalización para la identificación de los espacios destinados a personas con discapacidad, deberá hacerse mediante el empleo de placas con números, leyendas o símbolos estampados o grabados con colores contrastantes que faciliten su identificación a débiles visuales; y
+VII. La señalización para la identificación de los espacios destinados a personas en situación de discapacidad, deberá hacerse mediante el empleo de placas con números, leyendas o símbolos estampados o grabados con colores contrastantes que faciliten su identificación a débiles visuales;
 
 > <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15205,15 +15257,21 @@ Al efecto, se deberá establecer una lista de los estados límite que son import
 
 En el caso de la obra nueva destinada a casa habitación, el constructor anexará copia simple de la memoria de cálculo a los títulos de propiedad.
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 18.
 
-53.- Las construcciones deberán considerar los efectos de las principales acciones accidentales, cuyas especificaciones y procedimientos detallados de diseño se determinaran en las Normas Técnicas y demás disposiciones jurídicas aplicables:
+53.- Las construcciones deberán considerar los efectos de las principales acciones accidentales, cuyas especificaciones y procedimientos detallados de diseño se determinarán en las Normas Técnicas y demás disposiciones jurídicas aplicables:
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 I. Sismo, cuyo propósito es obtener una seguridad adecuada tal que bajo el sismo máximo probable, no habrá fallas estructurales mayores, aunque puedan presentarse daños que lleguen a afectar al funcionamiento del edificio y requerir reparaciones importantes;
 
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 II. Viento, cuyo objeto consiste en garantizar la seguridad de estructuras para resistir los efectos de viento proveniente de cualquier dirección horizontal. Deberá revisarse el efecto del viento sobre la estructura en su conjunto y sobre sus componentes directamente expuestos a dicha acción; y
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 III. Nieve y granizo, con el propósito de prever la seguridad en el diseño de estructuras sometidas a la acción de nieve y granizo, cuyos efectos sean significativos.
 
@@ -15529,9 +15587,9 @@ B) Se ocupe la vía pública con materiales de cualquier naturaleza, sin contar 
 
 C) En la construcción no se respeten las previsiones contra incendio; y
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-D) No se de el aviso de terminación de las obras autorizadas dentro del plazo fijado.
+D) No se dé el aviso de terminación de las obras autorizadas dentro del plazo fijado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -15595,9 +15653,9 @@ III. Cuando en el plazo señalado en una medida de seguridad no se haya dado cum
 
 75.- La Secretaría, a petición de las autoridades municipales competentes en materia de construcción, aplicará las sanciones previstas para los Directores responsables de obra, así como para el Corresponsable de Obra, con independencia de las sanciones que sean aplicadas por las autoridades municipales, de conformidad con lo dispuesto en este capítulo, en los casos siguientes:
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-I. Amonestación por escrito al Director Responsable de Obra c (sic) al Corresponsable de Obra, cuando infrinjan las disposiciones de este Libro, de las normas técnicas, licencias, permisos, autorizaciones o demás normatividad aplicable, sin causar situaciones de peligro para la vida de las personas y/o los bienes.
+I. Amonestación por escrito al Director Responsable de Obra o al Corresponsable de Obra, cuando infrinjan las disposiciones de este Libro, de las normas técnicas, licencias, permisos, autorizaciones o demás normatividad aplicable, sin causar situaciones de peligro para la vida de las personas y/o los bienes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -18868,3 +18926,19 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gob
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan todas las disposiciones de menor o igual jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
