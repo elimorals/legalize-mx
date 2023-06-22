@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-10110"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-28"
-last_updated: "2010-01-25"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el viernes 28 de junio de 1996.
 
@@ -121,13 +121,15 @@ Además de las autoridades señaladas en el artículo anterior, el Colegio conta
 
 La junta directiva se integrará con:
 
-I. Tres representantes designados por el Ejecutivo Estatal, que serán:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.G. 22 DE JUNIO DE 2023)</small>
 
-a). El Secretario de Educación, Cultura y Bienestar Social, quien la presidirá;
+I. Dos representantes designados por el Ejecutivo Estatal, que serán:
 
-b). El Secretario de Finanzas y Planeación; y
+a). La persona titular de la Secretaría de Educación, quien la presidirá, y
 
-c). El Secretario de Administración.
+b). La persona titular de la Secretaría de Finanzas.
+
+c). (DEROGADO, G.G. 22 DE JUNIO DE 2023)
 
 II. Tres representantes del gobierno federal, designados por el Secretario de Educación Pública;
 
@@ -215,9 +217,11 @@ La junta directiva sesionara en forma ordinaria cuando menos una vez cada dos me
 
 #### SECCION SEGUNDA. Del Director General
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 14.
 
-El Director General del Colegio de Bachilleres será nombrado y removido por el Titular del Ejecutivo a propuesta del Secretario de Educación, Cultura y Bienestar Social, durará en su cargo cuatro años y sólo podrá ser ratificado para otro período.
+La persona Titular de la Dirección General del Colegio de Bachilleres será nombrado y removido por la o el Titular del Ejecutivo a propuesta de la persona Titular de la Secretaría de Educación, durará en su cargo cuatro años y sólo podrá ser ratificado para otro período.
 
 ###### Artículo 15.
 
@@ -436,3 +440,19 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
