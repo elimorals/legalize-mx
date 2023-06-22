@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-administracion-de-bienes-vinculados-al-103966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-17"
-last_updated: "2017-09-01"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA ADMINISTRACIÓN DE BIENES VINCULADOS AL PROCEDIMIENTO PENAL Y A LA EXTINCIÓN DE DOMINIO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Octava de la Gaceta del Gobierno del Estado de México, el miércoles 17 de diciembre de 2014.
 
@@ -57,13 +57,17 @@ Glosario
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Abandono: a la declaratoria judicial, en términos del Código de Procedimientos Penales vigente en el Estado de México, por la que se determina que los bienes asegurados pasarán a formar parte del patrimonio estatal, ante la falta de interés de su propietario o poseedor en deducir derechos sobre los mismos;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. Abandono: a la declaratoria judicial, en términos del Código de Nacional de Procedimientos Penales, por la que se determina que los bienes asegurados pasarán a formar parte del patrimonio estatal, ante la falta de interés de su propietario o poseedor en deducir derechos sobre los mismos;
 
 II. Aseguramiento: a la medida cautelar de carácter real ordenada por el Ministerio Público o, en su caso, por la autoridad judicial, cuyo objeto es la conservación de los bienes relacionados con posibles hechos delictivos;
 
 III. Bienes: a los muebles e inmuebles sujetos a aseguramiento, embargo, abandono, decomiso o extinción de dominio, con exclusión de las armas de fuego, municiones y explosivos cuyo resguardo corresponde exclusivamente a la Secretaría de la Defensa Nacional;
 
-IV. Código de Procedimientos Penales: al Código de Procedimientos Penales vigente en el Estado de México;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Código Nacional: al Código Nacional de Procedimientos Penales;
 
 V. (DEROGADA, G.G. 1 DE SEPTIEMBRE DE 2017)
 
@@ -75,7 +79,9 @@ VIII. Embargo: a la declaración judicial en un procedimiento penal por la que d
 
 IX. Enajenación: al acto por medio del cual se transmite la propiedad, a título oneroso o gratuito de uno o más bienes, a través del Instituto de Administración de Bienes Vinculados al Procedimiento Penal y a la Extinción de Dominio del Estado de México, mediante el procedimiento que establece esta Ley;
 
-X. Extinción de Dominio: a la pérdida de derechos sobre los bienes a que se refiere el artículo 7 de la Ley de Extinción de Dominio del Estado de México, sin compensación o contraprestación alguna para su dueño o quien se ostente como tal;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Extinción de Dominio: a la pérdida de los derechos a que se refiere el artículo 3 de la Ley Nacional de Extinción de Dominio;
 
 XI. Instituto: al Instituto de Administración de Bienes Vinculados al Procedimiento Penal y a la Extinción de Dominio del Estado de México;
 
@@ -129,7 +135,9 @@ Se crea el Instituto de Administración de Bienes Vinculados al Procedimiento Pe
 
 Al frente del Instituto habrá un Director General, quien será nombrado y removido por el Fiscal, de quien dependerán los directores, subdirectores, jefes de departamento y personal de apoyo administrativo que proceda conforme (sic) las necesidades del servicio y la disponibilidad presupuestal.
 
-El Fiscal General, mediante Acuerdo, determinará la adscripción del Instituto.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+La persona titular de la Fiscalía, mediante Acuerdo, determinará la adscripción del Instituto.
 
 Facultades del Director General
 
@@ -163,11 +171,13 @@ X. Cubrir previo avalúo, los daños causados por la pérdida, extravío o deter
 
 XI. Rendir en cada sesión ordinaria del Comité Técnico, informe sobre el estado de los bienes objeto de esta Ley, así como en cada ocasión que se le requiera;
 
-XII. Integrar, actualizar y mejorar la base de datos con el registro de los bienes objeto de esta Ley, y
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+XII. Integrar, actualizar y mejorar la base de datos con el registro de los bienes objeto de esta Ley;
 
-XIII. Se informara anualmente a la Legislatura sobre el destino de los bienes.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XIII. Se informará anualmente a la Legislatura sobre el destino de los bienes;
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -215,15 +225,15 @@ V. El Fiscal Central Jurídico, quien fungirá como Vocal;
 
 VI. El Coordinador General de Servicios Periciales, quien fungirá como Vocal, y
 
-> <small>(ADICIONADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VII. El Contralor interno, quien fungirá como Vocal.
+VII. La persona Titular del Órgano Interno de Control, quien fungirá como Vocal.
 
 Los integrantes del Comité Directivo designarán un suplente por escrito, quien deberá tener el nivel jerárquico inmediato inferior y podrá asistir a las sesiones del mismo en ausencia del titular, con las mismas facultades, obligaciones y responsabilidades de éste.
 
-> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-Los integrantes del Comité Técnico contarán con voz y voto con excepción del Secretario Técnico y el Contralor Interno, quienes sólo tendrán voz y ejercerán su cargo en forma honorífica.
+Las personas integrantes del Comité Técnico contarán con voz y voto con excepción del Secretario Técnico y la persona Titular del Órgano Interno de Control, quienes sólo tendrán voz y ejercerán su cargo en forma honorífica.
 
 Atribuciones del Comité Directivo
 
@@ -377,7 +387,9 @@ Notificación al Instituto
 
 La autoridad competente que ordene el aseguramiento o el embargo de bienes, así como la que decrete el decomiso, abandono o la extinción de dominio, deberá ponerlos a disposición del Instituto dentro de las setenta y dos horas siguientes a la emisión de su determinación. Tratándose de moneda nacional o extranjera el término será de 24 horas. Mientras ello sucede y el Instituto recibe el bien, la autoridad que aseguró o embargó es responsable de la preservación y custodia del bien.
 
-Las notificaciones a que se refiere esta Ley se practicarán como lo dispone el Código de Procedimientos Penales.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Las notificaciones a que se refiere esta Ley se practicarán como lo dispone el Código Nacional.
 
 La autoridad registral inscribirá, sin pago de derechos, las anotaciones marginales con motivo del aseguramiento, embargo, declaratoria de abandono, de extinción de dominio o decomiso de los bienes, y deberá informar de inmediato al Instituto y a la autoridad que ordenó la inscripción, cualquier acto jurídico que se solicite asentar en el mismo registro del bien o de alguna notificación judicial, a efecto, de que el Instituto o la autoridad que lo ordenó, pueda solicitar o promover lo que en derecho proceda, antes de que se autorice la citada inscripción requerida por un tercero o de que la autoridad registral responda la notificación judicial.
 
@@ -409,11 +421,13 @@ Seguros
 
 El Instituto y en su caso el depositario, interventor o administrador de bienes, contratarán seguros para el caso de pérdida o daño de los mismos.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 Recursos obtenidos de los bienes
 
 ###### Artículo 20.
 
-Los recursos que se obtengan de la administración de los bienes, se destinarán a resarcir el costo de mantenimiento y administración de los mismos, y el remanente, si lo hubiera, se mantendrá en un fondo que se entregará a quien en su momento acredite tener derecho a recibirlo. En caso de que los bienes sean declarados abandonados o decomisados, se dispondrá de dichos fondos de acuerdo a lo dispuesto en esta Ley y en el Código de Procedimientos Penales; los que sean sujetos a extinción de dominio, lo serán conforme la Ley que rige esa materia.
+Los recursos que se obtengan de la administración de los bienes, se destinarán a resarcir el costo de mantenimiento y administración de los mismos, y el remanente, si lo hubiera, se mantendrá en un fondo que se entregará a quien en su momento acredite tener derecho a recibirlo. En caso de que los bienes sean declarados abandonados o decomisados, se dispondrá de dichos fondos de acuerdo a lo dispuesto en el Código Nacional y esta Ley; los que sean sujetos a extinción de dominio, lo serán conforme la Ley Nacional de Extinción de Dominio.
 
 Conservación y funcionamiento de los bienes
 
@@ -427,11 +441,13 @@ Sólo entrarán al patrimonio estatal o municipal los bienes cuyo destino final 
 
 La enajenación podrá ser por subasta o adjudicación directa.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 Diligencias en los bienes
 
 ###### Artículo 22.
 
-El Instituto, así como los depositarios, administradores o interventores de bienes asegurados, estarán obligados a dar todas las facilidades para que el Juez, el Agente del Ministerio Público o el defensor acreditado, que así lo requiera, practique con dichos bienes las diligencias necesarias, en términos del Código de Procedimientos Penales.
+El Instituto, así como los depositarios, administradores o interventores de bienes asegurados, estarán obligados a dar todas las facilidades para que el Juez, el Agente del Ministerio Público o el defensor acreditado, que así lo requiera, practique con dichos bienes las diligencias necesarias, en términos del Código Nacional.
 
 Cambio de autoridad resguardataria
 
@@ -521,9 +537,11 @@ El administrador tendrá independencia respecto al propietario, a los órganos d
 
 Destino final de los bienes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 34.
 
-El destino final de los bienes objeto de la presente Ley, se sujetará a las reglas que al efecto establezca el Código de Procedimientos Penales y la Ley de Extinción de Dominio del Estado de México.
+El destino final de los bienes objeto de la presente Ley, se sujetará a las reglas que al efecto establezca el Código Nacional y la Ley Nacional de Extinción de Dominio.
 
 > <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -571,9 +589,11 @@ El Instituto será responsable de los daños derivados de la pérdida, extravío
 
 Subasta
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 37.
 
-La subasta a que se refiere el artículo 53 de la Ley de Extinción de Dominio del Estado de México, se realizará de la siguiente manera:
+La subasta se realizará de conformidad con lo establecido por la Ley Nacional de Extinción de Dominio y de la siguiente manera:
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -657,7 +677,9 @@ Nulidad de la enajenación
 
 Cualquier procedimiento de enajenación o acto que se realice en contra de lo dispuesto en este Capítulo será nulo de pleno derecho.
 
-Los servidores públicos que participen en la realización de los procedimientos de enajenación previstos en esta Ley, serán responsables por la inobservancia de las disposiciones establecidas en la misma, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, sin perjuicio de la responsabilidad penal que corresponda.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Las personas servidoras públicas que participen en la realización de los procedimientos de enajenación previstos en esta Ley serán responsables por la inobservancia de las disposiciones establecidas en la misma, en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, sin perjuicio de la responsabilidad penal que corresponda.
 
 Para efectos de este Capítulo, en todo lo no previsto en esta Ley, se aplicará supletoriamente las reglas del remate judicial establecidas en el Código de Procedimientos Civiles del Estado de México.
 
@@ -730,3 +752,19 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menos jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial "Gaceta del Gobierno" el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
