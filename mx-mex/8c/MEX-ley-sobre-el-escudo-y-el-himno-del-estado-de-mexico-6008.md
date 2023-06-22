@@ -4,7 +4,7 @@ identifier: "MEX-ley-sobre-el-escudo-y-el-himno-del-estado-de-mexico-6008"
 country: "mx"
 rank: "ley"
 publication_date: "1995-01-09"
-last_updated: "2016-12-20"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY SOBRE EL ESCUDO Y EL HIMNO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno, el 9 de enero de 1995.
 
@@ -55,9 +55,9 @@ Patria: Aguila Nacional en el copete del Escudo, conforme a la Ley sobre el Escu
 
 Libertad: Representada en el segundo cuartel superior derecho por un cañón de la época, sobre el lugar donde se desarrolló la Batalla del Monte de las Cruces el 30 de octubre de 1810.
 
-> <small>(REFORMADO, P.O.16 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-Trabajo y Cultura: Representados en el tercero y cuarto cuarteles, juntos, debajo de los anteriores, conteniendo el topónimo de México, que le dio nombre a la Patria y al Estado; los surcos de la agricultura produciendo plantas de maíz y el libro abierto del saber, sobre de éste un engrane fabril, una hoz, un zapapico, una pala y un matraz, herramientas del trabajo humano. Contiene además dieciocho abejas que representan el número de los Distritos Judiciales del Estado.
+Trabajo y Cultura: Representados en el tercero y cuarto cuarteles, juntos, debajo de los anteriores, conteniendo el topónimo de México, que le dio nombre a la Patria y al Estado; los surcos de la agricultura produciendo plantas de maíz y el libro abierto del saber, sobre de éste un engrane fabril, una hoz, un zapapico, una pala y un matraz, herramientas del trabajo humano. Contiene además dieciocho abejas que representan el número de los distritos judiciales del Estado.
 
 ###### Artículo 3.
 
@@ -175,9 +175,11 @@ En este último caso, se ejecutará la música del coro y de la primera estrofa 
 
 En ninguna ceremonia se ejecutará el Himno del Estado más de dos veces.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 14.
 
-La demostración civil de respeto al Himno del Estado se hará en posición de firmes. Los varones con la cabeza descubierta.
+La demostración civil de respeto al Himno del Estado se hará en posición de firme. Los varones con la cabeza descubierta.
 
 ###### Artículo 15.
 
@@ -191,17 +193,23 @@ Cada año las autoridades educativas convocarán a un concurso de coros infantil
 
 El modelo del Escudo del Estado de México, así como la letra y música del Himno, serán autenticados con su firma por el Gobernador, el Presidente de la Legislatura y el Presidente del Tribunal Superior de Justicia, y se depositarán en el Archivo Histórico y en la Biblioteca Pública Central del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 17.
 
-Compete a la Secretaría General de Gobierno vigilar el cumplimiento de esta Ley. En esa función serán sus auxiliares todas la autoridades del Estado.
+Compete a la Secretaría General de Gobierno vigilar el cumplimiento de esta Ley. En esa función serán sus auxiliares todas las autoridades del Estado.
 
-Queda a cargo de la Secretaría de Educación, Cultura y Bienestar Social vigilar su cumplimiento en los planteles educativos.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Queda a cargo de la Secretaría de Educación, vigilar su cumplimiento en los planteles educativos.
 
 Los ayuntamientos promoverán, en el ámbito de sus respectivas competencias, el culto a los símbolos del Estado.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 18.
 
-La Secretaría de Educación, Cultura y Bienestar Social dictará las medidas necesarias para que en todas las instituciones educativas del Estado se profundice en la enseñanza de la historia y significación de los símbolos del Estado. Asimismo, convocará y regulará concursos estatales sobre ellos.
+La Secretaría de Educación dictará las medidas necesarias para que en todas las instituciones educativas del Estado se profundice en la enseñanza de la historia y significación de los símbolos del Estado. Asimismo, convocará y regulará concursos estatales sobre ellos.
 
 > <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -268,3 +276,19 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
