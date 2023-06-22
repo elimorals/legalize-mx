@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2023-05-11"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -841,11 +841,11 @@ II. Instruir y cerciorarse de que se ha seguido la cadena de custodia de los ind
 
 III. Determinar, en funciones de conducción y mando. los hechos concretos, personas, domicilios y demás lugares u objetos que deben ser investigados por la Policía de Investigación, además requerir documentación a otras autoridades y a las y los particulares, así como solicitar los peritajes, informes u opiniones técnicas a que haya lugar.
 
-IV. Ordenar a la Policía, a sus auxiliares u otras autoridades de los tres órdenes de gobierno, en el ámbito de su competencia, la práctica de diligencias conducentes para el esclarecimiento del hecho probablemente delictivo así como analizar y aprobar las que dichas autoridades hubieren practicado o el apoyo para el debido ejercicio de su función.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO 244, PUBLICADO EN EL P.O. 13 DE SEPTIEMBRE DE 2017, CUANDO EN OTROS ORDENAMIENTOS LEGALES, ADMINISTRATIVOS, DOCUMENTACIÓN, PAPELERÍA SE HAGA REFERENCIA A LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, SE ENTENDERÁ QUE SE REFIEREN A LA SECRETARÍA DE SEGURIDAD.]</small>
+IV. Ordenar a la Policía, a sus auxiliares u otras autoridades de los tres órdenes de gobierno, en el ámbito de su competencia, la práctica de diligencias conducentes para el esclarecimiento del hecho probablemente delictivo, así como analizar y aprobar las que dichas autoridades hubieren practicado o el apoyo para el debido ejercicio de su función.
 
-Las corporaciones policiales de la Comisión Estatal de Seguridad Ciudadana y de los municipios del Estado de México, tienen la obligación de colaborar con la Fiscalía y cumplir con los mandamientos que al efecto instruya el Ministerio Público en ejercicio de su función.
+Las corporaciones policiales de la Secretaría de Seguridad y de los municipios del Estado de México, tienen la obligación de colaborar con la Fiscalía y cumplir con los mandamientos que al efecto instruya el Ministerio Público en ejercicio de su función.
 
 V. Instruir y asesorar a las Policías, sobre la legalidad, pertinencia y suficiencia de los indicios recolectados o por recolectar, así como las demás actividades de investigación.
 
@@ -911,7 +911,9 @@ Estas diligencias se practicarán, en los términos de los convenios que al efec
 
 VI. Realizar operativos conjuntos con las autoridades competentes de los tres órdenes de gobierno, de conformidad con la normatividad aplicable.
 
-VII. Intervenir en los procedimientos de extinción de dominio en términos de la Constitución Federal, la Constitución del Estado y la Ley de Extinción de Dominio del Estado de México y demás normatividad aplicable.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Intervenir en los procedimientos de extinción de dominio en términos de la Constitución Federal, la Constitución del Estado y la Ley Nacional de Extinción de Dominio y demás normatividad aplicable.
 
 VIII. Regirse por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y demás ordenamientos jurídicos aplicables, tratándose de procedimientos seguidos contra adolescentes.
 
@@ -1025,7 +1027,9 @@ VIII. Operar un sistema informático de registro y análisis de perfiles genéti
 
 IX. Operar un sistema informático de registro y análisis de la huella balística, análisis de voz, sistemas biométricos y otros elementos relacionados con hechos delictivos, que se obtengan de conformidad con las disposiciones jurídicas aplicables, así como compartir la información con unidades específicas del Ministerio Público, de la Policía de Investigación y de información y análisis.
 
-X. Proponer la actuación y participación de los Servicios Periciales en programas de intercambio de experiencias, conocimientos y avances tecnológicos con las unidades de servicios periciales de la Procuraduría General de la República, de las Procuradurías o Fiscalías Generales de Justicia de los Estados y demás dependencias, entidades y organismos municipales, estatales, federales o del extranjero, públicos, sociales, privados y académicos, en materia de servicios periciales para el mejoramiento y modernización de sus funciones.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Proponer la actuación y participación de los Servicios Periciales en programas de intercambio de experiencias, conocimientos y avances tecnológicos con las unidades de servicios periciales de la Fiscalía General de la República, de las Procuradurías o Fiscalías Generales de Justicia de los Estados y demás dependencias, entidades y organismos municipales, estatales, federales o del extranjero, públicos, sociales, privados y académicos, en materia de servicios periciales para el mejoramiento y modernización de sus funciones.
 
 XI. Establecer las bases de operación del Servicio Médico Forense, así como dirigir y supervisar su funcionamiento.
 
@@ -1535,7 +1539,9 @@ II. Antes, al inicio o durante la tramitación del procedimiento administrativo,
 
 III. La medida precautoria aludida en el párrafo anterior, no prejuzga sobre la responsabilidad que se impute.
 
-IV. En contra de las resoluciones por las que se impongan las sanciones a las que se refiere el artículo anterior, se podrá interponer el recurso administrativo de inconformidad ante la autoridad que emitió la resolución o juicio ante el Tribunal de lo Contencioso Administrativo, en los términos del Código de Procedimientos Administrativos del Estado de México.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. En contra de las resoluciones por las que se impongan las sanciones a las que se refiere el artículo anterior, se podrá interponer el recurso administrativo de inconformidad ante la autoridad que emitió la resolución o juicio ante el Tribunal de Justicia Administrativa del Estado de México, en los términos del Código de Procedimientos Administrativos del Estado de México.
 
 V. De interponerse el recurso ante la autoridad que lo emitió, resolverá la o el Vice Fiscal General en su calidad de superior jerárquico.
 
@@ -1922,3 +1928,19 @@ SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan
 TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
 
 Para ejercicios presupuestales posteriores, las dependencias del Gobierno Estatal asignarán la cantidad de recursos que consideren necesarios con base en sus estadísticas, para continuar la aplicación de la presente reforma, debiendo establecer en el Presupuesto de Egresos, un apartado específico de recurso y el destino de estos.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial "Gaceta del Gobierno" el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
