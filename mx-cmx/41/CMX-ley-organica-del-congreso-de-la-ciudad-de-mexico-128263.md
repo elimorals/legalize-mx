@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2023-04-20"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2023.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -362,7 +362,9 @@ XXXVI. Designar a las y los Subcontralores de la Secretaría de Contraloría Gen
 
 XXXVII. Designar a las y los Titulares de los Órganos Internos de Control de los órganos desconcentrados, alcaldías y entidades paraestatales de la Administración Pública de la Ciudad, así como de los Organismos Constitucionales autónomos, lo anterior de conformidad a lo establecido en la Constitución Política, la Constitución Local, la presente ley y las leyes aplicables
 
-XXXVIII. Designar a través de las Comisiones Parlamentarias en materia de Auditoría de la Ciudad de México, de Transparencia y Combate a la Corrupción, a las organizaciones que conformarán el Comité Consultivo del Sistema de Fiscalización de la Ciudad de México, y decidirán sobre su sustitución o bien nombrar adicionales que consideren convenientes para su mejor funcionamiento, de conformidad con lo establecido en la Constitución Local, en la presente ley y en la ley de la materia;
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
+
+XXXVIII. Designar a través de las Comisiones Parlamentarias en materia de Auditoría de la Ciudad de México, de Transparencia, Protección de Datos Personales y Combate a la Corrupción, a las organizaciones que conformarán el Comité Consultivo del Sistema de Fiscalización de la Ciudad de México, y decidirán sobre su sustitución o bien nombrar adicionales que consideren convenientes para su mejor funcionamiento, de conformidad con lo establecido en la Constitución Local, en la presente ley y en la ley de la materia;
 
 XXXIX. Designar de entre la terna remitida por el Presidente del Tribunal Electoral a la persona titular de la Defensoría Pública de Participación Ciudadana y de Procesos Democráticos de dicho tribunal;
 
@@ -452,7 +454,9 @@ LXXIX. Nombrar a las y los Consejeros del Consejo de Administración y del Conse
 
 LXXX. Nombrar de manera provisional a la persona Titular de las Alcaldías así como a las y los Concejales para el caso en que la elección de las o la misma no se hubiere realizado o se hubiere anulado;
 
-LXXXI. Nombrar y en su caso remover a la o el Secretario Técnico de la Secretaría Ejecutiva del Sistema Anticorrupción de la Ciudad de México, a propuesta de las Comisiones de Transparencia y Combate a la Corrupción y de Rendición de Cuentas y de Vigilancia de la Auditoría Superior de la Ciudad de México, por el voto favorable de la mayoría de los miembros presentes del pleno, de conformidad con lo establecido en la Constitución Local, la presente ley y la ley de la materia;
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
+
+LXXXI. Nombrar y en su caso remover a la o el Secretario Técnico de la Secretaría Ejecutiva del Sistema Anticorrupción de la Ciudad de México, a propuesta de las Comisiones de Transparencia, Protección de Datos Personales y Combate a la Corrupción y de Rendición de Cuentas y de Vigilancia de la Auditoría Superior de la Ciudad de México, por el voto favorable de la mayoría de los miembros presentes del pleno, de conformidad con lo establecido en la Constitución Local, la presente ley y la ley de la materia;
 
 LXXXII. Participar a través de una o un Diputado de cada Grupo Parlamentario, solo con derecho a voz y como invitados permanentes en las sesiones del Consejo General del Instituto Electoral;
 
@@ -1518,9 +1522,9 @@ I. Administración Pública Local;
 
 II. Administración y Procuración de Justicia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
 
-III. Agenda 20-30;
+III. Agenda 2030;
 
 IV. Alcaldías y Límites Territoriales;
 
@@ -1628,13 +1632,13 @@ XXXI. Presupuesto y Cuenta Pública;
 
 XXXII. Protección a Periodistas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
 
-XXXIII. Protección Civil y Gestión Integral de Riesgos;
+XXXIII. Gestión Integral de Riesgos y Protección Civil;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
 
-XXXIV. Pueblos, Barrios Originarios y Comunidades Indígenas Residentes;
+XXXIV. Pueblos y Barrios Originarios, Comunidades Indígenas Residentes y Comunidades Afromexicanas;
 
 > <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2021)</small>
 
@@ -1664,9 +1668,9 @@ XL. Salud;
 
 XLI. Seguridad Ciudadana;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
 
-XLII. Transparencia y Combate a la Corrupción;
+XLII. Transparencia, Protección de Datos Personales y Combate a la Corrupción;
 
 > <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2021)</small>
 
@@ -2252,6 +2256,8 @@ Para el nombramiento de la persona titular de la Entidad de Fiscalización de la
 
 ### CAPÍTULO XI. De la o el Secretario Técnico de la Secretaría Ejecutiva del Sistema Anticorrupción de la Ciudad de México
 
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 126.
 
 Para ser integrante se deberá reunir los siguientes requisitos:
@@ -2282,7 +2288,9 @@ En la conformación del Comité de Participación Ciudadana, se garantizará que
 
 Las y los integrantes del Comité de Participación Ciudadana serán nombrados conforme al siguiente procedimiento:
 
-I. El Poder Legislativo de la Ciudad de México de conformidad con su Ley Orgánica y la presente Ley, constituirá una Comisión de Selección a través de la Comisión de Transparencia y Combate a la Corrupción y la Comisión de Rendición de Cuentas y de Vigilancia de la Auditoria Superior de la Ciudad de México, y
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
+
+I. El Poder Legislativo de la Ciudad de México de conformidad con su Ley Orgánica, constituirá una Comisión de Selección a través de la Comisión de Transparencia, Protección de Datos Personales y Combate a la Corrupción y la Comisión de Rendición de Cuentas y de Vigilancia de la Auditoria Superior de la Ciudad de México, y
 
 II. Una vez constituida la Comisión de Selección, ésta deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública dirigida a toda la sociedad en general en la Ciudad de México, para que presenten sus postulaciones de aspirantes a ocupar el cargo.
 
@@ -2304,9 +2312,11 @@ En caso de que se generen vacantes imprevistas, el proceso de selección del nue
 
 ### CAPÍTULO XII. Del Comité Consultivo del Sistema de Fiscalización de la Ciudad de México
 
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 128.
 
-La o el Secretario Técnico de la Secretaría Ejecutiva del Sistema Anticorrupción de la Ciudad de México, durará en su encargo cinco años sin posibilidad de reelección y su designación se hará conforme al artículo 120 de la presente ley con la propuesta de las Comisiones de Transparencia y Combate a la Corrupción y de Rendición de Cuentas y de Vigilancia de la Auditoría Superior de la Ciudad de México, con la aprobación de la mayoría de las y los Diputados presentes en la Sesión Respectiva.
+La o el Secretario Técnico de la Secretaría Ejecutiva del Sistema Anticorrupción de la Ciudad de México, durará en su encargo cinco años sin posibilidad de reelección y su designación se hará conforme al artículo 120 de la presente ley con la propuesta de las Comisiones de Transparencia, Protección de Datos Personales y Combate a la Corrupción y de Rendición de Cuentas y de Vigilancia de la Auditoría Superior de la Ciudad de México, con la aprobación de la mayoría de las y los Diputados presentes en la Sesión Respectiva.
 
 ###### Artículo 129.
 
@@ -2330,7 +2340,7 @@ VII. No ser Secretaria o Secretario de Estado, ni Procuradora o Procurador Gener
 
 ###### Artículo 130.
 
-El Comité Consultivo del Sistema de Fiscalización de la Ciudad de México, durará en su encargo cinco años con posibilidad de reelección hasta por una sola ocasión y su designación se hará conforme al artículo 120 de la presente ley con la propuesta de las Comisiones de Transparencia y Combate a la Corrupción y de Rendición de Cuentas y de Vigilancia de la Auditoría Superior de la Ciudad de México, con la aprobación de la mayoría de las y los Diputados presentes en la sesión respectiva.
+El Comité Consultivo del Sistema de Fiscalización de la Ciudad de México, durará en su encargo cinco años con posibilidad de reelección hasta por una sola ocasión y su designación se hará conforme al artículo 120 de la presente ley con la propuesta de las Comisiones de Transparencia, Protección de Datos Personales y Combate a la Corrupción y de Rendición de Cuentas y de Vigilancia de la Auditoría Superior de la Ciudad de México, con la aprobación de la mayoría de las y los Diputados presentes en la sesión respectiva.
 
 ###### Artículo 131.
 
@@ -2470,13 +2480,17 @@ El procedimiento para los nombramientos se realizará de conformidad con las reg
 
 La ratificación, designación y selección de las personas servidoras públicas que integran el Sistema Anticorrupción de la Ciudad de México, deberá ser difundo en el Portal de Internet del Congreso, así como toda la información relacionada con el proceso, como dictámenes, calendario de reuniones con fecha, lugar y orden del día, versiones estenografías y/o videograbaciones de las reuniones, documentos técnicos de apoyo, evaluación de los expedientes y méritos de las y los candidatos, así como una explicación sobre el desarrollo de cada una de las etapas. En todos los casos se salvaguardarán los datos personales de acuerdo con las leyes en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 143.
 
-Para el nombramiento de las y los titulares de los Órganos Internos de Control de los Organismos Autónomos de la Ciudad de México, y de conformidad con lo dispuesto en el artículo Décimo Tercero Transitorio de la Constitución Local, el Congreso, a través de la Comisión de Transparencia y Combate a la Corrupción y la Comisión de Rendición de Cuentas y de Vigilancia de la Auditoria Superior, presentarán al pleno una terna de aspirantes a titulares de Órganos de Control Interno por cada organismo autónomo, dentro de las cuales, serán electos uno por cada terna para el organismo autónomo al que fueron propuestos por el voto de la mayoría de los integrantes presentes del Pleno.
+Para el nombramiento de las y los titulares de los Órganos Internos de Control de los Organismos Autónomos de la Ciudad de México, y de conformidad con lo dispuesto en el artículo Décimo Tercero Transitorio de la Constitución Local, el Congreso, a través de la Comisión de Transparencia, Protección de Datos Personales y Combate a la Corrupción y la Comisión de Rendición de Cuentas y de Vigilancia de la Auditoria Superior, presentarán al pleno una terna de aspirantes a titulares de Órganos de Control Interno por cada organismo autónomo, dentro de las cuales, serán electos uno por cada terna para el organismo autónomo al que fueron propuestos por el voto de la mayoría de los integrantes presentes del Pleno.
 
 El procedimiento para los nombramientos se realizará de conformidad con las reglas generales del artículo 120 de la presente Ley.
 
 ### CAPÍTULO XXV. De la Comisión de Selección del Sistema Anticorrupción de la Ciudad de México
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 144.
 
@@ -2488,7 +2502,7 @@ La Secretaría Ejecutiva contará con un Órgano de Control Interno, cuya person
 
 ###### Artículo 145.
 
-El Congreso, de conformidad con la Constitución Local, la presente Ley y su reglamento, constituirá a través de la Comisión de Transparencia y Combate a la Corrupción, y la Comisión de Rendición de Cuentas y de Vigilancia de la Auditoria Superior de la Ciudad de México, una Comisión de Selección integrada por 7 ciudadanas o ciudadanos, para integrar al Comité de Participación Ciudadana del Sistema Anticorrupción de la Ciudad, mediante convocatoria emitida por ambas comisiones para elegir a las y los integrantes en los términos siguientes:
+El Congreso, de conformidad con la Constitución Local, la presente Ley y su reglamento, constituirá a través de la Comisión de Transparencia, Protección de Datos Personales y Combate a la Corrupción, y la Comisión de Rendición de Cuentas y de Vigilancia de la Auditoria Superior de la Ciudad de México, una Comisión de Selección integrada por 7 ciudadanas o ciudadanos, para integrar al Comité de Participación Ciudadana del Sistema Anticorrupción de la Ciudad, mediante convocatoria emitida por ambas comisiones para elegir a las y los integrantes en los términos siguientes:
 
 I. Una o un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
 
@@ -2530,7 +2544,9 @@ En caso de que se generen vacantes imprevistas, el proceso de selección de la o
 
 Para la designación de las y los Comisionados integrantes del Pleno del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de la Ciudad de México, el Congreso:
 
-I. A través de la Comisión de Transparencia y Combate a la Corrupción, emitirá convocatoria pública abierta, en la que invitará a las y los interesados en postularse, y a organizaciones no gubernamentales, centros de investigación, colegios, barras y asociaciones de profesionistas, instituciones académicas y medios de comunicación para que presenten sus postulaciones de aspirantes a ocupar el cargo, siempre que cumplan con los requisitos señalados por el artículo 49 numeral 1, de la Constitución Local, y la ley de la materia, en un plazo no mayor a sesenta días anteriores a la fecha en que concluya su periodo el Comisionado que dejará su puesto;
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
+
+I. A través de la Comisión de Transparencia, Protección de Datos Personales y Combate a la Corrupción, emitirá convocatoria pública abierta, en la que invitará a las y los interesados en postularse, y a organizaciones no gubernamentales, centros de investigación, colegios, barras y asociaciones de profesionistas, instituciones académicas y medios de comunicación para que presenten sus postulaciones de aspirantes a ocupar el cargo, siempre que cumplan con los requisitos señalados por el artículo 49 numeral 1, de la Constitución Local, y la ley de la materia, en un plazo no mayor a sesenta días anteriores a la fecha en que concluya su periodo el Comisionado que dejará su puesto;
 
 II. En la convocatoria se establecerán:
 
@@ -2546,7 +2562,9 @@ e) Se publicará en la Gaceta Oficial de la Ciudad de México y para su mayor di
 
 III. Se publicará el currículum vitae de cada uno de las y los aspirantes;
 
-IV. Con base en la evaluación de los perfiles, la Comisión de Transparencia y Combate a la Corrupción, realizará la selección de aspirantes a Comisionados y remitirá su dictamen al Pleno del Congreso, para que éste realice la designación correspondiente;
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
+
+IV. Con base en la evaluación de los perfiles, la Comisión de Transparencia, Protección de Datos Personales y Combate a la Corrupción, realizará la selección de aspirantes a Comisionados y remitirá su dictamen al Pleno del Congreso, para que éste realice la designación correspondiente;
 
 V. En la conformación del Pleno del Instituto, se garantizará que exista igualdad de género, por lo que deberá conformarse de al menos tres Comisionados de un género distinto al de la mayoría, se procurará la experiencia en materia de transparencia, acceso a la información, protección de datos personales y rendición de cuentas;
 
@@ -2925,6 +2943,14 @@ SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publ
 G.O. 20 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y SE DEROGAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 80 DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO Y SE REFORMAN LOS ARTÍCULOS 106, 256 Y 257; Y SE DEROGA EL ARTÍCULO 258 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE "SE REFORMAN LOS ARTÍCULOS 13, FRACCIONES XXXVIII Y LXXXI; 74 FRACCIONES III, XXXIII, XXXIV Y XLII; 127 FRACCIÓN I; 128; 130; 143 PÁRRAFO PRIMERO; 145 PÁRRAFO PRIMERO, Y 147, FRACCIONES I Y IV DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 58, FRACCIÓN V; 59 FRACCIÓN V; 311 FRACCIÓN II; 370, FRACCIÓN III, INCISO K; 371 FRACCIÓN X; LA DENOMINACIÓN DE LA SECCIÓN DÉCIMA SEGUNDA DEL CAPÍTULO II DEL TÍTULO DÉCIMO; 441; 442, FRACCIÓN I; 443, Y 450, FRACCIÓN VII DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
 
