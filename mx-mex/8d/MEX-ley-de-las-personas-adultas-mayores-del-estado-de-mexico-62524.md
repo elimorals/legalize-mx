@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-las-personas-adultas-mayores-del-estado-de-mexico-62524"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-06"
-last_updated: "2020-09-29"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de agosto de 2008.
 
@@ -431,9 +431,9 @@ XII. Promover e implementar programas de sensibilización y capacitación, con e
 
 XIII. Establecer programas de apoyo a las familias para que la falta de recursos no sea causa de separación de los adultos mayores;
 
-> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XIV. Coadyuvar con la Procuraduría General de Justicia del Estado, en la atención y protección jurídica de los adultos mayores víctimas de cualquier delito;
+XIV. Coadyuvar con la Fiscalía General de Justicia del Estado de México, en la atención y protección jurídica de los adultos mayores víctimas de cualquier delito;
 
 > <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
 
@@ -486,6 +486,8 @@ V. Promover en coordinación con las autoridades competentes y en los términos 
 ## TÍTULO CUARTO. DEL COMITÉ ESTATAL PARA LA ATENCIÓN DEL ADULTO MAYOR
 
 ### CAPÍTULO II. DE SU INTEGRACIÓN Y ORGANIZACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 14.
 
@@ -581,9 +583,11 @@ II. Fomentar entre las empresas de transporte público y privado, el equipamient
 
 III. Establecer programas para la difusión de una cultura de aprecio y respeto hacia los adultos mayores en la prestación de este servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 19.
 
-Corresponde a la Procuraduría General de Justicia del Estado:
+Corresponde a la Fiscalía General de Justicia del Estado de México:
 
 I. Garantizar mecanismos expeditos, sin dilación en la procuración de justicia para garantizar y asegurar a los adultos mayores la justicia plena;
 
@@ -687,13 +691,15 @@ XIV. Elaborar un informe anual que se remitirá a las Comisiones correspondiente
 
 ###### Artículo 24.
 
-El Comité Estatal para la Atención del Adulto Mayor, estará integrado por:
+El Comité Estatal para la Atención del Adulto Mayor estará integrado por:
 
-I. Un Presidente, que será el Secretario de Desarrollo Social;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+I. Una Presidencia, que será la persona titular de la Secretaría de Desarrollo Social;
 
-II. Un Secretario Técnico, que será la persona que designe el titular de la SEDESEM;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Una Secretaría Técnica, que será la persona que designe el titular de la SEDESEM;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -713,7 +719,9 @@ d) De la Secretaría de Educación;
 
 e) De la Secretaría de Cultura y Turismo;
 
-f) De la (sic) Sistema para el Desarrollo Integral de la Familia;
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+f) Del Sistema para el Desarrollo Integral de la Familia;
 
 g) Del Instituto de Seguridad Social del Estado de México y Municipios;
 
@@ -953,13 +961,17 @@ Los Gobiernos Estatal y Municipales, con la participación que corresponda de lo
 
 Cualquier persona podrá denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos que establece la presente Ley; en el caso de que estos actos pongan en peligro la vida del adulto mayor, deberá informar de manera inmediata al Ministerio Público.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 54.
 
-Cuando los responsables del daño o afectación de los derechos del adulto mayor, sean servidores públicos en ejercicio de sus funciones, se deberá dar aviso al superior jerárquico de manera inmediata para su conocimiento, sujetándolos al procedimiento administrativo que para tal efecto contempla la Ley de Responsabilidades de los Servidores Públicos del Estado de México.
+Cuando los responsables del daño o afectación de los derechos del adulto mayor sean servidores públicos en ejercicio de sus funciones, se deberá dar aviso al superior jerárquico de manera inmediata para su conocimiento, sujetándolos al procedimiento administrativo que para tal efecto contempla la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 55.
 
-La inobservancia a las disposiciones de esta Ley, serán sancionadas de conformidad a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de México, así como en las leyes civiles, penales y demás ordenamientos legales aplicables.
+La inobservancia a las disposiciones de esta Ley, serán sancionadas de conformidad a lo establecido en la Ley de Responsabilidades Administrativas del Estado de México y Municipios, así como en las leyes civiles, penales y demás ordenamientos legales aplicables.
 
 ###### Artículo 56.
 
@@ -1154,3 +1166,19 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
