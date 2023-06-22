@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-de-la-cultura-de-la-legalidad-del-estado-de-1039
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-16"
-last_updated: "2014-12-16"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FOMENTO DE LA CULTURA DE LA LEGALIDAD DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 16 de diciembre de 2014.
 
@@ -79,9 +79,11 @@ I. Difusión de la cultura de la legalidad y de marco jurídico del Estado de M�
 
 II. Derechos para participar en la modernización del marco jurídico.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 6.
 
-El Programa deberá incluir programas permanentes, con una visión que integre a cada uno de los tres poderes del Estado, órganos autónomos, municipios y los entes del Estado, que tiendan a fomentar e implementar una Cultura de la Legalidad en la sociedad, especialmente en los servidores públicos que conforman la estructura gubernamental del Estado, debiendo incentivar las acciones de las instituciones que resulten exitosas en el trabajo de defensa de la legalidad por cumplir a cabalidad con sus funciones.
+El Programa de Fomento de la Cultura de la Legalidad deberá incluir programas permanentes, con una visión que integre a cada uno de los tres poderes del Estado, órganos autónomos, municipios y los entes del Estado, que tiendan a fomentar e implementar una Cultura de la Legalidad en la sociedad, especialmente en los servidores públicos que conforman la estructura gubernamental del Estado, debiendo incentivar las acciones de las instituciones que resulten exitosas en el trabajo de defensa de la legalidad por cumplir a cabalidad con sus funciones.
 
 ### Capítulo Tercero. Del Consejo Mexiquense de la Cultura de la Legalidad
 
@@ -89,7 +91,9 @@ El Programa deberá incluir programas permanentes, con una visión que integre a
 
 El Consejo Mexiquense de la Cultura de la Legalidad, es una instancia interinstitucional, integrado de la siguiente manera:
 
-I. Un representante de la Secretaría General de Gobierno.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. Un representante de la Secretaría de Justicia y Derechos Humanos, quien lo presidirá;
 
 II. Un Diputado por cada Grupo parlamentario, electos por la Legislatura.
 
@@ -111,9 +115,11 @@ Los Consejos, deberán respetar la pluralidad, serán democráticos y de caráct
 
 El Consejo Mexiquense de la Cultura de la Legalidad establecerá el Programa de Fomento de la Cultura de la Legalidad, con la finalidad de planear, establecer, coordinar y evaluar todas las acciones y estrategias, diagnóstico social, enseñanza, difusión y las acciones necesarias para el fortalecimiento del Estado de Derecho.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 10.
 
-El Programa Anual de Fomento de la Cultura de la Legalidad será el instrumento guía para orientar las políticas públicas, las estrategias y acciones que en forma coordinada realicen las instancias del Estado, en busca de la construcción de una cultura de la legalidad, promoviendo conductas afines con las normas a través de la investigación de conceptos relacionados con los valores, el respeto y las leyes, así como los efectos de su inobservancia.
+El Programa de Fomento de la Cultura de la Legalidad será el instrumento guía para orientar las políticas públicas, las estrategias y acciones que en forma coordinada realicen las instancias del Estado, en busca de la construcción de una cultura de la legalidad, promoviendo conductas afines con las normas a través de la investigación de conceptos relacionados con los valores, el respeto y las leyes, así como los efectos de su inobservancia.
 
 ###### Artículo 11.
 
@@ -220,3 +226,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
