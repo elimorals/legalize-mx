@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-atender-combatir-y-erradicar-la-trata-de-9660
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-13"
-last_updated: "2022-06-10"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 13 de noviembre de 2013.
 
@@ -57,9 +57,9 @@ Asimismo, fijará las atribuciones de las dependencias públicas del Estado y su
 
 La presente Ley se interpretará conforme a la Ley General, los Tratados Internacionales en la materia, suscritos por la Nación Mexicana y la Constitución de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014.)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-En todo lo no previsto en esta Ley, se aplicarán supletoriamente las disposiciones contenidas en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, el Código Penal del Estado de México, el Código Nacional de Procedimientos Penales, la Ley de Seguridad del Estado de México, la Ley de Protección a Víctimas del Delito para el Estado de México, la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de México, la Ley de Asistencia Social del Estado de México y Municipios, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana del Estado de México, los principios generales de derecho y los demás ordenamientos aplicables en la materia.
+En todo lo no previsto en esta Ley, se aplicarán supletoriamente las disposiciones contenidas en el Código Penal del Estado de México, la Ley de Seguridad del Estado de México, la Ley de Víctimas del Estado de México, la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México, la Ley de Asistencia Social del Estado de México y Municipios, la Ley para la Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana del Estado de México, los principios generales de derecho y los demás ordenamientos aplicables en la materia.
 
 ###### Artículo 3.
 
@@ -87,7 +87,9 @@ IX. Ejecutivo Estatal: Al Gobernador del Estado de México.
 
 X. Explotación: A todas las conductas señaladas en el artículo 8 de la Ley General.
 
-XI. Fiscalía Especializada: A la Fiscalía Especializada de la Procuraduría General de Justicia del Estado de México, encargada de investigar el delito de trata de personas.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XI. Fiscalía Especializada: A la Fiscalía Especializada de la Fiscalía General de Justicia del Estado de México, encargada de investigar el delito de trata de personas.
 
 XII. Fondo: Al Fondo de Protección y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas.
 
@@ -105,7 +107,9 @@ XVI. Personas en situación de vulnerabilidad: A las personas que presentan cond
 
 XVII. Prevención: Al conjunto de medidas que derivan de la implementación de políticas que ejecuta la administración pública, para evitar la consumación del delito de trata de personas y desalentar su práctica, detectando y atendiendo los factores de riesgo en los ámbitos público y privado.
 
-XVIII. Procuraduría: A la Procuraduría General de Justicia del Estado de México.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XVIII. Fiscalía: A la Fiscalía General de Justicia del Estado de México.
 
 XIX. Programa Estatal: Al Programa Estatal para Prevenir, Atender, Combatir y Erradicar la Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
@@ -205,9 +209,11 @@ I. Recabar la información necesaria para la creación de políticas gubernament
 
 II. Las demás que les confieran otros ordenamientos legales y las necesarias para el cumplimiento del objeto de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 9.
 
-Corresponde a la Procuraduría, a través de la Fiscalía Especializada:
+Corresponde a la Fiscalía, a través de la Fiscalía Especializada:
 
 I. Fomentar la denuncia de conductas que estén relacionadas o tipificadas como delito de trata de personas, salvaguardando siempre la seguridad del denunciante.
 
@@ -217,11 +223,15 @@ III. Coordinar la realización del diagnóstico sobre la problemática de la tra
 
 IV. Identificar las zonas y los grupos en situación de vulnerabilidad de la Entidad, susceptibles a la trata de personas, con la finalidad de crear instrumentos específicos para desalentarla.
 
-V. Contar con personal especializado y con las instalaciones adecuadas para la atención integral de las víctimas, ofendidos y testigos de la trata de personas, en coordinación con el Instituto de Atención a las Víctimas del Delito del Estado de México.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+V. Contar con personal especializado y con las instalaciones adecuadas para la atención integral de las víctimas, ofendidos y testigos de la trata de personas, en coordinación con la Comisión Ejecutiva de Atención a Víctimas del Estado de México.
 
 VI. Contar con el personal especializado en materia de trata de personas.
 
-VII. Implementar a través de la internet un sistema de denuncia electrónica para delitos en materia de trata de personas, el cual será difundido ampliamente por la Procuraduría a través de los medios a su alcance, hecho que podrá ser anónimo.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Implementar a través de internet un sistema de denuncia electrónica para delitos en materia de trata de personas, el cual será difundido ampliamente por la Fiscalía a través de los medios a su alcance, hecho que podrá ser anónimo.
 
 VIII. Realizar los protocolos para la asistencia y protección a las víctimas, ofendidos y testigos del delito de trata de personas, observando en todo momento el principio de no revictimización.
 
@@ -233,15 +243,19 @@ XI. Coordinarse con las autoridades federales, estatales y municipales, para la 
 
 XII. Las demás que les confieran otros ordenamientos legales y las necesarias para el cumplimiento del objeto de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 10.
 
-Corresponde a la Secretaría de Seguridad Ciudadana:
+Corresponde a la Secretaría de Seguridad:
 
 I. Coordinar mecanismos de actuación con las autoridades federales, estatales y municipales, para la atención y ejecución de inspecciones por denuncia ciudadana o investigación preventiva en los lugares o establecimientos donde se tengan indicios de la posible comisión del delito de trata de personas.
 
 II. Implementar políticas y estrategias para prevenir y combatir la comisión del delito de trata de personas.
 
-III. Difundir entre la población los números de los sistemas de atención de llamadas de emergencia "066" y de denuncia anónima "089", para atender quejas o denuncias sobre la trata de personas.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Difundir entre la población los números de los sistemas de atención de llamadas de emergencia “911” y de denuncia anónima “089”, para atender quejas o denuncias sobre la trata de personas.
 
 IV. Generar inteligencia táctica que le permita identificar modos de operación vinculados con la trata de personas, con el fin de combatir y prevenir la misma.
 
@@ -259,7 +273,9 @@ X. Diseñar e implementar cursos de capacitación que sensibilicen al personal q
 
 XI. Las demás que les confieran otros ordenamientos legales y las necesarias para el cumplimiento del objeto de la Ley.
 
-Para el desempeño de estas atribuciones la Secretaría de Seguridad Ciudadana deberá coordinarse con la Procuraduría, a través de la Fiscalía Especializada; asimismo deberá proporcionar la información que genere a la Procuraduría, para el eficaz combate al delito de trata de personas.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Para el desempeño de estas atribuciones la Secretaría de Seguridad deberá coordinarse con la Fiscalía, a través de la Fiscalía Especializada; asimismo deberá proporcionar la información que genere a la Fiscalía, para el eficaz combate al delito de trata de personas.
 
 ###### Artículo 11.
 
@@ -303,7 +319,9 @@ I. Procurar el establecimiento de capacitación a los docentes en materia de pre
 
 II. Establecer mecanismos de sensibilización hacia los alumnos, así como a madres y padres de familia sobre la problemática del delito de trata de personas y sus medidas de prevención.
 
-III. Crear mecanismos en los centros educativos, para inhibir y prevenir en las niñas, niños y adolescentes el delito de trata de personas, estableciendo la coordinación necesaria para ello con la Secretaría de Seguridad Ciudadana y las direcciones de seguridad pública de los municipios correspondientes.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Crear mecanismos en los centros educativos, para inhibir y prevenir en las niñas, niños y adolescentes el delito de trata de personas, estableciendo la coordinación necesaria para ello con la Secretaría de Seguridad y las direcciones de seguridad pública de los municipios correspondientes.
 
 IV. Facilitar el reingreso al sistema educativo de las víctimas y ofendidos del delito de trata de personas.
 
@@ -645,9 +663,11 @@ Al proporcionar servicios y asistencia a las víctimas, se prestará atención a
 
 ### Capítulo Segundo. Del Programa de Protección a Víctimas y Testigos
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 36.
 
-La Procuraduría solicitará el auxilio de las autoridades federales para ofrecer cambio de identidad y reubicación a víctimas, ofendidos y testigos del delito previsto en la Ley, cuya integridad pueda estar amenazada.
+La Fiscalía solicitará el auxilio de las autoridades federales para ofrecer cambio de identidad y reubicación a víctimas, ofendidos y testigos del delito previsto en la Ley, cuya integridad pueda estar amenazada.
 
 ### Capítulo Tercero. Del Fondo Estatal
 
@@ -779,9 +799,13 @@ II. Elaborar el Programa Estatal en concordancia con el Programa Nacional para P
 
 III. Impulsar campañas de prevención y educación, así como programas de desarrollo que permitan prevenir los delitos en materia de trata de personas.
 
-IV. Coordinarse con los gobiernos de otras entidades federativas y el Distrito Federal, así como con los municipios y el Gobierno Federal, para la prevención, atención y combate del delito de trata de personas.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-V. Suscribir convenios de colaboración interinstitucional y acuerdos de coordinación con los gobiernos de otras entidades federativas y del Distrito Federal, así como con organizaciones civiles, internacionales, nacionales y locales, en materia de diseño y operación de programas de asistencia inmediata a las víctimas del delito previsto en la Ley General, en materia de seguridad, tránsito o destino, con el propósito de atenderlas o asistirlas en su regreso a su lugar de origen, así como para la detección de víctimas y posibles víctimas y para implementar medidas que impidan la operación de lugares que promuevan el delito de trata de personas.
+IV. Coordinarse con los gobiernos de otras entidades federativas y la Ciudad de México, así como con los municipios y el Gobierno Federal, para la prevención, atención y combate del delito de trata de personas.
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+V. Suscribir convenios de colaboración interinstitucional y acuerdos de coordinación con los gobiernos de otras entidades federativas y la Ciudad de México, así como con organizaciones civiles, internacionales, nacionales y locales, en materia de diseño y operación de programas de asistencia inmediata a las víctimas del delito previsto en la Ley General, en materia de seguridad, tránsito o destino, con el propósito de atenderlas o asistirlas en su regreso a su lugar de origen, así como para la detección de víctimas y posibles víctimas y para implementar medidas que impidan la operación de lugares que promuevan el delito de trata de personas.
 
 VI. Incentivar la participación y cooperación de organizaciones no gubernamentales y asociaciones civiles y en general de los sectores social y privado en la prevención y atención de la trata de personas.
 
@@ -1146,3 +1170,19 @@ G.G. 10 DE JUNIO DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
