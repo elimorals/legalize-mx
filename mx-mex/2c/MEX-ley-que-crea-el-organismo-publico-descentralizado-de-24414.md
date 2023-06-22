@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-24414"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-04"
-last_updated: "2010-01-25"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO TECNOLOGICO DE ESTUDIOS SUPERIORES DE COACALCO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 4 de septiembre de 1996.
 
@@ -123,13 +123,19 @@ El Tecnológico podrá contar con órganos auxiliares.
 
 La junta directiva será la máxima autoridad del Tecnológico y estará integrada por:
 
-I. Tres representantes del Gobierno del Estado, designados por el Ejecutivo Estatal que serán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 22 DE JUNIO DE 2023)</small>
 
-a) El Secretario de Educación, Cultura y Bienestar Social, quien la presidirá;
+I. Dos representantes del Gobierno del Estado, designados por el Ejecutivo Estatal que serán:
 
-b) El Secretario de Finanzas y Planeación; y
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-c) El Secretario de Administración.
+a). La persona titular de la Secretaría de Educación, quien la presidirá, y
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+b). La persona titular de la Secretaría de Finanzas.
+
+c). (DEROGADO, G.G. 22 DE JUNIO DE 2023)
 
 II. Tres representantes del gobierno federal, designados por el Secretario de Educación Pública:
 
@@ -221,11 +227,13 @@ XVII. Las demás que se deriven de esta ley o sus reglamentos.
 
 Para el cumplimiento de su objeto, el Tecnológico contará con el apoyo de un consejo consultivo académico que será integrado por subdirectores, jefes de división y de departamento, personal académico del Tecnológico y por especialistas de alto reconocimiento profesional. El número de miembros, organización y forma de trabajo estarán establecidos en las normas reglamentarias.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 15.
 
-El Director del Tecnológico de Estudios Superiores de Coacalco será nombrado y removido por el titular del Ejecutivo del Estado, a propuesta del Secretario de Educación, Cultura y Bienestar Social; durará en su cargo cuatro años y sólo podrá ser ratificado por otro período.
+La persona Titular de la Dirección del Tecnológico de Estudios Superiores de Coacalco será nombrado y removido por la persona titular del Ejecutivo del Estado, a propuesta de la persona Titular de la Secretaría de Educación; durará en su cargo cuatro años y sólo podrá ser ratificado por otro período.
 
-En los casos de ausencias temporales será sustituido por quien designe la junta directiva, y en la definitiva por quien designe el Gobernador, en los términos del párrafo anterior.
+En los casos de ausencias temporales será sustituido por quien designe la Junta Directiva, y en la definitiva por quien designe la persona titular del Ejecutivo del Estado, en los términos del párrafo anterior.
 
 ###### Artículo 16.
 
@@ -436,3 +444,19 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
