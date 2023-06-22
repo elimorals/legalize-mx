@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-junta-de-gobierno-del-consejo-nacional-166758"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-12-22"
-last_updated: "2015-12-22"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166758&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-12-21"
 
 REGLAMENTO DE LA JUNTA DE GOBIERNO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JUNIO DE 2023.
 
 Reglamento publicado en la Primera sección del Número 18 del Diario Oficial de la Federación, el martes 22 de diciembre de 2015.
 
@@ -191,6 +191,12 @@ X. Las demás que les confiera la Ley, el Estatuto, este Reglamento y otras disp
 
 Todo nombramiento contrario a lo dispuesto en el artículo 23 de la Ley se entenderá como no realizado, y la presencia de esa personar (sic) representante suplente en la sesión no contabilizará para efectos de la conformación del quórum para sesionar.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2023)</small>
+
+###### Artículo 10 Bis.
+
+Las siete personas que representarán a la Asamblea Consultiva ante la Junta de Gobierno, así como sus suplentes, serán propuestas por la persona titular de la Presidencia de aquel órgano colegiado, observando el principio de paridad de género, de conformidad con lo dispuesto en el artículo 23, párrafo cuarto de la Ley.
+
 ###### Artículo 11.
 
 La persona titular de la Presidencia de la Junta de Gobierno, en el mes de junio de cada año informará a las personas titulares de las dependencias y entidades de la Administración Pública Federal que participan en dicho órgano colegiado, de las inasistencias de las personas que las representan en la Junta de Gobierno, a fin de que dichas instancias adopten las medidas pertinentes.
@@ -314,3 +320,13 @@ PRIMERO.- La entrada en vigor del presente Reglamento quedará sujeta a la publi
 SEGUNDO.- Se abroga el Reglamento de la Junta de Gobierno del Consejo Nacional para Prevenir la Discriminación, publicado en el Diario Oficial de la Federación el 18 de agosto de 2011.
 
 El presente Reglamento fue aprobado por las personas integrantes de la Junta de Gobierno del Consejo Nacional para Prevenir la Discriminación en la Cuarta Sesión Ordinaria del 2015, el 16 de julio del 2015.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ADICIONA EL REGLAMENTO DE LA JUNTA DE GOBIERNO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN PUBLICADO EL 22 DE DICIEMBRE DE 2015”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo, entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
