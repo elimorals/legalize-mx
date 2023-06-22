@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-social-de-la-violencia-y-la-95190"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2023-05-11"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 17 de julio de 2013.
 
@@ -185,6 +185,10 @@ V. Programas que modifiquen las condiciones sociales de la comunidad y generen o
 
 VI. Programas específicos enfocados a las familias, mujeres, niñas, niños, adolescentes, hombres y comunidades en condiciones de vulnerabilidad; para la prevención, atención y la erradicación de todos los tipos y modalidades de la violencia de género.
 
+> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Estrategias y acciones de protección a las familias para evitar su desintegración y cualquier modalidad de violencia que la propicie, a través de la educación y el empoderamiento de todos sus miembros sin ningún tipo de discriminación.
+
 #### Sección Segunda. Del Ámbito Comunitario
 
 ###### Artículo 9.
@@ -215,7 +219,9 @@ El ámbito situacional consiste en modificar el entorno para propiciar la conviv
 
 I. El mejoramiento y regulación del desarrollo urbano, rural, ambiental e industrial, incluidos los sistemas de transporte público y de vigilancia.
 
-II. El rescate y mejoramiento de los espacios públicos.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. El rescate y mejoramiento de los espacios públicos, con participación de la comunidad, incluyendo todos los grupos que la conforman.
 
 III. El uso de tecnologías.
 
@@ -235,9 +241,15 @@ La prevención social en el ámbito psicosocial tiene como objetivo incidir en l
 
 I. El impulso del diseño y aplicación de programas formativos en habilidades para enfrentar la vida dirigidos principalmente a las zonas y grupos de atención prioritaria.
 
-II. La inclusión de la prevención social con énfasis en las adicciones y en las políticas públicas en materia de educación y de salud.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. La inclusión de la prevención social con énfasis en las adicciones principalmente de alcohol, tabaco y estupefacientes y en las políticas públicas en materia de educación y de salud.
 
 III. El fortalecimiento de las capacidades institucionales que asegure la sostenibilidad de los programas preventivos.
+
+> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. El fortalecimiento de las medidas de detección, prevención y atención del acoso entre niñas, niños, adolescentes y mujeres, en las escuelas y comunidades, que privilegien la retroalimentación de sus experiencias en la comunidad.
 
 ## TÍTULO TERCERO. DE LAS INSTANCIAS DE COORDINACIÓN
 
@@ -303,9 +315,11 @@ IV. Las demás que le confiera la Ley de Seguridad del Estado de México y otros
 
 La Comisión tendrá por objeto facilitar la coordinación, en el ámbito de sus atribuciones y facultades, entre las dependencias y entidades del Estado Libre y Soberano de México, y las dependencias y entidades de las Administraciones Públicas Federal y Municipal, en materia de prevención social de la violencia y la delincuencia, con participación ciudadana, en el marco de los Sistemas Nacional y Estatal de Seguridad Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 18.
 
-La Comisión Estatal estará integrada por:
+La Comisión Interinstitucional para la Prevención Social de la Violencia y la Delincuencia del Estado de México estará integrada por:
 
 I. Secretaría General de Gobierno y Presidente de la Comisión.
 
@@ -563,7 +577,9 @@ IV. Coordinarse con los diversos consejos y observatorios ciudadanos de la entid
 
 V. Impulsar campañas para motivar la denuncia ciudadana.
 
-VI. Conocer e integrar las inquietudes de los ciudadanos en materia de prevención y formular al Secretariado Ejecutivo las propuestas y peticiones tendentes a satisfacerlas.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. Conocer e integrar las inquietudes de los ciudadanos en materia de prevención y formular al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, las propuestas y peticiones tendentes a satisfacerlas.
 
 VII. Promover la realización de talleres, seminarios y foros de consulta.
 
@@ -613,9 +629,11 @@ V. Alto índice de expulsión de delincuencia y violencias.
 
 ## TÍTULO OCTAVO. DE LAS SANCIONES
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 41.
 
-El incumplimiento de las obligaciones que se derivan de la presente Ley, será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, Código Penal del Estado de México, Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y demás ordenamientos jurídicos aplicables.
+El incumplimiento de las obligaciones que se derivan de la presente Ley será sancionado de conformidad con la Ley de Responsabilidades Administrativas del Estado de México y Municipios, Código Penal del Estado de México, Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y demás ordenamientos jurídicos aplicables.
 
 T R A N S I T O R I O S
 
@@ -846,3 +864,19 @@ SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan
 TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
 
 Para ejercicios presupuestales posteriores, las dependencias del Gobierno Estatal asignarán la cantidad de recursos que consideren necesarios con base en sus estadísticas, para continuar la aplicación de la presente reforma, debiendo establecer en el Presupuesto de Egresos, un apartado específico de recurso y el destino de estos.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
