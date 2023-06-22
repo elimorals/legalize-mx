@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-eventos-publicos-del-estado-de-mexico-102049"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-18"
-last_updated: "2021-01-05"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el lunes 18 de agosto de 2014.
 
@@ -61,7 +61,9 @@ II. Autorización: Acto jurídico mediante el cual la Coordinación General, en 
 
 III. Aviso: Acto jurídico por medio del cual el Titular notifica al municipio y, en su caso, a la Coordinación General, la celebración de algún evento público en los inmuebles que cuentan con licencia provisional de funcionamiento para negocios de bajo o mediano riesgo.
 
-IV. Coordinación General: Coordinación General de Protección Civil.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Coordinación General: Coordinación General de Protección Civil y Gestión Integral del Riesgo.
 
 V. Evento público: La representación, función, acto, evento o exhibición artística, musical, deportiva, cinematográfica, teatral o cultural, organizada por una persona física o jurídica colectiva del sector privado, que se realice en recintos al aire libre, en locales cerrados o instalaciones desmontables, en cualquier tiempo, convocando al público con fines culturales o de esparcimiento, en forma gratuita o mediante el pago de una contraprestación en dinero o especie; cuando el número de asistentes sea superior al de mil personas.
 
@@ -87,9 +89,11 @@ XIV. Verificador en Jefe: Aquella persona facultada por el municipio para superv
 
 Los sujetos de la Ley son los titulares, asistentes, participantes y demás personas que se encuentren presentes o intervengan en la realización del evento público, quienes están obligados a observar y cumplir las disposiciones de la misma.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 4.
 
-Las autoridades encargadas de la aplicación de esta Ley son la Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil, la Secretaría de Seguridad Ciudadana, la Secretaría de Salud en el ámbito estatal y los municipios del Estado de México, en el ámbito de sus respectivas competencias.
+Las autoridades encargadas de la aplicación de esta Ley son la Secretaría General de Gobierno, a través de la Coordinación General, la Secretaría de Seguridad, la Secretaría de Salud en el ámbito estatal y los municipios del Estado de México, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 5.
 
@@ -109,7 +113,9 @@ V. Las demás que les confieran la Ley y otras disposiciones aplicables.
 
 La Secretaría General de Gobierno, a través de la Coordinación General, tendrá las siguientes atribuciones:
 
-I. Expedir autorizaciones para eventos públicos cuya duración sea mayor a dos días y el aforo total esperado sea mayor a cinco mil asistentes, precisando que con independencia de que para la realización de los eventos de esta naturaleza se deberá cumplir con lo establecido en el artículo anterior, conforme a lo previsto en el reglamento de la presente Ley.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. Expedir autorizaciones para eventos públicos cuya duración sea mayor a dos días y el aforo total esperado sea mayor a cinco mil asistentes, precisando que con independencia de que para la realización de los eventos de esta naturaleza se deberá cumplir con lo establecido en el artículo anterior;
 
 II. Resolver las solicitudes para la celebración de eventos públicos en un plazo no mayor a cinco días hábiles siguientes a la fecha de presentación de las mismas.
 
@@ -121,15 +127,19 @@ V. Aplicar las medidas de seguridad previstas en el Libro Sexto del Código Admi
 
 VI. Aplicar las sanciones previstas en esta Ley y demás disposiciones de la materia.
 
-VII. Solicitar a la Secretaría de Seguridad Ciudadana su intervención, cuando previo, durante y al finalizar el evento público, ocurran situaciones de peligro, los asistentes se vean amenazados por disturbios u otras situaciones que impliquen violencia o riesgo.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Solicitar a la Secretaría de Seguridad su intervención, cuando previo, durante y al finalizar el evento público, ocurran situaciones de peligro, los asistentes se vean amenazados por disturbios u otras situaciones que impliquen violencia o riesgo, y
 
 VIII. Las demás que señalen otras disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 7.
 
-La Secretaría de Seguridad Ciudadana tiene la obligación de proporcionar la seguridad y asistencia requerida en los eventos públicos por parte del titular, previo pago de los derechos correspondientes.
+La Secretaría de Seguridad tiene la obligación de proporcionar la seguridad y asistencia requerida en los eventos públicos por parte del titular, previo pago de los derechos correspondientes.
 
-Tratándose de una situación de riesgo, la Secretaría de Seguridad Ciudadana deberá prestar el auxilio requerido, sin perjuicio de la asistencia que puedan otorgar las autoridades municipales en materia de seguridad.
+Tratándose de una situación de riesgo, la Secretaría de Seguridad deberá prestar el auxilio requerido, sin perjuicio de la asistencia que puedan otorgar las autoridades municipales en materia de seguridad.
 
 > <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -147,15 +157,21 @@ Son atribuciones de los municipios:
 
 I. Expedir las autorizaciones para eventos públicos de bajo riesgo, conforme al Apéndice II, del Reglamento del Libro Sexto del Código Administrativo del Estado de México, denominado "Listado de Generadores de Mediano y Bajo Riesgo", observando las disposiciones que para el efecto se emitan.
 
-II. Instruir a sus verificadores para que lleven a cabo las visitas de verificación que consideren necesarias antes de emitir la autorización correspondiente, y durante la celebración del evento público, a efecto de constatar que se cumpla con las normas de protección civil y de seguridad establecidas en la Ley, reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Instruir a sus verificadores para que lleven a cabo las visitas de verificación que consideren necesarias antes de emitir la autorización correspondiente, y durante la celebración del evento público, a efecto de constatar que se cumpla con las normas de protección civil y de seguridad establecidas en la Ley, y demás disposiciones aplicables;
 
 III. Expedir su catálogo de eventos públicos, especificando las diferentes denominaciones y modalidades, licencias y autorizaciones requeridas para cada tipo de evento, así como las reglas, condiciones y prohibiciones que considere conveniente imponer.
 
-IV. Aplicar las medidas de seguridad a que se refiere esta Ley, su reglamento y otras disposiciones aplicables en la materia.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Aplicar las medidas de seguridad a que se refiere esta Ley, y otras disposiciones aplicables en la materia;
 
 V. Proporcionar los elementos de seguridad pública necesarios para resguardar el orden al interior del inmueble y en las zonas vecinas al mismo, previo pago de los derechos correspondientes.
 
-VI. Solicitar a la Secretaría de Seguridad Ciudadana su intervención, cuando previo, durante y al finalizar el evento público, ocurran situaciones de peligro, los asistentes se vean amenazados por disturbios u otras situaciones que impliquen violencia o riesgo.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. Solicitar a la Secretaría de Seguridad su intervención, cuando previo, durante y al finalizar el evento público, ocurran situaciones de peligro, los asistentes se vean amenazados por disturbios u otras situaciones que impliquen violencia o riesgo;
 
 VII. Aplicar las sanciones previstas en esta Ley y demás disposiciones aplicables.
 
@@ -187,7 +203,9 @@ VI. Cumplir con lo establecido en la guía de requisitos y verificación a insta
 
 VII. Tener a la vista, durante la celebración del evento público, los permisos, autorizaciones o licencias otorgados por las autoridades respectivas.
 
-VIII. Remitir al municipio y, en su caso, a la Coordinación General, con quince días naturales de anticipación, la solicitud y el itinerario del evento público que pretendan presentar, el cual deberá cumplir con los requisitos que para el efecto se establezcan en el reglamento de la Ley.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VIII. Remitir al municipio y, en su caso, a la Coordinación General, con quince días naturales de anticipación, la solicitud y el itinerario del evento público que pretendan presentar;
 
 IX. Notificar al municipio y, en su caso, a la Coordinación General y al público en general, con un mínimo de tres días hábiles de anticipación, los cambios al itinerario del evento público que presenten, por los mismos medios que hayan utilizado para su difusión.
 
@@ -203,13 +221,19 @@ XIV. Evitar que en la presentación de los eventos públicos se atente contra la
 
 XV. Evitar la venta, suministro y/o consumo de bebidas alcohólicas y tabaco a los menores de edad que accedan al evento público.
 
-XVI. Devolver dentro de un plazo de 48 horas y contra la simple entrega del boleto o contraseña respectiva, el importe de las entradas cuando de conformidad con la Ley, su reglamento u otras disposiciones aplicables, resulte la cancelación definitiva de un evento público por causas imputables al Titular.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XVII. En el caso de suspensión temporal del evento público pero con reanudación, el titular deberá, mediante los mismos medios de publicidad empleados inicialmente, hacer del conocimiento del público la fecha de reanudación de evento, hora, sitio y demás circunstancias, siempre respetando la calidad del evento y las condiciones de seguridad, en términos de la presente Ley, su reglamento y otras disposiciones aplicables.
+XVI. Devolver dentro de un plazo de 48 horas y contra la simple entrega del boleto o contraseña respectiva, el importe completo de las entradas cuando de conformidad con la Ley u otras disposiciones aplicables, resulte la cancelación definitiva de un evento público por causas imputables al Titular;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XVII. En el caso de suspensión temporal del evento público pero con reanudación, el titular deberá, mediante los mismos medios de publicidad empleados inicialmente, hacer del conocimiento del público la fecha de reanudación de evento, hora, sitio y demás circunstancias, siempre respetando la calidad del evento y las condiciones de seguridad, en términos de la presente Ley y otras disposiciones aplicables;
 
 XVIII. Prohibir durante la celebración del evento público que se trate, las conductas que tiendan a alentar, favorecer o tolerar la prostitución, drogadicción, actos discriminatorios y, en general, aquellas que pudieran constituir una infracción o delito, debiendo dar aviso a las autoridades competentes cuando se detecte alguna de las conductas mencionadas.
 
-XIX. Presentar ante la autoridad municipal y en su caso ante la autoridad estatal, con al menos diez días naturales de anticipación a la fecha en que inicie el evento, el Programa Específico o Interno de Protección Civil para Eventos de Concentración Masiva de Población, el cual deberá ser establecido en términos de lo dispuesto por el reglamento de la Ley.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XIX. Presentar ante la autoridad municipal y en su caso ante la autoridad estatal, con al menos diez días naturales de anticipación a la fecha en que inicie el evento, el Programa Específico o Interno de Protección Civil para Eventos de Concentración Masiva de Población;
 
 XX. Permitir, antes y durante la celebración del evento público, las visitas de verificación por parte de la autoridad competente.
 
@@ -237,7 +261,9 @@ XXIX. Otorgar fianza a favor de la Tesorería del municipio donde se lleve a cab
 
 XXX. Retirar toda la publicidad que se hubiere colocado en la vía pública una vez concluido el evento. De no realizar el retiro de dicha publicidad, la autoridad correspondiente podrá hacer efectiva la fianza a que se refiere la fracción anterior, para pagar al ayuntamiento los gastos que genere el retiro de la misma por parte de los servicios públicos municipales.
 
-XXXI. Proveer el servicio de sanitarios públicos en condiciones de higiene y con capacidad acorde al aforo del evento.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XXXI. Proveer el servicio de sanitarios públicos en condiciones de higiene, y con capacidad acorde al aforo del evento, donde al menos existan 4 baños públicos por cada 100 personas que asistan al evento;
 
 > <small>(REFORMADA, G.G. 6 DE JULIO DE 2015)</small>
 
@@ -251,7 +277,9 @@ XXXIII. Abstenerse de colocar publicidad del evento público a través de anunci
 
 XXXIV. Las demás que se establezcan en la Ley y otras disposiciones aplicables.
 
-Los eventos públicos se regirán por lo ordenado en esta Ley, su reglamento y demás disposiciones aplicables.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Los eventos públicos se regirán por lo ordenado en esta Ley y demás disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA. SERVICIOS COMPLEMENTARIOS
 
@@ -305,9 +333,9 @@ X. Contar con la evaluación técnica de impacto en materia de protección civil
 
 XI. Que los titulares efectúen el pago del Impuesto sobre anuncios publicitarios establecido en el Código Financiero del Estado de México y Municipios.
 
-> <small>(ADICIONADA, G.G. 6 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XII. Las demás que establezca el reglamento y demás disposiciones aplicables.
+XII. Las demás que establezcan las demás disposiciones aplicables.
 
 #### SECCIÓN CUARTA. VERIFICADOR EN JEFE
 
@@ -325,7 +353,9 @@ El Verificador en Jefe deberá ser un servidor público en funciones, con al men
 
 El Verificador en Jefe vigilará que los asistentes no alteren el orden público, crucen apuestas, agredan o insulten a otros asistentes, a los participantes, organizadores, autoridades y demás personas que intervengan en el evento, solicitando, si fuese necesario, la intervención de la fuerza pública, a fin de que se ponga a disposición de la autoridad competente a quien incurra en alguna de estas conductas. Asimismo, cuidará que los elementos policiales y de protección civil mantengan la seguridad y el orden durante el desarrollo del evento público.
 
-El Verificador en Jefe dependerá directamente del presidente municipal, y en todo momento será responsable del correcto inicio, desarrollo y conclusión total del evento, por lo cual tendrá facultades suficientes para tomar las determinaciones necesarias para cumplir con lo establecido en la presente Ley, su reglamento y demás disposiciones aplicables.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+El Verificador en Jefe dependerá directamente del presidente municipal, y en todo momento será responsable del correcto inicio, desarrollo y conclusión total del evento, por lo cual tendrá facultades suficientes para tomar las determinaciones necesarias para cumplir con lo establecido en la presente Ley, y demás disposiciones aplicables.
 
 #### SECCIÓN QUINTA. DE LOS ASISTENTES
 
@@ -357,9 +387,13 @@ III. Contar con las facilidades necesarias para su acceso y adecuado desplazamie
 
 IV. Disfrutar del evento público, en los términos y condiciones ofrecidos en la publicidad o medio de difusión.
 
-V. Que le sea devuelto, dentro de un plazo no mayor de 48 horas y contra la simple entrega del boleto o contraseña respectiva, el importe de las entadas (sic) cuando de conformidad con la Ley, su reglamento y otras disposiciones aplicables, resulte la cancelación definitiva de un evento público por causas imputables al titular.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VI. En los casos de suspensión temporal del evento público pero con reanudación, que el titular les haga de su conocimiento, mediante los mismos medios de publicidad empleados inicialmente, la fecha de reanudación del evento, hora, sitio y demás circunstancias, siempre respetando la calidad del evento y las condiciones de protección y seguridad en términos de la presente Ley, su reglamento y otras disposiciones aplicables.
+V. Que le sea devuelto, dentro de un plazo no mayor de 48 horas y contra la simple entrega del boleto o contraseña respectiva, el importe total de las entradas cuando de conformidad con la Ley y otras disposiciones aplicables, resulte la cancelación definitiva de un evento público por causas imputables al titular;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. En los casos de suspensión temporal del evento público pero con reanudación, que el titular les haga de su conocimiento, mediante los mismos medios de publicidad empleados inicialmente, la fecha de reanudación del evento, hora, sitio y demás circunstancias, siempre respetando la calidad del evento y las condiciones de protección y seguridad en términos de la presente Ley y otras disposiciones aplicables;
 
 VII. Que durante la celebración del evento público el Titular evite la presencia de conductas de prostitución, drogadicción, actos discriminatorios y, en general, aquellas conductas que pudieran constituir una infracción o delito.
 
@@ -395,9 +429,11 @@ Los participantes del evento público acatarán las indicaciones de las autorida
 
 ### CAPÍTULO IV. REGISTRO MUNICIPAL DE BIENES INMUEBLES
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 25.
 
-Los municipios, a través de su Unidad Municipal de Protección Civil, establecerán el Registro municipal, en el que se inscribirán los bienes inmuebles donde se realicen eventos públicos.
+Los municipios, a través de su Coordinación Municipal de Protección Civil o equivalente, establecerán el Registro municipal, en el que se inscribirán los bienes inmuebles donde se realicen eventos públicos.
 
 ###### Artículo 26.
 
@@ -415,9 +451,11 @@ V. Ferias Regionales.
 
 VI. Festividades Patronales.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 27.
 
-La inscripción en el Registro municipal de bienes inmuebles tendrá vigencia de un año, debiéndose renovar con al menos diez días hábiles de anticipación a su vencimiento y deberá sujetarse a las disposiciones establecidas en el reglamento de la presente Ley.
+La inscripción en el Registro municipal de bienes inmuebles tendrá vigencia de un año, debiéndose renovar con al menos diez días hábiles de anticipación a su vencimiento.
 
 ## TÍTULO SEGUNDO. PROCEDIMIENTO ADMINISTRATIVO, MEDIDAS DE SEGURIDAD, SANCIONES Y MEDIOS DE DEFENSA
 
@@ -509,9 +547,11 @@ La imposición de sanciones se hará sin perjuicio de cualquier otra responsabil
 
 ### CAPÍTULO IV. MEDIOS DE DEFENSA
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 37.
 
-Contra los actos y resoluciones emitidos por las autoridades administrativas de esta Ley, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo. Cuando se esté haciendo uso del recurso de inconformidad, previo desistimiento del mismo, el interesado podrá promover el juicio ante el propio Tribunal. La resolución que se dicte en el recurso de inconformidad también puede impugnarse ante el Tribunal, de conformidad con lo dispuesto por el Código de Procedimientos Administrativos del Estado de México.
+Contra los actos y resoluciones emitidos por las autoridades administrativas de esta Ley, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de Justicia Administrativa del Estado de México. Cuando se esté haciendo uso del recurso de inconformidad, previo desistimiento del mismo, el interesado podrá promover el juicio ante el propio Tribunal. La resolución que se dicte en el recurso de inconformidad también puede impugnarse ante el Tribunal, de conformidad con lo dispuesto por el Código de Procedimientos Administrativos del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -700,3 +740,19 @@ e) Evaluación Técnica de Factibilidad de Transformación Forestal se entender�
 f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
 
 g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
