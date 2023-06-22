@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-asociaciones-publico-privadas-del-estado-de-mexico-y-129
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-02"
-last_updated: "2018-08-02"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Cuarta al Número 20 de la Gaceta de Gobierno del Estado de México, el jueves 2 de agosto de 2018.
 
@@ -308,6 +308,10 @@ La solicitud de autorización dirigida a la Legislatura del Estado, deberá incl
 ###### Artículo 20.
 
 Los pagos que deban realizarse al amparo de los Contratos de Proyectos de asociación público privada se considerarán preferentes. En la elaboración del presupuesto de egresos de cada año la Secretaría deberá considerar la prelación que deberán observar estos Proyectos. Dicho presupuesto tendrá preferencia respecto de otras previsiones de gasto.
+
+> <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+La Legislatura verificará que, en la Ley de Ingresos correspondiente se incluya la fuente de financiamiento y en el Presupuesto de Egresos del ejercicio fiscal respectivo, sean asignados los montos requeridos por los contratos bajo el esquema de Asociaciones Público Privadas, que se hubieran aprobado en ejercicios fiscales anteriores.
 
 Los pagos por servicios que las Unidades Contratantes efectúen derivados de los Contratos, deberán ser cubiertos con cargo a sus respectivos presupuestos autorizados de gasto corriente para el ejercicio fiscal correspondiente, identificando la partida presupuestaria, de conformidad con las disposiciones aplicables en materia de presupuesto y ejercicio del mismo.
 
@@ -1486,3 +1490,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. SERGIO ALEJANDRO OZUNA RIVERO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
