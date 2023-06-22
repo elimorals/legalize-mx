@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-los-centros-de-asistencia-social-y-las-109572"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-20"
-last_updated: "2022-10-21"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 20 de agosto de 2015.
 
@@ -1511,13 +1511,17 @@ El incumplimiento a las disposiciones de la presente Ley será sancionado, en su
 
 I. El Consejo de la Judicatura del Estado.
 
-II. La Inspección General de las Instituciones de Seguridad Pública del Estado de México.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-III. La Secretaría de la Contraloría del Estado de México y/o la unidad de control interno del DIFEM.
+II. La Unidad de Asuntos Internos de la Secretaría de Seguridad.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-IV. La Contraloría Interna de la Secretaría de Justicia y Derechos Humanos.
+III. La Secretaría de la Contraloría del Estado de México y/o el órgano interno de control del DIFEM.
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. El órgano interno de control de la Secretaría de Justicia y Derechos Humanos.
 
 V. Los ayuntamientos y los presidentes municipales.
 
@@ -1537,9 +1541,11 @@ V. Suspensión.
 
 VI. Clausura.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 111.
 
-Los servidores públicos que por acción u omisión transgredan los derechos de las niñas, niños y adolescentes serán sujetos de las sanciones administrativas previstas en esta Ley, sin menoscabo de las disposiciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y de la responsabilidad civil o penal que se configure.
+Las personas servidoras públicas que por acción u omisión transgredan los derechos de las niñas, niños y adolescentes serán sujetos de las sanciones administrativas previstas en esta Ley, sin menoscabo de las disposiciones contenidas en la Ley de Responsabilidades Administrativas del Estado de México y Municipios y de la responsabilidad civil o penal que se configure.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -1778,3 +1784,19 @@ G.G. 21 DE OCTUBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
