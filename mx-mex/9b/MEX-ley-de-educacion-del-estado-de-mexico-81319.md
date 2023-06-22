@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2021-04-19"
+last_updated: "2023-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -653,7 +653,9 @@ III. Generar condiciones adecuadas para facilitar la incorporación de migrantes
 
 IV. Impartir la educación especial en todos los niveles de educación básica, para que las personas con discapacidades transitorias o definitivas, o con capacidades y aptitudes sobresalientes, logren el desarrollo de su personalidad y se favorezca su integración social, debiendo prever lo necesario para ofrecer una adecuada preparación y capacitación a sus maestros, en términos de las disposiciones jurídicas aplicables;
 
-V. Establecer, en coordinación con la Autoridad Educativa Federal y la Secretaría General de Gobierno, las bases conforme a las cuales se prestarán los servicios educativos a las personas que se encuentren internas en los centros de prevención y readaptación social del Estado, en las escuelas de reintegración social y en los albergues temporales a que se refiere el artículo 224 de la Ley de Justicia para Adolescentes del Estado de México;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+V. Establecer, en coordinación con la Autoridad Educativa Federal y la Secretaría de Seguridad a través de la Subsecretaría de Control Penitenciario y de la Dirección General de Prevención y Reinserción Social las bases conforme a las cuales se prestarán los servicios educativos a las personas que se encuentren privadas de la libertad en los Centros Penitenciarios, y en los albergues o establecimientos a que se refiere la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y demás disposiciones normativas en la materia;
 
 VI. Publicar en el Periódico Oficial "Gaceta del Gobierno", los planes y programas de estudio que la Autoridad Educativa Federal determine, conforme a lo establecido en el artículo 48 de la Ley General;
 
@@ -2487,9 +2489,9 @@ IX. Certificaciones Profesionales, expedidas por los colegios o asociaciones de 
 
 Las autoridades escolares, los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios proporcionarán al Sistema Estatal de Información Educativa, la información que se les requiera y le brindarán las facilidades necesarias para el cumplimiento de sus funciones.
 
-> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-El incumplimiento a lo dispuesto en el párrafo anterior será motivo de responsabilidad que se substanciará conforme a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios o motivo de sanción para los particulares, de conformidad con los términos de la presente Ley y demás ordenamientos aplicables.
+El incumplimiento a lo dispuesto en el párrafo anterior será motivo de responsabilidad que se substanciará conforme a las disposiciones de la Ley de Responsabilidades Administrativas del Estado de México y Municipios o motivo de sanción para los particulares, de conformidad con los términos de la presente Ley y demás ordenamientos aplicables.
 
 > <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
 
@@ -2703,9 +2705,9 @@ XXII. Incumplir con las medidas correctivas derivadas de las visitas de inspecci
 
 XXIII. Incumplir cualquiera de las disposiciones de esta Ley, así como las disposiciones expedidas con fundamento en ella.
 
-> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-Tratándose de infracciones cometidas por directivos, maestros y trabajadores de instituciones educativas a cargo del Estado, sus municipios y organismos descentralizados serán sancionadas en la forma y términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y, en su caso, las demás disposiciones legales aplicables.
+Tratándose de infracciones cometidas por directivos, maestros y trabajadores de instituciones educativas a cargo del Estado, sus municipios y organismos descentralizados serán sancionadas en la forma y términos que establece la Ley de Responsabilidades Administrativas del Estado de México y Municipios y, en su caso, las demás disposiciones legales aplicables.
 
 #### SECCIÓN SEGUNDA. DE LAS SANCIONES
 
@@ -2783,11 +2785,11 @@ La Autoridad Educativa Estatal dictará resolución con base en los datos aporta
 
 #### SECCIÓN TERCERA. DEL RECURSO ADMINISTRATIVO
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 148], G.G. 25 DE ABRIL DE 2014)
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 194.
 
-Contra los actos y resoluciones que dicten o ejecuten las autoridades en la aplicación de la presente Ley, los afectados tendrán la opción de interponer el recurso administrativo de inconformidad, ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+Contra los actos y resoluciones que dicten o ejecuten las autoridades en la aplicación de la presente Ley, los afectados tendrán la opción de interponer el recurso administrativo de inconformidad, ante la propia autoridad o el juicio ante el Tribunal de Justicia Administrativa del Estado de México, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -3140,3 +3142,19 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
