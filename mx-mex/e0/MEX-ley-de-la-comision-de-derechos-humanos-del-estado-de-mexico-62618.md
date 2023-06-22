@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2023-03-27"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -171,7 +171,9 @@ XV. Elaborar y ejecutar programas para prevenir violaciones a los derechos human
 
 XVI. Desarrollar y ejecutar programas especiales de atención a víctimas del delito y abuso del poder, así como de personas o grupos en situación de vulnerabilidad;
 
-XVII. Vigilar el debido respeto a los derechos humanos en el sistema penitenciario y de readaptación social, así como en las áreas de retención, aseguramiento e internamiento del Estado de México;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XVII. Vigilar el debido respeto a los derechos humanos en el sistema penitenciario y de reinserción social, así como en las áreas de retención, aseguramiento e internamiento del Estado de México;
 
 XVIII. Elaborar y ejecutar programas de investigación, estudio, capacitación, enseñanza, promoción y difusión de los derechos humanos;
 
@@ -783,9 +785,11 @@ Para los efectos del párrafo anterior, el Organismo citará al quejoso por la m
 
 En caso de realizarse la queja o denuncia vía telefónica, el quejoso deberá otorgar un domicilio o un correo electrónico donde se le notificará de todos los actos inherentes a la queja. Si la queja o denuncia se realiza por medios electrónicos, el quejoso deberá proporcionar una dirección de correo electrónico donde se le notificará de todos los actos concernientes a su queja.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 65.
 
-Cuando los quejosos o denunciantes se encuentren internados, retenidos o privados de su libertad en algún centro de internamiento, detención o de readaptación social del Estado de México, pueden redactar sus quejas dirigidas a la Comisión y remitirlas a través de cualquier servidor público o tercero, quienes tienen la obligación de hacerlas llegar al Organismo sin demora ni censura alguna.
+Cuando los quejosos o denunciantes se encuentren retenidos o privados de su libertad en algún Centro Penitenciario, pueden redactar sus quejas dirigidas a la Comisión y remitirlas a través de cualquier servidor público o tercero, quienes tienen la obligación de hacerlas llegar al Organismo sin demora ni censura alguna.
 
 ###### Artículo 66.
 
@@ -999,7 +1003,9 @@ Las Recomendaciones y las Resoluciones de no Responsabilidad deben referirse a c
 
 La Comisión debe notificar al quejoso y al superior jerárquico de las autoridades o servidores públicos, relacionados con las violaciones a derechos humanos, las resoluciones que deriven de los procedimientos a que se refiere el presente Título, de conformidad con el Reglamento Interno.
 
-Las Recomendaciones, en su caso, serán turnadas al Órgano de Control correspondiente para que sea iniciado o continuado el procedimiento administrativo que contempla la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Las Recomendaciones, en su caso, serán turnadas al Órgano Interno de Control correspondiente para que sea iniciado o continuado el procedimiento administrativo que contempla la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ### Capítulo X. De la aceptación y cumplimiento de las Recomendaciones
 
@@ -1065,9 +1071,11 @@ Los recursos de impugnación o de queja podrán ser interpuestos por escrito o d
 
 Los titulares de los poderes Ejecutivo, Legislativo y Judicial; así como los Ayuntamientos, deben adoptar las medidas necesarias, a fin de lograr una efectiva protección de los derechos humanos en la entidad.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 115.
 
-Las autoridades o servidores públicos estatales y municipales deben colaborar y proporcionar, sin dilación alguna, la información y datos, que les solicite la Comisión, en términos del artículo 42 fracción XXIV de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Las autoridades o servidores públicos estatales y municipales deben colaborar y proporcionar, sin dilación alguna, la información y datos, que les solicite la Comisión, en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ###### Artículo 116.
 
@@ -1215,11 +1223,11 @@ La Comisión tendrá acceso, en los términos de las leyes respectivas, a la rad
 
 ### Capítulo único. De las Relaciones Laborales
 
-> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 131.
 
-Las relaciones laborales entre la Comisión y los servidores públicos que presten sus servicios en ella se regirán por el artículo 123 apartado B de la Constitución Política de los Estados Unidos Mexicanos, por la Ley del Trabajo de Servidores Públicos del Estado y Municipios, así como por las disposiciones legales emitidas por la Comisión en la materia.
+Las relaciones laborales entre la Comisión y los servidores públicos que presten sus servicios en ella se regirán por el artículo 123 apartado B de la Constitución Política de los Estados Unidos Mexicanos, por la Ley del Trabajo de los Servidores Públicos del Estado y Municipios, así como por las disposiciones legales emitidas por la Comisión en la materia.
 
 > <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
 
@@ -1526,3 +1534,19 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La Legislatura Local deberá expedir la convocatoria para la designación de las personas titulares del Órgano Interno de Control a que se refiere este Decreto dentro los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
 
 Las personas titulares de los Órganos Internos de Control que actualmente ejercen el cargo, podrán participar en el procedimiento de designación o ratificación que al efecto realice la Legislatura.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
