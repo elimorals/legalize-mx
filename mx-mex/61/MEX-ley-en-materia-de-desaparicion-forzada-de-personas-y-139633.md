@@ -4,7 +4,7 @@ identifier: "MEX-ley-en-materia-de-desaparicion-forzada-de-personas-y-139633"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-23"
-last_updated: "2022-05-06"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 23 de diciembre de 2019.
 
@@ -503,7 +503,9 @@ XXIX. Proponer la celebración de convenios a las autoridades competentes para l
 
 XXX. Disponer de una línea telefónica de asistencia, así como de cualquier otro medio de comunicación de acceso gratuito para proporcionar información, sin necesidad de cumplir con formalidad alguna, para contribuir en la búsqueda de Personas Desaparecidas;
 
-XXXI. Solicitar al Sistema de Radio y Televisión Mexiquense, así como a los concesionarios de radiodifusión y telecomunicaciones, dentro de las transmisiones correspondientes a los tiempos del Estado, de conformidad con la legislación en la materia, por conducto de la autoridad competente y previa autorización de los Familiares, la difusión de boletines relacionados con la búsqueda de Personas Desaparecidas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XXXI. Solicitar al Sistema Mexiquense de Medios Públicos, así como a los concesionarios de radiodifusión y telecomunicaciones, dentro de las transmisiones correspondientes a los tiempos del Estado, de conformidad con la legislación en la materia, por conducto de la autoridad competente y previa autorización de los Familiares, la difusión de boletines relacionados con la búsqueda de Personas Desaparecidas;
 
 XXXII. Establecer acciones de búsqueda específicas para las desapariciones de personas vinculadas con movimientos políticos en coordinación con la Comisión Nacional de Búsqueda.
 
@@ -1460,3 +1462,19 @@ CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglame
 Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
 
 Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
