@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-juventud-del-estado-de-mexico-76478"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2022-10-07"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Quinta a la Gaceta del Gobierno del Estado de México, el martes 31 de agosto de 2010.
 
@@ -83,7 +83,9 @@ X. Sector Auxiliar.- A los organismos auxiliares del Estado de México.
 
 XI. Plan Integral: Plan para el Desarrollo de la Juventud del Estado de México; y
 
-XII. Jóvenes de y en la calle.- A aquellos que carecen de un lugar físico donde tengan su residencia de manera permanente, que realicen sus actividades de manera cotidiana en la vía pública, o que teniendo un hogar y una familia se encuentren desintegrados de la misma.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XII. Juventud en situación precaria.- A aquellos que carecen de un lugar físico donde tengan su residencia de manera permanente, que realicen sus actividades de manera cotidiana en la vía pública, o que teniendo un hogar y una familia se encuentren desintegrados de la misma.
 
 ###### Artículo 4.
 
@@ -91,7 +93,9 @@ Son principios rectores en la observancia y aplicación de esta Ley:
 
 I.- Universalidad. Las acciones en política de juventud deben ir destinadas en beneficio de la generalidad de los jóvenes, sin distinción de sexo, raza, origen, edad, estado civil, ideología, creencias, preferencia sexual o cualquier otra condición, circunstancia personal o social, reconociéndose, como característica esencial de este sector de población, su pluralidad en todos esos ámbitos;
 
-II.- Igualdad. Todos los jóvenes tienen derecho al acceso en igualdad de condiciones a los programas y acciones que les afecten, teniendo especial consideración con aquellos que viven en zonas rurales y en circunstancias de vulnerabilidad.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 22 DE JUNIO DE 2023)</small>
+
+II.- Igualdad. La juventud tiene derecho al acceso en igualdad de condiciones a los programas y acciones que les beneficien, teniendo especial consideración con aquellos que viven en zonas rurales y en circunstancias de vulnerabilidad.
 
 La corresponsabilidad en la atención integral de los jóvenes, del Estado, municipios, sociedad y familia;
 
@@ -99,9 +103,13 @@ La corresponsabilidad en la atención integral de los jóvenes, del Estado, muni
 
 II Bis.- Transversalidad. Proceso que permite garantizar la incorporación de la perspectiva juvenil y de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programa, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
 
-III.- Participación libre y democrática. Los jóvenes participarán en la planificación y desarrollo de las políticas públicas dirigidas a ellos en lo político, social, económico, deportivo y cultural, y en la toma de decisiones que afecten su entorno;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-IV.- Solidaridad. Deberá fomentarse la solidaridad en las relaciones entre los jóvenes y los grupos sociales, con la finalidad de superar las condiciones que crean marginación y desigualdades;
+III.- Participación libre y democrática. La juventud participará en la planificación y desarrollo de las políticas públicas dirigidas a ellos en lo político, social, económico, deportivo y cultural, y en la toma de decisiones;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV.- Solidaridad. Deberá fomentarse la solidaridad en las relaciones entre la juventud y los grupos sociales, con la finalidad de superar las condiciones que crean marginación y desigualdad social;
 
 V.- (DEROGADA, G.G. 7 DE OCTUBRE DE 2022)
 
@@ -125,7 +133,9 @@ II. Madres solteras;
 
 III. Víctimas de cualquier delito;
 
-IV. En situación de calle;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. En situación precaria;
 
 V. Exclusión social o privación de la libertad;
 
@@ -179,7 +189,9 @@ X. A solicitar información sobre su origen y la identidad de sus padres;
 
 XI. A recibir un trato digno cuando sean víctimas de un delito o cuando ellos mismos cometan infracciones o delitos;
 
-XII. Tener una identidad propia en base al conjunto de atributos y derechos; y
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XII. Tener una identidad propia con base en el conjunto de atributos y derechos, y
 
 XIII. A vivir esta etapa de su vida con calidad y creatividad, impregnada de valores que contribuyan a su desarrollo social y económico con el fin de potencializar sus capacidades y lograr una calidad de vida digna y sustentable.
 
@@ -209,17 +221,17 @@ VII. Disfrutar de un medio ambiente sano y equilibrado, con conciencia, responsa
 
 VIII. Acceder al conocimiento y a la tecnología para su educación, información, diversión, esparcimiento y comunicación e intereses que les permitan la disminución de la brecha digital promoviendo el acceso a las nuevas tecnologías.
 
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-IX. Recibir, acceder, analizar, sistematizar y difundir, de acuerdo con su desarrollo biológico, psicológico y cognoscitivo, y conforme a su edad, información objetiva y oportuna que les sea de importancia para sus proyectos de vida, sus intereses colectivos y para el bien de la Entidad.
+IX. Recibir, analizar, sistematizar, difundir y acceder de acuerdo con su desarrollo biológico, psicológico y cognoscitivo, y conforme a su edad, a información objetiva y oportuna que les sea de importancia para sus proyectos de vida, sus intereses colectivos y para el bien de la Entidad.
 
 #### SECCIÓN III. DERECHOS ECONÓMICOS
 
-> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 10.
 
-Los jóvenes tienen derecho a un empleo digno con un salario justo, con igualdad de oportunidades y de trato para mujeres y hombres; a la capacitación e inserción de jóvenes con discapacidad, jóvenes embarazadas o en etapa de lactancia; a que se les facilite el acceso, en su caso, a su primer empleo; a generar e innovar mecanismos para auto emplearse, así como recibir educación financiera para su pleno desarrollo social y económico.
+Los jóvenes, en términos del artículo 123, apartado A fracción III, de la Constitución Política de los Estados Unidos Mexicanos, tienen derecho a un empleo digno con un salario justo, con igualdad de oportunidades y de trato para mujeres y hombres; a la capacitación e inserción de jóvenes con discapacidad, jóvenes embarazadas o en etapa de lactancia; a que se les facilite el acceso, en su caso, a su primer empleo; a generar e innovar mecanismos para auto emplearse, así como recibir educación financiera para su pleno desarrollo social y económico.
 
 #### SECCIÓN IV. DERECHOS CULTURALES
 
@@ -255,11 +267,15 @@ IV. Promover el debido respeto a la identidad de los jóvenes y garantizar su li
 
 V. Brindar apoyo integral a las familias jóvenes, para lograr su estabilidad, permanencia y éxito como base de la sociedad;
 
-VI. Prohibir cualquier medida que atente contra la libertad, integridad y seguridad física y psicológica de los jóvenes por el ejercicio de sus derechos, garantizando que no sean arrestados, detenidos o presos arbitrariamente;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. Prohibir cualquier medida que atente contra la libertad, integridad y seguridad física y psicológica de la juventud por el ejercicio de sus derechos, garantizando que no sean asegurados, detenidos o puestos a disposición;
 
 VII. Evitar la discriminación de los jóvenes, así como generar mecanismos que fomenten la cultura de la igualdad;
 
-VIII. Brindar apoyo a los jóvenes que se encuentran o vivan en circunstancias de vulnerabilidad, exclusión social, indigencia, situación de calle, discapacidad o privación de la libertad, mediante programas sociales que les permitan reinsertarse e integrarse a la sociedad de una manera digna;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VIII. Brindar apoyo a la juventud que se encuentra o viva en circunstancias de vulnerabilidad, exclusión social, situación precaria, discapacidad o privación de la libertad, mediante programas sociales que les permitan reinsertarse e integrarse a la sociedad de una manera digna;
 
 IX. Impulsar y fortalecer procesos sociales que generen formas que hagan efectiva la participación de jóvenes de todos los sectores de la sociedad, en organizaciones que alienten su inclusión y promuevan su derecho de participar en la vida política de la entidad;
 
@@ -271,9 +287,11 @@ XI. Asegurar una educación de calidad, suficiente y adecuada al mercado laboral
 
 XII. Incrementar y diversificar las oportunidades de ingreso a la educación media superior y superior, mediante el establecimiento de diversos programas educativos de calidad que utilicen las tecnologías de la comunicación e información y así acercar este servicio a los jóvenes de zonas urbanas y rurales, incluyendo aquellas de difícil acceso;
 
-XIII. Facilitar y apoyar el acceso a la educación de los jóvenes indígenas, con discapacidades, embarazadas o etapa de lactancia, para asegurar su permanencia escolar, promoviendo educación intercultural y espacios adecuados para discapacitados;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XIV. Promover programas de Beca y Crédito Educativo para jóvenes de escasos recursos, a fin de que no deserten por motivos económicos; promover acciones o financiamiento de becas de estancia o apoyo para transporte a jóvenes que tengan que trasladarse a otro lugar fuera de su municipio, para continuar estudiando;
+XIII. Facilitar y apoyar el acceso a la educación de la juventud indígenas (sic), con discapacidad, juventud embarazada o en periodo de lactancia, juventud de escasos recursos, para asegurar su permanencia escolar mediante la promoción de programas de Beca y Crédito Educativo, promover acciones o financiamiento de becas de estancia o apoyo para transporte, promoviendo la educación intercultural y espacios adecuados para personas con discapacidad, para continuar sus estudios;
+
+XIV. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
 > <small>(REFORMADA, G.G. 15 DE JUNIO DE 2016)</small>
 
@@ -301,7 +319,9 @@ XXII. Crear, promover y apoyar un sistema de información que permita a los jóv
 
 XXIII. Promover acciones para evitar la migración de jóvenes mexiquenses;
 
-XXIV. Promover y difundir la cultura de los jóvenes indígenas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XXIV. Promover y difundir la cultura indígena entre la juventud;
 
 XXV. Crear e impulsar mecanismos para que jóvenes con discapacidad, tengan acceso efectivo a la educación, a la capacitación laboral, servicios sanitarios, servicios de rehabilitación, oportunidades de esparcimiento, con el objetivo de lograr su desarrollo individual e integración social;
 
@@ -377,15 +397,17 @@ XXI. Difundir de manera periódica y pública los programas, acciones y benefici
 
 XXII. A difundir, implementar e instrumentar acciones con dependencias públicas e instituciones bancarias con el objeto de favorecer la educación financiera enfocada a los jóvenes.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 15.
 
-La dirección y administración del Instituto está a cargo de un consejo directivo y un director general.
+La dirección y administración del Instituto está a cargo de un Consejo Directivo y una Dirección General.
 
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y con vocales, que son los representantes de las Secretarías de Finanzas y del Trabajo; de los Institutos de Salud del Estado de México, Mexiquense de Cultura, Mexiquense de Cultura Física y Deporte y de la Subsecretaría de Educación Básica y Normal.
+El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y con vocales, que son los representantes de las Secretarías de Finanzas, del Trabajo y de Cultura y Turismo; del Instituto de Salud del Estado de México y de la Subsecretaría de Educación Básica y Normal.
 
-El director general será nombrado por el Gobernador del Estado, a propuesta del presidente del consejo.
+La persona Titular de la Dirección General será nombrada por el Gobernador del Estado, a propuesta del presidente del Consejo.
 
-La organización y funcionamiento del Instituto se regirá por el reglamento interno que expida el consejo directivo.
+La organización y funcionamiento del Instituto se regirá por el reglamento interno que expida el Consejo Directivo.
 
 ###### Artículo 16.
 
@@ -671,13 +693,17 @@ e) Generar programas de prevención en la comisión del delito y para evitar ser
 
 Cualquier persona podrá denunciar ante los órganos competentes todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos que establece la presente Ley.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 33.
 
-Cuando los responsables del daño o afectación de las o los jóvenes, sean servidores públicos en ejercicio de sus funciones, deberán sujetarse al procedimiento administrativo que contempla la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Cuando los responsables del daño o afectación de las o los jóvenes, sean servidores públicos en ejercicio de sus funciones, deberán sujetarse al procedimiento administrativo que contempla la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 34.
 
-La inobservancia a las disposiciones de esta Ley será sancionada, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de México, así como, en su caso, en las leyes civiles, penales, laborales y demás ordenamientos normativos aplicables.
+La inobservancia a las disposiciones de esta Ley será sancionada, de conformidad con la Ley de Responsabilidades Administrativas del Estado de México y Municipios, así como, en su caso, en las leyes civiles, penales, laborales y demás ordenamientos normativos aplicables.
 
 ## TRANSITORIOS
 
@@ -840,3 +866,19 @@ G.G. 7 DE OCTUBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
