@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2023-04-28"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -53,15 +53,17 @@ III. De la coordinación de acciones de planeación democrática para el desarro
 
 IV. De la formulación, instrumentación, colaboración, concertación, control y seguimiento de la ejecución y la evaluación de la estrategia de desarrollo contenida en el Plan de Desarrollo del Estado de México y en los planes de desarrollo municipales.
 
-> <small>(ADICIONADA, G.G. 3 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-V. Del equilibrio de los factores de la producción, que proteja y promueva el empleo; en un marco de estabilidad económica y social que garantice la competitividad y privilegie el eficiente, transparente y racional ejercicio de los recursos públicos.
+V. Del equilibrio de los factores de la producción, en un marco de estabilidad económica y social que garantice la competitividad y privilegie el eficiente, transparente y racional ejercicio de los recursos públicos.
 
 ###### Artículo 2.
 
 Los poderes Legislativo, Ejecutivo y Judicial del Estado de México y los ayuntamientos de los municipios de la entidad, se coordinarán para participar en la organización del Sistema de Planeación Democrática para el Desarrollo del Estado de México, con objetividad y transparencia, con la participación responsable y consciente de los habitantes y de los diversos grupos y organizaciones sociales y privados, en el que se recogerán sus aspiraciones y demandas para incorporarlas a la estrategia de desarrollo.
 
-Es responsabilidad del titular del Ejecutivo Estatal conducir la planeación para el desarrollo del Estado de México, y al interior de los municipios dicha responsabilidad recaerá en los Presidentes Municipales, quienes lo harán con base en las disposiciones legales y en ejercicio de sus atribuciones con respeto irrestricto a las garantías constitucionales, así como al fortalecimiento del pacto federal y del municipio libre y autónomo.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Es responsabilidad del titular del Ejecutivo Estatal conducir la planeación para el desarrollo del Estado de México, y al interior de los municipios dicha responsabilidad recaerá en los Presidentes Municipales, quienes lo harán con base en las disposiciones legales y en ejercicio de sus atribuciones con respeto irrestricto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México, así como al fortalecimiento del pacto federal y del municipio libre y autónomo.
 
 > <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -69,21 +71,23 @@ Es responsabilidad del titular del Ejecutivo Estatal conducir la planeación par
 
 El desarrollo del Estado y Municipios se sustenta en el proceso de planeación democrática, en congruencia con la planeación nacional del desarrollo, integrando al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, los planes de desarrollo municipal, los programas sectoriales, regionales y especiales, la Agenda Digital; y su ejecución atenderá a los plazos y condiciones que requiera su estrategia.
 
-> <small>(REFORMADO, G.G. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 4.
 
-La planeación democrática para el desarrollo se sustenta en los principios de igualdad, no discriminación, simplicidad, claridad, congruencia y proximidad de los habitantes del Estado de México, así como de previsión, unidad y flexibilidad en la coordinación, cooperación y eficacia para el cumplimiento de los objetivos y eficiencia en la asignación, uso, destino de los recursos y el cuidado del medio ambiente, tomando en cuenta la perspectiva de género, debiendo establecer criterios de transversalización que garanticen la igualdad de oportunidades entre mujeres y hombres y, asimismo, promuevan el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
+La planeación democrática para el desarrollo se sustenta en los principios de igualdad, la no discriminación, simplicidad, claridad, congruencia y proximidad de las habitantes del Estado de México, así como de previsión, unidad y flexibilidad en la coordinación, cooperación y eficacia para el cumplimiento de los objetivos y eficiencia en la asignación, uso, destino de los recursos y el cuidado del medio ambiente, con perspectiva de interculturalidad y de género, debiendo establecer criterios de transversalización que garanticen la igualdad de oportunidades entre mujeres y hombres y, asimismo, promuevan el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
 
-> <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 5.
 
-La planeación democrática tiene por objeto el desarrollo del Estado de México y Municipios, con pleno respeto a la soberanía estatal y a la autonomía municipal, en concordancia con los fines sociales, económicos, ambientales y políticos que establecen la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México.
+La planeación democrática tiene por objeto el desarrollo del Estado de México y Municipios, con pleno respeto a la soberanía estatal y a la autonomía municipal, en concordancia con los fines sociales, culturales, económicos, ambientales y políticos que establecen la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 6.
 
-La planeación democrática para el desarrollo, como proceso permanente, debe ser el medio para lograr el progreso económico y social del Estado de México y municipios, dirigido principalmente a la atención de las necesidades básicas que se traduzcan en el mejoramiento de la calidad de vida de la población, mediante la participación de los diferentes órdenes de gobierno, habitantes, grupos y organizaciones sociales y privados.
+La planeación democrática para el desarrollo, como proceso permanente, debe ser el medio para lograr el progreso económico y social del Estado de México y municipios, dirigido principalmente a la atención de las necesidades básicas que se traduzcan en el mejoramiento de la calidad de vida de la población para lograr una sociedad igualitaria, mediante la participación de los diferentes órdenes de gobierno, habitantes, grupos y organizaciones sociales y privados.
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
@@ -109,9 +113,9 @@ Los titulares de las dependencias, organismos, entidades públicas y unidades ad
 
 Para efectos de esta Ley, se entiende por:
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-Agenda Digital. La prevista en la Ley de la Gestión Pública Digital para el Estado de México y Municipios.
+Agenda Digital. La prevista en la Ley de Gobierno Digital del Estado de México y Municipios.
 
 Convenio de coordinación. Instrumento de orden público por medio del cual la administración de los gobiernos estatal y municipales convienen en crear, transferir, modificar o extinguir obligaciones de las partes firmantes, para cumplir objetivos y metas plasmados en los planes de desarrollo.
 
@@ -119,21 +123,31 @@ Convenio de participación. Instrumento de orden público por medio del cual la 
 
 Corto plazo. Período hasta de un año, en el cual el presupuesto por programas determina y orienta en forma detallada las asignaciones y el destino de los recursos para la realización de acciones concretas.
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-Datos abiertos. Los previstos en la Ley de la Gestión Pública Digital para el Estado de México y Municipios, así como en las demás disposiciones aplicables.
+Datos abiertos. Los datos digitales de carácter público accesibles en línea que pueden ser reutilizados y redistribuidos por cualquier interesado y que son accesibles, integrales, gratuitos, no discriminatorios, oportunos, permanentes, primarios, legibles por los datos digitales de carácter público accesibles en línea que pueden ser reutilizados y redistribuidos por cualquier interesado y que son accesibles, integrales, gratuitos, no discriminatorios, oportunos, permanentes, primarios, legibles por maquinas, en formatos abiertos y de libre uso, en términos de las disposiciones jurídicas de la materia.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 Desarrollo. Es el proceso de cambio social que persigue como finalidad última la igualdad de oportunidades sociales, políticas, económicas y de desarrollo en un medio ambiente adecuado para los habitantes de una delimitación territorial.
 
-> <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-Diagnóstico. Descripción, evaluación y análisis de la situación actual y la trayectoria histórica de la realidad económica, ambiental, política y social de algún fenómeno o variable que se deseé estudiar.
+Diagnóstico. Es la parte de la Planeación Estratégica que debe considerar la descripción, evaluación y análisis crítico de la situación actual y la trayectoria histórica de la realidad económica, demográfica, ambiental, política y social en su conjunto de alguna problemática que se desee estudiar identificada en el contexto estatal.
+
+> <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Dependencias. A las Secretarías que se señalan en la Ley Orgánica de la Administración Pública del Estado de México, incluyendo a sus unidades administrativas y órganos administrativos desconcentrados.
+
+> <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Entidades Públicas. A tribunales administrativos y organismos públicos descentralizados, empresas de participación estatal o municipal y fideicomisos públicos, todos del Estado de México.
 
 Ejecución. Realizar, hacer o llevar a la práctica lo que se ha establecido en la fase de programación.
 
-Estrategia de desarrollo. Principios y directrices para orientar el proceso de planeación del desarrollo para alcanzar los objetivos a los que se desea llegar. Es el camino a seguir en las grandes líneas de acción contenidas en las políticas de desarrollo estatal, para alcanzar los objetivos y metas formulados en el corto, mediano y largo plazos.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Estrategia de desarrollo. Conjunto de principios, acciones, metas y recursos a utilizar en el corto, mediano y largo plazo contenidos en las políticas de desarrollo estatal para orientar el proceso de planeación del desarrollo para alcanzar los objetivos a los que se desea llegar.
 
 Evaluación. Proceso que tiene como finalidad determinar el grado de eficacia y eficiencia, con que han sido empleados los recursos destinados a alcanzar los objetivos previstos, posibilitando la determinación de las desviaciones y la adopción de medidas correctivas que garanticen el cumplimientos adecuado de las metas.
 
@@ -141,7 +155,9 @@ Largo plazo. Período de más de tres años para el Gobierno Municipal y de más
 
 Mediano plazo. Período de más de un año y hasta tres años para el Gobierno Municipal y período de más de un año y hasta seis años para el Gobierno Estatal, en el cual se define un conjunto de objetivos y metas a alcanzar y de políticas de desarrollo a seguir, vinculadas con los objetivos de la estrategia de largo plazo.
 
-Meta. Dimensionamiento del objetivo que se pretende alcanzar en términos de cantidad, tiempo y espacio determinados, con los recursos necesarios.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Meta. Dimensionamiento del objetivo que se pretende alcanzar en términos de cantidad, tiempo y espacio determinados, con los recursos necesarios. Las metas deben estar orientadas a mejorar de forma significativa los resultados del desempeño institucional.
 
 Objetivo. Expresión cualitativa de un propósito que se pretende alcanzar en un tiempo y espacio específicos a través de determinadas acciones.
 
@@ -181,9 +197,11 @@ Sistema Estatal de Información. Procesos utilizados para integrar, conformar, a
 
 ### CAPITULO SEGUNDO. DE LA PLANEACION DEMOCRATICA PARA EL DESARROLLO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 11.
 
-El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios comprende un conjunto de relaciones funcionales que establecen los habitantes del Estado de México, los poderes Legislativo, Ejecutivo, Judicial, los grupos y organizaciones sociales y privados, entre sí, a fin de efectuar acciones al amparo de mecanismos de coordinación y participación, conforme a la competencia y atribución de los titulares de las dependencias, organismos, entidades públicas y unidades administrativas, en los cuales se consideren propuestas; planteen demandas y formalizan acuerdos.
+El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios se sustenta en los principios de igualdad, no discriminación y congruencia de los habitantes del Estado de México, los poderes Legislativo, Ejecutivo, Judicial, los grupos y organizaciones sociales y privados, entre sí a fin de efectuar acciones al amparo de mecanismos de coordinación y participación, conforme a la competencia y atribución de los titulares de las Dependencias, Entidades Públicas y unidades administrativas, en los cuales se consideren propuestas; planteen demandas y formalizan acuerdos.
 
 ###### Artículo 12.
 
@@ -249,9 +267,9 @@ VI. Aprobar y ordenar la publicación y divulgación del Plan de Desarrollo del 
 
 VII. Determinar las bases para la coordinación y participación;
 
-> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VIII. Integrar con la participación ciudadana el Plan de Largo Plazo del Estado de México para los próximos 30 años y en su caso readecuarlo cada seis años;
+VIII. Integrar con la participación ciudadana el Plan de Largo Plazo del Estado de México para por lo menos 20 años y en su caso readecuarlo cada seis años;
 
 > <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -265,21 +283,27 @@ X. Las demás que se establezcan en otros ordenamientos.
 
 Compete a la Secretaría, en materia de planeación democrática para el desarrollo:
 
-I. Elaborar en coordinación, apoyo y participación de las dependencias, organismos, unidades administrativas y entidades públicas de los gobiernos estatal y municipales, el Plan de Desarrollo del Estado de México y sus programas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-II. Vigilar en coordinación con las demás dependencias, organismos, unidades administrativas y entidades públicas, la relación de los programas y el uso y destino de recursos, con los objetivos y metas del Plan de Desarrollo del Estado de México;
+I. Elaborar en coordinación, apoyo y participación de las Dependencias y Entidades Públicas de los gobiernos estatal y municipales, el Plan de Desarrollo del Estado de México y sus programas;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Vigilar en coordinación con las demás Dependencias y Entidades Públicas, la relación de los programas y el uso y destino de recursos, con los objetivos y metas del Plan de Desarrollo del Estado de México;
 
 III. Coordinar las actividades de análisis y asistencia técnica, cuando así le sea requerido;
 
-> <small>(REFORMADA, G.G. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-IV. Formular e integrar las reglas, criterios y metodología para las unidades de información, planeación, programación y evaluación; así como promover la construcción de indicadores que permitan evaluar el impacto de las políticas públicas contenidas en el Plan desde una perspectiva de género, para que las acciones de gasto público reflejen la equidad en los beneficios del desarrollo;
+IV. Formular e integrar las reglas, criterios y metodología para las unidades de información, planeación, programación y evaluación; así como promover la construcción de indicadores que permitan evaluar el impacto de las políticas públicas contenidas en el Plan desde una perspectiva de género, grupos específicos de población, edad, entre otros para que las acciones de gasto público reflejen la equidad en los beneficios del desarrollo;
 
 V. Asegurar, mediante los procesos de planeación estratégica, la congruencia organizativa de las acciones, respecto del Plan Estatal de Desarrollo;
 
 VI. Integrar y formular el presupuesto por programas para la ejecución de las acciones relacionadas con la estrategia para el desarrollo estatal;
 
-VII. Coordinar a los organismos y entidades públicas adscritos a su sector en la elaboración de sus programas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Coordinar a las Entidades Públicas adscritas a su sector en la elaboración de sus programas;
 
 VIII. Establecer y operar un registro estatal de planes y programas, así como de los documentos que de los mismos deriven;
 
@@ -307,9 +331,11 @@ V. Verificar y cumplir el Plan Nacional de Desarrollo, el Plan de Desarrollo del
 
 VI. Las demás que se establezcan en otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 18.
 
-Compete a las dependencias, organismos, entidades públicas y unidades administrativas del Poder Ejecutivo, en materia de planeación democrática para el desarrollo:
+Compete a las Dependencias, Entidades Públicas y unidades administrativas del Poder Ejecutivo, en materia de planeación democrática para el desarrollo:
 
 I. Participar en la elaboración del Plan de Desarrollo del Estado de México, respecto de las materias que les correspondan;
 
@@ -323,11 +349,17 @@ V. Proponer los programas sectoriales, regionales y especiales, en el ámbito de
 
 VI. Asegurar, mediante los procesos de planeación estratégica, la congruencia organizativa de las acciones que se habrán de realizar para alcanzar los objetivos y metas de la estrategia de desarrollo;
 
-VII. Supervisar la correcta vinculación de los programas y presupuestos de los organismos o entidades públicas sectorizados en la dependencia bajo su cargo, con los objetivos y metas del Plan Estatal de Desarrollo y sus programas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Supervisar la correcta vinculación de los programas y presupuestos de las entidades públicas sectorizados en la Dependencia bajo su cargo, con los objetivos y metas del Plan Estatal de Desarrollo y sus programas;
 
 > <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
 VIII. Generar, proporcionar y utilizar la información oficial y los datos abiertos del Estado de México, a través de las unidades de información, planeación, programación y evaluación; e incorporar el uso y aplicación de estadísticas e indicadores en el proceso de planeación, para impulsar el desarrollo equitativo de las mujeres y los hombres en todos los sectores de la atención pública;
+
+> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VIII Bis. Elaborar sus anteproyectos de presupuesto considerando las acciones y objetivos de sus programas institucionales;
 
 IX. Proponer el presupuesto por programas para la ejecución de las acciones que correspondan al área de su competencia;
 
@@ -377,9 +409,11 @@ X. Integrar con la participación ciudadana el Plan de Largo Plazo del Municipio
 
 XI. Las demás que se establezcan en otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 20.
 
-Compete a las unidades de información, planeación, programación y evaluación, de las dependencias, organismos y entidades públicas estatales y a las unidades administrativas o de los servidores públicos de los municipios, en materia de planeación democrática para el desarrollo:
+Compete a las unidades de información, planeación, programación y evaluación, de las Dependencias en materia de planeación democrática para el desarrollo:
 
 I. Garantizar el cumplimiento de las etapas del proceso de planeación para el desarrollo en el ámbito de su competencia;
 
@@ -427,15 +461,17 @@ VI. Las demás que se establezcan en otros ordenamientos.
 
 ### CAPITULO TERCERO. DE LOS PLANES DE DESARROLLO Y SUS PROGRAMAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 22.
 
-Los planes de desarrollo se formularán, aprobarán y publicarán dentro de un plazo de seis meses para el Ejecutivo del Estado y tres meses para los ayuntamientos, contados a partir del inicio del período constitucional de gobierno y en su elaboración se tomarán en cuenta las opiniones y aportaciones de los diversos grupos de la sociedad; así como el Plan de Desarrollo precedente; también habrán de considerarse estrategias, objetivos y metas, que deberán ser revisadas y consideradas en la elaboración de los planes de desarrollo del siguiente período constitucional de gobierno, a fin de asegurar la continuidad y consecución de aquellos que por su importancia adquieran el carácter estratégico de largo plazo. Su vigencia se circunscribirá al período constitucional o hasta la publicación del plan de desarrollo del siguiente período constitucional de gobierno.
+Los planes de desarrollo se formularán, aprobarán y publicarán dentro de un plazo de seis meses para el Ejecutivo del Estado y tres meses para los ayuntamientos, contados a partir del inicio del período constitucional de gobierno y en su elaboración se tomarán en cuenta las opiniones y aportaciones de los diversos grupos de la sociedad; así como el Plan de Desarrollo precedente y contener por lo menos un diagnóstico de la situación actual en ejes centrales, temas prioritarios, objetivos, estrategias e indicadores de desempeño, de igual manera habrá de considerarse el siguiente período constitucional de gobierno, a fin de asegurar la continuidad y consecución de aquellos que por su importancia adquieran el carácter estratégico de largo plazo. Su vigencia se circunscribirá al período constitucional o hasta la publicación del plan de desarrollo del siguiente período constitucional de gobierno.
 
 Por lo que respecta al Plan de Desarrollo del Estado de México, antes de su aprobación, el titular del Ejecutivo Estatal lo remitirá a la Legislatura para su examen y opinión. De igual forma la Legislatura formulará las observaciones que estime convenientes durante la ejecución del plan.
 
-Aprobados los planes de desarrollo, se publicarán en el periódico oficial "Gaceta del Gobierno" del Estado de México y en la "Gaceta Municipal", según corresponda y se divulgarán a la población en general; su cumplimiento será obligatorio para las dependencias, organismos y entidades públicas, lo mismo que los programas que de ellos se deriven, una vez aprobados.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Aprobados los planes de desarrollo, se publicarán en el periódico oficial “Gaceta del Gobierno” del Estado de México y en la “Gaceta Municipal”, según corresponda y se divulgarán a la población en general; su cumplimiento será obligatorio para las Dependencias y Entidades Públicas, lo mismo que los programas que de ellos se deriven, una vez aprobados.
 
 ###### Artículo 23.
 
@@ -457,9 +493,11 @@ En los planes de desarrollo se establecerán los lineamientos de política gener
 
 Para los efectos de la integración y ejecución de la estrategia contenida en los planes de desarrollo, se deberán elaborar programas sectoriales, regionales y especiales que permitan alcanzar sus objetivos y metas.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 27.
 
-Los programas derivados de los planes de desarrollo podrán ajustarse cuando, con motivo del inicio de un período constitucional federal, se apruebe el Plan Nacional de Desarrollo o, en su caso, como consecuencia de modificaciones a este último.
+Los programas derivados de los planes de desarrollo podrán ajustarse cuando, con motivo del inicio de un período constitucional federal, se apruebe el Plan Nacional de Desarrollo o, en su caso, como consecuencia de modificaciones a este último y deberán contener por lo menos un diagnóstico general de la problemática a atender por programa, objetivos específicos alineados a estrategias, líneas de acción e indicadores que permitan dar seguimiento.
 
 ###### Artículo 28.
 
@@ -471,9 +509,11 @@ El resultado de la revisión periódica y, en su caso, las adecuaciones y correc
 
 Los gobiernos estatal y municipales conjuntarán esfuerzos para fortalecer los planes, programas y acciones para el desarrollo a través de convenios de coordinación y participación.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 30.
 
-Las dependencias, entidades públicas, organismos y unidades administrativas participarán en la integración de programas sectoriales y regionales de corto, mediano y largo plazo congruentes entre sí y con las estrategias contenidas en los planes de desarrollo, que regirán las actividades de la administración pública y se considerarán para la conformación del presupuesto por programas, salvo el caso de programas especiales cuyo plazo de ejecución podrá ser distinto.
+Las Dependencias y Entidades Públicas, participarán en la integración de programas sectoriales y regionales de corto, mediano y largo plazo congruentes entre sí y con las estrategias contenidas en los planes de desarrollo, que regirán las actividades de la administración pública y se considerarán para la conformación del presupuesto por programas, salvo el caso de programas especiales cuyo plazo de ejecución podrá ser distinto.
 
 ###### Artículo 31.
 
@@ -493,9 +533,11 @@ Los programas sectoriales se sujetarán a las estrategias contenidas en los plan
 
 ### CAPITULO CUARTO. DEL CONTROL, SEGUIMIENTO Y EVALUACION DE LA EJECUCION
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 35.
 
-Las dependencias, entidades públicas, organismos, unidades administrativas y servidores públicos, conforme a las facultades y obligaciones contenidas en este capítulo, reportarán periódicamente los resultados de la ejecución de los programas a la Secretaría, y en el caso de los municipios, a quien los ayuntamientos designen.
+Las Dependencias, Entidades Públicas y personas servidoras públicas, conforme a las facultades y obligaciones contenidas en este capítulo, reportarán periódicamente los resultados de la ejecución de los programas a la Secretaría, y en el caso de los municipios, a quien los ayuntamientos designen.
 
 ###### Artículo 36.
 
@@ -505,17 +547,17 @@ La Secretaría y los ayuntamientos, en el ámbito de su competencia, establecer�
 
 Para la elaboración e integración de los informes de evaluación habrán de considerarse entre otros elementos, los indicadores del Sistema Estatal de Información e Investigación Geográfica, Estadística y Catastral, aplicados al proceso de planeación democrática para el desarrollo, de conformidad con lo dispuesto por el ordenamiento de la materia y demás disposiciones aplicables.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 37.
 
-En cumplimiento de los objetivos y metas establecidos en los planes de desarrollo estatal y municipales, los titulares de las dependencias, entidades públicas, organismos, unidades administrativas y demás servidores públicos serán responsables de que los programas se ejecuten con oportunidad, eficiencia y eficacia, atendiendo el mejoramiento de los indicadores para el desarrollo social y humano y enviarán a la Secretaría cuando ésta así lo solicite, los informes del avance programático-presupuestal para su revisión, seguimiento y evaluación, y en el caso de los municipios, a quien los ayuntamientos designen.
+En cumplimiento de los objetivos y metas establecidos en los planes de desarrollo estatal y municipales, los titulares de las Dependencias, Entidades Públicas y demás personas servidoras públicas serán responsables de que los programas se ejecuten con oportunidad, eficiencia y eficacia, atendiendo el mejoramiento de los indicadores para el desarrollo social y humano y enviarán a la Secretaría cuando ésta así lo solicite, los informes del avance programático-presupuestal para su revisión, seguimiento y evaluación, y en el caso de los municipios, a quien los ayuntamientos designen.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 38.
 
-Las dependencias, organismos, entidades públicas, unidades administrativas y servidores públicos, deberán realizar la evaluación a fin de asegurar el cumplimiento de los objetivos y metas, así como la mejora de los indicadores de desarrollo social y humano y, en su caso, emitirán dictamen de reconducción y actualización cuando sea necesaria la modificación o adecuación de la estrategia a la que se refiere el artículo 26 de esta Ley, dictamen que habrán de hacer del conocimiento inmediato de la Secretaría o del ayuntamiento en el ámbito de su competencia, para que a su vez, se reformule el contenido de la estrategia de desarrollo.
+Las Dependencias, Entidades Públicas y personas servidoras públicas, deberán realizar la evaluación a fin de asegurar el cumplimiento de los objetivos y metas, así como la mejora de los indicadores de desarrollo social y humano y, en su caso, emitirán dictamen de reconducción y actualización cuando sea necesaria la modificación o adecuación de la estrategia a la que se refiere el artículo 26 de esta Ley, dictamen que habrán de hacer del conocimiento inmediato de la Secretaría o del ayuntamiento en el ámbito de su competencia, para que a su vez, se reformule el contenido de la estrategia de desarrollo.
 
 ### CAPITULO QUINTO. DE LA COORDINACION Y PARTICIPACION
 
@@ -549,17 +591,21 @@ El comité registrará obligatoriamente y previo a su ejecución, los programas 
 
 En el seno de este Comité se propondrán las adecuaciones y ajustes a los programas federales y estatales, para hacerlos congruentes con los objetivos del Plan Nacional de Desarrollo y de los Planes de Desarrollo del Estado y Municipios.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 41.
 
-Con el propósito de asegurar el cumplimiento de las obligaciones consignadas en los convenios de coordinación y de participación, serán las unidades de información, planeación, programación y evaluación de las dependencias, organismos, entidades públicas, unidades administrativas y servidores públicos involucrados en los convenios respectivos, las encargadas de dar seguimiento y evaluar la ejecución de las acciones derivadas de los mismos.
+Con el propósito de asegurar el cumplimiento de las obligaciones consignadas en los convenios de coordinación y de participación, serán las unidades de información, planeación, programación y evaluación de las Dependencias, Entidades Públicas y personas servidoras públicas involucradas en los convenios respectivos, las encargadas de dar seguimiento y evaluar la ejecución de las acciones derivadas de los mismos.
 
 ###### Artículo 42.
 
 Los convenios a que se refiere el presente capítulo deberán asegurar el fortalecimiento del interés social y garantizar la ejecución de las acciones que de los mismos se desprendan en tiempo, espacio, forma, calidad y cantidad, estableciendo las penas que se deriven de su incumplimiento.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 43.
 
-Los gobiernos estatal y municipales, así como sus dependencias, organismos, entidades públicas, unidades administrativas y servidores públicos al momento de celebrar los convenios a que se refiere el presente capítulo, deberán sujetarse a los objetivos y metas previstos en los programas derivados de los planes de desarrollo y demás disposiciones aplicables.
+Los gobiernos estatal y municipales, así como sus Dependencias, Entidades Públicas, y servidores públicos al momento de celebrar los convenios a que se refiere el presente capítulo, deberán sujetarse a los objetivos y metas previstos en los programas derivados de los planes de desarrollo y demás disposiciones aplicables.
 
 ### CAPITULO SEXTO. DE LOS COMITES DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE MEXICO Y DE LOS MUNICIPIOS
 
@@ -645,7 +691,9 @@ Para que sesione válidamente la Asamblea General en Pleno, se requerirá la pre
 
 Para que sesione válidamente la Asamblea General a través de la Comisión Permanente, se requerirá de la presencia cuando menos del titular, suplente o representante del Presidente, del Coordinador General, del Secretario Técnico, así como cualquier número de titulares suplentes o representantes de los mencionados en las fracciones IV, V, VI, VII, VIII, IX, X y XI del artículo 46 de la presente Ley.
 
-Los acuerdos tomados en el pleno de la Asamblea General del Comité de Planeación para el Desarrollo del Estado de México, o de su Comisión Permanente deberán hacerse del conocimiento de los titulares de las dependencias, organismos, entidades públicas y unidades administrativas involucrados para que procedan a su cumplimiento.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Los acuerdos tomados en el pleno de la Asamblea General del Comité de Planeación para el Desarrollo del Estado de México, o de su Comisión Permanente deberán hacerse del conocimiento de los titulares de las Dependencias y Entidades Públicas involucrados para que procedan a su cumplimiento.
 
 ###### Artículo 48.
 
@@ -697,7 +745,9 @@ La integración y funcionamiento de la Comisión Permanente se establecerá en e
 
 Se constituirán en cada ayuntamiento comités de planeación para el desarrollo municipal "COPLADEMUN", los cuales tendrán las siguientes atribuciones:
 
-I. Participar en la coordinación de las unidades administrativas o servidores públicos municipales con las dependencias, entidades públicas y organismos estatales y federales, en las acciones derivadas de las estrategias estatal y municipales de desarrollo;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. Participar en la coordinación de las unidades administrativas o personas servidoras públicas municipales con las Dependencias y Entidades Públicas estatales y federales, en las acciones derivadas de las estrategias estatal y municipales de desarrollo;
 
 II. Participar en la elaboración de los programas que deriven de los planes municipales de desarrollo;
 
@@ -711,11 +761,13 @@ El Comité de Planeación para el Desarrollo Municipal "COPLADEMUN", deberá est
 
 ### CAPITULO SEPTIMO. RESPONSABILIDADES
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 52.
 
-A los servidores públicos de las administraciones públicas estatal o municipales, que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se deriven, los planes de desarrollo y los programas que de ellos emanen, según corresponda, se les impondrán las sanciones de conformidad con lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios y en otros ordenamientos aplicables.
+A los servidores públicos de las administraciones públicas estatal o municipales, que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se deriven, los planes de desarrollo y los programas que de ellos emanen, según corresponda, se les impondrán las sanciones de conformidad con lo dispuesto en la ley de Responsabilidades Administrativas del Estado de México y Municipios y en otros ordenamientos aplicables.
 
-Los titulares de las dependencias, organismos, entidades públicas y unidades administrativas o servidores públicos de los poderes Legislativo, Ejecutivo y Judicial y de los gobiernos municipales, promoverán ante las autoridades que resulten competentes, la aplicación de las medidas disciplinarias a que se refiere esta disposición.
+Los titulares de las Dependencias y Entidades Públicas o servidores públicos de los poderes Legislativo, Ejecutivo y Judicial y de los gobiernos municipales, promoverán ante las autoridades que resulten competentes, la aplicación de las medidas disciplinarias a que se refiere esta disposición.
 
 ## TRANSITORIOS
 
@@ -992,3 +1044,19 @@ G.G. 28 DE ABRIL DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial "Gaceta del Gobierno" el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
