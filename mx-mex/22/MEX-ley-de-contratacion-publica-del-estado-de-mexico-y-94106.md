@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-contratacion-publica-del-estado-de-mexico-y-94106"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-03"
-last_updated: "2018-12-21"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 3 de mayo de 2013.
 
@@ -53,7 +53,7 @@ Esta Ley tiene por objeto regular los actos relativos a la planeación, programa
 
 I. Las secretarías y las unidades administrativas del Poder Ejecutivo del Estado.
 
-II. La Procuraduría General de Justicia.
+II. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
 III. Los ayuntamientos de los municipios del Estado.
 
@@ -81,7 +81,9 @@ Para los efectos de la presente Ley se entenderá por:
 
 I. COMPRAMEX: Al Sistema Electrónico de Contratación Pública del Estado de México, vinculado al SEITS.
 
-II. Dependencia: A las secretarías y a las unidades administrativas del Poder Ejecutivo del Estado, y a la Procuraduría General de Justicia.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Dependencia: A las secretarías y a las unidades administrativas del Poder Ejecutivo del Estado.
 
 III. Entidades: A los organismos auxiliares y a los fideicomisos públicos, de carácter estatal o municipal.
 
@@ -89,9 +91,13 @@ IV. Estudio de mercado: A la investigación, sustentada en información provenie
 
 V. Propuesta solvente: A la proposición presentada por una persona en un procedimiento de licitación o de invitación restringida, que cumpla con las bases del concurso, garantice el cumplimiento del contrato y considere costos de mercado.
 
-VI. Firma electrónica: A la firma electrónica avanzada en los términos de la Ley para el Uso de Medios Electrónicos.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VII. Ley de Medios Electrónicos: A la Ley para el Uso de Medios Electrónicos del Estado de México.
+VI. Firma electrónica: A la firma electrónica avanzada en los términos de la Ley de Gobierno Digital del Estado de México y Municipios.
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Ley de Gobierno Digital: A la Ley de Gobierno Digital del Estado de México y Municipios.
 
 VIII. Ofertas subsecuentes de descuentos: A la presentación dinámica de descuentos que realizan los postores para mejorar el precio ofertado inicialmente.
 
@@ -99,7 +105,9 @@ IX. Secretaría: A la Secretaría de Finanzas.
 
 X. Subasta inversa electrónica: A la modalidad con base en la cual la administración pública estatal y municipal puede desahogar los procedimientos para la adquisición de bienes y la contratación de servicios a que se refiere la presente Ley, por conducto del COMPRAMEX, a efecto de adjudicarlos a los postores que presenten la oferta económica más favorable, mediante la presentación de ofertas subsecuentes de descuentos.
 
-XI. SEITS: Al Sistema Electrónico de Información, Trámites y Servicios, en los términos de la Ley de Medios Electrónicos.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XI. SEITS: Al Sistema Electrónico de Información, Trámites y Servicios, en los términos de la Ley de Gobierno Digital del Estado de México y Municipios.
 
 XII. Testigo social: Al mecanismo de participación ciudadana por medio del cual se involucra a la sociedad civil en los procedimientos de contratación pública relevantes; procedimientos que, por su complejidad, impacto o monto de recursos, requieren una atención especial para minimizar riesgos de opacidad y de corrupción, en términos del Título Décimo del Libro Primero del Código Administrativo del Estado de México.
 
@@ -269,7 +277,9 @@ Establecerán y operarán también el catálogo de bienes y servicios específic
 
 A fin de conocer la capacidad administrativa, financiera, legal y técnica de las fuentes de suministro, la Secretaría y los ayuntamientos integrarán un catálogo de proveedores y de prestadores de servicios.
 
-Las personas que deseen inscribirse en el catálogo deberán cumplir con los requisitos que establezca el reglamento respectivo. En todo caso, deberán estar inscritos en el Registro Único de Personas Acreditadas del Estado de México, en los términos de la Ley de Medios Electrónicos, los proveedores y prestadores de servicios que deseen participar en los procedimientos que deban desahogarse por conducto del COMPRAMEX.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Las personas que deseen inscribirse en el catálogo deberán cumplir con los requisitos que establezca el reglamento respectivo. En todo caso, deberán estar inscritos en el Registro Único de Personas Acreditadas del Estado de México, en los términos de la Ley de Gobierno Digital, los proveedores y prestadores de servicios que deseen participar en los procedimientos que deban desahogarse por conducto del COMPRAMEX.
 
 La falta de inscripción en dicho catálogo no limitará la libre concurrencia de los interesados a los procedimientos adquisitivos regulados por esta Ley.
 
@@ -455,7 +465,9 @@ VIII. Si es el caso, que el procedimiento de licitación deba desahogarse bajo l
 
 El reglamento de esta Ley establecerá los criterios para la evaluación de las propuestas, así como el procedimiento para los actos de presentación y apertura de propuestas y de fallo.
 
-Dos o más personas podrán presentar, conjuntamente, una propuesta, sin necesidad de constituir una sociedad o una nueva sociedad, en caso de personas jurídica colectivas; para tales efectos, en la propuesta y en el contrato se establecerán, con precisión, las obligaciones de cada una de ellas, así como la manera en que se exigiría su cumplimiento. En este supuesto, la propuesta deberá ser firmada por el representante común que, para ese acto, haya sido designado por el grupo de personas, ya sea autógrafamente o por los medios de identificación electrónica autorizados por la Ley de Medios Electrónicos.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Dos o más personas podrán presentar, conjuntamente, una propuesta, sin necesidad de constituir una sociedad o una nueva sociedad, en caso de personas jurídica (sic) colectivas; para tales efectos, en la propuesta y en el contrato se establecerán, con precisión, las obligaciones de cada una de ellas, así como la manera en que se exigiría su cumplimiento. En este supuesto, la propuesta deberá ser firmada por el representante común que, para ese acto, haya sido designado por el grupo de personas, ya sea autógrafamente o por los medios de identificación electrónica autorizados por la Ley de Gobierno Digital.
 
 Cuando la propuesta conjunta resulte adjudicada con un contrato, dicho instrumento deberá ser firmado por el representante legal de cada uno de los participantes en la proposición, a quienes se considerará, para efectos del procedimiento y del contrato, como responsables solidarios o mancomunados, según se establezca en el propio contrato.
 
@@ -713,9 +725,11 @@ La Secretaría, las entidades, los tribunales administrativos y los ayuntamiento
 
 ### CAPÍTULO OCTAVO. DE LOS CONTRATOS
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 65.
 
-La adjudicación de los contratos derivados de los procedimientos de adquisiciones de bienes o servicios, obligará a la convocante y al licitante ganador a suscribir el contrato respectivo, dentro de los diez días hábiles siguientes al de la notificación del fallo. Los contratos podrán suscribirse mediante el uso de la firma electrónica, en apego a las disposiciones de la Ley de Medios Electrónicos y de su Reglamento.
+La adjudicación de los contratos derivados de los procedimientos de adquisiciones de bienes o servicios, obligará a la convocante y al licitante ganador a suscribir el contrato respectivo, dentro de los diez días hábiles siguientes al de la notificación del fallo. Los contratos podrán suscribirse mediante el uso de la firma electrónica, en apego a las disposiciones de la Ley de Gobierno Digital y de su Reglamento.
 
 ###### Artículo 66.
 
@@ -905,7 +919,9 @@ III. La Secretaría de la Contraloría y a los órganos de control interno, la i
 
 La Secretaría, las dependencias, las entidades, los tribunales administrativos y los ayuntamientos conservarán en sus archivos, en forma ordenada, la documentación comprobatoria de los actos, procedimientos y contratos materia de esta Ley, cuando menos por el lapso de cinco años, contado a partir de la fecha de su celebración.
 
-La información a que se refiere el párrafo anterior, en su caso, podrá conservarse en los términos previstos por la Ley de Medios Electrónicos.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+La información a que se refiere el párrafo anterior, en su caso, podrá conservarse en los términos previstos por la Ley de Gobierno Digital.
 
 ###### Artículo 85.
 
@@ -971,7 +987,9 @@ La inconformidad administrativa se presentará ante la Secretaría de la Contral
 
 Tratándose del procedimiento de licitación o invitación restringida que realicen las autoridades municipales, la inconformidad administrativa se presentará por escrito ante el ayuntamiento correspondiente.
 
-Si la inconformidad se tramita por conducto del SEITS, se estará a lo dispuesto por la Ley de Medios Electrónicos y su Reglamento.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Si la inconformidad se tramita por conducto del SEITS, se estará a lo dispuesto por la Ley de Gobierno Digital y su Reglamento.
 
 ###### Artículo 91.
 
@@ -1116,3 +1134,19 @@ G.G. 21 DE DICIEMBRE DE 2018.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
