@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-101741"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-28"
-last_updated: "2022-09-30"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Código publicado en la Segunda Sección de la Gaceta del Gobierno del Estado de México, el sábado 28 de junio de 2014.
 
@@ -175,11 +175,11 @@ Se entenderá que las acciones u omisiones se basan en elementos de género, cua
 
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-> <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 8.
 
-En lo no previsto por este Código se aplicará, de manera supletoria, la Ley General del Sistema de Medios de Impugnación en Materia Electoral, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, los Códigos Civil y de Procedimientos Civiles del Estado de México y demás disposiciones aplicables, según sea el caso.
+En lo no previsto por este Código se aplicará, de manera supletoria, la Ley General del Sistema de Medios de Impugnación en Materia Electoral, la Ley de Responsabilidades Administrativas del Estado de México y Municipios, los Códigos Civil y de Procedimientos Civiles del Estado de México y demás disposiciones aplicables, según sea el caso.
 
 ## TÍTULO SEGUNDO. De los derechos y las obligaciones de los ciudadanos
 
@@ -443,11 +443,9 @@ d) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 III. Cada partido político, coalición, candidatura común o independiente deberá postular en planilla con fórmulas de propietarios y suplentes la totalidad de candidatos propios, comunes o en coalición para los cargos a elegir, en la que se deberá considerar un cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto, debiendo estar integrada de forma alternada por personas de género distinto. El candidato a Presidente Municipal ocupará el primer lugar en la lista de la planilla; el candidato a síndico ocupará el segundo lugar en dicha lista, y los restantes candidatos a regidor ocuparán los siguientes lugares en la lista, hasta completar el número que corresponda de acuerdo a lo establecido en los incisos a), b) y c) de la fracción II de este artículo.
 
-(NOTA: EL 25 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2016 Y SUS ACUMULADAS 51/2016, 52/2016, 53/2016 Y 54/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
-
-IV. Para tener derecho a participar en la asignación de regidores según el principio de representación proporcional, los partidos políticos deberán acreditar la postulación de planillas completas de candidatos propios, comunes, coalición o independientes, POR LO MENOS, CINCUENTA MUNICIPIOS DEL ESTADO, en las que se deberá considerar un cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto, debiendo estar integrada de forma alternada por personas de género distinto.
+IV. Para tener derecho a participar en la asignación de regidores según el principio de representación proporcional, los partidos políticos deberán acreditar la postulación de planillas completas de candidatos propios, comunes, coalición o independientes, en las que se deberá considerar un cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto, debiendo estar integrada de forma alternada por personas de género distinto.
 
 > <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
 
@@ -1289,9 +1287,13 @@ IV. Rechazar toda clase de apoyo económico, político o propagandístico proven
 
 a) Los poderes Ejecutivo, Legislativo y Judicial de la Federación y de las entidades federativas, y los ayuntamientos, salvo en el caso del financiamiento público establecido en la Constitución y en este Código.
 
-b) Las dependencias, entidades u organismos de la Administración Pública Federal, estatal o municipal, centralizada o paraestatal, y los órganos de gobierno del Distrito Federal.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-c) Los organismos autónomos federales, estatales, municipales y del Distrito Federal.
+b) Las dependencias, entidades u organismos de la Administración Pública Federal, estatal o municipal, centralizada o paraestatal, y los órganos de gobierno de la Ciudad de México.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+c) Los organismos autónomos federales, estatales, municipales y de la Ciudad de México.
 
 d) Los partidos políticos, personas físicas o jurídicas colectivas extranjeras.
 
@@ -1431,9 +1433,11 @@ La presunción de la falsificación de firmas, será atendida por las autoridade
 
 Si la solicitud no reúne el porcentaje requerido se tendrá por no presentada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 125.
 
-Ninguna persona podrá registrarse como candidato a distintos cargos de elección popular en el mismo proceso electoral, tampoco podrá ser candidato de otro estado, municipio o del Distrito Federal. En este supuesto, si el registro para el cargo de la elección estatal ya estuviere hecho, se procederá a su cancelación.
+Ninguna persona podrá registrarse como candidato a distintos cargos de elección popular en el mismo proceso electoral, tampoco podrá ser candidato de otro estado, municipio o de la Ciudad de México. En este supuesto, si el registro para el cargo de la elección estatal ya estuviere hecho, se procederá a su cancelación.
 
 Los candidatos independientes que hayan sido registrados no podrán ser postulados como candidatos por un partido político o coalición en el mismo proceso electoral estatal.
 
@@ -1505,9 +1509,13 @@ VI. Rechazar toda clase de apoyo económico, político o propagandístico proven
 
 a) Los poderes Ejecutivo, Legislativo y Judicial de la Federación, del estado, de las entidades federativas y los ayuntamientos, salvo en el caso del financiamiento público establecido en la Constitución Local y en este Código.
 
-b) Las dependencias, entidades u organismos de la Administración Pública Federal, estatal o municipal, centralizada o paraestatal, y los órganos de gobierno del Distrito Federal.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-c) Los organismos autónomos federales, estatales y del Distrito Federal.
+b) Las dependencias, entidades u organismos de la Administración Pública Federal, estatal o municipal, centralizada o paraestatal, y los órganos de gobierno de la Ciudad de México.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+c) Los organismos autónomos federales, estatales y de la Ciudad de México.
 
 d) Los partidos políticos, personas físicas o jurídicas colectivas extranjeras.
 
@@ -1935,7 +1943,9 @@ IX. No estar inhabilitado para ejercer cargos públicos en cualquier institució
 
 X. No ser ministro de culto religioso.
 
-XI. No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia del gabinete legal o ampliado tanto del gobierno de la Federación, como de las entidades federativas; ni subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser jefe de gobierno del Distrito Federal, ni Gobernador ni Secretario de gobierno o su equivalente a nivel local. No ser presidente municipal, síndico o regidor o titular de dependencia de los ayuntamientos.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XI. No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia del gabinete legal o ampliado tanto del gobierno de la Federación, como de las entidades federativas; ni subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser jefe de gobierno de la Ciudad de México, ni Gobernador ni Secretario de gobierno o su equivalente a nivel local. No ser presidente municipal, síndico o regidor o titular de dependencia de los ayuntamientos.
 
 XII. No ser ni haber sido miembro del servicio profesional electoral nacional durante el último proceso electoral en la entidad.
 
@@ -2175,17 +2185,9 @@ LVI. Cumplir los términos en que habrán de atenderse las funciones delegadas p
 
 LVII. Coordinarse con el vocal ejecutivo de la Junta Estatal del Instituto Nacional Electoral para garantizar el acceso a radio y televisión de los partidos políticos en los periodos de precampaña, campaña y por parte del propio Instituto, en los términos de la legislación aplicable.
 
-(NOTA: EL 25 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2016 Y SUS ACUMULADAS 51/2016, 52/2016, 53/2016 Y 54/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN LVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+LVIII. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
-> <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
-
-LVIII. COADYUVAR CON EL INSTITUTO NACIONAL ELECTORAL EN LOS TÉRMINOS DE LOS CONVENIOS DE COLABORACIÓN CON EL INSTITUTO NACIONAL ELECTORAL, PARA PROMOVER Y VERIFICAR QUE EN LA INTEGRACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA SE REALICE UNA ADECUADA CAPACITACIÓN DE LOS FUNCIONARIOS DESIGNADOS, Y EN SU CASO, IMPLEMENTAR LAS MEDIDAS CONDUCENTES PARA FORTALECER EL PROCEDIMIENTO DE CAPACITACIÓN E INTEGRACIÓN.
-
-(NOTA: EL 25 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2016 Y SUS ACUMULADAS 51/2016, 52/2016, 53/2016 Y 54/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN LIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADA, G.G. 31 DE MAYO DE 2016)</small>
-
-LIX. APROBAR Y EXPEDIR LA NORMATIVIDAD NECESARIA PARA CUMPLIR CON LO MANDATADO POR EL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y LOS LINEAMIENTOS EMITIDOS POR EL INSTITUTO NACIONAL ELECTORAL SOBRE EL PARTICULAR.
+LIX. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
 > <small>(ADICIONADA, G.G. 31 DE MAYO DE 2016)</small>
 
@@ -2211,11 +2213,7 @@ II. Concluido el proyecto, deberá someterse a la consideración del Consejo Gen
 
 El Instituto podrá, con la aprobación de la mayoría de votos del Consejo General, solicitar al Instituto Nacional Electoral la asunción parcial de alguna actividad propia de la función electoral que les corresponde. La solicitud podrá presentarse en cualquier momento del proceso electoral de que se trate y, en su caso, solo tendrá efectos durante el mismo.
 
-(NOTA: EL 25 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2016 Y SUS ACUMULADAS 51/2016, 52/2016, 53/2016 Y 54/2016, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.G. 31 DE MAYO DE 2016)</small>
-
-A MÁS TARDAR EN EL MES DE SEPTIEMBRE DEL AÑO EN QUE INICIE EL PROCESO ELECTORAL, EL INSTITUTO PROMOVERÁ LA FIRMA DE LOS CONVENIOS DE COLABORACIÓN CON EL INSTITUTO NACIONAL ELECTORAL PARA GARANTIZAR EL BUEN DESARROLLO DEL PROCESO.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 > <small>(ADICIONADO, G.G. 31 DE MAYO DE 2016)</small>
 
@@ -2361,7 +2359,9 @@ VIII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal
 
 IX. No ser ministro de culto religioso alguno.
 
-X. No ser titular de alguna Secretaría del Poder Ejecutivo del Estado, ni Procurador General de Justicia, o subsecretario, a menos que se separe de su encargo con dos años de anticipación al día de su nombramiento.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. No ser titular de alguna Secretaría del Poder Ejecutivo del Estado, ni Fiscal General de Justicia, o subsecretario, a menos que se separe de su encargo con dos años de anticipación al día de su nombramiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2437,17 +2437,9 @@ XXXIII. Proponer al Consejo General el nombramiento de los Directores del Instit
 
 XXXIV. Proponer al Consejo General el nombramiento del titular de la Unidad de Informática y Estadística.
 
-(NOTA: EL 25 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2016 Y SUS ACUMULADAS 51/2016, 52/2016, 53/2016 Y 54/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXXV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XXXV. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
-> <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
-
-XXXV. CELEBRAR CONVENIOS CON INSTITUCIONES ACADÉMICAS Y DE EDUCACIÓN SUPERIOR, PARA IMPARTIR Y EVALUAR LAS ACTIVIDADES DE CAPACITACIÓN PARA LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL, EN TÉRMINOS DE LO ESTABLECIDO EN EL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL.
-
-(NOTA: EL 25 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2016 Y SUS ACUMULADAS 51/2016, 52/2016, 53/2016 Y 54/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXXVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADA, G.G. 31 DE MAYO DE 2016)</small>
-
-XXXVI. PROPONER A LA APROBACIÓN DEL CONSEJO GENERAL LA NORMATIVIDAD NECESARIA PARA CUMPLIR CON LO MANDATADO POR EL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y LOS LINEAMIENTOS EMITIDOS POR EL INSTITUTO NACIONAL ELECTORAL, ASÍ COMO, LOS REGLAMENTOS INTERIORES QUE SEAN NECESARIOS PARA EL BUEN FUNCIONAMIENTO DEL INSTITUTO.
+XXXVI. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
 > <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2499,7 +2491,9 @@ XV. Revisar que las adquisiciones de bienes y prestación de servicios, obra pú
 
 XVI. Elaborar el instructivo para la creación y manejo de fondos revolventes.
 
-XVII. Conocer de las responsabilidades administrativas de los servidores del Instituto, en su caso instaurar los procedimientos respectivos y someter a la consideración del Consejo General la resolución respectiva. Asimismo, hacer efectivas las acciones que correspondan, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XVII. Conocer de las responsabilidades administrativas de los servidores del Instituto, en su caso instaurar los procedimientos respectivos y someter a la consideración del Consejo General la resolución respectiva. Asimismo, hacer efectivas las acciones que correspondan, en los términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 XVIII. Ejecutar y, en su caso, verificar se hagan efectivas las sanciones administrativas impuestas a los servidores en términos de las leyes respectivas.
 
@@ -2511,7 +2505,9 @@ XXI. Las demás que le confieren las disposiciones aplicables y las que le encom
 
 Los servidores adscritos a la Contraloría General y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de desempeño de sus facultades, así como de sus actuaciones y observaciones.
 
-El Contralor General del Instituto será designado por el voto de la mayoría de los diputados presentes de la Legislatura del Estado o de la Diputación Permanente. El Contralor General durará en su encargo seis años, pudiendo ser reelecto para un periodo más.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+El Contralor General del Instituto será designado por el voto de las dos terceras partes de los diputados presentes de la Legislatura del Estado. El Contralor General durará en su encargo seis años, pudiendo ser reelecto para un periodo más.
 
 Los órganos, áreas ejecutivas y servidores públicos del Instituto estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente la Contraloría, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que este Código o las demás leyes aplicables les confieren.
 
@@ -2545,7 +2541,9 @@ VIII. Emitir opinión pública que implique prejuzgar sobre un asunto de su cono
 
 IX. Dejar de desempeñar las funciones o las labores que tenga a su cargo.
 
-X. Las previstas, en lo conducente, en el artículo 42 de la ley de Responsabilidades de los Servidores Públicos del Estado y municipios, y
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Las previstas, en lo conducente, en la Ley de Responsabilidades Administrativas del Estado de México y Municipios, y
 
 XI. Las demás que determine este Código o las leyes que resulten aplicables.
 
@@ -2637,11 +2635,7 @@ III. Orientar a las ciudadanas y los ciudadanos para el ejercicio de sus derecho
 
 IV. Cumplir y hacer cumplir las normas y procedimientos del Servicio Nacional Electoral.
 
-(NOTA: EL 25 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2016 Y SUS ACUMULADAS 51/2016, 52/2016, 53/2016 Y 54/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
-
-V. DAR SEGUIMIENTO LOS PROGRAMAS DE RECLUTAMIENTO, CAPACITACIÓN, EVALUACIÓN Y SELECCIÓN DE LOS ASPIRANTES A INGRESAR AL SERVICIO NACIONAL ELECTORAL.
+V. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
 > <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -3119,11 +3113,7 @@ VI. No tener parentesco en línea directa con candidatos registrados en la elecc
 
 VII. No ser delegado municipal o miembro directivo de los consejos de participación ciudadana.
 
-(NOTA: EL 25 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2016 Y SUS ACUMULADAS 51/2016, 52/2016, 53/2016 Y 54/2016, DECLARÓ LA INVALIDEZ DEL PENÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
-
-LOS CONSEJOS DISTRITALES O MUNICIPALES ELECTORALES, SE COORDINARÁN CON LOS CONSEJOS DISTRITALES CORRESPONDIENTES DEL INSTITUTO NACIONAL ELECTORAL, A FIN DE QUE LOS CIUDADANOS DESIGNADOS PARA INTEGRAR LAS MESAS DIRECTIVAS DE CASILLA RECIBAN, CON LA ANTICIPACIÓN DEBIDA, AL DÍA DE LA ELECCIÓN, LA CAPACITACIÓN ADECUADA PARA EL DESEMPEÑO DE SUS FUNCIONES, LA CUAL ESTARÁ A CARGO DE LAS JUNTAS CORRESPONDIENTES.
+> <small>(DEROGADO QUINTO PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 En los cursos de capacitación a los integrantes de las mesas directivas de casilla, deberá incluirse la explicación relativa a los observadores electorales, en particular sus derechos y obligaciones.
 
@@ -3581,11 +3571,7 @@ En la propaganda política o electoral que realicen los partidos políticos, las
 
 Los partidos políticos, las coaliciones y los candidatos, tienen prohibido incluir en su propaganda electoral, cualquier tipo de calumnia que denigre a candidatos independientes, partidos políticos, coaliciones, instituciones o terceros.
 
-(NOTA: EL 25 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2016 Y SUS ACUMULADAS 51/2016, 52/2016, 53/2016 Y 54/2016, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
-
-EN CASO DE INCUMPLIMIENTO A LO DISPUESTO EN EL PÁRRAFO ANTERIOR, SI EL CONSEJO GENERAL ESTIMA QUE PUEDEN AFECTARSE LOS PRINCIPIOS RECTORES DE LOS PROCESOS ELECTORALES LOCALES, PODRÁ ORDENAR A LOS PARTIDOS POLÍTICOS, COALICIONES O CANDIDATOS COMUNES E INDEPENDIENTES LA MODIFICACIÓN O SUSTITUCIÓN DE LOS CONTENIDOS DE LOS MENSAJES QUE TRANSMITAN POR RADIO Y TELEVISIÓN.
+> <small>(DEROGADO SEXTO PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 Los partidos políticos, candidatos y precandidatos podrán ejercer el derecho de réplica a que se refiere el artículo 5 de la Constitución Local, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercerá sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regula la materia de imprenta y de las disposiciones civiles y penales aplicables.
 
@@ -3607,9 +3593,9 @@ La Legislatura determinará los programas sociales que por su naturaleza, objeto
 
 El Órgano Superior de Fiscalización, la Secretaría de la Contraloría, las contralorías de los Poderes Legislativo y Judicial, las de los organismos autónomos y las de los ayuntamientos, sancionarán el incumplimiento de lo dispuesto en este artículo, conforme a sus respectivas competencias.
 
-> <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-La infracción a las disposiciones previstas en este artículo será sancionada conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y sus Municipios y demás leyes aplicables, con la obligación de todo aquel que conozca de ilícitos, de denunciar los delitos que se cometan en materia electoral.
+La infracción a las disposiciones previstas en este artículo será sancionada conforme a lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de México y Municipios y demás leyes aplicables, con la obligación de todo aquel que conozca de ilícitos, de denunciar los delitos que se cometan en materia electoral.
 
 Una vez integrado el expediente de queja o investigación correspondiente, en el que se concluya la posible actualización de las infracciones a las normas señaladas en este artículo, en su caso, el Instituto denunciará los hechos, solicitará el retiro o suspensión de la propaganda relativa, la instauración del procedimiento de responsabilidades, y la aplicación de las sanciones administrativas que correspondan.
 
@@ -4957,11 +4943,7 @@ VII. Enviar copia certificada del expediente al Secretario Ejecutivo del Institu
 
 Tendrán derecho a participar en la asignación de regidores y, en su caso, sindico de representación proporcional, los partidos políticos, las candidaturas comunes o coaliciones que cumplan los requisitos siguientes:
 
-(NOTA: EL 25 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2016 Y SUS ACUMULADAS 51/2016, 52/2016, 53/2016 Y 54/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
-
-I. HABER REGISTRADO PLANILLAS PROPIAS, COMUNES O EN COALICIÓN EN POR LO MENOS CINCUENTA MUNICIPIOS DEL ESTADO.
+I. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
 II. Haber obtenido en el municipio correspondiente, al menos el 3% de la votación válida emitida.
 
@@ -5117,7 +5099,9 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 V. Haber residido en el país y en el Estado de México, durante un año anterior al día de la designación.
 
-VI. No haber ocupado el cargo de Gobernador, Secretario, Procurador, Senador, Diputado Federal o Local, durante los cuatro años previos al día de su nombramiento.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. No haber ocupado el cargo de Gobernador, Secretario, Fiscal, Senador, Diputado Federal o Local, durante los cuatro años previos al día de su nombramiento.
 
 VII. Contar con credencial para votar con fotografía.
 
@@ -5225,7 +5209,9 @@ Para la tramitación, integración y sustanciación de los medios de impugnació
 
 El Secretario General de Acuerdos, los secretarios y proyectistas estarán impedidos para desempeñar cualquier otro empleo, cargo o comisión de la Federación, del Estado, de los municipios, de los partidos o de los particulares, excepto los de carácter docente. También estarán impedidos para ejercer su profesión, salvo en causa propia.
 
-Los servidores del Tribunal Electoral serán sujetos del régimen de responsabilidades que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Los servidores del Tribunal Electoral serán sujetos del régimen de responsabilidades que establece la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 El Tribunal Electoral determinará las condiciones generales de trabajo en que habrán de prestarse los servicios, tomando en consideración la naturaleza de la materia electoral y lo relativo a percepciones, prestaciones, gratificaciones, indemnizaciones, liquidaciones y finiquitos que conforme a la ley laboral corresponda. En todo caso, el reglamento correspondiente deberá respetar las garantías establecidas en el apartado B del artículo 123 de la Constitución Federal.
 
@@ -5399,7 +5385,9 @@ XIV. Aplicar las acciones administrativas y legales que deriven de los resultado
 
 XV. Revisar que las adquisiciones de bienes, prestación de servicios y obra pública, se ajusten a los procedimientos normativos y a los montos autorizados.
 
-XVI. Conocer de las responsabilidades administrativas de los servidores del Tribunal Electoral, someter a la consideración del Pleno la resolución respectiva y hacer efectivas las acciones que correspondan, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XVI. Conocer de las responsabilidades administrativas de los servidores del Tribunal Electoral, someter a la consideración del Pleno la resolución respectiva y hacer efectivas las acciones que correspondan, en los términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 XVII. Ejecutar y, en su caso, verificar se hagan efectivas las sanciones administrativas impuestas a los servidores en términos de las leyes respectivas.
 
@@ -7467,7 +7455,9 @@ IV. Informe del Presidente del Consejo Distrital sobre el desarrollo del proceso
 
 Si al término del cómputo distrital se establece que la diferencia entre el “SÍ” y “NO” es igual o menor a un punto porcentual, el Consejo Distrital deberá realizar el recuento de votos en la totalidad de las casillas, a solicitud del peticionario correspondiente, en los siguientes términos:
 
-I. El Gobernador, a través de la Consejería Jurídica del Ejecutivo Estatal.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. La Gobernadora o Gobernador, a través de la Secretaría de Justicia y Derechos Humanos.
 
 II. Los legisladores, a través del Presidente de la Directiva.
 
@@ -7798,3 +7788,19 @@ G.G. 30 DE SEPTIEMBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
