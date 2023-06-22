@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-expropiacion-para-el-estado-de-mexico-6022"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-17"
-last_updated: "2017-09-29"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 1996.
 
@@ -225,7 +223,9 @@ VI. La autoridad o persona que deberá realizar el pago de la indemnización;
 
 VII. El tiempo máximo en el que se deberá destinar el bien expropiado a la causa de utilidad pública respectiva, una vez que se tenga la posesión de éste; y
 
-VIII. La orden de publicación del decreto expropiatorio en la Gaceta del Gobierno y de la notificación personal al afectado y por oficio al solicitante.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VIII. La orden de publicación del decreto expropiatorio en el Periódico Oficial "Gaceta del Gobierno" y de la notificación personal al afectado y por oficio al solicitante.
 
 ###### Artículo 12.
 
@@ -315,15 +315,17 @@ Si el titular de la propiedad expropiada está de acuerdo con el monto de la ind
 
 Cuando el titular del bien expropiado se rehúse a recibir el importe del pago de la indemnización, se le notificará que ésta queda a su disposición en la Secretaría de Finanzas donde podrá ser reclamada en un plazo de 5 años a partir de ser notificado. Si en este plazo no es reclamada ésta pasará a beneficio del Estado y éste podrá disponer de la misma libremente y sin responsabilidad.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 20.
 
-Cuando haya controversia respecto al valor del bien mueble expropiado, el expediente se turnará a la Secretaría de Justicia y Derechos Humanos, la que representará al Ejecutivo ante el Tribunal de lo Contencioso Administrativo en el juicio pericial en que se determine el valor definitivo.
+Cuando haya controversia respecto al valor del bien mueble expropiado, el expediente se turnará a la Secretaría de Justicia y Derechos Humanos, la que representará al Ejecutivo ante el Tribunal de Justicia Administrativa del Estado de México en el juicio pericial en que se determine el valor definitivo.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 21.
 
-Para el caso del artículo anterior, el Tribunal de lo Contencioso Administrativo, fijará a las partes el plazo de cinco días hábiles para que designen a sus peritos, apercibiéndolos que de no hacerlo, se desechará de plano la inconformidad. Si el afectado presentara perito y el Estado no, el valor señalado en el decreto se tomará como peritaje por parte del Estado.
+Para el caso del artículo anterior, el Tribunal de Justicia Administrativa del Estado de México, fijará a las partes el plazo de cinco días hábiles para que designen a sus peritos, apercibiéndolos que, de no hacerlo, se desechará de plano la inconformidad. Si el afectado presentara perito y el Estado no, el valor señalado en el decreto se tomará como peritaje por parte del Estado.
 
 (REFORMADO, G.G. 30 DE DICIEMBRE DE 2008) (F. DE E., G.G. 27 DE ENERO DE 2009)
 
@@ -359,9 +361,9 @@ a) El bien expropiado no es destinado a la causa de utilidad pública dentro del
 
 b) Se le dé un uso distinto al bien expropiado.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-Aprobada la reversión del bien, el afectado deberá reintegrar a la Tesorería del Estado el monto pagado como indemnización, a valor actualizado. La Secretaría de Justicia y Derechos Humanos ordenará la devolución del bien y la cancelación de su inscripción en el Instituto de la Función Registral del Estado de México, y en el Registro Administrativo de la Propiedad Pública.
+Aprobada la reversión del bien, el afectado deberá reintegrar a la Secretaría de Finanzas del Gobierno del Estado el monto pagado como indemnización, a valor actualizado. La Secretaría de Justicia y Derechos Humanos ordenará la devolución del bien y la cancelación de su inscripción en el Instituto de la Función Registral del Estado de México, y en el Registro Administrativo de la Propiedad Pública.
 
 ###### Artículo 28.
 
@@ -373,13 +375,17 @@ II. Los hechos en que se sustente; y
 
 III. Las pruebas que se ofrezcan para acreditar el incumplimiento del decreto expropiatorio, con excepción de la confesional de posiciones de los titulares de las dependencias públicas.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 29.
 
-La reversión deberá promoverse ante la autoridad expropiante y la resolución que la niegue podrá impugnarse ante el Tribunal de lo Contencioso Administrativo.
+La reversión deberá promoverse ante la autoridad expropiante y la resolución que la niegue podrá impugnarse ante el Tribunal de Justicia Administrativa del Estado de México.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 30.
 
-Si la resolución del Tribunal de lo Contencioso Administrativo es favorable al propietario, éste deberá restituir a quien corresponda, el importe de la indemnización que se le hubiere pagado y se cancelará la inscripción del decreto expropiatorio en el Registro Público de la Propiedad, tratándose de inmuebles.
+Si la resolución del Tribunal de Justicia Administrativa del Estado de México es favorable al propietario, éste deberá restituir a quien corresponda, el importe de la indemnización que se le hubiere pagado y se cancelará la inscripción del decreto expropiatorio en el Registro Público de la Propiedad, tratándose de inmuebles.
 
 ###### Artículo 31.
 
@@ -389,11 +395,11 @@ Si el propietario no ejercita su derecho a la reversión dentro del plazo a que 
 
 ### CAPITULO III. DE LOS MEDIOS DE IMPUGNACION
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 32.
 
-En contra del decreto expropiatorio los afectados podrán interponer el recurso de inconformidad o juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+En contra del decreto expropiatorio los afectados podrán interponer el recurso de inconformidad o juicio ante el Tribunal de Justicia Administrativa del Estado de México, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
 ###### Artículo 33.
 
@@ -598,3 +604,19 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
