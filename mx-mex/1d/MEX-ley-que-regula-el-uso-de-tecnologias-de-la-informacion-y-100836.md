@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-el-uso-de-tecnologias-de-la-informacion-y-100836
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-14"
-last_updated: "2016-12-20"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA EL USO DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN PARA LA SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 14 de mayo de 2014.
 
@@ -63,11 +63,17 @@ V. Establecer las bases para la estandarización u homologación de los equipos 
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Centro de Control, Comando, Cómputo y Comunicaciones: Conjunto de recursos humanos y de herramientas tecnológicas modernas, que facilitan el rápido acceso a los usuarios de seguridad pública.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-II. Centros de Mando Municipal: A las áreas que se encargan de operar el sistema de emergencia 066, la consulta de la base de datos, así como de administrar y controlar el sistema de videovigilancia municipal.
+I. Centro de Control, Comando, Comunicación, Cómputo y Calidad: Conjunto de recursos humanos y de herramientas tecnológicas modernas, que facilitan el rápido acceso a los usuarios de seguridad pública.
 
-III. Centros de Mando Regional: A las áreas que se encargan de administrar y operar el sistema de emergencia 066, la consulta de la base de datos, así como administrar y controlar el sistema de videovigilancia regional.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Centros de Mando Municipal: A las áreas que se encargan de operar el sistema de emergencia 911, la consulta de la base de datos, así como de administrar y controlar el sistema de videovigilancia municipal.
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Centros de Mando Regional: A las áreas que se encargan de administrar y operar el sistema de emergencia 911, la consulta de la base de datos, así como administrar y controlar el sistema de videovigilancia regional.
 
 IV. Consejo Estatal: Consejo Estatal de Seguridad Pública.
 
@@ -81,21 +87,29 @@ VIII. Inteligencia para la Prevención: Conocimiento obtenido a partir del acopi
 
 IX. Ley: Ley que Regula el Uso de Tecnologías de la Información y Comunicación para la Seguridad Pública del Estado de México.
 
-X. Ley de Protección: Ley de Protección de Datos Personales del Estado de México.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Ley de Protección: Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de México y Municipios.
 
 XI. Ley de Seguridad: Ley de Seguridad del Estado de México.
 
 XII. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
-XIII. Procuraduría: Procuraduría General de Justicia del Estado de México.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XIV. Permisionarios de Servicios de Seguridad Privada: Son las personas físicas o jurídicas colectivas que prestan los servicios de seguridad privada.
+XIII. Fiscalía: Fiscalía General de Justicia del Estado de México.
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XIV. Prestadores de Servicios: Son las personas físicas o jurídicas colectivas que prestan los servicios de seguridad privada.
 
 XV. Registro: Registro de Equipos y Sistemas Tecnológicos para la Seguridad Pública.
 
 XVI. Reglamento: Reglamento de la Ley que Regula el Uso de Tecnologías de la Información y Comunicación para la Seguridad Pública del Estado de México.
 
-XVII. Secretaría: Secretaría de Seguridad Ciudadana del Estado de México.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XVII. Secretaría: Secretaría de Seguridad.
 
 XVIII. Secretariado Ejecutivo: Secretariado Ejecutivo del Sistema Estatal.
 
@@ -131,11 +145,15 @@ La Secretaría tendrá las siguientes funciones:
 
 I. Proponer, coordinar y ejecutar la implementación de las acciones derivadas de las disposiciones que en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen la presente Ley y el Reglamento.
 
-II. Coordinarse con la Procuraduría o la autoridad municipal para la instalación de equipos y sistemas tecnológicos.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Coordinarse con la Fiscalía o la autoridad municipal para la instalación de equipos y sistemas tecnológicos.
 
 III. Emitir el dictamen correspondiente de los equipos y sistemas tecnológicos en materia de seguridad pública.
 
-IV. Operar, administrar y actualizar el Registro de Tecnologías a través del Centro de Control, Comando, Cómputo y Comunicaciones.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Operar, administrar y actualizar el Registro de Tecnologías a través del Centro de Control, Comando, Comunicación, Cómputo y Calidad;
 
 V. Clasificar, resguardar y registrar la información captada por los equipos y sistemas tecnológicos en los términos establecidos por la presente Ley, la Ley de Seguridad, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables.
 
@@ -167,13 +185,17 @@ El Secretariado Ejecutivo, a través del Centro de Información y Estadística, 
 
 Corresponde a la Secretaría proponer, coordinar y ejecutar la implementación de las acciones derivadas de las disposiciones que en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen la presente Ley, la Ley de Seguridad, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 9.
 
-Corresponde a la Procuraduría y a los ayuntamientos proponer y ejecutar las acciones derivadas de las disposiciones que en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen la presente Ley, la Ley de Seguridad, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables.
+Corresponde a la Fiscalía y a los ayuntamientos proponer y ejecutar las acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen la presente Ley, la Ley de Seguridad, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 10.
 
-Los Permisionarios de Servicios de Seguridad Privada, coadyuvarán, en su carácter de auxiliares, a la seguridad pública en situaciones de emergencia, desastre o cuando así lo solicite la autoridad estatal o municipal, en los términos establecidos por la presente Ley, la Ley de Seguridad, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables.
+Los prestadores de servicios coadyuvarán, en su carácter de auxiliares, a la seguridad pública en situaciones de emergencia, desastre o cuando así lo solicite la autoridad estatal o municipal, en los términos establecidos por la presente Ley, la Ley de Seguridad, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables.
 
 ###### Artículo 11.
 
@@ -213,7 +235,9 @@ También queda prohibida la colocación de propaganda, mantas, lonas, carteles, 
 
 Las instancias interesadas bajo su operación, resguardo y presupuesto, podrán solicitar a la Secretaría, de conformidad con lo establecido en el artículo 9 de la presente Ley, la instalación de equipos y sistemas tecnológicos para la seguridad pública en los bienes de uso común del Estado de México:
 
-I. El Titular de la Procuraduría, a propuesta de los subprocuradores, fiscales regionales y especiales, así como del Comisario General de la Policía Ministerial.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. El Titular de la Fiscalía, a propuesta de los subprocuradores, fiscales regionales y especiales, así como del Comisario General de la Policía de Investigación.
 
 II. Las dependencias de la Administración Pública del Estado de México que justifiquen la necesidad de su instalación, para prevenir situaciones de emergencia o desastre e incrementar la seguridad pública.
 
@@ -227,7 +251,9 @@ Son criterios para la instalación y operación de equipos y sistemas tecnológi
 
 I. Zonas escolares, recreativas y lugares de mayor afluencia de público, turismo o comercio.
 
-II. Las áreas públicas de zonas, colonias y demás lugares de concentración o afluencia de personas o tránsito de las mismas, registradas con mayor incidencia delictiva en la estadística criminal de las instituciones de seguridad pública, de los municipios o de los sistemas de emergencia 066 y de denuncia anónima 089.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Las áreas públicas de zonas, colonias y demás lugares de concentración o afluencia de personas o tránsito de las mismas, registradas con mayor incidencia delictiva en la estadística criminal de las instituciones de seguridad pública, de los municipios o de los sistemas de emergencia 911 y de denuncia anónima 089.
 
 III. Las colonias, manzanas, avenidas, calles y demás lugares que registren los delitos de mayor impacto para la sociedad.
 
@@ -245,17 +271,23 @@ VIII. Las zonas registradas con mayor incidencia de infracciones administrativas
 
 La solicitud de instalación o retiro, se hará por escrito, dirigida a la Secretaría o a la autoridad municipal correspondiente, quienes determinarán lo conducente en términos de la presente Ley y el reglamento.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 17.
 
-La información generada por la utilización de los equipos y sistemas tecnológicos, en poder de la Secretaría, los ayuntamientos o los permisionarios de servicios de seguridad privada, deberá ser preservada en la forma y plazos dispuestos en el Reglamento, especialmente la que sea utilizada en los casos previstos en el artículo 25 de esta Ley.
+La información generada por la utilización de los equipos y sistemas tecnológicos, en poder de la Secretaría, los ayuntamientos o los prestadores de servicios, deberá ser preservada en la forma y plazos dispuestos en el Reglamento, especialmente la que sea utilizada en los casos previstos en el artículo 25 de esta Ley.
 
-### CAPÍTULO IV. DE LOS CENTROS DE CONTROL, COMANDO, CÓMPUTO Y COMUNICACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO IV. DE LOS CENTROS DE CONTROL, COMANDO, COMUNICACIÓN, COMPUTO Y CALIDAD
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 18.
 
-El Gobierno del Estado de México, a través de la Secretaría, regulará el Centro de Control, Comando, Cómputo y Comunicaciones, así como los centros de Mando Regional y Municipal, para el manejo de la información obtenida con equipos y sistemas tecnológicos, los cuales estarán controlados, operados y sujetos de conformidad con lo establecido en la presente Ley, su Reglamento, la Ley de Seguridad y demás disposiciones aplicables.
+El Gobierno del Estado de México, a través de la Secretaría, regulará el Centro de Control, Comando, Comunicación, Cómputo y Calidad, así como los centros de Mando Regional y Municipal, para el manejo de la información obtenida con equipos y sistemas tecnológicos, los cuales estarán controlados, operados y sujetos de conformidad con lo establecido en la presente Ley, su Reglamento, la Ley de Seguridad y demás disposiciones aplicables.
 
-Los centros de Mando Municipal deberán estar en coordinación con la Secretaría, a través del Centro de Control, Comando, Cómputo y Comunicaciones, por lo que su operación se regirá por las políticas y estándares que ésta establezca.
+Los centros de Mando Municipal deberán estar en coordinación con la Secretaría, a través del Centro de Control, Comando, Comunicación, Cómputo y Calidad, por lo que su operación se regirá por las políticas y estándares que ésta establezca.
 
 ###### Artículo 19.
 
@@ -277,13 +309,17 @@ Toda persona tiene derecho a que se le informe en qué lugares se realizarán la
 
 ### CAPÍTULO V. DEL SISTEMA DE EMERGENCIA Y DE DENUNCIA ANÓNIMA
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 22.
 
-Los sistemas de emergencia 066 y de denuncia anónima 089, operarán con un número único para la atención a la ciudadanía. El Centro de Control, Comando, Cómputo y Comunicaciones, establecerá las políticas necesarias para la administración, operación y evaluación de los mismos, a efecto de unificar y difundir entre la población los dígitos de acceso, debiendo los municipios alinearse a tales disposiciones conforme a lo dispuesto en el Reglamento.
+Los sistemas de emergencia y de denuncia anónima 089, operarán el 911 como número único para la atención a la ciudadanía. El Centro de Control, Comando, Comunicación, Cómputo y Calidad, establecerá las políticas necesarias para la administración, operación y evaluación de los mismos, a efecto de unificar y difundir entre la población los dígitos de acceso, debiendo los municipios alinearse a tales disposiciones conforme a lo dispuesto en el Reglamento.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 23.
 
-El sistema de emergencia 066, es un número gratuito de atención telefónica, diseñado para recibir las llamadas de emergencia de la ciudadanía, que contará con personal altamente capacitado laborando las 24 horas los 365 días del año y es el medio de canalización directa entre el usuario y las corporaciones de auxilio.
+El sistema de emergencia 911, es un número gratuito de atención telefónica, diseñado para recibir las llamadas de emergencia de la ciudadanía, que contará con personal altamente capacitado laborando las 24 horas los 365 días del año y es el medio de canalización directa entre el usuario y las corporaciones de auxilio.
 
 ###### Artículo 24.
 
@@ -299,11 +335,15 @@ Las Instituciones de Seguridad Pública, implementarán los métodos de clasific
 
 La Administración Pública Estatal deberá contar con dictámenes técnicos en la adquisición de equipo para telecomunicaciones, cómputo, software y servicios relacionados con éstos, emitidos por la Secretaría de Finanzas a través del Sistema Estatal de Informática.
 
-Para el aprovechamiento y actualización de los equipos y sistemas tecnológicos de la Administración Pública Estatal y Municipal en materia de Seguridad Pública, la Secretaría, a través del Centro de Control, Comando, Cómputo y Comunicaciones, será la encargada de dictaminar las especificaciones técnicas de los bienes a adquirir en los procesos de adquisición, con el fin de fortalecer y hacer eficientes los mecanismos de coordinación.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Para el aprovechamiento y actualización de los equipos y sistemas tecnológicos de la Administración Pública Estatal y Municipal en materia de Seguridad Pública, la Secretaría, a través de su unidad administrativa competente, será la encargada de dictaminar las especificaciones técnicas de los bienes a adquirir en los procesos de adquisición, con el fin de fortalecer y hacer eficientes los mecanismos de coordinación.
 
 Los municipios deberán solicitar el dictamen técnico a la Secretaría y cumplir con los lineamientos de operación que se establezcan para tal efecto.
 
-Cuando se trate de equipos y sistemas tecnológicos necesarios para la procuración de justicia, la emisión del dictamen técnico corresponderá a la Procuraduría.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Cuando se trate de equipos y sistemas tecnológicos necesarios para la procuración de justicia, la emisión del dictamen técnico corresponderá a la Fiscalía.
 
 ###### Artículo 27.
 
@@ -335,15 +375,19 @@ Los particulares previa autorización de la Secretaría, podrán conectar sus eq
 
 Toda información obtenida con equipos o sistemas tecnológicos de particulares conectados al sistema implementado por la Secretaría, deberá recibir el tratamiento establecido en la presente Ley y su Reglamento, la Ley de Seguridad, la Ley de Transparencia y la Ley de Protección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 30.
 
-Los permisionarios de servicios de seguridad privada en el Estado de México que utilicen tecnología a través de la cual se capte información, tendrán las obligaciones siguientes:
+Los prestadores de servicios en el Estado de México que utilicen tecnología a través de la cual se capte información, tendrán las obligaciones siguientes:
 
 I. Inscribir en el Registro, así como en el Registro Estatal de Empresas de Seguridad Privada, la utilización de estos sistemas tecnológicos en materia de seguridad pública.
 
 II. Proporcionar a la Secretaría, en un plazo de cinco días hábiles contados a partir del momento en que se registró un hecho delictuoso o falta administrativa, copia fiel de la información obtenida con sus sistemas tecnológicos, y que se relacione con lo establecido en el artículo 25 de la presente Ley, así como un informe emitido por el permisionario, bajo protesta de decir verdad, en el que se mencionen las circunstancias en que se captó dicha información, el tramo de la grabación, cinta o cualquier otro medio electrónico en el que se aprecian esos hechos y una descripción de los mismos.
 
-No tendrán esta obligación los permisionarios de servicios de seguridad privada que obtengan información con los equipos y sistemas tecnológicos registrados ante la Secretaría y que capten hechos probablemente constitutivos de delito o conducta antisocial, perseguibles solo por querella de parte ofendida.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+No tendrán esta obligación los prestadores de servicios que obtengan información con los equipos y sistemas tecnológicos registrados ante la Secretaría y que capten hechos probablemente constitutivos de delito o conducta antisocial, perseguibles solo por querella de parte ofendida.
 
 ###### Artículo 31.
 
@@ -460,3 +504,19 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
