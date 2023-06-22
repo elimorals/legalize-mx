@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-apoyo-a-migrantes-del-estado-de-mexico-109696"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-29"
-last_updated: "2020-07-27"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE APOYO A MIGRANTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 29 de junio de 2015.
 
@@ -111,13 +111,17 @@ VI. Las demás que establezcan otros ordenamientos o disposiciones aplicables.
 
 La Coordinación de Asuntos Internacionales es la unidad administrativa del Gobierno del Estado, cuyo objetivo es coordinar con las distintas dependencias del Gobierno Estatal, los proyectos y programas de cooperación con los organismos internacionales acreditados en México y el exterior, así como promover los programas de apoyo permanente a migrantes, que para los efectos de esta Ley, tendrá las atribuciones siguientes:
 
-I. Coordinar el análisis, gestión y firma de los acuerdos estatales de cooperación internacional y ofrecer apoyo a los municipios que lo soliciten en materia de apoyo al migrante.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. Promover convenios con organizaciones de la sociedad civil nacional e internacional y dependencias u organismos auxiliares de los distintos órdenes de gobierno, para la generación y ejecución de programas en materia de atención y protección a los migrantes, sus familias y su patrimonio.
 
 II. Mantener comunicación con las sedes diplomáticas de México en el exterior y de países extranjeros y organismos multilaterales acreditadas en nuestro país, a fin de promover programas y proyectos de apoyo al migrante.
 
 III. Impulsar en colaboración con las dependencias del Gobierno del Estado de México, políticas de promoción y programas de protección al migrante.
 
-IV. Ofrecer servicios de apoyo a las familias de migrantes y promover proyectos de infraestructura básica y desarrollo productivo en sus comunidades de origen.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Ofrecer servicios de apoyo a las familias de migrantes y proponer la creación de programas que tengan como finalidad el apoyo y protección a los migrantes, a sus familias y a su patrimonio.
 
 V. Prestar servicios de apoyo a migrantes radicados en el extranjero, considerando criterios de gratuidad fundada en las condiciones socioeconómicas de los usuarios.
 
@@ -208,3 +212,19 @@ G.G. 27 DE JULIO DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
