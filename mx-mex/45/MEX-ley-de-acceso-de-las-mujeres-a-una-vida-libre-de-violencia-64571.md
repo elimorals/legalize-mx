@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2023-05-26"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -43,21 +43,23 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
 ### CAPÍTULO ÚNICO. NATURALEZA Y OBJETO DE LA LEY
 
-> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general y obligatoria en todo el Estado de México y tiene por objeto establecer la coordinación entre el Gobierno del Estado y los gobiernos municipales, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como establecer las políticas y acciones gubernamentales para garantizar el acceso de las mujeres a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, que garanticen el desarrollo integral de las mujeres.
+La presente Ley es de orden público, interés social y de observancia general y obligatoria en todo el Estado de México y tiene por objeto establecer la coordinación entre el Gobierno del Estado y los gobiernos municipales, para prevenir, atender, sancionar y erradicar la violencia contra las niñas, adolescentes y mujeres así como establecer las políticas y acciones gubernamentales para garantizar el acceso de las mujeres a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, que garanticen el desarrollo integral de las niñas, adolescentes y mujeres.
 
 ###### Artículo 2.
 
 Los objetivos específicos de esta Ley son:
 
-I. Coordinar la política gubernamental de las dependencias e instituciones del Estado de México en coadyuvancia con los gobiernos municipales y los organismos autónomos para garantizar a las mujeres, desde una perspectiva de género, el acceso a una vida libre de violencia a través de acciones y medidas integrales de prevención, atención, sanción y erradicación de la violencia de género contra las mujeres y las niñas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+I. Coordinar la política gubernamental de las dependencias e instituciones del Estado de México en coadyuvancia con los gobiernos municipales y los organismos autónomos para garantizar a las mujeres, desde una perspectiva de género, el acceso a una vida libre de violencia a través de acciones y medidas integrales de prevención, atención, sanción y erradicación de la violencia de género contra las niñas, adolescentes y mujeres;
 
-II. Transformar las condiciones políticas, sociales, económicas y culturales que justifican, alientan y reproducen la violencia de género contra las niñas, adolescentes y mujeres para generar mecanismos institucionales de aplicación de políticas de gobierno integrales que garanticen el respeto y el ejercicio de sus derechos humanos, de conformidad con la legislación nacional, así como de los instrumentos internacionales en la materia aprobados por nuestro país, y para impulsar y consolidar la atención integral y la generación de oportunidades de manera igualitaria para todas las niñas y adolescentes.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Transformar las condiciones políticas, sociales, económicas y culturales que justifican, alientan y reproducen la violencia de género contra las niñas, adolescentes y mujeres para generar mecanismos institucionales de aplicación de políticas de gobierno integrales que garanticen el respeto y el ejercicio de sus derechos humanos, de conformidad con la legislación nacional, así como de los instrumentos internacionales en la materia aprobados por nuestro país, y para impulsar y consolidar la atención integral y la generación de oportunidades de manera igualitaria para todas las niñas, adolescentes y mujeres;
 
 > <small>(REFORMADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
 
@@ -67,15 +69,17 @@ III. Garantizar la protección institucional especializada para las mujeres víc
 
 IV. Asegurar el acceso pronto, expedito, transparente y eficaz de la justicia para las mujeres víctimas u ofendidos de violencia de género tanto desde los ámbitos de la procuración, como de la impartición de justicia;
 
-> <small>(REFORMADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-V. Establecer, promover, difundir y ejecutar la política integral de gobierno para la prevención de la violencia contra las mujeres y las niñas, de igual forma se promoverán las acciones del gobierno del Estado de México, para la atención de las víctimas u ofendidos de cualquier tipo o modalidad de violencia de género, así como de la sanción y la reeducación de las personas agresoras;
+V. Establecer, promover, difundir y ejecutar la política integral de gobierno para la prevención de la violencia contra las niñas, adolescentes y mujeres de igual forma se promoverán las acciones del gobierno del Estado de México, para la atención de las víctimas u ofendidos de cualquier tipo o modalidad de violencia de género, así como de la sanción y la reeducación de las personas agresoras;
 
-> <small>(REFORMADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VI. Favorecer la recuperación y la construcción del pleno goce de los Derechos Humanos para las mujeres y las niñas víctimas de violencia de género u ofendidos, y
+VI. Favorecer la recuperación y la construcción del pleno goce de los Derechos Humanos para las niñas, adolescentes y mujeres víctimas de violencia de género u ofendidos, y
 
-VII. Asegurar la concurrencia, integralidad y optimización de recursos e instrumentos que garanticen la vigencia de los Derechos Humanos de las niñas y las mujeres.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Asegurar la concurrencia, integralidad y optimización de recursos e instrumentos que garanticen la vigencia de los Derechos Humanos de las niñas, adolescentes y mujeres.
 
 > <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
 
@@ -89,7 +93,9 @@ II. Alerta de Violencia de Género: Es el conjunto de acciones gubernamentales c
 
 III. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
 
-IV. Derechos Humanos de las Mujeres y las Niñas: Refiere a los derechos que son parte inalienable, integrante e indivisible de los Derechos Humanos universales contenidos en la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de las Personas con Discapacidad, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará), la Conferencia Mundial de Derechos Humanos de Viena, y demás Instrumentos y Acuerdos Internacionales en la materia;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Derechos Humanos de las Niñas, Adolescentes y Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los Derechos Humanos universales contenidos en la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de las Personas con Discapacidad, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará), la Conferencia Mundial de Derechos Humanos de Viena, y demás Instrumentos y Acuerdos Internacionales en la materia;
 
 V. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, inclusión, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
@@ -111,7 +117,9 @@ XIII. Mecanismo: Al mecanismo interinstitucional para el seguimiento y cumplimie
 
 XIV. Misoginia: Son conductas de odio contra las niñas, las adolescentes y las mujeres que se manifiestan en actos violentos y crueles contra ellas por el hecho de serlo;
 
-XV. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia de género contra las mujeres y las niñas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 22 DE JUNIO DE 2023)</small>
+
+XV. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia de género contra las niñas, adolescentes y mujeres;
 
 Las modalidades, de manera enunciativa y no limitativa, son: violencia familiar, digital y violencia mediática, laboral y docente, violencia en la comunidad, violencia institucional, obstétrica, política y feminicida;
 
@@ -119,7 +127,9 @@ XVI. Muertes evitables: Conjunto de muertes que no deberían haber ocurrido en p
 
 XVII. Noviazgo: Es un acto de voluntad transitorio entre dos personas que mantienen una relación sentimental por tiempo indefinido, el cual les brinda la oportunidad del conocimiento mutuo y que presuponen el propósito de tener una relación permanente o legalmente constituida;
 
-XVIII. Persona agresora: La persona que inflige cualquier tipo de violencia de género contra las niñas, las adolescentes y las mujeres;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XVIII. Persona agresora: La persona que inflige cualquier tipo de violencia de género contra las niñas, adolescentes y mujeres;
 
 XIX. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres; se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
@@ -139,7 +149,11 @@ XXVI. Tipos de Violencia: Son los actos u omisiones que constituyen delito y da�
 
 XXVII. Víctima: La mujer, niña o adolescente a quien se le inflige cualquier tipo de violencia, y
 
-XXVIII. Violencia de Género: Hace referencia a cualquier acto u omisión dañino dirigido contra una persona o un grupo de personas en razón de su género. Tiene su origen en las normas perjudiciales, el abuso de poder y en las desigualdades de género. La violencia de género constituye una grave violación a los derechos humanos que puede tener como resultado amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las mujeres y las niñas y que es consubstancial a la opresión de género en todas sus modalidades. La violencia de género contra las mujeres y las niñas involucra tanto a las personas como a la sociedad en sus distintas formas y organizaciones, comunidades, relaciones, prácticas e instituciones sociales y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género y al no dar garantías de seguridad a las mujeres.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 22 DE JUNIO DE 2023)</small>
+
+XXVIII. Violencia de Género: Hace referencia a cualquier acto u omisión dañino dirigido contra una persona o un grupo de personas en razón de su género. Tiene su origen en las normas perjudiciales, el abuso de poder y en las desigualdades de género. La violencia de género constituye una grave violación a los derechos humanos que puede tener como resultado amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las niñas, adolescentes y mujeres, y que es consubstancial a la opresión de género en todas sus modalidades. La violencia de género contra las niñas, adolescentes y mujeres, involucra tanto a las personas como a la sociedad en sus distintas formas y organizaciones, comunidades, relaciones, prácticas e instituciones sociales y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género y al no dar garantías de seguridad a las mujeres.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XXVIII, G.G. 26 DE MAYO DE 2023.]</small>
 
 La violencia de género se ejerce tanto en el ámbito privado como en el público manifestándose en diversos tipos y modalidades.
 
@@ -211,15 +225,15 @@ VI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dig
 
 Violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a someter, controlar, humillar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 8 Bis.
 
-Con el objeto de contribuir a la erradicación de la violencia contra las mujeres dentro de la familia, así como de garantizar el pleno goce, respeto, protección y promoción de los derechos humanos, el Poder Legislativo, en el respectivo ámbito de su competencia, considerará:
+Con el objeto de contribuir a la erradicación de la violencia contra las niñas, adolescentes y mujeres, dentro de la familia, así como de garantizar el pleno goce, respeto, protección y promoción de los derechos humanos, el Poder Legislativo, en el respectivo ámbito de su competencia, considerará:
 
-> <small>(ADICIONADA, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-I. Establecer la violencia familiar como restricción para el régimen de convivencia así como impedimento para la guarda y custodia de niñas y niños; y
+I. Establecer la violencia familiar como restricción para el régimen de convivencia, así como impedimento para la guarda y custodia de niñas, niños y adolescentes, y
 
 > <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
@@ -259,7 +273,9 @@ El acoso sexual es una forma de violencia en la que, si bien no existe la subord
 
 Los Gobiernos Estatal y Municipales en el marco de sus respectivas competencias tomarán en consideración:
 
-I. Establecer las políticas de gobierno que garanticen el derecho de las niñas y las mujeres a una vida libre de violencia de género en sus relaciones laborales y/o de docencia;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. Establecer las políticas de gobierno que garanticen el derecho de las niñas, adolescentes y mujeres a una vida libre de violencia de género en sus relaciones laborales y/o de docencia;
 
 II. Fortalecer el marco penal y civil para asegurar la sanción a quienes hostigan y acosan;
 
@@ -271,7 +287,9 @@ IV. Diseñar programas que brinden los servicios reeducativos integrales para la
 
 Para efectos del hostigamiento sexual y del acoso sexual, los Gobiernos Estatal y Municipales deberán:
 
-I. Reivindicar la dignidad de las mujeres y las niñas en todos los ámbitos de la vida;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. Reivindicar la dignidad de las niñas, adolescentes y mujeres en todos los ámbitos de la vida;
 
 II. Establecer mecanismos que favorezcan su erradicación en escuelas y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos;
 
@@ -295,17 +313,25 @@ VIII. Crear Comités para la Atención y Prevención del Hostigamiento y Acoso S
 
 Violencia en la Comunidad: Son los actos individuales o colectivos que transgredan los derechos fundamentales de las mujeres y las niñas propiciando su degradación, discriminación, marginación o exclusión en el ámbito público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 16.
 
-Los Gobiernos Estatal y Municipales en el ámbito de sus competencias deben garantizar a las mujeres y a las niñas la erradicación de la violencia en la comunidad, a través de:
+Los Gobiernos Estatal y Municipales en el ámbito de sus competencias deben garantizar a las niñas, adolescentes y mujeres la erradicación de la violencia en la comunidad, a través de:
 
-I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-II. El diseño de un sistema de monitoreo del comportamiento violento de las personas y de la sociedad contra las mujeres; y
+I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las niñas, adolescentes y mujeres en una sociedad desigual y discriminatoria;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. El diseño de un sistema de monitoreo del comportamiento violento de las personas y de la sociedad contra las niñas, adolescentes y mujeres, y
 
 III. El establecimiento de un banco de datos a nivel estatal sobre las órdenes de protección que se establezcan y de las personas sujetas a ellas con el fin de realizar las acciones de política criminal y de prevención que correspondan y faciliten el intercambio de información entre las instancias.
 
 ### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ### CAPÍTULO IV BIS. DE LA VIOLENCIA EN EL NOVIAZGO
 
@@ -313,7 +339,7 @@ III. El establecimiento de un banco de datos a nivel estatal sobre las órdenes 
 
 ###### Artículo 17.
 
-Violencia Institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno, en los términos de las disposiciones establecidas en la Constitución Política del Estado Libre y Soberano de México y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y la normatividad municipal, que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres y las niñas así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia de género.
+Violencia Institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno, en los términos de las disposiciones establecidas en la Constitución Política del Estado Libre y Soberano de México y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios y la normatividad municipal, que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las niñas, adolescentes y mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia de género.
 
 También constituirá Violencia Institucional cuando los órganos de procuración y administración de justicia emitan resoluciones o que contengan prejuicios basados en el género, patrones estereotipados de comportamiento o prácticas sociales y culturales fundadas en conceptos de inferioridad de las mujeres o de subordinación a los hombres.
 
@@ -409,7 +435,9 @@ II. Generar condiciones y las políticas públicas que contribuyan a la disminuc
 
 III. Eliminar la desigualdad y discriminación producidas por ordenamientos jurídicos o políticas públicas del Estado y Municipios que agravian los derechos humanos de las mujeres, adolescentes y niñas;
 
-IV. Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las mujeres, y
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las niñas, adolescentes y mujeres, y
 
 V. Hacer del conocimiento público el motivo de las acciones y medidas implementadas y la zona territorial que abarcan.
 
@@ -1105,7 +1133,7 @@ DE LAS POLÍTICAS DE GOBIERNO, DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y O
 
 DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES.
 
-> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 33.
 
@@ -1119,7 +1147,9 @@ Las políticas de Gobierno que las dependencias y organismos auxiliares del Esta
 
 ###### Artículo 34.
 
-El Sistema Estatal y los Sistemas Municipales tienen por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres y las niñas. El Sistema Estatal estará en coordinación con el Sistema Nacional y los Sistemas Municipales, y deberá crear los mecanismos para recabar, de manera homogénea, la información sobre la violencia contra las mujeres, e integrarla al Banco Estatal de Datos e Información sobre casos de violencia de género, así como a los Diagnósticos Estatal y Municipal sobre todas las formas de violencia contra las mujeres y las niñas en todos los ámbitos.
+El Sistema Estatal y los Sistemas Municipales tienen por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las niñas, adolescentes y mujeres. El Sistema Estatal estará en coordinación con el Sistema Nacional y los Sistemas Municipales, y deberá crear los mecanismos para recabar, de manera homogénea, la información sobre la violencia contra las mujeres, e integrarla al Banco Estatal de Datos e Información sobre casos de violencia de género, así como a los Diagnósticos Estatal y Municipal sobre todas las formas de violencia contra las niñas, adolescentes y mujeres en todos los ámbitos.
+
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
 
 Todas las medidas que lleven a cabo sus integrantes deberán realizarse sin discriminación alguna. Por ello, considerarán el idioma, la edad, la condición social y económica, la condición étnica, la preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas de gobierno en la materia.
 
@@ -1245,27 +1275,41 @@ La implementación del mecanismo culminará hasta que la o el titular del Poder 
 
 El Programa deberá ser elaborado por el Sistema Estatal y coordinado por el Ejecutivo Estatal a través de la Secretaría de las Mujeres y es el mecanismo que contiene las acciones que en forma planeada y coordinada deberán realizar las dependencias, los organismos auxiliares y los organismos autónomos del Estado, en el corto, mediano y largo plazo. Deberá ser expedido por la o el titular del Ejecutivo, será congruente con el Plan Estatal de Desarrollo y el Programa Nacional que en esta materia se establezca a nivel federal, y contendrá las acciones con perspectiva de género para:
 
-I. Impulsar y fomentar el conocimiento, la promoción y el respeto a los Derechos Humanos de las mujeres y las niñas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. Impulsar y fomentar el conocimiento, la promoción y el respeto a los Derechos Humanos de las niñas, adolescentes y mujeres;
 
 II. Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
 
-III. Educar, especializar y actualizar de manera constante, en materia de Derechos Humanos de las niñas y las mujeres, a todo el personal encargado de la procuración de justicia; a quienes integran los diferentes cuerpos de seguridad en el Estado, policías y a las y los funcionarios encargados del diseño, ejecución, seguimiento y evaluación de las políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Educar, especializar y actualizar de manera constante, en materia de Derechos Humanos de las niñas, adolescentes y mujeres, a todo el personal encargado de la procuración de justicia; a quienes integran los diferentes cuerpos de seguridad en el Estado, policías y a las y los funcionarios encargados del diseño, ejecución, seguimiento y evaluación de las políticas de prevención, atención, sanción y erradicación de la violencia contra las niñas, adolescentes y mujeres;
 
 IV. Formar, especializar y actualizar de manera constante en materia de Derechos Humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarle de instrumentos que les permita juzgar con perspectiva de género;
 
 V. Ejecutar las medidas reeducativas, integrales, especializadas y gratuitas a las personas agresoras para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía de género y los patrones misóginos que generaron su violencia;
 
-VI. Fomentar y apoyar programas de educación pública y privada, destinados a concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. Fomentar y apoyar programas de educación pública y privada, destinados a concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las niñas, adolescentes y mujeres;
 
 VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida;
 
-VIII. Vigilar y promover que los medios de comunicación no fomenten la violencia de género y que favorezcan la erradicación de imágenes que reproducen los estereotipos sexistas y todos los tipos de violencia, para fortalecer el respeto a los Derechos Humanos y la dignidad de las mujeres y las niñas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-IX. Garantizar la investigación y la elaboración de diagnósticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres y las niñas, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+VIII. Vigilar y promover que los medios de comunicación no fomenten la violencia de género y que favorezcan la erradicación de imágenes que reproducen los estereotipos sexistas y todos los tipos de violencia, para fortalecer el respeto a los Derechos Humanos y la dignidad de las niñas, adolescentes y mujeres;
 
-X. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres y las niñas para integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XI. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
+IX. Garantizar la investigación y la elaboración de diagnósticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las niñas, adolescentes y mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Publicar semestralmente la información general y estadística sobre los casos de violencia contra niñas, adolescentes y mujeres para integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XI. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las niñas, adolescentes y mujeres;
 
 XII. Promover la cultura de denuncia de la violencia de género en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad, el respeto a su dignidad y a su libertad; y
 
@@ -1291,9 +1335,13 @@ Los Gobiernos Estatal y Municipales, coadyuvarán para el cumplimiento de los ob
 
 Son facultades y obligaciones del Gobierno del Estado:
 
-I. Garantizar el ejercicio pleno del derecho de las mujeres y las niñas a una vida libre de violencia;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-II. Formular y conducir la política estatal integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres y las niñas;
+I. Garantizar el ejercicio pleno del derecho de las niñas, adolescentes y mujeres a una vida libre de violencia;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Formular y conducir la política estatal integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las niñas, adolescentes y mujeres;
 
 III. Vigilar el cabal cumplimiento de la presente Ley y de los Tratados Internacionales de Derechos Humanos de las Mujeres aprobados por el Estado Mexicano;
 
@@ -1301,17 +1349,23 @@ IV. Elaborar, coordinar y aplicar el Programa Estatal a que se refiere la Ley, a
 
 V. Educar en los Derechos Humanos a las mujeres en su lengua materna, en específico en las cinco etnias indígenas preponderantes de la Entidad, así como imprimir esta ley en el dialecto que corresponde a la tlahuica, otomí, mazahua, náhuatl y matlatzinca;
 
-VI. Asegurar la difusión y promoción de los derechos de las mujeres y las niñas indígenas con base en el reconocimiento de la composición multiétnica del Estado;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VII. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los Derechos Humanos de las mujeres y las niñas;
+VI. Asegurar la difusión y promoción de los derechos de las niñas, adolescentes y mujeres indígenas con base en el reconocimiento de la composición multiétnica del Estado;
 
-VIII. Coordinar la creación de programas de reeducación y reinserción social con perspectiva de género para las personas agresoras de mujeres y niñas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los Derechos Humanos de las niñas, adolescentes y mujeres;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VIII. Coordinar la creación de programas de reeducación y reinserción social con perspectiva de género para las personas agresoras de niñas, adolescentes y mujeres;
 
 IX. Garantizar una adecuada coordinación con los municipios con la finalidad de erradicar la violencia de género;
 
-> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-X. Realizar a través de la Secretaría de las Mujeres y con el apoyo de las instancias locales, campañas de información, con énfasis de la protección integral de los Derechos Humanos de las mujeres y las niñas, en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
+X. Realizar a través de la Secretaría de las Mujeres y con el apoyo de las instancias locales, campañas de información, con énfasis de (sic) la protección integral de los Derechos Humanos de las niñas, adolescentes y mujeres en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
 
 XI. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, de manera que sirvan de cauce para lograr la atención integral de las víctimas;
 
@@ -1319,23 +1373,31 @@ XII. Celebrar convenios de cooperación, coordinación y concertación en la mat
 
 XIII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atención de víctimas;
 
-XIV. Ejecutar medidas específicas, que sirvan de herramientas de acción para la prevención, atención, sanción y erradicación de la violencia contra las mujeres y las niñas en todos los ámbitos, en un marco de integralidad y promoción de los Derechos Humanos;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XIV. Ejecutar medidas específicas, que sirvan de herramientas de acción para la prevención, atención, sanción y erradicación de la violencia contra las niñas, adolescentes y mujeres en todos los ámbitos, en un marco de integralidad y promoción de los Derechos Humanos;
 
 XV. Promover y realizar investigaciones con perspectiva de género sobre las causas y las consecuencias de la violencia de género, y sobre la efectividad de la aplicación de las medidas para su prevención, atención, sanción y erradicación;
 
-XVI. Promover ante las autoridades competentes la adopción de las medidas de protección previstas en esta Ley y demás disposiciones aplicables que requiere la mujer o la niña que haya sido víctima de violencia;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+XVI. Promover ante las autoridades competentes la adopción de las medidas de protección previstas en esta Ley y demás disposiciones aplicables que requieren niñas, adolescentes y mujeres que hayan sido víctimas de violencia;
 
-XVII. Proporcionar a la Secretaria de Seguridad, la información necesaria para la integración del Banco Estatal de Datos e Información de Casos de Violencia contra las Mujeres al que se refiere en la fracción V del artículo 52 de la presente Ley;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XVII. Proporcionar a la Secretaría de Seguridad, la información necesaria para la integración del Banco Estatal de Datos e Información de Casos de Violencia contra las niñas, adolescentes y mujeres, al que se refiere en la fracción V del artículo 52 de la presente Ley;
 
 XVIII. Evaluar y considerar la eficacia de las acciones del Programa, con base en los resultados de las investigaciones previstas en la fracción anterior;
 
 XIX. Rendir un informe anual sobre los avances del Programa;
 
-XX. Recibir de las organizaciones sociales y civiles propuestas y recomendaciones sobre la prevención, atención, sanción y erradicación de la violencia contra las mujeres y las niñas, a fin de mejorar los mecanismos para su erradicación;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XXI. Impulsar la participación de los organismos civiles y sociales dedicados a la promoción y defensa de los Derechos Humanos de las mujeres y las niñas en la ejecución de los programas estatales;
+XX. Recibir de las organizaciones sociales y civiles propuestas y recomendaciones sobre la prevención, atención, sanción y erradicación de la violencia contra las niñas, adolescentes y mujeres, a fin de mejorar los mecanismos para su erradicación;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XXI. Impulsar la participación de los organismos civiles y sociales dedicados a la promoción y defensa de los Derechos Humanos de niñas, adolescentes y mujeres en la ejecución de los programas estatales;
 
 XXII. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley, y establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa Estatal;
 
@@ -1367,25 +1429,39 @@ I. Difundir la Ley en español y en los dialectos preponderantes de la Entidad;
 
 II. Presidir el Sistema Estatal y, en su caso, proponer a la Secretaría de Gobernación la colaboración en las medidas emitidas en la Declaratoria de alerta de violencia de género;
 
-III. Diseñar con una visión transversal, la Política Integral con perspectiva de género para la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres y las niñas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+III. Diseñar con una visión transversal, la Política Integral con perspectiva de género para la prevención, atención, sanción y erradicación de los delitos violentos contra las niñas, adolescentes y mujeres;
 
-IV. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Estatal y Organismos Descentralizados, Organismos Autónomos, Organizaciones de la Sociedad Civil, Universidades e Instituciones de Educación Superior e Investigación, sobre las causas, características y consecuencias de la violencia de género, así como la evaluación de las medidas de prevención, atención, sanción y erradicación, y la información derivada de cada una de las instituciones encargadas de promover los Derechos Humanos de las mujeres y las niñas en el Estado y los Municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-V. Formular las bases para la coordinación entre la autoridad estatal y las autoridades municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres y las niñas;
+IV. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Estatal y Organismos Descentralizados, Organismos Autónomos, Organizaciones de la Sociedad Civil, Universidades e Instituciones de Educación Superior e Investigación, sobre las causas, características y consecuencias de la violencia de género, así como la evaluación de las medidas de prevención, atención, sanción y erradicación, y la información derivada de cada una de las instituciones encargadas de promover los Derechos Humanos de las niñas, adolescentes y mujeres en el Estado y los Municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
 
-VI. Coordinar y dar seguimiento a las acciones en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres y las niñas que lleven a cabo las dependencias y entidades de la Administración Pública Estatal y Municipales;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VII. Coordinar y dar seguimiento a los trabajos de promoción y defensa de los Derechos Humanos de las mujeres y las niñas, que lleven a cabo las dependencias y entidades de la Administración Pública Estatal;
+V. Formular las bases para la coordinación entre la autoridad estatal y las autoridades municipales para la prevención, atención, sanción y erradicación de la violencia contra las niñas, adolescentes y mujeres;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. Coordinar y dar seguimiento a las acciones en materia de protección, atención, sanción y erradicación de la violencia contra las niñas, adolescentes y mujeres que lleven a cabo las dependencias y entidades de la Administración Pública Estatal y Municipales;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Coordinar y dar seguimiento a los trabajos de promoción y defensa de los Derechos Humanos de niñas, adolescentes y mujeres, que lleven a cabo las dependencias y entidades de la Administración Pública Estatal;
 
 VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Estatal y del Programa;
 
-IX. Ejecutar y dar seguimiento a las acciones del Programa con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la erradicación de la violencia de género contra las mujeres y las niñas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-X. Realizar un Diagnóstico Estatal y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las mujeres y las niñas, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación;
+IX. Ejecutar y dar seguimiento a las acciones del Programa con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la erradicación de la violencia de género contra las niñas, adolescentes y mujeres;
 
-XI. Vigilar que los medios de comunicación favorezcan la erradicación de todos los tipos de violencia de género y se fortalezca el respeto a la dignidad, la integridad y la libertad de las mujeres;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Realizar un Diagnóstico Estatal y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las niñas, adolescentes y mujeres, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XI. Vigilar que los medios de comunicación favorezcan la erradicación de todos los tipos de violencia de género y se fortalezca el respeto a la dignidad, la integridad y la libertad de las niñas, adolescentes y mujeres;
 
 XII. Difundir periódicamente a través de diversos medios, los resultados del Sistema Estatal y del Programa a los que se refiere esta Ley;
 
@@ -1411,9 +1487,9 @@ XVII. Canalizar a las víctimas a programas de atención integral que les permit
 
 XVIII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
 
-> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XIX. Difundir el respeto a los Derechos Humanos de las mujeres y promover que las instancias de gobierno garanticen la integridad, la dignidad y la libertad de las mujeres;
+XIX. Difundir el respeto a los Derechos Humanos de las mujeres y promover que las instancias de gobierno garanticen la integridad, la dignidad y la libertad de las niñas, adolescentes y mujeres;
 
 > <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1423,29 +1499,29 @@ XX. Crear refugios para las mujeres en situación de violencia conforme al model
 
 XXI. Coadyuvar en la promoción del conocimiento de los derechos, de los procesos y los mecanismos para acceder a la atención, prevención y erradicación de la violencia contra las mujeres;
 
-> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XXII. Difundir el respeto de los Derechos Humanos de las mujeres y promover que las acciones de las organizaciones de la sociedad garanticen la integridad, la dignidad y la libertad de las mujeres;
+XXII. Difundir el respeto de los Derechos Humanos de las mujeres y promover que las acciones de las organizaciones de la sociedad garanticen la integridad, la dignidad y la libertad de las niñas, adolescentes y mujeres;
 
-> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XXIII. Rendir un informe anual sobre los avances del programa estatal relativo a la atención, prevención, sanción y erradicación de la violencia contra las mujeres;
+XXIII. Rendir un informe anual sobre los avances del programa estatal relativo a la atención, prevención, sanción y erradicación de la violencia contra las niñas, adolescentes y mujeres;
 
-> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XXIV. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres y las niñas;
+XXIV. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las niñas, adolescentes y mujeres;
 
 > <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 XXV. Revisar y evaluar la eficacia en la eliminación de las causas de la violencia de género y en el impulso del adelanto de las mujeres y la equidad entre los géneros, de las acciones, las políticas públicas y los programas estatales;
 
-> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XXVI. Impulsar la participación de las organizaciones de la sociedad civil dedicadas a la promoción y defensa de los Derechos Humanos de las mujeres y las niñas, en la ejecución de los programas estatales, así como generar un padrón único de las organizaciones dedicadas a la promoción y derechos de la mujer;
+XXVI. Impulsar la participación de las organizaciones de la sociedad civil dedicadas a la promoción y defensa de los Derechos Humanos de las niñas, adolescentes y mujeres, en la ejecución de los programas estatales, así como generar un padrón único de las organizaciones dedicadas a la promoción y derechos de la mujer;
 
-> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XXVII. Recibir de las organizaciones de la sociedad civil, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra mujeres y las niñas, a fin de mejorar los mecanismos para su erradicación, y
+XXVII. Recibir de las organizaciones de la sociedad civil, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra niñas, adolescentes y mujeres, a fin de mejorar los mecanismos para su erradicación;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE MAYO DE 2023)</small>
 
@@ -1475,31 +1551,49 @@ Corresponde a la Secretaría de Salud:
 
 I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género la política de prevención, atención, sanción y erradicación de la violencia en su contra;
 
-II. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las mujeres víctimas de violencia;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+II. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las niñas, adolescentes y mujeres víctimas de violencia;
 
-III. Crear programas de formación, especialización y actualización sobre Derechos Humanos de las mujeres y las niñas y violencia de género, de tal manera que se garantice una atención adecuada a las mujeres víctimas de violencia y la aplicación de la Norma Oficial NOM-046-SSA2-2005 Violencia Familiar, Sexual y contra las Mujeres. Criterios para la Prevención y Atención;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Crear programas de formación, especialización y actualización sobre Derechos Humanos de las niñas, adolescentes y mujeres y violencia de género, de tal manera que se garantice una atención adecuada a las mujeres víctimas de violencia y la aplicación de la Norma Oficial NOM-046-SSA2-2005 Violencia Familiar, Sexual y contra las Mujeres. Criterios para la Prevención y Atención;
 
 IV. Establecer programas y servicios profesionales eficaces, con horario de veinticuatro horas en las dependencias públicas relacionadas con la atención de la violencia de género;
 
-V. Difundir en las instituciones del sector salud, material referente a la prevención y atención de la violencia contra las mujeres;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VI. Canalizar a las mujeres víctimas a las instituciones que prestan atención y protección a las niñas y las mujeres;
+V. Difundir en las instituciones del sector salud, material referente a la prevención y atención de la violencia contra las niñas, adolescentes y mujeres;
 
-VII. Mejorar la calidad de la atención que se presta a las mujeres y las niñas víctimas de violencia;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VIII. Participar activamente en la ejecución del Programa, en el diseño de nuevos modelos de prevención, atención, sanción y erradicación de la violencia contra las mujeres, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
+VI. Canalizar a las mujeres víctimas a las instituciones que prestan atención y protección a las niñas, adolescentes y mujeres;
 
-IX. Asegurar que en la prestación de los servicios del sector salud se respeten los Derechos Humanos de las mujeres y las niñas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-X. Formar, especializar y actualizar constantemente al personal del sector salud, para que estén en posibilidad de detectar de manera inmediata y adecuada a las mujeres y niñas víctimas de violencia con la finalidad de prestarles la atención adecuada;
+VII. Mejorar la calidad de la atención que se presta a las niñas, adolescentes y mujeres víctimas de violencia;
 
-XI. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia de género contra las mujeres y las niñas, proporcionando la siguiente información;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VIII. Participar activamente en la ejecución del Programa, en el diseño de nuevos modelos de prevención, atención, sanción y erradicación de la violencia contra las niñas, adolescentes y mujeres, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IX. Asegurar que en la prestación de los servicios del sector salud se respeten los Derechos Humanos de las niñas, adolescentes y mujeres;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Formar, especializar y actualizar constantemente al personal del sector salud, para que estén en posibilidad de detectar de manera inmediata y adecuada a las niñas, adolescentes y mujeres víctimas de violencia con la finalidad de prestarles la atención adecuada;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 22 DE JUNIO DE 2023)</small>
+
+XI. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia de género contra niñas, adolescentes y mujeres proporcionando la siguiente información:
 
 a) La relativa al número de víctimas que se atiendan en los centros y servicios hospitalarios;
 
-b) La referente a las situaciones de violencia que sufren las mujeres y las niñas;
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+b) La referente a las situaciones de violencia que sufren las niñas, adolescentes y mujeres;
 
 c) El tipo de violencia por la cual se atendió a la víctima;
 
@@ -1533,7 +1627,9 @@ VII. Prevenir la violencia contra las mujeres con programas y acciones afirmativ
 
 VIII. Proponer la actualización de las medidas de seguridad e higiene en los centros de trabajo para la protección de las mujeres trabajadoras, en los términos de la Ley;
 
-IX. Promover la integración laboral de las mujeres recluidas en los centros de readaptación social, a efecto de que se cumplan sus derechos fundamentales contemplados en esta Ley;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IX. Promover la integración laboral de las mujeres privadas de la libertad en los Centros Penitenciarios, a efecto de que se cumplan sus derechos fundamentales contemplados en esta Ley.
 
 X. Crear mecanismos internos de denuncia para las mujeres víctimas de violencia laboral en el ámbito público, con independencia de cualquier otro procedimiento jurídico que inicien ante una instancia diversa;
 
@@ -1567,23 +1663,39 @@ Corresponde a la Secretaría de Educación:
 
 I. Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres, y el respeto pleno a los Derechos Humanos;
 
-II. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad, integridad y libertad;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-III. Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
+II. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las niñas, adolescentes y mujeres, así como el respeto a su dignidad, integridad y libertad;
 
-IV. Garantizar el derecho de las niñas y mujeres a la educación: a la alfabetización y al acceso, permanencia y conclusión de estudios en todos los niveles, a través de la obtención de becas y otras subvenciones;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-V. Desarrollar investigaciones multidisciplinarias encaminadas a crear modelos de detección de la violencia contra las niñas y las mujeres en los centros educativos;
+III. Garantizar acciones y mecanismos que favorezcan el adelanto de las niñas, adolescentes y mujeres en todas las etapas del proceso educativo;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Garantizar el derecho de las niñas, adolescentes y mujeres a la educación: a la alfabetización y al acceso, permanencia y conclusión de estudios en todos los niveles, a través de la obtención de becas y otras subvenciones;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+V. Desarrollar investigaciones multidisciplinarias encaminadas a crear modelos de detección de la violencia contra las niñas, adolescentes y mujeres en los centros educativos;
 
 VI. Formar, especializar y actualizar de manera constante al personal docente en Derechos Humanos;
 
-VII. Incorporar en los programas educativos, en todos los niveles de la instrucción, el respeto a los Derechos Humanos de las mujeres y las niñas, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad de las mujeres y en funciones estereotipadas asignadas a las mujeres y a los hombres;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VIII. Formular y aplicar programas que permitan la detección temprana de las manifestaciones de violencia contra las mujeres y las niñas en los centros educativos, para que se dé una primera respuesta urgente a las alumnas que sufren algún tipo de violencia;
+VII. Incorporar en los programas educativos, en todos los niveles de la instrucción, el respeto a los Derechos Humanos de las niñas, adolescentes y mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad de las mujeres y en funciones estereotipadas asignadas a las mujeres y a los hombres;
 
-IX. Establecer como un requisito de contratación de todo el personal, docente, administrativo y de intendencia, el no contar con algún antecedente de violencia contra las mujeres;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-X. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres; y la defensa, promoción y respeto a los Derechos Humanos de las niñas y las mujeres;
+VIII. Formular y aplicar programas que permitan la detección temprana de las manifestaciones de violencia contra las niñas, adolescentes y mujeres en los centros educativos, para que se dé una primera respuesta urgente a las alumnas que sufren algún tipo de violencia;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IX. Establecer como un requisito de contratación de todo el personal, docente, administrativo y de intendencia, el no contar con algún antecedente de violencia contra las niñas, adolescentes y mujeres;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres; y la defensa, promoción y respeto a los Derechos Humanos de las niñas, adolescentes y mujeres;
 
 XI. Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
 
@@ -1597,27 +1709,35 @@ XIV. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Desarrollo Social.
 
-I. Fomentar el desarrollo social desde la visión de protección integral de los Derechos Humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-II. Coadyuvar en la promoción, la defensa, el respeto y la vigencia de los Derechos Humanos de las mujeres y las niñas;
+I. Fomentar el desarrollo social desde la visión de protección integral de los Derechos Humanos de las niñas, adolescentes y mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Coadyuvar en la promoción, la defensa, el respeto y la vigencia de los Derechos Humanos de las niñas, adolescentes y mujeres;
 
 III. Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
 
-IV. Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Realizar acciones tendientes a mejorar las condiciones de las niñas, adolescentes, mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
 
 V. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres, su empoderamiento y la eliminación de las brechas y desventajas de género;
 
 VI. Promover políticas de prevención y atención de la violencia de género;
 
-VII. Promover el conocimiento de los derechos, de los procesos y los mecanismos para acceder a la atención, prevención, sanción y erradicación de la violencia contra las mujeres y las niñas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Promover el conocimiento de los derechos, de los procesos y los mecanismos para acceder a la atención, prevención, sanción y erradicación de la violencia contra niñas, adolescentes y mujeres;
 
 > <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
 
 VIII. Coadyuvar a la creación de las unidades de atención integral y protección a las mujeres víctimas de violencia;
 
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-IX. Coadyuvar a la creación de refugios para las mujeres víctimas de violencia conforme al Modelo de Atención diseñado por el Sistema Nacional;
+IX. Coadyuvar a la creación de refugios para las víctimas niñas, adolescentes y mujeres de violencia conforme al Modelo de Atención diseñado por el Sistema Nacional;
 
 X. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Estatal y del Programa;
 
@@ -1633,7 +1753,9 @@ Corresponde a la Secretaría de Cultura y Turismo:
 
 I. Ejecutar acciones de prevención y erradicación del turismo sexual infantil y la trata de personas;
 
-II. Instalar en los centros turísticos, módulos de información para la población local y las personas visitantes al Estado sobre las causas y los efectos de la violencia de género contra las mujeres y las niñas; y
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Instalar en los centros turísticos, módulos de información para la población local y las personas visitantes al Estado sobre las causas y los efectos de la violencia de género contra las niñas, adolescentes y mujeres, y
 
 III. Las demás que le confiera esta Ley u otros ordenamientos aplicables.
 
@@ -1649,7 +1771,9 @@ II. Establecer políticas que favorezcan el adecuado entorno ambiental que propi
 
 Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia:
 
-I. La atención de la violencia contra las mujeres y las niñas; se deberán respetar los derechos de la víctima consagrados en el artículo 56 de la presente Ley a ser atendidas con perspectiva de género y a no ser sometida a procedimientos de conciliación, mediación y/o cualquier otro alternativo con la persona agresora;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. La atención de la violencia contra las niñas, adolescentes y mujeres; se deberán respetar los derechos de la víctima consagrados en el artículo 56 de la presente Ley a ser atendidas con perspectiva de género y a no ser sometida a procedimientos de conciliación, mediación y/o cualquier otro alternativo con la persona agresora;
 
 II. Remitir a la víctima a servicios médicos, psicológicos y/o jurídicos especializados, cuando lo requiera;
 
@@ -1657,7 +1781,9 @@ III. Brindar la información, la asistencia y el patrocinio jurídico y en caso 
 
 IV. Solicitar en representación de las mujeres víctimas menores de 18 años las medidas de protección conducentes;
 
-V. Dictar las medidas para que las mujeres víctimas rindan su declaración en espacios apropiados que preserven su dignidad, integridad y libertad;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+V. Dictar las medidas para que las niñas, adolescentes y mujeres víctimas rindan su declaración en espacios apropiados que preserven su dignidad, integridad y libertad;
 
 VI. Otorgar a las víctimas copia del expediente iniciado por motivo de la violencia;
 
@@ -1665,13 +1791,19 @@ VII. Solicitar la tutela, guarda y custodia de la víctima, a favor de cualquier
 
 VIII. Adecuar o crear modelos de atención que favorezcan el empoderamiento de la víctima y reparen el daño causado por la violencia, acorde con los lineamientos señalados en la Ley;
 
-IX. Instrumentar en coordinación con instancias integrantes del Sistema Estatal, programas y campañas que contribuyan a la prevención y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-X. Atender de forma inmediata la petición de cualquier integrante de la administración pública o de las instituciones coadyuvantes, que conozcan de las diversas modalidades y/o tipos de la violencia, cuando ésta sea ejercida contra menores de edad y mujeres con discapacidad;
+IX. Instrumentar en coordinación con instancias integrantes del Sistema Estatal, programas y campañas que contribuyan a la prevención y erradicación de la violencia contra las niñas, adolescentes y mujeres;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Atender de forma inmediata la petición de cualquier integrante de la administración pública o de las instituciones coadyuvantes, que conozcan de las diversas modalidades y/o tipos de la violencia, cuando ésta sea ejercida contra niñas, adolescentes y mujeres con discapacidad;
 
 XI. Crear procedimientos internos especializados para que la víctima de violencia perpetrada por cualquier servidor público en ejercicio de sus funciones, pueda denunciar con independencia de cualquier otro procedimiento jurídico que la víctima haya iniciado;
 
-XII. Vigilar que las y los integrantes de las dependencias de Asuntos Jurídicos, de Apoyo a la Niñez y de Apoyo a las Personas con Discapacidad, en el ámbito jurídico procesal, cumplan con los principios y derechos de esta Ley y de cualquier otro instrumento internacional de protección de los Derechos Humanos de las mujeres y las niñas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XII. Vigilar que las y los integrantes de las dependencias de Asuntos Jurídicos, de Apoyo a la Niñez y de Apoyo a las Personas con Discapacidad, en el ámbito jurídico procesal, cumplan con los principios y derechos de esta Ley y de cualquier otro instrumento internacional de protección de los Derechos Humanos de las niñas, adolescentes y mujeres;
 
 XIII. Proporcionar la información sobre las características de las mujeres a las que se les da asesoría y representación jurídica, relacionadas con cualquiera de los tipos y modalidades de la violencia señaladas en la Ley, para la integración del Banco Estatal de Datos e Información sobre casos de violencia contra las mujeres;
 
@@ -1681,7 +1813,9 @@ XV. Establecer mecanismos internos de vigilancia del cumplimiento por parte de s
 
 XVI. Utilizar con la debida diligencia mecanismos de defensa, jurisprudencia y tesis doctrinales que no se contrapongan con la presente Ley, para garantizar el acceso de las mujeres a la atención y a la justicia y evitar en todo momento su indefensión;
 
-XVII. Invocar los principios establecidos en el marco nacional e internacional de los Derechos Humanos de las mujeres de acuerdo con el objeto de la Ley; y
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XVII. Invocar los principios establecidos en el marco nacional e internacional de los Derechos Humanos de las niñas, adolescentes y mujeres de acuerdo con el objeto de la Ley, y
 
 XVIII. Las demás que le atribuya la Ley.
 
@@ -1699,15 +1833,21 @@ I. Garantizar mecanismos expeditos, sin dilación en la procuración de justicia
 
 II. (DEROGADA, G.G. 18 DE MARZO DE 2011)
 
-III. Realizar estudios, formular y ejecutar lineamientos sobre la procuración y el acceso de las mujeres a la justicia;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-IV. Promover de manera permanente la formación, especialización y actualización en materia de Derechos Humanos de las mujeres a Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia, así como coadyuvar en la formación de la Policía Municipal, en materia de Derechos Humanos de las mujeres y las niñas con perspectiva de género;
+III. Realizar estudios, formular y ejecutar lineamientos sobre la procuración y el acceso de las niñas, adolescentes y mujeres a la justicia;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Promover de manera permanente la formación, especialización y actualización en materia de Derechos Humanos de las mujeres a Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia, así como coadyuvar en la formación de la Policía Municipal, en materia de Derechos Humanos de las niñas, adolescentes y mujeres con perspectiva de género;
 
 V. Incorporar la perspectiva de género como eje transversal en todos los cursos y especializaciones que se impartan en la formación profesional del personal encargado de la impartición de justicia;
 
 VI. Garantizar la seguridad jurídica, la integridad física, la protección de datos personales y la salvaguarda de los bienes de las víctimas;
 
-VII. Promover la promoción, la difusión y el respeto de los Derechos Humanos de las niñas y las mujeres;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Promover la promoción, la difusión y el respeto de los Derechos Humanos de las niñas, adolescentes y mujeres;
 
 VIII. Proporcionar a las víctimas orientación y asesoría para su eficaz atención y protección;
 
@@ -1723,11 +1863,15 @@ XII. Vigilar que el Ministerio Público no someta a procedimientos de conciliaci
 
 XIII. Vigilar que el Ministerio Público solicite y/o ejecute de manera obligatoria y a quien corresponda, las órdenes de protección y de emergencia a favor de la víctima, con independencia de que éstas se encuentren en proceso jurisdiccional o procedimiento administrativo;
 
-XIV. Integrar en el Banco Estatal de Datos e Información sobre Casos de Violencia los informes sobre la violencia contra las mujeres;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XIV. Integrar en el Banco Estatal de Datos e Información sobre Casos de Violencia los informes sobre la violencia contra las niñas, adolescentes y mujeres;
 
 XV. Coordinar, dirigir y administrar las órdenes de protección y los informes sobre las circunstancias en que se da la ejecución de éstas, para efectos de rendir informes al Banco Estatal de Información de la Violencia contra las Mujeres;
 
-XVI. Dictar las medidas para que las mujeres y las niñas víctimas rindan su declaración en espacios apropiados que preserven su dignidad, integridad y libertad;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XVI. Dictar las medidas para que las niñas, adolescentes y mujeres víctimas rindan su declaración en espacios apropiados que preserven su dignidad, integridad y libertad;
 
 > <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -1745,25 +1889,29 @@ XXII. Retener y custodiar las armas de fuego, punzocortantes y/o punzocontundent
 
 XXIII. Solicitar en forma obligatoria en el pliego de consignación, la reparación del daño a favor de la víctima, de acuerdo a las formas establecidas en la Ley y garantizar su cumplimiento y ejecución;
 
-XXIV. Crear procedimientos internos especializados para que la víctima de violencia perpetrada por cualquier servidor público en ejercicio de sus funciones, pueda denunciar con independencia de cualquier otro procedimiento jurídico que la víctima haya iniciado; en el proceso de selección del personal para la atención en materia de esta Ley, se vigilará que no sea contratada ninguna persona con antecedentes de violencia contra las mujeres y las niñas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XXIV. Crear procedimientos internos especializados para que la víctima de violencia perpetrada por cualquier servidor público en ejercicio de sus funciones, pueda denunciar con independencia de cualquier otro procedimiento jurídico que la víctima haya iniciado; en el proceso de selección del personal para la atención en materia de esta Ley, se vigilará que no sea contratada ninguna persona con antecedentes de violencia contra las niñas, adolescentes y mujeres;
 
 > <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
 
 XXV. Crear la Visitaduría contra la Violencia de Género, que deberá estar integrada por representantes de las unidades administrativas de la Institución y de organizaciones no gubernamentales, relacionadas con este tema, así como por representantes de instituciones académicas, cuya línea de investigación se enfoque a la violencia de género; el propósito central de la Visitaduría será dar a conocer a la ciudadanía las acciones en materia de procuración de justicia, evaluar políticas públicas preventivas, detectar experiencias exitosas y prácticas erróneas, y emitir recomendaciones y darles seguimiento. Para tal efecto, el Procurador deberá expedir el acuerdo de creación respectivo, en el que se establecerán las disposiciones necesarias para su correcto funcionamiento;
 
-XXVI. Promover el respeto, la defensa y la vigencia de los Derechos Humanos de las mujeres y garantizar la seguridad de quienes denuncian;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XXVI. Promover el respeto, la defensa y la vigencia de los Derechos Humanos de las niñas, adolescentes y mujeres y garantizar la seguridad de quienes denuncian;
 
 XXVII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
 
 XXVIII. Las demás previstas para el cumplimiento de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ### CAPÍTULO III. DE LA COMPETENCIA DE LOS MUNICIPIOS
 
 ###### Artículo 52.
 
-Corresponde a la Secretaría de Seguridad Ciudadana:
+Corresponde a la Secretaría de Seguridad:
 
 I. Diseñar con una visión transversal, la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
 
@@ -1801,6 +1949,8 @@ IV. Las demás previstas para el cumplimiento de la presente Ley y otros ordenam
 
 ### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 53.
 
 Corresponde al Poder Judicial:
@@ -1833,7 +1983,9 @@ Corresponde a los municipios, en materia de prevención, atención, sanción y e
 
 I. Coordinar medidas y acciones con el Gobierno Estatal en la integración y funcionamiento del Sistema Municipal, así como con el mecanismo.
 
-II. Instrumentar y articular, en concordancia con la política Estatal, la política Municipal orientada a erradicar la violencia contra las mujeres y las niñas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Instrumentar y articular, en concordancia con la política Estatal, la política Municipal orientada a erradicar la violencia contra niñas, adolescentes y mujeres;
 
 III. Garantizar la formación, especialización y actualización constante de las personas que integran la corporación policíaca para el cumplimiento eficiente de sus responsabilidades;
 
@@ -1849,25 +2001,33 @@ V. Expedir las disposiciones jurídicas municipales encaminadas a lograr la part
 
 VI. Formular, ejecutar y evaluar el Programa Municipal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, mismo que será remitido al Sistema Estatal y a la Legislatura del Estado, dentro de los primeros tres meses de la gestión municipal para los efectos conducentes;
 
-VII. Promover, en coordinación con el Gobierno Estatal, cursos de formación, especialización y actualización constante sobre violencia de género y Derechos Humanos de las mujeres, a las personas que atienden a las mujeres víctimas de violencia, en los términos de la presente Ley;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Promover, en coordinación con el Gobierno Estatal, cursos de formación, especialización y actualización constante sobre violencia de género y Derechos Humanos de las niñas, adolescentes y mujeres; a las personas que atienden a las mujeres víctimas de violencia, en los términos de la presente Ley;
 
 VIII. Apoyar los programas de reeducación integral para las personas agresoras en los términos previstos en la Ley;
 
-IX. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres y las niñas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-X. Apoyar la creación de las Unidades de Atención de las víctimas de violencia garantizando que la atención a las mujeres y niñas indígenas sea realizada por mujeres y en su propia lengua;
+IX. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las niñas, adolescentes y mujeres;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Apoyar la creación de las Unidades de Atención de las víctimas de violencia garantizando que la atención a las niñas, adolescentes y mujeres indígenas sea realizada por mujeres y en su propia lengua;
 
 > <small>(ADICIONADA, G.G. 10 DE MAYO DE 2018)</small>
 
 X Bis. Crear Unidades de Igualdad de Género y Erradicación de la Violencia, en términos de lo previsto en el Capítulo Noveno Bis de la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres del Estado de México;
 
-> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-X Ter. Crear una Dirección de las Mujeres o, en su caso, un Instituto Municipal de la Mujer, para promover y fomentar las condiciones que faciliten el pleno ejercicio de los derechos humanos, la igualdad, el desarrollo económico, social, político y cultural, la no discriminación y la erradicación de la violencia contra las niñas, las adolescentes y las mujeres, en concordancia con la Constitución Política de los Estados Unidos Mexicanos, las leyes generales y las estatales, las políticas, nacional y estatal, así como los tratados internacionales en la materia;
+X Ter. Crear una Dirección de las Mujeres o, en su caso, un Instituto Municipal de las Mujeres, para promover y fomentar las condiciones que faciliten el pleno ejercicio de los derechos humanos, la igualdad, el desarrollo económico, social, político y cultural, la no discriminación y la erradicación de la violencia contra las niñas, las adolescentes y las mujeres, en concordancia con la Constitución Política de los Estados Unidos Mexicanos, las leyes generales y las estatales, las políticas, nacional y estatal, así como los tratados internacionales en la materia;
 
 XI. Apoyar la creación de refugios seguros para las víctimas;
 
-XII. Realizar, de acuerdo con el Sistema Estatal, programas de información a la sociedad sobre los Derechos Humanos de las mujeres y niñas y sobre la prevención atención, sanción y erradicación de la violencia contra las mujeres y las niñas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XII. Realizar, de acuerdo con el Sistema Estatal, programas de información a la sociedad sobre los Derechos Humanos de las niñas, adolescentes y mujeres, y sobre la prevención atención, sanción y erradicación de la violencia contra las niñas, adolescentes y mujeres;
 
 XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
 
@@ -1883,9 +2043,9 @@ XV. Establecer programas de capacitación dirigidos a las y los servidores públ
 
 XVI. Crear, operar y mantener actualizada una página web de acceso público, donde se brinde información sobre los servicios que se ofrecen por parte del municipio en materia de violencia de género y atención a víctimas.
 
-> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XVII. Proporcionar a la Comisión Estatal de Seguridad Ciudadana información actualizada sobre las zonas delictivas consideradas como de alto riesgo y datos verídicos en el llenado del Banco de Datos e Información del Estado de México sobre Casos de Violencia contra las Mujeres (BADAEMVIM).
+XVII. Proporcionar a la Secretaría de Seguridad información actualizada sobre las zonas delictivas consideradas como de alto riesgo y datos verídicos en el llenado del Banco de Datos e Información del Estado de México sobre Casos de Violencia contra las Mujeres (BADAEMVIM).
 
 > <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1895,7 +2055,7 @@ XVIII. Las demás previstas en esta Ley y en otras disposiciones legales aplicab
 
 ###### Artículo 55.
 
-Las autoridades Estatal y Municipales en el ámbito de sus respectivas competencias deberán prestar atención a las mujeres y niñas víctimas de violencia, consistente en:
+Las autoridades Estatal y Municipales en el ámbito de sus respectivas competencias deberán prestar atención a las niñas, adolescentes y mujeres víctimas de violencia, consistente en:
 
 I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
 
@@ -1947,9 +2107,13 @@ Corresponde a los refugios, desde la perspectiva de género:
 
 I. Aplicar el Modelo de Atención a Víctimas en los Refugios;
 
-II. Velar por la seguridad de las mujeres y las niñas que se encuentren en ellos;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-III. Proporcionar a las mujeres y las niñas la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
+II. Velar por la seguridad de las niñas, adolescentes y mujeres que se encuentren en ellos;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Proporcionar a las niñas, adolescentes y mujeres la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
 
 IV. Dar información a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
 
@@ -1957,7 +2121,9 @@ V. Brindar a las víctimas la información necesaria que les permita decidir sob
 
 VI. Contar con el personal debidamente capacitado y especializado en la materia, para proporcionar los servicios y realizar las acciones inherentes a la prevención, protección y atención de las personas que se encuentren en ellos; y
 
-VII. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia contra las mujeres y las niñas.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia contra las niñas, adolescentes y mujeres.
 
 > <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -2001,9 +2167,11 @@ Para efectos del artículo anterior, el personal médico, psicológico y jurídi
 
 En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 64.
 
-Los Gobiernos Estatal y Municipales, con la participación que corresponda de los sectores social, civil y/o a través de la junta de Asistencia Privada promoverán el establecimiento de mecanismos para proveer de los apoyos necesarios para que los refugios cumplan con su objeto.
+Los Gobiernos Estatal y Municipales, con la participación que corresponda de los sectores social, civil y/o a través de la Junta de Asistencia Privada del Estado de México promoverán el establecimiento de mecanismos para proveer de los apoyos necesarios para que los refugios cumplan con su objeto.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2021,13 +2189,17 @@ Es competencia del Órgano Superior de Fiscalización del Estado de México, fis
 
 Corresponde a la Secretaría de la Contraloría del Gobierno del Estado de México, a las contralorías de los poderes legislativo y judicial, así como a las contralorías de las dependencias de la administración pública estatal y municipal, en el marco del cumplimiento del mecanismo, el llevar a cabo el control y evaluación sobre las acciones que realizan tanto sus respectivas dependencias, como los organismos auxiliares de la administración pública estatal, de igual manera la vigilancia de la actuación de las y los servidores públicos que la integran, para que ésta se realice conforme a la normatividad vigente, sancionando, en su caso, a todos aquéllos que la incumplan en el desempeño de sus funciones.
 
-> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 67.
 
-Es competencia de la Inspección General de las Instituciones de Seguridad Pública del Estado de México, la planeación y ejecución de procedimientos de inspección, vigilancia y técnicas de verificación, para comprobar el cumplimiento de las obligaciones de las y los servidores públicos que integran las instituciones policiales en torno al Mecanismo, así como la estricta observancia en la ejecución de los protocolos de actuación policial con perspectiva de género.
+Es competencia de la Unidad de Asuntos Internos de la Secretaría de Seguridad, la planeación y ejecución de procedimientos de inspección, vigilancia y técnicas de verificación, para comprobar el cumplimiento de las obligaciones de las y los servidores públicos que integran las instituciones policiales en torno al Mecanismo, así como la estricta observancia en la ejecución de los protocolos de actuación policial con perspectiva de género.
 
-La Fiscalía General de Justicia del Estado de México y la Comisión Estatal de Seguridad Ciudadana establecerán los mecanismos de supervisión, control y seguimiento de las actuaciones que realicen las y los servidores públicos a su cargo, en relación a las disposiciones jurídicas en materia de género.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+La Fiscalía General de Justicia del Estado de México y la Secretaría de Seguridad establecerán los mecanismos de supervisión, control y seguimiento de las actuaciones que realicen las y los servidores públicos a su cargo, en relación a las disposiciones jurídicas en materia de género.
+
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 Las instituciones antes referidas, deberán atender de manera oficiosa las denuncias y quejas que se realicen en materia de género, en sus respectivos ámbitos de competencia.
 
@@ -2504,3 +2676,19 @@ TERCERO. Se deroga toda disposición, de igual o menor jerarquía, contraria al 
 CUARTO. El Ejecutivo del Estado en un plazo que no exceda los noventa días naturales después de publicado el presente Decreto, deberá reformar el Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México para darle cumplimiento.
 
 QUINTO. Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres, la Legislatura del Estado de México, dentro del ejercicio fiscal correspondiente, asignará los recursos necesarios para la correcta implementación de los Programas de Acciones Estratégicas.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
