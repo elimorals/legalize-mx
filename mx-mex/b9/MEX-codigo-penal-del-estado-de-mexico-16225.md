@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2023-03-10"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -451,7 +451,9 @@ a) El restablecimiento de las cosas en el estado en que se encontraban antes de 
 
 b) La restitución del bien obtenido por el delito, con sus frutos y accesiones, y el pago en su caso del deterioro y menoscabo, o de los derechos afectados.
 
-La restitución se hará aun en el caso de que el bien hubiere pasado a ser propiedad de terceros; a menos que sea irreivindicable o se haya extinguido el derecho de propiedad, los terceros serán escuchados en audiencia en la forma que señala el Código de Procedimientos Penales.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+La restitución se hará aún en el caso de que el bien hubiere pasado a ser propiedad de terceros; a menos que sea irreivindicable o se haya extinguido el derecho de propiedad, los terceros serán escuchados en audiencia en la forma que señala el Código Nacional de Procedimientos Penales.
 
 Si se trata de bienes fungibles, el juez podrá condenar a la entrega de un objeto igual al que fuese materia de delito sin necesidad de recurrir a prueba pericial;
 
@@ -493,11 +495,11 @@ La reparación del daño se impondrá de oficio al responsable del delito, pero 
 
 Los comprendidos en el artículo 16, estarán obligados en todo caso a la reparación del daño conforme a las disposiciones de este capítulo. Si fueren insolventes, responderán de dicha reparación los que los tengan bajo su patria potestad, tutela o guarda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 29.
 
-La reparación del daño proveniente del delito que deba cubrir el sentenciado tiene el carácter de pena pública; el Ministerio Público deberá acreditar su procedencia y monto, estando obligado a solicitarla íntegramente, sin menoscabo de que lo pueda solicitar directamente la víctima o el ofendido, en términos del Código de Procedimientos Penales y otros ordenamientos legales aplicables.
+La reparación del daño proveniente del delito que deba cubrir el sentenciado tiene el carácter de pena pública; el Ministerio Público deberá acreditar su procedencia y monto, estando obligado a solicitarla íntegramente, sin menoscabo de que lo pueda solicitar directamente la víctima o el ofendido, en términos del Código Nacional de Procedimientos Penales y otros ordenamientos legales aplicables.
 
 Quien se considere con derecho a la reparación del daño y no pueda obtenerla ante el órgano jurisdiccional penal en virtud de sobreseimiento o sentencia absolutoria, o del no ejercicio de la acción penal por el Ministerio Público, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
 
@@ -981,9 +983,9 @@ VI. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2007)
 
 VII. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2007)
 
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VIII. Cuando se ordene sustituir la pena o la multa por jornadas de trabajo, éstas podrán realizarse a favor de la comunidad en actividades organizadas por instituciones públicas, previo convenio de colaboración y coordinación entre el Tribunal Superior de Justicia del Estado de México y la Dirección General de Prevención y Readaptación Social del Estado de México.
+VIII. Cuando se ordene sustituir la pena o la multa por jornadas de trabajo, éstas podrán realizarse a favor de la comunidad en actividades organizadas por instituciones públicas, previo convenio de colaboración y coordinación entre el Tribunal Superior de Justicia del Estado de México y la Subsecretaría de Control Penitenciario a través de la Dirección General de Prevención y Reinserción Social del Estado de México.
 
 > <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
 
@@ -1121,9 +1123,11 @@ Para lograr el cumplimiento de todas estas obligaciones, el beneficiado con la s
 
 A los sentenciados a quienes se conceda el beneficio de la suspensión condicional, se les harán saber las obligaciones que adquieren en los términos del artículo 73, lo que se asentará en diligencia formal, sin que la falta de ésta impida en su caso, la aplicación de lo previsto en el artículo 74.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 77.
 
-El beneficiado debe cumplir durante el término de suspensión con las demás condiciones que la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad señale.
+El beneficiado debe cumplir durante el término de suspensión con las demás condiciones que la Ley Nacional de Ejecución Penal señale.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1165,9 +1169,11 @@ La ejecución de penas privativas y restrictivas de la libertad corresponde al P
 
 La imposición de una pena de inhabilitación para ejercer funciones, empleos, y comisiones o de privación o de suspensión de derechos origina el deber jurídico de cumplirlas, y su quebrantamiento constituye delito de quebrantamiento de pena.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 83.
 
-La multa y la reparación del daño en el caso del artículo 36 se ejecutarán mediante el ejercicio del procedimiento fiscal respectivo. En los demás casos la reparación del daño se hará efectiva a instancia de parte y conforme al Código de Procedimientos Penales.
+La multa y la reparación del daño en el caso del artículo 36 se ejecutarán mediante el ejercicio del procedimiento fiscal respectivo. En los demás casos la reparación del daño se hará efectiva a instancia de parte y conforme al Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2015)</small>
 
@@ -1189,7 +1195,9 @@ IV. Que sea solicitado dentro de los dos años antes de tener derecho a la liber
 
 V. Que pague la reparación del daño y la multa impuesta;
 
-VI. Que el Patronato de Ayuda para la Prevención y Readaptación Social o alguna persona con reconocida solvencia moral y arraigo, se obligue a supervisar y cuidar que el beneficiado cumpla con las condiciones impuestas al momento de su liberación, la cual deberá residir en la misma localidad a la que se integrará el beneficiado;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. Que alguna persona con reconocida solvencia moral y arraigo se obligue a supervisar y cuidar que el beneficiado cumpla con las condiciones impuestas al momento de su liberación, la cual deberá residir en la misma localidad a la que se integrará el beneficiado;
 
 VII. Que compruebe contar en el exterior con un ofrecimiento de trabajo, un oficio, arte o profesión que le permita tener ingresos, o exhiba las constancias que acrediten que continuará estudiando;
 
@@ -2123,19 +2131,19 @@ III. Aceche, vigile, espíe o proporcione información, sobre las actividades qu
 
 IV. Para la realización de alguna de las conductas y fines descritos en la fracción I de este artículo, porte o posea teléfono celular, sistemas de telecomunicaciones o de radiocomunicación;
 
-> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-V. Permita, tolere o facilite la introducción de teléfonos celulares, sistemas de comunicación electrónica o radiocomunicación, dinero, drogas o enervantes, armas, o cualquier objeto o substancia prohibida al interior de los Centros Preventivos y de Readaptación Social del Estado de México, con excepción de los casos previstos en las disposiciones jurídicas aplicables;
+V. Permita, tolere o facilite la introducción de teléfonos celulares, sistemas de comunicación electrónica o radiocomunicación, dinero, drogas o enervantes, armas, o cualquier objeto o substancia prohibida al interior de los Centros Penitenciarios del Estado de México, con excepción de los casos previstos en las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VI. Trafique o introduzca teléfonos celulares, sistemas de comunicación electrónica o de radiocomunicación, dinero, drogas o enervantes, armas, o cualquier otro objeto o substancia prohibida al interior de los Centros Preventivos y de Readaptación Social del Estado de México, con excepción de los casos previstos en las disposiciones jurídicas aplicables.
+VI. Trafique o introduzca teléfonos celulares, sistemas de comunicación electrónica o de radiocomunicación, dinero, drogas o enervantes, armas o cualquier otro objeto o substancia prohibida al interior de los Centros Penitenciarios del Estado de México, con excepción de los casos previstos en las disposiciones jurídicas aplicables.
 
 Las conductas establecidas en este artículo se sancionarán con pena de 6 a 10 años de prisión y de cien a doscientos días multa, sin perjuicio de las penas que les correspondan por los delitos que cometan.
 
-> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-No se actualizará el delito en el caso de los visitantes que ingresen y salgan de los Centros Preventivos y de Readaptación Social portando dinero de su propiedad, hasta por un monto de 17 días de salario mínimo, el cual deberá ser declarado al ingreso.
+No se actualizará el delito en el caso de los visitantes que ingresen y salgan de los Centros Penitenciarios del Estado de México portando dinero de su propiedad, hasta por un monto de 17 días de salario mínimo, el cual deberá ser declarado al ingreso.
 
 > <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
 
@@ -4077,7 +4085,7 @@ A quien con la intención de requerir el pago de una deuda, se valga del engaño
 
 ### CAPITULO XI. IRRUPCION DE EVENTO PUBLICO
 
-> <small>(ADICIONADO, G.G 6 DE ENERO DE 2012)</small>
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2012)</small>
 
 ###### Artículo 268 Quater.
 
@@ -4666,6 +4674,10 @@ XXI. Además de las anteriores, cuando se violen los mecanismos de seguridad de 
 > <small>(ADICIONADA, G.G. 14 DE ABRIL DE 2020)</small>
 
 XXII. Cuando se cometa contra una unidad económica, se impondrán de cinco a diez años de prisión y de uno a tres veces el valor de lo robado sin exceder mil quinientos días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
+
+> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XXIII. Tratándose de robo de un vehículo automotor, cuando se alteren sus medios físicos de identificación, como son el número de identificación vehicular, las placas metálicas, la factura o carta factura del automóvil, las calcomanías, los hologramas, la tarjeta de circulación, los formatos de permisos y el certificado de verificación vehicular.
 
 > <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -7550,3 +7562,19 @@ G.G. 10 DE MARZO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA."]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial "Gaceta del Gobierno" el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
