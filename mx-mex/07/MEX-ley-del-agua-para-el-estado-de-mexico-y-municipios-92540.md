@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-92540"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-22"
-last_updated: "2023-06-02"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de febrero de 2013.
 
@@ -49,15 +49,19 @@ LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
 ### CAPÍTULO ÚNICO. DE LA NATURALEZA Y OBJETO DE LA LEY Y SU APLICACIÓN
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público e interés social, de aplicación y observancia general en el Estado de México, y tiene por objeto normar la explotación, uso, aprovechamiento, administración, control y suministro de las aguas de jurisdicción estatal y municipal y sus bienes inherentes, para la prestación de los servicios de agua potable, drenaje y alcantarillado, saneamiento, y tratamiento de aguas residuales, su reuso y la disposición final de sus productos resultantes.
+Esta Ley es de orden público e interés social, de aplicación y observancia general en el Estado de México, y tiene por objeto normar la explotación, uso, aprovechamiento, administración, control y suministro de las aguas de jurisdicción estatal y municipal y sus bienes inherentes, para la prestación de los servicios de agua potable, drenaje y alcantarillado, saneamiento, y tratamiento de aguas residuales, su reúso y la disposición final de sus productos resultantes.
 
 ###### Artículo 2.
 
 La presente Ley persigue los siguientes objetivos:
 
-I. La regulación de la prestación de los servicios de agua potable, drenaje y alcantarillado, saneamiento, tratamiento de aguas residuales, su reuso y la disposición final de sus productos resultantes;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. La regulación de la prestación de los servicios de agua potable, drenaje y alcantarillado, saneamiento, tratamiento de aguas residuales, su reúso y la disposición final de sus productos resultantes;
 
 II. El mejoramiento continuo de la gestión integral del agua con la participación de los sujetos a quienes rige esta Ley;
 
@@ -245,7 +249,9 @@ XLVIII. Manejo sustentable del agua: Proceso permanente y evaluable, mediante cr
 
 XLIX. Obras hidráulicas: Instalaciones para la explotación, uso y aprovechamiento del agua, así como su descarga, para la prestación de los servicios a que se refiere la presente Ley;
 
-L. Organismo operador: Organismo operador de agua, que puede ser una dependencia estatal o municipal, u organismo descentralizado municipal o intermunicipal que en los términos de la presente Ley tiene la responsabilidad de administrar y operar los servicios, conservar, dar mantenimiento, rehabilitar y ampliar los sistemas de suministro, de drenaje y de alcantarillado, y en su caso, el tratamiento de aguas y su reuso, así como la disposición final de sus productos resultantes, dentro del ámbito territorial que le corresponda;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+L. Organismo operador: Organismo operador de agua, que puede ser una dependencia estatal o municipal, u organismo descentralizado municipal o intermunicipal que en los términos de la presente Ley tiene la responsabilidad de administrar y operar los servicios, conservar, dar mantenimiento, rehabilitar y ampliar los sistemas de suministro, de drenaje y de alcantarillado, y en su caso, el tratamiento de aguas y su reúso, así como la disposición final de sus productos resultantes, dentro del ámbito territorial que le corresponda;
 
 LI. Permisionario: La persona física o jurídica colectiva que tiene un permiso otorgado por la autoridad competente, para los fines previstos en la presente Ley;
 
@@ -273,7 +279,9 @@ LVIII. Reglamento: El Reglamento de la Ley del Agua para el Estado de México y 
 
 LIX. Restricción: La acción de limitar temporalmente los servicios al usuario por falta de cumplimiento de sus obligaciones o por otras causas previstas en esta Ley;
 
-LX. Reuso: La utilización de aguas tratadas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+LX. Reúso: La utilización de aguas tratadas;
 
 LXI. Saneamiento: La conducción, alejamiento, descarga y, en su caso, tratamiento de las aguas residuales y la disposición final de sus productos resultantes;
 
@@ -365,15 +373,25 @@ II. El restablecimiento del equilibrio de los ecosistemas vitales vinculados con
 
 III. El aprovechamiento de las obras hídricas de propiedad privada, cuando se requieran para la eficiente prestación del servicio de agua potable y alcantarillado, establecido o por establecerse;
 
-IV. La captación, regularización, potabilización, desalación, conducción, distribución, prevención y control de la contaminación de las aguas; así como el tratamiento de las aguas residuales que se localicen dentro de los Municipios del Estado y que no sean de jurisdicción federal; así como el reuso de las mismas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-V. El mejoramiento de la calidad de las aguas residuales, la prevención y control de su contaminación, la recirculación y el reuso de dichas aguas, así como la construcción y operación de obras de prevención, control y mitigación de la contaminación del agua, incluyendo plantas de tratamiento de aguas residuales;
+IV. La captación, regularización, potabilización, desalación, conducción, distribución, prevención y control de la contaminación de las aguas; así como el tratamiento de las aguas residuales que se localicen dentro de los Municipios del Estado y que no sean de jurisdicción federal; así como el reúso de las mismas;
 
-VI. La ampliación, rehabilitación, construcción, mejoramiento, conservación, desarrollo y mantenimiento de los sistemas de agua potable y alcantarillado, así como los relativos al tratamiento y reuso de las aguas residuales; incluyendo las instalaciones conexas como son los caminos de acceso y las zonas de protección; y
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+V. El mejoramiento de la calidad de las aguas residuales, la prevención y control de su contaminación, la recirculación y el reúso de dichas aguas, así como la construcción y operación de obras de prevención, control y mitigación de la contaminación del agua, incluyendo plantas de tratamiento de aguas residuales;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. La ampliación, rehabilitación, construcción, mejoramiento, conservación, desarrollo y mantenimiento de los sistemas de agua potable y alcantarillado, así como los relativos al tratamiento y reúso de las aguas residuales; incluyendo las instalaciones conexas como son los caminos de acceso y las zonas de protección;
 
 VII. La formación, modificación y manejo tanto de los padrones de usuarios, como de las tarifas conforme a las cuales serán causados los derechos por la prestación de los servicios públicos de agua potable, alcantarillado, tratamiento y disposición de aguas residuales.
 
-Y las demás contempladas en la Ley de Expropiación para el Estado de México.
+> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VIII. Las demás contempladas en la Ley de Expropiación para el Estado de México.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
@@ -435,7 +453,9 @@ IX. El valor del agua, que implica el reconocimiento social de que los servicios
 
 X. La sustentabilidad financiera, incluyendo la concienciación de los usuarios respecto de los costos del servicio del agua y su obligación de pagar por este servicio;
 
-XI. El agua debe aprovecharse con eficiencia y debe promoverse su reuso y recirculación;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XI. El agua debe aprovecharse con eficiencia y debe promoverse su reúso y recirculación;
 
 XII. La contaminación de los recursos hídricos debe conllevar la responsabilidad de restaurar su calidad, bajo la noción de que "quien contamina, paga", conforme a la normatividad aplicable;
 
@@ -469,9 +489,11 @@ VII. El Sistema de Información del Agua.
 
 ### CAPÍTULO TERCERO. DE LAS AUTORIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 13.
 
-La autoridades encargadas de la ejecución del Sistema Estatal del Agua serán las siguientes:
+Las autoridades encargadas de la ejecución del Sistema Estatal del Agua serán las siguientes:
 
 I. El Gobernador del Estado;
 
@@ -539,7 +561,9 @@ V. Promover la ocupación temporal, total o parcial de bienes, o las medidas res
 
 VI. Proponer al Gobernador del Estado el establecimiento o supresión de zonas de veda, así como de zonas de protección;
 
-VII. Impulsar medidas para el tratamiento de las aguas residuales y su reuso, así como para prevenir y revertir la contaminación o la degradación de los cuerpos de agua;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Impulsar medidas para el tratamiento de las aguas residuales y su reúso, así como para prevenir y revertir la contaminación o la degradación de los cuerpos de agua;
 
 VIII. Coordinar el Sistema Meteorológico e Hidrométrico del Estado;
 
@@ -599,7 +623,9 @@ IV. Administrar las aguas de jurisdicción estatal;
 
 V. Coordinar la planeación, programación y presupuestación del sector hidráulico estatal;
 
-VI. Asesorar a las comunidades y a los municipios que lo soliciten, en las gestiones que realicen ante las dependencias federales, en lo referente a tratamiento y reuso de aguas tratadas, así como para la disposición final de sus productos resultantes;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. Asesorar a las comunidades y a los municipios que lo soliciten, en las gestiones que realicen ante las dependencias federales, en lo referente a tratamiento y reúso de aguas tratadas, así como para la disposición final de sus productos resultantes;
 
 VII. Asesorar, auxiliar y proporcionar asistencia técnica a los municipios y a los organismos operadores que lo soliciten;
 
@@ -621,7 +647,9 @@ XII Bis. Aplicar gas cloro o, en su caso, hipoclorito de sodio al agua en bloque
 
 XIII. Recaudar los ingresos por los servicios que preste;
 
-XIV. Prestar asistencia técnica a los prestadores de los servicios que la soliciten, para operar, mantener y administrar redes de distribución, así como de drenaje alcantarillado, y para el tratamiento de aguas residuales y su reuso;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XIV. Prestar asistencia técnica a los prestadores de los servicios que la soliciten, para operar, mantener y administrar redes de distribución, así como de drenaje alcantarillado, y para el tratamiento de aguas residuales y su reúso;
 
 XV. Proponer a las autoridades competentes las tarifas de los servicios, en los términos establecidos por la presente Ley;
 
@@ -825,13 +853,17 @@ XIV. Proponer criterios para la definición de la política hídrica estatal y p
 
 XV. Proponer los lineamientos para la elaboración de las normas de carácter técnico a las cuales deberá ajustarse el desarrollo de las obras hidráulicas;
 
-XVI. Proponer los lineamientos para elaborar los protocolos y normas técnicas para la desinfección, la cloración, el tratamiento de aguas residuales, la disposición final de los productos resultantes, las condiciones de descarga, y el reuso de aguas tratadas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XVI. Proponer los lineamientos para elaborar los protocolos y normas técnicas para la desinfección, la cloración, el tratamiento de aguas residuales, la disposición final de los productos resultantes, las condiciones de descarga, y el reúso de aguas tratadas;
 
 XVII. Proponer los lineamientos para la elaboración de las normas técnicas que permitan reducir las pérdidas de agua en las redes de distribución y líneas de conducción;
 
 XVIII. Proponer los lineamientos que deberán observarse en la prestación de los servicios a los usuarios;
 
-XIX. Proponer los criterios bajo las cuales se evaluarán los diferentes procesos asociados a la prestación de los servicios, la desinfección, la cloración, el tratamiento de aguas residuales, la disposición final de los productos resultantes, las condiciones de descarga y el reuso de las aguas tratadas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XIX. Proponer los criterios bajo las cuales se evaluarán los diferentes procesos asociados a la prestación de los servicios, la desinfección, la cloración, el tratamiento de aguas residuales, la disposición final de los productos resultantes, las condiciones de descarga y el reúso de las aguas tratadas;
 
 XX. Proponer los lineamientos para la definición y actualización de las tarifas aplicables a los servicios;
 
@@ -1175,7 +1207,9 @@ II. La integración y actualización del inventario de las aguas de jurisdicció
 
 III. La integración y actualización del catálogo de proyectos estatales y municipales para la explotación, aprovechamiento y uso del agua, así como para su manejo sustentable;
 
-IV. La formulación de estrategias, planes y programas de cuenca, regionales y municipales, para la adecuada explotación, uso, aprovechamiento del agua su tratamiento y reuso, así como su manejo sustentable;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. La formulación de estrategias, planes y programas de cuenca, regionales y municipales, para la adecuada explotación, uso, aprovechamiento del agua su tratamiento y reúso, así como su manejo sustentable;
 
 V. La implementación de un sistema financiero integral para el desarrollo hidráulico del Estado; y
 
@@ -1183,9 +1217,11 @@ VI. La evaluación del Programa Hídrico Integral Estatal.
 
 El Programa Hídrico Integral Estatal constituirá el subprograma que corresponde al Estado, en los términos de la Ley de Aguas Nacionales.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 47.
 
-Los sectores social y privado participarán, en coordinación con los gobiernos federal, estatal y municipal, en el establecimiento de las políticas, lineamientos y especificaciones técnicas conforme a las cuales deberá efectuarse la construcción, ampliación, rehabilitación, administración, operación, conservación y mantenimiento de los sistemas de suministro de agua potable, drenaje, alcantarillado, tratamiento de aguas residuales y la disposición final de sus productos resultantes, y su reuso.
+Los sectores social y privado participarán, en coordinación con los gobiernos federal, estatal y municipal, en el establecimiento de las políticas, lineamientos y especificaciones técnicas conforme a las cuales deberá efectuarse la construcción, ampliación, rehabilitación, administración, operación, conservación y mantenimiento de los sistemas de suministro de agua potable, drenaje, alcantarillado, tratamiento de aguas residuales y la disposición final de sus productos resultantes, y su reúso.
 
 ###### Artículo 48.
 
@@ -1203,9 +1239,11 @@ La infraestructura hidráulica y los bienes inherentes pueden ser aprovechados p
 
 La infraestructura hidráulica para el servicio de agua potable comprende las fuentes de abastecimiento de agua; las plantas de bombeo; las plantas potabilizadoras de agua; las líneas de conducción de agua en bloque y líneas de alimentación; los tanques de regulación y almacenamiento de agua, misma que será de jurisdicción del Estado cuando abastezca a más de un municipio; así como las redes de distribución, que son de estricta jurisdicción municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 51.
 
-La infraestructura hidráulica para los servicios de drenaje, alcantarillado, saneamiento y tratamiento de aguas residuales para su reuso, comprende los colectores, subcolectores, cárcamos de bombeo, emisores, las plantas de tratamiento de aguas residuales, lagunas de oxidación, humedales, líneas moradas y las obras hidráulicas para la prevención de inundaciones, misma que será de jurisdicción Estatal cuando reciba descargas de aguas residuales o pluviales de más de un municipio.
+La infraestructura hidráulica para los servicios de drenaje, alcantarillado, saneamiento y tratamiento de aguas residuales para su reúso, comprende los colectores, subcolectores, cárcamos de bombeo, emisores, las plantas de tratamiento de aguas residuales, lagunas de oxidación, humedales, líneas moradas y las obras hidráulicas para la prevención de inundaciones, misma que será de jurisdicción Estatal cuando reciba descargas de aguas residuales o pluviales de más de un municipio.
 
 Así mismo la infraestructura hidráulica que conforma el drenaje, el alcantarillado y su red de atarjeas y toda aquella infraestructura necesaria para prestar dichos servicios será de jurisdicción municipal.
 
@@ -1341,7 +1379,9 @@ VI. El servicio de cloración.
 
 Los servicios de descarga de aguas residuales derivadas de usos industriales y de servicios que no tengan instalados sistemas de tratamiento previo, se regirán por los permisos respectivos y demás disposiciones aplicables.
 
-El reuso de aguas tratadas, resultantes de una concesión o convenio, se determinará en el instrumento jurídico respectivo, en los términos de la Ley y su Reglamento.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+El reúso de aguas tratadas, resultantes de una concesión o convenio, se determinará en el instrumento jurídico respectivo, en los términos de la Ley y su Reglamento.
 
 ###### Artículo 68.
 
@@ -1409,9 +1449,9 @@ El suministro de agua para los usos a que se refieren las fracciones II a la VII
 
 Los prestadores de los servicios a que se refiere el artículo 34 de la presente Ley, están obligados a garantizar la calidad del agua suministrada para los diferentes usos, debiendo aplicar los procesos de desinfección con gas cloro o, en su caso hipoclorito de sodio, conforme a la Norma Oficial Mexicana.
 
-> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-Los servidores públicos que incumplan con esta obligación serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Los servidores públicos que incumplan con esta obligación serán sancionados en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ###### Artículo 71.
 
@@ -1517,9 +1557,11 @@ I. Se requiera reparar o dar mantenimiento a los sistemas de drenaje y alcantari
 
 II. La descarga pueda obstruir la infraestructura, afectar el funcionamiento de los sistemas de tratamiento o poner en peligro la seguridad de un núcleo de población o de sus habitantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 82.
 
-Cuando la descarga de las aguas residuales afecten o puedan afectar fuentes de abastecimiento de agua potable o la salud pública, el municipio o, en su caso, el organismo operador dictará la negativa del permiso correspondiente, su inmediata revocación y/o la aplicación de la sanción.
+Cuando la descarga de las aguas residuales afecte o pueda afectar fuentes de abastecimiento de agua potable o la salud pública, el municipio o, en su caso, el organismo operador dictará la negativa del permiso correspondiente, su inmediata revocación y/o la aplicación de la sanción.
 
 La Comisión, los municipios, y los organismos operadores, en el ámbito de su respectiva competencia, podrán ordenar la suspensión de las actividades que den origen a las descargas de aguas residuales a cuerpos y corrientes de jurisdicción estatal y municipal, y en su caso, la restricción del suministro del agua en tanto se corrijan estas anomalías cuando:
 
@@ -1529,7 +1571,9 @@ II. La calidad de las descargas esté fuera de las normas oficiales mexicanas co
 
 III. El responsable de la descarga utilice el proceso de dilución de las aguas residuales para pretender cumplir con las normas oficiales mexicanas respectivas o las condiciones particulares de descarga; o
 
-IV. Cualquier otra que a consideración de la Comisión, de los municipios o de los organismos operadores, en su ámbito de competencia, ponga en riesgo la estabilidad de la infraestructura hidráulica o la seguridad de la población.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Cualquier otra que, a consideración de la Comisión, de los municipios o de los organismos operadores, en su ámbito de competencia, ponga en riesgo la estabilidad de la infraestructura hidráulica o la seguridad de la población.
 
 La suspensión será sin perjuicio de la responsabilidad civil, penal o administrativa en que se incurra.
 
@@ -2127,7 +2171,9 @@ IV. El uso o usos que se dará al agua, debiendo especificarse cada uno de ellos
 
 V. En su caso, el punto de descarga de las aguas residuales;
 
-VI. En su caso, el proyecto de las obras que requiere realizar o las características de las obras existentes para la explotación, uso o aprovechamiento, así como, en su caso, las respectivas para la descarga y/o tratamiento de las aguas residuales, y/o los procesos para su reuso;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. En su caso, el proyecto de las obras que requiere realizar o las características de las obras existentes para la explotación, uso o aprovechamiento, así como, en su caso, las respectivas para la descarga y/o tratamiento de las aguas residuales, y/o los procesos para su reúso;
 
 VII. El acuerdo del Cabildo para autorizar la suscripción del Convenio o la autorización del Consejo Directivo del organismo operador, según sea el caso; y
 
@@ -2473,7 +2519,9 @@ I. Comprobar que la prestación de los servicios se ajusta a lo prescrito en la 
 
 II. Comprobar que la infraestructura hidráulica funcione y esté de acuerdo con la autorización concedida;
 
-III. Comprobar que los consumos de agua de los diferentes usuarios corresponde al uso autorizado;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Comprobar que los consumos de agua de los diferentes usuarios corresponden al uso autorizado;
 
 IV. Verificar el correcto funcionamiento de los medidores;
 
@@ -3050,3 +3098,19 @@ TERCERO. Para cumplir con el contenido del presente Decreto las Dependencias y O
 CUARTO. La Comisión del Agua del Estado de México elaborará y emitirá, en coordinación con la Secretaría de Finanzas, las reglas de operación para la aplicación de los recursos asignados al Fideicomiso a que se refiere el presente Decreto.
 
 QUINTO. La operación y funcionamiento del Fideicomiso al que hace referencia el presente Decreto quedará sujeta a la disponibilidad presupuestal, y comenzará su funcionamiento a partir del Ejercicio Fiscal del Año 2024.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
