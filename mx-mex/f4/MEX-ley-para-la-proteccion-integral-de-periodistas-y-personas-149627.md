@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-integral-de-periodistas-y-personas-14962
 country: "mx"
 rank: "ley"
 publication_date: "2021-05-31"
-last_updated: "2021-05-31"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PROTECCIÓN INTEGRAL DE PERIODISTAS Y PERSONAS DEFENSORAS DE LOS DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Segunda del Número 100 de la Gaceta del Gobierno del Estado de México, el lunes 31 de mayo de 2021.
 
@@ -47,7 +47,9 @@ LEY PARA LA PROTECCIÓN INTEGRAL DE PERIODISTAS Y PERSONAS DEFENSORAS DE LOS DER
 
 Las disposiciones de esta Ley son de orden público, interés social y de observancia general en todo el Estado de México y serán aplicadas de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de la materia, suscritos y ratificados por el Estado Mexicano y la Constitución Política del Estado Libre y Soberano de México, así como, en los principios de universalidad, interdependencia, indivisibilidad, progresividad y favoreciendo en todo tiempo a las personas la protección más amplia.
 
-La presente ley crea el Mecanismo de Protección Integral de Periodistas y Personas Defensoras de los Derechos Humanos del Estado de México y tiene como objeto promover y facilitar la coordinación y cooperación entre el gobierno federal, el gobierno local y los municipios del Estado de México para promover, implementar y operar las Medidas de Prevención, de Protección y Urgentes de Protección que garanticen la vida, integridad, seguridad y libertad de las personas que se encuentren en riesgo a consecuencia de la labor de defensa o promoción de los derechos humanos y el ejercicio de la libertad de expresión y la actividad periodística.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+La presente ley crea el Mecanismo para la Protección Integral de Periodistas y Personas Defensoras de los Derechos Humanos del Estado de México y tiene como objeto promover y facilitar la coordinación y cooperación entre el gobierno federal, el gobierno local y los municipios del Estado de México para promover, implementar y operar las Medidas de Prevención, de Protección y Urgentes de Protección que garanticen la vida, integridad, seguridad y libertad de las personas que se encuentren en riesgo a consecuencia de la labor de defensa o promoción de los derechos humanos y el ejercicio de la libertad de expresión y la actividad periodística.
 
 La presente ley reconoce la actividad periodística como de Interés Público que debe ser Tutelada y Protegida por el Estado y los municipios.
 
@@ -101,9 +103,11 @@ Al analizar cada caso, los órganos del Mecanismo deberán hacerlo siempre de la
 
 ### CAPÍTULO II. LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 4.
 
-La Junta de Gobierno es la instancia máxima del Mecanismo de Protección Integral de Periodistas y Personas Defensoras de Derechos Humanos del Estado de México y tiene por objeto coordinar las acciones de las distintas autoridades en la protección, promoción y garantía de la seguridad de los Periodistas y las Personas Defensoras de Derechos Humanos, así como fomentar las políticas públicas de capacitación y de coordinación interinstitucional en la materia para prevenir acciones que vulneren o amenacen la integridad de dichas personas.
+La Junta de Gobierno es la instancia máxima del Mecanismo y tiene por objeto coordinar las acciones de las distintas autoridades en la protección, promoción y garantía de la seguridad de los Periodistas y las Personas Defensoras de Derechos Humanos, así como fomentar las políticas públicas de capacitación y de coordinación interinstitucional en la materia para prevenir acciones que vulneren o amenacen la integridad de dichas personas.
 
 Las resoluciones que emita la Junta de Gobierno serán obligatorias para las autoridades del Estado de México, cuya intervención sea necesaria para satisfacer las Medidas de Prevención, Medidas Preventivas, Medidas de Protección y Medidas Urgentes de Protección previstas en esta Ley.
 
@@ -735,7 +739,9 @@ VIII. La promoción del estudio, análisis, investigación y desarrollo de estra
 
 IX. Las demás que las partes convengan.
 
-### CAPÍTULO XVII. DEL FONDO PARA LA PROTECCIÓN DE PERIODISTAS Y PERSONAS DEFENSORAS DE DERECHOS HUMANOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO XVII. DEL FONDO PARA LA PROTECCIÓN INTEGRAL DE PERIODISTAS Y PERSONAS DEFENSORAS DE LOS DERECHOS HUMANOS
 
 ###### Artículo 64.
 
@@ -751,19 +757,27 @@ El patrimonio del Fondo se integrarán por:
 
 I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado;
 
-II. Recursos que destine la Federación al Fondo para la Protección a Periodistas y Personas Defensoras de Derechos Humanos;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Recursos que destine la Federación al Fondo;
 
 III. Donaciones de personas físicas o jurídico colectivas;
 
-IV. Los rendimientos que generen los recursos del Fondo para la Protección a Periodistas y Personas Defensoras de Derechos Humanos, y los demás ingresos que por ley le sean asignado.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Los rendimientos que generen los recursos del Fondo y los demás ingresos que por ley le sean asignados.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 67.
 
-En la aplicación de los recursos del Fondo para la Protección a Periodistas y Personas Defensoras de Derechos Humanos se observarán los principios de publicidad, legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+En la aplicación de los recursos del Fondo se observarán los principios de publicidad, legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 68.
 
-El ejercicio de los recursos del Fondo para la Protección a Periodistas y Personas Defensoras de Derechos Humanos se realizará conforme a los criterios de transparencia, oportunidad, eficacia y racionalidad; y la Auditoria Superior del Estado de México, fiscalizará en los términos de la legislación local aplicable, su uso y destino, asimismo los recursos federales serán fiscalizados en términos de las disposiciones jurídicas aplicables.
+El ejercicio de los recursos del Fondo se realizará conforme a los criterios de transparencia, oportunidad, eficacia y racionalidad. El Órgano Superior de Fiscalización del Estado de México fiscalizará en los términos de la legislación local aplicable su uso y destino, asimismo los recursos federales serán fiscalizados en términos de las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO XVIII. DE LAS INCONFORMIDADES
 
@@ -860,3 +874,21 @@ Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capit
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
 Toluca de Lerdo, México, a 21 de mayo de 2021.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
