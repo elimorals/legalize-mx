@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-6105"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-25"
-last_updated: "2012-03-30"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno, el 25 de febrero de 1994.
 
@@ -159,11 +159,39 @@ IV. La profesionalización de los servidores públicos que participen en la cust
 
 La Comisión de Derechos Humanos del Estado de México, en el ámbito de su competencia, podrá participar en la ejecución de los programas que se mencionan en este artículo.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+> <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+###### Artículo 12 Bis.
+
+Los elementos de las instituciones de seguridad pública que realicen detenciones deberán hacerlo del conocimiento en el Registro Administrativo de Detenciones, a través del Informe Policial Homologado, de conformidad con lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública y la Ley Nacional del Registro de Detenciones.
+
+> <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+###### Artículo 12 Ter.
+
+Las instituciones policiales, de procuración de justicia, y dependencias encargadas de la seguridad pública a nivel estatal y municipal, en sus respectivos ámbitos de competencia, se coordinarán para:
+
+I. Implementar programas y acciones para prevenir y fortalecer el combate de los delitos previstos en la presente ley y en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+II. Desarrollar programas de formación, actualización, capacitación y profesionalización permanente de sus personas servidoras públicas, y de otras autoridades involucradas en la investigación, documentación, dictaminación médica y psicológica de casos relacionados con los delitos previstos en esta ley; así como en la custodia y tratamiento de toda persona sometida o en proceso de detención, tomando en consideración las reglas contempladas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, los tratados internacionales de los que el estado mexicano sea parte y otros estándares internacionales de la materia;
+
+III. Desarrollar protocolos de actuación, campañas de sensibilización y difusión, manuales, capacitaciones, y cualquier otro mecanismo o normatividad, para prevenir el empleo de la tortura y otros tratos o penas crueles, inhumanas o degradantes hacia toda persona y, especialmente, a las personas sujetas a cualquier régimen de privación de la libertad;
+
+IV. Promover con las instancias educativas, sociales y de salud nacionales e internacionales, campañas de sensibilización, eventos de difusión y formación tendientes a la consolidación de la cultura de respeto a los derechos humanos y la prevención y sanción de la tortura y otros tratos o penas crueles, inhumanos o degradantes, y
+
+V. Las demás que establezcan esta Ley, la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+###### Artículo 12 Quater.
+
+Será obligatorio para las personas servidoras públicas que forman parte de las instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y aquellas encargadas de la seguridad pública a nivel municipal, recibir la impartición de cursos sobre las normas y criterios del derecho nacional e internacional en materia de tortura y otros tratos o penas crueles, inhumanos o degradantes.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 13.
 
-En lo no previsto en la presente Ley, se aplicará lo dispuesto en el Código Penal y el Código de Procedimientos Penales, ambos del Estado de México.
+En lo no previsto en la presente Ley, se aplicará lo dispuesto en el Código Penal del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -200,3 +228,19 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Las conductas típicas previstas y sancionadas con anterioridad, se trasladaran o adecuaran al tipo penal descrito en la presente Reforma, en aquellos hechos que se hayan cometido con anterioridad a la entrada en vigor de este Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial "Gaceta del Gobierno" el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
