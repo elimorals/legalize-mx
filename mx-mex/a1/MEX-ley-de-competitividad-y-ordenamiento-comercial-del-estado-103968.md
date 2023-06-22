@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2022-12-21"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -411,9 +411,11 @@ La ventanilla de gestión turnará a la ventanilla única todos los trámites qu
 
 El responsable de la ventanilla tendrá la obligación de denunciar, ante el órgano de control respectivo, cuando haya transcurrido en exceso el plazo otorgado para que la autoridad requerida dé respuesta a las solicitudes que se le formulen en términos de esta Ley.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 20.
 
-La operación y debido funcionamiento de la ventanilla de gestión estará a cargo del servidor público que designe la Secretaría de Desarrollo Económico, y la ventanilla única será responsabilidad del Presidente Municipal, las infracciones que se den en el funcionamiento de las ventanillas serán sancionadas en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+La operación y debido funcionamiento de la ventanilla de gestión estará a cargo del servidor público que designe la Secretaría de Desarrollo Económico, y la ventanilla única será responsabilidad del Presidente Municipal, las infracciones que se den en el funcionamiento de las ventanillas serán sancionadas en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 5 DE ENERO DE 2021)</small>
 
@@ -597,9 +599,11 @@ XIII. De igual manera queda prohibida la colocación de regaderas en las instala
 
 XIV. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 24.
 
-Los titulares de las unidades económicas de alto impacto estarán obligados a instalar videocámaras, equipos y sistemas tecnológicos privados, enlazados con los de la Secretaría de Seguridad Ciudadana, de acuerdo a la normatividad de la materia, con la finalidad de atender eventos de reacción inmediata.
+Los titulares de las unidades económicas de alto impacto estarán obligados a instalar videocámaras, equipos y sistemas tecnológicos privados, enlazados con los de la Secretaría de Seguridad, de acuerdo con la normatividad de la materia, con la finalidad de atender eventos de reacción inmediata.
 
 Las grabaciones obtenidas con videocámaras, equipos y sistemas tecnológicos privados únicamente deberán ser entregadas cuando así lo solicite la autoridad competente.
 
@@ -2137,9 +2141,11 @@ VI. Suspensión del permiso.
 
 VII. Revocación o cancelación de las autorizaciones, licencias, dictámenes o permisos otorgados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 181.
 
-Sin perjuicio de las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, constituyen infracciones administrativas en materia de esta Ley atribuibles a los servidores públicos, las siguientes:
+Sin perjuicio de las sanciones previstas en la Ley de Responsabilidades Administrativas del Estado de México y Municipios, constituyen infracciones administrativas en materia de esta Ley atribuibles a los servidores públicos, las siguientes:
 
 I. Omitir la remisión de la información al Sistema.
 
@@ -2155,11 +2161,15 @@ c) Negligencia o mala fe en la integración de expedientes.
 
 d) Negligencia o mala fe en el seguimiento de trámites que den lugar a la aplicación de la afirmativa o negativa ficta.
 
-La autoridad dará vista al órgano de control interno correspondiente, sobre los casos que tenga conocimiento por el incumplimiento a lo previsto en esta Ley, con independencia de que derivado de su actuar se pueda configurar algún delito.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+La autoridad dará vista al órgano interno de control correspondiente, sobre los casos que tenga conocimiento por el incumplimiento a lo previsto en esta Ley, con independencia de que derivado de su actuar se pueda configurar algún delito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 182.
 
-Las infracciones administrativas en materia de esta Ley atribuibles a los servidores públicos, serán calificadas y sancionadas por el órgano de control interno competente a través del procedimiento administrativo disciplinario de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, quien sancionará con:
+Las infracciones administrativas en materia de esta Ley atribuibles a personas servidoras públicas serán calificadas y sancionadas por el órgano interno de control competente a través del procedimiento respectivo de conformidad con la Ley de Responsabilidades Administrativas del Estado de México y Municipios, quien sancionará con:
 
 I. Amonestación.
 
@@ -2944,3 +2954,19 @@ G.G. 21 DE DICIEMBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
