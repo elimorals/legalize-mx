@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2023-04-14"
+last_updated: "2023-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -147,9 +147,11 @@ Para la eficaz atención y eficiente despacho de los asuntos de su competencia, 
 
 Los titulares de las dependencias del Ejecutivo, formularán proyectos de Ley, Reglamentos, Decretos y Acuerdos de las materias que correspondan a su competencia y las remitirán al Ejecutivo a través del Secretario de Justicia y Derechos Humanos.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 18.
 
-Al tomar posesión del cargo, los titulares de las dependencias mencionadas en esta Ley, deberán levantar un inventario sobre los bienes que se encuentren en poder de las mismas, debiendo registrar éste en la Secretaría de Administración del Gobierno del Estado, quien verificará la exactitud del mismo.
+Al tomar posesión del cargo, los titulares de las dependencias mencionadas en esta Ley deberán levantar un inventario sobre los bienes que se encuentren en poder de las mismas, debiendo registrar éste en la Secretaría de Finanzas del Gobierno del Estado, quien verificará la exactitud del mismo.
 
 ### CAPITULO TERCERO. De la Competencia de las
 
@@ -377,7 +379,9 @@ XVIII. Coordinar y prestar los servicios de seguridad pública, vigilancia y pro
 
 XIX. Establecer y vigilar la operación de los procedimientos de administración, seguridad, control, vigilancia y apoyo logístico del sistema penitenciario;
 
-XX. Administrar los centros de reinserción social y tramitar las solicitudes de libertad anticipada y traslado de internos, así como supervisar a los sentenciados con sustitutivos o beneficios de libertad anticipada;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XX. Administrar los Centros Penitenciarios y tramitar las solicitudes de libertad anticipada y traslado de personas privadas de su libertad, así como supervisar a los sentenciados con sustitutivos o beneficios de libertad anticipada;
 
 XXI. Vigilar el establecimiento de instituciones para internamiento y la aplicación de la normatividad en materia de justicia para adolescentes;
 
@@ -855,7 +859,9 @@ XVII. Establecer, coordinar y ejecutar, con la participación de otras instituci
 
 XVIII. Vigilar que se apliquen las normas oficiales mexicanas, en materia de salud, que emitan las autoridades federales;
 
-XIX. Coordinar, supervisar e inspeccionar los centros educativos, para proteger la salud del educando y de la comunidad escolar, los servicios de medicina legal de salud en apoyo a la procuración de justicia, así como la atención médica a la población interna en los centros preventivos y de readaptación social;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XIX. Coordinar, supervisar e inspeccionar los centros educativos, para proteger la salud del educando y de la comunidad escolar, los servicios de medicina legal de salud en apoyo a la procuración de justicia, así como la atención médica a las personas privadas de la libertad en los Centros Penitenciarios;
 
 XX. Participar con las dependencias competentes y con las autoridades federales y municipales en la prevención o tratamiento de problemas ambientales;
 
@@ -1941,9 +1947,13 @@ II. Fiscalizar e inspeccionar el ejercicio del gasto público estatal y su congr
 
 III. Formular y expedir las normas y criterios que regulen el funcionamiento de los instrumentos, sistemas y procedimientos de control de la administración pública estatal. La Secretaría discrecionalmente podrá requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de sus facultades de control.
 
-IV. Vigilar y supervisar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control interno de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-V. Establecer y dictar las bases generales para la realización de auditorías e inspecciones en las dependencias, organismos auxiliares y fideicomisos de carácter estatal, así como realizar las que se requieran en substitución o apoyo de sus propios órganos de control.
+IV. Vigilar y supervisar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal.
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+V. Establecer y dictar las bases generales para la realización de auditorías e inspecciones en las dependencias, organismos auxiliares y fideicomisos de carácter estatal, así como realizar las que se requieran en substitución o apoyo de sus propios órganos internos de control.
 
 VI. Comprobar el cumplimiento por parte de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal; de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del gobierno estatal.
 
@@ -1951,7 +1961,9 @@ VI. Comprobar el cumplimiento por parte de las dependencias, organismos auxiliar
 
 VII. Realizar por sí o a solicitud de parte, auditorías, revisiones y evaluaciones a las dependencias, organismos auxiliares y fideicomisos de carácter estatal, con el objeto de controlar, examinar, fiscalizar y promover la eficacia, legalidad y la transparencia en sus operaciones y verificar de acuerdo con su competencia el cumplimiento de los objetivos y metas contenidos en sus programas, de manera trimestral los programas de mejora regulatoria, la actualización del Registro Estatal de Trámites y Servicios, así como a las disposiciones contenidas en la Ley de Gobierno Digital del Estado de México y Municipios y su Reglamento.
 
-VIII. Inspeccionar y vigilar directamente o a través de los órganos de control, que las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, cumplan con las normas y disposiciones en materia de: sistema de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos materiales de la administración pública estatal.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VIII. Inspeccionar y vigilar directamente o a través de los órganos internos de control que las dependencias, organismos auxiliares y fideicomisos de la Administración Pública Estatal, cumplan con las normas y disposiciones en materia de: sistema de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos materiales de la Administración Pública Estatal.
 
 IX. Vigilar en los términos de los convenios respectivos, que los recursos federales y estatales que ejerzan directamente los municipios, se apliquen conforme a lo estipulado en los mismos.
 
@@ -4116,3 +4128,19 @@ G.G. 14 DE ABRIL DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
