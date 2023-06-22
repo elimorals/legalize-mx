@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-98504
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-05"
-last_updated: "2023-05-11"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera en la Gaceta del Gobierno del Estado de México, el miércoles 5 de febrero de 2014.
 
@@ -837,9 +837,11 @@ El personal que labore en los Centros de Atención garantizará un ambiente de r
 
 ### CAPÍTULO XII. De las visitas de verificación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 64.
 
-La Secretaría de Educación, la Secretaría de Salud, la Secretaría de Seguridad Ciudadana y los ayuntamientos, en el ámbito de sus respectivas competencias y conforme lo determine su reglamentación, deberán efectuar, cuando menos cada seis meses, visitas de verificación a los Centros de Atención y aplicarán, cuando proceda, las sanciones correspondientes, sin perjuicio de la supervisión y seguimiento que realicen las autoridades federales en el ámbito de su competencia.
+Las Secretarías de Educación, de Salud y de Seguridad y los ayuntamientos, en el ámbito de sus respectivas competencias y conforme lo determine su reglamentación, deberán efectuar, cuando menos cada seis meses, visitas de verificación a los Centros de Atención y aplicarán, cuando proceda, las sanciones correspondientes, sin perjuicio de la supervisión y seguimiento que realicen las autoridades federales en el ámbito de su competencia.
 
 Estas verificaciones deben ser realizadas garantizando la seguridad, atención y cuidados necesarios hacia las niñas y los niños de los Centro de Atención.
 
@@ -1009,15 +1011,17 @@ V. La naturaleza y demás circunstancias que sirvan para individualizar la sanci
 
 Las sanciones administrativas serán independientes de las penales que resulten como consecuencia de la comisión de delitos en contra de niñas y niños en los Centros de Atención, Cuidado y Desarrollo Integral Infantil, de acuerdo a lo establecido en la legislación penal correspondiente.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 84.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, por parte de los servidores públicos, constituyen infracción y serán sancionados en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y municipios, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, por parte de los servidores públicos, constituyen infracción y serán sancionados en los términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 85.
 
-Contra los actos y las resoluciones que dicten las autoridades en materia de autorizaciones, licencias o permisos para el funcionamiento de los centros de atención los particulares podrán interponer el recurso de inconformidad ante la propia autoridad o acudir ante el Tribunal de lo Contencioso Administrativo.
+Contra los actos y las resoluciones que dicten las autoridades en materia de autorizaciones, licencias o permisos para el funcionamiento de los centros de atención los particulares podrán interponer el recurso de inconformidad ante la propia autoridad o acudir ante el Tribunal de Justicia Administrativa del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -1090,3 +1094,19 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
