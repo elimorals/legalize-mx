@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-combatir-y-eliminar-actos-de-53772"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-17"
-last_updated: "2017-12-05"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 2007.
 
@@ -149,11 +149,13 @@ Ninguna institución o establecimiento de educación, cualquiera que sea su nive
 
 II. Para fomentar la igualdad de niñas, niños y adolescentes:
 
-a) Impartir educación para la preservación de la salud, el conocimiento integral de la sexualidad, la planificación familiar, la paternidad responsable y el respeto a los derechos humanos;
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+a) Impartir educación en todos los niveles, para la preservación de la salud, el conocimiento integral de la sexualidad, la planificación familiar, la paternidad responsable y el respeto a los derechos humanos, de conformidad con las disposiciones jurídicas aplicables;
 
-b) Promover el acceso a centros de atención, cuidado y desarrollo integral infantil, incluyendo a niñas, niños y adolescentes con discapacidad.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+b) Promover el acceso a centros de desarrollo infantil, incluyendo a niñas, niños y adolescentes con discapacidad;
 
 > <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -379,9 +381,11 @@ La convocatoria para el otorgamiento de este premio, podrá considerar la partic
 
 ### CAPÍTULO VIII. DE LAS SANCIONES
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 22.
 
-Será causa de responsabilidad administrativa, los actos u omisiones de carácter discriminatorio en que incurran los servidores públicos estatales y municipales, por lo que serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Será causa de responsabilidad administrativa, los actos u omisiones de carácter discriminatorio en que incurran los servidores públicos estatales y municipales, por lo que serán sancionados en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ###### Artículo 23.
 
@@ -417,9 +421,11 @@ Cuando la denuncia sea presentada ante una autoridad incompetente, ésta la remi
 
 Para la imposición de las sanciones, las autoridades competentes se ajustarán a lo establecido por los artículos 129, 130, 131 y 137 del Código de Procedimientos Administrativos del Estado de México.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 29.
 
-En contra de las sanciones impuestas en términos de esta ley, el particular afectado podrá optar por promover recurso administrativo de inconformidad o presentar demanda ante el Tribunal de lo Contencioso Administrativo.
+En contra de las sanciones impuestas en términos de esta ley, el particular afectado podrá optar por promover recurso administrativo de inconformidad o presentar demanda ante el Tribunal de Justicia Administrativa del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -558,3 +564,19 @@ G.G. 5 DE DICIEMBRE DE 2017.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México”.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
