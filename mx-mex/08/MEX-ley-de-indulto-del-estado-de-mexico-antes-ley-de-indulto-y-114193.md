@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-indulto-del-estado-de-mexico-antes-ley-de-indulto-y-1141
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-18"
-last_updated: "2017-09-29"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE INDULTO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 18 de abril de 2016.
 
@@ -49,11 +47,11 @@ LEY DE INDULTO DEL ESTADO DE MÉXICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés general, regirán en el Estado de México y su aplicación corresponde al Gobernador, por conducto de las Secretarías de Justicia y Derechos Humanos, y de Seguridad, al Instituto de la Defensoría Pública y de la Dirección General de Prevención y Reinserción Social.
+Las disposiciones de esta Ley son de orden público e interés general, regirán en el Estado de México y su aplicación corresponde al Gobernador, por conducto de las Secretarías de Justicia y Derechos Humanos, y de Seguridad, al Instituto de la Defensoría Pública y de la Subsecretaría de Control Penitenciario, a través de la Dirección General de Prevención y Reinserción Social.
 
 > <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
@@ -67,7 +65,7 @@ Para los efectos de esta Ley, se entenderá por:
 
 > <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-l. Secretaría: a la Secretaría de Seguridad.
+I. Secretaría: a la Secretaría de Seguridad.
 
 > <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -79,7 +77,9 @@ III. (DEROGADA, G.G. 3 DE FEBRERO DE 2017)
 
 IV. Consejo Consultivo: al Consejo Consultivo de Indulto, órgano colegiado conformado por los titulares o representantes de la Secretaría de Justicia y Derechos Humanos, del Poder Judicial, del Poder Legislativo, de la Comisión Estatal de Derechos Humanos, de la Universidad Autónoma del Estado de México, del Sistema para el Desarrollo Integral de la Familia de la Entidad y de la Comisión Ejecutiva de Atención a Víctimas del Estado de México, encargado de emitir opinión integral; al Gobernador respecto de la viabilidad para otorgar el indulto.
 
-V. Consejo Técnico: al Consejo Técnico Interdisciplinario que es el órgano colegiado consultivo de la Dirección General de Prevención y Readaptación Social del Estado de México, integrado por los titulares o representantes de las áreas directivas, laboral, técnica y de seguridad de la misma, además de las correspondientes a la institución penitenciaria.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+V. Comité Técnico: al órgano colegiado consultivo de la Subsecretaría de Control Penitenciario y de la Dirección General de Prevención y Reinserción Social, únicamente en cuestión de la Ley, en aquellos asuntos que le corresponda resolver, integrado por los titulares o representantes de las áreas directivas, laboral, técnica y de seguridad de la misma, además de las correspondientes a la institución penitenciaria.
 
 VI. Delincuente habitual: al reincidente que cometa un nuevo delito, siempre que los tres o más delitos anteriores se hayan llevado a cabo en un periodo que no exceda de quince años.
 
@@ -89,7 +89,9 @@ VIII. Delincuente reincidente: el que cometa nuevamente algún delito después d
 
 IX. Director: al servidor público titular de la institución penitenciaria respectiva.
 
-X. Dirección General: a la Dirección General de Prevención y Readaptación Social del Estado de México.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+X. Dirección General: a la Dirección General de Prevención y Reinserción Social del Estado de México.
 
 XI. Director General: al titular de la Dirección General.
 
@@ -133,11 +135,9 @@ c) Tratándose de un integrante de alguna comunidad indígena, se analizarán lo
 
 d) Que la conducta observada durante la prisión sea una base para inferir sobre la reinserción a la sociedad del sentenciado.
 
-(NOTA: EL 20 DE FEBRERO DE 2020 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 17/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL APARTADO B DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE FEBRERO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 192, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
-
-B. En el supuesto de MUJERES que tengan uno o más hijos y/o hijas menores DE DOCE AÑOS que se les haya impuesto una pena privativa de libertad que no exceda de 15 años y haya cumplido una quinta parte. No gozarán de este beneficio cuando existan datos de abandono o violencia en contra de sus hijas o hijos.
+B. En el supuesto que tengan uno o más hijos y/o hijas menores que se les haya impuesto una pena privativa de libertad que no exceda de 15 años y haya cumplido una quinta parte. No gozarán de este beneficio cuando existan datos de abandono o violencia en contra de sus hijas o hijos.
 
 C. En el caso de personas mayores de 70 años y que hayan cumplido con una quinta parte de la pena privativa de libertad impuesta, independientemente del tiempo de su duración.
 
@@ -147,13 +147,19 @@ E. Por padecer alguna enfermedad en fase terminal, dictaminados por médico espe
 
 F. Por razones humanitarias o sociales, por acciones destacadas en beneficio de la comunidad, siempre y cuando se hayan realizado de manera lícita.
 
-G. A los internos que por la conducta observada en prisión y por su constante dedicación al trabajo, sean ejemplares en el desarrollo armónico del establecimiento penitenciario.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+G. A las personas privadas de su libertad que, por la conducta observada y su constante dedicación al trabajo, sean ejemplares en el desarrollo armónico de los Centros Penitenciarios.
 
 II. Indulto necesario:
 
-A. En cualquier delito, previo dictamen del Consejo Técnico en el que se demuestre que el sentenciado no representa un peligro para la tranquilidad y seguridad pública, existan indicios de violaciones graves al proceso o a sus derechos humanos.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-B. En delitos no considerados como graves, salvo los casos establecidos en la presente ley, previo dictamen multidisciplinario del Consejo Técnico en el que se demuestre que el sentenciado no representa un peligro para la tranquilidad y seguridad pública y que existan vicios de fondo o violaciones graves a sus derechos humanos.
+A. En cualquier delito, previo dictamen del Comité Técnico en el que se demuestre que el sentenciado no representa un peligro para la tranquilidad y seguridad pública, existan indicios de violaciones graves al proceso o a sus derechos humanos.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+B. En delitos no considerados como graves, salvo los casos establecidos en la presente ley, previo dictamen multidisciplinario del Comité Técnico en el que se demuestre que el sentenciado no representa un peligro para la tranquilidad y seguridad pública y que existan vicios de fondo o violaciones graves a sus derechos humanos.
 
 Tratándose de algún integrante de un pueblo indígena y una vez que de la revisión de oficio al procedimiento penal por el cual fue sentenciado, se advierten violaciones de fondo en el procedimiento penal, al no haberse observado los derechos de los pueblos indígenas en cuanto a las autoridades propias inherentes a sus usos, costumbres y cultura o respeto a los derechos humanos.
 
@@ -195,15 +201,21 @@ II. Los que hayan sido condenados penalmente mediante diversas sentencias ejecut
 
 III. Los que por ser procedente la acumulación que establece la legislación penal correspondiente, hayan sido condenados ejecutoriamente en una por (sic) dos o más delitos, ejecutados en actos distintos.
 
-IV. Los que de acuerdo con el dictamen emitido por el Consejo Técnico, consideren que por su peligrosidad no sean aptos para los beneficios de esta ley.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-V. Los internos que, de acuerdo con el dictamen emitido por el Consejo Técnico, sean considerados de alto riesgo o riesgo medio significativo.
+IV. Los que, de acuerdo con el dictamen emitido por el Comité Técnico, consideren que por su peligrosidad no sean aptos para los beneficios de esta ley.
 
-> <small>(REFORMADA, G.G. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VI. Las internas y los internos que cuenten con reporte disciplinario de mala conducta y sanción impuesta el año anterior a la solicitud del indulto.
+V. Las personas privadas de su libertad que, de acuerdo con el dictamen emitido por el Comité Técnico, sean considerados de alto riesgo.
 
-Para efectos del cumplimiento de la ley, el Director deberá emitir y notificar a los internos, cuando lo soliciten, un informe que contenga los reportes de conducta y sanciones.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. Las personas privadas de su libertad que cuenten con reporte disciplinario de mala conducta y sanción impuesta el año anterior a la solicitud del indulto.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Para efectos del cumplimiento de la ley, el Director deberá emitir y notificar a las personas privadas de su libertad, cuando lo soliciten, un informe que contenga los reportes de conducta y sanciones.
 
 > <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
@@ -217,11 +229,11 @@ No se tramitará el indulto a las personas que tengan pendiente otro proceso, si
 
 Las autoridades penitenciarias darán a esta Ley amplia publicidad y auxiliarán a las y los sentenciados en los trámites correspondientes, para en su caso obtener el indulto.
 
-> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 13.
 
-El Instituto de la Defensoría Pública del Estado de México, a solicitud de la o el interno, tendrá la obligación de asesorar y gestionar, gratuitamente, las solicitudes de indulto.
+El Instituto de la Defensoría Pública del Estado de México, a solicitud de la persona privada de su libertad, tendrá la obligación de asesorar y gestionar, gratuitamente, las solicitudes de indulto.
 
 > <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
@@ -269,11 +281,11 @@ La Dirección General procederá a analizar, formular y calificar, las solicitud
 
 En las solicitudes de indulto de las o los sentenciados de pueblos indígenas, se deberán ponderar, además, de los requisitos contemplados en la ley, sus usos, costumbres, tradiciones, cultura y circunstancias inherentes a dicha unidad social, en pleno respeto a los derechos humanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 20.
 
-Cuando la Dirección General integre debidamente el expediente respectivo, lo remitirá con la solicitud al Consejo Técnico para que éste dictamine lo procedente.
+Cuando la Dirección General integre debidamente el expediente respectivo, lo remitirá con la solicitud al Comité Técnico para que éste dictamine lo procedente.
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -281,9 +293,11 @@ En caso positivo, se enviará por conducto de la Secretaría de Justicia y Derec
 
 Si el dictamen fuera negativo, se notificará a la o al solicitante.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 21.
 
-Las autoridades que deban expedir las constancias que integren el expediente a que se refiere el artículo anterior, lo harán con carácter urgente, sin costo de ninguna clase y las remitirán inmediatamente a la autoridad que las solicite. Su incumplimiento será causa de responsabilidad administrativa en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios. Lo anterior, sin perjuicio de la responsabilidad civil o penal.
+Las autoridades que deban expedir las constancias que integren el expediente a que se refiere el artículo anterior, lo harán con carácter urgente, sin costo de ninguna clase y las remitirán inmediatamente a la autoridad que las solicite. Su incumplimiento será causa de responsabilidad administrativa en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios. Lo anterior, sin perjuicio de la responsabilidad civil o penal.
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -458,3 +472,19 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial "Gaceta del Gobierno" el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
