@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-periodico-oficial-gaceta-del-gobierno-del-estado-de-111
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-06"
-last_updated: "2017-09-29"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de enero de 2016.
 
@@ -59,11 +57,17 @@ Para efectos de esta Ley se entenderá por:
 
 I. Secretaría: A la Secretaría de Justicia y Derechos Humanos.
 
-II. Director: A la o el Director de Legalización y del Periódico Oficial "Gaceta del Gobierno".
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-III. Dirección: A la Dirección de Legalización y del Periódico Oficial "Gaceta del Gobierno".
+II. Director: A la persona titular de la Dirección General de Legalización y del Periódico Oficial "Gaceta del Gobierno".
 
-IV. Departamento: Al Departamento del Periódico Oficial "Gaceta del Gobierno".
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Dirección: A la Dirección General de Legalización y del Periódico Oficial "Gaceta del Gobierno".
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Subdirección: A la Subdirección del Periódico Oficial "Gaceta del Gobierno".
 
 V. Periódico Oficial: Al Periódico Oficial "Gaceta del Gobierno".
 
@@ -207,9 +211,11 @@ La o el Director archivará y mantendrá en custodia los documentos originales q
 
 ### CAPÍTULO IV. DE LOS COSTOS DE INSERCIÓN
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 15.
 
-Para los efectos de la venta del periódico oficial y el pago de los servicios que presta se atenderá a lo establecido en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente y a las tarifas emitidas por la Secretaría de Finanzas por cuanto hace a los productos brindados por la Dirección.
+Para los efectos de la venta del periódico oficial y el pago de los servicios que presta se atenderá a lo establecido en el Código Financiero del Estado de México y Municipios y a las tarifas emitidas por la Secretaría de Finanzas por cuanto hace a los productos brindados por la Dirección para el ejercicio fiscal correspondiente.
 
 ###### Artículo 16.
 
@@ -217,19 +223,27 @@ En caso de que el documento presentado no se publique, el pago efectuado se cons
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO DE PUBLICACIÓN Y CIRCULACIÓN
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 17.
 
-La Dirección por conducto del Departamento del periódico oficial recibirá los documentos cuya publicación se solicite acusará el recibo correspondiente, en el que conste el día y hora de su recepción.
+La Secretaría, por sí o por conducto de la Dirección o la Subdirección, recibirá los documentos cuya publicación se solicite acusará el recibo correspondiente, en el que conste el día y hora de su recepción.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 18.
 
-La solicitud de publicación se dirige a la Dirección o al Departamento y se presenta en original, en un horario de 9:00 a 18:00 horas en días hábiles, para su revisión, cotización y, en su caso, entrega de la orden de pago correspondiente.
+La solicitud de publicación se dirige a la persona titular de la Secretaría y se presenta en original, en un horario de 9:00 a 18:00 horas en días hábiles, para su revisión, cotización y, en su caso, entrega de la orden de pago correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 19.
 
-A la solicitud de publicación se debe anexar el documento a publicarse en formato impreso, firmado en original por la autoridad competente, sello y el disco compacto indicando el número de publicaciones requeridas y, en su caso, el lapso entre una publicación y otra.
+A la solicitud de publicación se debe anexar el documento a publicarse en formato impreso, firmado y sellado en original por la autoridad competente y el disco compacto en formato editable, indicando el número de publicaciones requeridas y, en su caso, el lapso entre una publicación y otra. Asimismo, se deberá anexar la resolución definitiva de la Comisión Estatal de Mejora Regulatoria o de la Comisión Municipal, según corresponda, cuando se trate de regulaciones que expidan los sujetos obligados en términos de lo previsto en la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
 
-La publicación del documento será programada una vez que el solicitante presente ante el Departamento el comprobante de pago de los productos correspondientes.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+La publicación del documento será programada una vez que el solicitante presente ante la Subdirección el comprobante de pago de los productos correspondientes.
 
 En ningún caso se publicará documento alguno con fecha anterior al de su recepción.
 
@@ -241,9 +255,11 @@ La ortografía y contenido de los documentos a publicar son responsabilidad del 
 
 Los documentos que no cumplan con los requisitos no serán publicados y en caso de ser recibidos, quedarán sujetos a revisión para su publicación.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 21.
 
-La cancelación de una publicación procederá únicamente cuando se solicite mediante escrito dirigido al Departamento, a más tardar tres días hábiles antes de que se realice la publicación, en el horario de 9:00 a 18:00 horas.
+La cancelación de una publicación procederá únicamente cuando se solicite mediante escrito dirigido a la Subdirección, a más tardar tres días hábiles antes de que se realice la publicación, en el horario de 9:00 a 18:00 horas.
 
 ###### Artículo 22.
 
@@ -255,9 +271,11 @@ Por motivos técnicos, en la publicación del documento se podrá omitir la impr
 
 Para acreditar el contenido de las publicaciones es suficiente el cotejo del documento presentado con el publicado.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 24.
 
-Los documentos serán publicados dentro de los cinco días hábiles siguientes a la fecha de su recepción en el Departamento.
+Los documentos serán publicados dentro de los cinco días hábiles siguientes a la fecha de su recepción en la Subdirección.
 
 ###### Artículo 25.
 
@@ -279,21 +297,21 @@ Para los efectos del presente artículo se entiende que el periódico oficial se
 
 ### CAPÍTULO VI. DIFUSIÓN DEL PERIÓDICO OFICIAL POR MEDIOS ELECTRÓNICOS
 
-> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 27.
 
-Para su consulta gratuita en internet, el periódico oficial será difundido en el portal informativo del Gobierno del Estado y del diverso de la Dirección.
+Para su consulta gratuita en internet, el periódico oficial será difundido en el portal informativo que al efecto determine la Secretaría.
 
 ###### Artículo 28.
 
 La publicación electrónica tiene la finalidad de divulgar mediante el libre acceso, el contenido de las ediciones del periódico oficial.
 
-> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 29.
 
-La alteración de la información contenida en el portal informativo del Gobierno del Estado y del diverso de la Dirección será sancionada por las disposiciones jurídicas aplicables.
+La alteración de la información contenida en el portal informativo que al efecto determine la Secretaría será sancionada por las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO VII. DE LA FE DE ERRATAS Y LA NOTA ACLARATORIA
 
@@ -313,9 +331,11 @@ La Dirección procederá a la publicación de la fe de erratas o nota aclaratori
 
 ### CAPÍTULO VIII. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 33.
 
-Los servidores públicos responsables de la publicación del periódico oficial incurrirán en responsabilidad administrativa por actos u omisiones que contravengan las disposiciones de esta Ley y serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Los servidores públicos responsables de la publicación del Periódico Oficial incurrirán en responsabilidad administrativa por actos u omisiones que contravengan las disposiciones de esta Ley y serán sancionados en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ## TRANSITORIOS
 
@@ -466,3 +486,19 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
