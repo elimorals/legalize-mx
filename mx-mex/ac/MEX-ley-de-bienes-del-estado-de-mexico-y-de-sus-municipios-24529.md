@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienes-del-estado-de-mexico-y-de-sus-municipios-24529"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2020-09-29"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno el 7 de marzo del 2000.
 
@@ -251,9 +251,11 @@ II. Bienes destinados a un servicio público.
 
 También se consideran bienes del dominio público, las pinturas, murales, esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del Estado, de los municipios o de sus organismos auxiliares, cuya conservación sea de interés general; los muebles de propiedad estatal o municipal que por su naturaleza no sean normalmente sustituibles, como documentos y expedientes de las oficinas, manuscritos, incunables, ediciones, libros, documentos, publicaciones periódicas, mapas, planos, folletos y grabados importantes o raros, así como las colecciones de estos bienes, colecciones científicas o técnicas, de armas, numismáticas y filatélicas, archivos, fonograbaciones, películas, videos; archivos fotográficos, cintas magnetofónicas y cualquier otro objeto que contenga imágenes o sonido y las piezas artísticas o históricas de los museos.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 15.
 
-Son bienes de uso común los que pueden ser aprovechados por los habitante del Estado de México y de sus municipios, sin más limitaciones y restricciones que las establecidas por las leyes y los reglamentos administrativos.
+Son bienes de uso común los que pueden ser aprovechados por los habitantes del Estado de México y de sus municipios, sin más limitaciones y restricciones que las establecidas por las leyes y los reglamentos administrativos.
 
 ###### Artículo 16.
 
@@ -341,7 +343,9 @@ No podrá imponerse servidumbre pasiva alguna sobre bienes del dominio público,
 
 Serán nulos de pleno derecho los actos por los que se constituyan o inscriban gravámenes sobre bienes de dominio público.
 
-La infracción a lo dispuesto en este artículo, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+La infracción a lo dispuesto en este artículo será sancionada en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ###### Artículo 25.
 
@@ -407,7 +411,9 @@ a) Durante la vigencia del permiso se justifique la viabilidad de realizar inver
 
 b) Cuando al vencimiento del plazo originalmente otorgado, queden inversiones realizadas y debidamente acreditadas pendientes por recuperar, en cuyo caso se otorgará la prórroga estrictamente necesaria para dichos fines.
 
-c) Se presenten causas que lo justifiquen, no atribuibles a los permisionario (sic).
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+c) Se presenten causas que lo justifiquen, no atribuibles a los permisionarios.
 
 Para efectos de la prórroga, el permisionario deberá estar en cumplimiento de las condiciones impuestas y solicitarla por escrito a la Secretaría, al menos, 90 días hábiles antes del vencimiento del plazo original.
 
@@ -609,9 +615,11 @@ Los contratos de comodato que tengan como materia bienes del dominio privado del
 
 La enajenación a título oneroso en favor de personas físicas o morales que requieran disponer de inmuebles para la creación, fomento, ampliación, conservación de una empresa que beneficie a la colectividad, se hará siempre que las autoridades competentes en materia de desarrollo económico del Estado o de los municipios determinen la conveniencia de la operación.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 38.
 
-La dación en pago por concepto de indemnización por aplicación de la ley de Expropiación para el Estado de México, podrá convenirse con los afectados, para cuyo efecto las autoridades competentes procederán a formalizar el acuerdo respectivo.
+La dación en pago por concepto de indemnización por aplicación de la Ley de Expropiación para el Estado de México, podrá convenirse con los afectados, para cuyo efecto las autoridades competentes procederán a formalizar el acuerdo respectivo.
 
 ###### Artículo 39.
 
@@ -889,9 +897,11 @@ Cuando las obras e instalaciones hechas sin concesión, permiso o autorización 
 
 ### CAPITULO DECIMO PRIMERO. DE LOS MEDIOS DE DEFENSA
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 76.
 
-Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades administrativas del Estado y de los municipios, en la aplicación de la presenta ley, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades administrativas del Estado y de los municipios, en la aplicación de la presente ley, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de Justicia Administrativa del Estado de México, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -1048,3 +1058,19 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
