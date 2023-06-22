@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2023-04-20"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2023.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -826,9 +826,9 @@ III. De las Personas con Discapacidad;
 
 IV. De las Personas Jóvenes;
 
-> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
 
-V. De Pueblos y Barrios Originarios y Comunidades Indígenas Residentes, y
+V. De Pueblos y Barrios Originarios, Comunidades Indígenas Residentes y Comunidades Afromexicanas, y
 
 > <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
 
@@ -850,9 +850,9 @@ III. Derechos Humanos e Inclusión, Bienestar Social y Exigibilidad de Derechos 
 
 IV. De Juventud y Deporte, el Parlamento de las Personas Jóvenes;
 
-> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
 
-V. De Pueblos, Barrios Originarios y Comunidades Indígenas Residentes, para el Parlamento de Pueblos y Barrios Originarios y Comunidades Indígenas, y
+V. De Pueblos y Barrios Originarios, Comunidades Indígenas Residentes y Comunidades Afromexicanas, para el Parlamento de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes y Comunidades Afromexicanas, y
 
 > <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
 
@@ -3662,7 +3662,9 @@ Corresponde al Comité de Asuntos Interinstitucionales:
 
 I. Actuar de forma conjunta con la Junta y la Comisión de Desarrollo Metropolitano a efecto de proponer encuentros entre Congresos Locales con el objeto de enriquecer el trabajo legislativo;
 
-II. Auxiliar a la Comisión de Desarrollo Metropolitano, Rural, Social y Pueblos y Comunidades Indigenas en el enlace con los Congresos de los Estados;
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
+
+II. Auxiliar a las Comisiones de Desarrollo Metropolitano, Rural, Social y Pueblos y Barrios Originarios, Comunidades Indígenas Residentes y Comunidades Afromexicanas en el enlace con los Congresos de los Estados;
 
 III. Solicitar de ser el caso a los Congresos de los Estados, así como a sus Diputados, la información relevante que pueda ser útil para su aplicación en la Ciudad, y
 
@@ -4374,7 +4376,9 @@ i) Medalla al Mérito por la Igualdad y la no Discriminación
 
 j) Medalla al Mérito Periodístico;
 
-k) Medalla al Mérito de Protección Civil;
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2023)</small>
+
+k) Medalla al Mérito en Gestión Integral de Riesgos y Protección Civil;
 
 l) Medalla al Mérito Policial;
 
@@ -4422,7 +4426,9 @@ VIII. Comisiones Unidas de (sic) para la Igualdad de Género y de Atención a Gr
 
 IX. Comisión Especial para garantizar el ejercicio periodístico de la Ciudad de México;
 
-X. Comisión de Protección Civil;
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
+
+X. Comisión de Gestión Integral de Riesgos y Protección Civil;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 28 DE MAYO DE 2019)</small>
 
@@ -4912,27 +4918,35 @@ Las propuestas y la documentación correspondiente de las y los candidatos para 
 
 (DEROGADO, G.O. 5 DE FEBRERO DE 2019)
 
-#### Sección Décima Segunda. Medalla al Mérito de Protección Civil
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 22 DE JUNIO DE 2023)</small>
+
+#### Sección Décima Segunda. Medalla al Mérito en Gestión Integral de Riesgos y Protección Civil
+
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 441.
 
-El Congreso otorgará la Medalla al Mérito de Protección Civil a quienes hayan destacado en el aspecto técnico científico que permitan alertar y proteger a la población frente a fenómenos naturales o de origen humano, a quienes destacaron en la labor de bombero y finalmente aquellos que signifiquen por su labor ejemplar en la prevención y/o ayuda a la población ante la eventualidad de un desastre.
+El Congreso otorgará la Medalla al Mérito de Gestión Integral de Riesgos y Protección Civil a quienes hayan destacado en el aspecto técnico científico que permitan alertar y proteger a la población frente a fenómenos naturales o de origen humano, a quienes destacaron en la labor de bombero y finalmente aquellos que signifiquen por su labor ejemplar en la prevención y/o ayuda a la población ante la eventualidad de un desastre.
 
-Se otorgará dicho reconocimiento a las dependencias y entidades de la Administración Pública de la Ciudad de México, a Unidades de Protección Civil de los Órganos Político Administrativo, así como agrupaciones de los sectores privado y social.
+Se otorgará dicho reconocimiento a las dependencias y entidades de la Administración Pública de la Ciudad de México, a Unidades de Gestión Integral de Riesgos y Protección Civil de los Órganos Político Administrativo, así como agrupaciones de los sectores privado y social.
 
 ###### Artículo 442.
 
 La Medalla se otorgará en los casos siguientes:
 
-I. La prevención, a través de avances técnico científicos, que permitan alertar y proteger a la población frente a fenómenos naturales o de origen humano, o bien, por la dedicación y empeño en la propagación de la cultura de la protección civil, respaldada en una trayectoria al servicio de la materia;
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
+
+I. La prevención, a través de avances técnico científicos, que permitan alertar y proteger a la población frente a fenómenos naturales o de origen humano, o bien, por la dedicación y empeño en la propagación de la cultura de gestión integral de riesgos y protección civil, respaldada en una trayectoria al servicio de la materia;
 
 II. Labor de la o el bombero, y
 
 III. El auxilio, por las acciones que se hayan llevado a cabo en las tareas de auxilio a la población en caso de desastre.
 
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 443.
 
-La Comisión responsable y encargada del procedimiento y entrega de la presente medalla es la de Protección Civil del Congreso.
+La Comisión responsable y encargada del procedimiento y entrega de la presente medalla es la de Gestión Integral de Riesgos y Protección Civil.
 
 ###### Artículo 444.
 
@@ -4998,7 +5012,9 @@ V. Ambiental o de salud pública;
 
 VI. Promoción o defensa de los derechos humanos;
 
-VII. Promoción o fortalecimiento de los usos y costumbres de los pueblos y barrios originarios o comunidades indígenas residentes; y
+> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
+
+VII. Promoción o fortalecimiento de los usos y costumbres de los pueblos y barrios originarios o comunidades indígenas residentes y comunidades afromexicanas; y
 
 VIII. Reciclaje comunitario o fortalecimiento de imagen urbana o patrimonio cultural.
 
@@ -6371,6 +6387,14 @@ SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publ
 G.O. 20 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “SE REFORMA EL PÁRRAFO PRIMERO Y SE DEROGAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 80 DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO Y SE REFORMAN LOS ARTÍCULOS 106, 256 Y 257; Y SE DEROGA EL ARTÍCULO 258 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 13, FRACCIONES XXXVIII Y LXXXI; 74 FRACCIONES III, XXXIII, XXXIV Y XLII; 127 FRACCIÓN I; 128; 130; 143 PÁRRAFO PRIMERO; 145 PÁRRAFO PRIMERO, Y 147, FRACCIONES I Y IV DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 58, FRACCIÓN V; 59 FRACCIÓN V; 311 FRACCIÓN II; 370, FRACCIÓN III, INCISO K; 371 FRACCIÓN X; LA DENOMINACIÓN DE LA SECCIÓN DÉCIMA SEGUNDA DEL CAPÍTULO II DEL TÍTULO DÉCIMO; 441; 442, FRACCIÓN I; 443, Y 450, FRACCIÓN VII DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
 
