@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-6152"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-03"
-last_updated: "1992-06-03"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno, el 3 de junio de 1992.
 
@@ -59,9 +59,13 @@ Para los efectos de esta Ley, se entenderán incluidos dentro del Organismo los 
 
 El Organismo de conformidad con las políticas del Ejecutivo Estatal, tendrá las siguientes atribuciones:
 
-I. Planear, desarrollar, dirigir, vigilar y evaluar los servicios de educación básica y normal transferidos, en concordancia con el artículo 3 Constitucional, la Ley Federal de Educación, la Ley de Educación Pública del Estado de México, el Plan Estatal de Desarrollo, el Programa Estatal de Desarrollo Educativo, el Acuerdo Nacional para la Modernización de la Educación Básica y demás disposiciones, que de manera programada y con base en las políticas, establezcan las autoridades educativas.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-II. Coadyuvar con la Secretaría de Educación, Cultura y Bienestar Social en la reorganización del sistema educativo transferido.
+I. Planear, desarrollar, dirigir, vigilar y evaluar los servicios de educación básica y normal transferidos, en concordancia con el artículo 3 Constitucional, la Ley General de Educación, la Ley de Educación Pública del Estado de México, el Plan Estatal de Desarrollo, el Programa Estatal de Desarrollo Educativo, el Acuerdo Nacional para la Modernización de la Educación Básica y demás disposiciones, que de manera programada y con base en las políticas, establezcan las autoridades educativas.
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+II. Coadyuvar con la Secretaría de Educación en la reorganización del sistema educativo transferido.
 
 III. Impulsar el funcionamiento de los Consejos Técnicos de la educación estatal y municipal.
 
@@ -139,21 +143,35 @@ III. Coordinaciones de Area.
 
 El Consejo Directivo será el órgano máximo de gobierno y se integrará de la siguiente forma:
 
-I. Un Presidente que será el Secretario de Educación, Cultura y Bienestar Social.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-II. Un Vicepresidente que será el Secretario de Administración.
+I. Una Presidencia que será la persona titular de la Secretaría de Educación.
 
-III. Un Secretario que será el titular del Organismo.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-IV. Cuatro Vocales que serán:
+II. Una Vicepresidencia que será la persona titular de la Secretaría de Finanzas.
 
-1. El Secretario de Finanzas y Planeación del Gobierno del Estado.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-2. El Director Jurídico y Consultivo del Gobierno del Estado.
+III. Una Secretaría que será la o el titular del Organismo.
 
-3. El servidor público encargado de las funciones de operación educativa del Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 22 DE JUNIO DE 2023)</small>
 
-4. El servidor público encargado de las funciones de desarrollo educativo del Estado.
+IV. Tres Vocales que serán:
+
+1. (DEROGADO, G.G. 22 DE JUNIO DE 2023)
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+2. La persona titular de la Dirección General Jurídica y Consultiva del Gobierno del Estado.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+3. La persona servidora pública encargada de las funciones de operación educativa del Estado.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+4. La persona servidora pública encargada de las funciones de desarrollo educativo del Estado.
 
 ###### Artículo 8.
 
@@ -334,3 +352,21 @@ LIC. HUMBERTO LIRA MORA
 EL SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL
 
 LIC. JAIME ALMAZAN DELGADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
