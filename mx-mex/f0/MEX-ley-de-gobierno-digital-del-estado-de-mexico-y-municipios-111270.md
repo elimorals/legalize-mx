@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-gobierno-digital-del-estado-de-mexico-y-municipios-11127
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-06"
-last_updated: "2022-05-06"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de enero de 2016.
 
@@ -95,11 +95,11 @@ Para el cumplimiento de las disposiciones de esta Ley, los sujetos podrán suscr
 
 Corresponde a la Secretaría de Finanzas vigilar el cumplimiento de las disposiciones de la presente Ley, para lo cual deberá coordinarse con los sujetos de la presente Ley.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 4.
 
-Quedan exceptuados de la aplicación de esta Ley, los actos de autoridad para los que la Constitución Política del Estado Libre y Soberano de México u otro ordenamiento jurídico que exijan la firma autógrafa de manera expresa o cualquier otra formalidad no susceptible de cumplirse a través del uso de tecnologías de la información y comunicación o que requieren la concurrencia personal de los servidores públicos y las personas físicas o del representante de las personas jurídicas colectivas.
+Quedan exceptuados de la aplicación de esta Ley, los actos de autoridad para los que la Constitución Política del Estado Libre y Soberano de México u otro ordenamiento jurídico que exijan la firma autógrafa de manera expresa o cualquier otra formalidad no susceptible de cumplirse a través del uso de Tecnologías de la Información y Comunicación o que requieren la concurrencia personal de los servidores públicos y las personas físicas o del representante de las personas jurídicas colectivas.
 
 ###### Artículo 5.
 
@@ -127,9 +127,9 @@ VIII. Datos Abiertos: a los datos digitales de carácter público accesibles en 
 
 IX. Dirección: a la Dirección General del Sistema Estatal de Informática.
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-IX Bis. Dictamen Técnico: al documento emitido por la autoridad competente, que contiene las especificaciones y requerimientos técnicos, que deben observar los sujetos de la Ley, previo a la adquisición, arrendamiento y/o contratación de bienes o servicios en materia de tecnologías de la información y comunicación.
+IX Bis. Dictamen Técnico: al documento emitido por la autoridad competente, que contiene las especificaciones y requerimientos técnicos, que deben observar los sujetos de la Ley, previo a la adquisición, arrendamiento y/o contratación de bienes o servicios en materia de Tecnologías de la Información y Comunicación.
 
 X. Documento electrónico: al soporte escrito con caracteres alfanuméricos, archivo de imagen, video, audio o cualquier otro formato tecnológicamente disponible, que contenga información en lenguaje natural o convencional, intercambiado por medios electrónicos, con el que sea posible dar constancia de un hecho y que esté signado con la firma electrónica avanzada y/o en el que se encuentre plasmado el sello electrónico.
 
@@ -205,9 +205,11 @@ XXXI. Unidad Registradora: a la Unidad Administrativa dependiente de la Direcci�
 
 #### SECCIÓN PRIMERA. DEL CONSEJO ESTATAL DE GOBIERNO DIGITAL
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 6.
 
-Se crea el Consejo como la instancia encargada de proponer, promover, diseñar, facilitar y aprobar las políticas, programas, soluciones, instrumentos y medidas en materia de gobierno digital en la Entidad a través del uso y aprovechamiento de las tecnologías de la información, a cargo de la Secretaría.
+Se crea el Consejo, como órgano colegiado y autoridad en materia de Tecnologías de la Información y Comunicación en el Estado de México, con el objetivo de proponer, promover, diseñar, facilitar y aprobar las políticas, programas, soluciones, instrumentos y medidas en materia de gobierno digital en la Entidad a través del uso y aprovechamiento de las Tecnologías de la Información y Comunicación.
 
 ###### Artículo 7.
 
@@ -283,7 +285,9 @@ XX. Un representante del Instituto Electoral del Estado de México.
 
 XXI. Un representante del Instituto de Transparencia y Acceso a la Información y Protección de Datos Personales del Estado de México y Municipios.
 
-XXII. Un representante del Tribunal de lo Contencioso Administrativo del Estado de México.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+XXII. Una persona representante del Tribunal de Justicia Administrativa del Estado de México.
 
 XXIII. Un representante de la Universidad Autónoma del Estado de México.
 
@@ -293,7 +297,9 @@ XXV. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2019)
 
 XXVI. Un representante del Colegio de Notarios del Estado de México.
 
-La Dirección será la autoridad encargada de coordinar a los ayuntamientos para los respectivos nombramientos, de conformidad con el Reglamento de la presente Ley.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Los respectivos nombramientos de los Ayuntamientos se realizarán de conformidad con el Reglamento de la presente Ley.
 
 ###### Artículo 8.
 
@@ -319,9 +325,9 @@ La organización y funcionamiento del Consejo deberá apegarse a lo dispuesto en
 
 El Consejo tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-I. Aprobar la implementación de la política pública de Gobierno Digital, a través del uso y aprovechamiento estratégico de las tecnologías de la información y comunicación.
+I. Aprobar la implementación de la política pública de Gobierno Digital, a través del uso y aprovechamiento estratégico de las Tecnologías de la Información y Comunicación.
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -331,17 +337,17 @@ III. Presentar a la Secretaría la partida presupuestal para los rubros relacion
 
 IV. Aprobar la Agenda Digital.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 22 DE JUNIO DE 2023)</small>
 
 V. Aprobar anualmente el Programa Estatal de Tecnologías de la Información y Comunicación.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VI. Autorizar el proyecto de Estándares de Tecnologías de la Información y Comunicación y ordenar su publicación en el periódico oficial "Gaceta del Gobierno'.
+VI. Autorizar el proyecto de Estándares de Tecnologías de la Información y Comunicación y ordenar su publicación en el periódico oficial "Gaceta del Gobierno”.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VII. Vigilar la aplicación de criterios, normas y procedimientos relativos al uso y aprovechamiento estratégico de las tecnologías de la información y comunicación a los sujetos de la presente Ley.
+VII. Vigilar la aplicación de criterios, normas y procedimientos relativos al uso y aprovechamiento estratégico de las Tecnologías de la Información y Comunicación.
 
 VIII. Aprobar los instrumentos de orientación, dirigidos a las personas, sobre los derechos y obligaciones que les otorga esta Ley y otros ordenamientos en materia de Gobierno Digital.
 
@@ -351,17 +357,19 @@ IX. Vigilar que los sujetos de la presente Ley cumplan con lo necesario para la 
 
 X. Aprobar la plataforma tecnológica que garantice controles efectivos con relación a la seguridad de los sistemas de información que sustentan los trámites y servicios digitales.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XI. Promover la interoperabilidad entre las tecnologías existentes a nivel federal, estatal y municipal, de manera que se logre la cooperación y coordinación necesaria para asegurar el éxito del Gobierno Digital, a través del uso y aprovechamiento de las tecnologías de la información y comunicación.
+XI. Promover la interoperabilidad entre las tecnologías existentes a nivel federal, estatal y municipal, de manera que se logre la cooperación y coordinación necesaria para asegurar el éxito del Gobierno Digital, a través del uso y aprovechamiento de las Tecnologías de la Información y Comunicación.
 
 XII. Aprobar a los miembros que integrarán el Padrón de Certificados Electrónicos.
 
 XIII. Las demás que le confieran esta Ley y otros ordenamientos legales aplicables en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 10.
 
-Cada sujeto de la presente Ley integrará un Comité Interno, con la finalidad de realizar acciones de apoyo, orientación y ejecución para el cumplimiento del objeto de la presente Ley.
+Cada Sujeto de la Ley integrará un Comité Interno de Gobierno Digital, con la finalidad de realizar acciones de apoyo, orientación y ejecución para el cumplimiento del objeto de la presente Ley.
 
 La organización y funcionamiento de los Comités Internos deberá apegarse a lo dispuesto en el Reglamento de la presente Ley.
 
@@ -377,9 +385,9 @@ I. Almacenar y custodiar por cinco años en el repositorio del SEITS los documen
 
 II. Implementar, operar, administrar, mantener y actualizar el RUPAEMEX, aplicando las políticas establecidas en la presente Ley, así como las disposiciones reglamentarias que surjan de esta.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-III. Formular el proyecto de estándares de tecnologías de la información y comunicación y someterlo a consideración del Consejo.
+III. Formular el proyecto de estándares de Tecnologías de la Información y Comunicación y someterlo a consideración del Consejo.
 
 IV. Otorgar el CUTS a las personas que soliciten su inscripción en el RUPAEMEX.
 
@@ -505,11 +513,13 @@ VI. Las demás que determine el Consejo.
 
 Los sujetos de la presente Ley deberán formular y presentar al Secretario Técnico del Comité Interno, los Programas de Trabajo, que planeen ejecutar en el ejercicio fiscal siguiente, a efecto de elaborar el Programa Sectorial de Tecnologías de la Información y comunicación conforme a lo establecido en la presente Ley y su Reglamento.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 16.
 
-Durante el mes de septiembre de cada año, el Secretario Técnico deberá integrar el Programa Estatal de Tecnologías de la Información y Comunicación, que es la suma de los programas sectoriales.
+En septiembre de cada año, el Secretario Técnico deberá integrar el Programa Estatal de Tecnologías de la Información y Comunicación, que es la suma de los Programas Sectoriales de Tecnologías de la Información y Comunicación de cada Sujeto de la Ley.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 Los Programas Sectoriales serán integrados por la totalidad de los Programas de Trabajo de Tecnologías de la Información y Comunicación de cada sujeto de la Ley, los cuales deberán asegurar la ejecución de las acciones y proyectos transversales en materia de tecnologías de la información y comunicación que den cumplimiento a la Agenda Digital.
 
@@ -597,11 +607,11 @@ XI. Las demás que considere el Consejo por motivo del avance tecnológico.
 
 ### CAPÍTULO CUARTO. DE LOS PORTALES INFORMATIVOS A LOS PORTALES TRANSACCIONALES
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 20.
 
-Los sujetos de la presente Ley, deberán transformar sus portales informativos en transaccionales, para que las personas puedan realizar, de manera ágil y sencilla, los trámites y servicios digitales que ofrecen en sus respectivos ámbitos de competencia y que se encuentren en el SETS (sic).
+Los sujetos de la presente Ley, deberán transformar sus portales informativos en transaccionales, para que las personas puedan realizar, de manera ágil y sencilla, los trámites y servicios digitales que ofrecen en sus respectivos ámbitos de competencia y que se encuentren en el SEITS.
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -645,9 +655,9 @@ I. La planeación, diseño, control, coordinación, mantenimiento y actualizaci�
 
 II. La expedición, modificación, revocación o cancelación de la inscripción al RUPAEMEX, a través de un nombre de usuario y una contraseña.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-III. Establecer lineamientos para la operación e interconexión entre los sujetos de la presente ley con el PUPAEMEX (sic).
+III. Establecer lineamientos para la operación e interconexión entre los sujetos de la presente ley con el RUPAEMEX.
 
 ###### Artículo 28.
 
@@ -665,11 +675,11 @@ El Reglamento de la presente Ley establecerá las bases para la administración 
 
 ### CAPÍTULO SEXTO. DEL SISTEMA ELECTRÓNICO DE INFORMACIÓN, TRÁMITES Y SERVICIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 31.
 
-Se crea el SETS (sic) como un servicio público de consulta y gestión de trámites y servicios con base en el uso de medios electrónicos y tecnologías de la información y comunicación.
+Se crea el SEITS como un servicio público de consulta y gestión de trámites y servicios con base en el uso de medios electrónicos y tecnologías de la información y comunicación.
 
 Lo anterior, sin perjuicio de la realización de dichos trámites y servicios directamente ante las instancias correspondientes.
 
@@ -777,9 +787,9 @@ Las dependencias y los organismos auxiliares del Poder Ejecutivo, los órganos a
 
 I. Desarrollar acciones y gestiones dirigidas a implementar en su funcionamiento y operación el uso de tecnologías de la información y comunicación, con el fin de garantizar que los trámites y servicios que presten al ciudadano sean eficientes.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-II. Incorporar en el SETS (sic); los trámites y servicios digitales que sean de nueva creación.
+II. Incorporar en el SEITS los trámites y servicios digitales que sean de nueva creación.
 
 > <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
 
@@ -901,11 +911,11 @@ VI. Las demás que le otorgue esta Ley u otros ordenamientos jurídicos.
 
 #### SECCIÓN PRIMERA. DE LOS REPORTES DE AVANCE DE LOS PROGRAMAS DE TRABAJO
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 46.
 
-Los sujetos de la presente Ley deberán entregar de manera trimestral al Secretario Técnico de su respectivo Comité Interno, el Reporte de Avance de los Programas de Trabajo.
+Los Sujetos de la Ley deberán entregar de manera trimestral al Secretario Técnico de su respectivo Comité Interno, el Reporte de Avance de los Programas Sectoriales de Tecnologías de la Información y Comunicación.
 
 ###### Artículo 47.
 
@@ -933,11 +943,11 @@ V. La efectividad de las tecnologías de la información y comunicación aplicad
 
 VI. Cualquier otra información que sea requerida por el Consejo.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 48.
 
-El Secretario Técnico deberá presentar al Consejo, el reporte de avance del Programa Sectorial de tecnologías de la información y comunicación de los Sujetos de la Ley.
+El Secretario Técnico deberá presentar al Consejo, el reporte de avance del Programa Estatal de Tecnologías de la Información y Comunicación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1173,9 +1183,11 @@ Las disposiciones establecidas en este capítulo se regirán de conformidad con 
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LAS HERRAMIENTAS TECNOLÓGICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 73.
 
-Los sujetos de la presente Ley que con motivo de sus funciones requieran el uso del correo electrónico para la comunicación interna y externa como medio de comunicación oficial, deberán tramitar una cuenta de correo institucional ante la Dirección, previo cumplimiento de los requisitos que esta señale.
+Los Sujetos de la Ley que con motivo de sus funciones requieran el uso del correo electrónico institucional para la comunicación interna y externa como medio de comunicación oficial, deberán tramitar una cuenta para el uso del mismo ante la Dirección, previo cumplimiento de los requisitos que esta señale.
 
 Los dominios que usen para sus portales informativos y transaccionales, así como aplicaciones web deberán ser autorizados por la Dirección a efecto de mantener armonizados e identificables los mismos, de acuerdo a los lineamientos que emita el Consejo.
 
@@ -1203,11 +1215,11 @@ El Expediente digital es la conservación de documentos electrónicos derivados 
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 77.
 
-Los servidores públicos que infrinjan las disposiciones de esta Ley, serán sancionados de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y demás ordenamientos aplicables.
+Los servidores públicos que infrinjan las disposiciones de esta Ley serán sancionados de conformidad con la Ley de Responsabilidades Administrativas del Estado de México y Municipios y demás ordenamientos aplicables.
 
 ###### Artículo 78.
 
@@ -1634,3 +1646,19 @@ CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglame
 Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
 
 Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
