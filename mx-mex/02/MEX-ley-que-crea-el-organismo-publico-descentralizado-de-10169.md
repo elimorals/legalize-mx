@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-10169"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-28"
-last_updated: "2015-07-10"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLÓGICA DE TECAMAC
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 28 de junio de 1996.
 
@@ -245,11 +245,13 @@ XVIII. Las demás que se deriven de esta ley o sus reglamentos.
 
 Para el cumplimiento de sus atribuciones, el consejo directivo contará con el apoyo de comisiones que estarán integradas por directores, personal académico de la universidad y por especialistas de alto reconocimiento profesional. El número de miembros, organización y forma de trabajo estarán establecidos en las normas reglamentarias.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 15.
 
-El rector de la universidad será designado y removido por el Gobernador del Estado, a propuesta del Secretario de Educación, Cultura y Bienestar social y durará en su cargo cuatro años, pudiendo ser ratificado por un solo período igual.
+La persona titular de la Rectoría de la Universidad será designado y removido por la persona Titular del Ejecutivo del Estado, a propuesta de la Titular de la Secretaría de Educación y durará en su cargo cuatro años, pudiendo ser ratificado por un solo período igual.
 
-En los casos de ausencias temporales será sustituido por quien designe el consejo directivo, y en las ausencias definitivas, será sustituido por quien designe el Gobernador del Estado, en los términos del párrafo anterior.
+En los casos de ausencias temporales será sustituido por quien designe el Consejo Directivo, y en las ausencias definitivas, será sustituido por quien designe la persona Titular del Ejecutivo del Estado, en los términos del párrafo anterior.
 
 ###### Artículo 16.
 
@@ -506,3 +508,19 @@ PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará (sic) al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno"
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
