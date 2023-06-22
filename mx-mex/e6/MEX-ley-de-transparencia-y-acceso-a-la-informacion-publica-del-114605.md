@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2023-03-27"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Quinta de la Gaceta Oficial del Estado de México, el miércoles 4 de mayo de 2016.
 
@@ -319,7 +319,9 @@ En el procedimiento de acceso, entrega y publicación de la información se prop
 
 Son sujetos obligados a transparentar y permitir el acceso a su información y proteger los datos personales que obren en su poder:
 
-I. El Poder Ejecutivo del Estado de México, las dependencias, organismos auxiliares, órganos, entidades, fideicomisos y fondos públicos, así como la Procuraduría General de Justicia;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. El Poder Ejecutivo del Estado de México, las dependencias, organismos auxiliares, órganos, entidades, fideicomisos y fondos públicos, así como la Fiscalía General de Justicia del Estado de México;
 
 II. El Poder Legislativo del Estado, los organismos, órganos y entidades de la Legislatura y sus dependencias;
 
@@ -447,7 +449,9 @@ II. Tener más de 35 años de edad;
 
 III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-IV. No ser Secretario del despacho, Procurador General de Justicia del Estado, Senador, Diputado federal o local, o Presidente Municipal, a menos que se separe de su puesto un año antes del día de su designación.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. No ser Secretario del despacho, Fiscal General de Justicia del Estado de México, Senador, Diputado federal o local, o Presidente Municipal, a menos que se separe de su puesto un año antes del día de su designación.
 
 > <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2020)</small>
 
@@ -627,7 +631,9 @@ En su organización, funcionamiento y control, el Instituto se sujetará a lo es
 
 Las relaciones de trabajo entre el Instituto y los servidores públicos del mismo se regularán conforme a lo establecido en la Ley del Trabajo de los Servidores Públicos del Estado y Municipios, y su Reglamento interior del Instituto y demás disposiciones jurídicas aplicables.
 
-Las controversias que se susciten en dichas relaciones serán resueltas por el Tribunal Estatal de Conciliación y Arbitraje del Estado de México.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Las controversias que se susciten en dichas relaciones serán resueltas por el Tribunal de Justicia Administrativa del Estado de México.
 
 ###### Artículo 39.
 
@@ -1409,11 +1415,15 @@ b) La identificación de la entidad fiscalizable; y
 
 c) El cumplimiento de programas auditados mediante la auditoria del desempeño.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 96.
 
-Además de las obligaciones de transparencia común a que se refiere el Capítulo II de este Título, el Poder Judicial Local y el Tribunal de lo Contencioso Administrativo del Estado de México, deberán poner a disposición del público y actualizar la siguiente información:
+Además de las obligaciones de transparencia común a que se refiere el Capítulo II de este Título, el Poder Judicial Local y el Tribunal de Justicia Administrativa del Estado de México, deberán poner a disposición del público y actualizar la siguiente información:
 
-I. Las tesis y ejecutorias publicadas en el Boletín Judicial del Tribunal Superior de Justicia del Estado de México y en la Gaceta del Tribunal de lo Contencioso Administrativo del Estado de México, incluyendo tesis jurisprudenciales y aisladas;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. Las tesis y ejecutorias publicadas en el Boletín Judicial del Tribunal Superior de Justicia del Estado de México y en la Gaceta del Tribunal de Justicia Administrativa del Estado de México, incluyendo tesis jurisprudenciales y aisladas;
 
 II. Las versiones públicas de las sentencias que sean de interés público;
 
@@ -1485,7 +1495,9 @@ h) Los resultados de los estudios, publicaciones o investigaciones que realicen;
 
 i) Los programas de prevención y promoción en materia de derechos humanos;
 
-j) El estado que guardan los derechos humanos en el sistema penitenciario y de readaptación social del Estado;
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+j) El estado que guardan los derechos humanos en el sistema penitenciario y de reinserción social del Estado;
 
 k) El seguimiento, evaluación y monitoreo, en materia de igualdad entre mujeres y hombres;
 
@@ -2972,3 +2984,19 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La Legislatura Local deberá expedir la convocatoria para la designación de las personas titulares del Órgano Interno de Control a que se refiere este Decreto dentro los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
 
 Las personas titulares de los Órganos Internos de Control que actualmente ejercen el cargo, podrán participar en el procedimiento de designación o ratificación que al efecto realice la Legislatura.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
