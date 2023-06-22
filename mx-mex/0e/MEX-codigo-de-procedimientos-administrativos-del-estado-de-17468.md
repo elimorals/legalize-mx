@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2021-01-05"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -43,15 +43,21 @@ CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
 ### CAPITULO PRIMERO. De las Disposiciones Generales
 
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de este Código son de orden público e interés general y tienen por objeto regular el acto y el procedimiento administrativo ante las autoridades del Poder Ejecutivo del Estado, los municipios y los organismos descentralizados de carácter estatal y municipal con funciones de autoridad, así como el proceso administrativo ante el Tribunal de lo Contencioso Administrativo del Estado de México.
+Las disposiciones de este Código son de orden público e interés general y tienen por objeto regular el acto y el procedimiento administrativo ante las autoridades del Poder Ejecutivo del Estado, los municipios y los organismos descentralizados de carácter estatal y municipal con funciones de autoridad, así como el proceso administrativo ante el Tribunal de Justicia Administrativa del Estado de México.
 
-Salvo disposición expresa en contrario, el presente ordenamiento no es aplicable a los integrantes de la Legislatura del Estado de México, a la Universidad Autónoma del Estado de México, a la Comisión de Derechos Humanos del Estado de México, a la Comisión de Arbitraje Médico del Estado de México, a los consejos tutelares de menores, a las materias laboral y electoral, ni a los conflictos suscitados entre los integrantes de los ayuntamientos, y por la elección de las autoridades auxiliares municipales.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Salvo disposición expresa en contrario, el presente ordenamiento no es aplicable a los integrantes de la Legislatura del Estado de México, a la Universidad Autónoma del Estado de México, a la Comisión de Derechos Humanos del Estado de México, a la Comisión de Conciliación y Arbitraje Médico del Estado de México, a los centros de internamiento para adolescentes, a las materias laboral y electoral, ni a los conflictos suscitados entre los integrantes de los ayuntamientos, y por la elección de las autoridades auxiliares municipales.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 21 DE DICIEMBRE DE 2001)</small>
 
 Para efectos de este Código, se entiende por:
+
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
 I.- Acto administrativo, la declaración unilateral de voluntad, externa y de carácter individual, emanada de las autoridades de las dependencias del Poder Ejecutivo del Estado, de los municipios y de los organismos descentralizados de carácter estatal y municipal, que tiene por objeto crear, transmitir, modificar o extinguir una situación jurídica concreta;
 
@@ -79,9 +85,9 @@ VI. Código de Procedimientos: Código de Procedimientos Administrativos del Est
 
 VII. Interesado: Particular que tiene un interés jurídico o legítimo, individual o colectivo, respecto de un acto o procedimiento administrativo, por ostentar un derecho legalmente tutelado;
 
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VIII. Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios;
+VIII. Ley de Responsabilidades: Ley de Responsabilidades Administrativas del Estado de México y Municipios;
 
 > <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -91,9 +97,9 @@ IX. Procedimiento administrativo: Serie de trámites que realizan las dependenci
 
 X. Proceso administrativo: Serie de etapas del juicio contencioso administrativo, la acción popular, el recurso de revisión y el cumplimiento de sentencia:
 
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XI. Tribunal: Tribunal de lo Contencioso Administrativo del Estado de México.
+XI. Tribunal: Tribunal de Justicia Administrativa del Estado de México.
 
 > <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -111,9 +117,9 @@ El incumplimiento de las disposiciones previstas en este Código, dará lugar a 
 
 El procedimiento y proceso administrativo que regula este Código, se regirán por los principios de legalidad, sencillez, celeridad, oficiosidad, eficacia, publicidad, transparencia, gratuidad y buena fe; en consecuencia:
 
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-I. Se ajustarán estrictamente a las disposiciones de este Código y, en lo conducente, a las previsiones que establece la Ley para el Uso de Medios Electrónicos del Estado de México;
+I. Se ajustarán estrictamente a las disposiciones de este Código y, en lo conducente, a las previsiones que establece la Ley de Gobierno Digital del Estado de México y Municipios;
 
 II. Sus trámites serán sencillos, evitando formulismos innecesarios;
 
@@ -1393,9 +1399,11 @@ Los actos administrativos tienen fuerza ejecutiva, por lo que las autoridades ad
 
 #### SECCION SEGUNDA. Del Recurso Administrativo de Inconformidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 186.
 
-Contra los actos y resoluciones de las autoridades administrativas y fiscales, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo. Cuando se esté haciendo uso del recurso de inconformidad, previo desistimiento del mismo, el interesado podrá promover el juicio ante el propio Tribunal. La resolución que se dicte en el recurso de inconformidad también puede impugnarse ante el Tribunal.
+Contra los actos y resoluciones de las autoridades administrativas y fiscales, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal. Cuando se esté haciendo uso del recurso de inconformidad, previo desistimiento del mismo, el interesado podrá promover el juicio ante el propio Tribunal. La resolución que se dicte en el recurso de inconformidad también puede impugnarse ante el Tribunal.
 
 Para los efectos del párrafo anterior, tienen el carácter de particulares las personas afectadas en sus intereses jurídicos o legítimos por los actos y resoluciones reclamados, incluyendo a los servidores públicos que se les atribuya alguna causal de responsabilidad administrativa y los integrantes de los cuerpos de seguridad pública que sean molestados en sus derechos e intereses, en términos de las leyes aplicables.
 
@@ -2297,7 +2305,9 @@ En el supuesto de que la autoridad o servidor público persistiere en su actitud
 
 Si no obstante los requerimientos anteriores, no se da cumplimiento a la resolución, la sección de la sala superior podrá decretar la destitución del servidor público responsable, excepto que goce de fuero constitucional.
 
-En caso de que el servidor público administrativo goce de fuero constitucional, la sección de la sala superior formulará ante la Legislatura Estatal la solicitud de declaración de desafuero, en cuya tramitación y resolución se aplicarán en lo conducente las disposiciones del título segundo de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+En caso de que el servidor público administrativo goce de fuero constitucional, la sección de la sala superior formulará ante la Legislatura Estatal la solicitud de declaración de desafuero, en cuya tramitación y resolución se aplicarán en lo conducente las disposiciones de la Ley de Responsabilidades.
 
 > <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -3134,3 +3144,19 @@ e) Evaluación Técnica de Factibilidad de Transformación Forestal se entender�
 f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
 
 g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
