@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-igualdad-de-trato-y-oportunidades-entre-mujeres-y-76530"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2023-05-26"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -91,7 +91,7 @@ III. La Ley de la Comisión de Derechos Humanos del Estado de México;
 
 IV. La Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México;
 
-V. Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México; y
+V. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
 VI. Los demás ordenamientos aplicables en la materia.
 
@@ -249,9 +249,7 @@ IV. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 V. El Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México;
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
-
-VI. Secretaría de Seguridad;
+VI. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
 VII. El Instituto Mexiquense de la Juventud;
 
@@ -605,9 +603,11 @@ La Comisión de Derechos Humanos del Estado de México, podrá recibir quejas, f
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 38.
 
-La violación de las disposiciones de esta Ley que realicen los servidores públicos estatales y municipales, será sancionada en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios; lo anterior, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal del Estado de México.
+La violación de las disposiciones de esta Ley que realicen los servidores públicos estatales y municipales, será sancionada en términos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de México y Municipios; lo anterior, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -770,3 +770,19 @@ TERCERO. Se deroga toda disposición, de igual o menor jerarquía, contraria al 
 CUARTO. El Ejecutivo del Estado en un plazo que no exceda los noventa días naturales después de publicado el presente Decreto, deberá reformar el Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México para darle cumplimiento.
 
 QUINTO. Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres, la Legislatura del Estado de México, dentro del ejercicio fiscal correspondiente, asignará los recursos necesarios para la correcta implementación de los Programas de Acciones Estratégicas.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
