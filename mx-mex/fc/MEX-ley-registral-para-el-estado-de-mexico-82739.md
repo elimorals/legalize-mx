@@ -4,7 +4,7 @@ identifier: "MEX-ley-registral-para-el-estado-de-mexico-82739"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2016-12-20"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY REGISTRAL PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el jueves 18 de agosto de 2011.
 
@@ -603,9 +603,11 @@ IV. Objeto y cuantía; y
 
 V. Vigencia.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 44.
 
-Las inscripciones a que se refiere la fracción VII del artículo 8.54 del Código, se practicarán conforme al texto del decreto expropiatorio, de ocupación temporal o de declaración de limitación de dominio, publicado en el Diario Oficial de la Federación o en la Gaceta del Gobierno del Estado de México.
+Las inscripciones a que se refiere la fracción VII del artículo 8.54 del Código, se practicarán conforme al texto del decreto expropiatorio, de ocupación temporal o de declaración de limitación de dominio, publicado en el Diario Oficial de la Federación o en el Periódico Oficial “Gaceta del Gobierno”.
 
 ###### Artículo 45.
 
@@ -1215,9 +1217,11 @@ De la responsabilidad civil en que incurran en el ejercicio de sus funciones con
 
 En los supuestos establecidos en este capítulo se deberá observar lo dispuesto en el artículo 7.172 del Código.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 109.
 
-La autoridad competente sancionará al Director General, Registradores y demás servidores públicos adscritos al Instituto, por las violaciones en que incurran a los preceptos del Código, de esta Ley, y demás disposiciones aplicables, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+La autoridad competente sancionará al Director General, Registradores y demás servidores públicos adscritos al Instituto, por las violaciones en que incurran a los preceptos del Código, de esta Ley, y demás disposiciones aplicables, conforme lo establece la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ###### Artículo 110.
 
@@ -1289,9 +1293,11 @@ Si a la fecha de la consulta o de la petición de que se trate, la antigüedad d
 
 Si a la fecha de la consulta o de la petición de que se trate, la antigüedad del documento tiene más de ciento cincuenta años, los mismos únicamente podrán analizarse y consultarse bajo la supervisión estricta de un historiador designado para tal efecto por el Archivo. Para su reproducción, se requerirá la autorización del Director General, a través de los acuerdos o convenios respectivos. Esta reproducción sólo se llevará a cabo para fines científicos, docentes y culturales, mediante tecnología que garantice el cuidado y la preservación de dichos documentos y a través de instituciones gubernamentales o de derecho privado, o particulares, peritos en el cuidado extremo de los mismos, y en la aplicación de dicha tecnología, con la participación y supervisión de un historiador designado por el Archivo.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 119.
 
-El titular y los demás empleados del Archivo tendrán la obligación de guardar secreto de la información y trámites relacionados con la documentación que obre en el mismo. El incumplimiento de dicho secreto será sancionado administrativamente en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y penalmente conforme lo prevengan las disposiciones penales aplicables.
+El titular y los demás empleados del Archivo tendrán la obligación de guardar secreto de la información y trámites relacionados con la documentación que obre en el mismo. El incumplimiento de dicho secreto será sancionado administrativamente en los términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y penalmente conforme lo prevengan las disposiciones penales aplicables.
 
 ###### Artículo 120.
 
@@ -1460,3 +1466,19 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
