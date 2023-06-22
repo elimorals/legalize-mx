@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prevencion-del-tabaquismo-y-de-proteccion-ante-la-89342"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2022-06-10"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Quinta de la Gaceta de Gobierno del Estado de México, el viernes 31 de agosto de 2012.
 
@@ -83,7 +83,9 @@ I. Las personas que consumen productos del tabaco, los Sistemas Electrónicos de
 
 II. Las personas expuestas al humo de tabaco, y emisiones de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina;
 
-III. Los propietarios, administradores o encargados de los espacios 100% libres de humo de tabaco; y
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Los propietarios, administradores o encargados de los espacios 100% libres de humo de tabaco y emisiones, y
 
 > <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
@@ -105,7 +107,9 @@ I. Los usuarios, propietarios, poseedores, responsables y empleados de lugares c
 
 II. Las autoridades educativas en las escuelas e instituciones escolares públicas o privadas;
 
-III. Las organizaciones de la sociedad civil que estén interesadas en la protección de los espacios 100% libres de humo de tabaco;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Las organizaciones de la sociedad civil que estén interesadas en la protección de los espacios 100% libres de humo de tabaco y emisiones;
 
 IV. Los titulares de las unidades administrativas de las dependencias y organismos auxiliares del Gobierno del Estado de México, los Poderes Legislativo y Judicial, y los organismos constitucionales autónomos, en coordinación con el área administrativa correspondiente, y (sic)
 
@@ -197,7 +201,9 @@ VI. Fomentar campañas permanentes de información, concientización y difusión
 
 VII. Coordinar los programas de prevención del tabaquismo con la Secretaría de Educación del Estado de México;
 
-VIII. Elaborar y difundir el manual de señalamientos y avisos, que serán colocados en los espacios 100% libres de humo de tabaco;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VIII. Elaborar y difundir el manual de señalamientos y avisos, que serán colocados en los espacios 100% libres de humo de tabaco y emisiones;
 
 IX. Fomentar la creación de clínicas y servicios, para la atención del tabaquismo y las enfermedades causadas por el consumo de tabaco; y
 
@@ -207,7 +213,9 @@ X. Las demás que señalen otros ordenamientos jurídicos.
 
 Son facultades de las instituciones policiales, las siguientes:
 
-l. Poner a disposición de los oficiales calificadores municipales que corresponda, a las personas que sean sorprendidas fumando o que tengan encendido cualquier producto del tabaco en espacios 100% libres de humo de tabaco y que previamente se les haya exhortado para dejar de consumirlos y no lo hubieran hecho; y
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. Poner a disposición de los oficiales calificadores municipales que corresponda, a las personas que sean sorprendidas fumando o que tengan encendido cualquier producto del tabaco en espacios 100% libres de humo de tabaco y emisiones, y que previamente se les haya exhortado para dejar de consumirlos y no lo hubieran hecho, y
 
 II. Las demás que señalen otros ordenamientos jurídicos.
 
@@ -221,13 +229,15 @@ II. Calificar e imponer las sanciones que procedan por fumar y permitir consumir
 
 III. Las demás que establezcan otros ordenamientos jurídicos.
 
-### CAPÍTULO TERCERO. DE LAS MEDIDAS PREVENTIVAS DEL CONSUMO DE TABACO Y DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2021)</small>
+### CAPÍTULO TERCERO. DE LAS MEDIDAS PREVENTIVAS DEL CONSUMO DE TABACO Y DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO Y EMISIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-La Secretaría, se coordinará con las autoridades estatales y municipales para adoptar medidas preventivas del consumo de tabaco, la utilización de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, y para el establecimiento de espacios 100% libres de humo de tabaco, para lo cual se adoptarán las siguientes medidas:
+La Secretaría, se coordinará con las autoridades estatales y municipales para adoptar medidas preventivas del consumo de tabaco, la utilización de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, y para el establecimiento de espacios 100% libres de humo de tabaco y emisiones, para lo cual se adoptarán las siguientes medidas:
 
 I. Promover con las instituciones y autoridades educativas, campañas de información sobre los efectos del consumo de tabaco y el tabaquismo;
 
@@ -341,7 +351,9 @@ Los alumnos, maestros, personal administrativo, padres de familia e integrantes 
 
 La Secretaría promoverá la participación de la sociedad civil en la prevención del tabaquismo en las siguientes acciones:
 
-l. Promoción de los espacios 100 % libres de humo de tabaco;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+I. Promoción de los espacios 100 % libres de humo de tabaco y emisiones;
 
 II. Promoción de la salud individual, familiar y comunitaria, incluyendo la prevención y el abandono del tabaquismo;
 
@@ -373,9 +385,11 @@ Cualquier persona podrá presentar ante la autoridad correspondiente, una queja 
 
 La autoridad competente salvaguardará la identidad e integridad del ciudadano que interponga una queja.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 21.
 
-La Secretaría operará una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar quejas y sugerencias sobre los espacios 100% libres de humo de tabaco, así como el incumplimiento de esta Ley, su Reglamento y demás disposiciones aplicables. Asimismo administrará una dirección electrónica en donde los ciudadanos podrán presentar sus quejas y sugerencias.
+La Secretaría operará una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar quejas y sugerencias sobre los espacios 100% libres de humo de tabaco y emisiones, así como el incumplimiento de esta Ley, su Reglamento y demás disposiciones aplicables. Asimismo, administrará una dirección electrónica en donde los ciudadanos podrán presentar sus quejas y sugerencias.
 
 ### CAPÍTULO SÉPTIMO. DE LAS VERIFICACIONES
 
@@ -449,17 +463,17 @@ IV. Reincidencia; y
 
 V. Demás circunstancias para la individualización de la sanción.
 
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 28.
 
-Se sancionará con una multa de hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente, al que consuma cualquier producto del tabaco incluso por los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, en los espacios 100% libre de humo de tabaco, a los que hace referencia esta Ley.
+Se sancionará con una multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente, al que consuma cualquier producto del tabaco incluso por los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, en los espacios 100% libre de humo de tabaco y emisiones, a los que hace referencia esta Ley.
 
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 29.
 
-Se sancionará con una multa de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente, al propietario, administrador, poseedor o responsable de un espacio 100% libre de humo de tabaco a los que hace referencia esta Ley, que permita fumar tabaco o el uso de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina en los mismos.
+Se sancionará con una multa de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente, al propietario, administrador, poseedor o responsable de un espacio 100% libre de humo de tabaco y emisiones a los que hace referencia esta Ley, que permita fumar tabaco o el uso de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina en los mismos.
 
 > <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
 
@@ -658,3 +672,19 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. En términos de lo dispuesto en el segundo párrafo del artículo 12 del presente Decreto, los propietarios, administradores o responsables de los establecimientos o lugares con acceso al público, áreas de trabajo, públicas y privadas, deberán ubicar zonas exclusivas para fumar en espacios al aire libre en un plazo no mayor a 90 días posteriores a la publicación del presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
