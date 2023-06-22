@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-atencion-y-proteccion-a-personas-con-la-109569"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-19"
-last_updated: "2022-09-23"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 19 de agosto de 2015.
 
@@ -65,7 +65,9 @@ III. (DEROGADA, G.G. 5 DE DICIEMBRE DE 2017)
 
 IV. Comisión: Comisión Intersecretarial para la Atención y Protección a Personas con la Condición del Espectro Autista en el Estado de México;
 
-V. Concurrencia: Participación conjunta de dos o más dependencias o entidades de la Administración Pública Estatal, o bien, del Estado, con la Federación, el Distrito Federal y los municipios que, de acuerdo con los ámbitos de su competencia, atienden la gestión y, en su caso, la resolución de un fenómeno social;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+V. Concurrencia: Participación conjunta de dos o más dependencias o entidades de la Administración Pública Estatal, o bien, del Estado, con la Federación, la Ciudad de México y los municipios que, de acuerdo con los ámbitos de su competencia, atienden la gestión y, en su caso, la resolución de un fenómeno social;
 
 VI. Derechos humanos: Aquellos derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano forma parte y que se caracterizan por garantizar a las personas, dignidad, valor, igualdad de derechos y oportunidades, a fin de promover el proceso social y elevar el nivel de vida dentro de un concepto más amplio de la libertad con estricto apego a los principios Pro persona, Universalidad, Interdependencia, Indivisibilidad y Progresividad;
 
@@ -161,7 +163,9 @@ I. La Ley General;
 
 II. La Ley Orgánica de la Administración Pública del Estado de México;
 
-III. La Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. La Ley de Responsabilidades Administrativas del Estado de México y Municipios;
 
 IV. La Ley de Planeación del Estado de México y Municipios;
 
@@ -482,3 +486,19 @@ G.G. 23 DE SEPTIEMBRE DE 2022.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
