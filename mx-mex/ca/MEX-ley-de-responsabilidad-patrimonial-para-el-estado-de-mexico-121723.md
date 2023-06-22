@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidad-patrimonial-para-el-estado-de-mexico-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-30"
-last_updated: "2023-05-11"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Cuarta al Número 97 de la Gaceta Oficial del Estado de México, el martes 30 de mayo de 2017.
 
@@ -45,7 +45,9 @@ Se expide la Ley de Responsabilidad Patrimonial para el Estado de México y Muni
 
 LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE JUNIO DE 2023)</small>
+
+## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
 ### CAPÍTULO I. DE LA NATURALEZA Y OBJETO DE LA LEY
 
@@ -53,17 +55,27 @@ LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
 La presente Ley es reglamentaria del artículo 130 de la Constitución Política del Estado Libre y Soberano de México, sus disposiciones son de orden público e interés general, y tiene por objeto fijar las bases y procedimientos para reconocer el derecho a la indemnización a quienes, sin obligación jurídica de soportarlo, sufran daños en cualquiera de sus bienes y derechos como consecuencia de la actividad administrativa irregular del Gobierno del Estado de México y Municipios.
 
-La responsabilidad del Gobierno del Estado de México y Municipios es objetiva y directa, y la indemnización deberá ajustarse a los términos y condiciones señalados en esta Ley, y en las demás disposiciones legales a que la misma hace referencia.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO II. DE LOS SUJETOS OBLIGADOS
+La responsabilidad extracontractual a cargo del Gobierno del Estado de México y Municipios es objetiva y directa, y la indemnización deberá ajustarse a los términos y condiciones señalados en esta Ley, y en las demás disposiciones legales a que la misma hace referencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO II. DE LOS ENTES PÚBLICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 2.
 
-Son sujetos obligados de esta Ley, el Poder Ejecutivo, ayuntamientos, dependencias y entidades de las Administración Pública Estatal y Municipal, organismos auxiliares y fideicomisos públicos, empresas de participación estatal y municipal, los poderes Legislativo y Judicial del Estado, por sus actos materialmente administrativos, así como los órganos públicos autónomos que constitucional o legalmente reúnan ese carácter, y en general cualquier ente público estatal o municipal del Estado de México.
+Son sujetos obligados de esta Ley, los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, estatales y municipales del Estado de México, que legalmente reúnan ese carácter, por sus actos administrativos.
 
-Los preceptos de esta Ley serán aplicables, en lo conducente, para cumplimentar las recomendaciones de la Comisión de Derechos Humanos del Estado de México, aceptadas por los sujetos obligados, en cuanto se refieran al pago de indemnizaciones.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-La aceptación y cumplimiento de las recomendaciones a que se refiere el párrafo anterior, en su caso, deberá llevarse a cabo por el sujeto obligado que haya sido declarado responsable, lo mismo deberá observarse para el cumplimiento de los fallos jurisdiccionales de reparación.
+Los preceptos de esta Ley serán aplicables, en lo conducente, para cumplimentar las recomendaciones de la Comisión de Derechos Humanos del Estado de México, aceptadas por los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, en cuanto se refieran al pago de indemnizaciones.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+La aceptación y cumplimiento de las recomendaciones a que se refiere el párrafo anterior, en su caso, deberá llevarse a cabo por los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, que haya sido declarado responsable, lo mismo deberá observarse para el cumplimiento de los fallos jurisdiccionales de reparación.
 
 La Comisión de Derechos Humanos del Estado de México y sus servidores públicos, no son sujetos de responsabilidad patrimonial por las opiniones, y recomendaciones que formulen, así como por los actos que realicen en ejercicio de las funciones de su competencia.
 
@@ -91,15 +103,23 @@ II. Daño Patrimonial: A la pérdida o menoscabo sufrido en el conjunto de biene
 
 III. Derecho de repetición: A la potestad del Estado de exigir a los servidores públicos responsables, el resarcimiento del importe de la indemnización cubierta a los afectados por concepto de la reparación de los daños y perjuicios.
 
+> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III Bis. Entes Públicos: A los poderes Ejecutivo, Legislativo y Judicial, los organismos constitucionales autónomos del Estado, los municipios, los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos estatales y municipales, así como cualquier otro ente sobre el que el Estado y los municipios tengan control sobre sus decisiones o acciones de forma conjunta o individual, según sea el caso.
+
 IV. Indemnización: A la reparación del daño que en dinero o en especie hagan los entes públicos, por la lesión a la esfera jurídica-patrimonial de la persona afectada como consecuencia de su actividad administrativa irregular.
 
 V. Ley: A la Ley de Responsabilidad Patrimonial para el Estado de México y Municipios.
 
-VI. Reclamación: A la promoción formulada por los particulares, tendiente a solicitar a los sujetos obligados una indemnización ante la presunción de la existencia de actividad administrativa irregular.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. Reclamación: A la promoción formulada por los particulares, tendiente a solicitar a los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, una indemnización ante la presunción de la existencia de actividad administrativa irregular.
 
 VII. Reclamante: A quién haya sido objeto de daño por actividad administrativa irregular del Gobierno del Estado de México, que tenga derecho a ejercitar acción para reclamar indemnización.
 
-VIII. Responsabilidad Concurrente: A la actividad irregular que sea atribuible en su conjunto a dos o más sujetos obligados, o bien, cuando un acto irregular haya corrido a cargo de dos o más sujetos obligados y no pueda identificarse cuál fue el causante, debiéndose reparar de manera proporcional los daños y perjuicios ocasionados.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VIII. Responsabilidad Concurrente: A la actividad irregular que sea atribuible en su conjunto a dos o más Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, o bien, cuando un acto irregular haya corrido a cargo de dos o más Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, y no pueda identificarse cuál fue el causante, debiéndose reparar de manera proporcional los daños y perjuicios ocasionados.
 
 IX. Responsabilidad patrimonial: A la obligación objetiva y directa del Estado de reparar los daños y perjuicios ocasionados en los bienes o derechos de los particulares a consecuencia directa de su actividad administrativa irregular.
 
@@ -107,17 +127,17 @@ IX. Responsabilidad patrimonial: A la obligación objetiva y directa del Estado 
 
 Los daños y perjuicios materiales que constituyan la lesión patrimonial reclamada, incluidos los personales y morales, habrán de ser reales, evaluables en dinero, directamente relacionados con una o varias personas, y desiguales a los que pudieran afectar al común de la población.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 8.
 
-Los sujetos obligados cubrirán las indemnizaciones derivadas de responsabilidad patrimonial que se determinen conforme a esta Ley, con cargo a sus respectivos presupuestos.
+Los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, cubrirán las indemnizaciones derivadas de responsabilidad patrimonial que se determinen conforme a esta Ley, con cargo a sus respectivos presupuestos.
 
-Los pagos de las indemnizaciones derivadas de responsabilidad patrimonial se realizarán conforme a la disponibilidad presupuestaria del ejercicio fiscal correspondiente, sin afectar el cumplimiento de los objetivos de los programas que se aprueben en el Presupuesto de Egresos respectivo.
-
-En la fijación de los montos de las partidas presupuestales deberán preverse las indemnizaciones, que no hayan podido ser pagadas en el ejercicio inmediato anterior, según lo dispuesto en la presente Ley.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
-Los sujetos obligados, tomando en cuenta la disponibilidad de recursos para el ejercicio fiscal correspondiente, incluirán en sus respectivos anteproyectos de presupuesto, los recursos para cubrir las erogaciones derivadas de responsabilidad patrimonial, conforme al orden establecido en el registro de indemnizaciones a que se refiere la presente Ley.
+Los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, tomando en cuenta la disponibilidad de recursos para el ejercicio fiscal correspondiente, así como la verificación de suficiencia presupuestal de los ejercicios fiscales subsecuentes que deban ser afectados, incluirán en sus respectivos anteproyectos de presupuesto, los recursos para cubrir las erogaciones derivadas de responsabilidad patrimonial, conforme al orden establecido en el registro de indemnizaciones a que se refiere la presente Ley.
 
 ###### Artículo 10.
 
@@ -131,9 +151,11 @@ En el caso de las entidades no sujetas o sujetas parcialmente a control presupue
 
 Las indemnizaciones fijadas por autoridades administrativas o jurisdiccionales, que excedan del monto máximo presupuestado en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere la presente Ley.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 12.
 
-Los sujetos obligados deberán denunciar ante el Ministerio Público a toda persona que directa o indirectamente participe, coadyuve, asista o simule la producción de daños con el propósito de acreditar indebidamente la Responsabilidad Patrimonial del Estado, o de obtener alguna de las indemnizaciones a que se refiere esta Ley.
+Los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, deberán denunciar ante el Ministerio Público a toda persona que directa o indirectamente participe, coadyuve, asista o simule la producción de daños con el propósito de acreditar indebidamente la Responsabilidad Patrimonial del Estado, o de obtener alguna de las indemnizaciones a que se refiere esta Ley.
 
 ## TÍTULO SEGUNDO. DE LAS INDEMNIZACIONES
 
@@ -151,13 +173,17 @@ III. La cuantificación de la indemnización se calculará de acuerdo a la fecha
 
 IV. En todo caso deberá actualizarse la cantidad a indemnizar, al tiempo en que haya de efectuarse el cumplimiento de la resolución por la que se resuelve y ordena el pago de la indemnización.
 
-V. En caso de retraso en el cumplimiento del pago de la indemnización, procederá la actualización de conformidad con lo dispuesto en el Código Financiero del Estado de México.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+V. En caso de retraso en el cumplimiento del pago de la indemnización, procederá la actualización de conformidad con lo dispuesto en el Código Financiero del Estado de México y Municipios.
 
 El término para el cómputo de la actualización empezará a correr noventa días hábiles después de que quede firme la resolución administrativa o jurisdiccional que ponga fin al procedimiento en forma definitiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 14.
 
-Los sujetos obligados podrán cubrir el monto de la indemnización por medio de parcialidades en ejercicios fiscales subsecuentes, realizando una proyección de los pagos de acuerdo a lo siguiente:
+Los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, podrán cubrir el monto de la indemnización por medio de parcialidades en ejercicios fiscales subsecuentes, previendo la suficiencia presupuestal correspondiente, realizando una proyección de los pagos de acuerdo a lo siguiente:
 
 I. Los diversos compromisos programados de ejercicios fiscales anteriores, y los que previsiblemente se presentarán en el ejercicio que se trate.
 
@@ -165,19 +191,21 @@ II. El monto de los recursos presupuestados o asignados en los cinco ejercicios 
 
 III. Los recursos que previsiblemente serán aprobados y asignados en el rubro correspondiente a este tipo de obligaciones, en los ejercicios fiscales subsecuentes con base en los antecedentes referidos en el numeral anterior, y el comportamiento del ingreso-gasto.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 15.
 
-Los sujetos obligados podrán celebrar un contrato de seguro por responsabilidad patrimonial, preferentemente por conducto de la Secretaría de Finanzas, cuyo deducible corresponderá cubrir al sujeto obligado, destinado a cubrir las indemnizaciones producto de la actividad irregular del Estado.
-
-En el supuesto de haberse pactado el contrato a que se refiere el párrafo anterior, la suma asegurada se destinará a cubrir el monto equivalente a la reparación integral. De ser insuficiente dicho monto, el Estado continuará cubriendo la diferencia respectiva, pudiéndose pactar ésta en parcialidades de acuerdo a lo contenido en la presente ley.
+Los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, podrán celebrar un contrato de seguro por responsabilidad patrimonial, preferentemente por conducto de la Secretaría de Finanzas, cuyo deducible corresponderá cubrir al sujeto obligado, destinado a cubrir las indemnizaciones producto de la actividad irregular del Estado.
 
 ###### Artículo 16.
 
 La cantidad líquida resultado del daño material, deberá estar respaldada al menos por la práctica de un avalúo formulado por perito acreditado, pericial que tendrá que establecer el valor del daño incluyendo frutos y accesiones que en su caso, hubiere podido producir el objeto del avalúo, así como todas las circunstancias que puedan influir en la determinación del valor real del daño.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 17.
 
-Las indemnizaciones por pago de daños a cargo de los sujetos obligados, previstas en otros ordenamientos y que no regule la forma de su cuantificación, se determinarán aplicando las disposiciones contenidas en la presente Ley.
+Las indemnizaciones por pago de daños a cargo de los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, previstas en otros ordenamientos y que no regule la forma de su cuantificación, se determinarán aplicando las disposiciones contenidas en la presente Ley.
 
 ###### Artículo 18.
 
@@ -199,21 +227,27 @@ III. Cuando el daño llegare a producir la muerte, incapacidad total permanente,
 
 La acción por reclamación de la indemnización, así como su disfrute, corresponderá a los herederos legítimos de la víctima, cuando el daño haya generado la muerte. Si la muerte deriva de un feminicidio corresponderá a las víctimas indirectas.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 19.
 
-Los sujetos obligados al elaborar su presupuesto anual, deberán cuantificar el monto de las indemnizaciones, en cantidad líquida y en una partida presupuestal, suma que deberá destinarse para cubrir los gastos que llegaran a derivar de responsabilidades patrimoniales. De igual forma, deberán preverse las indemnizaciones que no hayan podido ser pagadas en los ejercicios fiscales anteriores, con el objeto de ser liquidadas.
+Los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, al elaborar su presupuesto anual, deberán cuantificar el monto de las indemnizaciones, en cantidad líquida y en una partida presupuestal, suma que deberá destinarse para cubrir los gastos que llegaran a derivar de responsabilidades patrimoniales. De igual forma, deberán preverse las indemnizaciones que no hayan podido ser pagadas en los ejercicios fiscales anteriores, con el objeto de ser liquidadas.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 20.
 
-Toda indemnización que haya sido determinada por autoridad administrativa o jurisdiccional, que exceda la disponibilidad presupuestal de los sujetos obligados correspondiente a un ejercicio fiscal, deberá ser cubierta en el siguiente ejercicio fiscal, tomando en cuenta el orden cronológico en que se emitan las resoluciones de las autoridades administrativas, sin mayor restricción que la prelación que determina esta Ley.
+Toda indemnización que haya sido determinada por autoridad administrativa o jurisdiccional, que exceda la disponibilidad presupuestal de los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, relativo a un ejercicio fiscal, deberá ser cubierta en el siguiente ejercicio fiscal, previendo la suficiencia presupuestal correspondiente, tomando en cuenta el orden cronológico en que se emitan las resoluciones de las autoridades administrativas, sin mayor restricción que la prelación que determina esta Ley.
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO DE RESPONSABILIDAD PATRIMONIAL
 
 ### CAPÍTULO I. GENERALIDADES
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 21.
 
-El procedimiento de responsabilidad patrimonial de los sujetos obligados se iniciará por reclamación de parte interesada o de quien legítimamente lo represente.
+El procedimiento de responsabilidad patrimonial de los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, se iniciará por reclamación de parte interesada o de quien legítimamente lo represente.
 
 ###### Artículo 22.
 
@@ -253,7 +287,9 @@ II. Nombre, denominación o razón social del reclamante, representante, apodera
 
 III. Domicilio para oír y recibir notificaciones y documentos dentro de la población donde radique el sujeto obligado.
 
-IV. Denominación y domicilio del sujeto o sujetos obligados, a quienes se reclame la indemnización por su actividad irregular.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+IV. Denominación y domicilio de los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, a quienes se reclame la indemnización por su actividad irregular.
 
 V. Prestaciones que se demanden, en que se indique el cálculo estimado del daño generado.
 
@@ -301,7 +337,7 @@ Al reclamante que promueva una demanda por responsabilidad patrimonial notoriame
 
 ###### Artículo 32.
 
-La autoridad que conozca de la reclamación deberá denunciar ante el Ministerio Público competente, a toda persona que directa o indirectamente participe, coadyuve, asista o simule la producción de algún daño con el propósito de acreditar la responsabilidad patrimonial del Estado, con el fin de obtener una indemnización indebida.
+(DEROGADO, G.G. 22 DE JUNIO DE 2023)
 
 ###### Artículo 33.
 
@@ -391,7 +427,9 @@ I. Por desistimiento expreso de la reclamación interpuesta.
 
 II. Por convenio expreso de las partes antes de emitir resolución.
 
-III. Por cumplimiento voluntario de los sujetos obligados, antes de la resolución definitiva.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+III. Por cumplimiento voluntario de los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, antes de la resolución definitiva.
 
 IV. Por resolución definitiva.
 
@@ -421,9 +459,11 @@ Las resoluciones dictadas por la autoridad administrativa causarán estado, y se
 
 Las resoluciones o sentencias firmes deberán registrarse por las dependencias o entidades del Estado, conforme a lo estipulado en el reglamento de la presente Ley.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 47.
 
-Los sujetos obligados deberán llevar un registro de indemnizaciones por responsabilidad patrimonial, que será de consulta pública, con la finalidad que conforme al orden cronológico, según su fecha de emisión, sean indemnizadas las lesiones patrimoniales causadas, cuando de conformidad con las disposiciones de esta Ley resulten procedentes.
+Los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, deberán llevar un registro de indemnizaciones por responsabilidad patrimonial, que será de consulta pública, con la finalidad que conforme al orden cronológico, según su fecha de emisión, sean indemnizadas las lesiones patrimoniales causadas, cuando de conformidad con las disposiciones de esta Ley resulten procedentes.
 
 ### CAPÍTULO VII. DE LOS MEDIOS DE IMPUGNACIÓN
 
@@ -435,9 +475,11 @@ Las resoluciones de la autoridad que nieguen la indemnización o que resulten de
 
 ### CAPÍTULO ÚNICO. DE LA DISTRIBUCIÓN DE LA RESPONSABILIDAD CONCURRENTE
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 49.
 
-Cuando se acredite la concurrencia de varios sujetos obligados, el pago de la indemnización se distribuirá proporcionalmente entre todos los causantes del daño demandado, conforme su respectiva responsabilidad.
+Cuando se acredite la concurrencia de varios Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, el pago de la indemnización se distribuirá proporcionalmente entre todos los causantes del daño demandado, conforme su respectiva responsabilidad.
 
 ###### Artículo 50.
 
@@ -449,13 +491,19 @@ II. Cada sujeto obligado responderá por el daño que hayan ocasionado sus servi
 
 III. El sujeto obligado que tenga la competencia o preste el servicio y que con su actividad haya causado el daño, responderá por su actuación irregular, sea por prestación directa o con colaboración de otros sujetos obligados.
 
-IV. El sujeto obligado que hubiera proyectado obras que hayan sido ejecutadas por otros, responderá de los hechos o actos dañosos causados, cuando los segundos no hayan tenido el derecho de modificar el proyecto por cuya causa se generó la lesión patrimonial reclamada. Por su parte, los sujetos obligados ejecutores responderán del daño producido, cuando éste no hubiera tenido como origen deficiencias en el proyecto elaborado.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-V. Cuando en el daño por actividad irregular concurra la intervención de la autoridad estatal y municipal, cada orden de gobierno responderá del pago de la indemnización en forma proporcional, en atención a su respectiva participación.
+IV. Los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, que tenga la competencia o preste el servicio y que con su actividad haya causado el daño, responderá por su actuación irregular, sea por prestación directa o con colaboración de otros sujetos obligados.
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+V. Los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, que hubiera proyectado obras que hayan sido ejecutadas por otros, responderá de los hechos o actos dañosos causados, cuando los segundos no hayan tenido el derecho de modificar el proyecto por cuya causa se generó la lesión patrimonial reclamada. Por su parte, los sujetos obligados ejecutores responderán del daño producido, cuando éste no hubiera tenido como origen deficiencias en el proyecto elaborado.
 
 VI. Los sujetos obligados que tengan la función de dirección o vigilancia respecto de otras autoridades, sólo se les atribuirán los hechos o actos causantes de la lesión patrimonial, cuando de ellas dependiera la rectoría de la actividad o la supervisión de las entidades vigiladas.
 
-VII. Cuando los daños reclamados deriven de hechos o actos producidos como consecuencia de una concesión otorgada por parte de la administración pública, local o municipal, y los daños hayan tenido como causa una actividad del concesionante que sea de ineludible cumplimiento para el concesionario, la Administración Pública Estatal o Municipal, según se trate, responderá solidariamente con el concesionario.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VII. Los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, que tengan la función de dirección o vigilancia respecto de otras autoridades, sólo se les atribuirán los hechos o actos causantes de la lesión patrimonial, cuando de ellas dependiera la rectoría de la actividad o la supervisión de las entidades vigiladas.
 
 Los concesionarios tendrán la obligación de contratar seguros u otorgar garantías a favor del concesionante, para el caso que la lesión reclamada haya sido ocasionada por la actividad del concesionario, y no se derive de una determinación del concesionante.
 
@@ -463,13 +511,17 @@ Los concesionarios tendrán la obligación de contratar seguros u otorgar garant
 
 Si entre los autores de la lesión patrimonial reclamada no se puede identificar su grado exacto de participación, se establecerá entre ellos una responsabilidad solidaria frente al reclamante, debiéndose distribuir el pago de la indemnización en partes iguales entre todos los causantes.
 
-## TÍTULO QUINTO. DEL DERECHO A REPETIR DE LOS SUJETOS OBLIGADOS EN CONTRA DE LOS SERVIDORES PÚBLICOS RESPONSABLES DEL DAÑO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE JUNIO DE 2023)</small>
+
+## TÍTULO QUINTO. DEL DERECHO A REPETIR DE LOS ENTES PÚBLICOS EN CONTRA DE LOS SERVIDORES PÚBLICOS RESPONSABLES DEL DAÑO
 
 ### CAPÍTULO ÚNICO. DEL DERECHO A REPETIR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 52.
 
-El Estado a través de los sujetos obligados, valorando las circunstancias particulares del caso, podrá repetir en contra de los servidores públicos el pago de la indemnización cubierta a los particulares en los términos de la presente Ley, previa sustanciación del procedimiento administrativo resarcitorio previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, que determine su responsabilidad.
+El Estado a través de los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, valorando las circunstancias particulares del caso, podrá repetir en contra de los servidores públicos el pago de la indemnización cubierta a los particulares en los términos de la presente Ley, previa sustanciación del procedimiento administrativo resarcitorio previsto en la Ley de Responsabilidades Administrativas del Estado de México y Municipios, que determine su responsabilidad.
 
 El Estado podrá, también, instruir procedimiento a los proveedores, contratistas o particulares que por virtud de los actos o contratos que realicen con el Estado, o municipios, participen en el daño ocasionado por actividad irregular.
 
@@ -477,13 +529,17 @@ El Estado podrá, también, instruir procedimiento a los proveedores, contratist
 
 Los servidores públicos podrán impugnar las resoluciones administrativas por las cuales se les imponga la obligación de resarcir los daños y perjuicios que hayan pagado las entidades, con motivo de las reclamaciones de indemnización, por medio del recurso de inconformidad ante la misma autoridad, o en su caso, por juicio ante el Tribunal de Justicia Administrativa, en términos del Código de Procedimientos Administrativos del Estado de México.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 54.
 
-El derecho a repetir que ejerzan los sujetos obligados contra los servidores públicos, interrumpirá los plazos de prescripción que la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios establece para iniciar el procedimiento administrativo disciplinario, y se reanudarán cuando quede firme la resolución o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados.
+El derecho a repetir que ejerzan los Entes Públicos de acuerdo con su naturaleza jurídica y según corresponda, contra los servidores públicos, interrumpirá los plazos de prescripción que la Ley de Responsabilidades Administrativas del Estado de México y Municipios establece para iniciar el procedimiento administrativo disciplinario, y se reanudarán cuando quede firme la resolución o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 55.
 
-Las cantidades que se obtengan con motivo de las sanciones económicas que las autoridades competentes impongan a los servidores públicos, en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios se adicionarán, según corresponda, al presupuesto previsto para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial de cada sujeto obligado.
+Las cantidades que se obtengan con motivo de las sanciones económicas que las autoridades competentes impongan a los servidores públicos, en términos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de México y Municipios se adicionarán, según corresponda, al presupuesto previsto para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial de cada sujeto obligado.
 
 ## TRANSITORIOS
 
@@ -536,3 +592,19 @@ SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan
 TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
 
 Para ejercicios presupuestales posteriores, las dependencias del Gobierno Estatal asignarán la cantidad de recursos que consideren necesarios con base en sus estadísticas, para continuar la aplicación de la presente reforma, debiendo establecer en el Presupuesto de Egresos, un apartado específico de recurso y el destino de estos.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial "Gaceta del Gobierno" el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
