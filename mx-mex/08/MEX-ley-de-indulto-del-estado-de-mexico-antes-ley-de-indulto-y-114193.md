@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-indulto-del-estado-de-mexico-antes-ley-de-indulto-y-1141
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-18"
-last_updated: "2017-09-29"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,15 @@ state: "MEX"
 ---
 # LEY DE INDULTO DEL ESTADO DE MEXICO -ANTES LEY DE INDULTO Y CONMUTACION DE PENAS DEL ESTADO DE MEXICO-
 
-LEY DE INDULTO DEL ESTADO DE MÉXICO
+LEY DE INGRESOS DEL MUNICIPIO DE SAN LORENZO VICTORIA, DISTRITO DE SILACAYOÁPAM, OAXACA, PARA EL EJERCICIO FISCAL 2022
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
+TEXTO ORIGINAL.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+Ley publicada en la Octava Sección del Número 7 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de febrero de 2022.
 
-Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 18 de abril de 2016.
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
-ERUVIEL ÁVILA VILLEGAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
-
-Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
-
-DECRETO NÚMERO 78
-
-LA H. "LIX" LEGISLATURA DEL ESTADO DE MÉXICO
-
-DECRETA:
+(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ###### ARTÍCULO ÚNICO.
 
@@ -261,9 +253,7 @@ IV. El informe sobre antecedentes penales.
 
 ###### Artículo 18.
 
-La Dirección General procederá a analizar, formular y calificar, las solicitudes de indulto y, en caso de que no cumplan con los requisitos establecidos en la presente Ley, se lo comunicará alas (sic) o los promoventes, dando por terminado el procedimiento respectivo.
-
-> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
+Servirá de base para el cálculo de este derecho el importe del consumo que los propietarios o poseedores de predios cubran a la empresa que suministre la energía eléctrica, aplicando las tasas previstas en las Leyes de Ingresos Municipales respectivas que al efecto propongan los Ayuntamientos a la Legislatura del Estado; y, sólo para el caso de que no se publiquen estás, la tasa aplicable será del 8% para las tarifas 01, 1 A, IB, IC, 02, 03 Y 07 y 4% para las tarifas 08, 8A, 12, y 12 A.
 
 ###### Artículo 19.
 
@@ -307,7 +297,23 @@ El Gobernador resolverá revocar el indulto concedido, cuando se demuestre que e
 
 ###### Artículo 25.
 
-La víctima u ofendido del hecho ilícito será notificado desde el inicio del trámite para ser escuchado en garantía de audiencia. Del mismo modo, deberá notificarse la determinación de libertad por indulto en su domicilio legal, para su conocimiento y efectos legales conducentes.
+El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
+
+Concepto Cuota en Pesos
+
+(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+I. COPIAS DE DOCUMENTOS EXISTENTES EN
+
+LOS ARCHIVOS DE LAS OFICINAS MUNICIPALES. 20.00
+
+II. Expedición de certificados de residencia, origen,
+
+dependencia económica, de situación fiscal actual o
+
+pasada, de contribuyentes inscritos en la Tesorería,
+
+de morada conyugal. 30.00
 
 ###### Artículo 26.
 
