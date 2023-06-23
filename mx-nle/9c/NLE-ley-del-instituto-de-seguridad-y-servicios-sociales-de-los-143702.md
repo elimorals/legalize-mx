@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-1437
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-29"
-last_updated: "2021-12-24"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Ley publicada en la Sección III al Número 94 del Periódico Oficial del Estado de Nuevo León, el miércoles 29 de julio de 2020.
 
@@ -345,7 +345,7 @@ Cuando no se hubieren hecho a los servidores públicos las retenciones procedent
 
 Cuando el Instituto hubiese realizado un pago indebido, por omisión o error en el informe rendido o documentación expedida por la entidad pública, el citado Instituto realizará los ajustes necesarios en el monto de las prestaciones subsecuentes de carácter periódico que se estuviesen otorgando, con el objeto de adecuarlas al monto que le corresponden.
 
-Lo dispuesto en los párrafos anteriores, será sin prejuicio de las sanciones que resulten aplicables a los responsables de las situaciones previstas en este precepto. La imposición de estas sanciones no eximirá a las entidades públicas de la obligación de resarcir al Instituto por los daños causados.
+Lo dispuesto en los párrafos anteriores, será sin perjuicio de las sanciones que resulten aplicables a los responsables de las situaciones previstas en este precepto. La imposición de estas sanciones no eximirá a las entidades públicas de la obligación de resarcir al Instituto por los daños causados.
 
 Cuando la entidad pública entere cuotas y aportaciones de un servidor público que no se encuentre afiliado al Instituto, ni sea sujeto de incorporación al régimen de seguridad social contemplado en esta ley, ello no implicará de manera alguna reconocimiento de afiliación, ni de antigüedad, ni generará derecho alguno para el servidor público y las personas que haya nombrado como sus beneficiarios, y el Instituto sólo estará obligado a devolver las cuotas y aportaciones a la entidad pública en un plazo máximo de treinta días para que esta a su vez devuelva al servidor público sus cuotas.
 
@@ -839,7 +839,7 @@ Los pensionistas recibirán una gratificación anual equivalente en días, a la 
 
 La cuantía de la renta vitalicia será dinámica y se incrementará en el mes de enero de cada año con el mismo aumento porcentual de la inflación anual.
 
-La cuantía se incrementará al multiplicarla por el factor que se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes de diciembre del año inmediato anterior entre el citado Índice correspondiente al mes de diciembre del segundo año inmediato anterior a aquél en el que se efectúe el ajuste.
+La cuantía se incrementará al multiplicarla por el factor que se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes de diciembre del año inmediato anterior entre el citado índice correspondiente al mes de diciembre del segundo año inmediato anterior a aquél en el que se efectúe el ajuste.
 
 ###### ARTÍCULO 83.
 
@@ -924,6 +924,30 @@ II. Reunir los requisitos que determine la Comisión Nacional Bancaria y de Valo
 III. Reunir los requisitos para ser calificados como de alta calidad crediticia, de acuerdo con las disposiciones de carácter general que para tal efecto emita la citada Comisión referida en la fracción anterior.
 
 En ningún caso se deberán efectuar inversiones en documentos y en plazos que comprometan la seguridad y liquidez de estos recursos.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
+
+El Instituto deberá aplicar los principios de transparencia y máxima publicidad en la contratación de instrumentos para la inversión de los recursos de las cuentas del Sistema Certificado para la Jubilación.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
+
+Asimismo, a través del Consejo Directivo, el Instituto enviará a la Auditoría Superior del Estado, por medio del Congreso del Estado, un informe anual sobre el estado que guardan los fondos aquí referidos, debiendo enterarse durante el primer trimestre del ejercicio fiscal correspondiente el informe del ejercicio anterior, integrándose a la revisión de la cuenta pública del ejercicio fiscal respectivo, y contendrá lo siguiente:
+
+a) La concentración que tienen los fondos en las diversas instituciones financieras o instrumentos que se analizaron;
+
+b) La liquidez con que cuentan los fondos;
+
+c) La calificación de riesgo que tienen los instrumentos de deuda;
+
+d) La figura jurídica que se utilizó para asignar la custodia de los fondos a las instituciones financieras que los tienen;
+
+e) Las comisiones que se cobran por el manejo de los fondos; y
+
+f) Los estudios actuariales realizados a la fecha de la autorización.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
+
+Los servidores públicos que por acción u omisión incumplan con lo dispuesto por el presente artículo, serán sancionados en términos de la Ley de Responsabilidades Administrativas del Estado de Nuevo León.
 
 ###### ARTÍCULO 97.
 
@@ -1065,7 +1089,7 @@ Si el segundo solicitante reúne los requisitos que esta Ley establece, se le co
 
 ###### ARTÍCULO 110.
 
-La esposa supérstite o la concubino, al igual que el esposo supérstite o el concubina, disfrutarán de por vida la pensión concedida por el Instituto, salvo cuando llegaren a contraer nuevas nupcias, vivan en concubinato, o engendren un hijo, en cuyo caso se cancelará la prestación económica. Esta situación no afectará los derechos adquiridos por los hijos, si los hubiere.
+La esposa supérstite o la concubina, al igual que el esposo supérstite o el concubino, disfrutarán de por vida la pensión concedida por el Instituto, salvo cuando llegaren a contraer nuevas nupcias, vivan en concubinato, o engendren un hijo, en cuyo caso se cancelará la prestación económica. Esta situación no afectará los derechos adquiridos por los hijos, si los hubiere.
 
 ###### ARTÍCULO 111.
 
@@ -2022,3 +2046,13 @@ P.O. 24 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 021. RELATIVO A LAS OBSERVACIONES PRESENTADAS AL DECRETO NÚM. 530 DE FECHA 19 DE JULIO DEL 2021 DE LA LXXV”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 389. SE ADICIONA UN CUARTO, QUINTO Y SEXTO PÁRRAFO AL ARTÍCULO 96 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León entregará el primer informe anual al que se hace referencia en el presente Decreto, durante el primer trimestre del año 2024, y en ejercicios fiscales subsecuentes correspondientes.
+
+TERCERO. La persona Titular del Poder Ejecutivo, contará con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
