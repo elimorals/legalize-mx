@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2022-10-19"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -190,6 +190,10 @@ XII. Toda persona tiene derecho a que se respete su integridad personal. El Esta
 > <small>(ADICIONADA, P.O. 8 DE JULIO DE 2022)</small>
 
 XIII. Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2023)</small>
+
+XIV. El desarrollo integral de las personas jóvenes, impulsando políticas públicas con un enfoque multidisciplinario, que propicien su inclusión en los ámbitos político, social, económico y cultural del Estado y sus municipios.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
 
@@ -4746,3 +4750,9 @@ P.O. 19 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 256 DEL H. CONGRESO DEL ESTADO.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 4 BIS 13, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN II Y LA FRACCIÓN III DEL ARTÍCULO 115; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 25; LAS FRACCIONES VIII Y IX Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 56, Y UNA FRACCIÓN IV AL ARTÍCULO 115, DISPOSICIONES TODAS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 497 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 4° BIS B DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
