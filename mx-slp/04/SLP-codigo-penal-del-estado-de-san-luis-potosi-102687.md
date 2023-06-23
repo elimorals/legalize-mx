@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2023-06-15"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -4431,41 +4431,29 @@ Igualmente comete el delito de abuso de autoridad con contenido patrimonial, el 
 
 El delito de abuso de autoridad se sancionará, con una pena de uno a cinco años de prisión, sanción pecuniaria de cien a quinientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, por el doble de la pena de prisión impuesta.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2023)</small>
+
 ### CAPÍTULO I. Delitos Contra el Consumo
 
 ###### ARTÍCULO 329.
 
-Comete el delito de tortura, el servidor público que con motivo de sus funciones, por sí o valiéndose de otro, intencionalmente ejerza violencia sobre una persona, ya sea para obtener información o que constituya una forma ilícita de investigación.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
-Este delito se sancionará con una pena de dos a diez años de prisión, sanción pecuniaria de doscientos a mil días del valor de la unidad de medida y actualización; inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por dos tantos del mismo tiempo de duración de la pena privativa de libertad impuesta; y la reparación del daño.
+(DEROGADO, P.O. 23 DE JUNIO DE 2023)
 
 ###### ARTÍCULO 330.
 
-No se consideran como tortura las molestias o afectaciones que sean consecuencia del ejercicio de atribuciones legítimas de autoridad o que sean inherentes o incidentales a las sanciones legales.
+(DEROGADO, P.O. 23 DE JUNIO DE 2023)
 
 ###### ARTÍCULO 331.
 
-No se considerarán como causas excluyentes de responsabilidad del delito de tortura, el que se invoquen o existan circunstancias excepcionales, como inestabilidad política interna, urgencia en las investigaciones o cualquier otra emergencia.
-
-No justifican la comisión del delito de tortura, la peligrosidad del detenido o sentenciado, ni la inseguridad del establecimiento carcelario o penitenciario.
-
-Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
+(DEROGADO, P.O. 23 DE JUNIO DE 2023)
 
 ###### ARTÍCULO 332.
 
-En el momento que lo solicite, cualquier detenido o sentenciado, deberá ser reconocido por un perito médico legista, y a falta de éste o, si lo requiere, además por un médico de su elección. El que haga el reconocimiento queda obligado a expedir de inmediato, el certificado correspondiente.
-
-La solicitud de reconocimiento médico puede formularla el detenido, el defensor o un tercero.
+(DEROGADO, P.O. 23 DE JUNIO DE 2023)
 
 ###### ARTÍCULO 333.
 
-Cualquier autoridad que conozca de un hecho de tortura está obligada a denunciarlo de inmediato.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 11 DE ABRIL DE 2017)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 11 DE ABRIL DE 2017)</small>
+(DEROGADO, P.O. 23 DE JUNIO DE 2023)
 
 ###### ARTÍCULO 334.
 
@@ -5628,5 +5616,13 @@ P.O. 15 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0772.- SE REFORMAN LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 218; Y ADICIONA LA FRACCIÓN XVIII AL MISMO ARTÍCULO 218, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0779.- SE DEROGA DE LA PARTE ESPECIAL DEL TÍTULO DÉCIMO SEXTO, EL CAPÍTULO VII Y LOS ARTÍCULOS 329, 330, 331, 332 Y 333, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
