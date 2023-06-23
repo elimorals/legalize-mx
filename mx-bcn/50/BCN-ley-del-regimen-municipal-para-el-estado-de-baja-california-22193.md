@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2021-11-02"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -609,25 +609,29 @@ En la sesión de Cabildo en la que deba de resolverse respecto de la solicitud d
 
 El Ayuntamiento llamará al suplente a ocupar el cargo vacante, hasta que el Congreso del Estado resuelva en definitiva la remoción solicitada. En caso de resultar improcedente la solicitud de remoción, el Munícipe de que se trate se reintegrará al Ayuntamiento correspondiente, debiendo restituírsele el goce de los derechos y prerrogativas que hubiere dejado de disfrutar durante el desarrollo del procedimiento.
 
-(NOTA 1: EL 18 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 204/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 158, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
 
-(NOTA 2: EL 10 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 212/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 158, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE OCTUBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### CAPÍTULO TERCERO. DE LAS AUSENCIAS DE LOS MUNICIPES
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2020)</small>
-
-### CAPÍTULO PRIMERO. DEL PROCEDIMIENTO ADMINISTRATIVO
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 42.
 
-De las ausencias de un Munícipe.- Las ausencias de un munícipe podrán ser temporales o definitivas. Serán ausencias temporales las que no sean mayores a 30 días naturales. Las ausencias temporales serán cubiertas por el suplente.
+Ante la ausencia de Munícipes, se observarán las bases siguientes:
 
-Las ausencias mayores a 30 días naturales serán resueltas en definitiva por el Congreso del Estado. Cuando por cualquier circunstancia el suplente no asumiera el cargo o no se presentara, el Gobernador del Estado enviará una terna de propuesta al Congreso del Estado.
+I. Las ausencias que no excedan de quince días, se harán del conocimiento del Ayuntamiento sin que se requiera acuerdo de Cabildo para autorizarlas. No será necesario suplirlas a menos que afecte la integración de Cabildo necesario para el quórum legal, en ese caso se llamará a la persona suplente para que cubra su ausencia.
+
+Tratándose de la presidenta o presidente municipal, las ausencias que no excedan de quince días deberán ser cubiertas por la regiduría que para tal efecto determine el cabildo. Si la ausencia es mayor a quince días, se estará a lo dispuesto en la fracción II del presente artículo.
+
+II. Las ausencias de las y los munícipes que excedan de quince días, requerirán de licencia para ausentarse del ejercicio de sus funciones y deberá contar con la autorización del Cabildo, el cual deberá pronunciarse y resolver sobre la misma en un plazo no mayor a 48 horas a partir de la solicitud, en el entendido que de no resolverse en dicho periodo se considerará autorizada por afirmativa ficta. El Cabildo resolverá tomando en cuenta las causas de justificación para ausentarse del cargo. Dicha ausencia deberá ser cubierta por su suplente.
+
+Para la reincorporación de la o el munícipe, bastará que presente escrito firmado dirigido a la Presidencia Municipal, señalando la fecha de su regreso al menos con 24 horas de anticipación a la fecha pretendida. La Presidencia Municipal deberá comunicar de inmediato al edil suplente en funciones, así como a las y los integrantes del Cabildo el escrito de regreso, ya sea por medio de comunicación oficial o bien, en sesión de Cabildo, lo que suceda primero.
+
+III. Serán consideradas causas de justificación de ausencias de los miembros del Ayuntamiento, el cumplimiento de comisiones de trabajo acordadas por el Cabildo, solicitud de licencias, incapacidad médica probada y causas de fuerza mayor calificadas por el Cabildo o reconocidas en su reglamentación interna.
 
 ## TÍTULO CUARTO. DEL PROCEDIMIENTO ADMINISTRATIVO Y MEDIOS DE DEFENSA
 
-### CAPÍTULO SEGUNDO. DE LOS MEDIOS DE DEFENSA
+### CAPÍTULO PRIMERO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### ARTÍCULO 43.
 
@@ -649,7 +653,7 @@ IV.- Sólo podrá negarse la información o el acceso a los expedientes, cuando 
 
 V.- Las actuaciones se verificarán en las oficinas de las dependencias o entidades competentes. En los casos en que la naturaleza de la diligencia así lo requiera y sea necesario o conveniente para agilizar el procedimiento, el desahogo de la diligencia podrá trasladarse a otro sitio, previa constancia debidamente fundada y motivada de esta circunstancia.
 
-### CAPÍTULO ÚNICO. DE LOS CONVENIOS MUNICIPALES
+### CAPÍTULO SEGUNDO. DE LOS MEDIOS DE DEFENSA
 
 ###### ARTÍCULO 45.
 
@@ -665,9 +669,7 @@ Procedimiento de Lesividad.- Los Municipios, por conducto de las dependencias qu
 
 ## TÍTULO QUINTO. DE LA ASOCIACIÓN CON FINES DE DERECHO PÚBLICO
 
-### CAPÍTULO PRIMERO. DEL COMISARIO SOCIAL HONORARIO
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+### CAPÍTULO ÚNICO. DE LOS CONVENIOS MUNICIPALES
 
 ###### ARTÍCULO 48.
 
@@ -727,7 +729,7 @@ Del Registro de Actuaciones Municipales.- Los Municipios deberán comunicar al E
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE SELECCION
+### CAPÍTULO PRIMERO. DEL COMISARIO SOCIAL HONORARIO
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
@@ -755,7 +757,7 @@ Los Comisarios Sociales Honorarios estarán sujetos al régimen de Responsabilid
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES, DERECHOS, OBLIGACIONES Y PROHIBICIONES
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE SELECCION
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
@@ -799,7 +801,7 @@ V (SIC).- Por fallecimiento.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
-### CAPÍTULO CUARTO. DEL CURSO DE CAPACITACION Y EL EXAMEN DE CONOCIMIENTOS
+### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES, DERECHOS, OBLIGACIONES Y PROHIBICIONES
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
@@ -862,6 +864,10 @@ IX.- Contribuir y participar en la difusión de los programas institucionales de
 X.- Las demás que establezca la presente Ley, los reglamentos y las normatividades técnicas aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO CUARTO. DEL CURSO DE CAPACITACION Y EL EXAMEN DE CONOCIMIENTOS
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 63.
 
@@ -1150,3 +1156,9 @@ P.O. 2 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 27 POR EL QUE SE REFORMA EL ARTÍCULO 24 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 243 MEDIANTE EL CUAL SE APRUEBA SE APRUEBA LA REFORMA AL ARTÍCULO 42, ASÍ COMO LA ADICIÓN DE UN CAPÍTULO TERCERO DENOMINADO “DE LAS AUSENCIAS DE LOS MUNICIPES” DENTRO DEL TÍTULO TERCERO DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
