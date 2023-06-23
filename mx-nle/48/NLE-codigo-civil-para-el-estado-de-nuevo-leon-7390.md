@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2023-03-10"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -1493,13 +1493,11 @@ El Oficial del Registro Civil, una vez que se le comunique la resolución firme 
 
 La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales.
 
-(NOTA: EL 19 DE FEBRERO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
 
 ###### Art. 140.
 
-Sólo pueden celebrar esponsales EL HOMBRE Y LA MUJER que han cumplido dieciocho años.
+Sólo pueden celebrar esponsales los hombres y mujeres que han cumplido dieciocho años.
 
 ###### Art. 141.
 
@@ -1533,15 +1531,11 @@ Si el matrimonio no se celebra, tienen derecho los prometidos de exigir la devol
 
 El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
 
-(NOTA: EL 19 DE FEBRERO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2018, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2019, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
 
 ###### Art. 147.
 
-El matrimonio es la unión legítima de UN SOLO HOMBRE Y UNA SOLA MUJER, para procurar su ayuda mutua, guardarse fidelidad, PERPETUAR LA ESPECIE y crear entre ellos una comunidad de vida permanente.
-
-Cualquiera condición contraria a estos fines se tendrá por no puesta.
+El matrimonio es la unión legitima de dos personas para guardarse fidelidad y crear entre ellos una comunidad de vida permanente y ayuda mutua.
 
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2023)</small>
 
@@ -1551,13 +1545,11 @@ Los cónyuges están obligados a contribuir en la misma proporción a los fines 
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos y/o hijas. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
 
-(NOTA: EL 19 DE FEBRERO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
 
 ###### Art. 148.
 
-Para contraer matrimonio, EL HOMBRE Y LA MUJER necesitan haber cumplido dieciocho años.
+Para contraer matrimonio, los hombres y las mujeres necesitan haber cumplido dieciocho años.
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2023)</small>
 
@@ -2405,17 +2397,15 @@ Tratándose de la violencia familiar a que se refiere el artículo 323 bis de es
 
 En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer matrimonio.
 
-(NOTA: EL 19 DE FEBRERO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2018, "SE DECLARA LA INVALIDEZ DE LOS ARTÍCULOS 140 Y 148, EN SENDAS PORCIONES NORMATIVAS "EL HOMBRE Y LA MUJER" DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN, REFORMADO MEDIANTE DECRETO NÚMERO 317, PUBLICADO EN LA SECCIÓN TERCERA DEL PERIÓDICO OFICIAL DE DICHA ENTIDAD EL OCHO DE ENERO DE DOS MIL DIECIOCHO Y, EN VÍA DE CONSECUENCIA, LA DEL ARTÍCULO 147, EN LAS PORCIONES NORMATIVAS "UN SOLO HOMBRE Y UNA SOLA MUJER" Y "PERPETUAR LA ESPECIE", DEL REFERIDO CÓDIGO CIVIL EN LA INTELIGENCIA DE QUE, EN LA INTERPRETACIÓN Y APLICACIÓN DE LAS PORCIONES NORMATIVAS "ENTRE UN SOLO HOMBRE Y UNA SOLA MUJER" Y "COMO MARIDO Y MUJER", CONTENIDAS EN DIVERSOS PRECEPTOS DEL CÓDIGO IMPUGNADO Y EN OTROS ORDENAMIENTOS DE LA PROPIA ENTIDAD FEDERATIVA VINCULADOS TANTO CON EL MATRIMONIO COMO CON EL CONCUBINATO (COMPRENDIDO EN EL CAPÍTULO XI, TITULO QUINTO, LIBRO PRIMER, DEL CÓDIGO CIVIL LOCAL), DEBERÁN ENTENDERSE QUE ESTAS INSTITUCIONES INVOLUCRAN A DOS PERSONAS DEL MISMO O DIFERENTE SEXO.", LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO XI. DEL CONCUBINATO
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
 
 ###### Art. 291 Bis.
 
-El concubinato es la unión de un hombre y una mujer, libres de matrimonio, que durante más de dos años hacen vida marital sin estar unidos en matrimonio entre si, siempre que no tengan impedimentos legales para contraerlo.
+El concubinato es la unión de dos personas, que durante más de dos años hacen vida marital sin estar unidos en matrimonio entre sí, siempre que no tengan impedimentos legales para contraerlo.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
@@ -17886,3 +17876,9 @@ P.O. 10 DE MARZO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO. La presente reforma aplicará para todas las demandas presentadas a partir de su entrada en vigor.
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 409. SE REFORMAN LOS ARTÍCULOS 140, 147, 148, 291 BIS, Y DEL CÓDIGO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
