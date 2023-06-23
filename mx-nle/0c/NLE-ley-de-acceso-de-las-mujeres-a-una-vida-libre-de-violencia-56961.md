@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2023-06-07"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -1737,7 +1737,9 @@ En los casos previstos en esta Ley, serán aplicables supletoriamente a esta Ley
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2022)</small>
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TAMAULIPAS
+### CAPÍTULO XI. DE LA MANUTENCIÓN
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
 
 ###### Artículo 57.
 
@@ -1861,6 +1863,38 @@ Al encontrar con vida a la mujer o niña desaparecida y/o ausente, por parte de 
 
 En el caso de la localización sin vida, se deberá investigar con base al protocolo de investigación ministerial, pericial y policial con perspectiva de género y derechos humanos del delito de feminicidio hasta descartar o confirmar el hecho.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO V
+
+DE LAS ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TAMAULIPAS
+
+###### Artículo 64.
+
+El Estado y los Municipios para el cumplimiento de los objetivos de esta Ley, mediante la formulación y ejecución de acciones específicas, deberán garantizar que al menos el 2 por ciento del total de la plantilla laboral de la administración pública sea destinada a la contratación de mujeres que hayan acreditado ante la autoridad jurisdiccional su situación de violencia.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
+
+###### Artículo 65.
+
+Para ser beneficiaria de los derechos del artículo anterior, se deberán satisfacer los siguientes requisitos:
+
+I. Estar registrada en el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las mujeres, descrito en la Fracción XX del Artículo 33 de esta Ley;
+
+II. No contar con un ingreso diario incluyendo cualquier pago por derechos alimentario, ni estar registrada o ser beneficiaria de un programa social público federal, local o municipal o de instituciones privadas;
+
+III. Cumplir con las asistencias de atenciones y actividades organizadas de conformidad con el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
+
+###### Artículo 66.
+
+En los casos que no se pueda alcanzar plena cobertura y existan solicitudes pendientes de atender, se atenderá a los siguientes criterios y en el orden en que se señalan:
+
+I. A quien represente el mayor grado de vulnerabilidad;
+
+II. Al índice de desarrollo más bajo según la zona en la que resida.
+
 T R A N S I T O R I O S
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -1928,96 +1962,6 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- La Procuraduría General de Justicia deberá emitir el protocolo de actuación para la investigación del delito de feminicidio, atendiendo a lo señalado en el presente Decreto.
 
 P.O. 1 DE ABRIL DE 2016.
-
-### CAPÍTULO V
-
-DE LAS ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TAMAULIPAS
-
-###### ARTÍCULO 64.
-
-El Departamento de Adopciones y Acogimiento Familiar, tendrá las atribuciones siguientes:
-
-I. Realizar investigaciones y estudios de los casos de niñas y niños susceptibles de adopción;
-
-II. Atender y orientar a interesados en llevar a cabo un proceso de adopción;
-
-III. Integrar los expedientes de solicitud de adopción, con los documentos establecidos como requisitos para el proceso;
-
-IV. Efectuar la evaluación médica y psicológica a los solicitantes de adopción;
-
-V. Realizar la visita domiciliaria pertinente a los solicitantes de adopción, para elaborar su estudio socioeconómico;
-
-VI. Elaborar el dictamen técnico de idoneidad para la adopción;
-
-VII. Expedir por parte del Consejo Técnico de Adopciones el certificado de idoneidad;
-
-VIII. Tramitar los juicios de pérdida de patria potestad para niñas, niños y adolescentes acogidos por instituciones de asistencia social; así como los juicios de adopción en todos aquellos casos que lo requieran;
-
-IX. Realizar la valoración médica y psicológica a las niñas, niños y adolescentes en condición de adoptabilidad, para conocer su condición física y mental;
-
-X. En coordinación con el Departamento Administrativo de Casa Hogar del Niño, efectuar el proceso de preparación psicológica a las niñas, niños y adolescentes que serán adoptados;
-
-XI. Diseñar e impartir los cursos de inducción para personas interesadas en el proceso de adopción y post-adoptivo a personas que ya ejercen una paternidad adoptiva;
-
-XII. Llevar a cabo la asesoría y preparación psicológica a los futuros padres adoptivos;
-
-XIII. Registrar, capacitar, evaluar y certificar a las familias que resulten idóneas para fungir como familias de acogida, considerando los requisitos señalados para el acogimiento familiar;
-
-XIV. Llevar a cabo el seguimiento a las niñas, niños y adolescentes otorgados en acogida familiar y adopción;
-
-XV. Diseñar y proponer el programa de capacitación y actualización anual para el personal adscrito al Departamento, con el propósito de dotarles de herramientas que coadyuven a la mejora continua de los servicios proporcionados;
-
-XVI. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
-
-XVII. Las demás que en el ámbito de su competencia le delegue la superioridad.
-
-###### ARTÍCULO 65.
-
-El Departamento de Supervisión a Centros Asistenciales, tendrá las atribuciones siguientes:
-
-I. Integrar debidamente el expediente de ingreso de niñas, niños y adolescentes, así como los archivos de los centros de asistencia social registrados en el estado y asegurar su resguardo;
-
-II. Dar continuidad al Sistema de Registro y Monitoreo Estatal, con la finalidad de tener una base de datos actualizada, de niñas, niños y adolescentes institucionalizados;
-
-III. Informar a la autoridad competente cuando tenga conocimiento que peligra la integridad física de alguna niña, niño o adolescente, estando bajo resguardo en algún Centro de Asistencia Social, a fin de iniciar protección oportuna e identificar la mejor solución;
-
-IV. Monitorear el seguimiento a los procesos de las niñas, niños y adolescentes que ingresen a un Centro de Asistencia Social bajo alguna medida de protección emitida por la autoridad correspondiente, manteniendo comunicación constante con el área jurídica de la Procuraduría de Protección de Niñas, Niños y Adolescentes;
-
-V. Mantener actualizado y dar seguimiento al Registro Nacional de Centros de Atención Infantil, así como el Registro Nacional de Centros de Asistencia Social;
-
-VI. Garantizar y fortalecer los servicios que proporciona el Departamento, proporcionando una atención integral a los usuarios;
-
-VII. Diseñar el programa de capacitación anual para la mejora continua de la operatividad del Departamento;
-
-VIII. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
-
-IX. Las demás que en el ámbito de su competencia le delegue la superioridad.
-
-###### ARTÍCULO 66.
-
-El Departamento de Atención a Migrantes, tendrá las atribuciones siguientes:
-
-I. Ejecutar acciones tendientes a la atención integral de las niñas, niños y adolescentes connacionales y extranjeros en situación de movilidad, acompañados y no acompañados;
-
-II. Vigilar que los centros asistenciales de atención integral de niñas, niños y adolescentes connacionales y extranjeros en situación de movilidad acompañados y no acompañados, ejecuten el nuevo modelo de atención integral para la niñez y adolescencia en situación de movilidad;
-
-III. Establecer a través de todos los medios posibles el interés superior de las niñas, niños y adolescentes migrantes acompañados o no acompañados;
-
-IV. Fungir como enlace con el Sistema DIF Nacional, en cuanto a la aplicación de los recursos asignados a los proyectos de fortalecimiento a los centros de atención a niñas, niños y adolescentes migrantes en Tamaulipas;
-
-V. Entablar una estrecha vinculación con las organizaciones no gubernamentales y asociaciones civiles en atención y beneficio de niñas, niños y adolescentes connacionales y extranjeros en situación de movilidad acompañados y no acompañados;
-
-VI. Recibir a las niñas, niños y adolescentes migrantes no acompañados que le sean permitidos por la estación migratoria;
-
-VII. Recibir a las familias migrantes puestas a disposición por la estación migratoria, donde se tiene la obligación de resguardar temporal (sic) tanto a migrantes menores de edad, como a sus familiares adultos acompañantes;
-
-VIII. Velar por que la estancia de las niñas, niños y adolescentes que se encuentren en los centros de atención, sea de calidad y por el menor tiempo posible;
-
-IX. Entablar estrecha comunicación con las autoridades migratorias;
-
-X. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
-
-XI. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 083. SE ADICIONA UNA FRACCIÓN II AL ARTÍCULO 40 DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NUEVO LEÓN”.]
 
@@ -2254,3 +2198,9 @@ P.O. 7 DE JUNIO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
 
 SEGUNDO.- Las Autoridades Estatales y Municipales sujetas al cumplimiento del presente Decreto, armonizaran sus reglamentos y normativa correspondiente en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 394. SE REFORMA POR ADICIÓN DEL CAPÍTULO XI DENOMINADO DE LA MANUTENCIÓN, QUE CONTIENE LOS ARTÍCULOS 64, 65 Y 66 A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
