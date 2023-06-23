@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-1090
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-10"
-last_updated: "2016-07-29"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 10 de julio de 2015.
 
@@ -375,7 +375,9 @@ Bajo ninguna circunstancia se le negará al Presidente o a los Visitadores Gener
 
 En el caso de que los quejosos se encuentren privados de su libertad, o se ignore su paradero, los hechos podrán ser denunciados por sus familiares o cualquier otra persona que conozca de ellos, incluyendo a los menores de edad.
 
-Las organizaciones no gubernamentales legalmente constituidas podrán acudir ante la Comisión para denunciar las violaciones de derechos humanos respecto de las personas que por sus condiciones físicas, mentales, económicas y culturales, no tengan la capacidad efectiva de presentar quejas de manera directa.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
+
+Las organizaciones de la sociedad civil, las organizaciones no gubernamentales y en general, la sociedad civil organizada, que se encuentren legalmente constituidas, podrán acudir ante la Comisión para denunciar las violaciones de derechos humanos respecto de las personas que por sus condiciones físicas, mentales, económicas y culturales, no tengan la capacidad efectiva de presentar quejas de manera directa.
 
 ###### Artículo 27.
 
@@ -708,3 +710,9 @@ P.O. 29 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 523 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 26 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 245 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 26 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
