@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2023-02-09"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -83,7 +83,9 @@ II. Area natural protegida: aquellas zonas del territorio estatal sobre las que 
 
 III. Atlas turístico: es el registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos nacionales, sitios de interés y, en general, todas aquellas zonas y áreas territoriales del desarrollo del turismo;
 
-IV. Consejo consultivo estatal: el Consejo integrado por representantes de los prestadores de los servicios turísticos y las dependencias involucradas en el sector turístico;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2023)</small>
+
+IV. Consejo consultivo estatal: el Consejo integrado por representantes de los prestadores de los servicios turísticos; las dependencias involucradas en el sector turístico; la Comisión de Fomento al Turismo del Congreso del Estado a través de su presidencia y las demás dependencias y entidades federales y municipales que determine esta ley y las que el Consejo acuerde;
 
 V. Consejos consultivos regionales municipales: son aquéllos que estarán integrados por uno o varios municipios del Estado de San Luis Potosí;
 
@@ -397,11 +399,15 @@ XVIII. Establecer y celebrar anualmente la semana de turismo municipal, en la cu
 
 XIX. Llevar a cabo por sí mismos o en coordinación con municipios vecinos, la creación de rutas turísticas a fin de impulsar y desarrollar actividades económicas que los posicione como una zona reconocida por sus características particulares, cualesquiera que éstas sean. En los municipios donde exista presencia de comunidades indígenas, será necesario la promoción del respeto y protección de sus conceptos culturales de naturaleza y cosmovisión, en apego a lo que establece la fracción anterior;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2023)</small>
 
-XX. Contar con policía turística los ayuntamientos en el Estado que así lo requieran, y
+XX. Contar con policía turística los ayuntamientos en el Estado que así lo requieran;
 
-XXI. Las demás que esta Ley y otros ordenamientos le señalen.
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2023)</small>
+
+XXI. Difundir y promover en su página web institucional, las fiestas tradicionales, eventos culturales, espectáculos, gastronomía, ferias, y demás eventos realizados en su demarcación, que constituyan atractivos turísticos. Se incluirán eventos realizados tanto por el sector público como por el privado, debiendo en este último caso, así como cuando se trate de instituciones de otros órdenes de gobierno, integrarlos por solicitud de quien los promueve, y
+
+XXII. Las demás que esta Ley y otros ordenamientos le señalen.
 
 ###### ARTICULO 10.
 
@@ -1009,7 +1015,9 @@ o) El Delegado de la Comisión Nacional para el Desarrollo de los Pueblos Indíg
 
 p) El Delegado de la Comisión Nacional del Agua.
 
-q) El Delegado de la Secretaría de Desarrollo Social.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
+
+q) El Delegado de la Secretaría de Bienestar.
 
 r) El Delegado de la Financiera Rural.
 
@@ -1024,6 +1032,14 @@ t) El representante de la Comisión Estatal de Protección Contra Riesgos Sanita
 II. Un secretario técnico, que será el Secretario de Desarrollo Económico, quien asistirá a las sesiones del Consejo, con voz y voto;
 
 III. El director general o su equivalente del área de la Secretaría, según el tema que se trate en la sesión;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2023)</small>
+
+IV. La Comisión de Fomento al Turismo del Congreso del Estado, a través de quien la presida, y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2023)</small>
+
+V. Las demás dependencias y entidades federales y municipales que el Consejo acuerde.
 
 Los cargos de este Consejo serán honoríficos, por lo que las personas que los desempeñen no devengarán compensación alguna.
 
@@ -1396,5 +1412,21 @@ P.O. 9 DE FEBRERO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0683.- SE REFORMA EL ARTÍCULO 67 EN SU FRACCIÓN XVII Y ADICIONA AL MISMO ARTÍCULO 67 UNA FRACCIÓN, ESTA COMO XVIII, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0776.- SE REFORMA EL ARTÍCULO 9° EN SU FRACCIÓN XX; Y ADICIONA AL MISMO ARTÍCULO 9° UNA FRACCIÓN, ÉSTA COMO FRACCIÓN XXI, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis ”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0777.- SE REFORMAN LOS ARTÍCULOS 4° EN SU FRACCIÓN IV, 85 EN SU FRACCIÓN I EL INCISO Q); Y ADICIONA AL ARTÍCULO 85 LAS FRACCIONES IV Y V, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
