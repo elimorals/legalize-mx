@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2023-05-26"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -1537,7 +1537,9 @@ XXI. Otorgar revalidaciones o equivalencias sin observar las disposiciones aplic
 
 XXII. Retener documentos personales y académicos por falta de pago;
 
-XXIII. Condicionar la prestación del servicio público de educación a la adquisición de uniformes y materiales educativos, así como de actividades extraescolares;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2023)</small>
+
+XXIII. Condicionar la prestación del servicio público de educación a la adquisición de uniformes, materiales educativos, útiles escolares nuevos o de marcas específicas o que deban adquirirse en algún sitio exclusivo, así como de actividades extraescolares;
 
 XXIV. Omitir dar a conocer por escrito a las personas usuarias de los servicios educativos, previamente a la inscripción para cada ciclo escolar, el costo total de la colegiatura o cualquier otra contraprestación;
 
@@ -1750,3 +1752,9 @@ P.O. 26 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 234 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 88 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 239 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 126 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
