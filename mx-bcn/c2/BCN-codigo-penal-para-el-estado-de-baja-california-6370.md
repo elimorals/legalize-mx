@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2023-06-09"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -4823,7 +4823,7 @@ Pérdidas de beneficios.- Al imputado que se fugue estando bajo alguna de las sa
 
 ### CAPITULO II. MALTRATO O CRUELDAD ANIMAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2023)</small>
 
 ###### Artículo 334.
 
@@ -4997,7 +4997,7 @@ Cuando las conductas a que se refiere este artículo e (sic) lleven a cabo por l
 
 ###### Artículo 342.
 
-Al que intencionalmente realice algún acto de maltrato o crueldad en contra de un animal, se le impondrá de tres meses a dos años de prisión y multa de cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
+Al que intencionalmente realice algún acto de maltrato o crueldad en contra de un animal, se le impondrá de tres meses a dos años de prisión y multa de hasta doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 31 DE OCTUBRE DE 2014)</small>
 
@@ -5022,6 +5022,10 @@ Cuando el acto de maltrato o crueldad animal sea realizado por médico veterinar
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2014)</small>
 
 Cuando las lesiones o la muerte del animal se cause con la finalidad de evitar un mal igual o mayor a una persona o animal, no se aplicará sanción alguna siempre y cuando se justifique el hecho en la necesidad de salvaguardar la integridad de la persona o el animal en peligro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JUNIO DE 2023)</small>
+
+Las penas previstas en el primer párrafo de este artículo se aumentarán hasta en una mitad más cuando alguno de los actos de maltrato o crueldad animal a que se refiere este artículo, se realice en contra de animales de asistencia a personas con discapacidad o animales asignados para la realización de funciones de las instituciones de seguridad, policiales, protección civil o bomberos.
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
 
@@ -6439,11 +6443,15 @@ P.O. 9 DE JUNIO DE 2023.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1120 POR EL QUE SE ADICIONA EL ARTÍCULO 56 QUATER DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+P.O. 23 DE JUNIO DE 2023.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 244 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 342, TODO RESPECTO AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
-P.O. 19 DE AGOSTO DE 2024.
+PRIMERO.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor de las presentes reformas se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+TERCERO.- A las personas que hayan cometido un delito de los contemplados en las presentes reformas con anterioridad a su entrada en vigor, incluidas las procesadas o sentencias, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1123 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
