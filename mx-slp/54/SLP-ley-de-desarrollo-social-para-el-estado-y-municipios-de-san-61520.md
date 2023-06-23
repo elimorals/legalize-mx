@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2022-09-09"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -225,31 +225,35 @@ g) Secretaría de Cultura.
 
 h) Secretaría de Turismo.
 
-i) Sistema para el Desarrollo Integral de la Familia del Estado.
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
 
-j) La Comisión Estatal del Agua.
+i) Secretaría de Comunicaciones y Transportes.
+
+j) Sistema para el Desarrollo Integral de la Familia del Estado.
+
+k) La Comisión Estatal del Agua.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2015)</small>
 
-k) El Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades indígenas en el Estado de San Luis Potosí.
+l) El Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades indígenas en el Estado de San Luis Potosí.
 
-I) El Instituto de la Vivienda del Estado.
-
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2019)</small>
-
-m) El Instituto de las Mujeres del Estado.
+m) El Instituto de la Vivienda del Estado.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2019)</small>
 
-n) El Instituto Potosino de la Juventud.
+n) El Instituto de las Mujeres del Estado.
 
-ñ) La Junta Estatal de Caminos.
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2019)</small>
+
+ñ) El Instituto Potosino de la Juventud.
+
+o) La Junta Estatal de Caminos.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2020)</small>
 
-o) Quienes presidan, la Comisión de Desarrollo Económico y Social; y el Comité de Reforma para la Competitividad y Desarrollo Sustentable, entes pertenecientes al Congreso del Estado.
+p) Quienes presidan, la Comisión de Desarrollo Económico y Social; y el Comité de Reforma para la Competitividad y Desarrollo Sustentable, entes pertenecientes al Congreso del Estado.
 
-p) Los secretarios del Ramo y titulares de las entidades de la administración pública del Estado, que acuerde el Presidente del Sistema.
+q) Los secretarios del Ramo y titulares de las entidades de la administración pública del Estado, que acuerde el Presidente del Sistema.
 
 Los titulares que formen parte del Sistema Estatal, podrán nombrar representantes para participar en las comisiones de trabajo que se formen.
 
@@ -439,9 +443,15 @@ IV. La vivienda;
 
 V. El disfrute de un medio ambiente sano;
 
-VI. El trabajo y la seguridad social, y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2023)</small>
 
-VII. Los relativos a la no discriminación.
+VI. El trabajo y la seguridad social;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2023)</small>
+
+VII. El acceso gratuito al transporte público a estudiantes, y
+
+VIII. Los relativos a la no discriminación.
 
 ###### ARTICULO 18.
 
@@ -962,6 +972,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0383.- SE DEROGA DEL ARTÍCULO 6, LAS FRACCIONES XV Y XIX, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0778.- SE REFORMA EL ARTÍCULO 17 EN SU FRACCIÓN VI; Y ADICIONA A LOS ARTÍCULOS 8 EN SU FRACCIÓN III EL INCISO I) Y 17 LA FRACCIÓN VII, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
