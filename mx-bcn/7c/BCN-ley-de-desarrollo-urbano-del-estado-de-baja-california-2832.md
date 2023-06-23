@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2023-02-17"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -2079,7 +2079,9 @@ III. La apertura de vialidades y sus elementos complementarios como andadores pe
 
 IV. La previsión y ubicación de las áreas dedicadas a Equipamiento Urbano;
 
-V. Los componentes del paisaje urbano, como arboledas, jardines, mobiliario urbano y señalización.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2023)</small>
+
+V. Los componentes del paisaje urbano o en sus áreas de equipamiento urbano tales como áreas verdes, arboledas, jardines, mobiliario urbano y señalización, implementando conforme a los planes y programas de desarrollo urbano correspondientes, la incorporación de infraestructura verde.
 
 VI. La modificación de la naturaleza o topografía de un predio, para su utilización, para la intensificación o modificación de su uso.
 
@@ -3232,3 +3234,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Una vez entrado en vigor el presente decreto los Ayuntamientos del Estado contarán con 45 días hábiles para modificar y adecuar la reglamentación correspondiente.
 
 TERCERO. Los fraccionamientos, en la modalidad de acceso controlado, que existan desde antes de la entrada en vigor del presente decreto, tendrán un plazo de 180 días hábiles posteriores a la expedición de la reglamentación a que refiere el artículo transitorio anterior para cumplir con el presente Decreto.
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 240 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN V DEL ARTÍCULO 147 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
