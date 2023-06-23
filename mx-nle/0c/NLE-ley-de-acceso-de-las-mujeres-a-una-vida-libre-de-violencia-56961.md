@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2023-06-07"
+last_updated: "2023-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -1737,6 +1737,10 @@ En los casos previstos en esta Ley, serán aplicables supletoriamente a esta Ley
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2022)</small>
 
+### CAPÍTULO XI. DE LA MANUTENCIÓN
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
+
 ###### Artículo 57.
 
 El Protocolo Alba es el mecanismo institucional que permite la coordinación de esfuerzos de los tres órdenes de gobierno comprometidos en la promoción y ejecución de actividades conducentes para la localización de mujeres y niñas con reporte de extravío.
@@ -1858,6 +1862,34 @@ Al encontrar con vida a la mujer o niña desaparecida y/o ausente, por parte de 
 ###### Artículo 63.
 
 En el caso de la localización sin vida, se deberá investigar con base al protocolo de investigación ministerial, pericial y policial con perspectiva de género y derechos humanos del delito de feminicidio hasta descartar o confirmar el hecho.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2023)</small>
+
+###### Artículo 64.
+
+El Estado y los Municipios para el cumplimiento de los objetivos de esta Ley, mediante la formulación y ejecución de acciones específicas, deberán garantizar que al menos el 2 por ciento del total de la plantilla laboral de la administración pública sea destinada a la contratación de mujeres que hayan acreditado ante la autoridad jurisdiccional su situación de violencia.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
+
+###### Artículo 65.
+
+Para ser beneficiaria de los derechos del artículo anterior, se deberán satisfacer los siguientes requisitos:
+
+I. Estar registrada en el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las mujeres, descrito en la Fracción XX del Artículo 33 de esta Ley;
+
+II. No contar con un ingreso diario incluyendo cualquier pago por derechos alimentario, ni estar registrada o ser beneficiaria de un programa social público federal, local o municipal o de instituciones privadas;
+
+III. Cumplir con las asistencias de atenciones y actividades organizadas de conformidad con el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
+
+###### Artículo 66.
+
+En los casos que no se pueda alcanzar plena cobertura y existan solicitudes pendientes de atender, se atenderá a los siguientes criterios y en el orden en que se señalan:
+
+I. A quien represente el mayor grado de vulnerabilidad;
+
+II. Al índice de desarrollo más bajo según la zona en la que resida.
 
 T R A N S I T O R I O S
 
@@ -2162,3 +2194,9 @@ P.O. 7 DE JUNIO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
 
 SEGUNDO.- Las Autoridades Estatales y Municipales sujetas al cumplimiento del presente Decreto, armonizaran sus reglamentos y normativa correspondiente en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 394. SE REFORMA POR ADICIÓN DEL CAPÍTULO XI DENOMINADO DE LA MANUTENCIÓN, QUE CONTIENE LOS ARTÍCULOS 64, 65 Y 66 A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
