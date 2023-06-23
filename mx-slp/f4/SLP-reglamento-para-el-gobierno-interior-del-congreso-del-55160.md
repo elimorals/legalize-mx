@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2023-05-15"
+last_updated: "2023-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1743,23 +1743,21 @@ Asimismo, para la elaboración de los dictámenes que corresponda, las comisione
 
 ### CAPITULO III. DE LOS GRUPOS Y REPRESENTACIONES PARLAMENTARIAS
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
 
 ###### ARTICULO 161.
 
-De conformidad con el artículo 60 de la Ley Orgánica, un grupo parlamentario se tendrá por legalmente constituido cuando el partido político al que pertenezca entregue a la Directiva, el oficio en el que haga constar el nombre de sus integrantes. Los diputados que lo formen deberán informar a la Directiva el nombre de quién haya sido elegido como Coordinador del Grupo Parlamentario.
+De conformidad con el artículo 60 de la Ley Orgánica, un grupo parlamentario se tendrá por legalmente constituido cuando el partido político al que pertenezca entregue a la Directiva, el oficio en el que haga constar el nombre de sus integrantes. Las diputadas y los diputados que lo integren deberán informar a la Directiva el nombre de quién haya sido elegido como Coordinador o Coordinadora del Grupo Parlamentario.
 
-Para el caso de que los miembros del grupo parlamentario no llegaren a un acuerdo, se tomará en cuenta para ser Coordinador los criterios de preferencia, en el siguiente orden:
+Para el caso de que las o los integrantes del grupo parlamentario no llegaren a un acuerdo, se tomará en cuenta para ser Coordinador o Coordinadora, los criterios de preferencia, en el siguiente orden:
 
-1) Aquel que hubiere sido nombrado diputado bajo el principio de mayoría relativa;
+I. La diputada o diputado que hubiere sido electo bajo el principio de mayoría relativa;
 
-2) Aquel que hubiere obtenido mayor número de votos en la elección en que fue electo, y
+II. La diputada o diputado que hubiere obtenido mayor número de votos en la elección en que fue electo, y
 
-3) Aquel que tuviere mayor antigüedad en el partido político de que se trate.
+III. La diputada o diputado que tuviere mayor antigüedad en el partido político de que se trate.
 
-Los coordinadores parlamentarios durarán en su encargo un año de ejercicio legal, pudiendo ser reelectos, con excepción de los grupos parlamentarios integrados por un solo diputado, quienes durarán en su encargo el tiempo del ejercicio constitucional para el cual fue electo.
-
-Para el caso de que un diputado se declare independiente, esté quedará impedido para integrar la Junta de Coordinación Política, de conformidad con lo establecido por la Ley Orgánica del Poder Legislativo del Estado.
+Las o los coordinadores parlamentarios duraran en su encargo un año de ejercicio legal, pudiendo ser reelectos.
 
 ###### ARTICULO 162.
 
@@ -3194,3 +3192,11 @@ P.O. 15 DE MAYO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0775.- SE REFORMAN LOS ARTÍCULOS 55, 58 Y 80 EN SU PÁRRAFO PRIMERO Y SU FRACCIÓN I, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO. SE REFORMA EL ARTÍCULO 161, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto
