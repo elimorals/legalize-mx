@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2023-05-02"
+last_updated: "2023-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -679,15 +679,15 @@ Los diputados gozarán del fuero que les reconoce la Constitución; y serán inv
 
 ### Capítulo II. De los Grupos Parlamentarios
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
+
 ###### ARTICULO 55.
 
-Cada Grupo Parlamentario se integrará con todos los diputados electos de un mismo partido político representado en el Congreso.
+Cada Grupo Parlamentario se integrará con las y los diputados que fueron postulados y electos por un mismo partido político representado en el Congreso.
 
-En los casos en que un partido esté representado por un solo diputado, para efectos de esta Ley se entenderá que integra una Representación Parlamentaria.
+En los casos en que un partido esté representado por una o un solo diputado, para efectos de esta Ley se entenderá que integra una Representación Parlamentaria.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
-
-Cada Grupo, o Representación Parlamentaria, deberá entregar su agenda legislativa a la Directiva, a más tardar el quince de octubre del año en que se instale la Legislatura correspondiente, pudiendo actualizar la misma las veces que se considere pertinente.
+Cada Grupo, o Representación Parlamentaria, deberá entregar su agenda legislativa a la Directiva, a más tardar el quince de octubre del año en que se instale la Legislatura correspondiente; la cual se podrá actualizar las veces que se considere pertinente.
 
 ###### ARTICULO 56.
 
@@ -705,9 +705,11 @@ En caso de renuncia a un grupo parlamentario, las y los legisladores no se incor
 
 Se consideran diputados o diputadas independientes aquellos que se registraron y participaron en el proceso electoral de manera independiente a los partidos políticos.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
+
 ###### ARTICULO 58.
 
-La separación de un diputado de su grupo parlamentario, incidirá en el voto ponderado que corresponde a aquél en la Junta.
+En caso de renuncia a un Grupo o a una Representación Parlamentaria, el voto ponderado en la Junta permanecerá igual que en el momento de su constitución, durante todo el periodo de la Legislatura; observando lo dispuesto en el artículo 80 de esta Ley.
 
 ###### ARTICULO 59.
 
@@ -967,15 +969,19 @@ Durante los tres semestres que le corresponda a la primera minoría presidir la 
 
 Las vocalías serán ocupadas en todos los casos por los demás integrantes de la Junta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2023)</small>
+
 ###### ARTICULO 80.
 
-Son reglas para la funcionalidad de la Junta de Coordinación Política:
+Son reglas para la funcionalidad de la Junta:
 
-I. Los integrantes de esta Junta tendrán derecho de voz y voto ponderado.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2023)</small>
 
-El voto ponderado de cada integrante de esta Junta será el resultado de dividir la cantidad de diputados del grupo parlamentario del cual forma parte, entre el número total de diputados que integran la Legislatura. El voto ponderado de cada grupo parlamentario será ejercido por conducto de su coordinador.
+I. Sus integrantes tendrán derecho de voz y voto ponderado.
 
-Un grupo parlamentario podrá sustituir a su representante ante la Junta de Coordinación Política, en el caso de que por cualquier causa éste dejare de pertenecer al mismo;
+El voto ponderado de cada partido que integre la Junta será el resultado de dividir la cantidad de diputadas y diputados del grupo parlamentario constituido al inicio de cada Legislatura, entre el número total de las y los integrantes de la misma. El voto ponderado de cada Grupo y Representación Parlamentaria será ejercido por conducto de su coordinador o representante.
+
+Un Grupo Parlamentario podrá sustituir a su representante ante la Junta, en el caso de que por cualquier causa la o el diputado dejare de pertenecer al mismo;
 
 II. Para que la sesión pueda celebrarse se requerirá la asistencia de los integrantes de esta Junta, cuyo voto ponderado represente más del cincuenta por ciento de los diputados que componen la Legislatura, y
 
@@ -3230,6 +3236,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0745.- SE REFORMA EL ARTÍCULO 57, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0775.- SE REFORMAN LOS ARTÍCULOS 55, 58 Y 80 EN SU PÁRRAFO PRIMERO Y SU FRACCIÓN I, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO. SE REFORMA EL ARTÍCULO 161, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
