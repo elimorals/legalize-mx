@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-archivos-para-el-estado-de-oaxaca-142166"
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-15"
-last_updated: "2023-05-22"
+last_updated: "2023-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2023 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE JUNIO DE 2023.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 15 de febrero de 2020.
 
@@ -1171,43 +1171,89 @@ XVI. Establecer mecanismos de cooperación y asesoría con otras instituciones g
 
 XVII. Publicar y distribuir obras y colecciones para apoyar el conocimiento de su acervo, así como para promover la cultura archivística, de consulta y aprovechamiento del patrimonio documental del Estado;
 
-XVIII. Diseñar e implementar programas de capacitación en materia de archivos; XIX (SIC). Promover la incorporación de la materia archivística en programas educativos de diversos niveles académicos;
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
 
-XIX. Definir el procedimiento para el acceso a los documentos contenidos en sus archivos históricos;
+XVIII. Diseñar e implementar programas de capacitación en materia de archivos;
 
-XX. Custodiar el patrimonio documental del Estado de su acervo;
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
 
-XXI. Realizar la declaratoria de patrimonio documental del Estado; XXIII (SIC) Realizar la declaratoria de interés público respecto de documentos o archivos privados;
+XIX. Promover la incorporación de la materia archivística en programas educativos de diversos niveles académicos;
 
-XXII. Otorgar las autorizaciones para la salida del Estado de documentos considerados patrimonio documental del Estado;
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
 
-XXIII. Coadyuvar con las autoridades competentes, en la recuperación y, en su caso, incorporación a sus acervos de archivos que tengan valor histórico;
+XX. Definir el procedimiento para el acceso a los documentos contenidos en sus archivos históricos;
 
-XXIV. Expedir copias certificadas, transcripciones paleográficas y dictámenes de autenticidad de los documentos existentes en sus acervos;
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
 
-XXV. Determinar los procedimientos para proporcionar servicios archivísticos al público usuario;
+XXI. Custodiar el patrimonio documental del Estado de su acervo;
 
-XXVI. Brindar asesoría técnica sobre gestión documental y administración de archivos;
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
 
-XXVII. Proponer y Coadyuvar con el Archivo General de la Nación en la elaboración de Normas Oficiales Mexicanas en materia de archivos o vinculadas a la misma;
+XXII. Realizar la declaratoria de patrimonio documental del Estado;
 
-XXVIII. Fomentar el desarrollo profesional de archivólogos, archivónomos y archivistas, a través de convenios de colaboración o concertación con autoridades e instituciones educativas públicas o privadas, estatales, nacionales o extranjeras;
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
 
-XXIX. Proporcionar los servicios complementarios que determinen las disposiciones reglamentarias y demás disposiciones jurídicas aplicables;
+XXIII. Realizar la declaratoria de interés público respecto de documentos o archivos privados;
 
-XXX. Suscribir convenios en materia archivística en el ámbito Estatal nacional e internacional, en coordinación con las autoridades competentes en la materia;
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
 
-XXXI. Coordinar acciones con las instancias competentes a fin de prevenir y combatir el tráfico ilícito del patrimonio documental del Estado;
+XXIV. Otorgar las autorizaciones para la salida del Estado de documentos considerados patrimonio documental del Estado;
 
-XXXII. Organizar y participar en eventos estatales, nacionales e internacionales en la materia;
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
 
-XXXIII. Generar exposiciones, visitas guiadas y publicaciones para generar el conocimiento de su acervo, así como, para promover la cultura archivística de consulta y aprovechamiento del patrimonio documental;
+XXV. Coadyuvar con las autoridades competentes, en la recuperación y, en su caso, incorporación a sus acervos de archivos que tengan valor histórico;
 
-XXXIV. Concentrar las ediciones impresas del Periódico del Periódico (sic) Oficial del Gobierno del Estado.
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
 
-XXXV. Proponer a la secretaria de Finanzas las cuotas para los servicios que preste; y
+XXVI. Expedir copias certificadas, transcripciones paleográficas y dictámenes de autenticidad de los documentos existentes en sus acervos;
 
-XXXVI. Las demás establecidas en esta Ley y en otras disposiciones jurídicas aplicables.
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
+
+XXVII. Determinar los procedimientos para proporcionar servicios archivísticos al público usuario;
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
+
+XXVIII. Brindar asesoría técnica sobre gestión documental y administración de archivos;
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
+
+XXIX. Proponer y Coadyuvar con el Archivo General de la Nación en la elaboración de Normas Oficiales Mexicanas en materia de archivos o vinculadas a la misma;
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
+
+XXX. Fomentar el desarrollo profesional de archivólogos, archivónomos y archivistas, a través de convenios de colaboración o concertación con autoridades e instituciones educativas públicas o privadas, estatales, nacionales o extranjeras;
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
+
+XXXI. Proporcionar los servicios complementarios que determinen las disposiciones reglamentarias y demás disposiciones jurídicas aplicables;
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
+
+XXXII. Suscribir convenios en materia archivística en el ámbito Estatal nacional e internacional, en coordinación con las autoridades competentes en la materia;
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
+
+XXXIII. Coordinar acciones con las instancias competentes a fin de prevenir y combatir el tráfico ilícito del patrimonio documental del Estado;
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
+
+XXXIV. Organizar y participar en eventos estatales, nacionales e internacionales en la materia;
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
+
+XXXV. Generar exposiciones, visitas guiadas y publicaciones para generar el conocimiento de su acervo, así como, para promover la cultura archivística de consulta y aprovechamiento del patrimonio documental;
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
+
+XXXVI. Concentrar las ediciones impresas del Periódico del Periódico (sic) Oficial del Gobierno del Estado.
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
+
+XXXVII. Proponer a la secretaria de Finanzas las cuotas para los servicios que preste; y
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2023)</small>
+
+XXXVIII. Las demás establecidas en esta Ley y en otras disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
 
