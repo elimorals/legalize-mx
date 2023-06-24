@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-y-apoyo-a-migrantes-y-sus-familias-para-11577
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-23"
-last_updated: "2022-02-02"
+last_updated: "2023-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE PROTECCION Y APOYO A MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE CHIHUAHUA (ANTES: LEY DE PROTECCION Y APOYO A MIGRANTES PARA EL ESTADO DE CHIHUAHUA)
 
-LEY DE PROTECCIÓN Y APOYO A MIGRANTES PARA EL ESTADO DE CHIHUAHUA
+LEY DE PROTECCIÓN Y APOYO A MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de julio de 2016.
 
@@ -41,33 +41,45 @@ LA SEXAGÉSIMA CUARTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA
 
 DECRETA
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO ÚNICO.
 
-Se expide la Ley de Protección y Apoyo a Migrantes para el Estado de Chihuahua, para quedar redactada de la siguiente manera:
+Se expide la Ley de Protección y Apoyo a Migrantes y sus Familias para el Estado de Chihuahua, para quedar redactada de la siguiente forma:
 
-LEY DE PROTECCIÓN Y APOYO A MIGRANTES PARA EL ESTADO DE CHIHUAHUA
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JUNIO DE 2023)</small>
+
+LEY DE PROTECCIÓN Y APOYO A MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE CHIHUAHUA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2023)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, y tiene como objeto proteger y apoyar a los migrantes que se encuentren o transiten por el territorio estatal.
+La presente Ley es de orden público e interés social, y tiene como objeto proteger y apoyar a personas migrantes y sus familias que se encuentren o transiten por el territorio estatal, prohibiendo cualquier forma de presión sobre estas para la renuncia de sus derechos, y sin que se les pueda restringir o limitar de modo alguno.
 
 ###### Artículo 2.
 
 Son objetivos de esta Ley:
 
-I.- Definir las atribuciones y obligaciones de las autoridades estatales y municipales en materia de atención y apoyo a migrantes.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
+
+I.- Definir las atribuciones y obligaciones de las autoridades estatales y municipales en materia de atención y apoyo a migrantes y sus familias, mismas que se entenderán como ascendientes, descendientes, cónyuge o análogos en los términos de la legislación aplicable, que se encuentren físicamente en el mismo lugar en calidad de migrantes.
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2022)</small>
 
 II.- Establecer políticas públicas en materia de atención y apoyo a migrantes, con especial atención en las personas o grupos en situación de vulnerabilidad.
 
-III.- Promover el respeto de los derechos humanos de los migrantes, sin distinción de sexo, raza, color, idioma, religión, ideología, condición social, lugar de origen, nacionalidad, edad, estado civil o cualquier otra condición.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
+
+III.- Promover el respeto de los derechos humanos de migrantes y sus familias, sin distinción de sexo, raza, color, idioma, religión, ideología, condición social, lugar de origen, nacionalidad, edad, estado civil o cualquier otra condición, con independencia de su situación jurídica migratoria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2023)</small>
 
 ###### Artículo 3.
 
-Son sujetos de esta Ley, los migrantes definidos como tales en el artículo 6 de la misma, y tendrán los siguientes derechos y obligaciones:
+El Estado reconocerá, promoverá y garantizará a migrantes y sus familias, el ejercicio pleno de sus derechos de conformidad con lo estipulado por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Chihuahua, por los instrumentos internacionales que en la materia México sea parte; así como de conformidad con otras disposiciones jurídicas aplicables, entre las que se encuentran los siguientes derechos y obligaciones:
 
 I.- Recibir información respecto de los programas de atención a migrantes y de los requisitos necesarios para ser beneficiarios de los mismos.
 
@@ -85,9 +97,11 @@ VI.- Mantenerse al margen de cualquier condicionamiento de tipo político partid
 
 VII. En el caso de niñas, niños y adolescentes migrantes, se velará y cumplirá con el principio superior de la niñez, garantizando de manera plena sus derechos, atendiendo al contenido de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chihuahua, incluyendo el de la no privación de la libertad por motivos migratorios.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2023)</small>
+
 ###### Artículo 4.
 
-Queda prohibida toda práctica discriminatoria en el otorgamiento y prestación de bienes y servicios derivados de las políticas, programas y acciones de atención a migrantes. En todo caso, tratándose de menores, se actuará con base en el interés superior del niño y la niña.
+Queda prohibida toda práctica discriminatoria en el otorgamiento y prestación de bienes y servicios derivados de las políticas, programas y acciones de atención a migrantes y sus familias. En todo caso, tratándose de niñas, niños y adolescentes, se actuará con base en su interés superior.
 
 ###### Artículo 5.
 
@@ -97,11 +111,15 @@ La aplicación e interpretación de la presente Ley, corresponde a la Secretarí
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Consejo.- El Consejo Estatal de Protección y Atención a Migrantes.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
+
+I.- Consejo.- El Consejo Estatal de Protección y Atención a Migrantes y sus Familias.
 
 II.- Ente Público.- Los Órganos Constitucionales Autónomos, las dependencias y entidades señaladas en la Constitución Política del Estado, en las Leyes Orgánicas de los Poderes Ejecutivo, Legislativo y Judicial del Estado; en la Ley de Entidades Paraestatales y en el Código Municipal para el Estado de Chihuahua, así como en las demás leyes, decretos y ordenamientos jurídicos mediante los cuales se creen organismos de derecho público.
 
-III.- Ley.- Ley de Protección y Apoyo a Migrantes para el Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
+
+III.- Ley.- Ley de Protección y Apoyo a Migrantes y sus Familias para el Estado de Chihuahua.
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
 
@@ -115,9 +133,11 @@ VI.- Secretaría.- Secretaría General de Gobierno del Estado.
 
 Los entes públicos, en el ámbito de su competencia, deberán llevar a cabo las acciones necesarias para el oportuno y eficaz cumplimiento de las disposiciones de la presente Ley.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2023)</small>
+
 ###### Artículo 8.
 
-Los entes públicos coadyuvarán con el Consejo, de conformidad con la normatividad que los rige, en la planeación, operación y seguimiento de los diversos programas y acciones que se implementen, cuyo destino sea la protección y atención de migrantes.
+Los entes públicos coadyuvarán con el Consejo, de conformidad con la normatividad que los rige, en la planeación, operación y seguimiento de los diversos programas y acciones que se implementen, cuyo destino sea la protección y atención de migrantes y sus familias.
 
 ###### Artículo 9.
 
@@ -127,25 +147,39 @@ I.- Investigar y hacer del conocimiento de la Secretaría, las causas que den o 
 
 II.- Promover, en las comunidades rurales, la creación y funcionamiento de unidades productivas, tales como cooperativas, sociedades integradoras y de producción, así como otras organizaciones económicas que permitan lograr un mayor aprovechamiento de sus recursos naturales y culturales, que propicien el arraigo y permanencia de los habitantes en las diversas localidades.
 
-III.- Difundir mensajes, en medios de comunicación masiva, que informen sobre los riesgos y peligros a que están expuestos los migrantes que no cuenten con la documentación exigida por el país al que pretenden ingresar, particularmente los menores de edad.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
 
-IV.- Prestar servicios de asistencia social y promover el retorno voluntario de los migrantes con sujeción a los ordenamientos jurídicos aplicables y a las normas técnicas relativas y la reintegración a sus comunidades de origen.
+III.- Difundir mensajes, en medios de comunicación masiva, que informen sobre los riesgos y peligros a que están expuestas las personas migrantes y sus familias que no cuenten con la documentación exigida por el país al que pretenden ingresar, particularmente niñas, niños y adolescentes.
 
-V.- Establecer una línea telefónica gratuita que facilite la gestión de trámites relativos al apoyo y protección de los migrantes.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
 
-VI.- Establecer un portal electrónico que facilite la orientación, protección, apoyo, gestión de trámites y quejas de los migrantes.
+IV.- Prestar servicios de asistencia social y promover el retorno voluntario de migrantes y sus familias con sujeción a los ordenamientos jurídicos aplicables y a las normas técnicas relativas y la reintegración a sus comunidades de origen.
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
+
+V.- Establecer una línea telefónica gratuita que facilite la gestión de trámites relativos al apoyo y protección de migrantes y sus familias.
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
+
+VI.- Establecer un portal electrónico que facilite la orientación, protección, apoyo, gestión de trámites y quejas de migrantes y sus familias.
 
 VII.- Establecer mecanismos que permitan obtener las mejores condiciones, en calidad, tiempo y precio, de las transferencias de fondos provenientes del extranjero, denominadas “Remesas”.
 
-VIII.- Fomentar y apoyar las acciones de las instituciones de los sectores público, social y privado, cuyo objeto sea la prestación de servicios de asistencia social y, en general, de atención y apoyo a los migrantes.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
 
-IX.- Promover y fomentar la operación de albergues o establecimientos públicos y privados de atención y apoyo a migrantes.
+VIII.- Fomentar y apoyar las acciones de las instituciones de los sectores público, social y privado, cuyo objeto sea la prestación de servicios de asistencia social y, en general, de atención y apoyo a migrantes y sus familias.
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
+
+IX.- Promover y fomentar la operación de albergues o establecimientos públicos y privados de atención y apoyo a migrantes y sus familias.
 
 X.- Proporcionar alimentación, servicios médicos, alojamiento, vestido, asistencia jurídica, de orientación social y, en su caso, servicios de transportación y funerarios.
 
 XI.- Proporcionar atención, asesoría y protección a migrantes víctimas de delitos.
 
-XII.- Celebrar toda clase de acuerdos y convenios administrativos, mediante los cuales se establezcan los mecanismos de protección y apoyo a los migrantes.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
+
+XII.- Celebrar toda clase de acuerdos y convenios administrativos, mediante los cuales se establezcan los mecanismos de protección y apoyo a migrantes y sus familias.
 
 XIII.- Coadyuvar con el Gobierno Federal en la prevención y erradicación del tráfico de migrantes.
 
@@ -153,9 +187,11 @@ XIV.- Otorgar asesoría, con el apoyo del Consejo, en el trámite de la document
 
 XV.- Las demás que establezcan las leyes y demás disposiciones jurídicas.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2023)</small>
+
 ###### Artículo 10.
 
-La Secretaría promoverá la creación de agencias del ministerio público especializadas en delitos cometidos en contra de migrantes.
+La Secretaría promoverá la creación de agencias del ministerio público especializadas en delitos cometidos en contra de migrantes y sus familias.
 
 ###### Artículo 11.
 
@@ -163,27 +199,45 @@ Las medidas de atención, protección, apoyos o servicios otorgados por las inst
 
 ### CAPÍTULO SEGUNDO. DE LA PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2023)</small>
+
 ###### Artículo 12.
 
-Los entes públicos promoverán la participación de la comunidad para que esta coadyuve en la prestación de servicios asistenciales para los migrantes, llevando a cabo las siguientes acciones:
+Los entes públicos promoverán la participación de la comunidad para que esta coadyuve en la prestación de servicios asistenciales para migrantes y sus familias, llevando a cabo las siguientes acciones:
 
-I.- La promoción de hábitos de conducta y valores que contribuyan a la protección de los migrantes y a su superación.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
 
-II.- La incorporación de voluntarios en la realización de tareas básicas de asistencia social, de atención y de apoyo a migrantes.
+I.- La promoción de hábitos de conducta y valores que contribuyan a la protección de migrantes y sus familias y a su superación.
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
+
+II.- La incorporación de voluntarias y voluntarios en la realización de tareas básicas de asistencia social, de atención y de apoyo a migrantes y sus familias.
 
 III.- La información oportuna de la existencia de migrantes que requieran de atención y apoyo, cuando estos se encuentren impedidos de solicitar auxilio por sí mismos.
 
-IV.- Cualquier otra actividad que coadyuve en la protección y atención de los migrantes.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
+
+IV.- Cualquier otra actividad que coadyuve en la protección y atención de migrantes y sus familias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2023)</small>
 
 ###### Artículo 13.
 
-Los entes públicos promoverán el otorgamiento de incentivos, en los términos de las disposiciones legales aplicables, a quienes realicen actividades a favor de los migrantes.
+Los entes públicos promoverán el otorgamiento de incentivos, en los términos de las disposiciones legales aplicables, a quienes realicen actividades a favor de migrantes y sus familias.
 
-Dichos incentivos y facilidades podrán también beneficiar a aquellas personas morales u organizaciones sociales que de manera directa otorguen apoyos gratuitos a los migrantes.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2023)</small>
+
+Dichos incentivos y facilidades podrán también beneficiar a aquellas personas morales u organizaciones sociales que de manera directa otorguen apoyos gratuitos a migrantes y sus familias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2023)</small>
 
 ###### Artículo 14.
 
-Los entes públicos deberán incluir previsiones presupuestales para la implementación de programas de atención a migrantes.
+Los entes públicos deberán incluir previsiones presupuestales para la implementación de programas de atención a migrantes y sus familias.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2023)</small>
+
+Corresponde al Consejo Estatal de Población la ejecución de acciones, políticas, programas y campañas estatales tendientes a la atención y protección de los derechos humanos de migrantes y sus familias, así como colaborar con las instancias federales, municipales y organizaciones de la sociedad civil para actualizar la información demográfica en materia migratoria, en los términos de las disposiciones aplicables y, en su caso, se podrán celebrar los convenios necesarios.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2022)</small>
 
@@ -211,29 +265,43 @@ I.- El Titular de la Secretaría General de Gobierno, quien lo presidirá.
 
 II.- El Titular del Consejo Estatal de Población, que será el Secretario Ejecutivo.
 
-III.- Diez vocales que serán:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JUNIO DE 2023)</small>
 
-a) Un o una representante de la Secretaría de Salud.
+III.- Las personas titulares de la presidencia de los municipios fronterizos o una representación, nombrada por sus respectivos Ayuntamientos.
 
-b) Un o una representante de la Secretaría de Educación, Cultura y Deporte.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JUNIO DE 2023)</small>
 
-c) Un o una representante del Registro Civil.
+IV.- La persona que presida la Comisión de Asuntos Fronterizos y Atención a Migrantes del H. Congreso del Estado.
 
-d) Un o una representante de la Fiscalía General del Estado.
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2023)</small>
 
-e) Un o una representante de la Secretaría de Desarrollo Social.
+V.- Una persona representante de la Secretaría de Seguridad Pública.
 
-f) Un o una representante de la Secretaría del Trabajo y Previsión Social.
+> <small>(ADICIONADA [N. DE E. REFORMADA CON SUS INCISOS], P.O. 24 DE JUNIO DE 2023)</small>
 
-g) Un o una representante del Desarrollo Integral de la Familia del Estado de Chihuahua (DIF).
+VI.- Nueve vocales que serán:
 
-h) Un o una representante de la Delegación Estatal del Instituto Nacional de Migración.
+a) Una persona representante de la Secretaría de Salud.
 
-i) Un o una representante de la Delegación Estatal de la Secretaría de Relaciones Exteriores.
+b) Una persona representante de la Secretaría de Educación y Deporte.
 
-j) Un o una representante de cada uno de los municipios fronterizos.
+c) Una persona representante de la Dirección del Registro Civil.
 
-IV.- Cinco vocales provenientes de la sociedad civil, preferentemente de instituciones educativas, de investigación y de organizaciones no gubernamentales vinculadas con la atención a migrantes o grupos vulnerables, designados conforme al procedimiento de consulta ciudadana que determine el Reglamento.
+d) Una persona representante de la Fiscalía General del Estado.
+
+e) Una persona representante de la Secretaría de Desarrollo Humano y Bien Común.
+
+f) Una persona representante de la Secretaría del Trabajo y Previsión Social.
+
+g) Una persona representante del Desarrollo Integral de la Familia del Estado de Chihuahua.
+
+h) Una persona representante de la Delegación Estatal del Instituto Nacional de Migración.
+
+i) Una persona representante de la Delegación Estatal de la Secretaría de Relaciones Exteriores.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JUNIO DE 2023)</small>
+
+VII.- Cinco vocales provenientes de la sociedad civil, preferentemente de instituciones educativas, de investigación y de organizaciones no gubernamentales vinculadas con la atención a migrantes o grupos vulnerables, designados conforme al procedimiento de consulta ciudadana que determine el Reglamento.
 
 Por cada miembro propietario habrá un suplente.
 
@@ -249,21 +317,33 @@ Una persona representante de la Comisión Estatal de los Derechos Humanos será 
 
 El Consejo tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
 
-I.- Evaluar las acciones, políticas, programas y campañas en materia de atención a migrantes.
+I.- Evaluar las acciones, políticas, programas y campañas estatales en materia de atención a migrantes y sus familias.
 
-II.- Organizar y promover, ante las instancias competentes, la realización de estudios referentes al fenómeno migratorio y sobre nuevos esquemas de atención y protección de migrantes.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
 
-III.- Promover la suscripción de convenios con organizaciones de la sociedad civil, dependencias y entidades de las administraciones públicas federal, estatal y municipal, para la formulación y ejecución de programas y acciones orientados a atender en torma (sic) coordinada a los migrantes.
+II.- Organizar y promover, ante las instancias competentes, la realización de estudios referentes al fenómeno migratorio y sobre nuevos esquemas de atención y protección de migrantes y sus familias.
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2023)</small>
+
+III.- Promover la suscripción de convenios con organizaciones de la sociedad civil, dependencias y entidades de las administraciones públicas federal, estatal y municipal, para la formulación y ejecución de programas y acciones orientados a atender en forma coordinada a migrantes y sus familias.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2019)</small>
 
 IV.- Proporcionar, a través de las dependencias que integran el Consejo, la información sobre los derechos que como migrantes les corresponden, trámites y servicios, así como la ubicación de hospitales y albergues.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JUNIO DE 2023)</small>
 
-V.- Las demás que les confieran las disposiciones jurídicas aplicables en la materia.
+V.- Realizar recomendaciones relativas a la aplicación, ejecución e impacto de los recursos destinados a la atención de migrantes y sus familias.
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2023)</small>
+
+VI.- Aprobar la integración de comisiones para la atención de asuntos específicos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JUNIO DE 2023)</small>
+
+VII.- Las demás que les confieran las disposiciones jurídicas aplicables en la materia.
 
 ###### Artículo 21.
 
@@ -288,6 +368,46 @@ En ambos casos, la convocatoria se notificará a los integrantes del Consejo, po
 ###### Artículo 25.
 
 El Consejo podrá integrar las comisiones de trabajo que requiera para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO CUARTO. DE LA INFORMACIÓN MIGRATORIA
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2023)</small>
+
+###### Artículo 26.
+
+El Consejo Estatal de Población procurará, por medio de las instituciones federales autorizadas para tal fin, la información que en su caso esté disponible, relativa a migrantes y sus familias, para efectos de:
+
+I. Contar con un padrón de personas beneficiarias de los programas y acciones de atención.
+
+II. Optimizar el otorgamiento de programas y servicios asistenciales que brindan los tres órdenes de gobierno, particulares, empresas u organizaciones civiles.
+
+III. Obtener información para el seguimiento y evaluación de los programas y acciones implementados y operados por las autoridades estatales.
+
+IV. Conocer la cobertura poblacional y lugares de origen, con la finalidad de contactar con las autoridades competentes para reforzar los apoyos a sus paisanas y paisanos.
+
+V. Facilitar el retorno seguro a su lugar de origen.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2023)</small>
+
+###### Artículo 27.
+
+Para la integración de la información necesaria para proteger a migrantes y sus familias, el Consejo Estatal de Población considerará los elementos técnicos y de información que, en su caso, les proporcionen de manera voluntaria a través del formato que diseñará para realizar la inscripción.
+
+El Consejo Estatal de Población emitirá los lineamientos para la operación, actualización, seguridad y difusión de la información, de conformidad con lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua y la Ley de Protección de Datos Personales del Estado de Chihuahua.
+
+Se prohíbe la utilización del padrón con fines de cualquier índole distintos a su objeto. Su uso indebido será sancionado en los términos de la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO QUINTO. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2023)</small>
+
+###### Artículo 28.
+
+La infracción a las disposiciones contenidas en la presente Ley, se sancionará conforme a lo establecido en las disposiciones jurídicas aplicables.
 
 T R A N S I T O R I O S
 
@@ -358,3 +478,15 @@ P.O. 2 DE FEBRERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLEY/0525/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y APOYO A MIGRANTES PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos del presente Decreto, el Consejo Estatal de Población hará las previsiones y gestiones normativas, administrativas, presupuestales y organizativas en general, siguiendo los procedimientos y acciones a que hubiera lugar, durante el presente ejercicio fiscal 2023.
