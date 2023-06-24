@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-ixtlahuacan-colima-26793"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2022-09-10"
+last_updated: "2023-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JULIO DE 2023 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -2057,6 +2059,10 @@ n) Los demás actos, cada uno 8.53
 
 o) Certificaciones de nacimiento, matrimonio, defunción y demás, en papel seguridad 1.25
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2023)</small>
+
+p) Registro de reconocimiento de identidad de género 00.00
+
 II. A domicilio:
 
 a) Registro de nacimiento
@@ -3214,3 +3220,9 @@ P.O. 10 DE SEPTIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO QUE APRUEBA LA MODIFICACIÓN A LA LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN RELATIVA AL REGISTRO DE RECONOCIMIENTO DE IDENTIDAD DE GÉNERO”.]
+
+PRIMERO.- La presente modificación entrara en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
