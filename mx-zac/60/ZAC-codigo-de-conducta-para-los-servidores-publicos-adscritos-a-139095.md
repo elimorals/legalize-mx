@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-conducta-para-los-servidores-publicos-adscritos-a-139
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-09"
-last_updated: "2019-11-09"
+last_updated: "2023-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "ZAC"
 ---
 # CODIGO DE CONDUCTA PARA LOS SERVIDORES PUBLICOS ADSCRITOS A LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS ADSCRITOS A LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 24 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS ADSCRITOS A LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2023 (DEROGADO).
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 9 de noviembre de 2019.
 
@@ -353,3 +355,17 @@ PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de 
 SECRETARIO DE SEGURIDAD PÚBLICA DEL GOBIERNO DEL ESTADO DE ZACATECAS
 
 PRESIDENTE DEL COMITÉ.- ISMAEL CAMBEROS HERNÁNDEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS ADSCRITOS A LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE ZACATECAS”.]
+
+Primero.- El presente Código de Conducta, entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+Segundo.- Se deroga el Código de Conducta para los Servidores Públicos adscritos a la Secretaria de Seguridad Pública del Estado de Zacatecas de fecha 09 de noviembre de 2019.
+
+Tercero.- El Comité de Ética deberá promover la suscripción de la Carta Compromiso de las personas servidoras públicas de la Secretaría, señalada en el Código.
+
+Cuarto.- Las personas servidoras públicas de la Secretaría, deberán suscribir la Carta Compromiso que el Comité les proporcione.
