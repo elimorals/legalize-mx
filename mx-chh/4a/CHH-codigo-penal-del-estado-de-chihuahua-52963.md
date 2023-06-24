@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2023-06-14"
+last_updated: "2023-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2023.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1537,9 +1537,9 @@ Efectos y características de la prescripción
 
 La prescripción es personal y extingue la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad, y para ello bastará el transcurso del tiempo señalado por la ley.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2023)</small>
 
-Los delitos de feminicidio, previsto en el artículo 126 bis; extorsión; tráfico de influencias, previsto en el artículo 265; cohecho, en el supuesto que prevé el artículo 269, fracción II; peculado, en la hipótesis señalada en el artículo 270, fracción II; concusión, de acuerdo con el artículo 271, fracción II; homicidio calificado; tortura, y enriquecimiento ilícito, de acuerdo con el numeral 272; así como aquellos previstos en los artículos 171, 172, 173, 174, 175, 178 y 184 de este Código, cometidos en contra de personas menores de edad o de las que no tienen capacidad para comprender el significado del hecho o de resistirlo, son imprescriptibles.
+Los delitos de feminicidio, previsto en el artículo 126 bis; extorsión; tráfico de influencias, previsto en el artículo 265; cohecho, en el supuesto que prevé el artículo 269, fracción II; peculado, en la hipótesis señalada en el artículo 270, fracción II; concusión, de acuerdo con el artículo 271, fracción II; homicidio calificado; tortura, y enriquecimiento ilícito, de acuerdo con el numeral 272; así como aquellos previstos en los artículos 171, 172, 173, 174, 175, 178, 179 Bis y 184 de este Código, cometidos en contra de personas menores de edad o de las que no tienen capacidad para comprender el significado del hecho o de resistirlo, son imprescriptibles.
 
 ###### Artículo 106.
 
@@ -2378,6 +2378,12 @@ La cópula entre ascendientes y descendientes consanguíneos en línea recta o e
 ###### Artículo 179.
 
 Cuando a consecuencia de la comisión de alguno de los delitos previstos en el presente Título resulte descendencia, la reparación del daño comprenderá, además, el pago de alimentos para ésta, en los términos que fija la legislación civil.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2023)</small>
+
+###### Artículo 179 Bis.
+
+Cuando una persona mayor de dieciocho años, realice en una persona menor de catorce años, cualquiera de las conductas a que se refieren los artículos 172, 174, 176 y 176 Bis de este Código, se considerará pederastia.
 
 ###### Artículo 180.
 
@@ -5804,6 +5810,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 14 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFCOD/0572/2023 II P.O., MEDIANTE EL CUAL SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFCOD/0550/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
