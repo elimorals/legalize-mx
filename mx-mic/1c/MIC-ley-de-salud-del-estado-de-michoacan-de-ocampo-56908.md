@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2023-04-21"
+last_updated: "2023-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -595,9 +595,17 @@ VI. Celebrar con la Federación los acuerdos de coordinación en materia de salu
 
 VII. Celebrar los convenios y acuerdos de coordinación con los ayuntamientos para la prestación de los servicios sanitarios locales y/o la atención de la salud;
 
-VIII. Analizar las disposiciones legales en materia de salud y formular propuestas de reformas y adiciones a las normas; y,
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2023)</small>
 
-IX. Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores, las que derivan de esta Ley y demás normatividad general aplicable.
+VIII. Analizar las disposiciones legales en materia de salud y formular propuestas de reformas y adiciones a las normas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2023)</small>
+
+IX. La prevención, atención y control de las enfermedades bucodentales; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JUNIO DE 2023)</small>
+
+X. Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores, las que derivan de esta Ley y demás normatividad general aplicable.
 
 B) EN MATERIA DE SALUBRIDAD LOCAL:
 
@@ -792,6 +800,20 @@ VIII. Implementar una estrategia para fomentar una alimentación saludable y pro
 IX. Realizar acciones tendientes a eliminar la discriminación y la estigmatización en el ámbito laboral, educacional o social, motivadas por el sobrepeso, obesidad, desnutrición y los trastornos de la conducta alimentaria; y,
 
 X. Desarrollar actividades de difusión, a través de los diferentes medios masivos de comunicación; dirigidas a la población en general y a grupos de riesgo en particular, a fin de concientizar sobre los riesgos en la salud que ocasionan las dietas sin control médico y de instruir a la población sobre hábitos alimentarios y físicos saludables y adecuados a cada etapa de crecimiento.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 31 TER. La prevención y control de enfermedades bucodentales tiene carácter prioritario y comprende las siguientes acciones:
+
+I. La atención oportuna de la salud bucodental;
+
+II. La promoción periódica de las medidas de prevención y control de enfermedades bucodentales;
+
+III. La realización de programas de prevención y control de enfermedades bucodentales;
+
+IV. Las demás acciones que directa o indirectamente contribuyan al fomento y cuidado de la salud dental de la población; y,
+
+V. La coordinación con la Secretaría de Educación Pública del Estado a efecto de fomentar hábitos de higiene bucodental adecuados, como elemento de formación para niñas y niños en edad temprana, esto conforme a lo dispuesto en las normas oficiales mexicanas respectivas.
 
 ###### ARTÍCULO 32.
 
@@ -2792,5 +2814,11 @@ SEGUNDO. El Poder Ejecutivo Estatal dispondrá los recursos presupuestarios, hum
 P.O. 21 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 356 POR EL QUE "SE REFORMAN LAS FRACCIONES VI Y VII, Y SE ADICIONA UNA FRACCIÓN VIII, AL ARTÍCULO 13 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 371 POR EL QUE "SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X AL INCISO A) DEL ARTÍCULO 21; Y SE ADICIONA UN ARTÍCULO 31 TER A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
