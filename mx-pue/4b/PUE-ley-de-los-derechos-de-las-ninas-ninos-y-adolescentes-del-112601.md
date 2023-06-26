@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2022-12-27"
+last_updated: "2023-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -655,7 +655,9 @@ IV. Destinar recursos humanos, materiales y presupuestarios adecuados y suficien
 
 V. Establecer acciones afirmativas dirigidas a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
 
-VI. Instrumentar mecanismos e instancias multidisciplinarias para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2023)</small>
+
+VI. Instrumentar mecanismos e instancias multidisciplinarias para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia que se suscite hacia niñas, niños y adolescentes en los centros educativos del Estado;
 
 VII. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
@@ -2200,6 +2202,14 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 P.O. 27 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 61, LA FRACCIÓN IX DEL ARTÍCULO 98, EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 104, LA FRACCIÓN II DEL ARTÍCULO 142, Y ADICIONA UN PÁRRAFO AL ARTÍCULO 62, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 26 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 48 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
