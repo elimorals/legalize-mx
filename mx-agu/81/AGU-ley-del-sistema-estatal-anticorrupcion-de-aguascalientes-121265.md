@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-anticorrupcion-de-aguascalientes-121265
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2022-06-13"
+last_updated: "2023-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de mayo de 2017.
 
@@ -307,15 +307,17 @@ Los integrantes del Comité de Participación Ciudadana serán nombrados conform
 
 I.- El Congreso del Estado constituirá una Comisión de Selección integrada por nueve mexicanos, residentes del Estado, por un período de tres años;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2023)</small>
 
-II.- La Comisión Ordinaria Legislativa de Postulaciones expedirá la convocatoria respectiva, noventa días naturales antes del término del encargo de los miembros de la Comisión de Selección en funciones, la cual deberá:
+II.- La Comisión Ordinaria Legislativa de Transparencia y Anticorrupción expedirá la convocatoria respectiva, noventa días naturales antes del término del encargo de los miembros de la Comisión de Selección en funciones, la cual deberá:
 
 a) Convocar a las instituciones de educación superior y de investigación del Estado, para proponer candidatos a fin de integrar la Comisión de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, para su respectivo registro, en un plazo no mayor de quince días naturales, para seleccionar a cinco miembros basándose en los elementos decisorios plasmados en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción; y
 
 b) Convocará a organizaciones de la sociedad civil que tengan experiencia comprobada en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a cuatro miembros, en los mismos términos del inciso anterior;
 
-Concluido el plazo a que hacen referencia los incisos que anteceden, la Comisión Ordinaria Legislativa de Postulaciones, podrá llamar a comparecer a las personas registradas, si así lo estima necesario, pero deberá rendir en un plazo máximo de cinco días naturales, un Informe al Pleno Legislativo para su designación por mayoría relativa. Dicha designación deberá realizarse dentro de los diez días siguientes a la aprobación del Informe;
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2023)</small>
+
+Concluido el plazo a que hacen referencia los incisos que anteceden, la Comisión Ordinaria Legislativa de Transparencia y Anticorrupción, podrá llamar a comparecer a las personas registradas, si así lo estima necesario, pero deberá rendir en un plazo máximo de cinco días naturales, un Informe al Pleno Legislativo para su designación por mayoría relativa. Dicha designación deberá realizarse dentro de los diez días siguientes a la aprobación del Informe;
 
 El cargo de miembro de la Comisión de selección será honorifico. Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de Selección en que fue miembro; y
 
@@ -1020,3 +1022,15 @@ P.O. 13 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 384.- SE REFORMA LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
