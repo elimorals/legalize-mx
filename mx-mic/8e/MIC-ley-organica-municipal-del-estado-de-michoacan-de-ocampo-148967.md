@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2023-06-13"
+last_updated: "2023-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -1961,9 +1961,13 @@ f) Solicitar el auxilio de seguridad pública cuando sea necesario para garantiz
 
 g) Organizar a los vecinos para que coadyuven en el buen estado del espacio público.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2023)</small>
+
 ###### Artículo 95.
 
 La Presidenta o Presidente Municipal y las dependencias, entidades y unidades administrativas competentes, supervisarán que la prestación de los servicios públicos municipales se realice con eficiencia, calidad y puntualidad.
+
+En la prestación de los servicios públicos municipales, preferentemente deberán emplearse materiales, nuevas tecnologías, así como realizarse obras y acciones que sean amigables con el medio ambiente, limiten al mínimo la generación de contaminantes y permitan en la medida de lo posible la conservación y rescate de la flora, la fauna y los recursos acuíferos y naturales del Municipio.
 
 ###### Artículo 96.
 
@@ -3320,3 +3324,9 @@ P.O. 13 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Los gobiernos municipales tendrán sesenta días para expedir la reglamentación que mandata el presente Decreto a partir de la fecha de su publicación.
+
+P.O. 26 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 375 POR EL QUE “SE REFORMA EL ARTÍCULO 95 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor él día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
