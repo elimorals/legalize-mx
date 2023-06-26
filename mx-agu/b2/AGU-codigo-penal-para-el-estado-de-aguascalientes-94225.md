@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-06-19"
+last_updated: "2023-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1171,17 +1171,13 @@ VI. Cuando la víctima esté sujeta a patria potestad, tutela, curatela o custod
 
 VII. Cuando las lesiones se hayan cometido por mutilación, con sustancias corrosivas o hayan sido en los órganos genitales o glándulas mamarias de la víctima.
 
-(NOTA: EL 20 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE JUNIO DE 2018, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 177, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+En el caso de homicidio doloso calificado a que se refieren las fracciones I a la III, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados. En el caso de las fracciones IV a la VI se aplicará al responsable de 20 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados.
 
-EN EL CASO DE HOMICIDIO DOLOSO CALIFICADO A QUE SE REFIEREN LAS FRACCIONES I A LA III, SE APLICARÁ AL RESPONSABLE DE 15 A 40 AÑOS DE PRISIÓN, DE 150 A 500 DÍAS MULTA Y PAGO TOTAL DE LA REPARACIÓN DE LOS DAÑOS Y PERJUICIOS OCASIONADOS. EN EL CASO DE LAS FRACCIONES IV A LA VI SE APLICARÁ AL RESPONSABLE DE 20 A 50 AÑOS DE PRISIÓN, DE 500 A 1000 DÍAS DE MULTA Y PAGO TOTAL DE LA REPARACIÓN DE LOS DAÑOS Y PERJUICIOS OCASIONADOS, PRIVÁNDOSE ADEMÁS AL RESPONSABLE DE LOS DERECHOS FAMILIARES QUE LE CORRESPONDAN, INCLUIDOS LOS DE DERECHO SUCESORIO.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2023)</small>
 
-(NOTA: EL 20 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE JULIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 177, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
-
-SI LAS LESIONES DOLOSAS SON CALIFICADAS, LA PUNIBILIDAD ESTABLECIDA EN EL ARTÍCULO 104 SE AUMENTARÁ HASTA EN DOS TERCERAS PARTES EN SUS MÍNIMOS Y MÁXIMOS, PRIVÁNDOSE ADEMÁS AL RESPONSABLE DE LOS DERECHOS FAMILIARES QUE LE CORRESPONDAN, INCLUIDOS LOS DE DERECHO SUCESORIO, EN TRATÁNDOSE DE LOS SUPUESTOS DE LAS FRACCIONES V, VI Y VII DEL PRESENTE ARTÍCULO.
+Si las lesiones dolosas son calificadas, la punibilidad establecida en el artículo 104 se aumentará hasta en dos terceras partes en sus mínimos y máximos, en tratándose de los supuestos de las fracciones V, VI y VII del presente artículo.
 
 ###### ARTÍCULO 108.
 
@@ -3816,3 +3812,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+P.O. 26 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 368.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
