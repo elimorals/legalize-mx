@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-cultura-del-estado-de-puebla-66146"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2011-02-14"
+last_updated: "2023-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CULTURA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -35,7 +35,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción I, 64, 67 y 79 fracción VI de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y VII, 69 fracción I, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado; 20, 21, 22, 23 y 24 fracciones I y VII del Reglamento Interior del H. Congreso del Estado, se emite la siguiente:
 
@@ -233,9 +235,17 @@ VIII.- Promover y organizar, directa o coordinadamente con las dependencias o en
 
 IX.- Elaborar y mantener actualizado el registro y el directorio de las personas físicas o jurídicas que se dediquen al arte, tanto en la creación, fomento, apoyo y promoción, así como de los espacios apropiados para desarrollar actividades culturales en el Municipio;
 
-X.- Designar Cronistas Municipales, de conformidad con los ordenamientos aplicables; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2023)</small>
 
-XI.- Expedir los reglamentos en el ámbito de su competencia, que normen la actividad cultural en el territorio municipal.
+X.- Designar cronistas Municipales, de conformidad con los ordenamientos aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2023)</small>
+
+XI.- Promover y fomentar espacios públicos dignos y adecuados para el sector artesanal, a los que se dedican a la gastronomía tradicional o vendan productos de temporada, facilitando su desarrollo; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE JUNIO DE 2023)</small>
+
+XII.- Expedir los reglamentos en el ámbito de su competencia que normen la actividad cultural en el territorio municipal.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -529,9 +539,17 @@ IV.- Promover la realización de investigaciones en relación con la artesanía 
 
 V.- Realizar recomendaciones técnicas a los artesanos para evitar que los procedimientos artesanales dañen al medio ambiente;
 
-VI.- Formular, integrar y ejecutar actividades primordiales dentro de la estrategia de modernización y desarrollo del sector artesanal, preservando su identidad cultural; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2023)</small>
 
-VII.- Formar y mantener actualizado un padrón de artesanos y de los recursos materiales utilizados para la producción artesanal en el Estado.
+VI.- Formular, integrar y ejecutar actividades primordiales dentro de la estrategia de modernización y desarrollo del sector artesanal, preservando su identidad cultural;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2023)</small>
+
+VII.- Formar y mantener actualizado un padrón de artesanos y de los recursos materiales utilizados para la producción artesanal en el Estado; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2023)</small>
+
+VIII.- Promover espacios para la venta y distribución de productos artesanales en corredores turísticos, tianguis, mercados públicos, plazas regionales y ferias.
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -968,3 +986,19 @@ P.O. 14 DE FEBRERO DE 2011.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 26 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES X Y XI, Y ADICIONA LA FRACCIÓN XII AL ARTÍCULO 9 DE LA LEY DE CULTURA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto
+
+P.O. 26 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VI Y VII, Y ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 34 DE LA LEY DE CULTURA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
