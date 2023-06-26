@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-para-el-desarrollo-de-los-jovenes-123899"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-16"
-last_updated: "2023-05-08"
+last_updated: "2023-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de octubre de 2017.
 
@@ -243,9 +243,11 @@ III.- Promover programas y cursos de capacitación en coordinación con la Secre
 
 IV.- Promover en su caso, en los distintos medios masivos de comunicación social los diversos apoyos oficiales disponibles para los jóvenes emprendedores.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2023)</small>
+
 ###### Artículo 13.
 
-El Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes impulsará y fomentará en la materia, la investigación y el desarrollo, la innovación y tecnología, así como la cultura y economía del conocimiento.
+El Instituto de Ciencia y Tecnología del Estado de Aguascalientes impulsará y fomentará en la materia, la investigación y el desarrollo, la innovación y tecnología, así como la cultura y economía del conocimiento.
 
 ### CAPÍTULO IV. El Fondo de Promoción, Impulso y Fomento al Joven Emprendedor
 
@@ -360,6 +362,18 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 8 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 369.- SE REFORMAN LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO ELECTORAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO PRIMERO.
 
