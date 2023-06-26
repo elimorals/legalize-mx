@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2022-12-02"
+last_updated: "2023-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -289,9 +289,13 @@ Los trabajadores tendrán derecho a una prima vacacional no menor del 25% sobre 
 
 ### CAPITULO V. DE LOS SALARIOS
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2023)</small>
+
 ###### ARTICULO 26.
 
-El salario es la retribución que debe pagarse al trabajador a cambio de los servicios prestados.
+El salario es la retribución que debe de pagarse a la trabajadora o al trabajador, a cambio de sus servicios prestados.
+
+A servicios laborales iguales salarios iguales, sin distinción de género, queda prohibido cualquier tipo de discriminación laboral.
 
 ###### ARTICULO 27.
 
@@ -1298,3 +1302,11 @@ P.O. 2 DE DICIEMBRE DE 2022.
 Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para los efectos legales conducentes.
 
 Segundo. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación.
+
+P.O. 26 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 372 POR EL QUE “SE REFORMA EL ARTÍCULO 26 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y los efectos legales correspondientes
