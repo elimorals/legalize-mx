@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-etica-de-la-administracion-publica-del-estado-de-1664
 country: "mx"
 rank: "codigo"
 publication_date: "2023-05-04"
-last_updated: "2023-05-04"
+last_updated: "2023-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE ETICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2023 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE JUNIO DE 2023.]</small>
 
 Código publicado en la Segunda Sección del Número 1916 del Periódico Oficial del Estado de Campeche, el jueves 4 de mayo de 2023.
 
@@ -265,25 +265,33 @@ V. Contratar personal o ejercer presupuesto de las partidas destinadas para este
 
 Economía. Todas las personas servidoras públicas en el ejercicio del gasto público deberán administrar los bienes, recursos y servicios públicos con legalidad, austeridad republicana, racionalidad, sustentabilidad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social.
 
-Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 6, 8, 9, 10, 13, 14, 16, 18 y 19 del presente Código de Conducta.
+> <small>(F. DE E., P.O. 26 DE JUNIO DE 2023)</small>
+
+Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 6, 8, 9, 10, 13, 14, 16, 18 y 19 del presente Código de Ética.
 
 ###### Artículo 12.
 
 Disciplina. Las personas servidoras públicas deben desempeñar su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos.
 
-Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 10, 13 y 18 del presente Código de Conducta.
+> <small>(F. DE E., P.O. 26 DE JUNIO DE 2023)</small>
+
+Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 10, 13 y 18 del presente Código de Ética.
 
 ###### Artículo 13.
 
 Profesionalismo. Las personas servidoras públicas deberán conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a las demás personas servidoras públicas como a las y los particulares con los que llegare a tratar.
 
-Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 6, 8, 9, 10, 12, 18 y 19 del presente Código de Conducta.
+> <small>(F. DE E., P.O. 26 DE JUNIO DE 2023)</small>
+
+Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 6, 8, 9, 10, 12, 18 y 19 del presente Código de Ética.
 
 ###### Artículo 14.
 
 Objetividad. Las personas servidoras públicas deben preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán de ser informadas en estricto apego a la legalidad.
 
-Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 6, 8, 9, 13, 18 y 19 del presente Código de Conducta.
+> <small>(F. DE E., P.O. 26 DE JUNIO DE 2023)</small>
+
+Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 6, 8, 9, 13, 18 y 19 del presente Código de Ética.
 
 ###### Artículo 15.
 
@@ -305,13 +313,17 @@ V. Dar tratamiento a datos personales sin dar a conocer el aviso de privacidad c
 
 Rendición de cuentas. Las personas servidoras públicas deben asumir, ante la sociedad y sus autoridades, la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que deben informar, explicar y justificar sus decisiones y acciones, sujetándose a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía, así como a un sistema de sanciones.
 
-Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 18 y 19 del presente Código de Conducta.
+> <small>(F. DE E., P.O. 26 DE JUNIO DE 2023)</small>
+
+Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 18 y 19 del presente Código de Ética.
 
 ###### Artículo 17.
 
 Competencia por mérito. Las personas servidoras públicas deben ser seleccionadas para sus puestos de acuerdo con su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a las mejores personas candidatas para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos.
 
-Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 6, 9, 13, 14, 16, 18, 19 y 20 del presente Código de Conducta.
+> <small>(F. DE E., P.O. 26 DE JUNIO DE 2023)</small>
+
+Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 6, 9, 13, 14, 16, 18, 19 y 20 del presente Código de Ética.
 
 ###### Artículo 18.
 
@@ -335,13 +347,17 @@ VI. Retrasar de manera negligente las actividades a su cargo.
 
 Integridad. Las personas servidoras públicas deben actuar de manera congruente con los principios que deben observarse en el desempeño de su empleo, cargo, comisión, y estar convencidas en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público.
 
-Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 5, 6, 7, 8, 9, 11, 13, 14, 16 y 20 del presente Código de Conducta.
+> <small>(F. DE E., P.O. 26 DE JUNIO DE 2023)</small>
+
+Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 5, 6, 7, 8, 9, 11, 13, 14, 16 y 20 del presente Código de Ética.
 
 ###### Artículo 20.
 
 Equidad. Las personas servidoras públicas procurarán que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades.
 
-Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 5, 6, 8, 9, 13, 14, 16, 17 y 19 del presente Código de Conducta.
+> <small>(F. DE E., P.O. 26 DE JUNIO DE 2023)</small>
+
+Para ello, las personas servidoras públicas deben observar adicionalmente lo dispuesto en los artículos 5, 6, 8, 9, 13, 14, 16, 17 y 19 del presente Código de Ética.
 
 ### CAPÍTULO III. VALORES DEL SERVICIO PÚBLICO
 
