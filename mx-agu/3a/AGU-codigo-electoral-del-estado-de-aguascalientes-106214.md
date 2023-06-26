@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-106214"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-03-02"
-last_updated: "2023-01-02"
+last_updated: "2023-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de marzo de 2015.
 
@@ -4135,17 +4135,17 @@ Las multas impuestas por el Tribunal que hayan quedado firmes deberán ser pagad
 
 En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2023)</small>
 
-Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en este Capítulo y, por la aplicación de sanciones económicas derivadas de infracciones acreditadas mediante los Procedimientos Especiales Sancionadores, serán destinados al Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes.
+Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en este Capítulo y, por la aplicación de sanciones económicas derivadas de infracciones acreditadas mediante los Procedimientos Especiales Sancionadores, serán destinados al Instituto de Ciencia y Tecnología del Estado de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 Los recursos destinados deberán de ser ejercidos en el fortalecimiento de la infraestructura y proyectos estratégicos en materia de ciencia, tecnología e innovación; no podrán destinarse a servicios personales o al gasto corriente del Instituto.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2023)</small>
 
-El Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes deberá de informar semestralmente al Consejo General del Instituto Estatal Electoral de Aguascalientes, sobre el ejercicio presupuestal, uso y destino de los recursos, así como de la motivación para determinar el destino de los mismos; el informe deberá garantizar la transparencia y el derecho de acceso a la información, de tal forma, deberá estar a disposición del público, a través de medios escritos y de su página de internet.
+El Instituto de Ciencia y Tecnología del Estado de Aguascalientes deberá de informar semestralmente al Consejo General del Instituto Estatal Electoral de Aguascalientes, sobre el ejercicio presupuestal, uso y destino de los recursos, así como de la motivación para determinar el destino de los mismos; el informe deberá garantizar la transparencia y el derecho de acceso a la información por lo que deberá estar a disposición del público a través de medios escritos y de su página de internet.
 
 ### CAPÍTULO I. De las Responsabilidades Administrativas
 
@@ -5341,9 +5341,9 @@ Lo anterior sin perjuicio de que en caso de resultar algún ilícito, se dé par
 
 Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo anterior, serán aplicados por el Presidente del organismo electoral respectivo, por sí mismo o con el apoyo de la autoridad competente.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2023)</small>
 
-Los recursos obtenidos de las medidas de apremio y correcciones disciplinarias serán destinados al Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes.
+Los recursos obtenidos de las medidas de apremio y correcciones disciplinarias serán destinados al Instituto de Ciencia y Tecnología del Estado de Aguascalientes.
 
 ## TÍTULO CUARTO. DEL RECURSO DE APELACIÓN
 
@@ -6596,3 +6596,15 @@ P.O. 2 DE ENERO DE 2023.
 ###### ARTÍCULO SEGUNDO.
 
 – Se vincula a las autoridades electorales locales, Fiscalía Especializada en Delitos Electorales, Instituto Estatal Electoral y Tribunal Electoral, a que, en un plazo no mayor de 30 días naturales posteriores a la publicación del presente decreto, emitan los Lineamientos que regulen la Disculpa Pública que se deba ofrecer a las víctimas de Violencia Política de Género, en los términos que como expertos en la materia consideren oportunos.
+
+P.O. 26 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 369.- SE REFORMAN LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES, DEL ESTADO DE AGUASCALIENTES; Y EL CÓDIGO ELECTORAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
