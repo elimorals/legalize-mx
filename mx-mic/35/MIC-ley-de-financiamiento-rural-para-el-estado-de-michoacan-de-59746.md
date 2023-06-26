@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-financiamiento-rural-para-el-estado-de-michoacan-de-5974
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-12"
-last_updated: "2022-04-28"
+last_updated: "2023-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FINANCIAMIENTO RURAL PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 12 de febrero de 2008.
 
@@ -185,9 +185,11 @@ El Sistema Estatal propiciará las condiciones para prever los recursos necesari
 
 El Sistema Estatal tiene como objetivo coadyuvar en el establecimiento de las condiciones para que todos los proyectos sustentables de los micro, pequeños y medianos empresarios del sector rural del Estado de Michoacán cuenten con la posibilidad de tener acceso a formas de financiamiento suficiente.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2023)</small>
+
 ###### Artículo 8.
 
-Se Impulsará el desarrollo económico a través de un sistema integral que contribuya al fomento de la capitalización, la generación de oportunidades de empleo, mejoramiento del nivel de ingresos económicos y la calidad de vida de los michoacanos.
+Se impulsará el desarrollo económico a través de un sistema integral que contribuya al fomento de la capitalización, la generación de oportunidades de empleo, mejoramiento del nivel de ingresos económicos y la calidad de vida de las y los michoacanos, estableciendo políticas y programas públicos para el campo, que tengan como eje la perspectiva de género, la inclusión y la paridad.
 
 ###### Artículo 9.
 
@@ -556,3 +558,9 @@ P.O. 28 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 143.- ARTÍCULO PRIMERO. SE REFORMAN LOS ARTÍCULOS 10 Y 14 FRACCIÓN I, DE LA LEY DE FINANCIAMIENTO RURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO. SE REFORMAN LOS ARTÍCULOS 28 Y 29 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 376 POR EL QUE "SE REFORMA EL ARTÍCULO 8 DE LA LEY DE FINANCIAMIENTO RURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se instruye su publicación y observancia para su conocimiento general y efectos legales procedentes.
