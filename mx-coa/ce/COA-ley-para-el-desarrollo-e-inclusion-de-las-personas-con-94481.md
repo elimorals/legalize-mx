@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2023-05-23"
+last_updated: "2023-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -273,27 +273,21 @@ X. Impulsar la participación solidaria de la sociedad y la familia en la preser
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2015)</small>
 
-XI.- Establecer en coordinación con las autoridades municipales mecanismos de difusión y promoción de los derechos a que esta Ley, se refiere, a la vez que se establecerán los medios idóneos y convenientes que permitan identificar a las personas con discapacidad y faciliten su acceso a estas prerrogativas.
+XI. Establecer en coordinación con las autoridades municipales mecanismos de difusión y promoción de los derechos a que esta Ley, se refiere, a la vez que se establecerán los medios idóneos y convenientes que permitan identificar a las personas con discapacidad y faciliten su acceso a estas prerrogativas.
 
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA DE ZARAGOZA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(ADICIONADA (N. DE E. REFORMADA), P.O. 27 DE JUNIO DE 2023)
 
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+XII. Promover y celebrar consultas estrechas colaborando activamente con las personas con discapacidad incluidos los niños y las niñas con discapacidad, así como con las organizaciones que las representan, en la elaboración y aplicación de políticas, legislación y programas, con base en la presente Ley;
 
-XII.- PROMOVER LA CONSULTA Y PARTICIPACIÓN DE LAS PERSONAS CON DISCAPACIDAD, PERSONAS FÍSICAS O MORALES Y LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN LA ELABORACIÓN Y APLICACIÓN DE POLÍTICAS, LEGISLACIÓN Y PROGRAMAS, CON BASE EN LA PRESENTE LEY;
+(ADICIONADA (N. DE E. REFORMADA), P.O. 27 DE JUNIO DE 2023)
 
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA DE ZARAGOZA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+XIII. Fomentar la inclusión social de las personas con discapacidad, a través del ejercicio de sus derechos civiles, políticos, económicos, sociales, culturales y ambientales;
 
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+(ADICIONADA (N. DE E. REFORMADA), P.O. 27 DE JUNIO DE 2023)
 
-XIII.- FOMENTAR LA INTEGRACIÓN SOCIAL DE LAS PERSONAS CON DISCAPACIDAD, A TRAVÉS DEL EJERCICIO DE SUS DERECHOS CIVILES Y POLÍTICOS;
+XIV. Promover, proteger y asegurar el pleno ejercicio de los derechos fundamentales de las personas con discapacidad en condiciones equitativas; y
 
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA DE ZARAGOZA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
-
-XIV.- PROMOVER EL PLENO EJERCICIO DE LOS DERECHOS FUNDAMENTALES DE LAS PERSONAS CON DISCAPACIDAD EN CONDICIONES EQUITATIVAS; Y
-
-XV.- Las demás que otros ordenamientos le confieran.
+XV. Las demás que otros ordenamientos le confieran.
 
 ## Título Segundo. De los derechos y garantías para las personas con discapacidad
 
@@ -1414,3 +1408,9 @@ P.O. 23 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 463.- SE REFORMA EL ARTÍCULO 39 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+P.O. 27 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 479.- SE ADICIONAN LAS FRACCIONES XII, XIII Y XIV RECORRIÉNDOSE LA ULTERIOR A UNA FRACCIÓN XV, DEL ARTÍCULO 6 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
