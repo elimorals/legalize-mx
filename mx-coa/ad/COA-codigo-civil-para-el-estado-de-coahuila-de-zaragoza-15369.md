@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2021-08-03"
+last_updated: "2023-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -5069,29 +5069,23 @@ II. Los que habitual o accidentalmente no disfruten de su cabal juicio.
 
 Para juzgar de la capacidad del testador se atenderá al estado en que se halle al hacer el testamento.
 
-(NOTA: EL 7 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 295/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 748, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 782.
 
-Es válido el testamento hecho por una persona con discapacidad psicosocial en un intervalo de lucidez, con tal de que se observen las prescripciones establecidas en los artículos siguientes.
+Es válido el testamento hecho por una persona con discapacidad mental o psicosocial, con tal de que se observen las prescripciones establecidas en los artículos siguientes.
 
-(NOTA: EL 7 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 295/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 748, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 783.
 
-Siempre que una persona con discapacidad psicosocial pretenda hacer testamento en un intervalo de lucidez, el tutor y en defecto de este cualquier miembro de la familia de aquél, presentará por escrito una solicitud al juez que corresponda.
+Siempre que una persona con discapacidad mental o psicosocial pretenda hacer testamento, esta podrá presentar por escrito o de forma oral una solicitud al juez que corresponda a través del acompañamiento, asesoría y orientación por las personas que elija como apoyo.
 
-(NOTA: EL 7 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 295/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 748, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 784.
 
-El juez al recibir la solicitud mandará formar expediente y nombrará dos médicos alienistas, para que examinen a quien pretende hacer testamento y dictaminen acerca de su estado mental y su capacidad de testar válidamente.
+El juez al recibir la solicitud mandará formar expediente para examinar la solicitud de quien pretende hacer testamento y resuelva según la voluntad de la persona, asegurando los apoyos y salvaguardias como intermediarios y los ajustes de procedimiento.
 
 ###### ARTÍCULO 785.
 
@@ -21318,3 +21312,11 @@ P.O. 3 DE AGOSTO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 478.- SE REFORMAN LOS ARTÍCULOS 782, 783 Y 784 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
