@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2023-06-13"
+last_updated: "2023-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2023.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -139,9 +139,7 @@ II. Unidad de Información, Planeación, Programación y Evaluación;
 
 III. Unidad de Comunicación Social;
 
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
-
-IV. Unidad de Logística; y
+IV. (DEROGADA, G.G. 27 DE JUNIO DE 2023)
 
 V. (DEROGADA, G.G. 13 DE JUNIO DE 2023)
 
@@ -1163,61 +1161,9 @@ XXXV. Administrar en términos de las disposiciones aplicables, el registro de l
 
 XXXVI. Las demás que le confieran otras disposiciones jurídicas y aquellas que le encomiende el Titular del Órgano Interno de Control.
 
-> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2019)</small>
-
-Atribuciones de la Unidad de Ética y Prevención de la Corrupción
-
 ###### Artículo 25 Quinquies.
 
-Corresponde a la Unidad de Ética y Prevención de la Corrupción, a través de su titular, ejercer las atribuciones siguientes:
-
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
-
-I. Formular y proponer a la persona titular de la Unidad Jurídica y Consultiva los proyectos de lineamientos, políticas, programas, acciones y demás instrumentos de carácter general que coadyuven al cumplimiento e implementación de la política anticorrupción que aprueben los Comités Coordinadores del Sistema Nacional y Estatal Anticorrupción, en la Administración Pública Estatal;
-
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
-
-II. Analizar y en su caso, someter a la consideración de la persona titular de la Unidad Jurídica y Consultiva, propuestas de acciones que apoyen a prevenir, detectar y disuadir probables faltas administrativas y hechos de corrupción en la Comisión;
-
-III. Requerir información y documentación a las unidades administrativas de la Comisión, con el objeto de generar diagnósticos en materia anticorrupción;
-
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
-
-IV. Formular y proponer a la persona titular de la Unidad Jurídica y Consultiva, los proyectos de políticas, lineamientos, criterios, indicadores, estrategias y demás instrumentos de carácter general, para establecer acciones en materia de ética, reglas de integridad, prevención, así como de disuasión de faltas administrativas, hechos de corrupción y prevención de conflictos de intereses;
-
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
-
-V. Elaborar y proponer a la persona titular de la Unidad Jurídica y Consultiva el Código de Ética de los servidores públicos de la Comisión, las Reglas de Integridad para el ejercicio del empleo, cargo, comisión o función, así como lineamientos generales y en su caso, sus modificaciones, para propiciar la integridad de las personas servidoras públicas, difundir su contenido y verificar su cumplimiento;
-
-VI. Emitir observaciones y recomendaciones de carácter general, a fin de prevenir hechos de corrupción y conflictos de intereses en el ejercicio del servicio público;
-
-VII. Coordinar y verificar la creación, instalación, organización y funcionamiento del Comité de Ética y de Prevención de Conflictos de Intereses de la Comisión;
-
-VIII. Recabar, analizar y evaluar la información para la elaboración de los diagnósticos que realice en materia de ética, integridad pública, prevención de la corrupción y de conflictos de intereses en la Comisión;
-
-IX. Coordinar, registrar y dar seguimiento a las observaciones y recomendaciones emitidas por el Comité de Ética y de Prevención de Conflictos de Intereses de la Comisión; así como crear con base en las mismas un sistema de criterios que sirvan como precedentes aplicables en las materias de ética, integridad pública y prevención de hechos de corrupción;
-
-X. Diseñar, promover y llevar a cabo programas de difusión, capacitación y sensibilización en materia de ética, integridad pública, prevención de hechos de corrupción, y de conflictos de intereses;
-
-XI. Recibir y atender las denuncias sobre la conducta de los servidores públicos, fundadas y motivadas en los Códigos de Ética y Conducta y en las Reglas de Integridad;
-
-XII. Diseñar y desarrollar, en el ámbito de su competencia, mecanismos conciliatorios y aplicarlos en la resolución de denuncias en materia de ética;
-
-XIII. Fomentar y fortalecer los mecanismos que ayuden a estimular la participación de la sociedad civil y de las organizaciones gubernamentales y no gubernamentales en los esfuerzos destinados a prevenir la corrupción;
-
-XIV. Realizar diagnósticos respecto de las denuncias sobre las conductas de los servidores públicos en materia de ética e integridad pública, para dar a conocer el resultado a la autoridad competente;
-
-XV. Fungir como órgano de consulta y asesoría especializada en materia de ética, integridad pública, prevención de hechos de corrupción y de conflictos de intereses;
-
-XVI. Administrar y operar el sistema informático con el que se da seguimiento a las actividades relativas al Comité de Ética y de Prevención de Conflictos de Intereses de la Comisión;
-
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
-
-XVII. Informar con las constancias correspondientes, a la persona titular de la Unidad Jurídica y Consultiva sobre las probables faltas administrativas que tenga conocimiento en el ejercicio de sus atribuciones, para que éste a su vez las remita al Órgano Interno de Control; y
-
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
-
-XVIII. Las demás que le confieran otras regulaciones y aquellas que le encomiende la persona titular de la Unidad Jurídica y Consultiva.
+(DEROGADO, G.G. 27 DE JUNIO DE 2023)
 
 > <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2019)</small>
 
@@ -1253,13 +1199,79 @@ VIII. Expedir copias certificadas de los documentos relacionados con los asuntos
 
 IX. Publicar en la Gaceta de Derechos Humanos los acuerdos y normas, así como las Recomendaciones y Resoluciones de no Responsabilidad que emita el Organismo y los asuntos relevantes para el cumplimiento de sus objetivos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+X. (DEROGADA, G.G. 27 DE JUNIO DE 2023)
 
-X. Coordinar a la Unidad de Ética y Prevención de la Corrupción; y
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA Y REUBICADA, G.G. 11 DE MARZO DE 2022)</small>
+XI. Formular los proyectos de lineamientos, políticas, programas, acciones y demás instrumentos de carácter general que coadyuven al cumplimiento e implementación de la política anticorrupción que aprueben los Comités Coordinadores del Sistema Nacional y Estatal Anticorrupción, en la Administración Pública Estatal;
 
-XI. Las demás que le confieren otras regulaciones y aquellas que le encomiende la Presidencia.
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XII. Analizar propuestas de acciones que apoyen a prevenir, detectar y disuadir probables faltas administrativas y hechos de corrupción en la Comisión;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XIII. Requerir información y documentación a las unidades administrativas de la Comisión, con el objeto de generar diagnósticos en materia anticorrupción;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XIV. Formular proyectos de políticas, lineamientos, criterios, indicadores, estrategias y demás instrumentos de carácter general, para establecer acciones en materia de ética, reglas de integridad, prevención, así como de disuasión de faltas administrativas, hechos de corrupción y prevención de conflictos de intereses;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XV. Elaborar y, en su caso, actualizar el Código de Ética de los servidores públicos de la Comisión, las Reglas de Integridad para el ejercicio del empleo, cargo, comisión o función, así como lineamientos generales, para propiciar la integridad de las personas servidoras públicas, difundir su contenido y verificar su cumplimiento;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XVI. Emitir observaciones y recomendaciones de carácter general al interior de la Comisión, a fin de prevenir hechos de corrupción y conflictos de intereses en el ejercicio del servicio público;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XVII. Coordinar y verificar la creación, instalación, organización y funcionamiento del Comité de Ética y de Prevención de Conflictos de Intereses de la Comisión;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XVIII. Recabar, analizar y evaluar la información para la elaboración de los diagnósticos que realice en materia de ética, integridad pública, prevención de la corrupción y de conflictos de intereses en la Comisión;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XIX. Coordinar, registrar y dar seguimiento a las observaciones y recomendaciones emitidas por el Comité de Ética y de Prevención de Conflictos de Intereses de la Comisión; así como crear con base en las mismas un sistema de criterios que sirvan como precedentes aplicables en las materias de ética, integridad pública y prevención de hechos de corrupción;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XX. Diseñar, promover y llevar a cabo programas de difusión, capacitación y sensibilización en materia de ética, integridad pública, prevención de hechos de corrupción, y de conflictos de intereses;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XXI. Recibir y atender las denuncias sobre la conducta de los servidores públicos, fundadas y motivadas en los Códigos de Ética y Conducta y en las Reglas de Integridad;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XXII. Diseñar y desarrollar mecanismos conciliatorios en materia de ética;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XXIII. Fomentar y fortalecer los mecanismos que ayuden a estimular la participación de la sociedad civil y de las organizaciones gubernamentales y no gubernamentales en los esfuerzos destinados a prevenir la corrupción;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XXIV. Realizar diagnósticos respecto de las denuncias sobre las conductas de los servidores públicos en materia de ética e integridad pública, para dar a conocer el resultado a la autoridad competente;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XXV. Fungir como órgano de consulta y asesoría especializada en materia de ética, integridad pública, prevención de hechos de corrupción y de conflictos de intereses;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XXVI. Administrar y operar el sistema informático con el que se da seguimiento a las actividades relativas al Comité de Ética y de Prevención de Conflictos de Intereses de la Comisión;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2023)</small>
+
+XXVII. Remitir al Órgano Interno de Control las constancias correspondientes sobre probables faltas administrativas que tenga conocimiento en el ejercicio de sus atribuciones; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XI], G.G. 27 DE JUNIO DE 2023)
+
+XXVIII. Las demás que le confieren otras regulaciones y aquellas que le encomiende la Presidencia.
 
 Atribuciones de la Unidad de Información, Planeación, Programación y Evaluación
 
@@ -2535,13 +2547,15 @@ SEGUNDO. Se instruye al Secretario Técnico de este Consejo, comunicar lo aproba
 
 TERCERO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VIII BIS AL ARTÍCULO 89 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+G.G. 27 DE JUNIO DE 2023.
 
-PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CODHEM/CC/06/2023/16 POR EL QUE SE REFORMA EL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+PRIMERO. Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
 
-G.O. 12 DE DICIEMBRE DE 2022.
+SEGUNDO. Se instruye al Secretario Técnico de este Consejo, comunicar lo aprobado en el presente Acuerdo a las áreas administrativas de este Organismo para que, en el ámbito de sus atribuciones, realicen las acciones necesarias para la correcta operación y debido cumplimiento de las metas programadas en el Plan Anual de Trabajo 2023 de las unidades prescindidas; así como para los ajustes administrativos correspondientes y adecuación del Organigrama autorizado.
+
+TERCERO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN IX DEL ARTÍCULO 47 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES (SIC) LA CIUDAD DE MÉXICO”.]
 
