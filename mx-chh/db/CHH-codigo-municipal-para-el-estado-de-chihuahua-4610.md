@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2021-10-23"
+last_updated: "2023-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2023.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -975,11 +975,11 @@ LIV.- Las demás que le confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2023)</small>
 
 ###### ARTICULO 29.
 
-La o el Presidente Municipal tendrá las siguientes facultades y obligaciones:
+La persona titular de la Presidencia Municipal tendrá las siguientes facultades y obligaciones:
 
 I.- Presidir las sesiones del Ayuntamiento, con voz y voto y convocar al Ayuntamiento a sesiones extraordinarias;
 
@@ -1195,9 +1195,15 @@ VI.- De Igualdad de Género.
 
 VII.- De Desarrollo Rural.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2023)</small>
 
-VIII. Además, aquellas otras que determine el Ayuntamiento, de acuerdo a las necesidades del municipio.
+VIII.- De Derechos de Niñas, Niños y Adolescentes.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE JUNIO DE 2023)</small>
+
+IX.- Además, aquellas otras que determine el Ayuntamiento, de acuerdo con las necesidades del municipio, tales como:
+
+A) De Movilidad Sustentable y Seguridad Vial.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -1868,6 +1874,10 @@ XI.- Dirección de Educación y Cultura.
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
 XII.- Administración de la Ciudad, tratándose de aquellos municipios que cuentan con una población igual o mayor a cien mil habitantes.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2023)</small>
+
+En el nombramiento en todos los niveles de mando de las personas titulares de las dependencias y entidades de la Administración Pública Municipal, organismos descentralizados, y empresas de participación municipal, se observará el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -5740,3 +5750,23 @@ P.O. 23 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVI/RFCOD/1065/2021 XIV P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLYC/0543/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que reforma el artículo 24 de la Ley Orgánica de (sic) Poder Ejecutivo del Estado de Chihuahua, entrará en vigor el 8 de septiembre de 2027, siendo aplicable para los nombramientos que se realicen con posterioridad a su entrada en vigor, respetando los derechos laborales de las personas servidoras públicas nombradas previamente a esta.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto que reforma los artículos 29 y 60 del Código Municipal para el Estado de Chihuahua, entrará en vigor el 10 de septiembre de 2024, siendo aplicable para los nombramientos que se realicen con posterioridad a su entrada en vigor, respetando los derechos laborales de las personas servidoras públicas nombradas previamente a esta.
+
+P.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFCOD/0561/2023 II P.O., MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 31 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
