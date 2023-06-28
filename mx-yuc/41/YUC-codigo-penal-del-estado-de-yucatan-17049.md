@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2023-04-21"
+last_updated: "2023-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -1735,6 +1735,10 @@ Para los efectos de este Código, se consideran vías de comunicación las de tr
 
 Se impondrá prisión de seis meses a cuatro años al que dolosamente quite, corte, inutilice, apague, cambie o destruya, las señales o luces de seguridad de una vía de comunicación o coloque alguna no autorizada, por autoridad competente.
 
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2013)</small>
+
+Se castigará con la misma sanción cuando el resultado del acto dañe, altere, destruya o modifique alguna vía, señalización, aparato, tecnología, instalación o mobiliario de infraestructura vial destinada a la prestación del servicio de transporte público de pasajeros.
+
 ###### ARTÍCULO 168.
 
 Se impondrá de uno a cinco años de prisión y de cuarenta a quinientos días-multa, a quien por cualquier medio, dentro o fuera de las poblaciones, obstaculice, dañe, altere o destruya alguna vía de comunicación o sus instalaciones accesorias, retenga vehículos de transporte o interrumpa su servicio. Si fuere el propio conductor, el concesionario o empleado del servicio, será además separado de su puesto y perderá el trabajo o concesión en su caso y quedará inhabilitado por un plazo mínimo de un año para desempeñar o disfrutar el empleo o concesión respectivas.
@@ -1744,6 +1748,12 @@ Se impondrá de uno a cinco años de prisión y de cuarenta a quinientos días-m
 La destrucción de los medios de transporte por quienes los hayan retenido o sus copartícipes, será sancionada con prisión de dos a doce años y de cien a quinientos días-multa.
 
 Si la ejecución de este hecho y de los que se mencionan en las disposiciones anteriores se realiza por medio de explosivos o materiales incendiarios o si el medio de transporte retenido se hallare ocupado por una o más personas, las sanciones mencionadas en el párrafo anterior se aumentarán hasta en una mitad más de su duración, sin perjuicio de las que correspondan por otros delitos cometidos.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2013)</small>
+
+###### ARTÍCULO 169 Bis.
+
+A quien de manera dolosa, por cualquier medio dañe, altere, inutilice o destruya un vehículo de motor destinado a la prestación del servicio de transporte público de pasajeros se le impondrá de seis meses a seis años de prisión y multa de cien a quinientas veces la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 170.
 
@@ -4845,6 +4855,10 @@ Quien intente dolosamente privar de la vida a una mujer por las razones de géne
 
 Igualmente se considerará como tentativa de feminicidio a quien teniendo la intención de privar de la vida a una mujer embarazada, provoque el nacimiento prematuro del producto, alteraciones a su salud, ya sea de forma temporal o permanente; o su muerte.
 
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+La tentativa de delito de feminicidio se sancionará con pena de prisión de entre la mitad de la mínima y las dos terceras partes de la máxima de las sanciones previstas para el correspondiente delito consumado; además respecto de la sanción pecuniaria se estará conforme a lo dispuesto en el Capítulo IV del Título IV del Libro Primero de este Código.
+
 > <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
 
 Las autoridades investigadoras competentes, cuando se encuentren ante un probable delito de feminicidio deberán aplicar el protocolo correspondiente a dicho delito; en caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
@@ -5896,3 +5910,17 @@ D.O. 21 DE ABRIL DE 2023.
 Artículo único. Entrada en vigor
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 651/2023 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE FEMINICIDIO EN GRADO DE TENTATIVA".]
+
+Entrada en vigor
+
+Artículo único. Este decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE JUNIO DE 2013.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 654/2023 POR EL QUE SE REFORMA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE DELITOS CONTRA EL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS”.]
+
+Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
