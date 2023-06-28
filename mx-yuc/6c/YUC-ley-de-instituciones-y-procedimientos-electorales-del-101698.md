@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-101698"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2022-08-10"
+last_updated: "2023-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -78,6 +78,10 @@ I. Congreso: El Congreso del Estado de Yucatán.
 II. Constitución: La Constitución Política del Estado de Yucatán.
 
 III. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADA, D.O. 28 DE JUNIO DE 2023)</small>
+
+III Bis. Gobierno de coalición: Es el acuerdo entre dos o más partidos políticos para la conformación de la administración pública estatal o municipal, regulado por convenio, en los términos establecidos en la constitución local y esta ley.
 
 IV. Instituto: El Instituto Electoral y de Participación Ciudadana de Yucatán.
 
@@ -143,11 +147,11 @@ El Instituto, en el ámbito de sus atribuciones, dispondrá lo necesario para as
 
 ### CAPÍTULO I. De la integración
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2023)</small>
 
 ###### Artículo 7.
 
-El ejercicio del Poder Legislativo se deposita en el Congreso, que se integra con 15 diputadas y diputados electos por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales y 10 diputadas y diputados electos por el sistema de representación proporcional.
+El ejercicio del Poder Legislativo se deposita en el Congreso, que se integra con 21 diputadas y diputados electos por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales y 14 diputadas y diputados electos por el sistema de representación proporcional.
 
 > <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
@@ -734,6 +738,10 @@ I. No tener antecedentes penales por violencia familiar, delitos contra la intim
 > <small>(ADICIONADA, D.O. 7 DE JUNIO DE 2022)</small>
 
 II. No ser deudor alimentario moroso.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+Cuando se trate de un gobierno de coalición estatal o municipal se presentará adicionalmente el convenio marco, la agenda y el programa de gobierno en común en términos del Capítulo III Bis del Título Segundo de esta ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 7 DE JUNIO DE 2022)</small>
 
@@ -1467,6 +1475,10 @@ Para la preparación del proceso electoral, el Consejo General del Instituto se 
 
 Para que el Consejo General del Instituto pueda sesionar, es necesaria la presencia de 4 de sus integrantes con derecho a voz y voto, entre los que deberá estar la o el consejero presidente.
 
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+En el caso de que la o el Consejero Presidente se ausente justificadamente de forma momentánea de la sesión, éste deberá designar a la o el Consejero del Consejo General, con derecho a voz y voto, que presidirá la sesión hasta su reincorporación.
+
 De no concurrir la mayoría prevista en el párrafo anterior, el consejero presidente hará nueva convocatoria, para celebrar la sesión dentro de las 24 horas siguientes, hasta en tanto se presentaren los ausentes; salvo que las ausencias sean por causa justificada.
 
 ###### Artículo 118.
@@ -1589,23 +1601,25 @@ XXV. Registrar a las candidaturas independientes que se postulen para las distin
 
 XXVI. Registrar supletoriamente los nombramientos de representantes generales y de representantes de partidos políticos, coaliciones o candidaturas independientes ante las mesas directivas de cada casilla. Esta facultad se aplicará cuando la función de la integración de la mesa directiva de casilla le sea delegada por el Instituto Nacional Electoral o por autoridad competente;
 
-> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE JUNIO DE 2023)</small>
 
-XXVII. Habilitar coordinadores y coordinadoras distritales en el mes de diciembre del año previo al de la elección para mantener el vínculo permanente entre los consejos distritales y municipales con el Consejo General del Instituto, mismos que serán asignados o asignadas acorde a la dimensión territorial correspondiente.
+XXVII. Designar coordinadores y coordinadoras distritales en el mes de diciembre del año previo al de la elección para mantener el vínculo permanente entre los consejos distritales y municipales con el Consejo General del Instituto, mismos que serán asignados o asignadas acorde a la dimensión territorial correspondiente; y en su caso, decidir sobre su remoción en los términos establecidos en la presente Ley.
 
 Sus funciones serán de apoyo a las actividades de los consejos distritales y municipales electorales, de comunicación entre éstos y el Consejo General del Instituto, de auxilio en la entrega de los materiales electorales y las demás que expresamente le ordene este último.
 
-Los coordinadores o coordinadoras deberán ser funcionarios del Instituto, con experiencia en al menos un proceso electoral y preferentemente funcionarios del servicio profesional electoral nacional.
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 23 DE JULIO DE 2020)</small>
+Las o los coordinadores deberán contar con experiencia en al menos un proceso electoral y, prefiriéndose a los servidores públicos del Instituto.
 
-XXVIII. Designar a las consejeras y los consejeros electorales, propietarios y suplentes, de los consejos distritales y municipales.
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2023)</small>
 
-Los partidos políticos podrán objetar fundadamente las propuestas por medio de sus representantes acreditados, obligándose el Consejo General del Instituto a recibir y responder a las objeciones;
+XXVIII. Designar y, en su caso, remover por causas graves, a las consejeras y los consejeros electorales, propietarios y suplentes, de los consejos distritales y municipales.
 
-> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
+En el proceso de designación los partidos políticos podrán objetar fundadamente las propuestas por medio de sus representantes acreditados, obligándose el Consejo General del Instituto a recibir, dar trámite y responder a las objeciones;
 
-XXIX. Designar a las secretarias y los secretarios ejecutivos a más tardar el 15 de diciembre del año previo al de la elección. Los partidos políticos podrán objetar fundadamente las propuestas, por medio de sus representantes acreditados, obligándose el Consejo General del Instituto a recibir, dar trámite y responder sobre la procedencia de las citadas objeciones; electoral y los demás asuntos de su competencia;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2023)</small>
+
+XXIX. Designar a las secretarias y los secretarios ejecutivos a más tardar el 15 de diciembre del año previo al de la elección y en su caso, removerlos en los términos previstos en esta Ley. Los partidos políticos podrán objetar fundadamente las propuestas, por medio de sus representantes acreditados, obligándose el Consejo General del Instituto a recibir, dar trámite y responder sobre la procedencia de las citadas objeciones; electoral y los demás asuntos de su competencia;
 
 XXX. Remitir a los consejos distritales electorales la cartografía, el proyecto de ubicación de casillas, cuando le corresponda, y las listas nominales de electores;
 
@@ -1723,13 +1737,35 @@ El acuerdo de aprobación de la implementación total o parcial del sistema elec
 
 El Instituto podrá convenir con el Instituto Nacional Electoral para que se haga cargo de la organización de los procesos electorales locales. La propuesta para la celebración del convenio correspondiente, deberá ser aprobada por las dos terceras partes de los Consejeros del Instituto, a más tardar 90 días antes del inicio del proceso electoral.
 
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 123 Bis.
+
+Se consideran causas de remoción de Consejeras y Consejeros Electorales, así como de las y los Secretarios de los Consejos Distritales y Municipales, las siguientes:
+
+I. Realizar conductas que atenten contra la independencia e imparcialidad de la función electoral, en ejercicio de sus funciones.
+
+II. Tener notoria negligencia, ineptitud o descuido en el desempeño de las funciones o labores que deban realizar.
+
+III. Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos.
+
+IV. Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones generales correspondientes.
+
+V. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento y no haberse excusado del mismo.
+
+VI. Dejar de desempeñar injustificadamente las funciones o las labores que tenga a su cargo.
+
+VII. Violar de manera grave o reiterada las reglas, lineamientos, criterios y formatos que emita el Instituto.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2020)</small>
 
 ###### Artículo 124.
 
 Son facultades de la o el consejero presidente:
 
-I. Representar legalmente al Consejo General y al Instituto;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2023)</small>
+
+I. Representar legalmente al Consejo General y al Instituto; ante toda clase de autoridades incluyendo las tradicionales, tribunales y organismos públicos de los tres órdenes de gobierno, así como para ejercer las más amplias facultades de administración, representación, ejecución y pleitos y cobranzas, con todas las facultades que requieran cláusula especial conforme a la Ley, así como para otorgar poderes especiales.
 
 II. Suscribir los convenios a que se refiere la fracción IV del artículo anterior;
 
@@ -2139,7 +2175,9 @@ VI. Apoyar a la o el Secretario Ejecutivo en la sustanciación de los medios de 
 
 VII. Solicitar a las diferentes áreas del Instituto, la información necesaria para la integración de los expedientes que sean materia de litigio o de trámite administrativo;
 
-VIII. Representar legalmente al Instituto cuando le sea delegada la facultad por el Consejo General;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2023)</small>
+
+VIII. Representar legalmente al Instituto cuando le sea delegada la facultad por el Consejo General; ante toda clase de autoridades incluyendo las tradicionales, tribunales y ante organismos públicos de los tres órdenes de gobierno, así como para ejercer las más amplias facultades de administración, representación, ejecución y pleitos y cobranzas, con todas las facultades que requieran cláusula especial conforme a la Ley.
 
 IX. Coadyuvar en el manejo y control del archivo de documentación derivado de las sesiones del Consejo General y de la Junta;
 
@@ -2523,11 +2561,193 @@ En todo caso, la Unidad Técnica de Fiscalización deberá ajustar su proceder a
 
 La Unidad Técnica de Fiscalización podrá requerir a los particulares, personas físicas y morales, le proporcionen la Información y documentación necesaria para el cumplimiento de sus atribuciones, quienes deberán atender el requerimiento en un plazo de 5 días máximo.
 
-### CAPÍTULO I. De los consejos distritales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO X. De la defensoría pública de los derechos políticos-electorales
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 152 Bis.
+
+La defensoría pública en derechos políticos-electorales, es el órgano desconcentrado del Instituto, con autonomía técnica y de gestión, cuyo objeto es otorgar gratuitamente servicios de defensa y asesoría en materia electoral, a petición de parte, a las personas que pertenezcan a grupos en situación de vulnerabilidad o desventaja histórica, así como a otras que lo justifiquen al solicitar el servicio.
+
+La actuación de la defensoría así como la de sus servidoras y servidores públicos deberá ser llevada con perspectiva de género y se apegará a los principios de honestidad, honradez, imparcialidad, legalidad, objetividad, racionalidad, rendición de cuentas y transparencia.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 152 Ter.
+
+La defensoría se integrará con las y los servidores públicos siguientes:
+
+I. El Titular: que será nombrado por el Consejo General del Instituto a propuesta de organizaciones y asociaciones civiles o académicas; de preferencia reconocidas en la defensa y promoción de derechos político-electorales, así como en la protección de grupos en situación de vulnerabilidad o desventaja histórica, de conformidad con las bases y convocatorias establecidas por el Consejo General del Instituto y durará en su encargo cuatro años, con la posibilidad de ser ratificado en una sola ocasión por un período igual, previo acuerdo del Consejo General.
+
+La designación se hará sobre la persona que, además de cumplir con los requisitos señalados en el artículo 152 Quáter de esta ley, acredite satisfactoriamente los exámenes de ingreso y los cursos que al efecto se implementen, de conformidad con las bases establecidas por acuerdo del Consejo General del Instituto.
+
+II. Las Defensoras y Defensores: Serán nombrados por la Comisión de Denuncias y Quejas, de entre las y los aspirantes que obtengan los mejores resultados en los exámenes de ingreso y los concursos de oposición que al efecto se realicen, de conformidad con las bases y convocatorias establecidas por el Consejo General del Instituto.
+
+La designación de defensora o defensor se hará sobre las personas que, además de satisfacer lo señalado en el párrafo anterior, cumplan los requisitos establecidos en el artículo 152 Quinques de esta ley.
+
+Su selección, ingreso, adscripción, permanencia, promoción, capacitación, profesionalización, evaluación, prestaciones, estímulos y disciplina se regirán por lo establecido en esta ley y demás disposiciones normativas aplicables.
+
+La defensoría deberá garantizar la contratación de personal jurídico maya hablante.
+
+III. El personal administrativo y de apoyo: La defensoría contará con el personal necesario para el adecuado desempeño de sus funciones, de conformidad con el presupuesto de egresos autorizado.
+
+La integración de la defensoría se orientará por el principio de paridad de género.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 152 Quáter.
+
+Para ser titular de la defensoría se requiere:
+
+I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles.
+
+II. Contar con credencial para votar.
+
+III. No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
+
+IV. No ser deudor alimentario moroso.
+
+V. Acreditar experiencia para el desempeño de las actividades propias del cargo, tales como constancias o títulos de especialización, diplomados, cursos o actualizaciones en materia electoral.
+
+VI. Contar con título y cédula profesionales de Licenciatura en Derecho, expedidos legalmente con una antigüedad de tres años y tener, preferentemente, grado académico de especialista, maestría o doctorado en área afín a los derechos humanos.
+
+VII. No desempeñar ni haber desempeñado el cargo de dirigente de un partido o agrupación políticos en los tres años inmediatos anteriores a la designación.
+
+VIII. No haber ocupado un cargo de elección popular, ni haber sido registrado como candidata o candidato para ello, en los últimos tres años.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+Artículo 152 Quinques. Para ser defensora o defensor se requiere, además de los requisitos señalados en las fracciones I, II, III, IV, VII y VIII, del artículo anterior, contar con título y cédula profesionales de licenciatura en Derecho expedidos legalmente con una antigüedad mínima de un año, acreditar experiencia en materia electoral, y tener preferentemente experiencia para el desempeño de las actividades propias del cargo, tales como constancias o títulos de especialización, diplomados, cursos o actualizaciones en materia de derechos humanos.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 152 Sexies.
+
+El personal administrativo y de apoyo que pertenezca a la defensoría, deberá contar con los requisitos del puesto que les corresponda, de conformidad con el Catálogo de Puestos aprobado por la Comisión de Denuncias y Quejas, sin perjuicio de las disposiciones específicas que se emitan.
+
+La persona titular así como las defensoras y los defensores serán considerados servidores públicos de confianza.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 152 Septies.
+
+La defensoría tendrá las funciones siguientes:
+
+I. Proporcionar servicios de defensa y asesoría en materia de derechos políticos-electorales de personas o grupos en situación de vulnerabilidad o desventaja histórica, en el ámbito de su competencia.
+
+II. Procurar, en el ámbito de su competencia, el respeto, la protección y la promoción del ejercicio de los derechos político-electorales de las personas o grupos en situación de vulnerabilidad o desventaja histórica.
+
+III. Orientar a las personas o grupos en situación de vulnerabilidad o desventaja histórica, sobre la naturaleza, contenido y alcances de sus derechos político-electorales.
+
+IV. Las demás que determine la Comisión de Denuncias y Quejas, y la normativa aplicable.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 152 Octies.
+
+La persona titular de la defensoría tendrá las facultades siguientes:
+
+I. Administrar, coordinar, vigilar y dar seguimiento a los asuntos y servicios de la defensoría.
+
+II. Diseñar e implementar, en conjunto con la Comisión de Denuncias y Quejas, el programa anual de difusión de los servicios.
+
+III. Elaborar y difundir, con el apoyo la Comisión de Denuncias y Quejas, estudios y documentos que brinden a las personas o grupos en situación de vulnerabilidad o desventaja histórica, información sobre sus derechos político-electorales.
+
+IV. Emitir dictámenes fundados y motivados en los que se justifique la prestación o no de los servicios.
+
+V. Emitir opiniones sobre los temas que se le formulen en el ámbito de su competencia.
+
+VI. Implementar programas de formación, capacitación y sensibilización dirigidos al personal de la defensoría.
+
+VII. Organizar y participar en foros académicos, conferencias, seminarios y reuniones, con la finalidad de promover la difusión, el desarrollo y la defensa de los derechos político-electorales de las personas o grupos en situación de vulnerabilidad o desventaja histórica.
+
+VIII. Organizar, controlar y dirigir los servicios que presta la defensoría.
+
+IX. Promover y gestionar la celebración de convenios con instituciones públicas, sociales y privadas, que puedan contribuir al correcto cumplimiento de las funciones de la defensoría.
+
+X. Proponer ante las instancias competentes la creación o modificación de acuerdos generales u otros instrumentos normativos relacionados con las atribuciones de la defensoría.
+
+XI. Proponer a la Comisión de Denuncias y Quejas las medidas que estime convenientes para lograr el cumplimiento y mejoramiento de las funciones de la defensoría.
+
+XII. Realizar visitas y convocar a encuentros periódicos, con las personas o grupos en situación de vulnerabilidad o desventaja histórica, para llevar a cabo análisis y diagnósticos sobre la situación que impera en relación al respeto de sus derechos político-electorales, previa autorización de la Comisión de Denuncias y Quejas.
+
+XIII. Rendir informes semestrales sobre el funcionamiento, resultados y servicios que presta la defensoría, mismos que coadyuvarán a la integración de la base de datos.
+
+XIV. Las demás que le confieran las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 152 Nonies.
+
+Las defensoras y los defensores tendrán las facultades siguientes:
+
+I. Apoyar a la persona titular de la defensoría en el ejercicio de sus facultades.
+
+II. Atender con respeto a las representadas y asesoradas.
+
+III. Elaborar dictámenes fundados y motivados que justifiquen la prestación o no de los servicios.
+
+IV. Evitar en todo momento la indefensión de sus representadas y la desinformación de sus asesoradas.
+
+V. Llevar a cabo un registro y formar un expediente de control de todos los procedimientos o asuntos en los que intervengan, desde que se le turnen hasta que concluya su intervención, conforme a los lineamientos que determine la Comisión de Denuncias y Quejas.
+
+VI. Presentar, promover e interponer ante la autoridad competente, promociones, medios de impugnación y recursos necesarios para defender y salvaguardar los derechos político-electorales de las personas o grupos en situación de vulnerabilidad o desventaja histórica.
+
+VII. Proporcionar personalmente defensa y asesoría en materia electoral a las personas o grupos en situación de vulnerabilidad o desventaja histórica que lo soliciten, según lo exija la naturaleza del asunto de que se trate.
+
+VIII. Requerir y allegarse de todos los documentos y elementos necesarios para ejercer debidamente sus atribuciones y defender eficazmente los derechos político-electorales de los ciudadanos que asesoren y/o representen.
+
+IX. Vigilar el respeto a los derechos humanos de sus representadas y asesoradas.
+
+X. Las demás que se deriven de la naturaleza de sus atribuciones, de las disposiciones aplicables y las que le instruya el titular de la defensoría.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 152 Decies.
+
+Las defensoras y los defensores prestarán indistintamente los servicios, perfectamente distinguibles por su naturaleza jurídica conforme a lo siguiente:
+
+I. Defensa electoral: El cual consiste en la procuración, representación y/o mandato de defensa de los derechos político-electorales de las personas o grupos en situación de vulnerabilidad o desventaja histórica que asesoren y/o representen, ante la autoridad competente.
+
+II. Asesoría electoral: El cual consiste en la orientación, guía o instrucción técnica sobre la naturaleza, contenido y alcances de los derechos político-electorales constitucionales, convencionales y legales, establecidos en favor de las personas o grupos en situación de vulnerabilidad o desventaja histórica.
+
+La prestación de los servicios deberá ser equitativa entre las defensoras y los defensores por medio del sistema de turno que al efecto se establezca.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+Artículo 152 Undecies. La defensoría se abstendrá de intervenir en los supuestos siguientes:
+
+I. Cuando los servicios se estén prestando por institución pública o privada distinta a la defensoría en forma gratuita.
+
+II. Cuando los servicios ya se estén prestando a otros sujetos que tengan intereses contrarios al peticionario en el mismo asunto.
+
+III. Cuando los servicios sean solicitados por autoridades responsables.
+
+IV. Cuando el solicitante cuente con representación legal al momento de solicitar los servicios.
+
+V. Cuando el asunto no corresponda al objeto de la defensoría.
+
+En todo caso, la abstención de actuar de la defensoría deberá sustentarse plenamente en un dictamen fundado y motivado, propuesto por la defensora o el defensor correspondiente y aprobado por el titular.
+
+Artículo 152 Duodecies. A la persona titular y a las defensoras y los defensores, les está prohibido:
+
+I. Desempeñar otro empleo, cargo o comisión remunerados en alguno de los tres órdenes de gobierno, salvo el desempeño de actividades docentes y de investigación.
+
+II. Conocer de asuntos en materia de defensa o asesoría electorales cuando estén impedidos para ello.
+
+III. Actuar o ejercer cualquier otra actividad cuando ésta sea incompatible con sus funciones al implicar conflicto de intereses.
+
+IV. Las demás que deriven de la naturaleza de sus atribuciones o de las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+Artículo 152 Terdecies. La Comisión de Denuncias y Quejas, tendrá atribuciones sobre la defensoría para observar y aprobar sus lineamientos, peritos colaboradores, programas de trabajo, acuerdos y disposiciones de su estructura y del personal que la integre, además de velar por su autonomía y correcto funcionamiento, así como la creación, registro, integración y actualización de la base de datos correspondiente a toda la información y estadística derivada del funcionamiento de la defensoría, en apego a lo que, para el efecto, establece la ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado, y la Ley de Acceso a la Información Pública para Estado de Yucatán.
 
 ## TÍTULO SEGUNDO. DE LOS DEMÁS ÓRGANOS DEL INSTITUTO
 
-### CAPÍTULO II. De los consejos municipales
+### CAPÍTULO I. De los consejos distritales
 
 ###### Artículo 153.
 
@@ -2799,7 +3019,7 @@ IX. Certificar las copias de los documentos originales que les presente, únicam
 
 X. Las demás que le confiera esta Ley y lo que acuerde el Consejo General del Instituto.
 
-### CAPÍTULO III. De las mesas directivas de casilla
+### CAPÍTULO II. De los consejos municipales
 
 ###### Artículo 162.
 
@@ -3017,9 +3237,7 @@ IX. Certificar las copias de los documentos originales que les presente, únicam
 
 X. Las demás que le confiera esta Ley, y lo que acuerde el Consejo General del Instituto.
 
-### CAPÍTULO IV. Disposiciones comunes
-
-> <small>(REFORMADO, D.O. 23 DE JULIO DE 2020)</small>
+### CAPÍTULO III. De las mesas directivas de casilla
 
 ###### Artículo 171.
 
@@ -3129,7 +3347,7 @@ III. Auxiliar al presidente y al secretario de la casilla en sus funciones, y
 
 IV. Las demás que les confiere esta Ley.
 
-### CAPÍTULO I. Del proceso electoral
+### CAPÍTULO IV. Disposiciones comunes
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2020)</small>
 
@@ -3221,7 +3439,9 @@ Las secretarias y los secretarios ejecutivos deberán notificar a las y los inte
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO II. De los debates
+### CAPÍTULO I. Del proceso electoral
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2020)</small>
 
 ###### Artículo 187.
 
@@ -3371,7 +3591,7 @@ g) Remitir el expediente electoral de la elección de Gobernador, al Tribunal.
 
 La etapa de dictamen y declaración de validez de la elección de Gobernador electo del Estado de Yucatán, se inicia al resolverse el último de los medios de impugnación que, en su caso, se hubiesen interpuesto en contra de esta elección o cuando se tenga constancia de que no se presentó ninguno y concluye al aprobar el Tribunal, el dictamen que contenga el cómputo final y la declaración de validez de la elección y de Gobernador electo.
 
-### CAPÍTULO III. Del programa de resultados electorales preliminares
+### CAPÍTULO II. De los debates
 
 ###### Artículo 195.
 
@@ -3387,7 +3607,7 @@ III. Se establezcan condiciones de equidad en el formato.
 
 La transmisión de los debates por los medios de comunicación será gratuita y se llevará a cabo de forma íntegra y sin alterar los contenidos. La no asistencia de uno o más de los candidatos invitados a estos debates no será causa para la no realización del mismo.
 
-### CAPÍTULO IV. De los actos de promoción previos al proceso electoral
+### CAPÍTULO III. Del programa de resultados electorales preliminares
 
 ###### Artículo 196.
 
@@ -3403,7 +3623,7 @@ El Instituto y el Instituto Nacional Electoral determinarán la viabilidad en la
 
 De igual manera, las personas físicas o morales que realicen estos conteos pondrán, a su consideración, las metodologías y financiamiento para su elaboración y términos para dar a conocer los resultados de conformidad con los criterios que para cada caso se determinen.
 
-### CAPÍTULO I. De las relaciones con el Instituto Nacional Electoral
+### CAPÍTULO IV. De los actos de promoción previos al proceso electoral
 
 ###### Artículo 198.
 
@@ -3417,7 +3637,7 @@ De estos actos, y los señalados en el artículo anterior, conocerá, aplicará 
 
 ## TÍTULO SEGUNDO. DE LOS ACTOS PREPARATORIOS DE LA ELECCIÓN
 
-### CAPÍTULO II. De los procesos de selección de candidaturas a cargos de elección popular y precampañas electorales
+### CAPÍTULO I. De las relaciones con el Instituto Nacional Electoral
 
 ###### Artículo 200.
 
@@ -3431,9 +3651,7 @@ La sección electoral es la fracción territorial de los distritos electorales u
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE JULIO DE 2020)</small>
 
-### CAPÍTULO III. Del procedimiento de registro de candidaturas
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2020)</small>
+### CAPÍTULO II. De los procesos de selección de candidaturas a cargos de elección popular y precampañas electorales
 
 ###### Artículo 202.
 
@@ -3563,7 +3781,9 @@ Cualquier persona o representante de un partido político, en todo momento y baj
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE JULIO DE 2020)</small>
 
-### CAPÍTULO IV. De las campañas electorales
+### CAPÍTULO III. Del procedimiento de registro de candidaturas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2020)</small>
 
 ###### Artículo 214.
 
@@ -3589,11 +3809,23 @@ a) Las candidaturas a diputaciones a elegirse por el principio de mayoría relat
 
 En el caso que registren candidatos o candidatas por un total de distritos electorales que sea par, deberán integrar la totalidad de los distritos electorales con la mitad de los candidatos hombres y la mitad de mujeres, en caso de que se registren candidatas y candidatos por un total de distritos electorales que sea impar se deberá garantizar la diferencia mínima porcentual, pero en ambos casos se hará conforme a los lineamientos integrados por segmentos de mayor, mediana y menor competitividad que para tal efecto emita el Consejo General del Instituto Electoral y Participación Ciudadana, en específico para cada partido político, tomando en cuenta el porcentaje de votación obtenido en cada distrito en la elección inmediata anterior, postulando en cada bloque candidaturas de cada género de forma equitativa.
 
-b) Las candidaturas a diputados o diputadas a elegirse por el principio de representación proporcional se registrarán por medio de listas de 5 candidatos propietarios o candidatas propietarias cada uno con su suplente, quien deberá ser invariablemente del mismo género, observando el principio de paridad hasta agotar la lista;
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2023)</small>
 
-c) Las candidaturas a regidurías de ayuntamientos se registrarán por planillas integradas por candidatos propietarios o candidatas propietarias y suplentes; invariablemente del mismo género, el primero de la planilla será electo con el carácter de Presidente Municipal y el segundo o la segunda con el de Síndico.
+b) Las candidaturas a diputados o diputadas a elegirse por el principio de representación proporcional se registrarán por medio de listas de 7 candidatos propietarios o candidatas propietarias cada uno con su suplente, quien deberá ser invariablemente del mismo género, observando el principio de paridad hasta agotar la lista.
+
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+c) Las candidaturas a regidurías de ayuntamientos se comprenderán en una sola planilla que enliste ordenadamente a las personas candidatas a Presidente Municipal, Síndico y Regidoras, con sus respectivos suplentes, invariablemente del mismo género, la primera persona de la planilla será electa con el carácter de Presidente Municipal y la segunda con el de Síndico.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+No habrá listas adicionales para Regidores de representación proporcional; su asignación se llevará a cabo de conformidad con la fórmula establecida (sic) los artículos 338, 339, 340 y 341 de esta ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 28 DE JUNIO DE 2023)</small>
 
 Se asegurará la paridad horizontal, esto es, que los partidos políticos deberán garantizar que, con base en la totalidad de sus registros, cada uno de los géneros encabece el 50 % de las planillas de candidatos o candidatas a regidores que contenderán en los municipios del estado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O. 28 DE JUNIO DE 2023)</small>
 
 Para el caso de las planillas de candidatos a regidurías de los ayuntamientos, el criterio de paridad horizontal será mediante la conformación de 3 bloques de alta, media y baja votación, en la que participen la totalidad de los municipios del estado de la siguiente forma:
 
@@ -3635,7 +3867,9 @@ De igual manera, al inicio de cada proceso electoral ordinario, el Instituto emi
 
 El Consejo General del Instituto deberá emitir, mediante acuerdo, lineamientos para observar lo dispuesto en el presente inciso de este artículo. Dichos lineamientos deberán ser emitidos por el Consejo General del Instituto, dentro de los diez días posteriores al inicio del proceso electoral ordinario de que se trate. Para el caso de que los lineamientos no sean emitidos en el plazo establecido, se utilizarán los lineamientos del proceso electoral ordinario inmediato anterior aprobados por el Consejo General del Instituto, para que surtan efectos en el proceso electoral de que se trate.
 
-d) Ninguna persona podrá ser registrada como candidato o candidata a distintos cargos de elección popular o postulado simultáneamente como candidato o candidata de mayoría relativa y representación proporcional, en el mismo proceso electoral.
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+d) Ninguna persona podrá ser registrada como candidato o candidata a distintos cargos de elección popular, en el mismo proceso electoral.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 23 DE JULIO DE 2020)</small>
 
@@ -3697,7 +3931,9 @@ b) Los candidatos a diputados de mayoría relativa, ante los consejos distritale
 
 c) Los candidatos a diputados por el principio de representación proporcional, ante el Consejo General del Instituto, y
 
-d) Los candidatos a regidores de los ayuntamientos por el principio de mayoría relativa y de representación proporcional, ante los consejos municipales correspondientes.
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+d) Las personas candidatas a regidoras o regidores de los ayuntamientos, ante los consejos municipales correspondientes.
 
 II. En el año de la elección en que solamente se renueve el Poder Legislativo y los Ayuntamientos, los candidatos por ambos principios serán registrados entre el 22 y el 29 de marzo, ante los órganos correspondientes señalados en los incisos b), c) y d) de la fracción anterior.
 
@@ -3797,9 +4033,51 @@ II. Vencido el plazo a que se refiere la fracción anterior, exclusivamente podr
 
 III. Cuando la renuncia del candidato fuere notificada por éste al Consejo General del Instituto, lo hará del conocimiento del partido político o la coalición que lo registró para que proceda, en su caso, a su sustitución.
 
-### CAPÍTULO V. De la ubicación e integración de las mesas directivas de casilla
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO VI. Del registro de representantes del partido
+### CAPÍTULO III BIS. Del registro de los gobiernos de coalición
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 221 Bis.
+
+Tratándose de una candidata o candidato a la gubernatura del Estado o de la Presidencia Municipal que opten por conformar un gobierno de coalición, en términos del artículo 16, apartado A, párrafo sexto de la Constitución Política del Estado de Yucatán, deberán presentar al Instituto de forma adicional a lo previsto en el artículo 218 de esta ley, un Convenio, el cual deberá considerar como mínimo:
+
+I. El programa de gobierno, agenda ejecutiva y legislativa, debiendo contar con:
+
+a) Antecedentes, diagnóstico económico, social y territorial del desarrollo y contexto regional del Estado o, en su caso, del Municipio.
+
+b) Objetivos generales y específicos, así como estrategias y líneas de acción para las políticas públicas.
+
+c) Metas, sistema de monitoreo, evaluación, rendición de cuentas y acceso a la información pública.
+
+II. Los acuerdos para la distribución de la titularidad e integración de la administración pública estatal o municipal, según sea el caso, que correspondan a cada partido político, considerando un régimen de suplencias.
+
+III. Los motivos que sustenten la coalición, los objetivos, metas y líneas de acción que servirán de base para la definición e implementación de las políticas públicas.
+
+IV. Causales y consecuencias, en caso de incumplimiento del convenio y procedimiento de disolución.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 221 Ter.
+
+El Instituto una vez que haya recibido la documentación, procederá a verificarla debiendo analizar que hayan sido cumplidos los principios de paridad de género, así como que las y los candidatos hayan sido seleccionados conforme a las reglas internas establecidas en los estatutos de su partido de origen y el cumplimiento de las disposiciones jurídicas de esta ley y otras normas aplicables.
+
+El Instituto podrá requerirle a la o el interesado la entrega de documentación faltante o, en su caso, proceda a subsanar errores u omisiones detectados dentro de las 48 horas siguientes a la notificación respectiva.
+
+El convenio deberá ser difundido durante las campañas de todos los partidos políticos que lo integran.
+
+La coalición que resulte electa en el proceso electoral correspondiente deberá remitir el convenio marco al Congreso en cumplimiento del segundo párrafo de la fracción XXV del artículo 55 de la Constitución.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 221 Quáter.
+
+La coalición electoral actuará como un solo partido político para efectos de la representación legal en caso de impugnaciones, para lo correspondiente a los topes de gastos de campaña, la contratación y difusión de propaganda y en lo relativo a informes de gastos de campaña, o procedimientos de aplicación de sanciones pero no para efectos de asignación de diputadas o diputados por el principio de representación proporcional.
+
+Los partidos políticos integrantes de una coalición electoral tendrán la obligación de aportar la información que les sea requerida en los plazos y términos que para las asociaciones políticas se establezca.
+
+### CAPÍTULO IV. De las campañas electorales
 
 ###### Artículo 222.
 
@@ -3865,7 +4143,9 @@ b) El costo distrital se multiplicará por el factor territorial distrital que c
 
 Para efectos de esta fracción, se entiende por factor territorial distrital, el producto de multiplicar el costo distrital por una unidad, aplicando un .01 extra por cada 500 kilómetros cuadrados con que cuente el territorio del distrito correspondiente.
 
-III. Para la elección de Gobernador, se sumarán las cantidades correspondientes a los gastos máximos de campaña de los 15 distritos uninominales, obteniéndose de esta manera el gasto máximo de campaña para la elección de Gobernador.
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2023)</small>
+
+III. Para la elección de Gobernador, se sumarán las cantidades correspondientes a los gastos máximos de campaña de los 21 distritos uninominales, obteniéndose de esta manera el gasto máximo de campaña para la elección de Gobernador.
 
 ###### Artículo 226.
 
@@ -3983,7 +4263,7 @@ VI. Realizar cualquier acto o campaña que tenga como objetivo la promoción del
 
 La inobservancia a las disposiciones contenidas en el presente capítulo será sancionada en los términos de esta Ley y en la Ley General de Delitos Electorales.
 
-### CAPÍTULO VII. De la documentación y del material electoral
+### CAPÍTULO V. De la ubicación e integración de las mesas directivas de casilla
 
 ###### Artículo 234.
 
@@ -4099,7 +4379,7 @@ Estos cambios serán comunicados de inmediato a los consejos distritales y munic
 
 Entre los días 15 y 25 de mayo del año de la elección, el Consejo General del Instituto publicará la relación definitiva de los lugares señalados para la instalación de las casillas y los nombres de los funcionarios propietarios y suplentes que las integran.
 
-### CAPÍTULO VIII. De los sistemas electrónicos de votación
+### CAPÍTULO VI. Del registro de representantes del partido
 
 ###### Artículo 245.
 
@@ -4209,7 +4489,7 @@ VI. Sólo podrán solicitar y obtener de las mesas directivas de casilla del dis
 
 VII. Podrán comprobar la presencia de los representantes de su partido político, coalición o candidato independiente, en las mesas directivas de casilla y recibir de ellos los informes relativos a su desempeño.
 
-### CAPÍTULO I. De la instalación y apertura de casillas
+### CAPÍTULO VII. De la documentación y del material electoral
 
 ###### Artículo 253.
 
@@ -4321,7 +4601,7 @@ Las urnas llevarán en el exterior y en lugar visible, impresa o adherida en el 
 
 El Presidente y el Secretario de cada mesa directiva de casilla cuidarán las condiciones materiales del local en que ésta se instale para facilitar la votación, garantizar la libertad y el secreto del voto y asegurar el orden en la elección. En el local de la casilla y en su exterior no deberá haber propaganda partidista; de haberla, la mandarán retirar.
 
-### CAPÍTULO II. De la votación
+### CAPÍTULO VIII. De los sistemas electrónicos de votación
 
 ###### Artículo 262.
 
@@ -4349,7 +4629,7 @@ El Instituto deberá cerciorarse que en las casillas donde se haya acordado impl
 
 ## TÍTULO TERCERO. DE LA JORNADA ELECTORAL
 
-### CAPÍTULO III. Del escrutinio y cómputo de la casilla
+### CAPÍTULO I. De la instalación y apertura de casillas
 
 ###### Artículo 267.
 
@@ -4427,7 +4707,7 @@ En todo caso, el Consejo Municipal Electoral con los medios posibles a su alcanc
 
 Para los casos señalados en el artículo anterior la casilla deberá quedar instalada en la misma sección y en el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar originalmente señalado.
 
-### CAPÍTULO IV. De la clausura de la casilla y de la remisión de los expedientes
+### CAPÍTULO II. De la votación
 
 ###### Artículo 272.
 
@@ -4583,9 +4863,7 @@ I. La hora de cierre de la votación, y
 
 II. En su caso, la causa por la que se cerró antes o después de las 18:00 horas.
 
-### CAPÍTULO V. Disposiciones complementarias
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+### CAPÍTULO III. Del escrutinio y cómputo de la casilla
 
 ###### Artículo 285.
 
@@ -4733,7 +5011,7 @@ En el otro costado del paquete referido, se pegará un sobre que contenga copia 
 
 Cumplidas las acciones a que se refiere el artículo anterior, los Presidentes de las mesas directivas de casilla fijarán avisos en lugar visible del exterior de las mismas con los resultados de cada una de las elecciones, los que serán firmados por el Presidente y los representantes que así deseen hacerlo.
 
-### CAPÍTULO I. De la información preliminar de los resultados
+### CAPÍTULO IV. De la clausura de la casilla y de la remisión de los expedientes
 
 ###### Artículo 296.
 
@@ -4761,7 +5039,9 @@ El Consejo Municipal Electoral, dentro de las 24 horas siguientes a la recepció
 
 El Consejo Municipal Electoral, hará constar en el acta circunstanciada la recepción de los paquetes electorales a que se refiere esta Ley señalando, si las hubieren, las causas que se invoquen por el retraso en la entrega de los mismos.
 
-### CAPÍTULO II. De los cómputos distritales y de la declaración de validez de la elección de diputados de mayoría relativa
+### CAPÍTULO V. Disposiciones complementarias
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 299.
 
@@ -4857,7 +5137,7 @@ Para estos efectos del Colegio Notarial de Yucatán publicará, a más tardar 5 
 
 ## TÍTULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN Y DE LOS RESULTADOS ELECTORALES
 
-### CAPÍTULO III. De los cómputos municipales y de la declaración de validez de la elección de regidores de mayoría relativa
+### CAPÍTULO I. De la información preliminar de los resultados
 
 ###### Artículo 305.
 
@@ -4889,7 +5169,7 @@ IV. En lo relativo al Programa de Resultados Preliminares de las elecciones, los
 
 Para el mejor conocimiento de los ciudadanos, concluidos los plazos para remitir los paquetes electorales, a que se refiere esta Ley, el Presidente deberá fijar en el exterior del local del Consejo Distrital, o Municipal en su caso, los resultados preliminares de las elecciones en el Distrito y en el Municipio.
 
-### CAPÍTULO IV. De los cómputos estatales
+### CAPÍTULO II. De los cómputos distritales y de la declaración de validez de la elección de diputados de mayoría relativa
 
 ###### Artículo 308.
 
@@ -4991,7 +5271,7 @@ V. Remitir al Consejo General del Instituto, copia de los recursos de inconformi
 
 Una vez realizadas las operaciones anteriores, los presidentes de los consejos distritales tomarán las medidas necesarias para el depósito de los expedientes de casilla a que se refiere esta Ley, hasta la conclusión del proceso electoral. Concluido éste, se procederá a su destrucción.
 
-### CAPÍTULO V. De la asignación de diputados por el sistema de representación proporcional
+### CAPÍTULO III. De los cómputos municipales y de la declaración de validez de la elección de regidores de mayoría relativa
 
 ###### Artículo 316.
 
@@ -5033,7 +5313,7 @@ III. Una vez cumplido el plazo para la interposición del recurso de inconformid
 
 Los presidentes de los consejos municipales, tomarán las medidas necesarias para el depósito de los expedientes de casilla a que se refiere esta Ley hasta la conclusión del proceso electoral. Concluido éste, se procederá a su destrucción.
 
-### CAPÍTULO VI. De la asignación de regidurías por el sistema de representación proporcional
+### CAPÍTULO IV. De los cómputos estatales
 
 ###### Artículo 323.
 
@@ -5091,7 +5371,7 @@ II. Remitir, una vez cumplido el plazo para la interposición del recurso de inc
 
 El Presidente del Consejo General del Instituto conservará en su poder una copia certificada de las actas de cómputo distrital de la elección de Gobernador y originales de toda la documentación de cada uno de los expedientes de los cómputos estatales.
 
-### CAPÍTULO ÚNICO. Del Congreso del Estado
+### CAPÍTULO V. De la asignación de diputados por el sistema de representación proporcional
 
 ###### Artículo 329.
 
@@ -5101,17 +5381,21 @@ En la integración de la legislatura, el porcentaje de representación de un par
 
 Para los efectos del cálculo de este artículo, a la votación emitida se le deberá restar los votos a favor de los partidos políticos que no hayan obtenido porcentaje mínimo de Asignación, los votos emitidos para candidatos independientes, los votos de los candidatos no registrados y los votos nulos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JUNIO DE 2023)</small>
 
 ###### Artículo 330.
 
-Previamente a la asignación de los diputados electos por el sistema de representación proporcional, el Consejo General del Instituto procederá a integrar una lista de 10 candidatos en orden de prelación, por cada uno de los partidos políticos y coaliciones, que hubieran alcanzado el porcentaje mínimo de asignación, aplicando el siguiente procedimiento:
+Previamente a la asignación de los diputados electos por el sistema de representación proporcional, el Consejo General del Instituto procederá a integrar una lista de 14 candidatos en orden de prelación, por cada uno de los partidos políticos y coaliciones, que hubieran alcanzado el porcentaje mínimo de asignación, aplicando el siguiente procedimiento:
 
-I. Se tendrá por lista preliminar la integrada por los 5 candidatos de representación proporcional a que se refiere el inciso b), fracción I, del artículo 214, de esta Ley, que hubiera registrado el partido político o coalición;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
+I. Se tendrá por lista preliminar la integrada por los 7 candidatos de representación proporcional a que se refiere el inciso b), fracción I, del artículo 214, de esta Ley, que hubiera registrado el partido político o coalición;
 
-II. Se elaborará una segunda lista con los 5 candidatos de mayoría relativa que encabezaron su fórmula, del mismo partido político o coalición, ordenados de manera decreciente de acuerdo a los mayores porcentajes de votación válida que hubieran alcanzado en sus respectivos distritos, con relación a los candidatos de su propio partido político o coalición que no hubieran ganado la elección; de entre estos se realizarán los ajustes de género necesarios a fin de que se alcance una asignación paritaria en la integración final del Congreso del Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE JUNIO DE 2023)</small>
+
+II. Se elaborará una segunda lista con los 7 candidatos de mayoría relativa que encabezaron su fórmula, del mismo partido político o coalición, ordenados de manera decreciente de acuerdo a los mayores porcentajes de votación válida que hubieran alcanzado en sus respectivos distritos, con relación a los candidatos de su propio partido político o coalición que no hubieran ganado la elección; de entre estos se realizarán los ajustes de género necesarios a fin de que se alcance una asignación paritaria en la integración final del Congreso del Estado.
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2020)</small>
 
 Para obtener el porcentaje de votación válida de los candidatos en los distritos referidos en esta fracción, se debe calcular con el total de la votación válida del partido en el Estado, y
 
@@ -5169,7 +5453,7 @@ En caso de falta temporal o absoluta de diputados asignados de acuerdo a este ca
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE JULIO DE 2020)</small>
 
-### CAPÍTULO I. De las disposiciones preliminares
+### CAPÍTULO VI. De la asignación de regidurías por el sistema de representación proporcional
 
 ###### Artículo 335.
 
@@ -5251,9 +5535,15 @@ Si ningún partido, coalición o candidatura independiente, tuviera derecho a as
 
 Para efecto de las asignaciones de las regidurías de representación proporcional, las coaliciones o planillas registradas por 2 o más partidos serán consideradas como un solo partido.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2023)</small>
+
 ###### Artículo 345.
 
-La asignación de regidores de representación proporcional se hará en las personas postuladas en la planilla para ser electos mediante este sistema.
+La asignación de regidores de representación proporcional se hará a favor de los candidatos registrados en la planilla respectiva de los partidos políticos y coaliciones que no ganaron la elección, en el orden de prelación en que fueron registrados, excluyendo a las personas registradas para el cargo de Presidente o Presidenta Municipal y Síndico.
+
+Para efectos de este artículo, la persona candidata registrada como la número tres de la planilla respectiva se considerará como la número uno en la prelación de los regidores.
+
+En caso de imposibilidad de asumir el cargo de alguna de las personas candidatas registradas al Cargo de Presidente Municipal o Regidor, ocurrida antes de tomar protesta, la regiduría deberá asignarse a la persona candidata que corresponda en la lista según el orden de prelación. Si la imposibilidad ocurriera habiendo tomado protesta se llamará a su respectivo suplente.
 
 ###### Artículo 346.
 
@@ -5263,7 +5553,7 @@ El Consejo General del Instituto expedirá las constancias de asignación a quie
 
 ## TÍTULO QUINTO. DE LA DECLARACIÓN DE LAS ELECCIONES
 
-### CAPÍTULO II. Del funcionamiento
+### CAPÍTULO ÚNICO. Del Congreso del Estado
 
 ###### Artículo 347.
 
@@ -5279,7 +5569,7 @@ El Congreso del Estado expedirá el Decreto en el que declare a la Gobernadora o
 
 ## TÍTULO PRIMERO. DE LA INTEGRACIÓN Y ORGANIZACIÓN
 
-### CAPÍTULO III. Del pleno
+### CAPÍTULO I. De las disposiciones preliminares
 
 ###### Artículo 349.
 
@@ -5301,7 +5591,9 @@ V. Las impugnaciones relativas a los procedimientos de participación ciudadana;
 
 VI. La resolución de los procedimientos especiales sancionadores conforme a lo dispuesto en la presente Ley, y
 
-VII. La imposición de sanciones de acuerdo a lo previsto en este ordenamiento.
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2023)</small>
+
+VII. La imposición de sanciones de acuerdo a lo previsto en este ordenamiento, y las derivadas por el incumplimiento del convenio al que se refiere el artículo 221 Bis de esta ley.
 
 ###### Artículo 350.
 
@@ -5311,7 +5603,7 @@ El Tribunal Electoral del Estado de Yucatán al resolver los asuntos de su compe
 
 Las resoluciones del Tribunal Electoral recaídas al recurso de apelación, de inconformidad y el juicio para la protección de los derechos político-electorales del ciudadano serán definitivas.
 
-### CAPÍTULO IV. De los magistrados
+### CAPÍTULO II. Del funcionamiento
 
 ###### Artículo 352.
 
@@ -5327,7 +5619,7 @@ Los órganos jurisdiccionales señalados anteriormente deberán integrarse en es
 
 Concluido el proceso electoral, el Tribunal Electoral del Estado conocerá de los asuntos que le competen conforme a las disposiciones de la Constitución, la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado de Yucatán, esta Ley y demás leyes aplicables; además de contribuir con el desarrollo y difusión de la cultura democrática, sus integrantes realizarán funciones de capacitación, profesionalización e investigación en materia de derecho y legislación electoral.
 
-### CAPÍTULO V. Del Presidente del Tribunal
+### CAPÍTULO III. Del pleno
 
 ###### Artículo 354.
 
@@ -5377,7 +5669,7 @@ En caso de ausencia temporal que no exceda de tres meses de algún Magistrado de
 
 En caso de que la ausencia a la que se refiere el artículo anterior sea del Presidente del Tribunal, después de realizado el procedimiento previsto en artículo precedente, el Pleno elegirá de entre los dos magistrados titulares al que fungirá como Presidente durante su ausencia.
 
-### CAPÍTULO VI. Del secretario de acuerdos
+### CAPÍTULO IV. De los magistrados
 
 ###### Artículo 359.
 
@@ -5467,7 +5759,7 @@ VIII. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e i
 
 IX. Las demás que determinen las leyes que resulten aplicables.
 
-### CAPÍTULO VII. De la estructura orgánica del personal del Tribunal
+### CAPÍTULO V. Del Presidente del Tribunal
 
 ###### Artículo 364.
 
@@ -5511,7 +5803,7 @@ XV. Fijar los lineamientos para la selección, designación y capacitación del 
 
 XVI. Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
 
-### CAPÍTULO I. De los sujetos, conductas sancionables y sanciones
+### CAPÍTULO VI. Del secretario de acuerdos
 
 ###### Artículo 366.
 
@@ -5567,9 +5859,7 @@ VII. No desempeñar ni haber desempeñado cargo de dirección o representación 
 
 El Secretario de Acuerdos tendrá la obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
 
-### CAPÍTULO I BIS. De las medidas cautelares y de reparación
-
-> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2020)</small>
+### CAPÍTULO VII. De la estructura orgánica del personal del Tribunal
 
 ###### Artículo 368.
 
@@ -5663,7 +5953,7 @@ Los demás servidores públicos adscritos al órgano de control interno del trib
 
 ## TÍTULO ÚNICO. DE LAS FALTAS ELECTORALES Y SU SANCIÓN
 
-### CAPÍTULO II. Del procedimiento sancionador
+### CAPÍTULO I. De los sujetos, conductas sancionables y sanciones
 
 ###### Artículo 372.
 
@@ -6067,9 +6357,9 @@ IX. Respecto de los ministros de culto, asociaciones, iglesias o agrupaciones de
 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2020)</small>
 
-### CAPÍTULO III. Del procedimiento sancionador ordinario
+### CAPÍTULO I BIS. De las medidas cautelares y de reparación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2020)</small>
 
 ###### Artículo 387 Bis.
 
@@ -6145,7 +6435,7 @@ Los recursos obtenidos por la aplicación de sanciones económicas derivadas de 
 
 Los recursos mencionados en el párrafo previo también podrán aplicarse como recursos concurrentes en programas nacionales e internacionales que tengan como objetivo los conceptos mencionados en el párrafo anterior.
 
-### CAPÍTULO IV. Del procedimiento especial sancionador
+### CAPÍTULO II. Del procedimiento sancionador
 
 ###### Artículo 391.
 
@@ -6254,6 +6544,10 @@ En el caso de existir imposibilidad material para compulsar las copias simples q
 ###### Artículo 395.
 
 Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos por que existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
+
+### CAPÍTULO III. Del procedimiento sancionador ordinario
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE MAYO DE 2017)</small>
 
 ###### Artículo 396.
 
@@ -6389,9 +6683,13 @@ Si del análisis de las constancias aportadas por el denunciante, se advierte la
 
 Admitida la queja o denuncia por la Unidad Técnica de lo Contencioso Electoral, se allegará de los elementos de convicción que estime pertinentes para integrar el expediente respectivo. Para tal efecto, solicitará mediante oficio a los órganos del Instituto que lleven a cabo las investigaciones o recaben las pruebas necesarias. El plazo para llevar a cabo la investigación no podrá exceder de 40 días, contados a partir de la recepción del escrito de queja o denuncia en la Secretaría o del inicio de oficio del procedimiento por parte de la Unidad Técnica de lo Contencioso Electoral. Dicho plazo podrá ser ampliado de manera excepcional por una sola vez, hasta por un período igual al antes señalado, mediante acuerdo debidamente motivado que emita la Unidad Técnica de lo Contencioso Electoral.
 
-> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2023)</small>
 
-Si dentro del plazo fijado para la admisión de la queja o denuncia, la Unidad Técnica de lo Contencioso Electoral, a petición de parte valorará si deben dictarse medidas cautelares, y en su caso propondrá a la Comisión de Denuncias y Quejas para que ésta resuelva, lo conducente, a fin de lograr la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales, o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en esta Ley. Para lo cual su Presidente deberá atender lo siguiente:
+Si dentro del plazo fijado para la admisión de la queja o denuncia, la Unidad Técnica de lo Contencioso Electoral, a petición de parte, valora que deben dictarse medidas cautelares, las propondrá a la Comisión de Denuncias y Quejas para que ésta resuelva, lo conducente, a fin de lograr la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales, o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en esta Ley. En caso contrario la propia Unidad Técnica resolverá sobre su negativa.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE JUNIO DE 2023)</small>
+
+El Presidente de la Comisión, deberá atender lo siguiente:
 
 I. Convocará a los integrantes de la Comisión de Denuncias y Quejas dentro de las 24 horas después de recibida la solicitud de medidas cautelares;
 
@@ -6444,6 +6742,8 @@ En caso de empate motivado por la ausencia de alguno de los consejeros electoral
 El Consejero Electoral que disienta de la mayoría podrá formular voto particular, el cual se insertará en el proyecto respectivo si se remite a la Secretaría dentro de los 2 días siguientes a la fecha de su aprobación.
 
 En el desahogo de los puntos de la orden del día en que el Consejo General del Instituto deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, éstos se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
+
+### CAPÍTULO IV. Del procedimiento especial sancionador
 
 ###### Artículo 406.
 
@@ -6910,3 +7210,47 @@ Artículo tercero. El Consejo General del Instituto Electoral y de Participació
 Clausula derogatoria
 
 Artículo cuarto. Se derogan todas las disposiciones que se opongan a este decreto.
+
+D.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 655/2023 POR EL QUE SE MODIFICA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, EN MATERIA DE DEFENSA DE LOS DERECHOS POLÍTICOS-ELECTORALES Y ASIGNACIÓN DE REGIDORES DE REPRESENTACIÓN PROPORCIONAL EN AYUNTAMIENTOS”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado.
+
+Reglamento de la Defensoría
+
+Artículo segundo. El Consejo General del Instituto Electoral y de Participación Ciudadana de Yucatán, dentro del plazo de 60 días hábiles, contado a partir del día siguiente de su publicación de este decreto, deberá emitir el Reglamento relativo a la Defensoría Pública en Derechos políticos-electorales.
+
+Presupuesto
+
+Artículo tercero. El Consejo General del Instituto, deberá prever en el proyecto de presupuesto correspondiente al siguiente ejercicio fiscal, los recursos necesarios que permitan el funcionamiento y desempeño de la Defensoría que se crea en este decreto; así como prever el personal correspondiente.
+
+Cláusula derogatoria
+
+Artículo cuarto. Se derogan las disposiciones que se opongan a este decreto.
+
+D.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 657/2023 POR EL QUE SE MODIFICA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, EN MATERIA DE FORTALECIMIENTO DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE YUCATÁN”.]
+
+Entrada en vigor.
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Clausula derogatoria
+
+Artículo segundo. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en este decreto.
+
+D.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 658/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Clausula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
