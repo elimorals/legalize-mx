@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2023-04-19"
+last_updated: "2023-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2023.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -185,9 +185,9 @@ II. Violencia institucional: Son los actos u omisiones de las y los servidores p
 
 III. Violencia laboral y docente: Es todo acto u omisión ejercido en abuso de poder por personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, que daña su autoestima, salud, integridad, libertad y seguridad, impide su desarrollo y atenta contra la igualdad.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2023)</small>
 
-De igual modo, constituye violencia laboral la negativa ilegal a contratar a la víctima, o a respetar su permanencia o condiciones generales de trabajo; así como la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley, y todo tipo de discriminación por condición de género.
+De igual modo, constituye violencia laboral la negativa ilegal a contratar a la víctima, o a respetar su permanencia o condiciones generales de trabajo; así como toda acción u omisión que directa o indirectamente provoque la brecha salarial de género, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la ley, y todo tipo de discriminación por condición de género.
 
 IV. Violencia en la comunidad: Son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres en el ámbito público y propician su denigración, discriminación, marginación o exclusión.
 
@@ -1594,6 +1594,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 19 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0515/2023 II P.O., MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 32 DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0544/2023 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 6, FRACCIÓN III, SEGUNDO PÁRRAFO DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 ###### ARTÍCULO ÚNICO.
 
