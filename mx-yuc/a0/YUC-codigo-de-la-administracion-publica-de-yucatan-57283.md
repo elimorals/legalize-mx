@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2023-04-21"
+last_updated: "2023-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -179,7 +179,9 @@ II.- Instituir las unidades de asesoramiento, apoyo técnico y coordinación que
 
 III.- Establecer oficinas de Representación del Gobierno del Estado así como comisiones, gabinetes, consejos, patronatos y comités, para el despacho de sus asuntos fuera de Yucatán;
 
-IV.- Nombrar y remover libremente a los titulares de las dependencias y entidades de la Administración Pública, demás funcionarios y empleados cuya designación o remoción no estén determinadas de otro modo en la Constitución Política o en otras Leyes del Estado;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2023)</small>
+
+IV.- Nombrar y remover libremente a los titulares de las dependencias y entidades de la administración pública, demás funcionarios y empleados cuya designación o remoción no estén determinadas de otro modo en la Constitución Política, en otras leyes del Estado o en los acuerdos previstos en el convenio para constituir un gobierno de coalición;
 
 V.- Celebrar a nombre del Gobierno del Estado convenios con el Ejecutivo Federal y con los ayuntamientos de Yucatán para integrar organismos de carácter mixto y los que presten servicios coordinados o por cooperación, así como la prestación de servicios públicos y la realización de obras, en los términos de las estipulaciones pactadas y las disposiciones legales relativas;
 
@@ -213,13 +215,19 @@ XIII.- Crear, conforme a las bases que establece este Código y demás legislaci
 
 XIV.- Decretar o, en su caso, solicitar al Congreso del Estado, previa opinión del titular de la dependencia a la que se encuentre sectorizada, la fusión o extinción de cualquier entidad paraestatal que no cumpla con sus fines u objeto social, o cuyo funcionamiento resulte inconveniente para la economía del estado o el interés público;
 
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2023)</small>
 
-XV.- Crear nuevas dependencias y separar, unir o transformar las existentes, en atención al volumen de trabajo, a las necesidades sociales y trascendencia de los asuntos públicos, con la finalidad de asegurar el adecuado desarrollo de la Administración Pública Estatal, y
+XV.- Crear nuevas dependencias y separar, unir o transformar las existentes, en atención al volumen de trabajo, a las necesidades sociales y trascendencia de los asuntos públicos, con la finalidad de asegurar el adecuado desarrollo de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, D.O. 28 DE JUNIO DE 2023)</small>
+
+XVI.- Optar en cualquier momento, por la conformación de un gobierno de coalición en los términos previstos en la Constitución Política y en la Ley de Instituciones y Procedimientos Electorales, ambos del Estado de Yucatán y dar cumplimiento, al programa, acuerdos y agenda de modernización del marco normativo estatal propuesta (sic) en el convenio respectivo.
+
+En este caso, no podrán modificarse, fusionarse o extinguirse dependencias o entidades de la administración pública estatal que hayan sido objeto del acuerdo distributivo del convenio de gobierno de coalición, sin previo acuerdo de los partidos políticos coaligantes y coaligados respectivos, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XVI.- Las demás que le confieran otras disposiciones legales.
+XVII.- Las demás que le confieran otras disposiciones legales.
 
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -3667,9 +3675,11 @@ Artículo décimo segundo. Nombramiento
 
 La persona titular del Poder Ejecutivo tendrá hasta el 30 de noviembre de 2023 para remitir al Congreso la terna para la designación de la persona titular de la Fiscalía General del Estado.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2023)</small>
+
 Artículo décimo tercero. Nombramiento
 
-El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
 
 Artículo décimo cuarto. Primer Informe del Fiscal
 
@@ -3698,3 +3708,23 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Artículo Segundo. Obligación normativa
 
 La persona Titular del Poder Ejecutivo deberá realizar las adecuaciones normativas necesarias para armonizar el marco jurídico estatal a lo previsto en este decreto, dentro del plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 653/2023 POR EL QUE SE MODIFICA LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN Y EL ARTÍCULO TRANSITORIO DÉCIMO TERCERO DEL DECRETO 619/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATÁN, LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTONOMÍA DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 658/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Clausula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
