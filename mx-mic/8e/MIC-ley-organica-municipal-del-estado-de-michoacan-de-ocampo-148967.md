@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2023-06-26"
+last_updated: "2023-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2023.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -287,7 +287,9 @@ Ziracuaretiro; Ziracuaretiro
 
 Zitácuaro; Heróica Zitácuaro
 
-### CAPÍTULO III. DE LA DIVISIÓN Y CLASIFICACIÓN MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO III. DE LA DIVISIÓN, CLASIFICACIÓN Y SOLUCIÓN DE CONFLICTOS TERRITORIALES MUNICIPALES
 
 ###### Artículo 4.
 
@@ -350,6 +352,90 @@ V. Que la localidad tenga como mínimo una antigüedad de 25 años; y,
 VI. Que represente al menos el 10% de los ingresos municipales por materia de impuesto predial.
 
 Posteriormente el Ayuntamiento deberá presentar la iniciativa respectiva al Congreso para que éste incluya la nueva Tenencia, y realice la modificación correspondiente para actualizar la Ley Orgánica de División Territorial de Michoacán.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 9 Bis.
+
+Para la solución de conflictos por límites territoriales entre los municipios del Estado de Michoacán de Ocampo, será el Congreso del Estado de Michoacán de Ocampo, la autoridad competente para conocer y resolver los conflictos que se susciten entre los municipios del Estado, de conformidad con lo establecido en la fracción X-B bis del artículo 44, de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 9 Ter.
+
+Los conflictos en materia de límites territoriales entre uno o más municipios podrán solucionarse mediante:
+
+I. Convenio: Cuando los ayuntamientos llegan a un acuerdo amistoso, sobre sus respectivos límites y se somete a la consideración del Congreso; y,
+
+II. Vía Adversarial: Cuando el Congreso, a través de la Comisión de Fortalecimiento Municipal y Límites Territoriales, determina los límites territoriales de los Municipios en conflicto.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 9 Quater.
+
+Los municipios que sostuvieren un conflicto de límites territoriales podrán solucionarlo mediante un convenio que se sujetará a lo siguiente:
+
+I. El acuerdo tomado en sesión de Cabildo, deberá indicar la zona o zonas en conflicto territorial, para iniciar el proceso de diálogo con el Municipio o Municipios involucrados;
+
+II. El Cabildo podrá invitar a los peritos en la materia que consideren necesarios esto con el fin de llevar a cabo una mejor solución del conflicto territorial;
+
+III. El Cabildo notificará al Ayuntamiento del Municipio con el que tenga un conflicto limítrofe territorial, señalando con exactitud el problema y proponiendo el establecimiento de un diálogo, con base a un calendario de reuniones, en donde se procurará que asistan los habitantes de las zonas en conflicto;
+
+IV. El Ayuntamiento del Municipio notificado deberá comunicar por escrito su respuesta en un plazo no mayor de veinticinco días hábiles, debiendo señalar si acepta realizar el diálogo para resolver el conflicto de límites territoriales o en su caso manifestar su negativa;
+
+V. La falta de respuesta por parte del Ayuntamiento notificado, se deberá entender como negativa ficta al diálogo; por lo tanto, el Ayuntamiento afectado podrá iniciar lo establecido en la fracción II del artículo 9 Ter;
+
+VI. Una vez que el Ayuntamiento notificado acepta la realización del procedimiento mediante el convenio, éste procederá conforme a los términos establecidos en las fracciones I y II de este artículo;
+
+VII. Si en el trascurso del procedimiento las partes no llegan a un acuerdo o una de las partes abandona unilateralmente las reuniones o las mesas de trabajo, la otra parte podrá proceder en los términos de la fracción II del artículo 9 Ter de esta Ley;
+
+VIII. El plazo máximo para la solución de conflictos por límites territoriales mediante convenio no excederá de un año, a menos que ambas partes suscriban un acuerdo prorrogando el mismo hasta por seis meses más; y,
+
+IX. Si los Cabildos de ambos Ayuntamientos logran un acuerdo, éste se deberá plasmar por escrito señalando por lo menos lo (sic) siguientes:
+
+a) Lugar y fecha en que se suscribe;
+
+b) Las cláusulas en las que establezcan los acuerdos, convenidos entre ambos Ayuntamientos, así como sus obligaciones y derechos que adquieren;
+
+c) El acta de sesión de Cabildo de cada uno de los Ayuntamientos participes;
+
+d) Un plano cartográfico con las especificaciones precisas que no den lugar a confusiones y que se represente con coordenadas geográficas en mapas y cartas topográficas, cuando los límites afecten zonas y áreas urbanas, además, se podrán hacer referencia a nombre de calles, vialidades, jardines, parques, vías férreas, carreteras, y demás información que sea perdurable e identificable; y,
+
+e) Aquellas consideraciones que estimen pertinentes.
+
+El convenio será remitido al Congreso quien revisará la documentación, a efecto de verificar que no existan irregularidades u omisiones.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 9 Quinquies.
+
+La solicitud de intervención del Congreso vía adversarial, deberá ir acompañada de copia certificada del acta de la sesión de Cabildo que contenga el acuerdo respectivo o negativa ficta.
+
+La solicitud deberá contener, por lo menos:
+
+I. El nombre del municipio interesado;
+
+II. El domicilio para recibir notificaciones;
+
+III. Las manifestaciones relativas al conflicto de límites territoriales que desee señalar, acompañadas de una descripción clara y sucinta de los hechos y razones en los que apoye sus argumentos;
+
+IV. Cualquier medio de prueba que se ofrezca; y,
+
+V. Una propuesta de posible solución con datos e información técnicos, misma que incluirá la identificación de rasgos físicos, perdurables e identificables.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 9 Sexies.
+
+El Congreso para resolver los conflictos por límites territoriales entre los municipios del Estado, podrá citar a las partes para iniciar con el procedimiento establecido en la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo, y en su momento, determinará mediante Decreto la demarcación material de los límites territoriales entre los municipios en conflicto; y se notificará a los Poderes del Estado y de la Unión, a la Fiscalía General del Estado y de la República, al Instituto Electoral de Michoacán, Instituto Nacional Electoral, Instituto Registral y Catastral del Estado, Instituto Nacional de Estadística y Geografía y demás autoridades que se determinen, para en su caso reordenar y modificar los registros, programas y servicios municipales, estatales y nacionales de los habitantes de las demarcaciones territoriales, para todos los efectos legales a que haya lugar.
+
+Los Municipios en conflicto una vez publicado el Decreto que establezca la demarcación material de los límites territoriales, se coordinarán para que se garanticen los servicios públicos municipales establecidos en el artículo 40 inciso a) fracción I, de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 9 Septies.
+
+Los Ayuntamientos podrán apoyar y sustentar su solicitud de solución de conflictos por límites territoriales, que presenten al Congreso del Estado, con los elementos técnicos de identificación de límites, incluyendo un listado de vértices en el que cada uno contenga un sistema de coordenadas métricas y cartográficas, y demás información oficial que expida el Instituto Nacional de Estadística y Geografía u otra institución oficial.
 
 ### CAPÍTULO IV. DE LA VECINDAD
 
@@ -3330,3 +3416,9 @@ P.O. 26 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 375 POR EL QUE “SE REFORMA EL ARTÍCULO 95 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor él día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 385 POR EL QUE "SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO III, Y SE ADICIONAN LOS ARTÍCULOS 9 BIS, 9 TER, 9 QUATER, 9 QUINQUIES, 9 SEXIES Y 9 SEPTIES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
