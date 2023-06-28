@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-conducta-de-la-secretaria-de-desarrollo-social-151420
 country: "mx"
 rank: "codigo"
 publication_date: "2021-09-29"
-last_updated: "2021-09-29"
+last_updated: "2023-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE DESARROLLO SOCIAL, SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE BIENESTAR Y DESARROLLO SUSTENTABLE, PUBLICADO EN EL P.O. DE 28 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2023 (ABROGADO).
 
 Código publicado en la Segunda Sección del Número 118 del Periódico Oficial del Estado de Sinaloa, el miércoles 29 de septiembre de 2021.
 
@@ -560,3 +562,17 @@ ATENTAMENTE
 Lic. Ricardo Madrid Pérez
 
 Secretario de Desarrollo Social
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE BIENESTAR Y DESARROLLO SUSTENTABLE".]
+
+PRIMERO.- El presente Código de Conducta de la Secretaría de Bienestar y Desarrollo Sustentable, entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- En cumplimiento de lo establecido en el artículo Décimo Tercero de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativa (sic), emitidos por la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, el presente Código, deberá de publicarse en el Periódico Oficial "El Estado de Sinaloa"; asimismo, en concordancia con lo establecido en el artículo 9 del Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa publicado el 7 de septiembre de 2020 en el periódico oficial "El Estado de Sinaloa", el presente Código deberá de difundirse y publicarse, en la página de internet institucional de la Secretaría de Bienestar y Desarrollo Sustentable.
+
+TERCERO.- Las áreas de la Secretaría de Bienestar y Desarrollo Sustentable a través del Comité de Ética, deberán hacer del conocimiento al personal adscrito a sus áreas el Código de Conducta de esta Dependencia, mediante oficios y acuse, presentaciones presenciales, cuadernillo impreso, correo electrónico y por otras vías más eficaces existentes, una vez publicado el mismo.
+
+CUARTO.- Se abroga el Código de Conducta de la Secretaría de Desarrollo Social, publicado en el portal de obligaciones de transparencia de esta Institución el 29 de septiembre de dos mil veintiuno.
