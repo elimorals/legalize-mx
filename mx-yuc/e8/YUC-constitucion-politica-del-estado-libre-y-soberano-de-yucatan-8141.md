@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2023-06-15"
+last_updated: "2023-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -1559,7 +1559,23 @@ XXIV.- Presentar la cuenta pública con la documentación respectiva, en los té
 
 XXV.- Optar, en cualquier momento, por la conformación de un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso del Estado.
 
-En el caso de que opte por un gobierno de coalición, éste se regulará por el convenio, el programa de gobierno y la agenda legislativa respectivos, los cuales deberán ser aprobados por mayoría de los miembros presentes del Congreso del Estado. El convenio establecerá las bases para su conformación, causas de la disolución del gobierno de coalición, programa de gobierno y la agenda legislativa donde se establezca el programa de trabajo legislativo.
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+En el caso de que opte por un gobierno de coalición, éste se regulará por el convenio, el programa de gobierno y la agenda de modernización del marco normativo estatal respectivos, los cuales serán remitidos al Congreso del Estado, conforme lo previsto en la Ley.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O. 28 DE JUNIO DE 2023)</small>
+
+El convenio establecerá las bases para su conformación, causas de la disolución del gobierno de coalición, programa de gobierno y la agenda de modernización del marco normativo estatal donde se establezca el programa de trabajo legislativo, conforme las siguientes bases:
+
+a) Los objetivos comunes en el gobierno de coalición, que podrán quedar registrados en la plataforma electoral.
+
+b) Los cargos públicos objeto del gobierno de coalición a los cuales tendrán acceso los partidos políticos que postulen la candidatura común o en coalición electoral.
+
+c) La proporción de cargos públicos a la que podrán tener acceso los partidos políticos que suscriban el convenio de gobierno de coalición y hayan postulado la candidatura común o en coalición electoral.
+
+d) El porcentaje de votación que cada partido político aporte a la candidatura común o de coalición electoral se deberá impactar en el acceso proporcional de cargos públicos que por nivel, importancia o jerarquía disponga el convenio de gobierno de coalición.
+
+e) El mecanismo político de cumplimiento de los términos del convenio de gobierno de coalición; y en su caso, las sanciones por su incumplimiento.
 
 > <small>(REFORMADA, D.O. 10 DE AGOSTO DE 2022)</small>
 
@@ -2406,6 +2422,32 @@ Primera.- Los ayuntamientos entrarán en funciones, el primero de septiembre inm
 > <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
 Segunda.- La Presidenta o Presidente Municipal, las regidoras, los regidores y el síndico, podrán ser reelectos para un período constitucional adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La reelección se efectuará conforme a lo que disponga la Ley.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+Los partidos políticos que postulen candidaturas comunes o en coalición electoral a los ayuntamientos en los municipios podrán optar por conformar un gobierno de coalición.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+El gobierno de coalición se regulará por un convenio y el programa de gobierno que será aprobado por las dirigencias partidistas, los cuales serán remitidos al Congreso del Estado, conforme con lo previsto en la Ley.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O. 28 DE JUNIO DE 2023)</small>
+
+El convenio a que se refiere el párrafo anterior, establecerá las bases para su conformación, causas de su disolución del gobierno (sic) coalición y programa de gobierno, conforme las bases siguientes:
+
+I. Los objetivos comunes en el gobierno de coalición deberán quedar plasmados en la plataforma electoral.
+
+II. Los cargos públicos objeto del gobierno de coalición a los cuales tendrán acceso los partidos políticos.
+
+III. La proporción de cargos públicos a la que podrán tener acceso los partidos políticos que suscriban el convenio de gobierno de coalición.
+
+IV. El porcentaje de votación que cada partido político aporte a la candidatura común o en coalición electoral se deberá impactar en el acceso proporcional de cargos públicos objeto del convenio de gobierno de coalición.
+
+V. El mecanismo político de cumplimiento de los términos del convenio de gobierno de coalición; y en su caso, las sanciones por su incumplimiento.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+Los ayuntamientos deberán ratificar los nombramientos que la presidencia municipal haga de las personas titulares de las dependencias del Ayuntamiento en apego al convenio de gobierno de coalición, con excepción del titular de Seguridad Pública.
 
 > <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
@@ -5503,9 +5545,11 @@ Artículo décimo segundo. Nombramiento
 
 La persona titular del Poder Ejecutivo tendrá hasta el 30 de noviembre de 2023 para remitir al Congreso la terna para la designación de la persona titular de la Fiscalía General del Estado.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2023)</small>
+
 Artículo décimo tercero. Nombramiento
 
-El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
 
 Artículo décimo cuarto. Primer Informe del Fiscal
 
@@ -5594,3 +5638,23 @@ Artículo segundo. Para el proceso electoral 2023–2024, los partidos político
 Cláusula derogatoria
 
 Artículo tercero. Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
+
+D.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 653/2023 POR EL QUE SE MODIFICA LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN Y EL ARTÍCULO TRANSITORIO DÉCIMO TERCERO DEL DECRETO 619/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATÁN, LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTONOMÍA DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 658/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Clausula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
