@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2023-04-29"
+last_updated: "2023-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -424,6 +424,10 @@ XVI.- Secretaría de Pueblos y Comunidades Indígenas.
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
 XVII. Secretaría de Seguridad Pública del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2023)</small>
+
+En el nombramiento de las personas titulares de las dependencias y entidades de la Administración Pública Estatal, Secretarías, Coordinaciones y Direcciones, se observará el principio de paridad de género.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -3820,3 +3824,15 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 En términos del Artículo Primero del presente Decreto, la Secretaría de Seguridad Pública del Estado deberá, en un término no mayor a 180 días a partir de la entrada en vigor del presente Decreto, adecuar el marco normativo interno, así como el relativo al Servicio Profesional de Carrera.
+
+P.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLYC/0543/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto que reforma el artículo 24 de la Ley Orgánica de Poder Ejecutivo del Estado de Chihuahua, entrará en vigor el 8 de septiembre de 2027, siendo aplicable para los nombramientos que se realicen con posterioridad a su entrada en vigor, respetando los derechos laborales de las personas servidoras públicas nombradas previamente a esta.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto que reforma los artículos 29 y 60 del Código Municipal para el Estado de Chihuahua, entrará en vigor el 10 de septiembre de 2024, siendo aplicable para los nombramientos que se realicen con posterioridad a su entrada en vigor, respetando los derechos laborales de las personas servidoras públicas nombradas previamente a esta.
