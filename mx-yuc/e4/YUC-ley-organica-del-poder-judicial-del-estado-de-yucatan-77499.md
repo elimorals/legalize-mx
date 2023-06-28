@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2023-04-21"
+last_updated: "2023-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -2951,9 +2951,11 @@ Artículo décimo segundo. Nombramiento
 
 La persona titular del Poder Ejecutivo tendrá hasta el 30 de noviembre de 2023 para remitir al Congreso la terna para la designación de la persona titular de la Fiscalía General del Estado.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2023)</small>
+
 Artículo décimo tercero. Nombramiento
 
-El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
 
 Artículo décimo cuarto. Primer Informe del Fiscal
 
@@ -2988,3 +2990,11 @@ La Agencia de Inteligencia Patrimonial y Económica preferentemente contratará 
 Artículo Sexto. Exención
 
 La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales estatales, así como de las contribuciones municipales respecto de sus bienes de dominio público en términos del artículo 82, fracción VIII, de la Constitución Política del Estado de Yucatán y que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
+
+D.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 653/2023 POR EL QUE SE MODIFICA LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN Y EL ARTÍCULO TRANSITORIO DÉCIMO TERCERO DEL DECRETO 619/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATÁN, LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTONOMÍA DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
