@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2023-06-15"
+last_updated: "2023-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -1093,6 +1093,10 @@ IV.- Ejercitar separada o conjuntamente con el Tesorero, la facultad económico-
 
 V.- Nombrar y remover al personal administrativo del Ayuntamiento, cuando así se requiera, debiendo informar al Cabildo en la sesión inmediata; tratándose de la contratación de asesoría por parte de personas prestadoras de servicios profesionales en materia jurídica, técnica de obra, contable o de otra materia afín a la administración municipal, deberá remitir al Congreso del Estado en un plazo no mayor de quince días contados a partir de la fecha de suscripción del contrato respectivo o del inicio de la prestación del servicio, el nombre, dirección y correo electrónico correspondiente, así como un tanto del contrato y la documentación que lo integre, para que se efectúe un registro correspondiente;
 
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+En caso de un gobierno de coalición se sujetará a lo previsto en el convenio respectivo.
+
 VI.- Delegar la presidencia del Sistema Municipal para el Desarrollo Integral de la Familia, en su cónyuge o persona distinta, de acuerdo a la forma que adopte este organismo;
 
 VII.- Condonar multas, pudiendo delegar esta facultad en otro funcionario público de menor rango;
@@ -1115,9 +1119,17 @@ XV.- Suscribir conjuntamente con el Secretario Municipal y a nombre y por acuerd
 
 XVI.- Autorizar las órdenes de pago de la Tesorería, conforme al Presupuesto de Egresos, firmándolas conjuntamente con el Tesorero o a quien el Presidente designe;
 
-XVII.- Acordar periódicamente con los Regidores, los asuntos que estimen convenientes, para los diversos ramos de la administración pública, y
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2023)</small>
 
-XVIII.- Las demás que establezcan las leyes y los reglamentos.
+XVII.- Acordar periódicamente con los regidores, los asuntos que estimen convenientes, para los diversos ramos de la administración pública;
+
+> <small>(ADICIONADA, D.O. 28 DE JUNIO DE 2023)</small>
+
+XVIII.- Conformar un gobierno de coalición en los términos previstos en la Constitución Política y en la Ley de Instituciones y Procedimientos Electorales, ambos del Estado de Yucatán y dar cumplimiento, al Programa, acuerdos y agenda de modernización del marco normativo estatal propuesta en el convenio respectivo.
+
+En este caso, no podrán modificarse, fusionarse o extinguirse dependencias o entidades de la administración pública municipal que hayan sido objeto del acuerdo distributivo del convenio de gobierno de coalición, sin previo acuerdo de los partidos políticos coaligantes y coaligados respectivos, y
+
+XIX.- Las demás que establezcan las leyes y los reglamentos.
 
 #### SECCIÓN TERCERA. DE LAS OBLIGACIONES DEL PRESIDENTE
 
@@ -3836,3 +3848,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Artículo Segundo. Adecuaciones presupuestales
 
 Los Ayuntamientos, de conformidad con su disponibilidad tecnológica y presupuestaria, realizarán las adecuaciones necesarias para implementar en forma gradual la obligación de transmitir sus sesiones de cabildo del Ayuntamiento, en tiempo real, en un plazo máximo de seis meses, contados a partir de la entrada en vigor del presente Decreto.
+
+D.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 658/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Clausula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
