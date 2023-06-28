@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2023-04-21"
+last_updated: "2023-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -1255,6 +1255,36 @@ III. El fondo complementario de retiro.
 
 Para tales efectos, el estado y los municipios deberán promover, en el ámbito de sus respectivas competencias, las adecuaciones legales y presupuestales necesarias.
 
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 94 Bis.
+
+Reconocimiento por desempeño heroico
+
+El reconocimiento por desempeño heroico será otorgado por la persona Titular del Poder Ejecutivo, previa solicitud, a la persona interesada que cumpla con el requisito de haber cumplido con, al menos, veinte años como persona titular de la Secretaría de Seguridad Pública del Estado de Yucatán.
+
+Para efectos de la contabilización o cómputo de lo establecido en el párrafo anterior, se tomarán en cuenta todos los años en que la persona interesada fungió como titular de la Secretaría de Seguridad Pública, independientemente de si ésta ocupó dicho cargo en años consecutivos, en períodos interrumpidos o cuando la referida Secretaría contaba con una denominación diversa.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 94 Ter.
+
+Integración
+
+El reconocimiento por desempeño heroico consistirá en un bono mensual de carácter vitalicio equivalente al último salario percibido por la persona a la que le sea otorgado, previo cumplimiento del requisito establecido en el artículo 94 Bis de esta ley. Lo anterior, será independiente de las prestaciones o cualquier derecho laboral que corresponda en términos de las disposiciones aplicables.
+
+El bono mensual a que se refiere el párrafo anterior deberá ser previsto en el presupuesto de egresos de cada año por la Secretaría de Administración y Finanzas con cargo a la Secretaría de Seguridad Pública o su homóloga.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
+
+###### Artículo 94 Quater.
+
+Suspensión temporal e intransmisibilidad
+
+Será causa de suspensión temporal de lo dispuesto en el artículo 94 Ter, si la persona a la que le sea otorgado el reconocimiento a que hace referencia el artículo 94 Bis de esta ley, desempeña otro cargo o empleo público en el estado de Yucatán o en alguno de sus municipios.
+
+Dada la naturaleza extraordinaria del reconocimiento, el derecho a recibirlo será personalísimo y, por lo tanto, no será transmisible ni heredable.
+
 ## TÍTULO QUINTO. Información sobre seguridad pública
 
 ### Capítulo I. Disposiciones generales
@@ -1767,10 +1797,32 @@ Artículo décimo segundo. Nombramiento
 
 La persona titular del Poder Ejecutivo tendrá hasta el 30 de noviembre de 2023 para remitir al Congreso la terna para la designación de la persona titular de la Fiscalía General del Estado.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2023)</small>
+
 Artículo décimo tercero. Nombramiento
 
-El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
 
 Artículo décimo cuarto. Primer Informe del Fiscal
 
 Por única ocasión, la primera rendición del Informe anual de la Fiscalía General del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de abril de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal hasta el 31 de diciembre 2024.
+
+D.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 653/2023 POR EL QUE SE MODIFICA LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN Y EL ARTÍCULO TRANSITORIO DÉCIMO TERCERO DEL DECRETO 619/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATÁN, LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTONOMÍA DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN".]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 656/2023 POR EL QUE SE MODIFICA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Ajustes presupuestales y administrativos
+
+La Secretaría de Administración y Finanzas deberá realizar los ajustes presupuestales y administrativos necesarios para dar cumplimiento al presente decreto.
