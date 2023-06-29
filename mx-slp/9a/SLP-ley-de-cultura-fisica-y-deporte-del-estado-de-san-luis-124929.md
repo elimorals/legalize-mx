@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-fisica-y-deporte-del-estado-de-san-luis-124929"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-14"
-last_updated: "2022-10-14"
+last_updated: "2023-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de diciembre de 2017.
 
@@ -941,6 +941,10 @@ VII. Las demás que dispongan otras leyes u ordenamientos aplicables.
 
 Los juegos tradicionales y autóctonos, y la charrería serán considerados como parte del patrimonio cultural deportivo del Estado y de los municipios en el ámbito de sus respectivas competencias, deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre ellos y con las asociaciones deportivas nacionales y asociaciones deportivas estatales y municipales correspondientes.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2023)</small>
+
+De la misma manera la práctica del ajedrez deberá ser promovido, difundido y fomentado como estrategia para fortalecer el desarrollo cognitivo de las personas.
+
 ###### ARTÍCULO 76.
 
 Las autoridades estatales y municipales planificarán y promocionarán el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas.
@@ -1013,9 +1017,11 @@ Asimismo, deberán respetarse los programas y calendarios previamente establecid
 
 ### CAPÍTULO XIII. De la Enseñanza, Investigación y Difusión
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 88.
 
-Las autoridades estatales y municipales, así como organismos públicos, sociales y privados en el Estado, participaran en coordinación con la CONADE en la elaboración de programas de capacitación en actividades de activación física, cultura física y deporte; y en el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y el deporte. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
+Las autoridades estatales y municipales, así como organismos públicos, sociales y privados en el Estado, participarán en coordinación con la CONADE en la elaboración de programas de capacitación en actividades de activación física, cultura física y deporte; y en el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y el deporte. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad y dentro de las actividades deportivas, se incluirá la formación en la práctica del ajedrez.
 
 ###### ARTÍCULO 89.
 
@@ -1482,5 +1488,13 @@ P.O. 14 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0398.- SE REFORMA EL ARTÍCULO 66 EN SU FRACCIÓN VII Y ADICIONA AL MISMO ARTÍCULO 66 LA FRACCIÓN VII BIS, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0781.- SE REFORMA EL ARTÍCULO 88; Y SE ADICIONA AL ARTÍCULO 75 EL PÁRRAFO ÚLTIMO, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ.”]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
