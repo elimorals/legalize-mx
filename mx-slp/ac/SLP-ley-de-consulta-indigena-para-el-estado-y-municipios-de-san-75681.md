@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-consulta-indigena-para-el-estado-y-municipios-de-san-756
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-08"
-last_updated: "2012-10-06"
+last_updated: "2023-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CONSULTA INDÍGENA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 8 de julio de 2010.
 
@@ -93,7 +93,9 @@ X. Registro de comunidades indígenas: es la inscripción asentada en el libro d
 
 XI. Pueblos indígenas: aquellos que descienden de poblaciones que habitaban el territorio actual del país al iniciarse la colonización, y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
-San Luis Potosí, reconoce la existencia histórica y vigente en su territorio de los pueblos Náhuatl, Téenek y Xi´Oi, así como la presencia regular de los Wirrarica o Huicholes.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
+
+San Luis Potosí reconoce la existencia histórica y vigente en su territorio de los pueblos Náhuas, Téenek y Xi´iuy, así como la presencia regular de los Wirrarika o huicholes.
 
 ###### ARTICULO 4°.
 
@@ -394,3 +396,11 @@ P.O. 6 DE OCTUBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0782.- SE REFORMA EL ARTÍCULO 9° EN SU PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 3° EN SU PÁRRAFO ÚLTIMO, DE LA LEY DE CONSULTA INDÍGENA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
