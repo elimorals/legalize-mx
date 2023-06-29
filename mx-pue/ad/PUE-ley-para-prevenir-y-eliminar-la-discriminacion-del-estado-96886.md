@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-96886
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2023-04-04"
+last_updated: "2023-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2023.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de noviembre de 2013.
 
@@ -53,9 +53,11 @@ Las disposiciones de esta Ley son de orden público e interés social en el terr
 
 Las disposiciones que se deriven de esta Ley serán aplicables a todas las personas que habitan o transitan el Estado de Puebla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2023)</small>
+
 ###### ARTÍCULO 2.
 
-Es obligación del Estado, en colaboración con los entes públicos, garantizar que todas las personas gocen, sin discriminación alguna, de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales ratificados por el Estado Mexicano, en la Constitución Política del Estado Libre y Soberano de Puebla, en la presente y demás leyes aplicables.
+Es obligación del Estado, en colaboración con los entes públicos, promover las condiciones, para que la libertad y la igualdad de las personas sean reales y efectivas, así como garantizar que todas estas gocen, sin discriminación alguna, de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales ratificados por el Estado Mexicano, en la Constitución Política del Estado Libre y Soberano de Puebla, en la presente y demás leyes aplicables.
 
 Es deber de los entes públicos impulsar, promover, gestionar y garantizar la eliminación de obstáculos que limiten a las personas el ejercicio del derecho humano a la igualdad y a la no discriminación e impidan su pleno desarrollo, así como su efectiva participación.
 
@@ -580,6 +582,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 16 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 2 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
