@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2023-04-17"
+last_updated: "2023-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2023.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -123,15 +123,15 @@ En el Estado de San Luis Potosí todas las personas son libres e iguales en dign
 
 La mujer y el hombre son iguales ante la ley. El Estado promoverá la igualdad de oportunidades de las mujeres y los hombres en la vida pública, económica, social y cultural.
 
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, o cualquier otra que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, la condición de migrante en retorno, o binacional en tránsito; el estado civil, o cualquier otra que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 9o.
 
-El Estado de San Luis Potosí tiene una composición pluriétnica, pluricultural, y multilingüística, sustentada originalmente en sus pueblos indígenas. Reconoce la existencia histórica y vigente en su territorio de los pueblos Nahuas; Téenek o Huastecos; Xi´oi o Pames; así como la presencia regular de los Wirrarika o Huicholes; y la población Afromexicana.
+El Estado de San Luis Potosí tiene una composición pluriétnica, pluricultural, y multilingüística, sustentada originalmente en sus pueblos indígenas. Reconoce la existencia histórica y vigente en su territorio de los pueblos Nahuas; Teének o Huastecos; y Xi´iuy; así como la presencia regular de los Wirrarika o Huicholes; y la población Afromexicana.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JULIO DE 2003)</small>
 
@@ -1651,37 +1651,37 @@ En la integración del Poder Judicial su ley establecerá la forma y procedimien
 
 El Supremo Tribunal de Justicia funcionará en Pleno o en Salas. Las sesiones del Pleno en las que se discutan y decidan los asuntos jurisdiccionales serán públicas, excepto aquellas que por su naturaleza se considere que deban ser reservadas.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
 
-La administración, vigilancia y disciplina del Poder Judicial del Estado, así como la carrera judicial, estarán a cargo del Consejo de la Judicatura, en los términos de esta Constitución y conforme lo establezcan las leyes. La vigilancia respecto de la función jurisdiccional de los magistrados, así como las resoluciones disciplinarias sobre los mismos, estarán a cargo del Pleno del Supremo Tribunal de Justicia.
+La administración, vigilancia y disciplina del Poder Judicial del Estado, así como la carrera judicial, estarán a cargo del Consejo de la Judicatura, en los términos de esta Constitución y conforme lo establezcan las leyes. La vigilancia respecto de la función jurisdiccional de las y los magistrados, así como las resoluciones disciplinarias sobre los mismos, estarán a cargo del Pleno del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 El Consejo de la Judicatura Estatal es un órgano del Poder Judicial del Estado, con independencia técnica, de gestión y para emitir sus resoluciones; funcionará en Pleno o en comisiones, y tendrá las atribuciones que determine la ley.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
 
-El Consejo se integrará con cuatro miembros, de los cuales uno será el Presidente del Supremo Tribunal de Justicia, quien también lo será del Consejo; uno designado por el Congreso del Estado; otro por el Supremo Tribunal de Justicia; y uno más, por el titular del Ejecutivo. Los designados por éstos dos últimos, serán ratificados por el Congreso del Estado. Para su integración se observará el principio de paridad de género.
+El Consejo se integrará con cuatro personas, de los (sic) cuales una será quien presida el Supremo Tribunal de Justicia, quien también lo será del Consejo; una designada por el Congreso del Estado; otra por el Supremo Tribunal de Justicia; y una más, por quien sea titular del Poder Ejecutivo. Las personas designadas por estos dos últimos, serán ratificadas por el Congreso del Estado. Para su integración se observará el principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
 
-Todos los consejeros deben reunir los requisitos señalados en el artículo 99 de esta Constitución, y ser personas que se hayan distinguido por su capacidad profesional, experiencia y honorabilidad en el ejercicio de sus actividades.
+Todas las personas consejeras deben reunir los requisitos señalados en el artículo 99 de esta Constitución, y distinguirse por su capacidad profesional, experiencia y honorabilidad en el ejercicio de sus actividades.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
 
-Las decisiones del Consejo serán definitivas e inatacables; salvo las que se refieren a la designación, adscripción, remoción y no ratificación de jueces, las cuales podrán ser recurridas ante el Pleno del Supremo Tribunal de Justicia del Estado.
+Las decisiones del Consejo serán definitivas e inatacables; salvo las que se refieren a la designación, adscripción, remoción y no ratificación de jueces o juezas, las cuales podrán ser recurridas ante el Pleno del Supremo Tribunal de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
 
-Los consejeros no representan a quien los designa, por lo que ejercerán sus funciones con independencia e imparcialidad. Durante su encargo sólo podrán ser removidos en los términos del Título Décimo Segundo de esta Constitución.
+Las personas consejeras no representan a quien las designa, por lo que ejercerán sus funciones con independencia e imparcialidad. Durante su encargo sólo podrán ser removidas en los términos del Título Décimo Segundo de esta Constitución.
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 La organización, funcionamiento y demás atribuciones del Consejo de la Judicatura del Estado, serán determinados por la ley, conforme a lo establecido en esta Constitución.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
 
-Salvo el Presidente del Consejo, los demás durarán cinco años en su encargo, serán sustituidos de manera escalonada y podrán ser reelectos por una sola vez. Al concluir su periodo tendrán derecho a un haber de retiro consistente en un único emolumento equivalente a un año de salario, sin perjuicio del pago de aguinaldo y vacaciones proporcionales que les correspondan. Dicha remuneración se cubrirá con base en el último salario percibido, siempre y cuando el Consejero no haya sido reelecto, o habiéndolo sido termine el periodo para el cual fue designado; o, padezca incapacidad física o mental que le impida el desempeño del encargo.
+Salvo quien presida el Consejo, las y los demás durarán cinco años en su encargo, serán sustituidos de manera escalonada. Al concluir su periodo tendrán derecho a un haber de retiro consistente en un único emolumento equivalente a un año de salario, sin perjuicio del pago de aguinaldo y vacaciones proporcionales que les correspondan. Dicha remuneración se cubrirá con base en el último salario percibido. Quienes sean designadas para concluir el término del cargo de otro consejero o consejera, podrán ser propuestas para el encargo de un periodo completo.
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
@@ -1783,27 +1783,23 @@ Cuando cese o concluya el ejercicio de una magistratura por cualquier causa, el 
 
 Para la integración de las dieciséis magistraturas se observará el principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 97.
 
-Los magistrados del Supremo Tribunal de Justicia durarán en su encargo seis años; pudiendo ser ratificados y si lo fueren, sólo podrán ser privados de sus puestos en los términos establecidos en la presente Constitución. Para los efectos de la ratificación, el Consejo de la Judicatura integrará la documentación y rendirá un informe con los elementos que permitan al Ejecutivo evaluar el desempeño de los magistrados, para que el Congreso resuelva en su caso, sobre la propuesta de ratificación.
+Las y los magistrados del Supremo Tribunal de Justicia durarán en su encargo diez años; y sólo podrán ser privados de sus puestos en los términos establecidos en la presente Constitución.
 
-Para ser ratificado se requerirá el voto favorable de cuando menos las dos terceras partes de los miembros del Congreso. En caso contrario se declarará la vacante, debiendo procederse en consecuencia.
+Las magistraturas en ningún caso podrán ser ejercidas después de los setenta y tres años de edad de su titular. Al vencimiento de su periodo, o término de su función por edad, tendrá derecho a un haber de retiro en los términos que marque la ley.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
-
-El cargo de magistrado en ningún caso podrá ser ejercido después de los setenta y tres años de edad, ni por un periodo mayor de quince años. Al vencimiento de su periodo o término de su función, tendrá derecho a un haber de retiro en los términos que marque la ley.
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 98.
 
-En la misma forma que los Magistrados numerarios, serán nombrados los Magistrados supernumerarios, pudiendo elegirse también dentro de la lista de los propuestos como numerarios. Los Magistrados supernumerarios tendrán las funciones que les asigne la ley y sustituirán, en el orden en que hayan sido nombrados por el Congreso del Estado, a aquéllos en sus faltas temporales y, provisionalmente, en las absolutas. En este último caso, los supernumerarios permanecerán en el desempeño del cargo hasta que tome posesión el Magistrado numerario nombrado para cubrir la vacante.
+En la misma forma que las magistraturas numerarias, serán nombradas las magistraturas supernumerarias, pudiendo elegirse también dentro de la lista de las propuestas como numerarias. Las y los magistrados supernumerarios tendrán las funciones que les asigne la ley y sustituirán, en el orden en que hayan sido nombrados por el Congreso del Estado, a aquéllos en sus faltas temporales y, provisionalmente, en las absolutas. En este último caso, los supernumerarios permanecerán en el desempeño del cargo hasta que tome posesión la persona titular de la Magistratura Numeraria nombrada para cubrir la vacante.
 
-Sólo los supernumerarios que ejerzan como numerarios formarán parte del Pleno del Supremo Tribunal de Justicia. Este podrá llamar a los supernumerarios que requiera y asignarles sus funciones.
+Sólo las y los supernumerarios que ejerzan como numerarios formarán parte del Pleno del Supremo Tribunal de Justicia. Éste podrá llamar a los supernumerarios que requiera y asignarles sus funciones.
 
-Los nombramientos de los Magistrados supernumerarios serán por seis años y podrán ser designados, por una sola vez, para un período igual, sin perjuicio de que sean propuestos por el Ejecutivo para ser nombrados numerarios.
+Los nombramientos de las y los magistrados supernumerarios serán por seis años y podrán ser designados, por una sola vez, para un período igual, sin perjuicio de que sean propuestos por el Ejecutivo para ser nombrados numerarios.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -3592,3 +3588,31 @@ PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles de su publi
 SEGUNDO. Las secretarías, y dependencias respecto de las que recae el cumplimiento de esta reforma, deberán adecuar sus respectivos reglamentos, manuales, y lineamientos, en un término de treinta días hábiles posteriores a la publicación del presente Decreto, para la implementación del mismo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0782.- SE REFORMA EL ARTÍCULO 9° EN SU PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 3° EN SU PÁRRAFO ÚLTIMO, DE LA LEY DE CONSULTA INDÍGENA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0783.- SE REFORMAN LOS ARTÍCULOS 90 EN SUS PÁRRAFOS QUINTO, SÉPTIMO, OCTAVO, NOVENO, DÉCIMO Y DÉCIMO SEGUNDO, 97 Y 98, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ. SE DEROGA EL ARTÍCULO 8°, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Las personas titulares de magistraturas del Supremo Tribunal de Justicia; y consejerías del Consejo de la Judicatura, del Poder Judicial del Estado, nombradas a la fecha de entrada en vigor del presente Decreto, y que no hayan sido ratificadas, no se les aplicará retroactivamente dicho Decreto, continuarán en sus cargos por el tiempo y las prerrogativas legales vigentes en el momento en que fueron nombradas. Inclusive el derecho a su ratificación.
+
+Sin embargo, las y los magistrados del Supremo Tribunal de Justicia del Estado podrán optar voluntariamente porque se les apliquen las disposiciones de este Decreto. Sólo en caso de que así lo decidan, deberán manifestarlo por escrito un año antes de la conclusión del periodo de su encargo previsto en las leyes que se reforman, tanto al titular del Poder Ejecutivo de la Entidad, como al Congreso del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0785.- SE REFORMA EL ARTÍCULO 8° EN SU PÁRRAFO TERCERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
