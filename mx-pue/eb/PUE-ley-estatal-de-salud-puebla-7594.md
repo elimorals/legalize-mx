@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2023-03-08"
+last_updated: "2023-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -103,11 +103,17 @@ V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y
 
 VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud y;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE JUNIO DE 2023)</small>
+
 VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2023)</small>
 
-VIII. El reconocimiento, promoción e investigación de la Medicina Tradicional, como un sistema alternativo y complementario en la atención de la salud de la Medicina Alópata, respetando el patrón cultural y sus costumbres étnicas establecidas.
+VIII. El reconocimiento, promoción e investigación de la Medicina Tradicional, como un sistema alternativo y complementario en la atención de la salud de la Medicina Alópata, respetando el patrón cultural y sus costumbres étnicas establecidas; y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2023)</small>
+
+IX. El reconocimiento de la Medicina Homeopática.
 
 ###### ARTICULO 3º.
 
@@ -171,13 +177,17 @@ XVII. La participación con las Autoridades Federales en el desarrollo de los pr
 
 XVIII. Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados para su consumo dentro o fuera del mismo establecimiento basándose en la Norma Oficial Mexicana;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2023)</small>
 
-XIX. Reconocer, validar y aplicar la práctica de la Medicina Tradicional; y
+XIX. Reconocer, validar y aplicar la práctica de la Medicina Tradicional;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2023)</small>
 
-XX. Las demás que establezcan la Ley General de Salud y otras disposiciones aplicables.
+XX. Reconocer la práctica de la Medicina Homeopática; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JUNIO DE 2023)</small>
+
+XXI. Las demás que establezcan la Ley General de Salud y otras disposiciones aplicables.
 
 B.- En materia de salubridad local:
 
@@ -1028,6 +1038,10 @@ Para el ejercicio de actividades técnicas y auxiliares que requieran conocimien
 > <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2021)</small>
 
 Para el ejercicio de actividades profesionales en el campo de la medicina, se requiere tener capacitación en derechos humanos, prevención de la violencia obstétrica, interculturalidad y perspectiva de género por lo menos cada 3 años.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2023)</small>
+
+Para el ejercicio de actividades de la Medicina Homeopática, la prescripción de medicamentos homeopáticos, únicamente la podrá realizar un profesional médico capacitado en la materia, en términos de la Ley General de Salud.
 
 ###### ARTICULO 73.
 
@@ -3576,6 +3590,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IX DEL APARTADO C DEL ARTÍCULO 12 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VII Y VIII DEL ARTÍCULO 2, LAS FRACCIONES XIX Y XX DEL APARTADO A DEL ARTÍCULO 4, Y ADICIONA LA FRACCIÓN IX AL ARTÍCULO 2, LA FRACCIÓN XXI DEL APARTADO A DEL ARTÍCULO 4 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 72 DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
 
