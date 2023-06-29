@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-mexicano-de-estudios-estrategicos-1640
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-02-01"
-last_updated: "2023-02-01"
+last_updated: "2023-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164079&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-01-26"
 
 REGLAMENTO DEL INSTITUTO MEXICANO DE ESTUDIOS ESTRATÉGICOS EN SEGURIDAD Y DEFENSA NACIONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2023.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 1 de febrero de 2023.
 
@@ -59,11 +59,15 @@ La visión del Instituto Mexicano de Estudios Estratégicos en Seguridad y Defen
 
 Para efectos de este Reglamento, se entenderá por:
 
-I. Dirección y Rectoría: la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea de la Secretaría;
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2023)</small>
 
-II. Instituto: el Instituto Mexicano de Estudios Estratégicos en Seguridad y Defensa Nacionales, y
+I. Consejo: Consejo Académico del Instituto;
 
-III. Secretaría: la Secretaría de la Defensa Nacional.
+II. Dirección y Rectoría: la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea de la Secretaría;
+
+III. Instituto: el Instituto Mexicano de Estudios Estratégicos en Seguridad y Defensa Nacionales, y
+
+IV. Secretaría: la Secretaría de la Defensa Nacional.
 
 ###### Artículo 5.
 
@@ -100,6 +104,12 @@ La Dirección del Instituto expedirá certificados, constancias, diplomas, títu
 El Instituto, para cumplir con su misión y objetivos, se organiza como sigue:
 
 I. Dirección;
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2023)</small>
+
+a) Consejo.
+
+Es un órgano de consulta y asesoría en el ámbito académico y científico para la Dirección, que tiene como objetivo coadyuvar en el fortalecimiento de los proyectos y actividades del Instituto para propiciar el desarrollo de su misión;
 
 II. Subdirección;
 
@@ -191,9 +201,59 @@ XIV. Convocar a los comités académicos que se requieran, así como designar a 
 
 XV. Acreditar los grados académicos, diplomas y reconocimientos que expida el Instituto;
 
-XVI. Aplicar o, en su caso, proponer al Alto Mando las sanciones que correspondan al personal discente, civil o militar, nacional y becarios, que infrinjan las disposiciones establecidas en el presente Reglamento, así como de otras disposiciones establecidas por el Instituto, y
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2023)</small>
 
-XVII. Autorizar los períodos de vacaciones conforme al calendario escolar, así como las licencias por causas justificadas al personal del Instituto.
+XVI. Aplicar o, en su caso, proponer al Alto Mando las sanciones que correspondan al personal discente, civil o militar, nacional y becarios, que infrinjan las disposiciones establecidas en el presente reglamento, así como de otras disposiciones establecidas por el Instituto;
+
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2023)</small>
+
+XVII. Autorizar los períodos de vacaciones conforme al calendario escolar, así como las licencias por causas justificadas al personal del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2023)</small>
+
+XVIII. Convocar al Consejo y fungir como la Secretaría Técnica de dicho Consejo.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2023)</small>
+
+###### Artículo 12 Bis.
+
+Los cargos de los integrantes del Consejo deben ser honorarios y tienen una periodicidad de tres años, con la posibilidad de ser ratificados por una sola vez.
+
+El funcionamiento del Consejo debe sujetarse a los lineamientos establecidos por el Instituto.
+
+La integración y perfil de los integrantes del Consejo, así como su funcionamiento se debe regir por lo siguiente:
+
+I. La Presidencia está a cargo de la persona titular de la Dirección y Rectoría;
+
+II. La Secretaría Técnica está a cargo de la persona titular de la Dirección del Instituto;
+
+III. El Consejo se debe constituir con once integrantes como mínimo o con quince como máximo;
+
+IV. Los integrantes que designe la Dirección del Instituto deberán ser académicos e investigadores de reconocido prestigio y trayectoria significativa en sus respectivas áreas de conocimiento, y
+
+V. El Consejo debe funcionar en pleno a convocatoria de la persona titular de la Dirección del Instituto por lo menos una vez al año. Sus opiniones no son vinculantes y serán emitidas a petición de la persona titular de la Dirección.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2023)</small>
+
+###### Artículo 12 Ter.
+
+El Consejo tiene las atribuciones siguientes:
+
+I. Asesorar a la persona titular de la Dirección del Instituto, en los ámbitos académico y científico, con el fin de fortalecer los esfuerzos hacia el desarrollo de la misión y visión del Instituto;
+
+II. Formular recomendaciones a la persona titular de la Dirección del Instituto, con el objetivo de estrechar las relaciones con la comunidad intelectual nacional e internacional;
+
+III. Proponer proyectos para ampliar las relaciones académicas y científicas con instituciones de educación superior y organizaciones de la sociedad civil, en beneficio del Sistema Educativo Militar, a través del Instituto;
+
+IV. Sugerir acciones para el fortalecimiento de los programas académicos y la mejora continua del Instituto;
+
+V. Formular recomendaciones que contribuyan a la mejora de las formas y contenidos de las investigaciones que se realizan en el Instituto;
+
+VI. Aportar una visión exógena de la actividad docente que se lleva a cabo en el Instituto, con base en las metodologías de avanzada en el ámbito nacional e internacional;
+
+VII. Recomendar la organización de seminarios, conferencias y otros eventos académicos relacionados con los estudios e investigaciones que se realizan en el Instituto, y
+
+VIII. Proponer la publicación de obras científicas o de divulgación de temas relacionados con el desarrollo, la seguridad y la defensa nacionales.
 
 ### CAPÍTULO II. De la Subdirección
 
@@ -984,3 +1044,15 @@ SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del p
 TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México a 26 de enero de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de la Defensa Nacional, Luis Cresencio Sandoval González.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL INSTITUTO MEXICANO DE ESTUDIOS ESTRATÉGICOS EN SEGURIDAD Y DEFENSA NACIONALES”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+Tercero.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
