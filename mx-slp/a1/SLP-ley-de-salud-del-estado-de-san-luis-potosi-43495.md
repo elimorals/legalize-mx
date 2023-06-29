@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2023-05-15"
+last_updated: "2023-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1605,13 +1605,17 @@ II. Apoyar la creación de centros de capacitación, protección, cuidado y actu
 
 III. Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2023)</small>
 
-IV. Promover la participación de profesionales, técnicos y auxiliares de la salud en actividades de personas docentes o técnicas, y
+IV. Promover la participación de profesionales, técnicos y auxiliares de la salud en actividades de personas docentes o técnicas;
 
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2023)</small>
 
-V. Incluir cursos y adiestramientos sobre la formación con perspectiva de género, derechos humanos de las mujeres y los hombres, y la no discriminación.
+V. Incluir cursos y adiestramientos sobre la formación con perspectiva de género, derechos humanos de las mujeres y los hombres, y la no discriminación, y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2023)</small>
+
+VI. Conforme al Reglamento de la Ley General de Salud en materia de prestación de servicios de atención médica, promover campañas y jornadas de capacitación y actualización dirigidas al personal no profesional de la salud que se desempeñan en las comunidades más alejadas y de difícil acceso del Estado.
 
 ###### ARTICULO 79.
 
@@ -4802,6 +4806,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 15 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0754.- SE REFORMAN LOS ARTÍCULOS 179 Y 180, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0784.- SE REFORMA EL ARTÍCULO 78 EN SUS FRACCIONES IV Y V; Y ADICIONA AL MISMO ARTÍCULO 78 LA FRACCIÓN VI, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
