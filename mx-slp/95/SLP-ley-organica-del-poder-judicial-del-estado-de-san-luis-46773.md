@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2023-04-10"
+last_updated: "2023-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -177,41 +177,7 @@ Sólo los supernumerarios que ejerzan como numerarios formarán parte del Pleno 
 
 ###### ARTICULO 8º.
 
-Los magistrados del Supremo Tribunal de Justicia serán elegidos en la forma y términos establecidos en la Constitución Política del Estado y para serlo, deberán reunir los requisitos señalados en la misma.
-
-Para efectos de lo dispuesto en el artículo 97 de la Constitución Política del Estado, la ratificación o no de los magistrados, se llevará a cabo atendiendo al siguiente procedimiento:
-
-I. El Poder Judicial a través del Consejo de la Judicatura, deberá remitir al Gobernador del Estado, por lo menos seis meses antes de que concluya el encargo del Magistrado de que se trate, el expediente y toda la información relativa al mismo, que obre en sus archivos y en sus unidades de control y estadística, así como en su caso, los expedientes de las denuncias o quejas que se hayan substanciado en su contra durante su ejercicio.
-
-El expediente deberá contener, cuando menos:
-
-a) Fecha y materia de los asuntos turnados y resueltos en la Sala a la que pertenece el Magistrado.
-
-b) Fecha y materia de los asuntos turnados y proyectados por el Magistrado, tanto en la Sala de su adscripción, como en el Pleno.
-
-c) El número de juicios de amparo promovidos en contra de resoluciones dictadas por la Sala, particularmente los que se hayan proyectado por el Magistrado, detallando los que se hayan concedido, negado o sobreseído.
-
-d) La relación de los servidores públicos que han colaborado con el Magistrado.
-
-e) Las quejas presentadas en contra del Magistrado y el sentido de su resolución.
-
-f) Un muestreo aleatorio de cuando menos cinco expedientes integrados, por año, de los asuntos cuya resolución haya sido proyectada por el Magistrado de que se trate durante su función.
-
-g) Las actividades realizadas por el Magistrado en caso de haber ocupado la Presidencia del Supremo Tribunal de Justicia, o cualquier otra comisión encomendada.
-
-II. El Titular del Ejecutivo del Estado, una vez recibido el expediente a que se refiere la fracción anterior, podrá además recabar toda la información que requiera, de otras fuentes pertinentes sobre el desempeño de los magistrados de que se trate; dándoles vista con la misma y citándolos a una audiencia previa a la emisión del dictamen, a efecto de que expongan lo que a sus intereses convenga y aporten pruebas, en su caso;
-
-III. Desahogado lo anterior, el Gobernador remitirá al Congreso del Estado, por lo menos tres meses antes de que concluya el periodo del Magistrado de que se trate, las propuestas que procedan, así como la documentación correspondiente y el dictamen que contenga los elementos de juicio en que base su resolución de ratificarlo o no en el cargo, y en el que se evalúe con criterios objetivos el desempeño del Magistrado en cuestión.
-
-El dictamen a que se refiere el párrafo anterior deberá contener toda la información, elementos y opiniones fundadas que permitan al Congreso ilustrar su decisión, y deberá ser acompañado por el expediente respectivo;
-
-IV. En caso de que el dictamen del Ejecutivo sea en el sentido de no ratificar en el cargo al Magistrado de que se trate, deberá enviarlo al Congreso para que resuelva lo conducente, acompañando al mismo la propuesta de la terna a que se refiere la Constitución del Estado, para elegir a quien deba ocupar la vacante, y
-
-V. Si el dictamen del Ejecutivo propone la ratificación del Magistrado, el Congreso si la estima procedente, citará a éste para valorar los aspectos que considere necesarios a fin de determinar la procedencia de su ratificación. En caso de que el Congreso rechace la propuesta de ratificación, lo hará del conocimiento del Ejecutivo a efecto de que el mismo presente terna para ocupar la vacante.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
-
-Los magistrados que sean ratificados en su encargo, gozarán de inamovilidad en términos de lo dispuesto en la Constitución Política del Estado, y sólo podrán ser removidos conforme a lo que establece la propia Constitución, la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, y demás ordenamientos aplicables.
+(DEROGADO, P.O. 29 DE JUNIO DE 2023)
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
@@ -2894,5 +2860,13 @@ P.O. 10 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0730.- SE REFORMA EL ARTÍCULO 12, EN SU PÁRRAFO PRIMERO; Y ADICIONA AL ARTÍCULO 12, PÁRRAFO TERCERO Y EL ARTÍCULO 25 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO (SIC) SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor a más tardar a los trescientos sesenta y cinco días naturales siguientes de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0783.- SE REFORMAN LOS ARTÍCULOS 90 EN SUS PÁRRAFOS QUINTO, SÉPTIMO, OCTAVO, NOVENO, DÉCIMO Y DÉCIMO SEGUNDO, 97 Y 98, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ. SE DEROGA EL ARTÍCULO 8º, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
