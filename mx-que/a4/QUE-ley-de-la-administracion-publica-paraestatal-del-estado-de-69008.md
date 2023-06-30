@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-administracion-publica-paraestatal-del-estado-de-6900
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-17"
-last_updated: "2023-03-31"
+last_updated: "2023-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "QUE"
 
 LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MARZO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -465,11 +463,11 @@ En la formulación de sus presupuestos, las entidades paraestatales se sujetará
 
 En el caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos, con el objeto de contar con la previsión del gasto a plazos mayores a un año.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
 
 ###### Artículo 48.
 
-Para la celebración de cualquier clase de convenio o contrato que comprometa recursos del Estado, por parte de una entidad, deberá contarse con la autorización expresa de la Secretaría de Finanzas, de la Secretaría de la Contraloría y de la Oficialía Mayor del Poder Ejecutivo del Estado.
+Para la celebración de cualquier clase de convenio o contrato que comprometa recursos del Estado, por parte de una entidad, deberá contarse con la autorización expresa de la Secretaría de Finanzas del Poder Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
@@ -543,9 +541,9 @@ La facultad de aprobación en materia de la estructura orgánica de las entidade
 
 IX. Aprobar los proyectos de reglamentos de la entidad que deberán ser turnados por conducto del Comisionado General de Entidades Paraestatales al Secretario de Gobierno del Estado para su trámite;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
-X. Aprobar manuales administrativos de la entidad que deberán ser turnados por conducto del Comisionado General de Entidades Paraestatales al Oficial Mayor del Poder Ejecutivo del Estado para su conocimiento y divulgación;
+X. Aprobar manuales administrativos de la entidad que deberán ser turnados por conducto del Comisionado General de Entidades Paraestatales al titular de la Oficialía Mayor del Poder Ejecutivo del Estado para su conocimiento;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1824,3 +1822,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 30 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 47, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO; 48 Y 54, FRACCIÓN X, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y 8 BIS, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
