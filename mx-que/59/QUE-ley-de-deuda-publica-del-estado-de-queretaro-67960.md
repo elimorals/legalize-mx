@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-deuda-publica-del-estado-de-queretaro-67960"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2021-10-08"
+last_updated: "2023-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. D
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -199,13 +197,9 @@ V. La adquisición de mobiliario y equipo destinado para el servicio público; y
 
 VI. La que así defina la Legislatura del Estado, en la autorización de endeudamiento, previa justificación de la productividad de la inversión pública a realizar.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
 
-Artículo 8 bis. Los proyectos de inversión pública productiva se deberán ejecutar en las zonas de mayor marginación del Estado y Municipios, con base en la categorización de marginación emitida por el Consejo Nacional de Población.
-
-Dichos proyectos deberán mejorar la calidad de vida de la población, a través de la generación de empleos e ingresos.
-
-Los Gobiernos Estatal y Municipales deberán comprobar a la Legislatura del Estado, la sustentabilidad y sostenibilidad de los proyectos de un periodo de gobierno a otro e informarán, una vez terminado el proyecto, los avances y resultados obtenidos.
+Artículo 8 bis. Los Poderes, entidades paraestatales y organismos autónomos del Estado, así como los municipios, solamente podrán contraer obligaciones o financiamientos cuando se destinen a inversiones públicas productivas y a refinanciamiento o reestructura, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y Municipios.
 
 ###### Artículo 9.
 
@@ -934,3 +928,13 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 30 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 47 DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO; 48 Y 54, FRACCIÓN X, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, Y 8 BIS DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
