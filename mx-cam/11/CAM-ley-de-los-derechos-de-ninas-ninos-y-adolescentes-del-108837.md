@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2023-02-28"
+last_updated: "2023-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -142,6 +142,10 @@ XXII. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolesc
 XXIII. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
 
 XXIV. Protección Integral: Conjunto de mecanismos que se ejecutan en los tres órdenes de gobierno con el fin de garantizar, de manera universal y especializada, cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano forma parte y los principios rectores de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+XXIV bis. Reclutamiento: Acción de coerción, engaño, amenaza, violencia, coacción, intimidación o manipulación con la finalidad de que niñas, niños y adolescentes sean usados, utilizados o integrados en conflictos armados o violentos, o para su participación en la comisión de delitos o en asociaciones delictuosas;
 
 XXV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
@@ -311,9 +315,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas atribu
 
 Niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 16.
 
-Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos.
+Niñas, niños y adolescentes tienen derecho a no ser privados de la vida en ninguna circunstancia, ni ser reclutados o utilizados en conflictos armados o violentos, o para su participación en la comisión de delitos o en asociaciones delictuosas.
 
 ### CAPÍTULO SEGUNDO. DEL DERECHO DE PRIORIDAD
 
@@ -609,7 +615,9 @@ V. El trabajo antes de la edad mínima de quince años, prevista en el artículo
 
 VI. El trabajo en adolescentes mayores de quince años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso y la esclavitud, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
 
-VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+VII. La incitación, coacción o reclutamiento para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral;
 
 VIII. Todas las formas de violencia que atenten e impidan su correcto desarrollo integral, promoviendo medios efectivos que impidan su participación activa y pasiva en eventos y espectáculos en los que se promueva toda forma de violencia.
 
@@ -1199,7 +1207,9 @@ V. Asegurar y ofrecer un entorno afectivo, comprensivo y sin violencia para el p
 
 VI. Fomentar en las niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
-VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas, explotación y reclutamiento;
 
 VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
 
@@ -2160,3 +2170,11 @@ P.O. 28 DE FEBRERO DE 2023.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
+
+P.O. 30 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 240 POR EL QUE "SE REFORMA EL ARTÍCULO 16; LA FRACCIÓN VII DEL ARTÍCULO 46; LA FRACCIÓN VII DEL ARTÍCULO 99 Y, SE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
