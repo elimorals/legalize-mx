@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-adultos-mayores-para-el-estado-de-45299"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-28"
-last_updated: "2023-06-21"
+last_updated: "2023-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 28 de junio de 2005.
 
@@ -145,11 +145,17 @@ c. A recibir asesoría jurídica en forma gratuita en los procedimientos adminis
 
 d. En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección de su patrimonio personal y familiar.
 
-III. De la salud, la alimentación y la familia;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE JUNIO DE 2023)</small>
 
-a. A tener acceso a los satisfactores necesarios, considerando alimentos, bienes, servicios y condiciones humanas o materiales para su atención integral; y
+III. De la protección de la salud, la alimentación y la familia:
 
-b. A recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal.
+a. A tener acceso a los satisfactores necesarios, considerando alimentos, bienes, servicios y condiciones humanas o materiales para su atención integral;
+
+b. A recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal;
+
+c. A tener acceso preferente a los servicios de salud, de conformidad con el párrafo cuarto del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos y en los términos que señala el artículo 11 de esta Ley, con el objeto de que gocen cabalmente del derecho a su sexualidad, bienestar físico, mental y psicoemocional; y
+
+d. A desarrollar y fomentar la capacidad funcional que les permita ejecutar sus tareas y desempeñar sus roles sociales.
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE JUNIO DE 2023)</small>
 
@@ -212,6 +218,14 @@ g) Recibir la atención necesaria para el cuidado de su salud mental;
 h) Recibir por parte del personal capacitado la identificación de la enfermedad y su seguimiento;
 
 i) Ausentarse de sus trabajos por causa de la enfermedad que de origen a la crisis sanitaria sin dejar de percibir su salario.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE JUNIO DE 2023)</small>
+
+IX. De la educación:
+
+a. A recibir de manera preferente el derecho a la educación en términos de lo dispuesto en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, y de conformidad con lo establecido en el artículo 10 de esta Ley, atendiendo en todo momento a un enfoque diferencial, de universalidad, de inclusión y respeto, y
+
+b. Las instituciones educativas, públicas y privadas, procurarán incluir en sus planes y programas los conocimientos relacionados con las personas adultas mayores incorporando información sobre el tema del envejecimiento digno, así como los derechos y garantías de las personas adultas mayores.
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2018)</small>
 
@@ -850,6 +864,14 @@ Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo q
 P.O. 21 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 239 POR EL QUE “SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 30 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 241 POR EL QUE “SE REFORMA LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE”.]
 
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
