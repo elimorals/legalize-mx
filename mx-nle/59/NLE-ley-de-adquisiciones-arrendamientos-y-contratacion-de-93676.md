@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-adquisiciones-arrendamientos-y-contratacion-de-93676"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-27"
-last_updated: "2021-06-16"
+last_updated: "2023-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de marzo de 2013.
 
@@ -467,9 +467,13 @@ Este Registro será público y se regirá por las normas de esta Ley y de su Reg
 
 ### CAPÍTULO III. DE LOS PROCEDIMIENTOS DE CONTRATACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 25.
 
 Tipos de procedimientos
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE JUNIO DE 2023)</small>
 
 Los entes gubernamentales seleccionarán de entre los procedimientos que a continuación se señalan, aquél que de acuerdo con la naturaleza de la contratación asegure las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes:
 
@@ -483,7 +487,17 @@ IV. Subasta electrónica inversa
 
 Debiendo observar los montos establecidos en la Ley de Egresos del Estado de Nuevo León, para los diferentes tipos de adquisición.
 
-Las adquisiciones, arrendamientos y servicios se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten propuestas solventes para acreditar las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+Las adquisiciones, arrendamientos y servicios se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten propuestas solventes para acreditar las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, uso responsable del agua, optimización y uso sustentable de los recursos, así como la protección al medio ambiente y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2023)</small>
+
+Cuando las dependencias, entidades o unidades administrativas requieran obtener papel para uso de oficina deberán adquirir aquel cuyos materiales sean principalmente reciclados.
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2023).
+
+De igual manera, en las adquisiciones de vehículos automotores se procurarán la adquisición o arrendamiento de aquellas unidades que garanticen cero o bajas emisiones de gases contaminantes.
 
 En los procedimientos de contratación deberá asegurarse:
 
@@ -1694,3 +1708,11 @@ P.O. 16 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 479. SE REFORMAN LAS FRACCIONES IXX (SIC) Y XX, Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 42 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 410. SE REFORMA EL ARTÍCULO 25 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE NUEVO LEÓN".]
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación.
