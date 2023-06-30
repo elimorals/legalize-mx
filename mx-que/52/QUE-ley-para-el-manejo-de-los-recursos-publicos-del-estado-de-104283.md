@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2022-05-20"
+last_updated: "2023-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -713,11 +713,13 @@ El Presupuesto de Egresos del Estado, contendrá además los recursos económico
 
 La Secretaría, en el ámbito de su competencia, podrá solicitar y obtener de los sujetos de la Ley, la información necesaria que respalde sus proyectos de presupuesto.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
 
 ###### Artículo 47.
 
-En el Presupuesto de Egresos del Estado, se considerará una partida para la promoción, difusión y proyección de la imagen y productos turísticos del Estado, que será una cantidad equivalente al setenta y cinco por ciento de los recursos recaudados por concepto del impuesto por la prestación de servicio de hospedaje, la cual será transferida al fideicomiso que para tal efecto se establezca, dentro de los treinta días naturales siguientes al mes en que se recaude.
+En el Presupuesto de Egreso (sic) del Estado, se considerará una partida para la promoción, difusión y proyección de la imagen y productos turísticos del Estado, que será una cantidad equivalente al setenta y cinco por ciento de los recursos autorizados por la Legislatura por concepto del Impuesto por la Prestación de Servicio de Hospedaje, la cual será transferida al Fideicomiso que para tal efecto se establezca, conforme a la calendarización de los recursos del Decreto del Presupuesto de Egresos.
+
+Para efectos del párrafo anterior, los recursos autorizados por concepto del Impuesto por la Prestación de Servicio de Hospedaje, se proyectarán de conformidad con las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
@@ -2442,3 +2444,13 @@ Artículo Décimo Cuarto. Las hojas de testimonio que deberán utilizar los Nota
 Artículo Décimo Quinto. La Secretaría de Gobierno del Poder Ejecutivo, dictará las provisiones necesarias para el cumplimiento de lo dispuesto en la presente Ley, atendiendo a las circunstancias que se presenten con motivo de la asignación de los números a los Notarios.
 
 Artículo Décimo Sexto. Las contrataciones de servicios integrales a largo plazo previstos en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro o compromisos plurianuales, celebradas en el ejercicio fiscal 2022, les serán aplicables las disposiciones contenidas en los Artículos Tercero, Cuarto y Quinto de la presente Ley.
+
+P.O. 30 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “LEY QUE REFORMA LOS ARTÍCULOS 47, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO; 48 Y 54, FRACCIÓN X, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y 8 BIS, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
