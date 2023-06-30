@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-141362"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-02-17"
-last_updated: "2023-02-02"
+last_updated: "2023-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141362&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-01-08"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS, PUBLICADO EN EL D.O.F. DE 30 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2023 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 17 de febrero de 2020.
 
@@ -1788,3 +1790,35 @@ VI. El Área de Auditoría Interna (Subcontralor), se entenderán referidas al �
 VII. El Área de Quejas, se entenderán referidas al Área de Quejas, Denuncias e Investigaciones.
 
 Lo anterior sin perjuicio de lo que determinen los manuales de organización correspondientes y de conformidad con la normativa aplicable.
+
+D.O.F. 30 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología publicado en el Diario Oficial de la Federación el 17 de febrero de 2020, así como sus reformas, y se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
+
+TERCERO. Las autorizaciones, nombramientos, documentos y demás disposiciones que se hayan emitido con referencia al Consejo Nacional de Ciencia y Tecnología, se entenderán referidos al Consejo Nacional de Humanidades, Ciencias y Tecnologías, por lo que seguirán vigentes y contarán con plena validez.
+
+Lo anterior de conformidad con el transitorio quinto y sin perjuicio de lo establecido en el transitorio décimo del Decreto por el que se expide la Ley General en Materia de Humanidades, Ciencias, Tecnologías e Innovación, y se reforman y adicionan diversas disposiciones de la Ley Federal de las Entidades Paraestatales y de la Ley de Planeación, publicado el 08 de mayo de 2023 en el Diario Oficial de la Federación.
+
+CUARTO. Todas las referencias que, en las autorizaciones, nombramientos, documentos y demás disposiciones se hagan a:
+
+I. La Dirección Adjunta de Desarrollo Científico, se entenderán referidas a la Dirección Adjunta de Investigación Humanística y Científica;
+
+II. La Coordinación de Apoyos a Becarios e Investigadores, se entenderán referidas a la Coordinación de Programas para la Formación y Consolidación de la Comunidad;
+
+III. La Dirección del Sistema Nacional de Investigadores, se entenderán referidas a la Dirección del Sistema Nacional de Investigadoras e Investigadores;
+
+IV. La Dirección de Apoyos para la Consolidación de la Comunidad Científica, se entenderán referidas a la Dirección de Apoyos para la Consolidación de la Comunidad, y
+
+V. La Dirección de Administración e Información de Fondos CONACYT, se entenderán referidas a la Dirección de Administración e Información de Fondos.
+
+QUINTO. En un plazo no mayor a 30 días, contados a partir de la fecha en que entre en vigor el presente Estatuto Orgánico, el Consejo Nacional expedirá los manuales de organización correspondientes.
+
+SEXTO. Los asuntos pendientes de resolución a la entrada en vigor del presente Estatuto se sustanciarán de conformidad con la normativa que les dio origen.
+
+SÉPTIMO. Las unidades administrativas, en el ámbito de sus competencias, deberán adecuar la normativa vigente en todo aquello que guarde relación con el presente Estatuto.
+
+OCTAVO. La Unidad de Administración y Finanzas conservará las facultades necesarias para coordinar, con el apoyo que corresponda de la Unidad de Asuntos Jurídicos, la formalización de la extinción de los fideicomisos constituidos al amparo de la hoy abrogada Ley de Ciencia y Tecnología.
