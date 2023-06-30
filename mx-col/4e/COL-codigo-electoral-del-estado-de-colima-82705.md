@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-82705"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-08-30"
-last_updated: "2023-03-16"
+last_updated: "2023-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE JULIO DE 2023 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
 
 Código publicado en el suplemento No. 1 del Periódico Oficial del Estado de Colima, el martes 30 de agosto de 2011.
 
@@ -201,6 +203,10 @@ IX. Participar en las precampañas y campañas, apoyando a los precandidatos, ca
 
 X. Los demás que establezcan este CÓDIGO y las leyes.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+Los derechos político-electorales de las y los colimenses, se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación alguna por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
 ###### ARTÍCULO 8o.
 
 El sufragio expresa la voluntad soberana del pueblo de Colima. Votar en las elecciones constituye un derecho y una obligación del ciudadano colimense que se ejerce para integrar los órganos de elección popular del ESTADO y Municipios.
@@ -233,7 +239,7 @@ No podrán votar los ciudadanos que se encuentren en alguno de los supuestos sig
 
 I. Los que se encuentren en el supuesto a que alude la fracción I del artículo 38 de la CONSTITUCIÓN FEDERAL;
 
-II. Estar sujetos a proceso penal por delito que merezca pena corporal, siempre que se encuentren privados de su libertad;
+II. (DEROGADA, P.O. 30 DE JUNIO DE 2023)
 
 III. Los que se encuentren extinguiendo una pena corporal privados de su libertad;
 
@@ -248,6 +254,10 @@ VII. Encontrarse sujeto a interdicción o incapacidad dictada por autoridad judi
 VIII. Los demás que señalen las leyes.
 
 No se admitirá en las casillas a quienes se presenten armados, embozados o se encuentren notoriamente en estado de ebriedad o bajo el influjo de enervantes, así como a los que hagan propaganda y en cualquier forma pretendan coaccionar a los votantes.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+ARTÍCULO 10 BIS.- El INSTITUTO deberá observar lo estipulado en el artículo 19 de la CONSTITUCIÓN, respecto a la suspensión de los derechos político-electorales de la ciudadanía.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES
 
@@ -513,9 +523,9 @@ El presente Libro regula los procedimientos para la constitución, registro, que
 
 Los PARTIDOS POLÍTICOS son entidades de interés público con personalidad jurídica y patrimonio propios, inscritos o con registro legal ante el INE o ante el INSTITUTO y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
 
-Los PARTIDOS POLÍTICOS promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y buscarán la participación efectiva de ambos géneros y de los jóvenes en la integración de sus órganos de dirección, así como en la postulación de candidatos. En el ESTADO, gozarán de las mismas prerrogativas que les confiere la CONSTITUCIÓN FEDERAL.
+Los PARTIDOS POLÍTICOS promoverán los valores cívicos y la cultura democrática, la igualdad sustantiva, entre niñas, niños y adolescentes, y buscarán la participación efectiva de ambos géneros y de los jóvenes en la integración de sus órganos de dirección, así como en la postulación de candidaturas, libres de discriminación por razón de discapacidad, de la diversidad sexual y otros grupos vulnerables, en la vida política y pública en igualdad de condiciones, de conformidad a lo establecido en este Código. En el ESTADO, gozarán de las mismas prerrogativas que les confiere la CONSTITUCIÓN FEDERAL.
 
 ###### ARTÍCULO 37.
 
@@ -593,9 +603,9 @@ III. La obligación de no aceptar pacto o acuerdo que lo sujete o subordine a cu
 
 IV. La obligación de encauzar sus actividades por medios pacíficos y por la vía democrática, y
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
-V. La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres.
+V. La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres, la no discriminación por razones de género, discapacidad, diversidad sexual y otros grupos vulnerables.
 
 ###### ARTÍCULO 43.
 
@@ -613,7 +623,9 @@ II. Proponer políticas públicas;
 
 III. Formar ideológica y políticamente a sus militantes; y
 
-IV. Preparar la participación activa de sus militantes en los procesos electorales.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+IV. Preparar la participación activa de sus militantes en los procesos electorales, libres de discriminación por razón de género, discapacidad, de la diversidad sexual y otros grupos vulnerables.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -623,15 +635,21 @@ Los estatutos establecerán:
 
 I. La denominación propia, emblema y color o colores que lo identifique y diferencie de otros PARTIDOS POLÍTICOS, los cuales deberán estar exentos de alusiones, símbolos o significados religiosos o raciales;
 
-II. Los procedimientos para la afiliación libre, individual, personal y pacífica de sus miembros, así como sus derechos y obligaciones;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+II. Los procedimientos para la afiliación libre, individual, personal, pacífica de sus miembros y libres de discriminación por razón de género, discapacidad, diversidad sexual y otros grupos vulnerables, así como sus derechos y obligaciones;
 
 III. Los derechos y obligaciones de los militantes;
 
 IV. La estructura orgánica bajo la cual se organizará el PARTIDO POLITICO;
 
-V. Las normas y procedimientos democráticos para la integración y renovación de los órganos internos, así como las funciones, facultades y obligaciones de los mismos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
-VI. Las normas y procedimientos democráticos para la postulación de sus candidatos;
+V. Las normas y procedimientos democráticos para la integración y renovación de los órganos internos, libres de discriminación por razón de género, discapacidad, de la diversidad sexual y otros grupos vulnerables, así como las funciones, facultades y obligaciones de los mismos;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+VI. Las normas y procedimientos democráticos para la postulación de sus candidatos, libres de discriminación por razón de género, discapacidad, de la diversidad sexual y otros grupos vulnerables;
 
 VII. La obligación de presentar una plataforma electoral, para cada elección en que participe, sustentada en su declaración de principios y programas de acción;
 
@@ -639,7 +657,9 @@ VIII. La obligación de sus candidatos de sostener y difundir la plataforma elec
 
 IX. Los tipos y las reglas de financiamiento privado a los que recurrirán los partidos políticos;
 
-X. Las normas, plazos y procedimientos de justicia intrapartidaria y los mecanismos alternativos de solución de controversias internas, con los cuales se garanticen los derechos de los militantes, así como la oportunidad y legalidad de las resoluciones; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+X. Las normas, plazos y procedimientos de justicia intrapartidaria y los mecanismos alternativos de solución de controversias internas, con los cuales se garanticen los derechos de los militantes y libres de discriminación por razón de género, discapacidad, de la diversidad sexual y otros grupos vulnerables, así como la oportunidad y legalidad de las resoluciones; y
 
 XI. Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas, mediante un procedimiento disciplinario intrapartidario, con las garantías procesales mínimas que incluyan los derechos de audiencia y defensa, la descripción de las posibles infracciones a la normatividad interna o causales de expulsión y la obligación de motivar y fundar la resolución respectiva.
 
@@ -869,7 +889,9 @@ d) En el caso de las diputaciones por ambos principios e integrantes de los ayun
 
 En la integración de las candidaturas de personas jóvenes, en los casos que correspondan, las personas propietarias y suplentes, deberán estar dentro de los rangos de edades antes señaladas.
 
-Además, procurarán la representación de la población indígena, personas con discapacidad, personas de la diversidad sexual y otros grupos vulnerables en las candidaturas de diputaciones por ambos principios de representación y en las candidaturas para integrar los Ayuntamientos. Para el cumplimiento de lo dispuesto en esta fracción, los PARTIDOS POLÍTICOS adaptarán, conforme a sus estatutos y reglamentos, los procesos internos de selección de sus candidatos.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+Además, garantizarán la representación de la población indígena, personas con discapacidad, personas de la diversidad sexual y otros grupos vulnerables en las candidaturas de diputaciones por ambos principios de representación y en las candidaturas para integrar los Ayuntamientos. Para el cumplimiento de lo dispuesto en esta fracción, los PARTIDOS POLÍTICOS adaptarán, conforme a sus estatutos y reglamentos, los procesos internos de selección de sus candidatos, debiendo postular, por lo menos, el 10% de las candidaturas a diputaciones por ambos principios y planillas de ayuntamiento, cuidando en todo momento la homogeneidad de las fórmulas. Para conformar dicho porcentaje, se contemplará la suma de los integrantes de los diversos grupos a que se refiere el presente párrafo. En caso de candidatura común o COALICIÓN, dicho porcentaje se considerará de la totalidad de las candidaturas postuladas en estas figuras.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
@@ -925,11 +947,11 @@ Corresponde a los PARTIDOS POLÍTICOS, candidaturas independientes o coaliciones
 
 ### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS PARTIDOS POLÍTICOS EN MATERIA DE TRANSPARENCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2023)</small>
 
-###### ARTICULO 55.
+###### ARTÍCULO 55.
 
-Toda persona tiene derecho a acceder a la información de los PARTIDOS POLÍTICOS de conformidad con las reglas previstas en este CÓDIGO y las que, en lo conducente, resulten aplicables conforme al reglamento del INSTITUTO en la materia y la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima.
+Toda persona sin discriminación por razón de género, discapacidad, de la diversidad sexual y otros grupos vulnerables, tiene derecho a acceder a la información de los PARTIDOS POLÍTICOS de conformidad con las reglas previstas en este CÓDIGO y las que, en lo conducente, resulten aplicables conforme al reglamento del INSTITUTO en la materia y la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima.
 
 Cuando la información solicitada tenga el carácter de pública y obre en poder del INSTITUTO está será proporcionada oportunamente, para lo cual el reglamento correspondiente establecerá los formatos, procedimientos y plazos para desahogar dichas solicitudes.
 
@@ -937,19 +959,29 @@ Cuando la información solicitada se encuentre disponible en la página electró
 
 Los PARTIDOS POLÍTICOS están obligados a publicar en su página electrónica, por lo menos, la información especificada en el presente capítulo.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 56.
 
-Toda persona tiene derecho a acceder a la información de los PARTIDOS POLÍTICOS de conformidad con las normas previstas en este Capítulo y en la legislación en materia de transparencia y acceso a la información. El organismo autónomo garante en materia de transparencia tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales en posesión de los PARTIDOS POLÍTICOS.
+Toda persona sin discriminación por razón de género, discapacidad, de la diversidad sexual y otros grupos vulnerables tiene derecho a acceder a la información de los PARTIDOS POLÍTICOS de conformidad con las normas previstas en este Capítulo y en la legislación en materia de transparencia y acceso a la información. El organismo autónomo garante en materia de transparencia tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales en posesión de los PARTIDOS POLÍTICOS.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 Las personas accederán a la información de los PARTIDOS POLÍTICOS de manera directa, en los términos que disponga la ley a que se refiere el artículo sexto de la CONSTITUCIÓN FEDERAL en materia de transparencia.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
 La legislación de la materia establecerá los órganos, formatos, procedimientos y plazos para desahogar las solicitudes que se presenten sobre la información de los PARTIDOS POLÍTICOS.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 Cuando la información solicitada se encuentre disponible públicamente, incluyendo las páginas electrónicas oficiales del INSTITUTO, o del partido político de que se trate, se deberá entregar siempre dicha información notificando al solicitante la forma en que podrá obtenerla.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
 Cuando la información no se encuentre disponible públicamente, las solicitudes de acceso a la información procederán en forma impresa o en medio electrónico. Los PARTIDOS POLÍTICOS están obligados a publicar en su página electrónica, como mínimo, la información especificada como obligaciones de transparencia en la ley de la materia.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 La información que los partidos políticos proporcionen al INSTITUTO, o que éste genere respecto a los mismos, por regla general deberá ser pública y sólo se podrá reservar por excepción, en los términos que disponga la ley de la materia, y deberá estar a disposición de toda persona a través de la página electrónica del INSTITUTO.
 
@@ -1150,6 +1182,10 @@ I. Educación y capacitación política;
 II. Investigación socioeconómica y política, y
 
 III. Tareas editoriales.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+Las actividades específicas citadas anteriormente procurarán ser enfocadas en formación política e información para el ejercicio de sus derechos político-electorales sin discriminación por razón de género, discapacidad, de la diversidad sexual y otros grupos vulnerables.
 
 ###### ARTÍCULO 65.
 
@@ -2533,21 +2569,21 @@ Los PARTIDOS POLÍTICOS podrán solicitar el registro de candidatos a cargos de 
 
 I. Para la candidatura a GOBERNADOR, un ciudadano por cada partido político, por convenio de coalición o de candidatura común;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
-II. Para las candidaturas a diputados por el principio de mayoría relativa, se integrarán fórmulas compuestas cada una por un propietario y un suplente de un mismo género y del mismo rango de edades a que se refiere el inciso d) de la fracción XXI, del artículo 51 de este CÓDIGO. Asimismo, del total de los distritos electorales en los que participen, de manera individual, en candidatura común o en coalición, presentarán candidatos de un mismo género en el 50% de los mismos. Si la participación comprende un número impar de distritos, las candidaturas de un mismo género no podrán ser mayores de una fórmula;
+II. Para las candidaturas a diputados por el principio de mayoría relativa, se integrarán fórmulas compuestas cada una por un propietario y un suplente de un mismo género y del mismo rango de edades a que se refiere el inciso d) de la fracción XXI, del artículo 51 de este CÓDIGO. Asimismo, del total de los distritos electorales en los que participen, de manera individual, en candidatura común o en coalición, presentarán candidatos de un mismo género en el 50% de los mismos. Si la participación comprende un número impar de distritos, las candidaturas de un mismo género no podrán ser mayores de una fórmula, debiendo cumplir lo estipulado en el inciso a) y d) de la fracción XXI del artículo 51 de este CÓDIGO;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
-III. Para las candidaturas a diputados por el principio de representación proporcional, se presentará una lista de prelación, integrada por nueve candidatos propietarios, alternando propuestas de uno y otro género; cuidando el cumplimiento de la cuota de jóvenes a que se refiere el inciso d) de la fracción XXI, del artículo 51 de este CÓDIGO; y
+III. Para las candidaturas a diputados por el principio de representación proporcional, se presentará una lista de prelación, integrada por nueve candidatos propietarios, alternando propuestas de uno y otro género; cuidando el cumplimiento de la cuota de jóvenes y grupos a que se refiere el inciso d) de la fracción XXI, del artículo 51 de este CÓDIGO; y
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
-IV. Para los ayuntamientos, las candidaturas se comprenderán en una sola planilla que enliste ordenadamente a los candidatos a Presidente Municipal, síndico y regidores, con sus respectivos suplentes, debiendo observar las bases establecidas en el artículo 87 de la CONSTITUCIÓN y cuidando el cumplimiento de la cuota de jóvenes a que se refiere el inciso d) de la fracción XXI, del artículo 51 de este Código.
+IV. Para los ayuntamientos, las candidaturas se comprenderán en una sola planilla que enliste ordenadamente a los candidatos a Presidente Municipal, síndico y regidores, con sus respectivos suplentes, debiendo observar las bases establecidas en el artículo 87 de la CONSTITUCIÓN, así como lo estipulado en los incisos c) y d) de la fracción XXI del artículo 51 de este CÓDIGO.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
 
-Cada fórmula de los cargos citados en el párrafo anterior estará integrada por un propietario y un suplente del mismo género y rango de edades; se enlistarán ordenadamente candidatos de género distinto, de manera alternada, atendiendo al orden de prelación hasta agotar la planilla correspondiente.
+Cada fórmula de los cargos citados en el párrafo anterior estará integrada por un propietario y un suplente del mismo género y rango de edades o pertenencia del grupo, cuidando la homogeneidad de la formula; se enlistarán ordenadamente candidatos de género distinto, de manera alternada, atendiendo al orden de prelación hasta agotar la planilla correspondiente.
 
 Las personas que por elección indirecta, por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de munícipes, cualquiera que sea la denominación que se les dé, podrán ser registradas como candidatos para el mismo cargo en el propio Cabildo, únicamente para el periodo inmediato.
 
@@ -2711,9 +2747,9 @@ II. Concluido el plazo para el registro, sólo por acuerdo del CONSEJO GENERAL p
 
 En los casos en que la renuncia del candidato fuera notificada por éste al CONSEJO GENERAL, se hará del conocimiento del partido político que lo registró para que proceda, en su caso, a su sustitución.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
 
-En cualquiera de estos casos, para la sustitución deberá cumplirse tanto con la paridad de género, como con la cuota de jóvenes a que se refiere el inciso d) de la fracción XXI, del artículo 51 de este CÓDIGO.
+En cualquiera de estos casos, para la sustitución deberá cumplirse tanto con la paridad de género, jóvenes y grupos vulnerables a que se refiere el inciso d) de la fracción XXI, del artículo 51 de este CÓDIGO.
 
 En los supuestos a que se refieren la fracción II y el párrafo anterior, se observará, en su caso, lo previsto en el artículo 201 de este CÓDIGO.
 
@@ -3829,9 +3865,9 @@ I. Se asignarán a cada partido político tantas diputaciones como número de ve
 
 II. Si después de aplicarse el cociente de asignación quedan diputaciones por repartir, éstas se distribuirán por el método del resto mayor siguiendo el orden decreciente de los votos no utilizados por cada uno de los PARTIDOS POLÍTICOS; y
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
-III. Todas las asignaciones seguirán el orden que los candidatos y candidatas a diputados plurinominales tengan en las listas respectivas.
+III. Todas las asignaciones seguirán el orden que los candidatos y candidatas a diputados plurinominales tengan en las listas respectivas, pudiendo el CONSEJO GENERAL solamente hacer un reajuste a la misma cuando se desprenda que el género femenino se encuentra sub-representado.
 
 En el caso de las vacantes por dicho principio, además de respetarse el orden que las candidatas y candidatos a diputados plurinominales tengan en las listas respectivas, se respetará el género vacante.
 
@@ -3957,11 +3993,11 @@ El TRIBUNAL, al resolver los asuntos de su competencia, garantizará que los act
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 271.
 
-El TRIBUNAL residirá en la capital del ESTADO, se integrará con tres Magistrados Numerarios y contará con dos Magistrados Supernumerarios; los Magistrados Electorales serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores. La falta temporal de un Magistrado Numerario la suplirá un Magistrado Supernumerario.
+El TRIBUNAL residirá en la capital del ESTADO y se integrará con tres Magistrados o Magistradas Numerarios, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores. La falta temporal de un Magistrado o Magistrada Numerario la suplirá la o el Secretario General de Acuerdos y, a falta o por impedimento de éste último, se suplirá por la o el Proyectista respectivo en los términos que establezca el Reglamento interior del Tribunal Electoral del Estado.
 
 ###### ARTÍCULO 272.
 
@@ -4101,11 +4137,15 @@ XI. Conceder o negar licencias al personal jurídico y administrativo;
 
 XII. Rendir un informe al término de cada proceso electoral;
 
-XIII. Ordenar que se cubran las ausencias temporales de los Magistrados por los supernumerarios; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+XIII. Ordenar que se cubran las ausencias temporales de los Magistrados o Magistradas conforme lo establece esta Ley y el Reglamento interior del Tribunal Electoral del Estado; y
 
 XIV. Las demás que le confiere este CÓDIGO.
 
-El Presidente será suplido, en el caso de faltas temporales, por los otros Magistrados numerarios siguiendo el orden de designación y, de ser necesario, el orden alfabético. Si la falta es definitiva, el Magistrado numerario de mayor edad convocará y presidirá la sesión respectiva a fin de que el Pleno del TRIBUNAL elija al nuevo Presidente.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+La persona titular de la presidencia será suplida, en el caso de faltas temporales, por los otros Magistrados o Magistradas numerarios siguiendo el orden de designación y, de ser necesario, el orden alfabético. Si la falta es definitiva, el Magistrado o Magistrada numerario de mayor antigüedad en su designación convocará y presidirá la sesión respectiva a fin de que el Pleno del TRIBUNAL elija a la nueva persona titular de la Presidencia.
 
 ###### ARTÍCULO 282.
 
@@ -5087,9 +5127,13 @@ En el procedimiento especial no serán admitidas más pruebas que la documental 
 
 La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados. La audiencia se desarrollará en los siguientes términos:
 
-I. Abierta la audiencia, se dará el uso de la voz al denunciante a fin de que, en una intervención no mayor a treinta minutos, resuma el hecho que motivó la denuncia y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa la Comisión de Denuncias y Quejas actuará como denunciante;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
-II. Acto seguido, se dará el uso de la voz al denunciado, a fin de que en un tiempo no mayor a treinta minutos, responda a la denuncia, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
+I. Abierta la audiencia, se dará el uso de la voz al denunciante a fin de que, en una intervención no mayor a treinta minutos, precise de manera oral o por escrito el hecho que motivó la denuncia y las pruebas que a su juicio lo corrobore. En caso de que el procedimiento se haya iniciado en forma oficiosa la Comisión de Denuncias y Quejas actuará como denunciante;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+II. Acto seguido, se dará el uso de la voz al denunciado, a fin de que en un tiempo no mayor a treinta minutos, responda a la denuncia, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza, sin perjuicio de que pueda hacerlo de manera escrita.
 
 III. La Comisión de Denuncias y Quejas resolverá sobre la admisión de pruebas y acto seguido procederá a su desahogo, y
 
@@ -5225,11 +5269,11 @@ A los servidores públicos, funcionarios electorales y ciudadanos en general que
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 328.
 
-Los ciudadanos colimenses podrán participar como candidatos de manera independiente de los PARTIDOS POLÍTICOS, cuando cumplan con los requisitos, condiciones obligaciones y términos que establece la LGIPE y este CÓDIGO, de conformidad con el procedimiento previsto en este título, teniendo el derecho a ser registrados dentro del proceso electoral local para ocupar alguno de los siguientes cargos de elección popular:
+Los ciudadanos colimenses podrán participar como candidatos de manera independiente de los PARTIDOS POLÍTICOS, será libre de discriminación alguna por razón de género, discapacidad, de la diversidad sexual y otros grupos vulnerables, debiendo sujetarse a los requisitos, condiciones obligaciones y términos que establece la LGIPE y este CÓDIGO, de conformidad con el procedimiento previsto en este título, teniendo el derecho a ser registrados dentro del proceso electoral local para ocupar alguno de los siguientes cargos de elección popular:
 
 > <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -5276,6 +5320,10 @@ III. Declaratoria de procedencia de candidatura.
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
 
 La persona que participe o, en su caso, sea registrada como candidata independiente, en todo momento deberá abstenerse de ejercer violencia política contra las mujeres por razón de género o de recurrir a expresiones que degraden, denigren o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos o terceros, de conformidad con la LGIPE y este CÓDIGO.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+El Consejo General implementará las acciones necesarias para que dentro de la Convocatoria de candidaturas independientes que a efecto se expida, se garantice la participación de la población indígena, personas con discapacidad, personas de la diversidad sexual y otros grupos vulnerables, y debiendo de observar que en la conformación de planillas de Ayuntamiento se cumplan los porcentajes a que se refiere el artículo 51 del presente CÓDIGO.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -5731,11 +5779,15 @@ III. La fecha en que se separó de sus funciones, en el caso de un Presidente Mu
 
 A dicha carta deberá anexar la documentación que acredite lo señalado.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 361.
 
-Los diputados que busquen la elección consecutiva, podrán ser registrados para cualquier distrito electoral, así como también por el principio de representación proporcional.
+Las diputadas y los diputados electos por el principio de mayoría relativa que busquen la elección consecutiva por el mismo principio, únicamente podrán ser registrados en el mismo distrito electoral en el que fueron electos; o en su caso, podrán ser postulados por el principio de representación proporcional.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+Las y los diputados electos por el principio de representación proporcional que busquen la elección consecutiva podrán ser registrados por el mismo principio, o en su caso, por cualquier distrito electoral.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
 
@@ -5906,3 +5958,19 @@ SEXTO. Tanto el Tribunal Electoral, como el Instituto Electoral, ambos del estad
 Por lo anterior, dichos organismos autónomos deberán efectuar los ajustes en sus tabuladores y proyecto de presupuestos de egresos de conformidad con los procedimientos que resulten necesarios atendiendo las disposiciones del presente decreto.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 331.- POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7; DE IGUAL FORMA, SE ADICIONA EL ARÁBIGO 10 BIS; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 64; UN SEGUNDO PÁRRAFO AL ARÁBIGO 361; UN ÚLTIMO PÁRRAFO AL NUMERAL 329; SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 36; LA FRACCIÓN V DEL ARÁBIGO 42; LA FRACCIÓN IV DEL NUMERAL 43; LAS FRACCIONES II, V, VI, Y X DEL 44; ASÍ MISMO, EL TERCER PÁRRAFO DEL INCISO D) DE LA FRACCIÓN XXI DEL ARTÍCULO 51; EL PRIMER PÁRRAFO DEL ARÁBIGO 55; EL PRIMER PÁRRAFO DEL NUMERAL 56; LAS FRACCIONES II, III, IV Y SEGUNDO PÁRRAFO DEL NUMERAL 160; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 168; LA FRACCIÓN III DEL ARÁBIGO 260; EL NUMERAL 271; LA FRACCIÓN XIII Y ÚLTIMO PÁRRAFO DEL 281; LAS FRACCIONES I Y II DEL ARTÍCULO 320; EL PRIMER PÁRRAFO DEL ARÁBIGO 328; EL PRIMER PÁRRAFO DEL ARÁBIGO 361; Y POR ÚLTIMO SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 10 DEL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Magistrado Supernumerario que se encuentra en funciones de Magistrado Numerario en el Tribunal Electoral del Estado de Colima, a la entrada en vigor del presente Decreto, aun y cuando a la fecha ya venció el periodo para el cual fue designado como Magistrado Supernumerario, continuará en funciones hasta en tanto el Senado de la República elija a la persona que ocupe la Magistratura Numeraria que sustituya a quien aquel viene supliendo, lo anterior en términos de lo dispuesto en el segundo párrafo del artículo 273 de este Código Electoral del Estado de Colima.
+
+CUARTO. Se otorga al Pleno del Tribunal Electoral del Estado de Colima, un plazo de 30 días para realizar las adecuaciones necesarias a su Reglamento Interior, de conformidad con la presente reforma.
+
+QUINTO. Infórmese al Senado de la República de la presente reforma, con la finalidad de que se emita acuerdo para excluir del procedimiento de designación vigente, a las 2 magistraturas supernumerarias convocadas, debiendo quedar subsistente la convocatoria para la designación del Magistrado Numerario; y para que en lo subsecuente se omita expedir convocatoria para designar a nuevas personas en las Magistraturas Supernumerarias, debido a que dichas Magistraturas desaparecen como integración del Tribunal Electoral del Estado de Colima por efecto de la presente reforma, en consecuencia, no se generará vacante alguna en estos cargos.
+
+SEXTO.- El Consejo General del Instituto Electoral del Estado de Colima deberá emitir a más tardar el 31 de agosto de la presente anualidad, los lineamientos para garantizar el cumplimiento de los porcentajes que en cuestión de postulación se instituyen en los artículos 51 y 160 de este Decreto.
