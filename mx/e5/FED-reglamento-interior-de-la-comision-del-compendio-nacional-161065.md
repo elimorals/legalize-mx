@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-del-compendio-nacional-16106
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-11-22"
-last_updated: "2022-11-22"
+last_updated: "2023-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161065&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2022-11-11"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN DEL COMPENDIO NACIONAL DE INSUMOS PARA LA SALUD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2023.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 22 de noviembre de 2022.
 
@@ -37,11 +37,15 @@ REGLAMENTO INTERIOR DE LA COMISIÓN DEL COMPENDIO NACIONAL DE INSUMOS PARA LA SA
 
 El presente ordenamiento tiene por objeto reglamentar la manera en que se elabora, actualiza y difunde el Compendio Nacional de Insumos para la Salud, con la finalidad de que contribuya a mejorar la calidad, seguridad y eficiencia de la atención a la salud que otorgan las instituciones públicas del Sistema Nacional de Salud. Establece los principios éticos y compromisos deontológicos de la Comisión del Compendio Nacional de Insumos para la Salud encaminados a lograr procesos transparentes, eficientes y con base en evidencias científicas que complementen las actividades y responsabilidades del Consejo de Salubridad General con las de la Comisión Federal para la Protección contra Riesgos Sanitarios, y las instituciones públicas prestadoras de servicios de salud, para evitar duplicidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 2.
 
-El Compendio Nacional de Insumos para la Salud es el documento en el que se agrupan, caracterizan y codifican los medicamentos, material de curación, instrumental, equipo médico, auxiliares de diagnóstico, insumos de nutriología, medicamentos homeopáticos, medicamentos herbolarios, insumos de acupuntura, material de osteosíntesis, endoprótesis y ayudas funcionales, y demás insumos para la salud, al cual se ajustarán las instituciones públicas del Sistema Nacional de Salud para otorgar servicios de salud a la población, en términos de lo establecido en el artículo 28 de la Ley General de Salud.
+El Compendio Nacional de Insumos para la Salud es el documento en el que se agrupan, caracterizan y codifican los medicamentos, material de curación, instrumental, equipo médico, auxiliares de diagnóstico, insumos de nutriología, medicamentos homeopáticos, medicamentos herbolarios, insumos de acupuntura, material de osteosíntesis, endoprótesis y ayudas funcionales, y demás insumos para la salud, que hayan aprobado su seguridad, calidad y eficacia terapéutica, al cual se ajustarán las instituciones públicas del Sistema Nacional de Salud, para otorgar servicios de salud a la población, en términos de lo establecido en los artículos 28 y 29 de la Ley General de Salud.
 
-El Compendio Nacional de Insumos para la Salud es aplicable para los tres niveles de atención a la salud y tiene por objeto colaborar en la optimización de los recursos públicos destinados a la atención de los problemas de salud del país, mediante el empleo de insumos que han probado su seguridad, eficacia terapéutica, calidad y eficiencia. Adicionalmente, es un instrumento de referencia sobre los insumos para la salud que sirve para informar y colaborar en la actualización de los profesionales de la salud.
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+El Compendio Nacional de Insumos para la Salud es aplicable para todos niveles de atención a la salud, será actualizado en forma permanente, con el objetivo de introducir insumos para la salud y tecnologías innovadoras que contribuyan a mejorar la calidad en la prestación de los servicios a la población, así como para optimizar los recursos para la detección, prevención y atención de las enfermedades que afectan a la población. Adicionalmente, es un instrumento de referencia que sirve para informar y colaborar en la actualización de los profesionales de la salud.
 
 El Compendio Nacional de Insumos para la Salud está conformado por las categorías siguientes:
 
@@ -63,7 +67,9 @@ V. De Osteosíntesis, Endoprótesis y ayudas funcionales;
 
 VI. De Nutriología;
 
-VII. De Homeopáticos;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+VII. De Medicamentos Homeopáticos;
 
 VIII. De Medicamentos Herbolarios;
 
@@ -109,9 +115,13 @@ XV. Endoprótesis, Osteosíntesis y Ayudas Funcionales, aquellos dispositivos m�
 
 XVI. Equipo Médico, los aparatos, accesorios e instrumental para uso específico, destinados a la atención médica, quirúrgica o a procedimientos de exploración, diagnóstico, tratamiento y rehabilitación de pacientes, así como aquellos para efectuar actividades de investigación biomédica;
 
-XVII. Evaluación de un insumo, el proceso mediante el cual se compara la evidencia científica tanto clínica y económica de un insumo con la de otros destinados al mismo fin, para establecer la idoneidad de aceptar una solicitud de actualización;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
 
-XVIII. Evaluación económica, el proceso mediante el cual se valoran y comparan dos o más alternativas en cuanto a los efectos en salud que producen y los recursos financieros que consumen. Puede incluir el análisis de minimización de costos, análisis de costo–efectividad, análisis de costo-utilidad, o análisis de costo-beneficio;
+XVII. Evaluación de un insumo, el proceso mediante el cual se analiza la evidencia científica tanto clínica y económica de un insumo, con la de otros destinados al mismo fin, cuando sea el caso, para establecer la idoneidad de aceptar una solicitud de actualización;
+
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+XVIII. Evaluación económica, el proceso mediante el cual se valora y compara un insumo, respecto de otras alternativas para la misma indicación, en cuanto a los costos y efectos en salud. Para efectos de las actualizaciones requeridas en este Reglamento, puede incluir el análisis de minimización de costos, análisis de costo-efectividad, análisis de costo-utilidad, o análisis de costo-beneficio;
 
 XIX. Exclusión, la desincorporación fundamentada de un insumo en alguna o todas sus presentaciones y especificaciones del Compendio Nacional;
 
@@ -183,7 +193,9 @@ d. Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
 e. Petróleos Mexicanos, y
 
-f. Instituto de Salud para el Bienestar.
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+f. Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR).
 
 Las personas representantes de las dependencias e instituciones que integran la Comisión, deberán contar con un nivel jerárquico inmediato inferior al del titular.
 
@@ -223,9 +235,25 @@ IX. Asesorar a las personas integrantes del Sistema Nacional de Salud, así como
 
 X. Establecer los criterios para la selección de las personas representantes que integrarán los Comités y de los expertos a que se refiere este Reglamento, con apego a principios éticos, de confidencialidad, de no conflicto de intereses y de competencia profesional;
 
-XI. Presentar informes semestrales al Consejo, sobre los trabajos realizados y difundirlos en la página de internet del Consejo.
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
 
-XII. Las demás afines que se requieran para el cumplimiento de sus funciones.
+XI. Presentar en las sesiones del Consejo, informes sobre los trabajos realizados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 30 DE JUNIO DE 2023)</small>
+
+XII. Dar prioridad a aquellos asuntos que coadyuven en la atención de emergencias en materia de salubridad general, competencia de la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+XIII. Aprobar la inclusión temporal de insumos en el Compendio Nacional, que cuenten con autorización de uso de emergencia o permiso de importación, sujeta a la vigencia de dichos documentos, emitidos por la Comisión Federal para la Protección contra Riesgos Sanitarios;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+XIV. Informar al Consejo sobre las inclusiones temporales de insumos en el Compendio Nacional, que hayan sido aprobadas y su vigencia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 30 DE JUNIO DE 2023)</small>
+
+XV. Las demás afines que se requieran para el cumplimiento de sus funciones.
 
 ### CAPÍTULO IV. De las sesiones
 
@@ -235,13 +263,19 @@ XII. Las demás afines que se requieran para el cumplimiento de sus funciones.
 
 La Comisión sesionará en forma presencial o por medio de la tecnología de comunicación electrónica, las veces que sea necesario, por determinación de la persona titular de la Presidencia de la Comisión o a petición de cuando menos dos personas del resto de sus integrantes.
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 8.
 
-Las convocatorias para las sesiones, serán por escrito firmado por la persona titular de la Presidencia de la Comisión o por la persona titular del Secretariado Técnico de la misma y se notificarán a todas las personas integrantes de la misma, por lo menos, con tres días hábiles de anticipación a la fecha de la celebración, acompañando el orden del día respectivo. Las convocatorias podrán realizarse en forma digital, en cuyo caso, el acuse de recibo electrónico deberá agregarse al expediente correspondiente.
+Las convocatorias para las sesiones, serán por escrito firmado por la persona titular de la Presidencia de la Comisión o por la persona titular del Secretariado Técnico y se notificarán a todas las personas integrantes de la misma, por lo menos, con tres días hábiles de anticipación a la fecha de la celebración, acompañando el orden del día respectivo. En caso de urgencia se podrá convocar con 24 horas de anticipación. Las convocatorias podrán realizarse en forma digital, en cuyo caso, el acuse de recibo electrónico deberá agregarse al expediente correspondiente.
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
 
 ###### Artículo 9.
 
 Las sesiones de la Comisión serán válidas con la asistencia de la mayoría de las personas integrantes titulares o suplentes, siempre que se encuentre presente la persona titular de la Presidencia de la Comisión o quien la supla.
+
+Al inicio de cada sesión la persona titular del Secretariado Técnico de la Comisión, consultará a los integrantes e invitados presentes, si cuentan con algún conflicto de interés relacionado con los asuntos contenidos en la orden del día, asimismo verificará si éstos han suscrito las cartas de confidencialidad y de no conflictos de interés, a que se refiere este Reglamento.
 
 Las resoluciones de la Comisión se aprobarán por mayoría de votos de las personas integrantes presentes. En caso de empate, la persona titular de la Presidencia de la Comisión, tendrá voto de calidad.
 
@@ -255,7 +289,9 @@ Por cada sesión de la Comisión se levantará un acta, en la que se asentarán 
 
 La Comisión contará con los Comités siguientes:
 
-I. De Medicamentos;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+I. De Medicamentos Alopáticos, Homeopáticos y Herbolarios;
 
 II. De Material de Curación;
 
@@ -267,9 +303,9 @@ V. De Osteosíntesis, Endoprótesis y Ayudas Funcionales;
 
 VI. De Nutriología;
 
-VII. De Medicamentos Homeopáticos;
+VII. (DEROGADA, D.O.F. 30 DE JUNIO DE 2023)
 
-VIII. De Medicamentos Herbolarios;
+VIII. (DEROGADA, D.O.F. 30 DE JUNIO DE 2023)
 
 IX. De Insumos de Acupuntura, y
 
@@ -277,19 +313,27 @@ X. De Insumos para la Salud Pública.
 
 XI. Los demás que determine la Comisión.
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 12.
 
-Los Comités se integrarán por la persona titular de la Presidencia de la Comisión quien los conducirá, la persona titular del Secretariado Técnico, una persona coordinadora y las personas representantes de las instituciones que integran la Comisión.
+Los Comités se integrarán por la persona titular del Secretariado Técnico de la Comisión, quien los conducirá, una persona coordinadora y las personas representantes de las demás instituciones que integran la Comisión.
 
-Las personas integrantes de los Comités, podrán asistir a las sesiones acompañados por un asesor, con apego a principios éticos, de confidencialidad, de no conflicto de intereses y de competencia profesional, quienes se limitarán a orientar al integrante en sus decisiones. Los pronunciamientos que efectúen las personas integrantes de los Comités sobre los asuntos que se sometan a su consideración se entenderán hechos, en todo momento, por la dependencia, entidad o institución a la que representen.
+Las personas representantes a que se refiere el párrafo anterior, deberán ser designadas para cada sesión, por los integrantes titulares a que se refiere el artículo 5, fracciones II y III de este Reglamento, con apego a principios éticos, de confidencialidad, de no conflicto de intereses y de competencia profesional respecto de los temas a tratar.
 
-A petición de algún miembro de la Comisión, podrán participar en las reuniones de los Comités, expertos y otros invitados, con apego a principios éticos, de confidencialidad, de no conflicto de intereses y de competencia profesional, que tengan relación con los temas a tratar.
+Los pronunciamientos que efectúen las personas integrantes de los Comités sobre los asuntos que se sometan a su consideración, se entenderán hechos, en todo momento, por la dependencia, entidad o institución a la que representen.
+
+Las personas integrantes de los Comités, podrán asistir a las sesiones acompañados por un asesor, con derecho a voz, pero sin voto, con apego a principios éticos, de confidencialidad, de no conflicto de intereses y de competencia profesional, quienes se limitarán a orientar al integrante en sus decisiones.
+
+A petición de algún miembro del Comisión, podrán participar en las reuniones de los Comités, expertos y otros invitados, con apego a principios éticos, de confidencialidad, de no conflicto de intereses y de competencia profesional, que tengan relación con los temas a tratar, los cuales tendrán derecho a voz, pero sin voto.
 
 ###### Artículo 13.
 
 Corresponde a los Comités:
 
-I. Recibir, evaluar, analizar y emitir opinión de las solicitudes de actualización de insumos presentadas conforme a lo establecido en este Reglamento;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+I. Recibir, evaluar, analizar y emitir opinión de las solicitudes de actualización de insumos presentadas conforme a lo establecido en este Reglamento, así como en su caso, requerir información adicional a la presentada por los interesados para posteriormente emitir dicha opinión;
 
 II. Solicitar la opinión de expertos, con apego a principios éticos, de confidencialidad, de no conflicto de intereses y de competencia profesional, respecto del estudio y análisis de los insumos propuestos, en los casos en los que por su naturaleza resulte conveniente, dicha opinión no tendrá carácter vinculatorio;
 
@@ -303,23 +347,31 @@ VI. Elaborar un prontuario sobre los insumos contenidos en el Compendio Nacional
 
 VII. La demás que sean necesarias para cumplir con sus actividades.
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 14.
 
-Los Comités sesionarán en forma presencial o por medio de la tecnología de comunicación electrónica, las veces que sea necesario, por determinación la persona titular de la Presidencia de la Comisión.
+Los Comités sesionarán en forma presencial o por medio de la tecnología de comunicación electrónica, las veces que sea necesario, por determinación de la persona titular del Secretariado Técnico de la Comisión.
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
 
 ###### Artículo 15.
 
-Las convocatorias para las sesiones de los Comités, serán por escrito firmado por la persona titular de la Presidencia de la Comisión o por la persona titular del Secretariado Técnico de la Comisión y se notificarán a todas las personas integrantes, por lo menos con tres días hábiles de anticipación a la fecha de la celebración, acompañando el orden del día respectivo. En caso de urgencia se podrá convocar con 24 horas de anticipación. Las convocatorias podrán realizarse en forma digital, en cuyo caso el acuse de recibo electrónico deberá agregarse al expediente correspondiente.
+Las convocatorias para las sesiones de los Comités, serán por escrito firmado por la persona titular del Secretariado Técnico de la Comisión y se notificarán a todas las personas integrantes, por lo menos con siete días hábiles de anticipación a la fecha de la celebración, acompañando el orden del día respectivo. En caso de urgencia se podrá convocar con 24 horas de anticipación. Las convocatorias podrán realizarse en forma digital, en cuyo caso el acuse de recibo electrónico deberá agregarse al expediente correspondiente.
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
 
 ###### Artículo 16.
 
-Las sesiones de los Comités serán válidas con la asistencia de la mayoría de las personas integrantes, siempre que se encuentre presente la persona titular de la Presidencia de la Comisión o quien la supla.
+Los Comités sesionarán válidamente con la asistencia de por lo menos la mitad más uno de las personas integrantes convocadas, siempre y cuando esté presente la persona titular del Secretariado Técnico de la Comisión o quien la supla.
 
-Los acuerdos y opiniones de los Comités, serán remitidos a la Comisión con las posturas a favor y en contra.
+Si después de quince minutos de la hora fijada para la celebración de una sesión, no se reúne el quórum necesario para llevarla a cabo, la persona titular del Secretariado Técnico de la Comisión o quien la supla, convocará a una nueva sesión, la cual se podrá llevar a cabo de inmediato con las personas integrantes que se encuentren presentes.
 
-Al inicio de cada sesión la persona que presida el Comité, consultará a los miembros e invitados presentes, si cuentan con algún conflicto de interés relacionado con los asuntos contenidos en la orden del día, asimismo verificará si éstos han suscrito las cartas de confidencialidad y de no conflictos de interés, a que se refiere este Reglamento.
+Los acuerdos y opiniones de los Comités, serán remitidos a la Comisión con la opinión técnica colegiada, señalando las posturas a favor y en contra, respecto de cada uno de los asuntos evaluados en la sesión correspondiente.
 
-Por cada sesión de los Comités se levantará un acta, en la que se asentarán los acuerdos a que se haya llegado. Las actas de las sesiones, una vez firmadas por la persona titular de la Presidencia de la Comisión, la persona titular del Secretariado Técnico de la Comisión, la persona coordinadora y las personas integrantes, se integrarán al expediente correspondiente junto con la lista de asistencia y la demás documentación relacionada con los asuntos tratados.
+Al inicio de cada sesión de los Comités, la persona titular del Secretariado Técnico de la Comisión consultará a los miembros e invitados presentes, si cuentan con algún conflicto de interés relacionado con los asuntos contenidos en la orden del día, asimismo verificará si éstos han suscrito las cartas de confidencialidad y de no conflictos de interés, a que se refiere este Reglamento.
+
+Por cada sesión de los Comités se levantará un acta, en la que se asentarán los acuerdos a que se haya llegado. Las actas de las sesiones, una vez firmadas por la persona titular del Secretariado Técnico de la Comisión, la persona coordinadora y las personas integrantes, se agregarán al expediente correspondiente, junto con la lista de asistencia y la demás documentación relacionada con los asuntos tratados.
 
 ### CAPÍTULO V. De las personas integrantes
 
@@ -329,9 +381,13 @@ Por cada sesión de los Comités se levantará un acta, en la que se asentarán 
 
 Corresponde a la persona titular de la Presidencia de la Comisión:
 
-I. Convocar y presidir las sesiones de la Comisión y de los Comités;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
 
-II. Firmar las actas de las sesiones de la Comisión y de los Comités;
+I. Convocar y presidir las sesiones de la Comisión;
+
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+II. Firmar las actas de las sesiones de la Comisión;
 
 III. Emitir voto de calidad en caso de no haber consenso por las personas integrantes de la Comisión;
 
@@ -355,7 +411,9 @@ XI. Las demás que le permitan cumplir con las facultades asignadas.
 
 Corresponde a la persona titular del Secretariado Técnico de la Comisión:
 
-I. Por instrucciones de la persona titular de la Presidencia de la Comisión, convocar a las sesiones de la Comisión y de los Comités;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+I. Por instrucciones de la persona titular de la Presidencia de la Comisión, convocar a las sesiones de la Comisión;
 
 II. Suscribir los documentos que expida la Comisión;
 
@@ -365,15 +423,25 @@ IV. Elaborar y someter a la consideración de la persona titular de la Presidenc
 
 V. Llevar el seguimiento del cumplimiento de los acuerdos y resoluciones de la Comisión;
 
-VI. Asistir a las sesiones del Comité y de la Comisión y levantar el acta de las mismas;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
 
-VII. Firmar las actas de las sesiones de la Comisión y los Comités, conjuntamente con la persona titular de la Presidencia de los mismos y las personas integrantes;
+VI. Asistir a las sesiones de la Comisión y levantar el acta de las mismas;
+
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+VII. Firmar las actas de las sesiones de la Comisión, conjuntamente con la persona titular de la Presidencia de los mismos y las personas integrantes;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+VII Bis. Convocar y presidir las sesiones de los Comités, así como firmar las actas de las sesiones de dichos cuerpos colegiados, en los términos señalados en este Reglamento;
 
 VIII. Coordinar la documentación, correspondencia y resoluciones de la Comisión;
 
 IX. Elaborar, de acuerdo con las indicaciones de la Comisión, los planes, programas e informes de trabajo, así como el material de divulgación sobre las actualizaciones al Compendio Nacional;
 
-X. Auxiliar a la persona titular de la Presidencia de la Comisión en todos los trabajos relativos al funcionamiento de la Comisión y de los Comités;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+X. Auxiliar a la persona titular de la Presidencia de la Comisión en todos los trabajos relativos al funcionamiento de la Comisión;
 
 XI. Resguardar el archivo de la documentación referente a los asuntos de la Comisión y de los Comités, así como de otros aspectos administrativos;
 
@@ -391,17 +459,29 @@ XVI. Las demás que la persona titular de la Presidencia de la Comisión señale
 
 Corresponde a las personas integrantes de la Comisión:
 
-I. Representar a su institución en las sesiones de la Comisión;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
 
-II. Opinar, presentar argumentos científicos y de otra índole, así como votar en las sesiones;
+I. Representar a su institución en las sesiones de la Comisión y tomar en consideración la opinión técnica del representante de su institución en los Comités;
+
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+II. Opinar y votar los asuntos a tratar en las sesiones, presentando argumentos científicos y de otra índole para la resolución de los mismos;
 
 III. Firmar las actas de las sesiones de la Comisión;
 
 IV. Proponer a la Comisión la realización de planes y programas relacionados con las materias propias de la Comisión;
 
-V. Solicitar por escrito a la persona titular de la Presidencia de la Comisión, la inclusión de asuntos en el orden del día de las sesiones de la Comisión, y
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
 
-VI. Nombrar a sus suplentes y designar a las personas representantes en los Comités, con apego a principios éticos, de confidencialidad, transparencia, de no conflicto de intereses y los requisitos de competencia profesional que establezca la propia Comisión.
+V. Solicitar por escrito a la persona titular de la Presidencia de la Comisión, la inclusión de asuntos en el orden del día de las sesiones de la Comisión;
+
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+VI. Nombrar a sus suplentes y designar a las personas representantes en los Comités, con apego a principios éticos, de confidencialidad, transparencia, de no conflicto de intereses y los requisitos de competencia profesional que establezca la propia Comisión, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+VII. Las demás que le permitan cumplir con las funciones asignadas.
 
 #### Sección II: De los Comités
 
@@ -413,7 +493,9 @@ I. Formular y someter a aprobación de la persona titular del Secretariado Técn
 
 II. Asistir a las sesiones de los Comités y levantar el acta de las mismas;
 
-III. Firmar las actas de las sesiones de los Comités, conjuntamente con la persona titular de la Presidencia de la Comisión, la persona titular del Secretariado Técnico y las personas integrantes de los Comités;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+III. Firmar las actas de las sesiones de los Comités, conjuntamente con la persona titular del Secretariado Técnico de la Comisión y las personas integrantes de los Comités;
 
 IV. Preparar, de acuerdo con las indicaciones de la persona titular del Secretariado Técnico de la Comisión, los informes de trabajo, así como el material de divulgación sobre actualizaciones del Compendio Nacional;
 
@@ -429,67 +511,107 @@ I. Evaluar y analizar las solicitudes de actualización al Compendio Nacional co
 
 II. Participar en las sesiones del Comité;
 
-III. Formular por escrito las opiniones técnicas que correspondan, respecto de las solicitudes de actualización, y
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
 
-IV. Firmar las cartas de confidencialidad y no conflicto de interés a que se refiere el presente Reglamento, así como abstenerse de participar en caso de que el asunto a tratar pudiera involucrar algún conflicto de interés con cualquier persona física o moral.
+III. Emitir opinión técnica de las solicitudes de actualización de insumos en el Compendio Nacional y presentarlas por escrito dirigido a la persona titular del Secretariado Técnico de la Comisión, a más tardar 24 horas antes de la celebración de la sesión correspondiente;
+
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+IV. Firmar las cartas de confidencialidad y no conflicto de interés a que se refiere el presente Reglamento, así como abstenerse de participar en caso de que el asunto a tratar pudiera involucrar algún conflicto de interés con cualquier persona física o moral, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+V. Las demás que le permitan cumplir con las funciones asignadas.
 
 ### CAPÍTULO VI. Del procedimiento para la actualización de insumos
 
 #### Sección I: Sobre las Solicitudes de Actualización
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 22.
 
-El Compendio Nacional deberá mantenerse permanentemente actualizado, tomando como base el avance del conocimiento y el desarrollo de la tecnología. La actualización del Compendio Nacional tendrá como objetivo la optimización de los recursos para la detección, prevención y atención de las enfermedades que afectan a la población procurando evitar la creación de claves de proveedor único, cuando existan otros insumos con características equivalentes. La actualización se realizará mediante los procesos de inclusión, modificación y exclusión de insumos aprobados por la Comisión.
+El Compendio Nacional deberá mantenerse permanentemente actualizado, tomando como base el avance del conocimiento, el desarrollo de la tecnología y la calidad de los insumos que permitan brindar una adecuada atención a la salud de la población. La actualización del Compendio Nacional, además de lo señalado en el artículo 2 de este Reglamento, procurará evitar la creación de claves de proveedor único, cuando existan otros insumos con características equivalentes. La actualización se realizará mediante los procesos de inclusión, modificación y exclusión de insumos aprobados por la Comisión.
 
 ###### Artículo 23.
 
 Podrán solicitar actualizaciones de los insumos en el Compendio Nacional, la Secretaría de Salud, las instituciones públicas prestadoras de servicios de salud, las organizaciones científicas, las academias y los consejos de especialidades médicas, los proveedores, las instituciones gubernamentales, así como las personas integrantes de la Comisión y la persona titular de la Presidencia del Consejo.
 
-Las solicitudes y la documentación que las acompañe, deberán ser presentadas preferentemente en medios digitales, conforme a los requisitos citados en este Reglamento. La solicitud y la documentación presentada con motivo de la actualización serán conservadas en el Consejo durante un periodo de tres años, al término de los cuales se transferirán al archivo de concentración.
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+Las solicitudes y la documentación que las acompañe, deberán ser presentadas en forma física y digital, dirigidas a la persona titular de la Secretaría del Consejo o de la Presidencia de la Comisión o del Secretariado Técnico, conforme a los requisitos citados en este Reglamento. La solicitud y la documentación presentada con motivo de la actualización serán conservadas en el Consejo durante un periodo de tres años, al término de los cuales se transferirán al archivo de concentración.
 
 ###### Artículo 24.
 
 Las solicitudes de inclusión y de modificación mayor a las indicaciones de un medicamento, independientemente del tipo de insumo de que se trate, deberán ser acompañadas de lo siguiente:
 
-I. Solicitud firmada por el titular o representante legal de organización o institución, pública o privada, indicando nombre genérico, clave y las razones que motivan la misma;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
 
-II. Copia del Registro Sanitario y la información para prescribir en su versión amplia vigente, expedido por la Comisión Federal para la Protección contra Riesgos Sanitarios, certificada por notario público o corredor público, con excepción de aquellos productos que, en términos de las disposiciones aplicables, atendiendo a su naturaleza, características propias y uso, no se consideran insumos para la salud y, en consecuencia, no requieren Registro Sanitario.
+I. Solicitud firmada por el titular o representante legal de la organización o institución, pública o privada, indicando el nombre genérico, las razones que motivan la misma y, en caso de modificación, la clave asignada en el Compendio Nacional;
 
-Cuando se trate de insumos sin patente, las instituciones públicas prestadoras de servicios de salud podrán presentar su solicitud acompañada de copia simple del Registro Sanitario.
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
 
-Cuando se trate de un producto que, por su naturaleza, características propias y uso, no requieran Registro Sanitario, el solicitante deberá presentar la información científica disponible actualizada sobre seguridad y eficacia;
+II. Copia certificada por notario público o corredor público del Registro Sanitario y la información para prescribir en su versión amplia vigente, expedidos por la Comisión Federal para la Protección contra Riesgos Sanitarios.
+
+En caso de medicamentos huérfanos, se deberá presentar el reconocimiento de producto huérfano, emitido por la Comisión Federal para la Protección contra Riesgos Sanitarios.
+
+Cuando se trate de insumos sin patente, podrán presentar copia simple del Registro Sanitario.
+
+Cuando se trate de un producto que, en términos de las disposiciones aplicables, atendiendo a su naturaleza, características propias y uso, no requieren Registro Sanitario, el solicitante deberá presentar la información científica disponible actualizada a la fecha de su solicitud, sobre seguridad y eficacia;
 
 III. Manifiesto de contar con sistema de Farmacovigilancia o Tecnovigilancia, según sea el caso, y notificación inmediata de conformidad con la Norma Oficial Mexicana NOM-220-SSA1-2016, Instalación y operación de la farmacovigilancia, o a la Norma Oficial Mexicana NOM-240-SSA1-2012, Instalación y operación de la tecnovigilancia, o las que las sustituyan, así como las demás disposiciones jurídicas aplicables. En caso de existir sospecha de algún riesgo identificado o potencial importante, confirmado o no, ocasionados por el insumo durante su comercialización y uso, la solicitud deberá ser acompañada de la evaluación del perfil de seguridad del insumo por parte del Centro Nacional de Farmacovigilancia de la Comisión Federal para la Protección Contra Riesgos Sanitarios, así como las medidas correspondientes;
 
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
 IV. Estudio de evaluación económica elaborado con base en la Guía para la Conducción de Estudios de Evaluación Económica para la Actualización del Compendio Nacional de Insumos para la Salud, y que cumpla con lo siguiente:
 
-a. Estar sustentado en la metodología que corresponda de acuerdo a la evidencia disponible: minimización de costos, costo-efectividad, costo-utilidad, o costo-beneficio;
+a) La revisión sistemática de la evidencia científica clínica, elaborada con base en la Guía de Evaluación de Insumos para la Salud, para evaluar la seguridad y eficacia/efectividad del insumo propuesto, respecto de otros con la misma indicación existentes en el Compendio Nacional o, cuando no los haya, en comparación con el estándar de atención definido en guías de práctica clínica o protocolos técnicos de atención nacionales, o, en caso de no existir éstos, en guías de práctica clínica internacionales;
 
-b. Integrar un análisis de impacto presupuestal;
+b) Estar sustentado en la metodología que corresponda, de acuerdo a la evidencia científica clínica identificada por medio de la revisión sistemática a la que se refiere el inciso anterior, a través de un análisis de minimización de costos, costo-efectividad, costo-utilidad o costo-beneficio;
 
-c. Incluir los archivos electrónicos en programas de cómputo estándar que permitan verificar y reproducir el modelo;
+c) Integrar un análisis de impacto presupuestal;
 
-d. Estar acompañado por la información científica que da sustento a los valores empleados en los modelos, y
+d) Incluir los archivos electrónicos en programas de cómputo estándar que permitan verificar y reproducir el modelo;
 
-e. Identificar y sustentar las ventajas del insumo propuesto respecto de otros con la misma indicación existentes en el Compendio Nacional. En caso de que no existiera algún insumo con la misma indicación terapéutica, los estudios podrán presentarse en comparación con el estándar de atención definido en la Guía de Práctica Clínica del Sector Salud correspondiente y su actualización o el Protocolo Técnico. De no existir éstos, podrán emplearse comparadores contenidos en Guías de Práctica Clínica internacionales indicando cuáles fueron empleadas y justificando la elección;
+e) Estar acompañado por la información científica que da sustento a los valores empleados en los modelos, y
+
+f) Identificar y sustentar las ventajas del insumo propuesto respecto de otros con la misma indicación existentes en el Compendio Nacional. En caso de que no existiera algún insumo con la misma indicación terapéutica, los estudios podrán presentarse en comparación con el estándar de atención definido en la Guía de Práctica Clínica del Sector Salud correspondiente y su actualización o el Protocolo Técnico. De no existir éstos, podrán emplearse comparadores contenidos en Guías de Práctica Clínica internacionales indicando cuáles fueron empleadas y justificando la elección;
 
 V. Oficio en hoja membretada, suscrito por el titular de la Unidad de Administración y Finanzas o equivalente, de alguna de las instituciones integrantes de la Comisión, que justifique la demanda y necesidad de la actualización en el Compendio Nacional, del insumo de que se trate;
 
-VI. Cédula con la propuesta de descripción genérica del insumo que se solicita incluir, conforme a los formatos que difunda la Comisión en el Diario Oficial de la Federación, acompañada de los estudios clínicos que avalen la indicación terapéutica, y los eventos adversos incluyendo información sobre contraindicaciones, interacciones medicamentosas y efectos secundarios;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+VI. Cédula, en formato editable, con la propuesta de descripción genérica del insumo, conforme a los formatos que difunda la Comisión en el Diario Oficial de la Federación;
 
 VII. Carta bajo protesta de decir verdad de que el insumo no infringe patentes ni se encuentra en litigio y que la información que presenta es fidedigna;
 
 VIII. Escrito libre que establezca el precio máximo del insumo ofertado al sector público en México, que será vinculante en todas las instituciones públicas prestadoras de servicios de salud. En el caso de presentar una oferta económica ésta también será vinculante;
 
-IX. Original o copia certificada del documento con el que el solicitante acredite su personalidad, así como de la persona autorizada para recibir comunicaciones y los datos de contacto de ambos, y
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+IX. Original o copia certificada del instrumento debidamente protocolizado ante fedatario público, por el que se otorgue el poder amplio y suficiente para actuar en nombre y representación del solicitante o, en el caso de funcionarios públicos, señalar las disposiciones jurídicas que lo facultan para tal efecto;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+IX Bis. Indicar el correo electrónico, teléfono y domicilio dentro del territorio nacional, para oír y recibir comunicaciones, del representante legal, así como las personas autorizadas para tales efectos, y
 
 X. La solicitud y documentación que la acompañe, deberá presentarse con un ejemplar físico debidamente foliado, para fines de archivo, así como en medio electrónico.
 
-En el caso de medicamentos huérfanos, se deberá proporcionar, además de los requisitos previstos en este artículo, la constancia de reconocimiento de producto huérfano emitida por la Comisión Federal para la Protección contra Riesgos Sanitarios.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
+###### Artículo 24 Bis.
+
+Las instituciones públicas que integran la Comisión, para atender los casos de emergencia que en materia de salubridad general lo ameriten, podrán solicitar a la Comisión, la inclusión temporal de insumos en el Compendio Nacional, que cuenten con autorización de uso de emergencia o permiso de importación vigente, emitidos por la Comisión Federal para la Protección contra Riesgos Sanitarios.
+
+La Comisión en el caso de considerar procedente la inclusión, asignará una Clave que estará sujeta a la temporalidad de la vigencia de la autorización de uso de emergencia o el permiso de importación mencionados y publicará la actualización en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
 
 ###### Artículo 25.
 
-Las solicitudes de actualización de medicamentos homeopáticos, herbolarios e insumos de acupuntura, además de los requisitos previstos en el artículo 24, de este Reglamento, deberá acompañar el análisis del incremento de precios cuando se trate de solicitudes de modificación mayor o menor, en los casos donde los cambios realizados a la cédula descriptiva de un insumo, sea en sus presentaciones o accesorios, y estos no generen diferencias en los contenidos de los insumos del Compendio Nacional.
+Las solicitudes de actualización de medicamentos homeopáticos y herbolarios, insumos de acupuntura y de salud pública, además de los requisitos previstos en el artículo 24, fracciones I a III, IV, inciso a y V a X de este Reglamento, deberán acompañar el análisis del incremento de precios cuando se trate de solicitudes de modificación mayor o menor, en los casos donde los cambios realizados a la cédula descriptiva de un insumo, sea en sus presentaciones o accesorios, y estos no generen diferencias en los contenidos de los insumos del Compendio Nacional.
 
 ###### Artículo 26.
 
@@ -499,19 +621,35 @@ I. Carta compromiso de notificar a la Comisión, sobre la descontinuación de la
 
 II. Carta en la que exprese que cuenta con manuales de mantenimiento preventivo y correctivo en español o, en su caso, la traducción por perito traductor autorizado por las autoridades competentes.
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 27.
 
-Las solicitudes de modificación menor a la cédula descriptiva, independientemente del tipo de insumo de que se trate, además de los requisitos previstos en el artículo 24, fracciones I, II, III, V, VI, VII, VIII, IX y X de este Reglamento, deberán acompañar un análisis del incremento de precios entre las modificaciones, en los casos donde los cambios realizados a la cédula descriptiva de un insumo, sea en sus presentaciones o accesorios, y éstos no generen diferencias sustanciales en los contenidos de los insumos del Compendio Nacional.
+Las solicitudes de modificación menor a la cédula descriptiva, independientemente del tipo de insumo de que se trate, además de los requisitos previstos en el artículo 24, fracciones I a III, IV, inciso a y VI a X de este Reglamento, deberán acompañar un análisis del incremento de precios entre las modificaciones, en los casos donde los cambios realizados a la cédula descriptiva de un insumo, sea en sus presentaciones o accesorios, y éstos no generen diferencias sustanciales en los contenidos de los insumos del Compendio Nacional.
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
 
 ###### Artículo 28.
 
-Las instituciones públicas prestadoras de servicios de salud podrán presentar a la Comisión, solicitudes de modificación menor en la presentación de un insumo y/o forma farmacéutica, independientemente del tipo de que se trate, que no produzcan diferencias sustantivas que repercutan en la indicación, calidad, eficacia y seguridad, para atender los casos de emergencia que en materia de salubridad general lo ameriten, así como para el abasto oportuno de medicamentos e insumos para la salud de la población. Para tal efecto, se deberá acompañar de los siguientes requisitos:
+Exclusivamente las personas titulares de las Instituciones integrantes de la Comisión o sus representantes titulares, podrán presentar ante la misma, solicitudes de inclusión, de modificación mayor y de modificación menor de un insumo, independientemente del tipo de que se trate, para atender los casos de emergencia que en materia de salubridad general lo ameriten, así como para el abasto oportuno de medicamentos e insumos para la salud de la población. Para tal efecto, se deberá acompañar de los requisitos siguientes:
 
-a) Solicitud de modificación en la presentación, suscrita por un funcionario con facultades para ello, indicando nombre genérico, clave y la justificación que la motiva, desde el punto de vista clínico, epidemiológico, farmacológico, basada en evidencia científica debidamente documentados;
+a) Solicitud suscrita por un funcionario con facultades para ello, indicando nombre genérico, clave en su caso, y la justificación que la motiva desde el punto de vista clínico, epidemiológico, farmacológico, basada en evidencia científica debidamente documentados;
 
-b) Registro sanitario del insumo o, en su caso, el permiso sanitario de importación de insumos, que emita la Comisión Federal para la Protección contra Riesgos Sanitarios, y
+b) Registro sanitario del insumo o, en su caso, el permiso sanitario de importación de insumos, que emita la Comisión Federal para la Protección contra Riesgos Sanitarios;
 
-c) Los datos de contacto.
+c) La revisión sistemática de la evidencia científica clínica, elaborada con base en la Guía de Evaluación de Insumos para la Salud, para evaluar la seguridad y eficacia/efectividad del insumo propuesto, respecto de otros con la misma indicación existentes en el Compendio Nacional o, cuando no los haya, en comparación con el estándar de atención definido en guías de práctica clínica o protocolos técnicos de atención nacionales, o, en caso de no existir éstos, en guías de práctica clínica internacionales;
+
+d) Carta bajo protesta de decir verdad de que el insumo no infringe patentes ni se encuentra en litigio y que la información que presenta es fidedigna;
+
+e) Indicar el correo electrónico, teléfono y domicilio dentro del territorio nacional, de las personas autorizadas para recibir comunicaciones;
+
+f) Cédula, en formato editable, con la propuesta de descripción genérica del insumo, conforme a los formatos que difunda la Comisión en el Diario Oficial de la Federación, y
+
+g) La solicitud y documentación que la acompañe, deberá presentarse con un ejemplar físico debidamente foliado, para fines de archivo, así como en medio electrónico.
+
+La Comisión al aprobar una solicitud con base en el permiso de importación, asignará una Clave al insumo que estará sujeta a la temporalidad de la vigencia de dicho permiso.
+
+Las solicitudes de modificación menor a la cédula descriptiva, a que se refiere este artículo, únicamente deberán acompañar los requisitos previstos en las fracciones I, II y IV a VII del mismo.
 
 ###### Artículo 29.
 
@@ -547,19 +685,27 @@ La Comisión para la procedencia de una exclusión, tomará en cuenta las observ
 
 Serán excluidos del Compendio Nacional, aquellos insumos en los que se compruebe que el solicitante entregó documentación falsa o cambió las condiciones sobre las que se fundamentó el dictamen de su solicitud.
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 32.
 
 Las solicitudes de actualización al Compendio Nacional se recibirán en días y horas hábiles.
 
-La Secretaría Técnica del Comisión dispondrá de hasta quince días hábiles contados a partir del día hábil siguiente de la recepción de la solicitud, para efectuar la revisión y valoración de la solicitud y documentación, con el fin de constatar que cumple con los requisitos señalados en este Reglamento.
+La persona titular del Secretariado Técnico de la Comisión dispondrá de hasta quince días hábiles contados a partir del día hábil siguiente de la recepción de la solicitud, para efectuar la revisión y valoración de la solicitud y documentación, con el fin de constatar que cumple con los requisitos señalados en este Reglamento.
 
-En caso de omisión de alguno de los requisitos, la Secretaría Técnica del Comisión prevendrá al solicitante para que subsane las omisiones, dentro del término de quince días hábiles, contados a partir del día hábil siguiente de la fecha en que se le haya notificado la prevención en forma física o por medios electrónicos, apercibido de que en caso de no dar cumplimiento se tendrá por no presentada la solicitud.
+Si dentro del plazo a que se refiere el párrafo anterior, el solicitante no recibe ninguna comunicación, se entenderá que la solicitud fue aceptada a trámite.
 
-Si en quince días hábiles contados a partir del día hábil siguiente de la fecha de recepción de su solicitud, el solicitante no recibe ninguna comunicación, se entenderá que la solicitud fue aceptada y se deberá presentar la documentación para continuar con el proceso de actualización del insumo.
+En caso de omisión de alguno de los requisitos, la persona titular del Secretariado Técnico de la Comisión prevendrá al solicitante para que subsane las omisiones, dentro del término de quince días hábiles, contados a partir del día hábil siguiente de la fecha en que se le haya notificado la prevención en forma física o por medios electrónicos, apercibido de que, en caso de no dar cumplimiento, se tendrá por no presentada la solicitud.
+
+Una vez desahogada la prevención, la persona titular del Secretariado Técnico de la Comisión dispondrá de hasta diez días hábiles contados a partir del día hábil siguiente de la recepción, para efectuar la revisión y valoración de la documentación, a efecto de determinar si procede dar trámite a la misma.
+
+La persona titular del Secretariado Técnico del Comisión dará a conocer al solicitante, en forma física o por medios electrónicos, la procedencia a trámite de la solicitud, respecto de cualquiera de los supuestos a que se refiere este artículo.
 
 Los requisitos de cada solicitud de actualización, podrán ser valorados hasta en dos ocasiones, a efecto de determinar si procede dar trámite a la misma.
 
-La segunda valoración de los requisitos de cada solicitud de actualización, podrá presentarse a trámite, seis meses después de la fecha en que se notifique la última determinación de tenerse por no presentada la solicitud.
+La segunda valoración de los requisitos de cada solicitud de actualización, podrá presentarse a trámite nuevamente, tres meses después de la fecha en que se notifique la última determinación de tenerse por no presentada la solicitud.
+
+Si la segunda valoración resultare como no presentada, el solicitante podrá presentar una nueva solicitud seis meses después de la fecha en que se notifique la última determinación.
 
 #### Sección II: De las opiniones técnicas
 
@@ -571,15 +717,19 @@ Los expertos y otros invitados emitirán su opinión técnica por escrito, en un
 
 #### Sección III: Sobre el proceso de actualización de insumos
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 34.
 
-La Comisión recibirá, analizará y dictaminará las solicitudes de actualización de insumos en un plazo máximo de sesenta días hábiles, contados a partir de la fecha de recepción de la solicitud de actualización o, en su caso, de haberse desahogado la prevención a que se refiere el artículo 32 de este Reglamento.
+La Comisión recibirá, analizará y dictaminará las solicitudes de actualización de insumos en un plazo máximo de sesenta días hábiles, contados a partir de la fecha de aceptación a trámite de la solicitud, en términos de lo señalado en el artículo 32, párrafo sexto de este Reglamento.
 
-La Comisión para emitir su dictamen, tomará en cuenta las opiniones de los Comités, las cuales deberán establecer recomendaciones puntuales sobre prescripción y uso con base en las indicaciones de diagnóstico terapéuticas, así como sobre descripciones tecnológicas y su funcionalidad.
+La persona titular del Secretariado Técnico de la Comisión una vez aceptada a trámite la solicitud, procederá a turnar a los Comités correspondientes para emitir la opinión técnica colegiada respectiva.
 
-Cuando la Comisión requiera para emitir su dictamen, de información aclaratoria o técnica adicional a la presentada por el solicitante, el plazo señalado en el primer párrafo de este artículo, podrá prorrogarse hasta por el tiempo transcurrido entre la solicitud de la información adicional y la entrega de la misma, lo cual se hará del conocimiento del solicitante, mediante escrito debidamente fundado y motivado.
+Cuando la Comisión o el Comité, requieran información aclaratoria o técnica adicional a la presentada por el solicitante, el plazo señalado en el primer párrafo de este artículo, podrá prorrogarse hasta por el tiempo transcurrido entre la solicitud de la información adicional y la entrega de la misma, lo cual se hará del conocimiento del solicitante por conducto de la persona titular del Secretariado Técnico del Comisión.
 
 Para la entrega de información adicional se contará con un plazo máximo de quince días hábiles. En caso de que esto no se cumpla, la Comisión dictaminará la solicitud de actualización con la información que tenga disponible.
+
+La Comisión para emitir su dictamen, tomará en cuenta las opiniones de los Comités, las cuales deberán establecer recomendaciones puntuales sobre prescripción y uso con base en las indicaciones diagnóstico terapéuticas, así como sobre descripciones tecnológicas y su funcionalidad.
 
 ###### Artículo 35.
 
@@ -609,21 +759,29 @@ En los casos en que la Comisión emita un dictamen de no procedencia de una soli
 
 Los interesados podrán interponer el recurso de revisión, en contra del dictamen a que se refieren los artículos 34, 35 y 36 de este Reglamento, cuyo escrito se presentará ante el (sic) Comisión, el cual se sustanciará conforme a la Ley Federal de Procedimiento Administrativo.
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 38.
 
-En los casos en que la Comisión emita un dictamen procedente, se informará al solicitante el sentido de la resolución, de forma física o electrónica, en un plazo no mayor a quince días hábiles. La descripción del insumo en la cédula deberá ser genérica, para evitar prácticas monopólicas. La cédula descriptiva formará parte del proyecto de actualización.
+Los dictámenes que emita la Comisión se informarán al solicitante por la persona titular del Secretariado Técnico, de forma física o electrónica, en un plazo no mayor a veinte días hábiles, contado a partir de la celebración de la sesión correspondiente.
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
 
 ###### Artículo 39.
 
-Las descripciones de las cédulas de equipo médico con fines diagnóstico y terapéutico, considerarán las características generales más sobresalientes, estableciendo mínimos de seguridad en los insumos que así lo requieran. Cuando las cédulas descriptivas contengan más de una opción dentro de las especificaciones de un insumo, la Comisión determinará las opciones de acuerdo con sus requerimientos de atención.
+Las descripciones de las cédulas de equipo médico con fines diagnóstico y terapéutico, considerarán las características generales más sobresalientes, estableciendo mínimos de seguridad en los insumos que así lo requieran.
+
+Cuando las cédulas descriptivas contengan más de una opción dentro de las especificaciones de un insumo, las instituciones públicas de salud determinarán las opciones que considere convenientes de acuerdo con sus requerimientos de atención.
 
 ###### Artículo 40.
 
 Las refacciones, accesorios y consumibles específicos para el funcionamiento de equipos médicos y de otros insumos incluidos en el Compendio Nacional, podrán ser adquiridos por cada institución de acuerdo con sus necesidades, sin que para ello sea requisito estar incorporados al Compendio Nacional.
 
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 41.
 
-La persona titular del Secretariado Técnico de la Comisión elaborará los proyectos de actualización del Compendio Nacional, con base en los dictámenes aprobados por la Comisión, los cuales se publicarán en la página de Internet del Consejo, a efecto de que los interesados puedan opinar sobre su contenido, por escrito y/o medio electrónico. Para tal efecto, los interesados contarán con un plazo de diez días hábiles a partir de la publicación. La persona titular del Secretariado Técnico de la Comisión, dará respuesta a cada uno de los comentarios recibidos previo a la publicación de las actualizaciones al Compendio Nacional en el Diario Oficial de la Federación.
+La persona titular del Secretariado Técnico de la Comisión elaborará los proyectos de actualización del Compendio Nacional, con base en los dictámenes aprobados por la Comisión, los cuales se publicarán en la página de Internet del Consejo, a efecto de que los interesados puedan opinar sobre su contenido, por escrito y/o medio electrónico. Para tal efecto, los interesados contarán con un plazo de cinco días hábiles a partir de la publicación. La persona titular del Secretariado Técnico de la Comisión, dará respuesta a cada uno de los comentarios recibidos previo a la publicación de las actualizaciones al Compendio Nacional en el Diario Oficial de la Federación.
 
 ###### Artículo 42.
 
@@ -649,17 +807,19 @@ III. Tipo de actualización solicitada, según corresponda a inclusión, modific
 
 IV. Fecha de recepción de la solicitud.
 
-V. Fecha esperada para la emisión del dictamen.
+V. (DEROGADA, D.O.F. 30 DE JUNIO DE 2023)
 
 VI. Fecha de emisión de dictamen.
 
 VII. Resultado del dictamen, según corresponda: procedente o no procedente.
 
-VIII. En el caso de inclusiones aprobadas, precio máximo unitario del insumo.
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2023)</small>
 
-IX. Publicación del proyecto de actualización en la página de Internet del Consejo, para observaciones por parte de los interesados.
+VIII. En el caso de inclusiones aprobadas, precio máximo unitario del insumo, cuando así corresponda;
 
-X. Fecha de envío de la actualización al Diario Oficial de la Federación, para su publicación.
+IX. (DEROGADA, D.O.F. 30 DE JUNIO DE 2023)
+
+X. (DEROGADA, D.O.F. 30 DE JUNIO DE 2023)
 
 XI. En el caso de actualizaciones procedentes, fecha de publicación en el Diario Oficial de la Federación.
 
@@ -667,9 +827,11 @@ XI. En el caso de actualizaciones procedentes, fecha de publicación en el Diari
 
 Con el propósito de asegurar la confidencialidad de la información documental, los expertos, las personas integrantes de la Comisión y de los Comités, los invitados y los funcionarios y empleados al servicio de las dependencias gubernamentales que tengan acceso a ella, deberán firmar al inicio de cada sesión, una carta de confidencialidad y abstenerse de revelar la información en términos de las disposiciones legales y reglamentarias vigentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 46.
 
-Los expertos deberán firman (sic) al inicio de cada sesión o al aceptar emitir una opinión, una carta de no conflicto de intereses, en la que indiquen si tienen o han tenido relación con instituciones, empresas u organizaciones productoras de insumos para la salud, y el carácter de dicha relación bajo una o más de las opciones siguientes:
+Las personas integrantes de la Comisión, de los Comités, invitadas, expertas y, en general, aquéllas que asistan a las sesiones, deberán firman al inicio de cada sesión, una carta de no conflicto de intereses, en la que indiquen si tienen o han tenido relación con instituciones, empresas u organizaciones productoras de insumos para la salud, y el carácter de dicha relación bajo una o más de las opciones siguientes:
 
 I. Trabajador de la empresa en cualquier régimen de contrato;
 
@@ -716,3 +878,13 @@ CUARTO. La Comisión publicará en el Diario Oficial de la Federación los forma
 QUINTO. La Comisión emitirá y difundirá en el portal de internet del Consejo, las guías a que se refieren los artículos 3, fracciones XXI y XXII y 6, fracciones IV y V de este Reglamento, en un plazo no mayor a 30 días hábiles a partir de la entrada en vigor de este Reglamento.
 
 Dado en la Ciudad de México, a 11 de noviembre de 2022.- El Secretario del Consejo de Salubridad General y Presidente de la Comisión del Compendio Nacional de Insumos para la Salud, Marcos Cantero Cortés.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA COMISIÓN DEL COMPENDIO NACIONAL DE INSUMOS PARA LA SALUD”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las solicitudes de actualización que se encuentren en trámite a la entrada en vigor del presente Reglamento, se resolverán por la Comisión de conformidad con las disposiciones vigentes en la fecha de su presentación.
