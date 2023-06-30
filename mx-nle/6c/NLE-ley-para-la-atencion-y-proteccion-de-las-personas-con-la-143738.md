@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-atencion-y-proteccion-de-las-personas-con-la-143738
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-05"
-last_updated: "2020-08-10"
+last_updated: "2023-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY PARA LA ATENCION Y PROTECCION DE LAS PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA LA ATENCIÓN, PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA, Y OTRAS CONDICIONES DE LA NEURODIVERSIDAD PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. 30 DE JUNIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN EL 10 DE AGOSTO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 5 de agosto de 2020.
 
@@ -374,3 +374,23 @@ ROBERTO RUSSILDI MONTELLANO
 EL C. SECRETARIO DE DESARROLLO SOCIAL
 
 GENARO ALANÍS DE LA FUENTE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 400. SE EXPIDE LA LEY PARA LA ATENCIÓN, PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA, Y OTRAS CONDICIONES DE LA NEURODIVERSIDAD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO.- Se abroga la Ley para la Atención y Protección de las Personas con la Condición del Espectro Autista y/o Trastornos del Neurodesarrollo del Estado de Nuevo León, publicada en el Periódico Oficial No. 323, en fecha 05 de agosto de 2020, y sus reformas.
+
+TERCERO.- El Ejecutivo Estatal, expedirá las disposiciones reglamentarias de la presente Ley, en un plazo no mayor a 90 días, a partir de la entrada en vigor de la presente Ley.
+
+CUARTO.- La Secretaría de Igualdad e Inclusión, someterá a consideración del Titular del Ejecutivo Estatal, las políticas, programas y proyectos de la investigación científica y de formación de recursos humanos, profesionales y técnicos especialistas en la condición del espectro autista, en un plazo que no rebase de los 180 días, a partir de la entrada en vigor de la presente Ley.
+
+QUINTO.- El Ejecutivo del Estado dispondrá de las partidas presupuestales necesarias para la implementación de esta Ley en el primer presupuesto de egresos que se apruebe posterior a la entrada en vigor del presente Decreto.
+
+SEXTO.- El Ejecutivo del Estado dispondrá de un plazo de 18 meses posterior a la entrada en vigor del presente Decreto para el arranque de operaciones del Centro Estatal de Atención a las Personas en Condición del Espectro Autista, de Neurodiversidad y del Neurodesarrollo.
+
+SEPTIMO.- Envíese a la Suprema Corte de Justicia de la Nación para dar cumplimiento a la Acción de Inconstitucionalidad 255/2020, en donde se vincula al Congreso del Estado de Nuevo León, dentro del referido plazo, previo desarrollo de la respectiva consulta a las personas con condición del espectro autista y trastornos del neurodesarrollo, en los términos precisados en los apartados VI y VII de dicha ejecutoria.
