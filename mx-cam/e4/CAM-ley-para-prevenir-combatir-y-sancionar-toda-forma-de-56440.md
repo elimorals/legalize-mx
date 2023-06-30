@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-combatir-y-sancionar-toda-forma-de-56440"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2022-10-17"
+last_updated: "2023-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -107,9 +107,9 @@ XIII. Pueblos indígenas: Aquellos grupos que se consideren así por el hecho de
 
 Se considerará como discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, así como la igualdad real de oportunidades de las personas, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la talla pequeña, la condición social, económica, de salud física o mental, jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
 
-También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia.
+También se entenderá como discriminación la homofobia, lesbofobia, bifobia, transfobia, intersexfobia, misandria, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia.
 
 ###### Artículo 7.
 
@@ -170,6 +170,10 @@ III. Diseñar y desarrollar campañas de promoción y educación para concientiz
 IV. Fomentar la formación y capacitación de servidores públicos en el Estado en materia del derecho humano a la no discriminación, y
 
 V. Promover y llevar a cabo estudios en materia de no discriminación, diversidad y tolerancia.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+VI. El desarrollo de políticas contra la homofobia, lesbofobia, bifobia, transfobia, intersexfobia, xenofobia, misandria y misoginia, la discriminación por apariencia o el adultocentrismo y todas aquellas manifestaciones que vulneren los derechos a la identidad de género y al libre desarrollo de la personalidad.
 
 ###### Artículo 15.
 
@@ -678,3 +682,11 @@ P.O. 17 DE OCTUBRE DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 30 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 242 POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 6 Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 14 DE LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
