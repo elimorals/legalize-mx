@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2023-05-30"
+last_updated: "2023-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -119,7 +119,17 @@ X. BAJO IMPACTO: Modificación del ambiente ocasionado por obras o actividades q
 
 XI. BIODIVERSIDAD: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, acuáticos y los complejos ecológicos de los que forman parte; comprendiendo la diversidad de cada especie y de los ecosistemas;
 
-XII. CENTRO DE VERIFICACIÓN VEHICULAR: La instalación fija, móvil o local, establecida o autorizada por la Secretaría, en el que se lleva a cabo la medición con equipo autorizado de las emisiones contaminantes provenientes de vehículos automotores en circulación;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+XII. CENTRO DE VERIFICACIÓN VEHICULAR: A la instalación fija o móvil a través de la cual la Secretaría o la Persona Concesionaria, previo cumplimiento de los requisitos fijados por ley y utilizando el equipo previamente autorizado por las autoridades competentes, lleva a cabo la medición e inspección de las emisiones contaminantes provenientes de vehículos automotores en circulación;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+XII Bis. CONCEDENTE: A la persona titular del Poder Ejecutivo del Estado, a través de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+XII Ter. CONCESIÓN ADMINISTRATIVA PARA LA OPERACIÓN DE CENTROS DE VERIFICACIÓN VEHICULAR: Al acto jurídico-administrativo que emite la persona titular del Poder Ejecutivo del Estado, a través de la Secretaría, en el cual se otorga a una persona física o moral del sector privado, el derecho para la explotación, uso y aprovechamiento del servicio de verificación vehicular para medir y certificar en forma oficial las emisiones contaminantes producidas por fuentes móviles;
 
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
@@ -232,6 +242,10 @@ LVI. PARQUES URBANOS MUNICIPALES O JARDINES PÚBLICOS: Áreas de uso público, d
 LVII. PASIVOS AMBIENTALES: Sitios o instalaciones contaminados por la liberación de residuos o materiales, que no fueron remediados oportunamente para impedir la dispersión de contaminantes y que constituyen un riesgo permanente y potencial para el ambiente, los recursos naturales, los ecosistemas o la salud de la población y que implican una obligación de remediar, mitigar o el resarcir los daños ocasionados;
 
 LVIII. PATRIMONIO NATURAL: La biodiversidad, los ecosistemas o los monumentos naturales ya sean formaciones geológicas, biológicas o unidades paisajísticas estrictamente delimitadas que constituyan o no hábitat de especies de vida silvestre, que tengan un valor universal desde el punto de vista estético, científico o para la conservación de la belleza natural de conformidad con la Convención sobre la Protección del Patrimonio Mundial, Cultural y Natural de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura celebrada en Paris en 1972;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+LVIII Bis. PERSONA CONCESIONARIA: A la persona física o moral del sector privado, a quien previo cumplimiento de los requisitos y del procedimiento que para tal efecto establezca la Secretaría, se le otorga una Concesión Administrativa para la Operación de Centros de Verificación Vehicular;
 
 LIX. PRESERVACIÓN ECOLÓGICA: El conjunto de políticas y medidas para mantener las condiciones que propician la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
 
@@ -347,7 +361,9 @@ X. Participar en la atención de emergencias y contingencias ambientales, confor
 
 XI. Regular y controlar las actividades riesgosas para el ambiente, en los términos previstos en la presente Ley;
 
-XII. Establecer de requisitos y procedimientos para la prevención y control de la contaminación ambiental en aire, agua y suelo, generada en la Entidad por diversas actividades en el ámbito de su competencia, tanto del sector público, como del privado; así también de las fuentes fijas que provengan de establecimientos industriales, comerciales, de servicios y de espectáculos públicos; y por toda clase de fuentes móviles que circulen en su territorio, así como para autorizar y vigilar los centros de verificación vehicular en la Entidad;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+XII. Establecer los requisitos y procedimientos para la prevención y control de la contaminación ambiental en aire, agua y suelo, generada en la Entidad por diversas actividades en el ámbito de su competencia, tanto del sector público, como del privado; así también de las fuentes fijas que provengan de establecimientos industriales, comerciales, de servicios y de espectáculos públicos; y por toda clase de fuentes móviles que circulen en su territorio; así como para otorgar, inspeccionar, vigilar o revocar las Concesiones Administrativas para la Operación de Centros de Verificación Vehicular en la Entidad, y para llevar a cabo el rescate administrativo en términos de la presente Ley.
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -2083,9 +2099,11 @@ Los vehículos que transporten, en el Estado de Hidalgo, materiales o residuos p
 
 Los vehículos que presten el servicio público de transporte o carga en el Estado, deberán utilizar las fuentes de energía, sistemas y equipos que determine la Secretaría en coordinación con la Procuraduría y demás dependencias competentes, para prevenir o minimizar sus emisiones contaminantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 143.
 
-La Secretaría expedirá anualmente el Programa Obligatorio de Verificación Vehicular, que deberá contener:
+La Secretaría expedirá semestralmente el Programa Obligatorio de Verificación Vehicular, que deberá contener:
 
 I. La periodicidad con la que deberán verificarse las emisiones contaminantes de vehículos automotores que circulan por el territorio del Estado;
 
@@ -2101,9 +2119,11 @@ V. Los demás que se especifiquen en el Reglamento de esta Ley en la materia.
 
 Por concepto de verificación vehicular extemporánea: Para cualquier modalidad de holograma se aplicará al usuario una multa por fracción o semestre vencido y el máximo serán dos semestres vencidos. A las personas de la tercera edad que acrediten mediante la presentación de su credencial expedida por el Instituto Nacional Electoral y a su vez acrediten la propiedad del vehículo a verificar, se les realizará un descuento del 50% en la multa por verificación extemporánea. Los vehículos que estén emplacados para personas con discapacidad se le hará un descuento del 50% en la multa por verificación extemporánea.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 145.
 
-La Secretaría contará con equipos de verificación y personal técnico para verificar fuentes móviles de conformidad con lo que establezcan los convenios de colaboración que para tal efecto se suscriban, en los términos de este ordenamiento y demás instrumentos normativos aplicables.
+En el Estado, únicamente la Secretaría podrá verificar de forma oficial los vehículos automotores mediante el establecimiento y operación de Centros de Verificación Vehicular, ya sea de manera directa o por medio de una Persona Concesionaria, de acuerdo a las necesidades públicas y de conformidad con los requisitos establecidos en los ordenamientos jurídicos aplicables.
 
 #### SECCIÓN TERCERA. QUEMAS A CIELO ABIERTO
 
@@ -2369,15 +2389,107 @@ En situación de contingencia ambiental, los responsables de las fuentes de cont
 
 ### CAPÍTULO VIII. DE LOS CENTROS DE VERIFICACIÓN VEHICULAR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 183.
 
-La Secretaría, atendiendo a las necesidades de los servicios de verificación de vehículos automotores, expedirá, previa convocatoria pública, autorizaciones a los interesados que cumplan los requisitos correspondientes para operar un centro de verificación.
+La Secretaría podrá otorgar, previo cumplimiento de los requisitos establecidos en la convocatoria pública correspondiente, Concesiones Administrativas para la Operación de Centros de Verificación Vehicular a personas físicas o morales del sector privado.
 
-La Secretaría publicará las convocatorias en el Periódico Oficial del Estado, en las cuales se determinarán los elementos materiales, humanos y demás condiciones que deberán reunir los interesados en obtener la autorización para operar un centro de verificación.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+El Concedente publicará las convocatorias respectivas en el Periódico Oficial del Estado, para el otorgamiento de Concesiones Administrativas para la Operación de Centros de Verificación Vehicular que de acuerdo a las necesidades públicas se requieran, dentro de las cuales se establecerá el proceso a seguir, los requerimientos materiales, humanos, legales, económicos y normativos que deberán cumplir los interesados.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+La Secretaría podrá otorgar hasta un máximo de tres Títulos de Concesiones Administrativas a una misma persona física o moral del sector privado.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+Para efectos del párrafo anterior, si una persona física forma parte de una persona moral, su participación en ésta también será contabilizada en lo individual.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+###### Artículo 183 Bis.
+
+La Secretaría no podrá otorgar Concesiones Administrativas para la Operación de Centros de Verificación Vehicular a persona física o moral que se encuentre en los siguientes supuestos:
+
+I. Haya sido sancionada por la Secretaría con la revocación de una Concesión Administrativa para Operar un Centro de Verificación Vehicular;
+
+II. Estar sujeto a un proceso judicial de suspensión de pagos o quiebra y tratándose de persona moral, estar sujeta a concurso mercantil;
+
+III. Haya sido responsable de la comisión de un delito en materia ambiental por sentencia ejecutoriada;
+
+IV. Tenga parentesco consanguíneo o por afinidad hasta el cuarto grado con la persona titular de una o más Concesiones Administrativas para la Operación de Centros de Verificación Vehicular, y
+
+V. Se trate de persona servidora pública o familiar de esta, ya sea en línea recta ascendente, descendente o colateral hasta el cuarto grado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2023)</small>
 
 ###### Artículo 184.
 
-La solicitud, evaluación, autorización y funcionamiento de los centros de verificación vehicular, y en su caso, terminación y revocación de la autorización, estarán determinados por el Reglamento de esta Ley en la materia y demás disposiciones aplicables.
+La Concesión Administrativa deberá contener las condiciones específicas bajo las cuales el Concedente la otorga, así como las atribuciones y obligaciones que adquiere la Persona Concesionaria relativas al cumplimiento de las leyes, normatividad, criterios, lineamientos y demás disposiciones aplicables en la materia para el debido funcionamiento de los Centros de Verificación Vehicular en la Entidad.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+Durante la vigencia de la Concesión Administrativa para la Operación de un Centro de Verificación Vehicular y derivado de los términos y condiciones que se establezcan en el texto de la misma, el Concedente podrá llevar a cabo las revisiones, inspecciones, verificaciones y supervisiones necesarias al Centro de Verificación Vehicular, a fin de comprobar que la Persona Concesionaria se encuentre dando pleno cumplimiento a las condiciones por las cuales le fue concedida, pudiendo el Concedente fijar un término para que la Persona Concesionaria cumpla con los requerimientos que señale la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+La vigencia de las Concesiones Administrativas para la Operación de Centros de Verificación Vehicular será de cinco años, prorrogables hasta por un periodo idéntico, contados a partir de la fecha de su otorgamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+La Persona Concesionaria interesada en prorrogar su Título de Concesión, deberá presentar su solicitud respectiva ante la Secretaría con treinta días hábiles previos al término de la vigencia de la misma, en la que deberá integrar aquellos requisitos que al efecto establezca la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+Para efectos del párrafo anterior, el Concedente llevará a cabo la inspección física al Centro de Verificación Vehicular, a los equipos, dispositivos y sistemas que se utilicen, así como a los documentos presentados, a fin de corroborar el cumplimiento de la normatividad en la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+Si derivado de la inspección existiere algún incumplimiento por parte de la Persona Concesionaria, se le fijará un término de hasta cinco días hábiles para subsanar la deficiencia y dar cumplimiento pleno a la misma, emitiéndose la resolución que al efecto proceda.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+###### Artículo 184 Bis.
+
+La Concesión Administrativa para la Operación de un Centro de Verificación Vehicular deberá contener como mínimo, lo siguiente:
+
+I. Fecha de emisión;
+
+II. Nombre y domicilio fiscal de la Persona Concesionaria y de sus representantes o apoderados en su caso;
+
+III. Personería jurídica de las partes;
+
+IV. Objeto de la Concesión;
+
+V. Las contraprestaciones económicas que la Persona Concesionaria deberá otorgar a favor del Gobierno del Estado de Hidalgo, sin perjuicio de las actualizaciones que conforme a la ley respectiva correspondan;
+
+VI. Condiciones de la Concesión;
+
+VII. Marca, modelo y número de serie del equipo analizador de acuerdo con lo establecido en las bases de la convocatoria;
+
+VIII. Procedimiento a seguir en la verificación vehicular;
+
+IX. Ubicación del Centro;
+
+X. Imagen y servicios básicos del Centro de Verificación Vehicular;
+
+XI. Vigencia de la Concesión;
+
+XII. Fecha de inicio del servicio;
+
+XIII. Condiciones de la póliza de fianza;
+
+XIV. La prohibición de transmisión a título oneroso o gratuito de las atribuciones y obligaciones contraídas por la Persona Concesionaria en la Concesión Administrativa, salvo lo dispuesto en el Reglamento de la presente Ley;
+
+XV. Causas de revocación de la Concesión Administrativa;
+
+XVI. Causas que determinan el rescate administrativo de conformidad con el artículo 216 Ter de la presente Ley;
+
+XVII. Firmas de aceptación de los términos y condiciones previstos en la Concesión Administrativa, y
+
+XVIII. Las demás que la Secretaría determine pertinentes.
 
 ###### Artículo 185.
 
@@ -2387,11 +2499,15 @@ Los centros de verificación vehicular deberán obtener y mantener vigente una f
 
 La Procuraduría podrá realizar visitas de inspección a efecto de constatar el cumplimiento de las disposiciones contenidas en esta Ley, su Reglamento en la materia y los lineamientos normativos para la Operación de la Red Estatal de Centros de Verificación Vehicular, Manual de Imagen Interior y Exterior de la Red Estatal de Verificación Vehicular, el Programa de Verificación Vehicular Obligatoria para el Estado de Hidalgo, las Normas Oficiales Mexicanas y las Normas Técnicas Ecológicas Estatales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 187.
 
-Los centros de verificación están obligados a:
+Las Personas Concesionarias y las personas trabajadoras de los Centros de Verificación Vehicular están obligados a:
 
-I. Operar conforme a los sistemas, procedimientos, instalaciones, equipos plazos y condiciones establecidos en esta Ley, su Reglamento en la materia, los lineamientos normativos para la operación de la Red Estatal de Centros de Verificación Vehicular, las Normas Técnicas Federales y Estatales, el Programa de Verificación Vehicular, la Autorización y circulares correspondientes;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+I. Operar conforme a los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en esta Ley, su Reglamento en la materia, los lineamientos normativos para la operación de la Red Estatal de Centros de Verificación Vehicular, las Normas Oficiales Federales y Estatales, el Programa de Verificación Vehicular, los términos y condiciones previstos en la Concesión Administrativa, los Criterios de la Comisión Ambiental de la Megalópolis y circulares correspondientes;
 
 II. Que el personal del centro de verificación esté debidamente capacitado y acreditado por la Secretaría;
 
@@ -2413,7 +2529,9 @@ X. Que sus establecimientos cuenten con los elementos distintivos determinados p
 
 XI. Cobrar las tarifas autorizadas para la prestación del servicio de verificación vehicular;
 
-XII. Mantener en vigor la póliza de fianza correspondiente durante la vigencia de la autorización para prestar el servicio de verificación vehicular;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+XII. Mantener en vigor la póliza de fianza correspondiente durante la vigencia de la Concesión Administrativa para la Operación de Centros de Verificación Vehicular;
 
 XIII. Corroborar que el equipo y programa de computo que se instale para proporcionar el servicio de verificación vehicular, sea la versión autorizada por la Secretaria, de lo contrario abstenerse de proporcionar el servicio;
 
@@ -2647,9 +2765,11 @@ Las violaciones a los preceptos de esta Ley, sus Reglamentos y las demás dispos
 
 Las leyes sectoriales y los reglamentos de la presente Ley, describirán las conductas específicas consideradas como infracciones en cada materia, así como las sanciones que por cada infracción correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2023)</small>
+
 ###### Artículo 215.
 
-Las sanciones administrativas podrán consistir en:
+Las sanciones administrativas que podrán imponerse ya sea de manera conjunta o separada son:
 
 I. Amonestación con apercibimiento;
 
@@ -2661,7 +2781,9 @@ IV. El aseguramiento de los instrumentos, productos o implementos utilizados en 
 
 V. El decomiso definitivo de recursos naturales, materiales, bienes o residuos directamente relacionados con las infracciones;
 
-VI. Aseguramiento de los bienes inmuebles que sirvieron para la ejecución;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+VI. Aseguramiento o rescate administrativo de los bienes muebles e inmuebles que sirvieron para la ejecución;
 
 VII. La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes;
 
@@ -2679,13 +2801,17 @@ XII. Hacer efectivas las fianzas o seguros que se hubieren otorgado;
 
 XIII. Ordenar el retiro de la circulación de los vehículos que generen contaminación;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
-XIV. La remisión de vehículos a los depósitos correspondientes; y
+XIV. La remisión de vehículos a los depósitos correspondientes;
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
-XV.- La compensación que determine la autoridad correspondiente cuando ocurra daño a la salud de las personas por la contaminación generada por la emisión de ruido.
+XV.- La compensación que determine la autoridad correspondiente cuando ocurra daño a la salud de las personas por la contaminación generada por la emisión de ruido, y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2023)</small>
+
+XVI. Las demás que establezcan las leyes aplicables.
 
 Si una vez vencido el plazo concedido por la Autoridad para subsanar las infracciones que se hubiesen cometido, resultare que dichas infracciones subsisten, se podrán imponer multas por cada día que transcurra, sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido.
 
@@ -2775,15 +2901,15 @@ VI. Las personas físicas o morales generadoras de residuos de manejo especial q
 
 VII. Los establecimientos sujetos a reporte que no cuenten con Cedula de Operación Anual establecida en el artículo 193 de esta Ley, serán sancionados con multa de 150 días de salario mínimo vigente en el Estado de Hidalgo;
 
-VIII. Los Centros de Verificación Vehicular que no cuenten con Autorización Vigente al Momento de la Visita de Verificación, serán sancionados con multa de 1000 días de salario mínimo vigente en el Estado de Hidalgo;
+VIII. (DEROGADA, P.O. 30 DE JUNIO DE 2023)
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
-IX. Los Centros de Verificación Vehicular que no cumplan con los lineamientos normativos para el funcionamiento de la Red Estatal de Centros de Verificación Vehicular, del año que corresponda, excepto la Autorización para su funcionamiento, serán sancionados con multa de 500 días de salario mínimo vigente en el Estado de Hidalgo;
+IX. Los Centros de Verificación Vehicular que no cumplan con los lineamientos normativos para el funcionamiento de la Red Estatal de Centros de Verificación Vehicular, del año que corresponda, excepto los supuestos descritos en el artículo 216 Ter, serán sancionados con una multa de 1000 Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2023)</small>
 
-X. Los Centros de Verificación Vehicular que expidan Certificados de Verificación Vehicular en contravención a la presente Ley, serán sancionados con multa de 1000 días de salario mínimo vigente en el Estado de Hidalgo.
+X. Los Centros de Verificación Vehicular que expidan Certificados de Verificación Vehicular en contravención a la presente Ley, excepto los supuestos descritos en las fracciones I, II y V del artículo 216 Ter, serán sancionados con una multa de 2000 Unidades de Medida y Actualización;
 
 Quien realice la quema de cualquier tipo de material o residuo sólido o líquido, residuos sólidos urbanos o de manejo especial a cielo abierto, sin contar con autorización correspondiente, será sancionado con una multa de 500 días de salario mínimo vigente en el Estado de Hidalgo; y
 
@@ -2800,6 +2926,68 @@ c) En zonas escolares aplicando dentro de aulas de clases y en espacios de juego
 d) En zonas donde celebran ceremonias, festivales y eventos de entretenimiento bajo la limitación de cuatro horas como límite máximo es de 100 decibel (dB), bajo permiso previo de la autoridad competente. Al que incumpla los límites señalados la multa corresponderá a lo previsto en la fracción II y XV del Artículo 215 de la presente Ley.
 
 Las autoridades estatales y municipales contarán con sonómetros disponibles para la medición de las emisiones acústicas y darán trámite a las denuncias ciudadanas, en los términos dispuestos en esta ley y sus respectivos reglamentos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+###### Artículo 216 Bis.
+
+El Concedente podrá revocar la Concesión Administrativa para la Operación de un Centro de Verificación Vehicular y en su caso, rescatar administrativamente los bienes muebles e inmuebles afectos al servicio y útiles para su ejecución por causa de utilidad e interés público, cuando la Persona Concesionaria o las personas trabajadoras de un Centro de Verificación Vehicular incurran en los supuestos establecidos en la presente Ley inherentes al ejercicio de la Concesión Administrativa para la Operación de Centros de Verificación Vehicular, afectando la prestación del servicio público y generando consecuencias nocivas al medio ambiente.
+
+El efecto del rescate administrativo será el que el Concedente o en su caso, quien éste determine, asuma de manera temporal o definitiva la ejecución del objeto de la Concesión Administrativa para la Operación de Centros de Verificación Vehicular a través de los medios materiales de la Persona Concesionaria, a fin de garantizar la continuidad en la prestación del servicio de un Centro de Verificación Vehicular, obteniendo para sí la contraprestación por el servicio otorgado.
+
+A fin de garantizar el derecho de audiencia, la Secretaría previo a dictar el acuerdo que determine la revocación de la Concesión Administrativa o el rescate administrativo de bienes, deberá de escuchar lo que la Persona Concesionaria manifieste a su favor.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+###### Artículo 216 Ter.
+
+Sin perjuicio de lo establecido en el artículo 227 de la presente Ley, la Secretaría podrá revocar la Concesión Administrativa para Operar los Centros de Verificación Vehicular y en su caso, ejercer el rescate administrativo por causa de utilidad o interés público cuando la Persona Concesionaria o el personal que labore con ésta incurran en alguno de los siguientes supuestos:
+
+I. Suplantación de vehículos: Poner en la línea de verificación un vehículo y capturar de forma deliberada información en el sistema relativa a otro vehículo;
+
+II. Beneficios económicos indebidos: Recibir o solicitar a las personas usuarias del Centro de Verificación Vehicular, compensaciones de cualquier tipo a cambio de la ejecución de actos u omisiones indebidos en el proceso para lograr un resultado favorable que propicie la expedición del certificado de verificación respectivo;
+
+III. Operar sin vigencia: Cuando el Centro de Verificación se encuentre prestando el servicio de medición de emisión de contaminantes sin contar con la Concesión Administrativa para la Operación de Centros de Verificación Vehicular vigente;
+
+IV. Utilización de documentación no autorizada: Expedir recibos de pago, certificados o calcomanías no autorizados;
+
+V. Alteración de procesos tecnológicos: Fijar, instalar o retirar implementos o aditamentos tecnológicos en los instrumentos autorizados para la medición de las emisiones contaminantes provenientes de vehículos automotores en circulación con el propósito de lograr un resultado favorable que propicie la expedición del certificado de verificación respectivo;
+
+VI. Personal no acreditado: Cuando la persona que lleve a cabo el proceso de medición no se encuentre previamente acreditado ante la Secretaría, y
+
+VII. Imposibilidades: Cuando exista imposibilidad técnica, legal o económica para continuar prestando el servicio.
+
+En todos los casos la Secretaría considerará la imposición de sanciones económicas antes de la emisión de una resolución que determine la revocación o rescate administrativo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+###### Artículo 216 Quater.
+
+La resolución que al efecto emita la Secretaría en la que se determine revocar la Concesión Administrativa para la Operación de un Centro de Verificación Vehicular y/o el rescate administrativo de los bienes muebles e inmuebles útiles para su ejecución, deberá de fundarse y motivarse.
+
+Tratándose de rescate administrativo, la Secretaría deberá considerar la indemnización en favor de la Persona Concesionaria, cuyo monto será fijado por peritos designados por el Gobierno del Estado de Hidalgo, considerando el tiempo que resta para la conclusión de la vigencia de la Concesión Administrativa para la Operación de Centros de Verificación Vehicular, la amortización del capital invertido, así como los perjuicios ocasionados por la Persona Concesionaria por el incumplimiento, las sanciones económicas previstas en la ley y en su caso, los gastos erogados por la Secretaría en la ejecución del objeto de la concesión.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+###### Artículo 216 Quinquies.
+
+Si el rescate administrativo tiene como objeto el que el Concedente asuma de manera permanente la administración y operación del Centro de Verificación Vehicular, este deberá prever el mecanismo económico financiero a través del cual le permita cumplir con las responsabilidades económicas de la gestión administrativa para la operación del mismo, así como para cumplir con la indemnización respectiva.
+
+En la resolución por la que se dicte el rescate administrativo, se especificará la situación laboral del personal que se encuentre prestando sus servicios en el Centro de Verificación Vehicular, respetando en todo momento sus derechos laborales.
+
+El rescate administrativo deberá procurar la continuidad administrativa y operativa del Centro de Verificación Vehicular.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
+
+###### Artículo 216 Sexies.
+
+En caso de que el rescate administrativo busque que el Concedente asuma de manera temporal la administración y operación del Centro de Verificación Vehicular, este deberá:
+
+I. Asignar de manera directa e inmediata una Concesión Administrativa temporal y emergente a una persona física o moral del sector privado que cuente con capacidad técnica y económica suficiente, la cual fungirá como patrón sustituto, asumiendo el nuevo concesionario la totalidad de la responsabilidad operativa, administrativa y laboral por el tiempo que le haya sido asignada, incluyendo la indemnización respectiva; dicha concesión podrá ser prorrogada las veces que el Concedente considere pertinente, o
+
+II. Asumir la calidad de patrón sustituto con los mismos efectos de la fracción anterior, en tanto se desahoga el proceso respectivo para otorgar la Concesión Administrativa para la Operación del Centro de Verificación Vehicular, así como los bienes afectos a la prestación del servicio mediante el acto jurídico que estime pertinente.
+
+En ambos casos la Secretaría deberá integrar las provisiones económicas necesarias para mantener la operatividad del mismo.
 
 ###### Artículo 217.
 
@@ -2819,7 +3007,7 @@ Por trámite extemporáneo de la autorización de modificaciones a proyectos eva
 
 ###### Artículo 221.
 
-Por el trámite extemporáneo de la renovación de la autorización del centro de verificación vehicular, por cada día hábil de retraso, se cubrirá la cantidad equivalente a 2 salarios mínimos vigentes.
+(DEROGADO, P.O. 30 DE JUNIO DE 2023)
 
 ###### Artículo 222.
 
@@ -3498,3 +3686,19 @@ P.O. 30 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 495 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 539 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, todas las autorizaciones vigentes que hayan sido otorgadas en favor de personas físicas o morales para llevar a cabo la medición de las emisiones contaminantes provenientes de vehículos automotores a través de un Centro de Verificación Vehicular en la Entidad, quedarán revocadas y sin efecto legal alguno; dejando a salvo su derecho para participar en la convocatoria que al efecto emita la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Hidalgo de conformidad con la Ley vigente.
+
+Sin embargo, por causas de utilidad e interés público y a fin de garantizar el derecho a un medio ambiente sano, las autorizaciones antes referidas que se encuentren vigentes a la entrada en vigor del presente Decreto, podrán brindar el servicio de verificación vehicular por un periodo de treinta días hábiles contados a partir de la entrada en vigor del presente Decreto, para lo cual deberán presentar solicitud por escrito ante la Secretaría.
+
+TERCERO. En relación al pago de derechos respecto de la Concesión Administrativa para la operación de Centros de Verificación Vehicular, se pagará de conformidad a lo establecido en el Artículo 40 Fracción I de la Ley Estatal de Derechos.
+
+CUARTO. La Secretaría de Medio Ambiente y Recursos Naturales de Hidalgo a fin de garantizar la continuidad de la prestación del servicio en los Centros de Verificación Vehicular en la Entidad, deberá emitir la convocatoria correspondiente conforme a las disposiciones establecidas en la Ley para Protección al Ambiente del Estado de Hidalgo, a fin de otorgar las Concesiones Administrativas suficientes para la Operación de un Centro de Verificación Vehicular que en derecho proceda al día siguiente de la publicación del presente Decreto.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
