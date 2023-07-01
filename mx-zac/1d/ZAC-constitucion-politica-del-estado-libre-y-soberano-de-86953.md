@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2023-04-29"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2023.
-
-(REPUBLICADO EN EL D.O.F. 1 DE JULIO DE 2023)
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2023.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -449,9 +447,9 @@ Se reconoce la equidad entre los géneros como principio necesario para el desar
 
 En el Estado de Zacatecas funcionará una Comisión de Derechos Humanos del Estado de Zacatecas, como organismo descentralizado de la Administración Pública, de carácter autónomo, con personalidad jurídica, autonomía presupuestaria y de gestión, cuyos servicios serán gratuitos, encargado de la defensa y promoción de los derechos humanos, además, contará con un órgano interno de control que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos de la Comisión, mismo que será designado por la votación (sic) las dos terceras partes de los miembros presentes de la Legislatura del Estado. La Legislatura del Estado propondrá y designará a su Presidente y Consejeros, ajustándose a un procedimiento de consulta pública, el cual deberá ser transparente e informado, en los términos y condiciones que determine la ley; y expedirá el ordenamiento que regule sus funciones, en concordancia con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-La Comisión de Derechos Humanos del Estado de Zacatecas, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, la Legislatura del Estado o en sus recesos la Comisión Permanente, según corresponda, podrán llamar, a solicitud de la Comisión de Derechos Humanos del Estado de Zacatecas, a las autoridades o servidores públicos responsables para que comparezcan y expliquen el motivo de su negativa.
+La Comisión de Derechos Humanos del Estado de Zacatecas, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, la Legislatura del Estado o en sus recesos la Comisión Permanente, según corresponda, podrán llamar, a solicitud de la Comisión de Derechos Humanos del Estado de Zacatecas, a las autoridades o servidores públicos responsables para que comparezcan y expliquen el motivo de su negativa, lo anterior sin perjuicio de la instauración del juicio establecido en la fracción VI del artículo 101 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
 
@@ -2215,11 +2213,15 @@ XIII. Establecer la jurisprudencia del Tribunal Superior de Justicia y resolver 
 
 XIV. Ejercer, en forma independiente al presupuesto de egresos, el Fondo Auxiliar para la Administración de Justicia;
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2023)</small>
 
-XV. El veintisiete de septiembre de cada año, el Magistrado Presidente del Tribunal Superior de Justicia, presentará por escrito en sesión de la Legislatura un informe de las actividades realizadas, y
+XV. El veintisiete de septiembre de cada año, el Magistrado Presidente del Tribunal Superior de Justicia, presentará por escrito en sesión de la Legislatura un informe de las actividades realizadas;
 
-XVI. Las demás facultades y obligaciones que les señalen esta Constitución y las leyes.
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2023)</small>
+
+XVI. Substanciar el recurso de revisión interpuesto en contra de las resoluciones que se dicten con motivo del juicio para la protección de los derechos humanos, y
+
+XVII. Las demás facultades y obligaciones que les señalen esta Constitución y las leyes.
 
 ###### Artículo 101.
 
@@ -2235,7 +2237,11 @@ IV. De las contiendas de jurisdicción entre los Jueces de primera instancia y m
 
 V. De la responsabilidad oficial de los Jueces en la forma que establezcan las leyes; y
 
-VI. De los demás asuntos que las leyes sometan a su jurisdicción.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2023)</small>
+
+VI. Substanciar y resolver el juicio para la protección de los derechos humanos, por incumplimiento de las recomendaciones hechas a la autoridad por la Comisión de Derechos Humanos del Estado, de acuerdo con la ley en la materia, y
+
+VII. De los demás asuntos que las leyes sometan a su jurisdicción.
 
 #### SECCIÓN TERCERA. DEL TRIBUNAL ESTATAL ELECTORAL
 
@@ -4110,3 +4116,11 @@ P.O. 29 DE ABRIL DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 SEGUNDO. Dentro de los 180 días siguientes a la publicación de este Decreto, la Legislatura del Estado deberá realizar las adecuaciones legales para para (sic) dar cumplimiento al presente Decreto.
+
+P.O. 1 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 303.- MEDIANTE POR EL CUAL SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Dentro de los 180 días siguientes a la publicación de este Decreto, la Legislatura del Estado deberá realizar las adecuaciones legales para para dar cumplimiento al presente Decreto.
