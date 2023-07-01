@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2023-06-28"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2023.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -969,9 +969,13 @@ LII.- Promover entre la ciudadanía la solución pacífica de los conflictos der
 
 LIII.- Generar personal capacitado en materia de mecanismos alternativos para la solución de conflictos, suscitados entre quienes integran la comunidad, con motivo de las faltas cometidas a los respectivos Bandos de Policía y Gobierno, así como la capacitación de los cuerpos de seguridad pública municipal con enfoque de proximidad y la aplicación de herramientas pacificadoras.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE ENERO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2023)</small>
 
-LIV.- Las demás que le confieren las leyes y sus reglamentos.
+LIV.- Impulsar la creación de las instancias municipales en materia de protección civil establecidas en la Ley Estatal en la materia, a fin de dar cumplimiento a los preceptos que la misma establece, asumiendo la responsabilidad de elaborar, instrumentar y dar seguimiento a las políticas, acciones, planes y programas en materia de protección civil municipal.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2023)</small>
+
+LV.- Las demás que les confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -5583,9 +5587,11 @@ El Instituto Estatal Electoral, realizará las adecuaciones necesarias a su estr
 
 El Tribunal Estatal Electoral preverá lo necesario en el presupuesto correspondiente al año 2021, a efecto de dar cumplimiento en el mes de enero de ese año, lo dispuesto por el artículo 298, segundo párrafo, respecto de los Magistrados que terminen su encargo en el mes de diciembre del año 2020.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO CUARTO.
 
-En cuanto a las elecciones directas de regidores por demarcación territorial, entrará en vigor para el proceso electoral 2023 - 2024, en los términos que establezca la Ley Electoral del Estado de Chihuahua.
+En cuanto a las elecciones directas de regidurías por demarcación territorial, entrará en vigor para el proceso electoral 2026- 2027, en los términos que establezca la Ley Electoral del Estado de Chihuahua. El Congreso del Estado hará las adecuaciones correspondientes a más tardar 365 días previos al inicio del citado proceso, para garantizar la elección directa de regidurías.
 
 P.O. 12 DE AGOSTO DE 2020.
 
@@ -5770,3 +5776,31 @@ P.O. 28 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLYC/0563/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXVII/RFLEY/0583/2023 VIII P.E. POR EL QUE “SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NO. LXVI/RFLEY/0732/2020 VIII P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado garantizará la suficiencia presupuestal para el sostenimiento de la estructura ocupacional mínima necesaria del Instituto Estatal.
+
+###### ARTÍCULO TERCERO.
+
+Lo previsto en los artículos 272 i, numeral 4); 301 BIS y 301 TER, en relación con su nivel jerárquico, entrará en vigor a partir del ejercicio fiscal 2024.
+
+###### ARTÍCULO CUARTO.
+
+Para la aplicación de las disposiciones previstas en el artículo 104 del presente Decreto, el factor de competitividad se deberá calcular con la votación recibida en la conformación de distritos vigentes del proceso electoral o elección por el que opten los partidos políticos, coaliciones o candidaturas comunes.
