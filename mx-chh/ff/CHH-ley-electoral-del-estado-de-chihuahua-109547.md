@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-109547"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-22"
-last_updated: "2023-04-26"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2015.
 
@@ -475,9 +475,9 @@ Artículo 13
 
 1) Los ayuntamientos serán electos popular y directamente según el principio de mayoría relativa, durarán en su encargo tres años y estarán integrados por una presidencia, una sindicatura y el número de personas regidoras que determine la Ley. Los partidos políticos deberán garantizar el principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-2) Los ayuntamientos deberán garantizar el principio de paridad de género, se integrarán además, con el número de personas regidoras electas según el principio de representación proporcional, de acuerdo con las normas y procedimientos que señala esta Ley. Por cada persona candidata propietaria de los ayuntamientos, se elegirá una persona suplente del mismo género que la persona propietaria.
+2) Los ayuntamientos se integrarán conforme al principio de paridad de género, además, con el número de personas regidoras electas según el principio de representación proporcional, y la sindicatura, de acuerdo con las normas y procedimientos que señala esta Ley. Por cada persona candidata propietaria de los ayuntamientos, se elegirá una persona suplente del mismo género que la persona propietaria.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
 
@@ -581,7 +581,9 @@ El incumplimiento de este precepto dará lugar a la negativa del registro de la 
 
 3) Las diputaciones de representación proporcional que correspondan a cada partido político se asignarán alternada y sucesivamente y siempre atendiendo al principio de paridad: en primer lugar, utilizando el sistema de listas previamente registradas por aquellos conforme a esta Ley y, en segundo lugar, atendiendo a los más altos porcentajes obtenidos en su distrito por cada una de las personas candidatas o candidatos del mismo partido político, de la votación estatal válida emitida.
 
-4) (DEROGADO, P.O. 27 DE ENERO DE 2016)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2023)</small>
+
+4) A fin de garantizar los principios de paridad, autodeterminación de los partidos políticos y mínima intervención, el momento procesal oportuno para realizar las compensaciones será cuando se haya alcanzado el máximo número de asignaciones permitidas a un género.
 
 ### CAPÍTULO TERCERO. DISPOSICIONES COMPLEMENTARIAS
 
@@ -648,6 +650,10 @@ Artículo 21
 4) Habrá dos tipos de partidos políticos en Chihuahua, los que tengan registro nacional y los que tengan registro estatal.
 
 5) Para que una organización tenga el carácter de partido político estatal, pueda ejercer los derechos y gozar de las prerrogativas establecidas en la Ley General de Partidos Políticos, se requiere que se constituya y obtenga su registro ante el Instituto Estatal Electoral, de acuerdo a los requisitos y procedimientos que señala dicho ordenamiento. En el caso de los partidos políticos nacionales, será necesario que éstos tengan su registro como tales en el Instituto Nacional Electoral y que lo notifiquen al Instituto Estatal Electoral, que sin más trámite, los registrará para todos los efectos legales. En todo caso resulta aplicable lo dispuesto en el artículo 95 de la referida Ley General. Estos Partidos no serán considerados como de nuevo registro estatal.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+El partido político que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren y haya participado le será cancelado el registro. Esta disposición no será aplicable para los Partidos Políticos Nacionales que participen en las elecciones locales. La votación a que se refiere la presente disposición será en la que el partido político haya alcanzado el mayor porcentaje.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -1167,9 +1173,9 @@ b) La candidatura o candidaturas que lo motivan.
 
 c) El procedimiento que se seguirá para la selección de la candidatura o candidaturas que se postularán de manera común.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-d) El señalamiento, de ser el caso, del partido político al que pertenece originalmente cada una de las candidaturas comunes para efectos de la asignación de diputadas o diputados de representación proporcional y el señalamiento del grupo parlamentario o partido político en el que quedarían comprendidos en el caso de resultar electos.
+d) El señalamiento, de ser el caso, del partido político al que pertenece originalmente cada una de las candidaturas comunes para efectos de la asignación de diputadas o diputados de representación proporcional y de regidurías de representación proporcional, así como el señalamiento del grupo parlamentario o partido político en el que quedarían comprendidas en el caso de resultar electas.
 
 e) Indicar la plataforma electoral que se asumirá.
 
@@ -1341,17 +1347,39 @@ VIII. Unidad de Vinculación con el Instituto Nacional Electoral.
 
 IX. Unidad de Archivos.
 
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2023)</small>
+
+X. Unidad de Gestión de Calidad y Mejora Continua.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2023)</small>
+
+XI. Defensoría Pública de los Derechos Políticos y Electorales de la Ciudadanía Chihuahuense.
+
 d) De Control:
 
 I. Órgano Interno de Control.
 
 II. Órganos Desconcentrados:
 
-a) Asambleas Distritales: cuyas funciones las desempeñará la asamblea municipal cabecera de distrito; en Chihuahua y Juárez podrán instalarse además, asambleas distritales para coadyuvar en las labores del cómputo de las elecciones.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2023)</small>
 
-b) Asambleas Municipales, una en cada cabecera municipal, que funcionarán durante el proceso electoral.
+a) Oficina Regional Juárez, que funcionará en forma permanente.
 
-c) Las mesas directivas de casilla o mesas receptoras de votación el día de la elección, en procesos electorales; y de la jornada de consulta, en los procesos de participación ciudadana.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 1 DE JULIO DE 2023)</small>
+
+b) Asambleas Distritales: cuyas funciones las desempeñará la asamblea municipal cabecera de distrito; en Chihuahua y Juárez podrán instalarse además, asambleas distritales para coadyuvar en las labores del cómputo de las elecciones.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 1 DE JULIO DE 2023)</small>
+
+c) Asambleas Municipales, una en cada cabecera municipal, que funcionarán durante el proceso electoral.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE JULIO DE 2023)</small>
+
+d) Las mesas directivas de casilla o mesas receptoras de votación el día de la elección, en procesos electorales; y de la jornada de consulta, en los procesos de participación ciudadana.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+2) Esta se considera la estructura mínima necesaria para garantizar la función electoral en el Estado. En los procesos electorales, su Consejo Estatal podrá crear, cuando así lo estime necesario, la estructura temporal y extraordinaria, para el mejor desempeño de sus atribuciones.
 
 > <small>[N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO N° LXVI/RFLEY/0732/2020 VIII P.E., PUBLICADO EN EL P.O. 1 DE JULIO DE 2020, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE TÍTULO.]</small>
 
@@ -1521,7 +1549,9 @@ e) Las demás funciones que le otorgue esta Ley, las leyes generales y demás di
 
 Artículo 60
 
-1) Las sesiones del Consejo Estatal y de las Asambleas Municipales serán públicas.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+
+1) Las sesiones del Consejo Estatal y de las Asambleas Municipales serán públicas y se deberán difundir en forma virtual de fácil acceso a la ciudadanía, bajo los principios de transparencia y máxima publicidad.
 
 2) Durante las sesiones, solo quien ocupe la Presidencia del Consejo y las Consejeras o Consejeros Electorales del Consejo Estatal tendrán derecho a participar con voz y voto. Las personas restantes integrantes del Consejo Estatal solamente tendrán derecho a participar con voz.
 
@@ -1536,6 +1566,14 @@ Artículo 61
 2) La periodicidad de las sesiones la decidirá el propio Consejo Estatal.
 
 3) La Presidencia del Consejo podrá convocar a sesión extraordinaria cuando lo estime necesario, o a petición que por escrito le sea formulada por la mayoría de las Consejeras y Consejeros Electorales o de las personas representantes de los partidos políticos, conjunta o separadamente.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+4) A la convocatoria de las sesiones se deberá acompañar la documentación y anexos necesarios para el análisis, discusión y votación de los asuntos que integren el orden del día correspondiente.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+5) La convocatoria de las sesiones deberá notificarse, con un plazo de por lo menos veinticuatro horas de anticipación, a las consejeras, consejeros y representaciones de los partidos políticos.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -1689,9 +1727,15 @@ b) Convocar por escrito y con anticipación de cuando menos veinticuatro horas a
 
 c) Ejercer el presupuesto de egresos del Instituto Estatal Electoral, rindiendo un informe anual ante el Consejo Estatal.
 
-d) Proponer al Consejo Estatal los proyectos de resolución de los medios de impugnación y de los procedimientos administrativos sancionadores.
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA REFORMA DEL INCISO d) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) Proponer al Consejo Estatal los proyectos de resolución de los medios de impugnación y de los procedimientos administrativos sancionadores.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-e) Dictar las medidas cautelares establecidas en la presente Ley.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+
+d) PROPONER AL CONSEJO ESTATAL LOS PROYECTOS DE RESOLUCIÓN DE LOS MEDIOS DE IMPUGNACIÓN.
+
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL INCISO e) DEL NUMERAL 1 DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “e) Dictar las medidas cautelares establecidas en la presente Ley.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+e) (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
 f) Presidir y conducir las sesiones del Consejo Estatal y, en su caso, hacer uso de las correcciones disciplinarias previstas en esta Ley para mantener el orden y el respeto debidos durante las sesiones públicas.
 
@@ -1787,7 +1831,11 @@ c) Ejecutar los acuerdos del Consejo Estatal cuando se le instruya por dicho ór
 
 d) Supervisar bajo los lineamientos que emita la Presidencia, las funciones de las Direcciones y comisiones del Instituto Estatal Electoral.
 
-e) Sustanciar los procedimientos administrativos sancionadores y elaborar el proyecto de resolución correspondiente.
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA REFORMA DEL INCISO e) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “e) Sustanciar los procedimientos administrativos sancionadores y elaborar el proyecto de resolución correspondiente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+
+e) TRAMITAR EL PROCEDIMIENTO ESPECIAL SANCIONADOR Y REMITIRLO AL TRIBUNAL ELECTORAL.
 
 f) Elaborar el proyecto de resolución de los medios de impugnación que sean competencia del Consejo Estatal.
 
@@ -2653,21 +2701,41 @@ Artículo 104
 
 2) Los partidos políticos promoverán en los términos del presente ordenamiento, la igualdad de oportunidades y garantizarán la paridad de género en la vida política del Estado, a través de la postulación a cargos de elección popular en el Congreso del Estado y ayuntamientos, tanto de mayoría relativa como de representación proporcional. En ningún caso se admitirán criterios que tengan como resultado que a algún género le sean asignados exclusivamente aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
-3) En la elección de diputaciones de mayoría relativa, con la finalidad de evitar que a algún género le sean asignados distritos en los que el partido político haya obtenido los porcentajes de votación más bajos, considerando el proceso electoral local anterior, los partidos políticos deberán obtener un factor de competitividad electoral, el cual resultará del siguiente procedimiento:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2023)</small>
 
-I) Por cada distrito se deberá identificar el resultado de la votación total emitida, restándole los votos nulos y los votos de las candidaturas no registradas.
+3) En la elección de diputaciones de mayoría relativa se preverán tres bloques, con la finalidad de evitar que a algún género le sean asignados distritos en los que el partido político haya obtenido los porcentajes de votación más bajos, considerando el proceso electoral local anterior, los partidos políticos deberán obtener un factor de competitividad electoral, el cual resultará del siguiente procedimiento:
 
-II) Por cada partido político se debe identificar el resultado de votación obtenida en cada uno de los distritos. En caso de que algún partido político no hubiese postulado candidaturas en algún distrito en el proceso electoral inmediato anterior, la votación se tomará como cero.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2023)</small>
 
-III) Identificados los resultados anteriores se procederá a dividir el resultado de la fracción II) entre el resultado de la fracción I), dicho resultado se multiplicará por cien para obtener el porcentaje de votación por partido político en el distrito.
+I) Para definir los porcentajes de votación que determinará el orden de los distritos de mayoría relativa para conformar los tres bloques, cada partido político, coalición o candidatura común, optará por elegir los resultados del último proceso electoral, de los últimos dos o hasta los últimos tres procesos en la elección de diputaciones de mayoría relativa. En el caso de las coaliciones y candidaturas comunes, se considerará la votación del partido que presente el mayor número de candidaturas en la elección que participen con alguna figura de asociación electoral. La votación que se determine utilizar deberá ser del mismo proceso electoral y uniforme para cualquier forma de postulación de candidaturas.
 
-IV) De los porcentajes obtenidos en la fracción III) que antecede, en cada distrito y por cada partido político, se deberá identificar lo siguiente:
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2023)</small>
+
+II) Por cada distrito se deberá identificar el resultado de la votación total emitida, restándole los votos nulos y los votos de las candidaturas no registradas.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2023)</small>
+
+III. Por cada partido político se debe identificar el resultado de votación obtenida en cada uno de los distritos. En caso de que algún partido político no hubiese postulado candidaturas en algún distrito en el proceso electoral inmediato anterior, la votación se tomará como cero.
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2023)</small>
+
+IV. Identificados los resultados anteriores se procederá a dividir el resultado de la fracción III entre el resultado de la fracción II, dicho resultado se multiplicará por cien para obtener el porcentaje de votación por partido político en el distrito.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 1 DE JULIO DE 2023)</small>
+
+V. De los porcentajes obtenidos en la fracción IV que antecede, en cada distrito y por cada partido político, se deberá identificar lo siguiente:
 
 a) En caso de que algún partido político se ubique en el primer lugar, obtendrá su diferencia porcentual respecto al segundo lugar.
 
 b) En caso de que el partido político no haya obtenido el primer lugar, obtendrá su diferencia porcentual restando a su porcentaje el del primer lugar.
 
-V) Realizado el procedimiento anterior, con la finalidad de obtener tres bloques de distritos con alta, media y baja competitividad electoral, por cada partido político se ordenará en orden decreciente el factor de competitividad electoral obtenido en la fracción IV) anterior en cada distrito.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE JULIO DE 2023)</small>
+
+VI. Realizado el procedimiento anterior, con la finalidad de obtener tres bloques de distritos con alta, media y baja competitividad electoral, por cada partido político se ordenará en orden decreciente el factor de competitividad electoral obtenido en la fracción V anterior en cada distrito.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2023)</small>
+
+VII. El orden de prelación y asignación del género al interior de los bloques a que se refiere el presente artículo, será determinado por los partidos políticos, coaliciones o candidaturas comunes, pero en todo supuesto se deberá garantizar la postulación paritaria de las candidaturas en cada bloque.
 
 4) Para determinar la división de los tres bloques anteriores, por cada partido dividirá el número total de distritos existentes en el Estado entre tres y asignará a los dos primeros bloques el entero par más próximo al resultado. Siendo este número la cantidad de distritos que conformarán cada uno de estos dos bloques. Para el último bloque, se asignarán el resto de los distritos.
 
@@ -2675,21 +2743,43 @@ En la asignación de candidaturas, los partidos políticos deberán asignar en c
 
 En caso de que algún partido político participe en coalición o candidatura común en la postulación de candidaturas distritales, se respetarán los criterios adoptados en los convenios respectivos; siempre y cuando garanticen el cumplimiento general al principio de paridad de género.
 
-5) En la elección de alcaldías y sindicaturas, con la finalidad de evitar que a algún género le sean asignados municipios en los que el partido político haya obtenido los porcentajes de votación más bajos, considerando el proceso electoral local anterior, los partidos políticos deberán obtener un factor de competitividad electoral, el cual resultará del siguiente procedimiento:
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-I) Por cada municipio se deberá identificar el resultado de la votación total emitida, restándole los votos nulos y los votos de las candidaturas no registradas.
+5) En la elección de integrantes de los Ayuntamientos y sindicaturas se considerará lo siguiente:
 
-II) Por cada partido político se debe identificar el resultado de votación obtenida en cada uno de los municipios. En caso de que algún partido político no hubiese postulado candidaturas en algún municipio en el proceso electoral inmediato anterior, la votación se tomará como cero.
+La paridad horizontal en la postulación de candidaturas para los ayuntamientos y sindicaturas del Estado consiste en que los partidos políticos deberán registrar un cincuenta por ciento de la totalidad de postulaciones que realicen de candidaturas a las presidencias municipales con géneros distintos; con la salvedad de que cuando sea un número impar, la candidatura excedente será una mujer.
 
-III) Identificados los resultados anteriores se procederá a dividir el resultado de la fracción II) entre el resultado de la fracción I), dicho resultado se multiplicará por cien para obtener el porcentaje de votación por partido político en el municipio.
+La paridad transversal en la postulación de candidaturas para los ayuntamientos y sindicaturas del Estado consiste en que en ningún caso será admitido que, en la postulación de candidaturas a presidencias municipales, tenga como resultado que a ninguno de los géneros le sean asignados exclusivamente aquellos municipios en los que el partido haya obtenido los porcentajes de votación más bajos.
 
-IV) De los porcentajes obtenidos en la fracción III) que antecede, en cada municipio y por cada partido político, se deberá identificar lo siguiente:
+Los partidos políticos, coaliciones y candidaturas comunes deberán obtener un factor de competitividad electoral, el cual resultará del siguiente procedimiento:
 
-a) En caso de que algún partido político se ubique en el primer lugar, obtendrá su diferencia porcentual respecto al segundo lugar.
+I. Por cada municipio se deberá identificar el resultado de la votación total de los últimos tres procesos electorales. Al resultado anterior, se le restarán los votos nulos y los votos de las candidaturas no registradas, para obtener la votación total emitida del municipio.
 
-b) En caso de que el partido político no haya obtenido el primer lugar, obtendrá su diferencia porcentual restando a su porcentaje el del primer lugar.
+II. Por cada partido político se debe identificar el resultado de votación obtenida en cada uno de los municipios en los últimos tres procesos electorales. En caso de que algún partido político no hubiese postulado candidaturas en algún municipio en alguno de los tres últimos procesos electorales anteriores, la votación se tomará como cero.
 
-V) Realizado el procedimiento anterior, con la finalidad de obtener tres bloques de municipios con alta, media y baja competitividad electoral, por cada partido político se ordenará en orden decreciente el factor de competitividad electoral obtenido en la fracción IV) anterior en cada municipio.
+III. Identificados los resultados anteriores se procederá a dividir el resultado de la fracción II entre el resultado de la fracción I, lo que resulte se multiplicará por cien, para obtener el porcentaje de votación por partido político en el municipio de cada uno de los últimos tres procesos electorales.
+
+Para el caso de los partidos políticos que concurran a la elección mediante un convenio de asociación electoral, los resultados de votación se deberán sumar como si se tratara de un solo partido político, para obtener el porcentaje de votación de la asociación electoral.
+
+IV. El factor de competitividad del partido político se obtendrá del promedio de la suma de los resultados obtenidos en la fracción III. Esta regla se aplicará a cualquier forma de asociación electoral para determinar el factor de competitividad de la coalición o candidatura común.
+
+V. Realizado el procedimiento anterior, con la finalidad de obtener tres bloques de municipios con alta, media y baja competitividad electoral, por cada partido político o coalición se ordenará en orden decreciente el factor de competitividad electoral obtenido en la fracción IV anterior en cada municipio.
+
+VI. Realizado el procedimiento anterior, con la finalidad de obtener tres bloques de municipios con alta, media y baja competitividad electoral, los bloques se conformarán de la siguiente manera:
+
+a) El primer bloque de veintidós municipios, el segundo de veintitrés y el tercero de veintidós. En cada bloque se deberá postular un cincuenta por ciento para cada género de las candidaturas a las presidencias municipales y sindicaturas; con la salvedad que en el segundo bloque la candidatura excedente será para una mujer.
+
+b) Los partidos políticos deberán asignar en cada bloque, el cincuenta por ciento de candidaturas a cada uno de los géneros, procurando la mayor compatibilidad con la posibilidad de reelección.
+
+VII. Para los partidos políticos que participan por primera vez en la elección de Ayuntamientos, el Consejo Estatal definirá la modalidad en la que deberá postular sus candidaturas para garantizar que no haya más del cincuenta por ciento de candidaturas de un mismo género.
+
+VIII. Las coaliciones y candidaturas comunes deberán observar las mismas reglas de paridad de género que los partidos políticos, aun cuando se trate de coaliciones parciales o flexibles, en cuyo caso, las candidaturas que registren individualmente como partido no serán acumulables a las de la coalición o candidatura común y, consecuentemente, las que registren como coalición o candidatura común, no serán acumulables a las que registren individualmente como partido político para cumplir con el principio de paridad.
+
+IX. El orden de prelación y asignación del género al interior de los bloques a que se refiere el presente artículo, será determinado por los partidos políticos, coaliciones o candidaturas comunes, pero en todo supuesto se deberá garantizar la postulación paritaria de las candidaturas en cada bloque.
+
+X. No se podrán establecer nuevos bloques de municipios diversos a los contemplados en el presente.
+
+XI. Con independencia de las postulaciones que realicen los partidos políticos, coaliciones y candidaturas comunes, se deberá dar cumplimiento a la paridad de género en los bloques previstos en este artículo.
 
 6) Para determinar la división de los tres bloques anteriores, por cada partido se dividirá el número total de municipios existentes en el Estado entre tres y asignará a los dos primeros bloques el entero par más próximo al resultado. Siendo este número la cantidad de municipios que conformarán cada uno de estos dos bloques. Para el último bloque se asignarán el resto de los municipios. En caso de que el número de municipios del último bloque sea impar, la última posición en la lista de ese bloque, la candidatura se podrá asignar de manera indistinta a cualquier género.
 
@@ -2725,7 +2815,35 @@ Artículo 106
 
 5) Las candidaturas a integrantes de los ayuntamientos se registrarán ante la asamblea municipal respectiva, por planillas conformadas cada una por una persona titular de la presidencia municipal y el número de regidurías que determine el Código Municipal, todas con su respectiva persona suplente, ante la asamblea municipal correspondiente. Las planillas no podrán contener más del 50% de un mismo género de candidaturas propietarias, porcentaje que no aplica a las personas suplentes. En las planillas se aplicará el principio de alternancia de género en el registro de propietarias iniciando por quien encabece la candidatura a la Presidencia Municipal hasta agotar el número de regidurías que correspondan. Para los cargos de suplencia deberá guardarse el mismo porcentaje, género y orden.
 
-Las planillas que estén en los supuestos de reelección podrán integrarse con nuevas personas, y deberán de garantizar el principio de paridad de género.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2023)</small>
+
+Las planillas se integrarán conforme a las siguientes bases:
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2023)</small>
+
+I. Cada uno de los partidos políticos y candidaturas independientes deberá registrar listas propias de candidaturas a regidurías por el principio de representación proporcional.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2023)</small>
+
+II. En caso de mediar convenio de coalición o de candidatura común, para las candidaturas que integran la planilla de mayoría relativa, se deberá especificar el partido de origen de cada una de las candidaturas.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2023)</small>
+
+III. Las listas de representación proporcional de las candidaturas a regidurías se compondrán por el número que se establece en el artículo 191, numeral 1, inciso a) de esta Ley, para cada uno de los casos.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2023)</small>
+
+IV. Las candidaturas que integren la lista de representación proporcional pueden ser iguales que las postuladas mediante la planilla de mayoría relativa hasta en un cuarenta y cinco por ciento, de acuerdo con lo que determine cada partido político o candidatura independiente. Esta lista será utilizada en todos los casos para la asignación de las regidurías de representación proporcional y en caso de que la asignación corresponda a una fórmula de la lista de representación proporcional que ya estuviera integrada en la mayoría relativa, la asignación se recorrerá a la fórmula siguiente en el orden de la propia lista atendiendo el principio de paridad de género. En ningún caso los partidos políticos tendrán un número de regidurías por ambos principios que exceda el que establece el Código Municipal para el Estado de Chihuahua, en su artículo 17, fracciones I a IV.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2023)</small>
+
+V. Para garantizar la integración paritaria del ayuntamiento, las listas de representación proporcional de regidurías deberán iniciar con género distinto al de la primera fórmula de regiduría de la planilla de mayoría.
+
+El principio de paridad para integrar el Ayuntamiento se verificará al final de la asignación; así, en caso de que en la integración final se rompa con este principio, el espacio deberá asignarse a la última asignación que corresponda.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+Las planillas que estén en los supuestos de reelección podrán integrarse con nuevas personas, y deberán garantizar el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -2803,9 +2921,9 @@ d. Clave de la credencial para votar;
 
 e. Cargo para el que se le postula, y
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-f. En caso de ser candidata o candidato de coalición deberá señalar el partido político que lo propuso originalmente.
+f) En caso de ser candidata o candidato de coalición deberá señalar el partido político que lo propuso originalmente, así como el señalamiento del grupo parlamentario o partido político en el que quedarían comprendidos en el caso de resultar electos.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -4301,9 +4419,9 @@ Artículo 191
 
 a) En los municipios que contempla el artículo 17, fracción I, del Código Municipal, los ayuntamientos podrán tener adicionalmente nueve regidoras o regidores según el principio de representación proporcional; en los que refiere la fracción II del artículo citado, siete; en los que alude la fracción III, hasta cinco; y, hasta tres, en los restantes comprendidos en la fracción IV;
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-b) Tendrán derecho a que les asignen regidurías de representación proporcional a las planillas debidamente registradas, que no hayan obtenido el triunfo de mayoría relativa y hayan alcanzado por lo menos el 2% de la votación municipal válida emitida. La votación municipal válida emitida resultará de deducir de la votación municipal total emitida, los votos nulos y candidaturas no registradas. Para lo anterior, se entiende por votación municipal total emitida el total de votos depositados en las urnas de la elección municipal de ayuntamiento que corresponda.
+b) Tendrán derecho a que les asignen regidurías de representación proporcional a los partidos y candidaturas independientes debidamente registradas, que hayan alcanzado por lo menos el 2% de la votación municipal válida emitida. La votación municipal válida emitida resultará de deducir de la votación municipal total emitida, los votos nulos y candidaturas no registradas. Para lo anterior, se entiende por votación municipal total emitida, el total de votos depositados en las urnas de la elección municipal del ayuntamiento que corresponda.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
@@ -4319,19 +4437,19 @@ I. Cociente de unidad, y
 
 II. Resto mayor.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-f) Cociente de unidad, es el resultado de dividir la votación válida emitida en cada municipio a favor de las planillas con derecho a participar en la distribución, entre el número de integrantes del ayuntamiento de representación proporcional a asignar en cada municipio.
+f) Cociente de unidad, es el resultado de dividir la votación válida emitida en cada municipio a favor de los partidos o candidaturas independientes con derecho a participar en la distribución, entre el número de integrantes del ayuntamiento de representación proporcional a asignar en cada municipio.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-g) Resto mayor de votos, es el remanente más alto entre los restos de las votaciones de cada planilla, una vez hecha la distribución de integrantes de ayuntamiento mediante cociente de unidad. El resto mayor se utilizará cuando aún hubiese integrantes por asignar.
+g) Resto mayor de votos, es el remanente más alto entre los restos de las votaciones de cada partido o candidatura independiente, una vez hecha la distribución de integrantes de ayuntamiento mediante cociente de unidad. El resto mayor se utilizará cuando aún hubiese integrantes por asignar.
 
 2) Para la aplicación de la formula anterior, se seguirá el procedimiento siguiente:
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-a) Se determinarán las personas integrantes que se le asignarán a cada planilla, conforme al número de veces que contenga su votación el cociente de unidad. Las regidurías asignadas a las planillas, tomando en cuenta la paridad de género en la designación de las regidurías para que el Ayuntamiento se integre de manera paritaria, de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y de conformidad con el supuesto contenido en el inciso c) del numeral 1 del presente artículo, corresponden al primer entero en los términos de este párrafo.
+a) Se determinarán las personas integrantes que se le asignarán a cada planilla, conforme al número de veces que contenga su votación el cociente de unidad. Las regidurías de asignación directa por haber obtenido el dos por ciento de la votación se deben descontar del cociente de unidad. Las regidurías asignadas a las planillas, tomando en cuenta la paridad de género en la designación de las regidurías para que el Ayuntamiento se integre de manera paritaria, de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y de conformidad con el supuesto contenido en el inciso c) del numeral 1 del presente artículo, corresponden al primer entero en los términos de este párrafo.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -5539,9 +5657,13 @@ V. La abstención o no asistencia a cumplir sus funciones en la mesa directiva d
 
 g) Menoscabar, limitar o impedir el ejercicio de derechos políticos electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley, de la Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, y de la Ley Estatal del Derecho de las Mujeres a una Vida Libre de Violencia.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2023)</small>
 
-h) El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+h) El incumplimiento a la imposición de sanciones que sean dictadas por el Tribunal Electoral.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE JULIO DE 2023)</small>
+
+i) El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -5883,9 +6005,9 @@ Cuando en el ejercicio de sus atribuciones, se vincule a particulares, y estos r
 
 3) La persona titular del Órgano Interno de Control será designada por el Congreso del Estado, con el voto de al menos las dos terceras partes de las y los diputados presentes, mediante el procedimiento y plazos que determine la Ley Orgánica del Poder Legislativo del Estado. La persona electa rendirá la protesta de ley ante el Consejo Estatal.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-4) La persona titular del Órgano Interno de Control será su representante legal y tendrá un nivel jerárquico equivalente al de la Secretaría Ejecutiva en el organigrama del Instituto. En su estructura orgánica garantizará la independencia de funciones entre las autoridades que lo conforman, las que serán al menos con atribuciones de investigación, de substanciación y resolución, en su caso, así como las de auditoría interna y mejora de la gestión pública, que ocuparán un nivel jerárquico de dirección ejecutiva en la estructura orgánica del Instituto. Para lo cual, contará con los recursos necesarios que apruebe el Consejo Estatal a propuesta de su titular, de conformidad con las reglas previstas en este Capítulo.
+4) La persona titular del Órgano Interno de Control será su representante legal y tendrá un nivel jerárquico equivalente al de una Dirección Ejecutiva en el organigrama del Instituto. En su estructura orgánica se garantizará la independencia de funciones entre las autoridades de investigación, auditoría interna y de substanciación y resolución, en su caso, que ocuparán un nivel jerárquico de dirección técnica en la estructura orgánica del Instituto. Para lo cual, contará con los recursos necesarios que apruebe el Consejo Estatal a propuesta de su titular, de conformidad con las reglas previstas en este Capítulo.
 
 5) En su desempeño, el Órgano Interno de Control se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, presunción de inocencia, congruencia, verdad material, objetividad y respeto a los derechos humanos.
 
@@ -6091,7 +6213,11 @@ Artículo 272 p
 
 1) Las y los servidores públicos adscritos al Órgano Interno de Control y, en su caso, las y los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
 
-## TÍTULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR EN MATERIA ELECTORAL
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA DENOMINACIÓN DEL TÍTULO TERCERO INDICADA CON MINÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “DEL PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR EN MATERIA ELECTORAL”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 2023)</small>
+
+## TÍTULO TERCERO. DEL PROCEDIMIENTO especial SANCIONADOR EN MATERIA ELECTORAL
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
@@ -6103,21 +6229,27 @@ Todo partido político o persona con interés jurídico podrá acudir en denunci
 
 Artículo 274
 
-1) Son órganos competentes para la sustanciación y resolución del Procedimiento Administrativo Sancionador:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2023)</small>
 
-a) El Consejo Estatal del Instituto Estatal Electoral;
+1) Son órganos competentes para la tramitación del Procedimiento Especial Sancionador:
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA REFORMA DEL INCISO a) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a) El Consejo Estatal del Instituto Estatal Electoral;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-b) La Consejera o Consejero Presidente.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+a) LA COMISIÓN DE QUEJAS Y DENUNCIAS.
 
-c) La Secretaría Ejecutiva.
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA REFORMA DEL INCISO b) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “b) La Consejera o Consejero Presidente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 1 DE JULIO DE 2023)</small>
 
-d) Las Asambleas Municipales, su Consejera o Consejero Presidente y su Secretaría Ejecutiva en sus respectivos ámbitos de competencia, fungirán como órganos auxiliares para la tramitación de los procedimientos sancionadores.
+b) LA SECRETARÍA EJECUTIVA.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+
+c) Las Asambleas Municipales, su Consejera o Consejero Presidente y su Secretaría Ejecutiva, en sus respectivos ámbitos de competencia, fungirán como órganos auxiliares para la tramitación de los procedimientos sancionadores.
+
+d) (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
 Artículo 275
 
@@ -6203,7 +6335,9 @@ b) Documentales privadas;
 
 c) Técnicas;
 
-d) Pericial contable;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+
+d) Pericial.
 
 e) Presunción legal y humana, y
 
@@ -6219,17 +6353,27 @@ f) Instrumental de actuaciones.
 
 6) La parte quejosa o la denunciada podrán aportar pruebas supervenientes hasta antes del cierre de la instrucción.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-7) Admitida una prueba superveniente, se dará vista a la parte quejosa o denunciada, según corresponda, para que en el plazo de cinco días manifieste lo que a su derecho convenga.
+7) Admitida una prueba superveniente, se dará vista a la parte quejosa o denunciada, según corresponda, para que en el plazo de tres días manifieste lo que a su derecho convenga.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL NUMERAL 8) DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “8) La Secretaría Ejecutiva o el Consejo Estatal podrán admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes, no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva. El Consejo Estatal apercibirá a las autoridades, en caso de que estas no atiendan en tiempo y forma el requerimiento respectivo.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-8) La Secretaría Ejecutiva o el Consejo Estatal podrán admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes, no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva. El Consejo Estatal apercibirá a las autoridades, en caso de que estas no atiendan en tiempo y forma el requerimiento respectivo.
+8) (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-9) Asimismo, el Consejo Estatal podrá admitir aquellos elementos probatorios que, habiendo sido solicitados por los órganos del Instituto dentro de la investigación correspondiente, no se hubiesen recibido sino hasta veinticuatro horas antes de la sesión respectiva. En estos casos el Consejo Estatal ordenará la devolución del expediente a la Secretaría Ejecutiva del Instituto para efecto de que se valore dicha probanza en el proyecto de resolución.
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL NUMERAL 9) DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “9) Asimismo, el Consejo Estatal podrá admitir aquellos elementos probatorios que, habiendo sido solicitados por los órganos del Instituto dentro de la investigación correspondiente, no se hubiesen recibido sino hasta veinticuatro horas antes de la sesión respectiva. En estos casos el Consejo Estatal ordenará la devolución del expediente a la Secretaría Ejecutiva del Instituto para efecto de que se valore dicha probanza en el proyecto de resolución.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-10) Los órganos que sustancien el procedimiento podrán hacer uso de los medios de apremio para hacer cumplir sus resoluciones.
+9) (DEROGADO, P.O. 1 DE JULIO DE 2023)
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+
+10) Los órganos que tramiten el procedimiento podrán hacer uso de los medios de apremio para hacer cumplir sus acuerdos y/o resoluciones.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+Artículo 277 BIS
+
+El Instituto Estatal Electoral contará con un registro de peritos, que lo auxiliarán con el carácter de peritos terceros, como profesionales independientes, quienes deberán tener título debidamente registrado en la técnica, ciencia o arte a que pertenezca la cuestión sobre la que deba rendirse el peritaje o proporcionarse la asesoría, si la profesión, técnica o arte estuvieren legalmente reglamentados y, si no lo estuvieren, deberán ser personas versadas en la materia. Para la integración del registro y permanencia en el mismo, así como para la contratación y pago de honorarios de peritos, se estará a los lineamientos que señale el Reglamento.
 
 Artículo 278
 
@@ -6247,15 +6391,33 @@ Artículo 279
 
 Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos por que existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 2020)</small>
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA DENOMINACIÓN DEL CAPÍTULO SEGUNDO INDICADA CON MINÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “DEL PROCEDIMIENTO SANCIONADOR ORDINARIO Y DE LAS MEDIDAS CAUTELARES POR INFRACCIONES QUE CONSTITUYAN VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO SANCIONADOR ORDINARIO Y DE LAS MEDIDAS CAUTELARES POR INFRACCIONES QUE CONSTITUYAN VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 2023)</small>
+
+### CAPÍTULO SEGUNDO
+
+DEL PROCEDIMIENTO especial SANCIONADOR Y DE LAS MEDIDAS CAUTELARES Y DE PROTECCIÓN POR INFRACCIONES QUE CONSTITUYAN VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
+
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA REFORMA DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “1) El procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas podrá iniciar a instancia de parte o de oficio, cuando cualquier órgano del Instituto tenga conocimiento de la comisión de conductas infractoras.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
 Artículo 280
 
-1) El procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas podrá iniciar a instancia de parte o de oficio, cuando cualquier órgano del Instituto tenga conocimiento de la comisión de conductas infractoras.
+1) LA SECRETARÍA EJECUTIVA DEL INSTITUTO, INSTRUIRÁ EL PROCEDIMIENTO ESPECIAL SANCIONADOR ESTABLECIDO EN EL PRESENTE CAPÍTULO, DENTRO Y FUERA DEL PROCESO ELECTORAL CUANDO SE DENUNCIE LA COMISIÓN DE CONDUCTAS QUE CONSTITUYAN:
 
-2) La facultad de la autoridad electoral para fincar responsabilidades por infracciones administrativas prescribe en el término de tres años, contados a partir de la comisión de los hechos o que se tenga conocimiento de los mismos.
+a) Infracciones en materia electoral.
+
+b) Violencia política contra las mujeres en razón de género.
+
+c) Infracciones en los procedimientos de participación ciudadana de referéndum, plebiscito, iniciativa ciudadana, revocación de mandato, consulta popular y presupuesto participativo que estén dirigidos y haya participado exclusivamente la ciudadanía.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+Artículo 280 BIS
+
+1) La investigación para el conocimiento cierto de los hechos se realizará por el Instituto de forma seria, congruente, idónea, eficaz, expedita, completa, exhaustiva y con perspectiva de género.
 
 Artículo 281
 
@@ -6263,287 +6425,67 @@ Artículo 281
 
 1) Cualquier persona con interés jurídico podrá presentar quejas o denuncias por presuntas violaciones a la normatividad electoral ante el Consejo Estatal o ante las Asambleas Municipales del Instituto Estatal Electoral. La queja o denuncia deberá ser remitida dentro del término de cuarenta y ocho horas a la Secretaría Ejecutiva del Consejo Estatal, para su trámite, salvo que se requiera de la ratificación de la misma por parte del quejoso; supuesto en el que será remitida una vez ratificada o, en su caso, cuando haya concluido el plazo para ello.
 
-2) La queja o denuncia podrá ser presentada por escrito o en forma oral y deberá cumplir con los siguientes requisitos:
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL NUMERAL 2) DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “2) La queja o denuncia podrá ser presentada por escrito o en forma oral y deberá cumplir con los siguientes requisitos: a) Nombre de la parte quejosa o denunciante, con firma autógrafa o huella digital. b) Domicilio para oír y recibir notificaciones; c) Los documentos que sean necesarios para acreditar la personería; d) Narración expresa y clara de los hechos en que se basa la queja o denuncia y, de ser posible, los preceptos presuntamente violados, y e) Ofrecer y aportar las pruebas con que cuente o, en su caso, mencionar las que habrán de requerirse, cuando la parte promovente acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas. La parte denunciante deberá relacionar las pruebas con cada uno de los hechos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+2) (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-a) Nombre de la parte quejosa o denunciante, con firma autógrafa o huella digital.
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL NUMERAL 3) DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “3) Los partidos políticos deberán presentar las quejas o denuncias por escrito. En caso de que las personas representantes no acrediten su personería, la queja o denuncia se tendrá por no presentada.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-b) Domicilio para oír y recibir notificaciones;
+3) (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-c) Los documentos que sean necesarios para acreditar la personería;
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL NUMERAL 4) DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “4) La Secretaría Ejecutiva deberá prevenir a la parte denunciante para que subsane cualquier omisión en su denuncia en caso de ser irregular, dentro del plazo improrrogable de tres días. De la misma forma lo prevendrá para que la aclare, cuando esta sea imprecisa, vaga o genérica. En caso de no enmendar la omisión que se le requiera o no aclararla, se tendrá por no presentada la denuncia.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-d) Narración expresa y clara de los hechos en que se basa la queja o denuncia y, de ser posible, los preceptos presuntamente violados, y
+4) (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL NUMERAL 5) DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “5) La autoridad que tome conocimiento de la interposición de una queja o denuncia en forma oral, deberá hacerla constar en acta, requiriendo la ratificación por parte de la parte denunciante. En caso de no acudir a ratificar la denuncia o queja dentro del término de tres días contados a partir de que se le notifique la citación, se tendrá por no formulada la denuncia.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-e) Ofrecer y aportar las pruebas con que cuente o, en su caso, mencionar las que habrán de requerirse, cuando la parte promovente acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas. La parte denunciante deberá relacionar las pruebas con cada uno de los hechos.
+5) (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL NUMERAL 6) DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “6) El Consejo Estatal o las Asambleas Municipales que reciban una queja o denuncia sobre cualquier materia, podrán realizar las acciones necesarias para impedir el ocultamiento, menoscabo o destrucción de pruebas, así como para allegarse de elementos probatorios adicionales que estime pudieran aportar elementos para la investigación, sin que dichas medidas impliquen el inicio anticipado de la misma, todo lo cual debe quedar asentado en acta circunstanciada que deberá remitirse junto con el escrito de queja o denuncia a la Secretaria Ejecutiva del Consejo Estatal.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-3) Los partidos políticos deberán presentar las quejas o denuncias por escrito. En caso de que las personas representantes no acrediten su personería, la queja o denuncia se tendrá por no presentada.
+6) (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL NUMERAL 7) DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “7) Recibida la queja o denuncia, por la Secretaría Ejecutiva del Consejo Estatal, procederá a: a) Su registro, debiendo informar de su presentación al Consejo General; b) Su revisión para determinar si debe prevenir a la parte quejosa. c) Su análisis para determinar la admisión o desechamiento de la misma, y d) En su caso, determinar y solicitar las diligencias necesarias para el desarrollo de la investigación.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-4) La Secretaría Ejecutiva deberá prevenir a la parte denunciante para que subsane cualquier omisión en su denuncia en caso de ser irregular, dentro del plazo improrrogable de tres días. De la misma forma lo prevendrá para que la aclare, cuando esta sea imprecisa, vaga o genérica. En caso de no enmendar la omisión que se le requiera o no aclararla, se tendrá por no presentada la denuncia.
+7) (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL NUMERAL 8) DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “8) La Secretaría Ejecutiva del Consejo Estatal, contará con un plazo de cinco días para emitir el acuerdo de admisión o propuesta de desechamiento, contado a partir del día en que reciba la queja o denuncia, o bien, en caso de que se hubiese prevenido a la parte quejosa, a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo, sin que se hubiese desahogado la misma.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-5) La autoridad que tome conocimiento de la interposición de una queja o denuncia en forma oral, deberá hacerla constar en acta, requiriendo la ratificación por parte de la parte denunciante. En caso de no acudir a ratificar la denuncia o queja dentro del término de tres días contados a partir de que se le notifique la citación, se tendrá por no formulada la denuncia.
+8) (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL NUMERAL 9) DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “9) Si del análisis de las constancias aportadas por el denunciante, se advierte la falta de indicios necesarios para admitir el procedimiento, la Secretaría Ejecutiva reservará la admisión de la queja y dictará las medidas pertinentes para llevar a cabo la investigación preliminar, debiendo justificar su necesidad y oportunidad. La investigación deberá llevarse en un plazo razonable y proporcional a los hechos que se denuncien. En este caso, el plazo para la admisión se computará a partir de que la autoridad cuente con los elementos necesarios para decidir sobre la admisión.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-6) El Consejo Estatal o las Asambleas Municipales que reciban una queja o denuncia sobre cualquier materia, podrán realizar las acciones necesarias para impedir el ocultamiento, menoscabo o destrucción de pruebas, así como para allegarse de elementos probatorios adicionales que estime pudieran aportar elementos para la investigación, sin que dichas medidas impliquen el inicio anticipado de la misma, todo lo cual debe quedar asentado en acta circunstanciada que deberá remitirse junto con el escrito de queja o denuncia a la Secretaria Ejecutiva del Consejo Estatal.
+9) (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-7) Recibida la queja o denuncia, por la Secretaría Ejecutiva del Consejo Estatal, procederá a:
+Artículo 281 BIS (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-a) Su registro, debiendo informar de su presentación al Consejo General;
+Artículo 281 TER (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+Artículo 281 QUÁTER (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-b) Su revisión para determinar si debe prevenir a la parte quejosa.
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 282 1) La queja o denuncia será improcedente cuando: a) Tratándose de quejas o denuncias que versen sobre presuntas violaciones a la normatividad interna de un partido político, la parte quejosa o denunciante no acredite su pertenencia al partido de que se trate o su interés jurídico. b) La parte quejosa o denunciante no agote previamente las instancias internas del partido denunciado si la queja versa sobre presuntas violaciones a su normatividad interna. c) Por actos o hechos imputados a la misma persona que hayan sido materia de otra queja o denuncia que cuente con resolución del Consejo Estatal respecto al fondo y ésta no se haya impugnado ante el Tribunal Electoral, o habiendo sido impugnada haya sido confirmada por el mismo Tribunal Electoral competente, y d) Se denuncien actos de los que el Instituto resulte incompetente para conocer; o cuando los actos, hechos u omisiones denunciados no constituyan violaciones a la presente Ley. 2) Procederá el sobreseimiento de la queja o denuncia, cuando: a) Habiendo sido admitida, sobrevenga alguna de las causales de improcedencia; b) La parte denunciada sea un partido político que, con posterioridad a la admisión de la queja o denuncia, haya perdido su registro. c) La parte denunciante presente escrito de desistimiento, siempre y cuando lo exhiba antes de la aprobación del proyecto de resolución por parte de la Secretaría Ejecutiva del Consejo Estatal y que a juicio de la misma, o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral. d) El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia se realizará de oficio. En caso de advertir que se actualiza una de ellas, la Secretaría Ejecutiva elaborará un proyecto de resolución por el que se proponga el desechamiento o sobreseimiento, según corresponda. 3) Cuando durante la sustanciación de una investigación la Secretaría Ejecutiva advierta hechos distintos al objeto de ese procedimiento que puedan constituir distintas violaciones electorales, o la responsabilidad de personas actoras diversas a las denunciadas, podrá ordenar el inicio, de oficio, de un nuevo procedimiento de investigación. 4) La Secretaría Ejecutiva llevará un registro de las quejas desechadas e informará de ello al Consejo Estatal.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-c) Su análisis para determinar la admisión o desechamiento de la misma, y
+Artículo 282 (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-d) En su caso, determinar y solicitar las diligencias necesarias para el desarrollo de la investigación.
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 283 1) Admitida la queja o denuncia, la Secretaría Ejecutiva emplazará a la parte denunciada sin perjuicio de ordenar las diligencias de investigación que estime necesarias. Con la primera notificación a la parte denunciada se le correrá traslado con una copia de la queja o denuncia, así como de las pruebas que, en su caso, haya aportado la parte denunciante o hubiera obtenido a prevención la autoridad que la recibió, concediéndole un plazo de cinco días para que conteste respecto a las imputaciones que se le formulan. La omisión de contestar sobre dichas imputaciones únicamente tiene como efecto la preclusión de su derecho a ofrecer pruebas, sin generar presunción respecto a la veracidad de los hechos denunciados. 2) El escrito de contestación deberá cumplir con los siguientes requisitos: a) Nombre de la parte denunciada o su representante, con firma autógrafa o huella digital. b) Deberá referirse a los hechos que se le imputan, afirmándolos, negándolos o declarando que los desconoce; c) Domicilio para oír y recibir notificaciones; d) Los documentos que sean necesarios para acreditar la personería, y e) Ofrecer y aportar las pruebas con que cuente debiendo relacionar estas con los hechos o, en su caso, mencionar las que habrán de requerirse por estar en poder de una autoridad y que no le haya sido posible obtener. En este último supuesto, la parte oferente deberá identificar con toda precisión dichas pruebas.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+Artículo 283 (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-8) La Secretaría Ejecutiva del Consejo Estatal, contará con un plazo de cinco días para emitir el acuerdo de admisión o propuesta de desechamiento, contado a partir del día en que reciba la queja o denuncia, o bien, en caso de que se hubiese prevenido a la parte quejosa, a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo, sin que se hubiese desahogado la misma.
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 284 1) La investigación para el conocimiento cierto de los hechos se realizará por el Instituto de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva. 2) Una vez que la Secretaría Ejecutiva del Consejo Estatal tenga conocimiento de los hechos denunciados, en su caso, dictará de inmediato las medidas necesarias para dar fe de los mismos; para impedir que se pierdan, destruyan o alteren las huellas o vestigios, y en general para evitar que se dificulte la investigación. 3) Admitida la queja o denuncia por la Secretaría Ejecutiva, se allegará de los elementos de convicción que estime pertinentes para integrar el expediente respectivo. Para tal efecto, podrá solicitar y comisionar a cualquier órgano del Instituto Estatal Electoral para que lleven a cabo las investigaciones o diligencias necesarias para recabar las pruebas ofrecidas. Se abrirá periodo de instrucción el cual no podrá exceder de cuarenta días, contados a partir de la admisión de la denuncia o del inicio de oficio del procedimiento por parte de la Secretaría Ejecutiva. Dicho plazo podrá ser ampliado de manera excepcional por una sola vez, hasta por un periodo igual al antes señalado, mediante acuerdo debidamente motivado que emita la Secretaría Ejecutiva del Consejo Estatal. 4) Si dentro del plazo fijado para la admisión de la queja o denuncia, la Secretaría Ejecutiva valora que deben dictarse medidas cautelares lo propondrá a la Consejera o Consejero Presidente del Consejo Estatal para que este resuelva en un plazo de veinticuatro horas lo conducente, y en su caso emita la orden a fin de lograr la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales, o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en esta Ley. Las medidas cautelares estarán vigente (sic) hasta en tanto se resuelva el fondo del asunto y sean levantadas por el Consejo Estatal al aprobar la resolución definitiva. 5) La Secretaría Ejecutiva del Consejo Estatal podrá solicitar a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados. Con la misma finalidad podrá requerir a las personas físicas y morales la entrega de informaciones y pruebas que sean necesarias.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+Artículo 284 (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
-9) Si del análisis de las constancias aportadas por el denunciante, se advierte la falta de indicios necesarios para admitir el procedimiento, la Secretaría Ejecutiva reservará la admisión de la queja y dictará las medidas pertinentes para llevar a cabo la investigación preliminar, debiendo justificar su necesidad y oportunidad. La investigación deberá llevarse en un plazo razonable y proporcional a los hechos que se denuncien. En este caso, el plazo para la admisión se computará a partir de que la autoridad cuente con los elementos necesarios para decidir sobre la admisión.
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 285 1) Concluido el desahogo de las pruebas y, en su caso, agotada la investigación, la Secretaría Ejecutiva pondrá el expediente a la vista del quejoso y del denunciado para que, en un plazo de cinco días, manifiesten lo que a su derecho convenga. Transcurrido este plazo, procederá a elaborar el proyecto de resolución correspondiente, en un término no mayor a diez días contados a partir del desahogo de la última vista. Vencido el plazo antes mencionado la Secretaria o Secretario Ejecutivo podrá ampliarlo mediante acuerdo en el que se señalen las causas que lo motiven; la ampliación no podrá exceder de diez días. 2) Concluido el plazo anterior, el proyecto de resolución que formule la Secretaría Ejecutiva será enviado a la Comisión de Quejas y Denuncias, dentro del término de cinco días, para su conocimiento y estudio. La Consejera o Consejero Electoral Presidente de la citada Comisión, a más tardar al día siguiente de la recepción del proyecto, convocará a los demás integrantes de la misma a sesión, la que deberá tener lugar no antes de veinticuatro horas de la fecha de la convocatoria, con la finalidad de que dicho órgano colegiado analice y valore el proyecto de resolución, atendiendo a lo siguiente: a) Si la Comisión de Quejas y Denuncias está de acuerdo con el sentido del proyecto formulado por la Secretaría Ejecutiva, será turnado a la Presidencia, a fin de que por su conducto se someta a la consideración del Consejo Estatal para su estudio y votación. b) En caso de no estar de acuerdo con el sentido del proyecto formulado por la Secretaría Ejecutiva, la Comisión de Quejas y Denuncias devolverá el proyecto, exponiendo las razones de su devolución, o sugiriendo, en su caso, las diligencias que estime pertinentes para el perfeccionamiento de la investigación. c) En un plazo no mayor a quince días después de la devolución del proyecto y las consideraciones al respecto, la Secretaría Ejecutiva emitirá un nuevo proyecto de resolución, debiendo considerar los razonamientos y argumentos que haya formulado la Comisión de Quejas y Denuncias. d) Si la Comisión de Quejas y Denuncias está de acuerdo con el sentido del nuevo proyecto, lo remitirá a la Presidencia, a fin de que esta proceda en términos del inciso f) de este artículo. e) En el evento de que la Comisión de Quejas y Denuncias no esté de acuerdo con el nuevo proyecto, esta realizará las modificaciones que estime pertinentes y lo remitirá a la Presidencia, a efecto de que proceda en términos del inciso anterior. f) Una vez que la persona titular de la Presidencia reciba el proyecto correspondiente, lo someterá a consideración del Consejo Estatal. g) Si el proyecto es rechazado por el Consejo Estatal, el mismo regresará a la Secretaría Ejecutiva a efecto de que lo reformule conforme con los razonamientos expuestos en la sesión. De requerirse la realización de nuevas diligencias, la Secretaría Ejecutiva procederá en términos de lo dispuesto en los incisos b) y c) de este artículo, con la salvedad de que, en este caso, el proyecto lo presentará directamente al Consejo Estatal para su discusión y aprobación. 3) En la sesión en que conozca del proyecto de resolución, el Consejo Estatal determinará: a) Aprobarlo en los términos en que se le presente; b) Aprobarlo, ordenando a la Secretaria o Secretario Ejecutivo realizar el engrose de la resolución en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría. c) Modificarlo, procediendo a aprobarlo dentro de la misma sesión, siempre y cuando se considere que puede hacerse y que no contradice lo establecido en el cuerpo del dictamen; d) Rechazarlo y ordenar a la Secretaría Ejecutiva elaborar un nuevo proyecto en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría, y 4) Rechazado un proyecto de resolución se entiende que se aprueba un acuerdo de devolución. 5) En caso de empate motivado por la ausencia de alguno (sic) de las Consejeras y Consejeros Electorales, se procederá a una segunda votación; en caso de persistir el empate, la Consejera o Consejero Presidente determinará que se presente en una sesión posterior, en la que se encuentren presentes todas las Consejeras y Consejeros Electorales. 6) La consejera o consejero electoral que disienta de la mayoría podrá formular voto particular, el cual se insertará en el proyecto respectivo si se remite a la secretaria o secretario dentro de los dos días siguientes a la fecha de su aprobación. 7) En el desahogo de los puntos de la orden del día en que el Consejo Estatal deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, éstos se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-Artículo 281 BIS
-
-1) Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
-
-a) Realizar análisis de riesgos y un plan de seguridad.
-
-b) Retirar la campaña violenta contra la víctima, haciendo públicas las razones.
-
-c) Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora.
-
-d) Ordenar la suspensión del cargo partidista, de la persona agresora.
-
-e) Cualquier otra requerida para la protección de la mujer víctima, o quien ella solicite.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-Artículo 281 TER
-
-1) En la resolución de los procedimientos sancionadores, por violencia política en contra de las mujeres en razón de género, la autoridad resolutora deberá considerar ordenar las medidas de reparación integral que correspondan considerando al menos las siguientes:
-
-a) Indemnización de la víctima.
-
-b) Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia.
-
-c) Disculpa pública.
-
-d) Medidas de no repetición.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-Artículo 281 QUÁTER
-
-1) El Instituto Estatal Electoral deberá seguir el procedimiento siguiente:
-
-a) La Secretaría Ejecutiva del Instituto, instruirá el procedimiento especial establecido en este Capítulo, en cualquier momento, cuando se presenten denuncias, o de oficio por hechos relacionados con violencia política contra las mujeres en razón de género, y ordenará en forma sucesiva iniciar el procedimiento, así como resolver sobre las medidas cautelares y de protección que fueren necesarias. Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
-
-b) Cuando la conducta infractora sea del conocimiento de las autoridades electorales administrativas distritales o locales, de inmediato la remitirán, a la Secretaría Ejecutiva del Instituto para que ordene iniciar el procedimiento correspondiente.
-
-c) Cuando las denuncias presentadas sean en contra de alguna persona servidora pública, la Secretaría Ejecutiva dará vista de las actuaciones, así como de su resolución, a las autoridades competentes en materia de responsabilidades administrativas, para que en su caso apliquen las sanciones que correspondan en términos de la Ley General de Responsabilidades Administrativas.
-
-2) La denuncia deberá contener lo siguiente:
-
-a) Nombre de la persona denunciante, con firma autógrafa o huella digital.
-
-b) Domicilio para oír y recibir notificaciones.
-
-c) Narración expresa de los hechos en que se basa la denuncia.
-
-d) Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas.
-
-e) En su caso, las medidas cautelares y de protección que se soliciten.
-
-3) La Secretaría Ejecutiva, deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción; tal resolución deberá ser confirmada por escrito y se informará al Tribunal Estatal Electoral, para su conocimiento.
-
-4) La Secretaría Ejecutiva desechará la denuncia cuando:
-
-a) No se aporten u ofrezcan pruebas.
-
-b) Sea notoriamente frívola o improcedente.
-
-5) Cuando la Secretaría Ejecutiva admita la denuncia, emplazará a las partes, para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la parte denunciada, de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
-
-6) En lo procedente, el desarrollo de la audiencia de pruebas y alegatos y su traslado al Tribunal Estatal Electoral, se desarrollarán conforme lo dispuesto en esta Ley.
-
-Artículo 282
-
-1) La queja o denuncia será improcedente cuando:
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-a) Tratándose de quejas o denuncias que versen sobre presuntas violaciones a la normatividad interna de un partido político, la parte quejosa o denunciante no acredite su pertenencia al partido de que se trate o su interés jurídico.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-b) La parte quejosa o denunciante no agote previamente las instancias internas del partido denunciado si la queja versa sobre presuntas violaciones a su normatividad interna.
-
-c) Por actos o hechos imputados a la misma persona que hayan sido materia de otra queja o denuncia que cuente con resolución del Consejo Estatal respecto al fondo y ésta no se haya impugnado ante el Tribunal Electoral, o habiendo sido impugnada haya sido confirmada por el mismo Tribunal Electoral competente, y
-
-d) Se denuncien actos de los que el Instituto resulte incompetente para conocer; o cuando los actos, hechos u omisiones denunciados no constituyan violaciones a la presente Ley.
-
-2) Procederá el sobreseimiento de la queja o denuncia, cuando:
-
-a) Habiendo sido admitida, sobrevenga alguna de las causales de improcedencia;
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-b) La parte denunciada sea un partido político que, con posterioridad a la admisión de la queja o denuncia, haya perdido su registro.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-c) La parte denunciante presente escrito de desistimiento, siempre y cuando lo exhiba antes de la aprobación del proyecto de resolución por parte de la Secretaría Ejecutiva del Consejo Estatal y que a juicio de la misma, o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral.
-
-d) El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia se realizará de oficio. En caso de advertir que se actualiza una de ellas, la Secretaría Ejecutiva elaborará un proyecto de resolución por el que se proponga el desechamiento o sobreseimiento, según corresponda.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-3) Cuando durante la sustanciación de una investigación la Secretaría Ejecutiva advierta hechos distintos al objeto de ese procedimiento que puedan constituir distintas violaciones electorales, o la responsabilidad de personas actoras diversas a las denunciadas, podrá ordenar el inicio, de oficio, de un nuevo procedimiento de investigación.
-
-4) La Secretaría Ejecutiva llevará un registro de las quejas desechadas e informará de ello al Consejo Estatal.
-
-Artículo 283
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
-
-1) Admitida la queja o denuncia, la Secretaría Ejecutiva emplazará a la parte denunciada sin perjuicio de ordenar las diligencias de investigación que estime necesarias. Con la primera notificación a la parte denunciada se le correrá traslado con una copia de la queja o denuncia, así como de las pruebas que, en su caso, haya aportado la parte denunciante o hubiera obtenido a prevención la autoridad que la recibió, concediéndole un plazo de cinco días para que conteste respecto a las imputaciones que se le formulan. La omisión de contestar sobre dichas imputaciones únicamente tiene como efecto la preclusión de su derecho a ofrecer pruebas, sin generar presunción respecto a la veracidad de los hechos denunciados.
-
-2) El escrito de contestación deberá cumplir con los siguientes requisitos:
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-a) Nombre de la parte denunciada o su representante, con firma autógrafa o huella digital.
-
-b) Deberá referirse a los hechos que se le imputan, afirmándolos, negándolos o declarando que los desconoce;
-
-c) Domicilio para oír y recibir notificaciones;
-
-d) Los documentos que sean necesarios para acreditar la personería, y
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-e) Ofrecer y aportar las pruebas con que cuente debiendo relacionar estas con los hechos o, en su caso, mencionar las que habrán de requerirse por estar en poder de una autoridad y que no le haya sido posible obtener. En este último supuesto, la parte oferente deberá identificar con toda precisión dichas pruebas.
-
-Artículo 284
-
-1) La investigación para el conocimiento cierto de los hechos se realizará por el Instituto de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva.
-
-2) Una vez que la Secretaría Ejecutiva del Consejo Estatal tenga conocimiento de los hechos denunciados, en su caso, dictará de inmediato las medidas necesarias para dar fe de los mismos; para impedir que se pierdan, destruyan o alteren las huellas o vestigios, y en general para evitar que se dificulte la investigación.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-3) Admitida la queja o denuncia por la Secretaría Ejecutiva, se allegará de los elementos de convicción que estime pertinentes para integrar el expediente respectivo. Para tal efecto, podrá solicitar y comisionar a cualquier órgano del Instituto Estatal Electoral para que lleven a cabo las investigaciones o diligencias necesarias para recabar las pruebas ofrecidas. Se abrirá periodo de instrucción el cual no podrá exceder de cuarenta días, contados a partir de la admisión de la denuncia o del inicio de oficio del procedimiento por parte de la Secretaría Ejecutiva. Dicho plazo podrá ser ampliado de manera excepcional por una sola vez, hasta por un periodo igual al antes señalado, mediante acuerdo debidamente motivado que emita la Secretaría Ejecutiva del Consejo Estatal.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-4) Si dentro del plazo fijado para la admisión de la queja o denuncia, la Secretaría Ejecutiva valora que deben dictarse medidas cautelares lo propondrá a la Consejera o Consejero Presidente del Consejo Estatal para que este resuelva en un plazo de veinticuatro horas lo conducente, y en su caso emita la orden a fin de lograr la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales, o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en esta Ley. Las medidas cautelares estarán vigente (sic) hasta en tanto se resuelva el fondo del asunto y sean levantadas por el Consejo Estatal al aprobar la resolución definitiva.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-5) La Secretaría Ejecutiva del Consejo Estatal podrá solicitar a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados. Con la misma finalidad podrá requerir a las personas físicas y morales la entrega de informaciones y pruebas que sean necesarias.
-
-Artículo 285
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
-
-1) Concluido el desahogo de las pruebas y, en su caso, agotada la investigación, la Secretaría Ejecutiva pondrá el expediente a la vista del quejoso y del denunciado para que, en un plazo de cinco días, manifiesten lo que a su derecho convenga. Transcurrido este plazo, procederá a elaborar el proyecto de resolución correspondiente, en un término no mayor a diez días contados a partir del desahogo de la última vista. Vencido el plazo antes mencionado la Secretaria o Secretario Ejecutivo podrá ampliarlo mediante acuerdo en el que se señalen las causas que lo motiven; la ampliación no podrá exceder de diez días.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-2) Concluido el plazo anterior, el proyecto de resolución que formule la Secretaría Ejecutiva será enviado a la Comisión de Quejas y Denuncias, dentro del término de cinco días, para su conocimiento y estudio.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-La Consejera o Consejero Electoral Presidente de la citada Comisión, a más tardar al día siguiente de la recepción del proyecto, convocará a los demás integrantes de la misma a sesión, la que deberá tener lugar no antes de veinticuatro horas de la fecha de la convocatoria, con la finalidad de que dicho órgano colegiado analice y valore el proyecto de resolución, atendiendo a lo siguiente:
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-a) Si la Comisión de Quejas y Denuncias está de acuerdo con el sentido del proyecto formulado por la Secretaría Ejecutiva, será turnado a la Presidencia, a fin de que por su conducto se someta a la consideración del Consejo Estatal para su estudio y votación.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-b) En caso de no estar de acuerdo con el sentido del proyecto formulado por la Secretaría Ejecutiva, la Comisión de Quejas y Denuncias devolverá el proyecto, exponiendo las razones de su devolución, o sugiriendo, en su caso, las diligencias que estime pertinentes para el perfeccionamiento de la investigación.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-c) En un plazo no mayor a quince días después de la devolución del proyecto y las consideraciones al respecto, la Secretaría Ejecutiva emitirá un nuevo proyecto de resolución, debiendo considerar los razonamientos y argumentos que haya formulado la Comisión de Quejas y Denuncias.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-d) Si la Comisión de Quejas y Denuncias está de acuerdo con el sentido del nuevo proyecto, lo remitirá a la Presidencia, a fin de que esta proceda en términos del inciso f) de este artículo.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-e) En el evento de que la Comisión de Quejas y Denuncias no esté de acuerdo con el nuevo proyecto, esta realizará las modificaciones que estime pertinentes y lo remitirá a la Presidencia, a efecto de que proceda en términos del inciso anterior.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-f) Una vez que la persona titular de la Presidencia reciba el proyecto correspondiente, lo someterá a consideración del Consejo Estatal.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-g) Si el proyecto es rechazado por el Consejo Estatal, el mismo regresará a la Secretaría Ejecutiva a efecto de que lo reformule conforme con los razonamientos expuestos en la sesión. De requerirse la realización de nuevas diligencias, la Secretaría Ejecutiva procederá en términos de lo dispuesto en los incisos b) y c) de este artículo, con la salvedad de que, en este caso, el proyecto lo presentará directamente al Consejo Estatal para su discusión y aprobación.
-
-3) En la sesión en que conozca del proyecto de resolución, el Consejo Estatal determinará:
-
-a) Aprobarlo en los términos en que se le presente;
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-b) Aprobarlo, ordenando a la Secretaria o Secretario Ejecutivo realizar el engrose de la resolución en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría.
-
-c) Modificarlo, procediendo a aprobarlo dentro de la misma sesión, siempre y cuando se considere que puede hacerse y que no contradice lo establecido en el cuerpo del dictamen;
-
-d) Rechazarlo y ordenar a la Secretaría Ejecutiva elaborar un nuevo proyecto en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría, y
-
-4) Rechazado un proyecto de resolución se entiende que se aprueba un acuerdo de devolución.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-5) En caso de empate motivado por la ausencia de alguno (sic) de las Consejeras y Consejeros Electorales, se procederá a una segunda votación; en caso de persistir el empate, la Consejera o Consejero Presidente determinará que se presente en una sesión posterior, en la que se encuentren presentes todas las Consejeras y Consejeros Electorales.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-6) La consejera o consejero electoral que disienta de la mayoría podrá formular voto particular, el cual se insertará en el proyecto respectivo si se remite a la secretaria o secretario dentro de los dos días siguientes a la fecha de su aprobación.
-
-7) En el desahogo de los puntos de la orden del día en que el Consejo Estatal deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, éstos se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
+Artículo 285 (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
 # LIBRO SÉPTIMO. DEL TRIBUNAL ESTATAL ELECTORAL
 
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
 
-Artículo 286
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 286 1) Dentro de los procesos electorales, la Secretaría Ejecutiva del Consejo Estatal del Instituto Estatal Electoral, instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que: a) Contravengan las normas sobre propaganda política o electoral, o b) Constituyan actos anticipados de precampaña o campaña. c) (DEROGADO, P.O. 27 DE ENERO DE 2016) d) Constituyan violencia política contra las mujeres en razón de género en términos de la legislación aplicable. Tratándose de denuncias de casos de violencia política contra las mujeres en razón de género, el procedimiento especial sancionador podrá instruirse dentro o fuera de proceso electoral. 2) Dentro de los procesos electorales locales será competencia de la Secretaría Ejecutiva del Instituto Nacional Electoral, por conducto de la Unidad Técnica de lo Contencioso Electoral, instruir el procedimiento especial sancionador previsto en la Ley General de Instituciones y Procedimientos Electorales, cuando se denuncie la comisión de conductas que violen lo establecido en la Base III del artículo 41 en materia de propaganda en radio y televisión, de conformidad con lo previsto por el artículo 160, numeral 2, de la ley general antes mencionada.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-1) Dentro de los procesos electorales, la Secretaría Ejecutiva del Consejo Estatal del Instituto Estatal Electoral, instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que:
-
-a) Contravengan las normas sobre propaganda política o electoral, o
-
-b) Constituyan actos anticipados de precampaña o campaña.
-
-c) (DEROGADO, P.O. 27 DE ENERO DE 2016)
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-d) Constituyan violencia política contra las mujeres en razón de género en términos de la legislación aplicable.
-
-Tratándose de denuncias de casos de violencia política contra las mujeres en razón de género, el procedimiento especial sancionador podrá instruirse dentro o fuera de proceso electoral.
-
-2) Dentro de los procesos electorales locales será competencia de la Secretaría Ejecutiva del Instituto Nacional Electoral, por conducto de la Unidad Técnica de lo Contencioso Electoral, instruir el procedimiento especial sancionador previsto en la Ley General de Instituciones y Procedimientos Electorales, cuando se denuncie la comisión de conductas que violen lo establecido en la Base III del artículo 41 en materia de propaganda en radio y televisión, de conformidad con lo previsto por el artículo 160, numeral 2, de la ley general antes mencionada.
+Artículo 286 (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
 Artículo 287
 
@@ -6551,15 +6493,21 @@ Artículo 287
 
 2) Desde el inicio del proceso, se deberán generar los acuerdos necesarios a nivel operativo para que en esta materia exista la coordinación debida con el instituto nacional electoral.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-3) Cuando la conducta infractora esté relacionada con violencia política contra las mujeres en razón de género, recibida la queja o denuncia por parte de la autoridad, deberá remitirla de inmediato a la Secretaría Ejecutiva del Instituto Estatal Electoral, para su conocimiento y determinación de medidas cautelares, en su caso.
+3) Cuando la conducta infractora esté relacionada con violencia política contra las mujeres en razón de género, recibida la queja o denuncia por parte de la autoridad, deberá remitirla de inmediato a la Secretaría Ejecutiva del Instituto Estatal Electoral, para su conocimiento y tramitación de medidas cautelares y de protección que, en su caso, determine la Comisión de Quejas y Denuncias.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+4) En casos de urgencia y necesidad, en los procedimientos de violencia política contra las mujeres en razón de género, la Presidencia de la Comisión de Quejas y Denuncias podrá dictar las medidas de protección.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
 
 Artículo 287 BIS
 
-1) En los procedimientos relacionados con violencia política contra las mujeres en razón de género, la Secretaría Ejecutiva del Instituto Estatal Electoral ordenará en forma sucesiva iniciar el procedimiento, así como resolver sobre las medidas cautelares y de protección que fueren necesarias. Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+
+1) En los procedimientos relacionados con violencia política contra las mujeres en razón de género, la Secretaría Ejecutiva del Instituto Estatal Electoral ordenará en forma sucesiva iniciar el procedimiento. Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
 
 2) Cuando la conducta infractora sea del conocimiento de las autoridades electorales administrativas distritales, municipales o locales, de inmediato la remitirán, a la Secretaría Ejecutiva del Instituto Estatal Electoral para que ordene iniciar el procedimiento correspondiente.
 
@@ -6590,6 +6538,30 @@ b) Sea notoriamente frívola o improcedente.
 8) En lo procedente, el desarrollo de la audiencia de pruebas y alegatos y su traslado al Tribunal Estatal Electoral, se desarrollarán conforme lo dispuesto en esta Ley.
 
 9) El Instituto Estatal Electoral podrá, en todo momento, dar inicio de oficio al procedimiento establecido en este artículo.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+Artículo 287 TER
+
+1) La Secretaría Ejecutiva deberá emitir acuerdo de admisión o desechamiento en un plazo de veinticuatro horas a la presentación de solicitud de adoptar medidas cautelares.
+
+2) Si no se actualiza una causal de notoria improcedencia, la Secretaría Ejecutiva del Instituto, después de haber admitido la queja o denuncia, la remitirá inmediatamente con las constancias recabadas y un proyecto de acuerdo a la Comisión de Quejas y Denuncias para que esta resuelva en un plazo de veinticuatro horas.
+
+3) Si del análisis de las constancias aportadas por la parte denunciante, se advierte la falta de indicios suficientes para iniciar la investigación, la Secretaría Ejecutiva reservará la admisión y el emplazamiento, y dictará las medidas necesarias para llevar a cabo una investigación preliminar que no deberá exceder de cuarenta y ocho horas, atendiendo al objeto y al carácter sumario del procedimiento, debiendo justificar para tal efecto su necesidad y oportunidad. En este caso, el plazo de veinticuatro horas para la admisión se computará a partir de que la autoridad cuente con los elementos necesarios.
+
+4) Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
+
+a) Realizar análisis de riesgos y un plan de seguridad.
+
+b) Retirar la campaña violenta contra la víctima, haciendo públicas las razones.
+
+c) Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora.
+
+d) Ordenar la suspensión del cargo partidista, de la persona agresora.
+
+e) Cualquier otra requerida para la protección de la mujer víctima, o quien ella solicite.
+
+5) La Secretaría Ejecutiva podrá acordar y ordenar las diligencias necesarias fuera de los plazos anteriores, mediante acuerdo debidamente fundado y motivado, justificando los plazos y términos en que se deben cumplir, a efecto de instruir debidamente el procedimiento previsto en el artículo 280 de la presente Ley.
 
 Artículo 288
 
@@ -6631,23 +6603,25 @@ d) La denuncia sea evidentemente frívola.
 
 4) La Secretaría Ejecutiva del Consejo Estatal deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción. En caso de desechamiento, notificará al denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas; tal resolución deberá ser confirmada por escrito y se informará de ello a la Magistrada o Magistrado Presidente del Tribunal Estatal Electoral, para su conocimiento.
 
-5) Cuando la Secretaría Ejecutiva del Consejo Estatal admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+5) Si del análisis de las constancias aportadas por la parte denunciante, se advierte la falta de indicios suficientes para iniciar la investigación, la Secretaría Ejecutiva reservará la admisión y el emplazamiento, y dictará las medidas necesarias para llevar a cabo una investigación preliminar que no deberá exceder de cinco días, atendiendo al objeto y al carácter sumario del procedimiento, debiendo justificar para tal efecto su necesidad y oportunidad. En este caso, el plazo de veinticuatro horas para la admisión se computará a partir de que la autoridad cuente con los elementos necesarios.
 
-6) Si la Secretaría Ejecutiva considera necesaria la adopción de medidas cautelares, las propondrá a la Consejera o Consejero Presidente del Instituto Estatal Electoral dentro del mismo plazo de cuarenta y ocho horas previsto en el numeral anterior. Esta decisión podrá ser impugnada ante el Tribunal Estatal Electoral.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+6) Cuando la Secretaría Ejecutiva del Consejo Estatal admita la denuncia, emplazará a la parte denunciante y a la denunciada para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 
-Cuando se considere necesario la adopción de órdenes de protección, tratándose de denuncias por violencia política por razones de género, sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato a la autoridad correspondiente para que proceda a otorgarlas conforme a sus facultades y competencias.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE JULIO DE 2023)</small>
+
+7) Si la Secretaría Ejecutiva considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Quejas y Denuncias dentro del mismo plazo de cuarenta y ocho horas previsto en el numeral anterior, para que esta resuelva sobre la procedencia de su adopción dentro de las veinticuatro horas siguientes. Esta decisión podrá ser impugnada ante el Tribunal Estatal Electoral.
+
+Cuando se considere necesario la adopción de órdenes de protección, tratándose de denuncias por violencia política contra las mujeres en razón de género, que sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato a la autoridad correspondiente para que proceda a otorgarlas conforme a sus facultades y competencias.
 
 Artículo 290
 
 1) La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral y será conducida por la Secretaría Ejecutiva, debiéndose levantar constancia de su desarrollo.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-2) En el procedimiento especial no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando la parte oferente aporte los medios para tal efecto en el curso de la audiencia.
+2) (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
 3) La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados. La audiencia se desarrollará en los siguientes términos:
 
@@ -6666,6 +6640,10 @@ c) La Secretaría Ejecutiva resolverá sobre la admisión de pruebas y acto segu
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 d) Concluido el desahogo de las pruebas, la Secretaría Ejecutiva concederá en forma sucesiva el uso de la voz a la parte denunciante y a la denunciada, o a sus representantes, quienes podrán alegar en forma escrita, o verbal por una sola vez y en tiempo no mayor a quince minutos por persona.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+e) Para los asuntos en materia de violencia política contra las mujeres en razón de género, en caso de que la parte denunciante comparezca de manera presencial a la audiencia de pruebas y alegatos, esta podrá solicitar que la misma se lleve a cabo de manera virtual, en plena observancia a los derechos de la víctima u ofendida (sic).
 
 Artículo 291
 
@@ -6893,6 +6871,10 @@ l) Realizar tareas de docencia e investigación en el Tribunal, y
 
 m) Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+n) Contar con un registro de las y los peritos del Tribunal Electoral que lo auxiliarán con el carácter de peritos terceros, como profesionales independientes; para la integración de dicho registro y permanencia en el mismo, se estará a los lineamientos que señale el Reglamento.
+
 Artículo 298
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
@@ -7073,11 +7055,21 @@ c) Las demás que les confieran el Reglamento Interior, el Pleno o la Presidenci
 
 7) Todas las personas en el servicio público del Tribunal serán consideradas de confianza, salvo el personal de apoyo administrativo.
 
-> <small>(ADICIONADO, P. O. 13 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
 Artículo 301 BIS
 
-1) El Órgano Interno de Control estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. En la designación de su titularidad deberá observarse lo dispuesto por la Constitución Política del Estado y tendrá las mismas atribuciones que su similar en el Instituto, previstas en el Libro Sexto, Título Segundo, Capítulo Segundo, Sección Tercera de esta Ley, en lo conducente.
+El Órgano Interno de Control estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. El Pleno del Tribunal Electoral determinará la estructura suficiente para el desempeño de sus atribuciones de investigación, auditoría interna y de substanciación y resolución.
+
+Para ello, el Pleno del Tribunal Estatal Electoral, dispondrá de una partida presupuestal específica.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+Artículo 301 TER
+
+La persona Titular del Órgano Interno de Control del Tribunal Estatal Electoral tendrá las mismas atribuciones que su similar en el Instituto, previstas en el Libro Sexto, Título Segundo, Capítulo Segundo, Sección Tercera de esta Ley, en lo conducente.
+
+La persona Titular del Órgano Interno de Control tendrá el mismo nivel jerárquico que quien se desempeñe en una Secretaría de Estudio y Cuenta del Tribunal Estatal Electoral.
 
 # LIBRO OCTAVO. DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN Y NULIDADES EN MATERIA ELECTORAL
 
@@ -7108,6 +7100,10 @@ e) El juicio para dirimir los conflictos o diferencias laborales entre el Instit
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 f) El juicio para dirimir los conflictos o diferencias laborales entre el Tribunal Estatal Electoral y sus servidoras o servidores.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+g) Recurso de Revisión del Procedimiento Especial Sancionador.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -7229,7 +7225,9 @@ i) El medio de impugnación resulte evidentemente frívolo.
 
 Artículo 310
 
-1) En los casos de competencia del Tribunal Estatal Electoral, la Magistrada o Magistrado Presidente propondrá al Pleno el desechamiento del medio de impugnación.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+
+1) En los casos de competencia del Tribunal Estatal Electoral, la Magistrada o Magistrado instructor propondrá al Pleno el desechamiento del medio de impugnación.
 
 2) En los asuntos de competencia del Instituto Estatal Electoral, la Consejera o Consejero Presidente propondrá al Consejo Estatal el desechamiento.
 
@@ -7641,9 +7639,11 @@ Artículo 330
 
 1) Recibida la documentación a que se refiere el artículo anterior, el Tribunal Estatal Electoral realizará los actos y ordenará las diligencias que sean necesarias para la sustanciación de los medios de impugnación, de acuerdo con lo siguiente:
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
-a) Si se actualizara alguna de las causales de notoria improcedencia, la Magistrada o Magistrado Presi (sic) podrá proponer al Pleno el desechamiento de plano del medio de impugnación.
+a) La Presidencia del Tribunal turnará de inmediato el expediente recibido a la Magistrada o Magistrado instructor, quien tendrá la obligación de revisar que el escrito del medio de impugnación reúna todos los requisitos señalados en esta Ley.
+
+Si se actualizara alguna de las causales de notoria improcedencia, la Magistrada o Magistrado instructor propondrá al Pleno el desechamiento de plano del medio de impugnación.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -7708,6 +7708,16 @@ g) En su caso, el plazo y las bases para su cumplimiento.
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 3) En los asuntos competencia del Tribunal Estatal Electoral, las resoluciones serán dictadas en sesión pública y aprobadas por mayoría de votos de las magistradas o magistrados.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 1 DE JULIO DE 2023)</small>
+
+4) Para el cumplimiento de las sentencias que sean dictadas por el Tribunal Estatal Electoral, se disponen las siguientes medidas.
+
+a) Las autoridades que sean competentes para la imposición de sanciones por violaciones a la presente Ley, tendrán que informar al Tribunal Estatal Electoral el cumplimiento de la sentencia dictada, así como la imposición de la sanción correspondiente.
+
+b) Cuando las autoridades federales, estatales o municipales incumplan los mandatos de la autoridad electoral, no proporcionen en tiempo y forma la información que les sea solicitada, se vinculará a la autoridad con superioridad jerárquica y, en su caso, presentará la queja ante la autoridad competente por hechos que pudieran constituir responsabilidades administrativas, o las denuncias o querellas ante la agencia del Ministerio Público que deba conocer de ellas, a fin de que se proceda en los términos de las leyes aplicables.
+
+c) En caso de no dar cumplimiento a la sentencia, el Tribunal Estatal Electoral, en términos de lo dispuesto por el artículo 346 de la presente Ley, podrá imponer los medios de apremio que se estimen conducentes.
 
 Artículo 333
 
@@ -7970,6 +7980,10 @@ b) Recurso de apelación, y
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 c) Juicio para la protección de los derechos políticos y electorales de la ciudadanía.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+d) Recurso de Revisión del Procedimiento Especial Sancionador.
 
 2) Durante el proceso electoral, para garantizar la legalidad de los actos, resoluciones y resultados electorales, además de los medios de impugnación señalados anteriormente, podrá promoverse el Juicio de Inconformidad.
 
@@ -8357,6 +8371,26 @@ Artículo 381
 
 Las sentencias recaídas a los juicios de inconformidad serán notificadas personalmente a las partes y, en su caso, al Congreso del Estado, dentro de los tres días siguientes a aquél en que se pronuncien.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+Artículo 381 BIS
+
+1) Procede el Recurso de Revisión del Procedimiento Especial Sancionador previsto en el artículo 280 de esta Ley, en contra:
+
+a) De las medidas cautelares que emita la Comisión de Quejas y Denuncias del Instituto.
+
+b) Del acuerdo de admisión o desechamiento que emita el Instituto a una denuncia.
+
+2) El Tribunal Estatal Electoral será competente para conocer de este recurso.
+
+3) El plazo para impugnar los actos previstos en el numeral 1 de este artículo, será de tres días, contados a partir del día siguiente en que se haya notificado el acuerdo correspondiente, con excepción del recurso que se interponga en contra de las medidas cautelares emitidas por el Instituto, en cuyo caso el plazo será de cuarenta y ocho horas, contadas a partir de la imposición de dichas medidas.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+Artículo 381 TER.
+
+Para la tramitación, sustanciación y resolución del recurso, serán aplicables, en lo conducente, las reglas de procedimiento establecidas en esta Ley y en particular las señaladas en el recurso de apelación, con excepción de la resolución, en donde aplicará un plazo de tres días contados a partir de la admisión.
+
 ## TÍTULO CUARTO. DE LAS NULIDADES ELECTORALES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
@@ -8446,6 +8480,10 @@ a) Se exceda el gasto de campaña en un cinco por ciento del monto total autoriz
 b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley, y
 
 c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+d) Se acredite la violencia política grave contra las mujeres en razón de género mediante sentencia firme del órgano jurisdiccional electoral.
 
 4) Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
 
@@ -9093,9 +9131,11 @@ El Instituto Estatal Electoral, realizará las adecuaciones necesarias a su estr
 
 El Tribunal Estatal Electoral preverá lo necesario en el presupuesto correspondiente al año 2021, a efecto de dar cumplimiento en el mes de enero de ese año, lo dispuesto por el artículo 298, segundo párrafo, respecto de los Magistrados que terminen su encargo en el mes de diciembre del año 2020.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO CUARTO.
 
-En cuanto a las elecciones directas de regidores por demarcación territorial, entrará en vigor para el proceso electoral 2023 - 2024, en los términos que establezca la Ley Electoral del Estado de Chihuahua.
+En cuanto a las elecciones directas de regidurías por demarcación territorial, entrará en vigor para el proceso electoral 2026-2027, en los términos que establezca la Ley Electoral del Estado de Chihuahua. El Congreso del Estado hará las adecuaciones correspondientes a más tardar 365 días previos al inicio del citado proceso, para garantizar la elección directa de regidurías.
 
 P.O. 1 DE JULIO DE 2020.
 
@@ -9176,3 +9216,23 @@ En cumplimiento del Principio de Progresividad que impera en materia de Derechos
 ###### ARTÍCULO CUARTO.
 
 En relación con el artículo 177 Ter, el establecimiento de los Centros Regionales de Personas Traductoras e Intérpretes atenderá a la suficiencia y justificación presupuestal que el Poder Judicial del Estado de Chihuahua establezca.
+
+P.O. 1 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVII/RFLEY/0583/2023 VIII P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA; Y SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NO. LXVI/RFLEY/0732/2020 VIII P.E”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado garantizará la suficiencia presupuestal para el sostenimiento de la estructura ocupacional mínima necesaria del Instituto Estatal.
+
+###### ARTÍCULO TERCERO.
+
+Lo previsto en los artículos 272 i, numeral 4); 301 BIS y 301 TER, en relación con su nivel jerárquico, entrará en vigor a partir del ejercicio fiscal 2024.
+
+###### ARTÍCULO CUARTO.
+
+Para la aplicación de las disposiciones previstas en el artículo 104 del presente Decreto, el factor de competitividad se deberá calcular con la votación recibida en la conformación de distritos vigentes del proceso electoral o elección por el que opten los partidos políticos, coaliciones o candidaturas comunes.
