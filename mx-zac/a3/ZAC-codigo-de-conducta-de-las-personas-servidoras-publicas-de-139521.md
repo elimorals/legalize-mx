@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-conducta-de-las-personas-servidoras-publicas-de-13952
 country: "mx"
 rank: "codigo"
 publication_date: "2019-12-04"
-last_updated: "2019-12-04"
+last_updated: "2023-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139521&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "ZAC"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARIA DE EDUCACION DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE EDUCACIÓN DEL GOBIERNO DE ZACATECAS, PUBLICADO EN EL P.O. 1 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2023 (DEROGADO).
 
 Código publicado en el Núm. 97 del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de diciembre de 2019.
 
@@ -515,3 +517,19 @@ ATENTAMENTE
 _________________________________________
 
 NOMBRE Y FIRMA DE LA PERSONA SERVIDORA PÚBLICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE EDUCACIÓN DEL GOBIERNO DE ZACATECAS”.]
+
+Primero.- El presente Código de Conducta, entra en vigor a partir del día siguiente de su autorización.
+
+Segundo.- La Secretaría de Educación dará difusión oficial del presente Código de Conducta a todo el personal que integra la Dependencia, para su debido cumplimiento, de acuerdo a la fracción V, del artículo 20, del Código de Ética de la Administración Pública del Estado de Zacatecas y fracción XVII, numeral 4, del Acuerdo por el que se emiten los Lineamientos Generales para la Integración y Funcionamiento de los Comités de Ética.
+
+Tercero.- Todo aquello que no esté expresamente estipulado en el presente Código de Conducta será suplido por la (sic) Leyes y Normas aplicables.
+
+Cuarto.- En cumplimiento a lo dispuesto por los artículos 23, 25 fracción IX y 34 de la Ley Orgánica de la Administración Pública del Estado de Zacatecas, para su debida observancia se emite el presente Acuerdo por el que se expide el Código de Conducta, a los 16 días del mes de diciembre de 2022.
+
+Quinto.- El presente Código de Conducta, deroga al anterior publicado en el Periódico Oficial, Órgano del Gobierno del Estado en el Tomo CXXIX con el número 97 de fecha 4 de diciembre de 2019.
