@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-109617"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-26"
-last_updated: "2021-09-04"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de agosto de 2015.
 
@@ -535,7 +535,9 @@ V. La administración de los refugios temporales para la atención de población
 
 VI. Dirigir las acciones que requieran para enfrentar, en primera instancia, las emergencias y/o desastres que se presenten en la jurisdicción municipal que corresponda.
 
-VII. Elaborar su atlas de riesgo, programa municipal de protección civil, planes de contingencia por temporada y programas especiales.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2023)</small>
+
+VII. Elaborar, a través de las Coordinaciones Municipales, su atlas de riesgo, programa municipal de protección civil, planes de contingencia por temporada y programas especiales.
 
 VIII. Las demás que le sean conferidas por otras disposiciones legales.
 
@@ -563,7 +565,9 @@ II. Elaborar el plan de contingencias por temporada, así como los programas esp
 
 III. Analizar y evaluar los peligros, vulnerabilidades y riesgos ante los fenómenos que impliquen una amenaza que afecte al municipio, e informar a las autoridades competentes para realizar las acciones correspondientes para mitigación de los mismos.
 
-IV. Elaborar el Atlas municipal de riesgos, y actualizarlo y difundirlo de manera periódica.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2023)</small>
+
+IV. Elaborar el Atlas municipal de riesgos, procurando su actualización y difusión de manera periódica.
 
 V. Impulsar la creación de sistemas de monitoreo y alerta temprana para los riesgos de su territorio.
 
@@ -1420,3 +1424,11 @@ Para tales efectos, emitirá una convocatoria que será publicada en los princip
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo del Estado, dentro del plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto, deberá publicar el Código Adam.
+
+P.O. 1 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLYC/0563/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
