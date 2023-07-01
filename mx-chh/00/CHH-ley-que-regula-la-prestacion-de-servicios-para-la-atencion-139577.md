@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-la-prestacion-de-servicios-para-la-atencion-1395
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-11"
-last_updated: "2021-09-04"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2023.
 
 Ley publicada en el Anexo al No. 99 del Periódico Oficial del Estado de Chihuahua, el miércoles 11 de diciembre de 2019.
 
@@ -427,7 +427,9 @@ VII. Documento que acredite que se cuenta con la infraestructura, instalaciones 
 
 VIII. Programa Interno de Protección Civil de conformidad con lo dispuesto por la Ley de Protección Civil del Estado y la presente Ley.
 
-IX. Licencias, permisos y demás autorizaciones en materia de protección civil, uso de suelo, funcionamiento, ocupación, seguridad y operaciones, seguridad estructural del inmueble y aspectos de carácter sanitario.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2023)</small>
+
+IX. Licencias, permisos y demás autorizaciones en materia de protección civil, funcionamiento, ocupación, seguridad y operaciones, seguridad estructural del inmueble, aspectos de carácter sanitario y, en su caso, uso de suelo.
 
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
@@ -750,6 +752,10 @@ VI. Interculturalidad.
 ###### Artículo 63.
 
 A través de las políticas públicas relacionadas con la prestación de servicios para la atención, cuidado y desarrollo integral infantil, se fomentará la participación de los sectores social y privado, en la consecución del objeto de esta Ley y de conformidad con la política nacional en la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
+
+Quienes habiten en una población que no cuente con un servicio para el cuidado, atención y protección de las hijas e hijos de madres, padres o tutores trabajadores durante la jornada laboral, podrán organizarse comunitariamente para la obtención de la licencia y registro para operar un Centro de Atención Infantil. Para tales efectos, las autoridades estatales y municipales deberán brindar asesoría legal y de trámite con el objeto de cumplir con los requisitos establecidos en esta Ley.
 
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1196,3 +1202,11 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0537/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
