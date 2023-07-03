@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2022-12-27"
+last_updated: "2023-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1511,13 +1511,17 @@ LXIV.- Formular y conducir la política municipal sobre conservación y aprovech
 
 LXV.- Otorgar, previos requisitos de ley, las licencias o permisos provisionales para venta y suministro de bebidas alcohólicas;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2023)</small>
 
-LXVI.- Implementar el uso y aprovechamiento de las tecnologías de la información, a través de la política de Gobierno Digital establecida por la Comisión Estatal de Gobierno Digital, la Ley y el Reglamento de la materia, así como en los convenios celebrados por el Municipio en temas de mejora regulatoria; y
+LXVI.- Implementar el uso y aprovechamiento de las tecnologías de la información, a través de la política de Gobierno Digital establecida por la Comisión Estatal de Gobierno Digital, la Ley y el Reglamento de la materia, así como en los convenios celebrados por el Municipio en temas de mejora regulatoria;
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2023)</small>
 
-LXVII.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
+LXVII.- Fomentar la creación, venta y distribución de productos artesanales en corredores turísticos, tianguis, mercados públicos, plazas regionales y ferias, así como facilitar espacios para el sector artesanal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JULIO DE 2023)</small>
+
+LXVIII.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -4518,6 +4522,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 163 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES LXVI Y LXVII, Y ADICIONA LA FRACCIÓN LXVIII AL ARTÍCULO 78 DE LA LEY ORGÁNICA MUNICIPAL".]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
