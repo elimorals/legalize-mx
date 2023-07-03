@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-06-26"
+last_updated: "2023-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1628,6 +1628,16 @@ Si la amenaza fuera dirigida a una persona ofendida, víctima o testigo en un pr
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2023)</small>
 
 El tipo penal señalado en este artículo se perseguirá por querella, con excepción de lo establecido en el párrafo anterior que se perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2023)</small>
+
+ARTÍCULO 139 BIS.- Cobranza extrajudicial ilegal. La cobranza extrajudicial ilegal consiste en el uso de la violencia o intimidación mediante la cual hostiguen a la persona deudora o a cualquiera vinculada a esta, ya sea personalmente, o a través de cualquier medio, para requerir el pago de una deuda derivada de actividades reguladas en las leyes; con independencia de la persona tenedora de los derechos de cobro al momento de llevar a cabo la cobranza.
+
+A la persona responsable de cobranza extrajudicial ilegal se le aplicarán de 1 a 4 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+Si la persona responsable de la conducta descrita en el primer párrafo simula resoluciones judiciales, utiliza documentos o sellos falsos, la pena y la sanción económica aumentarán hasta en una mitad de sus mínimos y máximos señalados; si incurre en usurpación de funciones o de profesión, se aplicarán las reglas del concurso de delitos señalado en este Código.
+
+No se considerará como cobranza extrajudicial ilícita informar aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de iniciar acciones legales en contra de la persona deudora, aval, obligada solidaria o cualquiera relacionada a las anteriores, cuando estas sean jurídicamente posibles.
 
 ### CAPÍTULO V. Tipos Penales Protectores del Patrimonio
 
@@ -3816,6 +3826,14 @@ Con la entrada en vigor del presente Decreto, quedan sin efectos las disposicion
 P.O. 26 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 368.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 378.- SE ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
