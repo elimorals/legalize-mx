@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vivienda-para-el-estado-de-puebla-68344"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-17"
-last_updated: "2022-12-21"
+last_updated: "2023-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2023.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 17 de abril de 2009.
 
@@ -225,9 +225,9 @@ XIX.- Promover y estimular el uso de ecotecnologías, tecnologías y criterios d
 
 XX.- Promover y estimular la producción y distribución de materiales y elementos para la construcción de vivienda de carácter innovador a efecto de reducir costos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2023)</small>
 
-XXI.- Fomentar la calidad de la vivienda y orientar los criterios mínimos de los espacios habitables y auxiliares; y
+XXI.- Fomentar la calidad de la vivienda, su seguridad estructural y orientar los criterios mínimos de los espacios habitables y auxiliares; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
 
@@ -245,11 +245,21 @@ I.- Los Planes de Desarrollo Urbano Estatal y Municipal;
 
 II.- El Programa Operativo Anual de Vivienda Estatal y Municipal;
 
-III.- Los programas sectoriales, regionales, especiales e institucionales de desarrollo urbano de naturaleza Estatal o Municipal;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2023)</small>
 
-IV.- El programa sectorial de vivienda estatal o municipal; y
+III.- Los atlas de riesgos estatal y municipales;
 
-V.- Los programas especiales, regionales o institucionales que se deriven de los programas sectoriales señalados en la fracción anterior.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2023)</small>
+
+IV.- Los programas sectoriales, regionales, especiales e institucionales de desarrollo urbano de naturaleza Estatal o Municipal;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2023)</small>
+
+V.- El programa sectorial de vivienda estatal o municipal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JULIO DE 2023)</small>
+
+VI.- Los programas especiales, regionales o institucionales que se deriven de los programas sectoriales señalados en la fracción anterior.
 
 La formulación, ejecución, control y evaluación de estos programas de vivienda se efectuará conforme a las disposiciones de la Ley de Planeación para el Desarrollo del Estado de Puebla, las previstas en la presente Ley, los demás ordenamientos que resulten aplicables, así como los respectivos acuerdos de coordinación entre los diferentes niveles de Gobierno.
 
@@ -687,9 +697,11 @@ Las reservas territoriales se destinarán a las necesidades de suelo urbano para
 
 El Gobierno del Estado y los Ayuntamientos instrumentarán acciones con la participación de propietarios y desarrolladores para generar suelo con servicios, preferentemente para beneficio de la población en situación de pobreza, marginación y vulnerabilidad y de los productores sociales de vivienda, sin contravenir lo establecido en la Ley aplicable en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2023)</small>
+
 ###### Artículo 48.
 
-Cualquier adquisición de suelo o acción de vivienda, ya sea a propuesta del sector público, privado o social, deberá prever en sus proyectos de desarrollo habitacional, programas de manejos de residuos y desechos derivados de la construcción, tratamiento de aguas residuales, ahorro de energía eléctrica, de acuerdo a la normatividad aplicable y además observar las disposiciones legales en materia de asentamientos humanos y agraria.
+Cualquier adquisición de suelo o acción de vivienda, ya sea a propuesta del sector público, privado o social, deberá prever en sus proyectos de desarrollo habitacional, programas de manejos de residuos y desechos derivados de la construcción, tratamiento de aguas residuales, ahorro de energía eléctrica, de acuerdo a la normatividad aplicable y además observar las disposiciones legales en materia de asentamientos humanos, protección civil y agraria.
 
 Cuando se trate de suelo de origen ejidal o comunal, la promoción de su incorporación al desarrollo urbano deberá hacerse con la intervención de la Comisión para la Regularización de la Tenencia de la Tierra, en los términos de las disposiciones aplicables.
 
@@ -1086,6 +1098,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XVIII, XIX, XX, XXI, XXII Y XXIII DEL ARTÍCULO 4, LAS FRACCIONES XIX, XX Y XXI DEL 7, Y ADICIONA LAS FRACCIONES XXIV AL ARTÍCULO 4 Y XXII AL ARTÍCULO 7, DE LA LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 7, LAS FRACCIONES III, IV Y V DEL ARTÍCULO 9 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 48, Y ADICIONA LA FRACCIÓN VI AL ARTÍCULO 9, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
