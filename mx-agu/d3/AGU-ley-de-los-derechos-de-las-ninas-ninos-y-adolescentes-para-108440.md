@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-06-19"
+last_updated: "2023-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -915,9 +915,13 @@ Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y
 
 Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades del Estado de Aguascalientes y las de sus Municipios, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2023)</small>
 
-Las autoridades estatales y municipales, estarán obligadas, en el ámbito de sus respectivas competencias, a establecer políticas públicas, programas y acciones integrales y transversales que ayuden a generar las condiciones para que la familia pueda desempeñar sus derechos y obligaciones de manera adecuada y con ello asegurar los derechos de niñas, niños y adolescentes.
+Asimismo, los sujetos obligados en el párrafo anterior tendrán la responsabilidad de velar por el sano desarrollo de niñas, niños y adolescentes, contando con la coadyuvancia de las autoridades estatales y municipales en brindar el acceso a una vida libre de condiciones de mendicidad, entendida ésta como toda situación que implique solicitar limosna para sí o para un tercero.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE JULIO DE 2023)</small>
+
+Las autoridades estatales y municipales estarán obligadas, en el ámbito de sus respectivas competencias, a establecer políticas públicas, programas y acciones integrales y transversales que ayuden a generar las condiciones para que la familia pueda desempeñar sus derechos y obligaciones de manera adecuada y con ello asegurar los derechos de niñas, niños y adolescentes.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
 
@@ -2882,3 +2886,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+P.O. 3 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 377.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
