@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2023-06-19"
+last_updated: "2023-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -951,17 +951,17 @@ XI. Promover la inclusión prioritaria en el plan estatal de desarrollo de las m
 
 XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2023)</small>
 
-XIII. Diseñar un modelo integral de atención a los derechos humanos de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas;
+XIII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE JULIO DE 2023)</small>
 
 XIV. Educar, capacitar e informar a las Dependencias integrantes del Consejo, así como a la población en general sobre las consecuencias, formas de prevención y erradicación de la violencia digital, promoviendo el uso adecuado de las tecnologías de la información y comunicación; y
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE JULIO DE 2023)</small>
 
-XV. Capacitar exhaustivamente a sus funcionarios sobre la violencia vicaria y las modalidades en las que se presenta; por ser de reciente reconocimiento.
+XV. Diseñar programas de atención, reeducación y capacitación para las personas agresoras, que les permitan reincorporarse y participar plenamente en todos los ámbitos de la vida.
 
 ### CAPÍTULO VIII. De la Distribución de Competencias en Materia de Prevención, Atención y Sanción de la Violencia de Género Contra las Mujeres
 
@@ -1926,3 +1926,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+P.O. 3 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 375.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
