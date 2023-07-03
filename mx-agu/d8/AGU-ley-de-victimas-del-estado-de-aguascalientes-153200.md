@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-victimas-del-estado-de-aguascalientes-153200"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-29"
-last_updated: "2021-12-29"
+last_updated: "2023-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VÍCTIMAS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2023.
 
 Ley publicada en el Extraordinario Número 53 del Periódico Oficial del Estado de Aguascalientes, el miércoles 29 de diciembre de 2021.
 
@@ -45,11 +45,19 @@ LEY DE VÍCTIMAS DEL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
-###### Artículo 1º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2023)</small>
 
-La presente Ley es de orden público, interés social y de observancia general en el Estado de Aguascalientes, en términos de lo dispuesto por los artículos 1º párrafo tercero, 17 y 20 de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales celebrados en materia de Derechos Humanos y ratificados por el Estado Mexicano, de la Constitución Política del Estado de Aguascalientes, la Ley General de Víctimas y demás legislación aplicable en la materia.
+###### Artículo 1°.
 
-La presente Ley obliga, de acuerdo a sus respectivas competencias, a las autoridades del Estado de Aguascalientes, sus poderes públicos, sus organismos constitucionales autónomos y sus Municipios, así como a cualquier otra instancia o institución que vele por la protección de las víctimas, proporcionar asistencia o reparación integral.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Aguascalientes, en términos de lo dispuesto por los artículos 1° párrafo tercero, 17 y 20 de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales celebrados en materia de Derechos Humanos y ratificados por el Estado Mexicano, de la Constitución Política del Estado de Aguascalientes, la Ley General de Victimas y demás legislación aplicable en la materia, aplicando siempre la que más favorezca a las personas víctimas.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2023)</small>
+
+La presente Ley obliga, de acuerdo a sus respectivas competencias, a las autoridades del Estado de Aguascalientes, sus poderes públicos, sus organismos constitucionales autónomos y sus Municipios, así como a cualquiera de sus dependencias, organismos, instituciones públicas o privadas que velen por la protección de las víctimas, proporcionar asistencia o reparación integral.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2023)</small>
+
+Las autoridades de todos los ámbitos de gobierno deberán actuar conforme a los principios y criterios establecidos en esta Ley, así como brindar atención inmediata en especial en materia de salud, educación y asistencia social, acompañamiento jurídico y asesoría psicológica, en caso contrario quedarán sujetas a las responsabilidades administrativas, civiles o penales a que haya.
 
 ###### Artículo 2º.
 
@@ -57,9 +65,17 @@ Es objeto de la presente Ley:
 
 I. Reconocer y garantizar el ejercicio y la efectiva tutela de los derechos de las víctimas del delito y de violaciones a derechos humanos, en especial los derechos de asistencia, protección, atención, verdad, justicia, reparación integral, debida diligencia y todos los demás derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de derechos humanos de los que el Estado Mexicano es parte, en la Constitución Política del Estado de Aguascalientes y demás instrumentos de derechos humanos;
 
-II. Establecer competencias, deberes, esquemas de coordinación y obligaciones de las autoridades en el Estado en la materia, y de todo aquel que intervenga en los procedimientos relacionados con las víctimas; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2023)</small>
 
-III. Establecer las medidas, mecanismos y procedimientos de organización, supervisión, evaluación y control que sean necesarios para la efectiva protección, ayuda, asistencia, atención y reparación integral a las víctimas.
+II. Establecer deberes, esquemas de coordinación interinstitucional y obligaciones de las autoridades estatal y municipales competentes en la materia, y de todo aquel que intervenga en los procedimientos relacionados con las víctimas;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2023)</small>
+
+III. Establecer las medidas, mecanismos y procedimientos de organización, supervisión, evaluación y control que sean necesarios para la efectiva protección, ayuda, asistencia, atención y reparación integral a las víctimas; y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2023)</small>
+
+IV. Establecer las acciones y medidas necesarias para promover, respetar, proteger, garantizar y permitir el ejercicio efectivo de los derechos de las víctimas.
 
 ###### Artículo 3º.
 
@@ -1523,13 +1539,17 @@ Si las autoridades obligadas por esta Ley no pudieran hacer efectiva, total o pa
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2023)</small>
+
 ###### Artículo 108.
 
-Las personas servidoras públicas, en cumplimiento de sus responsabilidades administrativas de atención a víctimas, prestarán sus servicios bajo los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia. En el ámbito de sus respectivas competencias, realizarán las acciones necesarias para preservar la vida e integridad de las víctimas, como principal objetivo en sus actuaciones.
+Las personas servidoras públicas del Estado de Aguascalientes, sus poderes públicos, sus dependencias, organismos constitucionales autónomos y sus Municipios competentes en la materia, prestarán sus servicios bajo los criterios y principios establecidos en la presente Ley, además de los de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia. En el ámbito de sus respectivas competencias, realizaran las acciones necesarias para brindar atención inmediata, preservar la vida e integridad de las víctimas, como principal objetivo en sus actuaciones.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2023)</small>
 
 ###### Artículo 109.
 
-Las personas servidoras públicas que incumplan con lo previsto en la presente Ley, serán sancionadas de conformidad con la normatividad vigente en materia de responsabilidades administrativas y penales aplicables.
+Las personas servidoras públicas que incumplan con lo previsto en la presente Ley, serán sancionadas de conformidad con la normatividad vigente en materia de responsabilidades administrativas, civiles o penales aplicables.
 
 ## TRANSITORIOS
 
@@ -1604,3 +1624,13 @@ SANJUANA MARTÍNEZ MELÉNDEZ
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 27 de diciembre de 2021.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Juan Manuel Flores Femat.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 376.- SE REFORMA LA LEY DE VÍCTIMAS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
