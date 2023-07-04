@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2021-12-31"
+last_updated: "2023-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2023.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -72,6 +72,12 @@ Para el despacho de los asuntos que competen al Poder Ejecutivo del Estado, la A
 La Administración Pública Centralizada estará integrada por las Secretarías que establece esta ley.
 
 La Administración Pública Paraestatal estará integrada por los organismos descentralizados, las empresas de participación estatal mayoritaria, los fideicomisos públicos, los patronatos, las comisiones y los comités, regulados conforme a la Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2023)</small>
+
+###### Artículo 3o Bis.
+
+En los nombramientos de quien ostente la titularidad de las dependencias y entidades que conforman la administración pública centralizada y paraestatal se atenderá al principio de paridad de género.
 
 ###### Artículo 4o.
 
@@ -2454,3 +2460,9 @@ Artículo Primero. El presente Decreto entrará en vigor en la misma fecha en qu
 Artículo Segundo. El Ejecutivo del Estado contará con un término de ciento ochenta días a partir de la entrada en vigor del presente Decreto para la adecuación de los Reglamentos respectivos.
 
 Artículo Tercero. La Secretaría de Finanzas, Inversión y Administración realizará las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos humanos, materiales y financieros que permitan el cumplimiento del presente Decreto.
+
+P.O. 4 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 207, MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 3 BIS A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato, en los términos y alcances del artículo tercero transitorio del Decreto Legislativo número 213, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 169, segunda parte del 24 de agosto de 2020, con aplicabilidad a partir del periodo constitucional del Ejecutivo Estatal inmediato siguiente.
