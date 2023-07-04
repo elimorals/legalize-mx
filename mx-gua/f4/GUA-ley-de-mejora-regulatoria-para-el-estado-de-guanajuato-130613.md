@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-mejora-regulatoria-para-el-estado-de-guanajuato-130613"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-24"
-last_updated: "2020-09-07"
+last_updated: "2023-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2023.
 
 Ley publicada en la Cuarta Parte al Número 191 del Periódico Oficial del Estado de Guanajuato, el lunes 24 de septiembre de 2018.
 
@@ -53,57 +53,95 @@ Se excluyen del ámbito de aplicación de esta Ley el Ministerio Público en el 
 
 Son objetivos de esta Ley:
 
-I. Explicitar las obligaciones de los autoridades estatales y municipales en la implementación de las políticas públicas de mejora regulatoria para el perfeccionamiento de las Regulaciones y la simplificación de los Trámites y Servicios;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2023)</small>
+
+I. Explicitar las obligaciones de las autoridades estatales y municipales en la implementación de las políticas públicas de mejora regulatoria para el perfeccionamiento de las Regulaciones promoviendo la gobernanza regulatoria y la simplificación de trámites y servicios e incorporando las Tecnologías de la Información y Comunicaciones;
 
 II. Establecer la organización y el funcionamiento del Sistema Estatal de Mejora Regulatoria;
 
 III. Explicitar los instrumentos, herramientas, acciones y procedimientos de mejora regulatoria;
 
-IV. Explicitar las obligaciones de las autoridades estatales y municipales para facilitar los Trámites y la obtención de Servicios, incluyendo el uso de tecnologías de la información, y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2023)</small>
 
-V. Consolidar la participación social en mejora regulatoria.
+IV. Explicitar las obligaciones de las autoridades estatales y municipales para facilitar los trámites y la obtención de servicios, incluyendo el uso de tecnologías de la información y comunicaciones;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2023)</small>
+
+V. Consolidar la participación social en mejora regulatoria; y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2023)</small>
+
+VI. Fomentar la digitalización y la innovación dentro de la estrategia de mejora regulatoria, enfatizando en la mentefactura como medios para transformar los procesos de los trámites y el enfoque de los servicios mediante el uso de tecnologías y el propio conocimiento para generar alternativas o soluciones de mejora.
 
 ###### Artículo 3.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Autoridad de Mejora Regulatoria: Las unidades administrativas o áreas de la administración pública estatal o municipales responsables de conducir la política de mejora regulatoria;
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2023)</small>
 
-II. Catálogo: El Catálogo Nacional de Regulaciones, Trámites y Servicios;
+I. Análisis de Impacto Regulatorio Ex Ante: El Análisis de Impacto Regulatorio, de carácter potestativo, realizado por el Poder Legislativo del Estado de Guanajuato para el análisis de las iniciativas que tengan incidencia en materia de mejora regulatoria;
 
-III. Consejo Estatal: El Consejo Estatal de Mejora Regulatoria;
+II. Autoridad de Mejora Regulatoria: Las unidades administrativas o áreas de la administración pública estatal o municipales responsables de conducir la política de mejora regulatoria;
+
+III. Catálogo: El Catálogo Nacional de Regulaciones, Trámites y Servicios;
+
+IV. Consejo Estatal: El Consejo Estatal de Mejora Regulatoria;
 
 > <small>(ADICIONADA, 7 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Consejos Municipales: Consejos Municipales de Mejora Regulatoria;
+V. Consejos Municipales: Consejos Municipales de Mejora Regulatoria;
 
-V. Ley: La Ley de Mejora Regulatoria para el Estado de Guanajuato;
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2023)</small>
 
-VI. Ley General: La Ley General de Mejora Regulatoria;
+VI. Estrategia Estatal: La Estrategia Estatal de Mejora Regulatoria;
 
-VII. Propuestas de Regulaciones: Los anteproyectos de leyes o Regulaciones que pretendan expedir los Sujetos Obligados de las administraciones públicas estatal y municipales, en el ámbito de su competencia y que se presenten a la consideración de las Autoridades de Mejora Regulatoria respectivas;
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2023)</small>
 
-VIII. Regulación o Regulaciones: Cualquier normativa de carácter general que expidan los Sujetos Obligados.
+VII. Gobernanza Regulatoria: El proceso a través del cual las sociedades diseñan, instrumentan y evalúan sus regulaciones;
 
-> <small>(REFORMADO, 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2023)</small>
 
-La Regulación o Regulaciones a las que hace referencia la presente fracción estarán sujetas al Análisis de Impacto Regulatorio en términos del artículo 17 de esta Ley;
+VIII. Innovación: La generación de un nuevo producto, proceso o servicio para atender una necesidad o problemática a partir del uso de la tecnología;
 
-IX. Reglamento de la Ley: Reglamentos, acuerdos o lineamientos en materia de mejora regulatoria para la simplificación de Regulaciones, Trámites y Servicios, que faciliten el cumplimiento de esta Ley;
+IX. Ley: La Ley de Mejora Regulatoria para el Estado de Guanajuato;
 
-X. Servicio: Cualquier beneficio o actividad que los Sujetos Obligados, brinden a particulares, previa solicitud y cumplimiento de los requisitos aplicables;
+X. Ley General: La Ley General de Mejora Regulatoria;
 
-XI. Sistema Estatal: El Sistema Estatal de Mejora Regulatoria;
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2023)</small>
 
-> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO] 7 DE SEPTIEMBRE DE 2020)</small>
+XI. Mentefactura: El proceso para generar, transformar y utilizar el conocimiento para ofrecer soluciones que satisfagan necesidades que aportan valor a un producto, servicio o proceso. Es utilizar la innovación para crear alternativas o soluciones que logren resolver problemáticas sociales, económicas, gubernamentales, de salud, medioambientales, entre otras;
 
-XII. Sujetos Obligados: Las administraciones públicas estatal y municipales.
+XII. Propuestas de Regulaciones: Los anteproyectos de leyes o Regulaciones que pretendan expedir los Sujetos Obligados de las administraciones públicas estatal y municipales, en el ámbito de su competencia y que se presenten a la consideración de las Autoridades de Mejora Regulatoria respectivas;
 
-Los poderes Legislativo y Judicial, los organismos con autonomía constitucional, Tribunal Estatal Electoral de Guanajuato y el Tribunal de Justicia Administrativa del Estado de Guanajuato serán sujetos obligados para efectos de lo previsto en el artículo 15 de esta Ley;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2023)</small>
 
-> <small>(REFORMADA, [N. DE E. REPUBLICADA Y REUBICADA] 7 DE SEPTIEMBRE DE 2020)</small>
+XIII. Regulación o Regulaciones: Cualquier normativa de carácter general que expidan los Sujetos Obligados.
 
-XIII. Trámite: Cualquier solicitud o entrega de información que las personas físicas o morales realicen ante la autoridad, ya sea para cumplir una obligación o, en general, a fin de que se emita una resolución.
+> <small>(ADICIONADA [N. DE E. ANTES SEGUNDO PÁRRAFO DE LA FRACCIÓN XIII], P.O. 4 DE JULIO DE 2023)</small>
+
+XIV. La Regulación o Regulaciones a las que hace referencia la presente fracción estarán sujetas al Análisis de Impacto Regulatorio en términos del artículo 17 de esta Ley;
+
+XV. Reglamento de la Ley: Reglamentos, acuerdos o lineamientos en materia de mejora regulatoria para la simplificación de Regulaciones, Trámites y Servicios, que faciliten el cumplimiento de esta Ley;
+
+XVI. Servicio: Cualquier beneficio o actividad que los Sujetos Obligados, brinden a particulares, previa solicitud y cumplimiento de los requisitos aplicables;
+
+XVII. Sistema Estatal: El Sistema Estatal de Mejora Regulatoria;
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2023)</small>
+
+XVIII. Sujetos Obligados: Las administraciones públicas estatal y municipales.
+
+> <small>(ADICIONADA [N. DE E. ANTES SEGUNDO PÁRRAFO DE LA FRACCIÓN XVIII], P.O. 4 DE JULIO DE 2023)</small>
+
+XIX. Los poderes Legislativo y Judicial, los organismos con autonomía constitucional, Tribunal Estatal Electoral de Guanajuato y el Tribunal de Justicia Administrativa del Estado de Guanajuato serán sujetos obligados para efectos de lo previsto en el artículo 15 de esta Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], 7 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Trámite: Cualquier solicitud o entrega de información que las personas físicas o morales realicen ante la autoridad, ya sea para cumplir una obligación o, en general, a fin de que se emita una resolución.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2023)</small>
+
+Artículo 3 bis. Las autoridades estatales y municipales en la materia impulsarán el uso y aprovechamiento de las tecnologías de la información y comunicaciones para facilitar la interacción con los ciudadanos a efecto de que estos puedan dirigir sus solicitudes, opiniones o comentarios, a través de los sistemas electrónicos de comunicación, así como obtener la atención o resolución de aquellas por los mismos canales.
 
 ###### Artículo 4.
 
@@ -153,9 +191,11 @@ XI. Reconocimiento de asimetrías en el cumplimiento regulatorio.
 
 El Sistema Estatal tiene como función coordinarse con el Sistema Nacional de Mejora Regulatoria para implementar la política de mejora regulatoria conforme a la Estrategia Nacional de Mejora Regulatoria prevista en la Ley General, esta Ley y demás disposiciones jurídicas aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2023)</small>
+
 ###### Artículo 9.
 
-El Sistema Estatal estará integrado por un Consejo Estatal, las Autoridades de Mejora Regulatoria y los Sujetos Obligados. Será presidido por el Gobernador del Estado.
+El Sistema Estatal estará integrado por un Consejo Estatal, la Estrategia Estatal, las Autoridades de Mejora Regulatoria y los Sujetos Obligados. Será presidido por el Gobernador del Estado.
 
 #### Sección Segunda. Consejo Estatal de Mejora Regulatoria
 
@@ -171,9 +211,11 @@ Los cargos de los integrantes del Consejo Estatal serán honoríficos por lo que
 
 El Consejo Estatal establecerá los mecanismos de coordinación entre éste y los Consejos Municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2023)</small>
+
 ###### Artículo 11.
 
-El Consejo Estatal deberá sesionar por lo menos una vez al año y se integrará por:
+El Consejo Estatal deberá sesionar por lo menos cuatro veces al año y se integrará por:
 
 I. El Gobernador del Estado quien lo presidirá;
 
@@ -187,11 +229,15 @@ III. El titular de la Secretaría de la Transparencia y Rendición de Cuentas;
 
 IV. El titular de la Secretaría de Finanzas, Inversión y Administración;
 
-V. El Presidente de la Comisión Estatal para la Planeación de la Educación Superior y el Presidente de la Comisión Estatal para la Planeación de la Educación Media Superior;
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2023)</small>
+
+V. El titular del Instituto de Innovación, Ciencia y Emprendimiento para la Competitividad para el Estado de Guanajuato;
+
+VI. El Presidente de la Comisión Estatal para la Planeación de la Educación Superior y el Presidente de la Comisión Estatal para la Planeación de la Educación Media Superior;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], 7 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Un presidente del Consejo Municipal que represente a cada una de las siguientes regiones:
+VII. Un presidente del Consejo Municipal que represente a cada una de las siguientes regiones:
 
 a. Región norte, que comprenderá los municipios de Ocampo, Dolores Hidalgo Cuna de la Independencia Nacional, San Felipe, San Diego de la Unión y San Miguel de Allende;
 
@@ -209,9 +255,9 @@ f. Región centro, que comprenderá los municipios de Guanajuato, León, Purísi
 
 Los presidentes de los Consejos Municipales durarán en su cargo un año y serán sustituidos conforme al Reglamento de la Ley, y
 
-> <small>(REFORMADA, 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2023)</small>
 
-VII. Hasta seis representantes de los sectores social, económico y académico, así como colegios de profesionistas, vinculados con la materia de mejora regulatoria. Los representantes durarán en su cargo dos años, pudiendo ser ratificados por un periodo más.
+VIII. Hasta siete representantes de los sectores social, económico y académico, así como colegios de profesionistas, vinculados con la materia de mejora regulatoria. Los representantes durarán en su cargo cuatro años, pudiendo ser ratificados por un periodo más.
 
 Cada integrante titular podrá nombrar a un suplente.
 
@@ -255,17 +301,59 @@ Los cargos de los integrantes de los Consejos Municipales serán honoríficos po
 
 Su organización y funcionamiento se regulará de conformidad con el reglamento municipal correspondiente.
 
-#### Sección Cuarta. Autoridades de Mejora Regulatoria
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE JULIO DE 2023)</small>
 
-#### Sección Quinta. Sujetos Obligados
+#### Sección Cuarta. Estrategia Estatal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2023)</small>
+
+Artículo 11 quáter. La Estrategia Estatal es el instrumento programático cuyo propósito es asegurar el cumplimiento del objeto de esta Ley. La Estrategia Estatal tendrá una visión con un horizonte de largo plazo a veinte años, con evaluaciones al menos cada cinco años y con revisiones y ajustes, en su caso, al menos cada dos años.
+
+El Consejo Estatal aprobará la Estrategia Estatal, misma que será publicada en el Periódico Oficial de Gobierno del Estado y será vinculante para los Sujetos Obligados.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2023)</small>
+
+Artículo 11 quinquies. La Estrategia Estatal comprenderá, al menos, lo siguiente:
+
+I. Un diagnóstico de la situación que guarda la política de mejora regulatoria en el país y en el estado;
+
+II. Las buenas prácticas locales, nacionales e internacionales en materia de mejora regulatoria;
+
+III. Los objetivos de corto, mediano y largo plazo;
+
+IV. Los elementos para la instrumentación de la mejora regulatoria;
+
+V. Las acciones, medidas y programas de mejora regulatoria que permitan impactar favorablemente en el mejoramiento de la calidad regulatoria y que incidan en el desarrollo y el crecimiento económico local;
+
+VI. Las herramientas de la mejora regulatoria y su uso sistemático;
+
+VII. Las metodologías para la aplicación de las herramientas de la mejora regulatoria;
+
+VIII. Las políticas y acciones específicas para atender la problemática regulatoria de materias, sectores o regiones del estado;
+
+IX. Las directrices, mecanismos y lineamientos técnicos para integrar, actualizar y operar el Catálogo, incluyendo procedimientos, formatos y plazos para que los Sujetos Obligados ingresen la información correspondiente;
+
+X. Los mecanismos para fortalecer las capacidades jurídicas e institucionales en materia de mejora regulatoria;
+
+XI. Las medidas para reducir y simplificar Trámites y Servicios;
+
+XII. Los mecanismos de observación y cumplimiento de indicadores que permitan conocer el avance de los objetivos, programas y acciones derivados de la política de mejora regulatoria;
+
+XIII. Los estándares mínimos para asegurar la correcta implementación de las herramientas de la mejora regulatoria incluyendo entre otros, la consulta pública, transparencia y rendición de cuentas en los procedimientos de diseño e implementación de la Regulación;
+
+XIV. Los mecanismos de coordinación para garantizar la congruencia de la Regulación que expidan los sujetos Obligados en términos de esta Ley; y
+
+XV. Las demás que se deriven de esta Ley y otras disposiciones jurídicas aplicables.
+
+#### Sección Quinta. Autoridades de Mejora Regulatoria
 
 ###### Artículo 12.
 
 Son Autoridades de Mejora Regulatoria las unidades administrativas, áreas o equivalentes, designadas por los titulares del Poder Ejecutivo del Estado y de los municipios.
 
-#### Sección Primera. Catálogo Nacional de Regulaciones, Trámites y Servicios
+#### Sección Sexta. Sujetos Obligados
+
+> <small>(REFORMADO PRIMER PÁRRAFO, 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 13.
 
@@ -287,19 +375,19 @@ Lo previsto en el párrafo anterior no será aplicable para procesos jurisdiccio
 
 ### CAPÍTULO III. Herramientas del Sistema Estatal de Mejora Regulatoria
 
-#### Sección Segunda. Agenda Regulatoria
+#### Sección Primera. Catálogo Nacional de Regulaciones, Trámites y Servicios
 
 ###### Artículo 15.
 
 El Catálogo es la herramienta tecnológica que compila las Regulaciones, los Trámites y los Servicios de los Sujetos Obligados, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como fomentar el uso de tecnologías de la información. Tendrá carácter público y la información que contenga será vinculante para los Sujetos Obligados, quienes deberán inscribirlo y actualizarlo de manera permanente conforme a la Ley General.
 
-#### Sección Tercera. Análisis de Impacto Regulatorio
+#### Sección Segunda. Agenda Regulatoria
 
 ###### Artículo 16.
 
 La Agenda Regulatoria son las Propuestas de Regulaciones que los Sujetos Obligados pretender expedir y deberá presentarse, aplicarse e informarse al público en los términos de la Ley General.
 
-#### Sección Cuarta. Los Programas de Mejora Regulatoria
+#### Sección Tercera. Análisis de Impacto Regulatorio
 
 ###### Artículo 17.
 
@@ -309,7 +397,11 @@ La finalidad del Análisis de Impacto Regulatorio es garantizar que las Regulaci
 
 La implementación del Análisis de Impacto Regulatorio se realizará de conformidad con la Ley General.
 
-#### Sección Quinta. Las Encuestas, Información Estadística y Evaluación en Materia de Mejora Regulatoria
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2023)</small>
+
+El Análisis de Impacto Regulatorio Ex Ante es una herramienta de análisis y evaluación de uso potestativo del Poder Legislativo. Su implementación se podrá realizar sobre las iniciativas presentadas que tengan incidencia en materia de mejora regulatoria, a efecto de señalar los posibles impactos en esta materia y realizar recomendaciones acordes con los objetivos de la mejora regulatoria.
+
+#### Sección Cuarta. Los Programas de Mejora Regulatoria
 
 ###### Artículo 18.
 
@@ -325,7 +417,7 @@ Los Programas Específicos de Simplificación y Mejora Regulatoria son herramien
 
 Las certificaciones a que se refiere el párrafo anterior se otorgarán a petición de los Sujetos Obligados, de conformidad con la Ley General.
 
-#### Sección Única. Responsabilidades Administrativas de los Servidores Públicos
+#### Sección Quinta. Las Encuestas, Información Estadística y Evaluación en Materia de Mejora Regulatoria
 
 ###### Artículo 20.
 
@@ -333,13 +425,21 @@ Los Sujetos Obligados a través del responsable oficial y las Autoridades de Mej
 
 ### CAPÍTULO IV. Las Responsabilidades Administrativas en materia de Mejora Regulatoria
 
+#### Sección Única. Responsabilidades Administrativas de los Servidores Públicos
+
 ###### Artículo 21.
 
 El incumplimiento de las obligaciones establecidas por la presente Ley, por parte de los servidores públicos será sancionado en términos de las leyes en materia de responsabilidades administrativas.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2023)</small>
+
 ###### Artículo 22.
 
-Las Autoridades de Mejora Regulatoria deberán informar a las autoridades que resulten competentes en la investigación de responsabilidades administrativas y hechos de corrupción, de los incumplimientos que tenga conocimiento.
+Las Autoridades de Mejora Regulatoria deberán informar a las autoridades que resulten competentes en la investigación de responsabilidades administrativas y hechos de corrupción, de los incumplimientos que tengan conocimiento en cuanto a la observancia y aplicación de lo establecido en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2023)</small>
+
+Artículo 22 bis. Las áreas de auditoría deberán incorporar en sus programas de revisión anuales, la práctica de al menos una revisión respecto del cumplimiento de las disposiciones de la presente Ley.
 
 ## TRANSITORIOS
 
@@ -392,3 +492,9 @@ Artículo Quinto. El Gobernador del Estado expedirá los reglamentos para el cum
 Artículo Sexto. Los Consejos Municipales de Mejora Regulatoria deberán estar instalados en un término de noventa días, contados a partir de la entrada en vigor del presente Decreto.
 
 Artículo Séptimo. La integración de los consejeros señalados en las fracciones VI y VII del artículo 11 de esta Ley, se realizará de conformidad con el procedimiento que establezca el Reglamento de la Ley.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 206, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE GUANAJUATO”.]
+
+P.O. 4 DE JULIO DE 2023.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
