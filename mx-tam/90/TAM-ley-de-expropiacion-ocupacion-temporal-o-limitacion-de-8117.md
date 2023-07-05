@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-expropiacion-ocupacion-temporal-o-limitacion-de-8117"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-25"
-last_updated: "2020-03-19"
+last_updated: "2023-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL O LIMITACIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 25 de abril de 1992.
 
@@ -237,11 +237,11 @@ Una vez concluido el periodo de desahogo de pruebas, la inconformidad será resu
 
 El titular del Poder Ejecutivo del Estado podrá determinar la revocación de un Decreto Expropiatorio, siempre que existan elementos de índole jurídica, técnica o de diversa naturaleza, que imposibiliten o dificulten los fines de la expropiación, lo que no otorga legitimación a los interesados de un procedimiento regulado por esta Ley, para pedir la revocación del Decreto respectivo.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 12.
 
-El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las Oficinas Catastrales o Recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las Oficinas rentísticas.
+El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que se establezca como valor comercial o de mercado. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor comercial o de mercado, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las Oficinas rentísticas.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
@@ -408,3 +408,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan a las adiciones y reformas materia de este.
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-592 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 12 DE LA LEY DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL O LIMITACIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
