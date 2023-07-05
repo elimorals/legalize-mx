@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-103816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-03"
-last_updated: "2021-12-30"
+last_updated: "2023-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -1761,6 +1761,10 @@ II. En la convocatoria deberá especificarse la categoría que se concursa; el p
 
 III. Al momento de la inscripción los aspirantes recibirán las bases de valoración del concurso de oposición;
 
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2023)</small>
+
+III Bis. Los concursos para jueces de primera instancia incluirán un apartado sobre control difuso de constitucionalidad, convencionalidad, perspectiva de género, interés superior de niñas, niños y adolescentes, así como mecanismos alternativos de solución de conflictos y controversias;
+
 IV. De entre los aspirantes que hayan aprobado el concurso de oposición se elegirá a quienes hayan obtenido el mejor resultado, quienes integrarán la lista de reserva para la designación en el caso de las vacantes que se vayan generando; y,
 
 V. En el caso de que ninguno de los aspirantes obtuviera calificación aprobatoria, se declarará desierto el concurso y se procederá a emitir una nueva convocatoria.
@@ -1798,6 +1802,10 @@ II. Los cursos de actualización y especialización durante el período;
 III. Las sanciones que, en su caso, se le hubieren impuesto; y
 
 IV. Los demás que se estime pertinentes.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2023)</small>
+
+El Consejo, a través del Instituto de la Judicatura, impartirá cursos de actualización obligatorios para jueces sobre control difuso de constitucionalidad y convencionalidad, perspectiva de género, interés superior de niñas, niños y adolescentes, y de mecanismos alternativos de solución de conflictos y controversias.
 
 ###### Artículo 122.
 
@@ -2404,3 +2412,11 @@ Cuarto. La selección del personal de los Juzgados Laborales del Estado, se har�
 Quinto. El Poder Judicial del Estado, deberá armonizar su reglamentación al presente Decreto, en un término no mayor a 60 días naturales, a partir de su publicación.
 
 Sexto. El Poder Ejecutivo Estatal y el H. Congreso del Estado de Michoacán de Ocampo realizarán las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros para el ejercicio fiscal 2021 que permitan el cumplimiento del presente Decreto.
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 380 POR EL QUE "SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 118 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 121, AMBOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Poder Judicial del Estado de Michoacán deberá armonizar su reglamentación en un término no mayor a 90 noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
