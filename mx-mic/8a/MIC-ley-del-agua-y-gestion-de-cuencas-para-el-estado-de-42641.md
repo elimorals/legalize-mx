@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-agua-y-gestion-de-cuencas-para-el-estado-de-42641"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2023-05-09"
+last_updated: "2023-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2004.
 
@@ -1151,9 +1151,11 @@ XIX. Remitir al Consejo Consultivo Municipal, para su opinión, un informe sobre
 
 XX. Las demás que le señale el Presidente de la Junta de Gobierno Municipal, esta Ley y otras disposiciones normativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2023)</small>
+
 ###### Artículo 55.
 
-El ayuntamiento designará un Comisario quien tendrá las siguientes atribuciones:
+El Ayuntamiento designará a una Comisaria o Comisario del Organismo Operador del Agua Potable, Alcantarillado y Saneamiento del Municipio, de conformidad con la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, quién tendrá las siguientes atribuciones:
 
 I. Vigilar que la administración de los recursos financieros del organismo operador municipal, se realice de acuerdo con lo que dispongan las disposiciones normativas aplicables y los presupuestos aprobados;
 
@@ -2106,3 +2108,9 @@ P.O. 9 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 361 POR EL QUE "SE ADICIONA LA FRACCIÓN XXXIV Y SE RECORRE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 11, DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 379 POR EL QUE “SE REFORMA EL ARTÍCULO 55 DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de la toma de protesta de los Ayuntamientos electos durante el proceso electoral 2023-2024.
