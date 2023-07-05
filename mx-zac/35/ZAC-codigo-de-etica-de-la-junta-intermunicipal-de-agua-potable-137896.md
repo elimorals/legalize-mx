@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-etica-de-la-junta-intermunicipal-de-agua-potable-1378
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-17"
-last_updated: "2019-07-17"
+last_updated: "2023-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO DE ETICA DE LA JUNTA INTERMUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA JUNTA INTERMUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 5 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA JUNTA INTERMUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023 (ABROGADO).
 
 Código publicado en el Suplemento 2 al Número 57 del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de julio de 2019.
 
@@ -190,3 +192,17 @@ Presidente del H. Consejo Consultivo y Vocal del H. Consejo Directivo.
 Dr. Felipe Benjamín de León Mojarro
 
 Director General de la J.I.A.P.A.Z. y Secretario Técnico del H. Consejo Directivo.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA JUNTA INTERMUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE ZACATECAS”.]
+
+PRIMERO.- El presente documento normativo entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Libre y Soberano de Zacatecas.
+
+SEGUNDO.- Se abroga el Código de Ética de la Junta Intermunicipal de Agua Potable y Alcantarillado de Zacatecas, publicado el 17 de julio de 2019 en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas, así como cualquier disposición de índole administrativo que se contraponga al presente Código.
+
+TERCERO.- El Comité de Ética deberá estar conformado de acuerdo a los Lineamientos generales para la integración y funcionamiento de los Comités de Ética establecidos en la normatividad aplicable.
+
+CUARTO.- El Código de Conducta de la JIAPAZ, deberá estar publicado en un plazo no mayor a 30 días hábiles a partir de la publicación del Código de Ética.
