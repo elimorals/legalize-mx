@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-conservacion-y-sustentabilidad-ambiental-del-148980
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-05"
-last_updated: "2022-11-15"
+last_updated: "2023-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
 
 Ley publicada en la Novena Sección del Número 43 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 5 de abril de 2021.
 
@@ -1144,6 +1144,26 @@ Las Instituciones educativas en el Estado realizarán actividades relacionadas c
 La Secretaría y los Ayuntamientos, promoverán en su ámbito de competencia, la educación ambiental para el desarrollo sustentable como eje temático transversal, como parte fundamental de los procesos educativos, en todos los diferentes ámbitos y niveles: formales, no formales e informales, a través de un proceso continuo y permanente. Promoverá, asimismo, la investigación y la generación de métodos, publicaciones, materiales educativos y técnicas que permitan un uso y aprovechamiento sustentable de los recursos naturales, así como la prevención del deterioro y en su caso la restauración de los ecosistemas.
 
 Para ello, se podrán celebrar convenios con instituciones del sector educativo, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia, así como integrantes del sector económico.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2023)</small>
+
+###### Artículo 67 Bis.
+
+Los Huertos Sustentables son las áreas en piso o espacios alternativos, públicos o privados, dentro del territorio con asentamientos urbanos, destinadas al cultivo de frutas, verduras, hortalizas, plantas aromáticas, hierbas medicinales o flores para autoconsumo.
+
+Los municipios, en coordinación con la Secretaría, cuando sea necesario, deberán realizar las siguientes acciones respecto de los Huertos Sustentables:
+
+I. Impulsar su creación, mantenimiento y protección;
+
+II. Dar asesoría y capacitación técnica, financiera y administrativa a quien lo solicite;
+
+III. Verificar los espacios que cumplan con los requisitos técnicos de cultivo;
+
+IV. Registrar los espacios verificados de cultivos urbanos e informarlo a la Secretaría;
+
+V. Diseñar políticas públicas o programas para su fomento que ayuden a reducir la precariedad alimentaria y de desempleo, la recreación y la terapia ocupacional; y,
+
+VI. Las demás que señalen la Ley y su reglamento.
 
 ###### Artículo 68.
 
@@ -2960,3 +2980,9 @@ Tercero. El Artículo Segundo del presente Decreto entrará en vigor el día sig
 Cuarto. Notifíquese el presente Decreto al Consejo Estatal de Ecología del Estado de Michoacán, para su debido conocimiento.
 
 Quinto. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 390 POR EL QUE “SE ADICIONA EL ARTÍCULO 67 BIS A LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se instruye su publicación y observancia para su conocimiento general y efectos legales procedentes.
