@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-y-erradicar-la-discriminacion-para-el-70496"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2023-06-01"
+last_updated: "2023-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -65,29 +65,29 @@ Toda autoridad, órgano público y servidor público que actúe o se desempeñe 
 
 Es obligación de las personas físicas que habiten transitoria o permanentemente, que se encuentren en tránsito, en el territorio del Estado, así como de las personas morales que realicen actividades sociales o comerciales en el mismo, abstenerse de efectuar prácticas discriminatorias, ya sea por acción u omisión.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2023)</small>
+
 ###### ARTICULO 6°.
 
-Queda prohibida toda forma de discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, el embarazo, las opiniones, las preferencias, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías, las creencias religiosas, la migración o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda forma de discriminación y toda práctica discriminatoria que tenga por objeto o efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades en términos del artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos y del artículo 7 de esta Ley.
 
-Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana, y un retroceso a su propia condición, que deben combatirse.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 7°.
 
-Para los efectos de esta Ley se entiende por discriminación, toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud física o mental, jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier motivo.
+Para los efectos de esta ley se entiende por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional o regional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud física o mental, jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales, el trabajo desempeñado, o cualquier otro motivo que atente contra la dignidad humana y los derechos y libertades de las personas.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2023)</small>
 
-También se entenderá como discriminación la homofobia, la misoginia, cualquier manifestación de xenofobia, la segregación racial, el antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia.
+También se entenderá como discriminación la homofobia, transfobia, bifobia misoginia, cualquier manifestación de xenofobia, aporofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia.
 
 De igual forma, se considerará discriminatoria toda ley y todo acto, que siendo de aplicación idéntica para todas las personas, produzca consecuencias que perjudiquen a las personas o grupos que se encuentren en situación de vulnerabilidad.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 8°.
 
-Nadie, sea órgano público, federal, estatal o municipal, autoridad, servidor público, persona física o moral, podrá realizar actos o conductas discriminatorias en contra de persona alguna. De manera enunciativa más no limitativa, se consideran actos o conductas discriminatorias, las siguientes:
+Nadie, sea órgano público, federal, estatal o municipal, autoridad, servidor público, persona física o moral, podrá realizar omisiones, actos o conductas discriminatorias en contra de persona alguna, prioritariamente hacia aquellas pertenecientes a los pueblos indígenas, afrodescendientes, mujeres, niñas, niños, adolescentes, la comunidad LGBTTTIQ+, migrantes, personas con discapacidad y personas adultas mayores. De manera enunciativa más no limitativa, se consideran actos o conductas discriminatorias, las siguientes:
 
 I. Impedir el acceso a la educación pública o privada, así como a becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables;
 
@@ -380,3 +380,11 @@ P.O. 1 DE JUNIO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0786.- SE REFORMAN LOS ARTÍCULOS 6°, 7° EN SUS PÁRRAFOS PRIMERO Y SEGUNDO Y 8° EN SU PÁRRAFO PRIMERO, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
