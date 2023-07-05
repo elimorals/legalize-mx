@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2023-06-28"
+last_updated: "2023-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -810,6 +810,14 @@ XXI. Solicitar a los Gobiernos Federal y Estatal en su caso, la expropiación de
 XXII. Proponer programas de uso, mantenimiento y ampliación del espacio público con la participación ciudadana; y,
 
 XXIII. Garantizar el derecho a realizar actividades de ocio, esparcimiento, recreativas, artísticas, turísticas y ecoturísticas, privilegiando el interés público.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2023)</small>
+
+XXIV. Integrar la lista de aspirantes para elegir a la Comisaria o Comisario del Organismo Operador del Agua Potable, Alcantarillado y Saneamiento del Municipio.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2023)</small>
+
+XXV. Proponer, y aprobar en su caso, el nombramiento y remoción de la Comisaria o Comisario del Organismo Operador del Agua Potable, Alcantarillado y Saneamiento del Municipio; así como denunciar a la Auditoría Superior de Michoacán, si fuera el caso; los actos u omisiones de responsabilidad graves en que pueda incurrir al ejercer el cargo debiendo dar el seguimiento respectivo la Sindicatura.
 
 b).- En materia de Administración Pública:
 
@@ -2425,6 +2433,54 @@ Para los efectos de esta Ley, los organismos descentralizados, cualquiera que se
 
 El Ayuntamiento designará una Comisaría o Comisario para cada uno de los organismos descentralizados que constituya y establecerá las formas para contar con una adecuada información sobre la organización y funcionamiento de dichos organismos.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2023)</small>
+
+La designación, en su caso, de la Comisaria o Comisario del Organismo Operador del Agua Potable, Alcantarillado y Saneamiento del Municipio, se realizará de conformidad al artículo 131 Ter de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2023)</small>
+
+###### Artículo 131 Bis.
+
+La Comisaria o Comisario del Organismo Operador del Agua Potable Alcantarillado y Saneamiento del Municipio, se nombrará por las y los integrantes del Ayuntamiento y durará en su cargo tres años pudiendo ser reelecto un periodo, recibirá la remuneración que marque el Presupuesto de Egresos, deberá reunir los siguientes requisitos:
+
+I. Ser ciudadana o ciudadano michoacano en pleno ejercicio de sus derechos;
+
+II. No haber sido declarada o declarado en quiebra fraudulenta, ni haber sido sentenciada o sentenciado como defraudador o defraudadora, malversador o malversadora de fondos públicos o delitos graves;
+
+III. Ser profesionista en las áreas contables, jurídicas, económicas o administrativas y tener experiencia en alguna de ellas;
+
+IV. No ser cónyuge o concubinario, pariente consanguíneo en línea recta sin limitación de grado o colateral hasta el segundo grado, por afinidad dentro del segundo grado, de la Presidenta o Presidente Municipal, Regidoras o Regidores, Síndica o Síndico correspondientes;
+
+V. Contar con carta de no inhabilitación, expedida por autoridad competente;
+
+VI. No haber sido condenada o condenado por delito doloso; y,
+
+VII. Las demás que establezcan las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2023)</small>
+
+###### Artículo 131 Ter.
+
+Para la designación de la Comisaria o Comisario del Organismo Operador del Agua Potable, Alcantarillado y Saneamiento del Municipio, se seguirá el siguiente procedimiento:
+
+I. El Ayuntamiento durante los treinta días posteriores a la toma de protesta del cargo, emitirá convocatoria pública para ocupar el cargo de Comisaria o Comisario del Organismo Operador del Agua Potable del Municipio Respectivo;
+
+II. De entre los concursantes a esa convocatoria, que cumplan con todos los requisitos establecidos, un Consejo Municipal integrado por las regidoras y regidores del Ayuntamiento; así como tres ciudadanas o ciudadanos de la sociedad civil, en un plazo de treinta días después de haber sido expedida la convocatoria, elegirá un máximo de seis propuestas teniendo en cuenta el criterio de paridad de género, en una lista que enviará a la Presidenta o Presidente Municipal, en cinco días;
+
+III. La Presidenta o Presidente Municipal contará con hasta cinco días, a partir de la recepción de las propuestas, para formar una terna, teniendo en cuenta el criterio de paridad de género, misma que remitirá al Cabildo;
+
+IV. El Cabildo deberá, de entre la terna propuesta, elegir en un plazo no mayor a ocho días, quien será la Comisaria o Comisario del Organismo Operador del Agua en el Municipio respectivo, por el voto de las dos terceras partes de sus integrantes;
+
+V. De no enviarse la terna por parte de la Presidenta o Presidente Municipal, dentro del plazo referido, el Cabildo integrará la terna correspondiente de entre las seis propuestas, teniendo en cuenta el criterio de paridad de género;
+
+VI. De no lograr la votación requerida para elegir, de entre las propuestas integrantes de la terna hasta en dos ocasiones, se solicitará a la Presidenta o Presidente Municipal la integración de una dupla, teniendo en cuenta el criterio de paridad de género, misma que será integrada por dos propuestas de la lista inicial y electa por mayoría simple, en donde la Presidenta o Presidente tendrá voto de calidad;
+
+VII. En caso de quedar desierta la convocatoria, el Cabildo deberá nombrar a la encargada o encargado del despacho de la Comisaría del Organismo Operador del Agua Potable, Alcantarillado y Saneamiento del Municipio respectivo, de entre una terna conformada a propuesta de la Presidenta o Presidente, teniendo en cuenta el criterio de paridad de género, en tanto se designe a la Comisaria o Comisario del Organismo Operador del Agua Potable, Alcantarillado y Saneamiento del Municipio respectivo, en forma definitiva;
+
+VIII. Para efectos de la designación de la Comisaria o Comisario del Organismo Operador del Agua Potable, Alcantarillado y Saneamiento del Municipio respectivo, bajo el supuesto de la fracción anterior, la Presidenta o Presidente Municipal propondrá una terna al Cabildo, de entre la cual se elegirá al titular por mayoría calificada de las dos terceras partes; y,
+
+IX. La Comisaria o Comisario del Organismo Operador del Agua Potable, Alcantarillado y Saneamiento del Municipio respectivo, tomará protesta ante el Cabildo previo a asumir el cargo.
+
 ### CAPÍTULO XXV. DE LA PROFESIONALIZACIÓN DE LAS SERVIDORAS Y LOS SERVIDORES PÚBLICOS MUNICIPALES Y DEL SERVICIO CIVIL DE CARRERA
 
 ###### Artículo 132.
@@ -3422,3 +3478,9 @@ P.O. 28 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 385 POR EL QUE "SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO III, Y SE ADICIONAN LOS ARTÍCULOS 9 BIS, 9 TER, 9 QUATER, 9 QUINQUIES, 9 SEXIES Y 9 SEPTIES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 379 POR EL QUE “SE ADICIONAN LAS FRACCIONES XXIV Y XXV AL INCISO A) DEL ARTÍCULO 40; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 131; Y, SE ADICIONAN LOS ARTÍCULOS 131 BIS Y 131 TER A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de la toma de protesta de los Ayuntamientos electos durante el proceso electoral 2023-2024.
