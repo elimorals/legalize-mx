@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2023-06-21"
+last_updated: "2023-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -241,6 +241,12 @@ XVIII.- Consentimiento válidamente informado, es la aprobación que otorga una 
 
 XIX.- Acto médico, es toda clase de examen, intervención, tratamiento e investigación de un paciente o razonamiento clínico, con fines de protección a la salud e incluye actos de prevención, diagnóstico, prescripción, recomendación terapéutica, tratamiento y rehabilitación, llevados a cabo por personal de salud o bajo su responsabilidad.
 
+(NOTA: EL 12 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2023 Y SU ACUMULADA 168/2023, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2023)</small>
+
+XX. DEONTOLOGÍA MÉDICA, PARTE DE LA ÉTICA QUE TRATA DE LOS DEBERES Y PRINCIPIOS DE LA PROFESIÓN MÉDICA, DE CONFORMIDAD CON LA LEX ARTIS AD HOC DE LA MEDICINA Y SUSTENTADA EN LAS DECLARACIONES DE GINEBRA DE 1948 Y DE ESTOCOLMO DE 1994, DE LA ASOCIACIÓN MÉDICA MUNDIAL.
+
 ###### Artículo 4.
 
 Son autoridades sanitarias en el Estado:
@@ -305,17 +311,33 @@ El Organismo Público Descentralizado, denominado Sistema para el Desarrollo Int
 
 El Sistema Estatal de Salud está constituido por las dependencias y entidades públicas, así como por todas las personas físicas o morales de los sectores social y privado que presten servicios de salud en el Estado, así como por los mecanismos de coordinación de acciones, a fin de dar cumplimiento al derecho a la promoción y protección de la salud en el territorio del Estado.
 
-(NOTA: EL 7 DE JULIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA: EL 12 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2023 Y SU ACUMULADA 168/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 18 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2023)</small>
 
 ###### Artículo 12 Bis.
 
-El Personal médico y de enfermería que forme parte del Sistema Estatal de Salud, podrán ejercer la objeción de conciencia y excusarse de participar en la prestación de servicios que establece esta Ley.
+El Personal médico y de enfermería que forme parte del Sistema Estatal de Salud, ejercerá la objeción de conciencia para excusarse de participar en la prestación de servicios que establece esta Ley, cuando a juicio del profesional, algún procedimiento contravenga la deontología médica, la ética personal, o sus convicciones religiosas.
 
-Cuando se ponga en riesgo la vida del paciente o se trate de una urgencia médica, no podrá invocarse la objeción de conciencia, en caso contrario se incurrirá en la causal de responsabilidad profesional.
+El derecho a la objeción de conciencia es aplicable en los siguientes casos de bioética especial:
 
-El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación laboral.
+I. La ortotanasia derivada de la voluntad o directriz anticipada del paciente;
+
+II. La investigación en seres humanos;
+
+III. La disposición de órganos, tejidos o componentes humanos;
+
+IV. El aborto voluntario;
+
+V. La eugenesia o perfeccionamiento genético del ser humano, y
+
+VI. En general todo procedimiento que no esté basado en evidencia y entrañe un riesgo para la vida e integridad del paciente.
+
+Cuando la vida del paciente esté en riesgo o se trate de una urgencia médica, no podrá invocarse la objeción de conciencia, en caso contrario se incurrirá en la causal de responsabilidad profesional.
+
+Al tratarse de un derecho humano protegido por el principio pro persona, la objeción de conciencia se ejerce de manera individual, por lo que los establecimientos de atención médica y las instituciones tienen en todo momento la obligación de contar con personal no objetor que realice los procedimientos a que los pacientes tienen derecho.
+
+El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación.
 
 ###### Artículo 13.
 
@@ -4958,3 +4980,11 @@ PRIMERA.- Remítase el presente decreto, al titular del Poder Ejecutivo para su 
 SEGUNDA.- Una vez publicado en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del gobierno del Estado de Morelos, el presente decreto entrará en vigor a partir del 1 de enero de 2024.
 
 TERCERA.- Una vez publicado el presente decreto en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del gobierno del Estado de Morelos, el titular del Poder Ejecutivo incluirá la partida para la adquisición de los dispositivos e insumos para el control de enfermedades pediátricas crónicas, para el Presupuesto de Egresos del Gobierno del Estado de Morelos del 1 de enero al 31 de diciembre de 2024, así como en los sucesivos presupuestos de egresos del Estado de Morelos.
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL VEINTE.- POR EL QUE SE ADICIONA UNA FRACCIÓN XX AL ARTÍCULO 3 BIS, Y SE REFORMA EL ARTÍCULO 12 BIS, AMBOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al Titular del Poder Ejecutivo Estatal para los efectos que indican los artículos los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
