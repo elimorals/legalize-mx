@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2023-04-21"
+last_updated: "2023-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -337,9 +337,15 @@ Las autoridades estatales y municipales, deberán colaborar en la búsqueda, loc
 
 Para dar cumplimiento a lo establecido en el artículo anterior, las autoridades del Estado y Municipios deberán:
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2023)</small>
 
-I. Facilitar la inscripción en el Registro Civil de forma inmediata de niñas, niños y adolescentes y a expedir de forma ágil y sin costo la primera copia certificada del acta correspondiente; y,
+I. Facilitar la inscripción de niñas y niños inmediatamente después de su nacimiento en el Registro Civil. La autoridad estatal en la materia, deberá expedirles de forma ágil y sin costo la primera copia certificada del acta correspondiente, misma que será entregada en formato físico y digital.
+
+La Secretaría de Salud y la Secretaría de Gobierno estatales, coordinarán acciones para entregar la primer copia certificada del acta de nacimiento a cada recién nacido durante su estancia hospitalaria. Dichas autoridades tomarán las medidas necesarias para que las niñas y niños que no nazcan en un hospital o centro de salud público, obtengan su acta de nacimiento lo más pronto posible.
+
+Las autoridades responsables impulsarán los convenios necesarios a efecto de prestar el servicio de registro de nacimiento y expedición de las actas respectivas en todos los establecimientos de salud públicos y privados que operen en Michoacán.
+
+El Registro Civil del Gobierno del Estado de Michoacán, prestará el servicio de registro y entrega de actas de nacimiento utilizando los medios electrónicos disponibles; y,
 
 II. Tomar en cuenta la opinión de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes.
 
@@ -2278,3 +2284,13 @@ P.O. 21 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 356 POR EL QUE “SE REFORMAN LAS FRACCIONES XIX Y XX, Y SE ADICIONAN LAS FRACCIONES XXI Y XXII AL ARTÍCULO 38 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 393 POR EL QUE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 14 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEGUNDO. Las secretarías de Gobierno y de Salud del Gobierno del Estado de Michoacán, así como la Dirección del Registro Civil, al implementar las acciones necesarias para cumplir el presente Decreto, darán prioridad a las niñas y niños que por cualquier motivo corran riesgo de no ser registrados o de no obtener su respectiva acta de nacimiento.
+
+TERCERO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
