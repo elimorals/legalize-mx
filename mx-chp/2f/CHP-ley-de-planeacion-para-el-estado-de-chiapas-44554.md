@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-planeacion-para-el-estado-de-chiapas-44554"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-17"
-last_updated: "2019-01-29"
+last_updated: "2023-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 17 de Marzo de 2005.
 
@@ -322,6 +322,10 @@ g) Sistema Integral de Administración Hacendaria del Estado (SIAHE).
 h) Informes de Gobierno Estatal y Municipal.
 
 i) Informes de la Cuenta Pública Estatal y Municipal.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2023)</small>
+
+j) Tablero Estratégico de Planeación y Seguimiento de la Inversión Pública.
 
 IV. Evaluación:
 
@@ -1110,3 +1114,11 @@ P.O. 29 DE ENERO DE 2019.
 Artículo Primero: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo: Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 207 DECRETO POR EL QUE SE ADICIONA EL INCISO J) A LA FRACCIÓN III DEL ARTÍCULO 13 DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
