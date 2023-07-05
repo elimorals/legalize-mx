@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2021-06-02"
+last_updated: "2023-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -2406,9 +2406,7 @@ El Tribunal Superior de Justicia del Estado se compondrá de las Magistradas y M
 
 Los Magistrados del Tribunal Superior de Justicia, rendirán su protesta ante el Pleno del Congreso, durarán en su cargo catorce años contados a partir de la fecha en que rindan la protesta constitucional y sólo podrán ser privados del cargo en los términos que establece esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
-
-El Presidente del Tribunal Superior de Justicia durará en su encargo dos años, pudiendo ser reelecto sólo por un período más, sin posibilidad de volver a ocupar ese cargo.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 5 DE JULIO DE 2023)</small>
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
@@ -2544,11 +2542,11 @@ VIII.- Las demás que le confieran otras disposiciones jurídicas.
 
 El Tribunal Superior de Justicia funcionará en pleno o en salas. Las audiencias serán públicas, salvo cuando se traten casos en que la moral o el interés social exijan que sean secretas.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2023)</small>
 
 ###### Artículo 94.
 
-El Tribunal Superior designará a uno de sus miembros como Presidente, en los términos de la Ley Orgánica respectiva.
+El Tribunal Superior designará a uno de sus miembros como Titular de la Presidencia a uno de sus integrantes (sic); durará en su encargo cuatro años, sin posibilidad de volver a ocupar ese cargo conforme a esta Constitución y de su Ley Orgánica.
 
 ###### Artículo 95.
 
@@ -5529,3 +5527,27 @@ NOVENO. La Junta Local de Conciliación y Arbitraje del Estado de Morelos deber�
 DÉCIMO. El Congreso del Estado deberá contemplar y destinar en el Presupuesto de Egresos del estado para el siguiente ejercicio fiscal los recursos que aún resultaran necesarios para la continuidad de la implementación de la reforma al Sistema de Justicia Laboral.
 
 DÉCIMO PRIMERO. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al contenido del presente Decreto.
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL DOSCIENTOS TREINTA POR EL QUE SE DEROGA Y REFORMA DOS NUMERALES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, PARA ESTABLECER LA PRESIDENCIA DEL TRIBUNAL SUPERIOR DE JUSTICIA POR CUATRO AÑOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Conforme a la Declaratoria realizada en Sesión Ordinaria de Pleno iniciada el primero de julio de dos mil veintitrés, las adiciones contenidas en el presente Decreto formaran parte de la Constitución Política del Estado Libre y Soberano de Morelos, en términos de lo dispuesto por el artículo 147 fracción I de la propia Constitución, iniciando su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+La Magistratura Titular de la Presidencia del Tribunal Superior de Justicia, al momento de entrar en vigor el presente decreto, por única ocasión, ejercerá esa responsabilidad por cuatro años, a partir de la fecha de su designación, sin posibilidad de ser reelecto para el siguiente ejercicio, en términos de lo dispuesto por el artículo 94 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado de Morelos a través del Instituto de Investigaciones Legislativas y con firma del Presidente de la Mesa Directiva, en los siguientes noventa días naturales a la entrada en vigor de este Decreto, presentara iniciativa con proyecto de decreto que actualice la Ley Orgánica del Poder Judicial del Estado de Morelos, conforme a lo que dispone este Decreto. La iniciativa (sic) que alude este numeral podrá ser presentada por el Tribunal Superior de Justicia del Poder Judicial en términos del artículo 42 fracción III de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
