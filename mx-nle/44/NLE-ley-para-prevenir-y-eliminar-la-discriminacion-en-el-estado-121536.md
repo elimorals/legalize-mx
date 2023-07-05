@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-17"
-last_updated: "2023-03-31"
+last_updated: "2023-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 17 de mayo de 2017.
 
@@ -83,9 +83,9 @@ VI. Debida diligencia: La obligación de los Entes Públicos del Estado de Nuevo
 
 VII. Discapacidad: Deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que, al interactuar con diversas barreras, puedan impedir la participación plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2023)</small>
 
-VIII. Discriminación: Toda discriminación, exclusión, restricción o preferencia por acción y omisión, con intensión (sic) o sin ella, que no sea objetiva, racional ni proporcional y que, basaba en uno o más de los siguientes motivos: origen étnico o nacional, el sexo, el género, identidad sexo genérica, orientación sexual, edad, apariencia física, color de piel, características genéticas, discapacidades, condición social, económica, de salud física o mental, jurídica, condición migratoria, embarazo, idioma, lengua o dialecto, religión, opiniones, identidad, ideas o filiación política, estado civil, cultura, situación familiar, antecedentes penales o cualquier otra condición, que tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento o el ejercito de los derechos humanos y la igualdad real de oportunidades de las personas;
+VIII. Discriminación: Toda discriminación, exclusión, restricción o preferencia por acción y omisión, con intensión (sic) o sin ella, que no sea objetiva, racional ni proporcional y que, basaba en uno o más de los siguientes motivos: origen étnico o nacional, el sexo, el género, identidad sexo genérica, orientación sexual, edad, etapa de desarrollo, apariencia física, color de piel, características genéticas, discapacidades, condición social, económica, de salud física o mental, jurídica, condición migratoria, embarazo, idioma, lengua o dialecto, religión, opiniones, identidad, ideas o filiación política, estado civil, cultura, situación familiar, antecedentes penales o cualquier otra condición, que tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento o el ejercito de los derechos humanos y la igualdad real de oportunidades de las personas;
 
 IX. Entidades Públicas: Los órganos y dependencias de los Poderes y Municipios, y organismos públicos autónomos;
 
@@ -1326,3 +1326,9 @@ P.O. 31 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 357. SE REFORMAN LAS FRACCIONES IV Y V Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 20, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 408. SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 4 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
