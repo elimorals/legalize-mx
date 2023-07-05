@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2022-11-09"
+last_updated: "2023-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -697,6 +697,10 @@ V. Arresto hasta por 36 horas.
 
 VI. Trabajo a favor de la comunidad.
 
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2023)</small>
+
+VII. Asistencia a tres sesiones de centros asistenciales o instituciones para la rehabilitación de personas con problemas de adicciones.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ARTICULO 49 BIS.- Sin demérito del ejercicio de las atribuciones reglamentarias de los Ayuntamientos del Estado por cuanto hace a su circunscripción, así como la especificación de diversas infracciones, considerarán como mínimo las sanciones previstas en este artículo por las acciones referidas, pudiendo incrementarlas si así lo consideran, pero en ningún caso serán inferiores a lo aquí establecido. Al efecto, por las siguientes conductas se impondrán las siguientes sanciones:
@@ -751,17 +755,19 @@ IV.- Arresto administrativo de 8 hasta por 16 horas, a quien infrinja lo estable
 
 V.- Trabajo a favor de la comunidad. Esta sanción se impondrá en jornadas máximas de 8 horas, sin afectar horarios de escuela o de labores, si se tratara de estudiantes o trabajadores, respectivamente.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2023)</small>
 
-VI.- Detención del vehículo automotor y su remisión a las instituciones de resguardo que correspondan, de 24 hasta 72 horas y multa de hasta dos veces el valor diario de la Unidad de Medida y Actualización, a quien infrinja lo establecido en el artículo 20 Bis de esta Ley, o sus relativos en el Reglamento estatal o municipal de que se trate.
+VI.- Asistencia a tres sesiones de centros asistenciales o instituciones para la rehabilitación de personas con problemas de adicciones, que esté debidamente acreditado, y que expida las constancias respectivas, mismas que deberá hacer llegar a la autoridad competente, a quien infrinja lo establecido en el artículo 19 Ter, fracción I de esta Ley, sin demérito de la multa a la que haya lugar.
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2023)</small>
 
-No obstante lo establecido en la fracción VI del presente artículo, no será remitido a las instituciones de resguardo el vehículo en caso de que su propietario o el conductor del mismo retire el objeto que obstruya la visibilidad del conductor; o impida la visión al interior del vehículo, en el momento que la autoridad correspondiente se lo solicite, lo anterior sin demérito de la aplicación de la multa correspondiente.
+VII.- Detención del vehículo automotor y su remisión a las instituciones de resguardo que correspondan, de 24 hasta 72 horas y multa de hasta dos veces el valor diario de la Unidad de Medida y Actualización, a quien infrinja lo establecido en el artículo 20 Bis de esta Ley, o sus relativos en el Reglamento estatal o municipal de que se trate.
+
+No obstante lo establecido en la fracción VII del presente artículo, no será remitido a las instituciones de resguardo el vehículo en caso de que su propietario o el conductor del mismo retire el objeto que obstruya la visibilidad del conductor; o impida la visión al interior del vehículo, en el momento que la autoridad correspondiente se lo solicite, lo anterior sin demérito de la aplicación de la multa correspondiente.
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VII.- Para el supuesto de que el vehículo o el poseedor del vehículo no exhiba o cuente con el seguro vehicular vigente, se aplicará una multa desde cuarenta hasta sesenta veces el valor diario de la Unidad de Medida y Actualización; y en el caso de que el vehículo no cuente con el engomado expedido por la Secretaría de Finanzas a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, se procederá a la detención del vehículo automotor y se remitirá a las instituciones de resguardo que correspondan y además se aplicará la multa mencionada en este artículo.
+VIII.- Para el supuesto de que el vehículo o el poseedor del vehículo no exhiba o cuente con el seguro vehicular vigente, se aplicará una multa desde cuarenta hasta sesenta veces el valor diario de la Unidad de Medida y Actualización; y en el caso de que el vehículo no cuente con el engomado expedido por la Secretaría de Finanzas a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, se procederá a la detención del vehículo automotor y se remitirá a las instituciones de resguardo que correspondan y además se aplicará la multa mencionada en este artículo.
 
 Dichas multas no podrán ser condonadas ni reducidas.
 
@@ -1130,3 +1136,11 @@ Las estructuras orgánicas internas de la Secretaría de Seguridad Pública para
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-590 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
