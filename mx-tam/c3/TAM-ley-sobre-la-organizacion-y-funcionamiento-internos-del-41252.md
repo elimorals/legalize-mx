@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2023-06-06"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -483,17 +483,15 @@ Los diputados que decidan no pertenecer a un grupo parlamentario, fracción parl
 
 ### CAPITULO CUARTO. DE LA JUNTA DE COORDINACION POLITICA
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
 
 ### CAPITULO QUINTO. DE LAS COMISIONES Y COMITES
 
 ###### ARTICULO 29.
 
-1. La Junta de Coordinación Política se integra con los coordinadores de cada grupo parlamentario, con los representantes de las fracciones parlamentarias, así como de los titulares de las representaciones partidistas.
+1. La Junta de Coordinación Política se integra con los coordinadores o coordinadoras de cada grupo parlamentario, con los representantes de las fracciones parlamentarias, y las o los titulares de las representaciones partidistas.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2023)</small>
-
-2. Será Presidente de la Junta por la duración de la Legislatura, el Coordinador del Grupo Parlamentario del partido político que haya obtenido el mayor número de votos en el Estado, en la elección correspondiente a la Legislatura en turno.
+2. Será Presidente o Presidenta de la Junta por la duración de la Legislatura, el Coordinador o Coordinadora del Grupo Parlamentario del partido político que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente a la Legislatura en turno.
 
 ###### ARTICULO 30.
 
@@ -1488,6 +1486,16 @@ c) No haber sido condenado por delito intencional que ameritara pena privativa d
 d) Contar con título profesional preferentemente de Licenciado en Derecho o su equivalente legalmente expedido, y
 
 e) Acreditar mínimo cinco años en el ejercicio de la profesión y contar con experiencia en materia parlamentaria.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2023)</small>
+
+ARTICULO 66 SEXIES.
+
+1. A las personas titulares de la Secretaría General, así como de las Unidades, Jefaturas de Departamento, Jefaturas de Unidad y Auxiliares de Dictaminación, que conforman la estructura orgánica del Poder Legislativo, previstas en esta Ley, reglamentos respectivos y cualquier otro instrumento jurídico, se les garantizará su permanencia en el cargo para el cual fueron nombrados por el tiempo que fueron designados o por lo menos, hasta por el término de la Legislatura en la cual fueron designados.
+
+2. Todos los nombramientos de los titulares señalados en este artículo, a excepción del Secretario General, serán aprobados por la mayoría ponderada de los integrantes de la Junta de Coordinación Política del Congreso del Estado, en reunión donde se encuentren presentes la totalidad de los integrantes de dicho órgano parlamentario.
+
+3. Las personas servidoras públicas referidas en el numeral 1 del presente artículo, únicamente podrán ser removidas de su cargo por el voto de las dos terceras partes de los miembros del Congreso.
 
 ## TITULO TERCERO. DEL FUNCIONAMIENTO INTERNO DEL CONGRESO
 
@@ -3862,3 +3870,23 @@ P.O. 6 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 65-614 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 66 SEXIES A LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas que actualmente fungen como titulares de la Secretaría General, así como de las Unidades, Jefaturas de Departamento, Jefaturas de Unidad y Auxiliares de Dictaminación, que conforman la estructura orgánica del Poder Legislativo, previstas en esta Ley, reglamentos respectivos y cualquier otro instrumento jurídico, continuarán en su cargo hasta en tanto no sean removidos en los términos del artículo 66 SEXIES de la ley interna de este Poder Legislativo.
+
+P.O. 6 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-615 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 29, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
