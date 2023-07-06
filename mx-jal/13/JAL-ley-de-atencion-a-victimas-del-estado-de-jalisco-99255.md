@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-victimas-del-estado-de-jalisco-99255"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2021-05-11"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 27 de febrero de 2014.
 
@@ -921,6 +921,28 @@ Tendrán el carácter de invitados a las sesiones del Sistema Estatal, un presid
 
 El Reglamento establecerá el mecanismo de invitación correspondiente. Los invitados acudirán a las reuniones con derecho a voz pero sin voto.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2023)</small>
+
+###### Artículo 61 Bis.
+
+El Sistema Estatal podrá celebrar sesiones a distancia mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de las y los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todas las personas integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones; y
+
+VIII. La validez del acta y de los acuerdos aprobados se acreditará con la constancia de la votación firmados por quien presidió la sesión.
+
 ### Capítulo III. Comisión Ejecutiva Estatal de Atención a Víctimas
 
 ###### Artículo 62.
@@ -1030,6 +1052,28 @@ La Comisión Ejecutiva Estatal sesionará al menos una vez al mes de manera ordi
 Si el representante o suplente de algún servidor público no asiste a más de tres sesiones, se requerirá a dicho servidor público para que designe otra persona e inicie el procedimiento de responsabilidad correspondiente.
 
 Las determinaciones de la Comisión Ejecutiva Estatal se tomarán por la mayoría de los presentes, en caso de empate el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2023)</small>
+
+###### Artículo 67 Bis.
+
+La Comisión Ejecutiva Estatal podrá celebrar sesiones a distancia mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de las y los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todas las personas integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones; y
+
+VIII. La validez del acta y de los acuerdos aprobados se acreditará con la constancia de la votación firmados por quien presidió la sesión.
 
 ###### Artículo 68.
 
@@ -1784,3 +1828,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
 
 TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
+
+P.O. 6 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29205/LXIII/23 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 61 BIS Y 67 BIS A LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO, EN MATERIA DE SESIONES TELEMÁTICAS O A DISTANCIA MEDIANTE EL USO DE LAS HERRAMIENTAS TECNOLÓGICAS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
