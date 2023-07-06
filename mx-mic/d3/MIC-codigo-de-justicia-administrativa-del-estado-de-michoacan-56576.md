@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-justicia-administrativa-del-estado-de-michoacan-56576
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-23"
-last_updated: "2019-08-28"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el jueves 23 de agosto de 2007.
 
@@ -1339,15 +1339,17 @@ VI. Defensores Jurídicos; y,
 
 VII. El personal que requiera para su funcionamiento.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
+
 ###### Artículo 146.
 
-Para el nombramiento de los magistrados, el Congreso expedirá convocatoria pública registrando a los aspirantes al cargo de los cuales integrará una terna por cada vacante, que será sometida a votación en el Pleno. Será electo Magistrado quien obtenga el voto de las dos terceras partes de los diputados presentes.
+Para el nombramiento y reelección de los magistrados, el Congreso expedirá convocatoria pública registrando a los aspirantes al cargo de los cuales integraraì (sic) una terna por cada vacante, que será sometida a votación en el Pleno. Seraì (sic) electo Magistrado quien obtenga el voto de las dos terceras partes de los diputados presentes.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
 
 ###### Artículo 147.
 
-El Magistrado durará en su encargo cinco años y podrá ser reelecto hasta en dos ocasiones. Al término de su periodo cesará en sus funciones y quedará separado de su encargo. El Congreso, dentro de los noventa días naturales anteriores a la fecha en que concluya el primero y en su caso, el segundo de los periodos del Magistrado, determinará si debe o no ser reelecto mediante el voto de las dos terceras partes de los diputados presentes. De determinarse la no reelección se iniciará el procedimiento para el nombramiento del Magistrado que ha de ocupar el periodo. De no hacerse en tiempo y forma el nombramiento, se procederá a cubrir la falta de Magistrado en los términos de este Código.
+El Magistrado duraraì (sic) en su encargo cinco años y podrá ser reelecto hasta en dos ocasiones. Al término de su período, cesaraì (sic) en sus funciones y quedaraì (sic) separado de su encargo. El Congreso, dentro de los noventa días naturales anteriores a la fecha en que concluya el periodo del Magistrado o Magistrada en funciones, emitirá la convocatoria pública correspondiente observando el principio de paridad de género. De no hacerse en tiempo y forma el nombramiento, se procederá a cubrir la falta de Magistrado en los términos de este Código.
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
@@ -3538,3 +3540,13 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO TRIGÉSIMO CUARTO. SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2 DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 428 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 146 Y 147 DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Notifíquese al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga el Acuerdo Legislativo número 30, de fecha 18 de noviembre de 2021 del Congreso del Estado de Michoacán de Ocampo, y queda sin efectos la Convocatoria contenida en el mismo. El Congreso del Estado, a través de las Comisiones Unidas de Justicia y Gobernación, emitirá convocatoria, incluyendo los términos de la presente reforma para elegir y en su caso reelegir magistrada titular de la Tercera Sala Administrativa Ordinaria del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo. Las aspirantes que se hayan registrado en los términos de la convocatoria contenida en el Acuerdo Legislativo número 30 que se abroga mediante el presente Decreto, y que decidan participar en la nueva convocatoria, podrán ratificar por escrito su intención así como la información previamente presentada, misma que podrá ser complementada en caso de que así lo consideren. Dicho escrito será suficiente para adquirir el carácter de aspirante registrada.
+
+TERCERO. La persona que ostentaba la titularidad de la Tercera Sala Administrativa Ordinaria del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, tendrá derecho a participar en la convocatoria que se expedirá conforme lo dispuesto en el transitorio segundo del presente Decreto para, en su caso, ser reelecta como Magistrada. Notifíquese.
