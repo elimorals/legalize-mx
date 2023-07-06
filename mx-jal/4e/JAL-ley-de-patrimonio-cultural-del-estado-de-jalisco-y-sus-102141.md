@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-patrimonio-cultural-del-estado-de-jalisco-y-sus-102141"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-26"
-last_updated: "2021-03-18"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 26 de agosto de 2014.
 
@@ -133,6 +133,8 @@ IV. Las manifestaciones y expresiones inmateriales del Patrimonio Cultural; y
 
 V. El Patrimonio Cultural declarado por la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE JULIO DE 2023)</small>
+
 ###### Artículo 8.
 
 Según sus características los bienes Patrimonio Cultural se clasificarán en:
@@ -173,6 +175,8 @@ d) Centros Históricos: Las áreas que delimitan los espacios urbanos donde se o
 
 e) Lugares Sagrados: Los sitios que en el proceso de desarrollo histórico y cultural de los pueblos indígenas, de grupos sociales y comunidades afromexicanas, cualquiera que sea su autodenominación, adquieren una significación que los califica como elementos relevantes de su esencia y cosmovisión particular.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 6 DE JULIO DE 2023)</small>
+
 V. Manifestaciones inmateriales, conforme a los siguientes ámbitos:
 
 a) Las tradiciones y expresiones orales y narrativas;
@@ -187,11 +191,17 @@ e) Espacios y entorno geográfico, rutas y caminos tradicionales, e itinerarios 
 
 f) Conocimientos tradicionales sobre gastronomía, ciclos agrícolas, herbolaria y medicina tradicional, mitos y concepciones del universo y la naturaleza;
 
-g) Las lenguas vivas, muertas y aquellas en proceso de extinción; y
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+g) Las lenguas vivas, muertas y aquellas en proceso de extinción;
 
-h) Todas aquellas tradiciones y expresiones que por identificar o caracterizar a la cultura jalisciense merezcan ser transmitidas y preservadas a futuras generaciones;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2023)</small>
+
+h) Los conocimientos y saberes de las personas adultas mayores con valor cultural, que han sido transmitidos a través de las generaciones y que corren riesgo de olvidarse o extinguirse;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE JULIO DE 2023)</small>
+
+i) Todas aquellas tradiciones y expresiones que por identificar o caracterizar a la cultura jalisciense merezcan ser transmitidas y preservadas a futuras generaciones;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
@@ -1004,3 +1014,9 @@ P.O. 18 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28320/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 12, 14, 77 Y ADICIONA EL ARTÍCULO 80 BIS A LA LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 6 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29203/LXIII/23 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA LA LEY ORGANICA DEL PODER EJECUTIVO Y LA LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
