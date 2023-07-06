@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ingresos-del-municipio-de-cuernavaca-morelos-para-el-163
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-30"
-last_updated: "2023-05-03"
+last_updated: "2023-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE INGRESOS DEL MUNICIPIO DE CUERNAVACA, MORELOS, PARA EL EJERCICIO FISCAL DEL 01 DE ENERO AL 31 DE DICIEMBRE DE 2023.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
 
 Ley publicada en la Tercera Sección Extraordinaria del Periódico Oficial del Estado de Morelos, el viernes 30 de diciembre de 2022.
 
