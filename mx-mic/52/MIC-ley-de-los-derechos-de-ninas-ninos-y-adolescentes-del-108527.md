@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2023-07-05"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -849,7 +849,9 @@ XVI. Administrar la disciplina escolar de modo compatible con la dignidad humana
 
 XVII. Erradicar el castigo corporal físico o psicológico y las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes o degradantes. Castigo corporal físico o psicológico, es todo aquél en que se utilice la fuerza física o verbal para impactar en la psique del menor, que tenga por objeto causar cierto grado de dolor o malestar, aunque sea leve; considerándose castigos crueles y degradantes aquellos en que se menosprecia, se humilla, se denigra, se convierte en chivo expiatorio, se amenaza, se asusta o se ridiculiza a la niña, niño o adolescente;
 
-XVIII. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2023)</small>
+
+XVIII. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inculcando en ellos la adopción de estilos de vida sustentables, así como concientizarlos sobre las causas-efectos del cambio climático;
 
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
@@ -2294,3 +2296,9 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Las secretarías de Gobierno y de Salud del Gobierno del Estado de Michoacán, así como la Dirección del Registro Civil, al implementar las acciones necesarias para cumplir el presente Decreto, darán prioridad a las niñas y niños que por cualquier motivo corran riesgo de no ser registrados o de no obtener su respectiva acta de nacimiento.
 
 TERCERO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 429 POR EL QUE "SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 38, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
