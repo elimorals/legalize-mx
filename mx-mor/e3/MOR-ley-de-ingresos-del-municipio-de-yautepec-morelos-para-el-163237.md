@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ingresos-del-municipio-de-yautepec-morelos-para-el-16323
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-30"
-last_updated: "2022-12-30"
+last_updated: "2023-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE INGRESOS DEL MUNICIPIO DE YAUTEPEC, MORELOS, PARA EL EJERCICIO FISCAL DEL 01 DE ENERO AL 31 DE DICIEMBRE DE 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
 
 Ley publicada en la Décima Sección Extraordinaria del Periódico Oficial del Estado de Morelos, el viernes 30 de diciembre de 2022.
 
