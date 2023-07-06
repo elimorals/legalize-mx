@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ingresos-del-municipio-de-xochitepec-morelos-para-el-163
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-30"
-last_updated: "2022-12-30"
+last_updated: "2023-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,13 +25,25 @@ state: "MOR"
 
 LEY DE INGRESOS DEL MUNICIPIO DE XOCHITEPEC, MORELOS, PARA EL EJERCICIO FISCAL DEL 01 DE ENERO AL 31 DE DICIEMBRE DE 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023
 
 Ley publicada en la Novena Sección Extraordinaria del Periódico Oficial del Estado de Morelos, el viernes 30 de diciembre de 2022.
 
 > <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 ###### Artículo 34.
+
+Los derechos de los servicios de legalización y certificación se causarán y liquidarán conforme a las tarifas siguientes:
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2023)</small>
+
+4.3.2 De la Secretaría del ayuntamiento:
+
+Legalizaciones y certificaciones
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2023)</small>
+
+4.3.2.1 De los servicios del archivo Municipal
 
 Los derechos de los servicios de legalización y certificación se causarán y liquidarán conforme a las tarifas siguientes:
 
@@ -134,6 +146,16 @@ matrícula de cartilla de identidad militar. 1 UMA
 Concepto Cuota
 
 4.3.2.1.4.1 Expedición de constancia de residencia 1.5 UMA
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2023)</small>
+
+4.3.2.1.4.2 Expedición de constancia de
+
+dependencia económica. 1 UMA
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2023)</small>
+
+4.3.2.1.4.3 Expedición de constancia de identidad. 1 UMA
 
 4.3.2.1.5 Dirección General de Seguridad Pública:
 
@@ -242,3 +264,17 @@ expida distinta de las citadas 5 UMA
 a las citadas 6 UMA
 
 Para la legalización de firmas y expedición de certificaciones, certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos respectivos.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL NOVENTA Y CUATRO.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE INGRESOS DEL MUNICIPIO DE XOCHITEPEC, MORELOS, PARA EL EJERCICIO FISCAL DEL 01 DE ENERO AL 31 DE DICIEMBRE DE 2023".]
+
+PRIMERO. Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44 y 70 fracción XVII inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos, y para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” y deberán realizarse los ajustes presupuestarios que correspondan a partir del día primero de enero de 2023.
+
+TERCERO. En virtud de presentarse reformas en las estimaciones de los ingresos municipales para el ejercicio fiscal 2023, se modifica en consecuencia el Anexo Uno que contienen las Proyecciones de Ingresos, en términos de las disposiciones contenidas en los artículos 5 y 18 fracciones I y III de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+CUARTO. Se derogan todas las disposiciones de igual rango o inferiores que se opongan a lo establecido en este Decreto.
