@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2023-03-15"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE MARZO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -757,7 +755,7 @@ XXXVI. Las demás que establezcan otras disposiciones legales o reglamentarias a
 
 ###### Artículo 20.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE JULIO DE 2023)</small>
 
 1. Las facultades de la Secretaría de Cultura son las siguientes:
 
@@ -791,13 +789,17 @@ XIII. Coordinar la red de museos y coadyuvar con el Museo Trompo Mágico;
 
 XIV. Coadyuvar en las actividades de ciencia e innovación;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2023)</small>
 
-XV. Coadyuvar, en el ámbito de su competencia, con la Agencia Estatal de Entretenimiento de Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
+XV. Coadyuvar, en el ámbito de su competencia, con la Agencia Estatal de Entretenimiento de Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2023)</small>
 
-XVI. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XVI. Diseñar y ejecutar la política de preservación de las manifestaciones inmateriales del patrimonio cultural; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE JULIO DE 2023)</small>
+
+XVII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 21.
 
@@ -3002,3 +3004,9 @@ Séptimo. Las Entidades contarán con un plazo de 180 días naturales, contados 
 Octavo. La Subsecretaría General de Gobierno tendrá un plazo de 15 días hábiles, contados a partir del mismo día del inicio de vigencia de este decreto, para transferir a la Consejería Jurídica del Poder Ejecutivo del Estado, todos los procedimientos de responsabilidad notarial a que se refieren el párrafo segundo el (sic) artículo Octavo transitorio del decreto 27213/LXII/18 así como el párrafo segundo del artículo Quinto transitorio del decreto 27218/LXII/18, que se reforman a través del presente decreto.
 
 Durante el lapso establecido en el párrafo anterior, estarán suspendidos los términos y plazos en todos los procedimientos de responsabilidad notarial materia de dicha transferencia.
+
+P.O. 6 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29203/LXIII/23 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA LA LEY ORGÁNICA DEL PODER EJECUTIVO Y LA LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “EI Estado de Jalisco”.
