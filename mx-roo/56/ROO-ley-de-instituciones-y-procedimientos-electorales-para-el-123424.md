@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2023-06-07"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -1815,11 +1815,13 @@ Cada partido político con registro, contará ante el Consejo General del Instit
 
 Las personas representantes de los partidos políticos deberán acreditarse dentro de los treinta días siguientes a la fecha en que se instale el Consejo General y podrán ser sustituidas en cualquier tiempo por el partido político que los acreditó, dando con oportunidad el aviso correspondiente a la Presidencia del Consejo General.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
+
 ###### Artículo 134.
 
-El Consejo General se reunirá en sesión ordinaria al menos una vez al mes. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los consejeros electorales o de los representantes de los partidos políticos, conjunta o indistintamente.
+El Consejo General se reunirá en sesión ordinaria al menos una vez al mes. Su Presidencia podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de las consejeras y consejeros electorales o de las personas representantes de los partidos políticos, conjunta o indistintamente.
 
-El Consejo General se instalará para la preparación del proceso electoral dentro de la primera semana de octubre del año anterior al de la elección.
+El Consejo General se instalará en sesión solemne que celebre durante la primera semana de enero del año del proceso comicial de que se trate, para realizar la Declaratoria del inicio del proceso electoral.
 
 ###### Artículo 135.
 
@@ -4525,11 +4527,17 @@ El órgano local en materia laboral será competente para recepcionar las demand
 
 ### CAPÍTULO ÚNICO. DE LAS ETAPAS DEL PROCESO ELECTORAL
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
 
 ###### Artículo 265.
 
-El proceso electoral es el conjunto de actos ordenados por la Constitución del Estado y esta Ley, realizados por las autoridades electorales, los partidos políticos, así como la ciudadanía, que tienen por objeto la renovación periódica de los integrantes de los poderes Ejecutivo y Legislativo; así como de los ayuntamientos. En la elección e integración de los Ayuntamientos existirá la paridad de género tanto vertical como horizontal.
+El Instituto Estatal para el adecuado desarrollo del proceso electoral realizará actividades preparatorias previas a la declaratoria de inicio del proceso electoral, en apego a las disposiciones que emita el Instituto Nacional, a partir del año anterior al de la celebración de la elección de que se trate.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2023)</small>
+
+###### Artículo 265 Bis.
+
+El proceso electoral es el conjunto de actos ordenados por la Constitución del Estado y esta Ley, realizados por las autoridades electorales, los partidos políticos, así como la ciudadanía, que tienen por objeto la renovación periódica de los integrantes de los poderes Ejecutivo y Legislativo; así como de los Ayuntamientos. En la elección e integración de los Ayuntamientos existirá la paridad de género tanto vertical como horizontal.
 
 ###### Artículo 266.
 
@@ -4541,7 +4549,9 @@ II. Jornada electoral, y
 
 III. Resultados y declaración de validez de las elecciones.
 
-La etapa de preparación de la elección se inicia con la primera sesión que el Consejo General celebre durante la primera semana de octubre del año anterior al de la elección y concluye al iniciarse la jornada electoral.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
+
+La etapa de preparación de la elección se inicia con la primera sesión que el Consejo General celebre durante la primera semana de enero del año del proceso comicial de que se trate y concluye al iniciarse la jornada electoral.
 
 Para tal efecto, el Consejo General celebrará sesión solemne en la que hará la Declaratoria del inicio del proceso electoral.
 
@@ -7142,3 +7152,13 @@ P.O. 7 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 082 POR EL QUE SE REFORMAN: EL ARTÍCULO 134, EL ARTÍCULO 265 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 266; Y SE ADICIONA: EL ARTÍCULO 265 BIS, TODOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Instituto Electoral de Quintana Roo en un plazo de noventa días naturales siguientes a la entrada en vigor del presente decreto, deberá realizar las adecuaciones a los reglamentos, lineamientos o acuerdos que correspondan.
+
+TERCERO. Para el Ejercicio Fiscal 2023, dado que se han presupuestado los recursos económicos necesarios para las actividades preparatorias previas a la Declaración de inicio del proceso electoral, queda intocado el presupuesto establecido en el Artículo Tercero Transitorio del Decreto Número 038 publicado en el Periódico Oficial de fecha 23 de diciembre de 2022 de la H. XVII Legislatura Constitucional del Estado Libre y Soberado de Quintana Roo, exceptuando el Capítulo 1000 correspondiente a la contratación de personal eventual para los órganos desconcentrados del Instituto Electoral de Quintana Roo.
