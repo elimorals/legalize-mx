@@ -4,7 +4,7 @@ identifier: "JAL-codigo-electoral-del-estado-de-jalisco-antes-codigo-62461"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-05"
-last_updated: "2023-05-20"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "JAL"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE JALISCO -- ANTES CODIGO ELECTORAL Y DE PARTICIPACION SOCIAL DEL ESTADO DE JALISCO -- ANTES CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO --
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23, POR EL CUAL SE REFORMAN LOS ARTÍCULOS 137, 214, 229, 232, 692 Y 693 DEL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTE DE MAYO DE DOS MIL VEINTITRÉS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
 CÓDIGO ELECTORAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
 
 Código publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 5 de agosto de 2008.
 
@@ -153,9 +151,21 @@ XVII. Candidata o Candidato Independiente: el ciudadano o ciudadana que, con esa
 
 XVIII. Ciudadanas y Ciudadanos: Las personas que teniendo la calidad de mexicanos reúnan los requisitos determinados en el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JULIO DE 2023)</small>
 
-XIX. Paridad de género: Igualdad política entre mujeres y hombres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
+XIX. Paridad de género: Igualdad política entre mujeres y hombres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación. La paridad de género se desarrolla mediante las siguientes vertientes:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2023)</small>
+
+a) Horizontal: Postulación equivalente de mujeres y hombres en el total de fórmulas de candidaturas a diputaciones por el principio de mayoría relativa, de las listas de representación proporcional o en las planillas de candidaturas a munícipes presentadas por un partido político o coalición;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2023)</small>
+
+b) Transversal: Postulación de candidaturas que impida que alguno de los géneros le sean asignados, exclusivamente, aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior, para lo cual se establecerá un sistema de bloques de competitividad; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2023)</small>
+
+c) Vertical: Postulación de fórmulas de candidaturas a diputaciones por el principio de representación proporcional y de las planillas de candidaturas a munícipes integradas por mujeres y hombres en la misma proporción, de forma alternada y secuencial, en toda su extensión;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
 
@@ -203,9 +213,9 @@ Artículo 4°
 
 Artículo 5º
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
 
-1. Votar en las elecciones constituye un derecho y una obligación de los ciudadanos que se ejerce para elegir a los integrantes de los órganos del Estado de elección popular. También es derecho de la ciudadanía, y obligación para todos los partidos políticos, la igualdad de oportunidades y la paridad vertical y horizontal entre hombres y mujeres, en candidaturas a legisladores locales tanto propietarios como suplentes, en candidaturas a presidencias municipales, así como en la integración de las planillas de candidaturas a munícipes, así como para las autoridades electorales en la integración de los consejos distritales y municipales.
+1. Votar en las elecciones constituye un derecho y una obligación de la ciudadanía que se ejerce para elegir a los integrantes de los órganos del Estado de elección popular. También es derecho de la ciudadanía, y obligación para todos los partidos políticos, la igualdad de oportunidades y la paridad vertical, horizontal y transversal entre hombres y mujeres, en candidaturas a la gubernatura del Estado; legisladores locales tanto propietarios como suplentes, en candidaturas a presidencias municipales, así como en la integración de las planillas de candidaturas a munícipes, así como para las autoridades electorales en la integración de los consejos distritales y municipales.
 
 2. El voto es universal, libre, secreto, directo, personal e intransferible.
 
@@ -593,7 +603,9 @@ IV. En el caso de que las candidatas o candidatos postulados por una coalición 
 
 1. Las diputaciones que correspondan a cada partido conforme al principio de representación proporcional, serán asignados alternativamente, dos entre las candidaturas registradas en la lista de representación proporcional y uno de los candidatos de cada partido político no electo bajo el principio de mayoría relativa que hayan obtenido los porcentajes mayores de votación válida distrital, iniciando por la más alta.
 
-2. Los partidos políticos deberán presentar una lista de candidaturas ordenada en forma progresiva de dieciocho diputaciones a elegir por la modalidad de lista de representación proporcional. Las solicitudes de registro de representación proporcional que presenten los partidos, ante el Instituto, deben cumplir la paridad de género, garantizando la inclusión alternada entre géneros en el orden de la lista. Los partidos políticos sólo podrán postular simultáneamente candidaturas a diputaciones por ambos principios hasta un veinticinco por ciento en relación al total de candidaturas de mayoría relativa.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
+
+2. Los partidos políticos deberán presentar una lista de candidaturas ordenada en forma progresiva de dieciocho diputaciones a elegir por la modalidad de lista de representación proporcional. Las solicitudes de registro de representación proporcional que presenten los partidos, ante el Instituto, deben cumplir con el principio de paridad de género, garantizando la inclusión alternada entre géneros en el orden de la lista. Los partidos políticos sólo podrán postular simultáneamente candidaturas a diputaciones por ambos principios hasta un veinticinco por ciento en relación al total de candidaturas de mayoría relativa.
 
 3. El Instituto, al aplicar la fórmula electoral, asignará a los partidos políticos el número de diputaciones por el principio de representación proporcional que les corresponda de acuerdo con su votación obtenida.
 
@@ -601,7 +613,9 @@ IV. En el caso de que las candidatas o candidatos postulados por una coalición 
 
 5. La asignación mediante la modalidad de porcentajes mayores de votación válida distrital se realizará entre las candidaturas que no hayan sido electas en la elección de diputaciones por el principio de mayoría relativa. En este caso, la asignación procederá de acuerdo a la lista que se elabore por el Instituto Electoral, en forma descendente a favor de quienes hayan obtenido el mayor porcentaje de votación válida distrital con relación a las demás candidaturas de su propio partido.
 
-6. En esta modalidad, no es aplicable la alternancia entre géneros, sino los resultados obtenidos por cada candidato en la circunscripción correspondiente y en comparación con el resto de los candidatos de su propio partido.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
+
+6. En esta modalidad, no es aplicable la alternancia entre géneros, sino los resultados obtenidos por cada candidato o candidata en la circunscripción correspondiente y en comparación con el resto de las candidaturas de su propio partido.
 
 7. Los candidatos y candidatas independientes no participarán en la asignación de diputados de representación proporcional.
 
@@ -1875,13 +1889,17 @@ LIV. Aprobar las modalidades en que los ciudadanos jaliscienses residentes en el
 
 LV. Asumir la competencia de los Consejos Distritales y Municipales una vez que se ha declarado su desinstalación o desintegración; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2023)</small>
 
-LVI. Vigilar que las actividades de los partidos políticos y las agrupaciones políticas se desarrollen con apego a esta Ley, la Ley General de Partidos Políticos, así como los lineamientos que emita el Consejo General para que los partidos políticos prevengan, atiendan y erradiquen la violencia política contra las mujeres en razón de género, y vigilar que cumplan con las obligaciones a que están sujetos; y
+LVI. Vigilar que las actividades de los partidos políticos y las agrupaciones políticas se desarrollen con apego a esta Ley, la Ley General de Partidos Políticos, así como los lineamientos que emita el Consejo General para que los partidos políticos prevengan, atiendan y erradiquen la violencia política contra las mujeres en razón de género, y vigilar que cumplan con las obligaciones a que están sujetos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN LVI], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2023)</small>
 
-LVII. Las demás que le sean conferidas por este ordenamiento legal y demás leyes aplicables.
+LVII. Aprobar dentro de los primeros seis meses del año siguiente al de la elección, los lineamientos para garantizar el cumplimiento de paridad de género y no discriminación en la postulación de candidaturas a cargos de elección popular, que estarán vigentes para el proceso electoral siguiente; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE JULIO DE 2023)</small>
+
+LVIII. Las demás que le sean conferidas por este ordenamiento legal y demás leyes aplicables.
 
 Artículo 135
 
@@ -2913,11 +2931,11 @@ VI. Cualquier otro que de manera justificada determine el Consejo General del In
 
 ## Título Primero. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
 
 ###### Artículo 211.
 
-1. El proceso electoral es el conjunto de actos ordenados por la Constitución Política de los Estados Unidos Mexicanos, la del Estado, la Ley General y este Código, realizados por las autoridades electorales, los partidos políticos y los ciudadanos, que tiene por objeto la renovación periódica de las y los integrantes de los Poderes Legislativo, Ejecutivo y Ayuntamientos en el Estado de Jalisco. En la postulación para la elección de los Ayuntamientos se garantizará la paridad de género tanto vertical como horizontal.
+1. El proceso electoral es el conjunto de actos ordenados por la Constitución Política de los Estados Unidos Mexicanos, la del Estado, la Ley General y este Código, realizados por las autoridades electorales, los partidos políticos y los ciudadanos, que tiene por objeto la renovación periódica de las y los integrantes de los Poderes Legislativo, Ejecutivo y Ayuntamientos en el Estado de Jalisco. En la postulación para la elección de los Ayuntamientos y las diputaciones se garantizará la paridad de género vertical, horizontal y transversal, así como los principios de igualdad y no discriminación.
 
 Artículo 212
 
@@ -3179,33 +3197,117 @@ IV. Munícipes.
 
 2. Los ciudadanos que se registren de forma independiente, no podrán registrarse como candidatos independientes para diputados por el principio de representación proporcional.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
 
-3. Los partidos políticos promoverán y garantizarán la paridad entre los géneros en la postulación de candidaturas a los cargos de elección popular para el Congreso del Estado, las planillas de Ayuntamientos y de las Presidencias Municipales.
+3. Los partidos políticos promoverán y garantizarán la paridad entre los géneros en la postulación de candidaturas a los cargos de elección popular para la Gubernatura del Estado, el Congreso del Estado, las planillas de Ayuntamientos y de las Presidencias Municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2023)</small>
+
+4. Los partidos políticos bajo el principio de máxima transparencia harán público el procedimiento o método aprobado conforme a sus estatutos para la selección de sus candidaturas a cargos de elección popular, los cuales deberán cumplir con el principio de paridad.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 Artículo 237
 
-1. Ningún ciudadano podrá ser registrado simultáneamente, a diferentes cargos de elección popular, en el mismo proceso electoral. Se exceptúan de esta disposición, las solicitudes de registro de candidatos que en forma simultánea presenten los partidos políticos o coaliciones para los cargos de Diputados por los principios de mayoría relativa y de representación proporcional, en los términos que establece la Constitución Política local.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
 
-2. Las candidaturas a diputados a elegirse por el principio de mayoría relativa se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género.
+1. Ningún ciudadano podrá ser registrado simultáneamente, a diferentes cargos de elección popular, en el mismo proceso electoral. Se exceptúan de esta disposición, las solicitudes de registro de candidatos o candidatas que en forma simultánea presenten los partidos políticos o coaliciones para los cargos de Diputados por los principios de mayoría relativa y de representación proporcional, en los términos que establece la Constitución Política local.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
 
-3. En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos y/o en los que haya perdido en el proceso electoral anterior.
+2. Las candidaturas a diputados o diputadas por el principio de mayoría relativa se registrarán por fórmulas compuestas cada una por un propietario y un suplente del mismo género. La candidatura suplente de un propietario del género masculino podrá ser ocupada por una persona del género femenino.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
 
-4. Los partidos políticos deberán presentar una lista de dieciocho candidatos a diputados por el principio de representación proporcional, integrada por nueve de un sexo y nueve del otro, alternando uno de cada sexo.
+3. En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
 
-5. El Instituto Electoral tendrá la facultad de rechazar el registro del número de candidaturas de un género que exceda la paridad vertical y horizontal fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
+4. Los partidos políticos deberán presentar una lista de dieciocho candidaturas a diputaciones por el principio de representación proporcional, garantizando la inclusión alternada entre géneros en el orden de la lista.
+
+La lista deberá encabezarse por un género distinto en cada proceso electoral. Si el Congreso está compuesto mayoritariamente por hombres, la lista deberá iniciar con género femenino.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
+
+5. El Instituto Electoral tendrá la facultad de rechazar el registro del número de candidaturas de un género que exceda la paridad vertical y horizontal fijando al partido un plazo improrrogable de 48 horas para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
 
 En el caso de que los partidos políticos o coaliciones no atiendan el principio de paridad horizontal, el Instituto Electoral lo resolverá mediante un sorteo entre las candidaturas registradas para determinar cuáles de ellas perderán su registro, hasta satisfacer el requisito de paridad entre los géneros.
 
+En el caso de que se presente una postulación mayoritaria de fórmulas del género femenino se tendrá por cumplido el principio de paridad.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
 6. En el caso de que para un mismo cargo de elección popular sean registrados diferentes candidatos por un mismo partido político, el Secretario del Consejo General, una vez detectada esta situación, requerirá al partido político a efecto de que informe al Consejo General, en un término de cuarenta y ocho horas, qué candidato o fórmula prevalece. En caso de no hacerlo se entenderá que el partido político opta por el último de los registros presentados, quedando sin efecto los demás.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2023)</small>
+
+7. Los partidos políticos y coaliciones para cumplir con la postulación paritaria de candidaturas a diputaciones por el principio de mayoría relativa deberán conformar dos bloques de diez distritos cada uno, atendiendo al porcentaje de mayor a menor votación válida emitida en el proceso electoral inmediato anterior. Cada bloque se integrará de manera paritaria debiendo postularse dentro de los cinco primeros lugares de cada bloque dos fórmulas de género distinto.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE AL NUMERAL 7, P.O. 6 DE JULIO DE 2023]</small>
+
+En el supuesto de los partidos políticos de reciente creación o, en el caso de que algún partido político, por sí mismo o en la coalición, no hubiere registrado candidatura en uno o varios distritos en la elección inmediata anterior, considerando que se carece de antecedentes para determinar su porcentaje de competitividad, las fórmulas de candidaturas deberán distribuirse de manera paritaria, observando para tal efecto, la regla atinente a la composición de las fórmulas.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2023)</small>
+
+Artículo 237 Bis
+
+1. En el caso de la postulación de candidaturas a la Gubernatura del Estado, los partidos políticos nacionales, en ejercicio de su autodeterminación, garantizarán que se observe el principio de paridad, en los términos que establezca la autoridad competente. En el caso de los partidos políticos locales deberán de observar la postulación alternada entre los géneros.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2023)</small>
+
+Artículo 237 Ter
+
+1. En el caso de la postulación de candidaturas a munícipes no se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos municipios más poblados de la entidad o en los que el partido político haya obtenido los porcentajes de votación más bajos. Para garantizar esto, en el registro de candidaturas se observará lo siguiente:
+
+I. Se enlistarán los 20 municipios con mayor población del estado de acuerdo con el censo de población del Instituto Nacional de Estadística y Geografía y se ordenarán de mayor a menor conforme al porcentaje de votación válida emitida por cada partido político en el proceso electoral anterior.
+
+Esta lista se dividirá en dos bloques de diez municipios cada uno. Al primer bloque se le denominará bloque de alta población-alta competitividad y al segundo bloque de alta población-baja competitividad.
+
+Una vez conformados los dos bloques, los partidos políticos y coaliciones deberán postular en los primeros cinco Municipios que integran cada bloque, al menos dos planillas encabezadas por un mismo género, de tal forma que se garantice la postulación de ambos géneros en los municipios más competitivos y de mayor población;
+
+II. Hecho lo anterior, cada partido político o coalición enlistará el resto de los municipios en los que registraron planillas en la elección inmediata anterior, ordenados conforme al porcentaje de votación válida emitida de mayor a menor;
+
+III. Los municipios se distribuirán conforme al siguiente procedimiento: se dividirán en tres bloques en los que se hubiesen postulado candidaturas, en orden decreciente, de acuerdo al porcentaje de votación válida emitida en la elección anterior, a fin de obtener un bloque de municipios con alto porcentaje de votación, un bloque con porcentaje medio de votación y un bloque con bajo porcentaje de votación;
+
+IV. Si al hacer la división de municipios en los tres bloques señalados sobrare uno, éste se agregará al bloque de votación alta, y si restasen dos, se agregará uno al de votación alta y el segundo al de votación media;
+
+V. Los bloques con los porcentajes de votación alta y baja se dividen en dos sub-bloques. Los sub-bloques de votación alta se denominarán sub-bloque de votación alta-alta y sub-bloque de votación alta-baja. Los subbloques de votación baja se denominarán sub-bloque de votación baja-alta y sub-bloque de votación baja-baja;
+
+VI. Si al hacer la división de municipios en los sub-bloques del bloque de votación alta sobrare uno, éste se agregará al sub-bloque de votación alta-alta y si al hacer la división de municipios en los sub-bloques del bloque de votación baja sobrare uno, éste se agregará al sub-bloque de votación baja-alta;
+
+VII. Una vez identificados, se deberá garantizar que en los sub-bloques de votación alta-alta, alta-baja, baja-alta y baja-baja, al menos el 50% de las candidaturas corresponda al género femenino. En caso de que el número total de candidaturas a presidencias municipales en los sub-bloques de votación alta-alta sea impar, la candidatura sobrante será para una candidata de género femenino;
+
+VIII. En el bloque de porcentaje de votación medio y en aquellos municipios donde no se registraron planillas, el partido político o coalición podrá distribuir libremente las candidaturas en paridad, en su caso, haciendo los ajustes correspondientes para alcanzar la paridad en la totalidad de las postulaciones presentadas; y
+
+IX. En los cuatro bloques, además de verificarse la composición de las fórmulas, se verificará la distribución paritaria entre los géneros respecto a la postulación de fas presidencias municipales tanto del bloque poblacional como los de competitividad.
+
+2. En el caso de que algún partido político o coalición presente candidaturas en algún municipio o municipios donde no hubiera presentado candidaturas en la elección inmediata anterior y, por tanto, no cuente con datos para integrarlos a los bloques de porcentajes señalados anteriormente, éstos los distribuirá de manera paritaria, además de cumplir con la composición de las fórmulas y la alternancia de género.
+
+3. Cada partido político establecerá sus bloques de competitividad o de población de acuerdo con las disposiciones anteriores.
+
+4. En el caso de que la totalidad de postulaciones a munícipes propietarios diera como resultado un número impar, la mayoría de éstas será para el género femenino.
+
+(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 161/2023 Y SUS ACUMULADAS 166/2023, 167/2023, 169/2023 Y 171/2023, DECLARÓ LA INVALIDEZ DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2023)</small>
+
+Artículo 237 Quáter
+
+1. CUANDO LOS PARTIDOS POLÍTICOS PARTICIPEN COALIGADOS, LOS REGISTROS SERÁN CONTABILIZADOS CONFORME LAS REGLAS SIGUIENTES:
+
+I. COALICIÓN TOTAL: CUANDO DOS O MÁS PARTIDOS POLÍTICOS POSTULEN A LA TOTALIDAD DE SUS CANDIDATURAS EN EL MISMO PROCESO ELECTORAL, SE REVISARÁ QUE LA MITAD DE ELLAS SEAN ENCABEZADAS POR MUJERES Y LA OTRA MITAD POR HOMBRES. CADA PARTIDO POLÍTICO COALIGADO DEBE POSTULAR DE MANERA PARITARIA LAS CANDIDATURAS QUE LE CORRESPONDEN AL INTERIOR DE LA ASOCIACIÓN;
+
+II. COALICIÓN PARCIAL O FLEXIBLE: CUANDO DOS O MÁS PARTIDOS POLÍTICOS CONVIENEN PRESENTAR AL MENOS EL CINCUENTA POR CIENTO O VEINTICINCO POR CIENTO, RESPECTIVAMENTE, DE LAS CANDIDATURAS EN EL PROCESO ELECTORAL BAJO UNA MISMA PLATAFORMA ELECTORAL, LA REVISIÓN EN PARIDAD SE REALIZARÁ CONSIDERANDO LA TOTALIDAD DE LAS POSTULACIONES REGISTRADAS POR EL PARTIDO POLÍTICO DE FORMA INDIVIDUAL, ES DECIR, SERÁ DETERMINADA CON LA SUMATORIA DE LAS POSTULADAS POR EL PARTIDO POLÍTICO EN LA COALICIÓN Y LAS POSTULADAS POR ÉSTE EN LO INDIVIDUAL; Y
+
+III. CUANDO EL NÚMERO DE REGISTRO DE PLANILLAS SEA DIFERENCIADO POR PARTIDO POLÍTICO COALIGADO, ESTO ES, QUE PRESENTEN DE MANERA INDIVIDUAL DIFERENTES PROPORCIONES EN EL NÚMERO DE SUS CANDIDATURAS, TENDRÁN QUE SUJETARSE A LO SEÑALADO EN EL PÁRRAFO ANTERIOR.
+
+2. Para ordenar los Municipios o Distritos de mayor a menor votación, se estará a lo siguiente:
+
+I. En caso de que los partidos políticos que integran la coalición hubieran participado en forma individual en el Proceso Electoral anterior, se considerará la suma de la votación obtenida por cada partido político que integre la coalición correspondiente;
+
+II. En caso de que los partidos políticos que participen en forma individual, lo hayan hecho en coalición en el Proceso Electoral anterior, se considerará la votación obtenida por el partido en lo individual; y
+
+III. En caso de que alguno de los partidos políticos que integran la coalición hubiera participado en forma individual en el Proceso Electoral anterior, o que la coalición se integrará por partidos distintos o que se conformará en Municipios o Distritos diferentes a la coalición actual, se considerará la suma de la votación obtenida por cada partido político en lo individual.
 
 Artículo 238
 
@@ -8842,3 +8944,13 @@ P.O. 20 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29185/LXIII/23 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29217/LXIII/23 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. Para el proceso electoral 2023-2024 la integración de las listas de diputaciones de representación proporcional que presenten los partidos políticos deberán ser encabezadas por el género femenino.
+
+TERCERO. Tomando en consideración el Acuerdo INE/CG638/2022 del Instituto Nacional Electoral, publicado en el Diario Oficial de la Federación el 5 de diciembre de 2022, por el que se modificó la distritación local del Estado de Jalisco y con el objeto de no generar incertidumbre en la postulación de las candidaturas a diputaciones por bloques de competitividad; se ordena al Instituto Electoral y de Participación Ciudadana del Estado de Jalisco que realice la recomposición de la votación de los nuevos distritos electorales locales, con la finalidad de contar con datos veraces respecto de la fuerza política de cada partido para la conformación de los bloques de competitividad.
