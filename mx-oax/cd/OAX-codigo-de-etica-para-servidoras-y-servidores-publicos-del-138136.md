@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-etica-para-servidoras-y-servidores-publicos-del-13813
 country: "mx"
 rank: "codigo"
 publication_date: "2019-04-24"
-last_updated: "2019-04-24"
+last_updated: "2023-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # CODIGO DE ETICA PARA SERVIDORAS Y SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL P.O. DE 6 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA PARA SERVIDORAS Y SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE OAXACA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023 (ABROGADO).
 
 Código publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 24 de abril del 2019.
 
@@ -294,3 +296,21 @@ EL SECRETARIO DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL.
 MAESTRO JOSÉ ÁNGEL DÍAZ NAVARRO.
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE AL ACUERDO POR EL QUE SE EXPIDE El CÓDIGO DE ÉTICA PARA SERVIDORAS Y SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE OAXACA. - - - - - - - - - - -
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO.- POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se abroga el Acuerdo por el que se expide el Código de Ética para las Servidoras y Servidores Públicas (sic) del Poder Ejecutivo del Estado de Oaxaca, publicado el 24 de abril de 2019, en el Periódico Oficial del Gobierno del Estado.
+
+CUARTO. Se abroga el Acuerdo por el que se emiten las Reglas de Integridad para las Servidoras y Servidores Públicas (sic) del Poder Ejecutivo del Estado de Oaxaca, publicado el 24 de abril de 2019, en el Periódico Oficial del Gobierno del Estado.
+
+QUINTO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+SEXTO. La Secretaría de Honestidad, Transparencia y Función Pública, a través de la Subsecretaría de Contraloría Social y Transparencia, contará con un plazo de 30 días hábiles para la emisión de los Lineamientos por los cuales se constituirán los Comités de Ética.
