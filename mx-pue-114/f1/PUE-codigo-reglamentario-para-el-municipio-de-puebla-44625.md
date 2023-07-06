@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2023-06-23"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -23373,9 +23373,9 @@ III. Separar y entregar en las modalidades que indique el Organismo los residuos
 
 IV. Solicitar al Organismo el servicio especial para la recolección de desechos tales como muebles, escombros, chatarra, materiales de construcción, troncos, ramas de árboles y todo desecho de volumen excesivo generados en casa habitación;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2023)</small>
 
-V. Mantener limpios y libres de fauna nociva, los predios baldíos de su propiedad o posesión que no tengan construcción, así como mantenerlos cercados o bardados a una altura mínima de 2.25 metros, a fin de evitar la acumulación de residuos, la contaminación y molestias a los vecinos;
+V. Mantener limpios y libres de maleza, flora y fauna nociva, los lotes baldíos, jardines o patios de su propiedad o posesión. En el caso de los lotes baldíos mantenerlos cercados o bardados a una altura mínima de 2.25 metros a fin de evitar la acumulación de residuos, la contaminación y molestias al vecindario o a la comunidad;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -23589,7 +23589,9 @@ Los hospitales, clínicas, laboratorios de análisis clínicos, laboratorios de 
 
 Los propietarios, poseedores y encargados de casas habitación, edificios, clubes deportivos y sociales e instalaciones en general, que tengan jardines o huertas, están obligados a contratar con el Organismo o los concesionarios del servicio de limpia la recolección, transporte y disposición final, de la ramazón, hojarasca y demás residuos procedentes de dichos jardines o huertas, en caso de no darles un destino útil.
 
-El Organismo podrá ordenar, a costa del propietario o poseedor, la limpieza, bardado o cercado de cualquier lote baldío que presente un estado de mantenimiento inadecuado, en los términos de este artículo, cuando aquél haya sido omiso en el mantenimiento del mismo, no obstante haber sido requerido al respecto por el Organismo. Lo anterior, sin perjuicio de las sanciones que procedan por infracciones a este Capítulo. El pago de lo anterior será exigible a los propietarios y/o poseedores después de haber efectuado el trabajo. En caso de incumplimiento de pago, el Organismo informará a la Tesorería Municipal para que inicie el procedimiento administrativo de ejecución.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
+
+El Organismo podrá requerir a las personas propietarias o poseedoras mantener limpios y libres de maleza, flora y fauna nociva, los lotes baldíos, jardines o patios para que, en el término de quince días de cumplimiento a sus obligaciones y en caso de omisión al requerimiento se aplicará una sanción. Con la aplicación de esta sanción se le requerirá de nueva cuenta el cumplimiento de sus obligaciones como personas propietarias o poseedoras, otorgando un nuevo plazo de quince días hábiles para su cumplimiento. Para el caso de que las personas propietarias o poseedoras persistan en la omisión del cumplimiento de sus obligaciones, se aplicará una sanción por reincidencia.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -23728,6 +23730,10 @@ XIX. No realizar la separación de los residuos sólidos por los comercios e ind
 > <small>(ADICIONADA, P.O. 8 DE ENERO DE 2020)</small>
 
 XX. Disponer en los espacios públicos y al exterior de los domicilios, los residuos sólidos urbanos, fuera del día y horario de recolección establecidos por el Organismo.
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2023)</small>
+
+XXI. Incumplir con la obligación de mantener limpios y libres de maleza, flora y fauna nociva, los lotes baldíos, jardines o patios de su propiedad o posesión.
 
 Aquel Ciudadano o persona jurídica que viole las anteriores disposiciones, se hará acreedor a las sanciones señaladas en el presente Capítulo.
 
@@ -24010,6 +24016,50 @@ j) Equivalente al valor diario de 1 a 10 unidades de medida y actualización a q
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 2020)</small>
 
 k) Equivalente al valor diario de 10 a 1,000 unidades de medida y actualización a quien incurra en el supuesto establecido en la fracción XIX del artículo 1376 del presente ordenamiento;
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2023)</small>
+
+l) Equivalente al valor diario de 10 a 50 unidades de medida y actualización a quienes incumplan con la obligación de mantener limpios y libres de maleza, flora y fauna nociva, los lotes baldíos, jardines o patios de su propiedad o posesión y que hayan sido requeridos por primera vez, conforme al siguiente:
+
+TABULADOR DE SANCIONES
+
+SUPERFICIE UMAs
+
+Hasta 100 m2 10 a 15
+
+101 a 200 m2 15 a 20
+
+201 a 400 m2 20 a 25
+
+401 a 800 m2 25 a 30
+
+801 a 2000 m2 30 a 35
+
+2001 a 5000 m2 35 a 40
+
+5001 m2 o mayores 40 a 50
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2023)</small>
+
+m) Equivalente al valor diario de 50 a 300 unidades de medida y actualización a quienes incumplan con la obligación de mantener limpios y libres de maleza, flora y fauna nociva, los lotes baldíos, jardines o patios de su propiedad o posesión que hayan sido requeridos en más de una ocasión y persistan en la omisión del cumplimiento de sus obligaciones, conforme al siguiente:
+
+TABULADOR DE SANCIONES
+
+SUPERFICIE UMAs
+
+Hasta 100 m2 50 a 60
+
+101 a 200 m2 60 a 70
+
+201 a 400 m2 70 a 80
+
+401 a 800 m2 80 a 90
+
+801 a 2000 m2 90 a 100
+
+2001 a 5000 m2 100 a 200
+
+5001 m2 o mayores 200 a 300
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -40716,6 +40766,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
 P.O. 23 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL ACUERDO NO. RES.2023/229 POR EL QUE “SE APRUEBA LA ADICIÓN DEL SEGUNDO PÁRRAFO AL ARTÍCULO 619 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 6 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 16 DE JUNIO DE 2023, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE SEGURIDAD, JUSTICIA Y PROTECCIÓN CIVIL, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 1363 Y EL 1370; ASÍ COMO ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 1376 Y LOS INCISOS L) Y M) A LA FRACCIÓN II DEL 1388, TODOS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
 
 PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
