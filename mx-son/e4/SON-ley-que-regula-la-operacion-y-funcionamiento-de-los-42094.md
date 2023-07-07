@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2021-12-30"
+last_updated: "2023-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2023.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -433,6 +433,10 @@ Son obligaciones de los dueños o encargados de los establecimientos en que se e
 
 I.- No vender bebidas alcohólicas que estén adulteradas, contaminadas o alteradas, en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas de las autoridades sanitarias o penales que correspondan cuando sean constitutivas de delitos;
 
+> <small>(ADICIONADA, B.O. 7 DE JULIO DE 2023)</small>
+
+I BIS.- Contar con un protocolo o solución tecnológica o de comunicación que le permita a los consumidores dentro del establecimiento, solicitar el auxilio de terceros o de la policía, ante cualquier agresión, temor de agresión, o síntomas de sumisión química en los términos contemplados en el Código Penal del Estado de Sonora, o de vulnerabilidad por la ingesta de sustancias que afecten su voluntad;
+
 II.- Permitir la inspección de sus negocios, local completo, licencia y demás documentos establecidos por esta Ley a los inspectores de la Secretaría o del Ayuntamiento, siempre y cuando este último órgano de gobierno haya celebrado previamente convenio de colaboración con el Gobierno del Estado;
 
 III.- Poner en lugar visible el original o la copia certificada por la Secretaría, de la licencia, además, la revalidación vigente y los documentos donde conste su inscripción al Registro Federal y Estatal de Contribuyentes que muestre el número de registro. En el supuesto de que la licencia sea operada por un tercero, a solicitud de los inspectores del ramo, deberá presentar copia del documento que justifique legalmente dicha operación; en todo caso, los originales deberán ser presentados a los inspectores del ramo en días y horas de oficina;
@@ -440,6 +444,10 @@ III.- Poner en lugar visible el original o la copia certificada por la Secretar�
 IV.- Retirar ebrios del establecimiento, para lo cual solicitarán, si fuere necesario, el auxilio de la fuerza pública;
 
 V.- Impedir y denunciar escándalos en los establecimientos ocurriendo, para evitarlos, a la fuerza pública. Lo mismo hará cuando tenga conocimiento o encuentre alguna persona que use o posea dentro del local estupefacientes o cualquier otra droga enervante;
+
+> <small>(ADICIONADA, B.O. 7 DE JULIO DE 2023)</small>
+
+V BIS.- Ofrecer a los consumidores dentro del establecimiento opciones para proteger sus bebidas contra la introducción de sustancias externas por parte de terceros en el contenido del vaso, copa, taza o cualquier otra forma de envase disponible;
 
 VI.- Pagar las contribuciones y sanciones correspondientes dentro de los plazos que fijen las Leyes, y presentar los comprobantes cuando así les sea requerido por los inspectores del ramo en días y horas normales de oficina;
 
@@ -1838,3 +1846,11 @@ Artículo Segundo.- Los juicios contenciosos administrativos que se hubieran int
 Artículo Tercero.- Los juicios de nulidad que se hubieran interpuesto a partir de la entrada en vigor de la Ley de Justicia Administrativa para el Estado de Sonora, se tramitarán y resolverán de acuerdo con lo dispuesto en esa misma Ley, por lo que las leyes que remitan a los artículos comprendidos del 196 al 251, contenidos en el Título Sexto del Código Fiscal del Estado de Sonora que se deroga, se entenderán referidos a los correlativos de la Ley de Justicia Administrativa del Estado de Sonora.
 
 Artículo Cuarto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+B.O. 7 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 134, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, GUARDA, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
