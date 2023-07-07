@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2018-11-30"
+last_updated: "2023-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2023.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -89,7 +89,13 @@ Ley.- Ley que Regula los Servicios de Control Vehicular en el Estado de Baja Cal
 
 Ley de Ingresos.- Ley de Ingresos del Estado de Baja California, del ejercicio fiscal que corresponda.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE JULIO DE 2023)</small>
+
 Licencia de Conducir.- Documento que contiene la autorización que concede el Estado a través de la Secretaría a una persona física, por tiempo determinado, para conducir vehículos de acuerdo a la clasificación para la que se expida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JULIO DE 2023)</small>
+
+La licencia de conducir podrá ser digitalizada por la Secretaría de Hacienda del Estado para su ágil e inmediata portación. La digitalización de la licencia de conducir no sustituye el documento.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2017)</small>
 
@@ -111,7 +117,9 @@ Residencia.- Es la permanencia de una persona en cualquier municipio del Estado,
 
 Revalidación de Licencia de Conducir.- Trámite que debe realizarse como consecuencia del término de la vigencia de la licencia de conducir expedida por la autoridad competente.
 
-Secretaría.- Secretaría de Planeación y Finanzas del Estado.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2023)</small>
+
+Secretaría.- Secretaría de Hacienda del Estado.
 
 Tarjeta de Circulación.- Documento expedido por la Secretaría a través de la Oficina Recaudadora y/o instituciones autorizadas para ello, indispensable para la circulación de vehículos, coincidente con las placas de circulación y calcomanías, que contiene los datos específicos del propietario, así como las características del vehículo respectivo.
 
@@ -167,7 +175,9 @@ VII.- Autorizar mediante convenio a instituciones públicas o privadas para que 
 
 VIII.- Las demás que le confiere la Ley, y demás disposiciones legales aplicables.
 
-Las facultades referidas en el presente artículo serán ejercidas por las autoridades competentes para aplicar esta Ley, en el ámbito de su respectiva competencia de conformidad con el Reglamento Interno de la Secretaría de Planeación y Finanzas del Estado, sin perjuicio de que el titular de dicha Secretaría las ejerza directamente.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2023)</small>
+
+Las facultades referidas en el presente artículo serán ejercidas por las autoridades competentes para aplicar esta Ley, en el ámbito de su respectiva competencia de conformidad con las reglas de carácter general de la Secretaría de Hacienda del Estado, sin perjuicio de que el titular de dicha Secretaría las ejerza directamente.
 
 ###### ARTÍCULO 5.
 
@@ -1104,3 +1114,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 7 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No 247 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 Y 4 DE LA LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
