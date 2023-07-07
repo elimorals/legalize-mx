@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2022-05-09"
+last_updated: "2023-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2023.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -75,7 +75,9 @@ VIII.- Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas y 
 
 IX.- Diseñar, aplicar y difundir políticas públicas para reconocer, incentivar y premiar a deportistas Bajacalifornianos que hayan destacado en el ámbito local, nacional e internacional, así como a entrenadores, jueces, árbitros, profesionistas de las ciencias aplicadas y demás especialistas que contribuyen al desarrollo de la cultura física y el deporte del Estado;
 
-X.- Promover las medidas necesarias para erradicar la violencia y reducir los riegos (sic) en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2023)</small>
+
+X.- Promover las medidas preventivas necesarias para erradicar la violencia, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar, y reducir los riesgos en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
 
 XI.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
@@ -2138,3 +2140,9 @@ P.O. 9 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 91 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 22 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No 251 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN X DEL ARTÍCULO 4 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
