@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-jovenes-del-estado-de-michoacan-de-ocampo-81518"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-24"
-last_updated: "2020-12-04"
+last_updated: "2023-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2023.
 
 Ley publicada en la quinta sección del Periódico Oficial del Estado de Michoacán, el martes 24 de mayo de 2011.
 
@@ -263,9 +263,13 @@ XI. Realizar en coordinación con los Consejos las acciones necesarias para la e
 
 XII. Crear un sistema de orientación para los jóvenes que les brinde opciones académicas y laborales para su desarrollo;
 
-XIII. Ejecutar las acciones que le correspondan y que estén previstas en el Plan Estatal de Desarrollo para este rubro, así como coadyuvar en la vigilancia del cumplimiento de esta Ley; y,
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2023)</small>
 
-XIV. Las demás que promuevan la participación y desarrollo integral de los jóvenes.
+XIII. Establecer en coordinación con los gobiernos municipales, programas y cursos de capacitación en materia de nuevas tecnologías, ofertándose de manera gratuita por lo menos dos veces al año en comunidades de alta y muy alta marginación establecidas por Coneval;
+
+XIV. Ejecutar las acciones que le correspondan y que estén previstas en el Plan Estatal de Desarrollo para este rubro, así como coadyuvar en la vigilancia del cumplimiento de esta Ley; y,
+
+XV. Las demás que promuevan la participación y desarrollo integral de los jóvenes.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
@@ -662,3 +666,13 @@ P.O. 4 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
+
+P.O. 7 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 384 POR EL QUE “SE ADICIONA LA FRACCIÓN XIII, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 8 DE LA LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Gobierno del Estado a través del Instituto contará con un máximo de noventa días hábiles para elaborar y publicar las reglas de operación así como los lineamientos de los programas que se generen por la publicación del presente Decreto.
+
+TERCERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
