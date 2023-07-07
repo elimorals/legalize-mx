@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2023-05-26"
+last_updated: "2023-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 26 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 7 DE JULIO DE 2023.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -2539,11 +2539,13 @@ Tienen la obligación de presentar su declaración de situación patrimonial en 
 
 La declaración patrimonial será presentada ante la Unidad de Contraloría Interna del Congreso del Estado.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2023)</small>
 
-### CAPITULO SEGUNDO. DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION PUBLICA
+### CAPITULO SEGUNDO. DEL SEMÁFORO DE VOTACIONES
 
-ARTICULO 169 BIS.- (DEROGADO, P.O. 25 DE NOVIEMBRE DE 2016)
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2023)</small>
+
+ARTICULO 169 BIS.- El registro individual de votaciones se publicará en el portal de internet con la denominación "Semáforo de Votaciones", y contendrá el registro de votaciones nominales y económicas dadas en pleno y comisiones.
 
 ###### ARTICULO 170.
 
@@ -3210,3 +3212,13 @@ P.O. 26 DE MAYO DE 2023.
 PRIMERO. Las presentes reformas entrarán en vigor al momento de su aprobación por el Pleno del Congreso.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO 249 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN CAPÍTULO SEGUNDO AL TÍTULO OCTAVO Y ADICIONA UN ARTÍCULO 169 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al momento de su aprobación por el Pleno de esta Soberanía.
+
+SEGUNDO. En un plazo que no deberá exceder de 30 días naturales a partir de la entrada en vigor del presente Decreto, el Departamento de Informática en coordinación con la Dirección de Procesos Parlamentarios, deberán realizar las modificaciones señaladas en el presente decreto en el Portal de Internet del Congreso del Estado y mantener su actualización.
+
+TERCERO. Publíquese la presente reforma en el Periódico Oficial del Estado, para los efectos legales conducentes.
