@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2021-07-02"
+last_updated: "2023-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -56,6 +56,10 @@ Los contratos que se celebren entre dos o más entes públicos a que se refiere 
 Las adquisiciones, arrendamientos y servicios con cargo total o parcial a fondos federales conforme a los convenios o acuerdos celebrados entre el Ejecutivo Federal y esta Entidad Federativa, con la participación que en su caso corresponda a los Municipios interesados, estarán sujetos a las disposiciones federales correspondientes; siempre y cuando dichos fondos conserven su naturaleza en los términos del Presupuesto de Egresos de la Federación.
 
 Se sujetarán a lo dispuesto en esta Ley, las aportaciones registradas en las Leyes como ingresos propios, en los que la administración y ejercicio de los mismos, sean responsabilidad del Gobierno del Estado o de los municipios, así como las establecidas indistintamente en el Presupuesto de Egresos de la Federación, en el Capítulo V de la Ley de Coordinación Fiscal o en el ordenamiento jurídico respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JULIO DE 2023)</small>
+
+La Unidad Administrativa, podrá promover contratos marco, previa determinación de las características técnicas y de calidad acordadas, mediante los cuales éstas adquieran bienes, arrendamientos o servicios, a través de la suscripción de contratos específicos.
 
 ###### ARTÍCULO 3.
 
@@ -339,7 +343,9 @@ III.- Adjudicación directa.
 
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, forma y plazo para pago, penas convencionales, anticipos y garantías; debiendo el Comité proporcionar a los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
 
-El Comité pondrá a disposición pública a través de medios electrónicos, la información que obre en su base de datos o archivos correspondientes a las convocatorias y bases de las licitaciones, y en su caso, sus modificaciones; las actas de las juntas de aclaraciones y de visita a instalaciones, los fallos de dichas licitaciones o las cancelaciones de éstas, y los datos relevantes de los contratos.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2023)</small>
+
+El Comité pondrá a disposición pública a través de medios electrónicos, la información que obre en su base de datos o archivos correspondientes a las convocatorias y bases de las licitaciones, y en su caso, sus modificaciones; las actas de las juntas de aclaraciones y de visita a instalaciones, los fallos de dichas licitaciones o las cancelaciones de éstas, y los datos relevantes de los contratos. Las sesiones del Comité o Subcomité, previstos en esta Ley o su Reglamento, podrán ser transmitidas en vivo por los medios oficiales electrónicos de comunicación social para la población en general.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
@@ -1266,3 +1272,9 @@ P.O. 2 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 245 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO 248 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 Y 21 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
