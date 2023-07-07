@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2023-05-26"
+last_updated: "2023-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -95,9 +95,11 @@ VI.- El conocimiento para el adecuado aprovechamiento y utilización de los serv
 
 VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 4.
 
-Corresponde a la Secretaría de Salud del Estado en materia de salubridad general, promover, organizar, supervisar, y evaluar la prestación de los siguientes servicios o programas:
+Corresponde a la Secretaría de Salud del Estado en materia de salubridad general, promover, organizar, supervisar, evaluar y exigir la adecuada prestación de los siguientes servicios o programas:
 
 I.- La atención médica, preferentemente en beneficio de grupos vulnerables;
 
@@ -4070,3 +4072,9 @@ P.O. 26 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 229 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4, 27, 33 BIS, 50 BIS 5, 52, 54, 55, 56, 144 QUÁTER, 144 QUINQUIES, 144 OCTIES, 144 DECIES Y 165 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 253 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
