@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-10742
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2021-07-02"
+last_updated: "2023-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2023.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -151,9 +151,11 @@ En la aplicación de la presente Ley se tomarán en cuenta las condiciones parti
 
 Las autoridades del Estado y sus Municipios, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2023)</small>
+
 ###### Artículo 9.
 
-Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida.
+Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todas las y los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida, para su desarrollo integral, especialmente en el periodo de crianza de niñas y niños de 0 a 6 años de edad, se deberá brindar protección especial a las familias y a las niñas y niños que corresponde a la edad de la primera infancia.
 
 ###### Artículo 10.
 
@@ -1043,9 +1045,19 @@ VIII. Abstenerse de cualquier atentado contra su integridad física, psicológic
 
 IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
 
-X. Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2023)</small>
 
-XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
+X. Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2023)</small>
+
+XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JULIO DE 2023)</small>
+
+XII. Fortalecer el vínculo de las infancias con las maternidades y paternidades durante los primeros meses de vida a través de la convivencia armónica.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE JULIO DE 2023)</small>
 
 En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios rectores de la Ley General.
 
@@ -1828,3 +1840,9 @@ P.O. 2 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 233 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 55 Y 56 DE LA LEY DE PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 7 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No 250 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 9 Y 92 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
