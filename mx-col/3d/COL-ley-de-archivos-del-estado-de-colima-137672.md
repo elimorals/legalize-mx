@@ -4,7 +4,7 @@ identifier: "COL-ley-de-archivos-del-estado-de-colima-137672"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-14"
-last_updated: "2019-08-31"
+last_updated: "2023-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ARCHIVOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2023.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 59 del Periódico Oficial del Estado de Colima, el miércoles 14 de agosto de 2019.
 
@@ -1035,9 +1035,9 @@ Sesiones del Consejo Estatal
 
 5. El Consejo Estatal tomará acuerdos por mayoría simple de votos de sus miembros presentes en la sesión. En caso de empate, el Presidente tendrá el voto de calidad. En los proyectos normativos, los miembros del Consejo Estatal deberán asentar en el acta correspondiente las razones del sentido de su voto en caso de que sea en contra.
 
-(NOTA: EL 3 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2019, DECLARÓ LA INVALIDEZ DEL NUMERAL 6 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
 
-6. LAS SESIONES EXTRAORDINARIAS DEL CONSEJO PODRÁN CONVOCARSE EN UN PLAZO MÍNIMO DE VEINTICUATRO HORAS POR EL PRESIDENTE, CUANDO ESTIME QUE EXISTE UN ASUNTO DE RELEVANCIA PARA ELLO.
+6. Las sesiones extraordinarias del Consejo podrán convocarse en un plazo mínimo de veinticuatro horas por el Presidente, a través del Secretario ejecutivo o mediante solicitud que a éste formule por lo menos el treinta por ciento de los miembros, cuando estimen que existe un asunto de relevancia para ello.
 
 7. Las sesiones deberán constar en actas suscritas por los miembros que participaron en ellas. Dichas actas serán públicas a través de internet, en apego a las disposiciones aplicables en materia de transparencia y acceso a la información. El Secretario Técnico es responsable de la elaboración de las actas, la obtención de las firmas correspondientes, así como su custodia y publicación.
 
@@ -1167,41 +1167,45 @@ XVII. Autorizar la contratación de auditores externos para que lleven a cabo au
 
 XVIII. Las demás que le confiera la Ley, así como otras disposiciones legales.
 
-(NOTA: EL 3 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
 ###### Artículo 73.
 
 Integración del Órgano de Gobierno
 
 1. El Órgano de Gobierno será la máxima autoridad del Archivo General del Estado y estará integrado por:
 
-I. Un Presidente, que será el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2023)</small>
 
-II. Un Vicepresidente, que será el Secretario General de Gobierno;
+I. Una Presidencia, que será la persona titular del Poder Ejecutivo;
 
-III. Un Secretario Ejecutivo, que será el Director General del Archivo General del Estado;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2023)</small>
 
-IV. Un Comisario, que será un representante de la Contraloría del Estado, nombrado por el Contralor General del Estado; y
+II. Una Vicepresidencia, que será la persona titular de la Secretaría General de Gobierno;
 
-V. Ocho vocales, que serán:
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2023)</small>
 
-a. El Secretario de Planeación y Finanzas;
+III. Una Secretaría Ejecutiva, que será la persona titular de la Dirección General del Archivo General del Estado;
 
-b. El Secretario de Desarrollo Social;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2023)</small>
 
-c. El Secretario de Desarrollo Urbano;
+IV. Un Comisario, que será un representante de la Contraloría del Estado, nombrado por la persona titular de la Contraloría General del Estado; y
 
-d. El Secretario de Admiración (sic) y Gestión Pública;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 8 DE JULIO DE 2023)</small>
 
-e. El Secretario de Fomento Económico;
+V. Cinco vocales, que serán las personas titulares de:
 
-f. El Congreso del Estado, a través de un representante que será designado por la Comisión de Gobierno Interno;
+a. La Secretaría de Educación y Cultura;
 
-g. El Poder Judicial del Estado, a través de un representante; y
+b. La Subsecretaría de Cultura;
 
-h. El Diputado Presidente de la Comisión de Transparencia y Acceso a la Información.
+c. La Secretaría de Planeación, Finanzas y Administración;
 
-2. Cada uno de los integrantes propietarios tendrá un suplente, que será acreditado ante el Órgano Directivo por el titular. Los miembros propietarios del Órgano Directivo tendrán derecho a voz y voto en las sesiones que celebren, con excepción del Comisario quien sólo tendrá derecho de voz.
+d. El Congreso del Estado, a través de un representante que será designado por la Junta de Gobierno y Coordinación Política; y
+
+e. El Poder Judicial del Estado, a través de un representante;
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+
+2. Cada uno de los integrantes propietarios tendrá un suplente, que será acreditado ante el Órgano Directivo por el titular. Los miembros propietarios del Órgano Directivo tendrán derecho a voz y voto en las sesiones que celebren, con excepción del Secretario Ejecutivo y el Comisario quienes sólo tendrán derecho de voz.
 
 3. El desempeño de los miembros del Órgano de Gobierno será honorífico, con excepción del cargo de Director General del Archivo General del Estado.
 
@@ -1319,9 +1323,7 @@ I. Ser ciudadano mexicano;
 
 II. Poseer, al día de la designación, preferentemente el grado académico de doctor en ciencias sociales o humanidades, expedido por autoridad o institución facultada para ello, o bien, contar con experiencia mínima de cinco años en materia archivística;
 
-(NOTA: EL 3 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-III. NO HABER SIDO CONDENADO POR LA COMISIÓN DE ALGÚN DELITO DOLOSO; Y
+III. (DEROGADA, P.O. 8 DE JULIO DE 2023)
 
 IV. No haber sido Gobernador del Estado, Secretario de Estado, Fiscal General del Estado, Diputado local, dirigente de un partido o agrupación política, Magistrado o Ministro de Culto, durante el año previo al día de su nombramiento.
 
@@ -1507,13 +1509,13 @@ Infracciones administrativas
 
 1. Las infracciones administrativas a que se refiere la Ley General y cualquier otra derivada del incumplimiento de las obligaciones establecidas en la presente Ley, cometidas por servidores públicos, serán sancionadas ante la autoridad competente en términos de la Ley General de Responsabilidades Administrativas.
 
-(NOTA: EL 3 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
 ###### Artículo 101.
 
 Criterios para la imposición de sanciones
 
-1. Las infracciones administrativas cometidas por personas que no revistan la calidad de servidores públicos serán sancionadas por las autoridades que resulten competentes de conformidad con la Ley General de Responsabilidades Administrativas.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+
+1. Las infracciones administrativas cometidas por personas que no revistan la calidad de servidores públicos serán sancionadas por las autoridades que resulten competentes de conformidad con las normas aplicables.
 
 2. La autoridad competente podrá imponer multas de diez y hasta mil quinientas veces el valor diario de la unidad de medida y actualización e individualizará las sanciones considerando los siguientes criterios:
 
@@ -1526,6 +1528,10 @@ III. La reincidencia, en su caso, de la conducta constitutiva de la infracción.
 3. En caso de reincidencia, las multas podrán duplicarse, dependiendo de la gravedad de la infracción cometida.
 
 4. Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2023)</small>
+
+5. Se considera grave el incumplimiento a las fracciones I, II, III, IV y V del artículo 105 de esta Ley; asimismo las infracciones serán graves si son cometidas en contra de documentos que contengan información relacionada con graves violaciones a derechos humanos.
 
 ###### Artículo 102.
 
@@ -1644,3 +1650,9 @@ P.O. 31 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 133 POR EL QUE SE SE (SIC) REFORMAN LA FRACCIÓN X DEL ARTÍCULO 72 Y EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 8 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 326.- POR EL QUE SE REFORMA EL NUMERAL 6 DEL ARTÍCULO 68; ASÍ MISMO, LAS FRACCIONES I, II, III, IV Y V DEL NUMERAL 1 DEL ARÁBIGO 73, ASÍ COMO, EL NUMERAL 2 DEL MISMO; DEROGANDO LA FRACCIÓN III DEL ARTÍCULO 80; REFORMANDO EL NUMERAL 1 Y ADICIONANDO EL NUMERAL 5 AL ARTÍCULO 101 DE LA LEY DE ARCHIVOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico “El Estado de Colima”.
