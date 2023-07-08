@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2022-08-27"
+last_updated: "2023-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2023.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -2495,9 +2495,9 @@ V.- Cuando el testamento no contiene institución de heredero o legatario.
 
 782.- Tienen derecho a heredar por sucesión legítima:
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2023)</small>
 
-I.- Los descendientes, cónyuges o concubino, adoptados y adoptantes, ascendientes y parientes colaterales dentro del cuarto grado;
+I.- Los descendientes, cónyuges o concubinarios, adoptados y adoptantes, ascendientes y parientes colaterales dentro del cuarto grado;
 
 II.- A falta de los anteriores, la Universidad Autónoma de Zacatecas, "Francisco García Salinas";
 
@@ -8340,3 +8340,11 @@ P.O. 27 DE AGOSTO DE 2022.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 8 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 297.- MEDIANTE EL CUAL SE REFORMA EL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS, ASÍ COMO EL CÓDIGO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Zacatecas.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente decreto.
