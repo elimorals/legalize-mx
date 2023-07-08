@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2023-01-25"
+last_updated: "2023-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2023.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -4389,7 +4389,9 @@ Las obligaciones y facultades del depositario serán las que la ley asigne a los
 
 Se nombrará depositario:
 
-I. Al cónyuge del ausente;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2023)</small>
+
+I. A la o el cónyuge, a la concubina o concubino del ausente;
 
 II. A uno de los hijos mayores de edad que resida en el lugar; si hubiere varios, el Juez elegirá al que considere más apto;
 
@@ -4425,9 +4427,11 @@ Si el ausente está casado bajo el régimen de sociedad conyugal, ésta continua
 
 Si el cónyuge ausente fuere casado en segundas o ulteriores nupcias, y hubiere hijos del matrimonio o matrimonios anteriores, el Juez dispondrá que el cónyuge presente y los hijos del matrimonio o matrimonios anteriores, o sus legítimos representantes en su caso, nombren de acuerdo al depositario representante; mas si no estuvieren conformes, el Juez lo nombrará libremente dentro de los que representen el mayor interés jurídico.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+
 ###### ARTICULO 623.
 
-A falta de cónyuge, de descendientes o de ascendientes, será representante el heredero presuntivo. Si hubiere iguales con igual derecho, ellos mismos elegirán al que deba ser representante. Si no se ponen de acuerdo en la elección, la hará el Juez, prefiriendo al que en su concepto tenga mayor interés en la conservación de los bienes.
+A falta de cónyuge, concubina o concubino, de descendientes o de ascendientes, será representante el heredero presuntivo. Si hubiere iguales con igual derecho, ellos mismos elegirán al que deba ser representante. Si no se ponen de acuerdo en la elección, la hará el Juez, prefiriendo al que en su concepto tenga mayor interés en la conservación de los bienes.
 
 ###### ARTICULO 624.
 
@@ -5436,3 +5440,11 @@ Artículo primero. El presente Decreto entrará en vigor 60 días posteriores a 
 Artículo segundo. El Ejecutivo del Estado tendrá un plazo de 60 días, contado a partir de la entrada en vigor del presente Decreto, para adecuar sus reglamentos en la materia.
 
 Artículo tercero. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 8 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 297.- MEDIANTE EL CUAL SE REFORMA EL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS, ASÍ COMO EL CÓDIGO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Zacatecas.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente decreto.
