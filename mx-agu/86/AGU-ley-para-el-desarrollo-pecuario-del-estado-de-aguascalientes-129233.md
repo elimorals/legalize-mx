@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-pecuario-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2023-05-08"
+last_updated: "2023-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -369,9 +369,21 @@ VII. Concertar con las autoridades Federales, Municipales o con otras Entidades 
 
 VIII. Colaborar con la Secretaría y el ISSEA cuando aparezcan en la Entidad emergencias sanitarias;
 
-IX. Decretar la no expedición de guías de tránsito de ganado cuando un predio o una zona se encuentre en emergencia zoosanitaria a juicio de la Comisión; así como dictar el aislamiento total o parcial de la zona, con la prohibición de la comunicación de personas o transportes de cosas, cuando sin desinfección previa, puedan ser vehículos de contagio; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-X. Vigilar la aplicación de las normas oficiales mexicanas en la materia, y dictar conjuntamente con el mismo las disposiciones necesarias para la lucha contra la abeja africana, de enfermedades que las afectan y de aquellas actividades del hombre que dañen a las abejas.
+IX. Decretar la no expedición de guías de tránsito de ganado cuando un predio o una zona se encuentre en emergencia zoosanitaria a juicio de la Comisión; así como dictar el aislamiento total o parcial de la zona, con la prohibición de la comunicación de personas o transportes de cosas, cuando sin desinfección previa, puedan ser vehículos de contagio;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+X. Vigilar la aplicación de las normas oficiales mexicanas en la materia, y dictar conjuntamente con el mismo las disposiciones necesarias para la lucha contra la abeja africana, de enfermedades que las afectan y de aquellas actividades del hombre que dañen a las abejas;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2023)</small>
+
+XI. Promover que las organizaciones y asociaciones del sector pecuario que se constituyan en el Estado tengan entre sus prioridades, el fortalecimiento de las unidades productoras familiares, de las mujeres y los jóvenes; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2023)</small>
+
+XII. Las demás que señalen las leyes y los reglamentos.
 
 ###### Artículo 10.
 
@@ -459,9 +471,17 @@ XXXIX. Resolver el recurso administrativo previsto en la presente Ley y su regla
 
 XL. Promover la constitución de sociedades cooperativas;
 
-XLI. Aplicar las sanciones económicas establecidas en la presente Ley, su reglamento y demás normatividad vigente, comunicando las mismas a la Secretaría de Finanzas para que, por conducto de sus recaudadoras se hagan efectivas; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-XLII. Las demás que establezca la presente Ley, su reglamento, los convenios que celebre el Titular del Poder Ejecutivo del Estado y demás normatividad aplicable.
+XLI. Aplicar las sanciones económicas establecidas en la presente Ley, su reglamento y demás normatividad vigente, comunicando las mismas a la Secretaría de Finanzas para que, por conducto de sus recaudadoras se hagan efectivas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2023)</small>
+
+XLII. Promover y apoyar los proyectos productivos con especial atención en los que sean generados por mujeres y jóvenes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2023)</small>
+
+XLIII. Las demás que establezca la presente Ley, su reglamento, los convenios que celebre el Titular del Poder Ejecutivo del Estado y demás normatividad aplicable.
 
 ###### Artículo 11.
 
@@ -1972,6 +1992,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 8 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322.- REFORMA AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES; Y, REFORMA A LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 383.- SE REFORMA LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
