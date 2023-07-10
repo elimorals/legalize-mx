@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2023-06-05"
+last_updated: "2023-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -323,7 +323,9 @@ II. Convocar al SIEDE, con la participación que corresponda a las dependencias 
 
 III. Proponer, dirigir, ejecutar, evaluar y vigilar la política estatal de cultura física y deporte;
 
-IV. Celebrar acuerdos, convenios, contratos y bases con las autoridades de la Federación, Entidades Federativas y Municipios a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al fomento, promoción, incentivo y desarrollo de la cultura física y deporte;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+IV. Celebrar acuerdos, convenios, contratos y bases con las autoridades de la Federación, Entidades Federativas y Municipios a fin de promover, con la participación, en su caso, de los sectores social y privado, universidades e instituciones de educación superior, públicas o privadas, las políticas, acciones y programas tendientes al fomento, promoción, incentivo y desarrollo de la cultura física y deporte;
 
 V. Integrar el Programa Estatal de Cultura Física y Deporte;
 
@@ -829,9 +831,9 @@ II. Diseñar, aplicar, controlar y evaluar los instrumentos y programas Municipa
 
 III. Alinearse al Sistema Estatal del Deporte a fin de acceder a los apoyos y estímulos que otorga el IDEA;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-IV. Coordinarse con el IDEA y con otros Municipios para la promoción, difusión, estímulo, fomento y desarrollo de la cultura física y deporte;
+IV. Coordinarse con el IDEA y con otros Municipios para la promoción, difusión, estímulo, fomento y desarrollo de la cultura física y deporte; además suscribir convenios de colaboración con las universidades e instituciones de educación superior, públicas o privadas, con la finalidad de contar con un apoyo técnico para evaluar las políticas públicas, acciones y programas de cultura física y deporte municipal;
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
@@ -2222,3 +2224,9 @@ P.O. 5 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 381.- SE REFORMA LA LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
