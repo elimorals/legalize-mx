@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-143736"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-29"
-last_updated: "2023-06-15"
+last_updated: "2023-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE JULIO DE 2023.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 29 de julio de 2020.
 
@@ -35,7 +35,7 @@ Mauricio Vila Dosal, gobernador del estado de Yucatán, con fundamento en los ar
 
 EXPOSICIÓN DE MOTIVOS:
 
-[…]
+[...]
 
 En tal virtud, con fundamento en el artículo 30 fracción V de la Constitución Política, y artículos 18, 43 fracción VIII inciso a) de la Ley de Gobierno del Poder Legislativo, y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos los ordenamientos del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, la siguiente:
 
@@ -279,7 +279,11 @@ V. Laica, al mantenerse por completo ajena a cualquier doctrina religiosa.
 
 VI. Promoverá la educación ambiental, entendiéndose esta en términos de la Ley de Protección al Medio Ambiente del Estado de Yucatán, como el proceso tendiente a la formación de una conciencia crítica ante los problemas ambientales, en el que el individuo asimila los conceptos e interioriza las actitudes que le permitan evaluar las relaciones de interdependencia establecidas entre la sociedad y su medio natural, considerando el ámbito educativo formal e informal, y de la cultura ambiental que permita a la ciudadanía participar responsablemente en la atención y solución de los problemas ambientales, para contribuir al tránsito hacia el desarrollo sostenible en el estado.
 
-VII. Apoyará la investigación e innovación científica, humanística y tecnológica y garantizará el acceso abierto a la información que derive de ella, para lo cual deberá proveer recursos y estímulos suficientes, conforme a las bases de coordinación, vinculación y participación que establezcan las leyes en la materia; además alentará el fortalecimiento y difusión de la cultura del estado.
+> <small>(ADICIONADA, D.O. 10 DE JULIO DE 2023)</small>
+
+VII. Promoverá la cultura de la tenencia responsable de animales, fundada en el respeto, responsabilidad, protección, cuidado, conservación y bienestar de los animales que permita al individuo asimilar conceptos y exteriorizar actitudes y conductas acordes, entendiendo al bienestar animal como el grado en el que se satisfacen las necesidades físicas, emocionales y conductuales de un animal.
+
+VIII. Apoyará la investigación e innovación científica, humanística y tecnológica y garantizará el acceso abierto a la información que derive de ella, para lo cual deberá proveer recursos y estímulos suficientes, conforme a las bases de coordinación, vinculación y participación que establezcan las leyes en la materia; además alentará el fortalecimiento y difusión de la cultura del estado.
 
 ###### Artículo 14.
 
@@ -291,7 +295,9 @@ I. Contribuir a la formación del pensamiento crítico, a la transformación y a
 
 II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia, la tecnología y la innovación como factores del bienestar y la transformación social.
 
-III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso.
+> <small>(REFORMADA, D.O. 10 DE JULIO DE 2023)</small>
+
+III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, incluyendo el fomento a la cultura de la tenencia responsable y la procuración del bienestar animal, así como impulsar el desarrollo en lo social, ambiental, económico, además de favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso.
 
 IV. Combatir las causas de la discriminación y la violencia, especialmente las que se ejercen contra la niñez y las mujeres, así como las personas con discapacidad o pertenecientes a grupos sociales en situación de vulnerabilidad.
 
@@ -315,7 +321,9 @@ II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la j
 
 III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político.
 
-IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza con los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles.
+> <small>(REFORMADA, D.O. 10 DE JULIO DE 2023)</small>
+
+IV. El respeto y cuidado al medio ambiente y a los animales, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza, con los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles.
 
 V. Crear conciencia sobre la importancia de la salud y sus determinantes en las escuelas como un derecho universal, con el objeto de dotar de los conocimientos y efectos benéficos de la educación para la salud.
 
@@ -391,9 +399,13 @@ XXX. Proporcionar a los alumnos los elementos necesarios para la adquisición de
 
 XXXI. Brindar talleres y pláticas informativas relativas a la menstruación, la correcta higiene menstrual, los cambios corporales y emocionales, con el objetivo de normalizar este proceso natural en el entorno sociocultural de las y los educandos, sin menoscabo de la libertad y del respeto absoluto a la dignidad y los derechos humanos.
 
-> <small>(REFORMADA, D.O. 5 DE JULIO DE 2022)</small>
+> <small>(ADICIONADA, D.O. 10 DE JULIO DE 2023)</small>
 
-XXXII. Todo aquello que contribuyan (sic) al bienestar y desarrollo del individuo, del Estado y del País.
+XXXII. Inculcar en la educación el cuidado y protección de los animales, la cultura de respeto a todos los seres vivos, la cultura de la tenencia responsable y el bienestar animal, y crear conciencia sobre la importancia de la convivencia respetuosa entre los seres humanos y los animales, así como del control de su reproducción.
+
+> <small>(REFORMADA, D.O. 10 DE JULIO DE 2023)</small>
+
+XXXIII. Todos aquellos que contribuyan al bienestar y desarrollo del individuo, del estado y del país.
 
 Los fines anteriores se ajustarán a la edad y al nivel de desarrollo de los educandos, así como al tipo, nivel, modalidad y opción educativa que a estos se imparta.
 
@@ -413,7 +425,9 @@ III. Será humanista, al fomentar el aprecio y respeto por la dignidad de las pe
 
 IV. Promoverá el respeto al interés general de la sociedad, por encima de intereses particulares o de grupo, así como el respeto a las familias, a efecto de que se reconozca su importancia como los núcleos básicos de la sociedad y constituirse como espacios libres de cualquier tipo de violencia.
 
-V. Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad.
+> <small>(REFORMADA, D.O. 10 DE JULIO DE 2023)</small>
+
+V. Inculcará los conceptos y principios de las ciencias ambientales, desarrollo sostenible, cultura de la tenencia responsable y el bienestar animal, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad.
 
 VI. Será equitativa, al favorecer el pleno ejercicio del derecho a la educación de todas las personas, para lo cual combatirá las desigualdades socioeconómicas, regionales, de capacidades y de género, respaldará a estudiantes en condiciones de vulnerabilidad social y ofrecerá a todos los educandos una educación pertinente que asegure su acceso, tránsito, permanencia y, en su caso, egreso oportuno en los servicios educativos.
 
@@ -981,7 +995,9 @@ VI. Aporte, en lo relativo a contenidos y metodología, elementos de los que pue
 
 VII. Fomente el amor y respeto a la cultura, historia, ecosistema y patrimonio de la entidad.
 
-VIII. Haga conciencia de la necesidad del aprovechamiento racional de los recursos naturales y de la protección del ambiente a través de la educación ambiental, basada en los principios de sostenibilidad, interdisciplinariedad, interculturalidad, responsabilidad, respeto por el medio ambiente y participación ciudadana, considerando las problemáticas ambientales actuales y futuras y las características regionales de la entidad.
+> <small>(REFORMADA, D.O. 10 DE JULIO DE 2023)</small>
+
+VIII. Fomentar la cultura del bienestar animal, haciendo conciencia de la necesidad del aprovechamiento racional de los recursos naturales y de la protección del ambiente a través de la educación ambiental, basada en los principios de sostenibilidad, interdisciplinariedad, interculturalidad, responsabilidad, respeto por el medio ambiente y participación ciudadana, considerando las problemáticas ambientales actuales y futuras y las características regionales de la entidad.
 
 IX. Preste especial atención a la formación fundamental de valores, tanto morales como cívicos de los educandos, como, por ejemplo, el establecimiento de una cultura vial.
 
@@ -1927,7 +1943,9 @@ Formación de maestras y maestros
 
 Las escuelas normales tendrán a su cargo la formación de maestras y maestros para la educación básica, las que deberán estructurarse y funcionar de modo que apliquen los criterios que esta ley establece para alcanzar, mantener y elevar la calidad educativa. Para ello, la secretaría, en coordinación con la Secretaría de Investigación, Innovación y Educación Superior:
 
-I. Procurará una sólida preparación profesional en los estudiantes, buscando que adquieran amplios conocimientos científicos, pedagógicos y de educación ambiental para la sostenibilidad.
+> <small>(REFORMADA, D.O. 10 DE JULIO DE 2023)</small>
+
+I. Procurará una sólida preparación profesional en los estudiantes, buscando que adquieran amplios conocimientos científicos, pedagógicos, de educación ambiental para la sostenibilidad, así como de cultura de la tenencia responsable y el bienestar animal.
 
 II. Fomentará en ellos el conocimiento pleno de los principios filosóficos y sociales del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y la política educativa que de este precepto se deriva.
 
@@ -2708,3 +2726,15 @@ Artículo primero. Este Decreto entrará en vigor al día siguiente de su public
 Cláusula derogatoria
 
 Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+D.O. 10 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 660/2023 POR EL QUE SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE BIENESTAR ANIMAL”.]
+
+Entrada en vigor
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula Derogatoria
+
+Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan al presente Decreto.
