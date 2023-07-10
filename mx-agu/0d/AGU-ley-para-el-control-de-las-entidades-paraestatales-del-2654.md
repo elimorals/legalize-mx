@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "2020-06-15"
+last_updated: "2023-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2023.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -499,13 +499,13 @@ XVI.- Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás
 
 ### CAPITULO VII. Del Control y Evaluación
 
-(REFORMADO, P.O. 14 DE MAYO DE 2018) (F. DE E., P.O. 28 DE MAYO DE 2018)
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 43.
 
-El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades de la entidad paraestatal; estará integrado por un Comisario Público Propietario y un Suplente, designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los Titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
+El Órgano de Vigilancia de las entidades paraestatales estará integrado por una Comisaria o Comisario Público Propietario y su Suplente, designados por la persona Titular del Poder Ejecutivo, quien escuchará las propuestas que le formulen la persona titular de la Secretaría General de Gobierno y la Contraloría del Estado, para tal efecto.
 
-Los Comisarios Públicos evaluarán el desempeño general y por funciones de la entidad paraestatal, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado les asigne específicamente conforme a la Ley. Para el cumplimiento de las funciones citadas el Órgano de Gobierno y el Director General deberán proporcionar la información que solicite el Comisario Público de la entidad paraestatal correspondiente y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
+Las Comisarias o Comisarios Públicos tienen a su cargó el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y el desempeño general y por funciones de la entidad paraestatal, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado les asigne específicamente conforme a la Ley. Para el cumplimiento de las funciones citadas el Órgano de Gobierno y el Director o Directora General deberán proporcionar la información que solicite el Comisario o Comisaria, así como el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
 
 ###### ARTICULO 44.
 
@@ -559,7 +559,9 @@ ARTICULO 45 B.- Las funciones de las Autoridades que integran al Órgano Interno
 
 A. Autoridad Auditora:
 
-I. Elaborar, someter a consideración de la Junta de Gobierno y ejecutar el programa anual de auditorías a las diversas áreas que conforman la entidad paraestatal;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+I. Elaborar, someter a consideración del órgano de gobierno y ejecutar el programa anual de auditorías a las diversas áreas que conforman la entidad paraestatal;
 
 II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño de la entidad paraestatal;
 
@@ -573,7 +575,9 @@ VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimi
 
 VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
 
-VIII. Rendir informe trimestral a su Junta de Gobierno sobre el estado que guardan los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+VIII. Rendir informe trimestral a su órgano de gobierno sobre el estado que guardan los asuntos de su competencia;
 
 > <small>(F. DE E., P.O. 28 DE MAYO DE 2018)</small>
 
@@ -597,7 +601,9 @@ V. Implementar las acciones necesarias para la recepción de denuncias por falta
 
 VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos a la entidad paraestatal o de particulares que puedan constituir responsabilidades administrativas de acuerdo a la normativa aplicable, autorizando con su firma los acuerdos e informes;
 
-VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos de la entidad paraestatal esto particulares (sic), habilitando para ello al personal del área correspondiente;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos de la entidad paraestatal, así como a los particulares, habilitando para ello al personal del área correspondiente;
 
 VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
 
@@ -617,7 +623,9 @@ XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la 
 
 XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
 
-XVI. Rendir informe trimestral a su Junta de Gobierno sobre el estado que guardan los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+XVI. Rendir informe trimestral, a su órgano de gobierno sobre el estado que guardan los asuntos de su competencia;
 
 XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
 
@@ -645,7 +653,9 @@ V. Llevar a cabo todos los actos procesales respectivos en carácter de Autorida
 
 VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
 
-VII. Rendir informe trimestral a su Junta de Gobierno sobre el estado que guardan los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+VII. Rendir informe trimestral a su órgano de gobierno sobre el estado que guardan los asuntos de su competencia;
 
 VIII. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera;
 
@@ -842,3 +852,11 @@ P.O. 15 DE JUNIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 382.- SE REFORMA LA LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
