@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transito-y-seguridad-vial-para-el-estado-de-hidalgo-1436
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-20"
-last_updated: "2023-03-29"
+last_updated: "2023-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de julio de 2020.
 
@@ -109,9 +109,13 @@ IV.- Conductor: Persona física que opera un vehículo para su movilización y q
 
 V.- Comisario: El Comisario General de la Agencia;
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2023)</small>
 
-V Bis.- Depósito de Vehículos: Al lugar destinado para resguardo y custodia de los vehículos que están a disposición de la autoridad que corresponda;
+V Bis.- Cultura Vial: Los hábitos, conductas y conocimientos que adquieren de manera individual los peatones, pasajeros y conductores, al hacer uso del derecho de tránsito por la vía pública;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2023)</small>
+
+V Ter.- Depósito de Vehículos: Al lugar destinado para resguardo y custodia de los vehículos que están a disposición de la autoridad que corresponda;
 
 VI.- Dispositivos para el control del tránsito y de la seguridad vial: Los medios físicos empleados para regular y guiar el tránsito de vehículos, peatones y semovientes, tales como semáforos, señalamientos, marcas, reductores de velocidad, inmovilizadores de vehículos, medios electrónicos, instrumentos tecnológicos, programas y otros similares;
 
@@ -205,9 +209,11 @@ e. Los bienes similares descritos en los incisos anteriores que se hayan transfe
 
 XXVI.- Zona metropolitana: Conjunto de dos o más municipios donde se localiza una ciudad cuya área urbana, funciones y actividades rebasan el límite del Municipio que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a municipios vecinos, predominantemente urbanos, con los que mantiene un alto grado de integración socioeconómica.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 5.
 
-La Secretaría y las autoridades municipales en materia de tránsito y seguridad vial están facultadas en el ámbito de su competencia, para emitir las disposiciones y restricciones necesarias a efecto de planear, establecer, regular, administrar, controlar y supervisar el tránsito de vehículos y peatones, su seguridad, sus bienes, el medio ambiente y el orden público en las vías públicas terrestres abiertas a la circulación, en los términos establecidos en esta Ley y su Reglamento.
+La Secretaría y las autoridades municipales en materia de tránsito y seguridad vial están facultadas en el ámbito de su competencia, para emitir las disposiciones y restricciones necesarias a efecto de planear, establecer, regular, administrar, controlar y supervisar el tránsito de vehículos y peatones, su seguridad, sus bienes, el medio ambiente y el orden público en las vías públicas terrestres abiertas a la circulación, así como para fomentar la cultura vial, en los términos establecidos en esta Ley y su Reglamento.
 
 ###### Artículo 6.
 
@@ -217,9 +223,11 @@ La Secretaría emitirá y aplicará las disposiciones jurídicas pertinentes con
 
 Las autoridades, en el ámbito de su competencia, promoverán el uso de la tecnología y demás alternativas para la agilización del tránsito.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 7.
 
-El Estado, a través de la Secretaría, podrá suscribir convenios con autoridades municipales, estatales, federales y de otras entidades federativas, así como con los sectores público, privado y social, con la finalidad de implementar acciones conjuntas, programas u operativos, entre otros temas, en materia de tránsito y seguridad vial a fin de prevenir lesiones o defunciones a causa de hechos de tránsito.
+El Estado, a través de la Secretaría, podrá suscribir convenios con autoridades municipales, estatales, federales y de otras entidades federativas, así como con los sectores público, privado y social, con la finalidad de implementar acciones conjuntas, programas u operativos, entre otros temas, en materia de tránsito, cultura y seguridad vial a fin de prevenir lesiones o defunciones a causa de hechos de tránsito.
 
 ###### Artículo 8.
 
@@ -416,6 +424,20 @@ X.- Las que les confiera esta Ley y demás disposiciones legales aplicables.
 ###### Artículo 17.
 
 Los Secretarios, Directores y/o Comisarios de Tránsito y Seguridad Vial Municipales tendrán las atribuciones y funciones que sean otorgadas por los Ayuntamientos en los Reglamentos o normatividad municipal aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### Artículo 17 Bis.
+
+Las autoridades estatales y municipales en materia de movilidad y seguridad vial deberán promover la participación de la sociedad en la planeación, ejecución y vigilancia de la política estatal de movilidad y seguridad vial. Para dar cumplimiento a lo que establece esta Ley, la Secretaría, en coordinación con la Secretaría de Movilidad y Transporte y los municipios, en el ámbito de sus facultades, deberán:
+
+I. Convocar a las organizaciones de los sectores social y productivo, a que manifiesten sus opiniones y propuestas en materia de movilidad y seguridad vial en el proceso de integración del programa respectivo de movilidad y seguridad vial, de conformidad con lo previsto en el presente ordenamiento;
+
+II. Celebrar convenios de concertación con organizaciones sociales y privadas especialistas en materia de movilidad y seguridad vial, con la finalidad de que brinden asesoría en proyectos e infraestructura, así como en acciones de gestión de la seguridad vial y en la realización de estudios e investigaciones en la materia para emprender acciones conjuntas;
+
+III. Difundir, publicar y mantener actualizada toda la información generada por el programa respectivo de movilidad y seguridad vial; y
+
+IV. Operar las instancias estatales, metropolitanas y municipales de participación respecto a las políticas de movilidad y seguridad vial, como espacios de deliberación entre gobiernos estatal y municipales y la sociedad civil.
 
 ## TÍTULO TERCERO. DE LA REGULACIÓN GENERAL DE TRÁNSITO Y SEGURIDAD VIAL
 
@@ -1075,9 +1097,17 @@ II.- Automovilista (Tipo B): Que autoriza a su titular a conducir motorizados de
 
 III.- Motociclista (Tipo C): Que autoriza a su titular a conducir motocicletas, motonetas y vehículos similares.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 91.
 
-Las licencias de conducir tendrán vigencia de dos o cuatro años de acuerdo a su costo de expedición, vigencia renovable a solicitud de los titulares, sin más limitación que la derivada de la suspensión o cancelación definitiva de éstas, ordenada por (sic) autoridad competente o cuando el titular haya dejado de reunir los requisitos que establece esta Ley y su Reglamento.
+Las licencias de conducir podrán ser físicas y/o digitales, tendrán vigencia de dos o cuatro años de acuerdo a su costo de expedición, vigencia renovable a solicitud de los titulares, sin más limitación que la derivada de la suspensión o cancelación definitiva de éstas, ordenada por (sic) autoridad competente o cuando el titular haya dejado de reunir los requisitos que establece esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### Artículo 91 Bis.
+
+El trámite para la renovación o reposición de la licencia de conducir podrá realizarse de forma presencial o en línea, a excepción del examen teórico práctico de conducción de vehículos motorizados, el cual será presencial.
 
 ###### Artículo 92.
 
@@ -1099,9 +1129,11 @@ V.- Tener las condiciones psicomotrices, de agudeza visual y salud mental necesa
 
 VI.- Tener los conocimientos generales de las disposiciones de esta Ley y su Reglamento, de mecánica básica, educación vial y manejo a la defensiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 93.
 
-Los documentos a que hace referencia la fracción III del artículo anterior se (sic) deberán presentarse en original y copia, siendo los siguientes:
+Los documentos a que hace referencia la fracción III del artículo anterior se (sic) deberán presentarse en original y copia o enviarse en línea a través de las plataformas habilitadas para tal efecto, siendo los siguientes:
 
 I.- Identificación oficial;
 
@@ -1728,3 +1760,11 @@ P.O. 29 DE MARZO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Poder Ejecutivo del Estado, dentro (sic) ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá prever de la esfera administrativa necesaria para el cumplimiento de este Decreto.
+
+P.O. 10 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 542 QUE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Poder Ejecutivo del Estado, dentro ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá prever de (sic) la esfera administrativa necesaria para el cumplimiento de este Decreto.
