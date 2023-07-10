@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-25-2016-del-pleno-del-consejo-de-la-114332"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-04-28"
-last_updated: "2022-12-16"
+last_updated: "2023-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114332&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,17 @@ issue_date: "2016-04-20"
 ---
 # ACUERDO GENERAL 25/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CON RESIDENCIA EN EMILIANO ZAPATA Y COATZACOALCOS] -- ANTES ACUERDO GENERAL 25/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CON RESIDENCIA EN LAS CIUDADES DE XALAPA Y COATZACOALCOS]--
 
-ACUERDO GENERAL 25/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CON RESIDENCIA EN LAS CIUDADES DE XALAPA Y COATZACOALCOS
+ACUERDO GENERAL 25/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CON RESIDENCIA EN EMILIANO ZAPATA Y COATZACOALCOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JULIO DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 28 de abril de 2016.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-ACUERDO GENERAL 25/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CON RESIDENCIA EN LAS CIUDADES DE XALAPA Y COATZACOALCOS.
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 17/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE JULIO DE 2023)</small>
+
+ACUERDO GENERAL 25/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CON RESIDENCIA EN EMILIANO ZAPATA Y COATZACOALCOS.
 
 CONSIDERANDO
 
@@ -61,9 +63,11 @@ Por lo anterior, se expide el siguiente
 
 ACUERDO
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 17/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 1.
 
-El presente Acuerdo tiene por objeto regular la organización, funcionamiento e inicio de funciones de los Centros de Justicia Penal Federal en el Estado de Veracruz de Ignacio de la Llave, con residencia en Xalapa y Coatzacoalcos.
+El presente Acuerdo tiene por objeto regular la organización, funcionamiento e inicio de funciones de los Centros de Justicia Penal Federal en el Estado de Veracruz de Ignacio de la Llave, con residencia en Emiliano Zapata y Coatzacoalcos.
 
 ###### Artículo 2.
 
@@ -73,7 +77,9 @@ Para efectos del presente Acuerdo se entenderá por:
 
 I. Administrador: Administrador del Centro de Justicia Penal Federal, en términos del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal;
 
-II. Centros: Centros de Justicia Penal Federal en el Estado de Veracruz de Ignacio de la Llave, con residencia en Xalapa y Coatzacoalcos;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 17/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE JULIO DE 2023)</small>
+
+II. Centros: Centros de Justicia Penal Federal en el Estado de Veracruz de Ignacio de la Llave, con residencia en Emiliano Zapata y Coatzacoalcos;
 
 III. Consejo: Consejo de la Judicatura Federal;
 
@@ -119,7 +125,9 @@ Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia e
 
 La jurisdicción territorial de los Centros comprenderá los municipios de (sic) Estado de Veracruz de Ignacio de la Llave de acuerdo a lo siguiente:
 
-I. Centro de Justicia Penal Federal con sede en Xalapa: los municipios que comprenden los distritos judiciales de Xalapa, Boca del Río, Córdoba, Tuxpan, Poza Rica y Villa Aldama donde se ubica el Centro Federal de Readaptación Social número Cinco Oriente, que se agrupan en el Séptimo Circuito; y
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 17/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE JULIO DE 2023)</small>
+
+I. Centro de Justicia Penal Federal con sede en Emiliano Zapata: los municipios que comprenden los distritos judiciales de Xalapa, Boca del Río, Córdoba, Tuxpan, Poza Rica y Villa Aldama donde se ubica el Centro Federal de Readaptación Social número Cinco Oriente, que se agrupan en el Séptimo Circuito; y
 
 II. Centro de Justicia Penal Federal con sede en Coatzacoalcos: los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza, que se agrupan en el Décimo Circuito.
 
@@ -127,7 +135,9 @@ II. Centro de Justicia Penal Federal con sede en Coatzacoalcos: los municipios d
 
 El domicilio de cada uno de los Centros será el ubicado en:
 
-I. Centro de Justicia Penal Federal con sede en Xalapa: Avenida Culturas Veracruzanas 120, colonia Reserva Territorial, código postal 91096, Xalapa, Veracruz de Ignacio de la Llave; y
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 17/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE JULIO DE 2023)</small>
+
+I. Centro de Justicia Penal Federal con sede en Emiliano Zapata: KM 5.5 de la carretera Xalapa-Veracruz, congregación de Trancas, municipio Emiliano Zapata, Veracruz de Ignacio de la Llave; y
 
 II. Centro de Justicia Penal Federal con sede en Coatzacoalcos: Avenida Universidad Veracruzana, kilómetro 12 (carretera antigua a Minatitlán), colonia Reserva Territorial, código postal 96535, Coatzacoalcos, Veracruz de Ignacio de la Llave.
 
@@ -810,3 +820,13 @@ CUARTO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos
 QUINTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficialía de partes del Tribunal Colegiado de Apelación del Séptimo Circuito que inicia funciones.
 
 SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de sus competencias, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 10 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 17/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 25/2016 QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CON RESIDENCIA EN LAS CIUDADES DE XALAPA Y COATZACOALCOS, ASÍ COMO EL DIVERSO 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el diez de julio de dos mil veintitrés.
+
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que el Centro de Justicia Penal Federal referido en este Acuerdo entre en operación en la fecha autorizada.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
