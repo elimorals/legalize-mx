@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-676-de-los-cuerpos-de-bomberos-del-estado-de-129985"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-20"
-last_updated: "2018-08-20"
+last_updated: "2023-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 676 DE LOS CUERPOS DE BOMBEROS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2023.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 20 de agosto de 2018.
 
@@ -55,21 +55,29 @@ De los Cuerpos de Bomberos del Estado de Veracruz de Ignacio de La Llave
 
 Las disposiciones de esta Ley son de orden público e interés general, y tienen por objeto:
 
-I. Establecer las bases para la creación, organización y funcionamiento de los Cuerpos de Bomberos del Estado de Veracruz de Ignacio de la Llave, los cuales se constituirán como un servicio público especializado y de emergencias, preponderantemente en las labores de prevención y combate de incendios, así como de apoyo en la salvaguarda de la vida, de los bienes y del entorno de la población;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-II. Definir las tareas de los Cuerpos de Bomberos del Estado de Veracruz dentro del Sistema Estatal de la Secretaria de Protección Civil;
+I. Establecer las bases para la creación, organización y funcionamiento de los Cuerpos de Bomberos en el Estado de Veracruz de Ignacio de la Llave y asociaciones civiles, los cuales se constituirán como un servicio de emergencias, en las labores de prevención y combate de incendios, así como de apoyo en labores de rescate;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+II. Definir las tareas de los Cuerpos de Bomberos del Estado de Veracruz de Ignacio de la Llave;
 
 III. Coordinar las tareas de los Cuerpos de Bomberos del Estado de Veracruz, sean asociaciones civiles o municipales, con el Sistema Estatal de Protección Civil;
 
-IV. Prever la celebración de todo tipo de convenios con organismos públicos y privados, con los diferentes sectores nacionales e internacionales, que permitan el fortalecimiento institucional para el logro de sus metas y objetivos;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+IV. Prever la celebración de todo tipo de convenios de colaboración legales con instituciones y organismos públicos y privados, y con los diferentes sectores nacionales e internacionales, que permitan el fortalecimiento institucional para el logro de sus metas y objetivos, de acuerdo a lo establecido por el Reglamento de la presente Ley;
 
 V. Establecer las reglas para el de (sic) equipamiento de los patronatos y/o asociaciones civiles de bomberos del Estado de Veracruz, con la finalidad de que puedan cumplir con sus objetivos;
 
 VI. Reconocer y dotar de recursos económicos, materiales, tecnológicos, además de infraestructura a los diversos Cuerpos de Bomberos y/o asociaciones civiles del Estado de Veracruz, bajo la figura que tengan registrada y que tengan como objeto social equipar, capacitar y mantener a referidos cuerpos de bomberos de los diferentes municipios de nuestro Estado, que a través de su representatividad contribuirá de manera fundamental en su estructura organizacional y patrimonial;
 
-VII. Procurar la salvaguarda de la vida de las personas, sus bienes y entorno, ante las manifestaciones de una emergencia, siniestro, riesgo o desastre;
+VII. (DEROGADA, P.O. 10 DE JULIO DE 2023)
 
-VIII. Auxiliar a la población en casos de emergencias originados por incendios, riesgos y desastres; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+VIII. Auxiliar a la población en casos de emergencias originados por incendios, y
 
 IX. Las demás que se prevean en esta Ley, su reglamento y demás disposiciones legales.
 
@@ -77,23 +85,31 @@ IX. Las demás que se prevean en esta Ley, su reglamento y demás disposiciones 
 
 Toda actividad que realicen los Cuerpos de Bomberos del Estado de Veracruz de Ignacio de la Llave, tendrá como criterios rectores la honradez, la capacitación, el profesionalismo, la cultura de la prevención, la lealtad a la institución y su eficacia, así como la participación responsable en el Sistema Estatal de Protección Civil, y con todos aquellos organismos públicos o privados con los que sea necesaria su relación.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 3.
 
-Toda persona tiene el derecho y la obligación de solicitar los servicios de los Cuerpos de Bomberos del Estado de Veracruz de Ignacio de la Llave, en actividades de prevención y capacitación, así como para la atención en situaciones de emergencia, riesgos, siniestros y desastre, u otras a que se refiere esta Ley.
+Toda persona tiene el derecho de solicitar los servicios de los Cuerpos de Bomberos del Estado de Veracruz de Ignacio de la Llave, para la atención en situaciones de emergencia por riesgos, siniestros y desastres en materia de incendios a que se refiere esta Ley.
 
-Los servicios a que se refiere el párrafo anterior se proporcionarán sin distinción de edad, raza, religión, género, condición económica y social, preferencias políticas o cualquiera otra que implique discriminación. Los Cuerpos de Bomberos del Estado de Veracruz de Ignacio de la Llave, así como los sistemas o programas de apoyo al mismo, tienen la obligación de denunciar las falsas llamadas ante las autoridades correspondientes con el fin de exigir a sus autores las responsabilidades a que haya lugar.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 10 DE JULIO DE 2023, PÁGINAS 4 Y 5.]</small>
 
 ###### Artículo 4.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Bombero. Servidor público miembro de un cuerpo de auxilio de alto riego, quien salvaguarda a la población y se encuentra altamente especializado sobre la prevención, atención y mitigación de los incendios, emergencias, riesgos y desastres;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+I. Bombero o bombera. Persona especializada miembro de un Cuerpo de Bomberos, que tengan por oficio extinguir incendios y prestar ayuda en otros siniestros;
 
 II. Capacitación. Es un proceso continuo de enseñanza-aprendizaje, mediante el cual se desarrollan las habilidades y destrezas de los servidores, en materia de prevención, atención y mitigación de riesgos y desastres; y las cuales les permiten un mejor desempeño en sus labores habituales.
 
-III. Desastre. Evento repentino que trastorna seriamente el funcionamiento de una comunidad o sociedad y causa pérdidas humanas, materiales, económicas o ambientales, las cuales desbordan la capacidad de la comunidad o sociedad afectada para hacer frente a la situación a través de sus propios recursos;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-IV. Emergencia Cotidiana. Evento de atención urgente y totalmente imprevisto, ya sea por causa de accidente o por un suceso inesperado;
+III. Desastre. Resultado de la ocurrencia de uno o más agentes perturbadores severos o extremos, concatenados o no, de origen natural o de la actividad humana que, cuando acontecen en un tiempo y en una zona determinada, causan daños y pérdidas que por su magnitud interrumpen el funcionamiento rutinario de la zona afectada y exceden la capacidad de respuesta de la comunidad respectiva;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+IV. Emergencia. Situación anormal que puede conducir a un daño a la sociedad y propiciar un riesgo excesivo para su seguridad e integridad, generada o asociada con la inminencia o el impacto de un agente perturbador;
 
 V. Equipo. Son todos aquellos instrumentos y materiales de seguridad, protección personal, para la extinción de incendios y para la atención a las emergencias, así como los medios de transporte y demás herramientas necesarias para el ataque y extinción de éstos;
 
@@ -103,7 +119,9 @@ VII. Estación. Instalación operativa ubicada en una región prioritaria del Es
 
 VIII. Extinción. Terminación de la conflagración por parte de la corporación que implica la no existencia de riesgo o peligro alguno para la población;
 
-IX. Falsa Alarma. Hecho repentino que pone a la población en una situación de peligro, pero que es controlada inmediatamente por la propia sociedad resultando innecesaria la intervención de algún cuerpo de bomberos (sic) corporación;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+IX. Falsa Alarma. Hecho repentino que pone a la población en una situación de peligro, pero que es controlada inmediatamente por la propia sociedad, resultando innecesaria la intervención de algún Cuerpo de Bomberos.
 
 X. Falsa llamada. Llamada de auxilio que realiza la población sobre una contingencia falsa que causa la movilización de algún cuerpo de bomberos;
 
@@ -113,59 +131,101 @@ XII. Industria. Establecimiento en el que se desarrollan actividades económicas
 
 XIII. Cuerpos de Bomberos. A los Cuerpos de Bomberos del Estado de Veracruz de Ignacio de la Llave;
 
-XIV. Mitigación. Las medidas tomadas con anticipación al siniestro y durante la emergencia, para reducir su impacto en la población, bienes y entorno;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-XV. Patronato. Organización dedicada con fines benéficos, que rige un organismo social, además vigila que la institución cumpla sus fines.
+XVI (SIC). Material peligroso. Elementos, substancias, compuestos, residuos o mezclas de ellos que, independiente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, y
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+XV. Mitigación. Toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
 
 XVI. Prevención. Acciones dirigidas a mitigar los peligros, evitando o disminuyendo el impacto destructivo de los fenómenos perturbadores sobre la vida y bienes de la población, los servicios vitales y estratégicos, la planta productiva y el medio ambiente, a través de acciones de mitigación y preparación;
 
-XVII. Reglamento. Reglamento de la Ley de los Cuerpos de Bomberos del Estado de Veracruz de Ignacio de la Llave;
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XVI, VÉASE PUBLICACION OFICIAL DE FECHA 10 DE JULIO DE 2023, PÁGINA 4.]</small>
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+XVII. Prevención. Conjunto de acciones y mecanismos implementados con antelación a la ocurrencia de los agentes perturbadores, con la finalidad de conocer los peligros o los riesgos, identificarlos, eliminarlos o reducirlos; evitar o mitigar su impacto destructivo sobre las personas, bienes e infraestructura, así como anticiparse a los procesos socia les de construcción de los mismos;
 
 XVIII. Riesgo. Es la exposición a una situación donde hay una posibilidad de sufrir un daño o de estar en peligro; se trata también de una amenaza a que ocurra un evento y sus efectos sean negativos;
 
 XIX. Siniestro. Hecho funesto, daño grave, destrucción fortuita o pérdida importante que sufren los seres humanos en su persona o en sus bienes, causados por la presencia de un riesgo, emergencia o desastre;
 
-XX. Subestación. Instalación ubicada en zona conflictiva y de difícil acceso en las demarcaciones territoriales de la entidad, que deberá contar al menos con el equipo más indispensable para hacer un primer frente a las emergencias;
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XIX, VÉASE PUBLICACION OFICIAL DE FECHA 10 DE JULIO DE 2023, PÁGINA 5.]</small>
 
-XXI. Transporte y almacenamiento de sustancias. Compuestos o desechos y sus mezclas, que contemplan las disposiciones legales aplicables y que por sus características corrosivas, tóxicas, reactivas, explosivas inflamable o biológicas infecciosas, representen un riesgo para los habitantes del Estado de Veracruz de Ignacio de la Llave y su medio ambiente, independiente del medio de transporte en que se conduzcan o almacenen; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+XX. Siniestro. Situación crítica y dañina, generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación, afectando a su población y equipo, con posible afectación a instalaciones circundantes;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+XXI. Sub-estación. Instalación dependiente de la Central de Bomberos ubicada en las demarcaciones territoriales del Estado de Veracruz de Ignacio de la Llave, la cual deberá contar al menos con el equipo indispensable para hacer un primer frente a las emergencias;
 
 XXII. Voluntario. Persona mayor de dieciocho años, que tenga interés en cooperar en su comunidad, a efecto de orientar a sus vecinos sobre la prevención de incendios, fugas, derrames y otros siniestros, fomentar la Cultura de la Protección Civil, así como actuar en caso de presentarse alguna emergencia, colaborando con las demás instancias del Sistema Estatal de Protección Civil. Los bomberos voluntarios no recibirán por ocupar ese cargo sueldo o remuneración alguna.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 5.
 
-Corresponde primordialmente a los Cuerpos de Bomberos, la verificación y la capacitación al sector público, privado y de organismos de la sociedad civil la implementación de programas de prevención y atención de los distintos tipos de incendios, así como el combate y extinción de los mismos, que se susciten en el Estado de Veracruz de Ignacio de la Llave, así como la atención de las emergencias cotidianas a que se refiere la presente Ley; y coadyuvar con los órganos antes mencionados que realicen acciones de Protección Civil y Seguridad Pública del Estado.
+Corresponde primordialmente, en la medida de lo posible, a los Cuerpos de Bomberos, la verificación y la capacitación del sector público, privado y de organismos de la sociedad civil; la implementación de programas de prevención y atención de los distintos tipos de incendios; el combate y extinción de incendios que se susciten en el Estado de Veracruz de Ignacio de la Llave; así como la atención de las emergencias a que se refiere la presente Ley, y coadyuvar con los órganos antes mencionados que realicen acciones de protección civil y seguridad pública del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 6.
 
 Los Cuerpos de Bomberos tendrán las siguientes funciones:
 
-I. Control y extinción de todo tipo de conflagraciones e incendios que por cualquier motivo se susciten en el Estado de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE JULIO DE 2023)</small>
 
-II. Desarrollar todo tipo de labores de prevención a través de dictámenes de riesgos, de aquellos establecimientos mercantiles, industrias y empresas clasificadas como de mediano o alto riesgo de incendio y las empresas de almacenamiento o transporte de materiales inflamables o peligrosos;
+I. Control y extinción de incendios que por cualquier motivo se susciten en el territorio veracruzano.
 
-III. Coadyuvar en el control y extinción de los distintos tipos de incendios en aquellas áreas determinadas por los Programas de Desarrollo Urbano del Estado de Veracruz de Ignacio de la Llave;
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
 
-IV. Control y extinción de fugas de gas y derrames de combustibles y cualquier tipo de substancia o materiales peligrosos que ponga en riesgo la integridad de las personas;
+Cuando se trate de incendios que por su origen requieran de conocimientos o equipos especiales, se coordinará con las instituciones públicas o privadas correspondientes;
 
-V. Atención a distintos tipos de explosiones provocados (sic) por los diferentes materiales peligrosos;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-VI. Atención y control de derrames de substancias o materiales peligrosos;
+II. Realizar todo tipo de labores de prevención a través de los reportes de inspección de condiciones de prevención y combate de incendios conforme al grado de riesgo de aquellos establecimientos mercantiles, industrias y empresas de almacenamiento o transporte de materiales inflamables o peligrosos; en cumplimiento a lo establecido por las normas oficiales mexicanas y el Reglamento de la Ley de Protección Civil y la Reducción del Riesgo de Desastres para el Estado de Veracruz de Ignacio de la Llave;
 
-VII. Efectuar diferentes labores de salvamento y rescate de personas vivas atrapadas, en distintas circunstancias;
+III. (DEROGADA, P.O. 10 DE JULIO DE 2023)
 
-VIII. Delimitar áreas de riesgo en caso de cables caídos o cortos circuitos, en coordinación con empresas proveedoras de energía eléctrica y el área de alumbrado público municipal;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-IX. Seccionamiento y retiro de árboles cuando provoquen situaciones de riesgo;
+IV. Colaborar con las autoridades correspondientes en el control y extinción de fugas de gas y derrames de combustibles y cualquier tipo de substancia o materiales peligrosos que pongan en riesgo la integridad de las personas;
 
-X. Llevar a cabo acciones tendientes a proteger a la ciudadanía de los peligros de la abeja africana, así como el retiro de enjambres;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-XI. Control y captura de fauna que representen riesgo para la ciudadanía;
+V. Auxiliar a las autoridades responsables en la atención a distintos tipos de explosiones provocadas por los diferentes materiales peligrosos;
 
-XII. Retiro de anuncios espectaculares caídos o que pongan en peligro la vida de la ciudadanía;
+VI. (DEROGADA, P.O. 10 DE JULIO DE 2023)
 
-XIII. Atención a colisiones de los diferentes medios de transporte;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-XIV. Realizar la verificación, supervisión y dictámenes del correcto Transporte, Almacenamiento, Utilización y Comercialización de los diversos Materiales Peligrosos;
+VII. Efectuar labores de rescate de personas con vida en situaciones de riesgo;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+VIII. Auxiliar en la delimitación de las áreas de rego (sic) en caso de cables caídos o cortos circuitos, en coordinación con las empresas proveedoras de energía eléctrica y el área de alumbrado público municipal.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+IX. Seccionar y retirar árboles colapsados cuando provoquen situaciones de riesgo;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+X. Llevar a cabo acciones tendientes a proteger a la ciudadanía de la abeja o sus enjambres cuando representen peligro para la población, en apoyo a las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+XI. Realizar captura de fauna que represente riesgo para la ciudadanía y mantener el control, en apoyo a las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+XII. Apoyar a las autoridades municipales, en el retiro de anuncios y espectaculares cuando pongan en peligro la vida de la ciudadanía;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+XIII. Auxiliar en el rescate en los casos de colisiones de los diferentes medios de transporte;
+
+XIV. (DEROGADA, P.O. 10 DE JULIO DE 2023)
 
 XV. Suscribir convenios de ayuda recíproca con otros organismos o cuerpos de bomberos del país o extranjeros, en las áreas técnicas, preventivas u operativas, según sea el caso;
 
@@ -173,47 +233,83 @@ XVI. Suscribir convenios de cooperación con organismos públicos y privados a e
 
 XVII. Realizar y participar en congresos, conferencias, foros, capacitaciones Nacionales e Internacionales para fomentar primordialmente la actualización de conocimientos y profesionalización de los Bomberos del Estado de Veracruz de Ignacio de la Llave; y
 
-XVIII. Las demás que esta ley, el reglamento o convenios le confieran de manera expresa.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+XVIII. Las demás que esta Ley y el Reglamento les confieran.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### Artículo 7.
 
-Por ningún motivo, se deberá interrumpir el servicio que presta a la población los Cuerpos de Bomberos En el supuesto de cualquier acto u omisión que ponga en riesgo la continuidad del servicio, las instancias de Gobierno podrán instrumentar las acciones pertinentes para asegurar su prestación en los términos más convenientes para la población.
+Por ningún motivo, los Cuerpos de Bomberos podrán interrumpir los servicios que prestan a la población.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+En el supuesto de cualquier acto u omisión que ponga en riesgo la continuidad del servicio, las instancias de Gobierno competentes, deberán instrumentar las acciones pertinentes para asegurar su prestación en los términos más convenientes para la población.
 
 ## TÍTULO II. De las Instancias Administrativas, Operativas, De Consulta y de Apoyo
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 8.
 
-Los Cuerpos de Bomberos del Estado podrán conformarse de acuerdo a la capacidad presupuestal de cada Ayuntamiento, o de cualquier otra figura jurídica que permita su operatividad.
+Los Cuerpos de Bomberos del Estado de Veracruz de Ignacio de la Llave, podrán conformarse de acuerdo a la capacidad presupuestal de cada Ayuntamiento, y bajo cualquier figura jurídica que permita su operatividad.
 
-### CAPÍTULO II. De las Comandancias de Estación y Subestación
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+Serán sujetos de los derechos establecidos en la presente Ley y su Reglamento, los Cuerpos de Bomberos que se encuentren registrados ante la Secretaría de Protección Civil del Estado de Veracruz de Ignacio de la Llave y, que en su caso, estén adscritos a los Ayuntamientos de la Entidad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JULIO DE 2023)</small>
+
+### CAPÍTULO II. De las Comandancias y Jefaturas de Estación y Sub-estación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### Artículo 9.
 
-En cada región prioritaria del Estado de Veracruz de Ignacio de la Llave, podrán instalarse las Estaciones o Subestaciones necesarias de conformidad con lo que disponga el reglamento de la presente Ley.
+En cada región del Estado de Veracruz de Ignacio de la Llave, podrán instalarse las Comandancias y Jefaturas de Estaciones o Sub-estaciones necesarias.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+Para las instalaciones a que se refieren en el párrafo que antecede, deberá observarse la regionalización que establezca la Secretaría de Protección Civil del Estado de Veracruz de Ignacio de la Llave, conforme a la Ley de Protección Civil del Estado de Veracruz de Ignacio de la Llave, conforme a la Ley de Protección Civil y la Reducción del Riesgo de Desastres para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### Artículo 10.
 
-Los Comandantes y Subcomandantes de Estación y Subestación tendrán las siguientes facultades y obligaciones:
+Las Comandancias de Estación y Sub-estación tendrán las siguientes facultades y obligaciones:
 
-I. Dirigir las acciones de prevención, atención y mitigación de siniestros que puedan presentarse en su radio de operación;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-II. Brindar el apoyo a su alcance cuando se presenten siniestros fuera de su radio de operación y cuya magnitud requiera la atención concurrente de las distintas instancias del Sistema Estatal de Protección Civil;
+I. Dirigir las acciones de prevención, atención y mitigación de siniestros y desastres en materia de incendios que puedan presentarse en su radio de operación ;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+II. Brindar el apoyo, conforme a su capacidad operativa , y a solicitud de la Comandancia de Bomberos del lugar, cuando se presenten incendios fuera de su radio de operación y cuya magnitud requiera la atención concurrente de las distintas instancias del sistema Estatal de Protección Civil;
 
 III. Realizar los reportes de las actividades que se lleven a cabo durante su guardia, de manera clara y concreta para que se incorporen a la Bitácora de los Cuerpos de Bomberos y que servirán de base para la elaboración de los informes;
 
-IV. Supervisar el buen funcionamiento y correcto mantenimiento de la Estación o Subestación que se encuentre bajo su cargo, así como del equipo que en ella se encuentre;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-V. Elaborar el Atlas de Riesgos de su radio de operación, a efecto de tomar las medidas preventivas pertinentes e informar lo conducente al Director Operativo;
+IV. Supervisar el buen funcionamiento y correcto mantenimiento de la Estación o Subestación que se encuentre bajo su cargo, así como del equipo que en esa se encuentre;
 
-VI. Durante la prestación de los servicios, estar en permanente comunicación con el Subdirector Operativo, a efecto de que se cumpla con los lineamientos que éste emita en materia de prevención, ataque, control y extinción de incendios, fugas y demás emergencias cotidianas;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+V. Solicitar a la Secretaría de Protección Civil del Estado de Veracruz de Ignacio de la Llave, el Atlas de Riesgos de su radio de operación, a efecto de tomar las medidas preventivas pertinentes e informar lo conducente a la o el comandante en jefe;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+VI. Estar, durante la prestación de los servicios, en permanente comunicación con las instituciones públicas y privadas competentes, a efecto de que se cumpla con la normatividad en materia de prevención, ataque, control, extinción de incendios y demás emergencias;
 
 VII. Propiciar un marco de respeto e institucionalidad entre el personal a su cargo, con el cumplimiento del reglamento interno de disciplina;
 
 VIII. No interrumpir el servicio a la población bajo ningún supuesto;
 
-IX. Coordinar y dirigir las actividades de los oficiales adscritos a la Estación o Subestación a su cargo; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+IX. Coordinar y dirigir las actividades del personal adscrito a la Estación o Sub-estación a su cargo, y
 
 X. Las demás que les sean conferidas por esta Ley y otros ordenamientos.
 
@@ -225,9 +321,13 @@ X. Las demás que les sean conferidas por esta Ley y otros ordenamientos.
 
 El patrimonio de los Cuerpos de Bomberos se integrará por los siguientes recursos:
 
-I. Por aquellos que el Gobierno del Estado de Veracruz les asigne de acuerdo a su capacidad presupuestal;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-II. Subsidios, donaciones y demás aportaciones estatales o federales que el propio Gobierno del Estado de Veracruz otorgue de acuerdo con su capacidad presupuestal;
+I. Por aquellos que los Ayuntamientos del Estado de Veracruz de Ignacio de la Llave les asignen dentro de su presupuesto anual de egresos, conforme a lo señalado en el Artículo 72, fracción XXV de la Ley Orgánica del Municipio Libre, y el Artículo 3 de la Ley de Protección Civil y la Reducción del Riesgo de Desastres para el Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+II. Subsidios, donaciones y demás aportaciones estatales que el Gobierno del Estado de Veracruz de Ignacio de la Llave, otorgue con su capacidad presupuestal;
 
 III. Donaciones y demás aportaciones voluntarias, herencias, legados, transferencias y demás liberalidades que las personas físicas, morales o cualquier organismo nacional o extranjero hagan a los Cuerpos de Bomberos;
 
@@ -235,47 +335,63 @@ IV. Los derechos, rendimientos, recuperaciones, intereses y demás ingresos que 
 
 V. Todas aquellas aportaciones que haga el Patronato; y
 
-VI. Cualquiera otra percepción respecto de la cual los Cuerpos de Bomberos resulten beneficiados.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+VI. Cualquiera otra percepción legal de la cual los Cuerpos de Bomberos resulten beneficiados, mismas que se preverán en el Reglamento de la presente Ley;
 
 ### CAPÍTULO II. Del Presupuesto
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 12.
 
-El presupuesto de los Cuerpos de Bomberos que en su caso corresponda se determinará en el Presupuesto Anual de Egresos que apruebe el Ayuntamiento respectivo.
+Los presupuestos de los Cuerpos de Bomberos adscritos a los ayuntamientos se determinarán en los presupuestos de egresos que aprueben los ayuntamientos respectivos, conforme a lo establecido en el artículo 11 fracción I de esta Ley.
 
 ###### Artículo 13.
 
-Toda clase de aportaciones que reciban de los particulares los Cuerpos de Bomberos durante un año, se podrán aplicar trimestralmente en el ejercicio fiscal siguiente, de manera que se pueda programar el ejercicio de dichos ingresos sin que se paralice su administración y de manera que permita hacer frente a situaciones inesperadas.
+(DEROGADO, P.O. 10 DE JULIO DE 2023)
 
 ## TÍTULO IV. De la Condición de Bombero
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 14.
 
-Bombero es el servidor público, miembro de los Cuerpos de Bomberos de apoyo para la salvaguarda de la población y encargado de la prevención, control, mitigación y extinción de incendios, emergencias y siniestros previstos por esta Ley, quien bajo ninguna circunstancia podrá ser utilizado como elemento con funciones de disuasión o de coerción contra la ciudadanía.
+Los Cuerpos de Bomberos bajo ninguna circunstancia podrán ser utilizados como elementos con funciones de disuasión o de coerción contra la población.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### Artículo 15.
 
-El servicio a la comunidad, y la disciplina, así como el respeto a los derechos humanos y la salvaguarda de la integridad física y del patrimonio de la población son principios normativos que los miembros de los heroicos cuerpos de bomberos deben observar invariablemente en su actuación.
+El servicio a la comunidad y la disciplina, así como el respeto a los derechos humanos y la salvaguarda de la integridad física y del patrimonio de la población son principios fundamentales de quienes integran los Cuerpos de Bomberos, deberán observar invariablemente en su actuación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### Artículo 16.
 
-Los miembros de los Cuerpos de Bomberos tendrán las siguientes obligaciones:
+Quienes integran los cuerpos de bomberos tendrán las siguientes obligaciones:
 
 I. Acatar las instrucciones de sus superiores jerárquicos, que le permitan cumplir con las tareas inherentes a su encargo;
 
-II. Comportarse de manera respetuosa y atenta con sus superiores, compañeros y con la población en general;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+II. Comportarse de manera respetuosa y atenta con sus superiores, compañeras, compañeros y con la población en general;
 
 III. Asistir a los cursos de especialización que sean impartidos para tal efecto;
 
 IV. Portar los distintivos que acrediten su nivel, así como portar el uniforme que les podrá ser asignado, con pulcritud y elegancia; quedando prohibido usar el uniforme fuera de su servicio;
 
-V. Velar por el cumplimiento de las disposiciones de esta Ley, su Reglamento y el Reglamento de Lealtad y Disciplina;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+V. Velar por el cumplimiento de las disposiciones de esta Ley, su Reglamento y la normatividad aplicable a los Cuerpos de Bomberos;
 
 VI. Poner a disposición de las autoridades competentes los bienes recuperados durante la extinción de incendios y todo tipo de siniestros;
 
 VII. Conservar en óptimas condiciones el equipo que le sea dado, así como utilizarlo de manera adecuada debiendo reportar cualquier daño o pérdida del equipo; mismo que quedará bajo su resguardo.
 
-VIII. Transmitir sus conocimientos a los demás miembros de los Cuerpos de Bomberos;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+VIII. Transmitir sus conocimientos a los demás integrantes de los Cuerpos de Bomberos;
 
 IX. Someterse a los exámenes médicos que les sean requeridos, a través de las instituciones públicas o privadas de salud con quienes tengan celebrados convenios;
 
@@ -285,7 +401,9 @@ XI. Abstenerse de disponer de cualquier equipo de seguridad, protección o extin
 
 XII. Entregar el equipo de trabajo al siguiente turno, debiendo informar por escrito, mediante acta, si lo entregase con algún deterioro, para efectos de deslindar responsabilidades administrativas; y
 
-XIII. Las demás que resulten del cumplimiento de esta Ley.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+XIII. Las demás que resulten del cumplimiento de esta Ley, su Reglamento y demás ordenamientos aplicables.
 
 ###### Artículo 17.
 
@@ -307,43 +425,53 @@ Los Cuerpos de Bomberos podrán de acuerdo a su disponibilidad presupuestal, oto
 
 ### CAPÍTULO I. De la Disciplina y Los Niveles
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 18.
 
-Las sanciones por el incumplimiento de esta Ley por parte de los miembros de los Cuerpos de Bomberos, estarán determinados, en su caso, por las disposiciones jurídicas aplicables, así como por el Reglamento de Lealtad y Justicia.
+Las sanciones por el incumplimiento de esta Ley, por parte de los integrantes de los Cuerpos de Bomberos, estarán determinadas por el Reglamento de la presente Ley y la normatividad aplicable a los Cuerpos de Bomberos.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### Artículo 19.
 
-Los salarios que perciba el personal de los Cuerpos de Bomberos serán de conformidad con la capacidad presupuestal del contratante que corresponda. Podrá ser miembro o no de los patronatos y/o asociaciones civiles sin que esto los limite a que en la prestación de sus servicios profesionales sean remunerados.
+Los salarios que llegara a percibir el personal de los cuerpos de Bomberos serán conforme a la capacidad presupuestal del contratante, las cuales preferentemente deberán considerar la preparación especializada que demuestren.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### Artículo 20.
 
-De acuerdo a la capacidad presupuestal de los Cuerpos de Bomberos y técnica de su personal operativo los niveles podrán ser los siguientes:
+De acuerdo a la capacidad presupuestal y técnica de su personal operativo de los Cuerpos de Bomberos, los niveles jerárquicos podrán ser los siguientes:
 
-I. Comandante en Jefe; Director de área
+I. Comandancia en Jefe;
 
-II. Director Operativo; Sub Director;
+II. Segunda Comandancia;
 
-III. Comandante; Comandante de Estación o Sub Estación.; (sic)
+III. Jefatura de área;
 
-IV. Suboficial; Sub Comandante;
+IV. Jefatura de turno;
 
-V. Bombero Primero;
+V. Especialista, y
 
-VI. Bombero Segundo;
+VI. Bomberas y bomberos.
 
-VII. Bombero Tercero; y
-
-VIII. Bombero Razo;
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### Artículo 21.
 
-Para prestar un servicio óptimo en cada Estación o Sub Estación de Bomberos podrá existir la siguiente estructura de organización:
+Para prestar un servicio óptimo en cada Estación o Sub-estación de Bomberos podrá existir la siguiente estructura de organización:
 
-I. Un Comandante de Estación de Bomberos;
+I. Comandancia en Jefe;
 
-II. Sub Comandante, responsable de Servicio por Turno, mismo que tendrá el nivel de Suboficial; y
+II. Segunda Comandancia;
 
-III. Tropa adscrita a la Estación (bomberos primero, segundo, tercero, etc.
+III. Jefatura de área;
+
+IV. Jefatura de turno;
+
+V. Especialista, y
+
+VI. Bomberas y bomberos.
 
 ### CAPÍTULO II. De las Instrucciones y Reportes
 
@@ -351,23 +479,39 @@ III. Tropa adscrita a la Estación (bomberos primero, segundo, tercero, etc.
 
 Se entiende por instrucción aquella indicación para ser cumplida que se emite para el logro de los fines propios de una institución organizada como es el caso de los Cuerpos de Bomberos
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 23.
 
-Toda instrucción para prestar algún servicio deberá expedirla el superior inmediato por escrito a su personal; en ella se contendrá la propuesta de tratamiento a la emergencia, y sólo cuando las circunstancias lo impidan, podrá expedirse verbalmente en presencia de dos testigos del propio.
+Toda instrucción para la prestación de servicio de los Cuerpos de Bomberos, deberá ser ordenada, de manera expedita por el responsable de la Estación o Sub-estación.
 
 ### CAPÍTULO III. De las Instalaciones
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 24.
 
-El Gobierno del Estado de Veracruz o los Ayuntamientos podrán desincorporar a favor de los Cuerpos de bomberos, inmuebles en los que puedan ser instaladas Estaciones o Subestaciones o aquellos que sean necesarios para la capacitación, el desarrollo personal y el esparcimiento de los miembros de los cuerpos de bomberos
+El Gobierno del Estado de Veracruz de Ignacio de la Llave o los Ayuntamientos podrán desincorporar a favor de los Cuerpos de Bomberos, inmuebles destinados a la instalación de Estaciones, Sub-estaciones o necesarios para la capacitación y esparcimiento de sus integrantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### Artículo 25.
 
-Los inmuebles de los H. cuerpo de bomberos, deberán estar ubicados en lugares estratégicos que permitan acudir rápidamente a los siniestros. Cada región prioritaria del Estado podrá contar con una Estación y con aquellas Subestaciones que sean necesarias para afrontar las emergencias en zonas de alto riesgo.
+La Estaciones y Sub-estaciones de los Cuerpos de Bomberos, deberán estar ubicados preferentemente en lugares estratégicos que permitan acudir rápidamente a combatir los incendios, así como apoyar acciones de protección civil.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+Cada región prioritaria del Estado de Veracruz de Ignacio de la Llave, podrá contar con una Estación y con aquellas Sub-estaciones que sean necesarias para afrontar las emergencias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### Artículo 26.
 
-Las Estaciones deberán contar con el equipo suficiente para controlar una emergencia y prestar apoyos a las demás Estaciones.
+La (sic) Estaciones y Sub-estaciones deberán contar con una infraestructura adecuada y con los equipos necesarios para brindar los servicios de prevención y atención de emergencias, preponderantemente de, prevención y combate de incendios, así como de apoyo en acciones de protección civil.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+Al respecto, en el Reglamento de la presente Ley, se determinará el equipo básico con el que deberán contar los Cuerpos de Bomberos según su clasificación.
 
 ###### Artículo 27.
 
@@ -381,11 +525,15 @@ Las Subestaciones son las que cuentan con el equipo mínimo que permite hacer un
 
 Se denominará bombero voluntario a la persona mayor de dieciocho años, que tenga interés en cooperar en su comunidad, a efecto de orientar a sus vecinos sobre la prevención de incendios, fugas, derrames y otros siniestros, fomentar la Cultura de la Protección Civil, así como actuar en caso de presentarse alguna emergencia, colaborando con las demás instancias del Sistema Estatal de Protección Civil. Los bomberos voluntarios no recibirán por ocupar ese cargo sueldo o remuneración alguna.
 
-### CAPÍTULO II. De la Capacitación para Niños y Jóvenes Bomberos Voluntarios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JULIO DE 2023)</small>
+
+### CAPÍTULO II. De la Capacitación para Niñas, Niños, Adolescentes y Personas Adultas Mayores
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### Artículo 29.
 
-Con el propósito de implementar en el Estado de Veracruz una Cultura en materia de prevención de siniestros, los Cuerpos de Bomberos podrán instrumentar un programa permanente de capacitación para la prevención de incendios, fugas, derrames, dirigido a niños y jóvenes de la ciudad a quienes se les darán cursos básicos para que prevean situaciones de peligro y aprendan a denunciarlas.
+Con el propósito de contribuir e impulsar la cultura de la protección civil y la reducción del riesgo de desastres, los Cuerpos de Bomberos podrán instrumentar programas de capacitación para la prevención y mitigación de riesgos de incendio, dirigidos a niñas, niños, adolescentes y adultos mayores, a quienes se les impartirán cursos básicos que proporcionen conocimientos y habilidades para que prevean situaciones de riesgo y aprendan a denunciarlas ante las autoridades competentes.
 
 ## TÍTULO VII
 
@@ -393,21 +541,29 @@ De la cooperación que deben los particulares a los Cuerpos de Bomberos y las re
 
 ### CAPÍTULO ÚNICO. Obligaciones de los Particulares
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 30.
 
-Las intervenciones de los servicios que prestan los Cuerpos de Bomberos, se entenderán justificadas en todo caso, cuando existieren situaciones de siniestro o de calamidad colectiva susceptibles de ocasionar riesgo inminente para la integridad o tranquilidad de las personas, o daños graves en los bienes de dominio público o privado y aunque, con motivo u ocasión de tales intervenciones, se consideren lesionados derechos individuales o hubiere que producir perjuicios patrimoniales a ciudadanos.
+En las intervenciones de los servicios que prestan los Cuerpos de Bomberos, se entenderán justificadas, cuando existieren situaciones de emergencia susceptibles de ocasionar riesgo inminente para la integridad o tranquilidad de las personas o daños graves en los bienes del dominio público o privado, aunque, con motivo y ocasión de tales intervenciones, se consideran lesionados derechos o hubiere que producir perjuicios patrimoniales a la ciudadanía.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### Artículo 31.
 
-Los particulares están obligados a prestar ayuda sin restricciones a los miembros de los Cuerpos de Bomberos cuando se encuentren prestando servicio, aún en los casos en los que por las situaciones de emergencia específicas tengan que causarse daños al patrimonio de terceros, quienes podrán reclamar la reparación de los daños a quien haya resultado causante del origen de la emergencia.
+Los particulares están obligados a prestar ayuda sin restricciones a los integrantes de los Cuerpos de Bomberos, cuando se encuentren prestando servicio, aún en los casos en los que por las situaciones de emergencia específicas tengan que causarse daños al patrimonio de terceros, quienes podrán reclamara (sic) la reparación de los daños a quien haya resultado causante del origen de la emergencia.
 
 ## TÍTULO VIII. Del Patronato de Bomberos del Estado de Veracruz
 
 ### CAPÍTULO I. De la Misión de los Patronatos
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 32.
 
-El Patronato de Bomberos del Estado de Veracruz es el órgano integrado con representantes del sector público, privado y social que tiene como propósito coadyuvar en la integración del patrimonio de los Cuerpos de Bomberos. Su desempeño está basado en los principios de transparencia, certidumbre, honestidad, filantropía y corresponsabilidad.
+Los Patronatos de los Cuerpos de Bomberos son el órgano integrado con representantes del sector público, privado y social que tiene como propósito coadyuvar en la integración del patrimonio de los Cuerpos de Bomberos.
+
+….. (SIC)
 
 ###### Artículo 33.
 
@@ -419,9 +575,11 @@ El Patronato organizará campañas de donación, colectas, rifas, sorteos y otra
 
 ### CAPÍTULO II. Del Funcionamiento del Patronato
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### Artículo 35.
 
-El cargo como integrante del Patronato de los Cuerpos de Bomberos del Estado de Veracruz es honorario.
+El cargo como integrante de cualquier Patronato de los Cuerpos de Bomberos es honorifico, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
 
 ###### Artículo 36.
 
@@ -480,3 +638,15 @@ Miguel Ángel Yunes Linares
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 478 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS CUERPOS DE BOMBEROS DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entra en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Reglamento de la Ley deberá emitirse en un plazo no mayor de 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
