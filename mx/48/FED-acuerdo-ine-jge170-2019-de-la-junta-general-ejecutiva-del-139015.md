@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-jge170-2019-de-la-junta-general-ejecutiva-del-13901
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-11-06"
-last_updated: "2019-11-06"
+last_updated: "2023-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139015&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2019-10-16"
 
 EXTRACTO DEL ACUERDO INE/JGE170/2019, DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL MANUAL DE ORGANIZACIÓN ESPECÍFICO DE LA DIRECCIÓN JURÍDICA DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LA ACTUALIZACIÓN DEL MANUAL DE ORGANIZACIÓN ESPECÍFICO DE LA DIRECCIÓN JURÍDICA DEL INSTITUTO NACIONAL ELECTORAL PUBLICADO EN EL D.O.F. DE 10 DE JULIO DE 2023, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JULIO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 6 de noviembre de 2019.
 
@@ -64,3 +66,31 @@ INE Manual:
 https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/112657/JGEex201909-19-ap-8-1-a1.pdf
 
 Ciudad de México, a 16 de octubre de 2019.- El Director Ejecutivo de Administración, Bogart Montiel Reyna.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE JULIO DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL EXTRACTO DEL ACUERDO INE/JGE49/2023 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN ESPECÍFICO DE LA DIRECCIÓN JURÍDICA DEL INSTITUTO NACIONAL ELECTORAL, APROBADO MEDIANTE ACUERDO INE/JGE170/2019.]</small>
+
+PRIMERO.- Se aprueba la actualización del Manual de Organización Específico de la Dirección Jurídica, aprobado mediante acuerdo INE/JGE170/2019, el cual se anexa al presente acuerdo y forma parte integrante del mismo, junto con su Dictamen Técnico.
+
+SEGUNDO.- El presente Manual entrará en vigor al día siguiente de su aprobación por la Junta General Ejecutiva.
+
+(…)
+
+QUINTO.- Publíquese el presente acuerdo en la Gaceta Electoral, NormaINE y en el portal de internet del Instituto Nacional Electoral, así como un extracto del mismo, con la liga electrónica para la ubicación del anexo en el Diario Oficial de la Federación.
+
+El presente Acuerdo fue aprobado en sesión extraordinaria de la Junta General Ejecutiva celebrada el 24 de febrero de 2023, por votación unánime, (…) El Consejero Presidente del Consejo General y Presidente de la Junta General Ejecutiva del Instituto Nacional Electoral, Dr. Lorenzo Córdova Vianello. - Rúbrica. - El Secretario Ejecutivo y Secretario de la Junta General Ejecutiva del Instituto Nacional Electoral, Lic. Edmundo Jacobo Molina. - Rúbrica.
+
+El acuerdo completo y sus anexos que forman parte del mismo se encuentran disponibles para su consulta en las siguientes direcciones electrónicas:
+
+DOF: www.dof.gob.mx/2023/INE/JGEext202302_24_ap_6_1.pdf
+
+INE Acuerdo:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/149933/JGEex202302-24-ap-6-1.pdf
+
+Manual de Organización Especifico:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/149933/JGEex202302-24-ap-6-1-M.pdf
