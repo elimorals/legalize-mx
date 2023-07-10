@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2023-06-19"
+last_updated: "2023-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JULIO DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -1199,7 +1199,9 @@ XXXIV. El Centro de Justicia Penal Federal en el Estado de Tlaxcala, con residen
 
 XXXV. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en Coatzacoalcos.
 
-XXXVI. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en la ciudad de Xalapa.
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 17/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE JULIO DE 2023)</small>
+
+XXXVI. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en Emiliano Zapata.
 
 XXXVII. El Centro de Justicia Penal Federal en el Estado de Yucatán, con residencia en Mérida, Yucatán.
 
@@ -1267,9 +1269,9 @@ VIII. Centro de Justicia Penal Federal en el Estado de Tamaulipas, con sede en R
 
 IX. Centro de Justicia Penal Federal en el Estado de Veracruz, con sede en Coatzacoalcos: cuya jurisdicción territorial comprenderá los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza de dicho Estado;
 
-> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 17/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE JULIO DE 2023)</small>
 
-X. Centro de Justicia Penal Federal en el Estado de Veracruz, con sede en la ciudad de Xalapa: cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios que integran la misma con excepción de los señalados en la fracción anterior;
+X. Centro de Justicia Penal Federal en el Estado de Veracruz, con sede en Emiliano Zapata: cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios que integran la misma con excepción de los señalados en la fracción anterior;
 
 XI. Todos los Centros de Justicia Penal Federal, además de los asuntos que les correspondan por su jurisdicción territorial conocerán de aquellos que deriven de procesos penales seguidos por delitos cometidos en el resto del territorio nacional, a que se refieren los artículos 42 y 48 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -10564,3 +10566,13 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. El Tribunal Colegiado de Apelación del Cuarto Circuito, con residencia en Cadereyta, deberá publicar avisos en lugares visibles para conocimiento del público, en relación con su cambio de residencia y domicilio dispuesto en el presente Acuerdo.
 
 CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado del Tribunal Colegiado de Apelación del Cuarto Circuito a su nuevo domicilio.
+
+D.O.F. 10 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 17/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 25/2016 QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CON RESIDENCIA EN LAS CIUDADES DE XALAPA Y COATZACOALCOS, ASÍ COMO EL DIVERSO 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el diez de julio de dos mil veintitrés.
+
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que el Centro de Justicia Penal Federal referido en este Acuerdo entre en operación en la fecha autorizada.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
