@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2023-03-29"
+last_updated: "2023-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 JULIO DE 2023.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -411,7 +411,7 @@ El Gobierno del Estado organizará el sistema penal, sobre la base del trabajo, 
 
 La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de 500 días, salvo en los casos que la propia ley prevea.
 
-El día multa equivale a la percepción neta diaria del inculpado en el momento de cometer el delito, tomando en cuenta todas sus percepciones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 JULIO DE 2023)</small>
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -1499,7 +1499,9 @@ ARTICULO 141 TER. Se duplicará la punibilidad que corresponda al delito de lesi
 
 Al que dolosamente lesione a sus ascendientes o descendientes consanguíneos o los colaterales hasta el segundo grado, a su cónyuge, concubino, padrastro, hijastro, adoptante o adoptado, con conocimiento de ese parentesco o relación, se aumentará una tercera parte a la punibilidad que le corresponda por la lesión inferida.
 
-El mismo aumento en la punibilidad se aplicará, cuando las lesiones sean inferidas a un menor de edad o a un incapaz, si éstos estuvieren sujetos a la patria potestad, tutela o custodia del autor; adicionalmente, podrá imponérsele la privación o suspensión de tales derechos de familia hasta por el máximo de la pena de prisión impuesta.
+> <small>(REFORMADO, P.O. 10 JULIO DE 2023)</small>
+
+El mismo aumento en la punibilidad se aplicará, cuando las lesiones sean inferidas a un menor de edad o a una persona en situación de discapacidad, si éstos estuvieren sujetos a la patria potestad, tutela o custodia del autor; adicionalmente, podrá imponérsele la privación o suspensión de estos derechos de familia hasta por el máximo de la pena de prisión impuesta.
 
 Cuando las lesiones a que se refiere este artículo sean inferidas de manera habitual o reiterada, se aplicará el doble de la punibilidad que corresponda.
 
@@ -2544,6 +2546,10 @@ El que, con ánimo de lucro, obligare a otro, con violencia o intimidación, a r
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 1999)</small>
 
 Cuando el autor o partícipe sea servidor público o miembro de alguna corporación policial o agente de seguridad de empresa privada prestadora de ese servicio, en ejercicio de sus funciones, la punibilidad se aumentará dos terceras partes; adicionalmente, se le privará de su cargo y se le inhabilitará para desempeñar otro hasta por el máximo de la pena privativa de libertad.
+
+> <small>(ADICIONADO, P.O. 10 JULIO DE 2023)</small>
+
+Se aumentará en una mitad la punibilidad que corresponda, cuando en la comisión del delito de extorsión, se utilice la vía telefónica, correo electrónico, redes sociales, aplicaciones móviles u otro medio de comunicación electrónica, radial o satelital.
 
 ### CAPITULO XI. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA EL PATRIMONIO
 
@@ -3927,9 +3933,9 @@ XXXII.- De a conocer a quien no tenga derecho, los documentos, constancias o inf
 
 XXXIII.- Desvíe u obstaculice la investigación del hecho delictuoso de que se trate o favorezca que el imputado se sustraiga de la acción de la justicia.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 10 JULIO DE 2023)</small>
 
-Se aplicará el doble de la punibilidad que corresponda, al servidor público que incurra en el supuesto previsto en la fracción VII de este artículo, tratándose de la investigación de los delitos previstos en los Artículos 139 bis, 141 bis y 202 bis; inhabilitándose además al responsable para desempeñar cualquier otro cargo o comisión dentro del servicio público por un periodo igual al de la pena de prisión impuesta.
+Se aplicará el doble de la punibilidad que corresponda, al servidor público que incurra en el supuesto previsto en la fracción VII de este artículo, tratándose de la investigación de los delitos previstos en los Artículos 139 bis y 141 bis, así como los delitos contra la libertad y el normal desarrollo psicosexual cuando la víctima sea una persona menor de edad o incapaz de comprender el significado del hecho o no tenga la posibilidad de resistirlo; inhabilitándose además al responsable para desempeñar cualquier otro cargo o comisión dentro del servicio público por un periodo igual al de la pena de prisión impuesta.
 
 ARTICULO 322 BIS. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -4023,7 +4029,7 @@ ARTICULO 349 NONIES.- La reducción de las penas por los delitos previstos en es
 
 A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo el dictamen técnico favorable emitido por la autoridad ambiental competente.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 JULIO DE 2023)</small>
 
 ###### ARTICULO 325.
 
@@ -4059,11 +4065,11 @@ Cuando la evasión de presos la propicien dos o más personas, la punibilidad pr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
-### CAPÍTULO III TER. DELITOS EN CONTRA DE LOS ANIMALES
+### CAPÍTULO III TER. DELITOS CONTRA LA VIDA, INTEGRIDAD Y DIGNIDAD DE LOS ANIMALES
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 10 JULIO DE 2023)</small>
 
-ARTICULO 349 DECIES.- Al que dolosamente realice actos de maltrato o crueldad en contra de animales domésticos o ferales, causándoles lesiones se le impondrá de 3 meses a 1 año de prisión de prisión (sic) y multa de 25 a 50 Unidades de Medida y Actualización; en caso de que las lesiones causen la muerte al animal doméstico o feral, se impondrá de 6 meses a 2 años de prisión y multa de 50 a 150 Unidades de Medida y Actualización.
+ARTÍCULO 349 DECIES.- Al que dolosamente realice actos de maltrato o crueldad en contra de animales domésticos o ferales, causándoles lesiones, se le impondrá de 3 meses a 1 año de prisión y multa de 25 a 50 Unidades de Medida y Actualización; la punibilidad señalada se aumentará en una mitad, si las lesiones ponen en peligro la vida del animal; en caso de que las lesiones causen la muerte al animal doméstico o feral, se impondrá de 6 meses a 2 años de prisión y multa de 50 a 150 Unidades de Medida y Actualización.
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MARZO DE 2023)</small>
 
@@ -4491,9 +4497,9 @@ I. El activo del delito se valga de la homonimia, parecido físico o similitud d
 
 II. Sea cometido por una persona servidora pública aprovechándose de la información a la que tenga acceso con motivo de sus funciones.
 
-> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 JULIO DE 2023)</small>
 
-III. El sujeto activo del delito tenga licenciatura, ingeniería o cualquier otro grado académico en el rubro de informática, computación o telemática.
+III. El sujeto activo del delito tenga conocimientos en el rubro de informática, computación o telemática y los utilice para la comisión del delito.
 
 ## TRANSITORIOS
 
@@ -4862,3 +4868,9 @@ P.O. 29 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 299 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 540 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
