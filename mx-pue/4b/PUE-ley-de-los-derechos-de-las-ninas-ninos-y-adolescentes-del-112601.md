@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-06-26"
+last_updated: "2023-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -53,7 +53,9 @@ LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
 La presente Ley es de orden público, interés social y de observancia general en el Estado de Puebla y tiene por objeto:
 
-I. Reconocer a las niñas, niños y adolescentes como titulares de derechos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad, garantizando en todo tiempo el pleno ejercicio, protección y promoción de sus derechos humanos;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+I. Reconocer a las niñas, niños y adolescentes como titulares de derechos, con capacidad de goce de los mismos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad, garantizando en todo tiempo el pleno ejercicio, protección y promoción de sus derechos humanos en los términos que establece el artículo 1°. de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Crear el Sistema Estatal y Municipal de Protección Integral de los derechos de niñas, niños y adolescentes;
 
@@ -81,9 +83,9 @@ III. Establecer mecanismos transparentes de seguimiento y evaluación de la impl
 
 IV. Atender, denunciar y sancionar el abuso, desatención, maltrato o violencia física, psicológica o sexual o de cualquier otro tipo generada en contra de niñas, niños y adolescentes.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
 
-El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones, medidas, actuaciones, procedimientos, conductas, propuestas, servicios y demás iniciativas sobre una cuestión debatida que involucre niñas, niños y adolescentes. Asimismo, se debe de considerar la opinión de las niñas, niños y adolescentes en cualquier decisión que les afecte, y se acentúe la obligación del juez(a) de examinar las circunstancias específicas de cada asunto para poder llegar a una solución estable, justa, equitativa y que no produzca afectaciones psicológicas especialmente para las niñas, niños o adolescentes. Cuando se presenten diferentes interpretaciones, se atenderá a lo establecido en la Constitución y en los tratados internacionales de la materia, de los que México forma parte, eligiendo la opción que garantice la protección más amplia y efectiva de este principio rector.
+El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones, medidas, actuaciones, procedimientos, conductas, propuestas, servicios y demás iniciativas sobre una cuestión debatida que involucre niñas, niños y adolescentes. Asimismo, se debe de considerar la opinión de las niñas, niños y adolescentes en cualquier decisión que les afecte, y se acentúe la obligación de la persona juzgadora de examinar las circunstancias específicas de cada asunto para poder llegar a una solución estable, justa, equitativa y que no produzca afectaciones psicológicas especialmente para las niñas, niños o adolescentes. Cuando se presenten diferentes interpretaciones, se atenderá a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano es parte.
 
 Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
 
@@ -103,7 +105,9 @@ III. La igualdad sustantiva;
 
 IV. El vivir en familia, como espacio primordial de desarrollo y bienestar;
 
-V. El tener una vida libre de violencia;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+V. El acceso a una vida libre de violencia;
 
 VI. La corresponsabilidad de los miembros de la familia, Estado y sociedad;
 
@@ -129,13 +133,17 @@ XV. La accesibilidad;
 
 XVI. La transversalidad en la legislación, políticas públicas, actividades administrativas, económicas y culturales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-XVII. Principio de mínima intervención en procedimientos judiciales, y
+XVII. Principio de mínima intervención en procedimientos judiciales;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2023)</small>
 
-XVIII. Los demás que se reconozcan en los ordenamientos legales e instrumentos internacionales signados en la materia.
+XVIII. El derecho al adecuado desarrollo evolutivo de la personalidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2023)</small>
+
+XIX. Los demás que se reconozcan en los ordenamientos legales e instrumentos internacionales signados en la materia.
 
 ###### ARTÍCULO 4.
 
@@ -219,9 +227,11 @@ XXXIV. Sistema Nacional de Protección Integral: El Sistema Nacional de Protecci
 
 XXXV. Tratados Internacionales: Los Tratados Internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado Mexicano sea parte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 6.
 
-Son niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad.
+Son niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad. Para efectos de los tratados internacionales, se entiende por niña o niño todo ser humano menor de dieciocho años de edad.
 
 Cuando exista la duda sobre la edad de un menor de doce años, se presumirá que es niña o niño. Cuando exista duda, de si se trata de una persona menor de dieciocho años de edad, se presumirá que es adolescente.
 
@@ -379,7 +389,9 @@ La falta de recursos económicos no podrá considerarse motivo suficiente para s
 
 Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de su entorno familiar y para que, en su caso, sean atendidos a través de las medidas especiales de protección que dispone el artículo 24 de esta Ley.
 
 ###### ARTÍCULO 21.
 
@@ -409,13 +421,19 @@ Cuando las autoridades estatales y municipales, tengan conocimiento de casos de 
 
 Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio del Estado, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente, conforme a los Tratados Internacionales en materia de sustracción de menores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 24.
 
-El Sistema Estatal DIF, deberá otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
+El Sistema Estatal DIF, a través de la Procuraduría de Protección, deberá otorgar medidas especiales de protección de niñas, niños y adolescentes que se encuentren en desamparo familiar.
 
-Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, de conformidad con la legislación civil aplicable, el Sistema Estatal DIF, se asegurará de que niñas, niños y adolescentes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE JULIO DE 2023)</small>
 
-I. Sean ubicados con su familia extensa para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior;
+Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, de conformidad con la legislación civil aplicable, el Sistema Estatal DIF, así como las autoridades involucradas, según sea el caso, se asegurarán de que niñas, niños y adolescentes:
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+I. Sean ubicados con su familia de origen extensa o ampliada, para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior, y tengan con prontitud resuelta su situación jurídica para acceder a un proceso de adopción expedito, ágil, simple y guiado por su interés superior, aplicándose dicho proceso incluso cuando las o los adoptantes sean miembros de la familia de origen, siempre que ello sea posible y no sea contrario a su interés superior;
 
 II. Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo;
 
@@ -425,11 +443,37 @@ IV. El Sistema Estatal DIF, en el ámbito de su competencia, deberá registrar, 
 
 V. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
 
-Esta medida especial de protección tendrá carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
 
-La autoridad competente deberá tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada, y de ser el caso, restituirle su derecho a vivir en familia.
+Estas medidas especiales de protección tendrán carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar definitivo.
 
-El Sistema Estatal DIF en todo momento será responsable del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes, una vez que haya concluido el acogimiento.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2023)</small>
+
+El Sistema Estatal DIF, a través de la Procuraduría de Protección, deberá mantener estrecha comunicación con las diversas Procuradurías de Protección, de las entidades federativas y de la Federación, intercambiando información, a efecto de garantizar adecuadamente el interés superior de la niñez y el desarrollo evolutivo de formación de su personalidad, así como materializar su derecho a vivir en familia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JULIO DE 2023)</small>
+
+Las autoridades administrativas y jurisdiccionales en el Estado, en el ámbito de sus respectivas competencias, dispondrán lo conducente a efecto de que niñas, niños y adolescentes vean restituido su derecho a vivir en familia y su derecho a recibir formación y protección de quien ejerce la patria potestad, la tutela, guardia o custodia, interpretando de manera sistemática y funcional la normatividad correspondiente, conforme al principio del interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+Los certificados de idoneidad serán expedidos, previa valoración técnica y cumplimiento de la normatividad aplicable, por el Sistema Estatal DIF a través de la Procuraduría de Protección, y serán válidos para iniciar el proceso de adopción en cualquier entidad federativa, independientemente de dónde hayan sido expedidos.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+El proceso administrativo y jurisdiccional de adopción podrá realizarse en cualquier entidad federativa, con independencia de la ubicación física de la niña, niño o adolescente susceptible de ser adoptado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE JULIO DE 2023)</small>
+
+Las autoridades competentes deberán tener en consideración el interés superior de la niñez al determinar la opción que sea más adecuada para restituirle su derecho a vivir en familia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE JULIO DE 2023)</small>
+
+El Sistema Estatal DIF, a través de la Procuraduría de Protección, será responsable del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento y, en su caso, la adopción.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+Entre las medidas de seguimiento deberán estar los reportes realizados por las personas profesionales de trabajo social donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante tres años, contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
 
 ###### ARTÍCULO 25.
 
@@ -463,23 +507,189 @@ Cuando la Procuraduría de Protección verifique cualquier tipo de violación a 
 
 Sin perjuicio de lo anterior, los procedimientos de adopción deberán ser tramitados de conformidad con la legislación civil del Estado de Puebla.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 30.
 
-La Procuraduría de Protección garantizará en materia de adopciones, lo siguiente:
+En materia de adopción, todas las autoridades competentes deberán observar lo siguiente:
 
-I. Que niñas, niños y adolescentes sean adoptados en pleno respeto de sus derechos, de conformidad con el principio del interés superior de la niñez;
+I. Garantizar que niñas, niños y adolescentes sean adoptados en pleno respeto de sus derechos, de conformidad con el principio del interés superior de la niñez, y no mediando intereses particulares o colectivos que se contrapongan al mismo;
 
-II. Que se escuche y tome en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+II. Asegurar que se escuche y tome en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, en términos de la presente Ley;
 
-III. Que se asesore jurídicamente, tanto a quienes consientan la adopción, como a quienes la pretendan, a fin de que conozcan los alcances jurídicos, familiares y sociales de la misma.
+III. Garantizar que se asesore jurídicamente, tanto a quienes consientan la adopción, como a quienes la pretendan y acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de la misma;
 
-Además deberá disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos para quienes participen en ella.
+IV. Disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos para quienes participen en ella;
+
+V. Garantizar que en los procesos de adopción se respeten las normas que los rijan, de conformidad con lo dispuesto en esta ley;
+
+VI. Establecer medidas de protección a fin de evitar presiones indebidas y coacción a las familias de origen para renunciar a la niña, el niño o el adolescente; y
+
+VII. Que el Poder Judicial del Estado garantice que los procedimientos de adopción se lleven, de conformidad con esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis.
+
+Toda persona que encontrare a una niña, niño o adolescente en estado de indefensión o que hubiere sido puesto en situación de desamparo familiar, deberá presentarlo ante el Sistema Estatal DIF, quien lo canalizará a la Procuraduría de Protección con las prendas, valores o cualesquiera otros objetos encontrados en su persona, y declarará el día, lugar y circunstancias en que lo hubiere hallado.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 1.
+
+Los Centros de Asistencia Social que reciban niñas, niños y adolescentes en situación de indefensión o desamparo familiar sólo podrán recibir niñas, niños y adolescentes por disposición de la Procuraduría de Protección o de autoridad competente.
+
+Niñas, niños y adolescentes acogidos en Centros de Asistencia Social, serán considerados expósitos o abandonados una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos o se tenga información que permita conocer su origen, salvo que la Procuraduría de Protección no cuente con los elementos suficientes que den certeza sobre la situación de expósito o abandono de las y los menores de edad. En este caso, se podrá extender el plazo hasta por sesenta días naturales más.
+
+El lapso inicial a que hace referencia el párrafo anterior, correrá a partir de la fecha en que la niña, niño o adolescente haya sido acogido en un Centro de Asistencia Social y concluirá cuando la Procuraduría de Protección del Sistema Estatal DIF, levante la certificación de haber realizado todas las investigaciones necesarias para conocer su origen, la cual deberá publicarse en los estrados de la dependencia y en los medios públicos con que se cuente. Se considera expósito a la o el menor de edad que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a una o un menor de edad cuyo origen se conoce, se considerará abandonado.
+
+Durante el término referido se investigará el origen de niñas, niños y adolescentes y se realizarán las acciones conducentes que les permitan reintegrarse al núcleo de su familia de origen o extensa, siempre que dicha reintegración no represente un riesgo al interés superior de la niñez. Lo anterior, en coordinación con los Centros de Asistencia Social y con el auxilio de cualquier autoridad que se considere necesaria, sin exponer, exhibir o poner en riesgo a la niña, niño o adolescente.
+
+Una vez transcurrido dicho término sin obtener información respecto del origen de niñas, niños o adolescentes, o no habiendo logrado su reintegración al seno familiar, la Procuraduría de Protección formulará un acta circunstanciada publicando la certificación referida en el presente artículo y a partir de ese momento las niñas, niños o adolescentes serán susceptibles de adopción.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 2.
+
+Para los fines de esta Ley se prohíbe:
+
+I. La promesa de adopción durante el proceso de gestación;
+
+II. La adopción privada, entendida como el acto mediante el cual quienes ejercen la patria potestad, tutela o guarda y custodia, o sus representantes legales, pacten dar en adopción de manera directa a niñas, niños o adolescentes, sin que intervengan las autoridades competentes de conformidad con esta Ley;
+
+III. Que la adopción se realice para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, trabajo infantil o cualquier ilícito. Si se presentare cualquiera de los supuestos referidos una vez concluida judicialmente la adopción, la Procuraduría de Protección presentará denuncia ante el Ministerio Público y tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes;
+
+IV. El contacto de las madres y los padres biológicos que entregaron en adopción a una niña, un niño o un adolescente, con la persona adoptante, la persona adoptada o con cualquier persona involucrada en la adopción; con excepción de los casos en que las personas adoptantes sean familiares biológicos, de la familia extensa o cuando la persona adoptada desee conocer sus antecedentes familiares y sea mayor de edad. Niñas, niños y adolescentes que deseen conocer sus antecedentes familiares deberán contar con el consentimiento de las y los adoptantes, y siempre que ello atienda al interés superior de la niñez;
+
+V. La inducción a través de cualquier forma de compensación o pago para influenciar o favorecer la decisión de otorgar a la niña, el niño o el adolescente en adopción;
+
+VI. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia de origen o extensa de la persona adoptada, o por cualquier persona, así como por personas servidoras públicas o trabajadoras de instituciones públicas o privadas y autoridades involucradas en el proceso de adopción;
+
+VII. La obtención de lucro o beneficio personal ilícito como resultado de la adopción;
+
+VIII. El matrimonio entre la persona adoptante y la persona adoptada o sus descendientes, así como el matrimonio entre la persona adoptada con los familiares de la persona adoptante o sus descendientes;
+
+IX. Ser adoptado por más de una persona, salvo en caso de que las personas adoptantes sean cónyuges o concubinos, en cuyo caso se requerirá el consentimiento de ambos;
+
+X. La adopción por discriminación, entendida como aquella donde se considera a la niña, niño o adolescente como valor supletorio o reivindicatorio, y
+
+XI. Toda adopción contraria a las disposiciones constitucionales, tratados internacionales ratificados por el Estado mexicano o al interés superior de la niñez y su adecuado desarrollo evolutivo.
+
+Las autoridades vigilarán el desarrollo del proceso de adaptación a través del seguimiento que realice el Sistema Estatal DIF a través de la Procuraduría de Protección, mediante los reportes subsecuentes, respetando el derecho de la familia a vivir conforme a sus estándares, costumbres y valores.
+
+Las autoridades podrán suspender el proceso de adopción cuando tengan razones para creer que la adopción se realiza en contravención de lo establecido por la presente Ley. En caso de que el proceso de adopción haya concluido judicialmente, el Sistema Estatal DIF a través de la Procuraduría de Protección tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes en los términos que disponga la ley para las hijas o hijos consanguíneos.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 3.
+
+Pueden ser adoptados niñas, niños y adolescentes que:
+
+I. No tengan quien ejerza sobre ellas o ellos la patria potestad;
+
+II. Sean expósitos o abandonados;
+
+III. Se encuentren en alguno de los supuestos anteriores y estén acogidos en Centros de Asistencia Social o bajo la tutela del Sistema Estatal DIF o de la Procuraduría de Protección, y
+
+IV. Estando bajo patria potestad o tutela, quien la ejerce manifieste por escrito su consentimiento ante el Sistema Estatal DIF o ante la Procuraduría de Protección.
+
+En todo caso se deberá contar con el informe de adoptabilidad.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 4.
+
+Las personas solicitantes deberán acudir a la Procuraduría de Protección o al Sistema Estatal DIF para realizar sus trámites de adopción, atendiendo a lo previsto en la reglamentación correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 5.
+
+Una vez reunidos los requisitos e integrado el expediente, la autoridad competente emitirá su opinión respecto a la expedición del certificado de idoneidad en un término que no excederá de cuarenta y cinco días naturales, salvo que no tenga certeza respecto de la documentación que integra el expediente o que no cuente con suficientes elementos, caso en el que se podrá ampliar el plazo hasta por treinta días naturales más.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 6.
+
+La persona titular del juzgado familiar, o en su caso del juzgado especializado en la materia, dispondrá de noventa días hábiles improrrogables para emitir la sentencia sobre resolución de la patria potestad de menores de edad, en los juicios respectivos. Dicho término será contado a partir del día siguiente de la presentación de la demanda.
+
+Respecto a las resoluciones de adopción, la persona juzgadora contará con quince días hábiles improrrogables, contados a partir del día siguiente de la entrega, por parte de la autoridad administrativa, del expediente de adopción completo. Dicha autoridad administrativa contará con cinco días hábiles para la entrega de tal expediente al juzgado de la materia, una vez cumplimentado lo referido en el artículo 30 Bis 5 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 7.
+
+En igualdad de circunstancias se dará preferencia en la adopción a personas solicitantes mexicanas sobre extranjeras. Asimismo, se dará preferencia a las adopciones nacionales sobre las internacionales.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 8.
+
+Los Centros de Asistencia Social públicos y privados que tengan bajo su custodia adolescentes que cumplan la mayoría de edad deberán garantizarles los servicios de atención que les permitan una óptima inclusión al entorno social.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 9.
+
+Para que la adopción pueda tener lugar deberán consentirla, por escrito y ante la persona juzgadora que conozca del procedimiento, la Procuraduría de Protección, la persona solicitante y, en su caso, la o el adolescente sujeto de adopción.
+
+Para el caso de que las personas solicitantes sean cónyuges o concubinos, ambas deberán consentir la adopción ante la o el juez.
+
+En el caso de las y los adolescentes con discapacidad, será necesario su consentimiento, siempre y cuando fuera posible la expresión indubitable de su voluntad.
+
+Si la Procuraduría de Protección no consiente la adopción, deberá expresar la causa, misma que la persona titular del juzgado calificará tomando en cuenta el interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 10.
+
+El Sistema Estatal DIF, a través de la Procuraduría de Protección, en el ámbito de sus respectivas competencias, crearán los mecanismos necesarios para que las personas adoptantes cuenten con un procedimiento único, que permita que el trámite de adopción sea rápido, eficaz y transparente.
+
+En ningún caso se solicitará certificado médico de infertilidad como requisito para adoptar.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 11.
+
+A fin de acompañar la adaptación de niñas, niños y adolescentes a su nueva familia y entorno, así como conocer la evolución de su desarrollo, el Sistema Estatal DIF, a través de la Procuraduría de Protección, realizará su seguimiento al menos cada seis meses durante los tres años posteriores a la adopción.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 12.
+
+En caso de que la persona adoptante sea extranjera con residencia permanente en el territorio nacional, las autoridades competentes incluirán, como requisito del certificado de idoneidad, la comprobación de la situación migratoria regular en el territorio nacional.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 13.
+
+La adopción en todo caso será plena e irrevocable.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 30 Bis 14.
+
+El Sistema Estatal DIF y la Procuraduría de Protección celebrarán los convenios de colaboración que se consideren necesarios para garantizar el derecho a vivir en familia con sus pares locales o con las autoridades que se requiera.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 31.
 
-Tratándose de adopción internacional, deberá disponer lo necesario para asegurar que los derechos de niñas, niños y adolescentes motivo de dicha adopción, no sea realizada para fines de sustracción, tráfico, trata de personas, explotación, las peores formas de trabajo infantil o cualquier ilícito.
+Tratándose de adopción internacional, se deberá disponer lo necesario para asegurar que los derechos de niñas, niños y adolescentes que sean adoptados sean garantizados en todo momento y se ajusten al interés superior de la niñez, así como garantizar que esta adopción no sea realizada para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, las peores formas de trabajo infantil o cualquier ilícito en contra de los mismos.
 
-En los procedimientos judiciales de adopción internacional, deberá requerirse el informe de adoptabilidad a cargo del Sistema Estatal DIF y, una vez que el órgano jurisdiccional competente otorgue la adopción, previa solicitud de los adoptantes, la Secretaría de Relaciones Exteriores expedirá la certificación correspondiente, de conformidad con los Tratados Internacionales.
+Con el fin de salvaguardar el interés superior de la niñez, previo a que la adopción internacional pueda tener lugar, las autoridades competentes deberán determinar si la niña, el niño o el adolescente son susceptibles de adopción.
+
+Las autoridades competentes deberán establecer medidas de prevención y protección para evitar adopciones ilegales. Para tal efecto, podrán requerir la colaboración de la autoridad central del país de que se trate, a fin de obtener información o supervisar las medidas preventivas que se hayan dictado, en términos del tratado internacional en la materia.
+
+En los procedimientos judiciales de adopción internacional deberá requerirse el informe de adoptabilidad por parte del Sistema Nacional DIF o del Sistema Estatal DIF y, una vez que el Órgano Jurisdiccional competente otorgue la adopción, previa solicitud de las personas adoptantes, la Secretaría de Relaciones Exteriores expedirá la certificación correspondiente, de conformidad con los Tratados Internacionales.
+
+El Sistema Estatal DIF dará seguimiento a la convivencia y proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
+
+Las personas que ejerzan profesiones en trabajo social y psicología de las instituciones públicas y privadas que intervengan en procedimientos de adopción internacional, en términos de lo dispuesto en los tratados internacionales, deberán contar con la autorización y registro del Sistema Nacional DIF y el Sistema Estatal DIF en el ámbito de su competencia.
+
+La adopción internacional de una niña, niño o adolescente de nacionalidad mexicana procederá cuando se haya constatado por las autoridades correspondientes que ésta responde al interés superior de la niñez, después de haber examinado adecuadamente las posibilidades de asignación de la niña, niño o adolescente para adopción nacional.
+
+Las autoridades competentes tienen la obligación de conservar cualquier información que dispongan relativa a niñas, niños y adolescentes que hayan sido adoptados internacionalmente, así como de sus orígenes.
 
 ###### ARTÍCULO 32.
 
@@ -1393,7 +1603,9 @@ Son obligaciones de los titulares o responsables legales de los centros de asist
 
 I. Garantizar el cumplimiento de los requisitos establecidos por la Ley General, esta Ley y demás disposiciones aplicables para formar parte del Registro Estatal de Centros de Asistencia Social;
 
-II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, y remitirlo semestralmente a la Procuraduría de Protección;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+
+II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, el cual actualizarán de manera permanente e informarán de inmediato a la Procuraduría de Protección, que a su vez remitirá dicha información a la Procuraduría Federal de Protección.
 
 III. Asegurar que las instalaciones tengan en lugar visible, la constancia de registro de incorporación al Registro Estatal de Centros de Asistencia Social;
 
@@ -1461,9 +1673,11 @@ I. Prestar servicios de asesoría y asistencia jurídica a las personas que dese
 
 II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes, previa autorización del Consejo Técnico de Adopciones dependiente del Sistema Estatal DIF, así como formular las recomendaciones pertinentes al órgano jurisdiccional, y
 
-III. Contar con un sistema de información que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el enlistado de las personas solicitantes de adopción, y las adopciones concluidas.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
 
-Los registros a los que alude la fracción III, deberán ser remitidos trimestralmente a la Procuraduría de Protección, para el traslado de información que corresponda a la Procuraduría Federal de Protección, en los términos que establezca el Reglamento de esta Ley.
+III. Contar con un sistema de información y registro actualizado, que incluya niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción y aquellos que cuenten con certificado de idoneidad, adopciones concluidas desagregadas en estatales e internacionales, así como niñas, niños y adolescentes adoptados, informando de cada actualización a la Procuraduría de Protección, para el traslado de información que corresponda a la Procuraduría Federal de Protección, en los términos que establezca el Reglamento de esta Ley. También se llevará un registro de las familias de acogida y de las niñas, niños y adolescentes acogidos por éstas.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 113.
 
@@ -1991,9 +2205,9 @@ SÉPTIMO. A la entrada en vigor del presente Decreto, se abroga la Ley de Protec
 
 OCTAVO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-EL GOBERNADOR, hará publicar y cumplir la presente Disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de junio de dos mil quince. Diputada Presidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputado Vicepresidente. CARLOS IGNACIO MIER BAÑUELOS. Rúbrica. Diputado Secretario. PABLO MONTIEL SOLANA. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
+EL GOBERNADOR, hará publicar y cumplir la presente Disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de junio de dos mil quince. Diputada Presidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputado Vicepresidente. CARLOS IGNACIO MIER BAÑUELOS. Rúbrica. Diputado Secretario. PABLO MONTIEL SOLANA. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en la sede del Poder Ejecutivo del Estado, en la Cuatro Veces Heroica Puebla de Zaragoza a los tres días del mes de junio de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Encargado de Despacho de la Secretaría General de Gobierno. C. JORGE BENITO CRUZ BERMÚDEZ. Rúbrica.
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en la sede del Poder Ejecutivo del Estado en la Cuatro Veces Heroica Puebla de Zaragoza a los tres días del mes de junio de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Encargado de Despacho de la Secretaría General de Gobierno. C. JORGE BENITO CRUZ BERMÚDEZ. Rúbrica.
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -2214,3 +2428,17 @@ P.O. 26 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 10 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1, EL SEGUNDO PÁRRAFO DEL 2, LAS FRACCIONES V, XVII Y XVIII DEL 3, EL PÁRRAFO PRIMERO DEL 6, EL ÚLTIMO PÁRRAFO DEL 20, LOS PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO Y LA FRACCIÓN I DEL 24, EL 30, EL 31, LA FRACCIÓN II DEL 107 Y LA FRACCIÓN III DEL 112, ADICIONA LA FRACCIÓN XIX AL 3, DEL PÁRRAFO SEXTO AL DÉCIMO AL 24, EL 30 BIS Y DEL 30 BIS 1 AL 30 BIS 14, Y DEROGA EL ÚLTIMO PÁRRAFO DEL 112, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, EN MATERIA DE ADOPCIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado realizará las adecuaciones reglamentarias correspondientes y expedirá un Reglamento especial en materia de adopción en un plazo que no excederá de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Las niñas, niños y adolescentes que actualmente se encuentren acogidos en instituciones públicas o privadas, respecto de los cuales el Sistema Estatal DIF, o la Procuraduría de Protección, pueda dar constancia de su condición de expósito o abandono, serán sujetos de adopción a partir de la entrada en vigor de este Decreto.
+
+QUINTO. Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
