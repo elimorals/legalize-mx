@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2023-03-23"
+last_updated: "2023-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE AGOSTO DE 2023 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2023.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -125,7 +127,9 @@ XXIV.- Organizaciones: Todas aquellas organizaciones sociales constituidas legal
 
 XXV.- Modelo Social: Conjunto de principios, fundamentos, directrices y conceptos, postulados por la Convención de los Derechos de las Personas con Discapacidad, que determinan el enfoque a través del cual se plantea el abordaje de la atención integral de la población con discapacidad; el modelo enfatiza que las causas que originan la discapacidad no son individuales ni médicas, sino preponderantemente sociales, determinadas por patrones de conducta de la sociedad. Este modelo visualiza a las personas con discapacidad como titulares de derechos humanos y promueve sostenidamente el reconocimiento de éstos, determinados por su decidida participación como estrategia consustancial para el ejercicio de los mismos;
 
-XXVI.- Persona con Discapacidad: Toda persona que por razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal, que le limitan la capacidad de realizar una o más actividades de la vida diaria, y que sea agravada por el entorno social y puede impedir su inclusión plena y efectiva en igualdad de condiciones con los demás;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2023)</small>
+
+XXVI.- Persona con Discapacidad: Toda persona que, por razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, psicosocial, intelectual o sensorial, ya sea permanente o temporal, que le limitan la capacidad de realizar una o más actividades de la vida diaria, y que sea agravada por el entorno social y puede impedir su inclusión plena y efectiva en igualdad de condiciones con los demás;
 
 > <small>(ADICIONADA, P.O. 23 DE MARZO DE 2023)</small>
 
@@ -137,7 +141,9 @@ XXVII.- Perro Guía: Son aquellos que han sido certificados para el acompañamie
 
 XXVII BIS.- Playas inclusivas: Son aquellas playas para uso recreativo con señaléticas accesibles y certificadas como playas limpias sustentables, y que cuentan con distintivo Bandera Azul, y que permiten garantizar espacios adaptados para las personas con discapacidad y adultas mayores con movilidad reducida;
 
-XXVIII.- Prevención: La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales o a evitar que las deficiencias ya producidas tengan mayores consecuencias negativas;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2023)</small>
+
+XXVIII.- Prevención: La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales, psicosociales y sensoriales o a evitar que las deficiencias ya producidas tengan mayores consecuencias negativas;
 
 XXIX.- Política Pública: Son todos aquellos planes, programas o acciones de gobierno con objetivos de interés público que surgen de decisiones sustentadas en procesos de diagnóstico y análisis de factibilidad, para la atención efectiva de problemas públicos específicos, en donde participa la ciudadanía en la definición de problemas y soluciones;
 
@@ -157,7 +163,9 @@ XXXIV.- (DEROGADA, P.O. 20 DE AGOSTO DE 2019)
 
 XXXV.- Registro Estatal de Personas con Discapacidad: Registro sociodemográfico que permite conocer la cantidad, condición, ubicación, entorno, tipo de discapacidad y edad de la población de personas con discapacidad y sus familiares. Constituye la unidad básica programable de toda la intervención pública, privada y social en favor de este sector de la sociedad tamaulipeca;
 
-XXXVI.- Rehabilitación: El proceso de tipo médico, educativo y social, con la finalidad de permitir que una persona con discapacidad mantenga, mejore o adquiera un nivel físico, mental, intelectual y sensorial óptimo, que permita restablecer o compensar la pérdida o la falta de una función debido a su discapacidad, proporcionándole una integración plena y efectiva a la sociedad;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2023)</small>
+
+XXXVI.- Rehabilitación: El proceso de tipo médico, educativo y social, con la finalidad de permitir que una persona con discapacidad mantenga, mejore o adquiera un nivel físico, mental, psicosocial, intelectual y sensorial óptimo, que permita restablecer o compensar la pérdida o la falta de una función debido a su discapacidad, proporcionándole una integración plena y efectiva a la sociedad;
 
 XXXVII.- Sensibilización: Es el proceso de concientización dirigido a la sociedad en general, para fomentar actitudes incluyentes y percepciones positivas, con base en el modelo social, de las personas con discapacidad y del respeto a sus derechos y libertades fundamentales;
 
@@ -353,7 +361,9 @@ III.- Acceso a la justicia: En igualdad de condiciones con las demás personas, 
 
 IV.- A la libertad y seguridad: No se vean privadas de su libertad ilegal o arbitrariamente y que la existencia de una discapacidad no justifique en ningún caso una privación de la libertad;
 
-V.- De protección: De su integridad física y mental en igualdad de condiciones con las demás personas, contra tortura u otros tratos o penas crueles, inhumanos o degradantes, así como contra todas las formas de explotación, violencia, abuso, situaciones de riesgo y emergencia, incluidos los aspectos relacionados con el género;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2023)</small>
+
+V.- De protección: De su integridad física, mental y psicosocial en igualdad de condiciones con las demás personas, contra tortura u otros tratos o penas crueles, inhumanos o degradantes, así como contra todas las formas de explotación, violencia, abuso, situaciones de riesgo y emergencia, incluidos los aspectos relacionados con el género;
 
 VI.- Inclusión: Ser integrado a la vida comunitaria en igualdad de condiciones y pueda elegir su lugar de residencia y dónde y con quién vivir en igualdad de condiciones con las demás;
 
@@ -1486,3 +1496,11 @@ P.O. 23 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-553 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, FRACCIONES XXVI, XXVIII Y XXXVI; Y 10, NUMERAL 2, FRACCIÓN V, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
