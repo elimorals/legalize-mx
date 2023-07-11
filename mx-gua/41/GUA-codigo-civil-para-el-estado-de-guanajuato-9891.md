@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2023-05-31"
+last_updated: "2023-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2023.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -12529,6 +12529,36 @@ El poder supremo de las asociaciones lo constituye la asamblea general. El direc
 
 Las asambleas de las asociaciones se celebrarán conforme a lo establecido en sus estatutos o escritura constitutiva, y al menos una vez al año, dentro de los primeros seis meses del año natural, con la finalidad de informar sobre el estado que guarden los asuntos de la asociación y los estados financieros de la misma. Deberán ser convocadas por su director o consejo directivo con anticipación no menor a veinte días naturales a su celebración especificando los asuntos a tratar. En caso de que no se convoque a las asambleas por los indicados, tratándose de las asambleas ordinarias podrá hacerlo la autoridad judicial a petición de cualquier asociado; o del quince por ciento de los asociados para el caso de asambleas extraordinarias.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2023)</small>
+
+###### Art. 2195-A.
+
+Las asambleas de las asociaciones podrán celebrarse de forma presencial, por videoconferencia o mixtas. Las primeras son aquellas en las cuales implica necesariamente la presencia de los asociados en un domicilio físico determinado, las segundas aquellas en las cuales los asociados asisten y participan únicamente a través de medios electrónicos o plataformas digitales, y las últimas aquellas en las que se convoca a una reunión en la cual se permite a los asociados asistir al domicilio o participar a través de medios electrónicos o plataformas digitales.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2023)</small>
+
+###### Art. 2195-B.
+
+En caso de que una asociación decida llevar a cabo una asamblea por videoconferencia o mixta, deberá publicar en su convocatoria la fecha, hora, medio, la dirección electrónica o número de la reunión, en su caso la contraseña, la forma en la cual se realizará la asamblea, así como la forma en que se llevará a cabo la identificación de los asociados y la forma en la que se realizará el cálculo del quorum de instalación y votación.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2023)</small>
+
+###### Art. 2195-C.
+
+Los medios electrónicos y plataformas digitales en los que se lleven a cabo las asambleas por videoconferencia y mixtas deberán satisfacer las características técnicas necesarias que permitan la transmisión continua, simultánea y en tiempo real de toda la duración de la asamblea, y de las deliberaciones y votaciones que se lleven a cabo durante la misma.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2023)</small>
+
+###### Art. 2195-D.
+
+Las asambleas que se lleven a cabo por videoconferencia o mixtas y que hayan sido convocadas de conformidad con lo establecido en el presente Código y en los estatutos, salvo disposición contraria, se entenderán que fueron celebradas en el domicilio social de la asociación.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2023)</small>
+
+###### Art. 2195-E.
+
+En caso de que una asociación decida llevar a cabo una asamblea por videoconferencia o mixta, la reunión deberá grabarse y conservarse por el administrador u órgano de administración de la asociación y una copia de la grabación se agregará al acta respectiva. Podrá levantarse por escrito o en documento electrónico y será firmada electrónicamente por los medios digitales que se consideren oportunos.
+
 ###### Art. 2196.
 
 La asamblea general resolverá:
@@ -12543,9 +12573,11 @@ IV. Sobre la exclusión de asociados;
 
 V. Sobre los demás asuntos que le encomienden los estatutos.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2023)</small>
+
 ###### Art. 2197.
 
-Las asambleas generales sólo se ocuparán de los asuntos contenidos en la respectiva orden del día. Sus decisiones serán tomadas por mayoría de votos de los miembros presentes.
+Las asambleas generales sólo se ocuparán de los asuntos contenidos en la respectiva orden del día. Sus decisiones serán tomadas por mayoría de votos de los miembros que, de manera presencial, acudan a la asamblea o por aquellos que estén conectados mediante videoconferencia.
 
 ###### Art. 2198.
 
@@ -12634,6 +12666,12 @@ IV. El importe del capital social y la aportación con que cada socio debe contr
 ###### Art. 2212.
 
 El contrato de sociedad debe inscribirse en el Registro Público para que produzca efectos contra tercero. Antes de que se inscriba en el Registro Público de la Propiedad el contrato de sociedad, surtirá efectos entre los socios. Los terceros sí podrán aprovecharse de la existencia de la sociedad, y de los términos del pacto social, aun cuando no haya sido registrada, pero la falta de registro no se les podrá oponer en su perjuicio.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2023)</small>
+
+###### Art. 2212-A.
+
+Las asambleas generales de socios serán el órgano supremo de la sociedad. Podrán celebrarse de forma presencial, por videoconferencia o mixtas conforme al presente Código, y le serán aplicables las disposiciones de las asociaciones civiles relativas a las convocatorias, celebración de las asambleas y registro.
 
 ###### Art. 2213.
 
@@ -17708,3 +17746,11 @@ Artículo Séptimo. El nombramiento de las personas titulares de las Procuradur�
 Procesos de entrega recepción
 
 Artículo Octavo. Con la finalidad de dar cumplimiento a las obligaciones generadas con motivo de la entrada en vigor del presente Decreto, las autoridades estatal y municipales, deberán integrar, de manera progresiva en su presupuesto los recursos necesarios.
+
+P.O. 11 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 208, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2197; Y SE ADICIONAN LOS ARTÍCULOS 2195-A, 2195-B, 2195-C, 2195-D, 2195-E Y 2212-A, DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
