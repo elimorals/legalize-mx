@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-159663"
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-08-10"
-last_updated: "2022-08-10"
+last_updated: "2023-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159663&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-06-22"
 ---
 # REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORAS E INVESTIGADORES DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS, PUBLICADO EN EL D.O.F. DE 11 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JULIO DE 2023 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 10 de agosto de 2022.
 
@@ -33,7 +35,7 @@ La Junta de Gobierno del Consejo Nacional de Ciencia y Tecnología, con fundamen
 
 CONSIDERANDO
 
-[…]
+[...]
 
 Que tomando en cuenta lo anterior, ha tenido a bien expedir el siguiente:
 
@@ -730,3 +732,15 @@ El presente Reglamento fue aprobado por la Junta de Gobierno del Consejo Naciona
 Atentamente
 
 Ciudad de México, a los veintidós días del mes de junio de 2022.- La Directora General del Consejo Nacional de Ciencia y Tecnología, Dra. María Elena Álvarez-Buylla Roces.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORAS E INVESTIGADORES DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento del Sistema Nacional de Investigadores publicado en el Diario Oficial de la Federación el 10 de agosto de 2022. Asimismo, quedan sin efecto todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento se resolverán conforme a la normativa vigente en la fecha en que se originaron.
