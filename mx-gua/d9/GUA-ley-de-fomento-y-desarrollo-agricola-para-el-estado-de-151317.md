@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-y-desarrollo-agricola-para-el-estado-de-151317"
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-24"
-last_updated: "2021-09-24"
+last_updated: "2023-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FOMENTO Y DESARROLLO AGRÍCOLA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2023.
 
 Ley publicada en la Tercera Parte al Número 191 del Periódico Oficial del Estado de Guanajuato, el viernes 24 de septiembre de 2021.
 
@@ -71,7 +71,13 @@ IX. Asegurar el manejo sustentable de los recursos naturales tales como suelos, 
 
 X. Fomentar el desarrollo de la actividad agrícola mediante el asesoramiento profesional, la investigación científica y la transferencia de tecnología; y
 
-XI. Establecer e implementar los apoyos fiscales, apoyos directos, créditos, fondos y fideicomisos para incentivar y orientar al productor agrícola en la producción, industrialización y comercialización de sus productos.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2023)</small>
+
+XI. Establecer e implementar los apoyos fiscales, apoyos directos, créditos, fondos y fideicomisos para incentivar y orientar al productor agrícola en la producción, industrialización y comercialización de sus productos; y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2023)</small>
+
+XII. Establecer los mecanismos para el registro de la maquinaria e implementos agrícolas que se utilicen para el desarrollo de las actividades agrícolas.
 
 ###### Artículo 3.
 
@@ -117,25 +123,37 @@ VIII. Certificado Fitosanitario: Documento oficial expedido por la SADER o las p
 
 IX. Cuarentena: Restricciones a la movilización, producción y almacenamiento de productos, subproductos o mercancías, que se establecen en las disposiciones legales aplicables en materia de sanidad vegetal, con el propósito de prevenir, controlar, erradicar o retardar la introducción de enfermedades y plagas en áreas donde sea necesario;
 
-X. Insumos: Aquellos elementos utilizados en los procesos productivos agrícolas;
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2023)</small>
 
-XI. Ley: Ley de Fomento y Desarrollo Agrícola para el Estado de Guanajuato;
+X. Implementos Agrícolas: Herramientas o accesorios a equipos diseñados para facilitar el desempeño de las actividades de producción agrícola;
 
-XII. Plaga: Forma de vida vegetal o animal o agente patogénico, dañino o potencialmente dañino a los vegetales;
+XI. Insumos: Aquellos elementos utilizados en los procesos productivos agrícolas;
 
-XIII. Plaguicida: Insumo destinado a prevenir, repeler, combatir y destruir plagas;
+XII. Ley: Ley de Fomento y Desarrollo Agrícola para el Estado de Guanajuato;
 
-XIV. Unidad de Producción: Las personas que directa o indirectamente se dedican a la producción y comercialización primaria de productos y subproductos agrícolas;
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2023)</small>
 
-XV. SADER: Secretaría de Agricultura y Desarrollo Rural;
+XIII. Maquinaria Agrícola: Aquella que tiene autonomía de funcionamiento, con motor de combustión o mediante otros medios de transmisión, que les permiten trasladarse por el campo para el desarrollo de las actividades de producción agrícola y pecuaria;
 
-XVI. Secretaría: Secretaría de Desarrollo Agroalimentario y Rural;
+XIV. Plaga: Forma de vida vegetal o animal o agente patogénico, dañino o potencialmente dañino a los vegetales;
 
-XVII. Semillas: Los frutos o partes de estos, así como las partes vegetales o vegetales completos que puedan utilizarse para la reproducción y propagación de diferentes especies vegetales;
+XV. Plaguicida: Insumo destinado a prevenir, repeler, combatir y destruir plagas;
 
-XVIII. Subproducto: Los productos secundarios que se obtienen de la industrialización del producto principal y que representan un valor; y
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2023)</small>
 
-XIX. Técnico: El prestador de servicios técnicos agrícolas que, en el ámbito de su formación profesional y técnica comprobable formule, ejecute, evalúe y dictamine programas, proyectos y estudios sobre manejo, producción, diversificación productiva, transformación, industrialización, comercialización, capacitación y asistencia técnica.
+XVI. Registro: El Registro de Maquinaria e Implementos Agrícolas del Estado de Guanajuato;
+
+XVII. Unidad de Producción: Las personas que directa o indirectamente se dedican a la producción y comercialización primaria de productos y subproductos agrícolas;
+
+XVIII. SADER: Secretaría de Agricultura y Desarrollo Rural;
+
+XIX. Secretaría: Secretaría de Desarrollo Agroalimentario y Rural;
+
+XX. Semillas: Los frutos o partes de estos, así como las partes vegetales o vegetales completos que puedan utilizarse para la reproducción y propagación de diferentes especies vegetales;
+
+XXI. Subproducto: Los productos secundarios que se obtienen de la industrialización del producto principal y que representan un valor; y
+
+XXII. Técnico: El prestador de servicios técnicos agrícolas que, en el ámbito de su formación profesional y técnica comprobable formule, ejecute, evalúe y dictamine programas, proyectos y estudios sobre manejo, producción, diversificación productiva, transformación, industrialización, comercialización, capacitación y asistencia técnica.
 
 ### Capítulo II. Autoridades Competentes
 
@@ -205,9 +223,15 @@ IX. Coadyuvar con las asociaciones de productores agrícolas sujetas a las dispo
 
 X. Vigilar que los apoyos otorgados a los productores agrícolas sean destinados conforme al objeto de esta Ley;
 
-XI. Apoyar a los productores y organizaciones agrícolas en la comercialización de productos; y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2023)</small>
 
-XII. Las demás que esta Ley u otros ordenamientos legales le confieran.
+XI. Apoyar a los productores y organizaciones agrícolas en la comercialización de productos;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2023)</small>
+
+XII. Realizar el registro de maquinaria e implementos agrícolas para el desarrollo de las actividades agrícolas en el estado; y
+
+XIII. Las demás que esta Ley u otros ordenamientos legales le confieran.
 
 ###### Artículo 11.
 
@@ -465,6 +489,54 @@ Los agricultores en coordinación con sus organizaciones y las instituciones pú
 
 La Secretaría promoverá el acceso a sistemas de financiamiento para el establecimiento o mejoramiento de centros de almacenaje y conservación de productos y subproductos agrícolas, que permitan a su poseedor mantenerlos en condiciones naturales óptimas.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2023)</small>
+
+### Capítulo Único. Registro de Maquinaria e Implementos Agrícolas
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2023)</small>
+
+## Título Quinto. Disposiciones Complementarias
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2023)</small>
+
+###### Artículo 39.
+
+La Secretaría establecerá, operará y mantendrá actualizado el registro, el cual será obligatorio y funcionará como una herramienta de consulta para el diseño de programas y acciones; así como coadyuvar con las autoridades competentes en la investigación, prevención y sanción de conductas presuntamente delictivas.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2023)</small>
+
+###### Artículo 40.
+
+El registro deberá contener de manera enunciativa y no limitativa:
+
+I. Los datos relativos a la (sic) personas poseedoras o propietarias de maquinaria e implementos agrícolas;
+
+II. Los documentos o la resolución de autoridad competente o medio fehaciente diverso legalmente establecido con el que acrediten la propiedad o posesión de dicha maquinaria e implementos agrícolas y en su caso acredite la legal procedencia en el País;
+
+III. Las fotografías, imágenes, así como su ubicación por georreferenciación de esta;
+
+IV. El sistema de posicionamiento global (GPS), en caso de contar con el mismo; y
+
+V. El número de identificación por medio de un número alfanumérico compuesto por el Sistema MAGTO- seguido por seis dígitos y por medio del uso de tecnologías o plataformas para su debida clasificación.
+
+Los implementos o accesorios deberán tener el número de identificación IAGTO- seguido por seis dígitos y vinculado con la plataforma o alternativa tecnológica que se utilice para tal fin.
+
+Para el funcionamiento del registro, el Ejecutivo del Estado emitirá los lineamientos correspondientes.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2023)</small>
+
+###### Artículo 41.
+
+Los propietarios o poseedores podrán realizar la baja o actualización del registro, en caso de transferencia de la maquinaria o implementos agrícolas y en su caso la cancelación de estos, por la destrucción total o pérdida definitiva, robo o desaparición documentada ante autoridad competente.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2023)</small>
+
+###### Artículo 42.
+
+La Secretaría podrá establecer acciones para poder incluir el registro con los sujetos referidos en el artículo 3 de esta Ley.
+
+Los municipios podrán participar mediante convenio con la Secretaría para poder conformar el registro.
+
 ## TRANSITORIOS
 
 Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
@@ -486,3 +558,13 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 LA SECRETARIA DE GOBIERNO
 
 LIBIA DENNISE GARCÍA MUÑOZ LEDO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 209, MEDIANTE EL CUAL SE REFORMAN AL ARTÍCULO 2, LA FRACCIÓN XI; AL ARTÍCULO 10, LA FRACCIÓN XI; Y SE ADICIONAN AL ARTÍCULO 2, UNA FRACCIÓN XII; AL ARTÍCULO 5, LAS FRACCIONES X Y XIII, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES Y UNA FRACCIÓN XVI RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE; AL ARTÍCULO 10, UNA FRACCIÓN XII, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE; UN TÍTULO QUINTO, DENOMINADO DISPOSICIONES COMPLEMENTARIAS CON LOS ARTÍCULOS 39, 40, 41 Y 42 A LA LEY DE FOMENTO Y DESARROLLO AGRÍCOLA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. El Poder Ejecutivo del Estado contará con un término de ciento ochenta días a partir de la publicación del presente decreto en el Periódico Oficial del Gobierno del Estado para la adecuación de los reglamentos respectivos y demás disposiciones administrativas de carácter general.
