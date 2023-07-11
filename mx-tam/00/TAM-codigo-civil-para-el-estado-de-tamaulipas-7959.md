@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2023-06-20"
+last_updated: "2023-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS EL 20 DE JUNIO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2023.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1250,6 +1248,20 @@ ART. 261.- El padre y la madre, aunque pierdan la patria potestad quedan sujetos
 Ambos progenitores tienen en todo momento, la obligación de evitar cualquier acto de manipulación encaminado a producir en los hijos rechazo, rencor, antipatía, desagrado, temor o distanciamiento hacía el otro cónyuge.
 
 ART. 262.- (DEROGADO, P.O. 14 DE JULIO DE 2015)
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2023)</small>
+
+ART. 262 BIS.- En la sentencia o resolución que decrete el divorcio previsto en los artículos 253 y 254 Bis de este Código, se establecerá una compensación patrimonial a favor de él o la ex cónyuge que durante el matrimonio se dedicó preponderantemente a las labores del hogar y/o al cuidado de los hijos, por un monto de hasta el cincuenta por ciento del valor de los bienes que correspondan al otro cónyuge.
+
+El derecho y, en su caso, el monto de la compensación patrimonial será definido en la vía incidental una vez declarado el divorcio, bajo los principios de equidad y solidaridad.
+
+La determinación respectiva será tomada en cada caso atendiendo al costo de oportunidad perdido por el cónyuge a favor de quien se decrete.
+
+La cantidad definida como compensación patrimonial podrá ser pagada en una sola exhibición, en pagos diferidos o mediante la entrega de bienes que en valor equivalgan ese monto.
+
+El Juzgador valorará la que mayormente convenga a los ex cónyuges en función a sus condiciones particulares y al tipo de activo patrimonial respectivo, con el fin de que la decisión cumpla su función resarcitoria; pero sin causar una afectación innecesaria al capital, manejo y, en su caso, la continuación de las actividades empresariales, comerciales o profesionales del deudor, buscando sea proporcional con la afectación a resarcir.
+
+En las sentencias de divorcio de los matrimonios celebrados bajo el régimen de sociedad conyugal, ya sea la prevista en el artículo 165 o en el artículo 174 de este Código, el Juez, a petición de parte, deberá establecer la compensación que corresponda tomando en consideración los resultados de la liquidación respectiva.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
 
@@ -10876,6 +10888,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 15 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-579 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE CONCUBINATO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-505 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 262 BIS, AL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
