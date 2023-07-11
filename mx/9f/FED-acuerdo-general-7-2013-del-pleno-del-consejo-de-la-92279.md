@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-7-2013-del-pleno-del-consejo-de-la-92279"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2013-02-15"
+last_updated: "2023-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92279&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2013-02-07"
 ---
 # ACUERDO GENERAL 7/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA AMPLIACION TEMPORAL DE LA COMPETENCIA DE LOS JUZGADOS DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE NAYARIT Y DE LOS JUZGADOS DE DISTRITO EN MATERIA DE AMPARO CIVIL, ADMINISTRATIVO Y DE TRABAJO Y DE JUICIOS FEDERALES EN LA MISMA ENTIDAD FEDERATIVA, PARA CONOCER DE COMUNICACIONES OFICIALES EN MATERIA DE PROCESOS PENALES FEDERALES]
 
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO TRANSITORIO DEL ACUERDO GENERAL 13/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN Y AMPLIACIÓN DE COMPETENCIA DE LOS JUZGADOS PRIMERO, SEGUNDO Y TERCERO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN TEPIC; A LA MODIFICACIÓN DE LA DENOMINACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE PRESTA SERVICIO A LOS JUZGADOS DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE NAYARIT; QUE ABROGA EL DIVERSO 7/2013, RELATIVO A LA AMPLIACIÓN TEMPORAL DE LA COMPETENCIA DE LOS JUZGADOS DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE NAYARIT Y DE LOS JUZGADOS DE DISTRITO EN MATERIA DE AMPARO CIVIL, ADMINISTRATIVO Y DE TRABAJO Y DE JUICIOS FEDERALES EN LA MISMA ENTIDAD FEDERATIVA, PARA CONOCER DE COMUNICACIONES OFICIALES EN MATERIA DE PROCESOS PENALES FEDERALES; Y QUE REFORMA EL SIMILAR 3/2023, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO, PUBLICADO EN EL D.O.F. DE 11 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 ACUERDO GENERAL 7/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA AMPLIACIÓN TEMPORAL DE LA COMPETENCIA DE LOS JUZGADOS DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE NAYARIT Y DE LOS JUZGADOS DE DISTRITO EN MATERIA DE AMPARO CIVIL, ADMINISTRATIVO Y DE TRABAJO Y DE JUICIOS FEDERALES EN LA MISMA ENTIDAD FEDERATIVA, PARA CONOCER DE COMUNICACIONES OFICIALES EN MATERIA DE PROCESOS PENALES FEDERALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JULIO DE 2023 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -142,3 +146,27 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 7/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la ampliación temporal de la competencia de los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Nayarit y de los Juzgados de Distrito en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales en la misma entidad federativa, para conocer de comunicaciones oficiales en materia de procesos penales federales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de treinta de enero de dos mil trece, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a siete de febrero de dos mil trece.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 13/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN Y AMPLIACIÓN DE COMPETENCIA DE LOS JUZGADOS PRIMERO, SEGUNDO Y TERCERO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN TEPIC; A LA MODIFICACIÓN DE LA DENOMINACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE PRESTA SERVICIO A LOS JUZGADOS DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE NAYARIT; QUE ABROGA EL DIVERSO 7/2013, RELATIVO A LA AMPLIACIÓN TEMPORAL DE LA COMPETENCIA DE LOS JUZGADOS DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE NAYARIT Y DE LOS JUZGADOS DE DISTRITO EN MATERIA DE AMPARO CIVIL, ADMINISTRATIVO Y DE TRABAJO Y DE JUICIOS FEDERALES EN LA MISMA ENTIDAD FEDERATIVA, PARA CONOCER DE COMUNICACIONES OFICIALES EN MATERIA DE PROCESOS PENALES FEDERALES; Y QUE REFORMA EL SIMILAR 3/2023, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el Portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos Órganos y la Dirección General de Gestión Judicial llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
+
+CUARTO. En caso de que la persona titular de un Juzgado de Distrito en Materia Penal en el Estado de Nayarit, considere que para el desahogo de alguna diligencia es necesaria la comparecencia presencial de alguna persona en reclusión en la jurisdicción del órgano y no cuente con las áreas necesarias para ello, coordinará dicha actuación con las autoridades administrativas que corresponda y con el personal del Centro de Justicia Penal Federal en el Estado de Nayarit, el que dará todas las facilidades necesarias para programar la diligencia en las instalaciones del Centro.
+
+QUINTO. A partir del 1 de agosto de 2023, las comunicaciones oficiales de procesos penales federales que se presenten en días y horas inhábiles serán del conocimiento de los órganos jurisdiccionales especializados en materia penal, para lo cual se observará el calendario de guardias dispuesto. Las comunicaciones oficiales en la citada materia, que se reciban en días y horas hábiles, serán distribuidas por la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Penal en el Estado de Nayarit, con residencia en Tepic, entre todos los Juzgados de Distrito a los que presta servicio.
+
+SEXTO. La Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Nayarit, con competencia en procesos penales federales y de amparo en materia penal, con residencia en Tepic, colocará avisos en lugares visibles de sus accesos, informando al público lo determinado en el presente Acuerdo.
+
+SÉPTIMO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los Juzgados de Distrito en Materia Penal en el Estado de Nayarit, con residencia en Tepic.
+
+OCTAVO. La Coordinación de Administración Regional brindará todo el apoyo a los órganos jurisdiccionales para el traslado de los expedientes y de sus anexos.
+
+NOVENO. A partir del 1 de agosto de 2023, se abroga el Acuerdo General 7/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la ampliación temporal de la competencia de los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Nayarit y de los Juzgados de Distrito en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales en la misma entidad federativa, para conocer de comunicaciones oficiales en materia de procesos penales federales.
