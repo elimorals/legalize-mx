@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-agua-del-estado-de-chihuahua-86957"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2021-03-24"
+last_updated: "2023-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL AGUA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 2012.
 
@@ -509,7 +509,9 @@ I. Una persona que ocupe la Presidencia, quien será nombrada y removida por el 
 
 II. Una Secretaría, nombramiento que recaerá en la persona que ocupe la titularidad de la Dirección Jurídica de la Junta Central, quien tendrá voz, pero sin voto.
 
-III. Trece consejerías, que serán ocupadas por las personas titulares de las dependencias gubernamentales o los representantes de los sectores siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2023)</small>
+
+III. Dieciocho consejerías, que serán ocupadas por las personas titulares de las dependencias gubernamentales o los representantes de los sectores siguientes:
 
 a) La Secretaría General de Gobierno.
 
@@ -523,7 +525,9 @@ e) La Secretaría de Desarrollo Rural.
 
 f) La Secretaría de Salud.
 
-g) La Secretaría de Desarrollo Municipal.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2023)</small>
+
+g) La Secretaría de Coordinación de Gabinete.
 
 h) La Dirección Local de la Comisión Nacional del Agua.
 
@@ -531,9 +535,19 @@ i) Del Poder Legislativo del Estado, preferentemente quien ocupe la Presidencia 
 
 j) Una persona representante del sector académico y/o de investigación.
 
-k) Dos personas representantes del sector empresarial, las cuales deberán ser una de la Región Norte, Noreste y Noroeste, y la otra de la Región Centro y Sur del Estado.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2023)</small>
+
+k) Cinco personas representantes del sector empresarial, las cuales deberán ser emanadas de quienes integren los Consejos de Administración, de las Juntas Municipales de Agua y Saneamiento de Chihuahua, Juárez, Cuauhtémoc, Delicias e Hidalgo del Parral.
 
 l) Una persona representante de los Colegios de Profesionistas, relacionados con la problemática del agua.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2023)</small>
+
+m) La Secretaría de Desarrollo Humano y Bien Común.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2023)</small>
+
+n) Una persona representante de la Comisión Estatal para la Protección Contra Riesgos Sanitarios.
 
 También formarán parte del Consejo las personas que ocupen la titularidad de las Direcciones Ejecutiva y Financiera, con derecho a voz, pero sin voto.
 
@@ -549,31 +563,53 @@ Las personas que pretendan ocupar el cargo de Consejeros de los señalados en lo
 
 I. Tener una representatividad activa en el sector que le corresponde.
 
-II. Haberse desempeñado, durante al menos dos años, ya sea en los ámbitos profesional, empresarial, docente o de investigación, en actividades que proporcionen la experiencia necesaria en el sector del agua y/o administración para cumplir con las funciones de Consejería de la Junta.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
+
+II. Haberse desempeñado, durante al menos dos años, ya sea en los ámbitos profesional, empresarial, docente o de investigación, en actividades que proporcionen la experiencia necesaria en el sector del agua y/o administración, desarrollo urbano, economía, ecología, medio ambiente, ordenamiento territorial y desarrollo sustentable para cumplir con las funciones de Consejería de la Junta.
 
 III. No haber sido funcionario público de cualquier orden de gobierno en el año inmediato anterior, ni haber ocupado cargos de elección popular o directivos en partido político alguno, en los tres años inmediatos anteriores al día de la designación.
 
 IV. No haber sido condenado mediante sentencia firme por delito doloso que le imponga pena de prisión, y tratándose de delitos patrimoniales dolosos, cualquiera que haya sido la pena.
 
-V. Para que pueda desempeñar sus funciones sin conflicto de interés y sin estar supeditado a intereses personales y/o económicos, no deberán ser prestadores de servicios, proveedores, contratistas, deudores o acreedores o empleados de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general; concesionarios, consejeros, asesores o empleados de una persona moral que sea prestador de servicios, proveedor, contratista, deudor o acreedor de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+V. Para que pueda desempeñar sus funciones sin conflicto de interés y sin estar supeditado a intereses personales y/o económicos, no deberán ser prestadores de servicios, proveedores, contratistas, acreedores, empleados, o sujetos a un proceso administrativo o judicial, de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general; así mismo, concesionarios, consejeros, asesores o empleados de persona moral que sea prestador de servicios, proveedor, contratista, acreedor, o sujeto a un proceso administrativo o judicial, de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2023)</small>
 
 ###### Artículo 12 Ter.
 
-Los miembros del Consejo de Administración conformarán el Comité Técnico de Evaluación, quienes se encargarán de emitir oportunamente las convocatorias públicas abiertas necesarias para la renovación de los miembros por elección del Consejo de Administración, señalados en los incisos j), k) y l) del artículo 12, en la que señalarán las etapas completas para el procedimiento, criterios de evaluación de idoneidad de las personas aspirantes a miembros, fechas límites y plazos, sujetándose a los siguientes términos:
+Quienes integran el Consejo de Administración conformarán el Comité Técnico de Evaluación, quien se encargará de emitir oportunamente las convocatorias públicas abiertas necesarias para la renovación de sus integrantes por elección del Consejo de Administración, señalados en los incisos j) y l) del artículo 12, en la que señalará las etapas completas para el procedimiento, criterios de evaluación de idoneidad de las personas aspirantes a integrantes, fechas límites y plazos, sujetándose a los siguientes términos:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 a) Serán electos en el tercer y noveno semestres de cada administración estatal y entrarán en funciones al inicio del cuarto y décimo semestres, respectivamente.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 b) Podrán ser ratificados por el Consejo, por un período inmediato, en una sola ocasión.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 c) Podrá participar cualquier persona que tenga la ciudadanía mexicana que cumpla con los requisitos que señala la presente Ley.
 
-Para cada uno de las consejerías de los incisos j), k) y l), del artículo 12 se nombrará una persona suplente, quien entrará en funciones en caso de renuncia o remoción.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2023)</small>
+
+Para cada una de las consejerías de los incisos j) y l), del artículo 12, se nombrará una persona suplente, quien entrará en funciones en caso de renuncia o remoción.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 Los cargos de las Consejerías serán honoríficos, sin excepción, deberán desempeñar las funciones que la Ley, los ordenamientos aplicables y el Consejo de Administración, les asignen, y ejercer por períodos cuya duración y escalonamiento provean al ejercicio autónomo de sus funciones, continuidad de sus acciones y equilibrio en sus decisiones.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 Las personas integrantes del Consejo que se desempeñan como funcionarias o servidoras públicas durarán en el cargo el término que dure su responsabilidad, pudiendo designar una persona suplente, quien deberá tener el nivel inmediato inferior, salvo el caso del integrante del Poder Legislativo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE JULIO DE 2023)</small>
+
+Para la renovación de cada una de las consejerías del inciso k) del artículo 12, se emitirá una convocatoria a los Consejos de Administración de las Juntas Municipales de Agua y Saneamiento mencionadas en dicho artículo, solicitando propongan a las personas Consejeras y sus suplentes, que los representarán en el Consejo de Administración.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 12 DE JULIO DE 2023)</small>
 
 En caso de renuncia o remoción de una persona integrante de la Consejería de los señalados en los incisos j), k) y l) del artículo 12, el Consejo llamará al suplente por el término restante de su período.
 
@@ -589,7 +625,9 @@ Las Sesiones del Consejo serán dirigidas por quien ocupe la Presidencia; en cas
 
 El Consejo se instalará válidamente con la presencia de la mayoría de las personas integrantes.
 
-Todas sus sesiones deberán de ser públicas y transmitirse en vivo vía electrónica; cada sesión deberá celebrarse de acuerdo a un orden del día, el cual se dará a conocer a los miembros del Consejo, por lo menos con dos días hábiles de anticipación en los casos de sesiones ordinarias, y con doce horas de anticipación en los casos de sesiones extraordinarias; sus acuerdos se asentarán en el acta correspondiente, en la que se consignarán, por lo menos, los integrantes del Consejo que estuvieron presentes y las resoluciones aprobadas, misma que deberá ser inscrita en el Libro de Actas que para cada año corresponda.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2023)</small>
+
+Todas sus sesiones deberán ser públicas y transmitirse en vivo vía electrónica; cada sesión deberá celebrarse de acuerdo a un orden del día, el cual se dará a conocer a los integrantes del Consejo, por lo menos con dos días hábiles de anticipación en los casos de sesiones ordinarias, y con un día hábil de anticipación en los casos de sesiones extraordinarias; sus acuerdos se asentarán en el acta correspondiente, en la que se consignarán, por lo menos, las y los integrantes del Consejo que estuvieron presentes y las resoluciones aprobadas, misma que deberá ser inscrita en el Libro de Actas que para cada año corresponda.
 
 Sus acuerdos y determinaciones se tomarán por mayoría simple de votos de las personas presentes y, en caso de empate, tendrá la Presidencia voto de calidad.
 
@@ -745,7 +783,9 @@ a) Anual de actividades de la Junta Central.
 
 b) De cumplimiento de acuerdos del Consejo de Administración.
 
-c) (DEROGADO, P.O. 24 DE MARZO DE 2021)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE JULIO DE 2023)</small>
+
+c) Anual de diagnóstico y resultados de la ejecución del Programa Estatal de Cultura del Agua, y remitirlo en el mes de marzo de cada año, al H. Congreso del Estado; dicho informe será turnado a la Comisión de Dictamen Legislativo correspondiente, para su conocimiento.
 
 d) Mensual de actividades que incluya el Sistema de Indicadores, el Reporte de las Incidencias sobre la Observancia de la Normatividad Administrativa, el avance del cumplimiento del Programa Operativo Anual y las recomendaciones emitidas para corregir las observaciones detectadas.
 
@@ -905,13 +945,91 @@ Para el correcto desarrollo de sus atribuciones, las juntas municipales contará
 
 De igual manera contará con un Órgano Interno de Control, con dependencia jerárquica y funcional de la Secretaría encargada del Control Interno del Ejecutivo, quien designará a su titular e integrantes, con las facultades que determine la Ley, para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2023)</small>
 
 ###### Artículo 20.
 
-Las juntas municipales tendrán un Consejo de Administración integrado por:
+Las juntas municipales que cuenten con cien mil tomas o más tendrán un Consejo de Administración integrado por:
 
-I. Una Presidencia, cuyo titular será nombrado y removido por el Consejo de Administración de la Junta Central, a propuesta de una terna que le envíe el Consejo de Administración de la junta municipal, conformada por personas externas al propio Consejo de Administración de la junta municipal, y deberá representar la pluralidad de los integrantes.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
+
+I. Una Presidencia, cuyo titular será nombrado y removido por el Consejo de Administración de la Junta Central, a propuesta de una terna que le envíe el Consejo de Administración de la junta municipal, conformada por personas de los sectores académico y/o de investigación, productivo, colegios de profesionistas o de la sociedad civil organizada y deberá representar la pluralidad de sus integrantes.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+II. La Secretaría, nombramiento que recaerá en quien ocupe la Dirección Jurídica o Financiera, con voz, pero sin voto.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2023)</small>
+
+III. Quince Consejerías, que serán ocupadas por las personas titulares de las dependencias gubernamentales o los representantes de los sectores siguientes:
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+a) La persona titular de la Presidencia Municipal, quien podrá nombrar un suplente que tenga el cargo de titular de la Dirección de Desarrollo Urbano o, en su caso, de la Dirección de Obras Públicas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2023)</small>
+
+b) Cinco representantes de Gobierno, quienes deberán ser:
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+1. Una persona de la Secretaría de Hacienda, designada por quien ocupe la titularidad de esa Secretaría.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+2. Una persona de la Junta Central, designada por la persona titular de la Dirección Ejecutiva.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+3. Una persona de la Secretaría de Salud, designada por quien ocupe la titularidad de dicha Secretaría.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+4. Una persona de la Secretaría de Desarrollo Rural, designada por quien ocupe la titularidad de esa Secretaría.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2023)</small>
+
+5. Una persona representante de la Comisión Estatal para la Protección Contra Riesgos Sanitarios.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+c) Quien ocupe la Presidencia de la Comisión de Desarrollo Urbano o de Obras Públicas del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+d) Un representante del sector académico y/o investigación.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2023)</small>
+
+e) Cinco representantes del sector productivo, emanados de los capítulos locales de los siguientes Organismos:
+
+1. Cámara Nacional de la Industria de la Transformación.
+
+2. Cámara Mexicana de la Industria de la Construcción.
+
+3. Cámara de Propietarios de Bienes Inmuebles.
+
+4. Cámara Nacional de Comercio, Servicios y Turismo.
+
+5. Confederación Patronal de la República Mexicana.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+f) Un representante de los Colegios de Profesionistas, relacionados con la problemática del agua.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+g) Un representante de la Sociedad Civil Organizada relacionada con la problemática del agua.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE MARZO DE 2021)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE MARZO DE 2021)</small>
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 12 DE JULIO DE 2023)</small>
+
+En el caso de las Juntas Municipales que cuenten con menos de cien mil tomas tendrán un Consejo de Administración integrado por:
+
+I. Una Presidencia, cuyo titular será nombrado y removido por el Consejo de Administración de la Junta Central, a propuesta de una terna que le envíe el Consejo de Administración de la junta municipal, conformada por los integrantes de los sectores académico y/o de investigación, productivo, colegios de profesionistas o de la sociedad civil organizada, y deberá representar la pluralidad de los integrantes.
 
 II. La Secretaría, nombramiento que recaerá en quien ocupe la Dirección Jurídica o Financiera, con voz, pero sin voto.
 
@@ -919,7 +1037,7 @@ III. Doce Consejerías, que serán ocupadas por las personas titulares de las de
 
 a) La persona titular de la Presidencia Municipal, quien podrá nombrar un suplente que tenga el cargo de titular de la Dirección de Desarrollo Urbano o, en su caso, de la Dirección de Obras Públicas.
 
-b) Cuatro representantes de Gobierno del Estado, quienes deberán ser:
+b) Cinco representantes de Gobierno del Estado, quienes deberán ser:
 
 1. Una persona de la Secretaría de Hacienda, designada por quien ocupe la titularidad de esa Secretaría.
 
@@ -929,17 +1047,33 @@ b) Cuatro representantes de Gobierno del Estado, quienes deberán ser:
 
 4. Una persona de la Secretaría de Desarrollo Rural, designada por quien ocupe la titularidad de esa Secretaría.
 
+5. Una persona representante de la Comisión para la Protección Contra Riesgos Sanitarios.
+
 c) Quien ocupe la Presidencia de la Comisión de Desarrollo Urbano o de Obras Públicas del Ayuntamiento.
 
 d) Un representante del sector académico y/o investigación.
 
-e) Tres representantes del sector empresarial.
+e) Tres representantes del sector productivo, emanados de los capítulos locales de los siguientes Organismos que exista representación:
+
+1. Cámara Nacional de la Industria de la Transformación.
+
+2. Cámara Mexicana de la Industria de la Construcción.
+
+3. Cámara de Propietarios de Bienes Inmuebles.
+
+4. Cámara Nacional de Comercio, Servicios y Turismo.
+
+5. Confederación Patronal de la República Mexicana.
 
 f) Un representante de los Colegios de Profesionistas, relacionados con la problemática del agua.
 
 g) Un representante de la Sociedad Civil Organizada relacionada con la problemática del agua.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2023)</small>
+
 También formarán parte del Consejo las personas que ocupen la titularidad de las Direcciones Ejecutiva y Financiera, con derecho a voz, pero sin voto.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2023)</small>
 
 En aquellos municipios en donde no se cuente con alguna de las organizaciones o colegios señalados, se considerarán en su lugar representantes de las organizaciones de productores, profesionistas u organizaciones de la sociedad civil con mayor representatividad en el municipio, siempre y cuando cumplan con los requisitos señalados en la presente Ley.
 
@@ -955,13 +1089,17 @@ La persona que se designe titular de la Presidencia del Consejo, será electa en
 
 Las personas que pretendan ocupar el cargo de Consejeros de los señalados en los incisos d), e), f) y g) del artículo 20, deberán cumplir con los siguientes requisitos:
 
-I. Haberse desempeñado, durante al menos dos años, ya sea en los ámbitos profesional, empresarial, docente o de investigación, en actividades que proporcionen la experiencia necesaria en el sector del agua y/o administrativa para cumplir con las funciones de la consejería de la junta municipal.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
+
+I. Haberse desempeñado, durante al menos dos años, ya sea en los ámbitos profesional, empresarial, docente o de investigación, en actividades que proporcionen la experiencia necesaria en el sector del agua, administración, desarrollo urbano, economía, ecología y medio ambiente, ordenamiento territorial y desarrollo sustentable para cumplir con las funciones de la consejería de la junta municipal.
 
 II. No haber sido funcionario público de cualquier orden de gobierno en el año inmediato anterior, ni haber ocupado cargos de elección popular o directivos en partido político alguno, en los tres años inmediatos anteriores al día de la designación.
 
 III. No haber sido condenado mediante sentencia firme por delito doloso que le imponga pena de prisión, y tratándose de delitos patrimoniales dolosos, cualquiera que haya sido la pena.
 
-IV. Para que puedan desempeñar sus funciones sin conflicto de interés y sin estar supeditados a intereses personales y/o económicos, no deberán ser prestadores de servicios, proveedores, contratistas, deudores o acreedores o empleados de la Junta Central o cualquiera de los organismos operadores del Estado en general; concesionarios, consejeros, asesores o empleados de una persona moral que sea prestador de servicios, proveedor, contratista, deudor o acreedor importante de la Junta Central o cualquiera de los organismos operadores del Estado en general.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
+
+IV. Para que puedan desempeñar sus funciones sin conflicto de interés y sin estar supeditados a intereses personales y/o económicos, no deberán ser prestadores de servicios, proveedores, contratistas, acreedores, empleados, o sujetos a un proceso administrativo o judicial, de la Junta Central o cualquiera de los organismos operadores del Estado en general; Así mismo, concesionarios, consejeros, asesores, acreedores o empleados de persona moral que sea prestador de servicios, proveedor, contratista, o sujetos a un proceso administrativo o judicial de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -980,6 +1118,10 @@ Los cargos de la Consejería serán honoríficos, sin excepción, deberán desem
 Los integrantes del Consejo que se desempeñan como servidores públicos durarán en el cargo el término que dure su responsabilidad.
 
 En caso de renuncia o remoción de una persona integrante de la Consejería de los señalados en los incisos d), e), f) y g) del artículo 20, el Consejo llamará al suplente por el término restante de su período.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2023)</small>
+
+Para la renovación de cada una de las Consejerías del inciso e) del artículo 20, se emitirá una convocatoria a los Organismos mencionados, solicitando propongan o en su caso, ratifiquen a los Consejeros y sus suplentes que los representarán en el Consejo de Administración.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -1007,7 +1149,9 @@ Sus acuerdos y determinaciones se tomarán por mayoría simple de votos de los p
 
 El Consejo de Administración de las Juntas Municipales tendrá las siguientes facultades:
 
-I. Proponer, al Consejo de la Junta Central, una terna para la elección de las personas que ocupen la Presidencia del Consejo de Administración, conformada por personas externas al propio Consejo de Administración de la junta municipal y deberá representar la pluralidad de los integrantes, así como una terna para ocupar la Dirección Ejecutiva.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
+
+I. Proponer, al Consejo de la Junta Central, una terna para la elección de las personas que ocupen la Presidencia del Consejo de Administración, conformada por personas externas al propio Consejo de Administración de la junta municipal, de conformidad con el artículo 20, fracción I de esta Ley, y deberá representar la pluralidad de los integrantes, así como una terna para ocupar la Dirección Ejecutiva.
 
 II. Aprobar los nombramientos de las personas aspirantes a ser titulares de las Direcciones de la Junta Municipal y, en su caso, su remoción.
 
@@ -1045,7 +1189,13 @@ XVII. Autorizar su propuesta de estructura orgánica y remitirla al Consejo de A
 
 XVIII. Realizar todas las actividades que sean necesarias, en el ámbito de su competencia, para lograr que las juntas operadoras presten a la comunidad servicios adecuados y eficientes, de conformidad con la presente Ley y demás normatividad aplicable.
 
-XIX. Las demás que señale esta Ley, el Reglamento, el Código Administrativo del Estado, el Estatuto Orgánico y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2023)</small>
+
+XIX. Nombrar a las y los Consejeros y sus suplentes, que tendrán representación en el Consejo de Administración de la Junta Central, de conformidad al artículo 12, inciso k) de esta Ley.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE JULIO DE 2023)</small>
+
+XX. Las demás que señale esta Ley, y otras disposiciones legales en la materia.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -1211,6 +1361,20 @@ c) De resultados de los estados financieros.
 
 d) Mensual de actividades que incluya el Sistema de Indicadores, el reporte de las Incidencias sobre la Observancia de la Normatividad Administrativa, el avance del cumplimiento de los Programas Operativo Anual y de Operación y las recomendaciones emitidas para corregir las observaciones detectadas.
 
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 12 DE JULIO DE 2023)</small>
+
+e) Anual de diagnóstico y resultados obtenidos de las acciones implementadas para lograr la promoción y fomento del uso eficiente y la preservación del agua, así como de la cultura del agua, a más tardar en la primera semana del mes de marzo de cada año, mismo que deberá ser incluido en el informe anual de la Junta Central.
+
+Dicho Informe deberá ser público, y mínimo contendrá lo siguiente:
+
+1. Indicadores que muestren el diagnóstico e impacto en la implementación o ejecución del Programa para el uso eficiente y de Cultura del Agua.
+
+2. Cantidad de usuarios, sus demandas y si cuentan con medidores.
+
+3. Calidad de Agua y su abastecimiento, en cuanto a la calidad de agua, incluir los análisis de organismos certificados o acreditados en la materia.
+
+4. Metas, estrategias, acciones, indicadores para el logro de la gestión integral en el uso y aprovechamiento eficiente y sustentable del agua.
+
 VIII. Nombrar y remover libremente al personal de la Junta Municipal, a excepción de las Direcciones, lo cual informará al Consejo de Administración en sesión inmediata posterior.
 
 IX. Verificar la realización de los estudios y análisis técnicos, económicos y financieros necesarios para evaluar la relación costo-beneficio de las obras y su impacto social.
@@ -1231,9 +1395,13 @@ XV. Nombrar a las personas que habrán de desempeñarse como inspectores, ejecut
 
 XVI. Delegar atribuciones inherentes al debido funcionamiento de la entidad mediante acuerdo específico.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 24 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2023)</small>
 
-XVII. Las demás que le correspondan de acuerdo con esta Ley, el Código Administrativo del Estado de Chihuahua, los estatutos y los reglamentos respectivos o los que le otorgue el Consejo de Administración.
+XVII. Emitir dictámenes, así como aplicar penas convencionales y efectuar recisiones de los contratos, convenios o cualquier acuerdo de voluntades celebrado con los empleados, usuarios, prestadores de servicios, proveedores, contratistas o cualquier persona física o moral, privada o pública.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE JULIO DE 2023)</small>
+
+XVIII. Las demás que señale esta Ley, y otras disposiciones legales de la materia.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -1389,7 +1557,9 @@ I. Dar seguimiento al Programa Sectorial de Aprovechamiento Sustentable del Agua
 
 II. Participar, en coordinación con la Federación, el Estado y el municipio, en el establecimiento de las políticas, lineamientos y especificaciones técnicas, conforme a los cuales deberá efectuarse la construcción, ampliación, rehabilitación, administración, operación, conservación, mejoramiento y mantenimiento de los sistemas de abastecimiento de agua potable, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
 
-III. Promover y fomentar el uso eficiente y la preservación del agua, así como la cultura del agua como recurso escaso y vital.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
+
+III. Promover y fomentar el uso eficiente y la preservación del agua, así como la cultura del agua como recurso escaso y vital; además de rendir un informe anual al Consejo de Administración, sobre los resultados obtenidos de las acciones implementadas para lograr estos objetivos.
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 2021)</small>
 
@@ -2249,9 +2419,11 @@ VII.- Ejercer las atribuciones que le correspondan en materia de prevención y c
 
 ### CAPÍTULO IV. CULTURA DEL AGUA
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2023)</small>
+
 ###### Artículo 86.
 
-La Junta Central tendrá a su cargo el diseño, difusión y ejecución del Programa Estatal de Cultura del Agua, el cual contendrá como mínimo la promoción de las costumbres, valores, actitudes y hábitos de los miembros de la sociedad, que en forma individual o colectiva, repercutan en el uso y cuidado responsable del agua.
+La Junta Central tendrá a su cargo el diseño, difusión y ejecución del Programa Estatal de Cultura del Agua, el cual contendrá como mínimo la promoción de las costumbres, valores, actitudes y hábitos de las y los integrantes de la sociedad, que en forma individual o colectiva, repercutan en el uso y cuidado responsable del agua; además deberá rendir un informe anual al H. Congreso el Estado, sobre los resultados obtenidos de la ejecución de dicho Programa.
 
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 2015)</small>
 
@@ -2728,3 +2900,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- En lo referente al artículo 10, apartado B), la fracción II Bis, de la Ley del Agua del Estado de Chihuahua, entrará en vigor el primero de enero del año 2024, con la finalidad de (sic) la Junta Central de Agua y Saneamiento del Estado, realice las adecuaciones administrativas, presupuestales y técnicas, para llevar o cabo la implementación del servicio profesional de carrera de la Junta Central de Agua y Saneamiento del Estado de Chihuahua, y de las juntas operadoras, derogándose con esta entrada en vigor de (sic) los artículos 15 BIS, la fracción IX; y 24 BIS, la fracción VIII.
 
 TERCERO.- El titular del Poder Ejecutivo del Estado, deberá expedir el Reglamento de la Ley del Agua del Estado de Chihuahua, dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 12 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO LXVII/RFLEY/0556/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA”.]
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0557/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JULIO DE 2023.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
