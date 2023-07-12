@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-prevenir-atender-y-erradicar-la-desaparicion-109698"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-02"
-last_updated: "2015-09-02"
+last_updated: "2023-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY PARA PREVENIR, ATENDER Y ERRADICAR LA DESAPARICION FORZADA DE PERSONAS PARA EL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO MIL CIENTO UNO POR EL QUE SE ABROGA LA "LEY PARA PREVENIR, ATENDER Y ERRADICAR LA DESAPARICIÓN FORZADA DE PERSONAS PARA EL ESTADO DE MORELOS", Y SE EXPIDE LA "LEY DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE MORELOS", Y EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE MORELOS, PUBLICADOS EN EL P.O. DE 12 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA DESAPARICIÓN FORZADA DE PERSONAS PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 2 de septiembre de 2015.
 
@@ -422,3 +424,25 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CIENTO UNO POR EL QUE SE ABROGA LA "LEY PARA PREVENIR, ATENDER Y ERRADICAR LA DESAPARICIÓN FORZADA DE PERSONAS PARA EL ESTADO DE MORELOS", Y SE EXPIDE LA "LEY DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE MORELOS".]
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación, sanción y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERO. Se abroga la Ley para Prevenir, Atender y Erradicar la Desaparición Forzada de Personas para el Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad” el 2 de septiembre de 2015 y se derogan todas las disposiciones que contravengan la presente Ley.
+
+CUARTO. El Titular del Poder Ejecutivo Estatal dentro de los noventa días naturales siguientes a la publicación de este Decreto, expedirá el reglamento correspondiente, mismo que deberá contener los lineamientos para el funcionamiento del Sistema de Búsqueda y del Consejo Ciudadano.
+
+QUINTO. El Sistema de Búsqueda deberá quedar instalado dentro de los sesenta días naturales a partir de la publicación del presente Decreto.
+
+SEXTO. El Sistema de Búsqueda dentro de los noventa días naturales a partir de la publicación del presente Decreto, vigilará que se hayan adoptado los Protocolos que faltan por adoptarse en el Estado.
+
+SÉPTIMO. La Fiscalía General del Estado, dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, armonizará el marco legal que la rige, con las disposiciones aplicables de esta Ley.
+
+OCTAVO. El Consejo Ciudadano deberá quedar integrado dentro de los treinta días naturales a partir de la publicación del presente Decreto.
