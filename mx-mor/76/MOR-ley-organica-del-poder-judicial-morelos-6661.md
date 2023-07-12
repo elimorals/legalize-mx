@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2022-07-06"
+last_updated: "2023-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -107,7 +107,9 @@ Son atribuciones de las autoridades judiciales:
 
 I.- Ejercer la función jurisdiccional pronta, expedita y gratuita;
 
-II.- Ajustar sus procedimientos y resoluciones a las leyes;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
+
+II.- Ajustar sus procedimientos y resoluciones a las leyes, al protocolo para juzgar con perspectiva de género y demás que resulten obligatorios expedidos por la Suprema Corte de Justicia de la Nación;
 
 III.- Auxiliar a la justicia federal y demás autoridades, en los términos de las disposiciones legales relativas;
 
@@ -2996,3 +2998,13 @@ CUARTA. En el caso de la existencia previa de una declaratoria por presunción d
 QUINTA. Las personas titulares del Tribunal Superior de Justicia del Estado de Morelos, el Poder Ejecutivo del Estado de Morelos, así como de los organismos autónomos a los que se refiere esta ley, contarán con un plazo de 180 días para adecuar las disposiciones reglamentarias que correspondan, a efecto de cumplir y armonizarlas con las disposiciones contenidas en la presente ley.
 
 SEXTA. Todas las autoridades que intervienen en la aplicación de la presente ley deberán capacitarse conforme a este procedimiento de Declaración Especial de Ausencia, para garantizar de manera adecuada una protección eficaz del derecho.
+
+P.O. 12 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL NOVENTA Y NUEVE POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 5 DE LA LEY ORGÁNICA DEL PODER JUDICIAL”.]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
+
+TERCERA.- Se derogan las disposiciones de igual o menor grado que se opongan al presente Decreto.
