@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-colegio-de-bachilleres-del-estado-de-95955"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-09-21"
-last_updated: "2016-10-03"
+last_updated: "2023-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 21 de septiembre de 2013.
 
@@ -89,7 +89,13 @@ VI. Promover y realizar actividades para la preservación y difusión de la cult
 
 VII. Realizar estudios e investigaciones que permitan un uso eficiente de los recursos materiales y humanos.
 
-VIII. Las demás que sean afines para el cumplimento de su objeto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2023)</small>
+
+VIII. Fomentar el conocimiento y práctica de las bellas artes, a través de los programas que se implementen para ese efecto.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE JULIO DE 2023)</small>
+
+IX. Las demás que sean afines para el cumplimento de su objeto.
 
 ###### ARTÍCULO 6.
 
@@ -105,7 +111,13 @@ IV. Revalidar estudios realizados en instituciones federales, estatales, extranj
 
 V. Reconocer los estudios realizados en planteles privados incorporados que impartan el mismo tipo de enseñanza, o retirar, en su caso, dicho reconocimiento.
 
-VI. Las que sean afines con las anteriormente descritas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2023)</small>
+
+VI. Instrumentar e implementar el programa "Casa de la Cultura COBACH", para el conocimiento, práctica y desarrollo de las bellas artes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE JULIO DE 2023)</small>
+
+VII. Las que sean afines con las anteriormente descritas.
 
 ### CAPÍTULO III. DEL PATRIMONIO
 
@@ -890,3 +902,19 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 12 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLEY/0569/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Colegio de Bachilleres del Estado de Chihuahua, emitirá y aprobará la normatividad aplicable al programa "Casa de la Cultura COBACH".
+
+###### ARTÍCULO TERCERO.
+
+El Colegio de Bachilleres del Estado de Chihuahua, realizará las previsiones presupuestales necesarias para brindar viabilidad financiera al programa "Casa de la Cultura COBACH".
