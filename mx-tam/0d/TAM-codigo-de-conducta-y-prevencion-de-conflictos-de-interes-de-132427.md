@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-132
 country: "mx"
 rank: "codigo"
 publication_date: "2018-12-20"
-last_updated: "2019-01-23"
+last_updated: "2023-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LA CONTRALORIA GUBERNAMENTAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA CONTRALORÍA GUBERNAMENTAL, PUBLICADO EN EL P.O. DE 12 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERESES DE LA CONTRALORÍA GUBERNAMENTAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ENERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 20 de diciembre de 2018.
 
@@ -796,3 +796,15 @@ SEGUNDO.- Se abroga el Código de Conducta de la Contraloría Gubernamental del 
 Dado en Ciudad Victoria, capital del Estado de Tamaulipas, a los 19 días del mes de diciembre de dos mil dieciocho.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- EL CONTRALOR GUBERNAMENTAL.- MARIO SORIA LANDERO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA CONTRALORÍA GUBERNAMENTAL".]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+SEGUNDO. Se abroga el Código de Conducta y Prevención de Conflictos de Intereses de la Contraloría Gubernamental del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado número 153, de 20 de diciembre de 2018.
+
+TERCERO. Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Código, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
