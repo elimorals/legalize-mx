@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-hospital-del-nino-morelense-del-140801"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-22"
-last_updated: "2020-01-22"
+last_updated: "2023-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO DE CONDUCTA DEL HOSPITAL DEL NIÑO MORELENSE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 22 de enero de 2020.
 
@@ -488,3 +488,15 @@ DIRECTOR GENERAL DEL HOSPITAL DEL NIÑO MORELENSE
 RÚBRICA.
 
 La presente hoja de firmas es parte integrante del Código de Conducta del personal del Hospital del Niño Morelense.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL HOSPITAL DEL NIÑO MORELENSE”.]
+
+PRIMERA. El presente código de conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente instrumento es de observancia obligatoria para todas las personas que desempeñen un empleo, cargo o comisión en el Hospital del Niño Morelense.
+
+TERCERA. Se abroga el Código de Conducta de Hospital del Niño Morelense publicado en el Periódico Oficial “Tierra y Libertad”, número 5774, de fecha veintidós de enero del año dos mil veinte.
