@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2022-05-18"
+last_updated: "2023-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -33,7 +33,9 @@ EL CIUDADANO LIC. FRANCISCO RICARDO SHEFFIELD PADILLA, PRESIDENTE MUNICIPAL DE L
 
 QUE EL HONORABLE AYUNTAMIENTO CONSTITUCIONAL QUE PRESIDO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 115, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; 117 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO; 69 FRACCIONES I INCISO B), 202, 203, 203 A, 204 Y 205 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO, 84, 85, 86, 89, 90 Y 94 DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DE LEÓN, GUANAJUATO, EN SESIÓN ORDINARIA DE FECHA 08 DE JULIO DE 2010, APROBÓ EL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO, ASÍ COMO LOS ANEXOS TÉCNICOS QUE LO CONFORMAN, ELLO CON BASE EN LA SIGUIENTE:
 
-EXPOSICIÓN DE MOTIVOS...
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Finalmente, el proyecto de Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato, pretende ser un proyecto urbano colectivo que socialice los costos y los beneficios colectivos de largo plazo, y que cuente con la suficiente voluntad y liderazgo político para activar recursos, logrando una interacción democrática y participativa en los asuntos de la ciudad.
 
@@ -7633,9 +7635,11 @@ No existirán bienes de uso común destinados a la vialidad, ni colonias, fracci
 
 La nomenclatura tiene por objeto identificar y facilitar la localización de los bienes de uso común destinados a la vialidad, así como de las colonias, fraccionamientos, barrios, parques y jardines, propiciando de este modo su ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2023)</small>
+
 ###### Artículo 465.
 
-La nomenclatura deberá ser uniforme, para lo cual las propuestas de asignación deberán regirse bajo los lineamientos siguientes:
+La nomenclatura deberá ser uniforme, para lo cual las propuestas de asignación deberán regirse bajo las directrices siguientes:
 
 I. Proponer nombres nuevos no existentes en la cartografía básica de nomenclatura ni en el nomenclátor;
 
@@ -7643,7 +7647,9 @@ II. Que corresponda a una familia temática, claramente reconocible como tal;
 
 III. Una misma nomenclatura para todo lo largo y ancho de los cauces correspondientes a las vialidades, aún y cuando esta tenga un amplio camellón o un espacio verde intermedio o se ubiquen en distintas colonias, fraccionamientos o barrios;
 
-IV. Para casos de personas vivas o ya fallecidas, deberán corresponder a aquéllas que tengan un antecedente histórico que indique que es o fue alguien sobresaliente en cualquier aspecto, habiendo sido protagonistas de un acto heroico, altruista, científico, de mérito cívico, o bien, que se hubiere distinguido por servicios prestados al municipio, al estado o a la patria, para lo cual se referirá su nombre completo y correcto;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
+
+IV. Para casos de personas vivas o ya fallecidas, deberán corresponder a aquéllas que tengan un antecedente histórico que indique que es o fue alguien sobresaliente en cualquier aspecto, habiendo sido protagonistas de un acto heroico, altruista, científico, cultural, de mérito cívico, o bien, que se hubiere distinguido por servicios prestados al municipio, al estado o a la patria, para lo cual se referirá su nombre completo y correcto;
 
 V. Procurar que se resalten las tradiciones, eventos y fechas históricas en que se conmemoren sucesos importantes;
 
@@ -7652,6 +7658,10 @@ VI. Que exista congruencia entre la nomenclatura y la estructura urbana de la ci
 VII. Que sea en idioma español con excepción de nombres propios y lenguas o dialectos nativos de los Estados Unidos Mexicanos; y,
 
 VIII. Que la nomenclatura no tenga palabras confusas, ofensivas, injuriosas o contrarias a las buenas costumbres.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2023)</small>
+
+Las propuestas de asignación de nomenclatura, además de las directrices que establece el presente artículo, procurarán la perspectiva de género.
 
 ###### Artículo 466.
 
@@ -9206,3 +9216,11 @@ P.O. 18 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL SE ADICIONAN LA FRACCIÓN XLIII-A AL ARTÍCULO 2 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 95-A, AL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO”.]
 
 Artículo Único. Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 12 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL AYUNTAMIENTO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y FRACCIÓN IV, ASÍ COMO LA ADICIÓN DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 465 DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO".]
+
+Vigencia
+
+Artículo Único. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
