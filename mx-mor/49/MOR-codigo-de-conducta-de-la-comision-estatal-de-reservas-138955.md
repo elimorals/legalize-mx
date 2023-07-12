@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-comision-estatal-de-reservas-138955"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-07"
-last_updated: "2019-08-08"
+last_updated: "2023-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA COMISION ESTATAL DE RESERVAS TERRITORIALES DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA COMISIÓN ESTATAL DE RESERVAS TERRITORIALES, PUBLICADO EN EL P.O. DE 12 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA COMISIÓN ESTATAL DE RESERVAS TERRITORIALES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 8 DE AGOSTO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 7 DE AGOSTO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de agosto de 2019.
 
@@ -230,3 +230,13 @@ LA DIRECTORA GENERAL DE LA COMISIÓN ESTATAL DE RESERVAS TERRITORIALES
 MARÍA DEL CARMEN DE LA FUENTE DURÁN
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA COMISIÓN ESTATAL DE RESERVAS TERRITORIALES”.]
+
+PRIMERA.- El presente código de conducta entrará en vigor a partir del siguiente día de su publicación en el Periódico Oficial “Tierra y Libertad”, con fundamento en el artículo segundo transitorio del Código de Ética de la Administración Pública Estatal y artículo tercero transitorio de los Lineamientos para la emisión del Código de Ética a que se refieren los artículos 16 de la Ley General de Responsabilidades Administrativas, 15 de la Ley de Responsabilidades Administrativas para el Estado de Morelos.
+
+SEGUNDA.- Se abroga el código de conducta de la comisión de fecha dos de julio de dos mil diecinueve, publicado en el Periódico Oficial “Tierra y Libertad” número 5732, en fecha siete de agosto de dos mil diecinueve.
