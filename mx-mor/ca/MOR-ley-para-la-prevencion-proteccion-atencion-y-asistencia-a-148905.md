@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-prevencion-proteccion-atencion-y-asistencia-a-14890
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-31"
-last_updated: "2021-03-31"
+last_updated: "2023-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 31 de marzo de 2021.
 
@@ -147,21 +147,27 @@ X. La Comisión Estatal de Seguridad;
 
 XI. La Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos;
 
-XII. El Instituto de la Mujer para el Estado de Morelos;
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2023)</small>
 
-XIII. El Instituto Morelense de las Personas Adolescentes y Jóvenes;
+XII. La Comisión de Búsqueda de Personas del Estado de Morelos;
 
-XIV. El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos;
+XIII. El Instituto de la Mujer para el Estado de Morelos;
 
-XV. La Comisión de Derechos Humanos del Estado de Morelos;
+XIV. El Instituto Morelense de las Personas Adolescentes y Jóvenes;
 
-XVI. Los Municipios representados por el titular de la Dirección del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos (IDEFOMM);
+XV. El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos;
 
-XVII. La oficina de representación del Instituto Nacional de Migración en Morelos;
+XVI. La Comisión de Derechos Humanos del Estado de Morelos;
 
-XVIII. Un representante del Poder Judicial, designado entre las o los Magistrados por el Pleno del Tribunal Superior de Justicia;
+XVII. Los Municipios representados por el titular de la Dirección del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos (IDEFOMM);
 
-XIX. Un representante del Congreso del Estado de Morelos, que será la Diputada o Diputado que presida la Comisión que se encargue de los asuntos de atención a las víctimas.
+XVIII. La oficina de representación del Instituto Nacional de Migración en Morelos;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
+
+XIX. Un representante del Poder Judicial, designado entre las o los Magistrados por el Pleno del Tribunal Superior de Justicia, y
+
+XX. Un representante del Congreso del Estado de Morelos, que será la Diputada o Diputado que presida la Comisión que se encargue de los asuntos de atención a las víctimas.
 
 También se podrá invitar a participar en sus reuniones a personas, Instituciones, Organismos, Dependencias, o Entidades Federales, Estatales o Municipales, Asociaciones, así como expertos académicos que, por su experiencia, conocimientos o atribuciones, tengan vinculación con la materia, quienes únicamente tendrán derecho a voz.
 
@@ -406,3 +412,15 @@ SECRETARIO DE GOBIERNO
 LIC. PABLO HÉCTOR OJEDA CÁRDENAS
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL NOVENTA Y OCHO.- POR EL QUE SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 8, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
