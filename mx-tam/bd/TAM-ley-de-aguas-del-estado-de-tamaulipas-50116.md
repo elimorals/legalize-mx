@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2022-12-12"
+last_updated: "2023-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -97,7 +97,9 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Agua Cruda: El agua que se encuentra en los cuerpos receptores nacionales o estatales, sin tratamiento alguno, y que es extraída e introducida a la línea de producción de los servicios por medio del sistema de captación de agua.
 
-II. Agua Potable: El agua de uso público, doméstico, comercial y de servicios o industrial que reúne los requisitos establecidos en las normas oficiales mexicanas.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
+
+II. Agua Potable: El agua de uso público, doméstico, comercial y de servicios o industrial que no causa efectos nocivos a la salud y que no presenta propiedades objetables o contaminantes en concentraciones fuera de los límites permisibles en las normas oficiales mexicanas;
 
 III. Aguas Estatales: Aquellas que no reúnan las características de aguas de propiedad nacional o particular en los términos del párrafo quinto del articulo 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -3278,3 +3280,11 @@ Las personas designadas como Gerentes Generales de los Organismos Operadores de 
 ###### ARTÍCULO TERCERO.
 
 Los Consejos de Administración de los Organismos Operadores Municipales, Intermunicipales y Regionales se integrarán conforme a lo establecido en el presente Decreto.
+
+P.O. 12 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-594 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2, FRACCIÓN II DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
