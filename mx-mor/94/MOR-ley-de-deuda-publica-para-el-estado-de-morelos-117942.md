@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-deuda-publica-para-el-estado-de-morelos-117942"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-22"
-last_updated: "2016-12-22"
+last_updated: "2023-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023.
 
 Ley publicada en Periódico Oficial del Estado de Morelos, el jueves 22 de diciembre de 2016.
 
@@ -819,6 +819,14 @@ Con excepción de los casos previstos en el artículo 35 de esta Ley, el otorgam
 
 Las Entidades Públicas a cuyo favor se otorgue alguna garantía o aval, en su caso, estarán obligadas a proporcionar a sus garantes, avalistas, deudores solidarios, subsidiarios o sustitutos la información que éstos les requieran, sobre la situación de las operaciones avaladas o garantizadas.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2023)</small>
+
+Artículo 70 BIS. Sin perjuicio de lo establecido en el presente capítulo, el Poder Ejecutivo Estatal podrá constituirse en garante, avalista, deudor solidario, subsidiario o sustituto de las Entidades Públicas a que hace referencia el artículo 1 de la presente Ley, en lo relativo a obligaciones que deriven del otorgamiento de seguridad social, en términos de la normativa aplicable. Por su parte, los Municipios podrán constituirse con el mismo carácter ante las entidades que forman parte de la Administración Pública Paramunicipal.
+
+Para lo anterior, el Poder Ejecutivo Estatal y los municipios podrán otorgar como garantía las participaciones en ingresos federales que les correspondan. Asimismo, podrán celebrar convenios en los cuales se pacte la compensación de los recursos que eroguen derivados de este carácter, con cargo a las participaciones en ingresos federales o a las asignaciones presupuestales que le correspondan a cada entidad pública avalada.
+
+Para lo señalado en el presente artículo, será necesario previamente contar con la autorización del Congreso del Estado.
+
 ### CAPÍTULO IX. DE LA CONTRATACIÓN DE OTROS SERVICIOS RELACIONADOS CON LA DEUDA PÚBLICA
 
 ###### Artículo 71.
@@ -988,3 +996,15 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL NOVENTA Y UNO POR EL QUE SE ADICIONA EL ARTÍCULO 70 BIS A LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
