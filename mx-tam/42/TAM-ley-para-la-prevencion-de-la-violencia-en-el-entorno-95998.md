@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-de-la-violencia-en-el-entorno-95998"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2023-02-02"
+last_updated: "2023-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 17 de septiembre de 2013.
 
@@ -49,9 +49,17 @@ LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMA
 
 La presente Ley es de observancia general en el Estado de Tamaulipas, sus disposiciones son de orden público e interés social y tiene por objeto:
 
-I. Prevenir, tratar y erradicar la violencia en el entorno escolar en las instituciones educativas públicas y privadas de la entidad; y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
 
-II. Brindar apoyo asistencial a las víctimas y agresores de violencia en el entorno escolar, con el fin de propiciar ambientes escolares seguros y de sana convivencia.
+I. Prevenir, tratar y erradicar la violencia en el entorno escolar en las instituciones educativas públicas y privadas de la entidad;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
+
+II. Brindar apoyo asistencial a las víctimas y agresores de violencia en el entorno escolar, con el fin de propiciar ambientes escolares seguros y de sana convivencia; y
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2023)</small>
+
+III. Definir la intervención y las responsabilidades de los planteles educativos en las acciones de prevención y erradicación de la violencia en su entorno.
 
 ###### ARTÍCULO 2.
 
@@ -89,9 +97,9 @@ XI. Instrumentar el Programa de Prevención e Intervención de la Violencia en e
 
 XII. Crear el Registro Estatal para el Control de la Violencia en el entorno Escolar; y
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
 
-XIII. Crear Brigadas Escolares sobre la Prevención de la Violencia Escolar para su detección temprana y atención inmediata dentro de todas las escuelas de la entidad.
+XIII. Crear Brigadas Escolares sobre la Prevención de la Violencia Escolar para su detección temprana y atención inmediata dentro de todas las escuelas de la entidad, estableciendo las funciones y responsabilidades de los planteles educativos en la generación de protocolos de atención y en la aplicación de las medidas necesarias derivadas de la presente Ley.
 
 ###### ARTÍCULO 4.
 
@@ -173,11 +181,17 @@ a) La Secretaría de Educación;
 
 b) La Secretaría de Salud;
 
-c) La Secretaría de Seguridad Pública; y
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+c) La Secretaría de Seguridad Pública;
 
-d) La Fiscalía General de Justicia del Estado;
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2023)</small>
+
+d) La Fiscalía General de Justicia del Estado; y
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2023)</small>
+
+e) Los directores de las instituciones educativas;
 
 II. Los Ayuntamientos;
 
@@ -314,6 +328,24 @@ II. Coadyuvar con las acciones en materia de prevención, tratamiento y erradica
 III. Realizar acciones de capacitación y sensibilización a su personal en el tema de violencia en el entorno escolar, con el fin de proporcionar una atención adecuada a todos los involucrados, basada en el respeto y garantía de los derechos humanos; y
 
 IV. Las demás que le señale esta Ley, su Reglamento y las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2023)</small>
+
+ARTÍCULO 13 BIS. Corresponde a los directores de las instituciones educativas:
+
+I. Elaborar y ejecutar los protocolos de prevención y atención de la violencia específicos para cada plantel conforme a los lineamientos que emita el Consejo;
+
+II. Participar en las sesiones del Consejo donde se discutan acciones y estrategias específicas para los planteles educativos que presenten altos índices de violencia;
+
+III. Establecer mecanismos de evaluación de resultados por la aplicación de sus respectivos protocolos;
+
+IV. Generar campañas permanentes al interior del plantel educativo para difundir el contenido de sus protocolos y los resultados de sus evaluaciones;
+
+V. Generar estrategias de participación de la comunidad estudiantil y sus familias en torno a las acciones de prevención y erradicación de la violencia escolar;
+
+VI. Suscribir convenios de colaboración con otros planteles educativos para la aplicación de estrategias y protocolos necesarios para el cumplimiento de esta Ley; y
+
+VII. Las demás que conforme a esta Ley y otras disposiciones le correspondan.
 
 ## TÍTULO SEGUNDO. DE LA COORDINACIÓN INTERINSTITUCIONAL Y LA PARTICIPACIÓN SOCIAL
 
@@ -825,9 +857,13 @@ II. La vigilancia y la implementación del Programa de Prevención e Intervenci�
 
 III. Los casos de violencia en el entorno escolar y su repercusión en el sector salud y seguridad pública;
 
-IV. La implementación de sanciones; y
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2023)</small>
 
-V. En todos los casos, el informe reservará aquella información que conforme a la Ley de la materia se considere de acceso restringido con relación a los involucrados en la violencia en el entorno escolar.
+IV. La identificación de aquellos planteles educativos que incumplieron con sus protocolos para la atención de la violencia escolar y, en su caso, la sanción que determine la Secretaría;
+
+V. La implementación de sanciones; y
+
+VI. En todos los casos, el informe reservará aquella información que conforme a la Ley de la materia se considere de acceso restringido con relación a los involucrados en la violencia en el entorno escolar.
 
 ## TÍTULO TERCERO. DE LA VIGILANCIA Y SANCIONES
 
@@ -938,6 +974,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 2 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-510 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y III, DEL ARTÍCULO 33; Y SE ADICIONAN LOS ARTÍCULOS 24 BIS; 24 TER; 24 QUATER; UNA FRACCIÓN IV, AL ARTÍCULO 33; Y EL ARTÍCULO 33 BIS, A LA LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-593 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
