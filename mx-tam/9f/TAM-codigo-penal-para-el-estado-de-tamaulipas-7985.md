@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-06-13"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -5547,11 +5547,11 @@ IV.- El que en los términos de las fracciones anteriores despoje de aguas de ju
 
 En el supuesto de la fracción IV el delito se perseguirá de oficio.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 428.
 
-Al responsable del delito de despojo de cosas inmuebles o de aguas se le impondrá una sanción de tres meses a cinco años de prisión y multa de diez a setenta veces el valor diario de la Unidad de Medida y Actualización.
+Al responsable del delito de despojo de cosas inmuebles o de aguas se le impondrá una sanción de dos a cinco años de prisión y multa de diez a setenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 429.
 
@@ -5773,6 +5773,10 @@ VI.- (DEROGADA, P.O. 12 DE FEBRERO DE 2008)
 
 VII.- El que por sí o por interpósita persona, dañe, deseque, obstruya o rellene cuerpos de agua, humedales, escurrimientos, cauces naturales y drenes pluviales, con el propósito de su aprovechamiento en el incremento del área utilizable de un predio o un fraccionamiento, sin contar con el permiso necesario de la autoridad administrativa para ello.
 
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+VIII.- El que por sí o por interpósita persona, circule o delimite medidas perimetrales o señale puntos cardinales tendientes a asentarse en un predio rústico o urbano, sin los requisitos y autorizaciones de urbanización exigidos por las leyes respectivas. Se equiparará el presente delito al que incite a la ocupación ilegal o promueva de manera personal o a nombre de una inmobiliaria, por algún medio de difusión impreso o electrónico, la venta de un predio fraccionado o que está siendo fraccionado sin las autorizaciones correspondientes, ya sea de su propiedad, o en el caso de un bien inmueble ajeno, con o sin el consentimiento de su propietario.
+
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 455.
@@ -5791,19 +5795,17 @@ El Agente del Ministerio Público al ejercer la acción penal asegurará y proce
 
 A los responsables de los delitos cometidos por fraccionadores se les sancionará en la forma siguiente:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
 
-I.- De uno a seis años de prisión y multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización por lo que hace a las figuras previstas de las fracciones I a III del artículo 454 del presente Código.
+I.- De dos a seis años de prisión y multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización por lo que hace a las figuras previstas de las fracciones I, II, III, VII y VIII del artículo 454 del presente Código.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
 
-II.- De uno a seis años de prisión, multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión pública hasta por seis años, por lo que hace a las conductas previstas en las fracciones IV y V del artículo 454 del presente Código.
+II.- De dos a seis años de prisión, multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión pública hasta por seis años, por lo que hace a las conductas previstas en las fracciones IV y V del artículo 454 del presente Código.
 
 III.- (DEROGADA, P.O. 12 DE FEBRERO DE 2008)
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-IV.- De uno a seis años de prisión y multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización por lo que hace a la conducta prevista en la fracción VII del artículo 454 del presente Código.
+IV.- (DEROGADA, P.O. 13 DE JULIO DE 2023)
 
 La pena de prisión impuesta se incrementará hasta en dos años, cuando las conductas previstas afecten áreas protegidas o de preservación ecológica, o se realicen respecto de zonas no consideradas aptas para la vivienda de acuerdo a las leyes, planes y programas de desarrollo urbano en vigor.
 
@@ -7248,6 +7250,14 @@ Los procesos penales que se estén substanciando a la entrada en vigor del prese
 P.O. 13 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-587 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-597 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS; DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS; Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
