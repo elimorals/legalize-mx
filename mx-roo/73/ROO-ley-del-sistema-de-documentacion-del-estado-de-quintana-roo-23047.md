@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-sistema-de-documentacion-del-estado-de-quintana-roo-230
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2021-07-16"
+last_updated: "2023-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL SISTEMA DE DOCUMENTACION DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE ARCHIVOS PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 13 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SISTEMA DE DOCUMENTACION DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 28 de diciembre de 2001.
 
@@ -540,3 +542,43 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE ARCHIVOS PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Con la entrada en vigor de la presente Ley, se abroga la Ley del Sistema de Documentación del Estado de Quintana Roo, de fecha 28 de diciembre de 2001 así como todas aquellas disposiciones que contravengan la presente Ley.
+
+TERCERO. El Archivo General del Estado permanecerá como Órgano Administrativo Desconcentrado sectorizado a la Secretaría de Gobierno hasta el 31 de diciembre de 2023. A partir del 1 de enero de 2024 se incluirá dentro de la relación de las Entidades Paraestatales de la Administración Pública Estatal.
+
+CUARTO. El Consejo Local de Archivos de Quintana Roo, deberá instalarse en su primera sesión ordinaria, en un plazo no mayor a 180 días hábiles, contados a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. El Consejo Local de Archivos una vez instalado, emitirá en un plazo no mayor a 90 días hábiles, las disposiciones jurídicas aplicables para su funcionamiento.
+
+SEXTO. Las Secretarías de Gobierno, de Finanzas y Planeación y de la Contraloría en el ámbito de sus atribuciones, realizarán las acciones necesarias para proveer de recursos humanos, financieros, tecnológicos y materiales al Archivo General del Estado. El Presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir sus funciones.
+
+SÉPTIMO. La persona titular de la Dirección General del Archivo General del Estado, que se encuentre en funciones al entrar en vigor la presente Ley, asumirá las funciones de la titularidad de la Dirección General del Archivo General del Estado por un término de 6 años y concluido este período podrá ser ratificado, siempre y cuando cumpla con los requisitos establecidos en el artículo 104 de la presente Ley.
+
+OCTAVO. El Órgano de Gobierno del Archivo General del Estado, deberá expedir y publicar en el Periódico oficial del Estado en un período no mayor de un año contado a partir de la entrada en vigor de la presente Ley, el Estatuto orgánico del Archivo General del Estado.
+
+NOVENO. Los sujetos obligados deberán implementar su Sistema Institucional de Archivos, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+
+DÉCIMO. La implementación de la presente Ley se llevará a cabo de manera progresiva, con el objeto de cumplir con las obligaciones que tendrán a su cargo los sujetos obligados, atendiendo al presupuesto vigente aprobado para el presente ejercicio fiscal y los subsecuentes.
+
+DÉCIMO PRIMERO. Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no han sido organizados y valorados, se les deberá aplicar estos procesos técnicos archivísticos, con el objeto de identificar el contenido y carácter de la información y determinar su disposición documental.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos (sic) consulta en el portal electrónico del sujeto obligado.
+
+DÉCIMO SEGUNDO. Los documentos trasferidos a un archivo histórico o a los archivos generales, antes de la entrada en vigor de la presente Ley, permanecerán en dichos archivos y deberán de ser identificados, ordenados, descritos y clasificados archivísticamente, con el objeto de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación.
+
+Aquellos sujetos obligados que cuenten con archivos históricos deberán prever en el programa anual el establecimiento de acciones tendientes a identificar, ordenar, describir y clasificar archivísticamente, los documentos que le hayan sido trasferidos antes de la entrada en vigor de la Ley.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+DÉCIMO TERCERO. En un plazo de un año, contado a partir de la entrada en vigor de la presente Ley, los sujetos obligados deberán establecer programas de capacitación en materia de gestión documental y administración de archivos.
+
+DÉCIMO CUARTO. El personal del Archivo General del Estado en su calidad de Órgano Administrativo Desconcentrado de la Secretaría de Gobierno del Estado de Quintana Roo, en términos del artículo tercero transitorio pasará a ser parte del Archivo General del Estado, como ente Descentralizado y conservará todos los derechos laborales adquiridos de forma previa al presente decreto, por lo que en ninguna forma resultarán transgredidos en su antigüedad, prestaciones, derechos y obligaciones laborales.
+
+DÉCIMO QUINTO. El patrimonio del Archivo General del Estado en su calidad de Órgano Administrativo Desconcentrado de la Secretaría de Gobierno del Estado de Quintana Roo pasará al dominio del Archivo General del Estado como ente Descentralizado.
