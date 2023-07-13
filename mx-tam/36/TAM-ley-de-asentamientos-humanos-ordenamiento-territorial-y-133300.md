@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asentamientos-humanos-ordenamiento-territorial-y-133300"
 country: "mx"
 rank: "ley"
 publication_date: "2019-02-05"
-last_updated: "2022-12-07"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 5 de febrero de 2019.
 
@@ -123,7 +123,9 @@ XI. Área Vendible: Es la que podrá ser enajenada a terceros, una vez que se ha
 
 XII. Asentamiento Humano: El establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran;
 
-XIII. Asentamiento humano irregular: Es el conglomerado de personas, elementos naturales y obras materiales, establecidas en un área físicamente localizable, que al constituirse no cumplieron con lo ordenado por las leyes y normas aplicables en su tiempo;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
+
+XIII. Asentamiento Humano Irregular: El conjunto de terrenos fraccionados o subdivididos que fueron ocupados sin la documentación legal que acredite su propiedad; las personas que habitan en estos asentamientos suelen auto gestionar su vivienda y servicios, y se ubican en zonas que no fueron evaluadas por la autoridad local competente para determinar si el suelo ocupado es apto para ser urbanizado;
 
 XIV. Atlas de Riesgo: Documento oficial en donde se establecen y clasifican las zonas de riesgo;
 
@@ -397,9 +399,11 @@ XIII. Proponer los mecanismos de coordinación institucional de Planeación Regi
 
 XIV. Las demás que señalen esta Ley y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2023)</small>
+
 ###### Artículo 11.
 
-Corresponden a la Secretaría las siguientes atribuciones:
+Corresponden a la Secretaría las siguientes atribuciones y obligaciones:
 
 I. Participar con la Federación, los Estados o los municipios respectivos, en la elaboración, administración, ejecución, control y evaluación de los planes y programas de zonas metropolitanas de carácter estatal o interestatal;
 
@@ -475,9 +479,11 @@ XXXVI. Las demás que le confiera este ordenamiento y otras disposiciones legale
 
 Las atribuciones a que se refiere este artículo serán ejercidas por el titular de la Secretaría y sus unidades administrativas, conforme al reglamento de la propia dependencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2023)</small>
+
 ###### Artículo 12.
 
-Corresponden a los ayuntamientos las siguientes atribuciones:
+Corresponden a los ayuntamientos las siguientes atribuciones y obligaciones:
 
 I. Formular, aprobar y administrar la zonificación, planes y programas de ordenamiento territorial y desarrollo urbano municipales, así como los reglamentos de la materia;
 
@@ -553,7 +559,9 @@ XXXVI. Validar ante la autoridad competente del Estado, sobre la apropiada congr
 
 XXXVII. Intervenir en la regularización de la tenencia de la tierra urbana, en los términos de la legislación aplicable y de conformidad con los planes o programas de Desarrollo Urbano y las Reservas, Usos del Suelo y Destinos de áreas y predios;
 
-XXXVIII. Intervenir en la prevención, control y solución de los asentamientos humanos irregulares, en los términos de la legislación aplicable y de conformidad con los planes o programas de Desarrollo Urbano y de zonas metropolitanas, en el marco de los derechos humanos;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
+
+XXXVIII. Intervenir en la prevención, control y solución de los asentamientos humanos irregulares, en los términos de la legislación aplicable y de conformidad con los planes o programas de Desarrollo Urbano y de zonas metropolitanas, en el marco de los derechos humanos, para ello deberá elaborar y dar seguimiento a un programa anual de monitoreo que permita detectar nuevos asentamientos humanos irregulares y aplicar las acciones que el marco jurídico prevé;
 
 XXXIX. Participar en la creación y administración del suelo y reservas territoriales para el desarrollo urbano, de conformidad con las disposiciones jurídicas aplicables; así como generar los instrumentos que permitan la disponibilidad de tierra para personas en situación de pobreza o vulnerabilidad;
 
@@ -3403,9 +3411,17 @@ III. Cooperar con los infractores o facilitarles en cualquier forma la violació
 
 IV. Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan, revelar los datos confidenciales o aprovecharse de ellos;
 
-V. Exigir a los particulares, bajo el título de colaboración u otra semejante, cualquier prestación pecuniaria o de otra índole no prevista en esta Ley y demás disposiciones relativas; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
 
-VI. Coadyuvar con particulares o constituir en lo individual asentamientos humanos irregulares en predios que no reúnan las condiciones exigidas por esta Ley.
+V. Exigir a los particulares, bajo el título de colaboración u otra semejante, cualquier prestación pecuniaria o de otra índole no prevista en esta Ley y demás disposiciones relativas;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
+
+VI. Coadyuvar con particulares o constituir en lo individual asentamientos humanos irregulares en predios que no reúnan las condiciones exigidas por esta Ley; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+VII. Omitir la formulación y presentación de denuncia ante la autoridad competente acerca de la existencia o la creación de asentamientos humanos irregulares, entendiéndose como servidor público obligado por la presente ley, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Poder Público del Estado y de los municipios, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
@@ -3696,6 +3712,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 7 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-415 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VIII Y IX; Y SE ADICIONA LA FRACCIÓN X, AL ARTÍCULO 2, DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-597 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS; DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS; Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
