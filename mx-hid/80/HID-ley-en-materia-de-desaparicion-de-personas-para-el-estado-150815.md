@@ -4,7 +4,7 @@ identifier: "HID-ley-en-materia-de-desaparicion-de-personas-para-el-estado-15081
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-24"
-last_updated: "2021-08-24"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
 
 Ley publicada en el Alcance Siete Número 34 del Periódico Oficial del Estado de Hidalgo, el martes 24 de Agosto de 2021.
 
@@ -859,9 +859,25 @@ Los familiares y sus representantes tienen acceso de manera íntegra al expedien
 
 En el caso de la presentación de una Denuncia, el agente del Ministerio Público que la reciba, debe proceder sin dilación a aplicar el Protocolo Homologado de Investigación y remitir la información a la Fiscalía Especializada, así como a la Comisión Estatal de Búsqueda.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2023)</small>
+
 ###### Artículo 56.
 
-Cuando la Comisión de Búsqueda de Personas tenga Noticia o Reporte de una Persona Desaparecida, iniciará la búsqueda de inmediato.
+Cuando la Comisión de Búsqueda tenga Noticia o Reporte de una Persona Desaparecida o No Localizada, iniciará la búsqueda de inmediato e informará sin dilación a la Fiscalía Especializada competente, cuando considere que la desaparición de la persona se debe a la comisión de un delito.
+
+Para establecer la presunción de un delito se atenderá a los siguientes criterios:
+
+I. Cuando la persona de la que se desconoce su paradero es menor de 18 años de edad;
+
+II. Cuando de la descripción inicial de los hechos se pueda desprender la probable comisión del delito de desaparición forzada de personas, desaparición cometida por particulares o cualquier otro delito;
+
+III. Cuando de conformidad con el análisis de contexto se determine que las condiciones de la desaparición de la persona corresponden a la probable comisión de un delito;
+
+IV. Cuando aún sin haber elementos de la probable comisión de un delito, han transcurrido setenta y dos horas sin tener noticia de la suerte, ubicación o paradero de la persona, y
+
+V. Cuando antes del plazo establecido en el inciso anterior aparezcan indicios o elementos que hagan suponer la probable comisión de un delito.
+
+En todos los casos, la Comisión de Búsqueda de Personas a través de la unidad administrativa que corresponda, podrá solicitar constituirse como coadyuvante en los procesos que se sigan por los delitos de desaparición forzada de personas y de desaparición cometida por Particulares.
 
 ###### Artículo 57.
 
@@ -1436,3 +1452,11 @@ DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 543 QUE REFORMA EL ARTÍCULO 56 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
