@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-justicia-administrativa-del-estado-de-quintana-roo-12
 country: "mx"
 rank: "codigo"
 publication_date: "2017-12-27"
-last_updated: "2022-06-08"
+last_updated: "2023-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
 
 Código publicado en el Número 146 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de diciembre de 2017.
 
@@ -2059,11 +2059,19 @@ II. Las Salas: integradas cada una por un magistrado, con la competencia que enm
 
 Para el correcto ejercicio de sus atribuciones, el Tribunal contará con un Secretario General de Acuerdos, las direcciones, unidades y demás personal que determine este Código y el Pleno.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2023)</small>
+
 ###### Artículo 189.
 
-Para ser Magistrado del Tribunal se requiere cumplir los requisitos establecidos en el artículo 101 de la Constitución Local y contar con experiencia en cualquiera de las siguientes materias: fiscal, administrativa, fiscalización, responsabilidades administrativas, combate a la corrupción o rendición de cuentas.
+Los Magistrados durarán en su encargo ocho años con posibilidad de ser reelectos por la Legislatura del Estado o la Comisión Permanente, por cuatro años adicionales, en los términos de este Código.
 
-Los Magistrados durarán en su encargo ocho años, con posibilidad de ser reelectos por la Legislatura del Estado o la Diputación Permanente, por cuatro años adicionales, en los términos de este Código.
+Para ser Magistrado del Tribunal se requiere cumplir, además de los requisitos establecidos en el artículo 101 de la Constitución Local deberán:
+
+I. Contar con experiencia en cualquiera de las siguientes materias: fiscal, administrativa, fiscalización, responsabilidades administrativas, combate a la corrupción o rendición de cuentas;
+
+II. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+
+III. No ser declarada persona deudora alimentaria morosa.
 
 ###### Artículo 190.
 
@@ -3029,9 +3037,19 @@ V. Contar al día de su designación con título y cédula profesional de licenc
 
 VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Tribunal, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
 
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
 VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+X. No ser declarado persona deudora alimentaria morosa.
 
 El titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
 
@@ -3262,3 +3280,11 @@ P.O. 8 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se reforman el párrafo sexto del artículo 94 y el párrafo tercero del apartado B del artículo 96 y se adicionan los párrafos cuarto y quinto al artículo 51 BIS, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de comparecencia de los titulares de los órganos públicos autónomos a la Legislatura del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 089 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO, LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO, LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, LEY DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO Y DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO.”]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
