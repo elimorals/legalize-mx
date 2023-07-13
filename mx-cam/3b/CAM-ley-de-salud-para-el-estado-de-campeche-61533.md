@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2023-05-31"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -432,6 +432,10 @@ I. Preventivas, que incluyen las de promoción general y las de protección espe
 II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; y
 
 III. De rehabilitación, que incluyen acciones tendientes a corregir las capacidades diferentes físicas o mentales.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
 
 ### Capítulo III. Prestadores de Servicios de Salud
 
@@ -2718,3 +2722,11 @@ Artículo Segundo.- Las dependencias y entidades de la administración pública 
 Artículo Tercero.- Las acciones de salud que deriven del presente decreto se realizarán de manera gradual, de conformidad con la disponibilidad de recursos humanos, administrativos y financieros con que cuenten las dependencias y entidades responsables de su cumplimiento.
 
 Artículo Cuarto.- Se derogan las disposiciones legales y reglamentarias del marco normativo local en lo que se opongan al presente decreto.
+
+P.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 243 POR EL QUE "SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 32 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
