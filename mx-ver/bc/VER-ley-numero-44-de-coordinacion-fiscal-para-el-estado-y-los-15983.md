@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2022-12-29"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -792,6 +792,14 @@ La participación correspondiente a los municipios se realizará de conformidad 
 ###### Artículo 18.
 
 De los ingresos que el Estado otorgue a los municipios, derivados de convenios de colaboración, corresponderá a la Legislatura vigilar la debida aplicación de los mismos.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2023)</small>
+
+La Secretaría ministrará a los municipios del Estado, los recursos que reciba de la Federación, provenientes del Fondo de Estabilización de los Ingresos de las Entidades Federativas (FEIEF), para compensar la disminución en las participaciones vinculadas con la Recaudación Federal Participable, a consecuencia de una reducción de ésta con respecto a lo estimado en la Ley de Ingresos de la Federación, de conformidad con la Ley de Coordinación Fiscal y del respectivo Convenio celebrado con la Federación.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2023)</small>
+
+La Secretaría de conformidad con la Constancia de Compensación de Participaciones que recibe el Estado, informará a través del Sistema de Consulta de Participaciones para Municipios, la compensación que les corresponde del Fondo General de Participaciones, atendiendo a las cantidades faltantes que la Secretaría de Hacienda y Crédito Público haya anticipado, relacionadas a la potenciación del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en la parte proporcional que de este fondo se hubieran beneficiado a los municipios, independientemente de los ajustes que realice el Gobierno Federal.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE JUNIO DE 2016)</small>
 
@@ -1746,3 +1754,13 @@ G.O. 29 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente (sic) su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 481 QUE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 18 DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Para la determinación de la compensación referida en el tercer párrafo del artículo 18 de esta Ley, se aplicarán los coeficientes vigentes en el año que se haya efectuado la potenciación.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
