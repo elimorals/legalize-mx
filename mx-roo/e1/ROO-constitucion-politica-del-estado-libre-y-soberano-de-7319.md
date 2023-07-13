@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2023-05-31"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1283,7 +1283,9 @@ La Ley Orgánica del Poder Legislativo de Quintana Roo, regulará el ejercicio d
 
 El Poder Legislativo del Estado administrará con autonomía su presupuesto, el cual deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno.
 
-Durante el ejercicio fiscal que corresponda, con la finalidad de cumplir con el principio de sostenibilidad del balance presupuestario y del balance presupuestario de recursos disponibles se podrán realizar ajustes a los presupuestos del Poder Judicial, el Poder Legislativo y de los órganos constitucionales autónomos durante el ejercicio fiscal que corresponda, con base en lo dispuesto en el artículo 15 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y artículo 35 la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2023)</small>
+
+Durante el ejercicio fiscal que corresponda, con la finalidad de cumplir con el principio de sostenibilidad del balance presupuestario y del balance presupuestario de recursos disponibles, se podrán realizar ajustes a los presupuestos del Poder Legislativo y de los Órganos Constitucionales Autónomos, durante el ejercicio fiscal que corresponda, con base en lo dispuesto en el artículo 15 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y artículo 35 de la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo.
 
 #### SECCION TERCERA. De la Iniciativa y Formación de las Leyes y Decretos
 
@@ -2427,11 +2429,11 @@ Los integrantes del Consejo de la Judicatura, con excepción de su Presidente, r
 
 El Consejo de la Judicatura del Estado propondrá al Pleno del Tribunal Superior de Justicia la división territorial del Estado en distritos y circuitos judiciales, con base en la agrupación de sus municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2023)</small>
 
-###### ARTICULO 109.
+###### Artículo 109.
 
-El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia. En todo caso, el proyecto de Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución; el proyecto de presupuesto de egresos del Poder Judicial deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno, y será remitido a la Legislatura para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda.
+El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia. En todo caso, el proyecto de Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución; el proyecto de presupuesto de egresos del Poder Judicial deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz, racional y oportuno, y será remitido a la Legislatura para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. El Presupuesto de Egresos para el Poder Judicial, no será menor al dos por ciento del Presupuesto de Egresos del Gobierno del Estado, para el ejercicio fiscal de que se trate.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -5616,3 +5618,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La implementación del presente Decreto será de manera progresiva sin afectar al presupuesto vigente aprobado para el Ejercicio Fiscal 2023.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA NÚMERO: 001 POR LA QUE SE REFORMAN LOS ARTÍCULO 67 Y 109 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA DE FORTALECIMIENTO DE LA AUTONOMÍA PRESUPUESTAL DEL PODER JUDICIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, salvo las disposiciones previstas en el articulo 109 que entrará en vigor a partir de la integración del proyecto de Presupuesto de Egresos del Poder Judicial y del proyecto de Presupuesto de Egresos del Gobierno del Estado, ambos para el Ejercicio Fiscal del año 2024.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
