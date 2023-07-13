@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2023-06-06"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -91,11 +91,11 @@ VIII.- El respeto al derecho a la salud materna, a la salud sexual y reproductiv
 
 IX.- El enfoque de salud pública basado en el género.
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 2° Bis.
 
-En lo referente al acceso a la atención de la salud y los factores determinantes básicos de la salud, así como a los medios y derechos para conseguirlo, queda prohibida toda discriminación por motivos de raza, color, sexo, idioma, religión, opinión política o de otra índole, posición social, situación económica, lugar de nacimiento, impedimentos físicos o mentales, estado de salud, orientación sexual y situación política, social o de otra índole que tengan por objeto o por resultado la invalidación o el menoscabo de la igualdad de goce o el ejercicio del derecho a la salud.
+En lo referente al acceso a la atención de la salud y los factores determinantes básicos de la salud, así como a los medios y derechos para conseguirlo, queda prohibida toda discriminación por motivos de raza, color, sexo, idioma, religión, opinión política, posición social, situación económica, lugar de nacimiento, discapacidad, estado de salud, orientación sexual, situación política, social o de otra índole que tengan por objeto o por resultado la invalidación o el menoscabo de la igualdad de goce o el ejercicio del derecho a la salud.
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -107,7 +107,9 @@ I.- Recibir atención médica adecuada;
 
 II.- Recibir trato digno y respetuoso;
 
-III.- Recibir información suficiente, clara, oportuna y veraz. Cuando se trate de la atención a los usuarios originarios de pueblos y comunidades indígenas, éstos tendrán derecho a obtener información necesaria en su lengua, y cuando se trate de personas con alguna discapacidad, se procurará adaptar la información a las formas de comunicación que les sean accesibles;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
+
+III.- Recibir información suficiente, clara, oportuna y veraz. Cuando se trate de la atención a las y los usuarios originarios de pueblos y comunidades indígenas, estos tendrán derecho a obtener información necesaria en su lengua, y cuando se trate de personas con alguna discapacidad, se procurará adaptar la información a las formas de comunicación que les sean accesibles, como la colocación de pictogramas, señalamientos y uso de agendas visuales, para ello, se capacitará al personal médico y administrativo para lograr una efectiva comunicación con las y los pacientes;
 
 IV.- Decidir libremente sobre su atención;
 
@@ -3930,6 +3932,14 @@ La Secretaría de Educación, en coordinación con la Secretaría de Salud, elab
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-598 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2° BIS; Y 2° TER, FRACCIÓN III DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
