@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-becas-y-credito-educativo-del-estado-12611
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-29"
-last_updated: "2022-11-22"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DEL INSTITUTO DE BECAS Y CREDITO EDUCATIVO DEL ESTADO DE SONORA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE OCTUBRE DE 2023 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2023.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de enero de 2018.
 
@@ -53,9 +55,13 @@ Para los efectos de la presente Ley, se aplicarán las siguientes definiciones y
 
 I. Alumno, la persona que curse sus estudios o acredite su intención de cursar sus estudios en algún centro educativo;
 
-II. Beca, el apoyo económico otorgado por el Gobierno del Estado durante el ciclo escolar, así como el porcentaje que las instituciones educativas particulares que cuenten con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría de Educación y Cultura, en términos de la legislación aplicable, deban reducir de las colegiaturas que cobren durante el ciclo escolar, con el objeto de promover y coadyuvar a su formación académica;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
 
-III. Becario, el alumno al que se le otorgue una beca o estímulo educativo;
+II. Beca, el apoyo económico otorgado por el Gobierno del Estado durante el ciclo escolar, así como el porcentaje que las instituciones educativas particulares que cuenten con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría de Educación y Cultura, en términos de la legislación aplicable, deban reducir de las colegiaturas que cobren durante el ciclo escolar, con el objeto de promover y coadyuvar a su formación académica; Así como el apoyo económico otorgado por el Gobierno del Estado que se le dé a niñas, niños, adolescentes y jóvenes con el objeto de formar, promover y coadyuvar en su formación deportiva y cultural y en la integración de niñas, niños, adolescentes y jóvenes con discapacidad física, discapacidad mental o condición mental en el sistema educativo y/o laboral.
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+III. Becario, la niña, niño, adolescente, joven o el alumno al que se le otorgue una beca, estímulo educativo o formativo;
 
 IV. Becas de posgrado, el apoyo económico otorgado por el Gobierno del Estado para gastos de inscripción, colegiatura o manutención de alumnos que cursen estudios de Especialidad, Maestría y Doctorado en México o en el extranjero;
 
@@ -71,7 +77,9 @@ IX. Comité de Cobranza, al Comité de Administración de Cartera, Cobranza y Qu
 
 X. Crédito Educativo; Préstamo que se otorga a estudiantes para que realicen o continúen con sus estudios.
 
-XI. Estímulo educativo, el apoyo económico otorgado por el Gobierno del Estado, en una sola emisión y conforme al monto que determine la Junta Directiva del Instituto con base en los criterios que se fijen en el Reglamento respectivo, con el objeto de reconocer e incentivar actividades académicas, deportivas, culturales, cívicas, emprendedoras y de desarrollo integral;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+XI. Estímulo educativo y/o formativo, el apoyo económico otorgado por el Gobierno del Estado, en una sola emisión y conforme al monto que determine la Junta Directiva del Instituto con base en los criterios que se fijen en el Reglamento respectivo, con el objeto de reconocer e incentivar actividades académicas, deportivas, culturales, cívicas, emprendedoras y de desarrollo integral;
 
 XII. Fondo, Fondo para el otorgamiento de becas y estímulos;
 
@@ -91,13 +99,27 @@ XIX. Promedio escolar, La certificación obtenida por rendimiento académico del
 
 XX. Secretaría, la Secretaría de Educación y Cultura;
 
-XXI. Ausentismo, Inasistencia injustificada a clases del alumno menor de edad; y
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
 
-XXII. Deserción, Abandono definitivo de clases, por parte del alumno menor de edad.
+XXI. Ausentismo. Inasistencia injustificada a clases del alumno menor de edad;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+XXII. Deserción. Abandono definitivo de clases, por parte del alumno menor de edad; y
+
+> <small>(ADICIONADA, B.O. 13 DE JULIO DE 2023)</small>
+
+XXIII. Niña, niño, adolescente o joven, la persona que puede ser acreedora para la obtención de una beca y/o estímulo formativo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE JULIO DE 2023)</small>
 
 ###### Artículo 3.
 
-El Instituto tiene por objeto el otorgamiento de becas, estímulos y créditos educativos para iniciar, continuar o concluir la formación académica, así como para implementar acciones en materia educativa, cultural, deportiva, científica o tecnológica en beneficio de la población estudiantil sonorense. Lo anterior con la finalidad de fortalecer, difundir, promover y transparentar los programas de becas, estímulos y créditos educativos a efecto de fomentar e incentivar el aprovechamiento y el desempeño escolar
+El Instituto tiene por objeto el otorgamiento de becas, estímulos y créditos educativos para iniciar, continuar o concluir la formación académica, así como para implementar acciones en materia educativa, cultural, deportiva, científica o tecnológica en beneficio de la población estudiantil sonorense. Lo anterior con la finalidad de fortalecer, difundir, promover y transparentar los programas de becas, estímulos y créditos educativos a efecto de fomentar e incentivar el aprovechamiento y el desempeño escolar. El Instituto también tiene por objeto el otorgamiento de becas y estímulos formativos para iniciar, continuar o concluir la formación deportiva, cultural y/o la integración de niñas, niños, adolescentes y jóvenes con discapacidad física, discapacidad mental o condición mental en el sistema educativo y/o laboral.
+
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2023)</small>
+
+Como parte fundamental de su objeto en materia de otorgamiento de becas, el Instituto deberá establecer, al menos, un sistema universal de becas para niñas, niños, adolescentes y jóvenes estudiantes de todos los niveles escolares del Sistema Estatal de Educación Pública, con prioridad a las y los pertenecientes a las familias que se encuentren en condición de pobreza o marginación para garantizar con equidad el derecho a la educación; así como para aquellos que sin estar dentro de dicho sistema educativo, sufran de alguna discapacidad física, discapacidad mental o condición mental o destaquen en alguna disciplina deportiva, cultural reconocida por la autoridad estatal de la materia.
 
 ###### Artículo 4.
 
@@ -141,9 +163,17 @@ V. Obtener todo tipo de recursos y créditos para el cumplimiento de sus fines;
 
 VI. Contratar prestadores externos y servicios para el cumplimiento de sus fines;
 
-VII. Apoyar cualquier proyecto o iniciativa en materia educativa que redunde en beneficio del desarrollo educativo y social del Estado; y
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
 
-VIII. En general, realizar todos los actos que estén encaminados directa o indirectamente al cumplimiento de sus objetivos.
+VII. Apoyar cualquier proyecto o iniciativa en materia educativa que redunde en beneficio del desarrollo educativo y social del Estado;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+VIII. En general, realizar todos los actos que estén encaminados directa o indirectamente al cumplimiento de sus objetivos; y
+
+> <small>(ADICIONADA, B.O. 13 DE JULIO DE 2023)</small>
+
+IX. Incentivar y/o apoyar cualquier programa o proyecto en materia formativa que influya en el crecimiento deportivo, cultural e inclusivo de niñas, niños, adolescentes y jóvenes, dentro del sistema educativo, social o laboral.
 
 ###### Artículo 7.
 
@@ -243,11 +273,17 @@ XV. Proponer, en los casos de los excedentes económicos, la constitución de re
 
 XVI. Acordar con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen en los fines señalados en las instrucciones de la dependencia coordinadora del sector correspondiente;
 
-XVII. Establecer y mantener permanentemente actualizados, de acuerdo a la normatividad aplicable, los reglamentos, lineamientos, criterios y procedimientos de tramitación, otorgamiento, renovación, negativa, suspensión y cancelación de becas, estímulos y créditos educativos disponibles en el Gobierno del Estado;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
 
-XVIII. Conocer la suscripción de acuerdos, convenios y contratos con los sectores público, privado y social, para la ejecución de acciones en materia de programas de becas, estímulos y créditos educativos disponibles en el Estado;
+XVII. Establecer y mantener permanentemente actualizados, de acuerdo a la normatividad aplicable, los reglamentos, lineamientos, criterios y procedimientos de tramitación, otorgamiento, renovación, negativa, suspensión y cancelación de becas, estímulos y créditos educativos, así como de becas y estímulos formativos disponibles en el Gobierno del Estado;
 
-XIX. Analizar y opinar sobre las propuestas de reforma a la normatividad aplicable a los programas de becas, estímulos y créditos educativos disponibles en el Estado que le presente el Director;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+XVIII. Conocer la suscripción de acuerdos, convenios y contratos con los sectores público, privado y social, para la ejecución de acciones en materia de programas de becas, estímulos y créditos educativos, así como de becas y estímulos formativos disponibles en el Estado;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+XIX. Analizar y opinar sobre las propuestas de reforma a la normatividad aplicable a los programas de becas, estímulos y créditos educativos, así como de becas y estímulos formativos disponibles en el Estado que le presente el Director;
 
 XX. Aprobar los reglamentos y manuales del Instituto, así como las reformas, modificaciones y adiciones de los mismos;
 
@@ -261,13 +297,19 @@ XXIV. Conocer de los Acuerdos aprobados por el Comité de Becas y Crédito del I
 
 XXV. Conocer y aprobar las políticas que someta a su consideración el Director sobre los tabuladores para el otorgamiento de créditos, becas y estímulos que otorgue el Instituto;
 
-XXVI. Analizar y resolver sobre los proyectos de dictámenes que le someta a consideración el Director, respecto del otorgamiento, renovación, negativa, suspensión o cancelación de becas, estímulos y créditos educativos disponibles en el Gobierno del Estado;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
 
-XXVII. Conocer, opinar y, en su caso, proponer sobre las medidas implementadas o a implementar con el objeto de fomentar la transparencia, eficiencia, eficacia y efectividad de los programas de becas, estímulos y créditos educativos disponibles en el Gobierno del Estado;
+XXVI. Analizar y resolver sobre los proyectos de dictámenes que le someta a consideración el Director, respecto del otorgamiento, renovación, negativa, suspensión o cancelación de becas, estímulos y créditos educativos así como de becas y estímulos formativos disponibles en el Gobierno del Estado;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+XXVII. Conocer, opinar y, en su caso, proponer sobre las medidas implementadas o a implementar con el objeto de fomentar la transparencia, eficiencia, eficacia y efectividad de los programas de becas, estímulos y créditos educativos, así como de becas y estímulos formativos disponibles en el Gobierno del Estado;
 
 XXVIII. Conocer de las políticas sobre los requisitos, documentos y montos para el otorgamiento de créditos educativos;
 
-XXIX. Determinar el monto máximo de los créditos, de las becas y de los estímulos por nivel educativo;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+XXIX. Determinar el monto máximo de los créditos, de las becas y de los estímulos por nivel educativo; así como los montos máximos de las becas y estímulos formativos disponibles;
 
 XXX. Aprobar los términos y condiciones de los créditos educativos tales como modalidades, renovaciones, plazos de otorgamiento, periodo de gracia, amortización, tasa de interés, descuentos, quitas, quebrantos;
 
@@ -387,9 +429,11 @@ Este Comité tendrá las facultades previstas en la presente Ley, así como en e
 
 #### Sección cuarta. De las oficinas regionales o de enlace
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE JULIO DE 2023)</small>
+
 ###### Artículo 26.
 
-El Instituto podrá establecer oficinas regionales o de enlace que fungirán como apoyo para eficientar el otorgamiento de créditos, becas y estímulos educativos, las cuales podrán ser regionales o municipales.
+El Instituto podrá establecer oficinas regionales o de enlace que fungirán como apoyo para eficientar el otorgamiento de créditos, becas y estímulos educativos, así como de becas y estímulos formativos las cuales podrán ser regionales o municipales.
 
 Las oficinas serán determinadas por el Director, atendiendo a las normas que sean establecidas por esta Ley, el reglamento y demás disposiciones que al efecto se emitan.
 
@@ -417,15 +461,23 @@ VI. Administrar y asegurar el uso adecuado de los recursos del Instituto;
 
 VII. Gestionar y celebrar acuerdos, convenios y contratos con los sectores públicos, privado y social, de forma que el Instituto obtenga mayor financiamiento público o privado para el otorgamiento de becas, promoviendo los estímulos fiscales que existan a favor de posibles donantes de recursos;
 
-VIII. Integrar y difundir la información de todos los programas de becas, estímulos y créditos educativos disponibles en el Estado, incluyendo tanto los del sector público como los de los sectores privado y social, con los que se tenga convenio;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
 
-IX. Procesar y analizar sobre el otorgamiento, renovación, negativa, suspensión o cancelación de becas, estímulos y créditos educativos y elaborar los proyectos de dictámenes correspondientes, y someterlos a la aprobación del Comité respectivo y a la Junta;
+VIII. Integrar y difundir la información de todos los programas de becas, estímulos y créditos educativos, así como de becas y estímulos formativos disponibles en el Estado, incluyendo tanto los del sector público como los de los sectores privado y social, con los que se tenga convenio;
 
-X. Instrumentar las medidas necesarias para transparentar el procedimiento para el otorgamiento y renovación, de becas, estímulos y créditos educativos, así como para la negativa, suspensión y cancelación de los mismos;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+IX. Procesar y analizar sobre el otorgamiento, renovación, negativa, suspensión o cancelación de becas, estímulos y créditos educativos, así como de becas y estímulos formativos y elaborar los proyectos de dictámenes correspondientes, y someterlos a la aprobación del Comité respectivo y a la Junta;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+X. Instrumentar las medidas necesarias para transparentar el procedimiento para el otorgamiento y renovación, de becas, estímulos y créditos educativos, así como de becas y estímulos formativos, además la negativa, suspensión y cancelación de los mismos;
 
 XI. Gestionar ante las dependencias y entidades de la administración pública, instituciones y organismos públicos y privados sean nacionales o internacionales recursos para el financiamiento del Instituto;
 
-XII. Presentar a la Junta, para su aprobación, los proyectos de normas y reformas a las mismas, aplicables a los programas de becas, estímulos y créditos educativos disponibles en el Estado, para su correspondiente remisión a las autoridades competentes;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+XII. Presentar a la Junta, para su aprobación, los proyectos de normas y reformas a las mismas, aplicables a los programas de becas, estímulos y créditos educativos así como de becas y estímulos formativos disponibles en el Estado, para su correspondiente remisión a las autoridades competentes;
 
 XIII. Formular los programas institucionales, así como los proyectos de presupuestos del Instituto y presentarlos para su aprobación a la Junta;
 
@@ -483,19 +535,33 @@ XI. Elaborar las propuestas de mejora que solicite la Dirección General;
 
 XII. Coordinar la ejecución de acciones necesarias para verificar el pago puntual de los créditos;
 
-XIII. Definir, en coordinación con la Dirección General, los lineamientos, criterios y procedimientos necesarios para la tramitación, otorgamiento, negativa y cancelación de becas y estímulos educativos disponibles en el Estado;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
 
-XIV. Establecer y promover en conjunto con el Director General esquemas de vinculación con y entre las dependencias, entidades e instituciones públicas, y los sectores privado y social, que operen o coordinen programas de becas y estímulos educativos en el Estado, o bien, participen de alguna manera en la tramitación, otorgamiento, negativa, modificación o cancelación de estos programas;
+XIII. Definir, en coordinación con la Dirección General, los lineamientos, criterios y procedimientos necesarios para la tramitación, otorgamiento, negativa y cancelación de becas y estímulos educativos, así como de becas y estímulos formativos disponibles en el Estado;
 
-XV. Proponer los mecanismos que permitan integrar y difundir la información de todos los programas de becas y estímulos educativos disponibles en el Estado, incluyendo tanto los del sector público como los de los sectores privado y social;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
 
-XVI. Promover y, en su caso, implementar con el Director esquemas para garantizar una operación y administración transparente y eficiente de las becas y estímulos educativos disponibles en el Estado, en términos de la legislación aplicable;
+XIV. Establecer y promover en conjunto con el Director General esquemas de vinculación con y entre las dependencias, entidades e instituciones públicas, y los sectores privado y social, que operen o coordinen programas de becas y estímulos educativos así como programas de becas y estímulos formativos en el Estado, o bien, participen de alguna manera en la tramitación, otorgamiento, negativa, modificación o cancelación de estos programas;
 
-XVII. Procesar, analizar y resolver sobre las solicitudes o cancelaciones de becas y estímulos educativos que otorgue el Gobierno del Estado;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
 
-XVIII. Diseñar y, en su caso, implementar y administrar nuevos programas de becas y estímulos educativos en el Estado, promoviendo la participación de los sectores público, privado y social;
+XV. Proponer los mecanismos que permitan integrar y difundir la información de todos los programas de becas y estímulos educativos, así como de becas y estímulos formativos disponibles en el Estado, incluyendo tanto los del sector público como los de los sectores privado y social;
 
-XIX. Promover la regionalización de los programas de becas y estímulos educativos disponibles en el Estado, así como la atención local de los becarios y potenciales usuarios de dichos programas, y
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+XVI. Promover y, en su caso, implementar con el Director esquemas para garantizar una operación y administración transparente y eficiente de las becas y estímulos educativos así como de las becas y estímulos formativos disponibles en el Estado, en términos de la legislación aplicable;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+XVII. Procesar, analizar y resolver sobre las solicitudes o cancelaciones de becas y estímulos educativos, así como de las becas y estímulos formativos que otorgue el Gobierno del Estado;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+XVIII. Diseñar y, en su caso, implementar y administrar nuevos programas de becas y estímulos educativos, así como de becas y estímulos formativos en el Estado, promoviendo la participación de los sectores público, privado y social;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+XIX. Promover la regionalización de los programas de becas y estímulos educativos, así como de becas y estímulos formativos disponibles en el Estado, así como la atención local de los becarios y potenciales usuarios de dichos programas, y
 
 XX. Las demás que le señalen la presente Ley, su Reglamento y demás disposiciones legales aplicables.
 
@@ -581,9 +647,15 @@ Durante las ausencias temporales del Director, que no excedan de treinta días, 
 
 En las ausencias temporales de uno o varios titulares de las Unidades Administrativas, éstos serán suplidos por los funcionarios que designe el Director del Instituto, a propuesta del titular de la Unidad Administrativa que se ausente.
 
-## Título Sexto. Becas y Estímulos Educativos
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 13 DE JULIO DE 2023)</small>
 
-### Capítulo I. Disposiciones generales para el Trámite, Otorgamiento, Negativa y Cancelación de Becas y Estímulos Educativos
+## Título Sexto. Becas y Estímulos Educativos y/o formativos
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 13 DE JULIO DE 2023)</small>
+
+### Capítulo I
+
+Disposiciones generales para el Trámite, Otorgamiento, Negativa y Cancelación de Becas y Estímulos Educativos, así como de Becas y Estímulos Formativos.
 
 ###### Artículo 38.
 
@@ -595,9 +667,13 @@ Dentro de las disposiciones y criterios que al efecto se determinen en el reglam
 
 (sic) BIS Procurando la atención adecuada y pertinente a los grupos vulnerables e integrantes de los pueblos indígenas en cuanto a becas y estímulos educativos.
 
-> <small>(REFORMADO, B.O. 23 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 13 DE JULIO DE 2023)</small>
 
-La única instancia autorizada del Gobierno del Estado para el otorgamiento de becas y estímulos educativos será el Instituto, y éstas no pueden ser otorgadas a través de planes o programas ni servidores públicos distintos a los autorizados por esta Ley, los reglamentos y manuales respectivos.
+Dentro de las disposiciones y criterios que se determinen en el reglamento, manuales y convocatoria, se deberá privilegiar el aspecto socioeconómico y de grupos vulnerables para el otorgamiento de becas y estímulos formativos.
+
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
+
+La única instancia autorizada del Gobierno del Estado para el otorgamiento de becas y estímulos educativos, así como de becas y estímulos formativos será el Instituto, y éstas no pueden ser otorgadas a través de planes o programas ni servidores públicos distintos a los autorizados por esta Ley, los reglamentos y manuales respectivos.
 
 ###### Artículo 39.
 
@@ -623,7 +699,9 @@ e) Para posgrados; y
 
 f) A descendientes de personas fallecidas, que en vida hayan donado sus órganos de forma altruista y voluntaria para trasplante, siempre y cuando se mantengan en el sistema escolar desde educación básica hasta media superior, conforme a la Ley de Donación y Trasplantes para Organismos Humanos.
 
-El promedio mínimo para el otorgamiento de las becas será de 8.0, la Junta podrá determinar en el Reglamento respectivo los promedios para cada uno de los niveles escolares, así como autorizar los casos de excepción y especiales para el otorgamiento de las becas cuando no se cumpla con el promedio mínimo requerido por esta Ley
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
+
+El promedio mínimo para el otorgamiento de las becas será el mínimo aprobatorio determinado por el centro educativo al que pertenezca el alumno, la Junta podrá determinar en el Reglamento respectivo los promedios para cada uno de los niveles escolares, así como autorizar los casos de excepción y especiales para el otorgamiento de las becas cuando no se cumpla con el promedio mínimo requerido por esta Ley.
 
 II. Estímulos educativos:
 
@@ -659,29 +737,65 @@ Ninguna persona podrá recibir más de una beca o estímulo educativo de los ant
 
 Artículo 39 BIS.- El Instituto tiene la obligación de otorgar las becas especiales a que se refiere el artículo 39, fracción I, inciso c), que sean solicitadas por alumnos de educación básica y media superior, que cuenten con alguna discapacidad en términos de la Ley para la Inclusión y Desarrollo de las Personas con Discapacidad o Personas en Situación de Discapacidad del Estado de Sonora, salvo los casos señalados en el artículo 47.
 
-> <small>(REFORMADO, B.O. 23 DE JULIO DE 2020)</small>
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2023)</small>
+
+Artículo 39 TER.- Las modalidades de becas y estímulos formativos, son de manera enunciativa mas no limitativa las siguientes:
+
+I. BECAS FORMATIVAS:
+
+a).- Para niñas, niños, adolescentes y jóvenes que sobresalgan en un ámbito deportivo reconocido por la Comisión del Deporte del Estado de Sonora.
+
+b).- Para niñas, niños , adolescentes jóvenes que sobresalgan en un ámbito cultural reconocido por el Instituto Sonorense de Cultura.
+
+c).- Especiales para niñas, niños, adolescentes y jóvenes con discapacidad física, discapacidad mental o condición mental con la finalidad de facilitar su acceso al ámbito educativo y/o laboral a través de programas inclusivos.
+
+II. ESTÍMULOS FORMATIVOS:
+
+a).- Al talento deportivo: los orientados a reconocer e incentivar a las niñas, niños , adolescentes y jóvenes que han destacado en actividades deportivas;
+
+b).- Al talento Cultural: los orientados a reconocer e incentivar a las niñas, niños, adolescentes y jóvenes que han destacado en actividades culturales; y
+
+c).- Al Desarrollo Integral Inclusivo: Los orientados a apoyar a niñas, niños, adolescentes y jóvenes con discapacidad física, discapacidad mental o condición mental que requieren de un apoyo económico para asistir a cursos de capacitación, formación, terapias o programas que los ayuden a acceder al ámbito educativo y/o laboral.
+
+Además de las modalidades de becas y estímulos formativos anteriores, la Junta Directiva podrá determinar otras modalidades con fines formativos, debiendo observar para tal efecto las disposiciones previstas en la presente Ley y el Reglamento.
+
+Ninguna persona podrá recibir más de una beca o estímulo educativo de los antes señalados durante el mismo ejercicio fiscal. Se exceptúa de lo anterior el estímulo a las niñas, niños, adolescentes y jóvenes que sobresalgan en alguna actividad deportiva, cultural o educativa.
+
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
 
 ###### Artículo 40.
 
-El número de becas y estímulos educativos que el Instituto ofrezca y otorgue para cada ciclo escolar, se financiará de la previsión presupuestal autorizada para tal efecto, la cual será irreductible respecto al ejercicio fiscal inmediato anterior y no podrá ser reducida por ningún motivo durante el ejercicio fiscal en curso, procurando, en su caso, conforme al presupuesto autorizado un incremento en el número de becarios.
+El número de becas y estímulos educativos así como las becas y estímulos formativos que el Instituto ofrezca y otorgue para cada ciclo escolar y/o ejercicio fiscal, se financiará de la previsión presupuestal autorizada para tal efecto, la cual será irreductible respecto al ejercicio fiscal inmediato anterior y no podrá ser reducida por ningún motivo durante el ejercicio fiscal en curso, procurando, en su caso, conforme al presupuesto autorizado un incremento en el número de becarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE JULIO DE 2023)</small>
 
 ###### Artículo 41.
 
-Las becas que otorgue el Instituto conforme a la presente Ley y su Reglamento, se ofrecerán mediante convocatoria pública emitida por el mismo para cada ciclo escolar.
+Las becas que otorgue el Instituto conforme a la presente Ley y su Reglamento, se ofrecerán mediante convocatoria pública emitida por el mismo para cada ciclo escolar y/o ejercicio fiscal.
 
 En el caso de la educación media superior y superior, cuando la conclusión del ciclo escolar correspondiente no coincida con la emisión de la convocatoria respectiva, sólo se tramitarán solicitudes de renovación de beca conforme a los términos que para cada modalidad de éstas se establezca en el Reglamento, sin que resulte necesario emitir convocatoria alguna.
 
-La tramitación de los estímulos educativos que otorga el Instituto, se sujetarán (sic) a los términos que para cada modalidad de éstos establezca el Reglamento.
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
+
+La tramitación de los estímulos educativos y/o formativos que otorga el Instituto, se sujetarán (sic) a los términos que para cada modalidad de éstos establezca el Reglamento.
+
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2023)</small>
+
+Sin perjuicio de lo establecido en el presente artículo, previa autorización de la Junta Directiva, el Director General del Instituto, podrá otorgar de manera extraordinaria, becas o estímulos educativos, en aquellos casos que se haya acreditado la necesidad de la beca y que a su juicio deban ser atendidos de manera urgente e inaplazable a efecto de garantizar la permanencia y participación del estudiante en los servicios educativos del Estado.
+
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
 
 ###### Artículo 42.
 
-Para efectos de lo anterior, el Instituto deberá ordenar la publicación de las convocatorias en los medios de comunicación masiva y a través de cualquier otro mecanismo que garantice la mayor difusión de las mismas a la población en general y colocarlas en al menos dos sitios visibles de cada centro educativo, para la consulta de la comunidad escolar.
+Para efectos de lo anterior, el Instituto deberá ordenar la publicación de las convocatorias en los medios de comunicación digital de las plataformas de la Secretaría de Educación y del Instituto, así como a través de cualquier otro mecanismo que garantice la mayor difusión de las mismas a la población en general y colocarlas en al menos dos sitios visibles de cada centro educativo, para la consulta de la comunidad escolar.
 
 ###### Artículo 43.
 
 Las convocatorias a que se refiere el artículo anterior, deberán contener por lo menos la siguiente información:
 
-I. La modalidad de beca, el monto de la misma y el ciclo escolar para el cual se convoca;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+I. La modalidad de beca, el monto de la misma y el ciclo escolar y/o ejercicio fiscal para el cual se convoca;
 
 II. Los requisitos que para el otorgamiento de dicha beca se exigen, así como los medios para acreditarlos;
 
@@ -693,9 +807,11 @@ V. La fecha límite para emitir la resolución respecto a las solicitudes recibi
 
 VI. La demás información que establezca el Reglamento o que el Instituto considere necesario contemplar para facilitar la tramitación de las solicitudes de beca, siempre y cuando no se oponga a los requisitos previstos en la presente Ley y el Reglamento.
 
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
+
 ###### Artículo 44.
 
-Los requisitos para cada modalidad de beca y estímulo educativo se establecerán en el Reglamento respectivo.
+Los requisitos para cada modalidad de beca y estímulos educativos y formativos se establecerán en el Reglamento respectivo.
 
 ###### Artículo 45.
 
@@ -723,15 +839,39 @@ VIII. Alumnos que requieran desplazarse a lugares distintos a los de su residenc
 
 IX. Aquellos que sean aprobados por la Junta de acuerdo al caso o programa que se establezca.
 
-> <small>(ADICIONADO, B.O. 23 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE JULIO DE 2023)</small>
 
-Artículo 45 BIS.- Para el caso de alumnos inscritos en el nivel superior que requieran desplazarse a lugares distintos de su residencia para realizar sus estudios y que sean de escasos recursos económicos, el Instituto destinará una reserva presupuestal específica para el otorgamiento de becas.
+Artículo 45 BIS.- Para el caso de alumnos inscritos en el nivel superior que requieran desplazarse a lugares distintos de su residencia para realizar sus estudios dentro del territorio estatal y que sean de escasos recursos económicos, el Instituto destinará una reserva presupuestal específica para el otorgamiento de becas.
+
+> <small>(ADICIONADO, B.O. 23 DE JULIO DE 2020)</small>
 
 El monto a que hace alusión el párrafo anterior deberá ser determinado por el Instituto por sí mismo y en coordinación con la Secretaría de Hacienda del Estado al momento de formular el proyecto de presupuesto de Egresos y la Ley de Ingresos para cada ejercicio fiscal, tomando en cuenta los criterios estadísticos que genera el propio Instituto, así como las consideraciones expuestas en su Plan Operativo Anual.
 
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2023)</small>
+
+Artículo 45 TER.- Los criterios para la selección de becarios para becas formativas, serán de preferencia en el siguiente orden:
+
+I.- Para niñas, niños, adolescentes y jóvenes con alguna discapacidad física, discapacidad mental o condición mental en términos de la Ley para la Inclusión y Desarrollo de las personas con discapacidad o Personas en Situación de Discapacidad del Estado de Sonora, así como lo que se determine en el reglamento para el otorgamiento de becas correspondiente;
+
+II.- Para niñas, niños, adolescentes y jóvenes en condiciones de pobreza extrema;
+
+III.- Para niñas, niños, adolescentes y jóvenes que habitan en comunidades indígenas, en zonas rurales o zonas urbanas marginadas y sean de escasos recursos económicos;
+
+IV.- Para niñas, niños, adolescentes y jóvenes que requieran desplazarse a lugares distintos a los de su residencia para realizar sus estudios y que sean de escasos recursos económicos;
+
+V.- Para niñas, niños, adolescentes y jóvenes que dependen de sus abuelos y sean de escasos recursos económicos;
+
+VI.- Para niñas, niños, adolescentes y jóvenes cuya madre o padre sea desempleado, jubilado o con discapacidad de acuerdo a lo dispuesto por la Ley de Integración Social para Personas con Discapacidad y sean de escasos recursos económicos;
+
+VII.- Para niñas, niños, adolescentes y jóvenes cuya madre sea jefa de familia, viuda o soltera, o cuyo padre sea el único sustento económico familiar y sean de escasos recursos económicos; y
+
+VIII.- Aquellos que sean aprobados por la Junta de acuerdo al caso o programa que se establezca.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE JULIO DE 2023)</small>
+
 ###### Artículo 46.
 
-Serán causales de negativa de la beca y estímulo educativo solicitados las siguientes:
+Serán causales de negativa de la beca y estímulo educativo, así como de la beca y estimulo formativos solicitados las siguientes:
 
 I. La extemporaneidad de la presentación de la solicitud;
 
@@ -743,19 +883,29 @@ IV. Por resolución administrativa o judicial de autoridad competente; y
 
 V. Las demás que se establezcan en la presente Ley y el Reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE JULIO DE 2023)</small>
+
 ###### Artículo 47.
 
-Serán causales de cancelación de la beca o estímulo educativo las siguientes:
+Serán causales de cancelación de la beca o estímulo educativo o de la beca o estímulos formativos las siguientes:
 
-I. Que el becario proporcione información falsa o altere algún documento que se establezca como requisito para el trámite de la beca o estímulo educativo;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+I. Que el becario proporcione información falsa o altere algún documento que se establezca como requisito para el trámite de la beca o estímulo educativo o de la beca o estímulos formativos según sea el caso;
 
 II. Que el becario incumpla cualquiera de las obligaciones previstas en la presente Ley y su Reglamento;
 
-III. Que el becario suspenda o sea suspendido en sus estudios;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
 
-IV. Cambiar de centro educativo sin avisar al Instituto;
+III. Que el becario suspenda o sea suspendido en sus estudios o en su caso suspenda o sea suspendido el programa en el cual se encuentre;
 
-V. Renunciar expresamente al beneficio de la beca o estímulo educativo;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+IV. Cambiar de centro educativo o de programa sin avisar al Instituto;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+V. Renunciar expresamente al beneficio de la beca o estímulo educativo o formativo;
 
 VI. Por fallecimiento del becario;
 
@@ -763,15 +913,21 @@ VII. Por resolución administrativa o judicial de autoridad competente;
 
 VIII. Las demás que se establezcan en la presente Ley y el Reglamento respectivo.
 
-Los directores de los centros educativos correspondientes serán responsables de informar de inmediato al Instituto cuando conozcan de la actualización de alguna de las causales señaladas en el presente artículo por parte de los becarios.
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
 
-En caso de enfermedad grave del becario o cualesquiera otras circunstancias que interfieran en la normal realización de sus estudios, se deberá informar de inmediato al Instituto, a efecto de que éste resuelva lo conducente, garantizando en la medida posible la continuidad de la beca o estímulo educativo correspondiente.
+Los directores de los centros educativos o encargados de los programas correspondientes serán responsables de informar de inmediato al Instituto cuando conozcan de la actualización de alguna de las causales señaladas en el presente artículo por parte de los becarios.
+
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
+
+En caso de enfermedad grave del becario o cualesquiera otras circunstancias que interfieran en la normal realización de sus estudios o formación dentro del programa aplicable según sea el caso, se deberá informar de inmediato al Instituto, a efecto de que éste resuelva lo conducente, garantizando en la medida posible la continuidad de la beca o estímulo educativo o beca y estímulo formativo correspondiente.
+
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
 
 ###### Artículo 48.
 
-Para el caso de las becas y estímulos educativos que se cancelen durante el ciclo escolar, el Instituto tomará las previsiones necesarias a efecto de disponer que el recurso o el porcentaje de colegiatura, respectivamente, destinado para éstos no queden sin operarse durante dicho ciclo escolar y se asigne a cualquier otro alumno sea de escuela pública o particular.
+Para el caso de las becas y estímulos educativos o becas y estímulos formativos que se cancelen durante el ciclo escolar y/o ejercicio fiscal, el Instituto tomará las previsiones necesarias a efecto de disponer que el recurso correspondiente o el porcentaje de colegiatura, respectivamente, destinado para éstos no queden sin operarse durante dicho ciclo escolar y/o ejercicio fiscal y se asigne según sea el caso y modalidad de beca aplicable.
 
-Sin perjuicio de lo anterior, el Instituto tomará las previsiones necesarias a efecto de disponer de una reserva presupuestal destinada a cumplir con aquellas resoluciones que establezcan la obligación de asignar a un alumno una beca o estímulo educativo durante el ciclo escolar en curso. En caso de que la disponibilidad presupuestal no lo permita, se otorgará de manera preferencial a dicho alumno una beca o estímulo educativo para el ciclo escolar inmediato siguiente.
+Sin perjuicio de lo anterior, el Instituto tomará las previsiones necesarias a efecto de disponer de una reserva presupuestal destinada a cumplir con aquellas resoluciones que establezcan la obligación de asignar a un alumno una beca o estímulo educativo durante el ciclo escolar en curso o a una niña, niño, adolescentes o joven una beca o estimulo formativo durante el ejercicio fiscal en curso según sea el caso. Cuando la disponibilidad presupuestal no lo permita, se otorgará de manera preferencial a dicho alumno una beca o estímulo educativo para el ciclo escolar inmediato siguiente o a una niña, niño, adolescentes o joven una beca o estimulo formativo para el siguiente ejercicio fiscal.
 
 ### Capítulo II. De los derechos y obligaciones de los becarios
 
@@ -779,11 +935,17 @@ Sin perjuicio de lo anterior, el Instituto tomará las previsiones necesarias a 
 
 Son derechos de los becarios los siguientes:
 
-I. Recibir oportunamente la beca o estímulo educativo otorgado;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
 
-II. Disfrutar de la beca o estímulo educativo sin necesidad de realizar pago, actividades extraordinarias, contribución o donación algunas (sic) a su centro educativo, a los integrantes de la comunidad escolar o al Gobierno del Estado;
+I. Recibir oportunamente la beca o estímulo educativo o beca y estímulo formativo otorgado;
 
-III. Ser considerados de manera preferencial para la renovación de su beca para el siguiente ciclo escolar de acuerdo a los criterios que se establezcan en el Reglamento y la convocatoria respectiva;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+II. Disfrutar de la beca o estímulo educativo o beca y estímulo formativo sin necesidad de realizar pago, actividades extraordinarias, contribución o donación algunas a su centro educativo, centro formativo a los integrantes de la comunidad escolar o al Gobierno del Estado;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+III. Ser considerados de manera preferencial para la renovación de su beca para el siguiente ciclo escolar y/o ejercicio fiscal de acuerdo a los criterios que se establezcan en el Reglamento y la convocatoria respectiva;
 
 IV. Los demás que se deriven de la presente Ley y el Reglamento.
 
@@ -791,23 +953,33 @@ IV. Los demás que se deriven de la presente Ley y el Reglamento.
 
 Son obligaciones de los becarios las siguientes:
 
-I. Proporcionar al Instituto toda la información que este último le requiera y considere pertinente para la evaluación de su desempeño escolar y demás condiciones particulares;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
 
-II. Suscribir la documentación que formalice el otorgamiento de la beca o estímulo educativo que corresponda;
+I. Proporcionar al Instituto toda la información que este último le requiera y considere pertinente para la evaluación de su desempeño escolar y/o formativo y demás condiciones particulares;
 
-III. Asistir con regularidad a clases y observar buena conducta, dentro y fuera del centro educativo;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+II. Suscribir la documentación que formalice el otorgamiento de la beca o estímulo educativo o beca y estímulo formativo que corresponda;
+
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+III. Asistir con regularidad a clases y observar buena conducta, dentro y fuera del centro educativo cuando se trate de becas y estímulos educativos; asistir al programa en el que se encuentre regularmente, observando buena conducta dentro del centro formativo cuando se trate de becas y estímulos formativos.
 
 IV. Presentar las evaluaciones o exámenes indicativos que, en su caso, señalen las autoridades educativas;
 
-V. Informar cualquier cambio de domicilio y, en general, de los datos que proporcionó para solicitar la beca o estímulo educativo; y
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+V. Informar cualquier cambio de domicilio y, en general, de los datos que proporcionó para solicitar la beca o estímulo educativo o beca y estímulo formativo; y
 
 VI. Las demás derivadas de la presente Ley y el Reglamento.
 
 ### Capítulo III. De la difusión
 
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
+
 ###### Artículo 51.
 
-El Instituto deberá dar la mayor publicidad a través de su página oficial de todo el procedimiento de otorgamiento de becas para escuelas públicas o particulares, considerando en todo momento el fácil acceso y conocimiento a la población en general de los datos inherentes a becas disponibles, otorgadas, remanentes, canceladas y el padrón de escuelas públicas y particulares donde son otorgadas las mismas.
+El Instituto deberá dar la mayor publicidad a través de su página oficial de todo el procedimiento de otorgamiento de becas para escuelas públicas o particulares, así como del procedimiento de otorgamiento de becas formativas, considerando en todo momento el fácil acceso y conocimiento a la población en general de los datos inherentes a becas disponibles, otorgadas, remanentes, canceladas y el padrón de escuelas públicas y particulares donde son otorgadas las mismas, así como de los centros formativos.
 
 ### Capítulo IV. De las Quejas e Inconformidades
 
@@ -884,3 +1056,19 @@ B.O. 22 DE NOVIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 135, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA Y DE LA LEY DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación y Cultura, y el Instituto de Becas y Crédito Educativo del Estado de Sonora, deberá realizar los cambios a sus disposiciones normativas y reglamentarias en los términos señalados en el presente decreto, dentro de los 90 días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Educación y Cultura, y el Instituto de Becas y Crédito Educativo del Estado de Sonora, en coordinación con la Secretaría de Hacienda, deberán implementar de manera gradual el sistema universal de becas a que se refiere el presente Decreto, sujetándose a metas de corto, mediano y largo plazo, a efecto de garantizar el equilibrio y balance sostenible de las finanzas públicas del Estado.
