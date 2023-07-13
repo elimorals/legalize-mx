@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2023-07-07"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2023.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -3439,6 +3439,10 @@ Si el delito se cometiera en contra de la víctima por su condición de género,
 
 En todos los casos previstos en los dos artículos precedentes, el Ministerio Público se encontrará obligado a recibir, aún en días y horas inhábiles, cualquier denuncia o querella que se le presente exponiendo actos de violencia familiar y, bajo su estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas para la víctima u ofendido, de conformidad con el Código Nacional de Procedimientos Penales y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2023)</small>
+
+ARTICULO 234 D (SIC).- Comete el delito de Violencia por Sustitución o Vicaria, cuando quien tenga o haya tenido una relación de matrimonio, concubinato o relación de hecho, que por sí misma o por interpósita persona, utilice como medio a las hijas e hijos, familiares, personas adultas mayores, personas con discapacidad o en situación de dependencia, personas significativas, mascotas, bienes de la víctima, entre otros para causarle algún tipo de daño o afectación a una mujer. Cuando se ejerza violencia física, psicológica o privación de la vida se le la (sic) aplicará una pena de prisión de uno a diez años y una multa equivalente de mil quinientas a cuatro mil veces el valor diario de la Unidad de Medida y Actualización, estas sanciones se aplicarán con independencia de los delitos que resultaren cometidos al ejercer esta conducta.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 13 DE JUNIO DE 2019)</small>
 
 ### CAPITULO V. MALTRATO INFANTIL
@@ -3981,7 +3985,9 @@ ARTICULO 263 BIS.- Cuando la comisión de los delitos de homicidio o lesiones se
 
 ARTICULO 263 TER.- Comete el delito de homicidio infantil el que priva de la vida a una persona menor de doce años.
 
-Al que cometa el delito referido en (sic) presente artículo se le impondrán de treinta a setenta años de prisión y multa de quinientas a mil Unidades de Medida y Actualización.
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
+
+Al que cometa el delito referido en (sic) presente artículo se le impondrán de cuarenta y cinco a setenta años de prisión y multa de tres mil a cinco mil Unidades de Medida y Actualización.
 
 Para la individualización de las sanciones previstas en este artículo se impondrá la pena máxima cuando a la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o se ejecute utilizando armas de fuego.
 
@@ -6092,6 +6098,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 7 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 134 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN GUARDA TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 93, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 116, QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 263 TER DEL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
