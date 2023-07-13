@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2023-06-07"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2023.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -112,6 +112,10 @@ Los ascendientes, tutores y custodios tienen el deber de preservar estos derecho
 > <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
+
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2023)</small>
+
+El Gobierno del Estado establecerá un sistema universal de becas para las y los estudiantes de todos los niveles escolares del sistema de educación estatal para prevenir y combatir la deserción escolar, así como fomentar la formación integral y de competencias académicas, deportivas y culturales para las niñas, niños, adolescentes y jóvenes, con un enfoque inclusivo, dando prioridad a regiones o grupos con mayor rezago educativo, pobreza, marginación, vulnerabilidad, violencia, discapacidad física, discapacidad mental o alguna condición mental. El presupuesto asignado será progresivo y no podrá disminuirse respecto del asignado en el ejercicio fiscal inmediato anterior.
 
 > <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
 
@@ -4434,3 +4438,21 @@ B.O. 7 DE JUNIO DE 2023.
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
 
 Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realice el cómputo respectivo, y en caso de resultar aprobada la presente Ley por la mayoría de los ayuntamientos del Estado, la remita al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 172, QUE ADICIONA UN PÁRRAFO DÉCIMO PRIMERO AL ARTÍCULO 1°, RECORRIÉNDOSE LOS PÁRRAFOS SUBSECUENTES, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá (sic) notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y en su caso de resultar aprobado la presente Ley por las dos terceras partes de los ayuntamientos de los Municipios del Estado, la remiten al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado deberá armonizar el marco jurídico en la materia para adecuarlo al contenido de la presente Ley en un plazo que no excederá de 60 días naturales a partir de la entrada en vigor del presente decreto. Dicha armonización incluirá disposiciones que determinen los alcances y formas (sic) dar cumplimiento gradual a las obligaciones del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado deberá implementar de manera gradual el sistema universal de becas a que se refiere la presente Ley, sujetándose a metas de corto, mediano y largo plazo, a efecto de garantizar el equilibrio y balance sostenible de las finanzas públicas del Estado.
