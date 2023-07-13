@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-163-de-educacion-del-estado-de-sonora-143013"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2023-03-06"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 163 DE EDUCACIÓN DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2023.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 15 de mayo de 2020.
 
@@ -1839,13 +1839,17 @@ La autoridad educativa estatal y autoridades municipales, prestarán servicios e
 
 Para tal efecto realizarán entre otras, las siguientes acciones:
 
-I.- Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas y demás apoyos económicos que prioricen a los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+I.- Establecer políticas incluyentes, transversales, con perspectiva de género, y con estricto apego al principio de progresividad, para otorgar becas y demás apoyos económicos que prioricen a los educandos que enfrenten condiciones socioeconómicas o de marginación que les impidan o dificulten el ejercicio de su derecho a la educación;
 
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 2023)</small>
 
 II.- Establecer, de acuerdo con la suficiencia presupuestal, programas de entrega gratuita de uniformes y útiles escolares, calzado y anteojos para estudiantes de educación básica; así como de productos de higiene menstrual y de espacios sanitarios necesarios para garantizar la gestión menstrual digna de las niñas y adolescentes;
 
-III.- Proporcionar apoyos a educandos cuya madre, padre o tutor haya fallecido o sufrido algún accidente que le ocasione invalidez o incapacidad permanente;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+III.- Proporcionar apoyos a niñas, niños, adolescentes y jóvenes que sufran de alguna discapacidad física, discapacidad mental o condición mental, y a educandos cuya madre, padre o tutor haya fallecido o sufrido algún accidente que le ocasione invalidez o incapacidad permanente;
 
 IV.- Garantizar el acceso a los servicios educativos a las víctimas y promover su permanencia en el sistema educativo estatal cuando como consecuencia del delito o violación de sus derechos humanos exista interrupción en los estudios;
 
@@ -1853,7 +1857,9 @@ V.- Promover la instalación de aires acondicionados en aulas de los planteles e
 
 VI.- Impulsar, en coordinación con las autoridades en la materia, programas de acceso gratuito a eventos culturales para educandos en vulnerabilidad social;
 
-VII.- Apoyar conforme a las disposiciones que, para tal efecto emitan las autoridades educativas, a estudiantes de educación media superior y de educación superior con alto rendimiento escolar para que puedan participar en programas de intercambio académico en el país o en el extranjero;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2023)</small>
+
+VII.- Apoyar conforme a las disposiciones que, para tal efecto emitan las autoridades educativas, a estudiantes de educación media superior y de educación superior con alto rendimiento escolar para que puedan participar en programas de intercambio académico en el país o en el extranjero; así como aquellos jóvenes que destaquen en alguna disciplina académica, deportiva o cultural reconocida por la autoridad estatal de la materia;
 
 VIII.- Celebrar convenios para que las instituciones que presten servicios de estancias infantiles faciliten la incorporación de las hijas o hijos de estudiantes que lo requieran, con el objeto de que no interrumpan o abandonen sus estudios;
 
@@ -2952,3 +2958,19 @@ La Secretaría de Salud, la Secretaría de Educación y el Sistema Estatal para 
 ###### ARTÍCULO CUARTO.
 
 En un plazo de noventa días naturales posteriores a la entrada en vigor del Reglamento a que se refiere el artículo segundo transitorio de la presente Ley, la Secretaría de Educación expedirá el “Manual de Apoyo a Docentes en Trastorno del Espectro Autista” y el “Protocolo de Actuación para la Atención de las Personas con Trastorno del Espectro Autista”.
+
+B.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 135, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA Y DE LA LEY DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+La Secretaría de Educación y Cultura, y el Instituto de Becas y Crédito Educativo del Estado de Sonora, deberá realizar los cambios a sus disposiciones normativas y reglamentarias en los términos señalados en el presente decreto, dentro de los 90 días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Educación y Cultura, y el Instituto de Becas y Crédito Educativo del Estado de Sonora, en coordinación con la Secretaría de Hacienda, deberán implementar de manera gradual el sistema universal de becas a que se refiere el presente Decreto, sujetándose a metas de corto, mediano y largo plazo, a efecto de garantizar el equilibrio y balance sostenible de las finanzas públicas del Estado.
