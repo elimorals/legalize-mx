@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-27070"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-13"
-last_updated: "2022-06-08"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 13 de diciembre de 2002.
 
@@ -331,13 +331,21 @@ VI. Poseer, al día de su designación, con antigüedad mínima de cinco años, 
 
 VII. No ser Titular de alguna Secretaría o Titular de la Fiscalía General del Estado, a menos que se separe del cargo, un año previo a la designación.
 
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+VIII. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+IX. No ser declarada persona deudora alimentaria morosa.
+
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VIII. No haber sido Secretario, Director General o su equivalente en la Administración Pública Paraestatal, Fiscal General del Estado, Senador, Diputado Federal o Local, ni presidente municipal, durante el año previo al de su designación;
+X. No haber sido Secretario, Director General o su equivalente en la Administración Pública Paraestatal, Fiscal General del Estado, Senador, Diputado Federal o Local, ni presidente municipal, durante el año previo al de su designación;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IX. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político durante el año previo al de su designación.
+XI. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político durante el año previo al de su designación.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
@@ -823,13 +831,21 @@ V. Contar al día de su designación con título y cedula profesional de licenci
 
 VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
 
-VII. No haber recibido inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, y
+VII. No haber recibido inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público;
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
 VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato o candidata a cargo de elección popular alguno.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+X. No ser declarada persona deudora alimentaria morosa.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1388,3 +1404,11 @@ P.O. 8 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se reforman el párrafo sexto del artículo 94 y el párrafo tercero del apartado B del artículo 96 y se adicionan los párrafos cuarto y quinto al artículo 51 BIS, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de comparecencia de los titulares de los órganos públicos autónomos a la Legislatura del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 089 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO, LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO, LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, LEY DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO Y DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
