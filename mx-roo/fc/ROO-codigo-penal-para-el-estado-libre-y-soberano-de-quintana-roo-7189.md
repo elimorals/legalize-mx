@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2023-06-06"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -2347,21 +2347,29 @@ II. Si fueran de tres a seis cabezas, se aplicará prisión de dos a cinco años
 
 III. Si excedieran de seis cabezas, se aplicará prisión de tres a ocho años y de cincuenta a doscientos días multa.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 149.
 
-Se le impondrá prisión de uno a tres años y de treinta a cien días multa a quien:
+Se le impondrá prisión de dos a diez años y de cincuenta a ciento treinta días multa a quien:
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 I. Adquiera, oculte o comercie con ganado, pieles, carnes u otros derivados, productos del abigeato;
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2009)</small>
+
 II. Los que adquieran ganado producto del abigeato sin cerciorarse de su legitima procedencia;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2009)</small>
 
 III. Con perjuicio de otro, disponga para sí o para otro, de una o más cabezas de ganado, de las cuales se le haya transmitido la tenencia y no el dominio, o bien se le haya entregado para su custodia;
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2009)</small>
+
 IV. Los que protejan ganado producto del abigeato con documentos alterados o documentación expedida para otros animales;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2009)</small>
 
 V. Marque, contramarque, señale, contraseñale o elimine las marcas en animales ajenos, en cualquier parte, sin derecho para ello;
 
@@ -3010,6 +3018,22 @@ V.- Provoque la erosión, deterioro o degradación de los suelos y subsuelos de 
 BIS.- Al que injustificada e intencionalmente realice actos de crueldad en contra de cualquier especie animal, causándole maltrato evidente, pero que no pongan en peligro la vida del animal, se le impondrá de seis meses a un año de prisión y de veinticinco a cincuenta días multa.
 
 Si las lesiones ponen en peligro la vida del animal se incrementarán en una mitad de la pena señalada.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2023)</small>
+
+Además de las sanciones previstas para este delito, cuando el maltrato o crueldad animal consistan en actos de zoofilia se impondrá de 4 a 10 años de prisión y de 400 a 1500 días multa.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2023)</small>
+
+Se entenderá zoofilia a la realización de actos de perversión sexual a un animal o la introducción por vía vaginal o rectal el miembro viril o cualquier parte del cuerpo u objeto.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2023)</small>
+
+No se consideran actos de zoofilia las acciones que tengan por objeto preservar la vida o la salud del animal.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2023)</small>
+
+Este delito será perseguido de oficio.
 
 Para los efectos del presente Capítulo se entenderá por animal, lo dispuesto en la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
 
@@ -5154,3 +5178,19 @@ P.O. 6 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 083 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 149 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 084 POR EL QUE SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO Y SE RECORRE EN SU ORDEN EL SUBSECUENTE AL ARTÍCULO 179-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
