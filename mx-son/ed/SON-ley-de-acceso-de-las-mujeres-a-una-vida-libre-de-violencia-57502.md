@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5750
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2023-05-23"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2023.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de octubre de 2007.
 
@@ -156,6 +156,12 @@ IX.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de da�
 La violencia familiar es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, obstétrica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad, afinidad o civil, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
 En lo relativo a la violencia familiar se aplicarán las disposiciones en esta materia reguladas en los Códigos Civil y de Procedimientos Civiles, Penal y de Procedimientos Penales para el Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 6 Bis.
+
+La violencia por Sustitución o Vicaria es toda acción u omisión que, con la intención de causar dolor, daño, perjuicio o sufrimiento a la mujer, se inflige contra personas con las que ésta tenga lazos de parentesco, amistad o afectivos. Este tipo de violencia es cometida por quien tenga o haya tenido con ella una relación de matrimonio, concubinato o relación de hecho, que por sí misma o por interpósita persona, utilice como medio a las hijas e hijos, familiares, personas adultas mayores, personas con discapacidad o en situación de dependencia, personas significativas, mascotas, bienes de la víctima, entre otros para causarle algún tipo de daño o afectación.
 
 ###### ARTÍCULO 7.
 
@@ -1142,3 +1148,11 @@ B.O. 23 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 122, QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 93 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
