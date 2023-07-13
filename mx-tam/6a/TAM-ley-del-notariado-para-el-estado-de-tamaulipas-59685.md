@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-notariado-para-el-estado-de-tamaulipas-59685"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-15"
-last_updated: "2023-06-06"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 15 de enero de 2008.
 
@@ -47,7 +47,9 @@ MEDIANTE EL CUAL SE EXPIDE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS.
 
 1.- La presente Ley es de orden público e interés social, y tiene por objeto regular la organización y funcionamiento de la institución del Notariado y la función de los notarios en el Estado de Tamaulipas.
 
-2.- La función notarial es de orden público e interés social, y su organización y funcionamiento se sujeta a los principios de legalidad, rogación, honradez, probidad, imparcialidad, autonomía, profesionalismo, diligencia, eficacia y eficiencia, en que se fundamenta la institución del Notariado en el Estado, de conformidad con lo previsto por la Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2023)</small>
+
+2.- La función notarial es de orden público e interés social, y su organización y funcionamiento se sujeta a los principios de autoría notarial, asesoramiento jurídico, seguridad y certeza jurídica, confiabilidad, transparencia, honestidad, secrecía, obligatoriedad del servicio, responsabilidad, inmediación, formalidad escrita e instrumental, conservación, legalidad, rogación, honradez, probidad, imparcialidad, autonomía, profesionalismo, diligencia, eficacia y eficiencia, en que se fundamenta la institución del Notariado en el Estado, de conformidad con lo previsto por la Ley y demás disposiciones aplicables.
 
 3.- En Tamaulipas la función notarial está a cargo del Estado, quien por conducto del Ejecutivo la delega a profesionales del Derecho, en virtud del fíat que para tal efecto les otorga de acuerdo con la facultad contenida en la fracción XXV del artículo 91 de la Constitución Política del Estado, a fin de que la desempeñen en los términos de la presente ley.
 
@@ -2382,6 +2384,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-596 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO 2, DEL ARTÍCULO 1, DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
