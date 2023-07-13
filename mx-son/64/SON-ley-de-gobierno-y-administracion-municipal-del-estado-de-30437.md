@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2023-03-06"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2023.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -1043,9 +1043,11 @@ IV. Las demás que se establezcan en ésta u otras leyes, reglamentos, bandos de
 
 ### CAPITULO SEPTIMO. DE LAS COMISIONES DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
+
 ###### Artículo 72.
 
-El Ayuntamiento, a propuesta de cualquiera de sus integrantes, aprobará las comisiones que se estimen necesarias para el desempeño de sus funciones.
+El Ayuntamiento, a propuesta de cualquiera de sus integrantes, aprobará las comisiones que se estimen necesarias para el desempeño de sus funciones, debiendo garantizar el principio de máxima publicidad, para lo cual, deberá publicar en su portal de internet, nombre, fotografía, número telefónico y correo electrónico de contacto de cada uno de las y los regidores que la integran, las convocatorias de las reuniones que celebren y los acuerdos que emitan.
 
 ###### Artículo 73.
 
@@ -1114,6 +1116,26 @@ Las comisiones que se nombren tendrán las atribuciones señaladas en éste cap�
 ###### Artículo 80.
 
 El Ayuntamiento podrá designar comisiones especiales en cualquier tiempo de su ejercicio para el estudio de determinado asunto.
+
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2023)</small>
+
+###### Artículo 80 Bis.
+
+Las reuniones de comisión serán públicas, salvo que sus integrantes decidan, por acuerdo de la mayoría de los asistentes, que alguna reunión en temas de seguridad tenga el carácter de privada de acuerdo al reglamento interior de cada ayuntamiento.
+
+Las comisiones deben celebrar reuniones cuantas veces sea necesario para el correcto desahogo de los asuntos de su competencia, pudiendo ser convocadas por su presidente o por la mayoría de sus miembros.
+
+La convocatoria a reunión de las comisiones deberá contener, al menos:
+
+I.- La fecha de su emisión;
+
+II.- La fecha, hora y lugar de la reunión;
+
+III.- El orden del día; y
+
+IV.- La firma autógrafa o electrónica del presidente de la comisión o la de mayoría de sus integrantes.
+
+Para que una reunión de Comisión sea válida deberán estar presentes la mayoría de sus integrantes. La Convocatoria deberá ser notificada mediante oficio o correo electrónico con 48 horas de anticipación, salvo aquellos casos que, por su naturaleza de urgencia, requiera ser convocada a la brevedad posible.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
@@ -4658,3 +4680,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Una vez entrado en vigor el presente decreto, las autoridades municipales correspondientes, dispondrán de 60 días naturales para actualizar las disposiciones legales o normativas correspondientes, a efecto de dar cumplimiento al objeto del presente decreto.
+
+B.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 110, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se establece un periodo de 60 días naturales para que los ayuntamientos adecuen sus reglamentos internos a lo dispuesto en el presente Decreto.
