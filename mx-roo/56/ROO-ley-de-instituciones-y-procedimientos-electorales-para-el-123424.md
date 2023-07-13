@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2023-07-06"
+last_updated: "2023-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -223,9 +223,19 @@ II. Contar con credencial para votar;
 
 III. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-IV. No ser titular de algún órgano político administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección, y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
+
+IV. No ser titular de algún órgano político administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección;
 
 V. No encontrarse sancionada o sancionado administrativamente mediante sentencia firme o, en su caso, sentenciada o sentenciado penalmente mediante sentencia firme, por violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+VI. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+VII. No ser declarada persona deudora alimentaria morosa.
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1785,13 +1795,21 @@ V. No ser o haber sido dirigente nacional, estatal o municipal de algún partido
 
 VI. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial, ni estar inhabilitado para ejercer cargos públicos en cualquier institución pública federal o local;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
 
-VII. No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia del gabinete legal o ampliado tanto del gobierno de la Federación o como de las entidades federativas, ni subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser titular del Poder Ejecutivo de una entidad federativa, ni Secretario de Gobierno o su equivalente a nivel local. No ser Presidente Municipal, Síndico o Regidor o titular de dependencia de los ayuntamientos, y
+VII. No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia del gabinete legal o ampliado tanto del gobierno de la Federación o como de las entidades federativas, ni subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser titular del Poder Ejecutivo de una entidad federativa, ni Secretario de Gobierno o su equivalente a nivel local. No ser Presidente Municipal, Síndico o Regidor o titular de dependencia de los ayuntamientos;
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
 
 VIII. No ser ni haber sido miembro del Servicio Profesional Electoral Nacional durante el último proceso electoral en la entidad.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+X. No ser declarada persona deudora alimentaria morosa.
 
 En caso que ocurra una vacante de consejería electoral local, el Consejo General del Instituto Nacional hará la designación correspondiente de acuerdo a lo establecido en la Ley General.
 
@@ -3301,9 +3319,19 @@ V. Contar al día de su designación con título y cédula profesional de licenc
 
 VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto Estatal, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
 
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
 VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+X. No ser declarada persona deudora alimentaria morosa.
 
 El titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
 
@@ -3475,9 +3503,19 @@ VIII. Acreditar conocimientos en derecho electoral;
 
 IX. No desempeñar ni haber desempeñado el cargo de presidente del Comité Ejecutivo Nacional o equivalente de un partido político;
 
-X. No haber sido registrado como candidato, con excepción de los candidatos independientes, a cargo alguno de elección popular en los últimos cuatro años inmediatos anteriores a la designación, y
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+X. No haber sido registrado como candidato, con excepción de los candidatos independientes, a cargo alguno de elección popular en los últimos cuatro años inmediatos anteriores a la designación;
 
 XI. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los seis años inmediatos anteriores a la designación.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+XII. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+XIII. No ser declarada persona deudora alimentaria morosa.
 
 ###### Artículo 212.
 
@@ -3795,9 +3833,19 @@ VII. Contar con conocimiento y experiencia jurisdiccional en materia electoral;
 
 VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
-IX. Durante los cuatro años anteriores a la designación, no haber desempeñado cargo de elección popular federal, estatal o municipal, no haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno, y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
+
+IX. Durante los cuatro años anteriores a la designación, no haber desempeñado cargo de elección popular federal, estatal o municipal, no haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno;
 
 X. No ser secretario, fiscal general del Estado, subsecretario u oficial mayor en la administración pública estatal o municipal, a menos que se separe de su encargo cuatro años anteriores al día de su nombramiento.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+XI. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+XII. No ser declarada persona deudora alimentaria morosa.
 
 ###### Artículo 229.
 
@@ -4229,9 +4277,19 @@ V. Contar al día de su designación con título y cédula profesional de licenc
 
 VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Tribunal Electoral, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
 
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
 VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
+
+X. No ser declarada persona deudora alimentaria morosa.
 
 El titular del Órgano Interno de Control no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
 
@@ -7162,3 +7220,11 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. El Instituto Electoral de Quintana Roo en un plazo de noventa días naturales siguientes a la entrada en vigor del presente decreto, deberá realizar las adecuaciones a los reglamentos, lineamientos o acuerdos que correspondan.
 
 TERCERO. Para el Ejercicio Fiscal 2023, dado que se han presupuestado los recursos económicos necesarios para las actividades preparatorias previas a la Declaración de inicio del proceso electoral, queda intocado el presupuesto establecido en el Artículo Tercero Transitorio del Decreto Número 038 publicado en el Periódico Oficial de fecha 23 de diciembre de 2022 de la H. XVII Legislatura Constitucional del Estado Libre y Soberado de Quintana Roo, exceptuando el Capítulo 1000 correspondiente a la contratación de personal eventual para los órganos desconcentrados del Instituto Electoral de Quintana Roo.
+
+P.O. 13 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 089 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO, LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO, LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, LEY DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO Y DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
