@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-titular-del-instituto-federal-de-defensoria-152290"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-04"
-last_updated: "2022-12-09"
+last_updated: "2023-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152290&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-26"
 
 ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 4 de noviembre de 2021.
 
@@ -317,7 +317,9 @@ XI. Presentar denuncias ante el Ministerio Público de la Federación, en los ca
 
 XII. Concentrar la información mensual y anual de los asuntos en que intervenga el personal con funciones de defensa penal y asesoría jurídica, con el objeto de informar de ello al Consejo, así como para la elaboración del informe anual de labores del Instituto;
 
-XIII. Presentar el informe anual de labores, en la sesión ordinaria de la Junta Directiva a celebrarse en junio de cada año;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO DE LA JUNTA DIRECTIVA POR EL QUE SE MODIFICAN LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA EN RELACIÓN CON LA FECHA DE PRESENTACIÓN DEL INFORME ANUAL DE LABORES, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XIII. Presentar el informe anual de labores, en la sesión ordinaria de la Junta Directiva a celebrarse en el mes de noviembre de cada año.
 
 XIV. Vigilar que exista la adecuada coordinación entre las unidades administrativas del Instituto, para un mejor cumplimiento de las atribuciones y funciones que señala la Ley, así como las presentes Bases;
 
@@ -2222,3 +2224,27 @@ SEGUNDO. Las modificaciones y adiciones de las Bases Generales de Organización 
 ## TRANSITORIOS
 
 ÚNICO. Las modificaciones y adiciones de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del veintiséis de septiembre del año dos mil veintidós, entrarán en vigor al día siguiente de la publicación del presente acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE JULIO DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DE LA JUNTA DIRECTIVA POR EL QUE SE MODIFICAN LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA EN RELACIÓN CON LA FECHA DE PRESENTACIÓN DEL INFORME ANUAL DE LABORES”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba la modificación de la fracción XIII del artículo 5 de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, conforme a lo siguiente:
+
+###### Artículo 5.
+
+De las funciones de la Dirección General.
+
+Son funciones de la Dirección General además de las atribuciones conferidas en el artículo 32 de la Ley, las siguientes:
+
+I a XII. (...)
+
+XIII. Presentar el informe anual de labores, en la sesión ordinaria de la Junta Directiva a celebrarse en el mes de noviembre de cada año.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en la página electrónica del Instituto Federal de Defensoría Pública.
+
+## TRANSITORIOS
+
+PRIMERO. Por única ocasión, el Informe Anual de Labores del Instituto Federal de Defensoría Pública abarcará del primer día hábil del mes de junio de 2022 al 15 de noviembre de 2023, mismo que deberá ser presentado en la sesión ordinaria de la Junta Directiva del mes de noviembre del presente año.
+
+SEGUNDO. El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
