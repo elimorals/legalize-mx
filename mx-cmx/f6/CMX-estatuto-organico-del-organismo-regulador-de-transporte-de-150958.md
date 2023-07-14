@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-organismo-regulador-de-transporte-de-1509
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-09-03"
-last_updated: "2023-02-14"
+last_updated: "2023-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150958&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-09-01"
 
 ESTATUTO ORGÁNICO DEL ORGANISMO REGULADOR DE TRANSPORTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE JULIO DE 2023.
 
 Estatuto publicado en el Número 676 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 3 de septiembre de 2021.
 
@@ -568,11 +568,15 @@ XIII. Coordinar y vigilar el cumplimiento y entrega de la información presupues
 
 XIV. Coordinar la ejecución de programas y acciones de modernización y simplificación administrativa;
 
-XV. Elaborar, de acuerdo con las disposiciones jurídicas y administrativas aplicables, las estrategias para formular el Programa Anual de Adquisiciones, Arrendamientos y Servicios y el Programa Anual de Obras, de conformidad con las políticas y programas del Organismo, así como supervisar su aplicación;
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2023)</small>
+
+XV. Elaborar, de acuerdo con las disposiciones jurídicas y administrativas aplicables, las estrategias para formular el Programa Anual de Adquisiciones, Arrendamientos y Servicios, de conformidad con las políticas y programas del Organismo, así como supervisar su aplicación.
 
 XVI. Coordinar la recepción, guarda, suministro y control de los insumos y bienes muebles conforme a la normatividad aplicable en la materia;
 
-XVII. Instrumentar e intervenir en los procedimientos de licitación pública y casos de excepción para la adquisición de bienes, arrendamiento, prestación de servicios y obras que establezca la Ley de Adquisiciones y la Ley de Obras Públicas, aplicables en la Ciudad de México;
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2023)</small>
+
+XVII. Instrumentar e intervenir en los procedimientos de licitación pública y casos de excepción para la adquisición de bienes, arrendamiento y prestación de servicios que establezca la Ley de Adquisiciones aplicable en la Ciudad de México.
 
 XVIII. Llevar a cabo las adquisiciones de bienes, contratación de servicios y arrendamientos de bienes inmuebles que requieran para su operación las áreas que integran el Organismo, observando al efecto las disposiciones jurídicas y administrativas aplicables;
 
@@ -580,7 +584,9 @@ XIX. Coordinar y supervisar el cumplimiento oportuno de obligaciones de pago a f
 
 XX. Intervenir en la elaboración, trámite, supervisión y suscripción de convenios, contratos y pedidos, conforme a los montos autorizados de conformidad con la normatividad aplicable;
 
-XXI. Celebrar toda clase de contratos, convenios, acuerdos y demás instrumentos jurídicos contemplados en la normatividad vigente, relativos a adquisiciones, arrendamientos, obras y prestación de servicios en materia administrativa y laboral;
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2023)</small>
+
+XXI. Celebrar toda clase de contratos, convenios, acuerdos y demás instrumentos jurídicos contemplados en la normatividad vigente, relativos a adquisiciones, arrendamientos y prestación de servicios en materia administrativa y laboral;
 
 XXII. Establecer los mecanismos de registro y control de las fuentes de ingresos respecto al origen de los recursos del Organismo;
 
@@ -640,7 +646,9 @@ XLIX. Coordinar, supervisar y realizar la compensación de recursos provenientes
 
 L. Realizar las gestiones necesarias para el pago de recursos al Transporte Público Concesionado por el uso de la Tarjeta Única de Movilidad Integrada; y hacer las gestiones correspondientes para que los Organismos integrantes del Sistema Integrado de Transporte Público paguen los recursos correspondientes al servicio prestado por el transporte concesionado, previa autorización del Comité de Coordinación para la Compensación de Ingresos por Uso de la Tarjeta Única de Movilidad Integrada de la Ciudad de México;
 
-LI. Realizar las gestiones para la ejecución de las garantías de sostenimiento de propuestas y cumplimiento de contratos que presenten los proveedores, contratistas y prestadores de servicios en términos de la Ley de Adquisiciones y Ley de Obras de la Ciudad de México; y
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2023)</small>
+
+LI. Realizar las gestiones para la ejecución de las garantías de sostenimiento de propuestas y cumplimiento de contratos que presenten los proveedores y prestadores de servicios en términos de la Ley de Adquisiciones para el Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 14 DE FEBRERO DE 2023)</small>
 
@@ -719,3 +727,11 @@ G.O. 14 DE FEBRERO DE 2023.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. La presente reforma entrará en vigor el día de su publicación.
+
+G.O. 14 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DAN A CONOCER LAS REFORMAS A LAS FRACCIONES XV, XVII, XXI Y LI DEL ARTÍCULO 25 DEL ESTATUTO ORGÁNICO DEL ORGANISMO REGULADOR DE TRANSPORTE”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Aviso entrará en vigor el día de su publicación.
