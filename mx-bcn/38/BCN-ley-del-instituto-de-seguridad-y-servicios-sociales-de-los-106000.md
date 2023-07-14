@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-1060
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-17"
-last_updated: "2015-02-17"
+last_updated: "2023-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2023.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 17 de febrero de 2015.
 
@@ -294,6 +294,12 @@ Constituyen garantía para la obligación de pago de dichas cuotas y aportacione
 En ningún caso se condonarán totalmente los recargos; solo la Junta Directiva podrá acordar la condonación parcial.
 
 En caso de incumplimiento serán sujetos a las sanciones establecidas en el Capítulo Décimo Quinto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2023)</small>
+
+ARTÍCULO 22 BIS.- Los adeudos que resulten por concepto de déficit a que se refiere el artículo 125 de esta Ley, los adeudos por cuotas y aportaciones determinadas por la prestación del seguro de enfermedades no profesionales y de maternidad que se contrata vía convenio con el Instituto, así como cualquier otra cantidad líquida que el Instituto tenga derecho a percibir derivado de las obligaciones señaladas en esta Ley a cargo del Estado, Municipios u organismos públicos incorporados, serán determinadas por el propio Instituto y tendrán el carácter de crédito fiscal para efecto de su cobro de conformidad con lo establecido en el Código Fiscal del Estado de Baja California.
+
+Cuando no se cubran los adeudos que se señalan en este artículo, dentro del plazo fijado por las disposiciones contenidas en esta Ley, se causarán mensualmente los recargos conforme a la tasa que prevea la Ley de Ingresos del Estado de Baja California sobre el monto del saldo no cubierto al momento de la causación.
 
 ### Capítulo Tercero. Del Seguro de Enfermedades no Profesionales y de Maternidad
 
@@ -1227,6 +1233,18 @@ Si llegase a ocurrir en cualquier tiempo que los recursos del Instituto no basta
 
 El Estado, Municipios y organismos públicos incorporados podrán contratar créditos a mediano y largo plazo para destinarlo a saneamiento financiero, para el pago de los créditos fiscales establecidos en la presente Ley, cumpliendo con la normatividad que les sea aplicable.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2023)</small>
+
+ARTÍCULO 125 BIS.- El adeudo que resulte por concepto de déficit a que se refiere el artículo anterior, será determinado mensualmente por el Instituto, al Estado, Municipios y organismos públicos incorporados, en la proporción que a cada uno corresponda, cuyo importe será resultado de la diferencia entre lo erogado por el Instituto respecto del fondo de pensiones en relación a la nómina de sus jubilados y pensionados contra el importe enterado por cada sujeto obligado al Instituto por concepto de cuotas y aportaciones.
+
+El adeudo que resulte por concepto de déficit, se notificará al Estado, Municipios y organismos públicos incorporados, con el cálculo que ampare el déficit individual generado, así como la base de jubilados y pensionados que acredite la proporción que a cada uno le corresponda, para que dentro del plazo de diez días naturales siguientes a su notificación enteren el pago del déficit que les corresponda, o soliciten convenio de pago en parcialidades.
+
+Cuando no se cubra el importe notificado por el déficit dentro del plazo señalado en el párrafo anterior, el Instituto por conducto de la autoridad recaudadora, podrá iniciar el procedimiento administrativo de ejecución contenido en el Código Fiscal del Estado de Baja California.
+
+Con independencia de lo anterior, transcurrido el plazo en cuestión, el Instituto podrá solicitar al Poder Ejecutivo del Estado por conducto de la Secretaría de Hacienda, sin perjuicio para ésta, se retenga al obligado los recursos que, en su caso, le correspondan de las participaciones por ingresos estatales a que se refiere la Ley de Coordinación Fiscal del Estado de Baja California, subsidios, derechos, contribuciones y cualesquiera otros recursos líquidos que puedan recibir o recaudar, teniendo como destino el entero de los mismos al Instituto, hasta por la cantidad suficiente para cumplir con la obligación omitida.
+
+Para efectuar la retención y entero a que se refiere el párrafo anterior, el Instituto deberá previamente notificar al obligado para que en el término de tres días hábiles realice el pago inmediato, apercibiéndolo que en caso de no efectuarlo, o de no celebrar convenio para regularizar su adeudo, se entenderá que otorga su consentimiento tácito para que sean afectadas, retenidas y enteradas en su nombre las participaciones, subsidios, derechos, contribuciones y cualesquiera otros recursos líquidos que les correspondan.
+
 #### Sección II. Inversiones
 
 ###### ARTÍCULO 126.
@@ -1394,3 +1412,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GOMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 258 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LOS ARTÍCULOS (SIC) 22 BIS A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
