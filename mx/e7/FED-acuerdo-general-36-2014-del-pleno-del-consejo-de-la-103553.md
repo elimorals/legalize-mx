@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2022-10-26"
+last_updated: "2023-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
@@ -83,13 +83,17 @@ VI. Comisiones permanentes: Las que determine el Acuerdo General del Pleno del C
 
 VII. Consejo: Consejo de la Judicatura Federal;
 
-VIII. Jueces de Distrito especializados en el sistema penal acusatorio: Jueces de Control, Tribunales de Enjuiciamiento y Jueces de Ejecución;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
+
+VIII. Jueces de Distrito especializados en el sistema penal acusatorio: Jueces de Control y Tribunales de Enjuiciamiento;
 
 IX. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)
 
 X. Juez de Control: Juez de Distrito competente para intervenir desde el principio del procedimiento hasta el dictado de apertura a juicio;
 
-XI. Juez de Ejecución: Juez de Distrito especializado en ejecución de sanciones penales;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XI. Juez de Ejecución: Juez de Distrito preferentemente especializado en el sistema penal acusatorio con competencia en ejecución;
 
 XII. Ley: Ley Orgánica del Poder Judicial de la Federación;
 
@@ -181,7 +185,9 @@ El Pleno determinará la designación, adscripción y, en su caso, remoción de 
 
 El Administrador del Centro estará adscrito a la Unidad, quien supervisará su desempeño.
 
-Asimismo, estará sujeto a la revisión y auditorias que lleven a cabo la Visitaduría Judicial y la Contraloría del Poder Judicial de la Federación en el ámbito de sus atribuciones.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
+
+Asimismo, estará sujeto a la revisión y auditorías que lleven a cabo la Visitaduría Judicial y la Contraloría del Consejo de la Judicatura Federal en el ámbito de sus atribuciones.
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
 
@@ -191,7 +197,9 @@ El nombramiento inicial del Administrador será por seis meses.
 
 Antes del vencimiento del nombramiento inicial, se hará una evaluación de su desempeño, cuyos resultados serán sometidos a la consideración del Pleno a efecto de que éste pondere sobre la renovación o no del nombramiento.
 
-La evaluación se llevará a cabo con base en los lineamientos aprobados por la Comisión de Administración a propuesta conjunta del Instituto de la Judicatura y la Unidad; a partir de la información que le proporcione la Visitaduría Judicial y la Contraloría del Poder Judicial de la Federación, respecto de los rubros a evaluar.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
+
+La evaluación se llevará a cabo con base en los lineamientos aprobados por la Comisión de Administración a propuesta conjunta de la Escuela Federal de Formación Judicial y la Unidad; a partir de la información que le proporcione la Visitaduría Judicial y la Contraloría del Consejo de la Judicatura Federal, respecto de los rubros a evaluar.
 
 > <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
 
@@ -313,7 +321,9 @@ En términos de lo dispuesto en el Código, y en la Ley Nacional de Ejecución P
 
 Además de lo dispuesto por el artículo 22 de dicho Código, los jueces de Control y los tribunales de Enjuiciamiento serán competentes para conocer de procedimientos penales fuera de su jurisdicción territorial, en aquellos casos en que la Comisión de Creación de Nuevos Órganos lo determine.
 
-Los jueces de Ejecución serán competentes para conocer de la ejecución de sanciones penales impuestas en los procedimientos penales que se tramiten y resuelvan en el Centro de su adscripción, conforme a las disposiciones aplicables, sin perjuicio de que lo previsto en el párrafo anterior, también será observable respecto de dichos juzgadores.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
+
+Los jueces de Ejecución serán competentes para conocer de la ejecución de sanciones penales impuestas en los procedimientos penales que se tramiten y resuelvan en el Centro de su adscripción, conforme a las disposiciones aplicables, sin perjuicio de que lo previsto en el párrafo anterior, también será observable respecto de dichos juzgadores cuando sean jueces especializados en el sistema penal acusatorio.
 
 ###### Artículo 20.
 
@@ -387,11 +397,13 @@ El ingreso a las salas estará limitado a la capacidad de las mismas, y el acces
 
 El órgano jurisdiccional podrá solicitar al Administrador el cambio de sala siempre y cuando exista la disponibilidad necesaria o, en su defecto, éste podrá proveer de otro espacio del Centro para que los periodistas, medios de comunicación y público en general puedan presenciar la audiencia, en cuyo caso, habilitará una o varias pantallas, en las cuales se transmitirá de forma directa o diferida la sesión respectiva.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 28.
 
-El Administrador integrará el padrón de periodistas y medios de comunicación acreditados, el cual se conformará por aquellos que se registren conforme a los Lineamientos que determine el Pleno, a propuesta de la Dirección General de Comunicación Social.
+El Administrador integrará el padrón de periodistas y medios de comunicación acreditados, el cual se conformará por aquellos que se registren conforme a los Lineamientos que determine el Pleno, a propuesta de la Dirección General de Comunicación Social y Vocería.
 
-El Administrador dará vista a la Dirección General de Comunicación Social de las acreditaciones que otorgue para su conocimiento.
+El Administrador dará vista a la Dirección General de Comunicación Social y Vocería de las acreditaciones que otorgue para su conocimiento.
 
 ###### Artículo 29.
 
@@ -435,9 +447,11 @@ El Administrador deberá asentar en el sistema del registro automatizado de entr
 
 El inicio de las audiencias de las etapas intermedia y de juicio o su continuación, será programado entre las 9:00 y 15:00 horas, de lunes a viernes. Lo mismo se observará para las audiencias iniciales sin detenido, en aquellos casos en que medie solicitud del Ministerio Público para su programación, siempre y cuando resulte posible.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 37.
 
-Los órganos jurisdiccionales y los Administradores de los Centros, en el ámbito de su competencia, deberán observar lo dispuesto en el Título Sexto del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de transparencia, acceso a la información pública, protección de datos personales y archivos.
+Los órganos jurisdiccionales y los Administradores de los Centros, en el ámbito de su competencia, deberán observar lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de transparencia y acceso a la información pública en el Consejo.
 
 ###### Artículo 38.
 
@@ -1000,3 +1014,11 @@ La Secretaría Ejecutiva de Administración, por conducto de las áreas administ
 DÉCIMO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción, registro y turno de los asuntos y promociones que se presenten en la oficialía de partes del tribunal de apelación o, en su caso, en la oficina de correspondencia común que preste sus servicios o a cualquier otro sistema que sea necesario ajustar para instrumentar el presente Acuerdo.
 
 DÉCIMO PRIMERO. La Visitaduría Judicial ajustará a los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Tribunales Colegiados de Apelación. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
+
+D.O.F. 14 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON EL JUEZ DE EJECUCIÓN".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
