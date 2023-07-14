@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-10-2023-del-pleno-del-consejo-de-la-166488"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-06-01"
-last_updated: "2023-06-01"
+last_updated: "2023-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166488&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-05-25"
 
 ACUERDO GENERAL 10/2023, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA E INICIA FUNCIONES EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SINALOA, CON RESIDENCIA EN LOS MOCHIS; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 1 de junio de 2023.
 
@@ -87,7 +87,9 @@ El Centro contará con la plantilla laboral autorizada, y la Administración del
 
 Los órganos jurisdiccionales del sistema penal acusatorio del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-El Juez de Ejecución tendrá la competencia que establece la Ley Nacional de Ejecución Penal y demás normatividad aplicable, dentro de la jurisdicción territorial del Centro.
+> <small>(REFORMADO POR EL PUNTO TRIGESIMOCTAVO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
+
+El Juez de Ejecución tendrá la competencia que establece la Ley Nacional de Ejecución Penal y demás normatividad aplicable, dentro de la jurisdicción territorial del Centro; el cual podrá ser del sistema mixto cuando haya una integración por lo menos de tres jueces del sistema penal acusatorio en el Centro.
 
 ###### Artículo 6.
 
@@ -165,9 +167,11 @@ II. De no ser posible la sustitución en los términos previstos en la fracción
 
 La sustitución del Juez de Ejecución recaerá en cualquier otro juez de Distrito del Centro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TRIGESIMOCTAVO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 18.
 
-El personal de los juzgados de Distrito del Centro junto con su titular, disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 140 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 169 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, en el orden que los titulares de dichos órganos jurisdiccionales consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso, se procurará que permanezcan dos jueces de Distrito del sistema penal acusatorio en el Centro.
+El personal de los juzgados de Distrito del Centro junto con su titular, disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 140 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 170 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, en el orden que los titulares de dichos órganos jurisdiccionales consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso, se procurará que permanezcan dos jueces de Distrito del sistema penal acusatorio en el Centro.
 
 El personal de la Administración del Centro disfrutará de los periodos vacacionales en términos del párrafo anterior. El Administrador deberá tomar las medidas necesarias para que haya personas servidoras públicas de guardia en el Centro durante dicho periodo vacacional, a fin de que éste no detenga su actividad.
 
@@ -250,3 +254,13 @@ QUINTO. Los asuntos que se encuentren ingresados en los diversos Centros de Just
 SEXTO. Se instruye a la Unidad de Transparencia del Consejo de la Judicatura Federal para que integre el presente régimen transitorio al Acuerdo General 24/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, para observancia de los artículos PRIMERO y TERCERO TRANSITORIOS de este Acuerdo.
 
 EL MAGISTRADO JOSÉ ALFONSO MONTALVO MARTÍNEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 10/2023, del Pleno del Consejo de la Judicatura Federal, por el que se crea e inicia funciones el Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Los Mochis; y que reforma y adiciona disposiciones de diversos acuerdos generales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 24 de mayo de 2023, por unanimidad de votos de los señores Consejeros: Presidenta Ministra Norma Lucía Piña Hernández, Bernardo Bátiz Vázquez, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Lilia Mónica López Benítez y Sergio Javier Molina Martínez.- Ciudad de México, a 25 de mayo de 2023.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON EL JUEZ DE EJECUCIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
