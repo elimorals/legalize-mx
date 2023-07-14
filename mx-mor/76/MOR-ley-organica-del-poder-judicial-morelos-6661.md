@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2023-07-12"
+last_updated: "2023-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -269,37 +269,29 @@ Para ser Magistrado de la Sala Especializada en Justicia Penal para Adolescentes
 
 Los magistrados del Tribunal Superior de Justicia se retirarán forzosamente del cargo al cumplir setenta años de edad, como lo determina la Constitución Política del Estado Libre y Soberano de Morelos.
 
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2023)</small>
 
-ARTICULO 26 BIS.- Los Magistrados del Poder Judicial del Estado de Morelos tendrán derecho al Haber por Retiro, en los casos que la Constitución Política del Estado Libre y Soberano de Morelos determina, cuando:
+ARTICULO 26 BIS.- Los magistrados y magistradas que integran los Tribunales del Poder Judicial del Estado de Morelos así como el Tribunal de Justicia Administrativa del Estado, tendrán derecho al Haber por Retiro, en los casos que la Constitución Política del Estado Libre y Soberano de Morelos determina, cuando:
 
-a) Sea por retiro forzoso al alcanzar la edad máxima de sesenta y cinco años de edad o les sobrevenga incapacidad física o mental que los imposibilite para el desempeño del cargo, o
+a) Se cumpla el plazo máximo de catorce años en el ejercicio del cargo de Magistrado o Magistrada;
 
-b) Se cumplan los plazos máximos de seis años sin ser ratificado, o catorce años en el ejercicio del cargo de Magistrado.
+b) Sea por retiro forzoso al alcanzar la edad máxima de setenta años de edad o les sobrevenga incapacidad física o mental que los imposibilite para el desempeño del cargo.
 
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2023)</small>
 
-ARTICULO 26 TER.- El Haber por Retiro consiste en una prestación económica que se cubrirá mediante único pago, en una sola exhibición, el cual se integrará por lo siguiente:
-
-I. El equivalente a tres meses del salario que el Magistrado perciba en el momento en que corresponda el pago de esta prestación, y
-
-II. El equivalente a un mes de salario por cada dos años de servicios prestados como Magistrado.
+ARTICULO 26 TER.- Al separarse del cargo, los magistrados y magistradas a que se refiere el artículo 26 Bis, tendrán derecho a un Haber de Retiro de carácter periódico y vitalicio, el cual se calculará con base en los términos y condiciones que establezcan los reglamentos que para el efecto expidan los Plenos del Tribunal Superior de Justicia del Estado y del Tribunal de Justicia Administrativa del Estado, prestación que reglamentariamente deberá regularse a partir de las remuneraciones vigentes para los magistrados y magistradas en activo.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
 
 ARTICULO 26 QUATER.- El Haber por Retiro no se otorgará en los casos en que el Magistrado sea privado de su cargo en forma definitiva por sanción aplicada en términos de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2023)</small>
 
-ARTICULO 26 QUINQUIES.- El área competente del Tribunal de que se trate procederá a efectuar el cálculo de la prestación que corresponda al Magistrado por concepto de haber por retiro, y una vez determinada esa cuantía del Haber por Retiro se procederá a su liquidación; para lo cual se deberá notificar al interesado el acuerdo en que se determine la cuantía, señalando con precisión los trámites que deban cubrirse para obtener el pago de esta prestación.
+ARTICULO 26 QUINQUIES.- El área competente del tribunal de que se trate, procederá a efectuar el cálculo de la prestación que corresponda al magistrado o magistrada por concepto de haber por retiro y, una vez determinada esa cuantía, se procederá a su pago, para lo cual se deberá notificar a la persona interesada el acuerdo en que se determine la cuantía, señalando con precisión los trámites que deban cubrirse para obtener el pago de esta prestación. Cuando durante la tramitación del Haber por Retiro falleciere el magistrado o magistrada, esta prestación se deberá otorgar a su cónyuge o concubina e hijos menores de edad de manera proporcional.
 
-Cuando durante la tramitación del Haber por Retiro falleciere el Magistrado, esta prestación se deberá otorgar a sus beneficiarios.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
-
-ARTICULO 26 SEXIES.- Las disposiciones contenidas en los artículos 26 Bis, 26 Ter, 26 Quater y 26 Quinquies de esta Ley, referentes al Haber por Retiro, resultan aplicables para los Magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Unitario de Justicia para Adolescentes.
-
-De la misma manera, las disposiciones antes señaladas resultarán aplicables a los Magistrados del Tribunal Electoral de Morelos que hayan fungido antes de la Reforma Constitucional en Materia Político-Electoral y que no hayan sido ratificados por el Senado de la República.
+ARTICULO 26 SEXIES.- Cuando la conclusión del plazo para el ejercicio del cargo ocurra por cuestión de edad o por sobrevenir incapacidad física o mental, el Haber por Retiro deberá ser cubierto en forma proporcional al tiempo en que se haya ejercido el cargo.
 
 ### CAPITULO SEGUNDO. DEL PLENO DEL TRIBUNAL
 
@@ -375,15 +367,21 @@ XXIII.- (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2021) (REPUBLICADA SU DEROGACIÓN, P.
 
 XXIV.- En la esfera de su competencia, tomar todas las decisiones que tiendan a la correcta y adecuada aplicación de la presente ley, así como resolver cualquier situación no prevista por ella;
 
-XXV.- Expedir su propio reglamento; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2023)</small>
+
+XXV.- Expedir su propio reglamento;
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 XXVI.- Observar que se cumpla el principio de paridad de género en los nombramientos y designaciones respectivas al interior del Poder Judicial.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2023)</small>
 
-XXVII.- Las demás que le confieran la Constitución de la Republica, la Constitución del Estado y las leyes.
+XXVII.- Recibir y aprobar las solicitudes de Haber de Retiro de las magistradas o magistrados; y,
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2023)</small>
+
+XXVIII.- Las demás que le confieran la Constitución de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y las leyes que de ella emanen.
 
 ###### ARTICULO 30.
 
@@ -1737,13 +1735,17 @@ XXIV.- Designar a los Jueces Auxiliares del Magistrado Visitador General; y
 
 XXV.- Estructurar, organizar y planear los proyectos para la implementación de los juzgados de control, tribunal de enjuiciamiento y ejecución debiendo establecer los modelos de gestión necesarios para su buen funcionamiento;
 
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2023)</small>
 
-XXVI.- Ordenar la práctica de visitas a los juzgados cuando lo estime pertinente, para cerciorarse de la asistencia y corrección del personal, de si el despacho de los procesos y juicios es correcto y dictar todas las providencias que le parezcan convenientes para la buena marcha de la administración de justicia; y,
+XXVI.- Ordenar la práctica de visitas a los juzgados cuando lo estime pertinente, para cerciorarse de la asistencia y corrección del personal, de si el despacho de los procesos y juicios es correcto y dictar todas las providencias que le parezcan convenientes para la buena marcha de la administración de justicia;
 
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2023)</small>
 
-XXVII.- Las demás que le confieran las leyes.
+XXVII.- Integrar y dar trámite al procedimiento de Haber de Retiro de la Magistrada o Magistrado a que se refiere la fracción XXVII del artículo 29 de la presente Ley; y,
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2023)</small>
+
+XXVIII.- Las demás que le confieran la Constitución Política del Estado Libre y Soberano de Morelos y las leyes.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
@@ -3008,3 +3010,21 @@ PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo del Estad
 SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
 
 TERCERA.- Se derogan las disposiciones de igual o menor grado que se opongan al presente Decreto.
+
+P.O. 14 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CIENTO DOS POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. El Tribunal Superior de Justicia del Estado de Morelos, deberá realizar los ajustes presupuestales necesarios para poder cumplir con las obligaciones a que refiere el presente Decreto en términos de la autonomía financiera del Poder Judicial del Estado de Morelos conforme al artículo 40 fracción V de la Constitución Política del Estado Libre y Soberano de Morelos. Se autoriza al Tribunal Superior de Justicia del Poder Judicial del Estado de Morelos, aplicar en el presente ejercicio fiscal para el cumplimiento del presente Decreto, los recursos que le fueron aprobados en el Presupuesto de Egresos del ejercicio fiscal 2017, comprendido en el anexo 2 bajo el concepto “Aportación Inicial del Fondo para el Haber de retiro de los magistrados del Poder Judicial del Estado”.
+
+Las magistradas y magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, gozarán de los mismos derechos a que se refiere este Decreto.
+
+CUARTA. Tomando en consideración que en el presente Decreto al momento de entrar en vigencia, se reconoce al haber por retiro como un componente de las garantías de estabilidad e inamovilidad que a la vez son componentes de la independencia judicial, que se encuentra normado en las disposiciones contenidas en los artículos del 26 bis al 26 sexies, resultan aplicables a los magistrados y magistradas en activo constituyendo un derecho adquirido, así como las y los que concluyeron el ejercicio de su cargo con posterioridad a la entrada en vigor de la Reforma al artículo 89 de la Constitución Política del Estado Libre y Soberano de Morelos, publicada el 24 de febrero del año 2017.
+
+El haber de retiro a que se refiere este Decreto, no se aplicará a los magistrados y magistradas en retiro que a la fecha tengan decreto de pensión o jubilación otorgada como magistrada o magistrado, por el Congreso del Estado de Morelos.
+
+QUINTA. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
