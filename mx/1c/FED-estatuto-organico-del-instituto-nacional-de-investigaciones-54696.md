@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-investigaciones-546
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-03-23"
-last_updated: "2007-03-23"
+last_updated: "2023-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54696&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2007-02-08"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE INVESTIGACIONES FORESTALES, AGRICOLAS Y PECUARIAS
 
-ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE INVESTIGACIONES FORESTALES, AGRICOLAS Y PECUARIAS
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2023/AGRICULTURA/AcuerdoEstatutoOrganico.pdf.]</small>
 
-TEXTO ORIGINAL.
+ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE INVESTIGACIONES FORESTALES, AGRÍCOLAS Y PECUARIAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2023.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de marzo de 2007.
 
@@ -49,29 +51,39 @@ EL ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE INVESTIGACIONES FORESTALES, AGRIC
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 1.
 
-El Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, es un Organismo Público Descentralizado con personalidad jurídica y patrimonio propios, con autonomía de decisión técnica, operativa y administrativa, en términos de la Ley de Ciencia y Tecnología y de gestión presupuestaria de conformidad con la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuyo objeto es contribuir al desarrollo rural sustentable mejorando la competitividad y manteniendo la base de recursos naturales, mediante un trabajo participativo y corresponsable con otras instituciones y organizaciones públicas y privadas asociadas al campo mexicano, mediante la generación de conocimientos científicos y de la innovación tecnológica agropecuaria y forestal, como respuesta a las demandas y necesidades de las cadenas agroindustriales y de los diferentes tipos de productores.
+El Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, es un Organismo Público Descentralizado con personalidad jurídica y patrimonio propios, con autonomía de decisión técnica, operativa y administrativa, en términos de la Ley de Ciencia y Tecnología y de gestión presupuestaria de conformidad con la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuyo objeto es contribuir al desarrollo rural sustentable mejorando la competitividad y manteniendo la base de recursos naturales, mediante un trabajo participativo y corresponsable con otras instituciones y organizaciones públicas y privadas asociadas al campo mexicano, mediante la generación de conocimientos científicos y de la innovación tecnológica agropecuaria y forestal, como respuesta a las demandas y necesidades de las cadenas agroalimentarias y sistemas forestales de los diferentes tipos de productores.
 
 ###### Artículo 2.
 
 Para los efectos de este ordenamiento se entiende por:
 
-I. Coordinadora de sector, a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+I. Coordinadora de Sector, a la Secretaría de Agricultura y Desarrollo Rural;
 
 II. Decreto, al decreto de creación del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, con sus modificaciones;
 
 III. Instituto, al Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias;
 
-IV. LEFEP, la Ley Federal de las Entidades Paraestatales;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+IV. LFEP, la Ley Federal de las Entidades Paraestatales;
 
 V. Ley, la Ley de Ciencia y Tecnología, y
 
-VI. RLEFEP, al Reglamento de la Ley Federal de las Entidades Paraestatales.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+VI. RLFEP, al Reglamento de la Ley Federal de las Entidades Paraestatales.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
 
 ###### Artículo 3.
 
-Este ordenamiento jurídico contiene las atribuciones y funciones de cada una de las Unidades Administrativas que conforman los primeros niveles de la estructura central y foránea del Instituto, así como las funciones previstas en la Ley, Decreto, de manera supletoria la LEFEP y RLEFEP en términos de lo previsto por el Artículo 53 de la Ley y demás disposiciones aplicables.
+Este ordenamiento jurídico contiene las atribuciones y funciones de cada una de las Unidades Administrativas que conforman los primeros niveles de la estructura central y foránea del Instituto, así como las funciones previstas en la Ley, Decreto, de manera supletoria la LFEP y RLFEP en términos de lo previsto por el Artículo 53 de la Ley y demás disposiciones aplicables.
 
 ### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES DEL INSTITUTO
 
@@ -79,15 +91,23 @@ Este ordenamiento jurídico contiene las atribuciones y funciones de cada una de
 
 Las atribuciones del Instituto son las siguientes:
 
-I. Planear, programar y ejecutar las acciones de investigación científica y desarrollo tecnológico agropecuario, en el marco del Plan Nacional de Desarrollo y de los programas que deriven de éste, así como coordinarse en lo conducente con la Comisión Nacional Forestal en el diseño de políticas y programas de investigación y desarrollo tecnológico forestal que realice el Instituto, a fin de garantizar su congruencia con el Programa Nacional de Investigación y Desarrollo Tecnológico;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-II. Generar conocimientos e innovaciones tecnológicas que contribuyan a la productividad, competitividad, rentabilidad y desarrollo sustentable de las cadenas agroindustriales agrícolas, pecuarias y forestales en las regiones agroecológicas que conforman el país, buscando el aprovechamiento racional y la conservación de los recursos naturales;
+I. Planear, programar y ejecutar las acciones de investigación científica y desarrollo tecnológico agropecuario, en el marco del Plan Nacional de Desarrollo y de los programas que deriven de éste, así como coordinarse en lo conducente con la Comisión Nacional Forestal en el diseño de políticas y programas de investigación y desarrollo tecnológico forestal que realice el Instituto;
 
-III. Desarrollar y promover investigación de vanguardia para contribuir a la solución de los problemas de productividad, competitividad, sustentabilidad y equidad del sector agrícola, pecuario y forestal del país;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+II. Generar conocimientos e innovaciones tecnológicas que contribuyan a la productividad, competitividad, rentabilidad y desarrollo sustentable de las cadenas agroalimentarias y sistemas forestales en las regiones agroecológicas que conforman el país, buscando el aprovechamiento racional y la conservación de los recursos naturales;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+III. Desarrollar y promover investigación de vanguardia para contribuir a la solución de los problemas de productividad, competitividad, sustentabilidad y equidad de los subsectores agrícola, pecuario y forestal del país;
 
 IV. Promover y apoyar la transferencia de conocimientos y tecnologías agrícolas, pecuarias y forestales de acuerdo a las necesidades y demandas prioritarias de la sociedad y de los productores;
 
-V. Suscribir acuerdos, convenios, contratos y cualquier otro instrumento jurídico con el sector público en los niveles federal, estatal o municipal y sector privado de carácter nacional e internacional;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+V. Suscribir acuerdos, convenios, contratos y cualquier otro instrumento jurídico con el sector público federal, estatal o municipal y sector privado de carácter nacional e internacional;
 
 VI. Participar en programas y proyectos de desarrollo agropecuario y forestal, en especial en aquellos que se enfoquen a alcanzar metas sostenibles de suficiencia en la producción para el consumo interno, incremento y competitividad de productos de exportación, uso racional de los recursos naturales renovables y autodeterminación tecnológica;
 
@@ -95,7 +115,9 @@ VII. Participar en las bases para la coordinación y concertación de acciones c
 
 VIII. Establecer la congruencia entre los programas del Instituto o en los que éste celebre convenios específicos, relacionados con la generación, validación, transferencia de tecnología y asignación de los recursos públicos y privados necesarios para su ejecución;
 
-IX. Participar, por sí o a instancias de la Coordinadora Sectorial, en la realización de los análisis sociales y económicos que permitan definir las estrategias de la investigación agrícola, pecuaria y forestal, a efecto de considerarlas en el marco de la política y del programa nacional de investigación agropecuaria y forestal del país;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+IX. Participar, por sí o a instancias de la Coordinadora Sectorial, en la realización de los análisis sociales y económicos que permitan definir las estrategias de la investigación agrícola, pecuaria y forestal, a efecto de considerarlas en el marco de la política nacional;
 
 X. Identificar, documentar y mejorar las tecnologías tradicionales y modernas existentes, para su aplicación en el entorno socioeconómico y ecológico de los productores;
 
@@ -103,7 +125,9 @@ XI. Divulgar los resultados de las investigaciones científicas y trabajos que r
 
 XII. Proporcionar capacitación y otorgar becas para estudios de especialización y postgrado a su personal en las áreas de competencia de la entidad, a través de los convenios que se suscriban al efecto con instituciones educativas nacionales o extranjeras y de conformidad con los lineamientos que al efecto expida la Junta de Gobierno;
 
-XIII. En el marco del Sistema Nacional de Investigación y Transferencia Tecnológica, establecer la coordinación con las instituciones y organizaciones científicas, nacionales e internacionales, relacionadas con la agricultura, la ganadería, la silvicultura y el desarrollo rural;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XIII. Establecer la coordinación con las instituciones y organizaciones científicas, nacionales e internacionales, relacionadas con la agricultura, la ganadería, la silvicultura y el desarrollo rural;
 
 XIV. Intercambiar información técnica, materiales de investigación y especialistas con organismos nacionales e internacionales, sobre la base de instrumentos jurídicos que al efecto se suscriban;
 
@@ -111,7 +135,9 @@ XV. Establecer la coordinación con los organismos responsables de la normalizac
 
 XVI. Auxiliar a los productores, a solicitud de éstos, en el establecimiento de fundaciones o de otras modalidades de asociación, que les permitan promover la generación, apropiación, validación y transferencia de tecnología agropecuaria y forestal;
 
-XVII. Proteger en los términos previstos en la Ley Federal de Variedades Vegetales, Ley del Derecho de Autor y Ley de la Propiedad Industrial, los conocimientos, métodos, prototipos y la tecnología generada en el Instituto, así como aprovecharla, explotarla o transmitirla de conformidad con las disposiciones jurídicas señaladas;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XVII. Proteger en los términos previstos en la Ley Federal de Variedades Vegetales, Ley Federal del Derecho de Autor y Ley Federal de Protección a la Propiedad Industrial, los conocimientos, métodos, prototipos y la tecnología generada en el Instituto, así como aprovecharla, explotarla o transmitirla de conformidad con las disposiciones jurídicas señaladas;
 
 XVIII. Prestar servicios que tengan relación con sus atribuciones, así como la comercialización de sus productos, a través de la suscripción de los instrumentos legales que corresponda, y
 
@@ -119,9 +145,11 @@ XIX. Las demás actividades relacionadas con la investigación básica o aplicad
 
 Quedan exceptuadas de lo dispuesto por este artículo, salvo convenio expreso con la Secretaría de Medio Ambiente y Recursos Naturales, las atribuciones relacionadas con la investigación en materia de recursos forestales que constituyan especies y poblaciones en riesgo y prioritarias para la conservación, referidas en los Artículos 1o., segundo párrafo, 56 y 58 de la Ley General de Vida Silvestre, así como aquellas cuya importación, exportación y tránsito por el territorio nacional estén regulados por la Ley General del Equilibrio Ecológico y la Protección al Ambiente y las convenciones internacionales de las que México sea parte.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 5.
 
-Las atribuciones del Artículo anterior son sin perjuicio de las que le confiere la Ley, Decreto, de manera supletoria la LEFEP y RLEFEP en términos de lo previsto por el Artículo 53 de la Ley.
+Las atribuciones del Artículo anterior son sin perjuicio de las que le confiere la Ley, el Decreto, de manera supletoria la LFEP y RLFEP en términos de lo previsto por el Artículo 53 de la Ley.
 
 ### CAPITULO TERCERO. DE LOS ORGANOS Y ESTRUCTURA ADMINISTRATIVA
 
@@ -141,15 +169,23 @@ b. Planeación y Desarrollo, y
 
 c. Administración y Sistemas.
 
-IV. Direcciones Generales Adjuntas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 14 DE JULIO DE 2023)</small>
 
-a. Unidad Jurídica, y
+IV. Direcciones:
 
-b. Organo Interno de Control.
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
 
-V. Dirección:
+a. Unidad Jurídica,
 
-a. Unidad de Apoyo Técnico.
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
+b. Órgano Interno de Control, y
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
+c. Unidad de Apoyo Técnico.
+
+V. (DEROGADA, D.O.F. 14 DE JULIO DE 2023)
 
 VI. Direcciones de área Foráneas:
 
@@ -157,9 +193,13 @@ a. Centros de Investigación Regional;
 
 b. Centros Nacionales de Investigación Disciplinaria;
 
-c. De Investigación;
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
 
-d. De Planeación y Desarrollo;
+c. Centro Nacional de Recursos Genéticos;
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
+d. De Investigación;
 
 e. De Administración, y
 
@@ -177,9 +217,11 @@ Las relaciones laborales del Instituto con sus empleados se regirán por lo disp
 
 La Junta de Gobierno se integrará en los términos previstos en su decreto de creación.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 9.
 
-La Junta de Gobierno del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, tendrá las facultades indelegables que le confieren los Artículos 56 de la Ley, Decreto, de manera supletoria el 58 de la LEFEP en términos de lo previsto por el Artículo 53 de la Ley.
+La Junta de Gobierno del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, tendrá las facultades indelegables que le confieren los Artículos 56 de la Ley; 4, del Decreto, y de manera supletoria el Artículo 58, de la LFEP, en términos de lo previsto por el Artículo 53 de la Ley.
 
 ###### Artículo 10.
 
@@ -193,7 +235,9 @@ a. Elaborar el calendario de reuniones de la Junta de Gobierno y someterlo a su 
 
 b. Formular con la debida anticipación, el orden del día de las reuniones de la Junta de Gobierno, tomando en cuenta los asuntos que a propuesta de sus miembros, del Director General y del Comisario Público, se deban incluir en la misma;
 
-c. Por instrucciones del presidente de la Junta de Gobierno o del titular de la entidad, remitir a todos los miembros de la Junta de Gobierno, la convocatoria acompañada del orden del día y de la documentación correspondiente, asegurándose de que su recepción se efectúe cuando menos cinco días hábiles antes de la celebración de la reunión correspondiente;
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
+c. Por instrucciones del Presidente de la Junta de Gobierno o del titular de la entidad, remitir a todos los miembros de la Junta de Gobierno, la convocatoria acompañada del Orden del Día y de la documentación correspondiente, y asegurar que su recepción se efectúe en los términos previstos en el Artículo 12 del presente Estatuto;
 
 d. Llevar la lista de asistencia y verificar que exista quórum de las reuniones ordinarias y extraordinarias, así como el registro de todos los miembros con los datos necesarios para informar a la Junta de Gobierno;
 
@@ -229,7 +273,9 @@ A las reuniones de la Junta de Gobierno podrán asistir, como invitados con voz 
 
 Asistirán también a las sesiones de la Junta de Gobierno, con voz pero sin voto, el Director General del Instituto, el Secretario Técnico, el Prosecretario y el Comisario Público.
 
-Lo no previsto en el presente Artículo, será resuelto de conformidad con lo dispuesto en la Ley, Decreto, de manera supletoria la LEFEP y RLEFEP en términos de lo previsto por el Artículo 53 de la Ley, así como los Lineamientos para su funcionamiento que autorice la Junta de Gobierno.
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
+Lo no previsto en el presente Artículo, será resuelto de conformidad con lo dispuesto en la Ley, el Decreto, y de manera supletoria la LFEP y RLFEP en términos de lo previsto por el Artículo 53 de la Ley, así como los Lineamientos para su funcionamiento que autorice la Junta de Gobierno.
 
 ###### Artículo 12.
 
@@ -251,9 +297,11 @@ Las sesiones de la Junta de Gobierno y los acuerdos tomados en ella, serán asen
 
 ### CAPITULO QUINTO. DEL DIRECTOR GENERAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 13.
 
-El Director General del Instituto, sin perjuicio de las facultades y obligaciones previstas de manera supletoria en los Artículos 22 y 59 de la LEFEP en términos de lo previsto por el Artículo 53 de la Ley y demás disposiciones jurídicas y administrativas aplicables, estará facultado expresamente para:
+El Director General del Instituto, sin perjuicio de las facultades y obligaciones previstas de manera supletoria en los Artículos 22 y 59 de la LFEP en términos de lo previsto por el Artículo 53 de la Ley y demás disposiciones jurídicas y administrativas aplicables, estará facultado expresamente para:
 
 I. Cumplir y hacer cumplir el Decreto, el Estatuto Orgánico, la normatividad interna y acuerdos aprobados por la Junta de Gobierno;
 
@@ -261,11 +309,17 @@ II. Presentar a la Junta de Gobierno para su aprobación y trámite correspondie
 
 III. Proponer a la Junta de Gobierno los procedimientos de planeación y evaluación de las actividades que realiza el Instituto y presentarle la autoevaluación de resultados sustantivos, administrativos y financieros;
 
-IV. Elaborar y presentar a la Junta de Gobierno los criterios, políticas y aspectos a destacar en las estrategias de promoción corporativa y regional;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-V. Elaborar y presentar a la Junta de Gobierno las políticas de vinculación corporativa y regional que aseguren que la vinculación institucional potencia los beneficios y resultados del Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable;
+IV. Presentar a la Junta de Gobierno los criterios, políticas y aspectos a destacar en las estrategias de promoción corporativa y regional;
 
-VI. Elaborar y presentar a la Junta de Gobierno las políticas de vinculación externa que permitan asegurar la congruencia de los planes y programas internos con la solución a las demandas y expectativas de los usuarios y beneficiarios del Instituto;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+V. Presentar a la Junta de Gobierno las políticas de vinculación corporativa y regional que aseguren que la vinculación institucional potencia los beneficios para el Desarrollo Rural Sustentable;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+VI. Presentar a la Junta de Gobierno las políticas de vinculación externa que permitan asegurar la congruencia de los planes y programas internos con la solución a las demandas y expectativas de los usuarios y beneficiarios del Instituto;
 
 VII. Presentar a la Junta de Gobierno la propuesta de convenio de administración por resultados y, una vez aprobado, informar periódicamente de los resultados alcanzados por la institución;
 
@@ -277,9 +331,13 @@ X. Proporcionar la información financiera y administrativa que soliciten el Com
 
 XI. Proponer a la Junta de Gobierno, la estructura orgánica de las unidades administrativas del Instituto, para el mejor desempeño de las funciones;
 
-XII. Ejercer el presupuesto del Instituto con sujeción a las disposiciones legales, reglamentarias y administrativas aplicables;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-XIII. De acuerdo con los procedimientos vigentes, emitir los nombramientos del personal investigador, técnico, administrativo y de confianza del Instituto;
+XII. Ejercer el presupuesto del Instituto y determinar los temas de prioridad nacional de los subsectores agrícola, pecuario y forestal, con sujeción a las disposiciones legales, reglamentarias y administrativas aplicables;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XIII. Emitir los nombramientos del personal investigador, técnico, administrativo y de confianza del Instituto;
 
 XIV. Expedir los nombramientos, contratos y remociones de los servidores públicos que se requieran para que el Instituto cumpla con su objeto y cuya designación no sea competencia de la Junta de Gobierno;
 
@@ -301,15 +359,21 @@ El Director General contará con una Unidad de Apoyo Técnico para la atención 
 
 ### CAPITULO SEXTO. DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 15.
 
-Los Coordinadores, Directores Generales Adjuntos, Unidad de Apoyo Técnico, Directores de Centro de Investigación Regional y Directores de Centro Nacional de Investigación Disciplinaria, para el efecto de cumplir y desarrollar su función tendrán en lo que corresponda las siguientes atribuciones genéricas:
+Los Coordinadores, Unidad Jurídica, Órgano Interno de Control, Unidad de Apoyo Técnico, Directores de Centro de Investigación Regional, Directores de Centro Nacional de Investigación Disciplinaria y el Centro Nacional de Recursos Genéticos, para el efecto de cumplir y desarrollar su función tendrán en lo que corresponda las siguientes atribuciones genéricas:
 
 I. Asistir a las reuniones de la Junta de Gobierno, con voz pero sin voto, a indicación del Director General;
 
-II. Asistir a las reuniones del Comité de Control de Auditoría, con voz pero sin voto, a indicación del Director General;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-III. Solicitar la incorporación de asuntos de su competencia, en el orden del día de la Junta de Gobierno y del Comité de Control de Auditoría;
+II. Asistir a las reuniones del Comité de Control y Desempeño Institucional, a indicación del Director General;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+III. Solicitar la incorporación de asuntos de su competencia, en el Orden del Día de la Junta de Gobierno y del Comité de Control y Desempeño Institucional;
 
 IV. Plantear políticas y criterios, así como coordinar y recopilar las opiniones y sugerencias que realice el personal a su cargo, relacionados con el área de su competencia para coadyuvar a la mejor realización de la misión y objetivos del Instituto;
 
@@ -331,7 +395,9 @@ XII. Todas aquellas necesarias y relativas al debido cumplimiento de la misión 
 
 XIII. Las demás que le asignen el Director General, las normas y disposiciones aplicables.
 
-Los titulares de las Coordinaciones de las Direcciones Generales Adjuntas, Unidad de Apoyo Técnico, de los Centros de Investigación Regional y de los Centros Nacionales de Investigación Disciplinaria, acordarán con el Director General el despacho de los asuntos de su competencia.
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
+Los titulares de las Coordinaciones, Unidad Jurídica, Órgano Interno de Control, Unidad de Apoyo Técnico, de los Centros de Investigación Regional, de los Centros Nacionales de Investigación Disciplinaria y el Centro Nacional de Recursos Genéticos, acordarán con el Director General, el despacho de los asuntos de su competencia.
 
 ###### Artículo 16.
 
@@ -341,15 +407,21 @@ I. Elaborar los planes a corto, mediano y largo plazo de la Coordinación a su c
 
 II. Elaborar los programas operativos y presupuestales de la Coordinación a su cargo;
 
-III. Consolidar el Programa Nacional de Investigación y Transferencia de Tecnología del Instituto en congruencia con el Plan Nacional de Desarrollo, los programas específicos que establezca la Coordinadora Sectorial, la estrategia del Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable (SNITT) y el Plan Estratégico Institucional;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+III. Consolidar la Agenda Nacional de Investigación del Instituto en congruencia con el Plan Nacional de Desarrollo, los programas específicos que establezca la Coordinadora Sectorial y el Programa Institucional de INIFAP;
 
 IV. Coordinar los mecanismos de control, seguimiento y evaluación de los programas y proyectos de investigación, validación y de apoyo a la transferencia de tecnología para asegurar su pertinencia, relevancia y calidad;
 
-V. Promover una investigación de vanguardia enfocada a generar información para la superación de los grandes desafíos nacionales y a incrementar la productividad, competitividad, sustentabilidad y/o equidad de los sectores forestal, agrícola y pecuario;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+V. Promover una investigación de vanguardia enfocada a generar información para la superación de los grandes desafíos nacionales y a incrementar la productividad, competitividad, sustentabilidad y equidad de los subsectores forestal, agrícola y pecuario;
 
 VI. Coordinar a las unidades administrativas del Instituto para que apliquen los Indicadores de Evaluación de las actividades sustantivas del Instituto para fortalecer el desarrollo rural sustentable del país con base en la adecuada ejecución de los programas y proyectos de investigación, validación y apoyos a la transferencia de tecnología;
 
-VII. Coordinar la instrumentación de mecanismos para la promoción y venta de productos y servicios institucionales;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+VII. Coordinar la instrumentación de mecanismos para la promoción y comercialización de productos y servicios del Instituto;
 
 VIII. Coordinar la instrumentación transversal de los mecanismos de transferencia de conocimientos y tecnología;
 
@@ -357,11 +429,15 @@ IX. Coordinar los mecanismos para la divulgación de los resultados de las inves
 
 X. Elaborar y coordinar la estrategia de posicionamiento institucional;
 
-XI. Coordinar la instrumentación de las políticas y procesos de seguimiento de las operaciones institucionales de las áreas sustantivas;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XI. Coordinar la instrumentación de las políticas y procesos de seguimiento de las operaciones de las áreas sustantivas;
 
 XII. Promover la concurrencia de aportaciones de recursos públicos y privados, nacionales e internacionales para la ejecución de proyectos de investigación, validación y transferencia de tecnología;
 
-XIII. Coordinar y apoyar conforme a las estrategias institucionales la identificación de la demanda, de los diferentes eslabones de las cadenas productivas de las necesidades de investigación que puedan ser atendidos por la Institución;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XIII. Coordinar y apoyar conforme a las estrategias institucionales la identificación de la demanda de investigación de las cadenas agroalimentarias y sistemas forestales que puedan ser atendidos por la Institución;
 
 XIV. Coordinar, con la intervención que en su caso corresponda a la Coordinación de Planeación y Desarrollo, las acciones de la cooperación científica y tecnológica con instituciones y organismos nacionales e internacionales que pacte la institución;
 
@@ -371,55 +447,91 @@ XVI. Proponer el intercambio de información técnica, materiales de investigaci
 
 XVII. Participar en la planeación para la concertación de acciones con instituciones públicas y privadas que realicen investigación y transferencia de tecnología afines al Instituto;
 
-XVIII. Establecer y coordinar grupos interdisciplinarios, por cadena productiva y/o por disciplina, para fortalecer la planeación, programación y evaluación de los proyectos que contribuyen al desarrollo sustentable de las mismas;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XVIII. Establecer y coordinar grupos interdisciplinarios, por cadena (sic) agroalimentarias y sistemas forestales, por disciplina, para fortalecer la planeación, programación y evaluación de los proyectos que contribuyen al desarrollo sustentable de las mismas;
 
 XIX. Coordinar los mecanismos que permitan al Instituto verificar que los productos y servicios que se ofrecen cumplan los estándares de calidad y satisfagan las necesidades de quienes los requieren;
 
-XX. Coordinar los mecanismos para la vinculación institucional con actores relacionados con el sector productivo;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XX. Coordinar los mecanismos para la vinculación institucional con actores relacionados con las cadenas agroalimentarias y sistemas forestales;
 
 XXI. Participar en los procesos de protección intelectual y licenciamiento de los productos que genera la Institución;
 
 XXII. Participar en la elaboración y aprobación del convenio de administración por resultados que suscriba el Instituto y establecer los mecanismos para el cumplimiento de los compromisos que correspondan al ámbito de competencia de la Coordinación, y
 
-XXIII. Las demás que le asigne el Director General y las que señalen las leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables, en forma directa o por homologación de puesto.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XXIII. Las demás que le asigne el superior jerárquico inmediato y las que se establezcan en las disposiciones legales aplicables.
 
 ###### Artículo 17.
 
 La Coordinación de Planeación y Desarrollo, estará a cargo de un Coordinador que tendrá las atribuciones siguientes:
 
-I. Diseñar los planes a corto, mediano y largo plazo de la Coordinación a su cargo;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-II. Elaborar los programas operativos y presupuestales de la Coordinación a su cargo;
+I. Dirigir la elaboración de los planes a corto, mediano y largo plazo de la Coordinación a su cargo;
 
-III. Diseñar y coordinar la elaboración del Programa Anual de Actividades del Instituto, en alineación con el Plan Estratégico Institucional, tomando en cuenta los programas y propuestas de las diferentes unidades administrativas del Instituto;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-IV. Diseñar y coordinar mediante la identificación de requerimientos de habilidades y competencias, el programa para la capacitación y el desarrollo del personal investigador, vinculado con el mandato institucional;
+II. Coordinar la elaboración y actualización del Programa Institucional del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias;
 
-V. Plantear y definir con base en el Plan Estratégico del Instituto, las políticas y lineamientos para la suscripción de acuerdos, convenios o cualquier otro instrumento jurídico aplicable, relacionados con el mandato u objetivos institucionales;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-VI. Coordinar la elaboración y actualización del Plan Estratégico Institucional de mediano y largo plazo, asegurando promover investigaciones en temas de interés nacional y mundial alineados a necesidades futuras del sector y de la sociedad;
+III. Coordinar la elaboración del Programa Anual de Trabajo y Programas presupuestales de la Coordinación a su cargo;
 
-VII. Diseñar, integrar y dar seguimiento a los indicadores institucionales acordes al mandato del Instituto;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-VIII. Diseñar y coordinar la instrumentación y actualización del Sistema de evaluación integral del personal investigador;
+IV. Coordinar la elaboración del Programa Anual de Actividades Estratégicas del Instituto, en alineación con el Programa Institucional del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias;
 
-IX. Diseñar y establecer estrategias para el uso eficiente de los recursos institucionales asegurando su alineación con el mandato;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-X. Diseñar los indicadores de evaluación de los resultados de investigación, validación y transferencia de tecnología, con base en impactos y beneficios que fortalezcan el desarrollo rural sustentable del país;
+V. Coordinar, mediante la identificación de requerimientos de habilidades y competencias, el Programa para la Capacitación y Desarrollo del Personal Investigador, vinculado con el Mandato Institucional;
 
-XI. Diseñar los mecanismos para la vinculación del Instituto con las organizaciones de productores y el sector agroindustrial, para que sus demandas puedan ser atendidas a través de la tecnología que genera el Instituto y permitan incrementar la diversificación de financiamiento de proyectos;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-XII. Coordinar la planeación, tomando en consideración las propuestas que formule la Coordinación de Investigación, Innovación y Vinculación, de la cooperación científica y tecnológica con instituciones y organismos públicos y privados de ámbito nacional e internacional, relacionados con el mandato y misión institucional, así como proponer la suscripción de acuerdos para la cooperación;
+VI. Plantear y definir, con base en el Programa Institucional del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, las políticas y lineamientos para la suscripción de acuerdos, convenios o cualquier otro instrumento jurídico aplicable, relacionados con el Mandato u Objetivos institucionales;
 
-XIII. Establecer los mecanismos de vinculación para la coordinación con el Sistema Nacional de Investigación y Transferencia de Tecnología (SNITT) y otras instituciones de investigación;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-XIV. Diseñar los procesos y mecanismos de articulación entre las diferentes unidades administrativas del Instituto, para garantizar el adecuado desarrollo de los programas y proyectos de investigación, validación y apoyos a la transferencia de tecnología:
+VII. Coordinar el diseño de los indicadores de evaluación de los resultados de investigación, validación y transferencia de tecnología, con base en impactos y beneficios que fortalezcan el desarrollo rural sustentable del país;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+VIII. Coordinar la instrumentación y actualización del Sistema de Evaluación Integral del Personal Investigador;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+IX. Establecer estrategias para el uso eficiente de los recursos institucionales, asegurando su alineación con el Mandato;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+X. Integrar y dar seguimiento de los indicadores institucionales acordes al Mandato del Instituto;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XI. Dirigir la elaboración de los mecanismos para la vinculación del Instituto con las organizaciones de productores y el sector agroindustrial, para que sus demandas puedan ser atendidas a través de la tecnología que genera el Instituto y permitan incrementar la diversificación del financiamiento de proyectos;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XII. Coordinar la planeación de la cooperación científica y tecnológica con instituciones y organismos públicos y privados de ámbito nacional e internacional, relacionados con el Mandato, Misión y Visión institucional, así como proponer la suscripción de acuerdos para la cooperación;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XIII. Establecer los mecanismos de vinculación para la coordinación con otras instituciones de investigación;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XIV. Coordinar el diseño de los procesos y mecanismos de articulación entre las diferentes Unidades Administrativas del Instituto, para garantizar el adecuado desarrollo de los programas y proyectos de investigación, validación y apoyos a la transferencia de tecnología;
 
 XV. Promover la concurrencia de aportaciones de recursos públicos y privados, nacionales e internacionales para la formación de personal investigador;
 
 XVI. Coordinar la elaboración, aprobación e instrumentación del convenio de administración por resultados que suscriba el Instituto y establecer los mecanismos de interrelación entre las diversas unidades administrativas para el cumplimiento de los compromisos institucionales, y
 
-XVII. Las demás que le asigne el Director General y las que señalen las leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables, en forma directa o por homologación de puesto.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XVII. Las demás que le asigne el superior jerárquico inmediato y las que se establezcan en las disposiciones legales aplicables.
 
 ###### Artículo 18.
 
@@ -427,11 +539,17 @@ La Coordinación de Administración y Sistemas, estará a cargo de un Coordinado
 
 I. Coordinar y conducir la política de administración de los recursos humanos, materiales, financieros y sistemas en el Instituto con base en las disposiciones normativas y reglamentarias aplicables;
 
-II. Coadyuvar en el establecimiento de mecanismos de control interno que permitan vigilar que las Unidades Administrativas del Instituto den cumplimiento a las disposiciones administrativas aplicables;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-III. Analizar y proponer modificaciones que correspondan a la estructura orgánica y ocupacional del Instituto, autorizar de conformidad con la normatividad aplicable el dictamen de los cambios aprobados y gestionar su registro;
+II. Colaborar en el establecimiento de mecanismos de control interno que permitan vigilar que las Unidades Administrativas del Instituto den cumplimiento a las disposiciones administrativas aplicables;
 
-IV. Analizar y proponer modificaciones al Estatuto Orgánico, manuales de organización, de procedimientos y demás disposiciones reglamentarias que sean necesarias para la mejor organización del Instituto;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+III. Acordar, aprobar y promover modificaciones que correspondan a la estructura orgánica y ocupacional del Instituto, autorizar de conformidad con la normatividad aplicable el dictamen de los cambios aprobados y gestionar su registro;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+IV. Argumentar y planificar modificaciones al Estatuto Orgánico, manuales de organización, de procedimientos y demás disposiciones reglamentarias que sean necesarias para la mejor organización del Instituto;
 
 V. Evaluar de conformidad con los criterios aprobados por el Director General o de la Junta de Gobierno los procesos y/o sistemas aprobados para las Unidades administrativas del Instituto en el ámbito de sus responsabilidades para el cumplimiento de los objetivos Institucionales;
 
@@ -447,13 +565,19 @@ X. Promover el establecimiento de prácticas administrativas que contribuyan a s
 
 XI. Conducir el manejo de las relaciones laborales y el programa de protección civil del Instituto de conformidad con las políticas que señalen las autoridades competentes;
 
-XII. Diseñar y proponer programas de selección, capacitación y desarrollo del personal para fomentar y motivar entre los trabajadores su autodesarrollo, competitividad, y compromisos con el mandato y objetivos del Instituto, y
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-XIII. Las demás que le asigne el Director General y las que señalen las leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables, en forma directa o por homologación de puesto.
+XII. Aprobar programas de selección, capacitación y desarrollo del personal para fomentar y motivar entre los trabajadores su autodesarrollo, competitividad y compromisos con el Mandato y Objetivos institucionales;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XIII. Las demás que le asigne el superior jerárquico inmediato y las que se establezcan en las disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2023)</small>
 
 ###### Artículo 19.
 
-La Unidad Jurídica, estará a cargo de un titular con nivel de Director General Adjunto que tendrá las atribuciones siguientes:
+La Unidad Jurídica, estará a cargo de un Director que tendrá las atribuciones siguientes:
 
 I. Atender, dirigir y coordinar los asuntos jurídicos del Instituto;
 
@@ -479,7 +603,9 @@ XI. Participar, con el carácter de asesor, en los procedimientos de licitación
 
 XII. Ejercitar las acciones legales conducentes para llevar a cabo la protección jurídica que corresponda respecto de los bienes inmuebles que tenga el Instituto en propiedad, administración o destino, a petición del responsable de inmuebles del Instituto;
 
-XIII. Elaborar informes previos y con justificación que en materia de amparo deba rendir el Director General, así como los relativos a los demás servidores públicos que sean señalados como autoridades responsables e intervenir como tercero perjudicado cuando se requiera, además de formular y presentar todas las promociones que a dichos juicios se refieran;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XIII. Elaborar informes previos y con justificación que en materia de amparo deba rendir el Director General, así como los relativos a los demás servidores públicos que sean señalados como autoridades responsables e intervenir como tercero interesado cuando se requiera, además de formular y presentar todas las promociones que a dichos juicios se refieran;
 
 XIV. Conocer, sustanciar, evaluar y dictaminar las actas administrativas, procedimientos y recursos administrativos que procedan a las bajas o sanciones al personal de base o de confianza del Instituto, por las causas establecidas en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones jurídicas aplicables en materia laboral;
 
@@ -493,35 +619,25 @@ XVIII. Llevar el control de los poderes que otorgue el Director General, en tér
 
 XIX. Coadyuvar con la Coordinación de Administración y Sistemas en la atención de las relaciones jurídico-laborales del Instituto;
 
-XX. Formular y presentar demandas así como intervenir en los juicios que se tramiten ante el Tribunal Federal de Justicia Fiscal y Administrativa, así como interponer los recursos que procedan en contra de las resoluciones que emita dicho Tribunal en perjuicio de los intereses del Instituto;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XX. Formular y presentar demandas así como intervenir en los juicios que se tramiten ante el Tribunal Federal de Justicia Administrativa, así como interponer los recursos que procedan en contra de las resoluciones que emita dicho Tribunal en perjuicio de los intereses del Instituto;
 
 XXI. Formular y presentar denuncias o querellas ante el Ministerio Público competente, de los hechos delictuosos por los que se afecte al Instituto; otorgar el perdón legal cuando proceda, así como denunciar o querellarse ante el Ministerio Público de la Federación de los hechos que puedan constituir delitos de los servidores públicos del Instituto en el desempeño de sus funciones, allegándose los elementos probatorios del caso y dando la intervención que corresponda a la Secretaría de la Función Pública;
 
 XXII. Emitir opinión sobre las disposiciones que deban ser publicadas en el Diario Oficial de la Federación y, en su caso, una vez satisfechos los requisitos legales correspondientes tramitar su publicación, y
 
-XXIII. Las demás que señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XXIII. Las demás que le asigne el superior jerárquico inmediato y las que se establezcan en las disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
 
 ###### Artículo 20.
 
-El Organo Interno de Control estará a cargo de un titular con el nivel de Director General Adjunto, designado en los términos del Artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de Auditoría Interna, Area de Control, Evaluación y Apoyo al Buen Gobierno, Responsabilidades y Quejas designados en los mismos términos, que tendrá además de las facultades prescritas en el Reglamento Interior de la Secretaría de la Función Pública las atribuciones siguientes:
+El Órgano Interno de Control estará a cargo de un titular con nivel de Director de Área designado en los términos del Artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal quien, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de Auditoría Interna, de Desarrollo y Mejora de la Gestión Pública, del Área de Responsabilidades y del Área de Quejas, Denuncias e Investigaciones.
 
-I. Recibir quejas y denuncias;
-
-II. Imponer sanciones;
-
-III. Realizar la defensa jurídica de las resoluciones;
-
-IV. Implementar el Sistema Integral de Control Gubernamental y coadyuvar con el Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias a su debido funcionamiento;
-
-V. Vigilar el cumplimiento de las normas de control interno;
-
-VI. Programar y realizar las auditorías, inspecciones o visitas;
-
-VII. Brindar la asesoría que se le requiera en el ámbito de su competencia;
-
-VIII. Solicitar a las unidades administrativas del Instituto la información necesaria para cumplir con sus atribuciones, y
-
-IX. Todas las demás que establecen la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y el Reglamento Interior de la Secretaría de la Función Pública.
+El Titular del Órgano Interno de Control ejercerá en el INIFAP las atribuciones que tiene establecidas en el Reglamento Interior de la Secretaría de la Función Pública, y en las siguientes leyes: Ley General de Responsabilidades Administrativas, Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, Ley de Obras Públicas y Servicios Relacionados con las Mismas, Ley Federal de las Entidades Paraestatales, Ley Orgánica de la Administración Pública Federal, Ley Federal de Austeridad Republicana, entre otras; así como en las disposiciones normativas de carácter administrativo que le den competencia.
 
 ###### Artículo 21.
 
@@ -529,11 +645,17 @@ La Unidad de Apoyo Técnico estará a cargo de un Director que tendrá las atrib
 
 I. Asesorar a la Dirección General en la dirección del proceso de planeación estratégica del Instituto y verificar su instrumentación;
 
-II. Revisar, analizar e integrar información que le permita al Director General, asegurar el alineamiento del Plan Estratégico con la estrategia del Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable (SNITT);
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-III. Desarrollar y proponer al Director General la estrategia de gestión y asegurar el cumplimiento de las acciones aprobadas que le resulten inherentes;
+II. Supervisar y asegurar la integración de la información que le permita al Director General, asegurar el alineamiento del Programa Institucional del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias;
 
-IV. Analizar e integrar información orientada a asegurar el enlace de las estrategias y políticas establecidas por la Dirección General con las estrategias regionales;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+III. Proponer al Director General la estrategia de gestión y asegurar el cumplimiento de las acciones aprobadas que le resulten inherentes;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+IV. Coordinar la integración de la información orientada a asegurar el enlace de las estrategias y políticas establecidas por la Dirección General con las estrategias regionales;
 
 V. Participar en la formulación de políticas que aseguren la vinculación entre las diversas áreas del Instituto con los programas y proyectos;
 
@@ -543,7 +665,9 @@ VII. Asesorar al Director General en el establecimiento de mecanismos de evaluac
 
 VIII. Asesorar al Director General sobre diversos asuntos para apoyo en la toma de decisiones, y
 
-IX. Las demás que le asigne el Director General.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+IX. Las demás que le asigne el superior jerárquico inmediato y las que se establezcan en las disposiciones legales aplicables.
 
 ### CAPITULO SEPTIMO. DE LAS UNIDADES ADMINISTRATIVAS FORANEAS
 
@@ -551,149 +675,269 @@ IX. Las demás que le asigne el Director General.
 
 La Dirección del Centro de Investigación Regional, estará a cargo de un Director Regional que tendrá las atribuciones siguientes:
 
-I. Dirigir y establecer el proceso de planeación estratégica del Centro y asegurar su alineación con el Plan Estratégico Institucional;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-II. Elaborar e Implementar el programa de investigación, validación y transferencia de tecnología de corto y mediano plazo del Centro;
+I. Dirigir y establecer el proceso de planeación estratégica del Centro y asegurar su alineación con el Programa Institucional, Programa de Desarrollo y la Agenda Nacional de Investigación;
 
-III. Elaborar, gestionar la aprobación e instrumentación del Programa Anual de Actividades del Centro, alineado a los Planes Estratégicos Institucionales;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-IV. Implementar mecanismos que permitan obtener recursos públicos y privados de fuentes externas para el cumplimiento de los objetivos institucionales;
+II. Elaborar e implementar el Programa de Desarrollo del Centro;
 
-V. Implementar estrategias de vinculación para el cumplimiento del mandato y objetivos institucionales;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-VI. Promover y dar seguimiento a los instrumentos jurídicos de su competencia y/o aquellos cuya ejecución tenga efectos en el ámbito del Centro;
+IIII. Elaborar e instrumentar el Programa Anual de Actividades Estratégicas alineado al Programa Institucional;
 
-VII. Supervisar y coordinar el cumplimiento de los compromisos que establezcan las Unidades Administrativas del Centro;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-VIII. Implementar las políticas institucionales para determinar la pertinencia, impacto y calidad de los proyectos de investigación en el Centro;
+IV. Implementar mecanismos que permitan obtener recursos públicos y privados de fuentes externas para el cumplimiento de la Misión, Visión y los Objetivos institucionales;
 
-IX. Planear estrategias de Investigación para la generación de conocimientos y tecnología que atienda los problemas de productividad, competitividad y sustentabilidad del sector agrícola, pecuario y forestal de la Región;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-X. Implementar, dar seguimiento y asegurar el cumplimiento de los lineamientos que regulan los procesos productivos, líneas de investigación, estándares de calidad, utilización de nuevas tecnologías y materiales, procesos de producción de bienes y servicios en el Centro;
+V. Implementar estrategias de vinculación para el cumplimiento del Mandato y Objetivos institucionales;
 
-XI. Asegurar el cumplimiento de los lineamientos para el establecimiento y operación de las Redes Nacionales de Investigación;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-XII. Implementar la interacción con los Centros Nacionales de Investigación Disciplinaria y los otros Centros de Investigación Regional para cumplir con las estrategias institucionales en la realización de proyectos de investigación, validación y transferencia de tecnología, así como para la colaboración de otras actividades propias de la Institución;
+VI. Promover, elaborar y dar seguimiento técnico administrativo de los instrumentos jurídicos que celebre el Instituto, de conformidad con la normatividad aplicable;
 
-XIII. Implementar las estrategias de promoción y/o venta de productos y servicios, así como de posicionamiento institucional;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-XIV. Establecer y coordinar los Grupos Colegiados para fortalecer la planeación y evaluación de los proyectos, y la operación del Centro;
+VII. Supervisar y coordinar el cumplimiento de los compromisos administrativos;
 
-XV. Instrumentar y dar seguimiento al Programa Nacional de Capacitación en el ámbito del Centro;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+VIII. Implementar las políticas institucionales para determinar la pertinencia, impacto y calidad de los proyectos de investigación del Centro;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+IX. Planear y dirigir la investigación para la generación de conocimientos y tecnologías que atiendan los problemas de productividad, competitividad y sustentabilidad de los subsectores agrícola, pecuario y forestal de la Región;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+X. Implementar y asegurar el cumplimiento de los lineamientos que regulan los procesos productivos, líneas de investigación, estándares de calidad, utilización de nuevas tecnologías y materiales, procesos de producción de bienes y servicios del Centro;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XI. Asegurar el cumplimiento de los lineamientos para el establecimiento y operación de la investigación;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XII. Implementar la interacción con los Centros Nacionales de Investigación Disciplinaria, el Centro Nacional de Recursos Genéticos y los otros Centros de Investigación Regional para cumplir con las estrategias institucionales en la realización de proyectos de investigación, validación y transferencia de tecnología, así como para la colaboración con otras actividades propias de la Institución;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XIII. Implementar las estrategias de promoción y venta de productos y servicios, así como de posicionamiento institucional;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XIV. Establecer y coordinar los Órganos Colegiados Científicos Técnicos para fortalecer la planeación y evaluación de los proyectos;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XV. Instrumentar y dar seguimiento al Programa Nacional de Capacitación;
 
 XVI. Asegurar que los resultados de investigación generen conocimientos, metodologías, procesos, tecnologías que puedan ser aplicados en otros Programas de Investigación o directamente por los usuarios/beneficiarios, para dar respuesta a los grandes problemas nacionales que le competen;
 
-XVII. Instrumentar y dar seguimiento a los lineamientos, políticas y demás disposiciones que en materia de administración de los recursos humanos, financieros, materiales y de sistemas deban observar las unidades administrativas del Centro;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-XVIII. Implementar y dar seguimiento a las disposiciones de modernización, desconcentración, simplificación administrativa y desregulación en el ámbito del Centro;
+XVII. Instrumentar y dar seguimiento a los lineamientos, políticas y demás disposiciones en materia de administración de los recursos humanos, financieros, materiales y de sistemas;
+
+XVIII. (DEROGADA, D.O.F. 14 DE JULIO DE 2023)
 
 XIX. Proponer un programa de uso eficiente y actualización de la infraestructura y equipo requeridos para la realización de las actividades sustantivas, y
 
-XX. Las demás que le asigne el Director General y las que señalen las Leyes, Reglamentos, Decretos, Acuerdos y demás Disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XX. Las demás que le asigne el superior jerárquico inmediato y las que se establezcan en las disposiciones legales aplicables.
 
 ###### Artículo 23.
 
 La Dirección de Centro Nacional de Investigación Disciplinaria, estará a cargo de un Director que tendrá las atribuciones siguientes:
 
-I. Dirigir y establecer el proceso de planeación estratégica del Centro y asegurar su alineación con el Plan Estratégico Institucional;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-II. Elaborar e Implementar el programa de investigación, validación y transferencia de tecnología de corto y mediano plazo del Centro;
+I. Dirigir y establecer el proceso de planeación estratégica del Centro y asegurar su alineación con el Programa Institucional, Programa de Desarrollo y la Agenda Nacional de Investigación;
 
-III. Elaborar, gestionar su aprobación e instrumentar el Programa Anual de Actividades del Centro, alineado a los Planes Estratégicos Institucionales;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-IV. Implementar mecanismos que permitan obtener recursos públicos y privados de fuentes externas para el cumplimiento de los objetivos institucionales;
+II. Elaborar e implementar el Programa de Desarrollo del Centro;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+III. Elaborar e instrumentar el Programa Anual de Actividades Estratégicas alineado al Programa Institucional;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+IV. Implementar mecanismos que permitan obtener recursos públicos y privados de fuentes externas para el cumplimiento de la Misión, Visión y los Objetivos institucionales;
 
 V. Implementar estrategias de vinculación para el cumplimiento del mandato y objetivos institucionales;
 
-VI. Promover y dar seguimiento a los instrumentos jurídicos de su competencia y/o aquellos cuya ejecución tenga efectos en el ámbito del Centro;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-VII. Supervisar y coordinar el cumplimiento de los compromisos que establezcan las Unidades Administrativas del Centro;
+VI. Promover, elaborar y dar seguimiento técnico administrativo de los instrumentos jurídicos que celebre el Instituto, de conformidad con la normatividad aplicable;
 
-VIII. Implementar las políticas institucionales para determinar la pertinencia, impacto y calidad de los proyectos de investigación en el Centro;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-IX. Planear estrategias de Investigación Disciplinaria para la generación de conocimientos y tecnología de punta que atienda los problemas de productividad, competitividad y sustentabilidad del país en el sector de su competencia;
+VII. Supervisar y coordinar el cumplimiento de los compromisos administrativos;
 
-X. Implementar, dar seguimiento y asegurar el cumplimiento de los lineamientos que regulan los procesos productivos, líneas de investigación, estándares de calidad, utilización de nuevas tecnologías y materiales, procesos de producción de bienes y servicios en el Centro;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-XI. Asegurar el cumplimiento de los lineamientos para el establecimiento y operación de las Redes Nacionales de Investigación;
+VIII. Implementar las políticas institucionales para determinar la pertinencia, impacto y calidad de los proyectos de investigación del Centro;
 
-XII. Implementar la interacción con los Centros de Investigación Regional y otros Centros Nacionales de Investigación Disciplinaria para cumplir con las estrategias institucionales en la realización de proyectos de investigación, validación y transferencia de tecnología, así como para la colaboración en otras actividades propias de la Institución;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-XIII. Implementar las estrategias de promoción y/o venta de productos y servicios, así como de posicionamiento institucional;
+IX. Planear y dirigir la investigación disciplinaria en el área del conocimiento del CENID, para la generación de conocimientos y tecnologías que atienda los problemas de productividad, competitividad y sustentabilidad del país en el sector de su competencia;
 
-XIV. Establecer y coordinar los Grupos Colegiados para fortalecer la planeación y evaluación de los proyectos, y la operación del Centro;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-XV. Instrumentar y dar seguimiento al Programa Nacional de Capacitación en el ámbito del Centro;
+X. Implementar y asegurar el cumplimiento de los lineamientos que regulan los procesos productivos, líneas de investigación, estándares de calidad, utilización de nuevas tecnologías y materiales, procesos de producción de bienes y servicios;
 
-XVI. Asegurar que los resultados de investigación generen conocimientos, metodologías, procesos, tecnologías que puedan ser aplicados en otros Programas de Investigación o directamente por los usuarios/beneficiarios, para dar respuesta a los grandes problemas nacionales que le competen;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-XVII. Instrumentar y dar seguimiento a los lineamientos, políticas y demás disposiciones que en materia de administración de los recursos humanos, financieros, materiales y de sistemas deban observar las unidades administrativas del Centro;
+XI. Asegurar el cumplimiento de los lineamientos para el establecimiento y operación de la investigación;
 
-XVIII. Implementar y dar seguimiento a las disposiciones de modernización, desconcentración, simplificación administrativa y desregulación en el ámbito del Centro;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-XIX. Proponer un programa de uso eficiente y actualización de la infraestructura y equipo requeridos para la realización de las actividades sustantivas, y
+XII. Implementar la interacción con otros Centros Nacionales de Investigación Disciplinaria, el Centro Nacional de Recursos Genéticos y los otros Centros de Investigación Regional para cumplir con las estrategias institucionales en la realización de proyectos de investigación, validación y transferencia de tecnología, así como para la colaboración con otras actividades propias de la Institución;
 
-XX. Las demás que le asigne el Director General y las que señalen las Leyes, Reglamentos, Decretos, Acuerdos y demás Disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XIII. Implementar las estrategias de promoción y venta de productos y servicios, así como de posicionamiento institucional;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XIV. Establecer y coordinar los Órganos Colegiados Científicos Técnicos para fortalecer la planeación y evaluación de los proyectos;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XV. Instrumentar y dar seguimiento al Programa Nacional de Capacitación;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XVI. Asegurar que los proyectos de investigación generen conocimientos, metodologías, procesos o tecnologías que puedan ser aplicados por los usuarios;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XVII. Instrumentar y dar seguimiento a los lineamientos, políticas y demás disposiciones en materia técnica, de administración de los recursos humanos, financieros, materiales y de sistemas;
+
+XVIII. (DEROGADA, D.O.F. 14 DE JULIO DE 2023)
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XIX. Proponer un programa de uso eficiente y actualización de la infraestructura y equipos requeridos para la realización de las actividades sustantivas;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+XX. Las demás que le asigne el superior jerárquico inmediato y las que se establezcan en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
+Artículo 23 BIS.- La Dirección del Centro Nacional de Recursos Genéticos (CNRG), estará a cargo de un Director que tendrá las atribuciones siguientes:
+
+I. Establecer e implementar el programa a corto, mediano y largo plazo, de ingreso y egreso de germoplasma;
+
+II. Coordinar y controlar las acciones de preservación, protección, utilización e intercambio de los recursos genéticos bajo el resguardo del CNRG;
+
+III. Asegurar la operación eficaz y ordenada de los procesos de prevención, caracterización, evaluación, documentación e investigación de los recursos genéticos en resguardo;
+
+IV. Promover la vinculación con instancias homólogas a nivel nacional e internacional;
+
+V. Coadyuvar con los subcomités del Comité Sectorial de Recursos Genéticos para la Alimentación y Agricultura y otras instancias en acciones de colección, caracterización, potenciación y uso de preservación de los recursos genéticos del país;
+
+VI. Implementar una estrategia permanente de promoción y difusión del CNRG y su relevancia para el país;
+
+VII. Promover la interacción con los Centros de Investigación del INIFAP, para cumplir con las estrategias institucionales en la realización de proyectos de investigación, validación y transferencia de tecnología, así como para la colaboración en otras actividades propias de la Institución;
+
+VIII. Promover, elaborar y dar seguimiento técnico administrativo de los instrumentos jurídicos que celebre el Instituto, de conformidad con la normatividad aplicable;
+
+IX. Las demás que le asigne el superior jerárquico inmediato y las que se establezcan en las disposiciones legales aplicables.
 
 ###### Artículo 24.
 
 La Dirección de Coordinación y Vinculación Estatal, estará a cargo de un Director que tendrá las atribuciones siguientes:
 
-I. Identificar, integrar y procesar información sobre los problemas agropecuarios y forestales del estado para captar las demandas estatales actuales y futuras que definan proyectos de investigación, validación y transferencia de tecnología en las áreas agrícola, pecuaria y forestal;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
 
-II. Implementar las estrategias de vinculación para el cumplimiento del mandato y objetivos institucionales en el ámbito estatal;
+I. Identificar, integrar y procesar información sobre los problemas de los subsectores agrícola, pecuario y forestal del estado para la elaboración de proyectos de investigación, validación y transferencia de tecnología;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+II. Implementar las estrategias de vinculación para el cumplimiento del Mandato, Misión, Visión y Objetivos institucionales en el ámbito estatal;
 
 III. Definir los actores clave a nivel estatal con los que el Instituto debe vincularse para el fortalecimiento de las capacidades institucionales;
 
 IV. Representar al Instituto en el estado para fortalecer el cumplimiento de los Objetivos Institucionales;
 
-V. Apoyar al personal investigador en la gestión y presentación de proyectos ante las distintas fuentes financiadoras;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 14 DE JULIO DE 2023)</small>
+
+V. Apoyar al personal investigador en la gestión y presentación de proyectos ante las distintas fuentes financieras;
 
 VI. Participar en el seguimiento de la instrumentación transversal de los mecanismos de transferencia de conocimientos y tecnología para asegurar la atención a la demanda en el estado;
 
-VII. Establecer y dar seguimiento a la estrategia de promoción y/o venta de los productos y servicios del Instituto en el estado para fomentar la adopción de la tecnología desarrollada;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+VII. Establecer y dar seguimiento a la estrategia de promoción y venta de los productos y servicios del Instituto en el estado para fomentar la adopción de la tecnología desarrollada;
 
 VIII. Fomentar y participar en la realización de eventos institucionales que tengan verificativo en el estado y estén orientados a desarrollar la estrategia de posicionamiento institucional, y
 
-IX. Las demás que le asigne el Director General, las que señalen las Leyes, Reglamentos, Decretos, Acuerdos y demás Disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+IX. Las demás que le asigne el superior jerárquico inmediato y las que se establezcan en las disposiciones legales aplicables.
 
 ### CAPITULO OCTAVO. DE LA ADSCRIPCION Y ORGANIZACION INTERNA DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 25.
 
-A la Dirección General estarán directamente adscritas en el nivel central la Coordinación de Investigación, Innovación y Vinculación, Coordinación de Planeación y Desarrollo, Coordinación de Administración y Sistemas, Unidad Jurídica, Organo Interno de Control, y Unidad de Apoyo Técnico; del nivel foráneo las Direcciones de Centro de Investigación Regional y Direcciones de Centro Nacional de Investigación Disciplinaria.
+A la Dirección General estarán directamente adscritas en el nivel central la Coordinación de Investigación, Innovación y Vinculación, Coordinación de Planeación y Desarrollo, Coordinación de Administración y Sistemas, Unidad Jurídica, Órgano Interno de Control y la Unidad de Apoyo Técnico; del nivel foráneo las Direcciones de Centro de Investigación Regional, las Direcciones de Centro Nacional de Investigación Disciplinaria y la Dirección del Centro Nacional de Recursos Genéticos.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
 
 ###### Artículo 26.
 
-A la Coordinación de Investigación, Innovación y Vinculación, estarán directamente adscritas la Dirección de Promoción y Divulgación, Dirección de Vinculación de Investigación Institucional e Interinstitucional, Dirección de Vinculación con Unidades Operativas, y Dirección de Vinculación con la Demanda.
+A la Coordinación de Investigación, Innovación y Vinculación, estarán directamente adscritas la Dirección de Vinculación de Investigación Institucional e Interinstitucional, la Dirección de Vinculación con Unidades Operativas, la Dirección de Vinculación con la Demanda y el Departamento de Promoción y Comunicación.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
 
 ###### Artículo 27.
 
-A la Coordinación de Planeación y Desarrollo estarán directamente adscritas la Dirección de Planeación, Dirección de Programas y Proyectos Estratégicos, Dirección de Talento y Desarrollo, Dirección de Intercambio y Cooperación Científica, y la Subdirección de Desempeño Institucional.
+A la Coordinación de Planeación y Desarrollo estarán directamente adscritas la Dirección de Planeación, la Dirección de Programas y Proyectos Estratégicos, la Dirección de Intercambio y Cooperación Científica y la Subdirección de Desempeño Institucional.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
 
 ###### Artículo 28.
 
-A la Coordinación de Administración y Sistemas estarán directamente adscritas la Dirección de Desarrollo Humano y Profesionalización, Dirección de Eficiencia Financiera y Rendición de Cuentas, Dirección de Recursos Materiales y Servicios, y Dirección de Evaluación y Sistemas.
+A la Coordinación de Administración y Sistemas estarán directamente adscritas la Dirección de Desarrollo Humano y Profesionalización, la Dirección de Eficiencia Financiera y Rendición de Cuentas, la Dirección de Recursos Materiales y Servicios y la Subdirección de Evaluación y Seguimiento.
 
 ###### Artículo 29.
 
 A la Unidad Jurídica, estarán directamente adscritas la Subdirección de Coordinación Jurídica y la Subdirección de Propiedad Intelectual y Procedimientos Administrativos.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 30.
 
-Al Organo Interno de Control, estarán directamente adscritos los Titulares de Auditoría Interna, Area de Control, Evaluación y Apoyo al Buen Gobierno, y Area de Responsabilidades y Quejas.
+Al Órgano Interno de Control, estarán directamente adscritos los Titulares del Área Auditoría Interna, de Desarrollo y Mejora de la Gestión Pública, el Área de Responsabilidades y el Área de Quejas, Denuncias e Investigaciones.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
 
 ###### Artículo 31.
 
-A la Unidad de Apoyo Técnico, estarán directamente adscritas las Direcciones de Soporte Agrícola, Soporte Pecuario, Soporte Forestal, Soporte de Gestión Estratégica y el Departamento de Consolidación de Información Estratégica.
+A la Unidad de Apoyo Técnico, estarán directamente adscritas la Dirección de Soporte de Gestión Estratégica y el Departamento de Consolidación de Información Estratégica.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
 
 ###### Artículo 32.
 
-A las Direcciones de Centros de Investigación Regional, estarán directamente adscritas la Dirección de Investigación; Dirección de Planeación y Desarrollo; Dirección de Administración, y por el número de Direcciones de Coordinación y Vinculación Estatal que correspondan al ámbito de influencia de la Región.
+A las Direcciones de Centros de Investigación Regional, estarán directamente adscritas la Dirección de Investigación; la Dirección de Administración, y las Direcciones de Coordinación y Vinculación Estatal que correspondan al ámbito de influencia de la Región.
 
 ###### Artículo 33.
 
 A las Direcciones de Centros Nacionales de Investigación Disciplinaria, estarán directamente adscritos el Departamento de Operación y el Departamento de Administración.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
+Artículo 33 BIS.- Al Centro Nacional de Recursos Genéticos, estarán directamente adscritos el Departamento de Operación, el Departamento de Administración y los enlaces.
 
 ### CAPITULO NOVENO. DEL ORGANO DE VIGILANCIA
 
@@ -701,7 +945,9 @@ A las Direcciones de Centros Nacionales de Investigación Disciplinaria, estará
 
 El Organo de Vigilancia del Instituto estará integrado por un Comisario Público Propietario y un suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las reuniones ordinarias y extraordinarias de la Junta de Gobierno.
 
-El Organo de Vigilancia tendrá a su cargo las atribuciones que le confieren los Artículos 60 de la LEFEP y 29, 30 y 33 de su Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
+El Órgano de Vigilancia tendrá a su cargo las atribuciones que le confieren los Artículos 60 de la LFEP y 29, 30 y 33 de su Reglamento y demás disposiciones aplicables.
 
 ### CAPITULO DECIMO. DE LOS ORGANOS DE APOYO
 
@@ -731,7 +977,9 @@ El Comité será presidido por uno de sus miembros y se alternará cada dos sesi
 
 El Comité Externo de Evaluación tendrá las siguientes funciones:
 
-I. Conocer el Programa Estratégico de Mediano Plazo, el Programa Anual de Actividades, el Convenio de Administración por Resultados correspondiente, los Indicadores de Gestión y toda aquella información que le permita medir y valorar el desempeño de las actividades sustantivas del Instituto;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2023)</small>
+
+I. Conocer el Convenio de Administración por Resultados correspondiente y toda aquella información que le permita medir y valorar el desempeño de las actividades sustantivas del Instituto;
 
 II. Analizar el informe anual de las actividades sustantivas desarrolladas por el Instituto;
 
@@ -781,17 +1029,21 @@ La estructura del Comité quedará integrada por un Presidente que será elegido
 
 El Secretario del Comité tendrá la obligación de redactar la minuta de la sesión, debiendo turnar copia a cada uno de los miembros del Comité, en un período no mayor de diez días hábiles posteriores a la fecha de la reunión; así como también, de llevar el seguimiento de los acuerdos. La minuta deberá ser firmada por todos los miembros asistentes a la reunión, la que también tendrá el carácter de lista de asistencia.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 51.
 
-El Comité, por conducto de su Secretario, elaborará un informe anual a la Junta de Gobierno, en el que se relacionen los acuerdos tomados durante el período, se emita una opinión cualitativa y cuantitativa sobre el desarrollo de las actividades sustantivas del Instituto, así como de sus desviaciones, mencionando sus causas y las medidas preventivas y/o correctivas, y hará mención especial de las aportaciones, apoyos y recomendaciones propuestas por el Comité.
+El Comité, por conducto de su Secretario, elaborará un informe anual a la Junta de Gobierno, en el que se relacionen los acuerdos tomados durante el período, se emita una opinión cualitativa y cuantitativa sobre el desarrollo de las actividades sustantivas del Instituto, así como de sus desviaciones, mencionando sus causas y las medidas preventivas o correctivas y hará mención especial de las aportaciones, apoyos y recomendaciones propuestas por el Comité.
 
 ###### Artículo 52.
 
 El Presidente del Comité será el enlace entre el Comité y la Junta de Gobierno, sin perjuicio de que por causas de fuerza mayor pueda hacerlo otro miembro del Comité y acudirá en calidad de invitado a las reuniones de carácter sustantivo de dicha Junta, en donde de ser requerido, explicará la opinión vertida sobre el desempeño de las actividades sustantivas del Instituto y aclarará las cuestiones que al respecto formulen los miembros de la referida Junta de Gobierno.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 53.
 
-El Comité no sustituirá a otras comisiones del Instituto, ni estará facultado para desempeñar actividades que competan a otros cuerpos colegiados del Instituto.
+El Comité no sustituirá a otras comisiones del Instituto, ni estará facultado para desempeñar actividades que competan a otros Órganos Colegiados del Instituto.
 
 ###### Artículo 54.
 
@@ -815,9 +1067,11 @@ III. No ser personal investigador en activo del Instituto.
 
 Los cargos de la Comisión Dictaminadora Externa serán honoríficos.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 57.
 
-Los Coordinadores de Investigación, Innovación y Vinculación; Planeación y Desarrollo, y Administración y Sistemas, los Directores de Centros Nacionales de Investigación Regional y de Centros Nacionales de Investigación Disciplinaria, así como el personal investigador del Instituto podrán proponer al Director General candidatos que pudieran integrarse a la Comisión Dictaminadora Externa.
+Los Coordinadores de Investigación, Innovación y Vinculación; Planeación y Desarrollo, y Administración y Sistemas, los Directores de Centros Nacionales de Investigación Regional, de Centros Nacionales de Investigación Disciplinaria y el Director del Centro Nacional de Recursos Genéticos, así como el personal investigador del Instituto podrán proponer al Director General candidatos que pudieran integrarse a la Comisión Dictaminadora Externa.
 
 ###### Artículo 58.
 
@@ -881,9 +1135,11 @@ Los miembros del Consejo Técnico Consultivo Interno que correspondan a personas
 
 #### SECCION CUARTA. DE LOS COMITES Y SUBCOMITES
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 68.
 
-El Instituto podrá contar además con los comités o subcomités que autorice constituir la Junta de Gobierno, quienes tendrán las atribuciones genéricas y específicas a que se refiere de manera supletoria el Artículo 56 de la LEFEP y 21 del RLEFEP en términos de lo previsto por el Artículo 53 de la Ley.
+El Instituto podrá contar además con los Comités o Subcomités que autorice constituir la Junta de Gobierno, quienes tendrán las atribuciones genéricas y específicas a que se refiere de manera supletoria el Artículo 56 de la LFEP y 21 del RLFEP en términos de lo previsto por el Artículo 53, de la Ley.
 
 ### CAPITULO DECIMO PRIMERO. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
@@ -899,9 +1155,11 @@ Las ausencias de los titulares de las Coordinaciones, Unidad Jurídica o Directo
 
 Las ausencias de los Directores foráneos serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de su respectiva competencia.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 72.
 
-Las ausencias del Titular del Organo Interno de Control, así como la de los demás titulares de las áreas de Auditoría Interna y de Responsabilidades y Quejas, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias del Titular del Órgano Interno de Control, así como la de los demás titulares de las áreas, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
 
 ### CAPITULO DECIMO SEGUNDO. DE LAS MODIFICACIONES AL ESTATUTO
 
@@ -918,3 +1176,27 @@ SEGUNDO. El Comité Externo de Evaluación quedará integrado por las personas q
 TERCERO. Para que la sustitución de los integrantes del Comité Externo de Evaluación acontezca en la forma prevista en el artículo 38 del presente Estatuto, por única ocasión la próxima ratificación que se haga, será por un periodo de tres años para la tercera parte de sus integrantes.
 
 El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias en su primera reunión extraordinaria de 2007 celebrada en la Ciudad de México, Distrito Federal, el día ocho de febrero de dos mil siete.- El Director General del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, Pedro Brajcich Gallegos.- Rúbrica.- El Secretario Técnico de la H. Junta de Gobierno y Coordinador de Planeación y Desarrollo del INIFAP, Sebastián Acosta Núñez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE JULIO DE 2023.
+
+[N. DE TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE INVESTIGACIONES FORESTALES, AGRÍCOLAS Y PECUARIAS”.]
+
+PRIMERO.- La Presente modificación al Estatuto Orgánico del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Inscríbase la modificación del Estatuto Orgánico del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias en el Registro Público de Organismos Descentralizados, de conformidad con lo establecido en el artículo 25 fracción I, de la Ley Federal de Entidades Paraestatales y su respectivo reglamento.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ÚNICO.- Con el objeto de que los servidores públicos del INIFAP y todo el público en general, puedan consultar el Acuerdo por el que se reforman, adicionan y derogan, diversas disposiciones del Estatuto Orgánico del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, se ponen a disposición las siguientes páginas de internet:
+
+DOF: www.dof.gob.mx/2023/AGRICULTURA/AcuerdoEstatutoOrganico.pdf
+
+INIFAP:
+
+https://vun.inifap.gob.mx/VUN_Media/PortalWeb/_media/_normateca/_estatuto/1170_Estatuto%20Org%C3%A1nico%20del%20INIFAP%202022_%20.pdf
+
+## TRANSITORIO
+
+ÚNICO.- El presente Aviso entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
