@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-29-2018-del-pleno-del-consejo-de-la-130869"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-10-15"
-last_updated: "2022-11-30"
+last_updated: "2023-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130869&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2018-10-04"
 
 ACUERDO GENERAL 29/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE INICIA FUNCIONES EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE CHIHUAHUA, CON RESIDENCIA EN CIUDAD JUÁREZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 15 de octubre de 2018.
 
@@ -71,15 +71,17 @@ II. Centro: Centro de Justicia Penal Federal en el Estado de Chihuahua, con resi
 
 III. Consejo: Consejo de la Judicatura Federal;
 
-IV. Jueces de Control y tribunales de Enjuiciamiento: Jueces de Distrito;
+> <small>(REFORMADA POR EL PUNTO TRIGESIMOSEXTO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
+
+IV. Jueces de Distrito especializados en el sistema penal acusatorio: Jueces de Control y Tribunales de Enjuiciamiento;
 
 > <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 29/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2019)</small>
 
 V. Jueces de Distrito: Jueces de Distrito especializados en el sistema penal acusatorio; y con competencia en ejecución;
 
-> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 29/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO TRIGESIMOSEXTO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
 
-V Bis. Juez de Ejecución: Juez de Distrito especializado en el sistema penal acusatorio con competencia en ejecución;
+V Bis. Juez de Ejecución: Juez de Distrito preferentemente especializado en el sistema penal acusatorio con competencia en ejecución;
 
 > <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 29/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2019)</small>
 
@@ -99,19 +101,19 @@ El Centro iniciará funciones a partir del dieciséis de octubre de dos mil diec
 
 El Centro se integrará por los jueces de Distrito y Tribunales de Alzada que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
 
-> <small>(REFORMADO POR EL PUNTO TRIGESIMOQUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO TRIGESIMOSEXTO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
 
-Los jueces de Distrito tendrán competencia para actuar indistintamente como jueces de Control y tribunales de Enjuiciamiento, sin perjuicio de lo dispuesto en los artículos 7 y 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
+Los jueces de Distrito del sistema penal acusatorio tendrán competencia para actuar indistintamente como jueces de control y tribunales de enjuiciamiento, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
 
 El Centro contará con la plantilla laboral autorizada, y la Administración del Centro se regirá conforme a las disposiciones del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
+> <small>(REFORMADO POR EL PUNTO TRIGESIMOSEXTO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 5.
 
-Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+Los órganos jurisdiccionales del sistema penal acusatorio del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017 del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 29/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2019)</small>
-
-El Juez de Ejecución tendrá la competencia que establece la Ley Nacional de Ejecución Penal y demás normatividad aplicable, dentro de la jurisdicción territorial del Centro.
+El Juez de Ejecución tendrá la competencia que establece la Ley Nacional de Ejecución Penal y demás normatividad aplicable, dentro de la jurisdicción territorial del Centro; el cual podrá ser del sistema mixto cuando haya una integración por lo menos de tres jueces del sistema penal acusatorio en el Centro.
 
 ###### Artículo 6.
 
@@ -161,9 +163,11 @@ La guardia de turno en días y horas inhábiles, finaliza el día lunes de cada 
 
 El Administrador del Centro adoptará las medidas administrativas necesarias, a fin de que el Tribunal de Alzada del Centro esté en posibilidad de resolver las apelaciones de término previstas en el Código Nacional de Procedimientos Penales.
 
+> <small>(REFORMADO POR EL PUNTO TRIGESIMOSEXTO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 12.
 
-Los juzgadores que integran el Centro llevarán libros electrónicos de control, que se integrarán con la información que se registre en el sistema informático respectivo, de conformidad con lo previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la asignación de audiencias y asuntos, la rendición de estadística y los libros electrónicos de control en los Centros de Justicia Penal Federal.
+Los juzgadores que integran el Centro llevarán libros electrónicos de control, que se integrarán con la información que se registre en el sistema informático respectivo.
 
 ###### Artículo 13.
 
@@ -185,9 +189,9 @@ Los jueces de control contarán con un sistema de acceso electrónico, mediante 
 
 En caso de que sea necesario sustituir a alguno de los jueces de Distrito del Centro se estará a lo siguiente:
 
-> <small>(REFORMADA POR EL PUNTO TRIGESIMOQUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA POR EL PUNTO TRIGESIMOSEXTO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
 
-I. La sustitución recaerá en otro juez de Distrito del mismo Centro; y
+I. La sustitución de los jueces de control y del tribunal de enjuiciamiento recaerá en otro juez de Distrito especializado en el sistema penal acusatorio del mismo Centro; y
 
 > <small>(REFORMADA POR EL PUNTO TRIGESIMOQUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
 
@@ -199,9 +203,11 @@ II. De no ser posible la sustitución en los términos previstos en la fracción
 
 La sustitución del Juez de Ejecución recaerá en cualquier otro juez de Distrito del Centro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TRIGESIMOSEXTO DEL ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2023)</small>
+
 ###### Artículo 18.
 
-El personal del Centro junto con sus juzgadores, disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 160 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 100 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, en el orden que los juzgadores consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso se procurará que permanezcan dos jueces de Distrito en el Centro.
+El personal de los juzgados de Distrito del Centro junto con su titular, disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 140 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 170 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, en el orden que los titulares de dichos órganos jurisdiccionales consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso, se procurará que permanezcan dos jueces de Distrito del sistema penal acusatorio en el Centro.
 
 > <small>(REFORMADO POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 46/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -328,3 +334,11 @@ CUARTO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos
 QUINTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en las Oficinas de Correspondencia Común que darán servicio a los Tribunales Colegiados de Apelación del Decimoséptimo Circuito que inician funciones.
 
 SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de sus competencias, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 14 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 15/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON EL JUEZ DE EJECUCIÓN".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
