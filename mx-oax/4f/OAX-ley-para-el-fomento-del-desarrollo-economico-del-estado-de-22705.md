@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-del-desarrollo-economico-del-estado-de-2270
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-06"
-last_updated: "2023-04-08"
+last_updated: "2023-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023 (F. DE E., P.O. 8 DE ABRIL DE 2023).
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE ABRIL DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 6 de octubre del 2001.
 
@@ -77,6 +75,10 @@ X.- Generar, establecer, implementar y operar una plataforma logística multimod
 
 XI.- Fomentar, proteger e incentivar las industrias creativas.
 
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2023)</small>
+
+XII.- Promover la Inclusión Financiera, a través del impulso al acceso a la infraestructura bancaria, el uso de los productos y servicios, la protección al consumidor y la educación financiera.
+
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 Se entenderá por Plataforma logística multimodal a lo establecido por el decreto de creación del organismo público descentralizado, denominado corredor interoceánico del Istmo de Tehuantepec.
@@ -120,6 +122,10 @@ XIII.- Corredor industrial: Demarcación territorial que para el aprovechamiento
 > <small>(ADICIONADA, P.O. 21 DE MARZO DE 2020)</small>
 
 XIV.- Economía creativa: Conjunto de actividades que de manera encadenada permiten que las ideas se transformen en bienes y servicios culturales, cuyo valor está determinado por su contenido de propiedad intelectual.
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2023)</small>
+
+XV.- Inclusión Financiera: El acceso y uso de servicios financieros formales bajo una regulación apropiada que garantice esquemas de protección al consumidor y promueva las competencias económico-financieras que contribuyan al crecimiento económico y al bienestar de la población.
 
 ### CAPITULO II. DE LOS ORGANOS COMPETENTES EN LA APLICACION DE LA LEY
 
@@ -250,6 +256,10 @@ b).- Reducción de impuestos y derechos estatales hasta del 50% durante el terce
 II.- Realizar promociones para atraer inversiones hacia el Estado. El Ejecutivo Estatal realizará acciones encaminadas a la promoción del desarrollo industrial, comercial y de servicios; y
 
 III.- Celebrar convenios con las entidades de los sectores público, social y privado, para desarrollar la infraestructura que posibilite la operación y el establecimiento de empresas y la creación de conjuntos, parques o corredores industriales.
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2023)</small>
+
+IV.- Impulsar una política pública de Inclusión Financiera, con el objetivo de poner en marcha la Política Nacional de Inclusión Financiera.
 
 ###### ARTICULO 12.
 
@@ -594,3 +604,11 @@ P.O. 1 DE ABRIL DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1443.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 1, LA FRACCIÓN XV AL ARTÍCULO 2, Y LA FRACCIÓN IV AL ARTÍCULO 11 DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
