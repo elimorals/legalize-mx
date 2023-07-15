@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-82750
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2022-08-20"
+last_updated: "2023-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el día jueves 18 del año 2011.
 
@@ -589,6 +589,10 @@ l) Establecer acciones conjuntas para el fortalecimiento de las redes de valor, 
 
 m) Establecer e implementar mecanismos complementarios de apoyo y programas que garanticen el empleo, el ingreso y sustento económico de los pescadores en los periodos de veda.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2023)</small>
+
+n) El autoconsumo interno y la producción local de pesca y acuacultura; así como, campañas que promuevan la importancia de los productos acuícolas y pesqueros en la alimentación.
+
 IV. La SEPESCA implementará políticas de apoyo para la producción de especies acuícolas a los productores y acuacultores del sector social pesquero de la Entidad; y
 
 V. Promoverá el ordenamiento de la pesca y acuacultura y diseñará estructuras y mecanismos para el otorgamiento de créditos a sus beneficiarios y su capacitación, así como para instrumentar servicios de comercialización de productos, investigación y adaptación al cambio tecnológico.
@@ -836,6 +840,10 @@ Asimismo, deberán de analizar y, en su caso, prevenir los impactos negativos de
 ###### Artículo 44 Quater.
 
 El Poder Ejecutivo del Estado deberá inscribir a los pescadores artesanales en el Registro Estatal de Pesca y Acuacultura, lo anterior con la finalidad de contar con la información relativa a dicho sector que sirva para la toma de decisiones y el establecimiento de políticas, programas y acciones que beneficien a este sector.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2023)</small>
+
+Para ser beneficiario de las políticas, programas y acciones que promueva el Estado, tendrán preferencia los pueblos y comunidades indígenas y afromexicanas.
 
 ## TÍTULO OCTAVO. DE LA LEGAL PROCEDENCIA
 
@@ -1272,3 +1280,19 @@ P.O. 20 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1446.- MEDIANTE EL CUAL SE ADICIONA EL INCISO N) A LA FRACCIÓN III DEL ARTÍCULO 24 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1447.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 44 QUÁTER DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
