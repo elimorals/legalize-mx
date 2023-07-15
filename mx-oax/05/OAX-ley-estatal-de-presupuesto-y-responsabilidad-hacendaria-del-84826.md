@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2021-12-18"
+last_updated: "2023-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -72,6 +72,10 @@ II. Adecuaciones presupuestarias: Las modificaciones a las estructuras funcional
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
 
 III. Avance de Gestión: Al informe a que se refiere la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2023)</small>
+
+III Bis. Anexos Transversales: Anexos del Presupuesto donde concurren Programas Presupuestarios, componentes de éstos y/o Unidades Responsables, cuyos recursos son destinados a obras, acciones y servicios vinculados con el desarrollo de los siguientes sectores: Igualdad entre Mujeres y Hombres; Atención de Niños, Niñas y Adolescentes; Desarrollo Integral de loa (sic) Pueblos y Comunidades Indígenas y Afromexicanas;
 
 IV. Administración: Secretaría de Administración;
 
@@ -923,7 +927,9 @@ En caso del incumplimiento descrito en el párrafo anterior se sancionará confo
 
 Los Poderes Legislativo, Judicial y los Órganos Autónomos enviarán a la Secretaría sus proyectos de presupuesto, a efecto de integrarlos al proyecto de Presupuesto de Egresos, a más tardar 10 días naturales antes de la fecha de presentación del mismo.
 
-En la programación y presupuestación de sus respectivos programas, los Ejecutores de gasto a que se refiere el párrafo anterior deberán sujetarse a lo dispuesto en esta Ley y observar que su propuesta sea compatible con los criterios generales de política económica.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2023)</small>
+
+En la programación y presupuestación de sus respectivos programas, los Ejecutores de gasto a que se refiere el párrafo anterior deberán sujetarse a lo dispuesto en esta Ley y observar que su propuesta sea compatible con los criterios generales de política económica y transversal.
 
 Los Poderes Legislativo, Judicial y los Órganos Autónomos, por conducto de sus respectivas Unidades de administración, deberán coordinarse con la Secretaría en las actividades de planeación, programación y presupuesto, con el objeto de que sus programas operativos anuales sean compatibles con las clasificaciones y estructura programática a que se refieren los artículos 26 y 27 de esta Ley.
 
@@ -1115,7 +1121,11 @@ b) La estimación de los recursos necesarios para ejercer paripassus que podrá 
 
 c) Los tabuladores de sueldos y salarios a que se refiere el artículo 137 de la Constitución Política del Estado Libre y Soberano de Oaxaca, y
 
-d) La demás información que contribuya a la comprensión de los proyectos a que se refiere este artículo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2023)</small>
+
+d) La metodologia, factores, variables y fórmulas utilizadas para la elaboración de Anexos Transversales, estableciendo los porcentajes o cuotas que del presupuesto de los programas Presupuestarios y/o de las Unidades Responsables son considerados para la integración de dichos Anexos. En caso de que existan modificaciones en la metodologia con respecto a la utilizada en el ejercicio fiscal anterior, se deberá incluir un apartado donde se explique y justifique plenamente el motivo de dichas modificaciones, y
+
+e) La demás información que contribuya a la comprensión de los proyectos a que se refiere este artículo.
 
 ### CAPÍTULO TERCERO. DE LA APROBACIÓN Y LOS MECANISMOS DE COMUNICACIÓN Y COORDINACIÓN ENTRE PODERES
 
@@ -2288,3 +2298,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintidós, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 15 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1448.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 2; SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 28 Y EL INCISO D) RECORRIENDOSE EL SUBSECUENTE DE LA FRACCIÓN III DEL ARTÍCULO 36; TODOS DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
