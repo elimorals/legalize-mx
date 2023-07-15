@@ -4,7 +4,7 @@ identifier: "OAX-ley-pecuaria-del-estado-de-oaxaca-82751"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2020-10-10"
+last_updated: "2023-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PECUARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 18 de agosto de 2011.
 
@@ -145,7 +145,9 @@ XVI. Ciclo apícola: Es el comprendido durante un período anual dividido en eta
 
 XVII. Centro de acopio y beneficio: Es el establecimiento o instalación que se encarga de recolectar los productos pecuarios, para almacenarlos o procesarlos para su posterior comercialización en el mercado estatal, nacional o internacional;
 
-XVIII. Certificado zoosanitario: Documento oficial expedido por la SAGARPA o por quienes estén aprobados o acreditados para constatar el cumplimiento de las disposiciones legales. Tratándose de animales, será signado por un médico veterinario zootecnista oficial, acreditado o aprobado;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
+
+XVIII. Certificado zoosanitario: Documento oficial expedido por la SADER o por quienes estén aprobados o acreditadas para constatar el cumplimiento de las disposiciones legales. Tratándose de animales, será signado por un médico veterinario zootecnísta oficial, acreditado o aprobado;
 
 XIX. Colmena: Es el alojamiento permanente de una colonia de abejas con sus panales.
 
@@ -193,7 +195,9 @@ XXXIV. Esquilmos: Aprovechamientos de los subproductos y desechos del ganado;
 
 XXXV. Establecimiento: Asiento definido de una actividad pecuaria;
 
-XXXVI. Establecimientos Tipo Inspección Federal (TIF): Las instalaciones en donde se sacrifican animales o procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal y están sujetas a regulación de la SAGARPA en coordinación con la Secretaría de Salud de acuerdo al ámbito de competencia de cada Secretaría y cuya certificación es a petición de parte;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
+
+XXXVI. Establecimientos Tipo Inspección Federal (TIF): Las instalaciones en donde se sacrifican animales o procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal y están sujetas a regulación de la SADER en coordinación con la Secretaría de Salud de acuerdo al ámbito de competencia de cada, Secretaría y cuya certificación es a petición de parte;
 
 XXXVII. Fierro: Instrumento candente que se utiliza para marcar el ganado;
 
@@ -253,7 +257,9 @@ LXII. Productos: Resultados de la producción primaria de las especies doméstic
 
 LXIII. Punto de verificación e inspección estatal: Sitio ubicado dentro del territorio del Estado, con infraestructura para verificación e inspección, autorizada por la Secretaría;
 
-LXIV. Punto de verificación e inspección zoosanitaria: Sitio ubicado dentro del territorio del Estado, con infraestructura de diagnóstico autorizada por la SAGARPA;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
+
+LXIV. Punto de verificación e inspección zoosanitaria: Sitio ubicado dentro del territorio del Estado, con infraestructura de diagnóstico autorizada por la SADER;
 
 LXV. Rastro: Establecimiento donde se da el servicio para sacrificio de animales destinados a la alimentación humana y comercialización de sus productos;
 
@@ -263,7 +269,9 @@ LXVII. Realeo: Rastrear, perseguir, lazar y reunir a todo el ganado;
 
 LXVIII. Rebaño: Hato grande de ganado, especialmente del lanar;
 
-LXIX. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
+
+LXIX. SADER: Secretaría de Agricultura y Desarrollo Rural;
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
@@ -271,9 +279,9 @@ LXX. UMA: Unidad de cuenta, índice, base, medida o referencia establecida por e
 
 LXXI. Sanidad pecuaria: La que tiene por objeto preservar la salud y prevenir las enfermedades y plagas en los animales;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
 
-LXXII. Secretaría: Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura ( SEDAFPA);
+LXXII. Secretaría: Secretaría de Fomento Agroalimentario y Desarrollo Rural;
 
 LXXIII. Señal de sangre: Cortadas, incisiones o perforaciones que se hacen en las orejas o pliegues naturales del ganado;
 
@@ -293,9 +301,9 @@ LXXX. Tatuaje: La impresión de dibujos, letras o números indelebles en la orej
 
 LXXXI. Vías Pecuarias: Se entenderán los caminos de herradura, los de mano de obra, las veredas en general o rutas establecidas, que sigue el ganado para llegar a los embarcaderos o abrevaderos de uso común y, en general, los que sigan en su movilización de un municipio a otro, entre zonas de inspección ganadera o predios colindantes, así como las utilizadas por vehículos o transportes y personas dedicadas a la movilización de animales;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
 
-LXXXII. Volantas: Estación de verificación itinerante autorizada por la Secretaría, a cargo de un verificador pecuario;
+LXXXII. Volantas: estación de verificación itinerante autorizada por la Secretaría, a cargo de un verificador pecuario;
 
 LXXXIII. Zona apícola: Es aquella región o lugar que por sus condiciones naturales o botánicas, es susceptible para desarrollar la apicultura;
 
@@ -399,7 +407,9 @@ d. Prevenir y combatir los incendios, plagas y enfermedades de la vegetación en
 
 e. Proteger la fauna silvestre.
 
-VI. Coordinarse con la SAGARPA, así como con la Delegación de la Procuraduría Agraria en el Estado, para el correcto aprovechamiento de los recursos naturales, con la finalidad de establecer la obligación de someterse a los estudios tendientes a la conservación, mejoramiento y productividad de su pastizal;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
+
+VI. Coordinarse con la SADER, así como con la Delegación de la Procuraduría Agraria en el Estado, para el correcto aprovechamiento de los recursos naturales, con la finalidad de establecer la obligación de someterse a los estudios tendientes a la conservación, mejoramiento y productividad de su pastizal;
 
 VII. A fin de garantizar la operatividad de la movilización de ganado, así como los puntos de verificación e inspección estatal, proponer al Gobernador del Estado, para su inclusión en el Presupuesto Anual de Egresos, los recursos necesarios que deban destinarse para cubrir los gastos de administración y operación de los puntos de verificación e inspección pecuaria que se encuentren funcionando dentro del territorio oaxaqueño o que operen bajo convenio con la autoridad federal;
 
@@ -425,9 +435,9 @@ XVII. Llevar el registro y control de los medios de identificación que permitan
 
 XVIII. Apoyar, a través de los verificadores pecuarios, el realeo de ganado, cuando así lo soliciten los productores pecuarios o una autoridad judicial con el fin de acreditar la propiedad del ganado o la comisión de un delito;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
 
-XIX. Determinar las sanciones establecidas en la presente Ley, su reglamento y demás normatividad vigente, comunicando las mismas a la Secretaría de Finanzas, para que aplique la sanción económica que se determine, empleando el procedimiento administrativo de ejecución fiscal, y a la Secretaría de la Contraloría y Transparencia Gubernamental, para los efectos de lo dispuesto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
+XIX. Determinar las sanciones establecidas en la presente Ley, su reglamento y demás normatividad vigente, comunicando las mismas a la Secretaría de Finanzas, para que aplique la sanción económica que se determine, empleando el procedimiento administrativo de ejecución fiscal, ya la Secretaria de Honestidad, Transparencia y Función Pública para los efectos de lo dispuesto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
 
 XX. Admitir, substanciar y resolver el recurso de inconformidad previsto en esta Ley y su reglamento;
 
@@ -435,7 +445,7 @@ XXI. Auxiliar al Ministerio Público en la persecución de los delitos relaciona
 
 XXII. Coordinar con las autoridades federales, estatales o municipales, el retiro del ganado que paste o transite en el derecho de vía, sin vigilancia de sus propietarios;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
 
 XXIII. Fortalecer y promover el mejoramiento genético animal a través de programas específicos de la Secretaría y de la autoridad federal competente, así como llevar el registro genealógico de razas puras en coordinación con las organizaciones pecuarias, fomentando el establecimiento de estaciones regionales de cría, bancos de semen y de embriones de reconocida calidad genética;
 
@@ -463,7 +473,7 @@ XXXIV. Organizar y mantener permanentemente actualizado el Registro Estatal de V
 
 XXXV. Celebrar por delegación del Gobernador del Estado convenios y acuerdos con las entidades federativas en materia pecuaria;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
 
 XXXVI. Elaborar y expedir el formato único de guía de tránsito, con base en los requisitos que establezca la Secretaría, cobrando por los mismos el monto señalado en la Ley de Ingresos del Estado;
 
@@ -735,11 +745,11 @@ La supervisión técnica zoosanitaria de las estaciones de cría y los centros p
 
 La Secretaría llevará un registro, en el que anotará las fechas en que fueron cubiertas las hembras por sementales registrados en el sistema de mejora genética o su semen, y los datos de identificación necesarios, a fin de tener el control de cruzamientos por especies, debiendo facilitar a las asociaciones ganaderas y a sus miembros, los medios probatorios respecto a la clase y procedencia de las crías.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 33.
 
-Los semovientes machos registrados que se destinen al servicio de apareamiento con fines lucrativos, deberán ser reconocidos por un médico veterinario zootecnista, aprobado por SAGARPA, para certificar sus condiciones reproductivas. El reconocimiento se practicará cuando menos cada tres meses y se enviará a la Secretaría, el certificado médico correspondiente. En caso de no presentarse los certificados de que se trata, se prohibirá que se continúe utilizando al animal para dicho fin.
+Los semovientes machos registrados que se destinen al servicio de apareamiento con fines lucrativos, deberán ser reconocidos por un médico veterinario zootecnista, aprobado por SADER, para certificar sus condiciones reproductivas. El reconocimiento se practicará cuando menos cada tres meses y se enviará a la Secretaría, el certificado médico correspondiente. En caso de no presentarse los certificados de que se trata, se prohibirá que se continúe utilizando al animal para dicho fin.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
@@ -1441,11 +1451,11 @@ En lo no previsto por esta Ley, su reglamento y demás relativas, las servidumbr
 
 ### CAPÍTULO II. DE LA MOVILIZACIÓN DE ANIMALES, SUS PRODUCTOS, SUBPRODUCTOS Y ESQUILMOS
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 122.
 
-Para efectos de esta Ley, la Secretaría deberá instalar en sitios estratégicos del territorio estatal, puntos de inspección y verificación que le permitan un mejor control en la introducción, movilización y salida de animales, sus productos, subproductos y esquilmos, en coordinación con la SAGARPA en materia de sanidad pecuaria.
+Para efectos de esta Ley, la Secretaría deberá instalar en sitios estratégicos del territorio estatal, puntos de inspección y verificación que le permitan un mejor control en la introducción, movilización y salida de animales, sus productos, subproductos y esquilmos, en coordinación con la SADER en materia de sanidad pecuaria.
 
 ###### ARTÍCULO 123.
 
@@ -1867,7 +1877,9 @@ Son obligatorios:
 
 I. El diagnóstico, detección, prevención, control y erradicación de las enfermedades y plagas que afecten a las especies domésticas productivas, los animales de laboratorio, de zoológico y los destinados a la producción peletera, productos, subproductos y esquilmos; y
 
-II. El control de la entrada, salida y movilización interna de los mismos en el Estado, de acuerdo con los convenios que se establezcan con la SAGARPA, de conformidad con la Ley Federal de Sanidad Animal y demás legislación aplicable.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
+
+II. El control de la entrada, salida y movilización interna de los mismos en el Estado, de acuerdo con los convenios que se establezcan con la SADER, de conformidad con la Ley Federal de Sanidad Animal y demás legislación aplicable.
 
 ###### ARTÍCULO 190.
 
@@ -1897,11 +1909,11 @@ Los médicos veterinarios que lleven a cabo vacunaciones, desparasitaciones y ef
 
 ### CAPÍTULO II. DE LAS MEDIDAS DE CONTROL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 196.
 
-En los casos de aparición de una enfermedad contagiosa en los animales y cuando ésta sea estimada peligrosa por la SEDAFP notificará a la SAGARPA quien, de considerarlo procedente, hará la declaratoria de cuarentena, pudiendo la Secretaría en ejercicio de las funciones que le confiera la SAGARPA, tomar las siguientes medidas:
+En los casos de aparición de una enfermedad contagiosa en los animales y cuando ésta sea estimada peligrosa por la Secretaría notificará a la SADER quien, de considerarlo procedente, hará la declaratoria de cuarentena, pudiendo la Secretaría en ejercicio de las funciones que le confiera la SAGARPA, tomar las siguientes medidas:
 
 I. Colocar bajo la vigilancia de sanidad y control de movilización el tránsito de los animales, sus productos, subproductos, esquilmos y despojos de éstos fuera de los límites de la propiedad, lugar o zona infectada;
 
@@ -1951,17 +1963,17 @@ Todos los vehículos que internen animales, productos y subproductos pecuarios, 
 
 ### CAPÍTULO I. LA ORGANIZACIÓN Y PROMOCIÓN
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 207.
 
-La Secretaría, en colaboración con la SAGARPA y en coordinación con la Secretaría de Turismo y Desarrollo Económico y las demás Dependencias y Entidades de la Administración Pública Estatal que correspondan conforme a sus facultades, y con la participación de las Uniones Ganaderas Regionales, fomentará la realización de exposiciones y concursos de ganado, regionales y estatales.
+La Secretaría, en colaboración con la SADER y en coordinación con la Secretaría de Turismo y Desarrollo Económico y las demás Dependencias y Entidades de la Administración Pública Estatal que correspondan conforme a sus facultades, y con la participación de las Uniones Ganaderas Regionales, fomentará la realización de exposiciones y concursos de ganado, regionales y estatales.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 208.
 
-Los jurados que califiquen serán designados por la Secretaría y la SAGARPA.
+Los jurados que califiquen serán designados por la Secretaría y la SADER.
 
 ###### ARTÍCULO 209.
 
@@ -1999,9 +2011,13 @@ I. Disfrutar de los apoyos que el Gobierno Estatal y Federal otorgue sobre apicu
 
 II. Formar parte de la Asociación de Apicultores de la localidad donde se encuentre instalada su explotación;
 
-III. Recibir el asesoramiento técnico de la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
 
-IV. Recibir de la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura la credencial que lo identifique como apicultor;
+III. Recibir el asesoramiento técnico de la Secretaría el Fomento Agroalimentario y Desarrollo Rural;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
+
+IV. Recibir de la Secretaría de Fomento Agroalimentario y Desarrollo Rural la credencial que lo identifique como apicultor;
 
 V. Participar en la integración de organismos técnicos o de consulta que se establezcan exprofeso para la protección y mejoramiento de la actividad apícola en el Estado;
 
@@ -2127,11 +2143,11 @@ IV. Si existen enfermedades o plagas que amenacen la actividad apícola; e
 
 V. Investigar si se cumplen debidamente las disposiciones de esta Ley.
 
-> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 225 Ter.
 
-Las medidas preventivas o de combate tendientes a evitar la propagación de plagas o enfermedades que afecten a las abejas que dicte la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura, serán de carácter obligatorio para los apicultores del Estado.
+Las medidas preventivas o de combate tendientes a evitar la propagación de plagas o enfermedades que afecten a las abejas que dicte la Secretaría de Fomento Agroalimentario y Desarrollo Rural, serán de carácter obligatorio para los apicultores del Estado.
 
 ### CAPÍTULO V. DE LOS SERVICIOS DE POLINIZACIÓN
 
@@ -2191,21 +2207,27 @@ XIII. Las demás que le confieran otras disposiciones legales aplicables.
 
 ### CAPÍTULO VII. DE LA MOVILIZACIÓN DE COLMENAS
 
-> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 229 Ter.
 
-Para la movilización y transportación de colmenas deberá contarse con una guía de tránsito que autorice la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura.
+Para la movilización y transportación de colmenas, deberá contarse con una guía de tránsito que autorice la Secretaría de Fomento Agroalimentario y Desarrollo Rural.
 
-> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 229 Quáter.
 
-Queda prohibida la introducción para ubicarse en el territorio de Oaxaca, colmenas de otros Estados, sin el permiso correspondiente mismo que será otorgado por la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura, debiendo portar los siguientes documentos:
+Queda prohibida la introducción para ubicarse en el territorio de Oaxaca, colmenas de otros Estados, sin el permiso correspondiente mismo que será otorgado por la Secretaría de Fomento Agroalimentario y Desarrollo Rural, debiendo portar los siguientes documentos:
 
-a) Carta de aceptación de las disposiciones legales de la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura donde va a establecerse temporalmente;
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2023)</small>
+
+a) Carta de aceptación de las disposiciones legales de la Secretaría de Fomento Agroalimentario y Desarrollo Rural donde va a establecerse temporalmente;
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
 
 b) Anuencia escrita de la Asociación de apicultores para establecerse en el lugar que indica; y
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
 
 c) Certificado de Sanidad Animal del Estado de su procedencia.
 
@@ -2221,7 +2243,9 @@ Se exceptúan de lo anterior, los núcleos y reinas que por sus características
 
 Para la movilización de las cajas con abejas el interesado deberá tomar en cuenta las siguientes medidas:
 
-I. Preferentemente deberá realizarse en horario de noche, al menos que exista una razón que exceptúe dicha condición y ésta sea presentada por escrito y autorizada por la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
+
+I. Preferentemente deberá realizarse en horario de noche, al menos que exista una razón que exceptúe dicha condición y ésta sea, presentada por escrito y autorizada por la Secretaría de Fomento Agroalimentario y Desarrollo Rural;
 
 II. Las colmenas deberán ir debidamente cubiertas con una malla que permita la ventilación, cubra la entrada y no permita la salida de las abejas; y
 
@@ -2237,13 +2261,11 @@ III. Los demás que establezca el Reglamento.
 
 Para la identificación de la propiedad de las colmenas, todo apicultor que opere dentro del Estado deberá marcarlas al frente, mediante fierro caliente, que sea visible cuando menos a una distancia de dos metros.
 
-> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 229 Octies.
 
-Todo apicultor deberá tener su marca debidamente registrada ante la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura y revalidarla en los años terminados en cero y cinco.
-
-No se registrará ninguna marca de fácil alteración, igual o de estrecha semejanza a otra ya registrada.
+Todo apicultor deberá tener su marca debidamente registrada ante la Secretaría de Fomento Agroalimentario y Desarrollo Rural y revalidarla en los años terminados en cero y cinco.
 
 > <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
 
@@ -2269,11 +2291,11 @@ Las autoridades encargadas de aplicar esta Ley, y demás servidores públicos es
 
 ### CAPÍTULO II. LAS SANCIONES Y SU APLICACIÓN
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 231.
 
-Las violaciones a las disposiciones de esta Ley y demás disposiciones que emanen de la misma, serán sancionadas administrativamente por la Secretaría, la Secretaría de la Contraloría y Transparencia Gubernamental o las autoridades municipales competentes en su caso, sin perjuicio de las penas que se le apliquen cuando sean constitutivas de un delito y el pago de daños y perjuicios correspondientes.
+Las violaciones a las disposiciones de esta Ley y demás disposiciones que emanen de la misma, serán sancionadas administrativamente por la Secretaría, la Secretaría de Honestidad, Transparencia y Función Pública o las autoridades municipales competentes en su caso, sin perjuicio de las penas que se le apliquen cuando sean constitutivas de un delito y el pago de daños y perjuicios correspondientes.
 
 ###### ARTÍCULO 232.
 
@@ -2598,3 +2620,11 @@ P.O. 10 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+P.O. 15 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO NÚM. 1445.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVIII, XXXVI, LXIV, LXIX, LXXII Y LXXXII DEL ARTÍCULO 5, LAS FRACCIONES VI, XIX, XXIII Y XXXVI DEL ARTÍCULO 9, LA FRACCIÓN II DEL ARTICULO 189, LAS FRACCIONES III Y IV DEL ARTICULO 212 BIS, EL PÁRRAFO PRIMERO Y EL INCISO a) DEL ARTÍCULO 229 QUÁTER, LOS ARTICULOS 33, 196, 207, 208, 225 TER, 229 TER, 229 QUATER, 229 SEXIES, 229 OCTIES Y 231, TODOS DE LA LEY PECUARIA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
