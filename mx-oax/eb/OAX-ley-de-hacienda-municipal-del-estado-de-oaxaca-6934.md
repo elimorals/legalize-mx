@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "2021-10-16"
+last_updated: "2023-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -709,31 +709,43 @@ Este impuesto se cobrará independientemente de lo que conforme a la Legislació
 
 ### CAPITULO I. ALUMBRADO PUBLICO
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2023)</small>
+
 ###### ARTICULO 39.
 
-Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes del municipio. Se entenderá por servicio de alumbrado público, el que el municipio otorga a la comunidad en calles, plazas, jardines y otros lugares de uso común.
+El objeto de este derecho, es la prestación del servicio de operación y mantenimiento en general a la red de alumbrado público para utilidad de los habitantes del Municipio.
+
+Se entenderá por servicio de alumbrado público, al mantenimiento en general a la red de alumbrado público, que el Municipio realice por si o mediante terceros legalmente facultados, para utilidad de los habitantes del Municipio, en vías y espacios públicos, así como el alumbrado ornamental de temporadas y otros lugares de uso común, por medio de la red de distribución de energía eléctrica.
+
+El costo total para la prestación del servicio de operación y mantenimiento en general a la red de alumbrado público, se conformará por todas aquellas cantidades que representen costo por servicios personales, sueldos, salarios, estudios, proyectos, sistemas para optimizar los servicios, compras y adquisiciones de todo tipo y el costo anual, global, general y actualizado del suministro de energía eléctrica empleados en el año inmediato anterior en la instalación, operación y mantenimiento.
+
+Para los efectos de esta sección, se entenderá por "costo anual, global, general, actualizado y erogado" la suma que resulte del total del gasto involucrado, con la prestación de este servicio por el Municipio y precisadas en este articulo, traídos a valor presente, tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio fiscal, dividiendo el Índice Nacional de Precios al Consumidor del mes de noviembre del año anterior, al que se calcula, entre el Índice Nacional de Precios al Consumidor correspondiente al mes de octubre del año pasado, al del ejercicio fiscal actual.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 40.
 
-Son sujetos de este derecho los propietarios o poseedores que se beneficie (sic) del servicio de alumbrado público que proporcione el municipio, sin importar que la fuente de alumbrado se encuentre o no ubicado precisamente frente a su predio.
+Son sujetos de este derecho los propietarios, poseedores o tenedores de predios, así como los beneficiarios directos o indirectos de inmuebles ubicados en el territorio municipal, que obtienen un beneficios (sic) directo o indirecto derivado de la prestación del servicio de operación y mantenimiento en general a la red de alumbrado público, sin importar que la fuente de iluminación se encuentre o no ubicado frente a su predio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+Se entiende como Beneficiario Directo: aquella persona que se encuentre ubicado (sic) en jurisdicción municipal que cuente con iluminación pública; y Beneficiario Indirecto: Aquella persona que se beneficie con la iluminación pública en jurisdicción municipal y que, frecuentemente utilizadas para la proximidad de su destino, y la de lugares de uso común de dominio público.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 41.
 
-Es base de este derecho el importe del consumo que los propietarios o poseedores de predios cubran a la empresa que suministre la energía eléctrica, aplicando las tasas previstas en las Leyes de Ingresos Municipales respectivas; y, sólo para el caso de que estás no se publiquen la tasa aplicable serán (sic) del 8% para las tarifas 01, 1A, 1B, 1C, 02, 03, y 07 y 4% para las tarifas OM, HM, HS, y HT.
+La base será la obtenida como resultado de dividir el costo anual global, general, actualizado y erogado por el Municipio para la prestación del servicio de operación y mantenimiento en general a la red de alumbrado público, entre el número de usuarios registrados en la empresa suministradora del servicio de energía eléctrica en el Municipio.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 42.
 
-El cobro de este derecho lo realizará la empresa suministradora del servicio, la cual hará la retención correspondiente, consignando el cargo en los recibos que expida por el consumo ordinario.
+Época de pago, esta contribución se pagará de forma mensual, bimestral, semestral o anual; a criterio y facultad del Municipio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 43.
 
-La empresa suministradora del servicio deberá enterar las cantidades recaudadas por este derecho a los Ayuntamientos del Estado, por conducto de sus Tesorerías Municipales.
+Para el recaudo de esta contribución, el Municipio lo podrá llevar a cabo por sus Tesorerías Municipales o por terceros a través de convenios que en términos de ley les permitan mayor eficiencia y eficacia en el recaudo
 
 ###### ARTICULO 44.
 
@@ -1792,3 +1804,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 15 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1449.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 39, 40, 41, 42 Y 43 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Para cumplir con los (sic) dispuesto por el artículo 53 fracción II de la Constitución Política de Estado Libre y Soberano de Oaxaca, publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
