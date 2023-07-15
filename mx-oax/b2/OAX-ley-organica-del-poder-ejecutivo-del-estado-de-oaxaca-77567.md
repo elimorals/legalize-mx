@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2023-05-19"
+last_updated: "2023-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE MAYO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -967,9 +965,7 @@ IV. Promover y consolidar acciones que generen ocupación productiva en condicio
 
 V. Gestionar las acciones para fortalecer las capacidades de la Secretaría de (sic) Trabajo, mediante la celebración de mecanismos de colaboración con organismos del sector público, privado o social nacional e internacional;
 
-(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022) (F. DE E., P.O. 19 DE MAYO DE 2023)
-
-VI. Verificar el funcionamiento de la Coordinación del Servicio Nacional de Empleo, así como las bolsas de trabajo de índole público y vigilar su funcionamiento en el Estado;
+VI. (DEROGADA, P.O. 15 DE JULIO DE 2023);
 
 VII. Contar con un banco de información e investigación estadística y archivo documental sobre temáticas laborales abiertos a personas trabajadoras, Instituciones Académicas, Organizaciones de la Sociedad Civil o Empresariales;
 
@@ -2094,6 +2090,10 @@ XX. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022)
 XXI. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
 XXII. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022) (F. DE E., P.O. 19 DE MAYO DE 2023)
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2023)</small>
+
+XXII Bis. Fomentar a través de la Coordinación del Servicio Nacional de Empleo Oaxaca, el empleo, la capacitación y el adiestramiento, así como auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capitación laboral, además de fomentar y apoyar la organización social para el trabajo, el autoempleo y la movilidad laboral;
 
 XXIII. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022)
 
@@ -4104,3 +4104,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 15 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1450.- MEDIANTE EL CUAL SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 39 Y SE ADICIONA LA FRACCIÓN XXII BIS DEL ARTÍCULO 46-A, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
