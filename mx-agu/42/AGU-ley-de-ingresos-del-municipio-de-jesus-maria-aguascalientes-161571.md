@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-jesus-maria-aguascalientes-161
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-31"
-last_updated: "2022-12-31"
+last_updated: "2023-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "AGU"
 
 LEY DE INGRESOS DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
 
 Ley publicada en la Sección Décima del Extraordinario del Número 72 del Periódico Oficial del Estado de Aguascalientes, el sábado 31 de diciembre de 2022.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO Y REFORMA DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 ###### Artículo 55.
 
