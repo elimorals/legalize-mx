@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-agua-potable-y-saneamiento-para-el-estado-de-nuevo-11020
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-03"
-last_updated: "2022-10-21"
+last_updated: "2023-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de octubre de 1997.
 
@@ -236,6 +236,22 @@ El Organismo Público denominado "Servicios de Agua y Drenaje de Monterrey", I.P
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
 El organismo rector para la elaboración de un plan maestro de la red de drenaje pluvial y de los proyectos de obras de drenaje pluvial, será "Servicios de Agua y Drenaje de Monterrey" I.P.D., así como de las supervisión de las mismas hasta su entrega recepción al nivel de gobierno que corresponda para su operación y mantenimiento, pero los costos que éstas impliquen estarán a cargo de la Federación, del Estado, de los Municipios y/o de los particulares que correspondan salvo convenio en contrario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JULIO DE 2023)</small>
+
+Se considera de interés público, la promoción y fomento de la participación de los Municipios en la construcción y rehabilitación y/o modernización de la infraestructura hidráulica estatal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JULIO DE 2023)</small>
+
+Para el efecto, el Organismo Operador y los Municipios del Etado (sic) de Nuevo León, podrán celebrar convenios de colaboración para la construcción, rehabilitación y/o modernización de la infraestructura hidráulica necesaria para prestar los servicios de agua potable y drenaje sanitario de manera eficiente en el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JULIO DE 2023)</small>
+
+Los Municipios podrán a su costa y erario llevar a cabo la construcción, rehabilitación y/o modernización de infraestructura hidráulica de su jurisdicción, previa autorización del Organismo Operador en los términos del párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JULIO DE 2023)</small>
+
+Dichos convenios deberán ajustarse a las disposiciones correspondientes de conformidad a su normativa, donde se establecen los lineamientos para el efecto de la valoración de las obras, y la forma de cuantificar y reconocer su costo por parte del organismo operador a favor del Municipio.
 
 ###### ARTICULO 16.
 
@@ -848,3 +864,11 @@ P.O. 21 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 243. SE ADICIONA UN ARTÍCULO 26 BIS A LA LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 DE LA LEY QUE CREA UNA INSTITUCIÓN PÚBLICA DESCENTRALIZADA CON PERSONALIDAD JURÍDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINARÁ “SERVICIOS DE AGUA Y DRENAJE DE MONTERREY”.]
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 391. SE REFORMA EL ARTÍCULO 15 DE LA LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO.- Para los efectos del Artículo 15, Servicios de Agua y Drenaje de Monterrey deberá emitir los lineamientos correspondientes para la colaboración entre autoridades municipales y el organismo operador estatal a más tardar 180 (ciento ochenta) días naturales posteriores a la entrada en vigor del presente Decreto.
