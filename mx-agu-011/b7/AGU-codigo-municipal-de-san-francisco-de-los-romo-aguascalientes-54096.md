@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2023-05-22"
+last_updated: "2023-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -713,6 +713,8 @@ Al ingresar al recinto el C. Presidente Constitucional de los Estado Unidos Mexi
 
 ### CAPITULO X. De las Facultades y Obligaciones del H. Ayuntamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 17 DE JULIO DE 2023)</small>
+
 ###### ARTICULO 80.
 
 El H. Ayuntamiento del Municipio de San Francisco de los Romo tiene como función general el Gobierno del Municipio y como atribuciones y facultades las siguientes:
@@ -861,9 +863,19 @@ LX. Acordar la categoría y denominación política que les corresponda a las lo
 
 LXI. Nombrar al Titular de Seguridad Pública y Movilidad Municipal; y
 
-LXII. Las demás que le confieran el presente Código, la ley en la materia, y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JULIO DE 2023)</small>
+
+LXII.- Nombrar y remover, mediante el voto de la mayoría de sus integrantes a los titulares del Órgano Interno de Control de la administración centralizada; los de las entidades de la administración municipal; las autoridades y jefaturas que establece el artículo 99 fracción IX del presente Código Municipal; así como el personal encargado de las funciones de fiscalización, así como de investigación, substanciación, y resolución de faltas administrativas en la administración pública descentralizada.
+
+El nombramiento otorgado por el H. Ayuntamiento a los titulares de los Órganos Internos de Control de la administración centralizada como de las entidades paramunicipales, no podrá tener una duración que trascienda el período constitucional por el que fue electo el propio Ayuntamiento.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE JULIO DE 2023)</small>
+
+LXIII.- Las demás que le confieran el presente Código, la ley en la materia, y otras disposiciones legales.
 
 ### CAPITULO XI. Facultades y Obligaciones del Presidente Municipal
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 17 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 81.
 
@@ -877,9 +889,9 @@ III. Dentro de su competencia, cumplir y hacer cumplir las disposiciones conteni
 
 IV. Tomar la Protesta de Ley a los Regidores y Síndico, funcionarios y empleados del Municipio;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2023)</small>
 
-V. Proponer al H. Ayuntamiento los nombramientos del Secretario del H. Ayuntamiento, del titular de Seguridad Pública y Movilidad Municipal, del Director General de Finanzas y Administración y de recaudadores de fondos de la Hacienda Municipal, así como nombrar a los demás funcionarios públicos municipales;
+V. Proponer al H. Ayuntamiento los nombramientos del Secretario del H. Ayuntamiento, del Titular de Seguridad Pública y Movilidad Municipal, del Director General de Finanzas y Administración y de recaudadores de fondos de la Hacienda Municipal, así como nombrar a los funcionarios públicos municipales cuya selección y designación no corresponda al H. Ayuntamiento;
 
 VI. Presidir y dirigir las Sesiones que deba celebrar el H. Ayuntamiento;
 
@@ -923,7 +935,11 @@ XXIII. Abstenerse de intervenir, participar o proponer la selección, nombramien
 
 XXIV. Abstenerse durante el ejercicio de sus funciones, de solicitar, aceptar, o recibir, por sí o por interpósita persona, dinero, bienes muebles o inmuebles mediante enajenación a su favor, en precio notoriamente inferior al que el bien de que se trate, tenga en el mercado ordinario o cualquier donación, empleo, cargo o comisión para sí o para las personas a que se refiere la fracción XXI y que procedan de cualquier persona física o moral, cuyas actividades profesionales o comerciales o industriales, se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión; y
 
-XXV. Las demás que le confieran las leyes, reglamentos o demás disposiciones en la materia.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2023)</small>
+
+XXV. Proponerle al H. Ayuntamiento una terna de candidatos (as) para que, luego de entrevistarlos, nombre al titular del Órgano Interno de Control de la administración centralizada.
+
+Excepto en los supuestos de los artículos 63 Bis de la Ley General de Responsabilidades Administrativas, y 38 fracción XXII de la Ley Municipal para el Estado de Aguascalientes. En cuyo caso, el H. Ayuntamiento entrevistará a la totalidad de los candidatos (as), y la Presidencia Municipal se abstendrá de participar con voz o voto en relación a la selección para el cargo correspondiente.
 
 ###### ARTICULO 82.
 
@@ -1846,6 +1862,40 @@ XXI. Establecer las bases mínimas para garantizar el derecho de acceso a la inf
 XXII. Expedir normatividad inherente a las funciones del Órgano Interno de Control del Municipio, previa aprobación del H. Ayuntamiento; y
 
 XXIII. Realizar todas aquellas actividades que sean inherentes y aplicables al área de su competencia, así como las contenidas en otras disposiciones normativas aplicables y aquellas que le encomiende él o la Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2023)</small>
+
+ARTICULO 108 BIS.- Para desempeñar cualquiera de los cargos y funciones enlistadas en el artículo 80 fracción LXII del presente Código Municipal, los candidatos (as) deberán acreditar ante el H. Ayuntamiento:
+
+I. Tener ciudadanía mexicana, con pleno goce de los derechos civiles y políticos;
+
+II. Contar con título y cédula profesional con nivel mínimo de licenciatura, en las carreras de derecho, contaduría, administración pública o áreas afines, expedidas por la autoridad competente, con reconocimiento de validez oficial;
+
+III. Contar, al día de su designación, con experiencia profesional de al menos tres años en actividades relacionadas con fiscalización de recursos públicos, auditoría gubernamental, transparencia, control interno, rendición de cuentas, responsabilidades administrativas;
+
+IV. No encontrarse inhabilitado para desempeñar un cargo público; y
+
+V. No haber sido condenado por faltas administrativas graves o de particulares, o por algún delito por hechos de corrupción o previsto como tipo penal protector de la administración pública, ni por algún otro delito doloso que haya cometido en el ejercicio de una función pública.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2023)</small>
+
+ARTICULO 108 TER.- Los cargos y funciones enlistadas en el artículo 80 fracción LXII del presente Código Municipal, los candidatos (as) deberán acreditar ante el H. Ayuntamiento:
+
+I. Tener ciudadanía mexicana, con pleno goce de los derechos civiles y políticos;
+
+II. Contar con título y cédula profesional con nivel mínimo de licenciatura, en las carreras de derecho, contaduría, administración pública o áreas afines, expedidas por la autoridad competente, con reconocimiento de validez oficial;
+
+III. Contar, al día de su designación, con experiencia profesional de al menos tres años en actividades relacionadas con fiscalización de recursos públicos, auditoría gubernamental, transparencia, control interno, rendición de cuentas, responsabilidades administrativas;
+
+IV. No encontrarse inhabilitado para desempeñar un cargo público; y
+
+V. No haber sido condenado por faltas administrativas graves o de particulares, o por algún delito por hechos de corrupción o previsto como tipo penal protector de la administración pública, ni por algún otro delito doloso que haya cometido en el ejercicio de una función pública.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2023)</small>
+
+ARTICULO 108 QUATER.- El Titular del Órgano Interno de Control y sus Autoridades serán nombrados por el H. Ayuntamiento de entre la terna propuesta por el Presidente Municipal.
+
+I. Para la integración de la terna, el Presidente Municipal emitirá una convocatoria donde se darán a conocer los requisitos, etapas y actividades a realizar durante la fase de selección de los perfiles idóneos.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
@@ -23536,3 +23586,7 @@ SEGUNDO.- Conforme a lo indicado por el artículo 96 del Código Municipal de Sa
 TERCERO.- La autoridad municipal competente para aplicar las disposiciones del Libro Octavo del Código Municipal de San Francisco de los Romo, Ags., denominado del Desarrollo Urbano, es la Dirección de Desarrollo Urbano Municipal, por lo que cualquier otra denominación que exista en ese Libro, se entenderá que se hace referencia a la citada Dirección de Desarrollo Urbano Municipal.
 
 CUARTO.- Conforme a lo previsto en el segundo párrafo del artículo 5 de la Ley del Procedimiento Administrativo para el Estado, la Dirección de Desarrollo Urbano del Municipio de San Francisco de los Romo, Ags., podrá expedir instructivos, manuales y formatos, a fin de ejercer adecuadamente las facultades que le concede el Código Municipal, así como para facilitar el ejercicio de sus derechos a la ciudadanía y los cuales previamente a su aplicación deberán publicarse en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 2023.
+
+> <small>[N. DE E. LA "REFORMA AL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE AGUASCALIENTES.]</small>
