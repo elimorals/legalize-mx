@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2023-07-13"
+last_updated: "2023-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -227,25 +227,33 @@ En lo relativo a este tipo de violencia se estará a lo dispuesto en la Ley de P
 
 ### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 7.
 
-La violencia laboral la constituye la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género.
+Violencia Laboral y Docente: Se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad.
+
+Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 8.
 
-La violencia docente se materializa por aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infringen los docentes y/o académicos o personal administrativo.
+Constituye violencia docente: aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infringen los docentes y/o académicos o personal administrativo.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 9.
 
-La violencia laboral y la docente pueden consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño y pueden en algunos casos configurar el acoso o el hostigamiento sexual, en los términos de la legislación penal del Estado.
+Constituye violencia laboral: la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, las conductas referidas en la Ley Federal del Trabajo, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley y todo tipo de discriminación por condición de género.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2023)</small>
 
-Se entiende por hostigamiento el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor.
+###### ARTÍCULO 9 Bis.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2020)</small>
+El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
 
-Se entiende por acoso sexual una forma de violencia sin que exista una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar, pero en que el agresor, con fines sexuales, usa poder que conlleva a un estado de indefensión y riesgo de la víctima.
+El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
 ### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
 
@@ -619,7 +627,9 @@ II. Desarrollar programas educativos, en todos los niveles de escolaridad, que f
 
 III. Garantizar el derecho de las mujeres a la educación, a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles.
 
-IV. Fomentar el desarrollo de la investigación multidisciplinaria encaminada a crear modelos de detección de la violencia contra las mujeres en los centros educativos;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2023)</small>
+
+IV. Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos, para que se dé una primera respuesta urgente a las alumnas que sufren algún tipo de violencia;
 
 V. Incorporar en los programas educativos, en todos los niveles de la instrucción, de competencia estatal, el respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta social y cultural que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
 
@@ -1246,6 +1256,14 @@ Artículo Cuarto. Se deroga cualquier disposición legal o reglamentaria de igua
 P.O. 13 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 244 POR EL QUE "SE ADICIONA UN ARTÍCULO 2 QUATER A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 17 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 245 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 7, 8 Y 9, LA FRACCIÓN IV DEL ARTÍCULO 27 Y SE ADICIONA UN ARTÍCULO 9 BIS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE”.]
 
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
