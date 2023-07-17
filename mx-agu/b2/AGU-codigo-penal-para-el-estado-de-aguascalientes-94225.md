@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-07-03"
+last_updated: "2023-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1581,15 +1581,7 @@ III. Que el resultado lesivo se prolongue por más de 8 días.
 
 ###### ARTÍCULO 136.
 
-Desaparición forzada de personas. La Desaparición Forzada de Personas consiste en:
-
-I. Detener y mantener oculta a una o varias personas; o
-
-II. Autorizar, apoyar o consentir que otros lo hagan sin reconocer la existencia de tal privación o negar información sobre su paradero.
-
-Tales acciones solo podrán imputarse a los servidores públicos del Estado de Aguascalientes que las lleven a cabo con motivo de sus atribuciones.
-
-Al responsable de la Desaparición Forzada de Personas se le aplicarán de 10 a 30 años de prisión, de 300 a 600 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y con inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos.
+(DEROGADO, P.O. 17 DE JULIO DE 2023)
 
 ###### ARTÍCULO 137.
 
@@ -3838,3 +3830,15 @@ P.O. 3 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 387.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+– El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+– Los procesos penales iniciados durante la vigencia del artículo 136 del Código Penal para el Estado de Aguascalientes, deberán seguirse conforme al tipo penal y sus sanciones respectivas, según lo previsto en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, previa reposición del procedimiento, sin que ello signifique la doble sanción por un mismo hecho delictivo en perjuicio del particular.
