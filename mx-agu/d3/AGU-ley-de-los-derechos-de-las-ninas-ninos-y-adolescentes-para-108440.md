@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-07-03"
+last_updated: "2023-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -929,6 +929,14 @@ Las autoridades estatales y municipales estarán obligadas, en el ámbito de sus
 
 La legislación Civil del Estado establecerá como edad mínima para contraer matrimonio los 18 años.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2023)</small>
+
+Las autoridades del Estado y de los municipios, en el ámbito de sus respectivas competencias deberán adoptar medidas integrales para la protección de niñas, niños y adolescentes contra las prácticas nocivas de cesión a título oneroso o gratuito con fines de unión formal e informal o consuetudinarias.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2023)</small>
+
+Estas medidas deberán establecer acciones afirmativas respecto a niñas, niños y adolescentes con discapacidad, en situación de movilidad o exclusión social.
+
 ### CAPÍTULO IX. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
 ###### Artículo 46.
@@ -1285,9 +1293,11 @@ En poblaciones predominantemente indígenas, las autoridades a que se refiere es
 
 Asimismo, las autoridades a que se refiere este artículo dispondrán lo necesario para garantizar que niñas, niños y adolescentes con discapacidad cuenten con los sistemas de apoyo para ejercer su derecho a la libertad de expresión, acceso a la información y sistema de apoyo para la expresión de su voluntad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2023)</small>
+
 ###### Artículo 65.
 
-Niñas, niños y adolescentes tienen derecho al libre acceso a la información. Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias promoverán la difusión de información y material que tengan por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural y salud física y mental. Los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia como primeros responsables, orientarán y supervisarán a niñas, niños y adolescentes en el ejercicio de este derecho, a fin de que contribuya a su desarrollo integral.
+Niñas, niños y adolescentes tienen derecho al libre acceso a la información. Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias promoverán la difusión de información y material que tengan por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural y salud física y mental; incluyendo, en su caso, formatos de fácil lectura y comprensión para niñas, niños y adolescentes con perspectiva de Derechos Humanos. Los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia como primeros responsables, orientarán y supervisarán a niñas, niños y adolescentes en el ejercicio de este derecho, a fin de que contribuya a su desarrollo integral.
 
 El Sistema Nacional de Protección acordará lineamientos generales sobre la información y materiales para difusión entre niñas, niños y adolescentes, conforme a lo dispuesto en esta Ley.
 
@@ -1321,9 +1331,11 @@ Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito 
 
 La familia, sociedad y comunidad promoverán las acciones tendientes al ejercicio del derecho de participación en sus respectivos ámbitos.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2023)</small>
+
 ###### Artículo 70.
 
-Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan.
+Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan; incluyendo, en su caso, formatos de fácil lectura y comprensión para niñas, niños y adolescentes con perspectiva de Derechos Humanos.
 
 ###### Artículo 71.
 
@@ -2894,3 +2906,23 @@ P.O. 3 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 389.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones previstas en leyes y reglamentos que se opongan al mismo.
+
+P.O. 17 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 390.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
