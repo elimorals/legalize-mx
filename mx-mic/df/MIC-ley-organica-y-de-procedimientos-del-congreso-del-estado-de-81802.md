@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2023-06-21"
+last_updated: "2023-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -3983,6 +3983,66 @@ III. La Junta deberá presentar para su discusión y aprobación al Pleno el pro
 
 Si el Pleno aprueba su presentación, el Presidente deberá dar curso en tiempo y forma ante la Suprema Corte de Justicia de la Nación, en ningún caso tardará más de tres días hábiles después de haber sido votada.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE JULIO DE 2023)</small>
+
+## TÍTULO TERCERO. DE LA SOLUCIÓN DE CONFLICTOS POR LÍMITES TERRITORIALES ENTRE LOS MUNICIPIOS DEL ESTADO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE JULIO DE 2023)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 320.
+
+El Congreso está facultado constitucionalmente para conocer y resolver los conflictos por límites territoriales entre los municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 321.
+
+Los Ayuntamientos que constaten una afectación en sus límites territoriales, siempre y cuando se considere la existencia de una discrepancia o conflicto sobre sus jurisdicciones municipales, podrán solicitar al Congreso su intervención para la solución de los mismos, atendiendo previamente lo establecido en la Ley Orgánica Municipal del Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE JULIO DE 2023)</small>
+
+### CAPÍTULO SEGUNDO. PROCEDIMIENTO COMÚN
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 322.
+
+Las vías de solución de conflictos por límites territoriales de los municipios, que podrán ser sometidas a la consideración del Congreso, serán las siguientes:
+
+I. Convenio: Cuando los Ayuntamientos llegan a un acuerdo amistoso, sobre sus respectivos límites territoriales; y,
+
+II. Vía Adversarial: Con base en las disposiciones presentadas por la Comisión de Fortalecimiento Municipal y Límites Territoriales.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 323.
+
+Los conflictos en esta materia, podrán solucionarse mediante el siguiente procedimiento:
+
+I. La Presidenta o Presidente del Municipio, presentará solicitud a la Presidencia del Congreso, remitiendo además copia certificada del acta de la sesión de Cabildo que contenga el acuerdo respectivo y podrá sustentar su petición, con los planos cartográficos y demás información oficial;
+
+II. La solicitud, se dará cuenta al Pleno en la sesión más próxima a celebrarse, la cual será turnada para su estudio, análisis y dictamen a la Comisión de Fortalecimiento Municipal y Límites Territoriales;
+
+III. La Comisión, analizará y revisará la documentación que presenten los Municipios, a efecto de verificar que no existan irregularidades u omisiones, en caso de haberlos se comunicará a los interesados para que las subsanen a la brevedad posible;
+
+IV. La Comisión podrá citar y notificar a las partes, para iniciar con el procedimiento, a través de la persona titular de la Presidencia o Sindicatura Municipal;
+
+V. La Comisión mediante acuerdo de la misma, podrá solicitar al Instituto Nacional de Estadística y Geografía, al Archivo General e Histórico del Poder Ejecutivo de Michoacán u otra institución, el apoyo técnico para la delimitación territorial de los municipios en conflicto; y,
+
+VI. La Comisión por medio del dictamen respectivo, presentará al Pleno proyecto de Decreto para determinar los límites territoriales de los municipios en conflicto y realizará las reformas a la Ley Orgánica de División Territorial de Michoacán. El dictamen para su aprobación, requerirá del voto de la mayoría de los diputados presentes.
+
+El Decreto del Congreso, relativo a la solución de conflictos por límites territoriales entre los municipios del Estado, se notificará a los Poderes del Estado y de la Unión, a la Fiscalía General del Estado y de la República, al Instituto Electoral de Michoacán, Instituto Nacional Electoral, Instituto Registral y Catastral del Estado, Instituto Nacional de Estadística y Geografía, y demás autoridades que se determinen, para en su caso, reordenar y modificar los registros, programas y servicios municipales, estatales y nacionales de los habitantes de las demarcaciones territoriales, para todos los efectos legales a que haya lugar. Asimismo, el Decreto, deberá ser notificado a los municipios en conflicto, a efecto de que se coordinen y garanticen los servicios públicos municipales a sus habitantes, conforme a los límites territoriales establecidos y lo mandatado por la Constitución del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 324.
+
+El Congreso, comunicará al Titular del Poder Ejecutivo del Estado quien dispondrá lo conducente para que, con el apoyo del Instituto Nacional de Estadística y Geografía y la presencia de las partes, se proceda realizar la demarcación material de los límites territoriales establecidos en el decreto.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al momento de su aprobación, notifíquese al Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
@@ -4546,6 +4606,14 @@ Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicac
 P.O. 21 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 386 POR EL QUE "SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 15; EL TERCER PÁRRAFO DEL ARTÍCULO 17; EL ARTÍCULO 19; EL PRIMER PÁRRAFO DEL ARTÍCULO 20; EL PRIMER PÁRRAFO DEL ARTÍCULO 42 Y EL TERCER PÁRRAFO DEL ARTÍCULO 212; Y, SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 17 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 17 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 381 POR EL QUE ”SE ADICIONA UN TÍTULO TERCERO, UN CAPÍTULO PRIMERO Y SEGUNDO; Y, LOS ARTÍCULOS, 320, 321, 322; 323 Y 324, AL LIBRO TERCERO, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
