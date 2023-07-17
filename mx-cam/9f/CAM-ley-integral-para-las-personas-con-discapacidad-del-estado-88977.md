@@ -4,7 +4,7 @@ identifier: "CAM-ley-integral-para-las-personas-con-discapacidad-del-estado-8897
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-19"
-last_updated: "2023-05-31"
+last_updated: "2023-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 19 de julio de 2012.
 
@@ -397,9 +397,25 @@ XI. Promover que los estudiantes presten apoyo a personas con discapacidad que a
 
 XII. Diseñar e implementar campañas educativas de sensibilización y difusión de los derechos de las personas con discapacidad, desde un enfoque de derechos humanos respetuoso de la diversidad y a favor de la inclusión;
 
-XIII. Normar para que las anteriores disposiciones sean observadas con carácter obligatorio por el sistema de educación pública y privada; y
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2023)</small>
 
-XIV. Las demás que dispongan otros ordenamientos.
+XIII. Normar para que las anteriores disposiciones sean observadas con carácter obligatorio por el sistema de educación pública y privada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JULIO DE 2023)</small>
+
+XIV. Supervisar y garantizar un trato digno y apropiado a los estudiantes y docentes con discapacidad;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2023)</small>
+
+XV. Procurar la existencia del mobiliario y material didáctico que requieran los estudiantes y docentes con discapacidad;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2023)</small>
+
+XVI. Promover la implementación de cursos de verano específicos para personas con discapacidad;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE JULIO DE 2023)</small>
+
+XVII. Las demás que dispongan otros ordenamientos.
 
 ###### Artículo 15.
 
@@ -910,3 +926,13 @@ P.O. 31 DE MAYO DE 2023.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se oponga al presente decreto.
+
+P.O. 17 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 246 POR EL QUE “SE REFORMAN LAS FRACCIONES XIII Y XIV Y SE ADICIONAN LAS FRACCIONES XV, XVI Y XVII DEL ARTÍCULO 14 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. La Secretaría de Educación Estatal, adoptará las medidas pertinentes para la observancia de lo dispuesto en el presente decreto, de conformidad con la disponibilidad presupuestal del ejercicio fiscal correspondiente.
+
+Artículo Tercero. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
