@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-de-las-juventudes-del-148895"
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-03"
-last_updated: "2021-05-11"
+last_updated: "2023-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 3 de abril de 2021.
 
@@ -265,25 +265,39 @@ VII. Promover las prácticas profesionales en los sectores públicos y privados 
 
 VIII. Propiciar la accesibilidad e inclusión, considerando la implementación de ajustes razonables necesarios para el desarrollo de las juventudes, prestando especial atención a los grupos en situación de vulnerabilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2023)</small>
+
 ###### Artículo 10.
 
-En materia de salud, las juventudes tiene (sic) derecho a:
+En materia de salud, las juventudes tienen derecho a:
 
 I. Recibir la protección de la salud, la atención médica primaria del más alto nivel posible, así como al cuidado especializado de su salud, a la salud sexual y reproductiva de la más alta calidad, acceso a métodos y tecnologías anticonceptivas y de prevención de enfermedades de transmisión sexual, independientemente de su orientación sexual e identidad o expresión de género;
 
 II. Recibir la información y atención adecuada de calidad para ejercer responsablemente su sexualidad y reproducción;
 
-III. Acceder a programas eficaces de prevención y atención de adicciones que eviten el uso y abuso de sustancias y prácticas que generen dependencia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE JULIO DE 2023)</small>
 
-IV. Recibir información y tratamiento sobre trastornos alimenticios, procurando una alimentación saludable y la procuración de parte del estado y municipios a la seguridad alimentaria;
+III. Recibir información preventiva respecto del virus de la inmunodeficiencia humana (VIH) a través de talleres, pláticas y campañas continuas realizadas por la autoridad de salud estatal y municipal competentes;
 
-V. Dentro del marco normativo aplicable, acceder a todos los servicios médicos y de salud de acuerdo a los estándares señalados en las normas oficiales mexicanas y parámetros internacionales especializados;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE JULIO DE 2023)</small>
 
-VI. La rehabilitación o tratamiento para personas con discapacidad y acceso de éstas a los servicios de salud;
+IV. Acceder de manera gratuita e informada a los servicios de detección oportuna de la infección del virus de la inmunodeficiencia humana (VIH) cuyo resultado será confidencial;
 
-VII. La salud física y a la salud mental; y
+V. Acceder a programas eficaces de prevención y atención de adicciones que eviten el uso y abuso de sustancias y prácticas que generen dependencia;
 
-VIII. Recibir información y tratamiento integral multidisciplinario referente a la prevención y tratamiento sobre la conducta suicida, a fin de evitar sus consecuencias.
+VI. Recibir información y tratamiento sobre trastornos alimenticios, procurando una alimentación saludable y la procuración de parte del estado y municipios a la seguridad alimentaria;
+
+VII. Dentro del marco normativo aplicable, acceder a todos los servicios médicos y de salud de acuerdo a los estándares señalados en las normas oficiales mexicanas y parámetros internacionales especializados;
+
+VIII. La rehabilitación o tratamiento para personas con discapacidad y acceso de éstas a los servicios de salud;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE JULIO DE 2023)</small>
+
+IX. La salud física y a la salud mental; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE JULIO DE 2023)</small>
+
+X. Recibir información y tratamiento integral multidisciplinario referente a la prevención y tratamiento sobre la conducta suicida, a fin de evitar sus consecuencias.
 
 ###### Artículo 11.
 
@@ -846,3 +860,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
 
 TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
+
+P.O. 18 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29212/LXIII/23 QUE MODIFICA LAS FRACCIONES III Y IV RECORRIÉNDOSE SU CONTENIDO ACTUAL A LAS SUBSECUENTES, ADICIONÁNDOSE LAS FRACCIONES IX Y X DEL ARTÍCULO 10 DE LA LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES DEL ESTADO DE JALISCO”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
