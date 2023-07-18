@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-bienestar-animal-del-estado-de-quintana-139
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2023-05-31"
+last_updated: "2023-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2023.
 
 Ley publicada en el Número 133 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 25 de noviembre de 2019.
 
@@ -105,7 +105,9 @@ XV. De acuarios y delfinarios.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Animal: Ser orgánico, no humano, vivo, sensible, que posee movilidad propia y capacidad de respuesta a los estímulos del medio ambiente.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2023)</small>
+
+I. Animal: Ser orgánico, no humano, vivo, sintiente, sensible que posee movilidad propia y capacidad de respuesta a los estímulos del medio ambiente.
 
 II. Animal Abandonado: Aquel animal que quede sin el cuidado o protección de sus proveedores o cuidadores, sean estos temporales o permanentes;
 
@@ -1470,3 +1472,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La persona titular del Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de su competencia y en un plazo de ciento ochenta días naturales posteriores a la entrada en vigor del presente decreto, deberán realizar las adecuaciones correspondientes a los reglamentos de la materia.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 091 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 4 DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, previa publicación en dicho órgano oficial del decreto por el que se adiciona un párrafo sexto y se recorren en su orden los subsecuentes al artículo 31 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Poder Ejecutivo, así como los Ayuntamientos del Estado contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente decreto, para que dentro del ámbito de sus respectivas facultades y competencias, realicen las adecuaciones necesarias a las disposiciones reglamentarias correspondientes, para apegarse a lo dispuesto en este Decreto.
