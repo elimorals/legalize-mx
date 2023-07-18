@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2023-06-03"
+last_updated: "2023-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -735,7 +735,9 @@ Se puede revocar el mandato de los miembros del Ayuntamiento por alguna de las s
 
 I. Por reincidir en las causales de suspensión establecidas en el artículo 23, con excepción de la fracción VI;
 
-II. Por incapacidad permanente física o mental; o
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2023)</small>
+
+II. Por incapacidad permanente física o mental, que impida el desempeño de sus funciones; o
 
 III. Porque exista sentencia judicial por delito doloso que haya causado estado, en la que se imponga como sanción la inhabilitación o cuando la pena impuesta exceda del término de su ejercicio.
 
@@ -3524,3 +3526,9 @@ P.O. 3 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29180/LXIII/23 QUE REFORMA LOS ARTÍCULOS 36 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN, Y 67 SEXIES DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29214/LXIII/23 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 24, DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
