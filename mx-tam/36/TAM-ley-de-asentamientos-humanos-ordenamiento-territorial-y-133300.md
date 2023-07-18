@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asentamientos-humanos-ordenamiento-territorial-y-133300"
 country: "mx"
 rank: "ley"
 publication_date: "2019-02-05"
-last_updated: "2023-07-13"
+last_updated: "2023-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 5 de febrero de 2019.
 
@@ -3475,31 +3475,41 @@ Quienes incurran en la reiteración de la conducta constitutiva de infracción, 
 
 Las sanciones aplicables por las infracciones establecidas en el artículo 277, serán las siguientes:
 
-I. A quien se encuentre en el supuesto establecido en la fracción I, del artículo 277, se le aplicará una sanción consistente en la rescisión del convenio, y multa de 500 a 1,000 la Unidad de medida y Actualización prevaleciente en la zona económica de que se trate;
+> <small>(REFORMADA. P.O. 18 DE JULIO DE 2023)</small>
 
-II. A quien se encuentre en alguno de los supuestos contemplados en las fracciones III, V y VI, del artículo 277, de esta Ley, la suspensión o demolición de construcciones e instalaciones, y multa de 3,000 a 5,000 veces el valor diario de la Unidad de Medida y Actualización. Si la construcción tiene como fin albergar centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales, las sanciones aplicables serán suspensión, demolición o clausura, y multa equivalente al importe de cinco mil a diez mil veces el valor diario de la Unidad de Medida y Actualización;
+I. A quien se encuentre en el supuesto establecido en la fracción I, del artículo 277, se le aplicará una sanción consistente en la rescisión del convenio, y multa de 200 a 1,000 veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 7 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA. P.O. 18 DE JULIO DE 2023)</small>
 
-III. A quien se encuentre en el supuesto contemplado en las fracciones II y IV, del artículo 277, se le aplicará una sanción consistente en la suspensión o demolición de construcciones e instalaciones, y suspensión de permisos o autorizaciones para construir o realizar cualquier tipo de obra en ese mismo predio por un plazo de seis a diez meses, y multa de 4,000 a 6,000 veces la Unidad de Medida y Actualización prevaleciente en la zona económica de que se trate;
+II. A quien se encuentre en alguno de los supuestos contemplados en las fracciones III, V y VI, del artículo 277, de esta Ley, la suspensión o demolición de construcciones e instalaciones, y multa de 1,000 a 5,000 veces el valor diario de la Unidad de Medida y Actualización. Si la construcción tiene como fin albergar centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales, las sanciones aplicables serán suspensión, demolición o clausura, y multa equivalente al importe de cinco mil a diez mil veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA. P.O. 18 DE JULIO DE 2023)</small>
 
-En el caso de la fracción II, inciso e), del artículo 277, ante la actitud contumaz de no realizar el protocolo de la escrituración del área de cesión a favor del municipio, al fraccionador se le aplicará además, la sanción consistente en la revocación de los permisos o autorizaciones para construir o realizar cualquier tipo de obra dentro de dicho predio;
+III. A quien se encuentre en el supuesto contemplado en las fracciones II y IV, del artículo 277, se le aplicará una sanción consistente en la suspensión o demolición de construcciones e instalaciones, y suspensión de permisos o autorizaciones para construir o realizar cualquier tipo de obra en ese mismo predio por un plazo de seis a diez meses, y multa de 2,000 a 6,000 veces el valor diario de la Unidad de Medida y Actualización. En el caso de la fracción II, inciso e), del artículo 277, ante la actitud contumaz de no realizar el protocolo de la escrituración del área de cesión a favor del municipio, al fraccionador se le aplicará además, la sanción consistente en la revocación de los permisos o autorizaciones para construir o realizar cualquier tipo de obra dentro de dicho predio;
 
-IV. A quien se encuentre en el supuesto contemplado en la fracción VII, del artículo 27 78 (sic), la revocación en su caso, de las autorizaciones y permisos otorgados, y multa que será de 2,500 a 4,500 veces el valor diario de la Unidad de Medida y Actualización. Si el uso dado está relacionado con la instalación u operación de centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales, las sanciones aplicables serán la revocación y multa equivalente al importe de 5,000 a 10,000 veces el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADA. P.O. 18 DE JULIO DE 2023)</small>
+
+IV. A quien se encuentre en el supuesto contemplado en la fracción VII, del artículo 277, la revocación en su caso, de las autorizaciones y permisos otorgados, y multa que será de 1,000 a 4,500 veces el valor diario de la Unidad de Medida y Actualización. Si el uso dado está relacionado con la instalación u operación de centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales, las sanciones aplicables serán la revocación y multa equivalente al importe de 5,000 a 10,000 veces el valor diario de la Unidad de Medida y Actualización;
 
 V. A quien se encuentre en el supuesto que establece la fracción VIII, del artículo 277, se le impondrá multa de 3,000 a 5,000 veces la Unidad de Medida y Actualización prevaleciente en la zona económica de que se trate;
 
-VI. A quien se encuentre en el supuesto que establece la fracción IX, del artículo 277, se le impondrá multa de 3,000 a 5,000 veces la Unidad de Medida y Actualización prevaleciente en la zona económica de que se trate;
+> <small>(REFORMADA. P.O. 18 DE JULIO DE 2023)</small>
 
-VII. A quien se encuentre en el supuesto que establece la fracción X, del artículo 277, se le impondrá multa de 5,000 a 7,500 veces la Unidad de Medida y Actualización prevaleciente en la zona económica de que se trate; y
+VI. A quien se encuentre en el supuesto que establece la fracción IX, del artículo 277, se le impondrá multa de 500 a 1,000 veces el valor diario de la Unidad de Medida y Actualización;
 
-VIII. A quien se encuentre en el supuesto que establece la fracción XI, del artículo 277, se le impondrá multa de 500 a 1,000 la Unidad de Medida y Actualización prevaleciente en la zona económica de que se trate.
+> <small>(REFORMADA. P.O. 18 DE JULIO DE 2023)</small>
+
+VII. A quien se encuentre en el supuesto que establece la fracción X, del artículo 277, se le impondrá multa de 3,500 a 7,500 veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA. P.O. 18 DE JULIO DE 2023)</small>
+
+VIII. A quien se encuentre en el supuesto que establece la fracción XI, del artículo 277, se le impondrá multa de 100 a 500 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO. P.O. 18 DE JULIO DE 2023)</small>
 
 ###### Artículo 280.
 
-A la persona física o moral que sin autorización alguna realice fusiones, divisiones, subdivisiones y relotificaciones de cualquier tipo de suelo, se le impondrá una sanción de 5,000 a 10,000 veces la Unidad de Medida y Actualización prevaleciente en la zona económica de que se trate, sea propietario o no de dicho terreno.
+A la persona física o moral que sin autorización alguna realice fusiones, divisiones, subdivisiones y relotificaciones de cualquier tipo de suelo, se le impondrá una sanción de 2,000 a 10,000 veces el valor diario de la Unidad de Medida y Actualización, sea propietario o no de dicho terreno.
 
 ###### Artículo 281.
 
@@ -3510,6 +3520,30 @@ Adicionalmente, los ayuntamientos impondrán las sanciones que en esta materia p
 ###### Artículo 282.
 
 Corresponde al Estado y a las autoridades municipales, en el ámbito de sus respectivas competencias, decretar e imponer las sanciones previstas en este ordenamiento.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JULIO DE 2023)</small>
+
+La autoridad administrativa fundará y motivará su resolución, considerando:
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2023)</small>
+
+I. Los daños que se hubieren producido o puedan producirse;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2023)</small>
+
+II. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2023)</small>
+
+III. La gravedad de la infracción;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2023)</small>
+
+IV. La reincidencia del infractor; y
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2023)</small>
+
+V. La capacidad económica del infractor.
 
 ###### Artículo 283.
 
@@ -3599,9 +3633,11 @@ Al emitir resolución, la autoridad competente motivará y fundará la razón de
 
 La falta de actuación del recurrente por causas imputables a su persona durante el término de treinta días naturales, producirá la caducidad del procedimiento. La autoridad competente acordará el archivo de las actuaciones, notificándoselo al interesado.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2023)</small>
+
 ###### Artículo 299.
 
-En contra de la resolución que resuelva el recurso de reconsideración, no procede recurso administrativo alguno.
+En contra de la resolución que resuelva el recurso de reconsideración, las partes podrán acceder al juicio contencioso administrativo ante el Tribunal de Justicia Administrativa del Estado de Tamaulipas, de conformidad con lo previsto en la Ley del Procedimiento Contencioso Administrativo del Estado de Tamaulipas.
 
 ###### Artículo 300.
 
@@ -3724,3 +3760,15 @@ P.O. 13 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 65-603 MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los municipios del Estado deberán implementar los mecanismos necesarios para regularizar los asentamientos humanos de usos habitacionales, comerciales, de servicios, industriales, espacios abiertos e infraestructura, de acuerdo a las competencias establecidas en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas, estableciendo plazos necesarios para tales efectos, pudiendo abstenerse de imponer sanciones económicas durante estos periodos.
