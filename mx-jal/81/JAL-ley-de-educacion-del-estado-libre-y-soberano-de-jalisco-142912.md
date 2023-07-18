@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2023-04-20"
+last_updated: "2023-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2023.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -303,13 +303,15 @@ VII. Será inclusiva, al tomar en cuenta las diversas capacidades, circunstancia
 
 VIII. Será intercultural, al promover la convivencia armónica entre personas y pueblos y comunidades indígenas sobre la base del respeto a sus diferentes concepciones, opiniones, tradiciones, costumbres y modos de vida y del reconocimiento de sus derechos, en un marco de inclusión social;
 
-IX. Será integral porque educará para la vida y estará enfocada a las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan favorecer al autocuidado, alcanzar su bienestar y contribuir al desarrollo social; y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2023)</small>
+
+IX. Será integral porque educará para la vida y estará enfocada a las capacidades y desarrollo de la inteligencia emocional, las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan favorecer al autocuidado, alcanzar su bienestar y contribuir al desarrollo social; y
 
 X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad.
 
 Acciones de la autoridad educativa estatal
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 16 DE JULIO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE JULIO DE 2023)</small>
 
 ###### Artículo 15.
 
@@ -319,7 +321,9 @@ I. Programas Culturales;
 
 II. Programas de preservación y mejoramiento de la salud;
 
-III. Programas de mejoramiento del medio ambiente, preservación ecológica y desarrollo sustentable;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2023)</small>
+
+III. Programas de conocimiento y mejoramiento del medio ambiente, los efectos del cambio climático, preservación ecológica y desarrollo sustentable, para su conservación, prevención y mitigación;
 
 IV. Fomento del desarrollo artístico y artesanal;
 
@@ -1181,11 +1185,17 @@ La autoridad educativa estatal creará para cada educando desde educación inici
 
 La información del expediente al que se refiere este artículo se proporcionará a la autoridad educativa federal en los términos que señale para actualizar el Sistema de Información y Gestión Educativa previsto en la Ley General de Educación.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2023)</small>
+
 Servicios de orientación educativa, de trabajo social, de salud escolar y de psicología
 
 ###### Artículo 75.
 
-La autoridad educativa estatal ofrecerá servicios de orientación educativa, de trabajo social, salud escolar y de psicología desde la educación básica hasta la educación superior, de acuerdo y a las necesidades de cada plantel y de manera gradual, a fin de fomentar una conciencia crítica que perfile a los educandos en la selección de su formación a lo largo de la vida para su desarrollo personal y contribuir al bienestar de sus comunidades.
+La autoridad educativa estatal ofrecerá servicios de orientación educativa, de trabajo social, salud escolar y de psicología desde la educación básica hasta la educación superior, para detectar los signos tempranos de trastornos mentales, psicoemocionales y de comportamiento, y de mitigar los factores de riesgo en la comunidad educativa y fomentar su desarrollo integral.
+
+Fomentará una conciencia crítica que perfile a los educandos en la selección de su formación a lo largo de la vida para su desarrollo personal y contribuir al bienestar de sus comunidades.
+
+Preferentemente contarán con profesionistas en las disciplinas de trabajo social, de psicología clínica y educativa, y personal docente capacitado en la materia, de manera gradual y de acuerdo a las necesidades de cada plantel.
 
 ### Capítulo II. Del fomento de estilos de vida activa y saludable en el proceso educativo y en el entorno escolar
 
@@ -2628,3 +2638,19 @@ CUARTO. En la medida de lo posible el Poder Ejecutivo y la Secretaría de Educac
 QUINTO. Se autoriza a la Secretaria de la Hacienda Pública a realizar las adecuaciones presupuestales en el Presupuesto de Egresos del ejercicio fiscal 2023 a efecto de dar cumplimiento al presente decreto.
 
 SEXTO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará progresivamente las acciones establecidas en el presente decreto.
+
+P.O. 18 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29202/LXIII/23 QUE REFORMA LOS ARTÍCULOS 14 FRACCIÓN IX Y 75 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; Y REFORMA LA FRACCIÓN XVII, ADICIONA LA FRACCIÓN XVIII DEL ARTÍCULO 42 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
+
+P.O. 18 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29209/LXIII/23 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
