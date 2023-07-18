@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-promover-la-igualdad-prevenir-y-eliminar-11092
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2021-07-06"
+last_updated: "2023-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2023.
 
 Ley publicada en la Sección LXIV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -547,6 +547,20 @@ I. Fomentar con ayuda de organizaciones de la sociedad civil la instalación de 
 
 II. Garantizar la atención en establecimientos públicos de salud a las personas migrantes, refugiadas y solicitantes de asilo.
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2023)</small>
+
+###### Artículo 31 Bis.
+
+Las medidas a favor de la inclusión y de la igualdad de trato y oportunidades para las personas con enfermedades crónicas y degenerativas, de manera enunciativa son las siguientes:
+
+I. Promover el acceso a los servicios públicos de salud para que reciban regularmente atención integral, detección, orientación, tratamiento; medicamentos para las diferentes enfermedades crónicas y degenerativas, a fin de mantener, aumentar su capacidad funcional como su calidad de vida;
+
+II. Crear programas de ingreso, permanencia y capacitación para el empleo, en el mercado laboral para personas con enfermedades crónicas y degenerativas;
+
+III. Fortalecer la participación y promoción laboral de las personas con enfermedades crónicas y degenerativas en las diversas dependencias de los poderes ejecutivo, legislativo y judicial en el Estado; y
+
+IV. Garantizar mecanismos para la denuncia por motivos de violencia o discriminación.
+
 ### CAPÍTULO III. DEL CONSEJO PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO
 
 #### SECCIÓN PRIMERA. DENOMINACIÓN, OBJETO, DOMICILIO E INTEGRACIÓN
@@ -1006,3 +1020,9 @@ P.O. 6 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28409/LXII/21 QUE REFORMA EL ARTÍCULO 37 DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 18 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29210/LXIII/23 QUE ADICIONA EL ARTÍCULO 31 BIS DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO, EN MATERIA DE ENFERMEDADES CRÓNICA DEGENERATIVAS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
