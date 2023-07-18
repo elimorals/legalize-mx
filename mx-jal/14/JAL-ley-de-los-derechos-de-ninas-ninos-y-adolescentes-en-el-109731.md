@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2023-03-28"
+last_updated: "2023-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2023.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -727,13 +727,17 @@ XIV. Brindar atención y orientación sensible y libre de discriminación a las 
 
 XV. Contribuir a garantizar la permanencia y conclusión de la educación básica y media superior de niñas, niños y adolescentes, de manera presencial o a distancia, así como para abatir el ausentismo, abandono y descerción (sic) escolares;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2023)</small>
 
-XVI. Fomentar el uso responsable y seguro de las tecnologías de la información y comunicación; y
+XVI. Fomentar el uso responsable y seguro de las tecnologías de la información y comunicación;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE MARZO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE JULIO DE 2023)</small>
 
-XVII. Lo demás contenido en la Ley General y en las leyes de la materia.
+XVII. Fomentar el desarrollo de la inteligencia emocional individual y colectiva, para que propicie la sana convivencia social; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE JULIO DE 2023)</small>
+
+XVIII. Lo demás contenido en la Ley General y en las leyes de la materia.
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes.
 
@@ -2336,3 +2340,11 @@ P.O. 28 DE MARZO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Las dependencias del Poder Ejecutivo y los municipios deberán de realizar los convenios y/o acuerdos de colaboración con las instancias correspondientes para dar cumplimiento al presente decreto.
+
+P.O. 18 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29202/LXIII/23 QUE REFORMA LOS ARTÍCULOS 14 FRACCIÓN IX Y 75 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; Y REFORMA LA FRACCIÓN XVII, ADICIONA LA FRACCIÓN XVIII DEL ARTÍCULO 42 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
