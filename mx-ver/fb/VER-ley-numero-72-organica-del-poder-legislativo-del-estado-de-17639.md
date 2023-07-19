@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2023-03-30"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -1509,7 +1509,9 @@ III. No haber sido condenado por delito intencional que amerite pena privativa d
 
 IV. No haber sido miembro de la dirigencia de algún partido político ni candidato a cargo de elección popular, en el año anterior al nombramiento.
 
-El contralor interno durará en el cargo cinco años y no podrá ser ratificado por el período inmediato, ejercerá sus funciones con autonomía técnica y de gestión.
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2023)</small>
+
+La persona titular de la Contraloría Interna durará en el cargo cinco años y podrá ser reelegida por un periodo, ejercerá sus funciones con autonomía técnica y de gestión.
 
 > <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
@@ -2056,3 +2058,11 @@ G.O. 30 DE MARZO DE 2023.
 PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 480 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO; DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS; DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE VERACRUZ; Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
