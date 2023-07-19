@@ -4,7 +4,7 @@ identifier: "BCN-ley-electoral-del-estado-de-baja-california-108836"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2022-12-30"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -47,11 +47,11 @@ LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
 ### CAPÍTULO PRIMERO. Del objeto de la ley
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, de observancia general en el Estado de Baja California y tienen por objeto dar certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y austeridad, así como garantizar la paridad de género al ejercicio de la función pública electoral.
+Las disposiciones de esta Ley son de orden público, de observancia general en el Estado de Baja California y tienen por objeto dar certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y austeridad, así como garantizar la paridad de género y el principio de igualdad sustantiva, al ejercicio de la función pública electoral.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
@@ -116,6 +116,10 @@ XVIII. Violencia política contra las mujeres en razón de género: es toda acci
 Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley de Acceso y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por algún particular o por un grupo de personas particulares.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2023)</small>
+
+XIX. Principio de igualdad sustantiva: Paridad de oportunidades en el goce y ejercicio real de los derechos político-electorales de todas las personas.
 
 ### CAPÍTULO SEGUNDO. De la ejecución y aplicación de la ley
 
@@ -295,9 +299,9 @@ Para efecto de lo previsto en el artículo 16, párrafo quinto de la Constituci�
 
 Cuando un diputado no pueda contender por el mismo distrito por el que accedió al cargo o su equivalente, podrá participar en la reelección, ya sea por el principio de mayoría relativa por cualquier demarcación territorial que conserve por lo menos una sección electoral del distrito por el que fue electo o por el principio de representación proporcional.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
 
-El Instituto Estatal Electoral del Estado de Baja California debe constatar que las postulaciones permiten el cumplimiento del principio de paridad de género.
+El Instituto Estatal Electoral del Estado de Baja California debe constatar que las postulaciones permiten el cumplimiento del principio de paridad de género y el principio de igualdad sustantiva.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -429,9 +433,13 @@ Los Presidentes Municipales, regidores y síndicos podrán ser postulados, al mi
 
 Los presidentes municipales, regidores y síndicos únicamente pueden ser electos consecutivamente para el mismo cargo que ostentan y siendo parte de una planilla integrada de conformidad con la fracción II del artículo 136 de la presente ley.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
 
-Las Presidentas o Presidentes Municipales, Regidoras o Regidores y Síndicas o Síndicos interesados en la elección consecutiva en términos de lo dispuesto en el párrafo anterior, deberán manifestarlo a su partido político por escrito y con veinte días de anticipación al inicio de las precampañas, de no hacerse en los términos antes señalados, se entenderá que no están interesados en la elección consecutiva. En virtud de lo anterior, los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatos deberán respetar el criterio de paridad de género en su aspecto cualitativo y cuantitativo.
+Las Presidentas o Presidentes Municipales, Regidoras o Regidores y Síndicas o Síndicos interesados en la elección consecutiva en términos de lo dispuesto en el párrafo anterior, deberán manifestarlo a su partido político por escrito y con veinte días de anticipación al inicio de las precampañas, de no hacerse en los términos antes señalados, se entenderá que no están interesados en la elección consecutiva. En virtud de lo anterior, los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatos deberán respetar el criterio de paridad de género en su aspecto cualitativo y cuantitativo, así como el principio de igualdad sustantiva para personas pertenecientes a una comunidad indígena o afromexicanas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2023)</small>
+
+Para los efectos de lo previsto en la última parte del párrafo anterior, las y los candidatos a las Presidencias Municipales, Regidurías y Sindicaturas, interesados en la elección consecutiva deberán acreditar con documentación actualizada al proceso electoral al que deseen participar su pertenencia a una comunidad indígena o afromexicana.
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -553,6 +561,10 @@ VI. Llevar a cabo la promoción del voto y coadyuvar al fortalecimiento y difusi
 
 VII. Garantizar la paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2023)</small>
+
+VIII. Garantizar el principio de igualdad sustantiva.
+
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 Las actividades del Instituto se llevarán a cabo con perspectiva de género y (sic) regirán por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad austeridad, paridad y se realizarán con perspectiva de género. Para el desempeño de sus actividades, el Instituto contará con un cuerpo de servidores públicos en sus órganos ejecutivos y técnicos, integrados en un Servicio Profesional Electoral conforme lo establecido en (sic) Ley General y el Estatuto que apruebe el Instituto Nacional.
@@ -587,11 +599,11 @@ IV. Los Consejos Distritales Electorales, órganos operativos.
 
 ### CAPÍTULO PRIMERO. Del Consejo General
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### Artículo 37.
 
-El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, aplicando en su desempeño la perspectiva de género, así como de velar que los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género y (sic) guíen todas las actividades del Instituto Estatal. En su desempeño aplicará la perspectiva (sic) género.
+El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, aplicando en su desempeño la perspectiva de género, así como de velar que los principios de certeza, legalidad, independencia, imparcialidad, igualdad sustantiva, máxima publicidad, objetividad, paridad de género y (sic) guíen todas las actividades del Instituto Estatal. En su desempeño aplicará la perspectiva (sic) género.
 
 ###### Artículo 38.
 
@@ -1899,9 +1911,11 @@ En el caso de que para un mismo cargo de elección popular sean registrados dife
 
 Ningún partido político o coalición podrá solicitar el registro como candidato a un cargo de elección popular, a aquel ciudadano que previamente hubiera sido solicitado su registro por otro partido político o coalición.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2023)</small>
+
 ###### Artículo 139.
 
-Los partidos políticos promoverán y garantizarán la paridad entre los géneros, en la postulación de candidatos a los cargos de elección popular para la integración del Congreso y Ayuntamientos del Estado.
+Los partidos políticos promoverán y garantizan (sic) la paridad entre los géneros, así como el principio de igualdad sustantiva, en la postulación de candidatos a los cargos de elección popular para la integración del Congreso y Ayuntamientos del Estado.
 
 El Consejo General tendrá facultades para rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
 
@@ -1915,11 +1929,27 @@ Las listas de Diputaciones por el principio de representación proporcional se i
 
 Las planillas de munícipes se integrarán alternando candidatos de género distinto, conforme a la fracción II del artículo 136 de esta Ley; asimismo, las candidaturas para el cargo de presidenta o presidente municipal deberán ser distribuidas de forma igualitaria entre ambos géneros.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2023)</small>
+
+Artículo 140 BIS.- De la totalidad de solicitudes de registro de las candidaturas a Diputaciones y Munícipes que presenten los partidos políticos o las coaliciones ante el Instituto, deberán salvaguardar el principio de igualdad sustantiva.
+
+En todo caso los partidos políticos o las coaliciones deberán de postular en sus candidaturas a diputaciones, por lo menos dos fórmulas integradas por personas de la comunidad indígena o afromexicana; así como una formula en cada una de las planillas de munícipes.
+
+El Instituto reglamentara las formas, procedimientos o métodos para acreditar, que las y los candidatos postulados bajo el principio de igualdad sustantiva, pertenecen al pueblo indígena o afromexicano que manifiestan.
+
+Sera obligación de los partidos políticos o de los titulares de las candidaturas independientes, acreditar de acuerdo con la reglamentación expedida por el Instituto, el que pertenecen al pueblo indígena o afromexicano que manifiestan.
+
+La postulación de las candidaturas que se establecen en este artículo no son limitativas, por lo que adicionalmente los partidos políticos podrán incluir más candidaturas en razón del principio de igualdad sustantiva.
+
+Las postulaciones acreditadas y que sean procedentes para sus registros, que garantizan el principio de igualdad sustantiva serán dadas a conocer mediante dictamen público expedido por la autoridad electoral, además se realizará la publicación en las lenguas originarias en la entidad y se les dará la máxima difusión para el conocimiento de las comunidades y pueblos indígenas.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
+
 ###### Artículo 141.
 
-Hecho el cierre de registro de candidaturas, si un partido político o coalición no cumple con lo establecido en los artículos 139 y 140 que anteceden, el Consejo General le requerirá en primera instancia para que (sic) un plazo de cuarenta y ocho horas, contadas a partir de la notificación, rectifique la solicitud de registro de candidaturas y le apercibirá de que, en caso de no hacerlo le hará una amonestación pública.
+Hecho el cierre de registro de candidaturas, si un partido político o coalición no cumple con lo establecido en los artículos 139, 140 y 140 BIS que anteceden, el Consejo General le requerirá en primera instancia para que (sic) un plazo de cuarenta y ocho horas, contadas a partir de la notificación, rectifique la solicitud de registro de candidaturas y le apercibirá de que, en caso de no hacerlo le hará una amonestación pública.
 
-Transcurrido el plazo a que se refiere el párrafo anterior, el partido político o coalición que no realice la sustitución de candidatos, será acreedor a una amonestación pública y el Consejo General le requerirá, de nueva cuenta, para que en un plazo de veinticuatro horas, contadas a partir de la notificación, haga la corrección. En caso de reincidencia se sancionará con la negativa del registro de las candidaturas correspondientes.
+Transcurrido el plazo a que se refiere el párrafo anterior, el partido político o coalición que no realice la sustitución de candidatos será acreedor a una amonestación pública y el Consejo General le requerirá, de nueva cuenta, para que en un plazo de veinticuatro horas, contadas a partir de la notificación, haga la corrección. En caso de reincidencia se sancionará con la negativa del registro de las candidaturas a diputaciones o en su caso a la planilla de munícipes correspondiente.
 
 ###### Artículo 142.
 
@@ -2025,7 +2055,9 @@ El Consejero Presidente del Consejo General una vez hechos los registros por los
 
 Para la sustitución de candidatos, los partidos políticos y coaliciones lo solicitarán por escrito al Consejo Distrital o al Consejo General según corresponda, observando las siguientes disposiciones:
 
-I. Dentro del plazo establecido para el registro de candidatos podrán sustituirlos libremente, debiendo observar las reglas y el principio de paridad entre los géneros establecido en esta Ley;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2023)</small>
+
+I. Dentro del plazo establecido para el registro de candidatos podrán sustituirlos libremente, debiendo observar las reglas, el principio de paridad entre los géneros y el principio de igualdad sustantiva, establecido en esta Ley;
 
 II. Vencido el plazo a que se refiere el inciso anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad o renuncia. En este último caso, no podrán sustituirlos cuando la renuncia se presente dentro de los treinta días anteriores al de la elección. Para la corrección o sustitución, en su caso, de las boletas electorales se estará a lo dispuesto en el artículo 191 de esta Ley, y
 
@@ -4125,21 +4157,33 @@ X. El incumplimiento de las demás disposiciones previstas en la Ley de Partidos
 
 XI. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2023)</small>
 
-XII. El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, y
+XII. El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2023)</small>
 
-XIII. La comisión de cualquier otra falta de las previstas en esta Ley.
+XIII. Postulen candidatas o candidatos bajo el principio de igualdad sustantiva sin pertenecer a los pueblos indígenas o afromexicanos que protege dicho principio; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE JULIO DE 2023)</small>
+
+XIV. La comisión de cualquier otra falta de las previstas en esta Ley.
 
 ###### Artículo 339.
 
 Constituyen infracciones de los aspirantes, precandidatos o candidatos a cargos de elección popular a la presente Ley:
 
-I. La realización de actos anticipados de campaña, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2023)</small>
 
-II. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+I. La realización de actos anticipados de campaña.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2023)</small>
+
+II. Quien se atribuya con dolo o mala fe una identidad para ser candidata o candidato bajo el principio de igualdad sustantiva.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE JULIO DE 2023)</small>
+
+III. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 ###### Artículo 340.
 
@@ -5232,3 +5276,9 @@ P.O. 30 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 184 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 281, 281 Y 284 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA, COMO TAMBIÉN, LA ADICIÓN DE LOS ARTÍCULOS 288 BIS, 308 BIS Y 334 BIS".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 262 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 3, 21, 30, 37, 139, 141, 151, 338 Y 339, DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA, COMO TAMBIÉN LA ADICIÓN DE UN ARTÍCULO 140 BIS AL MISMO ORDENAMIENTO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
