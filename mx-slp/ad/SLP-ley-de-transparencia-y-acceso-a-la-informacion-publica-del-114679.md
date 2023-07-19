@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2023-03-01"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -557,6 +557,10 @@ XXV. Vigilar y requerir el cumplimiento de lo dispuesto en los artículos 84 a 9
 
 XXVI. Promover la capacitación, actualización y habilitación de los servidores públicos, responsables de atender las solicitudes de acceso a la información, de la acción de protección de datos personales, de archivo y sistematización; desarrollar programas de difusión y educación cívica; y establecer convenios de cooperación con el propósito de hacer más eficaz y eficiente el desempeño de las funciones asignadas por esta Ley;
 
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2023)</small>
+
+XXVI BIS. Implementar e impartir cursos de capacitación inicial en materia de transparencia, acceso a la información, y protección de datos personales, para titulares y personal de las Unidades de Transparencia de los sujetos obligados, y otorgar las constancias que acrediten la asistencia y conocimientos adquiridos en dichas capacitaciones;
+
 XXVII. Realizar guías que expliquen de manera sencilla, los procedimientos y trámites que de acuerdo con la esta Ley, tengan que realizarse ante los sujetos obligados y la CEGAIP;
 
 XXVIII. Imponer las medidas de apremio para asegurar el cumplimiento de sus determinaciones;
@@ -948,6 +952,10 @@ XII. Informar por escrito a la CEGAIP, de forma mensual, sobre las solicitudes d
 XIII. Las demás que se desprendan de la normatividad aplicable.
 
 Los sujetos obligados promoverán acuerdos con instituciones públicas especializadas que pudieran auxiliarles a entregar las repuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente.
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2023)</small>
+
+ARTÍCULO 54 BIS. Las y los titulares, así como el personal, de las Unidades de Transparencia, deberán cumplir dentro de los cuarenta y cinco días hábiles siguientes al día de su nombramiento, con los cursos de capacitación inicial que al efecto implemente la CEGAIP.
 
 ###### ARTÍCULO 55.
 
@@ -3290,3 +3298,11 @@ P.O. 1 DE MARZO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0790.- SE ADICIONA AL ARTÍCULO 34 LA FRACCIÓN XXVI BIS Y EL ARTÍCULO 54 BIS, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
