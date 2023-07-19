@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-participacion-ciudadana-del-estado-de-baja-california-20
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-16"
-last_updated: "2020-01-10"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 16 de febrero de 2001.
 
@@ -91,6 +91,8 @@ A falta de disposición expresa en esta Ley, se estará a lo dispuesto en la Ley
 
 Para el desempeño de sus funciones los órganos previstos en esta Ley, contarán con el apoyo de las autoridades estatales y municipales, en sus respectivos ámbitos de su competencia.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2023)
+
 ###### Artículo 7.
 
 Para los efectos de esta Ley, se entenderá por:
@@ -115,7 +117,9 @@ VII.- Gobernador: al Gobernador del Estado, depositario del ejercicio del Poder 
 
 VIII.- Congreso del Estado: al Poder Legislativo del Estado de Baja California;
 
-IX.- Ayuntamientos: a los ayuntamientos de Mexicali, Tijuana, Ensenada, Tecate y Playas de Rosarito;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2023)</small>
+
+IX.- Ayuntamientos: a los ayuntamientos de Mexicali, Tijuana, Ensenada, Tecate, Playas de Rosarito, San Quintín y San Felipe.
 
 > <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
@@ -1068,3 +1072,9 @@ P.O. 10 DE ENERO DE 2020.
 PRIMERO.- Publíquese el contenido de la Presente reforma en (sic) Periódico Oficial del Estado.
 
 SEGUNDO.- La presente reforma entrará en vigor hasta en tanto sea publicada la modificación a la fracción II del artículo 76 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+P.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 263 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 5, 6, 9, Y 9 BIS; ASÍ COMO LA ADICIÓN DEL ARTÍCULO 6 BIS AL ESTATUTO TERRITORIAL DE LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA; ASÍ MISMO SE APRUEBA LA REFORMA AL ARTÍCULO 26 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA Y SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
