@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-del-consejo-de-transparencia-del-congreso-del-64826"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-20"
-last_updated: "2008-11-20"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO DEL CONSEJO DE TRANSPARENCIA DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de noviembre de 2008.
 
@@ -75,9 +75,11 @@ Las relaciones, comunicaciones y requerimientos de información del Consejo, con
 
 ### CAPITULO II. De la Integración del Consejo
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
+
 ###### ARTICULO 5°.
 
-El Consejo estará integrado por cinco consejeros que serán designados por el Pleno, a propuesta de la Junta de Coordinación Política, dentro del primer mes de ejercicio de cada Legislatura; y concluirán su encargo el mismo día en que ésta concluya.
+El Consejo estará integrado por cinco consejeras o consejeros propietarios y dos consejeras o consejeros suplentes, quienes serán designados por el Pleno a propuesta de la Junta de Coordinación Política dentro del primer mes de ejercicio de cada Legislatura; y concluirán su encargo el mismo día en que ésta concluya.
 
 ###### ARTICULO 6°.
 
@@ -95,9 +97,11 @@ V. No ser miembro de algún (sic) político, y
 
 VI. No ser empleado, encargado, comisionado, concesionario o prestador de servicios profesionales de la administración pública en cualquiera de los tres órdenes y ámbitos de gobierno; excepción hecha de las actividades de docencia; ni desempeñar actividades personales que representen conflicto de interés con el cargo de Consejero.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
+
 ###### ARTICULO 7°.
 
-Los requisitos a que alude el artículo que antecede, deberán de mantenerse por los consejeros designados por todo el tiempo que dure su encargo. En caso de que cualquiera de los consejeros, con posterioridad a su designación, deje de cumplir alguno de los requisitos referidos, cesará en el cargo por ministerio de ley y será sustituido de forma inmediata por el Congreso.
+Los requisitos a que alude el artículo que antecede, deberán de mantenerse por los consejeros designados por todo el tiempo que dure su encargo. En caso de que cualquiera de los consejeros, con posterioridad a su designación, deje de cumplir alguno de los requisitos referidos, cesará en el cargo por ministerio de ley y será sustituido de forma inmediata por la o el suplente que corresponda en el orden en el que haya sido designada o designado.
 
 ###### ARTICULO 8°.
 
@@ -115,9 +119,11 @@ El cargo de Consejero es personal e intransferible, por lo que cada uno de sus i
 
 Las atribuciones otorgadas a los consejeros no son delegables, por lo que deberán ejercerlas directa y personalmente bajo su estricta responsabilidad.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
+
 ###### ARTICULO 12.
 
-Los consejeros que faltaren a las sesiones del Consejo en tres ocasiones consecutivas, sin causa justificada a juicio del Pleno, se harán acreedores a la destitución de su cargo, debiéndose realizar la sustitución correspondiente a propuesta de la Junta de Coordinación.
+Los consejeros que faltaren a las sesiones del Consejo en tres ocasiones consecutivas sin causa justificada a juicio del Pleno, se harán acreedores a la destitución de su cargo, debiéndose realizar la sustitución correspondiente de forma inmediata por la o el suplente que corresponda en el orden en el que haya sido designada o designado.
 
 ### CAPITULO III. De las Atribuciones del Consejo
 
@@ -260,3 +266,13 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0791.- SE REFORMAN LOS ARTÍCULOS 5°, 7° Y 12, DEL REGLAMENTO DEL CONSEJO DE TRANSPARENCIA DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
