@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-367-organica-del-tribunal-de-justicia-124928"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-19"
-last_updated: "2022-12-20"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 367 ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2023.
 
 Ley publicada en el Extraordinario al Número 504 de la Gaceta Oficial de Veracruz de Ignacio de la Llave, el martes 19 de diciembre de 2017.
 
@@ -1119,7 +1119,9 @@ XVI. Supervisar la correcta aplicación de los recursos materiales y financieros
 
 XVII. Las demás que determine el Pleno, las leyes, reglamentos y acuerdos generales correspondientes.
 
-Su titular será nombrado por el Congreso del Estado en los términos de la Constitución del Estado del Estado (sic). Tendrá un nivel jerárquico equivalente al de director. Durará en su encargo cinco años sin que pueda ser reelecto. Para el ejercicio de sus funciones, el Órgano Interno de Control contará con:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE JULIO DE 2023)</small>
+
+Su titular será nombrado por el Congreso del Estado en los términos de la Constitución del Estado. Tendrá un nivel jerárquico equivalente al de director. Durará en su encargo cinco años, con posibilidad de reelección por un periodo. Para el ejercicio de sus funciones, el Órgano Interno de Control contará con:
 
 I. Subdirección de Quejas, Denuncias e Investigación;
 
@@ -1814,3 +1816,11 @@ En tanto no exista designación de titulares de Unidades Administrativas u órga
 DÉCIMO TERCERO.- Por esta única ocasión, esta Soberanía, al hacer las designaciones de magistraturas del Tribunal de Justicia Administrativa del Estado de Veracruz realizará las adscripciones de cada una de éstas a las Salas Regionales Unitarias y Ponencias de la Sala Superior respectivas, así como quién ejercerá la Presidencia del Tribunal.
 
 DÉCIMO CUARTO.- A partir de la entrada en vigor del presente Decreto, toda referencia en leyes, códigos o cualquier otra normatividad, que se haga al extinto Tribunal Estatal de Justicia Administrativa, deberá tenerse hecha en favor del Tribunal de Justicia Administrativa del Estado de Veracruz.
+
+G.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 480 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO; DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS; DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE VERACRUZ; Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
