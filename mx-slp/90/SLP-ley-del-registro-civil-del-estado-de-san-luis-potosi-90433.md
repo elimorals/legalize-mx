@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2023-03-01"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -663,9 +663,11 @@ La falsificación de las actas y la inserción en ellas de circunstancias o decl
 
 Cada una de las actas que integrarán los libros del Registro Civil, serán autorizadas por el Oficial o, en su caso, el presidente municipal, quien firmará y sellará en el lugar correspondiente.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 57.
 
-Efectuado el registro, éste no podrá ser modificado sino por resolución de autoridad judicial competente o en los casos de enmienda administrativa que esta ley prevea.
+Efectuado el registro, éste no podrá ser modificado sino por rectificación administrativa en la forma que prevé esta Ley, y en su caso, por resolución de autoridad competente.
 
 ###### ARTÍCULO 58.
 
@@ -1257,71 +1259,89 @@ Extendida el acta de tutela, se anotará en el acta de nacimiento del incapaz, o
 
 El Oficial a quien se comunique que una tutela registrada en los libros a su cargo, ha quedad (sic) extinguida, anotará en el acta de tutela el hecho de su cancelación y la razón o causa por la cual se extingue
 
-## TÍTULO QUINTO. DE LAS ENMIENDAS ADMINISTRATIVAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2023)</small>
+
+## TÍTULO QUINTO. DE LAS RECTIFICACIONES ADMINISTRATIVAS
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 136.
 
-Los vicios o defectos que por error u omisión existan en las actas y que sean atribuibles al Oficial, se podrán corregir gratuitamente a petición de parte interesada, en un plazo de tres días hábiles, contados a partir del registro del acto o hecho del estado civil, mediante procedimiento administrativo seguido en la Dirección, conforme lo señale el reglamento respectivo- cuando tales correcciones no sean substanciales, no producirán la nulidad del acto, a menos que, judicialmente, se pruebe la falsedad de éste.
+Las actas del Registro Civil, dentro de los quince días hábiles siguientes a su inscripción, podrán ser aclaradas y enmendadas ante la o el propio Oficial que las expidió, sin costo alguno, siempre y cuando se trate de errores u omisiones mecanográficos u ortográficos, y de otro tipo, que sean manifiestos, entendiéndose por éstos, los que se desprendan fehacientemente de la sola lectura de la inscripción correspondiente y, en su caso, de los demás actos del Registro Civil relacionados. Concluido el plazo a que se refiere este artículo, la rectificación deberá hacerse ante la Dirección del Registro Civil o en la vía judicial, según corresponda.
 
-Sin perjuicio de lo dispuesto en el párrafo precedente, las actas del Registro Civil podrán, dentro de los tres días siguientes a su inscripción, ser aclaradas ante el propio Oficial, cuando existan errores mecanográficos u ortográficos manifiestos, entendiéndose por éstos los que se desprendan fehacientemente de la sola lectura de la inscripción correspondiente y, en su caso, de los demás actos del Registro Civil relacionados, previa revisión y autorización de la Dirección, para la anotación marginal respectiva en el acta de que se trate.
+Cuando tales correcciones no sean substanciales, no producirán la nulidad del acto, a menos que, judicialmente, se pruebe la falsedad de éste.
 
-En todos los casos en los que la enmienda sea mayor a la corrección de un error mecanográfico u ortográfico, se dará vista al Ministerio Público; en caso de que éste se oponga, cesará el procedimiento administrativo.
+En todos los casos en los que la enmienda sea mayor a la corrección de un error mecanográfico u ortográfico, se dará vista al Ministerio Público; en el supuesto de que éste se oponga, cesará el procedimiento administrativo.
 
-La infracción de lo antes previsto se sancionará conforme a lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, sin perjuicio de la responsabilidad civil y penal en que se incurra.
+La infracción de lo antes previsto se sancionará conforme a lo que establece la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, sin perjuicio de la responsabilidad civil y penal en que se incurra.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 137.
 
-Son vicios o defectos contenidos en las actas del Registro Civil corregibles por vía administrativa:
+La rectificación podrá ser administrativa o judicial, la primera se refiere al procedimiento que se realiza ante la Dirección del Registro Civil; la segunda, se tramita ante la autoridad judicial, cuando implique crear o modificar la filiación de una persona.
 
-I. Los errores ortográficos;
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2023)</small>
 
-II. La omisión de algún dato relativo al acto o hecho de que se trate, según su propia naturaleza o de la anotación que deba contener;
+ARTÍCULO 137 BIS. La rectificación es administrativa cuando enmienda, aclara, complementa, modifica, una inscripción en cualquiera de los datos que la integren, los que de manera enunciativa y no limitativa son:
 
-III. Las abreviaturas;
+I. Datos del Registro;
 
-IV. La ilegibilidad de los datos en un solo ejemplar del libro correspondiente;
+II. Datos de la identidad de las personas inscritas como nombre, apellidos, sexo, género, fecha y lugar de nacimiento y nacionalidad, siempre y cuando no se modifique la filiación, y
 
-V. La no correlación y la complementación de apellidos de los ascendientes y descendientes, cuyos datos aparezcan consignados en una misma acta;
+III. Datos relativos al hecho o acto del estado civil de que se trate.
 
-VI. La falta de correlación de los datos que contenga un acta con los que contenga el documento relacionado con ella del cual procedan;
-
-VII. La no correlación de los datos del acta en los dos ejemplares del libro que se trate;
-
-VIII. La existencia de la leyenda "NO PASO" O "CANCELADA" sin haberse hecho en la forma prevista y la anotación de las causas que le motivaron, y
-
-IX. La indicación relativa al sexo del registrado, cuando no coincidan con la identidad de la persona.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 138.
 
-La corrección de los vicios o defectos que contengan las actas del estado civil, se hará por acuerdo del Director a solicitud del interesado.
+Las rectificaciones administrativas, previstas en el artículo anterior, deberán de seguir los procedimientos establecidos por la Dirección mediante resoluciones de carácter general.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 139.
 
-Los puntos resolutivos del acuerdo a que se refiere el artículo anterior deberán anotarse en el acta que corresponda, debiéndose archivar el expediente respectivo como constancia del procedimiento administrativo.
+Efectuado el procedimiento administrativo de rectificación, no se deberá realizar una nueva inscripción, ni expedir una nueva acta, procediendo a rectificar el registro de que se trate, efectuándose la anotación marginal de la resolución en el acta para constancia de la existencia del acto, y para que surta efectos contra terceros como prueba plena.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 140.
 
-Emitida la resolución de enmienda administrativa, se remitirá copia de la misma a la Oficialía para que haga la anotación marginal que corresponda.
+Emitida, en su caso, la resolución de rectificación administrativa, se remitirá copia de la misma a la Oficialía para que haga la anotación marginal que corresponda.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 141.
 
-Podrán solicitar la corrección de algún vicio o defecto existente en alguna acta, las personas interesadas a quienes se refiere o afecte el acto de que se trate y a quien legitime para este efecto el Código Civil para el Estado.
+Podrán solicitar la rectificación administrativa, la persona interesada a quien se refiere o afecte el acto de que se trate, ya sea por sí o por conducto de quien ejerza la patria potestad o la tutela.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 142.
 
-Para los efectos a que alude él artículo anterior, el interesado presentará una solicitud por escrito, adjuntando los documentos que señale el reglamento respectivo.
+Las solicitudes de rectificación administrativa, deberán presentarse en la forma y con los requisitos que al efecto determinen los acuerdos o lineamientos de carácter general que expida para ese fin la Dirección.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 143.
 
-Reunidos los requisitos señalados en él artículo que antecede, el Director, resolverá lo conducente en un término no mayor de quince días hábiles.
+Una vez cumplidos los requisitos y requerimientos de la Dirección, la resolución de las solicitudes de rectificación administrativa, deberán emitirse en un plazo que no exceda de quince días hábiles.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 144.
 
-Contra la resolución administrativa que determine la corrección de algún vicio o defecto existente en un acta o que la niegue, no procederá recurso legal alguno ante la Dirección.
+Contra la resolución a una solicitud de rectificación administrativa, no procederá recurso legal alguno ante la Dirección.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2023)</small>
+
+ARTÍCULO 144 BIS. La rectificación es judicial cuando enmienda un error, aclara, modifica o anula una inscripción o, complementa información faltante y necesaria para un registro, en cualquiera de los datos que la integren.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2023)</small>
+
+ARTÍCULO 144 TER. La infracción de lo previsto en el presente título, se sancionará conforme a lo que establece la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, sin perjuicio de la responsabilidad civil y penal en que se incurra.
 
 ## TÍTULO SEXTO. DE LOS REGISTROS EXTEMPORÁNEOS
 
@@ -1702,6 +1722,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 1 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0713.- SE REFORMA EL ARTÍCULO 83, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0794.- SE REFORMA LA DENOMINACIÓN DEL TÍTULO DÉCIMO PRIMERO Y DEL CAPÍTULO IX Y LOS ARTÍCULOS 550 EN SU PÁRRAFO PRIMERO, 551 Y 554; Y ADICIONA LOS CAPÍTULOS X Y XI AL MISMO TÍTULO DÉCIMO PRIMERO, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA DENOMINACIÓN DEL TÍTULO QUINTO Y LOS ARTÍCULOS 57, 136, 137, 138, 139, 140, 141, 142, 143 Y 144; Y ADICIONA LOS ARTÍCULOS 137 BIS, 144 BIS Y 144 TER, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
