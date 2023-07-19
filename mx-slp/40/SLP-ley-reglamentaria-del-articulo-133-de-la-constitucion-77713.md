@@ -4,7 +4,7 @@ identifier: "SLP-ley-reglamentaria-del-articulo-133-de-la-constitucion-77713"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-11"
-last_updated: "2012-06-26"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY REGLAMENTARIA DEL ARTÍCULO 133 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE REMUNERACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 11 de noviembre de 2010.
 
@@ -33,7 +33,9 @@ DECRETO 373
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Ya en el Capítulo III se abordan los temas correspondientes al Manual y los Tabuladores, destacando, en la obligación de la elaboración del presupuesto anual, incluir el tabulador de remuneraciones, el número de plazas presupuestadas, y en razón de las negociaciones salariales y los tiempos en los que éstas se llevan a cabo, la posibilidad de la revisión de éstos. Se determina además, en este mismo capítulo, la obligación de cada institución, de elaborar el Manual, los contenidos del mismo y el término de su envío para su publicación en el Periódico Oficial del Estado.
 
@@ -247,9 +249,11 @@ Las instituciones públicas incluirán en la cuenta pública que deben rendir an
 
 Las remuneraciones y sus tabuladores serán públicos; deberán especificar y diferenciar la totalidad de sus elementos fijos y variables, tanto en efectivo, como en especie.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
+
 ###### ARTICULO 24.
 
-Para efectos de la definición y sanción de las responsabilidades administrativas de los funcionarios públicos, que dieren lugar a cualquier violación de las normas de esta Ley, serán aplicables las previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, sin perjuicio de la responsabilidad penal resultante.
+Para efectos de la definición y sanción de las responsabilidades administrativas de los funcionarios públicos, que dieren lugar a cualquier violación de las normas de esta Ley, serán aplicables las previstas en la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, sin perjuicio de la responsabilidad penal resultante.
 
 ## TRANSITORIOS
 
@@ -286,5 +290,13 @@ Lic. Marco Antonio Aranda Martínez
 P.O. 26 DE JUNIO DE 2012.
 
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0795.- SE REFORMA EL ARTÍCULO 24 DE LA LEY REGLAMENTARIA DEL ARTÍCULO 133 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE REMUNERACIONES".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
