@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-546-organica-de-la-fiscalia-general-del-estado-10589
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-29"
-last_updated: "2020-09-15"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 546 ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2023.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 29 de enero de 2015.
 
@@ -2075,11 +2075,11 @@ Los cargos de los miembros de las comisiones, el comité de transparencia, los c
 
 ### CAPÍTULO II. DE LA CONTRALORÍA GENERAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JULIO DE 2023)</small>
 
 ###### Artículo 108.
 
-La Fiscalía General contará con una Contraloría General como órgano interno de control y tendrá autonomía técnica, de gestión y presupuestal, dotada de los recursos suficientes y necesarios que deberán estar etiquetados dentro del presupuesto de la Fiscalía para el cumplimiento de sus funciones de prevención, detención, combate y sanción de la corrupción, la cual estará a cargo de un contralor general, que tendrá el nivel jerárquico como mínimo de director general o su equivalente, quien será nombrado y removido por el Congreso del Estado, a quien le corresponde el ejercicio de las funciones que le otorga la Constitución Federal, la Constitución local, así como las leyes generales y estatales aplicables.
+La Fiscalía General contará con una Contraloría General como órgano interno de control y tendrá autonomía técnica, de gestión y presupuestal, dotada de los recursos suficientes y necesarios que deberán estar etiquetados dentro del presupuesto de la Fiscalía para el cumplimiento de sus funciones de prevención, detención, combate y sanción de la corrupción, la cual estará a cargo de un contralor general, que tendrá el nivel jerárquico como mínimo de director general o su equivalente, quien será nombrado para un periodo de cinco años, con la posibilidad de ser reelegido para un periodo más, y removido por el Congreso del Estado, a quien le corresponde el ejercicio de las funciones que le otorga la Constitución Federal, la Constitución Local, así como las leyes generales y estatales aplicables.
 
 (REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
@@ -2360,3 +2360,11 @@ G.O. 15 DE SEPTIEMBRE DE 2020
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 480 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO; DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS; DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE VERACRUZ; Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
