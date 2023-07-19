@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2023-05-15"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -138,6 +138,12 @@ La violencia familiar se define como el uso de la fuerza física o moral, o las 
 ###### ARTICULO 13.
 
 La violencia familiar puede ser denunciada por cualquiera persona, ante el Ministerio Público para los efectos a que haya lugar; de manera particular, cuando el maltrato se infrinja en contra de las o los menores; personas adultas mayores; personas con discapacidad; mujeres embarazadas; o cuando se produzca por razones de género.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2023)</small>
+
+ARTICULO 13 BIS. La víctima o víctimas del delito de violencia familiar podrán demandar a su agresor o agresora, por la reparación del daño patrimonial, o extrapatrimonial, en su caso, provocado como resultado del hecho ilícito. Tratándose de personas menores, con discapacidad, y adultas mayores, se deberá dar intervención al Ministerio Público.
+
+Para efectos del presente artículo se deberá acreditar la existencia de un hecho ilícito, un daño y el nexo causal.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
@@ -3071,9 +3077,9 @@ La acción para pedir la nulidad prescribe en los términos en que prescriben la
 
 Las o los menores no podrán alegar nulidad si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores, o han manifestado dolosamente que lo eran.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2023)</small>
 
-## TITULO DECIMO PRIMERO. DE LAS RECTIFICACIONES DE ACTAS DEL REGISTRO CIVIL
+## TITULO DECIMO PRIMERO. DE LA NULIDAD, CANCELACIÓN Y RECTIFICACIÓN DE ACTAS DEL REGISTRO CIVIL
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -3443,47 +3449,31 @@ Las o los menores no podrán alegar nulidad si han presentado certificados falso
 
 (DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2023)</small>
 
-### Capítulo IX. Disposiciones Generales
+### Capítulo IX. De la Nulidad y Cancelación de las Actas del Registro Civil
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 550.
 
-La cancelación y nulidad de un acta del estado civil, procederá únicamente por sentencia judicial ejecutoriada.
+La nulidad y cancelación de un acta del estado civil, procederá únicamente por sentencia judicial ejecutoriada, ello cuando se alegue falsedad porque el suceso registrado no pasó.
 
 Lo dispuesto en este artículo no es aplicable a los casos de reconocimiento voluntario de una hija o hijo, el cual se sujetará a las prescripciones de este Código.
 
 No obstante lo anterior, podrá modificarse un acta por enmienda administrativa en los casos a que se refieren este Código y las demás disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2023)</small>
+
+### Capítulo X. De la Rectificación de las Actas del Registro Civil
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
+
 ###### ARTICULO 551.
 
-Se puede pedir la rectificación de un acta del Registro Civil:
+Las rectificaciones de las actas del Registro Civil, deberán tramitarse ante la Dirección del Registro Civil en los casos y bajo el procedimiento previsto en la Ley del Registro Civil del Estado de San Luis Potosí.
 
-I. Por falsedad, cuando se alegue que el suceso registrado no pasó, y
-
-II. En los casos en que éstas contengan los vicios o defectos de carácter genérico o específico, que a continuación se indican:
-
-a) Los genéricos son:
-
-1. La falta de correlación de apellidos de las o los ascendientes y descendientes, cuyos datos aparezcan consignados en una misma acta.
-
-2. La no correlación de los datos que contenga un acta con los expresados en el documento relacionado con ella y del cual procedan.
-
-3. La ilegibilidad de los datos en alguno de los libros correspondientes.
-
-4. La existencia de abreviaturas.
-
-5. La omisión de algún dato relativo al acta o hecho de que se trate, según su propia naturaleza, o de la anotación que debe contener.
-
-6. Los apellidos invertidos.
-
-b) Los específicos son:
-
-1. Tratándose de un acta de nacimiento, que contenga datos de registro relativos a dos o más personas.
-
-2. Haber anotado en el acta de que se trate, datos correspondientes a una hipótesis legal diferente a la que precediere.
-
-3. La falta de correlación del nombre propio asentado en el acta con el que socialmente se le identifica.
+Solo cuando la rectificación tenga como fin, complementar información faltante y necesaria para un registro, que implique crear o modificar la filiación de una persona, ésta se deberá tramitar en la vía judicial.
 
 ###### ARTICULO 552.
 
@@ -3501,9 +3491,15 @@ IV. Los que según los artículos, 197, 198 y 199 de este Código, pueden contin
 
 El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2023)</small>
+
+### Capítulo XI. Disposiciones comunes para los Capítulos IX y X
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
+
 ###### ARTICULO 554.
 
-La sentencia que cause ejecutoria se comunicará a la o el Oficial del Registro Civil, y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+La sentencia de nulidad o cancelación, y en su caso la que resuelva la rectificación, una vez que cause ejecutoria, se comunicará a la o el Oficial del Registro Civil, y a la Dirección del Registro Civil, con el objeto de que se anote al margen del acta impugnada el efecto de la misma.
 
 ## TRANSITORIOS
 
@@ -3812,5 +3808,21 @@ P.O. 15 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0749.- SE REFORMA EL ARTÍCULO 250, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ.”]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0792.- SE ADICIONA EL ARTÍCULO 13 BIS, AL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0794.- SE REFORMA LA DENOMINACIÓN DEL TÍTULO DÉCIMO PRIMERO Y DEL CAPÍTULO IX Y LOS ARTÍCULOS 550 EN SU PÁRRAFO PRIMERO, 551 Y 554; Y ADICIONA LOS CAPÍTULOS X Y XI AL MISMO TÍTULO DÉCIMO PRIMERO, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA DENOMINACIÓN DEL TÍTULO QUINTO Y LOS ARTÍCULOS 57, 136, 137, 138, 139, 140, 141, 142, 143 Y 144; Y ADICIONA LOS ARTÍCULOS 137 BIS, 144 BIS Y 144 TER, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
