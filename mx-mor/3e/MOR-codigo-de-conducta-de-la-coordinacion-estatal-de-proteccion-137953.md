@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-coordinacion-estatal-de-proteccion-137
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-28"
-last_updated: "2019-08-28"
+last_updated: "2023-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA COORDINACION ESTATAL DE PROTECCION CIVIL MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL MORELOS, PUBLICADO EN EL P.O. DE 19 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 28 de agosto de 2019.
 
@@ -336,3 +338,15 @@ C. PEDRO ENRIQUE CLEMENT GALLARDO.
 TITULAR DE LA COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL MORELOS.
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL MORELOS”.]
+
+PRIMERO.- El presente código de conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDO.- Se abroga el Código de Conducta de la Coordinación Estatal de Protección Civil Morelos publicado en el Periódico Oficial N° 5738 de fecha 28 de agosto de 2019.
+
+TERCERO.- La Coordinación Estatal de Protección civil Morelos en colaboración con el Comité de Ética, proveerán lo conducente para la difusión, divulgación y observancia del presente Código de Conducta.
