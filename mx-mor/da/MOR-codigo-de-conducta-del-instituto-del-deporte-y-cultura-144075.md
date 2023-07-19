@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-instituto-del-deporte-y-cultura-144075"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-09-09"
-last_updated: "2020-09-16"
+last_updated: "2023-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DEL DEPORTE Y CULTURA FISICA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 19 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE SEPTIEMBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 9 de septiembre de 2020.
 
@@ -324,3 +324,17 @@ GERMÁN VILLA CASTAÑEDA
 DIRECTOR GENERAL DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- El presente Código de Conducta del Instituto del Deporte del Estado de Morelos, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de (sic) Gobierno del Estado de Morelos.
+
+SEGUNDA.- Se abroga el Código de Conducta del Instituto del Deporte y Cultura Física del Estado de Morelos publicado en el Periódico Oficial “Tierra y Libertad”, número 5861 de fecha nueve de septiembre del año dos mil veinte, asimismo, se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente código de conducta.
+
+TERCERA.- Una vez publicado en el Periódico Oficial “Tierra y Libertad”, el presente instrumento deberá difundirse en el sitio (sic) la página de internet oficial del Instituto del Deporte y Cultura Física del Estado de Morelos.
+
+CUARTA.- El Instituto del Deporte y Cultura Física del Estado de Morelos, a través de la Coordinación de Área Administrativa dará a conocer a las personas obligadas, la existencia y contenido del presente código de conducta.
