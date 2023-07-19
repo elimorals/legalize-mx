@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-586-de-la-comision-estatal-para-la-atencion-y-90621"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-03"
-last_updated: "2018-11-16"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 586 DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 3 de diciembre de 2012.
 
@@ -147,9 +147,9 @@ Los Comisionados y el Secretario Ejecutivo serán nombrados por el Congreso del 
 
 Los Comisionados elegirán, de entre sus pares, a quien se desempeñará como Presidente de la Comisión. El Presidente durará en su cargo dos años, con posibilidad de una sola reelección.
 
-> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2023)</small>
 
-El titular de la Contraloría Interna, será nombrado por el Congreso del Estado mediante convocatoria pública, con el voto de las dos terceras partes de los diputados presentes, por un período de cinco años.
+La persona titular de la Contraloría Interna será designada por el Congreso del Estado mediante convocatoria pública, con el voto de las dos terceras partes de los diputados presentes, por un periodo de cinco años, con la posibilidad de reelección hasta por un periodo.
 
 ###### Artículo 10.
 
@@ -528,3 +528,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El titular del Poder Ejecutivo, el Congreso del Estado, los Ayuntamientos de la entidad, el Instituto Electoral Veracruzano y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
+
+G.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 480 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO; DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS; DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE VERACRUZ; Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
