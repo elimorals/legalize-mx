@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-museo-morelense-de-arte-popular-101661"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-02"
-last_updated: "2021-07-28"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DEL MUSEO MORELENSE DE ARTE POPULAR DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 2 de julio de 2014.
 
@@ -67,9 +67,9 @@ III. Coordinador, a la persona Titular de la Coordinación del Museo Morelense d
 
 IV. Decreto, al Decreto número mil trescientos noventa y nueve, por el que se crea el Organismo Público Descentralizado denominado Museo Morelense de Arte Popular;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2023)</small>
 
-V. Direcciones, a la Dirección de Planeación y a la Dirección de Exposiciones del Museo Morelense de Arte Popular;
+V. Direcciones, a la Dirección de Planeación y a la Dirección Operativa del MMAPO;
 
 VI. Estatuto, al presente Estatuto Orgánico;
 
@@ -137,9 +137,9 @@ Para el desempeño de sus funciones, el MMAPO contará además, con las siguient
 
 I. Una Dirección de Planeación, y
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2023)</small>
 
-II. Una Dirección de Exposiciones.
+II. Una Dirección Operativa.
 
 Las Unidades Administrativas estarán integradas por las personas titulares respectivas y demás personal técnico y administrativo, necesario para la eficaz atención de los asuntos de su competencia y desempeño de sus atribuciones, de acuerdo a lo que disponga la Junta Directiva, con base en la suficiencia presupuestal autorizado para ello; cuyas funciones serán normadas por los Manuales Administrativos que se aprueben y emitan, así como por los Lineamientos, Políticas y Programas que la Junta Directiva y la Coordinación establezcan, en términos de las disposiciones jurídicas aplicables.
 
@@ -353,11 +353,11 @@ X. Elaborar los resguardos de los muebles propiedad del MMAPO, y
 
 XI. Proponer al Coordinador, Las normas y Lineamientos para la operación, promoción y realización de eventos en las áreas del MMAPO, que para tal efecto sean susceptibles de la prestación de algún servicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### Artículo 21.
 
-La persona titular de la Dirección de Exposiciones tendrá las siguientes atribuciones específicas:
+La persona titular de la Dirección Operativa tendrá las siguientes atribuciones específicas:
 
 I. Planear, organizar, controlar y supervisar los mecanismos de promoción, y comercialización del Arte Popular, en colaboración con el Coordinador;
 
@@ -568,3 +568,15 @@ PRIMERA. Las reformas al estatuto orgánico iniciarán su vigencia al día sigui
 SEGUNDA. Inscríbase el presente estatuto orgánico reformado en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto en los artículos 76, penúltimo párrafo, y 84, fracción II, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente estatuto orgánico.
+
+P.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL MUSEO MORELENSE DE ARTE POPULAR”.]
+
+PRIMERA. Las reformas al estatuto orgánico iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Inscríbase el presente decreto de reformas al Estatuto Orgánico en el Registro Público de los organismos descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto en los artículos 76, penúltimo párrafo, y 84, fracción II, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente estatuto orgánico.
+
+CUARTA. Dentro de un plazo de 90 días hábiles contados a partir del día siguiente a la entrada en vigor del presente instrumento, el museo deberá realizar las adecuaciones necesarias a los manuales administrativos, así como los descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan a lo dispuesto en el estatuto orgánico.
