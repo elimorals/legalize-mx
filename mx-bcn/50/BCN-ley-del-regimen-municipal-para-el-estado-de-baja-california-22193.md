@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2023-06-23"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -441,11 +441,13 @@ Los titulares de las entidades y órganos de la Administración Pública Municip
 
 ### CAPÍTULO SEGUNDO. DEL TERRITORIO Y LA POBLACIÓN DE LOS MUNICIPIOS
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 26.
 
-De la División Territorial del Estado.- El territorio del Estado de Baja California, se integra con los Municipios de Mexicali, Tecate, Tijuana, Ensenada, Playas de Rosarito y San Quintín, con la superficie, límites y linderos que establezca el Congreso del Estado en el Estatuto Territorial de los Municipios del Estado de Baja California.
+De la División Territorial del Estado.- El territorio del Estado de Baja California, se integra con los Municipios de Mexicali, Tecate, Tijuana, Ensenada, Playas de Rosarito, San Quintín y San Felipe, con la superficie, límites y linderos que establezca el Congreso del Estado en el Estatuto Territorial de los Municipios del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2021)</small>
 
 Las controversias que se susciten respecto de los límites territoriales, entre dos o más Municipios, serán resueltas por el Congreso del Estado de Baja California, modificando en su caso, el Estatuto Territorial de los Municipios del Estado de Baja California.
 
@@ -1162,3 +1164,9 @@ P.O. 23 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 243 MEDIANTE EL CUAL SE APRUEBA SE APRUEBA LA REFORMA AL ARTÍCULO 42, ASÍ COMO LA ADICIÓN DE UN CAPÍTULO TERCERO DENOMINADO “DE LAS AUSENCIAS DE LOS MUNICIPES” DENTRO DEL TÍTULO TERCERO DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 263 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 5, 6, 9, Y 9 BIS; ASÍ COMO LA ADICIÓN DEL ARTÍCULO 6 BIS AL ESTATUTO TERRITORIAL DE LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA; ASÍ MISMO SE APRUEBA LA REFORMA AL ARTÍCULO 26 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA Y SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+P.O. 19 DE JULIO DE 2023.
+
+ÚNICO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
