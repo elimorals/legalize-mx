@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-patrimonio-historico-y-cultural-del-estado-11776"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-26"
-last_updated: "2021-03-04"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de noviembre de 1997.
 
@@ -221,7 +221,9 @@ Cuando las disposiciones de la Secretaría no sean acatadas en el plazo que para
 
 Los Patronatos de Protección, Consolidación y Conservación, serán órganos auxiliares de las autoridades competentes para la aplicación de la presente Ley. Los integrantes de los Patronatos participarán a título honorario y tendrán las siguientes funciones:
 
-I.- Coadyuvar con las autoridades en las actividades de promoción, difusión y vigilancia relativas a la protección, consolidación, conservación, restauración, recuperación y enriquecimiento del patrimonio histórico y cultural del Estado;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2023)</small>
+
+I.- Coadyuvar con las autoridades en las actividades de promoción, registro, difusión y vigilancia relativas a la protección, consolidación, conservación, restauración, recuperación, mejoramiento y enriquecimiento del patrimonio histórico y cultural del Estado;
 
 II.- Realizar actividades para la captación, administración y aplicación de recursos financieros para las actividades descritas en la fracción anterior;
 
@@ -690,3 +692,11 @@ P.O. 4 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-606 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 16, DE LA LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
