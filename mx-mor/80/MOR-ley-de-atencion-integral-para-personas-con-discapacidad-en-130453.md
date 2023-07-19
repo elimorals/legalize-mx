@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-atencion-integral-para-personas-con-discapacidad-en-1304
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-14"
-last_updated: "2018-09-14"
+last_updated: "2023-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130453&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE ATENCION INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA LA INCLUSIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ATENCIÓN INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 14 de septiembre de 2018.
 
@@ -1366,3 +1368,23 @@ SECRETARIO DE GOBIERNO
 LIC. ÁNGEL COLÍN LÓPEZ
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY PARA LA INCLUSIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MORELOS”.]
+
+PRIMERO: La presente Ley entrará en vigor al día siguiente después de su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO: Se abroga la Ley de Atención Integral para Personas con Discapacidad en el Estado de Morelos, publicada en el Periódico Oficial 5632 de fecha 14 de septiembre del 2018, así como las disposiciones de igual o menor rango que se opongan a la presente Ley.
+
+TERCERO: Remítase la presente Ley al Titular del Poder Ejecutivo para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+CUARTO: El Gobernador del Estado, tendrá un plazo de 180 días contados a partir de la fecha de entrada en vigor de la presente Ley, para nombrar al Director General del Instituto para la Inclusión al Desarrollo de las Personas con Discapacidad.
+
+QUINTO: Las Dependencias y órganos de la Administración Pública relacionados con la presente Ley, y demás entes públicos competentes, tendrán un plazo no mayor a 180 días contados a partir del nombramiento señalado en el transitorio anterior para la elaboración de sus respectivos programas específicos, dictar las medidas correspondientes y/o los ajustes razonables, que de manera progresiva tengan como finalidad dar cumplimiento con la presente Ley, cuyo presupuesto para ellos deberán establecerlo en su respectivo Presupuesto de Egresos del siguiente ejercicio fiscal, considerando en ellos el presupuesto que en su caso ya tengan destinado en las acciones que llevan a cabo en la materia, reforzándolas y adecuándolas conforme a la presente Ley, debiendo ser de al menos el 10% de su presupuesto anual. Los órganos autónomos deberán proponer las modificaciones necesarias a su normatividad vigente para adecuarla a los preceptos establecidos en esta Ley.
+
+SEXTO: El Gobernador del Estado publicará el Reglamento de la presente Ley a más tardar 180 días después del nombramiento señalado en el transitorio cuarto.
+
+SÉPTIMO: Publíquese para su conocimiento.
