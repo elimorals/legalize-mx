@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-160493"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-10-06"
-last_updated: "2023-06-21"
+last_updated: "2023-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MEX"
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JUNIO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE JULIO DE 2023.]</small>
 
 Ley publicada en la Sección Primera del Número 64 de la Gaceta del Gobierno del Estado de México, el jueves 6 de octubre de 2022.
 
@@ -69,9 +71,11 @@ h) Una Sala de Asuntos Indígenas.
 
 Amicus Curiae
 
+> <small>(F. DE E., G.G. 20 DE JULIO DE 2023)</small>
+
 ###### Artículo 2.
 
-Se reconoce la necesidad de dar voz a la sociedad civil a efecto de que se exprese en asuntos relevantes vinculados a la tutela de los derechos humanos y al control difuso de la constitucionalidad y la convencionalidad. Por ello, cualquier persona física o moral o colectivo social, podrán expresarse en calidad de "Amicus Curiae" o amigo del Poder Judicial y aportar argumentos que sirvan como reflexión para esclarecer una cuestión sometida a la jurisdicción de los tribunales del estado, que poseerán una calidad meramente orientadora y no vinculante. El Pleno emitirá el reglamento correspondiente.
+Se reconoce la necesidad de dar voz a la sociedad civil a efecto de que se exprese en asuntos relevantes vinculados a la tutela de los derechos humanos y al control difuso de la constitucionalidad y la convencionalidad. Por ello, cualquier persona física o moral o colectivo social, podrán expresarse en calidad de “Amicus Curiae” o amigo del Poder Judicial y aportar argumentos que sirvan como reflexión para esclarecer una cuestión sometida a la jurisdicción de los tribunales del estado, que poseerán una calidad meramente orientadora y no vinculante. El Pleno del Consejo emitirá el reglamento correspondiente.
 
 > <small>(ADICIONADO, G.G. 17 DE MARZO DE 2023)</small>
 
@@ -251,7 +255,9 @@ b. Investigar los asuntos relevantes que considere el Pleno, y
 
 c. Desempeñar las funciones que de manera específica les confiera el Pleno.
 
-XII. Determinar, en su caso, el cambio de sedes para la realización de las sesiones del Pleno, a lugar distinto al previsto en el artículo 13 de esta ley;
+> <small>(F. DE E., G.G. 20 DE JULIO DE 2023)</small>
+
+XII. Determinar, en su caso, el cambio de sedes para la realización de las sesiones del Pleno, a lugar distinto al previsto en el artículo 12 de esta ley;
 
 XIII. Solicitar al Consejo, por conducto de la o el presidente, la información y documentación, así como las opiniones que requiera para el mejor desempeño de sus facultades;
 
@@ -445,7 +451,9 @@ Competencia de la Sala Unitaria Especializada en el Sistema Integral de Justicia
 
 La Sala Unitaria Especializada en el Sistema Integral de Justicia Penal para Adolescentes estará a cargo de un magistrado y tendrá competencia para conocer:
 
-I. De los recursos contra resoluciones pronunciadas por los jueces de control, tribunales de juicio oral y jueces de ejecución, especializados en el Sistema Integral de Justicia para Adolescentes;
+> <small>(F. DE E., G.G. 20 DE JULIO DE 2023)</small>
+
+I. De los recursos contra resoluciones pronunciadas por los jueces de control, tribunal de enjuiciamiento y jueces de ejecución, especializados en el Sistema Integral de Justicia para Adolescentes;
 
 II. De los conflictos de competencia que se susciten entre los órganos jurisdiccionales pertenecientes a su adscripción, y
 
@@ -1605,7 +1613,9 @@ Las sesiones del Consejo serán:
 
 I. Públicas: cuando se lleven a puerta abierta;
 
-II. Privadas: cuando se lleven a puerta cerrada por determinación del Pleno en razón de la confidencialidad o relevancia de los asuntos que se traten;
+> <small>(F. DE E., G.G. 20 DE JULIO DE 2023)</small>
+
+II. Privadas: cuando se lleven a puerta cerrada por determinación del Pleno del Consejo en razón de la confidencialidad o relevancia de los asuntos que se traten;
 
 III. Solemnes: cuando se requiera de alguna formalidad especial, en sesión pública o privada;
 
@@ -1927,7 +1937,9 @@ Administración y manejo del fondo
 
 El Consejo tendrá la administración y manejo del fondo auxiliar, conforme a las siguientes atribuciones:
 
-I. Recibir mensualmente, de la Dirección de Finanzas y Planeación, la información financiera sobre:
+> <small>(F. DE E., G.G. 20 DE JULIO DE 2023)</small>
+
+I. Recibir mensualmente, de la Dirección General de Finanzas y Planeación, la información financiera sobre:
 
 a. La integración individual del fondo propio y del fondo ajeno, y
 
@@ -1945,9 +1957,11 @@ VI. Solicitar la práctica de auditorías tanto del registro original como de lo
 
 Registro y vigencia de operaciones del Fondo
 
+> <small>(F. DE E., G.G. 20 DE JULIO DE 2023)</small>
+
 ###### Artículo 141.
 
-La o el presidente firmará las operaciones activas o pasivas para el registro y vigencia del Fondo auxiliar en forma mancomunada con el Director de Finanzas y Planeación.
+La o el presidente firmará las operaciones activas o pasivas para el registro y vigencia del Fondo auxiliar en forma mancomunada con el Director General de Finanzas y Planeación.
 
 La o el presidente, en su informe anual, dará a conocer el resultado del rendimiento y de las auditorías practicadas al Fondo auxiliar, así como el estado resultante de las erogaciones efectuadas y validadas por el Consejo.
 
@@ -2391,9 +2405,11 @@ El Servicio de Carrera es el sistema institucionalizado que regula el conjunto d
 
 Finalidad del Servicio de Carrera
 
+> <small>(F. DE E., G.G. 20 DE JULIO DE 2023)</small>
+
 ###### Artículo 172.
 
-El Servicio de Carrera del Poder Judicial tendrá como finalid.ad (sic) contribuir al fortalecimiento de la impartición y administración de justicia, mediante la profesionalización y evaluación de los servidores públicos del Poder Judicial, con base en criterios objetivos y confiables que garanticen los mejores perfiles para el cumplimiento de sus funciones.
+El Servicio de Carrera del Poder Judicial tendrá como finalidad contribuir al fortalecimiento de la impartición y administración de justicia, mediante la profesionalización y evaluación de los servidores públicos del Poder Judicial, con base en criterios objetivos y confiables que garanticen los mejores perfiles para el cumplimiento de sus funciones.
 
 Principios del Servicio de Carrera
 
