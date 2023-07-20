@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-07-13"
+last_updated: "2023-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2381,13 +2381,13 @@ Al que provoque públicamente a cometer un delito, o haga la apología de éste 
 
 ### CAPITULO I. PELIGRO DE CONTAGIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 203.
 
-El que sabiendo que padece un mal venéreo en período infectante o el síndrome de inmuno deficiencia adquirida, ponga en peligro de contagio a otro, por medio de relaciones sexuales, será sancionado por (sic) prisión de seis meses a tres años y multa de quince a cincuenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de la pena que corresponda, si causa el contagio.
+A quien sabiendo que padece una enfermedad grave y transmisible, y sin tomar las medidas necesarias dolosamente ponga en peligro de contagio la salud de otro, se le aplicará una pena de seis meses a tres años y multa de quince a cincuenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de la pena que corresponda, si causa el contagio.
 
-Cuando se trate de cónyuges o concubinos, sólo podrá procederse por querella del ofendido.
+Este delito se perseguirá por querella de la víctima u ofendido.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE NOVIEMBRE DE 1993)</small>
 
@@ -7258,6 +7258,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-597 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS; DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS; Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-611 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 203, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
