@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2022-10-30"
+last_updated: "2023-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -96,6 +96,10 @@ En consecuencia, quedan abolidas la pena de muerte, la esclavitud o servidumbre 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2022)</small>
 
 Para la consecución de la paz, el Estado y sus municipios priorizarán la prevención y fortalecerán el componente reactivo de la seguridad pública, realizarán y promoverán acciones de paz positiva, mediante el enriquecimiento de sus instituciones, el respeto a los derechos humanos, la participación social, cohesión familiar y comunitaria, y la seguridad ciudadana.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2023)</small>
+
+Toda persona tiene derecho a vivir en un ambiente libre de corrupción.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
 
@@ -255,13 +259,17 @@ VI. Al resguardo de su identidad cuando se trate de menores de edad o de víctim
 
 VII. A solicitar las medidas cautelares para la protección y restitución de sus derechos.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 15.
 
-En el Estado se establecerá un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta antijurídica prevista en las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garantizarán los derechos humanos que reconocen la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales suscritos por el Estado Mexicano y esta Constitución para toda persona, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Las personas menores de doce años que hayan realizado una conducta antijurídica prevista en la ley, sólo serán sujetas a rehabilitación y asistencia social.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2023)</small>
 
-La operación del sistema estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para menores. Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y al interés superior del menor.
+En el Estado se establecerá un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta antijurídica prevista en las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garantizarán los derechos humanos que reconocen la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales suscritos por el Estado Mexicano y esta Constitución para toda persona, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Las niñas y niños menores de doce años que hayan realizado una conducta antijurídica prevista en la ley, sólo serán sujetas a rehabilitación y asistencia social.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2023)</small>
+
+La operación del sistema estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes. Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y al interés superior de la niñez.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los menores, se observará la garantía del debido proceso legal así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del menor, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los menores, mayores de catorce años de edad, por la comisión de conductas antijurídicas calificadas como graves en la ley.
 
@@ -507,33 +515,55 @@ II. Al acceso de manera gratuita a los servicios públicos de salud materna dura
 
 III. A que disponga de tiempo de lactancia durante la jornada laboral.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 34.
 
-El Estado garantizará a los menores de edad el derecho a:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2023)</small>
+
+El Estado garantizará a las niñas, niños y adolescentes el derecho a:
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 I. Tener nombre.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 II. Acceder a la educación obligatoria, la cultura, el deporte y la recreación.
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 III. La protección integral de la salud.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 IV. Preservar su integridad física, psíquica y sexual.
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 V. Ser protegidos contra el trabajo y la explotación infantiles.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 VI. Crecer en un ambiente de salud, paz, dignidad y libre de violencia.
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 VII. Ser escuchados por su familia y las autoridades.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 VIII. Participar plenamente en la vida familiar, cultural y social.
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 IX. Crecer al amparo y bajo la responsabilidad de sus padres; salvo circunstancias excepcionales, reconocidas judicialmente.
 
-El Estado adoptará las medidas necesarias para proteger a los menores contra todo tipo de abuso, descuido o trato negligente. Las instituciones públicas estatales y municipales garantizarán los derechos que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, la Convención sobre los Derechos del Niño, y demás normatividad en la materia, otorgan a los menores.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2023)</small>
 
-El Estado atenderá al principio del interés superior de los menores.
+El Estado adoptará las medidas necesarias para proteger a las niñas, niños y adolescentes contra todo tipo de abuso, descuido o trato negligente. Las instituciones públicas estatales y municipales garantizarán los derechos que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, la Convención sobre los Derechos del Niño, y demás normatividad en la materia les otorgan.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2023)</small>
+
+El Estado atenderá al principio del interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1069,29 +1099,43 @@ I. Para obtener la inscripción de sus listas, el partido político que lo solic
 
 II. Tendrá derecho a que le sean asignados diputados electos según el principio de proporcionalidad, el partido que alcance al menos el tres por ciento de la votación válida emitida. La ley determinará las fórmulas y los procedimientos que se observarán en dicha asignación; en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 69.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
 
 Para ser Diputada o Diputado se requiere:
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JULIO DE 2023)</small>
 
-I. Ser ciudadana o ciudadano duranguense por nacimiento, con residencia efectiva de tres años al día de la elección, o ciudadano duranguense con residencia efectiva dentro del territorio del Estado que no sea menor de cinco años inmediatamente anteriores al día de la elección, en pleno ejercicio de sus derechos políticos y civiles.
+I. Ser ciudadana o ciudadano duranguense por nacimiento, con residencia efectiva de tres años al día de la elección, o ciudadano o ciudadana duranguense con residencia efectiva dentro del territorio del Estado que no sea menor de cinco años inmediatamente anteriores al día de la elección, en pleno ejercicio de sus derechos políticos y civiles.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 Las y los duranguenses que tengan la calidad de migrantes, no requerirán de la residencia efectiva dentro del territorio del Estado prevista en esta fracción. La ley establecerá los requisitos para ser considerado duranguense migrante.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 II. Saber leer y escribir.
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 III. Tener veintiún años cumplidos el día de la elección.
 
-IV. No ser Secretario o Subsecretario, Comisionado o Consejero de un órgano constitucional autónomo, Magistrado, Consejero de la Judicatura, Auditor Superior del Estado, Presidente Municipal, Síndico o Regidor de algún Ayuntamiento, servidor público de mando superior de la Federación o militar en servicio activo, salvo que se hubieren separado de su encargo de manera definitiva noventa días antes del día de la elección.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2023)</small>
 
-V. No ser Ministro de algún culto religioso.
+IV. No ser Secretario, Secretaria o Subsecretario, Subsecretaria, Comisionado, Comisionada o Consejero, Consejera de un órgano constitucional autónomo, Magistrado, Magistrada, Consejero o Consejera de la Judicatura, Auditora o Auditor Superior del Estado, Presidenta o Presidente Municipal, Síndica o Sindico, Regidora o Regidor de algún Ayuntamiento, servidora o servidor público de mando superior de la Federación o militar en servicio activo, salvo que se hubieren separado de su encargo de manera definitiva noventa días antes del día de la elección.
 
-VI. No haber sido condenado por la comisión de delito doloso.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2023)</small>
+
+V. No ser Ministro o Ministra de algún culto religioso.
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2023)</small>
+
+VI. No haber sido sentenciado o sentenciada con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos y por delitos de violencia política contra las mujeres por razones de género.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2023)</small>
+
+VII. No tener antecedentes penales por violencia familiar, hostigamiento sexual, acoso sexual, abuso sexual, violación o feminicidio.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
@@ -1609,6 +1653,10 @@ V. No ser Secretaria o Secretario o Subsecretario, Consejera o Comisionada Conse
 
 VI. No haya sido condenado por la comisión de delito doloso.
 
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2023)</small>
+
+VIII (SIC). No tener antecedentes penales por violencia familiar, hostigamiento sexual, acoso sexual, abuso sexual, violación o feminicidio.
+
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 92.
@@ -1997,8 +2045,6 @@ Las magistradas y los Magistrados en retiro son aquellos que habiendo sido ratif
 
 Será Presidenta o Presidente del Tribunal Superior de Justicia la Magistrada o Magistrado que designe el Pleno; durará en su encargo seis años y podrá ser reelecto sólo por término igual y rendirá protesta ante el Pleno del Tribunal, y mientras ejerza su función no integrará Sala.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 110.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
@@ -2009,21 +2055,35 @@ Para ser Magistrada o Magistrado del Tribunal Superior de Justicia se requiere:
 
 I. Ser ciudadana mexicana o ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 II. Tener cuando menos treinta y cinco años cumplidos el día de la designación.
 
-III. Poseer título de Licenciado en Derecho con antigüedad mínima de diez años, expedido por institución legalmente facultada para ello y registrado ante las autoridades correspondientes.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2023)</small>
+
+III. Poseer título de Licenciatura en Derecho con antigüedad mínima de diez años, expedido por institución legalmente facultada para ello y registrado ante las autoridades correspondientes.
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trataré de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 V. Haber residido en la entidad durante los dos años anteriores al día de la designación.
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2023)</small>
 
-VI. No haber sido Gobernador del Estado, titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, Diputada, Diputado, Diputada Federal, Diputado Federal, Senadora, Senador, Presidente, Síndico o Regidor de Ayuntamiento, o Consejera, Consejero o Comisionada o Comisionado de algunos de los organismos constitucionales autónomos, durante el año previo al día de la elección.
+VI. No haber sido Gobernador o Gobernadora del Estado, titular de alguna de las secretarias de despacho del Ejecutivo, Fiscal General, Diputada, Diputado, Diputada Federal, Diputado Federal, Senadora, Senador, Presidente, Presidenta, Sindico, Sindica o Regidor, Regidora, de Ayuntamiento, o Consejera, Consejero o Comisionada o Comisionado de algunos de los organismos constitucionales autónomos, durante el año previo al día de la elección.
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE MAYO DE 2022)</small>
 
 VII. No haber ocupado cargo directivo de ningún partido político, en los últimos tres años.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2023)</small>
+
+VIII. No tener antecedentes penales por violencia familiar, hostigamiento sexual, acoso sexual, abuso sexual, violación o feminicidio.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 Estos nombramientos, deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales, en el ejercicio de la actividad jurídica.
 
@@ -2629,17 +2689,17 @@ El gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no 
 
 Los municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 148.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2023)</small>
 
-Para ser electos presidentes, síndicos o regidores de un Ayuntamiento, se requiere:
+Para ser electos presidentes o presidentas, síndicas o síndicos, regidoras o regidores de un Ayuntamiento, se requiere:
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
 I. Ser ciudadana o ciudadano duranguense, en pleno ejercicio de sus derechos, originario del Municipio y con residencia efectiva de tres años, o ciudadano duranguense con residencia efectiva que no sea menor de cinco años inmediatamente anteriores al día de la elección.
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 II. Ser mayor de veintiún años de edad al día de la elección.
 
@@ -2647,9 +2707,21 @@ II. Ser mayor de veintiún años de edad al día de la elección.
 
 III. En el caso de ser Secretaria, Secretario o Subsecretaria, Subsecretario, Diputada o Diputado en ejercicio, Magistrada, Magistrado, Consejera, Consejero de la Judicatura, Comisionada, Comisionado, Consejera o Consejero de un órgano constitucional autónomo, funcionario municipal de mando superior, servidor público de mando superior de la Federación, o militar en servicio activo, deberá separarse del cargo noventa días antes de la elección.
 
-IV. No ser Ministro d e (sic) algún culto religioso.
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2023)</small>
 
-V. No haya sido condenado por la comisión de delito doloso.
+Para el caso de los funcionarios municipales de mando superior que opten por la elección consecutiva, no será aplicable el periodo de separación del cargo establecido en la fracción III del presente artículo.
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2023)</small>
+
+IV. No ser Ministro o Ministra de algún culto religioso.
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2023)</small>
+
+V. No haber sido sentenciado o sentenciada con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos y por delitos de violencia política contra las mujeres por razones de género.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2023)</small>
+
+VI. No tener antecedentes penales por violencia familiar, hostigamiento sexual, acoso sexual, abuso sexual, violación o feminicidio.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2022)</small>
 
@@ -4646,3 +4718,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se deroga el artículo 7 de la Ley Orgánica del Municipio Libre del Estado de Durango y demás disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 368.- QUE CONTIENE REFORMAS Y ADICIONES AL ARTÍCULO 63 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 369.- QUE CONTIENE REFORMA AL ARTÍCULO 3° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE DERECHO A UN AMBIENTE LIBRE DE CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
+
+P.O. 20 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 370.- QUE CONTIENE REFORMA A LOS ARTICULOS 15, 22 Y 34 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE INTERES SUPERIOR DE LAS NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+PRIMERO.- El presente decreto entrará en vigor en día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
