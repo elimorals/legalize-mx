@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2023-06-06"
+last_updated: "2023-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -113,11 +113,15 @@ V.- Diligenciar o mandar diligenciar exhortos, despachos y requisitorias procede
 
 VI.- Proporcionar a las autoridades competentes los informes que éstas pidan cuando así proceda conforme a la ley;
 
-> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2023)</small>
 
-VII.- Juzgar con perspectiva de discapacidad; y
+VII.- Juzgar con perspectiva de discapacidad;
 
-VIII.- Las demás que las leyes les confieran.
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2023)</small>
+
+VIII.- Juzgar con perspectiva de persona adulta mayor; y
+
+IX.- Las demás que las leyes les confieran.
 
 ###### ARTICULO 5º.
 
@@ -4437,13 +4441,13 @@ P.O. 6 DE JUNIO DE 2023.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 194.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 80; LA FRACCIÓN I DEL ARTÍCULO 81 Y EL TERCER PÁRRAFO DEL ARTÍCULO 111 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+P.O. 20 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-609 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII, Y SE ADICIONA UNA FRACCIÓN VIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 4° DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; Y SE ADICIONA UNA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 3° DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 3 DE SEPTIEMBRE DE 2018.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 226.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES XXIII Y XXIV DEL ARTÍCULO 9°; LA FRACCIÓN II DEL ARTÍCULO 69; EL PÁRRAFO PRIMERO DEL ARTÍCULO 70; LAS FRACCIONES II Y III DEL ARTÍCULO 83 SEPTIES; LA FRACCIÓN III DEL ARTÍCULO 83 UNDECIES; ASIMISMO SE ADICIONAN LAS FRACCIONES XXV Y XXVI AL ARTÍCULO 9°; UN INCISO W) A LA FRACCIÓN IV, APARTADO A) DEL ARTÍCULO 28; UN PÁRRAFO SEGUNDO AL ARTÍCULO 51; UN PÁRRAFO SEGUNDO QUE INCLUYE LAS FRACCIONES I A VII AL ARTÍCULO 70; Y LA FRACCIÓN IV AL ARTÍCULO 83 SEPTIES DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
