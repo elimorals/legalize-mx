@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2023-06-06"
+last_updated: "2023-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -113,11 +113,15 @@ V.- Diligenciar o mandar diligenciar exhortos, despachos y requisitorias procede
 
 VI.- Proporcionar a las autoridades competentes los informes que éstas pidan cuando así proceda conforme a la ley;
 
-> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2023)</small>
 
-VII.- Juzgar con perspectiva de discapacidad; y
+VII.- Juzgar con perspectiva de discapacidad;
 
-VIII.- Las demás que las leyes les confieran.
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2023)</small>
+
+VIII.- Juzgar con perspectiva de persona adulta mayor; y
+
+IX.- Las demás que las leyes les confieran.
 
 ###### ARTICULO 5º.
 
@@ -4432,6 +4436,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-609 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII, Y SE ADICIONA UNA FRACCIÓN VIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 4° DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; Y SE ADICIONA UNA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 3° DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
