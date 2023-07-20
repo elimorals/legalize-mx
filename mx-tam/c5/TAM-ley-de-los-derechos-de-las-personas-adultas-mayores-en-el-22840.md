@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2023-06-06"
+last_updated: "2023-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -105,21 +105,25 @@ c).- Dependiente absoluto: A aquella con una enfermedad crónica o degenerativa 
 
 d).- En situación de riesgo o desamparo.- A aquellas que por problemas de salud, abandono, carencia de apoyos económicos y familiares, contingencias ambientales o desastres naturales, requieren de asistencia y protección del Estado y de la sociedad organizada.
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2023)</small>
 
-X.- Abandono.- La falta de acción deliberada o no para atender de manera integral las necesidades de una persona adulta mayor, que ponga en peligro su vida o su integridad física, psíquica o moral;
-
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
-
-XI.- Cuidados paliativos.- La atención y cuidado activo, integral e interdisciplinario de pacientes cuya enfermedad no responde a un tratamiento curativo o sufren dolores evitables, a fin de mejorar su calidad de vida hasta el fin de sus días. Implica una atención primordial al control del dolor, de otros síntomas y de los problemas sociales, psicológicos y espirituales de la persona mayor. Abarcan al paciente, su entorno y su familia. Afirman la vida y consideran la muerte como un proceso normal; no la aceleran ni retrasan;
+X.- Perspectiva de persona adulta mayor.- Consiste en la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad, trato indigno, violencia y exclusión de las personas adultas mayores, que se pretende justificar con base en su vulnerabilidad, edad, estado de salud, accesibilidad y condición socioeconómica, así como las acciones que deben emprenderse para actuar sobre la igualdad e inclusión y realizar los cambios que permitan garantizar la dignidad, participación, derechos humanos, equidad, autonomía, libertades, integración y desarrollo de las personas adultas mayores en la sociedad;
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
 
-XII.- Maltrato.- Acción u omisión, única o repetida, contra una persona adulta mayor que produce daño a su integridad física, psicológica, moral, económica y sexual que vulnera el goce o ejercicio de sus derechos humanos y libertades fundamentales, independientemente de que ocurra en una relación de confianza; y
+XI.- Abandono.- La falta de acción deliberada o no para atender de manera integral las necesidades de una persona adulta mayor, que ponga en peligro su vida o su integridad física, psíquica o moral;
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
 
-XIII.- Negligencia.- Error involuntario o falta no deliberada, incluido entre otros, el descuido, omisión, desamparo e indefensión que le causa un daño o sufrimiento a una persona adulta mayor, tanto en el ámbito público como privado, cuando no se hayan tomado las precauciones normales necesarias de conformidad con las circunstancias.
+XII.- Cuidados paliativos.- La atención y cuidado activo, integral e interdisciplinario de pacientes cuya enfermedad no responde a un tratamiento curativo o sufren dolores evitables, a fin de mejorar su calidad de vida hasta el fin de sus días. Implica una atención primordial al control del dolor, de otros síntomas y de los problemas sociales, psicológicos y espirituales de la persona mayor. Abarcan al paciente, su entorno y su familia. Afirman la vida y consideran la muerte como un proceso normal; no la aceleran ni retrasan;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+
+XIII.- Maltrato.- Acción u omisión, única o repetida, contra una persona adulta mayor que produce daño a su integridad física, psicológica, moral, económica y sexual que vulnera el goce o ejercicio de sus derechos humanos y libertades fundamentales, independientemente de que ocurra en una relación de confianza; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+
+XIV.- Negligencia.- Error involuntario o falta no deliberada, incluido entre otros, el descuido, omisión, desamparo e indefensión que le causa un daño o sufrimiento a una persona adulta mayor, tanto en el ámbito público como privado, cuando no se hayan tomado las precauciones normales necesarias de conformidad con las circunstancias.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
 
@@ -996,6 +1000,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-584 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 27; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 29, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-609 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII, Y SE ADICIONA UNA FRACCIÓN VIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 4°, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO; Y SE ADICIONA UNA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 3° DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
