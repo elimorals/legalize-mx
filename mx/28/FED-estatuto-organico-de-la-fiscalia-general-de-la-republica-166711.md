@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-fiscalia-general-de-la-republica-166711
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-06-19"
-last_updated: "2023-06-19"
+last_updated: "2023-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166711&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2023-03-31"
 ---
 # ESTATUTO ORGANICO DE LA FISCALIA GENERAL DE LA REPUBLICA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JULIO DE 2023 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE LA FISCALÍA GENERAL DE LA REPÚBLICA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 20 DE JULIO DE 2023.]</small>
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 19 de junio de 2023.
 
@@ -711,7 +711,9 @@ Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico
 
 I. Prestar asesoría y colaboración a la persona titular de la Fiscalía General en los asuntos de su competencia;
 
-II. Elaborar y revisar los proyectos de instrumentos, oficios, informes, documentos y opiniones que le encomiende la persona titular de la Fiscalía General, así como proponer y someter a consideración de la persona titular de la Fiscalía General opiniones jurídicas; proyectos de ley o de reformas constitucionales o legales; opiniones respecto de proyectos de tratados internacionales; proyectos de acuerdos interinstitucionales o cualquier otro instrumentos (sic) jurídico que impacte en las materias competencia de la Fiscalía General de conformidad con el artículo 19, fracciones XVI y XXXII de la Ley;
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+II. Elaborar y revisar los proyectos de instrumentos, oficios, informes, documentos y opiniones que le encomiende la persona titular de la Fiscalía General, así como proponer y someter a consideración de la persona titular de la Fiscalía General opiniones jurídicas; proyectos de ley o de reformas constitucionales o legales; opiniones respecto de proyectos de tratados internacionales; proyectos de acuerdos interinstitucionales o cualquier otro instrumento jurídico que impacte en las materias competencia de la Fiscalía General de conformidad con el artículo 19, fracciones XVI y XXXII de la Ley;
 
 III. Elaborar, en coordinación con las personas titulares de las Unidades Administrativas, el Manual de Organización y procedimientos de la Fiscalía General, y someterlo para la consideración y, en su caso, emisión de la persona titular de la Fiscalía General;
 
@@ -1085,7 +1087,9 @@ VII. Remitir la carpeta de investigación dentro del término de setenta y dos h
 
 Las personas agentes del Ministerio Público de la Federación, además de efectuar las acciones necesarias que permitan asegurar una colaboración institucional efectiva, tratándose de asuntos con detenido o casos urgentes, deberán abocarse a su conocimiento y trámite inmediato, observando las determinaciones establecidas con anterioridad, por lo que sin demora alguna deberán ejercer las facultades y realizar las técnicas de investigación que correspondan, con el propósito de asegurar la plena integración y no fragmentación de las investigaciones, en coordinación con la Fiscalía Especial o Unidad de Investigación competente.
 
-En cualquier caso, las personas agentes del Ministerio Público de la Federación adscritas (sic) las Fiscalías Federales habrán de entablar comunicación con el personal de la Fiscalía Especial o Unidad de Investigación a efecto de consultar y comentar las particularidades del caso que se considera de su competencia, con el propósito de que emitan su opinión sobre las actuaciones que se realicen de conformidad con las fracciones III y V del presente artículo.
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+En cualquier caso, las personas agentes del Ministerio Público de la Federación adscritas a las Fiscalías Federales habrán de entablar comunicación con el personal de la Fiscalía Especial o Unidad de Investigación a efecto de consultar y comentar las particularidades del caso que se considera de su competencia, con el propósito de que emitan su opinión sobre las actuaciones que se realicen de conformidad con las fracciones III y V del presente artículo.
 
 ###### Artículo 27.
 
@@ -1731,7 +1735,9 @@ Facultades de la persona titular de la Fiscalía Especializada de Control Region
 
 Adicionalmente a las previstas en el artículo 31 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especializada de Control Regional tendrá las siguientes facultades:
 
-I. Conducir, supervisar y coordinar a las Unidades Administrativas a su cargo, en la investigación y persecución de los hechos que la ley señale como delitos federales, que no sean competencia de otra Unidad Administrativa, y en todos los hechos que la ley señale como delitos en los casos de urgencia o fragancia (sic) que se presenten, al igual que en la intervención para la ejecución de las penas y la atención de los juicios de amparo;
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+I. Conducir, supervisar y coordinar a las Unidades Administrativas a su cargo, en la investigación y persecución de los hechos que la ley señale como delitos federales, que no sean competencia de otra Unidad Administrativa, y en todos los hechos que la ley señale como delitos en los casos de urgencia o flagrancia que se presenten, al igual que en la intervención para la ejecución de las penas y la atención de los juicios de amparo;
 
 II. Conducir y supervisar a las Unidades Administrativas a su cargo, en la actuación oportuna y coordinada en la atención de los asuntos, diligencias urgentes o judiciales, en los que, por las necesidades del servicio, se solicite su colaboración;
 
@@ -1781,7 +1787,9 @@ XI. Las demás que se establezcan en algún otro ordenamiento jurídico en el á
 
 Subunidades de Seguimiento y Control.
 
-La Unidad Especializada en el Sistema de Coordinación Regional contará, para el apoyo en el ejercicio (sic) sus funciones en las entidades federativas y en la Ciudad de México, con Subunidades de Seguimiento y Control, cuyo número atenderá al presupuesto autorizado y su distribución, a lo previsto en los Manuales de Organización y de Procedimientos que emita la persona titular de la Fiscalía Especializada de Control Regional.
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+La Unidad Especializada en el Sistema de Coordinación Regional contará, para el apoyo en el ejercicio de sus funciones en las entidades federativas y en la Ciudad de México, con Subunidades de Seguimiento y Control, cuyo número atenderá al presupuesto autorizado y su distribución, a lo previsto en los Manuales de Organización y de Procedimientos que emita la persona titular de la Fiscalía Especializada de Control Regional.
 
 ###### Artículo 65.
 
@@ -1887,7 +1895,9 @@ II. Solicitar y efectuar actos y técnicas de investigación relacionados con la
 
 III. Operar como órgano de consulta de la Institución en materia de extinción de dominio;
 
-IV. Participar en estrategias de coordinación nacional e internacional con las instancias homólogas o que resulten pertinentes para el ejercicio de sus funciones, notificando por escrito o a través de cualquier medio que garantice su autenticidad a la persona titular de (sic) Fiscalía Especial para Asuntos Internacionales;
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+IV. Participar en estrategias de coordinación nacional e internacional con las instancias homólogas o que resulten pertinentes para el ejercicio de sus funciones, notificando por escrito o a través de cualquier medio que garantice su autenticidad a la persona titular de la Fiscalía Especial para Asuntos Internacionales;
 
 V. Diseñar y establecer métodos y procedimientos de recolección, procesamiento, análisis y clasificación de la información fiscal, patrimonial y financiera que obtenga, para generar registros en los asuntos de su competencia;
 
@@ -2137,7 +2147,9 @@ Facultades de la persona titular de la Fiscalía Especial en Investigación de T
 
 Adicionalmente a las previstas en el artículo 41 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especial en Investigación de Tráfico de Menores, Personas y Órganos, y Contra la Biodiversidad tendrá las siguientes facultades:
 
-I. Participar en la investigación y persecución de los hechos que la ley señale como delitos previstos en el artículo 2 de la Ley Federal contra la Delincuencia Organizada en relación con los hechos tipificados como delito de tráfico de menores o personas que no tienen capacidad para comprender el significado del hecho, previsto en el artículo 366 Ter; corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 Bis; y lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204, todos previstos en (sic) Código Penal Federal o en las disposiciones correspondientes de las legislaciones penales de las entidades federativas y en la Ciudad de México; tráfico de personas, previsto en el artículo 159 de la Ley de Migración, tráfico de órganos, previsto en los artículos 461, 462 y 462 Bis, de la Ley General de Salud, y los hechos tipificados como delitos en materia de trata de personas previstos en el Libro Primero, Título Segundo de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, excepto en el caso de los artículos 32, 33 y 34; así como los hechos tipificados como delito contra la biodiversidad previsto en la fracción IV del artículo 420 del Código Penal Federal;
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+I. Participar en la investigación y persecución de los hechos que la ley señale como delitos previstos en el artículo 2 de la Ley Federal contra la Delincuencia Organizada en relación con los hechos tipificados como delito de tráfico de menores o personas que no tienen capacidad para comprender el significado del hecho, previsto en el artículo 366 Ter; corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 Bis; y lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204, todos previstos en el Código Penal Federal o en las disposiciones correspondientes de las legislaciones penales de las entidades federativas y en la Ciudad de México; tráfico de personas, previsto en el artículo 159 de la Ley de Migración, tráfico de órganos, previsto en los artículos 461, 462 y 462 Bis, de la Ley General de Salud, y los hechos tipificados como delitos en materia de trata de personas previstos en el Libro Primero, Título Segundo de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, excepto en el caso de los artículos 32, 33 y 34; así como los hechos tipificados como delito contra la biodiversidad previsto en la fracción IV del artículo 420 del Código Penal Federal;
 
 II. Ejercer las atribuciones y cumplir las obligaciones que la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, establece para las personas agentes del Ministerio Público de la Federación, y
 
@@ -2277,7 +2289,9 @@ Facultades de la persona titular de la Fiscalía Especializada en materia de Com
 
 Adicionalmente a las previstas en el artículo 31 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especializada en materia de Combate a la Corrupción tendrá las siguientes facultades:
 
-I. Conducir y supervisar, por conducto de las Fiscalías Especiales (sic) su cargo, la investigación y persecución de los hechos que la ley señale como delitos contenidos en el Título Décimo, del Libro Segundo, del Código Penal Federal, debiendo concentrar los asuntos conexos o relacionados con el ámbito de su competencia, cuidando su integridad y no fragmentación, aún aquellos que versen sobre delincuencia organizada;
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+I. Conducir y supervisar, por conducto de las Fiscalías Especiales a su cargo, la investigación y persecución de los hechos que la ley señale como delitos contenidos en el Título Décimo, del Libro Segundo, del Código Penal Federal, debiendo concentrar los asuntos conexos o relacionados con el ámbito de su competencia, cuidando su integridad y no fragmentación, aún aquellos que versen sobre delincuencia organizada;
 
 II. Establecer, previa aprobación de la persona titular de la Fiscalía General, los planes y programas destinados a detectar la comisión de hechos que la ley considera como delito en materia de corrupción en el ámbito de su competencia;
 
@@ -2363,7 +2377,9 @@ VI. Participar en representación de la persona titular de la Fiscalía General 
 
 VII. Fungir como aquella a que se refiere el artículo 55 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, por conducto de la Fiscalía Especial en Investigación del Delito de Tortura y ejercer las facultades que dicho ordenamiento otorga a la Fiscalía General;
 
-VIII. Firmar convenios de colaboración con las instituciones encargadas de (sic) atención a víctimas con el propósito de estar en posibilidades de dar cumplimiento a lo previsto en el artículo 42 de (sic) Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, y
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+VIII. Firmar convenios de colaboración con las instituciones encargadas de la atención a víctimas, con el propósito de estar en posibilidades de dar cumplimiento a lo previsto en el artículo 42 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, y
 
 IX. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
@@ -2535,7 +2551,9 @@ III. Generar y participar en actividades psicoeducativas para personas víctimas
 
 IV. Gestionar y proporcionar la vinculación institucional y acompañamiento para la obtención de apoyos de asistencia social ante las instituciones que brindan servicios especializados;
 
-V. Realizar el acompañamiento psicosocial a personas víctimas y personas ofendidas, en diligencias ministeriales, en términos del Protocolo Homologado de Investigación para los Delitos de Desaparición Forzada y Desaparición cometida por Particulares; que pueden ser, de manera enunciativa y no limitativa, toma y ampliación de declaración, revisión de Averiguación Previa o carpeta de investigación, toma de muestras genéticas, acciones de rescate de personas víctimas, búsqueda con vida de personas desparecidas (sic) o no localizadas en hospitales y centros de detención como centros estatales o federales de reinserción social y penitenciarios, y búsqueda sin vida de personas desparecidas (sic) o no localizadas en servicios médicos forenses;
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+V. Realizar el acompañamiento psicosocial a personas víctimas y personas ofendidas, en diligencias ministeriales, en términos del Protocolo Homologado de Investigación para los Delitos de Desaparición Forzada y Desaparición cometida por Particulares; que pueden ser, de manera enunciativa y no limitativa, toma y ampliación de declaración, revisión de Averiguación Previa o carpeta de investigación, toma de muestras genéticas, acciones de rescate de personas víctimas, búsqueda con vida de personas desaparecidas o no localizadas en hospitales y centros de detención como centros estatales o federales de reinserción social y penitenciarios, y búsqueda sin vida de personas desaparecidas o no localizadas en servicios médicos forenses;
 
 VI. Brindar el acompañamiento psicosocial a personas víctimas y personas ofendidas en diligencias ministeriales, previa autorización de las autoridades facultadas, como cateos, inspecciones, así como en la notificación y entrega de restos humanos, y
 
@@ -2603,9 +2621,13 @@ Adicionalmente a las previstas en el artículo 41 del presente Estatuto Orgánic
 
 I. Participar en la investigación y persecución de los hechos que la ley señale como delitos del orden federal previstos en el Código Penal Federal, relativos a los hechos de violencia contra las mujeres por su condición de género;
 
-II. Participar en la investigación y persecución (sic) los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes cuando se trate de mujeres víctimas de tortura sexual conforme a los criterios internacionales y nacionales en materia de derechos humanos;
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
 
-III. Cumplir con las obligaciones y facultades que establece la Ley General de Acceso a (sic) las Mujeres a una Vida Libre de Violencia para las personas agentes del Ministerio Público de la Federación, y
+II. Participar en la investigación y persecución de los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes cuando se trate de mujeres víctimas de tortura sexual conforme a los criterios internacionales y nacionales en materia de derechos humanos;
+
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+III. Cumplir con las obligaciones y facultades que establece la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia para las personas agentes del Ministerio Público de la Federación, y
 
 IV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
@@ -2613,7 +2635,9 @@ IV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea 
 
 Facultades de la persona titular de la Fiscalía Especial para la Investigación de Delitos cometidos contra Niñas, Niños y Adolescentes y Grupos en Situación de Vulnerabilidad.
 
-Adicionalmente a las previstas en el artículo 41 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especial para la Investigación de Delitos cometidos contra Niñas, Niños y Adolescentes y los Grupos en Situación de Vulnerabilidad tendrá las siguientes facultades:
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+Adicionalmente a las previstas en el artículo 41 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especial para la Investigación de Delitos cometidos contra Niñas, Niños y Adolescentes y Grupos en Situación de Vulnerabilidad tendrá las siguientes facultades:
 
 I. Participar en la investigación y persecución de los hechos que la ley señale como delitos del orden federal previstos en el Código Penal Federal, cometidos contra niñas, niños y adolescentes;
 
@@ -2829,7 +2853,9 @@ VI. Implementar y supervisar el esquema de despliegue regional y estatal, atendi
 
 VII. Emitir las políticas para la implementación de las actividades de control, supervisión y evaluación de las Unidades Administrativas de la Agencia de Investigación Criminal;
 
-VIII. Establecer en el Manual de Organización y en el Manual (sic) Procedimientos de la Agencia de Investigación Criminal las directrices conforme a las cuales se impondrán las medidas disciplinarias previstas en los artículos 80, 81 y 82 de la Ley;
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+VIII. Establecer en el Manual de Organización y en el Manual de Procedimientos de la Agencia de Investigación Criminal las directrices conforme a las cuales se impondrán las medidas disciplinarias previstas en los artículos 80, 81 y 82 de la Ley;
 
 IX. Instruir el establecimiento de las directrices para el diseño, construcción, implementación y administración de los sistemas, bases y bancos de datos institucionales o nacionales, relativos al fenómeno de la delincuencia nacional e internacional, así como de los mercados criminales, que estén a cargo de las Unidades Administrativas que tenga adscritas, así como aquellos previstos en las leyes especiales, tratados e instrumentos internacionales y demás disposiciones vinculadas con la competencia de la Fiscalía General;
 
@@ -3177,7 +3203,9 @@ IV. Emitir las directrices de operación para la práctica de inspecciones y la 
 
 V. Acceder por acuerdo superior y por conducto de las personas servidoras públicas a su cargo, con motivo del ejercicio de sus atribuciones, a los expedientes, documentos, sistemas, bases de datos, registros, bodegas de indicios e información que se encuentren bajo responsabilidad de las personas servidoras públicas adscritas a la Policía Federal Ministerial y a las Coordinaciones Regionales, cuando se les realice una inspección o resulte conducente para el desarrollo de sus facultades, así como a las instalaciones, equipos y elementos que ahí se encuentren, de conformidad con las disposiciones aplicables y atendiendo en todo momento el ámbito de su competencia;
 
-VI. Registrar, sistematizar y administrar, por conducto de las personas servidoras públicas a su cargo, la información sobre el tipo y frecuencia de las deficiencias e irregularidades detectadas a través de las inspecciones ordinarias y extraordinarias practicadas para la revisión, control y evaluación técnico operativo (sic), y así como para los demás actos que realice en el ejercicio de sus atribuciones, proporcionando a las Unidades Administrativas correspondientes los informes detallados sobre la problemática observada y dictando medidas preventivas o correctivas necesarias, mediante la emisión de órdenes, instrucciones y recomendaciones, de conformidad con las disposiciones aplicables y atendiendo en todo momento el ámbito de su competencia;
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+VI. Registrar, sistematizar y administrar, por conducto de las personas servidoras públicas a su cargo, la información sobre el tipo y frecuencia de las deficiencias e irregularidades detectadas a través de las inspecciones ordinarias y extraordinarias practicadas para la revisión, control y evaluación técnico operativa, y así como para los demás actos que realice en el ejercicio de sus atribuciones, proporcionando a las Unidades Administrativas correspondientes los informes detallados sobre la problemática observada y dictando medidas preventivas o correctivas necesarias, mediante la emisión de órdenes, instrucciones y recomendaciones, de conformidad con las disposiciones aplicables y atendiendo en todo momento el ámbito de su competencia;
 
 VII. Formular queja, vista o denuncia, según corresponda, ante la autoridad u órgano competente, por las conductas que puedan resultar constitutivas de responsabilidad administrativa o penal, atribuibles a las personas servidoras públicas adscritas a la Policía Federal Ministerial y a las Coordinaciones Regionales detectadas durante las inspecciones que se practiquen;
 
@@ -3281,7 +3309,9 @@ o. Las previstas en los artículos 190 y 241, fracción VII, de la Ley Nacional 
 
 p. Las previstas en los artículos 10, 18, 20 y 23, de la Ley Nacional del Registro de Detenciones;
 
-q. Las previstas en los artículos (sic) 74, de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, y
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+q. Las previstas en el artículo 74, de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, y
 
 r. Las demás que disponga el ordenamiento jurídico en la materia.
 
@@ -3747,7 +3777,9 @@ XXIII. Imponer las medidas disciplinarias previstas en los artículos 80, 81 y 8
 
 XXIV. Ejecutar y supervisar el cumplimiento al esquema de despliegue regional y estatal del Centro Federal de Inteligencia Criminal, atendiendo a la incidencia delictiva de los mercados criminales, los mapas delincuenciales, cargas de trabajo y necesidades del servicio para la atención de mandamientos ministeriales y judiciales, conforme lo instruya la persona titular de la Agencia de Investigación Criminal;
 
-XXV. Coordinar, operar y supervisar el correcto y oportuno registro, almacenamiento, sistematización, administración y seguimiento de la información relativa al inicio, trámite y conclusión de las de las (sic) actuaciones de las personas agentes de la Policía Federal Ministerial y las personas analistas, conforme a la materia de su competencia e implementar las medidas necesarias para que la información referida se entregue de forma periódica al Sistema Institucional de Evaluación de Resultados;
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+XXV. Coordinar, operar y supervisar el correcto y oportuno registro, almacenamiento, sistematización, administración y seguimiento de la información relativa al inicio, trámite y conclusión de las actuaciones de las personas agentes de la Policía Federal Ministerial y de las personas analistas, conforme a la materia de su competencia e implementar las medidas necesarias para que la información referida se entregue de forma periódica al Sistema Institucional de Evaluación de Resultados;
 
 XXVI. Instruir la gestión y atención de las solicitudes de información y asistencia técnica a los concesionarios de redes públicas de telecomunicaciones y las comercializadoras de servicios de telecomunicaciones, en términos de la Ley Federal de Telecomunicaciones y demás disposiciones aplicables;
 
@@ -4799,7 +4831,9 @@ X. Abastecer y racionalizar los recursos materiales y servicios que requieran la
 
 XI. Evaluar y supervisar los proyectos de construcción, mantenimiento, conservación y adaptación de inmuebles propiedad o en uso de la Fiscalía General que aseguren el aprovechamiento del activo;
 
-XII. Integrar y ejecutar del (sic) Programa de Seguros Patrimoniales de la Fiscalía General;
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+XII. Integrar y ejecutar el Programa de Seguros Patrimoniales de la Fiscalía General;
 
 XIII. Instruir la prestación de servicios generales, de apoyo, incluidas las solicitudes de servicios de transporte en sus distintas modalidades;
 
@@ -5375,7 +5409,9 @@ XVII. Revisar, en coordinación con las Unidades Administrativas, los indicadore
 
 XVIII. Proponer lineamientos que permitan mejorar la capacidad de respuesta institucional a las demandas de la sociedad en materia de procuración de justicia;
 
-XIX. Elaborar el modelo del sistema de control interno y su metodología de evaluación, integrar los indicadores y las metas que formarán el Sistema y que las Unidades Administrativas deberán desarrollar, así como proporcionar el soporte administrativo para el establecimiento del sistema (sic) control interno de la Fiscalía General;
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+XIX. Elaborar el modelo del sistema de control interno y su metodología de evaluación, integrar los indicadores y las metas que formarán el Sistema y que las Unidades Administrativas deberán desarrollar, así como proporcionar el soporte administrativo para el establecimiento del sistema de control interno de la Fiscalía General;
 
 XX. Coordinarse con la Unidad de Recursos Humanos en materia de organización, estructuras orgánicas y ocupacionales en la realización de investigaciones, estudios o análisis alineados a los principios de racionalidad y austeridad republicana;
 
@@ -5515,7 +5551,9 @@ VIII. Coordinar, turnar y dar seguimiento a las propuestas y recomendaciones emi
 
 IX. Elaborar los informes y resultados de las gestiones realizadas a la persona titular de la Fiscalía General, y
 
-X. Las demás que, por la naturaleza de sus funciones, instruya la persona titular de la Fiscal (sic) General o el Consejo Ciudadano.
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+X. Las demás que, por la naturaleza de sus funciones, instruya la persona titular de la Fiscalía General o el Consejo Ciudadano.
 
 ###### Artículo 202.
 
@@ -5555,7 +5593,9 @@ Para tales efectos, los Manuales de Organización y de Procedimientos deberán c
 
 La persona titular del Órgano Interno de Control deberá evaluar al menos cada año el desempeño y las cargas de trabajo reales de las personas servidoras públicas a su cargo, a efecto de modificar los Manuales de Organización y de Procedimientos, en caso de ser necesario, para mejorar la eficiencia y eficacia del servicio público.
 
-Para la expedición y, en su caso, actualización de los Manuales de Organización y de Procedimientos, se deberá contar con el visto bueno (sic) la persona titular de la Oficialía Mayor y recabar la opinión de la Unidad Especializada en Asuntos Jurídicos.
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+Para la expedición y, en su caso, actualización de los Manuales de Organización y de Procedimientos, se deberá contar con el visto bueno de la persona titular de la Oficialía Mayor y recabar la opinión de la Unidad Especializada en Asuntos Jurídicos.
 
 Los Manuales de Organización y de Procedimientos, así como sus modificaciones, deberán publicarse en el Diario Oficial de la Federación, en términos del artículo 27 de la Ley.
 
@@ -5667,7 +5707,9 @@ Las personas titulares de las Fiscalías Especializadas y la Agencia de Investig
 
 De la supervisión de la Función Sustantiva.
 
-Las personas titulares de las Fiscalías Especializadas y la Agencia de Investigación Criminal deberán supervisar el cumplimiento de las obligaciones previstas en la Ley y dar seguimiento a la aplicación del modelo de gestión que hubiesen definido para cada una de las Unidades Administrativas que tengan adscritas, por lo que se encargarán de supervisar el cumplimiento de los tiempos procesales y de que se practiquen oportunamente las diligencias pertinentes, a fin de evitar retrasos injustificados en la integración de las carpetas de investigación por parte del personal a su cargo, así como el cumplimento (sic) de los criterios de operación, en los términos que se precisan en el Título IX, del presente Estatuto Orgánico.
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+Las personas titulares de las Fiscalías Especializadas y la Agencia de Investigación Criminal deberán supervisar el cumplimiento de las obligaciones previstas en la Ley y dar seguimiento a la aplicación del modelo de gestión que hubiesen definido para cada una de las Unidades Administrativas que tengan adscritas, por lo que se encargarán de supervisar el cumplimiento de los tiempos procesales y de que se practiquen oportunamente las diligencias pertinentes, a fin de evitar retrasos injustificados en la integración de las carpetas de investigación por parte del personal a su cargo, así como el cumplimiento de los criterios de operación, en los términos que se precisan en el Título IX, del presente Estatuto Orgánico.
 
 Para efectos del párrafo anterior, las Fiscalías Especializadas y la Agencia de Investigación Criminal integrarán equipos de supervisión que les reportarán directamente, con la finalidad de lograr una distribución estratégica de los casos que permita impactar en el incremento substancial de la resolución de casos.
 
@@ -5967,7 +6009,9 @@ f. De las diligencias practicadas se desprenda de manera indubitable que la pers
 
 g. La conducta o hecho atribuible a la persona imputada haya sido materia de una resolución judicial firme;
 
-h. De las diligencias practicadas, se desprenda que se actualiza cualquiera de las causas de exclusión del delito previstas en el artículo 15 (sic) Código Penal Federal, y
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+h. De las diligencias practicadas, se desprenda que se actualiza cualquiera de las causas de exclusión del delito previstas en el artículo 15 del Código Penal Federal, y
 
 i. El hecho que la ley señala como delito se encuentre derogado.
 
@@ -6077,7 +6121,9 @@ V. El beneficio que generará su emisión o actualización, y
 
 VI. El proyecto de protocolo de actuación, que deberá contener, como mínimo, los objetivos generales y el marco jurídico.
 
-La Unidad de Planeación y Coordinación Interinstitucional, en un plazo máximo de treinta días hábiles contados a partir de que se cuente con la opinión de (sic) Unidad Especializada en Asuntos Jurídicos, colaborará con la requirente, en la revisión y conformación del proyecto de protocolo de actuación, a través de las sesiones de trabajo que para tal efecto se requieran.
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+La Unidad de Planeación y Coordinación Interinstitucional, en un plazo máximo de treinta días hábiles contados a partir de que se cuente con la opinión de la Unidad Especializada en Asuntos Jurídicos, colaborará con la requirente, en la revisión y conformación del proyecto de protocolo de actuación, a través de las sesiones de trabajo que para tal efecto se requieran.
 
 En caso de que la requirente necesite un plazo mayor al establecido en el párrafo anterior, será necesario que lo solicite y justifique mediante oficio a la Unidad de Planeación y Coordinación Interinstitucional.
 
@@ -6327,7 +6373,9 @@ IV. Aprobar el sistema de gestión de seguridad de la información y los lineami
 
 V. Aprobar la estrategia de gobierno de la información que será implementada al interior de la Fiscalía General, así como efectuar su revisión, al menos una vez al año, a propuesta de la Unidad Especializada en el Sistema Institucional de Evaluación de Resultados;
 
-VI. Constituir un Comité de Gestión del Gobierno de la Información que se encargará de construir un sistema de gobierno de la información, que contendrá, como mínimo: la identificación (sic) los grupos de datos estructurados y no estructurados; reglas sobre la recolección almacenamiento y explotación de los datos distinguiendo la sensibilidad de los datos; la unificación de la información dispersa en bases de datos, en centros de datos que aseguren el acceso a la información por cada una de las Unidades Administrativas competentes; la construcción de catálogos comprensibles de metadatos que faciliten a las personas usuarias el acceso a la información relevante de acuerdo con sus roles asignados; la alineación de las metas del gobierno de la información a las metas institucionales; reglas para asegurar de forma permanente niveles óptimos de calidad de la información; y establecer a las personas responsables de la implementación de la estrategia de gobierno de los datos en cada una de las Unidades Administrativas;
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+VI. Constituir un Comité de Gestión del Gobierno de la Información que se encargará de construir un sistema de gobierno de la información, que contendrá, como mínimo: la identificación de los grupos de datos estructurados y no estructurados; reglas sobre la recolección almacenamiento y explotación de los datos distinguiendo la sensibilidad de los datos; la unificación de la información dispersa en bases de datos, en centros de datos que aseguren el acceso a la información por cada una de las Unidades Administrativas competentes; la construcción de catálogos comprensibles de metadatos que faciliten a las personas usuarias el acceso a la información relevante de acuerdo con sus roles asignados; la alineación de las metas del gobierno de la información a las metas institucionales; reglas para asegurar de forma permanente niveles óptimos de calidad de la información; y establecer a las personas responsables de la implementación de la estrategia de gobierno de los datos en cada una de las Unidades Administrativas;
 
 VII. Aprobar el sistema de gestión de la información elaborado por el Comité de Gestión del Gobierno de la Información;
 
@@ -6477,7 +6525,9 @@ Toda la información generada, obtenida, adquirida, transformada o en posesión 
 
 Información de la Fiscalía General.
 
-Los expedientes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, circulares, contratos, convenios, instructivos, notas, memorandos, bases de datos, sistemas informáticos o bien, cualquier otro registro que documente el ejercicio de atribuciones, facultades y/o funciones de las personas servidoras públicas (sic) la Fiscalía General o por intercambio de información con otros entes públicos o privados, nacionales o internacionales, sin importar su fuente o fecha de elaboración, podrán actualizar los supuestos de reserva o confidencialidad, de conformidad con la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, y demás disposiciones aplicables en la materia.
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+
+Los expedientes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, circulares, contratos, convenios, instructivos, notas, memorandos, bases de datos, sistemas informáticos o bien, cualquier otro registro que documente el ejercicio de atribuciones, facultades y/o funciones de las personas servidoras públicas de la Fiscalía General o por intercambio de información con otros entes públicos o privados, nacionales o internacionales, sin importar su fuente o fecha de elaboración, podrán actualizar los supuestos de reserva o confidencialidad, de conformidad con la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, y demás disposiciones aplicables en la materia.
 
 Los actos o registros de investigación, así como todos los documentos, independientemente de su contenido o naturaleza, los objetos, los registros de voz e imágenes o elementos relacionados, son estrictamente reservados, por lo que únicamente las partes del proceso penal podrán tener acceso a los mismos, con las limitaciones establecidas en el Código Nacional, la Ley Nacional de Extinción de Dominio y demás disposiciones aplicables. Cuando alguna autoridad deba acceder, por estar prevista en términos de la ley y la normatividad aplicable su facultad, deberá consultar en sitio la información y recabar las copias certificadas que requiera para el ejercicio de sus atribuciones.
 
