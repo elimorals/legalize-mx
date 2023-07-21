@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2023-05-30"
+last_updated: "2023-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -222,6 +222,18 @@ Toda persona tiene el derecho al uso y disfrute de los espacios públicos destin
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Las Leyes locales organizarán el patrimonio familiar determinando los bienes que deban constituirlos, sobre la base que será inalienable y no estará sujeto a embargo ni gravamen alguno.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Se reconoce el derecho humano a la movilidad de las personas y colectividades que habitan en el Estado. Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, comodidad, eficacia y eficiencia, sostenibilidad, calidad, inclusión, igualdad, confiabilidad, equidad, habitabilidad, movilidad activa, multimodalidad, participación, resiliencia y progresividad.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+De acuerdo a la jerarquía de movilidad, se otorgará prioridad a los peatones y conductores de vehículos no motorizados, y se fomentará una cultura de movilidad sustentable.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+El Estado y sus municipios garantizarán las medidas necesarias para que toda persona tenga acceso al ejercicio de este derecho, particularmente en el uso equitativo del espacio vial, el cual será adecuado a las necesidades sociales y ambientales de cada región geográfica del Estado.
 
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
@@ -4726,3 +4738,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Hasta en tanto se cree el Registro Nacional de Obligaciones Alimentarias y para dar cumplimiento a la fracción V del Artículo 31 a que se refiere este Decreto, el Poder Judicial del Estado de Baja California Sur, deberá expedir la constancia de no ser deudor alimentario declarado judicialmente moroso.
 
 TERCERO.- La Dirección General del Sistema Penitenciario, deberá expedir la constancia de no contar con sentencia firme a la persona que pretenda ser registrada en una candidatura de elección popular, o ser nombrada para empleo, cargo o comisión en el servicio público, por los delitos a que se refiere la fracción IV del artículo 31 de la Constitución Política del Estado Libre y Soberano de Baja California Sur.
+
+B.O. 21 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2935.- SE ADICIONAN LOS PÁRRAFOS NOVENO, DÉCIMO Y DÉCIMO PRIMERO AL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
