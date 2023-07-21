@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-desarrollo-rural-sustentable-para-el-estado-de-baja-1158
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-31"
-last_updated: "2016-07-31"
+last_updated: "2023-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 31 de julio de 2016.
 
@@ -119,7 +119,9 @@ VI. La promoción de mecanismos e incentivos económicos para hacer producir las
 
 VII. La creación de programas de generación de oportunidades de empleo, de educación y de desarrollo social para la población rural, en especial en la región de las zonas serranas;
 
-VIII. Fomento a la creación de programas para la protección integral de los jornaleros agrícolas;
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+
+VIII. Fomento a la creación de programas para la protección integral de los jornaleros agrícolas y trabajadores rurales en general en igualdad de condiciones laborales e ingresos;
 
 IX. La organización, conservación y desarrollo del ganado productor de leche, ya sea en explotaciones tecnificadas, familiares y de traspatio, así como de la industria lechera en el Estado;
 
@@ -137,9 +139,21 @@ XV. Actividad preponderante para el estado es la sanidad e inocuidad en la produ
 
 XVI. La transformación uso y manejo de los productos, agrícolas, pecuarios, acuícolas, pesqueros y forestales serán de alta observancia sanitaria e inocuidad en beneficio del consumidor;
 
-XVII. Impulsar, aprovechar y conservar las características ambientales libres de contaminantes en la producción agropecuaria, pesquera, acuícola y forestal, que tiene el Estado de Baja California Sur; y
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
 
-XVIII. Respetar y resguardar las áreas naturales protegidas al realizar actividades productivas y desarrollo económico y social, mediante principios y criterios de sustentabilidad.
+XVII. Impulsar, aprovechar y conservar las características ambientales libres de contaminantes en la producción agropecuaria, pesquera, acuícola y forestal, que tiene el Estado de Baja California Sur;
+
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+
+XVIII. Respetar y resguardar las áreas naturales protegidas al realizar actividades productivas y desarrollo económico y social, mediante principios y criterios de sustentabilidad;
+
+> <small>(ADICIONADA, B.O. 21 DE JULIO DE 2023)</small>
+
+XIX. La protección integral de la familia, niñas, niños, adolescentes y grupos vulnerables en las comunidades rurales, entre los que se encuentran personas con discapacidad, con enfermedades terminales y de la tercera edad, y
+
+> <small>(ADICIONADA, B.O. 21 DE JULIO DE 2023)</small>
+
+XX. La promoción e impulso a los programas, proyectos y apoyos institucionales dirigidos hacia las mujeres, así como el desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en el sector rural.
 
 ###### Artículo 3.
 
@@ -147,7 +161,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. Actividades Agropecuarias. Los procesos productivos primarios basados en recursos naturales renovables: agricultura, ganadería (incluye caza), silvicultura y acuacultura (incluye pesca);
 
-II. Actividades Económicas de la Sociedad Rural. Las actividades agropecuarias, pesqueras y acuícolas, industriales, comerciales, turísticas, de servicios y otras que sean productivas;
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+
+II. Actividades Económicas de la Sociedad Rural. Las actividades agropecuarias, pesqueras y acuícolas, industriales, comerciales, de turismo rural y comunitario, de servicios y otras que sean productivas;
 
 III. Actividades de Servicios Ambientales. Las actividades de conservación y restauración de los recursos naturales renovables y no renovables
 
@@ -244,6 +260,10 @@ XLVIII. Sociedad o Población Rural. Población cuya dinámica de reproducción 
 XLIX. Subproducto. Es el resultado de la producción primaria de las especies o actividades productivas en el ámbito rural, que han sufrido un proceso de transformación e industrialización destinados al consumo o servicio humano;
 
 L. Titular del Poder Ejecutivo y/o Ejecutivo Estatal. El Gobernador del Estado Libre y Soberano de Baja California Sur;
+
+> <small>(ADICIONADA, B.O. 21 DE JULIO DE 2023)</small>
+
+L Bis. Turismo Rural y Comunitario. La categoría del turismo alternativo en la cual el turista participa en actividades propias de las comunidades rurales, ejidos y pueblos originarios con fines culturales, educativos y recreativos, que le permiten conocer los valores culturales, forma de vida, manejo de recursos agrícolas y naturales, gastronomía, usos y costumbres y aspectos de su historia, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la conservación de los ambientes en los que habitan.
 
 LI. Unidad Productiva. Conjunto de recursos naturales, técnicos y económicos de uso racional que, a través de sistemas de producción basados en tecnologías, permitan una explotación eficiente con el propósito de satisfacer las necesidades individuales o colectivas de productores, integrados o no, bajo un régimen legal, con el objeto de realizar actividades de producción, distribución y consumo de bienes y servicios que propicien un desarrollo rural sustentable; y
 
@@ -611,7 +631,9 @@ VII. Participar en el ámbito de su competencia, en el establecimiento de sistem
 
 VIII. Concurrir con las autoridades de los diferentes órdenes de gobierno en la determinación de disposiciones y programas para fomentar, en el ámbito de su competencia, la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable, conforme a las leyes vigentes en la materia;
 
-IX. Promover que el Plan Municipal de Desarrollo Rural Sustentable se constituya como el programa rector para los demás programas que se establezcan en el ámbito municipal rural;
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+
+IX. Promover que el Plan Municipal de Desarrollo Rural Sustentable se constituya como el programa rector para los demás programas que se establezcan en el ámbito municipal rural, en el que se pondrá especial énfasis en la promoción e impulso a los programas, proyectos y apoyos institucionales dirigidos hacia las mujeres, así como el desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en el sector rural;
 
 X. Promover, concertar y elevar a bando municipal, el ordenamiento de los componentes rurales del territorio;
 
@@ -703,13 +725,17 @@ VIII. Cuidado al medio ambiente;
 
 IX. La sustentabilidad de las actividades socioeconómicas;
 
-X. Igualdad de género, la protección de la familia y grupos vulnerables;
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+
+X. Igualdad de género, con prioridad en el diseño e implementación de los programas dirigidos hacia las mujeres, la protección integral de la familia y grupos vulnerables;
 
 XI. Impulso a la educación cívica, a la cultura de la legalidad y combate efectivo a la corrupción;
 
 XII. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva, particularmente para su integración al desarrollo de la Nación;
 
-XIII. Seguridad en la tenencia y disposición de la tierra;
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+
+XIII. Seguridad en la tenencia y disposición de la tierra, con programas específicos para las mujeres usufructuarias en el medio rural;
 
 XIV. Promoción del empleo, incluyendo el impulso a la seguridad social y a la capacitación para el trabajo;
 
@@ -1135,7 +1161,9 @@ XXIII. Promoción del empleo productivo y la pluriactividad en las zonas rurales
 
 XXIV. Diseño de proyectos productivos con aplicación de tecnologías adecuadas a la situación ecológica y económica de las unidades rurales familiares;
 
-XXV. Diseño de proyectos productivos con perspectiva de género;
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+
+XXV. La promoción e impulso a los programas, proyectos y apoyos institucionales dirigidos hacia las mujeres, así como el desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en el sector rural;
 
 XXVI. La capacitación para el trabajo en las áreas agropecuaria, pesquera, comercial, industrial y de servicios;
 
@@ -1143,9 +1171,13 @@ XXVII. Diseño de circuitos regionales e intrarregionales para la comercializaci
 
 XXVIII. Mejoramiento y construcción de carreteras y caminos vecinales para agilizar la comercialización intra e interregional;
 
-XXIX. Seguridad en la tenencia y disposición de la tierra;
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
 
-XXX. Promoción de la responsabilidad social empresarial para la protección a los trabajadores rurales en general y de los jornaleros agrícolas en particular;
+XXIX. Seguridad en la tenencia y disposición de la tierra, con programas específicos para las mujeres usufructuarias en el medio rural;
+
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+
+XXX. Promoción de la responsabilidad social empresarial para la protección a los trabajadores y trabajadoras del medio rural y de los jornaleros y jornaleras agrícolas en particular;
 
 XXXI. Impulso a los programas de protección civil para la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre;
 
@@ -1365,7 +1397,9 @@ La política para la capacitación y asistencia técnica rural integral, tendrá
 
 I. Desarrollar la capacidad de los agentes del campo para el mejor desempeño de sus actividades productivas y sociales;
 
-II. Impulsar sus habilidades empresariales;
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+
+II. Impulsar sus habilidades empresariales, mediante la implementación de buenas prácticas sustentables para darle más valor a los productos;
 
 III. Posibilitar la acreditación de la capacitación de acuerdo con las normas de competencia laboral;
 
@@ -1423,13 +1457,15 @@ Los apoyos y la reconversión productiva se acompañarán de los estudios de fac
 
 En las tierras dictaminadas por la Secretaría de Medio Ambiente y Recursos Naturales como frágiles y preferentemente forestales, de acuerdo con lo establecido en la Ley Forestal y demás ordenamientos aplicables, los apoyos para la reconversión productiva deberán inducir el uso forestal o agroforestal de las tierras o, en su caso, la aplicación de prácticas de restauración y conservación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE JULIO DE 2023)</small>
+
 ###### Artículo 73.
 
-Para lograr una mayor eficacia en las acciones encaminadas a la reconversión productiva, se apoyarán prioritariamente proyectos que se integren en torno a programas de desarrollo regional y coordinen los esfuerzos de los tres órdenes de gobierno y de los productores.
+Para lograr una mayor eficacia en las acciones encaminadas a la reconversión productiva, se apoyarán prioritariamente proyectos que se integren en torno a programas de desarrollo regional y coordinen los esfuerzos de los tres órdenes de gobierno y de los productores. Los apoyos a la reconversión productiva en la actividad agropecuaria y agroindustrial se orientarán a impulsar preferentemente:
 
-Los apoyos a la reconversión productiva en la actividad agropecuaria y agroindustrial se orientarán a impulsar preferentemente:
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
 
-I. La constitución de empresas de carácter colectivo y familiar, o que generen empleos locales;
+I. La constitución de empresas de carácter colectivo y familiar, privilegiando aquellas que estén lideradas por mujeres o que generen empleos locales;
 
 II. El establecimiento de convenios entre industrias y los productores primarios de la región para la adquisición de materias primas;
 
@@ -1563,9 +1599,11 @@ Para tal efecto, el Poder Ejecutivo del Estado gestionará los recursos ante la 
 
 La Comisión Intersecretarial promoverá la aplicación de los programas existentes mediante convenios de coordinación entre el Ejecutivo del Estado y el Ejecutivo Federal, y propondrá la implementación de nuevos programas con este mismo objetivo.
 
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
+
 ###### Artículo 92.
 
-La Comisión Intersecretarial en coordinación con la Secretaría Estatal de Turismo, incluirá en los tres niveles del Programa Especial, programas para el fomento del turismo rural y los servicios relacionados con esta actividad.
+La Comisión Intersecretarial en coordinación con la Secretaría de Turismo y Economía del Estado, incluirá en los tres niveles del Programa Especial, programas para el fomento del turismo rural y comunitario y los servicios relacionados con esta actividad.
 
 ###### Artículo 93.
 
@@ -1685,9 +1723,11 @@ Los productores y organizaciones podrán hacer sus aportaciones mediante capital
 
 La Secretaría promoverá la creación de organizaciones de crédito y de auto aseguramiento con la participación de los productores agropecuarios, pesqueros, acuícolas y forestales e inversiones de las instancias de los tres niveles de gobierno.
 
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
+
 ###### Artículo 109.
 
-La política que implemente el gobierno del Estado en materia del financiamiento del sector rural, tendrá como objetivo coadyuvar en el establecimiento de las condiciones para que todos los proyectos sustentables de los micro, pequeños y medianos empresarios del sector rural del Estado cuenten con la posibilidad de tener acceso a formas de financiamiento suficiente y oportuno.
+La política que implemente el gobierno del Estado en materia del financiamiento del sector rural, tendrá como objetivo coadyuvar en el establecimiento de las condiciones para que todos los proyectos sustentables de los micro, pequeños y medianos empresarios del sector rural del Estado cuenten con la posibilidad de tener acceso a formas de financiamiento suficiente y oportuno, bajo principios de igualdad, equidad de género y no discriminación.
 
 ###### Artículo 110.
 
@@ -1999,9 +2039,11 @@ Los Gobiernos Estatal y Municipales, la Secretaría, los Consejos y la Comisión
 
 La Secretaría implementará los instrumentos necesarios que le permitan ser el conducto entre los productores y las dependencias de los diversos órdenes de gobierno, con la finalidad de recibir, canalizar y dar seguimiento a las denuncias y quejas derivadas del acopio de alimentos con fines especulativos.
 
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
+
 ###### Artículo 144.
 
-Se considerarán productos básicos y estratégicos, los señalados en el artículo 178 de la Ley Federal de Desarrollo Rural Sustentable, con las salvedades, adiciones y modalidades que cada año se determinen.
+Se considerarán productos básicos y estratégicos, los señalados en el artículo 179 de la Ley Federal de Desarrollo Rural Sustentable, con las salvedades, adiciones y modalidades que cada año se determinen.
 
 ### CAPÍTULO XVII. DE LA MITIGACIÓN Y ADAPTACIÓN ANTE EL CAMBIO CLIMÁTICO EN EL SECTOR RURAL
 
@@ -2310,3 +2352,13 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 21 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2932.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al siguiente decreto
