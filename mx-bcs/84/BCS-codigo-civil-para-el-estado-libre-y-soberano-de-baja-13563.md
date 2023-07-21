@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2023-05-20"
+last_updated: "2023-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -2203,9 +2203,11 @@ Independientemente de quién ejerza la patria potestad o la custodia, los parien
 
 ### CAPÍTULO I. Disposiciones generales
 
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
+
 ###### Artículo 330.
 
-El concubinato es la unión de un sólo hombre y una sola mujer, libres de impedimentos de parentesco y ligamen matrimonial, con el propósito tácito de integrar una familia a través de la cohabitación doméstica y sexual, el respeto y protección recíprocos, así como la eventual perpetuación de la especie.
+El concubinato es a (sic) unión entre dos personas libres, de impedimentos de parentesco y ligamen matrimonial, con el propósito tácito de integrar una familia, en donde ambos se procuran respeto, igualdad y ayuda mutua, mediante la cohabitación doméstica y sexual.
 
 ###### Artículo 331.
 
@@ -8483,9 +8485,11 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el ca
 
 ### CAPÍTULO VI. De la sucesión de los concubinos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE JULIO DE 2023)</small>
+
 ###### Artículo 1540.
 
-La concubina y el concubinario tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, siempre que hayan vivido juntos como si fueran cónyuges durante los cinco años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato y no exista entre ellos un vínculo de parentesco no dispensable.
+Las personas que hayan convivido bajo el régimen de concubinato tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, siempre que hayan vivido juntos como si fueran cónyuges durante los cinco años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato y no exista entre ellos un vínculo de parentesco no dispensable.
 
 Si al morir el autor de la herencia le sobreviven varias personas en las condiciones mencionadas al principio de este artículo, ninguna de ellas heredará, ya que el concubinato requiere de exclusividad.
 
@@ -16250,3 +16254,9 @@ B.O. 20 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2916 SE REFORMA EL ARTÍCULO 461 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO. El Presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 21 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2929.-SE REFORMAN LOS ARTÍCULOS 330 Y 1540 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
