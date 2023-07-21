@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2023-04-24"
+last_updated: "2023-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1540,6 +1540,12 @@ No se procederá contra la madre que entregue a su hijo por ignorancia, extrema 
 ###### Artículo 167.
 
 Omisión de auxilio impropio. Al que encuentre abandonada o perdida a una persona incapaz de cuidarse, atropellada o amenazada de un peligro cualquiera, y omitiere prestarle el auxilio necesario, cuando pudiere hacerlo sin riesgo personal, se le impondrán de uno a seis meses de prisión o multa de veinte a cincuenta días.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+###### Artículo 167 Bis.
+
+Requisitos de Procedibilidad y Pena Adicional. Tratándose de Personas Adultas Mayores, cuando los sujetos activos de los delitos previstos en el Capítulo I de este Título Tercero, sean descendientes directos o tengan parentesco por consanguinidad, afinidad o por adopción con la víctima, se perseguirán de oficio. Así mismo, además de la pena señalada en el delito que corresponda, se les impondrá la pérdida de los derechos sucesorios.
 
 ### CAPÍTULO III. DISPARO DE ARMA DE FUEGO
 
@@ -4764,3 +4770,9 @@ B.O. 24 DE ABRIL DE 2023.
 ###### ARTICULO ÚNICO.
 
 El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 21 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2936.- SE ADICIONA UN ARTÍCULO 167 BIS, AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y SE REFORMAN LOS ARTÍCULOS 9, 15, 16, 17, 18, 19, 20, 26, 28 Y 32, 42 Y 46 Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN I Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 28 Y SE REFORMAN LAS FRACCIONES II Y V DEL ARTÍCULO 30 Y SE REFORMA LA FRACCIÓN 31 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
