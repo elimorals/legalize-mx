@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2022-08-02"
+last_updated: "2023-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -277,23 +277,21 @@ Los trabajadores que presten sus servicios en sus días de descanso tendrá dere
 
 Las y los trabajadores tendrán derecho a disfrutar de un día laborable al año, con goce íntegro de sueldo, para que se realicen exámenes médicos preventivos, a fin de mejorar su nivel de vida. El área encargada de los recursos humanos de cada Poder o Municipio determinará la forma para que los trabajadores accedan a este derecho, sin que se trastoque el funcionamiento normal de la institución, para estos efectos las y los trabajadores deberán acreditar ante la unidad administrativa que corresponda la programación previa de los exámenes médicos que se practicarán. De considerarlo necesario el o la trabajadora, dará cuenta de los resultados de dichos exámenes a los titulares de las dependencias para la previsión de medidas conducentes. En estos casos, los titulares deberán guardar estricta reserva de la información proporcionada en tutela del derecho a la protección de los datos personales de los trabajadores
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
 
-###### ARTÍCULO 29.
+###### ARTICULO 29.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo, pudiendo transferir, a solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda, hasta medio mes de descanso previo al parto para después del mismo. En caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta medio mes adicional a los tres meses de descanso previstos en este Artículo, previa presentación del certificado médico correspondiente.
+Quien se encuentre en estado de gravidez podrá disfrutar de hasta un mes de descanso previo a la fecha programada para el parto y de otros dos meses posteriores al mismo, pudiendo transferir, a solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda, el periodo de descanso que éste considere, previo al parto para después del mismo. En caso de que el bebé haya nacido con cualquier tipo de discapacidad o requiera atención médica hospitalaria, podrá gozar de hasta tres meses de descanso adicionales a los previstos en la primera porción normativa de este Artículo, previa certificación del médico correspondiente.
 
-> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+(NOTA: EL 12 DE MAYO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 181/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA EN SU TEXTO ANTERIOR, LA CUAL FUE ABROGADA MEDIANTE DECRETO 2933, LA CUAL SURTIÓ EFECTOS EL 13 DE MAYO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.[EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia”.] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
+La lactancia materna será hasta dos años, independientemente de que ésta sea exclusiva o complementaria para el menor. LA TRABAJADORA PODRÁ EJERCER SU DERECHO A LA LACTANCIA MATERNA DISPONIENDO DE UN DESCANSO EXTRAORDINARIO DE UNA HORA DIARIA PARA AMAMANTAR A SUS HIJAS O HIJOS. Asimismo tendrán derecho a acceder a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta el segundo año de edad.
 
-> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+(NOTA: EL 12 DE MAYO DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 181/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Los hombres disfrutarán de cinco días hábiles por licencia de paternidad con goce de sueldo, a partir del día del parto de su esposa o concubina. Este derecho, podrá ser disfrutado por mujeres y hombres en el supuesto de que adopten a un menor de edad, a partir de recibir a este, una vez agotado el proceso de adopción, conforme a las leyes aplicables al caso.
+La esposa o esposo, concubina o concubino, o la pareja derivada de una relación de unión libre de quien haya sido sujeto a parto o cesárea, y que sea trabajador o trabajadora a la que se refiere esta Ley, podrá disfrutar de una licencia DE 10 DÍAS HÁBILES con goce de sueldo, a partir del día de la intervención médica a la que se refiere este artículo. En tratándose de adopción, este derecho podrá ser disfrutado por mujeres y hombres en el supuesto de que adopten a un menor de edad, a partir de recibir a éste, conforme a las leyes aplicables al caso.
 
-> <small>(REFORMADO, B.O. 14 DE OCTUBRE DE 2016)</small>
-
-Las anteriores prerrogativas se conceden independientemente de las vacaciones o demás descansos que se estipulen en la presente Ley.
+Las anteriores prerrogativas se concederán independientemente de las vacaciones o demás descansos que se estipulen en la presente Ley.
 
 ###### ARTICULO 30.
 
@@ -1632,3 +1630,11 @@ B.O. 2 DE AGOSTO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 21 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2933.- SE REFORMA EL ARTÍCULO 29 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNIC PIOS (SIC) DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
