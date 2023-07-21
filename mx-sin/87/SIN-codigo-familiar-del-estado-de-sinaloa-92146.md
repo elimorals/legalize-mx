@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2023-05-24"
+last_updated: "2023-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -407,7 +407,9 @@ Acompañarán al escrito a que se refiere en el artículo 48, los documentos sig
 
 I. Acta de nacimiento y constancia de identificación de los presuntos cónyuges;
 
-II. Certificado médico sobre el estado de salud de los contrayentes expedido por una institución pública, especificando no padecer enfermedad contagiosa, crónica o incurable;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2023)</small>
+
+II. Certificado médico sobre el estado de salud de los contrayentes expedido por una institución pública, especificando el estado de salud de las personas que pretenden contraer matrimonio;
 
 III. Certificado de orientación prematrimonial;
 
@@ -535,11 +537,21 @@ V. El atentado contra la vida de alguno de los casados para contraer matrimonio 
 
 VI. La fuerza o miedo graves;
 
-VII. Tener alguno de los padecimientos señalados en la fracción II del artículo 395 de este Código;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2023)</small>
+
+VII. Tener alguno de los padecimientos señalados en la fracción II del artículo 395 de este Código, sólo en los casos en que el contrayente no pueda manifestar en forma absoluta su voluntad, de manera libre.
+
+Si el oficial del registro civil, observa que alguno de los contrayentes se encuentra en una situación que le impida expresar libremente su voluntad, le exigirá de inmediato un dictamen pericial que le permita determinar sobre su capacidad legal para otorgar el asentamiento.
+
+En todo caso, los pretensos que así lo soliciten a las autoridades correspondientes, tendrán derecho a la prestación de las medidas de apoyo que resulten necesarias para ejercer su derecho a contraer matrimonio. El asentimiento emitido conforme a un plan personalizado, es considerado plenamente válido. El Oficial del Registro Civil, vigilará el efectivo y adecuado funcionamiento de estas medidas, de acuerdo con lo establecido en este Código, y las leyes de la materia;
 
 VIII. El matrimonio subsistente con persona distinta de aquélla con quien pretenda contraer; y,
 
 IX. La falta de orientación prematrimonial.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2023)</small>
+
+No será impedimento para contraer matrimonio, padecer VIH, sida u otras enfermedades crónicas e incurables, contagiosas o hereditarias.
 
 ###### Artículo 58.
 
@@ -7616,3 +7628,11 @@ TERCERO. Los procesos administrativos y judiciales de adopción que se encuentre
 CUARTO. Niñas, niños y adolescentes que actualmente se encuentren acogidos en instituciones públicas o privadas, respecto de los cuales el Sistema Estatal DIF o la Procuraduría de Protección, pueda dar constancia de su condición de expósito o abandonado conforme a lo dispuesto en el artículo 27 Bis 1, serán sujetos de adopción a partir de la entrada en vigor de este Decreto.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 516 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
