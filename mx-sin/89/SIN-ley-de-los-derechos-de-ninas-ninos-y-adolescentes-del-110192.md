@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110192"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2023-05-24"
+last_updated: "2023-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2015.
 
@@ -755,13 +755,17 @@ V Bis. Por acciones u omisiones acreditadas respecto de violencia vicaria;
 
 VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso y la esclavitud, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General y en las demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2023)</small>
 
-VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y,
+VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2023)</small>
 
-VIII. El castigo corporal y humillante.
+VIII. El castigo corporal y humillante; y
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2023)</small>
+
+IX. La orfandad producida por el feminicidio de sus madres.
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2023)</small>
 
@@ -782,6 +786,10 @@ Las leyes del Estado deberán establecer las disposiciones que orientarán las p
 Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
 
 Asimismo están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2023)</small>
+
+De igual forma, las autoridades competentes estarán obligadas a proporcionar apoyos económicos en beneficio de niñas, niños y adolescentes hijas e hijos de mujeres víctimas de feminicidio de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa.
 
 ###### Artículo 43.
 
@@ -2184,3 +2192,15 @@ TERCERO. Los procesos administrativos y judiciales de adopción que se encuentre
 CUARTO. Niñas, niños y adolescentes que actualmente se encuentren acogidos en instituciones públicas o privadas, respecto de los cuales el Sistema Estatal DIF o la Procuraduría de Protección, pueda dar constancia de su condición de expósito o abandonado conforme a lo dispuesto en el artículo 27 Bis 1, serán sujetos de adopción a partir de la entrada en vigor de este Decreto.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 515 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, AMBAS PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Las Reglas de Operación del Programa "Apoyo Económico para Hijas e Hijos de Mujeres Víctimas de Feminicidio" para el ejercicio fiscal 2023, publicadas en el Periódico Oficial "El Estado de Sinaloa" el día 10 de abril de 2023, continuarán vigentes hasta el periodo para el cual fueron aprobadas.
+
+La Secretaría de las Mujeres expedirá las normas a las que deberá sujetarse el apoyo económico a niñas, niños y adolescentes hijas e hijos de mujeres víctimas de feminicidio, que deberán entrar en vigor el día 1° de enero de 2024.
+
+TERCERO. El Poder Ejecutivo y el Congreso del Estado de Sinaloa realizarán las acciones necesarias para asignar una partida presupuestaria en la Ley de Ingresos y Presupuesto de Egresos de cada ejercicio fiscal, a fin de garantizar la entrega del apoyo económico a que se refiere el presente Decreto.
