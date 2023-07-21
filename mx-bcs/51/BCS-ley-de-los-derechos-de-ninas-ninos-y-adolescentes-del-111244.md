@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111244"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2023-04-30"
+last_updated: "2023-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -1849,7 +1849,9 @@ La Procuraduría de Protección tendrá las atribuciones que le señale su propi
 
 I. Procurar la protección integral de niñas, niños y adolescentes que prevé la Constitución Federal, la Constitución Política del Estado, los tratados internacionales, esta Ley y demás disposiciones aplicables. Dicha protección integral deberá abarcar, por lo menos:
 
-a) Atención médica y psicológica de manera preventiva y oportuna;
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
+
+a) Atención médica y psicológica, de manera preventiva, oportuna eintegral (sic);
 
 > <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
 
@@ -1871,9 +1873,9 @@ V. Realizar las indagatorias para dar seguimiento a las denuncias recibidas resp
 
 VI. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
 
-VII. Solicitar al Ministerio Público dé atención inmediata a la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente.
+VII. Solicitar al Ministerio Público dé atención inmediata a la imposición de medidas urgentes de protección especial idóneas, cuando exista algún riesgo fundado o peligro inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente.
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 13 DE JULIO DE 2018)</small>
 
@@ -1943,6 +1945,34 @@ V. Acordar y coordinar con las instituciones que corresponda el cumplimiento del
 
 VI. Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de la niña, niño o adolescente se encuentren garantizados.
 
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+###### Artículo 110 Bis.
+
+Los requisitos para ser titular de la Procuraduría de Protección, son los siguientes:
+
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Tener más de 30 años de edad;
+
+III. Contar con título y cédula profesional de licenciatura en derecho debidamente registrado;
+
+IV. Contar con algún grado de especialización en los Derechos de Niñas, Niños y Adolescentes.
+
+V. Contar con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes;
+
+VI. Acreditar las habilidades para el cargo.
+
+VII. No tener sentencia firme por la comisión de delito doloso, así comolo (sic) enunciado en la fracción IV del artículo 32 de la Constitución Política del Estado Libre y Soberano de Baja California Sur, y
+
+VIII. No ser declarada persona deudora alimentaria morosa.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+###### Artículo 110 Ter.
+
+El nombramiento de la persona titular de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes será realizado por la Junta de Gobierno del Sistema Estatal DIF, a propuesta de su Titular, previo el cumplimiento de los requisitos del artículo anterior.
+
 ###### Artículo 111.
 
 La tutela pública será la ejercida por el Sistema Estatal DIF, por conducto de la Procuraduría de Protección, sobre niñas, niños y adolescentes expósitos o abandonados, hasta en tanto no se resuelva su situación jurídica por la autoridad jurisdiccional competente.
@@ -1966,6 +1996,12 @@ II.- Cuando sea solicitada vía oficio por las diversas autoridades administrati
 ###### Artículo 113.
 
 La Comisión Estatal de los Derechos Humanos en Baja California Sur, deberá establecer una Visitaduría y áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+###### Artículo 113 Bis.
+
+La Comisión Estatal de los Derechos Humanos y los Organismos de Protección de los Derechos Humanos en la entidad, en el ámbito de sus competencias, deberán establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
 ### CAPÍTULO PRIMERO. Sistema Estatal de Protección
 
@@ -2037,7 +2073,9 @@ D. Organismos Públicos Autónomos:
 
 I. Comisión Estatal de Derechos Humanos, y
 
-E. Dos representantes de la sociedad civil o pertenecientes a organizaciones de la sociedad civil y/o asociaciones civiles con amplia trayectoria en la protección de los derechos de las niñas, niños y adolescentes, que serán nombrados por el Sistema Estatal de Protección en los términos del reglamento de esta Ley.
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
+
+E. Hasta cinco representantes de la sociedad civil o perteneciente (sic) a organizaciones de la sociedad civil y/o asociaciones civiles con amplia trayectoria en la protección de los derechos de las niñas, niños y adolescentes, que serán nombrados por el Sistema Estatal de Protección en los términos del reglamento de esta Ley.
 
 Para efectos de lo previsto en el apartado E, el reglamento deberá prever los términos para la emisión de una convocatoria pública que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
 
@@ -2384,3 +2422,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Sin menoscabo de lo previsto en el Artículo anterior, y para efectos de lo establecido en el Artículo Cuarto del presente Decreto, la Subsecretaría de Protección Civil funcionará una vez que entren en vigor las modificaciones contempladas en el presente Decreto, con el mismo presupuesto asignado a la Coordinación Estatal de Protección Civil.
 
 TERCERO.- Sin menoscabo de lo previsto en el Artículo Primero Transitorio de este Decreto, y para efectos de lo previsto en el Artículo Cuarto establecido en el presente Decreto, las trabajadoras y trabajadores que actualmente se encuentran asignados a la Coordinación Estatal de Protección Civil, pasarán a formar parte de la Subsecretaría de Protección Civil bajo las mismas condiciones laborales en que se encuentren actualmente, dejando por ende a salvo sus derechos laborales.
+
+B.O. 21 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2939.-SE REFORMAN EL INCISO A) DE LA FRACCIÓN I Y LA FRACCIÓN VII DEL ARTÍCULO 109, Y EL APARTADO E DEL ARTÍCULO 115; SE ADICIONAN LOS ARTÍCULOS 110BIS, 110TER Y 113BIS, DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLECENTES (SIC) DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Of cial (sic) del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Hasta en tanto se cree el Registro Nacional de Obligaciones Alimentarias y para dar cumplimiento a lo dispuesto en la fracción VII del artículo 110 Bis del presente Decreto, el Poder Judicial del Estado de Baja California Sur, deberá expedir la constancia de no ser deudor alimentario moroso.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
