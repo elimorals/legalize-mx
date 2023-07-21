@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-turismo-para-el-estado-de-baja-california-sur-80080"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-20"
-last_updated: "2022-06-30"
+last_updated: "2023-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California, el lunes 20 de diciembre de 2010.
 
@@ -427,17 +427,35 @@ XII.- Aprobar o rechazar los proyectos de Zona de Desarrollo Turístico Local.
 
 #### Sección Segunda. De los Consejos Consultivos Municipales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
 
 ###### Artículo 12.
 
-Los Municipios a través de sus Ayuntamientos, a más tardar el día 31 de diciembre del año que corresponda al inicio de su administración, crearán sus respectivos Consejos Consultivos Municipales, debiéndose respetar en su integración el principio de paridad de género, con la finalidad de lograr un desarrollo integral de la actividad turística en su demarcación territorial, fomentando la cultura turística de conformidad con lo previsto en la Ley General de Turismo, la presente Ley y en base a los siguientes lineamientos:
+Los Consejos Consultivos de Turismo Municipal son órganos colegiados de carácter consultivo, que tienen por objeto proponer y formular las estrategias y acciones de la Administración Pública Municipal en materia de desarrollo turístico acorde a las necesidades y vocación para cada municipio y sus comunidades.
 
-I.- Serán integrados por los funcionarios que tengan a su cargo la materia turística y representantes de las organizaciones de los prestadores de servicios turísticos, las organizaciones de trabajadores turísticos, las instituciones académicas que tengan estudios en la materia y que determine el Ayuntamiento;
+Estos Consejos además de coadyuvar en la planeación de las estrategias de desarrollo turístico de los municipios, fungirán como vínculo directo y continuo entre el sector y la autoridad municipal para atender y corregir de manera expedita la problemática y situaciones que frenen o limiten la prestación de servicios y el correcto desempeño de la actividad turística.
 
-II.- Serán presididos por el Titular del Ayuntamiento, quien será suplido por la o el Presidente de la Comisión Edilicia de Turismo y podrán ser invitadas a las sesiones de los Consejos, las instituciones y entidades públicas, privadas y sociales que se acuerde y las personas relacionadas con el turismo en el Municipio, las que participarán sólo con derecho a voz; y
+Los Municipios a través de sus Ayuntamientos, a más tardar el día 31 de diciembre del año que corresponda al inicio de su administración, crearán sus respectivos Consejos Consultivos Municipales, debiéndose respetar en su integración el principio de paridad de género, lo (sic) representatividad de las cámaras, asociaciones y demás organizaciones del sector y de las delegaciones y/o comunidades con vocación turística que integren el municipio, con la finalidad de lograr un desarrollo integral de la actividad turística en su demarcación territorial, fomentando la cultura turística de conformidad con lo previsto en la Ley General de Turismo, la presente Ley y con base en los siguientes lineamientos:
 
-III.- Los Consejos se reunirán y funcionarán en los términos que señale su propio Reglamento.
+I.- Integración:
+
+a).- Serán integrados por los funcionarios que tengan a su cargo la materia turística y representantes de las organizaciones de los prestadores de servicios turísticos, las organizaciones de trabajadores turísticos, las instituciones académicas que tengan estudios en la materia y las demás que se consideren dentro del reglamento interno del consejo;
+
+b).- Estarán presididos por los Presidentes Municipales y en su ausencia serán suplidos por el titular de la Dirección de Turismo o del Área Administrativa del Ayuntamiento que corresponda; podrán ser invitadas a las sesiones de los Consejos las instituciones y entidades públicas, privadas y sociales que se acuerde y las personas relacionadas con el turismo en el Municipio, las que participarán sólo con derecho a voz; y
+
+c).- Los Consejos se reunirán y funcionarán en los términos que señale su propio Reglamento.
+
+II.- Atribuciones:
+
+a).- Proponer y emitir su opinión sobre el desarrollo y ejecución de los programas municipales de turismo;
+
+b).- Actuar como órgano de consulta, asesoría y apoyo técnico de las autoridades estatales y del municipio, según el caso, en materia turística;
+
+c).- Concertar entre los miembros del sector, las políticas, planes, programas y proyectos turísticos;
+
+d).- Representar ante la autoridad municipal las necesidades y propuestas del sector turístico;
+
+e).- Las que le otorgue el reglamento y demás disposiciones en la materia.
 
 ## TÍTULO TERCERO. DE LA PROGRAMACIÓN Y ORDENAMIENTO TURÍSTICO ESTATAL
 
@@ -1112,3 +1130,11 @@ B.O. 30 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2837 SE REFORMAN LAS FRACCIONES XXIX Y XXX Y SE ADICIONA UNA FRACCIÓN XXXI AL ARTÍCULO 5; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO CUARTO; SE REFORMAN LAS FRACCIONES X Y XI Y SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 27, TODOS DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 21 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2927.- SE REFORMA Y ADICIONA EL ARTÍCULO 12 DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Segundo.- Los Consejos que ya se encuentren en funciones adecuarán su integración, atribuciones y demás disposiciones al presente decreto.
