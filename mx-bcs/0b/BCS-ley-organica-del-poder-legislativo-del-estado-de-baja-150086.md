@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2023-06-20"
+last_updated: "2023-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -1193,7 +1193,251 @@ XXV.- Apoyar y auxiliar a los Diputados que lo soliciten en el desempeño de su 
 
 XXVI.- Las demás acordadas por la Asamblea, o que prescriban esta Ley y los Reglamentos que de ella emanen.
 
-XXVII.- Con la información que le deberán entregar la Dirección de Finanzas, Dirección de Comunicación Social, Jefatura de Apoyo Parlamentario, Jefatura de Recursos Materiales y Jefatura de Recursos Humanos, Asesores Jurídicos, Fracciones Parlamentarias, Comisiones Legislativas, Mesa Directiva, Junta de Gobierno y Coordinación Política y Auditoría Superior del Estado, instruirá a la Jefatura de Informática a publicar en la página Web del Congreso del Estado la información de carácter legislativo, administrativo y financiero, enumeradas en el artículo 247 de la presente ley, misma que pondrá a disposición de la Unidad de Transparencia del Congreso del Estado.
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+
+XXVII.- Con la información que le deberán entregar la Dirección de Finanzas, Dirección de Comunicación Social, Departamento de Apoyo Parlamentario, Departamento de Servicios Generales, Departamento de Recursos Materiales, Departamento de Recursos Humanos, Coordinación de Archivos, Asesores, Asesores Jurídicos y Asesores Parlamentarios, Fracciones Parlamentarias, Comisiones Legislativas, Mesa Directiva, Junta de Gobierno y Coordinación Política, Unidad para la Igualdad de Género e Instituto de Estudios Legislativos instruirá al Departamento de Informática a publicar en la página Web del Congreso del Estado la información de carácter legislativo, administrativo y financiero, enumerada en el artículo 253 de la presente Ley, misma que pondrá a disposición de la Unidad de Transparencia del Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Artículo 67 A
+
+Para el cumplimiento de sus atribuciones, la Oficialía Mayor contará con la estructura administrativa siguiente:
+
+I. Departamento de Apoyo Parlamentario;
+
+II. Departamento de Recursos Humanos;
+
+III. Departamento de Recursos Materiales;
+
+IV. Departamento de Servicios Generales;
+
+V. Departamento de Informática; y
+
+VI. Coordinación de Archivos.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Artículo 67 B
+
+Al Departamento de Apoyo Parlamentario le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Coordinar la gestión, administración y conservación de los archivos electrónicos que integran la videoteca legislativa;
+
+II. Coordinar la captura, edición, así como la corrección y estilo para la elaboración del Diario de los Debates;
+
+III. Definir la catalogación y clasificación de los materiales bibliográficos, desarrollo de las colecciones, eliminación de materiales obsoletos, así como el establecimiento de políticas o normas de funcionamiento de la biblioteca;
+
+IV. Llevar a cabo la modificación de las leyes y reglamentos conforme a los decretos aprobados por el Pleno del Congreso que sean publicados, así como enviarlos al departamento de informática para su publicación en la página electrónica del propio Congreso; y
+
+V. Desarrollar todas aquellas funciones inherentes al área de su competencia y las demás que le asigne el Oficial Mayor del Congreso del Estado, en ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Artículo 67 C
+
+Al Departamento de Recursos Humanos le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Administrar los Recursos Humanos del Congreso del Estado;
+
+II. Llevar a cabo el proceso de reclutamiento y selección de personal de acuerdo con la normatividad aplicable;
+
+III. Elaborar el programa anual de capacitación y desarrollo profesional del personal;
+
+IV. Notificar al personal a través de los medios idóneos, las disposiciones normativas laborales, así como la oferta de capacitación para el desarrollo de los servidores públicos del Congreso;
+
+V. Tramitar, cuando así corresponda, los nombramientos de los diversos servidores públicos y funcionarios del Congreso del Estado;
+
+VI. Elaborar los contratos de prestación de servicios;
+
+VII. Llevar a cabo los trámites de alta, baja y modificaciones del personal del Congreso ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, cuando así corresponda;
+
+VIII. Gestionar la entrega de las credenciales de identificación del personal del Congreso del Estado;
+
+IX. Resguardar, conservar y actualizar el archivo de los expedientes de personal; y
+
+X. Las demás que le asigne el Oficial Mayor del Congreso del Estado, en ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Artículo 67 D
+
+Al Departamento de Recursos Materiales le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Proveer los bienes y servicios que deban ser utlizados (sic) por las diversas areas del Congreso del Estado, una vez cumplidos los tramites administrativos correspondientes;
+
+II. Recibir las solicitudes de bienes y servicios por parte de las unidades administrativas y verificar que lo solicitado se encuentre especificado y considerado presupuestalmente;
+
+III. Integrar la propuesta de programa anual de adquisiciones del Congreso del Estado;
+
+IV. Realizar los trámites administrativos para la obtención de los documentos de suficiencia presupuestal por parte de la Dirección de Finanzas del Congreso del Estado;
+
+IV (SIC). Definir el procedimiento de adquisición, dependiendo de la fuente de financiamiento, de conformidad con las disposiciones legales que resulten aplicables;
+
+V. Enviar para su revisión, las bases de licitación a la Contraloría del Congreso del Estado;
+
+VI. Analizar la documentación presentada por los licitantes, una vez llevado a cabo cada acto de los procedimientos de licitación correspondientes en términos de la ley de la materia:
+
+VII. Verificar el Dictamen Técnico emitido;
+
+VIII. Elaborar Fallo una vez revisado el Dictamen;
+
+IX. Verificar la elaboración de contratos;
+
+X. Verificar el cumplimiento de los contratos y pedidos por parte de los proveedores;
+
+XI. Informar a la Contraloría del Congreso del Estado, en caso de incumplimiento de entregas, de acuerdo a información proporcionada por el encargado de almacén y del encargado de almacén de Activo Fijo;
+
+XII. Solicitar cotizaciones, de acuerdo con los ordenamientos establecidos en materia de adquisiciones, para compras directas y analizar cuadro comparativo de precios;
+
+XIII. Integrar y mantener actualizado el padrón de proveedores que ofrezcan mejores condiciones respecto a especificaciones de calidad y precio;
+
+XIV. Integrar el archivo de documentos y mantenerlo actualizado en lo concerniente a adquisiciones;
+
+XV. Llevar a cabo los procesos en el sistema de control de inventario de Bienes Muebles e Inmuebles adquiridos;
+
+XVI. Verificar los bienes Muebles e Inmuebles, asignar el número de inventario al Bien Inmueble Adquirido y la colocación de las etiquetas de control de inventario;
+
+XVII. Llevar a cabo la baja del Bien Mueble cuando proceda, notificando a la Contraloría del Congreso del Estado y enviarlo para su resguardo al almacén;
+
+XVIII. Promover el uso responsable de los bienes y servicios;
+
+XIX. Desarrollar todas aquellas funciones inherentes al área de su competencia; y
+
+XX. Las demás que le asigne el Oficial Mayor del Congreso del Estado, en ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Artículo 67 E
+
+Al Departamento de Servicios Generales le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Proporcionar los servicios de mantenimiento, remodelación o reparación de bienes muebles e inmuebles del Congreso del Estado que requieran las diferentes áreas del Congreso del Estado;
+
+II. Elaborar el programa anual de mantenimiento del Congreso del Estado;
+
+III. Garantizar el correcto servicio de Intendencia en las instalaciones del Congreso del Estado;
+
+IV. Establecer y garantizar los protocolos para el debido cumplimiento de la integridad y salvaguarda de las instalaciones y de las personas en el Congreso del Estado;
+
+V. Proporcionar el servicio de jardinería en las instalaciones del Congreso del Estado; y
+
+VI. Las demás que le asigne el Oficial Mayor del Congreso del Estado, en ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Artículo 67 F
+
+Al Departamento de Informática le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Elaborar el programa institucional de desarrollo informático, de telecomunicaciones y desarrollo tecnológico en general del Congreso del Estado;
+
+II. Proponer políticas, normas y lineamientos en materia de cómputo, telecomunicaciones y equipamiento de dispositivos científicos y técnicos de conformidad con las funciones especializadas del Congreso del Estado, así como fomentar la optimización en el desarrollo y explotación de tecnologías de información;
+
+III. Coadyuvar en los procesos administrativos a través de las tecnologías de información y comunicación de los recursos humanos, financieros y materiales del Congreso del Estado;
+
+IV. Autorizar la seguridad por medios técnicos, para el uso, acceso, confiabilidad e inviolabilidad de la información procesada en las aplicaciones que así lo requieran;
+
+V. Administrar las licencias de desarrollo y programación de que disponga el Congreso del Estado;
+
+VI. Administrar los sistemas de comunicación de voz y datos a través de la red interna y externa, del Congreso del Estado;
+
+VII. Administrar los espacios físicos y lógicos de los almacenes de datos masivos, del Congreso del Estado;
+
+VIII. Administrar los accesos a las bases de datos contenidos en los Almacenes de datos masivos, del Congreso del Estado;
+
+IX. Administrar los aplicativos generados en el área de desarrollo para tener acceso a las bases de datos y otras aplicaciones específicas;
+
+X. Coordinar, asegurar y mantener las comunicaciones de datos con las diferentes entidades municipales, estatales y federales para el intercambio de información;
+
+XI. Respaldar y mantener disponible la información depositada en los servidores del Congreso del Estado;
+
+XII. Supervisar técnicamente la instalación de red de voz y datos del Congreso del Estado;
+
+XIII. Administrar la página de Internet del Congreso del Estado;
+
+XIV. Elaborar los manuales e instructivos de operación de las aplicaciones informáticas desarrolladas;
+
+XV. Coordinar el respaldo y resguardo de programas fuente de las versiones en producción y de las aplicaciones en proceso;
+
+XVI. Elaborar las bases y anexos técnicos, para los procesos de adquisición de software de desarrollo;
+
+XVII. Proporcionar los servicios de instalación, configuración, actualización, administración, operación y mantenimiento al equipamiento informático del Congreso del Estado;
+
+XVIII. Coadyuvar en la elaboración del programa anual de adquisiciones, arrendamientos y servicios de los equipos informáticos, de telecomunicaciones y de equipos especializados;
+
+XIX. Elaborar el programa anual de los mantenimientos preventivos y correctivos de los equipos de cómputo, telecomunicaciones y demás equipos o dispositivos especializados de que disponga el Congreso del Estado; y
+
+XX. Las demás que le asigne el Oficial Mayor del Congreso del Estado, en ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Artículo 67 G
+
+La Coordinación de Archivos será responsable de promover que las áreas operativas constitutivas del Sistema Institucional de Archivos lleven a cabo la gestión documental y la administración de los documentos producidos por el Poder Legislativo atendiendo a las disposiciones legales correspondientes.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Artículo 67 H
+
+El Sistema Institucional de Archivos del Congreso del Estado estará constituido por:
+
+I. Un área Coordinadora de archivos; y
+
+II. las áreas operativas siguientes:
+
+a) Unidad de Correspondencia;
+
+b). Archivos de Trámite;
+
+c). Archivo de Concentración; y
+
+d) Archivo Histórico.
+
+De igual forma, contará con un Grupo Interdisciplinario responsable de la valoración documental.
+
+Las áreas operativas del Sistema Institucional de Archivos tendrán espacios dentro de las instalaciones del Congreso del Estado los que deberán contar con las condiciones necesarias para la óptima conservación del acervo documental bajo su resguardo y que permitan brindar servicio de consulta.
+
+El Archivo de Concentración y el Archivo Histórico del Congreso del Estado podrán ser consultados por el personal del mismo y por el público en general, de acuerdo con lo que establezcan las disposiciones legales en materia de acceso a la información pública y protección de datos personales.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Artículo 67 I
+
+Quien ocupe la titularidad del área coordinadora de archivos deberá tener al menos nivel de dirección o su equivalente dentro de la estructura orgánica del Congreso del Estado. La persona designada deberá dedicarse específicamente a las funciones establecidas en esta Ley y en la ley de la materia.
+
+El Catálogo de Disposición Documental establecerá el tiempo de conservación de los documentos y su destino final.
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Artículo 67 J
+
+La persona titular de la Coordinación de Archivos tendrá las funciones siguientes:
+
+I. Elaborar, con la colaboración de los responsables de los archivos de trámite, de concentración y en su caso histórico, los instrumentos de control archivístico previstos en la Ley General de Archivo, las leyes locales y sus disposiciones reglamentarias, así como la normativa que derive de ellos;
+
+II. Elaborar criterios específicos y recomendaciones en materia de organización y conservación de archivos, en caso de que se requiera;
+
+III. Elaborar y someter a consideración de la Oficialía Mayor el programa anual;
+
+IV. Coordinar los procesos de valoración y disposición documental que realicen las áreas operativas;
+
+V. Coordinar las actividades destinadas a la modernización y automatización de los procesos archivísticos y a la gestión de documentos electrónicos de las áreas operativas;
+
+VI. Brindar asesoría técnica para la operación de los archivos;
+
+VII. Elaborar programas de capacitación en gestión documental y administración de archivos;
+
+VIII. Coordinar, con las áreas o unidades administrativas, las políticas de acceso y la conservación de los archivos;
+
+IX. Coordinar la operación de los archivos de trámite, concentración y, en su caso, histórico, de acuerdo con la normatividad;
+
+X. Autorizar la transferencia de los archivos cuando un área o unidad del Congreso sea sometida a procesos de fusión, escisión, extinción o cambio de adscripción; o cualquier modificación de conformidad con las disposiciones legales aplicables; y
+
+XI. Las que establezcan las demás disposiciones jurídicas aplicables.
+
+Los Manuales de Organización y de Procedimientos, así como el Reglamento de la Coordinación de Archivos que expida el Congreso del Estado establecerán la competencia de las unidades administrativas que sean indispensables para el debido funcionamiento de esta.
+
+Cada una de las funciones establecidas en las fracciones del presente artículo se estructura con las unidades administrativas que se requieran, conforme a lo que se disponga en los manuales señalados en el párrafo anterior, según corresponda.
 
 Artículo 68
 
@@ -1533,21 +1777,105 @@ VI.- Planear, organizar y coordinar la agenda de eventos especiales del Congreso
 
 VII.- Las demás que la Directiva y la Junta de Gobierno y Coordinación Política le señalen.
 
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Artículo 82 Bis
+
+La Dirección de Comunicación Social y Relaciones Públicas del Congreso tiene las siguientes responsabilidades:
+
+I. Crear, mantener y difundir la imagen institucional del Congreso del Estado, mediante el contacto con los medios de información, captación y transmisión de información relevante y campañas Institucionales;
+
+II. Informar a la ciudadanía de las actividades del Congreso del Estado en condiciones de objetividad y equidad, impulsando su imagen institucional, asegurando que los distintos medios informativos reciban la información relevante sobre el desarrollo del trabajo legislativo y parlamentario del propio Congreso;
+
+III. Atender las relaciones públicas con los representantes de los medios de comunicación y proporcionar los apoyos necesarios para garantizar una adecuada coordinación institucional con los mismos;
+
+IV. Coadyuvar en la actualización de la página de Internet del Congreso del Estado, en coordinación con el Departamento de Informática;
+
+V. Realizar anualmente el presupuesto de medios en base al proyecto de comunicación de la agenda legislativa, para someterla a aprobación con la Junta de Gobierno y Coordinación Política;
+
+VI. Proporcionar el apoyo técnico necesario para garantizar las relaciones con los medios de comunicación y difusión objetiva, transparente y oportuna de las actividades legislativas que emanan del Congreso del Estado;
+
+VII. Revisar la producción de textos o materiales impresos, para hacer llegar el material editorial a las instituciones que la requieren o que el Congreso requiere que sean informados;
+
+VIII. Integrar y distribuir paquetes de información a representantes de medios de comunicación, relativos a temas específicos del quehacer parlamentario;
+
+IX. Dar cobertura a las Sesiones del Pleno, reuniones de Comisión, actos y eventos propios de la Institución, que se realicen tanto dentro como fuera de la ciudad; redactar el boletín informativo, artículos y contenidos para publicaciones, así como aquellas informaciones especiales relacionadas con la actividad del Congreso del Estado;
+
+X. Enviar a los medios de comunicación los boletines de prensa correspondientes;
+
+XI. Difundir las actividades del Congreso del Estado en redes sociales, así como transmitir las sesiones ordinarias, extraordinarias y solemnes;
+
+XII. Realizar la cobertura gráfica de sesiones y eventos que realice el Congreso del Estado, así como conservar y mantener actualizado el archivo gráfico de la Institución;
+
+XIII. Supervisar la elaboración de la síntesis informativa y revisar noticias relevantes para instrumentar mecanismos de respuesta o aclaraciones;
+
+XIV. Revisar los medios impresos y portales de Internet para detectar las notas, comentarios en columna o artículos relacionados con las actividades del Congreso del Estado y de sus integrantes;
+
+XV. Capturar y editar el material audiovisual requerido para realizar una difusión efectiva de la función legislativa;
+
+XVI. Atender los requerimientos de diseño de las publicaciones oficiales, así como en impresos, propaganda y publicidad;
+
+XVII. Asistencia, seguimiento y apoyo a las actividades y gestiones de su área, dando especial énfasis en canalizar en coordinación con su jefa o jefe inmediato, la documentación y gestiones administrativas recibidas por parte de las y los Legisladores, departamentos y dependencias, para su atención y solución correspondiente; y
+
+XVIII. Actualizar el archivo bajo su responsabilidad para mantener custodia y control de este;
+
+La organización y funciones del personal que la integre se rigen por lo dispuesto en los lineamientos y en los manuales de organización y de procedimientos correspondientes que apruebe el Pleno, a propuesta de la Junta de Gobierno y Coordinación Política.
+
 ### CAPÍTULO DÉCIMO CUARTO. DE LA UNIDAD PARA LA IGUALDAD DE GÉNERO
+
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
 
 Artículo 83
 
-La Unidad para la Igualdad de Género del Congreso del Estado de Baja California Sur, es la responsable de asegurar la institucionalización de la perspectiva de género en la cultura organizacional, de conformidad con las siguientes funciones:
+La Unidad para la Igualdad de Género del Congreso del Estado de Baja California Sur, es el área responsable de asegurar la institucionalización de la perspectiva de género en la cultura organizacional y administrativa, a efecto de generar una cultura de igualdad y no discriminación, haciendo prevalecer el reconocimiento y respeto de los derechos humanos.
 
-a).- Proponer y realizar acciones orientadas a la igualdad sustantiva en el Congreso del Estado;
+La persona Titular de la Unidad para la igualdad de Género se nombrará por mayoría del Pleno, a propuesta de la Comisión Permanente de Igualdad de Género, deberá ser profesionista, acreditando conocimiento y experiencia en temas de derechos humanos y género.
 
-b).- Proponer ante las instancias competentes políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios de imparcialidad, objetividad, productividad, disposición y compromiso institucional; y
+La Unidad para la Igualdad de Género contará con personal suficiente que acredite conocimiento y formación en temas de género y derechos humanos, así como con la infraestructura adecuada para su funcionamiento; será supervisada en el cumplimiento de sus objetivos y atribuciones por la Comisión Permanente de Igualdad de Género y dependerá directamente de la Junta de Gobierno y Coordinación Política del Congreso del Estado de Baja California Sur.
 
-c).- Contribuir para avanzar hacia la transversalidad mediante la formación y especialización del personal de todos los niveles, en materia de perspectiva de género e igualdad sustantiva.
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
 
-La Unidad estará a cargo de un Titular nombrado por mayoría del Pleno, a propuesta de la Comisión Permanente de Igualdad de Género, y deberá ser profesionista, quién acredite conocimiento y experiencia en temas de derechos humanos y perspectiva de género.
+Artículo 83 Bis
 
-Contará con el personal suficiente para su eficaz desempeño, así como con la infraestructura adecuada para su funcionamiento; será supervisada en el cumplimiento de sus objetivos y atribuciones por la Comisión Permanente de Igualdad de Género y dependerá directamente de la Junta de Gobierno y Coordinación Política del Congreso del Estado de Baja California Sur.
+Quien ocupe la Titularidad de la Unidad para la Igualdad de Género, tendrá las siguientes atribuciones:
+
+I. Proponer y realizar acciones orientadas a la igualdad sustantiva en el Congreso del Estado;
+
+II. Gestionar la incorporación y transversalidad de la perspectiva de género en la planeación, programación y presupuestación del Congreso del Estado;
+
+III. Coadyuvar con los diferentes órganos del Congreso del Estado para promover ambientes libres de acoso y hostigamiento laboral y de pleno respeto a los derechos Humanos;
+
+IV. Coordinar, elaborar, preparar y en su caso, impartir cursos para la formación y capacitación del personal del Poder Legislativo en materia de igualdad y no discriminación;
+
+V. Brindar asesoría en materia de igualdad de género al Congreso del Estado;
+
+VI. Elaborar y someter a la aprobación de la Junta de Gobierno y Coordinación Política, el Programa Anual de Trabajo de la Unidad;
+
+VII. Impulsar que la selección del personal y los ascensos que se realicen por la Oficialía Mayor del Poder Legislativo, se otorguen con base en criterios de transparencia, igualdad de género e inclusión;
+
+VIII. Elaborar el Protocolo para la prevención, atención y sanción de la violencia de género al interior del Congreso del Estado, y en su caso la modificación del mismo, sometiéndolo a la aprobación de la Junta de Gobierno y Coordinación Política;
+
+IX. Coadyuvar con las Comisiones Permanentes, cuando éstas así lo consideren, con la asesoría en sus anteproyectos de iniciativas en materia de igualdad de género;
+
+X. Elaborar y remitir a la Junta de Gobierno y Coordinación Política, de forma anual, los informes que den cuenta de los resultados y nivel de cumplimiento de los objetivos, estrategias y políticas ejecutadas para promover la igualdad de género y el acceso de las mujeres a una vida libre de violencia dentro del Congreso del Estado;
+
+XI. Impulsar las acciones y las estrategias encaminadas a institucionalizar el lenguaje incluyente como parte del trabajo cotidiano de todas las áreas que integran el Congreso del Estado, para contribuir a que los documentos legislativos se redacten evitando un uso sexista del lenguaje;
+
+XII. Elaborar los manuales de organización y de procedimientos de la Unidad, y en su caso la modificación de los mismos, sometiéndolos a la aprobación del Pleno por conducto de la Junta de Gobierno y Coordinación Política; y
+
+XIII. Las demás que le confiera el Pleno, la Directiva o la Junta de Gobierno y Coordinación Política del Congreso del Estado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 21 DE JULIO DE 2023)</small>
+
+### CAPÍTULO DÉCIMO QUINTO. DE LA UNIDAD DE EVALUACIÓN Y CONTROL
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Artículo 83 Ter
+
+La Unidad de Evaluación y Control es un Órgano Técnico especializado encargado de llevar a cabo la evaluación del desempeño de la Auditoria Superior del Estado y la vigilancia del estricto cumplimiento de las funciones a cargo de sus servidores públicos, misma que tendrá las atribuciones contempladas en los artículos 103 y 104 de la Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur, su reglamento y demás disposiciones relativas y aplicables de la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, así como aquellas que expresamente le delegue la Comisión Permanente de Vigilancia de la Auditoria Superior del Estado.
+
+Esta Unidad formará parte de la estructura de la Comisión permanente de Vigilancia de la Auditoria Superior del Estado y dependerá jerárquicamente de ella.
 
 ### CAPITULO PRIMERO. DE LAS SESIONES
 
@@ -1705,6 +2033,8 @@ Artículo 99
 
 Se considerará ausente al Diputado que no esté presente al pasarse lista. Si después de ella hubiera alguna votación nominal y no se encontrare presente, también se considerará como faltante. Igualmente se considerará ausente en caso de falta de Quórum al pasarse la lista correspondiente.
 
+## TITULO CUARTO. DEL FUNCIONAMIENTO DEL CONGRESO
+
 ### CAPITULO SEGUNDO. DE LAS INICIATIVAS
 
 Artículo 100
@@ -1812,8 +2142,6 @@ Los Proyectos de Ley o de Decreto a los que el Gobernador del Estado opusiere ve
 Artículo 114
 
 Las iniciativas que fueren presentadas durante los recesos de la Legislatura, serán leídas por la Comisión Permanente, quien dará cuenta al Congreso en el Período Ordinario o en el Extraordinario que se convoque, a fin de que se proceda en los términos de esta Ley.
-
-## TITULO CUARTO. DEL FUNCIONAMIENTO DEL CONGRESO
 
 ### CAPITULO TERCERO. DE LOS DICTAMENES
 
@@ -2301,9 +2629,11 @@ El Congreso del Estado podrá solicitar al Instituto Estatal electoral, lleve a 
 
 ### CAPITULO ÚNICO. DEL PLAN DE DESARROLLO LEGISLATIVO
 
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
+
 Artículo 197
 
-El Plan de Desarrollo Legislativo es el documento rector en materia de planeación legislativa, administrativa y de gestión comunitaria, en el cual se establecen los objetivos, las estrategias y las líneas de acción a las que se sujetará el Congreso del Estado, para el mejor desempeño de las facultades que le corresponden, así como para su modernización institucional.
+El Plan de Desarrollo Legislativo será un documento en el cual se establecerán las metas, objetivos, estrategias y las líneas de acción a seguir por el Congreso de Baja California Sur, para su modernización institucional, el cual contemplará los asuntos de interés más relevantes en los que concurran la mayoría de las y los diputados, además de estar planteado con perspectiva de género.
 
 Artículo 198
 
@@ -2340,6 +2670,8 @@ III.- Políticas para el fortalecimiento administrativo y modernización institu
 IV.- Políticas de difusión y vinculación con los medios de comunicación social; y
 
 V.-Políticas de vinculación institucional, social y con los sectores productivos.
+
+## TITULO QUINTO. DE LA PLANEACIÓN LEGISLATIVA
 
 ### CAPITULO UNICO. DE LA COMISION INSTRUCTORA DEL JUICIO POLITICO Y DEL PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA
 
@@ -2421,7 +2753,7 @@ Artículo 222
 
 Cuando uno o más Diputados sean acusadores durante el procedimiento relativo al Juicio Político o para la declaración de procedencia, no tendrán voto en el fallo que se pronuncie, ni en los diversos incidentes del proceso.
 
-## TITULO QUINTO. DE LA PLANEACIÓN LEGISLATIVA
+## TITULO SEXTO. DEL PROCEDIMIENTO EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
 ### CAPITULO PRIMERO. DE LAS REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO
 
@@ -2435,7 +2767,7 @@ Artículo 224
 
 Los trámites para las reformas o adiciones a la Constitución serán los que señala la misma en su Artículo 166.
 
-## TITULO SEXTO. DEL PROCEDIMIENTO EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+## TITULO SÉPTIMO. DE LAS VARIAS ATRIBUCIONES CONSTITUCIONALES DEL CONGRESO
 
 ### CAPITULO SEGUNDO. DE LA ELECCIÓN DEL CONTRALOR GENERAL DEL INSTITUTO ESTATAL ELECTORAL
 
@@ -2448,8 +2780,6 @@ I.- Se deberá conformar una Comisión Especial Plural que al efecto designe la 
 II.- De la lista señalada en la fracción anterior, la Comisión Especial Plural, examinará si los candidatos cumplen con los requisitos de elegibilidad establecidos en los artículos 26 y 308 de la Ley Electoral del Estado y elaborará dictamen en el que se contengan los nombres de los aspirantes a Contralor General que satisfagan dichos requisitos, sometiéndose a la votación del Pleno y se elegirá al Contralor General con la mayoría de votos de los Diputados presentes; y
 
 III.- En caso de no alcanzarse la votación señalada en la fracción anterior, se procederá a conformar una terna con los candidatos que hubiesen obtenido mayor votación, y se procederá a elegir de entre ellos a quien ocupará el cargo de Contralor General del Instituto Estatal Electoral.
-
-## TITULO SÉPTIMO. DE LAS VARIAS ATRIBUCIONES CONSTITUCIONALES DEL CONGRESO
 
 ### CAPITULO TERCERO. DE LA EXPEDICIÓN DEL BANDO SOLEMNE CORRESPONDIENTE A LA DECLARATORIA DE GOBERNADOR DEL ESTADO
 
@@ -2482,6 +2812,8 @@ Hecha la elección de la Directiva, los electos tomarán desde luego, posesión 
 Artículo 231
 
 Las faltas del Presidente se cubrirán por el Secretario; en su defecto por el miembro restante y por los suplentes en el orden de su nombramiento. Las faltas del Secretario se cubrirán por el miembro restante de la Diputación Permanente y en su defecto, con los suplentes por el orden de su nombramiento.
+
+## TITULO OCTAVO. DE LA DIPUTACION PERMANENTE
 
 ### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA DIPUTACION PERMANENTE
 
@@ -2541,8 +2873,6 @@ Artículo 241
 
 Al final de su ejercicio, la Diputación Permanente entregará a la Directiva del período que se inicia, un informe por escrito y detallado de los trabajos realizados, así como un inventario que contenga los expedientes de iniciativas, oficios, memoriales, comunicaciones y demás documentos turnados durante su ejercicio. Quién informe al pleno, deberá abstenerse de emitir opinión alguna sobre los asuntos mencionados.
 
-## TITULO OCTAVO. DE LA DIPUTACION PERMANENTE
-
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 Artículo 242
@@ -2585,6 +2915,8 @@ El Presidente de la Junta de Gobierno y Coordinación Política saliente que no 
 
 En este caso, el Presidente de la Junta de Gobierno y Coordinación Política entrante al tomar posesión o el encargado del despacho, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos, para efectos del requerimiento a que se refiere este artículo, a fin de que se promuevan las acciones que correspondan, en aplicación del régimen de responsabilidades de los servidores públicos.
 
+## TITULO NOVENO. DE LA ENTREGA - RECEPCIÓN
+
 ### CAPITULO SEGUNDO. DE LA DOCUMENTACIÓN
 
 Artículo 250
@@ -2612,8 +2944,6 @@ c). Estructura orgánica;
 d). Resumen de plazas; y
 
 e). Sueldos no cobrados.
-
-## TITULO NOVENO. DE LA ENTREGA - RECEPCIÓN
 
 ### CAPITULO TERCERO. DE LAS RESPONSABILIDADES
 
@@ -2648,6 +2978,8 @@ Cualquier persona tendrá acceso a los Informes del Resultado de la revisión y 
 Artículo 255
 
 El Comité y la Unidad de Transparencia solicitarán a los servidores públicos del Poder Legislativo la información que derive del ejercicio de sus facultades, competencia o funciones para el cumplimiento de sus fines.
+
+## TITULO DÉCIMO. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
 ### CAPÍTULO SEGUNDO. DE LA ATENCIÓN DE LAS SOLICITUDES DE INFORMACIÓN PÚBLICA
 
@@ -2694,8 +3026,6 @@ IV.- Contar por lo menos con 3 años de experiencia en temas relacionados con la
 V.- NO HABER SIDO CONDENADO POR DELITO QUE AMERITA PENA CORPORAL DE MÁS DE UN AÑO DE PRISIÓN; PERO SI SE TRATARE DE ROBO, FRAUDE, FALSIFICACIÓN, ABUSO DE CONFIANZA Y OTRO QUE LASTIME SERIAMENTE LA BUENA FAMA EN EL CONCEPTO PÚBLICO, INHABILITARÁ PARA EL CARGO, CUALQUIERA QUE HAYA SIDO LA PENA, Y
 
 VI.- No estar inhabilitado para ejercer cargos públicos en el Estado y la Federación.
-
-## TITULO DÉCIMO. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
 ### CAPÍTULO TERCERO. DE LA INFORMACIÓN RESERVADA Y CONFIDENCIAL
 
@@ -2796,3 +3126,15 @@ B.O. 20 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2928 SE REFORMA EL ARTÍCULO 223 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 21 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2937.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. A propuesta de la Junta de Gobierno y Coordinación Política el Pleno del Congreso deberá aprobar los Manuales de Organización y de Procedimientos, de cada una de las áreas administrativas del Congreso del Estado, a más tardar a los 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. El Congreso del Estado, a través de la Coordinación de Archivo y la Jefatura de Informática, deberán implementar el Sistema de Información Documental, a más tardar a los 180 días hábiles siguientes a la entrada en vigor del presente Decreto.
