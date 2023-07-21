@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-21702
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-20"
-last_updated: "2017-10-10"
+last_updated: "2023-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2023 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de junio de 2001.
 
@@ -249,9 +251,11 @@ III. Conocer los derechos de las personas adultas mayores de sesenta años, prev
 
 IV. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo su persona, bienes y derechos.
 
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
+
 ###### Artículo 9.
 
-La Coordinación de Programas de Bienestar Social, a través del Sistema para el Desarrollo Integral de la Familia en el Estado de Baja California Sur, deberá tomar las medidas de prevención o provisión para que la familia participe en la atención de las personas adultas mayores de sesenta años en situación de riesgo o desamparo.
+La Secretaría del Trabajo, Bienestar y Desarrollo Social en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia del Estado y los Sistemas Municipales respectivamente, deberán tomar las medidas de prevención o provisión para que la familia participe en la atención de las personas adultas mayores de sesenta años en situación de riesgo o desamparo.
 
 ## TÍTULO CUARTO. De las Facultades y Obligaciones de las autoridades
 
@@ -345,15 +349,25 @@ la Secretaría de Salud del Estado de Baja California Sur, implementará program
 
 Las instituciones públicas, privadas y sociales, que otorguen atención médica, deberán contar con personal que posea vocación, capacidad y conocimientos en el cuidado de las personas adultas mayores de sesenta años.
 
-### Capítulo IV. De la Coordinación de Programas de Bienestar Social
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Las instituciones de salud aquí enunciadas deberán informar a la Procuraduría General de Justicia en el Estado de Baja California sur, cuando tengan conocimiento de Personas Adultas Mayores en situación de abandono.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 21 DE JULIO DE 2023)</small>
+
+### Capítulo IV. De la Secretaría del Trabajo, Bienestar y Desarrollo Social
+
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
 
 ###### Artículo 15.
 
-La coordinación de Programas de Bienestar Social, deberá coordinar e implementar las acciones que se requieran, para promover la integración social de las personas adultas mayores de sesenta años y para brindarles los servicios de asistencia social y atención integral a que se refiere esta Ley.
+La Secretaría del Trabajo, Bienestar y Desarrollo Social en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia del Estado y los Sistemas Municipales respectivamente, deberán coordinar e implementar las acciones que se requieran, para promover la integración social de las personas adultas mayores de sesenta años y para brindarles los servicios de asistencia social y atención integral a que se refiere esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE JULIO DE 2023)</small>
 
 ###### Artículo 16.
 
-La Coordinación de Programas de Bienestar Social, implementará las acciones pertinentes para garantizar la cobertura en materia alimentaría para las personas adultas mayores de sesenta años, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados para las personas adultas mayores de sesenta años.
+La Secretaría del Trabajo, Bienestar y Desarrollo Social en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia y los Sismas (sic) Municipales respectivamente, implementarán las acciones pertinentes para garantizar la cobertura en materia alimentaria para las personas adultas mayores de sesenta años, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados para las personas adultas mayores de sesenta años.
 
 Con el objeto de ampliar los mecanismos de información a la población a fin de que conozcan alternativas alimentarias para las personas adultas mayores de sesenta años deberá:
 
@@ -363,21 +377,29 @@ II. Publicar materiales de orientación nutricional y campañas de difusión en 
 
 III. Establecer convenios específicos de colaboración con instituciones y organismos públicos, sociales y privados que brinden orientación alimentaria a las personas adultas mayores de sesenta años.
 
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
+
 ###### Artículo 17.
 
-La Coordinación de Programas de Bienestar Social, promoverá la coordinación con las instituciones federales y locales de salud y educación, para implementar programas de sensibilización y capacitación con objeto de favorecer la convivencia familiar con las personas adultas mayores de sesenta años, para que ésta sea armónica.
+La Secretaría del Trabajo, Bienestar y Desarrollo Social en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia y los Sistemas Municipales respectivamente, de Baja California Sur, promoverán la coordinación con las instituciones federales y locales de salud y educación, para implementar programas de sensibilización y capacitación con objeto de favorecer la convivencia familiar con las personas adultas de sesenta años, para que ésta sea armónica.
+
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
 
 ###### Artículo 18.
 
-La Coordinación de Programas de Bienestar Social, promoverá la coordinación con la federación y con las instituciones educativas, para la implementación de políticas y programas de educación y capacitación para las personas adultas mayores de sesenta años.
+La Secretaría del Trabajo, Bienestar y Desarrollo Social en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia y Sistemas Municipales respectivamente de Baja California Sur, promoverá la coordinación con la federación y con las instituciones educativas, para la implementación de políticas y programas de educación y capacitación para las personas adultas mayores de sesenta años.
+
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
 
 ###### Artículo 19.
 
-La Coordinación de Programas de Bienestar Social, implementará programas de estímulos e incentivos a las personas adultas mayores de sesenta años que estudien.
+La Secretaría del Trabajo, Bienestar y Desarrollo Social en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia y los Sistemas Municipales respectivamente de Baja California Sur, implementarán programas de estímulos e incentivos a las personas adultas mayores de sesenta años que estudien.
+
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
 
 ###### Artículo 20.
 
-La Coordinación de Programas de Bienestar Social, implementará programas, a efecto de crear y difundir entre la población en general y en la familia, la cultura de significación, respeto o integración a la sociedad, de las personas adultas mayores de sesenta años.
+La Secretaría del Trabajo, Bienestar y Desarrollo Social en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia y los Sistemas Municipales respectivamente de Baja California Sur, implementarán programas, a efecto de crear y difundir entre la población en general y en la familia, la cultura de significación, respeto o integración a la sociedad, de las personas adultas mayores de sesenta años.
 
 ###### Artículo 21.
 
@@ -401,9 +423,11 @@ En todo momento, la persona adulta mayor de sesenta años tiene la libre opción
 
 ### Capítulo V. De la Coordinación Estatal de Promoción al Turismo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE JULIO DE 2023)</small>
+
 ###### Artículo 26.
 
-La Coordinación Estatal de Promoción al Turismo del Estado de Baja California Sur, en coordinación con la Coordinación de Programas de Bienestar Social, promoverá actividades de recreación y turísticas diseñadas para personas adultas mayores de sesenta años.
+La Secretaria de Turismo y Economía del Gobierno del Estado de Baja California Sur, en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia y los Sistemas Municipales respectivamente de Baja California Sur, promoverán actividades de recreación y turísticas diseñadas para personas adultas mayores de sesenta años.
 
 Para tal efecto se realizarán las acciones respectivas a fin de que en parques, jardines, kioscos, plazas públicas, teatros al aire libre y demás lugares públicos destinados a la recreación se cuente con los espacios y actividades que faciliten la integración de las personas adultas mayores de sesenta años.
 
@@ -411,17 +435,29 @@ Para tal efecto se realizarán las acciones respectivas a fin de que en parques,
 
 Para garantizar este derecho a la recreación y turismo, la Coordinación Estatal de Promoción al Turismo del Estado de Baja California Sur, difundirá permanentemente a través de los medios masivos de comunicación, las actividades, que se realizan a favor de las personas adultas mayores de sesenta años.
 
-### Capítulo VI. Del Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 21 DE JULIO DE 2023)</small>
+
+### Capítulo VI. Del Sistema para el Desarrollo Integral de la Familia del Estado y Municipios de Baja California Sur
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE JULIO DE 2023)</small>
 
 ###### Artículo 28.
 
-Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur, en materia de personas adultas mayores de sesenta años:
+Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado y Municipios de Baja California Sur, en materia de personas adultas mayores de sesenta años:
 
 I. Proporcionar en forma gratuita los servicios de asistencia y orientación jurídica, en especial aquellos que se refieren a la seguridad de su patrimonio, en materia de alimentos y testamentaria;
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Tratándose de alimentos, cuidados y régimen de convivencia, las o los titulares estatal o municipal, podrán representar legalmente a la persona Adulta Mayor, delegando su representación legal, ante los juzgados competentes, a través de su área correspondiente.
 
 II. Realizar programas de prevención y protección para las personas adultas mayores de sesenta años en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en Instituciones adecuadas;
 
 III. Coadyuvar con la Procuraduría General de Justicia del Estado de Baja California Sur, en la atención y tratamiento de las personas adultas mayores de sesenta años víctimas de cualquier delito;
+
+> <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
+
+Cuando se tenga conocimiento por parte de las instancias Estatal o Municipales del Sistema para el Desarrollo Integral de la Familia, de posibles hechos que puedan constituir Delitos de Omisión de Auxilio o de cuidado, donde la víctima sea un persona Adulta Mayor y el sujeto activo sea un descendiente directo o tengan parentesco por consanguinidad, afinidad o adopción, se integrará un Expediente, mismo que se hará de conocimiento de la autoridad en materia penal, para los efectos correspondientes.
 
 IV. Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas mayores de sesenta años;
 
@@ -457,13 +493,17 @@ El Consejo Asesor para la Integración, Asistencia, Promoción y Defensa de los 
 
 I. El Gobernador del Estado de Baja California Sur, quien será Presidente del Consejo;
 
-II. El Coordinador de Programas de Bienestar Social, quien fungirá como secretario técnico;
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+
+II. El Secretario del Trabajo, Bienestar y Desarrollo Social
 
 III. El Secretario General de Gobierno;
 
 IV. El Secretario de Salud;
 
-V. El Sistema Integral para el Desarrollo Integral de la Familia en el Estado de Baja California Sur; y (sic)
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+
+V. El Sistema Estatal para el Desarrollo Integral de la Familia de Baja California Sur.
 
 > <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
@@ -497,11 +537,15 @@ VI. Proponer mecanismos de concertación y de coordinación en materia de desarr
 
 VII. Elaborar un informe anual que se remitirá a la Comisión de la Familia y la Asistencia Pública del Congreso del Estado de Baja California Sur, para su conocimiento; y
 
-VIII. Las demás funciones señaladas por el Gobierno de Baja California Sur y la Coordinación de Programas de Bienestar Social.
+> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+
+VIII. Las demás funciones señaladas por el Gobierno de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
 
 ###### Artículo 32.
 
-Para el mejor desempeño de sus funciones, el Consejo deberá organizar grupos de trabajo, bajo la coordinación de la Coordinación de programas de Bienestar Social.
+Para el mejor desempeño de sus funciones, el Consejo deberá organizar grupos de trabajo, a través de La Secretaría del Trabajo, Bienestar y Desarrollo Social en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia y los Sistemas Municipales respectivamente de Baja California Sur.
 
 ###### Artículo 33.
 
@@ -581,9 +625,11 @@ La Administración Pública del Estado de Baja California Sur, a través de sus 
 
 La Administración Pública del Estado de Baja California Sur, a través de las dependencias competentes, promoverá la celebración de convenios con la iniciativa privada, a fin de que se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las personas mayores de sesenta años.
 
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
+
 ###### Artículo 42.
 
-La Administración Pública del Estado de Baja California Sur, de conformidad con las disposiciones jurídicas aplicables, deberá promover e instrumentar descuentos en el pago de derechos por los servicios que otorga, cuando el usuario de los mismos sea una persona mayor de sesenta años. Corresponde al Ejecutivo del Estado de Baja California Sur, a Través (sic) de la Coordinación de Programas de Desarrollo Social, dar a conocer dentro del primer mes de cada año el monto de los descuentos y los requisitos a cubrir.
+La Administración Pública del Estado de Baja California Sur, de conformidad con las disposiciones jurídicas aplicables, deberá promover e instrumentar descuentos en el pago de derechos por los servicios que otorga, cuando el usuario de los mismos sea una persona mayor de sesenta años. Corresponde al Ejecutivo del Estado de Baja California Sur, a través de la Secretaría de Finanzas y Administración, dar a conocer dentro del primer mes de cada año el monto de los descuentos y los requisitos a cubrir.
 
 ### Capítulo III. De la Atención Preferencial
 
@@ -605,9 +651,11 @@ La Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales, po
 
 Toda persona que tenga conocimiento de que una persona mayor de sesenta años se encuentre en situación de riesgo o desamparo podrá pedir la intervención de las autoridades competentes para que se apliquen de inmediato las medidas necesarias para su protección y atención.
 
+> <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
+
 ###### Artículo 46.
 
-La Coordinación de Programas de Bienestar Social en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur, promoverá o instrumentará políticas de asistencia social para las personas mayores de sesenta años en situación de riesgo o desamparo.
+La Secretaría del Trabajo, Bienestar y Desarrollo Social en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia y los Sistemas Municipales respectivamente de Baja California Sur, promoverá o instrumentará políticas de asistencia social para las personas mayores de sesenta años en situación de riesgo o desamparo.
 
 ###### Artículo 47.
 
@@ -682,3 +730,9 @@ B.O. 10 DE OCTUBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.-Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 21 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2936.- SE ADICIONA UN ARTÍCULO 167 BIS, AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y SE REFORMAN LOS ARTÍCULOS 9, 15, 16, 17, 18, 19, 20, 26, 28 Y 32, 42 Y 46 Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN I Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 28 Y SE REFORMAN LAS FRACCIONES II Y V DEL ARTÍCULO 30 Y SE REFORMA LA FRACCIÓN (SIC) 31 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
