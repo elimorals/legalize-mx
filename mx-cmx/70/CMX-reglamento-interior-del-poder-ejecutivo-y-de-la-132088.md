@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2023-05-15"
+last_updated: "2023-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2023.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -590,7 +590,7 @@ VII. A la Secretaría de Educación, Ciencia, Tecnología e Innovación:
 
 A) Dirección General de Planeación y Evaluación Estratégica;
 
-B) Dirección General de Desarrollo e Innovación Tecnológica;
+B) (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
 C) Dirección General de Enlace Interinstitucional;
 
@@ -614,13 +614,15 @@ F) Subsecretaría de Ciencia, Tecnología e Innovación, a la que quedan adscrit
 
 2. Dirección General de Cómputo y Tecnologías de la Información;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2023)</small>
 
-G) Coordinación General de Inclusión Educativa e Innovación.
+3) Dirección General de Desarrollo e Innovación Tecnológica;
 
-> <small>(REFORMADO, G.O. 31 DE JULIO DE 2020)</small>
+G) (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
-Asimismo, se le adscriben los Órganos Desconcentrados denominados Instituto de Estudios Superiores de la Ciudad de México "Rosario Castellanos" y Universidad de la Salud.
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2023)</small>
+
+Asimismo, se le adscribe el Órgano Desconcentrado denominado Subsistema de Educación Comunitaria “PILARES”.
 
 VIII. A la Secretaría de Gestión Integral de Riesgos y Protección Civil:
 
@@ -1808,7 +1810,13 @@ XXV. Garantizar el óptimo funcionamiento de los equipos de cómputo, comunicaci
 
 XXVI. Diseñar estrategias de comunicación para difundir capsulas informativas de temas coyunturales en materia educativa;
 
-XXVII. Expedir de conformidad con la normatividad aplicable las copias certificadas de los documentos que obren en los archivos del área a su cargo, así como de aquellos que expidan en el ejercicio de sus funciones las personas servidoras públicas que le están subordinados, y
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2023)</small>
+
+XXVII. Expedir, de conformidad con la normativa aplicable, las copias certificadas de los documentos que obren en los archivos del área a su cargo, así como aquellos que expidan en el ejercicio de sus funciones las personas servidoras públicas que le están subordinadas;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+
+XXVII Bis. Dirigir, coordinar, supervisar y evaluar la actividad institucional de la Dirección General de Desarrollo e Innovación Tecnológica; y
 
 XXVIII. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
 
@@ -5730,7 +5738,7 @@ XV. Diseñar talleres orientados al aprendizaje, apreciación y ejecución de la
 
 XVI. Desarrollar y diseñar esquemas de operación de fábricas de artes y oficios (FAROS), que permitan su vinculación a las comunidades, como espacios orientados hacia la promoción, fomento, formación y enseñanza de las disciplinas artísticas y oficios relacionados con éstas;
 
-XVII. Desarrollar y diseñar esquemas de operación de puntos de innovación, libertad, arte, educación y saberes (PILARES), que permitan su vinculación a las comunidades, como espacios orientados hacia la promoción, fomento, formación y enseñanza de las disciplinas artísticas y oficios relacionados con éstas;
+XVII. (DEROGADA, G.O. 21 DE JULIO DE 2023)
 
 XVIII. Gestionar con las distintas instancias de la Administración Pública de la Ciudad de México, los apoyos necesarios para incrementar y asegurar la capacidad de producción creativa de la industria cultural y el cooperativismo;
 
@@ -6476,89 +6484,7 @@ XXI. Las demás que le sean encomendadas por la persona titular de la Secretarí
 
 ###### Artículo 158.
 
-Corresponde a la Dirección General de Desarrollo e Innovación Tecnológica:
-
-I. Instrumentar las acciones que permitan generar proyectos de desarrollo en ciencia, tecnología e innovación que contribuyan a la creación, mejora, desarrollo o modernización de procesos, bienes o servicios que beneficien a los habitantes de la ciudad;
-
-II. Proponer a la persona Titular de la Secretaría, instrumentar y participar en la suscripción de convenios de coordinación y colaboración con la Administración Pública Local, el sector social o las instituciones públicas o privadas científicas o académicas, para el establecimiento de programas y apoyos destinados a impulsar el desarrollo científico, tecnológico y de innovación, la propiedad intelectual, las tecnologías de la información y la transferencia tecnológica en la Ciudad de México;
-
-III. Diseñar los lineamientos que regulen la evaluación, selección, autorización, apoyo, operación y conclusión de los proyectos innovadores que contribuyan a la creación, mejora, desarrollo o modernización de procesos, innovación, productos, servicios y proyectos de desarrollo tecnológico y de innovación que beneficien a los habitantes de la Ciudad;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-IV. Propiciar la creación y participar en los Centros de Investigación de la Ciudad de México;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-V. Establecer las bases y participar en los grupos de trabajo que se integren para la evaluación, aprobación y seguimiento de los proyectos de desarrollo tecnológico y de innovación, prioritarios de la Ciudad de México;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-VI. Supervisar, de conformidad con la normatividad de la materia, el desarrollo de los proyectos de tecnológicos (sic) y de innovación que sean autorizados;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-VII. Coordinar el trabajo multidisciplinario, interinstitucional e intersectorial para la integración y ejecución de proyectos de desarrollo tecnológico y de innovación a cargo de la Secretaría;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-VIII. Fomentar la formación, apoyo y desarrollo de científicos, académicos, tecnólogos, investigadores y profesionales de alto nivel académico, en el ámbito de su competencia;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-IX. Promover la participación de la comunidad científica y de los sectores público, social y privado para el desarrollo, aplicación y fomento de los programas y proyectos de innovación;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-X. Proponer y ejecutar las políticas públicas y lineamientos para favorecer las actividades de innovación, propiedad intelectual y de patentes;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XI. Proponer, dar seguimiento y continuidad a las acciones para la organización de eventos, ferias, exposiciones y congresos relacionados con el desarrollo de la ciencia, tecnología e innovación;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XII. Establecer mecanismos de colaboración con la Administración Pública Local y los Órganos Político Administrativos necesarios para promover la realización de programas y la asignación de recursos en materia de ciencia, tecnología e Innovación;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XIII. Atender las consultas que realicen las Dependencias y Entidades de la Administración Pública de la Ciudad de México, sobre la instrumentación de los proyectos de ciencia, tecnología e innovación así como las que formulen las Alcaldías, las personas físicas y los organismos de los sectores social o privado en esta materia;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XIV. Promover la cultura del registro de los productos o procedimientos que descubran o desarrollen las personas físicas o morales que realicen sus actividades en la Ciudad de México, para proteger la propiedad intelectual y las patentes;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XV. Realizar los estudios y actividades necesarias para que la Secretaría brinde los apoyos relacionados con la (sic) en materias de Propiedad Industrial y Patentes en la Ciudad de México, que permitan orientar el apoyo a proyectos de desarrollo científico, tecnológico y de innovación;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XVI. Proponer la implementación de programas que permitan que los proyectos de innovación que lleve a cabo la Secretaría incidan en el desarrollo de inversiones estratégicas en la Ciudad de México;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XVII. Impulsar la innovación de la infraestructura tecnológica y de servicios públicos con apoyos otorgados por la Secretaría;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XVIII. Fomentar entre los entes públicos o privados el intercambio, movilidad o estancias de investigadores, científicos, académicos o profesionistas de alto nivel, en materia de ciencia, tecnología, e innovación, cumpliendo para ello con los requisitos para el otorgamiento de apoyos en las carreras de investigación con proyección internacional encaminados a cumplir con los fines de la Secretaría;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XIX. Impulsar y promover el establecimiento de redes científicas a fin de establecer sistemas de cooperación en esas materias;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XX. Establecer los mecanismos necesarios para el intercambio de profesores e investigadores, otorgamiento de becas, sistemas de información y documentación y servicios de apoyo relativos al desarrollo científico, tecnológico y de innovación, en coordinación con la (sic) diferentes Unidades Administrativas de la Secretaría.
-
-XXI. Fomentar la aplicación y el desarrollo de la ciencia, tecnología e innovación de la Información y Comunicación en temas estratégicos para la ciudad;
-
-XXII. Asesorar y en su caso, apoyar los proyectos de investigación y desarrollo tecnológico en torno al tema de la sociedad de la información y el conocimiento;
-
-XXIII. Expedir de conformidad con la normatividad aplicable las copias certificadas de los documentos que obren en los archivos del área a su cargo, así como de aquellos que expidan en el ejercicio de sus funciones las personas servidoras públicas que le están subordinados, y
-
-XXIV. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
+(DEROGADO, G.O. 21 DE JULIO DE 2023)
 
 ###### Artículo 159.
 
@@ -6844,43 +6770,63 @@ XIV. Impulsar y promover el establecimiento de redes científicas, tecnológicas
 
 XV. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
 
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2023)</small>
+
+###### Artículo 164 Bis.
+
+Corresponde a la Dirección General de Desarrollo e Innovación Tecnológica el ejercicio de las siguientes atribuciones:
+
+I. Instrumentar las acciones que permitan generar proyectos de desarrollo en tecnología e innovación, que contribuyan a la creación, mejora, desarrollo o modernización de procesos, bienes o servicios que beneficien a la población en la ciudad;
+
+II. Proponer, instrumentar y participar en la suscripción de convenios de coordinación y colaboración con la Administración Pública Local, el sector social, instituciones públicas, privadas, científicas y académicas, para el establecimiento de programas y apoyos destinados a impulsar el desarrollo científico, tecnológico y de innovación, la propiedad intelectual, las tecnologías de la información y la transferencia tecnológica en la Ciudad de México;
+
+III. Asesorar en la elaboración de los lineamientos que regulen la evaluación, selección, autorización, apoyo, operación y conclusión de los proyectos innovadores que contribuyan a la creación, mejora, desarrollo o modernización de procesos, innovación, productos, servicios y proyectos de desarrollo tecnológico y de innovación que beneficien a la población en la Ciudad de México;
+
+IV. Propiciar la creación y participación en los Centros de Investigación de la Ciudad de México;
+
+V. Establecer las bases y participación en los grupos de trabajo competentes que se integren para la evaluación, aprobación y seguimiento de los proyectos de desarrollo tecnológico y de innovación prioritarios de la Ciudad de México;
+
+VI. Supervisar el desarrollo de los proyectos tecnológicos y de innovación que sean autorizados de conformidad con la normativa vigente aplicable;
+
+VII. Contribuir con el trabajo multidisciplinario, interinstitucional e intersectorial para la integración y ejecución de proyectos de desarrollo tecnológico y de innovación a cargo de la Secretaría;
+
+VIII. Coadyuvar para la formación, apoyo y desarrollo en disciplinas científicas, académicas, tecnológicas, de investigación y profesionales de alto nivel académico, en el ámbito de su competencia;
+
+IX. Promover la participación de la comunidad científica y de los sectores público, social y privado en el desarrollo, aplicación y fomento de los programas y proyectos de innovación;
+
+X. Proponer y ejecutar las políticas públicas y lineamientos para favorecer las actividades de innovación, propiedad intelectual y de patentes;
+
+XI. Dar seguimiento y continuidad a las acciones para la organización de eventos, ferias, exposiciones y congresos relacionados con el desarrollo de la ciencia, tecnología e innovación;
+
+XII. Proponer el establecimiento de mecanismos de colaboración con la Administración Pública Local y los Órganos Políticos Administrativos necesarios para promover la realización de programas y la asignación de recursos en materia de ciencia, tecnología e Innovación;
+
+XIII. Coadyuvar en la atención de las consultas que realicen las Dependencias y Entidades de la Administración Pública de la Ciudad de México, sobre la instrumentación de los proyectos de ciencia, tecnología e innovación, así como las que formulen las Alcaldías, las personas físicas y los organismos de los sectores social o privado en esta materia;
+
+XIV. Coadyuvar en la promoción a la cultura del registro de los productos o procedimientos que descubran o desarrollen las personas físicas o morales que realicen sus actividades en la Ciudad de México, para proteger la propiedad intelectual y las patentes;
+
+XV. Realizar de manera coordinada los estudios y actividades necesarias para que la Secretaría brinde los apoyos relacionados con las materias de propiedad industrial y derechos de autor en la Ciudad de México, que permitan orientar el apoyo a proyectos de desarrollo científico, tecnológico y de innovación;
+
+XVI. Proponer la implementación de programas que permitan que los proyectos de innovación que lleve a cabo la Secretaría tengan impacto y relación con el desarrollo de inversiones estratégicas en la Ciudad de México;
+
+XVII. Impulsar la innovación de la infraestructura tecnológica y de servicios públicos con asesorías y apoyos otorgados por la Secretaría;
+
+XVIII. Fomentar entre los entes públicos o privados el intercambio, movilidad o estancias de investigadores, científicos, académicos o profesionistas de alto nivel, en materia de ciencia, tecnología e innovación, cumpliendo con los requisitos para el otorgamiento de apoyos en las carreras de investigación con proyección internacional encaminados a cumplir con los fines de la Secretaría;
+
+XIX. Impulsar y promover, a solicitud de la persona titular de la Subsecretaría de Ciencia, Tecnología e Innovación de la Ciudad de México, el establecimiento de redes científicas a fin de establecer sistemas de cooperación;
+
+XX. Coadyuvar para establecer los mecanismos necesarios para el intercambio de profesoras, profesores, investigadoras e investigadores, otorgamiento de becas, sistemas de información y documentación, así como servicios de apoyo relativos al desarrollo científico, tecnológico y de innovación, en coordinación con las diferentes Unidades Administrativas de la Secretaría.
+
+XXI. Fomentar la aplicación y el desarrollo de la ciencia, tecnología e innovación de la información y comunicación en temas estratégicos para la ciudad;
+
+XXII. Asesorar en los proyectos de investigación y desarrollo tecnológico en torno al tema de la sociedad de la información y el conocimiento;
+
+XXIII. Expedir, de conformidad con la normativa aplicable, las copias certificadas de los documentos que obren en los archivos del área a su cargo, así como de aquellos que expidan en el ejercicio de sus funciones las personas servidoras públicas que le están subordinadas; y
+
+XXIV. Las demás que le sean encomendadas por la persona titular de la Secretaría, en concordancia con la normativa vigente aplicable a la materia y el presente Reglamento.
+
 ###### Artículo 165.
 
-Corresponde a la Coordinación General de Inclusión Educativa e Innovación:
-
-I. Definir acciones que satisfagan las necesidades básicas de aprendizaje que contribuyan a erradicar la discriminación;
-
-II. Fomentar la participación en las comunidades indígenas para reforzar el aprendizaje sobre las culturas, en materia educativa;
-
-III. Implementar medios y canales de comunicación a fin de difundir los programas de equidad y cultura entre la Secretaría y la población estudiantil de la Ciudad de México, para fomentar la cultura ciudadana, de equidad y valores;
-
-IV. Vigilar la aplicación de la normatividad vigente en materia de inclusión y de educación ciudadana;
-
-V. Implementar mecanismos permanentes para el desarrollo de la educación intercultural;
-
-VI. Consolidar el intercambio de información y experiencias de educación intercultural;
-
-VII. Promover la participación de la población vulnerable en los proyectos y programas de educación inclusiva;
-
-VIII. Difundir los programas de equidad y cultura implementados por la Secretaría, utilizando todos los medios de comunicación a su alcance;
-
-IX. Coordinar acciones de promoción de valores, respeto y aprecio por la dignidad humana y fomentar la cohesión social en los educandos del Sistema Educativo de la Ciudad de México;
-
-X. Vigilar que los programas que establezca la Secretaría, incentiven a los alumnos a continuar con sus estudios;
-
-XI. Implementar proyectos y programas que promuevan la inclusión y la equidad educativa en el (sic) Ciudad de México;
-
-XII. Vigilar la aplicación de la normatividad vigente en materia de inclusión y de educación ciudadana;
-
-XIII. Realizar el diagnóstico y evaluación de los proyectos y programas de las instituciones educativas en la Ciudad de México, para atender la problemática en materia de educación incluyente y educación ciudadana;
-
-XIV. Desarrollar acciones que promuevan la educación incluyente y la educación ciudadana;
-
-XV. Promover el reconocimiento de educadores y educandos, que permitan consolidar sus logros y sean ejemplo en sus áreas de acción o comunidades; y
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XVI. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
+(DEROGADO, G.O. 21 DE JULIO DE 2023)
 
 #### SECCIÓN XIV. DE LA SECRETARÍA DE OBRAS Y SERVICIOS
 
@@ -11684,8 +11630,6 @@ XXIII. Las demás que le instruya la persona titular de la Secretaría de la Con
 
 #### SECCIÓN IV. ADSCRITO A LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
-> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
 ###### Artículo 268.
 
 Las atribuciones generales que en el presente apartado se establecen, serán ejecutadas por la Dirección Ejecutiva, la Dirección de Área, la Subdirección, la Jefatura de Unidad Departamental, el Líder Coordinador, el Enlace u homólogos que determine la persona Titular de la Secretaría de la Contraloría General a través del nombramiento respectivo, mismas que se realizarán, sin perjuicio de aquellas atribuciones específicas que les confiera este Reglamento y otras disposiciones jurídicas y administrativas aplicables.
@@ -13552,523 +13496,167 @@ X. Las demás funciones que le atribuyan las leyes y reglamentos, así como las 
 
 ###### Artículo 302 Bis.
 
-El Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos”, tendrá una vocación eminentemente social y tendrá por objeto cubrir las necesidades educativas de nivel superior de la Ciudad de México, mediante planes y programas de estudio de calidad, innovadores y con pertinencia sociocultural.
-
-> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+(DEROGADO, G.O. 21 DE JULIO DE 2023)
 
 ###### Artículo 302 Ter.
 
-Para el despacho de los asuntos que competen al Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos”, tiene adscritas:
-
-1. Dirección General del Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos”.
-
-2. Secretaría General.
-
-3. Dirección Ejecutiva de Asuntos Estudiantiles.
-
-4. Dirección Ejecutiva de Campus.
-
-5. Dirección Ejecutiva del Campus Virtual.
-
-> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+(DEROGADO, G.O. 21 DE JULIO DE 2023)
 
 ###### Artículo 302 Quater.
 
-Corresponde a la Dirección General del Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos”:
-
-I. Establecer y dirigir las políticas del Instituto y coordinar sus actividades;
-
-II. Proponer a la persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación para su conocimiento y posterior aprobación de la Junta de Gobierno, los decretos, reglamentos, acuerdos, circulares y órdenes sobre asuntos de interés del Instituto;
-
-III. Proponer a la persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación para su conocimiento y posterior aprobación de la Junta de Gobierno, las propuestas de perfiles para los nombramientos de las personas Titulares de las Secretarías, Direcciones de las Unidades Académicas, así como del personal con nivel de Dirección de Área;
-
-IV. Proponer a la persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación para su conocimiento y posterior aprobación de la Junta de Gobierno, la creación, modificación o supresión de las Unidades Académicas, que requieran las finalidades sustantivas del Instituto;
-
-V. Conformar de manera libre, las comisiones, comités y grupos de trabajo que considere convenientes para el mejor desahogo de asuntos de carácter institucional;
-
-VI. Proponer a la titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación, para su sometimiento y posterior aprobación de la Junta de Gobierno, en coordinación con las Unidades Administrativas competentes, el calendario académico del Instituto y vigilar su cumplimiento;
-
-VII. Supervisar académicamente los requisitos para los procesos de selección, admisión e ingreso, acreditación, registro, certificación, otorgamiento de diplomas y grados académicos de posgrado en las diversas modalidades educativas que imparta el Instituto, de acuerdo con las normas y políticas establecidas, y en su caso replantearlas;
-
-VIII. Intervenir, en los convenios que celebre el Gobierno de la Ciudad de México o las Unidades Administrativas que lo conforman y que involucren aspectos de la competencia del Instituto;
-
-IX. Promover y atender en el ámbito nacional e internacional las modalidades de vinculación académica, científica, tecnológica, cultural y deportiva del Instituto y designar a sus representantes ante las instancias correspondientes;
-
-X. Fomentar y promover el intercambio y la participación cultural y deportiva del Instituto con organismos y entidades afines, nacionales e internacionales, que contribuyan en la integración social de los servicios y el fortalecimiento del deporte, la cultura y la imagen institucional;
-
-XI. Aprobar los programas institucionales de intercambio educativo, científico, tecnológico, cultural y deportivo con Instituciones y Organismos nacionales e internacionales;
-
-XII. Concertar acciones específicas en materia educativa, de investigación, científica, tecnológica, cultural y deportiva con organismos del sector público, social y privado, nacional e internacional, y celebrar los instrumentos jurídicos que correspondan;
-
-XIII. Promover la participación y colaboración de los tres órdenes de gobierno, de organismos del sector privado y social y de personas físicas o morales, en la realización de las finalidades y objetivos del Instituto;
-
-XIV. Invitar a representantes de organizaciones de los sectores público, social y privado para integrar el Comité Asesor del Instituto;
-
-XV. Otorgar la equivalencia y la revalidación de estudios, conforme a los criterios establecidos por la Secretaría de Educación, Ciencia, Tecnología e Innovación;
-
-XVI. Aprobar la creación y la operación de los mecanismos de información, y difusión de los programas, acciones y resultados del cumplimiento de las finalidades del Instituto;
-
-XVII. Establecer los criterios correspondientes para autorizar a terceros el uso o explotación, por cualquier forma o medio, de la propiedad intelectual del Instituto observando la normativa aplicable;
-
-XVIII. Promover ante personas y organismos de los sectores público, social y privado, nacionales e internacionales, las aportaciones de donativos o cualquier acto de otra naturaleza tendientes a la obtención de recursos para la realización de las finalidades y el cumplimiento de las atribuciones del Instituto;
-
-XIX. Realizar acciones que generan influencia permanente en los estudiantes, que les permita el desarrollo de sus competencias y que les influya a lo largo de toda su existencia;
-
-XX. Celebrar y suscribir instrumentos de naturaleza educativa, científica, tecnológica, cultural y deportiva, o cualquier otro, inherentes a los objetivos institucionales;
-
-XXI. Evaluar las estrategias y acciones de las diversas Unidades y en su caso replantearlas para orientar los servicios educativos del Instituto hacia el logro de los programas, planes y proyectos institucionales, de acuerdo a los lineamientos establecidos, así como para fortalecer y consolidar el carácter integral de la formación para los estudiantes;
-
-XXII. Evaluar la integración, operación y control del acervo que forma parte del Instituto, a cargo de la Unidad Administrativa correspondiente;
-
-XXIII. Coordinar el diseño, desarrollo y actualización de los modelos educativos, de la oferta curricular, planes y programas de estudio en materia de educación, desarrollo de evaluaciones con fines de investigación y de procesos, proyectos y estrategias para la diversa oferta educativa;
-
-XXIV. Supervisar que las políticas de calidad e innovación sean congruentes con los programas autorizados por la Junta de Gobierno;
-
-XXV. Establecer las directrices en materia de recursos financieros, humanos y materiales, así como las políticas salariales y de prestaciones al interior del Instituto a fin de que éstas cumplan con el presupuesto autorizado, lineamientos, normas y procedimientos aplicables y someterlas para su aprobación a la Junta de Gobierno;
-
-XXVI. Posicionar al Instituto y sus servicios, a fin de impulsar el desarrollo de nuevas alianzas y estrategias de colaboración educativo, científico, tecnológico, cultural y deportivo;
-
-XXVII. Coordinar las acciones necesarias, a fin de asegurar el cumplimiento y la aplicación de las disposiciones que rige al Instituto;
-
-XXVIII. Supervisar y ejecutar acciones para el mejoramiento del registro y control de los servicios escolares;
-
-XXIX. Supervisar el calendario académico del Instituto, para su sometimiento y aprobación de la Junta de Gobierno;
-
-XXX. Signar para su validación los certificados y diplomas y junto con la persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación, validar los títulos y grados académicos que expida el Instituto;
-
-XXXI. Ejercer las demás facultades que las disposiciones legales y administrativas le confiera.
-
-> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+(DEROGADO, G.O. 21 DE JULIO DE 2023)
 
 ###### Artículo 302 Quinquies.
 
-Corresponde a la Secretaría General:
-
-I. Auxiliar a la Dirección General en el ejercicio de las funciones que le encomiende;
-
-II. Desempeñar las comisiones encomendadas por la Dirección General, para apoyar el cumplimiento de los objetivos institucionales;
-
-III. Suplir a la persona titular de la Dirección General en sus ausencias, en los términos de la normativa aplicable, y rendirle un informe detallado de su gestión;
-
-IV. Planear, coordinar y evaluar las acciones necesarias para asegurar la correcta convivencia de todos los sectores que componen a la comunidad del Instituto;
-
-V. Realizar visitas a las Unidades Académicas y Administrativas del Instituto y coordinar con los titulares de las mismas la información necesaria para conocer su problemática y presentar a la Dirección General los informes y propuestas de solución correspondientes;
-
-VI. Proponer a la Dirección General mecanismos de participación de la comunidad en los asuntos necesarios para la solución de conflictos o el cumplimiento de objetivos, o aquellos que por su relevancia así se consideren;
-
-VII. Promover y preservar la identidad Institucional, así como los valores plasmados en el Decreto de Creación;
-
-VIII. Asistir a la Dirección General en la coordinación y seguimiento de las actividades a realizar por las Unidades del Instituto;
-
-IX. Asistir a la Dirección General en la coordinación de las actividades Institucionales, con excepción de aquellas que el Director General asigne a otras áreas;
-
-X. Presentar a la Dirección General el programa de presupuesto y el cuadro anual de necesidades de recursos de la Secretaría conforme a la información proporcionada por las Direcciones Ejecutivas, en los términos de la normativa aplicable;
-
-XI. Promover el fortalecimiento de vida interna del Instituto, mediante la interacción de acciones con otras instancias de los diferentes niveles de gobierno, el fortalecimiento de la vida interna del Instituto;
-
-XII. Fungir en su caso, a propuesta y designación de la Dirección General, como Secretario Técnico de los Órganos Colegiados que se integren al interior del Instituto, emitir convocatorias, levantar las actas de cada sesión y dar seguimiento a los acuerdos aprobados;
-
-XIII. Proponer a la Dirección General las convocatorias para la elección de representantes de la comunidad estudiantil y académica ante la Junta de Gobierno o de cualquier órgano colegiado que la Dirección General determine;
-
-XIV. Proporcionar, en el ámbito de su competencia, la información solicitada por la Unidad de Enlace del Instituto, en los términos de la normativa correspondiente;
-
-XV. Coordinar y supervisar los servicios educativos establecidos para fortalecer y consolidar el carácter integral de la formación de los estudiantes;
-
-XVI. Coordinar y supervisar, con las dependencias competentes, la integración, operación y el control del acervo que forma parte del Instituto;
-
-XVII. Coordinar los apoyos y asesorías a la comunidad estudiantil para la organización de actividades y eventos culturales, deportivos y de cultura física que contribuyan en la formación integral de los estudiantes, en el marco del modelo educativo y de conformidad con los recursos disponibles para el efecto;
-
-XVIII. Ejecutar acciones que permitan el intercambio y la participación cultural y deportiva del Instituto con organismos y entidades afines, nacionales e internacionales, que contribuyan en la integración social de los servicios y el fortalecimiento del deporte, la cultura y la imagen institucional;
-
-XIX. Proponer a la Dirección General, para su sometimiento a la Junta de Gobierno, en coordinación con las Unidades Administrativas competentes, el calendario académico del Instituto y vigilar su cumplimiento, y
-
-XX. Las demás sean necesarias para el ejercicio de las anteriores, las que las disposiciones legales y administrativas le otorguen y las que le sean conferidas expresamente por la Dirección General.
-
-> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+(DEROGADO, G.O. 21 DE JULIO DE 2023)
 
 ###### Artículo 302 Sexies.
 
-Las Direcciones Ejecutivas del Instituto tendrán las siguientes atribuciones genéricas:
-
-I. Acordar con la Dirección General y en su caso, previa disposición de ésta, con las Unidades competentes, los asuntos y la ejecución de acciones que les sean encomendados;
-
-II. Administrar el funcionamiento de las áreas que tenga adscritas, mediante la programación de planeación, programación, organización, coordinación y control de su actuación conforme a las políticas del Gobierno de la Ciudad de México relacionadas con la cultura de la legalidad y del respeto a los derechos humanos, la equidad de género y la promoción del desarrollo sustentable, así como la cultura de la calidad;
-
-III. Aplicar en las áreas de su adscripción las normas, criterios, sistemas y procedimientos de trabajo que dicte la Dirección General, y los establecidos en la normativa vigente;
-
-IV. Proponer a la Dirección General la creación, organización, modificación, fusión o supresión de las áreas de su competencia, para la decisión en su sometimiento para su aprobación de la Junta de Gobierno.
-
-V. Ejercer las acciones que se les deleguen, por la Dirección General, así como los actos que les correspondan por suplencia;
-
-VI. Informar a la Dirección General sobre las necesidades de las distintas áreas del Instituto, para la integración del programa de presupuesto y cuadro anual de necesidades;
-
-VII. Proponer a la persona titular de la Dirección General, las acciones pertinentes a integrar el programa estratégico de desarrollo de mediano plazo, del operativo anual y del anteproyecto de presupuesto anual de las áreas que tengan adscritas y vigilar su correcta y oportuna ejecución;
-
-VIII. Contribuir en la formulación, ejecución y control de los programas institucionales;
-
-IX. Participar en la ejecución de los recursos asignados que se deriven de las acciones de vinculación e integración social, o cualquier otra, de acuerdo con la normativa aplicable;
-
-X. Someter a la aprobación de la Dirección General los estudios y proyectos de modernización y simplificación que se elaboren;
-
-XI. Celebrar y suscribir instrumentos de naturaleza educativa, científica, tecnológica, cultural y deportiva, o cualquier otro, inherentes a los objetivos institucionales, por instrucciones de la Dirección General;
-
-XII. Proporcionar la información solicitada por la Unidad de Enlace del Instituto, en los términos de la normativa aplicable;
-
-XIII. Planear, dirigir y controlar las estrategias y acciones que permitan orientar los servicios educativos del Instituto hacia el logro de los programas y proyectos institucionales congruentes con los aprobados por la Junta de Gobierno;
-
-XIV. Las demás atribuciones que sean necesarias para el cumplimiento de las anteriores.
-
-> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+(DEROGADO, G.O. 21 DE JULIO DE 2023)
 
 ###### Artículo 302 Septies.
 
-Corresponde a la Dirección Ejecutiva de Asuntos Estudiantiles:
-
-I. Proponer a la Dirección General las normas, políticas, programas, objetivos y metas para la integración, coordinación, operación, administración, control y evaluación de la administración escolar de las modalidades escolarizada, a distancia y mixta, en congruencia con el modelo educativo y supervisar su cumplimiento;
-
-II. Planear, diseñar, dirigir, operar y evaluar, con la participación de las áreas competentes, los procedimientos de selección, ubicación admisión para el ingreso (sic) modalidades escolarizada, a distancia y mixta;
-
-III. Planear, diseñar, dirigir, controlar y evaluar los procedimientos administrativos de inscripción, reinscripción, cambios de programa académico o de unidad, movilidad académica, incorporación a programas académicos adicionales, y altas y bajas de los estudiantes en los niveles y modalidades que imparte el Instituto;
-
-IV. Dirigir, controlar y evaluar el registro de las trayectorias escolares de los estudiantes, la expedición de constancias y certificados de estudios y el otorgamiento de diplomas, títulos profesionales y grados académicos;
-
-V. Expedir, validar y autenticar con su firma las constancias, certificados, títulos, diplomas y grados académicos de las personas que hayan concluido sus estudios en el Instituto;
-
-VI. Planear, dirigir, operar y evaluar el sistema institucional de gestión escolar y controlar su aplicación en las Unidades Académicas del Instituto;
-
-VII. Dirigir, administrar, controlar y resguardar el acervo académico documental e histórico de los estudiantes y egresados;
-
-VIII. Dirigir, realizar, controlar y evaluar los trámites de la administración escolar relativos al otorgamiento de equivalencias o revalidación de estudios;
-
-IX. Informar a la Dirección General acerca del desarrollo y resultados de sus funciones, en cumplimiento a las políticas institucionales relacionadas con la cultura de la legalidad, del respeto a los derechos humanos, la equidad de género y la promoción del desarrollo sustentable;
-
-X. Regular el registro y control de los servicios escolares, a través de las Unidades Académicas y mecanismos digitalizados;
-
-XI. Dictaminar los casos de los estudiantes que le soliciten revisión de situación escolar;
-
-XII. Coordinar el desarrollo de los servicios de apoyo a los estudiantes del Instituto;
-
-XIII. Participar, en el ámbito de su competencia, en el diseño y aplicación del proceso de admisión, ubicación, e ingreso de los estudiantes del Instituto;
-
-XIV. Emitir opciones técnicas sobre la definición de equivalencias de estudios entre los diversos planes de estudio ofrecidos por el Instituto y los ofrecidos por otras Instituciones;
-
-XV. Realizar los trámites correspondientes al Registro Académico de los estudiantes del Instituto;
-
-XVI. Regular el registro y control de los servicios escolares en las Unidades Académicas y coordinar el desarrollo de los servicios de apoyo a los estudiantes del Instituto;
-
-XVII. Emitir opiniones con respecto a las solicitudes de otorgamiento o revocación de reconocimiento de validez oficial de estudios;
-
-XVIII. Participar en la elaboración de la normativa para las equivalencias o revalidaciones de estudios y emitir los dictámenes correspondientes;
-
-XIX. Coordinar, controlar y supervisar la elaboración de los contenidos académicos y aplicación de los exámenes ordinarios, extraordinarios y a título de suficiencia; autorizar y dar seguimiento a aquellos que se realicen fuera de los periodos establecidos en el calendario académico, y orientar y asesorar a las Unidades Académicas sobre el particular;
-
-XX. Proponer a la Dirección General, para su sometimiento a la Junta de Gobierno, en coordinación con las Unidades Administrativas competentes, el calendario académico del Instituto y vigilar su cumplimiento, y
-
-XXI. Las demás que sean necesarias para el ejercicio de las anteriores, las que las disposiciones legales y administrativas le otorguen y las que les sean conferidas expresamente por la Dirección General.
-
-> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+(DEROGADO, G.O. 21 DE JULIO DE 2023)
 
 ###### Artículo 302 Octies.
 
-Corresponde a la Dirección Ejecutiva de Campus:
-
-I. Establecer, en coordinación con las Unidades Académicas del Instituto los cupos máximos de admisión de los estudiantes, conforme a criterios académicos, planta docente, capacidad instalada y equilibrio entre oferta y demanda, entre otros;
-
-II. Proponer, impulsar y supervisar la aplicación de las normas que para tal efecto emita la Dirección General respecto a los perfiles y procedimientos de admisión para el ingreso, permanencia y egreso de los estudiantes;
-
-III. Establecer acciones pertinentes para alcanzar las metas de retención y eficiencia terminal que sean señaladas institucionalmente;
-
-IV. Aprobar, supervisar y evaluar las prácticas y visitas escolares, técnicas y profesionales, con la finalidad de fortalecer las relaciones teórico-prácticas en la formación de los estudiantes del Instituto;
-
-V. Promover, supervisar y controlar la integración y operación de las plantillas docentes de las Unidades Académicas, así como su participación en el desarrollo educativo a nivel intra e interinstitucional, de acuerdo con la normatividad aplicable;
-
-VI. Planear, coordinar y evaluar los programas de intercambio académico de docentes, investigadores y estudiantes con instituciones y organismos nacionales e internacionales, en los términos de las normas y políticas correspondientes;
-
-VII. Participar en la operación de los programas académicos;
-
-VIII. Participar con las instancias correspondientes en la elaboración e implantación de proyectos que apoyen la prestación del servicio social y las prácticas profesionales y titulación;
-
-IX. Impulsar y coordinar la participación de las Unidades Académicas en los procesos de acreditación y certificación, de acuerdo con las estrategias de calidad del Modelo Educativo;
-
-X. Desarrollar acciones de vinculación entre los diferentes órdenes de gobierno, instituciones educativas, organizaciones civiles y sector productivo que beneficien a la formación de los estudiantes del Instituto;
-
-XI. Proponer los criterios académicos para el diseño y adecuación de los espacios educativos, la adquisición y uso de equipos, instrumentos y otros medios didácticos para impartir los programas académicos del Instituto;
-
-XII. Evaluar la estructura académica de las Unidades;
-
-XIII. Proponer a la Dirección General los programas y acciones para actualizar, modernizar y optimizar la infraestructura física y técnica de las Unidades Académicas;
-
-XIV. Impulsar y coordinar acciones de integración institucional de los estudiantes, personal académico, administrativo y directivo de las Unidades Académicas;
-
-XV. Informar a la Secretaría General acerca del desarrollo y los resultados de sus funciones;
-
-XVI. Consolidar la información académica, supervisar su eficiencia, calidad y oportunidad, así como elaborar la estadística de su competencia;
-
-XVII. Proponer a la Dirección General, para su sometimiento a la Junta de Gobierno, en coordinación con las Unidades Administrativas competentes, el calendario académico del Instituto y vigilar su cumplimiento, y
-
-XVIII. Las demás que sean necesarias para el ejercicio de las anteriores, las que las disposiciones legales y administrativas le otorguen y las que les sean conferidas expresamente por la Dirección General.
-
-> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+(DEROGADO, G.O. 21 DE JULIO DE 2023)
 
 ###### Artículo 302 Nonies.
 
-Corresponde a la Dirección Ejecutiva del Campus Virtual:
+(DEROGADO, G.O. 21 DE JULIO DE 2023)
 
-I. Proponer a la Dirección General y, en su caso, a las instancias competentes los proyectos de normas, políticas, programas, lineamientos, estrategias, objetivos, metas e instrumentos para la planeación, desarrollo, diversificación, operación y evaluación de la oferta educativa en modalidades a distancia y mixta, en concordancia con los modelos educativos y de integración social, así como para el diseño, selección, uso y gestión de recursos y medios tecnológicos aplicados a entornos educativos, en el ámbito de su competencia;
+###### Artículo 302 Decies.
 
-II. Coordinar y aprobar, con la participación de las áreas competentes, la metodología, los modelos y procesos para diseñar, implantar, operar y evaluar las modalidades educativas electrónicas; a distancia y mixta, de acuerdo con el modelo educativo y los lineamientos de tecnologías de información y comunicación;
+(DEROGADO, G.O. 21 DE JULIO DE 2023)
 
-III. Coordinar con las áreas competentes el diseño y elaboración de materiales educativos y en la aplicación de recursos tecnológicos para la operación de la oferta educativa en modalidades presencial, a distancia y mixta;
+Artículo 302 Undecies.- (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
-IV. Diseñar la metodología, los modelos y procesos para implantar, operar y evaluar las modalidades educativas presencial, a distancia y mixta, de acuerdo con el modelo educativo y asegurar la correspondencia de los programas, diseños, materiales y medios con los requerimientos de la oferta educativa del Instituto y realizar acciones de diagnóstico con sus resultados;
+Artículo 302 Duodecies.- (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
-V. Diseñar, proponer, actualizar y coordinar el desarrollo de proyectos en materia de tecnologías de información y comunicación para impulsar el diseño y utilización de nuevas tecnologías y apoyar en la inserción de los estudiantes a la sociedad del conocimiento;
+Artículo 302 Terdecies.- (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
-VI. Administrar y establecer en coordinación con las dependencias competentes los criterios de planeación, operación e implementación del uso de las tecnologías de la información y comunicación, así como el óptimo aprovechamiento de la infraestructura de video, teleconferencia, televisión, internet y otras tecnologías de la información y comunicación dispuestas para los servicios de las Unidad (sic) Académicas;
+Artículo 302 Quaterdecies.- (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
-VII. Participar en el diseño, actualización, adecuación, ampliación y diversificación de la oferta educativa del Instituto en modalidades a distancia y mixta, así como apoyar su desarrollo didáctico;
+Artículo 302 Quindecies.- (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
-VIII. Diseñar procesos de selección, inscripción, promoción, seguimiento a la trayectoria académica, movilidad y egreso de los estudiantes en modalidades a distancia y mixta;
+Artículo 302 Sexdecies.- (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
-IX. Coadyuvar, en el ámbito de su competencia, con las dependencias responsables en el diseño de los procesos de selección, inscripción, promoción, seguimiento a la trayectoria escolar, movilidad y egreso de los estudiantes y docentes de los programas académicos en modalidades a distancia y mixta;
+Artículo 302 Septedecies (sic). (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
-X. Gestionar la actualización y optimización de los medios y sistemas informáticos y de comunicación requeridos para el funcionamiento de las Unidades Académicas;
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2023)</small>
 
-XI. Coordinar los programas de equipamiento, actualización y mantenimiento de la infraestructura en informática;
+Artículo 302 Octodecies. El Subsistema de Educación Comunitaria “PILARES”, es un órgano desconcentrado adscrito a la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, tendrá a su cargo los espacios públicos, comunitarios y gratuitos, de educación y formación al servicio de las personas habitantes, vecinas y transeúntes de la Ciudad de México, denominados Puntos de Innovación, Libertad, Arte, Educación y Saberes (PILARES).
 
-XII. Identificar, probar, participar, adaptar e impulsar el desarrollo de soluciones de tecnología educativa acordes a las necesidades de los programas en modalidades presencial, a distancia y mixta, así como para apoyar el trabajo académico colaborativo;
+Para el cumplimiento de sus objetivos, además de las que refieren otras disposiciones normativas aplicables, tiene las atribuciones siguientes:
 
-XIII. Promover el establecimiento de redes académicas virtuales intra e interinstitucionales en los ámbitos nacional e internacional, así como operar y participar en aquellas que apoyen el desarrollo de la educación en modalidades a distancia y mixta;
+I. Definir y generar las acciones que satisfagan las necesidades básicas de aprendizaje, cultura y deporte comunitarios;
 
-XIV. Conjuntamente con las áreas competentes, promover, coordinar y realizar investigación sobre modalidades educativas a distancia y mixta, así como difundir sus resultados y fomentar su aplicación;
+II. Fomentar la participación de las poblaciones para reforzar el conocimiento respecto de las diversas culturas y contribuir a la erradicación de la discriminación, en coordinación con las autoridades competentes;
 
-XV. Coordinar, desarrollar y aplicar las tecnologías de la información y comunicación, para mejorar los aprendizajes, la investigación, extensión y gestión de los servicios institucionales;
+III. Implementar mecanismos permanentes para el desarrollo de la educación, autonomía económica, saberes, la cultura y el deporte comunitarios, así como, establecer los medios y de difusión correspondientes;
 
-XVI. Establecer lineamientos y criterios para el diseño, elaboración y uso de tecnologías de apoyo para los procesos académicos del Instituto;
+IV. Cumplir con la normativa vigente aplicable en materia de inclusión y fomentar esquemas de educación comunitaria en coordinación con la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
 
-XVII. Diseñar, instrumentar y aplicar los programas de formación, actualización y desarrollo permanente del personal de todos los niveles jerárquicos en el Instituto;
+V. Promover la participación de grupos de atención prioritaria en los proyectos y programas de educación, autonomía económica, saberes, cultura y deporte comunitarios;
 
-XVIII. Diseñar, proponer, actualizar y difundir programas y proyectos de educación continua, actualización y formación académica, y
+VI. Proponer proyectos y programas que se consideren y justifiquen necesarios para el cumplimiento de sus objetivos.
 
-XIX. Las demás atribuciones que sean necesarias para el ejercicio de las anteriores, las que las disposiciones legales y administrativas le otorguen y las que le sean conferidas expresamente por la Dirección General.
+VII. Fomentar e incentivar los programas de oficios, emprendimientos y autonomía económica, en coordinación con la Secretaría del Trabajo y Fomento al Empleo de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
+VIII. Coadyuvar en el diseño y desarrollo de esquemas de cultura comunitaria y educación artística que permitan su vinculación en espacios orientados hacia la promoción, fomento, formación y enseñanza de las disciplinas artísticas y oficios relacionados con éstas en coordinación con la Secretaría de Cultura de la Ciudad de México.
 
-Artículo 302 DECIES.- La Universidad de la Salud tendrá una vocación social, cuyo objetivo será cubrir las necesidades educativas de nivel superior en materia de salud, mediante planes y programas de estudio de calidad, innovadores y con pertinencia sociocultural, enfocados a la protección de la salud individual, familiar y comunitaria.
+IX. Proponer, coordinar y fomentar los programas y estrategias relativas a la activación deportiva y recreación comunitarias, en coordinación con el Instituto del Deporte de la Ciudad de México; y
 
-> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
+X. Las demás que le sean encomendadas de conformidad con la normativa vigente aplicable.
 
-Artículo 302 UNDECIES.- Se adscriben a la Universidad de la Salud para el despacho de los asuntos que competan, las siguientes unidades administrativas:
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2023)</small>
 
-1. Dirección General;
+Artículo 302 Novodecies. El Subsistema de Educación Comunitaria “PILARES” estará a cargo de la Coordinación General, la cual contará con un órgano colegiado de apoyo denominado Comité Consultivo.
 
-2. Secretaría General;
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2023)</small>
 
-3. Dirección Ejecutiva de la Carrera de Medicina;
+Artículo 302 Vicies. El Comité Consultivo del Subsistema de Educación Comunitaria “PILARES” estará integrado por las personas titulares de las siguientes autoridades de la Administración Pública local:
 
-4. Dirección Ejecutiva de la Carrera de Enfermería;
+I. Secretaría de Educación, Ciencia, Tecnología e Innovación, quien lo presidirá;
 
-5. Dirección Ejecutiva de Investigación y Posgrado; y
+II. Subsistema de Educación Comunitaria, quien fungirá como Secretaría Técnica;
 
-6. Dirección Ejecutiva de Innovación Educativa;
+III. Secretaría de Administración y Finanzas;
 
-> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
+IV. Secretaría de Cultura;
 
-Artículo 302 DUODECIES.- Corresponde a la Dirección General:
+V. Secretaría del Trabajo y Fomento al Empleo;
 
-I. Establecer los mecanismos e instrumentos necesarios para prestar los servicios de nivel superior en diversas modalidades educativas, de conformidad con los principios de libertad de cátedra;
+VI. Secretaría de Desarrollo Económico;
 
-II. Dirigir la elaboración del diseño y expedición de normas pedagógicas, planes, programas de estudio y métodos didácticos para la impartición de la educación superior en materia de salud, así como difundir y verificar el cumplimiento de las mismas;
+VII. Secretaría de las Mujeres;
 
-III. Ejecutar las funciones sustantivas de docencia, investigación, difusión, vinculación, así como establecer programas y proyectos de educación continua en actualización y formación académica en materia de salud;
+VIII. Secretaría del Medio Ambiente;
 
-IV. Propiciar e implementar políticas y programas que promuevan la pluriculturalidad, las manifestaciones culturales y el deporte, buscando el desarrollo integral de la comunidad educativa de la Universidad de la Salud;
+IX. Secretaría de Salud;
 
-V. Establecer, y en su caso, coadyuvar en la operación del Sistema de Becas para los estudiantes de licenciatura y posgrado;
+X. Instituto de la Juventud de la Ciudad de México; e
 
-VI. Promover, coordinar e impulsar las investigaciones y actividades académicas en materia de salud pública, con otras instituciones de estudios superiores nacionales o extranjeras, así como con instituciones del sector salud a nivel local, estatal y federal, con énfasis en los problemas de salud pública, orientadas a la implementación de medidas preventivas y correctivas de atención y de educación para una cultura de la salud;
+XI. Instituto del Deporte de la Ciudad de México.
 
-VII. Establecer y coordinar un sistema de revisión de la calidad de los servicios educativos que incluya la evaluación del aprendizaje y las demás funciones sustantivas del personal docente, los planes y programas de estudio, las labores académico-administrativas, la infraestructura, y actualización de programas académicos, a través de la optimización de la organización y el desarrollo de las unidades académicas, en términos de las disposiciones jurídicas aplicables;
+A las sesiones del Comité Consultivo se podrá invitar a personas titulares de otras autoridades que podrán participar con derecho a voz.
 
-VIII. Establecer programas y proyectos para la formación de redes de cooperación, movilidad e intercambio académico con otras instituciones de educación superior, públicas o privadas, nacionales o extranjeras para apoyar y facilitar el proceso de enseñanza-aprendizaje y la investigación de conformidad con los planes y programas de estudio;
+La organización y funcionamiento del Comité Consultivo se regirá por el Reglamento interno aprobado por dicho órgano colegiado.
 
-IX. Promover, publicar y difundir por cualquier medio, las investigaciones de docentes, investigadores y estudiantes o la que genere la Universidad de la Salud;
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2023)</small>
 
-X. Expedir certificados, títulos, diplomas y grados académicos a quienes hayan concluido sus estudios conforme a los planes y programas de estudio, de conformidad con la normativa aplicable;
+Artículo 302 Unvicies.- El Comité Consultivo del Subsistema de Educación Comunitaria “PILARES” será un órgano de consulta sobre los siguientes temas:
 
-XI. Establecer programas y proyectos para la cooperación con los pueblos y barrios originarios y comunidades indígenas, para apoyar y facilitar el proceso de enseñanza-aprendizaje intercultural, de conformidad con los planes y programas de estudio;
+I. Cumplimiento del objeto del Subsistema de Educación Comunitaria “PILARES”;
 
-XII. Suscribir acuerdos, convenios y demás instrumentos jurídicos con el sector público, social o privado que contribuyan a realizar las actividades sustantivas y a la creación y equipamiento de unidades académicas, previa aprobación de la Junta Ejecutiva
+II. Programa de Trabajo y sus resultados, métodos didácticos, así como los sistemas y mecanismos de evaluación propuestos por la persona titular del Subsistema, conforme a la normativa aplicable;
 
-XIII. Suscribir acuerdos, convenios y demás instrumentos jurídicos con el sector salud federal o de las entidades federativas, a efecto de incorporar a los estudiantes de la Universidad de la Salud en los campos clínicos o cualquier otro análogo;
+III. Anteproyecto de presupuesto anual de conformidad con las disposiciones aplicables;
 
-XIV. Proponer y establecer mecanismos administrativos con instituciones del sector salud del interior del país, para que a la conclusión de sus estudios se lleve a cabo la incorporación de los egresados de la Universidad de la Salud en la prestación de sus servicios profesionales; y
+IV. Propuestas y proyectos de educación, autonomía económica, saberes, cultura y deporte comunitarios;
 
-XV. Las demás que se establezcan en las disposiciones legales y administrativas, así como las que determine expresamente su Junta Ejecutiva.
+V. El calendario de actividades y, en su caso, las modificaciones;
 
-> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
+VI. Informes trimestrales y anuales de las actividades del Subsistema;
 
-Artículo 302 TERDECIES.- Corresponde a la Secretaría General:
+VII. Adecuado ejercicio de los recursos financieros destinados para el cumplimiento de los objetivos del Subsistema;
 
-I. Planear, coordinar y evaluar las acciones necesarias para asegurar la correcta convivencia de todos los sectores que componen la comunidad de la Universidad de la Salud;
+VIII. Manual Administrativo y los Manuales Específicos de Operación, así como los que regulen los servicios del Subsistema;
 
-II. Definir a la Dirección General las normas, políticas, programas, objetivos y metas para la integración, coordinación, operación, administración, control y evaluación de la administración escolar en congruencia con el modelo educativo a distancia y mixta, así como supervisar su cumplimiento;
+IX. Creación, modificación y/o supresión de PILARES;
 
-III. Planear, diseñar, dirigir, controlar y evaluar los procedimientos administrativos de inscripción, reinscripción, cambios de programa académico o de unidad, movilidad académica, incorporación a programas académicos adicionales, así como altas y bajas de los estudiantes de la Universidad de la Salud;
+X. Las demás que sean necesarias para el cumplimiento de los objetivos, así como las que disponga la normativa vigente aplicable.
 
-IV. Coordinar con las distintas áreas de la Universidad de la Salud, la integración de información periódica que permita la atención de problemáticas específicas encomendadas por la persona Titular de la Dirección General;
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2023)</small>
 
-V. Promover y preservar la identidad institucional, así como los valores plasmados en el Decreto de creación de la Universidad de la Salud;
+Artículo 302 Duovicies.- Corresponde a la Coordinación General del Subsistema de Educación Comunitaria “PILARES” las siguientes atribuciones:
 
-VI. Proponer a la persona titular de la Dirección General, mecanismos de participación de la comunidad en los asuntos necesarios para la solución de conflictos o el cumplimiento de los objetivos de la Universidad de la Salud;
+I. Vigilar el adecuado funcionamiento del Subsistema de Educación Comunitaria “PILARES”;
 
-VII. Coordinar la atención integral del alumnado dentro de la Universidad de la Salud;
+II. Coordinar la ejecución de los programas objeto del Subsistema de Educación Comunitaria “PILARES”;
 
-VIII. Coordinar las estrategias para garantizar la prestación óptima de los servicios educativos y de investigación en las carreras y posgrados que ofrece la Universidad de la Salud;
+III. Realizar las acciones necesarias para lograr los objetivos del Subsistema de Educación Comunitaria “PILARES”;
 
-IX. Coordinar la oferta educativa a través de los responsables de las áreas técnicas de la Universidad de la Salud para facilitar el cumplimiento de las estrategias definidas por la prestación de los servicios educativos;
+IV. Celebrar toda clase de instrumentos jurídicos, dentro del ámbito de su competencia, que se requieran para el cumplimiento de los objetivos, con instituciones educativas, públicas y privadas, organizaciones, personas físicas o morales y otras autoridades de conformidad con la normativa aplicable;
 
-X. Presentar a la Dirección General el programa de presupuesto y el cuadro anual de necesidades de recursos de la Secretaría General conforme a la información proporcionada por las diversas áreas, en los términos de la normativa aplicable;
+V. Ejercer la representación legal ante autoridades jurisdiccionales y administrativas, en defensa de los intereses del Subsistema, con independencia de lo que establezcan otros ordenamientos;
 
-XI. Estimular la participación de los estudiantes en los proyectos de investigación como una actividad paralela a su formación profesional;
+VI. Elaborar e integrar el anteproyecto de presupuesto anual del Subsistema de Educación Comunitaria “PILARES”, de conformidad con las disposiciones aplicables;
 
-XII. Fomentar y establecer núcleos de calidad educativa en la Universidad de la Salud, a través de grupos pilotos y laboratorios de docencia, en colaboración con los servicios asistenciales de las instituciones de salud;
+VII. Vigilar la ejecución de los recursos presupuestarios asignados al Subsistema de Educación Comunitaria “PILARES”;
 
-XIII. Proponer a la Dirección General las convocatorias para la elección de representantes de la comunidad estudiantil y académica ante la Junta Ejecutiva o de cualquier órgano colegiado que la Dirección General determine;
+VIII. Establecer disposiciones técnicas y administrativas para la supervisión y evaluación de las actividades,
 
-XIV. Coordinar los apoyos y asesorías a la comunidad estudiantil para la organización de actividades y eventos culturales, deportivos y de cultura física que contribuyan en la formación integral de los estudiantes, en el marco del modelo educativo y de conformidad con los recursos disponibles para tal efecto;
+IX. Presentar el proyecto del Manual Administrativo y los Manuales Específicos de Operación y los que regulan los servicios del Subsistema conforme a lo lineamientos aplicables;
 
-XV. Establecer políticas de los programas de becas para estudiantes de licenciatura y posgrado como la incorporación de becarios, estableciendo directrices para las necesidades anuales de la Universidad de la Salud y la adecuada utilización de becas para impulsar la licenciatura; así como establecer disposiciones, lineamientos, procedimientos y normas de los procesos de control escolar, becas, apoyos, actividades académicas extracurriculares, cultura, deporte, servicio social, internado médico y titulación, en congruencia con el modelo educativo;
+X. Elaborar proyectos de educación, autonomía económica, saberes, cultura y deporte comunitarios a desarrollar en el Subsistema de Educación Comunitaria “PILARES”;
 
-XVI. Proponer, en coordinación con las áreas de la Universidad de la Salud, a la Dirección General, para su sometimiento a la Junta Ejecutiva, el calendario académico y vigilar su cumplimiento; y
+XI. Establecer el calendario de actividades del Subsistema de Educación Comunitaria “PILARES”, así como sus modificaciones;
 
-XVII. Las demás que se establezcan en las disposiciones legales y administrativas y las que determine expresamente la Dirección General.
+XII. Presentar los informes trimestrales y anuales, así como el programa de trabajo a desarrollar durante el siguiente ejercicio;
 
-> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
-
-Artículo 302 QUATERDECIES.- Corresponde a la Dirección Ejecutiva de la Carrera de Medicina:
-
-I. Coordinar la actualización de los planes y programas de medicina con el propósito de que éstos sean vigentes y congruentes con los perfiles profesionales apegados a los enfoques y principios del Decreto de creación de la Universidad de la Salud y que permitan dar respuesta a los problemas de salud;
-
-II. Promover en los educandos los conocimientos, habilidades, actitudes y destrezas que les permitan evaluar, diagnosticar, tratar y aplicar sus conocimientos en el área de la salud de una manera integral (biológica, psicológica, social y cultural);
-
-III. Garantizar el cumplimiento de los procesos de enseñanza que propicien el aprendizaje de los estudiantes de manera autónoma, crítica, propositiva y participativa;
-
-IV. Impulsar la mejora continua de los procesos educativos que se realizan en la Universidad de la Salud apegados a los enfoques y principios que establece su Decreto de creación;
-
-V. Promover la formación, capacitación y perfeccionamiento del personal docente, de acuerdo con las necesidades de la Universidad de la Salud apegados a los enfoques y principios del Decreto de creación;
-
-VI. Desarrollar permanentemente acciones de difusión y servicio de programas de educación continua, actualización, vinculación, formación y superación académica;
-
-VII. Identificar las necesidades de materiales y personal académico para el desarrollo de los planes y programas de la Carrera de Medicina;
-
-VIII. Dirigir las diferentes áreas académicas de la Carrera de Medicina, mediante la coordinación del desarrollo de actividades docentes;
-
-IX. Dirigir el mecanismo de valoración del desempeño académico del alumnado, con la finalidad de determinar la acreditación respecto a los criterios establecidos en los planes y programas de la Carrera de Medicina; y
-
-X. Las demás que se establezcan en las disposiciones legales y administrativas y las que le sean encomendadas expresamente por la Dirección General.
-
-> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
-
-Artículo 302 QUINDECIES.- Corresponde a la Dirección Ejecutiva de la Carrera de Enfermería:
-
-I. Supervisar las actividades académicas y administrativas encaminadas a la formación de personal de enfermería de la más alta calidad académica y científica, apegados a los enfoques y principios del Decreto de creación de la Universidad de la Salud para que respondan a las necesidades de salud del país, con una actitud humanista - comunitaria, comprometidos con principios y valores éticos;
-
-II. Coordinar la actualización de los planes y programas de enfermería con el propósito de que éstos sean vigentes y congruentes con los perfiles profesionales apegados a los enfoques y principios del Decreto de creación de la Universidad de la Salud y que permitan dar respuesta a los problemas de salud;
-
-III. Promover en los educandos los conocimientos, habilidades, actitudes y destrezas que les permitan evaluar, diagnosticar, tratar y aplicar sus conocimientos en el área de la salud de una manera integral (biológica, psicológica, social y cultural);
-
-IV. Garantizar el cumplimiento de los procesos de enseñanza que propicie el aprendizaje de los estudiantes de manera autónoma, crítica, propositiva y participativa;
-
-V. Coordinar las instancias académicas que forman parte de la Dirección Ejecutiva de la Carrera de Enfermería;
-
-VI. Impulsar y promover los procesos educativos que se realizan en la Universidad de la Salud apegados a los enfoques y principios del Decreto de creación;
-
-VII. Promover la formación, capacitación y perfeccionamiento del personal docente, de acuerdo con las necesidades de la Universidad de la Salud apegados a los enfoques y principios de su Decreto de creación;
-
-VIII. Identificar las necesidades de materiales y personal académico para el desarrollo de los planes y programas de la Carrera de Enfermería;
-
-IX. Orientar a la comunidad de la Carrera de Enfermería sobre las políticas y programas establecidos por la Dirección General;
-
-X. Coordinar la actualización de los planes y programas de estudios con el propósito de que éstos sean vigentes y congruentes con los perfiles profesionales apegados a los enfoques y principios del Decreto de creación de la Universidad de la Salud y que permitan dar respuesta a los problemas de salud, para efecto de presentarlos a la persona titular de la Dirección General a fin de proponerlos a la Junta Ejecutiva para su autorización;
-
-XI Dirigir el mecanismo de valoración del desempeño académico del alumnado, con la finalidad de determinar la acreditación respecto a los criterios establecidos en los planes y programas de la Carrera de Enfermería; y
-
-XII. Las demás que se establezcan en las disposiciones legales y administrativas y las que le sean encomendadas expresamente por la Dirección General.
-
-> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
-
-Artículo 302 SEXDECIES.- Corresponde a la Dirección Ejecutiva de Investigación y Posgrado:
-
-I. Planear, dirigir y evaluar permanentemente las estrategias y acciones que permitan orientar al posgrado y a la investigación con estándares de calidad, en el marco del modelo educativo institucional;
-
-III. Proponer a la Dirección General los proyectos de normas, políticas, programas, lineamientos, estrategias, objetivos, metas e instrumentos para la integración, operación, gestión y evaluación de la investigación y el posgrado que ofrece la Universidad de la Salud, conforme al modelo académico y el de integración social en el marco del modelo educativo institucional;
-
-IV. Integrar, proponer e implantar el modelo y sistema académico del posgrado, los programas, los métodos, las líneas de investigación, conforme a los modelos educativos y de integración social;
-
-V. Regular, coordinar y evaluar los contenidos de los programas y proyectos académicos de posgrado para que tiendan a la excelencia a nivel nacional e internacional, de acuerdo con indicadores de calidad y verificar su correspondencia con las necesidades educativas, productivas, sociales y culturales del país;
-
-VI. Proponer el receso o cancelación de programas de posgrado que pierdan pertinencia;
-
-VII. Proponer, instrumentar y actualizar los programas de su competencia, aprovechando las metodologías y tecnologías de la información para potenciar el apoyo de los sistemas y procesos de operación, gestión y evaluación de la enseñanza del posgrado y la investigación;
-
-VIII. Proponer e implantar las metodologías y sistemas innovadores para los estudios de posgrado, la investigación y el desarrollo científico;
-
-IX.- Participar en el diseño, ampliación y diversificación de la oferta educativa del posgrado, en modalidades a distancia y mixta;
-
-X. Proponer la actualización y mejora continua de las líneas, sistemas y procesos de investigación en apego al método científico;
-
-XI. Participar en la formulación, dirección y evaluación de los programas de asignación de becas, estímulos y otros medios de apoyo, dirigidos al alumnado y al personal académico de posgrado e investigación, así como actualizar los criterios para su promoción;
-
-XII. Proponer y coordinar los programas, sistemas y mecanismos para la formación de investigadores, así como los estímulos para fomentar su desarrollo e integración al quehacer institucional, en los términos de la normatividad aplicable;
-
-XIII. Promover la actualización, mantenimiento y mejora de la infraestructura técnica y física al servicio de la investigación y el posgrado en las unidades académicas y proponer e implantar las políticas y lineamientos para su uso y conservación;
-
-XIV. Fomentar y mantener las relaciones con los sectores productivos, de servicios y educativos del país y proponer a las instancias correspondientes convenios para realizar investigaciones científicas de vanguardia orientadas a mejorar la productividad social y contribuir en la solución de problemas nacionales;
-
-XV. Promover y evaluar, con la participación de las instancias que correspondan, la oferta de servicios científicos que las unidades académicas puedan proporcionar a los sectores público, social y privado, en congruencia con la política institucional de integración social;
-
-XVI. Participar en la evaluación y coordinación de la asistencia técnica que en materia de investigación demanden a la Universidad de la Salud, los sectores socioeconómicos nacionales y extranjeros, conforme a las normas y disposiciones aplicables;
-
-XVII. Proponer a la Secretaría General para sometimiento de la Junta Ejecutiva, el calendario, así como el plan de trabajo del área y vigilar su cumplimiento; y
-
-XVIII. Las demás que se establezcan en las disposiciones legales y administrativas y las que le sean conferidas expresamente por el Director General.
-
-> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
-
-Artículo 302 SEPTENDECIES.- Corresponde a la Dirección Ejecutiva de Innovación Educativa:
-
-I. Proponer a la Dirección General y, en su caso, a las instancias competentes, los proyectos de normas, políticas, programas, lineamientos, estrategias, objetivos, metas e instrumentos para la planeación, desarrollo, diversificación, operación y evaluación de la oferta educativa en modalidades a distancia y mixta, en concordancia con los modelos educativos y de integración social, así como para el diseño, selección, uso y gestión de recursos y medios tecnológicos académicos aplicados a entornos educativos, en el ámbito de su competencia;
-
-II. Coordinar y aprobar con la participación de las áreas competentes, la metodología, los modelos y procesos para diseñar, implantar, operar y evaluar las modalidades educativas electrónicas; a distancia y mixta, de acuerdo con el modelo educativo y los lineamientos de tecnologías de la información y comunicación;
-
-III. Coordinar con las áreas competentes el diseño y elaboración de materiales educativos y la aplicación de recursos tecnológicos en el Centro de Simulación y para la operación de la oferta educativa en modalidades presencial, a distancia y mixta;
-
-IV. Diseñar la metodología, los modelos y procesos para implantar, operar y evaluar las modalidades educativas presencial, a distancia y mixta, de acuerdo con el modelo educativo y asegurar la correspondencia de los programas, diseños, materiales y medios, con los requerimientos de la oferta educativa de la Universidad de la Salud y realizar acciones de diagnóstico con sus resultados;
-
-V. Diseñar, proponer, actualizar y coordinar el desarrollo de proyectos en materia de tecnologías de la información y comunicación para impulsar el diseño y utilización de nuevas tecnologías y apoyar en la inserción de los estudiantes a la sociedad del conocimiento;
-
-VI. Administrar y establecer, en coordinación con órganos competentes de la Administración Pública de la Ciudad de México, los criterios de planeación, operación e implementación del uso de las tecnologías de la información y comunicación, así como el óptimo aprovechamiento de la infraestructura de video, teleconferencia, televisión, internet y otras tecnologías de la información y comunicación, dispuestas para los servicios de las unidades académicas;
-
-VII. Participar en el diseño, actualización, adecuación, ampliación y diversificación de la oferta educativa de la Universidad de la Salud en modalidades a distancia y mixta, así como apoyar su desarrollo didáctico;
-
-VIII. Diseñar procesos de selección, inscripción, promoción, seguimiento a la trayectoria académica, movilidad y egreso de los estudiantes en modalidades a distancia y mixta, así como los lineamientos de tecnologías de la información y comunicación;
-
-IX. Coadyuvar en el ámbito de su competencia, en el diseño de los procesos de selección, inscripción, promoción, seguimiento a la trayectoria escolar, movilidad y egreso de los estudiantes y docentes de los programas académicos en modalidades a distancia y mixta;
-
-X. Coordinar los programas de equipamiento, actualización y mantenimiento de la infraestructura en informática, Laboratorios de Ciencias Básicas, Biblioteca y para el Centro de Simulación Clínica;
-
-XI. Identificar, probar, participar, adaptar e impulsar el desarrollo de soluciones de tecnología educativa acordes a las necesidades de los programas en modalidades presencial, a distancia y mixta, así como para apoyar el trabajo académico colaborativo;
-
-XII. Promover el establecimiento de redes académicas virtuales intra e interinstitucionales en los ámbitos nacional e internacional, así como operar y participar en aquellas que apoyen el desarrollo de la educación en modalidades a distancia y mixta;
-
-XIII. Coordinar, desarrollar y aplicar las tecnologías de la información y comunicación, para mejorar los aprendizajes en condiciones simuladas, así como la investigación, extensión y gestión de los servicios institucionales;
-
-XIV. Participar en el establecimiento de lineamientos y criterios para el diseño, elaboración y uso de tecnologías de apoyo para los procesos académicos de la Universidad de la Salud;
-
-XV. Coadyuvar en diseñar, instrumentar y aplicar los programas de formación, actualización y desarrollo permanente del personal de todos los niveles jerárquicos en la Universidad de la Salud; y
-
-XVI. Las demás atribuciones que las disposiciones legales y administrativas le otorguen y las que le sean conferidas expresamente por la Dirección General.
+XIII. Las demás que establezca la normativa y disposiciones aplicables.
 
 ###### Artículo 303.
 
@@ -15459,3 +15047,21 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Los asuntos que, con la entrada en vigor del presente Decreto, se encuentren en trámite ante las Unidades Administrativas respecto de las cuales se deroguen o modifiquen sus atribuciones, serán atendidos y resueltos por aquellas que asuman las atribuciones en virtud del mismo, en el ámbito de su respectiva competencia.
 
 CUARTO. Las referencias hechas en el presente Reglamento, en otras leyes, reglamentos, decretos, acuerdos, contratos o convenios y demás disposiciones e instrumentos jurídicos a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyen.
+
+G.O. 21 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO EN MATERIA DE EDUCACIÓN”.]
+
+PRIMERO. Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de México, para su debida observancia y aplicación.
+
+SEGUNDO. El presente Decreto entrará en vigor el 01 de agosto de 2023.
+
+TERCERO. El órgano desconcentrado de la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México denominado Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos” seguirá en funciones hasta en tanto se formaliza la constitución del organismo descentralizado Universidad Rosario Castellanos, contando con 180 días hábiles para realizar los trámites administrativos y fiscales así como la expedición de la normativa necesaria para su operación, a partir de la publicación del Decreto por el que se crea el Organismo Público Descentralizado denominado Universidad Rosario Castellanos, publicado en la Gaceta Oficial de la Ciudad de México número 1127 BIS, de fecha 15 de junio de 2023.
+
+CUARTO. El órgano desconcentrado de la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, denominado Universidad de la Salud seguirá en funciones hasta en tanto se formaliza la constitución del organismo descentralizado, contando con 180 días hábiles para realizar los trámites administrativos, fiscales y expedición de la normativa para su operación, a partir de la publicación del Decreto por el que se crea el Organismo Público Descentralizado denominado Universidad de la Salud, publicado en la Gaceta Oficial de la Ciudad de México número 1127 BIS, de fecha 15 de junio de 2023.
+
+QUINTO. La instalación del Comité Consultivo del Subsistema de Educación Comunitaria “PILARES” deberá realizarse dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO. Las Secretarías de Educación, Ciencia, Tecnología e Innovación y de Cultura, así como el Instituto del Deporte de la Ciudad de México, dentro de los 90 días hábiles siguientes a la publicación del presente Decreto, transferirán al Subsistema de Educación Comunitaria “PILARES” los recursos presupuestarios, materiales y humanos que correspondan; para lo cual, la Secretaría de Educación, Ciencia, Tecnología e Innovación continuará afrontando los compromisos formalizados y en proceso de formalización relativos a la operación de los PILARES, en tanto el Subsistema entra en plena operación.
+
+SÉPTIMO. La Secretaría de Educación, Ciencia, Tecnología e Innovación, dentro del ámbito de su competencia y atribuciones, entregará los expedientes de los bienes inmuebles que ocupan los PILARES al Subsistema de Educación Comunitaria “PILARES” para su resguardo.
