@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-ordenamiento-territorial-y-161705"
 country: "mx"
 rank: "ley"
 publication_date: "2022-12-31"
-last_updated: "2022-12-31"
+last_updated: "2023-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,9 @@ state: "COL"
 ---
 # LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COLIMA
 
-(NOTA 1: EL 5 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 244/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 195, POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TREINTA Y UNO DE DICIEMBRE DE DOS MIL VEINTIDÓS, Y DETERMINÓ QUE DICHA DECLARATORIA DE INVALIDEZ, SURTIRÁ SUS EFECTOS ÚNICAMENTE ENTRE LAS PARTES A PARTIR DE LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COLIMA, DANDO LUGAR A LA REVIVISCENCIA DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA, PUBLICADA EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL SIETE DE MAYO DE MIL NOVECIENTOS NOVENTA Y CUATRO, EN LO QUE NO SE OPONGA A LO DISPUESTO EN LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO, LA CUAL SURTIÓ EFECTOS EL 8 DE MARZO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 7 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 195/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 195, POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TREINTA Y UNO DE DICIEMBRE DE DOS MIL VEINTIDÓS, Y DETERMINÓ QUE DICHA DECLARATORIA DE INVALIDEZ, SURTIRÁ SUS EFECTOS ÚNICAMENTE ENTRE LAS PARTES A PARTIR DE LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COLIMA, DANDO LUGAR A LA REVIVISCENCIA DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA, PUBLICADA EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL SIETE DE MAYO DE MIL NOVECIENTOS NOVENTA Y CUATRO, EN LO QUE NO SE OPONGA A LO DISPUESTO EN LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO, LA CUAL SURTIÓ EFECTOS EL 8 DE MARZO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 3: EL 7 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 125/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 195, POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TREINTA Y UNO DE DICIEMBRE DE DOS MIL VEINTIDÓS, Y DETERMINÓ QUE DICHA DECLARATORIA DE INVALIDEZ, SURTIRÁ SUS EFECTOS ÚNICAMENTE ENTRE LAS PARTES A PARTIR DE LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COLIMA, DANDO LUGAR A LA REVIVISCENCIA DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA, PUBLICADA EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL SIETE DE MAYO DE MIL NOVECIENTOS NOVENTA Y CUATRO, EN LO QUE NO SE OPONGA A LO DISPUESTO EN LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO, LA CUAL SURTIÓ EFECTOS EL 8 DE MARZO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 4: EL 7 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 177/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 195, POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TREINTA Y UNO DE DICIEMBRE DE DOS MIL VEINTIDÓS, Y DETERMINÓ QUE DICHA DECLARATORIA DE INVALIDEZ, SURTIRÁ SUS EFECTOS ÚNICAMENTE ENTRE LAS PARTES A PARTIR DE LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COLIMA, DANDO LUGAR A LA REVIVISCENCIA DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA, PUBLICADA EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL SIETE DE MAYO DE MIL NOVECIENTOS NOVENTA Y CUATRO, EN LO QUE NO SE OPONGA A LO DISPUESTO EN LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO, LA CUAL SURTIÓ EFECTOS EL 8 DE MARZO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de Colima, sábado 31 de diciembre de 2022.
 
@@ -375,7 +365,9 @@ LIV. Incorporación Municipal: al acto o procedimiento mediante el cual la autor
 
 LV. Infraestructura Urbana: a los sistemas y redes de organización y distribución de bienes y servicios en los Centros de Población;
 
-LVI. Infraestructura verde: Se refiere al conjunto de acciones o proyectos que aprovechan sosteniblemente las características y los procesos naturales, como la vinculación en red de cauces, escurrimientos, cuerpos de agua, áreas naturales y espacios públicos de naturaleza diversa y multiescalar que permite la integración de funciones estructurales de la ciudad, la provisión de servicios ecosistémicos, la captación, control, tratamiento y uso eficiente del agua, la movilidad sustentable, la restauración de ecosistemas fragmentados y la articulación del paisaje urbano con la biodiversidad, brindando simultáneamente diversos beneficios ambientales, sociales y económicos y contribuyendo a la mitigación y adaptación al cambio climático;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+LVI. Infraestructura verde: Se refiere al conjunto de acciones o proyectos que aprovechan sosteniblemente las características y los procesos naturales, como la vinculación en red de cauces, escurrimientos, cuerpos de agua, áreas naturales y espacios públicos de naturaleza diversa y multiescalar que permite la integración de funciones estructurales de la ciudad, la provisión de servicios ecosistémicos, el uso eficiente del agua, la movilidad sustentable, la restauración de ecosistemas fragmentados y la articulación del paisaje urbano con la biodiversidad, brindando simultáneamente diversos beneficios ambientales, sociales y económicos y contribuyendo a la mitigación y adaptación al cambio climático;
 
 LVII. Instituto: Instituto de Suelo, Urbanización y Vivienda del Estado de Colima;
 
@@ -471,7 +463,9 @@ CII. Usos del Suelo: a los fines particulares a que podrán dedicarse determinad
 
 CIII. Valor escénico: a las características del paisaje, natural o inducido, que hacen que la protección, conservación y preservación de determinada área o zona sea de utilidad pública, por sus condiciones físicas, sus elementos naturales o su relevancia cultural, histórica, artística, arqueológica, ambiental o turística;
 
-CIV. Verificación de Congruencia: al acto que realiza la Secretaría, mediante el cual se valida que el Programa o Dictamen emitido por el Ayuntamiento es congruente o guarda relación con los instrumentos de Ordenamiento Territorial y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+CIV. Verificación de Congruencia: al acto que realiza la Secretaría, mediante el cual se valida que el Programa o Dictamen emitido por el Ayuntamiento es congruente o guarda relación con los instrumentos de Ordenamiento Territorial y Desarrollo Urbano, así como con lo previsto en esta Ley, su Reglamento y demás inherentes en la materia;
 
 CV. Vivienda aislada: a la vivienda edificada en áreas rústicas o en predios destinados al aprovechamiento de recursos naturales. La intensidad de la actividad agropecuaria del predio y la disponibilidad de servicios, determinará la viabilidad y las normas de control de intensidad de la edificación aplicable a la vivienda;
 
@@ -527,11 +521,17 @@ Lineamientos para las acciones, inversiones, obras y servicios
 
 Nulidad de Actos Jurídicos
 
-1. Todos los actos, convenios o contratos relativos a la propiedad, posesión, aprovechamiento, usufructo o cualquier otra forma jurídica de tenencia de predios o fincas, no podrán desconocer, ni alterar el uso, destino y reserva establecidos en los Programas de Ordenamiento Territorial y Desarrollo Urbano aplicables. Estos actos jurídicos deberán contener las cláusulas relativas al aprovechamiento de áreas y predios, conforme a la Zonificación que se determine en dichos programas.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-2. Serán nulos de pleno derecho y no producirán efecto legal alguno, esos actos, convenios o contratos, así como las actuaciones en general de la autoridad, el dictamen, la autorización, permiso o licencia que contravengan lo dispuesto en el párrafo anterior.
+1. Todos los actos, convenios o contratos relativos a la propiedad, posesión, aprovechamiento, usufructo o cualquier otra forma jurídica de tenencia de predios o fincas, no podrán desconocer, ni alterar el uso, destino y reserva establecidos en los Programas de Ordenamiento Territorial y Desarrollo Urbano aplicables. Estos actos jurídicos deberán contener las cláusulas relativas al aprovechamiento de áreas y predios, conforme a la Zonificación que se determine en dichos programas. Asimismo, deberá contener las inserciones relacionadas con las autorizaciones, licencias o permisos para la Acción Urbanística que proceda.
 
-3. La nulidad a que se refiere este artículo, será declarada a través de la acción de lesividad ante el Tribunal de Justicia Administrativa del Estado de Colima, la cual se solicitará por la Secretaría o la Dependencia Municipal, según provenga de cualquiera de ellas el acto o resolución administrativa correspondiente; la acción se ejercerá de manera oficiosa o mediante conocimiento de la denuncia popular.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+2. Serán nulos y no producirán efecto legal alguno, esos actos, convenios o contratos, así como las actuaciones en general de la autoridad, el dictamen, la autorización, permiso o licencia que contravengan lo dispuesto en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+3. La nulidad a que se refiere este artículo, será declarada por la autoridad jurisdiccional competente y podrá ser solicitada por la instancia de procuración de justicia mediante el ejercicio de la denuncia popular o a través de los procedimientos administrativos vigentes en la legislación local.
 
 4. Las determinaciones y resoluciones de las autoridades jurisdiccionales que conozcan de escrituras, actos, contratos y convenios relativos a la propiedad, posesión, aprovechamiento o cualquier otra forma jurídica de tenencia de predios o fincas, deberán ajustar sus determinaciones en lo concerniente al Asentamiento Humano, Ordenamiento Territorial y Desarrollo Urbano, a las disposiciones previstas en esta Ley. Las personas servidoras públicas de la Secretaría, los pertenecientes a la dependencia municipal o cualquier persona que acredite un interés legítimo, deberán denunciar las violaciones e inobservancias que por aquellas se cometan. La omisión de denunciar se sancionará de conformidad con la Ley General de Responsabilidades Administrativas, sin perjuicio de otro tipo de responsabilidad que al efecto resulte aplicable.
 
@@ -539,17 +539,23 @@ Nulidad de Actos Jurídicos
 
 Obligación de las y los fedatarios públicos
 
-1. Las y los Notarios públicos sólo podrán autorizar escrituras de actos, contratos y convenios de los predios o acciones urbanísticas a que se refiere esta Ley, previa comprobación de la existencia de los dictámenes, autorizaciones, permisos o licencias expedidos por autoridad competente en relación a la utilización o disposición de las áreas o predios de conformidad con lo previsto en Programas de Ordenamiento Territorial y de Desarrollo Urbano aplicables, la Ley y los Reglamentos; son responsables de corroborar la autenticidad de documentos expedidos por las autoridades competentes, como también del contenido de resoluciones jurisdiccionales, con base en las cuales se genere un derecho a favor de determinada persona y respecto de predios o inmuebles objeto de regulación por la presente Ley.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-2. Queda prohibido a las y fedatarios públicos, expedir certificaciones de actos jurídicos u operaciones que deben ser consignadas en testimonios públicos y expedir estos contraviniendo lo dispuesto en esta Ley.
+1. Las y los Notarios públicos sólo podrán autorizar el instrumento público correspondiente a actos, contratos y convenios relacionados con la propiedad, posesión o derechos reales, en regímenes de derecho privado, público o social, previa comprobación de la existencia de los dictámenes, constancias, autorizaciones, permisos o licencias expedidos por autoridad competente en relación a la utilización o disposición de las áreas o predios de conformidad con lo previsto en los Programas de Ordenamiento Territorial y de Desarrollo Urbano aplicables, la Ley y los Reglamentos, mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
 
-3. En el contenido de los instrumentos notariales deberán identificarse los documentos públicos que les dan sustento, señalar también los usos y destinos permitidos, condicionados y prohibidos del predio objeto de tales actos, precisando además que el derecho de propiedad, posesión o cualquier otro derivado de la tenencia de áreas y predios, será ejercido por sus titulares de acuerdo con su función social y ambiental, observando las limitaciones, obligaciones y restricciones inherentes a la propiedad, con apego a lo dispuesto en esta Ley y en los Programas aplicables. Esos documentos deben obrar en el correspondiente expediente notarial y adjuntarse una copia física y otra electrónica al momento de solicitarse la intervención de las autoridades catastrales y registrales en los trámites de su competencia, para su debido análisis de procedencia o improcedencia, así como para constancia de antecedentes en la inscripción o actualización del predio o finca en el padrón catastral y de la materia registral; se exceptúan de entrega, aquellos documentos cuyo contenido completo obre en publicación efectuada a través del Periódico Oficial.
+2. (DEROGADO, P.O. 22 DE JULIO DE 2023)
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+3. En el contenido de los instrumentos notariales deberán identificarse los documentos públicos que les dan sustento, insertando en la escritura de transmisión de propiedad en que intervengan, cláusula especial en la que se haga constar, los usos y destinos permitidos, condicionados y prohibidos del predio objeto de tales actos, precisando además que el derecho de propiedad, posesión o cualquier otro derivado de la tenencia de áreas y predios, será ejercido por sus titulares de acuerdo con su función social y ambiental, observando las limitaciones, obligaciones y restricciones inherentes a la propiedad, con apego a lo dispuesto en esta Ley y en los Programas aplicables, así como el respeto a la definición de área urbanizable. Esos documentos deben obrar en el correspondiente expediente notarial y adjuntarse una copia física y otra electrónica al momento de solicitarse la intervención de las autoridades catastrales y registrales en los trámites de su competencia, para su debido análisis de procedencia o improcedencia, así como para constancia de antecedentes en la inscripción o actualización del predio o finca en el padrón catastral y de la materia registral; se exceptúan de entrega, aquellos documentos cuyo contenido completo obre en publicación efectuada a través del Periódico Oficial.
 
 ###### Artículo 14.
 
 Limitaciones de Registro y de operaciones catastrales
 
-1. Queda prohibido a las personas servidoras públicas en general del Instituto para el Registro del Territorio y los adscritos en la competencia de los catastros estatal o municipal, la inscripción de cualquier escritura, acto, contrato, convenio o afectación, que no se ajuste o se encuentre confeccionado de conformidad con lo dispuesto en esta Ley o en los programas respectivos, resultarán nulos de pleno derecho los trámites y transmisiones en que se consignen operaciones ejecutadas violatorias del marco normativo. Tan pronto aquellas personas servidoras públicas tengan conocimiento de las violaciones e inobservancias, deberán suspender la sustanciación del trámite e informar del motivo a la parte interesada o solicitante, procediendo inmediatamente después a denunciar en los órganos internos de control el hallazgo. La omisión de denunciar se sancionará de conformidad con la Ley General de Responsabilidades Administrativas, sin perjuicio de otro tipo de responsabilidad que al efecto resulte aplicable.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+1. Queda prohibido a las personas servidoras públicas en general del Instituto para el Registro del Territorio y los adscritos en la competencia de los catastros estatal o municipal, la inscripción de cualquier escritura, acto, contrato, convenio o afectación, que no se ajuste o se encuentre confeccionado de conformidad con lo dispuesto en esta Ley o en los programas respectivos, resultarán nulos los trámites y transmisiones en que se consignen operaciones ejecutadas violatorias del marco normativo. Tan pronto aquellas personas servidoras públicas tengan conocimiento de las violaciones e inobservancias, deberán suspender la sustanciación del trámite e informar del motivo a la parte interesada o solicitante, procediendo inmediatamente después a denunciar en los órganos internos de control el hallazgo. La omisión de denunciar se sancionará de conformidad con la Ley General de Responsabilidades Administrativas, sin perjuicio de otro tipo de responsabilidad que al efecto resulte aplicable.
 
 2. Las personas servidoras públicas de la Secretaría, los pertenecientes a la dependencia municipal o cualquier persona que acredite un interés legítimo, podrán igualmente solicitar indistintamente al Instituto para el Registro del Territorio o a los catastros estatal o municipales, procedan a realizar suspensión de cualquier trámite registral inherente al mismo cuando se contravengan las disposiciones previstas en la presente Ley.
 
@@ -561,7 +567,9 @@ Limitaciones de Registro y de operaciones catastrales
 
 Atribuciones concurrentes
 
-1. La aplicación de esta Ley corresponde al Poder Ejecutivo del Estado y a los ayuntamientos, los que ejercerán sus atribuciones de manera concurrente y coordinada en las materias de ordenamiento territorial, desarrollo urbano, coordinación metropolitana y movilidad, así como en la planeación, regulación y gestión de los asentamientos humanos, en el ámbito de la competencia que les otorga la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Colima, la Ley General y esta Ley, mediante los mecanismos de coordinación y concertación que se generen.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+1. La aplicación de esta Ley corresponde al Poder Ejecutivo del Estado y a los ayuntamientos, los que ejercerán sus atribuciones de manera concurrente y coordinada en las materias de ordenamiento territorial, desarrollo urbano, coordinación metropolitana y movilidad, así como en la planeación, regulación y gestión de los asentamientos humanos, en el ámbito de la competencia que les otorga la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Colima, la Ley General, esta Ley y su Reglamento, mediante los mecanismos de coordinación y concertación que se generen.
 
 2. El Poder Ejecutivo del Estado y los ayuntamientos al elaborar sus respectivos planes de desarrollo deberán integrar y vincularlas acciones estratégicas previstas en los Programas de Ordenamiento Territorial y Desarrollo Urbano.
 
@@ -663,7 +671,9 @@ XV. Proceder conforme al ordenamiento respectivo y a las disposiciones de esta L
 
 XVI. Promover ante el Poder Ejecutivo Federal la expropiación de tierras ejidales o comunales para la ejecución de los Programas de Ordenamiento Territorial y Desarrollo Urbano, en los términos de la Ley Agraria;
 
-XVII. Instrumentar acciones para ejercer el derecho de preferencia que corresponde al Gobierno del Estado de Colima, para la constitución de reservas territoriales o la adquisición debidamente justificada por causa de utilidad pública de predios urbanos no edificados, subutilizados o vacantes en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+XVII. Instrumentar acciones para ejercer el derecho de preferencia que corresponde al Gobierno del Estado de Colima, para la constitución de reservas territoriales, y la adquisición de predios comprendidos en las zonas de reserva urbana, incluyendo de suelo urbano vacante dentro de los centros de población, por causa de utilidad pública debidamente justificada en los términos de la presente Ley;
 
 XVIII. Impulsar la oferta de suelo para vivienda inclusiva o de objetivo social, destinada a pobladores de bajos ingresos, así como para quienes se ajusten a acciones determinadas como prioritarias;
 
@@ -727,7 +737,9 @@ XII. Establecer el Registro Estatal de Planeación Territorial, en los que se in
 
 XIII. Verificar la congruencia de los dictámenes de vocación del suelo, así como de los dictámenes de impacto territorial y urbano que emita la Dependencia Municipal;
 
-XIV. Verificar la congruencia y vinculación de los proyectos de integración urbana, con el instrumento de planeación que se derive, para solicitar su publicación al Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+XIV. Verificar la congruencia y vinculación de los proyectos de integración urbana, con la Ley, su Reglamento y el instrumento de planeación que se derive, para solicitar su publicación al Ejecutivo del Estado;
 
 XV. Desincentivar, en coordinación con los Ayuntamientos, la tenencia irregular de la tierra y establecer medidas para prevenir y evitar la proliferación de asentamientos irregulares y la ocupación de zonas de alto riesgo;
 
@@ -747,7 +759,9 @@ XXII. Apoyar y realizar investigaciones científicas y tecnológicas en materia 
 
 XXIII. Promover una cultura de corresponsabilidad cívica y social, así como de gobernanza urbana mediante la difusión de temas relacionados con el ordenamiento sustentable del territorio, desarrollo urbano, derecho a la ciudad y resiliencia urbana;
 
-XXIV. Gestionar y en su caso ejercer el derecho de preferencia que corresponde al Ejecutivo del Estado, para la adquisición de propiedades comprendidas en las áreas de reserva urbana, así como de predios urbanos no edificados o subutilizados en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+XXIV. Gestionar, y en su caso, ejercer el derecho de preferencia que corresponde al Ejecutivo del Estado, para la adquisición de predios comprendidos en las zonas de reserva urbana, incluyendo de suelo urbano vacante dentro de los centros de población, de conformidad con el artículo 142 de esta Ley;
 
 XXV. Realizar las gestiones necesarias para la ejecución de obras de utilidad pública, así como para la implementación prioritaria de acciones sobre el espacio público y la movilidad, para el desarrollo urbano, metropolitano y regional, en coordinación con el Gobierno Federal, los Ayuntamientos y la participación de los sectores social y privado, conforme a los Programas de Ordenamiento Territorial y Desarrollo Urbano;
 
@@ -863,7 +877,9 @@ XVIII. Participar en la gestión y promoción de financiamiento para la realizac
 
 XIX. Participar en la creación y administración del suelo y reservas territoriales para el desarrollo urbano, de conformidad con las disposiciones jurídicas aplicables, generar los instrumentos que permitan la promoción y ejecución de proyectos habitacionales inclusivos, accesibles y de objetivo social y la disponibilidad de tierra para personas en situación de pobreza o vulnerabilidad para el desarrollo urbano sustentable;
 
-XX. Ejercer el derecho de preferencia que corresponde al Ayuntamiento para la constitución de reservas territoriales y la adquisición de predios urbanos no edificados, subutilizados o vacantes en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+XX. Ejercer, por conducto de la persona titular de la Presidencia Municipal o Sindicatura Municipal el derecho de preferencia que corresponde al Ayuntamiento y la adquisición de predios comprendidos en las zonas de reserva urbana, incluyendo de suelo urbano vacante dentro de los centros de población, de conformidad con el artículo 142 de esta Ley;
 
 XXI. Desincentivar, reducir y abatir la ocupación irregular de áreas no previstas para el crecimiento urbano, estableciendo las medidas de control y seguridad correspondientes para evitar la proliferación de asentamientos irregulares;
 
@@ -911,9 +927,11 @@ XLII. Las demás que se señalen en esta Ley y otras disposiciones jurídicas fe
 
 ### CAPÍTULO VII. ATRIBUCIONES DE LA DEPENDENCIA MUNICIPAL
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 22 DE JULIO DE 2023)</small>
+
 ###### Artículo 24.
 
-Atribuciones
+Atribuciones de la dependencia municipal
 
 1. Los ayuntamientos ejercerán las siguientes atribuciones técnicas y administrativas a través de la dependencia municipal:
 
@@ -923,7 +941,9 @@ II. Solicitar a la Secretaría dictaminar la congruencia y vinculación del Prog
 
 III. Establecer el Registro Municipal de Planeación, en el que se inscribirán los programas, convenios y resoluciones de la materia para su difusión, consulta pública, control y evaluación;
 
-IV. Gestionar el ejercicio del derecho de preferencia que corresponde al Ayuntamiento para la constitución de reservas territoriales y la adquisición debidamente justificada por causa de utilidad pública de predios urbanos no edificados, subutilizados o vacantes en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+IV. Gestionar, por conducto de la persona titular de la Presidencia Municipal o Sindicatura Municipal el ejercicio del derecho de preferencia que corresponde al Ayuntamiento, para adquirir los predios comprendidos en las zonas de reserva urbana, incluyendo el suelo urbano vacante dentro de los centros de población, de conformidad con el artículo 142 de esta Ley;
 
 V. Expedir el dictamen de vocación del suelo y gestionar en su caso, ante la Secretaría la verificación de congruencia;
 
@@ -1275,7 +1295,9 @@ Consejo Ciudadano Metropolitano
 
 Integrantes
 
-1. Los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano tendrán su sede en las cabeceras municipales, funcionará de forma permanente, sesionará ordinariamente cuantas veces sea necesario, a convocatoria de la Presidencia y será integrada por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JULIO DE 2023)</small>
+
+1. Los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano tendrán su sede en las cabeceras municipales, funcionará de forma permanente, sesionará ordinariamente por lo menos cinco veces al año, y de manera extraordinaria cuantas veces sea necesario, cuando haya asuntos que tratar a convocatoria de la Presidencia y será integrada por:
 
 I. Una Presidencia, que será representada por la persona titular de la Presidencia Municipal del Ayuntamiento correspondiente;
 
@@ -1315,7 +1337,9 @@ Suplencias
 
 Votación
 
-1. Las opiniones del Consejo se tomarán por mayoría de votos de los presentes. Los integrantes del Consejo previstos en las fracciones I a la VII del artículo 45, tendrán voz y voto, el resto solo voz. La Presidencia del Consejo Municipal tendrá voto de calidad en caso de empate.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+1. Las opiniones del Consejo se tomarán por mayoría de votos de los presentes. Los integrantes del Consejo previstos en las fracciones I a la VII del artículo 45, tendrán voz y voto. La Presidencia del Consejo Municipal tendrá voto de calidad en caso de empate.
 
 2. El Reglamento Interior que para el efecto autorice el Cabildo a propuesta del Consejo Municipal, normará la organización y el funcionamiento del mismo.
 
@@ -1517,7 +1541,9 @@ I. Programas de Desarrollo Urbano de Centros de Población;
 
 II. Programas Parciales de Desarrollo Urbano;
 
-III. Programas de Integración Urbana; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+III. Programas Parciales de Desarrollo Urbano; y
 
 IV. Programas Sectoriales de Desarrollo Urbano.
 
@@ -2681,19 +2707,31 @@ Derechos de vía
 
 Derecho de preferencia
 
-1. Para garantizar la disponibilidad de suelo y cumplir con los objetivos previstos en los Programas de Ordenamiento Territorial y Desarrollo Urbano, el Ejecutivo del Estado, los Ayuntamientos y el Instituto tendrán el derecho de preferencia en igualdad de condiciones para disponer de derechos de vía, adquirir predios en las áreas de reserva o predios urbanos no edificados, subutilizados o vacantes para destinarlos preferentemente a la constitución de espacio público o a la edificación de vivienda inclusiva o de objetivo social, cuando estos vayan a ser objeto de enajenación a título oneroso, debidamente justificada la causa de utilidad pública.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-2. Igual derecho tendrán, en caso de remate judicial o administrativo, al precio en que se finque el remate. Para tal efecto, las autoridades jurisdiccionales del Estado de Colima y las administrativas que resulten competentes deberán notificar al Ejecutivo del Estado, al Ayuntamiento correspondiente y al Instituto, dando a conocer el monto de la operación, a fin de ejercer dicho derecho.
+1. Para garantizar la disponibilidad de suelo y cumplir con los objetivos previstos en los Programas de Ordenamiento Territorial y Desarrollo Urbano, la Federación por conducto de la Secretaría de Desarrollo Agrario, Territorial y Urbano, el Gobierno Estatal por conducto de la Secretaría y los Gobiernos Municipales tendrán el derecho de preferencia en igualdad de condiciones, para disponer de derechos de vía y adquirir los predios comprendidos en las zonas de reserva urbana, incluyendo el suelo urbano vacante dentro de los centros de población, señaladas en los planes o Programas de Ordenamiento Territorial y Desarrollo Urbano aplicables, para destinarlos preferentemente a la constitución de espacio público o a la edificación de vivienda inclusiva o de objeto social, cuando éstos vayan a ser objeto de enajenación a título oneroso, debidamente justificada la causa de utilidad pública.
+
+2. (DEROGADO, P.O. 22 DE JULIO DE 2023)
 
 ###### Artículo 143.
 
 Mecanismos y plazos para ejercer el derecho de preferencia
 
-1. Las y los titulares de áreas o predios en una zona de reserva, que pretendan enajenar a título oneroso, deberán notificar por escrito a las autoridades correspondientes, el interés de vender, señalando el monto, las condiciones de pago y el plazo de vencimiento, a fin de que, en un plazo no mayor de veinte días hábiles, las autoridades ejerzan el derecho de preferencia si así lo consideran conveniente.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-2. A partir de la notificación, las autoridades tendrán diez días hábiles para aceptar o declinar por escrito su interés. Si la autoridad declina o no emite respuesta en el plazo establecido, aplicará la negativa ficta, por lo que se procederá a perfeccionar el acto traslativo de dominio. Si la autoridad acepta ejercer el derecho, contará con diez días hábiles más para garantizar el pago respectivo derivado de la partida presupuestal que se constituya anualmente para estos efectos. Si la autoridad no garantiza el pago en el plazo señalado, perderá el referido derecho.
+1. Para efectos del artículo 142, las personas notarias públicas, jueces, autoridades administrativas respectivas y propietarias de áreas o predios en una zona de reserva urbana, que pretendan enajenar a título oneroso, deberán notificar por escrito a la Federación por conducto de la Secretaría de Desarrollo Agrario, Territorial y Urbano, la Secretaría y al Municipio correspondientes, el interés de vender, señalando el monto de la operación, las condiciones de pago y el plazo de vencimiento, a fin de que, en un plazo que no excederá de quince días naturales, las autoridades ejerzan el derecho de preferencia si así lo consideran conveniente. El citado plazo comenzará a correr al día siguiente que fueran notificadas las autoridades señaladas en el artículo que antecede.
 
-3. Al formalizar el acto traslativo de dominio, el enajenante notificará a las autoridades, sobre las condiciones definitivas de la operación, en un plazo no mayor a treinta días naturales. Si de la información proporcionada se advierte que éste no otorgó el derecho de preferencia o que el precio de la venta fue menor al manifestado, las escrituras serán nulas de pleno derecho.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+2. Por consiguiente, las autoridades deberán dentro del plazo señalado en el párrafo que antecede aceptar o declinar por escrito su interés. Una vez consumado el plazo señalado en el punto número uno del presente artículo, sin que alguna autoridad o algunas autoridades hayan expresado por escrito su aceptación o declinación a la oferta de venta se entenderá que existe desinterés para participar en el presente mecanismo y se tendrá por satisfecho lo respectivo a su derecho de preferencia señalado en la presente ley.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+3. Si alguna autoridad acepta ejercer el derecho, contará con quince días naturales más para garantizar el pago respectivo derivado de la partida presupuestal que se constituya anualmente para estos efectos.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2023)</small>
+
+4. El plazo mencionado en el numeral inmediato anterior, empezara a correr una vez que esta notifique a la autoridad o persona enajenante la respectiva aceptación. Si la autoridad no garantiza el pago en el plazo señalado a la autoridad enajenante, perderá el referido derecho.
 
 ###### Artículo 144.
 
@@ -2863,7 +2901,9 @@ Crecimiento
 
 I. Ordenar y regular su expansión física, determinando las áreas de reserva para el crecimiento futuro, sus horizontes de aprovechamiento y los espacios públicos necesarios para el asentamiento humano;
 
-II. Ejercer el derecho de preferencia por parte del Ejecutivo del Estado y los Ayuntamientos, con la participación de los sectores social y privado, para la constitución de reservas territoriales, la adquisición de predios urbanos no edificados, subutilizados o vacantes, en los términos previstos en esta Ley, para el desarrollo de proyectos de urbanización, a efecto de satisfacer oportunamente las necesidades de suelo que requiera el crecimiento sustentable de los Centros de Población, en los términos del Programa Municipal; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+II. Ejercer el derecho de preferencia por parte de la Federación, Estado o Municipios, con la participación de los sectores social y privado, para la constitución de reservas territoriales, para adquirir los predios comprendidos en las zonas de reserva urbana, incluyendo el suelo urbano vacante dentro de los centros de población, en los términos previstos en esta Ley, para el desarrollo de proyectos de urbanización, a efecto de satisfacer oportunamente las necesidades de suelo que requiera el crecimiento sustentable de los Centros de Población, en los términos del Programa Municipal; y
 
 III. Ejecutar acciones de infraestructura implementando los sistemas de actuación para el desarrollo urbano previstos en esta Ley.
 
@@ -2955,11 +2995,25 @@ Sujeción de las acciones urbanísticas
 
 Dictamen de Vocación de Suelo
 
-1. La persona física o jurídica, pública o privada, que pretenda realizar acciones urbanísticas, inversiones, obras o servicios en materia de desarrollo urbano en el Estado o que pretenda utilizar un área, predio o finca con un uso o destino determinado, deberá obtener, previo a la ejecución de estos actos, el Dictamen de Vocación de Suelo que expidan las autoridades competentes.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-2. El Dictamen de Vocación de Suelo otorga lineamientos, por parte de las autoridades competentes para la expedición de autorizaciones, licencias o permisos previstos en esta Ley y demás normatividad aplicable, para el desarrollo de cualquier acción urbanística. La presentación del dictamen será requisito indispensable para tramitar y en su caso obtener, las autorizaciones correspondientes.
+1. El Dictamen de Vocación de Suelo otorga lineamientos, por parte de las autoridades competentes para la expedición de autorizaciones, licencias o permisos previstos en esta Ley y demás normatividad aplicable, para el desarrollo de cualquier acción urbanística. La presentación del dictamen será requisito indispensable para tramitar y en su caso obtener, las autorizaciones correspondientes.
 
-3. El Dictamen de Vocación de Suelo será solicitado a la Dependencia Municipal, quien lo expedirá en forma fundada y motivada, respecto a todas las acciones urbanísticas que pretendan ejecutarse en sus jurisdicciones.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+2. El Dictamen de Vocación de Suelo será solicitado a la Dependencia Municipal, quien lo expedirá en forma fundada y motivada, respecto a todas las acciones urbanísticas que pretendan ejecutarse en sus jurisdicciones.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+3. La persona física o jurídica, pública o privada, que pretenda realizar acciones urbanísticas, inversiones, obras o servicios en materia de desarrollo urbano en el Estado o que pretenda utilizar un área, predio o finca con un uso o destino determinado, deberá obtener, previo a la ejecución de estos actos, el Dictamen de Vocación de Suelo que expidan las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2023)</small>
+
+4. Los Ayuntamientos podrán expedir informes de vocación del suelo a fin de dar a conocer las restricciones o afectaciones con que cuenta un área, lote o predio, conforme a la legislación y Programas de Ordenamiento Territorial y Desarrollo Urbano.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2023)</small>
+
+5. Dichos informes no sustituirán a los dictámenes de vocación de uso (sic) suelo y deberán incluir una leyenda de forma diagonal en toda la hoja como marca de agua que diga “solo de carácter informativo”.
 
 ###### Artículo 166.
 
@@ -2967,7 +3021,9 @@ Objetivos del Dictamen de Vocación de Suelo
 
 1. El Dictamen de Vocación de Suelo tiene por objeto:
 
-I. Controlar que toda acción, inversión, obra o servicio en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano, que sea congruente con lo previsto en esta Ley, con los Programas y demás normatividad aplicable, estableciendo las condiciones para regular y prevenir los impactos urbano territoriales negativos en su entorno;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+I. Controlar que toda acción, inversión, obra o servicio en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano, que (sic) sea congruente con lo previsto en esta Ley y su Reglamento, con los Programas y demás normatividad aplicable, estableciendo las condiciones para regular y prevenir los impactos urbano territoriales negativos en su entorno;
 
 II. Dar seguridad jurídica al aprovechamiento de la propiedad, identificándola en el contexto territorial; otorgando la consiguiente protección a sus titulares, respecto de la legalidad del asentamiento humano, aprovechamiento urbano o desarrollo inmobiliario;
 
@@ -2985,7 +3041,9 @@ VII. Conservar y mejorar el patrimonio natural y urbano arquitectónico.
 
 Concurrencia
 
-1. En virtud de la concurrencia en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano, el Poder Ejecutivo del Estado a través de la Secretaría, verificará la congruencia de los dictámenes, cuando así corresponda, conforme a lo previsto en esta Ley. Sin este acto, los dictámenes serán considerados nulos de pleno derecho.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+1. En virtud de la concurrencia en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano, el Poder Ejecutivo del Estado a través de la Secretaría, verificará la congruencia de los dictámenes de vocación de uso de suelo, cuando así corresponda, conforme a lo previsto en esta Ley y de su Reglamento, una vez que la Dependencia Municipal ingrese estos a la Secretaría acompañados de la solicitud y el expediente con los requisitos que marcan los artículos 168 y 292 de esta Ley. Sin este acto, los dictámenes serán considerados nulos.
 
 2. El Poder Ejecutivo del Estado y los Ayuntamientos fomentarán la adopción de tecnologías que permitan agilizar los procesos administrativos relacionados con la expedición de dictámenes y su verificación de congruencia.
 
@@ -2993,15 +3051,47 @@ Concurrencia
 
 Requerimientos
 
-1. Los Ayuntamientos a través de la Dependencia Municipal dispondrán el (sic) formato para solicitar el Dictamen de Vocación de Suelo. La solicitud deberá integrar al menos, la siguiente información:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JULIO DE 2023)</small>
 
-I. Datos del solicitante titular o representante legal: Nombre, domicilio e identificación oficial, la documentación que acredite la propiedad y el certificado de existencia o inexistencia de gravamen;
+1. Los Ayuntamientos a través de la Dependencia Municipal dispondrán el formato para solicitar el Dictamen de Vocación de Suelo. La solicitud y el expediente deberán integrar al menos, la siguiente información:
 
-II. Datos del predio: Ubicación del área o predio, identificación catastral, superficie, medidas y colindancias, número oficial y uso actual del predio. En su caso, fotografía del inmueble, imagen satelital y archivo digital del polígono con coordenadas georreferenciadas ligadas a la red geodésica oficial, certificadas por la autoridad catastral para modalidades II y III;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
 
-III. Alcance del dictamen: Modalidad, acción urbanística que pretende ejecutar y el uso específico que se pretende establecer; y
+I. Datos del solicitante titular o representante legal: Nombre, domicilio e identificación oficial, datos de contacto y la documentación que acredite la propiedad, para todas las modalidades;
 
-IV. Constancia de factibilidad de suficiencia y dotación de agua potable expedida por el respectivo organismo operador, en la que se determine la disponibilidad del recurso hídrico y que garantice el gasto para el pretendido proyecto de forma permanente.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+II. Datos del predio:
+
+a) Ubicación del área o predio, identificación catastral, superficie, medidas y colindancias, número oficial (en su caso), uso actual del predio, fotografía del inmueble e imagen satelital, para todas las modalidades; y
+
+b) Archivo digital del polígono con coordenadas georreferenciadas ligadas a la red geodésica oficial, certificadas por la autoridad catastral, para la modalidad III;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+III. Alcance del dictamen: Modalidad, acción urbanística que pretende ejecutar y el uso específico que se pretende establecer, para todas las modalidades;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+IV. Constancia de factibilidad de suficiencia y dotación de agua potable expedida por el respectivo organismo operador, en la que se determine la disponibilidad del recurso hídrico y que garantice el gasto para el pretendido proyecto de forma permanente, para las modalidades II y III.
+
+Esta constancia no será necesaria en caso de traslado de propiedad de predios rústicos en donde no vaya (sic) existir el aprovechamiento del uso de suelo o alguna acción urbanística, para la modalidad I;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+V. Certificado de existencia o inexistencia de gravamen, para las modalidades II en el caso de subdivisión, fusión o relotificación y para la modalidad III;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+VI. Recibo del servicio de agua, para la modalidad I y para la modalidad II en caso de que la subdivisión sea solo para desprender una fracción;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+VII. Previa autorización el documento que acredite pago de derechos previsto en la Ley de Hacienda del Municipio que corresponda por concepto del dictamen de vocación de suelo, en la modalidad que corresponda para todas las modalidades; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+VIII. La dependencia municipal para estos efectos confirmará en sus registros catastrales que las y los titulares de los predios se encuentren al corriente en el pago del impuesto predial, con las excepciones que marque (sic) las Leyes de Hacienda Municipales u otras leyes inherentes a la materia para todas las modalidades.
 
 2. Al expedir el Dictamen de Vocación de Suelo, la Dependencia Municipal además de referir la información requerida, precisará:
 
@@ -3009,13 +3099,19 @@ I. El grado de control o participación institucional, que permita coordinar y n
 
 II. Los usos o destinos permitidos, compatibles y condicionados, las normas de control de intensidad de la edificación, los criterios, elementos técnicos y lineamientos normativos a considerar para la elaboración de proyectos y las limitaciones o modalidades aplicables a la propiedad, conforme a lo previsto en la legislación vigente y en el Instrumento de Planeación correspondiente.
 
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2023)</small>
+
+3. Los Informes de Vocación del Suelo se expedirán a la persona física o moral que los solicite, sin que acredite la propiedad o posesión del inmueble objeto de la solicitud.
+
 ###### Artículo 169.
 
 Modalidades
 
 1. Por su alcance el Dictamen de Vocación del Suelo, tendrá las siguientes modalidades:
 
-I. De uso y destino, mediante el cual se certifican la clasificación y la utilización determinadas para el área o predio y se establecen las limitaciones o modalidades aplicables para los efectos del artículo 12 de esta Ley. La Dependencia Municipal expedirá este dictamen en un plazo no mayor a tres días hábiles;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+I. De uso y destino, mediante el cual se certifican la clasificación y la utilización determinadas para el área o predio y se establecen las limitaciones o modalidades aplicables para los efectos de los artículos 12 y 13 de esta Ley. La Dependencia Municipal expedirá este dictamen en un plazo no mayor a tres días hábiles;
 
 II. De alineamiento, número oficial, usos y destinos, mediante el cual se precisan los criterios, elementos técnicos y lineamientos normativos a considerar para la elaboración de proyectos de edificación y se establecen las limitaciones o modalidades aplicables para subdividir, fusionar y relotificar. La Dependencia Municipal expedirá este dictamen en un plazo no mayor a cinco días hábiles; y
 
@@ -3083,7 +3179,19 @@ Recurso
 
 Inscripción de actos
 
-1. El Instituto para el Registro del Territorio no inscribirá ningún acto, contrato, convenio o afectación, si el testimonio no consigna la existencia del Dictamen de Vocación de Suelo expedido por la autoridad competente.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+1. El Instituto para el Registro del Territorio no inscribirá ningún acto, contrato, convenio o afectación, sobre transmisión de propiedad de bienes inmuebles si el testimonio no consigna la existencia del Dictamen de Vocación de Suelo expedido por la autoridad competente o este no se acompañe al mismo.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2023)</small>
+
+2. No se requerirá el Dictamen de Vocación de Suelo en el testimonio respectivo, en los siguientes casos:
+
+I. En el primer acto traslativo de dominio de lotes y fincas en urbanizaciones autorizadas, donde se deberá cumplir con lo dispuesto en el artículo 266 de esta Ley;
+
+II. En los sucesivos actos traslativos de dominio de predios y fincas, donde sus escrituras incluyan los rubros previstos en el artículo 266 de esta Ley y su adquiriente no pretenda modificar su aprovechamiento; y
+
+III. En los actos, contratos y convenios relativos a la propiedad, posesión, aprovechamiento o cualquier otra forma jurídica de tenencia de predios o fincas urbanas que cuenten con su incorporación municipal, con uso habitacional unifamiliar consignado en la escritura pública de la que se deriven los antecedentes jurídicos de propiedad o posesión del área o predio y su adquiriente, no pretenda modificar su aprovechamiento o requiera actualizar el uso del predio, conforme los programas de desarrollo urbano vigentes, donde se deberá cumplir con lo dispuesto en el artículo 266 de esta Ley.
 
 ### CAPÍTULO IX. DE LA DISCIPLINA URBANÍSTICA
 
@@ -3167,17 +3275,25 @@ Resiliencia hídrica
 
 1. El Poder Ejecutivo del Estado y los Ayuntamientos fomentarán la resiliencia hídrica mediante la implementación de estrategias y proyectos de infraestructura verde, a fin de prevenir riesgos y garantizar la seguridad y protección de la población y sus bienes.
 
-2. La infraestructura verde promueve el manejo integrado de las cuencas urbanas, la captación, control, tratamiento y uso eficiente de las aguas pluviales y la protección del suelo de conservación, facilitando la adecuada recarga e infiltración del acuífero y aprovechando los espacios públicos de la ciudad para promover el almacenamiento, tratamiento y reúso del agua, además del control de inundaciones.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+2. La infraestructura verde promueve el manejo integrado de las cuencas urbanas, el uso eficiente de las aguas pluviales y la protección del suelo de conservación, facilitando la adecuada recarga e infiltración del acuífero y aprovechando los espacios públicos de la ciudad para promover el buen manejo del agua, además del control de inundaciones, la cual se atenderá conforme al Reglamento.
 
 3. Los promotores o urbanizadores deberán implementar la infraestructura verde en la planeación y ejecución de sus Proyectos de Integración Urbana y Proyectos Ejecutivos de Urbanización.
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 22 DE JULIO DE 2023)</small>
+
 ###### Artículo 183.
 
-Captación, control, tratamiento y uso eficiente de las aguas pluviales
+Del uso eficiente de las aguas pluviales
 
-1. Para alcanzar los objetivos previstos en el artículo anterior, los Ayuntamientos ejercerán sus facultades de regulación y control, solicitando a quienes pretendan llevar a cabo aprovechamientos urbanos, la construcción y habilitación de obras para la captación, control, tratamiento y uso eficiente de las aguas pluviales, conforme a lo previsto en el Programa Municipal o instrumentos derivados, promoviendo para su manejo integral el establecimiento de polígonos de actuación, la creación de fideicomisos, la aplicación de instrumentos fiscales y otras medidas tendientes a la coordinación, ejecución y financiamiento de las obras e inversiones que se requieran en la materia.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-2. Todo aprovechamiento urbano que genere superficies impermeables, deberá construir o habilitar los componentes referidos en el párrafo anterior. El agua precipitada sobre el desarrollo, no podrá ser drenada ni conducida directamente hacia las calles, cunetas o redes de drenaje que no se hubieran construido con ese fin. Solamente los excedentes serán canalizados a las obras de infraestructura para la captación y control de aguas pluviales con que cuenten los Ayuntamientos.
+1. Para alcanzar los objetivos previstos en el artículo anterior, los Ayuntamientos ejercerán sus facultades de regulación y control, solicitando a quienes pretendan llevar a cabo aprovechamientos urbanos, la construcción y habilitación de obras para el uso eficiente de las aguas pluviales, conforme a lo previsto en el Programa Municipal o instrumentos derivados, promoviendo para su manejo integral el establecimiento de polígonos de actuación, la creación de fideicomisos, la aplicación de instrumentos fiscales y otras medidas tendientes a la coordinación, ejecución y financiamiento de las obras e inversiones que se requieran en la materia.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+2. Todo aprovechamiento urbano que genere superficies impermeables, deberá construir o habilitar los componentes referidos en el párrafo anterior. El agua precipitada sobre el desarrollo podrá ser drenada y conducida directamente hacia las calles, cunetas o redes de drenaje que se hubieran construido con ese fin, pudiendo también ser canalizada a las obras de infraestructura para el manejo de aguas pluviales con que cuenten los Ayuntamientos.
 
 ###### Artículo 184.
 
@@ -3185,7 +3301,9 @@ Organismos operadores de agua potable y alcantarillado
 
 1. Los organismos operadores de agua potable y alcantarillado en coordinación con la Dependencia Municipal determinarán los requerimientos mínimos de los estudios que deban practicarse a partir de los criterios, lineamientos o normas técnicas en la materia que determine el Reglamento y otras disposiciones aplicables.
 
-2. La construcción de las estructuras e instalación de dispositivos de control de escurrimiento estará sujeta a la autorización del organismo operador que corresponda, después de la debida evaluación de las condiciones mínimas de infiltración del suelo en la superficie del aprovechamiento urbano.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+2. La construcción de las estructuras necesarias para el escurrimiento estará sujeta a la autorización del organismo operador que corresponda, después de la debida evaluación de las condiciones mínimas de infiltración del suelo en la superficie del aprovechamiento urbano.
 
 ### CAPÍTULO XI. DEL ESPACIO PÚBLICO
 
@@ -3603,7 +3721,9 @@ II. Obras de urbanización para la renovación urbana: Acciones técnicas de aco
 
 3. Todo aprovechamiento que pretenda o requiera emplazarse fuera de los límites de Centro de Población, debe considerar la prohibición citada en el párrafo anterior y en su caso, elaborará el Estudio referido en el artículo 97 de esta Ley para determinar su procedencia.
 
-4. De ser procedentes, los aprovechamientos deberán promover la integración medioambiental del territorio y del paisaje, acreditar ser autosuficientes y sustentables, adoptar tecnologías que permitan la captación, conducción, almacenamiento, tratamiento y uso eficiente del agua pluvial, el desalojo y tratamiento de aguas residuales, el uso de energías renovables, la disminución, separación y tratamiento de residuos, el manejo de compostas y la recolección de residuos no valorizables.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+4. De ser procedentes, los aprovechamientos deberán promover la integración medioambiental del territorio y del paisaje, acreditar ser autosuficientes y sustentables, adoptar tecnologías que permitan el manejo de agua pluvial, el desalojo de aguas residuales, el uso de energías renovables, la disminución, separación y tratamiento de residuos, el manejo de compostas y la recolección de residuos no valorizables.
 
 ###### Artículo 216.
 
@@ -3621,7 +3741,11 @@ Acciones materiales de las obras de urbanización
 
 I. La división de un área o predio en lotes o fracciones a fin de darle una utilización específica de acuerdo a su respectivo Proyecto de Integración Urbana;
 
-II. La dotación de redes de infraestructura de agua potable, desalojo y tratamiento de aguas residuales, la infraestructura verde que sea requerida, y en los casos procedentes, su conexión con la infraestructura pluvial municipal, incluyendo también, la infraestructura eléctrica, de alumbrado, de telecomunicaciones y radiodifusión y las instalaciones de carácter especial;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+II. La dotación de redes de infraestructura de agua potable, desalojo de aguas residuales, la infraestructura verde que sea requerida, y, en los casos procedentes, su conexión con la infraestructura pluvial municipal, incluyendo también la infraestructura eléctrica y de alumbrado.
+
+Las personas físicas o morales que tengan como objeto las telecomunicaciones, radiodifusión y las instalaciones de carácter especial deberán dotar de la infraestructura para el servicio de forma simultánea a la urbanización con el promotor del fraccionamiento. Cuando éstas decidan iniciarlos una vez recibida por el Municipio, deberán tramitar ante el Ayuntamiento la licencia respectiva y cubrir los derechos por la misma; el sistema de canalización será oculto con acometidas domiciliarias;
 
 III. Los elementos de infraestructura para la movilidad, accesibilidad y para la operación del transporte público colectivo;
 
@@ -3737,17 +3861,27 @@ V. Títulos donde se acredite la propiedad de los predios y en su caso, los cont
 
 VI. Acta constitutiva de la persona moral que promueve el proyecto;
 
-VII. Certificado que acredite la libertad de gravamen de los predios, excepto los inmuebles que provengan del patrimonio federal, estatal o municipal;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+VII. Certificado de existencia o inexistencia de gravamen, con el cual se acredite la situación registral de los inmuebles. De existir hipotecas o gravámenes, se autorizarán siempre que los adeudos reconocidos o adquiridos tengan como objeto el desarrollo del proyecto de urbanización, excepto los inmuebles que provengan del patrimonio federal, estatal o municipal;
 
 VIII. Constancias de factibilidades de servicio emitidas por la dependencias u organismos que operen los diferentes servicios públicos;
 
-IX. Dictámenes técnicos de liberación (INAH); delimitación de zonas federales (CONAGUA) y otros aplicables al proyecto;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
 
-X. Resoluciones en materia de impacto ambiental y de riesgo;
+IX. Dictamen de delimitación de zonas federales (CONAGUA) y otros aplicables al proyecto que por sus características sean necesarias;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+X. Dictamen de congruencia de uso de suelo en materia de ordenamiento ecológico;
 
 XI. Documentos que acrediten los pagos de derechos que determinen las leyes fiscales aplicables, previo a la autorización; y
 
 XII. Tratándose de promociones de vivienda y en caso que así lo requieran, carta en papelería membretada del promovente solicitando la urbanización y edificación simultánea comprobando mediante la entrega de copias de documentos oficiales, que se encuentra registrado como promotor o constructor ante dependencias que apoyen la generación de vivienda. En ambos casos, deberán comprobar que cuentan con el apoyo de instituciones financieras o demostrar fehacientemente la fuente de los recursos que se requieran para llevar a cabo el proyecto planteado.
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+XIII. Carta compromiso en el que la persona urbanizadora se compromete ante la Dependencia Municipal a ejecutar la construcción o mejoramiento de la vialidad, de la infraestructura del equipamiento y de las instalaciones; que, estando localizadas fuera de la zona a urbanizar, se requieran para garantizar la conectividad, la movilidad y el desarrollo de infraestructura urbana, conforme a lo previsto en el Proyecto de Integración Urbana, debiendo agregar a ésta los instrumentos jurídicos necesarios para la ejecución de los mismos.
 
 ###### Artículo 223.
 
@@ -3761,7 +3895,9 @@ Criterios aplicables en el Proyecto
 
 1. Las áreas de cesión para destinos que se propongan en el Proyecto de Integración Urbana deberán cumplir con los siguientes criterios:
 
-I. Características: Las áreas de cesión para destinos no podrán ser residuales o aisladas, ubicarse en zonas inundables, de riesgo o zonas de vestigios arqueológicos, estar afectadas por el paso de infraestructura ni presentar condiciones topográficas con pendiente mayor al promedio del aprovechamiento;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+I. Características: Las áreas de cesión para destinos no podrán ser residuales o aisladas, ubicarse en zonas inundables, de riesgo o zonas de vestigios arqueológicos en donde su restricción prohíba su aprovechamiento, estar afectadas por el paso de infraestructura ni presentar condiciones topográficas con pendiente mayor al promedio del aprovechamiento;
 
 II. Dimensionamiento: La determinación de las superficies de las áreas de cesión para destinos se efectuará en los términos previstos en el Reglamento. Su ubicación y beneficios deben ser accesibles y próximos a sus habitantes. Cuando la superficie a ceder por la persona urbanizadora resulte menor a mil metros cuadrados, ésta no podrá dividirse en fracciones menores, garantizando en todo momento, que dicha superficie reúna las características apropiadas para el destino asignado;
 
@@ -3801,15 +3937,27 @@ Consejo Municipal
 
 2. En la sesión del Consejo Municipal, las y los peritos responsables comparecerán a exponer el Proyecto y la Dependencia Municipal expondrá el análisis técnico correspondiente; Existiendo el espacio para aclaraciones del proyecto y una vez concluidas, las y los peritos se retirarán para la deliberación.
 
-3. Las opiniones fundadas y motivadas del Consejo Municipal serán notificadas al promovente y a la persona perito responsable por parte de la Dependencia Municipal, en un término no mayor a cinco días hábiles contados a partir del día siguiente de la sesión. El Proyecto se adecuará atendiendo las observaciones fundamentadas sin omisión alguna y recomendaciones expuestas por el Consejo Municipal.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+3. Las opiniones fundadas y motivadas del Consejo Municipal serán notificadas al promovente y a la persona perito responsable por parte de la Dependencia Municipal, en un término no mayor a cinco días hábiles contados a partir del día siguiente de la sesión. El Proyecto se adecuará atendiendo las observaciones fundamentadas sin omisión alguna expuestas por el Consejo Municipal.
 
 4. El promovente o perito responsable en un plazo no mayor a cinco días hábiles, podrá rebatir las observaciones del consejo, mediante escrito fundado y motivado.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2023)</small>
+
+5. El Consejo Municipal contará con un plazo de siete días hábiles, contados a partir de que la Dependencia Municipal le notifique el escrito de respuesta del promotor o perito, para que resuelva lo conducente. La Dependencia Municipal, deberá notificar al Consejo Municipal dentro de los dos días hábiles siguientes de la recepción del escrito.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2023)</small>
+
+6. La resolución del Consejo Municipal deberá ser notificada al promovente y a la persona perito responsable por parte de la Dependencia Municipal, en un término no mayor a cinco días hábiles contados a partir del día siguiente de su emisión y en su caso, solicite la integración de la versión final de Proyecto de Integración Urbana.
 
 ###### Artículo 227.
 
 Dictamen Técnico y de Congruencia
 
-1. Al recibir la versión final del Proyecto de Integración Urbana, la Dependencia Municipal determinará su anuencia emitiendo el Dictamen Técnico correspondiente. El Proyecto y el Dictamen Técnico serán remitidos a la Secretaría, en un término no mayor a cinco días hábiles, contados a partir del día siguiente de su recepción, con el objeto de solicitar la emisión del Dictamen de Congruencia.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+1. Al recibir la versión final del Proyecto de Integración Urbana, la Dependencia Municipal determinará su anuencia emitiendo el Dictamen Técnico correspondiente. El Proyecto, documentos establecidos en el artículo 222 y el Dictamen Técnico serán remitidos a la Secretaría, en un término no mayor a cinco días hábiles, contados a partir del día siguiente de su recepción, con el objeto de solicitar la emisión del Dictamen de Congruencia.
 
 2. La Secretaría tendrá un plazo de cinco días hábiles contados a partir del día siguiente de su recepción para analizar la congruencia del Proyecto y emitir el Dictamen correspondiente. El Dictamen, previo pago correspondiente, será notificado a la Dependencia Municipal para los efectos conducentes.
 
@@ -3819,7 +3967,9 @@ Autorización del Proyecto
 
 1. Una vez obtenido el Dictamen de Congruencia e Integrado el Expediente Técnico, la Dependencia Municipal gestionará la orden pago para que la persona interesada cubra los derechos que determine la Ley de Hacienda del Municipio y en un plazo no mayor a cinco días hábiles lo remitirá a la Secretaría del Ayuntamiento.
 
-2. La Secretaría del Ayuntamiento turnará el expediente para que sea considerado e integrado al orden del día de la siguiente sesión del Cabildo. El Ayuntamiento dispondrá de hasta veinte días hábiles, contados a partir del día siguiente de la recepción de documentos en la Secretaría del Ayuntamiento, para sesionar y emitir el acuerdo mediante el cual aprueba el Proyecto de Integración Urbana correspondiente.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+2. La Secretaría del Ayuntamiento turnará dentro de las 72 horas hábiles siguientes a la Comisión en la materia del Cabildo el expediente para que sea analizado, considerado e integrado al orden del día de la siguiente sesión del Cabildo. El Ayuntamiento dispondrá de hasta veinte días hábiles, contados a partir del día siguiente de la recepción de documentos en la Secretaría del Ayuntamiento, para sesionar y emitir el acuerdo mediante el cual aprueba el Proyecto de Integración Urbana correspondiente.
 
 ###### Artículo 229.
 
@@ -3859,7 +4009,9 @@ VI. Versiones amplia y abreviada en formato impreso, con sellos y firmas autógr
 
 VII. Versión amplia y abreviada en formato digital;
 
-VIII. Anexos gráficos a publicar en formato impreso;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+VIII. Anexos gráficos a publicar en formato impreso, con sellos y firmas autógrafas del Ayuntamiento y de la persona perita responsable;
 
 IX. Archivo gráfico en formato digital tipo dwg y shp; y
 
@@ -3869,7 +4021,13 @@ X. Documentos complementarios que forman parte integral del expediente, referido
 
 Vigencia del Proyecto
 
-1. El Proyecto de Integración Urbana contará con vigencia plena en tanto el Programa Municipal o instrumento derivado del que se origina, no sea actualizado, modificado o cancelado, de forma tal, que lo contravenga o se oponga a éste. Una vez expedida la Licencia de Urbanización, su vigencia será definida en esta atendiendo la modalidad y el plazo señalado para ejecutar las obras que en ella se consigne.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+1. El Proyecto de Integración Urbana contará con vigencia definitiva una vez que se expida la Licencia de Urbanización, en tanto no se expida está, el Proyecto de Integración Urbana estará sujeto a las modificaciones, actualizaciones o cancelación del programa municipal o instrumento derivado del que se origina, en cuyo caso deberá obtener nuevamente el dictamen de vocación de suelo.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2023)</small>
+
+2. Sólo podrá ser modificado a solicitud de la persona urbanizadora previo a su incorporación municipal, y posterior a está las personas ciudadanas que cuenten con interés legítimo, mediante el estudio de impacto urbano.
 
 ### CAPÍTULO IV. DEL PROYECTO EJECUTIVO DE URBANIZACIÓN
 
@@ -3935,17 +4093,35 @@ VIII. Oficio con la aceptación expresa de la o el urbanizador de escriturar las
 
 IX. Oficio con la aceptación expresa de la o el urbanizador en el que se establezca la obligación del desarrollador de otorgar a favor del Ayuntamiento las garantías por la correcta ejecución de las obras, así como por los vicios ocultos por un plazo no menor de dos años, a partir de la entrega recepción de las obras de cada etapa o la totalidad de la urbanización;
 
-X. Convenio en el que la persona urbanizadora se compromete ante la Dependencia Municipal a ejecutar las obras de urbanización correspondientes a las áreas de cesión para destinos y a habilitar el espacio público y las áreas verdes con arbolado, mobiliario urbano, pavimentos y lo necesario para su inmediata utilización y funcionamiento; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
 
-XI. Convenio en el que la persona urbanizadora se compromete ante la Dependencia Municipal a ejecutar la construcción o mejoramiento de la vialidad, de la infraestructura, del equipamiento y de las instalaciones; que, estando localizadas fuera de la zona a urbanizar, se requieran para garantizar la conectividad, la movilidad y el desarrollo de infraestructura urbana, conforme a lo previsto en el Proyecto de Integración Urbana.
+X. Carta compromiso en el (sic) que la persona urbanizadora se compromete ante la Dependencia Municipal a ejecutar las obras de urbanización correspondientes a las áreas de cesión para destinos y a habilitar el espacio público y las áreas verdes con arbolado, mobiliario urbano, pavimentos y lo necesario para su inmediata utilización y funcionamiento, de conformidad con la etapa que corresponda;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+XI. Los instrumentos jurídicos que se requieran para garantizar la ejecución, la construcción o mejoramiento de la vialidad, de la infraestructura del equipamiento y de las instalaciones que, estando localizadas fuera de la zona a urbanizar, que garanticen la conectividad, la movilidad y el desarrollo de infraestructura urbana, conforme a lo previsto en el Proyecto de Integración Urbana.
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+XII. Dictamen técnico de liberación (INAH); y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+XIII. Resoluciones en materia de impacto ambiental y de riesgos.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 22 DE JULIO DE 2023)</small>
 
 ###### Artículo 236.
 
-Convenios
+De las cartas compromiso
 
-1. Una vez inscrito en el Programa de Integración Urbana y previo al ingreso del proyecto ejecutivo la persona urbanizadora solicitará al Ayuntamiento celebrar los convenios mencionados en el artículo anterior, mismos que deberán llevarse a cabo en un plazo de diez (sic) hábiles a partir de la solicitud.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-2. Los convenios contendrán:
+1. Una vez inscrito en el Programa de Integración Urbana y previo al ingreso del proyecto ejecutivo, la persona urbanizadora presentará al Ayuntamiento las cartas compromiso y/o los instrumentos jurídicos necesarios mencionados en el artículo anterior, mismos que deberán llevarse a cabo en un plazo de diez hábiles a partir de la solicitud.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JULIO DE 2023)</small>
+
+2. Las cartas compromiso o los instrumentos jurídicos contendrán como mínimo:
 
 I. La descripción del equipamiento, las instalaciones y el mobiliario urbano que proveerá la o el urbanizador en las áreas de cesión para destinos; y
 
@@ -4007,7 +4183,9 @@ II. Urbanización por etapas, es aquella en la que, debido a la extensión y car
 
 III. Urbanización progresiva, es aquella en la que la Dependencia Municipal autoriza la ejecución de obras de urbanización de objetivo social, en los términos previstos en esta Ley; y
 
-IV. Urbanización y edificación simultánea, es aquella en la que la Dependencia Municipal autoriza al mismo tiempo, la ejecución de obras de urbanización y edificación, por así convenir a los intereses del urbanizador, en esta modalidad, la expedición de licencias de edificación y otras autorizaciones asociadas no están supeditadas a obtener de forma previa, el acuerdo de Incorporación Municipal. La autorización de uso y ocupación de las edificaciones se realizará en los términos previstos en esta Ley.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+IV. Urbanización y edificación simultánea, es aquella en la que la Dependencia Municipal autoriza al mismo tiempo, la ejecución de obras de urbanización y edificación, pudiéndose planificar por etapas, por así convenir a los intereses del urbanizador, en esta modalidad, la expedición de licencias de edificación y otras autorizaciones asociadas no están supeditadas a obtener de forma previa, el acuerdo de Incorporación Municipal. La autorización de uso y ocupación de las edificaciones se realizará en los términos previstos en esta Ley.
 
 ###### Artículo 243.
 
@@ -4015,9 +4193,13 @@ Urbanización por etapas
 
 1. Las personas interesadas en obtener Licencia de Urbanización en la modalidad de urbanización por etapas, deberán considerar la delimitación del proyecto en polígonos prevista en la fracción IX del artículo 234 de esta Ley.
 
-2. Cada etapa deberá dotar la infraestructura necesaria para garantizar la conectividad, la movilidad y el abastecimiento de forma independiente. Los desarrollos habitacionales deberán considerar desde el diseño, la entrega en la etapa inicial de espacios verdes abiertos o áreas destinadas a la recreación y el deporte para su inmediata utilización y funcionamiento. Al iniciar la ejecución de la última etapa del desarrollo, todas las áreas de cesión para destinos deberán encontrarse habilitadas.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
 
-3. Sólo se autorizará la incorporación de etapas posteriores, si los trabajos de urbanización de la etapa previa, fueron concluidos de forma satisfactoria.
+2. Cada etapa deberá dotar la infraestructura necesaria para garantizar la conectividad, la movilidad y el abastecimiento de forma independiente. Los desarrollos habitacionales deberán considerar desde el diseño, de forma estratégica, el equipar espacios verdes abiertos o áreas destinadas a la recreación y el deporte en las etapas de urbanización en las que éstos se consideren, para su inmediata utilización y funcionamiento de acuerdo a la estructura territorial determinada en el instrumento de planeación correspondiente y conforme al Proyecto de Integración Urbana que se deriva de éste. Al iniciar la ejecución de la última etapa del desarrollo, todas las áreas de cesión para destinos deberán encontrarse habilitadas.
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+3. Sólo se autorizará la incorporación de etapas posteriores, si los trabajos de urbanización de la etapa previa, fueron concluidos apegados al proyecto y especificaciones autorizadas.
 
 ###### Artículo 244.
 
@@ -4049,11 +4231,17 @@ Garantías
 
 3. Las obras de urbanización ejecutadas por etapas, constituirán la garantía prevista en el párrafo anterior, considerando el presupuesto actualizado de la etapa por ejecutar.
 
-4. Las obras de urbanización ejecutadas en la modalidad denominada urbanización y edificación simultáneas, que soliciten la Incorporación Municipal anticipada, deberán constituir una garantía adicional equivalente al cien por ciento del valor de las obras de urbanización pendientes por ejecutar en la etapa o polígono por incorporar. El presupuesto deberá incluir los montos necesarios para habilitar las áreas de cesión para destinos.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-5. No se podrán ejercer actos traslativos de dominio, en tanto no se cancele la garantía correspondiente a la ejecución de las obras.
+4. Las obras de urbanización ejecutadas en la modalidad denominada urbanización y edificación simultáneas, que soliciten la Incorporación Municipal anticipada, deberán constituir una garantía adicional equivalente al cien por ciento del valor de las obras de urbanización pendientes por ejecutar en la etapa o polígono por incorporar. El presupuesto deberá incluir los montos necesarios para habilitar las áreas de cesión para destinos y todas las obras faltantes correspondiente (sic) a la etapa que se pretende incorporar.
 
-6. Las garantías hipotecarias podrán constituirse en inmuebles que formen parte del fraccionamiento, condominio, desarrollo inmobiliario autorizado o en terrenos diferentes, propiedad del urbanizador, promovente o de un tercero, los cuales deberán estar libres de gravamen y de limitación de dominio.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+5. No se podrán ejercer actos traslativos de dominio, en tanto no se realice la incorporación municipal, siendo obligación del urbanizador, el cancelar cuando corresponda la garantía relativa a la ejecución de las obras.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+6. Las garantías hipotecarias podrán constituirse en inmuebles que formen parte del fraccionamiento, condominio, desarrollo inmobiliario autorizado o en terrenos diferentes, propiedad del urbanizador, promovente o de un tercero, los cuales deberán estar libres de gravamen y de limitación de dominio. Y no podrán hacerse actos traslativos de dominio en estos inmuebles en tanto subsista la garantía hipotecaria.
 
 7. El Ayuntamiento dispondrá la elaboración del avalúo de los inmuebles que pretendan otorgarse en garantía, con cargo al urbanizador o promovente. El avalúo será realizado por un perito valuador inscrito en el Padrón Estatal y aceptado por el Ayuntamiento correspondiente.
 
@@ -4103,7 +4291,9 @@ Entrega
 
 1. Al expedir la Licencia de Urbanización, la Dependencia Municipal entregará a la persona urbanizadora los siguientes documentos:
 
-I. Dos tantos originales del Proyecto Ejecutivo de Urbanización debidamente autorizado (uno para el promotor y el otro para el supervisor municipal); y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+I. Cuatro tantos originales del Proyecto Ejecutivo de Urbanización debidamente autorizado (Para el Ayuntamiento, para el promotor, la o el supervisor municipal y para el sitio de la obra); y
 
 II. La bitácora de obra certificada, con las firmas autógrafas de la persona titular de la Dirección de la Dependencia y de las y los peritos que intervendrán en la acción urbanística.
 
@@ -4203,7 +4393,9 @@ Identificación de la obra y bitácora
 
 Visitas de inspección
 
-1. Cuando la Secretaría pretenda verificar los procesos de aprovechamiento urbano del suelo o la ejecución de obras de urbanización de algún desarrollo, podrá optar en realizarla de forma individual o de manera conjunta con la Dependencia Municipal, de ser así, notificará su intención a la Dependencia con el objeto de agendar y coordinar la visita de inspección de manera coordinada.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+1. Cuando la Secretaría pretenda verificar los procesos de aprovechamiento urbano del suelo o la ejecución de obras de urbanización de algún desarrollo, podrá optar en realizarla de forma individual o de manera conjunta con la Dependencia Municipal, de ser así, notificará su intención a la Dependencia con el objeto de agendar y acordar la visita de inspección de manera coordinada.
 
 ###### Artículo 261.
 
@@ -4211,7 +4403,9 @@ Informe de Supervisión Municipal
 
 1. El Perito en Supervisión Municipal deberá rendir un informe ante la Dependencia Municipal cada quince días naturales, en el que describa el estado de las obras de urbanización, el cumplimiento del programa de obra y en su caso, de las medidas de compensación, integración o mitigación impuestas en el Dictamen de Impacto Urbano Territorial.
 
-2. Al informe se integrarán bimestralmente los aforos, las pruebas de calidad de los materiales o reportes de laboratorio, así como las pruebas de presión y de resistencia, entre otras, a efecto de garantizar la buena calidad de las obras. Las pruebas que sean ordenadas por el Perito en Supervisión Municipal, se realizarán con cargo a la obra y en la fecha que sea señalada.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+2. Al informe se integrarán bimestralmente las pruebas de calidad de los materiales o reportes de laboratorio, así como las pruebas de presión y de resistencia, entre otras, a efecto de garantizar la buena calidad de las obras. Las pruebas que sean ordenadas por la o el Perito en Supervisión Municipal, se realizarán con cargo a la obra y en la fecha que sea señalada.
 
 ###### Artículo 262.
 
@@ -4227,13 +4421,19 @@ Ejecución de garantías
 
 1. El Ayuntamiento respectivo deberá hacer efectivo el instrumento que se otorgó para garantizar las obras cuando la persona urbanizadora o promovente:
 
-I. No cumpla con el programa de obra autorizado;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+I. Deje en estado de abandono las obras, conforme lo dictamine la persona Supervisora Municipal, quien deberá tomar en cuenta la última actividad de ejecución de obra registrada en bitácora que no tenga más de 60 días hábiles.
 
 II. No se apegue a las especificaciones y características de las obras señaladas en la autorización respectiva y en esta Ley;
 
-III. No acate las observaciones realizadas, con motivo de la supervisión realizada durante la ejecución de las obras; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
 
-IV. Deje de prestar suficiente y adecuadamente los servicios a que está obligado por esta Ley.
+III. No acate las observaciones realizadas de manera injustificada o deliberada, con motivo de la supervisión realizada durante la ejecución de las obras; y
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+IV. Deje de prestar, de forma reiterada los servicios a que está obligado por esta Ley.
 
 2. Las garantías se aplicarán para realizar por sí o por medio de contratista, las obras de urbanización que no haya ejecutado o corregido la persona urbanizadora o promovente, sin perjuicio de las sanciones administrativas y responsabilidad civil o penal que se generen.
 
@@ -4305,7 +4505,9 @@ I. El uso o destino de cada lote y las normas de control de intensidad de la edi
 
 II. Las disposiciones que regulen y limiten su aprovechamiento y edificación; así como la imposibilidad jurídica de subdividir los lotes en fracciones con dimensiones menores a las determinadas en el Reglamento;
 
-III. Las garantías por defectos o vicios ocultos a cargo del urbanizador, así como su monto y vigencia; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+III. El derecho del adquirente de reclamar los vicios o defectos ocultos de las obras de urbanización o edificación a la persona que realizó las referidas obras. Este derecho se extinguirá una vez que haya transcurrido el plazo de dos años contados a partir de la escrituración; y
 
 IV. La declaración del adquirente de que conoce las modalidades y limitaciones de la propiedad que adquiere y en su caso, el reglamento interno del desarrollo, autorizado por el Ayuntamiento como parte del Proyecto de Integración Urbana.
 
@@ -4341,21 +4543,35 @@ III. Relación de los predios que se pretenden incorporar;
 
 IV. Bitácora de obra;
 
-V. Actas de entrega recepción emitidas por las dependencias u organismos con injerencia en el proyecto en materia ambiental, de infraestructura y servicios públicos. Para el caso de incorporaciones anticipadas, constancias emitidas por estos, certificando la correcta ejecución de las obras; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+V. Actas de entrega recepción emitidas por las dependencias u organismos con injerencia en el proyecto en materia ambiental, de infraestructura y servicios públicos. Para el caso de incorporaciones anticipadas, constancias emitidas por estos, en el que se informe que las obras se encuentran ejecutándose correctamente;
 
 VI. Las garantías que correspondan conforme a la modalidad de ejecución autorizada, previstas en el artículo 246 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+VII. No se autorizará la incorporación de etapas posteriores si los trabajos de urbanización de la etapa inmediata solicitada no están ejecutados de acuerdo a programa, o bien si el promotor solicitante hubiere incumplido con algún compromiso anterior de terminación de obra en calidad o en tiempo;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+VIII. En el caso de las urbanizaciones y edificaciones simultáneas que se planificaron por etapas la última etapa por incorporar no podrá ser de forma anticipada.
 
 ###### Artículo 269.
 
 Procedimiento
 
-1. Habiendo validado los documentos descritos en el artículo anterior, la Dependencia Municipal notificará al urbanizador, la fecha en que realizará la inspección final de las obras de urbanización. La inspección final deberá realizarse en un término no mayor de diez hábiles contados a partir del día siguiente de la recepción de los documentos.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+1. Habiendo validado los documentos descritos en el artículo anterior, la Dependencia Municipal notificará al Urbanizador y al Supervisor Municipal, la fecha en que realizará la inspección final de las obras de urbanización. La inspección final deberá realizarse en un término no mayor de diez hábiles contados a partir del día siguiente de la recepción de los documentos.
 
 2. En la inspección final, la Dependencia Municipal, con base en la verificación permanente realizada por el Perito en Supervisión Municipal ratificará que:
 
 I. Las obras de urbanización ejecutadas en las modalidades denominadas urbanización total y por etapas, se encuentren concluidas al cien por ciento, conforme a la Licencia de Urbanización autorizada, en concordancia con el Proyecto Ejecutivo, sus especificaciones y normas de calidad;
 
-II. Tratándose de obras de urbanización ejecutadas en la modalidad denominada urbanización y edificación simultáneas, la persona urbanizadora podrá gestionar la Incorporación Municipal anticipada al concluir, al cien por ciento, las obras correspondientes a la infraestructura verde aplicable, las redes de agua potable, drenaje sanitario y de captación y control de las aguas pluviales. Las vialidades deberán estar conformadas a nivel de subrasante, garantizando la conectividad y movilidad al área urbana adyacente. En estos casos, el urbanizador acreditará haber constituido la garantía adicional prevista en el artículo 246 de esta Ley. En todo caso, los procesos de urbanización restantes seguirán bajo la verificación permanente del Perito en Supervisión Municipal hasta obtener el Dictamen técnico derivado de la inspección final de las obras de urbanización;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+II. Tratándose de obras de urbanización ejecutadas en la modalidad denominada urbanización y edificación simultáneas, la persona urbanizadora podrá gestionar la Incorporación Municipal anticipada al concluir, al cien por ciento, las obras correspondientes a la infraestructura verde aplicable, las redes de agua potable, drenaje sanitario y el manejo de las aguas pluviales. Las vialidades deberán estar conformadas a nivel de subrasante, garantizando la conectividad y movilidad al área urbana adyacente. En estos casos, el urbanizador acreditará haber constituido la garantía adicional prevista en el artículo 246 de esta Ley. En todo caso, los procesos de urbanización restantes seguirán bajo la verificación permanente del Perito en Supervisión Municipal hasta obtener el Dictamen técnico derivado de la inspección final de las obras de urbanización;
 
 III. Los aprovechamientos habitacionales de objetivo social que se hayan autorizado en la modalidad de urbanización progresiva, las instancias responsables podrán gestionar la Incorporación Municipal anticipada cuando el avance de las obras corresponda con los criterios descritos en la fracción anterior. En todo caso, los procesos de urbanización restantes seguirán bajo la verificación permanente del Perito en Supervisión Municipal hasta obtener el Dictamen técnico derivado de la inspección final de las obras de urbanización;
 
@@ -4367,7 +4583,13 @@ b. Las medidas de compensación o mitigación relativas al Resolutivo Ambiental;
 
 c. Las acciones de reparación de daños al espacio público o a terceros ocasionados por la obra.
 
-V. Las obras necesarias para la inmediata utilización de áreas de cesión para destinos, practicado la auditoría de seguridad urbana con perspectiva de género prevista en el artículo 186 de esta Ley.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+V. Las obras necesarias para la inmediata utilización de áreas de cesión para destinos, conforme a proyecto autorizado, practicado la auditoría de seguridad urbana con perspectiva de género prevista en el artículo 186 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2023)</small>
+
+3. En coordinación la dependencia y el Supervisor Municipal deberán levantar el acta de la inspección final, a fin de que con esta se emita el Dictamen técnico.
 
 ###### Artículo 270.
 
@@ -4378,6 +4600,10 @@ Plazo para emitir el Dictamen
 2. Si la Dependencia Municipal considera improcedente el Dictamen, por advertir desperfectos en las obras que afecten su óptimo funcionamiento o bien, por encontrar diferencias conforme a las autorizaciones otorgadas, notificará al urbanizador y a la persona perito responsable, fundamentando y motivando lo observado, para que sea subsanado de inmediato.
 
 3. Cuando exista controversia o inconformidad por el Dictamen emitido, la persona urbanizadora podrá solicitar la intervención de la Secretaría para que el asunto sea turnado al Comité Estatal de Peritos. La opinión técnica que resulte de la revisión de los dictámenes periciales y las evidencias documentadas, será notificada por escrito al urbanizador y a la Dependencia Municipal para que ésta resuelva en definitiva.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2023)</small>
+
+4. Cuando exista controversia o inconformidad por el Dictamen emitido, la persona urbanizadora podrá interponer el recurso de revisión o promover el juicio de nulidad.
 
 ###### Artículo 271.
 
@@ -4423,17 +4649,25 @@ I. Escriturar los predios a sus adquirentes y permitirles su ocupación; y
 
 II. Expedir autorizaciones o licencias de las acciones urbanísticas que sean solicitadas en el desarrollo.
 
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+III. Escriturar las áreas de cesión a los ayuntamientos.
+
 5. En tanto no se publique e inscriba el acuerdo que perfecciona el acto de entrega recepción por parte del Ayuntamiento, el mantenimiento de vialidades, áreas verdes y demás áreas de cesión para destinos, así como la prestación de los servicios públicos en materia de alumbrado público, limpia, recolección, traslado, tratamiento y disposición final de residuos de la etapa o polígono incorporado, quedarán a cargo del urbanizador.
 
 ### CAPÍTULO XI. DEL ACTO DE ENTREGA RECEPCIÓN DE BIENES INMUEBLES, EQUIPO E INSTALACIONES
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 22 DE JULIO DE 2023)</small>
+
 ###### Artículo 276.
 
-Acto de Entrega Recepción
+Objeto del Acto de Entrega Recepción
 
 1. El Acto de Entrega Recepción tiene como principal efecto formalizar y perfeccionar la incorporación de bienes inmuebles, equipo e instalaciones al patrimonio municipal, permitiendo que el Ayuntamiento asuma desde ese momento la responsabilidad de administrar, custodiar y mantener el espacio público, con función de equipamiento, áreas verdes urbanas, áreas naturales y espacios abiertos; y con función de infraestructura vial, así como de prestar los servicios públicos en materia de alumbrado público, de limpia, recolección, traslado, tratamiento y disposición final de residuos; y de seguridad pública que le correspondan.
 
-2. El Acto de Entrega Recepción permite a los organismos operadores recibir bienes inmuebles, equipo e instalaciones de infraestructura para incorporarlos a su patrimonio, operar las redes y suministrar los servicios que les correspondan, trasladando el costo de estos a las y los propietarios de lotes o fincas.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+2. El Acta de Entrega Recepción permite a los organismos operadores recibir bienes inmuebles, equipo e instalaciones de infraestructura para incorporarlos a su patrimonio, operar las redes y suministrar los servicios que les correspondan, trasladando el costo de estos a las y los propietarios de lotes o fincas.
 
 ###### Artículo 277.
 
@@ -4469,13 +4703,17 @@ VI. Constancias emitidas por la Tesorería Municipal, que acreditan haber consti
 
 Procedimiento
 
-1. Habiendo validado los documentos descritos en el artículo anterior, la Dependencia Municipal notificará al urbanizador, la fecha y lugar en que formalizará el Acto de Entrega Recepción, debiéndose realizar en un término no mayor de diez días hábiles, contados a partir del día siguiente de la recepción de los documentos.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+1. Habiendo validado los documentos descritos en el artículo anterior, la Dependencia Municipal notificará al urbanizador, la fecha y lugar en que formalizará el Acto de Entrega Recepción de la etapa o la totalidad, debiéndose realizar en un término no mayor de diez días hábiles, contados a partir del día siguiente de la recepción de los documentos.
 
 ###### Artículo 281.
 
 Acto de Entrega Recepción
 
-1. El Acto de Entrega Recepción de bienes inmuebles, equipo e instalaciones, se realizará en el sitio donde se desarrollaron las obras de urbanización, con la participación de la persona urbanizadora o promovente, el representante legal del Ayuntamiento; las personas titulares de las dependencias municipales competentes en materia de desarrollo urbano y servicios públicos y un representante del organismo operador de agua potable y alcantarillado y al menos, a dos adquirientes, en calidad de testigos. Mismos que habiéndose constituido legalmente el comité de participación vecinal, formen parte de su mesa directiva.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+1. El Acto de Entrega Recepción de bienes inmuebles, equipo e instalaciones, se realizarán (sic) en el sitio donde se desarrollaron las obras de urbanización, con la participación de la persona urbanizadora o promovente, el representante legal del Ayuntamiento; las personas titulares de las dependencias municipales competentes en materia de desarrollo urbano y servicios públicos y un representante del organismo operador de agua potable y alcantarillado y al menos, a dos adquirientes, en calidad de testigos, y en su caso, de haberse ya constituido el Comité de Participación Vecinal deberán ser integrantes de la mesa directiva.
 
 2. La persona representante legal del Ayuntamiento auxiliado de la Dependencia Municipal levantará un Acta Administrativa en cuatro tantos originales, donde se hagan constar los hechos de la Entrega Recepción, así como la referencia a los documentos cotejados por la Dependencia Municipal.
 
@@ -4525,15 +4763,21 @@ IV. Conservar y dar mantenimiento al arbolado que se encuentre al interior y ext
 
 2. En caso de no acatar estas disposiciones, la Dependencia Municipal deberá ejecutar las medidas de seguridad conducentes con cargo al propietario, procediendo a su cobro conforme las disposiciones de la Ley de Hacienda del municipio respectivo. A falta de su cumplimiento, aplicará las sanciones que resulten procedentes, en los términos de esta Ley, el Reglamento que regule las edificaciones y demás disposiciones aplicables, independientemente de la responsabilidad civil o penal que resulte.
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 22 DE JULIO DE 2023)</small>
+
 ###### Artículo 287.
 
-Obligación solidaria
+Cuidado de las áreas comunes
 
-1. En todos los casos, los adquirentes de lotes tendrán con el Ayuntamiento la obligación solidaria de custodiar y mantener en buen estado las áreas verdes y espacios públicos abiertos del conjunto o desarrollo, así como los árboles plantados en las vías públicas, el mobiliario urbano y los pavimentos destinados al peatón.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+1. En todos los casos, el Ayuntamiento tendrá la obligación de custodiar y mantener en buen estado las áreas verdes y espacios públicos abiertos del conjunto o desarrollo, así como los árboles plantados en las vías públicas, el mobiliario urbano y los pavimentos destinados al peatón, siempre y cuando se hayan debidamente entregado conforme a la Ley por parte del desarrollador, de lo contrario será responsable el desarrollador. Asimismo, las personas que habiten el desarrollo o fraccionamiento deberán cuidar de las áreas verdes, espacios públicos y equipamientos urbanos para evitar el deterioro o destrucción de dichas áreas, pudiendo hacer la denuncia correspondiente al Ayuntamiento en caso de robo, destrucción de las áreas antes mencionadas.
 
 2. Los predios destinados para equipamiento urbano serán utilizados exclusivamente para los fines dispuestos en el Proyecto de Integración Urbana. En su caso, podrán ser destinados como áreas verdes o espacios abiertos en tanto no se construyan, previo convenio suscrito entre el Ayuntamiento y la Asociación o Comité correspondiente.
 
-3. En todos los casos, el Ayuntamiento estará obligado a cuidar el buen aspecto de los lotes del dominio municipal, impidiendo se conviertan en depósitos de basura y desperdicios.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+3. En todos los casos, el Ayuntamiento estará obligado a cuidar el buen aspecto de los lotes del dominio municipal, impidiendo se conviertan en depósitos de basura y desperdicios, en los reglamentos municipales se establecerá respecto a la infracción y sanciones de las personas que tengan lotes baldíos sucios o con maleza que no sean propiedad del municipio.
 
 ### CAPÍTULO XIII. FUSIONES, SUBDIVISIONES Y RELOTIFICACIONES DE PREDIOS
 
@@ -4551,9 +4795,15 @@ Autoridad competente
 
 1. Es de interés público regular el aprovechamiento racional y sustentable de los elementos naturales susceptibles de apropiación, preservando la integridad funcional de los ecosistemas y su capacidad de carga, por lo que, acorde a la función social y ambiental de la propiedad del suelo, todas aquellas subdivisiones de predios rústicos ubicados en áreas no urbanizables o de reserva urbana para el crecimiento o expansión, donde los productos de la operación sean menores a cinco hectáreas, serán nulas de pleno derecho, si no cuentan con las autorizaciones previstas para ello, en la presente Ley.
 
-2. Igualmente serán considerados nulos de pleno derecho, los actos tendientes a disolver copropiedades en áreas rústicas, en donde se identifiquen hayan ejecutado acciones de aprovechamiento que no se hayan sujetado a lo dispuesto en el Título VIII de esta Ley o contravengan lo previsto en los Programas de Ordenamiento Territorial y Desarrollo Urbano y sus derivados, con independencia de las responsabilidades de índole administrativa, civil o penal a las que haya lugar. Las determinaciones y resoluciones que emitan las autoridades jurisdiccionales, deberán ajustarse a las disposiciones previstas en esta Ley.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-3. Por su naturaleza y por previsión de esta Ley, queda prohibida la copropiedad de predios ubicados en áreas no urbanizables, con excepción de actos de sucesión legítima en cuyo caso se aplicará lo dispuesto en el artículo 936 del Código Civil para el Estado de Colima.
+2. Igualmente serán considerados nulos, los actos tendientes a disolver copropiedades en áreas rústicas, en donde se identifiquen hayan ejecutado acciones de aprovechamiento que no se hayan sujetado a lo dispuesto en el Título VIII de esta Ley o contravengan lo previsto en los Programas de Ordenamiento Territorial y Desarrollo Urbano y sus derivados, con independencia de las responsabilidades de índole administrativa, civil o penal a las que haya lugar. Las determinaciones y resoluciones que emitan las autoridades jurisdiccionales, deberán ajustarse a las disposiciones previstas en esta Ley.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+3. Por su naturaleza y por previsión de esta Ley, en la copropiedad de inmuebles ubicados en áreas no urbanizables o urbanizables que no permita la Ley su división, queda prohibido distribuir y acordar el uso específico de áreas entre los copropietarios, debiendo respetarse en todo momento, las disposiciones previstas en los artículos 136, 137, 215 y 289 y demás relativos a la presente Ley, y en su caso, deberá ser aplicables (sic) el artículo 936 del Código Civil para el Estado de Colima.
+
+Los ayuntamientos tendrán la obligación de revisar que los copropietarios respeten las disposiciones previstas en esta Ley, en consecuencia, los interesados que pretendan realizar trasmisiones en copropiedad de inmuebles ubicados en áreas no urbanizables o urbanizables que no permitan (sic) la Ley su división, deberá (sic) solicitar una constancia a la Dirección de Desarrollo Urbano Municipal o su equivalente, en la cual se constate que de la revisión física del predio objeto del contrato no se observa que en el mismo se estén realizando acciones urbanísticas. El personal del Instituto del Registro del Territorio y los adscritos en la competencia de los catastros estatal o municipal no inscribirán los instrumentos jurídicos de copropiedad si no se anexa la constancia citada.
 
 4. Las nulidades establecidas en este artículo podrán ser demandadas por la autoridad administrativa competente o por cualquier persona interesada, sea o no vecino del lugar en que se encuentre el inmueble.
 
@@ -4587,7 +4837,9 @@ II. No requieran el trazo de vías públicas; y
 
 III. La superficie del predio original no exceda los diez mil metros; el proyecto de partición de subdivisión no origine más de cinco fracciones, incluida la fracción resto o el proyecto de partición de relotificación no exceda el número de lotes autorizados en el Proyecto de Integración Urbana.
 
-2. Las solicitudes de relotificación, con proyecto de partición que exceda el número de lotes autorizado en el Proyecto de Integración Urbana o las de subdivisión, con proyecto de partición que exceda las cinco fracciones incluida la fracción resto, citada en el párrafo anterior, sea objeto de solicitudes adicionales, deberán cumplir con lo dispuesto en el artículo 102 de esta Ley.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+2. Las solicitudes de relotificación con proyecto de participación que excedan el número de lotes autorizados en el Proyecto de Integración Urbana o las de subdivisión, con proyecto de participación que exceda las cinco fracciones incluida la fracción resto, citada en el párrafo anterior, sea objeto de solicitudes adicionales, deberán cumplir con lo dispuesto en los artículos 98 y 102 de esta Ley.
 
 3. Las autorizaciones previstas en este Capítulo, sólo se otorgarán a la persona física o moral que acredite ser titular y tener legal posesión del predio objeto de la solicitud.
 
@@ -4595,21 +4847,23 @@ III. La superficie del predio original no exceda los diez mil metros; el proyect
 
 Documentos
 
-1. Las personas interesadas en solicitar al Ayuntamiento, autorización para fusionar, subdividir o relotificar predios urbanos, deberán presentar ante la Dependencia Municipal, los siguientes documentos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JULIO DE 2023)</small>
 
-I. Testimonio que acredite ser titular y tener legal posesión del predio;
+1. Las personas interesadas en solicitar al Ayuntamiento, autorización para fusionar, subdividir o relotificar predios urbanos, deberán presentar ante la Dependencia Municipal además de lo requerido en el artículo 168 para dictámenes de vocación de suelo modalidad II, los siguientes documentos:
 
-II. Documento que acredite la identificación de la persona titular;
+I. (DEROGADA, P.O. 22 DE JULIO DE 2023)
 
-III. Dictamen de Vocación de Suelo en la modalidad correspondiente;
+II. (DEROGADA, P.O. 22 DE JULIO DE 2023)
+
+III. (DEROGADA, P.O. 22 DE JULIO DE 2023)
 
 IV. Anexo gráfico en formato avalado por la autoridad catastral con el correspondiente proyecto de fusión o partición del predio. Tratándose de relotificaciones deberá integrarse la lotificación originalmente aprobada;
 
-V. Documento que acredite la libertad de gravamen de los predios, excepto los inmuebles que provengan del patrimonio federal, estatal o municipal; y
+V. (DEROGADA, P.O. 22 DE JULIO DE 2023)
 
-VI. Previa autorización el documento que acredite el pago de derechos previsto en la Ley de Hacienda del Municipio que corresponda, por concepto de autorización de fusión, subdivisión o relotificación, según corresponda.
+VI. (DEROGADA, P.O. 22 DE JULIO DE 2023)
 
-2. Para estos efectos, el Ayuntamiento verificará en sus registros catastrales que las y los titulares de los predios se encuentren al corriente en el pago del impuesto predial.
+2. (DEROGADO, P.O. 22 DE JULIO DE 2023)
 
 ###### Artículo 293.
 
@@ -5047,7 +5301,9 @@ IV. Se pretendan levantar construcciones que obstruyan la secuencia del paisaje 
 
 Nulidad de licencias
 
-1. Las licencias que se otorguen para obras de edificación sin observar las disposiciones del presente Título, serán nulas de pleno derecho y no producirán efecto legal, implicando responsabilidad para las personas servidoras públicas que las expidan.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+1. Las licencias que se otorguen para obras de edificación sin observar las disposiciones del presente Título, serán nulas y no producirán efecto legal, implicando responsabilidad para las personas servidoras públicas que las expidan.
 
 ###### Artículo 316.
 
@@ -5677,7 +5933,9 @@ IX. Podrá llevar a cabo las obras y servicios que se requieran y demás obligac
 
 Nulidad de actos jurídicos
 
-1. Serán nulos de pleno derecho, los actos jurídicos, convenios o contratos, que celebren los sujetos de esta Ley, que ejecuten acciones, obras y servicios en materia de desarrollo urbano o que tengan por objeto la venta de los lotes de un fraccionamiento, así como la enajenación de los departamentos, viviendas, casas, locales o áreas de que se componga un inmueble sujeto al régimen de propiedad en condominio, sin que previamente se hubieren satisfecho los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JULIO DE 2023)</small>
+
+1. Serán nulos, los actos jurídicos, convenios o contratos, que celebren los sujetos de esta Ley, que ejecuten acciones, obras y servicios en materia de desarrollo urbano o que tengan por objeto la venta de los lotes de un fraccionamiento, así como la enajenación de los departamentos, viviendas, casas, locales o áreas de que se componga un inmueble sujeto al régimen de propiedad en condominio, sin que previamente se hubieren satisfecho los siguientes requisitos:
 
 I. Que, en su caso, se hubieren concluido totalmente las obras de urbanización; y
 
@@ -5775,29 +6033,45 @@ CUARTO. Los fraccionamientos, condominios, conjuntos urbanos o urbanizaciones en
 
 QUINTO. Lo previsto en el artículo 232 de la presente ley no será aplicable en los casos en los que se cuente con un programa parcial de urbanización y su proyecto ejecutivo de urbanización autorizados, así como su respectiva licencia de urbanización.
 
-SEXTO. En un plazo no mayor a doce meses, contado a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado, por conducto de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, deberá emitir el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-SÉPTIMO. Los Ayuntamientos procederán a revisar, adecuar y publicar todas las disposiciones reglamentarias relacionadas con los contenidos de este instrumento en un plazo no mayor de quince meses contado a partir de la vigencia de esta Ley.
+SEXTO. En un plazo no mayor a doce meses, contado a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado, por conducto de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, deberá emitir el Reglamento de esta Ley. Por lo que seguirá vigente el Reglamento de Zonificación del Estado de Colima, publicado en el Periódico Oficial “El Estado de Colima” el 23 de agosto de 1997, en lo que no se oponga a la presente Ley y se emite el nuevo Reglamento. Así como, las disposiciones reglamentarias estatales diversas que derivan de la Ley que se abroga, en tanto no se opongan a la nueva ley y se expidan las nuevas.
 
-OCTAVO. Dentro de los tres meses siguientes a la entrada en vigor de la presente Ley, los Ayuntamientos propondrán los proyectos de modificación a sus leyes hacendarias remitiéndolas al Congreso del Estado para su aprobación proponiendo los derechos y aprovechamientos aplicables derivados de esta Ley.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-NOVENO. En un plazo de dieciocho meses contado a partir de la entrada en vigor de esta Ley, se formularán, o adecuarán, el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, los Programas de Ordenamiento Territorial de Zonas Metropolitanas y los Programas Municipales de Ordenamiento Territorial y Desarrollo Urbano, incluyendo todos los nuevos instrumentos de gestión a los que alude esta Ley, incluidos de manera primordial los instrumentos de participación democrática y ciudadana contenidos en el Título III de la Ley que se expide.
+SÉPTIMO. Los Ayuntamientos procederán a revisar, adecuar y publicar todas las disposiciones reglamentarias relacionadas con los contenidos de este instrumento en un plazo no mayor de 12 meses contado a partir de la vigencia del presente Decreto.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+OCTAVO. Dentro de los tres meses siguientes a la entrada en vigor de la presente Ley, los Ayuntamientos propondrán los proyectos de modificación a sus leyes hacendarias remitiéndolas al Congreso del Estado para su aprobación proponiendo los derechos y aprovechamientos aplicables derivados del presente Decreto.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+NOVENO. En un plazo de quince meses contado a partir de la entrada en vigor del presente Decreto, se formularán, o adecuarán, el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, los Programas de Ordenamiento Territorial de Zonas Metropolitanas y los Programas Municipales de Ordenamiento Territorial y Desarrollo Urbano, incluyendo todos los nuevos instrumentos de gestión a los que alude esta Ley, incluidos de manera primordial los instrumentos de participación democrática y ciudadana contenidos en el Título III de la Ley que se expide.
 
 DÉCIMO. Dentro del plazo de un mes, contado a partir de la entrada en vigor de esta Ley, el Poder Ejecutivo del Estado y los Ayuntamientos deberán convocar a las sesiones de instalación de los Consejos Estatal y Municipales de Ordenamiento Territorial y Desarrollo Urbano.
 
 Los Consejos Estatales y Municipales anteriormente referidos, deberán dentro de los 30 días posteriores a su instalación deberán emitir su respectivo Reglamento.
 
-DÉCIMO PRIMERO. En un plazo de seis meses, contado a partir de la entrada en vigor de esta Ley, la Secretaría en coordinación con las dependencias municipales elaborarán la guía metodológica y los lineamientos técnicos en los que se detalle el contenido mínimo del estudio de impacto territorial y urbano, y una vez terminados la Secretaría los emitirá y publicará.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+DÉCIMO PRIMERO. En un plazo de 5 meses, contado a partir de la entrada en vigor de este Decreto, la Secretaría en coordinación con las dependencias municipales elaborarán la guía metodológica y los lineamientos técnicos en los que se detalle el contenido mínimo del estudio de impacto territorial y urbano, y una vez terminados la Secretaría los emitirá y publicará.
 
 Así mismo, la Secretaría y los Ayuntamientos del plazo referido en este transitorio, elaborarán las especificaciones técnicas y procedimientos constructivos a los que se sujetarán todas las obras de urbanización que se autoricen para nuevos desarrollos, en sus respectivos reglamentos de zonificación, construcción o el correspondiente.
 
-DÉCIMO SEGUNDO. En un plazo no mayor de dieciocho meses, contado a partir de la entrada en vigor de esta Ley, el Instituto para el Registro del Territorio del Estado de Colima en coordinación con la Secretaría constituirán el Sistema de Información Territorial y Urbano del Estado de Colima.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+DÉCIMO SEGUNDO. En un plazo no mayor de 15 meses, contado a partir de la entrada en vigor de este Decreto, el Instituto para el Registro del Territorio del Estado de Colima en coordinación con la Secretaría constituirán el Sistema de Información Territorial y Urbano del Estado de Colima.
 
 DÉCIMO TERCERO. En un plazo de seis meses, contado a partir de la entrada en vigor de esta Ley, se constituirá el Comité Estatal de Peritos, quien establecerá y emitirá los lineamientos para la certificación de especialistas en gestión territorial dentro del plazo establecido en este transitorio.
 
-DÉCIMO CUARTO. Se otorga un plazo de tres meses, contado a partir de la entrada en vigor de esta Ley, para realizar las acciones legislativas necesarias para reformar el Código Penal con el objeto de que se configuren como delitos las conductas de los sujetos privados o públicos que promuevan o se beneficien con la ocupación irregular de áreas o predios.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-DÉCIMO QUINTO. En un plazo no mayor de tres meses, contado a partir de la entrada en vigor de esta Ley, el Poder Legislativo deberá armonizar la legislación estatal de conformidad con el contenido del presente Decreto de Ley.
+DÉCIMO CUARTO. Se otorga un plazo de cuatro meses, contado a partir de la entrada en vigor de este Decreto, para realizar las acciones legislativas necesarias para reformar el Código Penal con el objeto de que se configuren como delitos las conductas de los sujetos privados o públicos que promuevan o se beneficien con la ocupación irregular de áreas o predios.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+DÉCIMO QUINTO. En un plazo no mayor de cuatro meses, contado a partir de la entrada en vigor de este Decreto, el Poder Legislativo deberá armonizar la legislación estatal de conformidad con el contenido del presente Decreto de Ley.
 
 La Gobernadora del Estado dispondrá se publique, circule y observe.
 
@@ -5840,3 +6114,13 @@ LA SECRETARIA GENERAL DE GOBIERNO
 MA GUADALUPE SOLÍS RAMÍREZ
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 336.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se considerarán como válidos los actos, convenios y contratos celebrados a partir de la entrada en vigor de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Colima, siempre que cumplan con lo dispuesto en el presente decreto.
