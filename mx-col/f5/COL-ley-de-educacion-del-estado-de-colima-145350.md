@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-145350"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-25"
-last_updated: "2023-03-04"
+last_updated: "2023-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el miércoles 25 de noviembre de 2020.
 
@@ -211,6 +211,10 @@ Se deberán incluir acciones encaminadas a la separación, reutilización y reci
 
 V. El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres del Estado de Colima.
 
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+VI. El respeto, trato digno y protección de los animales.
+
 ###### Artículo 12.
 
 Principios de la educación
@@ -277,9 +281,15 @@ VIII. Inculcar el respeto por la naturaleza, a través de la generación de capa
 
 IX. Impulsar el desarrollo de habilidades científicas y tecnológicas a través de fomentar aptitudes y conocimientos necesarios para realizar tareas matemáticas, científicas y de la tecnología de la información;
 
-X. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y del Estado de Colima, y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
 
-XI. Todos aquellos que contribuyan al bienestar y desarrollo del país y de Colima.
+X. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y del Estado de Colima;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+XI. Promover y fomentar los valores de cuidado, atención y protección a los animales, a través de la difusión de material didáctico, información y actividades pedagógicas, para prevenir y erradicar su maltrato, y
+
+XII. Todos aquellos que contribuyan al bienestar y desarrollo del país y de Colima.
 
 ###### Artículo 14.
 
@@ -2316,3 +2326,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Titular del Ejecutivo del Estado, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto, adecuará el o los reglamentos que impacten, con respecto al contenido del presente decreto, con fundamento en lo establecido por la fracción IV del artículo 58 de la Constitución Política del Estado Libre y Soberano de Colima.
 
 TERCERO.- El Titular de la Secretaría de Educación y Cultura deberá realizar las gestiones necesarias, con la finalidad de contemplar, planear e implementar los programas que correspondan al presente decreto. Así mismo, en conjunto con la Secretaría de Salud y demás entidades que correspondan, deberán garantizar la operación y prácticas de dichos programas para los alumnos inscritos en los planteles escolares.
+
+P.O. 22 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “NÚM. 334.- POR EL QUE SE ADICIONA LA FRACCIÓN VI AL NUMERAL 1 DEL ARTÍCULO 11 Y LA FRACCIÓN XI AL NUMERAL 1 DEL ARTÍCULO 13 HACIENDO EL CORRIMIENTO DE LA SUBSECUENTE FRACCIÓN, SE REFORMA LA FRACCIÓN X DEL NUMERAL 1 DEL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
