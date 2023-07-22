@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2023-05-23"
+last_updated: "2023-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -178,6 +178,10 @@ XIII. Áreas y predios de conservación ecológica: Las tierras, aguas y bosques
 XIV. Asentamiento humano: Radicación de un grupo de personas, con el conjunto de sus sistemas de convivencia en un área localizada, considerando en la misma los elementos naturales y las obras materiales que la integran;
 
 XV. Autorización: Acto regulativo mediante el cual se aprueba un plan, programa, proyecto o estudio, para su aplicación o a fin de ejecutar las obras o realizar las acciones urbanísticas objeto del presente ordenamiento;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+XV Bis. Bosque Urbano: Es un área de valor ambiental que se localiza en el suelo urbano, poblado de formaciones vegetales predominantemente árboles. Son espacios vivos inmersos en un ecosistema propio al igual que su biodiversidad: agua, suelo, clima, paisajes, plantas, fauna y organismos asociados, que se desarrollan en el mismo o se introducen para mejorar su valor ambiental, cuya extensión y características contribuyen a mantener y mejora la calidad del ambiente.
 
 XVI. Calidad de vida urbana: Bienestar individual y social generado a partir de la implementación de políticas públicas eficaces de desarrollo urbano;
 
@@ -6726,3 +6730,9 @@ P.O. 23 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 22 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29213/LXIII/23 DEL CONGRESO DEL ESTADO QUE ADICIONA AL ARTÍCULO 5 LA FRACCIÓN XV BIS, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO Y SE ADICIONA AL ARTÍCULO 5 LA FRACCIÓN II BIS DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO”.]
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
