@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2023-05-15"
+last_updated: "2023-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -351,7 +351,9 @@ VIII. No haber sido reconocido por el H. Congreso del Estado en la categoría de
 
 La entrega del Premio Estatal a los Adultos Mayores se hará en Sesión Solemne que al efecto convoque el H. Congreso del Estado, preferentemente el día 28 de agosto de cada año, fecha en que se celebra el Día Nacional del Adulto Mayor, extendiendo invitación a los Titulares de los Poderes Ejecutivo y Judicial del Estado, Secretarías de Estado, Delegaciones Federales, DIF estatal y municipales, Presidentes y Presidentas municipales, al Instituto para la Atención de los Adultos Mayores, representantes de partidos políticos, homenajeados, familiares, organismos públicos, sociales y privados, instituciones educativas y público en general.
 
-El Premio Estatal a los Adultos Mayores consistirá, para cada categoría, en el otorgamiento de un estímulo económico consistente en el valor de 50 Unidades de Medida y Actualización. En caso de que la Unidad de Medida y Actualización desaparezca, se adoptará el esquema que la sustituya. En el mismo acto se hará entrega de un reconocimiento por escrito.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+El Premio Estatal a los Adultos Mayores consistirá, para cada categoría, en el otorgamiento de un estímulo económico conforme a la disponibilidad presupuestaria de los entes convocantes. En el mismo acto se hará entrega de un reconocimiento por escrito.
 
 Sólo en la categoría deportiva, la premiación podrá ser individual o en equipo, dependiendo de la disciplina de que se trate. En el caso de ser un equipo el merecedor al premio, el estímulo económico se entregará de conformidad con la suficiencia presupuestal, y el reconocimiento será de carácter grupal.
 
@@ -488,3 +490,9 @@ P.O. 15 DE MAYO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 22 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 337.- POR EL QUE SE REFORMA EL PÁRRAFO DÉCIMO DEL ARTÍCULO 10 DE LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES".]
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
