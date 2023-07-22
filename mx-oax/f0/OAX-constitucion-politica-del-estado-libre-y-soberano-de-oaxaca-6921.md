@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2023-04-13"
+last_updated: "2023-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1533,9 +1533,9 @@ Las Magistradas y Magistrados del Tribunal Superior de Justicia, la Secretaria o
 
 Para los efectos de esta última disposición se consideran también como militares en servicio activo, los jefes y oficiales de las fuerzas de seguridad pública del Estado, cualesquiera que sea su denominación.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-La Secretaria o Secretario General del Tribunal Estatal Electoral; la persona Titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca y los Auditores Especiales; los titulares del Instituto de Acceso a la Información Pública y Protección de Datos Personales de Oaxaca; la Presidenta o Presidente, las Consejeras y los Consejeros, la Visitadora o el Visitador General y la Secretaria Ejecutiva o Secretario Ejecutivo de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, así como las Magistradas y Magistrados del Tribunal de Justicia Administrativa del Estado de Oaxaca, no podrán ser electas o electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
+La Secretaria o Secretario General del Tribunal Estatal Electoral; la persona Titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca y los Auditores Especiales; los titulares del Instituto de Acceso a la Información Pública y Protección de Datos Personales de Oaxaca; la Presidenta o Presidente, las Consejeras y los Consejeros, la Visitadora o el Visitador General y la Secretaria Ejecutiva o Secretario Ejecutivo de !a Defensoría de los Derechos Humanos del Pueblo de Oaxaca, así como las Magistradas y Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, no podrán ser electas o electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
 
 ###### ARTICULO 36.
 
@@ -1957,9 +1957,9 @@ XXVII Bis. Formular la solicitud ante el Instituto Estatal Electoral y de Partic
 
 XXVIII. Elegir a los Magistrados del Tribunal Superior de Justicia, de conformidad con lo establecido por el artículo 102 de esta Constitución;
 
-> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
 
-XXVIII Bis. Ratificar las designaciones de los Magistrados del Tribunal de Justicia Administrativa del Estado de Oaxaca, de conformidad con lo establecido por el artículo 114 QUÁTER de esta Constitución.
+XXVIII Bis. Ratificar las designaciones de los Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, de conformidad con lo establecido por el artículo 114 QUÁTER de esta Constitución;
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2283,9 +2283,9 @@ En el caso de las recomendaciones, como resultado del procedimiento de fiscaliza
 
 La Auditoría Superior de Fiscalización del Estado de Oaxaca, podrá realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales y municipales, a través del Informe del Resultado que se rendirá en los términos que disponga la ley.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-Sin perjuicio de lo previsto en el segundo párrafo del presente artículo, en las situaciones que determine la Ley, derivado de denuncias la Auditoría Superior de Fiscalización del Estado de Oaxaca, previa autorización de su Titular, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizables, así como respecto de ejercicios anteriores. Las entidades fiscalizables proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley reglamentaria y, en su caso, de incumplimiento a estos requerimientos, serán aplicables las sanciones previstas en la misma. La Auditoría Superior de Fiscalización del Estado de Oaxaca rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones o responsabilidades que correspondan ante el Tribunal de Justicia Administrativa del Estado de Oaxaca, la Fiscalía Especializada en Materia de Combate a la Corrupción o las autoridades competentes.
+Sin perjuicio de lo previsto en el segundo párrafo del presente artículo, en las situaciones que determine la Ley, derivado de denuncias la Auditoría Superior de Fiscalización del Estado de Oaxaca, previa autorización de su Titular, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizables, así como respecto de ejercicios anteriores. Las entidades fiscalizables proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley reglamentaria y, en su caso, de incumplimiento a estos requerimientos, serán aplicables las sanciones previstas en la misma. La Auditoría de Fiscalización del Estado de Oaxaca rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones o responsabilidades que correspondan ante el Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, la Fiscalía Especializada en Materia de Combate a la Corrupción o las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
@@ -2307,9 +2307,9 @@ II. Fiscalizar los recursos provenientes de las aportaciones que en términos de
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y federales; así como efectuar visitas domiciliarias, con el único objeto de exigir la exhibición de libros, papeles o archivos indispensables, sujetándose a las leyes y a las formalidades establecidas para los cateos;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
 
-IV. Ejercer las facultades y atribuciones que le otorguen otras leyes generales y locales en materia de Contabilidad Gubernamental, Combate a la Corrupción y Responsabilidades Administrativas. Además, sí derivado de sus investigaciones, en caso de que existan elementos de presunción de violaciones a la ley, promover los procedimientos de responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado de Oaxaca.
+IV. Ejercer las facultades y atribuciones que le otorguen otras leyes generales y locales en materia de Contabilidad Gubernamental, Combate a la Corrupción y Responsabilidades Administrativas. Además, si derivado de sus investigaciones, en caso de que existan elementos de presunción de violaciones a la ley, promover los procedimientos de responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca.
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2547,9 +2547,9 @@ VIII. Conceder indulto a reos sentenciados por delitos del orden común;
 
 IX. Excitar a los Poderes de la Unión a que presten su protección al Estado en los términos de la Fracción XLIX del Artículo 59 de esta Constitución, siempre que la Legislatura no estuviere reunida;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
 
-X. Emitir la convocatoria de Magistrados del Tribunal Superior de Justicia de conformidad con lo establecido en el artículo 102 de esta Constitución. Así mismo, designar a los Magistrados del Tribunal de Justicia Administrativa del Estado de Oaxaca, de conformidad con lo establecido en el artículo 114 QUÁTER de esta Constitución;
+X. Emitir la convocatoria de Magistrados del Tribunal Superior de Justicia de conformidad con lo establecido en el artículo 102 de esta Constitución. Así mismo, designar a los Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, de conformidad con lo establecido en el artículo 114 QUÁTER de esta Constitución.
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -2559,9 +2559,9 @@ XI. Nombrar a los miembros del Consejo Tutelar para Menores en los términos que
 
 XII. Nombrar a los miembros de la Junta de Conciliación Agraria;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
 
-XIII. Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia y de los Magistrados del Tribunal de Justicia Administrativa del Estado de Oaxaca, haciéndolas del conocimiento del Congreso del Estado o de la Diputación Permanente, para la aprobación, en su caso;
+XIII. Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia y de los Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, haciéndolas del conocimiento del Congreso del Estado o de la Diputación Permanente, para la aprobación, en su caso;
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -3793,29 +3793,43 @@ VI. Garantizar el respeto y fortalecimiento de los sistemas e instituciones pol�
 
 VII. Las demás que le atribuyan la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Partidos Políticos, la Ley General de Instituciones y Procedimientos Electorales, esta Constitución y las leyes.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE ENERO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 2023)</small>
 
-### CAPÍTULO III
+### CAPÍTULO III. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA
 
-DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2023)</small>
+
+ARTICULO 114 QUÁTER.- El Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, es la máxima autoridad jurisdiccional en materia de fiscalización, rendición de cuentas, responsabilidad de los servidores públicos, combate a la corrupción e impartición de Justicia Administrativa, estará dotado de plena autonomía para dictar sus fallos, establecer su organización, funcionamiento, procedimientos y su presupuesto.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+Estará integrado por una Sala Superior y cuatro Salas Unitarias de Primera Instancia; las resoluciones de la Sala Superior serán definitivas e inatacables en el orden local.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+La Sala Superior del Tribunal se compondrá de tres Magistrados y actuará en Pleno.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
 
-ARTICULO 114 QUÁTER. El Tribunal de Justicia Administrativa del Estado de Oaxaca, es la máxima autoridad jurisdiccional en materia de fiscalización, rendición de cuentas, responsabilidad de los servidores públicos, combate a la corrupción e impartición de Justicia Administrativa, estará dotado de plena autonomía para dictar sus fallos, establecer su organización, funcionamiento, procedimientos y su presupuesto.
-
-Estará integrado por una Sala Superior y Salas Unitarias de Primera Instancia; las resoluciones de la Sala Superior serán definitivas e inatacables en el orden local.
-
-La Sala Superior del Tribunal se compondrá de cinco Magistrados y actuará en Pleno.
-
 Los Magistrados de la Sala Superior serán designados por el Gobernador del Estado y ratificados por el voto de las dos terceras partes de los miembros presentes de la Legislatura. Durarán en su encargo siete años improrrogables y serán sustituidos de manera escalonada, en los términos que establezca la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
 
 Los Magistrados de este Tribunal elegirán a su presidente, para un período de dos años, con posibilidad de ser reelecto para otro período igual.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
+
 Los Magistrados de las Salas Unitarias de Primera Instancia, serán designados por el Gobernador del Estado y ratificados por mayoría de los miembros presentes de la Legislatura. Durarán en su encargo cinco años pudiendo ser considerados para nuevos nombramientos.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
 
 Expedirán su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
+
 La Ley de la materia establecerá las normas para su organización y funcionamiento; el procedimiento y los recursos contra sus resoluciones, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad; y los criterios para instalar los juzgados y salas especializadas en la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
 
 A) Para ser Magistrado de Sala Superior y de las Salas Unitarias de Primera Instancia del Tribunal de Justicia Administrativa del Estado de Oaxaca, se necesita:
 
@@ -3823,11 +3837,19 @@ I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos pol
 
 II. Tener cuando menos treinta y cinco años cumplidos el día de su nombramiento;
 
-Poseer el día del nombramiento, con antigüedad mínima de diez años, título y cédula profesionales de Licenciado en Derecho, expedidas por la autoridad o institución legalmente facultada para ello;
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+Poseer el día del nombramiento, con antigüedad mínima de cinco años, título y cédula profesionales de Licenciado en Derecho, expedidas por la autoridad o institución legalmente facultada para ello;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2018)</small>
 
 III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
+
 IV. Haber residido en la República Mexicana durante los dos años anteriores al día del nombramiento; y
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
 
 V. No haber sido Secretario de Despacho, Fiscal General del Estado de Oaxaca o Diputado Local, en el año anterior a su nombramiento.
 
@@ -3835,19 +3857,35 @@ V. No haber sido Secretario de Despacho, Fiscal General del Estado de Oaxaca o D
 
 VI. No haber sido condenada o condenado mediante resolución forme (sic) por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de los (sic) dispuesto en la ley de la materia.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
+
 Los nombramientos de los Magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
 
 No podrán reunirse en el Tribunal dos o más Magistrados que sean parientes entre sí por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
+
 Durante el ejercicio de su encargo no podrán ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público; excepto la docencia o la investigación académica. Sólo podrán ser removidos de conformidad con lo dispuesto en esta Constitución y las leyes en la materia.
 
-Las personas que hayan ocupado el cargo de Magistrado, de Sala Superior o de las Salas Unitarias de Primera Instancia del Tribunal de Justicia Administrativa del Estado de Oaxaca, no podrán, dentro del año siguiente a la fecha de su retiro, actuar como patronos, abogados o representantes, en cualquier proceso ante los órganos de dicho Tribunal.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-Los impedimentos de este artículo serán aplicables a los servidores públicos del Tribunal de Justicia Administrativa del Estado de Oaxaca, que gocen de licencia. La infracción a lo previsto en el presente párrafo será sancionada con la pérdida del respectivo cargo, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
+Las personas que hayan ocupado el cargo de Magistrado, de Sala Superior o de las Salas Unitarias de Primera Instancia del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, no podrán, dentro del año siguiente a la fecha de su retiro, actuar como patronos, abogados o representantes, en cualquier proceso ante los órganos de dicho Tribunal.
 
-Para las designaciones a que se refiere el presente artículo, el Gobernador Constitucional del Estado, acompañará una justificación de la idoneidad de las propuestas, para lo cual hará constar la trayectoria profesional y académica de la persona propuesta, a efecto de que sea valorada dentro del procedimiento de ratificación por parte del Congreso del Estado. Para ello, conforme a la normatividad de ese Órgano Legislativo, se desahogarán las comparecencias correspondientes, en que se garantizará la publicidad y transparencia de su desarrollo.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+Los impedimentos de este artículo serán aplicables a los servidores públicos del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, que gocen de licencia. La infracción a lo previsto en el presente párrafo será sancionada con la pérdida del respectivo cargo, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+Para las designaciones a que se refiere el presente artículo, el Gobernador Constitucional del Estado, acompañará una justificación de la idoneidad de las propuestas, para lo cual hará constar la trayectoria profesional y académica de la persona propuesta, a efecto de que sean valoradas al momento de la ratificación por parte del Congreso del Estado. Para ello, la Junta de Coordinación Política someterá de manera directa las propuestas que haga el Ejecutivo ante el pleno.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
 
 Las Comisiones Legislativas encargadas del dictamen correspondiente, deberán solicitar información a las autoridades, relativas a antecedentes penales y/o administrativos que consideren necesaria para acreditar la idoneidad de las designaciones.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
 
 B) La organización, administración, vigilancia y disciplina en este Tribunal se establecerá en los términos que disponga su Ley Orgánica y tendrá las siguientes atribuciones:
 
@@ -3863,15 +3901,29 @@ IV. Determinar a los responsables el pago de las indemnizaciones y sanciones pec
 
 V. Imponer a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios a que refiere la fracción anterior. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá decretarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública, siempre que se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva;
 
-VI. Resolver las controversias que se susciten entre la Administración Pública Estatal y los particulares. Así como las que se susciten entre los Municipios entre sí o entre éstos y el Gobierno del Estado, como consecuencia de los convenios que celebren para el ejercicio de funciones, de ejecución de obras o prestación de servicios públicos municipales; la ley establecerá las normas para su organización y funcionamiento, el procedimiento y los recursos contra sus resoluciones; con sujeción a los principios de igualdad, publicidad, audiencia y legalidad, y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
 
-VII. Conocer de las controversias que se susciten entre los particulares y la Administración Pública Municipal, cuando no haya organismos o disposiciones de carácter municipal que diriman dichas controversias. Las disposiciones que versen sobre tales cuestiones deberán ser aprobadas por el Congreso del Estado.
+VI. Resolver las controversias que se susciten entre la Administración Pública Estatal y los particulares. Así como las que se susciten entre los Municipios entre sí o entre éstos y el Gobierno del Estado, como consecuencia de los convenios que celebren para el ejercicio de funciones, de ejecución de obras o prestación de servicios públicos municipales; la ley establecerá las normas para su organización y funcionamiento, el procedimiento y los recursos contra sus resoluciones; con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+VII. Conocer y resolver las controversias que se susciten entre las Agencias y los Ayuntamientos Municipales respecto a la asignación del presupuesto de egresos que les correspondan en términos de lo que establece la legislación local; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+VIII. Conocer de las controversias que se susciten entre los particulares y la Administración Pública Municipal, cuando no haya organismos o disposiciones de carácter municipal que diriman dichas controversias. Las disposiciones que versen sobre tales cuestiones deberán ser aprobadas por el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
 
 Las resoluciones que emita el Tribunal deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
+
 En los casos que involucren personas, comunidades, municipios y pueblos indígenas y afromexicano, este tribunal al resolver observará los sistemas normativos y las determinaciones de las instituciones de dichos pueblos.
 
-Salvo por conclusión del período y en el ejercicio del mismo, los Magistrados de la Sala Superior y de las Salas Unitarias, del Tribunal de Justicia Administrativa del Estado de Oaxaca, sólo podrán ser removidos de sus cargos por las causas graves que señale la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y conforme a lo prescrito en el artículo 117 de esta Constitución.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+Salvo por conclusión del período y en el ejercicio del mismo, los Magistrados de la Sala Superior y de las Salas Unitarias, del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, sólo podrán ser removidos de sus cargos por las causas graves que señale la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y conforme a lo prescrito en el artículo 117 de esta Constitución.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -3889,9 +3941,9 @@ Para los efectos de las responsabilidades a que alude este título se reputarán
 
 El Gobernador del Estado, para los efectos de este Título, sólo podrá ser responsable por la comisión de delitos graves del orden común y por violación expresa del Artículo 81 de esta Constitución sin perjuicio de la responsabilidad política que se consigna en los términos del Artículo 110 de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa del Estado de Oaxaca, los Consejeros de la Judicatura, la persona titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca y los Auditores Especiales, los Titulares de las Secretarías y de los órganos autónomos nombrados por el Congreso, el Fiscal General del Estado de Oaxaca y los fiscales especializados en Delitos Electorales y en Materia de Combate a la Corrupción y los integrantes de los órganos de autoridad de los demás Órganos Autónomos, son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes. generales y federales, a esta Constitución y a las leyes que de ellas emanen, así como por el manejo indebido de fondos, recursos del Estado y deuda pública.
+Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, los Consejeros de la Judicatura, la persona titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca y los Auditores Especiales, los Titulares de las Secretarias y de los órganos autónomos nombrados por el Congreso, el Fiscal General del Estado de Oaxaca y los fiscales especializados en Delitos Electorales y en Materia de Combate a la Corrupción y los integrantes de los órganos de autoridad de los demás Órganos Autónomos, son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes generales y federales, a esta Constitución y a las leyes que de ellas emanen, así como por el manejo indebido de fondos, recursos del Estado y deuda pública.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3929,17 +3981,17 @@ III. Se aplicarán sanciones administrativas a los servidores públicos por los 
 
 Las sanciones administrativas consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas que deberán tomar en consideración los daños y perjuicios patrimoniales causados. En los casos de corrupción la sanción económica considerará además los beneficios obtenidos. En ningún caso las sanciones excederán de tres tantos los beneficios obtenidos o los daños y perjuicios causados. La ley establecerá los procedimientos para la investigación y sanción de dichos actos.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-Las faltas administrativas serán investigadas por los órganos internos de control de los poderes, órganos autónomos y municipios, y las calificadas como graves serán resueltas por el Tribunal de Justicia Administrativa del Estado de Oaxaca. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los propios órganos internos de control.
+Las faltas administrativas serán investigadas por los órganos internos de control de los poderes, órganos autónomos y municipios, y las calificadas como graves serán resueltas por el Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los propios órganos internos de control.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
 
 La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas graves, que realicen los órganos internos de control.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-Los entes públicos estatales tendrán órganos internos de control con las facultades que determine la ley para prevenir, observar e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Oaxaca; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción a que se refiere esta Constitución.
+Los entes públicos estatales tendrán órganos internos de control con las facultades que determine la ley para prevenir, observar e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delitos ante la Fiscalía Especializada en Combate a la Corrupción a que se refiere esta Constitución.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -3957,11 +4009,11 @@ La indemnización por error judicial constituye un derecho humano de los particu
 
 También será responsabilidad del Estado, los daños y perjuicios ocasionados por los servidores públicos del Poder Judicial del Estado, que dicten prisión preventiva o mantengan en prisión preventiva de manera injustificada a una persona, quien en este caso podrá exigir el pago de la indemnización correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 117.
 
-Podrán ser sujetos de juicio político el Gobernador del Estado, los Diputados de la Legislatura Local, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa del Estado de Oaxaca, los Consejeros de la Judicatura, la persona Titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca y los Auditores Especiales, los Titulares de las Secretarías y de los órganos autónomos nombrados por el Congreso, el Fiscal General del Estado de Oaxaca y los fiscales especializados en Delitos Electorales y en Materia de Combate a la Corrupción, los Magistrados del Tribunal Estatal Electoral de Oaxaca y los integrantes de los órganos de autoridad de los demás Órganos Autónomos.
+Podrán ser sujetos de juicio político el Gobernador del Estado, los Diputados de la Legislatura Local, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, los Consejeros de la Judicatura, la persona Titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca y los Auditores especiales, los Titulares de las Secretarias y de los órganos autónomos nombrados por el Congreso, el Fiscal General del Estado de Oaxaca y los fiscales especializados en Delitos Electorales y en Materia de Combate a la Corrupción, los Magistrados del Tribunal Estatal Electoral de Oaxaca y los integrantes de los órganos de autoridad de los demás Órganos Autónomos.
 
 (REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
@@ -3997,9 +4049,9 @@ Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
 El Sistema Estatal de Combate a la Corrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoria Superior de Fiscalización del Estado de Oaxaca; de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría de la Contraloría y Transparencia Gubernamental; del Tribunal de Justicia Administrativa del Estado de Oaxaca; Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca, así como un representante del Consejo de la Judicatura y otro del Consejo de Participación Ciudadana;
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior de Fiscalización del Estado de Oaxaca; de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría de la Contraloría y Transparencia Gubernamental; del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca; Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca, así como un representante del Consejo de la Judicatura y otro del Consejo de Participación Ciudadana;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
 
@@ -4023,9 +4075,9 @@ e) La elaboración de un informe anual que contenga los avances y resultados del
 
 Los órganos internos de control de los poderes, organismos autónomos y municipios, así como la Auditoría Superior de Fiscalización del Estado de Oaxaca, desarrollarán programas y acciones para difundir y promover la ética y la honestidad en el servicio público, así como la cultura de la legalidad.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
 
-Las autoridades del Estado y de los Municipios colaborarán y prestarán auxilio a los órganos internos de control de los poderes, organismos autónomos, así como a la Auditoría Superior de Fiscalización del Estado de Oaxaca, de la Fiscalía Especializada en Materia de Combate a la Corrupción y del Tribunal de Justicia Administrativa del Estado de Oaxaca, en materia de combate a la corrupción en los términos que fije la ley.
+Las autoridades del Estado y de los Municipios colaborarán y prestarán auxilio a los órganos internos de control de los poderes, organismos autónomos, así como la Auditoría Superior de Fiscalización del Estado de Oaxaca, de la Fiscalía Especializada en Materia de Combate a la Corrupción y del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, en materia de combate a la corrupción en los términos que fije la ley.
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
@@ -6570,3 +6622,27 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y la Gaceta Parlamentaria.
 
 TERCERO. Se autoriza al Gobernador del Estado de Oaxaca la suscripción del Convenio Amistoso de Límites Territoriales entre los Estados Libres y Soberanos de Chiapas y Oaxaca, respecto de la parte sur del lindero interestatal, a fin de reconocer los límites actuales entre los Municipios de San Pedro Tapanatepec y San Francisco del Mar, en el estado de Oaxaca, y los Municipios de Arriaga y Tonalá, en el estado de Chiapas.
+
+P.O. 22 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1486.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 35; LA FRACCIÓN XXVIII BIS DEL ARTÍCULO 59; EL PÁRRAFO CUARTO DE LA FRACCIÓN I Y LA FRACCIÓN IV DEL ARTÍCULO 65 BIS; LAS FRACCIONES X Y XIII DEL ARTÍCULO 79; LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 114 QUÁTER; EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II, Y LOS PÁRRAFOS QUINTO, SEXTO Y SÉPTIMO DEL APARTADO A), LAS FRACCIONES VI Y VII Y EL PÁRRAFO CUARTO DEL APARTADO B) DEL ARTÍCULO 114 QUÁTER; EL TERCER PÁRRAFO DEL ARTÍCULO 115; LOS PÁRRAFOS TERCERO Y QUINTO DE LA FRACCIÓN III DEL ARTÍCULO 116; EL PÁRRAFO PRIMERO DEL ARTÍCULO 117; LA FRACCIÓN I Y PÁRRAFO TERCERO DEL ARTÍCULO 120; Y SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO III PARA AHORA LLAMARSE "DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA; Y SE ADICIONA LA FRACCIÓN VIII AL APARTADO B) DEL ARTÍCULO 114 QUATER; PERTENECIENTES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+CUARTO. A partir del inicio de vigencia de este Decreto, el Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, sustituirá las funciones que desempeñaba el Tribunal de Justicia Administrativa del Estado de Oaxaca. Toda referencia legal al Tribunal de Justicia Administrativa del Estado de Oaxaca, se entenderá referida al Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca.
+
+QUINTO. Una vez que entre en vigor el presente Decreto, dejarán de surtir efectos los nombramientos de los magistrados integrantes del Tribunal de Justicia Administrativa del Estado de Oaxaca. Por consiguiente, a través de un programa de saneamiento, deberán realizarse las indemnizaciones correspondientes, conforme al plazo que le restaba fungir a cada magistrado, de acuerdo a la suficiencia presupuestal que tenga el órgano constitucionalmente autónomo en términos de lo establecido en el artículo 42 de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria.
+
+SEXTO. A partir del inicio de vigencia del presente Decreto, el Titular del Poder Ejecutivo realizará la designación de las personas que han de integrar el Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, debiendo ratificar dichas designaciones el Honorable Congreso del Estado, en términos de lo establecido en los artículos 59 fracción XXVIII Bis, 79 fracción X y 114 QUÁTER de esta Constitución.
+
+SÉPTIMO. El Honrable Congreso del Estado, deberá emitir la Ley Orgánica del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, dentro del plazo de sesenta días naturales posteriores a la publicación del presente Decreto, misma que deberá comprender las reformas aprobadas en el presente Decreto.
+
+Hasta en tanto se emitan las nuevas disposiciones, los nuevos integrantes del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, deberán apegar sus funciones en lo que corresponda a la legislación vigente.
+
+OCTAVO. La reestructuración y trasferencias de los recursos humanos, financieros y materiales del Tribunal de Justicia Administrativa del Estado de Oaxaca para dar paso a la instalación del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, deberá contemplarse dentro de la Ley Orgánica del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca.
+
+NOVENO. El Honorable Congreso del Estado deberá realizar las acciones necesarias para que, a partir del 2024, se asigne el presupuesto de egresos al Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, reasignando los recursos que le correspondían al Tribunal de Justicia Administrativa del Estado de Oaxaca, con el objeto de que se implemente correctamente el presente Decreto y se otorgue su autonomía constitucional.
