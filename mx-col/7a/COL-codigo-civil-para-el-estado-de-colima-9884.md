@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2023-06-10"
+last_updated: "2023-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -973,17 +973,23 @@ ART. 56.- (DEROGADO, P.O. 3 DE JUNIO DE 2017)
 
 ART. 57.- En las poblaciones en que no haya oficial del Registro, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará la constancia respectiva, que los interesados llevarán al oficial del Registro que corresponda, para que asiente el acta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2023)</small>
+
+ART. 58.- El acta de nacimiento se registrará con asistencia de dos testigos que identificarán al padre, a la madre, o a ambos cuando éstos sean quienes presenten al hijo, declararán sobre la nacionalidad de éstos y podrán ser designados por los interesados; el acta contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre o nombres, los apellidos de los padres en el orden que de común acuerdo determinen pudiendo cada progenitor elegir otorgar su primer o segundo apellido a su hija o hijo, o los que le corresponda, la mención de si se presenta vivo o muerto, la impresión dactilar y la Clave Única del Registro Nacional de Población que se asigne al registrado.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+
+El orden de los apellidos que sea asignado para el primer hijo o hija, deberá prevalecer para los posteriores que tuvieren los mismos padres. Lo anterior con el fin de mantener un sistema que brinde seguridad jurídica a los descendientes.
+
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
-
-ART. 58.- El acta de nacimiento se registrará con asistencia de dos testigos que identificarán al padre, a la madre, o a ambos cuando éstos sean quienes presenten al hijo, declararán sobre la nacionalidad de éstos y podrán ser designados por los interesados; el acta contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre o nombres, los apellidos de los padres en el orden que de común acuerdo determinen, o los que le corresponda, la mención de si se presenta vivo o muerto, la impresión dactilar y la Clave Única del Registro Nacional de Población que se asigne al registrado.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
-
-El orden de los apellidos que sea asignado para el primer hijo o hija, deberá prevalecer para los posteriores que tuvieren los mismos padres.
 
 Si no se proporcionan los nombres de los padres, el oficial del Registro Civil le pondrá nombre y apellido. Haciéndose constar esta circunstancia en acta por separado que se agregará al apéndice. Queda prohibido mostrar ésta última acta, a menos que medie orden judicial. No podrá asentarse por ningún motivo que el hijo es de padres desconocidos.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
+
 El Oficial del Registro Civil, exhortará a quien se presente a registrar el nacimiento de un menor, que el nombre propio con el que se pretende registrar no sea peyorativo, discriminatorio, infamante, denigrante, carente de significado, o que constituya un signo, símbolo o siglas, números, o bien, que exponga al registrado a ser objeto de burla o humillaciones que pudieran afectar la dignidad, el autoestima o la identidad de la persona.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
 
 El oficial del registro civil expedirá gratuitamente la primera copia certificada del acta de registro (sic) nacimiento.
 
@@ -12004,3 +12010,9 @@ P.O. 10 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 22 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 333.- POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 58 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
