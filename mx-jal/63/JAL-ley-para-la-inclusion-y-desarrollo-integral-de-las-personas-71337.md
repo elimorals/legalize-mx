@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2023-03-28"
+last_updated: "2023-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -923,7 +923,9 @@ IV. La asistencia y protección en albergues para la atención a personas con di
 
 Artículo 33 bis. Corresponde a la Comisión Estatal de Derechos Humanos:
 
-I. Conocer de quejas por motivo de discriminación de personas con discapacidad en el acceso a programas y servicios públicos;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+I. Conocer de quejas por motivo de discriminación de personas con discapacidad en el acceso a programas y servicios públicos, así como por discriminación a sus cuidadores;
 
 II. Conocer de quejas por discriminación en los servicios de salud, en la recepción y trasplante de órganos, transfusiones sanguíneas, tratamiento e intervenciones;
 
@@ -1598,3 +1600,9 @@ P.O. 28 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29167/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 22 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29216/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 33 BIS DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
