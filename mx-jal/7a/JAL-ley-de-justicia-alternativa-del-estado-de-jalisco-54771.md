@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2022-11-08"
+last_updated: "2023-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -93,11 +93,17 @@ XVI. Método Alternativo: El Trámite Convencional y Voluntario, que permite pre
 
 XVII. Negociación: El ejercicio metódico de comunicación desarrollado por las partes, por si o a través de un legítimo representante, para obtener de la otra su consentimiento para el arreglo del conflicto;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
 
-XVIII. Parte o participante: Personas que participan en los métodos alternos, en su calidad de solicitante e invitado, o sus apoderados, con el objeto de intentar resolver un conflicto; y
+XVIII. Parte o participante: Personas que participan en los métodos alternos, en su calidad de solicitante e invitado, o sus apoderados, con el objeto de intentar resolver un conflicto;
 
-XIX. Prestador del servicio: Se considera al mediador, conciliador o árbitro que interviene en el procedimiento de los medios alternos de justicia previstos en esta ley.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+XIX. Prestador del servicio: Se considera al mediador, conciliador o árbitro que interviene en el procedimiento de los medios alternos de justicia previstos en esta ley; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+XX. Prevención de Conflictos: construcción de estrategias y acciones orientadas a disminuir los factores de riesgo que permiten la generación y escala de los conflictos y que asimismo permite restablecer y/o reforzar la confianza y el respeto entre los ciudadanos.
 
 ###### Artículo 4.
 
@@ -409,7 +415,9 @@ II. Desarrollar y promover una red de centros como sistema de Justicia alternati
 
 III. Prestar el servicio de Información y orientación sobre los procedimientos alternativos;
 
-IV. Difundir y fomentar la cultura de los Medios alternos, como solución pacífica de los conflictos;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+
+IV. Difundir y fomentar la cultura de los Métodos Alternos, como mecanismo de prevención y solución pacífica de los conflictos;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -1452,3 +1460,9 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Instituto de Justicia Alternativa, contará con un plazo de 180 días para realizar las adecuaciones necesarias en sus instalaciones de conformidad con su suficiencia presupuestal.
+
+P.O. 22 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29215/LXIII/23 DEL CONGRESO DEL ESTADO QUE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 3, Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 24 DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
