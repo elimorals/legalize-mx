@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-40421"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-20"
-last_updated: "2020-09-19"
+last_updated: "2023-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de julio de 2004.
 
@@ -96,6 +96,10 @@ I. Área de Protección Forestal: Comprende los espacios forestales o boscosos c
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
 II. Bosque: Ecosistema forestal principalmente ubicado en zonas de clima templado en el que predominan especies leñosas perennes que se desarrollan de forma espontánea y que cuentan con las características para ser considerados terrenos forestales arbolados de acuerdo con esta Ley;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
+
+II. Bis. Bosque Urbano: Es un área de valor ambiental que se localiza en el suelo urbano, poblado de formaciones vegetales, predominantemente árboles. Son espacios vivos inmersos en un ecosistema propio al igual que su biodiversidad: agua, suelo, clima, paisajes, plantas, fauna y organismos asociados, que se desarrollan en el mismo o se introducen para mejorar su valor ambiental, cuya extensión y características contribuyen a mantener y mejora la calidad del ambiente.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
@@ -866,3 +870,9 @@ P.O. 19 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27954/LXII/20 QUE REFORMA EL ARTÍCULO 5 DE LA LA (SIC) LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 22 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29213/LXIII/23 DEL CONGRESO DEL ESTADO QUE ADICIONA AL ARTÍCULO 5 LA FRACCIÓN XV BIS, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO Y SE ADICIONA AL ARTÍCULO 5 LA FRACCIÓN II BIS DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO”.]
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
