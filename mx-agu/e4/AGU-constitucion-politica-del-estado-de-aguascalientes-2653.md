@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2023-06-05"
+last_updated: "2023-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -1947,11 +1947,25 @@ IX.- Celebrar convenios para la administración y custodia de las zonas federale
 
 En lo conducente y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, se expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
-X.- Elaborar las tablas de valores unitarios de suelo y construcciones, y someterlas a la aprobación del Congreso, para que sirvan de base para el cobro de contribuciones sobre la propiedad inmobiliaria; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+X.- Elaborar las tablas de valores unitarios de suelo y construcciones, y someterlas a la aprobación del Congreso, para que sirvan de base para el cobro de contribuciones sobre la propiedad inmobiliaria;
 
-XI.- La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos de la Ley del Sistema Estatal de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos en que éste juzgue como de fuerza mayor o alteración grave del orden público y cuando así se disponga en los convenios o en las normas correspondientes.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2023)</small>
+
+XI.- La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos de la Ley del Sistema Estatal de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos en que éste juzgue como de fuerza mayor o alteración grave del orden público y cuando así se disponga en los convenios o en las normas correspondientes; y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2023)</small>
+
+XII.- Prevenir y erradicar la violencia contra las mujeres, así como la aplicación de los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezcan su desarrollo integral y bienestar conforme a los principios de igualdad y de no discriminación, el respeto a la dignidad humana, la libertad y su empoderamiento.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+Para tal fin los Municipios en el ámbito de sus respectivas competencias deberán expedir las normas legales correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+Para el cumplimiento de esta fracción, las instancias municipales de la mujer deben de contar con personal especializado para brindar la debida atención.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -3730,3 +3744,11 @@ Una vez cubiertos los extremos legales que establece el artículo 94 de la Const
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, deberá realizar las adecuaciones correspondientes al Reglamento Interior de la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, a efecto de cumplimentar esta reforma.
+
+P.O. 24 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 363.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
