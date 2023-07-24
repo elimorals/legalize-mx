@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-corredor-interoceanico-del-istmo-de-14182
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-03-02"
-last_updated: "2020-03-02"
+last_updated: "2023-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141823&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-02-07"
 ---
 # ESTATUTO ORGANICO DEL CORREDOR INTEROCEANICO DEL ISTMO DE TEHUANTEPEC
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL CORREDOR INTEROCEÁNICO DEL ISTMO DE TEHUANTEPEC, PUBLICADO EN EL D.O.F. DE 24 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CORREDOR INTEROCEÁNICO DEL ISTMO DE TEHUANTEPEC
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2023 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 2 de marzo de 2020.
 
@@ -1176,3 +1178,15 @@ El Director General deberá emitir el Manual General de Organización del Corred
 En un plazo de 90 días hábiles contados a partir del día siguiente al de la entrada en vigor del presente Estatuto Orgánico, el Director General previa aprobación de Junta de Gobierno expedirá el Acuerdo de adscripción de las Unidades Administrativas y áreas correspondientes, el cual será publicado en el Diario Oficial de la Federación.
 
 Ciudad de México, a los siete días de febrero de dos mil veinte.- El Director General del Corredor Interoceánico del Istmo de Tehuantepec, Rafael Fernando Marín Mollinedo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL CORREDOR INTEROCEÁNICO DEL ISTMO DE TEHUANTEPEC".]
+
+PRIMERO. El presente Estatuto Orgánico entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Corredor Interoceánico del Istmo de Tehuantepec, publicado en el Diario Oficial de la Federación el 2 de marzo de 2020.
+
+TERCERO. La persona titular de la Dirección General debe realizar las adecuaciones conducentes al Manual General de Organización del Corredor, previa aprobación de la Junta de Gobierno, en un plazo de 90 días hábiles contados a partir del día siguiente al de la entrada en vigor del presente Estatuto Orgánico.
