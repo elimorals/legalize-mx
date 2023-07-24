@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2023-07-13"
+last_updated: "2023-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "SON"
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETIN OFICIAL DEL 24 DE JULIO DE 2023.]</small>
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -3439,9 +3441,9 @@ Si el delito se cometiera en contra de la víctima por su condición de género,
 
 En todos los casos previstos en los dos artículos precedentes, el Ministerio Público se encontrará obligado a recibir, aún en días y horas inhábiles, cualquier denuncia o querella que se le presente exponiendo actos de violencia familiar y, bajo su estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas para la víctima u ofendido, de conformidad con el Código Nacional de Procedimientos Penales y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2023)</small>
+(ADICIONADO, B.O. 13 DE JULIO DE 2023) (F. DE E., B.O. 24 DE JULIO DE 2023)
 
-ARTICULO 234 D (SIC).- Comete el delito de Violencia por Sustitución o Vicaria, cuando quien tenga o haya tenido una relación de matrimonio, concubinato o relación de hecho, que por sí misma o por interpósita persona, utilice como medio a las hijas e hijos, familiares, personas adultas mayores, personas con discapacidad o en situación de dependencia, personas significativas, mascotas, bienes de la víctima, entre otros para causarle algún tipo de daño o afectación a una mujer. Cuando se ejerza violencia física, psicológica o privación de la vida se le la (sic) aplicará una pena de prisión de uno a diez años y una multa equivalente de mil quinientas a cuatro mil veces el valor diario de la Unidad de Medida y Actualización, estas sanciones se aplicarán con independencia de los delitos que resultaren cometidos al ejercer esta conducta.
+ARTICULO 234 C BIS.- Comete el delito de Violencia por Sustitución o Vicaria, cuando quien tenga o haya tenido una relación de matrimonio, concubinato o relación de hecho, que por sí misma o por interpósita persona, utilice como medio a las hijas e hijos, familiares, personas adultas mayores, personas con discapacidad o en situación de dependencia, personas significativas, mascotas, bienes de la víctima, entre otros para causarle algún tipo de daño o afectación a una mujer. Cuando se ejerza violencia física, psicológica o privación de la vida se le la (sic) aplicará una pena de prisión de uno a diez años y una multa equivalente de mil quinientas a cuatro mil veces el valor diario de la Unidad de Medida y Actualización, estas sanciones se aplicarán con independencia de los delitos que resultaren cometidos al ejercer esta conducta.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 13 DE JUNIO DE 2019)</small>
 
