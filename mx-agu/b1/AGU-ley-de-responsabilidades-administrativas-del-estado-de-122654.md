@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-administrativas-del-estado-de-122654"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-01"
-last_updated: "2021-06-07"
+last_updated: "2023-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 1 de agosto de 2017.
 
@@ -75,9 +75,9 @@ Para efectos de esta Ley se entenderá por:
 
 I. Auditoría Superior: La Auditoría Superior de la Federación;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2023)</small>
 
-II. Autoridad Investigadora: La autoridad en la Secretaría, los Órganos internos de control y el Órgano Superior de Fiscalización del Estado de Aguascalientes encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la presente Ley;
+II. Autoridad Investigadora: La autoridad en la Contraloría, los Órganos internos de control y el Órgano Superior de Fiscalización del Estado de Aguascalientes encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la presente Ley;
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
 
@@ -95,6 +95,10 @@ VII. Constitución Federal: A la Constitución Política de los Estados Unidos M
 
 VIII. Constitución Local: A la Constitución Política del Estado de Aguascalientes;
 
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2023)</small>
+
+VIII-A. Contraloría: La Contraloría del Estado
+
 IX. Declarante: El servidor público obligado a presentar declaración de situación patrimonial, de intereses y fiscal, en los términos de esta Ley;
 
 X. Denunciante: La persona física o moral, o el servidor público que acude ante las autoridades investigadoras a que se refiere la presente Ley, con el fin de denunciar actos u omisiones que pudieran constituir o vincularse con faltas administrativas;
@@ -107,7 +111,9 @@ XIII. Expediente: Al Expediente de Presunta Responsabilidad Administrativa, deri
 
 XIV. Faltas Administrativas: Las faltas administrativas graves y no graves; así como las Faltas de particulares, conforme a lo dispuesto en la presente Ley;
 
-XV. Falta Administrativa No Grave: Las faltas administrativas de los servidores públicos, cuya sanción corresponde a la Secretaría y a los órganos internos de control competentes;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2023)</small>
+
+XV. Falta Administrativa No Grave: Las faltas administrativas de los servidores públicos, cuya sanción corresponde a la Contraloría y a los órganos internos de control competentes;
 
 XVI. Falta Administrativa Grave: Las faltas administrativas de los servidores públicos catalogadas como graves, cuya sanción corresponde a la Sala;
 
@@ -133,9 +139,7 @@ XXV. Plataforma Digital Nacional: La plataforma a que se refiere la Ley General,
 
 XXVI. Sala: la Sala Administrativa del Poder Judicial del Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
-
-XXVII. Secretaría: La Contraloría del Estado;
+XXVII. (DEROGADA, P.O. 24 DE JULIO DE 2023)
 
 XXVIII. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, conforme a lo dispuesto en el Artículo 73 de la Constitución Política del Estado de Aguascalientes;
 
@@ -199,7 +203,9 @@ X. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Go
 
 En el ámbito de su competencia serán autoridades facultadas para aplicar la presente Ley:
 
-I. La Secretaría;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2023)</small>
+
+I. La Contraloría;
 
 II. Los Órganos Internos de Control;
 
@@ -215,13 +221,17 @@ El Sistema Estatal Anticorrupción establecerá las bases y principios de coordi
 
 Para la conformación de las autoridades antes descritas, se deberá observar, además de los requisitos establecidos para su nombramiento, un sistema que garantice la igualdad de oportunidades en el acceso a la función pública con base en el mérito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2023)</small>
+
 ###### Artículo 8°.
 
-La Secretaría y los órganos internos de control de los entes públicos tendrán a su cargo, en el ámbito de su competencia, la investigación, calificación y substanciación de las faltas administrativas graves, no graves y de particulares.
+La Contraloría y los órganos internos de control de los entes públicos tendrán a su cargo, en el ámbito de su competencia, la investigación, calificación y substanciación de las faltas administrativas graves no graves y de particulares.
 
 En el supuesto de que la autoridad investigadora determine en su calificación la existencia de faltas administrativas, así como la presunta responsabilidad del infractor, deberá elaborar el informe de presunta responsabilidad administrativa y presentarlo ante la autoridad substanciadora para que proceda en los términos previstos en esta Ley.
 
-Además de las atribuciones señaladas con anterioridad, la Secretaría y los órganos internos de control de los entes públicos, serán competentes para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2023)</small>
+
+Además de las atribuciones señaladas con anterioridad, la Contraloría y los órganos internos de control de los entes públicos, serán competentes para:
 
 I. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Nacional y el Sistema Estatal Anticorrupción;
 
@@ -229,7 +239,9 @@ II. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos y par
 
 III. Presentar denuncias por hechos que las leyes señalen como presuntamente constitutivos de delitos ante la Fiscalía Especializada en Combate a la Corrupción, en materia de delitos relacionados con hechos de corrupción en el Estado.
 
-Tratándose de actos u omisiones que hayan sido calificados como faltas administrativas no graves, además de las facultades señaladas en el párrafo anterior, la Secretaría y los órganos internos de control de los entes públicos serán competentes para resolver los procedimientos de responsabilidad administrativa derivados de la comisión de dichas faltas, y en su caso imponer sanciones en los términos previstos en esta Ley.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
+
+Tratándose de actos u omisiones que hayan sido calificados como faltas administrativas no graves, además de las facultades señaladas en el párrafo anterior, la Contraloría y los órganos internos de control de los entes públicos serán competentes para resolver los procedimientos de responsabilidad administrativa derivados de la comisión de dichas faltas, y en su caso imponer sanciones en los términos previstos en esta Ley.
 
 ###### Artículo 9°.
 
@@ -253,15 +265,15 @@ La atribución de la Sala para imponer sanciones a particulares en términos de 
 
 ### CAPÍTULO I. Los Mecanismos Generales de Prevención
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2023)</small>
 
 ###### Artículo 13.
 
-Para prevenir la comisión de faltas administrativas y hechos de corrupción, la Secretaría y los órganos internos de control, considerando las funciones que a cada una de ellas les corresponden y previo diagnóstico que al efecto realicen, deberán implementar acciones para orientar el criterio que en situaciones específicas deberán observar los servidores públicos en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Estatal Anticorrupción.
+Para prevenir la comisión de faltas administrativas y hechos de corrupción, la Contraloría y los órganos internos de control, considerando las funciones que a cada una de ellas les corresponden y previo diagnóstico que al efecto realicen, deberán implementar acciones para orientar el criterio que en situaciones específicas deberán observar los servidores públicos en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Estatal Anticorrupción.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2023)</small>
 
-En la implementación de las acciones referidas, los órganos internos de control de la Administración Pública Estatal y municipal deberán atender los lineamientos generales que emita la Secretaría. En los Órganos constitucionales autónomos, los órganos internos de control respectivos emitirán los lineamientos señalados. En ambos casos, deberán observar lo siguiente:
+En la implementación de las acciones referidas, los órganos internos de control de la Administración Pública Estatal y municipal deberán atender los lineamientos generales que emita la Contraloría. En los Órganos constitucionales autónomos, los órganos internos de control respectivos emitirán los lineamientos señalados. En ambos casos, deberán observar lo siguiente:
 
 I. Elaborar su Código de Ética conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, el cual deberá hacerse del conocimiento de los servidores públicos;
 
@@ -299,7 +311,9 @@ En el sistema estatal de servidores públicos y particulares sancionados del Sis
 
 Los entes públicos, previo al nombramiento, designación o contratación de quienes pretendan ingresar al servicio público, solicitarán a la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, la consulta del Sistema Estatal de Información así como del Sistema Nacional de Servidores Públicos y particulares sancionados de la Plataforma Digital Nacional, con el fin de verificar si existen inhabilitaciones de dichas personas.
 
-La Secretaría expedirá las constancias respectivas que acrediten la no existencia de Inhabilitación, previa solicitud del interesado.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
+
+La Contraloría expedirá las constancias respectivas que acrediten la no existencia de Inhabilitación, previa solicitud del interesado.
 
 > <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2021)</small>
 
@@ -309,21 +323,25 @@ Artículo 17 A.- La información relacionada con las declaraciones de situación
 
 Las declaraciones patrimoniales y de intereses serán públicas salvo los rubros cuya publicidad pueda afectar la vida privada o los datos personales protegidos por la Constitución Federal, la Ley General de Protección de Datos Personales en posesión de Sujetos Obligados y la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios. Para tal efecto, el Comité Coordinador, a propuesta del Comité de Participación Ciudadana, emitirá los formatos respectivos, garantizando que los rubros que pudieran afectar los derechos aludidos queden en resguardo de las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
+
 ###### Artículo 19.
 
-La Secretaría y los órganos internos de control de los entes públicos, según sea el caso, deberán realizar una verificación aleatoria de las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como de la evolución del patrimonio de los servidores públicos estatales y municipales. De no existir ninguna anomalía expedirán la certificación correspondiente, la cual se anotará en dicho sistema. En caso contrario, iniciarán la investigación que corresponda.
+La Contraloría y los órganos internos de control de los entes públicos, según sea el caso, deberán realizar una verificación aleatoria de las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como de la evolución del patrimonio de los servidores públicos estatales y municipales. De no existir ninguna anomalía expedirán la certificación correspondiente, la cual se anotará en dicho sistema. En caso contrario, iniciarán la investigación que corresponda.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
 
 ###### Artículo 20.
 
-La Secretaría y los órganos internos de control de los entes públicos, según corresponda, serán responsables de inscribir y mantener actualizada en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, la información correspondiente a los declarantes a su cargo. Asimismo, verificarán la situación o posible actualización de algún conflicto de interés, según la información proporcionada, llevarán el seguimiento de la evolución y la verificación de la situación patrimonial de dichos declarantes, en los términos de la presente Ley. Para tales efectos, la Secretaría podrá firmar convenios con las distintas autoridades que tengan a su disposición datos, información o documentos que puedan servir para verificar la información declarada por los servidores públicos.
+La Contraloría y los órganos internos de control de los entes públicos, según corresponda, serán responsables de inscribir y mantener actualizada en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, la información correspondiente a los declarantes a su cargo. Asimismo, verificarán la situación o posible actualización de algún conflicto de interés, según la información proporcionada, llevarán el seguimiento de la evolución y la verificación de la situación patrimonial de dichos declarantes, en los términos de la presente Ley. Para tales efectos, la Contraloría podrá firmar convenios con las distintas autoridades que tengan a su disposición datos, información o documentos que puedan servir para verificar la información declarada por los servidores públicos.
 
 #### SECCIÓN SEGUNDA. Los Sujetos Obligados a Presentar Declaración Patrimonial y de Intereses
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
 
 ###### Artículo 21.
 
-Estarán obligados a presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad y ante la Secretaría o su respectivo órgano interno de control, todos los servidores públicos, en los términos previstos en la presente ley, debiendo además presentar su declaración fiscal anual, en los términos que disponga la legislación de la materia.
+Estarán obligados a presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad y ante la Contraloría o su respectivo órgano interno de control, todos los servidores públicos, en los términos previstos en la presente ley, debiendo además presentar su declaración fiscal anual, en los términos que disponga la legislación de la materia.
 
 #### SECCIÓN TERCERA. Los Plazos y Mecanismos de Registro al Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancia de Presentación de Declaración Fiscal
 
@@ -343,21 +361,31 @@ III. Declaración de conclusión del encargo, dentro de los sesenta días natura
 
 En el caso de cambio de dependencia o entidad en el mismo orden de gobierno, únicamente se dará aviso de dicha situación y no será necesario presentar la declaración de conclusión.
 
-La Secretaría o los órganos internos de control de los entes públicos, podrán solicitar a los servidores públicos una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, si éstos estuvieren obligados a presentarla o, en su caso, de la constancia de percepciones y retenciones que les hubieren emitido alguno de los entes públicos, la cual deberá ser remitida en un plazo de tres días hábiles a partir de la fecha en que se reciba la solicitud.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
 
-Si transcurridos los plazos a que se refieren las Fracciones I, II y III de este Artículo, no se hubiese presentado la declaración correspondiente, sin causa justificada, la Secretaría o los órganos internos de control de los entes públicos, deberán iniciar inmediatamente la investigación por presunta responsabilidad por la comisión de las faltas administrativas correspondientes y se requerirá por escrito al declarante el cumplimiento de dicha obligación.
+La Contraloría o los órganos internos de control de los entes públicos, podrán solicitar a los servidores públicos una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, si éstos estuvieren obligados a presentarla o, en su caso, de la constancia de percepciones y retenciones que les hubieren emitido alguno de los entes públicos, la cual deberá ser remitida en un plazo de tres días hábiles a partir de la fecha en que se reciba la solicitud.
 
-Tratándose de los supuestos previstos en las Fracciones I y II de este Artículo, en caso de que la omisión en la declaración continúe por un periodo de treinta días naturales siguientes a la fecha en que hubiere notificado el requerimiento al declarante, la Secretaría o los órganos internos de control de los entes públicos declararán que el nombramiento o contrato ha quedado sin efectos, debiendo notificar lo anterior al titular del ente público correspondiente para separar del cargo al servidor público, ante el incumplimiento será causa de responsabilidad administrativa en los términos de esta Ley.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
+
+Si transcurridos los plazos a que se refieren las Fracciones I, II y III de este Artículo, no se hubiese presentado la declaración correspondiente, sin causa justificada, la Contraloría o los órganos internos de control de los entes públicos, deberán iniciar inmediatamente la investigación por presunta responsabilidad por la comisión de las faltas administrativas correspondientes y se requerirá por escrito al declarante el cumplimiento de dicha obligación.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
+
+Tratándose de los supuestos previstos en las Fracciones I y II de este Artículo, en caso de que la omisión en la declaración continúe por un periodo de treinta días naturales siguientes a la fecha en que hubiere notificado el requerimiento al declarante, la Contraloría o los órganos internos de control de los entes públicos declararán que el nombramiento o contrato ha quedado sin efectos, debiendo notificar lo anterior al titular del ente público correspondiente para separar del cargo al servidor público, ante el incumplimiento será causa de responsabilidad administrativa en los términos de esta Ley.
 
 Para el caso de omisión sin causa justificada en la presentación de la declaración a que se refiere la Fracción III de este Artículo, se inhabilitará al infractor de tres meses a un año.
 
 Para la imposición de las sanciones deberá sustanciarse el procedimiento de responsabilidad administrativa por faltas administrativas previstas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2023)</small>
+
 ###### Artículo 23.
 
-Las declaraciones de situación patrimonial deberán ser presentadas a través de medios electrónicos, empleándose medios de identificación electrónica. La Secretaría tendrá a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen los servidores públicos, y llevarán el control de dichos medios.
+Las declaraciones de situación patrimonial deberán ser presentadas a través de medios electrónicos, empleándose medios de identificación electrónica. La Contraloría tendrá a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen los servidores públicos, y llevarán el control de dichos medios.
 
-Para los efectos de los procedimientos penales que se deriven de la aplicación de las disposiciones del presente Título, son documentos públicos aquellos que emita la Secretaría y los órganos de control interno de los entes públicos, para ser presentados como medios de prueba, en los cuales se contenga la información que obre en sus archivos documentales y electrónicos sobre las declaraciones de situación patrimonial de los servidores públicos.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
+
+Para los efectos de los procedimientos penales que se deriven de la aplicación de las disposiciones del presente Título, son documentos públicos aquellos que emita la Contraloría y los órganos de control interno de los entes públicos, para ser presentados como medios de prueba, en los cuales se contenga la información que obre en sus archivos documentales y electrónicos sobre las declaraciones de situación patrimonial de los servidores públicos
 
 ###### Artículo 24.
 
@@ -365,23 +393,31 @@ En la declaración inicial y de conclusión del encargo se manifestarán los bie
 
 En las declaraciones de modificación patrimonial se manifestarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
 
+REFORMADO, P.O. 24 DE JULIO DE 2023)
+
 ###### Artículo 25.
 
-En los casos en que la declaración de situación patrimonial del declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como servidor público, la Secretaría y los órganos internos de control de los entes públicos, inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento; de no justificarse la procedencia de dicho enriquecimiento, procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.
+En los casos en que la declaración de situación patrimonial del declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como servidor público, la Contraloría y los órganos internos de control de los entes públicos, inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento; de no justificarse la procedencia de dicho enriquecimiento, procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
 
 ###### Artículo 26.
 
-Los declarantes estarán obligados a proporcionar a la Secretaría y los órganos internos de control de los entes públicos, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos.
+Los declarantes estarán obligados a proporcionar a la Contraloría y los órganos internos de control de los entes públicos, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos.
 
-Sólo el titular de la Secretaría o los servidores públicos en quien éste delegue dicha facultad, podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
+
+Sólo el titular de la Contraloría o los servidores públicos en quien éste delegue dicha facultad, podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.
 
 ###### Artículo 27.
 
 Para los efectos de la presente Ley y de la legislación penal, se computarán entre los bienes que adquieran los declarantes o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario y sus dependientes económicos directos, salvo que se acredite que éstos los obtuvieron por sí mismos.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
+
 ###### Artículo 28.
 
-En caso de que un servidor público, sin haberlo solicitado, reciba de un particular de manera gratuita la transmisión de la propiedad o el ofrecimiento para el uso de cualquier bien, con motivo del ejercicio de sus funciones, deberán informarlo inmediatamente a la Secretaría o al órgano interno de control de los entes públicos. En el caso de recepción de bienes, los servidores públicos procederán a poner los mismos a disposición de las autoridades competentes en materia de administración y enajenación de bienes públicos.
+En caso de que un servidor público, sin haberlo solicitado, reciba de un particular de manera gratuita la transmisión de la propiedad o el ofrecimiento para el uso de cualquier bien, con motivo del ejercicio de sus funciones, deberán informarlo inmediatamente a la Contraloría o al órgano interno de control de los entes públicos. En el caso de recepción de bienes, los servidores públicos procederán a poner los mismos a disposición de las autoridades competentes en materia de administración y enajenación de bienes públicos.
 
 ###### Artículo 29.
 
@@ -397,17 +433,21 @@ La información a que se refiere el presente artículo deberá ser puesta a disp
 
 #### SECCIÓN QUINTA. El Protocolo de Actuación en Contrataciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2023)</small>
+
 ###### Artículo 31.
 
-El Comité Coordinador expedirá el protocolo de actuación que la Secretaría y los órganos internos de control de los entes públicos implementarán.
+El Comité Coordinador expedirá el protocolo de actuación que la Contraloría y los órganos internos de control de los entes públicos implementarán.
 
 Dicho protocolo de actuación deberá ser cumplido por los servidores públicos inscritos en el apartado específico del Sistema Estatal de Información a que se refiere el presente Capítulo y, en su caso, aplicarán los formatos que se utilizarán para que los particulares formulen un manifiesto de vínculos o relaciones de negocios, personales o familiares, así como de posibles conflictos de interés, bajo el principio de máxima publicidad y en los términos de la normatividad aplicable en materia de transparencia.
 
 El apartado específico del Sistema Estatal de Información a que se refiere el presente Capítulo incluirá la relación de particulares, personas físicas y morales, que se encuentren inhabilitados para celebrar contratos con los entes públicos derivado de procedimientos administrativos diversos a los previstos por esta Ley.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
+
 ###### Artículo 32.
 
-La Secretaría o los órganos internos de control de los entes públicos deberán supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleve a cabo en los términos de las disposiciones en la materia, llevando a cabo las verificaciones procedentes si descubren anomalías.
+La Contraloría o los órganos internos de control de los entes públicos deberán supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleve a cabo en los términos de las disposiciones en la materia, llevando a cabo las verificaciones procedentes si descubren anomalías.
 
 #### SECCIÓN SEXTA. La Declaración de Intereses
 
@@ -415,7 +455,9 @@ La Secretaría o los órganos internos de control de los entes públicos deberá
 
 Se encuentran obligados a presentar declaración de intereses todos los servidores públicos que deban presentar la declaración patrimonial en términos de esta Ley.
 
-Al efecto, la Secretaría y los órganos internos de control de los entes públicos se encargarán de que las declaraciones sean integradas al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
+
+Al efecto, la Contraloría y los órganos internos de control de los entes públicos se encargarán de que las declaraciones sean integradas al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal.
 
 ###### Artículo 34.
 
@@ -629,9 +671,11 @@ A los particulares que se encuentren en situación especial conforme al presente
 
 ### CAPÍTULO V. La Prescripción de la Responsabilidad Administrativa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2023)</small>
+
 ###### Artículo 60.
 
-Para el caso de faltas administrativas no graves, las facultades de la Secretaría o de los órganos internos de control de los entes públicos para imponer las sanciones, prescribirán en tres años contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado en el caso de ser continuas.
+Para el caso de faltas administrativas no graves, las facultades de la Contraloría o de los órganos internos de control de los entes públicos para imponer las sanciones, prescribirán en tres años contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado en el caso de ser continuas.
 
 Cuando se trate de faltas administrativas graves o faltas de particulares, el plazo de prescripción será de siete años, contados en los mismos términos del párrafo anterior.
 
@@ -647,9 +691,11 @@ Los plazos a los que se refiere el presente Artículo se computarán en días na
 
 ### CAPÍTULO I. Las Sanciones por Faltas Administrativas no Graves
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2023)</small>
+
 ###### Artículo 61.
 
-En los casos de responsabilidades administrativas distintas a las que son competencia de la Sala, la Secretaría o los órganos internos de control de los entes públicos competentes impondrán cualquiera de las sanciones administrativas siguientes:
+En los casos de responsabilidades administrativas distintas a las que son competencia de la Sala, la Contraloría o los órganos internos de control de los entes públicos competentes impondrán cualquiera de las sanciones administrativas siguientes:
 
 I. Amonestación pública o privada;
 
@@ -677,15 +723,19 @@ En caso de reincidencia de faltas administrativas no graves, la sanción que imp
 
 Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada y hubiere causado ejecutoria, cometa otra del mismo tipo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2023)</small>
+
 ###### Artículo 63.
 
-Corresponde a la Secretaría o a los órganos internos de control de los entes públicos imponer las sanciones por faltas administrativas no graves y ejecutarlas. Los órganos internos de control de los entes públicos podrán abstenerse de imponer la sanción que corresponda siempre que el servidor público:
+Corresponde a la Contraloría o a los órganos internos de control de los entes públicos imponer las sanciones por faltas administrativas no graves y ejecutarlas. Los órganos internos de control de los entes públicos podrán abstenerse de imponer la sanción que corresponda siempre que el servidor público:
 
 I. No haya sido sancionado previamente por la misma falta administrativa no grave; y
 
 II. No haya actuado de forma dolosa.
 
-La Secretaría o los órganos internos de control de los entes públicos dejarán constancia de la no imposición de la sanción a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
+
+La Contraloría o los órganos internos de control de los entes públicos dejarán constancia de la no imposición de la sanción a que se refiere el párrafo anterior.
 
 ### CAPÍTULO II. Las Sanciones para los Servidores Públicos por Faltas Graves
 
@@ -1039,9 +1089,11 @@ La admisión del informe de presunta responsabilidad administrativa interrumpir�
 
 En caso de que con posterioridad a la admisión del informe la autoridad investigadora advierta la probable comisión de cualquier otra falta administrativa imputable a la misma persona señalada como presunto responsable, deberá elaborar un diverso informe de presunta responsabilidad administrativa y promover el respectivo procedimiento de responsabilidad administrativa por separado, sin perjuicio de que, en el momento procesal oportuno, pueda solicitar su acumulación.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2023)</small>
+
 ###### Artículo 101.
 
-La autoridad substanciadora y, en su caso, resolutora del procedimiento de responsabilidad administrativa, deberá ser distinto (sic) de aquélla encargada de la investigación. Para tal efecto, la Secretaría, los órganos internos de control de los entes públicos y el Órgano Superior, contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
+La autoridad substanciadora y, en su caso, resolutora del procedimiento de responsabilidad administrativa, deberá ser distinta de aquélla encargada de la investigación. Para tal efecto, la Contraloría, los órganos internos de control de los entes públicos y el Órgano Superior, contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
 
 ###### Artículo 102.
 
@@ -1593,7 +1645,9 @@ IX. La existencia o inexistencia que en términos de esta Ley constituyen faltas
 
 X. Los puntos resolutivos, donde deberá precisarse la forma en que deberá cumplirse la resolución.
 
-### CAPÍTULO II. El Procedimiento de Responsabilidad Administrativa ante la Secretaría y los Demás Órganos Internos de Control
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JULIO DE 2023)</small>
+
+### CAPÍTULO II. El Procedimiento de Responsabilidad Administrativa ante la Contraloría y los Demás Órganos Internos de Control
 
 ###### Artículo 192.
 
@@ -1649,9 +1703,11 @@ V. La resolución, deberá notificarse personalmente al presunto responsable. En
 
 #### SECCIÓN PRIMERA. La Revocación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2023)</small>
+
 ###### Artículo 194.
 
-Los servidores públicos que resulten responsables por la comisión de faltas administrativas no graves en los términos de las resoluciones administrativas que se dicten conforme a lo dispuesto en el presente Título por la Secretaría o los órganos internos de control de los Ente (sic) públicos, podrán interponer el recurso de revocación ante la autoridad que emitió la resolución dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
+Los servidores públicos que resulten responsables por la comisión de faltas administrativas no graves en los términos de las resoluciones administrativas que se dicten conforme a lo dispuesto en el presente Título por la Contraloría o los órganos internos de control de los entes públicos, podrán interponer el recurso de revocación ante la autoridad que emitió la resolución dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
 
 Las resoluciones que se dicten en el recurso de revocación serán impugnables, vía el juicio contencioso administrativo ante la Sala.
 
@@ -1667,7 +1723,9 @@ III. Si el escrito de interposición del recurso de revocación no cumple con al
 
 La prevención tendrá el efecto de interrumpir el plazo que tiene la autoridad para resolver el recurso, por lo que comenzará a computarse a partir del día siguiente a su desahogo; y
 
-IV. Desahogadas las pruebas, si las hubiere, la Secretaría, el órgano interno de control de las Entidades públicas o el servidor público en quien delegue esta facultad, dictará resolución dentro de los treinta días hábiles siguientes, notificándolo al interesado en un plazo no mayor de setenta y dos horas.
+> <small>(REFORMADA, P.O 24 DE JULIO DE 2023)</small>
+
+IV. Desahogadas las pruebas, si las hubiere, la Contraloría, el órgano interno de control de las Entidades públicas o el servidor público en quien delegue esta facultad, dictará resolución dentro de los treinta días hábiles siguientes, notificándolo al interesado en un plazo no mayor de setenta y dos horas.
 
 ###### Artículo 196.
 
@@ -1713,9 +1771,11 @@ Se exceptúan del párrafo anterior, los agentes del Ministerio Público, agente
 
 #### SECCIÓN PRIMERA. El Cumplimiento y Ejecución de Sanciones por Faltas Administrativas No Graves
 
+> <small>(REFORMADO, P.O 24 DE JULIO DE 2023)</small>
+
 ###### Artículo 201.
 
-La ejecución de las sanciones por faltas administrativas no graves se llevará a cabo de inmediato, una vez que sean impuestas por la Secretaría o los órganos internos de control de los entes públicos, y conforme lo disponga la resolución respectiva.
+La ejecución de las sanciones por faltas administrativas no graves se llevará a cabo de inmediato, una vez que sean impuestas por la Contraloría o los órganos internos de control de los entes públicos, y conforme lo disponga la resolución respectiva.
 
 ###### Artículo 202.
 
@@ -1731,7 +1791,9 @@ Las sanciones económicas impuestas por la Sala constituirán créditos fiscales
 
 Cuando haya causado ejecutoria una sentencia en la que se determine la plena responsabilidad de un servidor público por faltas administrativas graves, el Magistrado, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva así como los puntos resolutivos de ésta para su cumplimiento, de conformidad con las siguientes reglas:
 
-I. Cuando el servidor público haya sido suspendido, destituido o inhabilitado, se dará vista a su superior jerárquico, a la Secretaría y, en su caso, al órgano de control interno de los entes públicos; y
+> <small>(REFORMADA, P.O 24 DE JULIO DE 2023)</small>
+
+I. Cuando el servidor público haya sido suspendido, destituido o inhabilitado, se dará vista a su superior jerárquico, a la Contraloría y, en su caso, al órgano de control interno de los entes públicos; y
 
 II. Cuando se haya impuesto una indemnización y/o sanción económica al responsable, se dará vista a la Secretaría de Finanzas del Gobierno del Estado o a la autoridad municipal competente.
 
@@ -2204,3 +2266,15 @@ P.O. 7 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 560.- SE REFORMAN LOS ARTÍCULOS 21; 39; 64, PÁRRAFO SEGUNDO; 74, PÁRRAFO SEGUNDO; Y 105; Y SE DEROGAN LOS ARTÍCULOS 9°; 36 FRACCIONES X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV Y XXVI; 75 PÁRRAFO SEXTO; Y 84; TODOS DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 393.- SE REFORMA LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
