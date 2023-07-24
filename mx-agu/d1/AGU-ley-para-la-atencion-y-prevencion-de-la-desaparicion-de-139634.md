@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-atencion-y-prevencion-de-la-desaparicion-de-139634"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2022-07-18"
+last_updated: "2023-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de diciembre de 2019.
 
@@ -120,6 +120,10 @@ III. Código Civil: Código Civil para el Estado de Aguascalientes;
 IV. Código de Procedimientos Civiles: Al Código de Procedimientos Civiles para el Estado de Aguascalientes;
 
 V. Comisión: A la Comisión Estatal de Búsqueda de Personas del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2023)</small>
+
+V BIS. Consejo Ciudadano: al Consejo Estatal Ciudadano;
 
 VI. Declaración Especial de Ausencia: A la Declaración Especial de Ausencia por Desaparición;
 
@@ -329,15 +333,97 @@ I. Área de Coordinación Acciones de Búsqueda;
 
 II. Área de Análisis de Contexto y Procesamiento de Información;
 
-III. Área de seguimiento, atención ciudadana y vinculación con organizaciones público privada (sic);
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2023)</small>
+
+III. Área de seguimiento, atención ciudadana y vinculación con organizaciones público privadas;
 
 Además de las áreas anteriores, la Comisión Local, contara con la estructura administrativa mínima indispensable para el cumplimiento de sus atribuciones.
 
 La Comisión contará con un Consejo Estatal Ciudadano, como un órgano de apoyo y tendrá las atribuciones que establezca el decreto administrativo que al efecto expida el Poder Ejecutivo.
 
-### CAPÍTULO SEGUNDO. De la Fiscalía Especializada
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE JULIO DE 2023)</small>
 
-### CAPÍTULO TERCERO. De la Búsqueda de Personas
+### CAPÍTULO PRIMERO BIS. Del Consejo Estatal Ciudadano; (sic)
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+ARTÍCULO 26 BIS.- El Consejo Ciudadano es un órgano ciudadano de consulta de la Comisión en materia de búsqueda de personas.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+ARTÍCULO 26 TER.- El Consejo Ciudadano está integrado por:
+
+I. Tres familiares;
+
+II. Dos especialistas de reconocido prestigio en la protección y defensa de los derechos humanos, la búsqueda de Personas Desaparecidas o No Localizadas o en la investigación y persecución de los delitos previstos en esta Ley. Se garantizará que uno de los especialistas siempre sea en materia forense, y
+
+III. Dos representantes de organizaciones de la sociedad civil defensoras de derechos humanos.
+
+Las personas integrantes a que se refieren las fracciones anteriores deben ser nombrados por el Congreso del Estado previa consulta pública con las organizaciones de familiares, de las organizaciones defensoras de los derechos humanos, de los grupos organizados de víctimas y de las personas expertas en la materia de esta Ley, garantizando en todo momento el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+ARTÍCULO 26 QUÁTER.- Las personas que integren el Consejo Ciudadano:
+
+I. Durarán en su cargo tres años sin posibilidad de reelección y no deberán desempeñar ningún cargo como servidor público;
+
+II. Ejercerán su función en forma honorífica y no deben recibir emolumento o contraprestación económica alguna por su desempeño;
+
+III. Elegirán, de entre sus miembros a la persona que coordine los trabajos de sus sesiones, por mayoría de votos, quien durará en su encargo un año, y
+
+IV. Emitirán las reglas de funcionamiento en las que se determinarán los requisitos y procedimientos para nombrar a la persona titular de la Secretaría Técnica, la convocatoria a sus sesiones bimestrales y contenidos del orden del día de cada sesión.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+ARTÍCULO 26 QUINQUIES.- Las recomendaciones, propuestas y opiniones del Consejo Ciudadano deberán ser comunicadas a la Comisión y podrán ser consideradas para la toma de decisiones. Quien formando parte de la Comisión determine no adoptar las recomendaciones que formule el Consejo Ciudadano, deberá explicar las razones para ello.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+ARTÍCULO 26 SEXIES.- La Comisión proporcionará al Consejo Ciudadano las facilidades necesarias para el desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+ARTÍCULO 26 SEPTIES.- El Consejo Ciudadano tiene las funciones siguientes:
+
+I. Proponer a la Comisión acciones para acelerar o profundizar sus acciones, en el ámbito de su competencia;
+
+II. Proponer acciones para mejorar el funcionamiento de los programas, registros, bancos y herramientas materia de esta la ley y la Ley General;
+
+III. Proponer y, en su caso, acompañar las medidas de asistencia técnica para la búsqueda de personas;
+
+IV. Solicitar información a la Comisión, para el ejercicio de sus atribuciones, y hacer las recomendaciones pertinentes;
+
+V. Acceder a la información estadística generada a través de las diversas herramientas con las que cuenta la Comisión, para el ejercicio de sus atribuciones;
+
+VI. Contribuir en la promoción de las acciones, políticas públicas, programas y proyectos relacionados con el objeto de esta Ley y la Ley General;
+
+VII. Dar vista a las autoridades competentes y órganos internos de control sobre las irregularidades en las actuaciones de servidores públicos relacionados con la búsqueda e investigación de Personas Desaparecidas y No Localizadas. Se le reconocerá interés legítimo dentro de las investigaciones para la determinación de responsabilidades de servidores públicos relacionados con la búsqueda e investigación de Personas Desaparecidas y No Localizadas en términos de las disposiciones jurídicas aplicables;
+
+VIII. Emitir recomendaciones sobre la integración y operación de la Comisión Estatal de Búsqueda;
+
+IX. Elaborar, aprobar y modificar la Guía de procedimientos del Comité de Evaluación y seguimiento, y
+
+X. Las demás que señale el Reglamento.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+ARTÍCULO 26 OCTIES.- Las decisiones que el Consejo Ciudadano adopte son públicas, en apego a la legislación de transparencia y protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+ARTÍCULO 26 NONIES.- El Consejo Ciudadano integrará de entre sus miembros un Comité para la evaluación y seguimiento de las acciones emprendidas por la Comisión, que tendrá las siguientes atribuciones:
+
+I. Solicitar información relacionada a los procedimientos de búsqueda y localización a la Comisión;
+
+II. Conocer y emitir recomendaciones sobre los criterios de idoneidad, convenios, lineamientos, programas y reglamentos que emita la Comisión;
+
+III. Dar seguimiento a la implementación de Programas en materia de Búsqueda de Personas Desaparecidas;
+
+IV. Contribuir, de acuerdo a lo establecido en la presente Ley y su Reglamento, a la participación directa de los familiares en el ejercicio de sus atribuciones, y
+
+V. Las demás que determine el Consejo en el marco de sus atribuciones.
+
+### CAPÍTULO SEGUNDO. De la Fiscalía Especializada
 
 ###### ARTÍCULO 27.
 
@@ -389,7 +475,7 @@ Las personas físicas o morales que cuenten con información que pueda contribui
 
 La Fiscalía Especializada no puede condicionar la recepción de la información a que se refiere el párrafo anterior al cumplimiento de formalidad alguna.
 
-### CAPÍTULO CUARTO. De los Registros
+### CAPÍTULO TERCERO. De la Búsqueda de Personas
 
 ###### ARTÍCULO 36.
 
@@ -403,7 +489,7 @@ Las acciones de búsqueda deberán agotarse hasta que se determine la suerte o p
 
 Las acciones de búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas deberán realizarse de conformidad con el Capítulo Sexto del Título Tercero de la Ley General y los Protocolos Homologados de Búsqueda e Investigación correspondientes.
 
-### CAPÍTULO QUINTO. Derechos de las Víctimas
+### CAPÍTULO CUARTO. De los Registros
 
 ###### ARTÍCULO 38.
 
@@ -433,7 +519,7 @@ En caso de emergencia sanitaria o desastres naturales que afecten la operación 
 
 Dichas autoridades estarán obligadas a procesar y proporcionar la información solicitada por la Comisión Nacional de Búsqueda y la Fiscalía Especializada de la Procuraduría para la elaboración de los programas nacionales. Asimismo, están obligadas a colaborar con dichas autoridades para realizar las acciones que resulten necesarias en la elaboración de los programas.
 
-### CAPÍTULO PRIMERO. Del Procedimiento para la Declaración Especial de Ausencia
+### CAPÍTULO QUINTO. Derechos de las Víctimas
 
 ###### ARTÍCULO 43.
 
@@ -441,7 +527,7 @@ Las Víctimas directas de los delitos de desaparición forzada de personas y des
 
 ## TÍTULO CUARTO. De la Declaración Especial de Ausencia
 
-### CAPÍTULO SEGUNDO. De los Efectos de la Declaración Especial de Ausencia
+### CAPÍTULO PRIMERO. Del Procedimiento para la Declaración Especial de Ausencia
 
 ###### ARTÍCULO 44.
 
@@ -557,7 +643,7 @@ Las determinaciones relativas a medidas provisionales y cautelares, así como la
 
 Una vez que cause estado la resolución dictada por el Órgano Jurisdiccional sobre la Declaración Especial de Ausencia, que incluirá los efectos y las medidas definitivas para garantizar la máxima protección a la Persona Desaparecida y los Familiares, el Órgano Jurisdiccional ordenará la inscripción en el Registro Civil, mediante oficio remitiendo copia certificada de la Declaración Especial de Ausencia a efecto de que se efectúe la inscripción en el acta correspondiente, en los términos previstos en el artículo 125 de (sic) Código Civil del Estado de Aguascalientes.
 
-### CAPÍTULO TERCERO. De la Protección de Personas
+### CAPÍTULO SEGUNDO. De los Efectos de la Declaración Especial de Ausencia
 
 ###### ARTÍCULO 57.
 
@@ -657,7 +743,7 @@ Si la Persona Desaparecida de la cual se emitió una Declaración Especial de Au
 
 En el caso del párrafo anterior, el tiempo en que la persona desaparecida fuere declarada ausente no contará para los plazos de prescripción que pudieren correr a sus acreedores.
 
-### CAPÍTULO ÚNICO. De la Prevención, Programación y Capacitación Contra la Desaparición de Personas
+### CAPÍTULO TERCERO. De la Protección de Personas
 
 ###### ARTÍCULO 68.
 
@@ -682,6 +768,8 @@ La incorporación a los programas de protección de personas a que se refiere el
 La información y documentación relacionada con las personas protegidas debe ser tratada con estricta reserva o confidencialidad, según corresponda.
 
 ## TÍTULO QUINTO. De la Prevención de los Delitos
+
+### CAPÍTULO ÚNICO. De la Prevención, Programación y Capacitación Contra la Desaparición de Personas
 
 ###### ARTÍCULO 73.
 
@@ -832,3 +920,35 @@ P.O. 18 DE JULIO DE 2022.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 391.- SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los nombramientos realizados mediante el Acuerdo a través del cual se designan los integrantes del Consejo Estatal Ciudadano de la Comisión Estatal de Búsqueda de personas del Estado de Aguascalientes, suscrito por la Gobernadora Constitucional del Estado de Aguascalientes, publicado en el Periódico oficial en fecha 10 de mayo de 2023, durarán en su cargo según lo establecido en la fracción I, del artículo 26 Quáter del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal Ciudadano deberá emitir sus reglas de funcionamiento en un plazo no mayor a noventa días naturales siguientes a su instalación.
+
+###### ARTÍCULO CUARTO.
+
+El Comité de Evaluación y Seguimiento deberá instalarse en un término no mayor de noventa días naturales siguientes a la instalación del Consejo Estatal Ciudadano.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Estatal Ciudadano deberá expedir la guía de procedimientos del Comité de Evaluación y Seguimiento, en un plazo no mayor a treinta días naturales a que éste se instale.
+
+###### ARTÍCULO SEXTO.
+
+Queda sin efectos el capítulo IV denominado “Consejo Estatal Ciudadano”, del Decreto por el que se crea la Comisión de Búsqueda de Personas del Estado de Aguascalientes, publicado en fecha lunes 29 de junio de 2020.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones de menor jerarquía que se opongan al presente Decreto.
