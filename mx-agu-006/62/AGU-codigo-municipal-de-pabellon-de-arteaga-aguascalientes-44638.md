@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2023-03-13"
+last_updated: "2023-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2023.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -759,9 +759,17 @@ XLII.- Establecer el Sistema Municipal de Premios y Condecoraciones por medio de
 
 El Sistema Municipal de Premios y Condecoraciones contará con una presea máxima, que se entregará cada año a una personalidad que sea propuesta por la Comisión de Postulaciones y aprobada por el pleno del H. Ayuntamiento, y que consistirá en medalla de honor denominada "Medalla al Mérito Pabellonense" y diploma, mismos que se entregarán en una sesión solemne de cabildo realizada para tal efecto. Contará además con diversos reconocimientos los cuales serán aprobados de manera particular en cada caso por el ayuntamiento, a propuesta de la Comisión de Postulaciones, pudiendo ser al mérito artístico, científico, académico, deportivo, económico, político y social, y
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE JULIO DE 2023)</small>
+
+XLIII.- Representar y proteger el interés superior de la niñez en situación de vulnerabilidad por conflictos familiares y/o sociales hoy a través de la orientación jurídica, coadyuvando para que sus derechos sean respetados en busca de una justicia social.
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2023)</small>
+
+XLIV.- Intervenir en el ejercicio de la tutela de niñas, niños y adolescentes, que corresponda al Municipio en términos de las disposiciones legales aplicables, y auxiliar al Ministerio Público en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, acorde a las disposiciones legales aplicables, y
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE OCTUBRE DE 2018)</small>
 
-XLIII.- Las demás que le confieran la Constitución general de la república, la particular del Estado, la Ley Municipal del Estado, el presente Código y otras disposiciones legales.
+XLV.- Las demás que le confieran la Constitución general de la república, la particular del Estado, la Ley Municipal del Estado, el presente Código y otras disposiciones legales.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -3019,6 +3027,10 @@ d).- Coordinación de Programas;
 
 e).- Coordinación de Servicios Médicos;
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+f).- Procuraduría de Protección Municipal de los Derechos de las Niñas, Niños y Adolescentes.
+
 (REPUBLICADA [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
 
 XI (SIC).- Instituto Pabellonense de las Mujeres:
@@ -4841,7 +4853,53 @@ VIII.- Promover campañas para el mejoramiento integral de la salud de las famil
 
 IX.- Realizar acciones de orientación y difusión en materia de salud sexual, métodos anticonceptivos y prevención de cáncer en la mujer; y
 
-X.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2023)</small>
+
+X.- Representar y proteger el derecho superior de la niñez en situación de vulnerabilidad por conflictos familiares y/o sociales, hoy a través de la orientación jurídica, coadyuvando para que sus derechos sean respetados en busca de una justicia social.
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2023)</small>
+
+XI.- Intervenir en el ejercicio de la tutela de niñas, niños y adolescentes, que corresponda al Municipio en términos de las disposiciones legales aplicables, y auxiliar al Ministerio Público en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, acorde a las disposiciones legales aplicables, y
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2023)</small>
+
+XII.- Lo demás que señale la legislación en la materia o el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+ARTICULO 221 BIS.- Corresponde a la Procuraduría de Protección Municipal de los Derechos de las Niñas Niños y Adolescentes:
+
+I. - Procurar la protección y restitución integral de los derechos de niñas, niños y adolescentes, principalmente en los ámbitos jurídico, psicológico y asistencial;
+
+II. - Prestar asesoría jurídica y representación a niñas, niños y adolescentes;
+
+III.- Canalizar a niñas, niños y adolescentes a recibir asesoría psicológica cuando lo requieran.
+
+IV.- Fungir como conciliadora y mediadora en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
+
+V.- Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
+
+VI.- Recibir de las autoridades municipales competentes de Pabellón de Arteaga, los informes de situaciones en que exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, para proceder según corresponda;
+
+VII.- Recibir por escrito, medios digitales o telefónicos, debidamente autorizados, de forma personal o anónima, todas las solicitudes de intervención relacionadas con posibles violaciones a los derechos de niñas, niños y adolescentes en el territorio del Municipio de Pabellón de Arteaga. Dentro de las cuarenta y ocho horas siguientes a la recepción de las solicitudes de intervención, la Procuraduría deberá emitir el acuerdo respectivo señalando el tratamiento que se dará a éstas;
+
+VIII.- Presentar de forma inmediata a la Procuraduría de protección local, las denuncias y solicitudes en las que sean necesarias medidas de protección porque exista riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes;
+
+IX.- Dar seguimiento a las medidas de protección ordenadas por las autoridades competentes, que recaigan sobre niñas, niños y adolescentes habitantes del Municipio de Pabellón de Arteaga;
+
+X.- Promover la participación de los sectores público, social y privado del Municipio de Pabellón de Arteaga, en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
+
+XI.- Recibir solicitudes de activación de alerta AMBER por motivos de desaparición de niñas, niños o adolescentes del Municipio de Pabellón de Arteaga, para remitirlas de forma inmediata a la Procuraduría de protección local;
+
+XII.- Canalizar a la Procuraduría de protección local a las personas del Municipio de Pabellón de Arteaga con la intención de adoptar;
+
+XIII.- Asesorar a las autoridades competentes y a los sectores público, social y privado del Municipio de Pabellón de Arteaga, en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+
+XIV.- Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades municipales competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
+
+XV.- Realizar de manera permanente y continua, campañas de información y divulgación acerca de los derechos de las niñas, niños y adolescentes, así como de los mecanismos y procedimientos para presentar denuncias o solicitudes de intervención, y
+
+XVI.- Lo de más que señale la Ley en la materia, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(REFORMADA [N. DE E. REUBICADA ANTES SECCIÓN DÉCIMA], P.O. 4 DE MARZO DE 2019)</small>
 
@@ -30374,3 +30432,9 @@ SEXTO.- En el momento que inicie la vigencia legal del Reglamento y la estructur
 SÉPTIMO.- La Dirección de Finanzas y Administración, dentro de los 60 días hábiles siguientes a que inicie su vigencia el presente Decreto, deberá impulsar las adecuaciones presupuestales y administrativas que en su caso sean necesarias para el funcionamiento del Instituto Municipal de Salud Mental de Pabellón de Arteaga.
 
 OCTAVO.- Las referencias hechas a la Coordinación de Servicios Médicos y Salud Mental del Sistema para el Desarrollo Integral de la Familia, relativas a la salud mental, en las disposiciones reglamentarias, administrativas, contractuales y demás instrumentos legales, se entenderán realizadas al Instituto Municipal de Salud Mental de Pabellón de Arteaga.
+
+P.O. 24 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
