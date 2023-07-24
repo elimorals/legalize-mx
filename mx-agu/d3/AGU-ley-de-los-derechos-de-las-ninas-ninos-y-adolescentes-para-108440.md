@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-07-17"
+last_updated: "2023-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -231,17 +231,17 @@ XXXIII. Sistemas DIF Municipales.- Los Sistemas para el Desarrollo Integral de l
 
 XXXIV. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE JULIO DE 2023)</small>
 
 XXXV. Sistema Nacional de Protección: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE JULIO DE 2023)</small>
 
 XXXVI. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte; y
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE JULIO DE 2023)</small>
 
-XXXVII. La violencia vicaria consiste en la acción u omisión dirigida hacia las hijas y/o los hijos de la víctima, cometida por quien mantenga o haya mantenido una relación de hecho, concubinato o matrimonio con la misma, y que le cause un daño o afectación física, psicoemocional o económica, con el objeto de romper el vínculo filial parental.
+XXXVII. Trastornos Específicos del Aprendizaje: Dificultad específica y persistente que interfiere en el aprendizaje de habilidades académicas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -1182,6 +1182,10 @@ X. Se elaboren protocolos de actuación sobre situaciones de acoso o violencia e
 XI. Coordinar con el Sistema Educativo Nacional las acciones necesarias para establecer las condiciones de accesibilidad en instalaciones educativas, proporcionar los apoyos didácticos, materiales y técnicos y contar con personal docente capacitado, a fin de garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad;
 
 XII. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2023)</small>
+
+XII Bis. Adoptar medidas para detectar y atender las necesidades de niñas, niños y adolescentes con trastornos específicos del aprendizaje, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales.
 
 XIII. Establecer mecanismos para la expresión y participación de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que permita atender y tomar en cuenta sus intereses y preocupaciones en materia educativa;
 
@@ -2926,3 +2930,15 @@ P.O. 17 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 394.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
