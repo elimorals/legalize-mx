@@ -4,7 +4,7 @@ identifier: "SLP-estatuto-del-servicio-fiscalizador-de-carrera-de-la-163932"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-01-26"
-last_updated: "2023-01-26"
+last_updated: "2023-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "SLP"
 ---
 # ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA, PUBLICADO EN EL P.O. DE 24 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2023 (ABROGADO).
 
 Estatuto publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 26 de enero de 2023.
 
@@ -387,3 +389,15 @@ CP. Edith Virginia Muñoz Gutiérrez
 Encargada de Despacho de la Auditoría Superior del Estado
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA".]
+
+Primero. El presente Estatuto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí, “Plan de San Luis”.
+
+Segundo. A partir de la entrada en vigor del presente Estatuto, se abroga el Estatuto del Servicio Fiscalizador de Carrera, publicado en el Periódico Oficial del Estado “Plan de San Luis”, el 26 de enero de 2023.
+
+Tercero. Los servidores públicos de confianza que cumplan con los requisitos señalados en este Estatuto, podrán solicitar su ingreso al Servicio dentro de los 30 días hábiles posteriores a la publicación del presente, a través del formato establecido para ello.
