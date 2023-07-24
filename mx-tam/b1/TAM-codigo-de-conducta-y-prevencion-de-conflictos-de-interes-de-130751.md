@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-130
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-12"
-last_updated: "2018-09-12"
+last_updated: "2023-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LA SECRETARIA DE BIENESTAR SOCIAL DEL GOBIERNO DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS, DE LA SECRETARÍA DE BIENESTAR SOCIAL DEL GOBIERNO DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 24 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE BIENESTAR SOCIAL DEL GOBIERNO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 12 de Septiembre de 2018.
 
@@ -332,3 +334,21 @@ El presente Código, entrará en vigor al día siguiente de su publicación en e
 Dado en ciudad Victoria, Tamaulipas, a los veintisiete días del mes de agosto del año dos mil dieciocho.
 
 SECRETARIO DE BIENESTAR SOCIAL.- LIC. GERARDO PEÑA FLORES.- Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS, DE LA SECRETARÍA DE BIENESTAR SOCIAL DEL GOBIERNO DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Bienestar Social del Gobierno del Estado de Tamaulipas, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Bienestar Social del Gobierno del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado Número 110, Tomo CXLIII, el 12 de septiembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
