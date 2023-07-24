@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-agricola-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2023-06-05"
+last_updated: "2023-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -445,9 +445,17 @@ V. Emitir los reglamentos necesarios para la aplicación de la presente Ley;
 
 VI. Celebrar toda clase de convenios y acuerdos de coordinación que coadyuven en el cumplimiento del objeto y lineamientos de la presente Ley;
 
-VII. Definir en coordinación con las dependencias federales y estatales del sector, las políticas que se implementaran para el aprovechamiento de las aguas destinadas al uso agrícola, procurando que el recurso hídrico disponible en las cuencas hidrológicas del Estado, sea utilizado preferentemente por Productores Agrícolas del Estado; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2023)</small>
 
-VIII. Las demás que le otorgue la presente Ley, su Reglamento y demás disposiciones relativas y aplicables.
+VII. Definir en coordinación con las dependencias federales y estatales del sector, las políticas que se implementaran para el aprovechamiento de las aguas destinadas al uso agrícola, procurando que el recurso hídrico disponible en las cuencas hidrológicas del Estado, sea utilizado preferentemente por Productores Agrícolas del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JULIO DE 2023)</small>
+
+VIII. Promover que las organizaciones y asociaciones del sector agrícola que se constituyan en el estado tengan entre sus prioridades, el fortalecimiento de las unidades productoras familiares, de las mujeres y los jóvenes; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VIII], P.O. 24 DE JULIO DE 2023)</small>
+
+IX. Las demás que le otorgue la presente Ley, su Reglamento y demás disposiciones relativas y aplicables.
 
 ###### Artículo 9°.
 
@@ -579,17 +587,21 @@ LIX. Supervisar los productos y subproductos agrícolas, permitiendo o negando s
 
 LX. Fomentar y difundir entre los productores y organizaciones agrícolas cursos, seminarios, talleres y toda aquella información que les sea de utilidad a través de medios escritos y digitales, tendientes a impulsar la educación y tecnificación de la actividad agrícola;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA ], P.O. 24 DE JULIO DE 2023)</small>
 
 LXI. Promover la creación de huertos urbanos dentro de las zonas urbanas del Estado, siendo estos el elemento principal para el fomento de la Agricultura Urbana en la entidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2023)</small>
 
-LXII. Fomentar la producción mediante la agricultura regenerativa que permita la protección y restauración de los suelos y sus nutrientes para garantizar la soberanía alimentaria, evitar la liberación de carbono y mantener la vegetación y su función en la regulación del clima y la protección contra la erosión; y
+LXII. Propiciar y promover el establecimiento de industria para la ocupación y desarrollo de las mujeres y jóvenes, otorgando asesoría técnica y financiera para su organización y consolidación;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN LXII], P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2023)</small>
 
-LXIII. Las demás que le otorgue la presente Ley, su Reglamento y demás disposiciones relativas y aplicables.
+LXIII. Promover y apoyar los proyectos productivos con especial atención en los que sean generados por mujeres y jóvenes; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN LXIII], P.O. 24 DE JULIO DE 2023)</small>
+
+LXIV. Las demás que establezca la presente Ley, su reglamento, los convenios que celebre la Persona del Titular Poder Ejecutivo del Estado y demás normatividad aplicable.
 
 ###### Artículo 10.
 
@@ -1986,6 +1998,14 @@ Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que
 P.O. 5 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 344.- SE REFORMA LA LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 392.- SE REFORMA LA LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
