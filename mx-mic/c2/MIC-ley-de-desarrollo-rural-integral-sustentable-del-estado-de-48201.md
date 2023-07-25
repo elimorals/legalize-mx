@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-4820
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-18"
-last_updated: "2022-12-02"
+last_updated: "2023-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 18 de enero de 2006.
 
@@ -53,9 +53,17 @@ II. Impulsar el desarrollo rural en forma integral y sustentable;
 
 III. Promover la participación organizada y corresponsable de los pobladores rurales en el desarrollo rural;
 
-IV. Procurar la continuidad y suficiencia de los planes y programas de trabajo con una visión de largo alcance a través de trienios y sexenios gubernamentales; y,
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-V. Disminuir las diferencias existentes en el desarrollo del medio rural, como una forma de alcanzar la justicia social en el campo michoacano.
+IV. Procurar la continuidad y suficiencia de los planes y programas de trabajo con una visión de largo alcance a través de trienios y sexenios gubernamentales;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+V. Disminuir las diferencias existentes en el desarrollo del medio rural, como una forma de alcanzar la justicia social en el campo michoacano; y,
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2023)</small>
+
+VI. Establecer estrategias de atención prioritaria al sector agrícola, como la agricultura familiar, entre otras.
 
 ###### Artículo 2.
 
@@ -139,11 +147,17 @@ II. Actividades económicas: Las actividades agropecuarias y otras actividades p
 
 III. Actores de la sociedad rural: Personas físicas o morales de los sectores social y privado que integran la sociedad rural;
 
-IV. Agricultura orgánica. El sistema integral de gestión de la producción que fomenta y mejora la salud del agrosistema, y en particular la biodiversidad, los ciclos biológicos y la actividad biológica del suelo;
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2023)</small>
 
-V. Autogestión: Capacidad de las personas en lo individual y en forma organizada de elegir y ejercer plenamente sus derechos sociales para planear y actuar en la construcción de su propio desarrollo;
+IV. Agricultura Familiar. El modo de vida y trabajo agrícola practicado por hombres y mujeres de un mismo núcleo familiar, dotado de una organización básica bajo la cual se producen colectivamente alimentos y otros bienes, para consumo propio, trueque y comercialización a pequeña escala;
 
-VI. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
+> <small>(REFORMADA. P.O. 25 DE JULIO DE 2023)</small>
+
+V. Agricultura Orgánica. El sistema integral de gestión de la producción que fomenta y mejora la salud del agrosistema, y en particular la biodiversidad, los ciclos biológicos y la actividad biológica del suelo;
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2023)</small>
+
+VI. Autogestión: Capacidad de las personas en lo individual y en forma organizada de elegir y ejercer plenamente sus derechos sociales para planear y actuar en la construcción de su propio desarrollo;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -1415,11 +1429,49 @@ Para ejercer una plena federalización, con apoyo en la presente Ley, la Ley de 
 
 La Secretaría promoverá mecanismos e instrumentos de protección en la seguridad de los bienes y la vida de los pobladores rurales.
 
-### Capítulo II. De los Trabajadores y Jornaleros Agrícolas
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE JULIO DE 2023)</small>
 
-### Capítulo Único. De la Denuncia Popular
+### Capítulo II. De la Agricultura Familiar
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2023)</small>
+
+###### Artículo 130 Bis.
+
+La Secretaría fomentará la creación, preservación, promoción y desarrollo de la agricultura familiar rural como una estrategia para lograr la seguridad alimentaria del Estado, promoviendo una política pública enfocada en la participación organizada de autoridades en colaboración con las familias de tradición rural para lograr la creación, restauración y desarrollo de su economía, a través de la implementación de la agricultura y ganadería orgánica mediante los huertos de traspatio a través de pequeñas granjas familiares de traspatio y con la aplicación de abonos orgánicos.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2023)</small>
+
+###### Artículo 130 Ter.
+
+Desarrollar la agricultura familiar a través del uso de conocimientos, tecnología y buenas prácticas, respetando la cultura, las tradiciones y los hábitos de las comunidades agrícolas, considerando como una estrategia necesaria para procurar el bienestar social de las unidades de producción familiar y reducir la pobreza del sector rural, al mismo tiempo que se contribuye al ejercicio pleno del derecho humano a una alimentación adecuada y suficiente, al desarrollo integral de las personas, familias y comunidades, al sostenimiento de las pautas culturales y recursos naturales de cada región del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2023)</small>
+
+###### Artículo 130 Quater.
+
+La Secretaría coordinará las acciones, así como las relaciones interinstitucionales con las dependencias, en el ámbito de sus respectivas competencias, estando facultada para realizar la suscripción de los convenios e instrumentos jurídicos necesarios, además:
+
+I. Coordinará las políticas públicas y los programas gubernamentales con incidencia en la agricultura familiar, a través de un abordaje integral, interdisciplinario e intersectorial, con asignación de recursos a este tipo de unidades de producción que haga operativa y rentable la actividad;
+
+II. Desarrollará programas específicos sobre aspectos tales como: Educación agraria, agropecuaria y asistencia técnica para la producción agrícola, la agricultura familiar; mercadeo; asociación; empleo rural y emprendedurismo; financiamiento; seguros; sello campesino; compras públicas; seguridad semillera; patrimonio genético; riego; gestión ambiental; investigación e innovación tecnológica; sistemas de información; diversificación de ingresos, relevo generacional e igualdad de género;
+
+III. Fomentará el acceso a los medios adecuados de producción de las familias dedicadas a la agricultura familiar;
+
+IV. Desarrollará programas de capacitación y asistencia técnica gratuita a los productores de agricultura familiar;
+
+V. Facilitará y estimulará la asociación y el cooperativismo de los agricultores familiares; y,
+
+VI. Promoverá la participación de los agricultores familiares en ferias locales, para el intercambio y comercialización de los productos de la agricultura familiar.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2023)</small>
+
+###### Artículo 130 Quinquies.
+
+Se dará prioridad a las unidades de producción familiar, a las personas, familias y comunidades en situación de mayor vulnerabilidad que practiquen la agricultura familiar.
+
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
+
+### Capítulo III. De los Trabajadores y Jornaleros Agrícolas
 
 ###### Artículo 131.
 
@@ -1459,9 +1511,11 @@ XI. Mejorar la coordinación interinstitucional entre las dependencias de la adm
 
 Los trabajadores y los jornaleros agrícolas serán considerados grupos sociales vulnerables, por lo que tendrán prioridad en el otorgamiento de apoyos diferenciados por parte del Ejecutivo del Estado y de los gobiernos municipales, para propiciar mejoras de desarrollo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
 
-Artículo 133 A.- Son derechos de los jornaleros agrícolas los siguientes:
+###### Artículo 133 Bis.
+
+Son derechos de los jornaleros agrícolas los siguientes:
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -1499,43 +1553,67 @@ VIII. Ser beneficiarios del Programa Estatal de Apoyo para los Jornaleros Agríc
 
 La mujer que sea jornalera agrícola tendrá derecho a gozar de su incapacidad por maternidad, conservando su salario íntegro, así como su empleo, durante la misma.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
 
-Artículo 133 B.- El Ejecutivo del Estado y los gobiernos municipales, atenderán las condiciones necesarias a los centros de desarrollo infantil, que cuenten con asistencia psicológica y nutricional culturalmente adecuada para las niñas y niños hijos de los trabajadores agrícolas; así como apoyos en la misma índole para madres gestantes.
+###### Artículo 133 Ter.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+El Ejecutivo del Estado y los gobiernos municipales, atenderán las condiciones necesarias a los centros de desarrollo infantil, que cuenten con asistencia psicológica y nutricional culturalmente adecuada para las niñas y niños hijos de los trabajadores agrícolas; así como apoyos en la misma índole para madres gestantes.
 
-Artículo 133 C.- La Secretaría dará prioridad a los productores agrícolas que incentiven y respeten los derechos de los jornaleros agrícolas, con incentivos fiscales, apoyos productivos y financiamientos para capacitación, así como dotación de equipo agrícola.
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+###### Artículo 133 Quater.
 
-Artículo 133 D.- La Secretaría dará prioridad en el acceso a apoyos productivos y financiamientos para capacitación a los productores agrícolas que incentiven y respeten los derechos de los jornaleros agrícolas.
+La Secretaría dará prioridad a los productores agrícolas que incentiven y respeten los derechos de los jornaleros agrícolas, con incentivos fiscales, apoyos productivos y financiamientos para capacitación, así como dotación de equipo agrícola.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
 
-Artículo 133 E.- El Ejecutivo del Estado a través de la Dirección del Trabajo y Previsión Social realizará de manera permanente supervisiones e inspecciones para que el productor agrícola garantice a los jornaleros agrícolas; condiciones mínimas, como:
+###### Artículo 133 Quinquies.
 
-a) Instalaciones higiénicas, adecuadas y dignas para que habiten los jornaleros y sus familias;
+La Secretaría dará prioridad en el acceso a apoyos productivos y financiamientos para capacitación a los productores agrícolas que incentiven y respeten los derechos de los jornaleros agrícolas.
 
-b) El equipo adecuado y la capacitación necesaria para el desempeño de su labor;
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
 
-c) No ser explotados laboralmente o con jornadas excesivas;
+###### Artículo 133 Sexies.
 
-d) Cuando requieran ser traslados, sea en condiciones seguras y en distancias prolongadas se les proporcione servicios de alimentación y agua; y,
+El Ejecutivo del Estado a través de la Dirección del Trabajo y Previsión Social realizará de manera permanente supervisiones e inspecciones para que el productor agrícola garantice a los jornaleros agrícolas; condiciones mínimas, como:
 
-e) La no contratación de niñas o niños, conforme a lo establecido en la Ley Federal del Trabajo.
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+I. Instalaciones higiénicas, adecuadas y dignas para que habiten los jornaleros y sus familias;
 
-Artículo 133 F.- Se apoyará a los jornaleros agrícolas en la obtención y regularización de documentos de identidad, ante el registro civil y otras instancias que les permita tener identidad y certeza jurídica.
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+II. El equipo adecuado y la capacitación necesaria para el desempeño de su labor;
 
-Artículo 133 G.- La Comisión Estatal de los Derechos Humanos a través de sus visitadurías regionales, vigilará permanentemente el respeto de los derechos de los jornaleros agrícolas, brincando asesoría gratuita y atendiendo cualquier queja de violación a los mismos.
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+III. No ser explotados laboralmente o con jornadas excesivas;
 
-Artículo 133 H.- El Consejo Estatal será quien evalúe anualmente los alcances y logros del Programa Estatal de Apoyo para los Jornaleros Agrícolas y sus Familias, lo cual también deberá ser informado a la Comisión de Desarrollo Rural y a la Comisión de Migración del Congreso del Estado.
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
+
+IV. Cuando requieran ser traslados, sea en condiciones seguras y en distancias prolongadas se les proporcione servicios de alimentación y agua; y,
+
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
+
+V. La no contratación de niñas o niños, conforme a lo establecido en la Ley Federal del Trabajo.
+
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
+
+###### Artículo 133 Septies.
+
+Se apoyará a los jornaleros agrícolas en la obtención y regularización de documentos de identidad, ante el registro civil y otras instancias que les permita tener identidad y certeza jurídica.
+
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
+
+###### Artículo 133 Octies.
+
+La Comisión Estatal de los Derechos Humanos a través de sus visitadurías regionales, vigilará permanentemente el respeto de los derechos de los jornaleros agrícolas, brincando asesoría gratuita y atendiendo cualquier queja de violación a los mismos.
+
+> <small>(REFORMADA SU NÚMERACIÓN, P.O. 25 DE JULIO DE 2023)</small>
+
+###### Artículo 133 Nonies.
+
+El Consejo Estatal será quien evalúe anualmente los alcances y logros del Programa Estatal de Apoyo para los Jornaleros Agrícolas y sus Familias, lo cual también deberá ser informado a la Comisión de Desarrollo Rural y a la Comisión de Migración del Congreso del Estado.
 
 ###### Artículo 134.
 
@@ -1550,6 +1628,10 @@ El Consejo Estatal propondrá mecanismos para la reversión de la cultura migrat
 Bajo el principio de equidad y para disminuir las asimetrías, la Secretaría, coordinará esfuerzos y acciones específicas para defensa y dignificación de la vida de los trabajadores y jornaleros agrícolas, mediante la concurrencia de diversas dependencias, acciones, instrumentos y recursos que inciden en el sector rural.
 
 ## TÍTULO X. Del Derecho Ciudadano de Denuncia
+
+### Capítulo Único. De la Denuncia Popular
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 137.
 
@@ -1684,3 +1766,9 @@ P.O. 2 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 211 POR EL QUE "SE REFORMA EL ARTÍCULO 5 DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+P.O. 25 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 382 POR EL QUE "SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 1 Y LOS ARTÍCULOS 133 A, 133 B, 133 C, 133 D, 133 E, 133 F, 133 G Y 133 H; Y, SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 1; LA FRACCIÓN IV AL ARTÍCULO 6, RECORRIÉNDOSE EN SU ORDEN LAS FRACCIONES IV Y V, PARA SER AHORA LAS FRACCIONES V Y VI; Y, EL CAPÍTULO II "DE LA AGRICULTURA FAMILIAR", RECORRIÉNDOSE EL SUBSECUENTE PARA SER AHORA EL CAPÍTULO III "DE LOS TRABAJADORES Y JORNALEROS AGRÍCOLAS", AL TÍTULO IX DENOMINADO "DEL DESARROLLO SOCIAL Y LOS TRABAJADORES AGRÍCOLAS", EL CUAL INCLUYE LOS ARTÍCULOS 130 BIS, 130 TER, 130 QUATER Y 130 QUINQUIES, TODOS DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se instruye su publicación y observancia para su conocimiento general y efectos legales procedentes.
