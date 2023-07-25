@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-de-la-violencia-escolar-en-el-estado-89252
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2023-04-21"
+last_updated: "2023-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
 
 Ley publicada en la Novena Sección del Periódico Oficial del Estado de Michoacán, el viernes 17 de agosto del 2012.
 
@@ -103,7 +103,9 @@ XVII. Secretaría: Secretaría de Educación en el Estado de Michoacán;
 
 XVIII. Víctima: Es la persona o la institución que resulta afectada por la violencia escolar; y,
 
-XIX. Violencia escolar: Son los actos producidos entre los estudiantes de forma intencional, sea metódica, sistemática o reiterada, produciendo un daño apreciable.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+XIX. Violencia escolar: A toda acción u omisión intencionalmente dañina, sea metódica, sistemática o reiterada ejercida por alguno de los miembros de la comunidad educativa y que se produce dentro de los espacios físicos educativos u otros relacionados con lo escolar, así como las amenazas de tales actos, coacción o la privación arbitraria de algún derecho.
 
 ### CAPÍTULO SEGUNDO. VIOLENCIA ESCOLAR
 
@@ -118,6 +120,14 @@ II. En las cosas: Todo daño o menoscabo a bienes o posesiones jurídicas con el
 III. Psicoemocional: Toda acción o comunicación, dirigida a desvalorar, intimidar o controlar las acciones, comportamientos y decisiones, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, chantaje, humillaciones, comparaciones destructivas o actitudes devaluatorias, que produzca en quien la recibe un daño psicológico o emocional; y,
 
 IV. Sexual: Toda acción u omisión que amenace, ponga en riesgo o lesione la libertad, seguridad, integridad y desarrollo psicosexual de los estudiantes.
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2023)</small>
+
+V. Digital: Todo acto intencionalmente dañino que se presente a través de las tecnologías de la información y de la comunicación de manera reiterada en el entorno escolar; y,
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2023)</small>
+
+VI. Exclusión educativa: Es cuando la niña, niño y/o adolescente es aislado, apartado, segregado, o amenazado con serlo, de la convivencia escolar por razones de discriminación de cualquier tipo.
 
 ###### ARTÍCULO 5.
 
@@ -203,7 +213,9 @@ III. Coordinará a las autoridades mencionadas en esta Ley;
 
 IV. Supervisará que las autoridades integren políticas públicas y acciones que fomenten la cultura de la no violencia escolar; y,
 
-V. Informará en el mes de agosto por escrito a las Comisiones de Dictamen de Derechos Humanos y Educación del Congreso del Estado sobre el estado que guarda las acciones ordenadas por esta Ley.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+V. Informará en el mes de agosto por escrito a las Comisiones de Dictamen de Protección a la Niñez y Adolescencia y Educación del Congreso del Estado sobre el estado que guardan las acciones ordenadas por esta Ley.
 
 ###### ARTÍCULO 10.
 
@@ -319,7 +331,9 @@ IV. Ordenar las investigaciones necesarias o los dictámenes pertinentes a fin d
 
 V. Acreditar a las instituciones como libres de violencia escolar;
 
-VI. Celebrar convenios de cooperación, coordinación y concertación con los sectores públicos, privados y sociales para promover la cultura de la no violencia escolar;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+VI. Celebrar convenios de cooperación, coordinación y concentración con los sectores públicos, privados y sociales para promover la cultura de la no violencia escolar, así como diseñar la capacitación de profesores sobre la detección y atención de la violencia escolar;
 
 VII. Coordinar acciones con los gobiernos municipales, las organizaciones de la sociedad civil, asociaciones de padres de familia y vecinales, con el objeto de fomentar su participación en el Protocolo;
 
@@ -455,15 +469,19 @@ Es denuncia cuando sea presentada por las víctimas de la violencia escolar. Ser
 
 Si un trabajador de la educación tiene conocimiento de los hechos o actos dirigidos hacia uno o varios estudiantes, está obligado a informarlo ante las instancias escolares correspondientes.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 27.
 
-Las denuncias podrán ser presentadas por escrito al Consejo.
+Las denuncias podrán ser presentadas por escrito al Consejo o mediante el buzón anónimo de conformidad con lo establecido en la fracción III del artículo 8 de la presente Ley.
 
-Deberán ser recibidas y enviadas al mismo, por la autoridad escolar correspondiente.
+Deberán ser recibidas, y enviadas al mismo, por la autoridad escolar correspondiente.
 
-Si por alguna circunstancia el denunciante no puede entregarla por escrito, la realizará de manera verbal, donde la autoridad estará obligada a documentarla para entregarla al Consejo.
+Si por alguna circunstancia el denunciante no puede entregarla por escrito, la realizará de manera verbal, donde la autoridad estará obligada a documentar para entregarla al Consejo.
 
-En caso de menores de edad que presenten denuncias o relación de hechos, éstos contarán de ser posible con apoyo psicológico y pedagógico. La autoridad escolar cuidará que los hechos denunciados tengan verosimilitud. Podrá contarse con la asistencia de los padres o tutores.
+En caso de menores de edad que presenten denuncias o relación de hechos, éstos contarán de ser posible con apoyo psicológico y pedagógico. La autoridad escolar cuidará que los hechos denunciados tengan verosimilitud.
+
+Podrá contar con la asistencia de los padres o tutores.
 
 ###### ARTÍCULO 28.
 
@@ -561,6 +579,10 @@ En los casos de violencia escolar donde parte de la solución de conflicto consi
 
 La imposición de medidas terapéuticas de carácter psicológico, pedagógico, sanitario o de otro tipo tendrán siempre que ser aplicadas con el consentimiento formal de quien las recibe, o en caso de ser menores de edad, de sus padres o tutores.
 
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2023)</small>
+
+ARTÍCULO 40 BIS. Todas las acciones y sanciones emanadas por la presente Ley, serán corresponsables los padres, tutores o quienes ejerzan la patria potestad.
+
 ###### ARTÍCULO 41.
 
 Las autoridades educativas tendrán obligación de sugerir la implementación de medidas que involucren la intervención de autoridades de seguridad y sanitarias.
@@ -602,3 +624,11 @@ P.O. 21 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 356 POR EL QUE “SE REFORMAN LAS FRACCIONES VI Y VII Y SE ADICIONAN LAS FRACCIONES VIII, IX, X, XI Y XII AL ARTÍCULO 7; SE REFORMAN LAS FRACCIONES XII Y XIII Y SE ADICIONAN LAS FRACCIONES XIV, XV, XVI Y XVII AL ARTÍCULO 15; TODOS DE LA LEY PARA LA ATENCIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE MICHOACÁN.”]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 392 POR EL QUE “SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 3, LA FRACCIÓN V DEL ARTÍCULO 9, LA FRACCIÓN VI DEL ARTÍCULO 18 Y EL ARTÍCULO 27; Y, SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 4 Y EL ARTÍCULO 40 BIS, TODOS DE LA LEY PARA LA ATENCIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE MICHOACÁN DE OCAMPO.”]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
