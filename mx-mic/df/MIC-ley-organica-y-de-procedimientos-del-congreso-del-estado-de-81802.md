@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2023-07-17"
+last_updated: "2023-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -317,7 +317,9 @@ Los grupos parlamentarios se tienen por constituidos cuando presenten a la Mesa 
 
 I. Acta en la que conste la decisión de sus miembros de constituirse en grupo, con la especificación del nombre del partido, y lista de sus integrantes; y,
 
-II. El nombre de los diputados que hayan sido designados como coordinador y vicecoordinador del Grupo parlamentario, de acuerdo a los estatutos del partido político en el que militen.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+II. El nombre de los diputados que hayan sido designados como coordinador y vicecoordinador del Grupo Parlamentario de acuerdo a los estatutos del partido político en el que militen, procurando atender el principio de paridad de género.
 
 ###### ARTÍCULO 15.
 
@@ -449,11 +451,11 @@ VI. Jurado de Sentencia.
 
 ### CAPÍTULO SEGUNDO. DE LA MESA DIRECTIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 29.
 
-La Mesa Directiva se integra con un Presidente, quien es el Presidente del Congreso, un Vicepresidente y tres secretarios, por un periodo de un año, electos en votación nominal y en un solo acto, a propuesta de la Junta, cuidando la representación plural del Congreso. En la integración de la Mesa Directiva se procurará observar el principio de igualdad de género.
+La Mesa Directiva se integra con una Presidencia, quien será el Presidente o Presidenta del Congreso, una Vicepresidencia y tres Secretarías, por un periodo de un año, electos en votación nominal y en un solo acto, a propuesta de la Junta, cuidando la representación plural del Congreso. En la integración de la Mesa Directiva se procurará observar el principio de paridad de género.
 
 La elección se hará en el mes de septiembre de cada año e iniciarán sus funciones el día quince del propio mes.
 
@@ -4614,6 +4616,14 @@ Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicac
 P.O. 17 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 381 POR EL QUE ”SE ADICIONA UN TÍTULO TERCERO, UN CAPÍTULO PRIMERO Y SEGUNDO; Y, LOS ARTÍCULOS, 320, 321, 322; 323 Y 324, AL LIBRO TERCERO, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 416 POR EL QUE “SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 14 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 29, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
