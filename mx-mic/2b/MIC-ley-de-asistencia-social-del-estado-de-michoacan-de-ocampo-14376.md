@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2020-12-23"
+last_updated: "2023-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -73,11 +73,11 @@ Corresponde al Estado y Gobiernos Municipales, en el marco de la corresponsabili
 
 Para los efectos de esta Ley, se entienden como servicios de asistencia social el conjunto de acciones y programas del gobierno y la sociedad, tendientes a la atención de los individuos, familias o grupos de población en situación de riesgo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 5o.
 
-Son participantes y sujetos de atención de los servicios de asistencia social, preferentemente los siguientes:
+Son sujetos de atención de los servicios de asistencia social, los siguientes:
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -97,15 +97,17 @@ IV. Alcohólicos y farmacodependientes;
 
 V. La mujer que se encuentre en período de gestación, lactancia o que tenga a su cargo exclusivo los alimentos de (sic) hijo menor de edad o con discapacidad, que no tenga ingreso adicional o empleo, o teniéndolos, su ingreso no sea mayor de un salario mínimo general diario vigente en la entidad;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-VI. Ancianos en desamparo, discapacidad, marginación o sujeto a maltrato;
+VI. Personas adultas mayores en desamparo, discapacidad, marginación o sujetos a maltrato;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-VII. Personas con discapacidad, por causa de ceguera, sordera, mudez, alteraciones del sistema neuromusculoesquelético, discapacidades mentales, problemas del lenguaje u otras discapacidades;
+VII. Personas con discapacidad;
 
-VIII. Indigentes;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+VIII. Personas en situación de calle;
 
 IX. Personas que por su extrema ignorancia requieran de servicios asistenciales;
 
@@ -113,11 +115,17 @@ X. Víctimas de la comisión de delitos, en estado de abandono;
 
 XI. Familiares que dependan económicamente de quienes se encuentran detenidos por causas penales, y que queden en estado de abandono;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-XII. Habitantes marginados del medio rural o del urbano, que carezcan de lo indispensable para su subsistencia; y,
+XII. Personas en situación de vulnerabilidad del medio rural o del urbano, que carezcan de lo indispensable para su subsistencia;
 
-XIII. Personas afectadas por desastres.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+XIII. Personas afectadas por desastres; y,
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2023)</small>
+
+XIV. Las demás que consideren las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -137,23 +145,27 @@ VI. Presentar peticiones, quejas denuncias y/o querellas, a través de su repres
 
 VII. Es responsabilidad del Estado, el implementar políticas públicas a nivel estatal y municipal, tendientes a la detección oportuna de las conductas de maltrato a las niñas, niños y adolescentes en el seno familiar, así como cualquier tipo de conductas de maltrato psicológico, físico, sexual, emocional, patrimonial ocasionadas por el mismo medio socioeconómico donde se desarrollan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2023)</small>
+
 ###### ARTICULO 6o.
 
-Se entienden como servicios básicos en materia de asistencia social, los siguientes:
+Se deberá entender como servicios básicos en materia de asistencia social de manera enunciativa más no limitativa, los siguientes:
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
 I. La atención a personas que por sus carencias socioeconómicas o con discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo.
 
-II. La atención a menores y ancianos en estado de abandono o desamparo, en establecimientos especializados;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+II. La atención a niñas, niños, adolescentes, personas en situación de calle y personas adultas mayores en estado de abandono o desamparo, en establecimientos especializados;
 
 III. La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
 IV. El ejercicio de la tutela de los menores, en términos de las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-V. La prestación de servicios de asistencia jurídica y de orientación social a menores, ancianos y personas con discapacidad de escasos recursos;
+V. La prestación de servicios de asistencia jurídica y de orientación social a niñas, niños, adolescentes, personas adultas mayores y personas con discapacidad de escasos recursos;
 
 VI. El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas;
 
@@ -193,9 +205,9 @@ El Sistema para el Desarrollo Integral de la Familia Michoacana, Organismo Públ
 
 El Organismo para el logro de sus objetivos tendrá las siguientes funciones:
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-I. Promover y prestar servicios de asistencia social, con apoyo en las normas que dicte la Secretaría de Salud y el Sistema Nacional para el Desarrollo Integral de la Familia, así como el (sic) Ejecutivo a través de la Secretaría de Desarrollo Social. Las facultades de las dependencias y entidades mencionadas, se entienden sin perjuicio de las atribuciones del Sistema;
+I. Promover y prestar los servicios de asistencia social a las personas a que se refiere la presente Ley, con apoyo en las normas que dicte la Secretaría de Salud y el Sistema Nacional y Estatal para el Desarrollo Integral de la Familia, así como el Gobierno del Estado a través de la Secretaría del Bienestar;
 
 II. Apoyar el desarrollo de la familia y de la comunidad;
 
@@ -205,27 +217,33 @@ IV. Promover e impulsar el sano crecimiento físico, mental y social de la niñe
 
 V. Atender las funciones de auxilio que realicen las instituciones de beneficencia privada con sujeción a lo que disponga la Ley relativa;
 
-VI. Cuidar y dar en adopción a niños expósitos, previa investigación de la solvencia moral de los adoptantes, debiendo vigilar el proceso de integración de los adoptados;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+VI. Supervisar el procedimiento de adopción de las niñas, niños y adolescentes expósitos, en los términos de la legislación aplicable;
 
-VII. Operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos desamparados y personas con discapacidad sin recursos;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-VIII. Diseñar programas tendientes a prevenir y evitar el mal trato de menores o ancianos, proporcionándoles atención, cuidado y vigilancia, y en su caso, denunciar o encauzar el procedimiento ante las autoridades competentes;
+VII. Operar establecimientos que presten servicios de asistencia social en beneficio de niñas, niños y adolescentes en estado de abandono, adultos mayores desamparados, personas en situación de calle y personas con discapacidad sin recursos;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-IX. Llevar a cabo acciones en materia de prevención de discapacidades y de rehabilitación de personas con discapacidad, en centros hospitalarios, con sujeción de la Ley General de Salud.
+VIII. Diseñar programas tendientes a evitar, prevenir y sancionar el maltrato de niñas, niños y adultos mayores, proporcionándoles atención, cuidado y vigilancia, y en su caso, denunciar o encauzar el procedimiento ante las autoridades competentes;
 
-X. Realizar estudios e investigaciones sobre problemas de la familia, con el fin de establecer condiciones par (sic) mejorar su integración y hacer asequible la paternidad responsable;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+IX. Llevar a cabo acciones en materia de prevención de invalidez y de rehabilitación de personas con discapacidad, en centros no hospitalarios, con sujeción a la Ley General de Salud;
 
-XI. Realizar estudios e investigaciones sobre asistencia social, y promover a través del Ejecutivo iniciativas tendientes a amparar la protección del menor, del anciano y de personas con discapacidad;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+X. Realizar estudios e investigaciones sobre los problemas de la familia, con el fin de establecer condiciones para mejorar su integración y hacer asequible la paternidad responsable;
 
-XII. Prestar servicios de asistencia jurídica con efectos de representación de los menores en caso de que carezcan de ella o sea deficiente, y de orientación social a ancianos y a personas con discapacidad, así como los complementarios en problemas sicológicos.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+XI. Realizar estudios e investigaciones sobre asistencia social, y promover a través del Ejecutivo iniciativas tendientes a amparar la protección de las niñas, niños, adolescentes, adultos mayores, personas en situación de calle y de personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+XII. Prestar servicios de representación, asistencia jurídica y de orientación social a niñas, niños, adolescentes, adultos mayores, personas con discapacidad, personas en situación de calle, madres adolescentes y solteras, indígenas migrantes o desplazados y a todas aquellas personas que no puedan ejercer sus derechos de manera plena, así como los complementarios en problemas psicológicos;
 
 XIII. Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y expósitos, así como en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales vigentes;
 
@@ -626,3 +644,19 @@ P.O. 23 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 410 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 5° Y SUS FRACCIONES VI, VII, VIII, XII Y XIII, Y SE ADICIONA LA FRACCIÓN XIV; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6° Y SUS FRACCIONES II Y V; Y, LAS FRACCIONES I, VI, VII, VIII, IX, X, XI Y XII DEL ARTÍCULO 9°, TODOS DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto de Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
