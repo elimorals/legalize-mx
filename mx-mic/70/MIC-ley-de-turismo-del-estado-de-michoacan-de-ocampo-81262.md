@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-turismo-del-estado-de-michoacan-de-ocampo-81262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2019-08-28"
+last_updated: "2023-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 3 de mayo de 2011.
 
@@ -705,6 +705,8 @@ Cada miembro propietario designará a un suplente. Los representantes propietari
 
 El Consejo Consultivo Turístico del Estado, es un órgano interinstitucional, de participación ciudadana, plural, colegiado de asesoría, consulta y apoyo técnico, el cual tiene por objeto propiciar la concurrencia activa, comprometida y responsable de los sectores público, social, académico y privado, con el objetivo de emitir opiniones y propuestas para la elaboración de planes, programas y acciones en la materia, así como para la formulación de recomendaciones destinadas a los prestadores de servicios turísticos.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 69.
 
 El Consejo estará integrado por:
@@ -715,41 +717,53 @@ II. El Secretario de Turismo del Estado, quien fungirá como Secretario Técnico
 
 III. El Presidente de la Comisión de Turismo del Congreso del Estado;
 
-IV. El titular de la Secretaría de Desarrollo Económico;
+IV. El titular de la Secretaría de Desarrollo Económico del Estado;
 
-V. El titular de la Secretaría de Cultura;
+V. El titular de la Secretaría de Cultura del Estado;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+VI. El Titular de la Secretaría del Medio Ambiente del Estado;
 
-VI. El Titular de la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático;
+VII. El titular de la Secretaría de Desarrollo Urbano y Movilidad del Estado;
 
-VII. El titular de la Secretaría de Comunicaciones y Obras Públicas del Estado;
+VIII. El titular de la Secretaría de Comunicaciones y Obras Públicas del Estado;
 
-VIII. El titular de la Casa de las Artesanías del Estado;
+IX. El titular del Instituto del Artesano Michoacano;
 
-IX. El Presidente Municipal de cada uno de los municipios cabeceras de las regiones turísticas del Estado;
+X. El Presidente Municipal de cada uno de los municipios cabeceras de las regiones turísticas del Estado;
 
-X. El titular de la Confederación Patronal de la República Mexicana en el Estado;
+XI. Un representante de los presidentes municipales de los Pueblos Mágicos designado por ellos;
 
-XI. El Titular del Consejo Coordinador Empresarial del Estado de Michoacán;
+XII. El titular de la Confederación Patronal de la República Mexicana en el Estado;
 
-XII. El titular de la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados en el Estado;
+XIII. El Titular del Consejo Coordinador Empresarial del Estado de Michoacán;
 
-XIII. El titular de la Asociación de Hoteles y Moteles del Estado de Michoacán;
+XIV. El titular de la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados en el Estado;
 
-XIV. El titular de la Asociación de Guías de Turistas en el Estado; y,
+XV. El titular de la Asociación de Hoteles y Moteles del Estado de Michoacán;
 
-XV. El titular de la Asociación Michoacana de Balnearios y Parques Acuáticos.
+XVI. Un representante de las Asociaciones de Guías de Turistas en el Estado;
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+XVII. El titular de la Asociación Michoacana de Balnearios y Parques Acuáticos;
 
-XVI. Un representante de la Cámara Nacional de Comercio, Servicios y Turismo, a propuesta de las cámaras en los municipios adheridas a esa organización, existentes en el Estado;
+XVIII. Un representante de la Cámara Nacional de Comercio, Servicios y Turismo, a propuesta de las cámaras en los municipios adheridas a esa organización, existentes en el Estado;
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+XIX. Un representante de la Cámara Nacional de la Industria de la Transformación, a propuesta de las cámaras en los municipios adheridas a esa organización, existentes en el Estado;
 
-XVII. Un representante de la Cámara Nacional de la Industria de la Transformación, a propuesta de las cámaras en los municipios adheridas a esa organización, existentes en el Estado.
+XX. El titular del Consejo Nacional Empresarial Turístico, Capítulo Michoacán;
 
-Por decisión del Consejo podrán ser invitadas las universidades, instituciones y demás entidades públicas, privadas, sociales, asociaciones, y personas relacionadas con el turismo, quienes tendrán derecho a voz, pero sin voto.
+XXI. Un representante del aeropuerto con mayor movimiento de pasajeros del Estado;
+
+XXII. El Presidente de la Cámara Nacional del Autotransporte de Pasaje y Turismo, en el Estado;
+
+XXIII. El presidente de la Red de Universidades del Estado, JUNTOS POR MICHOACÁN;
+
+XXIV. La titular del Consejo Coordinador de Mujeres Empresarias del Estado;
+
+XXV. La titular de la Asociación Empresarias de Michoacán; y,
+
+XXVI. La persona titular de la Dirección General del Centro de Convenciones y Exposiciones del Estado.
+
+El Consejo podrá invitar a las personas, organizaciones o instituciones relacionadas con el turismo, quienes tendrán derecho a voz, pero sin voto.
 
 Los miembros del Consejo Consultivo contarán con el suplente respectivo.
 
@@ -1392,3 +1406,15 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO VIGÉSIMO.- SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 4 Y EL ARTÍCULO 18 DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 404 POR EL QUE "SE REFORMA EL ARTÍCULO 69 DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Michoacán de Ocampo.
+
+TERCERO. El Ejecutivo del Estado cuenta con 60 días, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones reglamentarias correspondientes.
+
+CUARTO. Los nuevos integrantes del Consejo Consultivo Turístico del Estado, deberán quedar integrados en la sesión próxima inmediata que se lleve a cabo, después de la entrada en vigor del presente Decreto.
