@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-los-pueblos-134477"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-03-20"
-last_updated: "2021-01-29"
+last_updated: "2023-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-03-04"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JULIO DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 20 de marzo de 2019.
 
@@ -141,7 +141,9 @@ La Junta de Gobierno se integrará de conformidad con lo señalado en la Ley y p
 
 Los suplentes de los integrantes de la fracción II del artículo 12 de la Ley, deberán tener el nivel mínimo de Subsecretario o equivalente.
 
-En ausencia del Presidente y su suplente, las sesiones serán presididas por otro integrante de la Junta de Gobierno que sea elegido por mayoría de entre sus miembros. Asimismo, participarán en las sesiones de la Junta de Gobierno el Secretario y el Prosecretario, que serán nombrados a propuesta del Presidente o, en su caso, por el Director General del Instituto, únicamente con derecho a voz.
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2023)</small>
+
+En ausencia del Presidente y su suplente, las sesiones serán presididas por otro integrante de la Junta de Gobierno que sea elegido por mayoría de entre sus miembros. Asimismo, participarán en las sesiones de la Junta de Gobierno el Secretario y el Prosecretario, que serán nombrados a propuesta del Presidente o, en su caso, por el Director General del Instituto, únicamente con derecho a voz. Dichas sesiones podrán realizarse de manera presencial, virtual o, en su caso, de ambas formas.
 
 ###### Artículo 6.
 
@@ -197,7 +199,9 @@ IX. Comunicar a las Unidades Administrativas, los acuerdos de la Junta de Gobier
 
 El Director General, además de las atribuciones previstas en los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales y 17 de la Ley, tendrá las siguientes:
 
-I. Proponer y participar, en coordinación con las instancias competentes, en la formulación, ejecución y evaluación de los planes, programas y proyectos que realicen las dependencias y entidades de la Administración Pública Federal con relación a los pueblos indígenas y afromexicano, garantizando la transversalidad institucional, la interculturalidad y la pertinencia económica, social, cultural, política, lingüística y de género;
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 2023)</small>
+
+I. Proponer y participar, en coordinación con las instancias competentes, en la formulación, ejecución y evaluación de los planes, programas y proyectos que realicen las dependencias y entidades de la Administración Pública Federal con relación a los pueblos indígenas y afromexicano, en particular, de los Planes de Justicia y Planes Integrales de Desarrollo Regional de los Pueblos Indígenas, garantizando la transversalidad institucional, la interculturalidad y la pertinencia económica, social, cultural, política, lingüística y de género;
 
 II. Proponer, a las dependencias y entidades de la Administración Pública Federal, en coordinación con la Secretaría de Hacienda y Crédito Público, los lineamientos y criterios para orientar los procesos de definición de sus presupuestos anuales que se reflejarán en las previsiones de gasto que correspondan a la atención de los pueblos indígenas y afromexicano del Presupuesto de Egresos de la Federación;
 
@@ -227,21 +231,27 @@ XIV. Incorporar tecnologías que promuevan y fomenten la eficacia e impacto de l
 
 XV. Presentar a la Junta de Gobierno el informe anual sobre el desempeño de las funciones, los avances e impacto de las acciones del Instituto y de las dependencias y entidades de la Administración Pública Federal, estatal y municipal en materia de reconocimiento, protección e implementación de los derechos, así como el desarrollo de los pueblos indígenas y afromexicano y, en su caso, realizar las recomendaciones que correspondan;
 
-XVI. Acordar con los titulares de las Unidades Administrativas del Instituto, los asuntos de sus respectivas competencias e instruirlos para que realicen la planeación, programación, organización, dirección, supervisión y evaluación del funcionamiento de las unidades administrativas que tengan adscritas; asimismo, den seguimiento y evalúen el impacto de los programas o acciones ejecutadas para el reconocimiento e implementación de los derechos, así como el desarrollo de los pueblos indígenas y afromexicano;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 25 DE JULIO DE 2023)</small>
 
-XVII. Participar, representar y formar parte de organismos, foros e instancias internacionales relacionados con el objeto del Instituto, de conformidad con las disposiciones jurídicas aplicables y en coordinación con las instancias competentes;
+XVI. Implementar e impartir educación en todos los asuntos relativos a los pueblos indígenas; elaborar planes y programas de estudio, así como expedir las constancias, certificados, diplomas, títulos y grados académicos que correspondan, con validez oficial, mediante las Unidades Administrativas que para tal efecto se establezcan, en particular, educación superior a través de la Dirección de Implementación de la Universidad de las Lenguas Indígenas de México, en coordinación con los pueblos indígenas y las instancias competentes, cuando así corresponda;
 
-XVIII. Suscribir acuerdos, convenios de colaboración, cooperación y declaraciones conjuntas que el Instituto promueva ante instituciones homólogas de otros países, organismos, agencias de cooperación y fundaciones internacionales, de acuerdo con la normatividad vigente en la materia y, en su caso, en coordinación con la Secretaría de Relaciones Exteriores;
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVI], D.O.F. 25 DE JULIO DE 2023)</small>
 
-XIX. Brindar asesoría legal y técnica a los pueblos, municipios y comunidades indígenas y afromexicanas, y a sus integrantes, en la atención de los asuntos relacionados con el ejercicio de sus derechos colectivos e individuales;
+XVII. Acordar con los titulares de las Unidades Administrativas del Instituto, los asuntos de sus respectivas competencias e instruirlos para que realicen la planeación, programación, organización, dirección, supervisión y evaluación del funcionamiento de las unidades administrativas que tengan adscritas; asimismo, den seguimiento y evalúen el impacto de los programas o acciones ejecutadas para el reconocimiento e implementación de los derechos, así como el desarrollo de los pueblos indígenas y afromexicano; en particular, en lo relativo a los Planes de Justicia y Planes Integrales de Desarrollo Regional de los Pueblos Indígenas;
 
-XX. Brindar asesoría y capacitación a las dependencias y entidades de la Administración Pública Federal, entidades federativas y municipios en materia de derechos de los pueblos indígenas;
+XVIII. Participar, representar y formar parte de organismos, foros e instancias internacionales relacionados con el objeto del Instituto, de conformidad con las disposiciones jurídicas aplicables y en coordinación con las instancias competentes;
 
-XXI. Someter a aprobación de la Junta de Gobierno los proyectos de modificaciones del Estatuto;
+XIX. Suscribir acuerdos, convenios de colaboración, cooperación y declaraciones conjuntas que el Instituto promueva ante instituciones homólogas de otros países, organismos, agencias de cooperación y fundaciones internacionales, de acuerdo con la normatividad vigente en la materia y, en su caso, en coordinación con la Secretaría de Relaciones Exteriores;
 
-XXII. Autorizar, dirigir, coordinar y verificar las actividades de comunicación social y del Sistema de Radiodifusoras Culturales Indígenas, de manera que las difusiones o transmisiones del Instituto se ajusten a las disposiciones que para tales efectos emitan las autoridades competentes, y
+XX. Brindar asesoría legal y técnica a los pueblos, municipios y comunidades indígenas y afromexicanas, y a sus integrantes, en la atención de los asuntos relacionados con el ejercicio de sus derechos colectivos e individuales;
 
-XXIII. Las demás que le confieran otras disposiciones jurídicas.
+XXI. Brindar asesoría y capacitación a las dependencias y entidades de la Administración Pública Federal, entidades federativas y municipios en materia de derechos de los pueblos indígenas;
+
+XXII. Someter a aprobación de la Junta de Gobierno los proyectos de modificaciones del Estatuto;
+
+XXIII. Autorizar, dirigir, coordinar y verificar las actividades de comunicación social y del Sistema de Radiodifusoras Culturales Indígenas, de manera que las difusiones o transmisiones del Instituto se ajusten a las disposiciones que para tales efectos emitan las autoridades competentes, y
+
+XXIV. Las demás que le confieran otras disposiciones jurídicas.
 
 ###### Artículo 10.
 
@@ -281,15 +291,21 @@ B. Oficinas de Representación en las Entidades Federativas, y
 
 C. Centros Coordinadores de Pueblos Indígenas.
 
+> <small>(ADICIONADO, D.O.F. 25 DE JULIO DE 2023)</small>
+
+Tendrá una Dirección de Implementación de la Universidad de las Lenguas Indígenas de México, como unidad administrativa responsable de impartir educación superior en los pueblos indígenas, en términos de lo dispuesto en el artículo 9, fracción XVI, del presente Estatuto.
+
 Las Unidades Administrativas para el despacho de sus asuntos y ejercicio de sus atribuciones, podrán auxiliarse por el personal que se requiera para el desarrollo y cumplimiento de las mismas.
 
 El Instituto contará con las demás unidades que figuren en su estructura orgánica, cuyas funciones deberán señalarse en el Manual General de Organización del Instituto.
 
 Asimismo, el Instituto contará con un Órgano Interno de Control, así como con un Órgano de Vigilancia que se regirán de conformidad con lo dispuesto en los artículos 24 y 25 de este Estatuto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE JULIO DE 2023)</small>
+
 ###### Artículo 12.
 
-El Director General será suplido en sus ausencias por los titulares de la Coordinación General de Derechos Indígenas, de la Coordinación General de Patrimonio Cultural, Investigación y Educación Indígena, de la Coordinación General de Fomento a la Economía Indígena, de la Coordinación General de Infraestructura Indígena, de la Coordinación General de Planeación y Evaluación, de la Coordinación General de Transversalidad y Operación Regional, de la Coordinación General de Asuntos Jurídicos y de la Coordinación General de Administración y Finanzas, en ese orden.
+El Director General será suplido en sus ausencias por los titulares de la Coordinación General de Derechos Indígenas, de la Coordinación General de Patrimonio Cultural y Educación Indígena, de la Coordinación General de Fomento a la Economía Indígena, de la Coordinación General de Infraestructura Indígena, de la Coordinación General de Planeación, Investigación y Evaluación, de la Coordinación General de Transversalidad y Operación Regional, de la Coordinación General de Asuntos Jurídicos y de la Coordinación General de Administración y Finanzas, en ese orden. Los demás servidores públicos serán suplidos en sus ausencias por las personas que ocupen los puestos inmediatos inferiores que de ellos dependan.
 
 Los demás servidores públicos serán suplidos en sus ausencias por las personas que ocupen los puestos inmediatos inferiores que de ellos dependan.
 
@@ -848,3 +864,15 @@ Tercero. En virtud de la reasignación de competencias, los asuntos que se encue
 Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el presente Acuerdo.
 
 Cuarto. En tanto entra en vigor el Manual General de Organización del Instituto Nacional de los Pueblos Indígenas, el Director General podrá emitir las normas y lineamientos para la operación de este Acuerdo.
+
+D.O.F. 25 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, PUBLICADO EL DÍA 20 DE MARZO DE 2019”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. En virtud de la asignación de competencias, los asuntos que, en su caso, se encuentren en trámite a la fecha de publicación del presente Acuerdo serán atendidos y resueltos por las unidades administrativas del Instituto Nacional de los Pueblos Indígenas a las que se les asigne competencia en los mismos.
+
+Tercero. El Director General del Instituto Nacional de los Pueblos Indígenas proveerá lo necesario para que el Manual General de Organización de dicho Instituto, corresponda a las disposiciones de su Estatuto Orgánico.
+
+Cuarto. En tanto entra en vigor el Manual General de Organización del Instituto Nacional de los Pueblos Indígenas, la Dirección de Implementación de la Universidad de las Lenguas Indígenas de México contará, además de las atribuciones y funciones señaladas en el presente Acuerdo, con las establecidas en el punto Tercero del "Acuerdo por medio del cual se instruye la realización de acciones para la creación y funcionamiento de la Universidad de las Lenguas Indígenas de México (ULIM)", lo anterior sin demérito de que el Director General de este Instituto emita las normas y disposiciones necesarias para la correcta operación del presente instrumento.
