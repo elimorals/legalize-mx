@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transparencia-acceso-a-la-informacion-publica-y-115044"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2022-08-10"
+last_updated: "2023-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 18 de mayo de 2016.
 
@@ -170,6 +170,12 @@ El derecho de acceso a la información o la clasificación de la información se
 En la aplicación e interpretación de la presente Ley deberá prevalecer el principio de máxima publicidad, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado mexicano sea parte, así como en las resoluciones y sentencias vinculantes que emitan los órganos nacionales e internacionales especializados, favoreciendo en todo tiempo a las personas la protección más amplia.
 
 Para el caso de la interpretación, se podrá tomar en cuenta los criterios, determinaciones y opiniones de los organismos nacionales e internacionales, en materia de transparencia.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2023)</small>
+
+###### Artículo 7 Bis.
+
+Todas las autoridades estatales y municipales en el respectivo ámbito de sus competencias, deberán implementar la difusión de la información institucional a través de un sistema de apoyo que contribuya al pleno ejercicio del derecho a la libertad de expresión de las niñas, los niños y adolescentes, mediante la creación de un micrositio en sus portales de internet, en una sección visible y de fácil acceso que permita la navegación comprensible, amigable, segura e intuitiva del menor y adolescente. Los sujetos obligados deberán realizar los ajustes razonables necesarios y adecuados que se requieran en su página de internet institucional con el fin de garantizar a las niñas, niños y adolescentes el pleno ejercicio de sus derechos a la libertad de expresión y de acceso a la información, en igualdad de condiciones.
 
 ###### Artículo 8.
 
@@ -2400,5 +2406,11 @@ P.O. 14 DE OCTUBRE DE 2019.
 P.O. 10 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 169 POR EL QUE “SE REFORMA EL ARTÍCULO 38, FRACCIÓN XII DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 401 POR EL QUE "SE ADICIONA EL ARTÍCULO 7 BIS A LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
