@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2023-03-16"
+last_updated: "2023-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -2087,19 +2087,29 @@ El pleno del Supremo Tribunal elaborará su propio proyecto de presupuesto. El C
 
 A la iniciativa de Presupuesto de Egresos del Estado que presente el titular del Poder Ejecutivo ante el Congreso, se deberá adjuntar, para su valoración, invariablemente, el proyecto de presupuesto elaborado por el Poder Judicial.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 25 DE JULIO DE 2023)</small>
 
-Salvo lo dispuesto por la legislación en materia de disciplina financiera de las entidades federativas y municipios, el presupuesto del Poder Judicial no podrá ser inferior al ejercido el año inmediato anterior, actualizado con base en la cifra de inflación señalada en los criterios generales de política económica para el ejercicio que se está presupuestando.
+Salvo lo dispuesto por la legislación en materia de disciplina financiera de las entidades federativas y municipios, el presupuesto del Poder Judicial no podrá ser inferior al dos por ciento del presupuesto de egresos del Estado para el ejercicio fiscal de que se trate, el cual será distribuido de la siguiente forma:
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+I. El presupuesto ordinario del Poder Judicial será el equivalente al uno punto cinco por ciento del presupuesto de egresos del Estado y se distribuirá de la siguiente manera:
+
+a) Setenta por ciento al Consejo de la Judicatura;
+
+b) Veinticinco por ciento al Supremo Tribunal de Justicia; y
+
+c) Cinco por ciento al Instituto de Justicia Alternativa.
+
+II. El presupuesto para proyectos específicos de infraestructura del Poder Judicial será el equivalente al punto cinco por ciento del presupuesto de egresos del Estado, para lo cual deberá anexar a su proyecto de presupuesto la documentación que lo justifique.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE JULIO DE 2023)</small>
 
 La competencia del Supremo Tribunal de Justicia, su funcionamiento en pleno o salas; la competencia y funcionamiento de los juzgados de primera instancia, menores y de paz, así como de los jurados, se regirá por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE JULIO DE 2023)</small>
 
 La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los tribunales del Poder Judicial, funcionando en pleno o en salas, sobre interpretación de leyes de su competencia, así como los requisitos para su interpretación o modificación, sin que se contravenga la jurisprudencia que establezcan los tribunales del Poder Judicial de la Federación.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE JULIO DE 2023)</small>
 
 El personal de los tribunales, juzgados y demás órganos del Poder Judicial, regirá sus relaciones de trabajo conforme a las disposiciones generales y a las reglas especiales que para cada caso señalen esta Constitución y las leyes aplicables.
 
@@ -4412,3 +4422,11 @@ P.O. 16 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28843/LXIII/22 QUE REFORMA EL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO EL ACUERDO LEGISLATIVO 184/LXIII/23 QUE DECLARA APROBADA LA MINUTA DE DICHO DECRETO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29229/LXII/23 QUE REFORMA EL ARTÍCULO 57 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los efectos de lo dispuesto en este Decreto serán aplicados a partir de la proyección, programación y presupuestación del Presupuesto de Egresos del Estado para el ejercicio fiscal 2024.
