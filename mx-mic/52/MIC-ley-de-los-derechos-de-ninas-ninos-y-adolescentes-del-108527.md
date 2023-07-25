@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2023-07-06"
+last_updated: "2023-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -720,6 +720,10 @@ II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesa
 III. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, de niños, niñas y adolescentes, los principios básicos de la salud, la nutrición, la higiene y el saneamiento ambiental, las medidas de prevención de accidentes, las ventajas de la lactancia materna;
 
 IV. Adoptar medidas tendientes a la eliminación de prácticas culturales, usos y costumbres que sean perjudiciales para la salud de niñas, niños y adolescentes;
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2023)</small>
+
+Cuando por diagnóstico médico y para salvaguardar la salud o la vida de una niña, niño o adolescente sea necesario realizar una transfusión sanguínea, ésta sea la única opción y exista riesgo inmediato en caso de no hacerla, el personal médico deberá realizarla aun cuando exista oposición de quienes tienen derecho a autorizar dicha transfusión.
 
 V. Desarrollar la atención sanitaria preventiva, la orientación y asesoría a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, y cuidados en materia de salud reproductiva de conformidad con la Ley de Salud del Estado de Michoacán;
 
@@ -2302,3 +2306,9 @@ P.O. 6 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 429 POR EL QUE "SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 38, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 403 POR EL QUE “SE ADICIONA UN PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 33, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Notifíquese al Titular del Poder Ejecutivo del Estado para su publicación y efectos legales.
