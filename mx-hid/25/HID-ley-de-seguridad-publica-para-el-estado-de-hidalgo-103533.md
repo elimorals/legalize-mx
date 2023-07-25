@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-103533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2023-03-29"
+last_updated: "2023-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -443,9 +443,9 @@ XXIV. Promover la participación ciudadana y de los diversos sectores de la soci
 
 XXV. Coordinar los servicios aeroportuarios y la flota aérea del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-XXVI. Supervisar la carrera policial de los integrantes de las instituciones policiales, así como las decisiones tomadas al interior de la Comisión del Servicio;
+XXVI. Supervisar la carrera policial de las personas integrantes de las instituciones policiales, así como las decisiones tomadas al interior de la Comisión del Servicio, a fin de garantizar que se favorezca la igualdad entre mujeres y hombres, en el ingreso, permanencia, profesionalización, promoción, estímulos y recompensas.
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
 
@@ -485,9 +485,9 @@ XXXIX. Vigilar y Establecer la inclusión de Programas de Igualdad y Género;
 
 XL. Establecer un Sistema de monitoreo permanente de la violencia con información diferenciada por sexo, origen étnico entre otras, en términos de la Ley de Acceso;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-XLI. Autorizar y vigilar la observancia de los protocolos mínimos de la actuación policial, así como los especializados en materia de violencia de género, enfocándose en su cumplimiento con total respeto a los derechos humanos;
+XLI. Autorizar y vigilar la observancia de los protocolos mínimos de la actuación policial, así como los especializados en materia de atención a la violencia de género y violencia en contra de las personas de la diversidad sexogenérica, enfocándose en su cumplimiento con total respeto a los derechos humanos;
 
 XLII. Establecer grupos o unidades que atenderán y operarán los protocolos señalados en la fracción anterior, así como promover su establecimiento en el ámbito municipal; y
 
@@ -979,9 +979,11 @@ Las demás organizaciones que no se encuentren previstas en este ordenamiento qu
 
 #### SECCIÓN PRIMERA. DE LA RELACIÓN JURÍDICA
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2023)</small>
+
 ###### Artículo 44.
 
-Las instituciones policiales serán de carácter civil, disciplinado y profesional; su actuación se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos; deberán fomentar la participación ciudadana en la prevención del delito y rendir cuentas de su actuación, además de velar por la igualdad de género y no discriminación.
+Las instituciones policiales serán de carácter civil, disciplinado y profesional; su actuación se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos; deberán fomentar la participación ciudadana en la prevención del delito y rendir cuentas de su actuación, además de velar por la igualdad de género y no discriminación, y contribuir a la generación y preservación del orden público y la paz social.
 
 ###### Artículo 45.
 
@@ -1017,7 +1019,9 @@ VI. Aplicar los protocolos y disposiciones especiales para el adecuado resguardo
 
 VII. Proteger a los menores de edad, adultos mayores, enfermos, personas discapacitadas y grupos vulnerables que se encuentren en situación de riesgo, procurando que reciban el apoyo inmediato de las instituciones competentes; así como ejecutar las órdenes de protección que sean otorgadas por la autoridad competente, vigilando su debido cumplimiento;
 
-VIII. Ejercer sus funciones con absoluta imparcialidad, evitando actos discriminatorios hacia las personas en razón de su origen étnico, sexo, edad, color de piel, religión, nacionalidad, estado civil, estado de salud, condición económica, preferencia sexual, ideología política y cualquier otra que atente contra la dignidad humana;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+VIII. Ejercer sus funciones con absoluta imparcialidad, evitando actos discriminatorios hacia las personas en razón de su origen étnico, sexo, edad, color de piel, religión, nacionalidad, estado familiar, estado de salud, condición económica, características sexuales, orientación sexual, identidad o expresión de género, ideología política y cualquier otra que atente contra la dignidad humana;
 
 IX. Evitar todo acto arbitrario y abstenerse de impedir la realización de manifestaciones que en ejercicio de sus derechos constitucionales realice la población;
 
@@ -1077,7 +1081,9 @@ XXXIV. No realizar actos individuales o en grupo, que relajen la disciplina, afe
 
 XXXV. No faltar ni abandonar su servicio, sin causa o motivo justificado, informando en su caso en un término máximo de 24 horas siguientes a aquella en que se verificó la ausencia o abandono, la causa o motivo del mismo; en caso de imposibilidad de realizar esta notificación en el plazo antes citado, lo hará valer con la documentación correspondiente;
 
-XXXVI. Identificarse con documento oficial que emita la autoridad competente, en el que se señale la institución policial a la que pertenece;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+XXXVI. Identificarse con documento oficial que emita la autoridad competente, que deberá contener al menos su nombre, cargo, fotografía, huella digital, clave de inscripción en el Registro Nacional de Personal de Seguridad Pública, así como, las medidas de seguridad que garanticen su autenticidad;
 
 XXXVII. Apoyar a las autoridades que lo soliciten, en situaciones de grave riesgo, catástrofes o desastres;
 
@@ -1343,11 +1349,21 @@ I. Fondo de ahorro;
 
 II. Seguro de vida;
 
-III. Crédito hipoterios (sic) y de corto plazo;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
-IV. Pago de gastos funerarios, en caso de fallecimiento por motivo de ejercicio de sus funciones; y
+III. Crédito (sic) hipotecarios y de corto plazo;
 
-V. Seguro educativo, para dependientes económicos, por muerte y/o incapacidad total o permanente.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+IV. Pago de gastos funerarios, en caso de fallecimiento por motivo de (sic) ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+V. Seguro educativo, para dependientes económicos, por muerte y/o incapacidad total o permanente; y
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2023)</small>
+
+VI. Atención materno infantil y servicio de guarderías.
 
 #### SECCIÓN CUARTA. DE LOS ASCENSOS
 
@@ -1435,7 +1451,9 @@ I. Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo
 
 II. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las instituciones;
 
-III. Fomentar la vocación de servicio la participación igualitaria de mujeres y hombres y el sentido de pertenencia, mediante el establecimiento de un adecuado sistema de promociones, que permita satisfacer las expectativas de desarrollo profesional de los integrantes de las instituciones policiales;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+
+III. Fomentar la vocación de servicio, la participación igualitaria de mujeres y hombres y el sentido de pertenencia, mediante el establecimiento de un adecuado sistema de promociones con perspectiva de género, que favorezca la igualdad entre mujeres y hombres, y que permita satisfacer las expectativas de desarrollo profesional de los integrantes de las instituciones policiales;
 
 IV. Instrumentar e impulsar la capacitación y profesionalización permanente de los integrantes de las instituciones policiales para asegurar la lealtad institucional en la prestación de los servicios; y
 
@@ -2879,9 +2897,11 @@ La Secretaría a través del Centro Estatal de Prevención Social de la Violenci
 
 Los programas tenderán a lograr soluciones integrales a través de la participación de las autoridades de los tres órdenes de gobierno, organizaciones civiles, académicas y comunitarias.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2023)</small>
+
 ###### Artículo 169.
 
-Las instituciones policiales, así como sus organismos auxiliares, promoverán la protección de las personas, de sus bienes, deberán incluir acciones a favor de personas discapacitadas, menores de edad y de aquellas que en razón de su sexo, preferencia sexual, edad, condición social, religiosa o étnica sean objeto de discriminación o rechazo.
+Las instituciones policiales, así como sus organismos auxiliares, promoverán la protección de las personas, de sus bienes, deberán incluir acciones a favor de personas discapacitadas, menores de edad y de aquellas que en razón de sus características sexuales, orientación sexual, identidad o expresión de género, edad, condición social, religiosa o étnica, sean objeto de discriminación o rechazo.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
@@ -3234,3 +3254,11 @@ P.O. 29 DE MARZO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Poder Ejecutivo del Estado, dentro ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá prever de la esfera administrativa necesaria para el cumplimiento de este Decreto.
+
+P.O. 25 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 541 QUE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A efecto de dar cumplimiento a la adición del artículo 50 bis fracción VI de la Ley de Seguridad Pública para el Estado de Hidalgo, dentro de los dos ejercicios fiscales posteriores al inicio de la vigencia de este Decreto; el gobierno estatal y municipales, deberán realizar los ajustes presupuestales necesarios para implementar su contenido, contemplando en ellos, una partida presupuestaria específica para tales Efectos.
