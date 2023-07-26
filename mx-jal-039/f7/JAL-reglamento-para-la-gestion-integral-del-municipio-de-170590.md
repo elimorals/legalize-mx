@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2023-03-30"
+last_updated: "2023-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 26 DE JULIO DE 2023.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -887,9 +887,9 @@ II. Condicionados: Los usos cuyo impacto es superior al del uso predominante de 
 
 III. Prohibidos: Aquellos que no cumplen con alguna de las dos fracciones anteriores, y que por su naturaleza no son compatibles con el uso predominante de una Zona.
 
-> <small>(REFORMADO, G.M. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.M. 26 DE JULIO DE 2023)</small>
 
-En cualquier caso, las Direcciones de Ordenamiento del Territorio, de Movilidad y Transporte, de Medio Ambiente, y de Resiliencia, podrán indicar otras condicionantes contempladas en la normatividad aplicable.
+En cualquier caso, las Direcciones de Ordenamiento del Territorio, de Movilidad y Transporte, de Medio Ambiente, y de Licencias de Construcción, podrán indicar otras condicionantes contempladas en la normatividad aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.M. 16 DE DICIEMBRE DE 2019)</small>
 
@@ -2289,11 +2289,11 @@ h) Representación gráfica del permiso de expendio de Petrolíferos en Estació
 
 ### CAPÍTULO I. Del Área Dictaminadora para la Gestión Integral de la Ciudad
 
-> <small>(REFORMADO, G.M. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.M. 26 DE JULIO DE 2023)</small>
 
 ###### Artículo 122.
 
-El Área Dictaminadora para la Gestión Integral de la Ciudad, estará conformada por las Direcciones de Ordenamiento del Territorio, de Obras Públicas, de Movilidad y Transporte, de Medio Ambiente y la Dirección Resiliencia dependiente de la Dirección de Obras Públicas.
+El Área Dictaminadora para la Gestión Integral de la Ciudad, estará conformada por las Direcciones de Ordenamiento del Territorio, de Obras Públicas, de Movilidad y Transporte, de Medio Ambiente y de Licencias de Construcción.
 
 ###### Artículo 123.
 
@@ -2703,13 +2703,13 @@ V. Las áreas libres de las edificaciones deberán ser arborizadas o jardinadas 
 
 VI. Contar con los accesos adecuados y los espacios para estacionamiento para vehículos motorizados y no motorizados en las cantidades requeridas por los Programas y Planes Municipales de Desarrollo Urbano, utilización de la construcción y tipo de zona, así como con las adecuaciones viales y señalamientos necesarios;
 
-> <small>(REFORMADA, G.M. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.M. 26 DE JULIO DE 2023)</small>
 
-VII. Contar durante la ejecución de la obra con un protocolo de medidas de seguridad y atención a emergencias de acuerdo al tipo de obra que se trate de conformidad con el dictamen emitido por la Dirección de Resiliencia; y
+VII. Contar durante la ejecución de la obra con un protocolo de medidas de seguridad y atención a emergencias de acuerdo al tipo de obra que se trate de conformidad con el dictamen emitido por la Dirección de Licencias de Construcción; y
 
-> <small>(REFORMADA, G.M. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.M. 26 DE JULIO DE 2023)</small>
 
-VIII. Cumplir con lo previsto en el dictamen emitido por la Dirección de Resiliencia para realizar trabajos en altura.
+VIII. Cumplir con lo previsto en el dictamen emitido por la Dirección de Licencias de Construcción para realizar trabajos en altura.
 
 > <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
 
@@ -2979,15 +2979,15 @@ La declaración de daños es el documento mediante el cual las personas a las qu
 
 (DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.M. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.M. 26 DE JULIO DE 2023)</small>
 
-### CAPÍTULO VII. De la Dictaminación en Materia de Resiliencia
+### CAPÍTULO VII. De la Dictaminación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 26 DE JULIO DE 2023)</small>
 
 ###### Artículo 190.
 
-Para la expedición de la licencia de construcción, se requiere cumplir con las normas técnicas previamente establecidas por la Dirección de Resiliencia, en los siguientes supuestos:
+Para la expedición de la licencia de construcción, se requiere cumplir con las normas técnicas previamente establecidas por la Dirección de Licencias de Construcción, en los siguientes supuestos:
 
 I. Construcciones de más de 3000 metros cuadrados;
 
@@ -3015,11 +3015,11 @@ VII. Las demás que establezcan los distintos reglamentos o leyes en la materia.
 
 (DEROGADO, G.M. 21 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, G.M. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.M. 26 DE JULIO DE 2023)</small>
 
 ###### Artículo 192.
 
-Una vez recibidos los requisitos completos y correctos, la Dirección de Resiliencia expedirá el visto bueno para el proceso constructivo en un plazo máximo de 10 días hábiles.
+Una vez recibidos los requisitos completos y correctos, la Dirección de Licencias de Construcción expedirá el visto bueno para el proceso constructivo en un plazo máximo de 10 días hábiles.
 
 ###### Artículo 193.
 
@@ -4197,9 +4197,13 @@ h) La dirección de los accesos será transversal a la banqueta, no permitiéndo
 
 i) Las rampas interiores planteadas en tramos curvos, tendrán un radio mínimo de 6 metros por el eje de la rampa.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 26 DE JULIO DE 2023)</small>
+
 IV. Accesos de peatones a los edificios de estacionamientos:
 
-a) El número de accesos y salidas debe ajustarse a las requeridas por protección civil;
+> <small>(REFORMADO, G.M. 26 DE JULIO DE 2023)</small>
+
+a) El número de accesos y salidas debe ajustarse a las requeridas por la Dirección de Licencias de Construcción;
 
 b) Cumplirá con los lineamientos de accesibilidad universal de la NOM-030-SSA3-2013; y
 
@@ -4757,13 +4761,13 @@ XXVI. No respetar lo establecido en el dictamen de impacto ambiental;
 
 XXVII. No presentar dictamen de impacto ambiental al momento de la inspección;
 
-> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.M. 26 DE JULIO DE 2023)</small>
 
-XXVIII. No presentar la constancia o tenerla vencida, de medidas de seguridad o visto bueno, emitido por la Dirección de Protección Civil y Bomberos o de la Dirección de Resiliencia, según sea el caso;
+XXVIII. No presentar la constancia o tenerla vencida, de medidas de seguridad o visto bueno, emitido por la Dirección de Protección Civil y Bomberos o de la Dirección de Licencias de Construcción, según sea el caso;
 
-> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.M. 26 DE JULIO DE 2023)</small>
 
-XXIX. No cumplir con lo previsto en la constancia de medidas de seguridad o visto bueno emitido por la Dirección de Protección Civil y Bomberos o de la Dirección de Resiliencia, según sea el caso;
+XXIX. No cumplir con lo previsto en la constancia de medidas de seguridad o visto bueno emitido por la Dirección de Protección Civil y Bomberos o de la Dirección de Licencias de Construcción, según sea el caso;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -5394,3 +5398,13 @@ Primero. Publíquese lo conducente del presente ordenamiento en la Gaceta Munici
 Segundo. El presente ordenamiento entrará en vigor treinta días posteriores a la fecha de su publicación.
 
 Tercero. Una vez publicado el presente ordenamiento, remítase mediante oficio un tanto del mismo al Congreso del Estado de Jalisco, para los efectos ordenados en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 26 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
