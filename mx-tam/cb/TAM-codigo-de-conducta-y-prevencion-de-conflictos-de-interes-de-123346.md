@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-123
 country: "mx"
 rank: "codigo"
 publication_date: "2017-08-24"
-last_updated: "2017-08-24"
+last_updated: "2023-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN EL P.O. DE 26 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2023 (DEROGADO).
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 24 de agosto de 2017.
 
@@ -357,3 +359,29 @@ Valores: Características que distinguen la actuación de los servidores públic
 Cd. Victoria, Tam., a 23 de agosto de 2017.
 
 ATENTAMENTE.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA GENERAL DE GOBIERNO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta entrará en vigor al día siguiente al de su emisión.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Código de Conducta y Prevención de Conflictos de Interés de la Secretaría General de Gobierno del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado en Anexo Número 102, de fecha 24 de agosto de 2017.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Conducta, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo y hasta su conclusión.
+
+###### ARTÍCULO CUARTO.
+
+Los casos no previstos en este Código de Conducta y Prevención de Conflictos de Interés de la Secretaría General de Gobierno, serán resueltos por el Comité de Ética, Conducta y Prevención de Conflictos de Interés de la Dependencia, a propuesta de su presidente o presidenta.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan al presente Código de Conducta.
