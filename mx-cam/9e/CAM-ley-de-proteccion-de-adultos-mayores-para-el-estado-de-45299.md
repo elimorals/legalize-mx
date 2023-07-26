@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-adultos-mayores-para-el-estado-de-45299"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-28"
-last_updated: "2023-06-30"
+last_updated: "2023-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 28 de junio de 2005.
 
@@ -85,27 +85,39 @@ IV. Los ciudadanos y la sociedad civil organizada.
 
 ### CAPÍTULO I. DE LOS PRINCIPIOS
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 4.
 
-Son principios rectores en la observación y aplicación de esta ley:
+De manera enunciativa y no limitativa, son principios rectores en la observación y aplicación de esta Ley:
 
-I. Autonomía y autorrealización: Como el fortalecimiento de su independencia, capacidad de decisión, desarrollo personal y comunitario;
+I. Acceso a la justicia: Las personas adultas mayores tienen derecho a ser oídas, con las debidas garantías y dentro de un plazo razonable por un Juez o Tribunal competente, independiente e imparcial, establecido con anterioridad por la ley, en la sustanciación de cualquier acusación penal formulada contra ellas, o para la determinación de sus derechos y obligaciones de orden civil, laboral, fiscal o de cualquier otro carácter. Se garantizará la debida diligencia y el tratamiento preferencial a las personas adultas mayores para la tramitación, resolución y ejecución de las decisiones en procesos administrativos y judiciales. La actuación judicial deberá ser particularmente expedita en casos en que se encuentre en riesgo la salud o la vida de la persona mayor;
 
-II. Participación: La inserción de los adultos mayores en todos los órdenes de la vida pública. En los ámbitos de su interés serán consultados y tomados en cuenta, asimismo se promoverá su presencia e intervención;
+II. Autonomía y autorrealización: Todas las acciones que se realicen en beneficio de las personas adultas mayores orientadas a fortalecer su independencia, su capacidad de decisión y su desarrollo personal y comunitario. Las personas adultas mayores tienen derecho a aprovechar las oportunidades para desarrollar plenamente su potencial, mediante el acceso a los recursos educativos, culturales, espirituales, recreativos y a la participación política;
 
-III. Calidad de trato: Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción;
+III. Atención preferente: Es aquella que obliga a las instituciones estatales y municipales, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2022)</small>
+IV. Calidad de trato: Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción;
 
-IV. Corresponsabilidad: La concurrencia y responsabilidad compartida de los sectores público y social, la comunidad y la familia para la consecución del objeto de esta ley;
+V. Corresponsabilidad: La concurrencia y responsabilidad compartida de los sectores público y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2022)</small>
+VI. Cuidados: Las personas adultas mayores tienen derecho a beneficiarse de los cuidados de su familia, a tener acceso a servicios sanitarios y a disfrutar de los derechos humanos y libertades fundamentales cuando residan en hogares y en instituciones donde se les brinden cuidados y tratamiento;
 
-V. Atención preferente: La obligación a las instituciones estatales y municipales, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores; y
+VII. Dignidad humana: Es un valor, principio y derecho fundamental base y condición de todos los demás. Implica la comprensión de la persona como titular y sujeto de derechos y a no ser objeto de violencia, discriminación o arbitrariedades por parte de las instituciones del Estado o de los particulares. Las personas adultas mayores tienen derecho a vivir con seguridad, ser libres de cualquier forma de explotación, maltrato físico o mental y recibir un trato digno;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2022)</small>
+VIII. Enfoque de derechos y calidad de vida: Toda acción a favor de las personas adultas mayores representa un cambio estructural en el diseño de la política pública de vejez, con una visión integral de las condiciones que propicien su desarrollo humano;
 
-VI. Igualdad Sustantiva. Es el acceso al mismo trato y oportunidades para el conocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+IX. Enfoque de ciclo de vida y visión prospectiva: El envejecimiento es un proceso involutivo que ocurre durante toda la vida y que requiere valorar los efectos de las acciones que se realizaron en etapas anteriores de la vida y elaborar alternativas que consideren escenarios futuros para la población;
+
+X. Equidad: Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier otra circunstancia;
+
+XI. Igualdad sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+XII. Igualdad de oportunidades: Las personas adultas mayores sin importar su lugar de origen, género, edad, discapacidad, condición social o de salud, religión, preferencias, estado civil, tienen derecho a toda oportunidad de formación y realización, así como a la alimentación, el agua, la vivienda, vestido, atención sanitaria, oportunidad de un trabajo remunerado, educación y capacitación, a vivir en un entorno seguro y adaptado a sus necesidades, que privilegie su integridad física, su salud y su vida;
+
+XIII. No discriminación: Hace referencia al acceso y ejercicio pleno de los derechos y garantías a los que esta Ley y los demás ordenamientos jurídicos existentes se refieren, mismos que deben darse sin distinción, exclusión, restricción o preferencia alguna que tenga por objeto impedir, entorpecer o anular el reconocimiento o ejercicio de los derechos o la igualdad real de oportunidades de las personas adultas mayores. Por lo que corresponde a las autoridades garantizar los mecanismos a través de los cuales se ejercerán plenamente los derechos y la igualdad real de oportunidades de las personas adultas mayores;
+
+XIV. Participación: La inserción de las personas adultas mayores en todos los órdenes de la vida pública, así como en los ámbitos de su interés, desde donde se promoverá su consulta, inclusión, participación e intervención activa. Las personas adultas mayores tienen derecho a la participación activa en la aplicación de las políticas que incidan directamente en su bienestar, a compartir sus conocimientos y habilidades con las generaciones más jóvenes y a formar movimientos o asociaciones.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE LOS ADULTOS MAYORES
 
@@ -863,7 +875,7 @@ Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo q
 
 P.O. 21 DE JUNIO DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 239 POR EL QUE “SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 239 POR EL QUE "SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE".]
 
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -876,3 +888,11 @@ P.O. 30 DE JUNIO DE 2023.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 26 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 247 POR EL QUE “SE REFORMA EL ARTÍCULO 4 DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
