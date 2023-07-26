@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2022-07-27"
+last_updated: "2023-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2023.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -949,7 +949,9 @@ Los requisitos para ocupar una diputación en el Congreso del Estado:
 
 I. Tener la ciudadanía chiapaneca por nacimiento, en el ejercicio de sus derechos.
 
-II. Tener veintiún años cumplidos el día de la elección.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2023)</small>
+
+II. Tener dieciocho años cumplidos el día de la elección.
 
 III. No pertenecer al Estado eclesiástico o ser Ministro de algún culto.
 
@@ -1497,7 +1499,9 @@ Para el despacho de los asuntos administrativos del Estado, el Ejecutivo Estatal
 
 Los titulares de las Dependencias y Entidades deberán cumplir los siguientes requisitos:
 
-I.- Ser mayor de veinticinco años de edad.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2023)</small>
+
+I.- Tener veinticinco años cumplidos.
 
 II.- No pertenecer al estado eclesiástico.
 
@@ -4850,3 +4854,11 @@ P.O. 27 DE JULIO DE 2022.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 26 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 216 DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 40 Y LA FRACCIÓN I DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 60 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN MATERIA DE EDAD MÍNIMA PARA OCUPAR UN CARGO PÚBLICO”.]
+
+Artículo Primero. El Presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
