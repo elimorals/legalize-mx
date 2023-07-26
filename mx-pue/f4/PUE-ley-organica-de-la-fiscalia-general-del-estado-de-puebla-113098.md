@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-fiscalia-general-del-estado-de-puebla-113098
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-02-20"
-last_updated: "2022-02-11"
+last_updated: "2023-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,123 +21,29 @@ state: "PUE"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE PUEBLA
 
-LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 2006.
+LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
-Ley publicada en el Diario Oficial de la Federación el sábado 29 de noviembre de 1958.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2023.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Ley publicada en la Tercera Edición Extraordinaria del Periódico Oficial del Estado de Puebla, el sábado 20 de febrero de 2016.
 
-ADOLFO RUIZ CORTINES, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+DECRETO del Honorable Congreso del Estado, por el que expide la Ley Orgánica de la Fiscalía General del Estado de Puebla.
 
-Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
+Al margen el logotipo oficial del Congreso y una leyenda que dice: H. Congreso del Estado de Puebla. LIX Legislatura.
 
-DECRETO:
+RAFAEL MORENO VALLE ROSAS, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
 
-"El Congreso de los Estados Unidos Mexicanos, decreta:
+Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
-LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
+EL HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-###### ARTICULO 1o.
+CONSIDERANDO…
 
-Corresponde a la Nación el dominio directo, inalienable e imprescriptible de todos los carburos de hidrógeno que se encuentren en el territorio nacional -incluída la plataforma continental- en mantos o yacimientos, cualquiera que sea su estado físico, incluyendo los estados intermedios, y que componen el aceite mineral crudo, lo acompañan o se derivan de él.
+Por lo anteriormente expuesto y con fundamento en los artículos 56, 57 fracción I, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 134, 135, y 136 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 93 fracción VII y 120 fracciones II y VII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se emite la siguiente Minuta de:
 
-###### ARTICULO 2o.
-
-Sólo la Nación podrá llevar a cabo las distintas explotaciones de los hidrocarburos, que constituyen la industria petrolera en los términos del artículo siguiente.
-
-En esta Ley se comprende con la palabra petróleo a todos los hidrocarburos naturales a que se refiere el artículo 1o.
-
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
-
-###### ARTICULO 3o.
-
-La industria petrolera abarca:
-
-I. La exploración, la explotación, la refinación, el transporte, el almacenamiento, la distribución y las ventas de primera mano del petróleo y los productos que se obtengan de su refinación;
-
-II. La exploración, la explotación, la elaboración y las ventas de primera mano del gas, así como el transporte y el almacenamiento indispensables y necesarios para interconectar su explotación y elaboración, y
-
-> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
-
-III. La elaboración, el transporte, el almacenamiento, la distribución y las ventas de primera mano de aquellos derivados del petróleo y del gas que sean susceptibles de servir como materias primas industriales básicas y que constituyen petroquímicos básicos, que a continuación se enumeran:
-
-1. Etano;
-
-2. Propano;
-
-3. Butanos;
-
-4. Pentanos;
-
-5. Hexano;
-
-6. Heptano;
-
-7. Materia prima para negro de humo;
-
-8. Naftas; y
-
-9. Metano, cuando provenga de carburos de hidrógeno, obtenidos de yacimientos ubicados en el territorio nacional y se utilice como materia prima en procesos industriales petroquímicos.
-
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
-
-###### ARTICULO 4o.
-
-La Nación llevará a cabo la exploración y la explotación del petróleo y las demás actividades a que se refiere el artículo 3o., que se consideran estratégicas en los términos del artículo 28, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, por conducto de Petróleos Mexicanos y sus organismos subsidiarios.
-
-Salvo lo dispuesto en el artículo 3o., el transporte, el almacenamiento y la distribución de gas podrán ser llevados a cabo, previo permiso, por los sectores social y privado, los que podrán construir, operar y ser propietarios de ductos, instalaciones y equipos, en los términos de las disposiciones reglamentarias, técnicas y de regulación que se expidan.
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
-
-El transporte, el almacenamiento y la distribución de gas metano, queda incluida en las actividades y con el régimen a que se refiere el párrafo anterior.
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
-
-Cuando en la elaboración de productos petroquímicos distintos a los básicos enumerados en la fracción III del artículo 3o. de esta Ley se obtengan, como subproductos, petrolíferos o petroquímicos básicos, éstos podrán ser aprovechados en el proceso productivo dentro de las plantas de una misma unidad o complejo, o bien ser entregados a Petróleos Mexicanos o a sus organismos subsidiarios, bajo contrato y en los términos de las disposiciones administrativas que la Secretaría de Energía expida.
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
-
-Las empresas que se encuentren en el supuesto a que se refiere el párrafo anterior tendrán la obligación de dar aviso a la Secretaría de Energía, la cual tendrá la facultad de verificar el cumplimiento de las citadas disposiciones administrativas y, en su caso, imponer las sanciones a que se refiere el artículo 15 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
-
-###### ARTICULO 5o.
-
-La Secretaría de Energía asignará a Petróleos Mexicanos los terrenos que esta institución le solicite o que el Ejecutivo Federal considere conveniente asignarle para fines de exploración y explotación petroleras.
-
-El Reglamento de esta Ley establecerá los casos en que la Secretaría de Energía podrá rehusar o cancelar las asignaciones.
-
-###### ARTICULO 6o.
-
-Petróleos Mexicanos podrá celebrar con personas físicas o morales los contratos de obras y de prestación de servicios que la mejor realización de sus actividades requiere. Las remuneraciones que en dichos contratos se establezcan, serán siempre en efectivo y en ningón (sic) caso concederán por los servicios que se presten o las obras que se ejecuten, porcentajes en los productos, ni participación en los resultados de las explotaciones.
-
-> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2006)</small>
-
-Petróleos Mexicanos, los organismos subsidiarios y sus empresas podrán cogenerar energía eléctrica y vender sus excedentes a Comisión Federal de Electricidad y Luz y Fuerza del Centro, mediante convenios con las entidades mencionadas.
-
-> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2006)</small>
-
-En el Proyecto de Presupuesto de Egresos de la Federación, se someterán a discusión, análisis, aprobación y modificación de la Cámara de Diputados los recursos destinados a los proyectos de cogeneración de electricidad que Petróleos Mexicanos, los organismos subsidiarios y sus empresas propongan ejecutar, los recursos y esquemas de inversión pública con los que se pretendan llevar a cabo dichas obras, así como la adquisición de los excedentes por parte de las entidades.
-
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
-
-###### ARTICULO 7o.
-
-El reconocimiento y la exploración superficial de los terrenos para investigar sus posibilidades petrolíferas, requerirán únicamente permiso de la Secretaría de Energía. Si hubiere oposición del propietario o poseedor cuando los terrenos sean particulares, o de los representantes legales de los ejidos o comunidades, cuando los terrenos estén afectados al régimen ejidal o comunal, la Secretaría de Energía, oyendo a las partes, concederá el permiso mediante reconocimiento que haga Petróleos Mexicanos de la obligación de indemnizar a los afectados por los daños y perjuicios que pudieren causarle de acuerdo con el peritaje que la Comisión de Avalúos de Bienes Nacionales practique dentro de un plazo que no excederá de seis meses, pudiendo entregar Petróleos Mexicanos un anticipo, en consulta con la propia Comisión. El resto del pago será finiquitado una vez concluido el peritaje.
-
-###### ARTICULO 8o.
-
-El Ejecutivo Federal establecerá zonas de reservas petroleras en terrenos que por sus posibilidades petrolíferas así lo ameriten, con la finalidad de garantizar el abastecimiento futuro del país. La incorporación de terrenos a las reservas y su desincorporación de las mismas, serán hechas por decreto presidencial, fundado en los dictámenes técnicos respectivos.
-
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
-
-###### ARTICULO 9o.
-
-La industria petrolera y las actividades a que se refiere el artículo 4o., segundo párrafo, son de la exclusiva jurisdicción federal. En consecuencia, únicamente el Gobierno federal puede dictar las disposiciones técnicas, reglamentarias y de regulación que las rijan.
-
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
+LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -499,41 +405,81 @@ IX. La Fiscalía Especializada en Investigación de Delitos de Violencia de Gén
 
 X. La Fiscalía Especializada de Asuntos internos;
 
-XI. La Oficina del Fiscal General;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XII. La Oficialía Mayor;
+XI. La Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes;
 
-XIII. La Agencia Estatal de Investigación;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XIV. El Instituto de Ciencias Forenses;
+XII. La Oficina del Fiscal General;
 
-XV. El Órgano Interno de Control;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XVI. La Visitaduría General;
+XIII. La Oficialía Mayor;
 
-XVII. El Instituto de Formación Profesional;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XVIII. La Coordinación General de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+XIV. La Agencia Estatal de Investigación;
 
-XIX. La Coordinación General de Colaboración Interinstitucional;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XX. La Coordinación General de Estadística y Sistemas de Información;
+XV. El Instituto de Ciencias Forenses;
 
-XXI. La Coordinación General de Gestión Documental Institucional;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XXII. La Coordinación General de Asuntos Jurídicos;
+XVI. El Órgano Interno de Control;
 
-XXIII. La Coordinación General de Servicios a la Comunidad;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XXIV. La Dirección General de Seguridad Institucional;
+XVII. La Visitaduría General;
 
-XXV. La Dirección General de Planeación Institucional;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XXVI. La Dirección General de Comunicación Estratégica y Vinculación Social;
+XVIII. El Instituto de Formación Profesional;
 
-XXVII. La Unidad Especializada en Materia de Extinción de Dominio, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XXVIII. La Unidad de Transparencia.
+XIX. La Coordinación General de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XX. La Coordinación General de Colaboración Interinstitucional;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXI. La Coordinación General de Estadística y Sistemas de Información;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXII. La Coordinación General de Gestión Documental Institucional;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXIII. La Coordinación General de Asuntos Jurídicos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXIV. La Coordinación General de Servicios a la Comunidad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXV. La Dirección General de Seguridad Institucional;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXVI. La Dirección General de Planeación Institucional;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXVII. La Dirección General de Comunicación Estratégica y Vinculación Social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXVIII. La Unidad Especializada en Materia de Extinción de Dominio, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXIX. La Unidad de Transparencia.
 
 B) Órganos que le auxiliarán en el ejercicio de sus funciones:
 
@@ -553,153 +499,61 @@ El régimen disciplinario de los policías de investigación y persecución de d
 
 > <small>(REFORMADO, P.O. 17 DE MARZO DE 2020)</small>
 
-###### ARTICULO 10.
+###### ARTÍCULO 10.
 
-La industria petrolera es de utilidad pública, preferente sobre cualquier aprovechamiento de la superficie y del subsuelo de los terrenos, incluso sobre la tenencia de los ejidos o comunidades y procederá la ocupación provisional, la definitiva o la expropiación de los mismos, mediante la indemnización legal, en todos los casos en que lo requieran la Nación o su industria petrolera.
+Las personas titulares de los órganos o unidades administrativas a que se refiere el artículo anterior deberán reunir los requisitos que se establezcan en el Reglamento de esta Ley y demás disposiciones aplicables, y serán nombrados y removidos por el Fiscal General, con excepción del nombramiento de la persona Titular del Órgano Interno de Control, el cual es facultad del Congreso del Estado en términos de la Constitución Política del Estado Libre y Soberano de Puebla. El Reglamento determinará en qué casos el titular de alguna unidad tendrá, por ese hecho, carácter de agente del Ministerio Público.
 
-Son de utilidad pública las actividades de construcción de ductos. Petróleos Mexicanos, sus organismos subsidiarios y las empresas de los sectores social y privado estarán obligados a prestar a terceros el servicio de transporte y distribución de gas por medio de ductos, en los términos y condiciones que establezcan las disposiciones reglamentarias.
+El nombramiento y remoción de las personas titulares de las fiscalías a que se refiere el artículo 9 fracciones I a X del Apartado A), de la presente Ley podrá ser objetado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de conformidad con lo previsto en el artículo 98 de la Constitución del Estado, en el plazo de diez días hábiles contados a partir de la notificación de los nombramientos que haga el Fiscal General al Congreso del Estado.
 
-###### ARTICULO 11.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-El Ejecutivo Federal dictará las disposiciones relacionadas con la vigilancia de los trabajos petroleros y las normas técnicas a que deberá estar sujeta la explotación.
+###### ARTÍCULO 11.
 
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
+La Fiscalía General contará con fiscales, agentes del Ministerio Público, agentes investigadores y peritos, así como con el personal profesional, técnico y administrativo necesario para la realización de sus funciones, en términos de las disposiciones jurídicas aplicables y del presupuesto aprobado por el Congreso del Estado.
 
-###### ARTICULO 12.
+Las personas que aspiren a ingresar y permanecer en la Fiscalía General como agentes del Ministerio Público, peritos o agentes investigadores, deberán cumplir, respectivamente, con los mismos requisitos que para ingresar al Servicio de Carrera de Procuración de Justicia y a la Carrera Policial (sic) establece la Ley General del Sistema Nacional de Seguridad Pública. En los demás casos, deberán cumplir con los requisitos que el Reglamento de esta Ley contenga.
 
-En lo no previsto por esta ley, se consideran mercantiles los actos de la industria petrolera y las actividades a las que se refiere el artículo 4o., segundo párrafo, que se regirán por el Código de Comercio y, de modo supletorio, por las disposiciones del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal.
+Los agentes del Ministerio Público, agentes investigadores y peritos, así como los integrantes de otros cuerpos que realicen funciones sustantivas para la Fiscalía General en términos del procedimiento penal, podrán ser nombrados por designación especial del Fiscal General, sin sujetarse a todos los requisitos de ese cargo, pero en ese caso no serán miembros del servicio profesional de carrera. El Reglamento determinará los casos y condiciones en que proceda tal designación.
 
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
+###### ARTÍCULO 12.
+
+El Reglamento de esta Ley, así como los acuerdos por los cuales se disponga la creación de Fiscalías Generales o Especializadas, unidades administrativas, o se deleguen facultades o se adscriban órganos y unidades, se publicarán en el Periódico Oficial del Estado de Puebla.
+
+Los acuerdos, convenios, circulares, instructivos, bases y demás normas o disposiciones administrativas que rijan la actuación de las unidades administrativas y del personal que integra la Fiscalía General se publicarán en el Periódico Oficial del Estado de Puebla, cuando así lo determine el Fiscal General.
 
 ### CAPÍTULO II. DEL FISCAL GENERAL
 
-###### ARTICULO 13.
+###### ARTÍCULO 13.
 
-Los interesados en obtener los permisos a que se refiere el párrafo segundo del artículo 4o. de esta Ley, deberán presentar solicitud a la Secretaría de Energía que contendrá: el nombre y domicilio del solicitante, los servicios que desea prestar, las especificaciones técnicas del proyecto, los programas y compromisos de inversión y, en su caso, la documentación que acredite su capacidad financiera.
+La Fiscalía General, con todas sus facultades, estará a cargo del Fiscal General, quien presidirá la institución del Ministerio Público y tendrá autoridad jerárquica sobre todo el personal, en el que podrá delegar el ejercicio de sus atribuciones.
 
-La cesión de los permisos podrá realizarse, previa autorización de la Secretaría de Energía y siempre que el cesionario reúna los requisitos para ser titular y se comprometa a cumplir en sus términos las obligaciones previstas en dichos permisos. En ningún caso se podrá ceder, gravar o enajenar el permiso, los derechos en él conferidos o los bienes afectos a los mismos, a gobierno o estado extranjero.
+###### ARTÍCULO 14.
 
-Los permisos podrán revocarse por cualquiera de las causas siguientes:
+El nombramiento del Fiscal General se sujetará al procedimiento y requisitos previstos en el artículo 97 de la Constitución del Estado, quien podrá ser removido por el titular del Ejecutivo del Estado por alguna de las causas graves siguientes:
 
-I. No ejercer los derechos conferidos durante el plazo establecido en el permiso;
+I. Perder la ciudadanía mexicana, en los términos que establece el artículo 37 de la Constitución General;
 
-II. Interrumpir sin causa justificada y autorización de la Secretaría de Energía los servicios objeto del permiso;
+II. Adquirir incapacidad total o permanente que impida el correcto ejercicio de sus funciones durante más de seis meses, o
 
-III. Realizar prácticas discriminatorias en perjuicio de los usuarios, y violar los precios y tarifas que, en su caso, llegare a fijar la autoridad competente;
+III. Cometer violaciones graves a la Constitución General o a la Constitución del Estado.
 
-IV. Ceder, gravar o transferir los permisos en contravención a lo dispuesto en esta Ley, y
+Lo dispuesto en las fracciones anteriores se aplicará sin perjuicio de lo previsto en los artículos 110 y 111 de la Constitución General.
 
-V. No cumplir con las normas oficiales mexicanas, así como con las condiciones establecidas en el permiso.
+###### ARTÍCULO 15.
 
-Los permisionarios están obligados a permitir el acceso a sus instalaciones a los verificadores de la Secretaría de Energía, así como a proporcionar a ésta toda la información que le sea requerida para comprobar el cumplimiento de las obligaciones a su cargo.
+El Fiscal General rendirá protesta ante el Congreso del Estado. Los demás integrantes de la Fiscalía rendirán protesta ante el Fiscal General o ante el servidor público que determine el Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 1995)</small>
+###### ARTÍCULO 16.
 
-###### ARTICULO 14.
+Las ausencias temporales del Fiscal General serán suplidas, en ese orden, por los titulares de las Fiscalías a que se refiere la fracción I del artículo 9 de esta Ley.
 
-La regulación de las actividades a que se refiere el artículo 4o., segundo párrafo, y de las ventas de primera mano de gas tendrá por objeto asegurar su suministro eficiente y comprenderá:
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-I. Los términos y condiciones para:
+Si la ausencia fuera mayor a treinta días, el Fiscal General del Estado nombrará a alguno de los titulares a que se refiere el párrafo anterior como encargado del despacho, quien ejercerá las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla y demás disposiciones legales (sic) confieren al Fiscal General.
 
-a) El otorgamiento, la transferencia y la revocación por incumplimiento de los permisos;
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
-b) Las ventas de primera mano;
-
-c) La prestación de servicios de transporte, almacenamiento y distribución;
-
-d) El acceso no discriminatorio y en condiciones competitivas a los servicios de transporte, almacenamiento y distribución por medio de ductos, y
-
-e) La presentación de información suficiente y adecuada para fines de regulación;
-
-II. La determinación de los precios y tarifas aplicables, cuando no existan condiciones de competencia efectiva, a juicio de la Comisión Federal de Competencia. Los sectores social y privado podrán solicitar a la mencionada Comisión que se declare la existencia de condiciones competitivas;
-
-III. El procedimiento de consulta pública para la definición de criterios de regulación, en su caso;
-
-IV. La inspección y vigilancia del cumplimiento de las condiciones establecidas en los permisos y de las normas oficiales mexicanas aplicables;
-
-V. Los procedimientos de conciliación y arbitraje para resolver las controversias sobre la interpretación y el cumplimiento de contratos, y el procedimiento para impugnar la negativa a celebrarlos, y
-
-VI. Los demás instrumentos de regulación que establezcan las disposiciones aplicables.
-
-> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 1995)</small>
-
-###### ARTICULO 15.
-
-Las infracciones a esta ley y a sus disposiciones reglamentarias podrán ser sancionadas con multas de 1,000 a 100,000 veces el importe del salario mínimo general vigente en el Distrito Federal, en la fecha en que se incurra en la falta, a juicio de la autoridad competente, tomando en cuenta la importancia de la falta.
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
-
-En caso de infracción a lo dispuesto por los párrafos cuarto y quinto del artículo 4o. de esta Ley, sin perjuicio de las sanciones previstas en el párrafo anterior, el infractor perderá en favor de Petróleos Mexicanos los subproductos petrolíferos o petroquímicos básicos obtenidos.
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
-
-Para aplicar este artículo, se seguirá el procedimiento previsto en la Ley Federal de Procedimiento Administrativo.
-
-> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 1995)</small>
-
-###### ARTICULO 16.
-
-La aplicación de esta ley corresponde a la Secretaría de Energía, con la participación que esté a cargo de la Comisión Reguladora de Energía, en términos de las disposiciones reglamentarias.
-
-TRANSITORIOS:
-
-###### ARTICULO 1o.
-
-A partir de la vigencia de esta ley, los terrenos comprendidos en concesiones otorgadas conforme a la ley de 26 de diciembre de 1925 y sus reformas de 3 de enero de 1928, podrán ser asignadas a Petróleos Mexicanos o incorporados a las reservas nacionales.
-
-En todo caso, los titulares de estas concesiones o sus causahabientes tendrán derecho a recibir del Gobierno Federal la indemnización correspondiente, cuyo monto podrá fijarse de común acuerdo. A falta de acuerdo, el monto de la indemnización será fijado por resolución judicial.
-
-###### ARTICULO 2o.
-
-Los titulares de las concesiones de transporte, de almacenamiento y distribución, otorgadas conforme a la ley de 3 (sic) de mayo de 1941, al entrar en vigor la presente ley, podrán optar por ser indemnizados o por contratar con Petróleos Mexicanos la prestación de dichos servicios, para lo cual, en igualdad de condiciones, tendrán derecho de preferencia.
-
-###### ARTICULO 3o.
-
-En un plazo de seis meses, a contar de la fecha en que entre en vigor la presente ley, se expedirá el reglamento de ella.
-
-> <small>(F. DE E., D.O.F. 31 DE DICIEMBRE DE 1958)</small>
-
-###### ARTICULO 4o.
-
-Se deroga la ley reglamentaria de 2 de mayo de 1941.
-
-###### ARTICULO 5o.
-
-Esta ley entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-Donato Bravo Izquierdo, S. P.- Francisco Pérez Ríos, D. P.- José Castillo Tielmans, S. S.- Fernando Díaz Durán, D. S.- Rúbricas".
-
-En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintisiete días del mes de noviembre de mil novecientos cincuenta y ocho.- Adolfo Ruiz Cortines.- Rúbrica.- El Secretario de Gobernación, Angel Carvajal.- Rúbrica.- El Secretario de Economía, Gilberto Loyo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Carrillo Flores.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-D.O.F. 30 DE DICIEMBRE DE 1977.
-
-UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 11 DE MAYO DE 1995.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en este Decreto.
-
-TERCERO.- Petróleos Mexicanos conservará en propiedad y mantendrá en condiciones de operación a los ductos y sus equipos e instalaciones accesorios para el transporte de gas a que se refiere el artículo 4o., segundo párrafo, que actualmente forman parte de su patrimonio, sujetando su operación a esta ley y a las disposiciones reglamentarias, técnicas y de regulación que se expidan.
-
-Igualmente continuará realizando las actividades de transporte de gas con otros equipos que formen parte de su patrimonio, sujetándolas a las disposiciones aplicables.
-
-CUARTO.- Las disposiciones reglamentarias serán expedidas dentro de los 180 días siguientes a la fecha de entrada en vigor de este Decreto. Las regulaciones deberán establecerse para cada tipo de gas o combinación de ellos.
-
-D.O.F. 13 DE NOVIEMBRE DE 1996.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- Petróleos Mexicanos conservará en propiedad y mantendrá en condiciones de operación los ductos y sus equipos e instalaciones accesorios para el transporte del metano, en los términos del artículo tercero transitorio del Decreto de reformas a la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, publicado en el Diario Oficial de la Federación de 11 de mayo de 1995.
-
-D.O.F. 12 DE ENERO DE 2006
-
-PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Se derogan todas aquellas disposiciones legales que entren en contradicción con el presente Decreto; y se dejan sin efecto todas las disposiciones reglamentarias, circulares, acuerdos y todos los actos administrativos de carácter general que contradigan las disposiciones del presente Decreto.
+El nombramiento a que se refiere el párrafo anterior, será notificado al Congreso del Estado, para que pueda ejercer la facultad prevista en el artículo 98 de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 ###### ARTÍCULO 17.
 
@@ -1163,11 +1017,11 @@ La cancelación del certificado deberá registrarse en los términos del Sistema
 
 Los servidores públicos de la Fiscalía General estarán sujetos al contenido de esta Ley, y en lo que no se apongan a ésta, por lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas y demás ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 40.
 
-El Órgano Interno de Control es un órgano, que tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Fiscalía General del Estado y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Puebla; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada de Asuntos Internos.
+El Órgano Interno de Control es un órgano, que tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Fiscalía General del Estado y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado de Puebla; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada de Asuntos Internos.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE MARZO DE 2020)</small>
 
@@ -1933,6 +1787,54 @@ Las denuncias deberán ser investigadas y concluidas por el Órgano Interno de C
 
 La Fiscalía Especializada de Asuntos Internos estará a cargo de las investigaciones y el ejercicio de la acción penal en delitos cometidos por personal adscrito a los órganos sustantivos y administrativos de la Fiscalía General del Estado, en ejercicio de sus funciones, que no sean hechos de corrupción mismos que son competencia de la Fiscalía Especializada en Combate a la Corrupción.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JULIO DE 2023)</small>
+
+## TÍTULO NOVENO. DE LA FISCALÍA ESPECIALIZADA EN INVESTIGACIÓN DEL DELITO DE TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 67.
+
+La Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes, gozará de plena autonomía técnica y operativa, y tendrá a su cargo la investigación y persecución de los delitos previstos y sancionados por la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 68.
+
+La Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes, estará a cargo de la persona Titular de la Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes y contará con las unidades administrativas necesarias, personas Agentes del Ministerio Público, Agentes Investigadores, Peritos y Analistas de Información especializadas, quienes deberán cumplir los requisitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 69.
+
+La persona Titular de la Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes, tendrá además de las atribuciones que le correspondan en otras disposiciones legales, las siguientes:
+
+I. Ejercer las atribuciones que a cargo de las Fiscalías Especializadas dispone la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+II. Coordinar y supervisar las actividades que realicen las personas Agentes del Ministerio Público a su cargo en la investigación de los delitos de su competencia, en el ejercicio o no de la acción penal y en la persecución de los delitos ante los tribunales;
+
+III. Dirigir técnica, procesal y jurídicamente la participación de las personas Agentes del Ministerio Público en los términos de los Convenios de Colaboración y demás Acuerdos celebrados en la Conferencia Nacional de Procuración de Justicia, estableciendo las órdenes pertinentes y conducentes para lograr los objetivos convenidos;
+
+IV. Supervisar que el personal a su cargo respete en todo momento los Derechos Humanos de las personas y que se proporcione la debida atención y protección a las víctimas u ofendidos de los hechos delictivos de su conocimiento;
+
+V. Supervisar el cumplimiento de la normatividad interna expedida por la persona Titular de la Fiscalía General del Estado para el ejercicio de la función persecutora del Ministerio Público, respetando los límites que para tal efecto establezcan las normas generales en materia de tortura y otras (sic) tratos o penas crueles, inhumanos o degradantes;
+
+VI. Conocer y atender los informes y documentos que emita el Mecanismo Nacional de Prevención de la Tortura y, en su caso, proponer a la persona Titular de la Fiscalía General del Estado la emisión de lineamientos, criterios o la realización de acciones necesarias para fortalecer la prevención al interior de la institución, así como la investigación y atención de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes;
+
+VII. Supervisar la intervención del Ministerio Público en cuanto a la ejecución de sanciones y medidas de seguridad;
+
+VIII. Establecer los criterios y actuaciones en los asuntos relativos a la tortura y otros tratos o penas crueles, inhumanos o degradantes;
+
+IX. Proporcionar a otras unidades administrativas la información y cooperación técnica especializada que soliciten, de acuerdo con las políticas y normas institucionales;
+
+X. Solicitar información y colaboración a otras unidades administrativas para el cumplimiento de sus atribuciones;
+
+XI. Proponer a la persona Titular de Fiscalía General del Estado, la realización de campañas internas tendentes a evitar la realización de conductas de tortura y otros tratos o penas crueles, inhumanos o degradantes por parte de las personas servidoras públicas de la institución;
+
+XII. Proponer a la persona Titular de la Fiscalía General del Estado la celebración de convenios de elaboración y demás instrumentos jurídicos con diversos organismos públicos, sociales y privados, tanto nacionales como internacionales, para fortalecer y consolidar el ejercicio de sus atribuciones legales conferidas, y
+
+XIII. Las demás que en su caso le confieran otras disposiciones legales aplicables.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
@@ -2036,3 +1938,53 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Fiscal General del Estado, a partir de la entrada en vigor del presente Decreto, contará con un término de 90 días naturales, para que, en caso de que cuente con personas que desempeñen el cargo de oficial subalterno, les solicite que concluyan sus diligencias y funciones.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA; LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DE LA FISCA~ÍA GENERAL DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE PUEBLA; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL, Y LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado de Puebla y entrará en vigor al siguiente día de su publicación.
+
+SEGUNDO. El Congreso emitirá la declaratoria de inicio de funciones de la Unidad Técnica. Dicha declaratoria tendrá como efecto que los asuntos que se encuentren en trámite ante el Órgano Interno de Control de la Auditoría Superior, se remitan para su atención, desahogo y resolución a la Unidad Técnica.
+
+TERCERO. En un plazo no mayor de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Comisión ejercerá la facultad a que se refiere el artículo 114 BIS del presente ordenamiento, con respecto al Informe General de la Cuenta Pública del ejercicio fiscal de 2019, remitido por la Auditoría Superior del Estado.
+
+Para el Informe General de la Cuenta Pública del ejercicio fiscal de 2020, se procederá conforme al plazo previsto en el artículo 114 BIS.
+
+CUARTO. El nombramiento de los Magistrados integrantes de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado de Puebla, se realizará conforme al escalonamiento siguiente:
+
+I. Un integrante para un periodo de nueve años;
+
+II. Un integrante para un periodo de doce años; y
+
+III. Un integrante para un periodo de quince años.
+
+El Gobernador fijará el periodo de encargo en el nombramiento respectivo.
+
+QUINTO. La designación del personal adscrito a la Unidad Técnica se realizará conforme a las normas y procedimientos aplicables para los servidores públicos del Congreso del Estado.
+
+SEXTO. Los procedimientos administrativos y demás asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante la Auditoría Superior del Estado, o en los que ésta sea parte, continuarán sustanciándose por esta última, hasta su total conclusión, conforme a las disposiciones que se encontraban vigentes al momento de la publicación del presente Decreto.
+
+SÉPTIMO. El Congreso del Estado deberá expedir el Reglamento Interno de la Unidad Técnica, en un plazo de hasta noventa días posterior a la entrada en vigor del presente Decreto.
+
+OCTAVO. Los asuntos en materia de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XI A XXVIII DEL APARTADO A) DEL ARTÍCULO 9; Y ADICIONA LA FRACCIÓN XXIX AL APARTADO A) DEL ARTÍCULO 9, EL TÍTULO NOVENO Y LOS ARTÍCULOS 67, 68 Y 69 TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del primero de enero del año dos mil veinticuatro.
+
+SEGUNDO. La Unidad Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes, a través de la Fiscalía Especializada en Derechos Humanos, transferirá los recursos humanos, materiales y financieros que a la entrada en vigor tenga a su cargo, a la Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes.
+
+TERCERO. En un plazo máximo de treinta días naturales, la Unidad Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes, le transferirá a la Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes las carpetas de investigación de los asuntos que se hayan iniciado a partir del veinticinco de diciembre de dos mil diecisiete, de las que se encuentren en trámite, así como aquéllas que se hayan determinado.
+
+CUARTO. La Fiscalía General del Estado realizará las modificaciones al Reglamento de la Ley Orgánica de la Fiscalía General del Estado, en un término no mayor a sesenta días naturales a partir de la entra de (sic) en vigor del presente Decreto.
+
+QUINTO. La Fiscalía General del Estado deberá realizar las gestiones necesarias ante las Secretarías de Planeación y Finanzas, y de Administración, para que se realicen las previsiones presupuestales necesarias para el cumplimiento del presente Decreto.
+
+SEXTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal y material, que a la entrada en vigor del presente Decreto, se refiera a la Unidad Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes, se entenderá atribuido a la Fiscalía Especializada en Investigación del Delito de Torh1ra y otros Tratos Crueles, Inhumanos o Degradantes.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
