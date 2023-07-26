@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2023-07-21"
+last_updated: "2023-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JULIO DE 2023.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -831,7 +831,9 @@ IV.- La organización de los procesos electorales es una función que correspond
 
 El Instituto Estatal Electoral residirá en la Capital del Estado y se conformará por un Consejo General, que será su órgano superior de dirección, el cual se integrará por una Consejera o un Consejero Presidente y seis Consejeras o Consejeros Electorales con voz y voto. También concurrirán, con voz pero sin voto, un representante de cada uno de los partidos políticos que participen en las elecciones y una o un Secretario Ejecutivo. Las y los Consejos Distritales y Municipales Electorales serán órganos desconcentrados del Instituto Estatal Electoral y solo funcionarán durante el desarrollo del proceso electoral. Las mesas directivas de casilla estarán integradas por ciudadanas y ciudadanos.
 
-El Instituto Estatal Electoral tendrá a su cargo las facultades, atribuciones y obligaciones que establece el inciso a) del apartado B de la fracción V del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, 104 de la Ley General de Instituciones y Procedimientos Electorales y los relativos de la Ley Electoral del Estado de Baja California Sur;
+> <small>(REFORMADO, B.O. 26 DE JULIO DE 2023)</small>
+
+El Instituto Estatal Electoral tendrá a su cargo las facultades, atribuciones y obligaciones que establece el inciso a) del apartado B de la fracción V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, 104 de la Ley General de Instituciones y Procedimientos Electorales y los relativos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur;
 
 V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley correspondiente. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales.
 
@@ -1201,9 +1203,9 @@ V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaració
 
 VI.- Legislar en materia de Coordinación Fiscal entre el Estado y los Municipios.
 
-> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, B.O. 26 DE JULIO DE 2023)</small>
 
-VII.- Elegir al Contralor General del Instituto Estatal Electoral; y en caso de presentarse alguna vacante temporal de algún Magistrado del Tribunal Estatal Electoral, elegir al Magistrado que cubra dicha vacante con base en el procedimiento establecido en la Ley de la materia.
+VII.- Elegir a la persona titular de la Contraloría General del Instituto Estatal Electoral;
 
 VIII.- Convocar a elecciones para Gobernador, en caso de falta absoluta de éste ocurrida dentro de los dos primeros años del período constitucional, conforme a lo establecido en este ordenamiento;
 
@@ -1605,9 +1607,13 @@ Durante el ejercicio de su encargo, el titular de la Auditoría Superior del Est
 
 #### SECCION I. DEL GOBERNADOR
 
-67.- El Poder Ejecutivo se deposita en una sola persona denominada "Gobernador del Estado de Baja California Sur".
+> <small>(REFORMADO, B.O. 26 DE JULIO DE 2023)</small>
 
-68.- La elección del Gobernador será directa, secreta, uninominal y por mayoría relativa en todo el territorio del Estado, en los términos de la Ley Electoral.
+67.- El ejercicio del Poder Ejecutivo del Estado se deposita en una sola persona que se denomina "Gobernadora o Gobernador del Estado de Baja California Sur".
+
+> <small>(REFORMADO, B.O. 26 DE JULIO DE 2023)</small>
+
+68.- La elección de la Gubernatura será directa, secreta, uninominal, por mayoría relativa y bajo el principio de paridad de género en todo el Territorio del Estado, en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur.
 
 69.- Para ser Gobernador del Estado se requiere:
 
@@ -2495,9 +2501,9 @@ Los resultados del ejercicio de dichos recursos serán evaluados por las instanc
 
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para normar directa y libremente las materias de su competencia, así como para establecer sus órganos de gobierno interior.
 
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE JULIO DE 2023)</small>
 
-118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta; misma que se celebrará el primer domingo de junio de cada tres años en los términos de la Ley Electoral del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta; misma que se celebrará el primer domingo de junio de cada tres años en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
 > <small>(ADICIONADO, B.O. 23 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2701,7 +2707,9 @@ Los miembros de los Ayuntamientos duraran en su cargo tres años a partir de la 
 
 ### CAPITULO VI. DE LA ELECCION DEL AYUNTAMIENTO
 
-137.- Los miembros del ayuntamiento se elegirán por planillas en los términos de la Ley Electoral, las que comprenderán a los candidatos por cada uno de los cargos.
+> <small>(REFORMADO, B.O. 26 DE JULIO DE 2023)</small>
+
+137.- Los Integrantes del Ayuntamiento se elegirán por planillas en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur, las que comprenderán a las personas candidatas por cada uno de los cargos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JULIO DE 1995)</small>
 
@@ -2741,7 +2749,9 @@ IV.- Los ministros de algún culto religioso, a menos que se separen formal, mat
 
 139.- Las elecciones de los miembros de los ayuntamientos serán computadas y declaradas válidas por el órgano electoral municipal, mismo que otorgará la constancia de mayoría a la planilla de candidatos que la hubieren obtenido y hará la asignación de regidores por el principio de representación proporcional, de acuerdo a los requisitos y reglas que establezca la ley de la materia.
 
-140.- La Ley Electoral reglamentará la preparación, desarrollo y vigilancia del proceso comicial para la renovación de ayuntamientos.
+> <small>(REFORMADO, B.O. 26 DE JULIO DE 2023)</small>
+
+140.- La Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur regulará la preparación, desarrollo y vigilancia del proceso comicial para la renovación de Ayuntamientos.
 
 > <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
 
@@ -4744,3 +4754,41 @@ B.O. 21 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2935.- SE ADICIONAN LOS PÁRRAFOS NOVENO, DÉCIMO Y DÉCIMO PRIMERO AL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 26 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2945 SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA Y SE EXPIDE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, AMBAS DEL ESTADO DE BAJA CALIFORNIA SUR, EN EL MARCO DEL FORTALECIMIENTO DEL SISTEMA POLÍTICO ELECTORAL DE LA ENTIDAD".]
+
+PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: Se abroga la Ley Electoral del Estado de Baja California Sur, expedida por el Congreso del Estado de Baja California Sur, mediante Decreto número 2178, y publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, de fecha 28 de junio de 2014, así como sus subsecuentes reformas y adiciones contenidas en los Decretos: 2379, 2435, 2436, 2573, 2598 y 2728.
+
+TERCERO: Respecto del tercer párrafo del artículo 31 de la presente Ley, el periodo de cinco años de ejercicio del titular de la Contraloría General del Instituto iniciará a partir de la entrada en vigor del presente Decreto.
+
+CUARTO: Para el proceso electoral 2023-2024, las medidas afirmativas implementadas en los procesos electorales anteriores por el Instituto Estatal Electoral de Baja California Sur, quedan sin efectos, toda vez que la presente Ley contempla y protege sus derechos humanos y la progresividad de los grupos prioritarios y la paridad de género.
+
+QUINTO: Para el proceso electoral 2023-2024, no se aplicarán los bloques de competitividad contemplados en el artículo 103 de esta Ley, motivado del acuerdo INE/CG589/2022 del Consejo General del Instituto Nacional Electoral por el que se aprueba la demarcación territorial de los distritos electorales uninominales locales en que se divide el Estado de Baja California Sur y sus respectivas cabeceras distritales.
+
+SEXTO: Envíese al Tribunal Electoral del Poder Judicial de la Federación para dar cumplimiento con el resolutivo cuarto SUP-REC-343/2020, en donde se vincula al Instituto Estatal Electoral de Baja California Sur y en voto particular al Congreso del Estado de Baja California Sur, para que antes de que se verifique el plazo exigido constitucionalmente para emitir las reglas en materia electoral aplicables para el proceso electoral 2023-2024 en la entidad, previo desarrollo de las respectivas consultas indígena y afromexicana, legisle respecto de sus derechos políticos, en particular, a las candidaturas a diputaciones y Ayuntamientos.
+
+SÉPTIMO: Los asuntos que se encuentren en trámite en el Instituto Estatal Electoral y en el Tribunal Electoral del Estado a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+OCTAVO: El periodo de la presidencia del Tribunal Estatal Electoral del Estado de Baja California Sur que se hubiere designado conforme a la legislación electoral abrogada terminará el 31 de octubre del año correspondiente a la nueva designación de la Presidencia.
+
+NOVENO: El Instituto Estatal Electoral y el Tribunal Estatal Electoral deberán adecuar sus Reglamentos Internos conforme a las disposiciones del presente Decreto, en un periodo máximo de sesenta días naturales, posteriores a la entrada en vigor del presente Decreto.
+
+DÉCIMO: Las Diputadas y Diputados integrantes de la XVI Legislatura del Congreso de Baja California Sur, así como los integrantes de los Ayuntamientos de los municipios de Mulegé, Loreto, Comondú, La Paz y Los Cabos, electos para el periodo Constitucional 2021-2024, podrán ejercer su derecho a la elección consecutiva en los términos de este Decreto.
+
+DÉCIMO PRIMERO: El voto de la ciudadanía sudcaliforniana en el extranjero por vía electrónica se realizará hasta que se cuenten con los instrumentos que sean validados por el Instituto Nacional Electoral, de acuerdo con los lineamientos emitidos por la autoridad competente.
+
+DÉCIMO SEGUNDO: Para el proceso electoral 2023-2024, tratándose de la paridad de género en las candidaturas a diputaciones de representación proporcional, los Partidos Políticos podrán registrar su lista de acuerdo a los procedimientos que hayan sido aprobados en su vida interna, pudiéndola encabezar una fórmula de mujer o una fórmula de hombres, en caso de que el género femenino esté subrepresentado en la integración de la legislatura, se podrá hacer ajuste en la asignación de diputaciones de representación proporcional para garantizar la integración paritaria de la legislatura.
+
+DÉCIMO TERCERO: Para el proceso electoral 2023-2024, en lo correspondiente a la paridad de género para las candidaturas a los ayuntamientos del Estado los Partidos Políticos, podrán postular indistintamente el género acorde a sus procesos internos en cualquier posición del bloque de competitividad bajo.
+
+DÉCIMO CUARTO: Para el proceso electoral 2023-2024, en lo correspondiente a la paridad de género para las candidaturas a los ayuntamientos del Estado los Partidos Políticos, deberán postular a dos mujeres en el bloque de competitividad alto.
+
+DÉCIMO QUINTO: Los Partidos Políticos y las agrupaciones políticas que participen en los procesos electorales en el Estado de Baja California Sur, deberán adecuar sus Documentos Básicos a lo previsto en esta Ley y las demás disposiciones legales aplicables.
+
+DÉCIMO SEXTO: Las unidades administrativas contenidas en el artículo 11 fracción V, operarán con el presupuesto de egresos aprobado por el Congreso.
+
+DÉCIMO SÉPTIMO: Los Partidos Políticos y las agrupaciones políticas que participen en los procesos electorales en el Estado de Baja California Sur, podrán postular libremente mujer u hombre en la postulación a la gubernatura en el proceso electoral 2027 atendiendo el principio de paridad plasmado en esta Ley.
