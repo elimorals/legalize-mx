@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2023-07-25"
+last_updated: "2023-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2023.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1181,13 +1181,17 @@ XV. Los análogos a los anteriores que, a juicio del Presidente del Congreso, se
 
 ARTÍCULO 71 BIS. Corresponde a la Comisión de Desarrollo Integral de la Familia, participar, conocer y dictaminar, de manera enunciativa, más no limitativa, sobre los asuntos siguientes:
 
-I. Los que se refieran a la expedición, reformas y adiciones a la legislación estatal, que estén relacionadas con el desarrollo integral de la familia;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2023)</small>
+
+I. Los que se refieran a la expedición, reformas y adiciones a la legislación estatal, que estén relacionadas con los derechos y responsabilidades familiares, cuidado y atención de la familia y sus integrantes;
 
 II. El fortalecimiento de la familia como núcleo básico de la sociedad;
 
 III. Los relativos al proceso de adopción;
 
-IV. Lo relativo al tratamiento a la legislación para prevenir y atender la violencia familiar;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2023)</small>
+
+IV. Los que refieran a la legislación para prevenir y atender la violencia familiar;
 
 V. Acciones encaminadas a la promoción, defensa y preservación de la familia;
 
@@ -1197,11 +1201,17 @@ VII. Analizar e impulsar normas orientadas a la protección de las familias migr
 
 VIII. Lo relativo a las instituciones públicas o privadas, dedicadas a la protección de la familia;
 
-IX. Las acciones que realicen en el Estado y sus municipios, respecto de la promoción, vinculación, fomento y difusión de las actividades relacionadas con la familia;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2023)</small>
 
-X. Los estudios sobre la situación social, económica, estructural, cultural y estadística de la familia;
+IX. Las acciones que realice el Gobierno Estatal y Municipal, respecto a la protección, apoyo, estímulo y desarrollo de los derechos de los integrantes de la familia;
 
-XI. Implementar mecanismos de comunicación y coordinación con las instancias gubernamentales en la materia, para coadyuvar con el desarrollo e implementación de políticas en favor de la familia;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2023)</small>
+
+X. Las iniciativas relativas a la situación social, económica, estructural, cultural que incidan en la familia, en su dinámica y desintegración, considerando su ubicación ya sea rural, urbana, indígena o migrante;
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2023)</small>
+
+XI. Implementar mecanismos de comunicación y coordinación con las instancias gubernamentales en la materia, para coadyuvar con el bienestar y prosperidad de la familia;
 
 XII. La legislación relacionada con el diseño y promoción de políticas, planes y programas para el fortalecimiento de las habilidades emocionales, sociales y cognitivas para cocreación de familias saludables, fuertes, su desarrollo integral y libres de violencia; y,
 
@@ -4628,3 +4638,11 @@ P.O. 25 DE JULIO DE 2023.
 Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 436 POR EL QUE “SE REFORMAN LAS FRACCIONES I, IV, IX, X Y XI DEL ARTÍCULO 71 BIS, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
