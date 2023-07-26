@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-fiscalia-general-del-estado-de-puebla-113098
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-02-20"
-last_updated: "2022-02-11"
+last_updated: "2023-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2023.
 
 Ley publicada en la Tercera Edición Extraordinaria del Periódico Oficial del Estado de Puebla, el sábado 20 de febrero de 2016.
 
@@ -405,41 +405,81 @@ IX. La Fiscalía Especializada en Investigación de Delitos de Violencia de Gén
 
 X. La Fiscalía Especializada de Asuntos internos;
 
-XI. La Oficina del Fiscal General;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XII. La Oficialía Mayor;
+XI. La Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes;
 
-XIII. La Agencia Estatal de Investigación;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XIV. El Instituto de Ciencias Forenses;
+XII. La Oficina del Fiscal General;
 
-XV. El Órgano Interno de Control;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XVI. La Visitaduría General;
+XIII. La Oficialía Mayor;
 
-XVII. El Instituto de Formación Profesional;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XVIII. La Coordinación General de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+XIV. La Agencia Estatal de Investigación;
 
-XIX. La Coordinación General de Colaboración Interinstitucional;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XX. La Coordinación General de Estadística y Sistemas de Información;
+XV. El Instituto de Ciencias Forenses;
 
-XXI. La Coordinación General de Gestión Documental Institucional;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XXII. La Coordinación General de Asuntos Jurídicos;
+XVI. El Órgano Interno de Control;
 
-XXIII. La Coordinación General de Servicios a la Comunidad;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XXIV. La Dirección General de Seguridad Institucional;
+XVII. La Visitaduría General;
 
-XXV. La Dirección General de Planeación Institucional;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XXVI. La Dirección General de Comunicación Estratégica y Vinculación Social;
+XVIII. El Instituto de Formación Profesional;
 
-XXVII. La Unidad Especializada en Materia de Extinción de Dominio, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
 
-XXVIII. La Unidad de Transparencia.
+XIX. La Coordinación General de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XX. La Coordinación General de Colaboración Interinstitucional;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXI. La Coordinación General de Estadística y Sistemas de Información;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXII. La Coordinación General de Gestión Documental Institucional;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXIII. La Coordinación General de Asuntos Jurídicos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXIV. La Coordinación General de Servicios a la Comunidad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXV. La Dirección General de Seguridad Institucional;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXVI. La Dirección General de Planeación Institucional;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXVII. La Dirección General de Comunicación Estratégica y Vinculación Social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXVIII. La Unidad Especializada en Materia de Extinción de Dominio, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+
+XXIX. La Unidad de Transparencia.
 
 B) Órganos que le auxiliarán en el ejercicio de sus funciones:
 
@@ -1747,6 +1787,54 @@ Las denuncias deberán ser investigadas y concluidas por el Órgano Interno de C
 
 La Fiscalía Especializada de Asuntos Internos estará a cargo de las investigaciones y el ejercicio de la acción penal en delitos cometidos por personal adscrito a los órganos sustantivos y administrativos de la Fiscalía General del Estado, en ejercicio de sus funciones, que no sean hechos de corrupción mismos que son competencia de la Fiscalía Especializada en Combate a la Corrupción.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JULIO DE 2023)</small>
+
+## TÍTULO NOVENO. DE LA FISCALÍA ESPECIALIZADA EN INVESTIGACIÓN DEL DELITO DE TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 67.
+
+La Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes, gozará de plena autonomía técnica y operativa, y tendrá a su cargo la investigación y persecución de los delitos previstos y sancionados por la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 68.
+
+La Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes, estará a cargo de la persona Titular de la Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes y contará con las unidades administrativas necesarias, personas Agentes del Ministerio Público, Agentes Investigadores, Peritos y Analistas de Información especializadas, quienes deberán cumplir los requisitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2023)</small>
+
+###### ARTÍCULO 69.
+
+La persona Titular de la Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes, tendrá además de las atribuciones que le correspondan en otras disposiciones legales, las siguientes:
+
+I. Ejercer las atribuciones que a cargo de las Fiscalías Especializadas dispone la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+II. Coordinar y supervisar las actividades que realicen las personas Agentes del Ministerio Público a su cargo en la investigación de los delitos de su competencia, en el ejercicio o no de la acción penal y en la persecución de los delitos ante los tribunales;
+
+III. Dirigir técnica, procesal y jurídicamente la participación de las personas Agentes del Ministerio Público en los términos de los Convenios de Colaboración y demás Acuerdos celebrados en la Conferencia Nacional de Procuración de Justicia, estableciendo las órdenes pertinentes y conducentes para lograr los objetivos convenidos;
+
+IV. Supervisar que el personal a su cargo respete en todo momento los Derechos Humanos de las personas y que se proporcione la debida atención y protección a las víctimas u ofendidos de los hechos delictivos de su conocimiento;
+
+V. Supervisar el cumplimiento de la normatividad interna expedida por la persona Titular de la Fiscalía General del Estado para el ejercicio de la función persecutora del Ministerio Público, respetando los límites que para tal efecto establezcan las normas generales en materia de tortura y otras (sic) tratos o penas crueles, inhumanos o degradantes;
+
+VI. Conocer y atender los informes y documentos que emita el Mecanismo Nacional de Prevención de la Tortura y, en su caso, proponer a la persona Titular de la Fiscalía General del Estado la emisión de lineamientos, criterios o la realización de acciones necesarias para fortalecer la prevención al interior de la institución, así como la investigación y atención de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes;
+
+VII. Supervisar la intervención del Ministerio Público en cuanto a la ejecución de sanciones y medidas de seguridad;
+
+VIII. Establecer los criterios y actuaciones en los asuntos relativos a la tortura y otros tratos o penas crueles, inhumanos o degradantes;
+
+IX. Proporcionar a otras unidades administrativas la información y cooperación técnica especializada que soliciten, de acuerdo con las políticas y normas institucionales;
+
+X. Solicitar información y colaboración a otras unidades administrativas para el cumplimiento de sus atribuciones;
+
+XI. Proponer a la persona Titular de Fiscalía General del Estado, la realización de campañas internas tendentes a evitar la realización de conductas de tortura y otros tratos o penas crueles, inhumanos o degradantes por parte de las personas servidoras públicas de la institución;
+
+XII. Proponer a la persona Titular de la Fiscalía General del Estado la celebración de convenios de elaboración y demás instrumentos jurídicos con diversos organismos públicos, sociales y privados, tanto nacionales como internacionales, para fortalecer y consolidar el ejercicio de sus atribuciones legales conferidas, y
+
+XIII. Las demás que en su caso le confieran otras disposiciones legales aplicables.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
@@ -1882,3 +1970,21 @@ SÉPTIMO. El Congreso del Estado deberá expedir el Reglamento Interno de la Uni
 OCTAVO. Los asuntos en materia de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XI A XXVIII DEL APARTADO A) DEL ARTÍCULO 9; Y ADICIONA LA FRACCIÓN XXIX AL APARTADO A) DEL ARTÍCULO 9, EL TÍTULO NOVENO Y LOS ARTÍCULOS 67, 68 Y 69 TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del primero de enero del año dos mil veinticuatro.
+
+SEGUNDO. La Unidad Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes, a través de la Fiscalía Especializada en Derechos Humanos, transferirá los recursos humanos, materiales y financieros que a la entrada en vigor tenga a su cargo, a la Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes.
+
+TERCERO. En un plazo máximo de treinta días naturales, la Unidad Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes, le transferirá a la Fiscalía Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes las carpetas de investigación de los asuntos que se hayan iniciado a partir del veinticinco de diciembre de dos mil diecisiete, de las que se encuentren en trámite, así como aquéllas que se hayan determinado.
+
+CUARTO. La Fiscalía General del Estado realizará las modificaciones al Reglamento de la Ley Orgánica de la Fiscalía General del Estado, en un término no mayor a sesenta días naturales a partir de la entra de (sic) en vigor del presente Decreto.
+
+QUINTO. La Fiscalía General del Estado deberá realizar las gestiones necesarias ante las Secretarías de Planeación y Finanzas, y de Administración, para que se realicen las previsiones presupuestales necesarias para el cumplimiento del presente Decreto.
+
+SEXTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal y material, que a la entrada en vigor del presente Decreto, se refiera a la Unidad Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes, se entenderá atribuido a la Fiscalía Especializada en Investigación del Delito de Torh1ra y otros Tratos Crueles, Inhumanos o Degradantes.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
