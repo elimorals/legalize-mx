@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-obras-publicas-del-estado-de-campeche-3602"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-31"
-last_updated: "2022-08-22"
+last_updated: "2023-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Campeche, el viernes 31 de agosto de 1984.
 
@@ -553,7 +553,7 @@ El contratista a quien se adjudique el contrato, no podrá hacer ejecutar la obr
 
 Los contratos que con base en la presente Ley celebren las dependencias y entidades, se considerarán de derecho público.
 
-Las controversias que se susciten con motivo de la interpretación o aplicación de esta Ley o de los contratos celebrados serán resueltas por los tribunales estatales.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 49.
 
@@ -723,9 +723,9 @@ Las responsabilidades a que se refiere la presente Ley son independientes de las
 
 Los actos, convenios, contratos y negocios jurídicos que las dependencias y entidades realicen en contravención a lo dispuesto por esta Ley, serán nulos de pleno derecho.
 
-ARTICULO (SIC) VIII
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2023)</small>
 
-DE LOS RECURSOS
+### CAPÍTULO VIII. DE LOS MEDIOS DE DEFENSA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1993)</small>
 
@@ -770,6 +770,14 @@ Los acuerdos y resoluciones, que se dicten en cumplimiento de esta ley, se notif
 ###### ARTICULO 71.
 
 Las facultades y obligaciones que en esta ley se atribuyen a la SEDESO, SEOPC, CONTRALORIA y OFICIALIA, corresponderán a sus homólogas municipales cuando la obra pública se ejecute exclusivamente con recursos propios del Municipio. Las mencionadas dependencias estatales podrán asesorar y apoyar a las municipales a petición de las mismas, en el ejercicio de esas facultades y obligaciones. Cuando la obra pública se ejecute con recursos mixtos, el ejercicio de las referidas atribuciones se ajustará a lo pactado en los respectivos convenios de coordinación de acciones.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+###### ARTICULO 72.
+
+Si derivado de la celebración de los contratos regulados por esta Ley, así como en la interpretación y aplicación de la misma, todo conflicto suscitado entre un particular y la administración pública estatal y municipal será resuelto por el Tribunal de Justicia Administrativa del Estado de Campeche, conforme a las disposiciones previstas en el Código de Procedimientos Contencioso Administrativo (sic) del Estado de Campeche.
+
+Lo señalado en el párrafo anterior también será aplicable para los supuestos no previstos en este Capítulo.
 
 T R A N S I T O R I O S
 
@@ -850,3 +858,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, el Ejecutivo Estatal deberá armonizar las disposiciones reglamentarias que sean necesarias para la debida implementación del mencionado decreto.
 
 TERCERO.- Se deroga cualquier disposición que contravenga la presente ley.
+
+P.O. 27 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 249 POR EL QUE "SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VIII “DE LOS RECURSOS” PARA QUEDAR COMO “DE LOS MEDIOS DE DEFENSA”; SE ADICIONA UN ARTÍCULO 72 Y, SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 48 DE LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los procedimientos administrativos iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes al momento de su inicio.
+
+Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
