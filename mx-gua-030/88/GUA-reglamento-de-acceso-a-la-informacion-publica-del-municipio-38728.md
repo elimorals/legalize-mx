@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-acceso-a-la-informacion-publica-del-municipio-387
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-08"
-last_updated: "2004-04-08"
+last_updated: "2023-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE SAN FELIPE, GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL MUNICIPIO DE SAN FELIPE, GUANAJUATO, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE SAN FELIPE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el jueves 8 de abril de 2004.
 
@@ -494,3 +496,17 @@ C. Juan Ramón Hernández Araiza.
 SRIO. DEL H. AYUNTAMIENTO
 
 Prof. Feliciano García Solís.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL MUNICIPIO DE SAN FELIPE, GUANAJUATO".]
+
+Vigencia
+
+Artículo Primero. El presente Reglamento estará vigente a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación del Reglamento anterior
+
+Artículo Segundo. Se abroga el Reglamento de Acceso a la Información Pública de San Felipe, Gto., emitido en fecha 02 de marzo de 2004 y publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato en fecha 08 de abril de 2004.
