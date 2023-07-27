@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2023-07-25"
+last_updated: "2023-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -119,19 +119,31 @@ El Estado garantizará y promoverá el acceso a la sociedad de la información y
 
 Toda persona tiene derecho a la cultura; a participar libremente en la vida cultural de la comunidad; a preservar y desarrollar su identidad; a acceder y participar en cualquier manifestación artística y cultural; a elegir pertenecer a una comunidad cultural; al disfrute de los bienes y servicios que presta el Estado en la materia; a conocer, preservar, fomentar y desarrollar su patrimonio cultural, así como al ejercicio de sus derechos culturales en condiciones de igualdad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
 
-Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad
+Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
 
-Toda persona tiene el derecho a una vivienda digna y adecuada, que permita el libre desarrollo de una vida personal, familiar y comunitaria. El Estado establecerá las medidas normativas y políticas públicas necesarias para asegurar los elementos mínimos como la habitabilidad, el espacio y equipamiento suficientes, doméstico y comunitario para la producción y reproducción de la vida, la disponibilidad de servicios, la accesibilidad, la ubicación apropiada, la seguridad de la tenencia y la pertinencia cultural de las viviendas. El Estado podrá participar en el diseño, la construcción, la rehabilitación, la conservación y la innovación de la vivienda. Considerará en el diseño de las políticas de vivienda a personas con bajos ingresos económicos o pertenecientes a grupos vulnerables. El Estado establecerá mecanismos para impedir la especulación en materia de suelo y vivienda que vaya en detrimento del interés público.
+Toda persona tiene el derecho a una vivienda digna y adecuada, que permita el libre desarrollo de una vida personal, familiar y comunitaria. El Estado establecerá las medidas normativas y políticas públicas necesarias para asegurar los elementos mínimos como la habitabilidad, el espacio y equipamiento suficientes, doméstico y comunitario para la producción y reproducción de la vida, la disponibilidad de servicios, la accesibilidad, la ubicación apropiada, la seguridad de la tenencia y la pertinencia cultural de las viviendas. El Estado podrá participar en el diseño, la construcción, la rehabilitación, la conservación y la innovación de la vivienda. Considerará en el diseño de las políticas de vivienda a personas con bajos ingresos económicos o pertenecientes a grupos vulnerables. El Estado establecerá mecanismos para impedir la especulación en materia de suelo (sic) vivienda que vaya en detrimento del interés público.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE JULIO DE 2023)</small>
 
 Toda persona tiene derecho a una alimentación nutritiva, suficiente y de calidad. La Ley establecerá la forma y términos en los que se garantizará este derecho.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE MARZO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JULIO DE 2023)</small>
+
+Las personas en situación de dependencia tienen el derecho a ser cuidadas de manera digna y a recibir los elementos materiales y simbólicos que sustenten su vida para vivir en sociedad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JULIO DE 2023)</small>
+
+Las personas que realizan trabajo doméstico no remunerado o de cuidados a personas en situación de dependencia realizado en el propio hogar, serán atendidas y reconocidas como generadores de riqueza y bienestar social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JULIO DE 2023)</small>
+
+Toda persona tiene el derecho a la ciudad, que consiste en el uso y el goce pleno y equitativo de los espacios y bienes públicos, fundado en principios de democracia, de respeto a la diversidad cultural, a la naturaleza y al medio ambiente, igualdad sustantiva, inclusión social, justicia social, participación y paz. El derecho a la ciudad es un derecho colectivo e intergeneracional. El estado establecerá mecanismos para asegurar la justicia territorial con la participación ciudadana.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE JULIO DE 2023)</small>
 
 El Estado de Jalisco tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
@@ -1219,9 +1231,9 @@ IX. No ser titular de la Secretaría General de Gobierno o quien haga sus veces,
 
 X. No ser Juez o Jueza, Secretario o Secretaria de Juzgado, Secretario o Secretaria del Consejo de la Judicatura del Estado, Presidente o Presidenta Municipal, Regidor o Regidora, Síndico o Síndica, Secretario o Secretaria de Ayuntamiento o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el distrito por el cual se postule, a menos que se separe de su cargo noventa días antes del día de la elección; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-XI. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
+XI. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, abuso sexual infantil, violación, feminicidio o violencia familiar, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -1681,25 +1693,25 @@ El ejercicio del Poder Ejecutivo se deposita en un ciudadano que se denomina Gob
 
 Para ser Gobernadora o Gobernador del Estado se requiere:
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 II. Tener cuando menos treinta años de edad el día de la elección;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-III. Ser nativo del Estado o avecindado en él cuando menos los dos años anteriores al día de la elección;
+III. Ser persona nacida en el Estado o avecindada cuando menos los dos años anteriores al día de la elección;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-IV. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo demostrar que ha pagado en su totalidad los adeudos alimenticios;
+IV. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, abuso sexual infantil, violación, feminicidio o violencia familiar, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-V. No ser Magistrada o Magistrado del Tribunal Electoral del Estado, ni consejera o consejero y (sic) de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elección; y
+V. No ser Magistrada o Magistrado del Tribunal Electoral del Estado, ni consejera o consejero del Instituto Electoral y de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elección; y
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -2551,11 +2563,13 @@ I. Tener ciudadanía mexicana, en pleno ejercicio de sus derechos;
 
 II. Ser persona nacida en el municipio o área metropolitana correspondiente o avecindada de los mismos cuando menos los dos años anteriores al día de la elección;
 
-III. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo demostrar que ha pagado en su totalidad los adeudos alimenticios;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+III. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, abuso sexual infantil, violación, feminicidio o violencia familiar, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios;
 
-IV. No ser Magistrada o Magistrado del Tribunal Electoral del Estado, consejera o consejero electoral del Instituto Electoral y de Participación Ciudadana del Estado, Procurador Social, Presidente o Presidenta de la Comisión Estatal de Derechos Humanos, titular de la Fiscalía General, titular de la Fiscalía Especial de Delitos Electorales, a menos que se separe de sus funciones dos años antes de la elección;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+IV. No ser Magistrada o Magistrado del Tribunal Electoral del Estado, consejera o consejero electoral del Instituto Electoral y de Participación Ciudadana del Estado, titular de la Procuraduría Social, Presidente o Presidenta de la Comisión Estatal de Derechos Humanos, titular de la Fiscalía General, titular de la Fiscalía Especial de Delitos Electorales, a menos que se separe de sus funciones dos años antes de la elección;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -4430,3 +4444,15 @@ P.O. 25 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Los efectos de lo dispuesto en este Decreto serán aplicados a partir de la proyección, programación y presupuestación del Presupuesto de Egresos del Estado para el ejercicio fiscal 2024.
+
+P.O. 27 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29183/LXIII/23 QUE REFORMA EL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29218/LXIII/23 QUE REFORMA LOS ARTÍCULOS 21, 37 Y 74 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
