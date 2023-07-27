@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2023-07-03"
+last_updated: "2023-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1515,13 +1515,21 @@ LXV.- Otorgar, previos requisitos de ley, las licencias o permisos provisionales
 
 LXVI.- Implementar el uso y aprovechamiento de las tecnologías de la información, a través de la política de Gobierno Digital establecida por la Comisión Estatal de Gobierno Digital, la Ley y el Reglamento de la materia, así como en los convenios celebrados por el Municipio en temas de mejora regulatoria;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-LXVII.- Fomentar la creación, venta y distribución de productos artesanales en corredores turísticos, tianguis, mercados públicos, plazas regionales y ferias, así como facilitar espacios para el sector artesanal; y
+LXVII.- Fomentar la creación, venta y distribución de productos artesanales en corredores turísticos, tianguis, mercados públicos, plazas regionales y ferias, así como facilitar espacios para el sector artesanal;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JULIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2023)</small>
 
-LXVIII.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
+LXVIII.- Implementar acciones para prevenir cualquier conducta que pueda configurar violencia política contra las mujeres en razón de género, en especial, la relativa a limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo público o político, incluido el pago de salarios, dietas u otras prestaciones asociadas al mismo, prevista en el artículo 21 Ter, fracción XVIII, de la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2023)</small>
+
+LXIX.- Crear la instancia municipal de la mujer como órgano encargado de instrumentar la política municipal en materia de igualdad de género, así como las acciones que les correspondan a los Ayuntamientos de acuerdo con la Ley General y Estatal para el Acceso de las Mujeres a una Vida Libre de Violencia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JULIO DE 2023)</small>
+
+LXX.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -1677,9 +1685,11 @@ V.- Disponer de la fuerza pública municipal para la conservación del orden pú
 
 VI.- Preservar y velar por la tranquilidad y el orden público y dictar las medidas que a su juicio demanden las circunstancias;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-VII.- Proponer al Ayuntamiento el nombramiento del titular o titulares de las ramas del cuerpo de seguridad pública municipal, previa aprobación del examen, certificación y registro en el Centro de Control de Confianza correspondiente;
+VII.- Proponer al Ayuntamiento, en la primera Sesión Extraordinaria de Cabildo, el nombramiento de los titulares de la Secretaría del Ayuntamiento, de la Tesorería Municipal y de la Contraloría Municipal; asi como al titular o titulares de las ramas del cuerpo de seguridad pública municipal, previa aprobación del examen, certificación y registro en el Centro de Control de Confianza correspondiente de estos últimos.
+
+En caso de ausencia definitiva de las personas titulares de estos cargos, la Presidenta o el Presidente Municipal tendrá hasta quince días naturales para presentar su propuesta al Ayuntamiento, mientras tanto, designará a la persona que actuará durante la ausencia;
 
 VIII.- Dictar las medidas conducentes para proporcionar parajes y alojamiento a las tropas que pasen por la Municipalidad, sujetándose a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -4532,5 +4542,21 @@ P.O. 3 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES LXVI Y LXVII, Y ADICIONA LA FRACCIÓN LXVIII AL ARTÍCULO 78 DE LA LEY ORGÁNICA MUNICIPAL".]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 91 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES LXVII Y LXVIII DEL ARTÍCULO 78, Y ADICIONA LAS FRACCIONES LXIX Y LXX AL ARTÍCULO 78 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
