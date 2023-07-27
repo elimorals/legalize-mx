@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2023-03-23"
+last_updated: "2023-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -531,7 +531,9 @@ ARTÍCULO 21 BIS.- La violencia política contra las mujeres en razón de géner
 
 Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes federales, estatales y municipales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes federales, estatales y municipales, por superiores jerárquicos, colegas de trabajo, familiares, parejas o ex parejas, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
@@ -553,9 +555,13 @@ VII.- Realizar o distribuir propaganda política o electoral que difame, calumni
 
 VIII.- Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
 
-IX.- Divulgar imágenes, mensajes, videos, fotografías o información privada de una mujer precandidata, candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-X.- Amenazar o intimidar a una o varias mujeres, a su familia o colaboradores con el objeto de inducir su renuncia a la precandidatura, candidatura o al cargo para el que fue electa o designada;
+IX.- Divulgar imágenes, mensajes, videos, fotografías o hechos falsos información privada de una mujer precandidata, candidata o en ejercicio de sus funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su imagen, capacidad o habilidades para la política, con base en estereotipos de género;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+X.- Amenazar o intimidar a una o varias mujeres, a su familia o colaboradores con la pérdida de su vida o integridad, con demandarla o con divulgar hechos falsos, información que se conoce con motivo de una relación de pareja, familiar o de amistad o con cualquier otro acto, con el objeto de inducir su renuncia a la precandidatura, candidatura o al cargo para el que fue electa o designada;
 
 XI.- Impedir o restringir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta o acceso al mismo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
 
@@ -577,9 +583,17 @@ XIX.- Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribi
 
 XX.- Obstaculizar o impedir el acceso a la justicia para la protección de los derechos político - electorales;
 
-XXI.- Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos político - electorales en condiciones de igualdad, o
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2023)</small>
 
-XXII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+XXI.- Menoscabar a una mujer precandidata, candidata o en ejercicio de sus funciones, con motivo de sus vínculos de pareja o ex pareja, por cualquier medio físico o virtual, con el objetivo de denostar su autonomía, negarle su individualidad y personalidad propia, o mostrar dependencia, inferioridad o subordinación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE JULIO DE 2023)</small>
+
+XXII.- Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos político - electorales en condiciones de igualdad, o
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JULIO DE 2023)</small>
+
+XXIII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en esta Ley y en el Código antes referido.
 
@@ -2184,6 +2198,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN IV DEL ARTÍCULO 16 BIS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 21 BIS Y LAS FRACCIONES IX, X, XXI Y XXII DEL ARTÍCULO 21 TER, Y ADICIONA LA FRACCIÓN XXIII AL ARTÍCULO 21 TER DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
