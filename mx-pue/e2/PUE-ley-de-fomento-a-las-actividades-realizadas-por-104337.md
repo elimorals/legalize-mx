@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fomento-a-las-actividades-realizadas-por-104337"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2021-04-09"
+last_updated: "2023-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de diciembre de 2014.
 
@@ -85,9 +85,11 @@ Las organizaciones de la sociedad civil que se encuentren constituidas en forma 
 
 No se aplicará la presente Ley a las organizaciones que realicen actividades político electorales, asociaciones religiosas, personas jurídicas que tienen por objeto exclusivo el beneficio de sus integrantes o fines mercantiles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 6.
 
-Las organizaciones de la sociedad civil que constituyan las versiones nacionales de organizaciones internacionales, podrán gozar de los derechos que esta Ley dispone, siempre que sus órganos de administración y representación estén integrados mayoritariamente por ciudadanos mexicanos. Para efectos de lo dispuesto en este artículo, las organizaciones internacionales deberán inscribirse en el Registro Estatal y señalar domicilio en el territorio estatal.
+Las organizaciones de la sociedad civil que constituyan las versiones nacionales de organizaciones internacionales, podrán gozar de los derechos que esta Ley dispone, siempre que sus órganos de administración y representación estén integrados mayoritariamente por ciudadanas y ciudadanos mexicanos. Para efectos de lo dispuesto en este artículo, las organizaciones internacionales deberán inscribirse en el Registro Estatal y señalar domicilio en el territorio estatal.
 
 Las organizaciones de la sociedad civil constituidas conforme a las leyes extranjeras, previo cumplimiento de las disposiciones correspondientes de la legislación civil aplicable, que realicen una o más de las actividades cuyo fomento tiene por objeto esta Ley, gozarán de los derechos que derivan de esta Ley, con exclusión de los que se establecen en las fracciones II a VIII y XI del artículo 8.
 
@@ -106,6 +108,10 @@ III. Cívicas, enfocadas a promover la participación ciudadana en asuntos de in
 IV. Asistencia jurídica;
 
 V. Promoción de la equidad de género;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2023)</small>
+
+V Bis. Promoción de la participación ciudadana en favor de la transparencia gubernamental;
 
 VI. Asistencia, apoyo y aportación de servicios para la atención a grupos sociales con los diversos tipos de discapacidad;
 
@@ -143,7 +149,9 @@ Para los efectos de esta Ley, las organizaciones de la sociedad civil tienen los
 
 I. Inscribirse en el Registro Estatal;
 
-II. Participar, de conformidad con la Ley de Planeación del Desarrollo para el Estado de Puebla y demás disposiciones legales aplicables, como instancias de participación y consulta;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+II. Participar, de conformidad con la Ley de Planeación para el Desarrollo del Estado de Puebla y demás disposiciones legales aplicables, como instancias de participación y consulta;
 
 III. Integrarse a los órganos de participación y consulta de la administración pública del Estado, en las áreas que sean materia del objeto de fomento de esta Ley;
 
@@ -201,7 +209,9 @@ XIV. Las demás que establezcan las disposiciones legales aplicables.
 
 Las organizaciones de la sociedad civil no podrán recibir los apoyos y estímulos públicos previstos en esta Ley cuando incurran en alguno de los siguientes supuestos:
 
-I. Exista entre sus directivos y los servidores públicos, encargados de otorgar o autorizar los apoyos y estímulos públicos, relaciones de interés o nexos de parentesco por consanguinidad o afinidad hasta en cuarto grado, o sean cónyuges, y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+I. Exista entre sus directivos y las personas servidoras públicas, encargados de otorgar o autorizar los apoyos y estímulos públicos, relaciones de interés o nexos de parentesco por consanguinidad o afinidad hasta en cuarto grado, o sean cónyuges, y
 
 II. Contraten, con recursos públicos, a personas con nexos de parentesco con los directivos de la organización, ya sea por consanguinidad o afinidad hasta en cuarto grado, o sean cónyuges.
 
@@ -219,17 +229,29 @@ La Comisión de Fomento de las Actividades de las Organizaciones de la Sociedad 
 
 La Comisión se integrará de la forma siguiente:
 
-I. Un Presidente Honorario, que será el Titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-II. Un Presidente Ejecutivo, que será el Titular de la Secretaría de Desarrollo Social del Gobierno del Estado;
+I. La persona Titular de la Presidencia Honoraria, que será la persona Titular del Poder Ejecutivo del Estado;
 
-III. Un Secretario Técnico, designado por el Presidente Ejecutivo;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-IV. El Titular de la Secretaría General de Gobierno, como vocal;
+II. La persona Titular de la Presidencia Ejecutiva, que será la persona Titular de la Secretaría;
 
-V. El Titular de la Secretaría de Finanzas y Administración, como vocal;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-VI. El Titular del Sistema Estatal para el Desarrollo Integral de la Familia, como vocal;
+III. La Secretaría Técnica, será designada por quien sea la persona Titular de la Presidencia Ejecutiva;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+IV. La persona Titular de la Secretaría de Gobernación, como vocal;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+V. La persona Titular de la Secretaría de Planeación y Finanzas, como vocal;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+VI. La persona Titular del Sistema Estatal para el Desarrollo Integral de la Familia, como vocal;
 
 VII. La Junta de Asistencia Privada del Estado, a través de un representante, como vocal; y
 
@@ -245,11 +267,13 @@ Los integrantes de la Comisión, y en su caso, los suplentes, desempeñarán su 
 
 La Comisión podrá invitar a sus sesiones a aquellas personas, especialistas, con actividades afines a su objeto, quienes tendrán únicamente derecho a voz.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 14.
 
-La Comisión sesionará ordinariamente cuando menos dos veces al año, y extraordinariamente, las que resulten necesarias previa convocatoria de su Presidente o por un tercio de los integrantes de la Comisión.
+La Comisión sesionará ordinariamente cuando menos dos veces al año, y extraordinariamente, las que resulten necesarias previa convocatoria de la persona Titular que ostente la Presidencia o por un tercio de los integrantes de la Comisión.
 
-El Secretario Técnico proveerá lo necesario a los integrantes de la Comisión para apoyar su participación en las reuniones del mismo.
+La persona Titular de la Secretaría Técnica proveerá lo necesario a los integrantes de la Comisión para apoyar su participación en las reuniones del mismo (sic).
 
 ###### ARTÍCULO 15.
 
@@ -269,9 +293,11 @@ VI. Formular propuestas para la elaboración del Reglamento de la Ley, y
 
 VII. Las demás que le señale la Ley y su reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 16.
 
-Corresponde a la Secretaría de Desarrollo Social del Gobierno del Estado:
+Corresponde a la Secretaría:
 
 I. Coordinar a las dependencias y entidades de la administración pública estatal para la realización de las actividades de fomento de las organizaciones de la sociedad civil;
 
@@ -381,7 +407,9 @@ Independientemente de las disposiciones legales que resulten aplicables en los c
 
 I. Realizar actividades que tengan por objeto un beneficio, utilidad o provecho en favor de integrantes de una organización de la sociedad civil o sus familiares hasta en cuarto grado civil, mediante la utilización de los apoyos y estímulos públicos que le hayan sido otorgados para el cumplimiento de los fines de la organización;
 
-II. Realizar actividades que tengan por objeto un beneficio, utilidad o provecho provenientes de apoyos o estímulos públicos que reciban, de manera conjunta, los miembros de una o varias organizaciones, y los servidores públicos responsables y que deriven de la existencia o actividad de la misma;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+II. Realizar actividades que tengan por objeto un beneficio, utilidad o provecho provenientes de apoyos o estímulos públicos que reciban, de manera conjunta, los miembros de una o varias organizaciones y las personas servidoras públicas responsables y que deriven de la existencia o actividad de la misma;
 
 III. Distribuir remanentes financieros o materiales provenientes de los apoyos o estímulos públicos entre sus integrantes;
 
@@ -474,5 +502,13 @@ P.O. 9 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 3 Y EL ARTÍCULO 7 DE LA LEY DE FOMENTO DE LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6, LA FRACCIÓN II DEL 8, LA FRACCIÓN I DEL 10, LAS FRACCIONES I A VI DEL 12, EL 14, EL PRIMER PÁRRAFO DEL 16 Y LA FRACCIÓN II DEL 26, Y ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 7, TODOS DE LA LEY DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
