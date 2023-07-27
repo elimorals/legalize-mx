@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transportes-para-el-estado-de-durango-25645"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-13"
-last_updated: "2022-03-31"
+last_updated: "2023-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 13 de junio de 2002.
 
@@ -161,19 +161,45 @@ XXVI.- Servicio suburbano: Aquel que se realiza en autobuses, partiendo del cent
 
 XXVII.- Servicio foráneo: Aquel que se proporciona en autobuses, entre centros de población ubicados dentro del territorio del Estado, en vehículos que pueden transportar equipaje, pasajeros y carga, sujeto a itinerario, tarifa, horarios y frecuencias de paso determinados en la concesión respectiva;
 
-XXVIII.- Servicio de transporte especializado: Aquel que se presta a grupos mayores de cinco personas que cuentan con un destino común específico, que puede estar relacionado con fines laborales, educativos, turísticos o aquellos que al efecto se autoricen. Dicho servicio podrá o no estar sujeto a itinerario, tarifa y horario determinado, debiendo observar las condiciones establecidas en la concesión correspondiente y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-XXIX.- Servicio de vehículos de alquiler: Aquel que se presta a personas, en vehículos cerrados, con tarifa autorizada, sin chofer, sin itinerario fijo, podrá tener o no torreta de acuerdo a lo que disponga la Dirección;
+XXVIII.- Servicio de transporte especializado: El que se presta con el objeto de satisfacer una necesidad específica de determinado sector de la población, que cuentan con un destino común específico y que puede estar relacionado con fines laborales, educativos, turísticos, ejecutivo privado o aquellos que al efecto se autoricen. Dicho servicio deberá observar las condiciones establecidas en la autorización correspondiente y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+XXIX.- Servicio de vehículos de alquiler: Aquel que se presta a personas, en vehículos cerrados, con tarifa autorizada, sin chofer, sin itinerario fijo, podrá tener o no torreta de acuerdo a lo que disponga la Subsecretaría;
 
 XXX.- Zona Conurbada: El área geográfica integrada por dos o mas centros de población, pertenecientes a diferentes municipios de una o más entidades federativas;
 
 XXXI.- Servicio público de transporte de carga en general: Aquel que se presta en vehículos cerrados o abiertos, destinados al transporte de productos agropecuarios, maquinaria, materiales para construcción, animales y todo tipo de mercancías y objetos. Este servicio no tendrá itinerario, ni horario determinado;
 
-XXXII. Servicio público de transporte de carga especializada: Aquel en el que se emplean vehículos que requieren aditamentos especiales, en atención a las precauciones que según el tipo de carga deben tomarse a juicio de la Dirección. Este servicio no tendrá itinerario ni horario determinado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-XXXIII. Autorización: Es el permiso que otorga el Estado, a las personas físicas y morales para prestar el servicio de transporte público de pasajeros en sus modalidades de especializado y de carga; y
+XXXII.- Servicio público de transporte de carga especializada: Aquel en el que se emplean vehículos que requieren aditamentos especiales, en atención a las precauciones que según el tipo de carga deben tomarse a juicio de la Subsecretaría; Este servicio no tendrá itinerario ni horario determinado;
 
-XXXIV. Servicio público de transporte mixto: Aquel que se presta en vehículos cerrados o abiertos, destinados al transporte de personas, equipaje y todo tipo de mercancías y objetos. Este servicio no tendrá itinerario, ni horario determinado.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+XXXIII.- Autorización: Es el permiso que otorga el Estado, a las personas físicas y morales para prestar el servicio de transporte público de pasajeros en sus modalidades de especializado y de carga;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+XXXIV.- Servicio público de transporte mixto: Aquel que se presta en vehículos cerrados o abiertos, destinados al transporte de personas, equipaje y todo tipo de mercancías y objetos. Este servicio no tendrá itinerario, ni horario determinado;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2023)</small>
+
+XXXV.- Subsecretaría: A la Subsecretaría de Movilidad y Transportes;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2023)</small>
+
+XXXVI.- Certificación de capacitación para el transporte público: Documento mediante el cual las personas que aspiran a contar con licencia de conductor de servicio público de transporte, acredita (sic) contar con los conocimientos requeridos para ello, expedido por la Subsecretaría;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2023)</small>
+
+XXXVII.- Aplicación: Programa informático para dispositivos móviles diseñado para verificar la información de los vehículos que prestan el servicio de transporte público de pasajeros, así como de los conductores, cuyo uso será potestad del usuario del servicio público de transporte de pasajeros; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2023)</small>
+
+XXXVIII.- Código QR: Combinación de barras y cuadros establecidos de manera obligatoria en la parte externa y visible de los vehículos que prestan el servicio público de transporte de pasajeros, para que pueda ser leído y descifrado mediante un lector óptico que transmite los datos a una aplicación descargada en un dispositivo móvil.
 
 ###### ARTÍCULO 4.
 
@@ -197,15 +223,19 @@ VII.- La protección, ampliación y promoción de vías y rutas para el desarrol
 
 En Coordinación con la Secretaría de Turismo del Estado, se diseñará, promoverá y aplicará en las distintas modalidades del transporte público, un mapa de ruta y accesibilidad o publicidad en general de lugares públicos de interés turístico.
 
-VIII.- La Observación de los criterios establecidos en la Ley Estatal de Equilibrio Ecológico y Protección al Ambiente para el Estado de Durango, así como en los reglamentos y demás disposiciones aplicables en materia ecológica;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+VIII.- La observación de los criterios establecidos en la Ley de Gestión Ambiental Sustentable para el Estado de Durango, así como en los reglamentos y demás disposiciones aplicables en materia ecológica;
 
 IX.- Procurará establecer los mecanismos que garanticen el acceso y uso con seguridad a la (sic) personas con discapacidad y adultos mayores; y
 
 X.- Las demás que le competan conforme a la legislación aplicable en la materia.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 5.
 
-Corresponde al Gobierno del Estado, el registro de todo tipo de vehículos de transporte público o particular y la expedición de las placas, tarjetas de circulación y calcomanías correspondientes, mediante el pago de los derechos establecidos en la Ley de Hacienda del Estado, previa la revisión y autorización del personal de la Dirección y enterados en las oficinas recaudadoras de la Secretaría de Finanzas y de Administración del Gobierno del Estado.
+Corresponde al Gobierno del Estado, el registro de todo tipo de vehículos de transporte público o particular y la expedición de las placas, tarjetas de circulación y calcomanías correspondientes, mediante el pago de los derechos establecidos en la Ley de Hacienda del Estado, previa la revisión y autorización del personal de la Subsecretaría y enterados en las oficinas recaudadoras de la Secretaría de Finanzas y de Administración del Gobierno del Estado.
 
 ###### ARTÍCULO 6.
 
@@ -215,9 +245,11 @@ Las placas y documentación a que se refiere el artículo anterior, son propieda
 
 El Estado y los municipios podrán convenir en el ámbito de su competencia, las decisiones que resulten más benéficas para el interés público en cuanto a la aplicación de esta Ley y su Reglamento, en sus respectivas jurisdicciones.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 8.
 
-Los vehículos de servicio público que circulan en el Estado de Durango y que se encuentran registrados en él, serán sometidos a la verificación a que se refiere el reglamento de la Ley Estatal de Equilibrio Ecológico y Protección al Ambiente para la prevención y control de la contaminación.
+Los vehículos de servicio público que circulan en el Estado de Durango y que se encuentran registrados en él, serán sometidos a la verificación a que se refiere la Ley de Gestión Ambiental Sustentable para el Estado de Durango.
 
 ###### ARTÍCULO 9.
 
@@ -243,15 +275,25 @@ I. El Gobernador del Estado;
 
 II. El Secretario General de Gobierno;
 
-III. El Director General de Transportes;
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2023)</small>
 
-IV. El jefe del Registro Público del Transporte;
+III. El Subsecretario de Movilidad y Transportes;
 
-V. Los Delegados Regionales del Transporte;
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2023)</small>
 
-VI. Los Inspectores del Transporte; y
+IV. El Director de Movilidad;
 
-VII. Las demás que con este carácter se prevean en las disposiciones aplicables en esta materia.
+V. El Director General de Transportes;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+VI. El Jefe del Registro Público del Transporte;
+
+VII. Los Delegados Regionales del Transporte;
+
+VIII. Los Inspectores del Transporte; y
+
+IX. Las demás que con este carácter se prevean en las disposiciones aplicables en esta materia.
 
 ###### ARTÍCULO 12.
 
@@ -283,9 +325,13 @@ V. Otorgar las concesiones y permisos relativos al servicio de transporte públi
 
 VI. Autorizar las tarifas aplicables al servicio de transporte público en todas sus modalidades;
 
-VII. Nombrar al Director General de Transporte Público;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-VIII. Delegar facultades en el Secretario General de Gobierno; y
+VII. Nombrar al Subsecretario de Movilidad y Transportes;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+VIII. Delegar facultades al Secretario General de Gobierno y al Subsecretario de Movilidad y Transportes; y
 
 IX.- Las demás que le atribuyan en la presente Ley, su Reglamento y otras disposiciones de carácter general en materia de transporte público.
 
@@ -299,23 +345,31 @@ El Secretario General de Gobierno tendrá las siguientes atribuciones:
 
 I. Cumplir y hacer cumplir la presente Ley y su Reglamento;
 
-II. Dictar y ordenar al Director General de Transportes las acciones y medidas para el funcionamiento y mejoramiento del transporte público;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+II. Dictar y ordenar al Subsecretario de Movilidad y Transportes las acciones y medidas para el funcionamiento y mejoramiento del transporte público;
 
 III. Someter al Ejecutivo del Estado para su aprobación el Programa;
 
 IV. Elaborar y formular los convenios necesarios con la Federación, con las Entidades Federativas y los Ayuntamientos, a fin de someterlos para su aprobación al Ejecutivo del Estado;
 
-V. Presentar para su aprobación al Ejecutivo del Estado, las solicitudes para las concesiones y permisos relativos al Servicio de Transporte Público de conformidad con la presente Ley y su Reglamento, previo análisis que realice de tales solicitudes, para formular su correspondiente opinión, emitiendo al efecto proyecto de resolución que contenga las opiniones tanto de la Dirección como de la Secretaría;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+V. Presentar para su aprobación al Ejecutivo del Estado, las solicitudes para las concesiones y permisos relativos al Servicio de Transporte Público de conformidad con la presente Ley y su Reglamento, previo análisis que realice de tales solicitudes, para formular su correspondiente opinión, emitiendo al efecto proyecto de resolución que contenga las opiniones tanto de la Subsecretaría como de la Secretaría;
 
 VI. Presentar al Ejecutivo del Estado para su autorización las tarifas aplicables al Servicio de Transporte Público en todas sus modalidades;
 
-VII. Conocer y resolver las solicitudes de los concesionarios y permisionarios relativas a la modificación de horarios e itinerarios con base en la opinión que para tal fin haya emitido la Dirección;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+VII. Conocer y resolver las solicitudes de los concesionarios y permisionarios relativas a la modificación de horarios e itinerarios con base en la opinión que para tal fin haya emitido la Subsecretaría;
 
 VIII. Resolver en forma definitiva sobre sanciones e infracciones previstas en la presente Ley;
 
 IX. Aquellas que le delegue el Ejecutivo del Estado;
 
-X. Expedir y publicar la Declaratoria de Necesidades para el otorgamiento de concesiones para la explotación del servicio público de transporte, en base a la información que al respecto le proporcione la Dirección;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+X. Expedir y publicar la Declaratoria de Necesidades para el otorgamiento de concesiones para la explotación del servicio público de transporte, en base a la información que al respecto le proporcione la Subsecretaría;
 
 XI. Emitir normas técnicas para la instalación de publicidad en los medios de transporte público, así como su autorización;
 
@@ -325,69 +379,107 @@ XIII.- Operar y administrar el Registro, por conducto del Jefe del mismo; y
 
 XIV.- Las demás que le atribuyan en la presente Ley, su Reglamento y otras disposiciones de carácter general en materia de Servicio de Transporte Público.
 
-### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE TRANSPORTE Y SUS ATRIBUCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2023)</small>
+
+### CAPÍTULO IV. DE LA SUBSECRETARÍA DE MOVILIDAD Y TRANSPORTES
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 15.
 
-La Dirección depende de la Secretaría, y tiene a su cargo las siguientes facultades:
+La Subsecretaría, dependerá jerárquicamente de la Secretaría, y será la encargada de la política de movilidad sustentable, con una perspectiva de progresividad, y de actualización al marco normativo en materia de movilidad y transportes, cuidando en todo momento que la regulación y las acciones de Gobierno sean en beneficio de los duranguenses.
 
-I. Vigilar la exacta observancia de la presente Ley, su Reglamento y demás disposiciones de carácter general aplicables;
+Son atribuciones de la persona titular de la Subsecretaría de Movilidad y Transportes:
 
-II. Ejercer las acciones previstas en esta Ley en el ámbito de su competencia, derivadas de los convenios que se suscriban con las autoridades federales y municipales;
+I. Vigilar el adecuado funcionamiento de los mecanismos establecidos para fomentar los vínculos Institucionales a nivel federal y municipal, para contribuir a garantizar el derecho a la movilidad eficiente y sustentable;
 
-III. Cumplir con el Programa;
+II. Vigilar el adecuado funcionamiento de las Direcciones de Movilidad y de Transportes;
 
-IV. Planear, coordinar, supervisar y controlar los servicios de transporte público en la entidad;
+III. Administrar y vigilar el servicio de transporte público de bienes y cosas, concesionado a particulares en carreteras y caminos de jurisdicción estatal;
 
-V. Proponer a la Secretaría los términos de los convenios y contratos que fueren necesarios para el cumplimiento del objeto de la presente Ley, con autoridades federales, estatales y municipales, personas físicas o morales, públicas o privadas;
+IV. Otorgar, modificar y revocar las concesiones y permisos necesarios para la explotación de servicio público de transporte, en vialidades de jurisdicción estatal, en todas las modalidades que contempla la Ley de Transporte del Estado;
 
-VI. Integrar los expedientes relativos a las solicitudes de concesiones y permisos para la explotación del transporte público y realizar estudios socio-económicos y técnicos, y emitir opinión fundada de procedencia o improcedencia, remitiéndola a la Secretaría;
+V. Formular y conducir la política y programas para el desarrollo de la movilidad y transporte, de acuerdo a las necesidades de la Entidad;
 
-VII. Vigilar que los itinerarios, horarios y tarifas autorizadas se cumplan estrictamente;
+VI. Planear, coordinar, supervisar y controlar los servicios de transporte público en la entidad;
 
-VIII. Inspeccionar periódicamente el adecuado funcionamiento de los medios de transporte público;
+VII. Apoyar al Secretario en las tareas de planeación y programación de movilidad y transporte en el Estado;
 
-IX. Evitar la prestación del servicio de transporte público, en cualesquiera de sus modalidades en vehículos que carezcan de la concesión o permiso correspondiente;
+VIII. Proponer la adecuación de un marco normativo en materia de movilidad sustentable;
 
-X. Implementar programas de educación vial que induzcan a los conductores del transporte público una conducta ordenada, responsable y precavida;
+IX. Informar periódicamente, al Gobernador del Estado y al Secretario, sobre la situación que guarda el transporte público en el Estado de Durango;
 
-XI. Promover, organizar e impartir capacitación profesional y técnica, con personal propio a través de Convenios con instituciones educativas o especializadas, en forma concurrente con los permisionarios;
+X. Coordinar y operar el programa de certificación de capacitación para el transporte público;
 
-XII. Fomentar la investigación científica y el desarrollo tecnológico para aplicar sus avances en la prestación del servicio;
+XI. Integrar los expedientes relativos a las solicitudes de concesiones y permisos para la explotación del transporte público y realizar estudios socio-económicos y técnicos, con la finalidad de emitir opinión fundada de procedencia o improcedencia, y remitirla a la Secretaría;
 
-XIII. Imponer y calificar las sanciones correspondientes por violación a la presente Ley;
+XII. Dar a conocer al Secretario, las necesidades que en materia de concesiones, permisos y autorizaciones se presenten anualmente en el Estado;
 
-XIV. Nombrar, suspender y remover al personal directivo, operativo y administrativo de la Dirección;
+XIII. Cumplir con el Programa;
 
-XV. Vigilar que la instalación de publicidad en los medios de transporte público, se ajuste a las normas técnicas y autorizaciones que dicte la Secretaría para estos efectos;
+XIV. Coordinar el uso de la aplicación QR para el servicio de transporte público de pasajeros que establece la presente Ley;
 
-XVI. Delegar facultades a los Delegados Regionales;
+XV. Expedir las autorizaciones a que se refiere la presente Ley;
 
-XVII. Expedir las autorizaciones a que se refiere la presente Ley;
+XVI. Llevar el registro de indicadores y estadísticas en materia de transportes;
 
-XVIII. Llevar el registro de indicadores y estadísticas en materia de transporte;
+XVII. Promover y coadyuvar en la formación de comisiones de seguridad y educación vial relativas al transporte público;
 
-XIX. Nombrar, suspender y remover al personal directivo, operativo y administrativo de la Delegación Regional en acuerdo con la Dirección; y
+XVIII. Proponer a la Secretaría los términos de los convenios y contratos que fueren necesarios para el cumplimiento del objeto de la presente Ley, con autoridades federales, estatales y municipales, personas físicas o morales, públicas o privadas;
 
-XX. Las demás que se le atribuyan en la presente Ley, el Reglamento y otras disposiciones de carácter general en materia de transporte público.
+XIX. Ejercer las acciones previstas en esta Ley en el ámbito de su competencia, derivadas de los convenios que se suscriban con las autoridades federales y municipales;
+
+XX. Vigilar que los itinerarios, horarios y tarifas autorizadas se cumplan estrictamente;
+
+XXI. Inspeccionar periódicamente el adecuado funcionamiento de los medios de transporte público;
+
+XXII. Evitar la prestación del servicio de transporte público, en cualesquiera de sus modalidades en vehículos que carezcan de la concesión o permiso correspondiente;
+
+XXIII. Implementar programas de educación vial que induzcan a los conductores del transporte público una conducta ordenada, responsable y precavida;
+
+XXIV. Promover, organizar e impartir capacitación profesional y técnica, con personal propio a través de convenios con instituciones educativas o especializadas, en forma concurrente con los permisionarios;
+
+XXV. Fomentar la investigación científica y el desarrollo tecnológico para aplicar sus avances en la prestación del servicio;
+
+XXVI. Imponer las sanciones que correspondan por infracciones a la presente ley, así como en su caso realizar la calificación procedente;
+
+XXVII. Vigilar que la instalación de publicidad en los medios de transporte público, se ajuste a las normas técnicas y autorizaciones que dicte la Secretaría para estos efectos;
+
+XXVIII. Nombrar previo acuerdo, a los delegados regionales, al personal directivo, operativo y administrativo de la Subsecretaría;
+
+XXIX. Suspender y remover a los delegados regionales, al personal directivo, operativo y administrativo de la Subsecretaría;
+
+XXX. Delegar facultades a los delegados regionales, al personal directivo, operativo y administrativo de la Subsecretaría que resultan necesarias para el ejercicio de sus funciones;
+
+XXXI. Vigilar el adecuado funcionamiento de las Direcciones de Movilidad y de Transportes; buscando que los servidores públicos subalternos desempeñen sus funciones con apego a las políticas de transparencia, eficacia y eficiencia; y
+
+XXXII. Vigilar la exacta observancia de la presente Ley, su Reglamento y demás disposiciones de carácter general en materia de movilidad y transporte público aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 16.
 
-La Dirección limitará y en su caso, suspenderá la circulación de vehículos del servicio público cuando así lo determine la autoridad competente de conformidad con el Reglamento de la Ley Estatal de equilibrio Ecológico y Protección al Ambiente para la prevención y control de la contaminación.
+La Subsecretaría limitará y en su caso, suspenderá la circulación de vehículos del servicio público cuando así lo determine la autoridad competente de conformidad (sic) la Ley de Gestión Ambiental Sustentable para el Estado de Durango.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 17.
 
-La Dirección para el ejercicio de sus atribuciones, podrá auxiliarse de las dependencias y entidades de la administración pública federal, estatal y municipal; así mismo podrá convenir para tal efecto con los sectores social y privado.
+La Subsecretaría para el ejercicio de sus atribuciones, podrá auxiliarse de las dependencias y entidades de la administración pública federal, estatal y municipal; así mismo podrá convenir para tal efecto con los sectores social y privado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 18.
 
-La Dirección tendrá el personal directivo, operativo y administrativo que se considere necesario para su eficiente desempeño, de acuerdo al Presupuesto de Egresos del Estado.
+La Subsecretaría tendrá el personal directivo, operativo y administrativo que se considere necesario para su eficiente desempeño, de acuerdo al Presupuesto de Egresos del Estado.
 
 Tendrá, asimismo, las Delegaciones Regionales que se requieran de acuerdo a las necesidades de atención, a la prestación del servicio público de transporte, con sede en los principales centros urbanos del Estado, o donde lo considere necesario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 19.
 
-La Dirección contará con un Centro de Capacitación del Transporte con la finalidad de proporcionar en forma continua:
+La Subsecretaría contará con un Centro de Capacitación del Transporte con la finalidad de proporcionar en forma continua:
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
@@ -425,17 +517,21 @@ IX.- Las demás que se le atribuyan en la presente Ley, el Reglamento y otras di
 
 ### CAPÍTULO VI. DE LOS INSPECTORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 22.
 
-La Dirección contará con un cuerpo de inspectores que tendrá a su cargo la vigilancia, supervisión e inspección de la exacta observancia de las disposiciones de la presente Ley y su Reglamento.
+La Subsecretaría contará con un cuerpo de inspectores que tendrá a su cargo la vigilancia, supervisión e inspección de la exacta observancia de las disposiciones de la presente Ley y su Reglamento.
 
 Para el adecuado cumplimiento de sus atribuciones, los inspectores podrán auxiliarse de los cuerpos de seguridad o tránsito, según corresponda, estatales o municipales.
 
 El cuerpo de inspectores se integrará con el personal que, para tal efecto, autorice el Presupuesto de Egresos del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 23.
 
-Los Inspectores de la Dirección tendrán las atribuciones siguientes:
+Los Inspectores de la Subsecretaría tendrán las atribuciones siguientes:
 
 I. Vigilar el exacto cumplimiento de las disposiciones de la presente Ley, su Reglamento y demás disposiciones aplicables;
 
@@ -525,7 +621,9 @@ III. Resolver las dudas que los interesados le formulen;
 
 IV. Autorizar con su firma y sello las inscripciones que se efectúen y asentar las notas que correspondan al calce de los títulos presentados;
 
-V. Rendir bimestralmente un informe de sus actividades a la Dirección, en el cual detallará el número de actos registrados en cada sección;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+V. Rendir bimestralmente un informe de sus actividades a la Subsecretaría, en el cual detallará el número de actos registrados en cada sección;
 
 VI. Mantener bajo su custodia los libros y demás documentos y anexos que conforman el registro;
 
@@ -573,7 +671,9 @@ El Consejo estará integrado por:
 
 I. Un Presidente, que será el Secretario General de Gobierno;
 
-II. Un Secretario Técnico que será el Director General de Transportes del Estado; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+II. Un Secretario Técnico que será el Subsecretario de Movilidad y Transportes del Estado; y
 
 III. Por los Vocales representantes de los concesionarios y permisionarios y de los tres niveles de Gobierno, según se establezcan en el Reglamento de esta Ley.
 
@@ -671,9 +771,11 @@ VIII. En general llevar a cabo las actividades que le encomiende el Presidente d
 
 El servicio público de transporte se ajustará al Programa, procurando que se proporcione en forma continua, uniforme, regular y permanente, a fin de satisfacer la demanda de los usuarios. La autoridad debe procurar un óptimo funcionamiento del transporte público, adecuando las tarifas, horarios, frecuencias de paso e infraestructura, de tal manera que su aplicación resulte eficiente y que atienda primordialmente las necesidades de las zonas que carecen de medios de transporte o que se encuentran mal comunicadas.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 45.
 
-La Dirección, promoverá el otorgamiento de estímulos e incentivos a los transportistas y a los conductores que sobresalgan en la prestación del servicio público de transporte con altos índices de calidad y eficiencia, en los términos del Reglamento de la presente Ley.
+La Subsecretaría, promoverá el otorgamiento de estímulos e incentivos a los transportistas y a los conductores que sobresalgan en la prestación del servicio público de transporte con altos índices de calidad y eficiencia, en los términos del Reglamento de la presente Ley.
 
 ###### ARTÍCULO 46.
 
@@ -709,9 +811,9 @@ XII. Impulsar la capacitación profesional y técnica en forma continua a sus tr
 
 XIII. Contar con terminales para la salida y llegada de autobuses, así como lugares para el estacionamiento y mantenimiento fuera de la vía pública;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-XIV. Otorgar a los estudiantes de cualquier grado, así como a los adultos mayores y a las personas con discapacidad, que se identifiquen con la credencial única de transporte, que para tal efecto expida gratuitamente la Dirección de Transportes del Estado de Durango, un descuento del 50% sobre el importe de la tarifa autorizada para los vehículos destinados exclusivamente al transporte colectivo de personas, en las zonas urbanas y suburbanas;
+XIV. Otorgar a los estudiantes de cualquier grado, así como a los adultos mayores y a las personas con discapacidad, que se identifiquen con la credencial única de transporte, que para tal efecto expida gratuitamente la Subsecretaría, un descuento del 50% sobre el importe de la tarifa autorizada para los vehículos destinados exclusivamente al transporte colectivo de personas, en las zonas urbanas y suburbanas;
 
 > <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
 
@@ -721,9 +823,11 @@ XV. Proporcionar a la autoridad los informes y documentos técnicos o estadísti
 
 XVI. Las demás obligaciones que determine la presente Ley, su Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 47.
 
-Cuando se presente una situación de contingencia ambiental o de emergencia ecológica en las ciudades que estén dentro del Sistema Estatal de Monitoreo de la Calidad del Aire, la autoridad competente aplicará las medidas previstas en el Reglamento de la Ley Estatal de Equilibrio Ecológico y Protección al Ambiente para la prevención y control de la contaminación generada por los vehículos automotores el (sic) servicio público local que circulan en el Estado.
+Cuando se presente una situación de contingencia ambiental o de emergencia ecológica en las ciudades que estén dentro del Sistema Estatal de Monitoreo de la Calidad del Aire, la autoridad competente aplicará las medidas previstas en la Ley de Gestión Ambiental Sustentable para el Estado de Durango para la prevención y control de la contaminación generada por los vehículos automotores el servicio público local que circulan en el Estado.
 
 ###### ARTÍCULO 48.
 
@@ -737,7 +841,9 @@ b) Suburbano;
 
 c) Foráneo de primera y segunda clase;
 
-d) Especializado de personal, escolar y turístico;
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
+d) Especializado;
 
 e) Vehículos de alquiler en modalidad de sitio o libre;
 
@@ -769,13 +875,17 @@ c) Carga.
 
 El Ejecutivo del Estado podrá crear además de los clasificados con anterioridad, nuevas modalidades que requiera la población de acuerdo al desarrollo y evolución del transporte público.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 50.
 
-Los concesionarios del transporte de pasajeros, de carga y mixto, podrán celebrar entre sí o con terceros, los convenios de enlace, fusión, combinación de equipos y demás que resulten necesarios o procedentes para la adecuada prestación de los servicios. Dichos convenios, para su validez, deberán ser sometidos, previa su celebración, a la aprobación de la Dirección; conforme a la presente Ley, su Reglamento y demás disposiciones aplicables.
+Los concesionarios del transporte de pasajeros, de carga y mixto, podrán celebrar entre sí o con terceros, los convenios de enlace, fusión, combinación de equipos y demás que resulten necesarios o procedentes para la adecuada prestación de los servicios. Dichos convenios, para su validez, deberán ser sometidos, previa su celebración, a la aprobación de la Subsecretaría; conforme a la presente Ley, su Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 51.
 
-En el supuesto a que se refiere el artículo que antecede, así como para los efectos de cualquier autorización que suponga la posibilidad de que llegue a afectarse el interés de un concesionario, éste podrá acudir a la Secretaría, la cual oirá a los posibles afectados antes de emitir la resolución que corresponda, tomando en consideración la opinión que emita la Dirección.
+En el supuesto a que se refiere el artículo que antecede, así como para los efectos de cualquier autorización que suponga la posibilidad de que llegue a afectarse el interés de un concesionario, éste podrá acudir a la Secretaría, la cual oirá a los posibles afectados antes de emitir la resolución que corresponda, tomando en consideración la opinión que emita la Subsecretaría.
 
 ###### ARTÍCULO 52.
 
@@ -797,6 +907,18 @@ IV. Servicio de transporte especializado; y
 
 V. Servicio de vehículos de alquiler.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 53 BIS.- Son modalidades del servicio de transporte especializado, las siguientes:
+
+I. De personal: Es el destinado al traslado de personas de sus domicilios a sus centros de trabajo y viceversa dentro de los límites del territorio estatal, o cuando su destino de transportación se relacione con fines laborales; se presta o es contratado por corporaciones, industrias, comercios, instituciones, asociaciones o grupos de particulares, para el traslado regular de sus trabajadores, agremiados, asociados o integrantes;
+
+II. Escolar: Es el destinado al traslado de personas de sus domicilios a sus centros de estudio y viceversa dentro de los límites del territorio estatal; se presta o es contratado por instituciones educativas, asociaciones de padres de familia o particulares, para el transporte de estudiantes, investigadores o comunidades académicas;
+
+III. Turístico: Es el destinado al traslado de personas exclusivamente hacia aquellos lugares situados dentro de los límites de territorio estatal, que revisten un interés de carácter turístico, histórico, arqueológico, cultural, arquitectónico o recreativo, entre otros; y
+
+IV. Ejecutivo Privado: Es aquel que se basa en el desarrollo de tecnologías inteligentes, sistemas de posicionamiento global y plataformas tecnológicas independientes que permiten conectar usuarios que demandan un servicio de transporte privado, de punto a punto, con conductores privados que ofrecen dicho servicio en vehículos particulares.
+
 ###### ARTÍCULO 54.
 
 El servicio público de transporte de pasajeros, únicamente podrá prestarse en autobuses y vehículos que cumplan con las especificaciones y modelos de fabricación que se determinen en el Reglamento para los diversos servicios, respetando los siguientes máximos:
@@ -813,13 +935,27 @@ V. De Alquiler: Cinco años.
 
 Se constituirá el Comité para la Modernización del Transporte, con el propósito de gestionar ante Instituciones u Organismos Públicos o Privados, los apoyos para los programas de modernización del parque vehicular destinado al servicio público de transporte. Este Comité se integrará y funcionará conforme lo disponga el Reglamento de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+Independientemente de la antigüedad de los autobuses y vehículos, el Comité deberá privilegiar a aquellos que se encuentren en las mejores condiciones mecánicas y estéticas.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 55.
 
-Cumplido el tiempo máximo a que se hace referencia en el artículo anterior, los autobuses y vehículos serán sometidos a las verificaciones y revisiones que establece la presente Ley y su Reglamento, si de las mismas resulta que se encuentran en condiciones que garantizan calidad y eficiencia, la Dirección les podrá autorizar para seguir operando hasta por dos años más.
+Cumplido el tiempo máximo a que se hace referencia en el artículo anterior, los autobuses y vehículos serán sometidos a las verificaciones y revisiones que establece la presente Ley y su Reglamento, si de las mismas resulta que se encuentran en condiciones que garantizan calidad y eficiencia, la Subsecretaría les podrá autorizar para seguir operando hasta por dos años más.
 
 ###### ARTÍCULO 56.
 
 Los prestadores del servicio público de transporte de pasajeros, están obligados a colocar en un lugar visible en las unidades que prestan dichos servicios, la información relativa al servicio que se establezca en el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+Además, deberán de situar en un lugar visible el código QR, que permita al usuario antes de abordar el vehículo, corroborar a través del uso de la aplicación que para tal efecto diseñe el Gobierno del Estado por conducto de la Subsecretaría, la información de quien presta el servicio, así como del vehículo que se encuentra autorizado por la misma.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+Aunado a lo anterior, tendrán la obligación de gestionar ante la Subsecretaría en los términos que para tal efecto establezca, el nombre de usuario y contraseña para mantener actualizada la información a verificar mediante el código QR.
 
 ### CAPÍTULO III. DEL SERVICIO PUBLICO DE TRANSPORTE DE CARGA
 
@@ -863,7 +999,9 @@ Podrán viajar sin costo alguno en vehículos destinados al servicio urbano y su
 
 I. Los niños menores de 5 años, acompañados de una persona adulta;
 
-II. El personal autorizado por la Dirección, en actividades de vigilancia;
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2023)</small>
+
+II. El personal autorizado por la Subsecretaría, en actividades de vigilancia;
 
 III. Hasta dos personas por unidad que sean: carteros, mensajeros de telégrafos, agentes de policía ministerial, todos ellos en funciones; y
 
@@ -879,17 +1017,23 @@ La autoridad deberá fijar tarifas especiales para el servicio público de trans
 
 ### CAPÍTULO VI. DE LOS CONDUCTORES DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE LAS LICENCIAS
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 64.
 
-Es obligación de los conductores del servicio público de transporte, obtener y traer consigo la licencia de conducir que los faculte para prestar este servicio, misma que será autorizada, expedida y renovada por el Gobierno del Estado de Durango a través de la Dirección.
+Es obligación de los conductores del servicio público de transporte, obtener la certificación de capacitación para el transporte público y traer consigo la licencia de conducir que los faculte para prestar este servicio, misma que será autorizada, expedida y renovada por el Gobierno del Estado de Durango a través de la Subsecretaría.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 65.
 
-Para conducir en forma ordinaria vehículos de transporte público en el Estado de Durango, se requiere licencia expedida en los términos señalados en el artículo anterior.
+Para conducir en forma ordinaria vehículos de transporte público en el Estado de Durango, se requiere la certificación de capacitación para el transporte público y la licencia expedida en los términos señalados en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 66.
 
-Las licencias para conductor del servicio público de transporte tendrán una vigencia de cuatro años, contados a partir de su fecha de expedición, y se deberá refrendar anualmente, requiriéndose para tal efecto acreditar los exámenes a que se refiere la fracción VII, VIII y IX del artículo 67 de esta Ley.
+Las licencias para conductor del servicio público de transporte tendrán una vigencia de cuatro años, contados a partir de su fecha de expedición, y se deberá refrendar anualmente, requiriéndose para tal efecto acreditar los exámenes a que se refiere el artículo 67 de esta Ley.
 
 ###### ARTÍCULO 67.
 
@@ -905,19 +1049,27 @@ IV.- Saber leer y escribir;
 
 V.- Presentar comprobante del domicilio actual;
 
-VI.- Acreditar fehacientemente, mediante constancias expedidas por el Tribunal Superior de Justicia del Estado de Durango y por el Centro de Rehabilitación Social, que no ha sido condenado por sentencia ejecutoriada por delitos contra la salud, robo, asalto, homicidio y lesiones provocadas por el transito de vehículos, o bien por cualquier otro delito que implique una conducta incompatible con la seguridad de los pasajeros;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+VI.- Acreditar fehacientemente, mediante constancias expedidas por el Tribunal Superior de Justicia del Estado de Durango y por el Centro de Reinserción Social, que no ha sido condenado por sentencia ejecutoriada por delitos contra la salud, robo, asalto, homicidio y lesiones provocadas por el tránsito de vehículos, o bien por cualquier otro delito que implique una conducta incompatible con la seguridad de los pasajeros;
 
 VII.- Someterse a los siguientes exámenes:
 
-a).- Examen toxicológico practicado por el personal especializado que determine la Dirección, a fin de establecer que el conductor no tiene ninguna clase de adicción;
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
 
-b).- Examen psicológico realizado por el personal especializado que determine la Dirección, con el objeto de que se verifique que el conductor se encuentra en aptitud mental óptima para conducir vehículos de transporte público; y
+a).- Examen toxicológico practicado por el personal especializado que determine la Subsecretaría, a fin de establecer que el conductor no tiene ninguna clase de adicción;
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
+b).- Examen psicológico realizado por el personal especializado que determine la Subsecretaría, con el objeto de que se verifique que el conductor se encuentra en aptitud mental óptima para conducir vehículos de transporte público; y
 
 c).- Examen médico, en el que se determine que tiene aptitud física para conducir vehículos de transporte público.
 
 El costo de los precitados exámenes serán cubiertos por los solicitantes de licencia de servicio público de transporte;
 
-VIII.- Aprobar examen práctico de conducción;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+VIII.- Contar con la certificación de capacitación para el transporte público expedido por la Subsecretaría, la cual deberá de ser refrendada de manera semestral.
 
 IX.- Aprobar examen teórico sobre el conocimiento de la Ley de Transportes del Estado de Durango y la Ley de Tránsito para los Municipios del Estado de Durango;
 
@@ -933,7 +1085,9 @@ I. Mantenerse en buenas aptitudes físicas para operar las unidades;
 
 II. Someterse a los exámenes señalados en el artículo 67 fracciones VII y IX, en cualquier momento que así lo dispongan las autoridades del transporte;
 
-III. Haber cumplido con la capacitación que determine la Dirección; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+III. Contar con el certificado de capacitación que emite la Subsecretaría; y
 
 IV. Cumplir con todos los requisitos y obligaciones que se establezcan en la presente Ley y su Reglamento.
 
@@ -959,7 +1113,9 @@ III. Cuando el conductor haya causado algún daño de manera dolosa;
 
 IV. Por permitir que se conduzca un vehículo de transporte público, por persona que carezca de licencia para esta clase de servicio; y
 
-V. Por cualquier otra causa análoga a juicio de la Dirección.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+V. Por cualquier otra causa análoga a juicio de la Subsecretaría.
 
 ###### ARTÍCULO 71.
 
@@ -1015,9 +1171,11 @@ Cuando dos o más personas pretendan obtener una concesión colectiva deberán e
 
 Los concesionarios propondrán el número de permisos que se requieran para la explotación eficiente y suficiente de una ruta o zona, manifestándolo en la solicitud de concesión.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 80.
 
-Los concesionarios que pretendan reducir o incrementar el número de vehículos en una ruta o zona ya concesionada, deberán comunicarlo por escrito a la Dirección General expresando las razones que los asisten.
+Los concesionarios que pretendan reducir o incrementar el número de vehículos en una ruta o zona ya concesionada, deberán comunicarlo por escrito a la Subsecretaría expresando las razones que los asisten.
 
 ###### ARTÍCULO 81.
 
@@ -1051,9 +1209,11 @@ Otorgada la concesión o permiso de ruta, se fijará al interesado un término d
 
 Ninguna concesión o permiso se otorgará si con ello se causa perjuicio al interés público o establece una competencia desleal en detrimento de los concesionarios o permisionarios.
 
-###### ARTICULO 89.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
 
-Se considera que existe competencia desleal cuando se empalmen uno o varios tramos de itinerarios con el mismo sentido de circulación, siempre que de acuerdo con los estudios técnicos realizados se haya llegado a la conclusión de que la densidad demográfica usuaria encuentra satisfechas sus exigencias con el servicio prestado por la o las rutas establecidas previamente, en la inteligencia de que la Secretaría a través de la Dirección podrá modificar los itinerarios correspondientes a fin de mejorar el servicio y el desarrollo de nuevas rutas.
+###### ARTÍCULO 89.
+
+Se considera que existe competencia desleal cuando se empalmen uno o varios tramos de itinerarios con el mismo sentido de circulación, siempre que de acuerdo con los estudios técnicos realizados se haya llegado a la conclusión de que la densidad demográfica usuaria encuentra satisfechas sus exigencias con el servicio prestado por la o las rutas establecidas previamente, en la inteligencia de que la Secretaría a través de la Subsecretaría podrá modificar los itinerarios correspondientes a fin de mejorar el servicio y el desarrollo de nuevas rutas.
 
 ###### ARTÍCULO 90.
 
@@ -1071,17 +1231,117 @@ Toda persona física o moral que haya sido titular de una concesión o permiso e
 
 El costo de los trámites, publicaciones y estudios realizados, en virtud de una solicitud, serán cubiertos por los interesados conforme a lo previsto por la Ley de Hacienda del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 94.
 
-En la segunda quincena de marzo de cada año, la Secretaría, con base en la información que le proporcione la Dirección publicará la declaratoria de necesidades de transporte en rutas o zonas del Estado, para que los interesados acudan formulando la solicitud correspondiente en los términos que establezca esta Ley y su Reglamento.
+En la segunda quincena de marzo de cada año, la Secretaría, con base en la información que le proporcione la Subsecretaría publicará la declaratoria de necesidades de transporte en rutas o zonas del Estado, para que los interesados acudan formulando la solicitud correspondiente en los términos que establezca esta Ley y su Reglamento.
 
-La Dirección llevará un registro de las necesidades que por sí o por cualquier otro medio se detecten, información que hará saber a la Secretaría en los primeros días de marzo de cada año.
+La Subsecretaría llevará un registro de las necesidades que por sí o por cualquier otro medio se detecten, información que hará saber a la Secretaría en los primeros días de marzo de cada año.
 
-### CAPÍTULO II. DE LAS AUTORIZACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2023)</small>
+
+### CAPÍTULO II. DEL SERVICIO DE TRANSPORTE ESPECIALIZADO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 95.
 
-Se requiere autorización que otorgará el Estado a través de la Dirección para prestar el servicio de transporte público de pasajeros en su modalidad de especializado de personal, escolar y turístico, así como el servicio público de carga en todas sus modalidades.
+Los permisionarios del servicio de transporte especializado tienen los mismos derechos y obligaciones que los concesionarios del servicio público de transporte en lo que corresponda, y su prestación estará sujeta a lo dispuesto en las normas reglamentarias que de esta Ley se deriven, así como de las condiciones que para tal efecto emita la Subsecretaría.
+
+Los requisitos para la obtención de la autorización para prestar el servicio de transporte especializado, serán determinados por la Subsecretaría de manera anual, conforme a lo dispuesto en las normas reglamentarias que de esta Ley se deriven, así como las demás que emita la Subsecretaría.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTÍCULO 95], P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 95 BIS.- Se requiere autorización que otorgará el Estado a través de la Subsecretaría para prestar el servicio de transporte público especializado en su modalidad de personal, escolar, turístico y ejecutivo privado, así como el servicio público de carga en todas sus modalidades.
+
+Los vehículos con los que se pretenda prestar el servicio de transporte especializado deberán cumplir con los lineamientos y características técnicas y de operación que para cada modalidad determine la Subsecretaría a través de la normatividad correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 95 TER.- A efecto de optimizar los vehículos destinados para la prestación del transporte escolar y de personal; éstos podrán utilizarse para cubrir ambas modalidades, pero con autorización individual para cada servicio.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 95 QUATER.- El servicio de transporte especializado en su modalidad de transporte escolar; según sea el caso para su prestación requerirá la presencia de un acompañante mayor de edad que asista a los pasajeros y supervise que su ascenso y descenso del vehículo de transporte se realice en condiciones de seguridad.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 95 QUINQUIES.- Las instituciones educativas, las personas físicas o morales cuyo objeto social sea preponderantemente la prestación del servicio de transporte escolar a estudiantes, se les podrá otorgar la autorización correspondiente, siempre y cuando medie solicitud previa. La autorización se regulará por los reglamentos, acuerdos, circulares, manuales de especificaciones técnicas y condiciones de operación que determine la Subsecretaría.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 95 SEXSIES (SIC).- Los conductores y acompañantes en el servicio especializado en su modalidad de transporte escolar, deberán cursar y acreditar una capacitación en primeros auxilios, manejo defensivo y prevención y combate de incendios.
+
+La Subsecretaría supervisará que el conductor y el acompañante cuenten con la constancia de capacitación vigente, emitida por la misma previamente autorizada por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 95 SEPTIES.- La Subsecretaría podrá establecer especificaciones técnicas para los vehículos de transporte escolar que permitan mejorar las condiciones de seguridad de sus usuarios, así como establecer las características para su identificación y control.
+
+Se prohíbe modificar vehículos respecto a sus características originales de fábrica con la intención de dar mayor capacidad de pasajeros, así como el cambio de ubicación o distribución de asientos. Los usuarios de este servicio no podrán ir de pie y cada uno dispondrá de su propio asiento.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 95 OCTIES.- La Subsecretaría podrá establecer itinerarios para el transporte escolar con la finalidad de optimizar los tiempos de traslado de sus usuarios, fijando además puntos de paradas para su ascenso y descenso, sin que de ninguna manera pueda prestar el servicio de manera regular a persona distinta que los usuarios estudiantes.
+
+El recorrido de una ruta de transporte escolar no podrá ser mayor a sesenta minutos.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 95 NONIES.- El servicio de transporte especializado en su modalidad de personal podrá ser prestado por las personas físicas o morales que obtengan una autorización para tal efecto, el cual se regulará por los reglamentos, acuerdos, circulares, manuales de especificaciones técnicas y a las condiciones de operación que determine la Subsecretaría.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 95 DECIES.- Los patrones que ofrezcan el servicio de transporte a su personal como una prestación de carácter laboral, deberán obtener una autorización en los términos de lo dispuesto para el servicio especializado de transporte.
+
+Tratándose de condominios o fraccionamientos cerrados, cuyas entradas y salidas hacia el entorno urbano se encuentren delimitadas y controladas mediante casetas de vigilancia u otros dispositivos mecánicos o tecnológicos, podrán a través de sus administradores, operar mediante una autorización, sistemas internos de transporte para los residentes y trabajadores permanentes o eventuales del propio condominio o fraccionamiento, que deberán operar exclusivamente dentro del área confinada y sin mediar el cobro de tarifa.
+
+Para la operación de estos sistemas, los interesados a través de las asociaciones de colonos legalmente constituidas, deberán tramitar y obtener las autorizaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 95 UNDECIES.- El servicio de transporte especializado turístico, para su prestación requiere contar con la autorización respectiva y se ajustará a los reglamentos, acuerdos, circulares, manuales de especificaciones técnicas y a las condiciones de operación que determine la Subsecretaría.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 95 DUODECIES.- El servicio de transporte especializado ejecutivo privado será prestado a través de empresas de redes de transporte las cuales deberán cubrir a favor del Estado el 4% por servicio contratado.
+
+Las empresas de redes de transporte tendrán las siguientes obligaciones:
+
+I. Contar con la autorización que otorga el Estado a traves de la Subsecretaría;
+
+II. Prestar los servicios de transporte exclusivamente a los usuarios conectados a sus plataformas tecnológicas y sólo a través de los conductores y vehículos que cuenten con el certificado vehicular expedido por la Subsecretaría;
+
+III. Hacer públicas sus reglas, protocolos y código QR porporcionado (sic) por la Subsecretaría, a efecto de que el usuario esté informado respecto de la modalidad del servicio de transporte que ofrecen;
+
+IV. Que el año de fabricación o modelo del vehículo no sea anterior a tres años;
+
+V. Que el vehículo que presta este servicio tenga cinturones de seguridad en condiciones de uso para todos los pasajeros, bolsas de aire delanteras, aire acondicionado, equipo de sonido ambiental y capacidad suficiente para prestar el servicio;
+
+VI. Contar con seguro suficiente en los vehículos utilizados para la prestación de este servicio, con la finalidad de cubrir las indemnizaciones en caso de muerte, lesiones y daños materiales por accidentes de tránsito, de los ocupantes del vehículo, del conductor, así como de daños a terceros;
+
+VII. Proporcionar a la Subsecretaría el registro de conductores y vehículos inscritos en sus bases de datos, así como cualquier otra información disponible que se le requiera por motivos de seguridad o de control fiscal, y mantenerlo actualizado de conformidad con el reglamento respectivo;
+
+VIII. Informar oportunamente a la autoridad competente sobre cualquier irregularidad de la cual tenga conocimiento mediante la prestación de este servicio; y
+
+IX. Las demás que le establezca la Subsecretaría y otros ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 95 TERDECIES.- El reglamento respectivo establecerá los requisitos que deberán cumplir las empresas de redes de transporte para obtener la autorización que otorga el Estado para este tipo de transporte, así como las cualidades mínimas que las plataformas tecnológicas deberán utilizar.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
+
+ARTÍCULO 95 QUATERDECIES.- Las plataformas tecnológicas que utilicen las empresas de redes de transporte estarán diseñadas para garantizar un servicio eficiente, seguro y de calidad, mediante el acceso a aplicaciones para dispositivos móviles que permitan al usuario:
+
+I. Informarse de la disponibilidad del servicio y tiempo de espera;
+
+II. Conocer la identidad del conductor y los datos del vehículo previo al abordaje;
+
+III. Cómo se planificará la ruta a seguir por el conductor para llegar al destino del viaje; y
+
+IV. La tarifa que se aplicará para determinar el costo total del servicio.
 
 ### CAPÍTULO III. DE LA TRAMITACIÓN DE LAS CONCESIONES Y PERMISOS
 
@@ -1089,21 +1349,27 @@ Se requiere autorización que otorgará el Estado a través de la Dirección par
 
 Las solicitudes para el otorgamiento o modificación de concesiones o permisos de servicio público de transporte, deberán satisfacer los requisitos que señala la presente Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 97.
 
-Las solicitudes para el otorgamiento o modificación de concesiones de servicio público de transporte o permisos, se deberán presentar ante la Dirección, dándoseles la debida publicidad, a fin de dar oportunidad de intervenir a todo tercero al que pudiera lesionarse en sus derechos con el otorgamiento de la concesión o permiso solicitado, salvo las necesidades específicas del transporte a juicio de la Dirección.
+Las solicitudes para el otorgamiento o modificación de concesiones de servicio público de transporte o permisos, se deberán presentar ante la Subsecretaría, dándoseles la debida publicidad, a fin de dar oportunidad de intervenir a todo tercero al que pudiera lesionarse en sus derechos con el otorgamiento de la concesión o permiso solicitado, salvo las necesidades específicas del transporte a juicio de la Subsecretaría.
 
 El costo de los trámites, publicaciones y estudios realizados, en virtud de una solicitud, serán cubiertos por los interesados conforme a lo previsto por la Ley de Hacienda del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 98.
 
-En la segunda quincena de marzo de cada año, la Secretaría, con base en la información que le proporcione la Dirección, publicará la declaratoria de necesidades de transporte en rutas o zonas del Estado, para que los interesados acudan formulando la solicitud correspondiente en los términos que establezca esta Ley y su Reglamento.
+En la segunda quincena de marzo de cada año, la Secretaría, con base en la información que le proporcione la Subsecretaría, publicará la declaratoria de necesidades de transporte en rutas o zonas del Estado, para que los interesados acudan formulando la solicitud correspondiente en los términos que establezca esta Ley y su Reglamento.
 
-La Dirección llevará un registro de las necesidades que por sí o cualquier otro medio se detecten, información que hará saber a la Secretaría en los primeros días de marzo de cada año.
+La Subsecretaría llevará un registro de las necesidades que por sí o cualquier otro medio se detecten, información que hará saber a la Secretaría en los primeros días de marzo de cada año.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 99.
 
-Al presentarse solicitud para la explotación del servicio público de transporte, en cualquiera de sus modalidades, los interesados deberán seguir en forma continua el trámite que les corresponde de acuerdo con esta Ley y su Reglamento. El abandono del trámite por un término de treinta días naturales, significará falta de interés del peticionario; al cumplirse este supuesto, la Dirección declarará sobreseída la solicitud, y comunicará por escrito al interesado la resolución.
+Al presentarse solicitud para la explotación del servicio público de transporte, en cualquiera de sus modalidades, los interesados deberán seguir en forma continua el trámite que les corresponde de acuerdo con esta Ley y su Reglamento. El abandono del trámite por un término de treinta días naturales, significará falta de interés del peticionario; al cumplirse este supuesto, la Subsecretaría declarará sobreseída la solicitud, y comunicará por escrito al interesado la resolución.
 
 ### CAPÍTULO IV. DE LOS PERMISOS PROVISIONALES
 
@@ -1123,15 +1389,21 @@ I. En caso de la prestación eventual de un servicio especial;
 
 II. En caso de sustitución temporal de vehículos en cualquier modalidad del transporte público; y
 
-III. En caso urgente a juicio de la Dirección.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+III. En caso urgente a juicio de la Subsecretaría.
 
 ### CAPÍTULO V. DE LA TRANSMISIÓN DE CONCESIONES Y PERMISOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 103.
 
-Los derechos que derivan de las concesiones y permisos solamente se transmitirán en lo (sic) siguientes casos:
+Los derechos que derivan de las concesiones y permisos solamente se transmitirán en los siguientes casos:
 
-I. Por grave necesidad económica, comprobada fehacientemente por la Dirección, previo estudio socioeconómico y siempre que se acredite la explotación del servicio de transporte público por un lapso no menor de cinco años contados a partir de la fecha de expedición de la concesión o permiso; salvo los casos de extrema necesidad económica que se contemplen en el reglamento de la presente Ley;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+I. Por grave necesidad económica, comprobada fehacientemente por la Subsecretaría, previo estudio socioeconómico y siempre que se acredite la explotación del servicio de transporte público por un lapso no menor de cinco años contados a partir de la fecha de expedición de la concesión o permiso; salvo los casos de extrema necesidad económica que se contemplen en el Reglamento de la presente Ley;
 
 II. Fallecimiento;
 
@@ -1153,9 +1425,11 @@ I. En los casos de permisos derivados de una concesión otorgada a una persona m
 
 II. Cuando se trate de concesión o permiso individual otorgado a persona física, si falleciere el concesionario o permisionario sin hacer designación de sucesores, ni contar con herederos, o habiéndolos éstos no pudieren adquirir los derechos por impedimento legal, se declarará vacante dicha concesión o permiso.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 106.
 
-La Dirección autorizará las transmisiones de derechos derivados de concesiones y permisos en los casos señalados en la presente Ley, dentro de un plazo de sesenta días naturales, contados a partir de la presentación de la solicitud.
+La Subsecretaría autorizará las transmisiones de derechos derivados de concesiones y permisos en los casos señalados en la presente Ley, dentro de un plazo de sesenta días naturales, contados a partir de la presentación de la solicitud.
 
 ### CAPÍTULO VI. DE LA TERMINACIÓN DE LAS CONCESIONES
 
@@ -1167,7 +1441,9 @@ I. Vencimiento del plazo: Procede cuando transcurre el término por el cual fuer
 
 II. Revocación: Opera cuando se configure alguna de las causales previstas en el artículo 134 de la presente Ley,
 
-III. Renuncia: Opera cuando el titular del mismo o su representante legal, lo notifiquen por escrito a la Dirección; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+III. Renuncia: Opera cuando el titular del mismo o su representante legal, lo notifiquen por escrito a la Subsecretaría; y
 
 IV. La muerte del titular sin perjuicio de lo dispuesto en caso de sucesiones.
 
@@ -1175,17 +1451,21 @@ IV. La muerte del titular sin perjuicio de lo dispuesto en caso de sucesiones.
 
 El procedimiento de extinción de la concesión, se iniciará de oficio o a petición de parte interesada, con las constancias o escritos que demuestren la o las causas a que se refiere el presente capítulo y culminará con la resolución que emita el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 109.
 
-La Dirección informará al Registro, el acuerdo que declare las concesiones canceladas, extintas o vacantes, para que con toda oportunidad este último incluya dicha información en el Periódico Oficial del Gobierno del Estado.
+La Subsecretaría informará al Registro, el acuerdo que declare las concesiones canceladas, extintas o vacantes, para que con toda oportunidad este último incluya dicha información en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ## TÍTULO QUINTO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ### CAPÍTULO I. LA INSPECCIÓN Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 110.
 
-La Dirección tendrá a su cargo la inspección y vigilancia del servicio público de transporte, a fin de verificar el cumplimiento de esta Ley, su Reglamento, normas técnicas y demás disposiciones aplicables, así como ordenar y ejecutar las medidas de seguridad previstas en ellas, para lo cual podrá realizar periódicamente inspecciones a vehículos e instalaciones, y podrá auxiliarse de las autoridades municipales, en lo que corresponda a sus respectivas jurisdicciones territoriales.
+La Subsecretaría tendrá a su cargo la inspección y vigilancia del servicio público de transporte, a fin de verificar el cumplimiento de esta Ley, su Reglamento, normas técnicas y demás disposiciones aplicables, así como ordenar y ejecutar las medidas de seguridad previstas en ellas, para lo cual podrá realizar periódicamente inspecciones a vehículos e instalaciones, y podrá auxiliarse de las autoridades municipales, en lo que corresponda a sus respectivas jurisdicciones territoriales.
 
 ###### ARTÍCULO 111.
 
@@ -1253,6 +1533,12 @@ I. La suspensión, que puede ser temporal o definitiva, parcial o total, y se ap
 
 II. El aseguramiento de vehículos e instalaciones, el cual tendrá lugar cuando éstos se destinen a actividades ilegales o cualquier otra que impida la prestación del servicio público de transporte. La Dirección podrá retirarlos y dejarlos en depósito, para que el interesado en un plazo no mayor de treinta días contados a partir de la fecha en que se determinó la medida de seguridad, subsane el motivo que le dio origen o en su caso se determine su destino;
 
+> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. EL 27 DE JULIO DE 2023, SE ADVIERTE QUE SE AGREGÓ ESTE PÁRRAFO, TODA VEZ QUE EL TEXTO ORIGINAL CONSTABA DE SÓLO UNO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JULIO DE 2023)</small>
+
+La Subsecretaría podrá retirarlos y dejarlos en depósito, para que el interesado en un plazo no mayor de treinta días contados a partir de la fecha en que se determinó la medida de seguridad, subsane el motivo que le dio origen o en su caso se determine su destino;
+
 III. La requisa temporal del servicio público de transporte y demás bienes muebles e inmuebles afectos al mismo, la determinará el Titular del Poder Ejecutivo del Estado y se mantendrá mientras subsistan las condiciones que la motivaron, a fin de garantizar la prestación del servicio público de transporte y satisfacer las necesidades de la población en general y tendrá lugar en los siguientes casos:
 
 a) De desastre natural, alteración del orden público o cuando se prevea algún peligro inminente para la paz y seguridad interior del Estado; y
@@ -1285,7 +1571,9 @@ III. Dañar, destruir u obstruir las vías públicas o medios de transporte;
 
 IV. Aplicar itinerarios, horarios y tarifas cuando no hubieren sido aprobadas previamente por la autoridad competente;
 
-V. No portar en lugar visible del vehículo de transporte público copia del título de concesión o permiso;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+V. No portar en lugar visible del vehículo de transporte público copia del título de concesión o permiso, así como no portar para lectura el código QR que refiere la presente Ley;
 
 VI. Llevar a cabo obstrucción de calles y vías de comunicación, y en general cualquier acto que altere el transito en las vías publicas o, en su caso, impida la prestación del servicio publico de transporte;
 
@@ -1317,7 +1605,17 @@ XIX. Oponerse u obstaculizar la práctica de las visitas de inspección a que se
 
 XX. Conducir vehículos del servicio público, cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles que se determinan en las Normas Oficiales Mexicanas; y
 
-XXI. Las análogas a juicio de la Dirección.
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2023)</small>
+
+XXI. La falta de actualización de la información contenida en el código QR que refiere la presente Ley;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2023)</small>
+
+XXII. El conductor del servicio público de transporte, no cuente con el certificado de capacitación para el transporte público a que se refiere la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JULIO DE 2023)</small>
+
+XXIII. Las análogas a juicio de la Subsecretaría.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -1335,9 +1633,11 @@ Los supuestos previstos en las fracciones VIII, IX, X, XI, XII, XIV, XVII y XIX 
 
 En relación a las sanciones establecidas en las fracciones VII y XV del artículo 127 de esta ley, se impondrá multa de 5 a12 (sic) veces la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 130.
 
-Al imponer una sanción, la Dirección fundará y motivará la resolución, tomando en cuenta:
+Al imponer una sanción, la Subsecretaría fundará y motivará la resolución, tomando en cuenta:
 
 I. Los daños que se hayan producido;
 
@@ -1349,17 +1649,21 @@ III. La calidad de reincidente del infractor.
 
 Para los efectos de esta Ley, se entiende por reincidencia, cuando el infractor cometa la misma violación a las disposiciones de esta Ley o de su Reglamento, dos o más veces dentro del período de seis meses, contado a partir de la fecha en que se cometió la primera infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 132.
 
-La Dirección, a fin de hacer cumplir sus determinaciones sin perjuicio de la aplicación de las medidas de seguridad y sanciones que procedan, podrá emplear cualquiera de las siguientes medidas:
+La Subsecretaría, a fin de hacer cumplir sus determinaciones sin perjuicio de la aplicación de las medidas de seguridad y sanciones que procedan, podrá emplear cualquiera de las siguientes medidas:
 
 I. Auxilio de la fuerza pública; y
 
 II. Arresto administrativo hasta por 36 horas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 133.
 
-Las facultades de la Dirección, para verificar el cumplimiento de las disposiciones que se establecen en la presente Ley, su Reglamento y demás normas aplicables, así como para determinar las medidas de seguridad e imponer sanciones por la violación a los preceptos correspondientes, se extinguen en el plazo de cinco años, contados a partir del día siguiente a aquél en que se hubiere cometido la infracción a las disposiciones de esta Ley, pero si la infracción fuese de carácter contínuo o continuado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente.
+Las facultades de la Subsecretaría, para verificar el cumplimiento de las disposiciones que se establecen en la presente Ley, su Reglamento y demás normas aplicables, así como para determinar las medidas de seguridad e imponer sanciones por la violación a los preceptos correspondientes, se extinguen en el plazo de cinco años, contados a partir del día siguiente a aquél en que se hubiere cometido la infracción a las disposiciones de esta Ley, pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente.
 
 Cuando el presunto infractor impugne los actos de la autoridad competente, se interrumpirá la prescripción hasta en tanto queden estos firmes.
 
@@ -1379,7 +1683,9 @@ IV. Por venta del vehículo o cambio de éste sin la autorización correspondien
 
 V. Por suspensión del servicio sin autorización previa, siempre, y cuando dicha suspensión sea imputable al concesionario;
 
-VI. Por reincidencia en tercera ocasión del incumplimiento de su horario o tarifa u otras faltas análogas, a juicio de la Dirección;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+VI. Por reincidencia en tercera ocasión del incumplimiento de su horario o tarifa u otras faltas análogas, a juicio de la Subsecretaría;
 
 VII. Por la comisión de algún delito doloso de parte del concesionario, permisionario o trabajador a su servicio, cuando el ilícito lo cometa con motivo o durante la prestación del servicio, que merezca pena privativa de libertad, y la sentencia haya causado ejecutoria;
 
@@ -1413,7 +1719,9 @@ XIX. En los casos que establezca esta Ley o su Reglamento o que lo exija el inte
 
 El procedimiento de revocación de una concesión o permiso se substanciará en los siguientes términos:
 
-I. La Dirección notificara al concesionario o permisionario del inicio del procedimiento de revocación citándolo a una audiencia para que oponga defensas y ofrezca pruebas;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+I. La Subsecretaría notificará al concesionario o permisionario del inicio del procedimiento de revocación citándolo a una audiencia para que oponga defensas y ofrezca pruebas;
 
 II. La notificación deberá realizarse personalmente y se le hará saber la causa de la revocación por escrito;
 
@@ -1425,7 +1733,9 @@ V. De la audiencia se levantara una acta circunstanciada en la que se harán con
 
 VI. Cuando el concesionario o permisionario no comparezca a la audiencia, se hará constar dicha circunstancia en el acta, sin que ello impida se dicte la resolución correspondiente;
 
-VII. Una vez agotado el procedimiento, la Dirección emitirá la resolución correspondiente;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+VII. Una vez agotado el procedimiento, la Subsecretaría emitirá la resolución correspondiente;
 
 VIII. La resolución de revocación deberá notificarse personalmente; y
 
@@ -1433,9 +1743,11 @@ IX. En todo lo no previsto se aplicará en lo conducente el Código de Procedimi
 
 ### CAPÍTULO V. PROCEDIMIENTO PARA SUSPENDER O CANCELAR LAS LICENCIAS PARA CONDUCIR VEHÍCULOS DE TRANSPORTE PÚBLICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 136.
 
-Cuando se tenga conocimiento de que se ha incurrido en alguna de las causales que motivan la suspensión o cancelación, la Dirección citará al conductor de servicio público a una audiencia que se celebrará dentro del término de quince días, expresándole los motivos del citatorio y requiriéndole a efecto de que en la audiencia presente las probanzas que estime pertinentes, mismas que serán desahogadas en dicha audiencia, salvo impedimento de fuerza mayor, otorgándose en este caso el término estrictamente necesario para su desahogo.
+Cuando se tenga conocimiento de que se ha incurrido en alguna de las causales que motivan la suspensión o cancelación, la Subsecretaría citará al conductor de servicio público a una audiencia que se celebrará dentro del término de quince días, expresándole los motivos del citatorio y requiriéndole a efecto de que en la audiencia presente las probanzas que estime pertinentes, mismas que serán desahogadas en dicha audiencia, salvo impedimento de fuerza mayor, otorgándose en este caso el término estrictamente necesario para su desahogo.
 
 Desahogadas las probanzas en cuestión, se dictará resolución dentro de los tres días siguientes a la conclusión del desahogo de las pruebas.
 
@@ -1449,9 +1761,13 @@ En el supuesto de que la licencia sea suspendida o cancelada, al notificarse la 
 
 ### CAPÍTULO VI. DE LOS MEDIOS DE DEFENSA
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 139.
 
-Los usuarios del servicio público de transporte, podrán acudir ante la Dirección a presentar quejas o denuncias derivadas de la prestación del servicio. La Dirección recibirá dichas promociones y les dará el trámite correspondiente. Asimismo, llevará un registro de todas las quejas o denuncias presentadas, las cuales serán tomadas en cuenta al momento de ejercer las funciones de control y vigilancia.
+Los usuarios del servicio público de transporte, podrán acudir ante la Subsecretaría a presentar quejas o denuncias derivadas de la prestación del servicio.
+
+La Subsecretaría recibirá dichas promociones y les dará el trámite correspondiente. Asimismo, llevará un registro de todas las quejas o denuncias presentadas, las cuales serán tomadas en cuenta al momento de ejercer las funciones de control y vigilancia.
 
 ###### ARTÍCULO 140.
 
@@ -1489,23 +1805,29 @@ III. Los documentos en que se haga constar la notificación de la misma en caso 
 
 IV. Las pruebas que ofrezca.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 144.
 
-Al recibirse el recurso, se verificará si éste cumple con los requisitos establecidos en el presente capítulo, decretando su admisión o desechamiento. Una vez admitido, se remitirá de inmediato, junto con el expediente que contenga los antecedentes del caso, al área jurídica de la Dirección, para que continúe con el trámite del mismo y dentro de un plazo no mayor a treinta días, someta a consideración de la autoridad competente la resolución que corresponda.
+Al recibirse el recurso, se verificará si éste cumple con los requisitos establecidos en el presente capítulo, decretando su admisión o desechamiento. Una vez admitido, se remitirá de inmediato, junto con el expediente que contenga los antecedentes del caso, al área jurídica de la Subsecretaría, para que continúe con el trámite del mismo y dentro de un plazo no mayor a treinta días, someta a consideración de la autoridad competente la resolución que corresponda.
 
 ###### ARTÍCULO 145.
 
 En la tramitación del recurso sólo podrán ofrecerse pruebas supervinientes, entendiéndose por tales, aquéllas de cuya existencia se tuvo conocimiento con posterioridad a la fecha de presentación del recurso y hasta antes de la resolución del mismo.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 146.
 
-Contra la resolución que emita la Dirección, procederá el recurso de revisión, el cual se interpondrá ante la Secretaría, en un término de quince días hábiles contados a partir del día siguiente al que se notifique la resolución recurrida o de aquel en que se hubiese tenido conocimiento de la misma o de su ejecución.
+Contra la resolución que emita la Subsecretaría, procederá el recurso de revisión, el cual se interpondrá ante la Secretaría, en un término de quince días hábiles contados a partir del día siguiente al que se notifique la resolución recurrida o de aquel en que se hubiese tenido conocimiento de la misma o de su ejecución.
 
 ###### ARTÍCULO 147.
 
 El promovente acompañará a su escrito copia de la resolución impugnada, así como las pruebas que no se hayan aportado con anterioridad.
 
-La Secretaría tendrá un término de quince días hábiles para dictar la resolución correspondiente.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
+La Subsecretaría tendrá un término de quince días hábiles para dictar la resolución correspondiente.
 
 ###### ARTÍCULO 148.
 
@@ -1596,3 +1918,27 @@ P.O. 31 DE MARZO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
+
+P.O. 27 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 399.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE TRASPORTES (SIC) PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto, entrará en vigor, una vez (sic) el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. En tanto se expidan los manuales de organización, procedimientos y de servicios al público, el Secretario General de Gobierno está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+TERCERO. En un plazo no mayor a 180 días siguientes la publicación del presente Decreto, de (sic) realizarán las modificaciones necesarias al reglamento de esta Ley.
+
+CUARTO. La tramitación y resolución de los asuntos que se encuentren en trámite en la Dirección General de Transportes, se concluirán de conformidad con las disposiciones vigentes al momento de iniciarse los procedimientos respectivos.
+
+QUINTO. La Secretaría General de Gobierno, por conducto de la Subsecretaría de Movilidad y Transportes, emitirá el programa de capacitación para la obtención del certificado de capacitación para el transporte público.
+
+SEXTO. A partir de la entrada en vigor del presente Decreto y expedido el Reglamento de la Ley, los conductores del servicio público de transporte de pasajeros contarán con un plazo de sesentas (sic) días para realizar el trámite de certificación de capacitación para el transporte público.
+
+SÉPTIMO. El desarrollo del código QR, así como la aplicación a que alude la presente ley, corresponderá al Gobierno del Estado por conducto de la Secretaría General de Gobierno.
+
+OCTAVO. En su oportunidad deberá adecuarse las correspondientes Ley de Hacienda del Estado de Durango y la Ley de Ingresos para el Estado Libre y Soberano de Durango, a efecto de legislar en materia del cobro de derechos relacionados con el Servicio de Transporte Especializado Ejecutivo Privado.
+
+NOVENO. Los recursos que se obtengan conforme a lo establecido en el artículo 95 DUODECIES de la presente ley, serán destinados preferentemente a la modernización y mejoramiento de la movilidad y el transporte público.
+
+DÉCIMO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
