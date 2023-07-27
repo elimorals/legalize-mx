@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2023-03-08"
+last_updated: "2023-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -1837,9 +1837,13 @@ VI.- El delito de homicidio, consumado o intentado, cometido contra uno de los c
 
 VII.- La fuerza o miedo graves;
 
-VIII.- El alcoholismo crónico, la impotencia física incurable para entrar en el estado matrimonial o cualquier enfermedad que sea además contagiosa y hereditaria;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
-IX.- El uso no terapéutico de enervantes, estupefacientes, psicotrópicos o de cualquier otra substancia que altere la conducta y produzca farmacodependencia;
+VIII.- El alcoholismo crónico, o cualquier enfermedad que sea además contagiosa y hereditaria excepto en caso de que los pretendientes manifiesten tener conocimiento de tales circunstancias y expresen su consentimiento de forma libre, clara, indubitable y por escrito para contraer matrimonio durante la diligencia de presentación ante el Juez del Registro Civil;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+IX.- El uso no terapéutico de enervantes, estupefacientes, psicotrópicos o de cualquier otra substancia que altere la conducta y produzca farmacodependencia, excepto en caso de que los pretendientes manifiesten tener conocimiento de tales circunstancias, expresen su consentimiento de forma libre, clara, indubitable y por escrito para contraer matrimonio durante la diligencia de presentación ante el Juez del Registro Civil;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2505,7 +2509,9 @@ Las acciones establecidas en los artículos 397 a 400 son imprescriptibles; y si
 
 Hay nulidad relativa del matrimonio:
 
-I.- Cuando se haya celebrado concurriendo alguno de los impedimentos enumerados en las fracciones I, II, V a IX y XI del artículo 298; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
+
+I.- Cuando se haya celebrado concurriendo alguno de los impedimentos enumerados en las fracciones I, II, V a IX y XI del artículo 299; y
 
 II.- Cuando se haya celebrado sin observar las formalidades establecidas en los artículos 906 y 907, fracción VII;
 
@@ -2555,9 +2561,11 @@ El error respecto de la persona anula el matrimonio sólo cuando entendiendo un 
 
 El parentesco por consanguinidad no dispensado anula el matrimonio y la acción que nace de esta causa de nulidad puede deducirse por los ascendientes de los cónyuges, dentro de los siguientes sesenta días a la celebración del matrimonio; pero éste quedará revalidado y surtirá efectos desde el día de su celebración, si antes de causar ejecutoria la sentencia que declare la nulidad, se obtuviere la dispensa.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### Artículo 411.
 
-La acción de nulidad que nace de la causa que se señala en la fracción VI del artículo 298, puede ser deducida por los hijos del cónyuge víctima del delito y por el Ministerio Público, dentro de tres meses contados desde que se celebró el nuevo matrimonio.
+La acción de nulidad que nace de la causa que se señala en la fracción VI del artículo 299, puede ser deducida por los hijos del cónyuge víctima del delito y por el Ministerio Público dentro de tres meses contados desde que se celebró el nuevo matrimonio.
 
 ###### Artículo 412.
 
@@ -2573,9 +2581,11 @@ III.- Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
 
 La acción de nulidad que nace del miedo y de la fuerza, sólo puede deducirse por el cónyuge agraviado y dentro de sesenta días contados desde la fecha del matrimonio.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2023)</small>
+
 ###### Artículo 414.
 
-La nulidad que se funde en alguna de las causas enumeradas en las fracciones VIII y IX del artículo 298, sólo puede ser pedida por los cónyuges, dentro de sesenta días contados desde que se celebró el matrimonio.
+La nulidad que se funde en alguna de las causas enumeradas en las fracciones VIII y IX del artículo 299, sólo puede ser pedida por los cónyuges, dentro de sesenta días contados desde que se celebró el matrimonio.
 
 ###### Artículo 415.
 
@@ -20780,3 +20790,11 @@ P.O. 8 DE MARZO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VIII Y IX DEL ARTÍCULO 299, LA FRACCIÓN I DEL 402 Y LOS ARTÍCULOS 411 Y 414 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
