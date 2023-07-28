@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-fomentar-la-donacion-altruista-en-materia-12166"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-06"
-last_updated: "2019-02-01"
+last_updated: "2023-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA EN MATERIA ALIMENTARIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 6 de febrero de 1998.
 
@@ -39,11 +39,11 @@ LEY PARA FOMENTAR LA DONACION ALTRUISTA EN MATERIA ALIMENTARIA EN EL ESTADO DE B
 
 ### CAPITULO I. DEL OBJETO
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 1º.
 
-Las disposiciones de esta ley son de orden público e interés social y tienen por objeto fomentar la donación de alimentos, dinero, especie o servicios con fines alimentarios, para coadyuvar en la satisfacción de las necesidades alimentarias de la población que no cuente con los medios económicos suficientes para atender plenamente sus requerimientos elementales de subsistencia.
+Las disposiciones de esta ley son de orden público e interés social y tienen por objeto fomentar y regular la donación altruista de alimentos, dinero, especie o servicios con fines alimentarios, para coadyuvar en la satisfacción de las necesidades alimentarias de la población que no cuente con los medios económicos suficientes para atender plenamente sus requerimientos elementales de subsistencia.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -53,71 +53,55 @@ En el Estado de Baja California queda prohibido el desperdicio de alimentos, cua
 
 Se consideran susceptibles de aprovechamiento aquellos alimentos que, siendo inútiles para su dueño, se encuentren en condiciones aptas para el consumo humano, conforme a los ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
-
-###### ARTICULO 3°.
-
-Para los efectos de esta Ley, se considera desperdicio de alimentos susceptibles de aprovechamiento, a todos los productos alimenticios sólidos o líquidos, naturales o transformados que tienen garantías de inocuidad alimentaria para consumo humano, que ya no sean comercializables o excedentarios, disponibles para su distribución gratuita.
-
-El Estado y los Municipios promoverán y apoyarán en coordinación con las empresas restauranteras y hoteleras la donación de alimentos preparados o excedentarios, apoyándose para la recolección y traslado con prestadores de servicio social de preparatorias y universidades públicas y privadas existentes en el Estado.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 3º.
 
-Para los efectos de esta Ley, se considera desperdicio de alimentos susceptibles de aprovechamiento, el desecho de piezas que en su conjunto sobrepasen los cien kilogramos de peso.
+Para los efectos de esta Ley, se considera desperdicio de alimentos susceptibles de aprovechamiento, a todos los productos alimenticios sólidos o líquidos, naturales o transformados que tienen garantías de inocuidad alimentaria para el consumo humano, que ya no sean comercializables o excedentarios, disponibles para su distribución gratuita.
+
+El Estado y los Municipios promoverán y apoyarán en coordinación con las empresas restauranteras, hoteleras, distribuidoras de alimentos mayoristas o minoristas, tiendas de comestibles, procesadoras de alimentos, productoras de alimentos agrícolas, la donación de alimentos preparados o excedentarios, apoyándose para la recolección y traslado con prestadores de servicio social de preparatorias y universidades públicas y privadas existentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2023)</small>
+
+ARTICULO 3º BIS.- La política Estatal en materia de donación altruista de alimentos, se orientará al logro de los siguientes objetivos generales:
+
+I. Crear una Cultura solidaria en el aprovechamiento y donación altruista de alimentos.
+
+II. Generar impacto y conciencia en los consumidores y en los sectores público, social y privado sobre la importancia de evitar el desperdicio de alimentos y de propiciar la donación de éstos.
+
+III. Fomentar la participación de los consumidores y de los sectores público, social y privado en la creación, promoción y fomento de una cultura de aprovechamiento y donación altruista de alimentos.
+
+IV. Fomentar y promover las propuestas de los ciudadanos y sus organizaciones para garantizar la satisfacción de las necesidades alimentarias de la población menos favorecida, así como estimular las aportaciones libres y voluntarias de alimentos.
+
+V. Promover la operación de los Bancos de Alimentos, por lo menos en las zonas de alta marginación o el número necesario para cubrir las necesidades de las comunidades con mayor vulnerabilidad.
 
 ### CAPITULO II. DE LAS DEFINICIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE FEBRERO DE 2019)</small>
-
-###### ARTICULO 4°.
-
-Para los efectos de este ordenamiento se entiende por:
-
-DIF.- Sistema para el Desarrollo Integral de la Familia de Baja California.
-
-Instituciones.- Las instituciones privadas de Asistencia Social con reconocimiento oficial.
-
-Donante.- Persona física o moral que transmite a título gratuito a las instituciones Privadas de Asistencia Social con reconocimiento oficial, alimentos susceptibles de aprovechamiento altruista por los beneficiarios.
-
-Donatario.- Institución que recibe del donante los alimentos que se indican en el párrafo que precede, para su distribución a los beneficiarios.
-
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
-
-Donación altruista.- Acción voluntaria, tendiente a mejorar y fortalecer las circunstancias sociales que favorecen al individuo su pleno desarrollo físico, mental y emocional.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
-
-Beneficiario.- La persona física que recibe a título gratuito los productos entregados por el donante, por carecer temporal o permanentemente de recursos económicos para obtener los alimentos necesarios para subsistir.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2019)</small>
-
-Bancos de Alimentos.- Organizaciones públicas, sociales o privadas sin fines de lucro, cuyo objetivo es recolectar y recibir en donación los alimentos aptos para consumo humano para la distribución en favor de los beneficiarios.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2019)</small>
-
-Alimento Susceptible de Donación Altruista.- Todos los productos a que se refiere el artículo 3 primer párrafo de esta ley. y
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2019)</small>
-
-Desperdicio de Alimentos.- Son los alimentos que se tiran o desperdician en alguna parte de las cadenas alimentarias que conducen a la producción o elaboración de productos comestibles destinados al consumo humano.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 4º.
 
 Para los efectos de este ordenamiento se entiende por:
 
+Alimentos Susceptible de Donación Altruista.- Todos los productos a que se refiere el artículo 3 primer párrafo de esta Ley.
+
+Altruismo.- Acción de carácter Individual o colectiva mediante la cual se ayuda voluntariamente a la población menos favorecida.
+
+Banco de Alimentos.- Organizaciones públicas, sociales o privadas sin fines de lucro, cuyo objetivo es recolectar y recibir en donación los alimentos aptos para consumo humano para la distribución en favor de los beneficiarios.
+
+Beneficiario.- La persona física que recibe a título gratuito los productos entregados por el donante, por carecer temporal o permanentemente de recursos económicos para obtener los alimentos necesarios para subsistir.
+
+Desperdicio de Alimentos.- Son los alimentos que se tiran o desperdician en alguna parte de las cadenas alimentarias que conducen a la producción o elaboración de productos comestibles, destinados al consumo humano.
+
 DIF.- Sistema para el Desarrollo Integral de la Familia de Baja California.
 
-Instituciones.- Las instituciones privadas de Asistencia Social con reconocimiento oficial.
-
-Donante.- Persona física o moral que transmite a título gratuito a las instituciones Privadas de Asistencia Social con reconocimiento oficial, alimentos susceptibles de aprovechamiento altruista por los beneficiarios.
+Donante.- Persona física o moral que transmite a título gratuito a las instituciones Privadas de Asistencia Social con reconocimiento oficial, alimentos susceptibles de aprovechamiento altruista por los beneficiarios, o bien que se apega a programas certificados de entrega directa de esos alimentos.
 
 Donatario.- Institución que recibe del donante los alimentos que se indican en el párrafo que precede, para su distribución a los beneficiarios.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
+Donación Altruista.- Acción voluntaria, tendiente a mejorar y fortalecer las circunstancias sociales que favorecen al individuo su pleno desarrollo físico, mental y emocional. E
 
-Donación altruista.- Acción voluntaria, tendiente a mejorar y fortalecer las circunstancias sociales que favorecen al individuo su pleno desarrollo físico, mental y emocional.
-
-Beneficiario.- Persona cuyos recursos económicos no le permiten obtener total o parcialmente los alimentos que requiere para subsistir.
+Instituciones.- Las instituciones privadas de Asistencia Social con reconocimiento oficial.
 
 ### CAPITULO III. DEL REGISTRO
 
@@ -189,7 +173,7 @@ Los actos y contratos celebrados por las instituciones debidamente constituidas 
 
 ### CAPITULO V. ATRIBUCIONES DEL DIF
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 16º.
 
@@ -199,19 +183,33 @@ I.- Gestionar ante las autoridades federales y estatales estímulos fiscales par
 
 II.- Promover la participación activa de los medios de comunicación en la difusión de donaciones altruistas de alimentos;
 
-III.- Realizar campañas permanentes para motivar a la ciudadanía a que se involucre en la donación de alimentos y evite su desperdicio;
-
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+III.- Realizar campañas permanentes para generar conciencia sobre la importancia de la donación de alimentos y motivar a la ciudadanía a que se involucre en donarlos y evitar su desperdicio;
 
 IV.- Entregar anualmente un reconocimiento público a los donantes que se hayan distinguido por sus contribuciones;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+V.- Generar un emblema o distintivo social, para hacer público quienes son donantes en los términos de esta Ley;
 
-V.- Establecer y fomentar los vínculos entre donante y donatario para hacer efectivo y permanente el suministro de alimentos, minimizando los gastos que se originen por tal motivo; y,
+VI.- Establecer y fomentar los vínculos entre donante y donatario para hacer efectivo y permanente el suministro de alimentos, minimizando los gastos que se originen por tal motivo;
 
-> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2011)</small>
+VII.- Gestionar ante las autoridades competentes el apoyo necesario para la donación altruista de alimentos provenientes del extranjero, principalmente para cubrir necesidades de instituciones registradas en los términos de esta Ley;
 
-VI.- Gestionar ante las autoridades competentes el apoyo necesario para la donación altruista de alimentos provenientes del extranjero, principalmente para cubrir necesidades de instituciones registradas en los términos de esta Ley.
+VIII.- Impulsar un programa para fomentar la donación altruista de alimentos aptos para el consumo humano entre los consumidores y los sectores público, social y privado, priorizando a la población de alta marginación y vulnerabilidad; y,
+
+IX.- Coordinarse con los municipios a través de sus Sistemas para el Desarrollo Integral de la Familia, para coadyuvar en el cumplimiento del objeto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2023)</small>
+
+ARTICULO 16º BIS.- Corresponde a los Municipios:
+
+I. Participar y colaborar con el DIF en la formulación, planeación y ejecución de los Programas de donación de alimentos;
+
+II. Promover y fomentar la participación de la sociedad en la elaboración de programas de donación altruista de alimentos;
+
+III. Fomentar acciones que permitan a la población acceder a los Bancos de Alimentos;
+
+IV. Coadyuvar en el ámbito de sus atribuciones para cumplir con el objetivo de promover la operación de los Bancos de Alimentos; y,
+
+V. En coordinación los sectores público, social y privado, promoverán la recuperación de los alimentos susceptibles de donación altruista, a efecto de que éstos sean entregados a los Bancos de Alimentos.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -223,13 +221,15 @@ El DIF elaborará y mantendrá actualizado un padrón que comprenderá a los pos
 
 El DIF por medio de su Director General será el encargado de supervisar, vigilar, otorgar y en su caso revocar la autorización a las Instituciones Privadas de Asistencia Social para recibir donaciones, cuando se compruebe que éstas han sido utilizadas para llevar a cabo un objeto social distinto al contenido en sus estatutos y los cuales regula la presente ley.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
+
 ###### ARTICULO 19º.
 
-Cualquier resolución emitida por el Sistema del Desarrollo Integral de la Familia en perjuicio de las Instituciones Privadas de Asistencia Social, puede ser impugnada mediante el procedimiento establecido en la Ley del Tribunal de lo Contencioso Administrativo del Estado de Baja California y en el cual se observen la formas y requisitos de la materia.
+Cualquier resolución emitida por el Sistema del Desarrollo Integral de la Familia en perjuicio de las Instituciones Privadas de Asistencia Social, puede ser impugnada mediante el procedimiento establecido en la Ley del Tribunal Estatal de Justicia Administrativa de Baja California y en el cual se observen las formas y requisitos de la materia.
 
 ### CAPITULO VI. DELITOS CONTRA LA ASISTENCIA SOCIAL
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 20º.
 
@@ -237,11 +237,11 @@ TIPO Y PUNIBILIDAD.- Se impondrá de tres días a tres años de prisión y hasta
 
 La misma pena señalada en el párrafo anterior se impondrá al empleado, asociado o directivo de una institución, que ordene la entrega de recursos donados, a personas con capacidad económica suficiente para proveérselos por ellos mismos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
 
-###### ARTICULO 21º.
+###### ARTICULO 21°.
 
-La misma sanción señalada en el artículo anterior, se le impondrá a los terceros que sean coautores del delito.
+La misma sanción señalada en el artículo anterior, se les impondrá a los terceros que sean coautores del delito.
 
 ## TRANSITORIOS
 
@@ -290,3 +290,9 @@ P.O. 1 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 262 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3 Y 4 DE LA LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA EN MATERIA ALIMENTARIA EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del estado de Baja California.
+
+P.O. 28 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 261 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS DE LOS ARTÍCULOS 1, 3, 4, 16, 19, 20 Y 21; LA ADICIÓN DE LOS ARTÍCULOS 3 BIS Y 16 BIS, DE LA LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA EN MATERIA ALIMENTARIA EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
