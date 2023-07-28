@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-151554"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-14"
-last_updated: "2022-12-19"
+last_updated: "2023-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2023.
 
 Ley publicada en la Segunda Sección del Número 1519 del Periódico Oficial del Estado de Campeche, el martes 14 de septiembre de 2021.
 
@@ -233,7 +233,9 @@ IV. Secretaría de Educación;
 
 V. Secretaría de Salud;
 
-VI. Secretaría de Desarrollo Territorial, Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+VI. Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas;
 
 VII. Secretaría de Desarrollo Económico;
 
@@ -323,7 +325,9 @@ XV. Establecer los lineamientos para la determinación de las tarifas de los ser
 
 XVI. Integrar los expedientes relativos a los nombramientos de las y los notarios públicos que expide el Poder Ejecutivo, inspeccionar su ejercicio, llevar el libro de registro y Archivo General de las Notarías del Estado, y ejercer las atribuciones de conformidad con la legislación notarial;
 
-XVII. Promover, planear, normar y dirigir proyectos de movilidad sustentable para crear nuevos paradigmas de transporte público, en coordinación con las autoridades federales, estatales y municipales correspondientes, así como con los sectores público y social;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+XVII. Promover, planear, normar y dirigir proyectos sostenibles para crear nuevos paradigmas de transporte público, en coordinación con la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas, con las autoridades federales, estatales y municipales correspondientes, así como con los sectores público y social, de conformidad con la Ley General de Movilidad y Seguridad Vial, y la legislación estatal correspondiente;
 
 XVIII. Tramitar lo referente a los artículos 78 y 86 de la Constitución Política del Estado de Campeche;
 
@@ -569,6 +573,8 @@ LV. Gestionar, solicitar y tramitar la obtención de donativos y donaciones en e
 
 LVI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
+
 ###### Artículo 29.
 
 A la Secretaría de Modernización Administrativa e Innovación Gubernamental le corresponde el despacho de los siguientes asuntos:
@@ -577,11 +583,7 @@ I. Formular y proponer a la Gobernadora o al Gobernador del Estado la política 
 
 II. Coordinar en el seno del Comité de Planeación para el Desarrollo del Estado de Campeche, la formulación, instrumentación y control, en su caso actualización, del Plan Estatal de Desarrollo, incluyendo la definición de las políticas para la programación del gasto e inversión pública; así como su diagnóstico y utilizando indicadores que muestren su factibilidad económica y social;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
-
 III. Proponer y diseñar, en coordinación con los Organismos Centralizados y las Entidades Paraestatales de la Administración Pública Estatal, los programas sectoriales, institucionales y especiales derivados del Plan Estatal de Desarrollo;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
 IV. Coordinar el Sistema Estatal de Planeación Democrática, así como procurar su alineamiento con el Sistema Nacional de Planeación y con los Objetivos de Desarrollo Sostenible de la Agenda 2030 de la Organización de las Naciones Unidas;
 
@@ -591,25 +593,25 @@ VI. Planear y supervisar las acciones del Comité de Planeación para el Desarro
 
 VII. Estimular la participación del sector social y privado en el COPLADECAM;
 
-VIII. Integrar y coordinar el Sistema Estatal de Estadística e Información para la Planeación, que opera el Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche, así como coordinar, con los Municipios y la Federación, el intercambio de la información en el marco del Sistema Nacional de Información Estadística y Geográfica;
+VIII. Integrar y coordinar el Sistema Estatal de Estadística e Información para la Planeación, que opera el Instituto de Información Estadística, Geografía y Catastral del Estado de Campeche, así como coordinar, con los Municipios y la Federación, el intercambio de la información en el marco del Sistema Nacional de Información Estadística y Geográfica;
 
 IX. Definir el desarrollo de mecanismos y estrategias de participación de la sociedad civil en las tareas de planeación, seguimiento y evaluación de las políticas, programas y proyectos de la Administración Pública Estatal;
 
 X. Verificar el cumplimiento de los programas y proyectos de los Organismos Centralizados y las Entidades Paraestatales de la Administración Pública Estatal, y elaborar los informes de seguimiento;
 
-XI. Evaluar la contribución de los Organismos Centralizados y las Entidades Paraestatales en el alcance de los objetivos específicos, estrategias, líneas de acción e indicadores establecidos en el Plan Estatal de Desarrollo y sus programas;
+XI. Evaluar la contribución de los Organismos Centralizados y las Entidades Paraestatales en el Alcance de los objetivos específicos, estrategias, líneas de acción e indicadores establecidos en el Plan Estatal de Desarrollo y sus programas;
 
 XII. Elaborar los lineamientos y recabar reportes electrónicos, impresos y gráficos en relación a los programas y acciones gubernamentales para formular el informe sobre el estado que guarda la Administración Pública Estatal de conformidad con la Constitución Política del Estado de Campeche y demás normatividad aplicable;
 
 XIII. Participar en los Comités de Planeación de Desarrollo Municipal y coadyuvar en su funcionamiento;
 
-XIV. Coadyuvar al fortalecimiento de las instancias de la administración pública municipal con acciones de asistencia técnica en materia de planeación;
+XIV. Coadyuvar al fortalecimiento de las instancias de la Administración Pública Municipal con acciones de asistencia técnica en materia de planeación;
 
 XV. Coordinar la integración del Programa Anual de Inversión Pública;
 
 XVI. Proporcionar la asesoría técnica y capacitación en la evaluación de la rentabilidad social de los programas y proyectos de inversión pública y de la conformación de la cartera estatal de programas y proyectos de inversión pública de alta rentabilidad social;
 
-XVII. Administrar el Registro Estatal de los Programas y Proyectos de Inversión Pública que los Organismos Centralizados y las Entidades Paraestatales, pretendan realizar bajo los lineamientos que establezca la persona titular del Organismo Centralizado o la persona que representante a la Entidad Paraestatal;
+XVII. Administrar el Registro Estatal de los Programas y Proyectos de Inversión Pública que los Organismos Centralizados y las Entidades Paraestatales, pretendan realizar bajo los lineamientos que establezca la persona titular del Organismo Centralizado o la persona que represente a la Entidad Paraestatal;
 
 XVIII. Coordinar el control y la evaluación del Plan Estatal de Desarrollo para adecuarlo a las previsiones de los planes que formule el Ejecutivo Federal e incidan localmente, así como coadyuvar al oportuno cumplimiento de sus objetivos y metas;
 
@@ -623,35 +625,17 @@ XXII. Convenir y coordinar con las autoridades federales los programas de invers
 
 XXIII. Promover la realización de proyectos a través de organismos gubernamentales, consultorías especializadas, organismos no gubernamentales, fondos de fomento y convenios existentes con otros Gobiernos, sean estos locales, nacionales e internacionales;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+XXIV. Auxiliar a la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas en la instrumentación de la política de asentamiento y desarrollo territorial y urbano, así como en materia de movilidad; y asegurar que los programas en esta materia sean congruentes con los objetivos, políticas y metas establecidos por el Plan Estatal y los planes Municipales de Desarrollo señalados en la Ley de Planeación del Estado de Campeche y sus Municipios;
 
-XXIV. Auxiliar a la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas en la instrumentación de la política de asentamiento y desarrollo territorial y urbano; y asegurar que los programas en esta materia sean congruentes con los objetivos, políticas y metas establecidos por el Plan Estatal y los Planes Municipales de Desarrollo señalados en la Ley de Planeación del Estado de Campeche y sus Municipios;
+XXV. Conducir y vigilar los procesos de certificación de la calidad en la prestación de servicios de la Administración Pública Estatal;
 
-XXV. Conducir las políticas, establecer las normas y emitir los criterios y dictámenes correspondientes en materia de estructuras orgánicas y ocupacionales;
+XXVI. Elaborar y mantener actualizado el Catálogo de Trámites y Servicios de la Administración Pública Estatal;
 
-XXVI. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2022)
+XXVII. Emitir los lineamientos para la elaboración de los manuales de organización, estructuras y procedimientos de la Administración Pública del Estado y, en su caso, autorizarlos;
 
-XXVII. Conducir y vigilar los procesos de certificación de la calidad en la prestación de servicios de la Administración Pública Estatal;
+XXVIII. Formular, conducir, ejecutar y evaluar el Programa de Mejora Regulatoria en coordinación con las instancias correspondientes de las autoridades federales y municipales; y
 
-XXVIII. Elaborar y mantener actualizado el Catálogo de Trámites y Servicios de la Administración Pública Estatal;
-
-XXIX. Emitir los lineamientos para la elaboración de los manuales de organización, estructuras y procedimientos de la Administración Pública del Estado y, en su caso, autorizarlos;
-
-XXX. Diseñar, elaborar y conducir las políticas de gestión de tecnologías e innovación de la Administración Pública Estatal, así como dirigir y ejecutar las acciones necesarias para su implementación y; fomentar el uso de tecnologías;
-
-XXXI. Definir los estándares en materia de Tecnologías de la Información y Comunicaciones (TIC’s), emitir la normatividad para el desarrollo, adquisición, arrendamiento y contratación de software, hardware y servicios de TIC’s, y emitir el dictamen de las solicitudes de adquisición o contratación en la materia realizadas por la Administración Pública Estatal;
-
-XXXII. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2022)
-
-XXXIII. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2022)
-
-XXXIV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2022)
-
-XXXV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2022)
-
-XXXVI. Formular, conducir, ejecutar y evaluar el Programa de Mejora Regulatoria en coordinación con las instancias correspondientes de las autoridades federales y municipales; y,
-
-XXXVII. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado.
+XXIX. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 30.
 
@@ -795,35 +779,51 @@ XXVII. Desarrollar actividades para la mejora de la calidad y especialización d
 
 XXVIII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2023)</small>
+
 ###### Artículo 32.
 
-A la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas le corresponde el despacho de los siguientes asuntos:
 
-I. Formular y conducir las políticas de asentamientos humanos, desarrollo urbano, ordenamiento territorial y vivienda, así como coordinar con los Municipios del Estado la elaboración de los instrumentos que la legislación local en la materia señale;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+I. Formular y conducir las políticas de asentamientos humanos, desarrollo urbano, ordenamiento territorial, y movilidad, así como coordinar con los Municipios del Estado la elaboración de los instrumentos que la legislación local en la materia señale;
 
 II. Proyectar y planear, en conjunto con los Organismos Centralizados y las Entidades Paraestatales correspondientes, la adecuada distribución de los asentamientos humanos y ordenación territorial de los centros de población, conurbaciones y zonas metropolitanas, bajo los criterios de Desarrollo Urbano, Regional y Sustentable, así como coordinarse a las acciones que en la materia convenga el Poder Ejecutivo Federal con las Entidades Federativas y sus Municipios, con la participación de los sectores privado y social;
 
-III. Formular, conducir y evaluar, en coordinación con la Gobernadora o el Gobernador del Estado, la política estatal de asentamientos humanos, ordenamiento territorial, desarrollo urbano y vivienda, así como la atención de los centros de población tendientes a formar parte de una zona metropolitana, con apego a las leyes, reglamentos y acuerdos vigentes en la materia.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+III. Formular, conducir y evaluar, en coordinación con la Gobernadora o el Gobernador del Estado, la política estatal de asentamientos humanos, ordenamiento territorial, desarrollo urbano, y movilidad, así como la atención de los centros de población tendientes a formar parte de una zona metropolitana, con apego a las leyes, reglamentos y acuerdos vigentes en la materia;
 
 IV. Prever, en el ámbito de sus competencias, las necesidades de tierra para desarrollo urbano y vivienda, considerando, en coordinación con las dependencias de la Administración Pública Federal y los gobiernos municipales, los mecanismos para satisfacer dichas necesidades;
 
 V. Apoyar en la elaboración y ejecución de programas para satisfacer las necesidades de suelo urbano y el establecimiento de provisiones y reservas territoriales para el adecuado desarrollo de los centros de población, en coordinación con las autoridades federales correspondientes y los gobiernos de las entidades federativas y municipales, y con la participación de los diversos grupos sociales;
 
-VI. Promover y concertar la ejecución de programas de vivienda y desarrollo urbano, con la participación de las autoridades federales y municipales correspondientes, y el sector social y privado, así como coadyuvar con el Ejecutivo Federal en la implementación de programas en la materia, a efecto de que el desarrollo estatal en este ámbito se oriente hacia una planeación sustentable;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
 
-VII. Favorecer la coordinación de los Entes Públicos responsables de las acciones relacionadas con la planeación, ordenamiento territorial, asentamientos humanos, desarrollo urbano y desarrollo metropolitano en los términos de la legislación aplicable en la materia;
+VI. Promover y concertar la ejecución de programas de movilidad y desarrollo urbano, con la participación de las autoridades federales y municipales correspondientes, y el sector social y privado, así como coadyuvar con el Ejecutivo Federal en la implementación de programas en la materia, a efecto de que el desarrollo estatal en este ámbito se oriente hacia una planeación sustentable;
 
-VIII. Formular, con la participación de las secretarías, dependencias y entidades de la Administración Pública del Estado correspondientes, así como con los Municipios y los Órganos que la legislación en la materia prevea, los programas en materia de ordenamiento territorial y urbano, asentamientos humanos y desarrollo metropolitano que la legislación correspondiente prevea;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+VII. Favorecer la coordinación de los Entes Públicos responsables de las acciones relacionadas con la planeación, para el ordenamiento territorial, los asentamientos humanos, el desarrollo urbano, el desarrollo metropolitano, y la movilidad en los términos de la legislación aplicable en la materia;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+VIII. Formular, con la participación de las Secretarías, Dependencias y Entidades de la Administración Pública del Estado correspondientes, así como con los Municipios y los Órganos que la legislación en la materia prevea, los programas en materia de ordenamiento territorial y urbano, asentamientos humanos y desarrollo metropolitano, así como de movilidad, que la legislación correspondiente prevea; así mismo, apoyar a la Secretaría de Bienestar en la formulación de sus programas de vivienda, en materias de su competencia;
 
 IX. Coadyuvar con las autoridades federales en la promoción y ejecución de programas de construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, en coordinación con los gobiernos estatales y municipales, con la participación de los sectores social y privado;
 
-X. Elaborar, en coordinación con los Organismos Centralizados y las Entidades Paraestatales que correspondan, los Municipios y las demás instancias que prevea el ordenamiento jurídico en la materia, y someter a la aprobación de la persona depositaria del Poder Ejecutivo del Estado, los programas en materia de ordenamiento territorial y urbano, asentamientos humanos y desarrollo metropolitano conforme a la legislación aplicable;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+X. Elaborar, en coordinación con los Organismos Centralizados y las Entidades Paraestatales que correspondan, los Municipios y las demás instancias que prevea el ordenamiento jurídico en la materia, y someter a la aprobación de la persona depositaria del Poder Ejecutivo del Estado, los programas en materia de ordenamiento territorial y urbano, asentamientos humanos y desarrollo metropolitano, así como de movilidad, conforme a la legislación general y estatal aplicable en las respectivas materias;
 
 XI. Proyectar, ejecutar, mantener y, en su caso, operar, directamente o por adjudicación a particulares, las obras de interés público y la infraestructura que no sean competencia de otros Organismos Centralizados, en cooperación y participación las comunidades organizadas o las personas beneficiarias de las mismas;
 
 XII. Elaborar, expedir y difundir las bases a las que deberán sujetarse los concursos para la ejecución de obras en el Estado, así como adjudicar, cancelar y supervisar el cumplimiento de los contratos de obra e infraestructura celebrados por la Administración Pública Estatal conforme a la legislación aplicable;
 
-XIII. Promover y vigilar el adecuado cumplimiento de la normatividad en materia de asentamientos humanos, ordenamiento del territorio, desarrollo urbano y vivienda, de acuerdo con la legislación aplicable en la materia;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+XIII. Promover y vigilar el adecuado cumplimiento de la normatividad en materia de asentamientos humanos, ordenamiento del territorio, desarrollo urbano, y movilidad, de conformidad con la legislación general y estatal en la materia;
 
 XIV. Participar en la elaboración de los métodos e instrumentos para identificar zonas de alto riesgo ante fenómenos naturales, para su prevención y mitigación, en coordinación con los Organismos Centralizados y las Entidades Paraestatales correspondientes;
 
@@ -837,7 +837,9 @@ XVIII. Formular y operar los planes y programas para el abastecimiento y tratami
 
 XIX. Conservar y ampliar la red de caminos y carreteras estatales a través de la administración y operación de la maquinaria y equipo del Estado;
 
-XX. Realizar las obras referentes a la ingeniería de transporte y al señalamiento de la vialidad en el Estado, en coordinación con los Organismos Centralizados y las Entidades Paraestatales que correspondan;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+XX. Realizar las obras referentes a la ingeniería de movilidad, transporte y al señalamiento de la vialidad en el Estado, en coordinación con los Organismos Centralizados y las Entidades Paraestatales que correspondan;
 
 XXI. Participar, en coordinación con los Organismos Centralizados y las Entidades Paraestatales que correspondan, en la determinación de las tarifas de los servicios de transporte de insumos para la construcción y materiales pétreos, sujetos a permisos o autorizaciones del Estado;
 
@@ -855,9 +857,13 @@ XXVII. Supervisar que las obras públicas se ejecuten conforme a las normas téc
 
 XXVIII. Expedir disposiciones administrativas para los contratos de obras y servicios relacionados con las mismas, así como para normar los acuerdos que las dependencias y entidades celebren para la ejecución de obra y servicios por administración directa, de conformidad con la legislación y normatividad correspondiente;
 
-XXIX. Definir la política estatal de vivienda, así como sus programas y acciones, para reducir el rezago a través del mejoramiento y ampliación de la vivienda existente y del fomento a la adquisición de vivienda nueva, observando las disposiciones legales y reglamentarias en materia de asentamientos humanos, uso de suelos, construcción, desarrollo urbano y servicios públicos, considerando la disponibilidad de agua que determinen las instancias correspondientes;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
 
-XXX. Promover una mayor y mejor coordinación interinstitucional que garantice la concurrencia y corresponsabilidad de los tres órdenes de gobierno para el ordenamiento sustentable del territorio y el impulso al desarrollo regional, urbano y de vivienda, a fin de lograr el crecimiento equilibrado de las diversas comunidades y centros de población de la Entidad; y
+XXIX. Cumplir con las disposiciones de la legislación general y la legislación estatal en materia de movilidad, definir sus políticas y actuar en coordinación con las Secretarías, Dependencias y Entidades de las Administraciones Públicas Federal, Estatal y Municipal en cumplimiento de las atribuciones y facultades que expresamente le establezcan las leyes generales y estatales en la materia;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+XXX. Promover una mayor y mejor coordinación interinstitucional que garantice la concurrencia y corresponsabilidad de los tres órdenes de gobierno para el ordenamiento sustentable del territorio y el impulso al desarrollo regional y urbano, a fin de lograr el crecimiento equilibrado de las diversas comunidades y centros de población de la Entidad; y
 
 XXXI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
@@ -933,7 +939,9 @@ III. Diseñar, implementar y supervisar programas de asistencia técnica y de ac
 
 IV. Promover la elaboración de estudios de evaluación de los suelos para lograr su aprovechamiento racional, su conservación, mejoramiento y debida explotación en una perspectiva de desarrollo económico sustentable;
 
-V. Realizar, con la participación que corresponda a las (sic) Secretaría de Modernización Administrativa e Innovación Gubernamental, de Medio Ambiente, Biodiversidad, Cambio Climático y Energía y de Desarrollo Territorial, Urbano y Obras Públicas, los estudios y proyectos de construcción y reconstrucción de la infraestructura hidráulica estatal para el fomento de las actividades agropecuarias y verificar que se realicen las obras correspondientes;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+V. Realizar, con la participación que corresponda a las Secretaría de Modernización Administrativa e Innovación Gubernamental, de Medio Ambiente, Biodiversidad, Cambio Climático y Energía y de Desarrollo Urbano, Movilidad y Obras Públicas, los estudios y proyectos de construcción y reconstrucción de la infraestructura hidráulica estatal para el fomento de las actividades agropecuarias y verificar que se realicen las obras correspondientes;
 
 VI. Conducir y evaluar las acciones para elevar el nivel de vida de los productores del sector agropecuario y apícola, en coordinación con las instituciones educativas, de investigación, organismos públicos y privados;
 
@@ -1045,7 +1053,13 @@ XXVIII. Coadyuvar con las políticas públicas para la atención de las niñas, 
 
 XXIX. Promover y garantizar a la población del Estado, el pleno ejercicio de los derechos sociales consagrados en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Campeche, asegurando el acceso de toda la población al desarrollo social;
 
-XXX. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2023)</small>
+
+XXX. Definir la política estatal de vivienda, , (sic) así como promover y realizar los programas y acciones para reducir el rezago social, a través del mejoramiento y ampliación de la vivienda existente y del fomento a la adquisición de vivienda nueva, observando las disposiciones legales y reglamentarias en materia de asentamientos humanos, uso de suelos, construcción, desarrollo urbano y servicios públicos, considerando la disponibilidad de agua que determinen las instancias correspondientes; y considerando la opinión de la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas, conforme a su ámbito de competencia;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2023)</small>
+
+XXXI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 36.
 
@@ -1531,7 +1545,9 @@ I. Proporcionar asistencia jurídica a la Gobernadora o al Gobernador del Estado
 
 II. Brindar apoyo técnico jurídico a la Gobernadora o al Gobernador del Estado en la elaboración de sus iniciativas de ley que deban ser enviadas al H. Congreso del Estado, así como en los reglamentos, acuerdos, contratos, convenios y demás instrumentos jurídicos que la Gobernadora o el Gobernador considere necesarios;
 
-III. Revisar los proyectos de leyes que se pretendan remitir a la Gobernadora o al Gobernador del Estado, elaborados por con los Organismos Centralizados y las Entidades Paraestatales de la Administración Pública y, en su caso, visarlos;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+III. Revisar los proyectos de leyes que se pretendan remitir a la Gobernadora o al Gobernador del Estado, elaborados por los Organismos Centralizados y las Entidades Paraestatales de la Administración Pública y, en su caso, visarlos;
 
 IV. Revisar los proyectos de reglamentos, acuerdos, decretos y demás instrumentos jurídicos previa firma de la Gobernadora o el Gobernador, y los que generen obligaciones para el Estado y, en su caso, visarlos;
 
@@ -1565,7 +1581,9 @@ XVIII. Poner a consideración de la Gobernadora o del Gobernador del Estado los 
 
 XIX. Realizar investigaciones y análisis jurídicos, estudios de derecho comparado y elaborar propuestas a la Gobernadora o al Gobernador del Estado, para sustentar, armonizar y actualizar permanentemente el marco jurídico estatal;
 
-XX. Presidir la Comisión de Estudios Jurídicos, la Comisión de Temas Constitucionales y Proyectos Especiales, y la Comisión de Armonización Legislativa, todas del Poder Ejecutivo del Estado, las cuales tendrán la naturaleza, el objeto, las funciones y la estructura que se establezcan en el Reglamento correspondiente;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+XX. Presidir la Comisión de Estudios Jurídicos del Poder Ejecutivo del Estado, la cual tendrá la naturaleza, el objeto, las funciones y la estructura que se establezcan en el Reglamento correspondiente;
 
 XXI. Designar y remover a las personas titulares de las direcciones jurídicas o sus homólogos de los Organismos Centralizados y las Entidades Paraestatales;
 
@@ -1619,9 +1637,9 @@ XIII. Diseñar y ejecutar la política pública para el fortalecimiento del segu
 
 XIV. Celebrar los convenios, acuerdos y demás instrumentos jurídicos que resulten necesarios con instituciones educativas, organizaciones no gubernamentales, personas morales de carácter civil y profesionistas o expertos para el cumplimiento de la atribución señalada en la fracción XIII que antecede;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
 
-XV. Formular la política pública en materia de zonas metropolitanas en coordinación con los demás Organismos Centralizados y Entidades Paraestatales de la Administración Pública Estatal y los Municipios que resulten necesarios, especialmente con la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas, de conformidad con la legislación vigente en materia de integración y desarrollo de zonas metropolitanas;
+XV. Formular la política pública en materia de zonas metropolitanas en coordinación con los demás Organismos Centralizados y Entidades Paraestatales de la Administración Pública Estatales y los Municipios que resulten necesarios, especialmente con la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas, de conformidad con la legislación vigente en materia de integración y desarrollo de zonas metropolitanas;
 
 XVI. Fungir como enlace con las autoridades federales, así como con las demás Entidades Federativas y sus Municipios, organizaciones civiles y demás instituciones en materia de integración y desarrollo de zonas metropolitanas.
 
@@ -1677,9 +1695,17 @@ XXXV. Ejercer las atribuciones que establezca la Ley de Firma Electrónica Avanz
 
 XXXVI. Conformar y presidir el Consejo Técnico de Operación de Tecnologías de Información y Comunicación de la Administración Pública Estatal; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2023)</small>
 
-XXXVII. Las demás atribuciones que atribuciones que (sic) le señalen las leyes y reglamentos vigentes en el Estado.
+XXXVII. Diseñar, elaborar y conducir las políticas de gestión de tecnologías e innovación de la Administración Pública Estatal, así como dirigir y ejecutar las acciones necesarias para su implementación; y fomentar el uso de tecnologías;
+
+> <small>(ADICIONADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2023)</small>
+
+XXXVIII. Definir los estándares en materia de Tecnologías de la Información y Comunicaciones (TIC´s), emitir la normatividad para el desarrollo, adquisición, arrendamiento y contratación de software, hardware y servicios TIC´s y emitir el dictamen de las solicitudes de adquisición o contratación en la materia realizadas por la Administración Pública Estatal; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE JULIO DE 2023)</small>
+
+XXXIX. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado de Campeche.
 
 ### CAPÍTULO CUARTO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -1866,3 +1892,21 @@ El Poder Ejecutivo del Estado deberá realizar las modificaciones a los Reglamen
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 28 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 251 POR EL QUE “SE REFORMA LA FRACCIÓN VI DEL APARTADO A DEL ARTÍCULO 22; LA FRACCIÓN XVII DEL ARTÍCULO 27; EL ARTÍCULO 29; EL PÁRRAFO PRIMERO Y LAS FRACCIONES I, III, VI, VII, VIII, X, XIII, XX, XXIX Y XXX DEL ARTÍCULO 32; LA FRACCIÓN V DEL ARTÍCULO 34; LA FRACCIÓN XXX DEL ARTÍCULO 35; LAS FRACCIONES III Y XX DEL ARTÍCULO 42; LAS FRACCIONES XV Y XXXVII DEL ARTÍCULO 45 Y, SE ADICIONA LA FRACCIÓN XXXI AL ARTÍCULO 35 Y LAS FRACCIONES XXXVIII Y XXXIX AL ARTÍCULO 45, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal contará con un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, para emitir el nuevo Reglamento Interior de la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas, considerando lo dispuesto en el mismo.
+
+TERCERO.- Todas las referencias hechas a la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas en otros ordenamientos del marco jurídico estatal deberán entenderse hechas a la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- De conformidad con la Ley General de Movilidad y Seguridad Vial, en cuanto se emita la legislación estatal en dichas materias, deberán tomarse en cuenta las facultades atribuidas a la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas, de conformidad con el presente Decreto.
+
+QUINTO.- La Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas seguirá contando con el presupuesto fijado para el presente ejercicio fiscal en la ley correspondiente; sin embargo, esta Secretaría podrá redistribuir sus Unidades Administrativas para el buen cumplimiento del presente Decreto, previa validación de la Secretaría de Administración y Finanzas.
+
+SEXTO.- A partir de la publicación del presente Decreto, la Consejería Jurídica, contará con un plazo de 180 días naturales para modificar su Reglamento Interior para armonizarlo con lo dispuesto en el mismo.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan a lo contenido en el presente Decreto.
