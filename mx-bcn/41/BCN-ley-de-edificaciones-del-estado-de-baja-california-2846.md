@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2022-02-11"
+last_updated: "2023-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -117,9 +117,9 @@ Señales de acceso: Símbolos convencionales utilizados para señalar la accesib
 
 FUNDAMENTOS.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
 
-Las atribuciones en materia de edificaciones están definidas de conformidad con lo dispuesto en el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados internacionales de los que México forma parte, en la Ley General de Asentamientos Humanos, en la Ley de Desarrollo Urbano del Estado de Baja California y en las Leyes Orgánicas de la Administración Pública Estatal y Municipal del Estado de Baja California. Del mismo modo, toda edificación deberá cumplir con lo establecido en los ordenamientos legales enunciados, con lo señalado en los Programas de Desarrollo Urbano, así como las demás disposiciones federales, estatales y municipales que concurran en el ámbito de aplicación de esta Ley.
+Las atribuciones en materia de edificaciones están definidas de conformidad con lo dispuesto en el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que México forma parte, en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y en la Ley de Desarrollo Urbano del Estado de Baja California y en las Leyes Orgánicas de la Administración Pública Estatal y Municipal del Estado de Baja California. Del mismo modo, toda edificación deberá cumplir con lo establecido en los ordenamientos legales enunciados, con lo señalado en los Programas de Desarrollo Urbano, así como las demás disposiciones federales, estatales y municipales que concurran en el ámbito de aplicación de esta Ley.
 
 ### CAPITULO II. Autoridades y Atribuciones
 
@@ -127,7 +127,9 @@ Las atribuciones en materia de edificaciones están definidas de conformidad con
 
 ATRIBUCIONES DEL EJECUTIVO ESTATAL.
 
-Corresponde al Ejecutivo Estatal las siguientes atribuciones que ejercerá a través de la Secretaría de Asentamientos Humanos y Obras Públicas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JULIO DE 2023)</small>
+
+Corresponde al Ejecutivo Estatal las siguientes atribuciones que ejercerá a través de la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
 
 I. Elaborar Dictámenes de Congruencia respecto del Plan Estatal de Desarrollo en los casos definidos en el Artículo 60 de esta Ley; y,
 
@@ -195,7 +197,9 @@ Se establece como Autoridad Competente a los Gobiernos Municipales, para hacer c
 
 CONDICIONES GENERALES.
 
-La materia de edificaciones e instalaciones deberá regularse por los Planes o Programas de Desarrollo Urbano y demás disposiciones aplicables a los usos, destinos, reservas y previsiones. Esta Ley se remite, a la Ley de Desarrollo Urbano del Estado de Baja California para regir en las modalidades aplicables a las Edificaciones; como son los Planes o Programas Estatal, Municipales, de Centro de Población y Parciales de Desarrollo Urbano así como los Programas Sectoriales de Desarrollo Urbano, previstos en la Ley General de Asentamientos Humanos.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
+
+La materia de edificaciones e instalaciones deberá regularse por los Planes o Programas de Desarrollo Urbano y demás disposiciones aplicables a los usos, destinos, reservas y previsiones. Esta Ley se remite, a la Ley de Desarrollo Urbano del Estado de Baja California para regir en las modalidades aplicables a las Edificaciones; como son los Planes o Programas Estatal, Municipales, de Centro de Población y Parciales de Desarrollo Urbano así como los Programas Sectoriales de Desarrollo Urbano, previstos en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
@@ -343,7 +347,9 @@ CONSERVACION DEL PATRIMONIO HISTORICO, CULTURAL Y AREAS DE INTERES AMBIENTAL.
 
 En los monumentos o zonas de monumentos a que se refiere la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos o aquellos inmuebles que sean testimonio de una etapa histórica de la región, de un suceso relevante; que sean expresión del gusto de una época, representativo de una región o localidad; o bien que hayan sido útiles, característicos y tradicionales en el desarrollo de una comunidad, no importando modestia o grandiosidad, no podrán ejecutarse nuevas construcciones, modificaciones, demoliciones o agregados de cualquier naturaleza sin la autorización del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes.
 
-Así mismo de conformidad con la Ley General y Estatal del Equilibrio Ecológico y Protección al Ambiente y en los Planes o Programas de Desarrollo Urbano, se determinarán las áreas o predios que por su interés ambiental constituyan sitios a conservar dentro del contexto municipal, ya sea por su topografía, su conformación geológica, su vegetación, su fauna o por la presencia de cuerpos o corrientes de agua superficial o subterránea con atractivo paisajístico, cultural o recreativo, así como aquellas que puedan constituir miradores o sitios donde pueda apreciarse el paisaje urbano o natural.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
+
+Así mismo de conformidad con la Ley General y Ley de Protección al Ambiente para el Estado de Baja California y en los Planes o Programas de Desarrollo Urbano, se determinarán las áreas o predios que por su interés ambiental constituyan sitios a conservar dentro del contexto municipal, ya sea por su topografía, su conformación geológica, su vegetación, su fauna o por la presencia de cuerpos o corrientes de agua superficial o subterránea con atractivo paisajístico, cultural o recreativo, así como aquellas que puedan constituir miradores o sitios donde pueda apreciarse el paisaje urbano o natural.
 
 El uso del suelo y las características de las construcciones que puedan levantarse en estos lugares, estarán sujetos a las disposiciones que garanticen la conservación de estas áreas.
 
@@ -401,7 +407,9 @@ Las edificaciones deberán cumplir con los siguientes mínimos:
 
 I. ILUMINACION NATURAL. Las dimensiones mínimas, orientaciones y características de los vanos para iluminación natural incluyendo las especificaciones para iluminación cenital, deberán establecerse de acuerdo al uso de las edificaciones.
 
-II. ILUMINACION ARTIFICIAL. Toda construcción deberá contar con iluminación artificial de acuerdo con los niveles mínimos que se indican en el Reglamento de Instalaciones Eléctricas de la Secretaría de Comercio y Fomento Industrial, los Reglamentos y sus Normas Técnicas Complementarias.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
+
+II. ILUMINACION ARTIFICIAL. Toda construcción deberá contar con iluminación artificial de acuerdo con los niveles mínimos que se indican en la normatividad de la autoridad federal, sus Reglamentos y sus Normas Técnicas Complementarias.
 
 III. VENTILACION NATURAL. Para ventilar en forma natural las edificaciones habitables, se definirán las dimensiones mínimas y características de sus vanos, en función de las condiciones climatológicas de la región.
 
@@ -475,7 +483,9 @@ Toda edificación pública deberá contar con sistemas adecuados que tengan como
 
 II. AGUAS PLUVIALES Y RESIDUALES.
 
-Se deberá especificar el tratamiento y conducción de aguas pluviales en todo (sic) edificación dependiendo de los servicios de alcantarillado pluvial de la localidad. Se exigirá la realización de estudios de factibilidad de tratamiento y reutilización de aguas residuales donde se estime conveniente, sujetándose a lo dispuesto por la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California y demás ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
+
+Se deberá especificar el tratamiento y conducción de aguas pluviales en toda edificación dependiendo de los servicios de alcantarillado pluvial de la localidad. Se exigirá la realización de estudios de factibilidad de tratamiento y reutilización de aguas residuales donde se estime conveniente, sujetándose a lo dispuesto por la Ley de Protección al Ambiente para el Estado de Baja California y demás ordenamientos aplicables.
 
 Se proporcionarán los mecanismos para las conexiones de los albañales a la red pública y se especificarán los materiales, diámetros y pendientes mínimas en líneas de desagüe, incluyendo las dimensiones de los registros sanitarios.
 
@@ -591,7 +601,9 @@ Toda edificación o instalación que preste un servicio al público deberá gara
 
 Para toda edificación e instalación según su tipo y magnitud, deberán determinarse las normas de ubicación y protección de los depósitos de basura.
 
-El manejo de los residuos tóxicos se hará de acuerdo con lo que señalan las Leyes: General del Equilibrio Ecológico y la Protección al Ambiente y la del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California y demás disposiciones en materia de ecología.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
+
+El manejo de los residuos tóxicos se hará de acuerdo con lo que señalan las Leyes: General del Equilibrio Ecológico y Protección al Ambiente y la Ley de Protección al Ambiente para el Estado de Baja California y demás disposiciones en materia de (sic) ambiental.
 
 ### CAPITULO II. Requerimientos de Comunicación y Prevención de Emergencias
 
@@ -765,7 +777,9 @@ CONSIDERACIONES GENERALES.
 
 Los Reglamentos detallarán las formas de obtener las características y clasificaciones del subsuelo, ya que en todo sitio donde se va a construir debe realizarse una investigación que defina de manera confiable los parámetros de diseño de la cimentación, la variación de los mismos en el predio y los procedimientos de construcción a utilizar. Las cimentaciones deben ser apropiadas a las construcciones que sustentan y desplantadas directamente o piloteadas sobre terreno firme.
 
-Las construcciones no pueden en ningún caso edificarse sobre tierra vegetal, materiales degradables o rellenos sueltos.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
+
+Las construcciones no pueden en ningún caso edificarse sobre tierra vegetal, materiales degradables o rellenos sueltos, ni en contravención de los atlas de riesgos, ni los planes y programas de desarrollo urbano.
 
 La capacidad de carga de los suelos de cimentación debe determinarse por métodos analíticos o empíricos suficientemente apoyados en evidencias experimentales o con pruebas de carga.
 
@@ -903,7 +917,9 @@ Los reglamentos determinarán las formas y términos de aplicación de este art�
 
 DISPOSICIONES GENERALES.
 
-Los Reglamentos contendrán las medidas técnicas que el responsable de cualquier edificación deberá adoptar durante su ejecución para proteger la integridad física de los trabajadores y de terceros, así como el cumplimiento de los diversos Ordenamientos legales relativos a la seguridad, higiene y medidas preventivas de accidentes de trabajo.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
+
+Los Reglamentos contendrán las medidas técnicas que el responsable de cualquier edificación deberá adoptar durante su ejecución para proteger la integridad física de los trabajadores y de terceros, así como el cumplimiento de los diversos ordenamientos legales y Normas Oficiales Mexicanas relativas a la seguridad, higiene y medidas preventivas de accidentes de trabajo.
 
 Toda obra deberá contar con los servicios mínimos para los trabajadores, como agua potable y sanitarios entre otros, que aseguren condiciones dignas de trabajo.
 
@@ -929,7 +945,9 @@ Los Reglamentos especificarán los dispositivos que estarán bajo constante revi
 
 DISPOSICIONES SOBRE LOS MATERIALES.
 
-Los materiales y procedimientos constructivos empleados en la construcción deberán coincidir con lo especificado en los planos constructivos aprobados, en cuanto a resistencia, calidad y características, y deberán satisfacer las normas de calidad de la Secretaría de Comercio y Fomento Industrial, los Reglamentos y sus Normas Técnicas Complementarias.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
+
+Los materiales y procedimientos constructivos empleados en la construcción deberán coincidir con lo especificado en los planos constructivos aprobados, en cuanto a resistencia, calidad y características, y deberán satisfacer las normas de calidad de la Secretaría de Economía, los Reglamentos y sus Normas Técnicas Complementarias.
 
 A los materiales, se les deberán realizar pruebas y muestreos necesarios de calidad y resistencia, para verificar si coinciden con lo especificado en los planos aprobados.
 
@@ -987,7 +1005,9 @@ El uso de explosivos en excavaciones y demoliciones queda condicionado a la auto
 
 MEDIDAS DE PROTECCION.
 
-En los casos de deterioro del medio ambiente por el uso de un edificio o sus instalaciones, se acatará la Ley del Equilibrio Ecológico y Protección al Ambiente de (sic) Estado de Baja California y se tomarán todas las medidas necesarias para no perturbar el equilibrio ecológico.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
+
+En los casos de deterioro del medio ambiente por el uso de un edificio o sus instalaciones, se acatará la Ley de Protección al Ambiente de (sic) Estado de Baja California y se tomarán todas las medidas necesarias para no perturbar el equilibrio ambiental.
 
 ###### ARTICULO 55.
 
@@ -1299,7 +1319,9 @@ II. Para ser Corresponsable:
 
 a). Registrar ante la Unidad Administrativa del Municipio donde tenga su residencia: la cédula profesional, domicilio y forma;
 
-b). Conocer la presente Ley y su Reglamento en lo relativo a la especialidad en que pretende su registro de Corresponsable, y las normas técnicas de la Secretaría de Comercio y Fomento Industrial para el caso de los Ingenieros Electromecánicos;
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
+
+b). Conocer la presente Ley y su Reglamento en lo relativo a la especialidad en que pretende su registro de Corresponsable, y las normas técnicas de la Secretaría de Economía para el caso de las y los Ingenieros Electromecánicos;
 
 c). Los cambios de domicilio deberán notificarse por escrito en un plazo no mayor de treinta días después de efectuado éste.
 
@@ -1451,7 +1473,9 @@ Contra la resolución que se dicte, no procederá recurso administrativo alguno.
 
 SANCIONES A FUNCIONARIOS.
 
-Cuando los funcionarios y empleados Municipales otorguen Licencias de Construcción, contraviniendo esta Ley o sus Reglamentos y si en los casos que señala el Artículo 60 de esta Ley no solicitan el Dictamen de Congruencia correspondiente, se les sancionará con amonestación y suspensión de su cargo durante 30 días y en caso de reincidencia se le separará de su puesto, ésto sin perjuicio de las responsabilidades de tipo penal en que incurran y de las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California o las impuestas por el Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2023)</small>
+
+Cuando las y los funcionarios y empleados Municipales otorguen Licencias de Construcción, contraviniendo esta Ley o sus Reglamentos y si en los casos que señala el Artículo 60 de esta Ley no solicitan el Dictamen de Congruencia correspondiente, se les sancionará con amonestación y suspensión de su cargo durante 60 días y en caso de reincidencia se le separará de su puesto, ésto sin perjuicio de las responsabilidades de tipo penal en que incurran y de las sanciones previstas en la Ley de Responsabilidades Administrativas del Estado de Baja California o las impuestas por el Tribunal Estatal de Justicia Administrativa de Baja California.
 
 ###### ARTICULO 76.
 
@@ -1612,3 +1636,9 @@ PRIMERO. El presente decreto entrara en vigor a partir del día siguiente de su 
 SEGUNDO. Los Ayuntamientos del Estado contaran con un plazo de 120 días naturales a partir de la publicación del Presente Decreto, para realizar las modificaciones a sus reglamentos.
 
 TERCERO. Una vez publicada la presente reforma y modificados que sean los reglamentos correspondientes en cada Municipio, los propietarios de estacionamientos contarán con un plazo de 180 días para realizar los contratos de seguros, así como para la declaración expresa de responsabilidad, ya sea en su boletaje, contrato o anuncio visible dentro del lugar.
+
+P.O. 28 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 254 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 5, 9, 15, 20, 21, 24, 35, 46, 48, 54, 69, 75, DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA ADICIÓN DE UN ARTÍCULO 63 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
