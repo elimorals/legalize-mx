@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-administrativas-del-estado-de-baja-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-07"
-last_updated: "2020-09-02"
+last_updated: "2023-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2023.
 
 Ley publicada en el Número Especial al Periódico Oficial del Estado de Baja California, el lunes 7 de agosto de 2017.
 
@@ -596,6 +596,10 @@ El servidor público que no entregue, incumpla, retrase, oculte, destruya, alter
 ###### Artículo 63.
 
 Cometerá desacato el servidor público que, tratándose de requerimientos o resoluciones de autoridades fiscalizadoras, de control interno, judiciales, electorales o en materia de defensa de los derechos humanos o cualquier otra competente, proporcione información falsa, así como no dé respuesta alguna, retrase deliberadamente y sin justificación la entrega de la información, a pesar de que le hayan sido impuestas medidas de apremio conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2023)</small>
+
+Artículo 63 BIS. Será responsable de atentar contra el desarrollo urbano y los asentamientos humanos, la persona servidora o servidor público que, contraviniendo el Atlas de Riesgos o los planes o programas de desarrollo urbano expedidos en términos de las leyes aplicables, expida licencia, permiso, autorización, constancia o dictamen para realizar cualquier tipo de construcción, obra de infraestructura, equipamiento urbano, acción de urbanización o asentamientos humanos.
 
 ###### Artículo 64.
 
@@ -1870,5 +1874,11 @@ P.O. 11 DE OCTUBRE DE 2019.
 P.O. 2 DE SEPTIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 102 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA Y A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2023.
+
+## N. DE E. TRANSITORIO DEL “DECRETO NO. 254 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 5, 9, 15, 20, 21, 24, 35, 46, 48, 54, 69, 75, DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA ADICIÓN DE UN ARTÍCULO 63 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
