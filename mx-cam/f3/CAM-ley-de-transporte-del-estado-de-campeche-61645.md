@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transporte-del-estado-de-campeche-61645"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2017-12-27"
+last_updated: "2023-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE TRANSPORTE DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 28 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL MISMO DÍA EN QUE ENTRE EN VIGOR EL REGLAMENTO DE TRANSPORTE EMANADO DE DICHA LEY.]</small>
+
 LEY DE TRANSPORTE DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2023 (ABROGADA).
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -1788,3 +1790,39 @@ CUARTO.- Lo establecido en el segundo párrafo del artículo 70 de esta Ley, rel
 QUINTO.- Se concede un plazo de 120 días naturales contados a partir de la fecha de inicio de vigencia de este decreto, con el propósito de que aquellos concesionarios que tengan o hayan tenido concesión de transporte en la modalidad de Mototaxis y Tricitaxis se regularicen en el pago de sus adeudos fiscales en materia de derechos en concepto de transporte público. Los concesionarios que se adhieran a esta disposición tendrán el beneficio de enterar sus adeudos a la autoridad fiscal correspondiente, previos los trámites administrativos ante el Instituto Estatal del Transporte con las nuevas tarifas establecidas en el presente decreto.
 
 El pago de estos derechos no dará lugar a devolución alguna y estará sujeto a los plazos de prescripción establecidos en el Código Fiscal del Estado de Campeche.
+
+P.O. 28 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 250 POR EL QUE “SE EXPIDE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche, con las salvedades establecidas en los artículos transitorios siguientes.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal contará con un plazo no mayor a noventa días naturales, para expedir el Reglamento de Transporte emanado de la presente Ley.
+
+Conforme a la disposición del párrafo que antecede, la Ley de Transporte del Estado de Campeche, expedida mediante decreto número 160, publicado en el Periódico Oficial del Estado No. 4055 de fecha 09 de junio de 2008, quedará abrogada el mismo día en que entre en vigor el Reglamento de Transporte emanado de la presente Ley, por lo que la Ley de Transporte del Estado de Campeche continuará vigente hasta en tanto suceda lo anterior.
+
+TERCERO.- De conformidad con el artículo Transitorio anterior, lo dispuesto en el Capítulo V del Título Sexto entrará en vigor el mismo día que entre en vigor el Reglamento de Transporte emanado de la presente Ley.
+
+CUARTO.- A partir de la entrada en vigor del presente Decreto, todas las concesiones y permisos para la prestación del servicio público de transporte, otorgadas conforme a la Ley de Transporte del Estado de Campeche que se abroga, continuarán vigentes en los mismos términos en los que fueron otorgados hasta el término de su vigencia.
+
+QUINTO.- A partir de la entrada en vigor del presente Decreto, la Secretaría de Gobierno de la Administración Pública del Estado de Campeche tendrá un plazo de sesenta días naturales para realizar todas las adecuaciones necesarias a su Reglamento Interior para que, según su disponibilidad presupuestal y financiera, se dé cumplimiento a lo dispuesto en el artículo 133 de la presente Ley.
+
+SEXTO.- Las modificaciones que, en virtud de la publicación del presente Decreto, deban realizarse a la Ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche y a la Ley para la Venta Ordenada y Consumo Responsable de Bebidas Alcohólicas del Estado de Campeche, se deberán expedir en un plazo no mayor a ciento ochenta días naturales contados a partir de la publicación del presente Decreto.
+
+De igual forma, se contará con un plazo de ciento ochenta días naturales para promover las demás modificaciones a las leyes del marco jurídico Estatal que deban realizarse con motivo de la entrada en vigor de la Ley que se expide.
+
+SÉPTIMO.- Las modificaciones a la Ley Orgánica de la Administración Pública del Estado de Campeche deberán entrar en vigor el mismo día que la entrada en vigor del presente Decreto, debido a los cambios de denominación y atribuciones de la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas del Estado de Campeche.
+
+OCTAVO.- El Sistema Estatal de Movilidad y Seguridad Vial deberá instalarse en un plazo no mayor a noventa días naturales contados a partir de la publicación del presente Decreto. El instrumento jurídico en el cual se regule su actuación, deberá emitirse en un plazo de noventa días naturales contados a partir del día de su instalación.
+
+Asimismo, todos los planes, programas y/o lineamientos que deban expedirse conforme a lo dispuesto en la Ley que se expide, deberán emitirse en un plazo no mayor a un año, contado éste a partir de la instalación del Sistema Estatal de Movilidad y Seguridad Vial.
+
+Las autoridades correspondientes promoverán la creación de los observatorios ciudadanos señalados en el presente Decreto, en un plazo no mayor a un año contado a partir de la publicación del mismo.
+
+De igual forma, los Consejos a los que se hace referencia en el artículo 42 de la Ley que se expide, deberán quedar instalados en un plazo no mayor a ciento ochenta días naturales a partir de la publicación del presente Decreto.
+
+NOVENO.- Los Municipios del Estado de Campeche, a través de sus HH. Ayuntamientos, deberán realizar los cambios en su normatividad interna en un plazo no mayor a ciento ochenta días naturales contados a partir de la publicación del presente Decreto.
+
+De igual forma, para el ejercicio de las atribuciones que la Ley que se expide le confieren, seguirán contando con el mismo presupuesto con el que actualmente tienen, por lo que cualquier adecuación a su organización administrativa deberá realizarse conforme al presupuesto que tienen asignado al día de hoy.
+
+DÉCIMO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico Estatal que se opongan a lo contenido en el presente Decreto.
