@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2023-04-19"
+last_updated: "2023-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 19 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 28 DE JULIO DE 2023.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -2018,6 +2018,14 @@ Los errores contenidos en las publicaciones, deben corregirse con la errata resp
 ###### Artículo 127.
 
 La Secretaría General debe disponer la distribución y venta de los ejemplares de la Gaceta Municipal y de sus suplementos, auxiliándose para tal efecto de la dependencia correspondiente. Cuyo costo es determinado en la Ley de Ingresos municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 28 DE JULIO DE 2023)</small>
+
+La distribución debe ser de manera electrónica a través del correo institucional de los funcionarios públicos, así como estar disponible en el Portal de Internet.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 28 DE JULIO DE 2023)</small>
+
+La impresión de ejemplares se reduce a la mínima indispensable para el cumplimiento de las disposiciones legales correspondientes, para cubrir la demanda de su venta; y para efectos de archivo, control y consulta.
 
 ###### Artículo 128.
 
@@ -8424,3 +8432,13 @@ Primero. Publíquese el presente ordenamiento en la Gaceta Municipal de Guadalaj
 Segundo. El presente ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicado el presente ordenamiento, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 28 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA".]
+
+Primero. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
+
+Segundo. La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicada la presente reforma, remítase mediante oficio un tanto de ella al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
