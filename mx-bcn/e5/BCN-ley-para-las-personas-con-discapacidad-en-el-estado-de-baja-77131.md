@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-las-personas-con-discapacidad-en-el-estado-de-baja-771
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2023-01-27"
+last_updated: "2023-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2023.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -751,9 +751,17 @@ V.- Impulso a programas de capacitación y adiestramiento laboral, cursos especi
 
 VI.- Promoción al desarrollo de programas de autoempleo;
 
-VII.- Impulso en coordinación con las autoridades educativas estatales y federales, para el establecimiento de carreras técnicas que se adapten al mercado laboral existente en el Estado, y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2023)</small>
 
-VIII.- Las demás que sean necesarias para el cumplimiento de esta Ley.
+VII.- Impulso en coordinación con las autoridades educativas estatales y federales, para el establecimiento de carreras técnicas que se adapten al mercado laboral existente en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2023)</small>
+
+VIII.- Prohibir cualquier tipo de discriminación por motivo de discapacidad en la selección, contratación, remuneración, tipo de empleo, reinserción, continuidad, capacitación, liquidación laboral y promoción profesional; asegurando condiciones de trabajo accesibles, seguras y saludables; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2023)</small>
+
+IX.- Las demás que sean necesarias para el cumplimiento de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2022)</small>
 
@@ -1518,3 +1526,9 @@ P.O. 27 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 200 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 6 QUINQUIES, 45, 63 Y 64; LA DENOMINACIÓN DEL TÍTULO CUARTO; LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO CUARTO; LA ADICIÓN DE UN CAPÍTULO SEGUNDO DENOMINADO SANCIONES DE LOS SERVIDORES PÚBLICOS AL TÍTULO CUARTO, COMO TAMBIÉN LA ADICIÓN DE UN ARTÍCULO 65, TODOS DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA"]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 255 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 19, DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
