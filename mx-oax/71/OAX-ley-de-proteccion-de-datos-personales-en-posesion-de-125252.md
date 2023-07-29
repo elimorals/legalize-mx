@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-de-datos-personales-en-posesion-de-125252"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-29"
-last_updated: "2021-06-19"
+last_updated: "2023-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el miércoles 29 de noviembre de 2017.
 
@@ -973,11 +973,25 @@ IV. Informar al titular o su representante el monto de los costos a cubrir por l
 
 V. Proponer al Comité de Transparencia los procedimientos internos que aseguren y fortalezcan mayor eficiencia en la gestión de las solicitudes para el ejercicio de los derechos ARCO;
 
-VI. Aplicar instrumentos de evaluación de calidad sobre la gestión de las solicitudes para el ejercicio de los derechos ARCO; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-VII. Asesorar a las áreas adscritas al responsable en materia de protección de datos personales.
+VI. Aplicar instrumentos de evaluación de calidad sobre la gestión de las solicitudes para el ejercicio de los derechos ARCO;
 
-Los responsables que en el ejercicio de sus funciones sustantivas lleven a cabo tratamientos de datos personales relevantes o intensivos, podrán designar a un oficial de protección de datos personales, especializado en la materia, quien realizará las atribuciones mencionadas en este artículo y formará parte de la Unidad de Transparencia.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+VII. Asesorar a las áreas adscritas al responsable en materia de protección de datos personales; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+VIII. Auxiliar al responsable en coordinación con las demás áreas y el Comité de Transparencia, para el cumplimiento de los principios, deberes y obligaciones que señala esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
+Los responsables que en el ejercicio de sus funciones sustantivas lleven a cabo tratamientos de datos personales relevantes o intensivos, deberán designar a un oficial de protección de datos personales, especializado en la materia, quien realizará las atribuciones mencionadas en este artículo y formará parte de la Unidad de Transparencia.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+Para el caso en el que el tratamiento de datos personales sea mayormente de mujeres, niñas, niños y adolescentes, el o la oficial de protección de datos personales deberá tener conocimiento en materia de derechos humanos y no haber sido condenado o condenada por resolución firme por delitos contra niñas, niños y adolescentes, cualquier delito de género o por violencia familiar.
 
 ###### Artículo 76.
 
@@ -1528,3 +1542,11 @@ P.O. 19 DE JUNIO DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1474.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES VI Y VII DEL PÁRRAFO SEGUNDO, EL PÁRRAFO TERCERO; Y SE ADICIONA UNA FRACCIÓN VIII AL PÁRRAFO SEGUNDO Y UN PÁRRAFO CUARTO, TODOS DEL ARTÍCULO 75 DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
