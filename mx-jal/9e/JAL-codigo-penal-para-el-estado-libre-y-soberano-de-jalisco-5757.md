@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2023-06-03"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE JULIO DE 2023.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -177,11 +179,11 @@ III. La principal excluirá a la subsidiaria.
 
 ### CAPITULO I. Reglas Generales sobre Delitos y Responsabilidades de los Partícipes
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
 ###### Art. 12.
 
-Delito es el acto u omisión que concuerda exactamente con la conducta que, como tal, se menciona expresamente en este Código o en las leyes especiales.
+Delito es el acto u omisión que concuerda exactamente con la conducta que, como tal, se menciona expresamente en este Código, en las leyes generales o en las leyes especiales.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1935,11 +1937,11 @@ Cuando el delito se cometa valiéndose de alguna relación de parentesco o autor
 
 ### CAPITULO II (SIC). Lenocinio
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
 
 ###### Art. 139.
 
-El delito de lenocinio se sancionará de cinco a nueve años de prisión y multa por el importe de quinientos a dos mil veces el valor diario de la Unidad de Medida y Actualización y lo comete quien:
+El delito de lenocinio se sancionará de diez a quince años de prisión y multa por el importe de quinientos a dos mil veces el valor diario de la Unidad de Medida y Actualización y lo comete quien:
 
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2001)</small>
 
@@ -1956,6 +1958,10 @@ III. Regentee, administre o sostenga prostíbulos, casas de citas o lugares de c
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 En cualquiera de los casos anteriores, si el reo tuviere alguna autoridad sobre la persona explotada, se le impondrá la sanción que corresponda al delito, aumentada en una cuarta parte más, multa por el importe de cuatro a ciento noventa y seis veces el valor diario de la Unidad de Medida y Actualización y será privado de todo derecho a la sucesión de los bienes del ofendido, de la patria potestad y de la custodia sobre él o sus descendientes y se le inhabilitará para ser tutor o curador.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2023)</small>
+
+Si en las investigaciones o en cualquier etapa del procedimiento se desprende que existieron acciones u omisiones dolosas de una o varias personas para captar, enganchar, transportar, transferir, retener, entregar, recibir o alojar a una o varias personas con fines de explotación, se estará a lo previsto en la Ley General para Prevenir, Sancionar y Erradicar los delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
 ###### Art. 140.
 
@@ -2023,11 +2029,11 @@ Se aumentará en una tercera parte de la pena que corresponda, cuando la víctim
 
 Cuando la corrupción de la víctima conlleve un beneficio económico para el corruptor se estará a lo previsto en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
 ###### Art. 142-B.
 
-Se impondrán de un mes a tres años de prisión, multa por el importe de setenta a doscientas veces el valor diario de la Unidad de Medida y Actualización y cierre temporal o definitivo del establecimiento, al que por cualquier prestación en efectivo, especie o gratuitamente, utilice para beneficio propio o del establecimiento, los servicios con persona menor de dieciocho años de edad o con quien no tengan (sic) capacidad para comprender el significado del hecho en cantinas, tabernas o centros de vicio.
+Se impondrán de un mes a tres años de prisión, multa por el importe de setenta a doscientas veces el valor diario de la Unidad de Medida y Actualización y cierre temporal o definitivo del establecimiento, al que por cualquier prestación en efectivo, especie o gratuitamente, utilice para beneficio propio o del establecimiento, los servicios con persona menor de dieciocho años de edad o con quien no tenga capacidad para comprender el significado del hecho o de resistirlo en cantinas, tabernas o centros de vicio.
 
 Art. 142 C. (DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
@@ -2192,6 +2198,12 @@ El autor del delito en cualquiera de las circunstancias en que lo haya estará o
 ###### Art. 142-O.
 
 A quien tenga con la víctima lazos consanguíneos o de parentesco, lazos afectivos, una posición de confianza, de autoridad, respeto, influencia o de dependencia y tenga conocimiento y no acuda a la autoridad competente para denunciar cualquiera de los delitos señalados en este capítulo, será castigado de dos a cinco años de prisión. Además, el juez decretará la pérdida de la patria potestad en los términos del presente Código.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+###### Art. 142-P.
+
+Si en las investigaciones relacionadas con los delitos del presente Título en cualquier etapa del procedimiento se desprende que existieron acciones u omisiones dolosas de una o varias personas para captar, enganchar, transportar, transferir, retener, entregar, recibir o alojar a una o varias personas con fines de explotación, se estará a lo previsto en la Ley General para Prevenir, Sancionar y Erradicar los delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE NOVIEMBRE DE 2013)</small>
 
@@ -3599,15 +3611,15 @@ V. Al que usurpe el estado civil de otro, con el fin de adquirir derechos de fam
 
 El responsable de alguno de los delitos señalados en este artículo perderá el derecho de heredar que tuviere, respecto de las personas a quienes por la comisión del delito perjudique en sus derechos de familia.
 
-### CAPITULO IV. Substracción, Robo y Tráfico de Menores
+### CAPÍTULO IV. Substracción y Robo de Menores
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
 ###### Art. 178.
 
 Se impondrán de dos a seis años de prisión al que exponga en una casa de expósitos a un menor de siete años que se le hubiese confiado, o lo entregue a otro establecimiento de beneficencia o a cualquiera otra persona, sin anuencia de la que se lo confió o de la autoridad, en su defecto. Si el responsable es ascendiente o tutor, además, perderá los derechos que tenga sobre la persona y bienes del menor.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO DE 2023)</small>
 
 ### CAPITULO V. Bigamia
 
@@ -3617,37 +3629,43 @@ Se impondrán de dos a seis años de prisión al que sustraiga a una persona men
 
 Cuando el delito lo efectúen los padres, abuelos o bisabuelos que no ejerzan la patria potestad, o terceros, por encargo de alguno de éstos, la sanción será de seis meses a dos años de prisión. En este caso el delito sólo se perseguirá a petición del legítimo representante de la parte ofendida.
 
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2023)</small>
+
 En cualquier supuesto, si se pone espontáneamente en libertad a la persona menor de edad, o se devuelve antes de formuladas las conclusiones y sin causarle algún daño, se impondrá la sanción de tres meses a un año de prisión.
 
 Se aumentará en una mitad las penas señaladas a quien habiendo perdido judicialmente la patria potestad o la guarda y custodia o ejerciendo éstas, se encuentre suspendido o limitado o bien éstas se encuentren por resolverse en procedimiento seguido ante autoridad judicial.
 
 De igual forma se aumentará en dos terceras partes las penas a quien sustraiga, retenga u oculte a persona menor de edad o mayor incapaz que viva en el territorio del estado, en cualquier otra entidad federativa y se aumentará en un tanto la pena en caso de que la persona menor de edad sea trasladada al extranjero.
 
-El robo de infante lo comete el que se apodere de una persona menor de dieciocho años de edad de cualquier sexo, sin derecho y sin consentimiento de sus padres o de quienes legítimamente lo tengan en su poder, con el fin de segregarla del medio familiar que le es propio. Este delito se castigará con pena de siete a veintidós años de prisión.
-
 Si la persona menor de edad es restituida a su familia o a la autoridad, espontáneamente, dentro de los quince días a partir de la fecha de la substracción y sin causarle perjuicio, solamente se aplicará al responsable la sanción de seis meses a cuatro años de prisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
 ###### Art. 179 Bis.
 
 Al ascendiente que ejerza la patria potestad o al que tenga a su cargo la custodia de un menor de dieciocho años, aunque ésta no haya sido declarada, que ilegítimamente lo entregue a otro para su custodia a cambio de un beneficio económico, se le aplicará pena de prisión de cuatro a diez años y multa por el importe de cuarenta a ciento veinte veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+La misma pena a que se refiere el párrafo anterior, se le impondrá a quien reciba al menor y también al tercero que lleve a cabo la entrega de éste a cambio de un beneficio económico. Si el tercero a que se hace mención tiene carácter de directivo de algún organismo a quien corresponda la custodia del menor, se le aplicarán además la pena de destitución y la inhabilitación definitiva para ocupar un cargo similar o en su caso suspensión en el ejercicio de su profesión u oficio hasta por diez años.
 
-La misma pena a que se refiere el párrafo anterior, se les impondrá a quien reciba al menor y también al tercero que lleve a cabo la entrega de éste a cambio de un beneficio económico. Si el tercero a que se hace mención tiene carácter de directivo de algún organismo a quien corresponda la custodia del menor, se le aplicarán además la pena de destitución y la inhabilitación definitiva para ocupar un cargo similar o en su caso suspensión en el ejercicio de su profesión u oficio hasta por diez años.
-
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 1984)</small>
-
-Si la entrega del menor se hace sin la finalidad de obtener un beneficio económico, la pena que se aplicará a los responsables, será de 1 a 3 años de prisión.
-
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 1984)</small>
+Si la entrega del menor se hace sin la finalidad de obtener un beneficio económico, la pena que se aplicará a los responsables, será de uno a tres años de prisión.
 
 Si se acredita que quien recibió al menor, lo hizo para incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal incorporación, la pena se le reducirá hasta la cuarta parte de la prevista en el párrafo anterior. Tal reducción beneficiará a todos los que participaron en la comisión del delito, si no actuaron con la finalidad de obtener un beneficio económico. En este caso, sólo se procederá por querella o denuncia de parte interesada.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+Cuando por consecuencia de la sustracción del menor, éste resultare afectado en su integridad física, se aplicará como sanción una pena de ocho a doce años de prisión, independientemente de las que pudieren resultar por la comisión de cualquier otro delito.
 
-Cuando por consecuencia del tráfico del menor, éste resultare afectado en su integridad física por extraerle algún miembro u órgano, se aplicará como sanción una pena de ocho a doce años de prisión, independientemente de las que pudieren resultar por la comisión de cualquier otro delito.
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+###### Art. 179 Ter.
+
+El robo de menores lo comete el que se apodere de una persona menor de dieciocho años de edad de cualquier sexo, sin derecho y sin consentimiento de sus padres o de quienes legítimamente lo tengan en su poder, con el fin de segregarla del medio familiar que le es propio. Este delito se castigará con pena de siete a veintidós años de prisión.
+
+Cuando por consecuencia del robo del menor, éste resultare afectado en su integridad física, se aumentará la sanción hasta en una cuarta parte, independientemente de las que pudieren resultar por la comisión de cualquier otro delito.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+###### Art. 179 Quáter.
+
+En caso de los delitos de substracción y robo de menores, si en las investigaciones o en cualquier etapa del procedimiento se desprende que existieron acciones u omisiones dolosas de una o varias personas para captar, enganchar, transportar, transferir, retener, entregar, recibir o alojar a una o varias personas con fines de explotación, se estará a lo previsto en la Ley General para Prevenir, Sancionar y Erradicar los delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
 ### CAPITULO VI. Incesto
 
@@ -7302,3 +7320,9 @@ P.O. 3 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29181/LXIII/23 QUE REFORMA LOS ARTÍCULOS 113 Y 117 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29227/LXIII/23 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
