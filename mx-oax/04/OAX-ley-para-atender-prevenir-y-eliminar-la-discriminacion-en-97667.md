@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-atender-prevenir-y-eliminar-la-discriminacion-en-97667
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2022-12-03"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -53,11 +53,11 @@ Disposiciones Generales.
 
 Las disposiciones de esta Ley son de orden público, interés social y observancia general en el Estado de Oaxaca.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
 ###### Artículo 2.
 
-El objeto de la presente Ley es promover la igualdad real de oportunidades, atender, prevenir y eliminar todas las formas de discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anual o menoscabar los derechos y libertades, que se ejerzan contra cualquier persona, para lo cual los Poderes Públicos Estatales y sus instancias, deberán respetar y garantizar, el ejercicio de los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en las normas de derechos humanos contenidas en los tratados y convenios internacionales firmados y ratificados por el Estado Mexicano, en la Constitución Política del Estado Libre y Soberano de Oaxaca, y en la presente Ley y demás ordenamientos legales y aplicables.
+El objeto de la presente Ley es promover la igualdad real de oportunidades, atender, prevenir y eliminar todas las formas de discriminación motivada por origen étnico o nacional, edad, discapacidades, condición social y de salud, religión, opiniones, sexo, características sexuales, orientación sexual, identidad y expresión de género, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades, que se ejerzan contra cualquier persona, para lo cual los Poderes Públicos Estatales y sus instancias, deberán respetar y garantizar, el ejercicio de los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en las normas de derechos humanos contenidas en los tratados internacionales firmados y ratificados por el Estado Mexicano, en la Constitución Política del Estado Libre y Soberano de Oaxaca, y en la presente Ley y demás ordenamientos legales aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
@@ -123,7 +123,9 @@ XV. Violencia Laboral: Es aquella que ocurre cuando se presenta la negativa a co
 
 Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades.
 
-Se entenderá por discriminación: toda distinción, exclusión, restricción o preferencia, por acción u omisión, con intención o sin ella, que no sea objetiva, racional ni proporcional y que, basada en uno o más de los siguientes motivos: origen étnico o nacional, el sexo, el género, identidad sexo genérica, preferencia sexual, edad, apariencia física, color de piel, características genéticas, discapacidades, condición social, económica, de salud o jurídica, condición migratoria, embarazo, idioma, lengua o dialecto, religión, opiniones, identidad, ideas o filiación política, estado civil, cultura, situación familiar, antecedentes penales o cualquier otra condición, que tenga por objeto o resultado obstaculizar, restringir, impedir o anular el reconocimiento o el ejercicio de los derechos humanos y la igualdad real de oportunidades de las personas.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
+Se entenderá por discriminación: toda distinción, exclusión, restricción o preferencia, por acción u omisión, con intención o sin ella, que no sea objetiva, racional ni proporcional y que, basada en uno o más de los siguientes motivos: origen étnico o nacional, el sexo, características sexuales, orientación sexual, identidad y expresión de género, edad, apariencia física, color de piel, características genéticas, discapacidades, condición social, económica, de salud o jurídica, condición migratoria, embarazo, idioma, lengua o dialecto, religión, opiniones, identidad, ideas o filiación política, estado civil, cultura, situación familiar, antecedentes penales o cualquier otra condición, que tenga por objeto o resultado obstaculizar, restringir, impedir o anular el reconocimiento o el ejercicio de los derechos humanos y la igualdad real de oportunidades de las personas.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
@@ -437,9 +439,11 @@ Las acciones afirmativas podrán incluir, entre otras, las medidas para favorece
 
 De la denominación, objeto y patrimonio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### Artículo 25.
 
-La Comisión para Atender, Prevenir y Eliminar la Discriminación del Estado de Oaxaca, es un organismo público descentralizado, sectorizado a la Secretaría General de Gobierno del Estado, con personalidad jurídica y patrimonio propio, que tendrá a su cargo la rectoría en la aplicación de la presente Ley, velando por su cumplimiento y la consecución de sus objetivos.
+La Comisión para Atender, Prevenir y Eliminar la Discriminación del Estado de Oaxaca, es un organismo público descentralizado, sectorizado a la Secretaría de Gobierno del Estado, con personalidad jurídica y patrimonio propio, que tendrá a su cargo la rectoría en la aplicación de la presente Ley, velando por su cumplimiento y la consecución de sus objetivos.
 
 Para el desarrollo de sus atribuciones, la Comisión gozará de autonomía técnica y de gestión, y contará con los recursos suficientes que anual y progresivamente se le asignen en el Presupuesto de Egresos del Estado. La Comisión se regirá por los principios de austeridad, racionalidad y transparencia en el ejercicio de su presupuesto.
 
@@ -521,7 +525,9 @@ XIV. Impulsar, realizar, coordinar y difundir estudios e investigaciones sobre e
 
 XV. Atender las solicitudes de las personas para su defensa por presuntos actos discriminatorios, conforme a lo establecido en la presente Ley;
 
-XVI. Dar vista a la Secretaría de la Contraloría y Transparencia Gubernamental y, en su caso a los órganos de control interno de los diversos entes públicos, a fin de que establezcan las medidas administrativas para sancionar a las personas servidoras públicas que incurran en actos de discriminación, conforme a lo establecido en esta Ley y en el marco legal vigente para el Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XVI. Dar vista a la Secretaría de Honestidad, Transparencia y Función Pública y, en su caso a los órganos de control interno de los diversos entes públicos, a fin de que establezcan las medidas administrativas para sancionar a las personas servidoras públicas que incurran en actos de discriminación, conforme a lo establecido en esta Ley y en el marco legal vigente para el Estado de Oaxaca;
 
 XVII. Establecer una vinculación permanente con la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y el Consejo Nacional para Prevenir y Eliminar la Discriminación para conocer los casos de discriminación que llegan a estas instituciones;
 
@@ -581,35 +587,39 @@ II. Una Dirección General.
 
 La Junta de Gobierno quedará integrada de la siguiente manera:
 
-I. Un Presidente, que será el o la Titular de la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+I. Un Presidente, que será el o la Titular de la Secretaría de Gobierno;
 
 II. Un Secretario Técnico, que será la o el Director General de la Comisión;
 
 III. Los representantes de la Administración Pública del Estado de Oaxaca, de cada una de las siguientes dependencias y entidades:
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
-a) La Secretaría de Bienestar del Estado de Oaxaca;
+a) La Secretaría de Bienestar, Tequio e Inclusión;
 
 b) La Secretaría de Salud;
 
 c) (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2021)
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
-d) La Secretaría de Pueblos Indígenas y Afromexicano;
+d) La Secretaría de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanos;
 
 e) La Secretaría de Finanzas;
 
 f) El Instituto Estatal de Educación Pública de Oaxaca; y
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
-g) Secretaría de las Mujeres de Oaxaca.
+g) Secretaría de las Mujeres.
 
 IV. Cinco representantes del Consejo Consultivo Ciudadano; y
 
-V. Un Comisario que será el o la titular de la Secretaría de la Contraloría y Transparencia Gubernamental, o la persona que este designe.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+V. Un Comisario que será el o la titular de la Secretaría de Honestidad, Transparencia y Función Pública, o la persona que este designe.
 
 Las y los representantes de la Administración Pública del Estado de Oaxaca deberán tener nivel de Subsecretario o Director General, según lo permita la estructura autorizada y sus respectivos suplentes el nivel inferior jerárquico inmediato.
 
@@ -719,7 +729,9 @@ VII. Presentar trimestralmente a la Junta de Gobierno, el informe del desempeño
 
 VIII. Establecer los mecanismos de evaluación de la eficiencia y eficacia, que se aplicarán al desempeño de la Comisión y presentar a la Junta de Gobierno por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con dicha Junta;
 
-IX. Proporcionar la información y dar acceso a la documentación que le soliciten las Secretarías de Finanzas y de Administración, la Secretaría de la Contraloría y Transparencia Gubernamental o el Auditor Externo, y el Congreso del Estado;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+IX. Proporcionar la información y dar acceso a la documentación que le soliciten las Secretarías de Finanzas y de Administración, la Secretaría de Honestidad, Transparencia y Función Pública o el Auditor Externo, y el Congreso del Estado;
 
 X. Ejecutar los acuerdos y demás disposiciones que dicte la Junta de Gobierno;
 
@@ -1039,7 +1051,9 @@ Con la finalidad de publicitar y hacer del conocimiento de la opinión pública 
 
 Las personas servidoras públicas estatales, municipales o entes públicos a quienes se les compruebe haber cometido actos, omisiones o prácticas discriminatorias, además de las medidas administrativas y de reparación que se les imponga, quedarán sujetas a las responsabilidades en que hayan incurrido, en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
-La Comisión enviará la resolución a la Secretaría de la Contraloría y Transparencia Gubernamental Gobierno del Estado de Oaxaca, a la persona encargada de la contraloría interna o a la persona titular del área de responsabilidades de la dependencia o ente público, al que se encuentre o se hubiese encontrado adscrita la persona servidora pública responsable. La resolución emitida por la Comisión constituirá prueba plena dentro del procedimiento respectivo.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
+La Comisión enviará la resolución a la Secretaría de Honestidad, Transparencia y Función Pública Gobierno del Estado de Oaxaca, a la persona encargada de la contraloría interna o a la persona titular del área de responsabilidades de la dependencia o ente público, al que se encuentre o se hubiese encontrado adscrita la persona servidora pública responsable. La resolución emitida por la Comisión constituirá prueba plena dentro del procedimiento respectivo.
 
 ## TÍTULO SEXTO. DE LAS MEDIDAS ADMINISTRATIVAS Y DE REPARACIÓN
 
@@ -1101,9 +1115,11 @@ IV. El efecto producido por el acto, omisión o práctica discriminatoria.
 
 De la ejecución de las medidas administrativas y de reparación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### Artículo 92.
 
-Tratándose de personas servidoras públicas o entes públicos, la omisión en el cumplimiento a la resolución por disposición en el plazo concedido, dará lugar a que la Comisión lo haga del conocimiento de la Secretaría de la Contraloría y Transparencia Gubernamental del Gobierno del Estado de Oaxaca y de la autoridad, dependencia, instancia o ente público competente para que procedan conforme a sus atribuciones.
+Tratándose de personas servidoras públicas o entes públicos, la omisión en el cumplimiento a la resolución por disposición en el plazo concedido, dará lugar a que la Comisión lo haga del conocimiento de la Secretaría de Honestidad, Transparencia y Función Pública del Gobierno del Estado de Oaxaca y de la autoridad, dependencia, instancia o ente público competente para que procedan conforme a sus atribuciones.
 
 En el caso de particulares, personas físicas o morales, que omitan cumplir, total o parcialmente, la resolución por disposición, esta Comisión podrá dar vista a la autoridad competente por la desobediencia en que se haya incurrido.
 
@@ -1248,3 +1264,11 @@ P.O. 3 DE DICIEMBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1455.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 6, EL PRIMER PÁRRAFO DEL ARTÍCULO 25, LA FRACCIÓN XVI DEL ARTÍCULO 29, LA FRACCIÓN I, EL INCISO a), d) Y g) DE LA FRACCIÓN III Y LA FRACCIÓN V DEL ARTÍCULO 32, LA FRACCIÓN IX DEL ARTÍCULO 39, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 87 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 92, TODOS DE LA LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
