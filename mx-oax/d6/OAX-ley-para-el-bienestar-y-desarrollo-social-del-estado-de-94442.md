@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2023-02-25"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -617,7 +617,9 @@ En la planeación, programación y presupuestación del desarrollo social y huma
 
 I. Los programas y acciones públicas para asegurar la alimentación, nutrición y abasto social de productos básicos;
 
-II. Los programas de prevención de enfermedades, así como de atención médica;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+II. Los programas de prevención de enfermedades, de prevención y erradicación de embarazos en niñas y adolescentes, así como de atención médica;
 
 III. Los programas de vivienda;
 
@@ -1391,7 +1393,9 @@ El beneficiario de alguno de los programas Estatales que a continuación se esta
 
 La Política Estatal de Desarrollo Social y humano debe incluir, cuando menos, las siguientes vertientes que se traducirán en programas sociales:
 
-I. Pensión Alimentaria para Adultos Mayores de Setenta Años del Estado de Oaxaca.
+> <small>(REFORMADA, P.O. 29 DE JULIO 2023)</small>
+
+I. Pensión Alimentaria para Adultos Mayores de sesenta y cinco años del Estado de Oaxaca.
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
@@ -1407,11 +1411,15 @@ VI. Impulso a jefas de familia desempleadas.
 
 VII. Unidades y caravanas de servicios gratuitos.
 
-### CAPÍTULO II. PENSIÓN ALIMENTARIA PARA ADULTOS MAYORES DE SETENTA AÑOS DEL ESTADO DE OAXACA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO 2023)</small>
+
+### CAPÍTULO II. PENSIÓN ALIMENTARIA PARA ADULTOS MAYORES DEL ESTADO DE OAXACA
+
+> <small>(REFORMADO, P.O. 29 DE JULIO 2023)</small>
 
 ###### Artículo 86.
 
-Tiene por objeto reconocer, proteger y garantizar el derecho que tienen todas las personas mayores de setenta años, a recibir una pensión alimentaria.
+Tiene por objeto reconocer, proteger y garantizar el derecho que tienen todas las personas mayores de sesenta y cinco años, a recibir una pensión alimentaria.
 
 ###### Artículo 87.
 
@@ -1714,3 +1722,23 @@ P.O. 25 DE FEBRERO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1453.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II DEL ARTÍCULO 30 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal que se opongan y contravengan el presente Decreto.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.1454.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 85, EL ARTÍCULO 86 Y LA DENOMINACIÓN DEL CAPÍTULO II, TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Se derogan todas aquellas disposiciones legales y reglamentarias del marco jurídico estatal que se opongan y contravengan el presente Decreto.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
