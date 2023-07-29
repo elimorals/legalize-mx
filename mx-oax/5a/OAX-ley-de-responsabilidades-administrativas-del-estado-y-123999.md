@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-administrativas-del-estado-y-123999"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-03"
-last_updated: "2021-12-04"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 3 de octubre de 2017.
 
@@ -79,7 +79,9 @@ Todo lo no previsto en la presente Ley, se sujetará a lo establecido en la Ley 
 
 Para efectos de esta Ley se entenderá por:
 
-I. Auditoría Superior: Órgano Superior de Fiscalización del Estado de Oaxaca al que se refiere el artículo 65 BIS de la Constitución Política del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+I. Auditoría Superior: La Auditoría Superior de Fiscalización del Estado de Oaxaca al (sic) que se refiere el artículo 65 BIS de la Constitución Política del Estado de Oaxaca;
 
 II. Autoridad investigadora: La autoridad en la Secretaría, los Órganos internos de control, la Auditoría Superior, encargadas de la investigación de las faltas administrativas;
 
@@ -708,3 +710,13 @@ P.O. 4 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1451.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXXIX AL ARTÍCULO 4 DE LA LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN XII AL ARTÍCULO 2 DE LA LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS Y BIENES DEL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 45, EL PRIMER PÁRRAFO Y LAS FRACCIONES X Y XX DEL ARTÍCULO 47 Y LA FRACCION XIV DEL ARTÍCULO 49 BIS TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en el portal del Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
