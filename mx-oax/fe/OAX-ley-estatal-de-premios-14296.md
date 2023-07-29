@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-premios-14296"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-05"
-last_updated: "2022-04-09"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PREMIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 5 de diciembre de 1998.
 
@@ -129,7 +129,9 @@ I. "Medalla Oaxaca";
 
 II. "Medalla Benito Juárez García";
 
-III.- "Medalla Luis Donaldo Colosio Murrieta";
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+III. "Medalla Hermanos Flores Magón";
 
 IV. Diploma; y
 
@@ -449,9 +451,11 @@ Este premio se tramitará ante el Instituto de la Juventud Oaxaqueña, por condu
 
 Las candidaturas a este premio podrán promoverse en cualquier tiempo y forma por cualquier persona.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### ARTICULO 63.
 
-El premio consistirá en una Medalla al mérito denominada "Luis Donaldo Colosio Murrieta" y diploma, el mismo podrá incluir adicionalmente, una entrega en numerario por el monto determinado en el Presupuesto de Egresos del Estado. El premio será entregado el 13 de septiembre de cada año.
+El premio consistirá en una Medalla al mérito denominada "Hermanos Flores Magón" y diploma, el mismo podrá incluir adicionalmente, una entrega en numerario por el monto determinado en el Presupuesto de Egresos del Estado. El premio será entregado el 13 de septiembre de cada año.
 
 ### CAPITULO XI. PREMIO ESTATAL DE SERVICIO A LA COMUNIDAD
 
@@ -548,3 +552,11 @@ P.O. 9 DE ABRIL DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1476.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN III DEL ARTÍCULO 9 Y EL ARTÍCULO 63 DE LA LEY ESTATAL DE PREMIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
