@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-adquisiciones-enajenaciones-arrendamientos-117877"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2018-01-20"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en la Séptima Sección al Número 46 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -203,11 +203,11 @@ V. Conocer y resolver sobre la solución de controversias por los actos que cont
 
 VI. Las demás que esta Ley y las disposiciones que de ella deriven le confieran.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
 ###### Artículo 11.
 
-Las Dependencias y Entidades serán responsables de que en la instrumentación y ejecución de las acciones que deben llevar a cabo en cumplimiento de esta Ley, se observen criterios de máxima publicidad, economía, eficacia, eficiencia, imparcialidad, honradez, legalidad y transparencia, que aseguren las mejores condiciones para la Administración Pública Estatal.
+Las Dependencias y Entidades serán responsables de que en la instrumentación y ejecución de las acciones que deben llevar a cabo en cumplimiento de esta Ley, se observen criterios de máxima publicidad, economía, eficacia, eficiencia, imparcialidad, honradez, legalidad, justicia, oportunidad y transparencia, que aseguren las mejores condiciones para la Administración Pública Estatal y que, además, propicien el desarrollo económico de la Entidad.
 
 ###### Artículo 12.
 
@@ -311,11 +311,11 @@ Las Dependencias y Entidades deberán formular un programa anual de adquisicione
 
 Las Dependencias y Entidades serán los responsables de la elaboración y ejecución de sus respectivos programas anuales de adquisiciones y los deberán poner a disposición de la Secretaría en la fecha que ésta señale.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### Artículo 20.
 
-Con el objeto de obtener las mejores condiciones en cuanto a precio, calidad, tiempos de entrega y financiamiento, así como apoyar en condiciones de competencia a las áreas prioritarias de desarrollo en el Estado, los programas anuales, servirán de base a la Secretaría para planear, programar y llevar a cabo los procedimientos de adquisiciones, arrendamientos y servicios en forma consolidada.
-
-Las Dependencias y Entidades se sujetarán a los calendarios de los procedimientos consolidados que determine la Secretaría.
+Con el objeto de obtener las mejores condiciones en cuanto a precio, calidad, tiempos de entrega y financiamiento, así como apoyar preferentemente y en condiciones de competencia a las áreas prioritarias de desarrollo en el Estado, los programas anuales, servirán de base a la Secretaría para planear, programar y llevar a cabo los procedimientos de adquisiciones, arrendamientos y servicios en forma consolidada. Las Dependencias y Entidades se sujetarán a los calendarios de los procedimientos consolidados que determine la Secretaría.
 
 ### CAPÍTULO III. DEL COMITÉ Y SUBCOMITÉS DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
 
@@ -457,7 +457,11 @@ VII. Licitación pública internacional.
 
 Los montos de los rangos para cada modalidad serán determinados en el Presupuesto de Egresos del Estado.
 
-Las Dependencias y Entidades, por conducto de sus áreas administrativas o equivalentes, sin necesidad de autorización del Comité o Sub-Comités respectivos, podrán adquirir, arrendar o contratar servicios a través de la modalidad prevista en la fracción I del presente artículo de manera directa.
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 1452, SE ADVIERTE QUE LA REFORMA CORRESPONDE A ÉSTE PÁRRAFO, P.O. 29 DE JULIO DE 2023, PÁGINA 5.]</small>
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
+Las Dependencias y Entidades, por conducto de sus áreas administrativas o equivalentes, sin necesidad de autorización del Comité o Sub-Comités respectivos, podrán adquirir bienes o servicios de manera directa prevista en la fracción I del presente artículo de manera directa, en todo caso, deberá privilegiarse las adquisiciones con proveedores locales.
 
 Toda solicitud de los procedimientos referidos en el presente artículo, deberá constar por escrito y estar firmada por el titular de la Dependencia o la Entidad, lo cual será indelegable.
 
@@ -549,9 +553,11 @@ Todo interesado que satisfaga los requisitos de la convocatoria y las bases de l
 
 Dos o más personas podrán presentar conjuntamente proposiciones en las licitaciones sin necesidad de constituir una sociedad, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión y a satisfacción de la Dependencia o Entidad, las partes a que cada persona se obligará, así como la manera en que se exigiría el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### Artículo 39.
 
-La Dependencia o Entidad solicitante, para efectuar el análisis de las proposiciones, deberá comparar las diferentes condiciones ofrecidas por los participantes y verificar que cumplan con lo indicado en las bases de licitación. Como resultado de ese análisis y de acuerdo con los criterios de adjudicación establecidos en las bases, emitirá el dictamen técnico-económico.
+La Dependencia o Entidad solicitante, para efectuar el análisis de las proposiciones, deberá comparar las diferentes condiciones ofrecidas por los participantes y verificar que cumplan con lo indicado en las bases de licitación. Como resultado de ese análisis y de acuerdo con los criterios de adjudicación establecidos en las bases y procurando en todo caso coadyuvar al desarrollo económico en la Entidad a través de la contratación preferente de proveedores o prestadores de servicio de la Entidad y bajo los principios establecidos en esta Ley, emitirá el dictamen técnico-económico.
 
 Una vez recibido el dictamen técnico-económico, el Titular de la Dirección de Recursos Materiales de la Secretaría, deberá revisar el mismo y emitir el dictamen de resultados. El Comité de Adquisiciones dictaminará y emitirá el fallo correspondiente considerando el dictamen de resultados. El fallo de la licitación se dará a conocer en términos de lo establecido en las bases, en un plazo no mayor a tres días hábiles posteriores a su emisión.
 
@@ -585,13 +591,15 @@ La licitación inicia con la publicación o invitación de la convocatoria y con
 
 ### CAPÍTULO VI. DE LAS EXCEPCIONES A LA LICITACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
 
 ###### Artículo 45.
 
-La selección del procedimiento de adjudicación directa que realicen las Dependencias y Entidades deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de máxima publicidad, economía, eficacia, eficiencia, imparcialidad, honradez, legalidad y transparencia, que aseguren las mejores condiciones para el Estado. El acreditamiento de los criterios mencionados y la justificación de las razones para el ejercicio de la opción, deberá constar por escrito y ser firmado por el titular de la Dependencia o la Entidad.
+La selección del procedimiento de adjudicación directa que realicen las Dependencias y Entidades deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de máxima publicidad, economía, eficacia, eficiencia, imparcialidad, honradez, legalidad, justicia, oportunidad y transparencia, que aseguren las mejores condiciones para el Estado. El acreditamiento de los criterios mencionados y la justificación de las razones para el ejercicio de la opción, deberá constar por escrito y ser firmado por el titular de la Dependencia o la Entidad.
 
-En cualquier supuesto se invitará a personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, y cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto de la contratación a celebrarse.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
+En cualquier supuesto se invitará a personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, y cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto de la contratación a celebrarse, otorgando preferencia en igualdad de condiciones a los Proveedores Estatales, particularmente si se trata de empresas conformadas por comunidades indígenas o de afrodescendientes.
 
 ###### Artículo 46.
 
@@ -665,7 +673,9 @@ Los requisitos para la inscripción en el padrón serán los establecidos en el 
 
 Los Proveedores inscritos en el padrón deberán comunicar en cualquier tiempo a la Secretaría, las modificaciones legales, de capacidad técnica, económica o productiva y aquellas que puedan implicar un cambio en su clasificación.
 
-La Secretaría, las Dependencias y las Entidades deberán invitar a los procedimientos de adquisiciones, arrendamientos y servicios a las personas inscritas en el padrón, de acuerdo con la clasificación en que estén registradas. Sin perjuicio de lo anterior, las Dependencias o Entidades podrán invitar a personas para inscribirse al padrón.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
+La Secretaría, las Dependencias y las Entidades deberán invitar a los procedimientos de adquisiciones, arrendamientos y servicios a las personas inscritas en el padrón, de acuerdo con la clasificación en que estén registradas, otorgando preferencia en igualdad de condiciones a los Proveedores Estatales, particularmente si se trata de empresas conformadas por comunidades indígenas o de afrodescendientes. Sin perjuicio de lo anterior, las Dependencias o Entidades podrán invitar a personas para inscribirse al padrón.
 
 ###### Artículo 51.
 
@@ -1280,3 +1290,13 @@ CUARTO. Se faculta a la Secretaría de Administración del Gobierno del Estado, 
 QUINTO. La Secretaría dispondrá de un plazo de noventa días hábiles, a partir de la fecha de entrada en vigor del presente Decreto, para expedir los Lineamientos para el arrendamiento de bienes inmuebles por parte de las Dependencias y Entidades, en su carácter de arrendatarias; mismo que deberá publicar en el Periódico Oficial del Gobierno del Estado y le dará la difusión suficiente.
 
 SEXTO. Se derogan todas las disposiciones de igual o menor rango, que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1452.- MEDIANTE EL CUAL REFORMAN LOS ARTÍCULO 11, 20, 28 ÚLTIMO PÁRRAFO, 39 PRIMER PÁRRAFO, 45 PRIMER Y SEGUNDO PÁRRAFO Y 50 DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en el portal del Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
