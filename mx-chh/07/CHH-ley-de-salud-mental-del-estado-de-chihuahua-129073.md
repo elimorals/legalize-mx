@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-salud-mental-del-estado-de-chihuahua-129073"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-13"
-last_updated: "2018-06-13"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE SALUD MENTAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en el Folleto Anexo al Número 47 del Periódico Oficial del Estado de Chihuahua, el miércoles 13 de junio de 2018.
 
@@ -59,11 +59,19 @@ I. Regular y organizar los servicios de prevención, tratamiento, habilitación 
 
 II. Establecer los mecanismos adecuados para la promoción, prevención, evaluación, diagnóstico, tratamiento, rehabilitación y fomento de la salud mental en instituciones de salud pública del Estado, así como para personas físicas o morales de los sectores social y privado, que coadyuven en la prestación de servicios en los términos y modalidades establecidas en la presente Ley;
 
-III. Proteger a la población afectada por trastornos mentales y del comportamiento y de conducta, favoreciendo el acceso a los servicios de salud mental;
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+III. PROTEGER A LA POBLACIÓN AFECTADA POR TRASTORNOS MENTALES, TENDENCIAS SUICIDAS Y DEL COMPORTAMIENTO Y DE CONDUCTA, FAVORECIENDO EL ACCESO A LOS SERVICIOS DE SALUD MENTAL;
 
 IV. Promover la calidad y calidez en la prestación de los servicios de salud mental;
 
-V. Impulsar los derechos humanos y la erradicación de la discriminación contra personas que padecen algún trastorno mental y del comportamiento;
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+V. IMPULSAR LOS DERECHOS HUMANOS Y LA ERRADICACIÓN DEL ESTIGMA Y DE LA DISCRIMINACIÓN CONTRA PERSONAS QUE PADECEN ALGÚN TRASTORNO MENTAL Y DEL COMPORTAMIENTO;
 
 VI. Favorecer en todo tiempo, la reintegración de las personas con trastorno mental y del comportamiento en la comunidad;
 
@@ -73,11 +81,21 @@ VIII. Establecer las bases para la atención de las personas que se sometan por 
 
 IX. La universalidad en el acceso al tratamiento de todas las personas con trastorno mental y del comportamiento en el Estado, en condiciones de Igualdad efectiva y de no discriminación, en los términos establecidos en esta Ley.
 
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+X. IMPULSAR POLÍTICAS PÚBLICAS A EFECTO DE PREVENIR Y ERRADICAR LOS SUICIDIOS EN EL ESTADO, ASÍ COMO AQUELLAS ORIENTADAS A UNA ATENCIÓN INTEGRAL A LAS PERSONAS CON TENDENCIAS SUICIDAS.
+
 ###### Artículo 2.
 
 La atención de los trastornos mentales y del comportamiento comprende:
 
-I. La atención, evaluación, diagnóstico, tratamiento integral, habilitación y rehabilitación psicosocial, de las personas con trastorno mental agudo y crónico;
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+I. LA ATENCIÓN, EVALUACIÓN, DIAGNÓSTICO OPORTUNO, TRATAMIENTO INTEGRAL, HABILITACIÓN Y REHABILITACIÓN PSICOSOCIAL, DE LAS PERSONAS CON TRASTORNO MENTAL AGUDO Y CRÓNICO;
 
 II. La organización, operación y supervisión de establecimientos dedicados al estudio, investigación, tratamiento, habilitación y rehabilitación de personas con trastornos mentales y del comportamiento;
 
@@ -143,6 +161,18 @@ XXII. Envejecimiento Saludable: Proceso de fomentar y mantener la capacidad func
 
 XXIII. Red Social Significativa: Toda aquella persona que interactúa, y se constituye en un conjunto de vínculos interpersonales: familia, amistades, relaciones de trabajo, de estudio, de inserción comunitaria, de prácticas sociales y las instancias que ofrece el Estado para atender las necesidades de las personas.
 
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XXIV. CONDUCTA SUICIDA: CONJUNTO DE COMPORTAMIENTOS RELACIONADOS CON LA INTENCIONALIDAD DE COMUNICAR, ACTUAR O EJECUTAR UN ACTO AUTODESTRUCTIVO QUE PODRÍA ACABAR CON LA PROPIA VIDA.
+
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XXV. INTENTO SUICIDA: ACCIÓN AUTODESTRUCTIVA A LA QUE SOBREVIVE LA PERSONA CON IDEACIÓN O CONDUCTA SUICIDA.
+
 ### CAPÍTULO III. DERECHOS DE LAS Y LOS PACIENTES
 
 ###### Artículo 6.
@@ -183,15 +213,69 @@ XVI. A contar con la protección total por parte del Estado contra la explotaci�
 
 XVII. A que sus familiares les proporcionen un trato digno, alimentos y cuidados necesarios para su rehabilitación.
 
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XVIII. A RECIBIR ATENCIÓN PSICOEDUCATIVA QUE PROPORCIONE A FAMILIARES Y A PERSONAS PACIENTES INFORMACIÓN CLARA, OPORTUNA Y VERAZ, ACERCA DE SU ENFERMEDAD.
+
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XIX. ACCEDER Y CONTINUAR CON EL VÍNCULO FAMILIAR Y LABORAL.
+
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XX. LA DIVULGACIÓN COMPLETA DE TODOS LOS RIESGOS DOCUMENTADOS DE CUALQUIER FÁRMACO PROPUESTO O TRATAMIENTO.
+
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XXI. EL ACCESO A HOSPITALES CON INSTALACIONES EQUIPADAS Y PERSONAL MÉDICO CALIFICADO, PARA QUE PUEDAN REALIZARSE EXÁMENES CLÍNICOS Y FÍSICOS COMPETENTES.
+
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XXII. A RECIBIR EDUCACIÓN O CAPACITACIÓN PARA CONTAR CON HERRAMIENTAS QUE IMPULSEN SU DESENVOLVIMIENTO ECONÓMICO Y SOCIAL.
+
 ### CAPÍTULO IV. INTERNAMIENTO
 
 ###### Artículo 7.
 
 El internamiento es un mecanismo terapéutico, farmacológico y de terapias somáticas, en el cual la persona usuaria es ingresada a una unidad de atención integral hospitalaria, médico psiquiátrica, o a una unidad de psiquiatría en hospital general, para recibir cuidados especializados, con fines de diagnóstico, tratamiento o rehabilitación.
 
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+###### Artículo 7 Bis.
+
+El internamiento de las personas usuarias del servicio, debe ajustarse a principios éticos, sociales, científicos y legales, así como a los criterios contemplados en la presente Ley, y disposiciones jurídicas en la materia.
+
+Las Instituciones de salud mental públicas, sociales o privadas, deberán:
+
+I. Abstenerse de todo tipo de discriminación, observando en todo momento el respeto de los derechos humanos de las personas internadas.
+
+II. Garantizar la confidencialidad de los datos de las personas internadas.
+
+III. Contar con personal capacitado y especializado, para proporcionar de manera eficiente, una atención integral médico-psiquiátrica.
+
+IV. Especificar el tratamiento que se proporcionará y los métodos para su aplicación.
+
+V. Evitar el aislamiento de las personas internadas, permitiendo la visita de sus familiares o de la persona que ejerza su legal representación, previa autorización del médico tratante.
+
+VI. Contar con los espacios de internamiento adecuados, que garanticen la seguridad de las personas internadas.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### Artículo 8.
 
-El internamiento será por el plazo consensado por el equipo tratante del servicio de salud mental, y una vez alcanzada la estabilidad psíquica o conductual que le permita poder ser egresado por indicación médica para poder dar seguimiento de forma ambulatoria. Tanto la evolución del paciente como cada una de las intervenciones del equipo interdisciplinario deberán registrarse a diario en el expediente clínico como lo marca la NOM-004-SSA3-2012.
+El internamiento será por el plazo consensado por el equipo tratante del servicio de salud mental, y una vez alcanzada la estabilidad psíquica o conductual, la persona usuaria podrá ser egresada por indicación médica para poder dar seguimiento de forma ambulatoria. Tanto su evolución, como cada una de las intervenciones del equipo interdisciplinario deberán registrarse a diario en el expediente clínico como lo marca la NOM-004-SSA3-2012.
 
 ###### Artículo 9.
 
@@ -203,9 +287,11 @@ II. La recopilación e integración de datos de identidad y entorno familiar a c
 
 III. El consentimiento informado de la persona usuaria o del representante legal cuando corresponda. Sólo se considera válida su autorización cuando el estado de salud lo faculta, en caso de que no le permita firmar y emitir su anuencia, deberá asentarse el nombre completo y firma de algún miembro de su familia. Si la persona usuaria emitió su consentimiento, éste se considerará invalidado si durante el transcurso del internamiento, se pierde la capacidad y/o juicio para tomar decisiones; en tal caso deberá procederse como si se tratase de un internamiento involuntario.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### Artículo 10.
 
-El ingreso en forma involuntaria, se presenta en el caso de usuarios con trastornos mentales severos, que requieran atención urgente o representen un peligro grave o inmediato para sí mismas o para las demás. Requiere la indicación del personal médico psiquiatra y la solicitud de algún miembro de la familia que sea responsable, un familiar responsable, tutor o tutriz o representante legal, ambas por escrito. En caso de extrema urgencia, una persona usuaria puede ingresar por indicación escrita de la médica o médico a cargo del servicio de admisión de la Unidad hospitalaria. En cuanto las condiciones de la persona usuaria lo permitan, deberá ser informada de su situación de internamiento involuntario, para que en su caso, su condición cambie a la de ingreso voluntario.
+El ingreso en forma involuntaria, se presenta en el caso de personas usuarias con trastornos mentales severos, que requieran atención urgente o representen un peligro grave o inmediato para sí mismas o para las demás. Requiere la indicación del personal médico psiquiatra y la solicitud de alguna persona integrante de la familia que sea responsable, tutor o tutriz o representante legal, ambas por escrito. En caso de extrema urgencia, una persona usuaria puede ingresar por indicación escrita de la médica o médico a cargo del servicio de admisión de la Unidad hospitalaria. En cuanto las condiciones de la persona usuaria lo permitan, deberá ser informada de su situación de internamiento involuntario, para que, en su caso, su condición cambie a la de ingreso voluntario.
 
 ###### Artículo 11.
 
@@ -253,15 +339,27 @@ Este Capítulo prioriza la universalidad, interdependencia, indivisibilidad, pro
 
 En los casos en que niñas, niños y adolescentes tengan una urgencia psiquiátrica derivada de alguno de los trastornos mentales y del comportamiento o por abuso de sustancias, en todo caso, los protocolos de atención deberán incluir la implementación de las acciones médicas como lo es el internamiento en unidades de psiquiatría infantil o camas destinadas para estos casos, preferentemente en hospitales infantiles y en hospitales generales, sin restricción alguna, dando prioridad como a cualquier urgencia médica calificada.
 
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### Artículo 17.
 
-El padre, la madre, tutores, tutrices o quienes ejerzan la patria potestad de niñas, niños y adolescentes, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de aquellos que presenten alteraciones de conducta o cuando se haga evidente la existencia de trastornos mentales y del comportamiento.
+EL PADRE, LA MADRE, TUTORES, TUTRICES O QUIENES EJERZAN LA PATRIA POTESTAD DE NIÑAS, NIÑOS Y ADOLESCENTES, LOS RESPONSABLES DE SU GUARDA, LAS AUTORIDADES EDUCATIVAS, MÉDICAS, ADMINISTRATIVAS, JURISDICCIONALES Y CUALQUIER PERSONA QUE ESTÉ EN CONTACTO CON LOS MISMOS, PROCURARÁN LA ATENCIÓN INMEDIATA DE NIÑAS, NIÑOS Y ADOLESCENTES QUE PRESENTEN ALTERACIONES DE CONDUCTA O CUANDO SE HAGA EVIDENTE LA EXISTENCIA DE TRASTORNOS MENTALES Y DEL COMPORTAMIENTO.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+Las actividades de prevención, diagnóstico, atención y rehabilitación en materia de salud mental de este grupo de edad, serán preferentemente gratuitas.
 
 ###### Artículo 18.
 
 Es prioritario que en la educación inicial, básica y hasta la media superior del sector público y privado, se contemple lo siguiente:
 
-I. La identificación temprana de un posible trastorno mental y del comportamiento o por uso de sustancias, que presenten niñas, niños o adolescentes debiéndolos canalizar a algún centro integral de salud mental, unidad o servicio de psiquiatría y/o neurología pediátrica u hospital de salud mental, así como informar a sus progenitores, tutores o tutrices y dar la orientación correspondiente;
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+I. LA ATENCIÓN PSICOLÓGICA PREFERENTEMENTE GRATUITA, PARA LA IDENTIFICACIÓN TEMPRANA DE UN POSIBLE TRASTORNO MENTAL Y DEL COMPORTAMIENTO O POR USO DE SUSTANCIAS, QUE PRESENTEN NIÑAS, NIÑOS O ADOLESCENTES.
 
 II. La elaboración de programas relacionados en materia de salud mental infantil, con especial interés en el acoso escolar también llamado bullying;
 
@@ -273,17 +371,31 @@ V. El implementar programas en coordinación con instituciones públicas o priva
 
 VI. El privilegiar el trato digno, evitando métodos o prácticas que impliquen alguna forma de maltrato físico, psicológico o emocional, así como de restricción o condicionamiento del ingreso o permanencia en cualquier centro educativo público o privado.
 
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+VII. SE PROCURARÁ CONTAR CON PERSONAL DE PSICOLOGÍA QUIEN HABRÁ DE CANALIZAR A ALGÚN CENTRO INTEGRAL DE SALUD MENTAL, UNIDAD O SERVICIO DE PSIQUIATRÍA Y/O NEUROLOGÍA PEDIÁTRICA, ASÍ COMO INFORMAR A SUS PROGENITORES, TUTORES O TUTRICES.
+
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### Artículo 19.
 
-Para proporcionar una atención integral a los y las menores en unidades de salud mental infantil, de hospitales generales o cualquier otro centro dedicado a la atención de este grupo de edad, es necesario lo siguiente:
+Para proporcionar una atención integral a niñas, niños y adolescentes en unidades de salud mental infantil, de hospitales generales o cualquier otro centro dedicado a la atención de este grupo de edad, es necesario lo siguiente:
 
-I. Contar con el personal de salud y equipo necesario y suficiente, para atender a las personas menores de edad que requieran de los servicios de salud mental; y,
+I. Contar con el personal de salud con cédula legalmente expedida por la autoridad competente, cuando así lo exija la Ley; para atender a las niñas, niños y adolescentes, que requieran de los servicios de salud mental.
 
-II. La adaptación o creación de nuevos espacios para la atención integral de la salud mental infantil, contando las áreas de hospitalización con las camas destinadas a este tipo de pacientes o consultorios para atención ambulatoria, según sea el caso de cada unidad o centro médico y que reúnan las condiciones requeridas para los diferentes tipos de trastornos mentales y del comportamiento o por uso de sustancias.
+II. La adaptación o creación de nuevos espacios apropiados, así como disponer del personal suficiente y profesional para la atención integral de la salud mental infantil, contando las áreas de hospitalización con las camas destinadas a este tipo de pacientes o consultorios para atención ambulatoria, según sea el caso de cada unidad o centro médico, y que reúnan las condiciones requeridas para los diferentes tipos de trastornos mentales y del comportamiento o por uso de sustancias.
+
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
 ###### Artículo 20.
 
-Dependiendo de su edad y capacidades, si la persona menor de edad brinda su asentimiento para el tratamiento, y el padre o la madre, tutores, tutrices o quien ejerza la patria potestad no otorgan el consentimiento, podrá, en caso necesario, intervenir personal del DIF Estatal, a través de la Procuraduría competente, a fin de llevar a cabo las diligencias correspondientes que establezcan que no se está violentando el derecho a la procuración de salud mental del infante.
+Dependiendo de su edad y capacidades, si la persona menor de edad brinda su consentimiento para el tratamiento, y el padre o la madre, tutores, tutrices o quien ejerza la patria potestad no otorgan el consentimiento, podrá, en caso necesario, intervenir personal del DIF Estatal, a través de la Procuraduría competente, a fin de llevar a cabo las diligencias correspondientes que establezcan que no se está violentando el derecho a la procuración de salud mental de niñas, niños y adolescentes.
 
 ### CAPÍTULO VII. ATENCIÓN DE PERSONAS ADULTAS MAYORES
 
@@ -387,9 +499,13 @@ Queda prohibido retener o mantener dentro de las mismas instalaciones en cualqui
 
 La evaluación y el diagnóstico clínico deberá llevarse a cabo por el personal de salud que realice dicha actividad, actuando en todo momento con un enfoque de derechos humanos y perspectiva de género en la atención a pacientes, para lo cual deberán cumplir con lineamientos y estándares emitidos por organismos internacionales y nacionales en materia de salud mental, así como la Ley General de Salud y las Normas Oficiales respectivas. El personal del sector salud que realice la evaluación y el diagnóstico a que se refiere el presente artículo, debe contar con licenciatura, postgrado, doctorado o especialización, con la finalidad de garantizar que conoce las limitaciones de los instrumentos y la aplicación de un procedimiento de esta naturaleza, en sus distintas variedades.
 
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### Artículo 35.
 
-El Psicoterapeuta o la Psicoterapeuta debe tener licenciatura en Psicología Clínica o especialidad en Psiquiatra, y haber obtenido su cédula profesional y preferentemente contar con estudios de posgrado en psicoterapia, realizados en instituciones que cuenten con validez oficial.
+Las personas psicoterapeutas deberán contar con cédula legalmente expedida por la autoridad competente, que avale sus estudios como especialista en Psiquiatría o de Licenciatura en Psicología con especialidad o posgrado en psicología clínica, psicoterapia o áreas afines, realizados en instituciones con validez oficial.
 
 ###### Artículo 36.
 
@@ -453,7 +569,11 @@ XVIII. Una o un representante del Colegio de Psicólogos del Estado de Chihuahua
 
 XIX. Una o un representante del Colegio de Psiquiatras del Estado de Chihuahua, a invitación de la o el Secretario Ejecutivo;
 
-XX. Tres representantes de la sociedad civil, a invitación de la o el Secretario Ejecutivo.
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XX. TRES PERSONAS REPRESENTANTES DE LA SOCIEDAD CIVIL, ELEGIDAS PREVIA CONVOCATORIA PÚBLICA QUE EMITA LA SECRETARÍA.
 
 ###### Artículo 41.
 
@@ -477,7 +597,11 @@ VI. Desempeñarse como un organismo de vinculación entre los sectores público,
 
 VII. Promover los valores éticos, cívicos y morales en las personas con trastornos mentales y del comportamiento, en estricto apego a los derechos humanos y los principios de no discriminación;
 
-VIII. Proponer programas y acciones en educación para la sensibilización en salud mental;
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+VIII. PROPONER PROGRAMAS Y ACCIONES EN EDUCACIÓN PARA LA DIFUSIÓN DE INFORMACIÓN SOBRE EL RECONOCIMIENTO A LOS PROBLEMAS DE SALUD MENTAL Y HÁBITOS SALUDABLES, ASÍ COMO DE SUS RESPECTIVOS TRATAMIENTOS.
 
 IX. Expedir su propio Reglamento, el cual deberá ser publicado en el Periódico Oficial del Estado, y
 
@@ -541,11 +665,31 @@ XXI. Implementar programas de sensibllizaci6n (sic) en materia de derechos human
 
 XXII. Llevar a cabo la investigación básica y aplicada, la cual tendrá como propósito contribuir al avance del conocimiento científico, así como a la satisfacción de las necesidades de salud mental del país, mediante el desarrollo científico y tecnológico, en áreas biomédicas, clínicas, sociomédicas y epidemiológicas;
 
-XXIII. Las demás señaladas en esta Ley y en los ordenamientos aplicables, así como aquellas que resulten necesarias para el cumplimiento de sus fines, dentro de su esfera de competencia.
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2023)</small>
+
+XXIII. PROPORCIONAR ATENCIÓN MÉDICA Y PSICOLÓGICA A TODA PERSONA CON CONDUCTA SUICIDA, PROCURANDO PRIORIZAR LA ASISTENCIA DE NIÑAS, NIÑOS Y ADOLESCENTES SIN NINGÚN TIPO DE MENOSCABO O DISCRIMINACIÓN.
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XXIV. Elaborar, en coordinación con la Secretaría, un protocolo de detección y atención oportuna de conductas suicidas, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2023)</small>
+
+XXV. Las demás señaladas en esta Ley y en los ordenamientos aplicables, así como aquellas que resulten necesarias para el cumplimiento de sus fines, dentro de su esfera de competencia.
 
 ###### Artículo 45.
 
 El Instituto tiene a su cargo el Registro Estatal de los Centros de Atención de Salud Mental, que servirá como instrumento informativo y estadístico de los mismos, y contendrá el padrón de instituciones que podrán ser públicas o privadas que realicen actividades de prevención, tratamiento, atención, rehabilitación y reinserción social en materia de salud mental, y en el que se describirán las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen. Este padrón será gratuito.
+
+(NOTA: EL 11 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 186/2023 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+###### Artículo 45 Bis.
+
+El Instituto brindará la difusión del padrón de los Centros de Atención de Salud Mental, mediante campañas y programas para un acceso universal e igualitario a la atención de la salud mental de todas las personas que lo necesiten.
 
 ###### Artículo 46.
 
@@ -610,3 +754,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los once días del mes de junio del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0571/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD Y LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
