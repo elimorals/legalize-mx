@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidad-patrimonial-del-estado-y-los-129844"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-26"
-last_updated: "2021-03-27"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 26 de junio de 2018.
 
@@ -81,7 +81,9 @@ VII. Lucro cesante: Es la privación de cualquier ganancia lícita que debiera h
 
 VIII. Órganos Autónomos: Aquellos órganos o entes a los que la Constitución Política del Estado Libre y Soberano de Oaxaca reconozca su autonomía.
 
-IX. Órganos de Control: El Órgano Superior de Fiscalización del Estado de Oaxaca, la Secretaría de la Contraloría y Transparencia Gubernamental, las contralorías internas, los órganos internos de control o sus equivalentes en los Poderes del Estado, Municipios y Órganos Autónomos constitucionales;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+IX. Órganos de Control: La Auditoría Superior de Fiscalización del Estado de Oaxaca, la Secretaría de Honestidad, Transparencia y Función Pública, las contralorías internas, los órganos internos de control o sus equivalentes en los Poderes del Estado, Municipios y Órganos Autónomos constitucionales;
 
 X. Reparación: Resarcimiento que comprende daño emergente, lucro cesante, daño personal y daño moral, y;
 
@@ -370,3 +372,13 @@ P.O. 27 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 389.- MEDIANTE EL CUAL SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 1, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 9, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22 Y LOS ARTÍCULOS 35, 38 Y 39 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE OAXACA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1451.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXXIX AL ARTÍCULO 4 DE LA LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN XII AL ARTÍCULO 2 DE LA LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS Y BIENES DEL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 45, EL PRIMER PÁRRAFO Y LAS FRACCIONES X Y XX DEL ARTÍCULO 47 Y LA FRACCIÓN XIV DEL ARTÍCULO 49 BIS TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en el portal del Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
