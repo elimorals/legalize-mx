@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2023-03-18"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -530,6 +530,14 @@ Los estacionamientos ubicados en las empresas identificadas como centros comerci
 ###### Artículo 24 Ter.
 
 Los estacionamientos públicos y privados, deberán contar con las instalaciones necesarias para garantizar la seguridad de las personas y de los vehículos. Dispondrán de espacios exclusivos para vehículos que cuenten con distintivo oficial o el permiso, para personas con discapacidad, mujeres embarazadas y personas adultas mayores, así como de instalaciones necesarias para proporcionar el servicio a los usuarios de bicicletas y motocicletas.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+Los estacionamientos a que se refiere el presente artículo, deberán reservar por lo menos un espacio por cada quince, para uso exclusivo de personas con discapacidad debidamente acreditadas, los cuales estarán ubicados en lugares preferentes y de fácil acceso.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+Los conductores que cuenten con los distintivos oficiales para personas con discapacidad, podrán hacer uso de forma gratuita hasta por cuatro horas, de los espacios de uso exclusivo a que hace referencia el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -3496,3 +3504,13 @@ P.O. 18 DE MARZO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1458.- MEDIANTE EL CUAL REFORMAN LOS INCISOS D) Y E) Y SE ADICIONA UN INCISO F) AL ARTÍCULO 36 BIS, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO RECORRIENDOSE EN SU ORDEN LOS SUBSECUENTES DEL ARTÍCULO 24 TER, DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
