@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-la-prestacion-de-servicios-para-la-atencion-1395
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-11"
-last_updated: "2023-07-01"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en el Anexo al No. 99 del Periódico Oficial del Estado de Chihuahua, el miércoles 11 de diciembre de 2019.
 
@@ -243,7 +243,9 @@ VII. Recibir orientación y educación apropiada acorde con su edad, enfocadas a
 
 VIII. Disfrutar de tiempo de descanso, juego y esparcimiento.
 
-IX. Recibir cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+IX. Recibir cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica, así como el tratamiento cuando se detecte algún indicio de afectación a la salud mental.
 
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
@@ -1206,6 +1208,14 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 P.O. 1 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0537/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0571/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD Y LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
