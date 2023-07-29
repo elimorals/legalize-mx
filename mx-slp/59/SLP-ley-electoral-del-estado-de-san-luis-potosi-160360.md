@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-160360"
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-28"
-last_updated: "2023-05-02"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 28 de septiembre de 2022.
 
@@ -257,7 +257,9 @@ XL. Precampaña: el conjunto de actividades que realizan los partidos políticos
 
 XLI. Prerrogativas de los partidos políticos: los derechos que la Ley otorga a estas entidades para el ejercicio de sus funciones;
 
-XLII. Proceso electoral: la fase temporal que comienza con la primera sesión del Consejo, a celebrarse el treinta de octubre del año inmediato anterior al de la elección, de conformidad con el artículo 255 de la presente Ley, y que concluye con la declaración de validez de las elecciones que emita el Consejo o, en su caso, la última resolución que emita el Tribunal Electoral del Estado, y comprende el conjunto de decisiones de éste, así como los actos, tareas y actividades que realicen los organismos electorales del Estado, los partidos políticos y las y los ciudadanos, dentro de este término;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XLII. Proceso electoral: la fase temporal que comienza con la primera sesión del Consejo, a celebrarse el dos de enero del año de la elección, de conformidad con el artículo 255 de la presente Ley, y que concluye con la declaración de validez de las elecciones que emita el Consejo o, en su caso, la última resolución que emita el Tribunal Electoral del Estado, y comprende el conjunto de decisiones de éste, así como los actos, tareas y actividades que realicen los organismos electorales del Estado, los partidos políticos y las y los ciudadanos, dentro de este término;
 
 XLIII. Propaganda electoral: el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, las y los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las respectivas candidaturas;
 
@@ -761,9 +763,11 @@ j) Las demás que confiere (sic) tanto la Ley de Acceso de las Mujeres a una Vid
 
 El Consejo General se reunirá en sesión ordinaria por lo menos una vez al mes. La persona que presida podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de las y los consejeros electorales o de las y los representantes de los partidos políticos, conjunta o indistintamente.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 51.
 
-El Consejo General, para la preparación del proceso electoral, se reunirá el treinta de octubre del año anterior a aquél en que se celebren las elecciones estatales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará por lo menos dos veces por mes.
+El Consejo General, para la preparación del proceso electoral, se reunirá el dos de enero del año en que se celebren las elecciones estatales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará por lo menos dos veces por mes.
 
 ###### ARTÍCULO 52.
 
@@ -2307,9 +2311,11 @@ b) El Instituto o el Consejo, en caso de delegación de facultades, vigilará qu
 
 c) Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 157.
 
-El Consejo, en la determinación de los topes de gastos de campaña, a más tardar el día último de octubre del año anterior al de la elección, procederá en los siguientes términos:
+El Consejo, en la determinación de los topes de gastos de campaña, que hará en la sesión de instalación que dé inicio del proceso electoral, procederá en los siguientes términos:
 
 I. Para la elección de Gobernador o Gobernadora, el tope máximo de gastos de campaña será equivalente al cincuenta por ciento del financiamiento público de campaña establecido para todos los partidos;
 
@@ -3353,9 +3359,11 @@ El Consejo, para efectos de la contratación a que se refiere el artículo inmed
 
 ### Capítulo I. Del Inicio del Proceso Electoral
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 255.
 
-El Consejo General dará inicio al proceso electoral, mediante una sesión pública de instalación convocada por la o el Presidente del mismo, el treinta de octubre del año anterior al de la elección, a fin de iniciar la preparación de la elección que corresponda, en la que se procederá a:
+El Consejo General dará inicio al proceso electoral, mediante una sesión pública de instalación convocada por la o el Presidente del mismo, el dos de enero del año de la elección, a fin de iniciar la preparación de la elección que corresponda, en la que se procederá a:
 
 I. Convocar a los partidos políticos para que designen o ratifiquen ante el Consejo, a quienes deban representarlos:
 
@@ -3383,9 +3391,11 @@ III. De resultados y declaración de validez de las elecciones: que se inicia co
 
 Tratándose de elección extraordinaria, en la convocatoria respectiva deberá establecerse la fecha exacta para la celebración de la jornada electoral, para que con base en la misma, la Secretaría Ejecutiva del Consejo esté en la posibilidad de elaborar el calendario electoral correspondiente, en el que deberán respetarse todos los plazos que se fijan en esta Ley para cada una de las etapas del proceso electoral ordinario, las que deberán adecuarse al proceso extraordinario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 257.
 
-El proceso de las elecciones ordinarias a la Gubernatura, diputaciones, y ayuntamientos, comienza a partir de la sesión del Consejo General celebrada a más tardar el treinta de octubre del año anterior al de la elección; y culmina con la declaración de validez formal pronunciada por el Consejo General, conforme a lo dispuesto por el párrafo segundo del artículo 31 de la Constitución del Estado, y el artículo 49 fracción II inciso l) de esta Ley. Sus fases serán:
+El proceso de las elecciones ordinarias a la Gubernatura, diputaciones, y ayuntamientos, comienza a partir de la sesión del Consejo General celebrada el dos de enero del año de la elección; y culmina con la declaración de validez formal pronunciada por el Consejo General, conforme a lo dispuesto por el párrafo segundo del artículo 31 de la Constitución del Estado, y el artículo 49 fracción II inciso l) de esta Ley. Sus fases serán:
 
 I. Proveer la debida integración de las comisiones distritales electorales, comprobando la legal instalación de éstas, a más tardar el último día del mes de enero del año de la elección;
 
@@ -4037,9 +4047,11 @@ Precandidata o precandidato, es la ciudadana o el ciudadano que pretende ser pos
 
 Ninguna ciudadana o ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 321.
 
-El Consejo, a más tardar el último día del mes de octubre del año previo al de la elección, determinará los topes de gasto de precampaña por precandidata o precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinticinco por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
+En la sesión de instalación que dé inicio al proceso electoral, el Consejo determinará los topes de gasto de precampaña por precandidata o precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinticinco por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
 
 ###### ARTÍCULO 322.
 
@@ -5910,3 +5922,13 @@ P.O. 2 DE MAYO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0797.- SE REFORMAN LOS ARTÍCULOS 6° EN SU FRACCIÓN XLII, 51, 157 EN SU PRIMER PÁRRAFO, 255 EN SU PRIMER PÁRRAFO, 257 EN SU PRIMER PÁRRAFO Y 321, DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. De conformidad con las disposiciones que este Decreto modifica, el Consejo Estatal Electoral y de Participación Ciudadana, podrá emitir los acuerdos o lineamientos que considere necesarios para realizar actos referentes al proceso electoral con anticipación al inicio del mismo, a fin de garantizar su cumplimiento, observando las disposiciones contenidas en la legislación general en materia electoral; la Ley Electoral del Estado de San Luis Potosí; y los acuerdos que en su caso emita el Instituto Nacional Electoral.
+
+TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
