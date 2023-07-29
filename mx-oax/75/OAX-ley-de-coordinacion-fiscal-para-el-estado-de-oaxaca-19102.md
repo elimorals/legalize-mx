@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2022-12-15"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -85,9 +85,9 @@ VI. Ley de Coordinación: A la Ley de Coordinación Fiscal;
 
 VII. Municipio: Al nivel de Gobierno, investido de personalidad jurídica, con territorio y patrimonio propios, autónomo en su régimen interior, con capacidad económica propia y con la libre administración de su hacienda; con una población asentada en una circunscripción territorial y gobernado por un Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-VIII. Órgano de Fiscalización: Órgano Superior de Fiscalización del Estado de Oaxaca;
+VIII. Auditoría Superior de Fiscalización: Auditoría Superior de Fiscalización del Estado de Oaxaca.
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -615,9 +615,9 @@ I.- Los recursos a distribuirse se asignarán en proporción directa al número 
 
 II.- De conformidad a la capacidad recaudatoria de cada una de ellas, del ejercicio inmediato anterior.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-La comprobación del ejercicio de los recursos, se hará ante el Órgano Superior de Fiscalización del Estado de Oaxaca, a través de los Ayuntamientos, la omisión en la entrega de los montos a que hace referencia el presente artículo, será sancionada en los términos previstos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; así como demás leyes aplicables.
+La comprobación del ejercicio de los recursos, se hará ante la Auditoría Superior de Fiscalización del Estado de Oaxaca, a través de los Ayuntamientos, la omisión en la entrega de los montos a que hace referencia el presente artículo, será sancionada en los términos previstos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, así como demás leyes aplicables.
 
 ### CAPITULO TERCERO. DE LA COLABORACIÓN ADMINISTRATIVA ENTRE LOS MUNICIPIOS Y EL ESTADO
 
@@ -761,13 +761,13 @@ a) Las autoridades hacendarias municipales;
 
 b) El Presidente diputado de la Comisión Permanente de Hacienda;
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
-c) La o el Diputado Presidente de la Comisión Permanente de Vigilancia del Órgano Superior de Fiscalización, y
+c) La o el Diputado Presidente de la Comisión Permanente de Vigilancia de la Auditoría Superior de Fiscalización y
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
-d) La o el titular del Órgano de Fiscalización.
+d) La o el titular de la Auditoría Superior de Fiscalización.
 
 Los cargos del Consejo de Coordinación Hacendaria son honoríficos.
 
@@ -775,9 +775,9 @@ Las autoridades municipales se elegirán mediante sorteo previo, eligiéndose el
 
 Para este fin, se determinan regiones hacendarias: Cañada, Costa, Istmo, Mixteca, Papaloapan, Valles Centrales, Sierra Norte y Sierra Sur, de conformidad con el Plan Estatal de Desarrollo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
-El sorteo se llevará a cabo a más tardar el último día del mes de enero de cada ejercicio fiscal con la presencia de los diputados presidentes de las comisiones permanentes del H. Congreso del Estado, mencionados antes, y el titular del Órgano Superior de Fiscalización del Estado de Oaxaca, resultado que deberá publicarse en el Periódico Oficial del Gobierno del Estado conjuntamente con la convocatoria para llevar a cabo la instalación del Consejo de Coordinación Hacendaria.
+El sorteo se llevará a cabo a más tardar el último día del mes de enero de cada ejercicio fiscal con la presencia de los diputados presidentes de las comisiones permanentes del H. Congreso del Estado, mencionados antes, y el titular de la Auditoría Superior de Fiscalización del Estado, resultado que deberá publicarse en el Periódico Oficial del Gobierno del Estado conjuntamente con la convocatoria para llevar a cabo la instalación del Consejo de Coordinación Hacendaria.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -795,9 +795,9 @@ Corresponde al Secretario integrar la agenda de los asuntos a tratar.
 
 El Consejo de Coordinación Hacendaria podrá sesionar válidamente en primera convocatoria con la asistencia del Presidente, Secretario y, cuando menos, el cincuenta por ciento más uno de sus vocales y, en segunda convocatoria, después de transcurridos treinta minutos a la primera, con el Presidente, el Secretario y los vocales presentes.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
-Los integrantes del Consejo de Coordinación Hacendaría tendrán voz y voto, excepto el Secretario y los representantes de las Comisiones Permanentes de Hacienda y de Vigilancia del Órgano Superior de Fiscalización del Estado de Oaxaca, quienes sólo tendrán voz.
+Los integrantes del Consejo de Coordinación Hacendaría tendrán voz y voto, excepto el Secretario y los representantes de las Comisiones Permanentes de Hacienda y de Vigilancia de la Auditoría Superior de Fiscalización del Estado, quienes sólo tendrán voz.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -1046,3 +1046,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintitrés, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1470.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 2; EL SEGUNDO PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 24; LOS INCISOS C) Y D), EL CUARTO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 31, Y EL CUARTO PÁRRAFO DEL ARTÍCULO 33, TODOS DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
