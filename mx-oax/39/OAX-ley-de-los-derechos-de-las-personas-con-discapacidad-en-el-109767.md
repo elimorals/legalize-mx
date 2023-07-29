@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-las-personas-con-discapacidad-en-el-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-24"
-last_updated: "2022-10-15"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 24 de agosto de 2015.
 
@@ -103,35 +103,39 @@ XXI.- Estenografía Proyectada: Es la técnica de transcripción de un monólogo
 
 XXII.- Estimulación Temprana: Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración.
 
-XXIII.- Igualdad de Oportunidades: Proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, convivencia y participación, en igualdad con el resto de la población.
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
 
-XXIV.- Inclusión: Es un enfoque que responde positivamente a la diversidad de las personas y a las diferencias individuales, entendiendo que la diversidad es una oportunidad para el enriquecimiento de la sociedad, a través de la participación activa en la vida familiar, en la educación, en el trabajo, en la cultura y en general, en todos los procesos y espacios sociales.
+XXIII.- Formato de lectura fácil: Texto complementario al principal, redactado en lenguaje simple, directo, cotidiano y personalizado, con tipografía clara y tamaño accesible, el cual puede utilizar ejemplos para su mejor comprensión, libre de tecnicismos y conceptos abstractos.
 
-XXV.- Inclusión plena: Es la participación libre y sin discriminación de las personas con discapacidad en las distintas esferas que conforman su vida en los ámbitos social, económico, político, cultural y de infraestructura y servicios.
+XXIV.- Igualdad de Oportunidades: Proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, convivencia y participación, en igualdad con el resto de la población.
 
-XXVI.- Justicia social: Es un principio fundamental para la convivencia pacífica y próspera que se concreta cuando se eliminan las barreras que enfrentan las personas en desventaja social para hacer realizables sus derechos humanos, a través de un empleo digno, la protección y diálogo social entre otros.
+XXV.- Inclusión: Es un enfoque que responde positivamente a la diversidad de las personas y a las diferencias individuales, entendiendo que la diversidad es una oportunidad para el enriquecimiento de la sociedad, a través de la participación activa en la vida familiar, en la educación, en el trabajo, en la cultura y en general, en todos los procesos y espacios sociales.
 
-XXVII.- Lengua de Señas Mexicana: Consiste en una serie de signos articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, tiene su propia gramática y vocabulario.
+XXVI.- Inclusión plena: Es la participación libre y sin discriminación de las personas con discapacidad en las distintas esferas que conforman su vida en los ámbitos social, económico, político, cultural y de infraestructura y servicios.
 
-XXVIII.- Ley: Ley de los Derechos de las Personas con Discapacidad en el Estado de Oaxaca.
+XXVII.- Justicia social: Es un principio fundamental para la convivencia pacífica y próspera que se concreta cuando se eliminan las barreras que enfrentan las personas en desventaja social para hacer realizables sus derechos humanos, a través de un empleo digno, la protección y diálogo social entre otros.
 
-XXIX.- Organizaciones: Todos aquellos grupos sociales constituidos legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e inclusión social.
+XXVIII.- Lengua de Señas Mexicana: Consiste en una serie de signos articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, tiene su propia gramática y vocabulario.
 
-XXX.- Participación: Es el derecho de las personas a ser escuchadas y tomadas en cuenta para la toma de decisiones y acciones que puedan llegar a impactar en su vida y en sus derechos.
+XXIX.- Ley: Ley de los Derechos de las Personas con Discapacidad en el Estado de Oaxaca.
 
-XXXI.- Personas con discapacidad: Son aquellas que presentan alguna deficiencia física, mental, intelectual o sensorial, o un trastorno de talla o de peso congénito o adquirido, de forma temporal o permanente que, al interactuar con diversas barreras, estas puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas.
+XXX.- Organizaciones: Todos aquellos grupos sociales constituidos legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e inclusión social.
 
-XXXII.- Perro guía o animal de servicio: Son aquellos que han sido adiestrados para el acompañamiento, conducción y auxilio de personas con discapacidad.
+XXXI.- Participación: Es el derecho de las personas a ser escuchadas y tomadas en cuenta para la toma de decisiones y acciones que puedan llegar a impactar en su vida y en sus derechos.
 
-XXXIII.- Pluriculturalidad e interculturalidad: Es la interlocución entre personas basada en el diálogo, la escucha y la posibilidad de que cada parte tome lo que pueda ser tomado de la otra, respetando sus particularidades e individualidades. Se trata de un enfoque para la concertación, no la imposición; por tanto, la interculturalidad implica un intercambio para construir algo nuevo.
+XXXII.- Personas con discapacidad: Son aquellas que presentan alguna deficiencia física, mental, intelectual o sensorial, o un trastorno de talla o de peso congénito o adquirido, de forma temporal o permanente que, al interactuar con diversas barreras, estas puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas.
 
-XXXIV.- Política Pública: Todos aquellos planes, programas, estrategias, medidas y acciones que la autoridad desarrolle para garantizar los derechos establecidos en la presente Ley a nivel estatal y municipal.
+XXXIII.- Perro guía o animal de servicio: Son aquellos que han sido adiestrados para el acompañamiento, conducción y auxilio de personas con discapacidad.
 
-XXXV.- Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de las personas con discapacidad de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte.
+XXXIV.- Pluriculturalidad e interculturalidad: Es la interlocución entre personas basada en el diálogo, la escucha y la posibilidad de que cada parte tome lo que pueda ser tomado de la otra, respetando sus particularidades e individualidades. Se trata de un enfoque para la concertación, no la imposición; por tanto, la interculturalidad implica un intercambio para construir algo nuevo.
 
-XXXVI.- Escritura Braille: Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil.
+XXXV.- Política Pública: Todos aquellos planes, programas, estrategias, medidas y acciones que la autoridad desarrolle para garantizar los derechos establecidos en la presente Ley a nivel estatal y municipal.
 
-XXXVII.- Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
+XXXVI.- Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de las personas con discapacidad de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte.
+
+XXXVII.- Escritura Braille: Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil.
+
+XXXVIII.- Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
 ###### Artículo 3.
 
@@ -225,6 +229,10 @@ II. Garantizar, respetar, proteger, y promover en condiciones de igualdad el eje
 
 III. Incluir acciones y programas para la protección y promoción de los derechos humanos de las personas con discapacidad. Se considerará (sic) las desigualdades por razones de género, creando acciones afirmativas en las políticas, planes y programas específicos para mujeres y niñas.
 
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+IV. Establecer acciones y programas para que el transporte público e infraestructura urbana permitan la movilidad, libre tránsito, uso y acceso de las personas con discapacidad, por si o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, con seguridad a los espacios públicos y privados.
+
 ###### Artículo 8.
 
 Corresponde al titular del Poder Ejecutivo:
@@ -281,9 +289,11 @@ Las personas con discapacidad tienen derecho a acceder a la justicia en igualdad
 
 En los casos en que se involucren niñas, niños y adolescentes, las instituciones de procuración e impartición de justicia observarán el principio del Interés Superior del Niño.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### Artículo 13.
 
-Las instituciones de procuración e impartición de justicia contarán con intérpretes de Lengua de Señas Mexicana y lenguas indígenas, de comunicación alternativa o aumentativa, así como especialistas en la elaboración y lectura de documentos en Sistema de escritura Braille.
+Las instituciones de procuración e impartición de justicia contarán con intérpretes de Lengua de Señas Mexicana y lenguas indigenas, de comunicación alternativa o aumentativa, así como especialistas en la elaboración y lectura de documentos en Sistema de escritura Braille en formato de lectura fácil.
 
 ###### Artículo 14.
 
@@ -299,9 +309,9 @@ Los poderes Ejecutivo y Judicial garantizarán que las instancias de seguridad p
 
 Las personas con discapacidad tienen derecho a la libertad de expresión y opinión; incluida la libertad de recabar, recibir y difundir información e ideas mediante cualquier forma de comunicación que les facilite una participación e inclusión en igualdad de condiciones que las demás personas. Para tales efectos, las autoridades estatales y municipales establecerán entre otras, las siguientes medidas:
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-I. Facilitar el acceso a los nuevos sistemas, tecnologías de la información y comunicaciones, incluido Internet, así como a la información dirigida al público en general, de manera oportuna y sin costo adicional, a través de formatos accesibles que deberán proporcionar las dependencias y tecnologías adecuadas a los diferentes tipos de discapacidad y edad, para la difusión de información dirigida al público.
+I. Facilitar el acceso a los nuevos sistemas, tecnologías de la información y comunicaciones, incluico (sic) internet, así como a la información dirigida al público en general, de manera oportuna y sin costo adicional, a través de formatos accesibles y de lectura fácil que deberán proporcionar las dependencias y tecnologías adecuadas a los diferentes tipos de discapacidad y edad, para la difusión de información dirigida al público.
 
 II. Promover la utilización de la Lengua de Señas Mexicana, el Sistema Braille, y otros modos, medios y formatos aumentativos y alternativos de comunicación;
 
@@ -311,11 +321,11 @@ III. Proporcionar información y asesoría de servicios y programas sociales y l
 
 ### CAPÍTULO IV. DERECHO A LA EDUCACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
 
 ###### Artículo 17.
 
-Las instituciones encargadas de la educación pública y privada en el Estado de Oaxaca garantizarán el derecho a la educación y el acceso a personas con discapacidad, prohibiéndose cualquier forma de discriminación en planteles, centros educativos, centros de atención infantil, y centros con servicios de educación especial o del personal docente o administrativo. Para tales efectos, realizarán las siguientes acciones:
+La Secretaría de Educación Pública, el Instituto Estatal de Educación Pública de Oaxaca, la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología y las universidades públicas y privadas en el Estado garantizarán el derecho a la educación y el acceso a personas con discapacidad, prohibiéndose cualquier forma de discriminación en los planteles, centros educativos, centros de atención infantil o del personal docente o administrativo. Para tales efectos, realizarán las siguientes acciones:
 
 I. Diseñar, ejecutar, implementar y evaluar un sistema de educación inclusiva en todos los niveles educativos, que garantice la educación significativa de las personas con discapacidad en igualdad de condiciones con las demás personas.
 
@@ -471,13 +481,17 @@ IX. Las demás que disponga esta Ley y otros ordenamientos legales aplicables
 
 Las personas con discapacidad tienen derecho a un nivel de vida adecuado, incluyendo alimentación, vestido y vivienda así como a la mejora continua de sus condiciones de vida, sin discriminación por motivos de discapacidad.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
 
 ###### Artículo 30.
 
-Corresponde a la Secretaría de Bienestar del Estado de Oaxaca, establecer los lineamientos y las reglas de operación acordes para garantizar el acceso de las personas con discapacidad, en particular las mujeres de todas las edades, en todas las acciones, programas de desarrollo social y estrategias de reducción de la pobreza, considerando el principio de accesibilidad.
+Corresponde a la Secretaria de Bienestar, Tequio e Inclusión, establecer los lineamientos y las reglas de operación acordes para garantizar el acceso de las personas con discapacidad, en particular las mujeres de todas las edades, en todas las acciones, programas de desarrollo social y estrategias de reducción de la pobreza, considerando el principio de accesibilidad.
 
-Fomentar que las dependencias utilicen formatos accesibles y con las tecnologías adecuadas a los diferentes tipos de discapacidad para la difusión de información dirigida al público, de manera oportuna y sin costo adicional, y
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
+Fomentar que las dependencias utilicen formatos accesibles y de lectura fácil con las tecnologías adecuadas a los diferentes tipos de discapacidad para la difusión de información dirigida al público, de manera oportuna y sin costo adicional, y
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 Propiciar el diseño y la formación de un sistema de información sobre los servicios públicos en materia de discapacidad, a través de la utilización de la lengua de señas, el sistema braille, y otros modos, medios y formatos de comunicación, así como el acceso a los nuevos sistemas y tecnologías de la información y las comunicaciones, incluido internet.
 
@@ -549,9 +563,17 @@ b) Escalón universal, fijo o móvil en ventanillas, taquillas, mostradores, ana
 
 c) Alarmas y anuncios o turnos en sistemas sonoros y visuales;
 
-d) Avisos de privacidad, reglamentos, términos, condiciones y toda información legal o relevante en formatos accesibles, como son lengua de señas mexicana, sistema de escritura braille y formatos de lectura fácil, y
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
-e) Ventanillas y mostradores adecuados para personas usuarias de silla de ruedas.
+d) Avisos de privacidad, reglamentos, términos, condiciones y toda información legal o relevante en formatos accesibles, como son lengua de señas mexicana, sistema de escritura braille y formatos de lectura fácil.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
+e) Ventanillas y mostradores adecuados para personas usuarias de silla de ruedas; y
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+f) Espacios de estacionamiento para uso exclusivo de personas con discapacidad.
 
 ### CAPÍTULO XI. PARTICIPACIÓN EN LA VIDA CULTURAL, LAS ACTIVIDADES RECREATIVAS, EL ESPARCIMIENTO Y EL DEPORTE
 
@@ -559,9 +581,11 @@ e) Ventanillas y mostradores adecuados para personas usuarias de silla de ruedas
 
 Las personas con discapacidad tienen derecho a participar en la vida cultural, recreativa, de esparcimiento y deportiva en igualdad de condiciones que las demás personas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### Artículo 38.
 
-Corresponde a la Secretaría de las Culturas y Artes de Oaxaca, y a los municipios, promover y garantizar el derecho de las personas con discapacidad a la cultura, la recreación, el desarrollo de sus capacidades artísticas y la protección de sus derechos de propiedad intelectual. Para tales efectos, realizarán las siguientes acciones:
+Corresponde a la Secretaría de las Culturas y Artes de Oaxaca, y a los municipios, oromover (sic) y garantizar el derecho de las personas con discapacidad a la cultura, la recreación, el desarrollo de sus capacidades artísticas y la protección de sus derechos de propiedad intelectual. Para tales efectos, realizarán las siguientes acciones:
 
 I. Establecer programas para apoyar el desarrollo artístico y cultural de las personas con discapacidad;
 
@@ -581,7 +605,9 @@ VIII. Impulsar el reconocimiento y el apoyo de su identidad cultural y lingüís
 
 IX. Establecer la capacitación de recursos humanos, el uso de materiales y tecnología con la finalidad de lograr la inclusión de las personas con discapacidad en las actividades culturales;
 
-X. Elaborar materiales de lectura, incluyendo el sistema Braille u otros formatos accesibles; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+X. Elaborar materiales de lectura, en formato de lectura fácil incluyendo el sistema Braille u otros formatos accesibles; y
 
 XI. Las demás que dispongan esta Ley y otros ordenamientos aplicables.
 
@@ -597,9 +623,11 @@ III. Procurar el acceso y libre desplazamiento de las personas con discapacidad 
 
 IV. Las demás que dispongan esta Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### Artículo 40.
 
-La Secretaría de Turismo y Desarrollo Económico en coordinación con las instituciones federales, estatales, municipales y organismos de los sectores social y privado, promoverán la prestación de servicios turísticos que garanticen la accesibilidad y el desarrollo inclusivo de las personas con discapacidad.
+La Secretaría de Turismo en coordinación con las instituciones federales, estatales, municipales y organismos de los sectores social y privado, promoverán la prestación de servicios turísticos que garanticen la accesibilidad y el desarrollo inclusivo de las personas con discapacidad.
 
 Para tales efectos, realizarán las siguientes acciones:
 
@@ -767,7 +795,11 @@ XV.- Aprobar su Reglamento Interno;
 
 XVI.- Aprobar y remitir al Congreso del Estado un informe anual de actividades;
 
-XVII.- Las demás que señalen la presente Ley, su Reglamento y otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XVII.- Establecer programas de capacitación a los servidores públicos que tengan a su cargo la atención directa a la ciudadanía con el objeto de que cuenten con los conocimientos necesarios en el manejo de las tecnologías de la información, comunicación y accesibilidad para otorgar un servicio de calidad, generen un trato digno, y cuyas técnicas permitan la interacción con las personas con discapacidad.
+
+XVIII.- Las demás que señalen la presente Ley, su Reglamento y otras disposiciones legales.
 
 ###### Artículo 50.
 
@@ -979,11 +1011,11 @@ La Procuraduría de la Defensa de las Personas con Discapacidad, velará en todo
 
 ### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 56], P.O.4 DE DICIEMBRE DE 2021)
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
 ###### Artículo 63.
 
-El incumplimiento, ya sea por acción u omisión, de lo dispuesto en esta Ley por parte de autoridades estatales o municipales, generará responsabilidades imputables y serán sancionados conforme a lo prescrito por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, sin menoscabo de la posibilidad del inicio de procedimiento de queja ante la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y/o el fincamiento de responsabilidades de diversa índole jurídica dependiendo del caso concreto.
+El incumplimiento, ya sea por acción u omisión, de lo dispuesto en esta Ley por parte de autoridades estatales o municipales, generará responsabilidades imputables y serán sancionados conforme a lo prescrito por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, sin menoscabo de la posibilidad del inicio de procedimiento de queja ante la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y/o el fincamiento de responsabilidades de diversa índole jurídica dependiendo del caso concreto.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 57], P.O.4 DE DICIEMBRE DE 2021)
 
@@ -1136,3 +1168,33 @@ P.O. 15 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1456.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 16; EL PRIMER PÁRRAFO DEL ARTÍCULO 17; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 30; EL PRIMER PÁRRAFO Y LA FRACCIÓN X DEL ARTÍCULO 38; EL PRIMER PÁRRAFO DEL ARTÍCULO 40; EL ARTÍCULO 63; SE ADICIONAN LA FRACCIÓN XXIII RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 2, Y LA FRACCIÓN IV AL ARTÍCULO 7, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1457.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 49 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1458.- MEDIANTE EL CUAL REFORMAN LOS INCISOS D) Y E) Y SE ADICIONA UN INCISO F) AL ARTÍCULO 36 BIS, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISAPACIDAD EN EL ESTADO DE OAXACA; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO RECORRIENDOSE EN SU ORDEN LOS SUBSECUENTES DEL ARTÍCULO 24 TER, DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
