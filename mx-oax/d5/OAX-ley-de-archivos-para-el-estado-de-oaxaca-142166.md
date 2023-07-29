@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-archivos-para-el-estado-de-oaxaca-142166"
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-15"
-last_updated: "2023-06-24"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE JUNIO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 15 de febrero de 2020.
 
@@ -167,7 +165,9 @@ XXXVII. Metadatos: Al conjunto de datos que describen el contexto, contenido y e
 
 XXXVIII. Organización: Al conjunto de operaciones intelectuales y mecánicas destinadas a la clasificación, ordenación y descripción de los distintos grupos documentales con el propósito de consultar y recuperar, eficaz y oportunamente, la información. Las operaciones intelectuales consisten en identificar y analizar los tipos de documentos, su procedencia, origen funcional y contenido, en tanto que las operaciones mecánicas son aquellas actividades que se desarrollan para la ubicación física de los expedientes;
 
-XXXIX. Órganos Autónomos: A la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, la Comisión Estatal de Arbitraje Médico, el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca, la Universidad Autónoma Benito Juárez de Oaxaca, el Tribunal Electoral del Estado de Oaxaca, el Instituto Estatal y de Participación Ciudadana del Estado de Oaxaca, el Órgano Superior de Fiscalización del Estado de Oaxaca, el Tribunal de Justicia Administrativa del Estado de Oaxaca, y Fiscalía General del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XXXIX. Órganos Autónomos: A la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, la Comisión Estatal de Arbitraje Médico, el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca, la Universidad Autónoma Benito Juárez de Oaxaca, el Tribunal Electoral del Estado de Oaxaca, el Instituto Estatal y de Participación Ciudadana del Estado de Oaxaca, la Auditoría Superior de Fiscalización del Estado de Oaxaca, el Tribunal de Justicia Administrativa del Estado de Oaxaca, y Fiscalía General del Estado de Oaxaca;
 
 XL. Patrimonio documental: A los documentos que, por su naturaleza, no son sustituibles y dan cuenta de la evolución del Estado y de las personas e instituciones que han contribuido en su desarrollo; además de transmitir y heredar información significativa de la vida intelectual, social, política, económica, cultural y artística de una comunidad, incluyendo aquellos que hayan pertenecido o pertenezcan a los sujetos obligados, casas curales o cualquier otra organización, sea religiosa o civil;
 
@@ -1484,3 +1484,13 @@ DÉCIMO SEGUNDO. La Secretaría de Administración, en un plazo que no exceda de
 DÉCIMO TERCERO. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto. La Secretaría de Finanzas, la Secretaría de Administración y la Secretaría de Honestidad, Transparencia y Función Pública, deberán llevar a cabo las gestiones necesarias para que se autorice la estructura orgánica del Organismo Público Descentralizado Archivo General del Estado de Oaxaca, de conformidad con las disposiciones correspondientes.
 
 DÉCIMO CUARTO. Se instruye a la Secretaría de Servicios Parlamentarios y a la Dirección Jurídica para que en cumplimiento a la sentencia dictada en la Acción de Inconstitucionalidad 122/2020, comunique el presente Decreto a la Suprema Corte de Justicia de la Nación, solicitando se tenga a este Honorable Congreso del Estado Libre y Soberano de Oaxaca dando por cumplida la sentencia de mérito.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1451.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXXIX AL ARTÍCULO 4 DE LA LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN XII AL ARTÍCULO 2 DE LA LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS Y BIENES DEL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 45, EL PRIMER PÁRRAFO Y LAS FRACCIONES X Y XX DEL ARTÍCULO 47 Y LA FRACCIÓN XIV DEL ARTÍCULO 49 BIS TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en el portal del Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
