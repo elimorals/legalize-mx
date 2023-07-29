@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entrega-recepcion-de-los-recursos-y-bienes-del-124716"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-20"
-last_updated: "2023-02-10"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS Y BIENES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el viernes 20 de octubre de 2017.
 
@@ -77,7 +77,9 @@ X. Expediente: Al archivo que contiene el acta de entrega-recepción y sus anexo
 
 XI. Ley: A la Ley de Entrega-Recepción de Recursos y Bienes del Estado de Oaxaca;
 
-XII. Órganos de Control: Al Órgano de Fiscalización, la Secretaría de la Contraloría y Transparencia Gubernamental, las contralorías internas, los órganos internos de control o sus equivalentes en los Poderes del Estado y Órganos Autónomos Constitucionales;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XII. Órganos de Control: La Auditoría Superior de Fiscalización del Estado, la Secretaría de Honestidad, Transparencia y Función Pública, las contralarías internas, los órganos internos de control o sus equivalentes en los Poderes del Estado y Órganos Autónomos Constitucionales;
 
 XIII. Poderes del Estado: A los Poderes Legislativo, Ejecutivo y Judicial del Estado de Oaxaca;
 
@@ -560,3 +562,13 @@ P.O. 10 DE FEBRERO DE 2023.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1451.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXXIX AL ARTÍCULO 4 DE LA LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN XII AL ARTÍCULO 2 DE LA LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS Y BIENES DEL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 45, EL PRIMER PÁRRAFO Y LAS FRACCIONES X Y XX DEL ARTÍCULO 47 Y LA FRACCIÓN XIV DEL ARTÍCULO 49 BIS TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en el portal del Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
