@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2022-11-02"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -1011,9 +1011,9 @@ La Secretaría, en materia de salud mental, atención terapéutica, prevención 
 
 Para los efectos de esta Ley, se entiende por salud mental el estado de bienestar que una persona experimenta como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos y conductuales y, en última instancia, el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación.
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
-La atención de los trastornos mentales y del comportamiento deberá brindarse con un enfoque comunitario, de reinserción psicosocial y con estricto respeto a los derechos humanos de los usuarios de estos servicios.
+La atención de los trastornos mentales y del comportamiento deberá brindarse con un enfoque comunitario, de reinserción psicosocial y con estricto respeto a los derechos humanos de las personas usuarias, con un enfoque interdisciplinario, intercultural, intersectorial, y con perspectiva de género.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -2227,7 +2227,9 @@ La Secretaría, a través de sus instituciones de salud, garantizará el tratami
 
 Los Programas para la Atención de Cánceres mamario, cérvico-uterino y de próstata, tienen como objeto la promoción, prevención, detección y tratamiento oportuno y especializado.
 
-Se procurará la gratuidad y permanencia de estos programas.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+
+Se procurará la gratuidad y permanencia de estos programas; así como los de tratamiento tanatológico, psicológico y psiquiátrico de las personas diagnosticadas durante el proceso de estos padecimientos.
 
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 2019)</small>
 
@@ -2261,11 +2263,13 @@ Para cumplir con las disposiciones anteriores, la Secretaría deberá:
 
 A).- Tratándose del Programa para la Atención de Cáncer de Mama:
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-I.- Facilitar el acceso a mastografía y el estudio molecular genético a mujeres con factores de riesgo y de acuerdo a la edad.
+I.- Facilitar el acceso a mastografía y el estudio molecular genético a las personas con factores de riesgo y de acuerdo a la edad.
 
-II.- Concientizar a las mujeres sobre la importancia de la autoexploración para la detección oportuna del cáncer de mama.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+
+II.- Concientizar a las personas sobre la importancia de la autoexploración para la detección oportuna del cáncer de mama.
 
 B).- Para el Programa para la Atención de Cáncer Cérvico-uterino:
 
@@ -2475,15 +2479,43 @@ IX.- Establecer programas, en coordinación con las autoridades competentes, que
 
 X.- Implementar un sistema de quejas y denuncias que permitan al ciudadano que conozca de una violación a la presente Ley, denunciarla, de manera verbal o por escrito libre, a la Secretaría o al Órgano de Control Interno del Ejecutivo, a fin de que se realicen las investigaciones pertinentes.
 
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XI.- Coordinar con las autoridades correspondientes, la atención preferentemente gratuita de niñas, niños y adolescentes, con padecimientos y trastornos mentales.
+
 ###### Artículo 238.
 
 Para la promoción de la salud mental, la Secretaría y las instituciones de salud, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
 I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JULIO DE 2023)</small>
 
-Así mismo, por lo que se refiere específicamente al suicidio, se llevarán a cabo acciones que comprendan la investigación de sus causas, la detección y atención de la depresión oportuna en los centros de salud regional y municipal, divulgando los métodos de prevención en los medios escritos u otros accesibles a cualquier persona, incluyendo los de comunicación electrónica.
+Así mismo, por lo que se refiere específicamente al suicidio, se llevarán a cabo acciones en materia de detección, prevención y atención al suicidio, las cuales deberán incluir:
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+a) La participación interinstitucional con enfoque interdisciplinario, orientada a la erradicación del suicidio.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+b) La promoción de principios de equidad y no discriminación en el acceso y prestación a los servicios de salud, de quienes presenten alguna conducta suicida.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+c) La sensibilización, capacitación y profesionalización del personal policial, docente, médico, paramédico y, en su caso, a quienes atiendan a las personas en crisis para su prevención, atención y posvención.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+d) La difusión de líneas de comunicación de contacto directo, atendidas por personal especializado en la materia.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+e) El diseño de un protocolo de intervención, para los servicios de emergencia hospitalaria, considerando la coordinación entre las instituciones de servicios de salud del sector público y privado, y otros ámbitos comunitarios intervinientes.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+f) La implementación de procedimientos posteriores a una conducta suicida, a fin de asistir y acompañar a las familias o instituciones vinculadas a la persona que intentó o se privó de la vida.
 
 II.- La difusión de las orientaciones para la promoción de la salud mental.
 
@@ -2543,11 +2575,19 @@ La Secretaría, conforme a las normas que establezca la Secretaría de Salud Fed
 
 A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
+
 ###### Artículo 242.
 
-Los padres o quienes ejerzan la patria potestad de menores, tutores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta, que permitan suponer la existencia de un trastorno o enfermedad mental.
+El padre, la madre, tutores, tutrices o quienes ejerzan la patria potestad de niñas, niños y adolescentes, los responsables de su guarda, las autoridades educativas, médicas, administrativas, jurisdiccionales y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de niñas, niños y adolescentes que presenten alteraciones de conducta o cuando se haga evidente la existencia de trastornos mentales y del comportamiento.
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de personas en esta situación.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+###### Artículo 242 Bis.
+
+Cuando se trate del intento o la conducta suicida de una niña, niño o adolescente, la institución que primero conozca del caso, deberá dar aviso del incidente a la Procuraduría de Protección de Niñas, Niños o Adolescentes, a fin de que se realicen las acciones necesarias para salvaguardar sus derechos.
 
 TÍTULO DECIMOTERCERO
 
@@ -4006,3 +4046,11 @@ El Ejecutivo del Estado incluirá, dentro de su presupuesto anual a partir del e
 ###### ARTÍCULO TERCERO.
 
 El Ejecutivo Estatal deberá emitir las disposiciones reglamentarias y Normas Técnicas Estatales necesarias de la presente reforma.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLEY/0571/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD Y LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
