@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2023-07-15"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -1785,9 +1785,9 @@ XXXII. Coordinar las condiciones que permitan la inversión privada en obras y/o
 
 XXXIII. Fijar los lineamientos que deba seguir la Administración Pública Estatal en la elaboración de la documentación necesaria para la formulación de informes de avances de gestión financiera e integrar dicha información, en coordinación con la Jefatura de la Gubernatura;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-XXXIV. Aclarar las observaciones que le finque el Congreso Local por conducto del Órgano Superior de Fiscalización del Estado de Oaxaca;
+XXXIV. Aclarar las observaciones que le finque el Congreso Local por conducto de la Auditoría Superior de Fiscalización del Estado de Oaxaca;
 
 XXXV. Elaborar los estados financieros e integrar la Cuenta Pública y someterla a consideración del Gobernador del Estado, para la presentación correspondiente ante el Honorable Congreso Local;
 
@@ -2429,11 +2429,11 @@ XXVI. Regular e implementar acciones de prevención y control de la contaminaci�
 
 XXVVII (SIC). Las que en el ámbito de su competencia le confiera su Reglamento Interno y demás disposiciones normativas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 47.
 
-A la Secretaría de Honestidad, Transparencia y Función Pública, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Honestidad, Transparencia y Función Púbiica (sic) corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -2471,9 +2471,9 @@ VIII. Evaluar, supervisar, verificar, física y financieramente, el avance e inf
 
 IX. Revisar y auditar la ejecución física y financiera de los programas de inversión y obra pública, que se realicen en el Estado con recursos propios, provenientes de convenios con la federación o de otra índole;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-X. Establecer coordinación con el Órgano Superior de Fiscalización del Estado de Oaxaca, para el cumplimiento de sus respectivas responsabilidades;
+X. Establecer coordinación con la Auditoria Superior de Fiscalización del Estado de Oaxaca, para el cumplimiento de sus respectivas responsabilidades;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -2511,9 +2511,9 @@ XVIII. Establecer las bases generales para la realización de auditorías en las
 
 XIX. Inspeccionar y vigilar que se efectúe, en los términos establecidos por la normatividad de la materia correspondiente, la aplicación de subsidios, aportaciones o transferencias de fondos que el Gobierno del Estado otorgue a favor de municipios, entidades, instituciones públicas o particulares;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-XX. Dar seguimiento a los resultados de las revisiones, inspecciones, fiscalizaciones y auditorías practicadas en las Dependencias y Entidades, por parte del Órgano Superior de Fiscalización del Estado de Oaxaca o por parte de la federación a fin de asegurar que se solventen las observaciones;
+XX. Dar seguimiento a los resultados de las revisiones, inspecciones, fiscalizaciones y auditorías practicadas en las Dependencias y Entidades, por parte de la Auditoría Superior de Fiscalización del Estado de Oaxaca, o por parte de la federación a fin de asegurar que se solventen las observaciones;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -2837,9 +2837,9 @@ XII. Participar en el ámbito de su competencia con la Secretaría de Finanzas, 
 
 XIII. Asistir a los Ayuntamientos, particularmente de aquellos con baja capacidad administrativa, en la formulación de los Planes Municipales en coordinación con la Secretaría de Finanzas, quien atenderá lo referido a la planeación financiera y presupuestal, con el fin de que cumplan con elementos mínimos de planeación y de alineamiento con el Plan Estatal de Desarrollo, los Planes Regionales y programas micro regionales;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-XIV. Suscribir convenios de colaboración para coordinar la capacitación integral de los municipios, con las Secretarías de Finanzas, General de Gobierno, y la Contraloría y Transparencia Gubernamental, así como con el Órgano Superior de Fiscalización del Estado de Oaxaca, y demás instituciones públicas y privadas, relacionadas con la materia;
+XIV. Suscribir convenios de colaboración para coordinar la capacitación integral de los municipios, con las Secretarias de Finanzas, General de Gobierno, y la Secretaría de Honestidad, Transparencia y Función Pública, así como con la Auditaría Superior de Fiscalización del Estado de Oaxaca, y demás Instituciones públicas privadas, relacionadas con la materia;
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -4112,3 +4112,13 @@ P.O. 15 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1451.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXXIX AL ARTÍCULO 4 DE LA LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN XII AL ARTÍCULO 2 DE LA LEY DE ENTREGA-RECEPCÍON DE LOS RECURSOS Y BIENES DEL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 45, EL PRIMER PÁRRAFO Y LAS FRACCIONES X Y XX DEL ARTÍCULO 47 Y LA FRACCION XIV DEL ARTÍCULO 49 BIS TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en el portal del Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
