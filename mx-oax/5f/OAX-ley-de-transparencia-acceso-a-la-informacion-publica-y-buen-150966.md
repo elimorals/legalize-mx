@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-acceso-a-la-informacion-publica-y-buen-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-04"
-last_updated: "2023-05-13"
+last_updated: "2023-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en el No. 36 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de septiembre de 2021.
 
@@ -583,13 +583,17 @@ IV. Los indicadores de resultados en las evaluaciones al desempeño de la planta
 
 V. El número de estudiantes que egresan por ciclo escolar, por escuela o facultad;
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-VI. El calendario del ciclo escolar; y
+VI. El calendario del ciclo escolar;
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-VII. Los conceptos y montos por pago de derechos, cuotas escolares o cualquier otro tipo de cobro que hagan con motivo de la prestación de los servicios educativos que lleven a cabo.
+VII. Los conceptos y montos por pago de derechos, cuotas o cualquier otro tipo de cobro que hagan con motivo de la prestación de los servicios educativos que lleven a cabo; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+VIII. Para el caso de las universidades e instituciones de educación superior privadas, deberán sujetarse a lo establecido en las fracciones I y III, además de transparentar la distribución y ejercicio de sus recursos, cuando estos sean recibidos por medio de fideicomisos o convenios celebrados con entidades de la administración pública a nivel federal, estatal y municipal.
 
 ###### Artículo 29.
 
@@ -2502,5 +2506,13 @@ P.O. 13 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1336.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IX DEL ARTÍCULO 23 DE LA LEY DE TRANSPARENCIA Y (SIC) ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1473.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES VI Y VII Y SE ADICIONA UNA FRACCIÓN VIII, AL ARTÍCULO 28, DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
