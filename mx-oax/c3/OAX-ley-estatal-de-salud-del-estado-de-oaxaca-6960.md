@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2023-04-15"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -155,13 +155,17 @@ XXV.- Reconocer y promover la participación activa de las personas que practiqu
 
 XXVI.- Procurar que las personas indígenas reciban atención médica, información y capacitación en materia de salud, así como las acciones de prevención de enfermedades en su propia lengua;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-XXVII.- Disponer de personal médico hablante de lengua indígena en los establecimientos de salud ubicados dentro de los pueblos y comunidades indígenas, para garantizar el acceso a los servicios mediante un consentimiento informado basado en la pertinencia cultural; y
+XXVII.- Disponer de personal médico hablante de lengua indígena en los establecimientos de salud ubicados dentro de los pueblos y comunidades indígenas, para garantizar el acceso a los servicios mediante un consentimiento informado basado en la pertinencia cultural;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XXVIII.- La prevención, atención y control de la diabetes; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE AGOSTO DE 2019)</small>
 
-XXVIII.- Las demás que establezca la Ley General de Salud, esta Ley y otras disposiciones jurídicas aplicables.
+XXIX.- Las demás que establezca la Ley General de Salud, esta Ley y otras disposiciones jurídicas aplicables.
 
 B.- En materia de Salubridad Local, el control sanitario de:
 
@@ -239,17 +243,21 @@ V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que
 
 VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-VII.- Apoyar la práctica de la medicina tradicional indígena, de acuerdo a sus características específicas en cada Región del Estado; y
+VII.- Apoyar la práctica de la medicina tradicional indígena de acuerdo a sus características específicas en cada región del Estado;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-VIII.- Fomentar un estilo de vida saludable para prevenir y combatir la obesidad y la desnutrición.
+VIII.- Fomentar un estilo de vida saludable para prevenir y combatir la obesidad y la desnutrición;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-IX.- Regular, registrar y supervisar la medicina tradicional indígena, alternativa y complementaria.
+IX.- Regular, registrar y supervisar la medicina tradicional indígena, alternativa y complementaria; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+X.- Fomentar la atención médica pregestacional para prevenir la diabetes en el embarazo.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -523,9 +531,9 @@ III.- La atención médica integral, que comprende la atención médica integrad
 
 IV.- La atención materno-infantil, incluidas las urgencias obstétricas;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-V.- La salud reproductiva, incluyendo la interrupción del embarazo;
+V.- La salud reproductiva, la atención pregestacional y la interrupción del embarazo;
 
 VI.- La salud mental;
 
@@ -945,6 +953,22 @@ Todas las acciones en materia de salud reproductiva deberán llevarse a cabo en 
 
 Quienes practiquen esterilización o cualquier otro medio contraceptivo sin la voluntad del paciente o ejerzan presión para que éste la admita serán sancionados conforme las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+ARTICULO 62 BIS.- La atención pregestacional comprende la provisión de intervenciones biomédicas, conductuales y de salud social a las mujeres y parejas antes de que ocurra la gestación, destinada a mejorar su estado de salud y comportamientos que reducen los factores individuales y ambientales que podrían contribuir a resultados deficientes en la salud materna e infantil.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+ARTICULO 62 TER.- Las instituciones públicas que integran el Sistema Estatal de Salud deberán implementar acciones de prevención y control de la diabetes en el embarazo y la diabetes gestacional, a través de la detección temprana, el tratamiento y manejo adecuado de la enfermedad y la vigilancia permanente de la madre y el recién nacido.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+ARTICULO 62 QUATER.- La atención y control de la diabetes en el embarazo y la diabetes gestacional incluye la toma del tamiz nutricional, el control prenatal, el control metabólico durante la evolución del embarazo y la vigilancia permanente de la glucosa en la madre y el monitoreo del recién nacido.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+
+ARTICULO 62 QUINQUIES.- Las autoridades sanitarias estatales realizarán campañas de forma permanente para fomentar estilos de vida saludables antes, durante y después del embarazo, así como para concientizar sobre la importancia de la atención médica pregestacional.
+
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 63.
@@ -1359,13 +1383,17 @@ II.- Proporcionar a la población los conocimientos sobre las causas de las enfe
 
 III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental y emocional, salud bucal, educación sexual, planificación familiar, riesgos de embarazos tempranos y riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-IV.- Prevenir a las personas, sobre todo a quienes se desempeñen como cabeza de familia, respecto de los efectos negativos que tienen el abandono, la violencia intrafamiliar y el maltrato a los menores; y
+IV.- Prevenir a las personas, sobre todo a quienes se desempeñen como cabeza de familia, respecto de los efectos negativos que tienen el abandono, la violencia intrafamiliar y el maltrato a los menores;
 
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-V.- Fomentar la cultura de la donación voluntaria y altruista de sangre, a través de la implementación de campañas, actividades educativas, de investigación y de difusión masiva por parte de las autoridades sanitarias, en coordinación con las autoridades educativas.
+V.- Fomentar la cultura de la donación voluntaria y altruista de sangre, a través de la implementación de campañas, actividades educativas, de investigación y de difusión masiva por parte de las autoridades sanitarias, en coordinación con las autoridades educativas; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+VI.- Realizar programas de información y de educación sanitaria dirigidos a la población sobre las enfermedades transmisibles por virus para prevenir su contagio.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1509,9 +1537,15 @@ XI.- Helmintiasis intestinales y extraintestinales;
 
 XII.- Toxoplasmosis;
 
-XIII.- Síndrome de inmunodeficiencia adquirida (SIDA); y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
-XIV.- Las demás que determinen el Consejo de Salubridad General y otros tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
+XIII.- Síndrome de inmunodeficiencia adquirida (SIDA);
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
+
+XIV.- Encefalitis; y
+
+XV.- Las demás que determinen el Consejo de Salubridad General y otros tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1557,11 +1591,15 @@ IV.- La aplicación de sueros, vacunas y otros recursos preventivos y terapéuti
 
 V.- La descontaminación microbiana o parasitaria, desinfección y desinsectación de zonas, habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación;
 
-VI.- La destrucción o control de vectores y reservorios y de fuentes de infección naturales o artificiales, cuando presenten peligro para la salud;
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2023)</small>
 
-VII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos; y
+VI.- La adopción de medidas de higiene y mantener el sistema inmunitario sano a través de la alimentación saludable y de descanso adecuado, así como de protección contra los vectores;
 
-VIII.- Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salud del Gobierno Federal.
+VII.- La destrucción o control de vectores y reservorios y de fuentes de infección naturales o artificiales, cuando presenten peligro para la salud;
+
+VIII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos; y
+
+IX.- Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salud del Gobierno Federal.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -4046,3 +4084,19 @@ P.O. 15 DE ABRIL DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1471.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 4, LAS FRACCIONES VII, VIII Y IX DEL ARTÍCULO 6 Y LA FRACCIÓN V DEL ARTÍCULO 29; SE ADICIONA LA FRACCIÓN XXVIII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 4, LA FRACCIÓN X DEL ARTÍCULO 6 Y LOS ARTÍCULOS 62 BIS, 62 TER, 62 QUATER Y 62 QUINQUIES DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
+
+P.O. 29 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1472.- MEDIANTE EL CUAL REFORMA LAS FRACCIONES IV Y V DEL ARTÍCULO 94 Y LA FRACCIÓN XIII DEL ARTÍCULO 107, SE ADICIONAN LA FRACCIÓN VI DEL ARTÍCULO 94, LA FRACCIÓN XIV RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 107 Y LA FRACCIÓN VI RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 111 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
