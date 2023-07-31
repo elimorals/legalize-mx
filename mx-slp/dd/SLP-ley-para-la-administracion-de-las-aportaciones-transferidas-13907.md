@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2023-02-27"
+last_updated: "2023-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -831,13 +831,13 @@ Las autoridades estatales y municipales que incurran en responsabilidades admini
 
 Los recursos y sus accesorios que reciban el Estado y/o municipio, provenientes de recursos normados por esta Ley, no serán embargables, no podrán bajo ninguna circunstancia gravarse, ser afectados en garantía o destinarse a mecanismos de fuentes de pago, salvo lo dispuesto en el artículo 87 BIS de esta Ley; y en ningún caso, podrán destinarse a fines distintos a los que expresamente están determinados conforme a esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2023)</small>
 
-ARTICULO 87 BIS. Los recursos y sus accesorios que reciban el Estado y/o municipios, provenientes del Fondo para la Infraestructura Social del Estado; del Fondo para la Infraestructura Social Municipal; y del Fondo para el Fortalecimiento del Estado, podrán afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de dichas obligaciones que contraigan con la Federación, las instituciones de crédito que operen en territorio nacional, o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con la autorización del Congreso del Estado; y se inscribirán a petición del Estado o los municipios, según corresponda, ante la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios; así como en la Secretaría de Finanzas, en la Dirección de Financiamiento, Deuda y Crédito Público.
+ARTICULO 87 BIS. Los recursos y sus accesorios que reciban el Estado y/o municipios, provenientes del Fondo para la Infraestructura Social del Estado; del Fondo para la Infraestructura Social Municipal; y del Fondo para el Fortalecimiento del Estado, podrán afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de dichas obligaciones que contraigan con la Federación, las instituciones de crédito que operen en territorio nacional, o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con la autorización del Congreso del Estado; y se inscribirán a petición del Estado o los municipios, según corresponda, ante la Secretaría de Hacienda y Crédito Público, en el Registro Público Único de Obligaciones y Empréstitos de Entidades Federativas y Municipios; así como en la Secretaría de Finanzas, en la Dirección de Financiamiento, Deuda y Crédito Público en el Registro Estatal de Obligaciones y Empréstitos del Estado y Municipios.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
-Para que los municipios inscriban sus obligaciones en la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, deberán contar con la garantía del Gobierno del Estado, salvo que a juicio de la Secretaría de Hacienda y Crédito Público, tengan suficientes aportaciones para responder a sus compromisos con cargo al Fondo para la Infraestructura Social Municipal.
+Para que los municipios inscriban sus obligaciones en la Secretaría de Hacienda y Crédito Público, en el Registro Público Único de Obligaciones y Empréstitos de Entidades Federativas y Municipios, deberán contar con la garantía del Gobierno del Estado, salvo que a juicio de la Secretaría de Hacienda y Crédito Público, tengan suficientes aportaciones para responder a sus compromisos con cargo al Fondo para la Infraestructura Social Municipal.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -1030,6 +1030,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0703.- SE REFORMA EL ARTÍCULO 23, EN SU PÁRRAFO PRIMERO, DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0805.- SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 87 BIS, DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
