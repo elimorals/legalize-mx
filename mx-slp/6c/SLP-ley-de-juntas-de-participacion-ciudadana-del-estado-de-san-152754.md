@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-juntas-de-participacion-ciudadana-del-estado-de-san-1527
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-02"
-last_updated: "2021-12-02"
+last_updated: "2023-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 2 de diciembre de 2021.
 
@@ -253,9 +253,17 @@ IX. Presentar a los ayuntamientos propuestas relativas a aspectos que impacten l
 
 X. Realizar acciones cuyo fin sea lograr un impacto favorable en la calidad de vida de las personas habitantes representadas;
 
-XI. Establecer mecanismos de comunicación que informen a las personas habitantes de su territorialidad sobre las acciones tomadas, y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-XII. Apoyar a las autoridades en aquellas acciones emprendidas en su territorialidad.
+XI. Establecer mecanismos de comunicación que informen a las personas habitantes de su territorialidad sobre las acciones tomadas;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XII. Apoyar a las autoridades en aquellas acciones emprendidas en su territorialidad, y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XIII. Validar la conformación del comité de obra, y certificar el cumplimiento de las especificaciones de las obras públicas en la territorialidad de su competencia, en términos del artículo 170 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de San Luis Potosí.
 
 ###### ARTÍCULO 24.
 
@@ -394,3 +402,13 @@ J. GUADALUPE TORRES SÁNCHEZ
 El Secretario General de Gobierno
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0808.- SE ADICIONA AL ARTÍCULO 170 EL ÚLTIMO PÁRRAFO, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 23 EN SUS FRACCIONES XI Y XII; Y ADICIONA AL MISMO ARTÍCULO 23 LA FRACCIÓN XIII, DE LA LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
