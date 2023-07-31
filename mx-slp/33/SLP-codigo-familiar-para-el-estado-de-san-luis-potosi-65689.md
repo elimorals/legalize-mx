@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2023-07-19"
+last_updated: "2023-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1117,9 +1117,9 @@ En los asuntos de derechos alimentarios la autoridad judicial está facultada pa
 
 El deudor alimentario cumple la obligación asignando una pensión proporcional y equitativa al acreedor alimentario o incorporándolo a la familia. Si el acreedor alimentario se opone a ser incorporado, compete a la autoridad judicial, según las circunstancias, fijar la manera de ministrar los alimentos.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
-La persona que incumpla con lo señalado en el párrafo anterior por un período de sesenta días continuos se constituirá en deudora alimentaria morosa. La o el Juez de lo Familiar ordenará su inscripción en el Padrón Estatal de Personas Deudoras Alimentarias Morosas.
+La persona que incumpla con lo señalado en el párrafo anterior por un período de sesenta días continuos, o que deje de cubrir cuatro pensiones en un periodo de dos años, se constituirá en deudora alimentaria morosa. La o el Juez de lo Familiar ordenará su inscripción en el Padrón Estatal de Personas Deudoras Alimentarias Morosas.
 
 ###### ARTICULO 153.
 
@@ -1217,9 +1217,9 @@ IV. La buena o mala fe durante la tramitación del proceso; si se mostró coadyu
 
 Cuando la o el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
-En el caso de que la persona deudora alimentaria no cumpla con sus obligaciones alimentarias por más de sesenta días continuos, justificándose en la ausencia de ingresos, la o el Juez que conoce del asunto recabará, oficiosamente, los elementos que le permitan verificar tal circunstancia.
+En el caso de que la persona deudora alimentaria no cumpla con sus obligaciones alimentarias por más de sesenta días continuos, o que deje de cubrir cuatro pensiones en un periodo de dos años, justificándose en la ausencia de ingresos, la o el Juez que conoce del asunto recabará, oficiosamente, los elementos que le permitan verificar tal circunstancia.
 
 ###### ARTICULO 166.
 
@@ -1233,9 +1233,9 @@ Es obligación de las o los patrones, gerentes generales y representantes legale
 
 ### Capítulo II. Del Padrón Estatal de Personas Deudoras Alimentarias Morosas
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
-ARTICULO 167 BIS. Para los efectos de este Código se considera como deudora alimentaria morosa, a la persona que teniendo la obligación de proporcionar pensión alimenticia ordenada por mandato judicial, o establecida mediante convenio judicial, dejare de suministrarla por más de sesenta días continuos.
+ARTICULO 167 BIS. Para los efectos de este Código se considera como deudora alimentaria morosa, a la persona que teniendo la obligación de proporcionar pensión alimenticia ordenada por mandato judicial, o establecida mediante convenio judicial, dejare de suministrarla por más de sesenta días continuos, o que deje de cubrir cuatro pensiones en un periodo de dos años.
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2022)</small>
 
@@ -3824,5 +3824,13 @@ P.O. 19 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0794.- SE REFORMA LA DENOMINACIÓN DEL TÍTULO DÉCIMO PRIMERO Y DEL CAPÍTULO IX Y LOS ARTÍCULOS 550 EN SU PÁRRAFO PRIMERO, 551 Y 554; Y ADICIONA LOS CAPÍTULOS X Y XI AL MISMO TÍTULO DÉCIMO PRIMERO, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA DENOMINACIÓN DEL TÍTULO QUINTO Y LOS ARTÍCULOS 57, 136, 137, 138, 139, 140, 141, 142, 143 Y 144; Y ADICIONA LOS ARTÍCULOS 137 BIS, 144 BIS Y 144 TER, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0804.- SE REFORMAN LOS ARTÍCULOS 152 EN SU PÁRRAFO SEGUNDO, 165 EN SU PÁRRAFO SEGUNDO Y 167 BIS, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
