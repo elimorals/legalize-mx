@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2023-07-19"
+last_updated: "2023-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -2365,7 +2365,9 @@ Para efectos de la fracción IV del presente artículo, la CEGAIP deberá aplica
 
 ## TÍTULO SEXTO. PROCEDIMIENTOS DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-### Capítulo I. Del Procedimiento de Acceso a la Información
+> <small>(REFORMADA SU DENOMINACIÓN. P.O. 31 DE JULIO DE 2023)</small>
+
+### Capítulo I. De las Solicitudes de Información
 
 ###### ARTÍCULO 143.
 
@@ -2379,9 +2381,11 @@ Cualquier persona por sí misma o a través de su representante, podrá presenta
 
 Tratándose de solicitudes de acceso a información formuladas mediante la Plataforma Nacional, se asignará automáticamente un número de folio, con el que los solicitantes podrán dar seguimiento a sus requerimientos. En los demás casos, la Unidad de Transparencia tendrá que registrar y capturar la solicitud de acceso en la Plataforma Nacional y deberá enviar el acuse de recibo al solicitante, en el que se indique la fecha de recepción, el folio que corresponda y los plazos de respuesta aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2023)</small>
+
 ###### ARTÍCULO 146.
 
-Para presentar una solicitud no se podrán exigir mayores requisitos que los siguientes:
+La solicitud de información debe hacerse de manera respetuosa y no se podrán exigir mayores requisitos que los siguientes:
 
 I. Nombre o, en su caso, los datos generales de su representante;
 
@@ -3304,5 +3308,13 @@ P.O. 19 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0790.- SE ADICIONA AL ARTÍCULO 34 LA FRACCIÓN XXVI BIS Y EL ARTÍCULO 54 BIS, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0803.- SE REFORMA DEL TÍTULO SEXTO LA DENOMINACIÓN DEL CAPÍTULO I, Y EL ARTÍCULO 146 EL PÁRRAFO PRIMERO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOS”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
