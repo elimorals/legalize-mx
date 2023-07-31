@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2023-06-06"
+last_updated: "2023-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -651,13 +651,23 @@ IV.- Por sentencia ejecutoriada que imponga como pena esa suspensión;
 
 V.- Durante el cumplimiento de una pena corporal;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-VI.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión, hasta que prescriba la acción penal; y
+VI.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión, hasta que prescriba la acción penal;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-VII.- Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes.
+VII.- Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+VIII.- Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexual, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y por ser declarada como persona deudora alimentaria morosa.
+
+En los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VIII, P.O. 31 DE JULIO DE 2023]</small>
+
+La ley fijará los casos en que se suspendan los derechos de la ciudadanía, y la manera de hacer la rehabilitación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
@@ -855,7 +865,13 @@ Para ser Diputado propietario o suplente se requiere:
 
 I.- Ser ciudadano del Estado en ejercicio de sus derechos;
 
-II.- Saber leer y escribir.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+II.- Saber leer y escribir; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+III.- Tener dieciocho años cumplidos el día de la elección.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1621,11 +1637,11 @@ El titular del Poder Ejecutivo, y de las dependencias o entidades de la Administ
 
 Las autoridades competentes promoverán, supervisarán, garantizarán y respetarán los derechos humanos, también se harán revisiones de manera permanente a las instalaciones de los Centros Penitenciarios para mantener la seguridad, tranquilidad e integridad, de las personas privadas de la libertad, del personal y de los visitantes, ejerciendo las medidas y acciones pertinentes para el buen funcionamiento de éstas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2023)</small>
 
 ###### Artículo 84.
 
-Para ser Secretario del Despacho se requiere ser ciudadano mexicano, estar en ejercicio de sus derechos y tener treinta años cumplidos.
+Para ser Secretario del Despacho se requiere ser ciudadano mexicano, estar en ejercicio de sus derechos, y tener veinticinco años cumplidos.
 
 > <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
@@ -4034,3 +4050,19 @@ TERCERO. Los Jueces de los Tribunales Laborales que se encuentren desempeñando 
 CUARTO. El Congreso hará las reformas a la Ley Orgánica del Poder Judicial del Estado que sean necesarias, de conformidad con lo dispuesto en este Decreto.
 
 QUINTO. Conforme al procedimiento establecido en esta Constitución, se deberá nombrar a los Magistrados integrantes de la Sala Especializada en materia de Responsabilidades Administrativas del Tribunal de Justicia Administrativa, dentro del plazo de treinta días, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DECLARA APROBADO EL DECRETO POR VIRTUD DEL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 36, EL PRIMER PÁRRAFO DEL ARTÍCULO 84, Y SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 36, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE EDAD MÍNIMA PARA OCUPAR UN CARGO PÚBLICO".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DECLARA APROBADO EL DECRETO POR VIRTUD DEL CUAL SE REFORMAN LAS FRACCIONES VI Y VII, Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 22, TODAS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE SUSPENSIÓN DE DERECHOS PARA OCUPAR CARGOS, EMPLEO O COMISIÓN DEL SERVICIO PÚBLICO”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
