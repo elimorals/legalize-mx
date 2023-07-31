@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2023-03-27"
+last_updated: "2023-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -119,9 +119,17 @@ VII. Padrón: el Padrón Empresarial del Estado;
 
 VIII. Programa General: Programa General de Desarrollo Económico Sustentable y la Competitividad;
 
-IX. Secretaría: la Secretaría de Desarrollo Económico, y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-X. Secretario: el titular de la Secretaría.
+IX. Secretaría: la Secretaría de Desarrollo Económico;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+X. Secretario: el titular de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XI. Sustentabilidad: criterio de conducción del desarrollo económico que tiende a satisfacer las necesidades presentes, sin poner en riesgo el desarrollo de las futuras generaciones en el estado, por medio de la preservación de los recursos naturales.
 
 ###### ARTÍCULO 4°.
 
@@ -133,15 +141,11 @@ La Secretaría, en coordinación con las secretarías de, Desarrollo Urbano, Viv
 
 ### CAPÍTULO II. Del Programa General de Desarrollo Económico Sustentable y la Competitividad
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
-
-###### ARTÍCULO 6º.
-
-La política para el desarrollo económico y la competitividad del Estado, así como el Programa General de Desarrollo Económico Sustentable y la Competitividad, tendrán una visión de largo plazo, ponderando los objetivos, lineamientos y estrategias establecidos en el Plan Estatal de Desarrollo, y se constituirán dentro de las disposiciones y principios de orden ambiental, laboral, y social, así como de la Agenda para el Desarrollo Sostenible y los instrumentos internacionales.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
 ###### ARTÍCULO 6°.
 
-La política para el desarrollo económico y la competitividad del Estado tendrá una visión de largo plazo, y se constituirá dentro de las disposiciones y principios de orden ambiental, laboral, y social.
+La política para el desarrollo económico y la competitividad del Estado, así como el Programa General de Desarrollo Económico Sustentable y la Competitividad, tendrán una visión de largo plazo, ponderando los objetivos, lineamientos y estrategias establecidos en el Plan Estatal de Desarrollo, y se constituirán dentro de las disposiciones y principios de orden ambiental, laboral, y social, así como de la Agenda para el Desarrollo Sostenible, el principio de sustentabilidad contenido en esta Ley, y los instrumentos internacionales.
 
 ###### ARTÍCULO 7°.
 
@@ -735,6 +739,26 @@ La Secretaría fomentará la participación de los productos potosinos en los me
 
 La Secretaría generará servicios de información en comercio exterior, con especial orientación a los empresarios con vocación exportadora, para consulta e investigación sobre estadísticas comerciales y oportunidades de negocios, así como asesoría técnica en los marcos, económico, jurídico, aduanal, financiero, y logístico; y con la participación del Consejo Consultivo para el Desarrollo Económico, definirá el Programa Integral de Exportaciones, que contendrá la política de comercio exterior.
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+El Programa incluirá el siguiente contenido mínimo:
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+I. Objetivos sexenales en armonía con el Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+II. Identificación de rubros productivos de exportación y de aquellos con potencial;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+III. Acciones a realizar en materia de asesoría, capacitación, apoyo y promoción, y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+IV. Estrategias a realizar para el cumplimiento del cometido de esta Ley en materia de exportación.
+
 ###### ARTÍCULO 60.
 
 La Secretaría impulsará a las empresas con potencial de exportación, aprovechando los estímulos que se establecen en esta Ley, para que se integren a cadenas productivas, substituyan importaciones y puedan convertirse en proveedores.
@@ -1154,5 +1178,21 @@ P.O. 27 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0721.- SE REFORMA EL ARTÍCULO 70, EN SUS FRACCIONES V Y VI; Y ADICIONA AL MISMO ARTÍCULO 70, LA FRACCIÓN VII, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0800.- SE ADICIONA AL ARTÍCULO 59 EL PÁRRAFO SEGUNDO, Y CUATRO FRACCIONES, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0801.- SE REFORMAN LOS ARTÍCULOS 3° EN SUS FRACCIONES IX Y X Y 6°; Y ADICIONA AL ARTÍCULO 3° LA FRACCIÓN XI, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
