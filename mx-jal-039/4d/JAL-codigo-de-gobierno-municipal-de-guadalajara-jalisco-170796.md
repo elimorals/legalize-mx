@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2023-07-28"
+last_updated: "2023-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 28 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 31 DE JULIO DE 2023.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -1513,9 +1513,17 @@ g) Proponer las acciones necesarias para optimizar los procedimientos de inspecc
 
 h) Fomentar medidas tendientes a que la población cumpla con la normatividad municipal;
 
-i) Estudiar y dictaminar las iniciativas relativas a la inspección y vigilancia para el cumplimiento de las disposiciones municipales; y
+> <small>(REFORMADO, G.M. 31 DE JULIO DE 2023)</small>
 
-j) Evaluar los trabajos de las dependencias municipales con atribuciones en materia de inspección y vigilancia.
+i) Estudiar y dictaminar las iniciativas relativas a la inspección y vigilancia para el cumplimiento de las disposiciones municipales;
+
+> <small>(REFORMADO, G.M. 31 DE JULIO DE 2023)</small>
+
+j) Evaluar los trabajos de las dependencias municipales con atribuciones en materia de inspección y vigilancia; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 31 DE JULIO DE 2023)</small>
+
+k) Estudiar y dictaminar las iniciativas concernientes a los Acuerdos Interinstitucionales de Hermanamiento y de Cooperación, con apoyo en la opinión técnica que al efecto formule el Consejo de Ciudades Hermanas y Acuerdos de Cooperación del Municipio de Guadalajara y la Dirección de lo Jurídico Consultivo.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -1681,7 +1689,9 @@ XVIII. Promoción del Desarrollo Económico y del Turismo:
 
 a) Establecer comunicación permanente con las y los representantes de los sectores sociales en el Municipio, a efecto de estudiar aquellas medidas para lograr mayor afluencia turística y desarrollo económico;
 
-b) Promover las relaciones internacionales con las autoridades de otras ciudades del mundo y con organismos internacionales, con sujeción a lo dispuesto en la ley sobre la celebración de tratados;
+> <small>(REFORMADO, G.M. 31 DE JULIO DE 2023)</small>
+
+b) Promover las relaciones internacionales con las autoridades de otras ciudades del mundo y con organismos internacionales, a través de su participación en el Consejo de Ciudades Hermanas y Acuerdos de Cooperación del Municipio de Guadalajara;
 
 c) Proponer al Ayuntamiento las políticas, programas y acciones a favor de las personas migrantes oriundas del Municipio;
 
@@ -5947,9 +5957,17 @@ III. Diseñar, organizar y conducir estrategias de acción con la participación
 
 IV. Coadyuvar con los gobiernos federal y estatal, y con la iniciativa privada en materia de relaciones internacionales y atención al migrante;
 
-V. Implementar programas de capacitación a servidoras y servidores públicos en materia de relaciones internacionales y atención al migrante; y
+> <small>(REFORMADA, G.M. 31 DE JULIO DE 2023)</small>
 
-VI. Coordinar las oficinas municipales de enlace con la Secretaría de Relaciones Exteriores para la recepción documentos para el trámite de pasaporte mexicano.
+V. Implementar programas de capacitación a servidoras y servidores públicos en materia de relaciones internacionales y atención al migrante;
+
+> <small>(REFORMADA, G.M. 31 DE JULIO DE 2023)</small>
+
+VI. Coordinar las oficinas municipales de enlace con la Secretaría de Relaciones Exteriores para la recepción (sic) documentos para el trámite de pasaporte mexicano; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 31 DE JULIO DE 2023)</small>
+
+VII. Ejercer las atribuciones que le confiere el Reglamento de Ciudades Hermanas y Acuerdos de Cooperación del Municipio de Guadalajara.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -8442,3 +8460,17 @@ Primero. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
 Segundo. La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicada la presente reforma, remítase mediante oficio un tanto de ella al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE CIUDADES HERMANAS Y ACUERDOS DE COOPERACIÓN DEL MUNICIPIO DE GUADALAJARA Y REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA".]
+
+Primero. Publíquese el presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. El presente ordenamiento entrará en vigor al siguiente día de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Los Acuerdos de Hermanamiento celebrados con anterioridad a la entrada en vigor del presente Reglamento, seguirán observándose en los términos en que fueron celebrados, de acuerdo a la costumbre o a la buena voluntad de las partes.
+
+Cuarto. Se faculta al Presidente Municipal para que en el ámbito de sus atribuciones y dentro del término de 60 sesenta días hábiles posteriores a la publicación del presente ordenamiento, convoque y en su momento, conforme el Consejo de Ciudades Hermanas y Acuerdos de Cooperación del Municipio de Guadalajara.
+
+Quinto. Una vez publicado el presente ordenamiento, remítase copia del presente al Congreso del Estado, para los efectos estipulados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
