@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2023-06-29"
+last_updated: "2023-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -2859,13 +2859,23 @@ P.O. 10 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0730.- SE REFORMA EL ARTÍCULO 12, EN SU PÁRRAFO PRIMERO; Y ADICIONA AL ARTÍCULO 12, PÁRRAFO TERCERO Y EL ARTÍCULO 25 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO (SIC) SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigor a más tardar a los trescientos sesenta y cinco días naturales siguientes de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+PRIMERO. Este Decreto entrará en vigor el diez de abril de dos mil veinticuatro, previa su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 29 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0783.- SE REFORMAN LOS ARTÍCULOS 90 EN SUS PÁRRAFOS QUINTO, SÉPTIMO, OCTAVO, NOVENO, DÉCIMO Y DÉCIMO SEGUNDO, 97 Y 98, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ. SE DEROGA EL ARTÍCULO 8º, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0806.- SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO LEGISLATIVO NO. 730, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO “PLAN DE SAN LUIS” EL DIEZ DE ABRIL DE DOS MIL VEINTITRÉS”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
