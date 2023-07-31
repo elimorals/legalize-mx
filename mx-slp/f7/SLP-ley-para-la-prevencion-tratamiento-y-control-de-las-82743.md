@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-tratamiento-y-control-de-las-82743"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-30"
-last_updated: "2022-04-05"
+last_updated: "2023-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2011.
 
@@ -579,81 +579,93 @@ III. Planes y programas de estudio para la formación de profesionales e investi
 
 ### Capítulo VI. De los Centros de Tratamiento y Rehabilitación
 
-(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADO, P.O. 19 DE DICIEMBRE DE 2015)
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
-###### ARTÍCULO 34.
+###### ARTICULO 34.
 
-Los sectores público y privado podrán prestar los servicios de orientación, prevención, tratamiento, rehabilitación y control, y reinserción social de personas con problemas de alcoholismo, tabaquismo y farmacodependencia, previo registro y autorización ante los Servicios de Salud del Estado; la Coordinación Estatal de Protección Civil, y el ayuntamiento que se trate.
+Los establecimientos especializados en adicciones del sector público y privado deberán obtener de manera previa al inicio de sus operaciones la autorización expresa en los términos del presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 35.
 
-La licencia expedida por los Servicios de Salud, constituye la autorización para ejercer lícitamente la materia que regula esta Ley y demás disposiciones aplicables; por tanto, es intransferible, inalienable e inembargable y cualquier acto tendiente a tales efectos, será nulo de pleno derecho.
+La solicitud de autorización para iniciar operación de un centro de tratamiento y rehabilitación, será presentada a la Secretaría, en los formatos que para tal efecto expida, debiendo acreditar y cumplir de manera satisfactoria con los requisitos que esta determine y que cuando menos será lo siguiente:
 
-(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADO, P.O. 19 DE DICIEMBRE DE 2015)
+I. Contar con un inmueble, infraestructura e instalaciones acorde a la atención que se brinda, considerando el grupo etario, género en donde se asegure la seguridad y funcionalidad para los usuarios y se evite el hacinamiento;
 
-La licencia expedida por la Coordinación Estatal de Protección Civil, constituye la autorización relacionada con la seguridad física de la infraestructura del centro de tratamiento y rehabilitación; por tanto, es intransferible, inalienable e inembargable, y cualquier acto tendiente a tales efectos será nulo de pleno derecho.
+II. Contar con la validación del modelo de tratamiento por la Secretaría, manual de procedimientos y de organización, reglamento interno con estricto apego al respeto de los Derechos Humanos, personal suficiente de acuerdo a la capacidad instalada y capacitado que acredite experiencia y formación en el manejo de adicciones;
 
-(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADO, P.O. 19 DE DICIEMBRE DE 2015)
+III. Contar con un responsable de tratamiento psicológico acorde al modelo de atención y con un responsable médico, ambos con título profesional y calificado en la materia de adicciones, mismo que quedará acreditado ante la Secretaría;
 
-Asimismo, la Coordinación Estatal de Protección Civil aplicará las sanciones en materia de inspección, que establece la Ley del Sistema de Protección Civil del Estado de San Luis Potosí.
+IV. Contar con el estudio de factibilidad respecto del inmueble en donde se pretenda establecer el centro de tratamiento y rehabilitación, expedido por la Coordinación de Protección Civil del municipio que corresponda, respecto del cumplimiento de las disposiciones de la materia;
 
-Los centros de Tratamiento y Rehabilitación deberán contar con la licencia municipal que expida el ayuntamiento en facultad a su materia.
+V. Contar con el estudio de factibilidad de uso de suelo, expedido por el municipio en donde se ubique el inmueble en donde se pretenda establecer el centro de tratamiento y rehabilitación, y
+
+VI. Las demás que determine la Secretaría.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 36.
 
-Los Servicios de Salud del Estado proporcionarán gratuitamente los formatos para solicitar licencias.
+La autorización expedida en favor de particulares para la operación de un centro de tratamiento y rehabilitación, tendrá establecida su vigencia y condiciones que en su caso se requieran para su renovación.
+
+La autorización otorgada por la Secretaría será intransferible, inalienable e inembargable, por lo que cualquier acto jurídico que tenga como propósito cualquiera de esos fines, será nulo de pleno derecho.
+
+La autorización podrá ser revocada por la Secretaría en cualquier momento por el incumplimiento de cualquiera de las obligaciones a que se refiere el presente ordenamiento y su reglamento, así como la normatividad vigente haciendo énfasis en garantizar los Derechos Humanos.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 37.
 
-Para obtener la licencia que les permita operar, los centros de Tratamiento y Rehabilitación deberán cumplir los siguientes requisitos:
+Los establecimientos especializados en adicciones, deberán cumplir con las obligaciones derivadas de la Ley General de Salud, de las Normas Oficiales Mexicanas aplicables, y de la presente Ley y su Reglamento, dentro de los que de manera enunciativa se encuentran las siguientes:
 
-I. Contar con las instalaciones que establece la Norma Oficial Mexicana NOM 028-SSA2-2009 para la Prevención, Tratamiento y Control de las Adicciones;
+I. Presentar ante la Secretaría de Salud, el modelo de tratamiento y proceso de atención, rehabilitación y reinserción social de la persona que consuma sustancias psicoactivas así como sus adecuaciones o actualizaciones que se requieran;
 
-II. Contar con un médico responsable con título profesional y calificado en la materia de adicciones, mismo que quedará acreditado ante la Secretaría;
+II. Registrar y actualizar ante la Secretaría, al personal de salud profesional que preste servicios que intervengan en la atención y tratamiento de las personas usuarias;
 
-III. Registrar ante la Secretaría de Salud, al personal que preste servicios terapéuticos en las áreas de psicología, psiquiatría y trabajo social;
+III. Permitir en cualquier momento el ingreso del personal acreditado por la Secretaría, por las autoridades en materia de protección civil o de seguridad pública, para realizar visitas de asesoría, fomento, verificación, supervisión e inspecciones respecto del cumplimiento de las obligaciones a cargo del centro de tratamiento y rehabilitación;
 
-IV. Presentar ante la Secretaría de Salud, los programas de tratamiento terapéutico integral que se apliquen para la rehabilitación de los adictos;
+IV. Coadyuvar en todo momento con el personal acreditado para la realización de visitas de inspección o verificación, y
 
-V. Contar con un Programa de Atención Integral a los Usuarios, de acuerdo a lo establecido en la Norma Oficial Mexicana NOM 028-SSA2-2009 Para la Prevención, Tratamiento y Control de las Adicciones;
+V. Presentar las denuncias o avisos a que haya lugar ante la autoridad competente, en virtud de conocer de actos que pudieran ser constitutivos de faltas administrativas o delitos.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE MARZO DE 2020)</small>
-
-VI. Coadyuvar con el personal de la Secretaría que practique visitas para verificar el cumplimiento de la presente Ley;
-
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE MARZO DE 2020)</small>
-
-VII. En el caso de centros residenciales de Tratamiento y Rehabilitación, con el reconocimiento y registro emitido por la Comisión Nacional contra las Adicciones, y
-
-VIII. Las demás que establezca este Ordenamiento.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 38.
 
-Previo al ingreso de los usuarios al Centro de Tratamiento y Rehabilitación, el médico responsable deberá:
+Las visitas de verificación o inspección que lleve a cabo la Secretaría deberán ajustarse a lo previsto en la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
-I. Realizar una inspección física, sin que atente contra su integridad, para detectar golpes o heridas que a su juicio requieran la atención médica inmediata e informar a la autoridad competente;
-
-II. Efectuar una entrevista para determinar la existencia de malestares o problemas de índole físico o psicológico;
-
-III. Indagar si el usuario tiene algún padecimiento grave, complicaciones físicas, psiquiátricas, enfermedades contagiosas, o si está embarazada, con la finalidad de tomar las previsiones necesarias para su atención y referencia, y
-
-IV. Negar la admisión a personas distintas a las que requieran el servicio para el cual fue creado.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 39.
 
-Los centros de Tratamiento y Rehabilitación deberán notificar mensualmente a la Secretaría, la cantidad de usuarios sujetos a rehabilitación que están atendiendo y la etapa del tratamiento en la que se encuentran.
+Los establecimientos especializados en adicciones deberán concentrar, integrar y entregar de manera mensual el informe del Sistema de Vigilancia Epidemiológica en Adicciones a la Secretaría y al Consejo.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 40.
 
-El Consejo hará del conocimiento de los Servicios de Salud, sobre cualquier incumplimiento por parte de los centros de tratamiento y rehabilitación de adicciones que detecte, derivado de las visitas de inspección y verificación, y podrá solicitar la imposición de las sanciones establecidas en esta Ley.
+Previo al ingreso de las personas usuarias a los establecimientos especializados en adicciones de modalidad residencial, el médico responsable deberá:
+
+I. Realizar exploración física y determinar su estado de salud, sin que atente contra su integridad, para detectar golpes o heridas que a su juicio requieran la atención médica inmediata e informar a la autoridad competente;
+
+II. Realizar valoración médica, psicológica, y psiquiátrica de acuerdo al modelo de atención, determinando el diagnóstico, pronóstico y plan de tratamiento;
+
+III. Indagar si el usuario tiene algún padecimiento grave, complicaciones físicas, psiquiátricas, enfermedades contagiosas, o si está embarazada, con la finalidad de tomar las previsiones necesarias para su atención y referencia, y
+
+IV. Negar la admisión a personas distintas a las que requieran el servicio para el cual fue creado o no contar con capacidad resolutiva.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 41.
 
-Todo acto de visita de inspección que lleve a cabo la Secretaría a los centros de Tratamiento y Rehabilitación tendrá como finalidad verificar el cumplimiento de las disposiciones de la presente Ley, realizándose conforme lo previsto en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+El Consejo, podrá acreditar al personal para que practique visitas de verificación a los establecimientos especializados en adicciones.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
 ###### ARTICULO 42.
 
-Para la inspección y verificación sobre el cumplimiento de las disposiciones legales de la materia, en todo tiempo, los responsables de los establecimientos y centros de atención de adicciones, tienen la obligación de permitir el acceso a las instalaciones y de mostrar la documentación inherente al funcionamiento de los mismos, así como de los programas de tratamiento.
+El Consejo, podrá emitir recomendaciones respecto de los programas de tratamiento y rehabilitación, los que deberán ser revisados por la Secretaría, y en su caso atendidos por los centros de tratamiento y rehabilitación.
 
 ###### ARTICULO 43.
 
@@ -820,3 +832,11 @@ P.O. 5 DE ABRIL DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0799.- SE REFORMAN LOS ARTÍCULOS 34, 35, 36, 37, 38, 39, 40, 41 Y 42, DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 62 EN SU FRACCIÓN XXVIII; Y ADICIONA AL MISMO ARTÍCULO 62 UNA FRACCIÓN, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
