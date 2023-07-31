@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-para-las-personas-servidoras-publicas-de-137
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-26"
-last_updated: "2020-12-22"
+last_updated: "2023-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-07-19"
 ---
 # CODIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARIA DE EDUCACION PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA, PUBLICADO EN EL D.O.F. 31 DE JULIO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2023 (ABROGADO).
 
 Código publicado en el Número 20 del Diario Oficial de la Federación, el lunes 26 de agosto de 2019.
 
@@ -654,3 +656,13 @@ D.O.F. 22 DE DICIEMBRE DE 2020.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las denuncias en proceso de atención por parte del Comité de Ética y de Prevención de Conflictos de Interés de la Secretaría de Educación Pública, presentadas con anterioridad a la entrada en vigor del presente Acuerdo, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+D.O.F. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NÚMERO 04/07/23 POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan el Acuerdo número 16/08/19 por el que se expide el Código de Conducta para las Personas Servidoras Públicas de la Secretaría de Educación Pública y el Acuerdo número 25/10/2020 que lo modificó, publicados en el Diario Oficial de la Federación el 26 de agosto de 2019 y el 22 de diciembre de 2020, respectivamente.
+
+TERCERO.- Las denuncias en proceso de atención por parte del Comité de Ética y de Prevención de Conflictos de Intereses de la Secretaría de Educación Pública, presentadas con anterioridad a la entrada en vigor del presente Acuerdo, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
