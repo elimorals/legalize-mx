@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-instituciones-y-procedimientos-electorales-para-el-10196
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2022-03-31"
+last_updated: "2023-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE AGOSTO DE 2023 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2014.
 
@@ -97,41 +99,71 @@ I. Actos anticipados de campaña: Los actos de expresión que se realicen bajo c
 
 II. Actos anticipados de precampaña: Las expresiones que se realicen bajo cualquier modalidad y en cualquier momento durante el lapso que va desde el inicio del proceso electoral hasta antes del plazo legal para el inicio de las precampañas, que contengan llamados expresos al voto en contra o a favor de una precandidatura;
 
-III. Candidato Independiente: El ciudadano que obtenga por parte de la autoridad electoral local el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la presente Ley;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-IV. Instituto: El Instituto Electoral y de Participación Ciudadana para el Estado de Durango;
+III. Bloques de Competitividad: Es la distribución de los segmentos de votación de candidaturas de mayoría relativa, para garantizar que ningún género en la elección, éste en condiciones de competitividad desigual;
 
-V. Comisión de Fiscalización: La Comisión de Fiscalización de la Transparencia, Origen y destino de los recursos que bajo cualquier modalidad reciban las Agrupaciones Políticas Estatales, del Consejo General;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+IV. Candidato Independiente: El ciudadano que obtenga por parte de la autoridad electoral local el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la presente Ley;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+V. Comisión de Fiscalización: La Comisión de Consejo General encargada de vigilar el origen, destino y transparencia en el manejo de los recursos que reciban las Agrupaciones Políticas Estatales;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
 VI. Congreso: Congreso del Estado Libre y Soberano de Durango;
 
-VII. Consejo General: El Consejo General del Instituto Electoral y de Participación Ciudadana para el Estado de Durango;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+VII. Consejo General: El Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Durango;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
 VIII. Consejo Municipal: Cada uno de los Consejos Municipales Electorales del Instituto Electoral y de Participación Ciudadana del Estado de Durango;
 
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
 IX. Constitución: Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
 X. Constitución Local: Constitución Política del Estado Libre y Soberano de Durango;
 
-XI. Ley General: Ley General de Instituciones y Procedimientos Electorales;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-XII. Ley General de Partidos: Ley General de Partidos Políticos;
+XI. CURP: Clave Única de Registro Poblacional;
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-XIII. Paridad de Género: Igualdad política entre mujeres y hombres, la cual se garantiza con la asignación del cincuenta por ciento de mujeres y el cincuenta por ciento de hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
+XII. Instituto: El Instituto Electoral y de Participación Ciudadana del Estado de Durango;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-XIV. Periódico Oficial: Periódico Oficial del Gobierno del Estado de Durango;
+XIII. Ley General: Ley General de Instituciones y Procedimientos Electorales;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-XV. Tribunal Electoral: Tribunal Electoral del Estado de Durango; y
+XIV. Ley General de Partidos: Ley General de Partidos Políticos;
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+(NOTA: EL 16 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2023 Y SU ACUMULADA 188/2023, DECLARÓ LA INVALIDEZ DE LA ELIMINACIÓN DE LA PORCIÓN NORMATIVA “Y EN NOMBRAMIENTOS DE CARGOS POR DESIGNACIÓN” DE LA FRACCIÓN XV DEL NUMERAL 1 DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA EN SU TEXTO ANTERIOR, EL CUAL FUE REUBICADO Y REFORMADO EN LA FRACCIÓN XV, LA CUAL SURTIÓ EFECTOS EL 28 DE NOVIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XIII. Paridad de Género: Igualdad política entre mujeres y hombres, la cual se garantiza con la asignación del cincuenta por ciento de mujeres y el cincuenta por ciento de hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación”. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XVI. Violencia política contra las mujeres en razón de género: Toda acción u omisión, incluida la tolerancia, basadas en elementos de género y ejercida dentro de la esfera pública o privada, que tengan por objeto o resultado, limitar, menoscabar o anular el ejercicio efectivo de los derechos político-electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo. Se entenderá que las acciones u omisiones, se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella. Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley de las Mujeres para una vida sin Violencia y puede ser perpetrada indistintamente por agentes estatales, superiores jerárquicos, colegas de trabajo, dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XV. Paridad de Género: Igualdad política entre mujeres y hombres, la cual se garantiza con la asignación del cincuenta por ciento de mujeres y el cincuenta por ciento de hombres en candidaturas a cargos de elección popular;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XVI. Periódico Oficial: Periódico Oficial del Gobierno del Estado de Durango;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XVII. Tribunal Electoral: Tribunal Electoral del Estado de Durango; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XVIII. Violencia política contra las mujeres en razón de género: Toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
 ARTÍCULO 4
 
@@ -213,17 +245,49 @@ ARTÍCULO 10
 
 2. En ningún caso procederá el registro de candidatura para los cargos señalados en el numeral anterior, a las y los ciudadanos que hayan sido sancionados por infracciones o delitos relacionados con violencia política contra las mujeres por razones de género.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
-3. Para el caso de diputados que aspiren a la elección consecutiva, no será necesario separarse del cargo.
+3. Para el caso de las y los diputados que aspiren a la elección consecutiva, deberán respetar el principio por el que fueron electos, exceptuando cuando se trate de representación proporcional y deseen contender para un distrito de mayoría relativa.
 
-4. Los ministros de cualquier culto religioso que aspiren a algún cargo de elección popular, además de cumplir con los requisitos establecidos en el párrafo anterior, deberán haber renunciado formal, material y definitivamente de su ministerio, cuando menos con cinco años de antelación al día en que se celebre la elección.
+Será optativo separarse del cargo, pero en caso de decidir no hacerlo, deberá asistir a todas y cada una de las sesiones de Congreso, así como comisiones de las que forme parte.
 
-5. Son duranguenses migrantes, las personas nativas del Estado, y los mexicanos nacidos fuera del mismo, hijos de padre o madre duranguense, que posean domicilio simultáneo en el extranjero y en el territorio de la Entidad Federativa.
+En cualquier caso, queda expresamente prohibido el uso de recursos públicos del Congreso para actividades proselitistas, como lo son el uso de la infraestructura del recinto parlamentario, de las oficinas de representación, del personal, de vehículos o cualquier otro que sea propiedad del Congreso o provenga de sus recursos.
 
-6. Es causa de inhabilidad para asumir el cargo si se acredita que un ciudadano duranguense migrante electo como diputado posee o adquiere una nacionalidad extranjera antes del día en que rinda la protesta de ley. En tal caso, será sustituido por el diputado suplente.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
-7. Los ciudadanos duranguenses migrantes que resulten electos como diputados y hayan asumido el cargo, serán suspendidos en sus funciones y separados del cargo, en su caso, cuando se acredite ante el Congreso, mediante los medios de prueba pertinentes, que posee o adquirió una nacionalidad extranjera antes o durante el ejercicio de su encargo. En caso de ser separado del cargo, será sustituido por el diputado suplente.
+4. Para el caso de los Presidentes Municipales, Síndicos y Regidores que opten por la elección consecutiva, podrán separarse de su cargo público hasta un día antes del inicio de las campañas electorales y hasta la entrega, en su caso, de la constancia de mayoría.
+
+En cualquier caso, queda expresamente prohibido el uso de recursos públicos del Ayuntamiento para actividades proselitistas, como lo son el uso de la infraestructura, del personal de vehículos o cualquier otro bien que sea propiedad del ayuntamiento o provenga de sus recursos.
+
+(NOTA: EL 16 DE NOVIEMBRE DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2023 Y SU ACUMULADA 188/2023, DECLARÓ LA INVALIDEZ DEL NUMERAL 5 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+5. LOS MINISTROS DE CUALQUIER CULTO RELIGIOSO QUE ASPIREN A ALGÚN CARGO DE ELECCIÓN POPULAR, ADEMÁS DE CUMPLIR CON LOS REQUISITOS ESTABLECIDOS EN EL PÁRRAFO ANTERIOR, DEBERÁN HABER RENUNCIADO FORMAL, MATERIAL Y DEFINITIVAMENTE DE SU MINISTERIO, CUANDO MENOS CON CINCO AÑOS DE ANTELACIÓN AL DÍA EN QUE SE CELEBRE LA ELECCIÓN.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+6. Son ciudadanos duranguenses migrantes, las personas nativas del Estado, y los mexicanos nacidos fuera del mismo, hijos de padre o madre duranguense, que posean domicilio simultáneo en el extranjero y en el territorio de la Entidad Federativa.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+7. Son ciudadanos duranguenses jóvenes, los que acrediten tener menos de 30 años al día de la elección.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+8. Son ciudadanos duranguenses indígenas, los que pertenezcan a alguno de los pueblos y comunidades indígenas asentadas en el territorio de la entidad y acrediten su adscripción calificada.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+9. Son ciudadanos duranguenses pertenecientes a grupos de la diversidad sexual, los que, bajo protesta de decir verdad, manifiesten su pertenencia a dichos grupos.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+10. Son ciudadanos duranguenses con discapacidad permanente, los que acrediten mediante certificado médico o constancia expedidos por una Institución Pública de Salud, su adscripción a este sector de la sociedad.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+11. Son ciudadanos duranguenses adultos mayores, los que acrediten ser mayores de 60 años al día de la elección.
 
 ARTÍCULO 11
 
@@ -239,7 +303,9 @@ ARTÍCULO 11
 
 ARTÍCULO 12
 
-1. El Poder Legislativo se deposita en el Congreso, el cual estará integrado por quince diputados electos por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales; y diez diputados electos por el principio de representación proporcional, que serán electos bajo el sistema de listas votadas, en una circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+1. El Poder Legislativo se deposita en el Congreso, el cual estará integrado por quince diputados electos por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los cuales uno de ellos estará conformado por los municipios con mayor porcentaje de población indígena; y diez diputaciones electas por el principio de representación proporcional, de los cuales serán electas bajo el sistema de listas votadas en una circunscripción plurinominal estatal que se conformará por cinco formulas que registren los partidos políticos, alternándose con cinco formulas que corresponderán a los candidatos registrados por el principio de mayoría relativa que, no habiendo obtenido constancia de mayoría en su distrito hubieren obtenido el mayor porcentaje de votos de la elección por el principio de mayoría relativa del distrito en que participaron, pero que alcanzaron a nivel distrital los mayores porcentajes de la votación total emitida, comparados respecto de otras formulas de su propio partido en esa misma elección. Una vez que se determinó el primer lugar de esta lista, el segundo lugar será ocupado por la formula de la otra lista con mayor porcentaje de la votación total emitida, e irán intercalando de esta manera hasta concluir la integración de la lista.
 
 2. El Congreso se renovará en su totalidad cada tres años.
 
@@ -248,6 +314,10 @@ ARTÍCULO 12
 4. En el caso de las candidaturas independientes, las fórmulas deberán estar integradas por personas del mismo género.
 
 5. Por cada diputado propietario, se elegirá un suplente.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+6. Sin menoscabo del derecho a la elección consecutiva, para garantizar la participación de las comunidades indígenas y el acceso de este grupo poblacional a los espacios de representación, en el caso del distrito con mayor población indígena, los partidos políticos procurarán postular de forma alternada, a una fórmula integrada por personas de origen étnico para un proceso electoral y en el siguiente a una fórmula integrada por quienes se identifiquen como personas mestizas.
 
 ARTÍCULO 13
 
@@ -269,7 +339,9 @@ ARTÍCULO 16
 
 1. A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral, excepto lo dispuesto por el párrafo siguiente:
 
-2. Los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, hasta cinco candidatos a diputados por mayoría relativa y por representación proporcional, y hasta cinco candidaturas a presidente municipal y regidor de representación proporcional.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+2. Los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, hasta dos candidaturas a las diputaciones por los principios de mayoría relativa y por representación proporcional, y hasta cinco candidaturas a las presidencias municipales y regidurías de representación proporcional.
 
 3. En caso de que una fórmula de candidatos a diputado registrada por ambos principios resulte ganadora en la elección de mayoría relativa, asumirá el cargo de diputado según este principio, y su lugar en la lista de representación proporcional lo ocupará la fórmula que sique (sic) en dicha lista.
 
@@ -429,7 +501,9 @@ XII. Mantener el mínimo de militantes requeridos para su constitución o regist
 
 XIII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-XIV. Garantizar la paridad entre los géneros en las candidaturas a legisladores locales;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XIV. Garantizar la paridad entre los géneros en las candidaturas a diputaciones locales e integrantes de los Ayuntamientos;
 
 XV. Cumplir con lo establecido en esta Ley en materia de registro de candidatos;
 
@@ -461,9 +535,11 @@ ARTÍCULO 31
 
 ### CAPÍTULO IV. DE LAS CANDIDATURAS COMUNES, FRENTES, COALICIONES Y FUSIONES
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
 ARTÍCULO 32
 
-1. Los partidos políticos, para las elecciones que se celebren en la Entidad Federativa, podrán constituir frentes, coaliciones, así como fusionarse, de conformidad a las disposiciones y reglas establecidas en la Ley General y en la Ley General de Partidos Políticos, para tal efecto.
+1. Los partidos políticos, para las elecciones que se celebren en la Entidad Federativa, podrán constituir frentes, coaliciones y candidaturas comunes, así como fusionarse, de conformidad a las disposiciones y reglas establecidas en la Ley General y en la Ley General de Partidos Políticos, para tal efecto.
 
 > <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2015)</small>
 
@@ -479,7 +555,9 @@ I. Nombre de los partidos que la conforman, así como el tipo de elección de qu
 
 II. Emblema común de los partidos que lo conforman y el color o colores con que se participa;
 
-III. Nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar y el consentimiento por escrito del candidato;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+III. Nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar, CURP y el consentimiento por escrito de quien encabece la candidatura;
 
 IV. La aprobación del convenio por parte de los órganos directivos correspondientes de cada uno de los partidos políticos postulantes del candidato común;
 
@@ -777,9 +855,13 @@ ARTÍCULO 62
 
 ARTÍCULO 63
 
-1. Las agrupaciones políticas estatales sólo podrán participar en procesos electorales estatales mediante acuerdos de participación con un partido político o coalición. Las candidaturas surgidas de los acuerdos de participación serán registradas por un partido político y serán votadas con la denominación, emblema, color o colores de éste.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
-2. El acuerdo de participación a que se refiere el párrafo anterior, deberá presentarse para su registro ante el Consejo General treinta días antes de que se inicie el periodo de precampañas de la elección de que se trate. En la propaganda y campaña electoral, se podrá mencionar la agrupación participante.
+1. Las agrupaciones políticas estatales sólo podrán participar en procesos electorales estatales mediante acuerdos de participación con un partido político, coalición o candidatura común. Las candidaturas surgidas de los acuerdos de participación serán registradas por un partido político y serán votadas con la denominación, emblema, color o colores de éste.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+2. El acuerdo de participación a que se refiere el párrafo anterior, deberá presentarse para su registro ante el Consejo General desde el inicio del proceso electoral y hasta cinco días antes del registro de candidaturas.
 
 3. Las agrupaciones políticas estatales estarán sujetas a las obligaciones, prerrogativas y procedimientos de fiscalización de sus recursos conforme a lo establecido en este Título.
 
@@ -813,15 +895,17 @@ II. El registro de las agrupaciones políticas, cuando hubiese procedido, surtir
 
 III. (DEROGADA, P.O. 15 DE FEBRERO DE 2015)
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
 ARTÍCULO 66
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2015)</small>
+1. Las agrupaciones políticas con registro, a fin de acreditar los gastos realizados, deberán presentar ante la Comisión de Fiscalización del Instituto cuatro informes trimestrales del origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación. El primero, segundo y tercer trimestre se deberán presentar a más tardar dentro de los treinta días hábiles siguientes a la conclusión del trimestre que corresponda y el cuarto informe trimestral se deberá presentar a más tardar el día quince de enero del año siguiente al del ejercicio que se reporte.
 
-1. Las agrupaciones políticas con registro, a fin de acreditar los gastos realizados, deberán presentar a más tardar el día quince del mes de diciembre de cada año, los comprobantes de los mismos.
+Junto con cada informe trimestral deberán remitirse a la autoridad electoral, la documentación comprobatoria de los ingresos y egresos de la agrupación, conforme a las reglas que establezca el Consejo General.
 
-2. Las agrupaciones políticas con registro, deberán presentar además a la Comisión de Fiscalización, un informe anual del ejercicio anterior sobre el origen y destino de los recursos que reciban por cualquier modalidad.
+2. Además, se deberá presentar un informe anual sobre el origen y destino de los recursos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación, a más tardar el último día de febrero del año siguiente al del ejercicio que se reporte.
 
-3. El informe a que se refiere el párrafo anterior, deberá presentarse a más tardar el día quince de diciembre del año del ejercicio que se reporte.
+De igual manera, junto con el informe anual deberá remitirse a la autoridad electoral la documentación comprobatoria de los ingresos y egresos de la agrupación, conforme a las reglas que establezca el Consejo General.
 
 ARTÍCULO 67
 
@@ -895,9 +979,7 @@ XIII. Requerir a cualquier persona física o moral, pública o privada, informac
 
 XIV. Las demás que le confiera la presente Ley, los demás ordenamientos aplicables y el Consejo General.
 
-ARTÍCULO 71
-
-1. Las agrupaciones políticas deberán rendir ante la Comisión de Fiscalización informes trimestrales sobre el origen, monto y destino de los ingresos que reciban bajo cualquier modalidad de financiamiento, dentro de los treinta días siguientes a la conclusión del trimestre que corresponda.
+ARTÍCULO 71 (DEROGADO, P.O. 31 DE JULIO DE 2023)
 
 ARTÍCULO 72
 
@@ -910,6 +992,10 @@ II. Estados financieros consolidados donde se refleje su activo, pasivo y patrim
 III. Inventario de bienes propiedad de la agrupación; y
 
 IV. La demás información o documentación que sea señalada en el reglamento de la materia y en las disposiciones administrativas que apruebe el Consejo General.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+2. De igual manera, las agrupaciones políticas estatales deberán comunicar en los citados informes, las actividades que realizan para coadyuvar al desarrollo de la vida democrática y al fortalecimiento de la cultura política, así como a la creación de una opinión pública mejor informada.
 
 ARTÍCULO 73
 
@@ -985,9 +1071,19 @@ XVIII. Ejercer la función de Oficialía Electoral respecto de actos o hechos ex
 
 XIX. Informar a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, sobre el ejercicio de las funciones que le hubiera delegado el Instituto Nacional Electoral, conforme a lo previsto por la Ley General, y demás disposiciones que emita el Consejo General de dicho Instituto;
 
-XX. Aplicar las disposiciones generales, reglas, lineamientos, criterios y formatos que, en ejercicio de las facultades que le confiere la Constitución y la Ley General, establezca el Instituto Nacional Electoral; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-XXI. Las demás que establezca la Ley General, la Ley General de Partidos, y aquéllas que establezca esta Ley y que no estén reservadas al Instituto Nacional Electoral.
+XX. Aplicar las disposiciones generales, reglas, lineamientos, criterios y formatos que, en ejercicio de las facultades que le confiere la Constitución y la Ley General, establezca el Instituto Nacional Electoral;
+
+Cuando se traté de la emisión de reglas, lineamientos y acuerdos relacionados con la postulación de candidaturas y asignación de cargos, el Instituto deberá emitirlas al menos sesenta días previos al inicio del proceso electoral; y
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XXI. Auxiliar, instruir y asesorar en la elección de las autoridades auxiliares administrativas de los municipios, a través de un convenio en el que se precise la forma y los términos en que se llevará a cabo la participación del Instituto. La facultad, se llevará a cabo únicamente a petición de parte y con los recursos del solicitante, siempre y cuando no se contravengan disposiciones de orden público y sea material y temporalmente posible;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XXII. Las demás que establezca la Ley General, la Ley General de Partidos, y aquéllas que establezca esta Ley y que no estén reservadas al Instituto Nacional Electoral.
 
 2. Todas las actividades del Instituto se regirán por los principios de certeza, legalidad, imparcialidad, objetividad, independencia y máxima publicidad.
 
@@ -1261,7 +1357,9 @@ XXVII. Resolver sobre la sustitución de candidatos y la cancelación de su regi
 
 XXVIII. Verificar el cumplimiento de los criterios generales que emita el Instituto Nacional Electoral en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en el Estado. Los resultados de dichos estudios sólo podrán ser difundidos previo acuerdo del propio Consejo General;
 
-XXIX. Organizar los debates que los partidos políticos por consenso general, acuerden y soliciten, en los términos señalados por el artículo 218 de la Ley General;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XXIX. Organizar los debates en los términos señalados en la Ley General;
 
 XXX. Aprobar en su caso, por mayoría de seis votos de sus integrantes, la celebración del convenio con el Consejo General del Instituto Nacional Electoral, para que éste asuma la organización integral de los procesos electorales de esta entidad;
 
@@ -1893,7 +1991,9 @@ ARTÍCULO 112
 
 1. Las mesas directivas de casilla, se integrarán con un Presidente, un Secretario, dos Escrutadores y tres suplentes generales.
 
-2. Los Consejos Municipales, llevarán a cabo cursos de educación cívica y capacitación electoral, dirigidos a los ciudadanos residentes en sus respectivos municipios.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+2. En los procesos en que se realicen elecciones federales y locales concurrentes, se deberá instalar una mesa directiva de casilla única para ambos tipos de elección, cuya integración será conforme a lo señalado en la Ley General.
 
 3. Las mesas directivas de casilla se integrarán conforme al procedimiento señalado en esta Ley, y en el supuesto de elecciones concurrentes con la federal, de acuerdo con el procedimiento señalado por la Ley General.
 
@@ -1991,7 +2091,9 @@ ARTÍCULO 130
 
 ARTÍCULO 131
 
-1. El Tribunal Electoral funcionará de forma permanente con una Sala Colegiada, integrada por tres magistrados, que ejercerán el cargo por un periodo de siete años, prorrogables por una sola ocasión. Serán electos por el Senado de la República, de manera escalonada, de acuerdo con el procedimiento previsto en la Ley General. Sus sesiones de resolución jurisdiccional serán públicas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+1. El Tribunal Electoral funcionará de forma permanente con una Sala Colegiada, integrada por tres magistrados. En ningún caso la Sala Colegiada se deberá integrar por personas de un solo género, es decir, que de los tres integrantes al menos uno de ellos debe ser de género diferente, quienes ejercerán el cargo por un periodo de siete años, prorrogables por una sola ocasión. Serán electos por el Senado de la República, de manera escalonada, de acuerdo con el procedimiento previsto en la Ley General. Sus sesiones de resolución jurisdiccional serán públicas.
 
 Los magistrados electorales percibirán la remuneración que corresponda a los magistrados del Tribunal Superior de Justicia del Estado, la cual no podrá ser disminuida durante el periodo de su encargo.
 
@@ -1999,79 +2101,159 @@ ARTÍCULO 132
 
 1. En los términos de lo dispuesto por la Constitución Local y las leyes aplicables, el Tribunal Electoral es competente para:
 
-A. En materia de impugnación, conocer de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+A. En materia de procedimientos sancionadores:
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+I. Resolver sobre el procedimiento especial sancionador, en los términos de la ley de la materia, de los cuales el Instituto Electoral y de Participación Ciudadana, haya conocido, tramitado y sustanciado.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+B. En materia de impugnación, conocer de:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
 
 I. Las impugnaciones que se presenten en la elección de Gobernador del Estado, cuando se trate de:
 
-a) Los resultados consignados en las actas de cómputo distrital respectivas, por nulidad de la votación recibida en una o varias casillas;
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+a) Los resultados consignados en las actas de cómputo distrital, respectivas, por nulidad de la votación recibida en una o varias casillas;
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
 
 b) Los resultados consignados en las actas de cómputo distrital respectivas, por error aritmético; y
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
 c) Los resultados consignados en el acta de cómputo estatal, la declaración de validez de la elección y la entrega de la constancia de mayoría y de Gobernador electo, por nulidad de votación recibida en una o varias casillas o nulidad de elección.
 
-II. Las impugnaciones que se presenten en la elección de diputados por el principio de mayoría relativa, cuando se trate de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+II. Las impugnaciones que se presenten en la elección de diputados por el principio de mayoría relativa. cuando se trate de:
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
 
 a) Los resultados consignados en las actas de cómputo distrital, las declaraciones de validez de las elecciones y el otorgamiento de las constancias de mayoría y validez respectiva, por nulidad de la votación recibida en una o varias casillas o por nulidad de la elección;
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
 b) Las determinaciones sobre el otorgamiento de las constancias de mayoría y validez respectivas; y
 
-c) Los resultados consignados en las actas de cómputo distrital, por error aritmético.
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+c) Los resultados consignados en las actas de cómputo distrital por error aritmético.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
 
 III. Las impugnaciones que se presenten en la elección de diputados por el principio de representación proporcional, cuando se trate de:
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
 a) Los resultados consignados en las actas de cómputo, la asignación de diputados y la expedición de las constancias, por nulidad de la votación recibida en una o varias casillas;
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
 
 b) Los resultados consignados en las actas, por error aritmético; y
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
 c) La asignación indebida de diputados en contravención a las reglas y fórmulas de asignación establecidas en la Constitución Local y en la ley de la materia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
 
 IV. Las impugnaciones que se presenten en la elección de ayuntamiento, cuando se trate de:
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
 a) Los resultados consignados en las actas de cómputo municipal, las declaraciones de validez de las elecciones y el otorgamiento de las constancias de mayoría y validez o de asignación de regidores, por nulidad de la votación recibida en una o varias casillas o por nulidad de la elección;
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
 
 b) Las determinaciones sobre el otorgamiento de las constancias de mayoría y validez o de asignación de regidores respectivas; y
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
 c) Los resultados consignados en las actas de cómputo municipal, por error aritmético.
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
 V. Las impugnaciones que se presenten en la declaración de inelegibilidad, cuando las autoridades electorales competentes determinen no otorgar o revocar la constancia de asignación respectiva;
 
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
 VI. Las impugnaciones que se presenten en contra de actos y resoluciones del Consejo General, del consejero presidente y de los órganos ejecutivos del Consejo General;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
 VII. Las impugnaciones que se presenten en contra de los actos y resoluciones de la autoridad electoral, durante el tiempo en que no se desarrollen procesos electorales locales, de conformidad con la ley de la materia; y
 
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
 VIII. Los juicios para la protección de los derechos político-electorales del ciudadano, en los términos de la ley de la materia, que se promuevan por violación a los derechos de votar y ser votado en las elecciones populares, y los relativos a la asociación individual y libre para tomar parte en forma pacífica en los asuntos políticos y a los de afiliarse libre e individualmente a los partidos políticos, siempre y cuando se hubieran reunido los requisitos constitucionales y los que señalen las leyes para su ejercicio.
 
-B. Asimismo, tendrá las siguientes facultades y obligaciones para:
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+C. Asimismo, tendrá las siguientes facultades y obligaciones para:
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
 I. Sentar jurisprudencia en los términos que establece la ley de la materia;
 
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
 II. Resolver, en forma definitiva y firme, sobre la determinación e imposición de sanciones en la materia;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
 III. Conocer y resolver, en forma definitiva, las controversias que se susciten por la determinación y, en su caso, aplicación de sanciones a ciudadanos, partidos políticos, organizaciones o agrupaciones políticas o de ciudadanos, observadores y cualquier otra persona física o moral, en los términos de la ley de la materia;
 
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
 IV. Aplicar los medios de apremio y las correcciones disciplinarias a que se refiere la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
 V. Aprobar anualmente su proyecto de presupuesto, para que se integre al presupuesto de egresos del Estado;
 
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
 VI. Expedir su reglamento interno y dictar los acuerdos generales necesarios para su adecuado funcionamiento;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
 VII. Desarrollar las tareas de formación, investigación, capacitación y difusión en la materia;
 
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
 VIII. Establecer y mantener relaciones con otros tribunales electorales, autoridades e instituciones nacionales e internacionales;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
 IX. Elegir a su presidente en los términos de esta Ley, así como conocer y aceptar, en su caso, su renuncia ha dicho cargo;
 
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
 X. Comunicar al Senado de la República las vacantes de los Magistrados Electorales que excedan de tres meses, para los efectos previstos en la ley;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
 XI. Fijar los días y horas en que deba sesionar la Sala, tomando en consideración los plazos electorales;
 
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
 XII. Conocer y resolver sobre las excusas o impedimentos de los magistrados electorales que lo integran;
 
-XIII. Conceder licencias que no excedan de tres meses a los Magistrados Electorales; y
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2021)</small>
+XIII. Conceder licencias que no excedan de tres meses a los Magistrados Electorales;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
 XIV. Designar al titular del Órgano Interno de Control; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
 XV. Las demás que le señalen las leyes.
 
@@ -2511,21 +2693,31 @@ III. La exhibición y la entrega a los órganos electorales y partidos político
 
 IV. El registro de candidatos, fórmulas de candidatos y listas, y la sustitución y cancelación en los términos de esta Ley;
 
-V. La definición del número, ubicación e integración de las mesas directivas de casilla;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+V. Atender la determinación del Instituto Nacional Electoral, respecto del número, ubicación e integración de las mesas directivas de casilla;
 
 VI. La preparación, distribución y entrega de la documentación y materiales electorales aprobados y la de los útiles necesarios a los órganos electorales;
 
 VII. El registro de la plataforma electoral mínima por los partidos políticos;
 
-VIII. La publicación de las listas de ubicación e integrantes de las mesas directivas de casilla;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+VIII. La publicación de las listas de ubicación e integrantes de las mesas directivas de casilla aprobadas por el Instituto Nacional Electoral.
 
 IX. Los actos relacionados con la propaganda electoral;
 
-X. La capacitación de los ciudadanos que resulten insaculados y la integración de las nuevas mesas directivas de casilla;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-XI. El registro de representantes generales de partido y ante las mesas directivas de casilla;
+X. La capacitación de las y los ciudadanos que resulten insaculados y la integración de las nuevas mesas directivas de casilla aprobadas por el Instituto Nacional Electoral;
 
-XII. El registro de convenios de coaliciones, fusiones y frentes que se celebren; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XI. El registro de representantes generales de partido y ante las mesas directivas de casilla realizado por el Instituto Nacional Electoral;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XII. El registro de convenios de coaliciones, candidaturas comunes, fusiones y frentes que se celebren; y
 
 XIII. Los actos y resoluciones dictados por los órganos electorales, relacionados con las actividades y tareas señaladas o con otras que resulten en cumplimiento de sus atribuciones y que se produzca hasta la víspera de la elección.
 
@@ -2707,7 +2899,11 @@ ARTÍCULO 184
 
 1. Corresponde a los partidos políticos, el derecho de solicitar el registro de candidatos a cargos de elección popular, sin perjuicio de las candidaturas independientes en los términos de esta Ley.
 
-2. Las candidaturas a diputados a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, así como las de integrantes de los ayuntamientos, se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y serán consideradas, fórmulas y candidatos, por separado, salvo para efectos de la votación.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+2. Las diputaciones a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, así como las de integrantes de los ayuntamientos, se registrarán por fórmulas de candidaturas compuestas cada una (sic) persona propietaria y una persona suplente del mismo género.
+
+Tratándose de fórmulas cuyo propietario pertenezca al género masculino, podrá ir en suplencia una persona del género femenino.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2021)</small>
 
@@ -2721,25 +2917,147 @@ ARTÍCULO 184
 
 6. La totalidad de solicitudes de registro de las candidaturas a diputaciones y ayuntamientos que presenten los partidos políticos, las coaliciones o las candidaturas comunes ante el Instituto, deberán integrarse salvaguardando la paridad entre los géneros mandatada en la Constitución, la Ley General y la presente Ley.
 
-Para dar cumplimiento a la paridad horizontal y vertical en elección de Ayuntamientos, las solicitudes de registro establecidas en el párrafo anterior, se sujetarán a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
 
-I. Se deberá postular por lo menos 19 mujeres como candidatas y 19 hombres como candidatos a presidenta y presidente municipal respectivamente.
+a) Para dar cumplimiento a la paridad horizontal y vertical en elección de Ayuntamientos, las solicitudes de registro establecidas en el párrafo anterior, se sujetarán a lo siguiente:
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+I. Se deberá postular por lo menos un cincuenta por ciento de mujeres como candidatas y el cincuenta por ciento restante de hombres como candidatos a presidenta y presidente municipal respectivamente, en el supuesto de que el número de las candidaturas a presidencias municipales sea impar, la mayoría corresponderá a candidatura mujer.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE JULIO DE 2023)</small>
 
 II. Si por la presidencia municipal contiende un hombre, la candidatura para la sindicatura deberá ser para una mujer, la primera regiduría para un hombre, la segunda para una mujer, y así sucesivamente hasta agotar todas las posiciones.
 
-III. Si por la presidencia municipal contiende una mujer, la candidatura para la sindicatura deberá ser para un hombre, la primera regiduría para una mujer, la segunda para un hombre, y así sucesivamente hasta agotar todas las posiciones.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-Para dar cumplimiento a la paridad en elección de Diputaciones, las solicitudes de registro establecidas en el primer párrafo del numeral 6 del presente artículo, se sujetarán a lo siguiente:
+III. En el caso de que para la presidencia municipal contienda una mujer, la candidatura para la sindicatura podrá corresponder a una mujer, la primera regiduría para un hombre, la segunda para una mujer, y así sucesivamente hasta agotar todas las posiciones.
 
-I. Si de las postulaciones, más del 50 por ciento en los Distritos por el principio de mayoría relativa corresponde a hombres, la primera candidatura por el principio de representación proporcional deberá ser para una mujer, la segunda para un hombre, y así sucesivamente hasta agotar todas las posiciones.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
 
-II. Si de las postulaciones, más del 50 por ciento en los Distritos por el principio de mayoría relativa corresponde a mujeres, la primera candidatura por el principio de representación proporcional deberá ser para un hombre, la segunda para una mujer, y así sucesivamente hasta agotar todas las posiciones.
+b) Para garantizar el principio de paridad transversal, la postulación y registro de candidaturas de los Ayuntamientos del Estado, el Instituto realizará los trabajos correspondientes para determinar tres bloques de competitividad, para evitar que a alguno de los géneros le sean asignados exclusivamente aquellos municipios en los que los partidos políticos hayan obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+Una vez realizado lo anterior, los partidos políticos deberán ajustarse a las siguientes reglas:
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+I. Al menos un bloque deberá ser encabezado por fórmula de mujeres.
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+II. En ningún caso se deberá (sic) postular candidaturas de mujeres para Presidencias Municipales en los dos últimos municipios del último bloque.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+III. Se deberá asegurar la integración paritaria en cada bloque, tomando en consideración los siguientes supuestos:
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+i) En caso de que se conformen los tres bloques por un número impar de municipios; al menos dos de ellos, deberán integrarse por mayoría de fórmulas de mujeres.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+ii) De los tres bloques que se conformen, en caso de que dos o uno sean integrados por un número impar de municipios; al menos uno de ellos deberá integrarse por mayoría de fórmulas de mujeres.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+c) Para las candidaturas de mayoría relativa a presidencia municipal y/o sindicatura, los partidos políticos deberán presentar cuando menos dos fórmulas en algunas de las candidaturas de mayoría relativa a presidencia municipal y/o sindicatura, en la cual, tanto propietario como suplente cumpla con el requisito de: contar hasta con 30 años cumplidos al día de la elección.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+d) Los partidos políticos deberán presentar al menos una fórmula de candidatura de mayoría relativa a presidencia municipal y/o sindicatura la cual, deberá corresponder a personas con discapacidad permanente y/o de la diversidad sexual, y/o adulto mayor y/o migrante, en la cual, tanto propietario como suplente pertenezcan al mismo grupo.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+Las personas postuladas podrán decidir, mediante el formato correspondiente, si el tipo de discapacidad permanente con que se cuente, así como la referencia al grupo especifico de la diversidad sexual al que pertenezca, se hace o no pública. Tomando en consideración que lo único que sí será de dominio público al ser postulado o postulada, será la mención genérica del grupo o sector social que representa.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+Para el cumplimiento de lo establecido en los incisos c) y d) de este numeral, se deberán proponer fórmulas, tanto de propietarios como de suplentes pertenecientes al mismo grupo o sector social vulnerable.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+En el caso de las candidaturas a las regidurías en los Ayuntamientos, se deberán postular conforme lo siguiente:
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+i. En los municipios con siete regidurías: se deberá presentar una fórmula en las primeras cinco posiciones del listado de sus candidaturas del municipio, en favor de cualquiera de los grupos o sectores sociales vulnerables, enlistados anteriormente.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+ii. En los municipios con nueve regidurías: se deberá presentar una fórmula en las primeras seis posiciones del listado de sus candidaturas del municipio, en favor de cualquiera de los grupos o sectores sociales vulnerables, enlistados anteriormente.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+iii. En los municipios con quince regidurías: se deberá presentar una fórmula en las primeras siete posiciones del listado de sus candidaturas del municipio, en favor de cualquiera de los grupos o sectores sociales vulnerables, enlistados anteriormente.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+iv. En el municipio de Durango: se deberá presentar una fórmula en las primeras ocho posiciones del listado de sus candidaturas del municipio, en favor de cualquiera de los grupos o sectores sociales vulnerables, enlistados anteriormente.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+e) Para dar cumplimiento a la paridad en elección de Diputaciones, las solicitudes de registro establecidas en el primer párrafo del numeral 6 del presente artículo, se sujetarán a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+I. Si de las postulaciones, más del cincuenta por ciento en los distritos por el principio de mayoría relativa corresponde a hombres, la primera candidatura por el principio de representación proporcional deberá ser para una mujer, la segunda para un hombre, y así sucesivamente hasta agotar todas las posiciones.
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+II. Si de las postulaciones, más del del (sic) cincuenta por ciento en los distritos por el principio de mayoría relativa corresponde a mujeres, la primera candidatura por el principio de representación proporcional deberá ser para un hombre, la segunda para una mujer, y así sucesivamente hasta agotar todas las posiciones.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+f) Para garantizar el principio de paridad transversal, la postulación y registro de candidaturas de diputadas y diputados, el Instituto realizará los trabajos correspondientes para determinar tres bloques de competitividad, para evitar que alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que los partidos políticos hayan obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+Una vez realizado lo anterior, los partidos políticos deberán ajustarse a las siguientes reglas:
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+I. Al menos un bloque deberá ser encabezado por fórmula de mujeres.
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+II. En ningún caso se deberá (sic) postular candidaturas de mujeres a diputación, en los dos últimos distritos del último bloque.
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+III. Se deberá asegurar la integración paritaria en cada bloque.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+Para las candidaturas por el principio de mayoría relativa, los partidos políticos deberán presentar cuando menos una fórmula en alguno de los distritos electorales, en la cual, tanto propietario como suplente cumpla con el requisito de contar hasta con 30 años cumplidos al día de la elección,
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+g) Los partidos políticos deberán presentar al menos una fórmula de candidatura dentro de los primeros tres lugares en las listas de representación proporcional que para tal efecto registren, la cual, deberá corresponder a personas con discapacidad permanente y/o de la diversidad sexual y/o adulto mayor y/o migrantes, en la cual, tanto propietario como suplente pertenezcan al mismo grupo; en el caso que se presentara más de una formula bajo alguno de estos supuestos, las subsecuentes podrán ser en cualquier posición dentro del listado, o bien optar por el principio de mayoría relativa en algún distrito electoral local.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+Las personas postuladas podrán decidir, mediante el formato correspondiente, si el tipo de discapacidad permanente con que se cuente, así como la referencia al grupo específico de la diversidad sexual al que pertenezca, se hace o no pública. Tomando en consideración que lo único que si será de dominio público al ser postulada o postulado, será la mención genérica del grupo o sector social que representa.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+Para el cumplimiento de lo establecido en los incisos g) y h) de este numeral, se deberán proponer fórmulas, tanto de propietarios como de suplentes, pertenecientes al mismo grupo o sector social vulnerable.
 
 7. Las listas de representación proporcional se integrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista.
 
-8. Hecho el cierre del registro de candidaturas, si un partido político o coalición no cumple con lo anterior, el Consejo General le requerirá en primera instancia para que en el plazo de cuarenta y ocho horas, contadas a partir de la notificación, rectifique la solicitud de registro de candidaturas y le apercibirá de que, en caso de no hacerlo, le hará una amonestación pública.
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
 
-9. Transcurrido el plazo a que se refiere el párrafo anterior, el partido político o coalición que no realice la sustitución de candidatos, será acreedor a una amonestación pública y el Consejo General le requerirá, de nueva cuenta, para que en un plazo de veinticuatro horas, contadas a partir de la notificación, haga la corrección. En caso de reincidencia se sancionará con la negativa del registro de las candidaturas.
+Tratándose de fórmulas cuyo propietario pertenezca al género masculino, podrá ir en suplencia una persona del género femenino.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+8. Hecho el cierre del registro de candidaturas, si un partido político, coalición o candidatura común no cumple con lo anterior, el Consejo General le requerirá en primera instancia para que, en el plazo de cuarenta y ocho horas, contadas a partir de la notificación, rectifique la solicitud de registro de candidaturas y le apercibirá de que, en caso de no hacerlo, le hará una amonestación pública.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+9. Transcurrido el plazo a que se refiere el párrafo anterior, el partido político, coalición o candidatura común que no realice la sustitución de candidatos, será acreedor a una amonestación pública y el Consejo General le requerirá, de nueva cuenta, para que, en un plazo de veinticuatro horas, contadas a partir de la notificación, haga la corrección. En caso de reincidencia se sancionará con la negativa del registro de las candidaturas.
 
 ARTÍCULO 185
 
@@ -2767,7 +3085,9 @@ c) Los candidatos a integrantes de los Ayuntamientos, por los consejos Municipal
 
 ARTÍCULO 187
 
-1. La solicitud de registro de candidaturas deberá señalar el partido político o coalición que las postulen y los siguientes datos de los candidatos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+1. La solicitud de registro de candidaturas deberá señalar el partido político o coalición o candidatura común que las postulen y los siguientes datos de los candidatos:
 
 I. Apellido paterno, apellido materno y nombre completo;
 
@@ -2779,9 +3099,21 @@ IV. Ocupación;
 
 V. Clave de la credencial para votar;
 
-VI. Cargo para el que se les postule; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-VII. Los candidatos a Diputados e integrantes del Ayuntamiento que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
+VI. CURP;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+VII. Cargo para el que se les postule;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+VIII. Los candidatos a Diputados e integrantes del Ayuntamiento que busquen la elección consecutiva en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+IX. En el caso de los ciudadanos duranguenses pertenecientes a algún grupo o sector social vulnerable, cuyo registro como candidatos soliciten los partidos políticos, además de la documentación comprobatoria anterior, deberán acreditar su pertenencia al grupo o sector social vulnerable que representen, contempladas en la presente ley.
 
 2. La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y copia del anverso y reverso de la credencial para votar con fotografía vigente.
 
@@ -2835,7 +3167,9 @@ III. En los casos en que la renuncia del candidato fuera notificada por éste al
 
 ARTÍCULO 191
 
-1. La campaña electoral, para los efectos de esta Ley, es el conjunto de actividades llevadas a cabo por los partidos políticos, las coaliciones y los candidatos registrados para la obtención del voto.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+1. La campaña electoral, para los efectos de esta Ley, es el conjunto de actividades llevadas a cabo por los partidos políticos, coaliciones o candidaturas comunes a través de sus candidatos registrados para la obtención del voto.
 
 2. Se entienden por actos de campaña las reuniones públicas, asambleas, marchas y en general aquellos en que los candidatos o voceros de los partidos políticos, se dirigen al electorado para promover sus candidaturas.
 
@@ -2867,7 +3201,9 @@ ARTÍCULO 194
 
 ARTÍCULO 195
 
-1. La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del partido político o coalición que ha registrado al candidato.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+1. La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del partido político, coalición o candidatura común que ha registrado al candidato.
 
 2. La propaganda que en el curso de una campaña difundan por medios gráficos los partidos políticos, las coaliciones y los candidatos, no tendrá más límite, en los términos del artículo 6 y 7 de la Constitución, que el respeto a la vida privada de candidatos, autoridades, terceros y a las Instituciones y valores democráticos.
 
@@ -2893,7 +3229,9 @@ V. No podrá colgarse, fijarse o pintarse en monumentos ni en edificios público
 
 3. Los órganos electorales, dentro del ámbito de su competencia harán cumplir estas disposiciones y adoptarán las medidas a que hubiere lugar con el fin de asegurar a partidos y candidatos el pleno ejercicio de sus derechos en la materia.
 
-4. Las quejas motivadas por la propaganda impresa de los partidos políticos y candidatos serán presentadas al Consejo Municipal que corresponda al ámbito territorial en que se presente el hecho que motiva la queja. El mencionado Consejo ordenará la verificación de los hechos, integrará el expediente y resolverá la queja. Contra la resolución del Consejo Municipal procede el recurso de revisión que resolverá el Consejo General.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+4. Las quejas motivadas por la propaganda impresa de los partidos políticos y candidatos serán presentadas al Consejo Municipal que corresponda al ámbito territorial en que se presente el hecho que motiva la queja. El mencionado Consejo ordenará la verificación de los hechos, integrará el expediente y lo remitirá como lo establece el capítulo IV del Título Primero del Libro Sexto de esta ley, sobre el procedimiento especial sancionador, al Tribunal Electoral.
 
 ARTÍCULO 198
 
@@ -2915,7 +3253,9 @@ ARTÍCULO 200
 
 3. Las campañas electorales para integrantes de los Ayuntamientos de los Municipios de Durango, Gómez Palacio y Lerdo, tendrán una duración de cincuenta días; para los Municipios de Canatlán, Cuencamé, Guadalupe Victoria, Mapimí, Mezquital, Nombre de Dios, Nuevo Ideal, Poanas, Pueblo Nuevo, San Dimas, Santiago Papasquiaro, El Oro, Tamazula, Tlahualilo y Vicente Guerrero tendrán una duración de cuarenta días; y en el resto de los Municipios tendrán una duración de treinta días.
 
-4. Las campañas electorales de los partidos políticos se iniciarán oficialmente a partir de la fecha en que se haya otorgado el registro y concluirán tres días antes de la elección. El órgano electoral correspondiente, notificará por escrito a cada partido, la procedencia legal del registro de sus candidaturas para la elección respectiva.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+4. Las campañas electorales de los partidos políticos y candidaturas independientes se iniciarán oficialmente una vez otorgados los respectivos registros y conforme al calendario previamente aprobado por el Consejo General y concluirán tres días antes de la jornada electoral. El órgano electoral correspondiente, notificará por escrito a cada partido o candidatura independiente la procedencia legal del registro de sus candidaturas para la elección respectiva.
 
 5. El día de la jornada electoral y durante los tres días anteriores, no se permitirán la celebración de reuniones o actos de campaña, de propaganda o de proselitismo electorales.
 
@@ -2925,9 +3265,11 @@ ARTÍCULO 200
 
 8. Las personas físicas o morales que pretendan llevar a cabo encuestas por muestreo para dar a conocer las preferencias electorales de los ciudadanos o las tendencias de las votaciones, adoptarán criterios generales de carácter científico, que para tal efecto determine el Instituto Nacional Electoral.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
 ARTÍCULO 201
 
-1. Los órganos electorales deberán ordenar el retiro o destrucción de los medios de propaganda empleados en contra de lo dispuesto por esta Ley. En caso de violación a las reglas para la instalación de la propaganda en los lugares permitidos; el Consejo respectivo notificará al partido político o coalición infractor, requiriendo su inmediato retiro, que no podrá exceder de cuarenta y ocho horas; en caso de incumplimiento se notificará a la autoridad administrativa para el retiro de la propaganda y la sanción que se determine al partido o coalición considerará el daño económico.
+1. Los órganos electorales deberán ordenar el retiro o destrucción de los medios de propaganda empleados en contra de lo dispuesto por esta Ley. En caso de violación a las reglas para la instalación de la propaganda en los lugares permitidos; el Consejo respectivo notificará al partido político, coalición o candidatura común infractora, requiriendo su inmediato retiro, que no podrá exceder de cuarenta y ocho horas; en caso de incumplimiento se notificará a la autoridad administrativa para el retiro de la propaganda y la sanción que se determine al partido, coalición o candidatura común considerando el daño económico.
 
 ARTÍCULO 202
 
@@ -3111,7 +3453,9 @@ ARTÍCULO 213
 
 I. Participar en la instalación de la casilla y contribuir al buen desarrollo de sus actividades hasta su clausura, así como observar y vigilar el desarrollo de la elección;
 
-II. Recibir copia legible de las actas de instalación, cierre de votación y final de escrutinio elaboradas en la casilla;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+II. Recibir copia legible del acta o las actas de la elección que correspondan en el desarrollo de la elección;
 
 III. Presentar escritos relacionados con incidentes ocurridos durante la votación;
 
@@ -3187,15 +3531,19 @@ ARTÍCULO 218
 
 1. Para la emisión del voto el Consejo General del Instituto Nacional Electoral, tomando en cuenta las medidas de certeza que estime pertinentes, aprobará el modelo de boletas electorales que se utilizarán para las elecciones, atendiendo a lo siguiente:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
 I. Las boletas para la elección de Gobernador del Estado, contendrán:
 
 a). Entidad, distrito y municipio;
 
 b). Cargo para el que se postula al candidato o candidatos;
 
-c). Emblema a Color de cada uno de los partidos políticos que participan con candidatos propios, o en coalición, en la elección de que se trate;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
-d) Apellido paterno, apellido materno y nombre del candidato o candidatos;
+c). Emblema a color de cada uno de los partidos políticos que participan con candidatos propios, en coalición, o en su caso, el de candidatura común, en la elección de que se trate;
+
+d). Apellido paterno, apellido materno y nombre del candidato o candidatos;
 
 e). Un espacio para el candidato de cada partido político;
 
@@ -3205,11 +3553,21 @@ g). Espacio para candidatos o fórmulas no registradas; y
 
 h). Espacio para candidatos independientes.
 
-II. Las boletas para las elecciones de diputados de mayoría relativa y de representación proporcional, de presidente, síndico y regidores de los ayuntamientos, contendrán además de lo dispuesto en los incisos del a) al h) de la fracción anterior, un solo espacio para cada fórmula, lista o planilla de candidatos, propietarios y suplentes cuando corresponda;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-III. Las boletas para la elección de diputados llevarán impresas las listas de candidatos de representación proporcional, y las de ayuntamiento las listas de regidores, y
+II. Las boletas para las elecciones de diputados de mayoría relativa y de representación proporcional, de presidente, síndico y regidores de los ayuntamientos, contendrán además de lo dispuesto en los incisos anteriores, de la fracción anterior, un solo espacio para cada formula, lista o planilla de candidatos, propietarios y suplentes cuando corresponda;
 
-IV. Los colores y emblema de los partidos políticos aparecerán en la boleta en el orden que les corresponde de acuerdo a la antigüedad de sus registros.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+III. Las boletas para la elección de diputados llevarán impresas las listas de candidatos de representación proporcional, y las de ayuntamiento las listas de regidores;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+IV. Los colores y emblema de los partidos políticos aparecerán en la boleta en el orden que les corresponde de acuerdo a la antigüedad de sus registros; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+V. Las boletas para elección de la Gubernatura del Estado, diputaciones por principio de mayoría relativa; Presidencias y Sindicaturas Municipales en Ayuntamientos, incluirán la fotografía de las candidaturas propietarias a tales cargos, con excepción de las candidaturas a las sindicaturas municipales. Las dimensiones y proporciones en la boleta de tales fotografías de las y los candidatos y de los emblemas de los partidos políticos serán determinados por Acuerdo del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Durango.
 
 2. Una vez aprobado el modelo de boletas electorales por el Instituto Nacional Electoral, será facultad del Instituto mandarlas a imprimir.
 
@@ -3287,15 +3645,19 @@ ARTÍCULO 224
 
 ARTÍCULO 225
 
-1. Los órganos electorales para el mejor desempeño de sus funciones, contarán con Asistentes Electorales en el número que acuerde cada uno de ellos.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+1. Para el caso de elecciones concurrentes con las federales, el Instituto Nacional Electoral, designará un número suficiente de capacitadores asistentes electorales, de entre la ciudadanía que hubiera atendido la convocatoria pública expedida al efecto y enviará las listas al Instituto para su circulación a los Consejos Municipales. Para las elecciones locales, el Instituto recibirá las listas de asistentes electorales acordadas por el INE.
 
 2. El Consejo General, proveerá a los Consejos Municipales los elementos humanos y materiales que requieran para su legal desempeño.
 
-3. El Consejo General, designará en el mes de enero del año de la elección, a un número suficiente de asistentes electorales, de entre los ciudadanos que hubieran atendido la convocatoria pública expedida al efecto.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
-4. El Consejo General acordará los lineamientos a los que se sujetará el procedimiento de selección, requisitos y contratación de los asistentes electorales.
+3. En el caso de los capacitadores asistentes electorales para elecciones locales el Instituto Nacional Electoral, designará un numero suficiente, de entre la ciudadanía que hubiera atendido la convocatoria publica expedida al efecto.
 
-5. El Consejo General, una vez autorizados, elaborará un listado de los mismos que contendrá el nombre, domicilio y clave de la credencial para votar con fotografía, así como el municipio al que haya sido comisionado. Esta lista deberá ser entregada a los representantes de los partidos políticos en el Consejo General, por lo menos con una anticipación de ocho días antes de su designación.
+4. (DEROGADO, P.O. 31 DE JULIO DE 2023)
+
+5. (DEROGADO, P.O. 31 DE JULIO DE 2023)
 
 ARTÍCULO 226
 
@@ -4009,6 +4371,14 @@ ARTÍCULO 282
 
 1. Al partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, tendrá derecho a participar en la asignación de diputados por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido, salvo que se ubique en uno de los límites a los que se refiere esta Ley, caso en el cual, se hará el ajuste correspondiente en los términos previstos en la misma.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+2. La asignación de las diputaciones de representación proporcional que correspondan a cada partido político se realizará comenzando con los candidatos de la lista registrada previamente, en su caso, para la siguiente se recurrirá a la lista conformada por las candidaturas de ese partido registradas por el principio de mayoría relativa que, no habiendo obtenido la mayoría de votos en su distrito, hubieren obtenido la mayoría de votos en su distrito, hubieren obtenido un mayor porcentaje de votación, y así sucesivamente hasta concluir con el total de diputaciones asignadas a cada partido político. La suplencia será asignada a la persona registrada como compañera en cada formula. Se determinará una lista definitiva intercalando las formulas de ambas listas, que será encabezada siempre por la primera formula de la lista de los partidos registrada previamente. Tal intercalado podrá generar bloques de hasta dos formulas del mismo género, pero de diferente lista de origen
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+Una vez concluido el proceso de asignación de diputaciones a que se refiere este artículo, y en caso de resultar necesario, se realizarán los ajustes para lograr la paridad en la integración de la Legislatura, la cual se iniciará con el partido que haya obtenido el menor porcentaje de la votación total emitida y se continuará en el mismo orden hasta alcanzar el objetivo.
+
 ARTÍCULO 283
 
 1. Para la asignación de diputados de representación proporcional conforme a lo dispuesto en el artículo 68 de la Constitución Local, se procederá a la aplicación de una fórmula, integrada por los siguientes elementos:
@@ -4445,7 +4815,9 @@ ARTÍCULO 313
 
 ARTÍCULO 314
 
-1. Una vez que se cumplan los demás requisitos establecidos en esta Ley, el Consejo que corresponda, con apoyo de la Dirección Ejecutiva del Registro Federal de Electores del Instituto Nacional Electoral, procederá a verificar que se haya reunido el porcentaje de apoyo ciudadano que corresponda según la elección de que se trate, constatando que los ciudadanos aparecen en la lista nominal de electores.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+1. Dentro del plazo para obtener el apoyo ciudadano y previo al inicio del registro de candidaturas, el Consejo que corresponda, con apoyo de la Dirección Ejecutiva del Registro Federal de Electores del Instituto Nacional Electoral, procederá a verificar que se haya reunido el porcentaje de apoyo de la ciudadanía que corresponda según la elección de que se trate, constatando que la ciudadanía aparece en la lista nominal de electores.
 
 2. Las firmas no se computarán para los efectos del porcentaje requerido cuando se presente alguna de las siguientes circunstancias:
 
@@ -4507,9 +4879,7 @@ ARTÍCULO 354
 
 1. En la boleta, de acuerdo a la elección de que se trate, aparecerá el nombre completo del candidato independiente o de los integrantes de la fórmula de candidatos independientes.
 
-ARTÍCULO 355
-
-1. En la boleta no se incluirá, ni la fotografía, ni la silueta del candidato.
+ARTÍCULO 355 (DEROGADO, P.O. 31 DE JULIO DE 2023)
 
 #### Sección Primera. De los Representantes ante los Órganos del Instituto
 
@@ -5037,7 +5407,9 @@ VI. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del in
 
 ARTÍCULO 374
 
-1. Son órganos competentes para la tramitación y resolución del procedimiento sancionador:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
+
+1. Son órganos competentes para la sustanciación y resolución del procedimiento ordinario sancionador:
 
 I. El Consejo General;
 
@@ -5045,9 +5417,29 @@ II. La Comisión de Quejas; y
 
 III. La Secretaría del Consejo General.
 
-2. Los Consejos Municipales, en sus respectivos ámbitos de competencia, fungirán como órganos auxiliares, para la tramitación de los procedimientos sancionadores, salvo lo establecido en esta Ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
 
-3. La Comisión de quejas se integrará por tres consejeros electorales, quienes serán designados, por el Consejo General. Sus sesiones y procedimientos serán determinados en el reglamento que al efecto apruebe el propio Consejo.
+2. Son órganos competentes para tramitar y sustanciar los procedimientos especiales sancionadores:
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+I. El Consejo General;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+II. La Secretaría del Consejo General; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+III. Los Consejos Municipales, en sus respectivos ámbitos de competencia, quienes fungirán como órganos auxiliares, para la tramitación de los procedimientos sancionadores, salvo lo establecido en esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+3. El órgano competente para resolver los procedimientos especiales sancionadores, de los cuales haya conocido, tramitado y sustanciado el Instituto, será, el Tribunal Electoral del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+4. La Comisión de quejas se integrará por tres consejeros electorales, quienes serán designados, por el Consejo General. Sus sesiones y procedimientos serán determinados en el reglamento que al efecto apruebe el propio Consejo.
 
 ARTÍCULO 375
 
@@ -5085,7 +5477,9 @@ V. El señalamiento de la hora a la que, al día siguiente, deberá esperar la n
 
 ARTÍCULO 376
 
-1. Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos. Tanto la Secretaría como el Consejo podrán invocar los hechos notorios aunque no hayan sido alegados por el denunciado o por el quejoso. En todo caso, una vez que se haya apersonado el denunciado al procedimiento de investigación, en el desahogo de las pruebas se respetará el principio contradictorio de la prueba, siempre que ello no signifique la posibilidad de demorar el proceso, o el riesgo de que se oculte o destruya el material probatorio.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+1. Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos. Tanto la Secretaría como el Tribunal Electoral podrán invocar los hechos notorios, aunque no hayan sido alegados por el denunciado o por el quejoso. En todo caso, una vez que se haya apersonado el denunciado al procedimiento de investigación, en el desahogo de las pruebas se respetará el principio contradictorio de la prueba, siempre que ello no signifique la posibilidad de demorar el proceso, o el riesgo de que se oculte o destruya el material probatorio.
 
 2. Las pruebas deberán ofrecerse en el primer escrito que presenten las partes en el procedimiento, expresando con toda claridad cuál es el hecho o hechos que se tratan de acreditar con las mismas, así como las razones por las que se estima que demostrarán las afirmaciones vertidas.
 
@@ -5111,9 +5505,13 @@ VI. Instrumental de actuaciones.
 
 7. Admitida una prueba superveniente, se dará vista al quejoso o denunciado, según corresponda, para que en el plazo de cinco días manifieste lo que a su derecho convenga.
 
-8. La Secretaría o el Consejo podrán admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes, no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva. El Consejo apercibirá a las autoridades en caso de que éstas no atiendan en tiempo y forma, el requerimiento de las pruebas.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
-9. Asimismo, el Consejo podrá admitir aquellos elementos probatorios que, habiendo sido solicitados por los órganos del Instituto dentro de la investigación correspondiente, no se hubiesen recibido sino hasta veinticuatro horas antes de la sesión respectiva. En estos casos el Consejo ordenará la devolución del expediente a la Secretaría para los efectos previstos en la presente Ley.
+8. La Secretaría o el Tribunal Electoral podrán admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes, no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva de Resolución. El Instituto apercibirá a las autoridades en caso de que éstas no atiendan en tiempo y forma, el requerimiento de las pruebas.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+9. Asimismo, tanto el Consejo General, como el Tribunal Electoral podrá (sic) admitir aquellos elementos probatorios que, habiendo sido solicitados por los órganos del Instituto dentro de la investigación correspondiente, no se hubiesen recibido sino hasta veinticuatro horas antes de la sesión respectiva de Resolución. En estos casos se ordenará la devolución del expediente a la Secretaría del Instituto para los efectos previstos en la presente Ley.
 
 10. Los órganos que sustancien el procedimiento podrán hacer uso de los medios de apremio para hacer cumplir sus resoluciones.
 
@@ -5351,7 +5749,9 @@ V. Ofrecer y exhibir las pruebas con que cuente; o en su caso, mencionar las que
 
 VI. En su caso, las medidas cautelares que se soliciten.
 
-4. El órgano del Instituto que reciba o promueva la denuncia la remitirá inmediatamente a la Secretaría, para que esta la examine junto con las pruebas aportadas.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+4. El órgano del Instituto que reciba o promueva la denuncia la remitirá inmediatamente a la Secretaría, para que esta la examine junto con las pruebas aportadas e informe al Tribunal Electoral.
 
 5. La denuncia será desechada de plano, sin prevención alguna, cuando:
 
@@ -5365,11 +5765,17 @@ IV. La materia de la denuncia resulte irreparable; y
 
 V. La denuncia sea evidentemente frívola.
 
-6. En los casos anteriores la Secretaría notificará al denunciante su resolución, por el medio más expedito a su alcance, dentro del plazo de doce horas; tal resolución deberá ser confirmada por escrito dentro de las veinticuatro horas siguientes a la resolución.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
 
-7. Cuando admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+6. En los casos anteriores la Secretaría notificará al denunciante su resolución por el medio más expedito a su alcance, dentro del plazo de doce horas; tal resolución deberá ser confirmada por escrito dentro de las veinticuatro horas siguientes a que ello ocurra, de igual manera hará del conocimiento al Tribunal Electoral, dicha determinación.
 
-8. Si la Secretaría considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Quejas dentro del plazo antes señalado, en los términos establecidos en esta Ley.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+7. Cuando admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, la que deberá celebrarse en un plazo de al menos cuarenta y ocho horas posteriores al emplazamiento. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+8. Si la Secretaría considera necesaria la adopción de medidas cautelares, podrá proponerla a la Comisión de Quejas y Denuncias dentro del plazo de cuarenta y ocho horas después de su admisión, en los términos establecidos en esta Ley.
 
 ARTÍCULO 387
 
@@ -5387,11 +5793,27 @@ III. La Secretaría resolverá sobre la admisión de pruebas y acto seguido proc
 
 IV. Concluido el desahogo de las pruebas, la Secretaría concederá en forma sucesiva el uso de la voz al denunciante y al denunciado, o a sus representantes, quienes podrán alegar en forma escrita o verbal, por una sola vez y en tiempo no mayor a cinco minutos cada uno.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
 ARTÍCULO 388
 
-1. Celebrada la audiencia, la Secretaría deberá formular un proyecto de resolución dentro de las cuarenta y ocho horas siguientes y lo presentará ante el consejero presidente, para que éste convoque a los miembros del Consejo General a una sesión que deberá celebrarse, a más tardar, dentro de las veinticuatro horas posteriores a la entrega del citado proyecto.
+1. Celebrada la audiencia, la Secretaría deberá turnar de forma inmediata el expediente completo, exponiendo en su caso, las medidas cautelares y demás diligencias que se hayan llevado a cabo, al Tribunal Electoral del Estado, así como un informe circunstanciado.
 
-2. En la sesión respectiva el Consejo General conocerá y resolverá sobre el proyecto de resolución. En caso de comprobarse la infracción denunciada, el Consejo ordenará el retiro físico, o la inmediata suspensión de la distribución o difusión de propaganda violatoria de esta Ley, e impondrá las sanciones correspondientes.
+El informe circunstanciado deberá contener por lo menos, lo siguiente:
+
+a) La relatoría de los hechos que dieron motivo a la queja o denuncia;
+
+b) Las diligencias que se hayan realizado por la autoridad;
+
+c) Las pruebas aportadas por las partes;
+
+d) Las demás actuaciones realizadas, y
+
+e) Las conclusiones sobre la queja o denuncia.
+
+f) Del informe circunstanciado se enviará una copia a la Comisión de Quejas del Instituto para su conocimiento.
+
+2. Recibido el expediente, el Tribunal Electoral actuará conforme lo dispone la legislación aplicable, y en caso de comprobarse la infracción denunciada, el Consejo ordenará el retiro físico, o la inmediata suspensión de la distribución o difusión de propaganda violatoria de esta Ley, e impondrá las sanciones correspondientes.
 
 ARTÍCULO 389
 
@@ -5399,15 +5821,23 @@ ARTÍCULO 389
 
 I. La denuncia será presentada ante el Consejo Municipal que corresponda a la demarcación territorial en donde haya ocurrido la conducta denunciada;
 
-II. El Secretario del Consejo Municipal ejercerá, en lo conducente, las facultades señaladas en el artículo anterior para el Secretario del Consejo General, conforme al procedimiento y dentro de los plazos señalados por el mismo artículo;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-III. En su caso, el proyecto de resolución será presentado para su conocimiento y votación ante el Consejo Municipal respectivo;
+II. La Secretaría del Consejo Municipal informará a la Secretaría del Instituto para que esta a su vez informe al Tribunal Electoral sobre su presentación, y en uso de sus facultades, realizará el proceso de trámite y sustanciación de la denuncia, conforme al procedimiento y dentro de los plazos señalados por esta Ley;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+III. Una vez agotado el procedimiento, el Consejo Municipal remitirá de forma inmediata el expediente completo, exponiendo en su caso, las medidas cautelares, demás diligencias que se hayan llevado a cabo, así como un informe circunstanciado, por conducto de la Secretaría del Instituto, al Tribunal Electoral para la elaboración del proyecto de resolución que será presentado para su conocimiento y votación ante el pleno del Tribunal;
 
 IV. Fuera de los procesos electorales, la denuncia será presentada ante el Consejo General, quien seguirá el procedimiento señalado en esta Ley; y
 
-V. Las resoluciones que aprueben los Consejos Municipales podrán ser impugnadas ante el Consejo General, conforme al reglamento correspondiente, cuyas resoluciones serán definitivas.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-2. En los supuestos establecidos en el párrafo 1 del presente artículo, si la conducta denunciada constituye una infracción generalizada o reviste gravedad, la Secretaría del Consejo podrá atraer el asunto.
+V. Las resoluciones que se aprueben ante el Pleno del Tribunal podrán ser impugnadas conforme a la Ley.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+
+2. En los supuestos establecidos en el párrafo 1 del presente artículo, si la conducta denunciada constituye una infracción generalizada o reviste gravedad, el Tribunal Electoral podrá atraer el asunto, para su sustanciación y resolución.
 
 ### CAPÍTULO I. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -5690,3 +6120,19 @@ P.O. 31 DE MARZO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente del término del proceso electoral local 2021-2022, por el que se elige Gobernador y Ayuntamientos en el Estado de Durango, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 407.- QUE CONTIENE REFORMAS, ADICIONES Y DEROGACIONES A DIVERSOS ARTICULOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. La entrada en vigor señalada en el precitado artículo primero transitorio no será aplicable a lo establecido en el numeral 6, del artículo 12 del presente decreto, cuya vigencia iniciará a partir del primero de enero del dos mil veintiséis.
+
+Para garantizar la participación de los ciudadanos duranguenses indígenas en el proceso electoral inmediato, los Partidos Políticos, Coaliciones o Candidaturas Comunes deberán postular fórmulas integradas con personas de origen étnico en el Distrito con mayor población indígena
+
+TERCERO. Los diputados que busquen la elección consecutiva por el principio de mayoría relativa para el proceso electoral siguiente, en atención y cumplimiento a la nueva redistritación, deberán contender por un distrito que se conforme con por lo menos alguno de los municipios que integraban el distrito por el cual se postuló; para el caso de los distritos que se encuentran contemplados dentro de un solo municipio, el distrito por el que busquen la elección consecutiva, deberá comprender por lo menos el treinta por ciento de las secciones que integraban el distrito por el que se postuló en la elección anterior.
+
+CUARTO. En un plazo no mayor a quince días naturales a la entrada en vigor del presente decreto, el Instituto Electoral y de Participación Ciudadana del Estado de Durango y el Tribunal Electoral del Estado de Durango deberán acoplar su reglamentación y normatividad interna.
+
+QUINTO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
