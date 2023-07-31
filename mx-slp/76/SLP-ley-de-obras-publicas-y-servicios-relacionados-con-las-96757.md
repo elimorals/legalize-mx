@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2022-06-20"
+last_updated: "2023-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -35,7 +35,7 @@ La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Lui
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 ÚNICO. Se EXPIDE, la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de San Luis Potosí, para quedar de la siguiente manera
 
@@ -1735,6 +1735,10 @@ En la obra por administración directa se origina la explosión de precios, ya q
 
 El incumplimiento a lo previsto en esta Ley será motivo de responsabilidad en los términos de leyes correspondientes.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+
+En el caso de la fracción I, el Comité de Obra deberá ser validado por la Junta de Participación Ciudadana correspondiente a la territorialidad en la que se realice la obra, con la finalidad de certificar que se (sic) las especificaciones de la obra se cumplan.
+
 ## TÍTULO CUARTO. DE LA INFORMACIÓN, VERIFICACIÓN Y CONTROL
 
 ### Capítulo Único
@@ -2424,3 +2428,11 @@ P.O. 20 DE JUNIO DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0808.- SE ADICIONA AL ARTÍCULO 170 EL ÚLTIMO PÁRRAFO, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 23 EN SUS FRACCIONES XI Y XII; Y ADICIONA AL MISMO ARTÍCULO 23 LA FRACCIÓN XIII, DE LA LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
