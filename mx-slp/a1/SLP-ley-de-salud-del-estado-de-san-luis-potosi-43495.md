@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2023-06-29"
+last_updated: "2023-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -165,13 +165,17 @@ XXII. Bienestar obstétrico: atención centrada en las necesidades y expectativa
 
 XXIII. Partera (o) Profesional: la persona egresada de las escuelas de formación a nivel técnico, superior y de especialidad, en perfiles como partería técnica, licenciatura en enfermería y obstetricia, y especialidad en enfermería perinatal, que cuente con título y cédula profesional, y cuyo programa académico sea reconocido por autoridades educativas nacionales y estatales;
 
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XXIV. Personal con competencias en partería: profesional de salud, médico o enfermera que cuenta con cédula profesional, y que acredite haber recibido educación y capacitación en las competencias necesarias para desempeñarse en la atención de embarazos de bajo riesgo, el parto, en el período de posparto inmediato, y en la identificación, tratamiento y derivación de complicaciones en mujeres y recién nacidos, de acuerdo a lo establecido por la Confederación Internacional de Matronas;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+XXV. Sala de Lactancia: La sala de lactancia es un área asignada, digna, privada, higiénica y accesible para que las mujeres en periodo de lactancia amamanten y/o extraigan y/o conserven adecuadamente su leche durante su jornada laboral. Todo ello con el objetivo de dar continuidad a la lactancia maternal, y
+
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-XXIV. Personal con competencias en partería: profesional de salud, médico o enfermera que cuenta con cédula profesional, y que acredite haber recibido educación y capacitación en las competencias necesarias para desempeñarse en la atención de embarazos de bajo riesgo, el parto, en el período de posparto inmediato, y en la identificación, tratamiento y derivación de complicaciones en mujeres y recién nacidos, de acuerdo a lo establecido por la Confederación Internacional de Matronas, y
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
-
-XXV. Servicios de partería profesional: comprende los servicios de salud y el personal de salud necesarios para prestar apoyo y atención a las mujeres y a la persona recién nacida, abarca la atención desde la etapa pregestacional, durante el embarazo, el trabajo de parto y el período de posparto, así como también la atención al recién nacido, que incluyen las medidas destinadas a prevenir problemas de salud durante el embarazo, la detección de situaciones anormales, y la ejecución de medidas de emergencia en ausencia de un equipo de respuesta inmediata.
+XXVI. Servicios de partería profesional: comprende los servicios de salud y el personal de salud necesarios para prestar apoyo y atención a las mujeres y a la persona recién nacida, abarca la atención desde la etapa pregestacional, durante el embarazo, el trabajo de parto y el período de posparto, así como también la atención al recién nacido, que incluyen las medidas destinadas a prevenir problemas de salud durante el embarazo, la detección de situaciones anormales, y la ejecución de medidas de emergencia en ausencia de un equipo de respuesta inmediata.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
@@ -1161,13 +1165,17 @@ II. La atención de la niña o niño al nacer, la vigilancia de su crecimiento y
 
 III. La promoción e información sobre: 7 (sic) derechos sexuales y reproductivos, métodos anticonceptivos, planificación familiar, integración y el bienestar familiar, fomentando la responsabilidad de la madre y el padre en el crecimiento y desarrollo de sus hijas e hijos;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-IV. La promoción de la integración y el bienestar familiar, fomentando la responsabilidad de madres y padres en el crecimiento y desarrollo de sus hijas e hijos, y
+IV. La promoción de la integración y el bienestar familiar, fomentando la responsabilidad de madres y padres en el crecimiento y desarrollo de sus hijas e hijos;
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
 
-V. Establecer, garantizar y divulgar del derecho de todas las mujeres a estar acompañadas por una persona de su confianza, durante el trabajo de parto y el postparto, con fines de apoyo psicológico.
+V. Establecer, garantizar y divulgar del derecho de todas las mujeres a estar acompañadas por una persona de su confianza, durante el trabajo de parto y el postparto, con fines de apoyo psicológico, y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+
+VI. Fomentar la instalación de salas de lactancia en los centros de trabajo de los sectores público y privado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -4814,6 +4822,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 29 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0784.- SE REFORMA EL ARTÍCULO 78 EN SUS FRACCIONES IV Y V; Y ADICIONA AL MISMO ARTÍCULO 78 LA FRACCIÓN VI, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0802.- SE REFORMAN LOS ARTÍCULOS 4º EN SU FRACCIÓN XXIV Y 51 EN SUS FRACCIONES IV Y V; Y ADICIONA A LOS ARTÍCULOS 4º UNA FRACCIÓN, ÉSTA COMO XXV Y 51 LA FRACCIÓN VI, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
