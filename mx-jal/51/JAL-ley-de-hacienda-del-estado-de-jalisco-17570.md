@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2021-12-18"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -51,59 +51,93 @@ LEY DE HACIENDA DEL ESTADO DE JALISCO
 
 Los ingresos que la Hacienda Pública del Estado tiene derecho a percibir de conformidad con las disposiciones fiscales, serán los que se obtengan por concepto de:
 
-> <small>(REFORMADA [N. DE E. CON SUS NUMERALES E INCISOS], P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-I. Impuestos
+I. Impuestos.
 
-1) Impuesto sobre los Ingresos
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2023)</small>
 
-a) Impuesto sobre Loterías, Rifas, Sorteos, Juegos con Apuesta y Concursos de Toda Clase
+1) Impuesto sobre los Ingresos:
 
-b) Impuesto sobre Enajenación y Distribución de Boletos de Rifas y Sorteos
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-c) Impuesto sobre Remuneraciones al Trabajo Personal no Subordinado
+a) Impuesto sobre Loterías, Rifas, Sorteos, Juegos con Apuesta y Concursos de toda clase;
 
-2) Impuestos sobre la Producción, el Consumo y las Transacciones
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-a) Impuesto sobre Transmisiones Patrimoniales de Bienes Muebles
+b) Impuesto sobre Enajenación y Distribución de Boletos de Rifas y Sorteos;
 
-b) Impuesto sobre la Adquisición de Vehículos Automotores Usados
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE FEBRERO DE 2020)</small>
+c) Impuesto sobre Remuneraciones al Trabajo Personal no Subordinado; y
 
-c) Impuesto sobre Hospedaje.
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
+d) Impuesto a los Ingresos de Redes y Plataformas de Servicios de Empresas de Transporte Privado de Punto a Punto.
 
-d) Impuesto Sobre Erogaciones de Juegos con Apuestas
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2023)</small>
 
-3) Impuesto sobre Nóminas y Asimilables
+2) Impuestos sobre la Producción, el Consumo y las Transacciones:
 
-a) Impuesto sobre Nóminas
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. CON SUS NUMERALES E INCISOS], P.O. 14 DE DICIEMBRE DE 2013)</small>
+a) Impuesto sobre Transmisiones Patrimoniales de Bienes Muebles;
 
-II. Derechos
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-1) Derechos por la Prestación de Servicios
+b) Impuesto sobre la Adquisición de Vehículos Automotores usados;
 
-a) Registro Público de la Propiedad y de Comercio
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-b) Archivo de Instrumentos Públicos y Archivo General del Estado
+c) Impuesto sobre Hospedaje; y
 
-c) Autorizaciones para el Ejercicio Profesional y Notarial
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+d) Impuesto Sobre Erogaciones de Juegos con Apuestas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+3) Impuesto sobre Nóminas y Asimilables:
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+a) Impuesto sobre Nóminas.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+II. Derechos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+1) Derechos por la Prestación de Servicios:
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+a) Registro Público de la Propiedad y de Comercio;
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+b) Archivo de Instrumentos Públicos y Archivo General del Estado;
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+c) Autorizaciones para el Ejercicio Profesional y Notarial;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 d) Servicios en los ramos de Movilidad y Transporte y su Registro;
 
-e) Certificaciones, Expediciones de Constancias y otros Servicios
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+e) Certificaciones, Expediciones de Constancias y otros Servicios; y
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 f) Servicios diversos fijados de conformidad con la presente ley o cualquier otra disposición fiscal estatal.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-III. Productos
+III. Productos;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -113,9 +147,9 @@ IV. Aprovechamientos;
 
 V. Participaciones y aportaciones federales;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-VI. Ingresos extraordinarios; e
+VI. Ingresos extraordinarios; y
 
 > <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2020)</small>
 
@@ -1005,13 +1039,85 @@ Los pagos mensuales se realizarán mediante la presentación de una declaración
 
 Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en el artículo 67 Ter.
 
-### CAPITULO UNICO. De los derechos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
+### CAPÍTULO DÉCIMO
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+Del Impuesto a los Ingresos de Redes y Plataformas del Servicio de Transporte Privado de Punto a Punto
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+Del Objeto
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+###### Artículo 67 Octies.
+
+Es objeto de este impuesto el ingreso que se obtengan (sic) por la tarifa efectivamente cobrada en cada viaje iniciado en el territorio del Estado de Jalisco, para prestar el Servicio de Transporte Privado de Punto a Punto, ofertada por Empresas de Redes de Transporte mediante aplicaciones móviles.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+De los Sujetos
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+###### Artículo 67 Nonies.
+
+Son sujetos de este impuesto las Empresas de Redes de Transporte que administren, operen o promocionen aplicaciones móviles y plataformas informáticas, desarrollo de programas de cómputo o prestación de servicios tecnológicos de su propiedad o sus subsidiarias o filiales, para la contratación del servicio de Transporte Privado de personas, basadas en el desarrollo de las tecnologías de los dispositivos inteligentes y los sistemas de posicionamiento global, conocido como Servicio de Transporte Privado de Punto a Punto.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+De la Base
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+###### Artículo 67 Decies.
+
+La base del Impuesto lo constituyen los ingresos obtenidos por las tarifas efectivamente cobradas a las personas usuarias por el Servicio de Transporte Privado de Punto a Punto, que administren, operen y/o promocionen las Empresas de Redes de Transporte, sus subsidiarias o filiales mediante aplicaciones móviles, plataformas informáticas, programas de cómputo o prestación de servicios tecnológicos.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+De la Tasa
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+Artículo 67 Undecies. Se aplicará a la base del impuesto una tasa del 1.5 por ciento, sin incluir el Impuesto al Valor Agregado.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+Del Pago
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+Artículo 67 Duodecies. El impuesto que resulte de aplicar la tasa indicada en el artículo precedente, será enterado en las Oficinas de Recaudación Fiscal, a más tardar el día quince de cada mes por el total que corresponda al mes inmediato anterior, a través de las formas y medios que para tal efecto establezca la Secretaría de la Hacienda Pública mediante reglas de carácter general.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+De las obligaciones de los contribuyentes
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+Artículo 67 Terdecies. Los sujetos que obtengan los ingresos comprendidos en este capítulo, además de las obligaciones establecidas en la presente Ley u otras disposiciones legales, observarán las siguientes:
+
+I. Presentar los avisos de inscripción o modificación ante el Registro Estatal, en los términos que disponen, los artículos 50, 51 y demás aplicables del Código Fiscal del Estado;
+
+II. Llevar contabilidad en los términos que establece el Código Fiscal del Estado. Además, consignar en la documentación respectiva, el monto correspondiente al valor de la contraprestación por los servicios de hospedaje, donde se desglosen los servicios accesorios que en su caso se presenten; y
+
+III. Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativa más no limitativa, obligaciones en materia de contabilidad; conservación de la misma, de proporcionar a las autoridades fiscales, avisos, datos, informes o cualquier otra documentación a que obligue el Código Fiscal del Estado, en lo que no contravengan lo dispuesto en el presente capítulo.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+Del Destino de los ingresos
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+Artículo 67 Quaterdecies. Los ingresos que se obtengan, previstos en el presente capítulo, se destinarán al Fondo Estatal de Protección al Ambiente, de conformidad con los artículos 41 Bis, 41 Ter y 41 Quárter de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente.
 
 ## TITULO TERCERO. Derechos
 
-### CAPITULO UNICO. De los productos diversos
+### CAPITULO UNICO. De los derechos
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
@@ -1075,7 +1181,7 @@ El servidor público que preste algún servicio por el que se genere el pago de 
 
 ## TITULO CUARTO. Productos
 
-### CAPITULO UNICO. De los aprovechamientos
+### CAPITULO UNICO. De los productos diversos
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
@@ -1121,13 +1227,9 @@ Para la percepción de estos ingresos se estará a lo dispuesto, según el caso,
 
 ## TITULO QUINTO. Aprovechamientos
 
-### CAPITULO UNICO
+### CAPITULO UNICO. De los aprovechamientos
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2013)</small>
-
-De las participaciones y aportaciones federales
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 75.
 
@@ -1169,7 +1271,7 @@ f) Otros aprovechamientos de capital no especificados.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-De los ingresos extraordinarios
+De las participaciones y aportaciones federales
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -1183,9 +1285,13 @@ Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el E
 
 > <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO UNICO. De los ingresos por financiamientos
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+De los ingresos extraordinarios
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 77.
 
@@ -1200,6 +1306,10 @@ II. Aportaciones extraordinarias de entidades públicas o de los sectores social
 ## TITULO OCTAVO. De los ingresos por financiamientos
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+### CAPITULO UNICO. De los ingresos por financiamientos
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 78.
 
@@ -1394,3 +1504,19 @@ SEGUNDO.- El Titular del Ejecutivo del Estado, por conducto de la Secretaría de
 TERCERO.- La operación y funcionamiento del Fideicomiso Fondo para la Infraestructura Educativa del Estado de Jalisco se sujetará a las disposiciones de la legislación aplicable, para el cumplimiento de los fines a que este Decreto se refiere.
 
 CUARTO.- El Comité Técnico del Fideicomiso deberá aprobar y expedir sus lineamientos de administración y operación, para el cumplimiento de los fines a que este decreto se refiere.
+
+P.O. 1 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29236/LXIII/23 QUE REFORMA, DEROGA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE, Y DE LA LEY DE HACIENDA, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+Segundo. Las autorizaciones, registros y licencias que en su caso la Secretaría otorgó a las Empresas de Redes de Transporte, así como para el servicio de transporte de pasajeros mediante aplicaciones móviles que se encuentren vigentes a la entrada en vigor del presente Decreto, continuarán surtiendo efectos hasta la fecha de su vencimiento.
+
+Una vez que haya expirado la vigencia prevista en (sic) párrafo anterior, las Empresas de Redes de Transporte, las personas conductoras, así como los propietarios de los vehículos a través de los cuales se lleve a cabo el servicio de transporte privado de punto a punto, deberán de sujetarse a lo establecido en el presente decreto, así como las disposiciones reglamentarias y normativas aplicables.
+
+Tercera (sic). El Ejecutivo del Estado tendrá un plazo de sesenta días hábiles posteriores a la entrada en vigor del presente Decreto, a efecto de que emita las disposiciones reglamentarias, adecuaciones normativas, presupuestales y administrativas aplicables.
+
+Cuarto. Las personas que pretendan obtener el registro de redes de transporte por parte de la Secretaría conforme a las disposiciones establecidas en del (sic) presente Decreto, que hubieran operado mediante la autorización otorgada antes de su entrada en vigor y suscribieron convenio de colaboración para la constitución del fondo económico que refería el derogado artículo 310 fracción XVII, deberán acreditar que se encuentran al corriente de pago y cumplimiento de las obligaciones establecidas a su cargo.
+
+Quinto. El impuesto aprobado en el presente decreto, deberá considerarse en la Ley de Ingresos del Estado de Jalisco para el ejercicio fiscal del 2024.
