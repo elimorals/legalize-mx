@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-para-el-estado-de-122912
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-21"
-last_updated: "2022-07-15"
+last_updated: "2023-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 21 de julio de 2017.
 
@@ -2375,9 +2375,11 @@ V. La Comisión de Promoción de la Cultura de la Transparencia; y
 
 VI. Las demás comisiones que constituya el Consejo General de conformidad con la presente ley y demás leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 161.
 
-El Consejo General del instituto estará integrado por cinco comisionados, los cuales serán designados por el Congreso del Estado, en los términos de la presente ley y demás disposiciones aplicables. En su integración se procurará la equidad de género.
+El Consejo General del instituto estará integrado por tres comisionados, los cuales serán designados por el Congreso del Estado, en los términos de la presente ley y demás disposiciones aplicables. En su integración se procurará la equidad de género.
 
 Los comisionados durarán en su encargo hasta siete años de manera escalonada, para asegurar la autonomía del instituto y no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en los que se desarrollan labores docentes, científicas o de beneficencia.
 
@@ -2435,11 +2437,21 @@ Los comisionados del instituto en funciones recibirán una remuneración adecuad
 
 El Consejo General y el instituto serán presididos por un comisionado, quien tendrá la representación legal del mismo. Durará en su encargo un periodo de tres años, renovable por un período igual. En caso de que el periodo que le reste al comisionado sea menor de tres años, podrá ser elegido o ratificado, y durará como Presidente el tiempo que le reste como comisionado.
 
-El Comisionado Presidente será elegido mediante sistema de voto secreto y por mayoría de los integrantes del Consejo General presentes en la sesión de elección.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-En caso de ausencia definitiva del Comisionado Presidente, la Secretaría Técnica deberá de convocar a sesión extraordinaria de inmediato y el Consejo General deberá de elegir de entre sus miembros presentes a quien fungirá como Presidente del Consejo General y del instituto, para lo que se estará a lo dispuesto por el párrafo anterior.
+El Comisionado Presidente será elegido por el Pleno del Congreso o la Diputación Permanente, de conformidad con las bases que al efecto determine y mediante el voto de las dos terceras partes de los Diputados presentes. Esta designación se deberá llevar a cabo dentro del improrrogable término de cinco días, contados a partir de que se haya notificado su ausencia.
 
-La designación del Comisionado Presidente, se comunicará de inmediato para su conocimiento a los Poderes del Estado y a los organismos públicos autónomos.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+En caso de ausencia definitiva del Comisionado Presidente, por renuncia, por conclusión de la presidencia o por cualquier otra causa, la Secretaría Técnica deberá notificar de inmediato al Congreso del Estado para que designe de entre sus miembros, a quien fungirá como Presidente del Consejo General y del instituto, para lo que se estará a lo dispuesto por el párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+El Presidente del Consejo General, podrá ser removido de su cargo, por el Pleno del Congreso del Estado, mediante el voto de las dos terceras partes de los Diputados presentes y por causa justificada.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+El Congreso del Estado, comunicará de inmediato la designación del Comisionado Presidente, para su conocimiento, a los Poderes del Estado y a los organismos públicos autónomos.
 
 ###### Artículo 166.
 
@@ -2453,7 +2465,9 @@ I. Serán públicas, salvo aquellas en las que se ventilen asuntos que involucre
 
 II. Serán válidas cuando se integre el quórum con la mayoría de los comisionados;
 
-III. Deberán de asistir, con voz pero sin voto, el Director General y el Secretario Técnico;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+III. Deberá de asistir, con voz, pero sin voto, el Secretario Técnico;
 
 IV. De toda sesión, se levantará el acta respectiva a través del Secretario Técnico. Las actas deberán contener una síntesis del asunto a tratar y el punto acordado y se resguardarán en el archivo del instituto, por conducto de la Secretaría Técnica;
 
@@ -2485,7 +2499,9 @@ I. En materia de administración y gobierno interno:
 
 1. Dictar las medidas de administración y gobierno interno que resulten necesarias para la debida organización y funcionamiento del instituto;
 
-2. Establecer la estructura administrativa de los órganos del instituto y su jerarquización;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. Establecer la estructura administrativa de los órganos del instituto y su jerarquización, salvo que esta ley lo disponga de forma distinta;
 
 3. Establecer la integración, organización, funcionamiento y atribuciones de las comisiones del instituto que establezca esta ley o que cree el Consejo General, para el debido funcionamiento del instituto;
 
@@ -2509,7 +2525,9 @@ II. En materia normativa:
 
 2. Vigilar el cumplimiento de las disposiciones constitucionales y legales en la materia, así como dictar las normas y previsiones destinadas a hacer efectivas tales disposiciones;
 
-3. Aprobar, a propuesta del Presidente del Consejo General, de una Comisión, del Director General o del Secretario Técnico, los reglamentos, lineamientos, manuales de procedimiento, políticas y demás normas que resulten necesarias para el funcionamiento del instituto y que sean de su competencia en términos de la presente ley;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+3. Aprobar, a propuesta del Presidente del Consejo General, o de los Comisionado (sic), los reglamentos, lineamientos, manuales de procedimiento, políticas y demás normas que resulten necesarias para el funcionamiento del instituto y que sean de su competencia en términos de la presente ley;
 
 4. Interponer acciones de inconstitucionalidad, en contra de leyes de carácter estatal y municipal, que vulnere el derecho de acceso a la información y la transparencia;
 
@@ -2649,9 +2667,13 @@ XI. Las demás que esta ley u otras disposiciones aplicables les confieran.
 
 Los comisionados desempeñan una función pública. En todo caso, la función de los comisionados se sujetará a los principios de autonomía, independencia, legalidad, excelencia, profesionalismo, imparcialidad, objetividad, probidad y honestidad.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 172.
 
-Las ausencias temporales del Comisionado Presidente las suplirá el comisionado en funciones que designe el Consejo General, de conformidad con esta ley.
+Las ausencias temporales del Comisionado Presidente, las suplirá el Comisionado en funciones que designe el Consejo General, por mayoría de votos.
+
+En el caso de ausencia de uno de los Comisionados, será suplido por el Secretario Técnico y las funciones de este, dentro de las sesiones del Consejo General, las ejercerá el titular de la Dirección Jurídica.
 
 ###### Artículo 173.
 
@@ -2695,9 +2717,25 @@ XIV. Otorgar poderes generales y especiales para pleitos y cobranzas y actos de 
 
 XV. Emitir los acuerdos que sean necesarios para la rápida y eficaz realización y desarrollo de sus atribuciones;
 
-XVI. Otorgar los nombramientos, permisos y licencias del personal del instituto; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-XVII. Las demás que le confiera esta ley u otras disposiciones aplicables.
+XVI. Nombrar y remover a los servidores públicos del Instituto, aprobados en su estructura orgánica, salvo que tengan otro mecanismo de designación, así como otorgar permisos y licencias del personal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2023)</small>
+
+XVII. Dirigir la administración y funcionamiento del Instituto, dictando las políticas, normas y procedimientos para la administración de los recursos humanos, financieros y materiales, proporcionando a las diferentes áreas los elementos necesarios para el cumplimiento de sus respectivas tareas, auxiliándose para ello, de los órganos técnicos y unidades administrativas del Instituto, de conformidad con lo establecido en el Reglamento Interior y leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+XVIII. Presentar al Consejo General, los proyectos de reglamentos y demás disposiciones generales o particulares que considere necesarias para la buena administración del instituto;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+XIX. Dictar y ejecutar las medidas generales y específicas que juzgue convenientes para el mejor desempeño del Instituto, así como para el debido cumplimiento de su objeto; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2023)</small>
+
+XX. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
 #### SECCIÓN TERCERA. DE LOS ÓRGANOS TÉCNICOS DEL INSTITUTO
 
@@ -2709,39 +2747,61 @@ El titular de la Dirección General será nombrado y removido libremente por el 
 
 La Dirección General tendrá las facultades siguientes:
 
-I. Asistir y participar con voz, pero sin voto en las sesiones del Consejo General;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+I. Asistir y participar con voz, en asuntos de su competencia, en las sesiones del Consejo General, cuando sea requerido por este;
 
 II. Cumplir y hacer cumplir los acuerdos del Consejo General;
 
-III. Someter al conocimiento y, en su caso, a la aprobación del Consejo General, informes periódicos sobre los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-IV. Ejecutar e implementar las providencias necesarias para la atención de aquellos asuntos del instituto que, por su naturaleza o urgencia, así lo requieran, en ausencia temporal o definitiva del Comisionado Presidente;
+III. Someter, previo acuerdo con el Comisionado Presidente, al conocimiento y, en su caso, a la aprobación del Consejo General, informes periódicos sobre los asuntos de su competencia;
 
-V. Proponer la designación o nombramiento de los servidores públicos de las áreas a su cargo;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-VI. Proponer la estructura de los órganos administrativos de las áreas a su cargo, conforme a las necesidades del servicio y los recursos presupuestales autorizados;
+IV. Ejecutar e implementar las providencias necesarias para la atención de aquellos asuntos de su competencia que, por su naturaleza o urgencia, así lo requieran;
 
-VII. Formular y presentar al Consejo General para su aprobación, los proyectos de reglamentos y demás disposiciones generales o particulares que considere necesarias para la buena administración del instituto;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+V. Proponer al Comisionado Presidente, para su aprobación, la designación o nombramiento de los servidores públicos de las áreas a su cargo;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+VI. Proponer al Comisionado Presidente, la estructura de los órganos administrativos de las áreas a su cargo, conforme a las necesidades del servicio y los recursos presupuestales autorizados;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+VII. Formular y presentar al Comisionado Presidente, los proyectos de reglamentos y demás disposiciones generales o particulares que considere necesarias para la buena administración del instituto;
 
 VIII. Llevar a cabo los programas de reclutamiento, selección, formación y desarrollo del personal profesional del instituto;
 
-IX. Aplicar las políticas, normas y procedimientos para la administración de los recursos humanos, financieros y materiales del instituto;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+IX. Aplicar, previo acuerdo con el Comisionado Presidente, las políticas, normas y procedimientos, para la administración de los recursos humanos, financieros y materiales del instituto;
 
 X. Fijar, previo acuerdo con el Comisionado Presidente, las directrices que le permitan a las áreas a su cargo, cumplir con las funciones y atribuciones que les fueron conferidas de conformidad con lo establecido por el reglamento interior del instituto;
 
-XI. Proveer a los órganos del instituto, los elementos necesarios para el cumplimiento de sus funciones de acuerdo a la capacidad presupuestal del mismo;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-XII. Elaborar, de conformidad con las disposiciones aplicables, el proyecto del presupuesto anual de egresos del instituto, a fin de que el Comisionado Presidente, una vez que lo haya autorizado el Consejo General, lo presente al titular del Poder Ejecutivo del Estado, para que éste lo someta a la consideración y, en su caso, aprobación del Congreso del Estado;
+XI. Proveer, previa autorización del Comisionado Presidente, a los órganos del instituto, los elementos necesarios para el cumplimiento de sus funciones de acuerdo a la capacidad presupuestal del mismo;
 
-XIII. Ejercer, en coordinación con el Comisionado Presidente y las áreas internas del instituto encargadas de la administración, las partidas presupuestales aprobadas;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+XII. Elaborar y presentar al Comisionado Presidente, de conformidad con las disposiciones aplicables, el proyecto del presupuesto anual de egresos del instituto;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+XIII. Ejercer, previa aprobación del Comisionado Presidente y en coordinación con las áreas internas del instituto encargadas de la administración, las partidas presupuestales aprobadas;
 
 XIV. Auxiliar al Comisionado Presidente, a los comisionados, a las comisiones y al Secretario Técnico, en el despacho de los asuntos a su cargo; y
 
 XV. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 177.
 
-El titular de la Secretaría Técnica será nombrado y removido libremente por el Consejo General por mayoría de votos, en términos de esta ley, a propuesta de cualquiera de los miembros del Consejo General del instituto.
+El titular de la Secretaría Técnica será nombrado y removido libremente por el Comisionado Presidente del Consejo General del instituto.
 
 ###### ARTÍCULO 178.
 
@@ -2777,7 +2837,9 @@ XIV. Expedir certificaciones de las constancias que obren en los archivos del in
 
 XV. Proveer lo necesario a fin de que se hagan oportunamente las publicaciones que ordena la ley correspondiente u otras disposiciones aplicables, así como las que disponga el Consejo General;
 
-XVI. Auxiliar al Comisionado Presidente, a los comisionados, a las comisiones y al Director General, en el despacho de los asuntos a su cargo;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+II (SIC). Auxiliar al Comisionado Presidente, a los comisionados y a las comisiones, en el despacho de los asuntos a su cargo;
 
 XVII. Elaborar los proyectos de dictámenes que la ley aplicable, el Consejo General o las comisiones le encomienden;
 
@@ -2801,7 +2863,7 @@ Las comisiones se integrarán de la siguiente manera:
 
 I. Dos comisionados;
 
-II. El titular de la Dirección General o el Secretario Técnico, según lo acuerde el Consejo General; y
+II. (DEROGADA, P.O. 1 DE AGOSTO DE 2023)
 
 III. El titular del área correspondiente, según la comisión de que se trate.
 
@@ -3066,3 +3128,23 @@ P.O. 15 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 243.- SE ADICIONA EL TERCER PÁRRAFO DEL ARTÍCULO 19 DE LA LEY DE ACCESO, A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 489.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto Coahuilense de Acceso a la Información Pública, en un plazo de cuarenta y cinco días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar las reformas conducentes al Reglamento de la Ley de Acceso a la Información Pública, al Reglamento Interior del Instituto Coahuilense de Acceso a la Información Pública y demás disposiciones administrativas aplicables, para su armonización con el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo General del Instituto, en un plazo de cuarenta y cinco días naturales contados a partir de la entrada en vigor de este Decreto, deberá llevar a cabo las acciones necesarias para adecuar las comisiones que establece la ley, de conformidad con la presente reforma.
