@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-medios-de-impugnacion-en-materia-electoral-y-de-64673"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-16"
-last_updated: "2017-06-29"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE DURANGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2023 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de noviembre de 2008.
 
@@ -31,7 +33,7 @@ Con fecha 05 de Noviembre del presente año, los CC. Diputados integrantes de la
 
 C O N S I D E R A N D O S:
 
-...
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -49,65 +51,75 @@ LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES Y DEL ÁMBITO DE APLICACIÓN Y CRITERIOS DE INTERPRETACIÓN
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
 ARTÍCULO 1
 
-1. Esta ley es de orden público y de observancia general en todo el Estado, en materia de medios de impugnación político-electoral y de participación ciudadana, y reglamentaria de los artículos 63 y 141 de la Constitución Política del Estado libre y Soberano de Durango.
+1. Esta ley es de orden público y de observancia general en todo el Estado, en materia de medios de impugnación político-electoral y de participación ciudadana, y reglamentaria del artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, así como de los artículos 63 y 141 de la Constitución Política.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
 ARTÍCULO 2
 
-1. Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho
+1. Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se estará a lo dispuesto en la Ley General de los Medios de Impugnación en Materia Electoral.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+2. Los criterios fijados por el Tribunal Electoral del Estado de Durango, sentarán jurisprudencia cuando dichos criterios se sustenten en tres sentencias.
 
-2. Los criterios fijados por el Tribunal Electoral del Estado de Durango, sentarán jurisprudencia cuando sustenten en el mismo sentido tres resoluciones.
+3. La jurisprudencia del Tribunal Electoral se interrumpirá y dejará de tener el carácter obligatorio, siempre y cuando haya un pronunciamiento en contrario por unanimidad de votos de las y los magistrados electorales.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+4. El Tribunal Electoral del Estado de Durango, difundirá de inmediato las jurisprudencias y/o tesis que hubieran sido aprobadas, a través de los medios electrónicos oficiales.
 
-3. El presidente del Tribunal Electoral del Estado de Durango, notificará de inmediato los criterios definidos a que se refiere el párrafo 2 de este artículo y los mandará publicar por estrados. Los Magistrados estarán obligados a aplicarlo a partir del momento de su notificación.
+5. En la resolución de conflictos internos de los partidos políticos, se deben tomar en cuenta el carácter de entidad de interés público, su libertad de decisión interna y el respeto irrestricto a su autodeterminación y autoorganización.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+6. Queda prohibido imponer, por analogía y aún por mayoría de razón, sanción alguna que no esté decretada por una ley que sea exactamente aplicable a la conducta infractora de que se trate.
 
-4. El Tribunal Electoral del Estado de Durango, difundirá los criterios obligatorios dentro de los seis meses siguientes a la conclusión de los procesos electorales.
+7. El orden jurídico electoral debe aplicarse conforme a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y favorecer en todo tiempo a la ciudadanía con la protección más amplía a sus derechos político-electorales.
 
-5. La conservación de la libertad de decisión política y el derecho a la auto organización de los partidos políticos, deberá ser considerada por las autoridades electorales competentes, al momento de resolver las impugnaciones relativas a los asuntos internos de los partidos políticos.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
 ARTÍCULO 3
 
 1. Para los efectos de esta ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2014)</small>
+I. Congreso: Al Congreso del Estado de Durango;
 
-I. El Tribunal Electoral: El Tribunal Electoral del Estado de Durango;
+II. Consejo General: Al Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Durango;
 
-II. El Instituto: El Instituto Electoral y de Participación Ciudadana del Estado de Durango;
+III. Consejo Municipal: A los Consejos Municipales Electorales del Instituto Electoral y de Participación Ciudadana del Estado de Durango;
 
-III. Constitución: La Constitución Política del Estado Libre y Soberano de Durango;
+IV. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
 
-IV. Periódico Oficial: Al Periódico Oficial del Gobierno Constitucional del Estado de Durango;
+V. Constitución Local: La Constitución Política del Estado Libre y Soberano de Durango;
 
-V. Congreso: Al Congreso del Estado de Durango;
+VI. El Instituto: El Instituto Electoral y de Participación Ciudadana del Estado de Durango;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2014)</small>
+VII. El Tribunal Electoral: El Tribunal Electoral del Estado de Durango;
 
-VI. Consejo General: Al Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Durango; y
+VIII. Periódico Oficial: Al Periódico Oficial del Gobierno Constitucional del Estado de Durango;
 
-VII. Consejo Municipal: A los Consejos Municipales Electorales del Instituto Electoral y de Participación Ciudadana del Estado de Durango
+IX. Reglamento Interno: Reglamento Interno del Tribunal Electoral.
 
 ### CAPÍTULO II. DE LOS MEDIOS DE IMPUGNACIÓN
 
 ARTÍCULO 4
 
-1. El Sistema de Medios de Impugnación regulado por esta ley tiene por objeto garantizar:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2023)</small>
 
-I. Que todos los actos, omisiones, acuerdos o resoluciones de las autoridades electorales se sujeten invariablemente, según corresponda, a los principios de constitucionalidad y de legalidad;
+1. El sistema de medios de impugnación regulado por esta ley tiene por objeto garantizar:
 
-II. La constitucionalidad y legalidad de los actos, omisiones, acuerdos o resoluciones del Poder Ejecutivo, del Poder Legislativo o de los Ayuntamientos del Estado, para salvaguardar los resultados vinculatorios del plebiscito o del referéndum o el trámite de la iniciativa popular, así como la validez y eficacia de las normas aplicables en la materia; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+I. Que todos los actos y resoluciones de las autoridades electorales se sujeten invariablemente, según corresponda, a los principios de constitucionalidad y de legalidad;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+II. La constitucionalidad y legalidad de los actos y resoluciones del Poder Ejecutivo, del Poder Legislativo o de los Ayuntamientos del Estado, para salvaguardar los resultados vinculatorios del plebiscito o del referéndum o el trámite de la iniciativa popular, así como la validez y eficacia de las normas aplicables en la materia; y
 
 III. La definitividad de los distintos actos y etapas de los procesos electorales.
 
-2. El Sistema de Medios de Impugnación se integra por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. El sistema de medios de impugnación se integra por:
 
 I. El juicio Electoral;
 
@@ -119,9 +131,11 @@ ARTÍCULO 5
 
 1. Corresponde al Tribunal Electoral conocer y resolver de los medios de impugnación previstos en el artículo anterior, en la forma y términos establecidos por esta ley.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
 ARTÍCULO 6
 
-1. Las autoridades estatales y municipales, así como los ciudadanos, partidos políticos, candidatos, organizaciones y agrupaciones políticas o de ciudadanos, y todas aquellas personas físicas o morales, que con motivo del trámite, sustanciación y resolución de los medios de impugnación a que se refiere el párrafo 2 del artículo 4, no cumpla las disposiciones de esta ley o desacaten las resoluciones que dicte el Tribunal Electoral, serán sancionados en los términos del presente Ordenamiento.
+1. Las autoridades estatales y municipales, así como la ciudadanía, partidos políticos, personas candidatas, organizaciones y agrupaciones políticas o de ciudadanos, y todas aquellas personas físicas o morales, que con motivo del trámite, sustanciación y resolución de los medios de impugnación a que se refiere el párrafo 2 del artículo 4, no cumpla las disposiciones de esta ley o desacaten las resoluciones que dicte el Tribunal Electoral, serán sancionados en los términos del presente Ordenamiento.
 
 ### CAPÍTULO III. DE LAS REGLAS COMUNES APLICABLES A LOS MEDIOS DE IMPUGNACIÓN Y DE SUS PREVENCIONES GENERALES
 
@@ -129,11 +143,21 @@ ARTÍCULO 7
 
 1. Las disposiciones del presente capítulo rigen para el trámite, sustanciación y resolución de todos los medios de impugnación, con excepción de las reglas particulares señaladas expresamente para cada uno de ellos en los Títulos Segundo, Tercero y Cuarto del presente ordenamiento.
 
-2. En ningún caso la interposición de los medios de impugnación previstos en esta ley producirá efectos suspensivos sobre el acto o la resolución impugnado.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-3. El Tribunal Electoral, conforme a las disposiciones del presente ordenamiento, resolverá los asuntos de su competencia con plena jurisdicción.
+2. La interposición de los medios de impugnación previstos en esta ley no producirá, en ningún caso, efectos suspensivos sobre el acto o la resolución impugnado;
 
-4. Sin perjuicio de lo dispuesto por los artículos 105 y 99 de la Constitución Política de los Estados Unidos Mexicanos, el Tribunal Electoral, en ejercicio de sus funciones jurisdiccionales, podrá resolver la no aplicación de leyes sobre la materia electoral contrarias a la Constitución. Las resoluciones que se dicten en el ejercicio de esta facultad se limitarán al caso concreto sobre el que verse el juicio.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+3. El Tribunal Electoral resolverá los asuntos de su competencia con plena jurisdicción, de conformidad con lo dispuesto en el presente ordenamiento;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+4. Si así considera procedente la o el Magistrado Instructor podrá ordenar la realización de cualquier diligencia para mejor proveer, que considere necesaria para la resolución de los asuntos que conozca, siempre y cuando los plazos así lo permitan.
+
+> <small>(REFORMADO [N. DE E. REFORMADO Y REUBICADO ANTES NUMERAL 4], P.O. 1 DE AGOSTO DE 2023)</small>
+
+5. Sin perjuicio de lo dispuesto por los artículos 105 y 99 de la Constitución Federal, el Tribunal Electoral, en ejercicio de sus funciones jurisdiccionales, podrá resolver la no aplicación de leyes sobre la materia electoral contrarias a la Constitución Federal, la Constitución y los tratados internacionales. Las resoluciones que se dicten en el ejercicio de esta facultad se limitarán al caso concreto sobre el que verse el juicio.
 
 #### SECCIÓN PRIMERA. DE LOS PLAZOS Y DE LOS TÉRMINOS
 
@@ -153,13 +177,19 @@ ARTÍCULO 10
 
 1. Los medios de impugnación deberán presentarse por escrito ante la autoridad u órgano partidista señalado como responsable del acto o resolución impugnado y deberá cumplir con los requisitos siguientes:
 
-I. Hacer constar el nombre del actor;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+I. Hacer constar nombre de la parte actora;
 
 II. Señalar domicilio para recibir notificaciones y, en su caso, a quien en su nombre las pueda oír y recibir;
 
-III. Acompañar el o los documentos que sean necesarios para acreditar la personería del promovente;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-IV. Identificar el acto o resolución impugnado y al responsable del mismo;
+III. Acompañar el o los documentos que sean necesarios para acreditar la personería de la parte promovente;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+IV. Identificar el acto o resolución impugnado y al órgano partidista o autoridad responsable del mismo;
 
 V. Mencionar de manera expresa y clara los hechos en que se basa la impugnación los agravios que cause el auto o resolución impugnado y los preceptos presuntamente violados y, en su caso, las razones por las que se solicite la no aplicación de leyes sobre la materia electoral por estimarlas contrarias a la Constitución;
 
@@ -177,31 +207,59 @@ ARTÍCULO 11
 
 1. Los medios de impugnación previstos en esta ley serán improcedentes en los siguientes casos:
 
-I. Cuando se pretenda impugnar la no conformidad de esta ley a la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-II. Cuando se pretenda impugnar actos o resoluciones: que no afecten el interés jurídico del actor; que se hayan consumado de un modo irreparable; que se hubiesen consentido expresamente, entendiéndose por esto, las manifestaciones de voluntad que entrañen ese consentimiento; o aquéllos contra los cuales no se hubiese interpuesto el medio de impugnación respectivo, dentro de los plazos señalados en esta ley;
+I. Cuando se pretenda impugnar la no conformidad de esta ley a la Constitución Federal;
 
-III. Que el promovente carezca de legitimación en los términos de la presente ley;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+II. Cuando se pretenda impugnar actos o resoluciones: que no afecten el interés jurídico de la parte actora; que se hayan consumado de un modo irreparable; que se hubiesen consentido expresamente, entendiéndose por esto, las manifestaciones de voluntad que entrañen ese consentimiento; o aquéllos contra los cuales no se hubiese interpuesto el medio de impugnación respectivo, dentro de los plazos señalados en esta ley;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+III. Que la parte promovente carezca de legitimación en los términos de la presente ley;
 
 IV. Cuando en un mismo escrito se pretenda impugnar más de una elección;
 
-V. Cuando no se hayan agotado las instancias previas establecidas por las leyes locales, o por las normas internas de los partidos políticos, según corresponda, para combatir los actos o resoluciones electorales o las determinaciones de estos últimos, en virtud de las cuales se pudiera haber modificado, revocado o anulado, salvo que se considere que los actos o resoluciones del partido político violen derechos político-electorales o los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-VI. Cuando en el medio de impugnación se solicite, en forma exclusiva, la no aplicación de una norma general en materia electoral, cuya validez haya sido declarada por la Suprema Corte de Justicia de la Nación en los términos de la fracción II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
+V. Cuando no se hayan agotado las instancias previas establecidas por las leyes locales, o por las normas internas de los partidos políticos, según corresponda, para combatir los actos o resoluciones electorales o las determinaciones de estos últimos, en virtud de las cuales se pudiera haber modificado, revocado o anulado, salvo que se considere que los actos o resoluciones del partido político violen derechos político-electorales o los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa a la parte actora; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+VI. Cuando en el medio de impugnación se solicite, en forma exclusiva, la no aplicación de una norma general en materia electoral, cuya validez haya sido declarada por la Suprema Corte de Justicia de la Nación en los términos de la fracción II del artículo 105 de la Constitución Federal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2023)</small>
+
+VII. Ofrecer y aportar las pruebas dentro de los plazos para la interposición o presentación de los medios de impugnación previstos en la presente ley; mencionar, en su caso, las que se habrán de aportar dentro de dichos plazos; y las que deban requerirse, cuando la parte promovente justifique que oportunamente las solicitó por escrito al órgano competente, y éstas no le hubieren sido entregadas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2023)</small>
+
+VIII. Hacer constar el nombre y la firma autógrafa de la persona promovente.
+
+2… (SIC)
+
+3…(SIC)
 
 ARTÍCULO 12
 
 1. Procede el sobreseimiento cuando:
 
-I. El promovente se desista expresamente por escrito;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+I. La parte promovente se desista expresamente por escrito;
 
 II. La autoridad u órgano partidista responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que quede totalmente sin materia el medio de impugnación respectivo antes de que se dicte resolución o sentencia;
 
 III. Habiendo sido admitido el medio de impugnación correspondiente, aparezca o sobrevenga alguna causal de improcedencia en los términos de la presente ley; y
 
-IV. El ciudadano agraviado fallezca o sea suspendido o privado de sus derechos político-electorales.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-2. Cuando se actualice alguno de los supuestos a que se refiere el párrafo anterior, el magistrado electoral propondrá el sobreseimiento a la Sala.
+IV. La persona agraviada fallezca o sea suspendido o privado de sus derechos político-electorales.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. Cuando se actualice alguno de los supuestos a que se refiere el párrafo anterior, la magistratura correspondiente propondrá el sobreseimiento a la Sala.
 
 #### SECCIÓN CUARTA. DE LAS PARTES
 
@@ -209,19 +267,29 @@ ARTÍCULO 13
 
 1. Son partes en el procedimiento de los medios de impugnación las siguientes:
 
-I. El actor, que será quien estando legitimado lo presente por sí mismo o, en su caso, a través de representante, en los términos de este ordenamiento;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+I. La parte actora, que será quien estando legitimado lo presente por sí mismo o, en su caso, a través de representante, en los términos de este ordenamiento;
 
 II. La autoridad u órgano partidista responsable, que haya realizado el acto o emitido la resolución que se impugna; y
 
-III. El tercero interesado, que es el ciudadano, el partido político, la coalición, el candidato, la organización o la agrupación política o de ciudadanos, según corresponda, con un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-2. Para los efectos de las fracciones I y III del párrafo anterior, se entenderá por promovente al actor que presente un medio de impugnación, y por compareciente el tercero interesado que presente un escrito, ya sea que lo hagan por sí mismos o a través de la persona que los represente, siempre y cuando justifiquen plenamente la legitimación para ello.
+III. La parte tercera interesada, que es la persona ciudadana, el partido político, la coalición, la persona candidata, la organización o la agrupación política o de ciudadanos, según corresponda, con un interés legítimo en la causa derivado de un derecho incompatible con el que pretende la parte actora.
 
-3. Los candidatos, exclusivamente por lo que se refiere a los medios de impugnación previstos en el Título Segundo de esta ley podrán participar como coadyuvantes del partido político que los registró de conformidad con las reglas siguientes:
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. Para los efectos de las fracciones I y III del párrafo anterior, se entenderá por promovente a la parte actora que presente el medio de impugnación, y por compareciente la parte tercera interesada que presente un escrito, ya sea que lo hagan por sí mismos o a través de la persona que los represente, siempre y cuando justifiquen plenamente la legitimación para ello.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+3. Las y los candidatos, podrán participar como coadyuvantes del partido político que los registró, de conformidad con las reglas siguientes:
 
 l. A través de la presentación de escritos en los que manifieste lo que a su derecho convenga, sin que en ningún caso se puedan tomar en cuenta los conceptos que amplíen o modifiquen la controversia planteada en el medio de impugnación o en el escrito que como tercero interesado haya presentado su partido;
 
-II. Los escritos deberán presentarse dentro de los plazos establecidos para la interposición de los medios de impugnación o, en su caso, para la presentación de los escritos de los terceros interesados;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+II. Los escritos deberán presentarse dentro de los plazos establecidos para la interposición de los medios de impugnación o, en su caso, para la presentación de los escritos de las partes terceras interesadas;
 
 III. Los escritos deberán ir acompañados del documento con el que se acredite su personería en los términos de la fracción II del artículo 14 de esta ley;
 
@@ -229,7 +297,13 @@ IV. Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y d
 
 V. Los escritos deberán estar firmados autógrafamente.
 
-4. En el caso de coaliciones, la representación legal se acreditará en los términos del convenio respectivo, de conformidad con lo dispuesto en esta Ley.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+4. En el caso de coaliciones, la representación legal se acreditará en los términos del convenio respectivo, de conformidad con lo dispuesto en la Ley de Instituciones y Procedimientos Electorales para el Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+5. La parte tercera interesada que haya obtenido resolución favorable y tenga interés jurídico en que subsista, podrá presentar medio de impugnación en forma adhesiva al que promueva la parte actora, el cual se tramitará en el mismo expediente, los que se decidirán en una sola resolución. Su presentación y trámite se regirá, en lo conducente, por lo dispuesto para el juicio principal. Los agravios expresados en el medio de defensa adhesivo deben fortalecer las consideraciones de la sentencia o resolución favorable a los intereses del adherente o, en su caso, impugnar las que se concluyan en un punto decisorio que le perjudique.
 
 #### SECCIÓN QUINTA. DE LA LEGITIMACIÓN Y DE LA PERSONERIA
 
@@ -245,9 +319,17 @@ b). Los miembros de los comités estatales, distritales, municipales, o sus equi
 
 c). Los que tengan facultades de representación conforme a sus Estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido facultados para ello.
 
-II. Los ciudadanos y los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro; y
+(NOTA: EL 5 DE DICIEMBRE DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 189/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+II. Las personas ciudadanas y candidatas POR SU PROPIO DERECHO, SIN QUE SEA ADMISIBLE REPRESENTACIÓN ALGUNA. Las personas candidatas deberán acompañar el original o copia certificada del documento en el que conste su registro; y
 
 III. Las organizaciones o agrupaciones políticas o de ciudadanos, a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+IV. Las personas candidatas independientes, a través de sus representantes legítimos, entendiéndose por estos a los que se encuentren acreditados ante el Instituto.
 
 #### SECCIÓN SEXTA. DE LAS PRUEBAS
 
@@ -285,7 +367,9 @@ IV. Los documentos expedidos por quienes estén investidos de fe pública de acu
 
 7. Se considerarán pruebas técnicas las fotografías, otros medios de reproducción de imágenes y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia que puedan ser desahogados sin necesidad de peritos o instrumentos, accesorios, aparatos o maquinaria que no estén al alcance del Tribunal Electoral. En estos casos, el aportante deberá señalar concretamente lo que pretende acreditar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
 
-8. La pericial sólo podrá ser ofrecida y admitida en aquellos medios de impugnación no vinculados al proceso electoral y a sus resultados, siempre y cuando su desahogo sea posible en los plazos legalmente establecidos. Para su ofrecimiento deberán cumplirse los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+8. La pericial podrá ser ofrecida y admitida en los medios de impugnación previstos en los Títulos Segundo y Tercero de esta Ley; siempre y cuando su desahogo sea posible en los plazos legalmente establecidos. Para su ofrecimiento deberán cumplirse los siguientes requisitos:
 
 l. Ser ofrecida junto con el escrito de impugnación;
 
@@ -317,7 +401,9 @@ ARTÍCULO 18
 
 1. La autoridad u órgano partidista, según sea el caso, que reciba un medio de impugnación, en contra de un acto emitido o resolución dictada por ella, bajo su más estricta responsabilidad y de inmediato, deberá:
 
-I. Por la vía más expedita, dar aviso de su presentación al Tribunal Electoral, precisando: actor, acto o resolución impugnado, fecha y hora exactas de su recepción; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+I. Por la vía más expedita, dar aviso de su presentación al Tribunal Electoral, precisando: nombre de la parte actora, acto o resolución impugnado, fecha y hora exactas de su recepción; y
 
 II. Hacerlo del conocimiento público mediante cédula que durante un plazo de setenta y dos horas se fije en los estrados respectivos o por cualquier otro procedimiento que garantice fehacientemente la publicidad del escrito.
 
@@ -329,17 +415,27 @@ II. Hacerlo del conocimiento público mediante cédula que durante un plazo de s
 
 I. Presentarse ante la autoridad u órgano partidista responsable del acto o resolución impugnado;
 
-II. Hacer constar el nombre del tercero interesado;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+II. Hacer constar el nombre de la persona tercera interesada;
 
 III. Señalar domicilio para recibir notificaciones;
 
-IV. Acompañar el o los documentos que sean necesarios para acreditar la personería del compareciente, de conformidad con lo previsto en el artículo 14 de este ordenamiento;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-V. Precisar la razón del interés jurídico en que se funden y las pretensiones concretas del compareciente;
+IV. Acompañar el o los documentos que sean necesarios para acreditar la personería de la parte compareciente, de conformidad con lo previsto en el artículo 14 de este ordenamiento;
 
-VI. Ofrecer y aportar las pruebas dentro del plazo a que se refiere la fracción II del párrafo I de este artículo; mencionar en su caso las que se habrán de aportar dentro de dicho plazo; y solicitar las que deban requerirse, cuando el promovente justifique que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-VII. Hacer constar el nombre y la firma autógrafa del compareciente.
+V. Precisar la razón del interés jurídico en que se funden y las pretensiones concretas de la parte compareciente;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+VI. Ofrecer y aportar las pruebas dentro del plazo a que se refiere la fracción II del párrafo 1 de este artículo; mencionar en su caso las que se habrán de aportar dentro de dicho plazo; y solicitar las que deban requerirse, cuando la parte promovente justifique que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+VII. Hacer constar el nombre y la firma autógrafa de la parte compareciente.
 
 5. El incumplimiento de cualquiera de los requisitos previstos en las fracciones I, II, V y VII del párrafo anterior, será causa para tener por no presentado el escrito correspondiente.
 
@@ -365,11 +461,15 @@ VI. Cualquier otro documento que estime necesario para la resolución del asunto
 
 2. El informe circunstanciado que debe rendir la autoridad u órgano partidista responsable, por lo menos deberá contener:
 
-l. En su caso, la mención de si el promovente o el compareciente, tienen reconocida su personería;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+I. En su caso, la mención de si la persona promovente o la compareciente, tienen reconocida su personería;
 
 II. Los motivos y fundamentos jurídicos que considere pertinentes para sostener la constitucionalidad o legalidad del acto o resolución impugnado; y
 
-III. La firma del funcionario que lo rinde.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+III. La firma de la o el funcionario que lo rinde.
 
 #### SECCIÓN OCTAVA. DE LA SUSTANCIACIÓN
 
@@ -377,27 +477,43 @@ ARTÍCULO 20
 
 1. Recibida la documentación a que se refiere el artículo anterior, el Tribunal Electoral realizará los actos y ordenará las diligencias que sean necesarias para la sustanciación de los expedientes, de acuerdo con lo siguiente:
 
-l. El Presidente de la Sala turnará de inmediato el expediente recibido a un Magistrado Electoral, quien tendrá la obligación de revisar que el escrito del medio de impugnación reúna todos los requisitos señalados en el párrafo 1 del artículo 10 de esta Ley;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-II. El Magistrado Electoral propondrá a la Sala el proyecto de sentencia por el que se deseche de plano el medio de impugnación, cuando se de alguno de los supuestos previstos en el párrafo 3 del artículo 10 o se acredite cualquiera de las causales de notoria improcedencia señaladas en el párrafo I del artículo 11. Asimismo, cuando el promovente incumpla los requisitos señalados en las fracciones III y IV del párrafo I del artículo 10 y éstos no se puedan deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación si no se cumple con el mismo, dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente;
+I. La persona titular de la presidencia de la Sala turnará de inmediato a la magistratura electoral que corresponda el expediente recibido, quien tendrá la obligación de revisar que el escrito del medio de impugnación reúna todos los requisitos señalados en el párrafo 1 del artículo 10 de esta Ley;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+II. La magistratura electoral respectiva propondrá a la Sala el proyecto de sentencia por el que se deseche de plano el medio de impugnación, cuando se de alguno de los supuestos previstos en el párrafo 3 del artículo 10 o se acredite cualquiera de las causales de notoria improcedencia señaladas en el párrafo 1 del artículo 11. Asimismo, cuando el promovente incumpla los requisitos señalados en las fracciones III y IV del párrafo 1 del artículo 10 y éstos no se puedan deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación si no se cumple con el mismo, dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente;
 
 III. En cuanto al informe circunstanciado, si la autoridad u órgano partidista no lo envía dentro del plazo señalado en el párrafo 1 del artículo anterior, el medio de impugnación se resolverá con los elementos que obren en autos; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con el presente ordenamiento y las leyes aplicables;
 
-IV. El Magistrado Electoral, en el proyecto de sentencia del medio de impugnación que corresponda, propondrá a la Sala tener por no presentado el escrito del tercero interesado, cuando se presente en forma extemporánea o se den los supuestos previstos en el párrafo 5 del artículo 18 de este ordenamiento. Asimismo, cuando el compareciente incumpla el requisito señalado en la fracción IV del párrafo 4 del artículo anteriormente citado, y éste no se pueda deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de que no se tomará en cuenta el escrito al momento de resolver si no se cumple con el mismo dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-V. Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el Magistrado Electoral dictará el auto de admisión que corresponda; una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción pasando el asunto a sentencia. En estos casos, se ordenará fijar copia de los autos respectivos en los estrados; y
+IV. La magistratura electoral, en el proyecto de sentencia del medio de impugnación que corresponda, propondrá a la Sala tener por no presentado el escrito de la persona tercera interesada, cuando se presente en forma extemporánea o se den los supuestos previstos en el párrafo 5 del artículo 18 de este ordenamiento. Asimismo, cuando la persona compareciente incumpla el requisito señalado en la fracción IV del párrafo 4 del artículo anteriormente citado, y éste no se pueda deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de que no se tomará en cuenta el escrito al momento de resolver si no se cumple con el mismo dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente;
 
-VI. Cerrada la instrucción el Magistrado Electoral procederá a formular el proyecto de sentencia de sobreseimiento o de fondo, según sea el caso, y lo someterá a la consideración de la Sala.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-2. La no aportación de las pruebas ofrecidas, en ningún supuesto será motivo para desechar el medio de impugnación o para tener por no presentado el escrito del tercero interesado. En todo caso, la Sala resolverá con los elementos que obren en autos.
+V. Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, la magistratura Electoral en un plazo no mayor de 6 días dictará el auto de admisión que corresponda; una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción pasando el asunto a sentencia. En estos casos, se ordenará fijar copia de los autos respectivos en los estrados; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+VI. Cerrada la instrucción la magistratura Electoral procederá a formular el proyecto de sentencia de sobreseimiento o de fondo, según sea el caso, y lo someterá a la consideración de la Sala.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. La no aportación de las pruebas ofrecidas, en ningún supuesto será motivo para desechar el medio de impugnación o para tener por no presentado el escrito de la persona tercera interesada. En todo caso, la Sala resolverá con los elementos que obren en autos.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
 ARTÍCULO 21
 
-1. Si la autoridad u órgano partidista responsable incumple con la obligación prevista en la fracción II párrafo I del artículo 18, u omite enviar cualquiera de los documentos a que se refieren las fracciones I, II, III, IV y VI del párrafo I del artículo 19, se requerirá de inmediato su cumplimiento o remisión fijando un plazo de veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente los documentos respectivos, el Presidente de la Sala del Tribunal Electoral tomará las medidas necesarias para su cumplimiento, aplicando, en su caso, el medio de apremio que juzgue pertinente.
+1. Si la autoridad u órgano partidista responsable incumple con la obligación prevista en la fracción II párrafo 1 del artículo 18, u omite enviar cualquiera de los documentos a que se refieren las fracciones I, II, III, IV y VI del párrafo 1 del artículo 19, se requerirá de inmediato su cumplimiento o remisión fijando un plazo de veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente los documentos respectivos, la persona titular de la presidencia de la Sala del Tribunal Electoral tomará las medidas necesarias para su cumplimiento, aplicando, en su caso, el medio de apremio que juzgue pertinente.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
 ARTÍCULO 22
 
-1. Los Magistrados del Tribunal Electoral, podrán requerir a las autoridades estatales y municipales, así como a los partidos políticos, candidatos, agrupaciones, organizaciones políticas y particulares, cualquier elemento o documentación que obrando en su poder, pueda servir para la sustanciación y resolución de los medios de impugnación. Asimismo, en casos extraordinarios, podrán ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables.
+1. La magistratura electoral respectiva podrán (sic) requerir a las autoridades estatales y municipales, así como a los partidos políticos, personas candidatas, agrupaciones, organizaciones políticas y ciudadanía, cualquier elemento o documentación que obrando en su poder, pueda servir para la sustanciación y resolución de los medios de impugnación. Asimismo, en casos extraordinarios, podrán ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables.
 
 ARTÍCULO 23
 
@@ -415,7 +531,9 @@ II. Se haya negado sin causa justificada el recuento en los órganos competentes
 
 ARTÍCULO 24
 
-1. Las sentencias que pronuncie el Tribunal Electoral, deberán hacerse constar por escrito y contendrán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+1. Las sentencias que pronuncie el Tribunal Electoral, deberán hacerse constar por escrito redactarse con claridad, mediante lenguaje incluyente y contendrán:
 
 I. La fecha, el lugar y el órgano que la dicta;
 
@@ -428,6 +546,18 @@ IV. Los fundamentos jurídicos;
 V. Los puntos resolutivos; y
 
 VI. En su caso, el plazo para su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. En las sentencias que se emitan en los términos de esta Ley, deberá utilizarse un lenguaje incluyente y con perspectiva de género. En casos de grupos vulnerables o de atención prioritaria, además, debe formularse un formato propio para las personas que así lo requieran por sus condiciones específicas.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+3. En todo asunto que sea competencia del Tribunal Electoral, deberán tenerse en cuenta las definiciones previstas en la Ley de Instituciones y Procedimientos Electorales para el Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+4. El Tribunal Electoral, en sus sentencias, únicamente podrá ordenar la reposición del procedimiento, pero no nombrar directa o indirectamente a las personas que integrarán las dirigencias de los partidos políticos o la elección o designación de precandidaturas o candidaturas.
 
 ARTÍCULO 25
 
@@ -453,9 +583,21 @@ IV. En las sesiones públicas sólo podrán participar y hacer uso de la palabra
 
 3. En casos extraordinarios la Sala podrá diferir la resolución de un asunto listado.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 26 BIS
+
+1. Una vez notificada la sentencia, las partes dentro del término de tres días hábiles podrán solicitar al Tribunal Electoral la aclaración de la misma para precisar o corregir algún punto. El Tribunal Electoral, dentro de un plazo igual, resolverá, pero por ningún motivo podrá modificar el sentido de la misma.
+
 ARTÍCULO 27
 
 1. Las sentencias que dicte la Sala del Tribunal Electoral serán definitivas e inatacables, a excepción de aquellas que sean susceptibles de impugnarse a través de medios extraordinarios de impugnación.
+
+(NOTA: EL 5 DE DICIEMBRE DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 189/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. Las sentencias o resoluciones de fondo que recaigan a los medios de impugnación tendrán como efecto confirmar, modificar o revocar la resolución o acto impugnado. CUANDO SE TRATE DE ACTOS O RESOLUCIONES DE LOS PARTIDOS POLÍTICOS, LOS EFECTOS SERÁN SOLO PARA CONFIRMAR O REVOCAR EL ACTO O RESOLUCIÓN IMPUGNADA.
 
 #### SECCIÓN DÉCIMA. DE LAS NOTIFICACIONES
 
@@ -468,6 +610,10 @@ ARTÍCULO 28
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
 
 3. Las notificaciones se podrán hacer personalmente por estrados, por oficio, por correo certificado o por telegrama, por fax, o por medio electrónico, según se requiera para la eficacia del acto resolución o sentencia a notificar, salvo disposición expresa de este libro.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+4. La notificación se hará por medio electrónico a las partes que manifiesten expresamente su voluntad de que sean notificados por esta vía, siempre que proporcionen dirección de correo electrónico que cuenten con mecanismos de confirmación de los envíos de notificaciones.
 
 ARTÍCULO 29
 
@@ -509,7 +655,9 @@ II. Si el domicilio se encontrara en lugar distinto del previsto en la fracción
 
 Para el caso de que no se contara con el acuse de recibo, deberá fijarse además un ejemplar de la determinación judicial correspondiente en los estrados de la sala.
 
-4. La notificación por telegrama se hará enviándola por duplicado para que la oficina que la transmita devuelva el ejemplar sellado que se agregará al expediente. Exclusivamente en casos urgentes o extraordinarios y a juicio de quienes presidan los órganos competentes, las notificaciones que se ordenen podrán hacerse a través de fax y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse de recibido.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+4. Exclusivamente en casos urgentes o extraordinarios y a juicio de quienes presidan los órganos competentes, las notificaciones que se ordenen podrán hacerse a través de fax y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse de recibido.
 
 > <small>(ADICIONADO, P.O. 17 DE JULIO DE 2014)</small>
 
@@ -521,15 +669,23 @@ ARTÍCULO 32
 
 2. No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que, en los términos de las leyes aplicables o por acuerdo del órgano competente, deban hacerse públicas a través del Periódico Oficial o los diarios o periódicos de circulación local, o en lugares públicos o mediante la fijación de cédulas en los estrados de los órganos del Instituto y del Tribunal Electoral.
 
-SECCIÓN DECIMAPRIMERA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2023)</small>
 
-DE LA ACUMULACIÓN
+#### SECCIÓN DECIMA PRIMERA. DE LA ACUMULACIÓN Y DE LA ESCISIÓN
 
 ARTÍCULO 33
 
 1. Para la resolución pronta y expedita de los medios de impugnación previstos en esta ley, la Sala del Tribunal Electoral, podrá determinar su acumulación.
 
 2. La acumulación podrá decretarse al inicio o durante la sustanciación, o para la resolución de los medios de impugnación.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+3. La magistratura electoral que se encuentre sustanciando un medio de impugnación podrá proponer a las Sala un acuerdo de escisión respecto del mismo, si en el escrito de demanda se impugnan diversos actos o resoluciones o bien, existe pluralidad de actos o demandados y, en consecuencia, se estime fundadamente que no es conveniente resolverlo en forma conjunta, por no presentarse causa alguna que así lo justifique y siempre que no se actualice alguna causal de desechamiento o sobreseimiento.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+4. Dictado el acuerdo de escisión, el Secretaría General de Acuerdos por acuerdo de la Presidencia, procederá a turnar el expediente del medio de impugnación a la magistratura electoral que corresponda, quien deberá concluir con la sustanciación y formular el proyecto de sentencia correspondiente.
 
 SECCIÓN DECIMASEGUNDA
 
@@ -553,7 +709,13 @@ V. Arresto hasta por treinta y seis horas.
 
 ARTÍCULO 35
 
-1. Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo anterior, serán aplicados por el Presidente de la Sala, por sí mismo o con el apoyo de la autoridad competente, de conformidad con las reglas que al efecto establezca el Reglamento Interno del Tribunal Electoral.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+1. Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo anterior, serán aplicados por la Presidencia de la Sala, por sí mismo o con el apoyo de la autoridad competente, de conformidad con las reglas que al efecto establezca el Reglamento Interno del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. Para efectos del párrafo anterior, por autoridad competente se entiende la Sala Colegiada, la magistratura electoral que se encuentre a cargo de la sustanciación de un asunto, así como todas aquellas que en razón de sus atribuciones y competencias consagradas en la ley, puedan coadyuvar con el Tribunal.
 
 ARTÍCULO 36
 
@@ -561,19 +723,41 @@ ARTÍCULO 36
 
 2. En relación con el cumplimiento de las sentencias, los interesados podrán promover, ante la sala, el incidente por incumplimiento, defecto o exceso en el cumplimiento. En el primer caso, podrá hacerlo valer el actor, en el plazo de treinta días si aún subsiste la materia de la sentencia y es viable legalmente su ejecución, y en los demás las partes del medio de impugnación dentro de los tres días contados a partir del siguiente a aquél en que se tenga conocimiento del acto o resolución correspondiente o se hubiese notificado, de conformidad con esta ley o la que resulte aplicable.
 
-3. Una vez recibida la demanda incidental, el presidente de la sala ordenará integrar el expediente respectivo y turnará los autos al magistrado ponente de la resolución cuyo incumplimiento se impugna para efectos de la sustanciación y elaboración del proyecto respectivo.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-4. El magistrado requerirá al órgano partidista o autoridad vinculados al cumplimiento, la rendición de un informe dentro del plazo de veinticuatro horas contadas a partir de la notificación del requerimiento.
+3. Una vez recibida la demanda incidental, la presidencia de la sala ordenará integrar el expediente respectivo y turnará los autos a la magistratura electoral ponente de la resolución cuyo incumplimiento se impugna para efectos de la sustanciación y elaboración del proyecto respectivo.
 
-5. Agotada la instrucción, el magistrado instructor propondrá a la sala el proyecto de sentencia, la que podrá dictarse incluso si no se rindió el informe dentro del plazo concedido, tomando como base las constancias que obren en autos y las que oficiosamente hubiera obtenido.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-6. Cuando el incidente por defecto o exceso en el cumplimiento resulte fundado, la resolución deberá precisar los actos a realizar por el órgano partidista o autoridad para acatar debidamente la sentencia y otorgará un plazo razonable para hacerlo.
+4. La magistratura Electoral requerirá al órgano partidista o autoridad vinculados al cumplimiento, la rendición de un informe dentro del plazo de veinticuatro horas contadas a partir de la notificación del requerimiento. A dicho informe se deberá acompañar la documentación que acredite lo informado.
 
-7. Cuando el incidente de incumplimiento resulte fundado, la sala otorgará al órgano partidista o autoridad contumaz un plazo razonable para que cumpla con la sentencia y establecerá las medidas que considere más adecuadas para lograrlo, bajo apercibimiento que, de no .hacerlo, se le aplicará alguno de los medios de apremio a que se refiere el artículo 34 de esta ley.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2023)</small>
 
-8. En caso de no lograr el cumplimiento de la sentencia, la sala podrá adoptar las medidas que estime necesarias hasta lograrlo.
+5. Con el informe y la documentación correspondiente, se dará vista a la parte incidentista con el fin de que ésta manifieste lo que a su interés convenga.
 
-9. En caso de incumplimiento de algún acuerdo de requerimiento formulado por el magistrado encargado de la instrucción, éste presentará al pleno de la sala un proyecto de resolución a fin de lograr su cumplimiento y ésta resolverá lo que proceda.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+6. En los requerimientos, la magistratura electoral podrá pedir oficiosamente la documentación o cualquier constancia que considere pertinente para estar en posibilidad de emitir resolución incidental que corresponda;
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES NUMERAL 5], P.O. 1 DE AGOSTO DE 2023)</small>
+
+7. Agotada la instrucción. la magistratura Instructora propondrá a la sala el proyecto de sentencia, la que podrá dictarse incluso si no se rindió el informe dentro del plazo concedido, tomando como base las constancias que obren en autos y las que oficiosamente hubiera obtenido.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES NUMERAL 6], P.O. 1 DE AGOSTO DE 2023)</small>
+
+8. Cuando el incidente por defecto o exceso en el cumplimiento resulte fundado, la resolución deberá precisar los actos a realizar por el órgano partidista o autoridad para acatar debidamente la sentencia y otorgará un plazo razonable para hacerlo.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES NUMERAL 7], P.O. 1 DE AGOSTO DE 2023)</small>
+
+9. Cuando el incidente de incumplimiento resulte fundado, la sala otorgará al órgano partidista o autoridad contumaz un plazo razonable para que cumpla con la sentencia y establecerá las medidas que considere más adecuadas para lograrlo, bajo apercibimiento que, de no hacerlo, se le aplicará alguno de los medios de apremio a que se refiere el artículo 34 de esta ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO Y REUBICADO ANTES NUMERAL 8], P.O. 1 DE AGOSTO DE 2023)</small>
+
+10. En caso de no lograr el cumplimiento de la sentencia, la sala podrá adoptar las medidas que estime necesarias hasta lograrlo.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES NUMERAL 9], P.O. 1 DE AGOSTO DE 2023)</small>
+
+11. En caso de incumplimiento de algún acuerdo de requerimiento formulado por la magistratura electoral encargada de la instrucción, ésta presentará al pleno de la sala un proyecto de resolución a fin de lograr su cumplimiento y ésta resolverá lo que proceda.
 
 ## TÍTULO SEGUNDO. DE LOS MEDIOS DE IMPUGNACIÓN Y DE LAS NULIDADES EN MATERIA ELECTORAL
 
@@ -601,13 +785,15 @@ c). Los actos, acuerdos y demás resoluciones que dicte el Instituto y afecten l
 
 d). La resolución del Consejo General que ponga fin al procedimiento de liquidación y los actos que integren ese procedimiento que causen una afectación sustantiva al promovente;
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-e). Los actos o resoluciones sobre la designación y remoción de Consejeros electorales municipales.
+e. Los actos o resoluciones sobre la designación y remoción de las Consejerías electorales municipales.
 
 II. Durante el proceso electoral ordinario o extraordinario contra:
 
-a). Los actos o resoluciones definitivos de los órganos del Instituto, que se den en la fase preparatoria de la elección y causen agravio al partido, coalición o ciudadano con interés legitimo;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+a. Los actos o resoluciones definitivos de los órganos del Instituto. que se den en la fase preparatoria de la elección y causen agravio al partido, coalición o candidatura independiente o ciudadanía con interés legítimo;
 
 b). Los resultados de los cómputos municipales, distritales y estatales, así como las constancias que en los mismos se expidan;
 
@@ -615,9 +801,9 @@ c). La asignación de diputados y regidores de representación proporcional;
 
 d). La declaratoria de validez de las elecciones de gobernador del Estado, diputados e integrantes de los Ayuntamientos y, en su caso, que emitan los órganos del Instituto en el ámbito de su competencia; y
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-e). Los actos o resoluciones sobre la designación y remoción de Consejeros electorales municipales.
+e. Los actos o resoluciones sobre la designación y remoción de las Consejerías electorales municipales.
 
 2. Las causas de nulidad previstas en esta ley, sólo podrán hacerse valer al promover el juicio Electoral en contra de los supuestos señalados en los incisos b), c) y d) de esta fracción.
 
@@ -645,9 +831,9 @@ ARTÍCULO 41
 
 l. Los partidos políticos o coaliciones con interés legítimo;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-II. Los candidatos, para impugnar irregularidades que consideren que hayan afectado la validez de la elección en la que participaron; así como cuando por motivos de inelegibilidad, la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría.
+II. Las personas candidatas, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría. En todos los demás casos, sólo podrán intervenir como coadyuvantes;
 
 III Las organizaciones o agrupaciones políticas o de ciudadanos; a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación aplicable;
 
@@ -683,11 +869,15 @@ ARTÍCULO 46
 
 1. Las sentencias recaídas a los juicios Electorales serán notificadas:
 
-l. Al actor y, en su caso, a los terceros interesados, a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dicte la sentencia, personalmente siempre y cuando hayan señalado domicilio ubicado en la capital del estado. En cualquier otro caso, la notificación se hará por estrados;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+I. A la parte actora y, en su caso, a las partes terceras interesadas, a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dicte la sentencia, personalmente siempre y cuando hayan señalado domicilio ubicado en la capital del estado. En cualquier otro caso, la notificación se hará por estrados;
 
 II. A la autoridad responsable, por oficio acompañado de copia certificada de la sentencia, a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dicte la misma; y
 
-III. En su caso, a la Oficialía Mayor del Congreso a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dicte la sentencia.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+III. En su caso, a la Secretaria General del Congreso mediante oficio a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dicte la sentencia.
 
 2. El Instituto por conducto del órgano competente, podrá solicitar copia certificada de la documentación que integre los expedientes formados con motivo de los juicios Electorales.
 
@@ -697,9 +887,11 @@ ARTÍCULO 47
 
 ARTÍCULO 48
 
-1. Todos los juicios Electorales deberán estar resueltos en un plazo no mayor de seis días contados a partir de que el Tribunal Electoral emita el auto de admisión correspondiente.
+1. (DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
-2. Los juicios Electorales relativos a los cómputos, declaraciones de validez y entrega de constancias de mayoría de las elecciones de diputados y ayuntamientos deberán quedar resueltos a mas tardar el día trece de agosto y los relativos a la elección de gobernador del estado a mas tardar el quince de agosto, ambas fechas del año de la elección.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+1 (SIC). Los juicios Electorales relativos a los cómputos, declaraciones de validez y entrega de constancias de mayoría de las elecciones de diputados y ayuntamientos deberán quedar resueltos a más tardar el día trece de agosto y los relativos a la elección de gobernador del estado a más tardar el quince de agosto, ambas fechas del año de la elección.
 
 ### CAPÍTULO II. DE LAS NULIDADES
 
@@ -713,15 +905,19 @@ ARTÍCULO 50
 
 1. Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignación no sean impugnadas en tiempo y forma, se considerarán válidas, definitivas e inatacables.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
 ARTÍCULO 51
 
-1. Cuando se declare la inelegibilidad de candidatos a diputados electos por el principio de mayoría relativa, presidente municipal o síndico tomará el lugar del declarado no elegible su suplente y en el supuesto de que este último también sea inelegible, la elección será nula.
+1. Cuando se declare la inelegibilidad de las candidaturas a diputaciones electas por el principio de mayoría relativa, presidencia municipal o sindicatura tomará el lugar de la persona declarada no-elegible su persona suplente y en el supuesto de que esta última también sea inelegible, la elección será nula.
 
-2. En el caso de la inelegibilidad de los diputados o regidores electos por el principio de representación proporcional, ocupará el cargo su suplente y en el supuesto de que este último también sea inelegible el que sigue en el orden de la lista correspondiente al mismo partido político o coalición.
+2. En el caso de la inelegibilidad de las diputaciones o regidurías electas por el principio de representación proporcional, ocupará el cargo su persona suplente y en el supuesto de que esta última también sea inelegible la que sigue en el orden de la lista correspondiente al mismo partido político.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
 ARTÍCULO 52
 
-1. Los partidos políticos, coaliciones o candidatos no podrán invocar en su favor, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
+1. Los partidos políticos, coaliciones o candidaturas no podrán invocar en su favor, causales de nulidad, hechos o circunstancias que ellas mismas hayan provocado.
 
 ARTÍCULO 53
 
@@ -739,11 +935,15 @@ V. Recibir la votación de personas u órganos distintos a los facultados por la
 
 VI. Haber mediado dolo o error en la computación de los votos y siempre que ello sea determinante para el resultado de la votación.
 
-VII. Permitir a ciudadanos sufragar sin credencial para votar o cuyo nombre no aparezca en la lista nominal de electores y siempre que ello sea determinante para el resultado de la votación, salvo los casos de excepción señalados en la Ley General del Sistema de Medios de Impugnación en Materia Electoral.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+VII. Permitir a la ciudadanía sufragar sin credencial para votar o cuyo nombre no aparezca en la lista nominal de electores y siempre que ello sea determinante para el resultado de la votación, salvo los casos de excepción señalados en la Ley General de Instituciones y Procedimientos Electorales.
 
 VIII. Haber impedido el acceso de los representantes de los partidos políticos o haberlos expulsado, sin causa justificada y esto sea determinante para el resultado de la votación.
 
-IX. Ejercer violencia física o presión sobre los miembros de la mesa directiva de casilla o sobre los electores, siempre que esos hechos sean determinantes para el resultado de la votación.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+IX. Ejercer violencia física o presión sobre las personas integrantes de la mesa directiva de casilla o sobre los electores, siempre que esos hechos sean determinantes y vulneren la libertad del sufragio, función electoral y la certeza para el resultado de la votación.
 
 X. Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudadanos y esto sea determinante para el resultado de la votación.
 
@@ -751,19 +951,33 @@ XI. Existir irregularidades graves, plenamente acreditadas y no reparables duran
 
 ARTÍCULO 54
 
-1. Son causales de nulidad de una elección de Diputado de mayoría relativa en un distrito electoral uninominal, cualquiera de las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2023)</small>
 
-l. Cuando alguna o algunas de las causales señaladas en el artículo anterior se acrediten en por lo menos el veinte por ciento de las casillas en el distrito de que se trate, y en su caso, no se hayan corregido durante el recuento de votos; o
+1. Son causales de nulidad de una elección de una diputación de mayoría relativa en un distrito electoral uninominal, cualquiera de las siguientes:
 
-II. Cuando no se instalen las casillas en el veinte por ciento de las secciones en el distrito de que se trate y consecuentemente la votación no hubiere sido recibida; o
+(NOTA: EL 5 DE DICIEMBRE DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 189/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA EN SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Cuando alguna o algunas de las causales señaladas en el artículo anterior se acrediten en por lo menos el veinte por ciento de las casillas en el distrito de que se trate, y en su caso, no se hayan corregido durante el recuento de votos; o”. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-III. Cuando los dos integrantes de la fórmula de candidatos que hubieren obtenido constancia de mayoría sean inelegibles.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+I. Cuando alguna o algunas de las causales señaladas en el artículo anterior se acrediten en por lo menos el veinte por ciento de las casillas EN EL MUNICIPIO DE QUE SE TRATE, y en su caso, no se hayan corregido durante el recuento de votos; o
+
+(NOTA: EL 5 DE DICIEMBRE DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 189/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA EN SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Cuando no se instalen las casillas en el veinte por ciento de las secciones en el distrito de que se trate y consecuentemente la votación no hubiere sido recibida; o”. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+II. Cuando no se instalen las casillas en el veinte por ciento de las secciones EN EL MUNICIPIO DE QUE SE TRATE y consecuentemente la votación no hubiere sido recibida; o
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+III. Cuando las dos personas integrantes de la fórmula de candidaturas que hubieren obtenido constancia de mayoría sean inelegibles.
 
 2. Son causales de nulidad de una elección de integrantes de los Ayuntamientos en un Municipio, cualquiera de las siguientes:
 
 I. Cuando alguna o algunas de las causales de nulidad previstas en el artículo anterior, se acrediten en por lo menos el veinte por ciento de las secciones del Municipio de que se trate, y en su caso, no se hayan corregido durante el recuento de votos; o
 
-II. Cuando no se instalen las casillas en el veinte por ciento de las secciones en el Municipio de que se trate y consecuentemente la votación no hubiere sido recibida; o
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+II. Cuando no se instalen las casillas en el veinte por ciento o más de las secciones en el Municipio de que se trate y consecuentemente la votación no hubiere sido recibida; o
 
 III. Cuando la mayoría de los integrantes de la planilla de candidatos que hubieren obtenido constancia de mayoría y de asignación, fueren inelegibles. En este caso, la nulidad afectará a la elección de los integrantes de los Ayuntamientos correspondientes.
 
@@ -773,7 +987,9 @@ I. Cuando alguna o algunas de las causales de nulidad previstas en el artículo 
 
 II. Cuando en el territorio estatal no se instale el veinticinco por ciento o más de las casillas y consecuentemente la votación no hubiere sido recibida; o
 
-III. Cuando el candidato ganador de la elección resulte inelegible.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+III. Cuando la persona candidata ganadora de la elección resulte inelegible.
 
 > <small>(ADICIONADO, P.O. 17 DE JULIO DE 2014)</small>
 
@@ -793,11 +1009,13 @@ ARTÍCULO 54 BIS
 
 7. Con la finalidad de salvaguardar las libertades de expresión, información y a fin de fortalecer el Estado democrático, no serán objeto de inquisición judicial ni censura, las entrevistas, opiniones, editoriales, y el análisis de cualquier índole que, sin importar el formato sean el reflejo de la propia opinión o creencias de quien las emite.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
 ARTÍCULO 55
 
-1. El Tribunal Electoral podrá declarar la nulidad de una elección de diputados, integrantes de los Ayuntamientos o gobernador, cuando se hayan cometido en forma generalizada violaciones substanciales y graves en la jornada electoral de acuerdo con las causales de nulidad previstas en esta ley, en el municipio, distrito o en la entidad, siempre y cuando éstas se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos promoventes o a sus candidatos.
+1. El Tribunal Electoral podrá declarar la nulidad de una elección de diputaciones, integrantes de los Ayuntamientos o gubernatura, cuando se hayan cometido en forma generalizada violaciones substanciales y graves en la jornada electoral de acuerdo con las causales de nulidad previstas en esta ley, en el municipio, distrito o en la entidad, siempre y cuando éstas se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos promoventes o a sus candidaturas.
 
-2. De conformidad por lo dispuesto en el inciso m), segundo párrafo de la fracción IV del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, la sala del Tribunal Electoral sólo podrá declarar la nulidad de una elección por las causales expresamente establecidas en la presente ley.
+2. De conformidad por lo dispuesto en el inciso m), segundo párrafo de la fracción IV del artículo 116 de la Constitución Federal, la sala del Tribunal Electoral sólo podrá declarar la nulidad de una elección por las causales expresamente establecidas en la presente ley.
 
 ## TÍTULO TERCERO. DEL JUICIO PARA LA PROTECCIÓN DE LOS DERECHOS POLITICOS ELECTORALES DEL CIUDADANO
 
@@ -807,27 +1025,39 @@ ARTÍCULO 55
 
 ARTÍCULO 57
 
-1. El Juicio podrá ser promovido por el ciudadano cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2023)</small>
 
-I. Habiendo cumplido con los requisitos y trámites correspondientes, no hubiera obtenido oportunamente el documento que exija la ley de la materia para ejercer el voto;
+1. El Juicio podrá ser promovido por la ciudadanía cuando:
 
-III. Habiendo obtenido oportunamente el documento a que se refiere la fracción anterior, no aparezca incluido en la lista nominal de electores de la sección correspondiente a su domicilio;
+I. (DEROGADA, P.O. 1 DE AGOSTO DE 2023)
 
-III. Considere haber sido indebidamente excluido de la lista nominal de electores de la sección correspondiente a su domicilio;
+II. (DEROGADA, P.O. 1 DE AGOSTO DE 2023)
 
-IV. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular. En los procesos electorales estatales, si también el partido político interpuso el juicio Electoral, por la negativa del mismo registro, el Consejo Electoral, remitirá el expediente para que sea resuelto por el Tribunal Electoral, junto con el juicio promovido por el ciudadano;
+III. (DEROGADA, P.O. 1 DE AGOSTO DE 2023)
 
-V. Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a lo dispuesto por la ley de la materia, consideren que se les negó indebidamente su registro como partido político o agrupación política;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+IV. Considere que se violó su derecho político-electoral de ser votada o votado cuando, habiendo sido la persona propuesta por un partido político, le sea negado indebidamente su registro a la candidatura a un cargo de elección popular. En los procesos electorales estatales, si también el partido político interpuso el juicio electoral, por la negativa del mismo registro, el Consejo General, remitirá el expediente para que sea resuelto por el Tribunal Electoral, junto con el juicio promovido por la o el ciudadano;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+V. Habiéndose asociado con otras ciudadanas o ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a lo dispuesto por la ley, consideren que se les negó indebidamente su registro como partido político o agrupación política;
 
 VI. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior;
 
-VII. Cuando consideren que el partido político con registro estatal, a través de sus dirigentes u órganos de dirección, violaron sus derechos político-electorales de participar en el proceso interno de selección de candidatos o de ser postulados como candidatos a un cargo de elección popular, por transgresión a las normas de los estatutos del mismo partido o del convenio de coalición;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-VIII. Considere que los actos o resoluciones del partido político con registro estatal a que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aún cuando no estén afiliados al partido señalado como responsable;
+VII. Cuando consideren que el partido político con registro estatal, a través de sus dirigencias u órganos de dirección, violaron sus derechos político-electorales de participar en el proceso interno de selección o postulación de candidaturas a un cargo de elección popular, por transgresión a las normas de los Estatutos del mismo partido o del convenio de coalición;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+VIII. Considere que los actos o resoluciones del partido político con registro estatal al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a las precandidaturas y las candidaturas a cargos de elección popular aun cuando no estén afiliados al partido señalado como responsable;
 
 IX. Cuando el Instituto declare la procedencia o improcedencia del plebiscito o del referéndum;
 
-X. Cuando el Instituto no valide los porcentajes ciudadanos para solicitar el plebiscito o el referéndum;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+X. Cuando el Instituto no valide los porcentajes señalados para la ciudadanía para solicitar el plebiscito o el referéndum;
 
 XI. Cuando el Poder Ejecutivo, el Congreso o los Ayuntamientos, emitan actos o resoluciones que violen o transgredan los resultados vinculatorios del plebiscito o del referéndum;
 
@@ -845,21 +1075,27 @@ XIII. Todos los demás actos de los órganos del Instituto en materia de partici
 
 XIV. Cualquier otro acto u omisión que afecte los derechos fundamentales de carácter político-electoral.
 
-2. El juicio solo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones realizadas para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-3. Los actos o resoluciones que violen el derecho político-electoral de votar de los ciudadanos sólo se impugnará a través del medio de impugnación correspondiente previsto en la Ley General del Sistema de Medios de Impugnación en Materia Electoral, a menos de que los órganos del Instituto expidan el documento oficial mediante el cual los ciudadanos electores duranguenses ejerzan su derecho a votar en las elecciones locales, en cuyo caso los actos o resoluciones del Instituto podrán ser impugnadas conforme a este artículo.
+2. El juicio solo será procedente cuando la parte actora haya agotado todas las instancias previas y realizado las gestiones realizadas para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes establezcan para tal efecto.
 
-4. En los casos previstos en las fracciones VII y VIII del párrafo 1 de este artículo, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido con registro local de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-ARTÍCULO 58
+3. Los actos o resoluciones que violen el derecho político-electoral de votar de la ciudadanía sólo se impugnará a través del medio de impugnación correspondiente previsto en la Ley General del Sistema de Medios de Impugnación en Materia Electoral, a menos de que los órganos del Instituto expidan el documento oficial mediante el cual la ciudadanía electora duranguense ejerzan su derecho a votar en las elecciones locales, en cuyo caso los actos o resoluciones del Instituto podrán ser impugnadas conforme a este artículo.
 
-1. En los casos previstos por las fracciones I a la III del párrafo 1 del artículo anterior, los ciudadanos agraviados deberán agotar previamente la instancia administrativa que establezca la ley. En estos supuestos, las autoridades responsables les proporcionarán orientación y pondrán a su disposición los formatos que sean necesarios para la presentación de la demanda respectiva.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+4. En los casos previstos en las fracciones VII y VIII del párrafo 1 de este artículo, la parte quejosa deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido con registro local de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa a la parte quejosa.
+
+###### ARTÍCULO 58.
+
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
 ARTÍCULO 59
 
-1. Cuando el candidato agraviado pretenda impugnar irregularidades que considere que afectaron la validez de la elección en la que hubiere participado, o bien, cuando por causa de inelegibilidad, las autoridades electorales competentes determinen no otorgar, o en su caso, revocar la constancia de mayoría o de asignación respectiva, el candidato sólo podrá impugnar dichos actos o resoluciones, a través del Juicio Electoral.
+1. Cuando la persona candidata agraviada pretenda impugnar irregularidades que considere que afectaron la validez de la elección en la que hubiere participado, o bien, cuando por causa de inelegibilidad, las autoridades electorales competentes determinen no otorgar, o en su caso, revocar la constancia de mayoría o de asignación respectiva, la persona candidata solo podrá impugnar dichos actos o resoluciones a través del Juicio Electoral.
 
 ARTÍCULO 60
 
@@ -879,9 +1115,9 @@ I. Al actor que promovió el juicio y, en su caso, a los terceros interesados, a
 
 II. A la autoridad responsable, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, por oficio acompañado de la copia certificada de la sentencia.
 
-ARTÍCULO 62
+###### ARTÍCULO 62.
 
-1. En los casos a que se refieren las fracciones I a la III del párrafo 1 del artículo 55 de este ordenamiento, cuando la sentencia que se dicte resulte favorable a los intereses de los promoventes y la autoridad responsable estatal, por razón de los plazos legales o por imposibilidad técnica o material, no los pueda incluir debidamente en la lista nominal de electores correspondiente a la sección de su domicilio, o expedirles el documento que exija la ley de la materia para poder sufragar, bastará la exhibición de la copia certificada de los puntos resolutivos del fallo así como una identificación para que los funcionarios electorales permitan que los ciudadanos respectivos ejerzan el derecho del voto el día de la jornada electoral, en la mesa de casilla que corresponda a su domicilio o, en su caso, en una casilla especial en los términos de la ley de la materia.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ## TÍTULO CUARTO. DEL JUICIO LABORAL DE LOS SERVIDORES DEL INSTITUTO
 
@@ -909,13 +1145,13 @@ V. La equidad.
 
 ### CAPÍTULO II. TRÁMITE, SUSTANCIACIÓN y RESOLUCIÓN
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
 ARTÍCULO 65
 
-1. El servidor del Instituto que hubiese sido sancionado o destituido de su cargo o que considere haber sido afectado en sus derechos y prestaciones laborales, podrá inconformarse mediante demanda que presente directamente ante el Tribunal Electoral, dentro de los quince días hábiles siguientes al en que se le notifique la determinación del Instituto.
+1. La persona servidora pública del Instituto que hubiese sido sancionada o destituida de su cargo o que considere haber sido afectada en sus derechos y prestaciones laborales, podrá inconformarse mediante demanda que presente directamente ante el Tribunal Electoral, dentro de los quince días hábiles siguientes al en que se le notifique la determinación del Instituto.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
-
-2. Es requisito de procedibilidad del juicio, que el servidor involucrado haya agotado, en tiempo y forma, las instancias previas que establezca la ley de la materia, instrumentos que, de conformidad con lo dispuesto por el artículo 41 de la Constitución Política de los Estados Unidos Mexicanos norman las relaciones laborales del Instituto con sus servidores.
+2. Es requisito de procedibilidad del juicio, que el servidor involucrado haya agotado. en tiempo y forma, las instancias previas que establezca la ley de la materia, instrumentos que, de conformidad con lo dispuesto por el artículo 41 de la Constitución Federal norman las relaciones laborales del Instituto con sus personas servidoras públicas.
 
 ARTÍCULO 66
 
@@ -961,9 +1197,11 @@ ARTÍCULO 72
 
 1. De ofrecerse la prueba confesional a cargo del Consejero Presidente o del Secretario Ejecutivo del Instituto, solo será admitida si se trata de hechos propios controvertidos que no hayan sido reconocidos por el Instituto y relacionados con la litis. Su desahogo será vía oficio y para ello el oferente de la prueba deberá presentar el pliego de posiciones correspondiente. Una vez calificadas de legales por el Tribunal Electoral las posiciones, remitirá el pliego al absolvente, para que en un término de cinco días hábiles lo conteste por escrito.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
 ARTÍCULO 73
 
-1. El Magistrado Electoral podrá ordenar el desahogo de pruebas por exhorto, que dirigirá a la autoridad del lugar correspondiente para que en auxilio de las labores del Tribunal Electoral se sirva diligenciarlo.
+1. La magistratura Electoral podrá ordenar el desahogo de pruebas por exhorto, que dirigirá a la autoridad del lugar correspondiente para que en auxilio de las labores del Tribunal Electoral se sirva diligenciarlo.
 
 ARTÍCULO 74
 
@@ -977,9 +1215,9 @@ ARTÍCULO 75
 
 2. La sentencia se notificará a las partes personalmente o por correo certificado si señalaron domicilio para tal efecto, en caso contrario, se hará por estrados.
 
-ARTÍCULO 76
+###### ARTÍCULO 76.
 
-1. Una vez notificada la sentencia, las partes dentro del término de tres días podrán solicitar al Tribunal Electoral la aclaración de la misma para precisar o corregir algún punto. El Tribunal Electoral, dentro de un plazo igual, resolverá, pero por ningún motivo podrá modificar el sentido de la misma.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ARTÍCULO 77
 
@@ -1060,3 +1298,11 @@ P.O. 29 DE JUNIO DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales, en lo que se opongan a la presente iniciativa de decreto.
+
+P.O. 1 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 408.- QUE CONTIENE REFORMAS, ADICIONES Y DEROGACIONES A DIVERSOS ARTÍCULOS DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
