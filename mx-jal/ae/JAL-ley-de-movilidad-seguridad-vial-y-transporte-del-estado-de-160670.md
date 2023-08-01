@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-seguridad-vial-y-transporte-del-estado-de-1606
 country: "mx"
 rank: "ley"
 publication_date: "2022-10-19"
-last_updated: "2023-06-06"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 6 DE JUNIO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:1 DE AGOSTO DE 2023.
 
 Ley publicada en la Edición Especial 30 Bis del Periódico Oficial del Estado de Jalisco, el miércoles 19 de octubre de 2022.
 
@@ -147,9 +145,13 @@ IV. Que los modos de transporte en las zonas suburbanas y/o de difícil acceso, 
 
 V. Que se establezcan protocolos, procesos y lineamientos que prioricen a las personas y su seguridad en los siniestros de tránsito, prevaleciendo siempre su derecho en estricto apego a la pirámide de la movilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 5.
 
 Glosario.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2023)</small>
 
 1. Para efectos de esta Ley, se entenderá por:
 
@@ -165,7 +167,9 @@ V. Alcancía: Dispositivo de cobro de la tarifa del transporte público que coex
 
 VI. Alcoholímetro: Aparato para medir la cantidad de alcohol presente en el aire espirado por una persona.
 
-VII. Aplicación Móvil: Programa informático o plataforma electrónica de geolocalización para la búsqueda y contacto virtual de prestadores del servicio de transporte público con personas usuarias del servicio, así como para la contratación y pago de servicios de transporte; ejecutada en dispositivos fijos o móviles mediante el uso de Internet, bajo la cual operan las empresas de redes de transporte.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+VII. Aplicación Móvil: Programa informático o plataforma electrónica de geolocalización para la búsqueda y contacto virtual de prestadores del servicio de transporte privado de punto a punto, ejecutada en dispositivos fijos o móviles, mediante el uso de Internet;
 
 VIII. Arroyo vehicular: Área de la vialidad destinada a la circulación vehicular y ciclista que en algunos casos está delimitada por alguno o varios de los siguientes elementos: camellón, guarnición, estacionamiento, acotamientos, entre otros.
 
@@ -195,7 +199,9 @@ XX. Base de Datos sobre Movilidad y Seguridad Vial: Las bases de datos a la que 
 
 XXI. Bicicleta: Vehículo no motorizado principalmente de propulsión humana a través de pedales o de pedaleo asistido por motor eléctrico.
 
-XXII. Botón de auxilio: Herramienta o aplicación de respuesta y acción inmediata, automatizada con vinculación a las autoridades, que se acciona en situaciones de riesgo que ponga en peligro la vida, libertad, integridad o cualquier tipo de emergencia que requiera de una atención inmediata, disponible para las personas usuarias del servicio de transporte público de personas, mismo que debe encontrarse de manera visible y accesible, diseñado para proporcionar seguridad a las personas usuarias, en los términos de la presente Ley, su reglamento y demás disposiciones legales y normativas aplicables.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+XXII. Botón de auxilio: Herramienta o aplicación de respuesta y acción inmediata, automatizada con vinculación a las autoridades, que se acciona en situaciones de riesgo que ponga en peligro la vida, libertad, integridad o cualquier tipo de emergencia que requiera de una atención inmediata, disponible para las personas usuarias del servicio de transporte público y del servicio de transporte privado de punto a punto, mismo que debe encontrarse de manera visible y accesible, diseñado para proporcionar seguridad a las personas usuarias, en los términos de la presente Ley, su reglamento y demás disposiciones legales y normativas aplicables.
 
 XXIII. Cabina única: Centro de recepción y asignación de servicios.
 
@@ -256,6 +262,10 @@ L. Dispositivo de control de tránsito: Conjunto de señales, marcas, dispositiv
 LI. Dispositivo de seguridad: Aditamento, sistema o mecanismo dispuesto para las personas en favor de la seguridad de la vida, la salud y la integridad durante sus traslados.
 
 LII. Educación vial: Actividad cuya finalidad es promover una cultura vial en la población, dirigida a todas las personas usuarias de la vía, con el objeto de generar cambios en los patrones de comportamiento social.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2023)</small>
+
+LII Bis. Empresas de Redes de transporte: Son las sociedades mercantiles constituidas en los términos que establezca la Ley, para operar en los Estados Unidos Mexicanos, cuyo objeto sea entre otros, la prestación del Servicio de Transporte Privado de personas, mediante la administración, operación o promoción de aplicaciones móviles y plataformas informáticas, desarrollo de programas de cómputo o prestación de servicios tecnológicos de su propiedad o sus subsidiarias o filiales , basadas en el desarrollo de las tecnologías de los dispositivos inteligentes y los sistemas de posicionamiento global, conocido como Servicio de Transporte Privado de Punto a Punto.
 
 LIII. Enfoque Sistémico: Enfoque que aborda la movilidad en su totalidad e integralidad, en el que interactúan una serie de elementos coordinados e interconectados.
 
@@ -415,7 +425,13 @@ CXXX. Señalización: Conjunto de dispositivos, marcas y señales que indican la
 
 CXXXI. Servicio de transporte: Actividad mediante la cual la autoridad competente otorga un permiso o autorización a personas físicas o morales para que suministren el servicio de transporte para satisfacer las necesidades de movilidad de las personas, bienes y mercancías, de conformidad con la normatividad aplicable.
 
-CXXXII. Servicio de transporte público: Actividad mediante la cual la autoridad competente satisface las necesidades de transporte accesible e incluyente de personas pasajeras o carga en todos sus modos, dentro del área de su jurisdicción.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2023)</small>
+
+CXXXI Bis. Servicio de Transporte Privado de Punto a Punto: Es el servicio que se oferta, contrata y paga a través de una aplicación móvil administrada por empresas de redes de transporte previamente registradas ante la Secretaría.
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+CXXXII. Servicio de transporte público: Actividad mediante la cual la autoridad competente satisface las necesidades de transporte accesible e incluyente, dentro del área de su jurisdicción.
 
 CXXXIII. Servicios auxiliares: Son todos los bienes muebles o inmuebles e infraestructura, así como los servicios a los que hace referencia la Ley de Caminos, Puentes y Autotransporte Federal y que resulten complementarios a la prestación del servicio de transporte público, previstos en la legislación aplicable y que son susceptibles de autorización, permiso o concesión a particulares, por parte de los tres órdenes de gobierno.
 
@@ -1115,9 +1131,11 @@ Disposiciones normativas.
 
 1. Los derechos y obligaciones de las personas usuarias del transporte público y de la movilidad motorizada se establecerán conforme las disposiciones previstas en el presente capítulo, así como en apego a las disposiciones previstas en la Ley General, la presente Ley, sus reglamentos y normas de seguridad que emitan las autoridades en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 44.
 
-Derechos de las personas usuarias.
+Derechos de las personas usuarias de los servicios de transporte público.
 
 1. Para los efectos de esta Ley y los ordenamientos que de ella emanan, las personas usuarias del servicio de transporte público tendrán los siguientes derechos:
 
@@ -1160,6 +1178,32 @@ b) La persona operadora y el personal autorizado por el sistema de transporte p�
 XVII. A realizar los recorridos y desplazamientos de forma segura y libres de acoso y/o agresiones; y
 
 XVIII. A contar con alternativas de pago que faciliten el acceso al servicio de transporte público.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+###### Artículo 44-A.
+
+Derechos de las personas usuarias del Servicio de Transporte Privado de Punto a Punto.
+
+1. Para los efectos de esta Ley y los ordenamientos que de ella emanan, las personas usuarias del Servicio de Transporte Privado de Punto a Punto, se les garantizará el derecho a su seguridad a través de:
+
+I. Mecanismos de información oportuna y veraz antes, durante y al finalizar el viaje;
+
+II. La implementación de herramientas de seguridad tecnológicas para evitar o reportar las situaciones de riesgo;
+
+III. Un sistema de comunicación seguro y anónimo de llamadas y mensajes de texto dentro de la aplicación mediante la que se presta el servicio, con el fin de establecer comunicación de la persona prestadora del servicio y de la persona usuaria;
+
+IV. Recibir oportunamente la información detallada de la persona conductora, incluyendo fotografía, marca, modelo y número de placas del vehículo, tarifa estimada del viaje, así como el tiempo estimado de llegada;
+
+V. Calificar el servicio de transporte recibido;
+
+VI. Conocer la calificación de la persona conductora;
+
+VII. Contar con acceso a su propio historial de viajes y servicios;
+
+VIII. Recibir un trato digno y respetuoso libres de acoso y/o agresiones o cualquier tipo de violencia; y
+
+IX. A recibir el servicio en vehículos con las mejores condiciones de seguridad, comodidad e higiene.
 
 ###### Artículo 45.
 
@@ -1245,7 +1289,7 @@ XIV. Las demás que se señalen en la presente Ley, su reglamento y demás orden
 
 5. En dichas unidades se establecerán módulos de atención ciudadana para combatir los actos irregulares de las personas servidoras públicas y los sistemas de comunicación y enlace con la ciudadanía a través de los cuales se captarán y canalizarán las quejas, denuncias, recomendaciones y programas; para coordinar y unificar esfuerzos con las áreas internas de la Secretaría, así como con la Secretaría de Seguridad y los órganos de control gubernamental.
 
-6. Tratándose del servicio que gestionan las empresas de redes de transporte, la Secretaría únicamente atenderá cualquier irregularidad relativa a la prestación del servicio de transporte, no así a las relacionadas con el funcionamiento y soporte virtual de la aplicación móvil o del sistema privado electrónico de pago, las cuales se rigen por la legislación en la materia.
+6. (DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ### Capítulo VIII. De las personas usuarias de los vehículos particulares
 
@@ -1267,9 +1311,17 @@ I. Implementar acciones y mecanismos dentro de los sistemas de movilidad y segur
 
 II. Incluir en las estrategias e instrumentos de movilidad y seguridad vial, acciones afirmativas y con perspectiva de género para prevenir y erradicar las violencias de género. Dichas acciones serán implementadas bajo el principio de transversalidad con las autoridades competentes en los ámbitos de seguridad ciudadana, derechos humanos, entre otras. Esto también incluirá la capacitación en la materia y sensibilización de género de las personas responsables de diseñar, operar y evaluar los sistemas de movilidad;
 
-III. Considerar en la planeación de la movilidad y la seguridad vial los criterios y contenido de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y demás legislación local en materia de prevención de la violencia en razón de género, así como incorporar recomendaciones y políticas para asegurar la integridad, dignidad y libertad de las mujeres al hacer uso de la vía, emitidas por las autoridades en la materia; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-IV. Las demás que establezcan las autoridades competentes.
+III. Considerar en la planeación de la movilidad y la seguridad vial los criterios y contenido de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y demás legislación local en materia de prevención de la violencia en razón de género, así como incorporar recomendaciones y políticas para asegurar la integridad, dignidad y libertad de las mujeres al hacer uso de la vía, emitidas por las autoridades en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2023)</small>
+
+IV. Considerar en la prestación del Servicio de Transporte Público, así como del Servicio de Transporte Privado de Punto a Punto, los protocolos en materia de seguridad para las mujeres, así como promover entre las personas conductoras de los vehículos en que se presta el servicio, los cursos que la Secretaría en coordinación con la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres se implementen, en la forma y periodicidad que establezca el reglamento; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+V. Las demás medidas de seguridad que establezcan las autoridades competentes.
 
 ### Capítulo X. De los derechos de las víctimas
 
@@ -1777,7 +1829,9 @@ XLV. Las demás que se establezcan en esta Ley, sus reglamentos y en otros orden
 
 Atribuciones técnicas y administrativas.
 
-1. El ayuntamiento ejercerá sus atribuciones técnicas y administrativas en materia de movilidad, seguridad vial y transporte, e intervendrá en la formulación y aplicación de los programas de transporte de personas pasajeras, a través de la dependencia que se determine en la legislación municipal y, en su caso, en el reglamento correspondiente.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+1. El ayuntamiento ejercerá sus atribuciones técnicas y administrativas en materia de movilidad, seguridad vial y transporte en el ámbito de su competencia, e intervendrá en la formulación y aplicación de los programas de transporte, a través de la dependencia que se determine en la legislación municipal y, en su caso, en el reglamento correspondiente.
 
 ###### Artículo 63.
 
@@ -2323,7 +2377,13 @@ Instrumentos de planeación.
 
 Registro.
 
-1. El Registro Estatal es la base de datos del Ejecutivo en donde se administra, reúne y procesa la información relativa a los registros e inscripciones de licencias de conducir, concesiones, permisos, autorizaciones, empresas de redes de transporte, registro de vehículos de servicio público del Estado y las modificaciones que sufran y los derechos legalmente constituidos sobre las mismas, así como de la movilidad motorizada de uso particular.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+1. El Registro Estatal es la base de datos del Ejecutivo en donde se administra, reúne y procesa la información relativa a los registros e inscripciones de licencias de conducir, concesiones, permisos, autorizaciones, registro de vehículos de servicio público del Estado y las modificaciones que sufran y los derechos legalmente constituidos sobre las mismas, así como de la movilidad motorizada de uso particular.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. El Registro Estatal también contemplará las bases de datos con la información relativa a los servicios de transporte privado con motivo de los Servicios de Transporte Privado de Punto a Punto.
 
 ###### Artículo 95.
 
@@ -2347,7 +2407,13 @@ VI. La Secretaría prestará la asistencia técnica necesaria y se coordinará c
 
 Padrón.
 
-1. El Registro Estatal contará con el padrón de personas conductoras y operadoras que presten el servicio público de transporte de personas pasajeras en sus modos de transporte masivo, colectivo, taxi con sitio, radio taxi, transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, transporte comunitario, así como los que al efecto establezca la presente Ley y su reglamento.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+1. El Registro Estatal contará con el padrón de personas conductoras y operadoras que presten el servicio público de transporte de personas pasajeras en sus modos de transporte masivo, colectivo, taxi con sitio, radio taxi, transporte comunitario, así como los que al efecto establezca la presente Ley y su reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. El Registro Estatal también contará con los padrones de personas conductoras que presten los Servicios de Transporte Privado de Punto a Punto.
 
 ###### Artículo 97.
 
@@ -2385,27 +2451,47 @@ VIII. Las unidades pertenecientes a empresas cuya actividad sea específicamente
 
 IX. Las cédulas de notificación de infracción y la demás información relevante, relacionada con la administración del servicio público de transporte, actos y documentos que dispongan esta Ley y sus reglamentos;
 
-X. Las autorizaciones para la operación de empresas de redes de transporte;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-XI. Las aplicaciones móviles a través de las cuales las empresas de redes de transporte, gestionen los servicios de transporte público en los modos que así lo permita la Ley y su reglamento, así como las páginas de internet que se encuentren vinculadas a aquéllas;
+X. Las Empresas de Redes de Transporte;
 
-XII. Las personas conductoras de vehículos de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-XIII. La unidad vehicular que preste el servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, así como su autorización correspondiente;
+XI. Las aplicaciones móviles a través de las cuales las empresas de redes de transporte, gestionen los Servicios de Transporte Privado de Punto a Punto, en la forma que determinen las disposiciones legales aplicables, así como las páginas de internet que se encuentren vinculadas a aquéllas;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+XII. La persona conductora de vehículos de los Servicios de Transporte Privado de Punto a Punto mediante aplicaciones móviles;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+XIII. La unidad vehicular que preste el Servicio de Transporte Privado de Punto a Punto mediante aplicaciones móviles;
 
 XIV. Registro del representante de los sitios o matrices de control del servicio de taxi, radio taxi; así como del representante legal de las empresas de redes de transporte;
 
-XV. Por el registro de placas y holograma de seguridad de servicio de transporte público y de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+XV. El registro de placas y holograma de seguridad de servicio de transporte público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2023)</small>
+
+XV Bis. El registro de placas y holograma distintivo del Servicio de Transporte Privado de Punto a Punto;
 
 XVI. Registro de renovación de autorización para operar como empresas de redes de transporte;
 
-XVII. Registro del contrato de adhesión bajo el cual prestan sus servicios las empresas de redes de transporte; y
+XVII. (DEROGADA, P.O. 1 DE AGOSTO DE 2023)
 
-XVIII. Registro e inscripción de cursos de capacitación dirigidos a personas conductoras del transporte de personas pasajeras bajo demanda mediante aplicaciones móviles.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2023)</small>
+
+XVIII. Registro e inscripción de cursos de capacitación dirigidos a personas conductoras del servicio de transporte público; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+XIX. Registro e inscripción de cursos de capacitación dirigidos a personas conductoras del Servicio de Transporte Privado de Punto a Punto mediante aplicaciones móviles.
 
 2. Cuando los actos que deban inscribirse en el Registro Estatal, no se inscriban, si no contravienen las disposiciones de esta Ley, sólo surtirán efectos entre los otorgantes, pero no podrán producir perjuicio a terceros, quienes sí podrán aprovecharlos en lo que les fueren favorables.
 
-3. Lo dispuesto en el párrafo anterior, no se aplicará a aquellos casos en los que se preste un servicio de transporte público mediante aplicaciones móviles, así como a las empresas de redes de transporte; quienes para su explotación y funcionamiento, respectivamente, deberán de acreditar el registro e inscripción de todos los actos jurídicos y administrativos que de conformidad con esta Ley o sus reglamentos deban ser incorporados al Registro Estatal.
+3. (DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 4. El registro e incorporación de los actos jurídicos y administrativos que, por disposición de esta Ley y su reglamento, deban ser inscritos en el Registro Estatal, se realizará preferentemente a través de formatos y medios electrónicos que para ello dispongan las autoridades competentes en la materia.
 
@@ -2835,7 +2921,7 @@ VI. En casos distintos a los anteriores, conforme a las disposiciones del Reglam
 
 2. Los permisos a que se refiere este artículo en los casos previstos en las fracciones I a IV numeral 1, tendrán una vigencia máxima de hasta quince días.
 
-3. En ningún caso se autorizará provisionalmente la circulación de las unidades vehiculares destinadas a la prestación del servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, que no cuenten con la documentación completa.
+3. (DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 131.
 
@@ -2925,7 +3011,9 @@ Sanciones por alcoholemia.
 
 2. Para las personas que conduzcan motocicletas queda prohibido hacerlo con una alcoholemia superior a cero punto cero uno miligramos por litro en aire espirado o cero punto cero dos gramos por decilitros en sangre.
 
-3. Las personas conductoras de vehículos destinados al servicio de transporte de personas pasajeras, de transporte de carga, transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, o de transporte de sustancias tóxicas o peligrosas, o de personas menores de edad, no deben presentar ninguna cantidad de alcohol en la sangre o en aire espirado, o síntomas simples de aliento alcohólico o de estar bajo los efectos de narcóticos.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+3. Las personas conductoras de vehículos destinados al servicio de transporte público en todos sus modos, o de personas menores de edad, no deben presentar ninguna cantidad de alcohol en la sangre o en aire espirado, o síntomas simples de aliento alcohólico o de estar bajo los efectos de narcóticos.
 
 4. La policía vial autorizada para realizar las pruebas necesarias referidas en el presente capítulo, serán considerados como peritos oficiales y fungirán como auxiliares del Ministerio Público. Consecuentemente, dichas pruebas serán incluidas en la averiguación previa que en su caso se integre.
 
@@ -3343,7 +3431,9 @@ Licencias para Transporte Público.
 
 1. La persona operadora de vehículos del servicio de transporte público colectivo de personas pasajeras en el estado de Jalisco, deberá contar con licencia de conductor de servicios de transporte público vigente, expedida por la Secretaría.
 
-2. Para conducir vehículos destinados al transporte público de personas pasajeras en taxi en todos sus modos, así como los de empresas de redes de transporte mediante aplicaciones móviles, se requerirá licencia de conductor de servicios de transporte público en el modo correspondiente y la misma deberá estar vigente.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. Para conducir vehículos destinados al transporte público de personas pasajeras en taxi en todos sus modos, se requerirá licencia de conductor de servicios de transporte público en el modo correspondiente y la misma deberá estar vigente.
 
 3. Las personas conductoras y operadoras del transporte público de transporte, deberán acreditar que se encuentran en pleno goce de sus derechos civiles y políticos y no haber sido condenado por delito doloso, o contar con medidas restrictivas en materia de seguridad que atenten contra la protección de las mujeres.
 
@@ -3365,7 +3455,7 @@ a) Colectivo;
 
 b) Taxi en todos sus modos; y
 
-c) Empresas de redes de transporte mediante aplicaciones móviles.
+c) (DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 V. Personas operadoras de maquinaria y equipo móvil especial; y
 
@@ -3589,13 +3679,25 @@ Clasificación por su uso.
 
 1. Los vehículos, atendiendo a las actividades en que se utilicen y para los efectos de esta ley, se clasifican en:
 
-I. De uso privado: los utilizados en el transporte de personas u objetos, para satisfacer las necesidades particulares de las personas propietarias o poseedoras legales, ya sean éstos personas físicas o jurídicas, sin que dicho transporte constituya de manera alguna actividad remunerada o profesional;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+I. De uso privado:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+a) Los utilizados en el transporte de personas u objetos, para satisfacer las necesidades particulares de las personas propietarias o poseedoras legales, ya sean éstos personas físicas o jurídicas, sin que dicho transporte constituya de manera alguna actividad remunerada o profesional; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2023)</small>
+
+b) Los utilizados para el Servicio de Transporte Privado de Punto a Punto, previstos en el Título Décimo Bis de la presente Ley.
 
 II. De transporte público: los destinados para el transporte de personas o cosas, cuando esta actividad constituya un servicio que administre el Estado u opere indirectamente, o realicen funciones de transporte público y se clasifican en:
 
 a) Taxi con sitio y radio taxi: los empleados para el transporte de personas sin sujeción a itinerarios fijos, mediante el pago de un precio que se determinará según la tarifa de taxímetro o zona correspondiente, y autorizados en sitios o asignados a centros de control;
 
-b) De personas pasajeras: los destinados al transporte urbano, suburbano o foráneo y rural de personas en general, en viajes regulares, con itinerarios y horarios; los utilizados para el transporte público bajo demanda mediante aplicaciones móviles; los destinados para desplazamientos turísticos en zonas urbanas ya sea por tracción animal o mecánica, los dedicados al transporte urbano o suburbano de personas escolares o de personas trabajadoras o personas turistas, en recorridos especiales, todos, mediante el pago de un precio, que acorde al modo se determinará según la tarifa y sistema de cobro correspondiente;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+b) De personas pasajeras: los destinados al transporte público urbano, suburbano o foráneo y rural de personas en general, en viajes regulares, con itinerarios y horarios; los destinados para desplazamientos turísticos en zonas urbanas ya sea por tracción animal o mecánica, los dedicados al transporte urbano o suburbano de personas escolares o de personas trabajadoras o personas turistas, en recorridos especiales, todos, mediante el pago de un precio, que acorde al modo se determinará según la tarifa y sistema de cobro correspondiente;
 
 c) Individual: los destinados al transporte urbano, suburbano y turístico de uso individual de personas, para viajes de corta duración, mediante el pago de un precio, que acorde al modo se determinará según la tarifa y sistema de cobro correspondiente;
 
@@ -4157,7 +4259,7 @@ VII. De carga liviana con sitio;
 
 VIII. De autos de arrendamiento;
 
-IX. los servicios que ofertan las empresas de redes de transporte mediante aplicaciones móviles; y
+IX. (DEROGADA, P.O. 1 DE AGOSTO DE 2023); y
 
 X. Transporte comunitario.
 
@@ -4215,7 +4317,7 @@ f) De vehículos auto-escuela para el aprendizaje de manejo;
 
 g) De carga liviana con sitio;
 
-h) De personas pasajeras bajo demanda mediante aplicaciones móviles; y
+h) (DEROGADO, P.O. 1 DE AGOSTO DE 2023); y
 
 i) Transporte comunitario.
 
@@ -4471,7 +4573,7 @@ II. Identificar a la persona concesionaria y al vehículo asignado; y
 
 III. Señalar el precio o cuota pagado por la persona usuaria.
 
-2. Para el caso del servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles no será obligación la expedición de boletos, sin embargo, se deberá extender a la persona usuaria el comprobante fiscal o factura electrónica correspondiente mediante los mecanismos electrónicos que se dispongan en la aplicación móvil de contratación, la expedición del comprobante antes mencionado deberá de cumplir con los requisitos previstos en el reglamento respectivo.
+2. (DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 3. Las personas concesionarias quedarán relevados de entregar boletos mas no de entregar comprobantes a las personas usuarias correspondientes, cuando el pago de los servicios se realice mediante medio de pago sin dinero en efectivo y en el vehículo correspondiente se pongan a disposición de las personas usuarias, en los términos previstos en el reglamento de esta Ley, los comprobantes que podrán ser trípticos o documentos similares que contengan información en relación con el seguro de responsabilidad civil que los protege contra los riesgos en su transportación, así como los montos de cobertura y formas de hacer efectivo el pago.
 
@@ -4483,7 +4585,9 @@ Constancia o póliza de seguro.
 
 1. Las personas concesionarias, permisionarias y sujetos de autorización del servicio público de transporte deberán obtener y conservar vigente constancia o póliza de seguro de cobertura amplia, de acuerdo con la reglamentación que al respecto se expida.
 
-2. En caso que la póliza de seguro no se encuentre vigente, serán responsables solidarios los sujetos de autorización permisionarios, los operadores y las empresas de redes de transporte a las que se encuentren afiliados o asociados, hasta por el monto igual de las sumas aseguradas en la póliza del seguro del vehículo. Para tal efecto, las empresas de redes de transporte podrán contar con un seguro que cubra dicha responsabilidad.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. En caso (sic) que la póliza o constancia de seguro no se encuentre vigente, serán responsables solidarias las personas sujetas de concesión, autorización, permisionarios, hasta por el monto igual de las sumas aseguradas en la póliza o constancia del seguro del vehículo.
 
 ###### Artículo 259.
 
@@ -4495,7 +4599,7 @@ I. Identificar las unidades de transporte habilitadas para el servicio de person
 
 II. Ofrecer servicios y atenciones especiales a las personas usuarias en los modos que la persona concesionaria considere convenientes.
 
-2. No se aplicará lo dispuesto en el presente artículo a el modo de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles.
+2. (DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 260.
 
@@ -4575,9 +4679,7 @@ Transporte público 10 años 15 años 15 años 20 años
 
 suburbano
 
-Empresas de redes de 5 años 5 años 10 años 10 años
-
-transporte
+> <small>(DEROGADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
 Taxi o radiotaxi 10 años 10 años 12 años 15 años
 
@@ -4605,7 +4707,9 @@ Grúas Tipo C y D 15 años 20 años 20 años 25 años
 
 Transporte comunitario 5 años 5 años 7 años 7 años
 
-2. Deberán ser sustituidos por las personas prestadoras del servicio, cuando se cumpla este período; en el caso de los vehículos del transporte masivo de personas pasajeras y los del transporte colectivo de personas pasajeras, estos últimos que utilicen gas natural, sean vehículos eléctricos o híbridos, se podrá prorrogar la sustitución por un periodo de hasta cinco años más, como beneficio por la eficiencia energética y ambiental, previo dictamen técnico sobre contaminantes a la atmósfera emitido por la Secretaría de Medio Ambiente y Desarrollo Territorial conforme a la (sic) Normas Oficial (sic) Mexicanas; además de la revista mecánica por parte de la Secretaría.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. Deberán ser sustituidos por las personas prestadoras del servicio, cuando se cumpla este período; en el caso de los vehículos del transporte masivo de personas pasajeras y los del transporte colectivo de personas pasajeras, estos últimos que utilicen gas natural, sean vehículos eléctricos o híbridos, se podrá prorrogar la sustitución por un periodo de hasta cinco años más, como beneficio por la eficiencia energética y ambiental, previo dictamen técnico sobre contaminantes a la atmósfera emitido por la Secretaría de Medio Ambiente y Desarrollo Territorial conforme a las Normas Oficiales Mexicanas; además de la revista mecánica por parte de la Secretaría.
 
 3. Las suspensiones o en su caso la revocación de permisos, autorizaciones o de concesiones, se estará a lo que dispone el capítulo XV del Título Décimo de esta Ley.
 
@@ -4989,199 +5093,57 @@ Lineamientos del transporte turístico.
 
 1. Las personas operadoras y ayudantes en la prestación del servicio de transporte exclusivo de turismo, así como los vehículos destinados al mismo, deberán de llenar los requisitos que establezca el reglamento de esta Ley.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2023)</small>
+
 ### Capítulo XIII. De las autorizaciones para prestar servicios de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles
 
 ###### Artículo 301.
 
-Generalidades.
-
-1. Los vehículos que presten el servicio en este modo deberán contar con autorización del Estado otorgada por conducto de la Secretaría, cuya vigencia no será mayor a un año.
-
-2. El servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, es el que se contrata y se paga conforme a los métodos establecidos que pongan a su disposición las empresas de redes de transporte autorizadas por la Secretaría.
-
-3. Los vehículos afectos a la prestación del servicio contemplado en el presente capítulo, deberán cumplir con los estándares de servicios, de los tipos de unidades y su equipamiento, así como de la calidad y cantidad de información que las Empresas de redes de transporte tendrán que proporcionar a la Secretaría, lo anterior en apego a las disposiciones legales, reglamentarias aplicables, atendiendo la norma técnica en la materia.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 302.
 
-Características.
-
-1. El servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, se contratará exclusivamente a través de la empresa de redes de transporte autorizada por la Secretaría.
-
-2. Los prestadores del servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles no podrán realizar oferta directa en la vía pública, ni podrán hacer sitio, matriz, base o similares.
-
-3. El servicio de taxi y radio taxi podrá hacer uso de aplicaciones móviles para la vinculación de los servicios que prestan a través de empresas de redes de transporte autorizadas por la Secretaría.
-
-4. Las empresas de redes de transporte, tendrán estrictamente prohibido ofrecer o contratar sus servicios a través de medios diversos a los previstos por esta Ley y su reglamento.
-
-5. Por seguridad de las personas usuarias y conductoras, para las autorizaciones señaladas en este capítulo, los vehículos en los que se brinde el servicio, no deberán usar cristales polarizados u otros elementos que impidan totalmente la visibilidad hacia el interior del vehículo, o polarizado de cualquier intensidad en el parabrisas del vehículo, independientemente de las sanciones que procedan.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 303.
 
-Requisitos.
-
-1. Las autorizaciones a que se refiere el presente capítulo, así como su correspondiente renovación, se expedirán conforme se acredite lo siguiente:
-
-I. Se otorgarán a personas físicas o jurídicas propietarias del vehículo que se pretenda destinar a este modo de transporte previo pago de los derechos correspondientes;
-
-II. Contar con una póliza de seguro de cobertura amplia, debiendo presentar para esos efectos, la póliza vigente y el recibo de pago correspondiente;
-
-III. Que el vehículo cumpla con los requisitos previstos en el artículo 217 de esta Ley;
-
-IV. Que el vehículo se encuentre libre de adeudos ante la Secretaría de la Hacienda Pública;
-
-V. Acreditar haber cumplido con el programa de verificación vehicular semestral que emita la Secretaría de Medio Ambiente y Desarrollo Territorial de acuerdo con el calendario oficial de verificación vigente en el Estado;
-
-VI. Cumplir con las condiciones mecánicas y de seguridad previstas en las disposiciones reglamentarias aplicables; y
-
-VII. Tratándose de la primera autorización, el modelo del vehículo que se pretenda destinar para la prestación del servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, no podrá ser mayor a cinco años de antigüedad.
-
-2. Sin perjuicio de los requisitos que establezca la presente Ley, su reglamento y demás disposiciones aplicables en la materia, el otorgamiento de la renovación de la autorización a que se refiere éste artículo estará condicionado al cumplimiento de disposiciones relativas al programa de verificación vehicular.
-
-3. El vehículo autorizado para este modo no podrá continuar prestando el servicio, y por tanto quedará sin efectos la autorización respectiva otorgada por la Secretaría, cuando el modelo de la unidad exceda de ocho años de antigüedad o bien, de diez años en caso de vehículos híbridos o eléctricos, en este último supuesto podrán utilizarse modelos de hasta doce años de antigüedad previo dictamen que emita la Secretaría.
-
-4. Los documentos que vía electrónica se presenten para acreditar el cumplimiento de los anteriores requisitos, estarán sujetos a revisión y comprobación por parte de la autoridad competente, aún y cuando se hubiese expedido la autorización correspondiente; por lo que podrán ser requeridos por la Secretaría durante la vigencia de la misma, para presentar documentos de manera física a efecto de comprobar su autenticidad.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 304.
 
-Improcedencia de autorizaciones.
-
-1. Con independencia de los requisitos que establezca esta Ley y demás disposiciones jurídicas, el otorgamiento de las autorizaciones a que se refiere el presente capítulo, será improcedente, en los siguientes casos:
-
-I. Cuando a consecuencia de su otorgamiento se establezca una competencia ruinosa entre sujetos de autorización del mismo servicio público en términos de lo establecido por el artículo 250 de esta Ley;
-
-II. Cuando con su otorgamiento se cause un colapso en las vías de comunicación de jurisdicción estatal o municipal por saturación vehicular;
-
-III. Cuando con motivo de su autorización se llegare a causar un impacto negativo al sistema de transporte público provocando un crecimiento inmoderado del mismo; y
-
-IV. Cuando se contravenga alguno de los principios rectores de la movilidad que establece la presente Ley y su reglamento.
-
-2. Lo anterior, previo estudio que realice el Instituto o la Secretaría, según corresponda, para tal efecto.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 305.
 
-Prohibiciones de las autorizaciones.
-
-1. Las autorizaciones otorgadas y los derechos que de las mismas se deriven, no serán susceptibles de transmisión o sucesión alguna.
-
-2. Por lo que al sujeto de la autorización le queda estrictamente prohibida toda transmisión o cesión de los derechos que la misma le conceda; cualquier estipulación o pacto de voluntades en contrario, quedará sin efectos con independencia de las responsabilidades a que diera lugar.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 306.
 
-Derechos y obligaciones.
-
-1. Los propietarios de los vehículos destinados a la prestación del servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, tendrán los siguientes derechos y obligaciones:
-
-I. Inscribir su autorización para prestar el servicio de transporte en el modo correspondiente y la unidad vehicular objeto de la misma; así como mantener actualizada su inscripción en el Registro Estatal;
-
-II. Solicitar la renovación de su autorización;
-
-III. Hacer llegar a la dirección de correo electrónico registrada por la persona usuaria en la aplicación móvil el comprobante de pago o factura electrónica correspondiente;
-
-IV. Cumplir oportunamente con el calendario de verificación vehicular semestral, así como realizar la revista mecánica correspondiente en los términos que establece la presente Ley y sus disposiciones reglamentarias;
-
-V. Colaborar con las autoridades señaladas en la fracción XIX del artículo 310 de esta Ley y en los términos que dicha fracción establece, mediante requerimiento fundado y motivado; y
-
-VI. Las demás señaladas en las disposiciones legales y reglamentarias aplicables.
-
-2. El cumplimiento de las anteriores disposiciones, salvo la dispuesta en la fracción V del numeral 1 del presente artículo, se llevará a cabo por la empresa de redes de transporte a través de la cual se gestionen sus servicios, en términos de la presente Ley y los ordenamientos que de ella emanen.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 307.
 
-Empresas de redes de transporte.
-
-1. Las empresas de redes de transporte son aquellas sociedades mercantiles titulares de los derechos de propiedad intelectual de una aplicación móvil, o que cuenten con licencia para su uso, sea franquiciataria o se encuentre afiliada a alguno de los anteriores de tal forma que tenga derechos para el aprovechamiento o administración de la aplicación móvil; cuyo servicio se limita exclusivamente a gestionar servicios de transporte, vinculando a través de dicha aplicación a personas usuarias de transporte público de punto a punto con prestadores del servicio registrados y autorizados en cualquiera de sus modos.
-
-2. En cualquier caso, las empresas de redes de transporte serán consideradas obligados solidarios de las personas propietarias y conductoras de los vehículos afectos al servicio público de transporte, frente al Estado, las personas usuarias del servicio y terceros, por la responsabilidad civil, que pudiera surgir con motivo de su operación, la derivada de la prestación del servicio público de transporte, únicamente hasta por un monto igual a las sumas aseguradas en la póliza de seguro del vehículo.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 308.
 
-Autorización para empresas de redes de transporte.
-
-1. Las empresas de redes de transporte para su operación, requerirán obtener autorización del Ejecutivo por conducto de la Secretaría y deberán de inscribirse en el Registro Estatal.
-
-2. Las autorizaciones para su operación tendrán una duración de un año, las que podrán otorgarse y renovarse anualmente, siempre que éste se encuentre prestando el servicio, no se afecte el interés público, se cumplan los requisitos señalados en esta Ley y el reglamento respectivo, y previo el pago de derechos que para ello establezca la legislación aplicable así como la suscripción del convenio a que se refiere el artículo 310 fracción XVII de la presente Ley.
-
-3. Las autorizaciones a que se refiere el presente capítulo únicamente se otorgarán a sociedades mercantiles constituidas conforme a leyes mexicanas, con domicilio fiscal dentro del Estado de Jalisco, cuyo objeto social sea el de operar como empresas de redes de transporte o gestionar servicios de transporte mediante una aplicación móvil o plataforma tecnológica de la cual sean titulares de los derechos de propiedad intelectual, cuenten con licencia para su uso, sea franquiciataria o se encuentre afiliada a alguno de los anteriores de tal forma que tenga derechos para el aprovechamiento o administración de la aplicación móvil y cumplan con los requisitos que para tal efecto establezca la presente Ley y su reglamento.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 309.
 
-Renovación de la autorización.
-
-1. A fin de obtener la renovación de la autorización, las empresas de redes de transporte deberán:
-
-I. Presentar solicitud por escrito a más tardar tres meses antes al vencimiento de la autorización, ante la Secretaría, acompañando la documentación requerida en los términos del reglamento respectivo;
-
-II. Acreditar el cumplimiento de los requisitos y obligaciones correspondientes en la forma que precise la presente Ley, su reglamento y las Normas Técnicas en la materia; y
-
-III. Comprobar que está al corriente en el pago de las contribuciones relacionadas con los vehículos, personas conductoras y demás elementos del servicio o, en su caso, haber asegurado el interés fiscal.
-
-2. La falta de solicitud de la renovación en el plazo previsto en este artículo se considerará como renuncia al derecho de renovación.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 310.
 
-Derechos y Obligaciones.
-
-1. Las empresas de redes de transporte tendrán los siguientes derechos y obligaciones:
-
-I. Garantizar que el servicio público de transporte que ofrecen se preste acatando las normas de calidad, seguridad y operación correspondientes a su modo y clase, que se establecen en esta Ley, su reglamento y Normas técnicas conforme a la autorización correspondiente;
-
-II. Proteger, orientar y respetar a las personas usuarias del servicio y a las personas conductoras operadoras que presten el servicio público de transporte, obligándose además a implementar en su programa informático o plataforma electrónica los mecanismos de seguridad necesarios que permitan la identificación tanto de la persona usuaria como de la persona conductora al momento de la asignación y prestación del servicio;
-
-III. Implementar en su programa informático o plataforma electrónica las medidas necesarias para garantizar durante la prestación del servicio, la seguridad tanto de las personas usuarias del servicio y a las personas conductoras operadoras del servicio público de transporte, mediante el uso de mecanismos de alerta, botón de auxilio que vincule a las personas a los servicios de emergencia, directo en la aplicación móvil que se encuentre visible y accesible en los términos que establezca la presente Ley, su reglamento y la normatividad aplicable;
-
-IV. Notificar de manera inmediata a la Fiscalía General del Estado de Jalisco, así como a la Secretaría, alertas del sistema de auxilio que vincule a las personas a los servicios de emergencia, estableciendo interconexión y vinculación que facilite a las autoridades correspondientes la geolocalización y datos del vehículo para la debida atención y seguimiento en los términos que establezca la presente Ley, su reglamento, la Normatividad y protocolos de emergencia aplicables;
-
-V. Solicitar identificación oficial a las personas usuarias del servicio y a las personas conductoras operadoras del servicio público de transporte, como requisito para darlos de alta en su programa informático o plataforma electrónica, así como en el padrón de personas usuarias del servicio. Además las personas conductoras operadoras del servicio público de transporte, deberán acreditar cursos de capacitación y de sensibilización en materia de acoso sexual, violencia de género, trata de personas, perspectiva de género y derechos humanos, así como los demás documentos que acrediten los requisitos previstos en la presente Ley, su reglamento y las normas para el reclutamiento, para el registro y autorización que corresponda, debiendo proteger y resguardar los datos personales de conformidad con lo establecido en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios, la presente Ley, su reglamento, la Normatividad y protocolos de emergencia aplicables;
-
-VI. Registrar, alimentar y mantener actualizado el padrón de personas conductoras operadoras del servicio público de transporte en los términos previstos en la presente Ley, su reglamento, la Normatividad y protocolos de emergencia aplicables;
-
-VII. Solicitar como requisito para dar de alta en su programa informático o plataforma electrónica de la persona usuaria, copia de su identificación oficial o clave única de registro de población, debiendo proteger y resguardar los datos personales de conformidad con lo establecido en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios;
-
-VIII. Establecer mecanismos que otorguen certeza a las y las (sic) personas usuarias respecto de que la persona conductora operadora del vehículo registrado en su aplicación móvil para prestar el servicio, así como adherir al vehículo los distintivos u hologramas que contengan elementos de comprobación y validación mediante códigos QR y demás elementos que al efecto determine la Secretaría en los términos de la presente Ley, su reglamento y disposiciones normativas aplicables;
-
-IX. En caso de fallecimiento de la persona conductora, durante la prestación del servicio, la empresa de redes de transporte o el seguro contratado por ésta, pagará a los beneficiarios que corresponda según la normativa aplicable, el equivalente a ciento veinte unidades de medida y actualización;
-
-X. Ofrecer los incentivos que éstas determinen a sus personas conductoras en activo;
-
-XI. En caso que la póliza de seguro de uno de los prestadores del servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles registrado en la empresa de redes de transporte correspondiente, no se encuentre vigente, deberán responder de manera solidaria con éstos, por los daños que puedan causarse tanto a las personas ocupantes del vehículo, terceras ó conductoras, tanto en sus bienes como en sus personas, por siniestros de tránsito ocurridos con motivo de la prestación del servicio, únicamente hasta por el monto igual a las sumas aseguradas requeridas para la póliza del seguro del vehículo;
-
-XII. Verificar que los vehículos y personas conductoras que presten el servicio de transporte de personas pasajeras bajo demanda mediante la aplicación móvil que administren cumplan con los requisitos, acreditaciones, evaluaciones, verificaciones y capacitaciones que para ese modo establezca esta Ley, su reglamento, normatividad y protocolos de actuación que al efecto se emitan;
-
-XIII. Inscribirse y mantener actualizada su incorporación en el Registro Estatal, así como del Padrón de personas conductoras que presten el servicio de transporte de personas pasajeras bajo demanda mediante la aplicación móvil, en los términos que al efecto establezca el reglamento de la presente Ley;
-
-XIV. Solicitar la renovación de la autorización para su funcionamiento;
-
-XV. Registrar los vehículos y las personas conductoras cuyo servicio se contrate mediante la aplicación móvil que administre, en los términos que disponga esta Ley y su reglamento y la Norma Técnica en la materia;
-
-XVI. Mantener en sus aplicaciones móviles y página web de manera visible, permanente y de fácil acceso, las tarifas de cobro; así como implementar un sistema de cálculo de tarifas cuando el modo del servicio contratado así lo permitan (sic);
-
-XVII. Crear y mantener una página web permanente y vinculada a la aplicación móvil que administren, a efecto de poner a disposición del público, el catálogo de los vehículos que presten sus servicios a través de esa empresa de redes de transporte, los contratos de adhesión y condiciones de la prestación del servicio, así como protocolos de actuación en caso de que la persona usuaria se encuentre ante una situación de riesgo que pueda afectar su integridad o sea víctima de la probable comisión de delitos y los protocolos o guías del deber actuar de la persona conductora que preste el servicio de transporte de personas pasajeras bajo demanda mediante la aplicación móvil, para poder auxiliar;
-
-XVIII. Compartir con la Secretaría, la base de datos que contengan (sic) la información de las personas conductoras que preste el servicio de transporte de personas pasajeras bajo demanda mediante la aplicación móvil y propietarios de vehículos afectos al servicio que se encuentren afiliados a la aplicación móvil que administren, el número de vehículos que tiene o conduce cada uno y sus características, así como la información de incidencias y estadística que generen con motivo de la prestación del servicio de transporte; debiendo proteger y resguardar la relativa a los datos personales de las personas usuarias conforme a la legislación en la materia;
-
-XIX. Prestar sin dilación alguna, todas las facilidades e información que le requieran las autoridades estatales, federales y municipales en el ejercicio de sus funciones. Tratándose de procesos de investigación Judicial o Ministerial, los datos personales de las personas propietarias, personas conductoras que presten el servicio de transporte de personas pasajeras bajo demanda mediante la aplicación móvil de los vehículos y deberán proporcionarlos en los términos de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios;
-
-XX. Verificar por lo menos de forma anual, que los vehículos que presten el servicio de transporte de personas de personas pasajeras bajo demanda mediante la aplicación móvil bajo demanda mediante la aplicación móvil que administren, cuenten con sistema de Posicionamiento Global (GPS) y cumplan con las condiciones mecánicas, tecnológicas y de seguridad previstas en las disposiciones legales, reglamentarias y normativas aplicables, y en caso de incumplimiento proceder a dar de inmediato de baja a la persona conductora de su aplicación móvil y notificar a la Secretaría para la debida actualización en el padrón de personas conductoras y de personas conductoras que presten el servicio de transporte de personas pasajeras bajo demanda mediante la aplicación móvil;
-
-XXI. Garantizar en los procesos de reclutamiento y actualización de información que las personas propietarias y conductoras de los vehículos que presten el servicio de transporte en sus plataformas electrónicas, no cuenten con antecedentes de la comisión de delitos doloso (sic) sobre los cual hubiere recaído sentencia condenatoria derivados de delitos contra la seguridad y libertad sexual, así como los delitos de secuestro, extorsión y privación ilegal de la libertad, debiendo actualizar cada año dicha información mediante los mecanismos conducentes. En caso contrario, procederá de inmediato a dar de baja a la persona conductora de su aplicación móvil, para la prestación del servicio en este modo;
-
-XXII. Suscribir con el Estado un convenio de colaboración para la constitución de un fondo económico al que podrán aportar las empresas de redes de transporte, cuyos recursos se destinarán a los fines o programas públicos que se determinen en el presupuesto de egresos respectivo;
-
-XXIII. Promover medidas que le garanticen a la persona usuaria del servicio, poder abrir puertas y ventanas del vehículo para acceder al exterior en todo momento, como medida de seguridad y prevención de todo tipo de violencia; y
-
-XXIV. Participar en los procesos de formación de capacidades para la ejecución del protocolo de seguridad a mujeres usuarias de servicios de aplicación móvil y taxis, del cual una vez concluida y completada la capacitación deberán contar con el distintivo que al efecto otorgue la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres del Estado de Jalisco.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 311.
 
-Comprobante de servicio.
-
-1. Las empresas de redes de transporte, deberán hacer llegar a la dirección de correo electrónico registrada por la persona usuaria en la aplicación móvil un comprobante que acredite el pago del servicio, que cumpla con los requisitos que para esos efectos establece esta Ley y su reglamento, así como marcar la ruta completa del viaje realizado, datos de la persona conductora, los datos del vehículo registrado por la empresa, dichos datos deben mantener coincidencia en los términos establecidos en la fracción XV del artículo anterior.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 312.
 
-Excepción a las redes de transporte.
-
-1. Los servicios de gestión de transporte y plataformas tecnológicas o sistemas electrónicos para contratación, pago y prepago que implemente el Estado tendientes a la mejora del servicio de transporte público en todos sus modos, no serán considerados como una empresa de redes de transporte en cualquiera de sus modos.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ### Capítulo XIV. De las autorizaciones para prestar servicio de transporte comunitario
 
@@ -5591,11 +5553,15 @@ Mecanismos para subsidio.
 
 1. Los recursos del Fondo de Apoyo para las Personas Usuarias del Transporte Público, se otorgarán a través de los mecanismos establecidos para la operación del Sistema Integrado de Recaudo para los Sistemas de Transporte Público Masivo y Colectivo, o los mecanismos que determine el Ejecutivo, a través de la Secretaría, que garanticen el otorgamiento efectivo del subsidio en favor de los beneficiarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 340.
 
 De la aplicación de tarifas.
 
-1. Las personas concesionarias y en general, las personas operadoras de servicios públicos de transporte masivo y colectivo, a excepción del servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, deberán de aplicar las tarifas previstas en el presente capítulo.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+1. Las personas concesionarias y en general, las personas operadoras de servicios públicos de transporte masivo y colectivo, deberán de aplicar las tarifas previstas en el presente capítulo.
 
 ###### Artículo 341.
 
@@ -5611,11 +5577,7 @@ Taxímetro.
 
 ###### Artículo 343.
 
-Pago en servicio mediante aplicaciones móviles.
-
-1. En el caso del servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, la tarifa se cobrará a la persona usuaria bajo la forma de pago que ésta elija, misma que tendrá que estar inserta en la propia aplicación móvil.
-
-2. Se expedirán comprobantes fiscales cuando el modo así lo permita. Lo anterior será obligatorio tratándose del servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles y cualquier otro que se contrate a través de aplicación móvil, por lo que la empresa de redes de transporte intermediaria deberá enviar el correspondiente comprobante fiscal a la dirección de correo electrónico registrada por la persona usuaria del servicio en la aplicación autorizada.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
 ###### Artículo 344.
 
@@ -5743,15 +5705,283 @@ Planes y programas de movilidad y transporte.
 
 2. El personal que para el traslado y desplazamiento a sus centros de trabajo haga uso de vehículos para la movilidad activa, deberá contar con espacios para el resguardo de los mismos de manera segura en sus respectivos centros laborales.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2023)</small>
+
+## TÍTULO DÉCIMO BIS. Del Servicio de Transporte Privado de Punto a Punto
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2023)</small>
+
+### Capítulo I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+###### Artículo 357-A.
+
+Disposiciones generales.
+
+1. Las disposiciones del presente Título establecen las medidas de seguridad, para que el Servicio de Transporte Privado de Punto a Punto que se lleva a cabo a través de las Empresas de Redes de Transporte, garantice el derecho humano a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad a efecto de salvaguardar la vida y la integridad de las personas usuarias y conductoras que hacen uso de las diversas plataformas o aplicaciones móviles, facilitando el acceso, mayor seguridad vial y personal, al contar con la posibilidad de elegir la eficiencia, calidad, precio y demás circunstancias derivadas de la prestación de este servicio privado.
+
+2. En cualquier caso, las empresas de redes de transporte serán consideradas obligadas solidarias de las personas propietarias y conductoras de los vehículos afectos al Servicio Privado de Punto a Punto, frente a terceros y a las personas usuarias, por la responsabilidad civil, que pudiera surgir derivada de la prestación del servicio de transporte privado, únicamente hasta por un monto igual a las sumas aseguradas en la póliza o constancia de seguro del vehículo.
+
+3. El Servicio de Transporte Privado de Punto a Punto mediante aplicaciones móviles,se (sic) contratará exclusivamente a través de la plataforma de la Empresa de Redes de Transporte registrada por la Secretaría.
+
+4. Las personas prestadoras del Servicio de Transporte Privado de Punto a Punto mediante aplicaciones móviles no podrán realizar oferta directa en la vía pública, ni podrán hacer sitio, matriz, base o similares.
+
+5. Este servicio no estará sujeto a rutas, itinerarios, horarios fijos, ni a frecuencias de paso.
+
+6. El Servicio de Transporte Privado de Punto a Punto mediante aplicaciones móviles se prestará:
+
+I. Por personas conductoras particulares que se encuentren registradas ante la Secretaría y estén afiliadas a una Empresa de Redes de Transporte; y
+
+II. A las personas usuarias previamente registradas en la plataforma propiedad de la Empresa de Redes de Transporte.
+
+7. La Empresa de Redes de Transporte podrá llevar a cabo el registro de las personas conductoras así como de las personas propietarias de los vehículos del Servicio de Transporte Privado de Punto a Punto, previa anuencia por escrito del particular que opte por realizar el registro por conducto de ésta.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+###### Artículo 357-B.
+
+De las Empresas de Redes de Transporte y las Medidas de Seguridad.
+
+1. Las Empresas de Redes de Transporte para garantizar la seguridad de las personas usuarias del Servicio de Transporte Privado de Punto a Punto deberán:
+
+I. Garantizar que el servicio que ofrecen se preste acatando las normas de calidad y seguridad que hubieran registrado;
+
+II. Proteger, orientar y respetar a las personas usuarias del servicio y a las personas conductoras que presten el servicio de transporte privado;
+
+III. Implementar en su programa informático o plataforma electrónica mecanismos de seguridad que permitan, mediante documento oficial, la identificación tanto de la persona usuaria como de la persona conductora al momento de la asignación y prestación del servicio;
+
+IV. Implementar en su programa informático o plataforma electrónica el Botón de Auxilio y los mecanismos de alerta que vinculen a las personas a los servicios de emergencia, directo en la aplicación móvil que se encuentre visible y accesible en los términos que establezca la presente Ley, su reglamento y la normatividad aplicable;
+
+V. Notificar de manera inmediata a la Fiscalía General del Estado de Jalisco, alertas de los sistemas de auxilio que vincule a las personas a los servicios de emergencia, estableciendo interconexión y vinculación que facilite a las autoridades correspondientes la geolocalización y datos del vehículo para la debida atención y seguimiento en los términos que establezca la Normatividad y protocolos de emergencia aplicables;
+
+VI. Solicitar identificación oficial a las personas conductoras del Servicio de Transporte Privado de Punto a Punto, como requisito para darlos de alta en su programa informático o plataforma electrónica;
+
+VII. Acreditar que las personas conductoras del Servicio de Transporte Privado de Punto a Punto, hayan obtenido la capacitación y sensibilización en materia de acoso sexual, violencia de género, trata de personas, perspectiva de género y derechos humanos;
+
+VIII. Mantener actualizadas sus bases de datos con la información de las personas conductoras del Servicio de Transporte Privado de Punto a Punto en los términos previstos en la presente Ley, su reglamento, la Normatividad y protocolos de emergencia aplicables;
+
+IX. Constatar que los vehículos porten distintivos u hologramas que contengan elementos de comprobación y validación mediante códigos QR y demás elementos que al efecto determine la Secretaría, en los términos de la presente Ley y su reglamento;
+
+X. En caso que la póliza o constancia de seguro de uno de los conductores del Servicio de Transporte Privado de Punto a Punto registrado en la Empresa de Redes de Transporte correspondiente, no se encuentre vigente, responder de manera solidaria con este, por los daños que puedan causarse tanto a las personas ocupantes del vehículo, terceras o conductoras, tanto en sus bienes como en sus personas por siniestros de tránsito ocurridos con motivo de la prestación del servicio, únicamente hasta por el monto igual a las sumas aseguradas requeridas para la póliza o constancia del seguro del vehículo;
+
+XI. Verificar que los vehículos y personas conductoras que presten el Servicio de Transporte Privado de Punto a Punto que administren, cumplan con los requisitos, acreditaciones, evaluaciones, verificaciones y capacitaciones que establezca esta Ley, su reglamento, normas de calidad registradas;
+
+XII. Mantener actualizada su inscripción en el Registro Estatal, así como el padrón de personas conductoras y de los vehículos a través de los cuales presten el Servicio de Transporte Privado de Punto a Punto, en los términos que al efecto establezca el reglamento de la presente Ley;
+
+XIII. Validar que los vehículos y las personas conductoras que presten el Servicio de Transporte Privado de Punto a Punto, se encuentren registrados en los términos que disponga esta Ley y su reglamento;
+
+XIV. Informar en su página web y la aplicación móvil que administren, los protocolos de actuación en caso de que la persona usuaria se encuentre ante una situación de riesgo que pueda afectar su integridad o sea víctima de la probable comisión de delitos y los protocolos o guías del deber actuar de la persona conductora que preste el Servicio de Transporte Privado de Punto a Punto;
+
+XV. Compartir mensualmente con la Secretaría, la base de datos y sus actualizaciones que contenga la información de las personas conductoras que presten el Servicio de Transporte Privado de Punto a Punto y personas propietarias de vehículos afectos al servicio que se encuentren afiliados a la aplicación móvil que administren, el número de vehículos que tiene o conduce cada uno y sus características, así como las estadísticas que se generen con motivo de la prestación del servicio de transporte privado; de igual manera, deberán compartir la información y estadísticas respecto a las incidencias donde se haya puesto en peligro la integridad física de las personas usuarias o conductoras, la cual deberá ser compartida en los formatos y con las características que se estipulen en las disposiciones aplicables;
+
+XVI. Verificar por lo menos de forma anual, que los vehículos que presten el Servicio de Transporte Privado de Punto a Punto cuenten con Sistema de Posicionamiento Global y cumplan con las condiciones mecánicas, tecnológicas y de seguridad previstas en las disposiciones legales, reglamentarias y normativas aplicables, en caso de incumplimiento dar de inmediato de baja a la persona conductora de su aplicación móvil y notificar a la Secretaría para la debida actualización en el padrón de personas conductoras que presten el Servicio de Transporte Privado de Punto a Punto;
+
+XVII. Garantizar en los procesos de reclutamiento y actualización de información que las personas propietarias y conductoras de los vehículos que presten el servicio de transporte privado en sus plataformas electrónicas, no cuenten con antecedentes de la comisión de delitos doloso (sic) sobre los cual (sic) hubiere recaído sentencia condenatoria derivados de delitos contra la seguridad y libertad sexual, así como los delitos de secuestro, extorsión y privación ilegal de la libertad, debiendo actualizar cada año dicha información mediante los mecanismos conducentes. En caso contrario, procederá de inmediato a dar de baja a la persona conductora de su aplicación móvil, para la prestación del servicio;
+
+XVIII. Garantizar medidas que permitan a la persona usuaria del servicio, abrir puertas y ventanas del vehículo para acceder al exterior en todo momento, como medida de seguridad y prevención de todo tipo de violencia;
+
+XIX. Participar en los procesos de formación de capacidades para la ejecución del protocolo de seguridad a mujeres usuarias de Servicios de Transporte Privado de Punto a Punto, del cual una vez concluida y completada la capacitación deberán contar con el distintivo que al efecto otorgue la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres del Estado de Jalisco;
+
+XX. Permitir a las autoridades mediante requerimiento de autoridad competente, cuando lo soliciten por cuestiones de seguridad o investigación, el acceso a las tecnologías de teléfonos inteligentes, sistemas de posicionamiento global y plataformas tecnológicas que utilicen para la prestación del servicio, para vigilar a los conductores y garantizar la seguridad de las personas usuarias que demandan servicio de transporte privado de punto a punto;
+
+XXI. Establecer una política clara de no discriminación, que deberán mantener accesible a personas usuarias y prestadores del Servicio de Transporte Privado de Punto a Punto. La Empresa de Redes de Transporte implementará medidas de cero tolerancias en el quebranto de dicha política;
+
+XXII. Llevar un registro en los sistemas tecnológicos de la compañía, que resguarde la totalidad de viajes realizados por los conductores del Servicio de Transporte Privado de Punto a Punto relacionados a la aplicación tecnológica que aquellas promuevan, así como la totalidad de la información mencionada en la fracción anterior, por un mínimo de dos años a partir de la finalización de cada viaje;
+
+XXIII. Garantizar que cada persona usuaria de la aplicación tecnológica y cada persona conductora del Servicio de Transporte Privado de Punto a Punto tengan acceso a su propio historial de viajes o servicios;
+
+XXIV. Proporcionar a sus personas conductoras la capacitación, adiestramiento, o profesionalización necesarios para lograr que la prestación de los Servicios de Transporte Privado de Punto a Punto a su cargo sea seguro y con apego a las políticas de igualdad de género, no discriminación y respeto a los derechos humanos, en especial de las personas usuarias que pertenezcan a un grupo en situación de vulnerabilidad;
+
+XXV. Realizar campañas informativas para prevenir la violencia de género, la discriminación o violación de derechos humanos;
+
+XXVI. Atender y proporcionar a las personas usuarias información respecto a las quejas relacionadas con sus servicios; e
+
+XXVII. Informar a la persona usuaria todo lo relacionado con el seguro de responsabilidad civil que la protege contra los riesgos en su transportación, así como los montos de cobertura y formas de hacer efectivo el pago.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+###### Artículo 357-C.
+
+De las personas conductoras del Servicio de Transporte Privado de Punto a Punto.
+
+1. Las personas conductoras deberán:
+
+I. Prestar el servicio con amabilidad y respeto a las personas usuarias;
+
+II. Portar la licencia vigente para conducir;
+
+III. Mostrar a las autoridades de transporte o policía vial cuando se les solicite, la licencia para conducir y, en su caso, la documentación del registro que faculte la prestación del servicio;
+
+IV. Abstenerse de conducir cuando estén impedidos para hacerlo por circunstancias de salud o de cualquier otra que implique disminución de sus facultades físicas o mentales;
+
+V. Asistir a los cursos de capacitación permanente que brinde la Secretaría y la Empresa de Redes de Transporte en materia de medidas de seguridad;
+
+VI. Acreditar los cursos que la Secretaría en coordinación con la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres establezcan, así como conocer y aplicar los protocolos de actuación en la materia;
+
+VII. Respetar las velocidades mínimas y máximas que determine la Secretaría;
+
+VIII. Respetar los señalamientos marcados por las autoridades, así como los que se implementen para los carriles compartidos o cualquier infraestructura ciclista;
+
+IX. Durante la prestación del servicio no conducir con cantidad alguna de alcohol en la sangre o en aire espirado, o síntomas simples de aliento alcohólico o de estar bajo los efectos de drogas o narcóticos; y
+
+X. No hacer uso de teléfonos o dispositivos electrónicos ajenos a la prestación del servicio al conducir; y
+
+XI. Las demás que se señalen en la presente Ley, su reglamento y demás ordenamientos legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2023)</small>
+
+### Capítulo II. Del Registro para prestar Servicios de Transporte Privado de Punto a Punto
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+###### Articulo 357-D.
+
+Registro para empresas de redes de transporte.
+
+1. Las personas jurídicas que pretendan prestar servicio como Empresas de Redes de Transporte deberán obtener un registro por parte de la Secretaría, para lo cual deberá presentar la siguiente documentación:
+
+I. La solicitud por escrito o vía electrónica conforme al procedimiento que establezca la Secretaría;
+
+II. Documento que acredite que es titular de los derechos de propiedad intelectual, licencia para su uso, contrato de franquiciaría o bien, acreditar que se encuentre afiliada a alguno de los anteriores de tal forma que tenga derechos para el aprovechamiento o administración de la aplicación móvil;
+
+III. Comprobante de domicilio fiscal dentro del Estado de Jalisco, a nombre de la persona jurídica con una vigencia máxima de noventa días;
+
+IV. Acta constitutiva de la sociedad mercantil constituida en los términos que establezca la Ley, legalmente constituida para operar en los Estados Unidos Mexicanos, cuyo objeto sea entre otros, la prestación del Servicio de Transporte Privado de personas, mediante la administración, operación o promoción de aplicaciones móviles y plataformas informáticas, desarrollo de programas de cómputo o prestación de servicios tecnológicos de su propiedad o sus subsidiarias o filiales, basadas en el desarrollo de las tecnologías de los dispositivos inteligentes y los sistemas de posicionamiento global, conocido como Servicio de Transporte Privado de Punto a Punto;
+
+V. Nombre de su representante legal, poder otorgado ante fedatario público, así como copia de su identificación oficial con fotografía;
+
+VI. Cédula de identificación fiscal de Registro Federal de Contribuyentes con vigencia no mayor a tres meses;
+
+VII. Constancia de inscripción en el Registro Estatal de Contribuyentes;
+
+VIII. Pago de los derechos correspondientes;
+
+IX. Presentar las normas de calidad y seguridad del servicio establecidas por la Empresa de Redes de Transporte a las que se sujetarán los prestadores de servicios que se afilien o registren en su plataforma, las cuales serán validadas por la Secretaría previo a su inscripción en el Registro Estatal;
+
+X. Otorgar los datos fiscales para la expedición de los comprobantes de pago;
+
+XI. Póliza o constancia de seguro que ampare su responsabilidad solidaria en los términos que establezca la presente Ley y su Reglamento, respecto de la totalidad de los vehículos que gestionen sus servicios de transporte privado a través de la plataforma que administren, así como el comprobante de pago de la prima de seguro que cubra la totalidad de la vigencia del registro que solicite;
+
+XII. Presentar los documentos que le habiliten y le certifiquen en el uso de mecanismos de pago vía electrónica, mediante tarjetas bancarias o en efectivo, así como acreditar el cumplimiento de las disposiciones aplicables en la materia;
+
+XIII. Los formatos de contratos de adhesión previamente autorizados por la Procuraduría Federal del Consumidor que deban suscribir las personas conductoras del servicio de transporte privado de punto a punto mediante aplicaciones móviles;
+
+XIV. Acreditar el cumplimiento de las normas de seguridad relativas a las formas de pago vía electrónica que establezcan las disposiciones de la materia;
+
+XV. Acreditar que los vehículos y personas conductoras cumplan con los requisitos necesarios para la prestación del servicio de transporte privado que determine la normatividad aplicable; y
+
+XVI. Las demás que establezca el reglamento de la presente Ley.
+
+2. Una vez cumplimentados los requisitos anteriores, la Secretaría emitirá la constancia y holograma distintivo del registro correspondiente. El holograma, deberá ser portado en los vehículos registrados de conformidad con lo dispuesto en el Reglamento de la presente Ley.
+
+3. El registro tendrá una vigencia de un año, y podrá renovarse, siempre que no se afecte el interés público y cumplan los requisitos señalados en esta Ley y el reglamento.
+
+4. El registro para Empresas de Redes de Transporte únicamente se otorgará a sociedades mercantiles constituidas conforme a leyes mexicanas, con domicilio fiscal dentro del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+###### Artículo 357-E.
+
+Renovación del registro.
+
+1. A fin de obtener la renovación del registro, las Empresas de Redes de Transporte deberán:
+
+I. Presentar solicitud por escrito a más tardar tres meses antes al vencimiento del registro, ante la Secretaría, acompañando la documentación señalada en el artículo anterior, así como lo dispuesto en el reglamento de la presente Ley; y
+
+II. Acreditar el pago de las contribuciones establecidas en las disposiciones fiscales del estado.
+
+2. Si la Empresa de Redes de Transporte presenta el trámite de renovación vencido el plazo previsto en este artículo, se tramitará como nuevo registro y deberá acreditar el pago de las contribuciones establecidas en las disposiciones fiscales del estado.
+
+###### Artículo 357-F.
+
+Registro de vehículos.
+
+1. Los registros, se otorgarán a personas físicas o jurídicas propietarias del vehículo que se pretenda destinar al Servicios de Transporte Privado de Punto a Punto, cuya vigencia no será mayor a un año, para lo cual deberán acreditar lo siguiente:
+
+I. El pago de los derechos correspondientes;
+
+II. Contar con una póliza o constancia de seguro de cobertura amplia, debiendo presentar para esos efectos, la póliza o constancia vigente y el recibo de pago correspondiente;
+
+III. Que el vehículo cumpla con los requisitos previstos en esta Ley y su Reglamento;
+
+IV. Que el vehículo se encuentre libre de adeudos ante la Secretaría de la Hacienda Pública;
+
+V. Acreditar haber cumplido con el programa de verificación vehicular que emita la Secretaría de Medio Ambiente y Desarrollo Territorial de acuerdo con el calendario oficial de verificación vigente en el Estado;
+
+VI. Cumplir con las condiciones mecánicas y de seguridad previstas en las disposiciones reglamentarias aplicables; y
+
+VII. Tratándose del primer registro, el modelo del vehículo a través del cual se pretenda prestar el Servicios de Transporte Privado de Punto a Punto, no podrá ser mayor a 4 años de antigüedad.
+
+2. Sin perjuicio de los requisitos que establezca la presente Ley, su reglamento y demás disposiciones aplicables en la materia, el otorgamiento de la renovación del registro a que se refiere éste artículo estará condicionado al cumplimiento de disposiciones relativas al programa de verificación vehicular.
+
+3. Para garantizar la seguridad de las personas usuarias del Servicio de Transporte Privado de Punto a Punto y las demás personas usuarias del Sistema de Movilidad, el vehículo registrado no podrá continuar prestando el servicio, y por tanto quedará sin efectos el registro respectivo otorgado por la Secretaría cuando el modelo de la unidad exceda de 10 años de antigüedad tratándose de vehículos que utilicen gasolina, diesel o gas natural comprimido, o tratándose de vehículos híbridos no podrá exceder de 12 años y en caso de los vehículos eléctricos no podrá exceder de 15 años.
+
+4. Cuando se realice el trámite vía electrónica, los documentos que se presenten para acreditar el cumplimiento de los anteriores requisitos, estarán sujetos a revisión y comprobación por parte de la autoridad competente; por lo que podrán ser requeridos por la Secretaría durante la vigencia del mismo, para presentar documentos de manera física a efecto de comprobar su autenticidad.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+###### Artículo 357-G.
+
+Causas de cancelación de registro.
+
+1. El Registro será cancelado por:
+
+I. Orden de autoridad judicial;
+
+II. Presentar documentación o declaración de información falsa;
+
+III. Reincidencia en la comisión de tres o más infracciones a los ordenamientos locales en materia de movilidad que le sean aplicables, en un periodo de seis meses;
+
+IV. Determinación administrativa emitida por la Secretaría;
+
+V. Incumplimiento notificado por la Secretaría a la Empresa y no subsanado el mismo por ésta última, durante los veinte días naturales siguientes a la fecha de recepción de dicha notificación;
+
+VI. Incumplimiento del pago en tiempo y forma de las aportaciones a la que esté obligada la empresa, en los términos previstos por las disposiciones legales, reglamentarias y normativas aplicables; y
+
+VII. Razones de interés público.
+
+2. En las cancelaciones relativas al registro, estas se efectuarán haciendo las anotaciones respectivas al margen del registro o en el documento incorporado, así como en la base de datos correspondiente.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+###### Artículo 357-H.
+
+Conclusión del registro.
+
+1. El registro de las Empresas de Redes de Transporte concluye por:
+
+I. Terminación de su vigencia;
+
+II. Renuncia expresa de la Empresa;
+
+III. Liquidación de la empresa; y
+
+IV. Cancelación del registro por parte de la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+###### Artículo 357-I.
+
+Registro de conductores.
+
+1. Las Empresas de Redes de Transporte para registrar personas conductoras deberán acreditar ante la Secretaría, que cuentan con lo siguiente:
+
+I. Licencia de conducir en su clasificación de persona operadora, la que deberá estar vigente;
+
+II. Clave Única del Registro Población;
+
+III. Constancia de Antecedentes Penales, a efecto de acreditar que no cuenten con antecedentes de la comisión de delitos doloso (sic) sobre los cual (sic) hubiere recaído sentencia condenatoria derivados de delitos contra la seguridad y libertad sexual, así como los delitos de secuestro, extorsión y privación ilegal de la libertad, la cual deberá ser actualizada de forma semestral; y
+
+IV. Constancia que acredite que cursaron la capacitación en materia de igualdad de género, no discriminación y derechos humanos, por alguna institución oficial en el Estado.
+
+2. En caso de que las personas conductoras no cumplan con la totalidad de los mismos, las empresas no podrán registrarlos como prestadores del servicio.
+
+3. La vigilancia y comprobación del cumplimiento de los requisitos antes señalados corresponde a las Empresas de Redes de Transporte.
+
 ## TÍTULO DÉCIMO PRIMERO. De las Infracciones, Sanciones y Medidas de Seguridad en Materia de Movilidad, Seguridad Vial y Transporte
 
 ### Capítulo I. De las infracciones y sanciones
-
-### Capítulo II. De las medidas de seguridad vial
-
-## TÍTULO DÉCIMO SEGUNDO. De los Medios de Defensa
-
-### Capítulo III. De las infracciones, su aplicación, calificación y ejecución
 
 ###### Artículo 358.
 
@@ -5847,7 +6077,9 @@ II. Producir ruido excesivo con claxon, mofleo o equipos de audio;
 
 III. No respetar las indicaciones de los policías viales;
 
-IV. Subir y bajar pasaje en lugar distinto del autorizado, en el caso de transporte de personas pasajeras, cuando no se trate de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+IV. Subir y bajar pasaje en lugar distinto del autorizado;
 
 V. Circular con alguna de las puertas abiertas;
 
@@ -5883,7 +6115,9 @@ VII. Estacionarse obstruyendo cochera o estacionamiento exclusivo; o
 
 VIII. Circular sobre la banqueta o estacionarse en la misma, en forma tal, o en horas en que se impida o se entorpezca la libre y segura circulación peatonal.
 
-2. Por la reincidencia en la infracción prevista en el numeral 1 fracción I del presente artículo cometida dentro de los treinta días siguientes, por personas conductoras operadoras del servicio público de transporte de personas pasajeras, de taxi en sus diversos modos, así como de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, se duplicará el importe de la multa correspondiente.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. Por la reincidencia en la infracción prevista en el numeral 1 fracción I del presente artículo cometida dentro de los treinta días siguientes, por personas conductoras operadoras del servicio público de transporte de personas pasajeras, de taxi en sus diversos modos y por personas operadoras del Servicio Privado de Transporte de Punto a Punto, se duplicará el importe de la multa correspondiente.
 
 > <small>[N. DE E. VEÁSE LA LITERALIDAD DEL ARTÍCULO, P.O. 29 DE OCTUBRE DE 2022, DE LA PÁG. 3 A LA 6.]</small>
 
@@ -6015,6 +6249,10 @@ XXXIII. A los vehículos o rutas de transporte público masivo y colectivo de pe
 
 XXXIV. Prestar un servicio público en vehículos distintos a los autorizados;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2023)</small>
+
+XXXIV Bis. Prestar el Servicio Privado de Transporte de Punto a Punto en vehículos distintos a los registrados;
+
 > <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXXVI], P.O. 29 DE OCTUBRE DE 2022)</small>
 
 XXXV. No disponer de un seguro que cubra daños a terceros. Dicha sanción quedará condonada, si el infractor presenta dentro de los veinte días hábiles siguientes la constancia o póliza de seguro contra daños a terceros a la Secretaría o dependencia del Ejecutivo que señale el reglamento de esta Ley;
@@ -6027,9 +6265,9 @@ XXXVI. Abastecer combustible con pasaje a bordo o con motor encendido, en caso d
 
 2. En caso de reincidencia en las infracciones previstas en el numeral 1 fracciones IV y VI del presente artículo, cometidas dentro de los treinta días siguientes, se sancionará a elección del infractor, con arresto de doce horas, o dos jornadas de trabajo en favor de la comunidad en materia de movilidad y transporte.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-3. Por la reincidencia en la infracción prevista en el numeral 1 fracción XXXIV del presente artículo cometida dentro de los treinta días siguientes, por personas conductoras operadoras del servicio de transporte público colectivo de personas pasajeras, de taxi en sus diversos modos, así como de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, se duplicará el importe de la multa correspondiente.
+3. Por la reincidencia en la infracción prevista en el numeral 1 fracciones XXXIV y XXXIV Bis del presente artículo cometida dentro de los treinta días siguientes, por personas conductoras operadoras del servicio de transporte público colectivo, de taxi en sus diversos modos y por personas operadoras del Servicio Privado de Transporte de Punto a Punto se duplicará el importe de la multa correspondiente.
 
 ###### Artículo 364.
 
@@ -6087,9 +6325,9 @@ III. Proporcionar servicio de transporte público en cualquiera de sus modos en 
 
 2. La multa correspondiente al numeral 1 fracción I de este artículo, será reducida al mínimo si es que el problema de contaminación es corregido y lo acredita con el comprobante vigente fechado dentro de los treinta días naturales siguientes a la liberación del vehículo.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES NUMERAL 4], P.O. 29 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
-3. Por la reincidencia en la infracción prevista en el numeral 1 fracción III del presente artículo cometida dentro de los treinta días siguientes, por personas conductoras operadoras del servicio de transporte público colectivo de personas pasajeras, de taxi en sus diversos modos, así como de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, se duplicará el importe de la multa correspondiente.
+3. Por la reincidencia en la infracción prevista en el numeral 1 fracción III del presente artículo cometida dentro de los treinta días siguientes, por personas conductoras operadoras del servicio de transporte público colectivo de personas pasajeras, de taxi en sus diversos modos, se duplicará el importe de la multa correspondiente.
 
 ###### Artículo 367.
 
@@ -6193,17 +6431,27 @@ VIII. Prestar servicios de transporte público en cualquiera de sus modos sin co
 
 IX. Portar en un vehículo de uso particular los colores asignados por la Secretaría para las unidades de transporte público;
 
-X. A la persona conductora que preste sus servicios de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles que no cuente o presente licencia de chofer vigente expedida por la Secretaría;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+X. A la persona conductora que preste el Servicio Privado de Transporte de Punto a Punto que no cuente o presente licencia de persona operadora vigente expedida por la Secretaría;
 
 XI. A la persona conductora de servicio de transporte público que realice servicio distinto al autorizado, en vehículos destinados al servicio público;
 
-XII. Preste el servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles sin estar debidamente registrado y autorizado por la Secretaría;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+XII. A la persona conductora que preste el Servicio Privado de Transporte de Punto a Punto sin estar debidamente registrado ante la Secretaría;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
 XIII. Cuando el vehículo no porte, o se altere, destruya, imposibilite o inhabilite de cualquier manera, los sistemas de control vehicular, o cualquier otro dispositivo que permita su identificación por radiofrecuencia; o
 
-XIV. A la empresa de redes de transporte que permita deliberadamente que los personas (sic) propietarios o personas conductoras de vehículos destinados a la prestación de transporte público cuyos servicios gestionen a través de una aplicación móvil, cometan infracciones a lo dispuesto en la presente Ley y su reglamento; o bien, cuando estando obligado a ello, omita vigilar y garantizar que tanto las personas propietarias, personas conductoras y unidades vehiculares que tenga afiliadas o registradas, contravengan lo dispuesto en la presente Ley o no reúnan los requisitos que establecen los ordenamientos jurídicos y técnicos para la prestación del servicio de transporte público de acuerdo al modo correspondiente.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-2. Por la reincidencia en las infracciones previstas en el numeral 1 fracciones VIII, IX, X, XI, XII, XIII y XIV del presente artículo cometidas dentro de los treinta días siguientes, por personas conductoras operadoras del servicio público de transporte colectivo de personas pasajeras, de taxi en sus diversos modos, así como de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, se duplicará el importe de la multa correspondiente.
+XIV. A la Empresa de Redes de Transporte que permita deliberadamente que las personas propietarias o personas conductoras de vehículos destinados a la prestación del Servicio de Transporte Privado de Punto a Punto, cometan infracciones a lo dispuesto en la presente Ley y su reglamento; o bien, cuando estando obligado a ello, omita vigilar y garantizar que tanto las personas propietarias, personas conductoras y unidades vehiculares que tenga registradas, contravengan lo dispuesto en la presente Ley o no reúnan los requisitos que establecen los ordenamientos jurídicos y técnicos para la prestación del servicio correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+
+2. Por la reincidencia en las infracciones previstas en el numeral 1 fracciones VIII, IX, X, XI, XII y XIII del presente artículo cometidas dentro de los treinta días siguientes, por personas conductoras operadoras del servicio público de transporte colectivo de personas pasajeras, de taxi en sus diversos modos, se duplicará el importe de la multa correspondiente.
 
 ###### Artículo 375.
 
@@ -6285,9 +6533,9 @@ II. Ofrezca un servicio especial o lo preste bajo un modo distinto para el que n
 
 III. Oferte un descuento en el cobro, con relación a la tarifa correspondiente y no lo haga efectivo.
 
-IV. En el caso de los sujetos de autorización del servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles o de las empresas de redes de transporte, omitir actualizar el registro de su domicilio fiscal o establecimiento para los fines de verificación y control que se establezcan en el reglamento respectivo, o utilizarlo como sitio o matriz; y
+IV. (DEROGADA, P.O. 1 DE AGOSTO DE 2023)
 
-V. Resguardar o estacionar los vehículos afectos al servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles en lugares no autorizados al efecto, o bien, estacionarlos o vincularlos de cualquier manera con sitios o matrices de taxis en sus demás modos.
+V. (DEROGADA, P.O. 1 DE AGOSTO DE 2023)
 
 2. En los casos antes previstos, la suspensión será de uno hasta seis meses.
 
@@ -6311,17 +6559,9 @@ Cancelación de licencia.
 
 ###### Artículo 384.
 
-Revocación de autorización.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
-1. Además de lo dispuesto en el Capítulo XV del Título Décimo del presente ordenamiento, se procederá a la revocación de la autorización a las empresas de redes de transporte que sean reincidentes en el incumplimiento de las disposiciones de la presente Ley y su reglamento.
-
-2. Se entenderá como reincidencia la comisión de tres o más infracciones a los ordenamientos locales en materia de movilidad que le sean aplicables, en un periodo de seis meses.
-
-3. Igual sanción se impondrá a la empresa de redes de transporte que para obtener autorización por parte de la Secretaría, presente documentación o declare información falsa.
-
-4. El procedimiento de revocación a que se refiere este artículo, se instaurará de conformidad con lo dispuesto por el Capítulo XV del Título Décimo del presente ordenamiento.
-
-### Capítulo IV. Medidas de seguridad para garantizar la prestación de servicio de transporte público masivo y colectivo
+### Capítulo II. De las medidas de seguridad vial
 
 ###### Artículo 385.
 
@@ -6349,7 +6589,9 @@ IX. Cuando se preste un servicio público sin la concesión, permiso o autorizac
 
 X. Cuando la persona conductora preste otro servicio distinto al autorizado en la concesión, permiso o autorización correspondiente;
 
-XI. Cuando la persona conductora o propietaria de la unidad vehicular destinada al servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles preste dicho servicio sin contar con la autorización y licencia de identificación, debidamente registrados en el Registro Estatal;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+XI. Cuando la persona conductora o propietaria de la unidad vehicular destinada al Servicio de Transporte Privado de Punto a Punto, preste dicho servicio sin contar con el registro y licencia de conducir, debidamente inscritos en el Registro Estatal;
 
 XII. Cuando la persona conductora siendo menor de edad presente alguna cantidad de alcohol en la sangre o en aire expirado, o síntomas simples de aliento alcohólico o de estar bajo los efectos de narcóticos al momento de conducir dicho vehículo;
 
@@ -6373,9 +6615,17 @@ XXI. A la persona conductora o propietaria que estando presente y teniendo el ve
 
 XXII. Cuando estando presentes en los lugares donde se llevan a cabo maniobras riesgosas o temerarias, que pongan en peligro la vida de las personas presentes en el sitio donde se lleven a cabo las mismas ó se encuentren en un radio de alcance que los rodean, aún cuando sus vehículos no estén realizando dichas maniobras pero sí estén en el lugar donde se llevan a cabo las mismas, en el entendido de que su presencia fomenta dichas actividades y contribuye al riesgo que se menciona, se procederá de igual manera con el retiro de circulación de la unidad, teniendo la calidad de partícipe pasivo;
 
-XXIII. Que se reúna o participe en arrancones, carreras clandestinas, acrobacias, maniobras riesgosas temerarias que pongan en riesgo la vida, de quien lo realice y de todos los sujetos activos de la movilidad; o
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
-XXIV. Cuando un vehículo de transporte público en modo de taxi o radiotaxi mantenga habilitado el sistema de bloqueo de seguros o elevadores de vidrios o puertas, o circulen, así como un vehículo de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, con cristales polarizados u otros elementos que impidan totalmente la visibilidad hacia el interior del vehículo. En caso de reincidencia se cancelará la autorización al vehículo para operar en el modo del transporte público respectivo.
+XXIII. Que se reúna o participe en arrancones, carreras clandestinas, acrobacias, maniobras riesgosas temerarias que pongan en riesgo la vida, de quien lo realice y de todos los sujetos activos de la movilidad;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
+
+XXIV. Cuando un vehículo de transporte público en modo de taxi o radiotaxi mantenga habilitado el sistema de bloqueo de seguros o elevadores de vidrios o puertas, o circule con cristales polarizados u otros elementos que impidan totalmente la visibilidad hacia el interior del vehículo. En caso de reincidencia se cancelará la autorización al vehículo para operar en el modo del transporte respectivo; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2023)</small>
+
+XXV. Cuando un vehículo de Servicio de Transporte Privado de Punto a Punto mantenga habilitado el sistema de bloqueo de seguros o elevadores de vidrios o puertas o circulen con cristales polarizados u otros elementos que impidan totalmente la visibilidad hacia el interior del vehículo. En caso de reincidencia se cancelará el registro al vehículo para prestar el servicio de transporte privado.
 
 2. En el caso de las fracciones V y VI, la persona conductora o propietaria, para liberar el vehículo retirado de la circulación, deberá pagar la verificación vehicular, y tendrá un plazo de treinta días naturales a partir de la fecha en que se le entregue el vehículo para circular a efecto de verificarlo, de no hacerlo así se le considerará como reincidente en los términos de la presente Ley.
 
@@ -6421,7 +6671,7 @@ Restricciones para recoger licencias, Tarjeta de circulación, gafetes.
 
 1. Las y los elementos de la policía vial no están autorizados para recoger a la persona operadora o conductora, su licencia, permiso, gafete de identificación, tarjeta de circulación y cualquier otro documento, con excepción de los vehículos de transporte público de carga o transporte público de personas pasajeras, o cualquiera de sus modos, así como transporte público especializado.
 
-### Capítulo V. De las notificaciones
+### Capítulo III. De las infracciones, su aplicación, calificación y ejecución
 
 ###### Artículo 389.
 
@@ -6497,7 +6747,7 @@ Arresto administrativo.
 
 3. En caso de que el infractor tenga su domicilio en otra entidad federativa o municipio diverso fuera de la zona conurbada, será remitido a las instalaciones de previsión social o donde se ejecuten los arrestos administrativos del municipio más cercano en los términos que señala la presente Ley.
 
-### Capítulo VI. De la regulación, inspección y vigilancia
+### Capítulo IV. Medidas de seguridad para garantizar la prestación de servicio de transporte público masivo y colectivo
 
 ###### Artículo 396.
 
@@ -6519,7 +6769,7 @@ VI. Reversión y
 
 IV (SIC). Revocación.
 
-### Capítulo Único
+### Capítulo V. De las notificaciones
 
 ###### Artículo 397.
 
@@ -6541,7 +6791,7 @@ III. Si están señalados en semanas, meses o años, o tienen una fecha determin
 
 IV. Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, contadas de las veinticuatro a las veinticuatro horas.
 
-### Capítulo Único
+### Capítulo VI. De la regulación, inspección y vigilancia
 
 ###### Artículo 399.
 
@@ -6641,9 +6891,9 @@ Notificación de la resolución de inspección.
 
 1. En todo caso, la autoridad que practique la inspección, deberá comunicar al visitado el resultado de la misma en un plazo no mayor de quince días hábiles siguientes a la fecha en que se hubiere practicado la visita de inspección. El incumplimiento de este requisito invalidará los efectos de la misma que fueren adversos a los intereses del visitado y producirá la responsabilidad a que haya lugar, para el servidor público que intervino.
 
-## TÍTULO DÉCIMO TERCERO
+## TÍTULO DÉCIMO SEGUNDO. De los Medios de Defensa
 
-De los Métodos Alternos de Solución de Conflictos en materia de Movilidad y Transporte.
+### Capítulo Único
 
 ###### Artículo 409.
 
@@ -6722,6 +6972,12 @@ De la resolución.
 Procedencia del juicio administrativo.
 
 1. En contra de la resolución dictada por la autoridad procederá el Juicio Administrativo previsto en la Ley de la materia, sin embargo, no se podrá decretar la suspensión provisional en los términos señalados en el artículo 414 numeral 2 de la presente Ley.
+
+## TÍTULO DÉCIMO TERCERO
+
+De los Métodos Alternos de Solución de Conflictos en materia de Movilidad y Transporte.
+
+### Capítulo Único
 
 ###### Artículo 417.
 
@@ -6870,3 +7126,19 @@ P.O. 6 DE JUNIO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
 
 SEGUNDO. Envíese la presente aclaración de error de la minuta de decreto 28864/LXIII/22, al Titular del Poder Ejecutivo del Estado, para su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 1 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29236/LXIII/23 QUE REFORMA, DEROGA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE, Y DE LA LEY DE HACIENDA, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+Segundo. Las autorizaciones, registros y licencias que en su caso la Secretaría otorgó a las Empresas de Redes de Transporte, así como para el servicio de transporte de pasajeros mediante aplicaciones móviles que se encuentren vigentes a la entrada en vigor del presente Decreto, continuarán surtiendo efectos hasta la fecha de su vencimiento.
+
+Una vez que haya expirado la vigencia prevista en (sic) párrafo anterior, las Empresas de Redes de Transporte, las personas conductoras, así como los propietarios de los vehículos a través de los cuales se lleve a cabo el servicio de transporte privado de punto a punto, deberán de sujetarse a lo establecido en el presente decreto, así como las disposiciones reglamentarias y normativas aplicables.
+
+Tercera (sic). El Ejecutivo del Estado tendrá un plazo de sesenta días hábiles posteriores a la entrada en vigor del presente Decreto, a efecto de que emita las disposiciones reglamentarias, adecuaciones normativas, presupuestales y administrativas aplicables.
+
+Cuarto. Las personas que pretendan obtener el registro de redes de transporte por parte de la Secretaría conforme a las disposiciones establecidas en del (sic) presente Decreto, que hubieran operado mediante la autorización otorgada antes de su entrada en vigor y suscribieron convenio de colaboración para la constitución del fondo económico que refería el derogado artículo 310 fracción XVII, deberán acreditar que se encuentran al corriente de pago y cumplimiento de las obligaciones establecidas a su cargo.
+
+Quinto. El impuesto aprobado en el presente decreto, deberá considerarse en la Ley de Ingresos del Estado de Jalisco para el ejercicio fiscal del 2024.
