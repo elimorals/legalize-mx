@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2021-09-04"
+last_updated: "2023-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -907,6 +907,10 @@ La coordinación y colaboración entre autoridades de los tres órdenes de gobie
 
 I.- Los organizadores, participantes, asistentes, aficionados o espectadores y en general los usuarios de las instalaciones deportivas, atenderán las disposiciones en materia de seguridad y protección civil, así como las indicaciones que emitan las autoridades competentes en dichas materias, a fin de garantizar que los eventos deportivos se realicen de manera ordenada y preservar la integridad de las personas y los bienes.
 
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2023)</small>
+
+La Secretaría de Seguridad Pública del Estado, en conjunto con la Coordinación de Protección Civil, instará a los clubes y barras de la afición a registrarse y validar a sus integrantes para capacitarse gratuitamente en materia de primeros auxilios, evacuación y prevención de la violencia.
+
 II.- Para preservar la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán acatar las disposiciones legales, reglamentarias y administrativas correspondientes del municipio en que se realice el evento.
 
 La seguridad en la cancha o área de competencia, en vestidores y baños para jugadores, así como en los corredores que los comuniquen, será responsabilidad exclusiva de los organizadores y asociaciones o sociedades deportivas que avalen el evento; los cuerpos de seguridad pública de los diversos órdenes de gobierno, a petición expresa de aquellos, podrán resguardar dichos recintos, salvo que su intervención sea indispensable para salvaguardar la vida o integridad de los jugadores y demás personas que se encuentren en las áreas referidas, así como de los bienes.
@@ -919,7 +923,9 @@ V.- Para participar en la planeación y desarrollo del evento, los organizadores
 
 VI.- Los responsables de la seguridad en el interior de los recintos deportivos y sus instalaciones anexas designados por los organizadores de los eventos, deberán participar en las labores de planeación previa, atendiendo las recomendaciones e indicaciones de las autoridades de seguridad pública.
 
-VII.- En la seguridad del interior de los recintos y sus instalaciones anexas, a solicitud de los organizadores, podrán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en este artículo y en las disposiciones legales y reglamentarias aplicables, en cuyo caso el mando de los elementos tanto oficiales, como los que aporten los responsables del evento, estará siempre a cargo de quien jerárquicamente corresponda dentro de la corporación, quien será el responsable de coordinar las acciones.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2023)</small>
+
+VII.- En la seguridad del interior de los recintos y sus instalaciones anexas, a solicitud de las y los organizadores, deberán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en este artículo y en las disposiciones legales y reglamentarias aplicables, en cuyo caso el mando de los elementos tanto oficiales, como los que aporten los responsables del evento, estará siempre a cargo de quien jerárquicamente corresponda dentro de la corporación, quien será el responsable de coordinar las acciones.
 
 VIII.- Todas las autoridades contribuirán, en el ámbito de sus competencias, a la efectiva coordinación para garantizar la seguridad en las inmediaciones de las instalaciones deportivas y en el traslado de aficionados al lugar donde se realicen los eventos deportivos, así como en el auxilio eficaz y oportuno al interior de los recintos en caso de requerirse.
 
@@ -927,7 +933,13 @@ IX.- Las autoridades de los tres órdenes de gobierno capacitarán a los cuerpos
 
 X.- La Ley sobre el Sistema Estatal de Seguridad Pública preverá los mecanismos de coordinación para la más eficaz prestación del servicio de seguridad pública entre el Estado y sus municipios, a fin de garantizar el desarrollo pacífico de los eventos deportivos.
 
-Para los efectos de este artículo se considera que el evento deportivo concluye hasta que el recinto se encuentre desalojado y los asistentes se hayan retirado de las inmediaciones.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 2023)</small>
+
+Además de lo estipulado en el primer párrafo de este artículo, las autoridades competentes deberán coordinarse con las instituciones del sector social y privado, para promover los mecanismos y acciones encaminadas a prevenir la violencia en eventos deportivos, y garantizar el desarrollo pacífico en los recintos donde se celebren eventos con fines de espectáculo.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE AGOSTO DE 2023)</small>
+
+Para los efectos de este artículo, se considera que el evento deportivo concluye hasta que el recinto se encuentre desalojado y las personas asistentes se hayan retirado de las inmediaciones.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -1381,9 +1393,9 @@ VII.- Las demás que dispongan otras leyes u ordenamientos aplicables.
 
 La Charrería será considerada como parte del patrimonio cultural deportivo del país y del Estado.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2023)</small>
 
-Asimismo, serán considerados como parte del patrimonio cultural deportivo los Juegos Tradicionales y los Autóctonos.
+En el mismo sentido, serán considerados como parte del patrimonio cultural deportivo del Estado de Chihuahua, los Juegos Tradicionales y los Autóctonos. Así mismo, se considerarán como prácticas de importancia estatal y tradicionales de la cultura chihuahuense: el senderismo en sus diversas modalidades, maratón, escalada y montañismo.
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
 
@@ -1501,11 +1513,13 @@ Las instalaciones públicas de cultura física y deporte del Estado, deberán es
 
 Los responsables o administradores de toda instalación deportiva deberán tramitar su registro ante el Instituto, quien verificará que sean adecuadas a la práctica de la disciplina deportiva para la cual fueron diseñadas.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 82 Bis.
 
-Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.
+Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad, tecnologías de videovigilancia y protección civil que establezcan las leyes y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
 Las autoridades municipales serán competentes para verificar el cumplimiento de la presente disposición.
 
@@ -1772,6 +1786,10 @@ III.- Supervisar que la proyección y estructura de los lugares donde se celebre
 ###### Artículo 114.
 
 Los integrantes del Sistema, en coordinación con las autoridades competentes, están obligados a revisar continuamente sus reglamentos para controlar los factores que puedan provocar acciones de violencia por parte de los deportistas o de los espectadores.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2023)</small>
+
+Las autoridades Estatales y Municipales proporcionarán a los cuerpos policíacos y demás elementos encargados de la seguridad, la capacitación y equipamiento específicos necesarios en el uso apropiado de sus atribuciones.
 
 ###### Artículo 115.
 
@@ -2496,3 +2514,15 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0568/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos previstos en el presente Decreto, la autoridad estatal y las autoridades municipales, relativos a la capacitación y equipamiento, llevarán a cabo las medidas organizativas, presupuestales y en su caso reglamentarias, durante el resto del presente ejercicio fiscal 2023; en lo que resultare necesario.
