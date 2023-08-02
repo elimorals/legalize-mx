@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-para-los-servidores-publicos-del-140814"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-22"
-last_updated: "2020-01-22"
+last_updated: "2023-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA PARA LOS SERVIDORES PUBLICOS DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS, PUBLICADO EN EL P.O. DE 2 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2023 (ABROGADO).
 
 Código publicado en el Número 5774 del Periódico Oficial del Estado de Morelos, el miércoles 22 de enero de 2020.
 
@@ -544,3 +546,19 @@ COMISARIO PÚBLICO EN
 SERVICIOS DE SALUD DE MORELOS
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS".]
+
+PRIMERA. El presente código de conducta, entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta para los Servidores Públicos del organismo público descentralizado denominado Servicios de Salud de Morelos, publicado el veintidós de enero de 2020, en el Periódico Oficial “Tierra y Libertad” número 5774.
+
+TERCERA. Se abrogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente código.
+
+CUARTA. El presente instrumento deberá difundirse también a través del portal oficial de Servicios de Salud de Morelos.
+
+QUINTA. Se instruye a la Subdirección de Recursos Humanos de Servicios de Salud de Morelos, dar a conocer el presente código al personal de las diferentes unidades administrativas que componen los Servicios de Salud de Morelos, así como al personal de nuevo ingreso sobre la existencia y contenido del mismo para su observancia y cumplimiento.
