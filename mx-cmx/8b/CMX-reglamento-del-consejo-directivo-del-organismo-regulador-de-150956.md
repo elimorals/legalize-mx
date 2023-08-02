@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-consejo-directivo-del-organismo-regulador-de-150
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-09-03"
-last_updated: "2021-09-03"
+last_updated: "2023-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150956&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-09-01"
 
 REGLAMENTO DEL CONSEJO DIRECTIVO DEL ORGANISMO REGULADOR DE TRANSPORTE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE AGOSTO DE 2023.
 
 Reglamento publicado en el No. 676 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 3 de septiembre de 2021
 
@@ -306,7 +306,9 @@ En las sesiones ordinarias se ocuparán de los asuntos para los que sean convoca
 
 I. En la sesión que corresponda al primer trimestre del año, el Consejo deberá conocer y aprobar, en su caso, el informe anual pormenorizado del resultado de la administración del Organismo que rinda la persona titular de la Dirección General, correspondiente al ejercicio anterior;
 
-II. En la sesión que corresponda al segundo trimestre del año, conocer y aprobar, en su caso, el dictamen de los auditores externos a los estados financieros del ejercicio anterior, así como el informe del Órgano de Vigilancia;
+> <small>(REFORMADA, G.O. 2 DE AGOSTO DE 2023)</small>
+
+II. En la sesión que corresponda, se hará del conocimiento el Informe de Opinión de Comisarios para la aprobación de los Estados Financieros de la Entidad, así como el Informe Anual del Desempeño General del ejercicio fiscal anterior.
 
 III. En la sesión correspondiente al tercer trimestre del año, aprobar el anteproyecto de presupuesto y el programa operativo anual del Organismo; y
 
@@ -459,3 +461,13 @@ Ciudad de México a 27 de agosto de 2021
 LICENCIADA NATALIA RIVERA HOYOS
 
 DIRECTORA GENERAL DEL ORGANISMO REGULADOR DE TRANSPORTE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 2 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 19 DE SU REGLAMENTO DEL CONSEJO DIRECTIVO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Aviso entrará en vigor el día de su publicación.
