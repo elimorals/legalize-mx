@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2023-02-15"
+last_updated: "2023-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -457,9 +457,11 @@ VIII.- Violencia mediática en razón de género, toda acción u omisión tendie
 
 IX.- Violencia digital.- Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño moral a ellas y/o su familia. Se manifiesta mediante al (sic) acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras, verdaderas o alteradas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2023)</small>
 
-X.- Violencia vicaria.- Es la violencia psicológica ejercida en contra de la mujer por quien sea o haya sido su cónyuge, concubino o pareja sentimental, quien por sí o por interpósita persona genere violencia sobre cualquier ascendiente o descendiente de la víctima, lo cual le provoca afectaciones o daño psicoemocional; y
+X.- Violencia Vicaria.- Es la acción u omisión cometida en contra de una mujer, con quien tenga o haya tenido una relación de matrimonio, concubinato o relación de hecho o de cualquier otro tipo, por si o por Interpósita persona, que provoque o tenga la intención de causarle cualquier tipo de daño o sufrimiento al propiciar la separación de la madre con sus hijas e hijos o persona vinculada significativamente a la mujer, a través de la retención, sustracción, ocultamiento, maltrato, amenaza puesta en peligro o promoviendo mecanismos jurídicos y no jurídicos que retrasen, obstaculicen, limiten e impidan la convivencia con el propósito de dominar, someter, manipular, controlar o agredir de manera física, verbal psicológica, patrimonial, económica o sexual a las mujeres e incluso provocar el suicidio, feminicidio u homicidio de las madres de sus hijas e hijos.
+
+La Fiscalía General del Estado de Morelos, las autoridades jurisdiccionales y cualquier otra autoridad que conozca de un asunto de violencia vicaria, en el ámbito de su competencia, deberán realizar todos los actos necesarios para salvaguardar la integridad física y psicológica de las mujeres, sus hijas e hijos de manera inmediata una vez teniendo conocimiento formal de la configuración de la Violencia Vicaria.
 
 > <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2018)</small>
 
@@ -2142,3 +2144,19 @@ Remítase el presente decreto al titular del Poder Ejecutivo para su promulgaci�
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+P.O. 2 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL DOSCIENTOS CINCUENTA Y TRES QUE ADICIONA UN TITULO DÉCIMO SEGUNDO BIS, REFORMA Y ADICIONA DOS CAPÍTULOS RESPECTIVAMENTE Y TRES ARTÍCULOS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS; ASÍ COMO, REFORMA UNA FRACCIÓN DEL ARTÍCULO 20, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS; Y REFORMA Y ADICIONAN LOS ARTÍCULOS 24 BIS, 24 TER Y 225 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE VIOLENCIA OBSTÉTRICA Y VIOLENCIA VICARIA".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
