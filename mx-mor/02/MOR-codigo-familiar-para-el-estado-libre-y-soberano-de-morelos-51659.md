@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2023-02-15"
+last_updated: "2023-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -520,6 +520,14 @@ DEL RESPETO ENTRE LOS INTEGRANTES DE LA FAMILIA. Los integrantes de la familia t
 DE LA VIOLENCIA EN LA FAMILIA. Por Violencia Familiar se considera el uso de la fuerza física o moral, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, sexual, psíquica, emocional, patrimonial o económica, como actos de poder u omisión, intencional dirigidos a dominar, someter controlar o agredir, tanto en el ámbito público como en el privado independientemente de que pueda producir o no lesiones, siempre y cuando el agresor y agredido guarden un vínculo directo en cualquiera de las hipótesis contenidas en este Código para el parentesco por consanguinidad o tengan parentesco por afinidad, una relación de matrimonio, concubinato o que mantengan o hayan mantenido una relación de hecho.
 
 Se entenderá por relación de hecho, la que exista entre quienes mantengan una relación de pareja, aunque no vivan en el mismo domicilio.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 24 BIS.- Para los efectos de este Código se considera violencia vicaria al acto abusivo contra la mujer que ejerce quien mantenga o haya mantenido una relación de hecho o de pareja con la víctima y que por sí o por interpósita persona, utilice como medio a las hijas e hijos de ésta, para causarle daño; generando una consecuente afectación psicoemocional e incluso física a los menores.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 24 TER.- Quien tenga o haya tenido un vínculo por matrimonio, concubinato o relación de hecho o los integrantes de la familia que incurran en violencia familiar y/o violencia vicaria, deben reparar los daños y perjuicios que se ocasione con dicha conducta, con autonomía de otro tipo de sanciones que éste y otros ordenamientos legales establezcan.
 
 ###### ARTÍCULO 25.
 
@@ -2040,6 +2048,14 @@ En cualquier momento en que se presentare el Síndrome de Alienación Parental p
 ###### ARTÍCULO 225.
 
 CAMBIO DE CUSTODIA. El juez de lo familiar podrá decretar el cambio de custodia de los menores previo el procedimiento respectivo, cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre ellos, realice conductas reiteradas para evitar la convivencia de los menores con la persona o personas que tengan parentesco consanguíneo en línea recta ascendente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 2023)</small>
+
+Así mismo, el Juez puede en beneficio de los menores, modificar el ejercicio de la patria potestad o custodia cuando la tenga decretada judicialmente, ya sea provisional o definitiva sobre ellos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 2023)</small>
+
+Cuando se acredite que los menores han sido o están siendo utilizados como medio para cometer violencia vicaria, contra la madre de los mismos.
 
 ###### ARTÍCULO 226.
 
@@ -7082,3 +7098,19 @@ PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal p
 SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA.- Las autoridades que deban imponer las sanciones a que se refiere este decreto, deberán motivar reforzadamente cada caso, conforme a la fundamentación aplicable.
+
+P.O. 2 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL DOSCIENTOS CINCUENTA Y TRES QUE ADICIONA UN TÍTULO DÉCIMO SEGUNDO BIS, REFORMA Y ADICIONA DOS CAPÍTULOS RESPECTIVAMENTE Y TRES ARTÍCULOS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS; ASÍ COMO, REFORMA UNA FRACCIÓN DEL ARTÍCULO 20, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS; Y REFORMA Y ADICIONAN LOS ARTÍCULOS 24 BIS, 24 TER Y 225 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE VIOLENCIA OBSTÉTRICA Y VIOLENCIA VICARIA".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
