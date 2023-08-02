@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-fideicomiso-publico-para-la-160505"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-10-09"
-last_updated: "2021-11-19"
+last_updated: "2023-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL FIDEICOMISO PÚBLICO PARA LA ADMINISTRACIÓN DEL PALACIO DE LA MÚSICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE AGOSTO DE 2023.
 
 Estatuto publicado en la Edición Vespertina del Número 34,304 del Diario Oficial del Estado de Yucatán, el viernes 9 de octubre de 2020.
 
@@ -65,9 +65,9 @@ I. Comité técnico: el Comité Técnico del Fideicomiso Público para la Admini
 
 II. Consejo: el Consejo Consultivo del Palacio de la Música.
 
-> <small>(REFORMADA, D.O. 19 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O. 2 DE AGOSTO DE 2023)</small>
 
-III. Coordinadores: las personas servidoras públicas que, con el nivel jerárquico de coordinador, fungen como titulares de las unidades administrativas correspondientes, adscritas a la Dirección General del Fideicomiso Público para la Administración del Palacio de la Música.
+III. Coordinador: la persona servidora pública que, con el nivel jerárquico de coordinador, funge como titular de la unidad administrativa correspondiente, adscrita a la Dirección General del Fideicomiso Público para la Administración del Palacio de la Música.
 
 IV. Decreto de regulación: el Decreto 631/2018 por el que se regula el Fideicomiso Público para la Administración del Palacio de la Música.
 
@@ -103,7 +103,7 @@ a) Comité técnico.
 
 b) Director general.
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 19 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 2 DE AGOSTO DE 2023)</small>
 
 II. Unidades administrativas:
 
@@ -117,11 +117,11 @@ a) Departamentos:
 
 4. Departamento de Servicios Generales y Operaciones.
 
+5. Departamento de Diseño y Comunicación.
+
 b) Coordinaciones:
 
 1. Coordinación de Ventas y Relaciones Públicas.
-
-2. Coordinación de Diseño y Comunicación.
 
 III. Órganos auxiliares:
 
@@ -143,9 +143,13 @@ Suplencias
 
 El director general deberá designar, por oficio, a su suplente, quien lo sustituirá en sus ausencias temporales que no excedan de quince días. En caso de no haber designación explícita, el director general será suplido, en sus ausencias temporales, por el jefe de departamento o coordinador que corresponda, de conformidad con el orden establecido en el artículo 5 de este estatuto orgánico.
 
-En caso de ausencia definitiva, el comité técnico designará, de entre los jefes de departamento y coordinadores, a la persona que fungirá como encargada de despacho, entre tanto el gobernador nombrase al nuevo director general.
+> <small>(REFORMADO, D.O. 2 DE AGOSTO DE 2023)</small>
 
-Los jefes de departamento y coordinadores serán suplidos por los servidores públicos que tengan el nivel jerárquico inmediato inferior al de ellos, cuando sus ausencias no excedan de quince días. En caso de que las ausencias exceden (sic) este plazo, o bien, de que no se contara con un servidor público de nivel jerárquico inmediato inferior, el jefe de departamento o coordinador será suplido por quien designe el director general.
+En caso de ausencia definitiva, el comité técnico designará, de entre los jefes de departamento y el coordinador, a la persona que fungirá como encargada de despacho, entre tanto el gobernador nombrase al nuevo director general.
+
+> <small>(REFORMADO, D.O. 2 DE AGOSTO DE 2023)</small>
+
+Los jefes de departamento y el coordinador, serán suplidos por los servidores públicos que tengan el nivel jerárquico inmediato inferior al de ellos, cuando sus ausencias no excedan de quince días. En caso de que las ausencias exceden (sic) este plazo, o bien, de que no se contara con un servidor público de nivel jerárquico inmediato inferior, el jefe de departamento o coordinador será suplido por quien designe el director general.
 
 ### Capítulo III. Funcionamiento
 
@@ -345,9 +349,9 @@ Facultades y obligaciones del director general
 
 El director general del fideicomiso público tendrá las facultades y obligaciones previstas en el artículo 16 del decreto de regulación así como en el Código de la Administración Pública de Yucatán, su reglamento, y las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, D.O. 19 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O. 2 DE AGOSTO DE 2023)</small>
 
-En cualquier momento, el director general del fideicomiso público podrá ejercer directamente las facultades y obligaciones de los jefes de departamento y coordinadores.
+En cualquier momento, el director general del fideicomiso público podrá ejercer directamente las facultades y obligaciones de los jefes de departamento y el coordinador.
 
 #### Sección tercera. Unidades administrativas
 
@@ -357,19 +361,19 @@ Unidades administrativas y personal del fideicomiso público
 
 El fideicomiso público contará con las unidades administrativas previstas en el artículo 5, fracción II, de este estatuto orgánico y las demás que apruebe el comité técnico, de conformidad con la disponibilidad presupuestaria.
 
-> <small>(REFORMADO, D.O. 19 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O. 2 DE AGOSTO DE 2023)</small>
 
-Los jefes de departamento y coordinadores serán auxiliados por el personal que requieran las necesidades del servicio, siempre y cuando lo permita el presupuesto del fideicomiso público.
+Los jefes de departamento y el coordinador, serán auxiliados por el personal que requieran las necesidades del servicio, siempre y cuando lo permita el presupuesto del fideicomiso público.
 
-> <small>(REFORMADO SU EPÍGRAFE, D.O. 19 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 2 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 27.
 
-Facultades y obligaciones generales de los jefes de departamento y coordinadores
+Facultades y obligaciones generales de los jefes de departamento y el coordinador
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE AGOSTO DE 2023)</small>
 
-Los jefes de departamento y coordinadores tendrán las siguientes facultades y obligaciones generales:
+Los jefes de departamento y el coordinador, tendrán las siguientes facultades y obligaciones generales:
 
 I. Planear, programar, organizar, dirigir y vigilar el adecuado funcionamiento de la unidad administrativa a su cargo.
 
@@ -441,7 +445,9 @@ II. Representar legalmente al fideicomiso público y al director general, por in
 
 III. Contestar las demandas interpuestas en contra de las resoluciones o los actos realizados por el fideicomiso público, por conducto de cualquiera de sus unidades administrativas, y ejercitar las acciones y defensas que correspondan en los juicios que se tramiten ante los tribunales competentes.
 
-IV. Brindar apoyo y asesoría técnica en materia jurídica al director general, a los jefes de departamento y a los coordinadores.
+> <small>(REFORMADA, D.O. 2 DE AGOSTO DE 2023)</small>
+
+IV. Brindar apoyo y asesoría técnica en materia jurídica al director general, a los jefes de departamento y al coordinador.
 
 V. Elaborar los proyectos normativos que requiera el fideicomiso público y emitir opinión sobre la procedencia legal de los que conozca.
 
@@ -513,9 +519,31 @@ VI. Vigilar la adecuada prestación de los servicios contratados por el fideicom
 
 VII. Las demás que le encomiende el director general o que establezcan este estatuto orgánico o los manuales del fideicomiso público.
 
-> <small>(REFORMADO, D.O. 19 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O. 2 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 32.
+
+Facultades y obligaciones del jefe del Departamento de Diseño y Comunicación
+
+El jefe del Departamento de Diseño y Comunicación tendrá las siguientes facultades y obligaciones:
+
+I. Proponer al director general y, en su caso, diseñar e implementar estrategias y acciones para la difusión y promoción del fideicomiso público.
+
+II. Administrar los medios oficiales de comunicación digital del fideicomiso público y mantenerlos actualizados con la información generada por la unidad administrativa a su cargo, o bien, por las demás unidades administrativas del propio fideicomiso público.
+
+III. Elaborar los mensajes y el material audiovisual que permitan dar a conocer los eventos y las actividades a desarrollarse o desarrolladas en el Palacio de la Música, y fortalecer la imagen del fideicomiso público.
+
+IV. Establecer vínculos de coordinación con la unidad administrativa de Comunicación Social del Gobierno del estado, para la efectiva y oportuna difusión de los mensajes y del material audiovisual del fideicomiso público.
+
+V. Colaborar con la Coordinación de Ventas y Relaciones Públicas en la organización de ruedas de prensa y demás actos protocolarios.
+
+VI. Sistematizar y analizar la información y estadística relacionado con el Fideicomiso Público.
+
+VII. Las demás que le encomiende el director general o que establezcan este estatuto orgánico o los manuales del fideicomiso público.
+
+> <small>(REFORMADO, D.O. 2 DE AGOSTO DE 2023)</small>
+
+###### Artículo 33.
 
 Facultades y obligaciones del coordinador de Ventas y Relaciones Públicas
 
@@ -538,24 +566,6 @@ VII. Vigilar que el servicio contratado por los clientes sea prestado en tiempo 
 VIII. Verificar que los clientes cumplan con las obligaciones que disponga el instrumento jurídico por medio del cual se contrató el servicio.
 
 IX. Las demás que le encomiende el director general o que establezcan este estatuto orgánico o los manuales del fideicomiso público.
-
-> <small>(REFORMADO, D.O. 19 DE NOVIEMBRE DE 2021)</small>
-
-###### Artículo 33.
-
-Facultades y obligaciones del coordinador de Diseño y Comunicación
-
-El coordinador de Diseño y Comunicación tendrá las siguientes facultades y obligaciones:
-
-I. Proponer al director general y, en su caso, diseñar e implementar estrategias y acciones para la difusión y promoción del fideicomiso público.
-
-II. Administrar los medios oficiales de comunicación digital del fideicomiso público y mantenerlos actualizados con la información generada por la unidad administrativa a su cargo, o bien, por las demás unidades administrativas del propio fideicomiso público.
-
-III. Elaborar los mensajes y el material audiovisual que permitan dar a conocer los eventos y las actividades a desarrollarse o desarrolladas en el Palacio de la Música, y fortalecer la imagen del fideicomiso público.
-
-IV. Establecer vínculos de coordinación con la unidad administrativa de Comunicación Social del Gobierno del estado, para la efectiva y oportuna difusión de los mensajes y del material audiovisual del fideicomiso público.
-
-V. Las demás que le encomiende el director general o que establezcan este estatuto orgánico o los manuales del fideicomiso público.
 
 ### Capítulo IV. Vigilancia y supervisión
 
@@ -598,6 +608,18 @@ Director general del Fideicomiso Público para la Administración del Palacio de
 D.O. 19 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO FIPAPAM 3/2021 POR EL QUE SE MODIFICA EL ACUERDO FIPAPAM 2/2020 POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DEL FIDEICOMISO PÚBLICO PARA LA ADMINISTRACIÓN DEL PALACIO DE LA MÚSICA”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Fideicomiso Público para la Administración del Palacio de la Música, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá inscribir en el Registro de Entidades Paraestatales las modificaciones efectuadas por este acuerdo al Estatuto Orgánico del Fideicomiso Público para la Administración del Palacio de la Música.
+
+D.O. 2 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO FIPAPAM 5/2023 POR EL QUE SE MODIFICA EL ACUERDO FIPAPAM 2/2020 POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DEL FIDEICOMISO PÚBLICO PARA LA ADMINISTRACIÓN DEL PALACIO DE LA MÚSICA”.]
 
 Primero. Entrada en vigor
 
