@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-de-paz-del-estado-de-jalisco-149411"
 country: "mx"
 rank: "ley"
 publication_date: "2021-05-11"
-last_updated: "2021-05-11"
+last_updated: "2023-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA DE PAZ DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el martes 11 de mayo de 2021.
 
@@ -99,31 +99,61 @@ XV. Las demás que señalen otros ordenamientos.
 
 Para los efectos de la presente ley se entiende por:
 
-I. Ciudadanía: Dentro del marco de construcción de la cultura de la paz y la seguridad humana, se entiende por ciudadanía al empoderamiento que cada persona adquiere cuando asume, de manera consciente, aquello que le compete respecto a los derechos y obligaciones requeridos para la construcción de su entorno político-social;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE AGOSTO DE 2023)</small>
 
-II. Conflicto: Es un fenómeno social que es inherente, inevitable, dinámico, multicausal y complejo, que surge en el momento en que existe contraposición de intereses, necesidades u objetivos entre personas o grupos, pero que puede afrontarse como una posibilidad de crecimiento y aprendizaje, el cual se compone por las personas (individuos o grupos); el problema que genera la tensión y, el proceso, que son las formas en las que se desarrolla, escala o se transforma el problema;
+I. Círculo de Paz: Es un proceso estructurado, flexible y planificado, de dialogo comunitario, basado en la cultura de paz, útil para facilitar la resolución de conflictos, la construcción o reconstrucción de relaciones empáticas y pacíficas y ambientes seguros, inclusivos y respetuosos de los derechos humanos;
 
-III. Cultura de Paz: Son estilos de vida, patrones de creencias, valores y comportamientos que van encaminados a la construcción de la paz y la transformación no violenta de los conflictos, mediante acciones que promueven el bienestar, la igualdad, la administración equitativa de los recursos, la seguridad para los individuos, las familias, la identidad de los grupos o de las naciones;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
 
-IV. Cultura de Violencia: Son los valores y comportamientos de una sociedad que glorifican, idealizan o naturalizan el uso de la fuerza y la violencia, la cual está asociada a la creencia de una superioridad que minimiza al otro-diferente; tales como mitos, símbolos y políticas de costumbres populares, así como procesos en los cuales la participación de los medios de comunicación tiene un papel fundamental;
+II. Ciudadanía: Dentro del marco de construcción de la cultura de la paz y la seguridad humana, se entiende por ciudadanía al empoderamiento que cada persona adquiere cuando asume, de manera consciente, aquello que le compete respecto a los derechos y obligaciones requeridos para la construcción de su entorno político-social;
 
-V. Educación para la paz: Es una categoría de la cultura de paz que desarrolla habilidades y aptitudes para aprender a vivir en y para el conflicto, comprendiendo que es inherente al ser humano y una oportunidad para lograr su transformación. La educación en la paz permite desarrollar aptitudes de empatía, reconocimiento de las diferencias, diálogo, escucha activa, cooperación y comunicación, para hacer frente a nuestra realidad social, a través de la toma consciente de decisiones y una convivencia pacífica;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
 
-VI. Espacios de paz: Es un lugar de carácter público para el encuentro colectivo, donde existen diversas interacciones que generan un sentido de pertenencia y favorecen la organización comunitaria desde la cultura de paz, la seguridad humana y el respeto pleno de los derechos humanos;
+III. Conflicto: Es un fenómeno social que es inherente, inevitable, dinámico, multicausal y complejo, que surge en el momento en que existe contraposición de intereses, necesidades u objetivos entre personas o grupos, pero que puede afrontarse como una posibilidad de crecimiento y aprendizaje, el cual se compone por las personas (individuos o grupos); el problema que genera la tensión y, el proceso, que son las formas en las que se desarrolla, escala o se transforma el problema;
 
-VII. Justicia Alternativa: Es un conjunto de herramientas para prevenir, gestionar y transformar ciertos conflictos a través de la voluntad, el diálogo y la cooperación de las partes, utilizando diversos métodos alternos de justicia de transformación de conflictos para el restablecimiento de la convivencia de conformidad con lo establecido en la Ley de Justicia Alternativa del Estado de Jalisco;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
 
-VIII. No Violencia: Es una acción consciente que cuenta como recurso primordial al empoderamiento pacifista, es decir, la capacidad que poseen los medios pacíficos para la transformación de los conflictos, tales como la desobediencia civil, la no cooperación, la organización social, el boicot, las manifestaciones civiles, entre otros;
+IV. Cultura de Paz: Son estilos de vida, patrones de creencias, valores y comportamientos que van encaminados a la construcción de la paz y la transformación no violenta de los conflictos, mediante acciones que promueven el bienestar, la igualdad, la administración equitativa de los recursos, la seguridad para los individuos, las familias, la identidad de los grupos o de las naciones;
 
-IX. Paz: Es la vivencia comunitaria que genera bienestar, equilibrio y armonía entre las personas, las comunidades y las sociedades, a través de un proceso de construcción permanente, imperfecto e inacabado que parte de los principios de justicia social y reconocimiento de derechos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
 
-X. Prevención de las violencias: Construcción de estrategias y acciones orientadas a disminuir los factores de riesgo que permiten la generación de las violencias. Así como, aumentar los factores de protección a las personas, grupos y comunidades en las que pueda manifestarse ésta;
+V. Cultura de Violencia: Son los valores y comportamientos de una sociedad que glorifican, idealizan o naturalizan el uso de la fuerza y la violencia, la cual está asociada a la creencia de una superioridad que minimiza al otro-diferente; tales como mitos, símbolos y políticas de costumbres populares, así como procesos en los cuales la participación de los medios de comunicación tiene un papel fundamental;
 
-XI. Seguridad Ciudadana: Está centrada en las personas y las comunidades, partiendo de la coproducción de la seguridad; asegura el goce y ejercicio de los derechos humanos permitiendo a las personas desarrollar sus capacidades y libertades para contribuir con todo su potencial a mejorar a sus familias, comunidades e instituciones;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
 
-XII. Seguridad Humana: Enfoque integral de la seguridad que tiene como objetivo lograr que las personas vivan libres de miedos, amenazas y riesgos a través de la generación de acciones que combatan las circunstancias que menoscaban la integralidad de sus derechos humanos y sus necesidades;
+VI. Educación para la paz: Es una categoría de la cultura de paz que desarrolla habilidades y aptitudes para aprender a vivir en y para el conflicto, comprendiendo que es inherente al ser humano y una oportunidad para lograr su transformación. La educación en la paz permite desarrollar aptitudes de empatía, reconocimiento de las diferencias, diálogo, escucha activa, cooperación y comunicación, para hacer frente a nuestra realidad social, a través de la toma consciente de decisiones y una convivencia pacífica;
 
-XIII. Violencias: Es la privación de los derechos humanos fundamentales, tales como la disminución del nivel real de satisfacción de las necesidades básicas por debajo de lo que es potencialmente posible, se reconocen tres tipos de violencias;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
+
+VII. Espacios de paz: Es un lugar de carácter público para el encuentro colectivo, donde existen diversas interacciones que generan un sentido de pertenencia y favorecen la organización comunitaria desde la cultura de paz, la seguridad humana y el respeto pleno de los derechos humanos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
+
+VIII. Justicia Alternativa: Es un conjunto de herramientas para prevenir, gestionar y transformar ciertos conflictos a través de la voluntad, el diálogo y la cooperación de las partes, utilizando diversos métodos alternos de justicia de transformación de conflictos para el restablecimiento de la convivencia de conformidad con lo establecido en la Ley de Justicia Alternativa del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
+
+IX. No Violencia: Es una acción consciente que cuenta como recurso primordial al empoderamiento pacifista, es decir, la capacidad que poseen los medios pacíficos para la transformación de los conflictos, tales como la desobediencia civil, la no cooperación, la organización social, el boicot, las manifestaciones civiles, entre otros;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
+
+X. Paz: Es la vivencia comunitaria que genera bienestar, equilibrio y armonía entre las personas, las comunidades y las sociedades, a través de un proceso de construcción permanente, imperfecto e inacabado que parte de los principios de justicia social y reconocimiento de derechos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
+
+XI. Prevención de las violencias: Construcción de estrategias y acciones orientadas a disminuir los factores de riesgo que permiten la generación de las violencias. Así como, aumentar los factores de protección a las personas, grupos y comunidades en las que pueda manifestarse ésta;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
+
+XII. Seguridad Ciudadana: Está centrada en las personas y las comunidades, partiendo de la coproducción de la seguridad; asegura el goce y ejercicio de los derechos humanos permitiendo a las personas desarrollar sus capacidades y libertades para contribuir con todo su potencial a mejorar a sus familias, comunidades e instituciones;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
+
+XIII. Seguridad Humana: Enfoque integral de la seguridad que tiene como objetivo lograr que las personas vivan libres de miedos, amenazas y riesgos a través de la generación de acciones que combatan las circunstancias que menoscaban la integralidad de sus derechos humanos y sus necesidades;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO -REUBICADA CON SUS NUMERALES-], P.O. 3 DE AGOSTO DE 2023)</small>
+
+XIV. Violencias: Es la privación de los derechos humanos fundamentales, tales como la disminución del nivel real de satisfacción de las necesidades básicas por debajo de lo que es potencialmente posible, se reconocen tres tipos de violencias;
 
 1. Violencia Directa: Es el tipo de violencia más conocida y evidente, la violencia directa es la manifestación última de algo, no su origen;
 
@@ -131,9 +161,13 @@ XIII. Violencias: Es la privación de los derechos humanos fundamentales, tales 
 
 3. Violencia Cultural: Son aquellas ideas, creencias y normas que legitiman y promueven la violencia directa y estructural, además de inhibir y reprimir la respuesta de quienes la sufren, lo que genera una condición de naturalización de las violencias;
 
-XIV. Consejos: Consejos Municipales de Participación Ciudadana para la Gobernanza y la Paz; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
 
-XV. Secretaría: Secretaría de Planeación y Participación Ciudadana del Estado de Jalisco.
+XV. Consejos: Consejos Municipales de Participación Ciudadana para la Gobernanza y la Paz; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2023)</small>
+
+XVI. Secretaría: Secretaría de Planeación y Participación Ciudadana del Estado de Jalisco.
 
 ###### Artículo 6.
 
@@ -313,9 +347,17 @@ III. Transformación no violenta de conflictos;
 
 a) Mediación comunitaria;
 
-b) Justicia alternativa; y
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2023)</small>
 
-c) Gestión no violenta de la conflictividad.
+b) Justicia alternativa;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE AGOSTO DE 2023)</small>
+
+c) Círculos de paz; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 3 DE AGOSTO DE 2023)</small>
+
+d) Gestión no violenta de la conflictividad;
 
 IV. Desarrollo de capacidades ciudadanas para la paz;
 
@@ -392,3 +434,13 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29222/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 83, Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 90, Y ADICIONA LA FRACCIÓN X, AL ARTÍCULO 82, DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; REFORMA LAS FRACCIONES I A LA XV, DEL ARTÍCULO 5, Y EL INCISO C), DE LA FRACCIÓN III, DEL ARTÍCULO 19, Y ADICIONA LA FRACCIÓN XVI, AL ARTÍCULO 5, Y EL INCISO D), A LA FRACCIÓN III, DEL ARTÍCULO 19, DE LA LEY DE CULTURA DE PAZ DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
