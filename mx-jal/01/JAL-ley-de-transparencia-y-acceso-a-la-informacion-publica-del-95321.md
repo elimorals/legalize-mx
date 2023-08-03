@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2021-09-09"
+last_updated: "2023-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -2703,6 +2703,22 @@ III. Dejar registro audiovisual de la sesión y sus acuerdos.
 
 5. En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS PÁRRAFOS Y FRACCIONES], P.O. 3 DE AGOSTO DE 2023)</small>
+
+6. El pleno, también podrá sesionar a distancia, cuando así lo apruebe la mayoría de sus integrantes, haciendo uso de los medios previstos en el párrafo 4 y con las formalidades del párrafo 5 del presente artículo.
+
+En este caso, deberá citarse de manera indubitable a los integrantes con al menos veinticuatro horas de anticipación, acompañando el orden del día, que no podrá modificarse, y los documentos necesarios para el desahogo de la sesión.
+
+En las sesiones a que se refiere este párrafo no podrán desahogarse los siguientes asuntos:
+
+I. Aprobación del proyecto de Presupuesto de Egresos anual y sus modificaciones;
+
+II. Designación o remoción de los servidores públicos del Instituto;
+
+III. Aprobación del informe anual de actividades y su normativa interna; y
+
+IV. Adquisición o enajenación de su patrimonio inmobiliario.
+
 > <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 41.
@@ -4850,3 +4866,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
+
+P.O. 3 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29225/LXIII/23 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL REFORMA EL ARTÍCULO 40, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
