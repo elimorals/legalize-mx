@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-operacion-del-comite-tecnico-interno-de-146707"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-01-27"
-last_updated: "2021-01-27"
+last_updated: "2023-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146707&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-01-11"
 
 REGLAMENTO DE OPERACIÓN DEL COMITÉ TÉCNICO INTERNO DE ADMINISTRACIÓN DE DOCUMENTOS DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2023.
 
 Reglamento publicado en el Número 523 de la Gaceta Oficial de la Ciudad de México, el miércoles 27 de enero de 2021.
 
@@ -120,6 +120,8 @@ Las personas invitadas a las sesiones del COTECIAD, solo tendrán derecho a voz.
 
 #### Sección Segunda. De las suplencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 3 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 6.
 
 En caso de inasistencia a las sesiones del COTECIAD, las personas que lo integren podrán designar a quien les supla, observando lo siguiente:
@@ -130,7 +132,9 @@ II. La Secretaría Técnica será suplida por quien se encuentre a cargo de la J
 
 III. Las vocalías y representaciones serán suplidas por quien designe la persona titular del área o ponencia del Tribunal que corresponda.
 
-Las personas integrantes del COTECIAD solo podrán ser suplidas, hasta en dos ocasiones no consecutivas durante el año que corresponda, salvo que exista algún impedimento debidamente justificado que imposibilite su asistencia a las sesiones a las que fueren convocadas.
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2023)</small>
+
+Las personas integrantes del COTECIAD podrán ser suplidas, cuando exista algún impedimento justificado que imposibilite su asistencia a las sesiones a las que fueren convocadas.
 
 Quien sea suplente deberá conocer la documentación relacionada con el o los asuntos a tratar en la sesión, a fin de estar en aptitud de emitir sus opiniones o su voto, en su caso, ambos; además contará con los mismos derechos y obligaciones que corresponden al cargo que represente.
 
@@ -408,15 +412,19 @@ I. Acuerdos, y
 
 II. Determinaciones de trámite.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 29.
 
 Los acuerdos del COTECIAD se identificarán con una clave alfanumérica, conforme a lo siguiente:
 
 I. Dos dígitos que corresponden al número de acuerdo conforme a un orden progresivo (01, 02, etcétera), seguidos de una diagonal;
 
-II. Cuatro dígitos correspondientes al año en que se emitió el acuerdo, seguidos de una diagonal, y
+II. Dos dígitos que corresponden al número de sesión conforme a un orden progresivo (01, 02, etcétera), y la abreviatura que corresponda al tipo de sesión: ORD (Ordinaria) y EXT (Extraordinaria) seguidos de una diagonal;
 
-III. Las siglas del COTECIAD.
+III. Cuatro dígitos correspondientes al año en que se emitió el acuerdo, seguidos de una diagonal, y
+
+IV. Las siglas del COTECIAD.
 
 #### Sección Octava. De las minutas y actas de sesión
 
@@ -428,13 +436,17 @@ La Secretaría Técnica circulará el proyecto de minuta a las personas que inte
 
 La minuta de la sesión será firmada al día siguiente hábil en el que haya concluido el término para emitir observaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 3 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 31.
 
 La Secretaría Técnica elaborará un proyecto de acta de sesión que contendrá la fecha y la hora de su inicio y conclusión; la lista de las personas integrantes del COTECIAD asistentes, señalando su nombre, cargo, órgano o área de adscripción; el orden del día; un resumen de las intervenciones, el sentido de los votos emitidos; las determinaciones de trámite asumidas y los acuerdos aprobados.
 
 La Secretaria Técnica circulará el proyecto de acta de sesión a quienes sean integrantes del COTECIAD, dentro de los cinco días hábiles posteriores, una vez que haya concluido el término para emitir observaciones para la minuta correspondiente, quienes podrán emitir sus observaciones dentro de los cinco días hábiles posteriores a la fecha de su recepción.
 
-El acta de sesión deberá ser, en su caso, aprobada y firmada a más tardar en la sesión ordinaria inmediata siguiente. Si durante el periodo previsto para la aprobación y firma de la minuta o acta de sesión, una de las personas integrantes del COTECIAD renuncia, se separa del cargo o cambia de adscripción, y por tanto no firma tales documentos, esta circunstancia no elimina ni cancela sus efectos.
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2023)</small>
+
+El acta de sesión deberá ser, en su caso, aprobada y firmada en la sesión inmediata siguiente. Si durante el periodo previsto para la aprobación y firma de la minuta o acta de sesión, una de las personas integrantes del COTECIAD renuncia, se separa del cargo o cambia de adscripción, y por tanto no firma tales documentos, esta circunstancia no elimina ni cancela sus efectos.
 
 Los acuerdos y determinaciones de trámite suscritos por quienes sean integrantes en la minuta correspondiente adquieren plena validez.
 
@@ -479,3 +491,13 @@ PABLO FRANCISCO HERNÁNDEZ HERNÁNDEZ
 SECRETARIO GENERAL DEL TRIBUNAL ELECTORAL
 
 DE LA CIUDAD DE MÉXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 3 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE OPERACIÓN DEL COMITÉ TÉCNICO INTERNO DE ADMINISTRACIÓN DE DOCUMENTOS DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. La presente reforma al Reglamento de Operación del Comité Técnico Interno de Administración de Documentos del Tribunal Electoral de la Ciudad de México entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Publíquese en los estrados y en el sitio de Internet e Intranet del Tribunal, así como en la Gaceta Oficial de la Ciudad de México.
