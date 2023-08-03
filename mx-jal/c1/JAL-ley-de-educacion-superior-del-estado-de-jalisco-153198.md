@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-superior-del-estado-de-jalisco-153198"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-25"
-last_updated: "2023-06-10"
+last_updated: "2023-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023.
 
 Ley publicada al Sección VI al Número 3 del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2021.
 
@@ -715,9 +715,15 @@ XI. Una cultura de prevención y resiliencia para la protección civil, a fin de
 
 XII. Prácticas rigurosas y adecuadas de evaluación y acreditación de programas, procesos e instituciones de educación superior;
 
-XIII. La erradicación de cualquier circunstancia social, educativa, económica, de salud, trabajo, culturales o políticas; disposiciones legales, figuras o instituciones jurídicas, acciones, omisiones, barreras de comunicación y de educación con base en los principios del diseño universal o prácticas que tengan por objeto o produzcan el efecto de negar, excluir, distinguir, menoscabar, impedir o restringir el derecho a la educación superior de las personas, grupos o pueblos, especialmente de aquellos que se encuentren en situación de desventaja social o vulnerabilidad; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2023)</small>
 
-XIV. Todas aquellas que contribuyan al logro de los criterios, fines y políticas de la educación superior.
+XIII. La erradicación de cualquier circunstancia social, educativa, económica, de salud, trabajo, culturales o políticas; disposiciones legales, figuras o instituciones jurídicas, acciones, omisiones, barreras de comunicación y de educación con base en los principios del diseño universal o prácticas que tengan por objeto o produzcan el efecto de negar, excluir, distinguir, menoscabar, impedir o restringir el derecho a la educación superior de las personas, grupos o pueblos, especialmente de aquellos que se encuentren en situación de desventaja social o vulnerabilidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE AGOSTO DE 2023)</small>
+
+XIV. Emisión de modelos y protocolos que garanticen la permanencia y egreso de la educación superior de las mujeres en etapa de embarazo, parto y puerperio, en cualquier modalidad educativa; así como que se promueva, respete y favorezca la lactancia materna en las sedes de las instituciones de educación superior; y
+
+XV. Todas aquellas que contribuyan al logro de los criterios, fines y políticas de la educación superior.
 
 ###### Artículo 39.
 
@@ -779,7 +785,13 @@ II. En el ámbito académico:
 
 a) Incorporación de contenidos educativos con perspectiva de género que fomenten la igualdad sustantiva y contribuyan a la eliminación de todos los tipos y modalidades de violencia, en específico la que se ejerce contra las mujeres, así como los estereotipos de género y que estén basados en la idea de la superioridad o inferioridad de uno de los sexos; y
 
-b) Desarrollo de investigación multidisciplinaria encaminada a crear modelos para la detección y erradicación de la violencia contra las mujeres en las instituciones de educación superior.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2023)</small>
+
+b) Desarrollo de investigación multidisciplinaria encaminada a crear modelos para la detección y erradicación de la violencia contra las mujeres en las instituciones de educación superior; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE AGOSTO DE 2023)</small>
+
+c) Desarrollo e implementación de modelos y protocolos que garanticen la permanencia y egreso de la educación superior de las mujeres en etapa de embarazo, parto y puerperio, en cualquier modalidad educativa; así como que se promueva, respete y favorezca la lactancia materna en las sedes de las instituciones de educación superior.
 
 III. En el entorno de la prestación del servicio:
 
@@ -1444,3 +1456,11 @@ P.O. 10 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29177/LXIII/23 QUE REFORMA LA FRACCIÓN II, NUMERAL 1, ARTÍCULO 11; FRACCIONES XI, XIV Y XXVII, NUMERAL 1, ARTÍCULO 12; FRACCIÓN III, NUMERAL 1, ARTÍCULO 13; NUMERAL 2, ARTÍCULO 16; NUMERAL 3, ARTÍCULO 17; NUMERAL 1 Y FRACCIÓN II, Y NUMERAL 2, ARTÍCULO 26; FRACCIONES I Y V, NUMERAL 2, ARTÍCULO 35; NUMERAL 1, ARTÍCULO 41; INCISO C), FRACCIÓN I, NUMERAL 2 Y NUMERAL 3, ARTÍCULO 44; NUMERAL 1, ARTÍCULO 47; FRACCIÓN XXV, NUMERAL 1, ARTÍCULO 49; NUMERAL 1, ARTÍCULO 53; FRACCIÓN X, NUMERAL 1, ARTÍCULO 68; NUMERAL 2, ARTÍCULO 69; NUMERAL 5, ARTÍCULO 70; INCISOS G) E I), FRACCIÓN I Y FRACCIÓN VI, NUMERAL 1, ARTÍCULO 72; INCISO A), FRACCIÓN I, NUMERAL 1 ARTÍCULO 73; FRACCIÓN IV, NUMERAL 1, ARTÍCULO 75; FRACCIONES III Y VIII, NUMERAL 1, ARTÍCULO 76; NUMERALES 1 Y 3, ARTÍCULO 78 Y TRANSITORIO SEXTO; Y ADICIONA LA FRACCIÓN XXVI, AL NUMERAL 1, ARTÍCULO 10 Y LA FRACCIÓN V, AL NUMERAL 1, ARTÍCULO 46, DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE JALISCO.".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29224/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA LAS FRACCIONES XIII Y XIV Y SE RECORRE EN EL ORDEN LA SUBSECUENTE DEL ARTÍCULO 38; QUE REFORMAN LOS INCISOS B) Y C) DE LA FRACCIÓN II DEL ARTÍCULO 44 DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las personas titulares del Poder Ejecutivo y de la Secretaría de Innovación, Ciencia y Tecnología del Estado de Jalisco, emitirán y adecuarán los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en el presente decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente decreto.
