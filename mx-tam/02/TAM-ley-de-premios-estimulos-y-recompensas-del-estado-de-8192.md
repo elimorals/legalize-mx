@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-premios-estimulos-y-recompensas-del-estado-de-8192"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-26"
-last_updated: "2020-10-15"
+last_updated: "2023-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 26 de diciembre de 1987.
 
@@ -717,9 +717,9 @@ II. Ciencia; y
 
 III. Tecnología.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2023)</small>
 
-La tramitación de este Premio se hará ante el Consejo Tamaulipeco de Ciencia y Tecnología, cuyo titular formará parte del Consejo de Premiación, el cual será presidido por quien ostente la Presidencia de la Comisión de Innovación, Ciencia y Tecnología del Congreso del Estado; así mismo, lo integrarán también las o los titulares de las Secretarías de Bienestar Social, de Desarrollo Económico, de Educación, y la Rectoría de la Universidad Autónoma de Tamaulipas.
+La tramitación de este Premio se hará ante el Consejo Tamaulipeco de Ciencia y Tecnología, cuyo titular presidirá el Consejo de Premiación, el cual se integrará, además, por las o los titulares de las Secretarías de Bienestar Social, de Desarrollo Económico, de Educación, de la Rectoría de la Universidad Autónoma de Tamaulipas, así como por quien ostente la Presidencia de la Comisión de Innovación, Ciencia y Tecnología del Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
 
@@ -914,6 +914,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 15 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-147 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 89 QUÁTER, PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, QUINTO Y SEXTO; Y SE ADICIONA UN PÁRRAFO SÉPTIMO A DICHO NUMERAL DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-620 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 89 QUÁTER, PÁRRAFO TERCERO DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
