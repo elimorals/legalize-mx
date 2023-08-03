@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2023-07-18"
+last_updated: "2023-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -1319,13 +1319,21 @@ VII. Hacer del conocimiento de las autoridades competentes las conductas que pue
 
 VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social; y
 
-IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2023)</small>
+
+IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas; y
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2023)</small>
+
+X. Implementar los mecanismos alternativos de resolución de controversias entre los integrantes de la comunidad educativa, a través de salas o espacios de mediación establecidas en centros educativos.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2023)</small>
 
 Protocolos para el fomento de la cultura de la paz y no violencia
 
 ###### Artículo 83.
 
-La autoridad educativa estatal, en el ámbito de su respectiva competencia, emitirá protocolos de actuación que sean necesarios para el cumplimiento del artículo 82 de esta Ley. Entre los protocolos que emita, deberán encontrarse las reglas de convivencia escolar para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
+La autoridad educativa estatal, en el ámbito de su respectiva competencia, emitirá protocolos de actuación que sean necesarios para el cumplimiento del artículo 82 de esta Ley. Entre los protocolos que emita, deberán encontrarse las reglas de convivencia escolar para la prevención, gestión, manejo y atención de la violencia, intolerancia o discriminación que se genere en el entorno escolar, familiar, laboral o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
 
 Seguro escolar contra accidentes personales para educandos
 
@@ -1415,7 +1423,9 @@ Las instituciones educativas, a través de los Consejos Escolares de Participaci
 
 Las escuelas deberán presentar un informe semestral a la autoridad educativa estatal respecto a los incidentes de acoso y violencia escolar, a efecto de que exista un registro que arroje la incidencia, los avances o retrocesos en relación con el tema.
 
-La autoridad educativa estatal deberá implementar el programa para fomentar la convivencia en la comunidad escolar, el cual deberá contener las acciones a desarrollar para la difusión informativa y preventiva del acoso y la violencia escolar.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2023)</small>
+
+La autoridad educativa estatal deberá implementar programas que promuevan la cultura de paz en un ambiente escolar seguro, inclusivo y respetuoso de los derechos humanos, a través de círculos de paz o cualquier otra acción, con el fin de fomentar la convivencia, prevenir el acoso, erradicar la violencia escolar y practicar la resolución de conflictos en la comunidad escolar.
 
 ## Título Quinto. De la revalorización de las maestras y los maestros
 
@@ -2652,5 +2662,13 @@ P.O. 18 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 29209/LXIII/23 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
+
+P.O. 3 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29222/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 83, Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 90, Y ADICIONA LA FRACCIÓN X, AL ARTÍCULO 82, DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; REFORMA LAS FRACCIONES I A LA XV, DEL ARTÍCULO 5, Y EL INCISO C), DE LA FRACCIÓN III, DEL ARTÍCULO 19, Y ADICIONA LA FRACCIÓN XVI, AL ARTÍCULO 5, Y EL INCISO D), A LA FRACCIÓN III, DEL ARTÍCULO 19, DE LA LEY DE CULTURA DE PAZ DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
 
 SEGUNDO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
