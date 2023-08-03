@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2023-07-18"
+last_updated: "2023-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -681,11 +681,13 @@ VIII. Las demás que establezca la legislación aplicable.
 
 ### CAPÍTULO XI. Del Derecho a la Educación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 3 DE AGOSTO DE 2023, PÁGINA 28.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 42.
 
-Niñas, niños y adolescentes, en los términos del artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, tienen derecho a una educación en condiciones óptimas, con el conjunto de instalaciones indispensables en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje que coadyuve al pleno desarrollo de los educandos, y que vaya encaminada a:
+Niñas, niños y adolescentes, en los términos del artículo 3o de la constitución política de los estados unidos mexicanos, tienen derecho a una educación en condiciones óptimas, con el conjunto de instalaciones indispensables en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje que coadyuve al pleno desarrollo de los educandos, y que vaya encaminada a:
 
 I. Garantizar el respeto a su dignidad humana, basada en un enfoque de derechos humanos, de igualdad sustantiva y la no discriminación;
 
@@ -727,17 +729,13 @@ XIV. Brindar atención y orientación sensible y libre de discriminación a las 
 
 XV. Contribuir a garantizar la permanencia y conclusión de la educación básica y media superior de niñas, niños y adolescentes, de manera presencial o a distancia, así como para abatir el ausentismo, abandono y descerción (sic) escolares;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2023)</small>
 
-XVI. Fomentar el uso responsable y seguro de las tecnologías de la información y comunicación;
+XVI. Fomentar el uso responsable y seguro de las tecnologías de la información y comunicación; recibir formación de alfabetización digital adaptada a la edad, para identificar amenazas y reconocer las consecuencias; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE JULIO DE 2023)</small>
+(REUBICADA, P.O. 3 DE AGOSTO DE 2023)
 
-XVII. Fomentar el desarrollo de la inteligencia emocional individual y colectiva, para que propicie la sana convivencia social; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE JULIO DE 2023)</small>
-
-XVIII. Lo demás contenido en la Ley General y en las leyes de la materia.
+XVII. Lo demás contenido en la Ley General y en las leyes de la materia.
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes.
 
@@ -2348,3 +2346,9 @@ P.O. 18 DE JULIO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
+
+P.O. 3 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29228/LXIII/23 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL REFORMA EL ARTÍCULO 42 FRACCIÓN XVI DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
