@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2020-04-24"
+last_updated: "2023-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -422,6 +422,24 @@ II. La interacción e intercomunicación, en tiempo real, para propiciar la corr
 III. Dejar registro audiovisual de la sesión y sus acuerdos.
 
 En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE AGOSTO DE 2023)</small>
+
+###### Artículo 16 Ter.
+
+El pleno, también podrá sesionar a distancia, cuando así lo apruebe la mayoría de sus integrantes, observando lo previsto en el artículo anterior.
+
+En este caso, deberá citarse de manera indubitable a los integrantes con al menos veinticuatro horas de anticipación, acompañando el orden del día, que no podrá modificarse, y los documentos necesarios para el desahogo de la sesión.
+
+En las sesiones a que se refiere este párrafo no podrán desahogarse los siguientes asuntos:
+
+I. Aprobación del proyecto de Presupuesto de Egresos anual y sus modificaciones;
+
+II. Designación o remoción de las personas servidoras públicas o personal auxiliar de la Comisión;
+
+III. Aprobación del informe anual de actividades y su normativa interna; y
+
+IV. Adquisición o enajenación (sic) su patrimonio inmobiliario.
 
 (REUBICADA, P.O. 13 DE FEBRERO DE 2001)
 
@@ -1566,3 +1584,9 @@ P.O. 24 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 27902/LXII/20 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 47, CREA EL CAPÍTULO VII DENOMINADO DE LAS SESIONES A DISTANCIA Y ADICIONA LOS ARTÍCULOS 33 BIS, 33 TER, 33 QUÁTER, 33 QUINQUIES Y 33 SEXTIES, TODOS DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, EL ARTÍCULO 75 Y ADICIONA EL ARTÍCULO 6 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; ADICIONA EL ARTICULO 115 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ADICIONA LOS ARTÍCULOS 22 BIS, 39 BIS, 143 BIS Y 153 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 27 Y ADICIONA LOS ARTÍCULOS 27 BIS Y 29 BIS, DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 7 Y 12 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 26 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 16 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 3 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29226/LXIII/23 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTICULAR (SIC) 16 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
