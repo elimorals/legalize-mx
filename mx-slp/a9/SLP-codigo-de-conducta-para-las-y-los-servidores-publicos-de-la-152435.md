@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-conducta-para-las-y-los-servidores-publicos-de-la-152
 country: "mx"
 rank: "codigo"
 publication_date: "2021-07-21"
-last_updated: "2021-07-21"
+last_updated: "2023-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE FINANZAS DEL GOBIERNO DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 3 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023 (DEROGADO).
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 21 de julio de 2021.
 
@@ -576,3 +578,17 @@ San Luis Potosí, S.L.P., a los ____ días del mes de _____ del año 20__.
 PROTESTO LO NECESARIO
 
 (NOMBRE Y FIRMA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS".]
+
+PRIMERO.- Se Deroga el Código de Conducta de la Secretaría de Finanzas, Publicado el miércoles 21 de junio del 2021 en el periódico oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO.- El presente Código de Conducta para las y los servidores públicos de la Secretaría de Finanzas del Gobierno del Estado de San Luis Potosí, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+TERCERO.- Las delaciones en proceso de atención por el Comité de ética y de Prevención de Conflictos de Interés de la Secretaría de Finanzas del Gobierno del Estado de San Luis Potosí, presentadas con anterioridad a la entrada en vigor del presente Código, se sujetará a las disposiciones vigentes al momento de haberse iniciado el procedimiento vigente.
+
+CUARTO.- Las y los titulares de las unidades administrativas de la Secretaría de Finanzas del Estado de San Luis Potosí, deberán hacer del conocimiento al personal adscrito a sus áreas el presente Código de Conducta. Así fue acordado en la Ciudad de San Luis Potosí, Capital del Estado del mismo Nombre, a los quince días del mes de junio del año dos mil veintitrés.
