@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2020-04-24"
+last_updated: "2023-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -422,6 +422,24 @@ II. La interacción e intercomunicación, en tiempo real, para propiciar la corr
 III. Dejar registro audiovisual de la sesión y sus acuerdos.
 
 En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE AGOSTO DE 2023)</small>
+
+###### Artículo 16 Ter.
+
+El pleno, también podrá sesionar a distancia, cuando así lo apruebe la mayoría de sus integrantes, observando lo previsto en el artículo anterior.
+
+En este caso, deberá citarse de manera indubitable a los integrantes con al menos veinticuatro horas de anticipación, acompañando el orden del día, que no podrá modificarse, y los documentos necesarios para el desahogo de la sesión.
+
+En las sesiones a que se refiere este párrafo no podrán desahogarse los siguientes asuntos:
+
+I. Aprobación del proyecto de Presupuesto de Egresos anual y sus modificaciones;
+
+II. Designación o remoción de las personas servidoras públicas o personal auxiliar de la Comisión;
+
+III. Aprobación del informe anual de actividades y su normativa interna; y
+
+IV. Adquisición o enajenación (sic) su patrimonio inmobiliario.
 
 (REUBICADA, P.O. 13 DE FEBRERO DE 2001)
 
@@ -1567,6 +1585,10 @@ P.O. 24 DE ABRIL DE 2020.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1379 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PROMOCIÓN A LA LECTURA Y CREACIÓN DE LIBROS PARA EL ESTADO DE TAMAULIPAS Y A LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS".]
+P.O. 3 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29226/LXIII/23 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTICULAR (SIC) 16 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-122 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 81 BIS A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMA EL ARTÍCULO 51 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
