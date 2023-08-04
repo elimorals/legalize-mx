@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-revancha-de-pronosticos-para-31949
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2016-12-09"
+last_updated: "2023-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31949&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2003-05-19"
 ---
 # REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO MELATE - REVANCHA - REVANCHITA DE LOTERÍA NACIONAL, PUBLICADO EN EL D.O.F. DE 4 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE AGOSTO DE 2023 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -978,3 +980,15 @@ D.O.F. 9 DE DICIEMBRE DE 2016.
 PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+D.O.F. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO MELATE – REVANCHA – REVANCHITA DE LOTERÍA NACIONAL".]
+
+Primero.- Este Reglamento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento del Sorteo "Melate-Revancha" de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el 18 de junio de 2003.
+
+Tercero.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Reglamento.
+
+Cuarto.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de las presentes reformas y adiciones de este Reglamento, serán resueltas mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
