@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-sistema-para-el-desarrollo-integral-15976
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-08-18"
-last_updated: "2022-08-18"
+last_updated: "2023-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 4 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2023 (ABROGADO).
 
 Estatuto publicado en el Número 99 del Periódico Oficial del Estado de Tamaulipas, el jueves 18 de agosto de 2022.
 
@@ -1274,3 +1276,37 @@ El presente Estatuto Orgánico del Sistema para el Desarrollo Integral de la Fam
 Dado en ciudad Victoria, Tam., a los nueve días del mes de agosto del año dos mil veintidós.
 
 ATENTAMENTE.- LA DIRECTORA GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS.- DIANA EVELYN MATA MONREAL.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia de Tamaulipas entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, publicado en (sic) Periódico Oficial del Estado de Tamaulipas Número 99 de fecha 18 de agosto de 2022.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones administrativas que se opongan al presente Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+Las funciones de las personas titulares de las unidades administrativas que conforman el Sistema para el Desarrollo Integral de la Familia de Tamaulipas, estarán previstas en el Manual de Organización, que será publicado a los 90 días posteriores a la publicación del presente estatuto.
+
+###### ARTÍCULO QUINTO.
+
+Los reglamentos y demás disposiciones normativas del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, deberán de emitirse conforme al presente Estatuto Orgánico.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos cuyo trámite corresponda a las unidades administrativas contempladas en los reglamentos, acuerdos o cualquier otra disposición orgánica que por virtud de la entrada en vigor del presente Estatuto Orgánico queden abrogados, pasarán al conocimiento de las Unidades Administrativas que asuman sus atribuciones, previa suscripción de la respectiva acta de entrega-recepción.
+
+###### ARTÍCULO SÉPTIMO.
+
+El presente Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, deberá inscribirse en el Registro Estatal de Organismos Descentralizados.
