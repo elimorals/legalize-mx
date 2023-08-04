@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2023-05-16"
+last_updated: "2023-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -110,6 +110,10 @@ Toda persona gozará del derecho fundamental de recibir educación de excelencia
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 El proceso educativo deberá asegurar en el educando su sentido de responsabilidad social para lograr los fines a que se refiere el Artículo 6° de esta Ley y prestar servicios educativos de excelencia que garanticen el máximo logro de aprendizaje de los educandos, para que toda la población pueda cursar la educación inicial, preescolar, primaria, secundaria, media superior y superior.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2023)</small>
+
+En caso de emergencia sanitaria, caso fortuito o fuerza mayor que impida la asistencia presencial a clases, la autoridad educativa podrá en su ámbito de competencias, implementar acciones a fin de que las clases no se vean interrumpidas, empleando los recursos y medios tecnológicos, velando por la integridad de los alumnos, docentes y el personal que labora en los planteles educativos de la entidad.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -535,13 +539,17 @@ La elaboración, programación y publicación de la información generada por di
 
 XLIII.- Promover y fortalecer en el ámbito de sus competencias la educación financiera a través de la impartición de actividades extracurriculares cuyos contenidos incluyan los conceptos, principios, elementos y procesos de emprendimiento, el ahorro y la inversión, que propicien el desarrollo económico y la calidad de vida de los habitantes del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2023)</small>
 
-XLIV.- Promover que la orientación vocacional proporcionada en los niveles secundaria y bachillerato sea impartida de manera preferente por profesionistas en psicología educativa o carreras afines, que cuenten con título y cédula profesional, y
+XLIV.- Promover que la orientación vocacional proporcionada en los niveles secundaria y bachillerato sea impartida de manera preferente por profesionistas en psicología educativa o carreras afines, que cuenten con título y cédula profesional;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2023)</small>
 
-XLV.- Las demás que fijen las leyes o normas aplicables en la materia.
+XLV.- Implementar las acciones necesarias para recuperar o continuar con los planes y programas educativos, cuando a causa de desastres naturales o contingencias sanitarias se impida garantizar el acceso a la educación de forma habitual y ordinaria, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE AGOSTO DE 2023)</small>
+
+XLVI.- Las demás que fijen las leyes o normas aplicables en la materia.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -661,13 +669,17 @@ Los municipios a través de sus ayuntamientos participarán, de acuerdo a sus po
 
 I.- La autoridad educativa municipal podrá, sin perjuicio de la concurrencia de las autoridades educativas federal y estatal, promover y prestar servicios educativos de cualquier tipo o modalidad;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2023)</small>
 
-II.- El Estado y los municipios podrán celebrar convenios para coordinar y unificar sus actividades educativas y cumplir con las responsabilidades a su cargo, y
+II.- El Estado y los municipios podrán celebrar convenios para coordinar y unificar sus actividades educativas y cumplir con las responsabilidades a su cargo;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2023)</small>
 
-III.- Los ayuntamientos coadyuvarán al mantenimiento de los planteles educativos y de los servicios de seguridad, agua y luz de éstos.
+III.- Los ayuntamientos coadyuvarán al mantenimiento de los planteles educativos y de los servicios de seguridad, agua y luz de éstos, y
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2023)</small>
+
+IV.- Los Ayuntamientos colaborarán, en el ámbito de sus competencias, en la implementación de acciones para recuperar o dar continuidad a los planes y programas educativos, en caso de desastres naturales o contingencia sanitaria.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -879,6 +891,10 @@ Los Planes y Contenidos Programáticos, a partir de la Educación Secundaria, ha
 
 La tecnología educativa aplicada al Sistema Educativo Estatal, se deberá caracterizar por ser innovadora y por buscar soluciones a los problemas educativos de acuerdo a las características de los educandos, así como el desarrollo tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento se apoyará en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto.
 
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2023)</small>
+
+Cuando por desastres naturales o contingencias sanitarias no sea posible asistir de manera ordinaria a los planteles educativos; se promoverá el uso de las tecnologías de la información y la comunicación, así como de los medios digitales, como una alternativa para garantizar el acceso a la educación y cumplir con los planes y programas educativos.
+
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 43.
@@ -1067,9 +1083,17 @@ V.- Participar en la aplicación de cooperaciones en numerario, bienes y servici
 
 VI.- Colaborar con el personal docente en el diagnóstico y atención de las dificultades escolares de sus hijas, hijos o pupilos y apoyar a los directivos y docentes en la prevención y solución de problemas de conducta, de afectación a la integridad y la seguridad, o de violencia física o psicológica;
 
-VII.- Acudir a los llamados de las autoridades educativas y escolares relacionados con la revisión del progreso, desempeño y conducta de sus hijas, hijos o pupilos menores de dieciocho años, y
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2023)</small>
 
-VIII.- Promover la participación de sus hijas, hijos o pupilos menores de dieciocho años en la práctica de actividades físicas, de recreación, deportivas y de educación física dentro y fuera de los planteles educativos, como un medio de cohesión familiar y comunitaria.
+VII.- Acudir a los llamados de las autoridades educativas y escolares relacionados con la revisión del progreso, desempeño y conducta de sus hijas, hijos o pupilos menores de dieciocho años;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2023)</small>
+
+VIII.- Promover la participación de sus hijas, hijos o pupilos menores de dieciocho años en la práctica de actividades físicas, de recreación, deportivas y de educación física dentro y fuera de los planteles educativos, como un medio de cohesión familiar y comunitaria, y
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2023)</small>
+
+IX.- Coadyuvar con las instituciones educativas en la implementación de medidas para recuperar o dar continuidad a los planes y programas educativos.
 
 En caso de incumplimiento de alguna de las obligaciones a las que se refiere este artículo por parte de madres y padres de familia o tutores, las autoridades educativas podrán dar aviso a las instancias encargadas de la protección de los derechos de niñas, niños y adolescentes para los efectos correspondientes en términos de la legislación aplicable.
 
@@ -1187,9 +1211,17 @@ VII.- Solicitar el refrendo del reconocimiento de validez oficial de estudios al
 
 VIII.- Proporcionar la información que sea requerida por las autoridades;
 
-IX.- Dar aviso a la autoridad educativa competente el cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación, y
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2023)</small>
 
-X.- Las demás que le señalen las leyes y normatividad aplicable a la materia.
+IX.- Dar aviso a la autoridad educativa competente el cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2023)</small>
+
+X.- Colaborar con las autoridades educativas en la implementación de acciones para recuperar o dar continuidad a los planes y programas educativos, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE AGOSTO DE 2023)</small>
+
+XI.- Las demás que señalen las leyes y normatividad aplicable a la materia.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -1447,13 +1479,17 @@ X.- Atender las disposiciones contenidas en la presente Ley y demás ordenamient
 
 XI.- Organizar servicios permanentes de promoción y asesoría de educación para adultos y dará las facilidades necesarias a sus trabajadores y familiares para estudiar y acreditar la educación primaria, secundaria y media superior;
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2023)</small>
 
-XII.- Brindar cursos a los docentes y al personal que labora en los planteles de educación, sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación, y
+XII.- Brindar cursos a los docentes y al personal que labora en los planteles de educación, sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2023)</small>
 
-XIII.- Incluir en la educación especial la orientación a las madres y padres o tutores, así como también a las maestras y maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación.
+XIII.- Incluir en la educación especial la orientación a las madres y padres o tutores, así como también a las maestras o los maestros y personal de las escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación, y
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2023)</small>
+
+XIV.- Promover acciones para recuperar o dar continuidad a los planes y programas educativos, en caso de desastres naturales o contingencia sanitaria.
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
@@ -1924,3 +1960,9 @@ P.O. 16 DE MAYO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO.- En un plazo que no exceda de 90 días hábiles, se deberán realizar las modificaciones al reglamento respectivo, con el propósito de facilitar criterios de evaluación que permitan el acceso al sistema de becas.
+
+P.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE IMPLEMENTACIÓN DE ACCIONES EN DESASTRES NATURALES O CONTINGENCIAS SANITARIAS, PARA BRINDAR DE FORMA HABITUAL Y ORDINARIA, EL SERVICIO PÚBLICO EDUCATIVO",]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
