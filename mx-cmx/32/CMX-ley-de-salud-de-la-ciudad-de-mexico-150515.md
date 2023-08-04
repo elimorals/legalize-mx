@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-de-la-ciudad-de-mexico-150515"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-09"
-last_updated: "2023-01-19"
+last_updated: "2023-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150515&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2021-08-06"
 ---
 # LEY DE SALUD DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
 
 Ley publicada en el No. 657 de la Gaceta Oficial de la Ciudad de México, el lunes 9 de agosto de 2021.
 
@@ -1292,9 +1294,9 @@ IX. Las demás que le señalen otras leyes y disposiciones aplicables.
 
 La atención a la salud materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 4 DE AGOSTO DE 2023)</small>
 
-I. La atención digna a las mujeres y personas embazadas, sin violencia ni discriminación y con perspectiva de género, interseccionalidad, derechos humanos y perspectiva intercultural durante el embarazo, el parto y el puerperio;
+I. La atención digna a las mujeres y personas embarazadas, sin violencia ni discriminación y con perspectiva de género, interseccionalidad, derechos humanos y perspectiva intercultural durante el embarazo, el parto y el puerperio;
 
 II. La atención de niñas y niños, así como la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y de su correcta nutrición. Para el cumplimiento de esto último, la Secretaría dará a conocer, por los medios de su alcance y en el ámbito de su competencia, la importancia de la lactancia materna, así como las conductas consideradas discriminatorias que limitan esta práctica y con ello, afecten la dignidad humana de la mujer y el derecho a la alimentación de las niñas y los niños;
 
@@ -1310,9 +1312,17 @@ VII. La detección temprana de la sordera y su tratamiento, desde los primeros d
 
 VIII. La prevención de la transmisión materno-infantil del VIH-SIDA y de la sífilis congénita;
 
-IX. Los mecanismos de aplicación obligatoria a fin de que toda persona embarazada pueda estar acompañada en todo momento, por una persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea, y
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
 
-X. La atención dirigida a niñas y niños con el objeto de establecer las acciones necesarias para la detección y prevención oportuna de los tumores pediátricos, y establecer los convenios y coordinación necesarios para ese fin.
+IX. Los mecanismos de aplicación obligatoria a fin de que toda persona embarazada pueda estar acompañada en todo momento, por una persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea;
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+X. La atención dirigida a niñas y niños con el objeto de establecer las acciones necesarias para la detección y prevención oportuna de los tumores pediátricos, y establecer los convenios y coordinación necesarios para ese fin, y
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+XI. La aplicación de la prueba de Evaluación de Desarrollo Infantil, desde el primer mes de nacimiento, de forma periódica hasta los seis años de edad, así como otras pruebas de evaluación del desarrollo psicomotor.
 
 ###### Artículo 65.
 
@@ -2839,5 +2849,15 @@ G.O. 19 DE ENERO DE 2023.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+G.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES I, IX, X Y SE ADICIONA LA FRACCIÓN XI, TODAS DEL ARTÍCULO 64 DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor en (sic) 1 de julio del año 2024, en tanto se asigna el presupuesto correspondiente a la Secretaría de Salud para sufragar los costos e impactos presupuestales de esta medida.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
