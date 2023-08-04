@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2023-05-04"
+last_updated: "2023-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -3186,11 +3186,11 @@ IV. La modificación o revocación de concesiones, permisos y, en general, de to
 
 Dentro del territorio del Distrito Federal, la Secretaría coadyuvará con las autoridades federales para la prevención y erradicación del tráfico de especies de flora y fauna silvestre, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 118.
 
-Las Alcaldías, en coordinación con la Secretaría del Medio Ambiente, tendrán a su cargo la conservación, mantenimiento, protección, restitución y desarrollo de los árboles que se encuentren dentro de su territorio.
+Las Alcaldías en coordinación con la Secretaría del Medio Ambiente, tendrán a su cargo la conservación, preservación, mantenimiento, protección, restitución y desarrollo, así como la implementación de tratamientos fitosanitarios de los árboles que se encuentren en su territorio, con productos inofensivos para el entorno natural y humano, privilegiando los tratamientos naturales por encima de los industrializados. Toda nueva plantación deberá incorporar sustratos mejorados o compostas en las cepas de plantación, mientras que todo árbol que se someta a tratamiento fitosanitario deberá integrar la descompactación y mejoramiento de suelo como elementos imprescindibles de su tratamiento.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -5117,3 +5117,13 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La Jefatura del Gobierno de la Ciudad tendrá hasta 120 días naturales para modificar las disposiciones Reglamentarias materia del presente decreto.
 
 CUARTO. Dentro de los 180 días posteriores a la publicación de este decreto, la Secretaría de Medio Ambiente de la Ciudad de México, deberá iniciar con la elaboración de la Norma Ambiental que establezca los límites máximos permisibles de luz artificial que ilumine en el medio ambiente y que regule las emisiones de la misma, así como el control de la contaminación lumínica, que establezca el procedimiento para su medición, y determine cuáles son los establecimientos regulados.
+
+G.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 118 DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Jefatura del Gobierno de la Ciudad tendrá hasta 120 días naturales para modificar las disposiciones Reglamentarias materia del presente decreto.
