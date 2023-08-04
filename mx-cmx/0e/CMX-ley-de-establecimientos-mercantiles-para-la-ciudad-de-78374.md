@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2023-05-29"
+last_updated: "2023-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE AGOSTO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -263,6 +263,10 @@ XIII bis. IMPLEMENTAR LAS MEDIDAS QUE SE CONSIDEREN NECESARIAS PARA ATENDER EMER
 > <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
 
 XIII ter. Implementar, por sí o a través de las áreas correspondientes, el uso de tecnologías de la información y comunicación que permitan la innovación, al incorporar la política de mejora regulatoria mediante herramientas digitales que brinden a la ciudadanía el acceso a trámites y servicios de calidad, de manera pronta, eficaz, transparente y confidencial; y
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+XIII quáter. Implementar mecanismos y programas especiales para la apertura o reapertura rápida de establecimientos mercantiles en caso de desastre natural o ante una emergencia sanitaria. Estos mecanismos y programas especiales tendrán carácter de temporal.
 
 XIV. Las demás que le confieran la Ley y otras disposiciones aplicables.
 
@@ -2293,3 +2297,11 @@ G.O. 29 DE MAYO DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XIII QUÁTER AL ARTÍCULO 4 DE LA LEY DE ESTABLECIMIENTOS MERCANTILES; Y SE ADICIONA UNA FRACCIÓN XXVI BIS AL ARTÍCULO 30 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA, AMBAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
