@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-que-establece-los-mecanismos-normas-y-126213"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-01-11"
-last_updated: "2017-01-11"
+last_updated: "2023-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126213&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO, QUE ESTABLECE LOS MECANISMOS, NORMAS Y ATRIBUCIONES QUE REGULARAN LA ORGANIZACION Y FUNCIONAMIENTO DEL CENTRO DE ANALISIS, INFORMACION Y ESTUDIOS DE TAMAULIPAS, EN CADA UNA DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS AL MISMO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL CENTRO DE ANÁLISIS, INFORMACIÓN Y ESTUDIOS DE TAMAULIPAS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, PUBLICADO EN EL P.O. DE 4 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO, QUE ESTABLECE LOS MECANISMOS, NORMAS Y ATRIBUCIONES QUE REGULARÁN LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL CENTRO DE ANÁLISIS, INFORMACIÓN Y ESTUDIOS DE TAMAULIPAS, EN CADA UNA DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS AL MISMO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2023 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 11 de enero de 2017.
 
@@ -387,3 +389,25 @@ PRIMERO.- El presente Estatuto entrará en vigor a partir del día hábil siguie
 SEGUNDO.- A partir de la publicación del presente Estatuto, se deberá proponer al Ejecutivo del estado la modificación de la estructura orgánica de la Secretaría General de Gobierno a efecto de ajustarla al contenido del presente.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL CENTRO DE ANÁLISIS, INFORMACIÓN Y ESTUDIOS DE TAMAULIPAS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Estatuto Orgánico que establece los mecanismos, normas y atribuciones que regularán la organización y funcionamiento del Centro de Análisis, Información y Estudios de Tamaulipas, publicado en Periódico Oficial del Estado de Tamaulipas Número 5, publicado el 11 de enero de 2017.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones administrativas que se opongan al presente Estatuto Orgánico del Centro de Análisis, Información y Estudios de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos pendientes a la entrada en vigor del presente Estatuto, continuarán su trámite y serán resueltos por aquella o aquellas Unidades Administrativas a las que se les haya atribuido la competencia.
