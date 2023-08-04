@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-ejecutivo-y-de-la-administracion-132056"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-13"
-last_updated: "2021-09-02"
+last_updated: "2023-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132056&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-13"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
 
 Ley publicada en el Número 471 Bis en la Gaceta Oficial de la Ciudad de México, el jueves 13 de diciembre de 2018.
 
@@ -855,6 +855,10 @@ XXIV. Promover; en coordinación con la Secretaría de Administración y Finanza
 XXV. Coordinar la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculados a la promoción de las energías limpias y aplicar estrategias para su promoción nacional e internacional;
 
 XXVI. Promover la celebración de convenios y acciones con los gobiernos federal, estatales y municipales, así como con instituciones privadas y financieras, nacionales e internacionales, tendientes a fomentar las energías limpias; y
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+XXVI bis. Proponer a la persona titular de la Jefatura de Gobierno mecanismos y programas especiales para la apertura o reapertura rápida de establecimientos mercantiles en caso de desastre natural o ante una emergencia sanitaria. Estos mecanismos y programas especiales tendrán carácter de temporal.
 
 XXVII. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
 
@@ -2379,3 +2383,11 @@ DÉCIMO SEGUNDO. La Secretaría de Seguridad Ciudadana deberá establecer las ba
 Los procesos de formación, actualización y especialización de las personas integrantes del Sistema Penitenciario se alinearán al Programa de Profesionalización y al Programa Rector de Profesionalización de la Universidad de la Policía de la Ciudad de México.
 
 El Instituto de Capacitación Penitenciaria continuará en funciones hasta en tanto se implemente el Servicio Profesional de Carrera de las personas integrantes del Sistema Penitenciario.
+
+G.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XIII QUÁTER AL ARTÍCULO 4 DE LA LEY DE ESTABLECIMIENTOS MERCANTILES; Y SE ADICIONA UNA FRACCIÓN XXVI BIS AL ARTÍCULO 30 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA, AMBAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
