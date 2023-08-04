@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2023-05-10"
+last_updated: "2023-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -3525,6 +3525,10 @@ La patria potestad sobre los hijos se ejerce por los padres. Cuando por cualquie
 
 A falta de ambos padres o por cualquier otra circunstancia prevista en este ordenamiento, ejercerán la patria potestad sobre los menores, los ascendientes en segundo grado en el orden que determine el juez de lo familiar, tomando en cuenta las circunstancias del caso.
 
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2023)</small>
+
+La autoridad jurisdiccional deberá solicitar información a las autoridades ministeriales o jurisdiccionales en materia penal a fin de verificar si la ausencia de la madre se debe a un caso de feminicidio con el fin de analizar las circunstancias particulares del caso y garantizar la seguridad e interés superior de la niñez de las hijas o hijos de la víctima de feminicidio.
+
 > <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 414 Bis.
@@ -3789,9 +3793,9 @@ III.- En los casos de violencia familiar en contra del menor;
 
 IV. El incumplimiento de la obligación alimentaría por más de 90 días, sin causa justificada;
 
-> <small>(ADICIONADO. G.O. 24 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2023)</small>
 
-El cónyuge o concubino que perdió la patria potestad por el abandono de sus deberes alimentarios, la podrá recuperar, siempre y cuando compruebe que ha cumplido con ésta obligación por más de un año, otorgue garantía anual, se le haya realizado un estudio de su situación económica y de su comportamiento actual, así como un diagnóstico psicológico; dichos estudios serán realizados por personal adscrito a la Procuraduría General de Justicia del Distrito Federal o por perito en la materia en los términos del último párrafo del artículo 346 del Código de Procedimientos Civiles del Distrito Federal;
+El cónyuge o concubino que perdió la patria potestad por el abandono de sus deberes alimentarios, la podrá recuperar, siempre y cuando compruebe que ha cumplido con ésta obligación por más de un año, otorgue garantía anual, se le haya realizado un estudio de su situación económica y de su comportamiento actual, así como un diagnóstico psicológico; dichos estudios serán realizados por personal adscrito a la Fiscalía General de Justicia de la Ciudad de México o por perito en la materia en los términos del último párrafo del artículo 346 del Código de Procedimientos Civiles del Distrito Federal;
 
 > <small>(REFORMADA, G.O. 9 DE JUNIO DE 2004)</small>
 
@@ -3805,13 +3809,17 @@ VI. Cuando el que la ejerza hubiera cometido contra la persona o bienes de los h
 
 VII. Cuando el que la ejerza sea condenado dos o más veces por delitos dolosos cuya pena privativa de libertad exceda de cinco años;
 
-> <small>(REFORMADA, G.O. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
 
-VIII. Por el incumplimiento injustificado de las determinaciones judiciales que se hayan ordenado al que ejerza la patria potestad, tendientes a corregir actos de violencia familiar, cuando estos actos hayan afectado a sus descendientes; y
+VIII. Por el incumplimiento injustificado de las determinaciones judiciales que se hayan ordenado al que ejerza la patria potestad, tendientes a corregir actos de violencia familiar, cuando estos actos hayan afectado a sus descendientes;
 
-> <small>(ADICIONADA, G.O. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
 
-IX. Cuando el menor haya sido sustraído o retenido ilícitamente, por quien ejerza ésta.
+IX. Cuando el menor haya sido sustraído o retenido ilícitamente, por quien ejerza ésta, y
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+X. Cuando el que la ejerza sea condenado por sentencia firme por el delito de feminicidio cometido en contra de la madre de las niñas, niños y adolescentes sujetos a la patria potestad.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -15082,3 +15090,11 @@ G.O. 10 DE MAYO DE 2023.
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV; LAS FRACCIONES VIII Y IX TODOS DEL ARTÍCULO 444 Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 414, LA FRACCIÓN X DEL ARTÍCULO 444, TODOS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL. SE ADICIONAN DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 148 BIS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
