@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-intereses-1293
 country: "mx"
 rank: "codigo"
 publication_date: "2018-05-09"
-last_updated: "2018-05-09"
+last_updated: "2023-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERESES DE LA SECRETARIA DE DESARROLLO RURAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE DESARROLLO RURAL, PESCA Y ACUACULTURA DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 4 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE DESARROLLO RURAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 9 de mayo de 2018.
 
@@ -269,3 +271,21 @@ Nombre y apellidos de la o el servidor público
 Fecha de adhesión
 
 Firma de la o el servidor público
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE DESARROLLO RURAL, PESCA Y ACUACULTURA DEL ESTADO DE TAMAULIPAS”
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Desarrollo Rural, Pesca y Acuacultura del Gobierno del Estado de Tamaulipas, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código de Conducta y Prevención de Conflicto de Interés de la Secretaría de Desarrollo Rural, del Gobierno del Estado de Tamaulipas publicado en el Periódico Oficial del Estado número 56 tomo CXLIII, el 9 de mayo del 2018.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
