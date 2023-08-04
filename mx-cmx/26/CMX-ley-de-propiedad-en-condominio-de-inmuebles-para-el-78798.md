@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-propiedad-en-condominio-de-inmuebles-para-el-78798"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-27"
-last_updated: "2023-03-03"
+last_updated: "2023-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78798&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-20"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 3 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE AGOSTO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de enero de 2011.
 
@@ -248,7 +248,9 @@ VII.- Los casos y condiciones en que pueda ser modificada la escritura constitut
 
 VIII.- La obligación de los condóminos de contratar póliza de seguro, con compañía legalmente autorizada para ello, contra terremoto, inundación, explosión, incendio y con cobertura contra daños a terceros, cubriéndose el importe de la prima en proporción del indiviso que corresponda a cada uno de ellos, previo acuerdo de la Asamblea General y lo establecido en el Reglamento Interno;
 
-IX.- El Reglamento Interno del Condominio, y en su caso conjunto condominal, el cual, no deberá contravenir las disposiciones de esta Ley, su Reglamento y otros ordenamientos jurídicos aplicables;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+IX.- El Reglamento Interno del Condominio, y en su caso conjunto condominal, el cual, no deberá contravenir las disposiciones de esta Ley, su Reglamento y otros ordenamientos jurídicos aplicables:
 
 Observándose al apéndice de la escritura, se agregue debidamente certificados por Notario Público, las memorias técnicas, los planos generales y los planos tipo de cada una de las unidades de propiedad privativa, correspondientes a las instalaciones hidráulicas, eléctricas, estructurales, gas y áreas comunes cubiertas y descubiertas así como jardines, estacionamiento, oficinas, casetas, bodegas, subestaciones y cisternas.
 
@@ -259,6 +261,10 @@ La Escritura Constitutiva del Régimen de Propiedad en Condominio de Inmuebles, 
 ###### Artículo 11.
 
 Cualquier modificación a la Escritura Constitutiva y su Reglamento Interno, se acordará en Asamblea General Extraordinaria, a la que deberán asistir por lo menos la mayoría simple de los condóminos; sin embargo, para su modificación se deberá requerir un mínimo de votos que representen el 75 % del valor total del condominio. En caso de que alguno de los instrumentos mencionados sufra alguna modificación, éste deberá ser notificado a la Procuraduría.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2023)</small>
+
+Las personas condóminas o la persona administradora del condominio podrán solicitar al Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México en el ámbito de sus facultades, una opinión consultiva sobre el contenido de cualquier modificación al Reglamento Interno del condominio con la finalidad de determinar si la propuesta cumple con la presente Ley, su Reglamento, el derecho a la igualdad y no discriminación, así como de los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados y otros instrumentos internacionales celebrados por el Estado mexicano, en la Constitución Política de la Ciudad de México y en todas las disposiciones legales aplicables.
 
 > <small>(REFORMADO, G.O. 24 DE MARZO DE 2017)</small>
 
@@ -992,9 +998,11 @@ La elaboración del Reglamento Interno será por quienes otorguen la Escritura C
 
 La elaboración y/o modificación al Reglamento Interno deberán ser registrados ante la Procuraduría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 53.
 
-El Reglamento Interno contendrá, sin contravenir lo establecido por esta Ley, su Reglamento y la Escritura Constitutiva correspondiente, las disposiciones que por las características específicas del condominio se consideren necesarias refiriéndose en forma enunciativa mas no limitativa, por lo menos, a lo siguiente:
+El Reglamento Interno contendrá las disposiciones que por las características específicas del condominio se consideren necesarias sin contravenir lo establecido por esta Ley, su Reglamento y la Escritura Constitutiva correspondiente, respetando y garantizando que las personas condóminas, poseedoras y ocupantes gocen, sin discriminación alguna, de los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados y otros instrumentos internacionales celebrados por el Estado mexicano, en la Constitución Política de la Ciudad de México y en todas las disposiciones legales aplicables; refiriéndose en forma enunciativa mas no limitativa, por lo menos, a lo siguiente:
 
 I.- Los derechos, obligaciones y limitaciones a que quedan sujetos los condóminos en el ejercicio del derecho de usar los bienes comunes y los propios;
 
@@ -1024,7 +1032,11 @@ XII.- El establecimiento de medidas provisionales en los casos de ausencia tempo
 
 XIII.- La determinación de criterios para el uso de las áreas y bienes de uso común, especialmente para aquéllas que deban destinarse exclusivamente a personas con discapacidad, ya sean condóminos, poseedores o familiares que habiten con ellos;
 
-XIV.- Determinar, en su caso, las medidas y limitaciones para poseer animales en las unidades de propiedad privativa o áreas comunes; si el Reglamento de ésta Ley fuere omiso, la Asamblea General resolverá lo conducente;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+XIV.- Determinar las medidas y limitaciones para poseer animales de compañía en las unidades de propiedad privativa o áreas comunes, así como de su uso garantizando siempre el bienestar animal, si el Reglamento de esta Ley fuere omiso, la Asamblea General resolverá lo conducente.
+
+Los perros de asistencia no serán sujetos de ninguna medida o limitante a las que se refiere el párrafo anterior, por lo que sus propietarios o poseedores podrán hacer uso de las áreas comunes sin restricción;
 
 XV.- Las aportaciones para la constitución de los fondos de mantenimiento, administración y de reserva, señalando la obligación de su cumplimiento;
 
@@ -1408,6 +1420,18 @@ La contravención a las disposiciones de esta ley establecidas en los artículos
 
 I.- Por faltas que afecten, la tranquilidad o la comodidad de la vida condominal, así como incurrir en actos de discriminación, se aplicará multa por el equivalente de diez a cien veces la Unidad de Medida y Actualización vigente;
 
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2023)</small>
+
+Cuando las instancias competentes acrediten que las personas administradoras sean responsables por violar el derecho a la igualdad y la no discriminación serán revocadas por la Procuraduría y no podrán recaudar aportaciones o cuotas, ni realizar gastos de los fondos condominales de que disponen.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2023)</small>
+
+En este caso, la Asamblea General nombrará a una nueva persona administradora en un plazo máximo de 30 días naturales, con fundamento en lo establecido en los artículos 32, fracción III y 33, fracción II de la presente ley.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2023)</small>
+
+En caso de que el Reglamento Interno del Condominio contenga disposiciones que violen el derecho a la igualdad y a la no discriminación, la Asamblea General en donde se nombre a la nueva Persona Administradora modificará dichas disposiciones.
+
 > <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
 
 II.- Por faltas que afecten el estado físico del inmueble sin que esto signifique poner en riesgo la seguridad de los demás condóminos; que impidan u obstaculicen el uso adecuado de las instalaciones y áreas comunes; o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de cincuenta a doscientos veces la Unidad de Medida y Actualización vigente;
@@ -1519,3 +1543,15 @@ G.O. 3 DE MARZO DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 9, EL PRIMER PÁRRAFO Y LA FRACCIÓN XIV DEL ARTÍCULO 53; SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 11; UN PÁRRAFO SEGUNDO Y TERCERO A LA FRACCIÓN I, DEL ARTÍCULO 87, TODOS DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Cualquier autoridad que, a la entrada en vigor del presente Decreto, tenga formal conocimiento de la transgresión a los preceptos contenidos en éste, deberá realizar, en el marco de sus atribuciones y en el término de quince días, las actuaciones necesarias para impedir que se sigan violentado los derechos humanos de cualquier persona denunciante.
+
+CUARTO. Se derogan aquellas disposiciones contrarias al contenido del presente decreto.
