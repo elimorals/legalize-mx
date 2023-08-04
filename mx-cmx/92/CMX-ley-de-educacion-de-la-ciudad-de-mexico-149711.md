@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-de-la-ciudad-de-mexico-149711"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2023-06-02"
+last_updated: "2023-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149711&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-04"
 
 LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
 
 Ley publicada en el No. 612 de la Gaceta Oficial de la Ciudad de México, el lunes 7 de junio de 2021.
 
@@ -196,7 +196,9 @@ XXI. Prevenir el suicidio y las adicciones que afecten la salud física y mental
 
 XXII. Fortalecer la educación ambiental a través de la promoción de actividades extracurriculares cuyos contenidos incluyan los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable y la prevención del cambio climático. Fomentar la cultura de protección al medio ambiente y la biodiversidad, el aprovechamiento racional del agua y otros recursos naturales, así como las medidas para su conservación, mejoramiento y cuidado, que propicien el desarrollo y la calidad de vida de las personas habitantes de la Ciudad;
 
-XXIII. Promover la enseñanza y aprendizaje de la Declaración Universal de los Derechos de los Animales e inculcar sus principios;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+XXIII. Promover la enseñanza y aprendizaje de la Declaración Universal de los Derechos de los Animales e inculcar sus principios, para asegurar su protección y respeto como seres sintientes;
 
 XXIV. Promover la educación vial a través de actividades extracurriculares, acciones específicas que involucren a la comunidad escolar, y difusión de materiales, con el objeto de preservar la vida y la integridad física, así como la adopción de nuevos hábitos de movilidad con cortesía;
 
@@ -248,9 +250,11 @@ VII. Determinar y formular planes y programas de estudio, distintos de los de ed
 
 VIII. Proponer a la Autoridad Educativa Federal los contenidos regionales que deban incluirse en los planes y programas de estudio para la educación primaria, secundaria, normal y demás para la formación de las personas educadoras de nivel básico. Asimismo, los contenidos ambientales que deban incluirse en los planes y programas de estudio de las materias afines que se impartan en la educación básica, media superior y normal para la formación de las personas educadoras de educación básica y media superior, en los que se incluyan los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la protección a la biodiversidad, el uso racional de los recursos naturales y la prevención del cambio climático; así como los contenidos para el fomento de los principios básicos de seguridad y educación vial;
 
-> <small>(REFORMADA, G.O. 6 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
 
-IX. Proponer a la Autoridad Educativa Federal los contenidos y materiales educativos de los planes y programas para la educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planificación familiar, la maternidad y paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual, considerando las características regionales y culturales de la población en la Ciudad de México; así como para la prevención y detección temprana del virus del papiloma humano, del cáncer de mama y del cáncer cervicouterino;
+IX. Proponer a la Autoridad Educativa Federal los contenidos y materiales educativos de los planes y programas para la educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planificación familiar, la maternidad y paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual, considerando las características regionales y culturales de la población en la Ciudad de México.
+
+La Secretaría podrá proponer a la Autoridad Educativa Federal los contenidos y materiales educativos orientados a la prevención y detección temprana del cáncer de mama, del cáncer cervicouterino y del virus del papiloma humano.
 
 X. En concurrencia con la Federación, promover contenidos y prácticas educativas que atiendan a la dimensión emocional de los educandos, así como a la prevención y manejo de riesgos y conflictos en los distintos contextos escolares;
 
@@ -296,7 +300,9 @@ XXX. Supervisar y verificar que la educación que impartan los particulares con 
 
 XXXI. Desarrollar, ejecutar y promover programas de apoyo social que incidan en el proceso educativo en la Ciudad, dirigidos preferentemente a los grupos y zonas con mayor rezago educativo o que enfrenten condiciones económicas y sociales de marginación;
 
-XXXII. Elaborar programas y campañas locales con acciones específicas orientadas a prevenir y erradicar la violencia en cualquier tipo de sus manifestaciones;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+XXXII. Elaborar y aplicar instrumentos, programas y campañas locales con acciones específicas orientadas a prevenir, identificar, atender y erradicar la violencia en cualquier tipo de sus manifestaciones, con el objetivo de lograr una convivencia sana y pacífica, sin riesgos a la integridad individual o colectiva en la comunidad educativa.
 
 XXXIII. Promover programas y suscribir convenios de cooperación, coordinación o acuerdos interinstitucionales con instituciones públicas o privadas, nacionales o internacionales, en materia educativa, científica, tecnológica, de innovación, de formación artística y cultural, de educación física y deporte, de educación vial, ambiental y financiera, así como los demás instrumentos jurídicos que en el ámbito de su competencia correspondan a la persona titular de la Secretaría;
 
@@ -310,9 +316,13 @@ XXXVII. Fomentar el cooperativismo para garantizar la aplicación estricta de su
 
 XXXVIII. Establecer con la organización sindical titular del contrato colectivo en materia educativa, disposiciones y convenios laborales, sociales y asistenciales que regirán la relación con las personas educadoras de conformidad con la normativa aplicable, y
 
-> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
 
-XXXVIII bis. Promover la capacitación del personal docente en las materias de derechos humanos, igualdad y no discriminación en la educación, así como la eliminación de todo tipo de estereotipos, prejuicios, detrimentos y estigmas de los grupos de atención prioritaria; y
+XXXVIII BIS. Promover la capacitación del personal docente en las materias de derechos humanos, prevención de la violencia y el acoso escolar, igualdad y no discriminación en la educación, así como la eliminación de todo tipo de estereotipos, prejuicios, detrimentos y estigmas de los grupos de atención prioritaria;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+XXXVIII Ter. Velar por que en el interior de los planteles educativos no se distribuya ni consuma sustancias psicotrópicas, enervantes, u otros productos que puedan perjudicar la salud del educando. De igual forma, prevenir la introducción y portación de cualquier tipo de objeto que pueda ser utilizado para atentar o poner en riesgo la integridad física de la comunidad escolar; y
 
 XXXIX. Las demás que establezcan otras disposiciones legales en materia educativa.
 
@@ -404,9 +414,11 @@ El tipo de educación básica se integra por los niveles de la educación inicia
 
 De manera adicional, se considerarán los centros dedicados a impartir educación especial, incluidos los Centros de Atención Múltiple.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 15.
 
-La educación básica tiene como propósito proporcionar a los educandos conocimientos fundamentales de matemáticas, lecto-escritura, literacidad, historia, geografía, civismo, filosofía y lengua extranjera, así como iniciarlos en el estudio de las ciencias a través de su participación directa en el proceso de enseñanza - aprendizaje; asimismo la comprensión de la pluralidad lingüística y cultural de la nación y de la entidad, el conocimiento y la práctica de las artes, la comprensión integral del funcionamiento y cuidado de su cuerpo, su sexualidad, prevención de enfermedades y adicciones, el valor de la familia y el respeto a las personas mayores; que se inculque la protección al medio ambiente, el cuidado de los recursos naturales y el respeto a las especies animales; se fomente un estilo de vida saludable, la educación física y el deporte, la educación para la salud, la cultura de la salud bucodental y la importancia de la donación de órganos, tejidos y sangre.
+La educación básica tiene como propósito proporcionar a los educandos conocimientos fundamentales de matemáticas, lecto-escritura, literacidad, historia, geografía, civismo, filosofía y lengua extranjera, así como iniciarlos en el estudio de las ciencias a través de su participación directa en el proceso de enseñanza - aprendizaje; asimismo la comprensión de la pluralidad lingüística y cultural de la nación y de la entidad, el conocimiento y la práctica de las artes, la comprensión integral del funcionamiento y cuidado de su cuerpo, su sexualidad, prevención de enfermedades y adicciones, el valor de la familia y el respeto a las personas mayores; que se inculque la protección, respeto y cuidado al medio ambiente, a los recursos naturales y a las especies animales como seres sintientes; se fomente un estilo de vida saludable, la educación física y el deporte, la educación para la salud, la cultura de la salud bucodental y la importancia de la donación de órganos, tejidos y sangre.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2023)</small>
 
@@ -702,9 +714,13 @@ III. Fomentar en los centros educativos comunitarios la educación intercultural
 
 IV. Rescatar y conservar el patrimonio cultural comunitario, poniéndolo al alcance de las personas habitantes de la entidad, especialmente las personas educadoras y educandos del Sistema Educativo de la Ciudad;
 
-V. Generar y difundir programas educativos orientados a la preservación y mejoramiento de la salud y de protección;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
 
-VI. Establecer programas educativos para la protección del medio ambiente, y
+V. Generar y difundir programas educativos orientados a la preservación y mejoramiento de la salud y de protección, en especial reforzar, durante el mes de octubre de cada año, la concientización sobre la importancia de la prevención y detección temprana del cáncer de mama;
+
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+VI. Establecer programas educativos para la protección del medio ambiente, así como de los animales como seres sintientes, y
 
 VII. Las demás que coadyuven al desarrollo armónico e integral de las personas.
 
@@ -776,7 +792,9 @@ La Secretaría es competente para suscribir convenios de cooperación o coordina
 
 La Red de PILARES tendrá las finalidades siguientes:
 
-I. Contribuir al reconocimiento, promoción y ejercicio de los derechos humanos, económicos, sociales, culturales y ambientales de todas las personas, en particular los relativos a la educación, la cultura, el deporte, el trabajo y el bienestar social;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+I. Contribuir al reconocimiento, promoción y ejercicio de los derechos humanos, económicos, sociales, culturales y ambientales de todas las personas, en particular los relativos a la educación, la salud, la cultura, el deporte, el trabajo y el bienestar social;
 
 II. Contribuir a impulsar en la sociedad la educación integral inclusiva, la investigación en humanidades, ciencias, tecnologías e innovación y el conocimiento, reconocimiento y difusión de los saberes;
 
@@ -841,6 +859,10 @@ II. Educación para el ejercicio de derechos ambientales, a través de la capaci
 III. Educación para la conciliación y cultura de paz, en particular identificación, visibilización, desnormalización y reducción de las violencias, y
 
 IV. Educación para el desarrollo de habilidades emocionales, físicas, cognitivas y digitales que brinden herramientas para una formación integral.
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+V. Educar en particular a las jóvenes y mujeres para la prevención y detección temprana del virus del papiloma humano, del cáncer de mama y del cáncer cervicouterino, y a los jóvenes del cáncer de próstata.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
 
@@ -986,9 +1008,11 @@ Los contenidos de estudio tendrán por objeto propiciar en el educando el desarr
 
 Los planes y programas de estudio que determine la Autoridad Educativa Federal, las adecuaciones que por Ley correspondan a la Secretaría, así como los planes y programas de estudio de las instituciones educativas dependientes de la Secretaría, serán publicados en el Órgano de difusión local.
 
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 63.
 
-Los planes y programas de estudio del Sistema Educativo de la Ciudad se basarán invariablemente en el respeto a los derechos humanos, igualdad sustantiva, sustentabilidad del medio ambiente, responsabilidad social, equidad, inclusión, perspectiva de género, cultura de envejecimiento activo y la solidaridad intergeneracional, perspectiva intercultural, cultura de paz y no violencia, sana convivencia, así como diálogo y participación de educandos, personas educadoras, autoridades, madres y padres de familia o tutores e instituciones sociales.
+Los planes y programas de estudio del Sistema Educativo de la Ciudad se basarán invariablemente en el respeto a los derechos humanos, igualdad sustantiva, sustentabilidad del medio ambiente, el respeto y protección a los animales como seres sintientes, responsabilidad social, equidad, inclusión, perspectiva de género, cultura de envejecimiento activo y la solidaridad intergeneracional, perspectiva intercultural, cultura de paz y no violencia, sana convivencia, así como diálogo y participación de educandos, personas educadoras, autoridades, madres y padres de familia o tutores e instituciones sociales.
 
 ###### Artículo 64.
 
@@ -1735,3 +1759,27 @@ CUARTO. La persona Titular de la Jefatura de Gobierno deberá llevar a cabo las 
 QUINTO. La cobertura de atención médica ante posibles accidentes escolares en el Sistema Educativo Público de la Ciudad de México, será garantizado por las instituciones de Salud.
 
 SEXTO. Los servicios a los que hace referencia a la fracción IV del artículo 21, incluyen los servicios de apoyo y asesoría prestados a las personas que cursen el Bachillerato Digital y el Bachillerato en Línea Pilares, garantizando la conclusión de estudios a quienes se encuentran cursando en estos sistemas.
+
+G.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 9; LA FRACCIÓN V DEL ARTÍCULO 47; Y LA FRACCIÓN I DEL ARTÍCULO 52; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 56; DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 7; EL PRIMER PÁRRAFO DEL ARTÍCULO 15; LA FRACCIÓN VI DEL ARTÍCULO 47; Y EL ARTÍCULO 63; DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO".]
+
+Primero. Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES XXXII Y XXXVIII BIS, Y SE ADICIONA LA FRACCIÓN XXXVIII TER AL ARTÍCULO 9 DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
