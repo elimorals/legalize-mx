@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2023-03-31"
+last_updated: "2023-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -964,7 +964,7 @@ c) Padezca enfermedad grave e incurable avanzada o precario estado de salud. En 
 
 > <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
 
-Se exceptúa la reparación del daño y la sanción económica, ASÍ COMO EL REGISTRO PÚBLICO DE PERSONAS AGRESORAS SEXUALES, por lo que no se podrá prescindir de su imposición.
+Se exceptúa la reparación del daño y la sanción económica, ASÍ COMO EL REGISTRO PÚBLICO DE PERSONAS AGRESORAS SEXUALES, por lo que no se podrá prescindir de su imposición
 
 > <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
 
@@ -1625,6 +1625,14 @@ A quien cometa feminicidio se le impondrán de treinta y cinco a setenta años d
 En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 
 Tratándose de las fracciones IV y V el sujeto activo perderá todos los derechos en relación con la víctima incluidos los de carácter sucesorio.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2023)</small>
+
+Además de las penas impuestas, quien cometa este delito, perderá la patria potestad, cuando tuviera derecho o la ejerciera respecto de quien la víctima tuviera la patria potestad, conforme lo dispuesto en la fracción X del artículo 444 del Código Civil para el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2023)</small>
+
+Las autoridades ministeriales y judiciales en materia penal deberán dar aviso sobre los casos de feminicidio a las autoridades jurisdiccionales familiares y al Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, a efecto de que determinen las medidas de protección correspondientes a la guarda, custodia y patria potestad, que garanticen el interés superior de la niñez de las hijas o hijos de la víctima.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -6589,3 +6597,11 @@ G.O. 31 DE MARZO DE 2023.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV; LAS FRACCIONES VIII Y IX TODOS DEL ARTÍCULO 444 Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 414, LA FRACCIÓN X DEL ARTÍCULO 444, TODOS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL. SE ADICIONAN DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 148 BIS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
