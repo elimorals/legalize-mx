@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-135
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-26"
-last_updated: "2022-09-30"
+last_updated: "2023-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2023 (ABROGADO).
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de septiembre de 2018.
 
@@ -280,3 +280,23 @@ Se abroga el Código de Conducta y Prevención de Conflictos de Interés de las 
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Código de Conducta y Prevención de Conflictos de Interés de las Personas Servidoras Públicas del Sistema para el Desarrollo Integral de la Familia de Tamaulipas.
+
+P.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código de Conducta y Prevención de Conflictos de Interés del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, publicado en el Periódico Oficial del Estado Anexo al número 116 de fecha 26 de septiembre de 2018.
+
+###### ARTICULO TERCERO.
+
+Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Código de Conducta.
