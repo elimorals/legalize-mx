@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2023-07-05"
+last_updated: "2023-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2023.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -1297,7 +1297,9 @@ XII. Fomentar la aplicación de programas que faciliten la incorporación de los
 
 XIII. Promover las acciones necesarias para mejorar el nivel de vida de la juventud, así como sus expectativas sociales y culturales;
 
-XIV. Impulsar que en la planeación del desarrollo municipal se establezca una política de fomento, desarrollo y promoción del deporte en todos sus géneros y modalidades;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2023)</small>
+
+XIV. Convocar en un máximo de cuarenta y cinco días hábiles, contados a partir de la fecha de su instalación, a la integración del Concejo Municipal de Cultura Física y Deporte del municipio, para impulsar en conjunto con el mismo, que en la planeación del desarrollo municipal se establezca una política de fomento, desarrollo y promoción del deporte en todos sus géneros y modalidades, así como todos los objetivos que se establecen en la Ley en la Materia;
 
 XV. Fomentar el mejoramiento físico-intelectual de los habitantes a través del deporte;
 
@@ -1335,7 +1337,9 @@ X. Promover acuerdos interinstitucionales para la creación municipal de centros
 
 XI. Fomentar la organización de los productores agrícolas, pecuarios, ganaderos y acuícolas con la finalidad de que solventen en mejores circunstancias su problemática común;
 
-XII. Participar en la organización y funcionamiento de los Concejos Municipales de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2023)</small>
+
+XII. Integrar el Concejo Municipal para el Desarrollo Rural Sustentable en los términos que establece la Ley de Desarrollo Rural Integral Sustentable del Estado de Michoacán de Ocampo, en un máximo de cuarenta y cinco días hábiles, contados a partir de la fecha de su instalación, así como cuidar de su funcionamiento en los términos de la legislación federal y estatal en la materia;
 
 XIII. Opinar sobre la integración y aplicación del Programa Municipal de Desarrollo Rural;
 
@@ -3484,3 +3488,15 @@ P.O. 5 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 379 POR EL QUE “SE ADICIONAN LAS FRACCIONES XXIV Y XXV AL INCISO A) DEL ARTÍCULO 40; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 131; Y, SE ADICIONAN LOS ARTÍCULOS 131 BIS Y 131 TER A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de la toma de protesta de los Ayuntamientos electos durante el proceso electoral 2023-2024.
+
+P.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 415 POR EL QUE “SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 417.- ÚNICO. SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 57 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
