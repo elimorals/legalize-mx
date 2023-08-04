@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-instituto-de-planeacion-democratica-y-142204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-03-13"
-last_updated: "2020-03-13"
+last_updated: "2023-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142204&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-03-12"
 
 LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
 
 Ley publicada en el Número 303 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 13 de marzo de 2020.
 
@@ -340,9 +340,11 @@ Se integra por doce personas que serán designadas por tres años y podrán reel
 
 En esta selección se garantizará la equidad de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 14.
 
-Para ser nombrada persona integrante del Consejo Ciudadano, se requiere:
+Para ser nombrada persona integrante del Consejo Ciudadano se requiere:
 
 I.- No haber sido registrada a una candidatura, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores al nombramiento;
 
@@ -350,7 +352,9 @@ II.- No desempeñar ni haber desempeñado cargo de dirección nacional o estatal
 
 III.- Gozar de reputación pública de probidad; y
 
-IV.- Contar con título profesional con antigüedad mínima de tres años, en disciplinas relacionadas con las áreas físico matemáticas e ingenierías; ciencias sociales; ambientales; y en humanidades.
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
+
+IV.- Contar con título profesional o experiencia comprobable, ambos con antigüedad mínima de tres años, en disciplinas relacionadas con las áreas físico matemáticas e ingenierías; ciencias sociales; ambientales y en humanidades.
 
 Las personas ciudadanas del Consejo Ciudadano ocuparán su encargo de manera honorífica. Asimismo, tomarán posesión al día siguiente de la conclusión de la persona saliente.
 
@@ -517,3 +521,13 @@ Artículo Cuarto.- La Secretaría de Administración y Finanzas tomará las medi
 Palacio Legislativo del Congreso de la Ciudad de México, a los tres días del mes de marzo del año dos mil veinte.- POR LA MESA DIRECTIVA.- DIPUTADA ISABELA ROSALES HERRERA, PRESIDENTA.- DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARIA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, SECRETARIA.- (firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los doce días del mes de marzo del año dos mil veinte.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL.- MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN IV DEL ARTÍCULO 14 DE LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México
