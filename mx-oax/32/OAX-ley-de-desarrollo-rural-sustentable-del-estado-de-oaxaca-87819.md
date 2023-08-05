@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-rural-sustentable-del-estado-de-oaxaca-87819"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-09"
-last_updated: "2023-03-18"
+last_updated: "2023-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de abril de 2012.
 
@@ -51,9 +51,11 @@ Compete al Ejecutivo del Gobierno del Estado a través de la Secretaría la regu
 
 La aplicación de la presente Ley se hará bajo el estricto respeto de las garantías individuales consagradas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado Libre y Soberano de Oaxaca, los Tratados Internacionales ratificados por el Estado Mexicano y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 2.
 
-Son sujetos de esta Ley de conformidad con la Ley Agraria, los núcleos de población ejidales o ejidos, comunales, indígenas, pequeños propietarios, las sociedades y organizaciones o asociaciones rurales de carácter Estatal, regional, distrital, municipal o ejidal y comunitario, de productores del medio rural que se constituyan o estén constituidos conforme a las leyes vigentes, y en general toda persona física o moral que de manera individual o colectiva realice preponderantemente actividades de producción en el medio rural.
+Son sujetos de esta Ley de conformidad con la Ley Agraria, los núcleos de población ejidales o ejidos, comunales; los pueblos y comunidades indígenas y afromexicanas, pequeños propietarios, las sociedades y organizaciones o asociaciones rurales de carácter Estatal, regional, distrital, municipal o ejidal y comunitario, de productores del medio rural que se constituyan o estén constituidos conforme a las leyes vigentes, y en general toda persona física o moral que de manera individual o colectiva realice preponderantemente actividades de producción en el medio rural.
 
 ###### ARTÍCULO 3.
 
@@ -61,11 +63,13 @@ El ejecutivo Estatal a través de la Secretaría impulsará políticas, programa
 
 I. Promover y favorecer el bienestar social y económico de los productores, de sus comunidades, de los trabajadores del campo y, en general, de los agentes de la sociedad rural, con la participación de organizaciones o asociaciones, especialmente la de aquellas que estén integradas por sujetos que formen parte de los grupos vulnerables, referidos en el Artículo 128 de la presente Ley, mediante la diversificación y generación de empleos, incluyendo a trabajadores dedicados a otras actividades de servicio el no agropecuario en el medio rural, así como procurando el incremento del ingreso;
 
-II. Inducir el desarrollo productivo, económico y social de las comunidades rurales, diferenciado a las regiones de alta y muy alta marginación, mediante una acción integral del Estado que estimule la transformación y la reconversión productiva y económica; con un enfoque productivo de desarrollo rural sustentable;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+II. Inducir el desarrollo productivo, económico, social y comunitario de los pueblos y comunidades indígenas y afromexicanas, diferenciado a las regiones de alta y muy alta marginación, mediante una acción integral del Estado que estimule la transformación y la reconversión productiva y económica; con un enfoque productivo de desarrollo rural sustentable;
 
-III. Contribuir en la implementación de programas, proyectos y acciones orientadas a lograr la soberanía y seguridad alimentaria en el Estado mediante el impulso de la producción agropecuaria privilegiando los métodos de la agricultura orgánica;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
+
+III. Contribuir en la implementación de programas, proyectos y acciones orientadas a lograr la autosuficiencia, seguridad y soberanía alimentaria en el Estado mediante el impulso de la producción agropecuaria privilegiando los métodos de la agricultura orgánica, los huertos comunitarios y el tequio;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
@@ -93,13 +97,17 @@ X. Prevenir, controlar y erradicar los plaguicidas de uso restringido, prohibido
 
 XI. Promover programas y apoyos dirigidos a desarrollar las capacidades de los jóvenes productores rurales que se dediquen preponderantemente a las actividades agropecuarias y agroforestales para favorecer el relevo generacional que contribuirá al desarrollo rural sustentable de nuestro estado, y demás aplicables a la presente Ley.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 933 PUBLICADO EN LA DÉCIMA SÉPTIMA SECCIÓN DEL P.O. 18 DE MARZO DE 2023, PÁGINA 4.]</small>
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2023)</small>
+
+XII. Evaluar de manera anual las políticas, programas, proyectos, actividades productivas y las acciones sociales en el medio rural para observar las deficiencias y aciertos en su operación, así como promover su mejora continua.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2023)</small>
 
 ###### ARTÍCULO 4.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Actividades Agropecuarias: Los procesos productivos primarios basados en recursos naturales renovables: agricultura, pecuaria, silvicultura, pesca y acuacultura;
+I. Actividades agropecuarias: Los procesos productivos primarios basados en recursos naturales renovables: agricultura, pecuaria, silvicultura, pesca y acuacultura;
 
 II. Actividades económicas: Las actividades productivas, industriales, comerciales y de servicios; entiéndase esto como las actividades no agropecuarias que se desarrollan en el medio rural;
 
@@ -107,141 +115,97 @@ III. ADR's: Agencias de Desarrollo Rural Sustentable;
 
 IV. Agentes de la Sociedad Rural: Personas físicas o morales de los sectores social y privado que integran a la sociedad rural;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+V. Agricultura familiar: Es el modo de vida y trabajo agrícola practicado por hombres y mujeres de un mismo núcleo familiar; a través de unidades productivas familiares. Su fruto es destinado al consumo propio, al trueque y comercialización, pudiendo provenir de las actividades de recolección, agropecuaria, silvicultura, pesca u otros servicios rurales, tales como, la hortícola, frutícola, forestal, apícola, pecuario, industrial rural, pesquero artesanal, acuícola y de agroturismo;
 
-IV BIS. Agricultura familiar: Es el modo de vida y trabajo agrícola practicado por hombres y mujeres de un mismo núcleo familiar, a través de unidades productivas familiares. Su fruto es destinado al consumo propio, al trueque y comercialización, pudiendo provenir de las actividades de recolección, agropecuaria, silvicultura, pesca u otros servicios rurales, tales como, la hortícola, frutícola, forestal, apícola, pecuario, industrial rural, pesquero artesanal, acuícola y de agroturismo;
+VI. Agroforestal (uso): La combinación de agricultura y ganadería conjuntamente con el cultivo y aprovechamiento de especies forestales;
 
-V. Agroforestal (uso): La combinación de agricultura y ganadería conjuntamente con el cultivo y aprovechamiento de especies forestales;
+VII. Alimentos básicos y estratégicos: Respectivamente, aquellos así calificados por su importancia en la alimentación de la mayoría de la población o su importancia en la economía de los productores del campo o de la industria;
 
-VI. Alimentos básicos y estratégicos: Respectivamente, aquellos así calificados por su importancia en la alimentación de la mayoría de la población o su importancia en la economía de los productores del campo o de la industria;
+VIII. Autogestión: Capacidad de las personas en lo individual y en forma colectiva de elegir y ejercer plenamente sus derechos sociales para planear y actuar en la construcción de su propio desarrollo;
 
-VII. Autogestión: Capacidad de las personas en lo individual y en forma colectiva de elegir y ejercer plenamente sus derechos sociales para planear y actuar en la construcción de su propio desarrollo;
+IX. Autosuficiencia alimentaria: Es la capacidad que tiene el estado para lograr la disponibilidad de alimentos requerida para cubrir la demanda de su población, con el objetivo de generar un sistema alimentario propio, que considere no solo la producción de alimentos, sino también la obtención de ellos;
 
-VIII. Bienestar Social: Satisfacción de las necesidades materiales y culturales de la población, incluidas entre otras, la seguridad social, vivienda, educación, salud, empleo e infraestructura de servicios básicos;
+X. Bienestar Social: Satisfacción de las necesidades materiales y culturales de la población, incluidas entre otras, la seguridad social, vivienda, educación, salud, empleo e infraestructura de servicios básicos;
 
-> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2023)</small>
+XI. Captación de Agua Pluvial: Consiste en recolectar y almacenar agua proveniente de la lluvia para el consumo humano, uso doméstico y agropecuario;
 
-IX. Captación de Agua Pluvial: Consiste en recolectar y almacenar agua proveniente de la lluvia para el consumo humano, uso doméstico y agropecuario;
+XII. Comercio justo: La representación más directa y solidaria entre el consumidor y el productor, al eliminar la intermediación excesiva, procurando un trato comercial mejor remunerado;
 
-X. Comercio justo: La representación más directa y solidaria entre el consumidor y el productor, al eliminar la intermediación excesiva, procurando un trato comercial mejor remunerado;
+XIII. Comisión Estatal Intersecretarial: La Comisión Estatal Intersecretarial para el Desarrollo Rural Sustentable del Estado de Oaxaca;
 
-XI. Comisión Estatal Intersecretarial: La Comisión Estatal Intersecretarial para el Desarrollo Rural Sustentable del Estado de Oaxaca.
+XIV. Consejo Estatal: El Consejo Estatal para el Desarrollo Rural Sustentable;
 
-XII. Consejo Estatal: El Consejo Estatal para el Desarrollo Rural Sustentable;
+XV. Consejo Distrital: El Consejo para el Desarrollo Rural Sustentable en cada uno de los Distritos del Estado de Oaxaca;
 
-XIII. Consejo Distrital: El Consejo para el Desarrollo Rural Sustentable en cada uno de los Distritos del Estado de Oaxaca;
+XVI. Consejo Municipal: El Consejo Municipal para el Desarrollo Rural Sustentable;
 
-XIV. Consejo Municipal: El Consejo Municipal para el Desarrollo Rural Sustentable;
+XVII. Concurrencia: La acción e inversión conjunta de esfuerzos y recursos entre la sociedad y diferentes órdenes de Gobierno; teniendo como objetivo el logro del desarrollo rural sustentable;
 
-XV. Concurrencia: La acción e inversión conjunta de esfuerzos y recursos entre la sociedad y diferentes órdenes de Gobierno; teniendo como objetivo el logro del desarrollo rural sustentable;
+XVIII. Desarrollo Rural Sustentable: El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
 
-XVI. Desarrollo Rural Sustentable: El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
+XIX. Ejecutivo Estatal: El titular del Poder Ejecutivo del Estado de Oaxaca;
 
-XVII. Ejecutivo Estatal: El titular del Poder Ejecutivo del Estado de Oaxaca;
+XX. Estacionalidad agrícola campesina: El período de tiempo medido en días, semanas o meses que las familias campesinas según las condiciones climáticas y de su calendario agrícola no tiene actividad;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+XXI. Estado: El Estado Libre y Soberano de Oaxaca;
 
-XVIII. Estacionalidad agrícola campesina: El periodo de tiempo medido en días, semanas o meses que las familias campesinas según las condiciones climáticas y de su calendario agrícola no tiene actividad.
+XXII. Estímulos Fiscales: Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
 
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+XXIII. Gobierno del Estado: El Gobierno del Estado de Oaxaca;
 
-XIX. Estado: El Estado Libre y Soberano de Oaxaca;
+XXIV. Huerto Comunitario: Terreno de corta extensión destinado al cultivo de verduras, legumbres y frutas, planificado así por las autoridades para generar un desarrollo sustentable y en el que se requiere de la organización, participación de la comunidad y el tequio;
 
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+XXV. Inocuo: lo que no hace o causa daño a la salud;
 
-XX. Estímulos Fiscales: Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
+XXVI. Integral: La articulación social, económica, ambiental y cultural que propicia el desarrollo del sector rural de manera sostenible y sustentable;
 
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+XXVII. Investigación y transferencia de tecnología: La investigación y la modernización de tecnologías aplicadas a las actividades rurales, que tengan por objeto el fomento de productividad, calidad, inocuidad, mejoramiento genético, protección, control y erradicación de enfermedades de las especies vegetales y animales; así como todas aquellas acciones que permitan disponer de mayor eficiencia y eficacia de los procesos productivos y de servicios en el medio rural;
 
-XXI. Gobierno del Estado: El Gobierno del Estado de Oaxaca;
+XXVIII. Ley: La Ley de Desarrollo Rural Sustentable del Estado de Oaxaca;
 
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2023)</small>
+XXIX. Manejo Integrado de Plagas: la cuidadosa consideración de todas las técnicas disponibles para combatir las plagas y la posterior integración de medidas apropiadas que disminuyen el desarrollo de poblaciones de plagas y mantienen o restringen el empleo de plaguicidas para reducir los riesgos para la salud humana, la salud animal o el medio ambiente;
 
-XXII. Inocuo: Lo que no hace o causa daño a la salud;
+XXX. Ley de Planeación: La Ley de Planeación para el Estado de Oaxaca;
 
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+XXXI. Órdenes de Gobierno: Los Gobiernos Federal, Estatal y Municipal;
 
-XXIII. Integral: La articulación social, económica, ambiental y cultural que propicia el desarrollo del sector rural de manera sostenible y sustentable;
+XXXII. Organismos Genéticamente Modificados: Cualquier organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de la biotecnología moderna;
 
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+XXXIII. Plaga: Toda especie, variedad o biotipo vegetal, animal o agente patógeno dañino para las plantas y productos, materiales o entornos vegetales;
 
-XXIV. Investigación y transferencia de tecnología: La investigación y la modernización de tecnologías aplicadas a las actividades rurales, que tengan por objeto el fomento de productividad, calidad, inocuidad, mejoramiento genético, protección, control y erradicación de enfermedades de las especies vegetales y animales; así como todas aquellas acciones que permitan disponer de mayor eficiencia y eficacia de los procesos productivos y de servicios en el medio rural;
+XXXIV. Plaguicida: Cualquier sustancia o mezclas de sustancias con ingredientes químicos o biológicos destinados a repeler, destruir o controlar cualquier plaga o a regular el crecimiento de las plantas;
 
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+XXXV. Plaguicida de Uso Prohibido o Restringido: Es aquel cuyos usos se encuentran dentro de una o más categorías prohibidas o restringidas total o parcialmente mediante una medida o norma reglamentaria. Estos incluyen los productos químicos cuya aprobación para primer uso haya sido denegada o que las industrias hayan retirado del mercado o de ulterior consideración en el proceso de aprobación nacional o internacional y cuando haya pruebas claras que esa medida se haya adoptado con el objeto de proteger la salud humana y el medio ambiente;
 
-XXV. Ley: La Ley de Desarrollo Rural Sustentable del Estado de Oaxaca;
+XXXVI. Plaguicida con grado de peligrosidad: Son aquellos que representan riesgos agudos o crónicos a la salud humana o el medio ambiente de acuerdo a las normas oficiales mexicanas o a través de alguna de las clasificaciones realizadas por los organismos internacionales;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+XXXVII. Unidad productiva familiar: Es la unidad de explotación rural que depende preponderantemente del trabajo familiar desarrollado sobre determinada área, con independencia de su forma jurídica o régimen de tenencia del predio, administrada y operada directamente por los miembros de la familia, quienes residiendo en él o en zona cercana obtienen de ella su principal fuente de ingreso;
 
-XXV BIS. Manejo Integrado de Plagas: La cuidadosa consideración de todas las técnicas disponibles para combatir las plagas y la posterior integración de medidas apropiadas que disminuyen el desarrollo de poblaciones de plagas y mantienen o restringen el empleo de plaguicidas para reducir los riesgos para la salud humana, la salud animal o el medio ambiente.
+XXXVIII. Participación Ciudadana: Derecho de los ciudadanos para participar de manera permanente, integral y sistemática en la política económica y social para el desarrollo rural;
 
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+XXXIX. Productos Básicos y Estratégicos: Aquellos que forman parte de la dieta de la mayoría de la población diferenciados por regiones, los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos estatales y/o nacionales, definidos por la Ley o por considerarlos así por el Consejo Estatal;
 
-XXVI. Ley de Planeación: La Ley de Planeación para el Estado de Oaxaca;
+XL. Programa Especial Concurrente: El programa especial concurrente para el desarrollo rural sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley;
 
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+XLI. Programas Sectoriales: Los programas específicos del Gobierno Federal como Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del desarrollo rural sustentable;
 
-XXVII. Órdenes de Gobierno: Los Gobiernos Federal, Estatal y Municipal;
+XLII. Recursos Naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales como son: tierras, bosques, recursos minerales, agua, recursos genéticos, comunidades vegetativas y animales;
 
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+XLIII. Secretaría: Secretaría de Fomento Agroalimentario y Desarrollo Rural;
 
-XXVIII. Organismos Genéticamente Modificados: Cualquier organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de la biotecnología moderna;
+XLIV. Seguridad Alimentaria: Es el estado en el cual todas las personas deben gozar, en forma oportuna y permanente, el acceso físico, económico y social a los alimentos que necesitan, en cantidad y calidad, para su adecuado consumo y utilización biológica, garantizándoles un estado de bienestar general que coadyuve al logro de su desarrollo;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+XLV. Sistema: Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencias para lograr un determinado propósito;
 
-XXVIII BIS. Plaga: Toda especie, variedad o biotipo vegetal, animal o agente patógeno dañino para las plantas y productos, materiales o entornos vegetales;
+XLVI. Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+XLVII. Soberanía Alimentaria: Es el derecho de los pueblos a alimentos nutritivos y culturalmente adecuados, accesibles, producidos de forma sostenible y ecológica, y su derecho a decidir su propio sistema alimentario y productivo, dando prioridad a las economías y mercados locales, así como otorgar el poder a los campesinos y a la agricultura familiar, la pesca artesanal y el pastoreo tradicional;
 
-XXVIII TER. Plaguicida: Cualquier sustancia o mezclas de sustancias con ingredientes químicos o biológicos destinados a repeler, destruir o controlar cualquier plaga o a regular el crecimiento de las plantas;
+XLVIII. Sustentabilidad: La sustentabilidad ambiental, referida a la necesidad de que el impacto del proceso de desarrollo no destruya de manera irreversible la capacidad de carga del ecosistema;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+XLIX. Producción Orgánica: Sistema de producción que pondera el medio ambiente y la salud humana por medio de técnicas que procuran la conservación del suelo, la fertilidad de la tierra, la alimentación natural de ganado y en general todo aquel método que tienda reducir al mínimo la aplicación de agentes sintéticos, modificados o que se consideren dañinos para la preservación del medio ambiente; y
 
-XXVIII QUATER. Plaguicida de Uso Prohibido o Restringido: Es aquel cuyos usos se encuentran dentro de una o más categorías prohibidas o restringidas total o parcialmente mediante una medida o norma reglamentaria. Estos incluyen los productos químicos cuya aprobación para primer uso haya sido denegada o que las industrias hayan retirado del mercado o de ulterior consideración en el proceso de aprobación nacional o internacional y cuando haya pruebas claras que esa medida se haya adoptado con el objeto de proteger la salud humana y el medio ambiente;
-
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
-
-XXVIII QUINQUIES. Plaguicida con grado de peligrosidad: Son aquellos que representan riesgos agudos o crónicos a la salud humana o el medio ambiente de acuerdo a las normas oficiales mexicanas o a través de alguna de las clasificaciones realizadas por los organismos internacionales.
-
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
-
-XXIX. Participación Ciudadana: Derecho de los ciudadanos para participar de manera permanente, integral y sistemática en la política económica y social para el desarrollo rural;
-
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
-
-XXX. Productos Básicos y Estratégicos: Aquellos que forman parte de la dieta de la mayoría de la población diferenciados por regiones, los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos estatales y/o nacionales, definidos por la Ley o por considerarlos así por el Consejo Estatal;
-
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
-
-XXXI. Programa Especial Concurrente: El programa especial concurrente para el desarrollo rural sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley,
-
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
-
-XXXII. Programas Sectoriales: Los programas específicos del Gobierno Federal como Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del desarrollo rural sustentable;
-
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
-
-XXXIII. Recursos Naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales como son: tierras, bosques, recursos minerales, agua, recursos genéticos, comunidades vegetativas y animales;
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
-
-XXXIV. Secretaría: Secretaría de Fomento Agroalimentario y Desarrollo Rural;
-
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
-
-XXXV. Seguridad Alimentaria: El abasto oportuno, constante e incluyente de los alimentos nutritivos en cantidad suficiente para satisfacer la demanda nutricional de la población;
-
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
-
-XXXVI. Sistema: Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencias para lograr un determinado propósito;
-
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
-
-XXXVII. Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; y
-
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
-
-XXXVIII. Sustentabilidad: La sustentabilidad ambiental, referida a la necesidad de que el impacto del proceso de desarrollo no destruya de manera irreversible la capacidad de carga del ecosistema.
+L. Maíz Nativo: Cereales de la especia Zea Mays originario de cierta Comunidad, Región o Estado dentro del Territorio Nacional y que se diferencia de otras clases extranjeras, mejoradas o genéticamente modificadas.
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
@@ -395,7 +359,9 @@ X. Equidad de género, la protección de la familia, el impulso a los programas 
 
 XI. Impulso a la educación cívica, a la cultura de la legalidad y combate efectivo a la ilegalidad en el medio rural;
 
-XII. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos indígenas, particularmente para su integración al desarrollo rural sustentable del Estado;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
+
+XII. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos y comunidades indígenas y afromexicanas, particularmente para su integración al desarrollo rural sustentable del Estado;
 
 XIII. Seguridad en la tenencia y disposición de la tierra;
 
@@ -415,7 +381,13 @@ XVIII. Difusión estatal a los programas y acciones;
 
 XIX. El manejo integrado de plagas, y
 
-XX. Las demás que determinen el Ejecutivo Estatal.
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2023)</small>
+
+XX. Los huertos comunitarios; y
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
+
+XXI. Las demás que determinen (sic) el Ejecutivo Estatal
 
 ###### ARTÍCULO 17.
 
@@ -429,13 +401,11 @@ El Ejecutivo Estatal establecerá las previsiones presupuestarias necesarias par
 
 Se crea el Consejo Estatal de Desarrollo Rural Sustentable, como instancia consultiva del Ejecutivo Estatal, con carácter incluyente y representativo de los intereses de los productores y agentes de la sociedad rural. Para promover en base a una participación, análisis, deliberación, promoción de consensos, acuerdos, seguimiento y evaluación, que coadyuven a favorecer, definir y orientar una mejor política, programas y acciones públicas que impulsen el desarrollo rural sustentable en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2023)</small>
 
 ###### ARTÍCULO 19.
 
-El Consejo Estatal será presidido por el titular de la Secretaría y operará en los términos que disponga su reglamento interno. Serán miembros permanentes de éste, los representantes de las dependencias federales en el Estado relacionadas con el desarrollo rural sustentable, los representantes de las dependencias y entidades que forman parte de la Comisión Estatal Intersecretarial, los representantes de las Comisiones Permanentes de Desarrollo Económico, Industrial, Comercial y Artesanal y Agropecuaria, Forestal, Minería y Pesca, del Honorable Congreso del Estado, los representantes de los Consejos Municipales de Desarrollo Rural Sustentable, los representantes debidamente acreditados de las organizaciones estatales del sector social y privado rural, de las organizaciones agroindustriales de comercialización y por actividad agropecuaria, de los comités de los sistemas producto, instituciones de educación e investigación y organismos no gubernamentales y de las organizaciones de profesionistas legalmente constituidas o prestadores de servicios relacionados con el sector agropecuario y que incidan en materia de desarrollo rural, de acuerdo a los temas a tratar, en los términos de las leyes y las normas reglamentarias vigentes.
-
-La participación del Consejo Estatal, junto con la Comisión Intersecretarial Estatal, consistirá en la emisión de opiniones y la coordinación de las actividades de difusión y promoción, hacia los sectores sociales representados, de los programas, acciones y normas relacionadas con el Programa Estatal Concurrente, así como de los Sistemas contemplados en la presente Ley.
+El Consejo Estatal será presidido por el titular de la Secretaría y operará en los términos que disponga su reglamento interno. Serán miembros permanentes de éste, los representantes de las dependencias federales en el Estado relacionadas con el desarrollo rural sustentable, los representantes de las dependencias y entidades que forman parte de la Comisión Estatal Intersecretarial, los representantes de las Comisiones Permanentes de Desarrollo Económico y Fomento Agroalimentario y Desarrollo Rural, del Honorable Congreso del Estado, los representantes de los Consejos Municipales de Desarrollo Rural Sustentable, los representantes debidamente acreditados de las organizaciones estatales del sector social y privado rural, de las organizaciones agroindustriales de comercialización y por actividad agropecuaria, de los comités de los sistemas producto, instituciones de educación e investigación y organismos no gubernamentales y de las organizaciones de profesionistas legalmente constituidas o prestadores de servicios relacionados con el sector agropecuario y que incidan en materia de desarrollo rural, de acuerdo a los temas a tratar, en los términos de las leyes y las normas reglamentarias vigentes.
 
 ###### ARTÍCULO 20.
 
@@ -599,11 +569,11 @@ Los convenios que se celebren entre los gobiernos Estatal, Federal y Municipal, 
 
 El Plan Estatal de Desarrollo constituirá el marco de referencia de los órdenes de Gobierno a fin de que los criterios del federalismo y la descentralización en él establecidos, orienten sus acciones y programas para el desarrollo rural sustentable con atención prioritaria a las zonas de alta y muy alta marginación con rezago económico y social.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 33.
 
-Con apego al principio de descentralización, se integrarán Consejos Municipales y Distritales para el Desarrollo Rural Sustentable, homologados al Consejo Estatal.
-
-Los convenios que celebre la Secretaría con los gobiernos de los municipios preverán la creación de los Consejos Municipales, los cuales serán además, instancias para la participación de los productores, de las comunidades indígenas, de los sistemas producto estatales, y demás agentes de la sociedad rural en la definición de prioridades regionales, de planeación y distribución de los recursos que el Estado, la Federación y los municipios destinen al apoyo de las inversiones productivas, y para el desarrollo rural sustentable conforme al presente ordenamiento.
+Con apego al principio de descentralización, se integrarán Consejos Municipales y Distritales para el Desarrollo Rural Sustentable, homologados al Consejo Estatal. Los convenios que celebre la Secretaría con los gobiernos de los municipios preverán la creación de los Consejos Municipales, los cuales serán además, instancias para la participación de los productores, de los pueblos y comunidades indígenas y afromexicanas, de los sistemas producto estatales, y demás agentes de la sociedad rural en la definición de prioridades regionales, de planeación y distribución de los recursos que el Estado, la Federación y los municipios destinen al apoyo de las inversiones productivas, y para el desarrollo rural sustentable conforme al presente ordenamiento.
 
 ###### ARTÍCULO 34.
 
@@ -947,13 +917,17 @@ II. La aplicación de un esquema que permita el desarrollo sostenido y eficiente
 
 III. El desarrollo de unidades de producción demostrativas como instrumentos de capacitación, inducción y administración de riesgos hacia el cambio tecnológico; y
 
-IV. La preservación y recuperación de las prácticas y los conocimientos tradicionales vinculados al aprovechamiento sustentable de los recursos naturales, su difusión, el intercambio de experiencias, la capacitación de productores, y entre los propios productores y agentes de la sociedad rural, y las formas directas de aprovechar el conocimiento, respetando usos y costumbres, tradición y tecnologías en el caso de las comunidades indígenas.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
+
+IV. La preservación y recuperación de las prácticas y los conocimientos tradicionales vinculados al aprovechamiento sustentable de los recursos naturales, su difusión, el intercambio de experiencias, la capacitación de productores, y entre los propios productores y agentes de la sociedad rural, y las formas directas de aprovechar el conocimiento, respetando usos y costumbres, tradición y tecnologías en el caso de los pueblos y comunidades indígenas y afromexicanas.
 
 ### CAPÍTULO IV. DE LA RECONVERSIÓN PRODUCTIVA SUSTENTABLE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 62.
 
-Los gobiernos Estatal y Municipal estimularán la reconversión, en términos de estructura productiva sustentable, incorporación de cambios tecnológicos, y de procesos que contribuyan a la productividad y competitividad del sector agropecuario, a la seguridad alimentaria con óptimo uso de las tierras mediante apoyos e inversiones complementarias.
+Los gobiernos Estatal y Municipal estimularán la reconversión, en términos de estructura productiva sustentable, incorporación de cambios tecnológicos, y de procesos que contribuyan a la productividad y competitividad del sector agropecuario, así como a la autosuficiencia, soberanía y seguridad alimentaria con óptimo uso de las tierras mediante apoyos e inversiones complementarias.
 
 Por lo que se protegerá la biodiversidad y prevendrá los desastres naturales, con pleno respeto a la cultura, los usos y costumbres de la población. Asimismo, se promoverá la integración y diversificación de las cadenas productivas, generando empleos y agregando valor a los productos del campo.
 
@@ -965,7 +939,9 @@ El Ejecutivo Estatal, a través de la Secretaría, creará los instrumentos de p
 
 Los apoyos para el cambio de la estructura productiva, se realizarán bajo criterio de eficiencia y eficacia que contemplen priorizar y lograr como propósitos:
 
-I. Responder eficientemente a la demanda estatal de productos básicos y estratégicos para la seguridad alimentaria estatal;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
+
+I. Responder eficientemente a la demanda estatal de productos básicos y estratégicos para la autosuficiencia, soberanía y seguridad alimentaria estatal;
 
 II. Fomentar y reorientar el uso sustentable, eficiente y racional de las tierras de acuerdo con las condiciones agroambientales, disponibilidad de agua, tecnologías, procesos y los que incidan en mayor productividad y competitividad;
 
@@ -977,7 +953,9 @@ IV. Reorientar el uso del suelo cuando existan niveles altos de erosión o impac
 
 V. Incrementar la productividad en regiones con limitantes naturales para la producción, pero con ventajas comparativas que justifiquen la producción bajo condiciones controladas;
 
-VI. Desarrollar economías de escala e impulsar el cambio y la adopción tecnológica, acordes a la cultura y recursos naturales de las comunidades rurales y pueblos indígenas;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
+
+VI. Desarrollar economías de escala e impulsar el cambio y la adopción tecnológica, acordes a la cultura y recursos naturales de las comunidades rurales, de los pueblos y comunidades indígenas y afromexicanas;
 
 VII. Apoyar proyectos estratégicos que se integren e impulsen el desarrollo regional y estatal de los productores y demás agentes de la cadena productiva;
 
@@ -999,7 +977,9 @@ III. Adoptar innovaciones tecnológicas;
 
 IV. Conservar y manejar el medio ambiente;
 
-V. Buscar la trasformación tecnológica y la adaptación de tecnologías y procesos acordes a la cultura y los recursos naturales de los pueblos indígenas y las comunidades rurales;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
+
+V. Buscar la trasformación tecnológica y la adaptación de tecnologías y procesos acordes a la cultura y los recursos naturales de los pueblos y comunidades indígenas y afromexicanas;
 
 VI. Reorganizar y mejorar la eficiencia en el trabajo;
 
@@ -1499,9 +1479,11 @@ IX. El fortalecimiento de las unidades productivas familiares y grupos de trabaj
 
 Se reconocen como formas legales y de organización económica y social, las reguladas por la Ley Agraria; las que se regulan en las leyes federales y estatales, cualquiera que sea su materia.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 121.
 
-Los miembros de ejidos, comunidades indígenas y los pequeños propietarios rurales en condiciones de pobreza, quienes están considerados como integrantes de organizaciones económicas y sociales para los efectos de esta Ley, serán sujetos de atención prioritaria de los programas de apoyo previstos en los términos de esta Ley.
+Los miembros de ejidos, los pueblos y comunidades indígenas y afromexicanas y los pequeños propietarios rurales en condiciones de pobreza, quienes están considerados como integrantes de organizaciones económicas y sociales para los efectos de esta Ley, serán sujetos de atención prioritaria de los programas de apoyo previstos en los términos de esta Ley.
 
 ###### ARTÍCULO 122.
 
@@ -1595,37 +1577,11 @@ Asimismo, en las políticas, planes, programas, proyectos que se formulen y ejec
 
 ### CAPÍTULO XV. DEL BIENESTAR SOCIAL Y LA ATENCIÓN PRIORITARIA A ZONAS MARGINADAS
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 128.
 
-Los programas que opere el Ejecutivo Estatal mediante convenios con la Federación, impulsarán una adecuada integración de los factores de bienestar social como son: salud, seguridad social, educación, alimentación, vivienda, equidad de género, atención a los jóvenes, personas de la tercera edad, grupos vulnerables, jornaleros agrícolas y migrantes, los derechos de los pueblos indígenas, la cultura y la recreación; mismos que deberán aplicarse con criterios de equidad.
-
-Para el desarrollo de estos programas el Ejecutivo Estatal mediante convenios con la Federación y municipios, fomentará los programas sectoriales correspondientes y el Especial Concurrente conjuntamente con las organizaciones sociales, para coadyuvar a superar la pobreza, estimular la solidaridad social, el mutualismo y la cooperación. Para los efectos del referido programa, de manera enunciativa y no restrictiva, de acuerdo con las disposiciones constitucionales y la legislación aplicable, se seguirán los lineamientos siguientes:
-
-I. Las autoridades municipales elaborarán con la periodicidad del caso, su catálogo de necesidades locales y regionales sobre educación, integrando, a través del Consejo Municipal, sus propuestas ante las instancias superiores de decisión. Los órganos locales presentarán proyectos educativos especiales.
-
-Los proyectos para la atención a grupos marginados, mediante brigadas móviles, escuelas de concentración, internados y albergues regionales o cualesquiera otras modalidades de atención educativa formal y no formal serán acordes a las circunstancias temporales y a las propias de su entorno, y responderán a criterios de regionalización del medio rural, sus particularidades étnicas demográficas y condiciones ambientales, como sociales.
-
-Asimismo, se instrumentarán programas para dar especial impulso a la educación cívica, la cultura de la legalidad y el combate efectivo de la ilegalidad y la delincuencia organizada en el medio rural.
-
-II. Los programas de alimentación, nutrición y desayunos escolares que aplique el Ejecutivo Estatal tendrán como prioridad atender a la población más necesitada, al mismo tiempo que organicen a los propios beneficiarios para la producción, preparación y distribución de dichos servicios.
-
-Los Consejos Municipales participarán en la detección de necesidades de profilaxis en salud, de brigadas móviles para la atención sistemática de endemias y acciones eventuales contra epidemias, integrando el paquete de la región; estableciendo prioridades de clínicas rurales regionales, para su inclusión en el Programa Especial Concurrente.
-
-III. El Ejecutivo Estatal a través de la Comisión Estatal de Vivienda (CEVI), participará en los objetivos a que se refiere el Fondo Nacional de Vivienda Rural con el propósito de contribuir en el fomento y financiamiento, para reducir el déficit habitacional en el medio rural.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
-
-Para el cumplimiento de lo anterior, el Gobierno del Estado promoverá la construcción, ampliación y mejoramiento de viviendas en zonas rurales; Asimismo, su equipamiento y la construcción de servicios públicos, privilegiando el uso de materiales regionales y tecnologías apropiadas, el desarrollo de programas que generen empleo y se complemente con la actividad agropecuaria.
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
-
-IV. Para la atención de las familias campesinas en condiciones de pobreza por causa de la estacionalidad agrícola, se diseñará e instrumentarán programas de empleo temporal acordes a los tiempos de paro, a las potencialidades microrregionales y a sus habilidades campesinas.
-
-V. Sin menoscabo de la libertad individual, el Consejo Estatal y los Consejos Municipales, en el ámbito de sus atribuciones, coadyuvarán en las acciones de fomento a políticas de población en el medio rural, que instrumenten las autoridades locales y federales de salud y educativas.
-
-Estará dentro de su esfera de responsabilidad, vigilar y confirmar que los programas de planeación familiar que se realicen en su demarcación territorial y administrativa, se lleven a cabo con absoluto respeto a la dignidad de las familias y se orienten a una regulación racional del crecimiento de la población y a la promoción de patrones de asentamiento que faciliten la prestación de servicios de calidad, a fin de conseguir un mejor aprovechamiento de los recursos del Estado y elevar las condiciones de vida de la población.
-
-VI. Las comunidades rurales en general y especialmente aquellas cuya ubicación presente el catálogo de eventualidades ubicado en el rango de alto riesgo, deberán tener representación y participación directa en las unidades municipales de protección civil para dar impulso a los Programas de Protección Civil para la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre; lo mismo que proyectar y llevar a cabo la integración y entrenamiento de grupos voluntarios.
+Los programas que opere el Ejecutivo Estatal mediante convenios con la Federación, impulsarán una adecuada integración de los factores de bienestar social como son: salud, seguridad social, educación, alimentación, vivienda, equidad de género, atención a los jóvenes, personas de la tercera edad, grupos vulnerables, jornaleros agrícolas y migrantes, los derechos de los pueblos indígenas y afromexicanos, la cultura y la recreación; mismos que deberán aplicarse con criterios de equidad.
 
 ###### ARTÍCULO 129.
 
@@ -1739,9 +1695,11 @@ De conformidad al criterio de sustentabilidad, el Ejecutivo Estatal en coordinac
 
 En los procesos de reestructuración de las unidades productivas que se promuevan en cumplimiento de lo dispuesto en este capítulo, deberán atenderse las determinaciones establecidas en la regulación agraria relacionada con la organización de los núcleos agrarios y los derechos de preferencia y de tanto, en la normatividad de asentamientos humanos, equilibrio ecológico y en general en todo lo que sea aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 145.
 
-Los ejidatarios, comuneros, pueblos indígenas, propietarios o poseedores de los predios y demás población que detente o habite las áreas naturales protegidas en cualesquiera de sus categorías, tendrán prioridad para obtener los permisos, autorizaciones y concesiones para desarrollar obras o actividades económicas en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de las Normas Oficiales Mexicanas y demás ordenamientos aplicables.
+Los ejidatarios, comuneros, pueblos y comunidades indígenas y afromexicanas, propietarios o poseedores de los predios y demás población que detente o habite las áreas naturales protegidas en cualesquiera de sus categorías, tendrán prioridad para obtener los permisos, autorizaciones y concesiones para desarrollar obras o actividades económicas en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de las Normas Oficiales Mexicanas y demás ordenamientos aplicables.
 
 La Secretaría prestará asesoría técnica y legal para que los interesados formulen sus proyectos y tengan acceso a los apoyos de la Federación.
 
@@ -1787,17 +1745,23 @@ X. carne de bovinos, porcinos, aves; y
 
 XI. pescado.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 149.
 
-El Gobierno del Estado deberá conducir su política agropecuaria a fin de que los programas y acciones para el fomento productivo y el desarrollo rural sustentable, así como los acuerdos y tratados internacionales que suscriba el Estado Mexicano, propicien la inocuidad, seguridad y soberanía alimentaria, mediante la producción y abasto de los productos básicos y estratégicos que defina el Consejo Estatal.
+El Gobierno del Estado deberá conducir su política agropecuaria a fin de que los programas y acciones para el fomento productivo y el desarrollo rural sustentable, así como los acuerdos y tratados internacionales que suscriba el Estado Mexicano, propicien la inocuidad, autosuficiencia, seguridad y soberanía alimentaria, mediante la producción y abasto de los productos básicos y estratégicos que defina el Consejo Estatal.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2023)</small>
 
 ###### ARTÍCULO 150.
 
-Las acciones para la soberanía y la seguridad alimentaria deberán abarcar a todos los productores y agentes intervinientes, impulsando la integración de las cadenas productivas de alimentos.
+Las acciones para la autosuficiencia, seguridad y soberanía alimentaria deberán abarcar a todos los productores y agentes intervinientes, impulsando la integración de las cadenas productivas de alimentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2023)</small>
 
 ###### ARTÍCULO 151.
 
-Para cumplir con los requerimientos de la seguridad y soberanía alimentaria, el Ejecutivo Estatal impulsará en las zonas productoras líneas de acción en los siguientes aspectos:
+Para cumplir con los requerimientos de la autosuficiencia, seguridad y soberanía alimentaria, el Ejecutivo Estatal impulsará en las zonas productoras líneas de acción en los siguientes aspectos:
 
 I. La identificación de la demanda interna de consumo de productos básicos y estratégicos, y a partir de ello conducir los programas del sector para cubrir la demanda y determinar los posibles excedentes para comercialización en los mercados regionales del país;
 
@@ -2042,5 +2006,13 @@ P.O. 18 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 933.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXV DEL ARTÍCULO 4, LAS FRACCIONES I, III, IV, VII, VIII, X Y XI DEL ARTICULO 23, LA FRACCIÓN I DEL ARTÍCULO 57, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 142 Y EL ARTÍCULO 146; Y SE ADICIONA LA FRACCION XXII, RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 4, LA FRACCION IX AL ARTÍCULO 34, EL CUARTO PÁRRAFO AL ARTÍCULO 88 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1479.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 2, LAS FRACCIONES II Y III DEL ARTÍCULO 3, EL ARTÍCULO 4, LA FRACCIÓN XII DEL ARTÍCULO 16, EL ARTÍCULO 19, EL ARTÍCULO 33, LA FRACCIÓN IV DEL ARTÍCULO 61, EL PRIMER PÁRRAFO DEL ARTÍCULO 62, LA FRACCIÓN I Y VI DEL ARTÍCULO 64, LA FRACCIÓN V DEL ARTÍCULO 65, LOS ARTÍCULOS 121, 128, EL PRIMER PÁRRAFO DEL ARTÍCULO 145, LOS ARTÍCULOS 149, 150 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 151; Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 3 Y LA FRACCIÓN XX AL ARTÍCULO 16 RECORRIÉNDOSE LOS SUBSECUENTES DE LA LEY DE DESARROLLO RURAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
