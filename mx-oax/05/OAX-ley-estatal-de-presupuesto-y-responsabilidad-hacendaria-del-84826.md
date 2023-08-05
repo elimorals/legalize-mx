@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2023-07-15"
+last_updated: "2023-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -137,9 +137,9 @@ XVI. Cuenta Pública: El informe a que se refiere la Ley de Fiscalización Super
 
 XVII. Déficit presupuestario: el financiamiento que cubre la diferencia entre los montos previstos en la Ley de Ingresos y el Presupuesto de Egresos y aquella entre los ingresos y los gastos en los presupuestos de las entidades;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
 
-XVIII. Dependencias: Administración Pública Centralizada integrada por la Gubernatura, Secretarias de Despacho, Fiscalía General del Estado, Consejería Jurídica del Gobierno del Estado y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, así como, por los Organos Auxiliares, las unidades administrativas que dependan directamente del Gobernador del Estado y los Órganos Desconcentrados.
+XVIII. Dependencias: Administración Pública Centralizada integrada por la Gubernatura, Secretarías de Despacho, Consejería Jurídica del Gobierno del Estado y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, así como por los Órganos Auxiliares, las unidades administrativas que dependan directamente del Gobernador del Estado y los Órganos Desconcentrados.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -2302,6 +2302,14 @@ TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, q
 P.O. 15 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1448.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 2; SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 28 Y EL INCISO D) RECORRIENDOSE EL SUBSECUENTE DE LA FRACCIÓN III DEL ARTÍCULO 36; TODOS DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1484.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 2 DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
