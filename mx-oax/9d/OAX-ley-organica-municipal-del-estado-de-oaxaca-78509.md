@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2023-04-01"
+last_updated: "2023-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -337,9 +337,9 @@ III.- Colaborar cuando sea procedente con su tequio en los trabajos colectivos e
 
 IV.- Inscribirse, en los padrones que determinen las leyes federales, estatales y municipales;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
 
-V.- Inscribirse a los dieciocho años de edad en las juntas municipales de reclutamiento, con el fin de cumplir con el Servicio Militar Nacional, en caso de mujeres esta será opcional;
+V.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria, secundaria, media superior y reciban la militar, en los términos que establezca la ley;
 
 VI.- Respetar los Símbolos Patrios.
 
@@ -347,9 +347,13 @@ VI.- Respetar los Símbolos Patrios.
 
 VII.- Quienes mantengan un bien inmueble deshabitado, deberán de conservarlo en buenas condiciones conforme a los bandos de policía y gobierno y reglamentos en la materia.
 
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2023)</small>
+
+VIII.- Preservar, respetar y cuidar el medio ambiente y la biodiversidad; así como procurar el bienestar animal;
+
 > <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2021)</small>
 
-VIII.- Auspiciar la sana alimentación, la práctica de algún deporte y la sana recreación en familia.
+IX.- Auspiciar la sana alimentación, la práctica de algún deporte y la sana recreación en familia.
 
 En los municipios donde se encuentren asentados pueblos indígenas, los ayuntamientos promoverán, en el marco de las prácticas tradicionales de las Comunidades y Pueblos Indígenas, el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Particular del Estado y la Ley de los Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
 
@@ -4770,3 +4774,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan las disposiciones de igualo menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1478.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V; Y SE ADICIONA LA FRACCIÓN VIII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 28 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publiquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
