@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-instituciones-y-procedimientos-electorales-para-el-10196
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2023-07-31"
+last_updated: "2023-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE AGOSTO DE 2023 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE AGOSTO DE 2023.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2014.
 
@@ -4371,9 +4371,9 @@ ARTÍCULO 282
 
 1. Al partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, tendrá derecho a participar en la asignación de diputados por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido, salvo que se ubique en uno de los límites a los que se refiere esta Ley, caso en el cual, se hará el ajuste correspondiente en los términos previstos en la misma.
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
+(ADICIONADO, P.O. 31 DE JULIO DE 2023) (F. DE E., P.O. 6 DE AGOSTO DE 2023)
 
-2. La asignación de las diputaciones de representación proporcional que correspondan a cada partido político se realizará comenzando con los candidatos de la lista registrada previamente, en su caso, para la siguiente se recurrirá a la lista conformada por las candidaturas de ese partido registradas por el principio de mayoría relativa que, no habiendo obtenido la mayoría de votos en su distrito, hubieren obtenido la mayoría de votos en su distrito, hubieren obtenido un mayor porcentaje de votación, y así sucesivamente hasta concluir con el total de diputaciones asignadas a cada partido político. La suplencia será asignada a la persona registrada como compañera en cada formula. Se determinará una lista definitiva intercalando las formulas de ambas listas, que será encabezada siempre por la primera formula de la lista de los partidos registrada previamente. Tal intercalado podrá generar bloques de hasta dos formulas del mismo género, pero de diferente lista de origen
+2. La asignación de las diputaciones de representación proporcional que correspondan a cada partido político se realizará comenzando con los candidatos de la lista registrada previamente, en su caso, para la siguiente se recurrirá a la lista conformada por las candidaturas de ese partido registradas por el principio de mayoría relativa que, no habiendo obtenido la mayoría de votos en su distrito, hubieren obtenido un mayor porcentaje de votación, y así sucesivamente hasta concluir con el total de diputaciones asignadas a cada partido político. La suplencia será asignada a la persona registrada como compañera en cada formula. Se determinará una lista definitiva intercalando las formulas de ambas listas, que será encabezada siempre por la primera formula de la lista de los partidos registrada previamente. Tal intercalado podrá generar bloques de hasta dos formulas del mismo género, pero de diferente lista de origen.
 
 > <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
 
