@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-1056
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-30"
-last_updated: "2021-04-05"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de enero de 2015.
 
@@ -139,9 +139,23 @@ II.- La promoción de actividades que eliminen la marginación y la exclusión;
 
 III.- El fomento de la solución pacífica de conflictos;
 
-IV.- Estrategias de educación y sensibilización de la población para promover la cultura de legalidad y tolerancia respetando al mismo tiempo las diversas identidades culturales. Incluye tanto programas generales como aquéllos enfocados a grupos sociales y comunidades en altas condiciones de vulnerabilidad, y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
-V.- Se establecerán programas que modifiquen las condiciones sociales de la comunidad y generen oportunidades de desarrollo especialmente para los grupos en situación de riesgo, vulnerabilidad, o afectación.
+IV.- Estrategias de educación y sensibilización de la población para promover la cultura de legalidad y tolerancia respetando al mismo tiempo las diversas identidades culturales;
+
+Incluye tanto programas generales como aquéllos enfocados a grupos sociales y comunidades en altas condiciones de vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+V.- Se establecerán programas que modifiquen las condiciones sociales de la comunidad y generen oportunidades de desarrollo especialmente para los grupos en situación de riesgo, vulnerabilidad, o afectación;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+VI.- Programas de protección a las familias para evitar su desintegración y cualquier modalidad de violencia que la propicie, a través de la educación y el empoderamiento de todos sus miembros sin ningún tipo de discriminación; y
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+VII.- La implementación de acciones para la detección y atención del acoso y violencia contra niñas, niños, adolescentes y mujeres, en las escuelas y comunidades.
 
 ###### Artículo 8º.
 
@@ -582,3 +596,11 @@ P.O. 5 DE ABRIL DE 2021.
 ###### ARTÍCULO ÚNICO
 
 El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 409.- SE REFORMA LA LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas aquellas disposiciones que se opongan al mismo.
