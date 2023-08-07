@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2023-07-03"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -389,6 +389,10 @@ Artículo 10 BIS.- La violencia vicaria.
 
 Tipo de violencia que comete la persona que mantenga o haya mantenido una relación de matrimonio, concubinato, afectiva o sentimental con la víctima; incluye toda aquella conducta realizada de manera consciente para generar un daño a un descendente, ascendente o dependiente económico de la víctima, ejerciéndose de forma indirecta hacia esta.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2023)</small>
+
+Artículo 10 TER.- Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencional, dirigido a humillar, dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la realización de uno o varios tipos de violencia, durante o después de una relación de noviazgo.
+
 ###### Artículo 11.
 
 La violencia de género contra las mujeres en el ámbito laboral y docente, es la que se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica. Consiste en un acto o una omisión de abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima e impide su desarrollo y atenta contra el principio de igualdad.
@@ -501,19 +505,21 @@ Los casos de violencia de género contra las mujeres y las causas que tengan rel
 
 ### CAPÍTULO III BIS. De la Violencia Feminicida y de la Alerta de Violencia de Género Contra las Mujeres
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2023)</small>
 
-Artículo 25 bis.- Por Violencia Feminicida se entiende la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar a la impunidad tanto social como del Estado y probablemente culminar en homicidio, así como en otras formas de muerte violenta de mujeres.
+Artículo 25 bis.- Por Violencia Feminicida se entiende la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos, y del ejercicio abusivo del poder, tanto en los ámbitos público y privado, que puede conllevar impunidad social y del Estado. Se manifiesta a través de conductas de odio y discriminación que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables y en conductas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
 En los casos de feminicidio cometidos en la entidad, se aplicarán las sanciones previstas en el Código Penal del Estado de Aguascalientes.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
 
-Artículo 25 ter.- Por Alerta de Violencia de Género se entiende el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la Violencia Feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad; y tendrá como objetivo fundamental garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar las desigualdades producidas por una legislación que agravia sus derechos humanos, para lo cual el Estado deberá realizar las acciones previstas en el Artículo 23 de la Ley General.
+Artículo 25 ter.- Por Alerta de Violencia de Género contra las mujeres se entiende, el conjunto de acciones gubernamentales, coordinadas, integrales, de emergencia y temporales realizadas entre las autoridades de los tres órdenes y niveles de gobierno para enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, a fin de garantizar su pleno acceso al derecho a una vida libre de violencias.
 
-La declaratoria de Alerta de Violencia de Género se emitirá de conformidad con lo previsto en los Artículos 24 y 25 de la Ley General.
+El procedimiento para la emisión de la Alerta de Violencia de Género contra las mujeres deberá ser pronto y expedito, atendiendo a la situación de urgencia de los hechos documentados que motiva su solicitud y al territorio especificado en la misma, así como al principio de debida diligencia, de conformidad con lo previsto en la Ley General.
 
-El Poder Ejecutivo del Estado recibirá, a través de la Secretaría General de Gobierno, la notificación de la declaratoria de Alerta de Violencia de Género contra las mujeres que dicte el Gobierno Federal, debiéndose informar al Consejo Estatal para la Erradicación de la Violencia de Género contra las Mujeres.
+La declaratoria de Alerta de Violencia de Genero se emitirá de conformidad con lo previsto en los artículos 24, 24 Bis, 24 Ter, 24 Quater, 24 Quinquies, 24 Sexies, 24 Septies, 25 y 25 Bis de la Ley General.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
@@ -521,9 +527,9 @@ Artículo 25 quater.- El Agravio Comparado, implica un trato desigual a las muje
 
 En caso de existir Agravio Comparado, las autoridades competentes deberán realizar los ajustes normativos necesarios para subsanarlo.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
 
-Artículo 25 quinquies.- Ante la Violencia Feminicida, el Estado de Aguascalientes y sus municipios, colaborarán con el Gobierno Federal, para el resarcimiento del daño, conforme a lo dispuesto por el Artículo 26 de la Ley General.
+Artículo 25 quinquies.- Ante la Violencia Feminicida, el Estado de Aguascalientes y sus municipios, colaborarán con el Gobierno Federal, para el resarcimiento del daño, conforme a lo dispuesto por el artículo 26 de la Ley General y la Ley de Víctimas del Estado de Aguascalientes.
 
 ### CAPÍTULO IV. De las Órdenes de Protección
 
@@ -1934,3 +1940,23 @@ P.O. 3 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 399.-SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+– El Poder Ejecutivo del Estado, en un plazo no mayor a noventa días naturales a la entrada en vigor del presente Decreto, deberá realizar las modificaciones necesarias al Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 408.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
