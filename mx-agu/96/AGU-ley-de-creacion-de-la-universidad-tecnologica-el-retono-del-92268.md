@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-creacion-de-la-universidad-tecnologica-el-retono-del-922
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-11"
-last_updated: "2013-02-11"
+last_updated: "2023-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE CREACION DE LA UNIVERSIDAD TECNOLOGICA "EL RETOÑO" DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO, PUBLICADA EN EL P.O. DE 7 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA "EL RETOÑO" DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de febrero de 2013.
 
@@ -338,3 +340,37 @@ Dip. Mario Antonio Guevara Palomino,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 8 de febrero de 2013,- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 403.- SE EXPIDE LA LEY DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Creación de la Universidad Tecnológica "El Retoño", expedida mediante Decreto Número 307 por la LXI Legislatura del Estado Libre y Soberano de Aguascalientes, publicada en el Periódico Oficial del Estado el día 11 de febrero de 2013.
+
+###### ARTÍCULO TERCERO.
+
+La Universidad Tecnológica El Retoño a la que se hace mención en la presente Ley, para todo efecto a que haya lugar, es el mismo organismo descentralizado de la Administración Pública del Estado de Aguascalientes al que se hace referencia en la Ley de Creación de la Universidad Tecnológica "El Retoño" que se abroga, misma que fue expedida por Decreto Número 307 por la LXI Legislatura del Estado Libre y Soberano de Aguascalientes, publicada en el Periódico Oficial del Estado el día 11 de febrero de 2013, en consecuencia, conservará y continuará con sus recursos humanos, financieros y materiales en los términos en los que se encuentran actualmente.
+
+###### ARTÍCULO CUARTO.
+
+Las personas representantes del sector productivo que actualmente integran el Consejo Directivo de la Universidad Tecnológica El Retoño continuarán en su cargo hasta en tanto concluyan el periodo por el cual fueron nombradas de conformidad con las disposiciones vigentes que fundaron y motivaron dicho acto.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Directivo de la Universidad Tecnológica El Retoño deberá realizar tanto las acciones necesarias como las modificaciones al Estatuto de la propia Universidad y demás normatividad institucional indispensable, a efecto de que las funciones, unidades administrativas y órganos de la Universidad Tecnológica El Retoño encuentren congruencia y armonía con la presente Ley, lo cual deberá realizarse en un término que no exceda de 90 días hábiles a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a la persona titular de la Rectoría de la Universidad Tecnológica El Retoño para que lleve a cabo las acciones necesarias tendentes a la inscripción de la presente Ley en el Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes, en el libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO SÉPTIMO.
+
+Quedarán sin efectos todas aquellas disposiciones que se opongan a las contenidas en la presente Ley.
