@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-la-agencia-para-el-desarrollo-de-130491"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-08-16"
-last_updated: "2022-11-22"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,15 @@ state: "YUC"
 ---
 # ESTATUTO ORGANICO DE LA AGENCIA PARA EL DESARROLLO DE YUCATAN
 
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 661/2023 POR EL QUE SE EXTINGUE Y LIQUIDA LA AGENCIA PARA EL DESARROLLO DE YUCATÁN, PUBLICADO EN EL D.O. DE 7 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 ESTATUTO ORGÁNICO DE LA AGENCIA PARA EL DESARROLLO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE AGOSTO DE 2023 (ABROGADO).
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 7 DE AGOSTO DE 2023.]</small>
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el jueves 16 de agosto de 2018.
 
@@ -616,3 +622,39 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 La persona titular de la Dirección General de la Agencia para el Desarrollo de Yucatán deberá realizar la inscripción de las modificaciones a este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de los treinta días naturales siguientes contados a partir de la entrada en vigor de este acuerdo.
+
+D.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 601/2023 POR EL QUE SE EXTINGUE Y LIQUIDA LA AGENCIA PARA EL DESARROLLO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+> <small>(F. DE E., D.O. 7 DE AGOSTO DE 2023)</small>
+
+Este decreto entrará en vigor a los doscientos cincuenta días de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto, se abroga el Decreto 549/2017 por el que se regula la Agencia para el Desarrollo de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 24 de noviembre de 2017.
+
+Tercero. Abrogación de normas complementarias
+
+Se abroga el Acuerdo ADY 01/2018 por el que se expide el Estatuto orgánico de la Agencia para el Desarrollo de Yucatán y el Acuerdo ADY 02/2018 por el que se designa a la Unidad de Transparencia y se regula el Comité de Transparencia de la Agencia para el Desarrollo de Yucatán, publicados en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de agosto de 2018 y el 17 de septiembre de 2018, respectivamente.
+
+Las normas referidas se abrogarán en el momento en el que queden legal y administrativamente concluidos los procesos de extinción, liquidación y transferencia de la Agencia para el Desarrollo de Yucatán, de conformidad con las disposiciones legales y normativas aplicables.
+
+Cuarto. Obligación de la dependencia coordinadora de sector
+
+La Secretaría de Investigación, Innovación y Educación, en su carácter de dependencia coordinadora de sector, una vez concluido el proceso de extinción de la Agencia para el Desarrollo de Yucatán, deberá informar este hecho a la Secretaría de Administración y Finanzas, dentro de los treinta días naturales siguientes, para los efectos que correspondan.
+
+Quinto. Trámite de asuntos
+
+A partir de la entrada en vigor de este decreto, los acuerdos, convenios, expedientes y demás asuntos jurídicos y administrativos, pendientes y en trámite, que se encuentren bajo cualquier concepto en la Agencia para el Desarrollo de Yucatán, se transferirán y quedarán a cargo de la Secretaría Técnica de Planeación y Evaluación.
+
+Sexto. Transferencia de recursos
+
+A partir de la entrada en vigor de este decreto, y de conformidad con lo dispuesto en los Lineamientos para los procesos de entrega-recepción, transferencia y desincorporación en la Administración Pública del estado, el patrimonio, el presupuesto del ejercicio fiscal en curso, las economías, los recursos en cuentas y los bienes muebles e inmuebles de la Agencia para el Desarrollo de Yucatán, pasarán al dominio y el uso de la Secretaría Técnica de Planeación y Evaluación.
+
+Séptimo. Procedimientos, juicios y asuntos en trámite
+
+A partir de la entrada en vigor de este decreto, todos los procedimientos, juicios y demás asuntos en trámite vinculados con las materias relacionadas con este decreto, se substanciarán y resolverán, hasta su total conclusión, de conformidad con las disposiciones legales y normativas aplicables al momento en que fueron iniciados.
