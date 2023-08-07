@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2023-03-24"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2023.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -1024,7 +1024,9 @@ i) El uso de materiales favorables para la captación de agua en la construcció
 
 7. El desperdicio del agua y su contaminación se sancionarán conforme a las leyes.
 
-C. Regulación del suelo
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2023)</small>
+
+C. Regulación del suelo.
 
 1. Esta Constitución reconoce la función social del suelo y de la propiedad pública, privada y social, en los términos de la Constitución Política de los Estados Unidos Mexicanos. El Gobierno de la Ciudad es responsable de administrar y gestionar el suelo para garantizar la distribución equitativa de las cargas y los beneficios del desarrollo urbano, el desarrollo incluyente y equilibrado, así como el ordenamiento sustentable del territorio de la Ciudad y, en forma concurrente, del entorno regional, considerando la eficiencia territorial y la minimización de la huella ecológica.
 
@@ -1034,9 +1036,13 @@ C. Regulación del suelo
 
 4. El desarrollo de obras y proyectos urbanos, públicos o privados, privilegiará el interés público. Las autoridades competentes de la Ciudad de México establecerán en sus programas y políticas, mecanismos para mitigar sus impactos, así como para minimizar las afectaciones sociales y económicas sobre residentes y actividades, y a las urbanas, ambientales, a la movilidad, patrimonio natural y cultural y los bienes comunes y públicos.
 
-5. El territorio de la Ciudad de México se clasificará en suelo urbano, rural y de conservación. Las leyes y los instrumentos de planeación determinarán las políticas, instrumentos y aprovechamientos que se podrán llevar a cabo conforme a las siguientes disposiciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 7 DE AGOSTO DE 2023)</small>
 
-a) Se establecerán principios e instrumentos asociados al desarrollo sustentable en el suelo de conservación, se promoverá la compensación o pagos por servicios ambientales y se evitará su ocupación irregular;
+5. El territorio de la Ciudad de México se clasificará en suelo urbano y de conservación. Las leyes y los instrumentos de planeación determinarán las políticas, instrumentos y aprovechamientos que se podrán llevar a cabo conforme a las siguientes disposiciones:
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2023)</small>
+
+a) Se establecerán principios e instrumentos asociados al desarrollo sustentable en el suelo de conservación, otorgándole al menos el mismo monto anual de presupuesto previsto en el año anterior y se promoverá la compensación o pagos por servicios ambientales y se evitará su ocupación irregular;
 
 b) Se promoverá el uso equitativo y eficiente del suelo urbano, privilegiando la vivienda, la densificación sujeta a las capacidades de equipamiento e infraestructura, de acuerdo a las características de la imagen urbana y la utilización de predios baldíos, con estricta observancia al Plan General de Desarrollo y el Programa General de Ordenamiento Territorial; y
 
@@ -1048,6 +1054,8 @@ Los principios de transparencia y máxima publicidad regirán los cambios de uso
 
 La ley deberá prever sanciones penales para aquellas personas servidoras públicas que otorguen permisos, licencias o autorizaciones cuyo contenido sea violatorio de las leyes o programas de ordenamiento territorial, y para aquellas personas que destinen dolosamente, un bien inmueble a un uso distinto del uso de suelo que tenga permitido u obtenga un beneficio económico derivado de dicha conducta, o presenten documentos apócrifos en relación con algún permiso, licencia, autorización o manifestación ante las autoridades competentes en las materias de obras, ordenamiento territorial o medio ambiente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 7 DE AGOSTO DE 2023)</small>
+
 7. La regulación del uso del suelo considerará:
 
 a) La dotación de reservas territoriales en áreas urbanas consolidadas para destinarlas a la producción social del hábitat y la vivienda, infraestructura, equipamiento y servicios, espacio público, revitalización urbana, movilidad y transformación económica;
@@ -1058,7 +1066,9 @@ c) La situación de los posesionarios de buena fe y el impulso de su regularizac
 
 d) La ley regulará la obligación de los propietarios de desarrollos inmobiliarios de pagar una compensación monetaria para mitigar el impacto urbano y ambiental, a fin de contribuir al desarrollo y mejoramiento del equipamiento urbano, la infraestructura vial e hidráulica y el espacio público. La ley establecerá las fórmula (sic) y criterios para la aplicación de dichos ingresos en las zonas de influencia o de afectación, en condiciones de equidad, transparencia y rendición de cuentas.
 
-e) Los cambios de uso del suelo de público a privado y de rural a urbano se permitirán sólo en los casos que especifique la ley y el ordenamiento territorial;
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2023)</small>
+
+e) Los cambios de uso del suelo de público a privado se permitirán sólo en los casos que especifique la ley y el ordenamiento territorial;
 
 f) La vigencia de los cambios de uso del suelo, considerando el tiempo de ejecución de las obras y las circunstancias de su cancelación;
 
@@ -4389,3 +4399,13 @@ G.O. 24 DE MARZO DE 2023.
 PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al momento de su publicación.
+
+G.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO; EN MATERIA DE ORDENAMIENTO TERRITORIAL”.]
+
+PRIMERO. Túrnese a la Jefatura de Gobierno de la Ciudad de México para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, la reclasificación del suelo rural será a suelo de conservación, por lo que todas las referencias hechas en otros ordenamientos al suelo rural se entenderán hechas al suelo de conservación.
