@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-pecuario-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2023-07-10"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -183,7 +183,9 @@ XXXIII. Fierro corrido: Marca de herrar mal aplicada e ilegible;
 
 XXXIV. Ganadería: El conjunto de actividades necesarias para la cría, reproducción, mejoramiento, preengorda, engorda, sacrificio, industrialización y explotación de ganado;
 
-XXXV. Ganadero o productor pecuario: Persona física o moral que se dedica a la ganadería tiene definido su asiento de producción;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+XXXV. Persona ganadera o productor pecuario: Persona física o moral que se dedica a la ganadería tiene definido su asiento de producción;
 
 > <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
@@ -260,6 +262,10 @@ LXX. UMA: Unidad de Medida y Actualización, entendida como la referencia econó
 LXXI. Velas: Reunión de ganado para su salvaguarda;
 
 LXXII. Visa ganadera: Documento autorizado por la Secretaría, y emitido y controlado por las Organizaciones Pecuarias regionales, que ampara la movilización de animales del lugar de la explotación al lugar definitivo de documentación.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2023)</small>
+
+El lenguaje empleado en la presente Ley no busca generar discriminación alguna, por lo que las referencias o alusiones hechas en su contenido deberán entenderse en un sentido incluyente que no genera diferencia alguna entre mujeres y hombres.
 
 ###### Artículo 6°.
 
@@ -703,9 +709,11 @@ Como forma de acreditación de la propiedad del ganado, el uso de la señal de s
 
 Mediante acuerdo del Titular de la Secretaría, que deberá publicarse en el Periódico Oficial del Estado, podrán delimitarse regiones donde será obligatorio el uso de la señal de sangre o tatuaje, estipulándose en el propio acuerdo las razones o motivos que determinan su procedencia. Dichos acuerdos mantendrán su vigencia hasta en tanto sean revocados por el propio Titular de la Secretaría en las mismas condiciones de su creación, es decir, estipulándose las razones de su revocación y publicándose en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 29.
 
-Todos los ganaderos del Estado tienen la obligación de aplicar a su ganado los dispositivos de identificación establecidos por esta Ley, debiendo completar la documentación respectiva dentro de los diez primeros meses del nacimiento de los animales, o en el momento de su movilización si esta sucede antes de dicho plazo.
+Todas las personas ganaderas del Estado tienen la obligación de aplicar a su ganado los dispositivos de identificación establecidos por esta Ley, debiendo completar la documentación respectiva dentro de los diez primeros meses del nacimiento de los animales, o en el momento de su movilización si esta sucede antes de dicho plazo.
 
 En caso de que no haya disponibilidad de dispositivos de identificación, la Secretaría definirá el mecanismo que para tal efecto estime pertinente.
 
@@ -899,9 +907,11 @@ En caso de que durante la realización de una corrida o vela se detecte ganado q
 
 De las corridas o velas se levantará un acta circunstanciada que el inspector deberá remitir a la Secretaría a la brevedad posible.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 55.
 
-Todos los ganaderos del Estado tienen la obligación de remitir a la Secretaría, en la fecha que ésta lo indique y en los formatos proporcionados por el inspector, un inventario del ganado de su propiedad, el cual deberá encontrarse avalado por el inspector de la zona ganadera correspondiente y la Organización Pecuaria local respectiva.
+Todas las personas ganaderas del Estado tienen la obligación de remitir a la Secretaría, en la fecha que ésta lo indique y en los formatos proporcionados por el inspector, un inventario del ganado de su propiedad, el cual deberá encontrarse avalado por el inspector de la zona ganadera correspondiente y la Organización Pecuaria local respectiva.
 
 ###### Artículo 56.
 
@@ -965,7 +975,9 @@ Los animales mostrencos que sufran una enfermedad contagiosa o que, por alguna c
 
 Toda persona que pretenda movilizar cualquiera de las especies domésticas productivas, productos y subproductos, dentro del Estado o hacia otras entidades, deberá observar lo siguiente:
 
-I. Obtener en el lugar de origen donde se encuentren las especies domésticas productivas, el formato único de guía de tránsito, documento que autoriza la legal movilización, para lo cual se deberá presentar ante el expeditor de la Organización Pecuaria local correspondiente, su credencial de ganadero o su registro de medio de identificación; dicho formato contendrá los siguientes datos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE AGOSTO DE 2023)</small>
+
+I. Obtener en el lugar de origen donde se encuentren las especies domésticas productivas, el formato único de guía de tránsito, documento que autoriza la legal movilización, para lo cual se deberá presentar ante el expeditor de la Organización Pecuaria local correspondiente, su credencial de persona ganadera o su registro de medio de identificación; dicho formato contendrá los siguientes datos:
 
 a) Nombre, domicilio y teléfono particular, código postal, número y figura de la patente y firma del criador o propietario del ganado;
 
@@ -1117,9 +1129,11 @@ XXV. Intervenir como conciliadores en la invasión de especies pecuarias en pred
 
 XXVI. Sujetarse a lo dispuesto en esta Ley y su reglamento, al momento de practicar las visitas de inspección.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 75.
 
-La Secretaría, en situaciones de emergencia o creación y actualización de censos pecuarios, instruirá a las Organizaciones Pecuarias del Estado para el nombramiento de inspectores auxiliares voluntarios de entre los mismos ganaderos, quienes no percibirán sueldo y no tendrá más facultades, que las de inspección de documentación del ganado en tránsito en el Estado, y esto no implique relación laboral alguna.
+La Secretaría, en situaciones de emergencia o creación y actualización de censos pecuarios, instruirá a las Organizaciones Pecuarias del Estado para el nombramiento de inspectores auxiliares voluntarios de entre las mismas personas ganaderas, quienes no percibirán sueldo y no tendrá más facultades, que las de inspección de documentación del ganado en tránsito en el Estado, y esto no implique relación laboral alguna.
 
 ###### Artículo 76.
 
@@ -2000,6 +2014,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 10 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 383.- SE REFORMA LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 400.- SE REFORMA LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
