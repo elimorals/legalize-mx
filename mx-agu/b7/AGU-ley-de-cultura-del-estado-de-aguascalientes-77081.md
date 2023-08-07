@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-del-estado-de-aguascalientes-77081"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-25"
-last_updated: "2020-10-26"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 25 de octubre de 2010.
 
@@ -177,9 +177,17 @@ IX. Destacará la importancia y la integración del componente cultural en los p
 
 X. Establecerá la coordinación entre el Instituto y las dependencias y entidades de la administración pública municipal, para fortalecer la descentralización de los programas y acciones, con objeto de alcanzar el desarrollo equilibrado de las distintas regiones y comunidades, así como preservar, proteger y difundir sus culturas y patrimonio cultural, en el marco de las disposiciones aplicables;
 
-XI. Diseñará estrategias generales para la gestión de subsidios, el cofinanciamiento y el otorgamiento de estímulos económicos para actividades y proyectos culturales; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
-XII. Fomentará la apertura de espacios de referencia cultural independientes.
+XI. Diseñará estrategias generales para la gestión de subsidios, el cofinanciamiento y el otorgamiento de estímulos económicos para actividades y proyectos culturales;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+XII. Fomentará la apertura de espacios de referencia cultural independientes; y
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+XIII. Establecerá las bases para el diseño, implementación y fomento de la participación e inclusión de Niñas, Niños y Adolescentes en programas y acciones dirigidas a la promoción de la cultura y las artes.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -469,11 +477,17 @@ a) La elaboración de monografías de contenido cultural que documenten las expr
 
 b) La aplicación de los instrumentos de política pública para la promoción y difusión de la cultura; y
 
-c) El sostenimiento de recintos y espacios culturales para la realización de actividades relacionadas con el objeto de la presente Ley; y
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+c) El sostenimiento de recintos y espacios culturales para la realización de actividades relacionadas con el objeto de la presente Ley;
 
-XXVII. Las demás que le confiere esta Ley y los ordenamientos jurídicos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2023)</small>
+
+XXVII. Promover, fomentar y realizar acciones para la inclusión de niñas, niños y adolescentes en los ámbitos artístico y cultural, contribuyendo con ello a su sano desarrollo; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE AGOSTO DE 2023)</small>
+
+XXVIII. Las demás que le confieren esta Ley y los ordenamientos jurídicos aplicables
 
 ###### Artículo 31.
 
@@ -1132,3 +1146,15 @@ P.O. 26 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 404.- SE REFORMA LA LEY DE CULTURA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado contará con un máximo de 60 días hábiles a la entrada en vigor del presente Decreto, para realizar las adecuaciones reglamentarias correspondientes.
