@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2023-06-05"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1495,37 +1495,61 @@ IV. Coordinación con el Instituto de Educación de Aguascalientes para cruzar i
 
 V. Coordinación con las autoridades municipales para cruzar información referente a los casos detectados y atendidos dentro de sus respectivas demarcaciones.
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2023)</small>
 
-ARTICULO 83 TER.- El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio a que se hace referencia en el Artículo anterior estará integrado por los titulares de las siguientes dependencias:
+ARTICULO 83 TER.- El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio a que se hace referencia en el Artículo anterior estará integrado por las personas titulares de las siguientes dependencias y entidades:
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
 
 I. La Secretaría de Salud del Estado, quien lo presidirá;
 
-II. El Sistema Estatal de Asistencia Social y de Integración Familiar;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+II. El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
 
 III. La Secretaría de Seguridad Pública del Estado;
 
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
+
 IV. El Instituto de Educación de Aguascalientes;
 
-V. El Instituto Aguascalentense de la Mujer;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+V. El Instituto Aguascalentense de las Mujeres;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
 
 VI. El Instituto del Deporte del Estado de Aguascalientes;
 
-VII. La Secretaría de la Juventud del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+VII. El Instituto Aguascalentense de la Juventud;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
 
 VIII. El Instituto Cultural de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
-IX. La Secretaría de Desarrollo Social del Gobierno del Estado de Aguascalientes;
+IX. La Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
-X. Radio y Televisión de Aguascalientes; y
+X. Radio y Televisión de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+XI. La Secretaría Ejecutiva del Sistema Estatal de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+XII. La Secretaria de la Familia; y
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-XI. Un representante de cada uno de los Municipios del Estado.
+XIII. Un representante de cada uno de los Municipios del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
 
@@ -1559,9 +1583,17 @@ III. Analizar y evaluar los resultados del Programa Estatal contra el Suicidio;
 
 IV. Promover y establecer mecanismos para la coordinación de esfuerzos contra el suicidio;
 
-V. Ofrecer capacitaciones y trasferencias de modelos preventivos en salud mental a las áreas de psicología de las empresas privadas que se encuentren dentro del Estado; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
-VI. Las demás que establezcan la presente Ley, el Reglamento Interior del Comité y demás disposiciones legales aplicables.
+V. Ofrecer capacitaciones y trasferencias de modelos preventivos en salud mental a las áreas de psicología de las empresas privadas que se encuentren dentro del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2023)</small>
+
+VI. Fungir como un organismo de consulta permanente para los planes, proyectos, programas y políticas públicas encaminadas a la atención integral de la salud mental; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE AGOSTO DE 2023)</small>
+
+VII. Las demás que establezcan la presente Ley, el Reglamento Interior del Comité y demás disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
@@ -2023,9 +2055,9 @@ Se deberá dar prioridad a la elaboración de programas nutricionales destinados
 
 El Consejo Estatal de Nutrición también formulará propuestas relativas al tipo de alimentación que deberán de consumir los pacientes con depresión, sobrepeso, obesidad, trastornos de la conducta alimentaria incluidos aquellos de origen emocional, diabetes e insuficiencia renal, dicha información estará a la vista en los hospitales y centros de salud del Estado y su alcance será preventivo, terapéutico y de control a largo plazo.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
 
-Además el Consejo Estatal de Nutrición creará un listado de alimentos que deberán recibir los pacientes que se encuentren recibiendo tratamiento en los establecimientos de atención en contra de las adicciones. Dicha alimentación deberá ser idónea para contrarrestar los efectos de cada una de las drogas o estupefacientes que hayan consumido.
+Además, el Consejo Estatal de Nutrición creará un listado de alimentos que deberán recibir las personas usuarias del servicio de los Centros de Atención de Adicciones. Dicha alimentación deberá ser idónea para contrarrestar los efectos de las sustancias psicoactivas que hayan consumido.
 
 ###### ARTICULO 112.
 
@@ -2439,7 +2471,7 @@ ARTICULO 139 Terdecies.- Queda prohibida, la práctica de la eutanasia, entendid
 
 En tal caso se estará a lo que señalan las disposiciones penales aplicables.
 
-## TITULO DECIMO SEGUNDO. PROGRAMA CONTRA LAS ADICCIONES
+## TITULO SEGUNDO (SIC)
 
 ### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
@@ -2563,37 +2595,19 @@ El Gobierno del Estado, a través del Organismo a que se refiere la Ley de Asist
 
 El Organismo y el Instituto en coordinación con otras instituciones públicas, promoverán que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas con discapacidad.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO DE REFORMAS NÚMERO 412, PUBLICADO EN EL P.O. 7 DE AGOSTO DE 2023, PÁGINA 53.]</small>
+
+> <small>(DEROGADO, P.O. 7 DE AGOSTO DE 2023)</small>
+
 ## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
 
 ### CAPITULO III. Programa contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+ARTICULO 161 A.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
-ARTICULO 161 A.- Para ejecutar el programa nacional para la prevención y tratamiento de la farmacodependencia, estupefacientes y psicotrópicos, la Secretaría de Salud se coordinará con las instancias federales y municipales en el ámbito de sus respectivas competencias en términos de lo que establece la Ley General de Salud y demás disposiciones legales aplicables.
+ARTICULO 161 B.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2021)</small>
-
-ARTICULO 161 B.- La Secretaría de Salud, respetando los lineamientos de la Ley General de Salud y el programa nacional para la prevención y tratamiento de la farmacodependencia, elaborará el programa estatal contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos, el cual será de observancia obligatoria para los prestadores de servicios de salud en el Estado en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia, considerando los siguientes aspectos:
-
-I.- La prevención y el tratamiento de la farmacodependencia y, en su caso, la rehabilitación de los farmacodependientes;
-
-II.- La educación sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales;
-
-III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento;
-
-IV.- La investigación de las causas de la farmacodependencia, así como del consumo de estupefacientes y psicotrópicos y de las acciones para controlarlas;
-
-V.- Campañas de información y sensibilización basadas en estudios científicos, alertando de manera adecuada sobre los efectos y daños físicos, así como psicológicos del consumo de estupefacientes y psicotrópicos; y
-
-VI.- La superación de la farmacodependencia, a través del fomento de la participación comunitaria y familiar, y el reconocimiento de la importancia de los grupos de ayuda mutua.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
-
-La Secretaría de Salud contará con un Centro Estatal Especial para el tratamiento, atención y rehabilitación de los farmacodependientes, para la supervisión y coordinación de las instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia de conformidad con la Ley General de Salud, esta Ley y las normas aplicables.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
-
-ARTICULO 161 C.- El Centro Estatal Especial tendrá a su cargo el Registro Estatal de los Centros de Atención de tratamiento y rehabilitación de los farmacodependientes, que servirá como instrumento informativo y estadístico de los mismos y contendrá el padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención, rehabilitación y reinserción social en materia de farmacodependencia y en el que se describirán las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen.
+ARTICULO 161 C.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2021)</small>
 
@@ -2621,21 +2635,11 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 ### CAPITULO IV. Disposiciones Comunes
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+ARTICULO 161 D.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
-ARTICULO 161 D.- Toda persona con problemas de adicciones, tendrá derecho a recibir tratamiento en una institución u organismo especializado avalado conforme a las leyes aplicables.
+ARTICULO 161 E.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
-
-ARTICULO 161 E.- El Programa Contra las Adicciones tiene como objetivo detener el uso y abuso del alcohol, tabaco, estupefacientes y sustancias psicoactivas o desórdenes relacionados, así como la disminución de sus riesgos.
-
-La prestación de servicios en materia de adicciones comprenderá la prevención, tratamiento y control.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
-
-ARTICULO 161 F.- La prevención deberá estar dirigida a toda la sociedad, pero en especial a las poblaciones vulnerables y de alto riesgo, tomando en cuenta principalmente a las niñas, niños, adolescentes y jóvenes.
-
-El tratamiento contra las adicciones no deberá ser considerado un castigo para el usuario, sino que deberá ser tratado reconociéndose siempre su dignidad como persona y considerando que padece una enfermedad crónica, recurrente, progresiva y en ocasiones mortal.
+ARTICULO 161 F.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
 ###### ARTICULO 160.
 
@@ -4496,3 +4500,19 @@ P.O. 5 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 349.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 401.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 412.- SE CREA LA LEY PARA LA PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
