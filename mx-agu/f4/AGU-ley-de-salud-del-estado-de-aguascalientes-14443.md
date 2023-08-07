@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2023-06-05"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1495,37 +1495,61 @@ IV. Coordinación con el Instituto de Educación de Aguascalientes para cruzar i
 
 V. Coordinación con las autoridades municipales para cruzar información referente a los casos detectados y atendidos dentro de sus respectivas demarcaciones.
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2023)</small>
 
-ARTICULO 83 TER.- El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio a que se hace referencia en el Artículo anterior estará integrado por los titulares de las siguientes dependencias:
+ARTICULO 83 TER.- El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio a que se hace referencia en el Artículo anterior estará integrado por las personas titulares de las siguientes dependencias y entidades:
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
 
 I. La Secretaría de Salud del Estado, quien lo presidirá;
 
-II. El Sistema Estatal de Asistencia Social y de Integración Familiar;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+II. El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
 
 III. La Secretaría de Seguridad Pública del Estado;
 
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
+
 IV. El Instituto de Educación de Aguascalientes;
 
-V. El Instituto Aguascalentense de la Mujer;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+V. El Instituto Aguascalentense de las Mujeres;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
 
 VI. El Instituto del Deporte del Estado de Aguascalientes;
 
-VII. La Secretaría de la Juventud del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+VII. El Instituto Aguascalentense de la Juventud;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
 
 VIII. El Instituto Cultural de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
-IX. La Secretaría de Desarrollo Social del Gobierno del Estado de Aguascalientes;
+IX. La Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
-X. Radio y Televisión de Aguascalientes; y
+X. Radio y Televisión de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+XI. La Secretaría Ejecutiva del Sistema Estatal de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+XII. La Secretaria de la Familia; y
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-XI. Un representante de cada uno de los Municipios del Estado.
+XIII. Un representante de cada uno de los Municipios del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
 
@@ -1559,9 +1583,17 @@ III. Analizar y evaluar los resultados del Programa Estatal contra el Suicidio;
 
 IV. Promover y establecer mecanismos para la coordinación de esfuerzos contra el suicidio;
 
-V. Ofrecer capacitaciones y trasferencias de modelos preventivos en salud mental a las áreas de psicología de las empresas privadas que se encuentren dentro del Estado; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
-VI. Las demás que establezcan la presente Ley, el Reglamento Interior del Comité y demás disposiciones legales aplicables.
+V. Ofrecer capacitaciones y trasferencias de modelos preventivos en salud mental a las áreas de psicología de las empresas privadas que se encuentren dentro del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2023)</small>
+
+VI. Fungir como un organismo de consulta permanente para los planes, proyectos, programas y políticas públicas encaminadas a la atención integral de la salud mental; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE AGOSTO DE 2023)</small>
+
+VII. Las demás que establezcan la presente Ley, el Reglamento Interior del Comité y demás disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
@@ -2023,9 +2055,9 @@ Se deberá dar prioridad a la elaboración de programas nutricionales destinados
 
 El Consejo Estatal de Nutrición también formulará propuestas relativas al tipo de alimentación que deberán de consumir los pacientes con depresión, sobrepeso, obesidad, trastornos de la conducta alimentaria incluidos aquellos de origen emocional, diabetes e insuficiencia renal, dicha información estará a la vista en los hospitales y centros de salud del Estado y su alcance será preventivo, terapéutico y de control a largo plazo.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
 
-Además el Consejo Estatal de Nutrición creará un listado de alimentos que deberán recibir los pacientes que se encuentren recibiendo tratamiento en los establecimientos de atención en contra de las adicciones. Dicha alimentación deberá ser idónea para contrarrestar los efectos de cada una de las drogas o estupefacientes que hayan consumido.
+Además, el Consejo Estatal de Nutrición creará un listado de alimentos que deberán recibir las personas usuarias del servicio de los Centros de Atención de Adicciones. Dicha alimentación deberá ser idónea para contrarrestar los efectos de las sustancias psicoactivas que hayan consumido.
 
 ###### ARTICULO 112.
 
@@ -2439,7 +2471,7 @@ ARTICULO 139 Terdecies.- Queda prohibida, la práctica de la eutanasia, entendid
 
 En tal caso se estará a lo que señalan las disposiciones penales aplicables.
 
-## TITULO DECIMO SEGUNDO. PROGRAMA CONTRA LAS ADICCIONES
+## TITULO SEGUNDO (SIC)
 
 ### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
@@ -2563,37 +2595,19 @@ El Gobierno del Estado, a través del Organismo a que se refiere la Ley de Asist
 
 El Organismo y el Instituto en coordinación con otras instituciones públicas, promoverán que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas con discapacidad.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO DE REFORMAS NÚMERO 412, PUBLICADO EN EL P.O. 7 DE AGOSTO DE 2023, PÁGINA 53.]</small>
+
+> <small>(DEROGADO, P.O. 7 DE AGOSTO DE 2023)</small>
+
 ## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
 
 ### CAPITULO III. Programa contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+ARTICULO 161 A.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
-ARTICULO 161 A.- Para ejecutar el programa nacional para la prevención y tratamiento de la farmacodependencia, estupefacientes y psicotrópicos, la Secretaría de Salud se coordinará con las instancias federales y municipales en el ámbito de sus respectivas competencias en términos de lo que establece la Ley General de Salud y demás disposiciones legales aplicables.
+ARTICULO 161 B.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2021)</small>
-
-ARTICULO 161 B.- La Secretaría de Salud, respetando los lineamientos de la Ley General de Salud y el programa nacional para la prevención y tratamiento de la farmacodependencia, elaborará el programa estatal contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos, el cual será de observancia obligatoria para los prestadores de servicios de salud en el Estado en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia, considerando los siguientes aspectos:
-
-I.- La prevención y el tratamiento de la farmacodependencia y, en su caso, la rehabilitación de los farmacodependientes;
-
-II.- La educación sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales;
-
-III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento;
-
-IV.- La investigación de las causas de la farmacodependencia, así como del consumo de estupefacientes y psicotrópicos y de las acciones para controlarlas;
-
-V.- Campañas de información y sensibilización basadas en estudios científicos, alertando de manera adecuada sobre los efectos y daños físicos, así como psicológicos del consumo de estupefacientes y psicotrópicos; y
-
-VI.- La superación de la farmacodependencia, a través del fomento de la participación comunitaria y familiar, y el reconocimiento de la importancia de los grupos de ayuda mutua.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
-
-La Secretaría de Salud contará con un Centro Estatal Especial para el tratamiento, atención y rehabilitación de los farmacodependientes, para la supervisión y coordinación de las instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia de conformidad con la Ley General de Salud, esta Ley y las normas aplicables.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
-
-ARTICULO 161 C.- El Centro Estatal Especial tendrá a su cargo el Registro Estatal de los Centros de Atención de tratamiento y rehabilitación de los farmacodependientes, que servirá como instrumento informativo y estadístico de los mismos y contendrá el padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención, rehabilitación y reinserción social en materia de farmacodependencia y en el que se describirán las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen.
+ARTICULO 161 C.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2021)</small>
 
@@ -2621,21 +2635,11 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 ### CAPITULO IV. Disposiciones Comunes
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+ARTICULO 161 D.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
-ARTICULO 161 D.- Toda persona con problemas de adicciones, tendrá derecho a recibir tratamiento en una institución u organismo especializado avalado conforme a las leyes aplicables.
+ARTICULO 161 E.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
-
-ARTICULO 161 E.- El Programa Contra las Adicciones tiene como objetivo detener el uso y abuso del alcohol, tabaco, estupefacientes y sustancias psicoactivas o desórdenes relacionados, así como la disminución de sus riesgos.
-
-La prestación de servicios en materia de adicciones comprenderá la prevención, tratamiento y control.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
-
-ARTICULO 161 F.- La prevención deberá estar dirigida a toda la sociedad, pero en especial a las poblaciones vulnerables y de alto riesgo, tomando en cuenta principalmente a las niñas, niños, adolescentes y jóvenes.
-
-El tratamiento contra las adicciones no deberá ser considerado un castigo para el usuario, sino que deberá ser tratado reconociéndose siempre su dignidad como persona y considerando que padece una enfermedad crónica, recurrente, progresiva y en ocasiones mortal.
+ARTICULO 161 F.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
 ###### ARTICULO 160.
 
@@ -4497,125 +4501,21 @@ P.O. 5 DE JUNIO DE 2023.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 17/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO NOVENO DE DISTRITO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS, ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
+P.O. 7 DE AGOSTO DE 2023.
 
-PRIMERO. El presente Acuerdo entrará en vigor el uno de noviembre de dos mil diecisiete, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 401.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en Materias Administrativa y de Trabajo en el Estado de Jalisco, con residencia en Zapopan, se modifica para incorporar al Juzgado de Distrito de nueva creación, para quedar como sigue:
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-PERIODO DE ÓRGANO JURISDICCIONAL AL QUE
+P.O. 7 DE AGOSTO DE 2023.
 
-GUARDIA CORRESPONDE LA GUARDIA
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 412.- SE CREA LA LEY PARA LA PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE AGUASCALIENTES".]
 
-Del 4 al 11 de Juzgado Noveno de Distrito en Materias
+###### ARTÍCULO ÚNICO.
 
-diciembre 2017 Administrativa y de Trabajo en el Estado
-
-de Jalisco, con residencia en Zapopan
-
-Del 11 al 18 de Juzgado Primero de Distrito en Materias
-
-diciembre 2017 Administrativa y de Trabajo en el Estado
-
-de Jalisco, con residencia en Zapopan
-
-Del 18 al 25 de Juzgado Segundo de Distrito en Materias
-
-diciembre 2017 Administrativa y de Trabajo en el Estado
-
-de Jalisco, con residencia en Zapopan
-
-Del 25 de diciembre Juzgado Tercero de Distrito en Materias
-
-2017 al 1 de enero Administrativa y de Trabajo en el Estado
-
-2018 de Jalisco, con residencia en Zapopan
-
-Del 1 al 8 de Juzgado Cuarto de Distrito en Materias
-
-enero 2018 Administrativa y de Trabajo en el Estado
-
-de Jalisco, con residencia en Zapopan
-
-Del 8 al 15 de Juzgado Quinto de Distrito en Materias
-
-enero 2018 Administrativa y de Trabajo en el Estado
-
-de Jalisco, con residencia en Zapopan
-
-Del 15 al 22 de Juzgado Sexto de Distrito en Materias
-
-enero 2018 Administrativa y de Trabajo en el Estado
-
-de Jalisco, con residencia en Zapopan
-
-Del 22 al 29 de Juzgado Séptimo de Distrito en Materias
-
-enero 2018 Administrativa y de Trabajo en el Estado
-
-de Jalisco, con residencia en Zapopan
-
-Del 29 de enero al 5 Juzgado Octavo de Distrito en Materias
-
-de febrero de 2018 Administrativa y de Trabajo en el Estado
-
-de Jalisco, con residencia en Zapopan
-
-Y así sucesivamente en ese orden.
-
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción III, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. ...
-
-I. a II. …
-
-III. …
-
-1. a 2. …
-
-3. Treinta y dos juzgados de Distrito especializados: siete de amparo en materia penal, nueve en materias administrativa y de trabajo y siete en materia civil, todos ellos con residencia en el municipio de Zapopan; y nueve de procesos penales federales con residencia en Puente Grande.
-
-4. …
-
-IV. a XXXII. …"
-
-SEXTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
-
-D.O.F. 18 DE OCTUBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 20/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL TERCER TRIBUNAL COLEGIADO DEL VIGÉSIMO QUINTO CIRCUITO, CON RESIDENCIA EN DURANGO, DURANGO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DE CIRCUITO INDICADO”.]
-
-PRIMERO. El presente Acuerdo entrará en vigor el uno de noviembre de dos mil diecisiete, con excepción de lo previsto en el Transitorio CUARTO, de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
-
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
-
-TERCERO. El Tercer Tribunal Colegiado del Vigésimo Quinto Circuito, formará parte del Pleno del Vigésimo Quinto Circuito a partir del uno de noviembre de dos mil diecisiete, de conformidad con lo establecido por el Acuerdo General 8/2015 del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, para lo cual informará lo conducente a las Secretarías Ejecutivas de Carrera Judicial; de Creación de Nuevos Órganos; así como de Adscripción.
-
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción XXV, número 1, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. …
-
-I. a XXIV. …
-
-XXV. …
-
-1. Tres Tribunales Colegiados con residencia en Durango.
-
-2. a 3. …
-
-XXVI. a XXXII. …"
-
-D.O.F. 23 DE OCTUBRE DE 2017.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 21/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DEL VIGÉSIMO OCTAVO CIRCUITO, CON RESIDENCIA EN APIZACO, TLAXCALA; AL CAMBIO DE DENOMINACIÓN DEL TRIBUNAL COLEGIADO DEL VIGÉSIMO OCTAVO CIRCUITO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO INDICADO; Y A LA CREACIÓN DE SU OFICINA DE CORRESPONDENCIA COMÚN".]
 
