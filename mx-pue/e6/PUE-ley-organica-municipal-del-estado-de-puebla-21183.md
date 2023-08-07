@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2023-07-27"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1685,6 +1685,10 @@ V.- Disponer de la fuerza pública municipal para la conservación del orden pú
 
 VI.- Preservar y velar por la tranquilidad y el orden público y dictar las medidas que a su juicio demanden las circunstancias;
 
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+VI Bis.- Promover la capacitación, actualización y especialización en materia de Seguridad Pública de los cuerpos de Seguridad Pública Municipal.
+
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2023)</small>
 
 VII.- Proponer al Ayuntamiento, en la primera Sesión Extraordinaria de Cabildo, el nombramiento de los titulares de la Secretaría del Ayuntamiento, de la Tesorería Municipal y de la Contraloría Municipal; asi como al titular o titulares de las ramas del cuerpo de seguridad pública municipal, previa aprobación del examen, certificación y registro en el Centro de Control de Confianza correspondiente de estos últimos.
@@ -3295,11 +3299,11 @@ Es función primordial de la seguridad pública municipal velar por la seguridad
 
 La actuación de los cuerpos de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
 
 ###### ARTÍCULO 209.
 
-El titular o titulares de las ramas del cuerpo de seguridad pública municipal serán nombrados y removidos por el Ayuntamiento, a propuesta del Presidente Municipal, previa aprobación, certificación y registro en el Centro de Control de Confianza correspondiente.
+El titular o titulares de las ramas del cuerpo de seguridad pública municipal serán nombrados y removidos por el Ayuntamiento, a propuesta del Presidente Municipal, previa capacitación relacionada con la prestación de la función de seguridad pública municipal y aprobación, certificación y registro en el Centro de Control de Confianza correspondiente.
 
 ###### ARTÍCULO 210.
 
@@ -4560,3 +4564,11 @@ P.O. 27 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 209, Y ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 91 DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
