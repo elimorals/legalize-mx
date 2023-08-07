@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-29867
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-26"
-last_updated: "2022-12-22"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 26 de marzo de 2003.
 
@@ -725,11 +725,11 @@ XIII.- Se trate de trabajos en los inmuebles a que hace mención el artículo 5o
 
 Para los casos de adjudicación directa, el titular de la Dependencia o Entidad, deberá informar a la Contraloría previamente a su contratación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2023)</small>
 
 ###### ARTÍCULO 44.
 
-En los supuestos a que se refiere el artículo anterior, las dependencias y entidades a cuyo cargo deban llevarse a cabo los trabajos para la adjudicación del contrato respectivo, para hacer la selección correspondiente, deberán fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficiencia, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o el Municipio. La acreditación de los criterios mencionados y la justificación para el ejercicio de la opción, deberán constar por escrito y ser firmado por el titular de la dependencia o entidad a cuyo cargo sea la ejecución de los trabajos. La facultad del Titular es indelegable.
+En los supuestos a que se refiere el artículo anterior, las dependencias y entidades a cuyo cargo deban llevarse a cabo los trabajos para la adjudicación del contrato respectivo, para hacer la selección correspondiente, deberán fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficiencia, eficacia, imparcialidad, honradez y transparencia que aseguren las mejores condiciones para el Estado o el Municipio. La acreditación de los criterios mencionados y la justificación para el ejercicio de la opción, deberán constar por escrito y ser firmado por el titular de la dependencia o entidad a cuyo cargo sea la ejecución de los trabajos. La facultad del Titular es indelegable.
 
 En cualquier supuesto, se invitará a personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios de acuerdo con las características, complejidad y magnitud de los trabajos a ejecutar.
 
@@ -1748,3 +1748,11 @@ P.O. 22 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 44 DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
