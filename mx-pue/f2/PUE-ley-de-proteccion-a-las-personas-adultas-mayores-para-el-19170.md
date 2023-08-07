@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2023-04-04"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -125,13 +125,17 @@ VIII.- Impulsar con los sectores público, social y privado políticas preferenc
 
 IX.- Implementar de forma continua y permanente programas de concientización para que las personas adultas mayores reciban la protección de su familia, de la sociedad en general, fomentando una cultura de respeto a sus derechos humanos y dignificación hacia ellas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
-X.- Promover y gestionar, el otorgamiento de descuentos en trámites notariales extraordinarios para las personas adultas mayores que acrediten incapacidad económica; y
+X.- Promover y gestionar, el otorgamiento de descuentos en trámites notariales extraordinarios para las personas adultas mayores que acrediten incapacidad económica;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA]], P.O. 4 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2023)</small>
 
-XI.- Las demás que determine el presente ordenamiento legal, otras disposiciones aplicables y la persona titular del Poder Ejecutivo del Estado.
+XI.- Promover, de acuerdo a su disponibilidad presupuestal, así como impulsar a los gobiernos municipales a la creación y atención de casas hogar, albergues y residencias de día públicas, para las personas adultas mayores; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE AGOSTO DE 2023)</small>
+
+XII.- Las demás que determine el presente ordenamiento legal, otras disposiciones aplicables y la persona titular del Poder Ejecutivo del Estado.
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -726,6 +730,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III DEL ARTÍCULO 4 Y XII DEL 6 DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES X Y XI DEL ARTÍCULO 3, Y ADICIONA LA FRACCIÓN XII AL ARTÍCULO 3 DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
