@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2022-10-31"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -231,9 +231,11 @@ En el Sistema Educativo Estatal deberá asegurarse la participación activa de t
 
 Por consiguiente, las madres y padres de familia reforzarán desde el hogar, el fomento a sus hijos o pupilos sobre los valores cívicos, así como el desarrollo cognitivo y académico, el aprecio por las tradiciones culturales y artísticas de nuestra entidad federativa; propiciando un ambiente sin violencia en el núcleo familiar, privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad; inculcando a sus hijos o pupilos el respeto y reconocimiento a la autoridad del maestro o personal docente y administrativo de los planteles educativos, además de las normas de convivencia social de las escuelas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 5°.
 
-Los habitantes del Estado de Aguascalientes deberán cursar la educación preescolar, la primaria, la secundaria y la media superior. Las madres y padres o quienes ejerzan la patria potestad o la tutela, tienen la responsabilidad de hacer que sus hijos o pupilos menores de 18 años concurran a las escuelas públicas o privadas para recibir la educación, participar en su proceso educativo, revisar su progreso y desempeño, velando por su bienestar y desarrollo.
+Los habitantes del Estado de Aguascalientes deberán cursar la educación preescolar, la primaria, la secundaria y la media superior. Las madres y padres o quienes ejerzan la patria potestad o la tutela, tienen la responsabilidad de hacer que sus hijos, hijas o pupilos menores de 18 años concurran a las escuelas públicas o privadas para recibir la educación correspondiente, participar en su proceso educativo y revisar su progreso y desempeño, velando por su bienestar y desarrollo.
 
 La educación inicial es un derecho de la niñez; es responsabilidad del Estado concientizar sobre su importancia y garantizarla conforme a lo dispuesto en la presente Ley.
 
@@ -305,7 +307,9 @@ VI. Celebrar convenios para que las instituciones que presten servicios de estan
 
 VII. Fortalecer la educación especial y la educación inicial, incluyendo a las personas con discapacidad, formándolas para que participen efectivamente en una sociedad libre y plural;
 
-VIII. Promover la inclusión de alumnos con discapacidad en el sistema de enseñanza general, facilitando las condiciones adecuadas de acceso y servicios de apoyo concebidos en función de sus necesidades;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+VIII. Promover la inclusión de personas en situación de discapacidad en el sistema de enseñanza general, facilitando las condiciones adecuadas de acceso y servicios de apoyo concebidos en función de sus necesidades.
 
 IX. Promover programas de sensibilización sobre el respeto a los derechos y dignidad humana para asegurar la participación e inclusión plena de los alumnos con necesidades educativas especiales;
 
@@ -313,7 +317,9 @@ X. Establecer y fortalecer sistemas de educación abierta y a distancia;
 
 XI. Realizar campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar de la población, tales como programas de alfabetización y de educación comunitaria;
 
-XII. Impulsar, en coordinación con las autoridades en la materia, programas de acceso gratuito a eventos culturales para educandos en vulnerabilidad social;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+XII. Impulsar, en coordinación con las autoridades en la materia, programas de acceso gratuito a eventos culturales para personas en situación de vulnerabilidad;
 
 XIII. Establecer políticas incluyentes, transversales y con perspectiva de igualdad entre mujeres y hombres, para otorgar becas y demás apoyos económicos que prioricen a los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación, tanto en el sector público como privado, en todos los niveles educativos que se prevén en la presente ley;
 
@@ -329,7 +335,9 @@ XVIII. Realizar actividades que permitan mejorar la calidad y ampliar la cobertu
 
 XIX. Apoyar y desarrollar programas, cursos y actividades que fortalezcan la enseñanza de las madres y padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestras y maestros;
 
-XX. Establecer mecanismos propios de inscripción que respondan a las necesidades y aspiraciones específicas de cada comunidad y faciliten la incorporación de los niños y jóvenes al Sistema Educativo;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+XX. Establecer mecanismos propios de inscripción que respondan a las necesidades y aspiraciones específicas de cada comunidad y faciliten la incorporación de los niños, niñas y Adolescentes al Sistema Educativo;
 
 XXI. Establecer las reglas de operación y llevar a cabo un Programa de Uniformes, que permita dotar gratuitamente de los mismos, a los niños, niñas y adolescentes que cursen la educación básica en las escuelas públicas del Estado;
 
@@ -367,7 +375,9 @@ Las autoridades educativas ofrecerán opciones que faciliten la obtención de lo
 
 En el Estado de Aguascalientes funcionarán:
 
-I. Un sistema estatal de becas, financiamientos educativos y estímulos que integrará y coordinará los diferentes esfuerzos destinados a apoyar la permanencia en la escuela y alentar el aprendizaje en los alumnos de todos los tipos, niveles y modalidades de educación, con los requisitos que se establezcan en la normatividad que para tal efecto expida la autoridad competente. Comprenderá tanto programas que propicien el desempeño escolar sobresaliente, criterio de competencia, como programas compensatorios, criterio de equidad, para los alumnos con carencias económicas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE AGOSTO DE 2023)</small>
+
+I. Un sistema estatal de becas, financiamientos educativos y estímulos que integrará y coordinará los diferentes esfuerzos destinados a apoyar la permanencia en la escuela y alentar el aprendizaje de todas las personas de todos los tipos, niveles y modalidades de educación, con los requisitos que se establezcan en la normatividad que para tal efecto expida la autoridad competente. Comprenderá tanto programas que propicien el desempeño escolar sobresaliente, criterio de competencia, como programas compensatorios, criterio de equidad, para los alumnos y las alumnas con carencias económicas.
 
 Las becas se destinarán a alumnos de educación básica, media y superior, los financiamientos a estudiantes de educación superior y los estímulos a la superación personal a estudiantes de todos los niveles tanto en instituciones públicas como privadas; y
 
@@ -415,17 +425,23 @@ III. Promover los derechos humanos, los valores de la justicia, igualdad, paz y 
 
 IV. Contribuir a que se formen personas autónomas, responsables, equilibradas, respetuosas de la ley y los derechos humanos, con actitudes favorables a la participación, la cooperación y la convivencia civilizada, al desarrollar en los educandos la capacidad de juicio y de toma de decisiones para propiciar la justicia, la libertad y la democracia; así como el aprecio a la ética, la rectitud, la verdad, la solidaridad, la disciplina y el trabajo responsable en lo individual y en lo colectivo, logrando condiciones de vida libre de violencia;
 
-V. Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la planeación y la unión familiar y la paternidad y maternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+V. Desarrollar actitudes solidarias en las personas, con el fin de crear conciencia sobre la planeación, la unión familiar y la paternidad y maternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios;
 
 VI. Fomentar y concientizar sobre el cuidado de la salud y la adecuada alimentación; Implementando acciones y protocolos encaminados a la detección y diagnóstico de problemas de salud física y mental de los educandos.
 
 VII. Difundir los derechos y deberes de niños, niñas y adolescentes, así como las formas de protección con que cuentan para ejercerlos;
 
-VIII. Contribuir al desarrollo integral del individuo, para que ejerza plenamente sus capacidades humanas;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+VIII. Contribuir al desarrollo integral de la persona para que ejerza plenamente sus capacidades humanas;
 
 IX. Fomentar y fortalecer la cultural (sic) de la nacionalidad, soberanía, el aprecio por los valores cívicos, la historia, los símbolos patrios, las instituciones nacionales y las tradiciones culturales regionales y nacionales;
 
-X. Promover el respeto y la tolerancia a la pluralidad de ideas y fomentar de manera sistemática los valores fundamentales que constituyen el cimiento de la convivencia armónica entre los individuos y los grupos sociales;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+X. Promover el respeto y la tolerancia a la pluralidad de ideas y fomentar de manera sistemática los valores fundamentales que constituyen el cimiento de la convivencia armónica entre las personas y los grupos sociales;
 
 XI. Fomentar la apreciación e impulso a la creación artística, favoreciendo la creación de actividades para tal sentido;
 
@@ -1005,7 +1021,9 @@ El Estado apoyará la difusión e investigación científica, humanística y tec
 
 Corresponde a las autoridades educativas, en coordinación con la Autoridad del Deporte del Estado de Aguascalientes, ejercer las atribuciones siguientes:
 
-I. Promover y apoyar programas deportivos y de recreación, para preservar la salud física y mental de los niños, jóvenes, adultos y de la tercera edad, sin distinción de sus capacidades psicomotrices o mentales;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+I. Promover y apoyar programas deportivos y de recreación, para preservar la salud física y mental de los niños, las niñas, adolescentes, jóvenes, personas adultas y de la tercera edad, sin distinción de sus capacidades psicomotrices o mentales;
 
 II. Fomentar escuelas de iniciación deportiva acordes a la edad y aptitudes físicas del educando;
 
@@ -1303,6 +1321,8 @@ La Autoridad Educativa Estatal, de acuerdo con la suficiencia presupuestal, impu
 
 #### Sección Tercera. De la Atención Especial de Víctimas
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 79.
 
 En la impartición de educación para menores de dieciocho años se tomará medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y derechos, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
@@ -1349,7 +1369,7 @@ e) Implementar programas de información dirigida a madres y padres de familia o
 
 ###### Artículo 83.
 
-La Autoridad Educativa Estatal deberá garantizar el acceso a los servicios educativos a las víctimas o sus hijos y promover su permanencia en el sistema educativo estatal cuando como consecuencia del delito o violación de sus derechos humanos exista interrupción en los estudios de conformidad con lo dispuesto en la Ley General de Víctimas.
+La Autoridad Educativa Estatal deberá garantizar el acceso a los servicios educativos a las víctimas o en su caso a sus hijos y/o hijas y promoverá su permanencia en el sistema educativo estatal cuando como consecuencia del delito o violación de sus derechos humanos exista interrupción en los estudios de conformidad con lo dispuesto en la Ley General de Víctimas y la Ley de Víctimas del Estado de Aguascalientes.
 
 ### Capítulo II. Del magisterio como agente fundamental en el proceso educativo
 
@@ -1607,7 +1627,9 @@ La Autoridad Educativa Estatal con el fin de dar mejor cumplimiento a la obligac
 
 a) Propondrá a la consideración y, en su caso, autorización de la Autoridad Educativa Federal, proyectos curriculares y programas de estudio con contenidos regionales que sin mengua del carácter nacional de la educación, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, el cuidado y conservación del ambiente, la formación en los valores, las costumbres, las tradiciones, la cultura económica y financiera conforme a situaciones cotidianas y actividades económicas que están relacionadas con los recursos de su región, y demás aspectos propios de la Entidad y Municipios, así como los demás aspectos técnicos y científicos, a través de los documentos oficiales elaborados para este fin. En el caso del cuidado y conservación del ambiente, dichos proyectos curriculares y programas tendrán por objeto:
 
-I. Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático así como la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+I. Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentadle (sic), la prevención del cambio climático, así como la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral de las personas y la sociedad;
 
 II. El cuidado del medio ambiente y manejo sustentable de los recursos naturales como una práctica educativa integral, continua y permanente en los diferentes niveles educativos;
 
@@ -1887,9 +1909,11 @@ En el Estado de operará un consejo estatal de participación escolar en la educ
 
 Este consejo, podrá promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvar en actividades de protección civil y emergencia escolar; conocer las demandas y necesidades que emanen de los consejos escolares y municipales, gestionar ante las instancias competentes su resolución y apoyo, así como colaborar en actividades que influyan en la excelencia y la cobertura de la educación.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 130.
 
-La Autoridad Educativa Estatal, ofrecerá a las madres y padres de familia programas permanentes de formación para que participen de manera activa y con propuestas en el proceso educativo de sus hijos y así, lograr el cumplimiento de los fines de la educación.
+La Autoridad Educativa Estatal, ofrecerá a las madres y padres de familia programas permanentes de formación para que participen de manera activa y con propuestas en el proceso educativo de sus hijos y/o hijas y así, lograr el cumplimiento de los fines de la educación.
 
 ###### Artículo 131.
 
@@ -2280,3 +2304,11 @@ P.O. 31 DE OCTUBRE DE 2022.
 ###### ARTICULO UNICO.
 
 La presente reforma iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 402.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
