@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-07-17"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1273,19 +1273,23 @@ I. La inducción que se realice sobre una persona menor de 18 años de edad, o d
 
 II. La inducción que se realice sobre una persona menor de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, para que lleve a cabo actos de exhibicionismo corporal o de carácter sexual;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
-III. La venta o suministro que de cualquier forma se haga a personas menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, de sustancias tóxicas, tales como materiales solventes, alcoholes, medicamentos y otras sustancias que produzcan efectos similares; o
+III. La venta o suministro que de cualquier forma se haga a personas menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, de sustancias tóxicas, tales como materiales solventes, alcoholes, medicamentos y otras sustancias que produzcan efectos similares;
 
-> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
-IV. Emplear, directa o indirectamente, a personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho o resistirlo, para que presten servicios en cantinas, tabernas, bares, establecimientos donde otras personas practiquen la prostitución o en cualquier lugar nocivo donde se afecte de forma negativa su sano desarrollo físico, mental o emocional. Se considerará que se emplea a las personas descritas en la presente Fracción cuando presten sus servicios por un salario, comida, comisión de cualquier tipo, estipendio, gaje o emolumento, o bien gratuitamente.
+IV. Emplear, directa o indirectamente, a personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho o resistirlo, para que presten servicios en cantinas, tabernas, bares, establecimientos donde otras personas practiquen la prostitución o en cualquier lugar nocivo donde se afecte de forma negativa su sano desarrollo físico, mental o emocional. Se considerará que se emplea a las personas descritas en la presente Fracción cuando preste sus servicios por un salario, comida, comisión de cualquier tipo, estipendio, gaje o emolumento, o bien gratuitamente; o
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+V. Obligar, inducir, facilitar, procurar o emplear directa o indirectamente, a personas menores de 18 años de edad, o personas que no tengan capacidad para comprender el significado del hecho o resistirlo, para formar parte de una asociación delictuosa, para los efectos de esta fracción, se entenderá como asociación delictuosa toda aquella agrupación o banda de tres o más personas con propósito de delinquir.
 
 Para los efectos de este Artículo, por exhibicionismo corporal se entenderá mostrar la vagina, pene, senos, glúteos o ano.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
 
-Al responsable de Corrupción de Menores e incapaces descrita en las Fracciones I, II y III se aplicarán de 6 a 14 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Tratándose de la Fracción IV, al responsable se le aplicarán de 3 a 5 años de prisión, de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable de Corrupción de Menores e incapaces descrita en las Fracciones I, II, III y V se aplicarán de 6 a 14 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Tratándose de la Fracción IV, al responsable se le aplicaran de 3 a 5 años de prisión, de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
@@ -2661,6 +2665,22 @@ En el caso de que el responsable del delito sea Servidor Público, distinto de l
 
 El hecho punible descrito en este artículo será aplicable también en el Centro Estatal para el Desarrollo del Adolescente.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2023)</small>
+
+Artículo 178 BIS.- Atentados a la Seguridad Publica. Los Atentados a la Seguridad Publica consisten en acechar, vigilar o realizar actos tendientes a obtener información de manera injustificada, sobre las actividades oficiales de las Instituciones del Sistema Estatal de Seguridad Publica, Corporaciones Auxiliares de la Seguridad en el Estado o particulares, con la finalidad de informar o alertar u otras personas para que estas puedan organizar o planear la comisión de un delito, cometerlo o evitar el cumplimiento de la función pública.
+
+Al responsable de Atentados a la Seguridad Publica se aplicarán de 3 a 7 años de prisión y de 25 a 100 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
+
+Se aumentará la punibilidad que corresponda hasta en una mitad de sus mínimos y máximos cuando:
+
+I. Sea cometido por servidores públicos de Instituciones del Sistema Estatal de Seguridad Pública, Corporaciones Auxiliares de la Seguridad en el Estado u Órganos Jurisdiccionales en el Estado;
+
+II. Se utilice a menores de edad o a quienes no tienen la capacidad para comprender el significado del hecho o que por cualquier causa no pueda resistirla;
+
+III. Se utilice para ello algún bien público; o
+
+IV. Posea o porte, uno o varios equipos o artefactos que permitan la intervención, escucha o transmisión de datos con respeto a canales de comunicación oficiales de Instituciones del Sistema Estatal de Seguridad Publica.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)</small>
 
 ### CAPÍTULO XII. Tipos Penales Protectores de la Confidencialidad, la Intimidad de la Información y la Identidad de la Persona
@@ -3842,3 +3862,23 @@ P.O. 17 DE JULIO DE 2023.
 ###### ARTÍCULO SEGUNDO.
 
 – Los procesos penales iniciados durante la vigencia del artículo 136 del Código Penal para el Estado de Aguascalientes, deberán seguirse conforme al tipo penal y sus sanciones respectivas, según lo previsto en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, previa reposición del procedimiento, sin que ello signifique la doble sanción por un mismo hecho delictivo en perjuicio del particular.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 410.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 413.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO UNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico Oficial del Estado de Aguascalientes.
