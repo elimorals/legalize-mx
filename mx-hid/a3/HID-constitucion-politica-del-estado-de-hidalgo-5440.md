@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2023-03-07"
+last_updated: "2023-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -310,6 +310,10 @@ El Estado y los Municipios, en función de sus atribuciones, tomarán en conside
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
 
 TODA PERSONA TIENE EL DERECHO HUMANO A LA PARTICIPACIÓN CIUDADANA EN LOS ASUNTOS PÚBLICOS DEL ESTADO Y LOS MUNICIPIOS. LA LEY ESTABLECERÁ LOS MECANISMOS ESPECÍFICOS PARA LA PARTICIPACIÓN CIUDADANA.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2023)</small>
+
+Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2967,7 +2971,9 @@ XVI. Admitir o desechar la licencia que soliciten los Síndicos o los Regidores;
 
 XVII. Ejercer, en los términos de las leyes federales y estatales respectivas, las atribuciones siguientes:
 
-a). Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+a). Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial;
 
 b). Participar en la creación y administración de sus reservas territoriales;
 
@@ -2987,7 +2993,9 @@ i). Celebrar convenios para la administración y custodia de las Zonas Federales
 
 En lo conducente, los ayuntamientos podrán expedir los reglamentos y disposiciones administrativas que sean necesarios de conformidad con lo dispuesto en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XVIII. Cuando dos o más centros urbanos situados en territorios municipales del Estado de Hidalgo y otra u otras entidades federativas formen o tiendan a formar una continuidad demográfica, el Estado y los municipios respectivos planearán con la Federación y él o los otros Estados y sus municipios y regularán en el ámbito de sus competencias, de manera conjunta y coordinada, el desarrollo de dichos centros, con apego a la Ley Federal de la materia, observando las normas vigentes en el Estado y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+
+XVIII. Cuando dos o más centros urbanos situados en territorios municipales del Estado de Hidalgo y otra u otras entidades federativas formen o tiendan a formar una continuidad demográfica, el Estado y los municipios respectivos planearán con la Federación y él o los otros Estados y sus municipios y regularán en el ámbito de sus competencias, de manera conjunta y coordinada, el desarrollo de dichos centros, incluyendo criterios para la movilidad y seguridad vial, con apego a las leyes federales en la materia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2016)</small>
 
@@ -4314,3 +4322,9 @@ P.O. 7 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 481 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 560 QUE REFORMA EL INCISO A) DE LA FRACCIÓN XVII Y LA FRACCIÓN XVIII DEL ARTÍCULO 141; Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
