@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-cambio-climatico-del-estado-de-puebla-96889"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2021-04-09"
+last_updated: "2023-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE CAMBIO CLIMATICO DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 8 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2023 (ABROGADA).
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de noviembre de 2013.
 
@@ -1300,3 +1302,25 @@ P.O. 9 DE ABRIL DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo previsto por esta Ley.
+
+P.O. 8 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Cambio Climático del Estado de Puebla, publicada el veintinueve de noviembre de dos mil trece en el Periódico Oficial del Estado.
+
+TERCERO. El Titular del Poder Ejecutivo expedirá el Reglamento de la presente Ley a más tardar dentro de los ciento ochenta días siguientes al de su entrada en vigor.
+
+CUARTO. Se derogan las disposiciones legales, reglamentarias y administrativas que contravengan lo dispuesto en la presente Ley.
+
+QUINTO. La Secretaría en coordinación con la Comisión Intersecretarial, habilitará el Sistema de Información con al menos un componente de la totalidad de la información que este debe contener, de conformidad con lo establecido en esta Ley, en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de la presente Ley.
+
+SEXTO. La Estrategia Estatal de Cambio Climático y el Programa Estatal de Cambio Climáticos (sic) que se encuentran publicados y vigentes, deberán ser revisados y en su caso actualizados, una vez que transcurra el tiempo de su vigencia, sin prejuicio de lo establecido en esta Ley.
+
+SÉPTIMO. La Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial deberá emitir en un plazo no mayor a ciento ochenta días las reglas de operación para el funcionamiento del Fondo de Cambio Climático del Estado de Puebla.
+
+OCTAVO. Las disposiciones reglamentarias de la presente Ley establecerán los procedimientos y reglas para llevar a cabo el monitoreo, reporte y verificación, y en su caso, la certificación de las reducciones de emisiones obtenidas en proyectos inscritos en el Registro Estatal de Emisiones.
+
+NOVENO. La Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial deberá realizar las gestiones necesarias ante las Secretarías de Planeación y Finanzas, y de Administración, para contemplar las previsiones presupuestales necesarias para el cumplimiento del presente Decreto. Las erogaciones que se deriven de la aplicación del presente Decreto, estarán sujetas a la suficiencia presupuestal que apruebe el Honorable Congreso del Estado de Puebla.
