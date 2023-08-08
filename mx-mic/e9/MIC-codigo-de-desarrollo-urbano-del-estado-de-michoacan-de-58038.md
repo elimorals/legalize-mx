@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2022-08-31"
+last_updated: "2023-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2023.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -4545,6 +4545,10 @@ XIII. La garantías a que se refiere el artículo 385 de este Código, a efecto 
 
 XIV. Escritura pública que acredite la donación a favor del Ayuntamiento de las superficies en los términos de este Código.
 
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+Los documentos anteriormente mencionados, que se presenten a efecto de obtener la autorización definitiva de los desarrollos a los que se refieren los artículos 314, 315, 316, 321, 323, 325 y 326 de este Código, deberán contener los elementos necesarios que permitan garantizar que las características de diseño universal en infraestructura urbana cumplan con el derecho a la accesibilidad e inclusión de las personas con discapacidad, con el objeto de que las vialidades, guarniciones, banquetas, placas de nomenclatura, señalamientos viales y de tránsito, parques urbanos, áreas verdes, áreas individuales y comunes de los adquirentes, así como el equipo, mobiliario e infraestructura del nuevo desarrollo, sean inclusivos y de acceso seguro, fácil y equitativo a las personas con cualquier tipo de discapacidad.
+
 ###### ARTÍCULO 352.
 
 Recibida la solicitud la Dependencia Municipal, integrará el expediente y lo pondrá a consideración del Ayuntamiento, el cual emitirá la resolución en un plazo no mayor de veinte días hábiles, pudiendo ser positiva o negativa. De ser positiva otorgará la autorización definitiva del Desarrollo o desarrollo en condominio.
@@ -5636,3 +5640,9 @@ P.O. 31 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Para efectos de lo dispuesto en la reforma al artículo 429 contenida en el presente Decreto, los municipios incorporarán a sus leyes de ingresos correspondientes al ejercicio fiscal 2023 y subsecuentes el concepto destinado a la adquisición de reserva territorial. Para el presente ejercicio fiscal, los municipios dispondrán lo necesario, incluidas las modificaciones presupuestales correspondientes, en caso de tener ingresos por este concepto.
+
+P.O. 8 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 425 POR EL QUE “SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 351, DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
