@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2023-08-04"
+last_updated: "2023-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2023.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -1488,6 +1488,14 @@ IV. Convocar y presidir las sesiones del Ayuntamiento y ejecutar sus acuerdos y 
 V. Ordenar la promulgación y publicación de los reglamentos, acuerdos y demás disposiciones administrativas del Ayuntamiento que deban regir en el Municipio y disponer, en su caso, la aplicación de las sanciones que corresponda;
 
 VI. Informar anualmente a la población, en sesión pública y solemne del Ayuntamiento o Concejo Municipal, durante la primera quincena del mes de agosto, a excepción del último año de gestión, que será la segunda quincena del mes de julio, sobre el estado general que guarde la administración pública municipal, del avance del plan municipal de desarrollo y sus programas operativos; después de leído el informe podrá hacer uso de la palabra una regidora o regidor representante de cada una de las fracciones de los partidos políticos representados en el Ayuntamiento, a efecto de comentar sobre el informe de labores. El Concejo Municipal podrá definir previamente qué concejero comenta el informe de labores;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2023)</small>
+
+VI Bis. El Plan Municipal de Desarrollo será el eje rector del informe anual que rinda el Presidente Municipal, mismo que debe contener información veraz, precisa, oportuna, objetiva y verificable;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2023)</small>
+
+VI Ter. El funcionario que no dé cumplimiento con la disposición señalada en el párrafo anterior, será sancionado en términos de la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo, con independencia de las sanciones que le resulten en términos de la legislación aplicable;
 
 VII. Ejercer el mando de la policía preventiva municipal en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta Ley, sus reglamentos y demás disposiciones del orden municipal;
 
@@ -3500,3 +3508,9 @@ P.O. 4 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 417.- ÚNICO. SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 57 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 427 POR EL QUE “SE ADICIONAN LAS FRACCIONES VI BIS Y VI TER AL ARTÍCULO 64 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
