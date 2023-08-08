@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2022-06-13"
+last_updated: "2023-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -630,6 +630,10 @@ XLVII. Nombrar al Cronista Municipal quien deberá llevar el registro escrito de
 > <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2016)</small>
 
 XLVIII. Promover entre los habitantes del Municipio el conocimiento, respeto y defensa de los derechos humanos y la igualdad de oportunidades.
+
+> <small>(ADICIONADA, G.O. 8 DE AGOSTO DE 2023)</small>
+
+XLVIII Bis. Impulsar una eficiente y eficaz política de Mejora Regulatoria mediante el diseño y la ejecución de estrategias sustentadas en principios, bases, procedimientos, instrumentos y acciones en términos de lo previsto por la legislación aplicable.
 
 > <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2015)</small>
 
@@ -4544,3 +4548,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Se concede un plazo de noventa días contado (sic) a partir del inicio de la vigencia del presente Decreto, a efecto de que las administraciones municipales realicen las adecuaciones necesarias a sus reglamentos u otros ordenamientos para dar cumplimiento a lo previsto en este Decreto.
+
+G.O. 8 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 482 POR EL QUE SE ADICIONA LA FRACCIÓN XLVIII BIS AL ARTÍCULO 35 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Se concede un plazo de noventa días, contado a partir del inicio de la vigencia del presente Decreto, a efecto de que las administraciones municipales realicen las adecuaciones necesarias a sus reglamentos u otros ordenamientos para dar puntual cumplimiento al mismo.
