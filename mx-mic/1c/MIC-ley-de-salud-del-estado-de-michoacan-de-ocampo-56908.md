@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2023-06-26"
+last_updated: "2023-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -1909,6 +1909,10 @@ La autoridad sanitaria competente expedirá las autorizaciones respectivas cuand
 
 Los establecimientos que presten servicios de asistencia social, no requerirán para su funcionamiento de autorización sanitaria, pero sí serán sujetos de control y vigilancia cumpliendo con lo establecido en esta Ley, en las disposiciones reglamentarias y en las normas oficiales mexicanas correspondientes.
 
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 181 BIS. Todo centro, clínica, internado o institución de asistencia privada, que preste los servicios de rehabilitación o atención de adicciones y/o farmacodependencia de forma residencial, independientemente de su denominación, deberá de contar con licencia, permiso o autorización sanitaria, emitida por la autoridad de salud, además de cumplir con los requerimientos y requisitos que para su apertura y operación se establecen en la Ley Contra las Adicciones en el Estado de Michoacán, su reglamento y en los lineamientos que establezca la Secretaría.
+
 ###### ARTÍCULO 182.
 
 Los ingresos por concepto de derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal del Estado.
@@ -2819,6 +2823,14 @@ P.O. 21 DE ABRIL DE 2023.
 
 P.O. 26 DE JUNIO DE 2023.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 371 POR EL QUE "SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X AL INCISO A) DEL ARTÍCULO 21; Y SE ADICIONA UN ARTÍCULO 31 TER A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 371 POR EL QUE “SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X AL INCISO A) DEL ARTÍCULO 21; Y SE ADICIONA UN ARTÍCULO 31 TER A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 435 POR EL QUE “SE ADICIONA UN ARTÍCULO 181 BIS, A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Todo centro, clínica, internado o institución de asistencia privada, que preste los servicios de rehabilitación o atención de adicciones y/o farmacodependencia de forma residencial tendrán un máximo de 180 días hábiles para contar con la licencia, permiso o autorización sanitaria debidamente emitida por la autoridad de salud, a partir de la entrada en vigor del presente Decreto.
