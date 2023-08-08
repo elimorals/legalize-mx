@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2023-08-07"
+last_updated: "2023-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2023.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -384,7 +384,11 @@ C. Derecho a la ciencia y a la innovación tecnológica
 
 2. Toda persona tiene derecho al acceso, uso y desarrollo de la ciencia, la tecnología y la innovación, así como a disfrutar de sus beneficios y desarrollar libremente los procesos científicos de conformidad con la ley.
 
-3. Las autoridades impulsarán el uso de las tecnologías de la información y la comunicación. Habrá acceso gratuito de manera progresiva a internet en todos los espacios públicos, escuelas públicas, edificios gubernamentales y recintos culturales.
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2023)</small>
+
+3. Toda persona tiene derecho a acceder de forma libre y gratuita al servicio de internet de banda ancha en espacios públicos de la Ciudad. El Gobierno de la Ciudad garantizará este derecho.
+
+El Gobierno de la Ciudad llevará a cabo la implementación progresiva de infraestructura de telecomunicaciones para garantizar la autosuficiencia en la prestación del servicio gratuito de internet en los espacios públicos de la Ciudad.
 
 4. Las autoridades, en el ámbito de sus competencias, fortalecerán y apoyarán la generación, ejecución y difusión de proyectos de investigación científica y tecnológica, así como la vinculación de éstos con los sectores productivos, sociales y de servicios, a fin de resolver problemas y necesidades de la Ciudad, contribuir a su desarrollo económico y social, elevar el bienestar de la población y reducir la desigualdad; la formación de técnicos y profesionales que para el mismo se requieran; la enseñanza de la ciencia y la tecnología desde la enseñanza básica; y el apoyo a creadores e inventores.
 
@@ -4409,3 +4413,11 @@ PRIMERO. Túrnese a la Jefatura de Gobierno de la Ciudad de México para efectos
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. A partir de la entrada en vigor del presente Decreto, la reclasificación del suelo rural será a suelo de conservación, por lo que todas las referencias hechas en otros ordenamientos al suelo rural se entenderán hechas al suelo de conservación.
+
+G.O. 8 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 8, NUMERAL 3 DEL APARTADO C DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la en la (sic) Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
