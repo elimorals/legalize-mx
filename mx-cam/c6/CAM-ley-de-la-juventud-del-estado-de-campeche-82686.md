@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-juventud-del-estado-de-campeche-82686"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-13"
-last_updated: "2023-05-25"
+last_updated: "2023-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2023.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el miércoles 13 de julio de 2011.
 
@@ -389,11 +389,11 @@ El Reglamento de esta ley, deberá prever el funcionamiento y la operación de l
 
 #### Sección Tercera. Del Parlamento de la Juventud Campechana
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 36 Bis.
 
-La Secretaría de Bienestar, por conducto del Instituto de la Juventud del Estado, promoverá ante el Congreso del Estado, a través de los integrantes de la Comisión de Juventud, la instalación anual del Parlamento de la Juventud Campechana, mismo que se realizará durante la primera semana del mes de agosto de cada año.
+La Secretaría de Bienestar, por conducto del Instituto de la Juventud del Estado, promoverá ante el Congreso del Estado, a través de los integrantes de la Comisión de Juventud, la instalación anual del Parlamento de la Juventud Campechana, mismo que se realizará durante el mes de agosto de cada año.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2022)</small>
 
@@ -408,6 +408,10 @@ II. La o el titular del Instituto de la Juventud del Estado de Campeche, en repr
 III. Dos representantes de la sociedad civil.
 
 El Comité Organizador será presidido por la o el Presidente de la Comisión de Juventud del H. Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2023)</small>
+
+Las actividades y procedimientos de preparación para el desarrollo del Parlamento de la Juventud Campechana se establecerán en el Acuerdo Reglamentario correspondiente.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2022)</small>
 
@@ -947,11 +951,17 @@ Primero.- El presente decreto entrará en vigor el día siguiente al de su publi
 
 Segundo.- Se deroga cualquier disposición de igual o menor jerarquía que contravenga el presente decreto.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 712 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
+P.O. 9 DE AGOSTO DE 2023.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 252 POR EL QUE “SE REFORMA EL ARTÍCULO 36 BIS Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 36 TER DE LA LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE”.]
 
-P.O. 28 DE MARZO DE 2022.
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las actividades y procedimientos relacionados tanto con la preparación como con el desarrollo del Parlamento de la Juventud Campechana 2023 se ajustarán al contenido del presente decreto.
+
+Tercero.- El Congreso del Estado expedirá el Acuerdo Reglamentario a que alude el presente decreto a más tardar 90 días antes del Parlamento de la Juventud Campechana a celebrarse en el año 2024.
+
+Cuarto.- Se deroga cualquier disposición de igual o menor jerarquía que contravenga el presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 173 POR EL QUE SE REFORMAN LAS FRACCIONES II Y XVIII DEL ARTÍCULO 2; EL PRIMER PÁRRAFO Y LAS FRACCIONES III Y XIV DEL ARTÍCULO 11 DE LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
 
