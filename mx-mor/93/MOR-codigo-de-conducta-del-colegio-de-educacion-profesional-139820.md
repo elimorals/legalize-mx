@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-colegio-de-educacion-profesional-139820"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-12-25"
-last_updated: "2019-12-25"
+last_updated: "2023-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 9 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2023 (ABROGADO).
 
 Código publicado en el Número 5768 del Periódico Oficial del Estado de Morelos, el miércoles 25 de diciembre de 2019.
 
@@ -288,3 +290,17 @@ MTRA. KARLA ALINE HERRERA ALONSO
 DIRECTORA GENERAL DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE MORELOS
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente código de conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta del Colegio de Educación Profesional Técnica del Estado de Morelos, publicado en fecha 25 de diciembre de 2019 en el Periódico Oficial “Tierra y Libertad” número 5768.
+
+TERCERA. La Subdirección de Planeación, Evaluación y Administración de Recursos del Colegio de Educación Profesional Técnica del Estado de Morelos, deberá dar a conocer al personal del Conalep Morelos, así como al que sea de nuevo ingreso, la existencia y contenido del presente código de conducta (sic) como del código de ética.
+
+CUARTA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto serán resueltos por el Comité de Ética.
