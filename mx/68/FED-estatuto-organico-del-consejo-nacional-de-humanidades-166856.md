@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-humanidades-166856"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-06-30"
-last_updated: "2023-06-30"
+last_updated: "2023-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166856&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-06-07"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2023.
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 30 de junio de 2023.
 
@@ -81,7 +81,9 @@ X. Ley de Bioseguridad: Ley de Bioseguridad de Organismos Genéticamente Modific
 
 XI. Ley General: Ley General en Materia de Humanidades, Ciencias, Tecnologías e Innovación;
 
-XII. Órganos de Gobierno, Órganos de Gobierno de las Entidades Coordinadas;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2023)</small>
+
+XII. Órganos de Gobierno: Órganos de Gobierno de las Entidades Coordinadas;
 
 XIII. Presidencia: Presidencia de la Junta de Gobierno;
 
@@ -229,13 +231,17 @@ Dirección Regional 6 Occidente, y
 
 Dirección de Articulación de Centros de Investigación;
 
-V (SIC). Unidad de Asuntos Jurídicos:
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. EN SU NUMERACIÓN], D.O.F. 9 DE AGOSTO DE 2023)</small>
+
+IV. Unidad de Asuntos Jurídicos:
 
 Dirección de Consulta y Estudios Normativos, y
 
 Dirección de Estrategias y Procesos Jurídicos;
 
-VI. Unidad de Administración y Finanzas:
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. EN SU NUMERACIÓN], D.O.F. 9 DE AGOSTO DE 2023)</small>
+
+V. Unidad de Administración y Finanzas:
 
 Dirección de Administración Presupuestal y Financiera;
 
@@ -245,7 +251,9 @@ Dirección de Recursos Materiales y Servicios Generales, y
 
 Dirección de Administración e Información de Fondos;
 
-VII. Secretaría Ejecutiva de la CIBIOGEM:
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. EN SU NUMERACIÓN], D.O.F. 9 DE AGOSTO DE 2023)</small>
+
+VI. Secretaría Ejecutiva de la CIBIOGEM:
 
 Dirección de Información y Fomento a la Investigación, y
 
@@ -349,7 +357,9 @@ m) Las demás que le encomienden la persona titular de la Presidencia o de la Se
 
 La Junta de Gobierno cuenta con una Comisión Asesora, que tiene por objeto analizar y, en su caso, emitir recomendaciones respeto de los asuntos materia de sus sesiones ordinarias.
 
-La Comisión Asesora se integrará por la persona a cargo de la Secretaría, quien la presidirá, sin perjuicio de que lo haga directamente la persona titular de la Dirección General, así como por las personas representantes de las demás dependencias y entidad (sic) de la Administración Pública Federal que tengan voto en la Junta de Gobierno y por las personas titulares de las unidades administrativas, quienes contarán con voz y voto.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2023)</small>
+
+La Comisión Asesora se integrará por la persona a cargo de la Secretaría, quien la presidirá, sin perjuicio de que lo haga directamente la persona titular de la Dirección General, así como por las personas representantes de las dependencias y entidades de la Administración Pública Federal que tengan voto en la Junta de Gobierno y por las personas titulares de las unidades administrativas, quienes contarán con voz y voto.
 
 La persona a cargo de la Prosecretaría suplirá en sus ausencias a la persona que presida la Comisión Asesora.
 
@@ -601,7 +611,9 @@ XXI. Promover que las entidades coordinadas coadyuven a la atención y, en su ca
 
 Corresponde a la Unidad de Asuntos Jurídicos:
 
-I. Fungir como consejería institucional y consultoría legal de la Dirección General, sus unidades administrativas y las entidades coordinadas, así como de la CIBIOGEM, y representar al Consejo Nacional en los asuntos jurídicos que le competan;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] , D.O.F. 9 DE AGOSTO DE 2023)</small>
+
+I. Fungir como consejería institucional y consultoría legal de la Dirección General, sus unidades administrativas y las entidades coordinadas, así como de la CIBIOGEM, y representar al Consejo Nacional en los asuntos jurídicos que le competan.
 
 También, coordinar y participar en las actividades jurídicas de las unidades administrativas, sin perjuicio de las facultades conferidas específicamente a otras unidades administrativas en el presente Estatuto Orgánico;
 
@@ -897,9 +909,17 @@ I. Lineamientos y políticas de género en materia de HCTI;
 
 II. Protección de los conocimientos tradicionales y bienes comunes;
 
-III. Aplicación del principio precautorio en la investigación científica y el desarrollo tecnológico, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2023)</small>
 
-IV. Principios y eficacia del derecho humano a la ciencia.
+III. Aplicación del principio precautorio en la investigación científica y el desarrollo tecnológico;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2023)</small>
+
+IV. Principios y eficacia del derecho humano a la ciencia, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2023)</small>
+
+V. Filosofía y humanidades.
 
 Además, se constituirán grupos de trabajo ex profeso para tratar temas o problemas en particular, incluyendo los relacionados con la Agenda Nacional y las agendas temáticas de los PRONACES. Estos grupos se disolverán una vez agotado el tema, sin que puedan extender su vigencia más de un año. Estarán integrados por un máximo de ocho especialistas en el tema o problema a tratar. En todo caso, se integrarán en número par y se procurará un adecuado equilibrio general que garantice la representación regional, institucional, de género, edad y área del conocimiento.
 
@@ -940,3 +960,11 @@ OCTAVO. La Unidad de Administración y Finanzas conservará las facultades neces
 Atentamente
 
 Dado en la Ciudad de México, a los siete días del mes de junio de dos mil veintitrés.- Directora General del Consejo Nacional de Humanidades, Ciencias y Tecnologías, Dra. María Elena Álvarez-Buylla Roces.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS”.]
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
