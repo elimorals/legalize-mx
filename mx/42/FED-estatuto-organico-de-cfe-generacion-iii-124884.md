@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-iii-124884"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-01-02"
-last_updated: "2020-09-02"
+last_updated: "2023-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124884&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-11-28"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN III
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2023.
 
 Estatuto publicado en el Número 1 del Diario Oficial de la Federación, el martes 2 de enero de 2018.
 
@@ -83,13 +83,13 @@ X. CFE Generación III: Empresa Productiva Subsidiaria CFE Generación III.
 
 ### CAPÍTULO II. De la Estructura
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 9 DE AGOSTO DE 2023)</small>
 
 ###### ARTÍCULO 3.
 
 Para el despacho de los asuntos de su competencia, CFE Generación III cuenta con los órganos de estructura básica siguientes:
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 9 DE AGOSTO DE 2023)</small>
 
 1.- Dirección General
 
@@ -124,6 +124,10 @@ j) Departamento de Tecnologías de Información
 k) Departamento Jurídico
 
 l) Departamento de Control de Gestión y Desempeño
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2023)</small>
+
+m) Departamento de Inteligencia y Análisis de Mercados.
 
 La CFE Generación III cuenta con una Auditoría Interna establecida conforme a lo dispuesto por el Artículo 18 de su Acuerdo de creación de la empresa productiva subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación III.
 
@@ -287,9 +291,9 @@ XXXII. Dirigir la planeación estratégica de asociaciones, alianzas y nuevos ne
 
 XXXIII. Proponer al Consejo la designación o remoción del siguiente nivel jerárquico de CFE Generación III (Subgerente de Producción, Subgerente de Producción Hidroeléctrica Noroeste, Subgerente de Producción Termoeléctrica Baja California, Subgerente de Producción Termoeléctrica Norpacífico, Subgerente de Administración y Recursos Humanos, Departamento de Planeación y Finanzas y Departamento Jurídico);
 
-> <small>(REFORMADA, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2023)</small>
 
-XXXIV. Designar a los titulares de los Departamentos de Calidad, Seguridad y Ambiental, de Control de Gestión y Desempeño, Tecnologías de Información, Ingeniera Especializada, así como al titular de la Unidad de Optimización y Gestión de Energía;
+XXXIV. Designar a los titulares de los Departamentos de Calidad, Seguridad y Ambiental, de Control de Gestión y Desempeño, Tecnologías de la Información, Ingeniera (sic) Especializada, Inteligencia y Análisis de Mercados, así como al titular de la Unidad de Optimización y Gestión de Energía;
 
 XXXV. Aprobar la modificación a las estructuras orgánicas que impacten en la operación de CFE Generación III, a propuesta de la Subgerencia de Administración y Recursos Humanos;
 
@@ -949,6 +953,34 @@ XIV. Consolidar la información administrativa, financiera y operativa instituci
 
 XV. Integrar e informar de las desviaciones en objetivos, metas y evaluación de resultados técnicos, administrativos y financieros de las Centrales de CFE Generación III.
 
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 27 BIS. Al Departamento de Inteligencia y Análisis de Mercados le corresponderá, además de las funciones genéricas señaladas en el artículo 21 de este Estatuto, las siguientes:
+
+I. Elaborar los estudios de necesidades relacionados con los bienes, y servicios no consolidados, requeridos por CFE Generación III, para su registro en el Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios.
+
+II. Revisar y validar la información registrada por las áreas requirentes de CFE Generación III en el sistema electrónico determinado para la integración del Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios, previo a que se reporte a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión.
+
+III. Reportar a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión, la información registrada por las áreas requirentes de CFE Generación III en el sistema electrónico que corresponda, para su consolidación en el Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios.
+
+IV. Dar seguimiento a la ejecución del Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios, para conocer su avance y cumplimiento en lo que corresponde a la contratación de las necesidades registradas por CFE Generación III.
+
+V. Revisar la elaboración de investigaciones de condiciones de mercado correspondientes a las necesidades de bienes y servicios no consolidados, requeridos por CFE Generación III, previo a su registro en el sistema electrónico determinado para la integración del Programa Anual de Contrataciones en materia de adquisiciones, arrendamientos y servicios; a fin de obtener la información necesaria para realizar el registro correspondiente.
+
+VI. Revisar las actualizaciones de condiciones de mercado relativas a las contrataciones de bienes y servicios que corresponda realizar a CFE Generación III a través de su área y subáreas contratantes, a fin de obtener información sobre el comportamiento del mercado.
+
+VII. Analizar la conveniencia de modificar contratos derivados de procedimientos de contratación desarrollados por el área y subáreas contratantes de CFE Generación III, cuando se trate de sustitución de bienes, a fin de obtener las mejores condiciones.
+
+VIII. Identificar los riesgos asociados con los procedimientos de contratación a desarrollarse por el área y subáreas contratantes de CFE Generación III, para proponer mecanismos para su mitigación.
+
+IX. Diseñar estrategias de contratación a partir de las condiciones de mercado identificadas, así como de los posibles riesgos detectados en el mercado, para propiciar la obtención de las mejores condiciones en los procedimientos de contratación que desarrolle CFE Generación III, a través de su área y subáreas contratantes.
+
+X. Informar a las instancias correspondientes sobre los resultados generales de los procesos de inteligencia de mercado realizados dentro del ámbito de competencia de CFE Generación III, para proporcionar elementos para la toma de decisiones.
+
+XI. Seleccionar y proponer a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión, los servidores públicos adscritos al Departamento de Inteligencia y Análisis de Mercados y a las áreas requirentes de CFE Generación III, susceptibles de ser habilitados como agentes de inteligencia de mercado, a fin de que estén en posibilidad de realizar sus funciones.
+
+XII. Colaborar con la Gerencia de Inteligencia y Análisis de Mercados de la Comisión en las verificaciones que le realice sobre el cumplimiento de la normatividad aplicable en el ámbito de su competencia.
+
 ### CAPÍTULO IV. De las Superintendencias de Centrales
 
 ###### ARTÍCULO 28.
@@ -1236,5 +1268,11 @@ D.O.F. 9 DE FEBRERO DE 2018.
 D.O.F. 2 DE SEPTIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DE LAS "MODIFICACIONES Y ADICIONES AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN III, PUBLICADO EL 2 DE ENERO DE 2018".]
+
+ÚNICO.- Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DE LA "MODIFICACIÓN Y ADICIÓN AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN III, PUBLICADO EL 2 DE ENERO DE 2018".]
 
 ÚNICO.- Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
