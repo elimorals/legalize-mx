@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2023-05-17"
+last_updated: "2023-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-17"
 
 REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2023.
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -828,13 +828,13 @@ c) Estacionarse o efectuar reparaciones a vehículos, en caso de contingencia o 
 
 d) Interferir los carriles exclusivos de transporte público al dar vuelta a la izquierda, derecha o en "U", así como cambiar de cuerpo de circulación en la misma vía cuando existan señalamientos restrictivos que prohíban estos movimientos.
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
 
-Los conductores de vehículos motorizados que infrinjan los incisos b) y c) de la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+Los conductores de vehículos motorizados que infrinjan los incisos b) y c) de la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente, y tres puntos a la licencia para conducir.
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
 
-En caso de infringir lo dispuesto en los incisos a) y d) de esta fracción, serán sancionados con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+En caso de infringir lo dispuesto en los incisos a) y d) de este artículo, serán sancionados con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente, y seis puntos a la licencia para conducir.
 
 XI. Realizar maniobras de ascenso o descenso de personas en carriles centrales de las vías de acceso controlado;
 
@@ -1610,15 +1610,17 @@ XX. En los demás lugares que la Secretaría y Seguridad Pública determinen; y
 
 Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
-XXI. Cuando se estacionen vehículos en lugares autorizados para tal fin, y no se cubra la cuota determinada por su uso, además de lo dispuesto en la fracción II del artículo 33, se impondrá la multa señalada en este artículo.
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2023)</small>
+
+XXI. Cuando se estacionen vehículos matriculados en la Ciudad de México, en lugares autorizados para tal fin, e infrinjan alguna de las hipótesis contempladas en los incisos de la fracción II del artículo 33, se impondrá la multa señalada en este artículo.
 
 > <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
 
-En los casos a que hacen referencia las fracciones I, II, V, VI, VIII, IX, X, XII, XIV incisos b) y c), XV, XVI inciso b), XIX y XXI del presente artículo se usará grúa para que el vehículo sea remitido al depósito vehicular.
+En los casos a que hacen referencia las fracciones I, II, III, V, VI, VIII, IX, X, XI, XII, XIV incisos b) y c), XV, XVI y XIX del presente artículo se usará grúa para que el vehículo sea remitido al depósito vehicular.
 
 ###### Artículo 31.
 
@@ -1636,9 +1638,9 @@ La Secretaría y Seguridad Ciudadana podrán sujetar a determinados horarios y d
 
 Aun cuando se encuentre presente el conductor o alguna otra persona, los vehículos motorizados estacionados serán inmovilizados por el agente autorizado para infraccionar, cuando:
 
-> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2023)</small>
 
-I. Los vehículos se encuentren estacionados en lugares prohibidos según lo establecido en el artículo 30 fracciones I, IV, V, VII, VIII, IX, XIII, XIV y XVIII de este ordenamiento, imponiéndose la multa que señale el referido artículo;
+I. Los vehículos que se encuentren estacionados en lugares prohibidos según lo establecido en el artículo 30 fracciones IV, VII, XIII y XVIII de este ordenamiento, imponiéndose la multa que señale el referido artículo;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE MARZO DE 2019)</small>
 
@@ -1852,9 +1854,9 @@ d) Encender las luces cuando disminuya sensiblemente la visibilidad por cualquie
 
 e) Colocar dispositivos de advertencia cuando por caso fortuito o de fuerza mayor se detenga en vías primarias. Si la vía es de doble sentido, los dispositivos de advertencia se colocarán 20 metros atrás del vehículo y 20 metros adelante en el carril opuesto.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
 
-Los conductores de vehículos motorizados que infrinjan los incisos a), b), d) y e) de la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto de penalización a la placa de matrícula o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará (sic) un punto a la matrícula vehicular.
+Los conductores de vehículos motorizados que infrinjan los incisos a), b), d) y e) de la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto de penalización a la matrícula vehicular.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -1864,11 +1866,35 @@ III. Adicionalmente, los motociclistas deben:
 
 a) Circular todo tiempo con las luces traseras y delanteras encendidas;
 
-b) Llevar a bordo sólo la cantidad de personas para las que exista plaza disponible;
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
+
+b) Llevar a bordo sólo la cantidad de personas que señale la tarjeta de circulación;
 
 c) Usar aditamentos luminosos o bandas reflejantes en horario nocturno;
 
-d) Utilizar casco protector diseñado específicamente para motociclistas y asegurarse que los acompañantes también lo usen; éste debe estar correctamente colocado en la cabeza y abrochado; y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 10 DE AGOSTO DE 2023)</small>
+
+d) Utilizar casco protector, diseñado exclusivamente para la conducción de motocicleta, que cuente con especificaciones de seguridad, y asegurarse que la persona acompañante también lo porte; el casco deberá encontrarse debidamente colocado en la cabeza y abrochado, sin muestras de deterioro ni con fracturas visibles; asimismo, deberá contar con la certificación aplicable y/o con los siguientes elementos de seguridad:
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2023)</small>
+
+1. Armazón: barrera rígida que le da forma estructural y brinda protección;
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2023)</small>
+
+2. Relleno amortiguador: relleno de 3 a 4 centímetros de espesor para absorber impactos;
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2023)</small>
+
+3. Relleno de confort: parte del casco que está en contacto con la cabeza del usuario y contribuye a que el casco se ajuste correctamente a la cabeza;
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2023)</small>
+
+4. Sistema de retención: mecanismo que mantiene el casco en la cabeza durante una colisión, donde por acción de la inercia el mismo tiende a salirse de su lugar. Consta de correas, anclajes y mecanismo de cierre o abrochado; y,
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2023)</small>
+
+5. Visor: debe asegurar la correcta visibilidad y ser resistente ante el impacto de objetos.
 
 e) Preferentemente portar visores, chamarra o peto para protección con aditamentos rígidos para cobertura de hombros, codos y torso específicos para motociclista, guantes y botas, todos de diseño específico para conducción de este tipo de vehículo.
 
@@ -2232,13 +2258,17 @@ El incumplimiento de las obligaciones señaladas en la presente disposición, se
 
 Los conductores de vehículos motorizados deben cumplir con los requisitos legales especificados por cada tipo de vehículo del que se trate:
 
-I. Conductores de vehículos motorizados de uso particular, incluyendo a motociclistas, deben:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 10 DE AGOSTO DE 2023)</small>
 
-a) Cuando sean menores de edad, portar permiso de conducir;
+I. Conductores de vehículos motorizados de uso particular, deberán:
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
 
-b) Cuando sean mayores de edad, portar licencia vigente en formato físico o digital, correspondiente al tipo de vehículo;
+a) Cuando sean menores de edad, portar permiso para conducir automóviles. Las motocicletas no podrán ser conducidas por menores de edad;
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
+
+b) Cuando sean mayores de edad, portar licencia vigente en formato físico o digital, correspondiente al tipo de vehículo. Tratándose de motociclistas deberán portar la licencia tipo A1, A2 o permanente;
 
 > <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -2270,7 +2300,9 @@ c) Portar el número económico que identifique a la unidad.
 
 El incumplimiento de las obligaciones señaladas en los incisos a), b) y c) de la presente disposición, se sancionará con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente, sin menoscabo de lo estipulado por la Ley y su reglamento respectivo.
 
-IV. Los conductores de vehículos de transporte escolar o de pasajeros deben:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 10 DE AGOSTO DE 2023)</small>
+
+IV. Los conductores de vehículos de transporte escolar, de personal y turístico deberán:
 
 a) Conducir con licencia vigente correspondiente al tipo de vehículo;
 
@@ -2312,11 +2344,11 @@ El incumplimiento de las obligaciones señaladas en los incisos a), b) y c) de l
 
 Los requisitos y procedimiento (sic) para la obtención de permisos y licencias de conducir, tarjetones y demás documentos para la conducción de vehículos se establecen en la Ley y en el Reglamento respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 45.
 
-Los vehículos motorizados que circulen en el territorio de la Ciudad de México deben de contar con:
+Los vehículos motorizados que circulen en el territorio de la Ciudad de México deberán de contar con:
 
 I. Placas de matrícula frontal y posterior, o permiso provisional vigentes correspondiente al tipo de vehículo, o en su defecto, la copia certificada de la denuncia de la pérdida de las placas de matrícula ante el agente del Ministerio Público o la constancia de hechos ante el Juez Cívico, la cual no deberá exceder del término de 10 días hábiles a partir de la fecha de su expedición; mismos que deberán:
 
@@ -2338,7 +2370,9 @@ II. La calcomanía de circulación permanente;
 
 III. El holograma y constancia de verificación vehicular vigente con excepción de motocicletas. Los vehículos motorizados de los Estados que conforman la Comisión Ambiental de la Megalópolis y que circulen en el territorio de la Ciudad de México están obligados a portar su holograma y constancia de verificación vehicular vigente respectiva.
 
-IV. Tarjeta de circulación vigente.
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2023)</small>
+
+IV. Tarjeta de circulación vigente, en formato físico o digital.
 
 Tratándose de vehículos con placas de matrícula extranjera, portar los documentos oficiales en los que se describan las características del vehículo y se acredite la legal estancia en el país.
 
@@ -2826,9 +2860,9 @@ II. Centros autorizados para este fin, incluyendo medios electrónicos de pago; 
 
 III. (DEROGADA, G.O. 4 DE FEBRERO DE 2021)
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
 
-El infractor tendrá un plazo de treinta días naturales contados a partir de la fecha de emisión de la boleta de sanción para realizar el pago, teniendo derecho a que se le descuente un 50% del monto de la misma, con excepción de la sanción que establece el artículo 33, fracción II de este Reglamento; vencido el plazo señalado sin que se realice el pago, deberá cubrir los demás créditos fiscales que establece el Código Fiscal de la Ciudad de México.
+El infractor tendrá un plazo de treinta días naturales contados a partir de la fecha de notificación de la boleta de sanción para realizar el pago, teniendo derecho a que se le descuente un 50% del monto de la misma, con excepción de la sanción que establecen los artículos 30, fracción XXI, y 33, fracción II, de este Reglamento; vencido el plazo señalado sin que se realice el pago, deberá cubrir los demás créditos fiscales que establece el Código Fiscal de la Ciudad de México vigente.
 
 > <small>(DEROGADO TERCER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -2836,13 +2870,15 @@ El infractor tendrá un plazo de treinta días naturales contados a partir de la
 
 Cuando la infracción sea cometida por conductores que manejan un vehículo con placas de matrícula de otra entidad federativa o país, el agente autorizado para infraccionar deberá retirar la placa delantera o retener la licencia de conducir o la tarjeta de circulación, e indicar en la boleta de infracción que se procedió de esa forma. La placa de circulación o documentación retenida le será devuelta al conductor en las oficinas de Seguridad Ciudadana, una vez realizado el pago de la infracción y los adeudos registrados en el sistema de la Secretaría de Administración y Finanzas de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
 
-Al aplicar una infracción con fundamento en los artículos 50 o 51 de este ordenamiento, el agente deberá retener la licencia de conducir e indicar en la boleta de infracción que se procedió de esa forma; tratándose de Licencias de Conducir expedidas por la Secretaría, Seguridad Ciudadana informará a la Secretaría para que proceda conforme a los artículos 67 y 68 de la Ley.
+Al detectar una infracción, con fundamento en los artículos 50 o 51 de este ordenamiento, el agente deberá retener la licencia de conducir; tratándose de licencias de conducir expedidas por la Secretaría, Seguridad Ciudadana informará a la Secretaría para que proceda conforme a los artículos 67 y 68 de la Ley.
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 63.
 
-La Secretaría del Medio Ambiente del Distrito Federal podrá expedir las disposiciones necesarias para que los Centros de Verificación Vehicular del Distrito Federal constaten que no existen adeudos por multas derivadas de infracciones al presente Reglamento, previamente a que se inicien las pruebas correspondientes al procedimiento de verificación vehicular.
+La Secretaría del Medio Ambiente de la Ciudad de México podrá expedir las disposiciones necesarias para que los Centros de Verificación Vehicular de la Ciudad de México constaten que no existen adeudos por multas derivadas de infracciones al presente Reglamento, previamente a que se inicien las pruebas correspondientes al procedimiento de verificación vehicular.
 
 > <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -2850,23 +2886,29 @@ La Secretaría del Medio Ambiente del Distrito Federal podrá expedir las dispos
 
 Las sanciones impuestas a los infractores por agentes autorizados para infraccionar con apoyo de equipos electrónicos portátiles serán siempre de carácter monetario, en tanto que las infracciones captadas a través de sistemas tecnológicos de la Ciudad consistirán en amonestaciones, cursos en línea, taller de sensibilización presencial y trabajo en favor de la comunidad, según corresponda a la penalización por puntos a la matrícula. Cada matrícula cuenta con diez puntos iniciales, mismos que se verán reflejados en los sistemas de la Secretaría de Movilidad, Secretaría de Seguridad Ciudadana y la Secretaría del Medio Ambiente, los cuales se restarán según las infracciones registradas.
 
-Las sanciones que se impongan por invasión de carriles confinados e impuestas a matrículas vehiculares de personas morales, matrículas vehiculares de transporte público, matrículas vehiculares de transporte de carga, matrículas vehiculares de taxis y matrículas vehiculares de otra entidad federativa o país que circulen en el territorio de la Ciudad de México, y que sean captadas por sistema tecnológico, serán siempre de carácter monetario.
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
+
+Las sanciones que se impongan por invasión de carriles confinados, así como las impuestas a matrículas vehiculares de personas morales, matrículas vehiculares de transporte público, matrículas vehiculares de transporte de carga, matrículas vehiculares de taxis y matrículas vehiculares de otra entidad federativa o país que circulen en el territorio de la Ciudad de México, y que sean captadas por sistema tecnológico, serán siempre de carácter monetario.
 
 Cada infracción registrada por sistemas tecnológicos equivale a un punto menos en el esquema de penalización por puntos a la matrícula, con excepción de las infracciones contempladas en el último párrafo del artículo 9 del presente Reglamento, que tendrá una penalización de cinco puntos cuando se rebase el límite de velocidad por más de (sic) 40% de la velocidad máxima autorizada, de acuerdo con la información captada por el sistema tecnológico.
 
-Para infracciones con penalización de 5 puntos, las matrículas vehiculares también tendrán amonestación en las dos primeras infracciones que registren en cada ciclo de verificación vehicular, conforme a las dos primeras sanciones contempladas en la tabla del esquema de contabilidad de puntos.
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
+
+Para infracciones con penalización de 5 puntos, las matrículas vehiculares tendrán amonestación en la primera infracción que registren en cada ciclo de verificación vehicular, conforme a la primera sanción contemplada en la tabla del esquema de contabilidad de puntos.
 
 El esquema de contabilidad de puntos se rige por la siguiente tabla:
+
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2023)</small>
 
 Puntos restantes Sanción
 
 9 o primera infracción Amonestación
 
-8 o segunda infracción Amonestación
+8 o segunda infracción Curso en línea básico
 
-7 Curso en línea básico
+7 Curso en línea intermedio
 
-6 Curso en línea intermedio
+6 Curso en línea avanzado
 
 5 Taller de sensibilización presencial
 
@@ -2908,7 +2950,7 @@ Cumplidas las sanciones correspondientes, se restituirán los puntos mediante el
 
 La imposición de sanciones de carácter monetario por infringir las disposiciones del presente Reglamento estará basada en el criterio de Reincidencia, el cual tiene por objeto establecer sanciones incrementales al acumular infracciones pendientes de cumplimiento.
 
-A partir de la quinta infracción, siempre se impondrá la sanción máxima contemplada en el supuesto normativo prohibitivo que se infrinja.
+> <small>(DEROGADO DÉCIMO CUARTO PÁRRAFO, G.O. 10 DE AGOSTO DE 2023)</small>
 
 La aplicación del criterio anteriormente descrito no podrá llevarse a cabo directamente por los Agentes, sino que se realizará de forma automatizada a través del Sistema Integral de Administración de Infracciones, dicho sistema determinará la imposición de la sanción mínima, media o máxima establecida para cada hipótesis normativa prohibitiva establecida en este Reglamento, de acuerdo a las siguientes reglas:
 
@@ -2928,19 +2970,27 @@ Los ciudadanos podrán simular el monto de una potencial infracción a través d
 
 Dichos incrementos a las sanciones con base en este principio se describen en cada artículo del presente ordenamiento.
 
-Cuando se trate de sanciones por infracciones a este Reglamento impuestas por el Agente autorizado para infraccionar y emitidas mediante equipos electrónicos portátiles, la boleta de infracción se dará a conocer a los interesados, a través del número de teléfono celular o el correo electrónico que el ciudadano haya designado para tales efectos, de conformidad con lo dispuesto en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México. En caso de negativa se hará constar dicha situación y, se tendrá como no recibida la boleta de infracción.
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
 
-Las sanciones impuestas por sistemas tecnológicos serán notificadas vía estrados electrónicos a través de la página http://www.tramites.cdmx.gob.mx/infracciones/
+Cuando se trate de sanciones por infracciones a este Reglamento impuestas por el Agente autorizado para infraccionar y emitidas mediante equipos electrónicos portátiles, la boleta de infracción se dará a conocer a los interesados, a través del número de teléfono celular o el correo electrónico que el ciudadano haya proporcionado para tales efectos, de conformidad con lo dispuesto en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México. En caso de negativa se hará constar dicha situación y será notificada vía electrónica.
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
+
+Las sanciones impuestas por sistemas tecnológicos se notificarán vía electrónica, a través de la página http://www.tramites.cdmx.gob.mx/infracciones/.
 
 ###### Artículo 65.
 
 Sin perjuicio de las sanciones que correspondan, los conductores de vehículos que cometan alguna infracción a las normas de este Reglamento que pueda dar lugar a la tipificación de un delito, serán puestos a disposición del Ministerio Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 66.
 
-Las licencia (sic) para conducir se cancelarán al acumular doce puntos de penalización.
+Las licencias para conducir se cancelarán al acumular doce puntos de penalización
 
-La Secretaría realizará el cómputo de los puntos de penalización con base en las boletas de sanción expedidas por Seguridad Pública, que hubieran sido impuestas con información de la licencia del conductor presente en el momento de la conducta infractora.
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
+
+La Secretaría realizará el cómputo de los puntos de penalización con base en las boletas de sanción expedidas por Seguridad Ciudadana, que hubieran sido impuestas con información de la licencia del conductor presente en el momento de la conducta infractora.
 
 > <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -2954,7 +3004,9 @@ Los puntos de penalización tendrán una vigencia de un año a partir de la fech
 
 La reexpedición de una licencia que se haya extinguido por penalización procederá sólo después de transcurridos tres años.
 
-Las personas cuya licencia haya sido cancelada y conduzcan algún vehículo en el lapso a que se refiere el párrafo anterior, serán sancionadas con la remisión del vehículo al depósito y una multa de ciento ochenta veces la Unidad de Cuenta de la Ciudad de México vigente.
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
+
+Las personas cuya licencia haya sido cancelada y conduzcan algún vehículo en el lapso a que se refiere el párrafo anterior, serán sancionadas con la remisión del vehículo al depósito y una multa de ciento ochenta veces la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -2964,15 +3016,25 @@ Sólo procederá la remisión de vehículos al depósito en los siguientes casos
 
 I. El vehículo sea detenido por la comisión de alguna de las infracciones previstas en este Reglamento, y (sic) de la consulta efectuada en el sistema integral de administración de infracciones del Gobierno de la Ciudad de México, se detecte que cuenta con sanciones económicas no cubiertas, motivo de infracciones registradas con más de 30 días de anterioridad;
 
-> <small>(REFORMADA, G.O. 31 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2023)</small>
 
-II. Vehículos de conductores que transgredan lo dispuesto en las fracciones I, II, V, VI, VIII, IX, X, XII, XIV incisos b) y c), XV, XVI inciso b), XIX y XXI del artículo 30 y fracciones II y XI del artículo 34 de este Reglamento; siempre y cuando no se encuentre el conductor a bordo del vehículo o éste se negase a retirarlo, inmediatamente después de haberse impuesto la infracción;
+I Bis. Vehículos de conductores que contravengan lo dispuesto en las fracciones III inciso b) y X inciso a) y d) del artículo 11 de este Reglamento.
+
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2023)</small>
+
+II. Vehículos de conductores que transgredan lo dispuesto en las fracciones I, II, III, V, VI, VIII, IX, X, XI, XII, XIV incisos b) y c), XV, XVI y XIX del artículo 30 y fracciones II y XI del artículo 34 de este Reglamento; siempre y cuando no se encuentre el conductor a bordo del vehículo o éste se negase a retirarlo, inmediatamente después de haberse impuesto la
+
+infracción;
 
 III. Vehículos en estado de abandono conforme a lo previsto en las fracciones I y II del artículo 35 de este Reglamento;
 
-> <small>(REFORMADA, G.O. 31 DE MARZO DE 2022)</small>
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2023)</small>
 
-IV. Vehículos de conductores que transgredan lo previsto en las fracciones IV inciso a) y V inciso a), del artículo 44 y todas las fracciones del artículo 45 de este ordenamiento;
+III Bis. Motocicletas que transgredan lo previsto en las fracciones II y III del artículo 21, la fracción III incisos b) y d) del artículo 37 y la fracción III incisos c) y e) del artículo 38 de este Reglamento;
+
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2023)</small>
+
+IV. Vehículos de conductores que transgredan lo previsto en las fracciones I incisos a) y b), II inciso a), IV inciso a) y V inciso a) del artículo 44 y todas las fracciones del artículo 45 de este ordenamiento;
 
 V. Vehículos de conductores que contravengan lo dispuesto en la fracción III del artículo 48 de este Reglamento;
 
@@ -2986,9 +3048,9 @@ VIII. (DEROGADA, G.O. 31 DE MARZO DE 2022)
 
 En los casos antes referidos, previo a iniciar el arrastre, los Agentes deben sellar el vehículo para garantizar la guarda y custodia de los objetos contenidos en el mismo.
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
 
-Se procederá a la remisión del vehículo al depósito aun cuando el conductor se encuentre a bordo. Si en aquél se encontrasen personas menores de 16 años, mayores de 65 años, con discapacidad o mascotas, el Agente autorizado para infraccionar impondrá la sanción que corresponda y esperará a que llegue otro conductor o persona responsable para proceder de inmediato a la remisión del vehículo, salvo que se encuentre dentro de los supuestos previstos en el artículo 68 primer párrafo de este Reglamento.
+Se procederá a la remisión del vehículo al depósito aun cuando el conductor se encuentre a bordo, si en aquél se encontrasen personas menores de edad, mayores de 65 años, con discapacidad o mascotas. El Agente autorizado para infraccionar impondrá la sanción que corresponda y esperará el arribo de una persona que se haga responsable de las mismas, para proceder de inmediato a la remisión del vehículo, salvo que se encuentre dentro de los supuestos previstos en el artículo 68 primer párrafo de este Reglamento.
 
 Si el conductor o la persona responsable se oponen a la remisión del vehículo y/o se niega a salir de él, será presentado ante el Juez Cívico, para la determinación y aplicación de la sanción correspondiente.
 
@@ -3141,3 +3203,11 @@ G.O. 17 DE MAYO DE 2023.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 10 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor a los cuarenta y cinco días naturales posteriores a su publicación, el 24 de septiembre de 2023.
