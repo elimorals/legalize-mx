@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2022-10-25"
+last_updated: "2023-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE AGOSTO DE 2023.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -811,7 +811,9 @@ XIV. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
 XV. Administrar el Sistema Nacional de Alerta de Violación de Derechos Humanos, que promueva la ejecución de acciones para prevenir, disuadir o mitigar los riesgos identificados, elaborando los informes correspondientes;
 
-XVI. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
+> <small>(ADICIONADA, D.O.F. 10 DE AGOSTO DE 2023)</small>
+
+XVI. Coordinar el Programa de Atención a Víctimas de Violaciones a Derechos Humanos, y garantizar la atención debida en el primer contacto a aquellas personas quejosas que requieran contención, acompañamiento o canalización.
 
 XVII. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
@@ -1241,11 +1243,13 @@ En los acuerdos y lineamientos del Órgano Interno de Control señalarán las pe
 
 Para el ejercicio de sus atribuciones, el Órgano Interno de Control contará con las siguientes áreas:
 
-I. Quejas, Denuncias y Notificaciones;
+> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 8 DE OCTUBRE DE 2021)</small>
+I. Quejas, Denuncias, Notificaciones y Evolución Patrimonial;
 
-II. Responsabilidades, Situación Patrimonial y Defensa Jurídica;
+> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 2023)</small>
+
+II. Responsabilidades, Defensa Jurídica y Transparencia;
 
 (F. DE E., D.O.F. 27 DE OCTUBRE DE 2021) (F. DE E., D.O.F. 15 DE DICIEMBRE DE 2021)
 
@@ -1255,21 +1259,21 @@ IV. Evaluación de la Gestión.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de egresos de la Comisión Nacional.
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 2023)</small>
 
-La persona quien ocupe la titularidad del Área de Quejas, Denuncias y Notificaciones, podrá ejercer las atribuciones señaladas en las fracciones I, IX, XIV, XX, XXXV, XXXVIII, XXXIX, XLII y XLIII;
+La persona quien ocupe la titularidad del Área de Quejas, Denuncias, Notificaciones y Evolución Patrimonial, podrá ejercer las atribuciones señaladas en las fracciones I, IX, XIV, XX, XXXV, XXXVIII, XXXIX, XLII y XLIII;
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 2023)</small>
 
-La persona quien ocupe la titularidad del Área de Responsabilidades, Situación Patrimonial y Defensa Jurídica, podrá ejercer las atribuciones señaladas en las fracciones I, X, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXXV, XXXVIII, XXXIX, XLII y XLIII;
+La persona quien ocupe la titularidad del Área de Responsabilidades, Defensa Jurídica y Transparencia, podrá ejercer las atribuciones señaladas en las fracciones I, X, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXXV, XXXVIII, XXXIX, XLII y XLIII;
 
 > <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
 La persona quien ocupe la titularidad del Área de Control y Auditorías, podrá ejercer las atribuciones señaladas en las fracciones I, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXIX, XXXV, XXXVIII, XXXIX y XLIII;
 
-(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021) (F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 2023)</small>
 
-La persona quien ocupe la titularidad del Área del (sic) Evaluación de la Gestión podrá ejercer las atribuciones señaladas en las fracciones, I, XIX, XX, XXI, XXIV, XXVII, XXX, XXXI, XXXII, XXXV, XXXVIII, XXXIX y XLIII.
+La persona quien ocupe la titularidad del Área de Evaluación de la Gestión podrá ejercer las atribuciones señaladas en las fracciones, I, XVII, XIX, XX, XXI, XXIV, XXVII, XXX, XXXI, XXXV, XXXVIII, XXXIX y XLIII.
 
 ### CAPITULO IV. DEL CONSEJO CONSULTIVO
 
@@ -1911,23 +1915,23 @@ Cuando la queja no sea presentada de forma escrita, se elaborará acta circunsta
 
 En casos urgentes podrá admitirse una queja que se reciba por cualquier medio de comunicación electrónica, telefónica, o presentarse de manera verbal ante cualquier servidor público de la Comisión Nacional. En esos supuestos se requerirá contar con los datos mínimos de identificación a que alude el presente artículo y se elaborará acta circunstanciada de la queja por parte del servidor público de la Comisión Nacional que la reciba, haciéndosele saber al quejoso que deberá ratificar el escrito de queja, salvo en el caso de que la queja la hubiese presentado de manera verbal.
 
-> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 2023)</small>
 
 ###### ARTÍCULO 81.
 
 (Queja anónima)
 
-Se considerará anónima la queja que carezca del nombre del quejoso, y para los casos de que la queja se formule por escrito, cuando no esté firmada o no contenga huella digital de éste o de quien lo auxilie o represente. En estos casos, y siempre que se cuente con los datos de identificación del quejoso, se le hará saber esta situación para que ratifique la queja dentro de los tres días siguientes a su presentación, contados a partir del momento en que el quejoso reciba la comunicación de la Comisión Nacional de que debe subsanar la omisión. De preferencia, la comunicación al quejoso se hará vía telefónica, en cuyo caso se redactará el acta circunstanciada por parte del servidor público de la Comisión Nacional que haya hecho ese requerimiento.
+Se considerará anónima la queja que carezca del nombre de la persona quejosa, y para los casos en que la queja se formule por escrito, cuando no esté firmada o no contenga huella digital de esa persona o de quien le auxilie o represente. En estos casos, y siempre que se cuente con los datos de identificación de la persona quejosa, se le hará saber esta situación para que ratifique la queja dentro de los cinco días siguientes a su presentación, contados a partir del momento en que la persona quejosa reciba la comunicación de la Comisión Nacional de que debe subsanar la omisión. De preferencia, la comunicación a la persona quejosa se hará vía telefónica, en cuyo caso se redactará el acta circunstanciada por parte del servidor público de la Comisión Nacional que haya hecho ese requerimiento.
 
-De no contar con número telefónico, el requerimiento para ratificar la queja se hará por cualquier otro medio de comunicación, como correo certificado, telefax, telegrama o correo electrónico. En cualquier supuesto, el plazo de los tres días se contará a partir del correspondiente acuse de recepción o del momento en que se tenga la certeza de que el quejoso recibió el requerimiento para ratificar la queja.
+De no contar con número telefónico, el requerimiento para ratificar la queja se hará por cualquier otro medio de comunicación, como correo certificado, telefax, telegrama o correo electrónico. En cualquier supuesto, el plazo de los cinco días se contará a partir del correspondiente acuse de recepción o del momento en que se tenga la certeza de que el quejoso recibió el requerimiento para ratificar la queja.
 
-> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 2023)</small>
 
 ###### ARTÍCULO 82.
 
 (Falta de ratificación de la queja)
 
-De no ratificarse la queja en el plazo señalado en el artículo anterior, ésta se tendrá por no presentada y se enviará al archivo de control. Toda queja que carezca de domicilio, número telefónico o cualquier dato suficiente para la localización del quejoso también será enviada inmediatamente a dicho archivo.
+De no ratificarse la queja en el plazo señalado en el artículo anterior, ésta se tendrá por no presentada y se enviará al archivo de control. Toda queja que carezca de domicilio, número telefónico o cualquier dato suficiente para la localización del quejoso también será enviada inmediatamente a dicho archivo. En ambos casos podrá procederse de acuerdo a lo previsto en el artículo 83 de este Reglamento.
 
 ###### Artículo 83.
 
@@ -3080,3 +3084,13 @@ Primero. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión 
 Segundo. Entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Tercero. El Manual de Organización General de la Comisión Nacional de los Derechos Humanos, que refleje las modificaciones realizadas al Reglamento Interno, será expedido dentro de los tres meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicado en la Gaceta de la Comisión Nacional y en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS".]
+
+PRIMERO: El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos y en el Diario Oficial de la Federación.
+
+SEGUNDO: El presente Acuerdo entrará en vigor a la firma del presente acuerdo y surtirá sus efectos al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO: La parte conducente del Manual de Organización General de la Comisión Nacional, que refleje las modificaciones realizadas al Reglamento Interno será expedida dentro de los tres meses siguientes a la entrada en vigor del presente Acuerdo y deberá ser publicada en la Gaceta de la Comisión y en el Diario Oficial de la Federación.
