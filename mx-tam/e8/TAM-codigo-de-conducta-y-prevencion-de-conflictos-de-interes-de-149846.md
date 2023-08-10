@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-149
 country: "mx"
 rank: "codigo"
 publication_date: "2021-06-16"
-last_updated: "2021-06-16"
+last_updated: "2023-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS SERVIDORES PUBLICOS DEL CENTRO REGIONAL DE FORMACION DOCENTE E INVESTIGACION EDUCATIVA, TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL CENTRO REGIONAL DE FORMACIÓN DOCENTE E INVESTIGACIÓN EDUCATIVA, PUBLICADO EN EL P.O. DE 10 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTO DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL CENTRO REGIONAL DE FORMACIÓN DOCENTE E INVESTIGACIÓN EDUCATIVA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2023 (DEROGADO).
 
 Código publicado en el Número 71 del Periódico Oficial del Estado de Tamaulipas, el miércoles 16 de junio de 2021.
 
@@ -842,3 +844,25 @@ El presente Código de Conducta y Prevención de Conflicto de Interés de las y 
 Ciudad Victoria, Tam., a 20 de mayo de 2021
 
 ATENTAMENTE.- EL RECTOR DEL CENTRO REGIONAL DE FORMACIÓN DOCENTE E INVESTIGACIÓN EDUCATIVA.- DR. HERMINIO OLMEDA TREJO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL CENTRO REGIONAL DE FORMACIÓN DOCENTE E INVESTIGACIÓN EDUCATIVA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflicto de Interés del Centro Regional de Formación Docente e Investigación Educativa, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Código de Conducta y Prevención de Conflicto de Interés de las y los Servidores Públicos del Centro Regional de Formación Docente e Investigación Educativa, publicado en el Periódico Oficial del Estado el miércoles 16 de junio de 2021, relativo a los procesos vigentes.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo, hasta su conclusión.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente acuerdo.
