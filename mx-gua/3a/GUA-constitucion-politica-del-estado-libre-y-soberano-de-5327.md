@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2023-06-02"
+last_updated: "2023-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -245,7 +245,9 @@ No podrá librarse orden de aprehensión sino por la autoridad judicial y sin qu
 
 En casos urgentes, cuando se trate de delito grave así calificado por la Ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
 
-Cualquier persona puede detener al inculpado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2023)</small>
+
+Cualquier persona puede detener al inculpado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad civil más cercana y ésta con la misma prontitud, al Ministerio Público. Existirá un registro inmediato de la detención.
 
 En el caso de flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
 
@@ -669,7 +671,9 @@ Son ciudadanos del Estado, los guanajuatenses que hayan cumplido 18 años y teng
 
 Son prerrogativas del ciudadano guanajuatense:
 
-I.- Tomar las armas en el Ejército o en la Guardia Nacional para la defensa de la República, del Estado y de sus instituciones;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2023)</small>
+
+I.- Tomar las armas en la Fuerza Armada permanente o en los cuerpos de reserva, para la defensa de la República, del Estado y de sus instituciones;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -705,7 +709,9 @@ Son obligaciones del ciudadano guanajuatense:
 
 I.- Desempeñar los cargos de elección popular para los que fuere electo;
 
-II.- Alistarse en la Guardia Nacional;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2023)</small>
+
+II.- Alistarse y servir en los cuerpos de reserva, conforme a la ley, para asegurar y defender la independencia, el territorio, el honor, los derechos e intereses de la Patria;
 
 III.- Votar en las elecciones populares;
 
@@ -1787,7 +1793,7 @@ Proponer al Congreso del Estado, la terna para la designación de Consejero que 
 
 XIII.- Emitir órdenes a la policía preventiva municipal, en los términos que prevé la fracción XVI del artículo 117 de esta Constitución;
 
-XIV.- Mandar que se instruya y discipline la Guardia Nacional, conforme al Reglamento que expida el Congreso de la Unión y a las prevenciones que determine el Congreso del Estado;
+XIV.- (DEROGADA, P.O. 10 DE AGOSTO DE 2023)
 
 XV.- Auxiliar al Poder Judicial en la ejecución de sus resoluciones;
 
@@ -2429,11 +2435,11 @@ La vigencia anual, tanto de la Ley de Ingresos como de la Ley del Presupuesto Ge
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 103.
 
-Para cooperar a la defensa de la República y para conservar el orden interior del Estado, habrá en él una Guardia Nacional, sujeta al Reglamento que para ese objeto expida el Congreso de la Unión.
+El Estado, en coordinación con la Federación y los Municipios, participará en el establecimiento de un Sistema Nacional de Seguridad Pública en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2445,15 +2451,13 @@ En el Estado, se integrarán los Cuerpos de Seguridad Pública necesarios para l
 
 Para los mismos fines, el Ejecutivo del Estado con la corresponsabilidad de los Ayuntamientos, podrá autorizar el funcionamiento de servicios privados de seguridad, los que operarán en la forma y términos que determine la ley secundaria.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 10 DE AGOSTO DE 2023)</small>
 
-El Estado, en coordinación con la federación y los Municipios, participará en el establecimiento de un Sistema Nacional de Seguridad Pública en los términos de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 105.
 
-El Gobernador del Estado es el Jefe Superior de la Guardia Nacional.
+El Gobernador del Estado ejercerá el mando supremo de las Instituciones Policiales Estatales.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -4292,3 +4296,9 @@ P.O. 2 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 199, POR EL CUAL SE REFORMA EL PÁRRAFO CUARTO Y SE ADICIONA UN PÁRRAFO SEXTO AL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 10 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 216, MEDIANTE EL CUAL SE REFORMA LOS ARTÍCULOS 6 PÁRRAFO TERCERO, 23 FRACCIÓN I, 24 FRACCIÓN II, 103 Y 105; Y SE DEROGAN LA FRACCIÓN XIV DEL ARTÍCULO 77 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 104 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
