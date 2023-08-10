@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-13934
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-12-05"
-last_updated: "2021-12-29"
+last_updated: "2023-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139347&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-10-16"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA 2023, PUBLICADO EN EL D.O.F. DE 10 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE AGOSTO DE 2023 (ABROGADO).
 
 Estatuto publicado en la Primera Sección al Número 4 del Diario Oficial de la Federación, el jueves 5 de diciembre de 2019.
 
@@ -1530,3 +1532,23 @@ CUARTO.- Únicamente se derogan las disposiciones normativas de jerarquía infer
 QUINTO.- Los asuntos en trámite y otros elementos que guarden relación con la administración, operación de establecimientos asistenciales para niñez migrante, motivo de la presente reforma deberán ser transferidos por la Unidad de Atención a Población Vulnerable o la Dirección General de Coordinación y Fomento a Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad para su continuidad hacia la Unidad de Asistencia e Inclusión Social y a la Dirección General de Integración Social en un plazo de 15 días hábiles a partir de la entrada en vigor del presente, sin que se demerite el desarrollo de los trabajos, lo anterior de conformidad con lo dispuesto por los artículos 45 y 46 de los Lineamientos Generales para la regulación de los procesos de entrega-recepción y de rendición de cuentas de la Administración Pública Federal, cuya última reforma fue publicada en el Diario Oficial de la Federación el seis de diciembre de dos mil dieciocho.
 
 SEXTO.- Las eventualidades que surjan relacionadas con recursos materiales, humanos u otras de diversa índole serán resueltas por el Jefe de la Unidad de Administración y Finanzas, conforme a lo dispuesto por el artículo 19, fracción VI del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el cinco de diciembre de dos mil diecinueve.
+
+D.O.F. 10 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA 2023” OBTENIDOS DE: https://www.dof.gob.mx/2023/DIF/EstatutoSNDIF.pdf]
+
+PRIMERO. Publíquese el Extracto del presente Acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. Se abrogan, el Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, su Nota Aclaratoria, su Modificación y el ACUERDO por el que se modifica nuevamente; publicados en el Diario Oficial de la Federación el 05 de diciembre de 2019, el 31 de marzo de 2020, el 27 de agosto de 2021 y el 29 de diciembre de 2021, respectivamente.
+
+Las referencias que contengan todas (sic) disposiciones de jerarquía inferior al presente ordenamiento se entenderán implícitamente aludidas a los términos manejados por el presente Estatuto, sin que se requiera mayor modificación.
+
+Únicamente se derogan las disposiciones normativas de jerarquía inferior al presente ordenamiento en lo que se opongan o contravengan expresamente a sus disposiciones.
+
+La persona Titular del Organismo deberá impulsar, con el apoyo de la Dirección General de Asuntos Jurídicos y las demás unidades administrativas de la Entidad, coordinadas por dicha Dirección General, la actualización progresiva de la normatividad en comento, para su armonización con el presente Estatuto.
+
+CUARTO. Los nombramientos realizados a la servidora y servidor público que actualmente ocupan la titularidad (sic) las unidades administrativas referidas en el presente Estatuto o del Órgano Interno de Control, mantendrán su vigencia, sin requerir ratificación e independientemente del cambio en la posición de la unidad administrativa a su cargo, dentro de la estructura orgánica del Organismo, o del cambio que haya existido en la denominación, en cuyo caso los nombramientos se entenderán conforme a las denominaciones señaladas en el presente ordenamiento.
+
+QUINTO. La presente reforma únicamente representa movimientos estructurales desregulados pues no generan impacto presupuestal, por lo tanto, los objetivos, atribuciones y funciones del Organismo y sus Unidades Administrativas continuarán siendo las mismas.
