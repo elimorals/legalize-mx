@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2022-06-14"
+last_updated: "2023-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2023.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -1313,6 +1313,22 @@ El Centro de Evaluación y Control de Confianza del Estado tendrá la obligació
 
 Los integrantes de las Instituciones de Seguridad Pública tendrán derecho a recibir la constancia de resultado de la evaluación de control y confianza.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2023)</small>
+
+Vigencia de las Evaluaciones de Control y Confianza
+
+###### Artículo 52
+
+1. El personal de las Instituciones Policiales contempladas en el artículo 8 de esta Ley, deberán someterse a evaluaciones de control de confianza, las cuales tendrán una vigencia de tres años para acreditar el cumplimiento como requisito de permanencia, excepto para el personal que desempeña funciones de mando a la que corresponderá una vigencia de la evaluación de dos años.
+
+En lo que respecta al personal de las Instituciones de Seguridad Pública que realicen funciones dentro de los centros de control, comando, comunicaciones y cómputo o en unidades administrativas con actividades análogas, así como el personal operativo adscrito a empresas prestadoras de servicios de seguridad privada, deberán someterse a evaluaciones de control de confianza, que tendrán una vigencia de tres años. El personal del Centro de Evaluación y Control de Confianza del Estado de Guanajuato debe presentar y aprobar evaluaciones de control de confianza previo a su ingreso y, posteriormente, cada 3 años.
+
+Las personas titulares de las Instituciones de Seguridad Pública a la que se encuentre adscrito la persona evaluada darán seguimiento a las restricciones, observaciones o recomendaciones contenidas en los resultados aprobatorios de la evaluación de control y confianza, informando sobre dicho seguimiento cuando así lo requiera el Centro de Evaluación y Control de Confianza del Estado de Guanajuato.
+
+La vigencia de resultados de las evaluaciones practicadas no es impedimento para que las personas titulares de las Instituciones de Seguridad Pública puedan solicitar al Centro de Evaluación y Control de Confianza del Estado de Guanajuato realizar una nueva evaluación de aquellos elementos sobre los cuales se observe existan factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones institucionales.
+
+Dicha solicitud deberá pormenorizar las circunstancias en las que se motivan las deficiencias de las capacidades y desempeño mostrado en el cumplimiento de la función.
+
 Centros de evaluación y control de confianza de las instituciones de seguridad pública
 
 ###### Artículo 53.
@@ -1769,11 +1785,21 @@ Reubicación de los integrantes de las Instituciones Policiales
 
 Los integrantes de las Instituciones Policiales que hayan alcanzado las edades límite para la permanencia en el servicio operativo de las jerarquías previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias competentes, en otras áreas de los servicios de las propias Instituciones de Seguridad Pública.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2023)</small>
+
+Los titulares de las Instituciones de Seguridad Pública determinarán, en su caso, la reubicación temporal del personal cuando derivado de su evaluación de control y confianza obtengan un resultado aprobatorio con restricciones y observaciones que impidan llevar a cabo sus actividades con legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2023)</small>
+
+Los titulares de las Instituciones de Seguridad Pública a la que se encuentre adscrito la persona evaluada darán seguimiento a las restricciones, observaciones o recomendaciones contenidas en los resultados aprobatorios de la evaluación de control de confianza, y deberán informar sobre la atención otorgada al Centro de Evaluación y Control del Estado de Guanajuato, cuando le sea requerido por éste.
+
 Certificación de los integrantes de las Instituciones Policiales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 88.
 
-La certificación es el proceso mediante el cual los integrantes de las Instituciones Policiales se someten a las evaluaciones periódicas para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+La certificación es el proceso mediante el cual las personas integrantes de las Instituciones Policiales se someten a las evaluaciones conforme a los plazos establecidos en esta ley, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
 
 Las Instituciones Policiales contratarán únicamente al personal que cuente con el requisito de certificación expedido por la instancia competente debidamente acreditada conforme la normativa aplicable y el registro en el Sistema Nacional de Seguridad Pública.
 
@@ -3176,6 +3202,14 @@ Artículo Octavo. La Secretaría de Finanzas, Inversión y Administración defin
 P.O. 14 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 79, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 18 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 214, MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 88 Y SE ADICIONA UN ARTÍCULO 52-1 Y UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 87 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO".]
 
 Inicio de vigencia
 
