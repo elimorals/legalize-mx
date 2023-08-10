@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-21702
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-20"
-last_updated: "2023-07-21"
+last_updated: "2023-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2023 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 10 DE AGOSTO DE 2023.]</small>
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de junio de 2001.
 
@@ -501,9 +501,9 @@ III. El Secretario General de Gobierno;
 
 IV. El Secretario de Salud;
 
-> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+(REFORMADA, B.O. 21 DE JULIO DE 2023) (F. DE E., B.O. 10 DE AGOSTO DE 2023)
 
-V. El Sistema Estatal para el Desarrollo Integral de la Familia de Baja California Sur.
+V. El Sistema Estatal para el Desarrollo Integral de la Familia de Baja California Sur, y los sistemas municipales para el desarrollo integral de la familia
 
 > <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
