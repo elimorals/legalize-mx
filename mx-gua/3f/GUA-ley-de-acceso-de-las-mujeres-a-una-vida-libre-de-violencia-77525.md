@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2023-06-02"
+last_updated: "2023-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2023.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -183,9 +183,9 @@ IV. Violencia económica: es toda acción u omisión del agresor que afecta la e
 
 V. Violencia sexual: cualquier acto de contenido sexual que amenaza, degrada o daña el cuerpo o la sexualidad de la víctima, o ambas, que atenta contra su libertad, dignidad, seguridad sexual o integridad física, que implica el abuso de poder y la supremacía sobre la víctima, al denigrarla y concebirla como objeto;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2023)</small>
 
-VI. Violencia laboral: la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la ley y todo tipo de discriminación por condición de género;
+VI. Violencia laboral: todo acto u omisión en abuso de poder independientemente de la relación jerárquica que, daña la autoestima, salud, integridad, libertad y seguridad de la víctima e impide su desarrollo y atenta contra la igualdad. Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual; la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación; así como despedir o coaccionar directa o indirectamente a una trabajadora para que renuncie por estar embarazada, por cambio de estado civil o por tener el cuidado de sus hijas o hijos menores; el impedimento a llevar a cabo el periodo de lactancia previsto en la ley; así como todo tipo de discriminación por condición de género;
 
 VII. Violencia docente: aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que les infligen maestras o maestros;
 
@@ -1698,3 +1698,9 @@ P.O. 2 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 200, POR EL QUE SE ADICIONA LA FRACCIÓN VI, RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 2 Y UNA FRACCIÓN XV RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 24 A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 10 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 215, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5, FRACCIÓN VI DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
