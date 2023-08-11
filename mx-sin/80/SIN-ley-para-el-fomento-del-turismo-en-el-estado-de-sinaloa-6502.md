@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-el-fomento-del-turismo-en-el-estado-de-sinaloa-6502"
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-08"
-last_updated: "1988-07-08"
+last_updated: "2023-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA EL FOMENTO DEL TURISMO EN EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 8 de julio de 1988.
 
@@ -283,6 +283,36 @@ El Ejecutivo del Estado podrá suscribir convenios y establecer bases de coopera
 
 El Gobernador del Estado podrá celebrar convenios con otras Entidades Federativas para coordinar e impulsar acciones de fomento y desarrollo turísticos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2023)</small>
+
+### CAPITULO SEPTIMO. DEL TURISMO SUSTENTABLE
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+###### ARTICULO 45.
+
+El turismo sustentable tiene como fin realizar actividades turísticas en diversas modalidades, aprovechando los elementos naturales, ubicación geográfica y de los ecosistemas que existen en los diferentes municipios, a fin de garantizar la distribución equitativa de tales recursos en el presente y su disponibilidad para las generaciones futuras.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+###### ARTICULO 46.
+
+En el desarrollo del turismo sustentable, para evitar detener la derrama económica que se genere con la actividad, el Gobierno del Estado será parte coadyuvante para encontrar acciones que minimicen el impacto negativo en el medio ambiente así como para los integrantes de la comunidad.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+###### ARTICULO 47.
+
+En el caso de turismo sustentable, el Gobierno del Estado desarrollará programas de capacitación dirigidos para los prestadores de servicios turísticos, quienes participarán de manera activa en la preservación y protección del medio ambiente en donde se desarrollen actividades en esa modalidad.
+
+Asimismo, el Gobierno del Estado fomentará el otorgamiento de incentivos, distintivos, certificados o reconocimientos que no sean de carácter económico a prestadores de servicios turísticos que promueven el turismo sustentable.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+###### ARTICULO 48.
+
+Los prestadores de servicios dentro del ramo turístico que proporcione cualquier actividad relacionada con el turismo sustentable o en materia de turismo ecológico, deberá comprometerse a preservar los recursos naturales, a no alterar los procesos biológicos y ecológicos, así como a respetar las diversas expresiones históricas, artísticas, arquitectónicas, arqueológicas y culturales pertenecientes a cualquier municipio.
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
@@ -322,3 +352,13 @@ LIC. FRANCISCO LABASTIDA OCHOA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JUAN BURGOS PINTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 529 POR EL QUE SE ADICIONA UN CAPÍTULO Y LOS ARTÍCULOS 45, 46, 47 Y 48 A LA LEY PARA EL FOMENTO DEL TURISMO EN EL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga a lo señalado en este Decreto.
