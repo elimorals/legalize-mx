@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-fiscalia-general-del-estado-de-coahuila-1233
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-12"
-last_updated: "2020-09-29"
+last_updated: "2023-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
 
 Ley publicada en la Segunda Sección al Número 73 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 12 de septiembre de 2017.
 
@@ -423,7 +423,9 @@ Para el ejercicio de sus funciones y el despacho de los asuntos que le competen,
 
 1.9.1 Fiscalía Especializada para la Atención de Delitos Electorales.
 
-1.9.2 Fiscalía Especializada en Investigación de Delitos Cometidos por Agentes del Estado.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+1.9.2 Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
 1.9.3 Fiscalía Especializada en Delitos por Hechos de Corrupción.
 
@@ -753,17 +755,51 @@ II. La implementación en su caso, de acciones para prevenir y combatir los deli
 
 III. Las que le otorguen el Fiscal General, la Constitución General, la Constitución del Estado, esta ley, su reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 20.
 
-Deberes y atribuciones de la Fiscalía Especializada en Investigación de Delitos Cometidos por Agentes del Estado.
+Deberes y atribuciones de la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
-Esta Fiscalía tendrá los deberes y atribuciones siguientes:
+En el ámbito de su competencia la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes contará con los deberes y atribuciones siguientes:
 
-I. La investigación de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes cometido (sic) por agentes policiales del Sistema Estatal de Seguridad Pública y el análisis de su incidencia delictiva;
+I. Iniciar de manera inmediata y desarrollar la investigación y persecución de hechos delictivos relacionados con los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
 
-II. La implementación en su caso, de acciones para prevenir y combatir los delitos, de su competencia;
+II. Comenzar con la integración de la carpeta de investigación correspondiente, incluyendo las declaraciones de la persona denunciante o víctima alegada del delito y los testigos;
 
-III. Las que le otorguen el Fiscal General, la Constitución General, la Constitución del Estado, esta ley, su reglamento y demás disposiciones aplicables.
+III. Ingresar a cualquiera de los lugares de privación de libertad en donde se presuma que se cometió el delito de tortura;
+
+IV. Realizar el registro del hecho en el Registro Nacional del Delito de Tortura;
+
+V. Informar a la persona denunciante o víctima del delito que tiene derecho a contar con un asesor jurídico;
+
+VI. Solicitar a las autoridades competentes el resguardo del probable lugar de los hechos y solicitar a los peritos su intervención para el procesamiento del mismo;
+
+VII. Solicitar la intervención de peritos para que realicen el dictamen médico-psicológico correspondiente y los demás que se requieran;
+
+VIII. Informar a la víctima de su derecho a ofrecer un dictamen médico-psicológico elaborado por peritos independientes o, en su caso, por organismos públicos de protección de los derechos humanos cuando se emitan con motivo de quejas interpuestas ante los mismos;
+
+IX. En caso de que la víctima sea una persona extranjera, deberá informar a la autoridad competente del Estado del que sea nacional y coadyuvar para garantizar el derecho a la asistencia consular;
+
+X. Ejecutar, supervisar y evaluar el Protocolo Homologado, así como los protocolos de actuación y para la investigación a que se refiere la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+XI. Requerir a las instancias del sector público competentes, y del sector privado en los casos que disponga la Ley General de Víctimas, a que se le brinde atención médica, psicológica y jurídica a las personas víctimas de las conductas previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+XII. Emitir y decretar las medidas necesarias, para la protección y resguardo de la vida y la integridad de las Víctimas y Testigos, de conformidad con la legislación aplicable;
+
+XIII. Pedir a las autoridades competentes en los tres niveles de gobierno, su colaboración y apoyo para la investigación y persecución de los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+XIV. Solicitar las medidas cautelares aplicables a la persona imputada, de conformidad con la legislación aplicable, por los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+XV. Solicitar al Juez de Control la realización de la audiencia inicial.
+
+XVI. Establecer mecanismos de cooperación con otras autoridades competentes en la materia, para el intercambio de plataformas de información y de la capacitación continua para dichos efectos;
+
+XVII. Colaborar con otras autoridades competentes de la materia, a efecto de sistematizar la información obtenida durante la investigación y promover su intercambio con otras Fiscalías Especializadas con el fin de fortalecer el seguimiento y control de las conductas delictivas previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes y coadyuvar con la actualización del Registro Nacional del Delito de Tortura;
+
+XVIII. Llevar a cabo análisis de contextos y patrones sobre la comisión del delito de tortura, con base en los datos del Registro Nacional y otra información disponible;
+
+XIX. Proponer políticas para la prevención y combate de las conductas previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
 ###### Artículo 21.
 
@@ -2552,3 +2588,17 @@ P.O. 29 DE SEPTIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 488.- SE REFORMAN EL INCISO 1.9.2 DEL ARTÍCULO 9 Y EL ARTÍCULO 20 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL 73 ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Desde la entrada en vigor del presente Decreto, los recursos financieros, materiales y humanos, así como los asuntos en trámite de la Fiscalía Especializada en la Investigación de Delitos Cometidos por Agentes del Estado, pasarán a la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles Inhumanos o Degradantes.
+
+TERCERO.- El Congreso del Estado determinará en el presupuesto de egresos correspondiente una partida presupuestal específica para la operación y funcionamiento de la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles Inhumanos o Degradantes.
+
+CUARTO.- Cualquier mención que se haga de la Fiscalía Especializada en la Investigación de Delitos Cometidos por Agentes del Estado, se entenderá hecha la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles Inhumanos o Degradantes.
+
+QUINTO.- Dentro del término de ciento veinte días, siguientes al inicio de la vigencia de la presente ley, deberán de realizarse las adecuaciones al Reglamento de la ley Orgánica de la Fiscalía General del Estado y demás normatividad que se requiera en materia de Investigación y Persecución del Delito de Tortura y Otros Tratos o Penas Crueles Inhumanos o Degradantes; para el pleno cumplimiento a la Ley General de la Materia.
