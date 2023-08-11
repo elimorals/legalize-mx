@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2023-06-23"
+last_updated: "2023-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2667,11 +2667,11 @@ VIII.- Posea, use, compre, custodie o de cualquier otra manera adquiera o reciba
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de las penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por el período igual a la pena de prisión impuesta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 208
 
-QUARTER.- Excluyente de la acción penal.- Será causa excluyente de la acción penal el contar con documento expedido por la Procuraduría General de Justicia del Estado, que haga constar que en sus registros no se encuentra denuncia o reporte de robo de vehículo de motor de que se trate o de cualquiera de las partes de éste, o bien el comparecer voluntariamente ante ésta autoridad a presentar un vehículo de motor, o bien, alguna o algunas de sus partes, con el objeto de cerciorarse de su legítima procedencia.
+QUARTER.- Excluyente de la acción penal.- Será causa excluyente de la acción penal el contar con documento expedido por la Fiscalía General del Estado, que haga constar que en sus registros no se encuentra denuncia o reporte de robo de vehículo de motor de que se trate o de cualquiera de las partes de este, o bien el comparecer voluntariamente ante esta autoridad a presentar un vehículo de motor, o bien, alguna o algunas de sus partes, con el objeto de cerciorarse de su legitima procedencia.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
 
@@ -6452,3 +6452,9 @@ PRIMERO.- Las presentes reformas entraran en vigor al día siguiente de su publi
 SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor de las presentes reformas se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 
 TERCERO.- A las personas que hayan cometido un delito de los contemplados en las presentes reformas con anterioridad a su entrada en vigor, incluidas las procesadas o sentencias, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 11 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 256 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 208-QUARTER, DEL CÓDIGO PENAL DEL (SIC) ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
