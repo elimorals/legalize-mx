@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2023-07-21"
+last_updated: "2023-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -227,6 +227,10 @@ VI. Su estado familiar;
 
 VII. El secreto epistolar, telefónico, profesional, de comunicación teleimpresa y el secreto testamentario;
 
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+VII Bis. Los datos contenidos en sus dispositivos electrónicos personales, cualesquiera que se encuentren almacenados electrónicamente, salvo que se trate de niñas, niños, adolescentes o incapaces, en cuyo caso, quienes los tengan bajo la patria potestad, cuidado o custodia, podrán acceder a esos datos de manera responsable y solo para la protección de sus derechos esenciales.
+
 VIII. Su vida privada y familiar, y
 
 IX. Reservar los actos que realiza y a conservar sus secretos, salvo tratándose de la comisión de delitos.
@@ -309,13 +313,19 @@ Las acciones para exigir la reparación del daño, contenidas en el presente Cap
 
 ### Capítulo IV. Del Nombre de las Personas Físicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 34.
 
-El nombre es un atributo legal que individualiza a una persona en sus relaciones jurídicas. Se forma con el nombre propio que le impone libremente quien la presenta para su registro, seguido de los apellidos, los cuales serán el primero del padre, y como segundo, el primero de la madre.
+El nombre es un atributo legal que individualiza a una persona en sus relaciones jurídicas. Se forma con el nombre propio que le impone libremente quien la presenta para su registro, seguido de los apellidos, los cuales serán el primero del padre, y como segundo, el primero de la madre; no obstante, los progenitores por mutuo acuerdo, tendrán la facultad de establecer el orden de los apellidos de sus hijos de manera libre e informada, sin que esta determinación pueda ser restringida por razones de género.
 
 No se admitirán cambios, agregaciones o rectificaciones del nombre, sino en las circunstancias y con las formalidades señaladas en este Código.
 
 El oficial del registro civil, exhortará a quien presente al menor de edad para que el nombre propio con el que se pretende registrar no sea peyorativo, discriminatorio, infamante, denigrante, carente de significado, o que constituya un signo, símbolo o siglas, o bien que exponga al registrado a ser objeto de burla.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+En el caso de que se trate de uno o varios nombres propios en lengua indígena, deberán preservarse en todo momento, tanto los nombres como los apellidos ancestrales y tradicionales. Para ello, el oficial del registro civil, deberá llevar el procedimiento en estricto apego a las formas de comunicación pertenecientes a los pueblos indígenas para efecto de no vulnerar sus derechos.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -623,9 +633,15 @@ Tienen derecho a decidir de manera libre, informada y responsable el número y e
 
 Los cónyuges contribuirán al sostenimiento del hogar en los términos que establezca la ley, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden libremente, según sus posibilidades, libre de patrones de género
 
-Los derechos y obligaciones en el matrimonio serán siempre iguales para los cónyuges, independientemente de su aportación económica.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Los derechos y obligaciones en el matrimonio serán siempre iguales para los cónyuges, independientemente de su aportación económica en el sostenimiento del hogar.
 
 No estará obligado a contribuir económicamente el cónyuge que se encuentre imposibilitado para trabajar y careciere de bienes propios ni tampoco el que, por convenio expreso o tácito con el otro, se ocupe íntegramente del cuidado del hogar o de la atención de los menores de edad, labor que se contabilizará como contribución económica al sostenimiento familiar, en cuyos casos el otro responderá íntegramente de esos gastos.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+La contribución de cada uno de los cónyuges se dará en corresponsabilidad, lo que implica que las responsabilidades familiares y cuidado de los hijos entre los cónyuges serán compartidas de forma igualitaria o a través de un reparto equilibrado de las responsabilidades y tareas del hogar.
 
 ###### Artículo 70.
 
@@ -991,9 +1007,11 @@ No obstante el régimen de separación pactado por los cónyuges, cuando uno de 
 
 Los cónyuges no podrán cobrarse mutuamente retribución u honorario alguno por los servicios personales, consejos y asistencia que se presten; pero si uno de los cónyuges, por ausencia o impedimento del otro, no originado por enfermedad, se encarga temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado obtenido.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 129.
 
-Los que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les concede sobre los bienes de los hijos, pero deberán rendir cuentas de la administración y entregarles sus bienes, una vez que se casen o lleguen a la mayoría de edad.
+Los que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les concede sobre los bienes de los hijos, pero deberán rendir cuentas de la administración y entregarles sus bienes, una vez que se dé cualquiera de las causas previstas en el artículo 374 de este Código.
 
 ###### Artículo 130.
 
@@ -1123,9 +1141,11 @@ Los cónyuges no pueden celebrar ninguna transacción ni compromiso en árbitros
 
 ### Capítulo XV. De los Efectos Personales y patrimoniales de la Nulidad del Matrimonio
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 155.
 
-El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dura y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los cónyuges o desde su separación en caso contrario.
+El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles a favor de los cónyuges y de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no hubiese separación de los cónyuges o al momento de su separación en caso contrario.
 
 ###### Artículo 156.
 
@@ -1147,9 +1167,15 @@ Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde lu
 
 Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y la custodia de los hijos y el juez resolverá a su criterio de acuerdo con las circunstancias del caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 161.
 
-El juez en todo tiempo podrá modificar la determinación a que se refiere el artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los artículos 358, 359 Y la fracción III del artículo 380 de este Código; pero siempre y aún tratándose de divorcio, los menores de doce años deberán quedar al cuidado de la madre, excepto en los casos de violencia familiar cuando ella sea la generadora o exista peligro grave para el normal desarrollo de los hijos. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
+El juez en todo tiempo podrá modificar la determinación a que se refiere el artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los artículos 358, 359 y la fracción III del artículo 380 de este Código, pero siempre y aun tratándose de divorcio, los menores de doce años deberán quedar al cuidado de la madre.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+En ningún caso la carencia de recursos económicos será un obstáculo para determinar quién ejercerá la guarda y custodia de los hijos, pero si alguno de los padres ejerciere violencia familiar o su conducta genere peligro grave para el desarrollo normal de estos últimos, la guarda y custodia de los mismos quedará en favor del otro progenitor.
 
 ###### Artículo 162.
 
@@ -1291,7 +1317,9 @@ El cónyuge que unilateralmente desee promover el juicio de divorcio deberá aco
 
 I. La designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces;
 
-II.- Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+II.- Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos; priorizando la modalidad presencial; sin embargo, cuando ésta no sea posible, recurrir a la convivencia virtual a través de medios electrónicos y plataformas digitales;
 
 III.- El modo de atender las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
 
@@ -1299,7 +1327,13 @@ IV.- Designación del cónyuge al que corresponderá el uso del domicilio conyug
 
 V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición y,
 
-VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al cincuenta por ciento del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos o que no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte. El juez de lo Familiar resolverá atendiendo las circunstancias especiales de cada caso.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al cincuenta por ciento del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos o que no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte; derecho respecto del cual, no opera excepción alguna. El juez de lo Familiar resolverá atendiendo las circunstancias especiales de cada caso.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 11 DE AGOSTO DE 2023]</small>
+
+Este derecho de compensación también será aplicable en favor del cónyuge que se hubiere dedicado a laborar y cuidar del hogar al mismo tiempo, o a cuidar de los hijos indistintamente, causándole por ese solo hecho un perjuicio en su desarrollo personal, profesional o patrimonial.
 
 ###### Artículo 183.
 
@@ -1353,7 +1387,9 @@ En defecto de ese acuerdo; el juez resolverá conforme al Código de Procedimien
 
 Los menores de doce años deberán quedar al cuidado de la madre, excepto en los casos de violencia familiar cuando ella sea la generadora o exista peligro grave para el normal desarrollo de los hijos. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos;
 
-III.- El Juez resolverá teniendo presente el interés superior de los hijos, quienes serán escuchados, las modalidades del derecho de visita o convivencia con sus padres;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+III.- El Juez de lo Familiar resolverá teniendo presente el interés superior de las niñas, niños y adolescentes, quienes serán escuchados, las modalidades del derecho de visita o convivencia con sus padres, priorizando la modalidad presencial; sin embargo, cuando ésta no sea posible, recurrir a la convivencia virtual a través de medios electrónicos y plataformas digitales;
 
 IV.- Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como, de los que se encuentren bajo el régimen de sociedad conyugal, en su caso, especificando además el título bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición. Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise; y
 
@@ -1367,7 +1403,9 @@ I.- Todo lo relativo a los derechos y deberes inherentes a la patria potestad, s
 
 II.- Todas las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico ypleno (sic);
 
-III.- Las medidas necesarias para garantizar la convivencia de los hijos con sus padres, misma que sólo deberá ser limitada o suspendida cuando exista riesgo para los menores;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+III. Las medidas necesarias para garantizar la convivencia de los hijos con sus padres, priorizando la modalidad presencial; sin embargo, cuando ésta no sea posible, se podrá recurrir a la convivencia virtual a través de medios electrónicos y plataformas digitales, mismas que sólo podrán ser limitadas o suspendidas cuando exista riesgo para los hijos.
 
 IV.- Tomando en consideración, en su caso, los datos recabados en términos del artículo 187 de este Código, el juez fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los excónyuges tendrán obligación de contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos;
 
@@ -1412,6 +1450,10 @@ V.- Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
 VI.- Las demás obligaciones que tenga el cónyuge deudor.
 
 En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato o haya transcurrido un término igual a la duración del matrimonio.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+En el supuesto a través del cual el cónyuge que se encuentre en una situación de discapacidad ya sea mental o física, parcial o permanente, o que por atención a su estado físico de salud o por razones concernientes a su edad, y que al menos alguna de ellas le ocasione un impedimento para obtener un trabajo o desempeñar una actividad que le genere algún ingreso propio, digno y decoroso que cubra las necesidades primordiales y básicas para su sostenimiento, prevalecerá el derecho a recibir alimentos.
 
 ###### Artículo 193.
 
@@ -1687,6 +1729,10 @@ IV. Violencia sexual, es toda acción u omisión que amenaza, pone en riesgo o l
 
 V. Violencia patrimonial, es todo acto u omisión que ocasionen daño directo o indirecto, a bienes muebles o inmuebles, tales como perturbación en la propiedad o posesión, sustracción, destrucción, menoscabo, desaparición, ocultamiento o retención de objetos, documentos personales, bienes o valores, derechos patrimoniales o recursos económicos.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Serán consideradas un tipo de violencia familiar las conductas de acción u omisión de los progenitores que impidan u obstaculicen la convivencia de los descendientes con sus abuelos paternos o maternos, o de sus familiares contemplados hasta el cuarto grado, salvo que la acción u omisión tenga como fin evitar un daño o un riesgo grave al desarrollo normal del descendiente.
+
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 232 Bis.
@@ -1749,9 +1795,11 @@ El Consejo Local de Tutelas, conminará a las instituciones de asistencia famili
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 240.
 
-La filiación es la relación existente entre el hijo y sus progenitores. En relación a la madre, se le denomina maternidad: respecto al padre, se le denomina paternidad. La filiación puede tener lugar por consanguinidad o por adopción y ambas surten los mismos efectos conforme a las disposiciones de este Código.
+La filiación es la relación existente entre el hijo y sus progenitores. La filiación puede tener lugar por consanguinidad o por adopción y ambas surten los mismos efectos conforme a las disposiciones de este Código.
 
 La filiación consanguínea es el vínculo de parentesco que surge de la relación genética entre dos personas, por el sólo hecho de la procreación, incluyendo la reproducción asistida consentida, con material genético de ambos padres.
 
@@ -1985,13 +2033,21 @@ Una vez transcurridos los sesenta días naturales establecidos para realizar las
 
 ### Capítulo V. De la Reproducción Humana Asistida y la Gestación Subrogada
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 282.
 
-Se entiende por reproducción humana asistida, las prácticas clínicas y biológicas, para la creación de un nuevo ser humano, logrado mediante el conjunto de técnicas científicamente acreditadas y autorizadas por la Secretaría de Salud, y realizadas con la intervención del personal de la salud, constituidas por métodos de fertilización de células germinales, gametos, de uno o ambos sexos; además de la reproducción de cigotos, y embriones, que permita la procreación fuera del proceso natural, de la pareja infértil o estéril.
+Se entiende por reproducción humana asistida, las prácticas clínicas y biológicas, para la creación de un nuevo ser humano, logrado mediante el conjunto de técnicas científicamente acreditadas y autorizadas por la Secretaría de Salud, y realizadas con la intervención del personal de la salud, constituidas por métodos de fertilización de células germinales, gametos, de uno o ambos sexos; además de la reproducción de cigotos, y embriones, que permita la procreación fuera del proceso natural, de la persona infértil o estéril.
 
-Se permite a los cónyuges o concubinos la inseminación o fecundación homóloga y heteróloga. Se entiende por fecundación homóloga aquella en la que los gametos son aportados por ambos cónyuges o concubinos; y por fecundación heteróloga, aquella en que por lo menos uno de los gametos es donado por un tercero.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Se permite a toda persona sin importar el sexo ni estado civil u orientación sexual, la inseminación o fecundación homóloga y heteróloga, cuando ambos aportantes han otorgado su consentimiento. Se entiende por fecundación homóloga aquella en la que los gametos son aportados por ambos solicitantes, cuando sea el caso; y fecundación heteróloga, aquella en que, por lo menos uno de los gametos, es donado por un tercero extraño al o los solicitantes.
 
 Sólo será válido el consentimiento expresado en vida del disponente primario, con las formalidades que esta Ley exige, para efectos de inseminación post mortem.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+En los casos en que los matrimonios o concubinatos estuvieren compuestos por personas del mismo sexo, cualquiera podrá aportar su célula progenitora y, la faltante, será adquirida mediante instituciones especializadas en la donación de células reproductoras humanas. El mismo procedimiento podrá aplicarse a las parejas que realizando vida en común, no cumplan aún el requisito temporal para constituir el concubinato y decidan procrear.
 
 ###### Artículo 283.
 
@@ -2167,9 +2223,19 @@ III. A percibir la porción hereditaria que le corresponda; y,
 
 IV. A las demás funciones protectoras y normativas derivadas del vínculo.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Los padres de la persona menor reconocida podrán decidir de manera libre el orden de los apellidos de sus hijos en los términos del párrafo primero del artículo 34 del presente Código, independientemente de si la madre hubiese registrado con anterioridad ante el oficial del registro civil.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Lo anteriormente señalado, no será contrario al hecho de preservar el derecho de la persona menor de edad para que en el futuro pueda modificar el orden de los apellidos con los que fue registrada en su momento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 309.
 
-En los casos en que el demandado niegue la existencia del vínculo y en el juicio se demuestre plenamente la relación paterno-filial, en la sentencia que se dicte se le condenará al pago de alimentos retroactivos a partir de la presentación de la demanda, en la parte que le corresponda, además de los gastos y honorarios del juicio, erogados por la actora y el costo de las pruebas biológicas, cuando éstas hayan sido realizadas por el Estado.
+En los casos en que el demandado niegue la existencia del vínculo y en el juicio se demuestre plenamente la relación paterno-filial, en la sentencia que se dicte se le condenará al pago de alimentos retroactivos a partir del nacimiento de la hija o el hijo, en la parte que le corresponda, además de los gastos y honorarios del juicio, erogados por la actora y el costo de las pruebas biológicas, cuando éstas hayan sido realizadas por el Estado.
 
 En este caso el juez, de oficio, exigirá al condenado que garantice el pago de los alimentos futuros o, en su defecto, ordenará el embargo precautorio de bienes para asegurar el cumplimiento de esta obligación.
 
@@ -2179,15 +2245,29 @@ Está permitido a los hijos nacidos fuera de matrimonio y a sus descendientes, i
 
 El hecho de dar alimentos no constituye por sí solo prueba, ni aún presunción de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+###### Artículo 310 Bis.
+
+Cuando se compruebe la inexistencia de la relación paterno-filial, como consecuencia de actos fraudulentos, simulados o por la inoportuna valoración de las pruebas dentro de un juicio, con lo cual se dé origen al reconocimiento indebido de la paternidad, las personas que se hayan beneficiado por esas circunstancias perderán todos los derechos de carácter alimenticio, hereditario, así como aquellos otros que se deriven del parentesco.
+
 ## TÍTULO NOVENO. DE LA ADOPCIÓN
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 311.
 
-La adopción es el acto jurídico mediante el cual los cónyuges, concubinos o una persona mayor de edad asumen, respecto de uno o varios niños o adolescentes o personas incapaces, los derechos y obligaciones inherentes del parentesco por consanguinidad.
+La adopción es el acto jurídico mediante el cual los cónyuges, concubinos o una persona mayor de edad asumen, respecto de uno o varios niños o adolescentes, incapaces o personas mayores de edad, los derechos y obligaciones inherentes del parentesco por consanguinidad.
 
-Sólo procederá la adopción de personas mayores de edad siempre que éstas tengan alguna incapacidad.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Sólo procederá la adopción de personas mayores de edad cuando éstas tengan alguna incapacidad; o bien, cuando la persona que pretende adoptar cuide o la haya cuidado, protegido y le haya proveído de los medios necesarios para subsistir, contribuyendo a su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+La adopción puede beneficiar a personas de cualquier edad, siempre y cuando se cumplan con los requisitos de ley.
 
 ###### Artículo 312.
 
@@ -2197,7 +2277,9 @@ I. Que tiene medios bastantes para proveer a la subsistencia, educación y cuida
 
 II. Que la adopción sea benéfica para la persona que trata de adoptarse, atendiendo el interés superior de la misma;
 
-III. Que el adoptante sea persona apta para adoptar; y,
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+III. Que el adoptante sea persona apta e idónea para adoptar, circunstancia que deberá ser acreditada mediante certificado debidamente expedido por el Sistema para el Desarrollo Integral de la Familia; y,
 
 IV. Toda resolución o medida que se dicte por los Tribunales en relación con los niños adoptados, se hará tomando en cuenta el interés superior de éstos.
 
@@ -2215,7 +2297,9 @@ Nadie puede ser adoptado por más de una persona, salvo en los casos previstos e
 
 El o los interesados en adoptar, deberán acreditar los siguientes requisitos:
 
-I. Que tienen medios bastantes para proveer a la subsistencia y educación del menor o del incapacitado, como si se tratara de hijo propio, según las circunstancias y necesidades de la persona que se trata de adoptar;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+I. Que tienen medios bastantes para proveer a la subsistencia y educación de la persona, como si se tratara de un miembro integrante de la familia, según las circunstancias y necesidades de quien se trata de adoptar;
 
 II. Ser benéfica la adopción para el adoptado;
 
@@ -2229,19 +2313,25 @@ VI. Declarar su origen étnico, religión, historia médica, salvo el caso de ex
 
 VII. Haber sido aprobadas las cuentas de la tutela, si se tratare de adoptar a un pupilo.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Toda resolución o medida que se dicte por los tribunales en relación con las niñas, niños y adolescentes adoptados, se hará siempre tomando en cuenta el interés superior de éstas.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 316.
 
-El estudio para justificar las fracciones I, II, III y IV, del artículo 315, podrá ser realizado por el Sistema para el Desarrollo Integral de la Familia, la Procuraduría de Protección de Niñas, Niños y Adolescentes, o las instituciones que a juicio del juez sean suficientes.
+El estudio para justificar las fracciones I, II III y IV, del artículo 315, podrá ser realizado por el Sistema para el Desarrollo Integral de la Familia, o las instituciones que a juicio del juez sean suficientes. En el caso de los estudios y las certificaciones anteriormente referidas su sentido podrá ser ratificado ante el juez, de considerarlo necesario, para lo cual podrá citar a la representación que (sic) la Procuraduría de Protección de Niñas, Niños y Adolescentes para que de fe de tales hechos.
 
 ###### Artículo 317.
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 318.
 
-El menor o la persona con incapacidad que haya sido adoptado, podrá impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que haya desaparecido la incapacidad.
+La persona que haya sido adoptada, podrá impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que haya desaparecido la incapacidad. En el caso de personas mayores de edad, la impugnación podrá realizarse en cualquier tiempo.
 
 ###### Artículo 319.
 
@@ -2265,17 +2355,27 @@ IV. El Ministerio Público del lugar del domicilio del adoptado, cuando éste no
 
 V. Las instituciones de asistencia social, públicas o privadas, que hubieren acogido al menor o al incapacitado que se pretenda adoptar.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+El consentimiento podrá ser otorgado ante la Procuraduría de Protección de Niñas, Niños y Adolescentes o ante el juez, previa identificación fehaciente de quien deba otorgarlo, mismo que surtirá todos sus efectos legales a partir de ese momento.
+
 ###### Artículo 322.
 
 Si la persona que se va a adoptar tiene más de doce años, también se necesita su consentimiento para la adopción. En el caso de las personas incapaces, será necesario su consentimiento, cuando fuese posible la expresión indubitable de su voluntad.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Los menores de doce años tendrán derecho a ser escuchados durante cualquier momento del procedimiento y hasta antes de que se dicte la resolución respectiva.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 323.
 
-Si el tutor o el Ministerio Público, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el Presidente Municipal del lugar en que resida el incapacitado, cuando encontrare que la adopción es notoriamente conveniente para los intereses morales y materiales de éste.
+Si el tutor o el Ministerio Público, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el Presidente Municipal mediante el Sistema Municipal para el Desarrollo Integral de la Familia del lugar en que resida el incapacitado, cuando encontrare que la adopción es notoriamente conveniente para los intereses morales y materiales de éste.
 
 ###### Artículo 324.
 
-El procedimiento para hacer la adopción será fijado en el Código de Procedimientos Familiares del Estado de Sinaloa.
+(DEROGADO, P.O. 11 DE AGOSTO DE 2023)
 
 ###### Artículo 325.
 
@@ -2311,9 +2411,11 @@ I. Para efectos de impedimentos para contraer matrimonio; y,
 
 II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuera persona menor de edad se requerirá petición de su representante legal.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 332.
 
-También pueden adoptar las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz.
+También pueden adoptar las personas que tengan vínculo de parentesco consanguíneo o por afinidad, con el menor o incapaz.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -2345,7 +2447,9 @@ III. Se trate de niñas, niños o adolescentes expósitos o abandonados por más
 
 Por custodia familiar preadoptiva se entiende al período previo de convivencia del menor de edad con su previsible familia adoptiva, con el fin de que el niño, viva lo más pronto posible en un ambiente familiar y, para comprobar que las relaciones que se establezcan entre ellos, pronostiquen un buen desarrollo de los lazos familiares.
 
-Lo mismo se aplicará en cuanto a las personas acogidas por un matrimonio o concubinato.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Lo mismo se aplicará en cuanto a las personas acogidas por un matrimonio o concubinato, o para cualquier persona que pretenda adoptar al menor, incapaz o adulto mayor.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2023)</small>
 
@@ -2431,7 +2535,13 @@ La patria potestad se ejerce sobre la persona y bienes de los hijos. Su ejercici
 
 La patria potestad sobre los hijos se ejerce por los padres. Cuando por cualquier circunstancia deje de ejercerla alguno de ellos, corresponderá su ejercicio al otro.
 
-A falta de ambos padres o por cualquier otra circunstancia prevista en este Código, ejercerán la patria potestad sobre los menores, los ascendientes en segundo grado en el orden que determine el juez de lo Familiar, tomando en cuenta las circunstancias del caso.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 11 DE AGOSTO DE 2023)</small>
+
+En el caso de menores que se encuentren a disposición de la Procuraduría de Protección de Niñas, Niños y Adolescentes y que después de treinta días no haya sido posible reincorporarlos a su seno familiar con sus padres, los abuelos podrán ejercer los derechos y obligaciones derivados de la patria potestad y Guarda y Custodia, de conformidad a lo que decida el Juez de lo Familiar en concordancia con el respeto al interés superior del niño, niña o adolescente.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Cuando se ignore el domicilio o su lugar de residencia, deberán ser llamados mediante edictos, mismos que serán publicados por única ocasión en el Periódico Oficial del Estado, así como en uno de los diarios de mayor circulación de la localidad, con la finalidad de que las personas interesadas acudan en un plazo de quince días hábiles contados a partir de la última publicación a ejercer su derecho, en caso contrario, se procederá conforme a derecho.
 
 ###### Artículo 351.
 
@@ -2452,6 +2562,18 @@ Mientras se plantea y decide judicialmente, la asignación de la patria potestad
 Los que ejercen la patria potestad, aún cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos.
 
 No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición, a petición de cualquiera de ellos, el juez resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+En el caso de que el progenitor que ejerza la guarda y custodia del menor, impida de manera reiterada la realización del derecho de visitas de convivencia, sin que para ello exista un impedimento legal, o causa grave que lo justifique, el Juez atendiendo las circunstancias particulares del caso, podrá decretar el cambio de la guarda y custodia al otro progenitor, cuidando en todo momento preservar el interés superior de la niña, niño o adolescente.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+En todo momento deberá escucharse a las niñas, niños y adolescentes, de conformidad con el grado de su madurez y entendimiento de la situación que se presenta, en relación al tiempo, forma y modo, para que ellos consideren cómo dicho cambio les beneficiará progresivamente de manera emocional.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Quienes ejerzan la patria potestad y la guarda y custodia, acordarán sobre el nuevo régimen de visitas y convivencias, entre la persona menor y el otro progenitor.
 
 ###### Artículo 355.
 
@@ -2569,11 +2691,21 @@ El derecho de usufructo concedido a las personas que ejercen la patria potestad,
 
 I. (DEROGADA, P.O. 19 DE AGOSTO DE 2016)
 
-II. Por la mayoría edad de los descendientes;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
 
-III. Por la pérdida de la patria potestad; y,
+II. Por la mayor edad de los descendientes;
 
-IV. Por renuncia.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+III. Por la pérdida de la patria potestad;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+IV. Por renuncia; y,
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+V. Por la resolución judicial que determine la revocación de la adopción.
 
 ###### Artículo 375.
 
@@ -2631,9 +2763,17 @@ VII. Cuando se incumpla con el deber irrenunciable de otorgar alimentos a los hi
 
 VIII. En los casos que por ministerio de ley un menor de edad que por dos o más ocasiones haya tenido que ser ingresado nuevamente al Sistema Estatal para el Desarrollo Integral de la Familia, por la comisión de un hecho delictivo cometido en su agravio por quien ejerce la patria potestad, existiendo compromiso debidamente ratificado de no reincidir en dicha conducta;
 
-IX. Cuando haya dependencia por alcohol, estupefacientes o psicotrópicos u otras formas graves de fármaco-dependencia y se rehúse al tratamiento, comprometiendo la salud, la seguridad o la integridad de los menores de edad; y,
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
 
-X. Cuando el que la ejerza padezca alguna afección originada por enfermedad o deficiencia persistente de carácter psiquiátrico, probado por personal calificado y se rehúse al tratamiento, comprometiendo la salud y el adecuado desarrollo del menor.
+IX. Cuando haya dependencia por alcohol, estupefacientes o psicotrópicos u otras formas graves de fármaco-dependencia y se rehúse al tratamiento, comprometiendo la salud, la seguridad o la integridad de las niñas, niños y adolescentes;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE AGOSTO DE 2023)</small>
+
+X. Cuando el que la ejerza padezca alguna afección originada por enfermedad o deficiencia persistente de carácter psiquiátrico, probado por personal calificado y se rehúse al tratamiento, comprometiendo la salud y el adecuado desarrollo del menor; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE AGOSTO DE 2023)</small>
+
+XI. Cuando el que la ejerza prive al menor de edad de cualquier tipo de supervisión o atención indispensable para su desarrollo integral.
 
 Acreditada la pérdida de la patria potestad respecto de un menor de edad, el juez en la misma sentencia, deberá tomar las medidas preventivas respecto de los demás menores de edad sobre los cuales se continúe ejerciendo la misma.
 
@@ -2655,11 +2795,21 @@ El nuevo cónyuge no ejercerá la patria potestad sobre los hijos del matrimonio
 
 La patria potestad se suspende:
 
-I. Por incapacidad declarada judicialmente;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
 
-II. Por la ausencia declarada en forma; y,
+I. Por discapacidad declarada judicialmente;
 
-III. Por sentencia condenatoria que imponga como pena esta suspensión.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE AGOSTO DE 2023)</small>
+
+II. Por la ausencia declarada en forma;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE AGOSTO DE 2023)</small>
+
+III. Por sentencia condenatoria que imponga como pena esta suspensión; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE AGOSTO DE 2023)</small>
+
+IV. Por impedir que se cumpla adecuadamente con el régimen de visitas y convivencias que haya sido decretado por la autoridad competente o en el convenio celebrado y aprobado judicialmente.
 
 ###### Artículo 385.
 
@@ -2751,11 +2901,19 @@ Deberá asegurarse el ejercicio y disfrute pacifico de la protección del derech
 
 En caso de conflicto de leyes, cuando el menor se encontrare en otra entidad federativa o en el extranjero, se le aplicará la Ley más favorable, teniendo en cuenta el interés superior del niño.
 
-### Capítulo I. Disposiciones Generales
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+### Capítulo IV BIS. De la Restitución de la Patria Potestad, Cuidado, Guarda y Custodia
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+###### Artículo 393 Bis.
+
+En los casos de pérdida de patria potestad, cuidado, guarda y custodia de las niñas, niños y adolescentes, el progenitor que desee recuperarla podrá solicitar al juez, una vez transcurridos 365 días a partir del día en que causó ejecutoria la resolución que lo privo de ese derecho, para que realice una revaloración de su situación actual, a efecto de que se evalué la posibilidad de que ostente nuevamente la capacidad de ejercer satisfactoriamente estos derechos.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LA TUTELA
 
-### Capítulo II. De la Tutela Testamentaria
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 394.
 
@@ -2825,7 +2983,9 @@ Si al cumplirse esta continuare el impedimento, el incapaz se sujetará a nueva 
 
 Los hijos menores de edad de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
 
-El cargo de tutor para las personas referidas en la fracción II del artículo 395 de este Código, durará el tiempo que subsista la interdicción cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligación de desempeñar ese cargo mientras tiene tal calidad de cónyuge. Los extraños que desempeñen la tutela de que se trata tienen derecho a que se les releve de ella a los diez años de ejercerla.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+El cargo de tutor para las personas referidas en la fracción II del artículo 395 de este Código, durará el tiempo que subsista la interdicción cuando sea ejercido por los descendientes o por los ascendientes. El cónyuge o concubino tendrá la obligación de desempeñar ese cargo mientras ostente tal calidad. Los terceros que desempeñen la tutela de que se trata tienen derecho a que se les releve de ella a los diez años de ejercerla.
 
 Esta interdicción no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
 
@@ -2835,7 +2995,7 @@ El juez de primera instancia del domicilio del incapacitado, y si no lo hubiere,
 
 El juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
-### Capítulo III. De la Tutela Legítima de los Menores de Edad
+### Capítulo II. De la Tutela Testamentaria
 
 ###### Artículo 405.
 
@@ -2879,7 +3039,7 @@ Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare t
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo.
 
-### Capítulo IV. De la Tutela Legítima de los Mayores de Edad Incapacitados
+### Capítulo III. De la Tutela Legítima de los Menores de Edad
 
 ###### Artículo 412.
 
@@ -2903,7 +3063,7 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en esta ley.
 
-### Capítulo V. De la Tutela Legítima de los Menores Abandonados y de las Acogidos (sic) por Alguna Persona, o Depositados en Establecimientos de Beneficencia
+### Capítulo IV. De la Tutela Legítima de los Mayores de Edad Incapacitados
 
 ###### Artículo 415.
 
@@ -2923,7 +3083,7 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor del incapacitado que tenga hijos menores de edad bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-### Capítulo VI. De la Tutela Dativa
+### Capítulo V. De la Tutela Legítima de los Menores Abandonados y de las Acogidos (sic) por Alguna Persona, o Depositados en Establecimientos de Beneficencia
 
 ###### Artículo 418.
 
@@ -2941,9 +3101,7 @@ Los responsables de las casas de asistencia, ya sean públicas o privadas, al re
 
 Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de la violencia familiar a que se refiere el artículo 232 de este Código, tendrán la custodia de estos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
 
-### Capítulo VII
-
-De los Impedimentos y la Separación en el Desempeño de la Tutela.
+### Capítulo VI. De la Tutela Dativa
 
 ###### Artículo 420.
 
@@ -2995,7 +3153,9 @@ Los jueces nombrarán de entre las personas mencionadas, las que en cada caso de
 
 Si el menor de edad que se encuentre en el caso previsto por el artículo 423 de este Código, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
 
-### Capítulo VIII. De las Excusas para el Desempeño de la Tutela
+### Capítulo VII
+
+De los Impedimentos y la Separación en el Desempeño de la Tutela.
 
 ###### Artículo 426.
 
@@ -3059,7 +3219,7 @@ En este caso, se proveerá a la tutela conforme a la ley.
 
 Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguirse la condena, siempre que la pena impuesta no exceda de un año de prisión.
 
-### Capítulo IX. De la Garantía que Deben Prestar los Tutores para Asegurar su Manejo
+### Capítulo VIII. De las Excusas para el Desempeño de la Tutela
 
 ###### Artículo 431.
 
@@ -3101,7 +3261,7 @@ El tutor que sin excusa o desechada la que hubiere propuesto no desempeñe la tu
 
 Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
 
-### Capítulo X. Del Desempeño de la Tutela
+### Capítulo IX. De la Garantía que Deben Prestar los Tutores para Asegurar su Manejo
 
 ###### Artículo 435.
 
@@ -3183,7 +3343,7 @@ Esta información también podrán promoverla en cualquier tiempo que lo estimen
 
 Es también obligación del curador y del Consejo Local de Tutelas, vigilar el estado de las fincas hipotecadas por el tutor o de los bienes entregados en prenda, dando aviso al juez de los deterioros y menoscabo que en ellos hubiere, para que si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
 
-### Capítulo XI. De las Cuentas de la Tutela
+### Capítulo X. Del Desempeño de la Tutela
 
 ###### Artículo 446.
 
@@ -3381,7 +3541,7 @@ Para que pueda hacerse en la retribución de los tutores el aumento extraordinar
 
 El tutor no tendrá derecho a remuneración alguna, y restituirá lo que por este título hubiere recibido, si contraviniere lo dispuesto en el artículo 59 de este Código.
 
-### Capítulo XII. De la Extinción de la Tutela
+### Capítulo XI. De las Cuentas de la Tutela
 
 ###### Artículo 478.
 
@@ -3441,7 +3601,7 @@ La garantía dada por el tutor no se cancelará sino cuando las cuentas hayan si
 
 Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo mayor de edad, relativo a la administración de la tutela o a las cuentas mismas.
 
-### Capítulo XIII. De la Entrega de los Bienes
+### Capítulo XII. De la Extinción de la Tutela
 
 ###### Artículo 489.
 
@@ -3451,7 +3611,7 @@ I. Por la muerte del pupilo o porque desaparezca su incapacidad; y,
 
 II. Cuando el incapacitado sujeto a tutela entre a la patria potestad por reconocimiento o por adopción.
 
-### Capítulo XIV. Del Curador
+### Capítulo XIII. De la Entrega de los Bienes
 
 ###### Artículo 490.
 
@@ -3489,7 +3649,7 @@ Todas las acciones por hechos relativos a la administración de la tutela, que e
 
 Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los plazos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
 
-### Capítulo XV. De los Consejos Locales de Tutelas y de los Jueces de Primera Instancia
+### Capítulo XIV. Del Curador
 
 ###### Artículo 497.
 
@@ -3537,7 +3697,7 @@ El Curador tiene derecho a ser relevado de la curaduría, pasados diez años des
 
 En los casos en que conforme a este Código tenga que intervenir el curador; cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo, se le pagarán.
 
-### Capítulo I. Del Estado de Interdicción
+### Capítulo XV. De los Consejos Locales de Tutelas y de los Jueces de Primera Instancia
 
 ###### Artículo 502.
 
@@ -3573,7 +3733,7 @@ Mientras que se nombre tutor, el juez debe dictar las medidas necesarias para qu
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LA INTERDICCIÓN
 
-### Capítulo II. De la Mayoría de Edad
+### Capítulo I. Del Estado de Interdicción
 
 ###### Artículo 506.
 
@@ -3603,7 +3763,7 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2016)</small>
 
-### Capítulo I. De las Medidas Provisionales
+### Capítulo II. De la Mayoría de Edad
 
 ###### Artículo 512.
 
@@ -3627,7 +3787,7 @@ La mayoría de edad se adquiere a los dieciocho años cumplidos. El mayor de eda
 
 ## TÍTULO DÉCIMO TERCERO. DE LA AUSENCIA Y PRESUNCIÓN DE MUERTE
 
-### Capítulo II. De la Declaración de Ausencia
+### Capítulo I. De las Medidas Provisionales
 
 ###### Artículo 517.
 
@@ -3725,7 +3885,7 @@ El representante está obligado a promover la publicación de los edictos. La fa
 
 El representante del ausente disfrutará la misma retribución que a los tutores señalan los artículos 475, 476 y 477 de este Código.
 
-### Capítulo III. De los Efectos de la Declaración de Ausencia
+### Capítulo II. De la Declaración de Ausencia
 
 ###### Artículo 536.
 
@@ -3775,7 +3935,7 @@ Pasados tres meses desde la fecha de la última publicación, si no hubiere noti
 
 La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está previsto respecto a los edictos. Ambas publicaciones se repetirán cada año, hasta que se declare la presunción de muerte.
 
-### Capítulo IV. De la Administración de los Bienes del Ausente Casado
+### Capítulo III. De los Efectos de la Declaración de Ausencia
 
 ###### Artículo 545.
 
@@ -3839,9 +3999,7 @@ Muerto el que haya obtenido la posesión provisional, le sucederán sus heredero
 
 Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos que hayan hecho producir a esos bienes y la mitad de los frutos naturales y civiles.
 
-### Capítulo V. De la Presunción de Muerte del Ausente
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+### Capítulo IV. De la Administración de los Bienes del Ausente Casado
 
 ###### Artículo 554.
 
@@ -3871,7 +4029,9 @@ Si el cónyuge presente no fuere heredero, ni tuviere bienes propios, tendrá de
 
 Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
 
-### Capítulo VI. Efectos de la Ausencia Respecto de los Derechos Eventuales del Ausente
+### Capítulo V. De la Presunción de Muerte del Ausente
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 561.
 
@@ -3923,7 +4083,7 @@ En el caso de la fracción II del artículo anterior los poseedores definitivos 
 
 La sentencia que declare la presunción de muerte de un ausente casado, pone término a la sociedad conyugal, y surte los mismos efectos de los artículos 559 y 560 de este Código.
 
-### Capítulo I. Del Patrimonio Familiar
+### Capítulo VI. Efectos de la Ausencia Respecto de los Derechos Eventuales del Ausente
 
 ###### Artículo 570.
 
@@ -3961,7 +4121,7 @@ El Ministerio Público velará por los intereses del ausente, será oído en tod
 
 ## TÍTULO PRIMERO. DE LA FAMILIA Y SU PATRIMONIO
 
-### Capítulo II. Disminución de los Bienes de la Familia
+### Capítulo I. Del Patrimonio Familiar
 
 ###### Artículo 578.
 
@@ -4093,23 +4253,7 @@ Constituido el patrimonio familiar, los cónyuges, concubinos y las personas a q
 
 Aún cuando fallezca el autor del patrimonio de la familia, éste no podrá liquidarse a nadie en particular, persistiendo en tanto subsistan hijos menores de edad, incapacitados o el cónyuge supérstite no contraiga matrimonio, esté impedido para trabajar y no tenga bienes suficientes.
 
-### Capítulo III. Extinción del Patrimonio de Familia
-
-Artículo 598 El patrimonio de familia se extingue:
-
-I. Cuando todos los beneficiarios dejen de tener derecho a percibir alimentos;
-
-II. Cuando sin causa justificada, la familia deje de habitar por un año la casa que debe servirle de morada, o de explotar por su cuenta y por dos años consecutivos
-
-III. Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido;
-
-IV. Cuando por causa de utilidad pública se expropien los bienes que lo forman; y,
-
-V. Cuando tratándose del patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 591, se declare judicialmente nula o rescindida la venta de esos bienes.
-
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
-
-Aun cuando fallezca el autor del patrimonio de la familia, éste no podrá liquidarse, hasta en tanto subsistan los menores incapacitados, cónyuge sobreviviente o concubina en su caso, y no tengan bienes suficientes.
+### Capítulo II. Disminución de los Bienes de la Familia
 
 ###### Artículo 595.
 
@@ -4129,7 +4273,23 @@ Siempre será oída la Procuraduría de Protección de Niñas, Niños y Adolesce
 
 Las anotaciones en el Registro Público concernientes al patrimonio de familia, serán hechas sin costo alguno para los interesados.
 
-### Capítulo Único. Disposiciones Preliminares
+### Capítulo III. Extinción del Patrimonio de Familia
+
+Artículo 598 El patrimonio de familia se extingue:
+
+I. Cuando todos los beneficiarios dejen de tener derecho a percibir alimentos;
+
+II. Cuando sin causa justificada, la familia deje de habitar por un año la casa que debe servirle de morada, o de explotar por su cuenta y por dos años consecutivos
+
+III. Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido;
+
+IV. Cuando por causa de utilidad pública se expropien los bienes que lo forman; y,
+
+V. Cuando tratándose del patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 591, se declare judicialmente nula o rescindida la venta de esos bienes.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
+Aun cuando fallezca el autor del patrimonio de la familia, éste no podrá liquidarse, hasta en tanto subsistan los menores incapacitados, cónyuge sobreviviente o concubina en su caso, y no tengan bienes suficientes.
 
 ###### Artículo 599.
 
@@ -4149,7 +4309,7 @@ En los casos de suma necesidad o de evidente utilidad, puede el juez autorizar a
 
 ## TÍTULO SEGUNDO. DE LAS SUCESIONES
 
-### Capítulo I. De los Testamentos en General
+### Capítulo Único. Disposiciones Preliminares
 
 ###### Artículo 601.
 
@@ -4209,7 +4369,7 @@ El derecho concedido en el artículo 612 de este Código, cesa si la enajenació
 
 ## TÍTULO TERCERO. DE LA SUCESIÓN POR TESTAMENTO
 
-### Capítulo II. De la Capacidad para Testar
+### Capítulo I. De los Testamentos en General
 
 ###### Artículo 615.
 
@@ -4255,7 +4415,7 @@ Si un testamento se pierde por un evento ignorado por el testador, o por haber s
 
 La expresión de una causa contraria a derecho, aunque sea verdadera, se tendrá por no escrita.
 
-### Capítulo III. De la Capacidad para Heredar
+### Capítulo II. De la Capacidad para Testar
 
 ###### Artículo 626.
 
@@ -4293,7 +4453,7 @@ Firmarán el acta, además del Notario Público y de los testigos que intervinie
 
 Para juzgar la capacidad del testador se atenderá especialmente al estado en que se halle al hacer testamento.
 
-### Capítulo IV. De las Condiciones que Pueden Ponerse en los Testamentos
+### Capítulo III. De la Capacidad para Heredar
 
 ###### Artículo 634.
 
@@ -4339,15 +4499,17 @@ VII. Los parientes o concubinos del autor de la herencia que, hallándose éste 
 
 VIII. El que usare violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
 
-IX. El que conforme al Código Penal vigente, fuere culpable de delitos contra el estado familiar del infante, siempre que se trate de la herencia que debió corresponder a éste o a las personas a quienes se haya perjudicado o intentare perjudicar con esos actos; y,
+IX. El que conforme al Código Penal vigente, fuere culpable de delitos contra el estado familiar del infante, siempre que se trate de la herencia que debió corresponder a éste o a las personas a quienes se haya perjudicado o intentare perjudicar con esos actos;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
 
-X. El cónyuge del autor de la sucesión, que teniendo el deber de darle alimentos, no la hubiera satisfecho.
+X. El cónyuge del autor de la sucesión, que teniendo el deber de darle alimentos, no la hubiera realizado; y
 
-XI. (DEROGADA, P.O. 16 DE AGOSTO DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2023)</small>
+
+XI. El que hubiere producido en perjuicio del autor de la sucesión, siendo éste una persona adulta mayor, acciones u omisiones que hayan causado algún menoscabo en la dignidad de su persona, daño o sufrimiento físico, psicológico, emocional, patrimonial, sexual, o contra la vida, o que pusiera en riesgo inminente la integridad de sus bienes; así como cualquier otra conducta que constituya actos discriminativos, de abuso, abandono, desamparo, aislamiento, explotación de cualquier tipo o indefensión.
 
 ###### Artículo 638.
 
@@ -4461,7 +4623,7 @@ No puede deducirse acción para declarar la incapacidad, pasados dos años desde
 
 Si el que entró en posesión de la herencia y la pierde después por incapacidad, hubiere enajenado o gravado todo o parte de los bienes antes de ser emplazado en el juicio en que se discuta su incapacidad, y aquél con quien contrató hubiere tenido buena fe, el contrato subsistirá; más el heredero incapaz estará obligado a indemnizar al legítimo, de todos los daños y perjuicios.
 
-### Capítulo V. De los Bienes de que se Pueden Disponer por Testamento y de los Testamentos Inoficiosos
+### Capítulo IV. De las Condiciones que Pueden Ponerse en los Testamentos
 
 ###### Artículo 666.
 
@@ -4559,7 +4721,7 @@ Cuando el legado debe concluir en un día que es seguro que ha de llegar, se ent
 
 Si el legado consistiere en prestación periódica, el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
 
-### Capítulo VI. De la Institución del Heredero
+### Capítulo V. De los Bienes de que se Pueden Disponer por Testamento y de los Testamentos Inoficiosos
 
 ###### Artículo 690.
 
@@ -4623,7 +4785,7 @@ La pensión alimenticia es carga de la masa hereditaria, excepto cuando el testa
 
 No obstante lo dispuesto en el artículo 697 de este Código, el póstumo tendrá derecho a percibir íntegra la porción que le correspondería como heredero legítimo si no hubiera testamento, a menos que el testador hubiere dispuesto expresamente otra cosa.
 
-### Capítulo VII. De los Legados
+### Capítulo VI. De la Institución del Heredero
 
 ###### Artículo 700.
 
@@ -4677,7 +4839,7 @@ Si entre varias personas del mismo nombre o circunstancias no pudiere saberse a 
 
 Toda disposición en favor de personas inciertas o sobre cosa que no pueda identificarse será nula, a menos que por algún evento puedan resultar ciertas.
 
-### Capítulo VIII. De las Substituciones
+### Capítulo VII. De los Legados
 
 ###### Artículo 713.
 
@@ -5017,7 +5179,7 @@ Sólo duran veinte años los legados de que trata el artículo anterior, si fuer
 
 Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
 
-### Capítulo IX. De la Nulidad, Revocación y Caducidad de los Testamentos
+### Capítulo VIII. De las Substituciones
 
 ###### Artículo 795.
 
@@ -5065,7 +5227,7 @@ Si la carga se impusiere sobre bienes inmuebles y fuere temporal el heredero o h
 
 La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente y con audiencia de los interesados y del Ministerio Público.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo IX. De la Nulidad, Revocación y Caducidad de los Testamentos
 
 ###### Artículo 806.
 
@@ -5131,7 +5293,7 @@ La disposición testamentaria que contenga condición de suceso pasado o present
 
 ## TÍTULO CUARTO. DE LA FORMA DE LOS TESTAMENTOS
 
-### Capítulo II. Del Testamento Público Abierto
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 820.
 
@@ -5215,7 +5377,7 @@ Lo dispuesto en el artículo que precede, se observará también por cualquiera 
 
 Si los interesados están ausentes o son desconocidos, la noticia se dará al juez.
 
-### Capítulo III. Del Testamento Público Cerrado
+### Capítulo II. Del Testamento Público Abierto
 
 ###### Artículo 832.
 
@@ -5273,7 +5435,7 @@ Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto
 
 En tratándose de la hora, sólo será causa de la suspensión temporal de su ejercicio, cuando exista otro testamento otorgado por la misma persona en el mismo día, mes y año.
 
-### Capítulo IV. Del Testamento Público Simplificado
+### Capítulo III. Del Testamento Público Cerrado
 
 ###### Artículo 841.
 
@@ -5393,7 +5555,7 @@ El testamento cerrado quedará sin efecto siempre que se encuentre roto el plieg
 
 Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 828 y 829 de este Código ó lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que corresponda conforme a este Código y al Código Penal vigente.
 
-### Capítulo V. Del Testamento Ológrafo
+### Capítulo IV. Del Testamento Público Simplificado
 
 ###### Artículo 870.
 
@@ -5413,7 +5575,7 @@ V. Los legatarios podrán reclamar directamente la entrega del inmueble y no le 
 
 VI. Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del Código de Procedimientos Familiares del Estado de Sinaloa.
 
-### Capítulo VI. Del Testamento Privado
+### Capítulo V. Del Testamento Ológrafo
 
 ###### Artículo 871.
 
@@ -5481,13 +5643,15 @@ El testamento ológrafo quedará sin efecto cuando el original o el duplicado, e
 
 El encargado del Registro Público de la Propiedad no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se lo pidan.
 
-### Capítulo VII. Del Testamento Militar
+### Capítulo VI. Del Testamento Privado
 
 ###### Artículo 886.
 
 El Testamento Privado está permitido en los casos siguientes:
 
-I. Cuando el testador es atacado de una enfermedad tan violenta y grave que no dé tiempo para que concurra el Notario Público a hacer el testamento;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+I. Cuando el testador es atacado de una enfermedad tan violenta y grave que no dé tiempo para que concurra el Notario Público a hacer el testamento; o que derivado de su estado de salud quede vulnerable ante las contingencias sanitarias que se presenten y que sean declaradas por las autoridades competentes;
 
 II. Cuando en la población no haya Notario Público o alguna otra autoridad que conforme a la ley pueda actuar por receptoría;
 
@@ -5563,7 +5727,7 @@ Lo dispuesto en el artículo 897 se observará también en el caso de ausencia d
 
 Sabiendo el lugar donde se hallan los testigos, serán examinados por exhorto.
 
-### Capítulo VIII. Del Testamento Marítimo
+### Capítulo VII. Del Testamento Militar
 
 ###### Artículo 900.
 
@@ -5581,7 +5745,7 @@ Los testamentos otorgados por escrito, conforme a este capítulo deberán ser en
 
 Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él, desde luego, al jefe de la corporación quien dará parte en el acto a la Secretaría de la Defensa Nacional, y éste a la autoridad judicial competente, a fin de que proceda teniendo en cuenta lo dispuesto en los artículos 891 al 899 de este Código.
 
-### Capítulo IX. Del Testamento Hecho en País Extranjero o Fuera del Estado
+### Capítulo VIII. Del Testamento Marítimo
 
 ###### Artículo 904.
 
@@ -5591,7 +5755,7 @@ Los que se encuentren en alta mar, a bordo de navíos de la Marina Nacional, sea
 
 Los agentes diplomáticos, cónsules o las autoridades marítimas, levantarán, luego que reciban los ejemplares del testamento, un acta de la entrega y la remitirán con los citados ejemplares, a la brevedad posible a la Secretaría de Relaciones Exteriores, la cual a su vez la enviará al Gobierno del Estado, el cual hará publicar en el Periódico Oficial “El Estado de Sinaloa” la noticia de la muerte del testador, para que los interesados promuevan la apertura del testamento.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo IX. Del Testamento Hecho en País Extranjero o Fuera del Estado
 
 ###### Artículo 906.
 
@@ -5603,7 +5767,7 @@ Los funcionarios mencionados en el artículo anterior, remitirán copia autoriza
 
 ## TÍTULO QUINTO. DE LA SUCESIÓN LEGÍTIMA
 
-### Capítulo II. De la Sucesión de los Descendientes
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 908.
 
@@ -5649,7 +5813,7 @@ Los parientes que se hallaren en el mismo grado, heredarán en partes iguales. S
 
 Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Título Quinto del Libro Primero de este Código.
 
-### Capítulo III. De la Sucesión de los Cónyuges
+### Capítulo II. De la Sucesión de los Descendientes
 
 ###### Artículo 916.
 
@@ -5675,9 +5839,7 @@ Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, 
 
 Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
 
-### Capítulo IV. De la Sucesión de los Concubinos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
+### Capítulo III. De la Sucesión de los Cónyuges
 
 ###### Artículo 922.
 
@@ -5703,7 +5865,9 @@ El cónyuge recibirá las porciones que le correspondan conforme a los dos artí
 
 A falta de hijos y de ascendientes el cónyuge o concubino sucede en todos los bienes, con exclusión de los demás parientes del autor de la herencia.
 
-### Capítulo V. De la Sucesión de los Ascendientes
+### Capítulo IV. De la Sucesión de los Concubinos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 928.
 
@@ -5725,7 +5889,7 @@ En los casos a que se refieren las fracciones I y IV, debe observarse lo dispues
 
 Quien haya vivido con el autor de la herencia públicamente como cónyuge, sin impedimentos legales para casarse y si la vida en común duró más de dos años, o por lo menos procrearon un hijo durante dicha convivencia, y si durante esa situación falleció el autor de la herencia, heredará como el cónyuge.
 
-### Capítulo VI. La Sucesión de los Parientes Colaterales
+### Capítulo V. De la Sucesión de los Ascendientes
 
 ###### Artículo 930.
 
@@ -5751,9 +5915,7 @@ Los miembros de cada línea dividirán entre sí por partes iguales la porción 
 
 Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento; ni el que reconoce ni sus descendientes tienen derecho a la herencia del reconocido. El reconocedor tiene derecho a alimentos, en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibir alimentos.
 
-### Capítulo VII
-
-De la Sucesión a la Beneficencia Pública.
+### Capítulo VI. La Sucesión de los Parientes Colaterales
 
 ###### Artículo 936.
 
@@ -5771,7 +5933,9 @@ A falta de hermanos, sucederán sus hijos, dividiéndose la herencia por estirpe
 
 A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del cuarto grado, sin distinción de línea ni consideración al doble vínculo, y heredarán por partes iguales.
 
-### Capítulo I. De las Precauciones que Deben Adoptarse Cuando la Viuda Quede Encinta
+### Capítulo VII
+
+De la Sucesión a la Beneficencia Pública.
 
 ###### Artículo 940.
 
@@ -5783,7 +5947,7 @@ La beneficencia pública, que sea heredera de bienes que no pueda adquirir confo
 
 ## TÍTULO SEXTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIAS Y LEGÍTIMAS
 
-### Capítulo II. De la Apertura y Transmisión de la Herencia
+### Capítulo I. De las Precauciones que Deben Adoptarse Cuando la Viuda Quede Encinta
 
 ###### Artículo 942.
 
@@ -5829,7 +5993,7 @@ Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en 
 
 La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez; más los acreedores podrán ser pagados por mandato judicial.
 
-### Capítulo III. De la Aceptación y de la Repudiación de la Herencia
+### Capítulo II. De la Apertura y Transmisión de la Herencia
 
 ###### Artículo 953.
 
@@ -5847,7 +6011,7 @@ Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere
 
 El derecho de reclamar la herencia prescribe en diez años contados a partir del día en que se dé posesión de los bienes al albacea en el juicio sucesorio correspondiente, salvo los casos de que al interesado en el juicio sucesorio respectivo, se le hubieren dejado a salvo sus derechos y en cuyo caso empezará a contar a partir del día siguiente en que quede firme tal proveído. Este derecho será transmisible a los herederos.
 
-### Capítulo IV. De los Albaceas
+### Capítulo III. De la Aceptación y de la Repudiación de la Herencia
 
 ###### Artículo 957.
 
@@ -5955,7 +6119,7 @@ El que a instancias de un legatario o acreedor hereditario, haya sido declarado 
 
 La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos, porque toda herencia se entiende aceptada a beneficio del inventario, aunque no se exprese.
 
-### Capítulo V. Del Inventario y de la Liquidación de la Herencia
+### Capítulo IV. De los Albaceas
 
 ###### Artículo 983.
 
@@ -6307,7 +6471,7 @@ Si la revocación se hace sin causa justificada, el albacea removido tiene el de
 
 La remoción no tendrá lugar sino por sentencia pronunciada en el incidente respectivo, promovido por parte legítima.
 
-### Capítulo VI. De la Partición
+### Capítulo V. Del Inventario y de la Liquidación de la Herencia
 
 ###### Artículo 1052.
 
@@ -6377,7 +6541,7 @@ La venta de bienes hereditarios para el pago de deudas y legados, se hará en p�
 
 La mayoría de los interesados o la autorización judicial en su caso, determinarán la aplicación que haya de darse al precio de las cosas vendidas.
 
-### Capítulo VII. De los Efectos de la Partición
+### Capítulo VI. De la Partición
 
 ###### Artículo 1069.
 
@@ -6431,7 +6595,7 @@ La partición constará en escritura pública, siempre que en la herencia haya b
 
 Los gastos de la partición se rebajarán del fondo común; los que se hagan por el interés particular de algunos herederos o legatarios, se imputarán a su haber.
 
-### Capítulo VIII. De la Rescisión y Nulidad de las Particiones
+### Capítulo VII. De los Efectos de la Partición
 
 ###### Artículo 1081.
 
@@ -6475,7 +6639,7 @@ Por los créditos incobrables no hay responsabilidad.
 
 El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho a pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
 
-### Capítulo I. Del Estado Familiar
+### Capítulo VIII. De la Rescisión y Nulidad de las Particiones
 
 ###### Artículo 1090.
 
@@ -6497,7 +6661,7 @@ Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### Capítulo II. De los Formatos del Registro Civil
+### Capítulo I. Del Estado Familiar
 
 ###### Artículo 1094.
 
@@ -6527,9 +6691,7 @@ El Registro Civil es una institución de orden público y de interés social por
 
 En el Estado, la prestación del servicio del Registro Civil, así como la dirección y control del mismo, estará a cargo del Ejecutivo Estatal, a través de la Secretaría General de Gobierno, misma que para cumplir con esta atribución contará con una Dirección del Registro Civil, los departamentos y las Oficialías del Registro Civil que acuerde el Ejecutivo Estatal, quienes ejercerán las atribuciones que este Código, las leyes y los reglamentos les conceden, y tendrán fe pública en el desempeño de las labores propias de su cargo.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
-
-El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos, en el que se inscribirá a las personas que hayan dejado de cumplir con la obligación alimentaria a que se refiere el segundo párrafo del artículo 223 del presente Código.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
 
 Las Oficialías del Registro Civil estarán a cargo de servidores públicos denominados Oficiales del Registro Civil.
 
@@ -6543,7 +6705,7 @@ Los oficiales del registro civil autorizarán los actos del estado familiar y ex
 
 Asimismo podrán hacer la anotación en el Registro de Deudores Alimentarios Morosos a que se refiere el tercer párrafo del artículo 223 y extender la constancia que informe si quien la solicita se encuentra inscrito o no en el Registro como deudor alimentario moroso o deudor alimentario sin adeudo de pagos, según corresponda.
 
-### Capítulo III. De los Efectos de los Actos y Actas del Registro Civil
+### Capítulo II. De los Formatos del Registro Civil
 
 ###### Artículo 1098.
 
@@ -6643,7 +6805,7 @@ Por firma electrónica se entenderá la forma que se utilice como forma de auten
 
 Los actos y actas del estado familiar con relación a titulares del registro civil relativas a su pareja matrimonial, concubinal y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo oficial registrador, pero se asentarán en las formas correspondientes y se autorizarán por el oficial del registro civil más cercano a su jurisdicción.
 
-### Capítulo I. De las Actas de Nacimiento
+### Capítulo III. De los Efectos de los Actos y Actas del Registro Civil
 
 ###### Artículo 1113.
 
@@ -6723,7 +6885,7 @@ Los jueces que no remitan en un lapso de diez días hábiles, las resoluciones d
 
 ## TÍTULO SEGUNDO. DE LAS ACTAS DEL REGISTRO CIVIL
 
-### Capítulo II. De las Actas de Reconocimiento de Hijos
+### Capítulo I. De las Actas de Nacimiento
 
 ###### Artículo 1123.
 
@@ -6768,6 +6930,14 @@ El Oficial del Registro Civil expedirá gratuitamente la primera copia certifica
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
 Las copias certificadas de las actas de registro de nacimiento expedidas por el Oficial del Registro Civil no tendrán caducidad, por lo que se podrán utilizar en la realización de trámites ante cualquier ente público o privado, siempre que se encuentren legibles y no presenten tachaduras, enmendaduras o cualquier aspecto que altere su contenido, o sobrevenga un cambio de nombre, de estado familiar, u otro que afecte los datos inscritos en ese documento.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Las autoridades públicas del Estado, los municipios y los órganos autónomos, recibirán, reconocerán y validarán las actas a que hace referencia el párrafo anterior, en caso contrario podrán ser sancionados de conformidad con lo establecido por la Ley de Responsabilidades Administrativas del Estado de Sinaloa y demás leyes que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+En el caso de que se soliciten copias certificadas de actas de nacimiento para la realización de cualquier trámite escolar, las mismas serán expedidas de manera gratuita bajo la denominación "acta de nacimiento válida solamente para trámites escolares".
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2022)</small>
 
@@ -6837,9 +7007,7 @@ Cuando se trate de parto múltiple, se levantará un acta por cada uno de los re
 
 El oficial del registro civil, estará obligado a hacer las anotaciones en el acta de nacimiento de las personas, de todos los actos del estado familiar que realice, incluso hasta la muerte.
 
-### Capítulo III. De las Actas en la Adopción
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
+### Capítulo II. De las Actas de Reconocimiento de Hijos
 
 ###### Artículo 1139.
 
@@ -6873,7 +7041,9 @@ Si el reconocimiento se hiciere en oficina distinta de aquélla en la que se lev
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2013)</small>
 
-### Capítulo IV. De las Actas de Tutela
+### Capítulo III. De las Actas en la Adopción
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 1146.
 
@@ -6895,7 +7065,7 @@ A partir del levantamiento del acta a que se refiere el artículo 1146 de este C
 
 El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de diez días, copia certificada de su resolución, al oficial del registro civil, para que haga las anotaciones correspondientes.
 
-### Capítulo V. De las Actas de Matrimonio
+### Capítulo IV. De las Actas de Tutela
 
 ###### Artículo 1150.
 
@@ -6931,7 +7101,7 @@ V. La garantía dada por el tutor, expresando el nombre, apellidos y demás gene
 
 VI. El nombre del juez que pronunció el auto de discernimiento, número de expediente y la fecha de la resolución.
 
-### Capítulo VI. De las Actas de Concubinato
+### Capítulo V. De las Actas de Matrimonio
 
 ###### Artículo 1155.
 
@@ -6991,9 +7161,7 @@ El oficial del registro civil, que sin motivo justificado retarde la celebració
 
 (DEROGADO, P.O. 19 DE AGOSTO DE 2016)
 
-### Capítulo VII. De las Actas de Divorcio
-
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+### Capítulo VI. De las Actas de Concubinato
 
 ###### Artículo 1166.
 
@@ -7037,7 +7205,9 @@ El acta será firmada por el oficial del registro civil, los convivientes y las 
 
 Los oficiales del registro civil sólo podrán negarse a autorizar un concubinato, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los convivientes, o los dos carecen de aptitud legal para vivir en concubinato.
 
-### Capítulo VIII. De las Actas de Defunción
+### Capítulo VII. De las Actas de Divorcio
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 1170.
 
@@ -7051,9 +7221,7 @@ El acta de divorcio contendrá los nombres, apellidos, edad, domicilio, lugar de
 
 Extendida el acta de divorcio mandará anotarse en el libro de actas de matrimonio de los divorciados, y se anexará una copia de la sentencia mencionada en el artículo anterior, con el mismo número del acta.
 
-### Capítulo IX
-
-De las Inscripciones de las Ejecutorias que Declaren el Registro de Hijos Acogidos, la Ausencia, la Presunción de Muerte, o que se ha Perdido la Capacidad Legal para Administrar Bienes
+### Capítulo VIII. De las Actas de Defunción
 
 ###### Artículo 1173.
 
@@ -7121,7 +7289,9 @@ En todos los casos de muerte violenta en los establecimientos de reclusión, no 
 
 El oficial del registro civil, que inscriba la defunción de una persona, deberá de hacer la anotación en el libro de actas de nacimiento si ésta se levantó en su oficina; en el caso de que el nacimiento del difunto haya sido en lugar distinto, del que tuvo lugar la defunción, remitirá una copia de dicha acta al oficial del lugar de nacimiento para que haga las anotaciones correspondientes.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo IX
+
+De las Inscripciones de las Ejecutorias que Declaren el Registro de Hijos Acogidos, la Ausencia, la Presunción de Muerte, o que se ha Perdido la Capacidad Legal para Administrar Bienes
 
 ###### Artículo 1185.
 
@@ -7139,7 +7309,7 @@ Cuando se recobre la capacidad legal para administrar bienes, se presenten los p
 
 ## TÍTULO TERCERO. De la Nulificación, Reposición, Convalidación, Rectificación, Testadura y del levantamiento de las Actas del Registro Civil
 
-### Capítulo II. De la Nulificación de Actas
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 1188.
 
@@ -7153,7 +7323,7 @@ El oficial del registro civil hará la anotación correspondiente en los libros 
 
 Cuando se recobre la capacidad legal para administrar, se presenten los padres biológicos del acogido, o se presente la persona declarada ausente o haya muerto, se dará aviso al oficial del registro civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción a que se refiere el artículo anterior, previo el juicio respectivo, así como también al oficial del registro civil, para que haga la cancelación correspondiente en el libro de actas de nacimiento.
 
-### Capítulo III. De la Modificación de Actas
+### Capítulo II. De la Nulificación de Actas
 
 ###### Artículo 1191.
 
@@ -7163,9 +7333,7 @@ La nulificación, rectificación y reposición de las actas del estado familiar 
 
 Ha lugar a pedir la nulificación, en todo o en parte de un acta, cuando el estado familiar registrado no haya ocurrido, o cuando haya habido falsedad en alguno de los elementos esenciales que la constituyan. Cuando el acto haya ocurrido, pero se declare nulo con posterioridad, el acta sólo será anotada desde la fecha de esta declaración.
 
-### Capítulo IV. De la Aclaración de las Actas
-
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
+### Capítulo III. De la Modificación de Actas
 
 ###### Artículo 1193.
 
@@ -7201,7 +7369,9 @@ VI. Los acreedores, legatarios y donatarios, en el caso de que el hijo no haya d
 
 El juicio de modificación de un acta, se seguirá en la forma que establece el Código de Procedimientos Familiares del Estado de Sinaloa. No será necesaria resolución judicial, en el caso de cambio de régimen económico al que quedó sujeto el matrimonio, cuando los cónyuges de común acuerdo así lo solicitan en la oficialía del registro civil correspondiente.
 
-### Capítulo V. De la Reposición de las Actas
+### Capítulo IV. De la Aclaración de las Actas
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
 
 ###### Artículo 1195.
 
@@ -7210,6 +7380,18 @@ La aclaración de las actas del estado familiar procederá cuando en la inscripc
 En las hipótesis de doble registro de nacimiento, siempre que se pruebe la realidad del acto mediante pruebas documentales y que no se afecten los datos esenciales, se podrá hacer el trámite ante la institución del Registro Civil del Estado de Sinaloa o mediante tramitación especial ante Notario Público.
 
 En caso contrario, al afectar los datos esenciales será necesaria la rectificación del acta del estado familiar, para cuyo trámite se requerirá de la intervención del Ministerio Público y se ventilará de acuerdo con lo establecido en el Código de Procedimientos Familiares del Estado de Sinaloa.
+
+### Capítulo V. De la Reposición de las Actas
+
+###### Artículo 1196.
+
+Procede la reposición cuando el acta ha sufrido una falsificación o alteración material después de asentada. Comprobado el delito deberá restituirse el texto a su forma original, anotando en el acta, el cambio que se hace y la sentencia que así lo haya ordenado.
+
+###### Artículo 1197.
+
+La sentencia que conceda o niegue la rectificación, se comunicará al oficial del registro civil y a la Dirección Estatal del Registro Civil, a efecto de que se hagan las anotaciones correspondientes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2022)</small>
 
 ### Capítulo VI. Del Levantamiento de Actas de Nacimiento por Reconocimiento de Identidad de Género
 
@@ -7271,23 +7453,13 @@ Los derechos y obligaciones contraídas con anterioridad al proceso administrati
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-###### Artículo 1196.
+## TÍTULO CUARTO. Del Registro de Deudores Alimentarios Morosos
 
-Procede la reposición cuando el acta ha sufrido una falsificación o alteración material después de asentada. Comprobado el delito deberá restituirse el texto a su forma original, anotando en el acta, el cambio que se hace y la sentencia que así lo haya ordenado.
-
-###### Artículo 1197.
-
-La sentencia que conceda o niegue la rectificación, se comunicará al oficial del registro civil y a la Dirección Estatal del Registro Civil, a efecto de que se hagan las anotaciones correspondientes.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2022)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ### Capítulo Único. Disposiciones Generales
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
-
-## TÍTULO CUARTO. Del Registro de Deudores Alimentarios Morosos
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1198.
 
@@ -7634,5 +7806,21 @@ P.O. 21 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 516 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 11 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 530 QUE REFORMAN LAS FRACCIONES IX Y X DEL ARTÍCULO 380; Y LAS FRACCIONES II Y III DEL 384; Y SE ADICIONAN LA FRACCIÓN XI AL 380; Y LA FRACCIÓN IV AL 384 DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA; Y REFORMA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 134 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 565 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
