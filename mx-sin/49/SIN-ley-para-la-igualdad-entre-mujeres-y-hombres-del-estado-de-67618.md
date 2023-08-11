@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6761
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-11"
-last_updated: "2023-01-20"
+last_updated: "2023-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 11 de marzo de 2009.
 
@@ -89,7 +89,9 @@ Para efectos de esta Ley se entenderá por
 
 I. Acciones afirmativas.- Es el conjunto de medidas de carácter temporal, correctivo, compensatorio o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres, aplicables en tanto subsista la desigualdad de trato y oportunidades de las mujeres respecto a los hombres;
 
-II. Discriminación.- Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+II. Discriminación.- Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, cultura, sexo, género, edad, discapacidad, condición social, económica o jurídica, condiciones de salud, embarazo, lengua, religión, apariencia física, opiniones, ideología, trabajo, profesión, preferencias sexuales, identidad de género o expresión de género, estado civil, identidad o filiación política, antecedentes penales o cualquier otra, que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 
 III. Discriminación contra la Mujer.- Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
@@ -872,3 +874,9 @@ P.O. 20 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 377 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 11 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 547 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, Y DEL CÓDIGO PENAL, TODAS DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
