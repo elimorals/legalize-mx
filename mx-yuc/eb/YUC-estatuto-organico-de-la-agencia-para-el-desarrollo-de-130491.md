@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-la-agencia-para-el-desarrollo-de-130491"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-08-16"
-last_updated: "2023-08-07"
+last_updated: "2023-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,7 +29,7 @@ ESTATUTO ORGÁNICO DE LA AGENCIA PARA EL DESARROLLO DE YUCATÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE AGOSTO DE 2023 (ABROGADO).
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 7 DE AGOSTO DE 2023.]</small>
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O. EL 11 DE AGOSTO DE 2023 NO APLICA AL ARTICULADO DEL DECRETO 661 PUBLICADO EN EL D.O. DE 7 DE AGOSTO DE 2023.]</small>
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el jueves 16 de agosto de 2018.
 
@@ -625,7 +625,7 @@ La persona titular de la Dirección General de la Agencia para el Desarrollo de 
 
 D.O. 7 DE AGOSTO DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 601/2023 POR EL QUE SE EXTINGUE Y LIQUIDA LA AGENCIA PARA EL DESARROLLO DE YUCATÁN”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 661/2023 POR EL QUE SE EXTINGUE Y LIQUIDA LA AGENCIA PARA EL DESARROLLO DE YUCATÁN”.]
 
 Primero. Entrada en vigor
 
