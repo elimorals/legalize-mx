@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-95132
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-03"
-last_updated: "2013-07-03"
+last_updated: "2023-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 3 de julio de 2013.
 
@@ -67,19 +67,37 @@ III. Fijar los lineamientos y establecer los indicadores para el diseño, la ins
 
 IV. Establecer mecanismos permanentes de seguimiento, con participación de organizaciones de la sociedad civil, para la instrumentación de las políticas públicas en materia de no discriminación, así como medidas positivas y compensatorias.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 4°.
 
-Para los efectos de esta Ley se entenderá por discriminación toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, talla pequeña, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas.
+Para los efectos de esta Ley se entenderá por:
 
-También se entenderá como discriminación la xenofobia y el antisemitismo en cualquiera de sus manifestaciones.
+I. Discriminación: Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, cultura, sexo, género, edad, talla pequeña, discapacidad, condición social, económica o jurídica, condiciones de salud, embarazo, lengua, religión, apariencia física, opiniones, ideología, trabajo, profesión, preferencia sexual, identidad de género o expresión de género, estado civil, identidad o filiación política, antecedentes penales o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas.
+
+También se entenderá como discriminación la xenofobia y el antisemitismo en cualquiera de sus manifestaciones;
+
+II. Poderes públicos estatales: Las autoridades, dependencias y entidades de la Administración Pública Estatal, de los municipios, los Poderes Legislativo y Judicial y los órganos constitucionales autónomos; y
+
+III. Igualdad real de oportunidades: Es el acceso que tienen las personas o grupos de personas al igual disfrute de derechos, por la vía de las normas y los hechos, para el disfrute de sus derechos.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 4° BIS. Queda prohibida toda práctica discriminatoria que tenga por objeto o efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades en términos del artículo lo. de la Constitución Política de los Estados Unidos Mexicanos y el artículo 4, fracción I de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
 
 ###### ARTÍCULO 5°.
 
-Serán consideradas conductas discriminatorias, de manera enunciativa aquellas que produzcan el efecto de:
+Con base en lo establecido en el artículo primero de la Constitución Política de los Estados Unidos Mexicanos y el artículo 4, fracción I de esta Ley, se considera conductas discriminatorias, entre otras:
 
-I. Impedir el acceso a la educación pública o privada, así como becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables, por razones de origen étnico o social, nacionalidad, características genéticas, discapacidades, condición social o económica, condiciones de salud, embarazo, lengua, opiniones, orientación sexual, género, estado civil, edad, apariencia física, ocupación o actividad, antecedentes penales o cualquier otro supuesto en el que se encuentre el alumno o alguno de sus ascendientes o descendientes directos;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
 
-II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la equidad o que difundan o induzcan una condición de subordinación;
+I. Impedir el acceso o la permanencia a la educación pública o privada, así como a becas e incentivos en los centros educativos;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad o que difundan o induzcan una condición de subordinación;
 
 III. Prohibir o negar el libre acceso, permanencia o ascenso al empleo por preferencia religiosa, sexual, identidad o filiación política. En el caso de las mujeres, condicionar las oportunidades referidas a la realización en cualquier momento de pruebas de gravidez o embarazo;
 
@@ -123,7 +141,9 @@ XXII. Impedir el acceso a la seguridad social y a sus beneficios o establecer li
 
 XXIII. Limitar el derecho a la alimentación, vivienda y esparcimiento, conforme a las leyes aplicables en la materia;
 
-XXIV. Impedir el acceso a cualquier servicio público o privado, así como limitar el acceso y libre desplazamiento en los espacios públicos, por razones de origen étnico o social, nacionalidad, características genéticas, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, opiniones, orientación sexual, género, estado civil, edad, apariencia física, ocupación o actividad, antecedentes penales o cualquier otro supuesto;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+XXIV. Impedir el acceso a cualquier servicio público o privado, así como limitar el acceso y libre desplazamiento en los espacios públicos;
 
 XXV. Negar a cualquier persona, por considerar su orientación sexual, alojamiento o iguales condiciones de alojamiento en cualquier lugar público destinado al hospedaje de personas, hoteles, moteles o en cualquier otro lugar público, inclusive centros de diversión o esparcimiento;
 
@@ -141,9 +161,17 @@ XXXI. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecuc
 
 XXXII. Realizar o promover el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación o preferencia sexual, identidad de género, ideológica, política, religiosa o cualquier otra;
 
-XXXIII. Impedir el acceso a establecimientos mercantiles por distinción, exclusión o restricción, basada en el origen étnico o social, nacionalidad o lugar de origen, color o cualquier otra característica genética, sexo, lengua, identidad de género, estado civil, ocupación o actividad; y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
 
-XXXIV. En general, cualquier otra conducta discriminatoria en términos del Artículo 4° de este ordenamiento.
+XXXIII. Impedir el acceso a establecimientos mercantiles por distinción, exclusión o restricción, basada en el origen, étnico o social, nacionalidad o lugar de origen, color o cualquier otra característica genética, sexo, lengua, identidad de género, expresión de género, orientación sexual, estado civil, ocupación o actividad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2023)</small>
+
+XXXIV. Excluir a las personas internas en centros de readaptación social de los programas generales de salud; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE AGOSTO DE 2023)</small>
+
+XXXV. En general, cualquier otra conducta discriminatoria.
 
 ###### ARTÍCULO 6°.
 
@@ -165,9 +193,11 @@ VII. Las distinciones, exclusiones, restricciones o preferencias que se hagan en
 
 VIII. En general, todas las que no tengan el propósito o efecto de anular o menoscabar los derechos y libertades o la igualdad de oportunidades y de trato de las personas, ni de atentar contra los derechos específicos y la dignidad humana.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 7°.
 
-El presente ordenamiento deberá ser acatado por los particulares y los servidores públicos de las entidades gubernamentales estatales y municipales.
+El presente ordenamiento deberá ser acatado por los particulares y los servidores públicos de los poderes públicos estatales.
 
 ###### ARTÍCULO 8°.
 
@@ -195,9 +225,11 @@ h) Equidad, y
 
 i) Transparencia y acceso a la información.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 10.
 
-En la aplicación de la presente ley las dependencias, organismos y entidades de la Administración Pública del Estado de Sinaloa y las personas servidoras públicas en el ámbito de sus respectivas competencias, deberán tomar en cuenta lo siguiente:
+En la aplicación de la presente ley los poderes públicos estatales y las personas servidoras públicas en el ámbito de sus respectivas competencias, deberán tomar en cuenta lo siguiente:
 
 I. La protección, universalidad, indivisibilidad, permanencia, interdependencia, progresividad y expansión de los derechos fundamentales;
 
@@ -205,13 +237,17 @@ II. La aplicación de la disposición, tratado internacional, principio que esta
 
 III. Las normas de derechos humanos como criterios orientadores de las políticas públicas, programas, planes, estrategias y acciones de la Administración Pública del Estado de Sinaloa, a efecto de hacerlos más eficaces, sostenibles, no excluyentes y equitativos. Para ello las personas servidoras públicas tienen la obligación de garantizar la vigencia del derecho a la igualdad y a la no discriminación, así como de respetar y proteger la dignidad de todas las personas; y
 
-IV. Los instrumentos nacionales e internacionales aplicables en materia de derechos humanos y no discriminación firmados y ratificados por los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+IV. Los instrumentos nacionales e internacionales aplicables en materia de derechos humanos y no discriminación firmados y ratificados por los Estados Unidos Mexicanos; así como con la jurisprudencia emitida por los órganos jurisdiccionales internacionales, las recomendaciones y resoluciones adoptadas por los organismos multilaterales y regionales y demás legislación aplicable.
 
 ### CAPÍTULO II. Medidas para Prevenir la Discriminación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 11.
 
-Las autoridades gubernamentales estatales y municipales, en el ámbito de sus competencias, llevarán a cabo, como mínimo, las siguientes medidas para prevenir la discriminación:
+Los poderes públicos estatales, en el ámbito de sus competencias llevarán a cabo, como mínimo, las siguientes medidas para prevenir la discriminación:
 
 I. Difundir el contenido de la presente Ley, de los Tratados y Convenios Internacionales que México ha suscrito en la materia;
 
@@ -219,13 +255,35 @@ II. Promover en los sectores públicos, privados y en la ciudadanía en general,
 
 III. Implementar la elaboración de programas en los niveles de educación básica obligatoria, media superior y superior, orientados a eliminar la discriminación;
 
-IV. Establecer, a través de los medios de comunicación oficial, prácticas orientadas a eliminar la discriminación en los contenidos que los propios medios oficiales y privados difundan; y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
 
-V. Establecer en los bandos de policía y gobierno, la prohibición de conductas discriminatorias.
+IV. Establecer, a través de los medios de comunicación oficial, prácticas orientadas a eliminar la discriminación en los contenidos que los propios medios oficiales y privados difundan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2023)</small>
+
+V. Promover acciones de información, sensibilización, concientización, capacitación y difusión dirigidas a personas del servicio público con el objetivo de visibilizar, combatir y erradicar actitudes discriminatorias;
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+VI. Promover una cultura de denuncia de prácticas discriminatorias;
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+VII. Proponer políticas públicas que permitan identificar, visibilizar, prevenir, atender y erradicar la discriminación;
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+VIII. Promover, difundir y llevar a cabo estudios sobre la no discriminación, la diversidad y la tolerancia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE AGOSTO DE 2023)</small>
+
+IX. Establecer en los bandos de policía y gobierno, la prohibición de conductas discriminatorias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
 
 ###### ARTÍCULO 12.
 
-Las autoridades gubernamentales estatales y municipales, en el ámbito de su competencia, llevarán a cabo, como mínimo, las siguientes medidas compensatorias no discriminatorias:
+Los poderes públicos estatales, en el ámbito de su competencia, llevarán a cabo, como mínimo, las siguientes medidas compensatorias no discriminatorias:
 
 I. Las acciones que fortalezcan el respeto al libre pensamiento y a la práctica religiosa que mejor convenga a la persona;
 
@@ -243,9 +301,11 @@ VII. La creación de programas permanentes de capacitación para el empleo y fom
 
 VIII. Todos los supuestos establecidos en el artículo 6° de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 13.
 
-Las autoridades gubernamentales estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades para las mujeres:
+Los poderes públicos estatales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad real de oportunidades para las mujeres:
 
 I. Promover la educación mixta, para lo cual deberán fomentar la permanencia en el sistema educativo de las niñas y las mujeres en todos los niveles escolares, en instituciones públicas o privadas;
 
@@ -259,9 +319,11 @@ V. Procurar la creación de centros de desarrollo infantil y guarderías, asegur
 
 VI. Otorgar reconocimiento público a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas para prevenir la discriminación por razón de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, 11 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 14.
 
-Las autoridades gubernamentales estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades de las niñas y los niños:
+Los poderes públicos estatales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad real de oportunidades de las niñas y los niños:
 
 I. Instrumentar programas de atención médica y sanitaria para combatir la mortalidad y la desnutrición infantil;
 
@@ -441,7 +503,9 @@ El Consejo Estatal tendrá por objeto:
 
 I. Contribuir al desarrollo cultural, social y democrático del Estado;
 
-II. Llevar a cabo, las acciones conducentes para prevenir y eliminar la discriminación;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+II. Llevar a cabo, las acciones conducentes para prevenir y eliminar la discriminación y promover la tolerancia:
 
 III. Formular y promover políticas públicas para la igualdad de oportunidades y de trato a favor de las personas que se encuentren en el territorio del Estado, incluyendo a los Municipios; y
 
@@ -586,3 +650,11 @@ Lic. Mario López Valdez
 El Secretario General de Gobierno
 
 C. Gerardo O. Vargas Landeros
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 547 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, Y DEL CÓDIGO PENAL, TODAS DEL ESTADO DE SINALOA.”]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
