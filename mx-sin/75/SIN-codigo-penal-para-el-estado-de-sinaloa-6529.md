@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2023-04-14"
+last_updated: "2023-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1393,7 +1393,9 @@ V. Cuando el sujeto activo se haya valido de su oficio de conductor de un vehíc
 
 VI. Cuando la víctima sea una niña, adolescente, adulta mayor o con discapacidad.
 
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio. En su caso, también perderá todo derecho con relación a los hijos de la víctima, garantizando el interés superior de la niñez en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 Cuando no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 
@@ -2365,21 +2367,33 @@ La reparación del daño, con excepción del delito de abuso sexual, comprender�
 
 ### CAPÍTULO I. DISCRIMINACIÓN
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 189.
 
-Se impondrán de uno a tres años de prisión y multa de cincuenta a doscientos días, a quien por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de la piel, nacionalidad, origen, posición social, trabajo, profesión, posición económica, carácter físico, discapacidad o estado de salud:
+Se impondrán de uno a tres años de prisión y multa de cincuenta a doscientos días, a quien por razón de cultura, edad, sexo, género, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, identidad de género o expresión de género, color de la piel, nacionalidad, origen, posición social, apariencia física, condición jurídica, trabajo, profesión, posición económica, carácter físico, discapacidad, estado de salud, identidad o filiación política, antecedentes penales o de cualquier otra índole que atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2013)</small>
 
 l. Provoque o incite al odio o a la violencia contra una o mas personas;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2013)</small>
+
 II. Niegue a una persona un servicio o una prestación que se ofrece al público en general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2013)</small>
 
 III. Veje o excluya a alguna persona o grupo de personas; y
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2013)</small>
+
 IV. Niegue o restrinja derechos laborales.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MARZO DE 2013)</small>
+
 Si estas conductas son cometidas por un servidor público en ejercicio de su función, la pena establecida para este delito se aumentará hasta en una mitad más.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MARZO DE 2013)</small>
 
 Igual pena se impondrá al servidor público que incurra en estas conductas negando o retrasando a una persona un trámite o servicio al que tenga derecho.
 
@@ -5376,3 +5390,17 @@ P.O. 14 DE ABRIL DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 530 DEL H. CONGRESO DEL ESTADO.- QUE REFORMAN LAS FRACCIONES IX Y X DEL ARTÍCULO 380; Y LAS FRACCIONES II Y III DEL 384; Y SE ADICIONAN LA FRACCIÓN XI AL 380; Y LA FRACCIÓN IV AL 384 DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA; Y REFORMA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 134 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 547 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, Y DEL CÓDIGO PENAL, TODAS DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
