@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-96791
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2013-11-27"
+last_updated: "2023-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 2013.
 
@@ -141,9 +141,17 @@ VII. Descanso, esparcimiento, juego y actividades recreativas propias de su edad
 
 VIII. Apoyo al desarrollo biológico, cognoscitivo, psicomotriz, y socio-afectivo;
 
-IX. Enseñanza del lenguaje y comunicación; y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
 
-X. Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza, para fortalecer la comprensión de sus funciones en la educación de niñas y niños.
+IX. Enseñanza de lenguaje y comunicación;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+X. Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza, para fortalecer la comprensión de sus funciones en la educación de niñas y niños; y
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+XI. Implementar mecanismos de participación de los padres de familia o de quien ejerza la tutela de niñas y niños, respecto de su educación y atención.
 
 ###### Artículo 9.
 
@@ -155,7 +163,9 @@ El ingreso de niñas y niños a los centros de atención se hará de conformidad
 
 Corresponde al Estado la rectoría, la responsabilidad indeclinable en la autorización, funcionamiento, monitoreo, supervisión y evaluación de los servicios para la atención, cuidado y desarrollo integral infantil.
 
-Para la prestación de dichos servicios, se deberá cumplir con lo dispuesto por esta Ley, la Ley de Protección Civil para el Estado y sus respectivos Reglamentos, así como por las demás disposiciones y ordenamientos jurídicos aplicables en cuanto a salubridad, infraestructura, equipamiento, seguridad y protección civil de los Centros de Atención, en cualquiera de sus modalidades y tipos, así como de los servicios educativos, en el caso que corresponda; de descanso, juego, esparcimiento y los demás relacionados con el objeto de esta Ley.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Para la prestación de dichos servicios, se deberá cumplir con lo dispuesto por la Ley General, por esta Ley, la Ley de Protección Civil para el Estado y sus respectivos Reglamentos, así como por las demás disposiciones y ordenamientos jurídicos aplicables en cuanto a salubridad, infraestructura, equipamiento, seguridad y protección civil de los Centros de Atención en cualquiera de sus modalidades y tipos, así como de los servicios educativos, en el caso que corresponda; de descanso, juego, esparcimiento y los demás relacionados con el objeto de esta Ley.
 
 ###### Artículo 11.
 
@@ -175,9 +185,17 @@ IV. Contribuir al mejoramiento progresivo así como al fortalecimiento de los se
 
 V. Promover y fomentar pautas de convivencia familiar y comunitaria, fundadas en el respeto, protección y ejercicio de los derechos de niñas y niños;
 
-VI. Fomentar la equidad de género; y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
 
-VII. Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo y de los requerimientos y características de los modelos de atención.
+VI. Fomentar la equidad de género;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+VII. Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo y de los requerimientos y características de los modelos de atención; y
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+VIII. Implementar mecanismos de participación de padres de familia y de quienes ejercen la tutela de niñas y niños, para el diseño, implementación, monitoreo y evaluación de los servicios que presten los Centros de Atención.
 
 ###### Artículo 13.
 
@@ -263,21 +281,29 @@ El Consejo es la instancia normativa, de consulta y coordinación, la cual dará
 
 El Consejo se integrará de la siguiente manera:
 
-I. La Secretaría General de Gobierno, cuyo titular lo presidirá
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+I. El Sistema Estatal para el Desarrollo Integral de la Familia, cuyo titular lo presidirá;
 
 II. La Secretaría de Salud;
 
-III. La Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+III. La Secretaría de Bienestar y Desarrollo Sustentable;
 
 IV. La Secretaría de Educación Pública y Cultura;
 
 V. El Instituto Estatal de Protección Civil;
 
-VI. El Sistema Estatal para el Desarrollo Integral de la Familia; y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+VI. La Secretaría General de Gobierno; y
 
 VII. El titular de la Comisión Estatal para la Protección contra los Riesgos Sanitarios del Estado.
 
-Serán invitados permanentes a las sesiones del Consejo, previa aceptación de los mismos, los titulares del Instituto Sinaloense de las Mujeres, de la Comisión Estatal de los Derechos Humanos; los Delegados en el Estado, del Instituto Mexicano del Seguro Social y del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado, quienes tendrán voz.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+Serán invitados permanentes a las sesiones del Consejo, previa aceptación de los mismos, los titulares de la Secretaría de las Mujeres, de la Comisión Estatal de los Derechos Humanos; los Delegados en el Estado, del Instituto Mexicano del Seguro Social y del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado, quienes tendrán voz.
 
 Asimismo, podrán ser invitados a las sesiones del Consejo, con derecho a voz pero sin voto, los Ayuntamientos del Estado de Sinaloa, a través de su Unidad Municipal de Protección Civil, en el ámbito de su respectiva competencia.
 
@@ -478,6 +504,12 @@ XII. No manipular ni tratar de reparar nunca objetos, aparatos o instalaciones r
 XIII. En caso de aparatos de calefacción, éstos deberán estar fijos; y
 
 XIV. Las demás que ordene el Reglamento de la Ley y cualquier otra disposición normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2023)</small>
+
+###### Artículo 39 Bis.
+
+Los Centros de Atención podrán hacer uso de equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos como una medida de seguridad adicional para prevenir cualquier riesgo o emergencia que se presente en las instalaciones, salvaguardando la integridad de los menores en términos de las disposiciones legales aplicables.
 
 ### Capítulo IX. De la Capacitación y Certificación
 
@@ -744,3 +776,11 @@ LIC. MARIO LÓPEZ VALDEZ
 El Secretario General de Gobierno
 
 C. GERARDO O. VARGAS LANDEROS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 563 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
