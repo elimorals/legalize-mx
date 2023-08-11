@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2023-06-23"
+last_updated: "2023-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -313,7 +313,21 @@ IV. Por la falta de cumplimiento, sin causa justificada a cualquiera de las obli
 
 V. Por disposición expresa de autoridad judicial en sentencia que haya causado ejecutoria.
 
-VI. En los demás casos que las leyes determinen.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2023)</small>
+
+VI. Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+VII. Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género en cualquiera de sus modalidades y tipos.
+
+Por ser declarada como persona deudora alimentaria morosa.
+
+En los supuestos de esta fracción, la persona no podrá ser registrada como candidata para acceder a cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE AGOSTO DE 2023)</small>
+
+VIII. En los demás casos que las leyes determinen.
 
 > <small>(ADICIONADO, P.O. 09 DE MAYO DE 2001)</small>
 
@@ -679,11 +693,11 @@ En ningún caso un partido político podrá contar con más de 24 diputados por 
 
 En ningún caso un partido político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación estatal emitida, más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
 
 ###### Art. 25.
 
-Para ser diputado se requiere:
+Para ser Diputada o Diputado se requiere:
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
 
@@ -697,9 +711,9 @@ Cuando un municipio sea cabecera de dos o más distritos electorales, para ser e
 
 Para poder figurar como candidato en la lista de circunscripción electoral plurinominal, se requerirá ser sinaloense por nacimiento, o por vecindad con una residencia efectiva en el Estado de más de dos años anterior a la fecha de la celebración de la jornada electoral.
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
 
-III. Ser mayor de 21 años en la fecha de la elección.
+III. Tener dieciocho años cumplidos el día de la elección;
 
 > <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
@@ -1321,17 +1335,19 @@ Durante su encargo no podrá formar parte de ningún partido político, ni desem
 
 Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se denominará "GOBERNADOR CONSTITUCIONAL DEL ESTADO."
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
 
 ###### Art. 56.
 
-Para ser Gobernador se requiere:
+Para ser Gobernadora o Gobernador del Estado se requiere:
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2015)</small>
 
 I. Ser ciudadano sinaloense por nacimiento o por vecindad, en este último caso con residencia efectiva en el Estado no menor de cinco años inmediatamente anteriores al día de la elección.
 
-II. Tener treinta años cumplidos el día de la elección.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+II. Tener veinticinco años cumplidos el día de la elección.
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 1943)</small>
 
@@ -1539,11 +1555,11 @@ La Paraestatal conforme a la Ley Orgánica que expida el Congreso que establecer
 
 Las personas titulares de las Secretarías de la Administración Pública Estatal serán designadas observando el principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
 
 ###### Art. 67.
 
-Para ser Secretario General de Gobierno, se requerirá ser ciudadano sinaloense en el ejercicio de sus derechos, poseer la capacidad necesaria a juicio del Gobernador del Estado y tener 30 años cumplidos.
+Para ser Titular de una Secretaría o Subsecretaría del Poder Ejecutivo del Estado se requerirá ser ciudadana o ciudadano mexicano en el ejercicio de sus derechos, poseer la capacidad necesaria a juicio del Gobernador del Estado y tener veinticinco años cumplidos.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -1719,21 +1735,33 @@ Art. 76 Bis A. La Fiscalía General del Estado contará con las Fiscalías Espec
 
 El Congreso del Estado podrá objetar los nombramientos y remociones por el voto de las dos terceras partes de sus miembros presentes, dentro del plazo que para tal efecto fije la Ley Orgánica de la Fiscalía General; pero si no se pronuncia en ese lapso, se entenderá que no tiene objeción alguna y por tanto son ratificados.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
 
 ###### Art. 77.
 
-Para ser Fiscal General del Estado se requiere:
+Para que una persona pueda ser Titular de la Fiscalía General del Estado se requiere:
 
-I. Ser ciudadano mexicano por nacimiento.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+I. Ser ciudadana o ciudadano mexicano, preferentemente sinaloense residente del Estado, y encontrarse en pleno ejercicio de sus derechos.
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
 II. Tener, cuando menos, treinta y cinco años cumplidos al día de su designación.
 
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
+
 III. Contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho.
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
 IV. Gozar de buena reputación.
 
-V. No haber sido condenado por delito doloso.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
+
+V. No haber sido condenada o condenado por la comisión de delito doloso.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
 De igual forma percibirá las mismas prestaciones y emolumentos legales o normativos internos, salariales y/o de cualquier especie del Magistrado Presidente del Supremo Tribunal de Justicia del Estado.
 
@@ -4756,3 +4784,15 @@ P.O. 23 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 497 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 4° BIS B DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 514 DEL H. CONGRESO DEL ESTADO.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 12; EL PÁRRAFO PRIMERO Y LA FRACCIÓN III DEL ARTÍCULO 25; EL ARTÍCULO 56, EL ARTÍCULO 67 Y LAS FRACCIONES I Y V DEL ARTÍCULO 77 Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL ARTÍCULO 12, DISPOSICIONES TODAS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+TERCERO. En un plazo no mayor a los treinta días naturales siguientes a la entrada en vigor del presente Decreto, el H. Congreso del Estado de Sinaloa deberá realizar las adecuaciones correspondientes a la legislación estatal, con la finalidad de armonizar conforme al presente Decreto.
+
+CUARTO. Notifíquese a los Ayuntamientos para su aprobación, en los términos de lo dispuesto por el artículo 159 de la Constitución Política del Estado de Sinaloa.
