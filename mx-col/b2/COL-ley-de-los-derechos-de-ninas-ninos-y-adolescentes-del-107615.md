@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2023-03-11"
+last_updated: "2023-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2023.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -129,7 +129,13 @@ VI. Centro de asistencia social: Al establecimiento, lugar o espacio de cuidado 
 
 VII. Certificado de idoneidad: Al documento expedido por el DIF Estatal o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2023)</small>
+
+VII BIS. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar, crecimiento saludable y armonioso de los (sic) niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos físicos ni o tratos crueles y humillantes, salvaguardando el interés superior de la niñez con un enfoque de derechos humanos;
+
 VIII. CONEVAL: Al Consejo Nacional de Evaluación de la Política de Desarrollo Social;
+
+(
 
 IX. Constitución Federal: A la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -1565,7 +1571,9 @@ A fin de garantizar el cumplimiento de los derechos establecidos en este capítu
 
 La legislación del Estado dispondrá lo necesario para que, en términos de lo dispuesto en la presente Ley y en el ámbito de sus respectivas competencias, se dé cumplimiento a las obligaciones siguientes:
 
-I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, los cuiden y atiendan; protejan contra toda forma de abuso; los traten con respeto a su dignidad y orienten, a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2023)</small>
+
+I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, los cuiden y atiendan; protejan contra toda forma de abuso: los traten con respeto a su dignidad y orienten, a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas a través de la crianza positiva.
 
 II. Que las autoridades migratorias verifiquen la existencia de la autorización de quienes ejerzan la patria potestad, tutela o, en su caso, del órgano jurisdiccional competente, que permita la entrada y salida de niñas, niños o adolescentes del territorio nacional, conforme a las disposiciones aplicables;
 
@@ -1745,9 +1753,17 @@ XXII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atenci
 
 XXIII. Garantizar la protección de los derechos de niñas, niños y adolescentes y asegurar que las violaciones a los mismos sean atendidas de forma preferente por todas las autoridades, en el ámbito de sus respectivas competencias;
 
-XXIV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2023)</small>
 
-XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene.
+XXIV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2023)</small>
+
+XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene; y
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2023)</small>
+
+XXVI. Impulsar acciones para fomentar la crianza positiva a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en la crianza y/o cuidado de niñas, niños y adolescentes.
 
 ###### Artículo 120.
 
@@ -3202,3 +3218,9 @@ P.O. 11 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 12 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 335.- POR EL QUE SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 4; LA FRACCIÓN XXVI AL ARTÍCULO 119, REFORMÁNDOSE LAS FRACCIONES XXIV, XXV DEL MISMO ARTÍCULO, ASÍ COMO LA FRACCIÓN I DEL ARTÍCULO 108 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
