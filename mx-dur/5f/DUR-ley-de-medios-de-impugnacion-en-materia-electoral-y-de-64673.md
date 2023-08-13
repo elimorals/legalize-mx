@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-medios-de-impugnacion-en-materia-electoral-y-de-64673"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-16"
-last_updated: "2023-08-01"
+last_updated: "2023-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2023 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE DURANGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE AGOSTO DE 2023.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de noviembre de 2008.
 
@@ -33,7 +33,7 @@ Con fecha 05 de Noviembre del presente año, los CC. Diputados integrantes de la
 
 C O N S I D E R A N D O S:
 
-[...]
+...
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -193,15 +193,21 @@ IV. Identificar el acto o resolución impugnado y al órgano partidista o autori
 
 V. Mencionar de manera expresa y clara los hechos en que se basa la impugnación los agravios que cause el auto o resolución impugnado y los preceptos presuntamente violados y, en su caso, las razones por las que se solicite la no aplicación de leyes sobre la materia electoral por estimarlas contrarias a la Constitución;
 
-VI. Ofrecer y aportar las pruebas dentro de los plazos para la interposición o presentación de los medios de impugnación previstos en la presente ley; mencionar, en su caso, las que se habrán de aportar dentro de dichos plazos; y las que deban requerirse, cuando el promovente justifique que oportunamente las solicitó por escrito al órgano competente, y éstas no le hubieren sido entregadas; y
+(REFORMADA, P.O. 1 DE AGOSTO DE 2023) (F. DE E., P.O. 13 DE AGOSTO DE 2023)
 
-VII. Hacer constar el nombre y la firma autógrafa del promovente.
+VI. Ofrecer y aportar las pruebas dentro de los plazos para la interposición o presentación de los medios de impugnación previstos en la presente ley; mencionar, en su caso, las que se habrán de aportar dentro de dichos plazos; y las que deban requerirse, cuando la parte promovente justifique que oportunamente las solicitó por escrito al órgano competente, y éstas no le hubieren sido entregadas; y
+
+(REFORMADA, P.O. 1 DE AGOSTO DE 2023) (F. DE E., P.O. 13 DE AGOSTO DE 2023)
+
+VII. Hacer constar el nombre y la firma autógrafa de la persona promovente.
 
 2. Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no será necesario cumplir con el requisito previsto en la fracción VI del párrafo anterior.
 
 3. Cuando el medio de impugnación no se presente por escrito ante la autoridad correspondiente, incumpla cualquier de los requisitos previstos por las fracciones I o VII del párrafo 1 de este artículo, resulte evidentemente frívolo o cuya notoria improcedencia se derive de las disposiciones del presente ordenamiento, se desechará de plano. También operará el desechamiento a que se refiere este párrafo, cuando no existan hechos y agravios expuestos o habiéndose señalado sólo hechos, de ellos no se pueda deducir agravio alguno.
 
 #### SECCIÓN TERCERA. IMPROCEDENCIA Y SOBRESEIMIENTO
+
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2023)</small>
 
 ARTÍCULO 11
 
@@ -228,18 +234,6 @@ V. Cuando no se hayan agotado las instancias previas establecidas por las leyes 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2023)</small>
 
 VI. Cuando en el medio de impugnación se solicite, en forma exclusiva, la no aplicación de una norma general en materia electoral, cuya validez haya sido declarada por la Suprema Corte de Justicia de la Nación en los términos de la fracción II del artículo 105 de la Constitución Federal.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2023)</small>
-
-VII. Ofrecer y aportar las pruebas dentro de los plazos para la interposición o presentación de los medios de impugnación previstos en la presente ley; mencionar, en su caso, las que se habrán de aportar dentro de dichos plazos; y las que deban requerirse, cuando la parte promovente justifique que oportunamente las solicitó por escrito al órgano competente, y éstas no le hubieren sido entregadas; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2023)</small>
-
-VIII. Hacer constar el nombre y la firma autógrafa de la persona promovente.
-
-2… (SIC)
-
-3…(SIC)
 
 ARTÍCULO 12
 
@@ -737,11 +731,11 @@ ARTÍCULO 36
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2023)</small>
 
-6. En los requerimientos, la magistratura electoral podrá pedir oficiosamente la documentación o cualquier constancia que considere pertinente para estar en posibilidad de emitir resolución incidental que corresponda;
+6. En los requerimientos, la magistratura electoral podrá pedir oficiosamente la documentación o cualquier constancia que considere pertinente para estar en posibilidad de emitir (sic) resolución incidental que corresponda;
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES NUMERAL 5], P.O. 1 DE AGOSTO DE 2023)</small>
 
-7. Agotada la instrucción. la magistratura Instructora propondrá a la sala el proyecto de sentencia, la que podrá dictarse incluso si no se rindió el informe dentro del plazo concedido, tomando como base las constancias que obren en autos y las que oficiosamente hubiera obtenido.
+7. Agotada la instrucción, la magistratura Instructora propondrá a la sala el proyecto de sentencia, la que podrá dictarse incluso si no se rindió el informe dentro del plazo concedido, tomando como base las constancias que obren en autos y las que oficiosamente hubiera obtenido.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES NUMERAL 6], P.O. 1 DE AGOSTO DE 2023)</small>
 
@@ -889,9 +883,9 @@ ARTÍCULO 48
 
 1. (DEROGADO, P.O. 1 DE AGOSTO DE 2023)
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2023)</small>
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2023)</small>
 
-1 (SIC). Los juicios Electorales relativos a los cómputos, declaraciones de validez y entrega de constancias de mayoría de las elecciones de diputados y ayuntamientos deberán quedar resueltos a más tardar el día trece de agosto y los relativos a la elección de gobernador del estado a más tardar el quince de agosto, ambas fechas del año de la elección.
+2. Los juicios Electorales relativos a los cómputos, declaraciones de validez y entrega de constancias de mayoría de las elecciones de diputados y ayuntamientos deberán quedar resueltos a mas tardar el día trece de agosto y los relativos a la elección de gobernador del estado a mas tardar el quince de agosto, ambas fechas del año de la elección.
 
 ### CAPÍTULO II. DE LAS NULIDADES
 
