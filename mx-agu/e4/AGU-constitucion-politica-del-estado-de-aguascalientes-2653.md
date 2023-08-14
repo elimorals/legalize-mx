@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2023-08-08"
+last_updated: "2023-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -795,19 +795,29 @@ Las indemnizaciones y sanciones pecuniarias a que se refiere la Fracción IV del
 
 Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir al titular del Órgano Superior de Fiscalización del Estado y lo designará con el voto de las dos terceras partes de los miembros presentes en la Legislatura. La Ley determinará el procedimiento para su designación y remoción en su caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE AGOSTO DE 2023)</small>
 
-El Auditor Superior de Fiscalización, además de los requisitos previstos en las Fracciones I, III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y Fiscal General del Estado, deberá de reunir los siguientes:
+El Auditor Superior de Fiscalización, además de los requisitos previstos en las Fracciones III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y Fiscal General del Estado, deberá de reunir los siguientes:
 
-I. Contar el día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2023)</small>
 
-II. Contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
+I. Ser persona ciudadana mexicana, originaria del Estado de Aguascalientes o con residencia mínima de tres años al momento de su designación.
 
-III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+II. Contar el día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello.
 
-IV.- No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político durante los cuatro años previos al de su designación.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2023)</small>
+
+III. Contar con experiencia de cinco años en materia de control interno y administración de riesgos, auditoría para la revisión y fiscalización de cuentas públicas, y/o en responsabilidades administrativas.
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2023)</small>
+
+IV. No haber sido condenado por delito de ejercicio indebido del servicio público, abuso de autoridad, coalición de servidores públicos, concusión, cohecho, peculado, tráfico de influencias, encubrimiento o enriquecimiento ilícito; salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2023)</small>
+
+V. No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político durante los cuatro años previos al de su designación.
 
 El Auditor Superior de Fiscalización durará en su encargo siete años; podrá ser removido por el Congreso por causas que señale la Ley, siempre con la misma votación requerida para su nombramiento, o conforme a los procedimientos previstos en el Capítulo Décimo Sexto de esta Constitución.
 
@@ -4034,3 +4044,11 @@ La paridad de género en el Poder Judicial del Estado de Aguascalientes se alcan
 ###### ARTÍCULO DÉCIMO NOVENO.
 
 Los derechos laborales del personal que, con su consentimiento, se transfiera del Poder Judicial del Estado de Aguascalientes al Tribunal de Justicia Administrativa, no se verán afectados.
+
+P.O. 14 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 386.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
