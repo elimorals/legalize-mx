@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-tribunal-electoral-del-estado-de-oaxaca-149412
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-05-06"
-last_updated: "2023-04-22"
+last_updated: "2023-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 6 de mayo de 2021.
 
@@ -407,13 +407,9 @@ En caso de presentarse alguna vacante temporal que no exceda de tres meses por p
 
 Tratándose de una vacante definitiva de alguna de las Magistradas o Magistrados, ésta será comunicada, por conducto de la Presidencia, a la Cámara de Senadores para que se provea el procedimiento de sustitución que prevé la Ley General. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
 
-(NOTA: EL 26 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 170/2022 Y SU ACUMULADA 172/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 677 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 5 DE JULIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
-
 ###### Artículo 28 Bis.
 
-Para el caso de que concluya el periodo para el que fue designado un Magistrado o Magistrada del Tribunal Electoral del Estado de Oaxaca, y el Senado de la Republica no haya hecho la designación de la persona que deba sustituirlo en el cargo, aquel o aquella continuará desempeñando el cargo de Magistrada o Magistrado Electoral, hasta en tanto el Senado de la Republica haga la designación correspondiente.
+(DEROGADO, P.O. 15 DE AGOSTO DE 2023)
 
 ###### Artículo 29.
 
@@ -1506,3 +1502,11 @@ P.O. 22 DE ABRIL DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1495.- MEDIANTE EL CUAL DEROGA EL ARTÍCULO 28 BIS, DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el siguiente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
