@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-procedimiento-y-justicia-administrativa-para-el-124717"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-20"
-last_updated: "2023-04-01"
+last_updated: "2023-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 20 de octubre de 2017.
 
@@ -255,11 +255,17 @@ III. En caso de que el acto se hubiera consumado, o bien, sea imposible de hecho
 
 IV. La omisión o irregularidad en los elementos y requisitos señalados en las fracciones XI a la XV del artículo 17 producirá la nulidad del acto administrativo y dará acción al administrado para demandar ésta ante el Tribunal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 19.
 
-Cuando se haya generado algún derecho o beneficio al administrado, no se podrá anular de oficio el acto administrativo; y la autoridad competente tendrá que iniciar el procedimiento de lesividad ante el Tribunal dentro de los cinco años siguientes a la fecha en que haya sido notificada la resolución, a no ser que los ordenamientos jurídicos aplicables permitan a la autoridad revocar y anular oficiosamente dichos actos administrativos.
+Cuando se haya generado algún derecho o beneficio al administrado, la autoridad competente podrá iniciar optativamente el procedimiento de revisión administrativa de oficio, o el juicio de lesividad ante el Tribunal, dentro de los cinco años siguientes a la fecha en que haya sido notificada la resolución.
 
 En caso de que dichos actos tengan efectos de tracto sucesivo, la autoridad competente podrá demandar la nulidad, en cualquier momento, pero la sentencia que el órgano jurisdiccional administrativo dicte, sólo podrá retrotraer sus efectos hasta los cinco años anteriores a la presentación de la demanda.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
+
+Se seguirá la misma regla prevista en el párrafo anterior, cuando la modificación, revocación o nulidad del acto, se declare a través del inicio del procedimiento de revisión administrativa de oficio.
 
 ###### ARTÍCULO 20.
 
@@ -1033,21 +1039,89 @@ El recurrente podrá esperar la resolución expresa o impugnar en cualquier tiem
 
 La resolución del recurso da acción al agraviado para intentar el juicio que corresponda ante el Tribunal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2018)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE AGOSTO DE 2023)</small>
 
-## TÍTULO PRIMERO. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA
+## TÍTULO SÉPTIMO. DE LA REVISIÓN ADMINISTRATIVA DE OFICIO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE AGOSTO DE 2023)</small>
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 117 BIS.- La revisión administrativa de oficio, es la facultad discrecional de la autoridad administrativa para que, por medio de un procedimiento, declare la modificación, revocación o nulidad de un acto administrativo. Dicho procedimiento, tendrá como finalidad rectificar los errores aritméticos, materiales, de hecho y de derecho de los actos administrativos.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 117 TER.- Las autoridades administrativas de las entidades y dependencias de la Administración Pública Estatal o Municipal, podrán declarar la modificación, revocación o nulidad de los actos administrativos emitidos en contravención a la Ley, así como los efectos jurídicos emanados del mismo, por medio de la revisión administrativa de oficio.
+
+Será procedente, en los casos en los que la autoridad tenga conocimiento que un acto administrativo carece de alguno de los elementos o requisitos de validez establecidos en las fracciones del artículo 17 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 117 QUÁTER.- El procedimiento podrá iniciar y resolverse por el superior jerárquico de la autoridad que haya emitido el acto.
+
+Si el acto objeto del procedimiento fue emitido por el titular de una entidad o dependencia de la Administración Pública Estatal Centralizada o Paraestatal; la autoridad será competente para conocer y resolver sobre su propia determinación, o del acto administrativo emitido por el anterior titular del puesto que desempeña en ese momento.
+
+La misma regla aplicará en caso de que el acto administrativo se haya emitido por un Presidente Municipal o cualquier autoridad que por su nivel administrativo o burocrático no tenga superior jerárquico, o este sea un cuerpo colegiado.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 117 QUINQUIES.- El procedimiento comenzará con la emisión de un acuerdo de inicio. Emitido dicho acuerdo, la autoridad administrativa contará con un plazo de quince días hábiles para la instrucción del procedimiento, en el que reunirá las pruebas y elementos de derecho que fundamenten la resolución.
+
+Al emitirse el acuerdo de inicio, la autoridad deberá verificar si el acto administrativo objeto del procedimiento, involucra a terceros interesados. En caso de ser así, la autoridad deberá notificar al tercero interesado en el plazo de cinco días hábiles el inicio del procedimiento, para que este tenga la oportunidad de manifestar lo que a su derecho convenga y ofrecer las pruebas que acrediten su dicho.
+
+La exhibición de pruebas, se sujetará a las reglas establecidas en el artículo 63 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 117 SEXIES.- Una vez concluida la instrucción del procedimiento, la autoridad emitirá un acuerdo en el que declarará por cerrada dicha etapa.
+
+Asimismo, deberá notificar al tercero interesado, el cierre de la instrucción y deberá otorgar un plazo de cinco días hábiles para que ofrezca alegatos en caso que así lo estime conveniente.
+
+En caso de no existir un tercero interesado, o este no comparezca en el plazo de instrucción del procedimiento, la autoridad podrá emitir la resolución inmediatamente una vez que se haya acordado el cierre de la etapa instructora.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 117 SEPTIES.- Al finalizar el plazo anterior, deberá emitirse una resolución que contendrá la fundamentación de la competencia de la autoridad resolutora; una relatoría sucinta y clara de los antecedentes del acto administrativo; los motivos y fundamentos por las que se determinó iniciar el procedimiento de revisión administrativa y los puntos resolutivos que definirán la situación jurídica del acto administrativo, ya sea su modificación, revocación o la nulidad del mismo.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 117 OCTIES.- La autoridad que esté realizando la revisión administrativa oficiosa podrá emitir las medidas cautelares que estime necesarias, en los siguientes supuestos:
+
+I. Eviten el ocultamiento o destrucción de pruebas;
+
+II. Impidan la continuación de los efectos perjudiciales del acto administrativo irregular;
+
+III. Eviten la obstaculización del adecuado desarrollo del procedimiento de revisión administrativa;
+
+IV. Eviten un daño irreparable a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 117 NONIES.- Las medidas cautelares que se podrán decretar dentro del procedimiento de revisión administrativa oficiosa, serán las siguientes:
+
+I. Suspensión temporal de los efectos del acto administrativo tildado de irregular y de la función del servidor público o particular beneficiado con el mismo;
+
+II. Exhibición de documentos originales relacionados directamente con el procedimiento de revisión administrativa oficiosa;
+
+III. Embargo precautorio de bienes; y
+
+IV. Las que sean necesarias para evitar un daño irreparable a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos, para lo cual se podrá solicitar el auxilio y colaboración de cualquier autoridad del país.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 117 DECIES.- En contra de la determinación o dictado de alguna de las medidas señaladas en el artículo anterior no procederá recurso alguno.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2018)</small>
 
 # LIBRO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2018)</small>
 
-## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL
+## TÍTULO PRIMERO. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA
 
-### CAPÍTULO PRIMERO. DE LA ORGANIZACIÓN DEL TRIBUNAL
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
@@ -1095,7 +1169,11 @@ El Tribunal además de lo señalado en el artículo anterior, conocerá de las R
 
 Bajo ninguna circunstancia se entenderá que la atribución del Tribunal para imponer sanciones a particulares por actos u omisiones vinculadas con faltas administrativas graves se contrapone o menoscaba la facultad que cualquier ente público que (sic) posea para imponer sanciones a particulares en los términos de la legislación aplicable.
 
-### CAPÍTULO SEGUNDO. DE LA SALA SUPERIOR
+## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL
+
+### CAPÍTULO PRIMERO. DE LA ORGANIZACIÓN DEL TRIBUNAL
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 122.
 
@@ -1127,7 +1205,7 @@ En la tramitación y resolución de los recursos de revisión, el Presidente de 
 
 Los Magistrados del Tribunal se regirán en cuanto a sus emolumentos, prestaciones y jubilación por lo establecido en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Oaxaca.
 
-### CAPÍTULO TERCERO. DE LAS SALAS DEL TRIBUNAL
+### CAPÍTULO SEGUNDO. DE LA SALA SUPERIOR
 
 ###### ARTÍCULO 127.
 
@@ -1137,9 +1215,7 @@ Las sesiones ordinarias de la Sala Superior se celebrarán en los días, horas y
 
 Para que la Sala Superior sesione, se requiere de la instalación del quórum legal. Sesionará en número impar de magistrados. El Presidente tendrá voto de calidad en caso de empate.
 
-### CAPÍTULO CUARTO. DE LOS MAGISTRADOS
-
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+### CAPÍTULO TERCERO. DE LAS SALAS DEL TRIBUNAL
 
 ###### ARTÍCULO 129.
 
@@ -1243,7 +1319,7 @@ XI. De la legalidad o nulidad de remates, subastas o similares, embargos y prete
 
 XII. De los asuntos cuya resolución esté reservada al Tribunal conforme a lo dispuesto por ésta u otras leyes.
 
-### CAPÍTULO QUINTO. DE LAS VACACIONES
+### CAPÍTULO CUARTO. DE LOS MAGISTRADOS
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
@@ -1404,6 +1480,10 @@ Todos los servidores públicos mencionados en el párrafo anterior deberán ser 
 Las faltas temporales de los Secretarios judiciales serán cubiertas por el Secretario judicial de la adscripción, o a falta de éstos, por el actuario del mismo. Las faltas temporales de los actuarios, serán cubiertas por quien designe el Tribunal.
 
 Las faltas temporales del Secretario General de Acuerdos serán cubiertas por el secretario de estudio y cuenta que designe la Sala Superior.
+
+### CAPÍTULO QUINTO. DE LAS VACACIONES
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 144.
 
@@ -2059,7 +2139,7 @@ I. Se conserve la materia del juicio;
 
 II. No se afecte el interés social, ni se contravengan disposiciones de orden público; y
 
-III. Sean de difícil reparación los daños o perjuicios que se causen al solicitante con la ejecución del acto impugnado.
+III. (DEROGADA, P.O. 15 DE AGOSTO DE 2023)
 
 ###### ARTÍCULO 216.
 
@@ -2346,3 +2426,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 15 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1494.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 19; Y SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 19; EL TÍTULO SEXTO (SIC) DENOMINADO "DE LA REVISIÓN ADMINISTRATIVA DE OFICIO" JUNTO A SU CAPÍTULO ÚNICO DENOMINADO ·"DISPOSICIONES GENERALES", LOS ARTÍCULOS 117 BIS, 117 TER, 117 QUÁTER, 117 QUINQUIES, 117 SEXIES, 117 SEPTIES, 117 OCTIES, 117 NONIES, 117 DECIES Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 215 TODOS DE LA LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
