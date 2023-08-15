@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2023-06-22"
+last_updated: "2023-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2023.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -292,9 +292,9 @@ d) Socias, socios o empresas de las que la o el Diputado formen o hayan formado 
 
 XIV. Adecuar todas sus conductas a los ordenamientos respectivos y evitar que los recursos económicos, humanos, materiales y telemáticos de que disponga para el ejercicio de su cargo, se destinen a otros fines;
 
-> <small>(REFORMADA, G.O. 26 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2023)</small>
 
-XV. Mantener un vínculo permanente con sus representadas o representados y atender los intereses de las y los ciudadanos, promover y gestionar la solución de los problemas y necesidades colectivas ante las autoridades competentes a través de un Módulo Legislativo de Atención y Quejas Ciudadanas en el distrito o circunscripción para el que haya sido electo;
+XV. Mantener un vínculo permanente con sus representadas o representados y atender los intereses de las y los ciudadanos, promover y gestionar la solución de los problemas y necesidades colectivas ante las autoridades competentes a través de un Módulo Legislativo de Atención, Orientación, Quejas Ciudadanas y Apoyo de Acceso de las Mujeres a Una Vida Libre de Violencia en el distrito o circunscripción para el que haya sido electo;
 
 XVI. Presentar un Informe anual sobre el desempeño de sus labores, ante las y los ciudadanos de su distrito o circunscripción, del cual deberá enviar a la Junta y con una copia a la Conferencia, para su publicación en la Gaceta, mismo que deberá cubrir por lo menos lo siguiente:
 
@@ -3564,9 +3564,9 @@ III. Emitir opinión a las autoridades de la administración pública local en l
 
 IV. Informar, semestralmente y por escrito, a la Junta sobre las peticiones y quejas presentadas por las y los ciudadanos y del trámite que les dio a las mismas;
 
-> <small>(REFORMADA, G.O. 26 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2023)</small>
 
-V. Instalar, instrumentar e integrar de manera pluripartidista, Módulos Legislativos de Atención y Quejas Ciudadanas en lugares en donde se consideren estratégicos, los cuales estarán bajo la dirección del Comité;
+V. Instalar, instrumentar e integrar de manera pluripartidista, Módulos Legislativos de Atención, Orientación, Quejas Ciudadanas y Apoyo de Acceso de las Mujeres a Una Vida Libre de Violencia en lugares en donde se consideren estratégicos, los cuales estarán bajo la dirección del Comité;
 
 VI. Proponer la celebración de convenios entre el Congreso y las autoridades de la administración pública local para la instalación de los módulos a que se refiere la fracción anterior;
 
@@ -3960,11 +3960,33 @@ Solamente se discutirán y votarán los artículos observados, modificados o adi
 
 #### Sección Primera. De la Gestión Social
 
-> <small>(REFORMADO, G.O. 26 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 337.
 
-La gestión social es la acción a través de la cual el Congreso, por medio del Pleno, del Comité de Atención, Orientación y Quejas Ciudadanas y Asuntos Interinstitucionales, de los Módulos Legislativos de Atención y Quejas Ciudadanas o alguno de las o los Diputados, demanda de la autoridad administrativa competente la realización, continuación o suspensión de una o más acciones públicas relacionada con los intereses de la colectividad o con los derechos de las y los habitantes de la Ciudad de México. La atención, orientación y asesoría de las demandas ciudadanas, así como las gestiones correspondientes, serán gratuitas.
+La gestión social es la acción a través de la cual el Congreso, por medio del Pleno, del Comité de Atención, Orientación y Quejas Ciudadanas y Asuntos Interinstitucionales, de los Módulos Legislativos de Atención, Quejas Ciudadanas y Apoyo de Acceso de las Mujeres a Una Vida Libre de Violencia o alguno de las o los Diputados, demanda de la autoridad administrativa competente la realización, continuación o suspensión de una o más acciones públicas relacionada con los intereses de la colectividad o con los derechos de las y los habitantes de la Ciudad de México. La atención, orientación y asesoría de las demandas ciudadanas, así como las gestiones correspondientes, serán gratuitas.
+
+Los Módulos de Atención, Orientación, Quejas Ciudadanas y Apoyo de Acceso de las Mujeres a Una Vida Libre de Violencia, además de los servicios de gestión social que brinden, con el fin de prevenir la violencia en contra de las mujeres, deberán contar, entre otros, con los siguientes servicios dirigidos primordialmente a mujeres:
+
+a) Información en derechos humanos;
+
+b) Asesoría legal;
+
+c) Orientación psicológica;
+
+d) Orientación sexual y reproductiva, y
+
+e) Orientación en Interrupción legal del embarazo.
+
+Con el fin de llevar a cabo adecuadamente estos servicios el Congreso contará con el personal competente en los Módulos, por lo que suscribirá convenios de colaboración y capacitación en los temas relacionados con la prevención y erradicación de la violencia de género con:
+
+1) Dependencias u órganos de la administración pública u órganos autónomos de la Ciudad de México o federales, y
+
+2) Instituciones de educación superior públicas o privadas.
+
+El Congreso suscribirá convenios con instituciones de educación superior publicas o privadas para que estudiantes que deseen realizar su servicio social, lo hagan en los Módulos, siempre y cuando cubran un perfil adecuado para orientar y atender en materia: legal, de salud o psicológica a mujeres víctimas o no de violencia.
+
+El Congreso, suscribirá un convenio de colaboración con la Secretaría de las Mujeres de la Ciudad de México para que el Centro de Atención en la materia este vinculado de manera permanente con los Módulos.
 
 ###### Artículo 338.
 
@@ -5078,9 +5100,9 @@ La entrega del reconocimiento señalado en el artículo 372 del presente reglame
 
 El diploma consiste en el reconocimiento realizado a aquellas personas que participaron en las actividades realizadas a través del Pleno y deberán ser firmados por alguna o algún integrante de la Mesa Directiva o de la Junta.
 
-> <small>(REFORMADO, G.O. 26 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2023)</small>
 
-La constancia consiste en el reconocimiento realizado a aquellas personas que participaron en las actividades realizadas a través de las Comisiones, Comités, los Módulos Legislativos de Atención y Quejas Ciudadanas o las Unidades Administrativas. La firma que avalará la constancia será la de alguna o algún integrante de la Junta Directiva, la o el Diputado al que corresponda el Módulo Legislativo de Atención y Quejas Ciudadanas, la o el Titular de la Unidad Administrativa o bien por alguna o algún integrante del Congreso según sea el caso.
+La constancia consiste en el reconocimiento realizado a aquellas personas que participaron en las actividades realizadas a través de las Comisiones, Comités, los Módulos Legislativos de Atención, Orientación, Quejas Ciudadanas y Apoyo de Acceso de las Mujeres a Una Vida Libre de Violencia o las Unidades Administrativas. La firma que avalará la constancia será la de alguna o algún integrante de la Junta Directiva, la o el Diputado al que corresponda el Módulo Legislativo, la o el Titular de la Unidad Administrativa o bien por alguna o algún integrante del Congreso según sea el caso.
 
 ###### Artículo 453.
 
@@ -6395,6 +6417,14 @@ SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publ
 G.O. 22 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 13, FRACCIONES XXXVIII Y LXXXI; 74 FRACCIONES III, XXXIII, XXXIV Y XLII; 127 FRACCIÓN I; 128; 130; 143 PÁRRAFO PRIMERO; 145 PÁRRAFO PRIMERO, Y 147, FRACCIONES I Y IV DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 58, FRACCIÓN V; 59 FRACCIÓN V; 311 FRACCIÓN II; 370, FRACCIÓN III, INCISO K; 371 FRACCIÓN X; LA DENOMINACIÓN DE LA SECCIÓN DÉCIMA SEGUNDA DEL CAPÍTULO II DEL TÍTULO DÉCIMO; 441; 442, FRACCIÓN I; 443, Y 450, FRACCIÓN VII DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 7 FRACCIÓN XV, 306, FRACCIÓN V, 337 Y 452, PÁRRAFO SEGUNDO, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
 
