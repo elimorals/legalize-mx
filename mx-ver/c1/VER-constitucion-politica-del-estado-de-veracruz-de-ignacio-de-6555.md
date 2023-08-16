@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2022-12-19"
+last_updated: "2023-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2023.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -177,11 +177,17 @@ El uso y disfrute colectivo de los recursos naturales por las comunidades indíg
 
 El Estado y los municipios, en el ámbito de sus respectivas competencias, reconocerán el derecho de las comunidades indígenas a promover su desarrollo equitativo y sustentable, por lo que para la elaboración de los respectivos planes estatal y municipales de desarrollo consultarán previamente a las comunidades indígenas, conforme a los medios de consulta que para tal efecto se establezcan en la Ley de Planeación, así como la forma en que participen en el ejercicio y vigilancia de las acciones a ellas destinadas; también se reconocerá su derecho a una educación laica, obligatoria, bilingüe y pluricultural. Asimismo, en los términos previstos por la ley, se impulsarán el respeto y reconocimiento de las diversas culturas existentes en la Entidad y combatirán toda forma de discriminación.
 
-(NOTA: EL 7 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 210/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO, G.O. 4 DE MARZO DE 2020)</small>
+Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural del Estado de Veracruz de Ignacio de la Llave. Tendrán, en lo conducente, los derechos señalados en el presente artículo, en los términos que establezcan las leyes, a fin de garantizar su libre determinación, autonomía, desarrollo integral e inclusión en todos los ámbitos de la vida pública.
 
-Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural de Veracruz. TENDRÁN EN LO CONDUCENTE LOS DERECHOS SEÑALADOS EN EL PRESENTE ARTÍCULO EN LOS TÉRMINOS QUE ESTABLEZCAN LAS LEYES, A FIN DE GARANTIZAR SU LIBRE DETERMINACIÓN, AUTONOMÍA, DESARROLLO E INCLUSIÓN.
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2023)</small>
+
+Corresponde al Estado promover y proteger el patrimonio cultural y natural de las comunidades de afrodescendientes radicados en la Entidad, a través de la implementación de las políticas públicas pertinentes, así como garantizar los derechos siguientes de los pueblos y comunidades afromexicanas, enunciados de manera no limitativa: a alcanzar su desarrollo integral con igualdad sustantiva y perspectiva de género; a proteger, restaurar, conservar, defender y aprovechar sosteniblemente los recursos naturales, ecosistemas, biodiversidad y demás elementos medioambientales que integran su hábitat y sustentan su cultura e identidad; a preservar, enriquecer y transmitir generacionalmente la práctica de su memoria histórica, arte, tecnologías, sistemas alternativos de salud, tradiciones orales y culinarias, filosofías y demás elementos de identidad y cultura; a participar activa y creativamente en la vida pública, la organización económica y productiva, la generación de empleos, la preservación de la salud, el establecimiento de infraestructura sostenible y el mejoramiento del ingreso; a contar, de conformidad con las leyes de la materia, con programas y materiales educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, su historia, cosmovisión y aportaciones sociales, políticas, económicas, culturales y democráticas; y a ejercer la autoadscripción calificada.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2023)</small>
+
+El Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de los planes y programas de política pública, en los presupuestos de egresos que aprueben, así como los mecanismos y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2018)</small>
 
@@ -4122,3 +4128,11 @@ SEXTO. Los recursos materiales, financieros y presupuestales con que cuenta el T
 SÉPTIMO. En términos del artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, hasta en tanto se nombren magistraturas, se suspenderán los plazos procesales, sin que ello implique denegación de la justicia administrativa.
 
 OCTAVO. Dadas las circunstancias sobre el posible trastorno al funcionamiento del órgano autónomo extinto, dese inicio al procedimiento que en derecho proceda.
+
+G.O. 16 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 487 QUE REFORMA EL PÁRRAFO SÉPTIMO Y QUE ADICIONA LOS PÁRRAFOS OCTAVO Y NOVENO, CON EL CORRIMIENTO DEL ACTUAL OCTAVO A DÉCIMO, AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
