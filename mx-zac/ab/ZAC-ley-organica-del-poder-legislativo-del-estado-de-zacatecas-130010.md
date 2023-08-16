@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2022-12-10"
+last_updated: "2023-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2023.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -553,7 +553,9 @@ XII. Recibir informe de actividades de la Legislatura a través de su presidente
 
 XIII. Recibir, con antelación, las copias de los dictámenes de ley o decreto, así como de los acuerdos, que vayan a ser objeto de discusión o debate;
 
-XIV. Emitir su voto en el sentido que crean conveniente, tanto en las resoluciones de la Asamblea, como de las comisiones y demás órganos que establece esta Ley y su Reglamento General;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2023)</small>
+
+XIV. Emitir su voto a favor o en contra, tanto en las resoluciones de la Asamblea, como de las comisiones y demás órganos que establece esta Ley y su Reglamento General;
 
 XV. De acuerdo con la previsión presupuestal anual, contar con el apoyo para el desempeño de sus funciones;
 
@@ -975,9 +977,19 @@ IV. Rectificación de trámite;
 
 V. Alusiones personales;
 
-VI. Suspensión de la discusión, y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2023)</small>
 
-VII. Otras necesarias para el buen desarrollo de las discusiones.
+VI. Suspensión de la discusión;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2023)</small>
+
+VII. Pregunta a la persona oradora;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2023)</small>
+
+VIII. Ilustración al Pleno; y
+
+IX. Otras necesarias para el buen desarrollo de las discusiones.
 
 Las mociones serán reguladas en el Reglamento General.
 
@@ -999,9 +1011,11 @@ III. Por cédula.
 
 El Reglamento General determinará el procedimiento de las mismas.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 76.
 
-Para que el voto de un diputado sea válido, deberá emitirlo desde el área de curules. Ningún diputado puede salir de la sesión o solicitar el registro de asistencia, mientras se efectúa la votación.
+Para que el voto de una diputada o diputado sea válido, deberá emitirlo a favor o en contra del asunto sometido a su consideración, y lo hará desde el área de curules. Ningúna diputada o diputado puede salir de la sesión o solicitar el registro de asistencia, mientras se efectúa la votación.
 
 ###### Artículo 77.
 
@@ -1481,6 +1495,10 @@ XVII. Coadyuvar en las acciones en materia de Parlamento Abierto, así como dar 
 
 XVIII. Coordinar la relación con los medios de comunicación y propiciar que la actividad de la Legislatura se difunda con objetividad en todo el territorio del Estado;
 
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2023)</small>
+
+Para alcanzar los objetivos descritos en la presente fracción, la Junta de Coordinación Política podrá proponer al Pleno, la integración de un Comité de diputadas y diputados, como su órgano auxiliar, con una vigencia y objetivos determinadas (sic) en el acuerdo de su creación.
+
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
 
 XIX. Asumir las atribuciones que no estén expresamente conferidas a la Mesa Directiva o al Órgano de Administración y Finanzas, y
@@ -1603,9 +1621,9 @@ Las Comisiones Legislativas son órganos internos de la Legislatura que tienen c
 
 Las Comisiones Legislativas se constituyen y funcionan para toda una Legislatura; se integran por acuerdo del Pleno a propuesta de la Junta de Coordinación Política, mínimo por tres diputadas o diputados, máximo por cinco, una diputada o diputado la presidirá y los demás ocuparán una secretaría, salvo las excepciones previstas en el Reglamento General y las que, en su caso, determine el Pleno.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE AGOSTO DE 2023)</small>
 
-Se procurará que en ellas se encuentren representados los diferentes grupos parlamentarios constituidos ante la Junta de Coordinación Política, que sean en número impar, y que cada diputada o diputado que integre la Legislatura, presida una comisión y ocupe, al menos, dos secretarías en otras comisiones, y son las siguientes:
+Se procurará que en ellas se encuentren representados los diferentes grupos parlamentarios constituidos ante la Junta de Coordinación Política, así como las diputaciones independientes o sin partido que cumplan con lo descrito en el párrafo inmediato anterior, y que cada diputada o diputado que integre la Legislatura, presida una comisión y ocupe, al menos, dos secretarías en otras comisiones, y son las siguientes:
 
 I. Agricultura, Ganadería y Desarrollo Rural Sustentable;
 
@@ -1639,7 +1657,9 @@ XV. Gobernación;
 
 XVI. Hacienda y Fortalecimiento Municipal;
 
-XVII. Igualdad de Género;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2023)</small>
+
+XVII. Igualdad Sustantiva entre Mujeres y Hombres;
 
 XVIII. Jurisdiccional;
 
@@ -1673,13 +1693,19 @@ Las comisiones legislativas tienen las siguientes atribuciones:
 
 I. Recibir, analizar, estudiar, discutir y dictaminar los asuntos que les turne la Mesa Directiva;
 
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2023)</small>
+
+Aquellos asuntos que les sean turnados y que a juicio de cada comisión no requieran dictamen por falta de materia, notoria improcedencia o por desistimiento de parte interesada, las comisiones podrán acordar su archivo definitivo sin necesidad de someter dictamen al Pleno, determinación que informarán a la Presidencia de la Mesa dentro de los tres días hábiles siguientes a la fecha del acuerdo;
+
 II. Elaborar su programa de trabajo y entregarlo a la Asamblea dentro del término de treinta días naturales contados a partir de la integración de la misma;
 
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
 
 III. Presentar ante el Pleno y la Junta de Coordinación Política, por conducto de su Presidencia, informe escrito anual de actividades;
 
-IV. Emitir sus dictámenes agotando todos los pasos, de conformidad con el asunto de que se trate y al procedimiento señalado en esta Ley y en el Reglamento General. Todo dictamen deberá estar firmado por los integrantes de las mismas o, en su caso, por la mayoría. Si alguno de ellos disiente de una resolución, podrá expresar su punto de vista por escrito y firmarlo como voto particular y dirigirlo al presidente de la Legislatura para que sea puesto a consideración de la Asamblea, cuando se presente el dictamen motivo de dicho voto particular;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2023)</small>
+
+IV. Emitir sus dictámenes agotando todos los pasos, de conformidad con el asunto de que se trate y al procedimiento señalado en esta Ley y en el Reglamento General. Todo dictamen deberá estar firmado por los integrantes de las mismas o, en su caso, por la mayoría. Si algún integrante de la comisión disiente de una resolución, podrá expresar su punto de vista por escrito, firmarlo como voto particular y dirigirlo a la Presidencia de la Mesa de la Legislatura para que sea puesto a consideración de la Asamblea en la etapa de discusión del dictamen motivo de dicho voto particular;
 
 V. Presentar a la Asamblea los dictámenes de las iniciativas o asuntos turnados a su estudio, en un plazo no mayor a cuarenta días naturales. Las Comisiones determinarán la acumulación de iniciativas cuando éstas versen sobre la misma materia o se expresen en una misma ley, decreto, acuerdo o resolución, en tal caso, el plazo será computado a partir de la fecha en que se hubiere turnado el último;
 
@@ -2111,25 +2137,41 @@ X. Las disposiciones relativas a la municipalización de los programas de desarr
 
 XI. Las bases para la elaboración del plan trianual de desarrollo y los programas operativos anuales de los municipios.
 
-IGUALDAD DE GÉNERO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2023)</small>
+
+IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 150.
 
-Corresponde a la Comisión de Igualdad de Género, el conocimiento y dictamen de los asuntos siguientes:
+Corresponde a la Comisión de Igualdad Sustantiva entre Mujeres y Hombres, el conocimiento y dictamen de los asuntos siguientes:
 
-I. Los que se refieran a las iniciativas de ley, reformas, adiciones o puntos de acuerdo relacionadas con la igualdad de género;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2023)</small>
 
-II. Las medidas legislativas para el cumplimiento de los acuerdos, convenios y conferencias internacionales que México haya suscrito, así como darle seguimiento a los mismos;
+I. Los que se refieran a las iniciativas de ley, reformas, adiciones o puntos de acuerdo relacionadas con la Igualdad Sustantiva entre mujeres y hombres;
 
-III. La promoción de la cultura e igualdad de género;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2023)</small>
 
-IV. Los que se relacionen con la discriminación o maltrato de la mujer o del varón, por razones de sexo, raza, edad, credo político o religioso y situación socioeconómica, entre otros;
+II. Los relativos al cumplimiento y armonización, de los acuerdos, convenios y conferencias internacionales, suscritos por el Estado mexicano, en materia de igualdad sustantiva entre mujeres y hombres, así como darles seguimiento;
 
-V. Las propuestas tendientes a garantizar la igualdad entre la mujer y el hombre y aquellas con el objeto de garantizar la tolerancia y evitar la discriminación;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2023)</small>
+
+III. Los relativos a la aplicación y promoción de la cultura de Igualdad Sustantiva entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2023)</small>
+
+IV. Los que se relacionen con la discriminación o maltrato de la mujer o del hombre, por razones de género, raza, edad, credo, preferencia política y situación socioeconómica, entre otros;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2023)</small>
+
+V. Las propuestas tendientes a garantizar la igualdad entre la mujer y el hombre, además de las que tengan por objeto la eliminación de cualquier forma de violencia o discriminación hacia la mujer y el hombre;
 
 VI. Lo relativo al tratamiento a la legislación para prevenir y atender la violencia intrafamiliar;
 
-VII. Las normas mediante las cuales se asegure que los distintos programas de gobierno incluyan un apartado especial de atención a madres jefas de familia, y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2023)</small>
+
+VII. Las normas generales y programas gubernamentales, procurando la inclusión y promoción de la cultura del respeto a la mujer;
 
 VIII. Lo relativo a la organización estatal y municipal de las madres jefas de familia.
 
@@ -2621,6 +2663,10 @@ IV. El sistema salarial y de estímulos, y
 
 V. Los programas para la capacitación, actualización y desarrollo de los servidores públicos.
 
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2023)</small>
+
+Para alcanzar los objetivos descritos, la Legislatura, programará y aprobará anualmente el presupuesto necesario para la ejecución de los programas que para el caso sea necesario.
+
 ###### Artículo 186.
 
 La Legislatura del Estado podrá celebrar convenios de coordinación o colaboración con los demás Poderes o con instituciones públicas o privadas, con el fin de cumplir con los objetivos del servicio profesional de conformidad con lo dispuesto en el Estatuto del Servicio Profesional de Carrera Parlamentaria de la Legislatura.
@@ -2880,3 +2926,15 @@ Artículo segundo. Se derogan las disposiciones que se opongan al presente Decre
 Artículo tercero. Los manuales de organización y procedimientos, deberán adecuarse al contenido del presente Decreto antes del 31 de diciembre de 2022, incluyendo en su proceso lo relativo al área para madres lactantes de esta Legislatura.
 
 Artículo cuarto. Respecto a la adición del artículo 79 de la Ley Orgánica del Poder Legislativo, en un plazo de 40 días se deberán actualizar las leyes relacionadas al cumplimiento del mismo.
+
+P.O. 16 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 350.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo tercero. El Comité de Comunicación Social deberá ser integrado en un plazo no mayor a 40 días y presentará su Plan Anual de Trabajo 2024, con al menos los objetivos planteados en el Considerando Tercero, de los alcances de las iniciativas del presente decreto, para integrarse en el presupuesto correspondiente.
+
+Artículo cuarto. En cuanto a la previsión presupuestal señalada en la reforma al artículo 185 de la Ley Orgánica, deberá primero actualizarse el Estatuto del Servicio Profesional de Carrera Parlamentaria, observando los cambios jurídicos que para el caso apliquen y acudir a la suficiencia presupuestal.
