@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entidades-paraestatales-del-estado-de-oaxaca-11811"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-28"
-last_updated: "2018-11-10"
+last_updated: "2023-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de febrero de 1998.
 
@@ -380,6 +380,18 @@ II. La explotación de bienes o recursos propiedad del Estado;
 III. La investigación científica, difusión de la cultura, impartición de la educación; o
 
 IV. La obtención o aplicación de recursos para fines de asistencia o seguridad social.
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2023)</small>
+
+V. La obtención de cualquier información para prevenir conductas relativas al lavado de activos;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2023)</small>
+
+VI. La administración, enajenación y en general dar destino a los bienes que le sean trasferidos, y
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2023)</small>
+
+VII. Aquellos que tengan como fin tutelar, proteger y garantizar un interés general.
 
 ###### ARTICULO 21.
 
@@ -874,3 +886,13 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a este Decreto.
+
+P.O. 17 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1513.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES V, VI Y VII AL ARTÍCULO 20 DE LA LEY DE ENTIDADES PARA ESTATALES DEL ESTADO DE OAXACA; Y SE REFORMA EL ARTÍCULO 60 Y SE DEROGA LA FRACCIÓN LVIII DEL ARTÍCULO 45 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en el portal del Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
