@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-austeridad-republicana-oaxaca-164240"
 country: "mx"
 rank: "ley"
 publication_date: "2023-01-20"
-last_updated: "2023-01-20"
+last_updated: "2023-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE AUSTERIDAD REPUBLICANA, DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 20 de enero de 2023.
 
@@ -87,17 +87,27 @@ V. Nepotismo: La designación, otorgamiento de nombramiento o contratación que 
 
 VI. Remuneración: Toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones económicas, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
 
-VII. Secretaría: Secretaría de Honestidad, Transparencia y Función Pública del Gobierno del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2023)</small>
 
-VIII. Secretaría de Finanzas: Secretaría de Finanzas del Gobierno del Estado de Oaxaca, y
+VII. Secretaría: Secretaría de Administración del Gobierno del Estado de Oaxaca;
 
-IX. Servidor Público: Persona que desempeña un empleo, cargo o comisión en los entes públicos del ámbito estatal o municipal, conforme a lo dispuesto en el artículo 115 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2023)</small>
+
+VIII. Secretaría de Finanzas: Secretaría de Finanzas del Gobierno del Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2023)</small>
+
+IX. Secretaría de Honestidad: Secretaría de Honestidad, Transparencia y Función Pública del Gobierno del Estado de Oaxaca; y
+
+X. Servidor Público: Persona que desempeña un empleo, cargo o comisión en los entes públicos del ámbito estatal o municipal, conforme a lo dispuesto en el artículo 115 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
 ###### Artículo 5.
 
 El cumplimiento de la presente Ley recaerá sobre cada uno de los entes públicos, quienes para su vigilancia se apoyarán de la instancia encargada de su respectivo control interno.
 
-La Secretaría y la Secretaría de Finanzas estarán facultados en el ámbito de sus atribuciones, para interpretar esta Ley.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
+
+La Secretaría, estará facultada en el ámbito de sus atribuciones, para interpretar esta Ley.
 
 ### CAPÍTULO II. LA AUSTERIDAD DE ESTADO
 
@@ -139,11 +149,15 @@ Los órganos internos encargados del control o de la fiscalización en cada ente
 
 En tanto no se autoricen nuevos programas o se amplíen las metas de los existentes, los gastos por concepto de telefonía, telefonía celular, fotocopiado, combustibles, arrendamientos, viáticos, alimentación, mobiliario, remodelación de oficinas, equipo de telecomunicaciones, bienes informáticos, papelería, pasajes, congresos, convenciones, exposiciones y seminarios, necesarios para cumplir la función de cada dependencia y organismo, no podrán exceder de los montos erogados en el ejercicio presupuestal inmediato anterior, una vez considerados los incrementos en precios y tarifas oficiales o la inflación. Lo anterior, salvo las autorizaciones presupuestales que otorgue la Secretaría de Finanzas, previa justificación.
 
-La Secretaría y la Secretaría de Finanzas, en sus respectivos ámbitos de competencia, emitirán los lineamientos para la adquisición de bienes y servicios de uso generalizado de los entes públicos, de manera consolidada, con objeto de obtener las mejores condiciones con relación a precio, calidad y oportunidad, pudiendo ampliar los supuestos regulados en este artículo, en caso de estimarlo conveniente, sin perjuicio de lo previsto en la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca y otros ordenamientos legales.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
+
+La Secretaría, en su respectivo ámbito de competencia, emitirá los lineamientos para la adquisición de bienes y servicios de uso generalizado de los entes públicos de manera consolidada, con objeto de obtener las mejores condiciones con relación a precio, calidad y oportunidad, pudiendo ampliar los supuestos regulados en este artículo, en caso de estimarlo conveniente, sin perjuicio de lo previsto en la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca y otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 11.
 
-Las erogaciones por concepto de congresos y convenciones se sujetarán a los lineamientos que emitan la Secretaría y la Secretaría de Finanzas, atendiendo a las disposiciones de austeridad y en el ámbito de sus respectivas atribuciones.
+Las erogaciones por concepto de congresos y convenciones se sujetarán a los lineamientos que emita la Secretaría, atendiendo a las disposiciones de austeridad y en el ámbito de sus atribuciones.
 
 ###### Artículo 12.
 
@@ -185,7 +199,9 @@ VII. Se prohíbe remodelar oficinas por cuestiones estéticas o comprar mobiliar
 
 VIII. Se prohíbe el derroche en energía eléctrica, agua, servicios de telefonía fija y móvil, gasolinas e insumos financiados por el erario.
 
-La Secretaría y la Secretaría de Finanzas elaborarán y emitirán de manera conjunta los lineamientos necesarios para regular lo previsto en el presente artículo, de acuerdo con sus atribuciones y considerando las disposiciones de la Ley, pudiendo ampliar los supuestos regulados en este artículo, en caso de estimarlo conveniente.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
+
+La Secretaría elaborará y emitirá los lineamientos necesarios para regular lo previsto en el presente artículo, de acuerdo con sus atribuciones y considerando las disposiciones de la Ley, pudiendo ampliar los supuestos regulados en este artículo, en caso de estimarlo conveniente.
 
 Corresponderá a la Secretaría de Finanzas en el ámbito del Poder Ejecutivo, emitir las disposiciones que en materia de control presupuestal regirán la implementación de la presente Ley.
 
@@ -229,7 +245,9 @@ V. Contar con las autorizaciones y opiniones que corresponda emitir a la Secreta
 
 La Secretaría de Finanzas contará con un sistema de información de fideicomisos, mandatos o contratos análogos que manejen recursos públicos en el cual las dependencias y entidades inscribirán la información de la totalidad de los instrumentos a que se refiere el artículo anterior. Asimismo, concentrará el reporte de la información respectiva, misma que se hará de conocimiento en los informes trimestrales a que se refiere la Ley Estatal de Presupuesto y Responsabilidad Hacendaria.
 
-La Secretaría y la Auditoria de Fiscalización del Estado de Oaxaca desarrollarán, en el ámbito de sus respectivas competencias, las actividades de fiscalización a todo fideicomiso, mandato o contrato análogo que maneje recursos públicos, para verificar el cumplimiento de lo dispuesto en la presente Ley.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
+
+La Secretaría de Honestidad y la Auditoría Superior de Fiscalización del Estado de Oaxaca desarrollarán, en el ámbito de sus respectivas competencias, las actividades de fiscalización a todo fideicomiso, mandato o contrato análogo que maneje recursos públicos, para verificar el cumplimiento de lo dispuesto en la presente Ley.
 
 Las autoridades en materia de fiscalización incluirán en su planeación de auditorías, visitas e inspecciones a cualquier fideicomiso, mandato o contrato análogo que maneje recursos públicos, y darán seguimiento y evaluación rigurosa del cumplimiento de los fines para los cuales fueron constituidos.
 
@@ -265,7 +283,9 @@ Por ningún motivo se autorizarán pensiones de retiro al titular del Ejecutivo 
 
 Ningún servidor público podrá utilizar recursos humanos, materiales o financieros institucionales para fines distintos a los relacionados con sus funciones; su contravención será causa de responsabilidad administrativa en los términos que establezcan la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
-Los entes públicos deberán emitir su correspondiente código de conducta en concordancia con la presente Ley y cada servidor público debe protestar cumplirlo.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
+
+Cada Ente Público, en el ámbito de sus facultades y atribuciones actualizarán su Código de Conducta observando la presente Ley y en apego a las disposiciones jurídicas que le sean aplicables.
 
 ###### Artículo 23.
 
@@ -277,9 +297,11 @@ Queda prohibido a cualquier persona física o moral el uso de su personalidad ju
 
 Lo anterior, de conformidad con lo establecido en el marco normativo aplicable.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 25.
 
-La Secretaría de Finanzas y la Secretaría emitirán los lineamientos aplicables en materia de austeridad, sin que éstos limiten o interfieran en el cumplimiento de la prestación de servicios al público y de los objetivos de los entes públicos.
+La Secretaría emitirá los lineamientos aplicables en materia de austeridad, sin que éstos limiten o interfieran en el cumplimiento de la prestación de servicios al público y de los objetivos de los entes públicos.
 
 ### CAPÍTULO IV. DE LA EVALUACIÓN DE LA POLÍTICA DE AUSTERIDAD Y DEL FINCAMIENTO DE RESPONSABILIDADES
 
@@ -329,7 +351,9 @@ CUARTO. Los entes públicos en un plazo máximo de ciento ochenta días hábiles
 
 QUINTO. Los lineamientos a que se refiere esta Ley se expedirán en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto. Dichos lineamientos, establecerán, entre otras cosas, las disposiciones relativas a la contratación de personal por honorarios y asesores en la Administración Pública Estatal.
 
-SEXTO. La Secretaría de Honestidad, Transparencia y Función Pública deberá expedir dentro de los noventa días hábiles contados a partir de su entrada en vigor, un Código de Conducta para servidores públicos conforme a las disposiciones del presente Decreto.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
+
+SEXTO. La Secretaría de Honestidad, deberá actualizar y reformar el Código de Ética para las personas servidoras públicas del Poder Ejecutivo del Estado de Oaxaca, dentro de los ciento ochenta días hábiles contados a partir de su entrada en vigor, debiendo observar lo dispuesto en la presente Ley, asimismo, cuando realice acciones en materia de Ética e Integridad.
 
 SÉPTIMO. Se prohíbe y se cancela cualquier tipo de pensión que se hubiere creado contrario a derecho para el beneficio de los extitulares del Poder Ejecutivo del Estado.
 
@@ -341,12 +365,28 @@ Dentro de los noventa días hábiles posteriores a la entrada en vigor de esta L
 
 La presidencia de dicho Comité estará a cargo de la Secretaría de Honestidad, Transparencia y Función Pública y la Secretaría de Finanzas del Gobierno del Estado, que desempeñarán esta función en forma alternada por los periodos que señalen los Lineamientos a que se refiere el párrafo anterior.
 
-NOVENO. En un plazo de hasta ciento ochenta días hábiles posteriores a la entrada en vigor de la presente Ley, la Secretaría de Honestidad, Transparencia y Función Pública y la Secretaría de Finanzas del Gobierno del Estado analizarán la normatividad, las estructuras, patrimonio, objetivos, eficiencia y eficacia de los fideicomisos públicos, fondos, mandatos públicos o contratos análogos que reciban recursos públicos estatales. El análisis será publicado a través de un informe, el cual será remitido al Congreso del Estado de Oaxaca. El resultado correspondiente a cada fideicomiso deberá ser tomado en cuenta por el Poder Ejecutivo Estatal para la elaboración del Proyecto de Presupuesto de Egresos del Estado correspondiente.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
 
-DÉCIMO. La Secretaría de Honestidad, Transparencia y Función Pública podrá convenir con las principales instituciones educativas especializadas en administración pública del Estado y de la Federación, convenios de colaboración para la capacitación y profesionalización de los servidores públicos, en materia de construcción de indicadores y mejora continua de procesos que permitan identificar áreas de oportunidad para lograr un gasto austero, responsable, eficiente y eficaz.
+NOVENO. En un plazo de hasta ciento ochenta días hábiles posteriores a la entrada en vigor de la presente Ley, la Secretaría de Honestidad, la Secretaría de Finanzas y la Secretaría del Gobierno del Estado analizarán la normatividad, las estructuras, patrimonio, objetivos, eficiencia y eficacia de los fideicomisos públicos, fondos, mandatos públicos o contratos análogos que reciban recursos públicos estatales. El análisis será publicado a través de un informe, el cual será remitido al Congreso del Estado de Oaxaca. El resultado correspondiente a cada fideicomiso deberá ser tomado en cuenta por el Poder Ejecutivo Estatal para la elaboración del Proyecto de Presupuesto de Egresos del Estado correspondiente.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
+
+DÉCIMO. La Secretaría de Honestidad, propondrá un plan anual de capacitación, proponiendo convenios de colaboración para la capacitación y profesionalización de los servidores públicos, en materia de construcción de indicadores y mejora continua de procesos que permitan identificar áreas de oportunidad para lograr un gasto austero, con las principales instituciones educativas especializadas en administración pública del Estado y de la Federación, de manera responsable, eficiente y eficaz, mismo programa que deberá ser ejecutado por la Secretaría.
 
 DÉCIMO PRIMERO. Quedan derogadas todas las disposiciones jurídicas de igual o menor jerarquía, que contravengan el contenido del presente Decreto.
 
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 11 de Enero de 2023.- Dip. Miriam de los Ángeles Vázquez Ruiz, Presidenta. Dip. Nancy Natalia Benítez Zárate, Vicepresidenta.- Dip. Dennis García Gutiérrez, Secretaria.- Dip. María Luisa Matus Fuentes, Secretaria.- Dip. Eva Diego Cruz, Secretaria. Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno; Centro, Oax., a 11 de Enero de 2023. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Ing. Salomón Jara Cruz.- Rúbrica.- El Secretario de Gobierno. Lcdo. José de Jesús Romero López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1514.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VII, VIII Y SE ADICIONA LA FRACCIÓN IX RECORRIENDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 4, SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 5, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10, EL ARTÍCULO 11, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 15, EL ARTÍCULO 18, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22, EL ARTÍCULO 25 Y LOS TRANSITORIOS SEXTO, NOVENO Y DÉCIMO, TODOS DE LA LEY ESTATAL DE AUSTERIDAD REPUBLICANA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
