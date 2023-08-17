@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2023-07-29"
+last_updated: "2023-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -1851,9 +1851,7 @@ LVI. Celebrar convenios y demás instrumentos jurídicos con dependencias y enti
 
 LVII. (DEROGADA, P.O. 29 DE ABRIL DE 2021)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-LVIII. Recabar, procesar y diseminar toda la información pertinente para prevenir conductas relativas al lavado de activos, incluida las relativas a las (sic) declaración de situación patrimonial de los servidores públicos que al efecto requiera de la Secretaría de la Contraloría y Transparencia Gubernamental así como del registro vehicular y la que resulte necesaria para la prevención de conductas relativas al lavado de activos, y
+LVIII. (DEROGADA, P.O. 17 DE AGOSTO DE 2023)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -3171,11 +3169,11 @@ La Administración Pública Paraestatal está integrada por Organismos Descentra
 
 ### CAPÍTULO II. DE LOS ORGANISMOS DESCENTRALIZADOS
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
 
 ###### ARTÍCULO 60.
 
-Son Organismos Descentralizados los entes públicos creados por Ley o decreto del Congreso del Estado o por decreto del Gobernador del Estado, con personalidad jurídica y patrimonio propios, cualquiera que sea la denominación, estructura y forma de organización que adopten, siempre que no sean sociedades, asociaciones o fideicomisos, y su objeto preponderante sea la prestación de un servicio público o social, la protección, promoción, estudio o divulgación de un asunto de interés público o social, la explotación de bienes o recursos propiedad del Estado, la investigación científica, difusión de la cultura, impartición de la educación o la obtención y aplicación de recursos para fines de asistencia o seguridad social, en términos de la Ley de Entidades Paraestatales del Estado de Oaxaca y de las demás disposiciones aplicables.
+Son organismos descentralizados los entes públicos creados por ley o decreto del congreso del estado o por decreto del gobernador del estado, con personalidad jurídica y patrimonio propios, cualquiera que sea la denominación, estructura y forma de organización que adopte, siempre que no sean sociedades, asociaciones o fideicomisos y su objeto preponderante sea la prestación de un servicio público o social, la protección, promoción, estudio o divulgación de un asunto de interés público o social, la explotación de bienes o recursos propiedad del estado, la investigación científica, difusión de la cultura, impartición de la educación o la obtención y aplicación de recursos para fines de asistencia o seguridad social, así como la obtención de cualquier información para prevenir conductas relativas al lavado de activos; la administración, enajenación y en general dar destino a los bienes que le sean transferidos y aquellos que tengan como fin tutelar, proteger y garantizar un interés general, en términos de la Ley de Entidades Paraestatales del Estado de Oaxaca y de las demás disposiciones aplicables.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -4116,6 +4114,16 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 29 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1451.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXXIX AL ARTÍCULO 4 DE LA LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN XII AL ARTÍCULO 2 DE LA LEY DE ENTREGA-RECEPCÍON DE LOS RECURSOS Y BIENES DEL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 45, EL PRIMER PÁRRAFO Y LAS FRACCIONES X Y XX DEL ARTÍCULO 47 Y LA FRACCION XIV DEL ARTÍCULO 49 BIS TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en el portal del Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 17 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1513.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES V, VI Y VII AL ARTÍCULO 20 DE LA LEY DE ENTIDADES PARA ESTATALES DEL ESTADO DE OAXACA; Y SE REFORMA EL ARTÍCULO 60 Y SE DEROGA LA FRACCIÓN LVIII DEL ARTÍCULO 45 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en el portal del Congreso del Estado.
 
