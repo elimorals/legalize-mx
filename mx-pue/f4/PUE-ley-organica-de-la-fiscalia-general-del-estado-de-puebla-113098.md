@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-fiscalia-general-del-estado-de-puebla-113098
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-02-20"
-last_updated: "2023-07-26"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley publicada en la Tercera Edición Extraordinaria del Periódico Oficial del Estado de Puebla, el sábado 20 de febrero de 2016.
 
@@ -39,7 +39,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 56, 57 fracción I, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 134, 135, y 136 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 93 fracción VII y 120 fracciones II y VII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se emite la siguiente Minuta de:
 
@@ -473,13 +475,17 @@ XXVI. La Dirección General de Planeación Institucional;
 
 XXVII. La Dirección General de Comunicación Estratégica y Vinculación Social;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-XXVIII. La Unidad Especializada en Materia de Extinción de Dominio, y
+XXVIII. La Unidad Especializada en Materia de Extinción de Dominio;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2023)</small>
 
-XXIX. La Unidad de Transparencia.
+XXIX. La Unidad Especializada en Materia de Seguridad Vial, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE AGOSTO DE 2023)</small>
+
+XXX. La Unidad de Transparencia.
 
 B) Órganos que le auxiliarán en el ejercicio de sus funciones:
 
@@ -1988,3 +1994,13 @@ QUINTO. La Fiscalía General del Estado deberá realizar las gestiones necesaria
 SEXTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal y material, que a la entrada en vigor del presente Decreto, se refiera a la Unidad Especializada en Investigación del Delito de Tortura y otros Tratos Crueles, Inhumanos o Degradantes, se entenderá atribuido a la Fiscalía Especializada en Investigación del Delito de Torh1ra y otros Tratos Crueles, Inhumanos o Degradantes.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXVIII Y XXIX DEL INCISO A) DEL ARTÍCULO 9, Y ADICIONA LA FRACCIÓN XXX AL INCISO A) DEL ARTÍCULO 9 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Fiscalía General del Estado de Puebla, en un plazo que no exceda de 180 días hábiles contados a partir de su entrada en vigor, deberá proveer lo conducente legal, reglamentaria y administrativamente a efecto de cumplir con el presente Decreto.
