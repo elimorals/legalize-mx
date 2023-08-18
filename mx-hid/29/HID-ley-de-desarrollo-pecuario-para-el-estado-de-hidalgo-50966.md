@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-pecuario-para-el-estado-de-hidalgo-50966"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2021-12-27"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO PECUARIO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -415,7 +415,9 @@ I.- Proponer a la Secretaría el nombramiento del Coordinador de Ganadería Muni
 
 II.- Fomentar, proteger y difundir la actividad pecuaria en el Municipio;
 
-III.- Apoyar los programas relativos al mejoramiento pecuario y a la sanidad animal, control de excretas y del medio ambiente en el Municipio;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+III.- Apoyar los programas relativos al mejoramiento pecuario y la sanidad animal, control de excretas y del medio ambiente, así como mitigación del cambio climático en el municipio;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
@@ -1632,3 +1634,9 @@ P.O. 27 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 9 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO PECUARIO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 554 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 11 DE LA LEY DE DESARROLLO PECUARIO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
