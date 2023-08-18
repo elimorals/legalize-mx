@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2022-05-27"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -2355,15 +2355,17 @@ La paternidad o la maternidad pueden probarse por cualquiera de los medios ordin
 
 Si el presunto progenitor se negase o no se presentare a la práctica de dicha prueba, se presumirá la filiación, salvo prueba en contrario.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 349.
 
-Pueden reconocer a sus hijos los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
+Pueden reconocer a sus hijos los que tengan la edad exigida para contraer matrimonio.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 350.
 
-El varón menor de edad, no emancipado, podrá reconocer a sus hijos, previa autorización que le conceda el juez competente de su domicilio, quien para ello recibirá la información que estime necesaria, con intervención del Ministerio Público.
-
-La mujer menor de edad, no emancipada, podrá reconocer a sus hijos con autorización de quien ejerza la patria potestad o tutela.
+Las personas menores de edad no emancipadas, podrán reconocer a sus hijos con autorización de quien ejerza la patria potestad o tutela, o a falta de ésta, con autorización judicial.
 
 ###### Artículo 351.
 
@@ -16132,3 +16134,13 @@ P.O. 27 DE MAYO DE 2022.
 Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 349 Y 350 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
