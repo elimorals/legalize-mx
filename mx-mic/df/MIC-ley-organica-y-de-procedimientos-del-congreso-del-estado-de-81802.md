@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2023-07-26"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -755,11 +755,23 @@ VIII. Las demás que le confieran esta Ley, las disposiciones reglamentarias y l
 
 La Conferencia para la Programación de los Trabajos Legislativos es el órgano colegiado que impulsa la integración, seguimiento y cumplimiento de la Agenda Legislativa, la calendarización para su desahogo y la integración básica del proyecto de Orden del Día de las sesiones y sus trámites.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE AGOSTO DE 2023)</small>
+
+Atendiendo al principio de efectividad, le corresponde a la Conferencia promover y garantizar la productividad legislativa, debiendo programar en el orden del día de las sesiones del Pleno, las iniciativas, dictámenes, propuestas de acuerdo, posicionamientos, informes o cualquier otro documento que deba hacerse del conocimiento del mismo. Tratándose de los dictámenes de las comisiones, no podrán pasar más de dos sesiones ordinarias del Pleno, sin que se incluyan en el orden del día.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 18 DE AGOSTO DE 2023)</small>
+
 La Conferencia se integra por el Presidente del Congreso, quien la preside, y la Junta de Coordinación Política.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 18 DE AGOSTO DE 2023)</small>
 
 A las reuniones podrá citar a los Diputados que presidan comisiones o comités, para el desahogo de asuntos de su competencia.
 
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 18 DE AGOSTO DE 2023)</small>
+
 El Secretario de Servicios Parlamentarios, será Secretario Técnico de la Conferencia, quien preparará los documentos necesarios para las reuniones, levantará las actas de las mismas, integrará el registro de los acuerdos y supervisará su cumplimiento dando cuenta a la propia Conferencia.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 18 DE AGOSTO DE 2023)</small>
 
 La Conferencia deberá instalarse en cada Legislatura, una vez constituida la Junta.
 
@@ -773,9 +785,17 @@ II. Integrar el proyecto de Orden del Día de cada Sesión, el cual deberá ser 
 
 III. Requerir el plan de trabajo y su informe anual a las comisiones y comités;
 
-IV. Establecer, por conducto del Presidente del Congreso, las reuniones trimestrales con los Presidentes de comisiones o comités, así como las tareas para impulsar el trabajo de las comisiones o comités; y,
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-V. Las demás que le confieran esta Ley, las disposiciones reglamentarias y los acuerdos del Congreso.
+IV. Establecer, por conducto del Presidente del Congreso, las reuniones trimestrales con los Presidentes de comisiones o comités, así como las tareas para impulsar el trabajo de las comisiones o comités;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2023)</small>
+
+V. Solicitar a la Junta, el acuerdo correspondiente, para programar los Dictámenes de las comisiones, que no fueron considerados en el orden del día; atendiendo la petición de la Comisión; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE AGOSTO DE 2023)</small>
+
+VI. Las demás que le confieran esta Ley, las disposiciones reglamentarias y los acuerdos del Congreso.
 
 ### CAPÍTULO QUINTO. DE LAS COMISIONES Y COMITÉS
 
@@ -3193,11 +3213,15 @@ Cuando algún Diputado se reporte enfermo, el Presidente designará una comisió
 
 ### CAPÍTULO CUARTO. DEL QUÓRUM
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 233.
 
-El Pleno no puede sesionar, ni ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros. Tratándose de la sesión de instalación se procederá conforme lo establece la Constitución y esta Ley; en las demás sesiones cuando transcurrida una hora posterior a la convocada, sin que el quórum se haya reunido, el Presidente convocará a una nueva sesión que deberá verificarse dentro de las siguientes veinticuatro horas.
+El Pleno no puede sesionar, ni ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros. Tratándose de la sesión de instalación se procederá conforme lo establece la Constitución y esta Ley.
 
-Si en el curso de una sesión se ausenta la mayoría de los diputados, el Presidente mandará verificar el quórum y en caso necesario dispondrá que se llame a los ausentes durante un receso de quince minutos y continuará la sesión al recuperarse el quórum; en caso contrario dará por concluida la sesión y convocará a una nueva.
+Las sesiones ordinarias y extraordinarias, no podrán iniciarse después de treinta minutos posteriores, a la hora y fecha indicada en la convocatoria respectiva, en caso de no reunirse el quórum, el Presidente convocará a una nueva sesión que deberá verificarse dentro de las siguientes veinticuatro horas.
+
+Iniciada la sesión y en caso de ausentarse la mayoría de los diputados, el Presidente mandará verificar el quórum y de ser necesario dispondrá que se llame a los ausentes durante un receso de quince minutos y continuará la sesión al recuperarse el quórum; en caso contrario dará por concluida la sesión y convocará a una nueva.
 
 ### CAPÍTULO QUINTO. DE LAS INICIATIVAS, PROPUESTAS DE ACUERDO Y POSICIONAMIENTOS
 
@@ -3315,7 +3339,9 @@ Las comisiones a las que se turnen iniciativas y demás asuntos a consideración
 
 Tratándose de iniciativas en las que la Comisión requiera de mayor tiempo para su estudio, antes de que fenezca el plazo por única ocasión, podrán presentar ante el Pleno solicitud fundada de prórroga hasta por igual plazo.
 
-Para emitir dictamen de los asuntos turnados, las Comisiones deberán reunirse para su análisis, discusión y aprobación, lo que se hará constar en el acta que al efecto se levante, misma que, se remitirá junto con el dictamen correspondiente y el expediente a la Conferencia.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+Para emitir dictamen de los asuntos turnados, las Comisiones deberán reunirse para su análisis, discusión y aprobación, lo que se hará constar en el acta que al efecto se levante, misma que, se remitirá junto con el dictamen correspondiente y el expediente a la Conferencia, a fin de que sea incluido en el orden del día de la sesión del Pleno.
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2020)</small>
 
@@ -4642,6 +4668,22 @@ Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicac
 P.O. 26 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 436 POR EL QUE “SE REFORMAN LAS FRACCIONES I, IV, IX, X Y XI DEL ARTÍCULO 71 BIS, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 440.- ÚNICO. SE REFORMA EL ARTÍCULO 50, LAS FRACCIONES IV Y V DEL ARTÍCULO 51 Y EL TERCER PÁRRAFO DEL ARTÍCULO 243; Y, SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 51 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 442 POR EL QUE “SE REFORMA EL ARTÍCULO 233 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
