@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2023-05-31"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -265,13 +265,17 @@ XV.- Derecho a la vida y a la dignidad en la vejez.- Las personas adultas mayore
 
 XVI.- Derecho a la educación.- La persona adulta mayor tiene derecho a recibir de manera preferente el derecho a la educación que señala el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, de conformidad con el artículo 17 Ley De Los Derechos De las Personas Adultas Mayores y artículo 22 de esta Ley;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-XVII.- Derechos políticos.- La persona adulta mayor tiene derecho a la participación en la vida política y pública en igualdad de condiciones con los demás y a no ser discriminados por motivo de edad; y
+XVII.- Derechos políticos.- La persona adulta mayor tiene derecho a la participación en la vida política y pública en igualdad de condiciones con los demás y a no ser discriminados por motivo de edad;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-XVIII.- Derecho a la información: La persona adulta mayor tiene derecho a la información, plural, oportuna y accesible, la cual será garantizada por el Estado.
+XVIII.- Derecho a la información: La persona adulta mayor tiene derecho a la información, plural, oportuna y accesible, la cual será garantizada por el Estado; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XIX.- Derecho a la participación en programas de activación física: La persona adulta mayor tiene derecho a la participación y a gozar de los programas de activación física adecuada, teniendo en cuenta los intereses y las necesidades de la persona adulta mayor, en partícular de aquellas que reciben servicios de cuidado a largo plazo, con el objetivo de mejorar su salud y calidad de vida en todas sus dimensiones y promover su autorrealización, independencia, autonomía e inclusión en la comunidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -1056,3 +1060,9 @@ P.O. 31 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 557 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 7 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
