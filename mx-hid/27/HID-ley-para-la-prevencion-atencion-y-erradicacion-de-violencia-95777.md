@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-prevencion-atencion-y-erradicacion-de-violencia-957
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2021-09-13"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -205,13 +205,17 @@ XV.- El pluriculturalismo y reconocimiento de la diversidad;
 
 XVI.- La inclusión;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-XVII.- La participación; y
+XVII. La participación;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-XVIII.- El acceso a una vida libre de violencia.
+XVIII. El acceso a una vida libre de violencia; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XIX. Perspectiva de género.
 
 Los principios de esta Ley constituyen el marco conforme al cual se deberán planear, crear, ejecutar y evaluar, acciones, proyectos y políticas del Programa Estatal, para garantizar un ambiente libre de violencia en el entorno escolar.
 
@@ -523,7 +527,17 @@ VII. Sexual: Toda aquella discriminación y violencia de tipo sexual, envío de 
 
 VIII. Moral: Cuando hay un daño emocional mediante actitudes de indiferencia, menosprecio, calumnias y burlas a través de cualquier medio;
 
-IX. Verbal: Cuando hay un daño emocional mediante, insultos, menosprecio y burlas a través de cualquier medio; acciones violentas no corporales que se manifiestan a través del uso del lenguaje, como los insultos, poner sobrenombres descalificativos, humillar, amenazar, generar rumores, desvalorizar en público; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+IX. Verbal: Cuando hay un daño emocional mediante, insultos, menosprecio y burlas a través de cualquier medio; acciones violentas no corporales que se manifiestan a través del uso del lenguaje, como los insultos, poner sobrenombres descalificativos, humillar, amenazar, generar rumores, desvalorizar en público;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+IX BIS. De género: se refiere a los actos dañinos dirigidos contra una persona o un grupo de personas en razón de su identidad de género;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+IX TER. Contra mujeres y niñas: se define como todo acto de violencia que tenga o pueda tener como resultado un daño o sufrimiento físico, sexual o mental para las mujeres y/o las niñas; y
 
 X. Las demás que establezcan otras leyes.
 
@@ -648,6 +662,10 @@ I.- Recopilar los datos de casos de violencia escolar por:
 9. Medidas implementadas a víctimas y generadores de violencia escolar con base en la normatividad vigente y en los Protocolos;
 
 10. Nombre de los padres involucrados o tutores, domicilio y teléfono;
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+11.- Tipo de violencia.
 
 Con el objetivo de elaborar análisis, estadísticas y/o estudios necesarios que sirvan para informar a la Secretaría, sobre la presencia de violencia en el entorno escolar en el Estado.
 
@@ -980,3 +998,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Educación Pública, deberá emitir los lineamentos para la integración y el funcionamiento de las Brigadas Escolares, en un plazo no mayor a 180 días a la entrada en vigor del presente Decreto.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 551 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
