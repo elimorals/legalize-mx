@@ -4,7 +4,7 @@ identifier: "HID-ley-de-becas-del-estado-de-hidalgo-93961"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-22"
-last_updated: "2023-06-15"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE BECAS DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE SEPTIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE BECAS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 22 de abril de 2013.
 
@@ -293,9 +295,9 @@ II.- Excelencia.- Es la beca en dinero, dirigida a alumnas y alumnos inscritos e
 
 III.- Exención.- Es la beca en especie, dirigida a alumnas y alumnos de educación inicial, preescolar, primaria, secundaria, media superior y superior de escuelas particulares, con autorización o reconocimiento de validez oficial de estudios otorgados por la autoridad educativa estatal, consistente en la dispensa del pago total o parcial de inscripción y/o colegiaturas en un ciclo escolar, que acrediten buen aprovechamiento escolar o necesidad por sus condiciones socioeconómicas.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
-De las fracciones antes citadas, el Comité correspondiente asignará el mayor número posible de becas que se encuentren disponibles, a las alumnas o alumnos en situación de pobreza, con alguna discapacidad, embarazadas o en ejercicio de la maternidad, personas indígenas o que sean hijos de migrantes.
+El Comité correspondiente asignará el mayor número posible de becas que se encuentren disponibles previstas en las fracciones anteriores, a las personas que formen parte de los grupos sociales en situación de vulnerabilidad, tales como las personas en situación de pobreza, con alguna discapacidad, embarazadas o en ejercicio de la maternidad, indígenas o sean hijos de migrantes; lo anterior de manera enunciativa mas no limitativa.
 
 ### CAPÍTULO II
 
@@ -305,9 +307,9 @@ DE LOS CRITERIOS DE SELECCIÓN PARA EL OTORGAMIENTO DE BECAS AL ESTUDIO.
 
 Para el otorgamiento de becas prevalecerán los siguientes criterios:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-I.- Que la alumna o alumno se encuentre en situación de pobreza, con alguna discapacidad, sea indígena o hija o hijo de migrantes;
+I.- Que la persona beneficiada forme parte de los grupos sociales en situación de vulnerabilidad, tales como personas en situación de pobreza, con alguna discapacidad, sea indígena o hija o hijo de migrantes, lo anterior de manera enunciativa mas no limitativa.
 
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
 
@@ -534,3 +536,11 @@ P.O. 15 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 532 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE BECAS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 550 POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 13 Y LA FRACCIÓN I DEL ARTÍCULO 14 DE LA LEY DE BECAS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
