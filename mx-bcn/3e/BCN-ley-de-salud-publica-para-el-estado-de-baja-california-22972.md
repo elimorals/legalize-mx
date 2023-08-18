@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2023-07-07"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -555,7 +555,9 @@ XIII.- La prevención, detección, tratamiento y rehabilitación de neoplasias; 
 
 XIV.- Los demás que establezca esta Ley y otros ordenamientos jurídicos.
 
-Las Autoridades Sanitarias del Estado, de conformidad con las disposiciones legales aplicables vigilarán que las instituciones que presten servicios de salud en la Entidad, apliquen el cuadro básico de insumos del Sector Salud.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+Las Autoridades Sanitarias del Estado, de conformidad con las disposiciones legales aplicables vigilarán que las instituciones que presten servicios de salud en la Entidad apliquen el Compendio Nacional de Insumos para la Salud.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2023)</small>
 
@@ -1001,9 +1003,9 @@ Son servicios públicos dirigidos a la población en general, los que se presten
 
 Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando carezcan de recursos económicos, atendiendo en su caso a los estudios socioeconómicos que se realicen.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
-Los servicios públicos de salud que otorguen los establecimientos públicos pertenecientes a la Secretaría de Salud Pública del Estado tratándose del otorgamiento de medicamentos que formen parte del cuadro básico de medicinas, por medio de recetas a través de sus farmacias serán de manera gratuita, tratándose de medicamentos que integran el cuadro básico y en el caso de desabasto, los establecimientos públicos tendrán la obligación de subrogarlos a favor de los usuarios en instituciones públicas o privadas.
+Los servicios públicos de salud que otorguen los establecimientos públicos pertenecientes a la Secretaría de Salud Pública del Estado tratándose del otorgamiento de medicamentos que formen parte del Compendio Nacional de Insumos para la Salud, por medio de recetas a través de sus farmacias serán de manera gratuita. Tratándose de medicamentos que integran el citado compendio, en el caso de desabasto, los establecimientos públicos tendrán la obligación de subrogarlos a favor de los usuarios en instituciones públicas o privadas.
 
 ###### ARTÍCULO 39.
 
@@ -1011,9 +1013,9 @@ Son servicios a derecho habientes, los proporcionados por instituciones pública
 
 Estos servicios comprenderán la atención médica, la atención materno infantil, la planificación familiar, la salud mental, la promoción de la formación de recursos humanos, la salud ocupacional y la prevención y control de enfermedades no transmisibles y accidentes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
-Los servicios públicos de salud que otorguen los establecimientos públicos pertenecientes a la Secretaría de Salud Pública del Estado a los derechohabientes, tratándose del otorgamiento de medicamentos, que formen parte del cuadro básico de medicinas, por medio de recetas a través de sus farmacias, será conforme lo establece la normatividad respectiva y en el caso de desabasto las Instituciones Públicas tendrán la obligación de subrogarlos a favor de los derechohabientes en instituciones públicas o privadas.
+Los servicios públicos de salud que otorguen los establecimientos públicos pertenecientes a la Secretaría de Salud Pública del Estado a los derechohabientes, tratándose del otorgamiento de medicamentos, que formen parte del Compendio Nacional de Insumos para la Salud, por medio de recetas a través de sus farmacias, será conforme lo establece la normatividad respectiva; en el caso de desabasto las Instituciones Públicas tendrán la obligación de subrogarlos a favor de los derechohabientes en instituciones públicas o privadas.
 
 ###### ARTÍCULO 40.
 
@@ -1064,6 +1066,10 @@ Los usuarios de los servicios de salud en general, contarán con facilidades par
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2022)</small>
 
 Todo usuario de servicio de salud tiene derecho a conocer de la experiencia del prestador del servicio de salud; de su reputación y tiempo en el ejercicio profesional.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+ARTÍCULO 45 TER.- Si las personas usuarias de servicios de salud son niñas, niños o adolescentes, estas tendrán el derecho de acompañamiento de su madre, padre, persona tutora, o quien ejerza la patria potestad sobre ellas, cuando se les realicen análisis, exámenes médicos, o estén hospitalizadas, procurándose que participen y coadyuven en la medida posible en el proceso de atención o curación, salvo en aquellos supuestos que se encuentren impedidos legalmente para hacerlo, o la participación implique un riesgo a la salud de las niñas, niños o adolescentes.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
 
@@ -4078,3 +4084,15 @@ P.O. 7 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 253 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 265 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 19, 38 Y 39 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 267 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 45 TER A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
