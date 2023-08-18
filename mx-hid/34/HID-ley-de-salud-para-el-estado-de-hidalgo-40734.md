@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2023-05-29"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -69,9 +69,11 @@ VI.- El conocimiento para el adecuado aprovechamiento y utilización de los serv
 
 VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 3.
 
-En los términos de la Ley General de Salud y de la presente Ley, corresponde a la Secretaría de Salud, organizar, operar, supervisar y evaluar la prestación de los siguientes servicios:
+En los términos de la Ley General de Salud y de la presente Ley, corresponde a la Secretaría de Salud y a los organismos descentralizados sectorizados a esta Dependencia, en el ámbito de su competencia, organizar, operar, supervisar y evaluar la prestación de los siguientes servicios:
 
 A.- EN MATERIA DE SALUBRIDAD GENERAL:
 
@@ -87,11 +89,9 @@ La atención a que se refiere esta fracción, incluye el otorgamiento gratuito d
 
 En la prestación de este servicio se promoverá el uso de las tecnologías de la información y las comunicaciones para la creación de redes de telemedicina que amplíen la cobertura y aseguren su acceso.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 18 DE AGOSTO DE 2023, PÁGINA 61, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN II, DEL APARTADO A, DEL PRESENTE ARTÍCULO, PASÓ A REUBICARSE COMO UN SEGUNDO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 142.]</small>
+
 II.- La atención materno infantil;
-
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
-
-Se podrá otorgar estimulación temprana a las niñas y niños menores de 6 años, de acuerdo con las normas derivadas de la Ley General de Salud y de la presente Ley, lo cual estará a cargo de la Secretaría de Salud en coordinación con el Sistema DIF Estatal y los Sistemas DIF Municipales;
 
 III.- La prestación de servicios de planificación familiar;
 
@@ -347,6 +347,10 @@ I.- El Ejecutivo Estatal, y
 
 II.- La Secretaría de Salud.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+La Secretaría de Salud contará con un órgano desconcentrado y jerárquicamente subordinado que se denominará Comisión para la Protección contra Riesgos Sanitarios, el cual tendrá por objeto el ejercicio de las atribuciones que, en materia de vigilancia, control y fomento sanitarios, correspondan a la Secretaría de Salud.
+
 ## TITULO SEGUNDO. DISTRIBUCIÓN DE COMPETENCIAS
 
 ### CAPITULO UNICO. DISPOSICIONES COMUNES
@@ -355,7 +359,9 @@ II.- La Secretaría de Salud.
 
 La competencia entre el Gobierno del Estado y los Municipios en materia de Salubridad General, y de Salubridad Local, quedará distribuida conforme a lo siguiente:
 
-Es competencia del Gobierno del Estado a través de la Secretaría de Salud:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE AGOSTO DE 2023)</small>
+
+Es competencia del Gobierno del Estado a través de la Secretaría de Salud y, en su caso, de los organismos descentralizados sectorizados a esta Dependencia, en el ámbito de sus atribuciones:
 
 A.- En materia de salubridad general:
 
@@ -503,69 +509,81 @@ El Estado, a través de la Secretaría de Salud, podrá celebrar Convenios de Co
 
 El Estado podrá celebrar con la Federación, acuerdos de coordinación a fin de que asuma temporalmente, a petición de la propia Entidad, la prestación de servicios o el ejercicio de las funciones de control y regulación sanitaria a que se refiere la Ley General de Salud.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2023)</small>
+
+## TITULO SEGUNDO BIS. SISTEMA ESTATAL DE SALUD
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2023)</small>
+
+### CAPITULO UNICO. DEFINICION Y OBJETIVOS DEL SISTEMA ESTATAL DE SALUD DE HIDALGO
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 11 Bis.
+
+El Sistema Estatal de Salud de Hidalgo es la instancia constituida por las dependencias y entidades de la administración pública estatal, las personas físicas y morales de los sectores social y privado que prestan servicios de salud dentro de la entidad federativa, así como por los mecanismos de coordinación de acciones con dependencias y entidades federales, a fin de dar cumplimiento al derecho a la protección de la salud.
+
+Será coordinado por la Secretaría de Salud, a través del Consejo de Salud del Estado de Hidalgo, que es un órgano de rectoría, coordinación, normatividad, consulta y articulación en materia de salud, con la participación de los sectores público, social y privado; y tendrá por objeto ejercer los actos de protección a la salud y apoyar en la planeación, programación y evaluación relacionado con las acciones y actividades sanitarias del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 11 Ter.
+
+El Sistema Estatal de Salud de Hidalgo tiene los siguientes objetivos:
+
+I.- Proporcionar servicios de salud a toda la población y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, con especial interés en la promoción, implementación e impulso de acciones de atención integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
+
+II.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la Integración social y al crecimiento físico y mental de la niñez;
+
+III.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente que propicien el desarrollo satisfactorio de la vida;
+
+IV.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección;
+
+V.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud;
+
+VI.- Promover el desarrollo de los servicios de salud con base en la integración de las tecnologías de la información y la comunicación para ampliar la cobertura y mejorar la calidad de atención a la salud;
+
+VII.- Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud;
+
+VIII.- Favorecer el desarrollo de la enseñanza y la investigación científica y tecnológica del sector salud;
+
+IX.- Fortalecer la integración, operación y evaluación de consejos, comités y comisiones en materia de salud, y
+
+X.- Las demás que sean necesarias para el cumplimiento de su objetivo, de conformidad con las disposiciones normativas.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2023)</small>
+
+## TITULO SEGUNDO TER. DE LAS COMISIONES DE BIOETICA Y DE ARBITRAJE MEDICO
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+### CAPITULO I. DE LA COMISION DE BIOETICA DEL ESTADO DE HIDALGO
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 11 Quater.
+
+La Comisión de Bioética del Estado de Hidalgo es un órgano de la Secretaría de Salud para la planeación, consulta y apoyo entre las dependencias y entidades de la administración pública federal y estatal y los sectores social y privado.
+
+Su objeto es promover el estudio y observancia de valores y principios bioéticos en la prestación de los servicios de salud y en los actos de investigación en salud, y fomentar la preservación del medio ambiente, así como difundir la cultura bioética, en un marco de respeto a los derechos humanos, promoviendo una actitud de reflexión, deliberación discusión multidisciplinaria e intersectorial en los temas de esa disciplina.
+
+Su organización y funcionamiento serán regulados por las disposiciones reglamentarias que al efecto se emitan.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+### CAPITULO II. DE LA COMISION DE ARBITRAJE MEDICO DEL ESTADO DE HIDALGO
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 11 Quinquies.
+
+La Comisión de Arbitraje Médico del Estado de Hidalgo es un órgano desconcentrado de la Secretaría de Salud, con autonomía técnica y operativa para emitir recomendaciones, opiniones, acuerdos y laudos, cuyo objetivo es contribuir a resolver los conflictos suscitados entre los prestadores de los servicios médicos y los usuarios de éstos, así como la promoción de una buena práctica de la medicina como medio para elevar la calidad de los servicios de atención médica.
+
+Su organización y funcionamiento serán regulados por las disposiciones reglamentarias que al efecto se emitan.
+
 ## TITULO TERCERO. SALUBRIDAD LOCAL
 
 ### CAPITULO I. DISPOSICIONES COMUNES
-
-## TITULO TERCERO BIS. PREVENCION Y CONTROL DE ENFERMEDADES RARAS NO INFECTO-CONTAGIOSAS CRONICAS O CRONICO-DEGENERATIVAS Y DE LAS PERSONAS ENFERMAS EN SITUACION TERMINAL
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE MAYO DE 2018)</small>
-
-### CAPITULO I BIS. PROFESIONALES, TÉCNICOS Y AUXILIARES
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
-
-### CAPITULO II. DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
-
-## TITULO III TER. DE LA PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LAS PAREJAS O PERSONAS CON INFERTILIDAD
-
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
-
-Artículo 142 Undecies 1.- Para los efectos de la presente Ley, la infertilidad es la enfermedad del aparato reproductor, caracterizada por la incapacidad de lograr un embarazo clínico después de tener relaciones sexuales regularmente durante un año, sin el uso de métodos anticonceptivos.
-
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
-
-Artículo 142 Undecies 2.- La prevención, diagnóstico y tratamiento de las parejas o personas con infertilidad tiene el carácter de prioritario y su objetivo es garantizar la protección y desarrollo de la familia, consagrado en el segundo párrafo del artículo 5 de la Constitución Política del Estado de Hidalgo.
-
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
-
-Artículo 142 Undecies 3.- Corresponde a los prestadores de servicios de salud que integran el Sistema Estatal de Salud, sugerir y en su caso bridar a las parejas o personas con infertilidad los procedimientos y técnicas médico-asistenciales de reproducción, que les permitan alcanzar sus metas reproductivas.
-
-Además de la atención médica, farmacológica y/o quirúrgica, de acuerdo a la capacidad resolutiva de la unidad médica de que se trate, las parejas o personas con infertilidad podrán contar con apoyo psicológico.
-
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
-
-Artículo 142 Undecies 4.- La atención y manejo de la infertilidad en los diferentes niveles de atención médica, comprende las siguientes etapas:
-
-I. Proceso para la clasificación socioeconómica de la pareja o persona con infertilidad, para efectos del pago de cuotas de recuperación, debiendo contemplar, de forma gradual la exención del pago, de acuerdo a la normatividad vigente;
-
-II. Acciones en el primer nivel de atención médica.
-
-El objetivo de la atención médica en el primer nivel es identificar los factores de riesgo asociados y las posibles causas de la infertilidad, orientar a la pareja o persona sobre su problema y planificar las acciones encaminadas a resolverlo, y, de ser necesario, evaluar el caso para referenciar al siguiente nivel de atención con los estudios de laboratorio y gabinete básicos para continuar el protocolo de estudio.
-
-El protocolo debe incluir el perfil psicológico de la pareja o persona con infertilidad para que reciban el apoyo que corresponda;
-
-III. Acciones en el segundo nivel de atención.
-
-En el segundo nivel de atención se complementará el protocolo de estudio con los exámenes de laboratorio y gabinete especializados que resulten necesarios, cuyo objetivo es establecer el diagnóstico de certeza, y determinar, tanto el plan terapéutico como el pronóstico, principalmente en las unidades hospitalarias donde exista la especialidad médica en la materia;
-
-IV. Acciones en el tercer nivel de atención.
-
-Cuando no ha podido resolverse el caso en el segundo nivel de atención, se procederá a referenciar a cualquiera de las Unidades Médicas Especializadas que integran los Servicios de Salud en el Estado de Hidalgo, tomando en cuenta el catálogo de servicios y su capacidad resolutiva, o en su caso, se referenciará al Hospital público de Tercer Nivel más cercano a la Entidad que forme parte del Sistema Nacional de Salud, de conformidad con los acuerdos de coordinación y normatividad vigente. Lo anterior con el objetivo de complementar el protocolo de estudio e iniciar el manejo con o sin intervención farmacológica, y/o quirúrgica, con técnicas de reproducción asistida de baja complejidad;
-
-V. Vigilancia y seguimiento; y
-
-VI. Las demás que, directa o indirectamente contribuyan a tratar la infertilidad.
-
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
-
-Artículo 142 Undecies 5.- El origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, no pueden ser motivo para impedir o anular el ejercicio de los derechos reproductivos de las parejas o personas con infertilidad. Lo anterior, a efecto de garantizar el respeto a los derechos humanos de las personas, así como a los preceptos señalados en la Carta de los Derechos Generales de los Pacientes.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2022)</small>
-
-### CAPÍTULO II BIS. DE LAS INSTITUCIONES EDUCATIVAS QUE EXPENDAN ALIMENTOS
-
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 12.
 
@@ -573,21 +591,29 @@ Compete al Gobierno del Estado, a través de la Secretaría de Salud, y a los Mu
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE JULIO DE 2017)</small>
 
-### CAPITULO III. MERCADOS Y CENTRALES DE ABASTOS
+### CAPITULO I BIS. PROFESIONALES, TÉCNICOS Y AUXILIARES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 12 Bis.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, gerontología, farmacia, odontología, veterinaria, biología, bacteriología, enfermería, terapia física, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, optometría, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, podología, patología, bioestadística, codificación clínica bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los documentos que los acrediten, hayan sido legalmente expedidos y registrados por las autoridades competentes.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, atención médica prehospitalaria, gerontología, odontología, optometría, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, podología, patología, bioestadística, codificación clínica bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los documentos que los acrediten, hayan sido legalmente expedidos y registrados por las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
 
 A solicitud, la Dirección de Profesiones, proporcionará a las autoridades sanitarias estatales la relación de títulos, cedulas profesionales y demás documentos que los acrediten en el área de la salud, así como la información complementaria que sea necesaria. En el caso en que exista convenio entre el Gobierno del Estado y el Ejecutivo Federal en materia de registro profesional y expedición de cédulas profesionales, el Gobierno del Estado cuidará que se proporcione la información a que se refiere este párrafo.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este capítulo, deberán exhibir a la vista del público y de manera permanente copia legible del título profesional, diploma, certificado o grado académico según sea el caso, así como de la correspondiente cédula. Iguales menciones deberán considerarse en los documentos, receta médica y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen.
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
 
-Artículo 12 ter. Para garantizar el derecho a la protección de la salud en condiciones de equidad, no discriminación y respeto a la dignidad humana, las autoridades sanitarias estatales promoverán la especialización del personal médico a través de las Universidades e instituciones de educación superior para la formación de recursos humanos en atención primaria de la salud.
+Artículo 12 ter.- Para garantizar el derecho a la protección de la salud en condiciones de equidad, no discriminación y respeto a la dignidad humana, las autoridades sanitarias estatales promoverán la especialización del personal médico a través de las Universidades e instituciones de educación superior para la formación de recursos humanos en atención primaria de la salud.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
@@ -689,7 +715,7 @@ Asimismo, las autoridades sanitarias promoverán cursos, talleres y diplomados c
 
 Las parteras tradicionales recibirán por parte de la autoridad sanitaria estatal y con base en el registro referido en el Artículo 16 SEXTUS, una remuneración o estimulo como reconocimiento a su labor.
 
-### CAPITULO IV. CONSTRUCCION DE EDIFICIOS Y FRACCIONAMIENTOS
+### CAPITULO II. DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
 ###### Artículo 17.
 
@@ -725,7 +751,9 @@ El Estado a través de la Secretaría de Salud, celebrará Convenios de regulaci
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO V. PANTEONES, CREMATORIOS Y FUNERARIAS
+### CAPÍTULO II BIS. DE LAS INSTITUCIONES EDUCATIVAS QUE EXPENDAN ALIMENTOS
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 22 Bis.
 
@@ -737,7 +765,7 @@ II.- Que los Establecimientos de Consumo Escolar, de conformidad con lo establec
 
 III.- El cumplimiento de la obligación escolar de practicar 30 minutos diarios de ejercicio físico para prevenir padecimientos de sobrepeso y obesidad que ponen en peligro la salud física y mental de los menores.
 
-### CAPITULO VI. LIMPIEZA PUBLICA
+### CAPITULO III. MERCADOS Y CENTRALES DE ABASTOS
 
 ###### Artículo 23.
 
@@ -763,7 +791,7 @@ El Municipio ordenará la fumigación periódica de los mercados, centrales de a
 
 Los vendedores, locatarios y personal que su actividad este vinculada con los mercados y central de abastos, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO VII. CENTROS DE CONTROL ANIMAL Y ZOONOSIS
+### CAPITULO IV. CONSTRUCCION DE EDIFICIOS Y FRACCIONAMIENTOS
 
 ###### Artículo 27.
 
@@ -803,7 +831,7 @@ Lo anterior se aplicará para la creación, ampliación o modificación de colon
 
 Para el cumplimiento de lo previsto en este capítulo la Secretaría de Salud, se coordinarán con las Autoridades Municipales, Estatales y Federales competentes en cada área.
 
-### CAPITULO VIII. RASTROS
+### CAPITULO V. PANTEONES, CREMATORIOS Y FUNERARIAS
 
 ###### Artículo 36.
 
@@ -837,7 +865,7 @@ La Autoridad Sanitaria podrá ordenar la ejecución de las obras o trabajos que 
 
 La Autoridad Municipal hará la declaración al momento en que se encuentre saturado un panteón y podrá prohibir que en el se realicen más inhumaciones o depósito de cadáveres, restos humanos y restos humanos áridos o cremados; así como el tratamiento que se le dará al predio.
 
-### CAPITULO IX. AGUA POTABLE, DRENAJE Y ALCANTARILLADO
+### CAPITULO VI. LIMPIEZA PUBLICA
 
 ###### Artículo 42.
 
@@ -873,7 +901,7 @@ El control sanitario de los transportes de desechos sólidos, vertederos y/o rel
 
 El transporte sanitario de los desechos sólidos deberá cumplir con los requisitos que establezcan las disposiciones legales y normas ecológicas aplicables.
 
-### CAPITULO X. ESTABLOS, GRANJAS, APIARIOS Y OTROS ESTABLECIMIENTOS PECUARIOS
+### CAPITULO VII. CENTROS DE CONTROL ANIMAL Y ZOONOSIS
 
 ###### Artículo 49.
 
@@ -933,7 +961,7 @@ Bajo ninguna circunstancia el propietario o la población podrá oponerse o impe
 
 El Municipio será responsable de reglamentar de manera específica la tenencia de mascotas en el ámbito de su competencia.
 
-### CAPITULO XI. PROSTITUCION
+### CAPITULO VIII. RASTROS
 
 ###### Artículo 63.
 
@@ -991,9 +1019,7 @@ La matanza de animales en los rastros autorizados, se efectuará en los días y 
 
 Todos los rastros deberán contar con el adecuado transporte sanitario de la carne. Este servicio podrá ser concesionado a los particulares.
 
-### CAPITULO XII. CENTROS PENITENCIARIOS O DE REINSERCIÓN SOCIAL
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+### CAPITULO IX. AGUA POTABLE, DRENAJE Y ALCANTARILLADO
 
 ###### Artículo 75.
 
@@ -1041,7 +1067,7 @@ Las Autoridades Municipales procurarán que sus poblaciones cuenten con sistemas
 
 Queda prohibido arrojar agua residual sin tratamiento a la vía pública.
 
-### CAPITULO XIII. BAÑOS PUBLICOS, ALBERCAS, BALNEARIOS, SALAS DE MASAJE Y SIMILARES
+### CAPITULO X. ESTABLOS, GRANJAS, APIARIOS Y OTROS ESTABLECIMIENTOS PECUARIOS
 
 ###### Artículo 86.
 
@@ -1067,7 +1093,7 @@ Para el establecimiento de nuevos establos se deberá contar con la aprobación 
 
 Las condiciones sanitarias que deben reunir estos establecimientos estarán fijadas por esta Ley, otras disposiciones legales aplicables, y las normas oficiales y técnicas correspondientes.
 
-### CAPITULO XIV. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XI. PROSTITUCION
 
 ###### Artículo 90.
 
@@ -1101,9 +1127,9 @@ La Autoridad Municipal determinará los lugares en donde se permita el ejercicio
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2021)</small>
 
-### CAPITULO XV
+### CAPITULO XII. CENTROS PENITENCIARIOS O DE REINSERCIÓN SOCIAL
 
-ESTABLECIMIENTOS DEDICADOS A LA VENTA DE PRODUCTOS Y PRESTACIÓN DE SERVICIOS EN PELUQUERÍAS, SALONES DE BELLEZA, ASÍ COMO TATUAJES, PERFORACIONES CORPORALES ESTÉTICAS Y OTROS
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 97.
 
@@ -1129,7 +1155,7 @@ Los encargados de los servicios médicos de reclusorios, centros penitenciarios 
 
 La Secretaría de Salud, en coordinación con las autoridades competentes, vigilarán la sanidad de los reclusorios, centros penitenciarios o centros de reinserción social, a fin de prevenir y evitar riesgos o daños a la salud de los internos
 
-### CAPITULO XVI. ESTABLECIMIENTOS DEDICADOS AL SERVICIO DE TINTORERIAS, LAVANDERIAS Y PLANCHADURIAS
+### CAPITULO XIII. BAÑOS PUBLICOS, ALBERCAS, BALNEARIOS, SALAS DE MASAJE Y SIMILARES
 
 ###### Artículo 101.
 
@@ -1159,6 +1185,12 @@ Los establecimientos a los que se refiere este Capítulo, deberán contar con lo
 
 Asimismo, con el objeto de proporcionar los primeros auxilios, contarán con el equipo que reúna los medicamentos y material de curación necesarios para prestar oportuna y eficientemente el servicio.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 105 Bis.
+
+Los establecimientos a que se refiere este capítulo deberán adoptar las medidas necesarias para que se cuenten con cambiadores de pañales en los baños o baños familiares, que faciliten la privacidad, accesibilidad, seguridad, comodidad e higiene de las personas usuarias.
+
 ###### Artículo 106.
 
 No se permitirá el acceso a las albercas con animales, alimentos, bebidas; o personas bajo influjo del alcohol o enervantes. Queda prohibido introducirse a albercas públicas con zapatos o ropa distinta a trajes de baño o similares.
@@ -1167,7 +1199,7 @@ No se permitirá el acceso a las albercas con animales, alimentos, bebidas; o pe
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO XVII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIV. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### Artículo 108.
 
@@ -1181,7 +1213,9 @@ Además de los requisitos reglamentarios respectivos, las instalaciones y edific
 
 Previo a la apertura de los centros de reunión y espectáculos, la autoridad sanitaria hará la verificación y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no cumplan las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
 
-### CAPITULO XVIII. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XV
+
+ESTABLECIMIENTOS DEDICADOS A LA VENTA DE PRODUCTOS Y PRESTACIÓN DE SERVICIOS EN PELUQUERÍAS, SALONES DE BELLEZA, ASÍ COMO TATUAJES, PERFORACIONES CORPORALES ESTÉTICAS Y OTROS
 
 ###### Artículo 111.
 
@@ -1195,7 +1229,7 @@ Queda prohibido utilizar productos de belleza no autorizados ni registrados por 
 
 El funcionamiento y personal de los establecimientos señalados en el Artículo 111 de este ordenamiento, deberán apegarse a lo establecido en esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO XIX. GASOLINERIAS Y OTROS ESTABLECIMIENTOS PARA ALMACENAMIENTO Y DISTRIBUCION DE COMBUSTIBLE
+### CAPITULO XVI. ESTABLECIMIENTOS DEDICADOS AL SERVICIO DE TINTORERIAS, LAVANDERIAS Y PLANCHADURIAS
 
 ###### Artículo 114.
 
@@ -1205,7 +1239,7 @@ Para los efectos de esta Ley, se entiende por: tintorerías, lavanderías y plan
 
 Dichos establecimientos deberán contar con el aviso correspondiente presentado ante la Secretaría de Salud, oyendo la opinión de la Autoridad Municipal. En el aspecto sanitario, se regirán por esta Ley y otras disposiciones aplicables.
 
-### CAPITULO XX. GIMNASIOS
+### CAPITULO XVII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### Artículo 116.
 
@@ -1225,7 +1259,7 @@ Además de los requisitos señalados en el Artículo 16 de esta Ley, en los esta
 
 En caso de contar con los servicios complementarios como restaurantes, servicio de bar, peluquerías, sala de belleza, lavandería, planchaduría y tintorería, éstos quedarán sujetos a las normas y requisitos que fijen las disposiciones aplicables, como establecimientos independientes.
 
-### CAPITULO XXI. TERMINALES DE TRANSPORTE
+### CAPITULO XVIII. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### Artículo 120.
 
@@ -1259,7 +1293,7 @@ Los transportes dedicados al traslado de carne a distancias mayores de cincuenta
 
 Queda prohibido el transporte publico de carne en vehículos que no cumplan con los requisitos sanitarios que establezcan las disposiciones aplicables y la Autoridad Sanitaria competente.
 
-### CAPITULO XXII. PUESTOS SEMIFIJOS Y AMBULANTES
+### CAPITULO XIX. GASOLINERIAS Y OTROS ESTABLECIMIENTOS PARA ALMACENAMIENTO Y DISTRIBUCION DE COMBUSTIBLE
 
 ###### Artículo 126.
 
@@ -1277,9 +1311,7 @@ Además de las disposiciones de seguridad que establezcan los ordenamientos lega
 
 Los establecimientos a los que se refiere este Capítulo, deberán presentar aviso de funcionamiento ante la Autoridad Sanitaria y estarán sujetos a verificación.
 
-### CAPITULO XXIII. ESTABLECIMIENTOS PARA LA REHABILITACION DE PERSONAS CON ADICCIONES
-
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
+### CAPITULO XX. GIMNASIOS
 
 ###### Artículo 130.
 
@@ -1293,9 +1325,7 @@ Los gimnasios deberán dar aviso de funcionamiento ante la Secretaría de Salud,
 
 Se prohíbe la comercialización no autorizada de artículos o productos en el interior de los gimnasios, que atenten contra la salud de las personas.
 
-### CAPITULO XXIV. PREVENCION Y CONTROL DE LAS ENFERMEDADES BUCODENTALES
-
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2008)</small>
+### CAPITULO XXI. TERMINALES DE TRANSPORTE
 
 ###### Artículo 133.
 
@@ -1313,11 +1343,7 @@ La limpieza higiene y conservación de las áreas comunes de estos establecimien
 
 Los servicios sanitarios de estos establecimientos, deberán ser suficientes para los usuarios y mantenerse en permanente higiene y buen estado de conservación.
 
-### CAPITULO XXV
-
-PREVENCIÓN Y REHABILITACIÓN DEL ALCOHOLISMO, TABAQUISMO Y LA FÁRMACODEPENDENCIA.
-
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+### CAPITULO XXII. PUESTOS SEMIFIJOS Y AMBULANTES
 
 ###### Artículo 137.
 
@@ -1335,9 +1361,9 @@ Los puestos semifijos o ambulantes en donde se expendan productos alimenticios, 
 
 La Autoridad Municipal será la responsable de la autorización de estos giros.
 
-### CAPITULO XXVI. PREVENCIÓN DE LA SALUD MENTAL Y LA ATENCIÓN A LAS PERSONAS CON ENFERMEDADES MENTALES
+### CAPITULO XXIII. ESTABLECIMIENTOS PARA LA REHABILITACION DE PERSONAS CON ADICCIONES
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 140.
 
@@ -1361,9 +1387,9 @@ En estos establecimientos, se garantizará el respeto a los derechos humanos y a
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE OCTUBRE DE 2008)</small>
 
-### CAPITULO I. DEFINICIONES
+### CAPITULO XXIV. PREVENCION Y CONTROL DE LAS ENFERMEDADES BUCODENTALES
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 142 Bis 1.
 
@@ -1381,11 +1407,17 @@ IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de 
 
 V.- La coordinación con la Secretaría de Educación Pública del Estado a efecto de fomentar hábitos de higiene bucodental adecuados, como elemento de formación para niñas y niños de edad temprana, esto conforme a lo dispuesto en la Norma Oficial Mexicana respectiva.
 
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+VI.- La coordinación con instituciones del sector público, privado y social, cuyo objeto sea lograr la atención de los servicios de salud bucal en las escuelas de los distintos niveles de educación básica.
+
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
-### CAPITULO II. DERECHOS DE LAS PERSONAS CON ENFERMEDADES RARAS NO INFECTO-CONTAGIOSAS CRONICAS O CRONICO-DEGENERATIVAS Y DE LAS PERSONAS ENFERMAS EN SITUACION TERMINAL
+### CAPITULO XXV
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+PREVENCIÓN Y REHABILITACIÓN DEL ALCOHOLISMO, TABAQUISMO Y LA FÁRMACODEPENDENCIA.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### Artículo 142 Bis 2.
 
@@ -1561,9 +1593,9 @@ V. Reconocer la importancia de los diversos grupos de ayuda mutua, que ofrecen s
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2017)</small>
 
-### CAPITULO III. OBLIGACIONES DEL PERSONAL MEDICO TRATANTE EN RELACION CON LAS PERSONAS QUE PADECEN ENFERMEDADES EN SITUACION TERMINAL
+### CAPITULO XXVI. PREVENCIÓN DE LA SALUD MENTAL Y LA ATENCIÓN A LAS PERSONAS CON ENFERMEDADES MENTALES
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### Artículo 142 Ter.
 
@@ -1607,6 +1639,184 @@ Está prohibido promover, impartir, aplicar, obligar o financiar cualquier tipo 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2018)</small>
 
+## TITULO TERCERO BIS. PREVENCION Y CONTROL DE ENFERMEDADES RARAS NO INFECTO-CONTAGIOSAS CRONICAS O CRONICO-DEGENERATIVAS Y DE LAS PERSONAS ENFERMAS EN SITUACION TERMINAL
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE MAYO DE 2018)</small>
+
+### CAPITULO I. DEFINICIONES
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+###### Artículo 142 Septies.
+
+Para los efectos de este título, se entenderá por:
+
+I.- Cuidados paliativos: Los cuidados activos y totales relacionados con el control del dolor y de otros síntomas, proporcionados a las personas en situación terminal, con enfermedades crónicas, degenerativas o crónico-degenerativos que no respondan a tratamientos curativos y que requieren atención de aspectos psicológicos sociales y espirituales, y a sus familiares;
+
+II.- Enfermedad crónica: Aquella de larga duración y por lo general de progresión lenta. Tiene una o más de las siguientes características: es permanente, deja discapacidad residual, es causado por una alteración patológica irreversible, requiere especial entrenamiento en pacientes para rehabilitación o requiere un periodo largo de supervisión, observación o cuidado;
+
+III.- Enfermedad degenerativa: Aquella en la que existe deterioro de una estructura o función de los tejidos del organismo o relacionado con ellos o elementos anatómicos con cambios químicos de la sustancia componente con pérdida de los caracteres y funciones esenciales. Estado caracterizado por deterioro de las facultades físicas y mentales. Deterioro de los tejidos con el correspondiente fallo funcional como resultado de una lesión o de una enfermedad. El proceso puede avanzar hasta un estado irreversible y causar la muerte de los tejidos;
+
+IV.- Enfermedad rara: Aquella cuya prevalencia es inferior a cinco casos por cada 10 mil personas y que puede derivar de cuestiones genéticas;
+
+V.- Enfermedad en situación terminal: Todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para la persona enferma sea menor a seis meses;
+
+VI.- Enfermedades no Infecto-Contagiosas: Aquellas que no son producidas por agentes microbianos, por lo tanto, no pueden transmitirse;
+
+VII.- Medios extraordinarios: Los que constituyen una carga demasiado grave para la persona enferma y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
+
+VIII.- Medios ordinarios: Los que son útiles para conservar la vida de la persona enferma en situación terminal o para curarla, sin que le constituyan una carga grave o desproporcionada a los beneficios que se pueden obtener; y
+
+IX.- Obstinación Terapéutica: La adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE MAYO DE 2018)</small>
+
+### CAPITULO II. DERECHOS DE LAS PERSONAS CON ENFERMEDADES RARAS NO INFECTO-CONTAGIOSAS CRONICAS O CRONICO-DEGENERATIVAS Y DE LAS PERSONAS ENFERMAS EN SITUACION TERMINAL
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+###### Artículo 142 Octies.
+
+Las personas con enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas y las personas con enfermedades en situación terminal, tienen los siguientes derechos:
+
+I. Recibir atención médica integral en las instituciones de Salud, según sea su elección;
+
+II. Ingresar por solicitud propia o persona legalmente facultado para ello, a las instituciones de salud cuando requieran atención médica;
+
+III. Recibir atención por personal capacitado en el tratamiento (sic) enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas y en la atención de las personas con enfermedades en situación terminal;
+
+IV. Dejar voluntariamente la institución de salud en que esté hospitalizado, de conformidad a las disposiciones aplicables;
+
+V. Recibir un trato digno, respetuoso y profesional por parte del personal de las instituciones de salud, las que deben procurar preservar su calidad de vida;
+
+VI. Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad y los tipos de tratamientos por los cuales puede optar según la enfermedad que padezca, con la clara distinción de los límites entre el tratamiento curativo y el tratamiento paliativo;
+
+VII. Dar su consentimiento informado por escrito para la aplicación o no de tratamientos, medicamentos y cuidados paliativos adecuados a su enfermedad, necesidades y calidad de vida;
+
+VIII. Solicitar al personal médico, la administración de medicamentos que mitiguen el dolor;
+
+IX. Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el tratamiento que considere extraordinario;
+
+X. Optar por recibir los cuidados paliativos en un domicilio particular, cuando se determine dentro del plan de cuidados paliativos;
+
+XI. Designar a algún familiar, representante legal o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, no pueda expresar su voluntad, lo haga en su representación;
+
+XII. Recibir los servicios espirituales, cuando lo solicite personalmente, su familia, representante legal o persona de su confianza; y
+
+XIII. Los demás que las leyes señalen.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE MAYO DE 2018)</small>
+
+### CAPITULO III. OBLIGACIONES DEL PERSONAL MEDICO TRATANTE EN RELACION CON LAS PERSONAS QUE PADECEN ENFERMEDADES EN SITUACION TERMINAL
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+###### Artículo 142 Nonies.
+
+El personal médico tratante en las instituciones de salud, tanto del sector público como del privado, sin menoscabo de lo señalado en la Ley General de Salud vigente, tendrán las siguientes obligaciones:
+
+I. Informar oportunamente y de manera respetuosa al o la paciente, que su enfermedad es terminal, así como su expectativa de vida;
+
+II. Informar pertinentemente a la persona enferma en situación terminal y en su caso, a quien tenga la facultad de conformidad con la ley aplicable, que no existe tratamiento curativo para su padecimiento;
+
+III. Proporcionar la información del historial médico personal y la referente al padecimiento que él o la paciente requiera, así como la que el personal médico considere necesaria, para que la persona enferma en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados, al tiempo que se garantiza su derecho a tener una muerte digna, cuando la enfermedad haya entrado en situación terminal;
+
+IV. Pedir el consentimiento informado de la persona enferma en situación terminal, por escrito, ante dos testigos, a efecto de recibir los tratamientos o medidas a tomar respecto de la enfermedad terminal;
+
+V. Informar a la persona enferma en situación terminal o a la persona autorizada, sobre las opciones que existan de cuidados paliativos;
+
+VI. Respetar la decisión de la persona enferma en situación terminal o de la persona autorizada, en cuanto al tratamiento y cuidados paliativos, una vez que se le haya explicado en términos sencillos, las consecuencias de su decisión;
+
+VII. Procurar las medidas mínimas necesarias para preservar la calidad de vida de las personas enfermas en situación terminal;
+
+VIII. Respetar y aplicar todas y cada una de las medidas y procedimientos para los casos que señala la normatividad aplicable, evitando, sin que exista duda razonable, la obstinación terapéutica o la aplicación de medidas extraordinarias;
+
+IX. Hacer saber a la persona enferma, de inmediato y antes de su aplicación, si el tratamiento a seguir para aliviar el dolor y los síntomas de su enfermedad, tiene posibles efectos secundarios;
+
+X. Solicitar, cuando lo estime conveniente o por decisión de la persona enferma, una segunda opinión a otro médico, cuando su diagnóstico sea una enfermedad terminal; y
+
+XI. Las demás que las leyes señalen.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2018)</small>
+
+### CAPITULO IV
+
+DERECHOS ESPECIFICOS DE LAS PERSONAS CON ENFERMEDADES RARAS NO INFECTO-CONTAGIOSAS CRONICAS O CRONICO-DEGENERATIVAS.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+###### Artículo 142 Decies.
+
+Las personas con enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas, sin menoscabo de los derechos plasmados en el artículo 142 Septies y la normatividad aplicable, tendrán los siguientes derechos:
+
+I. A la prevención y detección precoz a través de los análisis los (sic) correspondientes cuando exista la sospecha por parte del personal médico de estar en presencia de una enfermedad rara no infecto-contagiosa crónica o crónico-degenerativa;
+
+II. Al apoyo y transferencia para el tránsito entre atención primaria y atención especializada, canalizando al o la paciente a las Unidades Médicas correspondientes;
+
+III. A la información y participación que garanticen al o la paciente un asesoramiento genético apropiado, para que cuente con toda la información médica disponible en relación con su padecimiento, que le permita la toma de decisiones razonadas y el respeto a estas;
+
+IV. A recibir el tratamiento terapéutico o paliativo adecuado a su padecimiento, con pleno conocimiento de las consecuencias y alcances, brindado por parte del personal médico;
+
+V. A participar en programas de fomento y apoyo de las terapias avanzadas y de la investigación;
+
+VI. A tener acceso en las Unidades de Rehabilitación, cuando su tratamiento considere la opción de ser rehabilitado;
+
+VII. A no ser objeto de discriminación de ningún tipo por motivo de su enfermedad y ser tratado en irrestricto apego a su dignidad; y
+
+VIII. Los demás que le confieran la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+Artículo 142 Undecies.- En casos de urgencia médica y que exista incapacidad de las personas con enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas y de las personas enfermas en situación terminal, para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por dos integrantes del personal médico autorizado en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2021)</small>
+
+## TITULO III TER. DE LA PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LAS PAREJAS O PERSONAS CON INFERTILIDAD
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+Artículo 142 Undecies 1.- Para los efectos de la presente Ley, la infertilidad es la enfermedad del aparato reproductor, caracterizada por la incapacidad de lograr un embarazo clínico después de tener relaciones sexuales regularmente durante un año, sin el uso de métodos anticonceptivos.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+Artículo 142 Undecies 2.- La prevención, diagnóstico y tratamiento de las parejas o personas con infertilidad tiene el carácter de prioritario y su objetivo es garantizar la protección y desarrollo de la familia, consagrado en el segundo párrafo del artículo 5 de la Constitución Política del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+Artículo 142 Undecies 3.- Corresponde a los prestadores de servicios de salud que integran el Sistema Estatal de Salud, sugerir y en su caso bridar a las parejas o personas con infertilidad los procedimientos y técnicas médico-asistenciales de reproducción, que les permitan alcanzar sus metas reproductivas.
+
+Además de la atención médica, farmacológica y/o quirúrgica, de acuerdo a la capacidad resolutiva de la unidad médica de que se trate, las parejas o personas con infertilidad podrán contar con apoyo psicológico.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+Artículo 142 Undecies 4.- La atención y manejo de la infertilidad en los diferentes niveles de atención médica, comprende las siguientes etapas:
+
+I. Proceso para la clasificación socioeconómica de la pareja o persona con infertilidad, para efectos del pago de cuotas de recuperación, debiendo contemplar, de forma gradual la exención del pago, de acuerdo a la normatividad vigente;
+
+II. Acciones en el primer nivel de atención médica.
+
+El objetivo de la atención médica en el primer nivel es identificar los factores de riesgo asociados y las posibles causas de la infertilidad, orientar a la pareja o persona sobre su problema y planificar las acciones encaminadas a resolverlo, y, de ser necesario, evaluar el caso para referenciar al siguiente nivel de atención con los estudios de laboratorio y gabinete básicos para continuar el protocolo de estudio.
+
+El protocolo debe incluir el perfil psicológico de la pareja o persona con infertilidad para que reciban el apoyo que corresponda;
+
+III. Acciones en el segundo nivel de atención.
+
+En el segundo nivel de atención se complementará el protocolo de estudio con los exámenes de laboratorio y gabinete especializados que resulten necesarios, cuyo objetivo es establecer el diagnóstico de certeza, y determinar, tanto el plan terapéutico como el pronóstico, principalmente en las unidades hospitalarias donde exista la especialidad médica en la materia;
+
+IV. Acciones en el tercer nivel de atención.
+
+Cuando no ha podido resolverse el caso en el segundo nivel de atención, se procederá a referenciar a cualquiera de las Unidades Médicas Especializadas que integran los Servicios de Salud en el Estado de Hidalgo, tomando en cuenta el catálogo de servicios y su capacidad resolutiva, o en su caso, se referenciará al Hospital público de Tercer Nivel más cercano a la Entidad que forme parte del Sistema Nacional de Salud, de conformidad con los acuerdos de coordinación y normatividad vigente. Lo anterior con el objetivo de complementar el protocolo de estudio e iniciar el manejo con o sin intervención farmacológica, y/o quirúrgica, con técnicas de reproducción asistida de baja complejidad;
+
+V. Vigilancia y seguimiento; y
+
+VI. Las demás que, directa o indirectamente contribuyan a tratar la infertilidad.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+Artículo 142 Undecies 5.- El origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, no pueden ser motivo para impedir o anular el ejercicio de los derechos reproductivos de las parejas o personas con infertilidad. Lo anterior, a efecto de garantizar el respeto a los derechos humanos de las personas, así como a los preceptos señalados en la Carta de los Derechos Generales de los Pacientes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2022)</small>
+
 ## TITULO TERCERO QUATER. ATENCIÓN MATERNO INFANTIL
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
@@ -1618,6 +1828,10 @@ I. La atención integral de la mujer durante el embarazo, el parto y el puerperi
 II. La prevención de la transmisión del VIH/Sida y otras infecciones de transmisión sexual, en mujeres embarazadas a fin de evitar la transmisión perinatal;
 
 III. La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas;
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES PÁRRAFO SEGUNDO DE LA FRACCIÓN II, DEL APARTADO A, DEL ARTÍCULO 3], P.O. 18 DE AGOSTO DE 2023)</small>
+
+Se podrá otorgar estimulación temprana a las niñas y niños menores de 6 años, de acuerdo con las normas derivadas de la Ley General de Salud y de la presente Ley, lo cual estará a cargo de la Secretaría de Salud en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia y los Sistemas Municipales para el Desarrollo Integral de la Familia;
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
@@ -1657,9 +1871,17 @@ IV. Al menos un banco de leche humana en el estado en alguno de los establecimie
 
 V. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas en los menores de 5 años;
 
-VI. Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-VII. Acciones para informar y posibilitar cuando la infraestructura lo permita, el acompañamiento de las mujeres embarazadas por una persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea, en las instituciones de salud públicas y privadas, las cuales deberán tomar las medidas de higiene y seguridad necesarias.
+VI. Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+VII. Acciones para informar y posibilitar cuando la infraestructura lo permita, el acompañamiento de las mujeres embarazadas por una persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea, en las instituciones de salud públicas y privadas, las cuales deberán tomar las medidas de higiene y seguridad necesarias; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+VIII. La instalación de cambiadores de pañales en los baños o baños familiares, que faciliten la privacidad, accesibilidad, seguridad, comodidad e higiene de los usuarios.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
 
@@ -1677,135 +1899,9 @@ III. La vigilancia de actividades ocupacionales que puedan poner en peligro la s
 
 IV. Las demás que coadyuven a la protección de la salud materno- infantil.
 
-### CAPITULO IV
-
-DERECHOS ESPECIFICOS DE LAS PERSONAS CON ENFERMEDADES RARAS NO INFECTO-CONTAGIOSAS CRONICAS O CRONICO-DEGENERATIVAS.
-
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
-
-###### Artículo 142 Septies.
-
-Para los efectos de este título, se entenderá por:
-
-I.- Cuidados paliativos: Los cuidados activos y totales relacionados con el control del dolor y de otros síntomas, proporcionados a las personas en situación terminal, con enfermedades crónicas, degenerativas o crónico-degenerativos que no respondan a tratamientos curativos y que requieren atención de aspectos psicológicos sociales y espirituales, y a sus familiares;
-
-II.- Enfermedad crónica: Aquella de larga duración y por lo general de progresión lenta. Tiene una o más de las siguientes características: es permanente, deja discapacidad residual, es causado por una alteración patológica irreversible, requiere especial entrenamiento en pacientes para rehabilitación o requiere un periodo largo de supervisión, observación o cuidado;
-
-III.- Enfermedad degenerativa: Aquella en la que existe deterioro de una estructura o función de los tejidos del organismo o relacionado con ellos o elementos anatómicos con cambios químicos de la sustancia componente con pérdida de los caracteres y funciones esenciales. Estado caracterizado por deterioro de las facultades físicas y mentales. Deterioro de los tejidos con el correspondiente fallo funcional como resultado de una lesión o de una enfermedad. El proceso puede avanzar hasta un estado irreversible y causar la muerte de los tejidos;
-
-IV.- Enfermedad rara: Aquella cuya prevalencia es inferior a cinco casos por cada 10 mil personas y que puede derivar de cuestiones genéticas;
-
-V.- Enfermedad en situación terminal: Todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para la persona enferma sea menor a seis meses;
-
-VI.- Enfermedades no Infecto-Contagiosas: Aquellas que no son producidas por agentes microbianos, por lo tanto, no pueden transmitirse;
-
-VII.- Medios extraordinarios: Los que constituyen una carga demasiado grave para la persona enferma y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
-
-VIII.- Medios ordinarios: Los que son útiles para conservar la vida de la persona enferma en situación terminal o para curarla, sin que le constituyan una carga grave o desproporcionada a los beneficios que se pueden obtener; y
-
-IX.- Obstinación Terapéutica: La adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE MAYO DE 2018)</small>
-
-### CAPITULO I. AUTORIZACIONES
-
-###### Artículo 142 Octies.
-
-Las personas con enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas y las personas con enfermedades en situación terminal, tienen los siguientes derechos:
-
-I. Recibir atención médica integral en las instituciones de Salud, según sea su elección;
-
-II. Ingresar por solicitud propia o persona legalmente facultado para ello, a las instituciones de salud cuando requieran atención médica;
-
-III. Recibir atención por personal capacitado en el tratamiento (sic) enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas y en la atención de las personas con enfermedades en situación terminal;
-
-IV. Dejar voluntariamente la institución de salud en que esté hospitalizado, de conformidad a las disposiciones aplicables;
-
-V. Recibir un trato digno, respetuoso y profesional por parte del personal de las instituciones de salud, las que deben procurar preservar su calidad de vida;
-
-VI. Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad y los tipos de tratamientos por los cuales puede optar según la enfermedad que padezca, con la clara distinción de los límites entre el tratamiento curativo y el tratamiento paliativo;
-
-VII. Dar su consentimiento informado por escrito para la aplicación o no de tratamientos, medicamentos y cuidados paliativos adecuados a su enfermedad, necesidades y calidad de vida;
-
-VIII. Solicitar al personal médico, la administración de medicamentos que mitiguen el dolor;
-
-IX. Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el tratamiento que considere extraordinario;
-
-X. Optar por recibir los cuidados paliativos en un domicilio particular, cuando se determine dentro del plan de cuidados paliativos;
-
-XI. Designar a algún familiar, representante legal o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, no pueda expresar su voluntad, lo haga en su representación;
-
-XII. Recibir los servicios espirituales, cuando lo solicite personalmente, su familia, representante legal o persona de su confianza; y
-
-XIII. Los demás que las leyes señalen.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE MAYO DE 2018)</small>
-
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
-
-###### Artículo 142 Nonies.
-
-El personal médico tratante en las instituciones de salud, tanto del sector público como del privado, sin menoscabo de lo señalado en la Ley General de Salud vigente, tendrán las siguientes obligaciones:
-
-I. Informar oportunamente y de manera respetuosa al o la paciente, que su enfermedad es terminal, así como su expectativa de vida;
-
-II. Informar pertinentemente a la persona enferma en situación terminal y en su caso, a quien tenga la facultad de conformidad con la ley aplicable, que no existe tratamiento curativo para su padecimiento;
-
-III. Proporcionar la información del historial médico personal y la referente al padecimiento que él o la paciente requiera, así como la que el personal médico considere necesaria, para que la persona enferma en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados, al tiempo que se garantiza su derecho a tener una muerte digna, cuando la enfermedad haya entrado en situación terminal;
-
-IV. Pedir el consentimiento informado de la persona enferma en situación terminal, por escrito, ante dos testigos, a efecto de recibir los tratamientos o medidas a tomar respecto de la enfermedad terminal;
-
-V. Informar a la persona enferma en situación terminal o a la persona autorizada, sobre las opciones que existan de cuidados paliativos;
-
-VI. Respetar la decisión de la persona enferma en situación terminal o de la persona autorizada, en cuanto al tratamiento y cuidados paliativos, una vez que se le haya explicado en términos sencillos, las consecuencias de su decisión;
-
-VII. Procurar las medidas mínimas necesarias para preservar la calidad de vida de las personas enfermas en situación terminal;
-
-VIII. Respetar y aplicar todas y cada una de las medidas y procedimientos para los casos que señala la normatividad aplicable, evitando, sin que exista duda razonable, la obstinación terapéutica o la aplicación de medidas extraordinarias;
-
-IX. Hacer saber a la persona enferma, de inmediato y antes de su aplicación, si el tratamiento a seguir para aliviar el dolor y los síntomas de su enfermedad, tiene posibles efectos secundarios;
-
-X. Solicitar, cuando lo estime conveniente o por decisión de la persona enferma, una segunda opinión a otro médico, cuando su diagnóstico sea una enfermedad terminal; y
-
-XI. Las demás que las leyes señalen.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2018)</small>
-
-### CAPITULO UNICO. DISPOSICIONES GENERALES
-
-###### Artículo 142 Decies.
-
-Las personas con enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas, sin menoscabo de los derechos plasmados en el artículo 142 Septies y la normatividad aplicable, tendrán los siguientes derechos:
-
-I. A la prevención y detección precoz a través de los análisis los (sic) correspondientes cuando exista la sospecha por parte del personal médico de estar en presencia de una enfermedad rara no infecto-contagiosa crónica o crónico-degenerativa;
-
-II. Al apoyo y transferencia para el tránsito entre atención primaria y atención especializada, canalizando al o la paciente a las Unidades Médicas correspondientes;
-
-III. A la información y participación que garanticen al o la paciente un asesoramiento genético apropiado, para que cuente con toda la información médica disponible en relación con su padecimiento, que le permita la toma de decisiones razonadas y el respeto a estas;
-
-IV. A recibir el tratamiento terapéutico o paliativo adecuado a su padecimiento, con pleno conocimiento de las consecuencias y alcances, brindado por parte del personal médico;
-
-V. A participar en programas de fomento y apoyo de las terapias avanzadas y de la investigación;
-
-VI. A tener acceso en las Unidades de Rehabilitación, cuando su tratamiento considere la opción de ser rehabilitado;
-
-VII. A no ser objeto de discriminación de ningún tipo por motivo de su enfermedad y ser tratado en irrestricto apego a su dignidad; y
-
-VIII. Los demás que le confieran la normatividad aplicable.
-
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
-
-Artículo 142 Undecies.- En casos de urgencia médica y que exista incapacidad de las personas con enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas y de las personas enfermas en situación terminal, para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por dos integrantes del personal médico autorizado en términos de las disposiciones aplicables.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2021)</small>
-
 ## TITULO CUARTO
 
-## TITULO QUINTO. VIGILANCIA SANITARIA
-
-## TITULO SEXTO. MEDIDAS DE SEGURIDAD Y SANCIONES
-
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO I. AUTORIZACIONES
 
 ###### Artículo 143.
 
@@ -1865,7 +1961,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la Autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los Convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### Artículo 155.
 
@@ -1923,7 +2019,9 @@ La Autoridad Sanitaria competente emitirá la resolución que corresponde al con
 
 La revocación tendrá efectos de clausura definitiva, de prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+## TITULO QUINTO. VIGILANCIA SANITARIA
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 163.
 
@@ -1955,7 +2053,9 @@ La Autoridad Sanitaria podrá encomendar a sus verificadores además actividades
 
 Las visitas de verificación se ajustarán a lo dispuesto por la Ley Estatal del Procedimiento Administrativo.
 
-### CAPITULO IV. DE LOS RECURSOS ADMINISTRATIVOS
+## TITULO SEXTO. MEDIDAS DE SEGURIDAD Y SANCIONES
+
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 170.
 
@@ -2087,7 +2187,7 @@ c. Personas que no puedan quitarse el cubrebocas sin ayuda.
 
 V. Las autoridades sanitarias en el ámbito de su competencia, mantendrán estrategias de difusión permanentes para promover el uso del cubrebocas.
 
-### CAPITULO V. PRESCRIPCIÓN
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 182.
 
@@ -2191,6 +2291,8 @@ II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disp
 
 Solo procederá esta sanción, si previamente se dictó cualquiera otra de las sanciones a que se refiere este capítulo. Impuesto el arresto, se comunicará la resolución a la Autoridad correspondiente para que se ejecute.
 
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+
 ###### Artículo 194.
 
 Para los efectos de esta Ley, el ejercicio de las facultades discrecionales por parte de la Secretaría de Salud, se sujetará a los siguientes criterios:
@@ -2263,9 +2365,13 @@ En los casos de suspensión de trabajo o de servicios o de clausura temporal o d
 
 Cuando en el contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, se formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
+### CAPITULO IV. DE LOS RECURSOS ADMINISTRATIVOS
+
 ###### Artículo 204.
 
 Contra actos y resoluciones de las Autoridades Sanitarias, los interesados podrán interponer los recursos a que se refiere la Ley Estatal del Procedimiento Administrativo.
+
+### CAPITULO V. PRESCRIPCIÓN
 
 ###### Artículo 205.
 
@@ -2514,3 +2620,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La implementación de las remuneraciones o estímulos a las parteras tradicionales a que se refiere el presente Decreto estará sujeta a los recursos que al efecto autorice el Congreso del Estado de Hidalgo en el Presupuesto de Egresos de cada ejercicio fiscal.
 
 TERCERO. La Secretaría de Salud del Estado de Hidalgo, tendrá un plazo de hasta 180 días naturales para actualizar el registro y acreditación de médicos tradicionales, curanderos y parteras, así como de sus asociaciones y organismos de conformidad con el artículo 16 Sextus de la Ley de Salud del Estado de Hidalgo para el cumplimiento del presente Decreto.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 563 POR EL QUE SE REFORMAN Y ADICIONAN DISTINTAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Con relación al sistema y a los órganos que se reconocen al tenor del Título Segundo Bis y el Título Segundo Ter que se adicionan conforme a este Decreto, se concede un término de ciento ochenta días naturales para llevar a cabo la reglamentación de las atribuciones y estructuras de los mismos.
