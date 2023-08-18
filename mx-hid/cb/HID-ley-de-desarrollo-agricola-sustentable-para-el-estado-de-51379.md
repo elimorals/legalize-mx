@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2023-06-15"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE DESARROLLO AGRICOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE SEPTIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -87,13 +89,17 @@ VI.- Fomentar entre los productores agrícolas el manejo correcto de los insumos
 
 VII.- Desarrollar e implementar los sistemas de comercialización de todos los productos agrícolas;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-VIII.- Apoyar al productor, para que en coordinación con la Comisión Nacional del Agua, se formulen planes y proyectos que permitan garantizar el suministro de agua de riego, en la medida que los mantos acuíferos naturales lo permitan; y
+VIII.- Apoyar al productor, para que en coordinación con la Comisión Nacional del Agua, se formulen planes y proyectos que permitan garantizar el suministro de agua de riego, en la medida que los mantos acuíferos naturales lo permitan;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-IX.- Facilitar la adaptación de los sistemas productivos a los efectos del cambio climático.
+IX.- Facilitar la adaptación de sistemas productivos a los efectos de cambio climático; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+X.- Fomentar una política agrícola en materia de análisis de suelos para la producción sustentable.
 
 ###### ARTICULO 3.
 
@@ -215,57 +221,93 @@ IV.- Las cadenas productivas Estatales a través de sus Consejos de productores.
 
 Para los efectos de esta Ley se entenderá por:
 
-Cultura tradicional: El conjunto de rasgos étnicos, espirituales, materiales, intelectuales y afectivos, que caracterizan a una sociedad o a un grupo social, que incluye en particular, los modos de vida y la producción de bienes económicos y simbólicos, los sistemas de valores, las creencias, las opiniones, usos y costumbres.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-CNA: Comisión Nacional del Agua.
+I.- Agricultura Familiar: Forma de organizar la agricultura, ganadería, silvicultura, pesca, acuicultura y pastoreo que es administrada y operada por una familia y que depende preponderantemente del trabajo familiar.
 
-Desarrollo: El proceso continuo de cambios cuantitativos y cualitativos, en los que se busca la satisfacción de las necesidades de la sociedad, no solo en aspectos económicos, sino ambientales, sociales y culturales, entre otros.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico y protección al ambiente, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
+II.- Análisis de suelos: Es una técnica de análisis desde el punto de vista agronómico y medio ambiental que permite conocer el estado de fertilidad del suelo y su condición fisicoquímica, para hacer recomendaciones de abonado y fertilizantes orientados a obtener cosechas de calidad y altos rendimientos, con bajos niveles de afectación al medio ambiente.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-Equidad social: Conjunto de ideas, principios y valores que implica la aplicación de los derechos y obligaciones para evitar situaciones de exclusión y desigualdad entre los diversos grupos que integran la sociedad.
+III.- Cultura tradicional: El conjunto de rasgos étnicos, espirituales, materiales, intelectuales y afectivos, que caracterizan a una sociedad o a un grupo social, que incluye en particular, los modos de vida y la producción de bienes económicos y simbólicos, los sistemas de valores, las creencias, las opiniones, usos y costumbres
 
-Etnodesarrollo: Un proceso socioeconómico y cultural, que con autonomía, permite a los actores sociales pertenecientes a etnias, guiar su propia evolución social o desarrollo.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-Identidad Cultural: La existencia de diversas características como: un territorio definido, una lengua común, una religión y el conjunto de valores y símbolos culturales, así como una forma propia de relaciones de producción, que ayuda a la cohesión y reproducción de sus miembros.
+IV.- CNA: Comisión Nacional del Agua.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-Mujer Rural: Es toda aquella que, sin distingo de ninguna naturaleza, e independientemente del lugar donde viva, su medio de vida está relacionado directamente con el ámbito rural, incluso si su actividad productiva no se encuentra reconocida por los sistemas de información y medición o no es remunerada.
+V.- Desarrollo: El proceso continuo de cambios cuantitativos y cualitativos, en los que se busca la satisfacción de las necesidades de la sociedad, no solo en aspectos económicos, sino ambientales, sociales y culturales, entre otros.
 
-Nichos de Mercado: Principales Centros de abasto y consumo.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-Ley: La Ley de Desarrollo Agrícola Sustentable para el Estado de Hidalgo.
+VI.- Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico y protección al ambiente, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
-Organización Social Productiva: Todos los organismos económicos que agrupan a varios productores rurales o a más de un grupo operante y que realizan actividades productivas de tipo agrícola.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-Proceso Productivo: La articulación de fases, componentes, medios de producción y fuerza de trabajo, mediante la cual se obtiene un bien de origen agrícola, desde la documentación técnica administrativa, la materia prima y los insumos, hasta la producción, transformación y comercialización.
+VII.- Equidad social: Conjunto de ideas, principios y valores que implica la aplicación de los derechos y obligaciones para evitar situaciones de exclusión y desigualdad entre los diversos grupos que integran la sociedad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-Producción Orgánica: Sistema de producción y procesamiento de alimentos, productos y subproductos animales y/o vegetales, con un uso regulado de insumos externos, restringiendo y en su caso prohibiendo la utilización de productos de síntesis química; de tal forma que garantizan ser alimentos sanos para el consumidor y con grandes beneficios al medio ambiente, antes, durante y después de la producción al fomentar la conservación y el mejoramiento de la fertilidad del suelo, la protección de los recursos naturales y el impedimento de la contaminación.
+VIII.- Identidad Cultural: La existencia de diversas características como: un territorio definido, una lengua común, una religión y el conjunto de valores y símbolos culturales, así como una forma propia de relaciones de producción, que ayuda a la cohesión y reproducción de sus miembros.
 
-Programa de Financiamiento Rural: Instrumento de desarrollo agrícola.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-Productor Rural: La persona física o moral, que directa o. indirectamente se dedica a la producción, transformación, industrialización o comercialización de sus productos y subproductos.
+IX.- Mujer Rural: Es toda aquella que, sin distingo de ninguna naturaleza, e independientemente del lugar donde viva, su medio de vida está relacionado directamente con el ámbito rural, incluso si su actividad productiva no se encuentra reconocida por los sistemas de información y medición o no es remunerada.
 
-Programa Estatal Agrícola: El documento que contiene los lineamientos de política agrícola sustentable del Estado de Hidalgo.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-Reglamento: El Reglamento de la Ley.
+X.- Nichos de Mercado: Principales Centros de abasto y consumo.
 
-Secretaría: La Secretaría de Agricultura y Desarrollo Rural del Estado de Hidalgo.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-Sistema Estatal de Información Agropecuaria: Organismo de información agrícola y pecuaria creada por el Estado.
+XI.- Ley: La Ley de Desarrollo Agrícola Sustentable para el Estado de Hidalgo.
 
-Subcomité Municipal Agropecuario: Organo colegiado de planeación sectorial Municipal.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria.
+XII.- Organización Social Productiva: Todos los organismos económicos que agrupan a varios productores rurales o a más de un grupo operante y que realizan actividades productivas de tipo agrícola.
 
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-Tierras de Temporal: Aquellas en que la humedad necesaria para que las semillas cultivadas desarrollen su ciclo vegetativo proviene directa y exclusivamente de la precipitación pluvial.
+XIII.- Proceso Productivo: La articulación de fases, componentes, medios de producción y fuerza de trabajo, mediante la cual se obtiene un bien de origen agrícola, desde la documentación técnica administrativa, la materia prima y los insumos, hasta la producción, transformación y comercialización.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XIV.- Producción Orgánica: Sistema de producción y procesamiento de alimentos, productos y subproductos animales y/o vegetales, con un uso regulado de insumos externos, restringiendo y en su caso prohibiendo la utilización de productos de síntesis química; de tal forma que garantizan ser alimentos sanos para el consumidor y con grandes beneficios al medio ambiente, antes, durante y después de la producción al fomentar la conservación y el mejoramiento de la fertilidad del suelo, la protección de los recursos naturales y el impedimento de la contaminación.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XV.- Productor Rural: La persona física o moral, que directa o indirectamente se dedica a la producción, transformación, industrialización o comercialización de sus productos y subproductos.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XVI.- Programa Estatal Agrícola: El documento que contiene los lineamientos de política agrícola sustentable del Estado de Hidalgo.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XVII.- Reglamento: El Reglamento de la Ley.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XVIII.- Secretaría: La Secretaría de Agricultura y Desarrollo Rural del Estado de Hidalgo.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XIX.- Sistema Estatal de Información Agropecuaria: Organismo de información agrícola y pecuaria creada por el Estado.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XX.- Subcomité Municipal Agropecuario: Órgano colegiado de planeación sectorial Municipal.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XXI.- SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XXII.- Tierras de Temporal: Aquellas en que la humedad necesaria para que las semillas cultivadas desarrollen su ciclo vegetativo proviene directa y exclusivamente de la precipitación pluvial.
 
 ### CAPITULO V. DE LA COORDINACION Y CONCERTACION
 
@@ -383,11 +425,15 @@ VII.- La conformación y operación de la Contraloría, que asegure el ejercicio
 
 VII BIS.- Las medidas de adaptación al cambio climático del sector agrícola;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-VIII.- Un mecanismo que permita atender las contingencias que se presenten por el abatimiento de la producción planeada, así como, la atención de siniestros naturales, y la prevención de los efectos del cambio climático sobre el sector, que impidan al productor rural recuperar la inversión realizada; y
+VIII.- Un mecanismo que permita atender las contingencias que se presenten por el abatimiento de la producción planeada, así como, la atención de siniestros naturales, y la prevención de los efectos del cambio climático sobre el sector, que impidan al productor rural recuperar la inversión realizada;
 
-IX.- Todas las medidas que se consideren necesarias para sentar las bases del desarrollo agrícola sustentable del Estado de Hidalgo.
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XI (SIC).- El fomento y promoción de acciones que incentiven la agricultura familiar, así como todas las medidas que se consideren necesarias para sentar las bases del desarrollo agrícola sustentable del Estado de Hidalgo; y
+
+X.- Todas las medidas que se consideren necesarias para sentar las bases del desarrollo agrícola sustentable del Estado de Hidalgo.
 
 ### CAPITULO III. DE LA INSTRUMENTACION DEL PROGRAMA
 
@@ -415,7 +461,9 @@ I.- Impulsar la organización para la producción, como un requisito indispensab
 
 II.- Incluir en el Programa Estatal de Desarrollo Agrícola sustentable, el proyecto de organización y capacitación para la producción, uso y aprovechamiento sustentable de los recursos naturales, contemplando las áreas prioritarias que sea necesario apoyar, de acuerdo con los propios beneficiarios, así como los mecanismos de concertación con los productores rurales y sus organizaciones, para su programación e implementación;
 
-III.- Implementar proyectos que sistematicen de manera eficiente el modo tradicional de producción, el cual considere el espacio que habitan los productores, la producción de alimentos, plantas medicinales, plantas ornamentales, fertilizantes orgánicos, materiales de construcción, conservación de suelos y biodiversidad, etc.;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+III.- Implementar proyectos que sistematicen de manera eficiente el modo tradicional de producción, el cual considere la agricultura familiar, el espacio que habitan los productores, la producción de alimentos, plantas medicinales, plantas ornamentales, fertilizantes orgánicos, materiales de construcción, conservación de suelos y biodiversidad;
 
 IV.- Elaborar y coordinar en forma participativa, proyectos de capacitación para los productores y sus organizaciones, a fin de que cuenten con los elementos necesarios para poder articular las fases de la cadena productiva con fines comerciales;
 
@@ -429,9 +477,17 @@ IV TER.- Diseñar y ejecutar programas de capacitación para fortalecer el acces
 
 V.- El proyecto de capacitación mencionado en la fracción anterior, deberá contemplar la capacitación de los directivos y personal técnico y administrativo de las organizaciones y las empresas económicas campesinas, para dotarlos de las herramientas organizacionales, técnicas, administrativas, financieras y legales que les permitan asumir una cultura empresarial, para la modernización y la eficiencia, sin que esto implique la pérdida del sentido social, ni la cultura básica que las caracteriza;
 
-VI.- Identificar participativamente las necesidades de asesoría especializada que requieren los productores rurales y sus organizaciones, tendientes a reforzar su capacidad empresarial o a resolver problemas específicos que requieren de la contratación de agentes externos con alto grado de especialización; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-VII.- La Secretaría procurará que el capacitador cumpla con las reglas y normas de eficiencia que se requieran para la capacitación de los productores y demás involucrados en el sector.
+VI.- Identificar participativamente las necesidades de asesoría especializada que requieren los productores rurales y sus organizaciones, tendientes a reforzar su capacidad empresarial o a resolver problemas específicos que requieren de la contratación de agentes externos con alto grado de especialización;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+VII.- La Secretaría procurará que el capacitador cumpla con las reglas y normas de eficiencia que se requieran para la capacitación de los productores y demás involucrados en el sector; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+VIII.- Fomentar una política agrícola basada en análisis de suelos, así como promover entre las y los productores este tipo de técnicas para sus cultivos.
 
 ###### ARTICULO 19.
 
@@ -1358,3 +1414,9 @@ P.O. 15 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 530 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 552 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
