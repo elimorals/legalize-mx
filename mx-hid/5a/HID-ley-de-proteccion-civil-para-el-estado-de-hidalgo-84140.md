@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2023-06-19"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -42,6 +42,8 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 D E C R E T A:
 
 A N T E C E D E N T E
+
+[...]
 
 ÚNICO.- En sesión ordinaria de fecha 20 de octubre del presente año, nos fue turnada la Iniciativa de referencia, la cual fue registrada en el Libro de Gobierno de la Comisión actuante bajo el número 60/2011, y
 
@@ -143,7 +145,9 @@ XXIX.- Fenómeno Natural: Agente perturbador producido por la naturaleza;
 
 XXX.- Fenómeno Quimico-Teconologico (sic): Se encuentran íntimamente ligados a la compleja vida en sociedad al desarrollo industrial y tecnológico de las actividades humanas y al uso de diversas formas de energía. Entre los que se encuentran: incendios urbanos, forestales, industriales, explosiones, fugas toxicas y derrames de sustancias químicas.
 
-XXXI.- Fenómeno Sanitario-Ecológico: Agente perturbador que se genera por la acción patógena de agentes biológicos que afectan a la población, a los animales y a las cosechas, causando su muerte o la alteración de su salud. Las epidemias y plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XXXI.- Fenómeno Sanitario-Ecológico: Agente perturbador que se genera por la acción patógena de agentes biológicos que afectan a la población, a los animales y a las cosechas, causando su muerte o la alteración de su salud. Las epidemias, pandemias, endemias y sindemias, así como las plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
 
 XXXII.- Fenómeno Socio-Organizativo: Agente perturbador que se genera con motivo de errores humanos o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población, tales como: manifestaciones de inconformidad social, marchas, mítines, eventos deportivos y musicales, terrorismo, sabotaje, vandalismo, accidentes aéreos, marítimos o terrestres e interrupción o afectación de los servicios básicos o de infraestructura estratégica, hambruna;
 
@@ -313,9 +317,11 @@ III.- Los grupos de brigadistas y voluntarios que se encuentren inscritos, en el
 
 El Ejecutivo del Estado, a través del consejo estatal de protección civil, fomentará la creación de programas, estudios, investigaciones, nuevos métodos, sistemas, equipos y dispositivos, que permitan prevenir y controlar los efectos adversos por la ocurrencia de un agente perturbador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 8.
 
-El ejecutivo del estado expedirá, los decretos, acuerdos y demás disposiciones que se estimen pertinentes para:
+La Persona Titular del Poder Ejecutivo del Estado expedirá los decretos y acuerdos, e instruirá a las áreas correspondientes las disposiciones necesarias para:
 
 I.- Asegurar el correcto funcionamiento del Sistema Estatal de Protección Civil y dictar los lineamientos generales para coordinar las labores de protección civil, en beneficio de la población, sus bienes y entorno, induciendo y conduciendo la participación de los diferentes sectores y grupos de la sociedad en el marco de la gestión integral de riesgos;
 
@@ -381,9 +387,11 @@ X.- Los Presidentes Municipales de los lugares donde se establezcan representaci
 
 Los titulares nombrarán a sus respectivos suplentes, quienes tendrán voz y voto. El cargo de consejero es de carácter honorario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 12.
 
-El Consejo Estatal de Protección Civil, tendrá las siguientes atribuciones:
+Para el cumplimiento de sus fines, el Consejo Estatal de Protección Civil tendrá las siguientes atribuciones, deberes y facultades:
 
 I.- Fungir como órgano consultivo de planeación, de coordinación de acciones y decisiones del Sistema Estatal de Protección Civil;
 
@@ -622,6 +630,10 @@ III. Coordinar los trabajos de Investigación, estudios y evaluación riesgos, p
 > <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 IV. Proponer al Ejecutivo del Estado, de acuerdo a lo establecido del artículo 72 al 75 de la Ley de Protección Civil, las bases y lineamientos para la creación y administración del Fondo de Protección Civil para la prevención y atención de emergencias y desastres de origen natural, así como las donaciones recibidas de particulares e instituciones;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+IV Bis.- Elaborar un catálogo de personas físicas y de las instituciones públicas y privadas especialistas en la elaboración de Atlas Municipales de Riesgos, en cumplimiento con la normativa aplicable.
 
 > <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
 
@@ -1404,5 +1416,17 @@ P.O. 27 DE MARZO DE 2023.
 P.O. 19 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 536 POR EL QUE SE REFORMAN LA FRACCIÓN XII DEL ARTÍCULO 12 Y LA FRACCIÓN II DEL ARTÍCULO 35; Y SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 28 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 558 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 562 POR EL QUE SE REFORMA LA FRACCIÓN XXXI DEL ARTÍCULO 2 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
