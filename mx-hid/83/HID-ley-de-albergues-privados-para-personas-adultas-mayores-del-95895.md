@@ -4,7 +4,7 @@ identifier: "HID-ley-de-albergues-privados-para-personas-adultas-mayores-del-958
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2022-10-21"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley Publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -299,9 +299,11 @@ Para el caso de enfermedad terminal diagnosticada por profesional especializado,
 
 Sobre el Personal de los Albergues.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 33.
 
-Los albergues deberán contar con el personal profesional calificado, para atender a los residentes de acuerdo a sus condiciones personales, al nivel de cuidado y a los servicios que se le prestarán. La autoridad sanitaria verificará el cumplimiento de esta disposición desde el momento de la solicitud de la autorización sanitaria y en cualquier momento durante la vigencia de la misma.
+Los albergues deberán contar cuando menos con el personal profesional calificado en geriatría y gerontología, para atender a las y los residentes de acuerdo a sus condiciones personales, al nivel de cuidado y a los servicios que se les prestarán. La autoridad sanitaria verificará el cumplimiento de esta disposición desde el momento de la solicitud de la autorización sanitaria y en cualquier momento durante la vigencia de la misma.
 
 ###### Artículo 34.
 
@@ -363,9 +365,11 @@ Los familiares del Residente tienen derecho a recibir del Albergue Privado toda 
 
 El Residente tiene derecho a recibir un trato digno y respetuoso, que facilite la convivencia y la prestación de los servicios.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 48.
 
-El hecho de dejar en manos de terceras personas el cuidado y la atención que requiere el Adulto Mayor, de ninguna manera libera a los familiares de los derechos y de las obligaciones que la ley les reconoce e impone; cuando los familiares del residente, dejen de cumplir con las obligaciones y atenciones, que requiere el adulto mayor, dejándolo en estado de abandono y omisión de atención, por más de noventa días, el representante legal del albergue privado, deberá denunciar los hechos ante el Ministerio Público.
+El hecho de dejar en manos de terceras personas el cuidado y la atención que requieren las personas adultas mayores, de ninguna manera libera a los familiares de los derechos y de las obligaciones que la ley les reconoce e impone; cuando los familiares del residente dejen de cumplir con las obligaciones y atenciones que requiere la persona adulta mayor, dejándolo en estado de abandono u omisión de atención por más de treinta días, la persona representante legal del albergue privado o cualquier persona que represente los intereses del mismo, deberá denunciar los hechos ante el Ministerio Público y dar aviso al Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, para que otorguen seguimiento al asunto, en el ámbito de sus atribuciones.
 
 ### Capítulo VIII
 
@@ -490,5 +494,17 @@ P.O. 28 DE MARZO DE 2022.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DE “DECRETO NÚMERO 234 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 6 Y SE ADICIONA EL CAPÍTULO X DENOMINADO DEL REGISTRO ESTATAL DE ALBERGUES, QUE COMPRENDE LOS ARTÍCULOS 56, 57, 58 Y 59 DE LA LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 556 POR EL QUE SE REFORMA EL ARTÍCULO 48 DE LA LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 565 POR EL QUE SE REFORMA EL ARTÍCULO 33 DE LA LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
