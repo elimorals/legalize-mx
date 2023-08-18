@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2023-01-16"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE AGOSTO DE 2023.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -4339,19 +4339,21 @@ Sólo podrá autorizarse la contratación directa de los servicios a los que se 
 
 XVIII. Servicios específicos de información, bases de datos, ponencias, asesoría, investigación, estudios, dictámenes y otros que sean necesarios para las funciones inherentes de la presidencia del Consejo.
 
-Las contrataciones a que se refiere este artículo, preferentemente se realizarán mediante el procedimiento de invitación a cuando menos tres proveedores o contratistas, salvo que ello no fuere posible o no resultare conveniente.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA RECONTRATACIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA RECONTRATACIÓN DE PRESTADORES DE SERVICIOS, D.O.F. 25 DE OCTUBRE DE 2021)</small>
+Las contrataciones a que se refieren las fracciones anteriores, preferentemente se realizarán mediante el procedimiento de invitación a cuando menos tres proveedores o contratistas, salvo que ello no fuere posible o no resultare conveniente.
 
-Cuando de la investigación de mercado se determine la conveniencia de continuar con los prestadores de servicios y siempre que se mantengan los mismos precios o que el incremento pretendido guarde relación con el Índice Nacional de Precios al Consumidor, con la inflación específica del sector de que se trate, se les podrá recontratar hasta por dos ocasiones consecutivas sin procedimiento de adjudicación.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA RECONTRATACIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA RECONTRATACIÓN DE PRESTADORES DE SERVICIOS, D.O.F. 25 DE OCTUBRE DE 2021)</small>
+Para los efectos de las fracciones anteriores deberá obtenerse previamente la autorización del Comité, para lo cual las áreas que correspondan deberán justificar la necesidad de celebrar la contratación.
 
-En casos especiales, debidamente justificados, se podrá recontratar a los prestadores de servicios, aun cuando el incremento pretendido sea superior al índice señalado en el párrafo anterior, siempre y cuando se aseguren las mejores condiciones disponibles en el mercado para el Consejo.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA RECONTRATACIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN Y DEROGAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 13 DE FEBRERO DE 2017)</small>
+Cuando de la investigación de mercado se determine la conveniencia de continuar con los prestadores de servicios que cuenten con contrato vigente, se les podrá recontratar siempre y cuando mantengan los mismos precios, o bien, en caso de pretender un incremento de los mismos, éste guarde relación con el Índice Nacional de Precios al Consumidor o con la inflación específica del sector de que se trate y contemplen mejores condiciones en beneficio del Consejo.
 
-Para los efectos de este artículo, deberá obtenerse previamente la autorización del Comité, para lo cual el área que corresponda deberá justificar la necesidad de celebrar la contratación mediante el procedimiento alterno de que se trate.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA RECONTRATACIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+Para los efectos del párrafo anterior, las áreas que correspondan deberán comprobar y justificar el cumplimiento de los requisitos señalados y solicitar a la Secretaría Ejecutiva de Administración que someta la recontratación a la Comisión de Administración para su autorización, quien lo informará al Pleno para su conocimiento.
 
 ###### Artículo 296 Bis.
 
@@ -14530,3 +14532,11 @@ D.O.F. 16 DE ENERO DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA RECONTRATACIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
