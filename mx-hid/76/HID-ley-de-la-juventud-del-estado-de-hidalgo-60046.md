@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2023-06-15"
+last_updated: "2023-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -245,11 +245,11 @@ IV.- Las demás que señalen las disposiciones legales aplicables.
 
 El Gobierno deberá formular las políticas y establecer los mecanismos que permitan el acceso igualitario y expedito de los jóvenes a los servicios médicos y de asistencia social que dependan de él.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 17.
 
-Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos Públicos autónomos, establecerán los lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud, de interés y prioritarias para la juventud, tales como adicciones, enfermedades de transmisión sexual, nutrición, salud pública y comunitaria, entre otros.
+Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos Públicos autónomos, establecerán los lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud, de interés y prioritarias para la juventud, tales como adicciones, enfermedades de transmisión sexual, nutrición, salud pública y comunitaria, salud mental, entre otros.
 
 #### SECCIÓN QUINTA. DE LOS DERECHOS SEXUALES Y REPRODUCTIVOS
 
@@ -1312,3 +1312,9 @@ P.O. 15 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 534 POR EL QUE SE ADICIONA UN ARTÍCULO 7 BIS A LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 566 POR EL CUAL SE REFORMA EL ARTÍCULO 17 DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
