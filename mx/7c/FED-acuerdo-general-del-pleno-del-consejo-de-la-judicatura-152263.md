@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2023-03-27"
+last_updated: "2023-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE AGOSTO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -261,6 +261,24 @@ En los concursos de oposición para ser promovido a la categoría de Secretaria 
 
 También podrán participar las personas que cuenten con 6 meses de experiencia en cualquiera de dichas categorías, aunque en el momento del concurso no se desempeñen en el cargo, siempre y cuando tengan un nombramiento vigente dentro del Poder Judicial de la Federación. No obstante, las personas que dejaron de formar parte del Poder Judicial de la Federación podrán participar en los concursos de promoción a los que refiere el párrafo anterior siempre que, cumpliendo los requisitos previstos, se hayan separado de su cargo en un plazo de hasta 6 meses antes de la inscripción al concurso respectivo.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 13 Bis.
+
+Modalidad para acreditar el requisito de experiencia profesional para acceder a la categoría secretarial. Tratándose de lo previsto en los artículos 11, 12 y 13 de este Acuerdo, la experiencia profesional podrá acreditarse con alguno de los dos supuestos siguientes:
+
+I. Contar con título profesional de licenciatura en Derecho expedido al menos tres años antes de la fecha de emisión de la convocatoria correspondiente; o
+
+II. Contar con experiencia de al menos tres años en un puesto o puestos materialmente jurisdiccionales del Poder Judicial de la Federación, con independencia de la continuidad de las labores entre los diversos nombramientos conferidos.
+
+Es requisito indispensable para participar en los concursos de oposición de la categoría secretarial contar con título profesional de licenciatura en Derecho.
+
+En el caso de la fracción II, el periodo de duración en el Programa de Prácticas Judiciales en órganos jurisdiccionales del Poder Judicial de la Federación podrá acumularse como experiencia profesional.
+
+Para efectos de la fracción II, se entiende que realizaron funciones materialmente jurisdiccionales quienes hayan ocupado algún cargo de rango 11 o superior, de conformidad con el Manual General de Puestos del Consejo de la Judicatura Federal, en los órganos auxiliares, comisiones o unidades administrativas del Consejo.
+
+Para efectos de la fracción II, las personas que hayan ocupado cargos de mandos medios u homólogos a mandos medios que se encuentren entre el rango 21 y 12, de conformidad con el Manual General de Puestos del Consejo de la Judicatura Federal, deberán acreditar que realizaban labores materialmente jurisdiccionales. Para ello, bastará con la certificación que para tal efecto emita la persona titular correspondiente.
+
 ###### Artículo 14.
 
 Requisitos para ser Actuaria o Actuario y Oficial judicial. Las Actuarias o los Actuarios y las o los Oficiales judiciales deberán ser ciudadanas y ciudadanos mexicanos o mexicanas, en pleno ejercicio de sus derechos, contar con título de licenciada o licenciado en derecho expedido legalmente, gozar de buena reputación y no haber sido condenada o condenado por delito doloso con sanción privativa de libertad mayor de un año, además de los requisitos previstos en la Ley y en este Acuerdo.
@@ -268,6 +286,14 @@ Requisitos para ser Actuaria o Actuario y Oficial judicial. Las Actuarias o los 
 En los concursos de oposición para la categoría de Actuaria o Actuario se exigirá, también, que las personas cuenten con experiencia de al menos seis meses como Oficiales judiciales (sin que importe si dicha antigüedad se obtuvo de manera continua o interrumpida).
 
 También podrán participar las personas que cuenten con 6 meses de experiencia en cualquiera de dichas categorías, aunque en el momento del concurso no se desempeñen en el cargo, siempre y cuando tengan un nombramiento vigente dentro del Poder Judicial de la Federación. No obstante, las personas que dejaron de formar parte del Poder Judicial de la Federación podrán participar en los concursos de promoción a los que refiere el párrafo anterior siempre que, cumpliendo los requisitos previstos, se hayan separado de su cargo en un plazo de hasta 6 meses antes de la inscripción al concurso respectivo.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 14 Bis.
+
+Facultad de verificación y validación de la Escuela Judicial. El Consejo, a través de la Escuela Judicial, tendrá la facultad de obtener, verificar y validar, en todo el desarrollo de los procesos de selección, la documentación e información que las personas aspirantes le hubieren proporcionado con la finalidad de acreditar los requisitos establecidos para la categoría a la que pretendan acceder.
+
+En el supuesto de que las personas aspirantes dejaren de satisfacer alguno de los requisitos establecidos en la Ley, el presente Acuerdo, o la convocatoria respectiva, la Escuela Judicial podrá iniciar un proceso de verificación administrativa que permita, de resultar procedente, subsanar tal omisión.
 
 ### Capítulo V. Perfil de las y los funcionarios del Poder Judicial de la Federación
 
@@ -311,6 +337,34 @@ Promoción en la Carrera Judicial. La promoción a las categorías de Actuaria o
 
 ### Capítulo II. Disposiciones comunes a los concursos de oposición
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 17 Bis.
+
+Principios aplicables a los Concursos de Oposición. El diseño e implementación de los concursos de oposición para el acceso y promoción en la Carrera Judicial se apegará a los principios siguientes:
+
+I. Certeza: Es la garantía de seguridad jurídica de la que gozan las personas aspirantes de cualquiera de los concursos de oposición previstos en este Acuerdo, a partir de la cual pueden conocer si la actuación de las personas servidoras públicas del Consejo resultan conforme al orden jurídico, así como cerciorarse que dichos procesos de selección o evaluación sean verificables, fidedignos y confiables;
+
+II. Honestidad: Es la obligación de las diversas autoridades, como de las personas sustentantes de actuar con respeto a la verdad, congruencia e integridad, en apego a lo dispuesto por las normas jurídicas que rigen su intervención o participación en los procesos de selección establecidos en el presente Acuerdo;
+
+III. Igualdad: Criterio que, en su vertiente de no discriminación, se traduce en la obligación de las personas servidoras públicas del Consejo de dar un tratamiento igual a quienes se encuentran en un supuesto idéntico o similar; o bien, uno desigual a quienes se ubican en una hipótesis distinta. De lo anterior se sigue que tales órganos tienen el deber de abstenerse de otorgar un manejo indebidamente discriminatorio a las personas participantes de un proceso de selección previsto en este Acuerdo;
+
+IV. Imparcialidad: Es la cualidad que debe caracterizar la actuación de las personas servidoras públicas del Consejo que intervengan en los procesos de selección regidos por este Acuerdo, en el sentido de no favorecer indebidamente los intereses de las personas aspirantes;
+
+V. Independencia: Es la cualidad que debe caracterizar la actuación de las personas servidoras públicas del Consejo que intervengan en los procesos de selección que rige este Acuerdo, a fin de que ejerzan sus funciones sin supeditarse a (sic) interés, finalidad, autoridad o persona alguna en términos contrarios a los de su mandato legal;
+
+VI. Legalidad: Es la obligación de las personas servidoras públicas del Consejo de ajustar su actuación, en materia de procesos de selección o evaluación, a las disposiciones jurídicas aplicables;
+
+VII. Libre concurrencia: En los concursos de oposición a los que se refiera el presente Acuerdo deberá garantizarse la máxima concurrencia entre las personas participantes en igualdad de condiciones;
+
+VIII. Objetividad: Es la obligación de las personas servidoras públicas del Consejo que intervienen en los procesos de selección que rige este Acuerdo, de garantizar que el sistema o modelo de evaluación aplicable a los concursos de oposición no involucre consideraciones o parámetros subjetivos que incidan en el resultado;
+
+IX. Profesionalismo: Las personas servidoras públicas del Consejo, la Escuela Judicial y demás órganos auxiliares que intervengan en los procesos de selección que rige este Acuerdo, deben sujetar su actuación a los conocimientos técnicos, teóricos y metodológicos que garanticen un desempeño eficiente y eficaz de las funciones encomendadas;
+
+X. Transparencia: Es la obligación de las personas servidoras públicas del Consejo que intervengan en el diseño y ejecución de los concursos de oposición que prevé este Acuerdo, de aplicar la máxima publicidad a las convocatorias, el proceso de selección y los resultados de las evaluaciones, con excepción de la información de evaluación que deba reservarse con fundamento en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de transparencia y acceso a la información pública en el Consejo y el diverso que establece las disposiciones en materia de protección de datos personales, así como la Ley Federal de Transparencia y Acceso a la Información Pública y las demás normas que rigen la materia; y
+
+XI. Especialidad: Los concursos de oposición regulados por este Acuerdo deberán garantizar que el método de evaluación que en cada caso se aplique incida de manera efectiva en la profesionalización y especialización de las personas servidoras públicas que forman parte de ella.
+
 ###### Artículo 18.
 
 Accesibilidad a la Carrera Judicial en condiciones de igualdad. Toda persona tiene derecho a aspirar a desempeñar cargos dentro de la Carrera Judicial, siempre que reúna los requisitos establecidos en la Ley y en el presente Acuerdo. Por lo tanto, las personas servidoras públicas adscritas a los órganos jurisdiccionales del Poder Judicial de la Federación no requerirán de la autorización de su Titular, superior jerárquico o cualquier otra persona para realizar los trámites de inscripción a los concursos de oposición no escolarizados.
@@ -341,19 +395,27 @@ a) Escolarizados: Se denominan escolarizados cuando dentro de las etapas del con
 
 b) No escolarizados: Los concursos de este tipo serán todos los demás casos que no impliquen llevar a cabo algún curso de formación.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+Sin perjuicio de lo anterior, la Escuela Judicial podrá establecer en la convocatoria respectiva, la obligatoriedad de una capacitación que, según lo determine, podrá ser previa o posterior a los concursos de oposición. Esta capacitación será inherente y estrictamente relacionada con las funciones realizadas para la categoría postulada.
+
 III. De acuerdo con la finalidad, éstos podrán ser:
 
 a) Para acceder directamente a una plaza dentro de alguna de las categorías de la Carrera Judicial.
 
 b) Para incorporarse a una lista de acceso o promoción en la Carrera Judicial.
 
-En aras del principio de paridad de género de la Carrera Judicial se podrán llevar a cabo concursos de oposición dirigidos exclusivamente a mujeres, independientemente de la modalidad de éstos.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+Los concursos de oposición podrán llevarse a cabo de manera presencial, a distancia o en esquema hibrido, de conformidad con la convocatoria que emita la Escuela Judicial.
 
 ###### Artículo 20.
 
 Elaboración y publicación de la convocatoria. La Escuela Judicial elaborará las convocatorias para los concursos de oposición, que deberán contener al menos los siguientes aspectos:
 
-I. La modalidad del concurso;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+I. Las modalidades del concurso; así como si se llevará a cabo de manera presencial, a distancia o en un esquema híbrido;
 
 II. Los requisitos que deberán reunir las personas aspirantes;
 
@@ -369,15 +431,37 @@ VII. En caso de estimarse pertinente, los factores generales de evaluación que 
 
 VIII. Los parámetros de evaluación;
 
-IX. Los criterios de desempate;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+IX. Los criterios de desempate; su ponderación y las etapas en que serán aplicados en cada concurso de oposición. Es obligación de la Escuela Judicial considerar para cada concurso acciones afirmativas como criterio de desempate;
 
 X. El número de plazas que se concursarán cuando el concurso lo requiera;
 
 XI. La obligación de las personas concursantes de manifestar bajo protesta de decir verdad todas las relaciones familiares por afinidad o consanguinidad hasta el quinto grado en el Poder Judicial de la Federación;
 
-XII. En los concursos de las y los Titulares, la obligación de las personas concursantes de manifestarse sobre el desempeño de labores de cuidados familiares para que esta circunstancia pueda ser tomada en consideración al determinar las adscripciones de las personas vencedoras, y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
-XIII. Las demás que se señalen en el presente Acuerdo.
+XII. En los concursos de las y los Titulares, la obligación de las personas concursantes de manifestarse sobre el desempeño de labores de cuidados familiares para que esta circunstancia pueda ser tomada en consideración al determinar las adscripciones de las personas vencedoras;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+XIII. En su caso, el número de personas que podrán ser admitidas como participantes del concurso, así como los criterios de prelación para determinar su admisión. Lo anterior con independencia de la cantidad de personas que se inscriban al concurso;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+XIV. Los parámetros para definir las más altas calificaciones y el mínimo aprobatorio para cada etapa. Tratándose de la calificación mínima para determinar personas vencedoras de un concurso de oposición, ésta será de ochenta sobre una escala de cien puntos, conforme a los parámetros de evaluación y ponderación que establezca la Escuela Judicial;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+XV. El modelo de evaluación que establezca la Escuela Judicial para cada concurso de oposición considerará estándares nacionales e internacionales en materia de evaluación y desempeño; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+XVI. Los demás que se señalen en el presente Acuerdo y los que resulten aplicables de manera específica a los concursos para personas Titulares.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+Para los concursos en que la Escuela Judicial establezca un número determinado de aspirantes, además de considerar sus capacidades materiales y operativas, deberá tomar en cuenta la información que a tal efecto le sea proporcionada por los órganos que resulten competentes del Consejo.
 
 En los concursos de Titulares, la convocatoria será remitida a la Comisión para que por su conducto sea sometida a la aprobación del Pleno. La convocatoria deberá publicarse una vez en el Diario Oficial de la Federación; dos veces, con un intervalo de cinco días hábiles entre cada publicación, en uno de los diarios de mayor circulación nacional y en la página web de la Escuela Judicial.
 
@@ -399,9 +483,11 @@ Tratándose de concursos de Titulares, el proyecto de lista se someterá directa
 
 Tratándose de los concursos para el resto de las categorías de la Carrera Judicial la Escuela Judicial publicará directamente la lista de personas admitidas al concurso en su página web.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 23.
 
-Comité Técnico. El Comité Técnico es el órgano que auxiliará a la Escuela Judicial en el diseño de las evaluaciones y etapas que se llevarán a cabo en los concursos de oposición no escolarizados, conforme a lo establecido en la Ley y en el presente Acuerdo.
+Comité Técnico. El Comité Técnico es el órgano que auxiliará a la Escuela Judicial en el diseño de las evaluaciones y etapas que se llevarán a cabo en los concursos de oposición no escolarizados dirigidos a personas Titulares, conforme a lo establecido en la Ley y en el presente Acuerdo.
 
 ###### Artículo 24.
 
@@ -439,9 +525,11 @@ Las y los integrantes del Comité Técnico que no pertenezcan al Poder Judicial 
 
 Las personas que hayan sido designadas como integrantes del Comité Técnico de determinado concurso, no podrán ser designadas para integrar el Jurado de ese mismo concurso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 26.
 
-Jurado. El Jurado es el órgano encargado de evaluar las etapas subsecuentes al cuestionario de los concursos de oposición no escolarizados y escolarizados, conforme lo establecido en la Ley y el presente Acuerdo.
+Jurado. El Jurado es el órgano encargado de evaluar las etapas subsecuentes al cuestionario de los concursos de oposición no escolarizados y escolarizados para personas Titulares, conforme lo establecido en la Ley y el presente Acuerdo.
 
 El Jurado podrá dividirse para evaluar a distintas personas aspirantes y podrá haber integrantes del Jurado que sólo participen en una evaluación y no en otra, de acuerdo con las especificidades y necesidades de cada concurso.
 
@@ -497,7 +585,9 @@ Ejecución de las etapas de los concursos. Todas las etapas de los concursos de 
 
 Primera etapa: el cuestionario. La primera etapa de los concursos de oposición será la solución de un cuestionario que permita evaluar los conocimientos jurídicos y habilidades cognitivas relacionadas con las funciones inherentes a la categoría de Carrera Judicial a concursar.
 
-La Escuela Judicial se encargará de diseñar el cuestionario, cuyos reactivos podrán tener diferentes formatos con el objeto de evaluar diversos aspectos de los conocimientos de las y los aspirantes. Para esta labor, la Escuela Judicial podrá apoyarse en el Comité Técnico.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+La Escuela Judicial se encargará de diseñar el cuestionario, cuyos reactivos podrán tener diferentes formatos con el objeto de evaluar diversos aspectos de los conocimientos de las y los aspirantes.
 
 En la planificación, conformación, y aplicación del cuestionario se deberán seguir de manera muy estricta las medidas de seguridad que se establezcan en la normativa interna que deberá emitir la Escuela Judicial con la finalidad de garantizar la integridad de los reactivos. El resguardo y la evaluación del cuestionario será responsabilidad exclusiva de la Escuela Judicial.
 
@@ -543,21 +633,63 @@ De igual forma, se considerará como factores generales de evaluación los cargo
 
 Comisiones. Por acuerdo del Pleno las personas vencedoras de los concursos de oposición para Titulares podrán permanecer en el lugar de su adscripción hasta en tanto se determine su nueva adscripción o, en su defecto, podrán ser comisionadas en proyectos del Poder Judicial de la Federación.
 
-### Capítulo III. Concursos de oposición no escolarizados
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
-### Capítulo IV. Concursos de oposición escolarizados
+### Capítulo II Bis. Concursos de oposición de acceso y promoción en las categorías de la carrera judicial
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 35 Bis.
+
+Concursos para categorías. Los concursos de oposición para las siguientes categorías de la carrera judicial podrán ser escolarizados y no escolarizados:
+
+I. Magistradas y Magistrados de Circuito;
+
+II. Juezas y Jueces de Distrito;
+
+III. Secretarias y Secretarios de Tribunal y sus categorías equivalentes de conformidad con el artículo 8 del presente Acuerdo;
+
+IV. Secretarias y Secretarios de Juzgado y sus categorías equivalentes de conformidad con el artículo 8 del presente Acuerdo;
+
+V. Actuarias y Actuarios; y
+
+VI. Oficial judicial.
+
+La categoría de persona Secretaria Proyectista de Tribunal y de Juzgado se regirá conforme las disposiciones especiales del Capítulo VIII del presente Acuerdo.
+
+La determinación de la modalidad del concurso atenderá a: i) las necesidades del servicio; ii) las necesidades de capacitación; y, iii) las capacidades materiales y operativas de la Escuela Judicial.
+
+La promoción a las categorías previstas en las fracciones III y IV se podrá llevar a cabo a través de un mismo concurso de oposición. Asimismo, el personal que cumpla con los requisitos para desempeñarse en dichas categorías podrá acceder a las previstas en las fracciones V y VI, así como en la categoría de persona secretaria proyectista, sin necesidad de realizar el cuestionario a que hace referencia el artículo 65 del presente Acuerdo General.
+
+El personal que cumpla con los requisitos para desempeñarse en la categoría prevista en la fracción V del presente artículo podrá acceder a la prevista en la fracción VI.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 35 Ter.
+
+Planeación de los concursos de oposición. La planeación de los concursos de oposición a los que se refiere este Acuerdo se llevará a cabo como un medio para el eficaz desempeño de los objetivos y finalidades del sistema de Carrera Judicial, atendiendo a los criterios establecidos en el tercer párrafo del artículo anterior.
+
+Para la planeación de los concursos de oposición, la Escuela Judicial someterá a consideración y, en su caso, aprobación del Pleno, el proyecto de Programación y Calendario Anual de Procesos de Selección que deberán implementarse durante el año inmediato posterior.
+
+El Pleno, con independencia de lo dispuesto en la Programación y Calendario, podrá instruir a la Escuela Judicial la aplicación de concursos atendiendo a i) las necesidades del servicio; ii) las necesidades de capacitación; y, iii) las capacidades materiales y operativas de la Escuela Judicial.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 35 Quater.
+
+Programación anual de los concursos de oposición. Dentro de los primeros cuatro meses de cada año, las áreas administrativas del Consejo que tengan información necesaria o requerimientos relacionados con la aplicación de concursos de oposición del siguiente año, enviarán dicha información y requerimientos a la Escuela Judicial.
+
+A más tardar en agosto de cada año, la Escuela Judicial remitirá a la Comisión de Carrera Judicial, por medio de la Secretaría Ejecutiva de Carrera Judicial, el proyecto de Programación y Calendario Anual de Procesos de Selección del año inmediato posterior para su discusión y, en su caso, aprobación. Aprobado, la Comisión lo someterá a consideración del Pleno, a más tardar en noviembre de cada año.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+Artículo 35 Quinques. Programación de cumplimientos a los recursos de revisión administrativa. Tratándose de los cumplimientos a los recursos de revisión administrativa determinados fundados, por parte del Pleno, cuyo efecto sea la celebración o reposición extraordinaria de algunas de las etapas del concurso de oposición originario, la Escuela Judicial, en coordinación con la Secretaría Ejecutiva, propondrá al Pleno el mecanismo de acumulación de cumplimientos.
+
+### Capítulo III. Concursos de oposición no escolarizados
 
 ###### Artículo 36.
 
-Categorías a concursar en la modalidad no escolarizada. Los concursos de oposición para las siguientes categorías serán no escolarizados:
-
-I. Magistradas y Magistrados;
-
-II. Juezas y Jueces, y
-
-III. Oficiales judiciales.
-
-Los concursos de Juezas y Jueces también podrán ser escolarizados, cuando así se determine en la convocatoria correspondiente.
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)
 
 ###### Artículo 37.
 
@@ -575,29 +707,39 @@ Concursos de oposición no escolarizados para Magistradas y Magistrados. Los con
 
 Concursos de oposición no escolarizados para Juezas y Jueces. Los concursos de oposición en esta modalidad para la categoría de Jueza y Juez podrán ser abiertos o internos.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 39 Bis.
+
+Concursos de oposición no escolarizados para personal secretarial. Los concursos de oposición para la categoría secretarial de Tribunal y de Juzgado y sus categorías equivalentes, de conformidad con el artículo 8 del presente Acuerdo, podrán ser no escolarizados.
+
+Las evaluaciones que se apliquen en dichos procesos de selección garantizarán la selección de los perfiles idóneos para ocupar los cargos correspondientes, bajo un estándar similar al considerado en los concursos de oposición escolarizados.
+
+Las pruebas serán elaboradas, resguardadas y evaluadas por la Escuela Judicial y la lista de personas vencedoras será publicada en la página de internet de la Escuela Judicial.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 39 Ter.
+
+Concursos de oposición no escolarizados para personal actuarial. Los concursos para la categoría actuarial podrán ser no escolarizados.
+
+Las evaluaciones que se apliquen en dichos procesos de selección garantizarán la selección de los perfiles idóneos para ocupar los cargos correspondientes bajo un estándar similar al considerado en los concursos de oposición escolarizados.
+
+Las pruebas serán elaboradas, resguardadas y evaluadas por la Escuela Judicial y la lista de personas vencedoras será publicada en la página de internet de la Escuela Judicial.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 40.
 
-Concursos de oposición no escolarizados para Oficiales judiciales. Los concursos de oposición para la categoría de Oficiales judiciales serán abiertos, no escolarizados y únicamente consistirán en la aplicación del cuestionario al que se refiere la fracción I del artículo 37 del presente Acuerdo. El cuestionario será evaluado por la Escuela Judicial y la lista de vencedores será remitida a la Comisión para su conocimiento y deberá ser publicada en la página de internet de dicha Escuela Judicial.
+Concursos de oposición no escolarizados para Oficiales judiciales. Los concursos de oposición no escolarizados para la categoría de Oficial judicial serán abiertos y consistirán en la aplicación de un cuestionario en los términos previstos en la fracción I del artículo 37 del presente Acuerdo.
 
-### Capítulo V. Concursos de oposición especializados
+El cuestionario será elaborado, resguardado y evaluado por la Escuela Judicial y la lista de vencedores será publicada en la página de internet de dicha Escuela Judicial.
+
+### Capítulo IV. Concursos de oposición escolarizados
 
 ###### Artículo 41.
 
-Categorías a concursar en la modalidad escolarizada. Los concursos de oposición para las siguientes categorías serán escolarizados:
-
-I. Juezas y Jueces de Distrito;
-
-II. Secretarias y Secretarios de Tribunal y sus categorías equivalentes de conformidad con el artículo 8 del presente Acuerdo;
-
-III. Secretarias y Secretarios de Juzgado y sus categorías equivalentes de conformidad con el artículo 8 del presente Acuerdo, y
-
-IV. Actuarias y Actuarios.
-
-Los concursos de Juezas y Jueces también podrán ser no escolarizados, según se determine en la convocatoria correspondiente.
-
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
-
-La promoción a las categorías previstas en las fracciones II y III se podrá llevar a cabo a través de un mismo concurso de oposición escolarizado. Asimismo, el personal habilitado y que cumpla con los requisitos para desempeñarse en dichas categorías, podrá recibir nombramientos en la categoría prevista en la fracción IV.
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)
 
 ###### Artículo 42.
 
@@ -611,9 +753,19 @@ En los concursos escolarizados de Juezas o Jueces de Distrito el reglamento acad
 
 III. Evaluación final: para determinar a las personas vencedoras, al concluir el curso de formación las y los aspirantes deberán someterse al método de evaluación previsto en la convocatoria correspondiente. Esta evaluación final podrá consistir en cuestionarios o en las evaluaciones orales o escritas previstas en los artículos 32 y 33 del presente Acuerdo. La Escuela Judicial determinará las personas que resulten vencedoras y publicará la lista correspondiente en su página de internet, salvo el caso de las Juezas y los Jueces que se especifica en el artículo 44 del presente Acuerdo.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 42 Bis.
+
+Concursos de oposición escolarizados para Magistradas y Magistrados de Circuito. Los concursos de oposición de Magistradas y Magistrados de Circuito podrán ser escolarizados de acuerdo con la finalidad prevista para su realización y cuando el Pleno lo determine.
+
+La convocatoria correspondiente establecerá las etapas para su desarrollo y los criterios de desempate aplicables, en los cuales se privilegiará el empleo de acciones afirmativas.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 43.
 
-Convocatoria de los concursos de oposición escolarizados para Juezas y Jueces de Distrito. En los concursos de oposición escolarizados para Juezas o Jueces de Distrito, además de lo previsto en el artículo 20 del presente Acuerdo, las convocatorias deberán establecer el tipo de pruebas y los criterios de desempate pertinentes para los cuales se privilegiará el empleo de acciones afirmativas.
+Convocatoria de los concursos de oposición escolarizados para Juezas y Jueces de Distrito. En los concursos de oposición escolarizados para Juezas o Jueces de Distrito, además de lo previsto en el artículo 20 del presente Acuerdo, las convocatorias deberán establecer las etapas que lo integrarán y los criterios de desempate pertinentes, en los que se privilegiará la aplicación de acciones afirmativas.
 
 ###### Artículo 44.
 
@@ -623,13 +775,15 @@ I. Los cursos de formación para Juezas y Jueces serán de tiempo completo y sus
 
 II. El método de evaluación al terminar el curso de formación será aplicado por el Jurado, el cuál será el encargado de levantar un acta final y su presidenta o presidente declarará quiénes son las personas concursantes que hubieren resultado vencedoras. Posteriormente, la presidencia del Jurado informará de inmediato al Consejo para que realice los nombramientos respectivos y los publique en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 45.
 
-Concursos de oposición escolarizados para personas secretarias. Los concursos de oposición para personas secretarias de Tribunal de Circuito o de Pleno Regional, de Juzgado de Distrito, así como sus categorías equivalentes previstas en las fracciones IV, VII y VIII del artículo 8 del presente Acuerdo serán internos y escolarizados de conformidad con las etapas previstas en el artículo 42 del presente Acuerdo, salvo las siguientes especificaciones.
+Concursos de oposición escolarizados para personas secretarias. Los concursos de oposición para personas secretarias de Tribunal de Circuito o de Pleno Regional, de Juzgado de Distrito, así como sus categorías equivalentes previstas en las fracciones IV, VII y VIII del artículo 8 del presente Acuerdo serán internos y podrán ser escolarizados de conformidad con las etapas previstas en el artículo 42 del presente Acuerdo, salvo las siguientes especificaciones.
 
-Las personas admitidas al curso de formación tomarán clases en cualquiera de las siguientes modalidades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+Las personas admitidas al curso de formación podrán tomar clases en cualquiera de las siguientes modalidades, de acuerdo con la convocatoria emitida por la Escuela Judicial:
 
 I. Clases regulares impartidas a lo largo del curso por un profesor o profesora designada para un grupo en específico, las cuales podrán ser tomadas por las y los aspirantes de manera presencial en la Sede Central o en las extensiones regionales, a distancia o mediante un esquema híbrido.
 
@@ -645,19 +799,29 @@ En estos concursos no habrá Jurado ni Comité Técnico. Para su evaluación fin
 
 Las personas que hayan ocupado el cargo de actuario o actuaria u oficial judicial por designación realizada en términos de los últimos párrafos del artículo 57 del presente Acuerdo, serán admitidas directamente al curso de formación, sin necesidad de realizar el examen de admisión. Lo mismo operará para las personas que hayan ocupado dichos cargos en función de lo indicado en el último párrafo del artículo 58 de este Acuerdo.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 46.
 
-Convocatoria de los concursos de oposición escolarizados para personas secretarias. Cuando se lleven a cabo concursos de oposición escolarizados para personas secretarias de conformidad con el último párrafo del artículo 41 del presente Acuerdo, la convocatoria señalará que bastará con que las y los aspirantes reúnan los requisitos previstos en el artículo 14 de la Ley.
+Convocatoria de los concursos de oposición escolarizados para personas secretarias. Cuando se lleven a cabo concursos de oposición escolarizados para personas secretarias de conformidad con el último párrafo del artículo 35 Bis del presente Acuerdo, la convocatoria señalará que bastará con que las y los aspirantes reúnan los requisitos previstos en el artículo 14 de la Ley.
+
+La Escuela Judicial podrá requerir que, durante el curso, las personas aspirantes aprueben los programas académicos que determine la convocatoria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 47.
 
-Concursos de oposición escolarizados para Actuarias y Actuarios. Los concursos de oposición para la categoría de Actuarias y Actuarios serán escolarizados e internos, y se llevarán a cabo bajo las reglas establecidas en el artículo 45 del presente Acuerdo, salvo que los cursos de formación podrán ser impartidos mediante un esquema virtual de sesiones a distancia con apoyo de material escrito o de forma presencial, según se establezca en la convocatoria respectiva.
+Concursos de oposición escolarizados para Actuarias y Actuarios. Los concursos de oposición para la categoría de personal actuarial serán internos y podrán ser escolarizados de conformidad con las reglas establecidas en el presente Acuerdo, salvo que los cursos de formación podrán ser impartidos mediante un esquema virtual de sesiones a distancia con apoyo de material escrito o de forma presencial, según se establezca en la convocatoria respectiva.
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
 
 Las personas que hayan ocupado el cargo de oficial judicial por designación realizada en términos de los últimos párrafos del artículo 57 del presente Acuerdo, serán admitidas directamente al curso de formación, sin necesidad de realizar el examen de admisión. Lo mismo operará para las personas que hayan ocupado dicho cargo en función de lo indicado en el último párrafo del artículo 58 de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 47 Bis.
+
+Concursos de oposición escolarizados para oficiales judiciales. Los concursos de oposición escolarizados para la categoría de oficial judicial serán abiertos y se llevarán a cabo de conformidad con las reglas para los cursos de formación establecidas en el presente Acuerdo, salvo que podrán impartirse mediante el esquema virtual de sesiones a distancia con apoyo de material escrito o de forma presencial, según se establezca en la convocatoria respectiva.
 
 ###### Artículo 48.
 
@@ -735,21 +899,21 @@ Tratándose de concursos escolarizados de Juezas y Jueces de Distrito, el Direct
 
 Impugnación de resultados de los concursos escolarizados de Secretarías, Actuarías y de las resoluciones de imposición de sanciones. Contra los resultados de los concursos de oposición escolarizados previstos en los artículos 45 y 47 del presente Acuerdo, así como contra la resolución de la imposición de alguna de las sanciones establecidas en el artículo anterior, procederá el sistema de impugnación establecido en los reglamentos que para cada concurso emita la Escuela Judicial.
 
-### Capítulo VI. Concursos del Instituto Federal de Defensoría Pública
+### Capítulo V. Concursos de oposición especializados
 
 ###### Artículo 51.
 
 Concursos de oposición especializados. Los concursos de oposición para el personal jurisdiccional de los órganos especializados del Poder Judicial de la Federación, incluidos las y los Titulares de dichos órganos, se llevarán a cabo de conformidad con las reglas generales establecidas en el presente Acuerdo. Las modalidades de los concursos especializados se determinarán en la convocatoria respectiva.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 52.
 
-Requisitos adicionales. Con el fin de garantizar la especialización de los órganos, además de los requisitos establecidos en la Ley y en el presente Acuerdo, en la convocatoria respectiva se podrá añadir como requisito la experiencia laboral en la materia o haber participado en determinados cursos de la Escuela Judicial.
+Requisitos adicionales. Con el fin de garantizar la especialización de los órganos, además de los requisitos establecidos en la Ley y en el presente Acuerdo, en la convocatoria respectiva se podrá añadir como requisito la experiencia laboral en la materia o haber aprobado los cursos determinados por la Escuela Judicial.
 
-Las personas que resulten vencedoras en estos concursos serán integradas a una lista nacional especializadas de promoción en la Carrera Judicial. En cuanto a las personas vencedoras para las categorías de Titulares en órganos especializados, sus nombramientos obedecerán las reglas establecidas para el nombramiento de las y los Titulares del resto de los órganos jurisdiccionales del Poder Judicial de la Federación.
+Las personas que resulten vencedoras en estos concursos serán integradas a listas especializadas de promoción en la Carrera Judicial. En cuanto a las personas vencedoras para las categorías de Titulares en órganos especializados, sus nombramientos obedecerán las reglas establecidas para el nombramiento de las y los Titulares del resto de los órganos jurisdiccionales del Consejo.
 
-### Capítulo VII. Listas de acceso y promoción en la Carrera Judicial
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
+### Capítulo VI. Concursos del Instituto Federal de Defensoría Pública
 
 ###### Artículo 53.
 
@@ -781,121 +945,117 @@ Los nombres de las personas vencedoras de los concursos serán dados de baja de 
 
 Promoción en el servicio civil de carrera. La Defensoría Pública podrá solicitar a la Escuela Judicial la celebración de concursos de oposición para el ascenso en las categorías del servicio civil de carrera del mismo, los cuales se llevarán a cabo bajo los parámetros a que refiere el artículo 54 del presente Acuerdo.
 
-### Capítulo VIII. Secretarias y Secretarios Proyectistas de Juzgado y de Tribunal
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+### Capítulo VII. Listas de Acceso y Promoción en la Carrera Judicial
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 57.
 
-Facultad de nombramiento del personal. Con excepción de lo dispuesto en el Capítulo VIII siguiente, en relación con las personas Secretarias Proyectistas, para cumplir con lo previsto en el párrafo cuarto del artículo 97 de la Constitución, las y los Titulares cubrirán las vacantes de personal jurisdiccional a su cargo de entre quienes figuren en el diez por ciento superior de las listas de personas vencedoras a que se refiere el presente Capítulo, para lo cual las y los Titulares deberán garantizar la integración paritaria del órgano jurisdiccional en cada categoría.
+Facultad de nombramiento del personal integrado en el Sistema de Listas. Con excepción de lo dispuesto en el Capítulo VIII del presente Acuerdo, en relación con las personas Secretarias Proyectistas, las personas Titulares cubrirán las vacantes de personal jurisdiccional a su cargo con las personas que integren el Sistema de Listas de Acceso y Promoción en la Carrera Judicial previsto en el presente capítulo, garantizando la integración paritaria del órgano jurisdiccional, en caso de órgano colegiado por ponencia, en cada categoría.
 
-Los y las Titulares podrán cubrir sus vacantes a través del régimen de movilidad descrito en el artículo 64.
+El Sistema de Listas de Acceso y Promoción en la Carrera Judicial se integrará de una Lista General y de ésta se elaborarán Listas por Circuito, replicándose este mismo esquema para las materias especializadas.
 
-Para la categoría de Secretaria o Secretario de Tribunal de Circuito, de Pleno Regional o de Juzgado de Distrito, las y los Titulares podrán nombrar a personas que se hayan desempeñado al menos por 3 años como Secretarias o Secretarios de Estudio y Cuenta o Secretarias o Secretarios de Estudio y Cuenta Adjuntos de Ministra o Ministro de la Suprema Corte sin que tengan que estar en las listas a las que refiere el primer párrafo, de este artículo.
-
-Las y los Titulares deberán nombrar a las personas que cubrirán las vacantes dentro de un plazo de 30 días naturales a partir de que se generen, notificando de ello a Recursos Humanos mediante el sistema electrónico creado para esos efectos, en un plazo no mayor a tres días hábiles a partir de que se realice el nombramiento. En caso de que las y los Titulares no llegaren a nombrar a las personas que cubrirán la vacante, salvo que exista causa justificada, la Comisión de Administración hará la designación respectiva en estricto apego al orden establecido en las listas referidas, respetando la integración paritaria del órgano y de ser posible, tomando en consideración las ciudades o circuitos de preferencia indicados por las personas vencedoras.
-
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
-
-Cuando en las listas no existan personas que hayan seleccionado la ciudad o circuito en el que se encuentren las vacantes, la Comisión de Administración tendrá la facultad de nombrar a las personas que figuren en las listas, procurando que sean las que hayan elegido ciudades o circuitos más próximos geográficamente a donde se encuentra la vacante.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 58.
 
-Elección de circuito y ciudad de preferencia de las personas vencedoras en concursos con acceso al sistema de listas. Para la inclusión de su nombre a las listas a las que refiere el presente Capítulo, las personas vencedoras de los concursos de oposición deberán indicar el circuito y la ciudad de su preferencia para ser adscritas.
+Integración de la Lista General de Acceso y Promoción en la Carrera Judicial. La Escuela Judicial, en coordinación con las Direcciones Generales de Recursos Humanos y Tecnologías de la Información, estarán a cargo de la elaboración y actualización del Sistema de Listas a que hace referencia el artículo anterior.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
+La Escuela Judicial elaborará una Lista General de Acceso y Promoción en la Carrera Judicial, en la que se integrarán las personas vencedoras de los concursos de oposición escolarizados y no escolarizados, aplicados en las diferentes categorías de la Carrera Judicial en toda la República.
 
-La elección de un circuito y ciudad que la Escuela Judicial haya determinado con bajo número de personas habilitadas y la designación en el cargo correspondiente en dicha residencia, se considerará como factor general de evaluación y, de ser el caso, se les exentará de presentar el examen de admisión a los concursos de oposición escolarizados para las categorías de actuaría y secretaría.
+Las personas vencedoras integrarán la Lista General en orden decreciente a partir de la calificación más alta obtenida en el concurso, destacándose quienes integren el diez por ciento superior.
 
-###### Artículo 59.
-
-Listas de las personas vencedoras de los concursos de oposición no escolarizados. Las personas que resulten vencedoras en los concursos de oposición no escolarizados serán integradas a las listas por circuito a que refiere el artículo 29 de la Ley. La Escuela Judicial integrará las referidas listas en orden decreciente a partir de la calificación más alta obtenida en el concurso y las publicará en su página web.
-
-Para la integración de las mencionadas listas, los criterios de desempate serán los siguientes:
+En caso de empate, se aplicarán los siguientes criterios, atendiendo a su prelación:
 
 I. Acción afirmativa de género;
 
-II. Acción afirmativa de discapacidad, y
+II. Acción afirmativa de discapacidad; y
 
-III. La antigüedad en el Poder Judicial de la Federación o la experiencia profesional.
+III. Antigüedad en el Poder Judicial de la Federación o experiencia profesional.
 
-La Escuela Judicial deberá mantener actualizadas las listas y sólo se podrá emitir una nueva lista hasta que todas las personas vencedoras hayan sido designadas en la categoría correspondiente. No obstante, la Escuela Judicial podrá realizar concursos para integrar listas de reserva con la finalidad de que una vez que se agote la lista, pueda sustituirse inmediatamente con la lista de reserva. Lo anterior con el objetivo de prevenir la paralización de la función jurisdiccional ante la eventual falta de personas vencedoras habilitadas para ocupar cargos.
+Cada que se integren personas vencedoras a la Lista General, la Escuela Judicial las designará en las Listas por Circuito en la categoría para la cual concursaron.
 
-La Comisión tendrá la facultad para, en caso de situaciones extraordinarias o no contempladas en el presente Acuerdo, conformar las listas, modificarlas o emitir nuevas. Lo anterior, garantizando en todo momento los derechos de las personas vencedoras.
+No se podrán realizar nuevos concursos de promoción hasta en tanto todas las personas vencedoras que integran la Lista General hayan sido designadas en las Listas por Circuito en la categoría para la cual concursaron.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
+###### Artículo 59.
+
+Manifestación de preferencia de circuito, ciudad y materia de las personas vencedoras en concursos. Para ser incluidas en las Listas por Circuito, las personas vencedoras en los concursos de oposición indicarán el circuito, ciudad y materia de su preferencia.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 60.
 
-Listas de personas vencedoras de los concursos de oposición escolarizados. Las personas vencedoras en los concursos de oposición escolarizados serán integradas a una única lista nacional, por categoría, elaborada por la Escuela Judicial en orden decreciente a partir de los siguientes criterios:
+Listas por Circuito de Acceso y Promoción en la Carrera Judicial. La Escuela Judicial, de acuerdo con las manifestaciones de las personas vencedoras respecto del circuito, ciudad y materia de su preferencia, elaborará anualmente Listas por Circuito, de Acceso y Promoción.
 
-I. Fecha en la que presentó el examen final del concurso escolarizado;
+Las Listas por Circuito se integrarán con los nombres de las personas de la Lista General, prevista en el artículo 58 de este Acuerdo, ordenadas de mayor a menor calificación.
 
-II. Calificación final obtenida en el concurso;
+Las personas vencedoras que integren el diez por ciento superior de la Lista General prevista en el artículo 58 de este Acuerdo, serán designadas en los primeros lugares de las Listas por Circuito en cada categoría para la cual concursaron, de acuerdo con la manifestación que realizaron sobre su preferencia por ciudad y materia.
 
-III. Acción afirmativa de género;
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
-IV. Acción afirmativa de discapacidad, y
+###### Artículo 60 Bis.
 
-V. La antigüedad en el Poder Judicial de la Federación o la experiencia profesional.
+Criterios para otorgar nombramientos a personas que integran el Sistema de Listas. Las personas titulares cubrirán las vacantes de personal jurisdiccional a su cargo con las personas que integren cualquiera de las Listas por Circuito, en los cinco años anteriores a la anualidad en la que se emita el nombramiento, así como las correspondientes al año en que se emita.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
-
-Las personas que resulten vencedoras en los concursos de oposición a que refiere el último párrafo del artículo 41 del presente Acuerdo, se integrarán a una sola lista nacional.
-
-Las listas a que refiere este artículo deberán ser publicadas en la página web de la Escuela Judicial y podrán realizarse nuevos concursos, aunque no se hubieran agotado las listas.
-
-> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 61.
 
-Listas de personas vencedoras de los concursos de oposición para órganos especializados. Si la convocatoria del concurso se emitió para ocupar una categoría de un órgano jurisdiccional especializado, se integrarán listas nacionales con las personas vencedoras específicas para cada categoría de Carrera Judicial y materia de especialización. Los cargos que se generen en los órganos especializados deberán cubrirse con las listas a que hace referencia este artículo y no podrán designarse personas de las listas generales, sino hasta que se agoten las listas especializadas.
+Listas de Acceso y Promoción en la Carrera Judicial en Materias Especializadas. Si la convocatoria del concurso se emitió para ocupar una categoría de un órgano jurisdiccional especializado, se integrará una Lista General y Listas por Circuito, que funcionarán en los términos establecidos en los artículos 57 a 60 Bis del presente Acuerdo.
+
+Los cargos que se generen en los órganos especializados deberán cubrirse con cualquiera de las personas que, en los cinco años anteriores a la anualidad en la que se emita el nombramiento, así como las correspondientes al año en que se emita, integren las Listas por Circuito Especializadas a que hace referencia este artículo.
+
+Las Listas de Acceso y Promoción en la Carrera Judicial en Materias Especializadas se regirán conforme al presente capítulo y en términos de lo previsto en las convocatorias que para cada concurso apruebe la Comisión de Carrera.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 62.
 
-Baja de las listas. Los nombres de las personas vencedoras de los concursos serán dados de baja de las listas correspondientes cuando:
+Vigencia de las Listas por Circuito de Acceso y Promoción en la Carrera Judicial. Las Listas por Circuito, previstas en el presente capítulo, tendrán vigencia de cinco años.
 
-I. Reciban un nombramiento definitivo;
+Las personas titulares podrán cubrir las vacantes de personal jurisdiccional a su cargo con las personas vencedoras que integren las Listas por Circuito de los cinco años anteriores a la anualidad en la que se emita el nombramiento, así como las correspondientes al año en que se emita.
 
-II. Hubieran pasado más de tres años desde que resultaron vencedoras del concurso y no hayan recibido nombramiento definitivo alguno;
+Los vencedores que integren las Listas por Circuito en las categorías secretariales y actuariales con una antigüedad mayor a cinco años, o que estén por cumplirlos, podrán solicitar a la Escuela Judicial presentar, junto con los sustentantes de la generación en que se realice la solicitud, el examen final del concurso escolarizado que para esa categoría se aplique. De resultar vencedores, se incorporarán a la lista de acceso y promoción de ese ciclo escolar, atendiendo a los criterios de orden establecidos en el artículo 58 del presente Acuerdo.
 
-III. Salvo que se trate de Oficiales Judiciales, hubieran rechazado tres veces una plaza en el circuito que indicaron que era de su preferencia, o
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
-IV. Hubieran rechazado en una ocasión una plaza en la ciudad que indicaron que era de su preferencia, salvo que exista una causa justificada expresada por escrito y valorada favorablemente por la Escuela Judicial.
+### Capítulo VII Bis
 
-En caso de que una persona obtenga un nombramiento, pero sea dada de baja de la plaza para la que fue nombrada antes de obtener la base, reingresará a las listas siempre que no hubieran transcurrido más de tres años desde que resultó vencedora del concurso correspondiente, sin que el nombramiento temporal amplíe el período original. En este supuesto, la persona reingresará a la lista en el orden que se encontraba originalmente. En cambio, a las personas que fueran dadas de baja ya teniendo base les será aplicable el artículo 64 del presente Acuerdo.
+Régimen de movilidad del personal de Carrera Judicial.
 
-### Capítulo I. Inatacabilidad de las decisiones y medios de impugnación para los concursos escolarizados
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 63.
 
-Vacantes temporales. En la lista de personas vencedoras o en una lista independiente se precisarán los nombres de las personas que deseen cubrir vacantes temporales. Las personas designadas en estas vacantes causarán baja temporal de la lista correspondiente durante el periodo del nombramiento. Las personas que ocuparon vacantes temporales serán reincorporadas a la lista para vacantes temporales una vez concluido su cargo en la plaza temporal.
+Facultad de nombramiento del personal incorporado al régimen de movilidad. Las personas Titulares podrán cubrir sus vacantes a través del régimen de movilidad descrito en el presente capítulo.
 
-En el supuesto de que la plaza temporal se vuelva definitiva, quien se encuentre ocupando el cargo podrá obtener la base, siempre que cumpla con los seis meses de antigüedad en dicho cargo y que no exista otra persona con mejor derecho, conforme lo establecido en el presente Acuerdo, ocasionando la eliminación del nombre de dicha persona de la lista.
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 64.
 
-Régimen de movilidad de funcionarios y funcionarias de Carrera Judicial. La persona que concluya su nombramiento de base o de 6 meses continuos en cualquier categoría de la Carrera Judicial tendrá un plazo ininterrumpido de 18 meses, a partir de que se generó su baja del cargo, para ocupar una plaza en la misma categoría en otro órgano jurisdiccional sin necesidad de volver a ingresar al sistema de listas, siempre y cuando la baja no derive de una sanción por cese o responsabilidad administrativa o de cualquier otro tipo. De obtener un nuevo nombramiento de base y volver a causar baja, volverá a contar de nuevo el plazo de 18 meses para ocupar una plaza en la misma categoría en otro órgano jurisdiccional.
+Régimen de movilidad del personal de Carrera Judicial. La persona que concluya su nombramiento de base o de seis meses continuos en cualquier categoría de la Carrera Judicial tendrá un plazo ininterrumpido de dieciocho meses, a partir de que se generó su baja del cargo, para ocupar una plaza en la misma categoría en otro órgano jurisdiccional sin necesidad de volver a ingresar al sistema de listas, siempre y cuando la baja no derive de una sanción por cese o responsabilidad administrativa grave. De obtener un nuevo nombramiento de base y volver a causar baja, volverá a contar de nuevo el plazo de dieciocho meses para ocupar una plaza en la misma categoría en otro órgano jurisdiccional.
 
-El citado régimen de movilidad permitirá a las personas que hayan concluido su nombramiento de 6 meses continuos en alguno de los cargos señalados en las fracciones III, IV, VI, VII y VIII del artículo 8 de este Acuerdo ocupar cualquiera de dichas categorías, indistintamente, de conformidad con las reglas del párrafo anterior.
+El citado régimen de movilidad permitirá a las personas que hayan concluido su nombramiento de seis meses continuos en alguno de los cargos señalados en las fracciones III, IV, VI y VII del artículo 8 de este Acuerdo ocupar cualquiera de dichas categorías, indistintamente, de conformidad con las reglas del párrafo anterior.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
-
-De igual forma, permitirá a las personas que hayan tenido cargos en el Consejo de la Judicatura Federal con funciones materialmente jurisdiccionales ocupar cualquiera de las categorías referidas en el párrafo anterior, siempre que además cumplan con los requisitos previstos en la normativa aplicable para ocupar el cargo correspondiente.
-
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
+De igual forma, este régimen permitirá a las personas que hayan tenido cargos en el Consejo de la Judicatura Federal con funciones materialmente jurisdiccionales, así como a aquellas personas que se hayan desempeñado por un año y medio en los cargos de Secretario de Estudio y Cuenta, Secretario de Estudio y Cuenta de Ponencia, Secretario de Estudio y Cuenta Coordinador, Secretario de Estudio y Cuenta Coordinador de Ponencia, Secretario de Estudio y Cuenta Adjunto, Secretario Auxiliar de Ponencia, Secretario General de la Presidencia, Secretario General de Acuerdos, Subsecretario General de Acuerdos, Subsecretario General de Acuerdos de Sala, Secretario de Acuerdos de Sala, Secretario Auxiliar de Acuerdos, Coordinador General de Asesores de la Presidencia, Secretario de la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad de la Suprema Corte; así como, Secretario Instructor, Secretario de Estudio y Cuenta de la Sala Superior, Secretario General de Acuerdos, Secretario de Acuerdos de Sala Regional, Secretario de Estudio y Cuenta Regional Coordinador, Secretario de Estudio y Cuenta Regional, Coordinador General de la Oficina de Presidencia, del Tribunal Electoral del Poder Judicial de la Federación, ocupar cualquiera de las categorías referidas en el párrafo anterior, siempre que además cumplan con los requisitos previstos en la normativa aplicable para ocupar el cargo correspondiente.
 
 Se entiende que realizaron funciones materialmente jurisdiccionales quienes hayan ocupado algún cargo de rango 11 o superior, de conformidad con el Manual General de Puestos del Consejo de la Judicatura Federal, en los órganos auxiliares, comisiones o unidades administrativas del Consejo.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
-
 Las personas que hayan ocupado cargos de mandos medios u homólogos a mandos medios que se encuentren entre el rango 21 y 12, de conformidad con el Manual General de Puestos del Consejo de la Judicatura Federal, deberán acreditar que realizaban labores materialmente jurisdiccionales. Para ello, bastará con la certificación que para tal efecto emita la persona titular correspondiente.
 
-Transcurrido el periodo de 18 meses sin que la persona logre volver a adscribirse a algún órgano jurisdiccional, únicamente podrá ingresar a las listas correspondientes en caso de resultar vencedora en un nuevo concurso de oposición.
+Transcurrido el periodo de dieciocho meses sin que la persona logre volver a adscribirse a algún órgano jurisdiccional, únicamente podrá ingresar a las listas correspondientes en caso de resultar vencedora en un nuevo concurso de oposición.
 
-En caso de que una persona decida cambiar de adscripción perderá su base, a menos que haya solicitado una licencia, si la tuviera y necesitará permanecer seis meses en su nuevo cargo para volver a adquirirla. Las personas que no tuvieran base, perderán el tiempo de antigüedad que hubieran adquirido en la plaza anterior y para adquirir la base necesitarán estar seis meses en el nuevo cargo.
+El régimen de movilidad dispuesto en el presente artículo es aplicable a las personas servidoras públicas que concluyan su nombramiento de base o de seis meses continuos adscritas a un Tribunal Laboral Federal, incluyendo los previstos en la fracción VIII del artículo 8 de este Acuerdo.
 
-Lo previsto en el presente artículo es aplicable a todas las categorías de Carrera Judicial, con excepción de lo dispuesto en el Capítulo VIII siguiente, en relación con las personas Secretarias Proyectistas. Lo previsto en este artículo tampoco será aplicable para las personas servidoras públicas que, adscritas a un Tribunal Laboral Federal, cambien de adscripción a otro órgano jurisdiccional de la misma materia.
+Para el supuesto previsto en el párrafo anterior, los dieciocho meses a los que hace referencia este artículo serán para ocupar una plaza en la misma categoría en otro órgano jurisdiccional, exclusivamente de la misma especialidad, por lo que no se interrumpirá este plazo con nombramientos otorgados en órganos jurisdiccionales de diversa materia.
 
-### Capítulo II. Revisión Administrativa ante el Pleno de la Suprema Corte de Justicia de la Nación
+Lo previsto en el presente artículo es aplicable a todas las categorías de Carrera Judicial, con excepción de lo dispuesto en el Capítulo VIII siguiente, en relación con las personas Secretarias Proyectistas.
+
+### Capítulo VIII. Secretarias y Secretarios Proyectistas de Juzgado y de Tribunal
 
 ###### Artículo 65.
 
@@ -913,23 +1073,37 @@ El nombramiento como Secretaria o Secretario Proyectista no causará la inclusi�
 
 Las Secretarias o Secretarios de Tribunal o Juzgado con autorización vigente, podrán ocupar el cargo de Secretaria o Secretario Proyectista, sin que tengan que aprobar el cuestionario.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 66.
 
-Oportunidades de las Secretarias y Secretarios Proyectistas para aprobar el cuestionario. Cuando las Secretarias y Secretarios Proyectistas no aprueben el cuestionario referido en el artículo anterior, no podrán ser contratados hasta que pasen 6 meses en el órgano jurisdiccional para el cual lo presentaron. No obstante, las Secretarias y Secretarios Proyectistas podrán volver a presentar el mencionado cuestionario para ser contratados en otro órgano jurisdiccional, conforme los periodos establecidos para tal efecto por la Escuela Judicial. En caso de que la Secretaria o Secretario Proyectista vuelva a reprobar el mencionado cuestionario, éstos no podrán ser designadas o designados en esa categoría por un periodo de un año en ningún Órgano Jurisdiccional.
+Oportunidades de las personas Secretarias Proyectistas para aprobar el cuestionario. Recibido el nombramiento, la persona Secretaria Proyectista tendrá tres meses para acreditar el cuestionario referido en el artículo anterior, pudiendo presentar más de un cuestionario en este plazo, siempre y cuando se emitan las convocatorias correspondientes.
+
+La obligación de acreditar el cuestionario surge con el nombramiento de persona Secretaria Proyectista, con independencia de la duración del nombramiento.
+
+Dentro de los quince días hábiles posteriores a la aplicación del cuestionario, la Escuela Judicial publicará en su página de internet la lista de personas que lo acreditaron.
+
+En caso de que hayan transcurrido tres meses posteriores a su nombramiento y la persona Secretaria Proyectista no haya aprobado el cuestionario, no podrá ser contratada en esa categoría en los próximos tres meses, salvo que obtenga la certificación secretarial de Tribunal o Juzgado.
+
+La Escuela Judicial informará a Recursos Humanos las personas que no aprobaron el cuestionario dentro de los tres meses posteriores a su nombramiento. Hecho lo anterior, Recursos Humanos hará de conocimiento al órgano jurisdiccional en que se encuentra adscrita la persona Secretaria Proyectista y dará de baja su nombramiento.
+
+En caso de que, por causas atribuibles a la Escuela Judicial, sea imposible la presentación del cuestionario dentro los tres meses posteriores a su nombramiento, la persona Secretaria Proyectista podrá permanecer en el cargo hasta que se aplique el cuestionario y se publiquen los resultados.
 
 ###### Artículo 67.
 
 Remoción de Secretarias y Secretarios Proyectistas. Al ser un puesto de confianza, las y los Titulares tendrán la facultad de remover libremente a las Secretarias y Secretarios Proyectistas a su cargo.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 68.
 
-Régimen de movilidad de Secretarias y Secretarios Proyectistas. Al concluir el nombramiento, la persona Secretaria Proyectista contará con un periodo máximo de seis meses para lograr de nuevo su adscripción en otro órgano jurisdiccional sin necesidad de volver a acreditar el cuestionario referido en el artículo 65 del presente Acuerdo. En caso de que dicha persona sea designada nuevamente en la categoría de Secretaria o Secretario Proyectista después de dicho plazo, ésta deberá volver a presentar y acreditar el citado cuestionario.
+Régimen de movilidad de personas Secretarias Proyectistas. Al concluir el nombramiento, la persona Secretaria Proyectista contará con un periodo máximo de dieciocho meses para lograr de nuevo su adscripción en otro órgano jurisdiccional sin necesidad de volver a acreditar el cuestionario referido en el artículo 65 del presente Acuerdo. En caso de que dicha persona sea designada nuevamente en la categoría de persona Secretaria Proyectista después de dicho plazo, ésta deberá volver a presentar y acreditar el citado cuestionario.
 
-Asimismo, no tendrá que presentar dicho examen si, siendo Secretaria o Secretario Proyectista, es adscrita o adscrito de nuevo a otro órgano jurisdiccional como Secretario o Secretaria Proyectista.
+Asimismo, no tendrá que presentar dicho examen si, siendo persona Secretaria Proyectista, es adscrita o adscrito de nuevo a otro órgano jurisdiccional como Secretario o Secretaria Proyectista.
 
 ## TÍTULO TERCERO. Medios de impugnación
 
-### Capítulo III. Revisión Administrativa ante el Pleno del Consejo de la Judicatura Federal
+### Capítulo I. Inatacabilidad de las decisiones y medios de impugnación para los concursos escolarizados
 
 ###### Artículo 69.
 
@@ -943,15 +1117,13 @@ Medios de impugnación para los concursos escolarizados. Contra los resultados d
 
 No obstante, contra los resultados del examen de admisión a los concursos escolarizados para la categoría de Juezas y Jueces de Distrito, así como contra la lista de personas vencedoras de los mismos procederá el recurso de revisión administrativa ante el Pleno, cuyo procedimiento se establece en el Capítulo III del presente Título. Por su parte, contra la imposición de sanciones de la Escuela Judicial durante el curso de formación de los concursos escolarizados para la categoría de Juezas y Jueces de Distrito procederá el sistema de impugnación en los reglamentos que para cada concurso emita la Escuela Judicial, los cuales deberán ser aprobados por la Comisión.
 
-### Capítulo IV. Recurso de inconformidad administrativa ante la Comisión
+### Capítulo II. Revisión Administrativa ante el Pleno de la Suprema Corte de Justicia de la Nación
 
 ###### Artículo 71.
 
 Recurso de Revisión Administrativa ante el Pleno de la Suprema Corte de Justicia de la Nación. Las decisiones dictadas por el Consejo que se refieran a la adscripción, ratificación, remoción e inhabilitación de Magistradas o Magistrados y Juezas o Jueces de Distrito podrán impugnarse ante el Pleno de la Suprema Corte mediante el recurso de revisión administrativa. Dicho recurso se regirá por los artículos correspondientes de la Ley y los Acuerdos de la Suprema Corte respectivos.
 
-### Capítulo V. Solicitud de revisión ante la Escuela Judicial
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
+### Capítulo III. Revisión Administrativa ante el Pleno del Consejo de la Judicatura Federal
 
 ###### Artículo 72.
 
@@ -1029,7 +1201,7 @@ No obstante, la declaración de nulidad anterior no tendrá efectos sobre las ac
 
 Supletoriedad. A falta de disposición expresa, para la substanciación del recurso de revisión administrativa será aplicable el Código Federal de Procedimientos Civiles.
 
-### Capítulo I. Objetivos generales
+### Capítulo IV. Recurso de inconformidad administrativa ante la Comisión
 
 ###### Artículo 80.
 
@@ -1039,51 +1211,53 @@ La inconformidad administrativa se presentará ante la Secretaría Ejecutiva, qu
 
 La Consejera o el Consejero Presidente de la Comisión turnará el asunto a la Consejera o Consejero integrante de la Comisión que por turno corresponda, para la elaboración del proyecto de resolución. A partir de la admisión del recurso, la o el Consejero ponente contará con 60 días hábiles para la elaboración del proyecto correspondiente. Por último, el proyecto de resolución del recurso de inconformidad administrativa deberá ser aprobado por el Pleno.
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
-### Capítulo II. Planeación académica
+### Capítulo V. Solicitud de recurso de reconsideración ante la Escuela Judicial
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 81.
 
-Procedencia. Contra la calificación obtenida en la evaluación aplicada en los concursos de oposición no escolarizados para Oficiales judiciales a que refiere (sic) artículo 40 del presente Acuerdo, es procedente la solicitud de revisión ante la Escuela Judicial.
+Recurso de Reconsideración ante la Escuela Judicial. Contra las listas de personas vencedoras en los concursos de oposición que organice la Escuela Judicial distintos a los concursos de designación de las y los titulares, procede el recurso de reconsideración ante la Escuela Judicial que se tramitará en los términos siguientes.
 
-Para tal efecto, la Escuela Judicial dará a conocer los resultados de la evaluación a través del sistema electrónico que implemente o por los medios que se determinen en la lista en la que se declaren las personas vencedoras del concurso.
+El recurso deberá interponerse contra la lista de personas vencedoras y en él podrán hacerse valer todas las violaciones que se estime ocurrieron en el proceso de selección, a partir de la admisión al concurso y hasta la publicación de la lista de vencedores referida anteriormente, siempre y cuando hubieren trascendido al resultado obtenido por la o el promovente. No procederá el recurso contra la determinación de inadmisibilidad.
 
-La solicitud tendrá por objeto pedir la revisión de la calificación obtenida, sólo en función de la posible existencia de algún error aritmético o cuantitativo en la determinación de ésta.
+El recurso deberá interponerse dentro de los tres días hábiles siguientes a la publicación de la lista referida y tendrán legitimación para interponerlo las personas sustentantes que no hubieren resultado vencedoras.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
+El recurso deberá interponerse mediante escrito firmado, autógrafa o electrónicamente, dirigido a la Escuela Federal de Formación Judicial, y presentarse a través del medio que determine la convocatoria. Todo recurso que se interponga por cualquier otro medio se tendrá como no presentado.
+
+En su escrito inicial, la persona sustentante deberá señalar una dirección de correo electrónico para recibir notificaciones relacionadas con el recurso.
+
+A partir de que sea notificado del auto admisorio del recurso con sus anexos, la o el promovente podrá ampliar sus agravios por única ocasión, dentro de un plazo de tres días hábiles. El escrito de ampliación se regirá por las mismas formalidades que el inicial.
+
+Los medios de prueba deberán estar directamente relacionados con el resultado contenido en las listas de personas acreditadas.
+
+La Escuela Judicial resolverá el recurso de reconsideración, con base en el principio de economía procesal y podrá dictar las medidas necesarias para reparar las violaciones determinadas. Las resoluciones de la Escuela Judicial serán definitivas e inatacables y no producirán efectos respecto de quienes no acudieron al medio de impugnación.
 
 ###### Artículo 82.
 
-Legitimación. Tendrán legitimación para solicitar la revisión las personas participantes que presentaron la evaluación correspondiente.
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)
 
 ###### Artículo 83.
 
-Plazo. La solicitud deberá presentarse dentro de los 5 días hábiles siguientes al conocimiento de los resultados.
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)
 
 ###### Artículo 84.
 
-Presentación. La solicitud podrá presentarse mediante escrito dirigido al Director o Directora de la Escuela Judicial, ante la Oficialía de Partes de la Escuela Judicial, a través del correo electrónico o del sistema electrónico que para tal efecto designe la Escuela Judicial, según se determine en la lista de personas vencedoras. De ser el caso, en su escrito, la parte promovente deberá proporcionar una dirección de correo electrónico para recibir notificaciones.
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)
 
 ###### Artículo 85.
 
-Desechamiento de la solicitud. Cualquier solicitud de revisión presentada por algún medio distinto al señalado en la lista de personas vencedoras o fuera del plazo indicado en el artículo 83, se tendrá por no realizada, en contra de tal determinación no procederá recurso alguno.
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)
 
 ###### Artículo 86.
 
-Resolución. La solicitud de revisión será resuelta por la Dirección General de la Escuela Judicial y se podrá tener por efecto la determinación de la existencia de algún error aritmético o cuantitativo en la calificación obtenida y su corrección. Contra la revisión no procederá recurso alguno.
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)
 
 ## TÍTULO CUARTO. Capacitación
 
-### Capítulo III. Ejecución
+### Capítulo I. Objetivos generales
 
 ###### Artículo 87.
 
@@ -1133,7 +1307,7 @@ III. En el caso de personas titulares de órganos jurisdiccionales, la acreditac
 
 Capacitación de Protección Civil y Seguridad. Además de la capacitación administrativa que la Escuela Judicial brinde, la Dirección General de Protección Civil y Salud en el Trabajo, así como la Coordinación de Seguridad del Poder Judicial de la Federación podrán brindar capacitación, con presupuesto propio, en materias de protección civil y seguridad, respectivamente.
 
-### Capítulo IV. Infracciones y sanciones académicas
+### Capítulo II. Planeación académica
 
 ###### Artículo 91.
 
@@ -1153,7 +1327,7 @@ Adicionalmente, la Defensoría Pública podrá informar a la Escuela Judicial la
 
 Aprobación de los Planes Anuales. Una vez integrados los Planes Anuales se presentarán los proyectos al Comité Académico para su visto bueno, para después ser sometidos a la Comisión quien a su vez los remitirá al Pleno del Consejo para su aprobación.
 
-### Capítulo V. Prácticas judiciales
+### Capítulo III. Ejecución
 
 ###### Artículo 94.
 
@@ -1173,7 +1347,7 @@ Remuneración de personas expertas, personal docente e instituciones académicas
 
 Evaluación. La forma de evaluación de los programas académicos de la Escuela Judicial se determinará de manera individual en los lineamientos para cada uno, y podrá consistir en cuestionarios, casos prácticos, evaluación de proyectos o cualquier otro método que se considere adecuado.
 
-### Capítulo I. Director General
+### Capítulo IV. Infracciones y sanciones académicas
 
 ###### Artículo 97.
 
@@ -1243,7 +1417,7 @@ Para ello, la Coordinadora o Coordinador Académico elaborará un informe respec
 
 Responsabilidad Administrativa. Además de las sanciones previstas en el artículo anterior, las personas servidoras públicas podrán ser susceptibles de responsabilidad administrativa en términos del artículo 49, fracción I, de la Ley General de Responsabilidades Administrativas. Para ello, se seguirá el procedimiento previsto en el artículo 112 de la Ley Orgánica.
 
-### Capítulo II. Comité Académico
+### Capítulo V. Prácticas judiciales
 
 ###### Artículo 100.
 
@@ -1263,7 +1437,7 @@ Acceso a la Carrera Judicial a partir del Programa de Prácticas Judiciales en �
 
 ## TÍTULO QUINTO. Estructura Orgánica de la Escuela Judicial
 
-### Capítulo III. Sede Central y extensiones regionales de la Escuela Judicial
+### Capítulo I. Director General
 
 ###### Artículo 104.
 
@@ -1271,7 +1445,7 @@ Directora o Director General. La Escuela Judicial contará con una Directora o D
 
 Además, podrá celebrar convenios con las instituciones académicas, judiciales y los organismos públicos que sirvan para cumplir con su función, ya sea que dichas instituciones sean nacionales o extranjeras.
 
-### Capítulo I. Protesta constitucional
+### Capítulo II. Comité Académico
 
 ###### Artículo 105.
 
@@ -1329,7 +1503,7 @@ V. Las sesiones se llevarán a cabo de forma presencial, a distancia o por medio
 
 VI. Será posible contar con personas invitadas en las sesiones plenarias del Comité Académico.
 
-### Capítulo II. Adscripciones
+### Capítulo III. Sede Central y extensiones regionales de la Escuela Judicial
 
 ###### Artículo 109.
 
@@ -1395,7 +1569,7 @@ Lo anterior se encontrará regulado en la normativa interna que para tal efecto 
 
 ## TÍTULO SEXTO. Adscripciones y Ratificaciones
 
-### Capítulo III. Ratificaciones
+### Capítulo I. Protesta constitucional
 
 ###### Artículo 117.
 
@@ -1403,7 +1577,7 @@ Protesta constitucional. Las Magistradas y Magistrados otorgarán la protesta co
 
 En toda protesta constitucional se levantará el acta correspondiente de la cual se agregará al Registro Único de la persona servidora pública que para tal efecto lleva Recursos Humanos.
 
-### Capítulo Único. Procedimiento para la reincorporación
+### Capítulo II. Adscripciones
 
 ###### Artículo 118.
 
@@ -1585,7 +1759,7 @@ Tratándose de Juezas y Jueces de Distrito que hayan obtenido el cargo en concur
 
 Notificación y resguardo de resoluciones del Pleno. Las resoluciones que apruebe el Pleno respecto la adscripción y cambio de adscripción de Magistradas o Magistrados, y Juezas o Jueces de Distrito deberán ser notificadas a todas las personas interesadas, así como remitirse en copia certificada o en archivo electrónico autorizado y firmado a Recursos Humanos, de conformidad con lo dispuesto en las disposiciones aplicables, y serán resguardadas por la Secretaría Ejecutiva de Adscripción.
 
-### Capítulo Único. Criterios y ámbito de aplicación de la evaluación del desempeño
+### Capítulo III. Ratificaciones
 
 ###### Artículo 126.
 
@@ -1697,7 +1871,7 @@ Efectos de la separación. La resolución de no ratificación de una o un Titula
 
 ## TÍTULO SÉPTIMO. Reincorporación
 
-### Capítulo Único. Procedimiento para la separación del cargo
+### Capítulo Único. Procedimiento para la reincorporación
 
 ###### Artículo 135.
 
@@ -1749,7 +1923,7 @@ La determinación de improcedencia de la reintegración o de negativa adoptada s
 
 ## TÍTULO OCTAVO. Evaluación del desempeño
 
-### Capítulo Único. Integración de la plantilla de los órganos jurisdiccionales
+### Capítulo Único. Criterios y ámbito de aplicación de la evaluación del desempeño
 
 ###### Artículo 136.
 
@@ -1771,7 +1945,7 @@ Las Cédulas de Evaluación que las y los Titulares omitan realizar se entender�
 
 ## TÍTULO NOVENO. Separación del Cargo
 
-### Capítulo Único. Impedimentos en los nombramientos y obligación de informar vínculos familiares
+### Capítulo Único. Procedimiento para la separación del cargo
 
 ###### Artículo 140.
 
@@ -1787,7 +1961,7 @@ En todo momento quedará a salvo el derecho de las personas servidoras públicas
 
 ## TÍTULO DÉCIMO. Integración de los órganos jurisdiccionales
 
-### Capítulo I. Nombramientos
+### Capítulo Único. Integración de la plantilla de los órganos jurisdiccionales
 
 ###### Artículo 141.
 
@@ -1795,7 +1969,7 @@ Integración de la plantilla de los órganos jurisdiccionales. La plantilla de l
 
 ## TÍTULO DÉCIMO PRIMERO. Medidas de Combate al Nepotismo
 
-### Capítulo II. Actuaciones
+### Capítulo Único. Impedimentos en los nombramientos y obligación de informar vínculos familiares
 
 ###### Artículo 142.
 
@@ -1875,7 +2049,7 @@ Para efectos de lo anterior, dentro de los 30 días siguientes a cada período d
 
 ## TÍTULO DÉCIMO SEGUNDO. Nombramientos, Sustituciones, Vacaciones, Licencias, Estímulos y Retiro en la Carrera Judicial
 
-### Capítulo III. Sustitución de Titulares
+### Capítulo I. Nombramientos
 
 ###### Artículo 152.
 
@@ -1917,7 +2091,7 @@ Personas servidoras públicas de base comisionadas. Las personas servidoras púb
 
 Nombramiento a personas con sanciones previas. Cuando se haya cesado a una persona servidora pública de algún órgano jurisdiccional, el otorgamiento de un nuevo nombramiento estará condicionado a que se cumplan las normas previstas en este Acuerdo para el ingreso y promoción en la Carrera Judicial.
 
-### Capítulo IV. Vacaciones, días inhábiles y días de asueto
+### Capítulo II. Actuaciones
 
 ###### Artículo 159.
 
@@ -1949,7 +2123,7 @@ En los lugares donde exista sólo un Juzgado de Distrito, cuando permanezca de g
 
 Abandono de la residencia de Juezas y Jueces de Distrito Especializados. Tratándose de Juzgados de Distrito especializados, la disposición anterior comprende la estancia de una o un Titular en cada materia o especialidad. Cuando haya disenso entre las y los Titulares sobre el órgano que debe cubrir la guardia de turno, la Comisión de Creación de Nuevos Órganos resolverá lo conducente, previa consulta que se le formule.
 
-### Capítulo V. Licencias
+### Capítulo III. Sustitución de Titulares
 
 ###### Artículo 164.
 
@@ -1977,7 +2151,7 @@ Sustitución de las y los Titulares de los Tribunales Federales de Justicia Labo
 
 Sustitución de las y los Titulares de los Tribunales Colegiados de Apelación. Para el caso de la sustitución de Titulares en caso de impedimento en los Tribunales Colegiados de Apelación, se estará a los Acuerdos Generales que regulen la creación de dichos órganos.
 
-### Capítulo VI. Estímulos
+### Capítulo IV. Vacaciones, días inhábiles y días de asueto
 
 ###### Artículo 169.
 
@@ -2079,7 +2253,7 @@ Las Secretarias y los Secretarios adscritos a los Tribunales Laborales Federales
 
 Las personas titulares deberán informar de esta medida a la Comisión, a la brevedad posible, a fin de que se tome conocimiento de la designación del secretario o secretaria, o bien sean autorizados para los casos de ausencias temporales mayores a quince días.
 
-### Capítulo VII. Retiro de Magistradas, Magistrados, Juezas y Jueces
+### Capítulo V. Licencias
 
 ###### Artículo 177.
 
@@ -2291,7 +2465,7 @@ La Comisión de Administración, con la opinión de la Unidad de Prevención y C
 
 La Comisión podrá proponer al Pleno del Consejo los acuerdos generales que considere pertinentes para atender las necesidades y continuidad del servicio en relación con el otorgamiento de licencias.
 
-### Capítulo Único. Funcionamiento del Registro Único de Servidoras Públicas y Servidores Públicos de la Carrera Judicial
+### Capítulo VI. Estímulos
 
 ###### Artículo 203.
 
@@ -2361,13 +2535,15 @@ Publicación de semblanza. El Consejo publicará una semblanza de las y los func
 
 Posibilidad de abstenerse u otorgar más reconocimientos. El Consejo podrá abstenerse de otorgar la distinción en una o varias categorías, cuando el Pleno así lo estime conveniente; igualmente, podrá conferir, si así lo considera, más de un reconocimiento a las categorías de Magistrada o Magistrado y Jueza o Juez de Distrito.
 
-### Capítulo Único. Prohibición, sanción y prevención del hostigamiento y acoso sexual
+### Capítulo VII. Retiro de Magistradas, Magistrados, Juezas y Jueces
 
 ###### Artículo 215.
 
 Pensión ante el retiro de Magistradas, Magistrados, Juezas y Jueces. Al retirarse del cargo, las Magistradas y Magistrados y las Juezas y Jueces de Distrito recibirán una pensión vitalicia complementaria a la otorgada por la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, conforme lo establecido en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que regula el Plan de Pensiones Complementarias de Magistradas o Magistradas y Juezas y Jueces y en la Ley Orgánica.
 
 ## TÍTULO DÉCIMO TERCERO. Registro Único de Servidoras Públicas y Servidores Públicos de la Carrera Judicial
+
+### Capítulo Único. Funcionamiento del Registro Único de Servidoras Públicas y Servidores Públicos de la Carrera Judicial
 
 ###### Artículo 216.
 
@@ -2398,6 +2574,8 @@ Información. Para efectos de integrar adecuadamente el Registro Único, el Cons
 La información contenida en el Registro Único deberá ser resguardada y almacenada por el Poder Judicial de la Federación conforme a las leyes y disposiciones administrativas de la materia.
 
 ## TÍTULO DÉCIMO CUARTO. Hostigamiento y acoso sexual
+
+### Capítulo Único. Prohibición, sanción y prevención del hostigamiento y acoso sexual
 
 ###### Artículo 221.
 
@@ -2459,19 +2637,7 @@ DÉCIMO TERCERO. Las personas que actualmente se desempeñan como oficiales admi
 
 DÉCIMO CUARTO. Hasta que entren en operación en todo el país los Tribunales Colegiados de Apelación, las referencias hechas a estos órganos jurisdiccionales en este Acuerdo se entenderán aplicables a los Tribunales Unitarios de Circuito. Del mismo modo, en tanto existan Plenos de Circuito en funciones, las referencias hechas a los Plenos Regionales a lo largo del presente Acuerdo se entenderán aplicables también a los Plenos de Circuito.
 
-DÉCIMO QUINTO. Las listas de acceso y promoción a la Carrera Judicial entrarán en vigor de forma gradual y escalonada, de conformidad con las siguientes pautas:
-
-I. En un plazo de 60 días, contados a partir de la entrada en vigor del presente Acuerdo, y durante todo el año 2022, las listas nacionales a que refiere el artículo 60 de este ordenamiento se integrarán de manera transitoria con las personas que en los últimos tres años hayan acreditado los exámenes de aptitud o cursos diseñados por la Escuela Judicial, con excepción de las personas Oficiales judiciales. Durante este periodo transitorio, las y los Titulares podrán nombrar a cualquier persona que esté habilitada sin que necesariamente figure en el 10% más alto de dichas listas.
-
-II. Para efectos de las listas y contrataciones, las categorías de Secretaria o Secretario de Juzgado y de Secretaria o Secretario de Tribunal serán equiparables.
-
-III. Durante el año 2022 la Escuela Judicial llevará a cabo los concursos de oposición necesarios a efecto de integrar las listas de acceso y promoción por categoría de la Carrera Judicial con las personas que resulten vencedoras.
-
-IV. Las listas de vacantes temporales se integrarán con las personas que resulten vencedoras en los concursos de oposición que se lleven a cabo de conformidad con el presente Acuerdo.
-
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA ENTRADA EN VIGOR DE LAS LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL, D.O.F. 1 DE MARZO DE 2023)</small>
-
-V. El sistema de listas de acceso y promoción previsto en el presente Acuerdo entrará en vigor cuando lo determine el Pleno del Consejo de la Judicatura Federal.
+DÉCIMO QUINTO. (DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN, D.O.F. 18 DE AGOSTO DE 2023)
 
 DÉCIMO SEXTO. El recurso de reconsideración previsto en el Capítulo V del Título Tercero del presente Acuerdo podrá interponerse únicamente en contra de los concursos de oposición que se lleven a cabo de conformidad con las reglas previstas en este Acuerdo.
 
@@ -2618,3 +2784,49 @@ D.O.F. 27 DE MARZO DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+D.O.F. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON EL SISTEMA DE LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL Y LOS CONCURSOS DE OPOSICIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, Sistema Integral de Seguimiento de Expedientes, Sistema Integral de Gestión de Expedientes; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Sistema de Listas de Acceso y Promoción en la Carrera Judicial, previsto en el capítulo VII, del TÍTULO SEGUNDO entrará en vigor de conformidad con las siguientes pautas:
+
+I. En un plazo de sesenta días naturales, contados a partir de la entrada en vigor del presente Acuerdo, la Escuela Judicial implementará el Sistema de Listas de Acceso y Promoción en la Carrera Judicial de los últimos cinco años y del año en curso.
+
+Para la elaboración de las listas correspondientes a los últimos cinco años, la Escuela Judicial elaborará una Lista General por cada año, del dos mil dieciocho al dos mil veintidós, con todas las personas vencedoras de los concursos escolarizados y no escolarizados del ciclo escolar, ordenándolos de conformidad con el artículo 58 del presente Acuerdo.
+
+La Escuela Judicial integrará a la Lista General de Acceso y Promoción en la Carrera Judicial del año dos mil veintitrés a las personas que obtuvieron certificado con validez de especialidad ante la Secretaría de Educación Pública, derivado de los concursos aplicados por el entonces Instituto de la Judicatura Federal en la categoría secretarial, con independencia de la fecha de la emisión del certificado, atendiendo a los criterios de orden establecidos en el artículo 58 del presente Acuerdo y vigencia de listas contemplada en el artículo 62 del presente Acuerdo.
+
+La Escuela Judicial integrará las Listas por Circuito de conformidad con el artículo 60 del presente Acuerdo y las personas titulares podrán cubrir sus vacantes conforme los artículos 60 Bis a 62 del presente Acuerdo.
+
+II. Hasta en tanto transcurran los plazos y se implemente lo previsto en la fracción anterior, continuará aplicando el sistema de listas transitorio (sic) en los mismos términos previos a la publicación del presente Acuerdo. Conforme lo establecía el anterior artículo TRANSITORIO DÉCIMOQUINTO, fracción I.
+
+III. Para efectos del Sistema de Listas, las categorías de personal Secretarial de Juzgado y personal Secretarial de Tribunal serán equiparables.
+
+Las personas servidoras públicas que, antes de la entrada en vigor del Acuerdo General del Pleno del Consejo de la Judicatura Federal que Reglamenta la Carrera Judicial, obtuvieron su nombramiento de base en la categoría de Oficial Judicial sin tener título profesional de licenciado o licenciada en derecho, contarán con dieciocho meses a partir de que se generó o genere su baja del cargo, para ocupar una plaza en la misma categoría en otro órgano jurisdiccional, sin necesidad de volver a ingresar al sistema de listas ni acreditar el requisito relativo al título profesional, siempre y cuando la baja no derive de una sanción por cese o responsabilidad administrativa grave, de conformidad con el Capítulo VII Bis, del TÍTULO SEGUNDO, relativo al régimen de movilidad, del presente Acuerdo.
+
+IV. Dentro de los siguientes dos meses, contados a partir de la entrada en vigor del presente Acuerdo, las áreas administrativas del Consejo que tengan información necesaria o requerimientos para la planeación de concursos de oposición para el año dos mil veinticuatro, de conformidad con lo dispuesto en el artículo 35 Quater del presente Acuerdo, enviarán la información y requerimientos a la Escuela Judicial para que esta someta a consideración y, en su caso, aprobación del Pleno el Plan Anual de Concursos de Oposición para el año dos mil veinticuatro.
+
+V. Hasta que el Pleno del Consejo de la Judicatura Federal determine que las Listas Especializadas de Acceso y Promoción en la Carrera Judicial de los Tribunales Laborales Federales se encuentran integradas con el personal suficiente para cumplir con las necesidades del servicio, las personas vencedoras que las integren serán dadas de baja de las Listas Especializadas cuando obtengan un nombramiento de base en una categoría igual o superior en un órgano jurisdiccional no especializado en materia laboral.
+
+VI. Quedan abrogados los Lineamientos de Operación del Sistema de Listas para la Integración de los Tribunales Laborales Federales.
+
+VII. Las personas que resultaron vencedoras en concursos de oposición para la designación de Juezas y Jueces de Distrito Especializados en Materia de Trabajo del Poder Judicial de la Federación antes de la publicación del presente Acuerdo y estén pendientes de adscripción, podrán desempeñarse, en la medida de lo posible, en cualquier otra categoría inferior en la Carrera Judicial, privilegiando la materia laboral, hasta en tanto sean adscritas en la categoría para la cual resultaron vencedoras.
+
+VIII. En un plazo de sesenta días naturales, contados a partir de la entrada en vigor del presente Acuerdo, la Escuela Judicial emitirá los Lineamientos para la selección, ingreso y promoción de las personas defensoras públicas y personas asesoras jurídicas de la Defensoría Pública, a los que se refiere la fracción II del artículo 36 Bis de la Ley Federal de Defensoría Pública.
+
+Para la aplicación de los concursos de oposición del personal de servicio civil de carrera, la Escuela Judicial tomará como base los parámetros establecidos en el Titulo Segundo del presente Acuerdo y los Lineamientos a que hace referencia el párrafo anterior.
+
+IX. Las personas servidoras públicas que, a la fecha de la entrada en vigor del presente Acuerdo, ocupen las categorías de persona defensora pública y persona asesora jurídica sin ser parte del servicio civil de carrera y que cumplan con los requisitos consistentes en (i) ocupar la plaza de manera indefinida, (ii) contar con una antigüedad en el cargo de al menos tres años, (iii) haber obtenido calificación promedio sobresaliente, bueno alto, bueno o regular alto en el resultado de su evaluación en los últimos tres años y (iv) no haber recibido sanción administrativa grave y firme, serán incorporadas al servicio civil de carrera.
+
+Las personas servidoras públicas que no hayan sido supervisadas y/o evaluadas en los últimos tres años y, en consecuencia, no cuenten con una calificación, podrán cumplir el requisito consistente en la calificación comprobando su especialización en defensa penal, asesoría jurídica o laboral en los cursos impartidos por la Escuela Judicial.
+
+En un plazo de treinta días naturales, contados a partir de la entrada en vigor del presente Acuerdo, el Instituto Federal de la Defensoría Pública informará al Pleno, mediante Punto de Acuerdo, las personas servidoras públicas que cumplan con lo dispuesto en el presente transitorio y, por tanto, sean candidatas para ingresar al servicio civil de carrera.
+
+Aprobado el Punto de Acuerdo, la Dirección General de la Defensoría Pública, en conjunto con las áreas administrativas correspondientes, realizará las gestiones necesarias para formalizar el ingreso de las personas servidoras públicas que integrarán el servicio civil de carrera.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
