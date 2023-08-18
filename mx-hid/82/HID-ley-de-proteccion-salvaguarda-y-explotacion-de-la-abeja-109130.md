@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-salvaguarda-y-explotacion-de-la-abeja-109130"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-27"
-last_updated: "2021-10-11"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN, SALVAGUARDA Y EXPLOTACIÓN DE LA ABEJA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de julio de 2015.
 
@@ -217,7 +217,9 @@ I. Promover y vigilar la actividad apícola municipal en congruencia con los cri
 
 II. Concertar acciones con la Federación, el Estado y otros municipios en materia de esta Ley;
 
-III. Fomentar con el sector social y privado el desarrollo de la apicultura en el Estado; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+III. Fomentar en conjunto con las organizaciones de apicultores, la sociedad civil, sector privado y organizaciones ambientalistas, la conservación y desarrollo de la apicultura en el Estado; y
 
 IV. Las demás que se deriven de la presente ley, de las leyes vigentes o de la normatividad aplicable.
 
@@ -255,9 +257,13 @@ XI. Dirigir, coordinar y evaluar las actividades de los inspectores zoosanitario
 
 XI BIS. Asimismo, promoverá el cambio de colmenas rústicas a modernas;
 
-> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-XI TER. Registrar, vigilar, dirigir, coordinar y supervisar el debido funcionamiento de las Zonas Santuario con que cuente el Estado; y
+XI TER. Registrar, vigilar, dirigir, coordinar y supervisar el debido funcionamiento de las Zonas Santuario con que cuente el Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+XI QUATER. Trabajar coordinadamente con organizaciones de apicultores, sociedad civil, sector privado y organizaciones ambientalistas afines al tema para la conservación y desarrollo de la apicultura en la entidad; y
 
 XII. Las demás que se deriven de las leyes vigentes o que en sus términos, le sean asignadas por el Ejecutivo del Estado.
 
@@ -810,3 +816,9 @@ P.O. 11 DE OCTUBRE DE 2021.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. - El Ejecutivo del Estado a través de la Secretaría de Desarrollo Agropecuario, deberá emitir o adecuar la normatividad que derive de la presente Ley.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 553 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN, SALVAGUARDA Y EXPLOTACIÓN DE LA ABEJA PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
