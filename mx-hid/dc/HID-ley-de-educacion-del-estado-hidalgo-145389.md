@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2023-06-15"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -97,6 +97,10 @@ IV. Autoridad Educativa Municipal: Ayuntamiento de cada municipio del Estado de 
 
 V. Carta de No Inconveniencia: Resolución de la Secretaría en la que se expresa que no se tiene inconveniente en que instituciones de particulares obtengan incorporación o reconocimiento de validez oficial por parte de otras autoridades competentes para establecerse en el Estado de Hidalgo;
 
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+V Bis. Escuela para Padres, Madres y Tutores: Programa de formación, orientación y capacitación continua dirigido a madres, padres, tutores o quienes ejerzan la patria potestad de niñas, niños y adolescentes inscritos en cualquier institución de educación pública o privada en el Estado; el cual tiene por objeto fomentar la participación de las familias en los procesos educativos, mejorar la convivencia escolar y la interacción entre educandos, docentes, madres, padres, tutores y/o personas cuidadoras de las y los menores, así como asegurar el sano crecimiento y desarrollo integral de las y los educandos en cualquier ámbito donde se desenvuelvan; a través de platicas, cursos, conferencias, talleres, dinámicas de integración, diplomados o cualquier otra acción que, de acuerdo con la suficiencia presupuestal, defina la autoridad educativa para el cumplimiento de los objetivos y fines de la educación impartida en el Estado;
+
 VI. Estado: Federación, el Estado de Hidalgo y los municipios;
 
 VII. Organismo Descentralizado: Entidad paraestatal con personalidad jurídica y patrimonio propio que imparte educación media superior o educación superior;
@@ -156,6 +160,10 @@ Las acciones que realicen tendrán como objetivos el desarrollo humano integral 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
 La Secretaría y autoridades educativas municipales, en coordinación con la Secretaría de Salud, implementarán programas de capacitación dirigidos al personal docente, en materia de detección de situaciones o factores de riesgo relacionados con la salud mental de los educandos. Los docentes deben informar de inmediato a las autoridades correspondientes si detectan algún caso de riesgo.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+Así mismo, dichas autoridades podrán implementar programas de capacitación y orientación, en materia de educación sexual integral y reproductiva, dirigidos a personal docente, estudiantes, padres, madres de familia o tutores. Estos programas deberán brindar información oportuna y adecuada, respetar los derechos humanos, ser sensibles al género y a la diversidad, promover la salud sexual y fomentar el uso de métodos anticonceptivos.
 
 ###### Artículo 11.
 
@@ -689,7 +697,9 @@ IV. El conocimiento científico, a través de la apropiación de principios, mod
 
 V. El pensamiento filosófico, histórico y humanístico, para generar consciencia de sí y del mundo;
 
-VI. Las habilidades socioemocionales, como el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad; trabajo en red y empatía; gestión y organización;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+VI. Las habilidades socioemocionales, como el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad; trabajo en red y empatía; gestión y organización; la autorregulación, autoconciencia y motivación;
 
 VII. El pensamiento crítico, como una capacidad de identificar, analizar, cuestionar y valorar fenómenos, información, acciones e ideas, así como tomar una posición frente a los hechos y procesos para solucionar distintos problemas de la realidad;
 
@@ -701,9 +711,11 @@ X. La apreciación y creación artística, a través de conocimientos conceptual
 
 XI. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base en una educación cívica, inclusiva e intercultural.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 61.
 
-Las maestras y los maestros acompañarán a los educandos en sus trayectorias formativas en los distintos tipos, niveles, modalidades y opciones educativas, propiciando la construcción de aprendizajes interculturales, tecnológicos, científicos, humanísticos, artísticos, sociales, biológicos, comunitarios y plurilingües, para acercarlos a la realidad, a efecto de interpretarla y participar en su transformación positiva.
+Las maestras y los maestros acompañarán a los educandos en sus trayectorias formativas en los distintos tipos, niveles, modalidades y opciones educativas, propiciando la construcción de aprendizajes interculturales, tecnológicos, científicos, humanísticos, artísticos, sociales, biológicos, comunitarios y plurilingües, así como en el ejercicio de valores y la convivencia sana, para acercarlos a la realidad, a efecto de interpretarla y participar en su transformación positiva.
 
 ###### Artículo 62.
 
@@ -719,7 +731,9 @@ Los planes y programas de estudio cumplirán con los requisitos establecidos en 
 
 Sus propósitos, contenidos, procesos y estrategias educativas, recursos, pedagógicos, didácticos, curriculares y evaluación del aprendizaje y de acreditación, se establecerán de acuerdo con cada tipo, nivel, modalidad y opción educativa, así como a las condiciones territoriales, culturales, sociales, productivas y formativas de las instituciones educativas.
 
-El proceso educativo que se genere a partir de la aplicación de los planes y programas de estudio se basará en la libertad, creatividad y responsabilidad, inclusión, interculturalidad, la ciencia y la tecnología, que aseguren una armonía entre las relaciones de educandos y docentes; a su vez, promoverá el trabajo colaborativo para asegurar la comunicación y el diálogo entre los diversos actores de la comunidad educativa.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+El proceso educativo que se genere a partir de la aplicación de los planes y programas de estudio se basará en los valores de respeto y tolerancia, la libertad, creatividad y responsabilidad, inclusión, interculturalidad, la ciencia y la tecnología, que aseguren una armonía entre las relaciones de educandos y docentes; a su vez, promoverá el trabajo colaborativo para asegurar la comunicación y el diálogo entre los diversos actores de la comunidad educativa.
 
 Los libros de texto que se utilicen para cumplir con los planes y programas de estudio para impartir educación en el Estado de Hidalgo, serán los autorizados por la Autoridad Educativa Federal en los términos de la Ley General de Educación, por lo que queda prohibida cualquier distribución, promoción, difusión o utilización de los que no cumplan con este requisito.
 
@@ -857,11 +871,21 @@ El calendario que la Autoridad Educativa Federal determine para cada ciclo lecti
 
 Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo. Además de conocer y acatar los lineamientos y protocolos expedidos por la Secretaría para la atención oportuna de situaciones en las que se vean vulnerados los derechos de las niñas, niños, adolescentes y jóvenes.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 78.
 
-La Secretaría desarrollará actividades de información y orientación como pláticas, conferencias, talleres, cápsulas informativas a través de los medios digitales e impresos para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, la cultura de la paz, buenos hábitos de salud, educación sexual integral y reproductiva, perspectiva de género, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, la adopción de estilos de vida sustentables, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+La Secretaría procurará establecer, de acuerdo con la suficiencia presupuestal, las disposiciones reglamentarias y la planeación para implementar el programa Escuela para Padres, Madres y Tutores en la entidad, que podrá incluir actividades de formación, capacitación y orientación como pláticas, cursos, conferencias, talleres, dinámicas de integración o cápsulas informativas, en los centros escolares o a través de los medios digitales e impresos, para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, la cultura de la paz, buenos hábitos de salud, educación sexual integral y reproductiva, perspectiva de género, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, la adopción de estilos de vida sustentables, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+
+Las disposiciones que en la materia emita la Secretaría para el diseño, promoción, ejecución y evaluación del programa Escuela para Padres, Madres y Tutores deberán estar enfocadas al cumplimiento de los siguientes objetivos:
+
+I. Asegurar la formación y actualización periódica de madres, padres, tutores o de quienes ejerzan la patria potestad para el desarrollo de habilidades parentales en el conocimiento, cuidado, protección y formación de sus hijos, hijas o pupilos;
+
+II. Orientar a madres, padres, tutores o a quienes ejerzan la patria potestad, en el cumplimiento de sus responsabilidades familiares y educativas para asegurar el sano desarrollo físico y mental de las niñas, niños o adolescentes, en cualquier ámbito en donde se desenvuelvan;
+
+III. Contribuir en la capacitación de madres, padres, tutores o de quienes ejerzan la patria potestad, para la protección de los derechos de las y los menores, el respeto a su dignidad y bienestar integral; y
+
+IV. Generar espacios de diálogo, reflexión e intercambio de experiencias entre madres, padres, tutores o quienes ejerzan la patria potestad para la transmisión de conocimientos referentes al desarrollo, formación y crecimiento de las niñas, niños y adolescentes.
 
 ### CAPÍTULO VII. DE OTROS COMPLEMENTOS DEL PROCESO EDUCATIVO
 
@@ -891,13 +915,19 @@ Como parte del proceso educativo, los educandos tendrán derecho a:
 
 I. Recibir una educación de excelencia;
 
-II. Ser respetados en su integridad, identidad y dignidad, además de la protección contra cualquier tipo de agresión física o moral;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+II. Ser respetados en su integridad, identidad y dignidad, además de la protección contra cualquier tipo de agresión física, psicológica o moral;
 
 III. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad;
 
 IV. Ser respetados por su libertad de convicciones éticas, de consciencia y de religión.
 
 V. Recibir una orientación educativa y vocacional;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+V Bis. Recibir atención psicológica, por conducto de las instancias competentes;
 
 VI. Tener un docente frente a grupo que contribuya al logro de su aprendizaje y desarrollo integral;
 
@@ -1127,13 +1157,19 @@ Los planteles educativos constituyen un espacio fundamental para el proceso de e
 
 Con el acuerdo de las autoridades, madres y padres de familia o tutores y la comunidad, en la medida de sus posibilidades, dichos planteles educativos funcionarán como un centro de aprendizaje comunitario, donde además de educar a niñas, niños, adolescentes y jóvenes, se integrarán a las familias y a la comunidad para colaborar en grupos de reflexión, de estudio y de información sobre su entorno.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+Las Autoridades Escolares deberán observar en todo momento que los planteles educativos dispongan de la infraestructura y servicios básicos necesarios de manera regular, acceso, disposición y saneamiento de agua en forma suficiente, salubre, aceptable y asequible.
+
 ###### Artículo 105.
 
 Los muebles e inmuebles destinados a la educación impartida por la Secretaría, las autoridades educativas municipales y por los particulares y con autorización o con Reconocimiento de Validez Oficial de Estudios en el Estado de Hidalgo, así como los servicios e instalaciones necesarios para proporcionar educación, forman parte del Sistema Educativo Estatal.
 
 En el caso de las instalaciones, bienes muebles e inmuebles de las instituciones educativas de particulares, formarán parte del Sistema, sin afectar la propiedad Jurídica y conservando su carácter patrimonial original.
 
-Las instalaciones, muebles e inmuebles que hace referencia este artículo deberán cumplir con los requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, resiliencia, pertinencia, integralidad, accesibilidad, inclusividad e higiene, certidumbre jurídica, uso, disposición y destino, de accesibilidad e inclusión para la prestación de los servicios educativos y pedagógicos incorporando los beneficios del desarrollo de la ciencia y la innovación tecnológica, para proporcionar educación de excelencia, con equidad e inclusión, conforme a los lineamientos que para tal efecto emita la Autoridad Educativa Federal y estatal.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+Las instalaciones, muebles e inmuebles que hace referencia este artículo deberán cumplir con los requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, resiliencia, pertinencia, integralidad, accesibilidad, inclusividad e higiene, así como de asegurar la eficacia y adecuado funcionamiento de los servicios básicos, incluyendo el acceso, disposición y saneamiento de agua, certidumbre jurídica, uso, disposición y destino, de accesibilidad e inclusión para la prestación de los servicios educativos y pedagógicos incorporando los beneficios del desarrollo de la ciencia y la innovación tecnológica, para proporcionar educación de excelencia, con equidad e inclusión, conforme a los lineamientos que para tal efecto emita la Autoridad Educativa Federal y estatal.
 
 Las Autoridades Municipales en materia de expedición de licencias de uso de suelo para servicios educativos o de formación para la vida y el trabajo deberán solicitar la opinión de la no inconveniencia a la Secretaría.
 
@@ -1157,13 +1193,17 @@ Todos los planteles educativos, públicos o privados, deben cumplir con las norm
 
 En la educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, debe demostrarse además el cumplimiento de las obligaciones señaladas en el artículo 147, fracción II de la Ley General de Educación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 108.
 
-La Secretaría y las autoridades municipales atenderán de manera prioritaria las escuelas que, por estar en localidades aisladas, zonas urbanas marginadas, rurales y en pueblos y comunidades indígenas, tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento que permitan proporcionar educación con equidad e inclusión en dichas localidades.
+La Secretaría y las autoridades municipales atenderán de manera prioritaria las escuelas que, por estar en localidades aisladas, zonas urbanas marginadas, rurales y en pueblos y comunidades indígenas, tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento, así como de cobertura de los servicios básicos, incluyendo acceso, disposición y saneamiento de agua, que permitan proporcionar educación con equidad e inclusión en dichas localidades.
 
 En materia de inclusión se realizarán acciones, de manera gradual, orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos que mejoren las condiciones para la infraestructura educativa.
 
-A partir de los programas que emita la Federación, se garantizará la existencia de baños y agua potable para consumo humano con suministro continuo en cada inmueble de uso escolar público conforme a los lineamientos que emita la Autoridad de Salud, así como de espacios para la activación física, la recreación, la práctica del deporte y la educación física así también de acuerdo con la disponibilidad presupuestal y de manera gradual se garantizará la energía eléctrica.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+A partir de los programas que emita la Federación, y con la concurrencia de la Secretaría y los municipios se garantizará el derecho al acceso, disposición y saneamiento de agua en las escuelas, a través de la existencia de baños y agua potable para consumo humano con suministro suficiente y continuo en cada inmueble de uso escolar público conforme a los lineamientos que emita la Autoridad de Salud, así como de espacios para la activación física, la recreación, la práctica del deporte y la educación física así también de acuerdo con la disponibilidad presupuestal y de manera gradual se garantizará la energía eléctrica.
 
 ###### Artículo 109.
 
@@ -1179,7 +1219,9 @@ Así mismo, promoverán mecanismos para acceder a fuentes alternas de financiami
 
 Para el mantenimiento de los muebles e inmuebles, así como los servicios e instalaciones necesarios para proporcionar los servicios educativos, concurrirán el gobierno federal, estatal, municipal y, de manera voluntaria, madres y padres de familia o tutores y demás integrantes de la comunidad.
 
-La Secretaría promoverá la participación directa de los municipios para dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales. Los municipios coadyuvarán en el mantenimiento de los planteles educativos y en la provisión de los servicios de seguridad, agua, telefonía, internet y energía eléctrica para las escuelas.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+
+La Secretaría promoverá la participación directa de los municipios y demás autoridades competentes para dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales. Los municipios coadyuvarán en el mantenimiento de los planteles educativos y en la provisión de los servicios de seguridad, agua potable y saneamiento, telefonía, internet y energía eléctrica para las escuelas.
 
 > <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -1492,6 +1534,10 @@ Son obligaciones de quienes ejercen la patria potestad o la tutela:
 I. Hacer que sus hijas, hijos o pupilos menores de dieciocho años, reciban la educación preescolar, la primaria, la secundaria, la media superior y, en su caso, la inicial;
 
 II. Participar en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años, al revisar su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
+II Bis. Asistir y participar activamente, cuando se les haya convocado, en el Programa Escuela para Padres, Madres y Tutores, enfocado en la mejora del ambiente escolar, familiar y desarrollo integral de las y los educandos;
 
 III. Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos o pupilos, en las actividades que dichas instituciones realicen;
 
@@ -2194,3 +2240,21 @@ P.O. 15 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 520 POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 68 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 555 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 561 POR EL QUE SE REFORMAN Y ADICIONAN DISTINTAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 564 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
