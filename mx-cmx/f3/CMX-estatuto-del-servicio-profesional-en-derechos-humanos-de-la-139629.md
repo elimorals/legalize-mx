@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-en-derechos-humanos-de-la-139
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-12-30"
-last_updated: "2020-10-08"
+last_updated: "2023-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139629&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-12-16"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISION DE DERECHOS HUMANOS DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 18 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE AGOSTO DE 2023 (ABROGADO).
 
 Aviso publicado en el número 251 de la Gaceta Oficial de la Ciudad de México, el lunes 30 de diciembre de 2019.
 
@@ -2863,3 +2865,55 @@ UNICO. Las modificaciones al Estatuto del Servicio Profesional en Derechos Human
 PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
 
 SEGUNDO. Se designa como responsable de la funcionalidad y permanencia del enlace electrónico en el sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México al Mtro. Silvano Joel Cantú Martínez, Coordinador General de Profesionalización en Derechos Humanos de la Comisión de Derechos Humanos de la Ciudad de México, con correo electrónico silvano.cantu@cdhcm.org.mx, y teléfono 5552295600, extensión 1825.
+
+G.O. 18 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO”.]
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2023/07/Acuerdo-09-2023.pdf]</small>
+
+Artículo Primero. El presente Estatuto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, abrogando el Estatuto del Servicio Profesional en Derechos Humanos de la Comisión de Derechos Humanos publicado en la Gaceta Oficial de la Ciudad de México el 30 de diciembre de 2019, con modificaciones publicadas en (sic) Gaceta Oficial de la Ciudad de México el 24 de febrero de 2020, el 6 de marzo de 2020 y el 10 de octubre de 2020.
+
+Artículo Segundo. Se derogan las disposiciones normativas internas que contravengan lo dispuesto en el presente Estatuto.
+
+Artículo Tercero. La actualización de la Metodología a que se refiere el presente Estatuto, deberá ser emitida dentro del término de ciento ochenta días naturales posteriores a la publicación del Estatuto y entrará en vigor en esa misma fecha.
+
+Artículo Cuarto. El Programa de Formación Especializada en Derechos Humanos deberá ser emitido dentro del término de ciento ochenta días naturales posteriores a la publicación del Estatuto y entrará en vigor en esa misma fecha.
+
+Artículo Quinto. En atención a lo dispuesto en el artículo 114 de la Ley Orgánica de la Comisión de Derechos Humanos de la Ciudad de México, publicada en la Gaceta Oficial de la Ciudad de México de 12 de julio de 2019, las personas integrantes del Servicio con nivel de Dirección de Área continuarán siendo parte del mismo hasta que se separen de él.
+
+Artículo Sexto. Los procedimientos que se hayan iniciado conforme a las disposiciones del Estatuto que se abroga se sustanciarán hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
+
+Artículo Séptimo. La Evaluación Anual de Desempeño correspondiente al año 2023, se realizará conforme a lo establecido en el Estatuto que se abroga y la Metodología vigente para ello.
+
+Artículo Octavo. La valoración del Mérito e Incentivos correspondientes al año 2023, se realizará conforme a lo establecido en el Estatuto que se abroga.
+
+Artículo Noveno. La Dirección contará con un plazo máximo de cuarenta días hábiles para sustituir los nombramientos provisionales o de titularidad con los que cuentan actualmente los integrantes del Servicio y emitir los nombramientos como personas integrantes del Servicio, de conformidad con lo referido al capítulo de nombramientos.
+
+Artículo Décimo. El periodo establecido entre convocatorias para concursos de oposición señalado en el artículo 68 del presente Estatuto, mantiene el plazo a partir del concurso anterior.
+
+Artículo Décimo Primero. Las personas integrantes del Servicio que se encuentren en las fases de Formación Inicial y de Formación y Capacitación Especializada del derogado Subsistema de Profesionalización, se incorporarán a la fase de Formación Especializada del proceso de Formación Profesional establecido en el presente Estatuto.
+
+Artículo Décimo Segundo. Las personas integrantes del Servicio que se encuentran en la fase de Actualización Permanente deberán acreditar lo correspondiente al año 2023 de conformidad con lo establecido en el Estatuto que se abroga.
+
+Artículo Décimo Tercero. Los casos de implementación no contemplados en los presentes artículos transitorios, podrán ser resueltos mediante acuerdo emitido por la persona titular de la Presidencia.
+
+Artículo Décimo. El periodo establecido entre convocatorias para concursos de oposición señalado en el artículo 68 del presente Estatuto, mantiene el plazo a partir del concurso anterior.
+
+Artículo Décimo Primero. Las personas integrantes del Servicio que se encuentren en las fases de Formación Inicial y de Formación y Capacitación Especializada del derogado Subsistema de Profesionalización, se incorporarán a la fase de Formación Especializada del proceso de Formación Profesional establecido en el presente Estatuto.
+
+Artículo Décimo Segundo. Las personas integrantes del Servicio que se encuentran en la fase de Actualización Permanente deberán acreditar lo correspondiente al año 2023 de conformidad con lo establecido en el Estatuto que se abroga.
+
+Artículo Décimo Tercero. Los casos de implementación no contemplados en los presentes artículos transitorios, podrán ser resueltos mediante acuerdo emitido por la persona titular de la Presidencia.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DEL SITIO OFICIAL DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, DONDE PODRÁ SER CONSULTADA LA ACTUALIZACIÓN DEL ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO APROBADA POR SU CONSEJO MEDIANTE ACUERDO NUMERO 09/2023, EMITIDO EN LA SESIÓN ORDINARIA 04/2023 DE FECHA 27 DE ABRIL DE 2023]</small>
+
+AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DEL SITIO OFICIAL DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, DONDE PODRÁ SER CONSULTADA LA ACTUALIZACIÓN DEL ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO APROBADA POR SU CONSEJO MEDIANTE ACUERDO NUMERO 09/2023, EMITIDO EN LA SESIÓN ORDINARIA 04/2023 DE FECHA 27 DE ABRIL DE 2023.
+
+UNICO. La actualización del Estatuto del Servicio Profesional en Derechos Humanos de la Comisión de Derechos Humanos de la Ciudad de México, entrará en vigor al día siguiente de la publicación del presente aviso en la Gaceta Oficial de la Ciudad de México y estará disponible para su consulta y descarga en el siguiente enlace electrónico: https://cdhcm.org.mx/wp-content/uploads/2023/07/Acuerdo-09-2023.pdf
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO. Se designa como responsable de la funcionalidad y permanencia del enlace electrónico en el sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México al Mtro. Gerardo Sauri Suárez, Director General de Administración de la Comisión de Derechos Humanos de la Ciudad de México, con correo electrónico gerardo.suarez@cdhcm.org.mx, y teléfono 5552295600, extensión 1901.
