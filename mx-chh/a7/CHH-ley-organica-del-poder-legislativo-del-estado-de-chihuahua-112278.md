@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2023-04-22"
+last_updated: "2023-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2023.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -671,17 +671,21 @@ ARTÍCULO 66 BIS. Los Grupos Parlamentarios, Representaciones y Coaliciones Parl
 
 ### CAPÍTULO V. DE LA MESA DIRECTIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 67.
 
-La Mesa Directiva es el órgano encargado de dirigir los trabajos del Congreso; se integra con una presidencia, dos vicepresidencias, dos secretarías y cuatro prosecretarías, y durará en funciones un año.
+La Mesa Directiva es el órgano encargado de dirigir los trabajos del Congreso; se integra con una presidencia, dos vicepresidencias, dos secretarías y cuatro prosecretarías. Sus integrantes durarán en sus funciones un año y podrán reelegirse.
 
 En su conformación se privilegiará la paridad de género y la composición plural del Congreso.
 
 Quienes integren la Mesa Directiva recibirán una retribución extraordinaria, de acuerdo al presupuesto de egresos del Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 68.
 
-La Presidencia de la Mesa Directiva se ejercerá de manera alternada entre los integrantes de los grupos y coaliciones parlamentarios, considerando de manera prioritaria, a los diputados representantes de los partidos políticos que por sí mismos constituyan la primera y segunda fuerza política. El orden para presidir este órgano será acordado por la Junta de Coordinación Política.
+La Presidencia de la Mesa Directiva se ejercerá entre las y los integrantes de los grupos parlamentarios, coaliciones, representaciones parlamentarias, diputaciones independientes y sin partido, considerando de manera prioritaria, a las diputadas y diputados representantes de los partidos políticos que por sí mismos constituyan la primera y segunda fuerza política. El orden para presidir este órgano será acordado por la Junta de Coordinación Política.
 
 En cada caso, una de las Vicepresidencias deberá pertenecer a los integrantes de un grupo o coalición parlamentaria, o partido político distinto al de la o el diputado que ocupe la Presidencia.
 
@@ -703,9 +707,11 @@ El Decreto que contenga los nombramientos de las y los integrantes de la Mesa Di
 
 ### CAPÍTULO VI. DE LA PRESIDENCIA DE LA MESA DIRECTIVA
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 73.
 
-Quien presida la Mesa Directiva saliente no podrá formar parte de la Mesa Directiva inmediata posterior.
+Quien presida la Mesa Directiva será quien presida el Congreso. Garantizará el fuero constitucional de las diputadas y diputados y velará por la inviolabilidad del Recinto Oficial.
 
 ###### ARTÍCULO 74.
 
@@ -3512,6 +3518,14 @@ TERCERO.- La observancia del principio de paridad de género a que se refiere el
 P.O. 22 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0530/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0595/2023 XI P.E. MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO EL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
