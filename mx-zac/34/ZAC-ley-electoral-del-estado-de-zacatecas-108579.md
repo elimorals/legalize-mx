@@ -4,7 +4,7 @@ identifier: "ZAC-ley-electoral-del-estado-de-zacatecas-108579"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-06"
-last_updated: "2023-05-31"
+last_updated: "2023-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2023.
 
 Ley publicada en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el sábado 6 de junio de 2015.
 
@@ -3381,11 +3381,17 @@ IV. Las boletas estarán adheridas a un talón con folio, del cual serán despre
 
 V. Nombre completo y apellidos de los candidatos;
 
-VI. Las boletas para la elección de Diputados por el principio de mayoría relativa, tendrán al frente un solo cuadro o emblema de cada partido político, que contendrá la fórmula de candidatos; y al reverso un solo cuadro por cada partido político, que contendrá la lista plurinominal de candidatos por el principio de representación proporcional;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2023)</small>
 
-VII. Las boletas para la elección de Ayuntamientos por el principio de mayoría relativa, tendrán al frente un solo cuadro o emblema de cada partido político, que contendrá la planilla de candidatos; y al reverso un solo cuadro por cada partido político que contendrá la lista de candidatos a Regidores por el principio de representación proporcional;
+VI. Las boletas para la elección de Diputadas y Diputados por el principio de mayoría relativa, tendrán al frente un solo recuadro que contenga el emblema del partido político, el nombre y fotografía a color de la candidata o candidato, así como el nombre de la o el suplente; y al reverso un solo recuadro por cada partido político, que contendrá la lista plurinominal de candidatas y candidatos por el principio de representación proporcional;
 
-VIII. Para Gobernador del Estado, un solo cuadro o emblema para cada candidato por partido político;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2023)</small>
+
+VII. Las boletas para la elección de Ayuntamientos por el principio de mayoría relativa, tendrán al frente un solo recuadro que contenga el emblema del partido político, el nombre y fotografía a color de la candidata a Presidenta Municipal o candidato a Presidente Municipal y el nombre de su suplente, así como el nombre del resto de la planilla de candidatos; y al reverso un solo recuadro por cada partido político que contendrá la lista de candidatas y candidatos a Regidores por el principio de representación proporcional;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2023)</small>
+
+VIII. Para Gobernadora o Gobernador del Estado, un solo recuadro para cada partido político, candidata o candidata (sic) y fotografía a color;
 
 IX. Espacio para candidatos, fórmulas o planillas no registradas respectivamente;
 
@@ -3397,9 +3403,17 @@ XII. Las firmas impresas del presidente y secretario del Consejo General.
 
 3. En atención a la elección que corresponda, las boletas electorales serán desprendibles de un talonario que contendrá un folio con numeración progresiva.
 
-4. Los colores y emblemas de los partidos políticos, aparecerán en las boletas en el orden que les correspondan de acuerdo con la antigüedad de su registro o acreditación ante el Consejo General.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2023)</small>
 
-5. En caso de existir coaliciones, los emblemas de los partidos coaligados y los nombres de los candidatos aparecerán con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos que participan por sí mismos. En ningún caso podrán aparecer emblemas conjuntos de los partidos coaligados en un mismo recuadro, ni utilizar emblemas distintos para la coalición.
+4. Los colores y emblemas de los partidos políticos en el orden que les correspondan de acuerdo con la antigüedad de su registro o acreditación ante el Consejo General.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2023)</small>
+
+5. En caso de existir coaliciones, los emblemas de los partidos coaligados, los nombres y fotografías de los candidatos aparecerán con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos que participan por sí mismos. En ningún caso podrán aparecer emblemas conjuntos de los partidos coaligados en un mismo recuadro, ni utilizar emblemas distintos para la coalición.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2023)</small>
+
+6. El Consejo General establecerá las especificaciones y lineamientos técnicos sobre las fotografías a color de las candidatas y candidatos a los que hace referencia el presente artículo.
 
 Aprobación de formatos
 
@@ -7176,3 +7190,13 @@ El presente Decreto entrará en vigor el mismo día de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 347.- MEDIANTE EL CUAL SE REFORMA LA LEY ELECTORAL DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Para dar cumplimiento al presente Decreto, se realizarán las gestiones necesarias para que se asignen los recursos económicos suficientes.
+
+Artículo Tercero.- Se derogan aquellas disposiciones que contravengan el presente Decreto.
