@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-las-personas-con-discapacidad-en-el-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-24"
-last_updated: "2023-07-29"
+last_updated: "2023-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 24 de agosto de 2015.
 
@@ -441,9 +441,11 @@ Para lograr la inclusión social, autonomía y participación plena en la vida c
 
 ### CAPÍTULO VII. DERECHO AL TRABAJO Y EMPLEO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 27.
 
-Se reconoce a las personas con discapacidad el derecho al trabajo en igualdad de condiciones que las demás personas.
+Se reconoce a las personas con discapacidad el derecho al trabajo digno o decente en igualdad de condiciones que las demás personas.
 
 Garantizar las condiciones para que el trabajo sea de libre elección en mercados y entornos laborales abiertos, inclusivos y accesibles a las personas con discapacidad.
 
@@ -453,7 +455,9 @@ Garantizar las condiciones para que el trabajo sea de libre elección en mercado
 
 Corresponde al Titular del Poder Ejecutivo del Estado, a través de la dependencia encargada del fomento al empleo, cualquiera que sea su denominación y a las autoridades municipales, en el ámbito de sus competencias:
 
-I. Promover el derecho al trabajo y empleo de las personas con discapacidad en igualdad de oportunidades, que les otorgue certeza en su desarrollo personal, social y laboral;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2023)</small>
+
+I. Promover el derecho al trabajo digno o decente y empleo de las personas con discapacidad en igualdad de oportunidades, que les otorgue certeza en su desarrollo personal, social y laboral;
 
 II. Garantizar los derechos laborales de las personas con discapacidad, prohibiendo cualquier tipo de discriminación por motivo de discapacidad en la selección, contratación, remuneración, tipo de empleo, reinserción, continuidad, capacitación, liquidación laboral, promoción profesional y asegurar condiciones de trabajo accesibles, seguras y saludables, incluida la protección contra el acoso;
 
@@ -1192,6 +1196,16 @@ TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del p
 P.O. 29 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1458.- MEDIANTE EL CUAL REFORMAN LOS INCISOS D) Y E) Y SE ADICIONA UN INCISO F) AL ARTÍCULO 36 BIS, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISAPACIDAD EN EL ESTADO DE OAXACA; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO RECORRIENDOSE EN SU ORDEN LOS SUBSECUENTES DEL ARTÍCULO 24 TER, DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1501.- MEDIANTE EL CUAL REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 27 Y LA FRACCIÓN I DEL ARTÍCULO 28 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
