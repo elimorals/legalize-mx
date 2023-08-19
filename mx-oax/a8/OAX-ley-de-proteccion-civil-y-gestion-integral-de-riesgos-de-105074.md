@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2023-03-18"
+last_updated: "2023-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -431,9 +431,11 @@ En caso de que la emergencia o desastre supere la capacidad de respuesta del mun
 
 El Sistema Estatal forma parte del Sistema Nacional, y es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, normas, instancias, principios, instrumentos, políticas, procedimientos, servicios y acciones, que establecen corresponsablemente las dependencias y entidades del sector público entre sí, con las organizaciones de los diversos grupos voluntarios, sociales, privados y con los Poderes Legislativo, Ejecutivo y Judicial, de los organismos constitucionales autónomos, de los municipios, a fin de efectuar acciones coordinadas en materia de gestión integral de riesgos, entre las cuales están la prevención de riesgos, protección civil y la recuperación.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2023)</small>
+
 ###### Artículo 18.
 
-El objetivo general del Sistema Estatal es proteger a la persona, sociedad y su entorno ante la eventualidad de los riesgos que representan los fenómenos perturbadores naturales o antropogénicos, a través de la gestión integral de riesgos y el fomento de la capacidad de adaptación, auxilio y restablecimiento en la población.
+El objetivo general del Sistema Estatal, es salvaguardar la vida, e integridad de las personas, así como sus bienes, la infraestructura, la planta productiva y el medio ambiente, ante la eventualidad de los riesgos que representan los fenómenos perturbadores naturales o antropogénicos, a través de la gestión integral de riesgos y el fomento de la capacidad de adaptación a los efectos del cambio climático, auxilio y restablecimiento en la población. Con la finalidad de reducir la pérdida de vidas humanas, la destrucción de bienes materiales y el daño a la naturaleza, así como la interrupción de las funciones esenciales de la sociedad.
 
 ###### Artículo 19.
 
@@ -583,13 +585,17 @@ XV. Unificar criterios y acciones entre las dependencias y entidades de la Admin
 
 XVI. Constituirse en sesión permanente en el caso de presentarse un alto riesgo, siniestro o desastre, a fin de decidir las acciones que procedan;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2023)</small>
 
-XVII. Promover que la normativa en materia de protección civil contenga acciones afirmativas y progresivas para identificar los riesgos de la población en situación de vulnerabilidad, en especial cuando se trate de niñas, niños y adolescentes, personas adultas mayores y personas con discapacidad; y
+XVII. Promover que la normativa en materia de protección civil contenga acciones afirmativas y progresivas para identificar los riesgos de la población en situación de vulnerabilidad, en especial cuando se trate de niñas, niños y adolescentes, personas adultas mayores y personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2023)</small>
+
+XVIII. Proponer a las dependencias y entidades ejecutoras de la administración pública estatal, para que, en las obras públicas, incorporen criterios sostenibles y sustentables de construcción que contribuyan al cuidado del medio ambiente, a la protección civil y a la reducción de riesgos de desastres; y
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XVIII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
+XIX. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
 
 ###### Artículo 26.
 
@@ -2288,3 +2294,11 @@ P.O. 18 DE MARZO DE 2023.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1502.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 18 Y LA FRACCIÓN XVII DEL ARTÍCULO 25 Y; SE ADICIONA LA FRACCIÓN XVIII RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 25 DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
