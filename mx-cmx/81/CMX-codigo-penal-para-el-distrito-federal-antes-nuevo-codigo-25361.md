@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2023-08-04"
+last_updated: "2023-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2023.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -5032,15 +5032,21 @@ Las sanciones previstas en el párrafo que antecede, se incrementarán hasta en 
 
 I.- Ponga en peligro la vida de la especie animal;
 
-II.- Cuando le cause un daño temporal o permanente que le provoque la falta de movilidad de alguna parte de su cuerpo o afecte el normal funcionamiento de alguno de sus órganos; y
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2023)</small>
 
-III.- Se mutile con algún fin, distinto a cualquier procedimiento médico veterinario relacionado con la salud y bienestar de cualquier animal.
+II.- Cuando le cause un daño temporal o permanente que le provoque la falta de movilidad de alguna parte de su cuerpo o afecte el normal funcionamiento de alguno de sus órganos, y
 
-Para los efectos del presente título, se entenderá por especie animal, al organismo vivo no humano, sensible, que posee movilidad propia y capacidad de respuesta a los estímulos del medio ambiente perteneciente a una especie doméstica o silvestre. Los animales abandonados o que se encuentren en el entorno urbano.
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2023)</small>
+
+III.- Se mutile con algún fin distinto a cualquier procedimiento médico veterinario relacionado con la salud y bienestar de cualquier animal.
+
+> <small>(REFORMADO, G.O. 21 DE AGOSTO DE 2023)</small>
+
+Para los efectos del presente título, se entenderá por especie animal, al organismo vivo no humano, sensible, que posee movilidad propia y capacidad de respuesta a los estímulos del medio ambiente perteneciente a una especie doméstica o silvestre, incluyendo a los animales abandonados o que se encuentren en el entorno urbano.
 
 Los animales abandonados o callejeros no serán considerados plaga.
 
-Los delitos previstos en el presente artículo se perseguirán por querella.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 21 DE AGOSTO DE 2023)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE MARZO DE 2023)</small>
 
@@ -5060,9 +5066,7 @@ Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que
 
 Se aumentarán hasta en una mitad las penas establecidas, a quien sacrifique animales de compañía para consumo humano.
 
-> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2023)</small>
-
-Los delitos previstos en el presente artículo se perseguirán por querella.
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 21 DE AGOSTO DE 2023)</small>
 
 > <small>(REFORMADO, G.O. 1 DE MARZO DE 2023)</small>
 
@@ -6605,3 +6609,11 @@ G.O. 4 DE AGOSTO DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES II, III, SEXTO PÁRRAFO Y SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 350 BIS; Y SE DEROGA EL QUINTO PÁRRAFO DEL ARTÍCULO 350 TER, AMBOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrara´ en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
