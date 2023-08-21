@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-de-la-fiscalia-general-del-estado-de-137792"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-15"
-last_updated: "2019-07-15"
+last_updated: "2023-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de julio de 2019.
 
@@ -107,7 +107,9 @@ I. Código: Código de Ética de la Fiscalía General del Estado de Aguascalient
 
 II. Fiscalía General del Estado: Fiscalía General del Estado de Aguascalientes;
 
-III. Dirección de Visitaduría: Órgano Interno de Control de la Fiscalía General del Estado; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
+
+III. Órgano: Órgano Interno de Control y Vigilancia de la Fiscalía General del Estado; y
 
 IV. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en la Fiscalía General del Estado, conforme a lo dispuesto en el artículo 108 párrafos primero y cuarto de la Constitución Política de los Estados Unidos Mexicanos, en relación con el artículo 73 párrafo primero de la Constitución Política del Estado de Aguascalientes.
 
@@ -645,9 +647,13 @@ El objetivo de los mecanismos de Capacitación y Difusión, será promover el co
 
 Mecanismos de Capacitación.
 
-La Dirección (sic) Visitaduría promoverá la impartición de capacitaciones acerca de los principios y valores que deban prevalecer en la toma de decisiones y en el correcto ejercicio de la función pública en situaciones reales y concretas, con base en las directrices previstas en la Ley General de Responsabilidades Administrativas, en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, en las Reglas de Integridad previstas en este Código y en otras disposiciones aplicables.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2023)</small>
 
-Las capacitaciones podrán ser impartidas mediante cursos, talleres, conferencias, seminarios o cualquier otro que estime pertinente el titular del Órgano Interno de Control de la Fiscalía General del Estado.
+El Órgano promoverá la impartición de capacitaciones acerca de los principios y valores que deban prevalecer en la toma de decisiones y en el correcto ejercicio de la función pública en situaciones reales y concretas, con base en las directrices previstas en la Ley General de Responsabilidades Administrativas, en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, en las Reglas de Integridad previstas en este Código y en otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2023)</small>
+
+Las capacitaciones podrán ser impartidas mediante cursos, talleres, conferencias, seminarios o cualquier otro que estime pertinente el titular del Órgano. Estos mecanismos de capacitación, deberán ser impartidos de manera permanente y continua.
 
 Estos mecanismos de capacitación, deberán ser impartidos de manera permanente y continua.
 
@@ -655,7 +661,9 @@ Estos mecanismos de capacitación, deberán ser impartidos de manera permanente 
 
 Mecanismos de Difusión.
 
-El Órgano Interno de Control deberá publicar el presente Código y en su caso sus reformas, cuando menos por los siguientes medios:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE AGOSTO DE 2023)</small>
+
+El Órgano deberá publicar el presente Código y en su caso sus reformas, cuando menos por los siguientes medios:
 
 I. Periódico Oficial del Estado de Aguascalientes;
 
@@ -671,7 +679,9 @@ IV. Los demás que se consideren necesarios.
 
 Órgano de sanción.
 
-Corresponde a la Dirección de Visitaduría investigar y sancionar cualquier acto u omisión que quebrante la disciplina y respeto que, en apego a este Código, deben observar las y los servidores públicos de la Fiscalía General del Estado, en términos de lo dispuesto por los Artículos 109, fracción III de la Constitución Política de los Estados Unidos Mexicanos, 10 párrafo segundo y 49, fracción I de la Ley General de Responsabilidades Administrativas.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2023)</small>
+
+Corresponde al Órgano investigar y sancionar cualquier acto u omisión que quebrante la disciplina y respeto que, en apego a este Código, deben observar las y los servidores públicos de la Fiscalía General del Estado, en términos de lo dispuesto por los Artículos 109, fracción III de la Constitución Política de los Estados Unidos Mexicanos, 10 párrafo segundo y 49, fracción I de la Ley General de Responsabilidades Administrativas.
 
 ## TRANSITORIOS
 
@@ -680,3 +690,13 @@ PRIMERO.- El presente Código de Ética de la Fiscalía General del Estado de Ag
 SEGUNDO.- El presente Código de Ética de la Fiscalía General del Estado de Aguascalientes, deja sin efectos el Acuerdo 08-2016 que contiene el Código de Ética Profesional de la Fiscalía General del Estado, publicado el día 23 de mayo del 2016 en el Periódico Oficial del Estado de Aguascalientes.
 
 Aguascalientes, Ags., a cuatro de julio de 2019.- El C. Director de Visitaduría de la Fiscalía General del Estado de Aguascalientes, Ignacio Delgado Macías.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
