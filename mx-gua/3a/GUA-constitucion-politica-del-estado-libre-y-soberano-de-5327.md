@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2023-08-10"
+last_updated: "2023-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -745,9 +745,25 @@ III.- Durante la extinción de una pena privativa de libertad;
 
 IV.- Por vagancia, malvivencia, ebriedad consuetudinaria o drogadicción declarada en términos de Ley;
 
-V.- Por estar prófugo de la justicia, desde que se dicte orden de aprehensión hasta la prescripción de la acción penal o de la sanción en su caso; y,
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
 
-VI.- Por sentencia ejecutoria que decrete la pena de suspensión de derechos, en los términos que disponga la Ley.
+V.- Por estar prófugo de la justicia, desde que se dicte orden de aprehensión hasta la prescripción de la acción penal o de la sanción en su caso;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
+
+VI.- Por sentencia ejecutoria que decrete la pena de suspensión de derechos, en los términos que disponga la Ley;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2023)</small>
+
+VII.- Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2023)</small>
+
+VIII.- Por estar declarada como persona deudora alimentaria morosa.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2023)</small>
+
+En los supuestos de las fracciones VII y VIII, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1073,17 +1089,21 @@ No podrán ser diputados al Congreso del Estado:
 
 I.- El Gobernador del Estado, cualquiera que sea su denominación, origen y forma de designación; los Titulares de las Dependencias que señala la Ley Orgánica del Poder Ejecutivo; el Fiscal General del Estado; los Magistrados del Supremo Tribunal de Justicia; los que se encuentren en servicio activo en el Ejército Federal o en otra Fuerza de Seguridad Pública; los presidentes municipales o los presidentes de los Concejos Municipales y quienes funjan como Secretario, Oficial Mayor o Tesorero, siempre que estos últimos ejerzan sus funciones dentro del Distrito o circunscripción en que habrá de efectuarse la elección, a no ser que cualesquiera de los nombrados se separen de sus cargos cuando menos noventa días antes de la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
 
-II.- Los que sean Ministros de cualquier culto religioso en los términos de las leyes respectivas; y,
+II.- Los que sean Ministros de cualquier culto religioso en los términos de las leyes respectivas;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
 
-III.- El Consejero Presidente o Consejero Electoral en los consejos general, locales o distritales del Instituto Nacional Electoral, el Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección.
+III.- El Consejero Presidente o Consejero Electoral en los consejos general, locales o distritales del Instituto Nacional Electoral, el Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección;
 
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
 
-IV.- El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección.
+IV.- El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2023)</small>
+
+V.- Las personas que hayan tenido resolución firme por infracción que constituya violencia política contra las mujeres en razón de género, emitidas por los órganos jurisdiccionales en materia electoral, en tanto se extingue la sanción impuesta.
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NUMERO 176, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2014, LA REFORMA AL PRESENTE ARTÍCULO, NO SERÁ APLICABLE A LOS DIPUTADOS LOCALES, PRESIDENTES MUNICIPALES, REGIDORES Y SÍNDICOS QUE HAYAN PROTESTADO EL CARGO EN LA LEGISLATURA O AYUNTAMIENTO QUE SE ENCUENTRE EN FUNCIONES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.]</small>
 
@@ -1641,21 +1661,25 @@ No son elegibles al cargo de Gobernador del Estado:
 
 I.- Los Secretarios de Estado de la Federación, los Ministros de la Suprema Corte de Justicia de la Nación, el Fiscal General (sic) la Republica, el Jefe de Gobierno de la Ciudad de México, los Magistrados del Supremo Tribunal de Justicia del Estado, los Titulares o Encargados de las Dependencias de los Ramos en que se divida la Administración Pública Estatal, el Fiscal General del Estado, los Militares en servicio activo y los ciudadanos con mando de fuerza en el Estado, a no ser que se separen definitivamente de su cargo, por lo menos seis meses antes de la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
 
-II.- Los que sean Ministros de cualquier culto religioso en los términos que señalen las leyes respectivas; y
+II.- Los que sean Ministros de cualquier culto religioso en los términos que señalen las leyes respectivas;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
 III.- El Consejero Presidente o Consejero Electoral en los consejos General, locales o distritales del Instituto Nacional Electoral, el Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección;
 
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
 
-IV.- El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección; y
+IV.- El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección;
 
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
 
-V.- No estar comprendido en alguno de los supuestos establecidos en el artículo 70 de esta Constitución.
+V.- No estar comprendido en alguno de los supuestos establecidos en el artículo 70 de esta Constitución; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2023)</small>
+
+VI.- Las personas que hayan tenido resolución firme por infracción que constituya violencia política contra las mujeres en razón de género, emitidas por los órganos jurisdiccionales en materia electoral, en tanto se extingue la sanción impuesta.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2553,17 +2577,21 @@ No podrán ser Presidentes Municipales, Síndicos o Regidores:
 
 I.- Los militares en servicio activo o el Secretario y Tesorero del Ayuntamiento a no ser que se separen de sus cargos cuando menos con sesenta días de anticipación al de la elección;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
 
-II.- Los que sean Ministros de cualquier culto religioso en los términos que establezcan las leyes respectivas; y
+II.- Los que sean Ministros de cualquier culto religioso en los términos que establezcan las leyes respectivas;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
 
-III.- El Consejero presidente o consejero electoral en los consejos General, locales o distritales del Instituto Nacional Electoral, el Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección.
+III.- El Consejero presidente o consejero electoral en los consejos General, locales o distritales del Instituto Nacional Electoral, el Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección;
 
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
 
-IV.- El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección.
+IV.- El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2023)</small>
+
+V.- Las personas que hayan tenido resolución firme por infracción que constituya violencia política contra las mujeres en razón de género, emitidas por los órganos jurisdiccionales en materia electoral, en tanto se extingue la sanción impuesta.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -4302,3 +4330,11 @@ P.O. 10 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 216, MEDIANTE EL CUAL SE REFORMA LOS ARTÍCULOS 6 PÁRRAFO TERCERO, 23 FRACCIÓN I, 24 FRACCIÓN II, 103 Y 105; Y SE DEROGAN LA FRACCIÓN XIV DEL ARTÍCULO 77 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 104 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 21 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 217 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 25, FRACCIONES V Y VI; 46, FRACCIONES II, III Y IV; 69, FRACCIONES II, IV Y V; Y 111, FRACCIONES II, III Y IV; Y SE ADICIONAN LOS ARTÍCULOS 25, CON LAS FRACCIONES VII Y VIII Y UN PÁRRAFO SEGUNDO; 46, CON UNA FRACCIÓN V; 69, CON UNA FRACCIÓN VI; Y 111, CON UNA FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
