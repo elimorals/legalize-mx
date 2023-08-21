@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-583-del-sistema-estatal-de-cultura-fisica-y-71081"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-26"
-last_updated: "2022-11-29"
+last_updated: "2023-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 583 DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2023.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 26 de noviembre de 2009.
 
@@ -388,6 +388,10 @@ I. Determinar las necesidades deportivas de manera conjunta con las autoridades 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2014)</small>
 
 II. Elaborar sus Planes Operativos Anuales conforme a las necesidades municipales y los Programas de Trabajo de acuerdo con el Programa Operativo Estatal del Deporte, a través del Consejo del Sistema Estatal del Deporte.
+
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2023)</small>
+
+II Bis. Promover campañas permanentes de fomento deportivo como instrumento de participación ciudadana y prevención de adicciones en la niñez, adolescencia y juventud, acorde a los problemas determinados de cada municipio, de conformidad con el Programa Operativo Estatal del Deporte;
 
 III. Otorgar estímulos, reconocimientos y apoyos para el desarrollo y fomento de las actividades deportivas en los municipios y promover a los clubes, ligas y asociaciones deportivas, para su incorporación al Sistema Estatal del Deporte, para gozar de sus beneficios;
 
@@ -1112,3 +1116,13 @@ G.O. 29 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 485 QUE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 21 DE LA LEY DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Se concede un plazo de noventa días, contado a partir del inicio de vigencia del presente Decreto, a efecto de que las administraciones municipales realicen las adecuaciones necesarias a sus reglamentos u otros ordenamientos para dar cumplimiento a lo previsto en este Decreto.
