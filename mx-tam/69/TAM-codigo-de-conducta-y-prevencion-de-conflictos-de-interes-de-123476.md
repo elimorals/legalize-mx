@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-123
 country: "mx"
 rank: "codigo"
 publication_date: "2017-08-24"
-last_updated: "2017-08-24"
+last_updated: "2023-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LA SECRETARIA DE OBRAS PUBLICAS DEL GOBIERNO DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE OBRAS PÚBLICAS, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE OBRAS PÚBLICAS DEL GOBIERNO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2023 (DEROGADO).
 
 Código publicado en el Anexo Número 102 del Periódico Oficial del Estado Libre y Soberano de Tamaulipas, el jueves 24 de agosto de 2017.
 
@@ -441,3 +443,25 @@ T R A N S I T O R I O S
 El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
 
 ATENTAMENTE.- LA SECRETARIA DE OBRAS PÚBLICAS DEL GOBIERNO DE ESTADO DE TAMAULIPAS.- CECILIA DEL ALTO LÓPEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE OBRAS PÚBLICAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Obras Públicas del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado Número 102, Tomo CXLII, el 24 de agosto de 2017.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo hasta su conclusión.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente acuerdo.
