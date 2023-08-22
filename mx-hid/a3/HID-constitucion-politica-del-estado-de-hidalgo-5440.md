@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2023-08-07"
+last_updated: "2023-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -59,15 +59,27 @@ El Estado de Hidalgo, como integrante de la Federación, es libre y soberano en 
 
 La Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las Leyes que de ellas emanen y los tratados internacionales de los que el Estado mexicano sea parte, integran el orden jurídico fundamental del Estado de Hidalgo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 3º.
 
-Las Autoridades y los servidores públicos del Estado no tienen más facultades que las que expresamente les concedan las normas jurídicas señaladas en el artículo anterior.
+En el Estado de Hidalgo, todas las personas tienen el derecho a una buena administración pública y a sus derechos derivados, que consiste en recibir un trato imparcial, objetivo y justo en el despacho de sus asuntos de carácter público, los cuales deberán ser resueltos oportunamente y conforme a los principios de eficacia, eficiencia, honestidad, honradez, austeridad, racionalidad, ética, legalidad, transparencia, rendición de cuentas, inclusión, igualdad y equidad.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-El Estado podrá, en los términos de Ley, convenir con la federación la asunción por parte de aquél, del ejercicio de funciones de dicha federación, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
+Las autoridades y las personas servidoras públicas del Estado, en todo momento someterán su actuación a las facultades que expresamente les concedan las normas señaladas en el artículo anterior, así como los reglamentos y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+En el ámbito de sus competencias, tendrán la obligación de orientar sus acciones a lograr el bienestar de la sociedad, así como de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, ésta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+A la gestión pública se deberán incorporar mecanismos de gobierno digital, además de promover y fomentar la inclusión digital de los ciudadanos.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+El Estado podrá, en los términos de Ley, celebrar los convenios de colaboración con la Federación para la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
@@ -4328,3 +4340,13 @@ P.O. 7 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 560 QUE REFORMA EL INCISO A) DE LA FRACCIÓN XVII Y LA FRACCIÓN XVIII DEL ARTÍCULO 141; Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 570 POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. En un plazo no mayor de 180 días naturales a partir de la entrada en vigor del presente Decreto, se deberán adecuar las leyes secundarias, los reglamentos y las disposiciones administrativas correspondientes para la correcta implementación del presente Decreto.
+
+TERCERO. Los Poderes Legislativo y Judicial, así como los órganos autónomos, emitirán las disposiciones necesarias y realizarán las acciones que les correspondan conforme a sus competencias con el propósito de cumplir con lo dispuesto en este Decreto, en un plazo no mayor de 60 días naturales posteriores al término del plazo señalado en el artículo transitorio anterior.
