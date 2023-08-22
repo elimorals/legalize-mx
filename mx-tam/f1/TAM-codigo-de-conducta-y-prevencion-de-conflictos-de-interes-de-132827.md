@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-132
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-18"
-last_updated: "2018-09-18"
+last_updated: "2023-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS TRABAJADORES DE LA SECRETARIA DEL TRABAJO DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO OCTAVO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS TRABAJADORES DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS TRABAJADORES DE LA SECRETARÍA DEL TRABAJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2023 (DEROGADO).
 
 Código publicado al Número 112 del Periódico Oficial del Estado de Tamaulipas, el martes 18 de septiembre de 2018.
 
@@ -468,3 +470,41 @@ Nombre ___________________
 Fecha _____________________
 
 Firma _____________________
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS TRABAJADORES DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Dirección Administrativa de la Secretaría del Trabajo y Previsión Social, deberá proveer lo necesario a efecto de que el presente Código de Conducta y Prevención de Conflictos de Interés de las y los trabajadores de la Secretaría del Trabajo y Previsión Social, sea del conocimiento de las y los servidores públicos de la Dependencia e instituciones que coordina, a través de los medios que considere adecuados, con lo que adquieren el compromiso de su cumplimiento.
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo establecido en este Código, las y los titulares de las unidades administrativas podrán impulsar las acciones que consideren necesarias para dar cumplimiento y garantizar su efectiva aplicación en el ámbito de sus competencias.
+
+###### ARTÍCULO CUARTO.
+
+El presente Código, es de observancia general en todas las unidades administrativas de la Secretaría del Trabajo y Previsión Social.
+
+###### ARTÍCULO QUINTO.
+
+El cumplimiento de este Código es un compromiso de las y los servidores públicos que integran la Secretaría del Trabajo y Previsión Social.
+
+###### ARTÍCULO SEXTO.
+
+Cualquier incumplimiento al Código por parte de las y los servidores públicos, deberá hacerse del conocimiento del Comité de Ética, Conducta y Prevención de Conflictos de Interés de la Secretaría del Trabajo y Previsión Social.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo, hasta su conclusión.
+
+###### ARTÍCULO OCTAVO.
+
+Se deroga el Código de Conducta y Prevención de Conflicto de Interés de las y los Trabajadores de la Secretaría del Trabajo, publicado en el Periódico Oficial del Estado Número 112, tomo CXLIII, de fecha 18 de septiembre del 2018.
