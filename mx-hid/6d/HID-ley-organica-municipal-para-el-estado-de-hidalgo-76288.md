@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2023-06-15"
+last_updated: "2023-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -429,21 +429,23 @@ Quienes integren el Observatorio Ciudadano desempeñarán sus actividades de man
 
 ### CAPÍTULO PRIMERO. DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 29.
 
-El Gobierno Municipal, se encomendará a un Ayuntamiento integrado por un Presidente, los Síndicos y los Regidores que establezca la Ley Electoral del Estado del (sic) Hidalgo.
+El gobierno municipal, se encomendará a un Ayuntamiento integrado por una Presidencia, las Sindicaturas y las Regidurías que establezca el Código Electoral del Estado de Hidalgo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
-
-Los Ayuntamientos serán electos por planilla, mediante sufragio directo, libre y secreto; durarán en su encargo cuatro años y se renovarán en su totalidad al término de cada periodo.
+Los Ayuntamientos serán electos por planilla, mediante sufragio directo, libre y secreto; durarán en su encargo tres años y se renovarán en su totalidad al término de cada periodo.
 
 En la elección de los Ayuntamientos, se aplica el principio de representación proporcional de acuerdo a las reglas que establezca la Ley de la materia.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 30.
 
-Los miembros del Ayuntamiento deberán residir en la Municipalidad respectiva y los que llegaren a estar en funciones, incluso en forma transitoria, no podrán ser electos para el período inmediato siguiente.
+Las personas integrantes del Ayuntamiento deberán residir en la municipalidad respectiva y las que llegaren a estar en funciones, incluso en forma transitoria, podrán ser electas por un periodo adicional, de conformidad con lo establecido en el artículo 125 de la Constitución Política del Estado de Hidalgo.
 
 ###### ARTÍCULO 31.
 
@@ -493,25 +495,29 @@ Si la falta absoluta del Ayuntamiento, acontece en los dos últimos años, el Co
 
 Si el Congreso del Estado no estuviere en periodo ordinario, la Diputación Permanente lo convocará a sesión extraordinaria para los efectos anteriores.
 
-Si alguno de los miembros del Ayuntamiento deja de desempeñar su cargo, será sustituido por su suplente o se procederá según lo disponga la Ley.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+Si alguna de las personas integrantes del Ayuntamiento deja de desempeñar su cargo, será sustituida por su suplente o se procederá según lo disponga la Ley.
 
-Los integrantes del Concejo Municipal deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Las personas que integren el Concejo Municipal deberán cumplir los requisitos de elegibilidad establecidos para aquellas que ocupen el cargo de regidurías.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 El cargo de integrante del Concejo Municipal es renunciable sólo por causas graves y justificadas que se calificarán con admisión o rechazo en sesión privada dentro de las 72 horas de haberse presentado la renuncia. A la sesión concurrirán todos los integrantes, con excepción del que haya presentado la renuncia. Se hará del conocimiento del Congreso del Estado para que realice lo conducente.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
-El Congreso del Estado, podrá suspender o remover al Concejo Municipal o alguno de sus integrantes, conforme a lo dispuesto por el artículo 77 de esta Ley y designará a quien los sustituya.
+El Congreso del Estado, podrá suspender o remover al Concejo Municipal o a alguna de las personas que lo integren, conforme a lo dispuesto por el artículo 77 de esta Ley y designará a quien las sustituya.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 ARTÍCULO 34 BIS.- El Concejo Municipal asumirá las funciones políticas y administrativas en dicho Municipio para tomar todas y cada una de las decisiones que corresponden originariamente al Ayuntamiento.
 
-Los integrantes del Concejo Municipal, tendrán los mismos derechos, obligaciones y facultades que los integrantes del Ayuntamiento.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+Las personas integrantes del Concejo Municipal tendrán los mismos derechos, obligaciones y facultades que las que integren el Ayuntamiento, sin tener derecho a la elección consecutiva por un periodo inmediato, de conformidad con lo establecido en el artículo 125 de la Constitución Política del Estado de Hidalgo.
 
 ###### ARTÍCULO 35.
 
@@ -658,6 +664,10 @@ El cargo de miembro del Ayuntamiento es renunciable sólo por causas graves y ju
 Cuando algún miembro del Ayuntamiento, esté impedido para continuar en su cargo, transitoria o indefinidamente, deberá solicitar licencia temporal o indefinida.
 
 La licencia es temporal hasta por treinta días y tendrá derecho a un máximo de dos licencias consecutivas y hasta cuatro alternadas, durante su gestión; cumplido esto, se tomará el acuerdo de otorgar licencia indefinida y se llamará al suplente.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
+En el supuesto de que cualquiera de las personas integrantes del Ayuntamiento soliciten la licencia con la finalidad de separarse de su encargo y postularse para la elección consecutiva, además del número de licencias señaladas en el párrafo anterior, podrán solicitar una licencia temporal hasta por sesenta días antes del día de la elección, dentro del proceso electoral correspondiente, conforme al calendario electoral aprobado por el Consejo General del Instituto Estatal Electoral.
 
 Cuando alguno de los miembros del Ayuntamiento renuncie o solicite licencia temporal o indefinida al cargo, no podrá participar en la votación de la sesión respectiva.
 
@@ -1349,11 +1359,13 @@ VII.- Abstenerse de intervenir o participar indebidamente en la selección, nomb
 
 El Presidente Municipal tiene la representación del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
+
 ###### ARTÍCULO 64.
 
-Las faltas del Presidente Municipal que no excedan de quince días, serán cubiertas por el Secretario General Municipal, cuando excedan de este término será llamado el Suplente; si éste faltare, tomará el cargo de la Presidencia el Regidor que apruebe el Ayuntamiento, si antes no se nombrara el sustituto por el Congreso del Estado.
+Las faltas de la persona titular de la Presidencia Municipal que no excedan de quince días, serán cubiertas por la persona titular de la Secretaría General Municipal, cuando excedan de este término será llamada la persona Suplente; si ésta faltare, tomará el cargo de la Presidencia la persona Regidora que apruebe el Ayuntamiento, si antes no se nombrara a la persona sustituta por el Congreso del Estado.
 
-El Ayuntamiento podrá conceder licencia al Presidente Municipal hasta por treinta días llamando a quien debe suplirlo; si la licencia fuese por un periodo mayor, conocerá de ella y resolverá el Congreso del Estado, escuchando previamente la opinión del Ayuntamiento.
+El Ayuntamiento podrá conceder licencia a la persona titular de la Presidencia Municipal hasta por treinta días llamando a la persona que debe suplirla; si la licencia fuese por un periodo mayor, conocerá de ella y resolverá el Congreso del Estado, escuchando previamente la opinión del Ayuntamiento.
 
 ###### ARTÍCULO 65.
 
@@ -4214,3 +4226,13 @@ P.O. 15 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 529 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 574 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO Y DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+TERCERO. Las personas candidatas electas en el proceso electoral 2023-2024, en el que se celebre la elección de Ayuntamientos, podrán ejercer el derecho a participar en la elección consecutiva al mismo cargo, en el proceso electoral 2026-2027, cuya elección se celebre el primer domingo de junio del año 2027.
